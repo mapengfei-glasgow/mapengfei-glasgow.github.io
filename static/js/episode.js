@@ -13,7 +13,8 @@
   const nowEl = document.getElementById("now-playing");
   if (!items.length || !playAllBtn) return;
 
-  let current = null; // { li, audio, index }
+  let current = null;  // { li, audio, index }
+  let nextPre = null;  // preloaded { audio, index } for gap-free auto-continue
   let selected = -1;
 
   function clearHighlights(li) {
@@ -33,14 +34,50 @@
     if (li && li.querySelector(".notes")) li.classList.add("show-notes");
   }
 
+  function makeAudio(i) {
+    const a = new Audio();
+    a.preload = "auto";
+    a.src = dir + items[i].dataset.file;
+    return a;
+  }
+
+  // Detach handlers BEFORE clearing src: src="" otherwise fires onerror
+  // with audio.src resolved to the page URL.
+  function release(a) {
+    a.onerror = null;
+    a.ontimeupdate = null;
+    a.onended = null;
+    a.pause();
+    a.src = "";
+  }
+
+  function clearPre() {
+    if (nextPre) {
+      release(nextPre.audio);
+      nextPre = null;
+    }
+  }
+
+  // Start fetching the next clip while the current one still plays.
+  function primeNext(i) {
+    const ni = i + 1;
+    if (ni >= items.length) {
+      clearPre();
+      return;
+    }
+    if (nextPre && nextPre.index === ni) return;
+    clearPre();
+    nextPre = { audio: makeAudio(ni), index: ni };
+  }
+
   function stop() {
     if (current) {
-      current.audio.pause();
-      current.audio.src = "";
+      release(current.audio);
       current.li.classList.remove("playing");
       current.li.querySelector(".progress").style.width = "0%";
       current = null;
     }
+    clearPre();
     nowEl.textContent = "";
     playAllBtn.textContent = "▶ 播放全部";
   }
@@ -50,14 +87,18 @@
       stop();
       return;
     }
-    if (current) {
-      current.audio.pause();
-      current.audio.src = "";
-      current = null;
-    }
+    if (current) release(current.audio);
+    current = null;
+
     const li = items[i];
-    const audio = new Audio();
-    audio.src = dir + li.dataset.file;
+    let audio;
+    if (nextPre && nextPre.index === i) {
+      audio = nextPre.audio;  // already fetching: near-seamless handoff
+      nextPre = null;
+    } else {
+      clearPre();
+      audio = makeAudio(i);
+    }
     current = { li, audio, index: i };
     selected = i;
 
@@ -89,13 +130,18 @@
       }
     };
     audio.onerror = function () {
+      if (!current || current.audio !== audio || !audio.src) return;
       nowEl.textContent = "⚠ 音频加载失败: " + audio.src;
       li.classList.remove("playing");
       current = null;
     };
     audio.play().catch(function (e) {
+      // play() is rejected with AbortError when a stop() cut in first
+      if (e && (e.name === "AbortError" || e.name === "NotAllowedError")) return;
+      if (!current || current.audio !== audio) return;
       nowEl.textContent = "⚠ 无法播放: " + e.message + " — " + audio.src;
     });
+    primeNext(i);
     li.scrollIntoView({ behavior: "smooth", block: "center" });
   }
 
