@@ -40,6 +40,30 @@ cd ~/dcgrid/english-site
 ../bin/hugo --minify                            # 构建到 public/
 ```
 
+## 发布到 GitHub Pages
+
+站点发布在 <https://mapengfei-glasgow.github.io/podcast-english/>，
+仓库为 `mapengfei-glasgow/podcast-english`。
+
+`.github/workflows/deploy.yml` 在每次 push 到 `main` 时自动：
+下载 Hugo extended 0.165.0 → `hugo --minify --baseURL <Pages URL>` →
+`actions/deploy-pages` 发布 `public/`。Pages 的构建模式已设为 **workflow**，
+所以 `git push` 即自动上线，本地 `public/` 不入库。
+
+> 注意：Pages 在子路径 `/podcast-english/` 下，靠构建时的 `--baseURL`
+> 生成正确的绝对地址；本地构建用 `baseURL = "/"`，两者互不影响。
+
+发布一集：
+
+```bash
+cd ~/dcgrid/english-site
+git add -A && git commit -m "add episode ..."
+git -c credential.helper='!~/dcgrid/bin/gh auth git-credential' push origin main
+```
+
+> 沙箱里 gh 的登录态在 `~/dcgrid/.gh-config/`（`GH_CONFIG_DIR`），
+> 推送需带 `GH_CONFIG_DIR=~/dcgrid/.gh-config` 让 credential helper 找到 token。
+
 ## 页面上怎么用
 
 - 点任意句子 → 只读那一句；再点一下停止
