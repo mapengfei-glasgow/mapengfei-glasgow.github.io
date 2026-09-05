@@ -27,13 +27,18 @@
         data-end="{{ $s.end }}">
       <span class="idx">{{ $i }}</span>
       <span class="text">{{ $s.text }}</span>
+      {{ with $s.notes }}
+      <div class="notes">
+        {{ range . }}<span class="note{{ if .phrase }} phrase{{ end }}"><span class="w">{{ .word }}</span>{{ with .ipa }}<span class="ipa">{{ . }}</span>{{ end }}<span class="g">{{ .gloss }}</span></span>{{ end }}
+      </div>
+      {{ end }}
       <div class="bar"><div class="progress"></div></div>
     </li>
     {{ end }}
   </ol>
 
   <p class="hint">
-    点击某句 → 只读那一遍；再点一次停止。
+    点击某句 → 只读那一遍，并展开该句的词汇注释（难词带音标与释义）；再点一次停止。
     键盘：↑/↓ 选句，空格 播放/停止。
   </p>
 </article>

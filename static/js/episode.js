@@ -25,6 +25,14 @@
     }
   }
 
+  // Reveal the vocabulary notes for one sentence, hiding the others.
+  function revealNotes(li) {
+    for (const el of items) {
+      if (el !== li) el.classList.remove("show-notes");
+    }
+    if (li && li.querySelector(".notes")) li.classList.add("show-notes");
+  }
+
   function stop() {
     if (current) {
       current.audio.pause();
@@ -56,6 +64,7 @@
     clearHighlights(li);
     li.classList.add("playing");
     markSelected();
+    revealNotes(li);
     nowEl.textContent = (i + 1) + " / " + items.length;
     playAllBtn.textContent = "⏹ 停止";
 
@@ -122,6 +131,7 @@
       if (selected < 0) selected = delta > 0 ? 0 : items.length - 1;
       else selected = Math.max(0, Math.min(items.length - 1, selected + delta));
       markSelected();
+      revealNotes(items[selected]);
       items[selected].scrollIntoView({ behavior: "smooth", block: "center" });
     }
   });

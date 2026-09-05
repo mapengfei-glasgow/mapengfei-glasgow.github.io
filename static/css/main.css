@@ -314,6 +314,35 @@ main {
   line-height: 1.75;
   word-spacing: 0.03em;
 }
+/* 词汇注释：点句后展开，词注为主、短语注用玫红区分 */
+.notes {
+  grid-column: 2;
+  display: none;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin-top: 0.35em;
+}
+.sentence.show-notes .notes { display: flex; }
+.note {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.45em;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.16em 0.6em;
+  font-size: 0.78rem;
+  line-height: 1.6;
+}
+.note .w { font-weight: 600; }
+.note .ipa {
+  font-family: var(--font-mono);
+  color: var(--primary);
+  font-size: 0.76rem;
+}
+.note .g { color: var(--muted); }
+.note.phrase .w { color: var(--accent); }
+
 .sentence .bar {
   grid-column: 2;
   height: 3px;
