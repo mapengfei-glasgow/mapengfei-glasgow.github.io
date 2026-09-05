@@ -1,0 +1,10 @@
+baseURL = "/"
+locale = "zh-CN"
+hasCJKLanguage = true
+title = "Podcast 英语听力"
+description = "把播客音频切成一句句，点哪句读哪句，用来练英语听力。"
+enableRobotsTXT = true
+
+[markup]
+  [markup.highlight]
+    style = "monokai"

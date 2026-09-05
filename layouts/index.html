@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="intro">
+  <h1>把播客拆成一句句，<em>点哪句读哪句</em></h1>
+  <p>每集节目被自动转写、按句切好音频。点击任意句子，就只朗读那一句——
+  可以精听、跟读、反复听生词句。下面的每集都可以直接开始。</p>
+</section>
+
+<section class="ep-list">
+  <h2>节目</h2>
+  {{ range where .Site.RegularPages "Section" "episodes" }}
+  <a class="ep-card" href="{{ .RelPermalink }}">
+    <div class="ep-title">{{ .Title }}</div>
+    <div class="ep-meta">
+      <span>{{ .Params.show }}</span>
+      <span>·</span>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <span>·</span>
+      <span>{{ len .Params.sentences }} 句</span>
+    </div>
+  </a>
+  {{ else }}
+  <p class="empty">还没有节目。用 <code>tools/make_episode.py</code> 从 MP3 生成一集试试。</p>
+  {{ end }}
+</section>
+{{ end }}

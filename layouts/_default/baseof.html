@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsPage }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ .Site.Params.Description }}">
+  <script>
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem("ds-theme"); } catch (e) {}
+      if (t !== "light" && t !== "dark") {
+        t = window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      }
+      document.documentElement.setAttribute("data-theme", t);
+    })();
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+  <script src="{{ "js/episode.js" | absURL }}" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-bar">
+      <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+      <button id="theme-toggle" class="theme-btn" type="button"
+              aria-label="切换深浅色模式" title="切换深浅色模式"></button>
+    </div>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <p>{{ .Site.Title }} · Hugo + faster-whisper 生成 · 点击任意句子即可朗读</p>
+  </footer>
+  <script>
+    (function () {
+      var btn = document.getElementById("theme-toggle");
+      if (!btn) return;
+      var root = document.documentElement;
+      function label() {
+        btn.textContent = root.getAttribute("data-theme") === "dark" ? "☀" : "☾";
+      }
+      function setTheme(t, save) {
+        root.setAttribute("data-theme", t);
+        if (save) { try { localStorage.setItem("ds-theme", t); } catch (e) {} }
+        label();
+      }
+      label();
+      btn.addEventListener("click", function () {
+        setTheme(root.getAttribute("data-theme") === "dark" ? "light" : "dark", true);
+      });
+      try {
+        var mq = matchMedia("(prefers-color-scheme: dark)");
+        var onChange = function (e) {
+          var saved = null;
+          try { saved = localStorage.getItem("ds-theme"); } catch (err) {}
+          if (!saved) setTheme(e.matches ? "dark" : "light", false);
+        };
+        if (mq.addEventListener) mq.addEventListener("change", onChange);
+        else if (mq.addListener) mq.addListener(onChange);
+      } catch (e) {}
+    })();
+  </script>
+</body>
+</html>

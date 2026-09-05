@@ -1,0 +1,214 @@
+---
+layout: single
+title: "Venezuela and the US hail new oil deal"
+show: "Global News Podcast"
+date: 2026-09-03T00:00:00Z
+slug: "2026-09-03-venezuela-and-the-us-hail-new-oil-deal"
+audioDir: "2026-09-03-venezuela-and-the-us-hail-new-oil-deal"
+totalDuration: 1834.6
+sentences:
+  - {text: "BBC Sound's Music Radio Podcasts. This is the Global News Podcast from the BBC World Service.", file: "0001.mp3", start: 1.10, end: 8.89}
+  - {text: "Hello, I'm Uncle Desai and in the early hours of Thursday the 3rd of September, these are our main stories.", file: "0002.mp3", start: 11.50, end: 17.02}
+  - {text: "Venezuela and the US held a new all -deal which hands over a fifth of Venezuela's crude.", file: "0003.mp3", start: 17.70, end: 23.10}
+  - {text: "But critics say it's neocolonialism and likely to entrench the current authoritarian leadership. Protests across Spain in support of Sayuta, the Spanish territory that's seen a steep rise", file: "0004.mp3", start: 23.70, end: 35.50}
+  - {text: "in migrants, and New York's Mayor Zoran Mamdani announces a one -year ban on AI in schools for children up to the age of 14.", file: "0005.mp3", start: 35.50, end: 43.64}
+  - {text: "Also in this podcast, we hear from southern Lebanon where Israel's occupation shows no sign of easing. And the lighting is incredibly low, that's to protect this fragile", file: "0006.mp3", start: 46.81, end: 58.61}
+  - {text: "artwork, but there is enough light to see the drama of it, this epic story of Anglo -French relations. For the first time in almost a thousand years,", file: "0007.mp3", start: 58.61, end: 69.67}
+  - {text: "the historic Beotapestry is set to go and display to the public here in the UK.", file: "0008.mp3", start: 69.83, end: 74.55}
+  - {text: "Venezuela has the world's largest proven oil reserves, but since the late 1990s its oil production has declined by around 70%. The gap between rich and poor has", file: "0009.mp3", start: 79.88, end: 90.46}
+  - {text: "widened, and ordinary people have failed to benefit from the country's oil wealth. In January, President Trump forcibly removed President Nicolas Maduro from power, but backed his deputy,", file: "0010.mp3", start: 90.46, end: 101.28}
+  - {text: "Delci Rodriguez, as Venezuela's leader. On Wednesday, a massive oil deal was signed in the capital Caracas between the US and Venezuela.", file: "0011.mp3", start: 101.50, end: 109.42}
+  - {text: "It grants the US -led company licenses to exploit 17 oil fields, amounting to 65 billion barrels of oil.", file: "0012.mp3", start: 109.94, end: 117.26}
+  - {text: "After the signing ceremony in Caracas, the US Energy Secretary, Chris Wright, had this to say. Today is a historic day in the transformation of Venezuela and the", file: "0013.mp3", start: 117.86, end: 129.10}
+  - {text: "expansion of the possibilities for the Venezuelan people. President Trump's mission in Venezuela is to bring peace,", file: "0014.mp3", start: 129.10, end: 138.26}
+  - {text: "freedom, opportunity and prosperity to the people of Venezuela. Seated to his left was the interim president of Venezuela, Delci Rodriguez.", file: "0015.mp3", start: 138.74, end: 149.90}
+  - {text: "She said the deal would generate $200 billion in tax revenue. When I talk about increasing production,", file: "0016.mp3", start: 150.70, end: 160.00}
+  - {text: "I am talking about the well -being of the Venezuelan people. I mean making sure that increased production in our oil,", file: "0017.mp3", start: 160.58, end: 167.22}
+  - {text: "gas and petrochemical industries translates into more jobs, higher wages, better public services, hospitals,", file: "0018.mp3", start: 167.70, end: 175.80}
+  - {text: "schools and food. It means improving the well -being of a country that as a whole is seeking prosperity and a better future.", file: "0019.mp3", start: 176.44, end: 184.96}
+  - {text: "That is the transformation Venezuela needs. But others are more skeptical and have criticised the deal for giving away too much to the Americans.", file: "0020.mp3", start: 185.69, end: 194.81}
+  - {text: "I spoke to our Latin America correspondent, Will Grant, who has previously lived in Venezuela and asked just how is this huge deal going to work? It will", file: "0021.mp3", start: 195.51, end: 204.49}
+  - {text: "be run through a company called North American Blue Energy Partners run by a man called Alexander Bettencourt. What I've been hearing from Venezuelans on the streets, through", file: "0022.mp3", start: 204.49, end: 216.51}
+  - {text: "colleagues there, through journalists reporting in Caracas, is that there's a sense, particularly among ordinary people, that they simply don't know the details of what's being agreed. A", file: "0023.mp3", start: 216.51, end: 227.57}
+  - {text: "sense, as you can imagine, for many that the country's resources are being, as it were,", file: "0024.mp3", start: 227.57, end: 233.01}
+  - {text: "gifted to Washington, which on the left runs so against the tenants of Hugo Chavez, his anti -Americanism, his antipathy to Washington during George Bush Jr.'s time in", file: "0025.mp3", start: 233.55, end: 246.85}
+  - {text: "office. So, yeah, it is a very, very difficult one to square with many ordinary people, although the United Socialist Party, that the governing party in Venezuela has", file: "0026.mp3", start: 246.85, end: 258.21}
+  - {text: "backed Delcey Rodriguez, the interim president. A lot of people will be wondering and be quite concerned about the benefit of this to ordinary Venezuelans and how long", file: "0027.mp3", start: 258.21, end: 267.59}
+  - {text: "is this likely to take as well? It's a huge deal in and of itself. And alongside it, there have been new deals signed between a number of", file: "0028.mp3", start: 267.59, end: 275.95}
+  - {text: "international energy firms, including Chevron and the Venezuelan government, that are supposedly directed towards things like reconstructing and rebuilding the electrical grid, things like this, that make it", file: "0029.mp3", start: 275.95, end: 289.07}
+  - {text: "vital for Venezuela to get back to some kind of a normal footing so that production can get back to the areas, not that it was sort of", file: "0030.mp3", start: 289.07, end: 297.75}
+  - {text: "15, 20 years ago, but simply what it was producing 40 years ago, 30 years ago.", file: "0031.mp3", start: 297.75, end: 302.87}
+  - {text: "So there's a lot of work that needs doing before this giant accord between Washington and Caracas can actually start to bear fruit. Of course, President Trump says", file: "0032.mp3", start: 303.35, end: 312.33}
+  - {text: "that he believes it will start working within two to three years. Energy experts that we've heard from have said that it's more like a decade before there'll", file: "0033.mp3", start: 312.33, end: 322.19}
+  - {text: "be any real fruit felt from these accords. Donald Trump says it's too early for elections in Venezuela. How likely is this news to to go down with", file: "0034.mp3", start: 322.19, end: 331.55}
+  - {text: "people there? And I'm also bearing in mind Delcy Rodriguez and her approval ratings as well. Yeah, I think the fact that Donald Trump says the country simply", file: "0035.mp3", start: 331.55, end: 339.15}
+  - {text: "isn't, as he put it, ready for elections is going to be deeply concerning to those in opposition,", file: "0036.mp3", start: 339.15, end: 344.41}
+  - {text: "who really are pressuring, not just Mr. Trump, but also Michael Rubio, to start moving towards elections as soon as possible. And Michael Rubio has spoken to a", file: "0037.mp3", start: 344.99, end: 355.33}
+  - {text: "Spanish language outlet. He has spoken to Fox News where he says, look, if it was possible, we'd have them as soon as possible. But if it were", file: "0038.mp3", start: 355.33, end: 362.07}
+  - {text: "to happen now, the regime would use the same broken infrastructure of elections that it is used to maintain its grip on power. I think the opposition is", file: "0039.mp3", start: 362.07, end: 372.95}
+  - {text: "saying they are very uncomfortable with seeing such a close relationship between Delcy Rodriguez and the Trump administration, even raising the suggestion that such a major energy deal", file: "0040.mp3", start: 372.95, end: 383.97}
+  - {text: "can't legally be reached by a transitional government. Now, that has been pushed back by the National Assembly, made up, of course, of loyalists to Delcy Rodriguez.", file: "0041.mp3", start: 383.97, end: 393.19}
+  - {text: "But this is becoming really sticky politically, I think, not just in Venezuela, but for the Trump administration more broadly. We'll grant.", file: "0042.mp3", start: 393.89, end: 401.47}
+  - {text: "Tens of thousands of people have been demonstrating against the Spanish government's handling of the migrant crisis in the territory of Souta on the tip of North Africa.", file: "0043.mp3", start: 402.43, end: 411.19}
+  - {text: "Five weeks ago, more than 70 ,000 people forced their way from Morocco into the Spanish territory.", file: "0044.mp3", start: 411.79, end: 417.07}
+  - {text: "Large numbers have since left, but several thousand migrants remain in makeshift camps. Quay Hechco was at one of the protests in Madrid. I'm in central Madrid, where", file: "0045.mp3", start: 417.71, end: 427.21}
+  - {text: "probably the biggest protest is just getting underway. And there are certainly thousands of people here. There are also protests in the others of big cities across the", file: "0046.mp3", start: 427.21, end: 435.93}
+  - {text: "country, Barcelona, Valencia, Seville, obviously also in Souta itself. So it does seem that people are turning out. It started out as a humanitarian crisis. I just remember", file: "0047.mp3", start: 435.93, end: 445.89}
+  - {text: "that more than 100 migrants died when they made that crossing. Many of them drowned,", file: "0048.mp3", start: 445.89, end: 450.59}
+  - {text: "but it's become more of a social and political crisis now. There are still several thousand migrants on the streets or on the beaches of Souta. They don't", file: "0049.mp3", start: 451.23, end: 460.39}
+  - {text: "have proper homes, most of them or shelter, even though the government is building those temporary shelters.", file: "0050.mp3", start: 460.39, end: 466.57}
+  - {text: "And so it is a huge challenge. Logistically, it's also a political problem for the government because the opposition is saying that the government simply hasn't acted swiftly", file: "0051.mp3", start: 467.17, end: 477.25}
+  - {text: "enough on this and it's almost encouraging Morocco, for example, to make its own sovereignty claims on Souta. Morocco has long claimed Souta for itself, saying it should", file: "0052.mp3", start: 477.25, end: 490.29}
+  - {text: "belong to Morocco. So that's another front which has opened up for the government as well. And the issues causing headaches for the Spanish government don't end there.", file: "0053.mp3", start: 490.29, end: 498.95}
+  - {text: "A leaked police report appears to contradict the government's own account of what happened in Souta.", file: "0054.mp3", start: 499.29, end: 505.11}
+  - {text: "Aito Hernandez Morales, a Spain reporter for Politico, has been following the story. Immediately after the migrant search happened back in August,", file: "0055.mp3", start: 505.77, end: 514.19}
+  - {text: "a local judge opened an investigation into the causes of that surge and who might have been behind that. And as part of that investigation, she asked the", file: "0056.mp3", start: 514.93, end: 523.29}
+  - {text: "National Police to conduct its own investigation. Well, that report landed this week. And even though we haven't seen it, it has been leaked to the Spanish press", file: "0057.mp3", start: 523.29, end: 532.07}
+  - {text: "and it indicates that security forces have determined that Morocco was very much behind this surge, that Moroccan agents were behind the social media accounts urging migrants to", file: "0058.mp3", start: 532.07, end: 544.01}
+  - {text: "go to the border. And that, in fact, Moroccan securities forces helped migrants cross over and indicated the path that they should follow to enter Spanish territory.", file: "0059.mp3", start: 544.01, end: 552.29}
+  - {text: "Now, we have to keep in mind that from the very beginning, Sanchez called this an attack, but then he declined to say who was behind the attack", file: "0060.mp3", start: 552.77, end: 561.13}
+  - {text: "and members of his government took pains to ensure that Morocco was not directly accused. At the beginning of this week, when Sanchez gave his first interview since", file: "0061.mp3", start: 561.13, end: 569.89}
+  - {text: "this crisis began, he said categorically that there was no evidence that this had been coordinated or spearheaded by Morocco.", file: "0062.mp3", start: 569.89, end: 577.23}
+  - {text: "This report directly contradicts his version of events. And it really does set up a very uncomfortable situation where either the prime minister will be obliged to admit", file: "0063.mp3", start: 577.75, end: 589.19}
+  - {text: "that he misled the public or that he had no idea what kind of information his own security forces were handling. Aito Hernandez Morales.", file: "0064.mp3", start: 589.19, end: 597.97}
+  - {text: "More than 1 ,200 people are now confirmed dead and nearly 4 ,500 are still missing a week after the collapse of a glacier in the Himalayas and", file: "0065.mp3", start: 599.14, end: 609.30}
+  - {text: "leashed flash flooding devastating parts of Nepal and Tibet. The United Nations says its response is now focused on relief and recovery rather than rescue.", file: "0066.mp3", start: 609.30, end: 619.70}
+  - {text: "Azadeh Mashiri reports now from Dunjen, where local residents are still searching for survivors.", file: "0067.mp3", start: 620.28, end: 625.86}
+  - {text: "Deep in Nepal's treacherous mountains, the lifeline of relentless rescue operations, they face changing weather,", file: "0068.mp3", start: 627.61, end: 635.16}
+  - {text: "stalling their missions amid a race to find survivors. It is pouring rain and rescue teams have already said that the weather as well as the mountainous terrain", file: "0069.mp3", start: 635.68, end: 645.72}
+  - {text: "is making such rescue operations extremely difficult, especially in a place like Rasoa, which is remote.", file: "0070.mp3", start: 645.72, end: 653.34}
+  - {text: "Rescue missions depend on helicopters. Haunted, cut off from the rest of the country, people here wait to be airlifted to Kathmandu.", file: "0071.mp3", start: 653.86, end: 663.05}
+  - {text: "They were stranded in their villages for days. Kermul Daman is now a widow.", file: "0072.mp3", start: 663.63, end: 670.28}
+  - {text: "Her husband, Churme, was a laborer working further down the mountain in the fields of Timure.", file: "0073.mp3", start: 670.90, end: 675.62}
+  - {text: "The area was ravaged by the flood. She is travelling to perform his last rites.", file: "0074.mp3", start: 676.08, end: 680.76}
+  - {text: "Nima asks me how she can go on. Desperate, scared, she is now alone in caring for her child.", file: "0075.mp3", start: 682.38, end: 690.58}
+  - {text: "Her husband was swept away in the flood, as well as several of her relatives.", file: "0076.mp3", start: 691.44, end: 695.20}
+  - {text: "He was waiting for the bus to see her through. He called me at 8am and told me the bus hadn't arrived yet.", file: "0077.mp3", start: 697.26, end: 703.36}
+  - {text: "And then the flood came. Five -year -old Chiring is alarmingly sick. She's had a fever for four days and rarely opens her eyes.", file: "0078.mp3", start: 703.84, end: 711.74}
+  - {text: "The local hospital has done all it can. They say she needs treatment in the capital.", file: "0079.mp3", start: 712.30, end: 717.02}
+  - {text: "I'm worried about my daughter. I worry she might die. Amid the devastation, the loss,", file: "0080.mp3", start: 718.00, end: 725.51}
+  - {text: "rescue efforts continue. Hundreds of workers are still trapped in tunnels buried in Nepal's mountains.", file: "0081.mp3", start: 726.31, end: 732.31}
+  - {text: "Water has slowed down missions like these. Rescuers are breathing difficult conditions against fading odds.", file: "0082.mp3", start: 734.31, end: 741.03}
+  - {text: "A week from the flood, this is the scale of the destruction and the challenge at hand.", file: "0083.mp3", start: 742.35, end: 747.73}
+  - {text: "As a day, Mishiri reporting. Now to concerns about the use of artificial intelligence in school classrooms.", file: "0084.mp3", start: 748.25, end: 755.37}
+  - {text: "New York's Mayor Zoran Mamdani has announced a one -year ban on AI in public elementary and middle schools. That's children up to the age of 14.", file: "0085.mp3", start: 755.95, end: 765.09}
+  - {text: "He said that while the school system will embrace new technology, the aim is for AI to not replace student -teacher interaction. Children need their teachers and human", file: "0086.mp3", start: 765.65, end: 775.33}
+  - {text: "connection in order to learn and in order to grow. And they need to develop skills alongside their peers,", file: "0087.mp3", start: 775.33, end: 781.49}
+  - {text: "build relationships with their teachers and wrestle with tough problems on their own. The tech industry wants us to believe that AI in early education is not only", file: "0088.mp3", start: 782.07, end: 791.45}
+  - {text: "inevitable, but that it is necessary. We do not see it that way. I have yet to see a study showing that AI is beneficial for students in", file: "0089.mp3", start: 791.45, end: 799.57}
+  - {text: "elementary and middle school, with the exception, of course, of research sponsored by the very corporations that stand to profit. Shane Haslett, White House reporter at Politico, told", file: "0090.mp3", start: 799.57, end: 808.57}
+  - {text: "us more. I mean, I think with Mamdani and Governor Kathy Hockel of New York, there are two,", file: "0091.mp3", start: 808.57, end: 812.99}
+  - {text: "you're seeing essentially the forefront of our politicians who want to endorse some of the most stringent AI policy in the country, both on safety and on data", file: "0092.mp3", start: 813.47, end: 822.83}
+  - {text: "centers. And you're only seeing that really spread among other Democrats, but also Republicans across the country. Now, that's different from what we're seeing in Washington, where we", file: "0093.mp3", start: 822.83, end: 833.31}
+  - {text: "have much more pro -AI and pro -innovation stands from the White House. But that is, of course, running up against some of these pretty concerning recent revelations", file: "0094.mp3", start: 833.31, end: 843.53}
+  - {text: "of what these AI agents are capable of doing independently when they're asked to complete tests and to show what they're capable of so that these companies can", file: "0095.mp3", start: 843.53, end: 853.81}
+  - {text: "run them up against their competitors and say what types of new models they're rolling out. And these models have been able to essentially get around. So these", file: "0096.mp3", start: 853.81, end: 862.89}
+  - {text: "tests use each other to cheat on these tests that's called reward hacking when they're working to please their their bosses or the people who are testing them", file: "0097.mp3", start: 862.89, end: 871.59}
+  - {text: "because they're, of course, not trained to consider, you know, the morality of some of these evaluations. So it's it's running up against a very, a very new", file: "0098.mp3", start: 871.59, end: 880.23}
+  - {text: "and very unprecedented territory. Shea and Hasslet. Still to come in this podcast. There's a great word,", file: "0099.mp3", start: 880.23, end: 890.12}
+  - {text: "cacostocracy. I think maybe we have a cacostocracy right now, but we'll get through it. Just what did the Hollywood actor George Clooney mean when he said the", file: "0100.mp3", start: 890.66, end: 900.04}
+  - {text: "US was being run by a cacostocracy? This is the Global News podcast. The Indonesian government is warning that the country's air quality crisis could worsen as El", file: "0101.mp3", start: 900.04, end: 918.26}
+  - {text: "Nino fuels even drier conditions. Hundreds of wildfires continue to burn in six provinces across the country.", file: "0102.mp3", start: 918.26, end: 925.14}
+  - {text: "Efforts are intensifying to contain the toxic haze, which has pushed air pollution to hazardous levels and forced thousands of schools to close.", file: "0103.mp3", start: 925.70, end: 934.42}
+  - {text: "This woman lives in the Kalimantan region of the island of Borneo. We hope that it rains soon. The students in various parts of East Kalimantan are being", file: "0104.mp3", start: 934.94, end: 946.54}
+  - {text: "made to study at home. So we hope the weather recovers and the fires stop.", file: "0105.mp3", start: 946.54, end: 950.22}
+  - {text: "The government has done all it can, but we still have fires deeper in the forest.", file: "0106.mp3", start: 950.86, end: 954.84}
+  - {text: "So now we just pray. Our Indonesia correspondent, Lisa Tambunan has been following developments from Jakarta. Fires are occurring on the islands of Sumatra and Kalimantan.", file: "0107.mp3", start: 955.54, end: 967.30}
+  - {text: "And most of the hotspots are in Kalimantan. There are thousands of hotspots emitting a lot of fire and haze with the majority in West Kalimantan and Central", file: "0108.mp3", start: 967.78, end: 977.92}
+  - {text: "Kalimantan. The air quality has become extremely hazardous to human health. Over there, readings can reach up to 600 and sometimes at several points during the day, even", file: "0109.mp3", start: 977.92, end: 989.72}
+  - {text: "over 800. And air quality above 100 is already unhealthy. So we can see the staggering numbers and on social media, lots of people are posting about limited", file: "0110.mp3", start: 989.72, end: 1003.16}
+  - {text: "visibility that they're experiencing in their neighborhoods. And this is also affecting flights due to very low visibility.", file: "0111.mp3", start: 1003.16, end: 1010.80}
+  - {text: "And where flights are either delayed or redirected, it's also affecting daily activities for schools. West Dunes are now resorting to online classes.", file: "0112.mp3", start: 1011.52, end: 1022.68}
+  - {text: "And because of this toxic haze, there have been a rising number of respiratory infections with the Health Ministry reporting over 50 ,000 cases between July and August.", file: "0113.mp3", start: 1023.36, end: 1035.80}
+  - {text: "And over 12 ,000 of these cases are of children under the age of five.", file: "0114.mp3", start: 1036.32, end: 1041.44}
+  - {text: "And this has been going on for weeks. The Health Ministry and the government are noting that September might be an even more challenging time as El Nino", file: "0115.mp3", start: 1041.90, end: 1051.76}
+  - {text: "is peaking. El Nino is not the main cause of this, but it is exacerbating fires and the haze due to the dry conditions.", file: "0116.mp3", start: 1051.76, end: 1059.66}
+  - {text: "Lisa Tambunan in Jakarta. Now to southern Lebanon, officially a ceasefire is in place there between Israel and the Lebanese government.", file: "0117.mp3", start: 1060.32, end: 1069.43}
+  - {text: "That's agreement promised a gradual withdrawal of Israeli troops from the area. But on the ground, conditions have only become worse.", file: "0118.mp3", start: 1070.07, end: 1077.75}
+  - {text: "The UN's peacekeeping force in Lebanon says Israel has expanded its presence in the region,", file: "0119.mp3", start: 1078.39, end: 1083.59}
+  - {text: "establishing four new military bases. It's also said to be demolishing buildings and carrying out airstrikes.", file: "0120.mp3", start: 1084.09, end: 1090.93}
+  - {text: "A Middle East correspondent Hugo Beshaga visited villages near the Lebanese border with Israel and sent this report.", file: "0121.mp3", start: 1091.59, end: 1097.77}
+  - {text: "We had a rare chance to see the Israeli military presence in occupied southern Lebanon,", file: "0122.mp3", start: 1099.21, end: 1103.95}
+  - {text: "as we joined a humanitarian convoy of the UN peacekeeping mission in Lebanon. That's an Israeli military checkpoint.", file: "0123.mp3", start: 1104.92, end: 1113.67}
+  - {text: "Yes. So they have full control of who is going in and who is coming out of this area.", file: "0124.mp3", start: 1114.31, end: 1120.21}
+  - {text: "We saw residential buildings that are being used by Israeli soldiers and intense movement of Israeli troops.", file: "0125.mp3", start: 1121.34, end: 1127.58}
+  - {text: "Look, it's a lot of Israeli flags in what is occupied Lebanese territory. Western and Lebanese officials have told me the Israeli military is entrenching itself in the", file: "0126.mp3", start: 1129.79, end: 1143.85}
+  - {text: "occupied territories. They say Israel has expanded and fortified its bases inside Lebanon, places we can't visit.", file: "0127.mp3", start: 1143.85, end: 1152.37}
+  - {text: "Along the border, entire villages have been destroyed. Israel says it wants to create what it describes as a security zone free of Hezbollah to protect its communities", file: "0128.mp3", start: 1153.66, end: 1165.42}
+  - {text: "from the group's rockets and drills. As we traveled, we could hear explosions in the distance,", file: "0129.mp3", start: 1165.42, end: 1171.20}
+  - {text: "an indication that Israel continues to destroy buildings and infrastructure, even during the ceasefire.", file: "0130.mp3", start: 1171.70, end: 1177.72}
+  - {text: "Well, later on, when he returned from his trip, Hugo shared more details about what he'd seen.", file: "0131.mp3", start: 1179.10, end: 1183.90}
+  - {text: "What is really shocking is the level of destruction. Almost all villages along the border have been completely flattened. We also saw a lot of the Israeli presence", file: "0132.mp3", start: 1184.44, end: 1195.16}
+  - {text: "in those villages. And we could also hear explosions in the distance, possibly from demolitions being carried out by Israel in villages under occupation.", file: "0133.mp3", start: 1195.16, end: 1204.66}
+  - {text: "Israel reinvaded Lebanon in March after Hezbollah, which is the Iranian -backed militia political party here in Lebanon and with a significant presence, particularly in the south of", file: "0134.mp3", start: 1205.22, end: 1217.92}
+  - {text: "the country. So Israel reinvaded after Hezbollah launched rockets into Israel. What Israeli officials say is that they want to create the security zone along the border free", file: "0135.mp3", start: 1217.92, end: 1229.46}
+  - {text: "of Hezbollah to protect Israeli communities. So you have around 5 % of Lebanese territory under Israeli occupation", file: "0136.mp3", start: 1229.46, end: 1237.04}
+  - {text: "and Israeli officials have conditioned any withdrawal on Hezbollah's disarmaments. And Hezbollah has opposed these efforts. It says that any discussions about its weapons can only happen after", file: "0137.mp3", start: 1237.63, end: 1251.88}
+  - {text: "a withdrawal of Israeli troops. So I think for now these Israeli troops are going to stay, which means that hundreds of thousands of people won't be able", file: "0138.mp3", start: 1251.88, end: 1261.24}
+  - {text: "to go back to their homes any time soon. Hugo Besheger reporting. The Sharperville massacre in South Africa was one of the darkest moments in the fight against", file: "0139.mp3", start: 1261.24, end: 1270.96}
+  - {text: "the apartheid governments when police opened fire on black people protesting against racist past laws in 1960,", file: "0140.mp3", start: 1270.96, end: 1278.34}
+  - {text: "killing dozens. More than six decades later, survivors and relatives of those killed a challenging and apartheid era law.", file: "0141.mp3", start: 1278.84, end: 1286.36}
+  - {text: "They say has prevented them from seeking justice. Overturning it could pave the way for victims to seek compensation and restitution.", file: "0142.mp3", start: 1286.82, end: 1294.72}
+  - {text: "Pumsafalani reports. Heaps of rubbish are piling up around the township. It scarcely looks like the home of a historic fight against apartheid laws.", file: "0143.mp3", start: 1295.38, end: 1308.02}
+  - {text: "We're in Sharpeville, South of Johannesburg. It's a township slowly crumbling. Here on the 21st of March in 1960,", file: "0144.mp3", start: 1308.72, end: 1317.91}
+  - {text: "at least 69 people were killed by state police while demonstrating against the racist apartheid regime.", file: "0145.mp3", start: 1318.53, end: 1325.11}
+  - {text: "Abraham Ophegang was only 20 years old at the time and still bears the scars of that day. A bullet is still lodged in his spine and he", file: "0146.mp3", start: 1325.91, end: 1334.93}
+  - {text: "has a gentle limp from a gunshot to the leg. The life we were living under apartheid was a life of oppression. If you were from Sharpeville, you", file: "0147.mp3", start: 1334.93, end: 1344.27}
+  - {text: "could not go outside its facility without a pass. We ended up planning too much to the police station in the morning. Then there was some friction between", file: "0148.mp3", start: 1344.27, end: 1351.69}
+  - {text: "us and the police. And we saw a stone being thrown into the police station. All hell broke loose. That is when they started shooting.", file: "0149.mp3", start: 1351.69, end: 1358.31}
+  - {text: "He and more than 200 people were injured and recent estimates by South African researchers say the number of those who died from that incident could be as", file: "0150.mp3", start: 1358.93, end: 1368.73}
+  - {text: "much as 91. Another survivor, Lazarus Muchotzi, now 90 years old, takes me to the cemetery where most of those who died are buried.", file: "0151.mp3", start: 1368.73, end: 1381.16}
+  - {text: "Their graves form one long row. It tells me he needs time to compose himself. His eyes filling with tears.", file: "0152.mp3", start: 1381.72, end: 1388.88}
+  - {text: "We heard gunshots coming from behind us. We hid inside the store, peeping to see what was happening outside.", file: "0153.mp3", start: 1390.60, end: 1397.50}
+  - {text: "People were lying on the ground. When we looked out again, we saw that some were trying to get up,", file: "0154.mp3", start: 1398.20, end: 1403.47}
+  - {text: "but the police were just shooting at them. Others were using machetes to strike the heads of people who were still moving.", file: "0155.mp3", start: 1404.05, end: 1409.69}
+  - {text: "The Indemnity Act 61 passed by the apartheid government in the aftermath of the shooting protected the police from having any criminal charges or civil claims made against", file: "0156.mp3", start: 1410.69, end: 1420.77}
+  - {text: "them by victims or their relatives. That law remains in the country's statute books.", file: "0157.mp3", start: 1420.77, end: 1426.09}
+  - {text: "Now South Africa's lawyers for human rights, a local NGO alongside UK based firm Lee Day are bringing a court action to have that law repealed. What the", file: "0158.mp3", start: 1427.06, end: 1437.40}
+  - {text: "community is looking for is basically reparations that could enable their healing. One of the lawyers on the case, Shanae Tracy explains they feel that South Africa and", file: "0159.mp3", start: 1437.40, end: 1448.86}
+  - {text: "the government are quick to celebrate what happened on the day and the aftermath of all of that. But nothing real has been done to assist their healing.", file: "0160.mp3", start: 1448.86, end: 1457.14}
+  - {text: "Part of the court application includes getting a class action certified. If approved, this means that for the first time, dozens of victims could collectively sue the state", file: "0161.mp3", start: 1457.50, end: 1467.88}
+  - {text: "and possibly even have criminal charges brought against the perpetrators. The government told the BBC it has supported apartheid victims over the years and will continue to do", file: "0162.mp3", start: 1467.88, end: 1479.86}
+  - {text: "so, but does not oppose survivors and families pursuing legal remedies. For many in the community of Sharful, the scars of the past remain.", file: "0163.mp3", start: 1479.86, end: 1489.71}
+  - {text: "And so people here hope that restitution will help heal decades of lingering trauma.", file: "0164.mp3", start: 1490.19, end: 1495.73}
+  - {text: "Now, reports was by Pumza Filani. Now to a word that does not feature much in everyday conversation, but cacistocracy has just been used by the US actor", file: "0165.mp3", start: 1496.37, end: 1507.84}
+  - {text: "George Clooney. At the opening of the Venice Film Festival, he was asked how he viewed the United States at the moment.", file: "0166.mp3", start: 1507.84, end: 1513.94}
+  - {text: "Here's what he had to say. I'm old enough to have been through 1968 in the States when every city in the United States was set on fire", file: "0167.mp3", start: 1514.54, end: 1522.08}
+  - {text: "and we were we lost Martin Luther King and Bobby Kennedy in the same year. There's tons of violence.", file: "0168.mp3", start: 1522.08, end: 1526.28}
+  - {text: "We've had some other difficult times, but this is one of them. There's a great word cacistocracy,", file: "0169.mp3", start: 1526.78, end: 1532.74}
+  - {text: "which is a country run by the least qualified people. I think maybe we have a cacistocracy right now, but we'll get through it. So what is cacistocracy?", file: "0170.mp3", start: 1533.38, end: 1542.52}
+  - {text: "Here's our global affairs reporter, Paul Moss. As derogatory terms go, cacistocracy certainly has an elevated pedigree. Indeed, a classical one because it's in ancient Greek that we", file: "0171.mp3", start: 1542.88, end: 1554.62}
+  - {text: "find the word cacistos, meaning the worst. That said, there's no record of cacistocracy being used by Plato, Aristotle or any of their chums. For that, we have", file: "0172.mp3", start: 1554.62, end: 1565.50}
+  - {text: "to wait until the 17th century and a politically minded preacher named Paul Gosdold. He accused his enemies of wanting to turn parliament into a cacistocracy, i .e.", file: "0173.mp3", start: 1565.50, end: 1576.58}
+  - {text: "ruled by the worst. The word was used in the 19th century by a critic of Germany who described the whole country as a cacistocracy. In more recent", file: "0174.mp3", start: 1576.68, end: 1586.54}
+  - {text: "times, the former CIA director John O 'Brennan in 2018 tweeted that Donald Trump's first administration was a cacistocracy.", file: "0175.mp3", start: 1586.54, end: 1595.82}
+  - {text: "But this most choice of insults really had its day in the sun in 2024,", file: "0176.mp3", start: 1596.54, end: 1601.22}
+  - {text: "when the Economist magazine gave it the honor of being chosen as word of the year.", file: "0177.mp3", start: 1601.72, end: 1606.58}
+  - {text: "Cacistocracy, the citation went, has the crisp hard sound of glass breaking. Paul Mos.", file: "0178.mp3", start: 1607.54, end: 1614.02}
+  - {text: "The biotapestry is considered to be one of the most significant artifacts of medieval history.", file: "0179.mp3", start: 1615.43, end: 1620.15}
+  - {text: "The 70 meter long historic embroidery depicts the events leading up to the Norman conquest of England in 1066.", file: "0180.mp3", start: 1620.71, end: 1627.39}
+  - {text: "After spending hundreds of years in France, the tapestry has returned to the UK for the first time and will go on display at the British Museum.", file: "0181.mp3", start: 1628.41, end: 1635.95}
+  - {text: "On Wednesday, the king and queen were among the first to see it. Our cultural editor, Katie Razzle, was also there.", file: "0182.mp3", start: 1636.53, end: 1642.29}
+  - {text: "And here's the absolute iconic moment of the tapestry, where we see Harold standing, holding the shaft of an arrow. It is an astonishing sight, nearly 70 meters", file: "0183.mp3", start: 1642.75, end: 1655.33}
+  - {text: "long. And I'm standing, looking down over the tapestry with the king and queen, the president, the prime minister and all sorts of other dignitaries standing and being", file: "0184.mp3", start: 1655.33, end: 1665.29}
+  - {text: "led along it. The lighting is incredibly low. That's to protect this fragile artwork.", file: "0185.mp3", start: 1665.29, end: 1671.11}
+  - {text: "But there is enough light to see the drama of it, this epic story of Anglo -French relations back in 1066. The arrow is quite thick. The arrow", file: "0186.mp3", start: 1671.81, end: 1683.64}
+  - {text: "is sort of a pale yellow colour. Experts debate whether the arrow was actually added much later by 19th century restorers. But as they toured the Bayer tapestry", file: "0187.mp3", start: 1683.64, end: 1694.24}
+  - {text: "nearly a thousand years after the death of the English king and the Norman conquest, the message was that the loan of the work to the UK is", file: "0188.mp3", start: 1694.24, end: 1702.24}
+  - {text: "a sign of Anglo -French reconciliation, not enmity. This is the French president, Emmanuel Macron. A thousand years ago,", file: "0189.mp3", start: 1702.24, end: 1711.13}
+  - {text: "this work depicted the crossings that changed history. And today it crosses the channel through a tunnel that we built together,", file: "0190.mp3", start: 1711.93, end: 1718.62}
+  - {text: "a reminder of what our two countries can achieve when they join forces. If anyone remembers what we did here today decades or even centuries from now,", file: "0191.mp3", start: 1719.56, end: 1728.94}
+  - {text: "I would like to believe that they will remember not only the story told by Bayer tapestry but also the tale of two countries which after centuries of", file: "0192.mp3", start: 1729.68, end: 1740.44}
+  - {text: "shared history choose to forge a bond as close as the threat of this thousand -year -old embroidery.", file: "0193.mp3", start: 1740.44, end: 1746.80}
+  - {text: "A loan to Britain was first requested back in 1931. Nearly a hundred years on it was pushed through to the opposition of some by the French president", file: "0194.mp3", start: 1748.64, end: 1758.26}
+  - {text: "who is believed to have wanted a reset in Anglo -French relations after Brexit.", file: "0195.mp3", start: 1758.26, end: 1762.54}
+  - {text: "The 58 scenes embroidered on linen are a medieval blockbuster about the build -up to 1066,", file: "0196.mp3", start: 1763.16, end: 1769.14}
+  - {text: "a defining moment in English history. The King last viewed the tapestry in Bayer in the 1980s, but tonight he saw it laid flat. It's a stipulation from", file: "0197.mp3", start: 1769.68, end: 1779.24}
+  - {text: "the French to protect it. Curator of the tapestry at the museum, Michael Lewis, showed the King and Queen around. It was a great fun actually looking at", file: "0198.mp3", start: 1779.24, end: 1787.00}
+  - {text: "different scenes, obviously thinking a little bit how they're relevant to the King. So, for example, we saw the coronation quite recently in a way.", file: "0199.mp3", start: 1787.00, end: 1793.96}
+  - {text: "The King was crowned. So, yeah, he could obviously reflect on that. Members of the public, lucky enough to have snapped up tickets, will be able to view", file: "0200.mp3", start: 1794.56, end: 1802.66}
+  - {text: "the exhibition from next week with more tickets to be released next month. Katie Razzler reporting from the British Museum.", file: "0201.mp3", start: 1802.66, end: 1809.32}
+  - {text: "And that's all for us for now. But if you want to get in touch, you can email us at global podcast at bbc .co .uk. This edition", file: "0202.mp3", start: 1812.16, end: 1819.88}
+  - {text: "of the Global News podcast was mixed by Derek Clarke and the producer was Emma Joseph.", file: "0203.mp3", start: 1819.88, end: 1823.90}
+  - {text: "The editor is Karen Martin and I'm Uncle Desai. Until next time, goodbye.", file: "0204.mp3", start: 1824.68, end: 1829.16}
+---

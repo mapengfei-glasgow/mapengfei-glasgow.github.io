@@ -1,0 +1,40 @@
+{{ define "main" }}
+<article class="episode" data-audio-dir="{{ "audio" | absURL }}/{{ .Params.audioDir }}/">
+  <h1 class="ep-title">{{ .Title }}</h1>
+  <p class="meta">
+    <span class="show">{{ .Params.show }}</span>
+    <span>·</span>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+    <span>·</span>
+    <span>{{ $d := int .Params.totalDuration }}{{ $m := div $d 60 }}{{ if gt $m 0 }}{{ $m }} 分 {{ end }}{{ mod $d 60 }} 秒</span>
+    <span>·</span>
+    <span>{{ len .Params.sentences }} 句</span>
+  </p>
+
+  <div class="controls">
+    <button id="play-all" class="btn">▶ 播放全部</button>
+    <label class="toggle" title="播完一句自动播下一句">
+      <input type="checkbox" id="auto-next" checked> 自动连播
+    </label>
+    <span id="now-playing" class="now-playing"></span>
+  </div>
+
+  <ol class="sentences" id="sentences">
+    {{ range $i, $s := .Params.sentences }}
+    <li class="sentence" data-i="{{ $i }}"
+        data-file="{{ $s.file }}"
+        data-start="{{ $s.start }}"
+        data-end="{{ $s.end }}">
+      <span class="idx">{{ $i }}</span>
+      <span class="text">{{ $s.text }}</span>
+      <div class="bar"><div class="progress"></div></div>
+    </li>
+    {{ end }}
+  </ol>
+
+  <p class="hint">
+    点击某句 → 只读那一遍；再点一次停止。
+    键盘：↑/↓ 选句，空格 播放/停止。
+  </p>
+</article>
+{{ end }}

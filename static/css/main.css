@@ -1,0 +1,358 @@
+/* ------------------------------------------------------------------
+   风格：冷色背景与灰阶 + 蓝紫主色 + 玫红记忆点 + 圆润无衬线字体
+   深色模式单独调色（蓝紫→浅蓝，深紫→淡紫），并非简单反色
+------------------------------------------------------------------- */
+:root {
+  color-scheme: light;
+
+  /* 页面 */
+  --bg: #ffffff;
+  --bg-soft: #f1f3f9;
+  --card: #ffffff;
+  --fg: #0a0c10;
+  --muted: #5a6273;
+
+  /* 强调色：蓝紫为主，玫红点缀，深紫备用，天蓝装饰 */
+  --primary: #4242fa;
+  --primary-soft: #e9e9ff;
+  --accent: #e60067;
+  --accent-soft: #ffe1ec;
+  --purple: #2c0b8e;
+  --sky: #63bce9;
+
+  --border: #e2e6f2;
+  --hover-border: #c3c9f2;
+  --glow: linear-gradient(180deg, rgba(160, 212, 238, 0.30), rgba(160, 212, 238, 0));
+  --shadow: 0 6px 18px rgba(30, 34, 80, 0.08);
+
+  --radius: 14px;
+
+  /* 主字体负责亲切（圆润无衬线），等宽字体负责技术感 */
+  --font-sans: "Wotfard", "Nunito", "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "Noto Sans SC", "Source Han Sans SC", system-ui, sans-serif;
+  --font-mono: "Cartograph CF", "JetBrains Mono", "SFMono-Regular", Menlo,
+    Consolas, "Liberation Mono", monospace;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --bg: #0d0f12;
+  --bg-soft: #13171b;
+  --card: #171b21;
+  --fg: #e3e6e8;
+  --muted: #98a1ad;
+
+  --primary: #809fff;
+  --primary-soft: rgba(128, 159, 255, 0.14);
+  --accent: #ff1981;
+  --accent-soft: rgba(255, 25, 129, 0.12);
+  --purple: #e6b3ff;
+  --sky: #66aacc;
+
+  --border: #262c36;
+  --hover-border: #3b4568;
+  --glow: linear-gradient(180deg, rgba(38, 89, 115, 0.42), rgba(38, 89, 115, 0));
+  --shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-sans);
+  font-size: 1.125rem;          /* 18px 起步 */
+  line-height: 1.8;             /* 中文长文行高 */
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* 页面顶部的天光晕（浅色用天空渐变，深色用深海蓝） */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 340px;
+  background: var(--glow);
+  pointer-events: none;
+  z-index: -1;
+}
+
+::selection { background: var(--primary-soft); }
+
+:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* ---------- 页头 ---------- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.02);
+}
+/* 顶部发丝线：蓝紫 → 玫红 → 天蓝 */
+.site-header::before {
+  content: "";
+  display: block;
+  height: 3px;
+  background: linear-gradient(90deg, var(--primary), var(--accent) 55%, var(--sky));
+}
+.header-bar {
+  max-width: 46em;
+  margin: 0 auto;
+  padding: 0.7em 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+}
+.brand {
+  font-weight: 700;
+  font-size: 1.0625rem;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  background: linear-gradient(92deg, var(--primary), var(--accent));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.theme-btn {
+  flex: none;
+  width: 2.25em;
+  height: 2.25em;
+  display: grid;
+  place-items: center;
+  font-size: 0.95rem;
+  line-height: 1;
+  color: var(--fg);
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+.theme-btn:hover {
+  border-color: var(--hover-border);
+  transform: translateY(-1px);
+}
+
+main {
+  max-width: 46em;
+  margin: 0 auto;
+  padding: 1.6em 1em 3em;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  background: var(--bg-soft);
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  text-align: center;
+  padding: 1.4em 1em;
+}
+
+/* ---------- 首页 ---------- */
+.intro h1 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin: 0.4em 0 0.3em;
+  letter-spacing: 0.01em;
+}
+.intro em {
+  color: var(--accent);
+  font-style: normal;
+  font-weight: 700;
+}
+.intro p {
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.8;
+  max-width: 38em;
+}
+
+.ep-list h2 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 2em 0 0.8em;
+}
+.ep-card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1em 1.2em;
+  margin-bottom: 0.9em;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
+}
+.ep-card:hover {
+  border-color: var(--hover-border);
+  box-shadow: var(--shadow);
+  transform: translateY(-2px);
+}
+.ep-title {
+  font-size: 1.375rem;        /* 22px：文章标题层级 */
+  font-weight: 600;
+  line-height: 1.4;
+}
+.ep-meta {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: 0.5em;
+  letter-spacing: 0.02em;
+}
+.empty { color: var(--muted); }
+
+/* ---------- 单集页 ---------- */
+.ep-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  line-height: 1.35;
+  letter-spacing: 0.01em;
+}
+.meta {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin: 0.6em 0 1.2em;
+}
+.meta .show {
+  color: var(--primary);
+  font-weight: 600;
+  background: var(--primary-soft);
+  padding: 0.1em 0.6em;
+  border-radius: 999px;
+}
+
+.controls {
+  position: sticky;
+  top: 3.4em;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.55em 0.9em;
+  margin-bottom: 1.2em;
+  box-shadow: 0 2px 10px rgba(30, 34, 80, 0.06);
+  font-family: var(--font-sans);
+}
+.btn {
+  font-family: var(--font-sans);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--primary);
+  border: none;
+  border-radius: 10px;
+  padding: 0.45em 1.1em;
+  cursor: pointer;
+  transition: filter 0.15s ease, transform 0.1s ease;
+}
+.btn:hover { filter: brightness(1.08); }
+.btn:active { transform: translateY(1px); }
+.toggle {
+  font-size: 0.9rem;
+  color: var(--muted);
+  cursor: pointer;
+  user-select: none;
+}
+.toggle input { accent-color: var(--primary); }
+.now-playing {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ---------- 句子列表 ---------- */
+.sentences {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.sentence {
+  position: relative;
+  display: grid;
+  grid-template-columns: 2.4em 1fr;
+  gap: 0.3em 0.7em;
+  padding: 0.55em 0.8em 1em;
+  border-left: 3px solid transparent;
+  border-radius: 12px;
+  cursor: pointer;
+  transition: background 0.12s ease, border-color 0.12s ease;
+}
+.sentence:hover { background: var(--bg-soft); }
+.sentence .idx {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  text-align: right;
+  padding-top: 0.45em;
+  font-variant-numeric: tabular-nums;
+}
+.sentence .text {
+  font-size: 1.125rem;
+  line-height: 1.75;
+  word-spacing: 0.03em;
+}
+.sentence .bar {
+  grid-column: 2;
+  height: 3px;
+  background: var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.sentence .progress {
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, var(--primary), var(--accent));
+  transition: width 0.2s linear;
+}
+.sentence.playing {
+  background: var(--primary-soft);
+  border-left-color: var(--primary);
+}
+.sentence.playing .idx {
+  color: var(--primary);
+  font-weight: 700;
+}
+.sentence.selected {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+}
+.sentence.done .text { color: var(--muted); }
+
+.hint {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  border-top: 1px dashed var(--border);
+  margin-top: 1.6em;
+  padding-top: 0.9em;
+}
+
+@media (max-width: 600px) {
+  main { padding: 1.1em 0.8em 2.5em; }
+  .controls { top: 3em; flex-wrap: wrap; gap: 0.6em; }
+  .now-playing { margin-left: 0; width: 100%; }
+  .sentence .text { font-size: 1.05rem; }
+}
