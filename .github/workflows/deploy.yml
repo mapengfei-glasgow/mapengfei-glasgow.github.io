@@ -27,7 +27,7 @@ jobs:
           sudo mv /tmp/hugo /usr/local/bin/hugo
           hugo version
       - name: Build
-        run: hugo --minify --baseURL "https://mapengfei-glasgow.github.io/podcast-english/"
+        run: hugo --minify --baseURL "https://mapengfei-glasgow.github.io/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

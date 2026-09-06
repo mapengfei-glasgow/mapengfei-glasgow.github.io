@@ -1,5 +1,12 @@
+{{ define "head-extra" }}
+<script src="{{ "js/episode.js" | absURL }}" defer></script>
+{{ end }}
 {{ define "main" }}
-<article class="episode" data-audio-dir="{{ "audio" | absURL }}/{{ .Params.audioDir }}/">
+<article class="episode"
+         data-audio="{{ "audio" | absURL }}/{{ .Params.audioDir }}/episode.mp3"
+         data-slug="{{ .Params.slug }}"
+         data-show="{{ .Params.show }}"
+         data-title="{{ .Title }}">
   <h1 class="ep-title">{{ .Title }}</h1>
   <p class="meta">
     <span class="show">{{ .Params.show }}</span>
@@ -22,15 +29,12 @@
   <ol class="sentences" id="sentences">
     {{ range $i, $s := .Params.sentences }}
     <li class="sentence" data-i="{{ $i }}"
-        data-file="{{ $s.file }}"
         data-start="{{ $s.start }}"
         data-end="{{ $s.end }}">
       <span class="idx">{{ $i }}</span>
       <span class="text">{{ $s.text }}</span>
-      {{ with $s.notes }}
-      <div class="notes">
-        {{ range . }}<span class="note{{ if .phrase }} phrase{{ end }}"><span class="w">{{ .word }}</span>{{ with .ipa }}<span class="ipa">{{ . }}</span>{{ end }}<span class="g">{{ .gloss }}</span></span>{{ end }}
-      </div>
+      {{ with $s.explain }}
+      <div class="explain">{{ . }}</div>
       {{ end }}
       <div class="bar"><div class="progress"></div></div>
     </li>
@@ -38,8 +42,8 @@
   </ol>
 
   <p class="hint">
-    点击某句 → 只读那一遍，并展开该句的词汇注释（难词带音标与释义）；再点一次停止。
-    键盘：↑/↓ 选句，空格 播放/停止。
+    点击某句 → 从那一刻开始播放；开「自动连播」则整集连贯播完（无停顿）；超过 A2 水平的句子带 💡 英文解释。再点一次停止。
+    键盘：↑/↓ 跳句，空格 播放/暂停。
   </p>
 </article>
 {{ end }}

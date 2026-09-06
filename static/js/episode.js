@@ -1,166 +1,183 @@
-/* Sentence-by-sentence podcast player.
+/* Episode player: one continuous audio stream per episode.
+   Clicking a sentence seeks to its timestamp; with 自动连播 on, playback
+   simply continues through the whole episode (no gaps, no re-fetching).
    Active only on episode pages (article.episode). */
 (function () {
   "use strict";
   const art = document.querySelector(".episode");
   if (!art) return;
 
-  // Always end the audio base path with exactly one "/".
-  const dir = ((art.dataset.audioDir || "audio").replace(/\/+$/, "")) + "/";
+  const audioSrc = art.dataset.audio;
   const items = Array.from(art.querySelectorAll(".sentence"));
   const playAllBtn = document.getElementById("play-all");
   const autoNextBox = document.getElementById("auto-next");
   const nowEl = document.getElementById("now-playing");
-  if (!items.length || !playAllBtn) return;
+  if (!items.length || !playAllBtn || !audioSrc) return;
 
-  let current = null;  // { li, audio, index }
-  let nextPre = null;  // preloaded { audio, index } for gap-free auto-continue
-  let selected = -1;
+  const n = items.length;
+  const starts = items.map((li) => parseFloat(li.dataset.start));
+  const ends = items.map((li) => parseFloat(li.dataset.end));
 
-  function clearHighlights(li) {
+  const audio = new Audio(audioSrc);
+  audio.preload = "none"; // 用户真的点播放才开始下载（每集 20–36MB，别浪费流量）
+
+  let idx = -1;      // highlighted / selected sentence
+  let mode = "off";  // "follow" (continuous) | "single" (stop at this sentence's end) | "off"
+  let rafId = 0;
+  let stopped = true; // true right after stop(); false after user-initiated pause
+
+  // ---- UI helpers -------------------------------------------------------
+
+  function clearClasses() {
     for (const el of items) {
-      if (el !== li) {
-        el.classList.remove("playing");
-        el.querySelector(".progress").style.width = "0%";
+      el.classList.remove("playing", "selected");
+      el.querySelector(".progress").style.width = "0%";
+    }
+  }
+
+  // Reveal the plain-English explanation for one sentence, hiding the others.
+  function revealExplain(li) {
+    for (const el of items) {
+      if (el !== li) el.classList.remove("show-explain");
+    }
+    if (li && li.querySelector(".explain")) li.classList.add("show-explain");
+  }
+
+  function setBtn(label) { playAllBtn.textContent = label; }
+
+  function markActive(i) {
+    for (let j = 0; j < n; j++) {
+      const el = items[j];
+      el.classList.toggle("done", j < i);
+      el.classList.toggle("playing", j === i);
+      if (j !== i) {
+        el.classList.remove("selected");
+        if (j < i) el.querySelector(".progress").style.width = "100%";
       }
     }
-  }
-
-  // Reveal the vocabulary notes for one sentence, hiding the others.
-  function revealNotes(li) {
-    for (const el of items) {
-      if (el !== li) el.classList.remove("show-notes");
-    }
-    if (li && li.querySelector(".notes")) li.classList.add("show-notes");
-  }
-
-  function makeAudio(i) {
-    const a = new Audio();
-    a.preload = "auto";
-    a.src = dir + items[i].dataset.file;
-    return a;
-  }
-
-  // Detach handlers BEFORE clearing src: src="" otherwise fires onerror
-  // with audio.src resolved to the page URL.
-  function release(a) {
-    a.onerror = null;
-    a.ontimeupdate = null;
-    a.onended = null;
-    a.pause();
-    a.src = "";
-  }
-
-  function clearPre() {
-    if (nextPre) {
-      release(nextPre.audio);
-      nextPre = null;
+    if (i >= 0 && i < n) {
+      items[i].classList.add("selected");
+      nowEl.textContent = (i + 1) + " / " + n;
     }
   }
 
-  // Start fetching the next clip while the current one still plays.
-  function primeNext(i) {
-    const ni = i + 1;
-    if (ni >= items.length) {
-      clearPre();
-      return;
-    }
-    if (nextPre && nextPre.index === ni) return;
-    clearPre();
-    nextPre = { audio: makeAudio(ni), index: ni };
+  // ---- playback ---------------------------------------------------------
+
+  function startLoop() {
+    stopLoop();
+    rafId = requestAnimationFrame(loop);
+  }
+  function stopLoop() {
+    if (rafId) cancelAnimationFrame(rafId);
+    rafId = 0;
   }
 
-  function stop() {
-    if (current) {
-      release(current.audio);
-      current.li.classList.remove("playing");
-      current.li.querySelector(".progress").style.width = "0%";
-      current = null;
-    }
-    clearPre();
-    nowEl.textContent = "";
-    playAllBtn.textContent = "▶ 播放全部";
-  }
+  function loop() {
+    if (audio.paused) return;
+    const t = audio.currentTime;
 
-  function playAt(i) {
-    if (i < 0 || i >= items.length) {
+    if (mode === "follow") {
+      let i = idx;
+      // walk to the sentence containing the playhead (±30ms hysteresis)
+      while (i < n - 1 && t >= starts[i + 1] - 0.03) i++;
+      while (i > 0 && t < starts[i] - 0.03) i--;
+      if (i !== idx) {
+        idx = i;
+        markActive(i);
+        revealExplain(items[i]);
+        items[i].scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    } else if (mode === "single" && t >= ends[idx] + 0.10) {
+      // single-sentence mode: stop just after this sentence finishes
       stop();
       return;
     }
-    if (current) release(current.audio);
-    current = null;
 
-    const li = items[i];
-    let audio;
-    if (nextPre && nextPre.index === i) {
-      audio = nextPre.audio;  // already fetching: near-seamless handoff
-      nextPre = null;
-    } else {
-      clearPre();
-      audio = makeAudio(i);
+    if (idx >= 0) {
+      const dur = Math.max(0.5, ends[idx] - starts[idx]);
+      const bar = items[idx].querySelector(".progress");
+      bar.style.width = Math.min(100, Math.max(0, ((t - starts[idx]) / dur) * 100)) + "%";
     }
-    current = { li, audio, index: i };
-    selected = i;
-
-    clearHighlights(li);
-    li.classList.add("playing");
-    markSelected();
-    revealNotes(li);
-    nowEl.textContent = (i + 1) + " / " + items.length;
-    playAllBtn.textContent = "⏹ 停止";
-
-    const bar = li.querySelector(".progress");
-    const dur = Math.max(0.5, parseFloat(li.dataset.end) - parseFloat(li.dataset.start));
-    audio.ontimeupdate = function () {
-      if (current && current.audio === audio) {
-        bar.style.width = Math.min(100, (audio.currentTime / dur) * 100) + "%";
-      }
-    };
-    audio.onended = function () {
-      if (!current || current.audio !== audio) return;
-      bar.style.width = "0%";
-      li.classList.remove("playing");
-      li.classList.add("done");
-      current = null;
-      if (autoNextBox.checked && i + 1 < items.length) {
-        playAt(i + 1);
-      } else {
-        nowEl.textContent = "";
-        playAllBtn.textContent = "▶ 播放全部";
-      }
-    };
-    audio.onerror = function () {
-      if (!current || current.audio !== audio || !audio.src) return;
-      nowEl.textContent = "⚠ 音频加载失败: " + audio.src;
-      li.classList.remove("playing");
-      current = null;
-    };
-    audio.play().catch(function (e) {
-      // play() is rejected with AbortError when a stop() cut in first
-      if (e && (e.name === "AbortError" || e.name === "NotAllowedError")) return;
-      if (!current || current.audio !== audio) return;
-      nowEl.textContent = "⚠ 无法播放: " + e.message + " — " + audio.src;
-    });
-    primeNext(i);
-    li.scrollIntoView({ behavior: "smooth", block: "center" });
+    if (!audio.paused) rafId = requestAnimationFrame(loop);
   }
 
-  function markSelected() {
-    for (const el of items) el.classList.remove("selected");
-    if (selected >= 0 && selected < items.length) {
-      items[selected].classList.add("selected");
+  function playFrom(i, follow) {
+    if (i < 0 || i >= n) { stop(); return; }
+    // preload="none": the file may not be downloading yet, so a seek set
+    // before play() can be lost once playback begins — re-assert it after.
+    const target = starts[i];
+    audio.currentTime = target;
+    idx = i;
+    mode = follow ? "follow" : "single";
+    stopped = false;
+    markActive(i);
+    revealExplain(items[i]);
+    setBtn("⏹ 停止");
+    const p = audio.play();
+    if (p && typeof p.then === "function") {
+      p.then(function () {
+        try {
+          if (Math.abs(audio.currentTime - target) > 0.25) audio.currentTime = target;
+        } catch (e) {}
+      });
     }
+    if (p && typeof p.catch === "function") {
+      p.catch(function (e) {
+        if (e && e.name === "AbortError") return;
+        if (audio.paused) return; // user stopped in the meantime
+        nowEl.textContent = "⚠ 无法播放: " + e.message;
+        stop();
+      });
+    }
+    startLoop();
+    items[i].scrollIntoView({ behavior: "smooth", block: "center" });
   }
+
+  function playAll() { playFrom(0, true); }
+
+  function stop() {
+    audio.pause();
+    mode = "off";
+    stopped = true;
+    stopLoop();
+    if (idx >= 0) {
+      items[idx].classList.remove("playing");
+      items[idx].querySelector(".progress").style.width = "0%";
+    }
+    nowEl.textContent = "";
+    setBtn("▶ 播放全部");
+  }
+
+  // ---- events -----------------------------------------------------------
+
+  audio.onended = function () { stop(); nowEl.textContent = ""; };
+  audio.onerror = function () {
+    if (!audio.src) return;
+    nowEl.textContent = "⚠ 音频加载失败: " + audioSrc;
+    stop();
+  };
+  audio.onpause = function () {
+    if (mode !== "off" && !stopped) setBtn("▶ 继续");
+  };
+  audio.onplay = function () {
+    if (mode !== "off") {
+      setBtn("⏹ 停止");
+      if (!rafId) startLoop();
+    }
+  };
 
   playAllBtn.addEventListener("click", function () {
-    if (current) stop();
-    else playAt(0);
+    if (!audio.paused && !audio.ended) {
+      stop();
+    } else {
+      playAll();
+    }
   });
 
-  for (let i = 0; i < items.length; i++) {
+  for (let i = 0; i < n; i++) {
     items[i].addEventListener("click", function () {
-      if (current && current.li === items[i]) stop();
-      else playAt(i);
+      if (!audio.paused && !audio.ended && idx === i) stop();
+      else playFrom(i, autoNextBox.checked);
     });
   }
 
@@ -168,17 +185,24 @@
     if (e.target && /input|textarea/i.test(e.target.tagName)) return;
     if (e.key === " " || e.code === "Space") {
       e.preventDefault();
-      if (selected < 0) return;
-      if (current && current.li === items[selected]) stop();
-      else playAt(selected);
+      if (!audio.paused && !audio.ended) {
+        audio.pause();           // keep position + mode; space resumes
+      } else if (mode === "off") {
+        playFrom(idx < 0 ? 0 : idx, autoNextBox.checked);
+      } else {
+        audio.play().catch(function () {});
+      }
     } else if (e.key === "ArrowDown" || e.key === "ArrowUp") {
       e.preventDefault();
       const delta = e.key === "ArrowDown" ? 1 : -1;
-      if (selected < 0) selected = delta > 0 ? 0 : items.length - 1;
-      else selected = Math.max(0, Math.min(items.length - 1, selected + delta));
-      markSelected();
-      revealNotes(items[selected]);
-      items[selected].scrollIntoView({ behavior: "smooth", block: "center" });
+      const j = idx < 0 ? (delta > 0 ? 0 : n - 1)
+                        : Math.max(0, Math.min(n - 1, idx + delta));
+      idx = j;
+      markActive(j);
+      revealExplain(items[j]);
+      audio.currentTime = starts[j];   // reposition (even while paused)
+      if (!audio.paused && !audio.ended) mode = "follow";
+      items[j].scrollIntoView({ behavior: "smooth", block: "center" });
     }
   });
 })();

@@ -1,8 +1,8 @@
 baseURL = "/"
 locale = "zh-CN"
 hasCJKLanguage = true
-title = "Podcast 英语听力"
-description = "把播客音频切成一句句，点哪句读哪句，用来练英语听力。"
+title = "鹏飞的小站"
+description = "用播客学英语、写代码、记生活。"
 enableRobotsTXT = true
 
 [markup]

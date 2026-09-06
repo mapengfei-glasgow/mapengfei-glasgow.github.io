@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="tax">
+  <p class="section-label">标签</p>
+  {{ with .Data.Terms }}
+  <ul class="tax-list">
+    {{ range . }}
+    <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> <span class="tax-count">{{ .Count }}</span></li>
+    {{ end }}
+  </ul>
+  {{ else }}
+  <p class="cc-desc">还没有打任何标签。</p>
+  {{ end }}
+</div>
+{{ end }}

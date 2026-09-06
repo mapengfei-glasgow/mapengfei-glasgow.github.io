@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="intro">
+  <p class="eyebrow">合集 · 文章</p>
+  <h1>博客文章</h1>
+  <p>代码、折腾记录、生活杂记——想到什么写什么。</p>
+</section>
+
+<section class="ep-list">
+  <h2>全部文章</h2>
+  {{ range .RegularPages }}
+  <a class="ep-card" href="{{ .RelPermalink }}">
+    <div class="ep-title">{{ .Title }}</div>
+    <div class="ep-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      {{ with .Description }}<span class="dot">·</span><span>{{ . }}</span>{{ end }}
+    </div>
+  </a>
+  {{ else }}
+  <p class="empty">还没有文章。这里是留给未来的地方。</p>
+  {{ end }}
+</section>
+{{ end }}

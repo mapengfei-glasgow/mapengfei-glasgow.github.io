@@ -42,16 +42,16 @@ cd ~/dcgrid/english-site
 
 ## 发布到 GitHub Pages
 
-站点发布在 <https://mapengfei-glasgow.github.io/podcast-english/>，
-仓库为 `mapengfei-glasgow/podcast-english`。
+站点发布在 <https://mapengfei-glasgow.github.io/>（用户主页站点），
+仓库为 `mapengfei-glasgow/mapengfei-glasgow.github.io`。
 
 `.github/workflows/deploy.yml` 在每次 push 到 `main` 时自动：
 下载 Hugo extended 0.165.0 → `hugo --minify --baseURL <Pages URL>` →
 `actions/deploy-pages` 发布 `public/`。Pages 的构建模式已设为 **workflow**，
 所以 `git push` 即自动上线，本地 `public/` 不入库。
 
-> 注意：Pages 在子路径 `/podcast-english/` 下，靠构建时的 `--baseURL`
-> 生成正确的绝对地址；本地构建用 `baseURL = "/"`，两者互不影响。
+> 注意：仓库名为 `mapengfei-glasgow.github.io`，是用户主页站点，
+> 直接发布在根路径；本地构建同样用 `baseURL = "/"`，两者一致。
 
 发布一集：
 

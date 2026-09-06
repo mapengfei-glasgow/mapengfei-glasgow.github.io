@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="tax">
+  <p class="section-label"># {{ .Title }}</p>
+  {{ with .Pages }}
+  <ul class="tax-list">
+    {{ range . }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a> <span class="tax-count">{{ .Date.Format "2006-01-02" }}</span></li>
+    {{ end }}
+  </ul>
+  {{ else }}
+  <p class="cc-desc">这个标签下还没有内容。</p>
+  {{ end }}
+</div>
+{{ end }}
