@@ -5,7 +5,7 @@
  *      匿名登录未启用：该部署的 guests 角色缺少 account scope，服务端无配置入口，
  *      故本站只提供邮箱注册/登录。
  *      注意：AppWrite 2.0 自助注册必须由客户端指定 userId（即用户名），
- *      注册表单里让用户输入 4–36 位的用户名作为 userId。
+ *      注册表单里让用户输入 1–36 位的用户名作为 userId（服务端实测接受 1 位）。
  *   2. Database `site` / Collection `vocab`，属性：
  *        slug    String  128  (episode slug)
  *        idx     Integer          (句子序号，0 起)
@@ -154,13 +154,14 @@
     if (err) err.textContent = msg;
   }
 
-  var UID_RE = /^[A-Za-z0-9][A-Za-z0-9._-]{3,35}$/;
+  var UID_RE = /^[A-Za-z0-9][A-Za-z0-9._-]{0,35}$/;
 
   function errMsg(e) {
     var m = (e && e.message) || String(e);
-    if (/userid|user.*id/i.test(m) && /exist|already/i.test(m)) return "这个用户名已经被占用了，换一个试试。";
+    var t = (e && e.type) || "";
+    if (t === "user_already_exists" || (/userid|user.*id/i.test(m) && /exist|already/i.test(m))) return "这个用户名已经被占用了，换一个试试。";
     if (/duplicate|already (exists|used)|user.exists/i.test(m)) return "这个邮箱已经注册过了，切到「登录」再试。";
-    if (/password/i.test(m)) return "邮箱或密码不对。";
+    if (t === "user_invalid_credentials" || /password|credentials/i.test(m)) return "邮箱或密码不对。";
     if (/valid.*email|email.*valid/i.test(m)) return "邮箱格式好像不对。";
     return m;
   }
@@ -193,7 +194,7 @@
       var uidEl = modal.querySelector("#auth-uid");
       var uid = uidEl ? uidEl.value.trim() : "";
       if (mode === "signup" && !UID_RE.test(uid)) {
-        fail("用户名：4–36 位，以字母或数字开头，可用字母、数字、下划线、中划线和点。");
+        fail("用户名：1–36 位，以字母或数字开头，可用字母、数字、下划线、中划线和点。");
         return;
       }
       var btn = modal.querySelector(".auth-submit");
@@ -212,7 +213,9 @@
             });
           }).then(finishAuth);
       }).catch(function (err) {
-        if (mode === "signup" && /duplicate|already (exists|used)|user.exists/i.test((err && err.message) || "")) {
+        // 注意：setTab 会清空 #auth-err，所以「切 tab」必须发生在 fail 之前，
+        // 且之后绝不能再调 setTab，否则错误提示会被吞掉（表现为"点了没反应"）
+        if (mode === "signup" && /duplicate|already (exists|used)|user.exists|user_already_exists/i.test(((err && err.message) || "") + " " + ((err && err.type) || ""))) {
           setTab("login");
           fail("这个邮箱已经注册过了，直接登录吧。");
         } else {
@@ -220,7 +223,7 @@
         }
       }).then(function () {
         btn.disabled = false;
-        setTab(mode);
+        btn.textContent = (mode === "signup" ? "注册并登录" : "登录");
       });
     });
 
