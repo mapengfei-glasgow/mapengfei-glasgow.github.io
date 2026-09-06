@@ -22,12 +22,6 @@
     <span>{{ len .Params.sentences }} 句</span>
   </p>
 
-  <div class="controls">
-    <button id="play-all" class="btn">▶ 播放全部</button>
-    <span class="controls-note">播放状态在底部播放条</span>
-    <span id="now-playing" class="now-playing"></span>
-  </div>
-
   <ol class="sentences" id="sentences">
     {{ range $i, $s := .Params.sentences }}
     <li class="sentence" data-i="{{ $i }}"

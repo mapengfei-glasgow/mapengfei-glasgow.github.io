@@ -76,12 +76,13 @@
       <button id="player-autonext" type="button" aria-pressed="true" title="点一句播一句，播完自动接下一句">自动连播</button>
       <div class="player-seek">
         <input id="player-progress" type="range" min="0" max="1000" step="1" value="0" aria-label="播放进度">
+        <span id="player-idx" class="player-idx"></span>
         <span id="player-time">0:00 / 0:00</span>
       </div>
     </div>
   </div>
   <footer class="site-footer">
-    <p>{{ .Site.Title }} · Hugo + faster-whisper 生成 · 点击任意句子即可朗读</p>
+    <p>{{ .Site.Title }} · Hugo + faster-whisper 生成 · 点击任意句子从那一刻播放</p>
   </footer>
 
   <!-- 登录 / 注册弹窗（AppWrite 生词本用；未配置时不会显示） -->

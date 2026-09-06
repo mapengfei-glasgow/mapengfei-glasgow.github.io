@@ -31,6 +31,7 @@
   var btnAuto = document.getElementById("player-autonext");
   var elProgress = document.getElementById("player-progress");
   var elTime = document.getElementById("player-time");
+  var elIdx = document.getElementById("player-idx");
 
   var LS_KEY = "ds-player-state-v2";
 
@@ -52,6 +53,17 @@
      每集各记各的位置 —— 换集不会冲掉上一集，来回切换都能接上 */
   function loadStore() {
     try { return JSON.parse(localStorage.getItem(LS_KEY) || "null") || {}; } catch (e) { return {}; }
+  }
+
+  /* 旧版 bug：data-icon 属性里的 emoji 被 Go html/template 百分号编码
+     （%f0%9f%8c%8d），随 ep.icon 存进了 localStorage。读回时识别并解码，
+     用户浏览器里已存的脏值自动愈合，无需清缓存。 */
+  function cleanIcon(s) {
+    if (!s) return "🎧";
+    if (/^%[0-9a-fA-F]{2}/.test(s)) {
+      try { var d = decodeURIComponent(s); if (d) return d; } catch (e) {}
+    }
+    return s;
   }
 
   function saveNow() {
@@ -136,7 +148,10 @@
   }
 
   function markActivePage(i) {
-    if (!ep || !ep.items || !ep.items.length) return;
+    if (!ep || !ep.items || !ep.items.length) {
+      elIdx.textContent = "";
+      return;
+    }
     var n = ep.items.length;
     for (var j = 0; j < n; j++) {
       var el = ep.items[j];
@@ -144,9 +159,8 @@
       el.classList.toggle("done", j < i);
       el.classList.toggle("playing", j === i);
     }
-    var np = document.getElementById("now-playing");
-    if (np && np.isConnected) np.textContent = (i >= 0 ? (i + 1) + " / " + n : "");
-    syncPageButton();
+    // 播放条上的句位计数（如 "13 / 291"）
+    elIdx.textContent = (i >= 0 ? (i + 1) + " / " + n : "");
   }
 
   function revealExplain(li) {
@@ -155,14 +169,6 @@
       var el = ep.items[j];
       if (el.isConnected) el.classList.toggle("show-explain", el === li);
     }
-  }
-
-  function syncPageButton() {
-    var b = document.getElementById("play-all");
-    if (!b || !b.isConnected) return;
-    if (!ep || !ep.items || !ep.items.length) { b.textContent = "▶ 播放全部"; return; }
-    if (!audio.paused && !audio.ended) b.textContent = "⏸ 暂停";
-    else b.textContent = (uiTime > 0.5 || idx >= 0) ? "▶ 继续" : "▶ 播放全部";
   }
 
   /* ---------- 核心播放 ---------- */
@@ -222,7 +228,6 @@
             audio.currentTime = afterSeek;
           }
         } catch (e) {}
-        syncPageButton();
       });
     }
     if (p && typeof p.catch === "function") {
@@ -293,7 +298,6 @@
     if (!ep || audio.paused) return;
     audio.pause();
     setPlayingIcon(false);
-    syncPageButton();
     saveNow();
   }
 
@@ -303,7 +307,6 @@
     stopLoop();
     setPlayingIcon(false);
     refreshTimeUI();
-    syncPageButton();
     saveNow();
   }
 
@@ -312,7 +315,6 @@
     mode = "off";
     stopLoop();
     setPlayingIcon(false);
-    syncPageButton();
   }
 
   function toggle() {
@@ -341,18 +343,10 @@
       mode = "off";
       refreshTimeUI();
     }
-    syncPageButton();
     saveNow();
   }
 
-  function playAll() {
-    if (!ep || !ep.items || !ep.items.length) return;
-    if (!audio.paused && !audio.ended) { userPause(); return; }
-    if (uiTime > 0.5 || idx >= 0) { resumeOrStart(); return; }
-    playFrom(0, autoNext);
-  }
-
-  /* ---------- 集数据交接（episode.js 每页调用） ---------- */
+  /* ---------- 集数据交接（每页 turbo:load 调用） ---------- */
 
   function setEpisode(data) {
     if (ep && ep.slug === data.slug) {
@@ -403,7 +397,6 @@
     setSentenceText(idx);
     refreshTimeUI();
     setPlayingIcon(false);
-    syncPageButton();
     showBar();
     saveNow();
   }
@@ -412,7 +405,6 @@
 
   audio.addEventListener("play", function () {
     setPlayingIcon(true);
-    syncPageButton();
     if (!rafId) startLoop();
   });
 
@@ -420,7 +412,6 @@
     stopLoop();
     setPlayingIcon(false);
     refreshTimeUI();
-    syncPageButton();
     saveNow();
   });
 
@@ -435,7 +426,6 @@
       markActivePage(idx);
     }
     refreshTimeUI();
-    syncPageButton();
     saveNow();
   });
 
@@ -506,8 +496,8 @@
 
   /* ---------- 单集页绑定（原 episode.js 并入） ----------
    * 每次页面出现（turbo:load，含首次硬加载）把 .episode 上的数据交给播放条，
-   * 并给句子 / 「播放全部」按钮绑事件。跳转后旧页 DOM 销毁，下次页面出现
-   * 重新绑（dataset.playerWired 防止同一页重复绑）。
+   * 并给句子绑点击事件。跳转后旧页 DOM 销毁，下次页面出现重新绑
+   * （dataset.playerWired 防止同一页重复绑）。
    *
    * 为什么不在单集页里挂独立 script：Turbo SPA 跳转时，新 body 里的
    * <script data-turbo-eval="false"> 不会被执行（只有硬加载才会），
@@ -535,20 +525,13 @@
       slug: art.dataset.slug || "",
       title: art.dataset.title || (h1 ? h1.textContent : ""),
       show: art.dataset.show || "",
-      icon: art.dataset.icon || "🎧",
+      icon: art.dataset.emoji || "🎧",
       audioSrc: art.dataset.audio,
       duration: parseFloat(art.dataset.duration || "0"),
       items: items,
       starts: starts,
       ends: ends
     });
-
-    var playAllBtn = document.getElementById("play-all");
-    if (playAllBtn) {
-      playAllBtn.addEventListener("click", function () {
-        EP.playAll();
-      });
-    }
 
     items.forEach(function (li, i) {
       li.addEventListener("click", function (e) {
@@ -581,7 +564,7 @@
       slug: slug,
       title: saved.title || slug,
       show: saved.show || "",
-      icon: saved.icon || "🎧",
+      icon: cleanIcon(saved.icon),
       audioSrc: saved.audioSrc,
       duration: saved.duration || 0,
       items: [], starts: [], ends: []
@@ -596,7 +579,6 @@
     setBarIdentity();
     refreshTimeUI();
     setPlayingIcon(false);
-    syncPageButton();
     showBar();
   })();
 
@@ -609,7 +591,6 @@
     setEpisode: setEpisode,
     playFrom: playFrom,
     play: resumeOrStart,
-    playAll: playAll,
     pause: userPause,
     toggle: toggle,
     next: function () { stepSentence(1); },

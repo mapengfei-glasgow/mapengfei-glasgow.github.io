@@ -520,48 +520,7 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
   background: rgba(31, 102, 214, 0.10);
 }
 
-/* 播放控制条（吸顶小卡片） */
-.controls {
-  position: sticky;
-  top: 3.6em;
-  z-index: 5;
-  display: flex;
-  align-items: center;
-  gap: 1em;
-  background: var(--card-raised);
-  border: 1px solid var(--border-strong);
-  border-radius: 999px;
-  padding: 0.5em 0.6em 0.5em 0.5em;
-  margin-bottom: 1.4em;
-  box-shadow: var(--shadow);
-  font-family: var(--font-sans);
-}
-.btn {
-  font-family: var(--font-sans);
-  font-size: 0.95rem;
-  font-weight: 700;
-  color: #fff;
-  background: var(--primary);
-  border: none;
-  border-radius: 999px;
-  padding: 0.5em 1.25em;
-  cursor: pointer;
-  transition: filter 0.15s ease, transform 0.1s ease;
-}
-.btn:hover { filter: brightness(1.12); }
-.btn:active { transform: translateY(1px); }
-.controls-note {
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  color: var(--faint);
-}
-.now-playing {
-  margin-left: auto;
-  font-family: var(--font-mono);
-  font-size: 0.78rem;
-  color: var(--muted);
-  font-variant-numeric: tabular-nums;
-}
+
 
 /* ---------- 句子列表 ---------- */
 .sentences {
@@ -723,15 +682,6 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
 @media (max-width: 600px) {
   main { padding: 1.4em 0.8em 2.5em; }
   .site-nav { gap: 0.9em; font-size: 0.74rem; }
-  .controls {
-    top: 3.2em;
-    flex-wrap: wrap;
-    justify-content: center;
-    border-radius: var(--radius);
-    gap: 0.6em;
-    padding: 0.7em 0.9em;
-  }
-  .now-playing { margin-left: 0; width: 100%; text-align: center; }
   .sentence .text { font-size: 1.05rem; }
 }
 
@@ -1076,10 +1026,12 @@ body.player-open { padding-bottom: 118px; }
   accent-color: var(--primary);
   cursor: pointer;
 }
-#player-time {
+#player-time,
+#player-idx {
   font-family: var(--font-mono);
   font-size: 0.72rem;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
   white-space: nowrap;
 }
+#player-idx { color: var(--faint); min-width: 0; }

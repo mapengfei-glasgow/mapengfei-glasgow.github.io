@@ -316,8 +316,8 @@
       btn.textContent = nowOn ? "★" : "☆";
     }).catch(function (err) {
       console.warn("star failed:", (err && err.message) || err);
-      var np = document.getElementById("now-playing");
-      if (np) np.textContent = "⚠ 收藏失败: " + ((err && err.message) || err);
+      btn.title = "⚠ 收藏失败: " + ((err && err.message) || err);
+      setTimeout(function () { btn.title = ""; }, 4000);
     }).then(function () {
       btn.disabled = false;
     });
