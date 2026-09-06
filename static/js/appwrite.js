@@ -61,9 +61,12 @@
   }
 
   function initClient() {
+    // 注意：2.0 的 Client 构造函数不接受参数（1.x 的 new Client({...}) 会被静默忽略，
+    // 请求会打到默认的 cloud.appwrite.io 美国区），必须用 setter 链配置
     var AW = window.Appwrite;
-    account = new AW.Account(new AW.Client({ endpoint: CONFIG.endpoint, project: CONFIG.projectId }));
-    dbSvc = new AW.Databases(account.client);
+    var client = new AW.Client().setEndpoint(CONFIG.endpoint).setProject(CONFIG.projectId);
+    account = new AW.Account(client);
+    dbSvc = new AW.Databases(client);
   }
 
   // 恢复/确认会话（cookie 或 localStorage fallback 里可能有上次登录的 session）
