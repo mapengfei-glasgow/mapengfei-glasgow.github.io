@@ -6,8 +6,9 @@
  *   2. 播放状态（当前集 / 当前句 / 进度 / 自动连播开关）常驻页面底部；
  *   3. 位置用 localStorage 持久化，硬刷新 / 重新打开也接着上次的位置。
  *
- * 单集页的 episode.js 在每次 turbo:load 时调用 EpisodePlayer.setEpisode()
- * 交接本页数据；非集页面则保留上次载入的集（继续播 / 继续显示）。
+ * 单集页由本文件里的 wireEpisodePage() 在每次 turbo:load 时调用
+ * EpisodePlayer.setEpisode() 交接本页数据；非集页面则保留上次载入的集
+ * （继续播 / 继续显示）。
  *
  * data-turbo-eval="false"（见 baseof.html）：本文件只在硬加载时执行一次，
  * 所有跨页行为通过这里注册的 document 级监听器实现（document 不随跳转销毁）。
@@ -503,10 +504,69 @@
     }
   });
 
+  /* ---------- 单集页绑定（原 episode.js 并入） ----------
+   * 每次页面出现（turbo:load，含首次硬加载）把 .episode 上的数据交给播放条，
+   * 并给句子 / 「播放全部」按钮绑事件。跳转后旧页 DOM 销毁，下次页面出现
+   * 重新绑（dataset.playerWired 防止同一页重复绑）。
+   *
+   * 为什么不在单集页里挂独立 script：Turbo SPA 跳转时，新 body 里的
+   * <script data-turbo-eval="false"> 不会被执行（只有硬加载才会），
+   * 从非集页 SPA 进集页会永远缺这个绑定。挂在 document 级监听器里
+   * （document 不随跳转销毁）就没有这个洞。
+   */
+  function wireEpisodePage() {
+    var art = document.querySelector(".episode");
+    if (!art || art.dataset.playerWired === "1") return;
+    var EP = window.EpisodePlayer;
+    if (!EP || !EP.setEpisode) return;
+    art.dataset.playerWired = "1";
+
+    var items = Array.prototype.slice.call(art.querySelectorAll(".sentence"));
+    if (!items.length || !art.dataset.audio) return;
+
+    var starts = [], ends = [];
+    for (var i = 0; i < items.length; i++) {
+      starts.push(parseFloat(items[i].dataset.start));
+      ends.push(parseFloat(items[i].dataset.end));
+    }
+
+    var h1 = art.querySelector(".ep-title");
+    EP.setEpisode({
+      slug: art.dataset.slug || "",
+      title: art.dataset.title || (h1 ? h1.textContent : ""),
+      show: art.dataset.show || "",
+      icon: art.dataset.icon || "🎧",
+      audioSrc: art.dataset.audio,
+      duration: parseFloat(art.dataset.duration || "0"),
+      items: items,
+      starts: starts,
+      ends: ends
+    });
+
+    var playAllBtn = document.getElementById("play-all");
+    if (playAllBtn) {
+      playAllBtn.addEventListener("click", function () {
+        EP.playAll();
+      });
+    }
+
+    items.forEach(function (li, i) {
+      li.addEventListener("click", function (e) {
+        // 点到 ☆ 收藏按钮时不触发播放（appwrite.js 的星号自己处理）
+        if (e.target && e.target.closest && e.target.closest(".star")) return;
+        var st = EP.state();
+        if (st.playing && st.idx === i) EP.pause();   // 再点正在播的这句 = 暂停
+        else EP.playFrom(i, EP.autoNext);
+      });
+    });
+  }
+
   /* ---------- Turbo 生命周期 ---------- */
 
-  // <body> 元素每次跳转都会被换成新的（常驻节点除外），class 会丢，这里补回
+  // <body> 元素每次跳转都会被换成新的（常驻节点除外），class 会丢，这里补回；
+  // 先绑本页（可能让播放条显示出来），再按播放条可见性同步 body class
   document.addEventListener("turbo:load", function () {
+    wireEpisodePage();
     document.body.classList.toggle("player-open", !bar.hidden);
   });
 

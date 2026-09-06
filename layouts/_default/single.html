@@ -5,7 +5,9 @@
          data-audio="{{ "audio" | absURL }}/{{ .Params.audioDir }}/episode.mp3"
          data-slug="{{ .Params.slug }}"
          data-show="{{ .Params.show }}"
-         data-icon="{{ $icon }}"
+         {{/* 属性名不能用 data-icon：Go html/template 把 icon/data-icon
+             当 URL 上下文，会把 emoji 百分号编码成 %f0%9f%8c%8d */}}
+         data-emoji="{{ $icon }}"
          data-duration="{{ .Params.totalDuration }}"
          data-title="{{ .Title }}">
   <h1 class="ep-title">{{ .Title }}</h1>
@@ -47,7 +49,4 @@
     超过 A2 水平的句子带 💡 英文解释。
   </p>
 </article>
-{{ end }}
-{{ define "body-extra" }}
-<script src="{{ (resources.Get "js/episode.js" | fingerprint).RelPermalink }}" defer data-turbo-eval="false"></script>
 {{ end }}

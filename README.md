@@ -14,7 +14,7 @@ english-site/          # Hugo 站点
   static/audio/<slug>/ # 每集整段 episode.mp3（句子按时间戳定位，不切片）
   static/css/          # main.css
   assets/js/           # turbo.umd.js（Hotwire Turbo 8，内嵌依赖）、
-                       # player.js（底部播放条）、episode.js（单集页绑定）、
+                       # player.js（底部播放条 + 单集页绑定）、
                        # appwrite.js（生词本）
   layouts/             # 模板
 tools/make_episode.py  # MP3 → 整段音频 + Hugo 内容（含句级时间戳）的流水线
