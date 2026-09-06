@@ -2,6 +2,7 @@
 layout: single
 title: "Loose Ends"
 show: "Why Oh Why"
+categories: ["Why Oh Why"]
 date: 2017-12-26T00:00:00Z
 slug: "2017-12-26-loose-ends"
 description: "The final episode of the dating & relationships podcast Loose Ends, with host Andrea Silenzi."

@@ -2,6 +2,7 @@
 layout: single
 title: "Archive: Empress Dowager Cixi"
 show: "In Our Time"
+categories: ["In Our Time"]
 date: 2026-09-03T00:00:00Z
 slug: "2026-09-03-archive-empress-dowager-cixi"
 description: "BBC In Our Time: scholars discuss Empress Dowager Cixi, who ruled China's Qing dynasty for half a century."

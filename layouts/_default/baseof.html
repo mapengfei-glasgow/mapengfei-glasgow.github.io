@@ -40,6 +40,7 @@
       <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
       <nav class="site-nav" aria-label="站点导航">
         <a href="{{ "english" | relURL }}"{{ if or (eq .RelPermalink "/english/") (eq .Section "episodes") }} class="active"{{ end }}>英语听力</a>
+        <a href="{{ "categories" | relURL }}"{{ if or (eq .RelPermalink "/categories/") (eq .Kind "term") }} class="active"{{ end }}>节目</a>
         <a href="{{ "posts" | relURL }}"{{ if eq .RelPermalink "/posts/" }} class="active"{{ end }}>文章</a>
         <a class="nav-words{{ if eq .RelPermalink "/words/" }} active{{ end }}" href="{{ "words" | relURL }}">生词本</a>
       </nav>

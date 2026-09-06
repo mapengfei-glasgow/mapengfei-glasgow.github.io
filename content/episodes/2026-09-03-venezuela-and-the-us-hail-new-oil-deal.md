@@ -2,6 +2,7 @@
 layout: single
 title: "Venezuela and the US hail new oil deal"
 show: "Global News Podcast"
+categories: ["Global News Podcast"]
 date: 2026-09-03T00:00:00Z
 slug: "2026-09-03-venezuela-and-the-us-hail-new-oil-deal"
 description: "Global News Podcast: Venezuela and the US hail a new oil deal, plus the top news stories of the day."

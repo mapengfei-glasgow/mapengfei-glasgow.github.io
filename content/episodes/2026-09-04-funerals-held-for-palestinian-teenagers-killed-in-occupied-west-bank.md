@@ -2,6 +2,7 @@
 layout: single
 title: "Funerals held for Palestinian teenagers killed in occupied West Bank"
 show: "Global News Podcast"
+categories: ["Global News Podcast"]
 date: 2026-09-04T00:00:00Z
 slug: "2026-09-04-funerals-held-for-palestinian-teenagers-killed-in-occupied-west-bank"
 description: "Global News Podcast: funerals held in the occupied West Bank for Palestinian teenagers killed, plus the day's top news."

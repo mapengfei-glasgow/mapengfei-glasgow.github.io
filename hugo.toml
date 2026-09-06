@@ -1,9 +1,12 @@
 baseURL = "/"
 locale = "zh-CN"
 hasCJKLanguage = true
-title = "鹏飞的小站"
+title = "英语小站"
 description = "用播客学英语、写代码、记生活。"
 enableRobotsTXT = true
+
+[taxonomies]
+  categories = "categories"
 
 [markup]
   [markup.highlight]

@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $meta := index (hugo.Data.shows | default (dict)) (urlize .Title) | default (dict) }}
+{{ $pages := .Pages.ByDate.Reverse }}
+{{ $sentences := 0 }}{{ range $pages }}{{ $sentences = add $sentences (len .Params.sentences) }}{{ end }}
+<section class="intro">
+  <p class="eyebrow">节目</p>
+  <h1>{{ .Title }}</h1>
+  {{ with $meta.description }}<p>{{ . }}</p>{{ end }}
+  <ul class="chips">
+    <li>🎧 {{ len $pages }} 集</li>
+    <li>💬 {{ $sentences }} 句</li>
+  </ul>
+</section>
+
+<section class="ep-list">
+  <h2>全部集数</h2>
+  {{ range $pages }}
+  <a class="ep-card" href="{{ .RelPermalink }}">
+    <div class="ep-title">{{ .Title }}</div>
+    <div class="ep-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
+      <span class="dot">·</span>
+      <span>{{ len .Params.sentences }} 句</span>
+      {{ with .Description }}<span class="dot">·</span><span>{{ . }}</span>{{ end }}
+    </div>
+  </a>
+  {{ else }}
+  <p class="empty">这个节目还没有集数。</p>
+  {{ end }}
+</section>
+{{ end }}

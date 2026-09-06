@@ -18,7 +18,8 @@
   <a class="ep-card" href="{{ .RelPermalink }}">
     <div class="ep-title">{{ .Title }}</div>
     <div class="ep-meta">
-      <span class="pill">{{ .Params.show }}</span>
+      {{ $spage := site.GetPage (printf "/categories/%s" (urlize .Params.show)) }}
+      {{ if $spage }}<a class="pill" href="{{ $spage.RelPermalink }}">{{ .Params.show }}</a>{{ else }}<span class="pill">{{ .Params.show }}</span>{{ end }}
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
       <span class="dot">·</span>
       <span>{{ len .Params.sentences }} 句</span>

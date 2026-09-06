@@ -2,6 +2,7 @@
 layout: single
 title: "Clancy trial ends in deadlock"
 show: "Global News Podcast"
+categories: ["Global News Podcast"]
 date: 2026-09-05T00:00:00Z
 slug: "2026-09-05-clancy-trial-ends-in-deadlock"
 description: "Global News Podcast: the Clancy trial ends in deadlock, plus the top news stories of the day."
