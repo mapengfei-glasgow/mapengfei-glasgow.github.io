@@ -6,6 +6,10 @@
   <title>{{ if .IsPage }}{{ .Title }} · {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Description }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
   <meta name="theme-color" content="#0d0f12">
+  {{- /* Hotwire Turbo 8：SPA 式页面跳转（真 URL、可分享）。
+        data-turbo-eval="false" = 跳转时不重新执行本文件（它自己重建 Session 会冲突），
+        其余页面脚本靠它执行一次、用 turbo:load 事件逐页接线。 */ -}}
+  <script src="{{ (resources.Get "js/turbo.umd.js" | fingerprint).RelPermalink }}" defer data-turbo-eval="false"></script>
   <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
   <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
   <link rel="canonical" href="{{ .Permalink }}">
@@ -39,10 +43,10 @@
     <div class="header-bar">
       <a class="brand" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
       <nav class="site-nav" aria-label="站点导航">
-        <a href="{{ "english" | relURL }}"{{ if or (eq .RelPermalink "/english/") (eq .Section "episodes") }} class="active"{{ end }}>英语听力</a>
-        <a href="{{ "categories" | relURL }}"{{ if or (eq .RelPermalink "/categories/") (eq .Kind "term") }} class="active"{{ end }}>节目</a>
-        <a href="{{ "posts" | relURL }}"{{ if eq .RelPermalink "/posts/" }} class="active"{{ end }}>文章</a>
-        <a class="nav-words{{ if eq .RelPermalink "/words/" }} active{{ end }}" href="{{ "words" | relURL }}">生词本</a>
+        <a href="{{ "english/" | relURL }}"{{ if or (eq .RelPermalink "/english/") (eq .Section "episodes") }} class="active"{{ end }}>英语听力</a>
+        <a href="{{ "categories/" | relURL }}"{{ if or (eq .RelPermalink "/categories/") (eq .Kind "term") }} class="active"{{ end }}>节目</a>
+        <a href="{{ "posts/" | relURL }}"{{ if eq .RelPermalink "/posts/" }} class="active"{{ end }}>文章</a>
+        <a class="nav-words{{ if eq .RelPermalink "/words/" }} active{{ end }}" href="{{ "words/" | relURL }}">生词本</a>
       </nav>
       <button id="auth-chip" class="auth-chip" type="button" hidden>登录</button>
       <button id="theme-toggle" class="theme-btn" type="button"
@@ -52,6 +56,30 @@
   <main>
     {{ block "main" . }}{{ end }}
   </main>
+  <!-- 全局底部播放条：data-turbo-permanent 让 Turbo 按 id 保留整个节点（连同里面的
+       <audio>）跨页面存活 —— 播放中的音频跳转任何页面都不中断，播放状态常驻页面底部 -->
+  <div id="player-bar" class="player-bar" data-turbo-permanent hidden>
+    <audio id="player-audio" preload="none"></audio>
+    <div class="player-inner">
+      <a id="player-link" class="player-link" href="#" tabindex="-1">
+        <span id="player-icon" aria-hidden="true">🎧</span>
+        <span class="player-texts">
+          <strong id="player-title">尚未播放</strong>
+          <span id="player-sentence" class="player-sentence"></span>
+        </span>
+      </a>
+      <div class="player-btns">
+        <button id="player-prev" type="button" aria-label="上一句">⏮</button>
+        <button id="player-play" type="button" aria-label="播放">▶</button>
+        <button id="player-next" type="button" aria-label="下一句">⏭</button>
+      </div>
+      <button id="player-autonext" type="button" aria-pressed="true" title="点一句播一句，播完自动接下一句">自动连播</button>
+      <div class="player-seek">
+        <input id="player-progress" type="range" min="0" max="1000" step="1" value="0" aria-label="播放进度">
+        <span id="player-time">0:00 / 0:00</span>
+      </div>
+    </div>
+  </div>
   <footer class="site-footer">
     <p>{{ .Site.Title }} · Hugo + faster-whisper 生成 · 点击任意句子即可朗读</p>
   </footer>
@@ -66,7 +94,7 @@
         <button class="auth-tab active" data-mode="login" type="button">登录</button>
         <button class="auth-tab" data-mode="signup" type="button">注册</button>
       </div>
-      <form id="auth-form">
+      <form id="auth-form" data-turbo="false">
         <input type="text" id="auth-uid" placeholder="用户名（4–36 位字母/数字，注册后就是你的账号 ID）" maxlength="36" hidden autocomplete="username">
         <input type="email" id="auth-email" placeholder="邮箱" required autocomplete="email">
         <input type="password" id="auth-password" placeholder="密码（至少 8 位）" required minlength="8" autocomplete="current-password">
@@ -76,8 +104,12 @@
       <p class="auth-err" id="auth-err" role="alert"></p>
     </div>
   </div>
-  {{- /* fingerprint 带内容哈希，文件一变 URL 就变，杜绝浏览器缓存旧 JS */ -}}
-  <script src="{{ (resources.Get "js/appwrite.js" | fingerprint).RelPermalink }}" defer></script>
+  {{- /* fingerprint 带内容哈希，文件一变 URL 就变，杜绝浏览器缓存旧 JS。
+        data-turbo-eval="false"：每个文件只在硬加载时执行一次；跨页行为靠它们
+        各自注册的 turbo:load 监听器（document 元素不随页面切换销毁）。 */ -}}
+  <script src="{{ (resources.Get "js/player.js" | fingerprint).RelPermalink }}" defer data-turbo-eval="false"></script>
+  <script src="{{ (resources.Get "js/appwrite.js" | fingerprint).RelPermalink }}" defer data-turbo-eval="false"></script>
+  {{ block "body-extra" . }}{{ end }}
   <script>
     (function () {
       var btn = document.getElementById("theme-toggle");
@@ -97,16 +129,21 @@
       btn.addEventListener("click", function () {
         setTheme(root.getAttribute("data-theme") === "dark" ? "light" : "dark", true);
       });
-      try {
-        var mq = matchMedia("(prefers-color-scheme: dark)");
-        var onChange = function (e) {
-          var saved = null;
-          try { saved = localStorage.getItem("ds-theme"); } catch (err) {}
-          if (!saved) setTheme(e.matches ? "dark" : "light", false);
-        };
-        if (mq.addEventListener) mq.addEventListener("change", onChange);
-        else if (mq.addListener) mq.addListener(onChange);
-      } catch (e) {}
+      /* prefers-color-scheme 监听只注册一次：Turbo 每次跳转都会重新执行本脚本，
+         但 MediaQueryList 是全局的，重复注册会累积 */
+      if (!window.__themeMqBound) {
+        window.__themeMqBound = true;
+        try {
+          var mq = matchMedia("(prefers-color-scheme: dark)");
+          var onChange = function (e) {
+            var saved = null;
+            try { saved = localStorage.getItem("ds-theme"); } catch (err) {}
+            if (!saved) setTheme(e.matches ? "dark" : "light", false);
+          };
+          if (mq.addEventListener) mq.addEventListener("change", onChange);
+          else if (mq.addListener) mq.addListener(onChange);
+        } catch (e) {}
+      }
     })();
   </script>
 </body>

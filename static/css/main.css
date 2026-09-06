@@ -550,13 +550,11 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
 }
 .btn:hover { filter: brightness(1.12); }
 .btn:active { transform: translateY(1px); }
-.toggle {
-  font-size: 0.9rem;
-  color: var(--muted);
-  cursor: pointer;
-  user-select: none;
+.controls-note {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--faint);
 }
-.toggle input { accent-color: var(--primary); }
 .now-playing {
   margin-left: auto;
   font-family: var(--font-mono);
@@ -928,4 +926,160 @@ body.modal-open { overflow: hidden; }
   background: var(--bg-soft);
   border-left: 3px solid var(--primary);
   border-radius: 0 6px 6px 0;
+}
+
+/* ---------- Turbo 跳转进度条（覆盖其注入的默认蓝） ----------
+   Turbo 把样式插到 <head> 第一个子节点，本文件在其后 → 同权重下我们胜出 */
+.turbo-progress-bar {
+  height: 3px;
+  background: linear-gradient(90deg, var(--primary), var(--accent) 60%, var(--sky-blue));
+}
+
+/* ---------- 全局底部播放条（#player-bar 带 data-turbo-permanent，跨页常驻） ---------- */
+#player-bar[hidden] { display: none; }
+
+/* 播放条盖在页面底部 → 给 body 留白。:has 现代浏览器直接生效；
+   player-open class 由 player.js 在每次 turbo:load 时补回（旧浏览器兜底） */
+body:has(#player-bar:not([hidden])) { padding-bottom: 118px; }
+body.player-open { padding-bottom: 118px; }
+@media (max-width: 640px) {
+  body:has(#player-bar:not([hidden])),
+  body.player-open { padding-bottom: 128px; }
+}
+
+#player-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 40;
+  background: color-mix(in srgb, var(--card-raised) 88%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid var(--border-strong);
+  box-shadow: 0 -10px 28px rgba(0, 0, 0, 0.30);
+}
+:root[data-theme="light"] #player-bar { box-shadow: 0 -10px 28px rgba(40, 50, 90, 0.12); }
+
+.player-inner {
+  max-width: 52em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45em 1em;
+  padding: 0.65em 1.1em calc(0.65em + env(safe-area-inset-bottom));
+}
+
+.player-link {
+  flex: 1 1 11em;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  text-decoration: none;
+  color: inherit;
+}
+.player-link:hover #player-title { color: var(--lavender); }
+:root[data-theme="light"] .player-link:hover #player-title { color: var(--primary); }
+#player-icon { font-size: 1.4rem; line-height: 1; flex: none; }
+.player-texts { min-width: 0; }
+#player-title {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.15s ease;
+}
+#player-sentence {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  line-height: 1.4;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.player-btns {
+  display: flex;
+  align-items: center;
+  gap: 0.45em;
+  flex: none;
+}
+.player-btns button {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--border-strong);
+  background: var(--card);
+  color: var(--fg);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  transition: border-color 0.12s ease, transform 0.1s ease, filter 0.12s ease;
+}
+.player-btns button:hover {
+  border-color: var(--hover-border);
+  transform: translateY(-1px);
+}
+#player-play {
+  width: 48px;
+  height: 48px;
+  background: var(--primary);
+  border-color: transparent;
+  color: #fff;
+  font-size: 1.15rem;
+}
+#player-play:hover { filter: brightness(1.12); }
+
+#player-autonext {
+  flex: none;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.42em 0.85em;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: color 0.12s ease, border-color 0.12s ease, background 0.12s ease;
+}
+#player-autonext:hover { border-color: var(--hover-border); }
+#player-autonext[aria-pressed="true"] {
+  color: var(--sky-blue);
+  border-color: var(--sky-blue);
+  background: hsl(225deg 100% 75% / 0.12);
+}
+:root[data-theme="light"] #player-autonext[aria-pressed="true"] {
+  background: rgba(31, 102, 214, 0.10);
+}
+
+/* 进度条独占第二行（桌面/移动一致的音乐条布局） */
+.player-seek {
+  flex: 1 1 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+}
+#player-progress {
+  flex: 1;
+  min-width: 0;
+  height: 28px;      /* 视觉细、点击区够大 */
+  accent-color: var(--primary);
+  cursor: pointer;
+}
+#player-time {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }

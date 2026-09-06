@@ -176,7 +176,8 @@
 
   function wireModal() {
     modal = document.getElementById("auth-modal");
-    if (!modal) return;
+    if (!modal || modal.dataset.wired === "1") return;
+    modal.dataset.wired = "1";
     modal.querySelector("#auth-close").addEventListener("click", closeModal);
     modal.addEventListener("click", function (e) { if (e.target === modal) closeModal(); });
     document.addEventListener("keydown", function (e) {
@@ -326,7 +327,8 @@
     var art = document.querySelector(".episode");
     if (!art || !art.dataset.slug) return;
     var ol = art.querySelector("ol.sentences");
-    if (!ol) return;
+    if (!ol || ol.dataset.wired === "1") return;
+    ol.dataset.wired = "1";
     art.querySelectorAll(".sentence").forEach(makeStar);
     ol.addEventListener("click", function (e) {
       var t = e.target;
@@ -351,7 +353,8 @@
 
   function wireVocabPage() {
     var box = document.getElementById("vocab-list");
-    if (!box) return;
+    if (!box || box.dataset.wired === "1") return;
+    box.dataset.wired = "1";
     var empty = document.getElementById("vocab-empty");
     var logout = document.getElementById("vocab-logout");
 
@@ -423,17 +426,27 @@
     wireVocabPage();
 
     var c = chip();
-    if (c) c.addEventListener("click", function () {
-      if (loggedIn()) { location.href = "/words/"; return; }
-      ensureSession().then(function (ok) {
-        if (!ok) openModal("login");
+    if (c && c.dataset.wired !== "1") {
+      c.dataset.wired = "1";
+      c.addEventListener("click", function () {
+        if (loggedIn()) {
+          // 走 Turbo 跳转（SPA 式，底部播放条不中断）；Turbo 不可用时退回硬跳转
+          if (window.Turbo && window.Turbo.visit) window.Turbo.visit("/words/");
+          else location.href = "/words/";
+          return;
+        }
+        ensureSession().then(function (ok) {
+          if (!ok) openModal("login");
+        });
       });
-    });
+    }
 
     var hint = null;
     try { hint = localStorage.getItem("cookieFallback"); } catch (e) {}
     if (hint) {
-      ensureSession(); // 可能有上次的登录，静默恢复
+      // 可能有上次的登录，静默恢复。ensureSession 的 promise 有缓存，
+      // 但 SPA 跳转后 chip 是全新节点，每次页面出现都要重新刷一遍它
+      ensureSession().then(function () { updateChip(); });
     } else {
       updateChip();    // 没有会话痕迹 → 直接显示"登录"
     }
@@ -441,4 +454,8 @@
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
+  // Turbo：每次页面出现（含 SPA 跳转）后 <body> 已换成新节点，重新接线。
+  // 本文件带 data-turbo-eval="false" 不会重复执行，监听器挂 document 上长期有效；
+  // 各 wire* 函数用 data-wired 标记防止同一页代内重复绑。
+  document.addEventListener("turbo:load", init);
 })();

@@ -1,11 +1,12 @@
-{{ define "head-extra" }}
-<script src="{{ (resources.Get "js/episode.js" | fingerprint).RelPermalink }}" defer></script>
-{{ end }}
 {{ define "main" }}
+{{ $meta := index (hugo.Data.shows | default (dict)) (urlize .Params.show) | default (dict) }}
+{{ $icon := index $meta "icon" | default "🎧" }}
 <article class="episode"
          data-audio="{{ "audio" | absURL }}/{{ .Params.audioDir }}/episode.mp3"
          data-slug="{{ .Params.slug }}"
          data-show="{{ .Params.show }}"
+         data-icon="{{ $icon }}"
+         data-duration="{{ .Params.totalDuration }}"
          data-title="{{ .Title }}">
   <h1 class="ep-title">{{ .Title }}</h1>
   <p class="meta">
@@ -21,9 +22,7 @@
 
   <div class="controls">
     <button id="play-all" class="btn">▶ 播放全部</button>
-    <label class="toggle" title="播完一句自动播下一句">
-      <input type="checkbox" id="auto-next" checked> 自动连播
-    </label>
+    <span class="controls-note">播放状态在底部播放条</span>
     <span id="now-playing" class="now-playing"></span>
   </div>
 
@@ -42,8 +41,13 @@
   </ol>
 
   <p class="hint">
-    点击某句 → 从那一刻开始播放；开「自动连播」则整集连贯播完（无停顿）；超过 A2 水平的句子带 💡 英文解释。再点一次停止。
-    键盘：↑/↓ 跳句，空格 播放/暂停。
+    点击某句 → 从那一刻开始播放，再点一次暂停；开「自动连播」（底部播放条）则整集连贯播完，无停顿。
+    播放状态常驻底部播放条：⏮/⏭ 跳句、拖动进度条、切换页面播放不中断。
+    键盘：↑/↓ 跳句，空格 播放/暂停（全站点有效）。
+    超过 A2 水平的句子带 💡 英文解释。
   </p>
 </article>
+{{ end }}
+{{ define "body-extra" }}
+<script src="{{ (resources.Get "js/episode.js" | fingerprint).RelPermalink }}" defer data-turbo-eval="false"></script>
 {{ end }}
