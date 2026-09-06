@@ -75,7 +75,8 @@
       <p class="auth-err" id="auth-err" role="alert"></p>
     </div>
   </div>
-  <script src="{{ "js/appwrite.js" | absURL }}" defer></script>
+  {{- /* fingerprint 带内容哈希，文件一变 URL 就变，杜绝浏览器缓存旧 JS */ -}}
+  <script src="{{ (resources.Get "js/appwrite.js" | fingerprint).RelPermalink }}" defer></script>
   <script>
     (function () {
       var btn = document.getElementById("theme-toggle");

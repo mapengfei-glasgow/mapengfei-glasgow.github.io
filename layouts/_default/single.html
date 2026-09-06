@@ -1,5 +1,5 @@
 {{ define "head-extra" }}
-<script src="{{ "js/episode.js" | absURL }}" defer></script>
+<script src="{{ (resources.Get "js/episode.js" | fingerprint).RelPermalink }}" defer></script>
 {{ end }}
 {{ define "main" }}
 <article class="episode"
