@@ -21,19 +21,12 @@
   const audio = new Audio(audioSrc);
   audio.preload = "none"; // 用户真的点播放才开始下载（每集 20–36MB，别浪费流量）
 
-  let idx = -1;      // highlighted / selected sentence
+  let idx = -1;      // 当前句序号
   let mode = "off";  // "follow" (continuous) | "single" (stop at this sentence's end) | "off"
   let rafId = 0;
   let stopped = true; // true right after stop(); false after user-initiated pause
 
   // ---- UI helpers -------------------------------------------------------
-
-  function clearClasses() {
-    for (const el of items) {
-      el.classList.remove("playing", "selected");
-      el.querySelector(".progress").style.width = "0%";
-    }
-  }
 
   // Reveal the plain-English explanation for one sentence, hiding the others.
   function revealExplain(li) {
@@ -47,18 +40,10 @@
 
   function markActive(i) {
     for (let j = 0; j < n; j++) {
-      const el = items[j];
-      el.classList.toggle("done", j < i);
-      el.classList.toggle("playing", j === i);
-      if (j !== i) {
-        el.classList.remove("selected");
-        if (j < i) el.querySelector(".progress").style.width = "100%";
-      }
+      items[j].classList.toggle("done", j < i);
+      items[j].classList.toggle("playing", j === i);
     }
-    if (i >= 0 && i < n) {
-      items[i].classList.add("selected");
-      nowEl.textContent = (i + 1) + " / " + n;
-    }
+    if (i >= 0 && i < n) nowEl.textContent = (i + 1) + " / " + n;
   }
 
   // ---- playback ---------------------------------------------------------
@@ -93,11 +78,6 @@
       return;
     }
 
-    if (idx >= 0) {
-      const dur = Math.max(0.5, ends[idx] - starts[idx]);
-      const bar = items[idx].querySelector(".progress");
-      bar.style.width = Math.min(100, Math.max(0, ((t - starts[idx]) / dur) * 100)) + "%";
-    }
     if (!audio.paused) rafId = requestAnimationFrame(loop);
   }
 
@@ -140,10 +120,7 @@
     mode = "off";
     stopped = true;
     stopLoop();
-    if (idx >= 0) {
-      items[idx].classList.remove("playing");
-      items[idx].querySelector(".progress").style.width = "0%";
-    }
+    if (idx >= 0) items[idx].classList.remove("playing");
     nowEl.textContent = "";
     setBtn("▶ 播放全部");
   }

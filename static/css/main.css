@@ -572,10 +572,9 @@ main {
   grid-template-columns: 2.4em 1fr;
   gap: 0.3em 0.7em;
   padding: 0.55em 0.8em 0.85em;
-  border-left: 3px solid transparent;
   border-radius: 8px;
   cursor: pointer;
-  transition: background 0.12s ease, border-color 0.12s ease;
+  transition: background 0.12s ease;
 }
 .sentence:hover { background: var(--bg-soft); }
 .sentence .idx {
@@ -614,30 +613,14 @@ main {
 }
 .sentence.show-explain .explain { display: block; }
 
-.sentence .bar {
-  grid-column: 2;
-  height: 3px;
-  background: var(--track);
-  border-radius: 2px;
-  overflow: hidden;
-}
-.sentence .progress {
-  height: 100%;
-  width: 0;
-  background: linear-gradient(90deg, var(--primary), var(--accent));
-  transition: width 0.2s linear;
-}
-.sentence.playing {
-  background: var(--primary-soft);
-  border-left-color: var(--primary);
-}
+/* 当前句不加框、不加进度条（干扰视线）：只靠序号前的 ▶ + 序号变色指示 */
 .sentence.playing .idx {
   color: var(--primary);
   font-weight: 700;
 }
-.sentence.selected {
-  outline: 2px solid var(--primary);
-  outline-offset: 2px;
+.sentence.playing .idx::before {
+  content: "▶ ";
+  font-size: 0.75em;
 }
 .sentence.done .text { color: var(--muted); }
 
