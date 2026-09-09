@@ -1,26 +1,27 @@
 {{ define "main" }}
-<section class="intro">
+<section class="page-head">
   <p class="eyebrow">合集 · 节目</p>
   <h1>节目</h1>
-  <p>每集播客都标了出处。点卡片进这个节目的独立页面，看它的全部集数。</p>
+  <p class="page-lead">每集播客都标了出处：BBC 的每日新闻与学者对谈、还有各种有意思的独立播客。
+  点进节目页，按集精听、跟读。以后会陆续加新节目。</p>
 </section>
 
-<section class="collections">
-  {{ range .Data.Terms.Alphabetical }}
-  {{ $meta := index (hugo.Data.shows | default (dict)) (urlize .Name) | default (dict) }}
-  {{ $icon := $meta.icon | default "🎙️" }}
-  {{ $desc := $meta.description | default "还没有介绍。" }}
-  <a class="collection-card" href="{{ .Page.RelPermalink }}">
-    <div class="cc-icon" aria-hidden="true">{{ $icon }}</div>
-    <div class="cc-body">
-      <div class="ep-title">{{ .Page.Title }}</div>
-      <p class="cc-desc">{{ $desc }}</p>
-      <div class="ep-meta">
-        <span class="pill">{{ .Count }} 集</span>
-      </div>
-    </div>
-    <span class="cc-arrow" aria-hidden="true">→</span>
-  </a>
-  {{ end }}
+<section class="ep-list">
+  <h2 class="section-label">全部 {{ len .Data.Terms }} 个节目</h2>
+  <div class="art-list">
+    {{ range .Data.Terms.Alphabetical }}
+    {{ $meta := index (hugo.Data.shows | default (dict)) (urlize .Name) | default (dict) }}
+    {{ $icon := $meta.icon | default "🎙️" }}
+    {{ $desc := $meta.description | default "还没有介绍。" }}
+    {{ $terms := .Pages }}
+    {{ $sent := 0 }}{{ range $terms }}{{ $sent = add $sent (len .Params.sentences) }}{{ end }}
+    <article class="ep-card">
+      <a class="art-title" href="{{ .Page.RelPermalink }}"><span class="show-emoji" aria-hidden="true">{{ $icon }}</span> {{ .Page.Title }}</a>
+      <p class="art-meta"><span class="pill">{{ .Count }} 集</span><span>{{ $sent }} 句</span></p>
+      <p class="art-desc">{{ $desc }}</p>
+      <a class="art-more" href="{{ .Page.RelPermalink }}">进节目页<svg class="chevrons" width="30" height="12" viewBox="0 0 30 12" fill="none" aria-hidden="true"><path d="M0.75 6H8.25" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M4.5 1.5 9.75 6 4.5 10.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 9.5 15.5 6 12 2.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/><path d="M18.5 9.5 22 6 18.5 2.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" opacity="0.3"/></svg></a>
+    </article>
+    {{ end }}
+  </div>
 </section>
 {{ end }}

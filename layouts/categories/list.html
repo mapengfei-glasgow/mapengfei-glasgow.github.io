@@ -1,31 +1,25 @@
 {{ define "main" }}
 {{ $meta := index (hugo.Data.shows | default (dict)) (urlize .Title) | default (dict) }}
-{{ $pages := .Pages.ByDate.Reverse }}
+{{ $icon := $meta.icon | default "🎙️" }}
+{{ $desc := $meta.description | default "还没有介绍。" }}
+{{ $pages := sort .Pages "Date" "desc" }}
 {{ $sentences := 0 }}{{ range $pages }}{{ $sentences = add $sentences (len .Params.sentences) }}{{ end }}
-<section class="intro">
+
+<section class="page-head">
   <p class="eyebrow">节目</p>
-  <h1>{{ .Title }}</h1>
-  {{ with $meta.description }}<p>{{ . }}</p>{{ end }}
-  <ul class="chips">
-    <li>🎧 {{ len $pages }} 集</li>
-    <li>💬 {{ $sentences }} 句</li>
-  </ul>
+  <h1><span class="show-emoji" aria-hidden="true">{{ $icon }}</span> {{ .Title }}</h1>
+  <p class="page-lead">{{ $desc }}</p>
+  <p class="art-meta"><span class="pill">{{ len $pages }} 集</span><span>{{ $sentences }} 句</span></p>
 </section>
 
 <section class="ep-list">
-  <h2>全部集数</h2>
-  {{ range $pages }}
-  <a class="ep-card" href="{{ .RelPermalink }}">
-    <div class="ep-title">{{ .Title }}</div>
-    <div class="ep-meta">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
-      <span class="dot">·</span>
-      <span>{{ len .Params.sentences }} 句</span>
-      {{ with .Description }}<span class="dot">·</span><span>{{ . }}</span>{{ end }}
-    </div>
-  </a>
-  {{ else }}
-  <p class="empty">这个节目还没有集数。</p>
-  {{ end }}
+  <h2 class="section-label">全部集数</h2>
+  <div class="art-list">
+    {{ range $pages }}
+    {{ partial "art-row.html" (dict "page" . "withShow" false "label" "去听这集") }}
+    {{ else }}
+    <p class="empty">这个节目还没有集数。</p>
+    {{ end }}
+  </div>
 </section>
 {{ end }}

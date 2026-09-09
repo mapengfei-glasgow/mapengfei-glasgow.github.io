@@ -1,123 +1,131 @@
 /* ------------------------------------------------------------------
-   风格参考：joshwcomeau.com
-   深海军蓝底 + 顶部夜空渐变（带星点与月光晕）
-   紫罗兰动作色 + 品红点缀 + 天蓝信息色
-   小而实的圆角、1px 细边框、分层深表面
-   展示字体：Fraunces（西文）/ 站酷庆科黄油体（中文）
-   正文：Nunito / Noto Sans SC；标签元信息：JetBrains Mono
-   浅色模式 = 白天天空变体（同一套结构，换一套色值）
-------------------------------------------------------------------- */
+   风格参考：joshwcomeau.com（高保真复刻其设计语言）
+   深色 #0d0f12 / 浅色 #fff；紫罗兰动作色 + 品红分节标题
+   顶部天空色带 + 手绘波浪；页脚天空渐变 + 波浪切边
+   正文/标题：Wotfard（中文回退 Noto Sans SC）；等宽：JetBrains Mono
+ ------------------------------------------------------------------- */
+
+/* Wotfard 自托管（Google Fonts 没有这个字体；woff2 来自 joshwcomeau.com，
+   约 19KB/字重，只含拉丁字符，中文自动回退 Noto Sans SC） */
+@font-face {
+  font-family: "Wotfard";
+  src: url("/fonts/wotfard/wotfard-regular-webfont.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Wotfard";
+  src: url("/fonts/wotfard/wotfard-regular-italic-webfont.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Wotfard";
+  src: url("/fonts/wotfard/wotfard-medium-webfont.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+@font-face {
+  font-family: "Wotfard";
+  src: url("/fonts/wotfard/wotfard-semibold-webfont.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
 :root {
   color-scheme: dark;
 
-  /* 表面分层（越浅越“浮”） */
-  --bg: hsl(210deg 15% 6%);
-  --bg-soft: hsl(210deg 15% 9%);
-  --card: hsl(210deg 15% 11%);
-  --card-raised: hsl(210deg 15% 14%);
+  /* 表面（深色 = Josh dark 变量原值） */
+  --bg: #0d0f12;
+  --bg-soft: #12161c;
+  --card: #121d2b;              /* Josh cloud-500：chip / 软填充 */
+  --card-raised: #172436;       /* 浮起表面（弹窗 / 播放条） */
 
-  --fg: hsl(210deg 10% 90%);
-  --muted: hsl(210deg 10% 62%);
-  --faint: hsl(210deg 10% 45%);
+  --fg: #e3e6e8;
+  --muted: #9ca8b4;             /* Josh gray-700：副标题 */
+  --faint: #5d666f;
 
-  /* 强调色 */
-  --primary: hsl(240deg 95% 62%);        /* 紫罗兰：动作/链接 */
-  --primary-soft: hsl(240deg 95% 62% / 0.13);
-  --accent: hsl(333deg 100% 55%);        /* 品红：点缀 */
-  --accent-soft: hsl(333deg 100% 55% / 0.13);
-  --sky-blue: hsl(225deg 100% 75%);      /* 天蓝：信息/节目名 */
-  --lavender: hsl(280deg 100% 85%);
+  --primary: #809fff;           /* Josh primary：链接 / 动作 */
+  --primary-soft: rgba(128, 159, 255, 0.14);
+  --accent: #ff1981;            /* Josh secondary：分节标题（品红） */
+  --accent-soft: rgba(255, 25, 129, 0.14);
+  --sky-blue: #66aacc;          /* Josh decorative */
+  --lavender: #e6b3ff;          /* Josh tertiary */
 
-  --border: hsl(210deg 12% 20%);
-  --border-strong: hsl(210deg 10% 28%);
-  --hover-border: hsl(240deg 95% 62% / 0.55);
-  --track: hsl(210deg 12% 20%);
+  --border: #1c2836;
+  --border-strong: #2d3b53;
+  --hover-border: rgba(128, 159, 255, 0.55);
+  --track: #1c2836;
 
-  /* 顶部夜空 */
-  --sky-from: hsl(214deg 45% 13%);
-  --sky-to: hsl(205deg 50% 20%);
-  --star: rgba(255, 255, 255, 0.5);
-  --moon-glow: hsl(200deg 70% 75% / 0.20);
+  /* 天空色带（深 = Josh dark sky） */
+  --sky-from: #111b27;
+  --sky-to: #265973;
+  --footer-fg: #cfe8f7;
+  --wave-2: #0e1620;            /* Josh cloud-300：顶部波浪第二层 */
 
   --shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
-  --radius: 10px;
+  --radius: 8px;
 
-  /* 字体 */
-  --font-display: "Fraunces", "ZCOOL QingKe HuangYou", "Nunito",
-    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei",
-    "Noto Sans SC", "Source Han Sans SC", serif;
-  --font-sans: "Nunito", "Noto Sans SC", "PingFang SC",
-    "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans SC",
-    system-ui, sans-serif;
-  --font-hand: "Sriracha", "ZCOOL QingKe HuangYou", cursive;
+  /* 字体（Wotfard = Josh 同款人文无衬线） */
+  --font-display: "Wotfard", "Noto Sans SC", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-sans: "Wotfard", "Noto Sans SC", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
+  --font-hand: "Wotfard", "Noto Sans SC", sans-serif;
   --font-mono: "JetBrains Mono", "SFMono-Regular", Menlo, Consolas,
     "Liberation Mono", monospace;
 }
 
-/* 浅色 = 白天天空：同一套结构，换成柔和的日景色 */
+/* 浅色 = Josh light 变量原值 */
 :root[data-theme="light"] {
   color-scheme: light;
 
-  --bg: #f4f6fb;
-  --bg-soft: #eceff8;
-  --card: #ffffff;
-  --card-raised: #f2f4fb;
+  --bg: #ffffff;
+  --bg-soft: #f4f9fc;
+  --card: #b1dff6;              /* Josh cloud-500 */
+  --card-raised: #ddeef8;       /* Josh cloud-300 */
 
-  --fg: #181b23;
-  --muted: #5b6375;
+  --fg: #0a0c10;
+  --muted: #5a6072;
   --faint: #8a91a3;
 
-  --primary: #5b3df0;
-  --primary-soft: rgba(91, 61, 240, 0.10);
-  --accent: #d81b85;
-  --accent-soft: rgba(216, 27, 133, 0.10);
-  --sky-blue: #1f66d6;
-  --lavender: #8f6bff;
+  --primary: #4242fa;
+  --primary-soft: rgba(66, 66, 250, 0.10);
+  --accent: #e60067;
+  --accent-soft: rgba(230, 0, 103, 0.10);
+  --sky-blue: #63bce9;
+  --lavender: #2c0b8e;
 
-  --border: #dde2ef;
-  --border-strong: #c8cfe2;
-  --hover-border: rgba(91, 61, 240, 0.5);
-  --track: #dde2ef;
+  --border: #dde9f2;
+  --border-strong: #c3d9e8;
+  --hover-border: rgba(66, 66, 250, 0.5);
+  --track: #dde9f2;
 
-  --sky-from: hsl(207deg 82% 74%);
-  --sky-to: hsl(208deg 75% 82%);
-  --star: transparent;
-  --moon-glow: rgba(255, 255, 255, 0.65);
+  --sky-from: #a0d4ee;
+  --sky-to: #7dc4e8;
+  --footer-fg: #1d4560;
+  --wave-2: #ddeef8;
 
-  --shadow: 0 10px 26px rgba(40, 50, 90, 0.10);
+  --shadow: 0 10px 26px rgba(30, 60, 90, 0.12);
 }
 
 * { box-sizing: border-box; }
 
 html { -webkit-text-size-adjust: 100%; }
 
+
 body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
   font-family: var(--font-sans);
-  font-size: 1.125rem;
-  line-height: 1.8;
+  font-size: 1rem;
+  line-height: 1.75;
+  -webkit-font-smoothing: antialiased;
   -webkit-tap-highlight-color: transparent;
-}
-
-/* 顶部夜空：渐变 + 星点 + 右上角月光晕（浅色时只剩柔和天光） */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0 0 auto 0;
-  height: 440px;
-  pointer-events: none;
-  z-index: -1;
-  background:
-    radial-gradient(1.6px 1.6px at 11% 24%, var(--star) 50%, transparent 51%),
-    radial-gradient(1.2px 1.2px at 27% 12%, var(--star) 50%, transparent 51%),
-    radial-gradient(1.8px 1.8px at 44% 32%, var(--star) 50%, transparent 51%),
-    radial-gradient(1.2px 1.2px at 62% 15%, var(--star) 50%, transparent 51%),
-    radial-gradient(1.5px 1.5px at 78% 28%, var(--star) 50%, transparent 51%),
-    radial-gradient(1.2px 1.2px at 92% 9%,  var(--star) 50%, transparent 51%),
-    radial-gradient(560px 250px at 84% -70px, var(--moon-glow), transparent 70%),
-    linear-gradient(180deg, var(--sky-from) 0%, var(--sky-to) 44%, transparent 78%);
 }
 
 ::selection { background: var(--primary-soft); }
@@ -128,44 +136,73 @@ body::before {
   border-radius: 6px;
 }
 
-/* ---------- 页头 ---------- */
-.site-header {
+/* ---------- 页头（Josh 式：5rem 高吸顶，滚动后透出底色） ---------- */
+.top-stick {
   position: sticky;
   top: 0;
   z-index: 10;
-  background: color-mix(in srgb, var(--bg) 82%, transparent);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  border-bottom: 1px solid var(--border);
+  margin-top: 2rem;
+  height: 5rem;
+  /* 初始透明 → 天空色；滚动后叠加 var(--bg) 渐变（Josh 的 --top-color 技巧） */
+  background: linear-gradient(to top, transparent 0, var(--sky-from) 100%);
 }
-/* 顶部发丝线：紫 → 品红 → 天蓝 */
-.site-header::before {
+.top-stick::after {
   content: "";
-  display: block;
-  height: 2px;
-  background: linear-gradient(90deg, var(--primary), var(--accent) 55%, var(--sky-blue));
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, transparent 0, var(--bg) 100%);
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  pointer-events: none;
 }
-.header-bar {
-  max-width: 46em;
-  margin: 0 auto;
-  padding: 0.7em 1em;
+.top-stick.stuck::after { opacity: 1; }
+.top-stick > * { position: relative; z-index: 1; }
+
+.site-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1em;
+  gap: 3rem;
+  height: 3rem;
+  max-width: 68.75rem;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
+@media (max-width: 56.25rem) { .site-header { gap: 2rem; } }
+@media (max-width: 37.5rem) { .site-header { gap: 1rem; padding: 0 1rem; } }
+
+/* 品牌 = Josh 式三段 logo：粗体 + 徽记 + 中字重 */
 .brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transform: translateY(-0.1875rem);
   font-family: var(--font-display);
-  font-weight: 800;
   font-size: 1.15rem;
   letter-spacing: 0.01em;
   text-decoration: none;
   color: var(--fg);
 }
-.brand::after {
-  content: ".";
-  color: var(--accent);
+.brand-a { font-weight: 600; }
+.brand-b { font-weight: 500; }
+.brand-badge {
+  display: inline-grid;
+  place-items: center;
+  width: 1.35em;
+  height: 1.35em;
+  border-radius: 6px;
+  background: var(--card);
+  font-size: 0.78em;
+  line-height: 1;
 }
+.header-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin-left: auto;
+}
+
 .theme-btn {
   flex: none;
   width: 2.25em;
@@ -175,8 +212,8 @@ body::before {
   font-size: 0.95rem;
   line-height: 1;
   color: var(--fg);
-  background: var(--card);
-  border: 1px solid var(--border);
+  background: transparent;
+  border: 1px solid var(--border-strong);
   border-radius: 999px;
   cursor: pointer;
   transition: border-color 0.15s ease, transform 0.15s ease;
@@ -185,8 +222,24 @@ body::before {
   border-color: var(--hover-border);
   transform: translateY(-1px);
 }
+.auth-chip {
+  font-family: var(--font-sans);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--fg);
+  background: var(--card);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 0.3125rem 0.75rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: border-color 0.12s ease, color 0.12s ease, background 0.12s ease;
+}
+.auth-chip:hover { border-color: var(--hover-border); color: var(--primary); }
+.auth-chip[data-state="in"] { border-color: var(--primary); color: var(--primary); background: var(--primary-soft); }
+.auth-chip[hidden] { display: none; }
 
-/* 页头导航（Josh 式：小等宽文字链接） */
+/* 页头导航：小字重文字链接 */
 .site-nav {
   display: flex;
   gap: 1.4em;
@@ -199,76 +252,48 @@ body::before {
   transition: color 0.15s ease;
 }
 .site-nav a:hover { color: var(--fg); }
-/* active 用 sky-blue 而非 primary：dark 主题下 primary(#4242fa) 对深色 header
-   背景只有 2.96:1，不达标；sky-blue 两主题下均 ≥5:1 */
 .site-nav a.active {
   color: var(--sky-blue);
   font-weight: 600;
 }
+@media (max-width: 50rem) {
+  .site-nav { gap: 0.8em; font-size: 0.7rem; }
+}
+
+/* 屏幕阅读器专用（ Josh .wlgbkjj 同款裁剪） */
+.sr-only {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  padding: 0;
+  border: 0;
+}
+
+/* ---------- 顶部天空色带 + 手绘波浪（Josh 首页顶部同款结构） ---------- */
+.sky-band {
+  margin-top: -7rem;
+  padding-top: 7rem;
+  background: var(--sky-from);
+  overflow: hidden;
+}
+.sky-band svg {
+  display: block;
+  width: 100%;
+  min-width: 320rem;
+  height: 28.5rem;
+}
 
 main {
-  max-width: 46em;
+  max-width: 68.75rem;
   margin: 0 auto;
-  padding: 2.2em 1em 3em;
+  padding: 2.5rem 2rem 4rem;
 }
+@media (max-width: 37.5rem) { main { padding: 1.5rem 1rem 3rem; } }
 
-/* ---------- 首页 hero（Josh 式：文字 + 圆形头像） ---------- */
-.hero {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 1.5em 2em;
-  align-items: center;
-  padding-top: 1.2em;
-}
-.hero h1 {
-  font-family: var(--font-display);
-  font-size: clamp(2.8rem, 7vw, 4rem);
-  font-weight: 800;
-  line-height: 1.15;
-  letter-spacing: -0.01em;
-  margin: 0 0 0.5em;
-}
-.hero-sub {
-  color: var(--muted);
-  font-size: 1.05rem;
-  line-height: 1.85;
-  max-width: 30em;
-  margin: 0 0 1.5em;
-}
-.hero-sub em {
-  font-style: normal;
-  color: var(--fg);
-  font-weight: 700;
-  box-shadow: inset 0 -0.18em 0 var(--accent-soft);
-}
-.avatar {
-  width: 118px;
-  height: 118px;
-  border-radius: 50%;
-  display: grid;
-  place-items: center;
-  background:
-    radial-gradient(circle at 30% 25%, var(--accent-soft), transparent 60%),
-    var(--card);
-  border: 2px solid var(--border-strong);
-  box-shadow:
-    0 0 0 4px var(--primary-soft),
-    var(--shadow);
-}
-.avatar span {
-  font-family: var(--font-display);
-  font-size: 3.2rem;
-  font-weight: 800;
-  background: linear-gradient(135deg, var(--primary), var(--accent));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
-}
-.hero-ctas {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.7em;
-}
+
+/* ---------- 通用按钮（登录弹窗用） ---------- */
 .cta {
   font-family: var(--font-sans);
   font-size: 0.95rem;
@@ -293,8 +318,7 @@ main {
 }
 .cta.primary:hover { filter: brightness(1.1); }
 
-/* ---------- 合集 ---------- */
-.collections { margin-top: 2.6em; }
+/* 分节标签（分类页/标签页小标题） */
 .section-label {
   display: flex;
   align-items: center;
@@ -314,46 +338,13 @@ main {
   border-radius: 2px;
   background: linear-gradient(90deg, var(--primary), var(--accent));
 }
-.collection-card {
-  display: grid;
-  grid-template-columns: auto 1fr auto;
-  gap: 1.1em;
-  align-items: center;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1.1em 1.3em;
-  text-decoration: none;
-  color: inherit;
-  transition: box-shadow 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
-}
-.collection-card:hover {
-  border-color: var(--hover-border);
-  box-shadow: var(--shadow);
-  transform: translateY(-2px);
-}
-.cc-icon {
-  font-size: 2.2rem;
-  line-height: 1;
-  filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.25));
-}
 .cc-desc {
   color: var(--muted);
   font-size: 0.95rem;
   line-height: 1.7;
   margin: 0.35em 0 0.5em;
 }
-.cc-arrow {
-  font-family: var(--font-display);
-  font-size: 1.5rem;
-  color: var(--faint);
-  transition: transform 0.15s ease, color 0.15s ease;
-}
-.collection-card:hover .cc-arrow {
-  transform: translateX(4px);
-  color: var(--primary);
-}
-.collections-note { margin-top: 0.8em; }
+
 
 /* 分节标题通用化（原 .ep-list h2 的样式合并到这里） */
 .ep-list h2 {
@@ -376,19 +367,279 @@ main {
   background: linear-gradient(90deg, var(--primary), var(--accent));
 }
 
+/* ---------- 页脚（Josh 式：天空渐变 + 波浪切边 + 分栏） ---------- */
 .site-footer {
-  border-top: 1px solid var(--border);
-  background: var(--bg-soft);
-  color: var(--muted);
+  position: relative;
+  margin-top: 48px;
+  padding: 0 2rem 3rem;
+  background: linear-gradient(to bottom, var(--sky-from), var(--sky-to));
+  color: var(--footer-fg);
+  overflow: hidden;
+}
+.footer-wave {
+  position: absolute;
+  top: -1px;
+  left: 0;
+  width: 100%;
+  min-width: 5120px;
+  pointer-events: none;
+}
+.footer-wave svg { display: block; width: 100%; height: 240px; }
+.footer-inner {
+  position: relative;
+  max-width: 68.75rem;
+  margin: 0 auto;
+  padding-top: 17rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem 4rem;
+}
+@media (max-width: 50rem) { .footer-inner { grid-template-columns: 1fr; } }
+.footer-h {
+  font-size: 1rem;
+  color: var(--accent);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
+  margin: 0 0 1.25rem;
+  filter: brightness(1.25);
+}
+.footer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+}
+.footer-links a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.9;
+  transition: opacity 0.15s ease;
+}
+.footer-links a:hover { opacity: 1; text-decoration: underline; }
+.footer-copy {
+  position: relative;
+  max-width: 68.75rem;
+  margin: 3rem auto 0;
+  padding: 1.5rem 0 0;
+  border-top: 1px solid rgba(128, 128, 128, 0.25);
   font-family: var(--font-mono);
   font-size: 0.78rem;
   text-align: center;
-  padding: 1.4em 1em;
+  opacity: 0.85;
 }
-.site-footer p { margin: 0; }
+.footer-copy p { margin: 0; }
 
-/* ---------- 首页 ---------- */
-.intro { padding-top: 1em; }
+/* ---------- 首页（Josh 式三栏：文章流 + 分类 + 热门） ---------- */
+.home-grid {
+  position: relative;
+  display: grid;
+  align-items: start;
+  grid-template-columns: 2fr 1fr;
+  grid-template-areas:
+    "newest categories"
+    "newest popular";
+  gap: 64px 96px;
+  padding-top: 32px;
+  padding-bottom: 64px;
+}
+.home-newest { grid-area: newest; min-width: 0; }
+.home-cats { grid-area: categories; }
+.home-popular {
+  grid-area: popular;
+  position: sticky;
+  top: calc(5rem + 32px);
+}
+@media (max-width: 62.5rem) {
+  .home-grid {
+    grid-template-columns: 1fr;
+    grid-template-areas: "newest" "categories" "popular";
+    gap: 48px;
+    padding-bottom: 48px;
+  }
+  .home-popular { position: static; }
+}
+
+/* 分节标题（品红、大写、字距拉开 —— Josh .s1wnoxj8 原值） */
+.jwc-h2 {
+  font-size: 1rem;
+  color: var(--accent);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.125rem;
+  margin: 0 0 2.25rem;
+}
+
+/* 文章卡（Josh .w124ae9d / .t1afyvh0 系列） */
+.art-list { display: flex; flex-direction: column; gap: 48px; }
+.ep-card {
+  position: relative;
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  scroll-margin-top: 96px;
+}
+.art-title {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  width: fit-content;
+  padding-inline: 4px;
+  margin-inline: -4px;
+  border-radius: 2px;
+  font-family: var(--font-display);
+  font-size: 1.375rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+.art-title:hover { color: var(--primary); }
+.art-title .show-emoji { font-size: 0.95em; margin-right: -0.4em; }
+.page-head h1 .show-emoji { font-size: 0.8em; }
+.art-sub {
+  color: var(--muted);
+  font-weight: 500;
+  font-size: 17px;
+  margin: 0;
+}
+.art-desc {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin: 16px 0 0;
+}
+/* Read more：粗体 + 四段箭羽；整卡可点（覆盖层在卡内） */
+.art-more {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: 600;
+  color: inherit;
+  text-decoration: none;
+  margin-top: 0.9em;
+}
+.art-more .card-cover { position: absolute; inset: 0; }
+.art-more:hover { color: var(--primary); }
+.art-more .chevrons { margin-left: 8px; transition: transform 0.15s ease; }
+.art-more:hover .chevrons { transform: translateX(4px); }
+
+/* ---------- 列表页页头（intro 的新版：eyebrow + 大标题 + 说明） ---------- */
+.page-head {
+  padding: 0.6rem 0 0.4rem;
+  max-width: 44em;
+}
+.page-head h1 {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-weight: 800;
+  line-height: 1.28;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.5em;
+}
+.page-head .eyebrow { margin-bottom: 1em; }
+.page-lead {
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.85;
+  max-width: 38em;
+  margin: 0 0 1.2em;
+}
+
+/* 剧集/文章卡片的元信息行（节目 pill + 日期 + 句数/时长） */
+.art-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35em 0.7em;
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--faint);
+  margin: 0.5em 0 0;
+}
+.art-meta .pill {
+  color: var(--sky-blue);
+  background: hsl(225deg 100% 75% / 0.12);
+  border-radius: 999px;
+  padding: 0.12em 0.7em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+}
+:root[data-theme="light"] .art-meta .pill {
+  background: rgba(31, 102, 214, 0.10);
+}
+
+/* 列表尾部「全部 N 集 →」行 */
+.more-row { margin: 2rem 0 0; }
+.more-row .art-more { margin-top: 0; }
+
+/* 首页侧栏「每档最新一集」：标题行比 Josh 原文稍收敛，避免英文长题 3 行回绕 */
+.home-popular .pop-list a { font-size: 0.98rem; line-height: 1.5; }
+.home-popular .pop-list .pop-date {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--faint);
+  white-space: nowrap;
+}
+
+/* ---------- 分类 chips（Josh .cwxty3h / .l1e3k5zw 系列） ---------- */
+.cat-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.cat-chip {
+  position: relative;
+  display: inline-block;
+  isolation: isolate;
+  border-radius: 8px;
+  padding: 0.3125rem 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.cat-chip::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  border-radius: inherit;
+  background: var(--card);
+  outline: 1px solid transparent;
+  outline-offset: -1px;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+.cat-chip:hover::before { transform: scale(1.05); background: var(--card-raised); }
+.cat-chip .chip-icon { margin-right: 0.4em; }
+
+/* 热门列表（Josh .w5qey2 / .c1lywb4d 系列：箭头 + 中号粗字） */
+.pop-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  list-style: none;
+  margin: 0 0 0 -18px;
+  padding: 0;
+}
+.pop-list a {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  color: inherit;
+  font-size: 1.1875rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: color 0.15s ease;
+}
+.pop-list a:hover { color: var(--primary); }
+.pop-list svg { flex: none; transform: translateY(3px); }
+
+/* 分节小标签（单集页节目名行用） */
 .eyebrow {
   font-family: var(--font-mono);
   font-size: 0.78rem;
@@ -401,92 +652,11 @@ main {
   content: "◆ ";
   color: var(--accent);
 }
-.intro h1 {
-  font-family: var(--font-display);
-  font-size: clamp(2.1rem, 5.4vw, 3rem);
-  font-weight: 800;
-  line-height: 1.3;
-  letter-spacing: -0.01em;
-  margin: 0 0 0.5em;
-}
-.intro em {
-  font-style: normal;
-  color: var(--accent);
-  box-shadow: inset 0 -0.18em 0 var(--accent-soft);
-}
-.intro p {
-  color: var(--muted);
-  font-size: 1.05rem;
-  line-height: 1.85;
-  max-width: 38em;
-  margin: 0 0 1.4em;
-}
-.chips {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-.chips li {
-  font-family: var(--font-mono);
-  font-size: 0.76rem;
-  color: var(--fg);
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 0.32em 0.85em;
-}
+.eyebrow.show-line { margin-bottom: 0.4em; }
 
-.ep-card {
-  display: block;
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1.05em 1.2em 0.95em;
-  margin-bottom: 0.9em;
-  text-decoration: none;
-  color: inherit;
-  transition: box-shadow 0.15s ease, transform 0.15s ease, border-color 0.15s ease;
-}
-.ep-card:hover {
-  border-color: var(--hover-border);
-  box-shadow: var(--shadow);
-  transform: translateY(-2px);
-}
-.ep-title {
-  font-family: var(--font-display);
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 1.4;
-  letter-spacing: 0;
-}
-.ep-card:hover .ep-title { color: var(--lavender); }
-:root[data-theme="light"] .ep-card:hover .ep-title { color: var(--primary); }
-.ep-meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.55em;
-  font-family: var(--font-mono);
-  font-size: 0.76rem;
-  color: var(--muted);
-  margin-top: 0.55em;
-}
-.ep-meta .dot { color: var(--faint); }
-.ep-meta .pill {
-  color: var(--sky-blue);
-  background: hsl(225deg 100% 75% / 0.12);
-  border-radius: 999px;
-  padding: 0.12em 0.7em;
-}
 a.pill, a.show { color: inherit; text-decoration: none; }
 a.show { border-bottom: 1px dashed currentColor; }
 a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
-:root[data-theme="light"] .ep-meta .pill {
-  background: rgba(31, 102, 214, 0.10);
-}
 .empty { color: var(--muted); }
 
 /* ---------- 单集页 ---------- */
@@ -498,7 +668,6 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
   letter-spacing: -0.01em;
   margin: 0.2em 0 0;
 }
-.eyebrow.show-line { margin-bottom: 0.4em; }
 .meta {
   display: flex;
   flex-wrap: wrap;
@@ -511,6 +680,9 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
 }
 .meta .dot { color: var(--faint); }
 .meta .show {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
   color: var(--sky-blue);
   background: hsl(225deg 100% 75% / 0.12);
   border-radius: 999px;
@@ -605,19 +777,6 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
   color: var(--fg);
 }
 
-@media (max-width: 720px) {
-  .hero {
-    grid-template-columns: 1fr;
-    justify-items: center;
-    text-align: center;
-  }
-  .hero .avatar { order: -1; width: 96px; height: 96px; }
-  .hero .avatar span { font-size: 2.6rem; }
-  .hero-ctas { justify-content: center; }
-  .collection-card { grid-template-columns: auto 1fr; }
-  .cc-arrow { display: none; }
-}
-
 /* ---------- tags / taxonomy ---------- */
 .tax {
   max-width: 720px;
@@ -688,22 +847,6 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
 /* ---------- 生词本（AppWrite） ---------- */
 .nav-words { display: none; }
 html[data-vocab="on"] .nav-words { display: inline; }
-
-.auth-chip {
-  font-family: var(--font-mono);
-  font-size: 0.75rem;
-  color: var(--fg);
-  background: var(--card);
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  padding: 0.35em 0.9em;
-  cursor: pointer;
-  white-space: nowrap;
-  transition: border-color 0.12s ease, color 0.12s ease;
-}
-.auth-chip:hover { border-color: var(--primary); color: var(--primary); }
-.auth-chip[data-state="in"] { border-color: var(--primary); color: var(--primary); }
-.auth-chip[hidden] { display: none; }
 
 .auth-modal {
   position: fixed;

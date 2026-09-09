@@ -13,7 +13,7 @@
   <h1 class="ep-title">{{ .Title }}</h1>
   <p class="meta">
     {{ $spage := site.GetPage (printf "/categories/%s" (urlize .Params.show)) }}
-    {{ if $spage }}<a class="show" href="{{ $spage.RelPermalink }}">{{ .Params.show }}</a>{{ else }}<span class="show">{{ .Params.show }}</span>{{ end }}
+    {{ if $spage }}<a class="show" href="{{ $spage.RelPermalink }}"><span aria-hidden="true">{{ $icon }}</span> {{ .Params.show }}</a>{{ else }}<span class="show"><span aria-hidden="true">{{ $icon }}</span> {{ .Params.show }}</span>{{ end }}
     <span>·</span>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
     <span>·</span>
