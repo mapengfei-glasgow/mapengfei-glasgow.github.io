@@ -1,0 +1,246 @@
+---
+layout: single
+title: "Israel hits back at sanctions on settlers"
+show: "Global News Podcast"
+date: 2026-09-09T00:00:00Z
+slug: "2026-09-09-israel-hits-back-at-sanctions-on-settlers"
+audioDir: "2026-09-09-israel-hits-back-at-sanctions-on-settlers"
+totalDuration: 1599.7
+sentences:
+  - {text: "BBC Sound's Music Radio Podcasts This is the Global News Podcast from the BBC World Service Hello, I'm Oliver Conway.", start: 1.10, end: 12.41}
+  - {text: "We are recording this at four hours GMT on Wednesday the 9th of September.", start: 12.53, end: 16.23}
+  - {text: "Israel hits back after the UK, France and Canada impose sanctions on settlements in the occupied West Bank.", start: 16.81, end: 22.97}
+  - {text: "Fighting flares up again between the US and Iran with numerous ships targeted.", start: 23.45, end: 28.19}
+  - {text: "And there's a warning about teenagers declining performance at school in the digital era.", start: 28.99, end: 33.49}
+  - {text: "Also in this podcast, as Star Trek continues to boldly go.", start: 35.97, end: 40.27}
+  - {text: "We have flip phone communicators and video calls and things like that, but we don't have teleportation and we don't have faster than light travel.", start: 40.53, end: 47.29}
+  - {text: "We look at the technology the show predicted 60 years ago.", start: 47.75, end: 50.97}
+  - {text: "Israel has responded angrily to the announcement of new sanctions against Jewish settlements in the occupied West Bank.", start: 56.13, end: 62.17}
+  - {text: "A statement from Britain, France, Canada and nine other nations said the Israeli government's actions in the territory were undermining the possibility of a two -state solution,", start: 62.61, end: 71.71}
+  - {text: "which would see a Palestinian nation existing peacefully alongside Israel.", start: 72.13, end: 76.11}
+  - {text: "Such a deal has long seemed unlikely, but it would be virtually impossible if Israel goes ahead with its plan to build more than a thousand homes on a key piece of occupied land known as E1.", start: 76.71, end: 87.93}
+  - {text: "Violent attacks by settlers against Palestinians in the West Bank have also increased in recent months.", start: 88.59, end: 93.69}
+  - {text: "Setting out the new policy, the British Foreign Secretary Ed Miliband accused what he called settler terrorists of ethnic cleansing, a claim that was fiercely rejected by his Israeli counterpart, Guy Don Sarr.", start: 94.27, end: 105.91}
+  - {text: "The accusations made today by the Foreign Secretary in the British Parliament were outrageous lies.", start: 106.51, end: 114.46}
+  - {text: "We know that we have many friends in Britain.", start: 115.40, end: 118.48}
+  - {text: "Unfortunately, a hostile Labour government is in office, systematically acting against the State of Israel.", start: 119.87, end: 127.53}
+  - {text: "At Hussam Zimbabwe, the current Palestinian UK ambassador praised the new approach.", start: 128.03, end: 132.75}
+  - {text: "We welcome this decision and commend Prime Minister Andy Burnham and Foreign Secretary Ed Miliband for translating Britain's recognition of the State of Palestine and its obligation under international law into concrete action.", start: 133.35, end: 149.25}
+  - {text: "Several other nations have already taken action over the settlements and the latest development leaves Israel looking increasingly isolated at a time when support for it is waning in its traditional ally, the US.", start: 149.81, end: 161.69}
+  - {text: "So how serious a moment is this for the Israeli government?", start: 162.37, end: 165.39}
+  - {text: "I asked our international editor, Jeremy Bowen.", start: 165.79, end: 167.77}
+  - {text: "I think they have to take it seriously.", start: 168.19, end: 169.71}
+  - {text: "I think their tone is already defined and that's going to deepen.", start: 170.01, end: 173.09}
+  - {text: "There's no doubt about it.", start: 173.33, end: 174.25}
+  - {text: "Not just because there is an election at the end of October.", start: 174.61, end: 177.91}
+  - {text: "And actually, in terms of opinion inside Israel, there is an overwhelming majority against the idea of a Palestinian state, a majority which has sort of strengthened", start: 179.07, end: 189.02}
+  - {text: "and deepened since the 7th of October attacks.", start: 189.02, end: 191.32}
+  - {text: "And Mr. Miliband, Britain's Foreign Secretary's attempt to, if you like, square the circle by saying, look, this is not about the people of Israel, it's not about the State of Israel,", start: 192.78, end: 204.00}
+  - {text: "it's about the actions of the government of Israel.", start: 204.04, end: 206.26}
+  - {text: "I don't think that is a distinction that the Israelis particularly are going to accept.", start: 206.94, end: 213.98}
+  - {text: "However, I think the fact that there are now is a long list of countries who are backing up Britain on this and the Americans so far may change.", start: 214.52, end: 223.72}
+  - {text: "The Americans so far have not said anything strong against it.", start: 224.16, end: 228.32}
+  - {text: "Well, that suggests that the Israelis are under even more pressure and are more isolated than they were before.", start: 229.06, end: 235.84}
+  - {text: "The British government has said this is about protecting the two -state solution and yet it affects trade of only about $50 million or so.", start: 236.24, end: 245.46}
+  - {text: "Will it make any difference?", start: 245.70, end: 246.74}
+  - {text: "Well, it's not really about the money, I think it's about the politics and the geopolitics as well.", start: 247.34, end: 252.86}
+  - {text: "I mean, Miliband, the Foreign Secretary said that Britain had a moral, historical and geopolitical responsibility because the point he makes is that the turmoil and the growing violence in the West Bank is bad for Israel's security", start: 253.02, end: 270.98}
+  - {text: "as well as being bad for the region.", start: 270.98, end: 272.70}
+  - {text: "Of course, as we well know, this conflict has a great capacity for exporting trouble elsewhere.", start: 272.84, end: 279.26}
+  - {text: "But yeah, I think one thing that has changed since the 7th of October attacks is that any artifice on the Israeli side about well under certain circumstances we might have a Palestinian state or something like that, that's gone.", start: 280.60, end: 293.56}
+  - {text: "And now that any artifice on the side which is opposing what Israel has been doing is also going as well.", start: 294.44, end: 301.30}
+  - {text: "Miliband's language in the commons was stripped bare of diplomatic fudge.", start: 301.96, end: 305.88}
+  - {text: "It was very direct, moral emergency, a stain on the conscience of the world in Gaza, evidence of war crimes, settler terrorism, ethnic cleansing.", start: 306.24, end: 315.36}
+  - {text: "Think back to the days after the 7th of October attacks when Keir Starmer, though he did walk back the remarks afterwards when he was British Prime Minister,", start: 315.80, end: 324.68}
+  - {text: "and he did an interview where he basically agreed with what the Israelis were saying at the time that they could cut off food and water to Gaza.", start: 325.44, end: 331.96}
+  - {text: "I mean, that is a massive change.", start: 332.56, end: 334.44}
+  - {text: "Might the Israelis now looking out at all these other countries opposing them?", start: 335.02, end: 339.28}
+  - {text: "Might they just push on with this E1 settlement, for example?", start: 339.28, end: 343.08}
+  - {text: "I think undoubtedly this government will.", start: 343.36, end: 344.86}
+  - {text: "Undoubtedly. They've already got tenders out for construction.", start: 345.46, end: 348.92}
+  - {text: "The Israelis have wanted to develop that sector since the 90s.", start: 349.70, end: 354.22}
+  - {text: "What stopped them up to now has been the U .S.", start: 354.46, end: 358.64}
+  - {text: "government, successive American presidents saying that that is too far, that that really will torpedo the prospects of the two state solution, which is still official American policy,", start: 358.68, end: 369.28}
+  - {text: "even though they're doing zero to try to make it happen.", start: 369.36, end: 372.96}
+  - {text: "The thing too about this idea of a two state solution, in other words peace, fire, independent Palestine alongside independent Israel.", start: 373.98, end: 383.08}
+  - {text: "It's quoted so often by Western governments, not least the British, over many years now, and it has become an empty slogan.", start: 383.44, end: 389.60}
+  - {text: "You can make an argument, which is a pretty strong argument, that the silence over many years of Israel's allies about what was going on while at the same time they're saying there should be a two state solution actually made them complicit in what was happening,", start: 390.50, end: 405.20}
+  - {text: "enabled what was happening, and they are trying and many Palestinians would say it's bit late guys, isn't it?", start: 405.42, end: 412.54}
+  - {text: "There are 700 ,000 Israelis plus in the West Bank, including East Jerusalem, territory occupied since 1967, and that is something.", start: 413.00, end: 424.90}
+  - {text: "How do you turn that clock back?", start: 425.36, end: 427.30}
+  - {text: "Very, very difficult not to say impossible, but no one has actually ever come up with a solution that is better.", start: 427.50, end: 433.72}
+  - {text: "Our international editor Jeremy Bowen.", start: 434.28, end: 436.28}
+  - {text: "Meanwhile, there's been another flare up in fighting between the U .S.", start: 436.84, end: 439.74}
+  - {text: "and Iran, with U .S.", start: 439.78, end: 441.56}
+  - {text: "Central Command saying it's destroyed five Iranian oil tankers after an American warship was targeted.", start: 441.58, end: 447.10}
+  - {text: "Iran retaliated by attacking Jordan, while earlier saying it had captured an underwater U .S.", start: 447.64, end: 453.08}
+  - {text: "drone in the Strait of Hormuz.", start: 453.18, end: 454.48}
+  - {text: "I got the details from our reporter, G .G.", start: 454.78, end: 456.60}
+  - {text: "Arn. This is, in a sense, a significant step in their current tip for escalation.", start: 456.74, end: 462.22}
+  - {text: "Iran saying that it's now carried out retaliatory military strikes on U .S.", start: 462.62, end: 466.44}
+  - {text: "military positions in Jordan after the U .S.", start: 466.50, end: 468.82}
+  - {text: "destroyed, as you mentioned, five Iranian oil tankers.", start: 468.84, end: 471.26}
+  - {text: "Now, Jordan has come out and said that it intercepted and destroyed 18 out of 20 missiles from Iran and that there wasn't any damage, but", start: 471.78, end: 478.50}
+  - {text: "we are going to have to wait to see what Washington has to say.", start: 478.50, end: 481.02}
+  - {text: "Now, the destruction of these five Iranian oil tankers, which Washington says again, came in response to two attempted ballistic missile attacks by the Islamic Republic Guard Corps against the U .S.", start: 481.54, end: 491.52}
+  - {text: "Navy ship. There weren't any American casualties, but again, this is another play on Washington and Tehran kind of going at each other, battling each other and doing sort of retaliatory strikes.", start: 491.60, end: 501.42}
+  - {text: "The important thing to note is that one of the Iranian tankers that was targeted by the U .S.", start: 501.86, end: 505.80}
+  - {text: "was hit close to Haag Island, which is Iran's main oil export, and it's a crucial point for getting Iranian crude into the international market.", start: 505.86, end: 512.66}
+  - {text: "And it also comes at a time when, although it's not the first time that attacks have taken place here, it does come after the U .S.", start: 513.00, end: 519.32}
+  - {text: "said it would avoid oil and gas infrastructure attacks in Iran.", start: 519.34, end: 522.52}
+  - {text: "So essentially, the U .S.", start: 522.98, end: 523.98}
+  - {text: "is putting pressure on one of Iran's most important sources of revenue by targeting oil tankers that are linked to the Revolutionary Guard Corps.", start: 524.00, end: 530.98}
+  - {text: "And in the past couple of hours, Iran has threatened to widen the response further.", start: 531.38, end: 535.34}
+  - {text: "The IRGC has worn tanker crews around Kuwait and Bahrain to evacuate, which potentially raises concerns that the attacks and strikes are going to happen in the wider region.", start: 535.54, end: 544.76}
+  - {text: "It also comes at a time when Marco Rubio, who's visiting Colombia, mentioned that every time Iran tries to hit Washington, Washington is going to retaliate back again.", start: 545.08, end: 554.04}
+  - {text: "So this confrontation is just going to continue and escalate further moving forwards.", start: 554.14, end: 557.70}
+  - {text: "GG. A global survey has found a dramatic decline in teenagers' abilities in science, mathematics and reading over the past three years.", start: 558.20, end: 566.60}
+  - {text: "The OECD looked at more than 700 ,000 schools in 91 countries.", start: 567.22, end: 571.98}
+  - {text: "As part of its regular study, Joanna Keane has been looking at the latest figures.", start: 572.42, end: 575.88}
+  - {text: "Now in science, there was a fall.", start: 576.44, end: 578.06}
+  - {text: "Math scores fell sharply.", start: 578.48, end: 580.60}
+  - {text: "Again, to their lowest ever levels.", start: 581.04, end: 582.50}
+  - {text: "Reading fell even further.", start: 582.92, end: 584.94}
+  - {text: "The biggest drop between tests ever seen.", start: 585.16, end: 587.60}
+  - {text: "And overall, we're now seeing that one in five 15 -year -old students across the OECD is now classed as a low performer, 20 % that is compared to 16 % in 2022.", start: 588.12, end: 599.88}
+  - {text: "But the researchers are also saying, look, it's not just about math and reading.", start: 600.62, end: 603.72}
+  - {text: "These students are lacking basic skills for everyday life, like going to a supermarket and finding out which product is the best value.", start: 604.30, end: 612.12}
+  - {text: "And worth also mentioning, China, Japan, Singapore, Estonia and the United Kingdom were among the top 10 performing education systems.", start: 612.70, end: 620.68}
+  - {text: "Why are they now so bad at reading?", start: 620.68, end: 623.94}
+  - {text: "Is it all to do with their phones?", start: 624.14, end: 625.48}
+  - {text: "Sort of, yes. It goes beyond literacy, shall we say.", start: 626.20, end: 629.74}
+  - {text: "They talk about instances of hasty reading.", start: 630.22, end: 632.48}
+  - {text: "So students are reading quickly, but inaccurately.", start: 632.68, end: 635.24}
+  - {text: "And the amount of students doing that nearly doubled to 9 % between 2018 and 2025.", start: 635.76, end: 641.02}
+  - {text: "We're living in an increasingly digital world, more screen time, more social media.", start: 641.76, end: 646.42}
+  - {text: "AI chatbots are being used by 46 % of students at least once a week.", start: 647.14, end: 652.20}
+  - {text: "So researchers are saying, look, when it comes to AI, it's a complex picture.", start: 652.82, end: 655.90}
+  - {text: "It can strengthen learning and help prepare people for the future.", start: 656.24, end: 659.44}
+  - {text: "But only when it's used purposefully, they say.", start: 659.74, end: 663.30}
+  - {text: "So use it with care and in moderation.", start: 663.74, end: 665.70}
+  - {text: "Students are also being distracted by digital devices during lessons, which probably doesn't come as a surprise to many people.", start: 666.40, end: 672.28}
+  - {text: "Researchers also say, look, that we're really troubled by decline in the very skills that matter most in the AI age, which they say are evaluating information, making connections across all these multiple sources coming at them,", start: 672.84, end: 685.02}
+  - {text: "and then thinking critically about what they're reading.", start: 685.20, end: 687.94}
+  - {text: "And what can be done about it?", start: 688.40, end: 690.16}
+  - {text: "They're calling for investment in teachers, give them what they need to succeed, whether that be training, resources, mentors, but also greater involvement from parents.", start: 690.98, end: 701.12}
+  - {text: "They're saying, actually, a holistic approach works, even if it's something simple like, how was your day at school?", start: 701.26, end: 705.72}
+  - {text: "What did you do today?", start: 705.94, end: 706.78}
+  - {text: "Get everyone involved. And they're also saying, look, set high expectations and then teach fewer things in greater depth.", start: 706.92, end: 713.88}
+  - {text: "And they also point out, look, students need a sense of belonging to perform well.", start: 714.26, end: 718.18}
+  - {text: "90 % of students in Spain, for example, felt that they belonged.", start: 718.54, end: 722.58}
+  - {text: "That falls to 64 % in countries like Denmark and Poland.", start: 722.92, end: 727.18}
+  - {text: "Girls often feel that they don't belong as much as Boyd and also disadvantaged students as well don't feel that sense of belonging.", start: 727.84, end: 735.02}
+  - {text: "Joanne Keane. Still to come on this podcast?", start: 735.62, end: 740.20}
+  - {text: "A small little, I think it's like, thick paper that they put underneath your lower eyelid for about 10 minutes.", start: 740.68, end: 746.42}
+  - {text: "How testing a person's tears can help detect brain cancer.", start: 746.96, end: 750.48}
+  - {text: "This is the Global News podcast.", start: 756.58, end: 758.86}
+  - {text: "A blanket of toxic hazes enveloping parts of Indonesia and spreading into Malaysia, Singapore and the Philippines as wildfires continue to burn.", start: 759.68, end: 768.20}
+  - {text: "More than 2 ,000 square kilometers of land has been scorched in Sumatra and Kalamantan, with residents describing the smog as so thick they can't even see their own feet.", start: 768.70, end: 777.76}
+  - {text: "Our Indonesia correspondent, Lisa Tambunan, sent this report.", start: 778.42, end: 782.52}
+  - {text: "20 -year -old Endang Susilawati has just lost her home.", start: 788.48, end: 792.96}
+  - {text: "She's crying for help.", start: 793.54, end: 794.52}
+  - {text: "Her family are still inside.", start: 794.78, end: 796.54}
+  - {text: "Forest fires have been burning for weeks across Indonesia.", start: 799.28, end: 802.84}
+  - {text: "Firefighters and water -bombing helicopters have been unable to control them.", start: 803.56, end: 807.76}
+  - {text: "The skies above parts of Kalimantan, Indonesia's side of Borneo Island, have turned an ominous glowing orange.", start: 809.07, end: 816.22}
+  - {text: "For millions living downwind, every breath carries the acrid taste of burnt earth.", start: 816.80, end: 821.84}
+  - {text: "Residents are increasingly concerned over the toll the haze is taking on the hell, particularly for young children.", start: 822.54, end: 829.04}
+  - {text: "This woman lives in Pontianak, one of the worst affected cities.", start: 829.72, end: 833.22}
+  - {text: "I'm worried that we might all get a sake one after another because of this haze.", start: 835.24, end: 840.74}
+  - {text: "My niece is still young and her cough hasn't gone away for two weeks now.", start: 841.46, end: 846.48}
+  - {text: "Between July and August, Indonesia's health ministry recorded 50 ,000 cases of respiratory infections attributed to land and forest fires.", start: 846.98, end: 855.44}
+  - {text: "More than 12 ,000 of those cases are children under the age of five.", start: 856.16, end: 859.88}
+  - {text: "So the authorities are ramping up fire suppression efforts on the ground and in the air.", start: 859.88, end: 865.20}
+  - {text: "An integrated response is underway through land and air operations, including hot spot monitoring and extinguishing, aerial water bombing and weather modification.", start: 867.70, end: 879.22}
+  - {text: "But the fires continue to burn, led both by big companies and individual farmers to clean land for agriculture.", start: 880.06, end: 886.44}
+  - {text: "And this year's super El Niño weather pattern, bringing drought conditions, has made this Indonesia's worst fire season since 2015.", start: 886.92, end: 894.84}
+  - {text: "The climate impact is staggering.", start: 896.44, end: 898.10}
+  - {text: "Data from the European Union's Copernicus Climate Monitoring Service shows that Indonesian fires put out more than 20 million tons of carbon dioxide in just seven days earlier this month,", start: 898.88, end: 910.16}
+  - {text: "accounting for more than one -third of the global total.", start: 910.56, end: 913.32}
+  - {text: "And senior scientist Mark Parrington says satellite sensors may not pick up many of the peak fires burning in Indonesia.", start: 914.02, end: 921.10}
+  - {text: "One of the aspects with peak fires is if they're burning at low temperatures or underground, they're below the detection limit of the sensors, which means we're not actually seeing them.", start: 921.56, end: 931.54}
+  - {text: "And so we're probably underestimating possibly to quite some degree the actual emissions in the end.", start: 931.98, end: 938.72}
+  - {text: "The number of hotspots detected in August and early September surpassed 13 ,000, much higher than the 9 ,400 recorded over the same period in 2015, according to the Indonesian Ministry of Forestry.", start: 938.72, end: 953.14}
+  - {text: "Once again, Indonesia finds itself unable to do much else, apart from wasting for the monsoon rains, which may not come for another two months.", start: 953.64, end: 961.98}
+  - {text: "Lisa Tambunan in Indonesia The 9 -11 attacks on the US killed about 3 ,000 people, most of them in the World Trade Center in New York.", start: 962.54, end: 972.18}
+  - {text: "As each of the Twin Towers fell, the streets of Lower Manhattan were engulfed in a dense cloud of dust.", start: 972.74, end: 978.06}
+  - {text: "Now 25 years on, New York officials have released tens of thousands of previously undisclosed documents showing the city knew about the toxic air around ground zero, but kept the details from the public.", start: 978.78, end: 990.54}
+  - {text: "The current New York Mayor Zoran Mamdani and comedian John Stuart have been campaigning on the issue.", start: 991.32, end: 996.16}
+  - {text: "This report from our New York correspondent, Netta Taufik.", start: 996.36, end: 998.92}
+  - {text: "More people have died from 9 -11 related illnesses than were killed on the day of the attacks with thousands developing serious illnesses including cancer.", start: 999.60, end: 1009.22}
+  - {text: "And 25 years on, survivors, first responders and advocates especially, have been battling for transparency around what city officials knew about the toxic air around ground zero", start: 1009.62, end: 1021.52}
+  - {text: "and whether they were honest in their assurances to the public that it was safe to return.", start: 1021.52, end: 1027.86}
+  - {text: "Now one of the documents included in this release is an October 2001 memo written to the deputy of then Mayor Rudy Giuliani in which city lawyers warn", start: 1028.48, end: 1039.40}
+  - {text: "that the city could be sued over health advisories that led individuals to return to the area too soon revealing that the city was well aware then of serious health risks from toxic dust", start: 1039.40, end: 1053.90}
+  - {text: "and airborne contaminants at the site and were concerned about potential lawsuits.", start: 1053.90, end: 1059.12}
+  - {text: "Now the records according to New York officials were stored in 68 boxes in a city office and many were only discovered last year.", start: 1059.64, end: 1069.00}
+  - {text: "And Mayor Mamdani announced the release of the documents at a press conference surrounded by survivors and advocates including John Stewart who long campaigned for continued funding for victims.", start: 1069.48, end: 1082.00}
+  - {text: "And Mayor Mamdani, promising transparency, said that people got sick because the leaders they trusted lied.", start: 1082.74, end: 1090.20}
+  - {text: "The darkest day New York City has ever known and yet the devastating truth is that the suffering did not end once the smoke cleared and the dust settled.", start: 1090.50, end: 1099.64}
+  - {text: "For so many New Yorkers who lived or worked or studied near ground zero and for the thousands of others who worked on the pile recovering those we lost", start: 1099.64, end: 1109.00}
+  - {text: "and clearing the rubble that was only the beginning of years of hardship and illness that would follow.", start: 1109.00, end: 1115.04}
+  - {text: "John Stewart, he also spoke and he said that the records confirmed what many New Yorkers suspected for years.", start: 1115.18, end: 1123.16}
+  - {text: "There was poison in the air and on the ground and in the windowsills and in your air conditioners and covering your pets and your clothes and it stayed there for months.", start: 1123.16, end: 1138.12}
+  - {text: "Everyone knew. And now it's very clear that the city knew as well.", start: 1138.58, end: 1143.70}
+  - {text: "He accused city officials of prioritizing getting New York back up and running over public health concerns and with hiding the truth for 25 years.", start: 1144.20, end: 1154.38}
+  - {text: "Could crying help save lives?", start: 1157.10, end: 1159.84}
+  - {text: "Well British scientists are developing a screening test that can quickly show if a patient has a brain tumour simply by analysing their tears.", start: 1160.40, end: 1167.86}
+  - {text: "It's proved successful in initial trials and could help doctors diagnose brain cancer earlier.", start: 1168.80, end: 1173.74}
+  - {text: "Our reporter Roger Johnson visited the University of Manchester.", start: 1174.06, end: 1176.78}
+  - {text: "This looks like any other laboratory in any other hospital or university but the work being done here is unique.", start: 1177.88, end: 1185.68}
+  - {text: "The groundbreaking test which has been developed in Manchester started with a casual chat between two scientists in a bar in Denmark.", start: 1186.50, end: 1193.12}
+  - {text: "One of them was Slovakia born Professor Petra Hamalik.", start: 1193.92, end: 1197.32}
+  - {text: "In that conversation it somehow came up that he was analysing tears for some ocular diseases and I was like what if you know there is a connection", start: 1197.52, end: 1206.40}
+  - {text: "because we know that the eye is the extension of the central nervous system so we speculated that maybe whatever is happening in the brain when the tumour starts growing it's mirrored", start: 1206.40, end: 1216.02}
+  - {text: "and reflected in the tear fluid so that was like kind of the first thought.", start: 1216.02, end: 1219.04}
+  - {text: "And it proved to be right.", start: 1219.46, end: 1220.56}
+  - {text: "That was back in 2012.", start: 1220.94, end: 1222.04}
+  - {text: "Professor Hamalik had tried blood tests but they didn't work.", start: 1222.52, end: 1225.60}
+  - {text: "This test is simple.", start: 1226.22, end: 1227.28}
+  - {text: "Humor candlestick a brain tumour patient took part because he's had surgery they know exactly what tumour he has and so could see if the test identified it.", start: 1227.84, end: 1237.16}
+  - {text: "It was on both eyes so they just a small little I think it's like thick paper that they put underneath your lower eyelid for about 10 minutes", start: 1237.46, end: 1246.24}
+  - {text: "and then it had to get all the way to the bottom so they could see the colour change and then they took it away.", start: 1246.24, end: 1252.18}
+  - {text: "They made your eyes feel a bit dry but that was it.", start: 1252.66, end: 1255.60}
+  - {text: "So far around 500 people have taken part in the NHS approved study across eight different sites researchers in other countries aware of the exciting possibilities are helping for free.", start: 1256.10, end: 1266.60}
+  - {text: "Medics say developing successful brain cancer screening will improve outcomes and spur investments in new treatments which have changed little for decades.", start: 1266.92, end: 1275.82}
+  - {text: "Dr. Mohamed Harris is a neuro oncologist.", start: 1276.42, end: 1279.10}
+  - {text: "What I can see is that if we have tests or if we have options where we can kind of like figure cancers especially brain tumours earlier they are able to get recruited into more interventional trials", start: 1279.48, end: 1291.18}
+  - {text: "where they'll be more fit for those treatments and that way we can overall improve treatment options.", start: 1291.18, end: 1296.56}
+  - {text: "Professor Hamalek remains cautious and it's likely to be another decade before her test is rolled out.", start: 1297.32, end: 1302.60}
+  - {text: "The field is moving cosmic speed so my thinking is by the time we get the test approved there might be treatment and I believe there will be treatment that we can offer the patients.", start: 1302.90, end: 1313.30}
+  - {text: "And she is driven by personal experience.", start: 1313.78, end: 1315.72}
+  - {text: "Growing up in rural Slovakia Professor Hamalek's dad died with a brain tumour when she was 15.", start: 1316.16, end: 1321.28}
+  - {text: "I have always been curious about whether we can detect brain tumours before they become symptomatic because especially in the case of my father it took eight months for the clinicians to figure out he has a brain tumour", start: 1321.80, end: 1332.54}
+  - {text: "because for many doctors they would see in the GP in the point of care they would see maybe one patient two patients in their whole career so it's very rare.", start: 1332.54, end: 1341.96}
+  - {text: "So although there's much more to be done it's easy to see why this simple screening test could be a massive breakthrough.", start: 1342.34, end: 1348.82}
+  - {text: "Roger Johnson reporting from Manchester.", start: 1349.34, end: 1351.44}
+  - {text: "From science to science fiction now and Star Trek has turned 60.", start: 1352.63, end: 1357.23}
+  - {text: "The TV show in which Captain Kirk and others explore space the final frontier is a cultural phenomenon.", start: 1357.87, end: 1364.09}
+  - {text: "It was first broadcast in a world where computers were the size of an office desk but foreshadowed technological breakthroughs like mobile phones, video calls and voice assistants.", start: 1364.47, end: 1374.25}
+  - {text: "Dr Glen Morgan works at the Science Museum in London which is hosting an exhibition of props from the series.", start: 1374.95, end: 1380.47}
+  - {text: "He told Valerie Sanderson how Star Trek's visions of the future had played out.", start: 1381.11, end: 1385.25}
+  - {text: "I think massively so where people sometimes fall down when talking about the predictive power of science fiction is when you're talking about specific devices or events", start: 1385.95, end: 1398.11}
+  - {text: "so yes we have flip phone communicators and video calls and things like that but we don't have teleportation and we don't have faster than light travel and all of that kind of thing.", start: 1398.11, end: 1407.79}
+  - {text: "Well not yet. Not yet yes it's late it's off schedule but what science fiction and what specifically Star Trek does do is inspire individuals so", start: 1407.97, end: 1419.39}
+  - {text: "we have a fantastic space collection in the Science Museum.", start: 1419.39, end: 1423.95}
+  - {text: "We're the only museum in the world where you can see a flown Apollo capsule from the NASA space program and a flown Soyuz capsule as flown by the Russian space program side by side", start: 1424.09, end: 1436.05}
+  - {text: "so we're really trying to tell that that world history of space and so we talk to a lot of people in different space agencies all over the world", start: 1436.05, end: 1443.53}
+  - {text: "and inevitably you find a large swathe of them who are inspired to get into space technology and space science because of a love of Star Trek particularly when they were younger.", start: 1443.53, end: 1454.09}
+  - {text: "And why do you think it was such a global hit?", start: 1454.37, end: 1457.01}
+  - {text: "I think because the vision of the future that Gene Roddenberry proposes in the original Star Trek and then which is obviously carried through is a really optimistic", start: 1457.45, end: 1467.05}
+  - {text: "and positive vision which is quite different from a lot of what we see in on science fiction TV and film and the power of it is", start: 1467.05, end: 1475.69}
+  - {text: "that the bridge of this starship has a African American woman being treated as an equal.", start: 1475.69, end: 1482.27}
+  - {text: "It has a Japanese pilot and bearing mind this is broadcasting in living memory of the Second World War when the Japanese were obviously the enemies of the Americans", start: 1482.83, end: 1493.23}
+  - {text: "and from season two onwards it has a Russian in the navigation console so it really is about putting aside the things that are different and celebrating the things", start: 1493.23, end: 1503.61}
+  - {text: "that bring us together and taking that next step to the stars as a species rather than as one nation or one color or creed and I think that speaks to everybody universally as an optimistic vision.", start: 1503.61, end: 1516.55}
+  - {text: "You said inspired future generations of scientists it also inspired a lot of political leaders didn't it?", start: 1517.41, end: 1523.71}
+  - {text: "I'm thinking of Martin Luther King Jr who apparently said it was the only program he would allow his small children to watch.", start: 1523.79, end: 1530.75}
+  - {text: "Yes and in fact I referenced without naming her Lieutenant Uhura played by Nichelle Nichols so she was the woman of color on the bridge of the enterprise", start: 1530.75, end: 1540.55}
+  - {text: "and actually she was considering leaving the show after one season but she was at a convention African American cultural convention and was told there was a superfan outside and he was allowed in and it was Martin Luther King", start: 1540.55, end: 1555.55}
+  - {text: "and he told her that what she was doing and the role she was playing was the one of the most important things happening in the in the movement the civil rights movement at", start: 1556.11, end: 1565.39}
+  - {text: "that time and that's what encouraged her to stick with the role which I think is an incredible story and really shows the social impact that science fiction and Star Trek can have.", start: 1565.39, end: 1577.45}
+  - {text: "And that was Glyn Morgan and that is all from us for now but the Global News podcast will be back very soon.", start: 1577.71, end: 1586.06}
+  - {text: "This edition was mixed by Devin Evans and produced by Stephanie Zakreson.", start: 1586.34, end: 1589.86}
+  - {text: "Our editor is Karen Martin.", start: 1590.06, end: 1591.46}
+  - {text: "I'm Oliver Conway. Until next time, goodbye.", start: 1591.68, end: 1593.80}
+---
