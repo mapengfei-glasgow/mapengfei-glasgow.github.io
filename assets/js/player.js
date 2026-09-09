@@ -553,6 +553,14 @@
     document.body.classList.toggle("player-open", !bar.hidden);
   });
 
+  // 无 Turbo（PaperMod 全页导航）时的兜底：硬加载进集页也要绑定
+  if (typeof document.addEventListener === "function") {
+    document.addEventListener("DOMContentLoaded", function () {
+      wireEpisodePage();
+      document.body.classList.toggle("player-open", !bar.hidden);
+    });
+  }
+
   /* ---------- 硬刷新恢复：把上次的播放状态摆回底部（不下载音频） ---------- */
 
   (function restore() {

@@ -1,0 +1,48 @@
+{{- /* 站点增强（挂在 PaperMod 页脚之后、body 末尾）：
+        全局底部播放条 + 登录/注册弹窗 + 播放器/生词本脚本 */ -}}
+<div id="player-bar" class="player-bar" hidden>
+  <audio id="player-audio" preload="none"></audio>
+  <div class="player-inner">
+    <a id="player-link" class="player-link" href="#" tabindex="-1">
+      <span id="player-icon" aria-hidden="true">🎧</span>
+      <span class="player-texts">
+        <strong id="player-title">尚未播放</strong>
+        <span id="player-sentence" class="player-sentence"></span>
+      </span>
+    </a>
+    <div class="player-btns">
+      <button id="player-prev" type="button" aria-label="上一句">⏮</button>
+      <button id="player-play" type="button" aria-label="播放">▶</button>
+      <button id="player-next" type="button" aria-label="下一句">⏭</button>
+    </div>
+    <button id="player-autonext" type="button" aria-pressed="true" title="点一句播一句，播完自动接下一句">自动连播</button>
+    <div class="player-seek">
+      <input id="player-progress" type="range" min="0" max="1000" step="1" value="0" aria-label="播放进度">
+      <span id="player-idx" class="player-idx"></span>
+      <span id="player-time">0:00 / 0:00</span>
+    </div>
+  </div>
+</div>
+
+<div id="auth-modal" class="auth-modal" hidden>
+  <div class="auth-box" role="dialog" aria-modal="true" aria-labelledby="auth-title">
+    <button id="auth-close" class="auth-close" type="button" aria-label="关闭">×</button>
+    <h3 id="auth-title">登录</h3>
+    <p class="auth-sub">登录或注册后，收藏的句子（☆）就能跨设备同步。</p>
+    <div class="auth-tabs" id="auth-tabs">
+      <button class="auth-tab active" data-mode="login" type="button">登录</button>
+      <button class="auth-tab" data-mode="signup" type="button">注册</button>
+    </div>
+    <form id="auth-form">
+      <input type="text" id="auth-uid" placeholder="用户名（4–36 位字母/数字，注册后就是你的账号 ID）" maxlength="36" hidden autocomplete="username">
+      <input type="email" id="auth-email" placeholder="邮箱" required autocomplete="email">
+      <input type="password" id="auth-password" placeholder="密码（至少 8 位）" required minlength="8" autocomplete="current-password">
+      <input type="text" id="auth-name" placeholder="昵称（可选）" maxlength="64" hidden>
+      <button class="cta primary auth-submit" type="submit">登录</button>
+    </form>
+    <p class="auth-err" id="auth-err" role="alert"></p>
+  </div>
+</div>
+
+<script src="{{ (resources.Get "js/player.js" | fingerprint).RelPermalink }}" defer></script>
+<script src="{{ (resources.Get "js/appwrite.js" | fingerprint).RelPermalink }}" defer></script>

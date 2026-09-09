@@ -1,9 +1,10 @@
 baseURL = "/"
-locale = "zh-CN"
-hasCJKLanguage = true
+languageCode = "zh-CN"
 title = "英语小站"
-description = "用播客学英语、写代码、记生活。"
+theme = "PaperMod"
 enableRobotsTXT = true
+hasCJKLanguage = true
+description = "用播客学英语、写代码、记生活。"
 
 [taxonomies]
   categories = "categories"
@@ -11,3 +12,41 @@ enableRobotsTXT = true
 [markup]
   [markup.highlight]
     style = "monokai"
+
+[params]
+  defaultTheme = "auto"
+  mainSections = ["episodes"]
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowToc = false
+  ShowBreadCrumbs = false
+  ShowPostNavLinks = false
+  ShowCodeCopyButtons = false
+  disableScrollToTop = false
+
+  [params.footer]
+    text = "Hugo + faster-whisper 生成 · 点任意句子从那一刻播放"
+
+  [params.label]
+    text = "英语小站"
+
+[[menu.main]]
+  name = "英语听力"
+  url = "/episodes/"
+  weight = 1
+
+[[menu.main]]
+  name = "节目"
+  url = "/categories/"
+  weight = 2
+
+[[menu.main]]
+  name = "文章"
+  url = "/posts/"
+  weight = 3
+
+[[menu.main]]
+  name = "生词本"
+  url = "/words/"
+  weight = 4
