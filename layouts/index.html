@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $eps := where .Site.RegularPages "Section" "episodes" }}
 {{ $epsNew := sort $eps "Date" "desc" }}
-{{ $recent := first 6 $epsNew }}
+{{ $recent := first 8 $epsNew }}
 {{ $shows := hugo.Data.shows | default (dict) }}
 
 <h1 class="sr-only">英语小站 · 用播客学英语</h1>

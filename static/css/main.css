@@ -46,7 +46,7 @@
 
   --fg: #e3e6e8;
   --muted: #9ca8b4;             /* Josh gray-700：副标题 */
-  --faint: #5d666f;
+  --faint: #6a7585;
 
   --primary: #809fff;           /* Josh primary：链接 / 动作 */
   --primary-soft: rgba(128, 159, 255, 0.14);
@@ -89,8 +89,8 @@
   --card-raised: #ddeef8;       /* Josh cloud-300 */
 
   --fg: #0a0c10;
-  --muted: #5a6072;
-  --faint: #8a91a3;
+  --muted: #586078;
+  --faint: #6e7688;
 
   --primary: #4242fa;
   --primary-soft: rgba(66, 66, 250, 0.10);
@@ -141,7 +141,7 @@ body {
   position: sticky;
   top: 0;
   z-index: 10;
-  margin-top: 2rem;
+  margin-top: 1.25rem;
   height: 5rem;
   /* 初始透明 → 天空色；滚动后叠加 var(--bg) 渐变（Josh 的 --top-color 技巧） */
   background: linear-gradient(to top, transparent 0, var(--sky-from) 100%);
@@ -273,8 +273,8 @@ body {
 
 /* ---------- 顶部天空色带 + 手绘波浪（Josh 首页顶部同款结构） ---------- */
 .sky-band {
-  margin-top: -7rem;
-  padding-top: 7rem;
+  margin-top: -5rem;
+  padding-top: 5rem;
   background: var(--sky-from);
   overflow: hidden;
 }
@@ -282,7 +282,7 @@ body {
   display: block;
   width: 100%;
   min-width: 320rem;
-  height: 28.5rem;
+  height: 17rem;
 }
 
 main {
@@ -384,12 +384,12 @@ main {
   min-width: 5120px;
   pointer-events: none;
 }
-.footer-wave svg { display: block; width: 100%; height: 240px; }
+.footer-wave svg { display: block; width: 100%; height: 7rem; }
 .footer-inner {
   position: relative;
   max-width: 68.75rem;
   margin: 0 auto;
-  padding-top: 17rem;
+  padding-top: 11rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2.5rem 4rem;
@@ -441,7 +441,7 @@ main {
   grid-template-areas:
     "newest categories"
     "newest popular";
-  gap: 64px 96px;
+  gap: 48px 72px;
   padding-top: 32px;
   padding-bottom: 64px;
 }
@@ -473,7 +473,7 @@ main {
 }
 
 /* 文章卡（Josh .w124ae9d / .t1afyvh0 系列） */
-.art-list { display: flex; flex-direction: column; gap: 48px; }
+.art-list { display: flex; flex-direction: column; gap: 32px; }
 .ep-card {
   position: relative;
   display: block;
@@ -711,6 +711,7 @@ a.pill:hover, a.show:hover { text-decoration: none; opacity: 0.8; }
   transition: background 0.12s ease;
 }
 .sentence:hover { background: var(--bg-soft); }
+.sentence.playing { background: var(--bg-soft); box-shadow: inset 3px 0 0 var(--primary); }
 .sentence .idx {
   font-family: var(--font-mono);
   font-size: 0.72rem;
