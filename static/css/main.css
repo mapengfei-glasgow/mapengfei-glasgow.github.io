@@ -370,3 +370,34 @@ body.player-open { padding-bottom: 118px; }
 .auth-anon:hover { color: var(--primary); }
 .auth-err { min-height: 1.2em; margin: 0.8em 0 0; font-size: 0.8rem; color: var(--accent); }
 body.modal-open { overflow: hidden; }
+
+/* ---------- Home page blocks (the intro itself is PaperMod's home_info) ---------- */
+.home-block { margin-top: calc(var(--gap) * 2); }
+.home-block-title {
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--secondary);
+  margin: 0 0 calc(var(--gap) * 0.6);
+}
+.home-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: var(--gap);
+  align-items: stretch;
+}
+.home-cards .post-entry {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.home-cards .entry-header h3 { margin: 0; font-size: 1.05rem; }
+.home-cards .entry-content { flex: 1; }
+.home-cards .entry-footer {
+  font-size: 0.8rem;
+  color: var(--tertiary);
+  margin-top: 0.6rem;
+}
+.home-card-icon { margin-right: 0.35em; }

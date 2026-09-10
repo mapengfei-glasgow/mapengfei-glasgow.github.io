@@ -31,6 +31,15 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   [params.label]
     text = "English Listening"
 
+  # Home page intro block (rendered by PaperMod's home_info partial)
+  [params.homeInfoParams]
+    Title = "English Listening"
+    Content = """
+Learn English with podcasts. Every episode is transcribed and **timestamped sentence by sentence**, so tapping any sentence plays it from that exact moment — built for close listening and shadowing.
+
+Sentences above A2 level come with a short **plain-English note**, and any sentence can be saved to your **vocabulary book**, which syncs across devices.
+"""
+
 [[menu.main]]
   name = "Listening"
   url = "/episodes/"

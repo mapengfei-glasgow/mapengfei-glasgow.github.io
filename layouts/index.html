@@ -1,0 +1,65 @@
+{{- define "main" }}
+
+{{- /* Intro block, configured by params.homeInfoParams — the same partial
+       PaperMod's own demo home page uses. */ -}}
+{{- partial "home_info.html" . }}
+
+{{- $eps := where site.RegularPages "Section" "episodes" }}
+{{- $sentences := 0 }}{{ range $eps }}{{ $sentences = add $sentences (len .Params.sentences) }}{{ end }}
+{{- $explains := 0 }}{{ range $eps }}{{ range .Params.sentences }}{{ with .explain }}{{ $explains = add $explains 1 }}{{ end }}{{ end }}{{ end }}
+
+<section class="home-block">
+  <h2 class="home-block-title">Start here</h2>
+  <div class="home-cards">
+    <article class="post-entry home-card">
+      <header class="entry-header"><h3 class="entry-hint-parent">🎧 Listening</h3></header>
+      <div class="entry-content">
+        <p>Every episode, split into sentences you can play one by one.</p>
+      </div>
+      <footer class="entry-footer">{{ len $eps }} episode{{ if ne (len $eps) 1 }}s{{ end }} · {{ $sentences }} sentences</footer>
+      <a class="entry-link" aria-label="All episodes" href="{{ "episodes/" | relURL }}"></a>
+    </article>
+
+    <article class="post-entry home-card">
+      <header class="entry-header"><h3 class="entry-hint-parent">🎙️ Shows</h3></header>
+      <div class="entry-content">
+        <p>Browse episodes by podcast — daily world news, long-form discussion and more.</p>
+      </div>
+      <footer class="entry-footer">{{ len site.Taxonomies.categories }} show{{ if ne (len site.Taxonomies.categories) 1 }}s{{ end }}</footer>
+      <a class="entry-link" aria-label="Browse by show" href="{{ "categories/" | relURL }}"></a>
+    </article>
+
+    <article class="post-entry home-card">
+      <header class="entry-header"><h3 class="entry-hint-parent">📖 Vocabulary</h3></header>
+      <div class="entry-content">
+        <p>Sentences you saved, with their plain-English notes — click one to hear it again.</p>
+      </div>
+      <footer class="entry-footer">{{ $explains }} notes written so far</footer>
+      <a class="entry-link" aria-label="Vocabulary book" href="{{ "words/" | relURL }}"></a>
+    </article>
+  </div>
+</section>
+
+<section class="home-block">
+  <h2 class="home-block-title">Shows</h2>
+  <div class="home-cards">
+    {{- range $name, $show := hugo.Data.shows }}
+    {{- $page := site.GetPage (printf "/categories/%s" $name) }}
+    <article class="post-entry home-card">
+      <header class="entry-header">
+        <h3 class="entry-hint-parent"><span class="home-card-icon" aria-hidden="true">{{ $show.icon }}</span> {{ with $page }}{{ .Title }}{{ else }}{{ strings.Title (replaceRE "-" " " $name) }}{{ end }}</h3>
+      </header>
+      <div class="entry-content">
+        <p>{{ $show.description }}</p>
+      </div>
+      <footer class="entry-footer">
+        {{ with $page }}{{ len .Pages }} episode{{ if ne (len .Pages) 1 }}s{{ end }}{{ else }}No episodes yet{{ end }}
+      </footer>
+      <a class="entry-link" aria-label="Show page"
+         href="{{ with $page }}{{ .RelPermalink }}{{ else }}{{ "categories/" | relURL }}{{ end }}"></a>
+    </article>
+    {{- end }}
+  </div>
+</section>
+
+{{- end }}

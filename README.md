@@ -17,7 +17,8 @@ english-site/          # the Hugo site
   static/css/          # main.css — styles for our own components only
   assets/js/           # player.js (bottom bar + episode page wiring)
                        # appwrite.js (vocabulary book)
-  layouts/             # episodes/single.html, words/list.html, partials/ overrides
+  layouts/             # index.html (home: intro + cards), episodes/single.html,
+                       # words/list.html, partials/ overrides
   themes/PaperMod/     # theme (git submodule)
 tools/make_episode.py  # MP3 → full audio + Hugo content (with sentence timestamps)
 tools/bbc_podcast.py   # downloader for the BBC feeds (run by systemd timers)
