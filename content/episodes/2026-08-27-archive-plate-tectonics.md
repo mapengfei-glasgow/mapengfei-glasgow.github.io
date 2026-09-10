@@ -1,0 +1,336 @@
+---
+layout: single
+title: "Archive: Plate Tectonics"
+show: "In Our Time"
+date: 2026-08-27T00:00:00Z
+slug: "2026-08-27-archive-plate-tectonics"
+audioDir: "2026-08-27-archive-plate-tectonics"
+totalDuration: 2747.7
+sentences:
+  - {text: "BBC Sounds. Music, radio, podcasts.", start: 1.10, end: 4.26}
+  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 8.00, end: 12.40}
+  - {text: "Why do weekends even exist?", start: 12.74, end: 14.50}
+  - {text: "And how did we become so obsessed with football?", start: 14.82, end: 17.10}
+  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 17.46, end: 19.50}
+  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 19.94, end: 25.52}
+  - {text: "Like why has the pub become so important?", start: 25.62, end: 27.62}
+  - {text: "That's an excellent question, Ben.", start: 27.90, end: 29.68}
+  - {text: "Here for the history.", start: 30.02, end: 30.74}
+  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 31.06, end: 33.40}
+  - {text: "Hi. This is me, Shaglenny.", start: 33.40, end: 35.54}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.16, end: 40.34}
+  - {text: "But if you can't wait, head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.10, end: 48.94}
+  - {text: "This is In Our Time from BBC Radio 4.", start: 49.64, end: 52.62}
+  - {text: "And this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 53.08, end: 58.40}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.10, end: 64.16}
+  - {text: "I hope you enjoy the programme.", start: 64.72, end: 66.10}
+  - {text: "I've chosen Plate -Tech Tonics for the latest of our summer selection from Melvin Bragg's In Our Time because I was listening to the programme live when it first went out almost 20 years ago", start: 66.82, end: 78.66}
+  - {text: "and it literally stopped me in my tracks.", start: 79.18, end: 81.74}
+  - {text: "I was heading out the door in a rush but became so fascinated by the discussion I cancelled my meeting in order to finish listening to Melvin and his guests.", start: 82.20, end: 92.26}
+  - {text: "Until this point my only engagement with Plate -Tech Tonics was as a rather bored 12 year old in my school learning about how earthquakes are caused", start: 92.88, end: 102.02}
+  - {text: "when two tectonic plates rub each other up the wrong way as it were.", start: 102.02, end: 106.32}
+  - {text: "But as the programme unfolded the guests slowly revealed that these gigantic formations mediate between the vast fiery resources churning below the Earth's crust and the atmospherics of land and sea.", start: 107.05, end: 121.53}
+  - {text: "How and why they push continents together and apart like pieces on a chessboard.", start: 122.37, end: 127.23}
+  - {text: "For a long time it was poorly understood how the conditions for life on Earth are absolutely dependent on this complex and delicate interplay.", start: 128.02, end: 136.72}
+  - {text: "The programme reaches a crescendo as the academics have a vigorous exchange well a bit of an argy -bargy really about the validity of James Lovelock's Gaia theory.", start: 137.46, end: 148.42}
+  - {text: "By then I was so engaged in listening my coffee had gone stone cold.", start: 149.14, end: 153.56}
+  - {text: "I guarantee you'll find this a classic in our time.", start: 154.20, end: 157.62}
+  - {text: "Hello America is getting further away from Europe.", start: 158.63, end: 161.57}
+  - {text: "This is not a political statement but a geological fact.", start: 161.85, end: 164.81}
+  - {text: "Just as the Pacific is getting smaller, the Red Sea bigger, the Himalayas are still going up and one day the Horn of Africa will be a large island.", start: 165.17, end: 173.55}
+  - {text: "These are findings from the theory of plate tectonics, a revolutionary idea in 20th century geology that saw the continents of the Earth to be dancing to the music of deep time.", start: 174.23, end: 183.35}
+  - {text: "A dance of incredible slowness yet powerful enough to throw up the mountains and pour away the oceans and dictate the character of the planet.", start: 183.79, end: 191.65}
+  - {text: "Plate tectonics was a genuine scientific revolution.", start: 192.29, end: 195.09}
+  - {text: "It made geologists and many more besides profoundly rethink what the Earth was, how it worked and how it related to all the things in it.", start: 195.09, end: 202.73}
+  - {text: "With me to discuss plate tectonics at Jo Kahn, Senior Fellow in the School of Earth and Environment at the University of Leeds, Lynn Frostig, Director of the Hull Environment Research Institute and Professor of Physical Geography at the University of Hull and Richard Caulfield,", start: 202.85, end: 216.53}
+  - {text: "Visiting Senior Lecturer in Earth Sciences at the Open University.", start: 216.67, end: 219.89}
+  - {text: "Richard Caulfield, Plate tectonics is the mechanism by which the continents move around the surface of the Earth.", start: 219.89, end: 225.33}
+  - {text: "It was developed in the 1960s.", start: 225.43, end: 227.23}
+  - {text: "But let's go back.", start: 227.25, end: 228.07}
+  - {text: "What sort of ideated people have of the sense of the movement of the Earth?", start: 228.29, end: 233.01}
+  - {text: "Well, the sense that the continents may have fitted together actually goes back to the 16th century when Abraham Ortelius, a Dutch map maker, realized that", start: 233.13, end: 245.95}
+  - {text: "there was a great similarity in the way the bulge of West Africa looked as though it could have fitted into South America.", start: 245.95, end: 253.79}
+  - {text: "And this was taken up and thought about over the years.", start: 255.07, end: 258.07}
+  - {text: "Francis Bacon, for example, was interested in theory.", start: 258.25, end: 262.33}
+  - {text: "Benjamin Franklin was also interested in it.", start: 262.51, end: 264.87}
+  - {text: "This similarity in the way the continents looked, whether or not they might have once fitted together.", start: 265.15, end: 271.17}
+  - {text: "But it wasn't until the early 20th century when a German called Alfred Wegener actually proposed a mechanism by which the continents might have once moved around", start: 271.17, end: 282.83}
+  - {text: "and once at one point been part of the same single supercontinent.", start: 282.83, end: 286.95}
+  - {text: "And in fact, there are three components of the theory of plate tectonics, which is, as you say, a 1960s theory.", start: 287.61, end: 294.13}
+  - {text: "You start with the idea of continental drift, which stems from this idea that the continents may once have fitted together.", start: 294.79, end: 300.45}
+  - {text: "And then the second component is something which was discovered in the early years of the 20th century, which is the idea of sea floor spreading.", start: 300.45, end: 308.15}
+  - {text: "And then this was all synthesized in the 1950s and 1960s into the theory of plate tectonics.", start: 308.75, end: 314.21}
+  - {text: "And in fact, it's impossible to underestimate the importance of the theory of plate tectonics to the science of geology.", start: 314.73, end: 321.95}
+  - {text: "It's really the royal oak of geology.", start: 322.09, end: 323.85}
+  - {text: "It's the tree that dominates the forest and without which none of the science really makes sense.", start: 324.11, end: 329.01}
+  - {text: "Can you tell us a bit more, though, before we come to the actual theory itself about what people were saying about fossil distribution around the world", start: 329.61, end: 337.63}
+  - {text: "and how puzzling that was with continents being so widely separated by oceans and so on?", start: 337.63, end: 343.33}
+  - {text: "Right. Well, on top of this idea that the continents look superficially as though they have shapes which would enable them to fit together like pieces of a jigsaw,", start: 343.81, end: 352.65}
+  - {text: "you also have the distribution of rock types, similarities, for example, in the nature of glacial sediments of permo -carboniferous age, about 300 million years old broadly,", start: 353.41, end: 368.15}
+  - {text: "which are found in South America and in Africa and in India.", start: 368.63, end: 373.91}
+  - {text: "And the question then is how come you get sediments of the same age found so widely separated?", start: 374.51, end: 380.85}
+  - {text: "What explanations did people come up with and when and who?", start: 382.11, end: 385.01}
+  - {text: "Well, there was an idea because on top of this idea of similarity of rock types there's this distribution of fossils as well, which are the Permian fossils,", start: 385.01, end: 395.01}
+  - {text: "tetrapod fossils are very similar on a number of different continents.", start: 395.57, end: 398.77}
+  - {text: "There's the so -called glossopterous flora, very similar across four continents.", start: 398.97, end: 403.49}
+  - {text: "How could they possibly be so similar on four separate continents?", start: 403.61, end: 407.25}
+  - {text: "Well, the idea was that there may have been land bridges which sort of went up and down like a series of random elevators.", start: 407.39, end: 414.47}
+  - {text: "Over the years they came up and then they disappeared as completely as the lost continent of Atlantis.", start: 415.33, end: 420.71}
+  - {text: "How long did the land bridges idea last and when did it come in?", start: 420.95, end: 425.39}
+  - {text: "I can remember as an undergraduate people still trying to defend the idea of land bridges.", start: 425.61, end: 431.29}
+  - {text: "They were an older generation of geologists, it has to be said.", start: 432.09, end: 435.35}
+  - {text: "But basically land bridges seems to have been around, the idea of those kind of things seems to have been around sort of before, during and after the Second World War.", start: 436.89, end: 445.43}
+  - {text: "Joe Kant, Richard has mentioned sea floor spreading.", start: 446.24, end: 449.46}
+  - {text: "Can you explain how that developed through and after the Second World War?", start: 449.66, end: 453.10}
+  - {text: "Yes, it started with Arthur Holmes, who was professor of geology in Durham and then in Edinburgh, who had the idea that the oceans were splitting apart in the middle", start: 453.64, end: 465.00}
+  - {text: "and that the oceans were being carried on the back of giant deep earth currents to one side and the other.", start: 465.44, end: 471.08}
+  - {text: "And that was taken up after the war by Harry Hares, an American professor at Princeton who was also a sea captain.", start: 471.86, end: 478.68}
+  - {text: "All through the Second World War he'd sailed his ships to and fro across the Pacific and he had lots of time to make measurements and also lots of time for thinking.", start: 479.08, end: 486.46}
+  - {text: "And he refined this idea.", start: 486.96, end: 488.34}
+  - {text: "He was also the most amazingly persuasive speaker too.", start: 488.48, end: 491.16}
+  - {text: "He would stand there with his elbow on the rostrum, chained smoking and talking away in a quiet voice but totally convincingly.", start: 491.48, end: 500.72}
+  - {text: "And that was one of the great roots from which a plate tectonic sprang.", start: 501.22, end: 504.84}
+  - {text: "The other was the Second World War.", start: 505.30, end: 506.68}
+  - {text: "And during the Second World War all sorts of marvellous marine tools were developed.", start: 508.11, end: 512.35}
+  - {text: "Magnetometers for searching for submarines.", start: 512.99, end: 514.73}
+  - {text: "Sonorboys for listening to submarines.", start: 515.75, end: 518.01}
+  - {text: "Explosives for destroying submarines.", start: 518.83, end: 520.83}
+  - {text: "And all of these were surplus to requirements at the end of the Second World War, along with a lot of ship time.", start: 521.33, end: 527.05}
+  - {text: "And also, as well as that, there were scientists who'd been to sea during the Second World War.", start: 527.87, end: 534.64}
+  - {text: "So they set about exploring the oceans, which had only been done in the most superficial way before the Second World War.", start: 534.76, end: 541.12}
+  - {text: "And what primarily did they find that set us on the path towards the theory of plate tectonics?", start: 541.66, end: 546.04}
+  - {text: "They first of all found that the mid -ocean ridges and that along the middle of the Atlantic Ocean and going all the way around the", start: 546.18, end: 552.56}
+  - {text: "world wrapped in a sort of tennis ball -like seam was a range of mountains with a rift valley in the middle of the mountains that might indicate things were pulling apart.", start: 552.56, end: 561.64}
+  - {text: "It coincided with the chain of earthquakes.", start: 562.30, end: 564.34}
+  - {text: "And then when you took ships across these mountain ranges, you found and towed a magnetometer across.", start: 565.20, end: 572.00}
+  - {text: "You found these extraordinary big magnetic signals.", start: 572.68, end: 576.20}
+  - {text: "Now, I remember when I was a student looking at these records and thinking, this is so weird, because it wasn't so much that the humps and bumps were there.", start: 576.20, end: 586.04}
+  - {text: "It was a size of them.", start: 586.06, end: 587.08}
+  - {text: "It indicated there was huge magnetic contrasts down on the bottom of the oceans.", start: 587.18, end: 591.60}
+  - {text: "And that was very strange.", start: 592.24, end: 593.12}
+  - {text: "So just after the Second World War, people are thinking that the old theories, whatever they were, which Richard began to highlight, didn't obtain.", start: 593.60, end: 601.06}
+  - {text: "Were they moving towards any new theory of what this told them about the planet as a whole?", start: 601.30, end: 605.94}
+  - {text: "Well, this was where Harry Hiss was so influential because he really inspired all of us to start thinking about sea floor spreading and talking about sea floor spreading.", start: 606.48, end: 615.46}
+  - {text: "And instead of being a sort of forbidden subject, as it had been in certainly in America since 1928, in 1928 the Americans had a meeting where they declared continental drift as impossible.", start: 615.58, end: 627.18}
+  - {text: "And so you couldn't teach continental drift in American universities at all after then.", start: 627.70, end: 632.70}
+  - {text: "But in Europe and in the Southern Hemisphere particularly, there was a lot more sympathy to the ideas of continental drift and hence the ideas of sea floor spreading.", start: 633.70, end: 643.50}
+  - {text: "So the ideas were there, but it took these magnetic anomalies that people found to really bring them from being a happy idea, which is how it was when I was a student,", start: 644.26, end: 655.58}
+  - {text: "through to being a quantifiable fact where we could actually demonstrate what was truly happening.", start: 656.12, end: 661.98}
+  - {text: "So Lynn, Lynn Frosty, can we go on from there?", start: 662.68, end: 665.22}
+  - {text: "Then let's say we've come to the end of the Second World War.", start: 665.32, end: 667.26}
+  - {text: "Numerous observations have been made.", start: 667.82, end: 669.36}
+  - {text: "As pointed out, scientists had been at sea.", start: 670.10, end: 672.94}
+  - {text: "There was a lot of shipping around, a lot of time on people's hands, and they went on doing experiments.", start: 673.50, end: 676.84}
+  - {text: "Where were we in terms of arriving at a theory?", start: 677.42, end: 679.80}
+  - {text: "Where were you, John, in terms of arriving at a theory?", start: 679.92, end: 682.16}
+  - {text: "Well, when I was an undergraduate, which I started in 1967, plate tectonic theory wasn't there.", start: 682.34, end: 688.24}
+  - {text: "We did learn about sea floor spreading.", start: 688.36, end: 690.20}
+  - {text: "But the problem with sea floor spreading is if you're spreading the sea and you're making the seas bigger, you've actually got to destroy something somewhere else if the whole earth isn't expanding.", start: 690.68, end: 699.54}
+  - {text: "And people knew that there was no evidence that actually there was an expanding earth.", start: 700.12, end: 703.14}
+  - {text: "There was a theory for a while, but it didn't last very long.", start: 703.26, end: 705.66}
+  - {text: "So what you've got to do is find out where the ocean floor's going because we've not got an ever -expanding ocean floor, so we must be destroying it elsewhere.", start: 706.28, end: 713.64}
+  - {text: "So they knew it was...", start: 713.90, end: 715.34}
+  - {text: "The sea floor was spreading, but they didn't know where it went to and how...", start: 715.34, end: 721.60}
+  - {text: "Where it went to, and actually the mechanism by which it was being caused, so there were two aspects of it which weren't there.", start: 721.60, end: 727.86}
+  - {text: "So what was the theory then before plate tectonics?", start: 728.06, end: 730.84}
+  - {text: "What were you being taught as a...", start: 730.88, end: 732.10}
+  - {text: "I was being taught about things called ugeosynclines and myogiosynclines, which sort of dropped down and came back up again for no explained reason.", start: 732.10, end: 740.10}
+  - {text: "It was very much a jigsaw which didn't fit together, which had no underlying principles and was very confusing actually because that's what I was taught to start with.", start: 740.78, end: 748.86}
+  - {text: "And when the theory of plate tectonics was published, which was during my time as an undergraduate, suddenly the pieces fell into place.", start: 749.00, end: 756.82}
+  - {text: "It was like a jigsaw coming together.", start: 757.02, end: 758.30}
+  - {text: "Let's stay with the sea floor for a moment or two before we come to this Eureka moment, as you call it actually, the plate tectonics and the extraordinary discovery quite recently.", start: 758.64, end: 766.76}
+  - {text: "I mean, a lot of us were alive and I've been aging in the 60s.", start: 767.04, end: 771.14}
+  - {text: "What were they saying about sea floor?", start: 774.82, end: 776.70}
+  - {text: "Can you just say more detail?", start: 776.70, end: 778.18}
+  - {text: "What were they saying about sea floor spreading?", start: 778.32, end: 779.76}
+  - {text: "Yes. It's a very nice phrase, but you imagine two hands together like that at the Baltimore Sea and they spread out from one another.", start: 779.88, end: 785.10}
+  - {text: "Was that what they were saying?", start: 785.32, end: 786.34}
+  - {text: "What were they saying?", start: 786.44, end: 786.94}
+  - {text: "More or less that.", start: 787.12, end: 787.88}
+  - {text: "That there was tension at the mid -ocean ridge which was opening up effectively large cracks and magma was coming up in the middle and then more tension", start: 788.04, end: 796.04}
+  - {text: "and magma came up in the middle and solidified and it was that solidification.", start: 796.04, end: 799.98}
+  - {text: "Magma under the cross, magma under the cross to the earth.", start: 799.98, end: 802.98}
+  - {text: "Yes, volcanic material effectively.", start: 803.06, end: 804.78}
+  - {text: "It comes up and then hardens.", start: 805.40, end: 806.54}
+  - {text: "And as it hardens, so little bits of iron which there are in this very heavy, very dense rock orient themselves in the direction of the polarity of the earth", start: 806.66, end: 815.12}
+  - {text: "where the North Pole is and where the South Pole is.", start: 815.12, end: 817.14}
+  - {text: "And of course there have been lots of magnetic reversals in the past.", start: 817.70, end: 820.44}
+  - {text: "You're allowed to tell people what you mean by that.", start: 822.02, end: 824.34}
+  - {text: "Well where the North Pole shifts to the South Pole and the South Pole shifts to the North Pole so the whole thing turns round and the earth does this repeatedly over time again", start: 824.34, end: 832.94}
+  - {text: "and again and again and we know that and we know that it happens at relatively frequent intervals.", start: 832.94, end: 837.80}
+  - {text: "And can you work out when it happens?", start: 837.82, end: 839.20}
+  - {text: "You can work out when it happens, yes.", start: 839.60, end: 841.20}
+  - {text: "So we've got evidence of when it happens the age of these reversals but you look at the sea floor and what you can see is stripes of rock", start: 841.32, end: 847.48}
+  - {text: "magnetized with the North Pole where it is now actually at the mid -ocean ridge and then as you go out from it reversals you get the South Pole at the North,", start: 848.36, end: 855.60}
+  - {text: "the North Pole at the South and then another stripe with the South Pole at the North and the South Pole at the South and these are repeated by the side.", start: 855.72, end: 862.66}
+  - {text: "This mid -ocean ridge you're talking about is down the middle of the Atlantic.", start: 863.42, end: 866.70}
+  - {text: "The Atlantic is one in the Pacific, not complete.", start: 866.98, end: 869.04}
+  - {text: "There's a whole string of them all around the earth and I think the description of it as a sort of tennis ball with these seams going all around the earth", start: 869.40, end: 876.16}
+  - {text: "and joined up is a very good way of thinking of it.", start: 876.16, end: 878.26}
+  - {text: "So what we're saying is it was the exploration of the sea floor.", start: 878.30, end: 882.06}
+  - {text: "The ocean floor. More or less unknown until let us say the Second World War which led to the revolution of this and then we the theory of plate tectonics,", start: 882.06, end: 893.40}
+  - {text: "can you refine Richard Coffill how that came about in Cambridge these two people?", start: 893.48, end: 897.52}
+  - {text: "Okay actually I wanted to just backtrack a little bit and say something that we'd missed which is that the mid -ocean ridges which is where", start: 898.04, end: 904.88}
+  - {text: "new material is formed comes out of the work of two American scientists called Bruce Hazen and Marie Tharp and they were using another new technology Sonar to produce remarkably detailed maps", start: 904.88, end: 916.88}
+  - {text: "and so it was known in the 1950s that new materials coming up at the mid -ocean ridges and that there soon became clear that there were earthquakes located there", start: 916.88, end: 926.88}
+  - {text: "as well so it's obviously seismically active and then as Joe says the other half of this equation is the work of Hess who based on gravitational work showed that which is work he'd done in the 1930s", start: 926.88, end: 939.23}
+  - {text: "with his thesis supervisor showed in the 1950s, nearly 1960s that the other half of the plate tectonic equation was where this material which is produced must go", start: 939.86, end: 948.74}
+  - {text: "which is at the edges of the oceans by subduction and a consequence of that is that the oceans are very young the oldest ocean crust is only 180 million years old", start: 948.74, end: 959.78}
+  - {text: "and these stripes which my colleagues have been talking about are effectively these magnetic reversals which happen if you imagine vertically in time of being transposed laterally", start: 959.78, end: 971.42}
+  - {text: "as a sort of tape recording of the earth's changing magnetic field as this new material is formed as this new tape is being formed and rolls outwards from the ocean ridges", start: 971.42, end: 981.10}
+  - {text: "and subduction is when one plate hits another and the plate goes under one plate goes under and so it returns to this under the crust and it returns to the magnet so it's", start: 981.10, end: 989.86}
+  - {text: "recycled and so the thing isn't lost so it neither expands nor shrinks the planet.", start: 990.68, end: 995.78}
+  - {text: "Can you just pinpoint for us now the Jerkan what these people did in Cambridge that came with the theory of plate tectonic can you briefly say what that theory is?", start: 995.90, end: 1005.28}
+  - {text: "It was a very exciting time I was there as a research student and watched it all happen.", start: 1005.36, end: 1010.78}
+  - {text: "Fundamentally it took the people who drove it forward were a young student called Fred Vine and his supervisor Drummond Matthews and what Vine and Matthews did was to say look", start: 1012.74, end: 1024.80}
+  - {text: "let's suppose let's just suppose that sea floor is being created by sea floor spreading let's suppose and this was not established at the time but", start: 1025.96, end: 1034.22}
+  - {text: "as a regular reversal of the earth's magnetic field then this should produce a regular stripy pattern as the sea floor spreads apart and the earth's magnetic field switches to", start: 1034.22, end: 1046.16}
+  - {text: "and fro it should produce a regular stripy pattern on the sea floor and that should be symmetrical about the mid ocean ridge and you should be able to measure the rate at which the ocean is spreading apart", start: 1046.16, end: 1058.12}
+  - {text: "and that's what they found, that's what they demonstrated and so we moved from a happy idea to a really quantitative foundation of sea floor spreading.", start: 1058.88, end: 1067.12}
+  - {text: "And that theory which you've called the Eureka moment, I'm repeating myself but it's worth repeating is something that was resisted in America and particularly in Russia,", start: 1067.54, end: 1078.28}
+  - {text: "Lynn Prostit can you tell us briefly why it was so heavily resisted?", start: 1078.48, end: 1081.70}
+  - {text: "I think because there was an enormous amount invested in the previous ideas of what was going on there have been a lot of observations a lot of ideas about how things worked", start: 1082.02, end: 1090.44}
+  - {text: "and I don't think anyone was ready to give up those ideas it was only people who really thought beyond the accepted that would take this theory on", start: 1090.44, end: 1100.70}
+  - {text: "but I think it was accepted relatively quickly if you compare it with the ideas of Komponnikers and how long they took to permeate through astronomy", start: 1100.70, end: 1107.44}
+  - {text: "sea floor spreading and plate tectonics really did speak to a lot of people because it explains How big an idea was it?", start: 1108.26, end: 1147.05}
+  - {text: "I've used the word revolution which comes from the notes that the three of you provided for the spring and it's changed great can you just", start: 1147.13, end: 1154.45}
+  - {text: "give us how big an idea it is in geology?", start: 1154.45, end: 1157.15}
+  - {text: "It's a huge idea because it joins everything up before that point we didn't have anything joined up it makes people look at things holistically it makes you look at the oceans", start: 1157.37, end: 1165.89}
+  - {text: "and the continents together it makes you look at the sea and the atmosphere together it makes you look at everything as one in fact it's", start: 1165.89, end: 1172.77}
+  - {text: "the prelude to what really are the ideas at the moment of earth system science where the earth is one big system and it works together", start: 1172.77, end: 1179.91}
+  - {text: "and the driving force of this really is plate tectonics can you just Richard Coffill before we move on can you just tell listeners how it", start: 1179.91, end: 1187.63}
+  - {text: "works straightforwardly we've used the word plate we used the word tectonics in the introduction that might have been in the trailer I can't remember and we said there were seven", start: 1187.63, end: 1196.09}
+  - {text: "or nine large plates and innumerable small plates now what goes on specifically well what's happening is right around the globe these places what's happening is that the continents", start: 1196.09, end: 1205.79}
+  - {text: "which are granite I carried around on oceanic crust which is bustled and the crust is continually moving imagine a conveyor belt in Sainsbury is moving moving moving imagine two conveyor belts in Sainsbury is converging on each other", start: 1206.49, end: 1223.55}
+  - {text: "and that is the situation that you have with plate tectonics because the plates are continually moving towards each other and being subducted underneath each other the continents are moving closer and closer together for example even as we speak Africa", start: 1224.27, end: 1237.62}
+  - {text: "is closing in on southern Europe the Mediterranean that we know and love for our family holidays is in fact the remnant of a world girdling super ocean", start: 1238.21, end: 1248.66}
+  - {text: "which went right around the world around the equator called Tethys so Mediterranean is in fact a sad remnant of a once great ocean and in 150 million years it won't be there there will be a range of mountains which will be already called the Mediterranean mountains", start: 1248.66, end: 1265.42}
+  - {text: "and in 250 million years the Mediterranean mountains will be even higher the Atlantic will be only a sad little pond locked up in a new super continent called Ultima Pangaea so this is what's happening is that the continents are always moving and", start: 1266.12, end: 1283.12}
+  - {text: "as a function of plate tectonics and crashing into each other continuously reshaping the face of the earth and what's going underneath the plates they're not only crashing into each other they're converging and diverging", start: 1283.81, end: 1297.28}
+  - {text: "and what's the deeper structure of the planet the fascinating thing is that the sliding of the plates as they move along is almost silent they are definitely moving absolutely but as they move you see earthquakes at the edges of the plates", start: 1297.87, end: 1314.10}
+  - {text: "but you don't see a sheet of earthquakes underneath the plates so the earthquakes are sliding on a soft soul about 100 kilometers down and that", start: 1314.89, end: 1325.82}
+  - {text: "soft soul is the Earth's mantle with tiny little bits of melt in it it's lubricated by these little bits of melt drops of melt in the mantle at that depth", start: 1325.82, end: 1337.96}
+  - {text: "deeper down it becomes solid above that it's solid but there's just a narrow zone where it's soft and it's the existence of that soft zone that allows the plates to slide so", start: 1338.90, end: 1350.16}
+  - {text: "comfortably over the surface of the Earth of course as they slide oceanic floor goes down it's about three square kilometers of new seafloor are created every year three square kilometers are destroyed the plates move about", start: 1350.90, end: 1366.52}
+  - {text: "as fast as your fingernails grow about as fast as your hair grows but when the continents arrive the continents are great thick objects they don't sink they can't be recycled they smash into each other they collide", start: 1366.52, end: 1380.34}
+  - {text: "they're complicated because the continents they've got all sorts of ancient fishers they've got wrinkles and creases in them just as somewhat senior citizens have wrinkles and creases and this means that when they're squashed", start: 1381.06, end: 1394.30}
+  - {text: "instead of behaving simply as the ocean floor does they break along old fracture lines they are more complicated so the Himalayas the mountains where two continents are colliding get quite complicated things Lynne Trotick what happens", start: 1394.92, end: 1408.44}
+  - {text: "when a plate's driven back into the Earth I just want to listen to me and I know that what is actually going on now and the things", start: 1408.44, end: 1416.76}
+  - {text: "that are moving we just told us how they can move apparently easy but they do collide and these collisions do result in the Himalayas Great Ridge across the Atlantic", start: 1416.76, end: 1425.78}
+  - {text: "they do diverge diverge result in the Atlantic getting wider just as the Pacific getting smaller and so on but when it's driven back into the Earth can you just tell us how this goes yes what happens is", start: 1426.52, end: 1438.86}
+  - {text: "that the lighter plate which is normally the one with the continent on it because that's much lighter material than the ocean floor when it meets an ocean floor plate and it depends what's on the plates as to what happens", start: 1438.86, end: 1448.44}
+  - {text: "the ocean floor because it's denser heavier it actually dips down beneath the continental part of the plate and as it dips down so there's friction", start: 1449.00, end: 1459.24}
+  - {text: "so there's heat and so there's melting and this creates volcanic activity and creates mountain ranges but this dipping down is a very strong feature and", start: 1459.24, end: 1470.06}
+  - {text: "it occurs all around the edges for example the Pacific around the rim of fire there are what are called ocean trenches they're the deepest places and also the rim of fire that's where the earthquakes and the volcanoes are", start: 1470.06, end: 1479.96}
+  - {text: "because of the plate boundary because of the plate boundary and huge amounts of activity you think about how much energy is expended by pushing or pulling a slab of oceanic crust beneath a plate it's an enormous amount and that's released as earthquakes", start: 1480.82, end: 1495.82}
+  - {text: "and it also in the end causes for a whole range of different reasons the melting which forms the volcanoes these huge volcanoes like there are in the Andes", start: 1496.14, end: 1505.04}
+  - {text: "and along the west coast of America are all part of this whole melting system and interestingly we only found this because of the atomic tests during the 50s", start: 1505.04, end: 1518.46}
+  - {text: "where there were masses of seismometers set up around the globe to detect these seismic bits of seismic activity and as a result of that they detected seismic activity around these edges of the plates", start: 1518.46, end: 1530.36}
+  - {text: "and particularly along a line which it declines towards the continent at an angle of about 40 to 60 degrees and that's called a Benioff zone that's the subduction zone that's", start: 1530.36, end: 1541.30}
+  - {text: "where the plate goes does this enable you more accurately to predict when earthquakes will arise and volcanoes will explode we can say where they're going to be", start: 1541.30, end: 1552.68}
+  - {text: "and we can say that there might be earthquakes due because stress is building up but actually predicting precisely when they occur is a very imprecise science and it's actually quite difficult", start: 1552.68, end: 1562.88}
+  - {text: "it's intriguing because before plate tectonics it was always possible to say that this earthquake was a one -off thing it wasn't going to happen again", start: 1564.24, end: 1574.14}
+  - {text: "this volcano was a one -off thing with plate tectonics we know how fast things are going how fast they're sleeping we know they're doing it inexorably", start: 1574.14, end: 1583.44}
+  - {text: "so it's not possible to say oh there won't be another big earthquake on the San Andreas fault because it's just stopped it hasn't stopped it", start: 1583.98, end: 1591.66}
+  - {text: "can't stop it's part of the whole plate tectonic system the San Andreas fault is constantly moving building up strain and of course eventually it'll snap and Los Angeles will disappear into the Pacific", start: 1591.66, end: 1603.82}
+  - {text: "could I make a point there because there's an interesting fact about South Island New Zealand which is along a plate boundary and there's a very large fault there", start: 1604.69, end: 1613.01}
+  - {text: "which is overdue to move and that makes the probability of it moving most likely today and less likely as you go off into the future", start: 1613.01, end: 1622.57}
+  - {text: "because it's most likely to go today because it's so overdue so we can make those probabilistic predictions what we can't do is say it's going to happen tomorrow", start: 1622.57, end: 1629.35}
+  - {text: "so therefore everybody move out The Boxing Day tsunami of 2004 is a good example of this I mean that strain had been building for a long time", start: 1629.35, end: 1637.93}
+  - {text: "but as we've discussed on this program many times before a long time to a geologist is not the same thing as a long time to everybody else", start: 1637.93, end: 1645.71}
+  - {text: "Richard, Richard Coffield while I'm with you, what's driving this movement where does the energy come from I mean these massive continents moving all the time the ocean floor moving what is driving it,", start: 1646.48, end: 1656.48}
+  - {text: "is there Well the energy ultimately comes from the radioactive activity in the centre of the earth which causes the core what's called the core which causes the material above it in the mantle to flow like toffee", start: 1656.52, end: 1669.46}
+  - {text: "if you imagine a big cauldron of molten toffee above the heat on your stove the convection currents in it are coming up towards the top when they reach the top they're moving", start: 1669.46, end: 1678.66}
+  - {text: "aside there are sort of variations on this whole great plate tectonic scheme one of the most interesting is the islands of Hawaii if you look at them they stretch northwest across the Pacific in a little chain", start: 1679.38, end: 1694.22}
+  - {text: "and that is because underneath that sector of the Pacific is what's called a mantle plume and the plate as it's moving across it's like holding", start: 1694.22, end: 1704.08}
+  - {text: "a candle underneath a wax plate the wax is bubbling forming these volcanic islands which are the Hawaiian islands so the plate tectonics which is ultimately", start: 1704.08, end: 1714.60}
+  - {text: "a function of this interior heat not only is just about mid -ocean ridges and subduction zones it's also about phenomena which happen in the center of the oceans", start: 1714.60, end: 1726.16}
+  - {text: "and on the continents as well the biggest volcanic of super plume province in the world is the Antong Java Plateau and the western equatorial Pacific when the material bubbled up from the center of the earth in a catastrophic outpouring about 150 million years ago", start: 1726.16, end: 1743.00}
+  - {text: "then Richard gave us a view of what might happen in 100 million or 250 million years ahead where the Mediterranean becomes a puddle in people", start: 1744.31, end: 1752.67}
+  - {text: "and the Atlantic Ocean becomes the size of the Mediterranean and so on and so forth what else do you think if we wind the clock on forwards in 100 million years will happen", start: 1753.13, end: 1760.89}
+  - {text: "well I think those are the things which tectonically will happen but if you think about it the rearrangement of the plates on the surface of the earth actually affects our ocean currents and our ocean currents affect our atmospheric", start: 1761.98, end: 1773.80}
+  - {text: "circulation patterns so as the distribution of land and sea and the distribution of the oceans change so what happens as a consequence of that is", start: 1774.68, end: 1784.04}
+  - {text: "that the ocean currents changes and the atmosphere changes which changes what lives and what can live on the surface of the earth so the plate tectonic movements", start: 1784.04, end: 1792.92}
+  - {text: "and the changes of oceans are very important one example of this I can give you from the past is that in the South Atlantic as the Atlantic opened there came a point", start: 1792.92, end: 1803.42}
+  - {text: "when the Benguela current which is a really cold current coming up from the Antarctic it comes up the west coast of Africa when that switched on", start: 1803.42, end: 1810.72}
+  - {text: "and it switched on over a very short time as the Atlantic got wide enough and that actually caused a movement of cold sea to the north and it caused", start: 1810.72, end: 1819.60}
+  - {text: "a complete change in the climate of Africa and a change in the climate across that whole area so there are huge consequences for these changes it's not just", start: 1820.36, end: 1829.34}
+  - {text: "that land and sea changes but everything else changes in concert with the changes in the distribution of land and sea Do you want to comment on this Joe?", start: 1829.34, end: 1837.06}
+  - {text: "And the fact that we have an ice cap on and Antarctica and that we have the weather patterns we see in the southern ocean is almost", start: 1837.76, end: 1845.70}
+  - {text: "certainly related to the fact that about 30 million years ago Australia split from Antarctica South America split from Antarctica opening up a a global circum Antarctic", start: 1846.23, end: 1859.52}
+  - {text: "current system allowing the winds to blow the currents to flow and that totally changed the weather pattern in the southern hemisphere Why would you say that the ocean floor has been so special in the development of this", start: 1860.78, end: 1876.58}
+  - {text: "we referred to it several times but why so special, why was it that which caused people to move forward so dramatically and effectively One of the great pioneers in this whole business J.", start: 1877.12, end: 1887.44}
+  - {text: "Tuzo Wilson said if you want to know what the ship is moving you don't look at the deck you have to look over the side", start: 1887.58, end: 1894.88}
+  - {text: "and he argued that for hundreds of years geologists have been only looking at the decks of their ships and not looking at the water flowing by and so they were able to disprove what they thought they called it disproof", start: 1894.88, end: 1908.34}
+  - {text: "ocean floor spreading plate tectonics by a whole series of arguments based on what they saw of the deck of the ship and fundamentally they were wrong.", start: 1909.12, end: 1918.72}
+  - {text: "It was a very interesting example of the fact that they produced what they considered to be scientific disproves of a theory when in fact these disproves have been falsified sort of philosophical point a very intriguing one that you know we always talk about oh science", start: 1919.04, end: 1935.74}
+  - {text: "makes hazy theories and they could be disproved but the disproves themselves can be disproved so science is a much more fluid thing than just saying", start: 1936.26, end: 1945.48}
+  - {text: "I've managed to show you're wrong I just like a footnote on the I know that compared with Coppone I guess it was accepted quite rapidly but nevertheless it took a while in America and Russia well I", start: 1946.16, end: 1956.84}
+  - {text: "America and Russia for this to be accepted and when you went to talk about this in America you were hauled up the next day by the head of the department it was a very interesting experience", start: 1957.62, end: 1966.74}
+  - {text: "yes this is 1965 when in the UK there was no doubt about the plates moving well not in the University of Bristol perhaps but certainly there was in most other parts of the UK", start: 1967.40, end: 1978.92}
+  - {text: "there was no doubt that the ocean floor was spreading plates were moving and I went for a job interview in Columbia University and it might not have been helped by the fact that at the time I had a beetle haircut and was wearing", start: 1979.46, end: 1991.44}
+  - {text: "1960s British clothes which didn't look too good over there in the States but I gave a talk in which I said I'm going to start by assuming", start: 1992.78, end: 1999.00}
+  - {text: "that it is demonstrated that sea floor is spreading and that mid -ocean ridges are where they're splitting apart and I was told out I think you blew it there I don't think you I don't know", start: 1999.60, end: 2010.44}
+  - {text: "and the next day the head of the institution called me and said can very interesting very interesting but I can show you're wrong he said I can show you're wrong and he unrealed a great", start: 2010.44, end: 2020.24}
+  - {text: "chart that he'd made that his ships had made by dropping explosive charges over the side of the ship every minute day after day showing the sediments in the South Atlantic he said", start: 2020.78, end: 2032.97}
+  - {text: "if those continents are moving these sediments would all be deformed absolutely all be deformed they're not deformed at all they're totally undeformed so the continents", start: 2032.97, end: 2041.81}
+  - {text: "cannot be moving well I settled up there was it?", start: 2041.81, end: 2044.91}
+  - {text: "Yes, worth pointing out though that the people who supplied the data on which the plate tectonic revolution was based Hayes and Thart and Hess were Americans yes I think at that time in that laboratory there were subversives there were subversives in both countries", start: 2045.33, end: 2062.91}
+  - {text: "let's talk about the how this discovery and this idea fed into the notion of what the earth is in more detail can I start with you Lynn", start: 2063.93, end: 2076.23}
+  - {text: "it's often referred to as paradigm shift in scientific understanding how has it changed the way that we think about the planet?", start: 2076.93, end: 2084.01}
+  - {text: "It's changed the way we think because now we can fit everything together and I think I mentioned this before this idea of earth system science", start: 2084.70, end: 2092.74}
+  - {text: "it was a eureka moment because before that we had lots and lots of people going around making huge detailed measurements of everything and having their own ideas about why this particular observation was made why these rocks were there,", start: 2093.34, end: 2105.48}
+  - {text: "why they're the age they are why they look like they are but nothing joined it together so what it did was it made people to start thinking laterally to start thinking about both the underlying rocks the organics, the sediments, the age", start: 2105.60, end: 2120.20}
+  - {text: "you couldn't get away from geophysics because you had to understand what the geophysical basis was you had to understand seismics you had to understand a whole load of things", start: 2120.80, end: 2128.14}
+  - {text: "so it stopped people being in their compartments before that I think geology was in compartments you did pathology, you did fossils, you did sediments and", start: 2128.14, end: 2136.68}
+  - {text: "you learned it in compartments what this did was it put the whole thing together and it put it together with the atmospheric sciences and the oceanic sciences and to me that's the most exciting thing Richard,", start: 2136.68, end: 2147.68}
+  - {text: "Richard Goffville The essence of plate tectonics is that it demonstrates the interconnectivity between things like the rock cycle and the climate cycle and ultimately the cycle of life which somehow seems to be bound up with plate tectonics in a fundamental way", start: 2147.76, end: 2165.94}
+  - {text: "Well, for example the most obvious example in the mid -1970s when people started visiting the mid -ocean ridges for the first time in deep sea submersibles they found", start: 2166.48, end: 2176.68}
+  - {text: "that the mid -ocean ridges teamed with life but not life which is ultimately based on the capture of energy by photosynthesis which is what we have on the surface of the earth", start: 2176.68, end: 2186.98}
+  - {text: "but the capture of energy by chemo synthesis because there's no light down there and so you have a very, very unusual community of organisms down on the mid -ocean ridges the", start: 2186.98, end: 2198.46}
+  - {text: "so -called black smoker communities because the material which is pouring out from the centre of the earth is smoking blackly in the water and so this has opened up a new discipline", start: 2198.46, end: 2210.66}
+  - {text: "and there are those who say in fact that life may have originated at the mid -ocean ridges but a less obvious example of the way", start: 2210.66, end: 2219.72}
+  - {text: "that plate tectonics would influence life on earth is the fact as we discussed at the beginning of the program that the continents have moved a very good example is the isolation of Australia", start: 2219.72, end: 2230.66}
+  - {text: "which as we've discussed on the previous program is largely populated by an unusual type of mammal the marsupials and when Australia separated from South America and the circum -Antarctic", start: 2231.76, end: 2244.64}
+  - {text: "current formed and Australia was drifting away from Antarctica and South America it became geographically isolated which allowed the marsupial mammals to evolve in isolation into a whole series of parallel niches in the same way", start: 2245.26, end: 2259.14}
+  - {text: "that their placental mammal cousins in the northern hemisphere were doing and so that's a sort of indirect example of the way that plate tectonics has influenced life on earth by isolating populations", start: 2259.14, end: 2270.72}
+  - {text: "and powering evolution Joachim can you tell us briefly how the movement of plates influences the oceans for instance it influences the oceans in a number of ways", start: 2271.00, end: 2283.56}
+  - {text: "and I suppose the most striking way is that it makes it easier for organisms to grow shells it does this because over a few million years every drop of ocean water circulates through the ocean floor", start: 2284.06, end: 2300.26}
+  - {text: "and as it does so all the magnesium in the ocean waters is stripped out and deposited as minerals inside the ocean floor and the fluid that comes out this black smoker fluid that Richard was just talking about", start: 2300.26, end: 2313.13}
+  - {text: "has basically no magnesium in so having all of this plate tectonic activity going on and the oceans going through it means that the ratio of", start: 2313.73, end: 2324.39}
+  - {text: "calcium to magnesium in the oceans is much higher than it would be in the absence of plate tectonics and because it's nice and high it makes it easy for mollusks and creatures to grow their shells with calcium carbonate", start: 2324.39, end: 2337.61}
+  - {text: "it's slightly indirect but you know it works by in directions yes can you tell us how this might tie in with I'm sure people are thinking about James Lovelock", start: 2338.21, end: 2350.67}
+  - {text: "and the Gaia theory which came out in 69 around about the same time as near enough can you tell us how or if it ties in with", start: 2350.67, end: 2358.85}
+  - {text: "that theory of plate tectonics I think it does to an extent although I'm not a great fan of the Gaia theory I see almost plate tectonics being the heart", start: 2358.85, end: 2368.45}
+  - {text: "and lungs if you have a Gaia theory the heart and lungs of the planet it's the thing which drives everything else so in a way you could say plate tectonics is the foundation of it", start: 2368.45, end: 2376.47}
+  - {text: "because it fits everything together because it creates effectively the opportunities for evolution it creates the distribution of land and sea it does all of that and therefore it is if you like the driving mechanism for the Gaia theory and it fits everything together", start: 2377.09, end: 2391.21}
+  - {text: "I'd rather have earth system science it is a systematic scientific basis of the earth and it physically chemically all fits together and I don't need any other theory than", start: 2392.11, end: 2402.33}
+  - {text: "that I disagree with you I disagree with you I'm a great fan of Gaia because Gaia is basically saying that it's the microbial communities on earth that control the environment that arrange things to suit themselves we are after all we are just microbial colonised", start: 2402.33, end: 2420.55}
+  - {text: "things we are made of a whole body of microbe that choose to live together to make our bodies and but the distribution of microbes relies", start: 2421.31, end: 2431.09}
+  - {text: "on effectively the distribution of minerals the distribution of water the distribution of everything else so the basis of it is plate tectonic microbes are extraordinarily flexible they can adapt to almost any environment much better than most", start: 2431.09, end: 2442.97}
+  - {text: "we know that I didn't need to start snooty we know but the idea of this theory of the earth it seems to me that they", start: 2443.59, end: 2455.21}
+  - {text: "are slightly in opposition to Gaia the theory of coming out of plate tectonic would you say Richard Gondel well I mean the idea that the earth is a living organism", start: 2455.21, end: 2463.67}
+  - {text: "which is one aspect of extreme Gaianism if I can put it that way is patently absurd the earth is not living it has none of the characteristics of life", start: 2463.67, end: 2473.51}
+  - {text: "life is part of the earth in the sense that it's one of these subsystems which Lin has referred to the idea that human beings for example are animals or plants our colonisations of microbes is also in my view absurd", start: 2474.35, end: 2488.05}
+  - {text: "the idea that we are composed of microbes which billions of years ago fused and evolved together to form something new for example chloroplast and mitochondria is a function of evolution", start: 2488.87, end: 2502.61}
+  - {text: "and so of course at that point you're no longer a microbe in fact you're a part of an organ system which is like the earth", start: 2502.61, end: 2509.07}
+  - {text: "but on a smaller scale so I have to say I have no use under any circumstances in any way for any aspect of the Gaia Hypothesis you too Lin Richard you're being", start: 2509.07, end: 2520.97}
+  - {text: "so wimpish I can't believe I can't believe that I'm here you're also being quite accurate you're like the people before plate tectonics came in you're like these people who stood up and said as somebody said in 1928", start: 2520.97, end: 2536.03}
+  - {text: "if continental drift is happening then everything we've done for the last 70 years is wrong and that's what you're saying that's exactly what I'm saying I don't think it is", start: 2536.63, end: 2545.99}
+  - {text: "I don't think that's what he's saying I don't think that's what he's saying do you want to say what you were saying or do you want Lin to come in?", start: 2546.75, end: 2553.31}
+  - {text: "I will just reiterate the point that to call animals collections of microbes is patently absurd we are constructed out of cells which may have evolved", start: 2553.39, end: 2564.55}
+  - {text: "out of organisms billions of years ago they are not microbes no I think I would agree with that microbial symbiosis started the whole thing off", start: 2564.55, end: 2573.59}
+  - {text: "and became multicellular organisms but I would maintain that the distribution of those microorganisms and their capacity to live originally came from plate tectonics so whatever", start: 2573.59, end: 2583.19}
+  - {text: "you say plate tectonics is at the base of this I would agree with that as it happens I mean the way that you just phrased it Lin is acceptable thank you to you I mean fundamentally in my view life wouldn't exist without plate tectonics", start: 2583.19, end: 2598.95}
+  - {text: "plate tectonics is there because the earth is wet the plates are only here moving across the surface of the earth because there's water that seeps down into the mantle and softens the mantle and lets the plate slide", start: 2599.67, end: 2611.29}
+  - {text: "and the life originated in the oceans from the chemical energy that comes out of the sourced in plate tectonics this has implications for other planets", start: 2611.89, end: 2623.29}
+  - {text: "and the potential for life on other planets and I think that's quite important to understand that the earth is relatively unique there is evidence of some tectonics in other parts of the solar system", start: 2623.29, end: 2634.31}
+  - {text: "but not much and I think that's actually very important for life and potential for life one of the interesting things about Mars is that it has this peculiar topographical distribution with this", start: 2634.31, end: 2644.17}
+  - {text: "cratered high terrain in the southern hemisphere and uncrated low terrain in the northern hemisphere that suggests that there may have been plate tectonics on Mars billions of years ago it's stocked", start: 2644.85, end: 2654.23}
+  - {text: "so we're quite lucky still to have ours on the other hand on Venus there is no plate tectonics that is only volcanism so we are quite lucky to have plate tectonics fueling our planet and so you can say,", start: 2654.23, end: 2666.52}
+  - {text: "can summarize by saying it is a revolutionary idea that has revolutionized the way we look at the planet absolutely do we have agreement?", start: 2666.60, end: 2673.12}
+  - {text: "how satisfactory thank you very much Richard Corfield Lynn Frostick and Joe Kahn next week I'll be discussing the Renaissance Court of Emperor Rudolf II in Prague the forgotten powerhouse of the Renaissance with Kepler, Taka Brahe, Giordano Bruno", start: 2673.95, end: 2689.95}
+  - {text: "and others and that's it, thank you very much for listening you're looking for a podcast just like Evil Genius but without all those stupid humans I'm Russell Kane waddling onto your feed", start: 2690.75, end: 2720.22}
+  - {text: "and squawking about my show Evil Animals every episode I'm joined by two human guests or as I like to call them, ex -monkeys passing judgement on all the creepiest crawlies and the biggest elephants in the room our vampire bats terrifying giant mosquitoes", start: 2720.22, end: 2734.46}
+  - {text: "our bottlenose dolphins sex -obsessed savages and we're going there, domestic cats Evil or Genius pig out on Evil Animals in the Evil Genius podcast feed first on BBC Sounds", start: 2735.08, end: 2747.32}
+---

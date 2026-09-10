@@ -1,0 +1,309 @@
+---
+layout: single
+title: "Archive: Aphra Behn"
+show: "In Our Time"
+date: 2026-08-06T00:00:00Z
+slug: "2026-08-06-archive-aphra-behn"
+audioDir: "2026-08-06-archive-aphra-behn"
+totalDuration: 3210.7
+sentences:
+  - {text: "BBC Sounds Music Radio Podcasts I know that my son is somewhere alive This is Deborah Tice Her son Austin is one of the biggest missing", start: 1.10, end: 14.61}
+  - {text: "person cases in the world He disappeared in Syria more than a decade ago And for years I've been searching for him We've spoken to spies,", start: 14.61, end: 23.71}
+  - {text: "tracked down war criminals And uncovered evidence that has never been made public I want to know about my son Where is Austin Tice?", start: 23.97, end: 32.29}
+  - {text: "Listen on BBC Sounds Hi, this is Misha Glenny Episodes of In Our Time are released weekly wherever you get your podcasts But if you can't wait,", start: 32.83, end: 44.37}
+  - {text: "head over to BBC Sounds Where you can listen to the latest episodes a month earlier than anywhere else This is In Our Time from BBC Radio 4", start: 44.67, end: 54.39}
+  - {text: "And this is one of more than a thousand episodes you can find in the In Our Time archive A reading list for this edition can", start: 54.39, end: 62.67}
+  - {text: "be found in the episode description wherever you're listening I hope you enjoy the programme Hello and welcome to the first in a series of archive editions of In Our Time", start: 62.67, end: 73.35}
+  - {text: "Which I found especially fascinating I first came across the 17th century dramatist and novelist Afra Ben When studying drama at Bristol University Long forgotten, in the 1970s her reputation", start: 73.35, end: 88.13}
+  - {text: "and works Were experiencing a most deserved revival Thanks to the powerful injection of feminism in the theatrical and academic worlds She was quite simply one of the most influential", start: 88.13, end: 99.83}
+  - {text: "and popular playwrights of the restoration period in England This was a joyous response in the arts To the end of the rather dead hand of life under Oliver Cromwell's protectorate", start: 99.83, end: 112.35}
+  - {text: "And the return of the monarchy in 1660 under Charles II Since the 1970s Ben's place in the world of academia has been secure Yet in", start: 112.35, end: 124.40}
+  - {text: "the wider world she remains relatively unknown Still living in the shadow of playwrights like Congrive and Dryden This is disappointing because as Melvin Bragg's guests demonstrate in this episode Ben was not only a hugely successful dramatist,", start: 124.40, end: 142.00}
+  - {text: "novelist and poet She forged a career and gained recognition as the first woman to make her living from writing A world which, until the restoration, women had been prevented from inhabiting and exploring", start: 142.24, end: 156.74}
+  - {text: "That among her other career paths she indulged in espionage Only adds to the biography of this truly remarkable woman And even though back in the day I actually read", start: 157.35, end: 169.17}
+  - {text: "and studied Ben This episode opened my eyes to many of the things I had missed I hope it'll do the same for you Enjoy listening", start: 169.17, end: 177.93}
+  - {text: "And she was the first English woman to make her living from writing As taste changed she was dismissed as too bawdy But Virginia Woolf wrote,", start: 201.71, end: 210.23}
+  - {text: "all women together Or to let flowers fall upon the grave of Afra Ben For it was she who earned them the right to speak their minds With me to discuss Afra Ben are Janet Todd,", start: 210.61, end: 220.83}
+  - {text: "former president of Lucy Cavendish College Cambridge University Ross Ballester, professor of 18th century literature at Mansfield College University of Oxford And Claire Bodich, post -doctoral research associate in English and drama at Loughborough University Janet Todd,", start: 221.23, end: 236.67}
+  - {text: "how much do we know about Afra Ben's early life?", start: 236.85, end: 239.55}
+  - {text: "Well, not a lot, but she was clearly humbly born We think that her father was a barber in Kent She was born into this tumultuous time, as you've already mentioned", start: 240.17, end: 251.81}
+  - {text: "And for the rest of her life she had a horror of civil strife and Puritan rule The notion of a government that has to control behaviour", start: 252.43, end: 261.73}
+  - {text: "and morality Her mother appears to have been a wetness in a more elevated family And I think it's probably through that connection that she gets to know a man called Killigrew Who, when the restoration comes,", start: 261.73, end: 275.27}
+  - {text: "is both involved in the secret service and in the theatre And of course Ben comes into history first as a secret agent But in terms of her challenge,", start: 275.73, end: 287.13}
+  - {text: "Jermaine Greer said we must be prepared to live with what we do not know about her early years That is what we are doing, I think,", start: 287.41, end: 294.87}
+  - {text: "rather substantially I hope one day there will be more known Is it sure that her father was a barber in Kent?", start: 295.05, end: 301.27}
+  - {text: "It seems to be more sure that her mother was a wet nurse, doesn't it?", start: 301.45, end: 303.83}
+  - {text: "I think the barber bit is pretty secure It's also circumstantial because she's not born into the kind of family that keeps letters in the attic", start: 304.27, end: 312.85}
+  - {text: "And that has a big house where they can control and hold their own archives So it's not surprising that very little is known And the fact", start: 312.85, end: 321.81}
+  - {text: "that she is constantly referred to as someone humbly born I think is fair enough But what I think is almost more important than exactly what her provenance was Is where did she get her amazing education?", start: 321.81, end: 335.65}
+  - {text: "She is obviously an autodidact She obviously makes a great use of everything and everybody she knows And she's just a very, very clever girl But nonetheless,", start: 336.47, end: 346.67}
+  - {text: "she learns how to write in all genres She learns how to comport herself among the learned among men who are at the ends of court She learns all", start: 346.99, end: 357.07}
+  - {text: "that somewhere That was the question I was going to ask you Where did she learn it?", start: 357.07, end: 361.53}
+  - {text: "Oh please don't, because I don't know All I can do is speculate And I think it's to do with these connections that she makes Somehow through the wet nurse she got into the library", start: 361.65, end: 371.55}
+  - {text: "as one of her great big houses With libraries and took to reading books That's the best we can do is it?", start: 371.55, end: 377.91}
+  - {text: "I think it's the best we can do and I think it's a lot I mean a lot of people who are very clever can get there through their wit", start: 378.25, end: 386.01}
+  - {text: "And I think the other thing is there's a period in which women could do this The period in which women could, who are clever, witty and pretty as well", start: 386.45, end: 395.39}
+  - {text: "Could actually rise and get to a position where they could Hobnob with people of learning and education And this is in the terrible Civil War period Yes Massive deaths", start: 396.27, end: 406.81}
+  - {text: "and then in the Cromwellian period The period of what was called the Commonwealth and so on And she's doing that then, but we do know she was a spy in Antwerp We do know that for sure When you're on your own John,", start: 406.81, end: 415.99}
+  - {text: "how did you get to be a spy in Antwerp?", start: 416.11, end: 417.97}
+  - {text: "I was hoping I was going to be asked about her theatrical world But I think she was already a spy when she went to Suriname", start: 418.89, end: 426.77}
+  - {text: "Which is an amazing place for a woman to go at that time And I think that because she was already being called Astrea Which was her codename later", start: 426.77, end: 436.19}
+  - {text: "and her theatrical name And in Suriname she also met a William Scott Who was a dissident, a republican and an enemy of the king And when she was definitely a spy in Antwerp", start: 436.19, end: 449.23}
+  - {text: "Codenamed 160 and called Astrea again She was sent there to bring in this William Scott And make him turn into a double agent So that he would work for the Government of Charles II", start: 449.75, end: 465.15}
+  - {text: "And you've actually let us in reports and how she's saying I need more money to do this job She wrote endlessly about needing more money And I think also her life, most of her letters that we have Are asking for money", start: 465.15, end: 477.91}
+  - {text: "Rosbala said what was the state of the theatre When Ben began to write?", start: 478.85, end: 482.97}
+  - {text: "Did she write? Did she say?", start: 483.11, end: 484.15}
+  - {text: "Why did she begin to write for Astrea?", start: 484.93, end: 487.13}
+  - {text: "Well, as Jan said, it seems likely that it's this connection with Thomas Killigrew We know that in her novel that she publishes in 1688 Called Orinoco", start: 487.65, end: 498.53}
+  - {text: "Jan Afraben mentions that she sent some Indian feathers from Suriname To Killigrew to the king's company for a performance So I think she has connections with the stage", start: 500.47, end: 512.45}
+  - {text: "And I suppose what Jan's outlined here is the situation where She clearly wasn't making money through the other careers that she tried Spying wasn't working", start: 512.45, end: 519.33}
+  - {text: "And she doesn't seem to have been a very effective spy So I think she turns to the stage to try and earn money She probably looks at models like John Dryden", start: 521.41, end: 530.19}
+  - {text: "and Thomas Shadwell Who were the rising professionals in the stage at the time I think it's worth understanding what the theatre's like in this period Because it had been closed down in 1642 It opened up again,", start: 530.19, end: 542.07}
+  - {text: "but only two theatres Compared with a mass of theatres there were And as it were, Shakespeare and post -Shakespearean world And it was very different It's an entirely different kind of theatre This isn't just a revival or a restoration It's a reinvention of theatre", start: 542.07, end: 555.19}
+  - {text: "Charles II does two things that are very significant He gives two patents to two companies that are called The Duke's Company and The King's Company Killigrew runs The King's Company", start: 555.99, end: 565.65}
+  - {text: "Davenant runs The Duke's Company Most of all of Ben's plays until 1682 Are performed by The Duke's Company, interestingly So that's James, named after James Duke of York Later James II", start: 566.19, end: 577.25}
+  - {text: "And he seems to have been the member of the royal family The monarch that Ben was most loyal to What different thing was it?", start: 577.25, end: 586.03}
+  - {text: "It's a patent theatre It's owned by those managers Whereas previously they were stock companies Women can play women In his second...", start: 586.41, end: 597.55}
+  - {text: "Well, a few years later Charles passes an edict that says All parts for women must be played by women And interestingly he says that Because he says otherwise", start: 597.55, end: 606.57}
+  - {text: "There are scurrilous and obscene passages That are given to female parts So he's saying actually He's going to make the theatre more respectable By having women play these parts Our impression is, of course,", start: 607.21, end: 617.25}
+  - {text: "that this is A kind of enormous novelty and excitement Seeing women playing female parts on the stage Is it true that women are now allowed", start: 617.47, end: 624.39}
+  - {text: "to go To the theatre for the first time?", start: 624.39, end: 627.53}
+  - {text: "Or had they gone before?", start: 627.81, end: 628.65}
+  - {text: "I think they'd always gone to the theatre before I think there are new kinds of parts for women That sort of...", start: 628.77, end: 635.73}
+  - {text: "Ben starts her career writing tragic comedies Actually, and those tragic comedies Have amazing parts for women They're sort of the commandeering, powerful woman The woman", start: 635.73, end: 644.67}
+  - {text: "who kind of commands love with her eyes These extraordinary actresses Like Elizabeth Barry John Wilmot Earl of Rochester's Mistress and Nell Gwynn Who have real stage presence And are really attractive to the audience So they're a draw,", start: 644.67, end: 658.97}
+  - {text: "they're a lure To this new kind of theatre When you say she decided to go to the theatre To make a living, it was very", start: 659.11, end: 666.38}
+  - {text: "risky What sort of living did she make in the beginning?", start: 666.38, end: 669.40}
+  - {text: "It's really... It's really difficult for us to work out What people earned from theatrical work Again, what's different about these theatres In the Renaissance period A playwright received eight pounds For their script", start: 669.40, end: 682.26}
+  - {text: "and it was then owned by the company In this period The playwright earns the profits From the third night of a performance So once all of the cost is taken out You get the profits", start: 682.26, end: 694.34}
+  - {text: "If you run to a sixth or ninth night You might get those profits Another bit of earning might come from publishing Your play, you might get about ten pounds for that Three months later If you're a man, you might get some dedication", start: 694.34, end: 705.46}
+  - {text: "Dryden, some money from dedications Dryden's an interesting case He's successful on the stage before Ben, in the late 1660s Dryden is commissioned By the King's Company to write three plays a year", start: 706.22, end: 718.38}
+  - {text: "So he's probably doing quite well out of that Ben doesn't have that kind of contract Women never get that kind of contract So she has to make money She's as good as her last play, basically", start: 718.38, end: 727.84}
+  - {text: "And when the theatres go into doldrums Ben's fortune tends to drop We see her moving into other genres The plays, in 1682 The two companies come together There are far fewer new plays Ben turns to fiction", start: 728.42, end: 741.24}
+  - {text: "And then comes back to drama When the theatrical scene revives again Claire, Bernard, were there other women Writing plays at the time?", start: 741.24, end: 750.44}
+  - {text: "She was the most successful in her book But were there others around?", start: 751.14, end: 754.34}
+  - {text: "She was the most successful But yes, by the time that she started writing For the stage in 1670, 1671 There were at least two other women Around at that time", start: 754.68, end: 764.56}
+  - {text: "The first was Francis Boothby Who wrote a tragic comedy As Ross said, that's where Ben started Her dramatic career The one who came either slightly after", start: 765.42, end: 775.44}
+  - {text: "Or about the same time as Ben Was Elizabeth Polwell But as far as we know They both only had one play Performed whereas Ben Ran", start: 775.44, end: 784.20}
+  - {text: "for two decades nearly Can you give us an overview Of the sort of plays That Afroben was writing?", start: 784.20, end: 789.96}
+  - {text: "Indeed, she started with the tragic comedy And in 1673 For her third play She moved to comedy The third play Was definitely a trial in comedy She hadn't quite got The sense of space And how the stage worked", start: 790.50, end: 808.62}
+  - {text: "Down at that point And she really continued with comedy Right the way through her career Until just before her death When she returned to one tragic comedy And she's in a very...", start: 809.30, end: 822.00}
+  - {text: "Dryden has been mentioned But there's also Wicheli around And Etheridge around And Ravenscroft as well So she's in with a lot of very successful men Do they resent her?", start: 822.62, end: 834.08}
+  - {text: "Do they bring her on?", start: 834.20, end: 835.18}
+  - {text: "What's their view? Is there known to be a collective view That they have of this woman Being very successful Or getting a lot of plays on anyway?", start: 835.18, end: 843.58}
+  - {text: "I think amongst her immediate colleagues She does command their respect They write prologues And epilogues for her plays Which might be indeed interpreted As some kind of professional compliment", start: 843.78, end: 855.20}
+  - {text: "Even when we get into her prose And some of her translations She's receiving dedicatory verses From her peers That are extremely complimentary That's not to say", start: 856.24, end: 867.76}
+  - {text: "that everybody Was complimentary about her I understand about this time She's been married But the marriage didn't last very long How is she living up?", start: 867.76, end: 875.40}
+  - {text: "Any idea? Is she living in a little lodging In Cheapside?", start: 875.44, end: 877.94}
+  - {text: "Where is she? We don't know exactly where she was living We do know that she could keep a servant So she had about enough money To keep a servant", start: 878.18, end: 888.54}
+  - {text: "But in terms of her location We assume she's immediately London based And probably somewhere near the theatre On the Thames But we don't have a location for her I understand", start: 888.54, end: 902.78}
+  - {text: "that her first notable success Was a play called The Rover 1677 Why was that a success?", start: 902.78, end: 909.68}
+  - {text: "I think the Rover was especially successful Because what it did Was to give the restoration audience What they wanted And what generally they wanted Was a kind of pairing Two sets of lovers One a constant couple Who had some opposition", start: 910.08, end: 930.60}
+  - {text: "To their romantic union The other was a witty couple One rake and one clever woman Who's trying to capture this rake So it had that about it It ticked that box,", start: 931.08, end: 946.84}
+  - {text: "it had that formula But what Ben also did with it Was to complicate that binary With a character called Angelica Bianca Who was a courtesan And Angelica Bianca added a darkness", start: 946.92, end: 959.06}
+  - {text: "To that play that I think appealed To two different constituencies really It was quite bold because Actresses were thought to be Prostitutes were thought to be prostitutes By some people at", start: 959.70, end: 971.54}
+  - {text: "that time So by putting someone like that on the stage She was smacking them in the face with it, wasn't she?", start: 971.54, end: 975.90}
+  - {text: "She was, she was I think And Angelica Bianca is an extremely complicated character She's not simply there as a prostitute She's there as a devoted woman as well And so I think that,", start: 976.18, end: 987.64}
+  - {text: "yes That's a very clever way of shutting down Some of those arguments about What women in the public sphere were like And her initials of course are the same as Afro -Benz initials,", start: 987.84, end: 997.08}
+  - {text: "so she's AB So there's some suggestion that Ben may have been playing With expectations about her image in this role And she was at the same time", start: 997.10, end: 1005.88}
+  - {text: "And what ways was the robot typical of Ben's ideas I've read a lot from three of you about Ben's ideas of masculine and feminine And what,", start: 1005.88, end: 1013.30}
+  - {text: "liberty and women come in liberties And so could you develop that a bit?", start: 1013.36, end: 1017.06}
+  - {text: "Well I think she develops it More in the later plays But it certainly starts here That dichotomy between the virgin Who gets the rake, the man The most desirable man", start: 1018.03, end: 1030.85}
+  - {text: "and the whore Who doesn't but has the best speeches I think is going on all the way through And these love -lawn women Who are a little more experienced It's a feature of Afro -Benz plays", start: 1030.85, end: 1044.35}
+  - {text: "But I think what's there already Is the notion that the world is stacked against women It's a patriarchal world And that women need to use their sexuality", start: 1044.35, end: 1054.88}
+  - {text: "And to use their wit and cunning To succeed in the world Violence men have So women are going to have to use guile And if they don't They will lose in the sexual game And therefore lose in the social game So I think that's there already", start: 1055.11, end: 1071.85}
+  - {text: "Did you say in somewhere Legitimize the female liberty?", start: 1073.19, end: 1075.95}
+  - {text: "I don't think anybody can quite Legitimize it You can't quite hear it as I understand Well I think it's, you can't be I think in the end a female liberty And as Helena says What would I get out of", start: 1076.95, end: 1089.87}
+  - {text: "Sexual Congress before marriage Well a cradle full of mischief The double standard is absolute And the only people who came near to being Female libertines are aristocratic women And I think Ben admires those But also knows that it's pretty difficult", start: 1090.51, end: 1107.81}
+  - {text: "To be a libertine woman Further down the social scale Even in a wonderful work That's anonymous work called Love Letters She has a woman who Moves from being the virgin The desirable virgin into being A free woman", start: 1108.51, end: 1125.15}
+  - {text: "But in the end she's a sort of Wondering whore There isn't a position in society For the female liberty But she did want women to be seen As to more independent And more liberated than they had Being seen until then,", start: 1125.15, end: 1142.45}
+  - {text: "as I understand it What do you say?", start: 1142.53, end: 1143.83}
+  - {text: "I think I'd want to question If you're thinking about the libertine As a kind of sexual persona Or a form of sexual behaviour Then I think Ben is very clear", start: 1144.49, end: 1153.57}
+  - {text: "That it's difficult for women to access that role But if you think about libertinism As a kind of aesthetic or philosophy Ben really did embrace", start: 1153.57, end: 1161.15}
+  - {text: "that idea So the notion of the libertine The term libertine in classical Rome Just means a freed slave So a libertine is someone who We might say thinks outside the box Refuses all systems, refuses rule Refuses convention It's a kind of public blasphemy", start: 1161.15, end: 1179.25}
+  - {text: "Arrogance performance You can see that in the figure That Ben most admired, John Wilmot Earl of Rochester, and his surname Wilmot of course is echoed In the name of the hero of the rover Wilmore", start: 1180.09, end: 1190.95}
+  - {text: "That kind of role is being invoked And I think Ben clearly identified with that And wanted to be seen as Part of that libertine circle Those young court Thrusting cavaliers Round Charles Who were challenging convention Challenging rule Saw themselves as a new young generation", start: 1192.39, end: 1212.21}
+  - {text: "Taking over from the old Commonwealth men Now manifested as parliamentarians And there's a very strong Kind of libertine ethics Or ethos One way to put", start: 1212.83, end: 1224.57}
+  - {text: "it is to sort of say Ben pursued a career in writing She wasn't a kept mistress She kept that hidden So it's in her writing That you see this kind of libertarian", start: 1224.57, end: 1236.27}
+  - {text: "Energy Rather than in her How did a tea totaler and a military Dictator help to create the package Holiday?", start: 1237.37, end: 1245.90}
+  - {text: "Why do weekends even exist?", start: 1246.24, end: 1247.88}
+  - {text: "And how did we become so obsessed With football?", start: 1248.36, end: 1250.60}
+  - {text: "I'm Alice And I'm Ben Henderson And in our brand new video podcast We uncover the whys behind Ordinary things in our daily lives Like why has the pub become so important?", start: 1250.96, end: 1261.14}
+  - {text: "That's an excellent question Ben Here for the history Watch on iPlayer, listen on BBC Sounds Life What plays did a marriage play In that scheme of things?", start: 1261.56, end: 1272.04}
+  - {text: "She's always very skeptical about marriage Most of her plays concern Young women who are Or the majority of her comedies Concern young women who are Unhappily contracted to old men", start: 1272.72, end: 1284.08}
+  - {text: "And want to get back To their young lovers Who they've been separated from So let's just be more specific She isn't against marriage, she's against young women Being unhappily contracted to old men I think I'm equal marriages, yes But she's also", start: 1284.70, end: 1298.64}
+  - {text: "She is against marriage because it's an institution If you take this libertine ethic So she has a kind of Ben's an odd Combination of idealism", start: 1299.38, end: 1307.80}
+  - {text: "and pragmatism So she has this longing for a golden age A world in which there was no marriage No contract, people give love freely She often idealises", start: 1307.80, end: 1316.26}
+  - {text: "that But she also has a poem called The Golden Age in which all of that is idealised And then right at the end we realise", start: 1316.26, end: 1322.06}
+  - {text: "This is all spoken in the voice of a man Who's just trying to get a woman into bed with him So this libertarian language she understands Is something", start: 1322.46, end: 1329.14}
+  - {text: "that rakes use To try and get women into bed But come back to the...", start: 1329.14, end: 1333.50}
+  - {text: "Can I just pursue this one more time But the idea of a female rake Which I mentioned earlier Which I've seen in the notes of some...", start: 1333.50, end: 1340.94}
+  - {text: "One or two of you Was not something you wanted to pursue Was not something she wanted to pursue Well, I think when you think about The character of Helena in The Rover There's a wonderful point when Helena says to Wilmore, I'm Helena the constant", start: 1340.94, end: 1355.06}
+  - {text: "Helena the inconstant And you're Robert the constant And there she's sort of saying I'm inconstant in the sense I can keep making myself into a new Character to attract you And keep your attention Whereas you,", start: 1355.84, end: 1367.44}
+  - {text: "supposedly The manifestation of the rake, Wilmore Is actually a bit of a bore Who's completely driven by his Sexual appetites Is constantly looking for another woman So she's the one who has the kind of flexibility", start: 1367.80, end: 1380.32}
+  - {text: "Mobility to reinvent herself Make herself into A new kind of character The sort of freedom that the libertine As an ideal might have And then we're living in a time", start: 1381.10, end: 1391.84}
+  - {text: "At least in acquaintance perhaps Even a friend of hers, Nell Gwynn Who was very open about her status Yes I think Ben wants to differentiate herself from actresses I mean,", start: 1392.33, end: 1405.31}
+  - {text: "I think she really wants to be Part of this court -wit group Rather than one identified with the actress I just wanted to come in On the idea of the", start: 1405.35, end: 1413.91}
+  - {text: "Ethical libertine Because I agree with Roz on that very much And one of the most extraordinary things About Ben is that She goes against religion And very,", start: 1414.79, end: 1425.19}
+  - {text: "very few women Of the time could Set up for, almost for, atheism In the way that she does She writes poems where she talks about Faith as feeble", start: 1425.35, end: 1435.17}
+  - {text: "She says that Christianity is the last shift Of routed argument She even writes a paraphrase Of the Lord's prayer In which she says, I haven't had enough Daily bread actually And I'd like some more And as for trespasses Well,", start: 1435.85, end: 1452.85}
+  - {text: "you should give into them Good heavens She is extraordinary In that respect And she very much Admires The classical Philosopher Lucretius She reads in translation", start: 1453.45, end: 1470.75}
+  - {text: "And Lucretius thought that The world was all made up of Shifting atoms And so that when a person dies Then he or she just becomes A series of atoms floating Off into the air", start: 1470.75, end: 1483.11}
+  - {text: "So there is no afterlife And Ben clearly did not believe In an afterlife She was a Very strong supporter Of the Stuart monarchy Charles II For 25 years And then his brother James Who was Opposed by a great number of people in the country", start: 1483.11, end: 1504.53}
+  - {text: "And I think One or two of our listeners I think a very strong Tory Monarchist Or a loyalist fascinated by the court Dazzled by it really And a very strong", start: 1505.55, end: 1517.89}
+  - {text: "Feminist Feminist Which is more of a slightly different position What would you have to say about that?", start: 1518.67, end: 1527.61}
+  - {text: "I think that Indeed we as Critics of Ben Struggle to reconcile these two In one sense very progressive Ideas for her time in terms of her championing Of women in the public sphere And her really quite Staunch royalism", start: 1528.35, end: 1544.67}
+  - {text: "You know they seem diametrically Opposed In a sense she's quite clever In how she does reconcile these two things though Because what she Refrains from doing Is looking back immediately To the Stuart line if you like", start: 1545.39, end: 1561.86}
+  - {text: "In order to Contextualise her support For both Charles as a Protestant Or at least a public Protestant And James as a public Catholic and his heir presumptive What she does instead Is support them in what Might be thought of as quite", start: 1563.02, end: 1578.96}
+  - {text: "Feminine terms So for instance She praises them as fathers Both fathers of their In Charles's case illegitimate sons And fathers of the nation So she couches that in Domesticity really And she also looks back as As John was saying to the classics", start: 1579.74, end: 1598.14}
+  - {text: "And The classical heroes Are used in Place of support of the monarchy Or support specifically Of Charles or James So her support works on Really two different levels I think One on a quite learned level", start: 1598.86, end: 1616.35}
+  - {text: "And one on quite a domestic level Did the court repay her devotion To them?", start: 1616.35, end: 1621.33}
+  - {text: "We don't have Any specific record Of favours that were given To her for instance In 1681 She did dedicate one of her plays The second part of the rover To the future James the James the second", start: 1623.68, end: 1640.68}
+  - {text: "And one might assume she was In some sense remunerated for that Whether financially or through Some kind of court favour But I think if She'd received any kind of gratuitous favour She would have been satirised By somebody", start: 1640.68, end: 1656.16}
+  - {text: "and we would know about that So I think it was probably Proportional to Either the work that she was doing Or what other people were receiving", start: 1656.16, end: 1664.42}
+  - {text: "John you want to come in I was just going to say Exactly we don't know But towards the end of her life She was such a propagandist for James the second And very few people Were as loyal as she was at the end", start: 1665.50, end: 1678.62}
+  - {text: "So I have a feeling That she was paid at that point She's always short of money So you can never really tell From the fact that she's short of money That she isn't being paid But that slew Of propagandist poems At the end", start: 1679.26, end: 1694.12}
+  - {text: "All printed by the king's printer I would have thought that she was At that point being paid By the government of James the second Even James the second's Catholicism", start: 1694.72, end: 1705.08}
+  - {text: "And her attitude to religion Did that not irk him Or was it not at odds With her protestations of loyalty I think she can Protest anything", start: 1705.08, end: 1715.66}
+  - {text: "when she needs to And I think she sort of flirts with Catholicism She certainly likes the bells and smells Of Catholicism She was very keen on the whole panoply of it So I don't think she would be opposed And I think she", start: 1715.66, end: 1726.88}
+  - {text: "Unlike the majority of the nation She saw James the second as somebody who was tolerant And so when he was imposing Catholicism she saw in a way", start: 1727.80, end: 1736.26}
+  - {text: "That he was allowing tolerance But her total devotion Or apparent devotion She's always equivocal Her apparent devotion to James the second Is something of a puzzle", start: 1736.26, end: 1747.64}
+  - {text: "To most of us She sees him as Some sort of extraordinary heroic Man But somebody who's authentic And in the end Guileless And he falls partly because of that But I don't think she was ever very keen On Charles the second actually", start: 1748.98, end: 1766.80}
+  - {text: "Rose, she wrote fiction as well as plays And her best known book is Orinoco But did she write fiction to make more money The plays,", start: 1767.48, end: 1775.84}
+  - {text: "she wrote a lot of plays But they don't seem to have been The great money spinners of Dryden's plays Except perhaps one or two other He did three a year on a contract And so on on congress plays, however", start: 1776.06, end: 1786.02}
+  - {text: "What's striking about this novel A, did she turn to it for money Because she's very straightforward about what she did for money And what she didn't B, what do you think of it?", start: 1787.48, end: 1794.52}
+  - {text: "Well, we've just been talking about James And it's important to remember that Orinoco is published in 1688 And it's published just as James is in Real crisis The bishops are refusing To cooperate with him", start: 1794.78, end: 1809.78}
+  - {text: "And it's a story at its heart It's a story about a romance hero Who has a pregnant wife And he murders her And their unborn child Because he refuses To be,", start: 1809.78, end: 1825.51}
+  - {text: "remain in slavery He's an African prince Who's enslaved in South America, in Suriname He's a Gold Coast prince So although he's a black African hero It's very evident when you look at this moment In which James and his wife Mary Medina have just given birth", start: 1825.53, end: 1842.03}
+  - {text: "To a baby boy And that's the reason that James is being Removed from the throne That Ben's publishing this novel So it's still, it seems to me Part of her political", start: 1842.63, end: 1853.09}
+  - {text: "Commitment To James During this conversation, it's been taken for granted That she did go to Suriname Do you all take that for granted?", start: 1855.37, end: 1863.49}
+  - {text: "Because it's doubted in your notes Whether she did, whether or not she did go there I think critics have doubted it Historically they've doubted it When you three, you can all say", start: 1863.63, end: 1872.11}
+  - {text: "Unproved or so on Well we can't be absolute because We haven't found a diary saying Here I was in Suriname But there's a huge amount of Circumstantial evidence that she was there And if she wasn't,", start: 1873.01, end: 1884.79}
+  - {text: "a woman Remarkably like her was there Also calling herself Australia Which is after all the name she uses all the way through I mean there are state papers", start: 1884.83, end: 1892.85}
+  - {text: "that mention The women in Suriname And it fits her Why don't you go to Suriname in the first place?", start: 1892.85, end: 1897.57}
+  - {text: "We don't know But I think she went as an agent Right away, but it's only It's only speculation She says her father was given a Job as Lieutenant Governor of the Island,", start: 1899.49, end: 1911.23}
+  - {text: "that seems unlikely If he was a barber She gets herself into her own works Works a really faction She often puts herself into what she's writing", start: 1911.35, end: 1920.45}
+  - {text: "And when she does that she nearly always Elevates her birth So to come back to this novel itself What's most striking about it on the background?", start: 1920.45, end: 1927.29}
+  - {text: "I mean it's a remarkable novel And it's much studied now I think probably because There's a debate about The extent to which it's making a case Against slavery,", start: 1928.07, end: 1938.57}
+  - {text: "but at least One might sort of say that it's A novel which exposes The kind of savagery at the heart of colonial Government, and that respect You could see it", start: 1938.57, end: 1947.73}
+  - {text: "as presaging a novel Like Heart of Darkness Like Marlowe in Heart of Darkness The narrator is a character In the novel who is Complicit with the English Colonial Government That she's also criticising For its cruelty to this Noble African prince Who has been enslaved,", start: 1947.73, end: 1967.83}
+  - {text: "he leads a slave rebellion It's put down He's horribly tortured Murders his wife and then He's publicly executed And his courted parts Are sent around the colony", start: 1968.13, end: 1980.51}
+  - {text: "She finishes saying this mangled Spectacle of the king Is recalling again Charles the first murder So it's a wonderful kind of mixture Of contemporary allegory and analogy", start: 1981.17, end: 1991.91}
+  - {text: "And contemporary critique Of the colonial situation Still on the other side as it were Of the ocean, not of The life itself, Claire There's another light played The widow -ranter set in Virginia Now what's she doing there and why She's setting it in Virginia", start: 1993.43, end: 2008.57}
+  - {text: "Part of the real charm of the widow -ranter Is that it's collection of Very varied characters Because part of the cast Is made up of Englishmen Who have been transported To the colonies So they've committed a petty crime In England and they've Been transported over there", start: 2009.07, end: 2028.99}
+  - {text: "And because of the lack Of government, it's up to them To form some kind of order So there's on On the one hand there's that going on", start: 2029.71, end: 2039.61}
+  - {text: "As Ros was saying in relation to There's a missing governor So a little bit Of a topsy -turvy world And the two texts Definitely share that", start: 2039.61, end: 2050.63}
+  - {text: "Share that aspect of the widow -ranter What's the widow -ranter about?", start: 2051.61, end: 2054.23}
+  - {text: "The widow -ranter is possibly as Close as we might come In Ben to that female rake For one particular reason Which is that she Revels in Smoking, she smokes a pipe She gets drunk, she's mostly drunk By lunchtime", start: 2054.87, end: 2072.61}
+  - {text: "And there's Kind of physical pleasures that We might associate with Libertineism Are kind of embodied In the widow -ranter But on the other hand She's a wealthy widow", start: 2074.13, end: 2087.65}
+  - {text: "So she herself was transported As an indentured slave When she got to the colonies She was bought off the boat To pay for her passage", start: 2087.65, end: 2097.09}
+  - {text: "And as such had to work For the man who'd bought her The man who'd bought her Married her within six months And he was a wealthy colonel there And I think she phrases it The grace to die quite soon thereafter And leave her Unassisted", start: 2097.09, end: 2112.39}
+  - {text: "There's no evidence We have no evidence Yes, this old skeleton Has the good grace to die And leave her this wealthy widow So on the one hand she's enjoying All of these bodily pleasures", start: 2115.51, end: 2131.99}
+  - {text: "And on the other hand She is in love with a colonel there Called Daring And she's worried that he wants her For her money And", start: 2131.99, end: 2141.54}
+  - {text: "so she has to put him through these tests Where she's checking his constancy And his motives Because the fact that she's a wealthy widow Leaves her with some problems Because she's just going to marry her Exactly Jan,", start: 2141.54, end: 2154.44}
+  - {text: "briefly Is there any way you would like to compare her Briefly, her fiction with a player Do you think she's a better novelist Than a playwright?", start: 2155.20, end: 2162.58}
+  - {text: "I think she's a wonderful both Actually, but her plays Are what made her famous at the time And they are a lot of them are wonderful", start: 2164.45, end: 2173.29}
+  - {text: "But we don't put on That many restoration plays now So there's no doubt that at the moment It's Orinoco and the other Short stories that People tend to read", start: 2173.85, end: 2185.13}
+  - {text: "if they're reading Anything Can I just say one more thing about the widow Ranta because I think that's a wonderful play Because not only have we got The widow Ranta in there and we've got The heroic bacon", start: 2185.13, end: 2196.69}
+  - {text: "But we've also got this sort of farce Of government which goes through all her plays Mockery of those people Who think that they can rule other people", start: 2197.25, end: 2206.03}
+  - {text: "And who think they can You know the moment they get into power They simply serve their own interest And the moment these people get going And the widow Ranta They make themselves a great big punch bowl", start: 2206.61, end: 2217.49}
+  - {text: "On the subject of her As a fiction writer versus a playwright I'd say that In her fiction certainly you get This sense of theatricality She's very good at Describing bodies In space,", start: 2218.77, end: 2232.81}
+  - {text: "she's very good at describing Expressions on people's faces In the way that she's scripted them Already for her plays I think we mustn't underestimate Her success", start: 2232.81, end: 2242.59}
+  - {text: "as a playwright Whether you're thinking of her as a female playwright Or not.", start: 2242.59, end: 2245.79}
+  - {text: "I mean between 16, 17, 16, 18, she has 18 plays put on the stage Dryden has 14 And Durfey has 14 And that's the highest number for any Male playwright over the same period", start: 2245.99, end: 2259.83}
+  - {text: "So she's extraordinarily Successful as a playwright and she's really admired For this capacity What are called her stage management The way she manages stage space The discovery scene,", start: 2259.83, end: 2269.87}
+  - {text: "that moment when the shutters Come back and you find a young couple In bed is much admired And that plays through all of her fiction", start: 2269.99, end: 2277.31}
+  - {text: "She's one way to put it I mean fiction is a really new form The novel's really new and she's bringing a lot Of theatrical convention into the novel Let's take a look at", start: 2277.31, end: 2285.99}
+  - {text: "where the couple In bed for a moment or two She had a reputation as a Boredy writer didn't she at the time Is that true?", start: 2285.99, end: 2293.49}
+  - {text: "What was Boredy about it?", start: 2294.29, end: 2295.37}
+  - {text: "It's very Boredy Give us one example It is early but still Other people were Boredy too Boredy sex comedy was the mode And that's why she wrote it Well,", start: 2295.97, end: 2306.97}
+  - {text: "the second play For example opens with two people Getting out of bed Clearly having had sex and not being married She has plays in which", start: 2308.43, end: 2317.45}
+  - {text: "People go to bed With each other without realising who they are But it doesn't really matter in the morning They say, well, that was fun wasn't it?", start: 2318.13, end: 2326.07}
+  - {text: "People are not Punished For their peccadillos She has Old men who come into Supposedly the bridal chamber And open their nightgowns And display themselves To", start: 2326.27, end: 2342.11}
+  - {text: "the women This is pretty Boredy stuff In fact she was criticised for quite a lot of it Once this kind of sex comedy Had gone out of fashion", start: 2342.11, end: 2351.43}
+  - {text: "Although she does say that She gets more criticised for it Because she's a woman writer So she says other playwrights are just as Boredy as me They don't get this kind of trouble Yes,", start: 2352.07, end: 2361.21}
+  - {text: "I think that she says that in the play That comes immediately after the rover Surpatient Fancy Where there's a scene in which The wife of Surpatient Fancy Is trying to Hide the lover that she's got Stashed behind the bed Whilst her husband is trying to find", start: 2361.29, end: 2378.43}
+  - {text: "This lover and she says that the women Are the people that attacked her most For that I brought that up partly just to talk about it Because it was talked about But partly because it was that", start: 2378.89, end: 2389.99}
+  - {text: "Aspect of her work Which seemed to as it was Striker out of the lists for two centuries Her reputation was very high As you pointed out Roz 18 plays they must have kept wanting more And the picture and the poetry Haven't even got to that", start: 2390.83, end: 2404.83}
+  - {text: "But she went right Her reputation went right down Why was that starting with you, John?", start: 2405.95, end: 2412.75}
+  - {text: "Well, I think that the restoration Itself was vilified As you move into the 18th century The whole period was seen As corrupt and licentious And", start: 2413.31, end: 2422.83}
+  - {text: "the sort of blip on The proper development of things Why did the people suddenly not like licentiousness?", start: 2422.83, end: 2428.03}
+  - {text: "The world turned And became more moral The Dutch king came in The Dutch, it's a Dutch The world has turned Towards a more sentimental Version of life", start: 2428.77, end: 2441.87}
+  - {text: "The distinction between men and women Is re -established Women I suppose particularly To be more associated With emotions and religion And with the virtuous side Of life", start: 2442.45, end: 2455.21}
+  - {text: "And so Afro -Benz sticks out now Not just as one of many playwrights Who were bawdy But as a woman who was bawdy And as such he is vilified constantly Throughout the next century There's a letter A letter from Walter Scott Which summarises this Wonderful story,", start: 2455.21, end: 2473.49}
+  - {text: "Walter Scott One can't help but think about The fact that Walter Scott's making the novel In the early 19th century I will get to the point Walter Scott has a great aunt Who says to him,", start: 2473.65, end: 2484.27}
+  - {text: "I used to love these stories By Afro -Benz, can you get hold of a few for me So he's a bit surprised He goes off finds him,", start: 2484.35, end: 2490.63}
+  - {text: "he sends them to her In brown paper because they're kind of A bit embarrassing to send She writes back, sends them back and says These are appalling,", start: 2490.63, end: 2498.35}
+  - {text: "I can't believe I like these She said 60 years ago I sat in company and we read these out loud And we loved them and now I see Just how crude they are That's fascinating", start: 2498.61, end: 2508.59}
+  - {text: "because she also says Throw them on the fire And then she says But 60 years ago people like myself Being a woman of gentility You sit down and read them aloud It's fascinating,", start: 2508.59, end: 2519.33}
+  - {text: "little Vignette of the way taste can change So swiftly It's a complicated question Does this mean that women Are being re -contained in the 18th century But in a way they're just being re -thought In a way,", start: 2519.77, end: 2533.73}
+  - {text: "moral agents They're responsible for the Moral credit of the nation And Ben is seen as someone who Discredited the morality Of what she said very publicly In the late 17th century And now you among others are", start: 2533.81, end: 2547.13}
+  - {text: "Revivifying, reasserting the reputation Can I just, that quotation I started a programme with about Virginia Woolf Laying flowers on her grave Do you think that, do you go along with that John?", start: 2548.07, end: 2557.93}
+  - {text: "Did you go and lay flowers on her grave?", start: 2559.30, end: 2560.58}
+  - {text: "I did, I did Lucy Worsley in a programme But I think it's a tricky one It's on every book about Afro -Ben pretty well on the cover", start: 2560.58, end: 2572.00}
+  - {text: "But Virginia Woolf I think Brings her back into History to some extent But as a woman, as an amazing woman Writer And I don't think", start: 2572.64, end: 2582.14}
+  - {text: "that Virginia Woolf really gave her Her due as an actual creative Writer So I think it's a good quotation And Virginia Woolf is famous So it's useful that she said it And it's very quotable", start: 2582.14, end: 2594.34}
+  - {text: "But it doesn't do justice to the great Writer Her reputation is being restored By persons like yourself and others But is her legacy there, talkla?", start: 2594.96, end: 2604.14}
+  - {text: "I think she's left us a very interesting legacy Because as we've touched on At various points in this programme She is a mass of contradictions", start: 2605.01, end: 2612.47}
+  - {text: "And several of her characters Are masses of contradictions And there's a lot for people like us And people like your listeners to work out With her So we have the feminism", start: 2612.47, end: 2623.33}
+  - {text: "And the royalism As a sort of contradictory We have characters in some of her fiction A nun who's also a bigamist People like that The courtesan who's the devoted woman", start: 2623.93, end: 2636.51}
+  - {text: "So there's an awful lot That she has to say That captures the fact that We're not all one -dimensional We do have these kinds Of contradictions", start: 2636.51, end: 2647.15}
+  - {text: "Can you see Percolating through to your students And I'm saying oh I think she's really attractive to students She's really attractive to modern culture Because she's so adept at this", start: 2648.01, end: 2658.43}
+  - {text: "Blurring of gender boundaries She's praised for the combination of manly wit And feminine grace In a way she's this kind of Playing with gender identity", start: 2659.13, end: 2667.61}
+  - {text: "And the attraction of ambiguity Around gender disturbance Is central to Ben's Writing and to what makes her Attractive then and makes her attractive now Thank you all very much", start: 2667.61, end: 2679.93}
+  - {text: "And if you have a topic for us That you think deserves a big radio audience Please send your ideas through our website Or Twitter And", start: 2682.45, end: 2689.53}
+  - {text: "BBC in our time by the 27th of October One will be the subject of our program On the 7th of December next week We're discussing the congress of Vienna After the Napoleonic wars", start: 2689.53, end: 2700.03}
+  - {text: "Which settled the balance of power Across Europe for the next 100 years Thanks for listening And the in our time podcast Gets some extra time now With a few minutes of bonus material From Melvin", start: 2700.03, end: 2711.07}
+  - {text: "and his guests What major thing did we leave out?", start: 2711.07, end: 2714.09}
+  - {text: "Poetry, we left out poetry I came to poetry on the And the equivocation that is always In her work I wanted to say the one", start: 2714.47, end: 2723.53}
+  - {text: "thing At the end of the theater One of the tragedies of literary history Is that peeps thought he was going blind And stopped writing his", start: 2723.53, end: 2732.53}
+  - {text: "diary Just before Afro -Benn enters the stage Why didn't you say that?", start: 2732.53, end: 2736.53}
+  - {text: "Because you didn't give me a chance to do it You could have taken the thing By the horns I asked the most wide open questions Do I want to be rude?", start: 2736.77, end: 2746.89}
+  - {text: "I do not Actually not to a man Who is in such a disadvantage In the minority I don't think the lack of peeps Is a", start: 2747.23, end: 2757.75}
+  - {text: "great blow to the program No I agree It just seemed to me a rather nice point I think the poetry I came up to the poetry in the structure And I thought we haven't got time", start: 2757.75, end: 2767.85}
+  - {text: "We just spent quite a good time And I knew that would be A proper discussion between the three of you And I wanted to get to the Fallen reputation", start: 2769.83, end: 2777.49}
+  - {text: "and the legacy And the poetry and I just ended up time I think it's also poetry Is a diminishing interest In art now for readers I mean it's really interesting", start: 2777.49, end: 2788.51}
+  - {text: "That Ben's reputation has grown Because people have come so fascinated by the novel And the history of the novel And that novel, Orinoco Is particularly fascinating And again one could say Restoration poetry is not widely read now And it's a shame because it's Beautiful,", start: 2788.51, end: 2805.53}
+  - {text: "it's occasional It's got a real tone And temperament to it That people can enjoy so much Because it's really intimate and personal Like Rochester, she leaps out of the page And talks to you in her poetry But there are poems that are often", start: 2805.99, end: 2820.77}
+  - {text: "Written in a social space And they're all answering each other Even things like the Disappointment The famous one about male impotence Or premature ejaculation Whichever", start: 2821.57, end: 2831.01}
+  - {text: "That is obviously in a social setting Where several others are writing poems Like that So I think it's very And if we were thinking about Libertinism I suppose", start: 2831.99, end: 2841.11}
+  - {text: "that would have been the space that we could have said In the poetry, what you see her Doing is taking a style of poetry Or a tone of poetry that men Speak in and making women's voices Heard in it,", start: 2841.11, end: 2851.51}
+  - {text: "so at the end of this Disappointment poem, there's a little line That says the nymph's resentment Is none but I can well imagine Or console,", start: 2851.55, end: 2859.07}
+  - {text: "you know Yeah, you make these decisions, don't you?", start: 2859.31, end: 2864.54}
+  - {text: "I mean that's what you've got And actually what you said Convinces me that I made the right decision For the program, but it's a pity we didn't On the other hand, this podcast is going to Millions of people,", start: 2864.70, end: 2875.14}
+  - {text: "so bang away at that poetry I think we should just google this wonderful Title to Fair Clarinda, who made Love to Me Imagined More Than Woman", start: 2875.44, end: 2882.48}
+  - {text: "It's a title that leaves you Thinking what?", start: 2883.60, end: 2886.46}
+  - {text: "And the whole poem leaves you thinking What at the end, you simply don't know Thinking what what?", start: 2887.00, end: 2891.60}
+  - {text: "Who exactly has done what with whom?", start: 2891.90, end: 2893.90}
+  - {text: "What is it? Where is the sex?", start: 2894.32, end: 2896.42}
+  - {text: "Where is it? Is it cerebral?", start: 2896.42, end: 2898.68}
+  - {text: "Is it physical? What is it?", start: 2899.04, end: 2900.34}
+  - {text: "What's going on? Do you see how her plays put on?", start: 2900.58, end: 2904.68}
+  - {text: "The Rovers just been on The RSC How did they go down?", start: 2905.28, end: 2911.80}
+  - {text: "Very well We were discussing it before And I thought it was slightly too singing And dancing as a production Whereas the previous one with Jeremy Irons Had been darker some years ago", start: 2912.58, end: 2923.84}
+  - {text: "But it shows the fact that it is Repeatedly put on It shows that she is actable I just wish they would do some others It's a patient fancy and a lucky chance It's very hit and miss,", start: 2923.84, end: 2933.98}
+  - {text: "I saw I'm not going to name it I saw a couple of Restorations in the last few years And they've been very unconvincing I think everybody thinks Because it's all", start: 2934.12, end: 2946.58}
+  - {text: "Powder and that, I've got to go It's artificial from the start In a way that's It misses the point A lot of it is about training People don't really train in Restoration Theatre In the way they do in Renaissance Theatre Or in modern theatre", start: 2947.44, end: 2962.76}
+  - {text: "It's about getting the pace right And it can be too slow Or too fast They tend to throw themselves about Restoration drama as though that's the necessary thing", start: 2963.36, end: 2972.90}
+  - {text: "And it's very over -forwarding You actors have to really engage the audience And pull them into the story They can't be just doing it in front of you In Restoration plays There were composes between Acts where there would be A musical interlude", start: 2972.90, end: 2988.38}
+  - {text: "Which we don't have A modern equivalent for that Unless you compensate Or adjust for the pace in some kind of way I actually disagree with John and think that the rover did it very well At the RSC with various musical interludes But", start: 2990.06, end: 3005.56}
+  - {text: "The whole Kind of experience Of the theatre is not one that We necessarily have an exact equivalent for So yes, I think I also think it's a shame", start: 3007.36, end: 3016.94}
+  - {text: "that we don't see them Because actually when you try and read the plays They're quite hard to follow People say this about the country wife", start: 3016.94, end: 3022.18}
+  - {text: "And the man of mode as well Everyone seems to be called Will -something Or Bell -something And there are three different couples With different names When you see it on stage You understand how perfectly blocked these plays are So that you,", start: 3022.18, end: 3034.26}
+  - {text: "you know There are bodies playing these parts You see the difference between them You see the contrast between the couples Working out physically in front of you, don't you?", start: 3034.56, end: 3041.98}
+  - {text: "I think that's absolutely true And I think they are very theatrical Which is one reason, in fact They're not cinematic They wouldn't easily be made into That's a very good point Into a television drama They're not like", start: 3042.06, end: 3056.42}
+  - {text: "that So I think that she's Not in that world And she has to live in the theatre And the theatre is not a hugely popular art form But you could be I didn't see the RAC But these things could be reimagined We've got some very good", start: 3056.42, end: 3070.42}
+  - {text: "Directors and actors who are taking older plays And saying let's redo it like this I mean And it's working very well People have taken a lump out of Chekhov", start: 3072.14, end: 3082.00}
+  - {text: "And turned it into That eight hour play She first play he wrote Which has been cut into by David Hare, by Michael Frayn By many others", start: 3082.54, end: 3092.78}
+  - {text: "But you have to have the audience Don't you?", start: 3092.78, end: 3097.10}
+  - {text: "You have to make the Punches come and buy the tickets And it's lack of knowledge By having a starry cast You've also got a problem with the RAC It's also a problem in a lot of modern performance", start: 3097.14, end: 3108.52}
+  - {text: "That kind of predatory Threatened rape scene Is really hard to manage In front of a modern audience I took my students to see the RSC production They managed it very well actually But all of them were talking On the way back about", start: 3109.28, end: 3123.38}
+  - {text: "How do we read this scene This morning with what's on the news Absolutely Yes, what she's talking about Doesn't go away All the things she raises", start: 3124.26, end: 3135.00}
+  - {text: "From the idea Of rape and predatory men In power Because the relationship of power and sex Is something very strong in Ben From that to", start: 3135.84, end: 3144.80}
+  - {text: "the farce of government I think all this is very relevant Just evergreen The fact that the rape backs away from rape Because he thinks this is a gentile woman", start: 3144.80, end: 3153.44}
+  - {text: "So he doesn't back away from it Because he shouldn't be raping Backs away from it because she's botch I think you've got your say In about the production I think", start: 3153.44, end: 3160.20}
+  - {text: "that will That is the Plenty of people here I think the producer is coming in To make an important announcement If you want refreshments to", start: 3160.20, end: 3172.06}
+  - {text: "your coffee I'm okay thank you Why do some brilliant business ideas Come a cropper I'm Sean Farrington and in a new series of toast I'll be looking at five more brands Businesses", start: 3172.06, end: 3183.77}
+  - {text: "and wonder products Which offered a lot but didn't stick around Including a budget cinema Selling tickets for 20 pence And the toilet paper we knew from school I remember worrying about getting paper cuts In an area", start: 3183.77, end: 3197.55}
+  - {text: "that you wouldn't wish To be guessing a paper cut Finding out what we can learn From their disappearance Toast from BBC Radio 4 Listen first on BBC Sounds", start: 3197.55, end: 3208.33}
+---

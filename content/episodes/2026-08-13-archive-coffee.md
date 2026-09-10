@@ -1,0 +1,485 @@
+---
+layout: single
+title: "Archive: Coffee"
+show: "In Our Time"
+date: 2026-08-13T00:00:00Z
+slug: "2026-08-13-archive-coffee"
+audioDir: "2026-08-13-archive-coffee"
+totalDuration: 3493.6
+sentences:
+  - {text: "BBC Sounds. Music, radio, podcasts.", start: 1.10, end: 4.26}
+  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 8.08, end: 12.38}
+  - {text: "Why do weekends even exist?", start: 12.74, end: 14.48}
+  - {text: "And how did we become so obsessed with football?", start: 14.82, end: 17.10}
+  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 17.44, end: 19.50}
+  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 19.94, end: 25.52}
+  - {text: "Like why has the pub become so important?", start: 25.62, end: 27.62}
+  - {text: "That's an excellent question, Ben.", start: 27.90, end: 29.68}
+  - {text: "Here for the history.", start: 30.02, end: 30.72}
+  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 31.06, end: 33.40}
+  - {text: "Hi, this is me, Shaglenny.", start: 33.40, end: 35.54}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.18, end: 40.34}
+  - {text: "But if you can't wait, head over to BBC Sounds, where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.12, end: 48.96}
+  - {text: "This is In Our Time from BBC Radio 4, and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 49.64, end: 58.40}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 58.40, end: 64.16}
+  - {text: "I hope you enjoy the programme.", start: 64.72, end: 66.12}
+  - {text: "Hello, and welcome to the latest episode of our In Our Time Summer Classics.", start: 66.78, end: 72.08}
+  - {text: "As the BBC Central Europe correspondent in the late 1980s, I would go to the Breunerhof Café in Vienna's city centre and order myself a Grosse Braune, a sort of large macchiato.", start: 72.70, end: 85.54}
+  - {text: "More often than not, over in the corner sat Thomas Bernhardt, the enfant terrible of post -war Austrian theatre, always at the same table with the same cup of coffee and a newspaper.", start: 85.54, end: 98.30}
+  - {text: "Austrians have been enjoying their coffee thanks to their enemies, the Ottomans, for 500 years.", start: 99.46, end: 105.18}
+  - {text: "The Turks have been enjoying it even longer thanks to the Ethiopians and the Yemenis.", start: 105.90, end: 111.24}
+  - {text: "And we are all now addicted to the stuff.", start: 111.70, end: 114.06}
+  - {text: "We may think of it as just a morning pick -me -up, but coffee changed the intellectual culture in countries around the world as caffeinated customers stayed awake for longer,", start: 114.12, end: 124.96}
+  - {text: "becoming more animated and spreading ideas which weren't always to the liking of the government of the day.", start: 125.44, end: 131.48}
+  - {text: "But coffee also changed the economies of entire continents.", start: 132.46, end: 136.28}
+  - {text: "In this episode, Melvin and his guests explore how and why coffee became a fix we can't do without.", start: 137.16, end: 143.48}
+  - {text: "Oh, and if you're buying, mine's a flat white.", start: 143.48, end: 146.34}
+  - {text: "Enjoy listening. Hello, in 1652 the first coffee house opened in London, not so much a house as a shed, selling to passers -by.", start: 146.96, end: 155.16}
+  - {text: "The taste, it's thought, was unspeakable.", start: 155.70, end: 157.84}
+  - {text: "But people liked the effect it had, both from them and all those around them in these new coffee houses.", start: 158.32, end: 163.42}
+  - {text: "They were more talkative, brighter, awake for longer and sharing news and ideas.", start: 163.90, end: 167.90}
+  - {text: "It changed society. And coffee growing spread across the world's colonies, too, to meet European and American demand, changing lives from Java to Brazil, calling for more and more slaves to tend the crop.", start: 168.32, end: 179.48}
+  - {text: "We're going to discuss the history of coffee at Jonathan Morris, Professor in Modern History at the University of Hertfordshire, Markman Ellis, Professor of 18th Century Studies at Queen Mary University of London,", start: 180.06, end: 189.80}
+  - {text: "and Judith Hawley, Professor of 18th Century Literature at Royal Holloway University of London.", start: 190.26, end: 195.10}
+  - {text: "Judith, how did coffee become a drink, according to legend first?", start: 195.64, end: 199.48}
+  - {text: "Well, first of all, it wasn't a drink, but a kind of snack.", start: 200.30, end: 203.46}
+  - {text: "There's a very strange story that emerged in probably the 17th century about how there was a goat herder, who was sometimes described as a goat herder, sometimes as a camel herder in Ethiopia or possibly Egypt,", start: 204.18, end: 218.24}
+  - {text: "who observed that his goats, once they'd eaten the berries of this particular bush, would become very, very frisky and uncontrollable.", start: 218.24, end: 226.26}
+  - {text: "And so this herder decided that he would try them, too, and he started to dance around and to frisk.", start: 227.12, end: 233.98}
+  - {text: "And somebody came upon him, somebody who's described sometimes as a monk, sometimes as an iman, and noticed the effect that eating these beans was having on these people.", start: 234.98, end: 244.74}
+  - {text: "And the religious man tried them out himself and he found it amazing that they kept him awake and he's able to pray all night.", start: 244.74, end: 252.08}
+  - {text: "So the first time coffee was consumed, it was as the fresh berry or cherry of the bush.", start: 252.46, end: 259.68}
+  - {text: "And then how did it spread?", start: 260.44, end: 261.86}
+  - {text: "Let's take the legend for granted and rest on it, because it's as good an explanation as we're going to get, isn't it?", start: 262.04, end: 267.16}
+  - {text: "Yes, so it's possible that religious people, whether Christian but almost certainly Muslim, started to make a kind of infusion of the whole cherry with the red husk as well.", start: 267.16, end: 282.50}
+  - {text: "They didn't start roasting it for some time afterwards, but they would have made it as an infusion.", start: 283.06, end: 287.10}
+  - {text: "Well, they also sometimes consumed it as sort of ground into a paste and mixed with fat, a butter or oil, rather like those high protein snacks that people drink nowadays.", start: 287.10, end: 298.00}
+  - {text: "And it's sort of partly medicinal, but also is very much associated with prayer, that it allowed you to stay alert during the long nights of prayer.", start: 298.44, end: 307.70}
+  - {text: "And this was particularly important for the Sufis, the very mystic strand of Islam.", start: 308.08, end: 314.32}
+  - {text: "And a lot of Sufis were working during the day.", start: 314.32, end: 317.32}
+  - {text: "They weren't sort of full -time holy men.", start: 317.42, end: 319.80}
+  - {text: "And then they would pray during the evening, they'd enter their devotions at night and they use this.", start: 320.44, end: 325.96}
+  - {text: "So coffee is what made the dervishes whirl.", start: 326.50, end: 328.84}
+  - {text: "So by what time and with what effect had coffee spread into the Ottoman Empire?", start: 330.36, end: 335.38}
+  - {text: "It probably spread there.", start: 336.10, end: 337.26}
+  - {text: "It's sort of hard to say.", start: 337.74, end: 338.90}
+  - {text: "Recently, some coffee beans were found in the Horn of Africa in what's now the United Arab Emirates.", start: 340.00, end: 346.02}
+  - {text: "And they probably came from Yemen, and that might have been as early as the 12th century.", start: 346.42, end: 350.78}
+  - {text: "But trade in coffee was conducted across the Red Sea and the Port of Mokka, which is what gives us one of the names for coffee, was a vital trade route.", start: 351.68, end: 362.18}
+  - {text: "And then it spread to further through into what was known as the Levant, round about, let's say, probably the 16th century or possibly even earlier.", start: 362.18, end: 373.82}
+  - {text: "And it just for general trading people heard of it and wanted it.", start: 374.44, end: 377.56}
+  - {text: "Yes, it's a mixture of merchants.", start: 377.88, end: 379.74}
+  - {text: "The ports were very, very important.", start: 380.80, end: 382.54}
+  - {text: "But also people on the pilgrimage to Mekka.", start: 383.02, end: 385.42}
+  - {text: "It was spreading along prayer routes as well as trading routes.", start: 385.72, end: 389.04}
+  - {text: "Can you give us some idea when this trade got a bit of traction?", start: 389.04, end: 392.20}
+  - {text: "It seems to develop rather slowly.", start: 392.44, end: 394.32}
+  - {text: "It did. I think it was a niche drink and there were specialised places where it was consumed.", start: 394.78, end: 401.48}
+  - {text: "So it wasn't in every household.", start: 401.90, end: 403.42}
+  - {text: "So it wasn't a sort of a mass product.", start: 403.86, end: 405.64}
+  - {text: "That slowed down the spread of it.", start: 405.92, end: 407.88}
+  - {text: "But you've talked about the Yemen and moving up.", start: 408.06, end: 410.26}
+  - {text: "Yeah. About when? Which century?", start: 410.46, end: 412.44}
+  - {text: "Probably the, I think we should say about the 16th century it reached Constantinople.", start: 412.44, end: 418.54}
+  - {text: "And from there, maybe in periods of about 50 years at a time, it moved its way around the Mediterranean and eventually across continental Europe.", start: 419.22, end: 427.94}
+  - {text: "Did the Ottoman Empire take it as its drink quite soon?", start: 428.46, end: 432.90}
+  - {text: "Or did that again take a bit of time?", start: 433.02, end: 434.52}
+  - {text: "That took a bit of time.", start: 434.82, end: 436.62}
+  - {text: "But it was very much a part of habits of hospitality in the Ottoman Empire.", start: 436.62, end: 443.08}
+  - {text: "So it's not just a religious drink by then.", start: 443.22, end: 446.04}
+  - {text: "So coffee houses developed in the Ottoman Empire.", start: 446.18, end: 449.08}
+  - {text: "And they were places for men to gather to conduct conversation, to relax.", start: 449.42, end: 455.88}
+  - {text: "It's sort of often a place where you'd go in the afternoon to relax some stresses and strains, but also to meet people.", start: 456.40, end: 462.04}
+  - {text: "So there's quite a ritual of buying coffee, making and serving coffee to people that was part of its spread and consumption.", start: 462.04, end: 469.42}
+  - {text: "So not just the beverage or the commodity, but the way of consuming and sharing it.", start: 469.78, end: 475.52}
+  - {text: "Jonathan Morris, how did coffee start to spread west from the Ottoman Empire?", start: 476.10, end: 480.04}
+  - {text: "Well, it was often merchants themselves who spread it west.", start: 480.54, end: 483.22}
+  - {text: "They were obviously communicating into the rest of Europe.", start: 483.44, end: 486.78}
+  - {text: "The first record that we really have of coffee in Western Europe is in Venice.", start: 486.78, end: 492.90}
+  - {text: "And we know this because we have the death of an Ottoman merchant in 1575 in Venice.", start: 493.70, end: 499.10}
+  - {text: "And as part of the investigation, they made a listing of all of his effects.", start: 499.60, end: 505.08}
+  - {text: "And this included sort of coffee making paraphernalia.", start: 505.38, end: 507.96}
+  - {text: "But we know more generally, I suppose, that those who were called Armenians, that's to say the Christians who were living within the Ottoman Empire frequently became emigres into Western Europe.", start: 508.54, end: 519.18}
+  - {text: "And we tend to find that those are the people who established the first sort of coffee houses, the first coffee routes into European society.", start: 519.74, end: 526.84}
+  - {text: "How important was it that coffee was non -alcoholic?", start: 527.18, end: 529.72}
+  - {text: "It was very important, although of course even more important back in the Ottoman Empire and Arabia.", start: 530.52, end: 536.44}
+  - {text: "It was important because until that point, really in terms of sociable drinking, that would all have to be conducted over some form of alcohol.", start: 536.86, end: 544.32}
+  - {text: "So once there was a drink that was actually doing the wakeful as opposed to the sleeping, that obviously enabled it to be used in settings such as work practices,", start: 545.02, end: 555.10}
+  - {text: "such as places where people were negotiating, trading and so forth.", start: 555.24, end: 558.86}
+  - {text: "And that becomes the basis really of the early coffee houses.", start: 558.90, end: 562.58}
+  - {text: "And how did it begin to spread west from the Ottoman Empire?", start: 562.98, end: 565.72}
+  - {text: "So there's an interesting sort of disconnect, if you like.", start: 567.22, end: 571.86}
+  - {text: "So we know that coffee, as we said, spreads first into Italy and into probably into those Eastern European lands.", start: 572.06, end: 580.12}
+  - {text: "But it's used very much as a medicine, a medicinal thing, and it's sort of confined to...", start: 580.44, end: 585.46}
+  - {text: "What was it supposed to cure?", start: 585.46, end: 586.72}
+  - {text: "Pretty much anything that you wanted it to cure would be the answer.", start: 587.84, end: 591.64}
+  - {text: "So gout would be one thing, for example.", start: 592.84, end: 594.86}
+  - {text: "But there would be lots of sort of promises that this would cure things.", start: 594.86, end: 598.44}
+  - {text: "Was there any record kept of its effect?", start: 598.92, end: 602.04}
+  - {text: "No record that I think could be described as anything other than marketing.", start: 604.22, end: 607.82}
+  - {text: "So the way that it would be used would be by apocrates prescribing it.", start: 609.18, end: 613.92}
+  - {text: "And that creates the odd situation that, in fact, the first sort of social coffee house, as you alluded to, sort of opens in England, which", start: 615.80, end: 623.98}
+  - {text: "is actually quite late in terms of seeing the first coffee.", start: 623.98, end: 627.08}
+  - {text: "So there's that kind of disconnect for that reason.", start: 627.92, end: 630.12}
+  - {text: "Use the term marketing.", start: 630.48, end: 631.64}
+  - {text: "How was it marketed in the West?", start: 632.08, end: 633.50}
+  - {text: "So it flows out of the Ottoman Empire and they can say, well, this keeps you awake.", start: 633.70, end: 637.16}
+  - {text: "Alcohol will send you to sleep.", start: 637.52, end: 638.24}
+  - {text: "We're against alcohol anyway, so take this and you'll be able to pray more.", start: 638.34, end: 641.46}
+  - {text: "And that'll be good for us and good for you and so on.", start: 641.76, end: 644.42}
+  - {text: "How did they sell it when it moved across into Europe?", start: 645.62, end: 648.88}
+  - {text: "Well, I mean, there are most famously a sort of a hand bill that comes out, which is produced, we think, by Rose's own people, in which it refers to being able to cure wind,", start: 648.88, end: 659.60}
+  - {text: "being able to cure gout, being able to remove stones and so forth.", start: 659.78, end: 663.92}
+  - {text: "So it is advertised as having all these properties.", start: 664.04, end: 666.92}
+  - {text: "The first hand bill is, in fact, actually made available to other people.", start: 668.10, end: 672.76}
+  - {text: "So within the context of marketing within England and London, people, each coffee house is writing out the same hand bill, but substituting in their own name for all the things that they can deliver through it.", start: 672.96, end: 683.70}
+  - {text: "How similar, have we any idea how similar it was to the coffee we drink today?", start: 684.00, end: 687.98}
+  - {text: "Just similar, we hope.", start: 688.60, end: 689.82}
+  - {text: "We would imagine that that coffee would, well, first of all, it would be made by effectively a sort of a, what you might call a lesser version of what we now think of as Turkish coffee.", start: 691.02, end: 702.90}
+  - {text: "So it would be made by boiling.", start: 703.10, end: 704.32}
+  - {text: "It would be made by direct boiling of the grounds with the powder.", start: 704.32, end: 708.52}
+  - {text: "The powder itself would almost certainly have come from the Java or from Mocha.", start: 709.18, end: 715.74}
+  - {text: "It would be stale, extremely stale.", start: 715.88, end: 719.12}
+  - {text: "And shipping coffee at that time would have been done.", start: 719.40, end: 722.40}
+  - {text: "The coffee would have been exposed.", start: 722.56, end: 723.54}
+  - {text: "So the coffee would have taken on quite a lot of other characteristics.", start: 723.86, end: 726.36}
+  - {text: "Do we have any evidence of what it tasted like?", start: 726.66, end: 728.80}
+  - {text: "Well, we have people describing how they felt about it.", start: 729.80, end: 733.32}
+  - {text: "Most of what they describe is really about the effect that they believe that it has on them.", start: 733.32, end: 738.28}
+  - {text: "So it is this kind of reviving effect.", start: 738.44, end: 740.78}
+  - {text: "It is sort of the effect of keeping them up and so forth.", start: 741.02, end: 743.42}
+  - {text: "There are other people who are fairly unhappy about it.", start: 744.10, end: 748.60}
+  - {text: "But then we have the great innovation, of course, which is when milk is added to coffee.", start: 748.66, end: 751.90}
+  - {text: "Ah, that's a marker, isn't it?", start: 752.32, end: 754.24}
+  - {text: "Yes, so let's move on.", start: 754.32, end: 755.36}
+  - {text: "To Mark, how did it move from being an exotic drink to something sold to the public?", start: 756.50, end: 761.74}
+  - {text: "Coffee by the mid 17th century becomes more widely available in northern Europe, mainly through traders.", start: 761.74, end: 770.08}
+  - {text: "So in Britain it was the Levant company that traded, especially with Turkey and the Ottoman Empire.", start: 770.80, end: 775.88}
+  - {text: "And by the 1630s there are individuals associated with the Levant company who have accessed the coffee in Britain and are drinking it.", start: 776.84, end: 785.16}
+  - {text: "One of them is William Harvey, whose brothers were both the describer of circulation of the blood.", start: 785.20, end: 790.68}
+  - {text: "His brothers were both Levant merchants and he records drinking coffee and its effect on him.", start: 790.68, end: 796.90}
+  - {text: "And we're moving towards the first coffee house.", start: 797.20, end: 799.04}
+  - {text: "Yes, so the first coffee house opens in London in probably 1652.", start: 799.48, end: 804.04}
+  - {text: "It was opened by a servant of a Levant merchant called Daniel Edwards and the servant was called Pascal Rose.", start: 804.58, end: 812.80}
+  - {text: "And from his name that strongly suggests he was a Greek Christian.", start: 813.12, end: 816.52}
+  - {text: "He came from Ragoza, Dubrovnik.", start: 816.68, end: 818.64}
+  - {text: "And he had expertise in making coffee and had been trained in that way in Smerna, which is where Daniel Edwards traded for his family company.", start: 818.64, end: 830.80}
+  - {text: "And when Daniel Edwards came back to London, he got sick of entertaining all his friends in his house to coffee in the morning.", start: 831.52, end: 838.88}
+  - {text: "And so set up a servant, Pascal Rose, in, as you said, a shed basically in the churchyard of St.", start: 839.34, end: 844.90}
+  - {text: "Michael's Cornhill right by the Royal Exchange.", start: 844.98, end: 847.70}
+  - {text: "And where all the merchants in London gathered every day.", start: 847.70, end: 850.36}
+  - {text: "And quite quickly a large concourse of people, as they say, gathered every morning at Rose's shed.", start: 851.18, end: 857.40}
+  - {text: "And within a year or two he had made enough money to move across the alley into a proper building.", start: 858.06, end: 862.40}
+  - {text: "He'd taken on a partner and Pascal Rose's, the coffee house, Pascal Rose's head became the first most well -known coffee house in London.", start: 863.56, end: 873.68}
+  - {text: "When the city authorities did a census of coffee houses only ten years later, just in the city of London alone there were 83 coffee houses.", start: 874.52, end: 883.94}
+  - {text: "So it points to the extremely rapid expansion of the number of coffee houses.", start: 884.30, end: 889.84}
+  - {text: "What's your theory as to why it was so extreme?", start: 891.12, end: 893.24}
+  - {text: "I mean, 10 to 83 is a heck of a jump, isn't it?", start: 893.44, end: 895.74}
+  - {text: "It is. In such a short time.", start: 895.88, end: 898.30}
+  - {text: "Well, the conditions were good.", start: 898.30, end: 900.34}
+  - {text: "It was in the middle of, you know, the Republican government and they were hostile to being a Puritan government, hostile to excessive alcohol drinking and tried to license the number of taverns", start: 900.78, end: 913.82}
+  - {text: "and public houses that were in the city.", start: 913.82, end: 915.80}
+  - {text: "And coffee was not intoxicating.", start: 916.28, end: 918.44}
+  - {text: "So it found easy acceptance from the authorities.", start: 918.82, end: 927.46}
+  - {text: "It's also an extremely addictive drug.", start: 927.46, end: 930.78}
+  - {text: "So once you're used to drinking it for whatever reason, you want to keep drinking it.", start: 930.94, end: 935.50}
+  - {text: "And it's association with the trading practices of the Levant merchants meant that if you wanted to get on with the Levant company, you needed to drink coffee", start: 935.78, end: 944.16}
+  - {text: "and then coffee takes you over and you have to keep drinking coffee.", start: 944.16, end: 947.88}
+  - {text: "Thank you, Judith Hawley.", start: 949.24, end: 950.58}
+  - {text: "How did those sheds, those coffee houses, develop into the coffee houses that we know about which they developed into clubs, what was the big development?", start: 950.58, end: 962.71}
+  - {text: "What was that great rush of development?", start: 963.35, end: 965.03}
+  - {text: "Was that just to do with businessmen wanting to do business with businessmen and scholars with scholars and so on?", start: 965.31, end: 969.59}
+  - {text: "What was going on?", start: 969.69, end: 970.27}
+  - {text: "Yeah, so Markman's described the move of Pascal Rose from a shed which had been like one of the German Christmas market type sheds into premises", start: 970.69, end: 978.53}
+  - {text: "and one of the big appeals of the premise was that the coffee house became a place where you'd go and meet people and talk.", start: 978.53, end: 985.93}
+  - {text: "You'd go and meet and talk to strangers.", start: 986.47, end: 988.13}
+  - {text: "And when Markman mentioned the 83 coffee houses that were there within a decade they're usually located in particular areas of the city which already had an association say with printers", start: 988.73, end: 1000.07}
+  - {text: "or with lawyers or with merchants of a particular type or near Gresham College.", start: 1000.07, end: 1005.75}
+  - {text: "So people from those establishments could step out of their places of work and go to a place where they could meet each other and talk.", start: 1005.75, end: 1015.11}
+  - {text: "Why do they sideline Taverns?", start: 1016.05, end: 1019.03}
+  - {text: "Taverns had a mixture of associations.", start: 1021.21, end: 1025.11}
+  - {text: "They were certainly more upper class than an ale house but they were places of alcohol consumption.", start: 1025.41, end: 1031.71}
+  - {text: "They were mixed so women could go into taverns.", start: 1031.71, end: 1035.69}
+  - {text: "Coffee houses were pretty much exclusively male establishments apart from the women who might own them or serve the coffee there.", start: 1035.91, end: 1043.95}
+  - {text: "So I think there was a desire for men to talk business whether their business was law or trade or the new science.", start: 1044.57, end: 1051.27}
+  - {text: "They wanted to talk business with their fellow businessmen.", start: 1051.79, end: 1054.15}
+  - {text: "And coffee houses provided a number of things that Taverns didn't do and I think this is crucial.", start: 1054.71, end: 1058.85}
+  - {text: "There are two aspects to this.", start: 1059.07, end: 1060.79}
+  - {text: "One is the layout of the coffee house.", start: 1060.79, end: 1063.87}
+  - {text: "There's almost always a long table in the middle of the coffee house and you'd go in and you'd pay a penny for your cup of coffee and you'd take whatever seat was available.", start: 1064.01, end: 1073.17}
+  - {text: "So you'd sit and talk to whoever was there.", start: 1073.43, end: 1076.35}
+  - {text: "So this model of sociability.", start: 1076.61, end: 1078.35}
+  - {text: "Did that come from the Ottomans?", start: 1079.17, end: 1080.61}
+  - {text: "Yes, I think that did except the Ottomans often had you could take people to a private corner or sort of a bench, an elevated bench.", start: 1080.95, end: 1088.61}
+  - {text: "But this sort of come all who can and you mingle and meet made it a discursive space.", start: 1089.07, end: 1095.69}
+  - {text: "And the other thing was that they provided newspapers, pamphlets, printed material, reading material of all kinds.", start: 1095.87, end: 1101.89}
+  - {text: "So people would go in in order to get the latest news in terms of the gossip and conversation.", start: 1102.23, end: 1106.77}
+  - {text: "John Arbuthnot wrote a wonderful poem called The Quidnunks.", start: 1108.07, end: 1110.77}
+  - {text: "The What Now? You come and say, what's happening in the news?", start: 1111.25, end: 1114.45}
+  - {text: "Or you might get the latest poem if you went into wills or buttons where the wits met or you'd get to hear what was happening in Parliament", start: 1115.49, end: 1124.79}
+  - {text: "if you went to the coffee houses in St.", start: 1124.79, end: 1126.49}
+  - {text: "James. So is that mixture of news, reading, discussion, sharing of ideas which I think is absolutely crucial to the rapid spread of the coffee house", start: 1126.61, end: 1137.13}
+  - {text: "during a period of the rapid rise of knowledge?", start: 1137.13, end: 1139.69}
+  - {text: "We're talking about in the second half of the 17th century.", start: 1140.07, end: 1143.51}
+  - {text: "I know one says he's threatened because they got too lively and they were spreading ideas having forbid in this country and he, and it was threatened with closed.", start: 1144.05, end: 1151.37}
+  - {text: "They were threatened with closed.", start: 1151.55, end: 1152.15}
+  - {text: "Yes, 1676 Charles II tried to close them down because one of the chief ideas which was being discussed was the king, you know, what was the fate of the stewards.", start: 1152.25, end: 1162.17}
+  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 1163.99, end: 1169.05}
+  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 1169.29, end: 1174.25}
+  - {text: "Guests often surprise me by being just so generous with their stories.", start: 1174.69, end: 1179.15}
+  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 1179.63, end: 1184.07}
+  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 1184.45, end: 1189.67}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 1190.35, end: 1192.93}
+  - {text: "Excession. Jonathan Morris, let's bring in how it's developing as a trade.", start: 1193.59, end: 1201.44}
+  - {text: "The Dutch East India Company, very powerful, takes its part in this.", start: 1202.26, end: 1207.82}
+  - {text: "Amsterdam becomes one of the great centres of the coffee trade.", start: 1207.88, end: 1210.86}
+  - {text: "Can you develop that?", start: 1211.00, end: 1211.70}
+  - {text: "Yeah, sure. Basically, obviously up until about the 1700s, all of the coffee that's coming on to the market comes from Mokka, from that sort of original cultivation which is going on in Yemen.", start: 1212.30, end: 1224.08}
+  - {text: "So the Dutch East India Company is seeing an expansion in demand and at the same time, in the early 1700s, the Ottoman Empire is increasing the restrictions upon the trade.", start: 1224.96, end: 1235.70}
+  - {text: "The Governor of one of the Governors of Dutch East India...", start: 1236.74, end: 1239.48}
+  - {text: "Is that because they wanted to make more money or because they wanted to control it for other reasons?", start: 1239.48, end: 1242.80}
+  - {text: "I think primarily it's because of making money.", start: 1243.52, end: 1245.68}
+  - {text: "But what happens, therefore, is I think that there are difficult relations with those East India companies, if you like, and the Ottoman authorities.", start: 1247.54, end: 1255.68}
+  - {text: "And as a result, one of the Governors of the Dutch East India Company, a man called Nicholas de Vitsen, decides to try and plant coffee in one of the colonies, in this case Java.", start: 1255.68, end: 1266.82}
+  - {text: "He takes his coffee from actually Malabar in India where we believe that that coffee had probably got by legend, by somebody making the pilgrimage, probably in reality by merchants, Indian merchants,", start: 1267.60, end: 1281.88}
+  - {text: "trying to set up somewhere else to grow coffee.", start: 1282.24, end: 1284.42}
+  - {text: "Anyway, he takes that coffee, he plants it in Java.", start: 1284.42, end: 1287.36}
+  - {text: "It's a slow process, but by around 1711 they are shipping coffee back into Amsterdam.", start: 1288.50, end: 1295.88}
+  - {text: "Amsterdam develops its own coffee exchange and by the end of the 1720s, about 90 % of the coffee that is going through the Amsterdam exchange is now from Java, rather than from Mocha.", start: 1296.38, end: 1309.22}
+  - {text: "Mark Van Alice, how was at that time coffee changing in the way we did business, for instance?", start: 1310.70, end: 1317.06}
+  - {text: "Judith pointed it out or alluded to the fact that it changed the interplay of ideas.", start: 1317.32, end: 1322.60}
+  - {text: "It was outside the university system.", start: 1322.92, end: 1324.72}
+  - {text: "The university system was mainly classics, you went into the law or you went into the church and the great practical scientific development of our country came from dissenters or people outside the universities and these clubs, these coffee houses were part of that.", start: 1324.84, end: 1341.68}
+  - {text: "Yeah, so coffee houses offered an alternative place for meeting, for sociability, and it was particularly appropriate for businessmen because unlike a tavern, you didn't become", start: 1342.22, end: 1353.96}
+  - {text: "intoxicated by being there for a long time.", start: 1353.96, end: 1356.38}
+  - {text: "Which is not to say that taverns didn't continue to have an important social role, but during the daytime, for example, you might find more people", start: 1356.78, end: 1365.22}
+  - {text: "moving from the Royal Exchange to a coffee house than to a tavern.", start: 1365.22, end: 1371.08}
+  - {text: "And because of that, I mean, around a place like the Royal Exchange, the centre of trade in London, there were numerous coffee houses, one on every corner kind of idea.", start: 1372.18, end: 1385.32}
+  - {text: "And some of them began to attract particular kinds of businessmen.", start: 1385.84, end: 1390.00}
+  - {text: "Sometimes they were even named after the kind of business that they wanted to attract.", start: 1390.16, end: 1393.48}
+  - {text: "So the Virginia coffee house, for example, traded with merchants who traded with Virginia might assemble there or the Baltic coffee house for Eastland company merchants who traded with Russia and the Baltic.", start: 1393.48, end: 1404.34}
+  - {text: "And then other ones, like Johnson and Garroway's, seemed to attract stockbrokers and stock -jobbers and one, Edward Lloyd, who set up a coffee house in the 1690s, specialised in marine insurance.", start: 1405.22, end: 1419.58}
+  - {text: "And once you start getting a group of businessmen coming together, there's a kind of a group advantage.", start: 1419.58, end: 1427.54}
+  - {text: "So they are gathering information from each other.", start: 1428.04, end: 1431.14}
+  - {text: "They're sort of crowdsourcing through gossip and information, stuff which actually has commercial value.", start: 1431.34, end: 1437.86}
+  - {text: "So Lloyd started printing a list of shipping movements, for example, which becomes Lloyd's list, which still exists today.", start: 1438.48, end: 1447.28}
+  - {text: "And if you got access to Lloyd's list first thing in the morning and it was read out, Lloyd's in the morning, you had a couple", start: 1447.28, end: 1456.20}
+  - {text: "of hours fresh information before the information was released to the rest of the world.", start: 1456.20, end: 1460.72}
+  - {text: "So coming back to the coffee house time after time gave you a commercial advantage.", start: 1460.94, end: 1464.92}
+  - {text: "So quite quickly, going to the right coffee house for that kind of business meant that you had a commercial advantage.", start: 1465.28, end: 1471.78}
+  - {text: "And then by the end of the 18th century, some of these places are also realising that that information is valuable and that by excluding just anyone who walks in off the street,", start: 1472.22, end: 1481.42}
+  - {text: "they could make the information even more valuable.", start: 1481.68, end: 1484.76}
+  - {text: "So the Stockbrokers who met at Jonathan's Coffee House reformed themselves into a new Jonathan's which becomes known as the Stock Exchange in the 1760s and Lloyd's becomes closed to daytrippers,", start: 1485.04, end: 1502.56}
+  - {text: "as it were, in the 1770s because they realised that only by subscription and allowing only the members into the coffee room they can then make full use of the commercial information that they're gathering.", start: 1502.62, end: 1516.18}
+  - {text: "Jude, if you were keen to stress the variety and number of coffee houses, and we've had one or two there, was there a general sense in", start: 1516.78, end: 1523.50}
+  - {text: "which the drinking of coffee in this coffee house changed what was being said and changed the game in London and elsewhere?", start: 1523.50, end: 1530.80}
+  - {text: "Yes, I think it was.", start: 1531.38, end: 1532.52}
+  - {text: "Coffee houses did develop in the major ports and towns around Britain, Norwich, Bristol, York and so forth.", start: 1532.88, end: 1539.42}
+  - {text: "I think this idea that reading and writing went on in coffee houses is important, that people went there in order to read things and they also started writing things in and about the coffee houses.", start: 1540.48, end: 1551.56}
+  - {text: "Jonathan's talked about some of the handbills.", start: 1552.10, end: 1553.96}
+  - {text: "So some of the stuff that was written about the coffee houses in the early days was satire on it or promotion of the coffee house.", start: 1554.20, end: 1561.36}
+  - {text: "There's a famous pamphlet in which the women were invading against the men for attending coffee houses and becoming feminised.", start: 1561.56, end: 1569.54}
+  - {text: "They gossiped like women and then when they came home they're like shot and herring and no good for anything.", start: 1569.64, end: 1574.48}
+  - {text: "They're impotent. They're impotent, yes.", start: 1574.72, end: 1576.30}
+  - {text: "Coffee houses made them impotent.", start: 1576.30, end: 1577.34}
+  - {text: "Coffee houses made men impotent.", start: 1577.36, end: 1579.04}
+  - {text: "But they also sharpened men's wits.", start: 1579.34, end: 1581.78}
+  - {text: "So the coffee houses associated with particular wits like the great dramatist and poet John Dryden held court in Will's Coffee House in Covent Garden and then Richard Steele", start: 1582.16, end: 1593.68}
+  - {text: "and Joseph Addison who kind of invented a genre which puts the coffee house on paper.", start: 1593.68, end: 1600.44}
+  - {text: "They invented a thing called periodical literature.", start: 1600.86, end: 1603.30}
+  - {text: "So the thrice weekly or regular, not quite newspaper, but journal which has an essay about an important issue or raises the standard of debate that it makes conversation better informed, more civil.", start: 1603.98, end: 1621.16}
+  - {text: "We're talking about politeness.", start: 1621.40, end: 1622.46}
+  - {text: "And we're talking about the spectator.", start: 1623.00, end: 1624.28}
+  - {text: "We're talking about the tatler and the spectator, both of which in their first issues of the Tatler in 1709 and the spectator in 1711.", start: 1624.44, end: 1632.18}
+  - {text: "The very first issues of them made the link between the coffee house and the periodical explicit that the personae of the Tatler and the spectator were gathering news from the coffee houses.", start: 1632.94, end: 1645.62}
+  - {text: "And this was the buzz.", start: 1646.30, end: 1648.46}
+  - {text: "We're sticking to London at the moment.", start: 1648.62, end: 1649.76}
+  - {text: "There's lots more to say about other countries.", start: 1649.86, end: 1651.12}
+  - {text: "But to stay here, this was the news of the town.", start: 1651.30, end: 1654.18}
+  - {text: "This is where you got your news.", start: 1654.68, end: 1655.84}
+  - {text: "This is where things developed in a way they had not developed before.", start: 1656.00, end: 1660.26}
+  - {text: "They really hadn't developed in this way before because political news was largely concentrated and distributed in a kind of need -to -know basis.", start: 1660.66, end: 1668.64}
+  - {text: "So it was people...", start: 1669.56, end: 1670.54}
+  - {text: "And one of the reasons why Charles II wanted to shut down the coffee houses is because people who weren't cautious and politicians were discussing politics.", start: 1670.54, end: 1678.14}
+  - {text: "How dare they enter into political debate and think that they could have something to say about the future of the country?", start: 1678.30, end: 1684.22}
+  - {text: "Jonathan Morris, what's happening with the production of coffee and how is it produced and how much labour is involved and what do you have to say about that?", start: 1685.28, end: 1695.36}
+  - {text: "Right. Well, I think what we need to think about is that at this point, as coffee spreads into more general use in Europe, so virtually all of those imperial countries start creating colonies", start: 1696.00, end: 1708.50}
+  - {text: "or start planting into their colonies coffee and creating plantations to cultivate it.", start: 1708.50, end: 1713.82}
+  - {text: "Probably the largest coffee suppliers are the French.", start: 1714.54, end: 1719.92}
+  - {text: "The French take coffee to the Caribbean.", start: 1720.24, end: 1722.64}
+  - {text: "They take it to Martinique, but most of all they plant in what is then called San Domingue, what we now refer to as Haiti.", start: 1723.24, end: 1730.74}
+  - {text: "By the 1760s, 1770s, that has well over half of the world's coffee is being produced there.", start: 1731.42, end: 1738.30}
+  - {text: "All of that production is carried out using slave production.", start: 1739.10, end: 1743.40}
+  - {text: "Is that okay? Or is there a ripple beginning to turn to a flood that that's not okay?", start: 1743.78, end: 1747.74}
+  - {text: "So what happens particularly in San Domingue is that with the outbreak, as it were, the development of Enlightenment ideas and the outbreak of the French Revolution in Paris itself,", start: 1748.74, end: 1759.74}
+  - {text: "that those ideas also penetrate into San Domingue.", start: 1760.18, end: 1762.74}
+  - {text: "And they begin to agitate for their rights.", start: 1763.24, end: 1766.44}
+  - {text: "This ultimately coincides in the creation of what becomes the Haitian Revolution in which both as it were Jean de Colleur pushing for the emancipation of slaves and the slaves themselves become involved.", start: 1766.64, end: 1780.68}
+  - {text: "That ultimately leads to, as we know, the creation of the First Black Republic in Haiti, which unfortunately also leads to pretty much the destruction of the coffee system in Haiti.", start: 1780.68, end: 1792.84}
+  - {text: "So about a thousand plantations are destroyed.", start: 1793.02, end: 1795.38}
+  - {text: "Interesting, quite a few of the leaders of the revolution, not least Toussaint Louverture himself, were in some way coffee producers.", start: 1796.20, end: 1805.42}
+  - {text: "So we have this kind of very confused situation, but the end of it, what we end up with is the destruction of first the coffee industry in Haiti", start: 1806.06, end: 1814.36}
+  - {text: "and then once the Haitian Republic is established its inability to re -enter into the trade because of the refusal of many of the rest of", start: 1814.36, end: 1822.82}
+  - {text: "the world to do business with the Black Republic.", start: 1822.82, end: 1824.88}
+  - {text: "Mark Minnellis, what criticisms were of the new coffee culture, both the slavery side and the idea of these rampaging associations in London, that sort of thing?", start: 1825.28, end: 1834.74}
+  - {text: "So coffee had always had its detractors from when it first arrived, this strange black, hot, bitter drink.", start: 1835.06, end: 1842.20}
+  - {text: "So it was an obvious sort of subject for satirical attacks and criticism.", start: 1842.86, end: 1847.02}
+  - {text: "It had critics of its physiological effects as well that we've been hearing about.", start: 1847.64, end: 1852.46}
+  - {text: "I mean medically, people accused it of being both an intoxicant and an aphrodisiac, but also causing impotence and obstructing the bowels and things like that.", start: 1852.62, end: 1862.96}
+  - {text: "And then people also accused it of wasting people's time hanging around in coffee houses talking to each other, keeping talking because that's the effect that coffee has long into the night when people should have been working.", start: 1863.10, end: 1876.14}
+  - {text: "So apprentices and law students are particularly accused of spending far too much time in the coffee house.", start: 1876.42, end: 1881.40}
+  - {text: "People also accused it of being an exotic luxury, wasting the nation's hard currency for a product which has no nutritional value.", start: 1882.10, end: 1893.98}
+  - {text: "And so there's sort of connection between physiological fear of the effects that coffee was having on British masculinity as it were on British men and the social effects", start: 1896.33, end: 1913.24}
+  - {text: "that coffee having becomes a sort of vector for hostility to coffee and to coffee houses.", start: 1913.24, end: 1917.84}
+  - {text: "Judith, Judith Hawley, coffee drinking, coffee trade declined in the 90th century, how was that?", start: 1918.60, end: 1925.56}
+  - {text: "A number of reasons, I think cultural, commercial, geographical changes happened over the course of about 50 years.", start: 1926.00, end: 1934.04}
+  - {text: "In the middle of the 18th century the royal family took to tea drinking and coffee was no longer quite such the buzzy drink.", start: 1934.46, end: 1942.70}
+  - {text: "Tea became more refined.", start: 1943.24, end: 1944.80}
+  - {text: "Tea was also something that you could drink at home so it could be more widespread.", start: 1945.18, end: 1948.72}
+  - {text: "Coffee was something you drank in a coffee house, all men.", start: 1948.72, end: 1951.82}
+  - {text: "You could drink at home, the lady at the house could preside over the tea table.", start: 1952.16, end: 1955.84}
+  - {text: "Also because of the Dutch East India Company doing so well with coffee trade, the British East India Company I think put more of its effort into tea drinking.", start: 1956.68, end: 1967.20}
+  - {text: "So there's a big commercial pressure to keep producing tea and making tea more saleable.", start: 1967.42, end: 1973.12}
+  - {text: "And Markman's also described how the coffee houses became kind of clubs and closed shops.", start: 1973.78, end: 1979.10}
+  - {text: "Some of them commercially shut themselves off to new members.", start: 1979.88, end: 1983.34}
+  - {text: "Some of the more fashionable ones around St James's like Whites became members -only clubs.", start: 1983.86, end: 1989.48}
+  - {text: "They became elite institution and became associated with gambling.", start: 1989.58, end: 1993.70}
+  - {text: "Also when city merchants started to move out of the city of London and didn't live there anymore these premises couldn't really keep going because if", start: 1994.92, end: 2004.12}
+  - {text: "all the merchants were living above the shop they could go to the coffee house several times a day and peeps describes going to a coffee house three or four times a day.", start: 2004.12, end: 2011.16}
+  - {text: "But once you're no longer living in the city it became more of a working -class drink in the 19th century.", start: 2011.52, end: 2016.72}
+  - {text: "So there were coffee shacks and carts like the sort of street carts that you get still in London you get all over New York that", start: 2017.30, end: 2023.04}
+  - {text: "is a cheap quick drink to perk you up.", start: 2023.04, end: 2025.18}
+  - {text: "And the temperance movement sponsored coffee taverns to try to wean working men off going to the pub for lunch.", start: 2025.90, end: 2032.90}
+  - {text: "So it moved it declined seriously and has never fully recovered even in the current coffee boom.", start: 2033.68, end: 2039.98}
+  - {text: "Jonathan Morris how did coffee become so very popular in America?", start: 2041.32, end: 2046.96}
+  - {text: "Well America is really the first mass market for coffee and what we see is obviously a gradual increase over the 19th century but we see a big growth immediately after the Civil War", start: 2047.86, end: 2058.38}
+  - {text: "and that's probably because in terms of the armies of the Civil War the Confederate army consumed a large amount of coffee coffee obviously has psychoactive properties", start: 2058.38, end: 2068.04}
+  - {text: "which we've discussed that was seen as a good thing by the generals to keep their soldiers alert their soldiers became very keen on coffee and were drinking coffee", start: 2068.04, end: 2075.72}
+  - {text: "as they put it between meals with meals after meals on every route march we have to have coffee before we start and so forth.", start: 2075.72, end: 2082.46}
+  - {text: "So the coffee ration that was actually given to each soldier probably would have supported about making 10 cups of coffee a day.", start: 2082.60, end: 2089.48}
+  - {text: "Obviously once those people are demobilized that's quite a latent demand for coffee and that they're also then demobilized into the society at the time of", start: 2090.20, end: 2099.78}
+  - {text: "the Great Expansion of moving out westwards moving out on the ranches the cowboys etc and that creates a further demand for coffee to support that and we see that being then addressed through technological discoveries.", start: 2099.78, end: 2116.16}
+  - {text: "Most of all through the creation of an industrial coffee roasting plant and industrial coffee roasting as a business.", start: 2116.36, end: 2123.26}
+  - {text: "So by 1873 we have the first branded coffee that's called Ariosa very much marketed at people making that restored move and marketed by a company called Arbuckles in Philadelphia", start: 2124.00, end: 2136.48}
+  - {text: "and from there that we see by 1913 that basically about 85 % of American consumption is of branded coffee so there has been the creation of this market for an industrial commodity.", start: 2136.48, end: 2152.00}
+  - {text: "Thank you. Markman Ellis let's turn to Brazil which at one stage was the biggest producer is it still anyway the biggest producer of coffee in the world 70 % I think of the world's coffee produced in Brazil", start: 2152.82, end: 2164.20}
+  - {text: "80 % of the 70 % went to America can you tell us how that happened?", start: 2164.78, end: 2168.54}
+  - {text: "Yeah so the demand which Jonathan has just been describing that grows in America in the 19th century had to come from somewhere and it wasn't America", start: 2169.20, end: 2175.86}
+  - {text: "and Brazil grows in importance in the coffee trade.", start: 2176.68, end: 2181.18}
+  - {text: "So coffee had been first been taken to Brazil in 1727 in the beginning of the 18th century but it's not really till the beginning of the 19th century that the plantations really take off.", start: 2181.50, end: 2191.22}
+  - {text: "In Brazil they're particularly on the Atlantic seaboard around Rio de Janeiro and Sao Paulo they're they expand in size coffee plantations in Brazil are massive compared to other places", start: 2191.64, end: 2205.88}
+  - {text: "the labor that's used on them is slave labor far later than anywhere else from inside Brazil or?", start: 2206.86, end: 2214.48}
+  - {text: "Again from Africa and imported from Africa and the slave trade wasn't abolished in Brazil until 1850 and the slavery itself wasn't abolished until 1888 which is a long time after anywhere else", start: 2214.68, end: 2227.98}
+  - {text: "so that these are big industrialised slave driven coffee plantations in a fertile country using forms of quite destructive agriculture which used which you know deforested it has said deforested the Atlantic seaboard of Brazil and produced large quantities of coffee relatively cheaply", start: 2228.54, end: 2253.42}
+  - {text: "so the demand in America is growing and in Europe and Brazil was able to supply cheap but also relatively high quality coffee in huge quantity so that by the from the period from", start: 2254.42, end: 2265.80}
+  - {text: "1870 through to 1950 Brazil supplied more than 50 % some years up to 70 % of the world's global supply of coffee and it's still by far the largest producer I think about you know somewhere between a third and a half of the global production", start: 2266.60, end: 2281.74}
+  - {text: "is Brazil given the slaves have gone how does it produce it now?", start: 2282.44, end: 2286.46}
+  - {text: "so after slavery was abolished and the people who had previously been slaves were unwilling to work on the plantations as you can imagine they tried indentured labour especially from southern Europe and from Japan which accounts for the large,", start: 2287.26, end: 2302.56}
+  - {text: "partly accounts for the large populations of Japanese and Italian immigrants in Brazil and they mechanized more of the production so that it didn't require as much labour", start: 2302.86, end: 2315.96}
+  - {text: "when slave labour is not available then the next step is steam driven how big was this trade compared to other trades that were going on cotton and all the rest of it?", start: 2315.96, end: 2326.64}
+  - {text: "was this a big deal?", start: 2326.64, end: 2327.88}
+  - {text: "well in terms of Brazil it's the biggest deal without a doubt so for Brazil that's the number one agricultural commodity at that time so the Brazilian economy is based on that right up until really the middle of the 20th century", start: 2328.44, end: 2341.04}
+  - {text: "Judith do we know that the taste of coffee, the making of coffee has changed has it changed, how radical has it changed are we drinking the same stuff they don't?", start: 2341.90, end: 2352.38}
+  - {text: "I think we're drinking very different stuff Mark when actually has a very good phrase for this I think because it's the ugo of sir reverence it has the goo the taste, the ugo of sir reverence which means excrement", start: 2352.64, end: 2364.60}
+  - {text: "the introduction of milk the gradual control of the roasting process so you could roast coffee beans to at different temperatures in a more stable way the removal of impurities", start: 2365.66, end: 2382.16}
+  - {text: "that all improved coffee but at the same time some much worse coffee was coming on the market so in the late 19th century there was a terrible disease of the coffee plant", start: 2382.16, end: 2393.36}
+  - {text: "that wiped out over the course of about 30 years most of the coffee plantations in the West Indies the Dutch managed to source a different type of coffee called Robusta in the Congo", start: 2393.36, end: 2405.90}
+  - {text: "and Robusta is the coffee which now is produced a lot of it is produced in Brazil but also in Vietnam and it's a cheaper, nastier burnt rubber sort of taste", start: 2405.90, end: 2418.32}
+  - {text: "so therefore we're talking about addiction if people are going to keep swallowing this is that right?", start: 2418.32, end: 2422.74}
+  - {text: "so the caffeine theory of coffee's victory over our taste buds would suggest that it is the addictiveness which keeps us drinking but I think that coffee has a complicated array of effects", start: 2423.30, end: 2436.60}
+  - {text: "and the idea that it's a sort of social drug a thinking drug is also really important in the way we approach coffee do you have evidence for that?", start: 2436.60, end: 2446.14}
+  - {text: "that's a thinking drug only my own experience you've got your own experience that's useful, what does it do to you?", start: 2449.06, end: 2457.30}
+  - {text: "the morning doesn't work until I've had my coffee same for Voltaire, same for Balzac Voltaire wrote the Enlightenment on 40 cups of coffee a day Balzac kind of invented France in a way, he invented Paris in his amazing novels by drinking coffee all night", start: 2457.66, end: 2474.64}
+  - {text: "well that's a bit of good enough for Voltaire, what do you say?", start: 2475.85, end: 2478.31}
+  - {text: "good enough for Balzac?", start: 2478.45, end: 2479.83}
+  - {text: "it's good enough for Balzac, that was probably well 50 cups of coffee a day strikes me as a little bit excessive but I would say coffee it's addictive", start: 2480.35, end: 2489.13}
+  - {text: "but that addiction is quite a mild addiction and in fact coffee is very much like alcohol really we process we each process our coffee in different ways", start: 2489.13, end: 2499.09}
+  - {text: "as a half -life in our body we can probably take a certain amount of coffee without becoming addicted to craving the next cup of coffee", start: 2499.09, end: 2506.33}
+  - {text: "to go around the table how in your view has coffee changed society?", start: 2506.33, end: 2511.55}
+  - {text: "it's a small question to ask you starting with you well I think coffee I think places puts people in a place where they can be more sociable be together more often", start: 2511.81, end: 2526.69}
+  - {text: "in a way which is reflective and philosophical and maybe sociable and discursive so it adds to the way in which we suffer each other when we live closely together in cities thank you", start: 2527.45, end: 2540.81}
+  - {text: "that was Mark Amalis I didn't introduce him at the beginning of my question now Judith I think if we look at the way coffee consumption is going today", start: 2540.81, end: 2548.47}
+  - {text: "it seems to me to set out two quite radical alternatives for the world one is the world of corporate coffee the coffee chains existing on", start: 2548.91, end: 2558.11}
+  - {text: "a low wage economy so you have that kind of mass coffee market on the one hand on the other hand you have these micro lotter states fair trade coffee the sort of hipster coffee", start: 2558.72, end: 2571.83}
+  - {text: "which is as varied and as interesting as fine wines and it's made in an artisanal way and designed to be consumed by a kind of small self -selecting perhaps", start: 2571.83, end: 2586.57}
+  - {text: "but it's a very different model of how to live and Jonathan I'm going to start by disagreeing a little bit because the corporate chains that you're referring to actually created", start: 2587.45, end: 2598.29}
+  - {text: "that market for the specialty coffee and in fact I think the big division we have to think about is really the division between coffee being drunk", start: 2598.29, end: 2605.89}
+  - {text: "as coffee in the coffee shop and the kind of mass coffee that we have as coffee products most of which is drunk in the home or used in other ways in the home and that actually reflects back into the coffee market", start: 2605.89, end: 2617.47}
+  - {text: "because if I was going to make a difference it would be between the kind of mechanised large scale farming that Markman's been talking about in Brazil", start: 2618.07, end: 2625.87}
+  - {text: "and the vast majority of coffee in the world which is grown by small holders across Africa and Asia where they have very small amounts of land and are growing as a subsistence crop", start: 2625.87, end: 2635.67}
+  - {text: "and the problem that we have and if you like the problem coming out of history is that because labour has always been historically very lowly compensated in the coffee industry the price", start: 2636.15, end: 2647.87}
+  - {text: "that goes back and gets back to those small holders is very very low and consequently very frequently does not actually reflect the labour that they put in to the point", start: 2647.87, end: 2659.79}
+  - {text: "that they may actually if this is priced out correctly be losing money by growing coffee for us to consume.", start: 2659.79, end: 2666.57}
+  - {text: "Well that's a rather bleak ending but none the worse for that, thank you very much thank you very much Jonathan Morris, Markman Ellis and Judith Hawley.", start: 2667.55, end: 2676.03}
+  - {text: "Next week stop all the clocks, cut off the telephone as we'll be discussing WH Orden and his poetry from the dark days of the 1930s thank you very much for listening.", start: 2676.11, end: 2685.91}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Melvin and his guests.", start: 2686.75, end: 2693.11}
+  - {text: "I came across two very interesting facts about coffee recently when Jonathan was talking about the importance of coffee to American soldiers I came across a fact", start: 2693.71, end: 2706.63}
+  - {text: "which sort of tallies with that that as the Swiss government stockpiles essential food stocks in case of nuclear wars and I presume and rather hope", start: 2706.63, end: 2716.51}
+  - {text: "that other governments do too and they have a huge stockpile of tons and tons of coffee and they thought this isn't really an essential and it's taking out room that could be taken up with lithium ion batteries or whatever they thought was more essential", start: 2716.51, end: 2727.65}
+  - {text: "sardines or soya or whatever but the Swiss people rose up and said no we must coffee is an essential, we've got to keep it the other thing I came across recently which", start: 2728.43, end: 2739.81}
+  - {text: "surprised me a lot and somehow brings together the two ends of our history the kind of the Arabian oriental history and the modern European history and that is that in Algeria", start: 2740.33, end: 2753.75}
+  - {text: "in the 19th and 20th centuries when the French colonised Algeria there was a thriving Algerian coffee culture which is very like the oriental culture men drinking in the afternoon chatting along tonight drinking", start: 2754.53, end: 2766.79}
+  - {text: "that kind of coffee the French brought coffee with them as a colonising force and they couldn't really understand they rather look down on this local coffee culture they thought", start: 2766.79, end: 2777.45}
+  - {text: "that these people were as Markman was talking about the gossip and the idleness they're wasting their time sitting around gossiping whereas the French were drinking", start: 2777.45, end: 2786.15}
+  - {text: "their kind of coffee at the right time to the day first thing in the morning and after dinner were able to be fit, alert, intelligent", start: 2786.15, end: 2793.93}
+  - {text: "and efficient whereas these natives were drinking coffee in a way which rendered them luxurious and idle an interesting reflection on that is that actually coffee growing", start: 2793.93, end: 2804.65}
+  - {text: "and coffee growing countries which is generally as we said drink very little coffee and part of the reason for that is that actually their own governments", start: 2804.65, end: 2812.03}
+  - {text: "or their own rulers have prevented them from so doing not least for example say Kenya had a rule that you couldn't roast coffee in the country and that was in place up until the 2000s", start: 2812.03, end: 2821.95}
+  - {text: "what we do see is actually that where coffee is consumed in those economies it is standard instant style coffee so we have the irony that these coffee growing countries are drinking coffee in ways", start: 2822.65, end: 2836.49}
+  - {text: "that are very much the ways that we have developed to actually sort of compress and frankly reduce the quality of the coffee and the time", start: 2836.49, end: 2847.53}
+  - {text: "that goes into it given that it was early thought that coffee kept the workers awake to do the real work of that time which was prayer", start: 2847.53, end: 2855.51}
+  - {text: "why didn't they think coffee kept workers awake to do the essential work which is picking coffee beans that's an interesting question I think that the answer would probably be A", start: 2856.27, end: 2867.48}
+  - {text: "because of the time that it takes to prepare from scratch because you'd have to roast your own beans on the site to start doing that", start: 2867.48, end: 2873.78}
+  - {text: "and also because tea is the usual drink there and tea obviously your leaves are right there so you can take the tea leaves and create an infusion straight away to do", start: 2874.90, end: 2885.22}
+  - {text: "that coffee is very much an urban drink and we're beginning to see the growth of coffee in as it were non -traditional markets precisely as they urbanize so", start: 2885.22, end: 2895.54}
+  - {text: "including markets like say China Asia including now markets like Africa South and a little bit like South America so as we see increased urbanization we actually see people leaving the coffee fields going into the cities and taking up the coffee habit what about Italy,", start: 2896.58, end: 2913.62}
+  - {text: "we missed out Italy I'm going to claim it because that really is my thing I'm going to claim Italy what would you like to know about it everything you have on mind", start: 2913.78, end: 2923.02}
+  - {text: "but briefly succinctly fine okay well Italy has obviously is very proud of its coffee culture really that coffee culture although if we said Italy is the entry point for coffee into Europe it really becomes developed with the distinctiveness of espresso", start: 2924.08, end: 2940.34}
+  - {text: "espresso is a way of basically preparing coffee and the essence of it is using pressure to speed up the time of extraction beginning of the", start: 2941.32, end: 2951.76}
+  - {text: "century you see these first wonderful big huge vertical coffee machines with big steam boilers making things that they call espresso because they're making coffee expressly", start: 2951.76, end: 2961.76}
+  - {text: "for each individual customer they're making it by expressing using a certain amount of steam pressure water through the coffee and they're making it much quicker though for", start: 2961.76, end: 2972.46}
+  - {text: "that period it's about 40 seconds when we start thinking about espresso is really with the revolution that comes immediately after the Second World War with a Keeley Gadger", start: 2972.46, end: 2983.74}
+  - {text: "who produced the lever machine which actually is kind of a spring coiled machine and consequently using that piston is able to push water through at much higher pressure it's about sort of 9 to 12 bars once", start: 2983.74, end: 2997.74}
+  - {text: "that standardize with the application of electricity and so forth and Italy at that time again is urbanizing very rapidly and also venerating electricity we have the development of the Italian coffee bar fast coffee short shots delivered quickly", start: 2997.74, end: 3012.46}
+  - {text: "and we also have the Italian coffee culture standing up drinking the coffee going in, going out very quickly part of that is because the Italians had a law", start: 3012.46, end: 3022.52}
+  - {text: "that enabled them to put a maximum price on coffee but it was a cup of coffee served without service if that makes sense so it had to be a cup of coffee just passed across the bar and as a result", start: 3022.52, end: 3034.10}
+  - {text: "that coffee price has kept very low everyone takes their coffee standing up one of the reasons why only now do we have in the last couple of years Starbucks opening in Italy is", start: 3034.66, end: 3046.26}
+  - {text: "because there was no market for that because basically the prices would have been far too high to generate any real demand amongst the Italian people", start: 3046.26, end: 3054.36}
+  - {text: "and this is why this is the Italian seminar we're going to this is the Italian seminar yes, Mormon has survived I think Britain had become a tea drinking nation by the 1820s", start: 3055.04, end: 3066.36}
+  - {text: "and most of the the British Empire was tea drinking through the 19th and 20th century and it's through post war the Italian coffee making method but also the idea of the Italian cafe that coffee recolonizes", start: 3066.36, end: 3081.50}
+  - {text: "Britain and Australia and New Zealand for example so now we have in Britain many many more coffee shops than we do tea shops and people go out for coffee they might drink tea but they go out for coffee", start: 3082.46, end: 3099.76}
+  - {text: "and so the coffee has come back in Britain on the back of the Italian invention of reinventing the sociable space of drinking coffee but there's another aspect to the Italian coffee culture", start: 3100.78, end: 3112.98}
+  - {text: "which I think of as a kind of fascistic which has fascistic elements to it and that's the introduction of the mocha stovetop coffee machine which became very popular in the 1930s was favoured by fascism", start: 3112.98, end: 3127.66}
+  - {text: "and partly because the machines these devices which you screwed the two halves together you put it on your stove the made of aluminium which was this modernist efficient", start: 3127.66, end: 3137.90}
+  - {text: "metal but also it was shrunk in the home you're bringing modernity into the domestic space and it's a wonderful combination some of the biggest machines were modelled on steam engines this little stovetop machine takes this inspiration from a washing machine so it's kind of domestic", start: 3138.92, end: 3156.36}
+  - {text: "and it's machine made it's external and it's internal all at the same time it's definitely true that the Bialetti is created in the 30s and the reason", start: 3157.08, end: 3166.68}
+  - {text: "as you say the use of aluminium is very important there is a sort of austerity metal really but the same austerity means that actually the", start: 3166.68, end: 3174.12}
+  - {text: "fascists don't really approve of coffee coffee imports kind of decline during the whole of fascism because they regard it exactly as what Markman was saying it's a drink", start: 3174.12, end: 3184.70}
+  - {text: "that is a luxury because it's imported so as early as 1926 espresso machines the installation of espresso machines is temporarily outlawed in fascist Italy in order to stop people drinking luxurious coffee", start: 3184.70, end: 3198.18}
+  - {text: "so the real takeoff of that machine it's really in the 50s the Bialetti that's when it kind of spreads across the whole household I think the other just to go back to Markman's point about the spread of Italian style coffee houses", start: 3198.18, end: 3212.32}
+  - {text: "is also that of course those are all based on those milkified drinks so that we have that kind of again a weird thing whereby Italy drinks 80 % black coffee and we drink 90 % white coffee but it's Italian style coffee", start: 3213.06, end: 3229.66}
+  - {text: "but there are all those connotations again of class and to some extent gender so the class one the whole notion of the latte liberal is a huge thing in the spread of the chain", start: 3230.48, end: 3241.92}
+  - {text: "if you look at the spread of Starbucks and mapped it against states that are red states and states that are blue states everything will be blue states for the first sort of 20 years", start: 3241.92, end: 3251.84}
+  - {text: "and it's only much later that it really begins to penetrate into those American heartland type states and the same discourse you would still find today in the British press if you want a quick a quick designation for guardian reading liberal it will be latte sipping", start: 3251.84, end: 3269.02}
+  - {text: "sat over there cappuccino we know what's actually implied when we hear that can you do all these photos like that I couldn't have a go for that", start: 3269.92, end: 3277.64}
+  - {text: "but I think it's something rather infantilizing about this spread of latte more than any other drink the quantity of milk in that cup the way in which people are drinking these", start: 3278.46, end: 3289.46}
+  - {text: "disposable cups these sort of sucky cups they look like baby cups and they're walking slowly down the streets sucking on their milky drinks it's very different from standing at the bar", start: 3290.72, end: 3302.04}
+  - {text: "and having your shot of manly espresso and then rushing off to do some important business and the milk is largely unexamined only very recently have people started worrying about whether", start: 3302.04, end: 3312.22}
+  - {text: "or not the milk is organic and where it's sourced from with soy milk so there's huge quantities of milk which are being consumed and there's usually in coffee", start: 3312.22, end: 3323.06}
+  - {text: "houses very little talk of the milk it's all about the romance of coffee even though the coffee is a vanishingly small percentage of the actual drink where did the cognac go in your talk I think for a while", start: 3323.56, end: 3337.04}
+  - {text: "when I was 17 and a half worked in Paris with the Abbe Pierre and we went round in the morning collecting stuff from back of big houses", start: 3337.78, end: 3345.86}
+  - {text: "and such on these great lorries and the guys stopped and you nipped into a bar and they had coffee and cognac it was a very startling way for a northern lad to start the day", start: 3345.86, end: 3355.96}
+  - {text: "it was probably that the French cafe cultures are rather different partly because of the licensing laws so when cafes were first opened in Paris, I think I'm right about this the Vintners", start: 3358.58, end: 3370.02}
+  - {text: "had a greater dominance in the era and so the coffee was only sold in licensed premises so coffee was always sold alongside alcohol now 18th century British coffee houses sometimes served alcohol but they weren't primarily wine bars restaurants", start: 3370.54, end: 3385.42}
+  - {text: "taverns and inns they were designated coffee shops I mean I think this is the big thing is that the continental café starts from that sort of guild restriction or rather the way that the coffee is assigned to a guild and it's assigned to the", start: 3386.60, end: 3401.16}
+  - {text: "stillers guild and they are given the license to serve distills at table I think that your taste is about to be tested as the producer comes in", start: 3401.94, end: 3411.72}
+  - {text: "just curious do you want tea or is it all coffee coffee coffee I'm going to have to try your coffee yeah BTC coffee it's another", start: 3412.60, end: 3426.60}
+  - {text: "category entirely Zandi happy anniversary what are you talking about have I missed something?", start: 3426.60, end: 3432.92}
+  - {text: "we are over a year into making whatsapp docs you didn't even get me a card is it really over a year?", start: 3433.20, end: 3440.12}
+  - {text: "it is, think of all the episodes we've done how to look after our feet our shoulders, our hips, our teeth we've explored snoring, cholesterol the immune system,", start: 3440.24, end: 3448.18}
+  - {text: "endometriosis all with the help of expert guests I think it's fair to say we have plundered the world of health and well -being equipping ourselves and our listeners with the best information out there on how to look after our minds our bodies,", start: 3448.34, end: 3461.86}
+  - {text: "our souls even and we're not stopping are we Chris?", start: 3462.32, end: 3464.62}
+  - {text: "we're most certainly not son, we have a lot of new topics coming up from tinnitus to acne crying, male fertility we are holding steadfast in our mission to sort facts from fiction,", start: 3464.80, end: 3475.84}
+  - {text: "debunking wellness myths along the way and you can find all of our previous episodes of whatsapp docs in the feed on BBC sounds and don't forget to subscribe on BBC sounds", start: 3476.26, end: 3485.58}
+  - {text: "and turn on the notifications so you don't miss any of these upcoming episodes", start: 3485.58, end: 3489.66}
+---

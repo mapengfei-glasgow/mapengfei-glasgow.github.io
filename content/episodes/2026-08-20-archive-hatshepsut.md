@@ -1,0 +1,296 @@
+---
+layout: single
+title: "Archive: Hatshepsut"
+show: "In Our Time"
+date: 2026-08-20T00:00:00Z
+slug: "2026-08-20-archive-hatshepsut"
+audioDir: "2026-08-20-archive-hatshepsut"
+totalDuration: 2929.6
+sentences:
+  - {text: "BBC sounds music radio podcasts.", start: 1.10, end: 4.26}
+  - {text: "I know that my son is somewhere alive this is Deborah Tice her son Austin is one of the biggest missing person cases in the world he disappeared in Syria more than a decade ago", start: 7.07, end: 19.65}
+  - {text: "and for years I've been searching for him we've spoken to spies tracked down wall criminals and uncovered evidence that has never been made public I want to know about my time where is Austin Tice listen on BBC sounds hi", start: 19.65, end: 35.63}
+  - {text: "this is Misha Glennie episodes of in our time are released weekly wherever you get your podcasts but if you can't wait head over to BBC sounds", start: 36.33, end: 46.39}
+  - {text: "where you can listen to the latest episodes a month earlier than anywhere else this is in our time from BBC Radio 4 and this is", start: 46.39, end: 55.97}
+  - {text: "one of more than a thousand episodes you can find in the in our time archive a reading list for this edition can be found in", start: 55.97, end: 63.39}
+  - {text: "the episode description wherever you're listening I hope you enjoy the program one of the great pleasures of in our time is its serendipitous nature the", start: 63.39, end: 73.51}
+  - {text: "subjects are full of surprises sometimes it could be an author you particularly admire and you wish to compare your knowledge against the deep understanding of the guests the next week comes a subject you've never heard of", start: 73.51, end: 86.05}
+  - {text: "and that's why for this selection of highlights from Melvin Bragg's voluminous treasure trove of episodes I have selected one about which I knew absolutely nothing until I heard it the story of Hatshepsut", start: 86.05, end: 100.53}
+  - {text: "whose life answers the mysterious question when is a queen not a queen and the answer is when she's a king the ancient Egyptians had no word for Queen", start: 100.53, end: 112.85}
+  - {text: "and so once she became co -ruler with her baby stepson she was designated a king Hatshepsut had a serious impact on the royal culture of the pharaonic rule", start: 112.85, end: 124.66}
+  - {text: "and left a rich legacy of statues and buildings and Melvin's guests played a significant role in piecing together what it tells us about Egyptian society in the second millennium BCE", start: 124.66, end: 138.02}
+  - {text: "but she also inspired jealousy including in her stepson Tutmose the third who after her death began erasing her from the history of ancient Egypt and", start: 138.02, end: 149.94}
+  - {text: "if you're interested in pornographic graffiti remember to listen to the bonus material part of this episode where Melvin and the academics boldly go where not many of his guests have gone before", start: 149.94, end: 161.50}
+  - {text: "or since enjoy listening hello in the early 15th century BC a woman came to power in ancient Egypt her name was Hatshepsut and she remained", start: 161.50, end: 172.60}
+  - {text: "the longest -reigning female pharaoh until Cleopatra 1400 years later she was remarkable for ruling in a society normally controlled by men she ruled for about 15 years", start: 172.60, end: 182.38}
+  - {text: "but that's far from the most remarkable thing about her many scholars regard her as one of the most influential pharaohs of the new kingdom period", start: 182.38, end: 189.42}
+  - {text: "of Egyptian history among her achievements she forever changed the public image of the pharaoh embarked on a far -reaching building program and increased Egypt prosperity", start: 189.42, end: 197.70}
+  - {text: "by expanding its trade network yet at some point after her death it seems that a systematic attempt was made to erase her memory from the records", start: 197.70, end: 205.30}
+  - {text: "and her image was removed from many of her monuments with me to discuss Hatshepsut's life and legacy are Elizabeth Frude associate professor of Egyptology at", start: 205.30, end: 214.62}
+  - {text: "the University of Oxford Kate Spence lecturer in Egyptian archaeology at the University of Cambridge and Campbell Price curator of Egypt and Sudan at the Manchester", start: 214.62, end: 225.09}
+  - {text: "Museum Elizabeth Frude Hatshepsut was born around 1500 BC not long after a period of turmoil turmoil even in Egyptian history what had been going on well", start: 225.09, end: 236.01}
+  - {text: "when Hatshepsut came to the throne Egypt had been stable and centralized for only about 70 years and that's only three three four generations prior to", start: 236.01, end: 245.19}
+  - {text: "that time Egypt had been split into a number of different kingdoms so in the north you have what we call the Hexos rulers and these are rulers", start: 245.19, end: 254.17}
+  - {text: "that probably were of Canaanite origin so from Syria Palestine and they seem to have set up at least one or maybe several kind of kingdoms", start: 254.17, end: 261.17}
+  - {text: "in the Delta area to the south far in in north Sudan you have the Kingdom of Kush which is a major African kingdom based in the site of Kerma", start: 261.17, end: 271.29}
+  - {text: "which is just south of the Third Cataract so you have these major foreign ruled polities on either end of Egypt and the deep in the south", start: 271.29, end: 279.05}
+  - {text: "but coming into Egyptian typical Egyptian territory and these Hexos kings in the north and squeezed in the middle you have Egyptian dynasty's Egyptian kingdoms one at a Baidos", start: 279.05, end: 291.35}
+  - {text: "which has recently be confirmed archaeologically and a nascent kingdom in Thebes and it's this Theban kingdom that leads and drives the unification of Egypt at", start: 291.35, end: 301.59}
+  - {text: "the start of the end of the 17th dynasty the start of the 18th dynasty and it's that Theban dynasty it's those Theban kings that Hatshepsut has descended from", start: 301.59, end: 309.19}
+  - {text: "so those conquerors those kind of reunifies of Egypt as is where she she has her origins that's the family she just descended from and this cultural memory of Egypt's trauma", start: 309.19, end: 320.93}
+  - {text: "and this kind of split and division that that it was under for a couple of hundred years is still very present it's still very much part of cultural memory so how did it become stabilized and active", start: 320.93, end: 333.19}
+  - {text: "conquering again the these kings that were established in the Theban area which is modern Luxor they started this this program of reunification so a series", start: 334.19, end: 344.23}
+  - {text: "of military excursions down into the north to drive out the Hexos probably to take over this a Biden dynasty as well and maybe other kinglets you know just to gradually expand gradually consolidate drive out the foreign rulers", start: 344.23, end: 356.83}
+  - {text: "and push back the Kushite kingdom as well so a series of campaigns under at least three kings of the late 17th and early 18th dynasty were pushing Egypt the borders out and gradually restoring territory and gaining control again and", start: 356.83, end: 371.37}
+  - {text: "Hatshepsut is probably directly descended from these conquering kings yes and the last of those the one from whom she's directly descended particularly effective yes he was the one", start: 371.85, end: 382.91}
+  - {text: "that in in biographical texts and royal texts from the time talks about driving out the Hexos and pushing them up into Syria Palestine is this great kind of final conquering victory", start: 382.91, end: 393.73}
+  - {text: "and and he was he is he is one of her ancestors so it's directly descended from him come on Bryce let's just take a swerve", start: 393.73, end: 401.63}
+  - {text: "for a moment to before we come back to her are there any other examples of female fairies before Hatshepsut yes we have this impression of the Pharaoh", start: 401.63, end: 412.13}
+  - {text: "as being always a man that the the God the Pharaoh is incarnate in the God Horus the Falcon God of Kingship that must always be a man", start: 412.13, end: 421.25}
+  - {text: "but in fact there are lots of women who ruled Egypt and what I think you've got you mean by a lot how many it's hard to put a number on it", start: 421.25, end: 429.61}
+  - {text: "but if you imagine the the life expectancy of even a royal person in Egypt was not great women ended up ruling as regents a lot for young children", start: 429.61, end: 443.52}
+  - {text: "so we know the region well right at the beginning of a unified kingdom in Egypt there's a lady called Merneth and she has this really", start: 443.52, end: 453.10}
+  - {text: "big impressive tomb alongside others belonging to male kings she seems to have acted as a region but we don't have texts of a sufficient length", start: 453.10, end: 462.16}
+  - {text: "and detail to to give us more information about that this happens again and again where women seem to step in for young boys boy rulers", start: 462.16, end: 471.90}
+  - {text: "but then there's a lady called sobbing being their mothers or usually yeah yeah the mothers regions regions but not not until the lady called sobbing nefru", start: 471.90, end: 482.86}
+  - {text: "and she really seems to rule not because she's the mother of a young son a young king but on her own terms for about four years", start: 482.86, end: 490.90}
+  - {text: "but 1700 BC and it seems actually that Hatshepsut could have based some of her ideas about presentation on this lady sobbing nefru but then just", start: 490.90, end: 501.52}
+  - {text: "as Liz said just immediately before Hatshepsut comes to the throne there's this war -like dynasty the 17th dynasty and they comprise again several regents powerful women there's one woman in particular Queen Ahoteb", start: 501.52, end: 517.28}
+  - {text: "who we've got a nice text describing her bashing up foreigners and mustering the troops and there's a sense that she's a kind of Amazonian Queen", start: 517.28, end: 527.18}
+  - {text: "so possibly this is an influence for Hatshepsut but you say Amazonian Queen they didn't have a word for Queen and is she a pharaoh or a regent I'm just I'm sorry to be picky", start: 527.18, end: 536.24}
+  - {text: "but no no you're right so there is no word for Queen as in yeah female rule so what is this this this basher as you've", start: 536.24, end: 543.02}
+  - {text: "so eloquently described it what is she is she a regent or is she a pharaoh she's a king's mother who acts again for young son regent yeah but who must control a lot of the the material", start: 543.02, end: 557.42}
+  - {text: "wealth the power in the land and then there's this lady called Akmos Nefertari now she again is a regent mother of a famous king I'm in Hoteb first", start: 558.12, end: 567.50}
+  - {text: "and she after her death becomes worshipped as a goddess so there's a possibility Hatshepsut even met this woman an elderly lady maybe when Hatshepsut was young so there's this precedent for strong", start: 567.50, end: 582.64}
+  - {text: "female characters with real ability in a world where you don't live for very long maybe women have a greater life expectancy we're talking about the average is the early 30s aren't we even less than that yeah but basically dentistry as I understand it abscesses yeah", start: 583.18, end: 598.42}
+  - {text: "and that well that's very clear but I'm just trying to isolate the idea of this woman being a pharaoh and everything that a pharaoh implies", start: 599.10, end: 606.16}
+  - {text: "in terms of depiction in terms of history in terms of influence on Egyptologists such as your good selves so Kate Spence what do we know", start: 606.16, end: 614.38}
+  - {text: "about her immediate ancestors um the early 18th dynasty are descended um from the kings that Liz was talking about earlier um and the throne seems to have passed to someone called Aman Hoteb the first", start: 614.38, end: 629.02}
+  - {text: "who doesn't seem to have left any children um the throne then passes to um a king called Tutmose the third Tutmose the first sorry who is Hatshepsut's father he was probably distantly related to the royal family", start: 629.54, end: 643.72}
+  - {text: "but we have no real evidence of this and he seems to have been married to a woman called Ahmose who was almost certainly directly related to the family of the um rulers who'd actually instigated the 18th dynasty", start: 643.72, end: 658.84}
+  - {text: "and the new kingdom so we have an idea of a royal grouping uh who intermarry and keep the keep the phone going very much so one of the difficulties is it can be difficult to establish", start: 658.84, end: 671.06}
+  - {text: "who is related to who precisely because we don't have the family trees we have relationships to specific kings so someone will have the title of king's mother", start: 671.06, end: 682.32}
+  - {text: "or king's wife king's daughter but we don't actually always know which king they're related to so a lot of ink is spilled over trying to work out quite who is related to whom but Hatshepsut is the daughter of Tutmose the first who was a general", start: 682.32, end: 698.44}
+  - {text: "we think um early in the 18th dynasty and who seems to have stepped in as heir because Amunhotat the first didn't produce any children his wife Ahmose is the great wife", start: 699.02, end: 709.44}
+  - {text: "so she's the chief of many wives within the harem and Hatshepsut seems to have been her eldest daughter there was probably a younger daughter as well Nefru Biti", start: 709.44, end: 718.98}
+  - {text: "and then there are a number of sons that we know about including two called Amunmose and Wajmose who seem to have died before Tutmose the first", start: 718.98, end: 729.06}
+  - {text: "and they then have to find because when he died there doesn't seem to have been an adult male child to pass the throne on to so the throne passes to an individual called Tutmose the second", start: 729.82, end: 741.02}
+  - {text: "who we think was a small child at the time of accession we're not sure exactly how old but he's thought to have been younger than Hatshepsut through a number of quite complicated arguments it's quite complicated enough Frankie", start: 741.54, end: 758.14}
+  - {text: "so we can yeah yeah yeah we can say we've done complication for the moment right okay so we have Tutmose the second and um he then seems to be married to Hatshepsut", start: 758.14, end: 767.40}
+  - {text: "who we think is his half sister and is probably older than he is um this is quite common in the royal family at the beginning", start: 767.40, end: 776.28}
+  - {text: "of the 18th dynasty um Egyptians generally don't seem to have practiced brother sister marriages but this does occur within the family and seems to be particularly strong in the early 18th dynasty the idea seems to have been", start: 776.28, end: 790.90}
+  - {text: "that this is modeled to some degree on divine precedent but primarily probably to keep wealth and power within one family so but she was in given the the secondary developments of wives", start: 790.90, end: 804.56}
+  - {text: "and the other she seems to have been in rather a powerful position Graham was talking about these these powerful royal women and the powerful regions she was already", start: 804.56, end: 813.70}
+  - {text: "that wasn't she because of the primacy of her birth to the first to the first wife and her father's a great warrior and so she's in a strong position already in the court very much", start: 813.70, end: 822.96}
+  - {text: "so she's in an extremely strong position and she already holds important titles um which particularly the title of god's wife of a moon so she's", start: 822.96, end: 832.38}
+  - {text: "embedded in the cult practice um of the theban 18th dynasty at Luxor by this time i met what camel was saying so why did she", start: 832.38, end: 841.62}
+  - {text: "do we know anything about was she forced to marry him did she choose to marry him we know absolutely nothing about this one of the big problems with our records is we vaguely know", start: 841.62, end: 851.94}
+  - {text: "who sort of where relationships are likely to have happened but we know nothing about the motivation other than what we can deduce historically so there", start: 851.94, end: 861.46}
+  - {text: "is no way of knowing whether she was happy with this the likelihood is that she would have expected to marry as the eldest daughter of the major wife", start: 861.46, end: 870.20}
+  - {text: "and the previous rule of pharaoh she would almost certainly have expected to marry whoever was coming to the throne next and if she hadn't married", start: 870.20, end: 877.94}
+  - {text: "that individual there probably would have been no chance for her to marry outside the royal family so again to go back to to grem's idea of there being only one fairer women woman fairer before", start: 877.94, end: 888.20}
+  - {text: "but lots of powerful women she's in the stage of being the most powerful woman in egypt by this marriage it would have put her into the position to become", start: 888.20, end: 896.72}
+  - {text: "that although her mother queen ahmos is probably also a very very powerful individual at the time so there's this sort of line of very strong women", start: 896.72, end: 906.08}
+  - {text: "who gradually sort of shift power between themselves okay come back to you elizabeth prude the qualifications that you rightly made all along the way that gate it seems", start: 906.08, end: 917.44}
+  - {text: "that it we are talking about patchy evidence we are talking about things put together from inscriptions on monuments sometimes half erased sometimes large gaps between", start: 917.44, end: 927.00}
+  - {text: "and so on and so forth but but let's also tell the listener that among the three of you you've got some pretty straightforward not some", start: 927.00, end: 934.78}
+  - {text: "pretty certain ideas of what went on in key areas otherwise you wouldn't do this program would we and so so we take it for granted", start: 934.78, end: 941.92}
+  - {text: "that the evidence is patchy but the evidence is also there and has been knit together over the years by by egyptologists so uh elizabeth so she became", start: 941.92, end: 951.10}
+  - {text: "he her husband became tutmo's the second and do we know what role she played he's the pharaoh now she's what she's the principal wife and", start: 951.70, end: 962.80}
+  - {text: "so in that in that role she would probably participate in rituals in in in temple environments probably supporting rituals to him so um particular kind of temple practices like the the daily ritual in the temple", start: 962.80, end: 977.14}
+  - {text: "and things like that when the king was performing those at maybe particular festivals or something she would probably be part of that um she bore the title of god's wife of almond", start: 977.14, end: 988.12}
+  - {text: "which means she probably had her her own separate set of ritual practices that she was doing in support of the wider royal ritual performance we", start: 988.12, end: 996.92}
+  - {text: "don't know much about what those might have been just from from temple depictions when you talk about rituals i always talk about religious rituals or the state rituals are they it's hard to separate the two actually", start: 996.92, end: 1007.14}
+  - {text: "so um so are they sacrificing stuff or what are they doing they're offering to the gods absolutely so they're offering this they're providing sacrifices of of animals oxen that sort of thing within the temple environments they're not doing this every day", start: 1007.14, end: 1021.38}
+  - {text: "they have priests that run the temple environments and the kings are relatively separate from that for most of the time but on particular occasions they", start: 1021.96, end: 1030.54}
+  - {text: "would be performing we are talking about a priest powerful society aren't we yes so the fact that she camel can i tell you now the fact", start: 1030.54, end: 1038.72}
+  - {text: "that she held the title of god's wife of almond put her among the priests ahead of the priest and gave her her own independent power", start: 1038.72, end: 1046.74}
+  - {text: "and wealth absolutely so as liz alluded to the this role this ritualized role for the queen is an important one to support the pharaoh but", start: 1046.74, end: 1055.24}
+  - {text: "with this title of god's wife of almond there's there's a link a direct link between the woman fulfilling that role and the god and there's it's a quasi sexual role", start: 1055.24, end: 1065.60}
+  - {text: "that's not quite clear to us um but the estate this title came within the state and so you need administrators to to control this vast amount of wealth", start: 1066.68, end: 1077.10}
+  - {text: "that comes with the title and i think it's interesting after hatchet suit that title of god's wife of almond is is dropped for several centuries perhaps out of fear", start: 1077.10, end: 1086.68}
+  - {text: "that women with that title that become too powerful um but it's it's it's an important title it's it's one independent from the pharaoh what in what evidence did they bring to bear then", start: 1086.68, end: 1099.00}
+  - {text: "or did it need evidence that she was god's wife of almond i think i mean in her position in the royal family that was just an accepted role", start: 1099.00, end: 1109.88}
+  - {text: "but don't we have an inscription or a or an illustration of this now literally there are plenty yeah plenty what are those what do they show they show", start: 1109.88, end: 1117.32}
+  - {text: "as with all egyptian scenes almost all egyptian scenes are kind of stereotypes very formal decorous um appropriate way to show that the the queen um in front of a god interacting with the god", start: 1117.32, end: 1129.44}
+  - {text: "but what's interesting about hatchet suit is these become more and more kingly they become more and more um direct how she gets featured in in scenes you would expect a pharaoh uh to be featured in", start: 1129.44, end: 1143.02}
+  - {text: "when it said god's wife is is there a sexual element as well as a as a religious metaphor absolutely yes it's not clear how do we see", start: 1143.02, end: 1151.08}
+  - {text: "as it worked that um i don't mean i'm not looking for pornographic i knew that rubbish i just is that is that depicted it anyway it's it's focused mainly on the on the words used", start: 1151.08, end: 1161.48}
+  - {text: "so wherever she appears she's called the god's wife the wife of the god almond rather principal god of the state at this time in egypt kate", start: 1161.48, end: 1171.16}
+  - {text: "spence do we have a notion of when she emerged or became or see however she got hold of it she became pharaoh yes um too", start: 1172.92, end: 1182.35}
+  - {text: "most of the second died after we think probably only about three years on the throne how did he be we don't know probably somewhere around sort of early teens", start: 1182.35, end: 1193.99}
+  - {text: "or even before that possibly he has to have been old enough to have fathered a daughter because he and hatchet had a daughter called um", start: 1193.99, end: 1202.11}
+  - {text: "called nephorore so they'd had a child but they hadn't produced a male heir but there were children in the royal court but they're thought to have been extremely young", start: 1202.65, end: 1212.51}
+  - {text: "and the throne passes when he dies to took most the third who we think was probably extremely young when they took the throne the latest", start: 1212.51, end: 1221.43}
+  - {text: "estimates are saying he's probably a toddler um probably only a couple of years old um estimates ranging between about two and six probably so really", start: 1221.43, end: 1232.17}
+  - {text: "young child taking the throne his mother was a very um seems to have been a very minor wife her name is isis she's only ever mentioned later during his reign", start: 1232.17, end: 1241.97}
+  - {text: "as a king's mother so she had no formal titles um in relation to took most the second and a hatchet sort somehow presumably because she", start: 1241.97, end: 1250.77}
+  - {text: "already held a lot of power in the royal court manages to get herself appointed into the position of regent so she is ruling the country effectively for a toddler even though she's probably fairly young still herself", start: 1250.77, end: 1265.35}
+  - {text: "and maybe sort of late teens possibly even into the early 20s so she's she already is ruling the country for this child and basically trying", start: 1265.35, end: 1275.61}
+  - {text: "to hold the dynasty together um she would have had the support of many of the courtiers because all of the courtiers owed their position to their relationship to the royal family", start: 1275.61, end: 1285.67}
+  - {text: "so if the sort of kingship had been lost by that line of the family there would have been major turmoil and as Liz said at the beginning there's a lot of worry about the country returning to turmoil", start: 1285.67, end: 1296.99}
+  - {text: "and instability so she starts off as regent and then extraordinarily cleverly she makes very very gradual incremental changes within which can you give us some examples", start: 1296.99, end: 1308.59}
+  - {text: "as you're going along you say if you make a plane around a dab i haven't got any examples yet she starts around year two of to most the third's reign there is an inscription from semna in", start: 1308.59, end: 1319.71}
+  - {text: "which she is referred to as performing ritual and as the heir of sort of the king and the son the son or daughter the heir of the gods", start: 1319.71, end: 1329.65}
+  - {text: "which basically means those are things which would normally be reserved for kingship and then we have images we have an image from karnak from somewhere early in the rain", start: 1329.65, end: 1338.21}
+  - {text: "where she's shown wearing a queenly dress but with a king's crown on and then at some point between year two and year seven but probably closer to year seven she actually declares herself king", start: 1338.21, end: 1350.03}
+  - {text: "and takes a full royal set of titles year seven being year seven because the egyptians count sort of count sort of time through the regnal years of specific kings", start: 1350.03, end: 1363.19}
+  - {text: "so when a new king comes to the throne we still yeah but we don't talk about the monarchy yeah yeah but um so year seven is the seventh year of the reign of king to most the third", start: 1363.19, end: 1376.37}
+  - {text: "and then we add all of those together to try and project back in time and so she declares herself a full king takes a full royal titulary", start: 1376.37, end: 1385.33}
+  - {text: "and then starts to um to present herself as well as act as ruler there's there's there's a consideration here that might seem to be strange", start: 1385.33, end: 1393.91}
+  - {text: "but and Elizabeth through it the one of the ways you progressed in societies like that and then until a few hundred years ago in societies like ours was by assassination", start: 1393.91, end: 1402.97}
+  - {text: "so why didn't she assassinate her steps on Tutmo as the third she would have had the opportunity to within and within a court a large court", start: 1402.97, end: 1413.29}
+  - {text: "that is probably factionalised around particular individuals there certainly would have been the opportunity to so it must have been a very stable court it must have been the family must have been very secure", start: 1413.29, end: 1425.53}
+  - {text: "and as kate mentioned they must have been very concerned within this small family you know royal group to maintain the dynasty and that must have been the primary concern", start: 1425.53, end: 1435.61}
+  - {text: "and so instead of Hatshepsut and she probably wouldn't have been able to suddenly seize full power on her own she needed the support of the family", start: 1435.61, end: 1444.61}
+  - {text: "and the wider kind of court group that court group was stable and secure so a small child could come to the throne and hold the throne", start: 1444.61, end: 1453.45}
+  - {text: "and the the only mechanism for her to to gain power was through through queen regency which was absolutely established and expected of these royal women", start: 1453.45, end: 1461.79}
+  - {text: "so she's absolutely following I think what is expected and normal within this sort of situation you have a very stable court very stable family group", start: 1461.79, end: 1469.75}
+  - {text: "and so she does what is expected she steps in as queen regent it's what happens next that is extraordinary to you come on what happens next well", start: 1469.75, end: 1478.86}
+  - {text: "when we all want to know when do they know so we can know when she became pharaoh um we're talking 1500 bc we're talking about look this woman pharaoh", start: 1478.86, end: 1489.46}
+  - {text: "and when did when did people begin to say this is the pharaoh so there's this key monument the red chapel and this is a small building made of quartzite which is a red british stone and that's why it's called the red chapel", start: 1489.46, end: 1503.21}
+  - {text: "this was built to house the bolt the golden bolt in which the god statue traveled around that was a key part of egyptian temple ritual", start: 1503.89, end: 1511.81}
+  - {text: "and in this hatchip suit takes the opportunity to depict herself and her supposed co -regent to mos the third but she shows herself and to mos the third both", start: 1511.81, end: 1525.43}
+  - {text: "as as men but she takes the precedent she she is the the leading figure in these scenes and in one text on that chapel she says the god amun the chief god of the state", start: 1525.43, end: 1539.19}
+  - {text: "and in the form of an oracle the god speaks to her and says you are my chosen king you will have the the kingship for yourself", start: 1539.19, end: 1549.35}
+  - {text: "even though this is dated to year two of an unknown king not quite sure another king that's not hatchip suit she claims that that title of pharaoh ruler of both lands", start: 1549.91, end: 1562.59}
+  - {text: "and this was built when this this red chapel so this would we know specifically when it was built so we know with it i know", start: 1562.59, end: 1569.63}
+  - {text: "we're not specifically okay it may be coming over all your eyes never mind within a year or two we know it only two or three years", start: 1569.63, end: 1576.85}
+  - {text: "but that is i that is when she is known she says she is fair and she seizes public power yes she goes from sharing power there's this acknowledgement", start: 1576.85, end: 1585.97}
+  - {text: "that the the toddler to mos the third is the notional pharaoh and hatchip suit is the regent and then this this announcement that the gods have endorsed her", start: 1586.67, end: 1595.95}
+  - {text: "and she follows this up again and again in other scenes and texts that she has been chosen and we hear much less of to mos the third", start: 1595.95, end: 1603.15}
+  - {text: "and we'll stick to the architectural line for a moment kate spence because mortuary temple which is called dear al bari supposed to be evidence of her greatness", start: 1603.91, end: 1617.18}
+  - {text: "as a pushing into monumental buildings architecture and establishing authority and as one of the things that she did she didn't turn her energies to military campaigns", start: 1617.18, end: 1626.58}
+  - {text: "as far as we know but she did to monumental building and trade and diplomacy let's kick off with monumental building yeah the mortuary temple um", start: 1626.58, end: 1634.94}
+  - {text: "der al bari is the modern name it sort of means sort of northern church or cathedral or whatever it was originally um called by hatchip sort jezzer jezzeroo", start: 1634.94, end: 1643.92}
+  - {text: "which is sort of holy of holy the most sacred of sacred spaces um and it's built on the west bank of the so opposite karnak", start: 1643.92, end: 1652.98}
+  - {text: "and it's cut into the cliffs in front of what we now call the valley of the kings which became the dynastic burial place for the kings of the new kingdom", start: 1652.98, end: 1662.16}
+  - {text: "and it's an extraordinarily innovative monument um although there's disagreement on it a lot of people think that hatchip suit was the king who actually established this dynastic burial place", start: 1662.16, end: 1672.42}
+  - {text: "and she built her mortuary temple so that it sort of backed on to her tomb through the other side of the cliff um and it was an incredibly carefully chosen site", start: 1672.42, end: 1683.58}
+  - {text: "because it's right next to the tomb of a king called neb hepertrey mentu hotet who was a king who unified egypt at the beginning of the middle kingdom", start: 1683.58, end: 1691.68}
+  - {text: "so he was an extraordinarily famous and well respected king she you can see the project developing over time um as she builds it it seems to have started", start: 1691.68, end: 1702.90}
+  - {text: "as a small project sort of next to this big famous monument and then it grows until she has to cut the cliff face away and", start: 1702.90, end: 1710.78}
+  - {text: "it becomes this huge terrace monument sort of looking out towards um towards karnak and it's it does a whole series of things which are really", start: 1710.78, end: 1721.22}
+  - {text: "interesting one of them is it's the first time a king actually creates a mortuary temple which is primarily presented as a temple of the god a moon", start: 1721.22, end: 1729.54}
+  - {text: "and the king's mortuary cult is only separate is only celebrated in a side chapel and the idea seems to be that the king and the god sort of become one um on death", start: 1730.04, end: 1738.98}
+  - {text: "and they're very very closely linked um she also establishes um a mortuary cult for her father within the same monument um and even seems to have moved her father's body", start: 1738.98, end: 1749.39}
+  - {text: "and buried it in her tomb so that it was also linked in this sort of the sequence um and it was constructed as the culmination point of a big festival called the beautiful festival of the valley", start: 1749.39, end: 1761.09}
+  - {text: "which was a theban festival of the dead when the cult statue of the god a moon was taken from karnak temple across the river and spent the night in this temple", start: 1761.09, end: 1770.61}
+  - {text: "as part of these celebrations of the dead so it she's sort of developing the whole ritual landscape at thebes with this structure and fundamentally changing the relationship between the king", start: 1770.61, end: 1782.49}
+  - {text: "and the god in the process and the dynastic sort of succession line and presence in the landscape and she also restores into a certain extent remodeled looks", start: 1782.49, end: 1792.43}
+  - {text: "or and karnak and so she's making a presence felt in the way that you did in those days through monuments yeah but even more so", start: 1792.43, end: 1801.59}
+  - {text: "than previous kings previous kings had done a bit of building in specific temples karnak really sort of changes the whole landscape and builds a whole load of new projects in order to set up these ritual routes", start: 1801.59, end: 1814.61}
+  - {text: "so we have this king uh coming in this new pharaoh and one way she establishes herself is to say look i am a pharaoh in the great tradition", start: 1814.61, end: 1822.61}
+  - {text: "and i am making great buildings and monuments to show my power and who i am this is so simplistic i know but you'll be very kind", start: 1822.61, end: 1830.07}
+  - {text: "and you're nodding your head so i'll keep going on uh but so that's one aspect of it another aspect uh elizabeth fruit is the way", start: 1830.07, end: 1837.69}
+  - {text: "that she expanded egypt's trade now can you give us a good idea how how she did that um at the beginning of the 18th dynasty you have an elite kind of culture", start: 1837.69, end: 1847.44}
+  - {text: "that is suddenly opened up to the world again from being quite isolated in the theban area suddenly you get this beginning of a real cosmopolitan outlook amongst the elite group", start: 1847.44, end: 1856.14}
+  - {text: "and what sheps it does i think is it seems to kind of support that and drive that forward and the the best example of that and the one that is perhaps most famous is the expedition called the land to the land of punt", start: 1856.14, end: 1867.36}
+  - {text: "which she dates to her year nine most punt punt that's debated of course um it's it's somewhere on the red sea coast and there's evidence to suggest", start: 1867.90, end: 1878.04}
+  - {text: "that it might be arabia or africa somalia it may have moved as a place it's it's a tested from the very earliest periods of egyptian history it almost has a semi -mythical um uh reputation", start: 1878.04, end: 1890.64}
+  - {text: "as well so it's in religious texts as a kind of mythical god's land but it is also a concrete place somewhere on the red sea", start: 1890.64, end: 1898.04}
+  - {text: "that people are actively trading with from very early in egyptian history so why did she get a punt and what did she get from it well she went probably to to the choice to display punt", start: 1898.04, end: 1908.56}
+  - {text: "and to make punt so prominent in her representation is probably a way of showing that she is opening up these ancient trade routes again headships it is very concerned to go back to ancient models of kingship", start: 1908.56, end: 1918.56}
+  - {text: "and of royal practice and show that she is part of those traditions and i think the expedition to punt is part of that it's an it's an ancient practice", start: 1918.56, end: 1927.22}
+  - {text: "that she initiates again she sends an expedition to this strange and fantastic land to bring back all sorts of exotic goods the key thing that she makes a big deal of in the scenes", start: 1927.22, end: 1939.08}
+  - {text: "and texts which narrate this journey and in der al -baghri are myrtries so she is she one of the key products that's brought back of these myrtries", start: 1939.08, end: 1948.32}
+  - {text: "that are then planted in the temple complex so it's almost like she she goes to punt or her people go to punt and bring back part of this land", start: 1948.32, end: 1956.38}
+  - {text: "and integrate it within her own temple environment so she's sort of laying claim to punt as well as opening up this new trade reopening this trade route i i ask this with due tentativity for such a", start: 1956.38, end: 1967.38}
+  - {text: "have we real evidence that she expanded trade in the near east as we now call it and africas we now call it as well as", start: 1967.90, end: 1974.28}
+  - {text: "punt i mean is the proper we have i mean there's there is an expansion and an elite culture in this time there's a real interest", start: 1974.28, end: 1982.02}
+  - {text: "in new technologies from the ancient near east new luxury goods from africa in the near east and this is characteristic of the whole of the eighteenth dynasty", start: 1982.02, end: 1991.22}
+  - {text: "but it's particularly driven in the early eighteenth dynasty so yes we have archaeological material material culture of oils and things new things products new musical instruments new military weapons", start: 1991.22, end: 2001.74}
+  - {text: "that are coming into egypt and she would have been part of she would have been a driver for that certainly the um back to you", start: 2001.74, end: 2009.85}
+  - {text: "camel price um her chief official was a man we know of called sinan mut there are 26 statues to him he was very important to", start: 2009.85, end: 2018.53}
+  - {text: "her there's a there's one carving of him with her child on his knee uh and and what what can you tell us as much as", start: 2018.53, end: 2029.03}
+  - {text: "you know about him oh sinan mut is really an exceptional individual from ancient egypt is it's it's really interesting because he's someone we can really attempt to to write a biography for", start: 2029.03, end: 2041.03}
+  - {text: "and that's surprisingly sort of seriously surprisingly difficult from ancient egypt because he leaves so much evidence we have so many texts and images for so can you tell him what he did first", start: 2041.03, end: 2052.39}
+  - {text: "so his background seems to have been well a lot of egyptians present themselves this way but a rags to riches tale we know his parents were kind of modestly well off", start: 2052.39, end: 2063.47}
+  - {text: "and then when he becomes more wealthy under hatchet so he reburys them in much more well appointed uh surroundings he may have had a military background initially what's key um in his career progression is", start: 2063.47, end: 2078.87}
+  - {text: "that he becomes as you said a tutor to nefarura the princess a hatchet suits daughter um her daughter with two moes the second and this is the beginning of an exceptional way of presenting non -royal people so you mentioned these statues in which he's carved supporting", start: 2078.87, end: 2097.87}
+  - {text: "enveloping in his cloak uh the little princess on his his lap now this is unheard of you know royal people don't touch non -royal people", start: 2098.75, end: 2107.85}
+  - {text: "let alone be be shown in a statue form like this he increases his his number of titles his responsibilities he takes control of part of the the the estate the state of the god almond which brings with it all this um", start: 2107.85, end: 2125.39}
+  - {text: "material wealth and maybe this shouldn't surprise us because if hatchet suit has entrusted the care of her daughter to this man she clearly trusts him", start: 2125.84, end: 2134.20}
+  - {text: "she trusts him to do a good job in uh erecting obelisks you know a favorite uh thing of kings in the 18th dynasties to erect these monuments for the gods", start: 2134.20, end: 2144.26}
+  - {text: "and then he himself takes the opportunity to build his own tomb and his own tombs indeed he's got two tombs interestingly he isn't married as far", start: 2144.26, end: 2155.24}
+  - {text: "as we can tell and this is again really weird for an ancient egyptian elite man why is he not married well this has led to speculation", start: 2155.24, end: 2162.92}
+  - {text: "that indeed he may be hatchet suits lover and there's one particularly uh controversial graffito um which seems to sexual act between a man and a woman", start: 2162.92, end: 2176.02}
+  - {text: "that some have interpreted as hatchet suit and senen mood now i don't think the evidence is strong for that i don't think uh any of us think here", start: 2176.02, end: 2183.80}
+  - {text: "but two shaking heads on your left but this illustrates the thing about hatchet suit the story is so attractive um people like to speculate but what's interesting for me about senen mood is", start: 2183.80, end: 2197.40}
+  - {text: "that of anyone in ancient egypt he just takes the opportunity perhaps because he doesn't have children he doesn't have that chance to have a legacy with future generations he takes the chance", start: 2197.40, end: 2208.28}
+  - {text: "because he can to create monuments and he creates more statues than any other person of the time um up until recently there were 25 statues", start: 2208.28, end: 2216.74}
+  - {text: "and we found the 26th one in manchester museum in our basement and this was one of the most exciting days in my life where i was jumping up", start: 2216.74, end: 2223.98}
+  - {text: "and down another senen mood statue this man just went jumping up down in anger that manchester museum had kept it for 1500 years no one knew no one knew it was there", start: 2223.98, end: 2236.53}
+  - {text: "this is just the the reality of of museum life but but what's important is senen mood really makes a mark and he even one of", start: 2237.37, end: 2246.61}
+  - {text: "his tombs seems to attempt to place the burial chamber under hatchet suits temple at dear al -bakri so there's some association there um which leads to the speculation about them being lovers", start: 2246.61, end: 2257.49}
+  - {text: "and this is one of the things that i think is really interesting and senen mood is a really good example of that is there's there's really this this line", start: 2257.49, end: 2264.07}
+  - {text: "that we have in later periods and early periods between royal representation and non -royal seems to really blur senen mood displays himself some in ways", start: 2264.07, end: 2272.73}
+  - {text: "and has texts that are sort of semi -royal and i think there's there's there's a real kind of creativity and and drive towards innovation and experimentation in the court under hatchet suit", start: 2272.73, end: 2282.81}
+  - {text: "and she must be driving that to some extent Kate friends senen mood is also almost certainly behind that he creates these incredible cryptographic inscriptions with hieroglyphs", start: 2282.81, end: 2295.17}
+  - {text: "so he creates freezes around the mortuary temple which are representations of hatchet hatchet what you're saying is um they say hatchet suits name but they represent part of her", start: 2295.17, end: 2305.27}
+  - {text: "as a cobra goddess um with sort of uplifted car arms and some discs they're beautiful beautiful things and behind the vast majority of doors in", start: 2305.27, end: 2314.97}
+  - {text: "the temple he actually has images of himself praying actually carved behind the doors so no one would know they were there because when the doors are open you wouldn't see them", start: 2314.97, end: 2323.45}
+  - {text: "but it's a thing which egyptians sort of normal egyptians would have found very very um problematical actually having an ordinary person represented in that way in a temple", start: 2323.45, end: 2334.17}
+  - {text: "so he does get he does create extraordinary things and is able to take extraordinary liberties with his position well what's your view of how i was", start: 2334.17, end: 2343.57}
+  - {text: "so powerful i mean can we just top being tentative for half a minute just nonsense boil for half a minute i promise i'll pass on", start: 2343.57, end: 2351.57}
+  - {text: "till we haven't got enough evidence for it do you have a view i think he was the right man in the right place at the right time oh wow", start: 2351.57, end: 2358.19}
+  - {text: "and i think you have a you have an egyptian court that is um very stable very secure families that have been in position for for at least a couple of generations", start: 2358.19, end: 2366.69}
+  - {text: "and this opportunity to create and it's the dynasty is still very young so there's all these opportunities to experiment and create new forms of self presentation", start: 2366.69, end: 2375.69}
+  - {text: "i think he was an extraordinarily talented individual and that his talent was recognized by a very very talented female ruler who needed someone like that", start: 2376.53, end: 2385.77}
+  - {text: "to help her actually create the monuments the ideas all the new things she was coming up with because the level of innovation in her reign is extraordinary well let's try to nail that in a few minutes ago", start: 2385.77, end: 2397.77}
+  - {text: "was one part of innovation the change in the relationship between the pharaoh and the gods absolutely right can you tell us about that it draws on precedents", start: 2398.31, end: 2407.41}
+  - {text: "but the the hatch -up suit is represented as the bodily son of the god a moon the god a moon is said to come to her mother in her bed chamber in the form of the king's father", start: 2407.41, end: 2417.77}
+  - {text: "but she knows that it isn't really her husband and because he smells nice he smells of the scents of punt and all the myrrh which", start: 2417.77, end: 2426.07}
+  - {text: "is being brought back is to create the scents of sort of almond's home and background and so the king becomes the bodily offspring of the god it's not a new idea", start: 2426.07, end: 2435.91}
+  - {text: "but it's emphasized to a degree which has never been done before the king becomes united with the god in the mortuary temple and hatch -up", start: 2435.91, end: 2443.85}
+  - {text: "suits name her name is hatch -up suit for most of the noble women or whatever when she takes the throne she adds to the beginning of", start: 2443.85, end: 2451.35}
+  - {text: "that henna met an moon which is united with the moon hatch -up suit united with the moon so she's one with him and the egyptians have a very very strong sense of the ability to be both the sort of offspring of and and sort of", start: 2451.35, end: 2465.41}
+  - {text: "materialization of the god let's let's let's take to the idea of innovations what else did you do that was new and change things i think she created an environment that allowed", start: 2466.83, end: 2476.05}
+  - {text: "elite individuals and members of her court to to test new ideas so burial practices change and expand from from elite the court they they can", start: 2476.89, end: 2487.61}
+  - {text: "have they can have these kind of two tombs they can have texts within the tombs that are later primarily royal you don't see them in", start: 2487.61, end: 2496.29}
+  - {text: "royal context here we see them in non -royal contexts there's experiments with with types of pictorial representation how you represent the body um a real expansion in mortuary display um", start: 2496.29, end: 2508.83}
+  - {text: "and that's probably partly because people are more wealthy there's you know influx of wealth into the thieban area and partly because she's creating this environment", start: 2508.83, end: 2516.75}
+  - {text: "that allows for this allows her elites to this is partly because of her diplomacy which you haven't had time to get into which she actually did make treatises", start: 2516.75, end: 2524.23}
+  - {text: "and so on but can you tell us animal can you start to tell us why soon after at her disappearance we don't know whether she disappeared or was killed or whatever", start: 2524.23, end: 2534.93}
+  - {text: "her name began to be erased from monuments and she was more or less erased from egyptology for hundreds of years so what was going on", start: 2535.53, end: 2543.65}
+  - {text: "so we don't know ultimately the reason for her demise but what's important is she ruled on her own essentially for around 15 years if there", start: 2543.65, end: 2550.89}
+  - {text: "had been a major problem i'm sure she would have been bumped off before that but then after her death and two months the third becomes the sole pharaoh", start: 2550.89, end: 2559.19}
+  - {text: "as was planned all along and maybe 20 years after that point that's when her name seems to start getting attacked so it's not something as used to be thought in in egyptology", start: 2559.19, end: 2570.41}
+  - {text: "that this is a really pent up aggression that he's been waiting to do in his stepmother's memory he's waited some time and for whatever reason people start to attack the name kate", start: 2570.41, end: 2582.73}
+  - {text: "and then Elizabeth um we think that it may very well be something to do with the succession because it's at the end of his life", start: 2582.73, end: 2589.43}
+  - {text: "that most the third starts to attack these images and it may be because there's uncertainty over which of these numerous child children in the royal nursery will succeed him", start: 2589.43, end: 2599.25}
+  - {text: "and there may be competing family lines and that really seems to be the most likely reason that she would start to be written out at", start: 2599.25, end: 2607.33}
+  - {text: "that rather late point Elizabeth and there is the the process of erasure is is quite complex and there is actually evidence from karnak which is one of the sites", start: 2607.33, end: 2616.13}
+  - {text: "that i work at that the prescription some of the prescription had started earlier so soon after she disappears from the record some elements of her name", start: 2616.13, end: 2624.39}
+  - {text: "and her image are removed from context and then it sort of peaches out and then later at the reign of tap most as a third it really takes hold", start: 2624.39, end: 2631.85}
+  - {text: "and he really erases her name so it's a more complex process um there's some reaction immediately after she disappears and senen what is also prescribed he is erased", start: 2631.85, end: 2643.21}
+  - {text: "as well and other of her officials are too but others remain in power so there's a real complex transition point well thank you all very much elizabeth fruit camber price", start: 2643.21, end: 2653.63}
+  - {text: "and kate spence next week we'll be talking about the engineer ismbard kingdom brunel and thank you for listening and the in our time podcast gets some extra time now with a few minutes of bonus material from melvin and his guests", start: 2653.63, end: 2665.99}
+  - {text: "i called you a gram earlier on he just happened i know a gram price he was a big friend of mine when i was a kid my mother's best friend was mary price and i thought should i correct", start: 2672.40, end: 2690.06}
+  - {text: "so i didn't time to go into the diplomacy yeah all the legacy stuff as well which is really interesting let's go let's have a chat about the legacy", start: 2691.18, end: 2699.10}
+  - {text: "because i mean we sort of talked about the so -called like pornographic graffiti and people have seen that as you know had chips at and", start: 2699.10, end: 2705.60}
+  - {text: "and senen and that goes and that kind of crystallizes this key issue with how we study gender in ancient egypt and you know this early idea", start: 2705.60, end: 2714.00}
+  - {text: "that somehow talking about pornographic i know what pornographic and graffiti mean but what what specifically are we talking about here particular thing in a grotto", start: 2714.00, end: 2721.92}
+  - {text: "above the template derail back there's this yeah several graffiti actually it's not just one um but the date of those and the identity of the people in them is not clear", start: 2721.92, end: 2731.80}
+  - {text: "but do you have a pharaoh a woman in a pharaonic headdress being in a sexual position with um with a man i don't think it's", start: 2731.80, end: 2741.58}
+  - {text: "a headdress i think it's a representation of aware it's a way it's just it's just a woman and a man engaging in the sexual act i", start: 2741.58, end: 2748.94}
+  - {text: "and because there there is some graffiti in the cave that is of similar date exactly it's it tells us so much about our attitude you know", start: 2748.94, end: 2757.80}
+  - {text: "and how our approach as egyptologists studying gender has changed over time so yeah and you know the early part of the 20th century had chips it was this woman", start: 2757.80, end: 2766.44}
+  - {text: "who was being manipulated by senen and had this torrid relationship with him and was you know was was manipulated by these men in the court now we see her", start: 2766.44, end: 2775.12}
+  - {text: "as this powerful woman we've reclaimed her and it tells us so much about how we think about gender absolutely and perceive characters in the past", start: 2775.12, end: 2782.88}
+  - {text: "i'm surprised she doesn't have more of a more of she's not more of a kind of a rallying point for feminist thinkers for the transgender community", start: 2782.88, end: 2794.12}
+  - {text: "because she's she's genderbending she's genderbending and i mean other than um very fleeting references i remember when i was young uh reading in the mid 90s a newspaper column", start: 2794.12, end: 2806.10}
+  - {text: "where tina turner claimed she was reincarnated hatch ups that reincarnated and her why didn't you say that on the program you didn't have a chance you could have just popped it in", start: 2806.10, end: 2816.94}
+  - {text: "we hardly talked about this addressing as a male issue either because yeah that's fantastic the she sort of gradually morphs from a female to wearing male crowns to into full male kit", start: 2819.04, end: 2829.90}
+  - {text: "and male body yeah it's really interesting yeah blow we missed that dinner yeah my fault next time you're gonna make me depressed oh that was a good program", start: 2829.90, end: 2838.78}
+  - {text: "and now i know not that's the problem lining up behind us sorry about that that's always the way isn't it it is yeah particularly when we have to spend", start: 2838.78, end: 2846.52}
+  - {text: "so much time getting in things about setting a scene yeah i think that's i think that's really key i mean it is essential i mean your academics", start: 2846.52, end: 2854.52}
+  - {text: "and you've got to stick by your trade and that is what people expect and that's good i think people think oh that's good that's the way they said things oh that's good then", start: 2854.52, end: 2861.92}
+  - {text: "and i think that that is essential i don't think we should skip that at all if we do skip that then we're not then if", start: 2861.92, end: 2868.02}
+  - {text: "you do then we're not doing program with academics i mean that's that's part of the point that's true that's true it means you can't bring in tina turner", start: 2868.02, end: 2874.42}
+  - {text: "because i agree to post all the people i would mention tina turner yeah i promised i would use the word gender bender in our time with melvin bragg was produced by victoria brignole", start: 2874.42, end: 2891.07}
+  - {text: "so alice loxton i'm here for the history well then henderson i like the formality and that's perfect because we have a lot of history to", start: 2892.80, end: 2902.28}
+  - {text: "share why did t become such a british obsession how did english turn into the language we speak today and yes why do women's clothes still", start: 2902.28, end: 2911.92}
+  - {text: "not have pockets well in our new podcast here for the history we're investigating how stories from the past shape everyday life today basically the things we've all noticed", start: 2911.92, end: 2921.32}
+  - {text: "but never stopped to question listen on bbc sounds or watch on youtube just search for here for the history", start: 2921.32, end: 2927.86}
+---
