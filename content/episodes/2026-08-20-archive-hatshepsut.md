@@ -2,6 +2,7 @@
 layout: single
 title: "Archive: Hatshepsut"
 show: "In Our Time"
+categories: ["In Our Time"]
 date: 2026-08-20T00:00:00Z
 slug: "2026-08-20-archive-hatshepsut"
 audioDir: "2026-08-20-archive-hatshepsut"

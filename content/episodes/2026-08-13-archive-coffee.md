@@ -2,6 +2,7 @@
 layout: single
 title: "Archive: Coffee"
 show: "In Our Time"
+categories: ["In Our Time"]
 date: 2026-08-13T00:00:00Z
 slug: "2026-08-13-archive-coffee"
 audioDir: "2026-08-13-archive-coffee"

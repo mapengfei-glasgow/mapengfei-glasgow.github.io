@@ -93,6 +93,39 @@ Two systemd user timers download the newest episodes, and one publishes them:
 - Each episode remembers its own position: switch away and back to resume
 - Keyboard, site-wide: ↑/↓ for previous/next sentence, Space to play/pause
 
+## Backfilling older episodes
+
+The In Our Time feed carries the whole archive (~1100 episodes back to 1998), and
+Global News keeps a long backlog too. `bbc_podcast.py` can fetch in batches:
+
+```bash
+cd ~/dcgrid
+python3 bbc_podcast.py in-our-time "$PWD/downloads/In Our Time" --limit 10   # 10 newest not yet downloaded
+./venv/bin/python tools/bbc_publish.py --dry-run                            # list what would be published
+./venv/bin/python tools/bbc_publish.py --limit 4                            # transcribe → publish → push
+```
+
+- `bbc_podcast.py` skips trailers (< 5 MB), items belonging to other programmes,
+  and keeps a `.downloaded.json` title index next to the MP3s (so real feed titles
+  like `Archive: Coffee` are preserved).
+- `bbc_publish.py` skips any episode that already has a page, so re-running is safe.
+- Transcription runs at roughly 4–5 minutes per 50-minute episode on this machine.
+
+### Capacity (why can't we just publish all 1100?)
+
+GitHub Pages serves the MP3s from the same 1 GB budget as the site, and every
+episode also stays in git history forever:
+
+| | |
+|---|---|
+| one Global News episode (~27 min) | ~20 MB |
+| one In Our Time episode (~50 min) | ~37 MB (CBR 96 kbps) |
+| GitHub Pages site limit | 1 GB |
+| repo limit | 1 GB recommended (history included) |
+
+So a handful of episodes is fine, but the full archive needs the audio moved to
+object storage (Cloudflare R2: 10 GB free, free egress) with only pages in the repo.
+
 ## Adding a show / an episode
 
 1. Download the MP3 with `bbc_podcast.py` or by hand

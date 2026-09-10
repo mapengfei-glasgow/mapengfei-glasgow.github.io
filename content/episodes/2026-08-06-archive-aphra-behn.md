@@ -2,6 +2,7 @@
 layout: single
 title: "Archive: Aphra Behn"
 show: "In Our Time"
+categories: ["In Our Time"]
 date: 2026-08-06T00:00:00Z
 slug: "2026-08-06-archive-aphra-behn"
 audioDir: "2026-08-06-archive-aphra-behn"

@@ -2,6 +2,7 @@
 layout: single
 title: "Archive: Plate Tectonics"
 show: "In Our Time"
+categories: ["In Our Time"]
 date: 2026-08-27T00:00:00Z
 slug: "2026-08-27-archive-plate-tectonics"
 audioDir: "2026-08-27-archive-plate-tectonics"
