@@ -5,8 +5,8 @@
          data-audio="{{ "audio" | absURL }}/{{ .Params.audioDir }}/episode.mp3"
          data-slug="{{ .Params.slug }}"
          data-show="{{ .Params.show }}"
-         {{/* 属性名不能用 data-icon：Go html/template 把 icon/data-icon
-             当 URL 上下文，会把 emoji 百分号编码成 %f0%9f%8c%8d */}}
+         {{/* Do not name this attribute data-icon: Go html/template treats
+             icon/data-icon as URL context and percent-encodes the emoji. */}}
          data-emoji="{{ $icon }}"
          data-duration="{{ .Params.totalDuration }}"
          data-title="{{ .Title }}">
@@ -17,9 +17,9 @@
     <span>·</span>
     <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006-01-02" }}</time>
     <span>·</span>
-    <span>{{ $d := int .Params.totalDuration }}{{ $m := div $d 60 }}{{ if gt $m 0 }}{{ $m }} 分 {{ end }}{{ mod $d 60 }} 秒</span>
+    <span>{{ $d := int .Params.totalDuration }}{{ $m := div $d 60 }}{{ if gt $m 0 }}{{ $m }} min {{ end }}{{ mod $d 60 }} sec</span>
     <span>·</span>
-    <span>{{ len .Params.sentences }} 句</span>
+    <span>{{ len .Params.sentences }} sentences</span>
   </p>
 
   <ol class="sentences" id="sentences">
@@ -37,10 +37,12 @@
   </ol>
 
   <p class="hint">
-    点击某句 → 从那一刻开始播放，再点一次暂停；开「自动连播」（底部播放条）则整集连贯播完，无停顿。
-    播放状态常驻底部播放条：⏮/⏭ 跳句、拖动进度条、切换页面播放不中断。
-    键盘：↑/↓ 跳句，空格 播放/暂停（全站点有效）。
-    超过 A2 水平的句子带 💡 英文解释。
+    Tap a sentence to play from that moment; tap it again to pause. Turn on
+    “Auto-continue” in the bottom bar to play the whole episode without gaps.
+    Playback lives in the bottom bar: ⏮/⏭ jump by sentence, drag the progress
+    bar to seek, and switching pages never interrupts the audio.
+    Keyboard: ↑/↓ for previous/next sentence, Space to play/pause (works site-wide).
+    Sentences above A2 level come with a 💡 plain-English note.
   </p>
 </article>
 {{ end }}

@@ -1,10 +1,10 @@
 baseURL = "/"
-languageCode = "zh-CN"
-title = "英语小站"
+languageCode = "en"
+title = "English Listening"
 theme = "PaperMod"
 enableRobotsTXT = true
-hasCJKLanguage = true
-description = "用播客学英语、写代码、记生活。"
+hasCJKLanguage = false
+description = "Learn English with podcasts — tap any sentence to play from that moment."
 
 [taxonomies]
   categories = "categories"
@@ -26,27 +26,27 @@ description = "用播客学英语、写代码、记生活。"
   disableScrollToTop = false
 
   [params.footer]
-    text = "Hugo + faster-whisper 生成 · 点任意句子从那一刻播放"
+    text = "Built with Hugo + faster-whisper · Tap any sentence to play from that moment"
 
   [params.label]
-    text = "英语小站"
+    text = "English Listening"
 
 [[menu.main]]
-  name = "英语听力"
+  name = "Listening"
   url = "/episodes/"
   weight = 1
 
 [[menu.main]]
-  name = "节目"
+  name = "Shows"
   url = "/categories/"
   weight = 2
 
 [[menu.main]]
-  name = "文章"
+  name = "Blog"
   url = "/posts/"
   weight = 3
 
 [[menu.main]]
-  name = "生词本"
+  name = "Vocabulary"
   url = "/words/"
   weight = 4

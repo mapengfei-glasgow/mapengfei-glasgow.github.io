@@ -1,4 +1,4 @@
 ---
-title: "生词本"
-description: "收藏的播客句子，带英文解释，跨设备同步。"
+title: "Vocabulary"
+description: "Sentences you saved from podcasts, with plain-English notes, synced across your devices."
 ---

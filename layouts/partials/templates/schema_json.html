@@ -1,6 +1,6 @@
-{{- /* 覆盖 PaperMod 默认的 JSON-LD：它未给 headline/name 加引号，
-        中文/带空格标题会生成非法 JSON，`hugo --minify` 直接报错。
-        这里输出一个合法的最小 BlogPosting JSON-LD。 */ -}}
+{{- /* Override PaperMod's default JSON-LD: it emits headline/name without
+        quotes, which produces invalid JSON for any multi-word title and makes
+        `hugo --minify` fail. Emit a minimal, valid BlogPosting instead. */ -}}
 {{- if .IsPage -}}
 <script type="application/ld+json">
 {

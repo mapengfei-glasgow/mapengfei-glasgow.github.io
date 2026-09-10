@@ -1,28 +1,28 @@
-/* 生词本 via AppWrite —— 静态站集成（无构建步骤）。
+/* Vocabulary book via AppWrite — static-site integration (no build step).
  *
- * 后端（AppWrite Cloud，fra 区域）已配置完成（2026-09-06）：
- *   1. Authentication → Methods：Email & Password 已开启（注册/登录 E2E 验证通过）。
- *      匿名登录未启用：该部署的 guests 角色缺少 account scope，服务端无配置入口，
- *      故本站只提供邮箱注册/登录。
- *      注意：AppWrite 2.0 自助注册必须由客户端指定 userId（即用户名），
- *      注册表单里让用户输入 1–36 位的用户名作为 userId（服务端实测接受 1 位）。
- *   2. Database `site` / Collection `vocab`，属性：
+ * Backend (AppWrite Cloud, fra region) is configured (2026-09-06):
+ *   1. Authentication → Methods: Email & Password enabled (signup/signin verified E2E).
+ *      Anonymous sessions are off: the guests role on this deployment lacks the
+ *      account scope, so the site only offers email signup / sign-in.
+ *      Note: AppWrite 2.0 self-signup requires a client-supplied userId (username);
+ *      the form asks for 1–36 characters (the server accepts as few as 1).
+ *   2. Database `site` / collection `vocab`, attributes:
  *        slug    String  128  (episode slug)
- *        idx     Integer          (句子序号，0 起)
- *        show    String  128  (节目名)
- *        title   String  256  (集标题)
- *        text    String  4096 (句子原文)
- *        explain String  32768 (英文解释，可空)
- *      索引 idx_slug (slug, idx)；documentSecurity=true；集合级权限 create("users")，
- *      文档创建后服务端自动赋 read/update/delete("user:<创建者>")（2.0 无 owner 角色）。
- *   3. Web platform 已建（hostname=mapengfei-glasgow.github.io）；Origin 已验证通过。
+ *        idx     Integer          (sentence index, 0-based)
+ *        show    String  128  (show name)
+ *        title   String  256  (episode title)
+ *        text    String  4096 (sentence text)
+ *        explain String  32768 (plain-English note, nullable)
+ *      Index idx_slug (slug, idx); documentSecurity=true; collection create("users"),
+ *      and documents get read/update/delete("user:<creator>") (2.0 has no owner role).
+ *   3. Web platform created (hostname=mapengfei-glasgow.github.io); origin verified.
  *
- * 注意 AppWrite 2.0 与 1.x 的关键差异（本站 SDK 26.2.0）：
- *   - 自助注册必须指定 userId（用户名，≤36 位 [a-zA-Z0-9._-]，首字符字母/数字）
- *   - 注册不自动登录，需再调 /account/sessions/email
- *   - 文档 API 路径 /databases/{db}/collections/{coll}/documents；create body 数据在 data 内
- *   - listDocuments(db, coll, queries, transactionId, total, ttl)，limit 用 Query.limit()
- *   - 会话 fallback：响应头 x-fallback-cookies（JSON）→ localStorage → X-Fallback-Cookies 头
+ * Key AppWrite 2.0 vs 1.x differences (this site uses SDK 26.2.0):
+ *   - self-signup must pass a userId (≤36 chars of [a-zA-Z0-9._-], leading letter/digit)
+ *   - signup does not sign you in; call /account/sessions/email afterwards
+ *   - document path: /databases/{db}/collections/{coll}/documents; create payload under data
+ *   - listDocuments(db, coll, queries, transactionId, total, ttl); limit via Query.limit()
+ *   - session fallback: x-fallback-cookies header (JSON) → localStorage → X-Fallback-Cookies header
  */
 (function () {
   "use strict";
@@ -43,7 +43,7 @@
   var sdkPromise = null, sessionPromise = null, docCache = null;
   var modal = null, mode = "login";
 
-  /* ---------- SDK 懒加载（只在需要时才拉 469KB 的 SDK） ---------- */
+  /* ---------- Lazy SDK loading (fetch the 469KB SDK only when needed) ---------- */
 
   function loadSDK() {
     if (window.Appwrite && window.Appwrite.Client) return Promise.resolve(window.Appwrite);
@@ -53,7 +53,7 @@
         s.src = SDK_URL;
         s.async = true;
         s.onload = function () { resolve(window.Appwrite); };
-        s.onerror = function () { sdkPromise = null; reject(new Error("AppWrite SDK 加载失败")); };
+        s.onerror = function () { sdkPromise = null; reject(new Error("Failed to load the AppWrite SDK")); };
         document.head.appendChild(s);
       });
     }
@@ -61,15 +61,15 @@
   }
 
   function initClient() {
-    // 注意：2.0 的 Client 构造函数不接受参数（1.x 的 new Client({...}) 会被静默忽略，
-    // 请求会打到默认的 cloud.appwrite.io 美国区），必须用 setter 链配置
+    // note: the 2.0 Client constructor takes no arguments (1.x's new Client({...}) is
+    // silently ignored and requests hit the default US region); configure via setters
     var AW = window.Appwrite;
     var client = new AW.Client().setEndpoint(CONFIG.endpoint).setProject(CONFIG.projectId);
     account = new AW.Account(client);
     dbSvc = new AW.Databases(client);
   }
 
-  // 恢复/确认会话（cookie 或 localStorage fallback 里可能有上次登录的 session）
+  // restore/confirm the session (a previous session may be in cookie or localStorage)
   function ensureSession() {
     if (!sessionPromise) {
       sessionPromise = loadSDK().then(function () {
@@ -86,7 +86,7 @@
 
   function loggedIn() { return !!user; }
 
-  /* ---------- 头部按钮 ---------- */
+  /* ---------- Header button ---------- */
 
   function chip() { return document.getElementById("auth-chip"); }
 
@@ -95,12 +95,12 @@
     if (c) {
       c.hidden = false;
       if (user) {
-        c.textContent = "📖 " + (user.name || user.email || "生词本");
-        c.title = "我的生词本（" + (user.email || user.name) + "）";
+        c.textContent = "📖 " + (user.name || user.email || "Vocabulary");
+        c.title = "My vocabulary (" + (user.email || user.name) + ")";
         c.dataset.state = "in";
       } else {
-        c.textContent = "登录";
-        c.title = "登录 / 注册，收藏的句子可以跨设备同步";
+        c.textContent = "Sign in";
+        c.title = "Sign in / sign up to sync saved sentences across devices";
         c.dataset.state = "out";
       }
     }
@@ -111,7 +111,7 @@
     document.dispatchEvent(new CustomEvent("ds-auth", { detail: { user: user } }));
   }
 
-  /* ---------- 登录弹窗 ---------- */
+  /* ---------- Auth modal ---------- */
 
   function openModal(m) {
     if (!modal) return;
@@ -142,9 +142,9 @@
     var pw = modal.querySelector("#auth-password");
     if (pw) pw.autocomplete = (m === "signup" ? "new-password" : "current-password");
     var sub = modal.querySelector(".auth-submit");
-    if (sub) sub.textContent = (m === "signup" ? "注册并登录" : "登录");
+    if (sub) sub.textContent = (m === "signup" ? "Sign up & sign in" : "Sign in");
     var title = modal.querySelector("#auth-title");
-    if (title) title.textContent = (m === "signup" ? "注册账号" : "登录");
+    if (title) title.textContent = (m === "signup" ? "Create account" : "Sign in");
     var err = modal.querySelector("#auth-err");
     if (err) err.textContent = "";
   }
@@ -159,10 +159,10 @@
   function errMsg(e) {
     var m = (e && e.message) || String(e);
     var t = (e && e.type) || "";
-    if (t === "user_already_exists" || (/userid|user.*id/i.test(m) && /exist|already/i.test(m))) return "这个用户名已经被占用了，换一个试试。";
-    if (/duplicate|already (exists|used)|user.exists/i.test(m)) return "这个邮箱已经注册过了，切到「登录」再试。";
-    if (t === "user_invalid_credentials" || /password|credentials/i.test(m)) return "邮箱或密码不对。";
-    if (/valid.*email|email.*valid/i.test(m)) return "邮箱格式好像不对。";
+    if (t === "user_already_exists" || (/userid|user.*id/i.test(m) && /exist|already/i.test(m))) return "That username is already taken — try another one.";
+    if (/duplicate|already (exists|used)|user.exists/i.test(m)) return "That email is already registered — switch to “Sign in”.";
+    if (t === "user_invalid_credentials" || /password|credentials/i.test(m)) return "Wrong email or password.";
+    if (/valid.*email|email.*valid/i.test(m)) return "That email address does not look right.";
     return m;
   }
 
@@ -195,49 +195,49 @@
       var uidEl = modal.querySelector("#auth-uid");
       var uid = uidEl ? uidEl.value.trim() : "";
       if (mode === "signup" && !UID_RE.test(uid)) {
-        fail("用户名：1–36 位，以字母或数字开头，可用字母、数字、下划线、中划线和点。");
+        fail("Username: 1–36 characters, starting with a letter or digit; letters, digits, underscore, hyphen and dot are allowed.");
         return;
       }
       var btn = modal.querySelector(".auth-submit");
       btn.disabled = true;
-      btn.textContent = "请稍候…";
+      btn.textContent = "Please wait…";
       ensureSession().then(function () {
         if (mode === "login") {
           return account.createEmailPasswordSession(email, password).then(finishAuth);
         }
-        // AppWrite 2.0：自助注册必须由客户端指定 userId（用户名）
+        // AppWrite 2.0: self-signup must pass userId (the username)
         return account.create(uid, email, password, name || email.split("@")[0])
           .then(function () {
-            // 注册后确保拿到会话（一般注册即登录，这里兜底再登一次）
+            // make sure a session exists after signup (fallback sign-in)
             return account.get().catch(function () {
               return account.createEmailPasswordSession(email, password);
             });
           }).then(finishAuth);
       }).catch(function (err) {
-        // 注意：setTab 会清空 #auth-err，所以「切 tab」必须发生在 fail 之前，
-        // 且之后绝不能再调 setTab，否则错误提示会被吞掉（表现为"点了没反应"）
+        // note: setTab clears #auth-err, so a tab switch must happen before fail(),
+        // and setTab must not run afterwards or the error message is swallowed
         if (mode === "signup" && /duplicate|already (exists|used)|user.exists|user_already_exists/i.test(((err && err.message) || "") + " " + ((err && err.type) || ""))) {
           setTab("login");
-          fail("这个邮箱已经注册过了，直接登录吧。");
+          fail("That email is already registered — just sign in.");
         } else {
           fail(errMsg(err));
         }
       }).then(function () {
         btn.disabled = false;
-        btn.textContent = (mode === "signup" ? "注册并登录" : "登录");
+        btn.textContent = (mode === "signup" ? "Sign up & sign in" : "Sign in");
       });
     });
 
   }
 
-  /* ---------- 生词本数据 ---------- */
+  /* ---------- Vocabulary data ---------- */
 
   function loadDocs() {
     if (docCache) return Promise.resolve(docCache);
     docCache = {};
     return loadSDK().then(function () {
       initClient();
-      // 2.0 签名：listDocuments(databaseId, collectionId, queries, transactionId, total, ttl)
+      // 2.0 signature: listDocuments(databaseId, collectionId, queries, transactionId, total, ttl)
       return dbSvc.listDocuments(CONFIG.db, CONFIG.collection, [window.Appwrite.Query.limit(250)]);
     }).then(function (res) {
       (res.documents || []).forEach(function (d) {
@@ -250,7 +250,7 @@
     });
   }
 
-  /* ---------- 集页面：☆ 收藏按钮 ---------- */
+  /* ---------- Episode pages: the ☆ save button ---------- */
 
   function slug() {
     var art = document.querySelector(".episode");
@@ -264,7 +264,7 @@
       btn.type = "button";
       btn.className = "star";
       btn.textContent = "☆";
-      btn.setAttribute("aria-label", "收藏这句");
+      btn.setAttribute("aria-label", "Save this sentence");
       li.appendChild(btn);
     }
     return btn;
@@ -297,8 +297,8 @@
       initClient();
       var d = docCache && docCache[key];
       if (d) return dbSvc.deleteDocument(CONFIG.db, CONFIG.collection, d.$id);
-      // 2.0：不传 permissions 时服务端自动给创建者加 read/update/delete("user:<uid>")
-      // （集合级 create("users") + documentSecurity=true 保证每人只能动自己的句子）
+      // 2.0: without explicit permissions the server grants the creator read/update/delete
+      // (collection create("users") + documentSecurity=true keeps each document private)
       return dbSvc.createDocument(CONFIG.db, CONFIG.collection, window.Appwrite.ID.unique(), {
         slug: s,
         idx: parseInt(li.dataset.i, 10),
@@ -316,7 +316,7 @@
       btn.textContent = nowOn ? "★" : "☆";
     }).catch(function (err) {
       console.warn("star failed:", (err && err.message) || err);
-      btn.title = "⚠ 收藏失败: " + ((err && err.message) || err);
+      btn.title = "⚠ Could not save: " + ((err && err.message) || err);
       setTimeout(function () { btn.title = ""; }, 4000);
     }).then(function () {
       btn.disabled = false;
@@ -343,7 +343,7 @@
     });
   }
 
-  /* ---------- /words/ 页 ---------- */
+  /* ---------- /words/ page ---------- */
 
   function esc(s) {
     var d = document.createElement("div");
@@ -382,7 +382,7 @@
               '<a class="vocab-ep" href="/episodes/' + esc(d.slug) + '/">' +
                 esc(d.show || "") + " · " + esc(d.title || d.slug) +
               '</a>' +
-              '<button class="vocab-del" data-id="' + esc(d.$id) + '" title="删除">✕</button>' +
+              '<button class="vocab-del" data-id="' + esc(d.$id) + '" title="Delete">✕</button>' +
             '</div>' +
             '<p class="vocab-text">' + esc(d.text) + '</p>' +
             (d.explain ? '<p class="vocab-explain">💡 ' + esc(d.explain) + '</p>' : "") +
@@ -418,7 +418,7 @@
     document.addEventListener("ds-auth", render);
   }
 
-  /* ---------- 启动 ---------- */
+  /* ---------- Boot ---------- */
 
   function init() {
     wireModal();
@@ -430,7 +430,7 @@
       c.dataset.wired = "1";
       c.addEventListener("click", function () {
         if (loggedIn()) {
-          // 走 Turbo 跳转（SPA 式，底部播放条不中断）；Turbo 不可用时退回硬跳转
+          // use Turbo navigation when available (keeps the bottom bar alive), else a normal link
           if (window.Turbo && window.Turbo.visit) window.Turbo.visit("/words/");
           else location.href = "/words/";
           return;
@@ -444,18 +444,18 @@
     var hint = null;
     try { hint = localStorage.getItem("cookieFallback"); } catch (e) {}
     if (hint) {
-      // 可能有上次的登录，静默恢复。ensureSession 的 promise 有缓存，
-      // 但 SPA 跳转后 chip 是全新节点，每次页面出现都要重新刷一遍它
+      // a previous session may exist; restore it silently. ensureSession is cached,
+      // but the chip is a fresh node after navigation, so refresh it every time
       ensureSession().then(function () { updateChip(); });
     } else {
-      updateChip();    // 没有会话痕迹 → 直接显示"登录"
+      updateChip();    // no session trace → show "Sign in"
     }
   }
 
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
-  // Turbo：每次页面出现（含 SPA 跳转）后 <body> 已换成新节点，重新接线。
-  // 本文件带 data-turbo-eval="false" 不会重复执行，监听器挂 document 上长期有效；
-  // 各 wire* 函数用 data-wired 标记防止同一页代内重复绑。
+  // Turbo: after each page appearance <body> is a new node, so re-wire everything.
+  // With data-turbo-eval="false" this file runs once; document listeners persist.
+  // Each wire* function uses data-wired to avoid double-binding within a page.
   document.addEventListener("turbo:load", init);
 })();

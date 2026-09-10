@@ -1,12 +1,12 @@
 /* ------------------------------------------------------------------
-   站点自定义样式（只覆盖我们自己的组件）：
-   单集句级播放器、全局底部播放条、生词本（AppWrite）、登录/注册弹窗。
-   页头/页脚/深浅色切换/列表等其余外观交给 PaperMod。
-   颜色尽量对齐 PaperMod 的 CSS 变量（--content/--entry/--secondary/
-   --tertiary/--primary/--border/--radius），以保证深浅色一致。
+   Site-specific styles (only our own components):
+   Sentence-level player, global bottom player bar, vocabulary book (AppWrite),
+   sign-in modal. Everything else (header, footer, theme toggle, lists) is PaperMod.
+   Colours are mapped onto PaperMod's CSS variables (--content/--entry/--secondary/
+   --tertiary/--primary/--border/--radius) so both themes stay consistent.
  ------------------------------------------------------------------- */
 
-/* 把组件用到的变量映射到 PaperMod，找不到时给稳妥回退 */
+/* Map the variables our components use onto PaperMod, with safe fallbacks */
 :root {
   --fg: var(--content, #e8e8e8);
   --muted: var(--secondary, #9b9b9b);
@@ -16,7 +16,7 @@
   --primary: var(--primary, #7dd3fc);
   --radius: var(--radius, 6px);
 
-  /* PaperMod 没有的补充色 */
+  /* Extra colours PaperMod does not define */
   --accent: #ff66a3;
   --primary-soft: rgba(125, 211, 252, 0.16);
   --accent-soft: rgba(255, 102, 163, 0.16);
@@ -29,7 +29,7 @@
   --shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
 }
 
-/* 浅色回退 */
+/* Light-theme overrides */
 :root[data-theme="light"] {
   --bg: #ffffff;
   --bg-soft: #f3f4f6;
@@ -45,7 +45,7 @@
 
 * { box-sizing: border-box; }
 
-/* ---------- 页头登录按钮（AppWrite 未配置时隐藏） ---------- */
+/* ---------- Header sign-in button (hidden when AppWrite is unconfigured) ---------- */
 .auth-chip {
   font-family: var(--font-family, inherit);
   font-size: 0.875rem;
@@ -63,11 +63,11 @@
 .auth-chip[data-state="in"] { border-color: var(--primary); color: var(--primary); background: var(--primary-soft); }
 .auth-chip[hidden] { display: none; }
 
-/* 生词本菜单项：只有配置了 AppWrite 才显示（html[data-vocab=on]） */
+/* Vocabulary menu item: shown only when AppWrite is configured (html[data-vocab=on]) */
 ul#menu li:has(a[href$="/words/"]) { display: none; }
 html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
 
-/* ---------- 单集页 ---------- */
+/* ---------- Episode page ---------- */
 .ep-title {
   font-size: clamp(1.7rem, 4.4vw, 2.4rem);
   font-weight: 700;
@@ -95,7 +95,7 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
   padding: 0.12em 0.7em;
 }
 
-/* ---------- 句子列表 ---------- */
+/* ---------- Sentence list ---------- */
 .sentences { list-style: none; margin: 0; padding: 0; }
 .sentence {
   position: relative;
@@ -182,7 +182,7 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
   color: var(--fg);
 }
 
-/* ---------- 全局底部播放条 ---------- */
+/* ---------- Global bottom player bar ---------- */
 #player-bar[hidden] { display: none; }
 body:has(#player-bar:not([hidden])) { padding-bottom: 118px; }
 body.player-open { padding-bottom: 118px; }
@@ -283,7 +283,7 @@ body.player-open { padding-bottom: 118px; }
 }
 #player-idx { color: var(--faint); min-width: 0; }
 
-/* ---------- 生词本 ---------- */
+/* ---------- Vocabulary book ---------- */
 .vocab { max-width: 720px; margin: 0 auto; padding: 1.4rem 1.25rem 3rem; }
 .vocab-head-row { display: flex; align-items: baseline; justify-content: space-between; gap: 1rem; }
 .vocab .cc-desc { color: var(--muted); font-size: 0.95rem; line-height: 1.7; margin: 0.9em 0 1.4em; }
@@ -316,7 +316,7 @@ body.player-open { padding-bottom: 118px; }
   border-radius: 0 6px 6px 0;
 }
 
-/* ---------- 登录/注册弹窗 ---------- */
+/* ---------- Sign-in / sign-up modal ---------- */
 .auth-modal {
   position: fixed; inset: 0; z-index: 100;
   display: flex; align-items: center; justify-content: center;

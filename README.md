@@ -1,28 +1,31 @@
-# Podcast 英语听力站
+# English Listening
 
-把播客音频转写、**标注句级时间戳**，点任意句子就跳到那一刻播放；
-整集音频常驻底部播放条，页面跳转（Hotwire Turbo）不打断，用来精听和跟读。
+Podcast audio is transcribed and **timestamped sentence by sentence**, so tapping
+any sentence jumps playback to that exact moment. The episode audio stays loaded
+in a persistent bottom player bar, and navigating between pages never interrupts it —
+built for close listening and shadowing.
 
-技术栈：Hugo + Hotwire Turbo 8（SPA 式页间跳转）+ AppWrite（生词本）。
+Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme + AppWrite (vocabulary book).
 
-## 目录结构
+## Layout
 
 ```
-english-site/          # Hugo 站点
-  content/episodes/    # 每集一个 .md（frontmatter 存每句文字+起止时间戳）
-  data/transcripts/    # 每集 <slug>.small.json（词级时间戳）
-  static/audio/<slug>/ # 每集整段 episode.mp3（句子按时间戳定位，不切片）
-  static/css/          # main.css
-  assets/js/           # turbo.umd.js（Hotwire Turbo 8，内嵌依赖）、
-                       # player.js（底部播放条 + 单集页绑定）、
-                       # appwrite.js（生词本）
-  layouts/             # 模板
-tools/make_episode.py  # MP3 → 整段音频 + Hugo 内容（含句级时间戳）的流水线
-bin/                   # hugo、ffmpeg 静态二进制、uv
-venv/                  # Python 环境（faster-whisper）
+english-site/          # the Hugo site
+  content/episodes/    # one .md per episode (front matter holds every sentence + its timestamps)
+  data/transcripts/    # <slug>.small.json per episode (word-level timestamps)
+  static/audio/<slug>/ # the full episode.mp3 (sentences seek by timestamp; no slicing)
+  static/css/          # main.css — styles for our own components only
+  assets/js/           # player.js (bottom bar + episode page wiring)
+                       # appwrite.js (vocabulary book)
+  layouts/             # episodes/single.html, words/list.html, partials/ overrides
+  themes/PaperMod/     # theme (git submodule)
+tools/make_episode.py  # MP3 → full audio + Hugo content (with sentence timestamps)
+tools/bbc_podcast.py   # downloader for the BBC feeds (run by systemd timers)
+bin/                   # static hugo / ffmpeg binaries, uv
+venv/                  # Python environment (faster-whisper)
 ```
 
-## 从 MP3 生成一集
+## Build one episode from an MP3
 
 ```bash
 cd ~/dcgrid
@@ -32,55 +35,65 @@ HF_HOME=$PWD/.hf-cache ./venv/bin/python tools/make_episode.py \
   --title "Episode title" --date 2026-09-03
 ```
 
-流程：faster-whisper（word 级时间戳）→ 按标点/停顿分组句子 →
-ffmpeg 转码整段 → 写 `content/episodes/<slug>.md`（每句起止时间）
-和 `static/audio/<slug>/episode.mp3`（转写缓存落在 `data/transcripts/`）。
-第一次运行会下载 Whisper 模型（缓存到 `.hf-cache/`，约 460MB，small 档）。
+Pipeline: faster-whisper (word-level timestamps) → group words into sentences by
+punctuation/pauses → ffmpeg transcodes the full episode (CBR 96k) → writes
+`content/episodes/<slug>.md` (start/end per sentence) and
+`static/audio/<slug>/episode.mp3` (transcription cache lands in `data/transcripts/`).
+The first run downloads the Whisper model (cached in `.hf-cache/`, ~460MB, `small`).
 
-- `--model tiny|base|small|medium|large-v3`：越大越准越慢（默认 small）
-- `--slug`、`--force` 见 `--help`
+- `--model tiny|base|small|medium|large-v3` — bigger is more accurate but slower (default `small`)
+- `--slug`, `--force`, `--notes`: see `--help`
 
-## 本地预览 / 构建
+## Local preview / build
 
 ```bash
 cd ~/dcgrid/english-site
-../bin/hugo server -n 127.0.0.1 -p 1313      # 开发预览（自动刷新）
-../bin/hugo --minify                            # 构建到 public/
+../bin/hugo server -n 127.0.0.1 -p 1313      # dev preview (auto reload)
+../bin/hugo --minify                          # build into public/
 ```
 
-## 发布到 GitHub Pages
+## Publishing to GitHub Pages
 
-站点发布在 <https://mapengfei-glasgow.github.io/>（用户主页站点），
-仓库为 `mapengfei-glasgow/mapengfei-glasgow.github.io`。
+The site is published at <https://mapengfei-glasgow.github.io/> (user site),
+from the repository `mapengfei-glasgow/mapengfei-glasgow.github.io`.
 
-`.github/workflows/deploy.yml` 在每次 push 到 `main` 时自动：
-下载 Hugo extended 0.165.0 → `hugo --minify --baseURL <Pages URL>` →
-`actions/deploy-pages` 发布 `public/`。Pages 的构建模式已设为 **workflow**，
-所以 `git push` 即自动上线，本地 `public/` 不入库。
+`.github/workflows/deploy.yml` runs on every push to `main`: it downloads Hugo
+extended 0.165.0, checks out submodules (the PaperMod theme), runs
+`hugo --minify --baseURL <Pages URL>`, and deploys `public/` with
+`actions/deploy-pages`. Pages is set to **workflow** builds, so a `git push`
+goes live automatically; `public/` is not committed.
 
-> 注意：仓库名为 `mapengfei-glasgow.github.io`，是用户主页站点，
-> 直接发布在根路径；本地构建同样用 `baseURL = "/"`，两者一致。
+> Note: the repository is the `mapengfei-glasgow.github.io` user site, served from
+> the root path, and local builds use `baseURL = "/"` to match.
 
-发布一集：
+Publishing one episode:
 
 ```bash
 cd ~/dcgrid/english-site
 git add -A && git commit -m "add episode ..."
-git push origin main   # 远端为 SSH；仓库已配 core.sshCommand 指向本机 ssh config
+git push origin main   # remote is SSH; core.sshCommand points at the local ssh config
 ```
 
-## 页面上怎么用
+## Daily automation
 
-- 点任意句子 → 跳到该句开始播放（句级 seek）；再点同一句 = 暂停
-- 从头整集播：点第一句（开着自动连播就一直播到集尾）
-- 底部播放条（全站常驻）：⏮/⏭ 逐句、▶/⏸、拖进度条跳转、「自动连播」开关、
-  当前句位（如 13 / 291）+ 时间
-- 页面跳转（Hotwire Turbo，SPA 式）播放不中断，播放条始终在底部
-- 每集独立记忆播放位置：换集再回来，从上次停下的位置续播
-- 全局键盘：↑/↓ 逐句，空格 播放/暂停（任何页面都有效）
+Two systemd user timers download the newest episodes, and one publishes them:
 
-## 加新节目/新集
+- `~/.config/systemd/user/bbc_gnp.timer` — 09:00, Global News Podcast
+- `~/.config/systemd/user/bbc_iot.timer` — 11:00, In Our Time
+- `tools/systemd/bbc-publish.timer` — 12:30, runs `tools/bbc_publish.py`, which
+  transcribes any newly downloaded episode, generates its page, commits and pushes
 
-1. 用 `bbc_podcast.py` 或手动下载 MP3
-2. 跑 `make_episode.py`
-3. 刷新站点即可（hugo server 会自动重建）
+## Using the site
+
+- Tap any sentence → playback jumps to that moment; tap the same sentence again to pause
+- Play the whole episode: tap the first sentence (with auto-continue on it runs to the end)
+- Bottom bar (on every page): ⏮/⏭ step by sentence, ▶/⏸, draggable progress,
+  an “Auto-continue” toggle, the current sentence counter (e.g. 13 / 291) and time
+- Each episode remembers its own position: switch away and back to resume
+- Keyboard, site-wide: ↑/↓ for previous/next sentence, Space to play/pause
+
+## Adding a show / an episode
+
+1. Download the MP3 with `bbc_podcast.py` or by hand
+2. Run `make_episode.py`
+3. Reload the site (or push — GitHub Actions publishes it)

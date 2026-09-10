@@ -1,4 +1,4 @@
-# 节目元信息：键 = 分类名 urlize 后的形式（与 content 里 categories 值对应）
-"global-news-podcast" = { icon = "🌍", description = "BBC 每日全球新闻，每天一期：十几分钟过完当天大事，新闻英语语速快、信息密。" }
-"in-our-time" = { icon = "🏛️", description = "BBC 学者对谈：几个人围着一个历史、科学或哲学话题聊透，语速慢、词汇深。" }
-"why-oh-why" = { icon = "❓", description = "各种有意思的独立播客，一期一期捡起来听：恋爱关系、悬疑、人生杂学。" }
+# Show metadata: key = the urlized category name (must match the categories value in content)
+"global-news-podcast" = { icon = "🌍", description = "The BBC's daily world news, one episode a day: the day's big stories in about half an hour, with fast, information-dense news English." }
+"in-our-time" = { icon = "🏛️", description = "BBC panel discussions: a few scholars talk one history, science or philosophy topic all the way through. Slower speech, deeper vocabulary." }
+"why-oh-why" = { icon = "❓", description = "A grab bag of interesting independent podcasts, picked up one episode at a time: relationships, mysteries, and general curiosities." }
