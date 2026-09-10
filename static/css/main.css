@@ -309,7 +309,26 @@ body.player-open { padding-bottom: 118px; }
   font-size: 0.85rem; cursor: pointer; padding: 0.2em 0.5em; border-radius: 6px;
 }
 .vocab-del:hover { color: var(--accent); background: var(--card-raised); }
-.vocab-text { margin: 0.6em 0 0; font-size: 1rem; line-height: 1.55; }
+.vocab-text {
+  margin: 0.6em 0 0;
+  font-size: 1rem;
+  line-height: 1.55;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: color 0.12s ease, background 0.12s ease;
+}
+.vocab-text:hover { color: var(--primary); }
+.vocab-actions { display: inline-flex; align-items: center; gap: 0.2em; flex: none; }
+.vocab-play {
+  background: none; border: none; color: var(--faint);
+  font-size: 0.85rem; cursor: pointer; padding: 0.2em 0.5em; border-radius: 6px;
+  transition: color 0.12s ease, background 0.12s ease, transform 0.1s ease;
+}
+.vocab-play:hover { color: var(--primary); background: var(--card-raised); }
+.vocab-play:active { transform: scale(0.9); }
+.vocab-item.playing { border-color: var(--primary); box-shadow: inset 3px 0 0 var(--primary); }
+.vocab-item.playing .vocab-play { color: var(--primary); }
+.vocab-item.paused { box-shadow: none; }
 .vocab-explain {
   margin: 0.5em 0 0; padding: 0.6em 0.8em; font-size: 0.85rem;
   color: var(--muted); background: var(--bg-soft); border-left: 3px solid var(--primary);

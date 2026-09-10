@@ -4,8 +4,8 @@
     <p class="section-label">Vocabulary</p>
     <button id="vocab-logout" class="auth-anon" type="button" hidden>Sign out</button>
   </div>
-  <p class="cc-desc">Tap ☆ on any sentence in an episode and it lands here with its plain-English note. Sign in to sync across your devices.</p>
+  <p class="cc-desc">Tap ☆ on any sentence in an episode and it lands here with its plain-English note. Click a saved sentence to play it straight from that moment. Sign in to sync across your devices.</p>
   <p id="vocab-empty" class="vocab-empty" hidden>Nothing saved yet. Head to <a href="{{ "episodes/" | relURL }}">Listening</a> and tap ☆ on a sentence.</p>
-  <ol id="vocab-list" class="vocab-list"></ol>
+  <ol id="vocab-list" class="vocab-list" data-episodes-base="{{ "episodes/" | relURL }}"></ol>
 </div>
 {{ end }}

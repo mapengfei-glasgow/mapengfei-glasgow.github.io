@@ -351,6 +351,13 @@
     return d.innerHTML;
   }
 
+  /* Episode pages live under a base path (baseURL-safe); read it from the markup. */
+  function episodesBase() {
+    var box = document.getElementById("vocab-list");
+    var b = (box && box.dataset.episodesBase) || "/episodes/";
+    return b.charAt(b.length - 1) === "/" ? b : b + "/";
+  }
+
   function wireVocabPage() {
     var box = document.getElementById("vocab-list");
     if (!box || box.dataset.wired === "1") return;
@@ -376,15 +383,19 @@
           if (empty) empty.hidden = false;
           return;
         }
+        var base = episodesBase();
         box.innerHTML = docs.map(function (d) {
-          return '<li class="vocab-item">' +
+          return '<li class="vocab-item" data-slug="' + esc(d.slug) + '" data-idx="' + esc(d.idx) + '">' +
             '<div class="vocab-head">' +
-              '<a class="vocab-ep" href="/episodes/' + esc(d.slug) + '/">' +
+              '<a class="vocab-ep" href="' + esc(base) + esc(d.slug) + '/">' +
                 esc(d.show || "") + " · " + esc(d.title || d.slug) +
               '</a>' +
-              '<button class="vocab-del" data-id="' + esc(d.$id) + '" title="Delete">✕</button>' +
+              '<span class="vocab-actions">' +
+                '<button class="vocab-play" type="button" title="Play from this sentence" aria-label="Play from this sentence">▶</button>' +
+                '<button class="vocab-del" data-id="' + esc(d.$id) + '" title="Delete">✕</button>' +
+              '</span>' +
             '</div>' +
-            '<p class="vocab-text">' + esc(d.text) + '</p>' +
+            '<p class="vocab-text" title="Click to play from this sentence">' + esc(d.text) + '</p>' +
             (d.explain ? '<p class="vocab-explain">💡 ' + esc(d.explain) + '</p>' : "") +
             '</li>';
         }).join("");
@@ -412,6 +423,55 @@
         updateChip();
         render();
       }).catch(function (err) { console.warn("logout failed:", (err && err.message) || err); });
+    });
+
+    /* Play a saved sentence: load that episode into the bottom player, then play
+       from this sentence's index. Nothing extra is stored in AppWrite — the
+       timestamps come from the episode page the player fetches on demand. */
+    function playSavedItem(li) {
+      var EP = window.EpisodePlayer;
+      if (!EP || !EP.loadFromPage) return;
+      var slug = li.dataset.slug || "";
+      var idx = parseInt(li.dataset.idx || "-1", 10);
+      if (!slug || idx < 0) return;
+      var st = EP.state ? EP.state() : {};
+      // Same episode AND its sentences are known: seek (or pause if it is already
+      // playing this very sentence). Otherwise load the episode page first —
+      // a restored player knows the slug but not the sentence timings.
+      if (st.has && st.slug === slug && st.sentences > 0) {
+        if (st.playing && st.idx === idx) { EP.pause(); return; }
+        EP.playFrom(idx, EP.autoNext);
+        return;
+      }
+      EP.loadFromPage(episodesBase() + encodeURIComponent(slug) + "/")
+        .then(function () { EP.playFrom(idx, EP.autoNext); })
+        .catch(function (err) { console.warn("could not load episode:", (err && err.message) || err); });
+    }
+
+    /* One delegated click handler: the play button and the sentence text both
+       start playback from that saved sentence (re-renders need no re-wiring). */
+    box.addEventListener("click", function (ev) {
+      var t = ev.target;
+      if (!t || !t.closest) return;
+      if (t.closest(".vocab-del") || t.closest(".vocab-ep")) return; // they handle themselves
+      var li = t.closest(".vocab-item");
+      if (!li) return;
+      if (t.closest(".vocab-play") || t.closest(".vocab-text")) playSavedItem(li);
+    });
+
+    /* Reflect the player state: highlight whichever saved sentence is playing. */
+    document.addEventListener("ds-player-change", function (ev) {
+      var d = ev.detail || {};
+      Array.prototype.forEach.call(box.querySelectorAll(".vocab-item"), function (li) {
+        var same = !!d.slug && li.dataset.slug === d.slug && String(d.idx) === String(li.dataset.idx);
+        li.classList.toggle("playing", same);
+        li.classList.toggle("paused", same && !d.playing);
+        var btn = li.querySelector(".vocab-play");
+        if (btn) {
+          btn.textContent = same && d.playing ? "⏸" : "▶";
+          btn.title = same && d.playing ? "Pause" : "Play from this sentence";
+        }
+      });
     });
 
     render();

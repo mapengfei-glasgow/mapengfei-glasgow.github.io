@@ -46,6 +46,7 @@
   var lastWholeSec = -1;
   var lastSaveAt = 0;
   var seeking = false;  // user is dragging the progress bar
+  var pendingSeek = null; // a seek requested before the media was seekable
 
   /* ---------- Persistence ---------- */
 
@@ -161,6 +162,20 @@
     }
     // sentence counter in the bar (e.g. "13 / 291")
     elIdx.textContent = (i >= 0 ? (i + 1) + " / " + n : "");
+    notify();
+  }
+
+  /* Broadcast playback state so other pages (the vocabulary list) can reflect it. */
+  function notify() {
+    var detail = {
+      has: !!ep,
+      playing: !!ep && !audio.paused && !audio.ended,
+      idx: idx,
+      slug: ep ? ep.slug : null
+    };
+    try {
+      document.dispatchEvent(new CustomEvent("ds-player-change", { detail: detail }));
+    } catch (e) {}
   }
 
   function revealExplain(li) {
@@ -188,6 +203,21 @@
     if (!ep || audio.paused || audio.ended) return;
     var t = audio.currentTime;
     var n = ep.items.length;
+
+    /* A seek made before the media was seekable is re-applied here. */
+    if (pendingSeek != null) {
+      if (Math.abs(t - pendingSeek) <= 0.25) {
+        pendingSeek = null;
+      } else if (audio.seekable && audio.seekable.length) {
+        try { audio.currentTime = pendingSeek; } catch (e) {}
+        t = audio.currentTime;
+      }
+      if (pendingSeek != null) {
+        refreshTimeUI();
+        rafId = requestAnimationFrame(loop);
+        return;
+      }
+    }
 
     if (mode === "follow" && n > 0 && idx >= 0) {
       var i = idx;
@@ -245,6 +275,9 @@
     mode = follow ? "follow" : "single";
     uiTime = target;
     uiDuration = realDuration() || (ep ? ep.duration : 0);
+    // With preload="none" the media is not seekable yet, so remember the target
+    // and let the loop / loadedmetadata re-apply it until it sticks.
+    pendingSeek = target;
     try { audio.currentTime = target; } catch (e) {}
     markActivePage(i);
     if (ep.items && i >= 0 && i < ep.items.length) {
@@ -406,6 +439,7 @@
   audio.addEventListener("play", function () {
     setPlayingIcon(true);
     if (!rafId) startLoop();
+    notify();
   });
 
   audio.addEventListener("pause", function () {
@@ -413,6 +447,7 @@
     setPlayingIcon(false);
     refreshTimeUI();
     saveNow();
+    notify();
   });
 
   audio.addEventListener("ended", function () {
@@ -435,7 +470,10 @@
     stopPlayback();
   });
 
-  audio.addEventListener("loadedmetadata", refreshTimeUI);
+  audio.addEventListener("loadedmetadata", function () {
+    if (pendingSeek != null) { try { audio.currentTime = pendingSeek; } catch (e) {} }
+    refreshTimeUI();
+  });
   audio.addEventListener("durationchange", refreshTimeUI);
 
   /* ---------- Player bar buttons ---------- */
@@ -461,6 +499,7 @@
     var d = realDuration() || uiDuration;
     var t = (elProgress.value / 1000) * (d || 0);
     uiTime = t;
+    pendingSeek = null; // an explicit drag overrides any pending seek
     if (d > 0) { try { audio.currentTime = t; } catch (e) {} }
     // sync the sentence position to the new spot
     if (ep && ep.items && ep.items.length) {
@@ -593,10 +632,60 @@
   updateAutoBtn();
   refreshTimeUI();
 
+  /* ---------- Loading an episode from a page URL ----------
+   * Used by the vocabulary page, where a saved sentence only knows its episode
+   * slug + sentence index: fetch that episode's page and parse the same
+   * .episode / .sentence markup the player normally reads from the live DOM,
+   * so seeking and sentence stepping work with no extra data source. */
+
+  function episodeDataFromDoc(doc) {
+    var art = doc.querySelector(".episode");
+    if (!art || !art.dataset.audio) return null;
+    var items = Array.prototype.slice.call(art.querySelectorAll(".sentence"));
+    if (!items.length) return null;
+    var starts = [], ends = [];
+    for (var i = 0; i < items.length; i++) {
+      starts.push(parseFloat(items[i].dataset.start));
+      ends.push(parseFloat(items[i].dataset.end));
+    }
+    var h1 = art.querySelector(".ep-title");
+    return {
+      slug: art.dataset.slug || "",
+      title: art.dataset.title || (h1 ? h1.textContent : ""),
+      show: art.dataset.show || "",
+      icon: art.dataset.emoji || "🎧",
+      audioSrc: art.dataset.audio,
+      duration: parseFloat(art.dataset.duration || "0"),
+      items: items, starts: starts, ends: ends
+    };
+  }
+
+  var pageCache = {}; // url -> episode data, so nothing is refetched needlessly
+
+  function loadFromPage(url) {
+    if (pageCache[url]) {
+      setEpisode(pageCache[url]);
+      return Promise.resolve(pageCache[url]);
+    }
+    return fetch(url, { credentials: "same-origin" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status + " for " + url);
+        return r.text();
+      })
+      .then(function (html) {
+        var data = episodeDataFromDoc(new DOMParser().parseFromString(html, "text/html"));
+        if (!data) throw new Error("no episode data in " + url);
+        pageCache[url] = data;
+        setEpisode(data);
+        return data;
+      });
+  }
+
   /* ---------- Public API ---------- */
 
   window.EpisodePlayer = {
     setEpisode: setEpisode,
+    loadFromPage: loadFromPage,
     playFrom: playFrom,
     play: resumeOrStart,
     pause: userPause,
@@ -610,7 +699,9 @@
         has: !!ep,
         playing: !!ep && !audio.paused && !audio.ended,
         idx: idx,
-        slug: ep ? ep.slug : null
+        slug: ep ? ep.slug : null,
+        // 0 after a restore: the episode is known but its sentence data is not
+        sentences: ep && ep.items ? ep.items.length : 0
       };
     }
   };
