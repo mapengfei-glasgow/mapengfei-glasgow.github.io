@@ -84,6 +84,29 @@ Two systemd user timers download the newest episodes, and one publishes them:
 - `tools/systemd/bbc-publish.timer` — 12:30, runs `tools/bbc_publish.py`, which
   transcribes any newly downloaded episode, generates its page, commits and pushes
 
+## Uploading files to Cloudflare R2
+
+`tools/r2_upload.py` is a dependency-free (stdlib only) uploader for the
+S3-compatible R2 API — useful for putting large media outside the git repo:
+
+```bash
+# credentials live in ~/.r2.env (or <repo>/.ref/r2.env):
+#   R2_ACCESS_KEY_ID=...  R2_SECRET_ACCESS_KEY=...
+#   R2_ENDPOINT=...       R2_BUCKET=aorta-data
+#   R2_PUBLIC_BASE=https://bucket.r2.mapengfei.cn
+
+python3 tools/r2_upload.py aorta-tether-8x-32x.zip          # keeps the file name as the key
+python3 tools/r2_upload.py big.mp3 --key audio/big.mp3      # explicit key
+python3 tools/r2_upload.py --list-buckets                   # inspect the account
+python3 tools/r2_upload.py --list --prefix audio/           # inspect a bucket
+python3 tools/r2_upload.py --delete audio/big.mp3           # remove an object
+```
+
+It prints the public URL and verifies it with an HTTP request. Note that the
+public custom domain sits behind Cloudflare, which rejects the default
+`Python-urllib/*` user agent (403) — the script sends a normal one, and some
+proxies also dislike `HEAD`, so the check uses a ranged GET.
+
 ## Using the site
 
 - Tap any sentence → playback jumps to that moment; tap the same sentence again to pause
