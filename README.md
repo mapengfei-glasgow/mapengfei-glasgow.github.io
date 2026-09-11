@@ -110,6 +110,28 @@ public custom domain sits behind Cloudflare, which rejects the default
 `Python-urllib/*` user agent (403) — the script sends a normal one, and some
 proxies also dislike `HEAD`, so the check uses a ranged GET.
 
+## Files page (`/files/`)
+
+A small browser front-end for the R2 bucket: it lists every object and each row has
+a **Copy link** button (plus Open and, when signed in, Delete), and you can drag
+files onto it to upload.
+
+Two modes:
+
+- **With the portal Worker** (uploads + live listing + delete): deploy
+  `tools/r2-portal/worker.js` as a Cloudflare Worker (bindings/vars are listed in
+  `tools/r2-portal/README.md`), then set `params.portalApi` in `hugo.toml` to its
+  URL and paste the `PORTAL_TOKEN` into the page once (kept in localStorage).
+- **Without it** (list + copy links only): commit a manifest and the page renders
+  from that instead —
+
+  ```bash
+  python3 tools/r2_upload.py --manifest english-site/static/files.json
+  ```
+
+The bucket's public domain is what makes the links work; the page itself is public
+too, only upload/delete need the token.
+
 ## Using the site
 
 - Tap any sentence → playback jumps to that moment; tap the same sentence again to pause

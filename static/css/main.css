@@ -406,3 +406,73 @@ body.modal-open { overflow: hidden; }
   margin-top: 0.6rem;
 }
 .home-card-icon { margin-right: 0.35em; }
+
+/* ---------- Files page (R2 portal) ---------- */
+.portal { max-width: var(--main-width, 720px); margin: 0 auto; }
+.portal-head h1 { margin: 0.2em 0 0.3em; }
+.portal-lead { color: var(--secondary); line-height: 1.7; margin: 0 0 1.6rem; }
+.portal-card {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.2rem 1.2rem;
+  margin-bottom: 1.2rem;
+}
+.portal-card.disabled { opacity: 0.6; }
+.portal-h2 { font-size: 1rem; margin: 0 0 0.8rem; }
+.portal-note { color: var(--secondary); font-size: 0.9rem; margin: 0 0 0.9rem; }
+.portal-note.ok { color: #0a0; }
+.portal-note.warn { color: #c80; }
+.portal-hint { color: var(--tertiary); font-size: 0.78rem; margin: 0.6rem 0 0; }
+.portal-tokenrow { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+.portal-tokenrow.compact { margin-top: 0.8rem; }
+.portal-tokenrow label { color: var(--secondary); font-size: 0.85rem; }
+.portal-tokenrow input {
+  flex: 1 1 12rem; min-width: 0; font: inherit; font-size: 0.9rem;
+  color: var(--content); background: var(--theme);
+  border: 1px solid var(--border); border-radius: 8px; padding: 0.45em 0.7em;
+}
+.portal-btn {
+  font: inherit; font-size: 0.85rem; padding: 0.45em 0.9em; cursor: pointer;
+  color: var(--content); background: var(--theme);
+  border: 1px solid var(--border); border-radius: 8px;
+  transition: border-color 0.12s ease, color 0.12s ease;
+}
+.portal-btn:hover { border-color: var(--primary); color: var(--primary); }
+.portal-btn.ghost { background: none; }
+.portal-btn.small { font-size: 0.75rem; padding: 0.3em 0.6em; }
+.portal-btn.danger:hover { border-color: #d33; color: #d33; }
+.portal-btn:disabled { opacity: 0.6; cursor: default; }
+.portal-drop {
+  border: 1.5px dashed var(--border); border-radius: var(--radius);
+  padding: 1.4rem 1rem; text-align: center; cursor: pointer;
+  display: flex; flex-direction: column; gap: 0.35rem;
+  transition: border-color 0.12s ease, background 0.12s ease;
+}
+.portal-drop strong { font-size: 0.98rem; }
+.portal-drop span { color: var(--secondary); font-size: 0.85rem; }
+.portal-drop:hover, .portal-drop.over { border-color: var(--primary); background: var(--theme); }
+.portal-link { color: var(--primary); text-decoration: underline; }
+.portal-progress { list-style: none; margin: 0.9rem 0 0; padding: 0; font-size: 0.82rem; color: var(--secondary); }
+.portal-progress li { padding: 0.15em 0; }
+.portal-progress li.ok { color: #0a0; }
+.portal-progress li.bad { color: #d33; }
+.portal-listhead { display: flex; align-items: baseline; justify-content: space-between; gap: 0.8rem; flex-wrap: wrap; }
+.portal-actions { display: flex; gap: 0.5rem; align-items: center; }
+.portal-actions input[type="search"] {
+  font: inherit; font-size: 0.85rem; color: var(--content); background: var(--theme);
+  border: 1px solid var(--border); border-radius: 8px; padding: 0.4em 0.7em;
+}
+.portal-count { color: var(--tertiary); font-size: 0.85rem; font-weight: 400; }
+.portal-tablewrap { overflow-x: auto; margin-top: 0.6rem; }
+.portal-table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
+.portal-table th, .portal-table td { padding: 0.5em 0.6em; border-bottom: 1px solid var(--border); text-align: left; }
+.portal-table th { color: var(--secondary); font-weight: 500; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
+.portal-table td.num { color: var(--secondary); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.portal-table td.right, .portal-table th.right { text-align: right; white-space: nowrap; }
+.portal-table a { color: var(--primary); text-decoration: none; word-break: break-all; }
+.portal-table a:hover { text-decoration: underline; }
+.portal-table .portal-btn, .portal-table .portal-btn.ghost { margin-left: 0.3rem; display: inline-block; }
+@media (max-width: 600px) {
+  .portal-table th:nth-child(3), .portal-table td:nth-child(3) { display: none; }
+}

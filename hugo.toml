@@ -25,6 +25,11 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   ShowCodeCopyButtons = false
   disableScrollToTop = false
 
+  # Files page backend: the R2 portal Worker (tools/r2-portal/).
+  # Set this to the deployed Worker URL to enable uploads, e.g.
+  # portalApi = "https://r2-portal.<your-subdomain>.workers.dev"
+  portalApi = ""
+
   # Episode audio lives in Cloudflare R2 (the repo keeps pages only).
   audioBase = "https://bucket.r2.mapengfei.cn/audio"
 
@@ -62,3 +67,8 @@ Sentences above A2 level come with a short **plain-English note**, and any sente
   name = "Vocabulary"
   url = "/words/"
   weight = 4
+
+[[menu.main]]
+  name = "Files"
+  url = "/files/"
+  weight = 5
