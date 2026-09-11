@@ -40,7 +40,7 @@
   var SDK_URL = "https://cdn.jsdelivr.net/npm/appwrite@26.2.0/dist/iife/sdk.js";
 
   var account = null, dbSvc = null, user = null;
-  var sdkPromise = null, sessionPromise = null, docCache = null;
+  var sdkPromise = null, sessionPromise = null, docCache = null, docLoad = null;
   var modal = null, mode = "login";
 
   /* ---------- Lazy SDK loading (fetch the 469KB SDK only when needed) ---------- */
@@ -232,22 +232,30 @@
 
   /* ---------- Vocabulary data ---------- */
 
+  /* Single-flight: concurrent callers share one promise. The old version stored a
+     truthy {} placeholder before the request, so a second caller ("is it cached?")
+     saw an empty cache and rendered the empty state while the request was still in
+     flight — and nothing hid it again once the real documents arrived. */
   function loadDocs() {
-    if (docCache) return Promise.resolve(docCache);
-    docCache = {};
-    return loadSDK().then(function () {
+    if (docLoad) return docLoad;
+    docLoad = loadSDK().then(function () {
       initClient();
       // 2.0 signature: listDocuments(databaseId, collectionId, queries, transactionId, total, ttl)
       return dbSvc.listDocuments(CONFIG.db, CONFIG.collection, [window.Appwrite.Query.limit(250)]);
     }).then(function (res) {
+      var cache = {};
       (res.documents || []).forEach(function (d) {
-        docCache[d.slug + ":" + d.idx] = d;
+        cache[d.slug + ":" + d.idx] = d;
       });
+      docCache = cache;
       return docCache;
     }).catch(function (e) {
       console.warn("vocab load failed:", (e && e.message) || e);
+      docLoad = null;                  // allow a retry on the next call
+      docCache = docCache || {};
       return docCache;
     });
+    return docLoad;
   }
 
   /* ---------- Episode pages: the ☆ save button ---------- */
@@ -374,7 +382,7 @@
       }
       if (empty) empty.hidden = true;
       loadDocs().then(function () {
-        var docs = Object.keys(docCache).map(function (k) { return docCache[k]; })
+        var docs = Object.keys(docCache || {}).map(function (k) { return docCache[k]; })
           .sort(function (a, b) {
             return String(b.$createdAt || "").localeCompare(String(a.$createdAt || ""));
           });
@@ -383,6 +391,7 @@
           if (empty) empty.hidden = false;
           return;
         }
+        if (empty) empty.hidden = true;  // we have items: make sure the empty note is gone
         var base = episodesBase();
         box.innerHTML = docs.map(function (d) {
           return '<li class="vocab-item" data-slug="' + esc(d.slug) + '" data-idx="' + esc(d.idx) + '">' +
@@ -420,6 +429,7 @@
       account.deleteSessions().then(function () {
         user = null;
         docCache = null;
+        docLoad = null;
         updateChip();
         render();
       }).catch(function (err) { console.warn("logout failed:", (err && err.message) || err); });

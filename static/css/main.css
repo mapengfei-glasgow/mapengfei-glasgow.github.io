@@ -368,6 +368,11 @@ body.player-open { padding-bottom: 118px; }
 .auth-submit:hover { filter: brightness(1.1); }
 .auth-anon { margin-top: 0.9rem; width: 100%; background: none; border: none; font-size: 0.8rem; color: var(--muted); cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px; }
 .auth-anon:hover { color: var(--primary); }
+
+/* /words/ header row: the sign-out button must not stretch to full width and
+   squeeze the "Vocabulary" label into a mid-word wrap (width:100% from .auth-anon). */
+.vocab-head-row .auth-anon { width: auto; flex: 0 0 auto; margin-top: 0; }
+.vocab-head-row .section-label { flex: 0 0 auto; white-space: nowrap; }
 .auth-err { min-height: 1.2em; margin: 0.8em 0 0; font-size: 0.8rem; color: var(--accent); }
 body.modal-open { overflow: hidden; }
 
