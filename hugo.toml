@@ -26,9 +26,9 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   disableScrollToTop = false
 
   # Files page backend: the R2 portal Worker (tools/r2-portal/).
-  # Set this to the deployed Worker URL to enable uploads, e.g.
-  # portalApi = "https://r2-portal.<your-subdomain>.workers.dev"
-  portalApi = ""
+  # Deployed at https://r2-portal.mpf-npu.workers.dev (R2 binding BUCKET → aorta-data);
+  # leave empty to fall back to the static files.json manifest.
+  portalApi = "https://r2-portal.mpf-npu.workers.dev"
 
   # Episode audio lives in Cloudflare R2 (the repo keeps pages only).
   audioBase = "https://bucket.r2.mapengfei.cn/audio"
