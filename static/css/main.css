@@ -272,6 +272,22 @@ body.player-open { padding-bottom: 118px; }
   white-space: nowrap;
 }
 #player-autonext[aria-pressed="true"] { color: var(--sky-blue); border-color: var(--sky-blue); background: var(--primary-soft); }
+.player-close {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  font-size: 0.85rem;
+  line-height: 1;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: color 0.12s ease, border-color 0.12s ease;
+}
+.player-close:hover { color: var(--accent); border-color: var(--accent); }
 .player-seek { flex: 1 1 100%; display: flex; align-items: center; gap: 0.8em; }
 #player-progress { flex: 1; min-width: 0; height: 28px; accent-color: var(--primary); cursor: pointer; }
 #player-time, #player-idx {

@@ -29,6 +29,7 @@
   var btnPrev = document.getElementById("player-prev");
   var btnNext = document.getElementById("player-next");
   var btnAuto = document.getElementById("player-autonext");
+  var btnClose = document.getElementById("player-close");
   var elProgress = document.getElementById("player-progress");
   var elTime = document.getElementById("player-time");
   var elIdx = document.getElementById("player-idx");
@@ -106,9 +107,36 @@
 
   /* ---------- Player bar UI ---------- */
 
-  function showBar() {
-    bar.hidden = false;
-    document.body.classList.add("player-open");
+  /* The bar is only on screen while audio is actually playing; pausing, ending or
+     closing it takes it away again (and the body padding with it). */
+  function syncBar() {
+    var live = !!ep && !!audio.currentSrc && !audio.paused && !audio.ended;
+    bar.hidden = !live;
+    document.body.classList.toggle("player-open", live);
+  }
+
+  /* Close (×): stop the audio, forget the current item and keep the bar away
+     until something plays again. */
+  function userClose() {
+    try { audio.pause(); } catch (e) {}
+    stopLoop();
+    ep = null;
+    idx = -1;
+    mode = "off";
+    uiTime = 0;
+    uiDuration = 0;
+    try { audio.removeAttribute("src"); audio.load(); } catch (e) {}
+    var store = loadStore();
+    if (store && store.last) {
+      delete store.last;
+      try { localStorage.setItem(LS_KEY, JSON.stringify(store)); } catch (e) {}
+    }
+    elTitle.textContent = "Nothing playing";
+    elSentence.textContent = "";
+    elIdx.textContent = "";
+    refreshTimeUI();
+    setPlayingIcon(false);
+    syncBar();
   }
 
   function setPlayingIcon(playing) {
@@ -289,7 +317,7 @@
     }
     doPlay(target);
     startLoop();
-    showBar();
+    syncBar();
     saveNow();
   }
 
@@ -322,7 +350,7 @@
       mode = "follow";
       doPlay(t);
       startLoop();
-      showBar();
+      syncBar();
       saveNow();
     }
   }
@@ -396,7 +424,7 @@
       setBarIdentity();
       markActivePage(idx);
       setSentenceText(idx);
-      showBar();
+      syncBar();
       return;
     }
     // switching episode: save the old position, stop the old track (keep the element)
@@ -430,7 +458,7 @@
     setSentenceText(idx);
     refreshTimeUI();
     setPlayingIcon(false);
-    showBar();
+    syncBar();
     saveNow();
   }
 
@@ -439,6 +467,7 @@
   audio.addEventListener("play", function () {
     setPlayingIcon(true);
     if (!rafId) startLoop();
+    syncBar();
     notify();
   });
 
@@ -447,6 +476,7 @@
     setPlayingIcon(false);
     refreshTimeUI();
     saveNow();
+    syncBar();
     notify();
   });
 
@@ -481,6 +511,8 @@
   btnPlay.addEventListener("click", toggle);
   btnPrev.addEventListener("click", function () { stepSentence(-1); });
   btnNext.addEventListener("click", function () { stepSentence(1); });
+  if (btnClose) btnClose.addEventListener("click", userClose);
+
   btnAuto.addEventListener("click", function () {
     autoNext = !autoNext;
     updateAutoBtn();
@@ -589,14 +621,14 @@
   // wire this page first (it may reveal the bar), then sync the body class
   document.addEventListener("turbo:load", function () {
     wireEpisodePage();
-    document.body.classList.toggle("player-open", !bar.hidden);
+    syncBar();
   });
 
   // fallback without Turbo (PaperMod does full page loads): wire on first load too
   if (typeof document.addEventListener === "function") {
     document.addEventListener("DOMContentLoaded", function () {
       wireEpisodePage();
-      document.body.classList.toggle("player-open", !bar.hidden);
+      syncBar();
     });
   }
 
@@ -626,7 +658,7 @@
     setBarIdentity();
     refreshTimeUI();
     setPlayingIcon(false);
-    showBar();
+    syncBar();
   })();
 
   updateAutoBtn();
