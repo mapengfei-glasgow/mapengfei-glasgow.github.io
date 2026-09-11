@@ -2,7 +2,11 @@
 {{ $meta := index (hugo.Data.shows | default (dict)) (urlize .Params.show) | default (dict) }}
 {{ $icon := index $meta "icon" | default "🎧" }}
 <article class="episode"
-         data-audio="{{ "audio" | absURL }}/{{ .Params.audioDir }}/episode.mp3"
+         {{- $audio := "" -}}
+         {{- with .Params.audioURL }}{{ $audio = . }}
+         {{- else }}{{ with site.Params.audioBase }}{{ $audio = printf "%s/%s/episode.mp3" . $.Params.audioDir }}
+         {{- else }}{{ $audio = printf "%s/%s/episode.mp3" ("audio" | absURL) $.Params.audioDir }}{{ end }}{{ end }}
+         data-audio="{{ $audio }}"
          data-slug="{{ .Params.slug }}"
          data-show="{{ .Params.show }}"
          {{/* Do not name this attribute data-icon: Go html/template treats

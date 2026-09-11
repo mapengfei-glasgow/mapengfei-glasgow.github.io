@@ -13,7 +13,8 @@ Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme +
 english-site/          # the Hugo site
   content/episodes/    # one .md per episode (front matter holds every sentence + its timestamps)
   data/transcripts/    # <slug>.small.json per episode (word-level timestamps)
-  static/audio/<slug>/ # the full episode.mp3 (sentences seek by timestamp; no slicing)
+  static/audio/<slug>/ # LOCAL ONLY while building: the episode MP3 is uploaded to
+                       # R2 and then removed, so the repo keeps pages only
   static/css/          # main.css — styles for our own components only
   assets/js/           # player.js (bottom bar + episode page wiring)
                        # appwrite.js (vocabulary book)
@@ -102,7 +103,9 @@ python3 tools/r2_upload.py --list --prefix audio/           # inspect a bucket
 python3 tools/r2_upload.py --delete audio/big.mp3           # remove an object
 ```
 
-It prints the public URL and verifies it with an HTTP request. Note that the
+`tools/r2_client.py` holds the shared signing/upload code (also used by
+`make_episode.py`); `tools/r2_upload.py` is the CLI. It prints the public URL and
+verifies it with an HTTP request. Note that the
 public custom domain sits behind Cloudflare, which rejects the default
 `Python-urllib/*` user agent (403) — the script sends a normal one, and some
 proxies also dislike `HEAD`, so the check uses a ranged GET.
@@ -134,20 +137,30 @@ python3 bbc_podcast.py in-our-time "$PWD/downloads/In Our Time" --limit 10   # 1
 - `bbc_publish.py` skips any episode that already has a page, so re-running is safe.
 - Transcription runs at roughly 4–5 minutes per 50-minute episode on this machine.
 
-### Capacity (why can't we just publish all 1100?)
+### Where the audio lives (Cloudflare R2)
 
-GitHub Pages serves the MP3s from the same 1 GB budget as the site, and every
-episode also stays in git history forever:
+Audio is **not** kept in this repo. `make_episode.py` encodes the episode, uploads
+it to R2 and records the public URL in the page front matter:
 
-| | |
-|---|---|
-| one Global News episode (~27 min) | ~20 MB |
-| one In Our Time episode (~50 min) | ~37 MB (CBR 96 kbps) |
-| GitHub Pages site limit | 1 GB |
-| repo limit | 1 GB recommended (history included) |
+```yaml
+audioDir: "2026-08-13-archive-coffee"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-08-13-archive-coffee/episode.mp3"
+```
 
-So a handful of episodes is fine, but the full archive needs the audio moved to
-object storage (Cloudflare R2: 10 GB free, free egress) with only pages in the repo.
+`layouts/episodes/single.html` resolves the player source in this order:
+`params.audioURL` → `site.Params.audioBase` + `audioDir` → a local
+`/audio/<slug>/episode.mp3` (legacy fallback).
+
+- bucket `aorta-data`, key prefix `audio/`, public base `https://bucket.r2.mapengfei.cn`
+- credentials: `~/.r2.env` or `<repo>/.ref/r2.env` (see `tools/r2_client.py`)
+- flags: `--no-upload` (keep it local), `--keep-local` (upload *and* keep the file),
+  `--r2-prefix` (default `audio`)
+- if the upload fails the local file is kept and the page falls back to it
+
+Sizes: the published site is ~2 MB and the repo's tracked files ~5 MB; R2's free
+tier is 10 GB, i.e. roughly 270 In Our Time episodes. Old audio still sits in the
+git history from before this migration (~530 MB) — rewriting history would reclaim
+it, but it no longer grows.
 
 ## Adding a show / an episode
 

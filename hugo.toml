@@ -25,6 +25,9 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   ShowCodeCopyButtons = false
   disableScrollToTop = false
 
+  # Episode audio lives in Cloudflare R2 (the repo keeps pages only).
+  audioBase = "https://bucket.r2.mapengfei.cn/audio"
+
   [params.footer]
     text = "Built with Hugo + faster-whisper · Tap any sentence to play from that moment"
 

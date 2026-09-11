@@ -1,3 +1,7 @@
-# Hugo 构建产物由 GitHub Actions 生成，不入库
+# Hugo build output is produced by GitHub Actions, never committed
 public/
 .hugo_build.lock
+
+# Episode audio lives in Cloudflare R2 (uploaded by tools/make_episode.py),
+# so the repo and the published site stay small.
+static/audio/
