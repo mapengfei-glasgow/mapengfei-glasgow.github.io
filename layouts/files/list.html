@@ -1,59 +1,57 @@
 {{ define "main" }}
 <div class="portal" id="portal"
      {{/* a sentinel keeps the attribute in the minified HTML when unset */}}
-     data-api="{{ with site.Params.portalApi }}{{ . }}{{ else }}none{{ end }}"
-     data-manifest="{{ "files.json" | relURL }}">
+     data-api="{{ with site.Params.portalApi }}{{ . }}{{ else }}none{{ end }}">
 
   <header class="portal-head">
     <h1>Files</h1>
     <p class="portal-lead">
-      Everything in the <code>aorta-data</code> bucket. Upload new files here, then copy a
-      download link for anyone to use.
+      Everything in the <code>aorta-data</code> bucket, grouped into folders.
+      Sign in to list, upload and delete; the download links work for anyone.
     </p>
   </header>
 
-  <section class="portal-card" id="portal-backend-card">
-    <h2 class="portal-h2">Backend</h2>
-    <p class="portal-note" id="portal-status">Checking the upload backend…</p>
-    <div class="portal-tokenrow">
-      <label for="portal-token">Portal token</label>
-      <input type="password" id="portal-token" placeholder="paste the Worker's PORTAL_TOKEN" autocomplete="off">
-      <button type="button" class="portal-btn" id="portal-token-save">Save</button>
-      <button type="button" class="portal-btn ghost" id="portal-token-clear">Forget</button>
+  <section class="portal-card" id="portal-auth-card">
+    <div class="portal-authrow">
+      <div>
+        <h2 class="portal-h2">Account</h2>
+        <p class="portal-note" id="portal-status">Checking your session…</p>
+      </div>
+      <div class="portal-actions">
+        <button type="button" class="portal-btn hidden" id="portal-signin">Sign in</button>
+        <button type="button" class="portal-btn ghost hidden" id="portal-signout">Sign out</button>
+      </div>
     </div>
-    <p class="portal-hint">Kept in this browser only (localStorage); it is sent to the upload Worker and nowhere else.</p>
   </section>
 
-  <section class="portal-card" id="portal-upload-card">
+  <section class="portal-card hidden" id="portal-upload-card">
     <h2 class="portal-h2">Upload</h2>
     <div class="portal-drop" id="portal-drop" tabindex="0" role="button" aria-label="Choose files to upload">
       <strong>Drop files here</strong>
-      <span>or <span class="portal-link">choose files</span> — they go to the bucket and stay downloadable</span>
+      <span>or <span class="portal-link">choose files</span> — they land in the bucket and stay downloadable</span>
       <input type="file" id="portal-file" multiple hidden>
     </div>
     <div class="portal-tokenrow compact">
       <label for="portal-prefix">Folder</label>
       <input type="text" id="portal-prefix" value="uploads" spellcheck="false">
+      <span class="portal-hint">e.g. <code>uploads</code> or <code>LV0D3D/runs</code></span>
     </div>
     <ul class="portal-progress" id="portal-progress"></ul>
   </section>
 
-  <section class="portal-card">
+  <section class="portal-card hidden" id="portal-files-card">
     <div class="portal-listhead">
-      <h2 class="portal-h2">Uploaded files <span class="portal-count" id="portal-count"></span></h2>
+      <h2 class="portal-h2">Files <span class="portal-count" id="portal-count"></span></h2>
       <div class="portal-actions">
         <input type="search" id="portal-filter" placeholder="filter by name…" aria-label="Filter files">
-        <button type="button" class="portal-btn ghost" id="portal-refresh">Refresh</button>
+        <button type="button" class="portal-btn ghost small" id="portal-expand">Expand all</button>
+        <button type="button" class="portal-btn ghost small" id="portal-collapse">Collapse all</button>
+        <button type="button" class="portal-btn ghost small" id="portal-refresh">Refresh</button>
       </div>
     </div>
-    <p class="portal-note" id="portal-empty" hidden>No files yet.</p>
-    <div class="portal-tablewrap">
-      <table class="portal-table" id="portal-table" hidden>
-        <thead>
-          <tr><th>Name</th><th>Size</th><th>Uploaded</th><th class="right">Actions</th></tr>
-        </thead>
-        <tbody id="portal-rows"></tbody>
-      </table>
+    <p class="portal-note hidden" id="portal-empty">Nothing here.</p>
+    <div class="portal-treewrap">
+      <ul class="portal-tree" id="portal-tree"></ul>
     </div>
   </section>
 </div>

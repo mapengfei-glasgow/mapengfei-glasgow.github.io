@@ -522,6 +522,48 @@
     }
   }
 
+  /* ---------- Public API for other pages (the /files/ portal) ----------
+     The R2 portal Worker authenticates with an AppWrite JWT, so the portal page
+     needs the current session without re-implementing sign-in. */
+
+  var jwtCache = null; // { jwt, until }
+
+  window.SiteAuth = {
+    /* resolves true/false once the stored session has been checked */
+    ready: function () { return ensureSession(); },
+    user: function () { return user; },
+    onChange: function (cb) {
+      document.addEventListener("ds-auth", function (ev) { cb(ev.detail && ev.detail.user); });
+    },
+    /* a fresh JWT (cached ~10 minutes) to hand to the Worker */
+    jwt: function () {
+      if (jwtCache && jwtCache.until > Date.now()) return Promise.resolve(jwtCache.jwt);
+      return ensureSession().then(function (okLoggedIn) {
+        if (!okLoggedIn) throw new Error("not signed in");
+        return loadSDK().then(function () {
+          initClient();
+          return account.createJWT();
+        });
+      }).then(function (res) {
+        jwtCache = { jwt: res.jwt, until: Date.now() + 10 * 60 * 1000 };
+        return res.jwt;
+      });
+    },
+    /* drop the cached JWT (e.g. after signing out) */
+    clearJwt: function () { jwtCache = null; },
+    openSignIn: function () { openModal("login"); },
+    signOut: function () {
+      return ensureSession().then(function () { return account.deleteSessions(); }).then(function () {
+        user = null;
+        docCache = null;
+        docLoad = null;
+        jwtCache = null;
+        updateChip();
+        return true;
+      });
+    }
+  };
+
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
   // Turbo: after each page appearance <body> is a new node, so re-wire everything.

@@ -112,25 +112,28 @@ proxies also dislike `HEAD`, so the check uses a ranged GET.
 
 ## Files page (`/files/`)
 
-A small browser front-end for the R2 bucket: it lists every object and each row has
-a **Copy link** button (plus Open and, when signed in, Delete), and you can drag
-files onto it to upload.
+A folder-tree browser for the R2 bucket, gated by the site's AppWrite sign-in:
 
-Two modes:
+- **Sign in** with an account (the same one the vocabulary book uses) to list the
+  bucket, upload (drag & drop, with progress) and delete.
+- Every file row has **Copy link** (public download URL) and the folders expand
+  and collapse; expansion state is remembered per browser.
+- Anonymous visitors only see the sign-in prompt — the file list itself is not
+  public any more.
 
-- **With the portal Worker** (uploads + live listing + delete): deploy
-  `tools/r2-portal/worker.js` as a Cloudflare Worker (bindings/vars are listed in
-  `tools/r2-portal/README.md`), then set `params.portalApi` in `hugo.toml` to its
-  URL and paste the `PORTAL_TOKEN` into the page once (kept in localStorage).
-- **Without it** (list + copy links only): commit a manifest and the page renders
-  from that instead —
+`hugo.toml` points the page at the portal Worker:
 
-  ```bash
-  python3 tools/r2_upload.py --manifest english-site/static/files.json
-  ```
+```toml
+[params]
+  portalApi = "https://r2-portal.mpf-npu.workers.dev"
+```
 
-The bucket's public domain is what makes the links work; the page itself is public
-too, only upload/delete need the token.
+The Worker (`tools/r2-portal/worker.js`) verifies the AppWrite JWT that the page
+sends (created by the site's own sign-in) and only then serves `/api/list`,
+`/api/upload` and `/api/delete` — no shared token. Set its `ALLOWED_USERS`
+variable to restrict those to particular accounts (empty = any signed-in one);
+the page prints your account id next to "Signed in" so it can be copied into that
+variable. Deploy notes: `tools/r2-portal/README.md`.
 
 ## Using the site
 

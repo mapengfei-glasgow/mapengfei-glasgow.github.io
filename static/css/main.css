@@ -409,6 +409,8 @@ body.modal-open { overflow: hidden; }
 
 /* ---------- Files page (R2 portal) ---------- */
 .portal { max-width: var(--main-width, 720px); margin: 0 auto; }
+/* !important: author display rules elsewhere would otherwise beat [hidden] */
+.portal .hidden { display: none !important; }
 .portal-head h1 { margin: 0.2em 0 0.3em; }
 .portal-lead { color: var(--secondary); line-height: 1.7; margin: 0 0 1.6rem; }
 .portal-card {
@@ -464,15 +466,31 @@ body.modal-open { overflow: hidden; }
   border: 1px solid var(--border); border-radius: 8px; padding: 0.4em 0.7em;
 }
 .portal-count { color: var(--tertiary); font-size: 0.85rem; font-weight: 400; }
-.portal-tablewrap { overflow-x: auto; margin-top: 0.6rem; }
-.portal-table { width: 100%; border-collapse: collapse; font-size: 0.86rem; }
-.portal-table th, .portal-table td { padding: 0.5em 0.6em; border-bottom: 1px solid var(--border); text-align: left; }
-.portal-table th { color: var(--secondary); font-weight: 500; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; }
-.portal-table td.num { color: var(--secondary); white-space: nowrap; font-variant-numeric: tabular-nums; }
-.portal-table td.right, .portal-table th.right { text-align: right; white-space: nowrap; }
-.portal-table a { color: var(--primary); text-decoration: none; word-break: break-all; }
-.portal-table a:hover { text-decoration: underline; }
-.portal-table .portal-btn, .portal-table .portal-btn.ghost { margin-left: 0.3rem; display: inline-block; }
-@media (max-width: 600px) {
-  .portal-table th:nth-child(3), .portal-table td:nth-child(3) { display: none; }
+.portal-authrow { display: flex; align-items: flex-start; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+.portal-treewrap { margin-top: 0.5rem; }
+.portal-tree, .portal-children { list-style: none; margin: 0; padding: 0; }
+.portal-children { padding-left: 1.1rem; border-left: 1px solid var(--border); margin-left: 0.55rem; }
+.portal-folderrow, .portal-filerow {
+  display: flex; align-items: center; gap: 0.45rem;
+  padding: 0.3em 0.35em; border-radius: 6px;
+}
+.portal-folderrow:hover, .portal-filerow:hover { background: var(--theme); }
+.portal-toggle {
+  flex: none; width: 1.3em; padding: 0; background: none; border: none;
+  color: var(--secondary); cursor: pointer; font-size: 0.85rem; line-height: 1;
+}
+.portal-toggle:hover { color: var(--primary); }
+.portal-foldername {
+  background: none; border: none; padding: 0; cursor: pointer;
+  font: inherit; font-size: 0.92rem; font-weight: 500; color: var(--content);
+}
+.portal-foldername:hover { color: var(--primary); }
+.portal-filename { color: var(--content); text-decoration: none; font-size: 0.88rem; word-break: break-all; }
+.portal-filename:hover { color: var(--primary); text-decoration: underline; }
+.portal-filemeta { margin-left: auto; color: var(--tertiary); font-size: 0.75rem; white-space: nowrap; }
+.portal-fileacts { display: inline-flex; gap: 0.25rem; flex: none; }
+@media (max-width: 620px) {
+  .portal-filemeta { display: none; }
+  .portal-fileacts { margin-left: auto; }
+}
 }
