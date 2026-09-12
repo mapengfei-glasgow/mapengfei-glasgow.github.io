@@ -1,0 +1,324 @@
+---
+layout: single
+title: "The Delian League"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-07-16T00:00:00Z
+slug: "2026-07-16-the-delian-league"
+audioDir: "2026-07-16-the-delian-league"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-07-16-the-delian-league/episode.mp3"
+totalDuration: 3366.5
+sentences:
+  - {text: "BBC Sounds. Music Radio Podcasts.", start: 1.10, end: 4.92}
+  - {text: "After a summer of lounging and listening to BBC Podcasts, you might need help readjusting to the rhythm of normal life.", start: 7.00, end: 13.64}
+  - {text: "So listen to a breakfast show live on BBC Sounds.", start: 14.50, end: 17.64}
+  - {text: "Good morning! Get up and at it with Greg James on Radio 1.", start: 17.90, end: 22.54}
+  - {text: "You are the oohing.", start: 22.68, end: 23.70}
+  - {text: "Me cocks it, it'll do.", start: 23.70, end: 24.74}
+  - {text: "Have a laugh with Sarah Cox on Radio 2.", start: 24.96, end: 27.26}
+  - {text: "We'll calm it all down with Tom McKinney on Radio 3.", start: 27.70, end: 31.02}
+  - {text: "Enjoy the rest of your day.", start: 31.18, end: 32.06}
+  - {text: "Breakfast, packed with personality.", start: 32.72, end: 34.62}
+  - {text: "Listen on BBC Sounds.", start: 35.18, end: 36.36}
+  - {text: "Hi, this is Misha Glenny.", start: 36.82, end: 38.48}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 39.12, end: 43.26}
+  - {text: "But if you can't wait, head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else.", start: 44.04, end: 51.88}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 52.50, end: 61.32}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 61.82, end: 67.10}
+  - {text: "I hope you enjoy the programme.", start: 67.66, end: 69.04}
+  - {text: "Hello. In 478 BCE, the Greco -Persian Wars had seen a series of armed conflicts for over twenty years.", start: 70.26, end: 78.96}
+  - {text: "After the defeat of a second Persian invasion, a league of cities across Greece came together.", start: 79.64, end: 85.72}
+  - {text: "They formed a new alliance, led by Athens, an alliance which we now call the Delian League.", start: 86.32, end: 92.68}
+  - {text: "In the following decades, Athens used the Delian League to grow its own wealth and formidable naval power.", start: 93.38, end: 100.34}
+  - {text: "But cities who tried to leave the alliance found themselves violently put down and their lands confiscated.", start: 100.86, end: 108.04}
+  - {text: "What began as a cooperative alliance sworn to fight back and defend Greeks against the Persian Empire gradually started to seem like it may have created another imperial power, the Athenian Empire.", start: 108.80, end: 122.60}
+  - {text: "With me to discuss the Delian League, Arlia Lazar, lecturer in Hellenistic culture at the University of Manchester, Polly Lowe, professor in the Department of Classics and Ancient History at the University of Durham,", start: 123.66, end: 137.22}
+  - {text: "and Paul Cartledge, AG Leventus Senior Research Fellow of Clare College, University of Cambridge.", start: 137.84, end: 144.58}
+  - {text: "And Paul, it's to you I want to come first to give us if you can a sense of the geopolitical landscape of this period.", start: 144.58, end: 154.68}
+  - {text: "What did Greece look like and what did the Persian Empire look like?", start: 154.92, end: 158.82}
+  - {text: "You started off in 478, so I'm going to take you back 70 -plus years to about 550.", start: 159.00, end: 166.42}
+  - {text: "And that's when the Persian Empire, sometimes we say the Achaemenid Persian Empire, rose very, very suddenly in, of course, Iran.", start: 167.02, end: 176.32}
+  - {text: "Within 50 years it had spread east -west, far east as Afghanistan, Pakistan, as far west as the Aegean Sea, and indeed slightly over into Europe.", start: 176.96, end: 187.96}
+  - {text: "So we're dealing with a vast territorial empire such as the Greeks.", start: 188.62, end: 194.76}
+  - {text: "Never were to know for quite a long time until after the period we're looking at.", start: 195.22, end: 201.12}
+  - {text: "So what was Greece?", start: 201.12, end: 202.30}
+  - {text: "Well, there was no such thing as a nation -state of Greece.", start: 202.52, end: 206.12}
+  - {text: "There was a Kulturgreis, a German for a cultural circle of Hellas, people who spoke Greek, thought Greek, behaved Greek.", start: 206.80, end: 215.94}
+  - {text: "And they were spread all over the Mediterranean, all around the Black Sea.", start: 216.54, end: 220.42}
+  - {text: "So no one focused.", start: 220.88, end: 222.26}
+  - {text: "But the nearest bit of the Greek world to the Persians was actually within the Persian Empire.", start: 222.54, end: 229.30}
+  - {text: "So as the Persians expanded west in the second half of the 6th century BC, they conquered a whole string of Greeks cities along the western", start: 229.30, end: 238.94}
+  - {text: "seaboard of what is the Aegean Sea for the Greeks.", start: 238.94, end: 243.42}
+  - {text: "You have therefore a confrontation, potentially, a potential crunch point at the Aegean border of the western Persian Empire.", start: 243.88, end: 253.02}
+  - {text: "But 50 years or so after they'd first been incorporated in the Persian Empire, a bunch of Greeks decided they didn't want to be in the Persian Empire anymore.", start: 253.48, end: 262.92}
+  - {text: "So one particular Greek city is called Miletus.", start: 263.58, end: 267.00}
+  - {text: "It's now in western Turkey.", start: 267.48, end: 268.90}
+  - {text: "A representative went to mainland Greece seeking aid in order to support them militarily, that is principally with ships, but also with men and money, in rising up against the Persian Empire.", start: 269.60, end: 282.04}
+  - {text: "The Athenians accepted. And that is the beginning of the Greek -Operation Wars as seen from the mainland of Greece.", start: 282.60, end: 291.24}
+  - {text: "If you're looking at it all from Iran, well, these pesky Greeks on the far west of our empire, do we need to worry about them?", start: 291.80, end: 300.72}
+  - {text: "Well, the Persians eventually decided to launch a vast invasion, amphibian, in the late 480s, and that resulted in what we call the Greek -Operation Wars, and thereafter the Demian League.", start: 300.88, end: 314.76}
+  - {text: "OK, so why the name Deleon League?", start: 315.49, end: 319.01}
+  - {text: "It comes from the island of Delos, where the alliance was established.", start: 319.21, end: 323.17}
+  - {text: "But why was Delos, it's quite a small island.", start: 323.51, end: 326.13}
+  - {text: "Why was it chosen?", start: 326.33, end: 327.11}
+  - {text: "Well, it's a bit like the Holy Roman Empire, which Voltaire said was neither holy nor Roman nor an empire.", start: 327.81, end: 333.31}
+  - {text: "So it was Deleon only in the sense that the oaths of the initial allies, who some of them had been allied before, they're now new allies,", start: 333.49, end: 343.71}
+  - {text: "they're meeting together to form a new alliance on the island of Delos.", start: 343.71, end: 348.39}
+  - {text: "Delos is pretty much bang in the middle of what in Greek is Kiklaves, we say the Cyclades, in the central Aegean, and it belongs to the bit of the Greek culture,", start: 348.91, end: 360.85}
+  - {text: "which we call Ionian, because that's the way in which they spoke Greek, and the cults that they shared in common, for example a festival called the Aperturia.", start: 360.99, end: 370.81}
+  - {text: "So Athens is the principal lead on this, it is going to be the lead ally, and it is Ionian, Ionic, and therefore it needs a base which sorts with its own intellectual, political, religious, and so on outlook.", start: 370.81, end: 390.15}
+  - {text: "And most of the initial allies were probably Ionian Greeks, Iundas and Mainlanders on both sides of the mainland, that is on the western side of the region, and the eastern that is mainland Greece, and they swore the oaths of alliance.", start: 390.55, end: 408.09}
+  - {text: "They did not create a league in a modern sense wherein every ally is allied to everybody else, but in this league, every ally was allied with Athens, not necessarily with any other ally.", start: 408.33, end: 422.71}
+  - {text: "So Pully, what was the Delian League actually for?", start: 423.33, end: 427.47}
+  - {text: "What were its concrete aims?", start: 427.47, end: 429.69}
+  - {text: "So the short answer to that is that we don't know for sure because, and this is something we might say quite a lot, I think, we don't have any contemporary evidence.", start: 430.73, end: 439.71}
+  - {text: "We don't know what the Athenians said at that meeting in 478, 477.", start: 439.97, end: 444.17}
+  - {text: "There's two versions in the ancient sources, so Thucydides who's writing about 50 years after the event says that what the Athenians said the alliance was to take revenge on Persia for the damage that the Persians had done to the Greeks,", start: 444.85, end: 460.99}
+  - {text: "particularly in the Great Invasion of 480, but we have another source, a later source attributed to the philosopher Aristotle, probably written by one of his students who's writing in the second half of the fourth century BCE,", start: 461.39, end: 474.33}
+  - {text: "who says that the alliance has much more general aims, so he says they swear to have the same friends and enemies, so that's a very open -ended commitment to mutual defence and also mutual offence.", start: 475.83, end: 487.77}
+  - {text: "And that source also says that when the allies swore the oaths that Paul just mentioned, they affirm the oaths by throwing lumps of iron into the sea,", start: 488.51, end: 499.21}
+  - {text: "and the usual way that that is interpreted is a symbolic act to mean that the oaths will last until the iron floats back to the surface,", start: 499.87, end: 507.53}
+  - {text: "which is to say that they'll last forever.", start: 507.53, end: 509.27}
+  - {text: "So whereas Thucydides gives the impression this is an alliance with, in theory, an end date, because at some point you would have taken enough revenge on Persia and then the objectives would have been fulfilled,", start: 509.27, end: 520.07}
+  - {text: "the version we get in the Aristotelian source suggests that this is an alliance that could be used to fight against anybody and could, in theory, last forever.", start: 520.93, end: 528.99}
+  - {text: "So Athens offers allies a choice.", start: 530.00, end: 532.68}
+  - {text: "They can either contribute in the conventional way to the alliance by providing men and material, or they could give Athens money, which we call tribute,", start: 533.30, end: 542.78}
+  - {text: "and Athens, at least in theory, will use that money to spend on men and military material.", start: 543.32, end: 548.66}
+  - {text: "So Paul mentioned that the allies all committed to an alliance with Athens but not with each other.", start: 549.30, end: 556.82}
+  - {text: "So what was Athens' intentions by creating this alliance?", start: 557.36, end: 561.74}
+  - {text: "That again is a very good question to which there is no settled answer.", start: 562.48, end: 566.92}
+  - {text: "Thucydides, when he talks about what the Athenians promise at this first meeting, says that the Athenians give the declared intention that the purpose is revenge on Persia.", start: 567.74, end: 579.10}
+  - {text: "And there's been a lot of debate over that.", start: 579.30, end: 580.94}
+  - {text: "There's one word in the Greek.", start: 581.30, end: 582.82}
+  - {text: "Whether Thucydides is encouraging us to think that the Athenians already at that point, that isn't their real intention, that their intention is to expand their own power and ultimately to establish an empire.", start: 583.64, end: 595.46}
+  - {text: "But there is an alternative view which would say actually the Athenians at that point were really focused on the threat from Persia and that's what they were trying to achieve.", start: 596.12, end: 603.64}
+  - {text: "And then their aims develop over the lifetime of the alliance.", start: 604.02, end: 608.24}
+  - {text: "Leah Lazar, the Delian League, the Athenian Empire, can you unpick these terms for us?", start: 609.22, end: 617.12}
+  - {text: "Was it described as such at the time?", start: 617.36, end: 620.04}
+  - {text: "And would you call it an empire what Athens created?", start: 620.04, end: 624.68}
+  - {text: "Well, the title of this episode is obviously the Delian League.", start: 626.03, end: 629.75}
+  - {text: "But I prefer in my teaching and in my writing to talk about the Athenian Empire from the get -go.", start: 630.09, end: 637.17}
+  - {text: "It's the topic that's much debated among scholars, but I think Athens satisfies the basic definition of what an empire is.", start: 637.53, end: 647.03}
+  - {text: "So you think that Athens knew what it was doing from the very beginning in slight contrast to what Polly was saying that there's some confusion?", start: 647.03, end: 657.93}
+  - {text: "Certainly. I think that there's at least imperial intent.", start: 658.65, end: 662.39}
+  - {text: "As Polly said, the intent to expand Athenian power from the beginning potentially even from before the Greco -Persian Wars.", start: 662.89, end: 670.23}
+  - {text: "There's evidence to suggest that the Athenians were already expanding in some ways before that.", start: 670.63, end: 676.29}
+  - {text: "And if we take a common definition of empire that of Doyle, of two political entities where the dominant entity is exerting political control over both the external", start: 676.89, end: 693.23}
+  - {text: "and internal affairs of the less dominant entity we have evidence for Athens doing that I think at least from the middle of the fifth century.", start: 693.23, end: 701.23}
+  - {text: "But both these terms Deleon League and Athenian Empire are complicated and difficult to use because neither of them have exact parallels in the original Greek texts.", start: 702.16, end: 712.88}
+  - {text: "So we were just hearing from Paul and Polly about the Athenians establishing themselves as leaders of this alliance.", start: 713.58, end: 722.58}
+  - {text: "Decidides when he's talking about this moment initially uses the term hegemonia, hegemony, but very quickly he switches to using another Greek term, archae, which is quite hard to translate in English.", start: 723.50, end: 736.90}
+  - {text: "Some scholars do translate it as empire or as power.", start: 737.28, end: 740.92}
+  - {text: "But in addition to that, Decidides also continues to use the language of alliance throughout.", start: 741.60, end: 747.58}
+  - {text: "So the other cities are usually described as allies and we even get that term in Athenian political documents throughout the fifth century.", start: 747.96, end: 756.70}
+  - {text: "And I think it might have been a convenient fiction for the Athenians to carry on using this language of alliance even when it was no longer that at all.", start: 757.10, end: 765.08}
+  - {text: "Yes, I have to say when I first read about it, it struck me it was rather like a protection racket, the whole thing that if you don't join in with and deliver money or whatever, we will take you over.", start: 765.54, end: 777.62}
+  - {text: "I mean, it seemed a fairly tough arrangement as far as the allies were concerned and we'll come to the allies later, but can you firstly give us a sense of scale here.", start: 778.10, end: 787.76}
+  - {text: "How many city states were there in the Delian League and how much territory did it actually cover?", start: 788.24, end: 794.56}
+  - {text: "So to echo Polly that's actually quite a difficult question to answer.", start: 795.30, end: 799.48}
+  - {text: "I think there's going to be a lot of this.", start: 800.42, end: 801.72}
+  - {text: "Partly because of the fragmentary nature of the evidence and partly because there are different ways that one could define membership of the League to take one of the most commonly applied criteria,", start: 803.70, end: 817.44}
+  - {text: "the payment of tribute of annual monetary payments to Athens.", start: 818.10, end: 822.50}
+  - {text: "We have records of I think around 330 also states at least being assessed for that tribute in the course of the fifth century and most of those states were located on the Aegean islands", start: 823.08, end: 837.64}
+  - {text: "that Paul has talked about in what is now northern Greece around the cities of Thessaloniki and Cavala in modern terms and also on the western coast of Turkey,", start: 837.64, end: 848.24}
+  - {text: "those cities that had previously been under Persian control.", start: 848.42, end: 851.42}
+  - {text: "But in various ways the Athenian power stretched beyond the Aegean, so also into the Black Sea the Ionian islands on the western coast of Greece", start: 851.96, end: 864.76}
+  - {text: "and even to Italy and Sicily at points in the fifth century.", start: 864.76, end: 868.56}
+  - {text: "But although Sparta and Athens had cooperated in resisting the Persian invasion Sparta was not part of the Delian League, is that right?", start: 868.84, end: 878.46}
+  - {text: "That's correct. Sparta had leadership of the Alliance of States that had fought against the Pajons but Athens took over the leadership in the aftermath of the Greco -Pajon wars.", start: 878.96, end: 888.58}
+  - {text: "Paul, we've had a lot of we don't know so far and quite a few mentions of Thucydides.", start: 889.20, end: 895.76}
+  - {text: "So can you tell us about what exactly are the written sources about the Delian League?", start: 896.04, end: 901.36}
+  - {text: "OK, so our principal written narrative source for the actual wars which preceded and made possible the Delian League is Herodotus, who was born within the Persian Empire", start: 901.48, end: 914.88}
+  - {text: "so he's a very interesting character that he on the one hand knew first hand what it was like to be a subject of Persia on the other hand his city", start: 914.88, end: 924.40}
+  - {text: "under the terms of the Delian League joined the Delian League and he personally Herodotus decided that his life's project was to explain why Greeks and non -Greeks, barbarians they called them,", start: 924.94, end: 937.48}
+  - {text: "had fought each other and he wanted both to celebrate and to explain what was going on some people think that he wrote his entire history with an arrière -pensée", start: 937.78, end: 950.74}
+  - {text: "so behind what he's writing about ostensibly which ends in 479 actually what he's got in mind is the rise of the Athenians and as Leah says I agree with Leah", start: 950.74, end: 964.80}
+  - {text: "that the Athenians very soon adopted an imperial posture and so therefore Herodotus also is indirectly a historian of the rise of the Athenian and he's", start: 964.80, end: 977.36}
+  - {text: "justifying the Athenian imperial process this is one thing that's not been mentioned yet that another part of Athens is propaganda which is actually wholly in principle admirable is liberation", start: 977.36, end: 990.70}
+  - {text: "so Herodotus is one source a justification as it were leading up to the Delian League the other big source is Thucydides well his subject is the war", start: 990.70, end: 1004.26}
+  - {text: "which broke out in 431 but we call it the Peloponnesian war typically because we see it from the Athenian point of view if I was a Spartan writing the history of", start: 1004.26, end: 1015.50}
+  - {text: "that war it would be the Athenian war and of course this is Thucydides he wanted to be both Herodotus and Homer at once so my war is bigger than your war and in fact it's bigger even than Homer's war", start: 1015.50, end: 1030.86}
+  - {text: "Homer's war lasted 10 years my war this is Thucydides lasted 27 so beat that does he describe the history of the Delian League in the Peloponnesian war Polly started us off with this ambiguous language of pretext", start: 1031.64, end: 1047.42}
+  - {text: "or was it reason why the Athenians took the lead in 478 477 rather briefly and just sort of like a butterfly he hops from one episode to another between 478", start: 1047.42, end: 1062.42}
+  - {text: "and 431 he sets up his war in terms of its immediate antecedents but he's an extremely sophisticated historian so he distinguishes between occasion and real", start: 1062.42, end: 1076.36}
+  - {text: "deep dive causation Polly let's go to the start of the league in 478 and its first couple of decades up until about the 450s what's it doing initially", start: 1076.36, end: 1090.54}
+  - {text: "so as Paul has mentioned the Athenians and the allies do spend quite a lot of time fighting the Persians liberating Greek communities in the north -east Aegean they win a significant victory over the Persians it's a place called Eurymidon river which is in southwest", start: 1090.54, end: 1108.64}
+  - {text: "Anatolia they then get involved in Egypt which is where things start to go wrong so Egypt has been part of the empire for some time an Egyptian ruler", start: 1109.42, end: 1121.44}
+  - {text: "leads a rebellion an attempt to secede from the empire and the Athenians get involved in that rebellion supporting the rebellion supporting the rebellion so undermining", start: 1122.68, end: 1133.70}
+  - {text: "the Achaemenid Empire exactly what they were hoping to achieve the Athenians is unclear whether they were just trying to weaken Persia or whether they actually thought that they Athens might be able to take over rule of Egypt which would be", start: 1134.24, end: 1148.14}
+  - {text: "an extremely ambitious thing to try to do but maybe at this point the Athenians think that this could be possible for them it isn't possible, it goes disastrously wrong it's a sort of slow burn disaster but over the course of about five years", start: 1149.72, end: 1163.58}
+  - {text: "the Athenians invest a lot of manpower and resource in this expedition and it's almost completely wiped out and that really marks the end of any open conflict with Persia", start: 1164.30, end: 1176.20}
+  - {text: "I think it's the case that the Athenians make a formal peace settlement with Persia in the late 450s but the other thing which the Athenians", start: 1176.78, end: 1183.88}
+  - {text: "are also doing from the very early years of the alliance is fighting other Greek states which is a bit harder to square with what Thucydides", start: 1183.88, end: 1193.44}
+  - {text: "said they said they were going to do Do you mean Greek states like Sparta or do you mean Greek states who are actually theoretically allies of theirs in the Delian League?", start: 1193.44, end: 1202.20}
+  - {text: "Well a bit of both but this does include states which have joined the League and then have attempted to leave and the Athenians forcibly reincorporate those states into the League.", start: 1202.22, end: 1214.06}
+  - {text: "So that brings me on to the allies in the alliance.", start: 1214.28, end: 1217.70}
+  - {text: "We've talked a lot about Athens Athenian strategy and Ames Leah, what do we know about their allies up to I believe about 300 of them at its greatest extent.", start: 1217.86, end: 1231.64}
+  - {text: "Do we know what they're thinking about all of this?", start: 1231.98, end: 1234.40}
+  - {text: "It's really hard to know how Athenian power was received by the allied communities because there are multiple issues with the evidence Firstly we have much", start: 1234.96, end: 1246.82}
+  - {text: "more evidence for the Peloponnesian war period the later part of the 5th century than we do for the earlier part and also the majority of our evidence is Athenian.", start: 1246.82, end: 1255.98}
+  - {text: "So we're really getting Athenian perspectives on this.", start: 1256.12, end: 1258.50}
+  - {text: "We're not getting the perspectives of other cities especially less powerful communities.", start: 1258.58, end: 1263.94}
+  - {text: "I think it's fair to say though from the sources that we do have there were varied responses to Athenian power as Polly has mentioned there was resistance, there was revolt and in some cases violent reintegration of those communities back into the League", start: 1264.56, end: 1282.28}
+  - {text: "Other communities also negotiated with the Athenians for more favourable positions within the Alliance and I think there's some evidence in some cases for ideological buy -in on the part of particular communities to the Athenian Imperial project", start: 1283.00, end: 1300.96}
+  - {text: "So to give an example at least by the 420s BC so a bit later than what we've been talking about so far we have evidence to suggest", start: 1300.96, end: 1311.28}
+  - {text: "that the Athenians demanded that allied cities sent delegations and offerings to Athenian religious festivals.", start: 1311.28, end: 1319.92}
+  - {text: "This was an important part of the ideology of empire, this religious aspect and centuries later we find a small city in western Turkey called Prayini still sending those delegations", start: 1320.26, end: 1334.82}
+  - {text: "and offerings and I wonder whether it's evidence that Prayini really brought into this religious aspect of Athenian power so much so that they're still doing this years", start: 1334.82, end: 1345.30}
+  - {text: "and years later Well presumably for some of these allies there must have been advantages being in this alliance as well if only for protection Precisely,", start: 1345.30, end: 1355.10}
+  - {text: "it might have been the case that some of these cities were between a rock and a hard place with Persia or with other powers outside of the Aedilian League and that Athens was simply the better of two options I", start: 1355.24, end: 1368.38}
+  - {text: "know that my son is somewhere alive This is Deborah Tice, her son Austin is one of the biggest missing person cases in the world He disappeared in Syria more than a decade ago and for years I've been searching for him We've spoken to spies,", start: 1368.96, end: 1384.96}
+  - {text: "tracked down war criminals and uncovered evidence that has never been made public I want to know about my son Where is Austin Tice?", start: 1385.24, end: 1393.66}
+  - {text: "Listen on BBC Science Paul, Polly indicated that after the end of the Egyptian campaign the confrontation with Persia appeared to come to an end so around 450 BCE we're talking about now there appears to have been one", start: 1394.04, end: 1413.66}
+  - {text: "or two fundamental shifts in the League Can you describe what those are?", start: 1413.66, end: 1417.48}
+  - {text: "Well one of them is this is again one of these unknown unknowns I think we might have to change the title of this episode, the Unknown Delian League", start: 1417.82, end: 1428.60}
+  - {text: "If there had been sworn in 479 an oath by the Athenians before a major battle which is actually the final decisive battle on land against the Persians", start: 1428.60, end: 1441.96}
+  - {text: "who were invading If the Athenians had sworn an oath which includes the clause we will not rebuild the shrines and other buildings that the Persians have destroyed until", start: 1441.96, end: 1455.58}
+  - {text: "and unless we have either as it were beaten the Persians or and made a peace with them such that they're not going to come again", start: 1455.58, end: 1463.98}
+  - {text: "and destroy the buildings they've destroyed and that ties in with it's only in one source it's in Plutarch it's a biography of Pericles he says", start: 1463.98, end: 1473.80}
+  - {text: "Pericles then a leading figure in Athens in the 440s sends round to all the Greeks who were involved not just in the Delian League but", start: 1473.80, end: 1482.98}
+  - {text: "to Sparta to the old alliance against the Persians let's have a universal congress and come together and make a kind of deal that we will all unite against the Persians", start: 1482.98, end: 1496.36}
+  - {text: "and live in harmonies it actually sounds very suspiciously unlike the way in which the Greeks in fact conducted their diplomas and the Spartans allegedly just", start: 1496.36, end: 1506.58}
+  - {text: "said buzz off you know we're not interested in you leading a peace congress but from this early part of the 440s very concretely actually in Marble we can specify that in 447 a huge building program on the Acropolis", start: 1506.58, end: 1525.40}
+  - {text: "under the Acropolis and the centerpiece of all that building program is of course what we call the Parthenon they didn't actually call it the Parthenon the building", start: 1526.11, end: 1535.32}
+  - {text: "as a whole we're not quite sure what it was called it might have been the 100 footer the Parthenon was a particular building within the big building at any rate that's", start: 1535.32, end: 1545.56}
+  - {text: "so massively clearly anti -Persian we've done it for you Greeks this is not just a thing in this Pan -Hellenic come to Athens bring your offerings", start: 1545.56, end: 1556.60}
+  - {text: "that Lea has mentioned to our two biggest festivals Panathenaia Dionysia and then you'll look up on the Acropolis and you'll see what we have done", start: 1556.60, end: 1567.52}
+  - {text: "for you Pericles had preceded this by I believe shifting the treasury from Delos to Athens which is a centralising move if ever I've heard well yes", start: 1567.52, end: 1578.82}
+  - {text: "and no because 454 when the treasury was definitely moved because that's when the tribute quota lists start getting written Pericles was not yet much of a power he was a general he was a leading politician", start: 1578.82, end: 1592.90}
+  - {text: "but it wasn't actually his proposal and there is a source which says one of the allies proposed the move and that was Samos which is one of the biggest most sensitive most important allies", start: 1592.90, end: 1604.68}
+  - {text: "but that might of course have been the Athenians claiming oh no it wasn't our idea it was the Samians Pauli talking about Samos now you mentioned before that some of the allies", start: 1604.68, end: 1615.96}
+  - {text: "had had enough at various points and it seems to me the Delian League was studied with very serious uprisings can you tell us about those communities which were resisting the Athenians yeah so there are regular", start: 1616.56, end: 1631.52}
+  - {text: "revolts or attempted revolts there's very few that are successful at least until the very final years of the empire when Athens is becoming less powerful", start: 1632.24, end: 1640.12}
+  - {text: "so I mean there's I think about 60 or so attempted revolts over the entire 70 year history of the alliance some of those are the same community rebelling more than once you might say well", start: 1640.12, end: 1654.60}
+  - {text: "if there are 350 odd communities in the whole organization then maybe that means that it's a minority sizable minority but still a minority of states", start: 1654.60, end: 1665.40}
+  - {text: "who are annoyed enough or upset enough to want to secede from this organization and what do the Athenians do when faced with such military rebellions so military force very major military intervention", start: 1665.40, end: 1680.85}
+  - {text: "and then in the case of Samos after a long campaign when they succeed in bringing the Samians back into line they impose quite severe financial penalties the Samians have to pay reparations to Athens and also according to Plutarch", start: 1681.61, end: 1698.71}
+  - {text: "who actually reports this story and says that he himself isn't quite sure if he believes it Pericles who led the campaign against Samos took the ring leaders of the rebellion", start: 1699.31, end: 1709.01}
+  - {text: "and had them crucified which is not a thing that the Greeks like to believe that this isn't the sort of thing the Greeks normally do this is something that would be associated with non -Greek behavior so a very extreme form of punishment", start: 1709.01, end: 1723.65}
+  - {text: "Leah we've heard about the paucity of written sources can you tell us a little bit about numismatic sources what the coins tell us from the period absolutely so", start: 1724.51, end: 1737.50}
+  - {text: "coinage had been invented about 200 years or so earlier than this in what is now western Turkey and by the 5th century a lot of Greek cities are minting their own coins usually using silver", start: 1738.58, end: 1755.26}
+  - {text: "and they minted coins not as we might think from modern parallels to maintain a monetary supply but usually when they need to pay for something in particular", start: 1755.26, end: 1767.62}
+  - {text: "and that something in particular often was military expenditure so soldiers pay or the building and maintenance of a fleet and we see this really clearly with Athens in the Dealing League period", start: 1767.62, end: 1781.20}
+  - {text: "from the Greco -Persian wars onwards there's a massive explosion in levels of Athenian monetary production so we've heard how they're getting silver coins, money in from their allies", start: 1781.74, end: 1796.54}
+  - {text: "they're also operating a massive mining operation a place called Larion in their territory and they're getting this money they're minting coins and they're using it in great part to pay for their fleet", start: 1797.06, end: 1809.96}
+  - {text: "so there's a direct relationship between increased monetary production at Athens in the 5th century and the expansion of Athenian naval power and one of the consequences of this is", start: 1809.96, end: 1823.06}
+  - {text: "that there was a big influx of Athenian currency in the Aegean and beyond and Athenian coinage which looked very distinctive it had the goddess Athena", start: 1823.06, end: 1835.30}
+  - {text: "on the one side it had her owl on the other side it became really commonly recognised and accepted it was I guess the US dollar of its day and we even find other communities minting coins to a lesser extent because they're just using Athenian currency", start: 1835.30, end: 1852.24}
+  - {text: "Paul, you mentioned Pericles and the building of the Acropolis, the Parthenon he went on a statue and temple building spree, was this all around Athens", start: 1853.04, end: 1865.98}
+  - {text: "or did they also build temples and statutes to the gods around the entire league?", start: 1865.98, end: 1873.46}
+  - {text: "Yeah, well there are two sorts of issues here one is Pericles of course was totally dependent on the ordinary people of Athens agreeing with whatever he suggested because it was a democracy?", start: 1873.56, end: 1886.02}
+  - {text: "Yes, I was just going to say we've been sort of avoiding the word democracy which does apply also within the allied states and in terms of within Athens in the 5th century there are at least two other major temples", start: 1886.50, end: 1898.58}
+  - {text: "outside Athens city and one of them Rhamnus and one of them at Sunion and the Sunion one you can still go and visit, utterly beautiful", start: 1899.24, end: 1909.20}
+  - {text: "and they're about the same period so 440 or so 440 is as the Parthenon's going up and it took 15 years these other two temples outside Athens", start: 1909.20, end: 1920.56}
+  - {text: "and then there's a very big one in Athens called the Hifestion which looks over the city centre where both commercial and political business was transacted so it was systematic,", start: 1920.56, end: 1931.60}
+  - {text: "it's not random and it was very very expensive and it did indeed generate opposition not only from outside but also from within, there is one rival of Pericles who chose to make the amount Athens was spending of both its own money and of allied tribute,", start: 1931.60, end: 1949.36}
+  - {text: "a political issue such that it was going to decide whether Pericles or this rival politician were to continue as the leading politician of Athens and Pericles won", start: 1949.72, end: 1961.86}
+  - {text: "Poly, Lea's said that she considers it legitimate to call the Delian League an empire from the very beginning and it seems to me that this is the big issue about the Delian League, is it an empire or not,", start: 1963.51, end: 1975.73}
+  - {text: "do you agree with her that that's when it starts or is there a moment later on where it shifts to an imperial structure?", start: 1976.31, end: 1983.61}
+  - {text: "I mean I do agree that already in that early period Athens is clearly ambitious and wants to extend its own power, I'm on the fence about exactly when it becomes an empire and to the extent that I'm not sure that there's a single date", start: 1984.03, end: 1998.25}
+  - {text: "that we can point to particularly because and again this is something Lea's I think alluded to already of all these communities that are in the empire,", start: 1998.81, end: 2008.23}
+  - {text: "different communities have quite different experiences of what it's like to be part of this organisation and for some people, so Naxos which is this state which is forced to rejoin in the 470s,", start: 2008.97, end: 2020.59}
+  - {text: "I suspect they realised quite early on that this wasn't just an old fashioned alliance that they were part of, other communities who might have had a rather more positive experience and been less exposed to Athenian power might have sort of carried on", start: 2020.97, end: 2034.79}
+  - {text: "feeling like they were part of the league maybe down until the 420s Athens is quite deep into this war against Sparta and it's in the 420s we get this flurry of Athenian regulations", start: 2035.47, end: 2048.87}
+  - {text: "which are preserved for us as inscribed documents, documents inscribed on stone and we can see the Athenians really clamping down, particularly on the financial management of the empire and starting to squeeze the allied communities much harder,", start: 2049.47, end: 2061.91}
+  - {text: "probably because they need the money to fight the war and there's much more emphasis on officials, there are penalties for people who don't comply and so I think the 420s it might have been", start: 2062.33, end: 2074.17}
+  - {text: "quite hard for many or even most communities to deny that they were now living in something like an empire but for some communities I think the realisation would have come earlier than that.", start: 2074.81, end: 2086.31}
+  - {text: "Leah, we come now to my favourite question this episode, can you tell us about Cloud Cuckoo Land and why it's relevant to the Delian League?", start: 2086.47, end: 2093.51}
+  - {text: "I think it's my favourite question as well so in classical Athens there were big public performances of comic plays actually in the context of religious festivals", start: 2094.13, end: 2108.24}
+  - {text: "and these comedies were the closest we can get to Athenian popular culture and they often engaged with the really hot political topics of the day", start: 2108.96, end: 2120.06}
+  - {text: "and of course as we've been discussing a big part of the political scene at Athens was the Delian League so some of these comedies engage with the Delian League", start: 2120.57, end: 2130.42}
+  - {text: "and I think the best example of this is a play called Birds composed by the comic playwright Aristophanes and performed for the first time in 414 BC and this was a moment", start: 2130.51, end: 2147.17}
+  - {text: "when Athenian power was really trying to expand the previous year the Athenians had sent what would ultimately be a disastrous expedition to conquer Sicily and Birds comes in just after this", start: 2147.78, end: 2162.93}
+  - {text: "and seems to offer quite a critical view of Athenian power so the plot of the play is that they're two disaffected Athenians they decide they're fed up of Athens and they're going to found their own city in the sky called Cloud Cuckoo Land", start: 2162.93, end: 2178.13}
+  - {text: "that's where the word comes from and Aristophanes uses Cloud Cuckoo Land in various ways to send up Athenian power so as soon as the city is founded there's this parade of really annoying individuals", start: 2179.23, end: 2194.65}
+  - {text: "who come along including Athenian officials there's a cellar of decrees of the Imperial regulations that Polly was just talking about offering Imperial regulations to this new city", start: 2194.65, end: 2207.73}
+  - {text: "and there's even a joke about how people might want to go to the toilet on them so clearly not very popular and in addition to", start: 2207.73, end: 2215.77}
+  - {text: "that Cloud Cuckoo Land itself becomes an Imperial power so it's in the sky and it starts stopping offerings from people on earth reaching the gods", start: 2215.77, end: 2225.29}
+  - {text: "so it's offering this very critical view of Athenian power and I think that it's the closest we can get to how the man on the street might have perceived the Athenian Empire the Delian League", start: 2226.11, end: 2237.91}
+  - {text: "because the jokes would have had to be familiar in some way for them to be funny.", start: 2237.91, end: 2242.27}
+  - {text: "Paul clearly when Aristophanes is writing The Birds that the Delian League is beginning to collapse if it hasn't already done so how does it all end?", start: 2242.41, end: 2253.07}
+  - {text: "Not well so he's presumably died but anyway he failed to complete his project he died writing about 7 years before the actual war ended and it came to an end mainly and this is an irony thinking back to where we started from Greece versus Persia Greece,", start: 2254.04, end: 2273.68}
+  - {text: "Athens and Sparta together versus Persia well it was actually the Persians' intervention in the Athena Spartan War via money that decided the outcome of the whole war", start: 2273.94, end: 2287.20}
+  - {text: "because in order to beat the Athenians you have to beat them on sea so you therefore need a fleet and typically there are certain choke points in the Aegean and its", start: 2287.20, end: 2297.20}
+  - {text: "outliers and one of them is the Hellespont so if you can get a really good fleet into the Hellespont block off the Athenians supply of for example grain", start: 2297.96, end: 2308.46}
+  - {text: "but also challenge them to take you on there is therefore the sense that from 412 which is when the Spartans managed to persuade the Persians to come in on their side it's a foregone conclusion and the Athenians finally find themselves", start: 2308.80, end: 2325.70}
+  - {text: "blockaded by a Spartan fleet over winter 4 or 5 to 4 they're starved into submission and total submission not agreeing to surrender on their term", start: 2326.23, end: 2336.84}
+  - {text: "but surrendering on the Spartans total terms total victory Polly how was the Delian League seen by the classical world in the centuries after its demise", start: 2336.84, end: 2347.47}
+  - {text: "I think the picture is overwhelmingly negative in terms of how later sources talk about and think about the Delian League there's criticism for the bad things that the Athenians did to other Greeks but what I find even more striking is", start: 2347.47, end: 2363.20}
+  - {text: "there's criticism for the way that the Delian League is claimed to have damaged Athens that this was a morally corrupting force on the Athenians it", start: 2363.92, end: 2373.04}
+  - {text: "caused the Athenians to become too greedy too hungry for power they lost their self control and therefore it was a thing that the Athenians were wrong to have done", start: 2373.04, end: 2383.04}
+  - {text: "and that they should never attempt to do and no other Greek state should attempt to get this sort of power in the future one of my favourite bits of inscribed evidence from the ancient world from the 370s", start: 2383.04, end: 2393.60}
+  - {text: "when the Athenians decided to have another go and set up another alliance which we now call the 2nd Athenian League and we do have the foundation documents of this organisation", start: 2393.60, end: 2404.32}
+  - {text: "and what's really interesting is that it includes a long list of things the Athenians promised not to do this time around which maps almost directly onto the terrible things we know they did the first time around", start: 2404.32, end: 2417.36}
+  - {text: "so they say we won't levy tribute we won't impose garrisons we won't send out governors we won't confiscate land we won't meddle in your internal political affairs", start: 2417.36, end: 2427.82}
+  - {text: "so I think not only that's a really important document yes it's a fascinating document in all sorts of ways the other thing that I mean in spite of this", start: 2427.82, end: 2439.32}
+  - {text: "what the document also reveals is that a large number of Greek communities join the League because their names are included on this inscription so either the Athenians were very persuasive", start: 2440.12, end: 2450.46}
+  - {text: "when they promised not to do any of this stuff again or the Greek communities were very naive or there's enough positive stuff that comes out of this sort of alliance", start: 2450.46, end: 2461.04}
+  - {text: "that Greek communities thought or at least some Greek communities thought well the risk is worth taking to sign up for a second go around okay Leah I'm going to come to you", start: 2461.04, end: 2470.76}
+  - {text: "as the first in a quick round at the end and that is I want to know your opinion as how we should look at the Delian League now was this a sinister coercive hegemony", start: 2471.42, end: 2483.56}
+  - {text: "or was power more balanced you first then Paul and then Polly well I think you know my answer I would argue for the latter that this was an exploitative imperial power", start: 2483.56, end: 2497.04}
+  - {text: "and that we shouldn't sanitize it or talk about it in apologist language I think the way that we talk about past empires matters for how we understand empire now and it's important to understand the Delian League as it was", start: 2497.04, end: 2509.10}
+  - {text: "Paul well I would slightly differ in that I don't think empires are all the same so our word empire comes from Rome Imperium Infinitum the Romans notion of power of an imperial kind not an internal legal kind was extreme it amounted to life and death", start: 2509.76, end: 2529.44}
+  - {text: "Archie as Leah mentioned can mean raw just regular Republican annual perfectly decent it literally means a beginning so they never developed word that corresponds to the sort of entity that Leah describes", start: 2530.04, end: 2545.10}
+  - {text: "Polly I think I'm closer to Leah in that I think yes we absolutely can't sanitize the Delian League but we have to find a way to square that with the fact that", start: 2546.32, end: 2556.94}
+  - {text: "some people including non -Athenians did quite well out of this so some people benefited from this alliance at the same time as it was doing absolutely unspeakable things", start: 2557.66, end: 2569.92}
+  - {text: "and that sort of complexity of how imperial power works I think is something that we have to grapple with in this league but also in empires of other periods my thanks to Leah Lazar, Polly Lowe and Paul Cartledge", start: 2569.92, end: 2584.30}
+  - {text: "next week Mary Antoinette's official portraitist who shocked society by painting smiles with open mouths scandalous we'll be discussing the artist Elizabeth Vigée LeBoune until then thank you for listening", start: 2584.94, end: 2600.78}
+  - {text: "and the in our time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests okay and now we go on to the podcast thing", start: 2601.82, end: 2611.68}
+  - {text: "so first of all I'm still intrigued about Sparta and what Sparta's calculations are having collaborated with Athens are they simply a more self -contained operation yes I mean the answer is two -fold both economic", start: 2611.68, end: 2633.10}
+  - {text: "and political so economically they were extremely self -sufficient it was a command economy exploiting locals who are Greek and they are enslaved they are much less dependent than the Athenians on external sources of e .g bread", start: 2633.10, end: 2650.10}
+  - {text: "and the Athenians imported their bread wheat from the Black Sea from what's today Ukraine and therefore that raised the living standards of the ordinary poor Athenians", start: 2650.48, end: 2661.48}
+  - {text: "who otherwise would have been eating either inferior wheat or barley the Spartans weren't so fussy they typically were happy with a kind of porridge but the hellots made grew the barley and the wheat they grew the vines they grew the olives", start: 2661.48, end: 2677.66}
+  - {text: "it's entirely self -contained domestic economy secondly being very inward looking generally the Persian wars 484 are an exception to the general rule that Sparta did not indulge in international enterprises especially not of a Pan -Hellenic kind", start: 2678.14, end: 2699.00}
+  - {text: "so many Spartans once the Persian wars have been won the final battle think great this is the time we'll just go back to the way it was before", start: 2699.00, end: 2710.18}
+  - {text: "because that was pretty difficult secondly if the Spartans had decided to go on in an international way they would then have required to build a fleet", start: 2710.18, end: 2721.52}
+  - {text: "which they in fact didn't do until the very end as I've said before of the Athenopeloponnesian war and that involves using hellots they're called hellots the enslaved persons", start: 2721.52, end: 2733.94}
+  - {text: "as crew people and one of the distinctive features of the Athenian navy is the power the ordinary Athenians derived from them being what we in", start: 2733.94, end: 2745.28}
+  - {text: "this country call the senior service ever since the 17th century the navy has been our senior service we're an island nation well the Athenians from", start: 2745.28, end: 2755.26}
+  - {text: "the 470s decided we're going to go over the navy is the number one army and that's the ordinary troops infantry second cavalry very minimal archers not at all and that presumably explains why the Delian league existed because of the fact that they", start: 2755.26, end: 2774.04}
+  - {text: "suddenly had this the emergence of this extraordinary fleet there's a slight chicken and egg question I mean the fleet was built originally well to go back a little bit the Athenians find silver at Laurion in Assica and they have this money", start: 2774.52, end: 2790.90}
+  - {text: "and according to Herodotus they have a debate what should we do with the money should we do a big cash hand out to the population or should we use it to build a fleet", start: 2791.54, end: 2804.20}
+  - {text: "and the original targets of the fleet was Athens close neighbour the island of Aegina this is before the Persian invasion then that fleet becomes very useful", start: 2804.84, end: 2816.06}
+  - {text: "because they can use it also to fight the Persians but the fleet was built to fight other Greeks so the fleet sort of enables Athens to take this leading role in the Greco -Persian wars", start: 2816.06, end: 2825.12}
+  - {text: "which then further enables Athens to take the leading role in the Delian league and then through the process of tribute then they can invest in their fleet more and more and their fleet gets bigger and bigger everyone else's fleet gets smaller and smaller.", start: 2826.59, end: 2840.27}
+  - {text: "Am I right in thinking from the conversation that basically it was over expansion that led to the end of the Delian league I mean we've", start: 2841.05, end: 2850.31}
+  - {text: "heard about these disastrous campaigns in places like Egypt's do you think that's right Lea?", start: 2850.31, end: 2855.91}
+  - {text: "It's certainly I think Thucydides answer so I think he sees this expedition to Sicily in 415 BC as a major turning point an over -expansion of Athenian ambition", start: 2856.55, end: 2869.55}
+  - {text: "and also he tells us about how it brought political instability at home so the democracy which had been ruling the Empire was really shaken by this expansion and at the end of the 5th century there were two moments when it was actually overturned", start: 2869.99, end: 2886.15}
+  - {text: "by violent oligarchic coups so a combination of over expansion abroad the instability of the political situation within Athens and also as we've heard from Paul I think the Persians deciding to get financially involved on the Spartan side and the Spartan development of a navy that could", start: 2886.65, end: 2908.85}
+  - {text: "Is that why the Spartans were able to take Athenian cities way up in the north in Thessaly I think it's slightly different that's a land campaign It's a land campaign so how they managed to get all the way up there Well just simply walking so", start: 2909.65, end: 2928.45}
+  - {text: "remember Sparta has most of the cities in the Peloponnes on their side their allies so it's not that difficult to get through to the Isthmus which divides the Peloponnes from central Greece immediately where Athens sits of course", start: 2929.17, end: 2944.23}
+  - {text: "immediately on the Isthmus is Corinth which is Sparta's main ally most important and it supplies the majority of any fleet that Sparta manages to put together Corinth provides the ships you then get to Megara which is next door to Athens well thereafter a man called Brassidas", start: 2944.84, end: 2964.43}
+  - {text: "decided to play the card of we are liberators these Athenians they're your oppressors they claim they freed you from the Persians yes but only so as they could dominate you for their purposes economic,", start: 2965.05, end: 2979.13}
+  - {text: "political we are genuine liberators so what this guy does is he revives the rhetoric of the 480s against the Persians against the Spartans and there's been a ding dong battle ever since the Persian wars", start: 2979.53, end: 2992.97}
+  - {text: "who was most responsible for beating the Persians was it the Spartans was it the Athenians anyway and you argue that the Spartans are probably more important than the Athenians", start: 2992.97, end: 3004.97}
+  - {text: "or at least they they offer more than have you been reading my secret diary but it is a balance because had the Spartans not agreed to join the anti -Persian alliance of defence the main target of", start: 3004.97, end: 3020.83}
+  - {text: "which was Athens not Sparta had Sparta not agreed to join there would have been no land army capable of resisting the Persian land army so it wouldn't have matter", start: 3020.83, end: 3033.89}
+  - {text: "that the Athenians beat the Persians at sea if there was still an army that could come and destroy the Peloponnese or whatever so it was absolutely critical the amphibious nature of the resistance by land by sea", start: 3033.89, end: 3047.19}
+  - {text: "so the irony of Greek history in the 5th century is the land loving Spartans defeat the naval Athenians with foreign Persian aid oh my goodness", start: 3047.19, end: 3058.57}
+  - {text: "so what else did we miss out and Polly I mean one thing and this follows on from what we've just been talking about is what Persia is up to", start: 3058.57, end: 3070.83}
+  - {text: "and one possible way of interpreting this period of history is that the Athenians are essentially acting as a sort of client state for the Persians", start: 3072.23, end: 3081.65}
+  - {text: "and that might be the deal that was struck or one way we could understand you mean after 450 BCE after the possible peace treaty exactly and the Persians see the advantage", start: 3081.65, end: 3093.45}
+  - {text: "because what the Athenians are doing effectively is keeping peace for them on the western edge of this enormous empire so the Athenians are helping the Persians out by ensuring stability in what would otherwise potentially be quite a problematic", start: 3093.85, end: 3108.95}
+  - {text: "edge of the empire for the Persians and that might also explain why the Persians are willing to get involved again at the end of the war because Athens is no longer able to keep things quiet so they see chaos is about to erupt again", start: 3109.67, end: 3123.17}
+  - {text: "and therefore they get involved and what happens after the Spartan victory in that case do things stabilise in the way that the Persians might have wanted no everyone's shaking their hands no", start: 3123.65, end: 3137.77}
+  - {text: "and the Spartans even have their own ultimately unsuccessful attempt at maybe empire building I'm not sure if that's the term that Paul would use but certainly he would", start: 3138.45, end: 3147.73}
+  - {text: "and they're doing what the Athenians are doing using liberation of Greeks in Asia because as soon as Persia comes back it's able to exert influence without necessarily actually putting a garrison in", start: 3147.73, end: 3161.99}
+  - {text: "but nevertheless whatever happens in the western Asiatic seaboard after 404 unless the Spartans attack Persia which they decide to do these cities are very vulnerable they've got no protector now", start: 3161.99, end: 3176.41}
+  - {text: "and I suppose as you said it was a cultur crisis it was a cultural community that the Greeks had but it was very ill -defined in terms of territory", start: 3177.13, end: 3190.09}
+  - {text: "and coherence of political and it was never translated into permanent political institutions except from above so when Philip of Maston conquers significant Greek cities in the south he comes from the north for the first time there is as it were a united Greek but united in", start: 3190.09, end: 3209.91}
+  - {text: "subjection to Macedon was that the Sicilian campaign which results in defeat is that also the sort of end of empire moment because military defeat always has serious repercussions back home", start: 3210.65, end: 3230.07}
+  - {text: "it's certainly seen as a very serious moment in the history of Athenian power I think that it's consequences in our eyes is certainly also down to the construction of the city's narrative", start: 3231.70, end: 3245.58}
+  - {text: "and the fact that we actually don't get the end of this narrative because he doesn't get to describe the end of the war but there's certainly other moments later which are also considered really significant for example the nearby island of Ubia,", start: 3245.58, end: 3261.68}
+  - {text: "now Evia which had been another major source of Athenian grain when the Spartans conquered that that's really serious for the Athenians but as Paul described they carry on fighting right down to 404 -403", start: 3262.18, end: 3275.26}
+  - {text: "so the Sicilian expedition ending in 413 did not see the end of the empire or of the war well I think at that moment we can ask Martha to bring us a cup of tea or coffee if you would so like", start: 3275.26, end: 3290.80}
+  - {text: "I'm afraid we don't have any Greek coffee in our time with Misha Glenny was produced by Martha Owen it's a BBC Studios production for Radio", start: 3291.52, end: 3301.09}
+  - {text: "4 Zandi happy anniversary what are you talking about have I missed something yes Zandi you have we are over a year into making whatsapp docs you didn't even get me a card", start: 3301.09, end: 3311.07}
+  - {text: "is it really over a year it is think of all the episodes we've done how to look after our feet our shoulders our hips our teeth we've explored snoring cholesterol the immune system endometriosis", start: 3311.73, end: 3321.61}
+  - {text: "all with the help of expert guests I think it's fair to say we have plundered the world of health and well -being equipping ourselves and", start: 3322.17, end: 3329.79}
+  - {text: "our listeners with the best information out there on how to look after our minds our bodies our souls even and we're not stopping are we", start: 3329.79, end: 3337.37}
+  - {text: "Chris we must certainly not sound we have a lot of new topics coming up from tinnitus to acne crying male fertility we are holding steadfast", start: 3337.37, end: 3345.93}
+  - {text: "in our mission to sort facts from fiction debunking wellness myths along the way and you can find all of our previous episodes of what's up docs in the feed on BBC sounds", start: 3345.93, end: 3355.83}
+  - {text: "and don't forget to subscribe on BBC sounds and turn on the notifications so you don't miss any of these upcoming episodes", start: 3355.83, end: 3362.87}
+---

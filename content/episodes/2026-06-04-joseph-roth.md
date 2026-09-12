@@ -1,0 +1,604 @@
+---
+layout: single
+title: "Joseph Roth"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-06-04T00:00:00Z
+slug: "2026-06-04-joseph-roth"
+audioDir: "2026-06-04-joseph-roth"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-06-04-joseph-roth/episode.mp3"
+totalDuration: 3386.6
+sentences:
+  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.24, end: 14.24}
+  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08}
+  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different.", start: 21.28, end: 26.58}
+  - {text: "I think I have one of the best jobs in broadcasting.", start: 27.06, end: 29.56}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.18, end: 32.92}
+  - {text: "Hi, this is Misha Glany.", start: 34.23, end: 35.97}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.69, end: 40.89}
+  - {text: "But if you can't wait, head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.61, end: 49.49}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 50.19, end: 58.99}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.66, end: 64.71}
+  - {text: "I hope you enjoy the programme.", start: 65.25, end: 66.67}
+  - {text: "Hello. Joseph Roth, 1894 to 1939 was one of the great writers on the dying of the old order in Central Europe after the First World War,", start: 68.62, end: 79.28}
+  - {text: "the loss of homeland and the horror of what was to come.", start: 79.86, end: 83.50}
+  - {text: "Most English speakers incidentally refer to him as Joseph Roth.", start: 84.12, end: 87.48}
+  - {text: "In his journalism and in works such as Rudetsky March, Job, Rebellion and Flight Without End, Roth explored the impact of the Austro -Hungarian Empire's collapse on the world around him,", start: 88.08, end: 100.72}
+  - {text: "and as a German speaking Jew from the northeastern edge of that empire, whose books the Nazis burned, Roth was to spend his life drifting westwards without ever finding a settled home.", start: 101.18, end: 113.30}
+  - {text: "With me to discuss Joseph Roth or Roth are Helen Chambers, Emeritus Professor of German at the University of St Andrews, Deborah Holmes, Associate Professor of Modern German Literature at the University of Salzburg,", start: 114.00, end: 127.60}
+  - {text: "and John Hughes, Reader in German and Cultural Studies at Royal Holloway University of London.", start: 128.06, end: 134.00}
+  - {text: "And John, it's to you I want to come first.", start: 134.48, end: 136.58}
+  - {text: "Can you tell us a bit about Roth's childhood in Brody, then in the Austro -Hungarian Empire, of course, but it's now on the very edge of Ukraine?", start: 136.94, end: 146.78}
+  - {text: "Yes, indeed, yeah. So, I mean, many listeners, if they know Roth at all, they will probably think of him as an Austrian author, but his origins were far from Austria, as we know it today.", start: 147.26, end: 157.54}
+  - {text: "As you said, born in Brody, which at the time of his birth was in Galicia, which was the largest, the northernmost province in Austria -Hungary, the Habsburg Empire.", start: 157.62, end: 168.22}
+  - {text: "Galicia, as you mentioned, occupies a fairly large area, which is now, falls now within southeast Poland and the west of Ukraine.", start: 169.20, end: 177.70}
+  - {text: "And if you look up Brody on the map today, you'll see it's there in the west of Ukraine, maybe 100 kilometres or so east of Lviv or Lemberg,", start: 178.08, end: 187.56}
+  - {text: "as it was known in Roth's time in German.", start: 187.82, end: 189.92}
+  - {text: "But in the year of Roth's birth, 1894, Brody was very much a border town.", start: 190.52, end: 195.14}
+  - {text: "It was right on the edge of the Austro -Hungarian Empire, close to the border with Russia.", start: 195.14, end: 201.24}
+  - {text: "And because of that, it had flourished as a sort of trading centre for the previous century or so.", start: 202.60, end: 207.24}
+  - {text: "And, you know, perhaps as a consequence of that, it was quite a mixed community, multi -ethnic, multi -lingual, multicultural.", start: 207.88, end: 215.30}
+  - {text: "Roth himself was born to a German speaking Jewish family and so grew up speaking one of the languages of empire, high German, but he would have been very familiar with the sound of Polish, Yiddish, Ukrainian, Russian also during his childhood.", start: 216.36, end: 233.56}
+  - {text: "And I think he also had a working knowledge of all of those languages.", start: 233.68, end: 237.28}
+  - {text: "Despite that, I think he had felt that Brody was quite a provincial place.", start: 237.96, end: 241.88}
+  - {text: "He spent his childhood often wishing he could get away, even though later in life it became so important to him and in his work.", start: 242.38, end: 248.94}
+  - {text: "He was brought up by a single mother who, by all accounts, was quite protective, overprotective even.", start: 249.41, end: 255.58}
+  - {text: "He never knew his father who had abandoned the family when Roth was quite young.", start: 256.10, end: 260.88}
+  - {text: "In later life, Roth tended to fabricate fantastical stories about this absent father.", start: 261.50, end: 266.60}
+  - {text: "He often sort of claimed, for example, that the father had been some sort of high ranking military officer.", start: 266.80, end: 272.38}
+  - {text: "But in truth, he was a Jewish businessman, a failed businessman, really, who later became mentally ill and was institutionalized and never really came to terms with that.", start: 272.54, end: 284.34}
+  - {text: "It was not a detail which he confided really to anyone in his lifetime.", start: 284.42, end: 287.98}
+  - {text: "At any rate, he did get away from Brody eventually.", start: 288.80, end: 290.94}
+  - {text: "He studied first in Leviv and then transferred to Vienna before his studies were interrupted by the First World War, the outbreak of war.", start: 291.40, end: 299.88}
+  - {text: "And he was a very intelligent young boy.", start: 300.08, end: 302.72}
+  - {text: "He did well at school.", start: 303.04, end: 304.08}
+  - {text: "Yes, he attended the gymnasium.", start: 304.08, end: 306.54}
+  - {text: "So the sort of grammar school in Brody excelled really academically, although by all accounts was something of a loner from an early age.", start: 306.90, end: 314.94}
+  - {text: "Enjoyed literature, German literature in particular.", start: 315.04, end: 317.90}
+  - {text: "This was at the tail end of when German was one of the teaching languages actually in Brody.", start: 318.34, end: 322.48}
+  - {text: "And shortly after he completed his secondary education, I think the language of instruction switched almost entirely to Polish.", start: 322.70, end: 328.86}
+  - {text: "So it was a change.", start: 329.32, end: 330.38}
+  - {text: "It was changing really during his lifetime.", start: 330.50, end: 332.18}
+  - {text: "So he moves to Vienna, the imperial capital on the very eve of the First World War, with the defeat of the Central Powers in 1918, the empire collapses too.", start: 332.18, end: 347.26}
+  - {text: "How abrupt were the changes which he experienced after 1918?", start: 347.82, end: 352.08}
+  - {text: "He'd served in the war, although not on the front line.", start: 352.72, end: 355.76}
+  - {text: "We don't think he served in frontline combat, although he again, it's something he claimed various things to the contrary later in life.", start: 356.26, end: 363.14}
+  - {text: "So he finished the war, demobbed really from from the army, returning to Vienna.", start: 363.94, end: 368.14}
+  - {text: "Brody, his hometown from 1919, became part of the new Polish Republic.", start: 368.68, end: 374.16}
+  - {text: "And so really was not really recognisable as the place in which he'd grown up and with which he had identified.", start: 374.64, end: 380.72}
+  - {text: "German was no longer one of the languages spoken there, not a recognised one.", start: 380.98, end: 384.76}
+  - {text: "For a time, I think then he he was ready to embrace the post -war world.", start: 385.22, end: 390.16}
+  - {text: "He was quite open to the opportunities that might be offered by the new democracies that were emerging.", start: 390.24, end: 395.82}
+  - {text: "But that gradually started to change during the course of the next decade or so.", start: 396.20, end: 401.22}
+  - {text: "Well, let me follow on with Helen Chambers.", start: 401.64, end: 404.46}
+  - {text: "Helen, he stays in Vienna and starts work as a journalist.", start: 404.86, end: 410.42}
+  - {text: "What were the opportunities there like?", start: 411.10, end: 412.98}
+  - {text: "Because there must have been some stiff competition.", start: 412.98, end: 415.02}
+  - {text: "I mean, the Austrian capital boasted a rich array of novelists and commentators at the time.", start: 415.26, end: 420.50}
+  - {text: "Yes, it's quite hard to know how he got into it, except that there are reports from editors in the offices that he turned up at.", start: 420.74, end: 429.04}
+  - {text: "And the report that this young man appeared very skinny in a ragged military shirt, very proud and handed over his short texts, which were then received and indeed published.", start: 429.40, end: 444.04}
+  - {text: "And he had a quite remarkable output and success.", start: 444.68, end: 448.46}
+  - {text: "And in that first year, 1919, when he'd filled in his registration card with Occupation Journalist, which he wasn't really.", start: 448.80, end: 456.98}
+  - {text: "He then published 178 articles in 1919 as a 24 year old and already in these articles.", start: 457.86, end: 465.58}
+  - {text: "And you ask me why and how he succeeded.", start: 465.70, end: 467.72}
+  - {text: "And perhaps you're bloody minded, but also the quality of his work is absolutely clear from the outset.", start: 469.08, end: 477.06}
+  - {text: "I mean, not every article as a gem, but very many of them do all the things that he was later to do in his novels.", start: 477.52, end: 484.82}
+  - {text: "And one of the things that characterizes that that journalism is he has an eye for the for the underdog.", start: 485.16, end: 491.34}
+  - {text: "Details that at first glance appear insignificant, but actually perhaps something that really matters.", start: 491.56, end: 498.28}
+  - {text: "Yes, I mean, he was very concerned with injustice, with the underdog, with the veterans coming back with nowhere to go, unemployed, no income.", start: 498.88, end: 510.66}
+  - {text: "And he watched them and he saw them and he went to military hospital and he saw people whose faces had been shot away, jaws shot away.", start: 511.06, end: 520.88}
+  - {text: "And they weren't allowed to look in the mirror and they weren't allowed to see plaster casts of themselves, although these existed and wrote wrote a", start: 520.98, end: 530.00}
+  - {text: "really hard hitting piece saying they should show these photographs before the newsreels.", start: 530.00, end: 535.90}
+  - {text: "They should put them on the advertising pillars and people wouldn't fight wars again.", start: 536.08, end: 541.50}
+  - {text: "Was I mean, he didn't say explicitly people wouldn't fight wars again.", start: 541.50, end: 545.52}
+  - {text: "But that was very much what he, you know, he could see that these people were suffering dreadful injustice.", start: 545.52, end: 551.80}
+  - {text: "Deborah Holmes, let me ask you about Rott as a Foyeton writer.", start: 552.62, end: 557.26}
+  - {text: "So can you explain what a Foyeton is very important in Austrian and German culture and why they were so important?", start: 557.78, end: 565.78}
+  - {text: "Certainly, yes. I mean, I think one of the reasons why you're Ziffer Rott, even at this very, very dynamic period in cultural history, was able to be such an immediate success.", start: 566.24, end: 576.66}
+  - {text: "I think it's fair to say is that we're in despite the end of the war and shortage of paper and a shortage of healthy manpower.", start: 576.84, end: 585.08}
+  - {text: "We're still in a period that's a golden age of print media and the daily papers, there were, you know, scores of daily papers in each big city, each big German speaking city.", start: 585.56, end: 594.58}
+  - {text: "And they had two and three editions a day.", start: 594.92, end: 596.94}
+  - {text: "I mean, that's that's a lot of newspaper to fill.", start: 597.10, end: 598.96}
+  - {text: "And the Foyeton was both a part of the newspaper.", start: 599.64, end: 602.02}
+  - {text: "It was the cultural arts section of the newspaper, but the word Foyeton was also used to describe short texts that could be subjective, descriptive, narrative,", start: 602.02, end: 612.46}
+  - {text: "question mark, they could be purely descriptive, but that Foytonists, so thought of himself as a journalist, but as a Foytonist, they would churn them out day on day about anything", start: 613.06, end: 622.68}
+  - {text: "and everything that they saw walking around the city.", start: 622.68, end: 624.58}
+  - {text: "And the idea was or the tradition was is that the style could or should be subjective.", start: 625.26, end: 629.92}
+  - {text: "And it was in the newspaper partly as a commentary on current affairs and on politics and business and other daily news, but also as a part of the newspaper that would outlive current affairs.", start: 629.94, end: 641.94}
+  - {text: "So the original Foyeton was published under a thick black line on the bottom third of the page.", start: 642.26, end: 647.40}
+  - {text: "And the idea was that you cut off that bit of the page and kept it because although this writing was subjective and personal, it was going to be what outlived the daily news,", start: 647.48, end: 656.62}
+  - {text: "these little perceptions and descriptions of daily life.", start: 656.86, end: 659.78}
+  - {text: "Sounds a bit like in our time.", start: 659.90, end: 661.36}
+  - {text: "He before long started experimenting with novels as well.", start: 663.16, end: 668.32}
+  - {text: "And one of the early ones is called Rebellion, and it encapsulates quite a lot of Rod's outlook on life.", start: 668.50, end: 675.22}
+  - {text: "Can you tell us about that?", start: 675.40, end: 676.48}
+  - {text: "Certainly, yeah, it's a fabulous novel.", start: 677.04, end: 679.28}
+  - {text: "It's of his earlier novels.", start: 679.52, end: 681.18}
+  - {text: "So we're talking 1924.", start: 681.56, end: 683.14}
+  - {text: "In 1923, 24, he actually wrote and published three novels, which is also quite a considerable feat.", start: 684.04, end: 690.28}
+  - {text: "When you consider that he's, as we've said, he's churning out journalism the whole time as well.", start: 690.28, end: 695.04}
+  - {text: "So Rebellion, Rebellion, is actually based on a true story.", start: 695.66, end: 700.00}
+  - {text: "It was based on a court case from 1923 that Kai Kraus, a famous Viennese satirist and commentator, talks about in his one man periodical defacus of the torch,", start: 700.10, end: 711.64}
+  - {text: "which saw itself as a sort of antidote to the daily press and takes up this story.", start: 712.20, end: 717.22}
+  - {text: "It's about a veteran who returns from the front and he's lost a leg, but he feels totally content.", start: 717.34, end: 723.08}
+  - {text: "He feels that the government must know what it's doing.", start: 723.44, end: 725.62}
+  - {text: "He's going to get a prosthetic leg.", start: 726.14, end: 727.82}
+  - {text: "He's going to get some way of supporting himself.", start: 727.96, end: 729.78}
+  - {text: "It's all fine. And he did his duty.", start: 730.10, end: 731.74}
+  - {text: "And the story basically takes that mindset apart.", start: 732.28, end: 735.84}
+  - {text: "And there's one disaster after another that happens to this poor man.", start: 736.16, end: 739.32}
+  - {text: "So the story from the actual sort of true story that it's based on was of an invalid who gets back from the war and is", start: 739.74, end: 745.22}
+  - {text: "given a license to play a barrel organ on the street to earn money.", start: 745.22, end: 748.94}
+  - {text: "And that's what happens in the novel as well.", start: 748.94, end: 750.42}
+  - {text: "But then the barrel organ owner is confronted with someone who thinks that they are just pretending to be an invalid, that they are playing the system", start: 750.76, end: 759.32}
+  - {text: "and an argument ensues and the police are involved and the barrel organ license gets taken away from the invalid.", start: 759.32, end: 766.46}
+  - {text: "And that happens in the novel as well.", start: 766.58, end: 768.26}
+  - {text: "And then he loses his wife, loses his family, loses his source of income.", start: 768.62, end: 773.02}
+  - {text: "And by the end of the novel is left railing at God and at Providence and from the beginning of the novel where he's quite happy to fit in with the with the existing order to the end of the novel where he's saying, I want to go to hell.", start: 773.02, end: 785.36}
+  - {text: "I'm, you know, but the typical road.", start: 785.64, end: 788.04}
+  - {text: "We have this sort of scene that seems to be taking place in the afterlife.", start: 788.34, end: 791.42}
+  - {text: "But the last that we hear about the war invalid is he wasn't sure whether he was in heaven or hell, but the rebellion itself is the point of the novel.", start: 791.92, end: 800.00}
+  - {text: "This realization that actually maybe it wasn't enough to do your duty or it wasn't the government's not actually doesn't actually know what it's doing.", start: 800.16, end: 807.00}
+  - {text: "You know, maybe the war was senseless.", start: 807.42, end: 809.32}
+  - {text: "So, John, he has this experience of Vienna of decline, disappointment decides fairly quickly to move to Berlin.", start: 809.88, end: 817.76}
+  - {text: "What is it about Berlin that attracts him?", start: 818.22, end: 820.26}
+  - {text: "Well, I think he moves to Berlin in 1920.", start: 820.50, end: 823.20}
+  - {text: "So, as you say, fairly quickly.", start: 823.58, end: 825.54}
+  - {text: "He's hugely productive in Vienna, but he moves to Berlin.", start: 826.02, end: 829.48}
+  - {text: "I think primarily as a sort of economic migrant, he goes there because he thinks there'll be better opportunities for him and a better chance that he will establish himself as a writer there.", start: 829.98, end: 839.94}
+  - {text: "And Berlin in this period is becoming something of a mecca or a cultural magnet, I think, for people from all around German speaking Europe and beyond.", start: 840.58, end: 848.90}
+  - {text: "It's growing very quickly.", start: 849.10, end: 850.20}
+  - {text: "I think by the end of the 20s, there's more than four million people living in Berlin, which means it was bigger then that it is today.", start: 850.46, end: 856.14}
+  - {text: "It has an incredibly productive and thriving newspaper and publishing industry, even more so than was the case in Vienna.", start: 856.64, end: 865.82}
+  - {text: "Dozens of daily newspapers in multiple editions, as Deborah said, as well as weekly magazines.", start: 866.24, end: 871.78}
+  - {text: "So there are plenty of opportunities for fraud in a place like Berlin.", start: 872.18, end: 875.38}
+  - {text: "Of course, there's also the arts scene there, theatre, music, cabaret, the emerging film industry in Weimar Germany as well.", start: 875.72, end: 882.76}
+  - {text: "So there's a lot happening in Berlin, but it's also a place of extremes as well, political, cultural, social.", start: 882.82, end: 888.76}
+  - {text: "And he's very sensitive to those extremes as well.", start: 888.86, end: 891.64}
+  - {text: "And he gets he gets good work.", start: 891.64, end: 893.66}
+  - {text: "He starts working for the Frankfurter Zeitung, the forerunner of the Frankfurter Algemene Zeitung, which is as good as it gets at that time.", start: 893.82, end: 902.54}
+  - {text: "Yeah, I mean, it was the Frankfurter Zeitung where he eventually becomes one of the key names publishing regularly in the Freudian section.", start: 902.62, end: 909.80}
+  - {text: "It was one of the prestige titles in the Weimar Republic, headquartered in in Frankfurt and Main.", start: 910.32, end: 916.90}
+  - {text: "But he he was the sort of Berlin cultural correspondent for a time.", start: 917.48, end: 921.16}
+  - {text: "And he was correspondingly well paid.", start: 921.64, end: 923.28}
+  - {text: "He was a prominent figure by the middle of the 1920s.", start: 923.34, end: 926.18}
+  - {text: "So Berlin gives him the chance to establish himself first as a journalist and then building on that as an author of fiction from 1923.", start: 926.32, end: 933.90}
+  - {text: "Thank you, John. So Helen Chambers, he's doing rather well in Berlin, but he's moving around a lot.", start: 934.12, end: 941.70}
+  - {text: "Seems to be a bit of a restless soul.", start: 942.18, end: 944.88}
+  - {text: "His writing is also quite unpredictable.", start: 945.90, end: 948.10}
+  - {text: "It goes off in different directions.", start: 948.48, end: 950.06}
+  - {text: "Is that right? Up to a point.", start: 950.22, end: 952.56}
+  - {text: "I mean, he was just to perhaps go on from what John was saying.", start: 952.78, end: 955.96}
+  - {text: "He was at one time the best paid journalist on the Frankfurter Zeitung.", start: 956.06, end: 960.36}
+  - {text: "And he wrote his articles exactly the same size as the column inches in the paper.", start: 960.56, end: 965.78}
+  - {text: "And he earned a mark, a line.", start: 966.00, end: 968.24}
+  - {text: "So he he was earning a lot of money, but he said that Berlin was like waiting room in a big station.", start: 968.70, end: 975.42}
+  - {text: "And he was he was what did he mean by that?", start: 976.04, end: 979.24}
+  - {text: "Well, he meant he was waiting.", start: 979.24, end: 980.70}
+  - {text: "He didn't like Berlin very much.", start: 980.74, end: 982.50}
+  - {text: "And well, I mean, it got worse and worse, of course, with the Nazi violence and with what was going on in the courts, which he saw very early on.", start: 983.16, end: 989.90}
+  - {text: "But he he said it was like this waiting room.", start: 990.58, end: 993.74}
+  - {text: "It was a kind of no man's land.", start: 993.86, end: 995.50}
+  - {text: "And I think he said I'm trading in books and newspapers to get the money to get my ticket out of here.", start: 995.80, end: 1001.82}
+  - {text: "And you're quite right.", start: 1002.00, end: 1002.88}
+  - {text: "I mean, he traveled a lot.", start: 1002.98, end: 1004.10}
+  - {text: "He wanted to be the Paris correspondent for the Frankfurter Zeitung.", start: 1004.46, end: 1008.08}
+  - {text: "But they gave it to another guy for reasons that we won't go into and wrote it, I think, or two to say about that.", start: 1008.08, end: 1013.84}
+  - {text: "But to kind of compensate for that, they sent him to Russia to report on Soviet Russia on the new Russia for four months in 1926.", start: 1014.00, end: 1024.88}
+  - {text: "So he did travel a lot.", start: 1026.48, end: 1027.88}
+  - {text: "But he also did other trips for the Frankfurter Zeitung.", start: 1028.02, end: 1032.58}
+  - {text: "And that was the kind of thing they published in the press.", start: 1032.62, end: 1034.86}
+  - {text: "You know, I've traveled to Gillespie or to the Roorkebeat or wherever it happened to be.", start: 1034.86, end: 1039.28}
+  - {text: "After a summer of lounging and listening to BBC podcasts, you might need help readjusting to the rhythm of normal life.", start: 1040.88, end: 1047.50}
+  - {text: "So listen to a breakfast show live on BBC Sounds.", start: 1048.39, end: 1051.51}
+  - {text: "Good morning. Get up and at it with Greg James on Radio One.", start: 1051.79, end: 1056.39}
+  - {text: "You are the Ooling.", start: 1056.55, end: 1057.59}
+  - {text: "Me cocks it, it'll do.", start: 1057.65, end: 1058.61}
+  - {text: "Have a laugh with Sarah Cox on Radio Two.", start: 1058.83, end: 1061.09}
+  - {text: "We'll calm it all down with Tom McKinney on Radio Three.", start: 1061.57, end: 1064.91}
+  - {text: "Enjoy the rest of your day.", start: 1065.07, end: 1065.91}
+  - {text: "Breakfast packed with personality.", start: 1066.59, end: 1068.71}
+  - {text: "Listen on BBC Sounds.", start: 1069.05, end: 1070.25}
+  - {text: "Deborah, he is in literary terms a master of the poignant.", start: 1070.93, end: 1075.95}
+  - {text: "Would you agree? Yes, although it's very difficult to pin down how he does it.", start: 1076.33, end: 1082.05}
+  - {text: "It's quite often been said that he writes simply, but that's deceptively simple somehow.", start: 1082.57, end: 1089.69}
+  - {text: "I mean, we've said that he, you know, he, he champions the underdog.", start: 1089.93, end: 1092.93}
+  - {text: "He looks at the small details every day life.", start: 1092.93, end: 1096.41}
+  - {text: "So it's partly that, but he's not afraid to combine small details with with very big ideas.", start: 1096.99, end: 1104.69}
+  - {text: "So he's looking for the universal.", start: 1104.91, end: 1106.33}
+  - {text: "He's looking for he can be quite not exactly kitschy, but he can be quite sentimental.", start: 1106.61, end: 1110.75}
+  - {text: "He I'm thinking of a passage in rebellion in rebellion that we've just been talking about where the main character, Andreas Pum, has to sell his donkey.", start: 1110.83, end: 1120.05}
+  - {text: "And it's a very, very sad scene.", start: 1120.63, end: 1122.79}
+  - {text: "And the donkey is described as having gray fur and a human soul.", start: 1123.23, end: 1126.93}
+  - {text: "And that, you know, poignant, sentimental bit of bit of both.", start: 1127.45, end: 1131.31}
+  - {text: "But in the context of the novel as a whole, it really works.", start: 1131.47, end: 1134.05}
+  - {text: "It works for me anyway.", start: 1134.11, end: 1134.93}
+  - {text: "So it is it's often he's very good at children on childlike figures.", start: 1135.59, end: 1140.93}
+  - {text: "And he's also, I think what makes it poignant to me is that he manages to make these figures convincing you're invested in them.", start: 1141.37, end: 1148.37}
+  - {text: "But they're not they're not made into heroes in any way.", start: 1148.37, end: 1151.53}
+  - {text: "And they don't become sort of unrealistically perceptive or they remain ordinary people.", start: 1151.65, end: 1157.51}
+  - {text: "No, I would say there's an absence of clear heroes in in the words work, which brings us on, John, to his major work, the one that he's best known for, Redetzky March,", start: 1157.69, end: 1169.49}
+  - {text: "a fun farewell to life in the in the empire.", start: 1170.37, end: 1174.25}
+  - {text: "What's it? What's he up to here?", start: 1174.51, end: 1176.05}
+  - {text: "Yeah, well, Redetzky March or the Redetzky March, as I think it's been translated into English, it's certainly his longest novel.", start: 1176.69, end: 1183.59}
+  - {text: "It's the one which is most acclaimed and for which he's probably best remembered.", start: 1183.89, end: 1188.85}
+  - {text: "It's the one which established him as the great chronicler of the end of empire.", start: 1189.17, end: 1193.05}
+  - {text: "It's actually quite different to many of his previous novels, certainly the ones he published in the 1920s, many of which with a partial exception of rebellion, actually have quite a quite fragmentary, quite open endings.", start: 1193.53, end: 1206.09}
+  - {text: "A good example would be Flight Without End from 1927, which includes with a protagonist feeling completely lost, alive, but not knowing what to do with his life.", start: 1206.61, end: 1216.55}
+  - {text: "And we don't know what happens next.", start: 1216.67, end: 1218.09}
+  - {text: "The Redetzky March, by contrast, has a great a real sense of finality in its conclusion.", start: 1218.89, end: 1223.75}
+  - {text: "It concludes with the deaths of its main characters, but also with the end of the empire that has shaped them.", start: 1224.09, end: 1229.79}
+  - {text: "And the two are sort of intertwined in the novel.", start: 1229.79, end: 1233.13}
+  - {text: "So as you say, it's the moments in his career that he really firmly looks back and tries to take stock of what happened at the end of empire and why it mattered to him.", start: 1233.53, end: 1242.39}
+  - {text: "So it's a generational novel in which the story of a single family somehow stands as a metaphor for the decline of the empire as a whole under the leadership of the aging Kaiser, Franz Josef,", start: 1242.55, end: 1256.79}
+  - {text: "who actually appears several times as a character in the novel.", start: 1256.81, end: 1260.03}
+  - {text: "The story is focused on three male members of the Fontrota family.", start: 1260.57, end: 1265.59}
+  - {text: "It begins with a grandfather figure who, as a young man, saves the life of the emperor at the Battle of Solferino, which took place in 1859,", start: 1266.33, end: 1276.99}
+  - {text: "which makes him a sort of hero of the empire but also elevates the family into the aristocracy.", start: 1277.87, end: 1283.33}
+  - {text: "We meet his son, who is a sort of patrician, bureaucrat, very, very conservative and controlling.", start: 1284.01, end: 1290.43}
+  - {text: "And finally, his son, Carl Josef, who is the last in the line, if you like.", start: 1290.91, end: 1296.23}
+  - {text: "And Carl Josef is characterised as somehow sort of paralysed by life, doesn't really know what to do with himself or seems incapable often of making decisions for himself.", start: 1296.63, end: 1305.85}
+  - {text: "He, in particular, he's intimidated by the idea of living up to the memory of that heroic grandfather.", start: 1306.57, end: 1312.17}
+  - {text: "He grows up looking at the portrait of this grandfather, so literally having to try and live up to the image of the grandfather and failing to do that mainly.", start: 1312.17, end: 1320.31}
+  - {text: "He becomes a career soldier but seems wholly unsuitable for that role or unsuited for that role.", start: 1320.83, end: 1326.11}
+  - {text: "And he seems also incapable of making any lasting relationships in his life.", start: 1326.57, end: 1330.91}
+  - {text: "So there were some quite negative or almost morbid themes that run through the novel, which, and it also plays with the musical motif of the title,", start: 1331.05, end: 1340.05}
+  - {text: "which is, of course, a reference to Johann Strauss, senior's famous Victory March.", start: 1340.05, end: 1345.41}
+  - {text: "But in the novel, it functions almost an ironic accompaniment to the terminal decline of the empire.", start: 1345.97, end: 1351.55}
+  - {text: "So Helen Chambers, what do you ascribe the success of the novel and do you see in it the work of a genius?", start: 1352.11, end: 1361.75}
+  - {text: "Yes, I do. And I mean, I think it's got great humanity.", start: 1362.49, end: 1366.15}
+  - {text: "It's also very funny, despite what John has said.", start: 1366.69, end: 1371.01}
+  - {text: "I mean, it's morbid, but there is this conflict between officialdom and the army, which trains people to obey.", start: 1371.55, end: 1381.11}
+  - {text: "And then these characters, and you usually, and this is part of Rote's magic really, you usually see the characters from their own perspective.", start: 1381.75, end: 1389.43}
+  - {text: "So you know what they're thinking.", start: 1389.43, end: 1391.05}
+  - {text: "And young Carol Joseph, the third one along, he's a 16 -year -old who is seduced by the local sergeant's wife, the beautiful Frau Slamma.", start: 1391.57, end: 1401.83}
+  - {text: "And she unbuttons his uniform, and he's sitting there thinking, don't think there's anything at the cadet school that told me what to do in this situation.", start: 1402.31, end: 1411.09}
+  - {text: "So there are things like that happen, and the emperor is indeed in it.", start: 1411.83, end: 1415.89}
+  - {text: "And he's, well, he kind of misses the battles in a way because he's an old soldier.", start: 1416.65, end: 1421.83}
+  - {text: "So he thinks I'll have some maneuvers out in the eastern borderlands, and he draws them all up, and he's sitting there in his horse, and everybody's gaping", start: 1422.37, end: 1432.05}
+  - {text: "because there's a drip on the end of his nose.", start: 1432.05, end: 1434.73}
+  - {text: "So Rote's showing you the frailty of this old man, and that he doesn't know what's going on, and he's a human being.", start: 1435.43, end: 1442.19}
+  - {text: "And that's part of, I think, Rote's great art, that he shows you human beings, he takes you close to their noses, their nostrils, their ears, their eyes, the back of their mouth.", start: 1442.53, end: 1453.75}
+  - {text: "I mean, there's a great concrete precision about these things.", start: 1454.01, end: 1457.63}
+  - {text: "And would you say that it's a nostalgic novel?", start: 1458.27, end: 1461.77}
+  - {text: "Well, I mean, Rote himself said, I'm looking back, but not uncritically, so it's kind of nostalgic because he misses this multinational land.", start: 1463.04, end: 1474.32}
+  - {text: "Yes, you do get a sense.", start: 1474.80, end: 1476.00}
+  - {text: "I mean, Austria hungry towards its end was often described as the prison of nations, and you get a sense that he's trying to modify that view of the Austro -Hungarian Empire.", start: 1476.24, end: 1487.54}
+  - {text: "Well, he would like it not to have been thus, but he knew it was thus, and he does show the decadence of the frailty and what the terrible officers get up to.", start: 1487.94, end: 1498.24}
+  - {text: "I mean, fiddling with his own burns has got nothing on Joseph Road, so, yeah.", start: 1498.42, end: 1503.32}
+  - {text: "John, you wanted to come in?", start: 1503.92, end: 1505.18}
+  - {text: "Yeah, just briefly, I mean, on what makes the novel great, what I enjoy really about it, despite those negative themes, it's the evocation of a lost world, really.", start: 1505.18, end: 1518.10}
+  - {text: "It's those incredibly detailed descriptions of formal occasions, of the sort of rituals of empire and the military, we get descriptions of uniforms, parades, duels, formal dinners, drunken parties,", start: 1518.32, end: 1534.30}
+  - {text: "but also a sense of place as well, so Vienna in its sort of imperial pomp, and also Brody as well.", start: 1534.76, end: 1541.90}
+  - {text: "I mean, the second half of the novel is essentially set in a Galician border town that draws on all of those memories of Hort's childhood.", start: 1542.14, end: 1548.64}
+  - {text: "Helen, what's extraordinary is his ability to write clear, clean copy.", start: 1549.20, end: 1557.26}
+  - {text: "And I mean, for his novels as well, he's not a writer who is endlessly revising his work.", start: 1557.66, end: 1563.56}
+  - {text: "No, that's fairly remarkable, although there may be things that were lost.", start: 1564.40, end: 1568.72}
+  - {text: "I should perhaps say about his writing practices that when he was writing Radecki March, and he's drinking quite a lot, he left chapter four in a taxi, and he never got it back.", start: 1569.04, end: 1581.17}
+  - {text: "So he had to write it again, and it's an extremely good chapter.", start: 1581.95, end: 1586.23}
+  - {text: "I mean, all of the chapters are good, but that is also remarkable in its way in terms of his working practice.", start: 1586.89, end: 1593.35}
+  - {text: "But he kind of held court.", start: 1594.69, end: 1596.15}
+  - {text: "You know, people gathered round him, and they would not want to interrupt him, and he was saying, oh, on you go, on you go.", start: 1596.39, end: 1602.63}
+  - {text: "And then sometimes he would just join the conversation, but he'd be writing the rest of the time, yeah.", start: 1602.85, end: 1608.39}
+  - {text: "Deborah, I'm going to move us on from Radecki March onto a very important subject.", start: 1609.05, end: 1613.93}
+  - {text: "What about women in Hort's novels, and also in his life?", start: 1614.53, end: 1619.21}
+  - {text: "Because we haven't mentioned it, but fairly early on he married in Vienna, and that was a very, very important part of his narrative.", start: 1619.57, end: 1627.17}
+  - {text: "Yes, although it's surprisingly often not commented on, or commented on far too much in the wrong way.", start: 1628.08, end: 1634.04}
+  - {text: "I mean, it's a difficult topic.", start: 1634.14, end: 1636.20}
+  - {text: "I mean, Helen has already referred to Frau Slamer in the novels, women are never major characters.", start: 1636.38, end: 1642.14}
+  - {text: "There are no main female characters in Hort, but they quite often play quite a decisive role.", start: 1642.14, end: 1648.00}
+  - {text: "The power dynamics are always uneven.", start: 1648.54, end: 1650.88}
+  - {text: "There are no balanced gender relations in Hort.", start: 1651.18, end: 1653.46}
+  - {text: "There are no colleagues or comrades of different sexes.", start: 1653.82, end: 1657.70}
+  - {text: "Either the women are much more powerful than the men somehow, or they are a long way below them, and they're either protecting the men, or they need protecting.", start: 1658.06, end: 1665.44}
+  - {text: "There's nothing, there's no balance in between.", start: 1665.62, end: 1667.08}
+  - {text: "And it's an obvious temptation to equate these literary figures with the women in Hort's life.", start: 1667.62, end: 1673.26}
+  - {text: "If I can lump them together like that.", start: 1673.26, end: 1675.38}
+  - {text: "So his wife, Friedl, whom he married in 1922, was an acquaintance from a coffee house in Vienna, very typically for Hort.", start: 1676.00, end: 1684.54}
+  - {text: "We haven't talked about bars or coffee houses yet, but...", start: 1684.58, end: 1688.44}
+  - {text: "Well, that's where he seemed to spend most of his life.", start: 1688.44, end: 1690.34}
+  - {text: "He spent most of his life and where he did a lot of his writing as well, of course, and he learned Friedl from one cafe table to the next.", start: 1690.34, end: 1697.04}
+  - {text: "She was the daughter of a shopkeeper in Vienna's Jewish district, very pretty, as we can see from the photos.", start: 1697.50, end: 1703.56}
+  - {text: "And they married when they were both still very young.", start: 1704.42, end: 1706.60}
+  - {text: "She was six years younger than him.", start: 1706.72, end: 1707.88}
+  - {text: "And he does not prevent the marriage, doesn't let the marriage prevent him from living the life that he wishes to lead as a traveling journalist.", start: 1708.54, end: 1718.40}
+  - {text: "The two of them basically live out of a suitcase, as far as it...", start: 1718.62, end: 1721.28}
+  - {text: "Yes and no, it quite often is said of Hort that he never had a flat, that he never had a home, that he never settled.", start: 1721.28, end: 1727.66}
+  - {text: "I think that he twice shared a flat with once with Friedl and once with a later partner, Andrea Mangabelle, in Berlin.", start: 1728.14, end: 1736.12}
+  - {text: "So he did, there were attempts at domesticity, but they never lasted for long and they were always very strained.", start: 1736.38, end: 1740.96}
+  - {text: "And what happens to Friedl in the end?", start: 1741.60, end: 1743.66}
+  - {text: "Because I think this is quite important.", start: 1743.80, end: 1745.12}
+  - {text: "It's an extremely sad story and it must have been very, very, very stressful and tragic for Hort himself.", start: 1745.14, end: 1750.76}
+  - {text: "Friedl becomes increasingly, at first he thinks, increasingly unable to cope with the life traveling around, with moving so often, with living out of a suitcase.", start: 1751.20, end: 1760.34}
+  - {text: "And then it becomes clear that she is mentally unstable and she is taking into psychiatric care, I think already from 1925, 26 onwards.", start: 1761.06, end: 1771.32}
+  - {text: "I think she's not in care at that point, but at the end of the 20s, yes.", start: 1771.84, end: 1776.02}
+  - {text: "And repeatedly ill and then is taken into full -time psychiatric care or is living at home but with a full -time nurse, is not really verbalizing anymore, is not really eating.", start: 1776.14, end: 1787.40}
+  - {text: "And she then remains in care until the end of her life, although care becomes a misnomer.", start: 1788.15, end: 1794.26}
+  - {text: "As under the Nazis in 1940, she is then murdered as a long -term psychiatric patient at one of the, in hard time in upper Austria in one of the parts of the Nazis,", start: 1794.38, end: 1805.86}
+  - {text: "so -called T4 program to kill psychiatric patients and the mentally unfit.", start: 1806.26, end: 1813.38}
+  - {text: "And Röth is, refers to Friedel and her illness in some of his work.", start: 1813.90, end: 1821.18}
+  - {text: "In some of his, I'm not sure if that's a good, I'm not sure about the work, certainly repeatedly in the letters, I'm not sure to what extent she...", start: 1821.64, end: 1829.10}
+  - {text: "Well, let me take it on to John Hughes in that case and talk about Job, the story of a simple man, which is what I think where he maybe does reference Friedel.", start: 1829.10, end: 1839.18}
+  - {text: "Can you tell us about this novel?", start: 1839.28, end: 1841.98}
+  - {text: "Because, as I understand it, Marlene Dietrich thought it was fabulous.", start: 1841.98, end: 1845.62}
+  - {text: "She did. I mean, it was actually the novel that preceded Redetzky March as it happens and could be said to have been this artistic turning point for him, the one that allowed him to,", start: 1846.06, end: 1856.78}
+  - {text: "getting the confidence, I think, to write the Redetzky March.", start: 1857.20, end: 1859.46}
+  - {text: "So it was published in 1930.", start: 1859.94, end: 1861.46}
+  - {text: "Before Redetzky March. Came before Redetzky March, although we've already discussed perhaps the most famous novel.", start: 1862.14, end: 1866.84}
+  - {text: "But Job is perhaps a close second, certainly looking at his reputation around the world.", start: 1867.00, end: 1872.46}
+  - {text: "It's a very widely read, translated, much loved novel.", start: 1872.74, end: 1876.24}
+  - {text: "It gives it its full title.", start: 1876.92, end: 1878.24}
+  - {text: "It's Job, the story or the novel of a simple man.", start: 1878.44, end: 1881.78}
+  - {text: "And in a way, it reprises some of the things that made Rebellion a great novel.", start: 1882.50, end: 1887.06}
+  - {text: "It has a sort of simplicity about it, a sort of fable -like structure.", start: 1887.52, end: 1890.62}
+  - {text: "It plays loosely with the story of the book of Job.", start: 1891.30, end: 1894.98}
+  - {text: "But unlike Rebellion, it's firmly set in the past.", start: 1895.64, end: 1898.62}
+  - {text: "It's the first novel in which he sets the story firmly in the pre -war world, in the central Europe in which he'd grown up.", start: 1898.62, end: 1907.84}
+  - {text: "And it's also unusually, amongst Hort's works, it's firmly set in a Jewish milieu, which is not something he did that often.", start: 1908.16, end: 1915.96}
+  - {text: "So the main character, Mendel Singer, the simple man of the title, is an embodiment of the Hasidic Eastern Jews, the Ostewiden.", start: 1916.72, end: 1925.46}
+  - {text: "And he's presented as a pious man, as a village teacher who lives just on the other side of the border with the Russian Empire, so", start: 1926.10, end: 1935.48}
+  - {text: "just outside of the geographical limits of Galicia.", start: 1935.48, end: 1938.24}
+  - {text: "And in the course of the story, he suffers misfortune after misfortune, both him personally and his family, starting with the birth of a son with disabilities, Menuchim.", start: 1938.76, end: 1949.80}
+  - {text: "He then becomes alienated from his older sons, and then loses them during the war.", start: 1950.34, end: 1955.46}
+  - {text: "His wife, Deborah, dies, and his oldest daughter, Miriam, becomes mentally ill.", start: 1955.96, end: 1961.28}
+  - {text: "And the description of Miriam's sort of mental collapse and institutionalization, writing in 1930, shortly after the same thing had happened to Friedl, is indeed, you know, very as a tough read.", start: 1961.84, end: 1972.30}
+  - {text: "It's based on personal experience in the novel.", start: 1972.80, end: 1976.08}
+  - {text: "So the novel ends with the other, I should say that the other thing that haunts the character is the fact that he's abandoned the disabled son when they family moved to America,", start: 1976.68, end: 1986.94}
+  - {text: "all of which results in him essentially turning his back on his Jewish identity, his faith.", start: 1987.64, end: 1992.22}
+  - {text: "He rages at the garden whom he's always believed at the end of the novel, but unusually fraught and different to rebellion.", start: 1992.88, end: 1999.84}
+  - {text: "He gives us a twist, a happy ending, a rather sentimental turn of events at the end.", start: 2000.24, end: 2005.54}
+  - {text: "So the abandoned son, Menuchim, turns out has miraculously recovered from his disabilities, has grown up to become a successful composer and musician, and he's on tour in America.", start: 2005.82, end: 2016.80}
+  - {text: "And so the novel ends up with the two men being reunited and gives us this happy ending.", start: 2017.48, end: 2022.12}
+  - {text: "Rott, I think had some doubts about that sentiment.", start: 2022.72, end: 2024.76}
+  - {text: "I was going to say it's so unorthy.", start: 2025.10, end: 2026.80}
+  - {text: "It is very, very, and he didn't quite disown the novel, but he was a bit reluctant to sort of praise it.", start: 2026.80, end: 2032.78}
+  - {text: "But he was happy that it was a success because the ending was a winner for readers.", start: 2033.26, end: 2037.08}
+  - {text: "And as you mentioned, Marlene Dietrich in an interview in 1931, I think, with an American film magazine, she was asked for her favorite novel, and she named Job,", start: 2037.08, end: 2046.90}
+  - {text: "which had just appeared in English translation, and Rott was so delighted he wrote to her to thank her.", start: 2047.36, end: 2052.14}
+  - {text: "And so that's a nice little story.", start: 2052.50, end: 2054.40}
+  - {text: "Helen Chambers, we've heard how he had a rather stellar career in the 1920s, certainly in the first half, but with the 1930s onwards, after the illness of his wife, his health starts to decline.", start: 2055.14, end: 2071.60}
+  - {text: "He has an unreliable stream of income, no fixed abode, really, yet he remains very prolific.", start: 2071.82, end: 2078.72}
+  - {text: "How does he sustain all this?", start: 2079.20, end: 2080.88}
+  - {text: "Well, should we say that he left Germany in 1933 and went into exile?", start: 2081.60, end: 2087.24}
+  - {text: "For obvious reasons. Because his books were being burnt, but I mean, how did he live?", start: 2088.08, end: 2093.84}
+  - {text: "Well, he borrowed money.", start: 2094.00, end: 2095.06}
+  - {text: "He bought in 1927, Stefan Zweig, who was a great bestseller, major literary figure, pots of money, wrote to Josef Rott and said, I've just read your Wandering Jews.", start: 2095.36, end: 2107.78}
+  - {text: "It's wonderful. Those are his essays about the Eastern Jews, the Osteolin.", start: 2108.04, end: 2112.90}
+  - {text: "And Rott got back to him and sort of sponged off for the rest of his life, although Zweig didn't manage to pay for all that Rott needed,", start: 2113.42, end: 2122.76}
+  - {text: "although he did put him up quite often in South of France or sometimes they were in Austria, I think sometimes they were in Ostend.", start: 2122.88, end: 2130.14}
+  - {text: "But Rott, he needed the money.", start: 2130.76, end: 2133.10}
+  - {text: "He got big advances, but he often didn't deliver in time.", start: 2133.56, end: 2137.04}
+  - {text: "He commanded a lot of money, but he spent a lot of money and he didn't just spend it on himself.", start: 2137.22, end: 2142.72}
+  - {text: "He was always giving money away, giving it away to people who were worse off than him.", start: 2143.16, end: 2148.54}
+  - {text: "Exiles, emigres, refugees. And he also, when he had money, he would live in smart hotels.", start: 2149.18, end: 2155.56}
+  - {text: "He liked the smart hotels.", start: 2155.82, end: 2157.02}
+  - {text: "He liked the Hotel Bristol in Vienna.", start: 2157.24, end: 2159.04}
+  - {text: "He liked the Hotel Foyaux, where he ended up, well, didn't end up in Paris because, and this is part of Rott's fate, that his worlds were destroyed one after the other.", start: 2159.32, end: 2169.28}
+  - {text: "And this included the Hotel Foyaux, where he had a room, which is just opposite the Giardin de Luxembourg, a fine hotel.", start: 2169.44, end: 2176.62}
+  - {text: "Anyway, it turned out that it was not fit for purpose and it was demolished.", start: 2177.22, end: 2183.84}
+  - {text: "So where he'd been living for years, was demolished before his very eyes.", start: 2184.44, end: 2189.76}
+  - {text: "He sat in the cafe across the road, but he worked.", start: 2189.84, end: 2193.56}
+  - {text: "I don't know if I've answered.", start: 2193.86, end: 2194.60}
+  - {text: "I mean, he drank all day and he needed to drink in order to work and he did work at cafe tables and he needed people around him to work.", start: 2194.84, end: 2203.36}
+  - {text: "He couldn't work without the people around him.", start: 2203.96, end: 2206.84}
+  - {text: "Yeah, so I mean, he was drinking very heavily and nonetheless, writing at the same time.", start: 2207.28, end: 2214.82}
+  - {text: "I don't know about all of you, but the experience of trying to write when you've had a drink is really, I mean, for me, it just doesn't work.", start: 2215.24, end: 2222.32}
+  - {text: "But he appeared to be inspired by it.", start: 2222.44, end: 2224.82}
+  - {text: "Deborah, by the late 30s, he was drinking himself to death.", start: 2225.16, end: 2229.26}
+  - {text: "What were the ghosts he was struggling with?", start: 2229.66, end: 2232.56}
+  - {text: "Well, I mean, he was, as we said, a highly functional alcoholic, but very definitely a sort of terminal alcoholic and that had been clear for a long time.", start: 2233.10, end: 2242.02}
+  - {text: "I mean, I sometimes wonder whether it stemmed from the war years, from the First World War, because I mean, as we know, on both sides of the front,", start: 2242.22, end: 2251.80}
+  - {text: "soldiers were being plied with alcohol to make the war possible at all.", start: 2252.02, end: 2256.40}
+  - {text: "I mean, that might well be part of the roots of his heavy drinking.", start: 2256.56, end: 2260.44}
+  - {text: "Then later on, I think it's partly because of the lifestyle.", start: 2260.98, end: 2263.52}
+  - {text: "He's having to keep deadlines.", start: 2264.10, end: 2265.56}
+  - {text: "He's up late at night.", start: 2265.86, end: 2266.60}
+  - {text: "He's living in hotels and bars.", start: 2266.76, end: 2268.08}
+  - {text: "Drink is readily available.", start: 2268.66, end: 2269.88}
+  - {text: "It's also part of the sort of journalistic camaraderie, inviting people for drinks.", start: 2270.18, end: 2274.62}
+  - {text: "And then comes Friedel and the marriage and the problems and the feelings of guilt and having to earn also to support Friedel and her care.", start: 2275.14, end: 2283.40}
+  - {text: "And I think that sort of underlines or cements this sort of turning to alcohol to find relief for that.", start: 2284.02, end: 2291.24}
+  - {text: "And then comes National Socialism, which Rolt had very early on seen coming with a clear -sightedness that's very interesting compared to others of his generation", start: 2291.56, end: 2301.78}
+  - {text: "who were hoping that it wouldn't be as bad as all that.", start: 2301.78, end: 2304.00}
+  - {text: "You know, it's kind of altogether it's enough to make anyone turn to drink, perhaps.", start: 2304.74, end: 2307.42}
+  - {text: "And towards the end, of course, the Nazis invade Austria.", start: 2308.16, end: 2312.22}
+  - {text: "So he loses Austria.", start: 2313.06, end: 2314.94}
+  - {text: "Is there a sense of abandonment running through his work?", start: 2315.48, end: 2320.42}
+  - {text: "I mean, perhaps starting with his father, I don't want to over...", start: 2320.82, end: 2325.28}
+  - {text: "As a theme in the work, I think probably, yes.", start: 2325.28, end: 2328.50}
+  - {text: "And certainly in terms of his personal life and his view of the world.", start: 2328.80, end: 2333.56}
+  - {text: "Yes, I mean, I think in the later years he starts to think of the old empire in near -utopian terms at times.", start: 2334.58, end: 2344.10}
+  - {text: "And it's a way, I think, of compensating for the world that was collapsing around him.", start: 2344.10, end: 2348.26}
+  - {text: "The idea that they may once have been a place, a supranational place where national identities were somehow less important than some sort of collective identity.", start: 2348.62, end: 2357.72}
+  - {text: "Because he does see nationalism as a fundamental evil.", start: 2357.88, end: 2360.08}
+  - {text: "Nationalism is something he totally rejected in all its forms.", start: 2360.12, end: 2362.86}
+  - {text: "He rejected Zionism as well, incidentally.", start: 2363.16, end: 2366.14}
+  - {text: "He saw it as a form of nationalism.", start: 2366.76, end: 2368.08}
+  - {text: "So no matter what the motivation was, he rejects nationalism and sees it as pernicious.", start: 2368.30, end: 2375.06}
+  - {text: "So two final questions for you all.", start: 2375.44, end: 2378.56}
+  - {text: "But Helen, let me start with you.", start: 2378.76, end: 2380.50}
+  - {text: "How appropriate is it that his final work was the legend of the holy drinker?", start: 2381.56, end: 2387.42}
+  - {text: "And what was that about?", start: 2387.64, end: 2388.92}
+  - {text: "Was that basically him saying, this is me?", start: 2389.18, end: 2392.56}
+  - {text: "Yes, and he did say as much.", start: 2393.08, end: 2395.76}
+  - {text: "I mean, one's reluctant to look at biographical sort of reasons for text, but he said this.", start: 2396.06, end: 2402.86}
+  - {text: "And I mean, it's the story of a a tramp in Paris who was originally a coal miner in Silesia and came to Paris for work.", start: 2403.04, end: 2412.22}
+  - {text: "And that's quite typical in economic traveller, migrant, if you like.", start: 2412.38, end: 2416.26}
+  - {text: "And the tramp ends up sleeping under the bridges in Paris.", start: 2416.78, end: 2420.16}
+  - {text: "But one day a well -dressed gentleman, and some people say that might have been modelled on Stefan Zweig, arrives and gives him 200 francs and", start: 2420.42, end: 2431.20}
+  - {text: "says it's in gratitude at his finding conversion to the church.", start: 2431.20, end: 2435.76}
+  - {text: "And the tramp takes it and says, thank you very much.", start: 2436.56, end: 2440.52}
+  - {text: "I'll pay it back to you.", start: 2440.70, end: 2442.28}
+  - {text: "And there are several attempts in the course of this short narrative.", start: 2442.64, end: 2446.34}
+  - {text: "Well, he drinks the money.", start: 2447.14, end: 2449.26}
+  - {text: "He loses the money.", start: 2449.42, end: 2450.34}
+  - {text: "People make him part with the money.", start: 2450.60, end: 2452.16}
+  - {text: "And he always gets it back again.", start: 2452.26, end: 2454.16}
+  - {text: "And he's always saying, I'm going to, and how he's going to pay it back is to give it to the church in Batinol where Saint Thérèse is there.", start: 2454.50, end: 2464.08}
+  - {text: "And she was a very modest saint with a humble life, an unsholy sort of person, but in a Catholic church.", start: 2464.56, end: 2470.42}
+  - {text: "And at the very end, oh, I don't know that I want to spoil the end, but at the very end...", start: 2471.68, end: 2477.22}
+  - {text: "Spoiler alert. The drunkard who, again, well, he's in a very bad state physically.", start: 2477.22, end: 2485.62}
+  - {text: "But he dies and he thinks that the little saint has taken the money and he's paid it back and it's all grace has descended upon him.", start: 2486.66, end: 2496.30}
+  - {text: "And he says, God, give all of us drinkers such a good and easy death.", start: 2496.60, end: 2503.58}
+  - {text: "And so in the story, the man finds grace, the drinker.", start: 2504.12, end: 2509.46}
+  - {text: "But of course, Joseph wrote, in his own life, had a terrible death, did not have what he wished for himself, but he collapsed, faced down on the table in the cafe.", start: 2509.66, end: 2522.88}
+  - {text: "He was, he had lots of friends who didn't have money, but looked after him, took him to hospital.", start: 2523.90, end: 2528.72}
+  - {text: "They didn't diagnose it properly.", start: 2529.38, end: 2531.66}
+  - {text: "He got, they withdrew alcohol completely and he had terrible delirium.", start: 2532.04, end: 2537.40}
+  - {text: "He had to be strapped to the bed and indeed died the very opposite kind of death from his own literary creation.", start: 2537.68, end: 2546.06}
+  - {text: "Well, on that sad note, a quick -fire last round, literally in half a sentence each, how well do Roth's works stand the test of time?", start: 2547.52, end: 2560.24}
+  - {text: "Deborah. Surprisingly well. It's about the human cost of war and it's about individual dignity.", start: 2560.64, end: 2565.68}
+  - {text: "John? Yeah, I would agree.", start: 2566.32, end: 2568.44}
+  - {text: "There's something he says in one of his early Foytan articles, Going for a Walk, where he says it's the minutiae, it's only the minutiae in life", start: 2569.04, end: 2576.40}
+  - {text: "that counts and it's the little details that he's captured and made permanent in his work that makes it still sort of sing today, I would say.", start: 2576.40, end: 2585.34}
+  - {text: "Helen? Well, it's the human condition in bright, beautiful colors in quite short works and I think they're wonderful.", start: 2585.64, end: 2593.22}
+  - {text: "My thanks to Deborah Holmes, Helen Chambers and John Hughes.", start: 2594.44, end: 2598.32}
+  - {text: "Next week, the African civilization on the edge of the Roman Empire.", start: 2598.94, end: 2603.84}
+  - {text: "That's the Garamantes. Thank you for listening.", start: 2604.50, end: 2607.32}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2608.53, end: 2615.15}
+  - {text: "And now, the podcast bit, where we can relax slightly.", start: 2616.10, end: 2620.48}
+  - {text: "So let me, the first thing I ask is, what did we miss out?", start: 2620.70, end: 2625.68}
+  - {text: "Perhaps we could say a little bit more about Roth's own Jewishness.", start: 2626.24, end: 2630.78}
+  - {text: "I mean, he had a somewhat, perhaps it's no surprise, but he had a slightly sort of contradictory sense of himself as a Jew.", start: 2631.40, end: 2637.98}
+  - {text: "As Helen mentioned, he did write quite extensively about the Jewish community and the lives of the Eastern Jews in the 1920s and the collection of", start: 2638.52, end: 2647.28}
+  - {text: "essays The Wandering Jews was published in 1927.", start: 2647.28, end: 2649.80}
+  - {text: "But what's interesting about it, or one of the things that's interesting about it is that he never identifies himself as a Jew.", start: 2650.16, end: 2656.34}
+  - {text: "He observes the community almost as an anthropologist might, without actually mentioning that he'd grown up pretty much within that community in Galicia.", start: 2656.86, end: 2666.72}
+  - {text: "As I mentioned, in our main discussion, he rejected Zionism, for example.", start: 2667.34, end: 2672.12}
+  - {text: "He was also quite critical of Jews who had assimilated and Westernized themselves, even though he himself was very much a Westernized assimilated Jew.", start: 2672.66, end: 2682.92}
+  - {text: "So it was quite contradictory.", start: 2682.92, end: 2684.40}
+  - {text: "What did he say?", start: 2685.12, end: 2685.74}
+  - {text: "He said he was a sort of an Eastern Jew with a Catholic brain and there were two sides to his personality.", start: 2685.92, end: 2691.22}
+  - {text: "And did he not actually, at one point, if not join the Catholic Church then?", start: 2691.58, end: 2696.48}
+  - {text: "He also said he was a Frenchman from the East.", start: 2696.66, end: 2698.62}
+  - {text: "Yes, he had various ways of characterizing himself.", start: 2698.68, end: 2701.62}
+  - {text: "I mean, I might say something about his funeral.", start: 2701.64, end: 2703.94}
+  - {text: "Can I say something about that?", start: 2704.30, end: 2705.40}
+  - {text: "So he was buried in this cemetery, which is in the south of Paris because nobody had enough money to put him in Père Lachaise, where Heine was, and he really should have belonged.", start: 2707.24, end: 2718.28}
+  - {text: "But at the grave site, he was never baptized, but he went to the Catholic Church in Paris, the Austrian Catholic Church.", start: 2718.98, end: 2726.38}
+  - {text: "So there was a Catholic priest officiating and there were a lot of Eastern Jewish friends there at the grave site.", start: 2726.68, end: 2734.70}
+  - {text: "And then there was Aegon Irving, and Kish, the great communist, who turned up with his red communist banner and his red carnations.", start: 2735.10, end: 2742.72}
+  - {text: "And then there was also a Talmudic scholar, Gottforshtein, who wrote, spent a lot of time with him in Paris, and he was prepared to pronounce the Cádiz and some people wanted the Cádiz.", start: 2743.34, end: 2755.36}
+  - {text: "Oh, and I've missed out the Austrian, legitimate monarchist, because Otto von Habsburg had sent a wreath, which would have had the yellow and black ribbons on it", start: 2755.52, end: 2764.80}
+  - {text: "because he wanted to restore the monarchy and he actually had fairly concrete plans to do that before things got really bad.", start: 2764.80, end: 2772.92}
+  - {text: "So there were monarchist, communist, Eastern Jews and Catholics at the grave site, and they were kind of, I mean, it nearly came to ugly scenes.", start: 2773.58, end: 2782.04}
+  - {text: "And then the chap that was going to say Cádiz was with his friend Soma Morgenstern, also an Eastern Jew.", start: 2782.52, end: 2788.78}
+  - {text: "And they said, no, we won't do this here now, we'll just let it be.", start: 2789.18, end: 2793.34}
+  - {text: "How dedicated was he to the Habsburg bulls?", start: 2793.34, end: 2796.98}
+  - {text: "He was very dedicated to the Habsburg cause and he met Otto von Habsburg, who was the heir to the throne that had kind of gone.", start: 2797.04, end: 2804.50}
+  - {text: "He met him in his court in Exile in Belgium and he got together with these Austrian legitimists and they had a, well, they had a plan to smuggle Otto von Habsburg back into Vienna in a coffin", start: 2804.64, end: 2819.76}
+  - {text: "and they had to find a dead Austrian in order to do that.", start: 2819.76, end: 2822.96}
+  - {text: "And Roth thought, well, in any case, I'm going to Vienna to talk to, well, he wanted to talk to Schuschnik, who was head of the government at the time and explain -", start: 2823.52, end: 2834.64}
+  - {text: "The Austrian fascist dictator of, the dictator of Austrofascism.", start: 2834.64, end: 2839.50}
+  - {text: "So this was - It was after, it was after the death of - Schuschnik was a chance before 13.", start: 2839.86, end: 2845.20}
+  - {text: "It was just before the answer.", start: 2845.20, end: 2846.84}
+  - {text: "Yeah, Schuschnik is in charge, he's certainly - Schuschnik's in charge, but was there already a Gauleiter there?", start: 2847.14, end: 2853.80}
+  - {text: "No, no, no, no, no, no.", start: 2854.02, end: 2855.30}
+  - {text: "But that was just after.", start: 2855.32, end: 2856.50}
+  - {text: "That comes after. So he went in just before the Anschluss and wanted to talk to Schuschnik and say, we'll get Otto von Habsburg back and", start: 2856.64, end: 2865.78}
+  - {text: "this is how we're going to do it.", start: 2865.78, end: 2867.22}
+  - {text: "And he had the blessing of the Habsburg monarchists.", start: 2867.22, end: 2870.54}
+  - {text: "And he went to Vienna, which was very dangerous thing for him to do.", start: 2870.68, end: 2874.56}
+  - {text: "And he never got to see the highest instance.", start: 2874.80, end: 2877.90}
+  - {text: "And so he did get to see a chief of police, I think, and the chief of police said, you better get out of here fast.", start: 2877.90, end: 2883.72}
+  - {text: "And he did get out of here fast, but he was very hands -on.", start: 2884.10, end: 2888.68}
+  - {text: "I mean, he wanted to, and he thought the reason he wanted to do this was he could see this as the only solution to getting rid of the Nazis.", start: 2889.06, end: 2897.38}
+  - {text: "Sounds like a pretty hair -brained scheme, though.", start: 2897.84, end: 2899.76}
+  - {text: "Hair -brained is indeed the word for it.", start: 2899.84, end: 2902.50}
+  - {text: "Not entirely realistic. One of the things that really interests me is the parallels between Stefan Zweig and Josef Roth.", start: 2902.72, end: 2911.58}
+  - {text: "So they sort of run alongside each other.", start: 2912.26, end: 2916.64}
+  - {text: "They're very aware of each other.", start: 2916.80, end: 2918.52}
+  - {text: "As you said, Zweig gave Roth quite a lot of money.", start: 2918.78, end: 2922.60}
+  - {text: "But who is the better writer?", start: 2923.12, end: 2925.42}
+  - {text: "Well, Josef Roth is definitely the better writer.", start: 2925.86, end: 2928.74}
+  - {text: "I think there's no dispute.", start: 2928.96, end: 2930.04}
+  - {text: "Well, I don't know, you might want to dispute with me.", start: 2930.22, end: 2932.34}
+  - {text: "Stefan Zweig also agreed that Roth was the better writer.", start: 2933.28, end: 2937.46}
+  - {text: "He always was quite willing to admit he was.", start: 2937.68, end: 2940.00}
+  - {text: "I think the differences are very interesting.", start: 2940.12, end: 2941.88}
+  - {text: "I think it's a very fruitful comparison for the literature of the time.", start: 2942.10, end: 2944.90}
+  - {text: "One of the things that Zweig does, that Roth doesn't, as we said, is that Zweig has heroes.", start: 2945.04, end: 2949.46}
+  - {text: "Zweig has goodies and baddies, and Zweig has heroes and hero -worships.", start: 2950.10, end: 2954.16}
+  - {text: "And that's not something that Roth does at all.", start: 2954.72, end: 2956.66}
+  - {text: "Roth is much, much more...", start: 2956.80, end: 2959.42}
+  - {text: "He's ironic in a way that Stefan Zweig seemingly can't or doesn't want to achieve.", start: 2959.42, end: 2965.38}
+  - {text: "And that, of course, made Zweig a best -selling author, in a way which, well, what did sell books, but he never earned the big books like Stefan Zweig?", start: 2965.78, end: 2975.14}
+  - {text: "Roth's timing was unfortunate, wasn't it?", start: 2975.16, end: 2977.20}
+  - {text: "I mean, in a typically kind of Eroltian fashion, it's to do with chance and contingency.", start: 2977.28, end: 2982.70}
+  - {text: "And Radecky Marsh could have been an immense success, but it came out just before the National Socialists took over, wasn't it?", start: 2982.98, end: 2989.86}
+  - {text: "In fact, it was published in 32, so just at the point the royalties were coming in, in early 1933, Hitler's already taken over.", start: 2989.94, end: 2998.50}
+  - {text: "Hortz in Paris in exile.", start: 2999.12, end: 3000.68}
+  - {text: "He never really seized the money that he was due.", start: 3000.86, end: 3003.44}
+  - {text: "And he was one of those few people.", start: 3004.48, end: 3007.78}
+  - {text: "I think his first novel, Spin and Nets, The Spider's Web.", start: 3007.90, end: 3013.56}
+  - {text: "Actually engages with Hitler himself, even though this is in 1923, 1924.", start: 3015.36, end: 3021.70}
+  - {text: "1923. The extraordinary prescience.", start: 3022.92, end: 3025.44}
+  - {text: "Yes, it came out just before the Hitler pooch, and it's a novel about...", start: 3025.70, end: 3030.26}
+  - {text: "The Beer Hall pooch.", start: 3030.26, end: 3031.46}
+  - {text: "The Beer Hall pooch, that's right, when Hitler was put in prison and they actually finished publishing the last part of it in the newspaper days before that happened and in Hortz's novel, there's a terrorist attempt planned", start: 3031.66, end: 3047.38}
+  - {text: "so that he saw very clearly what was going on from a very early time.", start: 3048.02, end: 3052.60}
+  - {text: "I think it's the novel with the first explicit reference to Hitler.", start: 3052.84, end: 3056.14}
+  - {text: "There isn't another work of literary fiction, an earlier work of literary fiction that names Hitler.", start: 3056.94, end: 3062.56}
+  - {text: "Deborah, tell us a bit about the coffeehouse culture that we skipped over, because he did spend a lot of time which, to be fair, he did,", start: 3063.18, end: 3075.84}
+  - {text: "but many, many other newspaper men and women of the time did.", start: 3075.92, end: 3080.16}
+  - {text: "You know, it was a lot...", start: 3081.08, end: 3082.70}
+  - {text: "They still do in mind, yes.", start: 3082.70, end: 3084.26}
+  - {text: "Yes, let's put that in a different tense.", start: 3084.54, end: 3087.04}
+  - {text: "Yeah, but it was very much, it's partly to do with the problems of the time it was difficult to heat your house at home in the immediate post -war period.", start: 3087.76, end: 3096.00}
+  - {text: "It was a place to go where you could be sure of being warm enough to sort of move a pen on paper.", start: 3096.44, end: 3101.04}
+  - {text: "And it was also where you could meet and mix and keep up to date and have all of the daily newspapers at your disposal, because,", start: 3101.04, end: 3108.42}
+  - {text: "you know, a Viennese coffeehouse also today typically has a fine array of newspapers, international, national newspapers.", start: 3108.60, end: 3116.28}
+  - {text: "And I think it's worth pointing out that in 1918, 1919, Vienna was in a terrible state.", start: 3116.96, end: 3122.86}
+  - {text: "Yeah, Vienna was literally starving.", start: 3123.10, end: 3124.90}
+  - {text: "There was a survey done by a children's doctor at the time that over 90 % of Viennese children were suffering malnutrition after World War I.", start: 3125.34, end: 3132.94}
+  - {text: "Yeah, I mean, a lot of the same applies to Berlin, of course, where he continues the same habits.", start: 3134.24, end: 3139.54}
+  - {text: "And the coffeehouses and the bars were also places to network.", start: 3140.40, end: 3143.00}
+  - {text: "So there were good career reasons for spending time, you know, a place like the Romanisches Café in Berlin, where he was an habitual customer.", start: 3143.66, end: 3152.10}
+  - {text: "It was the place to be seen.", start: 3152.76, end: 3154.10}
+  - {text: "It was well known that the prominent people there were prominent people would be there.", start: 3154.16, end: 3158.46}
+  - {text: "And so it wasn't just a place to work.", start: 3158.84, end: 3160.70}
+  - {text: "It was a place to see and be seen.", start: 3160.80, end: 3162.58}
+  - {text: "And, yeah, Kish was often there.", start: 3163.26, end: 3165.12}
+  - {text: "And a place where someone was going to pick you up off the floor if you felt like you're stooling a drunken stupor.", start: 3165.60, end: 3170.28}
+  - {text: "And you mentioned that Rodetzky March was unique, but he did then write a sequel, The Emperor's Tomb.", start: 3170.40, end: 3177.48}
+  - {text: "Yeah, in 1988. What was, why did he do that?", start: 3177.82, end: 3182.30}
+  - {text: "Well, I think he did it, you know, for commercial reasons.", start: 3182.44, end: 3184.96}
+  - {text: "He wanted to build on the success of Rodetzky March.", start: 3184.96, end: 3188.26}
+  - {text: "But after 1933, he writes quite a lot of novels and novellas.", start: 3188.48, end: 3194.04}
+  - {text: "But in difficult circumstances, not only is his lifestyle, you know, working against him, but he's working to tight deadlines.", start: 3194.68, end: 3201.86}
+  - {text: "He's never quite sure, you know, where, you know, he's working with different publishing houses in all based in exile.", start: 3202.50, end: 3208.68}
+  - {text: "Now, many of them in the Netherlands.", start: 3208.68, end: 3210.28}
+  - {text: "And he's desperate, really, to just make ends meet.", start: 3210.90, end: 3213.80}
+  - {text: "So the sequel, The Emperor's Tomb, The Kapitzenegroft, it follows a sort of a separate branch of the Fontotta family and tries to bring the story", start: 3214.31, end: 3222.18}
+  - {text: "up to the point of the Anschluss of Austria to Nazi Germany in 1938.", start: 3222.18, end: 3227.24}
+  - {text: "And it's an interesting read and anyone that's enjoyed Rodetzky March should probably read it, but it isn't the same.", start: 3227.92, end: 3234.82}
+  - {text: "It is not. It isn't of the same quality.", start: 3234.98, end: 3236.74}
+  - {text: "It's not. It's written in the first person as well, isn't it?", start: 3237.02, end: 3239.30}
+  - {text: "Which is not so common amongst his novels.", start: 3239.40, end: 3242.20}
+  - {text: "It was he sort of rushed it as well in 1938 as events were happening in Austria.", start: 3242.20, end: 3247.98}
+  - {text: "He thought, I'd better get this out quickly as well.", start: 3247.98, end: 3250.24}
+  - {text: "And I think it's looked to by students of German as a kind of set text because it's got all this history.", start: 3250.68, end: 3257.38}
+  - {text: "And but actually wrote a far better a novel in 1937 called Weights and Measures in English, which picks up a lot of the characters from Rodetzky March.", start: 3257.50, end: 3268.28}
+  - {text: "And indeed, Mendel Singer from Heopops up in it as well.", start: 3268.40, end: 3271.80}
+  - {text: "The name does. And it's a it's a story about a move from west to to east.", start: 3272.20, end: 3280.02}
+  - {text: "And an inspector of Weights and Measures, an honest man who's been forced to leave the army and get out of his uniform by his wife", start: 3280.22, end: 3288.36}
+  - {text: "and he's lost when he gets out of his uniform.", start: 3288.36, end: 3290.70}
+  - {text: "And he he has a kind of slide into.", start: 3291.30, end: 3295.26}
+  - {text: "Well, maybe it's sin and maybe it's grace.", start: 3296.52, end: 3299.10}
+  - {text: "It's a bit hard to tell.", start: 3299.32, end: 3300.56}
+  - {text: "But it's a it's a beautiful novel that picks up a lot of his other themes and and evokes the landscape back in the east again.", start: 3301.24, end: 3311.14}
+  - {text: "And we haven't mentioned the larks and the sky and the frogs and the swamp and the crickets chirping.", start: 3311.20, end: 3317.20}
+  - {text: "But he opens up this this huge space that's full of life and full of animals and human beings responding to them.", start: 3317.20, end: 3325.26}
+  - {text: "But I would recommend Weights and Measures as a better composed novel than than the Emperor's Tomb, which is historically perhaps more interesting.", start: 3325.32, end: 3335.84}
+  - {text: "So, well, thank you very much.", start: 3336.78, end: 3339.54}
+  - {text: "I think not only are we going to be offered tea, but Martha baked me a lemon drizzle cake for my birthday.", start: 3339.62, end: 3348.30}
+  - {text: "And so we also have exceptionally lemon drizzle cake.", start: 3348.92, end: 3352.42}
+  - {text: "Simon, to go with your coffee, tea, I'll have a coffee, please.", start: 3352.64, end: 3356.98}
+  - {text: "Coffee, please, tea, please.", start: 3356.98, end: 3359.02}
+  - {text: "In our time with Misha Glenny is produced by Simon Tilletson and it's a BBC Studios production.", start: 3359.68, end: 3364.94}
+  - {text: "If you've got a scrolling problem, then this is the podcast for you.", start: 3365.99, end: 3368.97}
+  - {text: "It's called Top Comment with Meemat Shea and Meemariana Spring.", start: 3369.33, end: 3372.25}
+  - {text: "We both investigate social media for a living, whether it's disinformation, conspiracy theories, internet culture, memes.", start: 3372.51, end: 3378.77}
+  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3379.31, end: 3383.01}
+  - {text: "That's Top Comment on BBC Sounds.", start: 3383.45, end: 3385.49}
+---

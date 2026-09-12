@@ -1,0 +1,323 @@
+---
+layout: single
+title: "The Welsh Marches"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-06-25T00:00:00Z
+slug: "2026-06-25-the-welsh-marches"
+audioDir: "2026-06-25-the-welsh-marches"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-06-25-the-welsh-marches/episode.mp3"
+totalDuration: 3208.7
+sentences:
+  - {text: "BBC Sounds. Music, radio, podcasts.", start: 1.10, end: 4.26}
+  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 8.00, end: 12.40}
+  - {text: "Why do weekends even exist?", start: 12.74, end: 14.48}
+  - {text: "And how did we become so obsessed with football?", start: 14.80, end: 17.10}
+  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 17.44, end: 19.50}
+  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 19.94, end: 25.52}
+  - {text: "Like why has the pub become so important?", start: 25.62, end: 27.62}
+  - {text: "That's an excellent question, Ben.", start: 27.90, end: 29.68}
+  - {text: "Here for the history.", start: 30.04, end: 30.74}
+  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 31.06, end: 33.40}
+  - {text: "Hi, this is me, Shaglennie.", start: 33.40, end: 35.58}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.18, end: 40.32}
+  - {text: "But if you can't wait, head over to BBC Sounds, where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.12, end: 48.94}
+  - {text: "The Crossed Wires Podcast Festival is back, bigger and better this year, in Sheffield.", start: 49.66, end: 55.04}
+  - {text: "From Thursday the 2nd to Sunday the 5th of July, 2026, BBC Sounds and Radio 4 Fringe are treating podcast listeners to an exciting lineup of shows all for free, including In Our Time.", start: 55.04, end: 69.96}
+  - {text: "We'll be recording at the Montgomery Theatre on the 4th of July with a special edition of In Our Time on Casablanca.", start: 70.64, end: 78.00}
+  - {text: "That's Bogart and Bergman, and much more.", start: 78.36, end: 81.32}
+  - {text: "Visit crossedwires .live .fringe for the full list of programs and how to get free tickets.", start: 81.32, end: 88.64}
+  - {text: "This is In Our Time from BBC Radio 4.", start: 90.35, end: 93.31}
+  - {text: "I hope you enjoy the program.", start: 93.81, end: 95.17}
+  - {text: "Hello. In 1066, William the Conqueror knew that if he wanted to control England, it had to subdue the Welsh forces across the border in an area that became known as the Welsh marches.", start: 96.61, end: 111.13}
+  - {text: "Soon more and more Norman warlords established effectively their own private kingdoms, later their bases for invading Ireland.", start: 111.13, end: 120.65}
+  - {text: "These marchalords built castles here, where new towns grew up, new ways of life with one law for the English and another for the Welsh.", start: 121.61, end: 131.13}
+  - {text: "And I say here because we're at the Hay Festival and Hay on Why is in these marches.", start: 131.13, end: 138.47}
+  - {text: "Indeed, one of the very first castles was built here in Hay, just down the road.", start: 138.53, end: 143.79}
+  - {text: "Well, with me to discuss the Welsh marches are Ian Emlyn, lecturer in history and Welsh history at Aberystwyth University, Helen Fulton, professor of medieval literature at the University of Bristol and Hugh Price,", start: 144.35, end: 160.39}
+  - {text: "emeritus professor of Welsh history at Banger University.", start: 160.81, end: 164.79}
+  - {text: "Can I have a big warm hey welcome for my guests?", start: 165.27, end: 167.89}
+  - {text: "Deeply appropriate. Thank you.", start: 180.26, end: 182.00}
+  - {text: "So let me go first of all to Hugh Price.", start: 182.24, end: 185.16}
+  - {text: "Hugh, I've sketched out a little bit about the marches, but can you give us some essential details?", start: 185.60, end: 192.28}
+  - {text: "What were the Welsh marches?", start: 192.56, end: 194.22}
+  - {text: "Well, I think the first thing to say is that the marches were an essential part of the story of the conquest and colonisation of Wales in the Middle Ages.", start: 194.22, end: 203.58}
+  - {text: "The marches in the sense we're going to talk about them include, as it were, the border between England and Wales, which is more geographical use of the marches,", start: 205.34, end: 215.44}
+  - {text: "but extended right along the south Wales coast and into parts of mid Wales and later on after the Edwardian conquest also parts of north east Wales.", start: 215.44, end: 225.78}
+  - {text: "And these were essentially created by Lords who fought their way, in many cases, into Wales as we've heard.", start: 226.52, end: 237.52}
+  - {text: "Hey was an early example of a lordship established in the late 1080s by a Norman, Bernard de Neuf Marchet, who had lands in Herefordshire, and he led troops down the Y Valley.", start: 237.52, end: 250.96}
+  - {text: "They would have been responsible for building the Mott, which is not at the site of Hey Castle Now, which is a bit later, probably from the 12th century, but near the church in Hey.", start: 251.62, end: 263.62}
+  - {text: "And they continued and eventually, by the 1090s, Bernard takes over the Welsh kingdom of Bracheniog or Brecon, and at the same time, the powerful Welsh king of south -west Wales, Rhys, Rhysapteoddor, is killed.", start: 263.62, end: 285.92}
+  - {text: "And after that, the Normans also go further into west and south -west Wales, so that's a further stage.", start: 285.92, end: 294.30}
+  - {text: "So in a sense, Hey is part of an important sort of thread in the story of the making of the marches.", start: 294.50, end: 300.76}
+  - {text: "So how did these marches lords, how did they manage to accrue so much power in their hands, particularly their independence from the English king?", start: 300.98, end: 310.72}
+  - {text: "We don't really know exactly how they accrued that power.", start: 311.34, end: 314.42}
+  - {text: "What is clear is that the power was very extensive.", start: 314.58, end: 316.84}
+  - {text: "By the time the documentation really gives us details about it in the 13th century, they claimed the right to wage private wars.", start: 317.48, end: 325.86}
+  - {text: "They had rights of jurisdiction.", start: 326.14, end: 329.26}
+  - {text: "There was a law of the march, which was a hybrid between, if you like, English and Welsh law, and that's recognized in Magna Carta in 1215,", start: 330.06, end: 338.44}
+  - {text: "and it says disputes in the march will be judged according to the law of the march.", start: 338.62, end: 343.66}
+  - {text: "And those in England, by the law of England, and those in Wales, by the law of Wales.", start: 344.42, end: 347.18}
+  - {text: "So clearly, though there are lots of different lordships, and by the end of the 13th century, you have about 40 different marcher lordships.", start: 347.40, end: 354.94}
+  - {text: "So it's very fragmented, it's very varied.", start: 354.94, end: 357.14}
+  - {text: "At the same time, there's a concept that they have something in common.", start: 357.62, end: 360.66}
+  - {text: "And they do have very extensive powers, including of jurisdiction, but they were under the king of England, nevertheless.", start: 360.66, end: 370.42}
+  - {text: "And there's a story relating to a lord who held lands very near to Hay, Walter Clifford in 1250, who for some reason was offended by a letter sent to him by King Henry III,", start: 370.80, end: 383.64}
+  - {text: "and forced the royal messenger to eat the letter made of parchment and the wax seal, which sounds extremely indigestible.", start: 383.64, end: 391.26}
+  - {text: "But we only know about that because Walter was summoned before the king to answer for this act of defiance.", start: 391.98, end: 401.74}
+  - {text: "He was threatened with being imprisoned, with being disinherited, and in the end he had to pay a very large fine to be allowed to go free.", start: 402.14, end: 410.66}
+  - {text: "So there were limits to the freedom of the marcher lords.", start: 410.66, end: 414.36}
+  - {text: "Helen Fulton, let me come to you.", start: 414.80, end: 416.98}
+  - {text: "So the lords had their lands here and their interests in this region, but they had interests all over the place.", start: 417.26, end: 425.26}
+  - {text: "How would you characterize them?", start: 425.42, end: 427.04}
+  - {text: "They were the great magnets of their day.", start: 427.98, end: 431.26}
+  - {text: "They were earls and dukes, people who'd been ennobled by William the Conqueror and his successors.", start: 431.46, end: 437.14}
+  - {text: "So these were very large landowners.", start: 437.14, end: 440.62}
+  - {text: "So they had estates in the march, but they also had estates elsewhere in England and increasingly in Ireland as well from the later 12th century.", start: 441.28, end: 451.28}
+  - {text: "They held lands in Ireland as well.", start: 451.60, end: 453.94}
+  - {text: "So for example, Hay and Brecken and Radner were owned for a long time by the very powerful de Brea's family in the late 11th and early 12th centuries.", start: 454.48, end: 465.26}
+  - {text: "And that family of de Brea's is, a Norman family, also owned lands in England, France and Ireland.", start: 465.26, end: 473.72}
+  - {text: "And later on in the 15th century, the town of Oswastry, which formed its own little centre for a marcher lordship around Oswastry.", start: 474.62, end: 483.62}
+  - {text: "That town and the lands around it were owned for a long time by the Fitz -Allen family, the Earls of Arundel.", start: 484.20, end: 490.14}
+  - {text: "And they owned Oswastry from about the late 12th century right through to the 16th century in an almost unbroken line.", start: 490.14, end: 497.80}
+  - {text: "And they were a very powerful family, the Earls of Arundel.", start: 498.28, end: 501.14}
+  - {text: "And of course they owned Arundel Castle in West Sussex near Brighton and also very large amounts of land in Norfolk and Suffolk.", start: 501.24, end: 509.02}
+  - {text: "So they're another example of one of these powerful marcher lords families that also owned lots of land elsewhere.", start: 509.40, end: 516.40}
+  - {text: "So we're covering about 400 years here and that's a long time in which relationships evolve and go off in various directions.", start: 516.40, end: 527.64}
+  - {text: "So this relationship between the rulers and the ruled, can you tell us about a poet, Yolo Goch and his poem to Edward III, written in", start: 528.22, end: 539.36}
+  - {text: "what was perhaps a golden period for the lords?", start: 539.36, end: 542.52}
+  - {text: "Yes, it was written in the late 14th century and it's a very interesting example of a praise poem written in Welsh to an English monarch in the late 14th century.", start: 542.52, end: 554.58}
+  - {text: "Welsh court poetry was a very vibrant and dynamic cultural phenomenon and we have a very, very large body of court poetry in Welsh surviving.", start: 555.08, end: 565.20}
+  - {text: "Mostly written to Welsh patrons but also increasingly during the 14th and 15th centuries written to marcher lords and their families.", start: 565.20, end: 574.78}
+  - {text: "But the poem to Edward III I think is quite unusual being written to an actual monarch and I think the whole point was not that Edward III was ever going to read it", start: 575.56, end: 582.96}
+  - {text: "or understood any Welsh but the idea was to show him that the Welsh was supportive of the king's efforts during the Hundred Years War.", start: 582.96, end: 591.38}
+  - {text: "So the poem mentions the seizure of Calais for example in 1347, Edward III seized Calais and in fact the English owned Calais right up until the middle of the 16th century.", start: 591.38, end: 604.64}
+  - {text: "So that was a major military victory.", start: 604.98, end: 606.86}
+  - {text: "So the poem praises Edward for his military prowess.", start: 607.42, end: 611.42}
+  - {text: "The poet says Calon a lau vron a leu, the heart and breast of the lion.", start: 611.42, end: 617.82}
+  - {text: "He says Angeldar angweillod a good angel in the thick of battle.", start: 618.72, end: 625.48}
+  - {text: "And the poet also calls him Eirir grinsor, the eagle of Windsor because Edward was born in the castle at Windsor.", start: 626.32, end: 635.76}
+  - {text: "So the poem really makes a lot of Edward's military prowess as a way of showing that the Welsh appreciated many Welsh fought in the Hundred Years War on behalf of the king", start: 635.76, end: 646.64}
+  - {text: "and the idea of the poem was to celebrate Edward's successes in those battles.", start: 646.64, end: 652.10}
+  - {text: "Let's go back to the beginning again.", start: 654.50, end: 656.32}
+  - {text: "Who were the most powerful forces in Wales when the marcher lords first started to invade?", start: 657.30, end: 664.14}
+  - {text: "Well Wales in the 11th century was a country of many kings and many kingdoms across the whole country.", start: 664.88, end: 671.42}
+  - {text: "So there was a sense of a common Welsh identity although the Welsh would have called themselves Britons in the 11th century rather than Welsh but there was this sense of Welsh identity across the country but that wasn't reflected politically.", start: 672.02, end: 685.24}
+  - {text: "So you had different kings, different kingdoms, we might know some of their names now as the names of counties like Gwynedd and Poes and Glamorgan and so on.", start: 685.24, end: 695.18}
+  - {text: "So there were these kingdoms but they changed all the time.", start: 695.72, end: 698.28}
+  - {text: "There was a period of flux in Welsh politics as a kingdom depended on the personal power, the aggressive personality of the king himself.", start: 698.36, end: 709.20}
+  - {text: "Now before the Normans arrived on the borders of Wales there had to be one powerful king, Gryffitha Plwellyn, who had managed to unite the whole of Wales under his control.", start: 709.20, end: 720.58}
+  - {text: "But a few years before the Battle of Hastings we had Harold Godwinson of course who was defeated at the Battle of Hastings, invaded Wales that", start: 721.72, end: 731.78}
+  - {text: "led to the collapse of Gryffitha Plwellyn's kingdom.", start: 731.78, end: 734.68}
+  - {text: "Incidentally Harold Godwinson also married Gryffitha Plwellyn's wife, Ildgith.", start: 735.62, end: 740.34}
+  - {text: "Poor Ildgith was Queen of Wales then, Queen of England and that really left a power vacuum in Wales where you had a number of kings", start: 740.62, end: 750.22}
+  - {text: "and a number of kingdoms then trying to vie for power against one another.", start: 750.22, end: 755.16}
+  - {text: "So it was quite a turbulent time and of course 1066 complicated matters even further.", start: 755.34, end: 761.84}
+  - {text: "So the Normans come in and fairly soon after they start establishing the Marchlands they actually use these territories as a launch pad to invade Ireland.", start: 761.84, end: 775.24}
+  - {text: "Why was that? Well they'd had 100 years or so of trying to conquer Wales.", start: 775.72, end: 781.02}
+  - {text: "They'd managed to successfully at the beginning but the Welsh had learned how to fight back and after a while Wales seemed to harden it to crack I suppose to many of these marching lords", start: 781.52, end: 791.96}
+  - {text: "and they looked across at Ireland and when the opportunity arose there was an exiled King of Ireland, King of Leinster who invited the Normans to help him to invade his country", start: 791.96, end: 803.26}
+  - {text: "and so they thought well Ireland might be an easier prospect than what they were facing in Wales.", start: 803.26, end: 808.68}
+  - {text: "So Hugh Price just as a follow -up to that I've heard a lot of Irish historians argue to me that Ireland was the first colony,", start: 808.68, end: 817.70}
+  - {text: "the first colonisation experiment of the English but arguably with the marching lords you could say that Wales was the first colony.", start: 817.80, end: 824.92}
+  - {text: "What do you think of that?", start: 825.26, end: 826.38}
+  - {text: "Well you could certainly argue that I think that there's a century earlier in a way sort of late 11th rather than late 12th century and I know from personal experience", start: 826.88, end: 835.74}
+  - {text: "that Irish historians are very wedded to this idea that they're the first colony I'm not sure it's that productive a sort of debate to have really.", start: 835.74, end: 844.96}
+  - {text: "What is I think interesting is that the marching lords who go to Ireland have had experience of similar kind of warfare and indeed one of their great spokesmen", start: 845.48, end: 855.74}
+  - {text: "Gerald of Wales the ecclesiastic and writer made the point that because they were used to that kind of terrain and that kind of warfare they were the most suitable to conquer Ireland", start: 856.34, end: 866.94}
+  - {text: "and they should be sort of treated better by the king on account of that.", start: 866.94, end: 870.58}
+  - {text: "So staying with you Hugh, within the marches there was a sort of two -tier life there was one law in areas known as the Welsh Rees and another law in the English Rees.", start: 871.00, end: 884.72}
+  - {text: "What were these Rees?", start: 885.04, end: 886.58}
+  - {text: "Well we're talking about the organisation of I think the majority of marcher lordships and what you tend to have was the lower lying land where you'd have the castle,", start: 887.80, end: 899.22}
+  - {text: "the borough sometimes a priory church which were the sort of key sort of symbols if you like of marcher domination and then you may have some low lying agricultural land that they're all inhabited by settlers really.", start: 899.64, end: 914.94}
+  - {text: "And then higher up the Welsh they remain or some may have been forced to move and they have mainly a pastoral economy keeping cattle and so on.", start: 915.56, end: 926.30}
+  - {text: "And there are big differences in the English Rees, they're organised more like English sort of manners they pay the tenants pay rents and perform services on an individual basis", start: 926.64, end: 938.20}
+  - {text: "but say if you take the lordship of Hay where there is actually a survey in 1340 we know that well first of all the English", start: 938.20, end: 946.58}
+  - {text: "and Welsh are listed always separately there's a very sharp ethnic distinction and secondly the Welsh who live in these scattered veils up in the Black Mountains some of them", start: 946.58, end: 958.46}
+  - {text: "as high as 2 ,000 feet up you know that they pay a communal payment of cattle every other year of 24 cows which is based on a sort of traditional Welsh payment", start: 958.46, end: 969.38}
+  - {text: "so that's a nice illustration of the difference there whereas nearly all the names in the English Rees are English and you know they become a target of England or later on for example.", start: 969.38, end: 980.88}
+  - {text: "So and this persists the urban concentration of English then the rural concentration of Welsh and Welsh speakers?", start: 981.06, end: 989.72}
+  - {text: "Well to some extent I mean there was a rural element to the English Rees in as much as like in a lot of other situations in Europe you get peasant colonists coming in", start: 990.44, end: 1001.32}
+  - {text: "and clearing wool land and trying to grow crops so a sort of Moigrarian economy and they'd come in and do that or they're reclaiming land from the sea or whatever", start: 1001.32, end: 1011.82}
+  - {text: "whereas yeah in the uplands it's the Welsh and so that does have a certain amount of ongoing influence though in the late Middle Ages sometimes this changes for example in Glamorgan", start: 1012.58, end: 1023.08}
+  - {text: "where the Normans had you know taken over the veil of Glamorgan the low -lying land by the 15th century there seems to be a movement of Welsh speaking of Welsh people into the lowlands there", start: 1023.08, end: 1034.52}
+  - {text: "so the picture is very diverse in fact.", start: 1034.52, end: 1036.56}
+  - {text: "Helen as I said with this we're looking at a period of around 400 years was there a culture emerging in the March lands which was distinct from either Welsh or English culture?", start: 1037.26, end: 1051.40}
+  - {text: "Yes I think there definitely was it's most visible in the 14th and 15th centuries I suppose sort of second half of the period of the Marchia Lordships", start: 1052.14, end: 1060.94}
+  - {text: "where a very distinctive culture began to emerge and it's really what you might call a border culture as you might expect so it has things in common with other border areas even today so multilingualism and a certain amount of multiculturalism was evident", start: 1060.94, end: 1077.64}
+  - {text: "intermarriage was very common so people might have had a primary allegiance to being either English or Welsh but actually their family going back a few generations was very enmeshed in both English", start: 1078.78, end: 1090.96}
+  - {text: "and Welsh most people were bilingual or multilingual there was a sense of community a sense of territory of who owned what land it was really important to know", start: 1090.96, end: 1102.60}
+  - {text: "where the jurisdictions were so there was a very particular kind of culture because of the people who lived in the borders that found expression through the kind of poetry, prose, the manuscripts the churches,", start: 1102.60, end: 1117.68}
+  - {text: "the monasteries, the way in which society was organised was quite distinctive to the March And the Marchia Lords respected Welsh culture and Welsh traditions or not?", start: 1118.56, end: 1131.24}
+  - {text: "Well the Marchia Lords themselves were probably a bit far removed from Welsh culture but the sort of lower level of English gentry certainly appreciated Welsh culture they were the ones who mostly intermarried with Welsh people", start: 1131.56, end: 1146.48}
+  - {text: "and it's clear from the manuscript evidence that English speakers were almost as keen on preserving Welsh language culture as were Welsh speakers Herring Hughes mentioned the Magna Carta", start: 1146.92, end: 1160.60}
+  - {text: "which I found astonishing that they actually specify a legal system which is separate from both Wales and England and presumably on an equal footing to what extent did", start: 1160.60, end: 1173.76}
+  - {text: "that develop to the Marchia's becoming a state within a state over that long durée as it were?", start: 1173.76, end: 1180.60}
+  - {text: "Yeah it is an interesting situation which they found themselves in obviously the King of England is their overlord and yet their lordships fall outside of the Kingdom of England in many ways so they hold power by the 13th,", start: 1181.16, end: 1195.34}
+  - {text: "14th century they hold power which elsewhere is exiled by the King so the exercise of justice they're the universal landlord everyone holds their land from them in the lordship they also have the power to wage war,", start: 1195.34, end: 1207.74}
+  - {text: "to have their private armies have treaties with Welsh rulers to fight wars against one another which wouldn't be thinkable in their English territories and there was all sorts of other powers which were usually held by kings so whether that's raising taxes,", start: 1208.12, end: 1221.78}
+  - {text: "establishing boroughs they have the right to royal fish so such as sturgeons and porpoises and other things so all these minor details which colour the image of the type of power that they had", start: 1222.36, end: 1234.62}
+  - {text: "and you see this encapsulated a number of different examples I mean here was already referred to one of the best examples of Walter Clifford who", start: 1235.16, end: 1243.44}
+  - {text: "sort of had the messenger eat the seal another example of 14th century of John Charlton Lord of Poes whose mantra seemed to have been I am pope,", start: 1243.44, end: 1255.56}
+  - {text: "I am king, I am bishop and abbot in my land so in the sense that the king has no right to exercise justice in his lordship I suppose what complicates matter", start: 1255.80, end: 1266.26}
+  - {text: "as well though is that the king could also be a martial lord so he could be king but also certain lordships fell into royal hands", start: 1266.26, end: 1275.42}
+  - {text: "and so the king had these rights as a martial lord in certain parts of Wales rather than as king in a sense I think I ought to explain for our audience here in Hey", start: 1275.68, end: 1287.08}
+  - {text: "that the chronicler who relayed that story about the messenger having to eat the seal was one Matthew Parris I'm not entirely sure whether it's the same Matthew Parris who presents great lives but who knows", start: 1287.08, end: 1302.60}
+  - {text: "So 1282 Hugh is obviously a very important date 1282 to 1284 because Edward I subdues the rest of Wales outside of the marches what changes", start: 1334.66, end: 1348.72}
+  - {text: "for the marcher lords once the rest of Wales is under the control of the English king I think the biggest change is that they are now faced with a much more stable situation I mean in the 12th", start: 1348.72, end: 1361.82}
+  - {text: "and 13th centuries there had been quite a lot of to -ing and fro -ing Welsh rulers had recaptured some of the areas like Canada, Dickey", start: 1361.82, end: 1369.40}
+  - {text: "and West Wales which had initially been taken by the marchers and a lot of warfare as well as into marriage and all sorts of connections but anyway it's been stabilised", start: 1369.40, end: 1379.56}
+  - {text: "and I think that's important and gives them a greater opportunity perhaps to further develop their lordships and their power in them but also an important result of the conquest is", start: 1379.92, end: 1391.84}
+  - {text: "that Edward rewards some of his friends and followers with new marcher lordships carved out of the sort of eastern part of the old principality of Gwyneth", start: 1391.84, end: 1401.14}
+  - {text: "so in north -east Wales so you have the lordship of Rithin or Dufferincloid, lordship of Denby Bromfield and Yale and so on so these are new creations", start: 1401.14, end: 1409.68}
+  - {text: "and they in turn have new settlers coming in both to the countryside and to the towns there so the marchers in fact expanded and the fragmentation of Wales is in the sense increased", start: 1409.68, end: 1423.42}
+  - {text: "but now instead of there being what was called before the conquest Pura Wallye or Welsh Wales and Marchia Wallye, the March of Wales now you have the royal principality of Wales", start: 1423.42, end: 1436.04}
+  - {text: "if you like the principality of north -west and south Wales and then the March of Wales so the configurations changed and that's the territory that is given to the Prince of Wales", start: 1436.04, end: 1445.64}
+  - {text: "as well this is when this emerges it seems slightly counter -intuitive Helen that at this point after Edward I's military victory that it becomes a sort of golden age for the marchers", start: 1445.64, end: 1462.50}
+  - {text: "and yet I'm struggling a bit with that because once the rest of Wales is conquered then the function of the marchers as a sort of you know aggressive invading", start: 1462.50, end: 1474.54}
+  - {text: "or defensive force seems to disappear so what changes would you see when you looked around after Wales becomes attached to the Crown of England?", start: 1474.54, end: 1486.30}
+  - {text: "I think after 1282 the marches become less of a frontier less of a military zone and more of a settled more urbanized zone and I suppose one of the main cultural changes was the rise of towns", start: 1486.76, end: 1501.40}
+  - {text: "because Edward I built these enormous castles around the north of Wales like Flint and Conwy and Carnarvon and of course it's ironic that the castles", start: 1501.40, end: 1511.50}
+  - {text: "that tourists want to come and see in Wales were actually built by the English to keep the Welsh firmly in their place but they've become very much associated with the Welsh landscape now", start: 1511.50, end: 1521.06}
+  - {text: "but with the castles came towns and towns further down the eastern border and around the south coast began to grow and trade and commerce grew in the 14th century", start: 1521.06, end: 1532.36}
+  - {text: "so that a lot of Welsh people were more aware of the advantages of urbanization there was still a lot of discrimination against the Welsh they weren't always allowed to trade in the towns", start: 1532.36, end: 1543.92}
+  - {text: "but they could go in to buy from the towns or they had their markets just outside the towns so there was a greater awareness of the kind of goods that could be bought in towns", start: 1543.92, end: 1554.64}
+  - {text: "there was a long period of peace as Hugh said after 1282 I think the Welsh sort of realized the game was up really now that", start: 1555.28, end: 1563.30}
+  - {text: "England managed the principality the March of Lords were managing the lordships there was very little space for the Welsh to really mount any serious rebellion though of course", start: 1563.30, end: 1574.84}
+  - {text: "when you come to 1400 that's exactly what Owen Glindore did yes and what were Welsh people doing after Edward assumes power how did they respond to this what happens to Welshness in this period", start: 1574.84, end: 1592.84}
+  - {text: "interesting you've referred to the fact that this is a period of flourishing of Welsh culture in many ways in a sense there was peace which allows some of these things to develop", start: 1593.62, end: 1605.28}
+  - {text: "and I suppose there were opportunities as well there was lots of discrimination and prejudice against the Welsh in the marches but for those of high status what we call the Helwyr,", start: 1605.28, end: 1615.56}
+  - {text: "the Squyrakin Wales the leaders of Welsh society those of them who were willing to work with the regime whether that's in the principality with the King of England but in the marches where there are March of Lords", start: 1615.76, end: 1626.74}
+  - {text: "there were positions that they could have to serve their March of Lords and I suppose they were necessary for the March of Lords there was", start: 1627.28, end: 1634.96}
+  - {text: "necessary for March of Lords to have these people to connect the Lords to the communities of which they had rule people who could move smoothly from Welsh society to English society", start: 1634.96, end: 1647.34}
+  - {text: "and could flourish and have opportunities from that recently I've looked at a family called the Cuffin family in the Lordship of Chirk in Oswistry in", start: 1647.34, end: 1656.40}
+  - {text: "that area and they managed to successfully have power underneath the rule of the Fitalon Lords one interesting example, a man called Hoel Cuffin who was a cleric who had the patronage of his March of Lords to maintain,", start: 1656.40, end: 1670.54}
+  - {text: "to have power in the church to have these positions in the church and to become a wealthy landowner as well another family closer to this", start: 1670.70, end: 1679.02}
+  - {text: "area is the dynasty of the descendants of a man called Hoel Apmyryg David Stevenson has written a book on this recently tracking the history of", start: 1679.02, end: 1688.02}
+  - {text: "the family from an obscure minor Ichelwer serving the Mortimer dynasty the Boen dynasty of March of Lords serving the Crown and ultimately some of them becoming minor March of Lords themselves", start: 1688.02, end: 1701.80}
+  - {text: "or joining the Hereford Jadgentry so the clanvo family of Herguscote near Kington is one of these families so there were opportunities for those who were willing to grasp the opportunity and those who had a bit of luck as well Helen, you wanted to come in there?", start: 1701.80, end: 1718.02}
+  - {text: "Yes, I wanted to pick up Rhine's point about opportunities for cultural expression as well and the 14th century was really the time of the great", start: 1718.38, end: 1726.88}
+  - {text: "manuscript anthologies written in Welsh but also in other languages as well very characteristic of the March were these multilingual manuscript anthologies the most famous of them is probably the red book of Herguscote", start: 1727.52, end: 1740.26}
+  - {text: "which some of the audience might have heard of and it's really an anthology of pretty much most of the canonical medieval Welsh literature that we still have surviving poetry,", start: 1740.26, end: 1751.62}
+  - {text: "prose, law, chronicles little bits of Latin in there as well but basically a Welsh manuscript written in Glamorgan under the patronage of a Welsh gentry person Hopkins App Thomas so other manuscript anthologies like Penearth 50 were written in Latin,", start: 1752.10, end: 1771.38}
+  - {text: "English and Welsh so all these languages in one manuscript including a lot of prophecy which was clearly a very popular marcher genre because it's found in many marcher manuscripts", start: 1772.06, end: 1783.56}
+  - {text: "and many of the manuscripts that we think of as belonging to England especially those written in the West Midlands actually belong to the march because", start: 1783.56, end: 1791.54}
+  - {text: "the march spilled over what is now the modern border the modern border wasn't there and so the marcher lordship spilled over what we think of", start: 1791.54, end: 1800.04}
+  - {text: "as the border between Wales and England so many of the English manuscripts from the West Midlands actually arose out of and were directed to a marcher audience", start: 1800.04, end: 1811.00}
+  - {text: "Hugh, in fact all of you have mentioned the castles but Hugh can you tell me roughly how many castles there were any of you I don't know,", start: 1812.14, end: 1822.60}
+  - {text: "there were hundreds I mean it's thought to be one of the most densely sort of castellated areas of I think Europe really and certainly in Britain because of the history of conquest and doing and throwing so yeah I wouldn't put a number on it", start: 1822.60, end: 1836.38}
+  - {text: "hundreds and hundreds there's someone who's almost a distillation of the cultures in the marchers and that's Gerald of Wales what does he tell us Hugh well I think Gerald is really interesting he's of sort of mixed parentage", start: 1837.02, end: 1852.00}
+  - {text: "so his grandmother was nest a daughter of this King Crease I mentioned a bit earlier who was killed in 1093 on his mother's side so he's partly Welsh,", start: 1852.00, end: 1862.30}
+  - {text: "he's related to the Welsh Prince of South West Wales but his father is Lord of Manabir in Southern Pembrokeshire quite a small marcher lordship but his relatives", start: 1862.40, end: 1872.26}
+  - {text: "and him have a lot of connections with the Welsh still and Gerald clearly thought that their sort of hybrid their mixed ancestry was a great plus you know they celebrated the Welsh side of it one of his uncles Robert Fitz Steven", start: 1872.26, end: 1887.34}
+  - {text: "according to Gerald he writes a book about the conquest of Ireland in which his relatives have the starring sort of role but he has Robert give a speech", start: 1887.98, end: 1898.18}
+  - {text: "or he puts a speech in his mouth before a battle in Ireland and he addresses his followers and he says well we get our courage from the Trojans", start: 1898.18, end: 1906.88}
+  - {text: "who are believed to be the ancestors of the Britons and thus the Welsh and our skill in arms from the Gauls the French so we've got this ideal combination and he's sort of celebrating that", start: 1906.88, end: 1917.30}
+  - {text: "and another source for that the conquest of Ireland, a French poem says how the marchers in Ireland would invoke St David in battle you know", start: 1917.76, end: 1928.30}
+  - {text: "and indeed Gerald had an uncle who was Bishop of St David's and he himself famously hoped to become Bishop and indeed Archbishop of St David's", start: 1928.30, end: 1936.78}
+  - {text: "but that's another story but I think as a voice for the sort of the hybridisation of the march he's really significant Ryn we've already heard from Helen a mention of Owen Glendore", start: 1936.78, end: 1949.30}
+  - {text: "and for those of you who would like to find out more about him there's an entire programme in our time devoted to Glendore but Ryn can you tell us about the general causes of tension", start: 1949.30, end: 1963.42}
+  - {text: "because this is quite late on in the period we're discussing isn't it what causes the rebellion and what happens to it?", start: 1963.42, end: 1971.34}
+  - {text: "Yeah so the rebellion begins in 1400 in the northeast of Wales and I suppose I've already mentioned some of the opportunities but clearly there were tensions under the surface", start: 1971.82, end: 1982.48}
+  - {text: "as well and many of them could be felt across the marchers so clearly this discrimination against the Welsh was an important matter being Welsh at the time was anyway an ethnic legal status not just an identity", start: 1982.48, end: 1996.86}
+  - {text: "as we might think of it so there were various restrictions legal restrictions officially at least they weren't supposed to hold high office if you were Welsh", start: 1996.86, end: 2005.64}
+  - {text: "and also economic restrictions so in many places the Welsh were not supposed to be burgesses have this economic status in the towns so for example in Brecon", start: 2006.15, end: 2015.82}
+  - {text: "officially you had to be a whole Englishman to be a burgess you had to have an English mother and an English father if you had a Welsh parent at all", start: 2016.25, end: 2026.36}
+  - {text: "and a burgess gave you what sort of rights?", start: 2026.36, end: 2028.70}
+  - {text: "So that gave you economic right to within the town to have the status in the town to have the benefit of the trading in the town of the tolls in the town", start: 2029.46, end: 2038.58}
+  - {text: "and basically the burgesses had an economic monopoly over the surrounding area and the Welsh were excluded from that?", start: 2038.58, end: 2045.14}
+  - {text: "Well it depended from town to town so some places they were allowed other places officially like Brecon they weren't although we know of one or two Welshmen", start: 2045.36, end: 2053.28}
+  - {text: "who sneaked in and so it wasn't completely enforced all the time so this discrimination was a real source of tension you also had the fact that the Welsh also were in a way exploited economically the Marchel lords were", start: 2053.28, end: 2070.24}
+  - {text: "exploiting their lordships using them to fill farms farming the land around also a series of arbitrary taxation the lords could come into their lordships and demand", start: 2070.90, end: 2083.06}
+  - {text: "various payments so we know for example three years before the rebellion in 1397 Henry Bolingbroke had become lord of Brecon and Hay and he became the fourth in two years", start: 2083.89, end: 2097.38}
+  - {text: "and as he came into his lordship for the first time he demanded a payment a gift from the people of Brecon and Hay and they had to pay 2 ,000 marks for the privilege of having him", start: 2097.99, end: 2109.58}
+  - {text: "as their lord so you could imagine some tensions that could arise from that so all of this caused tensions and I suppose people across Europe were exploited by the lords at the time,", start: 2109.58, end: 2122.76}
+  - {text: "Wales was no different to elsewhere but I suppose in Wales you had that ethnic dimension as well they were living in the shadow of conquest", start: 2122.88, end: 2131.50}
+  - {text: "in a way the Welsh had someone to blame for how they were treated and the martial lords were those often who were blamed and Helen has also mentioned prophecy", start: 2131.50, end: 2141.08}
+  - {text: "and prophecy was very important as well talking about a brighter future that the Welsh could have if they followed a man who would appear and lead them to victory the son of prophecy", start: 2141.62, end: 2152.02}
+  - {text: "and how Englindur seemed to be that man but eventually of course he was defeated and that was the last great rebellion of the of the Welsh", start: 2152.02, end: 2163.76}
+  - {text: "Hugh, over this period of 400 years from the 11th century second half of the 11th century to the first half of the 15th century how profound were the changes", start: 2164.52, end: 2176.60}
+  - {text: "which the March area experienced they were very profound I think the historian Gwyneth Williams once wrote that the Normans made the Welsh a European people now I think that's exaggerated", start: 2176.60, end: 2189.58}
+  - {text: "but it does point to something important that they certainly accelerate the introduction of things like towns for the first time since the Romans reformed monasticism obviously knights", start: 2189.58, end: 2205.02}
+  - {text: "castles very influential the round keeps of Pembroke it's sort of imitated both by the Marchers and the Welsh so the topography, the landscape of Wales is transformed in many ways,", start: 2205.60, end: 2218.04}
+  - {text: "not just in towns but in the countryside and then there are the cultural developments which we've heard about already but they are there for 200 years before the Edwardian conquest and there's this sort of legacy of a gradual piecemeal", start: 2218.10, end: 2235.54}
+  - {text: "conquest which is bound to have had a big impact on Wales in the Middle Ages Helen, we've heard about the emergence of the martial lords and the March lands what about the end of the March lands what happens in the Tudor period the", start: 2236.44, end: 2255.30}
+  - {text: "martial lordship sort of officially ended with the Acts of Union that were passed by Henry VIII one in 1536 and one in 1542 and the Acts of Union were designed really by Thomas Cromwell he was the one", start: 2255.78, end: 2272.16}
+  - {text: "who wanted to try and regularise relations between England and Wales we've already spoken about how some of the martial lordships were actually owned by the king quite often they devolved to the king", start: 2272.16, end: 2283.90}
+  - {text: "if a family died out or the king wasn't happy with someone he would take their lands away so a lot of the martial lordships went in", start: 2283.90, end: 2291.34}
+  - {text: "and out of royal possession and by the Tudor period many of the old martial lordships were in the hands of the king already so Henry VIII found himself in a slightly ambiguous position", start: 2291.34, end: 2302.58}
+  - {text: "that he was the monarch of the principality but he was also a martial lord exercising lordship rights over some of the quite a lot of the martial lordships so there were regularities there and of course the", start: 2302.58, end: 2316.98}
+  - {text: "reformation happened at the same time the monasteries were dissolved between 1536 and 1538 all the monasteries were shut down and the contents apprehended by the king and his officers so there were concerns about", start: 2317.88, end: 2333.24}
+  - {text: "religious reform how could this be implemented in Wales if Wales was still kind of partly governed by all these different people and still very fragmented", start: 2333.72, end: 2342.72}
+  - {text: "so the desire was to unify Wales once and for all earlier historians have referred to Wales and the March as if they were two separate places", start: 2342.72, end: 2352.50}
+  - {text: "which in jurisdictional terms they were so Cromwell and Henry VIII wanted to unite the principality and the March of Lordships to become a single unit of Wales governed entirely by England without all these fragmentary lordships kind of clogging up the works", start: 2352.50, end: 2371.86}
+  - {text: "so that was how they went about it through the Acts of Union it was sort of gradually and then suddenly the Acts of Union were implemented", start: 2372.42, end: 2379.66}
+  - {text: "and the March of Lordships were turned into the new counties the modern counties that ran down the eastern border so Denby, Montgomery, Radner Brecon, Monmouthshire they were the new counties", start: 2379.66, end: 2393.28}
+  - {text: "that were established under the Acts of Union and presumably this was all part of Henry VIII and Thomas Cromwell's centralization splurge that was going on in the 1530s", start: 2393.28, end: 2406.88}
+  - {text: "because it's not just Wales it's also the north of England as well at this time absolutely yes they were determined to make Britain into a single nation Wales", start: 2406.88, end: 2416.64}
+  - {text: "and England into a single nation and that was how they went about it through legislation as a last question where did this all leave the people of Wales", start: 2416.64, end: 2425.90}
+  - {text: "as we know Welsh nationalism both cultural and political is sustained to this day but it seems to me that with the March of Lords there", start: 2425.90, end: 2436.98}
+  - {text: "was quite a lot of acceptance amongst the Welsh for the reality on the ground as it were from the 11th century onwards do you think that they found ways of accommodating these structures", start: 2436.98, end: 2450.50}
+  - {text: "yes I suppose they had no chance to do anything but to accept the situation the 11th and 12th century I suppose by the 15th century they accepted this was the situation they found themselves in", start: 2451.61, end: 2462.53}
+  - {text: "and really when we see then the end of the marches in the 16th century the people who had been in the shadows really ruling the", start: 2462.53, end: 2470.29}
+  - {text: "roost under the March of Lords now are the opportunity to openly to govern their areas to become MPs to become sheriffs to become justices of the peace to build large estates with the lands that now became available", start: 2470.29, end: 2483.25}
+  - {text: "following the closure of the monasteries that Helen has mentioned so over the whole period really people found a way to accommodate, found a way to work within this system and to make it work for them and would you say that there are still", start: 2484.31, end: 2499.35}
+  - {text: "traces today of that marcher culture would that be going too far or do you move from this part of the world for example deeper into Wales in say Caradigian or somewhere like that and suddenly realise you're in a somewhat different place any of you", start: 2499.85, end: 2517.47}
+  - {text: "well political scientists have come up with various models of three Wales models and so on I mean how sort of British Wales and Welsh Wales", start: 2519.10, end: 2527.98}
+  - {text: "and a sort of Frog and Rhaig or Welsh Speaking Wales that was one which is quite dated now but how far they're connected to the medieval history is another question and this pattern is continuing to change so you know I think the main", start: 2527.98, end: 2541.68}
+  - {text: "legacy is really as I was saying earlier in the sort of physical landscape and you know the urbanisation of Wales being the perhaps the most marked effect of the marchers You mentioned Caradigian", start: 2542.40, end: 2555.86}
+  - {text: "and we can forget really that actually Caradigian was in the first areas to be conquered and the original Norman lords there had their stated aim of turning Caradigian", start: 2555.86, end: 2565.30}
+  - {text: "and I quote into a second England which they failed miserably in doing so so they sometimes you know the land was taken back by Welsh kings quite quickly", start: 2565.30, end: 2575.18}
+  - {text: "so in some places we don't see much of a trace but you know if you turn to places like the south of Pembrokeshire today the part that was more heavily colonised by Flemish settlers", start: 2575.18, end: 2584.70}
+  - {text: "in that context people from Flanders in the north of modern -day Belgium then you can see in terms of field patterns and police names and culture", start: 2585.30, end: 2594.92}
+  - {text: "that there are remains really of that marcher pattern My thanks to Helen Fulton Hugh Price and Hrin Emlyn and to our audience here at the Hay Festival who are about to give my guests another rousing round of applause", start: 2595.54, end: 2610.05}
+  - {text: "Next week we're going back hundreds of millions of years to learn about the evolution of trees Thank you for listening And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests", start: 2624.43, end: 2640.98}
+  - {text: "Thank you all very much And now we can go on to the podcast bit which when we're in the studio doing this bit everyone for reasons which are beyond me tend to relax and start talking much more freely and indiscreetly", start: 2642.43, end: 2656.10}
+  - {text: "So before I ask you what you think that we missed out on this Hrin what you mentioned at the end about the Flemish migration into Wales", start: 2657.11, end: 2671.41}
+  - {text: "What was all that about and when was that happening So that happened in the beginning of the 12th century Henry the First King of England he'd taken personal possession of", start: 2672.09, end: 2682.85}
+  - {text: "that part of South Pembrokeshire and I suppose he decided he needed a loyal population that relied upon him in that area So he introduced the Flemish people there", start: 2682.85, end: 2693.21}
+  - {text: "Where were those Flemish people living at the time Well they'd moved So I suppose we think of Normans as being a homogenous group but with the Normans multiple other people came riding in England as well you had Normans,", start: 2693.89, end: 2708.75}
+  - {text: "you had Bretons and you had Flemish as well some of them were taken part of England first and then removed to that part of South Pembrokeshire It's", start: 2708.85, end: 2718.13}
+  - {text: "that part where we have the clearest evidence of wholesale change of population where the native population are moved specifically and a new population approached in Yes I believe there's a sort of demarcation line", start: 2718.13, end: 2729.99}
+  - {text: "that's almost recognisable to this day Anyone else want to comment on what that is the Lansker I believe it's called Yes and Southern Pembrokeshire is known", start: 2730.63, end: 2741.86}
+  - {text: "as Little England Beyond Wales and it's been for a long time So yeah there's this sort of long deeply seated English linguistic presence and the place themes", start: 2741.86, end: 2751.88}
+  - {text: "and in the Gal Peninsula again there was an English county not an English here in Welsh but an English and a Welsh county and you then got the place names", start: 2751.88, end: 2761.50}
+  - {text: "and so on but Pembrokeshire is particularly interesting and coming back to Gerald of Wales he talks about I think one of his relatives anyway who were still speaking Flemish in the early 13th century so almost a hundred years after the Flemings arrived though Flemish did", start: 2761.50, end: 2775.36}
+  - {text: "have to give way to English there over time Okay what are some things that we missed out that you'd like to talk about I don't think I did enough justice to the richness of culture which really was incredibly diverse partly because of the multilingualism there", start: 2776.26, end: 2797.22}
+  - {text: "English, French, Welsh were all spoken and used in writing as well quite commonly and so it was a very extraordinary kind of culture much more", start: 2797.82, end: 2808.58}
+  - {text: "so than the rest of Wales which was more firmly Welsh speaking with English well Latin and then English and some Anglo -Norman used for legal and purposes of record keeping", start: 2808.58, end: 2821.34}
+  - {text: "but in the March of Wales we get this tremendous industry in manuscripts and in translation there was clearly an interest in French text for example French romances were translated", start: 2821.72, end: 2833.14}
+  - {text: "into Welsh so we have Welsh translations of the Grail legends the Charlemagne legends the Troy story these were clearly of interest to Marcha audiences especially Welsh speaking,", start: 2833.68, end: 2846.36}
+  - {text: "Welsh reading Marcha audiences who commissioned these translations of well known French texts into Welsh so it was clearly a very multilingual diverse kind of culture", start: 2846.48, end: 2858.62}
+  - {text: "and did you get any disputes between the Marcha lords you know jurisdiction, borders and so on and so forth there was a famous dispute after the Edwardian conquest", start: 2859.31, end: 2871.92}
+  - {text: "between the lords of Glamorgan and Brecon and sort of raiding each other and saying they had the right to do this within their Marcha Liberties", start: 2872.56, end: 2881.80}
+  - {text: "but sort of entered the first steps in and they have to go before the royal court to sort this out so that was certainly a", start: 2881.80, end: 2890.20}
+  - {text: "good example of them fighting each other I mean there could be conflicts within lordships as well but in this case I think there was two very powerful the Boon Lords of Brecon and", start: 2890.20, end: 2903.12}
+  - {text: "Gilbert De Clare in Glamorgan are big figures and they certainly attacking each other It's not just the Marcha lords as well it's the communities of the different lordships and in a sense you have a lot of these conflicts,", start: 2905.70, end: 2919.80}
+  - {text: "these fields between the different Marcha lordships and one of the things as we haven't really reflected as much on is the lawless nature or at least the lawless characterization", start: 2919.98, end: 2929.16}
+  - {text: "of the Marcha lordships one of the reasons why they were ended in the end is because you could flee justice by just going over the border into the next lordship and considering somewhere like", start: 2929.90, end: 2939.46}
+  - {text: "Gleesbury was another lordship Clifford the other side of the modern English borders was another lordship again so quite easy to escape justice and there's an", start: 2940.04, end: 2949.54}
+  - {text: "example in the 14th century of whole communities attacking the neighbouring lordship I kind of remember the exact date in the 14th century where the lordship of Hay decided to go on march", start: 2949.54, end: 2960.20}
+  - {text: "and attack the lordship of Clifford which is just over the modern Wales English border they burned 200 houses I don't know what the people of Clifford had done to the people of Hay", start: 2960.20, end: 2969.60}
+  - {text: "but obviously something had happened and they decided to exact the revenge on the people of Clifford and presumably the demarcation the border lines were not always very distinct what", start: 2970.54, end: 2982.92}
+  - {text: "if you were a peasant wandering around on the edge of one lordship to another that was a dangerous police to live I think but they did have sort of days of the march I think", start: 2982.92, end: 2994.94}
+  - {text: "where they would meet at particular places to try and sort out and make peace so there were mechanisms and I suspect boundaries were known but of course they weren't always respected Was there ever any sense", start: 2994.94, end: 3008.86}
+  - {text: "that this might emerge as a sort of proto -state formation?", start: 3008.86, end: 3013.36}
+  - {text: "I don't think so the one thing I would have added just as a more sort of observation a comparison is with Scotland there the kings of Scotland of course settled Norman knights", start: 3015.82, end: 3026.20}
+  - {text: "and so on they give them large tracts of land in return for military service and of course they're absorbed into the kingdom of Scotland but the march of Wales is interesting", start: 3026.20, end: 3035.88}
+  - {text: "because it's neither absorbed into the kingdom of England until the acts of union and instead it's tried but the lords are trying to sort of escape the jurisdiction of the counties along the borders with England but nor do the Welsh princes recruit", start: 3035.88, end: 3048.98}
+  - {text: "Normans I mean they ally with them sometimes you know but there's a great difference and Gerald Wales to come back to him says of his uncle Robert Fitz Stephen that he was offered his freedom after being captured by the Lord Rhys in the 1160s", start: 3049.66, end: 3064.34}
+  - {text: "if he went to fight against the King of England on Rhys' side and according to Gerald Robert refused because that would bring disgrace upon him", start: 3064.92, end: 3073.36}
+  - {text: "because he was you know committing treason against his Lord and that's how I went off to Ireland according to Gerald And Trin you mentioned at the beginning which interested me the sort of relative chaos within", start: 3073.36, end: 3085.50}
+  - {text: "Wales was that I mean in a sense although Scotland had its own divisions and its own problems it had a sort of clear a sense of itself I might argue", start: 3086.60, end: 3099.90}
+  - {text: "is that why why is there those divisions in Wales that seem to be so persistent in the lead up to the March of Lords period I mean there was a clear sense of Welshness it's not", start: 3100.62, end: 3112.36}
+  - {text: "that the Welsh thought they were although they had they often fought against one another as well I mean there was a practice of unity as well", start: 3112.36, end: 3122.54}
+  - {text: "so at a certain point Welsh kings did manage to unite most of Wales under them mentioned Gryffydd ap Llywelyn there were others before then as well", start: 3122.54, end: 3130.36}
+  - {text: "and I suppose if you go to the 12th century 13th century there was an emerging sense of Welsh political unity but it was catch up by Edward I", start: 3130.36, end: 3138.74}
+  - {text: "and so Wales was following in some ways in parallel with Scotland at a later date but too late to face Edward I well thank you all very much and I think that's the end of the podcast no tea from Simon this week unfortunately", start: 3138.74, end: 3154.92}
+  - {text: "because we're in A very sadly but thank you all for your contributions in our time with Misha Glenny is produced by Simon Tillitson and it's a BBC Studios production", start: 3155.40, end: 3167.51}
+  - {text: "political language can seem archaic it's like the light from one of those stars that actually died sometimes bamboozling it's a theme park with a 5 foot log flume from one thought to another", start: 3168.12, end: 3179.42}
+  - {text: "and very often beyond words I don't know how to describe the language I use I'm a man of unity I'm all reset and turbocharged to stress tested destruction used", start: 3179.42, end: 3189.44}
+  - {text: "and abused buzzwords and phrases from the world of politics I come with a dazzling array of guest presenters and I'll be exploring the verbal tricks of the political trade the intentions behind them", start: 3189.44, end: 3199.64}
+  - {text: "and the effect they have on all of us the new series of strong message here with me I'm Andy Nutschi from BBC Radio 4 listen now on BBC Science", start: 3199.64, end: 3207.98}
+---

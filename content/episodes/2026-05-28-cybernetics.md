@@ -1,0 +1,459 @@
+---
+layout: single
+title: "Cybernetics"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-05-28T00:00:00Z
+slug: "2026-05-28-cybernetics"
+audioDir: "2026-05-28-cybernetics"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-05-28-cybernetics/episode.mp3"
+totalDuration: 3193.0
+sentences:
+  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.20, end: 14.24}
+  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08}
+  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different.", start: 21.26, end: 26.58}
+  - {text: "I think I have one of the best jobs in broadcasting.", start: 27.06, end: 29.56}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.34, end: 32.92}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 34.74, end: 43.56}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 44.40, end: 49.28}
+  - {text: "I hope you enjoy the program.", start: 49.84, end: 51.20}
+  - {text: "Hello. Before cybercrime, cyber security and cyberpunk there was cybernetics.", start: 51.92, end: 58.16}
+  - {text: "The writer William Gibson first used the term cyberspace in the 1980s and the prefix cyber has become a way to denote anything which relates to digital technology and the internet.", start: 58.66, end: 69.74}
+  - {text: "But cyber originated even earlier in the 1940s with cybernetics, the study of communication and control in animals and machines.", start: 70.46, end: 80.14}
+  - {text: "Cybernetics had taken its name from the ancient Greek word for steersman, the person who stands at the helm of a ship to steer or govern its course.", start: 81.24, end: 89.38}
+  - {text: "In cybernetics, everything could be seen as a system which used so -called feedback loops to adjust its own course of action, from thermostats to the human brain.", start: 90.14, end: 100.26}
+  - {text: "Well, with me to discuss cybernetics are Jacob Ward, historian of science and technology at Maastricht University, John Agar, professor of science and technology studies at University College London,", start: 100.96, end: 113.00}
+  - {text: "and Arete Halpin, lighthouse professor and chair of digital cultures at the Technische Universität in Dresden.", start: 113.70, end: 120.88}
+  - {text: "Arete, I'd like to come to you first.", start: 121.76, end: 124.36}
+  - {text: "Cybernetics emerges after the Second World War.", start: 125.48, end: 128.92}
+  - {text: "So can you tell us what it was about that conflict in particular that was such a challenge both for the military and for scientists?", start: 129.26, end: 137.14}
+  - {text: "Well, Blitzkrieg, Total War, when we think of World War II, it comes under these very totalizing terms that imply the fact that there were entirely new kind of groupings of technology", start: 137.82, end: 151.44}
+  - {text: "and media coming together to battle this war.", start: 151.44, end: 154.28}
+  - {text: "And we had indeed a new scale and speed of warfare, Blitzkrieg, aerial warfare, but also a new media, radio, for example, had put Hitler on power, cinema, propaganda.", start: 155.26, end: 169.58}
+  - {text: "So you have an entirely new combination of things that people had to deal with and contend with and scientists and engineers had to.", start: 170.64, end: 177.56}
+  - {text: "And in the face of the kind of speed of battle in the Blitzkrieg, a new level and size of scientific endeavor emerged as the United States and Great Britain mobilized.", start: 177.78, end: 190.54}
+  - {text: "They recruited scientists, engineers, but not just scientists and engineers, also psychologists, anthropologists, sociologists.", start: 190.88, end: 197.54}
+  - {text: "This was Total War.", start: 197.72, end: 198.56}
+  - {text: "And like I said, it mattered as much how we influenced people's brains and minds and propaganda as the actual technologies and kind of material structures of the war.", start: 198.88, end: 209.40}
+  - {text: "And so under this condition, particularly during the Battle of Britain, at MIT, people started being concerned about war happening at speeds beyond the ability of human beings to process.", start: 210.06, end: 221.90}
+  - {text: "MIT being the Massachusetts Institute of Technology.", start: 222.34, end: 226.04}
+  - {text: "And at MIT, they were working on a particular issue that really kind of, I think, identified this war, which was a new idea that information and communication,", start: 226.84, end: 236.88}
+  - {text: "in some sense, is power and that you have to manage and control them to win the battle.", start: 237.30, end: 241.96}
+  - {text: "And at MIT, they were working on radar, which is basically how do you see the enemy before they see you, right?", start: 242.60, end: 248.88}
+  - {text: "And along with the radar, they were also working on a certain question of basically how do you shoot a plane down, which isn't that easy because it's moving pretty fast,", start: 249.46, end: 257.98}
+  - {text: "and how do you process signals, which it sounds pretty simple to see a plane, but really telling a plane from a flock of birds is not", start: 258.24, end: 265.18}
+  - {text: "that easy when you're trying to figure out how radio waves are changing.", start: 265.18, end: 268.02}
+  - {text: "And basically, you need to predict where the machine will be.", start: 268.50, end: 271.60}
+  - {text: "So people were preoccupied with signal processing, but they're also preoccupying with where the plane will be.", start: 272.06, end: 276.98}
+  - {text: "And under these conditions, bringing together mathematicians and engineers together, certain people, Norbert Wiener, a mathematician at MIT, being one of them, started thinking that maybe people act repeatedly, repetitively or mathematically or algorithmically under stress.", start: 277.14, end: 294.62}
+  - {text: "That is to say that pilots, for example, might veer left or right at systematic and regular basis.", start: 294.82, end: 300.94}
+  - {text: "So the fundamental innovation here was to, A, try to mathematically calculate human behavior and to make it seem mechanical, basically, so making machines and humans equivalent.", start: 301.71, end: 312.78}
+  - {text: "And secondly, to basically attempt to understand the whole world in terms of information or communication.", start: 313.30, end: 319.58}
+  - {text: "Let me just drill down a little bit on that issue of humans and machines that you raise.", start: 320.04, end: 327.06}
+  - {text: "So researchers are trying to create models around the world to tackle this issue of total war.", start: 327.06, end: 334.72}
+  - {text: "But what was new about the models in terms of that relationship between humans and machines?", start: 335.16, end: 340.96}
+  - {text: "One of the key features, especially in cybernetics, was the idea of feedback.", start: 341.70, end: 346.16}
+  - {text: "There's a relationship going on, in this case, between the gun and the plane, not a very friendly one, but nonetheless, a relationship.", start: 347.14, end: 355.18}
+  - {text: "They're in some sense talking to each other in the mathematical modes of communication that what the plane does gets the gun to change its behavior", start: 357.06, end: 367.98}
+  - {text: "and what the gun does impacts what the plane is doing.", start: 367.98, end: 371.70}
+  - {text: "And so people started to think about things not as separate objects, but as always relational or communicating objects and trying to turn that communication into something they could mathematically represent or compute.", start: 372.28, end: 388.08}
+  - {text: "Okay, so in 1948, three years after the end of the war, Norbert Wiener, who you just mentioned, Erite, publishes a book called Cybernetics.", start: 389.00, end: 401.08}
+  - {text: "John Agar, can you tell us about that book and something about Norbert Wiener as well?", start: 401.88, end: 408.08}
+  - {text: "Yeah, because as I've always just been saying, Cybernetics is born from this very specific moment of warfare, of an anti -aircraft gun trying to track an oncoming aircraft or bomber.", start: 408.66, end: 424.30}
+  - {text: "Very, very specific, also very, very secret.", start: 425.00, end: 427.44}
+  - {text: "But within a few years, it's going to be a science that is known to tens of thousands of people.", start: 428.08, end: 435.74}
+  - {text: "And it's also given a name, which is Cybernetics.", start: 436.76, end: 438.78}
+  - {text: "Now, why that happens is because of one of the mathematicians that was at the heart of the work being done on anti -aircraft prediction at Massachusetts Institute of Technology.", start: 439.70, end: 451.72}
+  - {text: "That mathematician was Norbert Wiener.", start: 452.28, end: 454.44}
+  - {text: "Now Norbert Wiener is a really interesting figure.", start: 455.28, end: 458.02}
+  - {text: "He was a child prodigy.", start: 458.70, end: 460.94}
+  - {text: "He was born at the end of the 19th century.", start: 461.26, end: 463.80}
+  - {text: "He, the child prodigy in a sense that he was reading at the age of four.", start: 464.72, end: 469.18}
+  - {text: "He did his undergraduate degree in his teens.", start: 469.62, end: 471.94}
+  - {text: "He had his PhD done by the age of 18.", start: 472.24, end: 474.82}
+  - {text: "He was homeschooled, fearsomely homeschooled by his father, Leo Wiener, who had his own ideas about education.", start: 475.78, end: 484.38}
+  - {text: "So he went through this very unusual upbringing and became in some sense known as a prodigy, as this young, incredibly bright person who for a", start: 485.14, end: 497.02}
+  - {text: "while was trying to find out what he was good at.", start: 497.02, end: 498.82}
+  - {text: "But it turns out he was extremely good at mathematics.", start: 499.26, end: 501.40}
+  - {text: "And the war work he was doing there was turning that mathematics onto understanding aircraft predictors.", start: 502.12, end: 508.94}
+  - {text: "And as he was doing that he was talking to people who understand the mind and brain and talking to engineers.", start: 509.54, end: 515.54}
+  - {text: "And from that is born this idea that there could be a whole new science, a whole new way of understanding almost everything from machines to the mind to society to language.", start: 516.36, end: 528.76}
+  - {text: "So out of that is born this incredibly ambitious scientific program.", start: 529.28, end: 532.58}
+  - {text: "Now he wants to tell the world about that.", start: 533.14, end: 535.00}
+  - {text: "And it appears in a book called Cybernetics.", start: 535.68, end: 539.40}
+  - {text: "And it's given that term by Norbert Wiener.", start: 540.16, end: 543.52}
+  - {text: "He wanted the term that captures something about self -regulation and how things change and adapt through feedback.", start: 544.28, end: 551.20}
+  - {text: "And he remembered this Greek word kybonites, which means steersman of a ship in Greek.", start: 551.76, end: 558.14}
+  - {text: "It's also got overtones of being a governor of a state.", start: 558.88, end: 562.94}
+  - {text: "So it has a sort of ambitious character as well.", start: 563.22, end: 566.76}
+  - {text: "And he writes this up in a book.", start: 567.50, end: 568.66}
+  - {text: "It appears in 1948.", start: 569.56, end: 570.82}
+  - {text: "It's a very odd book.", start: 571.18, end: 572.46}
+  - {text: "It's full of mathematical equations.", start: 573.18, end: 575.02}
+  - {text: "It starts with a essay on the nature of time.", start: 575.86, end: 579.10}
+  - {text: "It ends with a reflection on how do you get machines to learn how to play chess and covers an awful lot in between.", start: 579.40, end: 586.66}
+  - {text: "And I have to say I attempted to read Cybernetics and I fell very early on at one of the first hurdles.", start: 587.56, end: 596.14}
+  - {text: "But he does point out that he wrote another book called The Human Use of Human Beings, which I've got a copy here, which he sort of describes in the introduction as as Cybernetics for dummies.", start: 596.30, end: 608.44}
+  - {text: "So can you define in as pithier way as possible what Cybernetics is?", start: 609.12, end: 616.52}
+  - {text: "So the subtitle of Cybernetics the book is Control and Communication in Animal and Machine.", start: 617.10, end: 621.90}
+  - {text: "So it's this science which claims it can through understanding feedback processes, which is about communication and therefore about information, about the movement of information in and out of a system.", start: 622.88, end: 637.74}
+  - {text: "Through that, you have this way of understanding how machines can produce purposeful behavior, how minds might work, perhaps how societies change.", start: 638.40, end: 648.98}
+  - {text: "So it's a science of feedback and communication and information.", start: 649.62, end: 653.88}
+  - {text: "Thank you very much.", start: 654.76, end: 656.28}
+  - {text: "Jacob Ward, can you give us a better idea of these feedback loops, which seem to be so central to Cybernetics and also the idea of circular causality?", start: 656.44, end: 668.48}
+  - {text: "Yeah, so I'll start with the example that I introduced of the anti -aircraft gun trying to shoot down the enemy plane.", start: 669.34, end: 675.86}
+  - {text: "And the Norbert Wiener and his team at MIT were working on a device called a predictor that you would attach to the anti -aircraft gun", start: 676.82, end: 682.54}
+  - {text: "that would predict where the plane was going to be.", start: 682.54, end: 685.24}
+  - {text: "It would use statistics to figure out the general predictable directions that the plane would take, use radar to detect where the plane had been, and move the anti -aircraft gun", start: 685.38, end: 694.40}
+  - {text: "so the gun could try and shoot down the plane.", start: 694.40, end: 697.26}
+  - {text: "And crucially, as part of this kind of model of feedback and of Cybernetics, is that the predictor using radar could then detect whether or not it had shot down the plane.", start: 698.06, end: 706.92}
+  - {text: "And if it had missed the plane, had moved the gun too far in one direction, for example, it could recalculate and move the gun again,", start: 707.28, end: 714.04}
+  - {text: "kind of taking into account what it had just calculated.", start: 714.34, end: 716.60}
+  - {text: "So the kind of key idea there is that this isn't a linear form of causality, it's not just the predictor moves the gun, the gun shoots down the plane, it's not x causes y,", start: 717.14, end: 727.94}
+  - {text: "but it's that the predictor moves the gun, the gun shoots down the plane, or not, and then recalculates.", start: 728.08, end: 734.10}
+  - {text: "So it's x causes y, y feeds back into x, and you just rinse and repeat until, hopefully, from the point of the anti -aircraft gun, you shoot down the plane.", start: 734.20, end: 743.18}
+  - {text: "So this is this idea that in these systems, causality is not linear, but circular.", start: 743.76, end: 748.24}
+  - {text: "It has a goal, right?", start: 748.96, end: 750.04}
+  - {text: "This is not just a circular system that exists with no purpose, it has a goal.", start: 750.12, end: 754.22}
+  - {text: "So these are circular systems that are goal seeking.", start: 754.60, end: 758.10}
+  - {text: "And they're always going through these circular causal loops of feedback in order to achieve their goal, whether or not that's shooting down a plane, or", start: 758.44, end: 766.24}
+  - {text: "whatever an animal does to survive in its environment.", start: 766.24, end: 768.20}
+  - {text: "So there's a purpose to cybernetics?", start: 768.20, end: 770.42}
+  - {text: "Absolutely. Norbert Wiener isn't, of course, the only figure in the story of cybernetics.", start: 770.52, end: 776.70}
+  - {text: "Can you tell us a bit about Claude Shannon and how he comes into all of this?", start: 777.21, end: 781.13}
+  - {text: "So Claude Shannon, like Wiener, is another fascinating individual, anthropics AI model Claude, is actually named after Claude Shannon.", start: 781.99, end: 789.09}
+  - {text: "And he is, he's a mathematician and electrical engineer who works at Bell Telephone Laboratories in the USA.", start: 791.67, end: 798.97}
+  - {text: "And we've talked a lot about these systems as a kind of form of control, controlling the anti -aircraft gun, or controlling the animal, how the mind controls the animal.", start: 799.41, end: 808.95}
+  - {text: "But the other crucial part of that is information, right?", start: 809.09, end: 811.53}
+  - {text: "If you're going to have these feedback loops, you want to make sure that there's a really clear signal of information being transmitted as part of that feedback.", start: 811.61, end: 819.05}
+  - {text: "And both Shannon and Wiener, actually as part of their work during World War II, come up with mathematical theories that define what information is.", start: 820.03, end: 828.31}
+  - {text: "They're both trying to figure out, can you calculate mathematically how much information a message has?", start: 828.59, end: 833.91}
+  - {text: "Wiener is part of his anti -aircraft gunnery research.", start: 834.73, end: 837.37}
+  - {text: "For Shannon, it's part of his encryption and cryptography research.", start: 837.95, end: 841.81}
+  - {text: "And so the interesting thing about their theories is they're almost exactly identical, except Shannon's definition of information is the opposite of Wiener's.", start: 842.53, end: 850.93}
+  - {text: "So Wiener says, well, you know, the more predictable, the more clear a message is, the more information it has, which seems completely logical.", start: 851.07, end: 857.31}
+  - {text: "Shannon says, the less predictable, the more chaotic and messy and disordered a message is, the more information it has, which seems completely unintuitive.", start: 857.79, end: 865.71}
+  - {text: "But if you think about it from the perspective of code breaking, Shannon was working on a system called Sigsley, also known as the mysterious Project X.", start: 866.09, end: 873.71}
+  - {text: "He was working on it with people like Alan Turing, and it was to have an encrypted communications line between the allies.", start: 874.17, end: 879.75}
+  - {text: "It was used by people like Roosevelt and Churchill and Eisenhower.", start: 880.17, end: 883.97}
+  - {text: "And if you think about information from a code breaking perspective, if you can perfectly predict a message, if you know what Churchill is going to send to Eisenhower,", start: 884.41, end: 892.33}
+  - {text: "you don't need to spend any effort on breaking it.", start: 892.83, end: 894.89}
+  - {text: "You don't get any new information by breaking the code.", start: 895.05, end: 897.25}
+  - {text: "But if the message, the encrypted message, appears completely random, then you can't predict what they're saying.", start: 897.67, end: 902.33}
+  - {text: "It's very hard to break the code.", start: 902.41, end: 903.89}
+  - {text: "And if you do break the code, you get a lot more information.", start: 904.03, end: 906.67}
+  - {text: "So that's this completely unintuitive definition of information that he has.", start: 907.29, end: 910.23}
+  - {text: "Thank you, Jacob. There are two other characters in this early stage of cybernetics who I'm interested in.", start: 910.65, end: 917.39}
+  - {text: "One is Warren Sturgis McCulloch, and the other is Walter Pitz.", start: 917.69, end: 921.41}
+  - {text: "Can you tell us about them and how they influenced the way cybernetics developed?", start: 921.41, end: 926.19}
+  - {text: "Warren McCulloch was a psychiatrist, and actually had been in World War I on ships, wondering a little bit about signals and messages, but also as a psychiatrist,", start: 927.03, end: 940.83}
+  - {text: "he also worked with a lot of people who'd undergone war trauma and things like that.", start: 940.93, end: 945.11}
+  - {text: "And so he was really interested in these questions about hallucination, why people have traumatic experiences, how phantom limb, these kind of things that seem both very material and yet very imagined.", start: 945.29, end: 959.97}
+  - {text: "And so he was really interested in this mind -body thing.", start: 960.51, end: 963.43}
+  - {text: "And Walter Pitz was another kind of mathematical genius who came out of a really impoverished background.", start: 964.19, end: 972.07}
+  - {text: "Didn't have really a formal education, but walked into the Detroit library, for example, at age 13 and picked up the Principale Mathematica, corrected it, apparently, wrote to Bertrand Russell, and got invited to Cambridge, but he was 13, so he couldn't go and also impoverished,", start: 972.33, end: 987.79}
+  - {text: "but managed to get picked up by Norbert Wiener and this group of cyber neticians as a potential prodigy and brought into this circle at MIT that was working on cybernetics.", start: 988.29, end: 1001.31}
+  - {text: "And you have to remember that at this period of time, people didn't know what a machine was or what a brain was.", start: 1002.25, end: 1008.49}
+  - {text: "We didn't have FMRIs and we didn't have digital computers.", start: 1008.61, end: 1012.37}
+  - {text: "We didn't have these kind of things.", start: 1012.71, end: 1013.99}
+  - {text: "And in fact, if we could start modeling human behavior mathematically and computationally, how would we rethink what people are and what machines are?", start: 1014.71, end: 1024.97}
+  - {text: "And Warren McCullough and Walter Pitz under the influence of all these people modeling brains and modeling machines during the war started to ask, what is a man that he may know a number", start: 1024.97, end: 1039.79}
+  - {text: "and a number that it may be known by man?", start: 1040.27, end: 1042.39}
+  - {text: "Now this sounds like the kind of like obscure sort of like esoteric philosophical thing that none of us would care about, which maybe it is, but actually no.", start: 1042.51, end: 1052.07}
+  - {text: "It's actually the foundation of AI today.", start: 1052.27, end: 1054.63}
+  - {text: "And essentially it was a reframing of then shydenk's problem, which was a question of what's the limit of computation, what's the limit of what we can represent logically in the world.", start: 1055.53, end: 1065.81}
+  - {text: "And their answer to that wasn't an intuitive one.", start: 1066.87, end: 1070.53}
+  - {text: "It was to build a new form of experiment.", start: 1070.75, end: 1073.13}
+  - {text: "McCullough called these epistemological experiments.", start: 1073.93, end: 1076.69}
+  - {text: "Why? Because they would test what we thought we knew about computing and what we thought we knew about thinking.", start: 1077.19, end: 1083.91}
+  - {text: "And the experiment went something like this.", start: 1084.89, end: 1087.41}
+  - {text: "Imagine you have a neuron, which we do.", start: 1087.95, end: 1090.51}
+  - {text: "Imagine that the neuron fires on or off, which it does more or less a little more complexly.", start: 1090.97, end: 1098.29}
+  - {text: "Imagine that that on off is the equivalent of a logic statement.", start: 1098.29, end: 1102.89}
+  - {text: "True, false, right, wrong, yes, no.", start: 1103.37, end: 1107.45}
+  - {text: "If you imagine all these things, then we've just broken the entire brain body split.", start: 1108.03, end: 1113.97}
+  - {text: "We've shown that there's actually a material grounding to the brain and to thought, to higher level thinking.", start: 1114.53, end: 1122.65}
+  - {text: "And not only that, we've reframed both what a computer can be, because these are logical statements being made by supposedly a biological entity.", start: 1123.21, end: 1131.53}
+  - {text: "And we've rethought what a brain could be because it's built up from these little units.", start: 1132.15, end: 1137.51}
+  - {text: "Okay, let me take that on with you, Jacob, because as you pointed out, this is really the early history of artificial intelligence that they were beginning to explore.", start: 1138.72, end: 1150.26}
+  - {text: "Can you tell us, Jacob, what the difference between brain modeling is and mind modeling?", start: 1150.84, end: 1157.38}
+  - {text: "And I really want you to be as simple as possible here, because I've been struggling with this.", start: 1157.90, end: 1163.20}
+  - {text: "Sure. So what I read has just been telling us about is the brain modeling side of artificial intelligence.", start: 1164.30, end: 1170.60}
+  - {text: "So this idea that if you can represent the nervous system, the brain, as a series of logical statements, and Claude Shannon had shown that you can also represent logical statements through electrical circuits, right?", start: 1171.04, end: 1184.78}
+  - {text: "It presumably follows that you can then use electrical circuits to recreate a nervous system that produces a kind of logical pattern of thought.", start: 1185.20, end: 1194.26}
+  - {text: "That's, simplistically, the brain modeling side of things.", start: 1195.14, end: 1198.04}
+  - {text: "Let's build electrical circuits that kind of recreate logical systems that are modeled on the nervous system.", start: 1198.22, end: 1203.82}
+  - {text: "And that sets up a whole direction of AI research that still lives on today in things like neural networks, for example.", start: 1204.38, end: 1210.74}
+  - {text: "So there's a researcher, Frank Rosenblatt at Cornell in the USA who builds a machine called a perceptron, which is a neural network that can learn to recognize shapes using electrical circuits.", start: 1210.94, end: 1222.12}
+  - {text: "The other side of early AI research at this time is mind modeling.", start: 1223.31, end: 1227.53}
+  - {text: "And effectively, let's not worry about trying to physically build a brain in electric circuits.", start: 1228.03, end: 1234.66}
+  - {text: "Let's not worry about how you can actually represent the nervous architecture of the brain in a computer or in electronics.", start: 1234.86, end: 1241.48}
+  - {text: "Instead, let's worry about simulating how a human reasons, right?", start: 1242.00, end: 1246.48}
+  - {text: "How do humans think and can we use a digital computer to simulate that?", start: 1247.10, end: 1250.82}
+  - {text: "So if they get about the brain, think about the mind instead, try to simulate how a human mind works.", start: 1251.12, end: 1255.18}
+  - {text: "So John Agar, let me go on to you about how they went about building these machines and putting this into practice.", start: 1255.72, end: 1264.28}
+  - {text: "And perhaps you can start by telling us about Elmer and Elsie, the tortoises.", start: 1264.48, end: 1269.14}
+  - {text: "What were they? Yeah.", start: 1269.62, end: 1270.76}
+  - {text: "So we're going to jump over the Atlantic.", start: 1270.98, end: 1274.14}
+  - {text: "We're going to come to Britain because there were cybernetics and cyberneticians very active in Britain, as well as the United States, as a world elsewhere in the world.", start: 1274.38, end: 1285.72}
+  - {text: "Let me tell you to 1951.", start: 1286.28, end: 1288.18}
+  - {text: "1951 was the year of the Festival of Britain.", start: 1289.28, end: 1291.38}
+  - {text: "And millions of people went to see exhibitions that was meant to be a tonic to the nation and cheer us all up after austerity and things like that.", start: 1292.51, end: 1302.18}
+  - {text: "What they would have seen there were pairs of little robots.", start: 1302.64, end: 1308.58}
+  - {text: "These were robot tortoises that were made by a neurologist called Greywater.", start: 1309.40, end: 1316.86}
+  - {text: "Greywater worked at a mental hospital just outside Bristol, but he had this intense interest in building mechanical things that seemed, and he thought actually did, produce lifelike behavior.", start: 1317.24, end: 1332.86}
+  - {text: "So just as we just heard about brain building, Greywater put what he thought was equivalent of a couple of neurons at the centre of these mechanical robot tortoises.", start: 1333.74, end: 1345.08}
+  - {text: "And these tortoises also could respond to light, they could respond to touch, and with simple feedback mechanisms, they could respond to each other.", start: 1345.88, end: 1355.82}
+  - {text: "So they would respond to each other's lights.", start: 1355.96, end: 1357.68}
+  - {text: "They would see their own light in a mirror and they would move towards it.", start: 1357.78, end: 1362.26}
+  - {text: "They bumped into something, they would recoil.", start: 1362.70, end: 1365.20}
+  - {text: "And Greywater thought that these little mechanical robot tortoises with the equivalent of a couple of neurons as electrical circuits were beginning to show absolutely mechanical lifelike living", start: 1365.96, end: 1382.22}
+  - {text: "phenomena like attraction, like self -awareness, like movement and responding to what each other are doing.", start: 1382.94, end: 1390.74}
+  - {text: "And people saw that, saw these tortoises, one was called Elmer, one was called Elsie, they're acronyms that essentially stand for electronic machines of various kinds, and they were deeply popular.", start: 1391.88, end: 1405.86}
+  - {text: "But you mentioned the word self -awareness there, and of course there's a lot of discussion these days about artificial intelligence and artificial general intelligence about machines becoming self -aware.", start: 1406.26, end: 1418.40}
+  - {text: "But this constant comparison between machines and animals in cybernetics where they seem to assume that animals and machines function in the same way, isn't there something specific about the human brain,", start: 1418.64, end: 1436.25}
+  - {text: "which is it's not entirely rational, it doesn't follow logical patterns.", start: 1436.25, end: 1440.29}
+  - {text: "So the cyberneticians would say absolutely, we are giving you a science that describes living and non -living thinking, non -thinking entities all in the same framework.", start: 1441.45, end: 1452.59}
+  - {text: "So they were really deeply interested in breaking down those boundaries between thinking and non -thinking, living and non -living.", start: 1455.93, end: 1463.59}
+  - {text: "And of course this upset people.", start: 1464.11, end: 1465.41}
+  - {text: "There are people in the 1940s and 50s, same time as when Turing was working, when Grey Walter was displaying his tortoises, when Norbert Wiener was publishing cybernetics,", start: 1466.19, end: 1477.92}
+  - {text: "who were deeply, deeply upset by this idea there might be something troubling because it was suggesting that there wasn't anything unique about the human mind,", start: 1478.38, end: 1490.62}
+  - {text: "that you could recreate the human mind in machines and that seemed deeply, deeply threatening.", start: 1490.80, end: 1499.72}
+  - {text: "So even something like the friendly tortoises would provoke actually quite disquiet and denunciation even on the BBC.", start: 1500.12, end: 1510.46}
+  - {text: "Heaven forbid. Grey Walter gave talks on the BBC and very heavyweight respondents came in and said you're talking nonsense.", start: 1511.71, end: 1520.15}
+  - {text: "I would say pessimistic optimism might be the right term, and that might be the right term for the age.", start: 1520.86, end: 1526.23}
+  - {text: "Contemporary thinkers in science technology studies that are critically thinking don't want to be technophobic and want to be more technopositive, shall we say, are saying there's a silver lining behind this whole de -centering, making humans equivalent to machines and animals and everything else,", start: 1527.25, end: 1549.89}
+  - {text: "and that is that indeed we, that might actually reconfigure how we think about ourselves and there might actually be an opportunity, new opportunities to work with our technologies, that they may have possibilities to break certain ideas about say biological determinism or", start: 1550.37, end: 1569.93}
+  - {text: "or sort of social order as it was beforehand.", start: 1570.83, end: 1575.61}
+  - {text: "And obviously these are very challenging technologies, but cyber netizens themselves, I would totally agree with John.", start: 1576.05, end: 1583.55}
+  - {text: "Like they, you know, at one point Warren McCullough says to another very famous mathematician, John Von Neumann, who kind of constructed the digital computer and did all the math for the bomb and in a kind of conversation about whether machines could become autonomous,", start: 1583.87, end: 1601.65}
+  - {text: "kind of pre a conversation about artificial general intelligence, if you will.", start: 1602.45, end: 1606.51}
+  - {text: "McCullough said about the neural net, he said, I think what we did and did fairly well is build a brain if only it were to go psychotic.", start: 1607.35, end: 1615.11}
+  - {text: "And this is a quote, okay, I'm just quoting pretty much.", start: 1615.55, end: 1618.99}
+  - {text: "What did he mean by psychotic in this case?", start: 1619.13, end: 1621.55}
+  - {text: "And it's a fundamental problem for computing actually in general and for neural networks is we all know they have a problem with causality.", start: 1622.05, end: 1630.45}
+  - {text: "We know that large language models, for example, can't really assign how they learned.", start: 1631.43, end: 1636.61}
+  - {text: "They just kind of replicate or create an end point, but we don't, we don't, they have a problem with time and space in short machines can't tell, for example,", start: 1637.49, end: 1646.23}
+  - {text: "if the data is new or if it's retrieved from memory.", start: 1646.27, end: 1649.41}
+  - {text: "And in order to get the math and the logic of the neural net to work, you basically had to evacuate time.", start: 1649.87, end: 1657.99}
+  - {text: "And this is an ongoing issue.", start: 1658.99, end: 1660.87}
+  - {text: "But aside from the theory of it, I also want to mention that a very big part of cybernetics and things like game theory was the idea that human beings don't make good decisions.", start: 1661.25, end: 1671.83}
+  - {text: "And therefore they need computers, they need mathematical and rational tools because we're not rational.", start: 1672.27, end: 1678.57}
+  - {text: "But when you talk about the psychosis, is that, and you've mentioned large language models, is that the same as what we now understand to be hallucinations of large language models?", start: 1679.13, end: 1692.49}
+  - {text: "It can be sometimes.", start: 1693.41, end: 1694.91}
+  - {text: "I mean, a lot of times what we call hallucination might also just be sycophany, the machine generating response it thinks you want.", start: 1695.65, end: 1702.87}
+  - {text: "But hallucination is also is a key feature of this problem, where machines are feeding back on the same data to a point where they're no longer capable of generating,", start: 1703.39, end: 1715.85}
+  - {text: "let's say, an answer that fits the real world for lack of a better word.", start: 1716.57, end: 1721.07}
+  - {text: "So cybernetics during the 1950s and early 60s seems to turn up everywhere.", start: 1721.31, end: 1727.55}
+  - {text: "It's not just in matters military, it's in sociology, it's in anthropology and so on.", start: 1728.19, end: 1734.43}
+  - {text: "Jacob, how do we then get from the issue of the anti -aircraft gun, for example, to the sort of bureaucratic cybernetics of the post office?", start: 1734.49, end: 1745.49}
+  - {text: "Tell us about the post office and why cybernetics was important to it.", start: 1746.51, end: 1750.29}
+  - {text: "Yeah, so cybernetics isn't even just in science, right?", start: 1750.91, end: 1753.69}
+  - {text: "It goes beyond science to business to organizations to governments, because a lot of the people working with cybernetics, they're not necessarily working on cutting edge science, innovations, AI,", start: 1753.77, end: 1764.51}
+  - {text: "military research, they're working in more prosaic settings like large organizations.", start: 1765.19, end: 1769.73}
+  - {text: "There's a foundational conference for artificial intelligence that happens in Teddington, here in London, at the National Physical Laboratory in 1958, called Mechanization of Thought Processes.", start: 1770.65, end: 1780.07}
+  - {text: "But one of the interesting papers given there is a paper called, To What Extent Can Administration Be Mechanized?", start: 1780.81, end: 1787.39}
+  - {text: "And that's given by a British electrical engineer, James Merriman, who goes on to become the chief engineer of the post office.", start: 1787.65, end: 1795.15}
+  - {text: "And the post office at the time ran Britain's telecommunications infrastructure.", start: 1795.79, end: 1800.43}
+  - {text: "And Merriman and his engineers paid close attention to cybernetics.", start: 1800.83, end: 1805.21}
+  - {text: "Merriman was at these conferences, his engineers went to symposia on cybernetics and information theory at Imperial College in London.", start: 1805.31, end: 1811.49}
+  - {text: "And they were trying to think about how can you apply cybernetics to a large organization like the post office, which at the time was one of Britain's largest employers,", start: 1812.15, end: 1821.17}
+  - {text: "but also had a big complex electrical network of telecom lines that sent telephone messages, telegraph messages and so on.", start: 1821.59, end: 1830.19}
+  - {text: "And they arrive at this vision of what they call a self -healing, self -governing network, that you could use cybernetics and kind of cybernetic theories to think about how you could embed computers into the network to control", start: 1830.94, end: 1845.72}
+  - {text: "and organize all of the messages that are sent around the network, but to also organize all of the people that work for that network, tell them where to go, what they need to repair,", start: 1845.72, end: 1854.42}
+  - {text: "where they're going to be working each day, and so on.", start: 1855.08, end: 1857.10}
+  - {text: "And it leads to this statement that Merriman makes, and he says information and control, which is a reference to cybernetics, it's one of the leading cybernetics journals at the time,", start: 1857.28, end: 1865.74}
+  - {text: "he says information and control is fundamental to the management of any large organization.", start: 1865.80, end: 1870.32}
+  - {text: "So a lot of people at the time, they're not just thinking about cybernetics in these cutting edge applications, they're also thinking about how it can be applied to large bureaucratic organizations.", start: 1870.86, end: 1878.36}
+  - {text: "So when they're looking at the telephone exchange, what do they see?", start: 1879.14, end: 1883.50}
+  - {text: "So at this point in time, a lot of telephone exchanges, which are what, you know, roots your call from one place to another, right?", start: 1884.51, end: 1890.11}
+  - {text: "If you're in London and you're calling Edinburgh, it's not just a direct line, it has to go through various telephone exchanges to root the call from London to Edinburgh.", start: 1890.17, end: 1897.05}
+  - {text: "And this is also the time where they're thinking about, okay, how can we computerize these telephone exchanges?", start: 1897.33, end: 1901.81}
+  - {text: "How can we put computers in them to root all the traffic for us?", start: 1901.97, end: 1905.33}
+  - {text: "And this lends itself to this idea of this self -governing, self -healing network, because if one communications link, you know, becomes disused or breaks down or something,", start: 1905.77, end: 1915.35}
+  - {text: "the computers can reroute the call via another set of telephone exchanges.", start: 1915.35, end: 1920.45}
+  - {text: "So it's, again, this kind of responsive system of feedback, thinking that, okay, that route isn't working, so we will update and regulate the system so we can find another route using these, yeah, cybernetic computerized telephone exchanges.", start: 1920.73, end: 1933.41}
+  - {text: "So there was another example of this, quite a memorable one, John, in Chile.", start: 1934.03, end: 1938.59}
+  - {text: "Tell us about Project Cyber Sin and what happened to it.", start: 1939.13, end: 1942.85}
+  - {text: "So there's another British cybernetician called Stafford Beer, who is another very interesting, slightly eccentric figure, slightly an outsider figure who has an epiphany when he reads Norbert Wiener's Cybernetics,", start: 1943.84, end: 1960.98}
+  - {text: "thinks this is a clue to how to understand organizations.", start: 1961.36, end: 1966.12}
+  - {text: "Briefly, he's employed by United Steel in Sheffield.", start: 1967.20, end: 1970.66}
+  - {text: "He proposes to reinvent the steel industry on cybernetics terms.", start: 1971.36, end: 1977.34}
+  - {text: "They show him the door.", start: 1978.02, end: 1979.28}
+  - {text: "He then does management consultancy for a bit, and then he gets a call from Chile.", start: 1980.00, end: 1984.54}
+  - {text: "And Chile, which had a long history of democratic government, had recently elected Salvador Olende, a socialist who had nationalized parts of the Chilean economy and wanted to think about how to manage all these new big organizations", start: 1985.46, end: 2003.02}
+  - {text: "that the Chilean state now had to look after.", start: 2003.02, end: 2006.90}
+  - {text: "And they'd heard of cybernetics and they'd heard of Stafford Beer, who had published on management cybernetics, and said, come to Chile.", start: 2007.90, end: 2017.26}
+  - {text: "You can rearrange the state for us.", start: 2018.04, end: 2020.60}
+  - {text: "And he joined this Chilean team.", start: 2021.66, end: 2024.56}
+  - {text: "And together, they produced this extraordinary plan, partly implemented, which would gather information from telex lines from around the country, gathering them together at a central control room.", start: 2025.28, end: 2040.48}
+  - {text: "And this control room, I do encourage people to have a look it up online.", start: 2040.72, end: 2044.66}
+  - {text: "Project CyberSyn stands for cybernetic synergy.", start: 2045.06, end: 2049.46}
+  - {text: "The control room looks a little bit like the bridge on Star Trek on the USS Enterprise.", start: 2050.26, end: 2056.18}
+  - {text: "It does a lot.", start: 2056.34, end: 2057.20}
+  - {text: "It has these extraordinary chairs.", start: 2057.36, end: 2059.90}
+  - {text: "You're surrounded by panels and flashing lights.", start: 2060.32, end: 2063.58}
+  - {text: "But essentially, this was meant to be machines and humans working together, going back and forth, interacting with each other in order to make better decisions", start: 2064.16, end: 2075.28}
+  - {text: "at the center of a new cybernetic socialist country.", start: 2075.28, end: 2080.64}
+  - {text: "So there's real ambition to cybernetics.", start: 2081.08, end: 2085.16}
+  - {text: "Eritz, can you tell us about smart cities, which people are talking about smart cities now all the time.", start: 2085.62, end: 2093.00}
+  - {text: "Can you tell us about cybernetics and smart cities?", start: 2093.18, end: 2095.84}
+  - {text: "Yeah, cybernetics, as everyone here has already suggested, was a really compelling idea.", start: 2096.34, end: 2102.72}
+  - {text: "And it spread like, I don't know, a good meme.", start: 2103.02, end: 2105.36}
+  - {text: "It was very popular.", start: 2106.52, end: 2107.78}
+  - {text: "And I think part of the popularity was the kind of new way of imagining organizational management at scale.", start: 2108.48, end: 2116.34}
+  - {text: "And it was countries, as we've just suggested, but it was also cities at MIT, which had a huge urban planning department.", start: 2117.06, end: 2124.04}
+  - {text: "A lot of people there, particularly a couple planners, one of them named Kevin Lynch, were really influenced by these ideas.", start: 2124.62, end: 2132.20}
+  - {text: "But it also had a huge influence on people in ecology and ecosystems management.", start: 2132.56, end: 2138.06}
+  - {text: "So individuals like the Odom Brothers, who had been working with the atomic tests in the Marshall Islands, started tracing, for example, radiation moving through the ecosystem in the little fish and all the stuff,", start: 2138.60, end: 2152.98}
+  - {text: "because radiation makes a really good visualization tool.", start: 2153.12, end: 2157.00}
+  - {text: "You can really trace it, the nitrogen and carbon cycles.", start: 2157.34, end: 2160.94}
+  - {text: "And they started thinking about these nitrogen and carbon cycles as feedback loops and in terms of information and communication too, which goes to show you", start: 2161.48, end: 2169.00}
+  - {text: "how widely these ideas were kind of interpreted.", start: 2169.00, end: 2172.52}
+  - {text: "And the reason I'm bringing ecology is because there was a close integration to how people were thinking about urban systems and environmental systems.", start: 2173.04, end: 2180.38}
+  - {text: "And the fact that you could manage an environment and an urban system with the same tools, the same idea, if you could map all the kind of feedback loops and you could turn everything into a flow chart, you could plan better.", start: 2180.62, end: 2196.46}
+  - {text: "You could manage the ecosystem better or the city.", start: 2196.68, end: 2199.94}
+  - {text: "And so there was a lot of interchange between the two.", start: 2200.40, end: 2203.04}
+  - {text: "And people like Buckminster Fuller, who's a really prominent kind of technologist and futurist, started imagining cities like New York City as sort of these metabolic systems.", start: 2203.34, end: 2214.60}
+  - {text: "And eventually, this went all the way up to the planet in a famous report called Limits to Growth in the 1970s that started the contemporary environmental movement and was an effort to computationally model all the world systems,", start: 2215.00, end: 2229.44}
+  - {text: "its environmental one and human ones, and try to understand the impact of human behavior on the planet.", start: 2229.92, end: 2235.82}
+  - {text: "So again, incredibly ambitious.", start: 2236.14, end: 2237.86}
+  - {text: "And tell us a bit more, Jacob, about how it's used in climate theory later on, particularly here in Britain.", start: 2238.26, end: 2244.04}
+  - {text: "So as Areitz mentioned, cybernetics influences ecological theory, a somewhat controversial ecological theory that influences is the Gaia hypothesis.", start: 2244.97, end: 2253.73}
+  - {text: "And that's promoted by a British scientist, James Lovelock, and an American microbiologist, Lynn Margulis.", start: 2254.23, end: 2259.55}
+  - {text: "And the Gaia hypothesis states that all of the organisms on the planet kind of exist in this network of feedback loops that exist to kind of keep the earth at a stable kind of habitable condition, right?", start: 2260.17, end: 2273.83}
+  - {text: "So they maintain the temperature, the humidity, the oxygen levels, and so on in a kind of habitable zone.", start: 2273.97, end: 2279.21}
+  - {text: "So in other words, life maintains the earth so that the earth can sustain life.", start: 2279.49, end: 2284.29}
+  - {text: "And that's controversial, A, because it's kind of too grand to prove, but B, because some people have used it to kind of claim that perhaps the earth could resist climate change, right?", start: 2284.81, end: 2295.13}
+  - {text: "It'll stay in a habitable zone.", start: 2295.35, end: 2297.01}
+  - {text: "Now when Lovelock first thinks about Gaia theory, he's not thinking about climate change.", start: 2297.75, end: 2302.27}
+  - {text: "He's thinking about cybernetics.", start: 2302.55, end: 2303.89}
+  - {text: "He speculates about a biological cybernetics system that will exist to keep an entire planet's physical and chemical kind of systems in a habitable zone.", start: 2304.09, end: 2313.67}
+  - {text: "But one of the interesting things, and I think this also touches on how and why cybernetics begins to disappear, is Lovelock and Gaia theory become", start: 2314.13, end: 2323.23}
+  - {text: "quite popular amongst more countercultural theorists of the environment.", start: 2323.23, end: 2327.15}
+  - {text: "So Lovelock joins an association called the Lindisfarne Association, which is a New Age utopian group where he meets other theorists of energy and ecology and", start: 2327.85, end: 2338.31}
+  - {text: "come up with all of these cybernetic utopian theories of kind of self stabilizing planetary systems.", start: 2338.31, end: 2343.87}
+  - {text: "And he publishes in about Gaia in a countercultural journal called Co -Evolution Quarterly, which is read by many other cyberneticians, the anthropologist Gregory Bateson, for example, also popular amongst the counterculture.", start: 2344.47, end: 2355.31}
+  - {text: "And these countercultural cyberneticians who are reading about Gaia theory really use themselves as a platform to elevate Gaia into this new ecological theory.", start: 2355.97, end: 2365.23}
+  - {text: "But at the same time, it becomes tinged with this countercultural kind of vibe that begins to sap its kind of scientific legitimacy amongst the self perceived serious scientists", start: 2365.45, end: 2375.73}
+  - {text: "who want cybernetics to become a serious field.", start: 2375.73, end: 2377.47}
+  - {text: "John, these days we don't hear much talk about cybernetics.", start: 2377.97, end: 2382.01}
+  - {text: "It seems to have dissipated.", start: 2382.61, end: 2385.49}
+  - {text: "But what are its main legacies?", start: 2386.01, end: 2388.33}
+  - {text: "What's important about cybernetics today?", start: 2388.65, end: 2390.81}
+  - {text: "So I think it's fair to say that throughout the history of cybernetics there's been opposition.", start: 2392.24, end: 2398.60}
+  - {text: "It's claimed too much.", start: 2399.12, end: 2400.58}
+  - {text: "It claims that humans, animals, machines, all equivalent, this upsets people.", start: 2401.44, end: 2407.48}
+  - {text: "And when it gets associated with radical politics and countercultural ideas for some people, this is too much.", start: 2408.20, end: 2416.28}
+  - {text: "So it's true to say that cybernetics, as a branch of science, I think dwindles in many areas.", start: 2416.54, end: 2423.24}
+  - {text: "But there are legacies.", start: 2423.92, end: 2425.66}
+  - {text: "In a way, it's gone from deep secrecy, from the war to everywhere within years.", start: 2426.26, end: 2431.70}
+  - {text: "That's from in the 1940s.", start: 2432.02, end: 2433.52}
+  - {text: "Now it's almost apparently nowhere.", start: 2434.38, end: 2437.56}
+  - {text: "We don't hear this term cybernetics.", start: 2437.82, end: 2439.66}
+  - {text: "But in fact, it is everywhere.", start: 2439.86, end: 2441.80}
+  - {text: "It's everywhere in the way we talk about AI, for example, just as Norbert Wiener in the book Human Use of Human Beings warns against the automatic factory", start: 2442.28, end: 2453.42}
+  - {text: "and says it's going to lead to mass automation and unemployment and devastating consequences for society.", start: 2453.42, end: 2460.30}
+  - {text: "Yet it has these fantastic opportunities if only we adopt the tool properly.", start: 2460.54, end: 2464.24}
+  - {text: "Do you recognize that kind of way of talking?", start: 2464.88, end: 2467.00}
+  - {text: "It's our way of talking about AI, the talk about whether or not it's conscious or not, the LLMs and the idea that we might be releasing machine consciousnesses into the world.", start: 2467.24, end: 2480.94}
+  - {text: "This is precisely the language of Norbert Wiener and the warnings.", start: 2481.84, end: 2486.22}
+  - {text: "So the whole way we've ended up talking about information and information in society and big organizations and the dangers of science and technology.", start: 2486.60, end: 2496.08}
+  - {text: "This comes out of this language about AI from the 1940s, a way of talking about technology.", start: 2496.62, end: 2503.04}
+  - {text: "So one of its legacies is, in some ways, a rather unhelpful way of talking about technology that only has these extremes of abundance and a world of leisure", start: 2503.54, end: 2517.22}
+  - {text: "or world destruction and mass unemployment and worse.", start: 2517.22, end: 2522.82}
+  - {text: "And we're trapped into ways of talking about machines being conscious in a way that is frankly unhelpful.", start: 2523.28, end: 2529.02}
+  - {text: "So one of the legacies, unfortunately, is I think a style of talking about technology.", start: 2529.54, end: 2533.76}
+  - {text: "My thanks to Jacob Ward, John Agar and Areet Halpen.", start: 2534.42, end: 2538.22}
+  - {text: "Next week, Fall In for the Redetzky March.", start: 2539.06, end: 2541.86}
+  - {text: "That's the life and works of Josef Rot, a master of Central European literature.", start: 2542.24, end: 2547.36}
+  - {text: "Thank you for listening.", start: 2548.02, end: 2549.30}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2550.04, end: 2556.70}
+  - {text: "Okay, so now we can do the podcast bit where we relax a little.", start: 2557.52, end: 2563.10}
+  - {text: "Um, first of all, there's one thing that I wanted to ask when I was reading about this, when you were talking about this, there was one person I kept thinking about, and that was Marshall McLuhan.", start: 2564.42, end: 2573.98}
+  - {text: "So do any of you have any thoughts about how important this was for McLuhan's work, the sociologist and communications theorist?", start: 2574.94, end: 2585.62}
+  - {text: "And in particular, the medium is the message, which seems to somehow be intrinsic to cybernetics.", start: 2586.02, end: 2592.68}
+  - {text: "Areet? I mean, I can say that it was extremely influential because I think people have to remember that at the time, cybernetics was the kind of language for computing.", start: 2593.28, end: 2604.84}
+  - {text: "I think John already mentioned that it really established a way of thinking about media and thinking about technology.", start: 2605.78, end: 2611.44}
+  - {text: "It was also incredibly influential to many of the artistic and avant -garde kind of milieus that McLuhan often engaged with.", start: 2611.72, end: 2622.26}
+  - {text: "And also because cybernetics was so invested in making it not just about computers.", start: 2622.76, end: 2630.32}
+  - {text: "You know, one of the most remarkable things about this movement is the way it moves into modeling social systems, brains, humans that really very quickly established", start: 2631.14, end: 2642.98}
+  - {text: "that idea that the medium is indeed the message because the medium is anything.", start: 2642.98, end: 2647.38}
+  - {text: "It doesn't just have to be digital.", start: 2647.76, end: 2649.74}
+  - {text: "McLuhan's also got this idea of media technology to be extensions of the human.", start: 2650.22, end: 2655.50}
+  - {text: "Yeah. Right. So there's a sort of seamlessness back and forth between the machine and the human in McLuhan's way of talking, which I think has", start: 2655.92, end: 2664.74}
+  - {text: "got a cybernetic feel about it for sure.", start: 2664.74, end: 2667.26}
+  - {text: "The other thing is I think like a lot of cyberneticians, Marshall McLuhan is at that sort of edge of intellectual disrespectability and is also extremely exciting, right?", start: 2668.12, end: 2678.06}
+  - {text: "There's something in common with a lot of the cyberneticians and someone like Marshall McLuhan as these intellectual figures who are constantly surprising and challenging and going where you don't think you should go,", start: 2678.66, end: 2692.58}
+  - {text: "which is both exciting but also slightly upsetting.", start: 2693.14, end: 2695.58}
+  - {text: "And I think that just also points to again, one of the reasons cybernetics begins to fracture a little bit.", start: 2695.94, end: 2700.82}
+  - {text: "You know, for example, when it comes to information, right, one of the key debates in cybernetics is do we think of information as purely kind of something that can be mathematically calculated or are we thinking about semantics, how much meaning information has,", start: 2701.02, end: 2711.34}
+  - {text: "which is very interesting to linguists, for example, but people like Claude Shannon don't want it to go in that direction.", start: 2711.36, end: 2717.90}
+  - {text: "And so when you have characters like McLuhan or in another direction, Gregory Bateson, the anthropologist, for example, who really wants to push cybernetics into a completely kind of different direction thinking about the relationship between the human mind and nature and ecology,", start: 2718.16, end: 2732.06}
+  - {text: "that again, these figures like McLuhan, like Bateson who are pushing cybernetics further and further, then the center cannot hold.", start: 2732.74, end: 2740.18}
+  - {text: "I do also want to mention the Cold War elements.", start: 2740.42, end: 2743.52}
+  - {text: "Cybernetics in many accounts also began losing its luster because of its appeal to socialist and communist causes, not just the cyber scene example, which is", start: 2744.24, end: 2755.96}
+  - {text: "actually a potent example of an alternative visions of cybernetics.", start: 2755.96, end: 2759.16}
+  - {text: "There was also a Soviet cybernetics.", start: 2759.38, end: 2761.44}
+  - {text: "And in fact, the very use of the term artificial intelligence came up to get American military funding outside of the rubric of cybernetics.", start: 2762.10, end: 2771.44}
+  - {text: "And some of it is said to be that Marvin Minsky didn't like Norbert Wiener, but outside of that was probably a more sinister problem that cybernetics did actually have these possibilities of social management and planning a possibly socialist bent.", start: 2771.56, end: 2791.04}
+  - {text: "Just on that to follow up, was there something identifiably specific about Soviet cybernetics that was different from Western cybernetics?", start: 2791.42, end: 2800.94}
+  - {text: "In the Soviet Union, attitudes of cybernetics undergo a complete reversal.", start: 2801.40, end: 2807.42}
+  - {text: "So during the sort of Stalinist years, so when cybernetics is published, cybernetics is defined in a Soviet encyclopedia as a reactionary Western pseudoscience that is all about the control of the worker and to make it in, make the worker into an instrument of war, right, and therefore should be rejected.", start: 2808.36, end: 2826.98}
+  - {text: "After Kristjof says Stalin was a bit of a mistake, as a cult of personality, we should maybe think about something different.", start: 2827.80, end: 2835.12}
+  - {text: "This opens the door to scientists in in Soviet institutes, research institutes, and suddenly cybernetics and for a few years as well.", start: 2835.66, end: 2851.84}
+  - {text: "So it really does mean different things in different countries and at different times.", start: 2852.32, end: 2856.56}
+  - {text: "So Jacob, if I understood rightly what you were saying, cybernetics falls into obscurity because of its own success, because it's taken up by so many disciplines", start: 2857.16, end: 2871.18}
+  - {text: "that it no longer has that clear identity that it had at the beginning.", start: 2871.18, end: 2876.74}
+  - {text: "Would that roughly be right?", start: 2877.00, end: 2878.34}
+  - {text: "I mean, that's one element, certainly that you have biologists and social scientists who are involved in this cybernetic milieu in the 1950s, and eventually the kind of common ground disappears", start: 2878.34, end: 2889.60}
+  - {text: "and they just go back to their own disciplines and integrate cybernetic concepts into their work without explicitly calling it cybernetics.", start: 2889.60, end: 2896.22}
+  - {text: "But there are still people who try to champion the cause of cybernetics and kind of reinvent it for new applications, and that continues in in things like systems,", start: 2896.66, end: 2905.00}
+  - {text: "science, you know, there's societies for systems research that still talk about cybernetics, and that's been called first order cybernetics.", start: 2905.26, end: 2911.82}
+  - {text: "So the cybernetics of the closed system where you're trying to engineer and optimize a system.", start: 2912.00, end: 2915.74}
+  - {text: "And then there's people who talk about second order cybernetics or second order science.", start: 2916.44, end: 2920.00}
+  - {text: "And that's this idea that you have to be aware of your own role as a scientist, as a researcher, as an observer in a cybernetic system.", start: 2920.34, end: 2927.44}
+  - {text: "So it's not just the system is closed with its own feedback loops, there's feedback loops between you and the system.", start: 2927.54, end: 2932.90}
+  - {text: "So if you change the system changes, if the system changes, you change.", start: 2933.26, end: 2936.86}
+  - {text: "And this leads to all of these slightly kind of wacky ideas about consciousness transformation.", start: 2937.18, end: 2940.96}
+  - {text: "But that continues also to the present day in societies and academics looking at, you know, again, nature and ecology and consciousness and what are the relationship between these things.", start: 2941.66, end: 2951.44}
+  - {text: "Reid, anything else you think we've missed out in the discussion that's critical?", start: 2952.18, end: 2957.34}
+  - {text: "I think that it's really interesting to also contemplate the place cybernetics has in in amending or augmenting flawed human capacities and that kind of imaginary that was really pretty potent.", start: 2958.63, end: 2973.39}
+  - {text: "It comes out in the telephone exchange.", start: 2973.57, end: 2975.13}
+  - {text: "It comes out in the idea of game theory, which is like a related science, which is that like, what if people are too emotional and blow up the world?", start: 2975.71, end: 2983.77}
+  - {text: "And so we need computers to step in and kind of make better decisions.", start: 2984.11, end: 2988.17}
+  - {text: "And it comes out a lot in smart cities in our present as people in the 60s like Buckminster Fuller, but also people at Rand, which was an Air Force funded research institute in Santa Monica", start: 2988.31, end: 3003.99}
+  - {text: "started switching from warfare to welfare and started taking over things like urban management.", start: 3004.59, end: 3010.71}
+  - {text: "They increasingly turn to dealing with political problems by saying, let's have a technological solution.", start: 3011.44, end: 3017.87}
+  - {text: "Let's quantify. Let's let's have data driven decision making.", start: 3018.19, end: 3022.21}
+  - {text: "Let's add this machinery.", start: 3022.79, end: 3024.53}
+  - {text: "And that continues to really inform our attitude to the world maybe today, where a lot of times political decision making is getting replaced or transformed by computational decision making.", start: 3024.83, end: 3037.97}
+  - {text: "And that sits there at that government question of cybernetics and what the implications of governance are from technology.", start: 3037.97, end: 3045.59}
+  - {text: "Jacob, you wanted to come in there.", start: 3046.23, end: 3047.67}
+  - {text: "Yeah, I think this point about cybernetics as a decision making tool is really key.", start: 3047.95, end: 3052.07}
+  - {text: "And it's something that you see come up in many other things at the time at Rand and elsewhere, looking at cybernetics as a way to", start: 3052.19, end: 3057.47}
+  - {text: "think about how can we make decisions better?", start: 3057.47, end: 3059.03}
+  - {text: "How can we optimize systems?", start: 3059.19, end: 3060.39}
+  - {text: "There's an overlap with another field, another post war science that dies away, which is the science of futurology.", start: 3061.15, end: 3067.43}
+  - {text: "How can you predict the future using different techniques?", start: 3067.63, end: 3070.57}
+  - {text: "And for example, Daniel Bell, the famous American sociologist, he chairs a commission on the year 2000 in the 1960s in the USA.", start: 3071.27, end: 3077.81}
+  - {text: "And in his book, The End of Ideology, he talks about how cybernetics is one of these decision sciences, which can help build through rational decision making, help us build a utopia.", start: 3078.43, end: 3089.55}
+  - {text: "So there's this really this kind of utopia through automated decision tools and cybernetic decision tools and decision sciences.", start: 3089.89, end: 3095.79}
+  - {text: "So finally, there's been a lot of literary speculation about machines and humans and and cyborgs.", start: 3096.41, end: 3105.47}
+  - {text: "Are we getting to a stage where all of that dystopian vision is actually possibly becoming a reality?", start: 3105.87, end: 3113.01}
+  - {text: "John? So in 1952, Kurt Vonnegut published his first novel, Player Piano, in which it's a dystopia all about the terrible effects of automation.", start: 3113.59, end: 3125.98}
+  - {text: "And the sort of leader of the whole terrible system is a character called Wiener.", start: 3126.92, end: 3133.42}
+  - {text: "So right if you're talking fiction, and Kurt Vonnegut is one of the very best of the the pessimistic thinkers about our world, about war, about destruction", start: 3135.02, end: 3147.46}
+  - {text: "and about science and technology in the future.", start: 3147.46, end: 3150.34}
+  - {text: "Right from the very start of his work, we have Norbert Wiener and Cybernetics.", start: 3151.60, end: 3157.16}
+  - {text: "I think Martha's coming in with an offer of...", start: 3157.84, end: 3160.96}
+  - {text: "Tea or coffee? I'll take a tea.", start: 3160.96, end: 3162.44}
+  - {text: "Love a cup of tea.", start: 3162.78, end: 3163.42}
+  - {text: "In our time with Misha Glen, he was produced by Martha Owen.", start: 3164.58, end: 3168.97}
+  - {text: "It's a BBC Studios production for Radio 4.", start: 3169.41, end: 3171.93}
+  - {text: "If you've got a scrolling problem, then this is the podcast for you.", start: 3172.53, end: 3175.31}
+  - {text: "It's called Top Comment with Me Matt Shea and Me Marianna Spring.", start: 3175.67, end: 3178.59}
+  - {text: "We both investigate social media for a living, whether it's disinformation, conspiracy theories, internet culture, memes.", start: 3178.81, end: 3185.11}
+  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3185.67, end: 3189.33}
+  - {text: "That's Top Comment on BBC Sounds.", start: 3189.77, end: 3191.79}
+---

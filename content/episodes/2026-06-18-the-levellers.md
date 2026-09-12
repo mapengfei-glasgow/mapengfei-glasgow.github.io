@@ -1,0 +1,459 @@
+---
+layout: single
+title: "The Levellers"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-06-18T00:00:00Z
+slug: "2026-06-18-the-levellers"
+audioDir: "2026-06-18-the-levellers"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-06-18-the-levellers/episode.mp3"
+totalDuration: 3399.5
+sentences:
+  - {text: "BBC Sounds Music Radio Podcasts.", start: 1.10, end: 5.02}
+  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 7.42, end: 12.72}
+  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 13.00, end: 17.90}
+  - {text: "Guests often surprise me by being just so generous with their stories.", start: 18.38, end: 22.82}
+  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 23.26, end: 27.72}
+  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 27.72, end: 33.34}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 33.86, end: 36.56}
+  - {text: "The Crosstwares Podcast Festival is back, bigger and better this year in Sheffield.", start: 37.48, end: 43.16}
+  - {text: "From Thursday the 2nd to Sunday the 5th of July, 2026 BBC Sounds and Radio 4 Fringe are treating podcast listeners to an exciting line -up of shows all for free, including In Our Time.", start: 43.86, end: 58.08}
+  - {text: "We'll be recording at the Montgomery Theatre on the 4th of July with a special edition of In Our Time on Casablanca.", start: 58.58, end: 66.14}
+  - {text: "That's Bogart and Bergman and much more.", start: 66.54, end: 69.44}
+  - {text: "Visit Crosstwires .live .fringe for the full list of programmes and how to get free tickets.", start: 69.92, end: 76.76}
+  - {text: "This is In Our Time from BBC Radio 4.", start: 77.99, end: 81.13}
+  - {text: "I hope you enjoy the programme.", start: 81.73, end: 83.11}
+  - {text: "Hello. For rarely I think that the poorest he that is in England had the life to live as the greatest he.", start: 83.11, end: 91.03}
+  - {text: "That simple idea of equality was what one group of political radicals were calling for during arguably the bloodiest period of English history, the Civil War.", start: 91.69, end: 101.59}
+  - {text: "They became known as the Levelers, a group who pushed for a new constitution, an extended franchise, popular sovereignty and religious toleration.", start: 102.46, end: 112.14}
+  - {text: "The Levelers printed pamphlets, signed petitions and took to the streets in their thousands.", start: 112.14, end: 118.08}
+  - {text: "Though the movement itself may have been short -lived, the arguments that the Levelers made have inspired and challenged generations since.", start: 118.88, end: 127.32}
+  - {text: "With me to discuss the Levelers are Theresa Bejan, Professor of Political Theory and Fellow of Oriole College, University of Oxford, Ted Vallance, Professor of History at the University of Rehampton and Claire Jackson,", start: 128.22, end: 141.04}
+  - {text: "honorary Professor of Early Modern History at the University of Cambridge and Fellow of Trinity Hall.", start: 141.34, end: 147.64}
+  - {text: "Claire Jackson, the Levelers emerged during the mid -1640s.", start: 148.28, end: 152.32}
+  - {text: "Can you set the scene for us?", start: 152.42, end: 154.00}
+  - {text: "What was England like at this time?", start: 154.10, end: 155.68}
+  - {text: "So I think the moment we'll be talking about most today when the Leveler ideas, the movement, the voices are heard most prominently at the year 1645 to 1647", start: 156.12, end: 165.70}
+  - {text: "and this is the point at which militarily the English Parliament has been victorious in the First Civil War.", start: 165.70, end: 171.96}
+  - {text: "Parliament had been fighting the King Charles I since 1642, but as we know as much today as in the 17th century, wars aren't decided permanently on the battlefield.", start: 172.32, end: 182.94}
+  - {text: "There needs to be truces, ceasefires and some kind of peace settlement.", start: 182.94, end: 186.16}
+  - {text: "In terms of why Parliament and King had gone to war, Charles I had exceeded the thrones of Scotland, England and Ireland in 1625.", start: 186.76, end: 194.58}
+  - {text: "He was a deeply authoritarian monarch, believed very strongly in the divine right of kings, did not really believe in the right of others to counsel him and also had a specific vision of the Church, the National Church, the Church of England,", start: 194.58, end: 207.32}
+  - {text: "that many people found unacceptably popish and Charles found it very difficult to work with the English Parliament.", start: 207.32, end: 212.72}
+  - {text: "He had embarked on a controversial, decade -long period of personal rule through the 1630s.", start: 213.00, end: 218.78}
+  - {text: "Actually opposition to Charles didn't emerge first in England.", start: 219.08, end: 222.16}
+  - {text: "It emerged first in Scotland in the late 1630s.", start: 222.16, end: 224.96}
+  - {text: "That's where arms had first been taken up against Charles and it had necessitated him calling the English Parliament in 1640, 1641.", start: 225.24, end: 232.02}
+  - {text: "There was then an Irish rebellion and finally King and Parliament went to war in England in 1642.", start: 232.66, end: 237.80}
+  - {text: "And that is, as you said, a really bloody traumatic war.", start: 238.30, end: 241.52}
+  - {text: "I think somehow in our national consciousness it probably doesn't have the prominence that it perhaps deserves, but as a proportion of the population of the British Isles,", start: 241.86, end: 249.90}
+  - {text: "more people lost their lives in the 1640s than in World War I and World War II combined.", start: 249.90, end: 254.34}
+  - {text: "And this is the point in 1645 where Parliament has won the war but now has to reach some kind of settlement and you begin to see the fracturing ironically", start: 255.20, end: 263.28}
+  - {text: "or perhaps inevitably within Parliament between a Presbyterian majority in Parliament who can envisage some kind of settlement with the King that is still very much along a traditional lines of King,", start: 263.28, end: 273.98}
+  - {text: "Lords and Commons but arising, what's often referred to as independent force within Parliament coming from the sectarian congregations as well as an army that feels it is now being undervalued.", start: 274.08, end: 285.86}
+  - {text: "There are massive pay arrears, there's a lack of clarity about things like indemnity for soldiers afterwards.", start: 286.12, end: 292.02}
+  - {text: "Parliament, the Presbyterian majority is very keen to disband it as quickly as possible and I think this isn't, this is the army that has won the war for Parliament but there's rising resentment.", start: 292.44, end: 301.20}
+  - {text: "They feel that they have not only a right but a kind of responsibility now to act on people's behalf and this is the sort of fertile ground into which leveler ideas come from.", start: 301.70, end: 311.54}
+  - {text: "Before we get into the ideas and the nature of the movement tell us about the name levelers, where does that come from?", start: 311.96, end: 318.94}
+  - {text: "What does it actually mean?", start: 319.18, end: 320.24}
+  - {text: "Well it's like most names of most groups it's originally starts as a derogatory term, it's a nickname.", start: 320.46, end: 324.98}
+  - {text: "One of the most prominent levelers, John Lillburn, later claims that it was Ireland, Henry Ireland Cromwell's son -in -law who fixed it on them after", start: 325.52, end: 332.80}
+  - {text: "the Putney debates I'm sure will come to them later in 1647.", start: 332.80, end: 336.12}
+  - {text: "It's meant to imply very deliberately social levelling a desire to bring everything down to a parity.", start: 336.12, end: 342.78}
+  - {text: "The levelers themselves denied that this was really what they were about but it evoked ideas of enclosure riots, rebels.", start: 343.10, end: 349.56}
+  - {text: "It was taken up very quickly, so November 1647 a royalist newspaper, Macurius Pragmaticus, calls its readers to the attention of the despicable and desperate not of men who endeavour to cast down and level the enclosures of nobility, gentry and property,", start: 350.50, end: 365.46}
+  - {text: "to make us all even so that every jack should vie with a gentleman and every gentleman be made a jack.", start: 365.82, end: 371.56}
+  - {text: "Thank you very much, Claire.", start: 371.96, end: 373.10}
+  - {text: "And Theresa Bejan, one of the key figures that Claire's just mentioned in this story is this man John Lillburn.", start: 373.48, end: 379.86}
+  - {text: "Who was he? So it would be wrong to say that Lillburn was the leader of the leveler movement in any kind of exclusive way but I do think it's right to say that without Lillburn and without specifically his pre -existing celebrity as a Puritan martyr,", start: 380.12, end: 393.02}
+  - {text: "nothing like the leveler movement as we know it would have emerged.", start: 393.66, end: 396.16}
+  - {text: "So basically Lillburn is the second son of a downwardly mobile gentry family in the north and he makes his way to London in the 1630s to take up an apprenticeship in the cloth trade", start: 396.84, end: 407.24}
+  - {text: "but while he's there he sort of falls pretty quickly into this radical sectarian subculture and he gets involved with clandestine printing and particularly this kind of Puritan critique of the Episcopal Church of England, so the rule of bishops.", start: 407.24, end: 420.44}
+  - {text: "And in that capacity Lillburn finds himself put on trial in 1638 before the prerogative court of star chamber.", start: 420.44, end: 426.76}
+  - {text: "In his trial he refuses to acknowledge the authority of the court, he refuses to swear the oath that they put to him and for this", start: 427.12, end: 435.32}
+  - {text: "and for printing he is then sentenced to be whipped from Fleet Prison to New Castle Yard so about a distance of two miles.", start: 435.32, end: 443.98}
+  - {text: "So he's whipped publicly, pilloried and put in prison and it's Lillburn's bravery and kind of meeting this punishment that turns him into just an absolute phenomenon so he becomes known as Freeborn John.", start: 444.58, end: 456.00}
+  - {text: "He really becomes the poster boy, if you will, for the cruelty of star chamber and the kind of excesses of Charles, the first personal rule", start: 456.68, end: 463.78}
+  - {text: "and so what ends up happening in 1641 is that the Long Parliament orders Lillburn's release from prison as one of its very first acts and", start: 463.78, end: 472.44}
+  - {text: "so this really sets him on a kind of trajectory that will become important for us I think.", start: 472.44, end: 477.78}
+  - {text: "So can you walk us through how the levelers understood equality?", start: 477.78, end: 482.02}
+  - {text: "What was distinctive about it?", start: 482.42, end: 484.16}
+  - {text: "Well, I think that the idea of equality that becomes essential in leveler arguments and leveler practices is one that Lillburn really comes up with on", start: 484.54, end: 494.16}
+  - {text: "the fly in the summer of 1646 in the midst of one of his many legal battles but basically Lillburn invokes the natural and universal equality of human beings in the context of this court battle as having basically social and political implications.", start: 494.16, end: 508.52}
+  - {text: "So in Lillburn's hands, we see the equality of human beings really for the first time being cited as a kind of basis on which ordinary men", start: 509.06, end: 517.82}
+  - {text: "and women can make political demands and specifically can demand to stand as equals with the privilege in the way that quote you read for us at the beginning shows.", start: 517.82, end: 526.76}
+  - {text: "We take that kind of sense of equality as sort of obvious but from the perspective of the history of political thought it's not obvious at all although the idea", start: 527.24, end: 534.06}
+  - {text: "that every human being was equal is a very ancient idea.", start: 534.06, end: 536.78}
+  - {text: "You find it in Roman law, you find it in Christianity and early modern natural law theorizing.", start: 536.98, end: 541.24}
+  - {text: "It was mainly understood as a kind of assertion of well, every human is somehow equally or indifferently subject to illegal authority, be it the Roman emperor,", start: 541.80, end: 551.70}
+  - {text: "be it the Christian god, be it the natural law.", start: 552.00, end: 554.12}
+  - {text: "What Lillburn does is sort of transform that into a kind of demand for social and political standing.", start: 554.52, end: 560.20}
+  - {text: "So just to quote for you, Lillburn's wonderful postscript containing a general proposition in the summer of 1646 he says that quote, all in every particular", start: 560.58, end: 568.98}
+  - {text: "and individual man and woman that ever breathed in the world who are and were by nature all equal and alike in power, dignity, authority and majesty,", start: 568.98, end: 578.42}
+  - {text: "none of them having by nature any authority, dominion or magisterial power, one over above another, but by their mutual agreement or consent.", start: 578.80, end: 587.54}
+  - {text: "So there was this focus on Lillburn the character and Ted Valance I ought to point out that you are wearing a t -shirt with Lillburn on it and a Lillburn quote,", start: 588.30, end: 598.08}
+  - {text: "but he wasn't the only leading figure in the levelers, was he?", start: 598.22, end: 601.08}
+  - {text: "So who else was involved?", start: 601.26, end: 602.68}
+  - {text: "Absolutely not. And I'd actually like to come back to what Therese has just been talking about in terms of that quotation from Lillburn is a really useful one", start: 603.24, end: 610.88}
+  - {text: "because we can see Lillburn there talking about the equality of women and men, not just men.", start: 610.88, end: 616.90}
+  - {text: "So you open with that evocative quote from Thomas Rainsborough about the poorest he, but it's not just the poorest he for the levelers, it's the poorest he and the poorest she.", start: 616.90, end: 625.70}
+  - {text: "Women are really important in this movement.", start: 625.94, end: 628.46}
+  - {text: "In fact, we wouldn't be talking about John Lillburn's career as a leveler, we're not for his wife Elizabeth Lillburn because it's his wife Elizabeth who", start: 628.62, end: 636.96}
+  - {text: "rides heavily pregnant from London to Oxford to save him from being executed by the Royalist for Treason.", start: 636.96, end: 642.94}
+  - {text: "So there's a glaring example of a woman leveler intervening in a way which is absolutely fundamentally important.", start: 643.36, end: 649.92}
+  - {text: "And presumably she succeeds.", start: 649.92, end: 651.30}
+  - {text: "She succeeds, yes, yes, yes, yes.", start: 651.50, end: 653.24}
+  - {text: "So women are really important in terms of the organisation of the movement, they're critically important in terms of supporting the petitioning campaigns, the printing campaigns that the levelers get involved in.", start: 653.76, end: 665.04}
+  - {text: "But there are a number of other male figures that we do associate with the leveler movement and who have, I would say, equal importance with", start: 665.48, end: 674.62}
+  - {text: "Lillburn in terms of the thought of the movement.", start: 674.62, end: 676.34}
+  - {text: "You just mentioned this man, Thomas Rainsborough.", start: 676.40, end: 679.04}
+  - {text: "Who is he? So Rainsborough is an officer in the Army, Colonel Thomas Rainsborough, and he is really seen as one of the most supportive of the leveler cause at Putney.", start: 679.40, end: 692.02}
+  - {text: "It's interesting though that the words that he's actually speaking at Putney are words that previously appear in a pamphlet published by John Lillburn in 1646.", start: 692.56, end: 700.82}
+  - {text: "Well, I wanted to ask you about that.", start: 701.16, end: 703.56}
+  - {text: "We've heard about these free -born rights that are inherent when you're born, but there's this document agreement to the people.", start: 703.56, end: 711.02}
+  - {text: "Is that a sort of manifesto?", start: 711.28, end: 713.40}
+  - {text: "And what does it outline as rights?", start: 713.50, end: 715.88}
+  - {text: "Yeah, so the agreement to the people is a real, if you like, intellectual game -changer.", start: 716.42, end: 721.56}
+  - {text: "It's moving beyond the idea that your documents like Magna Carta, for example, give people certain rights.", start: 721.76, end: 728.90}
+  - {text: "This instead is a document which says that by the people establishing a new form of government, certain forms of rights which are natural and innate and belong to all people will be protected against any form of governmental infringement,", start: 729.26, end: 745.48}
+  - {text: "whether that's by the executive or whether that's by the legislature.", start: 745.78, end: 748.76}
+  - {text: "Now, we think this idea of the agreement to the people is introduced by a figure called John Wildman.", start: 749.58, end: 754.62}
+  - {text: "And it's Wildman who is one of a few civilian figures, or they refer to often as civilian figures, although we think that they probably mostly had served in the Parliamentarian army themselves,", start: 755.14, end: 765.88}
+  - {text: "who were involved with discussion to the army after the end of the Civil War.", start: 766.30, end: 770.82}
+  - {text: "So once the king's been taken into the army's custody, the army starts to develop its own proposals for negotiation with the king.", start: 771.22, end: 778.26}
+  - {text: "And what is going on within the army is a struggle between the rank and file and the officers.", start: 778.80, end: 785.68}
+  - {text: "The officers are seen as wanting a softer piece.", start: 786.34, end: 789.04}
+  - {text: "So figures like Cromwell, figures like Ayrton, are seen as wanting to give away too much to Charles.", start: 789.04, end: 794.22}
+  - {text: "On the other hand, you've got rank and file representatives, so -called agitators, who are pushing for tougher negotiations.", start: 794.84, end: 801.16}
+  - {text: "And one of the things that they're really conscious of and they really want to protect is any risk of prosecution for actions undertaken in the Civil War.", start: 802.06, end: 809.14}
+  - {text: "So they want indemnity.", start: 809.48, end: 810.52}
+  - {text: "Now, the problem with that, the practical problem that they face is how do we protect ourselves when a king, in our constitution, can basically overturn any kind of judgement through, you know, prerogative powers,", start: 811.12, end: 823.56}
+  - {text: "or he can get a parliament to do it through and through statute law, or a parliament, which is hostile to the army, can do it through passing a law.", start: 823.84, end: 831.04}
+  - {text: "So the agreement is a way of solving this conundrum of creating a settlement which the king and parliament cannot infringe these certain fundamental rights, which include indemnity,", start: 831.38, end: 844.00}
+  - {text: "but they also extend to liberty of conscience, which is critically important for Puritans like Lilburn and for his fellow believers in extensive religious toleration, Richard Overton and William Wallin.", start: 844.00, end: 855.46}
+  - {text: "Again, we're seeing these remarkable demands emerge.", start: 855.74, end: 860.32}
+  - {text: "How are they being disseminated?", start: 861.08, end: 863.04}
+  - {text: "Claire, you mentioned print earlier on.", start: 863.26, end: 865.74}
+  - {text: "What's happening? I mean, we've had the printing press for almost 200 years now.", start: 865.90, end: 870.68}
+  - {text: "What's happening with pamphlets, books and so on in this period?", start: 870.68, end: 874.54}
+  - {text: "So the descriptor that's often used as an explosion in print, that with the breakdown of civil authority, there's also a collapse in the state controls of the press.", start: 874.74, end: 883.76}
+  - {text: "So before the Civil War, if you wanted to publish anything lawfully, you had to submit it for pre -publication approval.", start: 883.96, end: 889.78}
+  - {text: "Obviously, as authority crumbles, there just isn't capacity to do that.", start: 890.12, end: 893.46}
+  - {text: "So suddenly you see this explosion in the number of titles, whereas maybe 450 titles were published a year in the 1630s.", start: 893.82, end: 901.18}
+  - {text: "It's about 2000 in 1641, and it's over 4 ,000 in 1642.", start: 901.90, end: 906.56}
+  - {text: "Now, that's not a quantitative exponential increase in the sheer amount of print.", start: 906.78, end: 910.58}
+  - {text: "It's much more a shift towards cheap print, that there's many, many more titles.", start: 910.76, end: 914.74}
+  - {text: "They're shorter, they're sort of brief interjections.", start: 915.10, end: 917.22}
+  - {text: "They might even just be single sheets, sort of broad sheets.", start: 917.78, end: 920.46}
+  - {text: "I mean, as historians, we're phenomenally lucky because we have some sense of the scale of this thanks to one man, a London bookseller, George Thomason,", start: 921.08, end: 927.52}
+  - {text: "who wanted to preserve the sheer output of the press, so bought as much as he possibly could and very conscientiously wrote the data publication.", start: 927.88, end: 935.04}
+  - {text: "So he's a contemporary who's basically collecting them over.", start: 935.24, end: 938.72}
+  - {text: "Over 22 ,000 of these tracks are in the British Library, and that's enabled historians to sort of sequence these debates.", start: 938.78, end: 944.36}
+  - {text: "But print is straying into areas that were previously sacrosanct.", start: 944.84, end: 948.10}
+  - {text: "MPs, speeches are suddenly being printed, and the levelers are at the heart of this.", start: 948.46, end: 951.88}
+  - {text: "I mean, a lot of them have got experience working in underground presses.", start: 951.88, end: 955.08}
+  - {text: "So much of what they're about is very textual.", start: 955.54, end: 957.96}
+  - {text: "The source that Lillburn quotes most often, apart from the Bible, is Parliament's own Book of Declarations that it issued in March 1643, and he wants constantly,", start: 958.90, end: 967.00}
+  - {text: "by the late 1640s, to be showing how Parliament has betrayed the sort of things that went to war.", start: 967.10, end: 971.72}
+  - {text: "It's also a very visual way of using print.", start: 972.14, end: 974.20}
+  - {text: "There are two engravings of Lillburn that you can purchase at this time.", start: 974.56, end: 977.50}
+  - {text: "One is a standard sort of likeness, and the other is a standard likeness behind bars.", start: 977.78, end: 982.44}
+  - {text: "And that's the one that gets circulated to stir up support for his release when he's in prison.", start: 982.58, end: 986.84}
+  - {text: "So there are paper bullets flying everywhere, if you like, as well as bullets on the battlefield.", start: 987.84, end: 992.04}
+  - {text: "And one of the things they're also distributing is petitions.", start: 992.60, end: 996.84}
+  - {text: "Ted Valance, how were the levelers using petitions, because they're not quite like we understand petitions today, were they?", start: 997.60, end: 1006.02}
+  - {text: "No, and I think if we think of a petition today, we might think of it as a fairly kind of low level sort of political engagement or intervention.", start: 1006.44, end: 1014.76}
+  - {text: "You know, you click on a link to sign an online petition and you think you've done your bit.", start: 1015.12, end: 1018.98}
+  - {text: "That is not what they're doing in the 17th century.", start: 1019.30, end: 1021.62}
+  - {text: "It's a lot higher risk, particularly the types of petitions that the levelers are producing.", start: 1021.90, end: 1026.36}
+  - {text: "So if you're producing a petition, you're supposed to be in a kind of supplicatory, humble position to the figures and authority that you're asking to resolve the matter of the petition too.", start: 1026.68, end: 1037.98}
+  - {text: "And one of the things the levelers didn't like doing was things like doffing their cap.", start: 1037.98, end: 1041.90}
+  - {text: "So this symbolism was important.", start: 1042.14, end: 1043.80}
+  - {text: "Yes, so that kind of symbolism also just the language of it.", start: 1044.14, end: 1047.86}
+  - {text: "So the petitions that they're producing are very assertive and in fact they are clearly saying to Parliament, we are in fact the people who should", start: 1048.02, end: 1057.42}
+  - {text: "be able to command you to do what we're telling you to do in this petition.", start: 1057.42, end: 1061.30}
+  - {text: "A remonstrance of many thousand citizens says, we are the principles, you are our agents.", start: 1061.76, end: 1066.58}
+  - {text: "So you should be doing what we tell you to.", start: 1066.58, end: 1068.74}
+  - {text: "So it's reflecting the levelers' political philosophy and that belief in popular sovereignty.", start: 1069.18, end: 1073.92}
+  - {text: "But petitioning activity is also really important kind of organisationally as well.", start: 1074.64, end: 1078.80}
+  - {text: "So you have to think about these as exercises in mobilising large numbers of people.", start: 1079.24, end: 1083.80}
+  - {text: "These level of petitions are reputed to have tens of thousands of people signing them.", start: 1084.34, end: 1088.18}
+  - {text: "The large petition of September 16, 48, 40 ,000 people were reported to have signed it, which would have been about 10 % of the population of London at the time.", start: 1088.36, end: 1098.10}
+  - {text: "Now, whether that's accurate or not, the levelers are using these kinds of figures again to show that they have public opinion behind them.", start: 1098.58, end: 1106.32}
+  - {text: "The other thing that you see the levelers doing within these petitions is they're also broadening their appeal.", start: 1106.78, end: 1113.16}
+  - {text: "They're not, if you like, just trying to speak to the converted.", start: 1113.58, end: 1115.78}
+  - {text: "They're trying to reach out to other sorts of constituencies.", start: 1116.32, end: 1119.12}
+  - {text: "So they're trying to appeal to more moderate parliamentarians some of the times in these petitions.", start: 1119.48, end: 1123.92}
+  - {text: "They're trying to appeal to rank and file in the army.", start: 1123.92, end: 1126.42}
+  - {text: "They're trying to appeal to their supporters in sectarian churches.", start: 1126.76, end: 1129.66}
+  - {text: "So it's a way of coalition building too.", start: 1130.10, end: 1131.96}
+  - {text: "And developing a sense of the political about how you go about growing this movement.", start: 1132.32, end: 1136.76}
+  - {text: "Absolutely. And if you look at kind of what political scientists have said about political kind of campaigning, a lot of them think that this doesn't", start: 1137.14, end: 1145.50}
+  - {text: "really happen until we get to the 19th century.", start: 1145.50, end: 1148.76}
+  - {text: "But I think you can really see with the levelers those sorts of political petitioning campaigns actually taking form in the mid 17th century.", start: 1149.18, end: 1157.30}
+  - {text: "Theresa, what's this really a movement which is promising equality for everybody?", start: 1158.00, end: 1162.50}
+  - {text: "Or were there any constraints?", start: 1162.74, end: 1164.08}
+  - {text: "Well, certainly if we look closely at the language of Lilburn's postscript containing a general proposition, it seems pretty clearly to be everyone.", start: 1164.68, end: 1172.68}
+  - {text: "It's not just Englishmen, it's all men.", start: 1172.80, end: 1175.60}
+  - {text: "And it's not just men, it's women too, rather explicitly.", start: 1175.98, end: 1178.56}
+  - {text: "But for a long time, I think historians have really focused on the sort of universalism of this level or promise of equality on the one hand.", start: 1178.56, end: 1186.62}
+  - {text: "And then looking specifically at, for instance, the various revisions to the agreement of the people which introduce several exclusions, right?", start: 1186.78, end: 1195.42}
+  - {text: "So at Putney, there's a debate about the parliamentary franchise, what they call equal voice.", start: 1195.64, end: 1200.96}
+  - {text: "And Rainbow says, look, even the poorest man should have a voice is the greatest.", start: 1201.10, end: 1204.78}
+  - {text: "But he doesn't make a case for the poorest she, having a vote in parliamentary elections.", start: 1205.06, end: 1209.38}
+  - {text: "Indeed, towards the end of the transcript we have of the debates, Maximilian Petty, one of the civilian levelers present at the Putney debate, seems to say,", start: 1209.80, end: 1218.90}
+  - {text: "well, look, we can agree that servants and alms takers should be excluded from the franchise as well because they're not sufficiently independent.", start: 1219.04, end: 1226.22}
+  - {text: "And so I think historians are really focused on these exclusions and making the argument that they revealed the levelers to be hypocrites in some sense, violating their own egalitarian principles.", start: 1226.74, end: 1236.82}
+  - {text: "But I think that what Claire and Ted have been emphasizing is right, is that we care about the franchise because we think about political equality", start: 1237.14, end: 1243.82}
+  - {text: "primarily in terms of the right to vote.", start: 1243.82, end: 1245.46}
+  - {text: "But for a very long time, and indeed until quite recently, hardly anyone had the right to vote.", start: 1245.80, end: 1251.00}
+  - {text: "So if you want to look at the sort of the radical egalitarian implications of the leveler arguments, you've got to look to petitioning.", start: 1251.34, end: 1258.20}
+  - {text: "And there precisely we find two groups that seem to be excluded from the franchise at Putney, so women and servants, not only sort of asserting themselves as equals, but demanding to be acknowledged as equals.", start: 1258.40, end: 1270.90}
+  - {text: "And so again, to give you a wonderful quote in which we hear this echo of Lilburn's proposition, this comes from one of the several women's petitions of spring 1649.", start: 1271.12, end: 1279.46}
+  - {text: "The women petitioners opened by saying, quote, that since we are assured of our creation in the image of God equal unto men, as also of a proportionable share in the freedoms of the commonwealth,", start: 1280.14, end: 1290.82}
+  - {text: "we cannot but wonder and grieve that we should appear so despicable in your eyes as to be thought unworthy to petition this honorable house.", start: 1291.20, end: 1298.28}
+  - {text: "And there, of course, that's the house of commons, right?", start: 1298.56, end: 1300.82}
+  - {text: "So here we have women demanding a political voice as women on the basis of this levelling argument.", start: 1301.06, end: 1307.84}
+  - {text: "I know that my son is somewhere alive.", start: 1309.70, end: 1312.06}
+  - {text: "This is Deborah Tice.", start: 1312.70, end: 1314.14}
+  - {text: "Her son, Austin, is one of the biggest missing person cases in the world.", start: 1314.66, end: 1319.06}
+  - {text: "He disappeared in Syria more than a decade ago.", start: 1319.06, end: 1322.04}
+  - {text: "And for years, I've been searching for him.", start: 1322.58, end: 1324.70}
+  - {text: "We've spoken to spies, track down war criminals and uncovered evidence that has never been made public.", start: 1324.98, end: 1331.20}
+  - {text: "I want to know about my son.", start: 1331.66, end: 1333.02}
+  - {text: "Where is Austin Tice?", start: 1333.42, end: 1334.72}
+  - {text: "Listen on BBC Science.", start: 1335.32, end: 1336.76}
+  - {text: "Now, I haven't pulled up any of you for your liberal references to Putney.", start: 1338.94, end: 1343.64}
+  - {text: "And I think we ought to clarify what the Putney debates actually were.", start: 1344.22, end: 1349.14}
+  - {text: "Claire, who was there?", start: 1349.14, end: 1350.44}
+  - {text: "What were they talking about?", start: 1350.58, end: 1351.64}
+  - {text: "And why have they taken the sort of centre stage of the debate about the levellers?", start: 1352.06, end: 1356.68}
+  - {text: "So the Putney debates, as we think of them now, were discussions within the army with some civilian influence that took place in the autumn of 1648.", start: 1357.22, end: 1364.68}
+  - {text: "They didn't have that sort of coherence among contemporaries.", start: 1365.24, end: 1368.50}
+  - {text: "They wouldn't have referred to anything like sort of the Putney debates in the way that we do as a shorthand now.", start: 1368.62, end: 1372.58}
+  - {text: "Because that, again, is almost like the serendipity of how we know what happened.", start: 1372.76, end: 1376.40}
+  - {text: "Theresa mentioned to go the transcript that we have.", start: 1376.40, end: 1379.36}
+  - {text: "And the transcript that we have, we owe to the shorthand skills of a young army secretary, William Clark, who was present and noted in a", start: 1379.64, end: 1388.64}
+  - {text: "newly learned shorthand verbatim what happened at Putney.", start: 1388.64, end: 1391.80}
+  - {text: "So the army is camped about six miles upstream along the Thames.", start: 1392.36, end: 1396.04}
+  - {text: "And the army has got very used now to sort of debating how on earth it's going to, what it wants as part of a durable settlement.", start: 1396.46, end: 1404.42}
+  - {text: "But those transcripts lay, it's hidden in plain sight, but they lay in Worcester College, Oxford, for over 200 years before they were discovered towards the end of the 19th century.", start: 1404.42, end: 1414.24}
+  - {text: "A young military historian, Charles Firth, was given a tip -off by the college librarian and then set to...", start: 1414.32, end: 1420.80}
+  - {text: "It's interesting, but... Presumably he had to decode the shorthand first of all.", start: 1420.80, end: 1424.94}
+  - {text: "Well, Clark himself had started decoding his own shorthand during the restoration.", start: 1424.94, end: 1428.30}
+  - {text: "So in 1662, Clark started decoding his shorthand notes that he'd taken in 1647.", start: 1428.56, end: 1433.50}
+  - {text: "And then he didn't live to finish them.", start: 1433.50, end: 1436.16}
+  - {text: "He was killed in the Anglo -Dutch wars in the mid -1660s.", start: 1436.26, end: 1438.50}
+  - {text: "And actually Firth didn't venture into the shorthand.", start: 1439.14, end: 1441.42}
+  - {text: "He just reproduced the bits that Clark himself had transcribed.", start: 1441.42, end: 1445.66}
+  - {text: "But the late 19th century is probably the first time as well that professional historians begin to get very detailed reconstructions of events during this incredibly complicated and convoluted period.", start: 1445.84, end: 1456.34}
+  - {text: "But then you begin to get this very immersive sense of how the army sought to hear these different voices, some of which were much more radical,", start: 1456.66, end: 1465.90}
+  - {text: "some of which, as Ted was saying, were more conservative.", start: 1466.38, end: 1468.82}
+  - {text: "And I think Theresa's right to say that as historians in the 20th and 21st centuries, they've tended to hone in on things like the franchise.", start: 1469.10, end: 1475.66}
+  - {text: "But looking at the debates as a whole, one gets not only a sense of the army's keen, acute sense of its own professional honour, and it wants to know", start: 1476.02, end: 1483.78}
+  - {text: "that they will be treated properly for the services that they've done.", start: 1483.78, end: 1486.66}
+  - {text: "What is the point of having fought and died for parliament if they're not going to be granted indemnity or any kind of protections?", start: 1486.66, end: 1492.92}
+  - {text: "And if they're going to be treated that badly or shabbily, then that doesn't all go very well for citizens thereafter.", start: 1493.24, end: 1497.86}
+  - {text: "So they're interested in things like indemnity.", start: 1498.60, end: 1500.34}
+  - {text: "They're interested in legal reform as a standard sort of leitmotif that reappears, abolishing monopolies, abolishing ties, really reimagining a settlement that's not any fairer, but also, they hope, durable,", start: 1500.56, end: 1514.02}
+  - {text: "that won't just lead to some resumption of hostilities.", start: 1514.02, end: 1516.70}
+  - {text: "Thank you, Claire. Ted, one thing that I haven't really understood yet is how coherent and organised a movement is this?", start: 1517.12, end: 1524.46}
+  - {text: "I mean, we've heard of one or two characters who are prominent, but do they have membership?", start: 1524.62, end: 1529.56}
+  - {text: "Do they have officers?", start: 1529.96, end: 1531.00}
+  - {text: "Do they have, you know, local chapters of this organisation?", start: 1531.52, end: 1535.46}
+  - {text: "Yeah, and this has been a big subject of debate amongst historians as well.", start: 1536.24, end: 1539.92}
+  - {text: "And I think there are some historians who take the view that when we're talking about the levelers, we are talking about a label that's been created mostly by their opponents to create this image of this sort of organised, radical, dangerous movement.", start: 1540.00, end: 1554.56}
+  - {text: "I mean, I gave you that example of the numbers signing up to the September 1648 petition.", start: 1555.42, end: 1560.04}
+  - {text: "That comes from a hostile, royalist news book and the intention is to show you that there's this level of conspiracy that's about to kind of overturn monarchical government and the sort of established religion.", start: 1560.54, end: 1570.88}
+  - {text: "But my view is that we can talk about them as a meaningful organisation and I think that's for a number of reasons.", start: 1571.66, end: 1578.66}
+  - {text: "Firstly, once we get to the point of having the agreement of the people as if you like the levelers sort of manifesto, I think there is a coherence to what they're arguing", start: 1579.44, end: 1589.50}
+  - {text: "and that coherence stays with the movement until through to its sort of end as a meaningful movement in spring of 1649.", start: 1590.04, end: 1597.86}
+  - {text: "And I think there is also an organisational structure behind them and that's something that we see coming through in terms of that petitioning organisation.", start: 1597.86, end: 1606.72}
+  - {text: "So some of the information, again, that we get about the petitioning organisation comes from hostile sources.", start: 1607.68, end: 1612.70}
+  - {text: "There's a report from a shortage minister called George Masterson who's basically operating as a spy and he sneaks into one of these meetings in January of 1648", start: 1613.16, end: 1622.04}
+  - {text: "where they're about to kind of formulate a new petition and get it out.", start: 1622.04, end: 1625.76}
+  - {text: "And what he says that they're doing is that they appoint commissioners who are there to basically distribute this petition.", start: 1625.76, end: 1632.04}
+  - {text: "They're kind of producing lots and lots of multiple printed copies of the petition so that it can be easily disseminated.", start: 1632.54, end: 1638.22}
+  - {text: "They're raising funds to support the petitioning activity.", start: 1638.34, end: 1641.72}
+  - {text: "So we're seeing an organisation in place through this report and even though it's our style report we then get people like Lillburn and people like Wildman essentially endorsing what Masterson actually do", start: 1642.36, end: 1654.00}
+  - {text: "and I think we can see kind of similar references later on in later level of petitioning campaigns that substantiate that sense of a genuine organisation.", start: 1654.00, end: 1663.22}
+  - {text: "Theresa, there seems to be a consensus that this is a fairly revolutionary moment in English history but how radical were there and were there any other people who thought they were actually not radical enough?", start: 1663.82, end: 1678.52}
+  - {text: "Well, quite. So Claire has sort of alluded to the modern historical reception of this amazing discovery of the Putney transcripts in the late 19th century", start: 1679.52, end: 1688.96}
+  - {text: "and it was not lost on historians at the time that there seemed to be obvious parallels between the demand for equal voice at Putney to the parliamentary franchise", start: 1688.96, end: 1698.34}
+  - {text: "and sort of modern campaigns for voting rights in this country and also then in the United States and so there was a well -developed kind of", start: 1698.34, end: 1707.40}
+  - {text: "historiographical debate in the 20th century about just how radical the levelers really were and in particular kind of in the middle of the 20th century marks this historian,", start: 1707.80, end: 1716.72}
+  - {text: "so Christopher Hill and others, began to make the case that well you know what, I mean sure the levelers look radical from the perspective of many of the other sort of possible positions in the mid -1640s but actually the real radicals,", start: 1717.10, end: 1729.36}
+  - {text: "the real egalitarians in the period are the group known as the diggers led by the failed mystic and merchant, Jared Winstanley who in the spring of 1649 begins to", start: 1729.36, end: 1740.60}
+  - {text: "dig and manure and plant in the wasteland upon George Hill.", start: 1741.20, end: 1744.78}
+  - {text: "So the diggers were kind of elevated as these proto -communist figures in the period who made the levelers and sort of Lilburn's rejection of any kind of economic levelling look like a sort of you know, to use the kind of Marxist language.", start: 1745.32, end: 1760.22}
+  - {text: "The levelers appeared as just sort of bourgeois defenders of private property and free trade.", start: 1760.44, end: 1765.30}
+  - {text: "Those were not a concept at the time of course.", start: 1765.30, end: 1767.44}
+  - {text: "No, not quite and so I think again we need to get out from under this kind of modern historiography to sort of get to look anew at what was going on", start: 1767.48, end: 1774.80}
+  - {text: "and so the first thing to say is that this idea that somehow defending private property rights in the mid -1640s wasn't itself radical, it's just completely ahistorical,", start: 1774.80, end: 1783.64}
+  - {text: "I mean we're short changing level of radicalism in that respect.", start: 1783.76, end: 1787.22}
+  - {text: "The defense of the property rights of free born English men and women is part of a campaign against monopolies of all sorts.", start: 1787.62, end: 1793.48}
+  - {text: "So religious monopolies, economic monopolies, but also print monopolies.", start: 1793.76, end: 1797.86}
+  - {text: "So the idea that property rights also are part of a defense of freedom of speech.", start: 1798.08, end: 1803.14}
+  - {text: "But on the other hand we're also ignoring the extent to which the diggers, so Winstonle and his comrades on George Hill in 1649, they refer to themselves", start: 1803.54, end: 1811.98}
+  - {text: "as the true levelers and are very self -consciously taking up these kinds of arguments from natural equality that you get in Lilburn and other leveler petitions", start: 1811.98, end: 1820.70}
+  - {text: "and saying this also means that we should be able to stand as equals in creation without buying and selling or anyone looking down on or lording over anyone else.", start: 1820.70, end: 1831.38}
+  - {text: "I mean I think no group has probably suffered more than being sort of placed out of time, I mean people will often say they were ahead of their time,", start: 1831.58, end: 1837.62}
+  - {text: "which doesn't help us as historians or they were kind of remarkably modern.", start: 1837.68, end: 1840.54}
+  - {text: "I think it is a fundamentally transformative moment and I think that is part of the sheer upheaval of the country having been at war with itself.", start: 1841.02, end: 1849.86}
+  - {text: "I mean events like the Putney debates catalyse a huge amount of radical thinking in unforeseen circumstances.", start: 1850.10, end: 1857.14}
+  - {text: "I mean the idea that you could put your divinely ordained king on trial publicly and execute him with the acts of the common hangman is an incredibly radical outcome and I think you can certainly see these ideas among 18th century revolutionaries,", start: 1857.42, end: 1869.62}
+  - {text: "19th century chartists, sort of 20th century trade unionists.", start: 1869.76, end: 1873.00}
+  - {text: "I came across exactly sort of 50 years ago, Tony Ben gave this very long lecture in Burford Church about the influence of the levelers and he said it was a real comfort for him to have discovered that in a class struggles,", start: 1873.88, end: 1885.92}
+  - {text: "industrial struggles had this long antecedent and he asked this brilliantly sort of a historical question what would the levelers make of us if they could see us today", start: 1886.02, end: 1892.82}
+  - {text: "and he identified lots of regions in which he would say we're not doing so well, massive inequality of wealth persistence of poverty, all sorts of ways in which", start: 1892.82, end: 1901.86}
+  - {text: "I can see why many subsequent generations have gone back to their writings and found real cause for inspiration as well as just remembering what the impact of", start: 1902.36, end: 1912.32}
+  - {text: "that kind of upheaval of civil war must have been.", start: 1912.32, end: 1914.42}
+  - {text: "Ted, Claire's just pointed to the elephant in the room which is the execution of Charles I in 1649.", start: 1914.90, end: 1920.60}
+  - {text: "Were the levelers supportive of this?", start: 1922.16, end: 1924.72}
+  - {text: "Were they involved with it?", start: 1924.92, end: 1926.40}
+  - {text: "How did they approach this?", start: 1926.90, end: 1928.44}
+  - {text: "Yes they were and I would argue that they're actually very important in explaining how we get to this remarkable point where Charles is put on trial and then executed.", start: 1928.78, end: 1936.82}
+  - {text: "Lillburn again gives us a bit of a distorting effect because Lillburn comes out publicly in opposition to the trial of the king but it's important to understand that this isn't because he thinks that Charles is wonderful,", start: 1937.60, end: 1949.20}
+  - {text: "he describes Charles as being an evil man but it's because he thinks that the type of court that has been set up is wrong, it doesn't have a firm legal basis.", start: 1949.66, end: 1958.90}
+  - {text: "For him the new government on the basis of an agreement of the people should have been established first and then the king should have been placed on trial.", start: 1959.36, end: 1968.24}
+  - {text: "But in fact the levelers are I think really at the forefront of making the argument that responsibility for the civil war sits with Charles so they talk about kings", start: 1968.68, end: 1980.42}
+  - {text: "as being a source of continual oppression to the English people so it's even the institution of monarchy that may be a problem and we've been talking about the Putney debates", start: 1980.42, end: 1990.04}
+  - {text: "and those famous debates around the franchise but one of the other things that's going on at Putney is they are discussing what to do with the king", start: 1990.04, end: 1997.52}
+  - {text: "and a number of the people there at Putney are saying actually we need to deal with Charles he is a man of blood referring to this biblical ideal of blood guilt", start: 1997.52, end: 2008.26}
+  - {text: "that the stain and sin of blood on the land can only be cleansed by killing the person responsible.", start: 2008.26, end: 2014.10}
+  - {text: "After the second civil war it's the leveler movement that kicks off the petitioning campaign to bring the king and other leading royalists to justice but it's not even kind of outside of the court and outside of the trial.", start: 2014.56, end: 2027.20}
+  - {text: "We can even see levelers supporters participating in the trial itself so an under examined aspect of the trial are the witnesses that are brought to give testimony against the king.", start: 2027.58, end: 2038.32}
+  - {text: "Now a number of these we can see actually have leveler connections so there's a witness called Arthur Young who is an officer in Parliament's army he's got a certain amount of fame", start: 2038.80, end: 2049.22}
+  - {text: "because he's the man who takes the royal standard out of the king's standard bearers hands at the battle of Edge Hill the first pitched battle of the civil war", start: 2049.22, end: 2057.14}
+  - {text: "but importantly he's also one of these agitators one of these representatives of the army rank and file and he's one of the agitators who signs a petition in support of the agreement of the people in 1647", start: 2057.14, end: 2069.30}
+  - {text: "and we can find other agitators giving evidence as witnesses who also subscribed to that same petition Okay, Theresa you're a professor of political theory so", start: 2069.30, end: 2080.46}
+  - {text: "tell me are the levelers political theorists are they activists are they a new breed of politicians what are they?", start: 2080.46, end: 2088.14}
+  - {text: "So I think that this is something that many modern political theorists and historians of political thought have maybe struggled with sort of how to categorize the levelers", start: 2088.40, end: 2096.94}
+  - {text: "and how you know I am a professor of political theory and I like to think of political theory as just the contemplation of politics and the abstract for the sake of doing it better", start: 2096.94, end: 2106.72}
+  - {text: "and on that definition they're doing political theory but they're doing it in a way I think that sort of offends maybe some intellectual historians like maybe like Claire", start: 2106.72, end: 2117.04}
+  - {text: "and also me and another guys which is that we like to think that it's really sometimes the ideas and the arguments that are driving the bus", start: 2117.04, end: 2125.06}
+  - {text: "and that the best ideas and the best arguments are the ones that matter most but I think many of the levelers contemporaries at the time were very attuned to the fact that a lot of the arguments the levelers were offering were not particularly good arguments", start: 2125.06, end: 2138.32}
+  - {text: "so Lilburn is a great example again you know he's something of a jail house lawyer you know he had a grammar school education but he never went to university", start: 2138.82, end: 2145.72}
+  - {text: "and so he's really teaching himself about the common law in Magna Carta during his various stints in prison and coming up with really inventive arguments about Magna Carta", start: 2145.72, end: 2154.90}
+  - {text: "and everything on that basis and so William Prinn one of his former friends and you know also fellow Puritan martyrs ends up becoming incredibly critical of Lilburn", start: 2154.90, end: 2164.84}
+  - {text: "and saying that he is an upstart monstrous lawyer called to the bar at Newgate prison where he now practices and they're constantly pointing out that he knows nothing about the common law", start: 2164.84, end: 2175.28}
+  - {text: "that the fact that his Latin isn't very good means that he's making inferences that no one better that a person better educated never would have", start: 2175.28, end: 2181.60}
+  - {text: "but what I like about the levelers and I think that they're political theorists in a sense that we need to maybe take more seriously is", start: 2181.60, end: 2187.24}
+  - {text: "that they are discovering arguments that allow them to do things politically and the arguments end up being persuasive in so far as the doing of things looks good to others", start: 2187.24, end: 2199.18}
+  - {text: "and so that's I think the key when we see these leveler arguments proliferate it's not because they're great philosophers but they are excellent political activists and political theorists.", start: 2199.18, end: 2209.42}
+  - {text: "Claire two questions for you off that first of all are you offended and secondly they were short lived the levelers what happens to them?", start: 2209.66, end: 2217.94}
+  - {text: "So no I'm not offended at all and I think Lilburn's celebrity at the time we perhaps tend to look too much to the political theory", start: 2218.46, end: 2225.06}
+  - {text: "and expect too much among contemporaries Lilburn is famous for having been put on trial twice for treason and having been acquitted and that is no mean feat in the 17th century", start: 2225.06, end: 2234.14}
+  - {text: "and this is the most serious crime against the state and two juries in 1649 and 1653 acquit him and there are you know celebrations and bonfires", start: 2234.14, end: 2242.82}
+  - {text: "and all sorts of things so I think among contemporaries that's where they see his achievement because it doesn't end well this movement.", start: 2242.82, end: 2248.94}
+  - {text: "The Regicide doesn't solve everything a new utopia isn't created and very quickly Lilburn's on the case England's new chains discovered is published in February 1649", start: 2249.30, end: 2257.74}
+  - {text: "and then part two in March and he is put into trial for treason and his trial in October becomes this big set piece trial there are scaffold directed for people to watch he makes this very strong claim", start: 2257.74, end: 2269.22}
+  - {text: "that anyone who's put on trial for their life should at least be afforded defense counsel he hasn't given it and he appeals to the jury", start: 2269.22, end: 2275.32}
+  - {text: "and says you should be jurors of law as well as of fact you know is this a lawful trial most of the trial revolves around his own works being read out and there's great cheers", start: 2275.32, end: 2283.90}
+  - {text: "at one point the judge sort of tells him he's not here to tell the story of all your life but when he is then acquitted by a jury you know", start: 2284.36, end: 2291.82}
+  - {text: "that is a massive humiliation for this new republican regime there are medals created with the names of the jurors and if you want to see the role of civilians", start: 2291.82, end: 2300.10}
+  - {text: "as they have today that's why jury trial and involvement of lay jurors today matters so much to people it's in that moment and just briefly", start: 2300.10, end: 2307.86}
+  - {text: "what happens at Burford there's an event at Burford that's sort of epitome of Cotswold charm yes there are there are small instances of mutiny or", start: 2307.86, end: 2318.22}
+  - {text: "rebellion in the ranks in different places they start in London in April 1649 in Bishop's gate so yeah you have your rank and file and you have the top command often referred to in a shorthand", start: 2318.22, end: 2329.18}
+  - {text: "as the grandees and Cromwell and the grandees fear that this could become really contagious and that they'll be as they put it a sort of standard of sea green the colour that levelers have started wearing ribbons", start: 2329.18, end: 2340.14}
+  - {text: "and the two sort of forces a very mutinous regiment is met at Burford with with Cromwell's regiment 300 mutineers are rounded up held in Burford", start: 2340.68, end: 2350.80}
+  - {text: "church one of them Anthony Sedley inscribes his name prisoner 1649 into a stone font three of these mutineers are then taken out to the churchyard Corporal Perkins Corporal Church Cornet Thompson", start: 2350.80, end: 2362.70}
+  - {text: "and executed and then I mean there's another standoff in Oxford so these are suppressed very quickly and again that's some of the reason for the slightly ambivalent sense of subsequent historians", start: 2362.70, end: 2374.10}
+  - {text: "who want to venerate Cromwell as this great military strategist military discipline is really important to these people and the idea that there has been dissent", start: 2374.10, end: 2382.34}
+  - {text: "in the ranks is quite difficult to accommodate into this sort of heroic story I mean Burford is one of those sort of very dramatic moments", start: 2382.34, end: 2389.74}
+  - {text: "and that's exactly why Tony Ben went to go and give this lecture in Burford Church in 1976.", start: 2389.74, end: 2393.84}
+  - {text: "Ted how are levelers remembered in the 18th century are they forgotten or do they actually inspire other movements?", start: 2394.84, end: 2403.46}
+  - {text: "So they're certainly not forgotten and I think one of the reasons why they're not forgotten is to do with Lilburn and his courtroom struggles in particular has just been discussed so his kind of battles to defend his life in these treason trials", start: 2404.24, end: 2419.74}
+  - {text: "are seen as resonant with 18th century radicals battles against authority as well so in particular John Wilkes and his North Britain case in issue 45", start: 2420.28, end: 2432.20}
+  - {text: "where he's accused of basically libeling the king for criticising the king's speech over the treaty of Paris.", start: 2432.20, end: 2438.70}
+  - {text: "Wilkes is seen as a successor of Lilburn he's referred to as a kind of a new Lilburn and there's a lot of similarities in terms of the style between Wilkes", start: 2439.76, end: 2447.96}
+  - {text: "and Lilburn as well that kind of celebrity radicalism the emphasis upon the individual their struggles their appearance Theresa you do see these echoes at the end of the 18th century in the American Revolution", start: 2447.96, end: 2459.60}
+  - {text: "and then the French Revolution so it's just the strangest coincidence it turns out that Thomas Jefferson is actually related to John Lilburn on his mother's side", start: 2459.60, end: 2468.40}
+  - {text: "so that kind of echo of Lilburn's postscript that we get in the declaration of independence I mean whether or not Jefferson is self -consciously channeling leveler ideals then certainly 50 years later", start: 2469.22, end: 2479.72}
+  - {text: "when he's reflecting on the declaration he describes the palpable truth of equality in the declaration in language borrowed from another leveler so Richard Rumbled on the scaffold in 1685", start: 2479.72, end: 2490.52}
+  - {text: "who said you know that the mass of mankind had not been born with saddles on their backs nor a favoured few booted and spurred ready to ride them", start: 2490.52, end: 2497.92}
+  - {text: "but the idea of equality how important are the levelers for that where do they fit into the development of equality as an idea I think they're hugely important and something really does change in the 1640s", start: 2498.38, end: 2510.52}
+  - {text: "when leveler arguments and activism effectively make the idea of equality effectual in a way that it hadn't been before it begins to be used to do things politically", start: 2511.12, end: 2522.42}
+  - {text: "and so I mean we've been talking about the kind of the sort of slightly paradoxical nature of leveler reception so the leveler movement fails you know the agreement of the people is not enacted", start: 2522.42, end: 2533.50}
+  - {text: "but Lilburn is remembered and his legal activism is remembered and that lives on and very sort of successfully in a sort of self -conscious way I think there is also this kind of less self -conscious legacy", start: 2533.50, end: 2544.60}
+  - {text: "and I would argue that some of these leveler arguments about equality are preserved as it were in the arguments of their critics so I'm interested in the way for instance", start: 2544.60, end: 2554.34}
+  - {text: "that Thomas Hobbes ends up offering effectively a kind of satire of this leveler understanding of equality in the state of nature you know Hobbes says okay well", start: 2554.34, end: 2563.40}
+  - {text: "if we are sort of equally lords then what we would have is a war against all of all against all in which these little lordlings try to vindicate their claims to kind of equal respect in ways", start: 2563.40, end: 2573.60}
+  - {text: "that are politically disruptive but Hobbes' own critics for instance the Earl of Clarendon also noticed the ways in which Hobbes ended up sort of taking on some of the leveler demands in his political philosophy", start: 2573.60, end: 2584.60}
+  - {text: "as well particularly the claim that once we've left the state of nature we still ought to acknowledge one another as equals by nature not insult each other", start: 2584.60, end: 2594.22}
+  - {text: "so Clarendon actually accuses Hobbes at one point of having written Leviathan in order to flatter the delight that the common people have in the word equality which in truth means nothing more than keeping on their hats", start: 2594.22, end: 2605.62}
+  - {text: "my thanks to Ted Vallance Theresa Bejan and Clare Jackson next week how William the Conqueror decided to deal with Wales after the Norman Conquest we'll be discussing the Welsh marches in front of an audience at the Hay Festival thank you for listening", start: 2607.13, end: 2624.45}
+  - {text: "and the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests OK so now we go to the podcast bit", start: 2625.05, end: 2634.99}
+  - {text: "which is where we can sort of kick back a little and be more relaxed but I have specific questions I want to ask that I've been dying to ask and Clare I want to start with you the war of the three kingdoms", start: 2634.99, end: 2647.47}
+  - {text: "is this the English Civil War or is that Anglo -centric beyond belief or is this a war of the three kingdoms what should we call this period so I absolutely believe it's the war of three kingdoms that's because", start: 2648.61, end: 2660.73}
+  - {text: "I started my career as a Scottish historian and all of my career has been interested in the interplay of events in England, Scotland and Wales I think", start: 2661.47, end: 2669.05}
+  - {text: "as a shorthand English I'm happy with English Civil Wars rather than the English Civil War I think war of the three kingdoms has become a term that's more often current in academia", start: 2669.05, end: 2678.11}
+  - {text: "and I don't think it's quite caught on but absolutely this is a single king Charles I ruling over three separate kingdoms each of which has a different confessional complexion to its neighbour", start: 2678.11, end: 2689.53}
+  - {text: "and Charles the first authority unravels first in Scotland in the late 1630s and then in Ireland and then in England and I mean different historians have characterised it in different ways Conrad Russell talked about a sort of billiard ball effect", start: 2690.13, end: 2702.75}
+  - {text: "it's just simply that it is very difficult if not impossible for Charles to solve one of these kingdoms without there being ramifications in the other", start: 2703.39, end: 2712.43}
+  - {text: "and the English become quite resentful of the constant interference of Scottish and Irish events on their politics but the English parliamentarians probably wouldn't have had such a decisive military victory without the Scots at Marston Moore", start: 2712.43, end: 2724.35}
+  - {text: "and yet the Scots also refused to accept the regicide and immediately crowned the Prince of Wales Charles II and that poses a massive security threat to the new republic", start: 2724.35, end: 2733.13}
+  - {text: "forcing Cromwell not only to have a Scottish campaign but then also an Irish campaign so this is absolutely three kingdoms great and then my next question is", start: 2733.74, end: 2743.43}
+  - {text: "what's going on in Europe at all this time and is there an interaction between the levelers and Europe in any way Theresa?", start: 2744.13, end: 2752.49}
+  - {text: "Well so I think my colleagues are probably better able to speak to the specifics of kind of what's happening in European politics but certainly we", start: 2753.23, end: 2761.27}
+  - {text: "shouldn't lose sight of the kind of transnational sort of radical Protestant kind of aspect of this so I mentioned Lilburn's initial trial before Starch Chamber in 1638 I mean he's technically put on trial for smuggling Puritan tracts out of the Netherlands", start: 2761.27, end: 2778.79}
+  - {text: "to be sold in London right so there's quite a lot of movement back and forth between radicals and a lot of the unlicensed printing is kind of going on in both places there's one particular", start: 2779.39, end: 2790.63}
+  - {text: "pamphlet that is again published in Rotterdam I think and then smuggled into London in 1649 called Teranapecret discovered and so that's Teranapecret but in this pamphlet I mean the author I think we still don't know", start: 2791.27, end: 2804.85}
+  - {text: "who it was but makes the case not only for a lot of kind of standard leveler claims but also for the claim for redistributive taxation", start: 2804.85, end: 2813.69}
+  - {text: "the idea that if we're committed to the sort of natural quality of human beings then we should be committed to eliminating extreme inequalities of wealth not just in land ownership", start: 2814.81, end: 2824.27}
+  - {text: "which I think was more authentically what the diggers were after the author of Teranapecret says no we've got to have a redistributive taxation regime which again I don't think you're going to find", start: 2824.27, end: 2835.07}
+  - {text: "that sort of argument again until probably the 20th century just come in and say that we can see that the levelers are reported on by foreign observers of the Civil War", start: 2835.07, end: 2845.31}
+  - {text: "so we do get diplomatic correspondence in French and Italian which is talking about the levelers and it's talking about their threat and their radicalism so they're certainly being noticed by international observers", start: 2845.31, end: 2858.39}
+  - {text: "as well as domestically there is an attempt to intervene in the French Civil War the frond in a way using leveler ideas the French translation of the agreement to the people is made", start: 2858.39, end: 2871.15}
+  - {text: "and the radical agitator Edward Sexby is tasked to take it to Bordeaux and sort of distribute it amongst the fronders this is the late 40s", start: 2871.15, end: 2880.09}
+  - {text: "early 50s this is the 50s 1650s by this point it doesn't seem to have really caught on in Bordeaux but there was an attempt to circulate it Theresa?", start: 2880.09, end: 2890.21}
+  - {text: "In French at the time in the late 18th century you get the new legism leveler meaning leveler so that word is sort of introduced into modern French at", start: 2890.71, end: 2898.87}
+  - {text: "that time there's an interest in the Quakers and the politics of pronouns so the abolition of the plural you is understood as be channeling this", start: 2898.87, end: 2907.09}
+  - {text: "kind of English Civil War radical religious sensibility in a demand for social violence.", start: 2907.09, end: 2912.07}
+  - {text: "Talking of Thomas Jefferson and slave owners is there an impact on abolitionism later on at all?", start: 2912.07, end: 2920.49}
+  - {text: "There is and again it's through Lillbans courtroom struggles so in Somerset's case which is this celebrated late 18th century case of the slave James Somerset", start: 2920.63, end: 2931.01}
+  - {text: "who abolitionist campaign is basically issue writ of habeas corpus to have him kind of freed from his master amusingly named Charles Stewart for our purposes in terms of thinking about the 17th century resonances", start: 2931.01, end: 2943.69}
+  - {text: "one of the kind of precedents that they use here is so called Cartwright's case and Cartwright's case is a precedent that pops up in Lillbans attempts to get compensation for his punishment by star chamber in the 1630s", start: 2945.03, end: 2961.33}
+  - {text: "and it has this famous phrase which is sort of this really resonant sort of idea that as soon as an slave person steps foot on you know English soil there are automatically kind of the shackles drop off", start: 2961.97, end: 2973.71}
+  - {text: "and in fact the case is much more limited than that it doesn't really make that kind of claim but it is something where Lillban is now being connected not only with struggles over freedom of the press but also in terms of abolitionism.", start: 2973.71, end: 2987.79}
+  - {text: "Claire I mean first of all if there's anything we've missed out you can now all say what we've missed out but can I ask you about the relationship between Lillburn", start: 2988.41, end: 2996.85}
+  - {text: "and Cromwell was there anything going on there at all I mean did they know each other?", start: 2996.85, end: 3001.57}
+  - {text: "Yes yes I mean in some ways you could see Cromwell using level of interest quite cynically at that point when the bigger enemy is the Presbyterian majority to try", start: 3002.17, end: 3016.79}
+  - {text: "and get more support for that independent view of a congregation list outcome that isn't going to sign up to something that looks like a Scots Presbyterian kind of clericy so it is very much in Cromwell's interest to engage", start: 3016.79, end: 3032.67}
+  - {text: "and preserve army discipline and there are elements of the party debates that don't speak of hostility and suppression and maybe that's where the shock of the brutal suppressions at", start: 3033.25, end: 3045.73}
+  - {text: "where and then again at Burford and places you know come into play because there is a sense of a shared exploration of ideas at Putney and", start: 3045.73, end: 3054.53}
+  - {text: "again I mean it would be very easy to be quite sort of score points on who's the most sort of radical there but you know there's a sense", start: 3055.09, end: 3063.43}
+  - {text: "that people are thinking aloud and you can see particularly in Ireland just sort of saying well I can see the argument but that's just not going to wash I mean surely to make this work", start: 3063.43, end: 3071.45}
+  - {text: "and you know I think everybody is focused on achieving a settlement that not only does justice to the amount of bloodshed that's been spilled over the past few years but that lasts", start: 3072.79, end: 3085.79}
+  - {text: "and the Regicide isn't that Do they exclude monarchy as a form of Government I mean obviously as you said Ted Charles is an evil man according to Lilburn", start: 3086.31, end: 3098.01}
+  - {text: "but do they say it's done for monarchy?", start: 3098.01, end: 3100.95}
+  - {text: "A lot of level of language is very much only really focused on the Commons I mean one of the reasons they become interested in the army is", start: 3101.19, end: 3107.19}
+  - {text: "because they won't deal with the Lords and their petitions are sort of like we really only want to deal with you and their vision of a representative sort of institution is a Commons based one", start: 3107.19, end: 3116.53}
+  - {text: "Cromwell is pretty good at speaking whatever he wants to to different audiences so he will stand up in Parliament and talk about King Lords and Commons", start: 3117.43, end: 3123.53}
+  - {text: "and then sort of say to the Army later well I mean that was in Parliament here I'm talking about a different kind of settlement we didn't talk in the programme about", start: 3123.53, end: 3131.63}
+  - {text: "the impact of the Second Civil War so just after Putney debates Charles probably tipped off probably being fed this line that the army is full of dangerous levelers", start: 3132.11, end: 3142.53}
+  - {text: "who might think of assassinating him escapes from Hampton Court and for a few days nobody knows where he is and then he turns up in the Isle of Wight", start: 3142.53, end: 3148.87}
+  - {text: "and then he makes an alliance with the Scots who by this stage disillusioned with Parliament because they didn't feel their Presbyterianism getting anywhere and the Second Civil War happens", start: 3148.87, end: 3157.65}
+  - {text: "and it is much faster much more brutal and it last through late 1647 and 1648 and that radicalises a lot of people who maybe weren't prepared to use", start: 3157.65, end: 3166.31}
+  - {text: "that language of Charles being the man of blood at Putney 12 months later absolutely will so by then Cromwell whether it's apocryphal the sort of phrase cruel necessity about their Regicide", start: 3166.31, end: 3176.73}
+  - {text: "or not by that stage there's many more people who think that is this is a man that you cannot negotiate with I would say the levelers are consistently anti -terrannical", start: 3176.73, end: 3186.43}
+  - {text: "but they're not consistently Republican and that's one of the reasons you can see them engaging in conspiracy with royalists in the 1650s to overthrow the protectorate is because", start: 3186.43, end: 3195.91}
+  - {text: "you know if they can have a monarch who's bound by the agreement of the people that's okay it's worse to have a Cromwellian tyrant in place than to have a bounded king", start: 3196.41, end: 3205.63}
+  - {text: "and I mean that I mentioned Clarendon briefly at the end but it seems that one of the reasons Clarendon is so keen to sort of tar Hobbes with the leveler brushes", start: 3205.63, end: 3213.73}
+  - {text: "because Clarendon himself had been trying to entertain a kind of royalist leveler alliance following the Regicide I mean if I could just say Ted mentioned this in the main program", start: 3213.73, end: 3223.41}
+  - {text: "but Lilburn you know he's just such a died in the wall contrarian so he just never he never defends the position that you in once once his side seems to be winning he instantly takes the other side", start: 3223.41, end: 3234.99}
+  - {text: "but sort of what's going on in the late sort of in 1649 is Lilburn is making the case that not only is the tribunal instituted to try the king illegitimate", start: 3234.99, end: 3246.31}
+  - {text: "because it's just not properly constituted but also the several royalist peers who are being put on trial by similarly special tribunals Lilburn befriends a bunch of the Mollies in the Tower of London", start: 3246.31, end: 3257.33}
+  - {text: "and begins to sort of offer them legal arguments for their case and so he makes the case that even the peers are entitled to the", start: 3257.33, end: 3265.25}
+  - {text: "same rights under Magna Carta including to a trial by a jury of their peers and so I met just a wonderful illustration of you know", start: 3265.25, end: 3273.03}
+  - {text: "Lilburn's principles leading him to sort of make friends with people you might not expect and then also just one thing Claire mentioned which I think is worth stressing so the Regicide", start: 3273.03, end: 3283.01}
+  - {text: "Charles is executed by beheading with an axe by the public executioner I mean if you look forward to the to the front revolution and again the awareness of levelling there you know we might think", start: 3283.71, end: 3296.05}
+  - {text: "partly what the Jacobins are trying to do is have this idea of levelling up in the sense that even commoners ought to enjoy the privilege of being executed by beheading which is how aristocrats had traditionally been executed", start: 3296.71, end: 3310.19}
+  - {text: "so again it's kind of me day so sometimes the egalitarianism doesn't cash out in the way that maybe we expect it to but if you look at the details you can see that no they're pretty consistent I did find it extraordinary reading about the Levellers that", start: 3311.07, end: 3327.68}
+  - {text: "how much they anticipate movements which are 70 -100 years later I kept thinking of Canton the idea of universalism and universal rights which you know at the time appeared to be revolutionary when Kant starts articulating this but actually", start: 3328.42, end: 3346.06}
+  - {text: "the Levellers already said all of this I mean I just I don't think it can be stressed enough right you know intellectual historians and political theorists wanting to think that philosophers drive the bus I mean Kant was not driving the bus yeah", start: 3346.92, end: 3359.70}
+  - {text: "a lot of people got there first do you want some tea?", start: 3360.74, end: 3364.48}
+  - {text: "here comes Martha I'd love a tea please tea please, tea in our time with Misha Glenny was produced by Martha Owen it's a BBC Studios production for Radio 4", start: 3365.20, end: 3378.68}
+  - {text: "if you've got a scrolling problem then this is the podcast for you it's called Top Comet with me Matt Shea and me Marianna Spring we both investigate social media for a living whether it's disinformation,", start: 3378.68, end: 3388.46}
+  - {text: "conspiracy theories internet culture, memes we're going to be getting behind the stuff that is popping up on your feed on this podcast that's Top Comet on BBC Sounds", start: 3388.84, end: 3398.38}
+---

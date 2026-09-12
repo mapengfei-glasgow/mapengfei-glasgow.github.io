@@ -1,0 +1,396 @@
+---
+layout: single
+title: "Seashells"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-07-30T00:00:00Z
+slug: "2026-07-30-seashells"
+audioDir: "2026-07-30-seashells"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-07-30-seashells/episode.mp3"
+totalDuration: 3289.1
+sentences:
+  - {text: "BBC Sounds music radio podcasts.", start: 1.10, end: 4.26}
+  - {text: "I know that my son is somewhere alive This is Deborah Tice her son Austin is one of the biggest missing person cases in the world He disappeared in Syria more than a decade ago", start: 7.15, end: 19.61}
+  - {text: "and for years I've been searching for him We've spoken to spies tracked down wall criminals and uncovered evidence that has never been made public I want to know about my son.", start: 19.61, end: 30.57}
+  - {text: "Where is Austin Tice?", start: 30.91, end: 32.29}
+  - {text: "Listen on BBC Sounds Hi, this is Misha Glennie Episodes of In Our Time are released weekly wherever you get your podcasts But if you can't wait head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else", start: 32.83, end: 51.15}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes You can find in the In Our Time archive a", start: 51.69, end: 61.05}
+  - {text: "Reading list for this edition can be found in the episode description Wherever you're listening.", start: 61.61, end: 66.33}
+  - {text: "I hope you enjoy the program Hello Botticelli's Venus emerging from a giant scallop shell Vishnu's sacred horn Panchajanya The Aztec god Ketzel Kruatl's talisman cut", start: 66.77, end: 81.86}
+  - {text: "from a conch shell Seashells appear in the mythologies of countless cultures The urge to collect shells seems to be as old as our species We've used them as decoration currency musical instruments", start: 81.86, end: 95.74}
+  - {text: "But shells aren't just beautiful objects washed up on our beaches Many belong to one of the most diverse groups of the animal kingdom growing remarkable shapes patterns and structures Which tell us about the earth's oceans past present and future", start: 96.28, end: 112.92}
+  - {text: "With me to discuss seashells are Suzanne Williams merit researcher at the Natural History Museum Liz Harper professor of evolutionary Malacology in the Department of Earth Sciences and fellow at Gonville and Keys College University of Cambridge and Helen scales marine biologist and author", start: 113.75, end: 134.03}
+  - {text: "Helen I'm going to come to you first the word seashells is not really a scientific term is it?", start: 134.59, end: 140.27}
+  - {text: "So what are we talking about when we say seashells?", start: 140.27, end: 143.47}
+  - {text: "Well in my mind when we say seashells We're talking about things that are made by a group of really diverse abundant Marine animals that are called mollusks.", start: 143.67, end: 155.31}
+  - {text: "That's the big group name for them is mollusks They're invertebrates, so they have no bones They're they're soft squishy things, but they tend to many of them live Inside they create a hard outer layer", start: 155.41, end: 168.39}
+  - {text: "and exoskeleton and that is that is the seashell It can serve lots of different purposes and first and foremost really it's their home for many of them It's a portable home.", start: 168.39, end: 178.29}
+  - {text: "They can carry it around with them when they move Many of them even have a front door which they can slam shut to keep predators out", start: 178.35, end: 185.67}
+  - {text: "and to keep water in there as well If they're the kind of mollusk that lives on the shoreline and perhaps has to put up with", start: 185.67, end: 191.39}
+  - {text: "the tide going out These mollusks they they live all through the ocean.", start: 191.39, end: 195.55}
+  - {text: "They are incredibly cosmopolitan everywhere from the deepest seas Extreme environments like hydrothermal vents.", start: 195.71, end: 201.75}
+  - {text: "They they swim through the water column.", start: 201.97, end: 203.75}
+  - {text: "They occupy the shoreline Those are the ones I think we know the best really because those are the shells that tend to wash up most easily on beaches", start: 203.89, end: 210.99}
+  - {text: "and then some of them made it into fresh water some came out onto land Those are the the slugs and snails slugs have lost their shells", start: 210.99, end: 217.61}
+  - {text: "But the snails that eat your vegetables and your flowers in your garden You know their ancestors were where mollusks that lived in the sea they", start: 217.61, end: 225.29}
+  - {text: "live in forests They live at the top of mountains I think the only thing mollusks that make shells that they haven't done the only thing they haven't done is is learn to fly Pretty much everything else.", start: 225.29, end: 234.41}
+  - {text: "So how have we humans used shells throughout history?", start: 234.47, end: 238.43}
+  - {text: "What's really incredible to me is just how deeply and and globally seashells have been this really important part of human lives and they've woven themselves into cultures", start: 238.89, end: 250.11}
+  - {text: "For millennia for countless millennia and some of that is that there's a practicality to it You know, we get a lot of food people have eaten mollusks clams", start: 251.43, end: 260.95}
+  - {text: "Winkles all sorts of things like that muscles exactly oysters for you know for a long long time They've been important food and we know about", start: 262.55, end: 269.39}
+  - {text: "that often because the shells are what are left behind And we get great big middens of those and they fossilize well And so we can look", start: 269.39, end: 275.57}
+  - {text: "and see what people were eating in the past and often the shells themselves are materials They can be made into tools knives choppers Scoops for getting water out of canoes bailing out canoes", start: 275.57, end: 287.05}
+  - {text: "that sort of thing But then there's this whole other side to shells which goes even deeper into Humanity really which is the symbolism and the the fact that people all around the world have found Seashells or have been given them perhaps from somewhere far away", start: 287.05, end: 302.27}
+  - {text: "And have instilled in them great meanings of all sorts of kinds, you know Often it's symbolisms of birth or death Possibly linked to their white color a lot of shells have this white skeleton", start: 302.81, end: 313.27}
+  - {text: "And that is a color that's very representative of both of those things Also, I think because they come from this hidden part of our planet They come from down beneath the waves which is full of Myths and monsters and creatures and things we're imagining and possibly,", start: 313.97, end: 328.63}
+  - {text: "you know, they come with those stories too So we see them woven into human lives as grave goods.", start: 329.09, end: 334.47}
+  - {text: "We see them buried with people going back again millennia They're used as currency.", start: 334.57, end: 339.37}
+  - {text: "They're used as the oldest forms of jewelry We've found and we keep finding older and older ones and pushing that date back, you know more than up to I think at the moment about 150 000 years as the oldest shell jewelry So they've been with us,", start: 339.51, end: 352.11}
+  - {text: "you know, and they've shown Us now about what humanity has been like for for, you know for countless generations They've they've always been with us and we've always been imagining", start: 352.27, end: 361.61}
+  - {text: "Things that they symbolize and that they, you know, they tell us Liz Harper, let's get back to the mollusks themselves.", start: 362.37, end: 368.67}
+  - {text: "How and why did they start to evolve these shells?", start: 369.05, end: 372.43}
+  - {text: "Well, that's a very interesting question We don't really know to be much about the very earliest shells because we're dependent on the fossil record So there's been life on earth over three", start: 373.82, end: 384.60}
+  - {text: "and a half billion years But the first said proper shells start about 540 or so million years ago during this grand Cambrian explosion So that's when we see our first mollusks Everything before that had soft bodies,", start: 384.60, end: 398.82}
+  - {text: "so they don't preserve very well So this is a sense that we've almost missed the first shells because they don't fossilize because they're probably very fragile", start: 398.82, end: 408.26}
+  - {text: "and thin or Maybe actually they've cheated making them out of particles rather than laying down a shell But we know that when they do start", start: 408.26, end: 416.38}
+  - {text: "That's the start of a sort of massive exposure not just for The rest of animal life, but the mollusks themselves actually diversify And become more and more abundant from that time So the big question really is well, why do they start?", start: 416.98, end: 431.40}
+  - {text: "Helen's mentioned many of the different uses these organisms make For their shell.", start: 431.62, end: 437.58}
+  - {text: "It's it's somewhere safe to live Whether that's the first reason for having one is difficulty test But it's clear that it is a form of armor both from if you like", start: 437.80, end: 450.72}
+  - {text: "Storms and what have you but most attractive to most people like me is predation And at that time you do see the first evidence of predatory groups", start: 451.40, end: 461.34}
+  - {text: "And the first evidence that predation is happening to these shells So it's a popular idea at any rate if maybe not the initial idea of having a shell", start: 461.34, end: 470.50}
+  - {text: "But very soon afterwards became co -opted to being useful in that way So and what actually is a shell physically?", start: 471.00, end: 478.90}
+  - {text: "What makes it up and and how do you develop one if you're a mollusk?", start: 479.30, end: 483.48}
+  - {text: "So shells of mollusks are made of calcium carbonate and on the face of that that's really good material You can get it straight from the seawater from dissolved calcium", start: 483.72, end: 493.68}
+  - {text: "And carbonate which comes from dissolved carbon dioxide from the atmosphere So very easy building blocks But it turns out actually that those minerals are pretty rubbish things to make armor out of so it's very weak", start: 494.32, end: 508.08}
+  - {text: "It's very soft and it has a very bad habit of dissolving in acidic waters So it seems like a really unpromising stuff But the mollusks actually are much more ingenious than just laying down", start: 508.60, end: 520.90}
+  - {text: "that mineral So it's a biocomposite they make so the vast majority of it is calcium carbonate But it's got a small proportion of organic material in it That is magic and it transforms the properties of this rather rubbish shell material", start: 520.90, end: 537.36}
+  - {text: "And it they just just to be clear they process the calcium and the carbon together And then introduce the organics.", start: 538.20, end: 549.00}
+  - {text: "Yes, and they are usually laying down that those organics in the first place And that then controls and Helps the calcium carbonate lay down in particular orientations and morphology.", start: 549.12, end: 562.28}
+  - {text: "They they have the most beautiful intricate Microstructures which have various properties that the mollusks then use to their advantage Um, but that that laying down", start: 562.32, end: 574.08}
+  - {text: "the calcium carbonate is Goes on below an organic sheet a thing called the periostricum That perhaps we might talk about again But that organic layer", start: 574.08, end: 583.66}
+  - {text: "on the outside of the shell is is the first bit of the shell to be laid down And it that's the template onto which this magic biocomposite can then be laid", start: 583.66, end: 592.66}
+  - {text: "and controlled So it's very highly controlled by the animal.", start: 592.66, end: 595.30}
+  - {text: "It's not it's not something that happens by accident And we can see the organic layer on on top.", start: 595.34, end: 602.12}
+  - {text: "Yes, absolutely. Well for many So it varies quite a lot So things like a muscle if you think about seeing a muscle on the seashore It very often has a a thin brown layer on the outside that eventually wears off", start: 602.52, end: 616.10}
+  - {text: "That might be several tens maybe several hundreds of microns thick Um, whereas things like oysters and scallops.", start: 616.54, end: 623.78}
+  - {text: "It's very difficult to see that layer.", start: 623.82, end: 625.84}
+  - {text: "It's it's tiny Suzanne Williams, um Can you tell us about the differences between the different classes of mollusks and their respective shells?", start: 625.98, end: 635.34}
+  - {text: "Yeah, uh, the phylum mollusker It is the second largest phylum of animals the largest of the arthropods with insects and crustaceans But mollusks have about 89 000 Validly named extant species so living not fossil species", start: 636.06, end: 651.48}
+  - {text: "And of these the phylum is divided up into seven classes and of these the absolute largest by far and away are the gastropods And this group are your typical slugs and snails that you see in your garden", start: 652.50, end: 664.08}
+  - {text: "They account for about 76 000 validly named species.", start: 665.34, end: 669.02}
+  - {text: "So this really is by far the biggest group They live in the sea where they're most common, but they're also found in fresh water and on land", start: 669.12, end: 676.50}
+  - {text: "And many of them have shells you have some that don't so you have garden slugs and you also have nudie branks Which are beautiful colorful marine slugs", start: 677.26, end: 685.16}
+  - {text: "And but these ones produce the sorts of shells that we typically think of as seashells.", start: 686.14, end: 690.98}
+  - {text: "So you get turban shaped cells Top shells spindles limpets all of those are gastropods The next biggest group are the bivalves and there's about 10 000 species in this group And this group are found in fresh water and the sea but not on land", start: 691.04, end: 706.76}
+  - {text: "And they have two shells and they're joined together by a hinge.", start: 707.42, end: 711.12}
+  - {text: "So they're by valves two valves And they mostly live in sediments.", start: 711.50, end: 716.94}
+  - {text: "They they burrow or burrow into rocks Those two groups really account for most of your seashells You're gonna find you might find if you're very lucky Maybe a nautilus shell", start: 717.24, end: 726.68}
+  - {text: "which belongs to the class keflopoda Which includes octopus squid and cuttlefish that don't have true shells The only one in that group that does is the nautilus,", start: 726.68, end: 735.58}
+  - {text: "which is a small group of about six or seven species And they have a chambered shell that floats So although the species is found offshore in deep waters, the shells will occasionally wash up or get caught in fishermen's nets", start: 735.62, end: 746.44}
+  - {text: "Then you have tusk shells the the scaphopods scaphopoda these are little tiny ones that Are shaped like horns and they're open at both ends and they're quite fragile But you do see them sometimes washed up in large numbers There's the polyplacophora, which are the chitons.", start: 747.51, end: 763.73}
+  - {text: "We'll talk about and we're gonna talk more about this later on because they really are fascinating But um, uh, tell us also about the function of of color Color", start: 763.85, end: 774.95}
+  - {text: "and mollusks is a as a fascinating subject.", start: 774.95, end: 778.29}
+  - {text: "I didn't know up until Quite recently, but it really is extraordinary.", start: 778.55, end: 782.57}
+  - {text: "It is amazing One of the things that I think is really interesting is that we We think of color as being something related to an object, but it's not an inherent property of an object", start: 782.85, end: 794.97}
+  - {text: "And this was something it took me a long time to get my head around But it's actually the interaction between an observer who has an image forming eye", start: 795.59, end: 803.73}
+  - {text: "And a brain capable of processing the data and light reflecting off an object So this leads to the really strange idea that we all call this red", start: 804.29, end: 813.51}
+  - {text: "But we will never know exactly what someone else is seeing So the way we we process data is unique to us and the same is true for animals", start: 814.05, end: 821.59}
+  - {text: "So colors in the natural world either come from pigments, which are chemicals that either absorb some wavelengths of light and reflect others Most colors that we see in shells are coming from pigments", start: 822.15, end: 833.41}
+  - {text: "But then you can also get color coming from structural color and structural color is due to A small repeating nanostructures that interfere with light So some light gets transmitted and some wavelengths get Reflected, but they also get amplified.", start: 834.13, end: 850.43}
+  - {text: "So these colors can be really vibrant and really colorful And you can also get iridescent color so that this changes with the angle of viewing", start: 850.43, end: 858.09}
+  - {text: "And one of the best examples of this is actually blue bird feathers.", start: 858.71, end: 861.79}
+  - {text: "There are no blue bird feather pigments All blue bird feather color is due to structural color So if you could grind a feather up a blue feather up", start: 861.81, end: 870.81}
+  - {text: "as small as you can enough to destroy these nanostructures You will never get blue dust because there's nanostructures aren't colored And maybe we'll talk also about what the function of colors are in shelves a little later on as well", start: 870.81, end: 882.81}
+  - {text: "Thank you Suzanne Helen Scales Lots of us will be thinking of things like ammonites and those swirling spirals What is that shape the the spiral?", start: 883.45, end: 894.17}
+  - {text: "Why does it crop up so often in shells?", start: 894.39, end: 896.25}
+  - {text: "It's a lovely shape, isn't it?", start: 896.25, end: 897.83}
+  - {text: "I did bring some shells with me.", start: 898.07, end: 899.73}
+  - {text: "I've got a moonshell here But if you grab and you know look at a garden snail or find a shell in your house somewhere And if you look at it from the top you can often see that a snail shell has got this lovely spiral", start: 899.79, end: 909.75}
+  - {text: "And it's Mathematically it's what we call a logarithmic spiral and all that is really if you imagine Drawing that spiral shape in a two -dimensional plane start with your pen in the middle", start: 910.35, end: 919.91}
+  - {text: "And sort of spin it outwards around that central axis a log spiral is getting bigger Each time you spin around one time So it's getting bigger at a constant rate and that's really a just I guess a phenomenon of how", start: 919.91, end: 933.07}
+  - {text: "Many things in nature are are built things that are spinning around a spot But getting bigger at the same time So whether that's a shell or whether that's the the arms of an expanding galaxy or the seeds in a sunflower", start: 933.57, end: 945.39}
+  - {text: "Or a moth flying towards a candle towards its doom We see this sort of shape come up again and again and I guess it is just", start: 946.03, end: 952.15}
+  - {text: "that kind of fundamental This is what happens.", start: 952.15, end: 954.69}
+  - {text: "Is there some I mean, is it particularly efficient?", start: 954.91, end: 957.17}
+  - {text: "Is it there must be something in the process of how shell How mollusks make their shells Which they do throughout their lives actually, I guess that's an important point which is Unlike say crabs or lobsters which have also got these hard outer", start: 957.49, end: 970.27}
+  - {text: "Layers they molt them and they get rid of them grow a new bigger one And that's how their bodies grow bigger whereas mollusks keep the same shell their whole lives the tiny", start: 971.03, end: 978.33}
+  - {text: "central piece the middle of that spiral is the shell it had when it was a baby And then it just kept making it bigger and bigger", start: 978.87, end: 984.67}
+  - {text: "and expanding that open end the circle If you like that's the open hole of a shell a snail shell is where it grows from and it just keeps getting bigger And I guess it is just that sort of", start: 984.67, end: 993.63}
+  - {text: "Rate of expansion keeps going and you and voila you get a spiral because we're talking about spirals This might be the place to introduce poor Jeremy", start: 994.23, end: 1001.97}
+  - {text: "The very lonely snail Um, why was Jeremy a lonely snail?", start: 1002.63, end: 1006.99}
+  - {text: "Who was he and what happened to Jeremy?", start: 1007.29, end: 1009.41}
+  - {text: "I think um Was very rare Because the thing is if you grab a shell and have a look at it look at the next time you find a gardens Now have a look what way is", start: 1009.73, end: 1018.49}
+  - {text: "that spiral turning look at it from the top again?", start: 1018.49, end: 1020.61}
+  - {text: "Is it going clockwise or anti -clockwise most mollusk most gastropod shells are Clockwise turning they are right turning shells, but you get Occasional rarities like Jeremy who spin towards the left So he was a lefty", start: 1020.91, end: 1034.83}
+  - {text: "And the problem that comes with this is that it isn't just the shell that is spiraling in a certain direction And the rest of the body is also asymmetrical and crucially the sexual organs are also offset Um,", start: 1035.43, end: 1047.49}
+  - {text: "and certainly garden snails reproduce face to face And so um, I like to think of it might the analogy I give is if you try to shake someone's hand", start: 1047.59, end: 1054.81}
+  - {text: "And you both put out the same hand on the same side doesn't tend to work Obviously you've got to you've got to match so poor old Jeremy needed a mate Um,", start: 1054.81, end: 1062.43}
+  - {text: "who was also a left spinning garden snail and and a campaign went out This is about 10 years ago now.", start: 1062.53, end: 1067.43}
+  - {text: "We went back on the today program The call went out for another left spinning garden snails and they found quite a few And um, and they were sent to the University of Nottingham", start: 1067.73, end: 1077.23}
+  - {text: "where research was being done on Jeremy And I gather although he he he died soon after he he did witness the birth of his offspring There were some offspring um,", start: 1077.23, end: 1085.65}
+  - {text: "and actually this research has carried on and the people who've been looking into this Are continuing to explore this idea of this left spiraling rarity", start: 1085.71, end: 1092.41}
+  - {text: "and they have discovered they think that it's it's Seems to really be an accident early on in the development of the shell That something happened in the first few divisions of the embryo of the mollusk", start: 1092.41, end: 1103.05}
+  - {text: "when it's really tiny That kind of sets it off in the other direction and then once you get going they keep they keep going that way", start: 1103.05, end: 1108.91}
+  - {text: "There's not a story that we won't cover on women's hour.", start: 1110.74, end: 1113.48}
+  - {text: "It's basically why is this relevant and important to women I get to speak to some incredible women.", start: 1113.50, end: 1120.18}
+  - {text: "I get to hear their stories I get to laugh and cry along with them people trust the conversations that take place I think they know that they're going to get something that's a little bit different I think I have one of the best jobs in broadcasting", start: 1120.44, end: 1133.06}
+  - {text: "Woman's hour listen on BBC sounds Liz Harper, can you tell us about mother of pearl?", start: 1133.68, end: 1141.66}
+  - {text: "And why it's so beautiful and why some shells have it?", start: 1142.58, end: 1146.88}
+  - {text: "One so mother of pearl is technically called nacre and it is one of the very earliest Types of shell structure that the mollusks use and you find it across almost all of those classes that Suzanne talked about so it's a really very important structure", start: 1147.50, end: 1163.78}
+  - {text: "It shows that beautiful iridescence because it's actually built of repeated Tiny tiny layers of a calcium carbonate Mineral cord arachnide and they're about half a micron or so thick.", start: 1164.46, end: 1178.78}
+  - {text: "They're nice hexagonal They're I don't know often about sort of 10 15 microns across and each shell is built of lots and lots of these on top of one another", start: 1178.92, end: 1187.66}
+  - {text: "And it produces this great iridescence probably for some reason that was explained to me in O level physics that I I missed So it scatters the light in some way", start: 1188.30, end: 1197.34}
+  - {text: "It's tremendously important material as far as the mollusks are concerned because it is actually really very very tough So actually if you think about trying to break Something that's made of lots", start: 1198.00, end: 1208.86}
+  - {text: "and lots of repeating tablets Then you either have to break each of those tablets in turn or the crack has to skip around them And", start: 1208.86, end: 1216.50}
+  - {text: "that basically sort of dissipates a lot of cracks that the fish or the crabs may be inflecting on your shell.", start: 1216.50, end: 1223.22}
+  - {text: "So I don't think they have that nacre For the themselves for color to demonstrate is usually covered up by other shell layers or this magic organic layer on the outside", start: 1223.42, end: 1233.96}
+  - {text: "So it's almost certainly a structural thing that they're using But what's really interesting about that microstructure?", start: 1234.68, end: 1242.48}
+  - {text: "So it's a really interesting thing that lots of Material scientists are very interested in how could we replicate what is actually a very low density", start: 1242.72, end: 1250.14}
+  - {text: "But very tough material for things that we might want as humans But interestingly if you look at the mollusks as a whole Then actually fewer and fewer groups through time Are using that wonder microstructure.", start: 1250.14, end: 1263.86}
+  - {text: "They're using different microstructures And so it's really fascinating to think about why why do you get rid of it?", start: 1263.94, end: 1269.72}
+  - {text: "Why would they discard something so useful as nacre mother of pearl?", start: 1269.72, end: 1275.54}
+  - {text: "Well, there's not a good answer to that or there's not a definite answer to that But one of the things I talked about organic material being important making making the mineral work better in a shell", start: 1276.02, end: 1287.22}
+  - {text: "Nacre has a lot of organic material in it and it's probably that that that helps make it tough and a bit elastic But we think", start: 1287.80, end: 1296.14}
+  - {text: "that it's that organic component of a shell.", start: 1296.14, end: 1298.26}
+  - {text: "That's really very expensive Metabolically for the animals to produce And it's entirely possible that actually it's just the much easier to make a thicker Cheaper shell which will do the job better", start: 1298.42, end: 1314.00}
+  - {text: "And cheaper than laying this stuff down But it's really interesting because all the different groups you'll most of the different groups use it and they've they've all sequentially", start: 1314.58, end: 1322.12}
+  - {text: "Sort of lost it in large numbers Thank you.", start: 1322.90, end: 1325.80}
+  - {text: "Liz um susanne back to color which we were talking about before um Why Do they produce these magnificent different colors shapes structures and and so on but in particular colors?", start: 1325.82, end: 1341.24}
+  - {text: "Oh, yes, it's amazing that the mollusks are so colorful and so diverse but um Color can serve different functions.", start: 1342.29, end: 1349.55}
+  - {text: "It can serve visual roles and non visual roles So Liz has listed one non visual role for iridescence that is mechanical strengthening The same is true for some pigments.", start: 1349.67, end: 1358.79}
+  - {text: "So there are some very fragile jingle shells bivalves that have carotenoid pigments and they increase the the strength and elasticity of shells And color can also help with temperature control", start: 1359.09, end: 1371.11}
+  - {text: "and thermoregulation So there's a flat periwinkle and the yellow morphs survive higher temperatures better than dark morphs Uh, the pigments have also been implicated in things like uh wound healing", start: 1371.11, end: 1382.47}
+  - {text: "antimicrobial protection protection from ultraviolet radiation There's a lot of non visual roles it can serve But there's also a lot of visual roles and visual roles can be aimed at predators.", start: 1383.01, end: 1393.57}
+  - {text: "They're often aimed at predators And uh, these include things like camouflage.", start: 1394.19, end: 1398.11}
+  - {text: "So we have some shells like the the emerald narrite That's a beautiful green and matches the seagrass that lives on You also have some where they're actually trying to warn off the predators", start: 1398.19, end: 1408.77}
+  - {text: "There are no good reports of studies where they've shown this in shells But the cone shells are very venomous and they have very vivid markings", start: 1409.33, end: 1418.33}
+  - {text: "So it's possible that those are acting as a warning what the shells themselves or the mollusks inside the shells themselves in this case so, um It's possible that that's trying, you know warning octopus and other fish and other things to stay away", start: 1418.33, end: 1430.63}
+  - {text: "Uh, we also have things that mimic other things.", start: 1431.35, end: 1433.53}
+  - {text: "So there are some shells that look like the hydroids They're sitting on there's a limpet in the intertidal region where a lichen eats away the top of the shell", start: 1433.53, end: 1441.69}
+  - {text: "Down to through the first shell layers reveals some color underneath and makes it look like the open mouth of a barnacle And the limpet lives next to barnacles", start: 1442.23, end: 1450.95}
+  - {text: "And it's a really good hiding spot because the predators don't like removing the barnacles They're hard work to get off whereas the limpets are easy.", start: 1450.95, end: 1457.27}
+  - {text: "So by pretending to be a barnacle, they're they're avoiding being eaten But their colors themselves are much less likely to be used for intraspecific signaling So we mean amongst mollusks themselves.", start: 1457.49, end: 1468.87}
+  - {text: "Yeah, so there's amazing examples of kephalopods There's a lovely video of a Squid that has put different colors on both sides of its mantle split", start: 1469.27, end: 1476.87}
+  - {text: "right down the middle It's showing an attractive color to a female on one side and a go away color to a Competing competing male on the other side", start: 1476.87, end: 1484.43}
+  - {text: "But for shelled mollusks that the general opinion is they don't see colors And for most species we've tested they've got poor vision, but there are a few Exceptions hold it.", start: 1484.43, end: 1494.15}
+  - {text: "How do we know that mollusks have poor vision?", start: 1494.17, end: 1497.67}
+  - {text: "How do you go about Studying whether a sea snail can see well or not?", start: 1497.85, end: 1502.47}
+  - {text: "Well, it's really interesting.", start: 1502.75, end: 1504.57}
+  - {text: "There's lots of different ways So for humans and mammals and birds you can dissect an eye and find that there are two different types of cells There's cone cells and rod cells", start: 1504.95, end: 1514.23}
+  - {text: "The rod cells help you see in dim light Cone cells are what you use to see color And different types of cone cells have different photo pigments", start: 1514.75, end: 1522.61}
+  - {text: "And you need more than one photo pigment to be able to detect different colors Humans have three different photo pigments Some animals have more and can see more colors than we can Some animals see less", start: 1522.61, end: 1534.91}
+  - {text: "so dogs and cats only have two photo pigments and their world isn't as colorful as ours There've been tests on things like octopus and they've been shown to only have one photo pigment So we know that they can't see in color", start: 1534.91, end: 1546.35}
+  - {text: "But invertebrates don't have rods and cones so we can't look for those but you can tell in different ways You can still look at the anatomy of the eye and work out their spatial acuity", start: 1546.99, end: 1556.67}
+  - {text: "But to work out whether they see color or not you have to do different tests So if you do it genetically you can identify the proteins involved", start: 1557.25, end: 1563.89}
+  - {text: "But that is that doesn't always tell you if they see in color, but it can tell you if they don't see in color The best way is behavioral studies Well, it's quite extraordinary And Helen we've learned about the colors.", start: 1564.53, end: 1577.49}
+  - {text: "What about the the patterns?", start: 1577.83, end: 1579.61}
+  - {text: "Is there any rhyme or reason behind the patterns on?", start: 1580.03, end: 1583.29}
+  - {text: "As far as I know This is one of the big puzzles of mollusks that we don't really have a very good Explanation for some of", start: 1583.45, end: 1590.71}
+  - {text: "the patterns for instance I do have again I have a cone shell with me and the patterns on this one are lots of repeated triangles a sort of dog tooth Pattern you can have a look at it if you like It's good and dead don't worry.", start: 1590.71, end: 1602.17}
+  - {text: "It's not not got any any poison in it And anyway, this is Anne said possibly they're trying to say I'm really dangerous But the thing about cone shells there's about 800 species", start: 1602.19, end: 1610.75}
+  - {text: "and they have got incredible variety in the patterns on their shells They are a collectors favorite.", start: 1610.75, end: 1616.33}
+  - {text: "They have been for for ages.", start: 1616.43, end: 1618.19}
+  - {text: "People have always wanted You know these beautiful shells that can be much bigger than this one's only sort of thumb -sized But they can have stripes", start: 1618.49, end: 1625.89}
+  - {text: "and spots and and zigzags and all sorts of things going on and these yeah They're nocturnal species.", start: 1625.89, end: 1631.03}
+  - {text: "They generally live in the seabed during the day So it's the question also is what's going to see these things at all And and it is a big puzzle firstly How do they make these patterns", start: 1631.21, end: 1641.63}
+  - {text: "and that's something that people have looked into and there've been various theories and Kind of computer models that have looked at how you might create patterns like that possibly through the combination of Different chemicals, maybe hormones sort of diffusing through the tissue that makes the shell", start: 1641.63, end: 1656.63}
+  - {text: "Or possibly it's under neural control There could be nerves that are bouncing off each other sort of switching on and switching off pigment production I", start: 1657.31, end: 1663.97}
+  - {text: "should say the patterns are being made a bit like an inkjet printer for the most part As the shell is being made in that on", start: 1663.97, end: 1670.15}
+  - {text: "that open edge The newest bit of the shell a line of pigment can be laid down at the same time So, you know you get", start: 1670.15, end: 1676.21}
+  - {text: "a line of ink on a print inkjet printer The next line adds up and up and you get a picture at the end of it", start: 1676.21, end: 1680.97}
+  - {text: "So so that's essentially for the most part what mollusks are doing.", start: 1680.97, end: 1684.05}
+  - {text: "Yeah, and so there's theories Yeah, it could be that natural selection has just been let off the hook and it's just running wild There's no reason to it", start: 1684.35, end: 1691.23}
+  - {text: "But one theory I do quite like and again I don't know if we've got any proof that this is the case, but it's a possibility", start: 1691.23, end: 1697.47}
+  - {text: "Is that actually these are They're essentially the mollusk writing down notes to itself To remind itself where it left off the last time it was making more shell", start: 1698.19, end: 1708.61}
+  - {text: "because not all mollusks are constantly making shells That they are kind of doing it seasonally when the temperature is is favourable when there's food around", start: 1708.61, end: 1716.43}
+  - {text: "And there will be kind of stop starts in that production And as you can imagine we've talked about these intricate spirals and the shapes as you know other shapes", start: 1716.43, end: 1724.13}
+  - {text: "as well that mollusks grow Their shells into you need to know where you left off otherwise.", start: 1724.13, end: 1728.11}
+  - {text: "It's just going to become an absolute mess So there is some hint I think that that maybe the pigments are somehow they can be sensed by the mollusk They can sort of almost taste perhaps", start: 1728.23, end: 1737.07}
+  - {text: "where they were before line themselves up and carry on making more shell And before we leave vision and eyes susanne Tell us about chitons.", start: 1737.07, end: 1747.75}
+  - {text: "We mentioned them before what are we this is truly weird Yeah mollusks have the most amazing diversity of eyes of any group in the animal kingdom, but Chitons might be the weirdest.", start: 1747.83, end: 1758.55}
+  - {text: "So chitons are the little They're they're a long oval shape.", start: 1758.65, end: 1763.11}
+  - {text: "They have eight interlocking flat plates and a strong Muscular girdle that holds them together and they clamp down tight on rocks and they live mostly in the intertidal or shallow waters", start: 1763.23, end: 1772.73}
+  - {text: "They have little networks of tunnels through their shells Then they have lots of sensory organs that that pierce through these shells But some species actually have eyes in their shells.", start: 1773.43, end: 1784.73}
+  - {text: "So these sensory networks include eyes So the same material that is used to make the shell is used to make the eyes So some of the eyes actually rub off", start: 1784.85, end: 1794.53}
+  - {text: "and are braided against rocks And they grow new ones as their shells grow and the new eyes are bigger than the old eyes Um, Liz We're going to talk about a different animal now the hermit crab", start: 1794.53, end: 1807.25}
+  - {text: "Now the hermit crab, of course, we all know lives in other animals shells Can you tell us a bit about what happens when hermit crabs grow?", start: 1807.88, end: 1818.10}
+  - {text: "Because presumably they outgrow their shells their homes or in that case they have to find a new shell And and so that's it was a game back to the kind of economics we were talking about beforehand There's an economics involved in hermit crabs and houses", start: 1818.76, end: 1832.46}
+  - {text: "So they fight over shells But they sort of fight over shells queue up to take other people's shell over crab shells So it's you know,", start: 1833.14, end: 1842.06}
+  - {text: "they need the shell because actually they're not crabs in a way the you know The true crabs are that you're probably more familiar with they much closer related I think to squat lobsters", start: 1842.06, end: 1851.00}
+  - {text: "and things like that and they've actually avoid they've cheated It's economics again.", start: 1851.00, end: 1854.54}
+  - {text: "They've cheated from making a nice Hard carapace of their own Which costs a lot of energy by using the Dead shell of a snail, but in", start: 1854.60, end: 1866.02}
+  - {text: "that case they absolutely if they're going to grow They need a new shell to move into because they have a sort of slightly pathetically mineralized shell of their own", start: 1866.02, end: 1875.20}
+  - {text: "And they won't last past their own predators.", start: 1875.20, end: 1877.70}
+  - {text: "So yeah, it's a really important economic Moment from a for a hermit crab is the shell big enough to move into Helen can you describe what what happens when they all collectively?", start: 1877.82, end: 1889.06}
+  - {text: "Absolutely? I mean, I should just also say if you ever see A hermit crab if you're snorkeling and you ever happen to see one do", start: 1889.40, end: 1895.20}
+  - {text: "hang around You might watch it trying to sort of try on another shell and seeing them pull their naked bottoms out of their shells It's quite something.", start: 1895.20, end: 1901.84}
+  - {text: "It's really odd. I think the most interesting Well, the kind of the most wonderful picture in my mind of what hermit crabs get up to", start: 1901.96, end: 1909.12}
+  - {text: "or the hermit crabs that Let's you live on on land and so for them Uh, the supply of shells is even harder to come by", start: 1909.12, end: 1915.36}
+  - {text: "and they scuttle down the beaches to see what they can find in the in the Flotsam and Jetsam and what will happen if a big shell shows up a big empty shell that looks like it might be good", start: 1915.36, end: 1922.76}
+  - {text: "Hermit crab will come along take a look at it size it up if it's too big for them at that point They'll actually just sit next to it", start: 1923.22, end: 1929.06}
+  - {text: "and wait for up to a 24 hours.", start: 1929.06, end: 1931.32}
+  - {text: "They will sit and wait And then probably other hermit crabs will wander along and take a look and they might also think It's a bit big for me too,", start: 1931.34, end: 1938.12}
+  - {text: "but I'll hang around and you kind of get a spontaneous hermit crab party breaking out But then they're very ordered and very very careful about what they do and", start: 1938.14, end: 1946.32}
+  - {text: "Around this large shell you'll get lines of hermits sort of in size order one next to the other next to the other Because they're looking at each other They're feeling each other shells up figuring out who's the biggest who's the smallest", start: 1946.88, end: 1956.74}
+  - {text: "And then the biggest ones at the top will be fighting over the empty shell figuring out who's going to get it The smaller crabs down the end of the lines are behaving like supermarket shoppers", start: 1957.40, end: 1966.30}
+  - {text: "and trying to take Hatching their bets on which queue is going to go first and who's going to get this shell And they're dodging between the queues and then eventually the largest hermit crab will come along They'll say yes,", start: 1966.30, end: 1976.50}
+  - {text: "this is going to be my shell They will take that shell cast off their old one and that gets passed on down the line So it's like it's like a vacancy chain", start: 1976.50, end: 1984.44}
+  - {text: "which you get with things in the human world too But everybody gets a new shell one size bigger everyone goes off happy Suzanne you've got a huge collections", start: 1984.44, end: 1995.36}
+  - {text: "that you administer at the Natural History Museum But how do you go about collecting those shells?", start: 1995.36, end: 2001.52}
+  - {text: "I mean do people just pick them up from the beach or do you go searching for them more actively?", start: 2001.82, end: 2006.66}
+  - {text: "Yes, our collections are really huge.", start: 2007.06, end: 2009.44}
+  - {text: "We've eight million specimens and we still continue to collect And when we collect nowadays it's often with the idea of having material that we can use for molecular studies So that means we need to collect the animal as well as the shell", start: 2009.56, end: 2023.40}
+  - {text: "And we need to be able to preserve the animal so we anesthetize the animal and then we use different methods So the simplest one is just to crack the shell so that the preservative penetrates", start: 2023.86, end: 2032.82}
+  - {text: "But that means the shell is destroyed So we want to keep the shell intact where possible because this is a really important character for us", start: 2033.62, end: 2040.60}
+  - {text: "And so other methods are there's a method that's thousands of years old That has been used for people when they're eating or shell collecting And the Japanese call it niku niki", start: 2041.34, end: 2049.98}
+  - {text: "if I've pronounced it correctly You pour hot water on and you can actually unwind the snail from the shell and pull it out intact with your shell all intact But if people are thinking of collecting themselves, they need to remember that", start: 2049.98, end: 2062.70}
+  - {text: "Check about permits because some dead shells in some places you need permits to collect them You need permits to transport them between countries and there are some real dangers in collecting seashells believe it or not", start: 2063.30, end: 2074.02}
+  - {text: "Some seashells as we mentioned the cone snails are deadly venomous If these snails some of them the the geography cone snail eats fish in in nature", start: 2074.90, end: 2084.74}
+  - {text: "And if you think how slow a snail goes and how fast a fish goes it has a harpoon that it fires at it And the toxin it has is", start: 2085.20, end: 2092.54}
+  - {text: "so venomous and so fast acting that the fish doesn't get any further away And the snail can go over and eat it That toxin if you get stung by one of them", start: 2092.54, end: 2100.84}
+  - {text: "You don't have very long to live and the nickname in the Philippines for this is the cigarette fish Because you have just enough time to smoke a cigarette before you die", start: 2101.46, end: 2109.72}
+  - {text: "Another thing to really be careful of especially if you're on Australia or places like that I grew up worrying about this mom.", start: 2110.48, end: 2115.72}
+  - {text: "I'm worried about this when I was a child Blue ring octopus really small tiny pretty little octopus will sometimes use shells to hide in and there've been lots of reports of These shells being picked up by children taken home in the bath", start: 2115.80, end: 2130.56}
+  - {text: "And then the blue ring octopus drops out and these octopus will give a completely painless bite They have like a parrot's beak and they'll take a little bite.", start: 2131.12, end: 2139.12}
+  - {text: "You don't feel that But it injects tetrodotoxin venom And one little octopus that is enough to sit in the palm of your hand small enough", start: 2139.30, end: 2147.08}
+  - {text: "to sit in the palm of your hand Has enough toxin to kill at least 10 adults.", start: 2147.08, end: 2150.56}
+  - {text: "Well, I won't be going anywhere near a blue ring octopus I can assure you Liz How have researchers used these vast collections of shells in in museums?", start: 2150.78, end: 2161.88}
+  - {text: "What do we learn from them?", start: 2162.14, end: 2163.28}
+  - {text: "Well, we've learned to a huge amount because it's an amazing resource So you can imagine going in the field and braving the The horrors that Susanna has just been talking about but you know it takes time and it takes money", start: 2163.50, end: 2174.46}
+  - {text: "In museums you are able to leverage Huge amounts of effort that people have put in over sort of one two centuries often So you have a vast sort of Coverage of different sort of species environments that should have disappeared", start: 2175.00, end: 2190.08}
+  - {text: "through sort of habitat destruction And my favorite thing these days is to look at historic collections.", start: 2190.87, end: 2197.00}
+  - {text: "We're very interested in the way The environment is changing because of human activity And it's very interesting and some of my students have been involved in doing this is Actually looking at historic collections from the same locality", start: 2197.20, end: 2210.12}
+  - {text: "Where it's been collected and has gone into a museum maybe every decade For the last hundred plus years And you can then actually look to see", start: 2210.12, end: 2219.92}
+  - {text: "if those shells have changed how thick they are how they grow All sorts of things like that.", start: 2219.92, end: 2224.44}
+  - {text: "So it's a real way of sort of conducting an experiment But without having actually planned it So it's really and you can't do that without museum collections", start: 2224.46, end: 2233.42}
+  - {text: "Uh Helen you talked about the human uses our relationship with shells earlier What can you tell us about shell money money?", start: 2234.24, end: 2243.02}
+  - {text: "Again, I'm going to bring out my collection this one actually you can sort of hear What have we got I've brought some caries because the caries are these lovely", start: 2243.68, end: 2250.40}
+  - {text: "Little shells that you get around the world the ones here in britain are tiny as small as this is the tropical species So one of the reasons I think", start: 2251.12, end: 2256.84}
+  - {text: "that shells have been used as currencies that they they have that kind of nice Feeling in your hand you can count them out and hold on to them stick them in your pockets", start: 2256.84, end: 2264.32}
+  - {text: "Um, they're durable most of the time difficult to fake um, so again, it's it's one of these extraordinary things that human cultures around the world have repeatedly used shells in various forms as a form of currency Whether it's whole shells like caries", start: 2264.82, end: 2280.10}
+  - {text: "Whether it's pieces of shell ground down into beads and woven together into bigger bigger structures or looped into great big long strings um, but the carie in particular these ones have a really Extraordinary story connected to them.", start: 2280.60, end: 2293.80}
+  - {text: "Um, which is a really a really dark part in human history Which is the link to the trade in enslaved african people when I first heard about it Just blew my mind that this this this trade", start: 2293.84, end: 2304.30}
+  - {text: "Was tied into billions and billions of shells so essentially this was going on for hundreds of years Traders from europe would be going into southeast asia to india and serrancon places like that and", start: 2304.84, end: 2316.34}
+  - {text: "Filling up their ships with with fine silks and and spices and such like and those Goods were actually didn't take up all the space that they had on these ships", start: 2316.86, end: 2327.14}
+  - {text: "And that they needed something to almost just to weigh the ships down as ballast And there was a cheap local source in the indian ocean", start: 2327.14, end: 2333.44}
+  - {text: "of carrie shells They were collected in the moldy's in the islands in the central indian ocean And that was a tradition that had been going on for a long time And they had been used locally in india and other places as a form of small currency", start: 2333.44, end: 2345.14}
+  - {text: "But it was the european traders who came along and thought oh actually we could make use of that so they would buy up Very cheaply huge numbers of these shells which the moldy vian people were collecting from the seas", start: 2345.72, end: 2355.88}
+  - {text: "And then those shells would go on their own very long journey They would go around around the african continent back to europe Then they would be unloaded with all these spices", start: 2356.42, end: 2364.94}
+  - {text: "and tea and everything else Loaded back on to ships that then went back down to the african continent to west africa Where ultimately they were exchanged for human lives and these became the money tens of thousands of these things per human head Um,", start: 2364.94, end: 2380.66}
+  - {text: "and that went on and on and billions of these shells were were essentially swapped for for people Thank you helen.", start: 2380.70, end: 2387.16}
+  - {text: "Um, liz a final question to you.", start: 2387.16, end: 2389.56}
+  - {text: "What are the main threats that mollusks and their shells face nowadays?", start: 2389.66, end: 2394.36}
+  - {text: "Well, i'm afraid it's probably us So habitat destruction is happening all the way around the world for for various reasons We have a very bad habit of transporting", start: 2395.06, end: 2405.80}
+  - {text: "Um mollusks as larvae in the ballast water of ships and they go on little trips around the world with the ships And then are discharged into new environments and sometimes sometimes those mollusks just re -establish In those new habitats", start: 2406.52, end: 2423.08}
+  - {text: "But of course the main thing that's worrying us at the moment is that we're worried about temperature increase and Increased acidity of the seawater and", start: 2423.66, end: 2432.70}
+  - {text: "if you lay down a shell made of calcium carbonate at least the fear is that They may be dissolving very fast.", start: 2432.70, end: 2440.62}
+  - {text: "It's probably actually even mean their shells.", start: 2440.74, end: 2442.96}
+  - {text: "Yes the shells are dissolving And if we assume that they as we do as we as we believe that the shell is very important to them as armor", start: 2443.22, end: 2451.22}
+  - {text: "Having expended a lot of energy to lay it down only to have it dissolve is pretty Critical many of them can actually it works out in experiments", start: 2451.82, end: 2461.48}
+  - {text: "that we can actually keep up with it quite well They compensate that sounds really good.", start: 2461.48, end: 2466.40}
+  - {text: "It sounds like the snails might be winning in the shells dissolving But they're laying down more shell But that's probably not quite the way of thinking about it.", start: 2466.46, end: 2474.56}
+  - {text: "It's not such a good Answer because of course in laying down new shell again, they're using energy and that's energy They're not using to grow or reproduce.", start: 2474.58, end: 2483.80}
+  - {text: "So although it seems on the face of it a very happy story.", start: 2484.22, end: 2486.76}
+  - {text: "It's We have to think about that as well But Helen it's not too late to turn it around you think No, absolutely And one of the other things", start: 2487.42, end: 2494.64}
+  - {text: "that mollusks do is when there's lots of them living together They can create really important habitats.", start: 2494.64, end: 2499.04}
+  - {text: "We get things like muscle reefs oyster reefs And sure, yes, we've lost a lot of that habitat here in Britain Yeah, I think we've probably lost something like 95 percent of the native oyster reefs that used to fringe the Fringe this island of ours", start: 2499.10, end: 2510.94}
+  - {text: "But now there's a lot of awareness of that disappearance whereas before you know a couple of generations ago Probably didn't even realize there used to be such enormous habitats and lots of efforts are being made to put", start: 2511.50, end: 2521.12}
+  - {text: "Oysters back in the ocean and to find ways of rewilding if you like that word There are other like a really Extraordinary habitat we have up in scotland our flame shell reefs.", start: 2521.66, end: 2531.52}
+  - {text: "These are little clams that Make nests in the seabed.", start: 2531.72, end: 2535.06}
+  - {text: "They create these little sticky fibers and sort of hold the seabed together Combined with bits of sand and grit and things and and they have these bright orange tentacles sticking out", start: 2535.18, end: 2545.06}
+  - {text: "Which this is why they're called flame shells and one particular place in Loch Caron in Wester Ross.", start: 2545.06, end: 2550.02}
+  - {text: "There was A while ago it was clear that scallop treasures were coming in and really Destroying this this really important habitat that's place for nursery for other animals to grow up in", start: 2550.22, end: 2560.60}
+  - {text: "But when that was when that damage was noted An emergency marine protected area was put in place Which can happen if there's an important ecosystem important species that's in trouble", start: 2560.60, end: 2570.38}
+  - {text: "And already within about five years we were seeing recovery of that of that habitat and you know A spreading even of this amazing flame shell reef so it absolutely can happen.", start: 2570.90, end: 2580.34}
+  - {text: "The ocean is very Capable of recovering and and growing back to abundance.", start: 2580.46, end: 2585.36}
+  - {text: "We just have to give those species a chance A note of optimism to end on my thanks to susanne williams.", start: 2585.58, end: 2592.78}
+  - {text: "Liz Harper and helen scales In our time now takes its annual break.", start: 2592.78, end: 2597.24}
+  - {text: "We'll be back on the 17th of september Have a good summer and thank you for listening And the in our time podcast gets some extra time now with a few minutes of bonus material from mesha and his guests", start: 2597.38, end: 2610.20}
+  - {text: "Now clams How are they able to keep?", start: 2611.14, end: 2615.54}
+  - {text: "I mean, they're so tight clam shells.", start: 2616.32, end: 2618.52}
+  - {text: "You can't open them.", start: 2618.72, end: 2619.82}
+  - {text: "No, that that's a myth.", start: 2619.92, end: 2621.34}
+  - {text: "That's it. Yes This is something giant.", start: 2621.50, end: 2624.18}
+  - {text: "Yes. I only picked you talking about giant clams.", start: 2624.28, end: 2626.22}
+  - {text: "I'm talking about any Oh, no clams.", start: 2626.30, end: 2627.84}
+  - {text: "Sorry. I'm talking giant clams.", start: 2628.08, end: 2629.20}
+  - {text: "Well, tell us about giant clams then It's a myth that people our age and older know and younger people don't because it used to be in all the old Tarzan movies and everything that they would go diving Yes,", start: 2629.26, end: 2638.92}
+  - {text: "and he would get his foot trapped in the giant clam and be unable to escape I worked on giant clams for three years and used to go collecting samples", start: 2638.98, end: 2646.04}
+  - {text: "And I accidentally dropped a weight in one once and I thought oh, this is really bad for the poor Clam so I put my arm in up to my shoulder of this giant clam And it's trying because I felt like a vet", start: 2646.78, end: 2658.80}
+  - {text: "And it um, it can't close not the really big giant clams.", start: 2661.06, end: 2664.84}
+  - {text: "They're slightly smaller. That's a tredectonic igus scallops and oysters though They yes, they can tote very tightly very tight.", start: 2664.92, end: 2671.56}
+  - {text: "They've got very strong muscles So so they've got this huge muscle By the valve presumably I mean by the They're called adductor muscles and they actually hold the shells closed.", start: 2671.60, end: 2681.44}
+  - {text: "You can see the scars, right?", start: 2681.46, end: 2682.62}
+  - {text: "So you can see how big the muscles are from the shape that's left on the inside of a shell So when you eat a scallop, that's what you're eating.", start: 2682.62, end: 2688.50}
+  - {text: "You're eating the adductor muscle.", start: 2688.68, end: 2690.04}
+  - {text: "It's the muscle. It's the muscle you're eating Watch out They can if you get the whole animal some of them have got amazing blue eyes", start: 2690.10, end: 2700.20}
+  - {text: "Oh We didn't talk about we didn't talk the about the snails with the weird eyes Can I tell you about ali's project my my student?", start: 2701.12, end: 2711.42}
+  - {text: "She did an amazing behavioral study on on conch snails She was both our students lizards as well conch snails have got these really amazing eyes on really long mobile eye tentacles and they're huge eyes In fact,", start: 2711.74, end: 2723.26}
+  - {text: "I would just look up conch snail eyes and you always spell in conch c -o -n -c -h And she did behavioral studies to work out what they can see", start: 2723.28, end: 2732.12}
+  - {text: "so she took one snail and velcroed it in place So I wouldn't move around and then she put a tent around it.", start: 2732.12, end: 2737.64}
+  - {text: "She velcroed it. Yes in place Yeah, she just put it.", start: 2737.80, end: 2741.16}
+  - {text: "Well, no a little strap a little strap over it.", start: 2741.18, end: 2743.44}
+  - {text: "He was quite happy He was just velcroed and so he couldn't walk away Then you put a tent around and then you showed it a computer screen with a dot They got bigger and bigger and had a camera above to film its behavior", start: 2743.44, end: 2754.06}
+  - {text: "And then what happened is uh as the dot gets bigger at some point it can see and it starts responding to it It stops feeding first of all then it partially withdraws its proboscis", start: 2754.74, end: 2765.38}
+  - {text: "and its eye stalk And then it withdraws them entirely and you can work out from the video the times those happen and from the program How big the circle was", start: 2765.38, end: 2772.70}
+  - {text: "and then you can work at how well they can see and it turns out these particular ones see Really, really well They can see as well", start: 2772.70, end: 2778.34}
+  - {text: "as rats and better than worker bees And we think part of the reason is because they've evolved a really unusual perculum Which is the little door that closes behind them.", start: 2778.34, end: 2787.46}
+  - {text: "Thank you But they use it like a walking stick in this this group and they can move along in a really jerky jumping motion If you if you look on the internet for mollusks moving There is a very very strange animal.", start: 2787.52, end: 2801.50}
+  - {text: "It's quite exciting to watch Oh, yeah, scallops are good swimming.", start: 2801.68, end: 2805.38}
+  - {text: "They're good swimming and we haven't talked about sea butterflies.", start: 2805.62, end: 2807.78}
+  - {text: "They fly They do fly through the water and they've got little instead of one little foot They slither around on they've got they break into two", start: 2808.12, end: 2813.50}
+  - {text: "and flip around It's like dombo if you've seen the film.", start: 2813.50, end: 2816.16}
+  - {text: "Yeah, it's epic and they're teeny tiny and then of course they're able to dig Yes, really fast.", start: 2816.34, end: 2822.82}
+  - {text: "Yes, like razor clowns and snails.", start: 2822.98, end: 2824.74}
+  - {text: "Yeah, yeah Um anything else we we missed out?", start: 2824.98, end: 2829.10}
+  - {text: "Well You barely scratched the surface I guess I'd love to talk about um that we're still discovering species as well and that you know We've got tens of thousands.", start: 2829.90, end: 2841.24}
+  - {text: "We already know but more being found all the time A lot of them in the deep sea and one of my favorites is the scaly foot snail", start: 2841.42, end: 2846.34}
+  - {text: "Which lives on hydrothermal vents these extreme um hot springs that have Heat hundreds of degrees and are extraordinary habitats but full of life And the", start: 2846.86, end: 2856.58}
+  - {text: "scaly foot snail is one of those found in the indian ocean in around 2000 I think and they're the they have this weird thing that", start: 2856.58, end: 2863.04}
+  - {text: "their shells are made out of what seems to be an iron based compound And their feet are covered in scales.", start: 2863.04, end: 2867.66}
+  - {text: "They have this sort of weird looking like scaly armor And when they were first discovered I think people generally scientists generally assumed that that that armor", start: 2867.80, end: 2875.10}
+  - {text: "That's iron based shell and the scales were some sort of defense from attack from the outside But actually it turns out that they're defending themselves from from an attack from within", start: 2875.76, end: 2884.56}
+  - {text: "because like many things that live on hydrothermal vents They have symbiotic microbes living inside their bodies.", start: 2884.56, end: 2890.44}
+  - {text: "That's how they get their food These are are tiny cells that are using chemicals in the water to grow essentially rather than sunlight And these", start: 2890.50, end: 2899.02}
+  - {text: "are microbes inside the snails They're very good.", start: 2899.02, end: 2901.70}
+  - {text: "They provide food But then a byproduct of this food production is sulfur and sulfur is a key ingredient in slug pellets and it's very dangerous poisonous for snails Um,", start: 2901.76, end: 2910.92}
+  - {text: "so actually the scales have this again a nano structure in them a bit like the nacre We talked about a lot of it comes down", start: 2911.00, end: 2917.36}
+  - {text: "to these nanoscopic structures in the shells They act like little tailpipes on a car exhaust and then they draw that sulfur out of their body", start: 2917.36, end: 2924.82}
+  - {text: "And it reacts with with iron in the water around them and lays down this iron layers So in fact, it's the snail protecting themselves from this sort of internal poison", start: 2924.82, end: 2932.22}
+  - {text: "So that they can exist in this crazy place.", start: 2932.72, end: 2934.84}
+  - {text: "Well, I refer the listeners to an earlier episode of ours on archaea Yes, who hang around formal thermal vents a lot.", start: 2934.90, end: 2943.58}
+  - {text: "There you go. Um, susanne Can you tell us the story of tyrian purple?", start: 2943.76, end: 2948.32}
+  - {text: "This is a really amazing story So tyrian purple is a pigment that comes from snails from the family muricidae And it's named after the ancient Phoenician city of tyre Where it was produced on industrial scale, although it actually originated much earlier in Minoan civilizations", start: 2948.99, end: 2964.42}
+  - {text: "it was Mostly harvested from three species in the Mediterranean from hexaplex trunculus bolanus band brandaris and stroma Hemostoma and the dye comes from this tiny specialized organ called the hyperbranquil gland", start: 2965.35, end: 2980.18}
+  - {text: "And in the wild these animals are predators So they eat barnacles and mussels and they secrete this Secretions from this hyperbranquil gland onto their prey", start: 2981.02, end: 2991.62}
+  - {text: "and it makes them relax Which means that they don't have to drill them.", start: 2991.62, end: 2994.88}
+  - {text: "So it saves them energy to do this They also produce these secretions to get rid of predators because it has this muscle relaxing properties They also put it around their eggs and it's thought to have antimicrobial properties", start: 2994.92, end: 3007.14}
+  - {text: "There is no purple dye inside the hyperbranquil gland It's a colorless precursor to the dye But if you cut it open and expose it to light", start: 3008.00, end: 3018.24}
+  - {text: "and sun enzymes act on it and it will change color You'll see it going from colorless to muggy white to yellow green to green to blue to purple The final pigment is called six six prime dibromo indigo", start: 3018.24, end: 3030.02}
+  - {text: "And it's the bromine atoms which the snail takes up from seawater that actually gives huge stability to this pigment So unlike other pigments that were available at the time", start: 3030.76, end: 3041.10}
+  - {text: "that would wash out in the laundry and fade in the sun This actually gets brighter and more vibrant in sunshine And there's some recipes pliny the elder recorded a recipe", start: 3041.10, end: 3049.92}
+  - {text: "And mentioned how dreadful the smell was and I can personally testify that rotting pigment smell Absolutely disgusting, but led on top of that.", start: 3050.42, end: 3060.06}
+  - {text: "There was garlic, stale urine and the numbers they had to process were huge they had to either dissect out the gland or crush the snail and a scientist in 1909 he managed to reproduce", start: 3060.18, end: 3072.90}
+  - {text: "This dye and he used 12 ,000 snails to produce 1 .4 grams of this dye And because it was so highly valued and so difficult to make it was considered extremely valuable And it was it was worth way more than gold", start: 3073.78, end: 3087.76}
+  - {text: "And because of that it was only used by the kings and priests and and really important people And that's where we still use this phrase born to the purple Which is used by um julia Caesar", start: 3088.36, end: 3098.62}
+  - {text: "Cleopatra Nero, and of course popes and cardinals and popes and cardinals as well.", start: 3099.64, end: 3104.90}
+  - {text: "Yes Liz I was interested in what you said about How mollusks are adapting to greater acidity in the water But presumably we're now seeing changes in temperature and changes in acidity at a scale", start: 3104.98, end: 3122.24}
+  - {text: "That evolution Surely will have a struggle keeping up with even if you're a hardy Aragonite mollusk, it depends how Fast -paced that particular species lives I think", start: 3122.84, end: 3137.76}
+  - {text: "so many mollusks only live for very short periods of time So one year two years and in that case there's quite a lot of energy in the tank for adapting", start: 3137.76, end: 3147.04}
+  - {text: "I think the problems are the slightly longer lived Uh mollusks So one of the key things well is that there are some mollusks that will live not only decades,", start: 3147.65, end: 3157.38}
+  - {text: "but centuries Yes, let's talking of which let's talk about our friend hafron.", start: 3157.62, end: 3163.54}
+  - {text: "Yes the The clam who was born in 1498 or 1499 just before Da Vinci started work on the Mona Lisa.", start: 3163.70, end: 3176.36}
+  - {text: "Tell us about hafron.", start: 3176.98, end: 3177.94}
+  - {text: "So hafron was dredged off Iceland People have always been interested in that species its scientific name is arctica icelandica, and they've always known it lives for a long while", start: 3178.12, end: 3188.72}
+  - {text: "so it's really interesting because these are All the mollusks we're talking about really lay down growth lines, which are a bit like tree rings And", start: 3189.28, end: 3197.76}
+  - {text: "so there's lots of environmental information we can get from tree rings or Shell rings and so people have always been interested in this particular species", start: 3197.76, end: 3206.72}
+  - {text: "So it was actually colleagues in Bangor who were working on this trying to develop a what's called sclerocronology Which is equivalent to dendrochonology in the oceans you cut the shell up and you can count those rings", start: 3206.72, end: 3219.50}
+  - {text: "And you can work out how many years they live a little bit of uncertainty about exactly how old it is because when when clams grow", start: 3220.02, end: 3227.16}
+  - {text: "In the first year or so they tend to grow Continuously and therefore they don't have these breaks.", start: 3228.04, end: 3232.52}
+  - {text: "So you can't count them I hear comes Martha with an offer for tea To your coffee orders a black coffee would be nice black coffee.", start: 3232.52, end: 3240.68}
+  - {text: "I'll have a tea, please white coffee In our time with Misha Glenn he was produced by Martha Owen.", start: 3240.74, end: 3248.36}
+  - {text: "It's a BBC studios production for radio four Hello, I'm David Badeal and from radio four and the history podcast I'm hosting 60 years of hurt a series about football", start: 3248.80, end: 3259.65}
+  - {text: "and Englishness in which we try and define what Englishness actually is via the roller coaster history of the England men's football team It includes contributions from various English gentlemen", start: 3259.65, end: 3270.59}
+  - {text: "and women Stephen Fry David Seaman England sports psychologist Pippa Grange and many others England may or may not win the world cup in 2026 But maybe you'll find out why it means so much to us as a country that they might do", start: 3270.59, end: 3284.31}
+  - {text: "Listen to 60 years of hurt on BBC sounds", start: 3284.85, end: 3287.73}
+---

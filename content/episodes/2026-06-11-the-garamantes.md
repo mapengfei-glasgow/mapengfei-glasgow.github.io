@@ -1,0 +1,548 @@
+---
+layout: single
+title: "The Garamantes"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-06-11T00:00:00Z
+slug: "2026-06-11-the-garamantes"
+audioDir: "2026-06-11-the-garamantes"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-06-11-the-garamantes/episode.mp3"
+totalDuration: 3543.1
+sentences:
+  - {text: "BBC Sounds Music Radio Podcasts.", start: 1.10, end: 5.02}
+  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 7.42, end: 12.72}
+  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 13.00, end: 17.90}
+  - {text: "Guests often surprise me by being just so generous with their stories.", start: 18.38, end: 22.80}
+  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 23.26, end: 27.72}
+  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 27.72, end: 33.34}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 33.84, end: 36.56}
+  - {text: "There's one of more than a thousand episodes you can find in the In Our Time archive.", start: 57.72, end: 62.12}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 62.84, end: 67.72}
+  - {text: "I hope you enjoy the programme.", start: 68.28, end: 69.68}
+  - {text: "Hello. The Sahara Desert might not seem like the most hospitable place to live, with extreme swings of temperature and limited water on the surface.", start: 70.56, end: 80.08}
+  - {text: "Though around 2000 years ago an ancient people were thriving there, known to us as the Garamantes.", start: 80.90, end: 87.70}
+  - {text: "The Garamantes are mentioned by Roman and Greek authors.", start: 88.36, end: 91.36}
+  - {text: "Since then they've often been seen as little more than tribal barbarians on the periphery of the Mediterranean world.", start: 91.94, end: 98.64}
+  - {text: "But in recent decades archaeology has revealed something rather different.", start: 99.14, end: 103.46}
+  - {text: "A society with flourishing towns and cities, complex underground irrigation systems and a key role in trade routes across the Sahara.", start: 104.04, end: 112.84}
+  - {text: "Well, with me to discuss the Garamantes are David Mattingly, Emeritus Professor of Roman Archaeology at the University of Leicester, Fares Musa, Visiting Fellow at the University of Southampton and Cultural Heritage Consultant and Josephine Quinn,", start: 113.46, end: 129.30}
+  - {text: "Professor of Ancient History and Fellow of St.", start: 129.76, end: 132.34}
+  - {text: "John's College at the University of Cambridge.", start: 132.48, end: 135.14}
+  - {text: "Welcome to all of you, but Josephine, I'd like to come to you first.", start: 135.74, end: 139.96}
+  - {text: "Can you situate the Garamantes for us?", start: 139.96, end: 142.90}
+  - {text: "When are we talking about and where exactly?", start: 143.46, end: 146.56}
+  - {text: "So, yes, as you say, about 2000 years ago, more specifically from about 1000 BC to about 600 or so CEs over a long period of time,", start: 147.40, end: 160.08}
+  - {text: "we're looking at a very large area across the Sahara from what's now Southern Libya, across to Southern Algeria and we're looking at this network of oasis settlements", start: 160.14, end: 176.42}
+  - {text: "and the people who live there have learned to farm the desert.", start: 176.42, end: 181.74}
+  - {text: "They are also traders who've made a kind of crossroads of the Sahara between North and South, East and West, but this is a very complex society.", start: 182.42, end: 193.78}
+  - {text: "So these are people who have cities and temples.", start: 193.78, end: 198.42}
+  - {text: "They forge metals, they make glass, they have monumental tombs for their dead and we're talking about a really vast scale here as well.", start: 199.18, end: 210.12}
+  - {text: "So there are hundreds of sites that we should at least call, say, village -sized in modern terms.", start: 210.34, end: 218.22}
+  - {text: "Some of them are a lot larger than that and there are hundreds of thousands of tombs.", start: 218.36, end: 223.64}
+  - {text: "So why are they called the Garamantes and is that what they call themselves?", start: 224.16, end: 228.10}
+  - {text: "That's a good question.", start: 228.74, end: 229.72}
+  - {text: "So the meaning of the word seems to change over time.", start: 230.30, end: 235.16}
+  - {text: "So all of our testimonies of this word are external.", start: 235.28, end: 239.50}
+  - {text: "You start off with Greek authors who seem to use the word to refer to a single oasis, a single large powerful oasis.", start: 240.16, end: 248.16}
+  - {text: "Later you get Roman authors who explain that by their period at least there's a Garamantean kingdom based in a sort of capital oasis of Garama.", start: 248.16, end: 259.90}
+  - {text: "But then other authors just sort of use the word in a fairly general way to talk about the peoples of the central Sahara in their era", start: 260.40, end: 268.70}
+  - {text: "and that's really how it's also used in a lot of modern scholarship.", start: 268.70, end: 273.68}
+  - {text: "But the truth of the matter is that we don't know what any of these people called themselves, we don't know how big that Garamantean kingdom was", start: 273.68, end: 283.68}
+  - {text: "or how much that changed over time and we don't know whether the people who seem to us to be living in similar kinds of places", start: 283.68, end: 293.18}
+  - {text: "in similar kinds of ways over this really vast area actually considered themselves a single people on any level.", start: 293.18, end: 302.04}
+  - {text: "But fundamentally the name derives from Garama, the settlement, the town.", start: 302.04, end: 308.00}
+  - {text: "Yes. Farah Smusa, let me go on to you.", start: 308.30, end: 311.16}
+  - {text: "The Sahara obviously a pretty hostile environment.", start: 311.70, end: 315.52}
+  - {text: "How did the Garamanteans end up living there?", start: 316.34, end: 318.46}
+  - {text: "Yes, good question. And I think we probably need to rewind about 12 ,000 years to get a bit of context.", start: 318.92, end: 327.14}
+  - {text: "Don't worry, I'm not going to go through it step by step.", start: 327.40, end: 330.30}
+  - {text: "So we need to go to the end of the last Ice Age.", start: 330.30, end: 334.28}
+  - {text: "Okay, at that point what seems to happen is that the Sahara desert becomes this very, very fertile, savannah -like environment.", start: 334.80, end: 341.90}
+  - {text: "So you have to imagine lots of flora and fauna and it's very abundant with springs and rivers and lakes.", start: 342.34, end: 348.32}
+  - {text: "A very abundant place where people also gathered following the flora and the fauna.", start: 348.90, end: 355.74}
+  - {text: "From about 6 ,500 years ago you start to get this aridification, a gradual process which brings us to about 3 ,000 years ago when it brings us more or less to the kind of almost the level of hyperaridity", start: 355.74, end: 368.82}
+  - {text: "that we now know in the Sahara desert.", start: 369.34, end: 371.24}
+  - {text: "And so during that process, during that time, people shrink from the various zones of the Sahara into those sorts of pockets which still remain relatively humid like the Fezzan area or the Wadi al -Jal,", start: 371.80, end: 385.72}
+  - {text: "as we call it, this area where the Garamantes ended up.", start: 385.80, end: 389.36}
+  - {text: "Kind of a broad, sort of dried out riverbed.", start: 389.78, end: 393.18}
+  - {text: "To the north of that you have a large sand sea and to the south of that you have this high escarpment, sandstone escarpment, which rises quickly about 300 metres.", start: 393.96, end: 402.98}
+  - {text: "So it's a kind of a process of, if you like, refugia or people getting condensed into niches throughout the Sahara region.", start: 403.84, end: 412.66}
+  - {text: "And the Garamantes end up in this particular zone, about 200 kilometres in length east to west.", start: 413.32, end: 420.50}
+  - {text: "So you and David, Mattingly, you've both done a lot of archaeological work on the Garamantes.", start: 420.84, end: 426.22}
+  - {text: "Can you tell us what type of work that is and what sort of evidence you were turning up?", start: 426.76, end: 432.56}
+  - {text: "Well, as you can imagine, doing archaeology in such a hostile environment, even today, presents its own challenges.", start: 432.96, end: 439.40}
+  - {text: "Once we're there, we normally have an idea about areas we want to target.", start: 439.40, end: 443.68}
+  - {text: "And after having done some remote sensing, using satellite images or whatever about areas we want to target, we will normally do surveys on the ground.", start: 444.82, end: 456.66}
+  - {text: "And that it's a pretty basic and straightforward activity insofar as that you're essentially walking through specified zones that you want to target and you're looking for stuff, right?", start: 456.88, end: 468.30}
+  - {text: "So whether you're looking for rock art along the base of this escapement I described to you, or whether you're looking for burials, or whether you're looking for irrigation systems,", start: 468.30, end: 479.78}
+  - {text: "you first have to literally walk through and do systematic records of it.", start: 480.00, end: 484.18}
+  - {text: "Because there is so much of it, you stop every few minutes to record something and then you make a systematic record.", start: 484.60, end: 493.14}
+  - {text: "You take photographs, you make drawings, you take GPS coordinates.", start: 493.26, end: 497.34}
+  - {text: "So that's one level.", start: 497.34, end: 498.86}
+  - {text: "If you want to go in in a bit more detail, for example, if you want to go in and have a look at a burial and the contents of the burial, then you'll conduct systematic excavations.", start: 499.32, end: 508.50}
+  - {text: "And you asked, what do we find?", start: 508.80, end: 510.46}
+  - {text: "Lots of stuff. And of course, different levels of preservation.", start: 511.10, end: 515.16}
+  - {text: "A lot of burials were looted in antiquity.", start: 515.46, end: 519.58}
+  - {text: "So soon after the burials were made, somebody has come along and taken stuff out of them.", start: 520.20, end: 525.90}
+  - {text: "So obviously they knew there were valuables in there.", start: 525.90, end: 528.32}
+  - {text: "So they beat us to it, essentially.", start: 528.70, end: 530.64}
+  - {text: "But depending on the level of preservation, we find obviously skeletal remains, in some cases, desiccated bodies.", start: 531.32, end: 538.92}
+  - {text: "So bodies which are quite well preserved.", start: 539.26, end: 540.64}
+  - {text: "Ceramics, cloth, leather. We've even found in the most recent excavations, we found a bronze bell.", start: 541.72, end: 549.26}
+  - {text: "We found some fragments of gold leaf.", start: 549.56, end: 551.82}
+  - {text: "So really very sophisticated society this reveals.", start: 551.82, end: 556.26}
+  - {text: "David Mattingly, they're living in the Sahara Desert.", start: 556.80, end: 559.94}
+  - {text: "Can you tell us a bit more about what kind of settlements have been found there?", start: 560.26, end: 564.86}
+  - {text: "And indeed, how many?", start: 565.24, end: 566.42}
+  - {text: "How extensive was this community?", start: 566.58, end: 568.84}
+  - {text: "Well, we've heard that there were hundreds of thousands of Garamantian burials known.", start: 569.74, end: 573.98}
+  - {text: "But up to the 1990s, there were very few settlement sites that had been identified.", start: 574.48, end: 580.26}
+  - {text: "And in a way, this played into the older view that the Garamantes must be nomadic, because we had all these burials and nowhere for them to live.", start: 580.26, end: 589.62}
+  - {text: "Well, subsequently, the survey work that we and others have done, there was an earlier British archaeologist called Charles Daniels who did some pioneering work.", start: 590.28, end: 599.20}
+  - {text: "We've now started to identify in vast numbers the settlement sites that go with those cemeteries.", start: 599.66, end: 607.28}
+  - {text: "In the early Garamantian period, that's around about 1 ,000 BCE.", start: 607.28, end: 611.56}
+  - {text: "They're living in effectively what are hill forts, fortified sites up on the escarpment that marks the southern edge of the valley.", start: 612.40, end: 620.58}
+  - {text: "From about 400 BCE, they seem to move down or mass into the plain the centre of this valley where the oasis grows.", start: 621.26, end: 629.78}
+  - {text: "And there they're living in open village settlements which they constructed in Mudbrick.", start: 630.18, end: 635.54}
+  - {text: "But the houses there, they're multi -roomed, rectilinear, quite complex architecture.", start: 635.54, end: 642.54}
+  - {text: "At Garama, the Garamantian capital, we get some even more sophisticated aspects including stone architecture for some monumental buildings.", start: 643.46, end: 652.84}
+  - {text: "And then from about 300 CE, we see increasingly the introduction of defensive architecture at their settlement sites with the appearance of castle -like buildings with projecting towers on their outer walls.", start: 653.82, end: 670.26}
+  - {text: "So a very different sort of picture emerged about the nature of Garamantian society and from the beginning it's clearly tied to the oasis' cultivation.", start: 671.04, end: 680.08}
+  - {text: "Before we get into the details of Garamantian society, let's try and understand what the Greeks and Romans who I believe are first sources about the Garamantes,", start: 680.78, end: 692.44}
+  - {text: "what do the Greeks and Romans say about them?", start: 692.92, end: 694.92}
+  - {text: "Well, I think it's important to understand the sort of conventions in which Greek and Roman sources wrote about peoples on the periphery or beyond the periphery of the Mediterranean world.", start: 695.65, end: 707.83}
+  - {text: "And I have an idea which I call progressive barbarisation and that is that Mediterranean peoples, Greek and Roman, took a very Mediterranean -centric view of the world in", start: 708.31, end: 722.21}
+  - {text: "which everything about the Mediterranean was civilised and everything that lay beyond was very primitive and it's a deliberately schematic way of looking at the world.", start: 722.21, end: 733.69}
+  - {text: "So Greek and Roman sources, when they write about these neighbouring peoples, they're not writing in an anthropological or ethnographic way, they're as much as anything bringing out these sort of stereotypes", start: 734.15, end: 746.31}
+  - {text: "that are designed to demonstrate the primitiveness and otherness of these outline peoples.", start: 746.31, end: 752.63}
+  - {text: "So just to give you an example, peoples that lived close to the Mediterranean, both in North Africa and in Europe, they're generally recognised as being agricultural,", start: 753.25, end: 764.03}
+  - {text: "urban living, state -level organisation of society, societies with complex bulls and conducts of behaviour that mark out their civility.", start: 764.85, end: 775.17}
+  - {text: "But if you move out of that Mediterranean zone, they're pastoral or nomadic, they're living in huts and tents.", start: 775.63, end: 782.49}
+  - {text: "Even further out than that, then you find people whose lifestyle is essentially a hunter -gatherer lifestyle.", start: 783.01, end: 788.75}
+  - {text: "They speak unintelligible languages, they're living and sleeping in the open or in caves, and then even beyond that, we get into an imagined world.", start: 789.37, end: 800.95}
+  - {text: "A sort of mythical world where there are people with no heads and eyes on their chests and interestingly, those are still appearing on early modern maps of Africa, echoing this sort of schematic view.", start: 801.07, end: 813.93}
+  - {text: "Joe, let me take that on with you about the Garamantes themselves.", start: 814.75, end: 818.97}
+  - {text: "Are they seen as barbarians or how are they depicted?", start: 819.75, end: 823.97}
+  - {text: "What's so interesting, so picking up from what David's saying about progressive barbarisation, what you see with the Garamantes is not only quite a bit of this idea that the further away people are, the stranger they are,", start: 823.97, end: 836.79}
+  - {text: "you also get a progressive barbarisation or primitivisation over time.", start: 837.07, end: 842.67}
+  - {text: "So the very first references to the Garamantes are in the 5th century B .C., so in the era of the Persian Wars, classical Athens, that kind of thing.", start: 843.19, end: 853.15}
+  - {text: "And a historian called Herodotus, who's writing in Greek in this period, describes a trade route across the Sahara, from the Nile to the Niger, and he talks about the different peoples who live in Oasis every 10 days.", start: 853.15, end: 868.37}
+  - {text: "So basically the caravan stops on this Oasis route.", start: 868.51, end: 871.65}
+  - {text: "Is this in his book, The History?", start: 871.75, end: 873.19}
+  - {text: "Exactly, in his book The History, yes.", start: 873.45, end: 875.15}
+  - {text: "And he picks out the Oasis of Garamantes, he says they are a great and mighty people.", start: 875.53, end: 881.85}
+  - {text: "He says that they farm, which obviously it's very difficult to farm, you know, often even in Oasis, but he says they do it by layering earth on top of the salty ground,", start: 881.85, end: 892.91}
+  - {text: "because it's very kind of salty water there.", start: 893.21, end: 894.93}
+  - {text: "And he also says that they herd animals, but they herd these, not just kind of normal animals, they herd these very special cows who have horns", start: 895.21, end: 903.63}
+  - {text: "that are so long that the cows have to walk backwards.", start: 903.63, end: 907.75}
+  - {text: "And I think this is sometimes seen as being kind of a very primitive idea and so on, but actually I think it's like these are very fancy cows.", start: 908.21, end: 914.91}
+  - {text: "These are cows so cool that they have to look after them especially.", start: 915.41, end: 919.33}
+  - {text: "But that's also sort of drifting into the mythologisation that David was referring to.", start: 919.81, end: 923.65}
+  - {text: "Exactly, exactly. But then what happens is that, so you get this picture in Herodotus of quite a sophisticated people who are farming, who are herding,", start: 923.91, end: 932.49}
+  - {text: "who are also quite high up in the local hierarchy, because he also says that they are hunting the Ethiopians, the cave -dwelling Ethiopians, he says.", start: 932.87, end: 942.61}
+  - {text: "And these Garamantes are hunting with chariots.", start: 943.19, end: 945.85}
+  - {text: "They've got horses and chariots that are hunting the Ethiopians to enslave them essentially.", start: 946.03, end: 949.81}
+  - {text: "So you've got this kind of strange picture, but other people who are quite complex and quite high up and who are also involved in trade.", start: 950.53, end: 959.25}
+  - {text: "And then by the Roman period, so 500 years later, I was going to the Roman Empire.", start: 959.81, end: 964.25}
+  - {text: "And this is a period when there is regular trading contact between Rome and the Garamantes.", start: 964.89, end: 970.59}
+  - {text: "There are Roman generals go down there.", start: 971.03, end: 973.41}
+  - {text: "They even go on expeditions with the king of the Garamantes.", start: 973.53, end: 976.87}
+  - {text: "This is really quite a well -known place to real -life Romans.", start: 977.19, end: 981.23}
+  - {text: "What you get in the descriptive sources of the Garamantes are two things.", start: 981.95, end: 986.01}
+  - {text: "Either people just copy what Herodotus had said 500 years earlier, when no one had gone there.", start: 986.65, end: 992.17}
+  - {text: "It's basically literally copy it outward for word.", start: 992.27, end: 994.51}
+  - {text: "Or you get sources that make them even stranger, that say they live in tents.", start: 994.99, end: 1000.15}
+  - {text: "They only hunt. Even the very sober Roman historian Tacitus calls them wild.", start: 1000.49, end: 1007.21}
+  - {text: "But this is in a period when plenty of people that Tacitus is writing about in Rome had been to Garama, had seen the city, had seen the stone temples.", start: 1007.93, end: 1016.93}
+  - {text: "And they're trading all the time.", start: 1016.95, end: 1019.51}
+  - {text: "So it's the most peculiar progressive barbarisation in time as well as space.", start: 1019.51, end: 1024.17}
+  - {text: "Farris, can you tell us about the Garamantes' religious beliefs?", start: 1024.49, end: 1028.87}
+  - {text: "What do we know about that?", start: 1029.07, end: 1030.19}
+  - {text: "I mean, the most frequent motif, I suppose, which occurs in the text, is referenced to the association of the Garamantes with a god called Amon.", start: 1030.69, end: 1042.23}
+  - {text: "Most people be aware of in relation to the Egyptian Amon, who then becomes Amon Ra and Amon Min in later forms.", start: 1042.73, end: 1049.93}
+  - {text: "And Amon is perceived as this invisible god who protects people in their travels.", start: 1050.67, end: 1057.13}
+  - {text: "One of the attributes of the Amon god is the ram's horns.", start: 1057.85, end: 1062.59}
+  - {text: "He manifests in the wind.", start: 1063.29, end: 1065.67}
+  - {text: "So you can sort of see, if indeed Amon is associated with the Garamantes, how it could fit in with that world of the Sahara desert,", start: 1066.25, end: 1075.31}
+  - {text: "where they are indeed moving around a lot, and so they need protection, presumably, in their travels in such a hostile environment.", start: 1075.31, end: 1083.31}
+  - {text: "In terms of how the archaeology backs that up, it's very little.", start: 1083.77, end: 1088.09}
+  - {text: "There was a temple -type structure, which was excavated early on in the centre of Garamah, and a bronze mask or head of Selenus was discovered.", start: 1089.95, end: 1103.17}
+  - {text: "Now there's a sort of a tenuous connection there with Dionysus, because of course in Greece, Amon became associated with Zeus and Dionysus.", start: 1103.17, end: 1112.51}
+  - {text: "So there is a very, again, very tenuous link.", start: 1112.93, end: 1115.71}
+  - {text: "But we do, of course, have burials, which is, of course, one of the best ways that we can understand something about their ideas and beliefs.", start: 1115.81, end: 1122.77}
+  - {text: "And there's been a lot of surveying, excavation of those cemeteries and burials.", start: 1123.97, end: 1128.93}
+  - {text: "You have many different types of burial.", start: 1130.09, end: 1133.23}
+  - {text: "You have mudbrick -built small pyramid structures.", start: 1133.55, end: 1137.17}
+  - {text: "You have cobbled cairns.", start: 1137.55, end: 1139.31}
+  - {text: "And they are organised in discrete cemeteries, normally at the base of the escarpment.", start: 1139.79, end: 1145.01}
+  - {text: "They are dawned with funerary furniture.", start: 1145.45, end: 1147.79}
+  - {text: "So they have stelae, which are carved in the kind of a forefinger sort of motif.", start: 1147.79, end: 1152.83}
+  - {text: "They have offering tables.", start: 1153.43, end: 1155.43}
+  - {text: "If you can imagine your airplane food tray and all the slots in it, it's a little bit like that, the funerary table.", start: 1156.29, end: 1164.81}
+  - {text: "And the evidence of possible animal remains that have been deposited in those.", start: 1165.31, end: 1169.33}
+  - {text: "Inside the burials, we have crouched burials.", start: 1170.13, end: 1174.59}
+  - {text: "So the deceased have been laid on their side in the fetal position.", start: 1174.97, end: 1179.09}
+  - {text: "They're normally wrapped in cloth.", start: 1179.69, end: 1182.47}
+  - {text: "And we found in recently, in some cases in leather, doused in some cases in this really dark red ochre, completely doused in red ochre, which is fascinating.", start: 1182.47, end: 1195.07}
+  - {text: "What is that? Is that about fertility?", start: 1195.75, end: 1197.69}
+  - {text: "Is that about the life, the colour of blood and life?", start: 1198.25, end: 1201.31}
+  - {text: "So continuity in the afterlife.", start: 1201.91, end: 1203.39}
+  - {text: "There's all sorts of ideas that you can extrapolate from that.", start: 1204.01, end: 1207.05}
+  - {text: "You get a lot of that in further north in Africa as well, which is really interesting.", start: 1207.81, end: 1212.27}
+  - {text: "So it's suggesting there's some kind of shared beliefs or ideas about death.", start: 1212.49, end: 1217.45}
+  - {text: "So in Tunisia, Algeria, further north in Algeria, the same kind of red ochre.", start: 1217.79, end: 1223.91}
+  - {text: "Herodotus mentions ancestor worship in relation to Saharan peoples.", start: 1224.39, end: 1229.29}
+  - {text: "And I think when Pharisees is describing these burials with these offering structures outside them, it does emphasise how important the dead are to the living.", start: 1230.15, end: 1239.07}
+  - {text: "There is an element of daily interaction or regular interaction between living connections and the ancestors.", start: 1239.65, end: 1245.49}
+  - {text: "The ancestors sort of there in the guise of minor gods, really.", start: 1245.95, end: 1249.47}
+  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 1252.76, end: 1257.32}
+  - {text: "Why do weekends even exist?", start: 1257.62, end: 1259.24}
+  - {text: "And how did we become so obsessed with football?", start: 1259.70, end: 1261.98}
+  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 1262.30, end: 1264.40}
+  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 1264.80, end: 1270.40}
+  - {text: "Like why has the pub become so important?", start: 1270.52, end: 1272.50}
+  - {text: "That's an excellent question, Ben.", start: 1272.84, end: 1274.56}
+  - {text: "Here for the history.", start: 1274.90, end: 1275.62}
+  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 1275.94, end: 1278.28}
+  - {text: "I wanted to carry on, David, with something which is more specifically associated with the Garamantes, which is the Garamantes as oasis cultivators.", start: 1279.06, end: 1288.70}
+  - {text: "What does oasis cultivators actually mean in practice?", start: 1289.14, end: 1292.28}
+  - {text: "So our best evidence for this comes from the botanical analyses that we've done on samples from our various excavations.", start: 1293.24, end: 1300.42}
+  - {text: "And we can say pretty conclusively that agriculture arrives with our first sense of Garamantean settlements around about 1 ,000 BCE, and there's an established package, which is the date palm,", start: 1301.38, end: 1314.94}
+  - {text: "its wheat and barley, the grapevine and the fig tree.", start: 1315.52, end: 1318.92}
+  - {text: "That's what they start growing and it's clearly come from somewhere, probably from originating from the oases that are first emerging in the western Egyptian desert.", start: 1320.10, end: 1330.62}
+  - {text: "And that package of crops gradually gets passed along as oases get established out into the central Saharan region.", start: 1330.88, end: 1338.14}
+  - {text: "Around about 400 BCE, we get some interesting changes, though.", start: 1338.92, end: 1343.30}
+  - {text: "There are three additional crops appear, cotton, sorghum and pearl millet.", start: 1343.66, end: 1348.50}
+  - {text: "Now those are sub -Saharan crops.", start: 1348.98, end: 1350.72}
+  - {text: "So some additional crops are being brought in from a different direction.", start: 1350.72, end: 1354.90}
+  - {text: "But something like cotton, if I remember rightly, uses a lot of water.", start: 1355.20, end: 1359.46}
+  - {text: "So how are they growing cotton in the Sahara?", start: 1359.88, end: 1362.90}
+  - {text: "Well, exactly. Water is the key for any oasis cultivation.", start: 1363.28, end: 1368.20}
+  - {text: "In the initial stages, the Garamantees are perhaps using one or two relic spring lines still active from that wet phase, but gradually drying out, probably", start: 1369.04, end: 1379.70}
+  - {text: "in the course of the first millennium BCE.", start: 1379.70, end: 1381.56}
+  - {text: "But around 400 CE, exactly at the same time that those sub -Saharan crops arrive, we've got a dated adoption of a new irrigation technology.", start: 1382.34, end: 1392.30}
+  - {text: "And this is the Foghra.", start: 1392.86, end: 1393.68}
+  - {text: "Now the Foghra... Can you tell us about the Foghra?", start: 1394.36, end: 1396.90}
+  - {text: "The Foghra is the North African version of a technology that we also know in Iran and in Arabia, where it's known as the Kanat or the Falash.", start: 1397.28, end: 1408.84}
+  - {text: "And this is an underground irrigation channel that leads running water out to the area of gardens in the centre of the valley.", start: 1409.42, end: 1420.12}
+  - {text: "So, hold it, let me just get this straight about how this is constructed.", start: 1420.42, end: 1423.44}
+  - {text: "You have a sort of central well.", start: 1423.90, end: 1425.70}
+  - {text: "Well, there's a mother well at the distant end of these underground canals.", start: 1426.12, end: 1430.04}
+  - {text: "And these may be 40 metres deep.", start: 1430.30, end: 1431.90}
+  - {text: "And they're dug generally into the foot of the escarpment at the southern end of the valley.", start: 1431.90, end: 1438.08}
+  - {text: "So you dig down till you hit water.", start: 1438.58, end: 1440.08}
+  - {text: "And as long as that water is at a level above the level of your gardens in the centre of the valley, then you can construct a Foghra using that water.", start: 1440.62, end: 1449.56}
+  - {text: "And so you dig a series, a long series of shafts.", start: 1449.94, end: 1453.02}
+  - {text: "They're spaced only every 5 or 10 metres.", start: 1453.68, end: 1456.00}
+  - {text: "So it's an awful lot of shafts that you have to dig.", start: 1456.12, end: 1459.26}
+  - {text: "But gradually getting nearer to the surface until the water actually emerges at the surface.", start: 1459.26, end: 1465.56}
+  - {text: "Because you connect the shafts at the bottom with short tunnel sections.", start: 1465.68, end: 1468.70}
+  - {text: "It's obviously a lot easier to tunnel if you're only tunneling 5 metres to the bottom of the next shaft.", start: 1469.00, end: 1474.28}
+  - {text: "Even so, Joe Quinn, that sounds like an incredible amount of work.", start: 1474.54, end: 1479.54}
+  - {text: "So the sheer scale of the Foghra, how did they build it?", start: 1479.74, end: 1483.68}
+  - {text: "It's terrifying to think about.", start: 1484.50, end: 1486.34}
+  - {text: "I mean, these shafts that David's been describing, some of these are 40 metres deep.", start: 1486.34, end: 1492.10}
+  - {text: "They're very narrow. They are being dug down in a world where the daytime temperatures can reach 55 degrees.", start: 1492.30, end: 1502.36}
+  - {text: "There's less than a centimetre of rain a day.", start: 1503.28, end: 1506.50}
+  - {text: "And there are thousands of these things.", start: 1507.02, end: 1509.96}
+  - {text: "And each one of them has these access shafts every 5 or 10 metres, as David said.", start: 1510.06, end: 1514.94}
+  - {text: "Can I just jump in?", start: 1515.80, end: 1517.62}
+  - {text: "We did an estimate of the labour needs to construct the Foghra systems that we know about in the game of Antion Heartlands.", start: 1517.78, end: 1525.60}
+  - {text: "It's 72 ,000 man years.", start: 1525.80, end: 1528.26}
+  - {text: "I mean, put that another way.", start: 1528.68, end: 1530.90}
+  - {text: "If you had a team of 100 people doing nothing apart from all their lives, constructing Foghra's, it would take them 720 years to create that system.", start: 1531.16, end: 1543.76}
+  - {text: "But this is quite...", start: 1543.76, end: 1545.62}
+  - {text: "I mean, they didn't have diggers, industrial diggers or anything like that.", start: 1545.62, end: 1548.54}
+  - {text: "It's all done by hand.", start: 1548.62, end: 1549.52}
+  - {text: "It's all done by hand.", start: 1549.62, end: 1550.18}
+  - {text: "So one thing that I think it must mean is they have iron bags.", start: 1550.18, end: 1553.36}
+  - {text: "You can't dig this with literally by hand or by stone.", start: 1553.66, end: 1557.34}
+  - {text: "So they're already using some kind of iron.", start: 1557.46, end: 1559.22}
+  - {text: "But this is all human labour, essentially.", start: 1559.56, end: 1561.40}
+  - {text: "There is no way that people are going to volunteer to do this kind of work.", start: 1562.04, end: 1566.62}
+  - {text: "I can't imagine a king so powerful that he could require his subjects to do this for 720 man years.", start: 1567.02, end: 1578.02}
+  - {text: "720 years. So actually, he's drawing them out of time.", start: 1578.44, end: 1581.90}
+  - {text: "And so we must be looking at enslaved labour here.", start: 1582.24, end: 1586.12}
+  - {text: "We know that there are...", start: 1586.72, end: 1588.82}
+  - {text: "Or at least we're told by Greek sources that these Garamantes are slavers.", start: 1588.82, end: 1593.80}
+  - {text: "It's an obvious trade for the salt that they're also producing with this water irrigation.", start: 1594.34, end: 1599.90}
+  - {text: "So on the one hand, I think what we learn from this is that it's very likely that there's a significant use of enslaved labour in these OACs from further south.", start: 1601.04, end: 1610.96}
+  - {text: "And you also mentioned earlier about the Ethiopians being...", start: 1611.32, end: 1614.48}
+  - {text: "Exactly. There's these stories about them hunting in chariots, these cave -dwelling Ethiopians who Herodotus says, and this is another of this progressive barbarisation, these are people", start: 1614.48, end: 1625.58}
+  - {text: "who are even further south than the Garamantes.", start: 1625.58, end: 1627.64}
+  - {text: "And Herodotus says they squeak instead of speaking.", start: 1628.20, end: 1631.16}
+  - {text: "So today they're kind of in this mythical world.", start: 1631.50, end: 1633.34}
+  - {text: "But he does... You know, there's a story there you also get.", start: 1633.74, end: 1636.44}
+  - {text: "And this is, I think, extraordinary.", start: 1636.54, end: 1637.86}
+  - {text: "There are cave -art from these regions where the people would be hunting and they show people with horses and chariots.", start: 1638.42, end: 1647.42}
+  - {text: "So these are perhaps the victims showing these people who come after them.", start: 1647.48, end: 1651.30}
+  - {text: "But there's also going to be, certainly by the Roman period, a lot of slave trading, as well as just kind of catching other people.", start: 1651.64, end: 1660.34}
+  - {text: "And so that's one major factor in what's going on here, what's happening with the Garamantes, both using a lot of enslaved people, but also trading them perhaps to the Roman properties.", start: 1660.70, end: 1670.68}
+  - {text: "I want to come on to the trading.", start: 1670.68, end: 1671.92}
+  - {text: "Faris, from what we've heard so far, it sounds as though the Garamantes were very sophisticated traders.", start: 1672.14, end: 1678.72}
+  - {text: "What do we know about their trade?", start: 1679.44, end: 1680.96}
+  - {text: "So, you know, around the same time, around 1000 BC, that we start to see this formation of a Garamantian proto kind of state.", start: 1680.96, end: 1691.74}
+  - {text: "You also get in the coast of North Africa, the arrival of Phoenician trading colonies.", start: 1691.96, end: 1698.32}
+  - {text: "You get in 814 BC, the foundation of Carthage.", start: 1698.90, end: 1702.00}
+  - {text: "Now, as far as we can tell, they were traders and they were not expansionists or colonists, per se.", start: 1702.64, end: 1708.34}
+  - {text: "So, they needed to be able to establish connections with other entities in the hinterland of the coast to be able to move goods around.", start: 1708.34, end: 1720.32}
+  - {text: "So, in many ways, you can sort of see this picture of these traders on the coast wanting stuff that is in the central Sahara or even in sub -Saharan Africa that the Garamantes can provide.", start: 1720.92, end: 1737.34}
+  - {text: "And it's not a kind of passive situation where the Carthaginians are coming to them and they're just acting as a middleman.", start: 1737.34, end: 1744.34}
+  - {text: "They're clearly moving distances to trade.", start: 1744.52, end: 1750.02}
+  - {text: "You also have this incredible opportunity at the end of the Second Punic War when Carthage's influence in North Africa is diminished a lot.", start: 1750.42, end: 1761.36}
+  - {text: "Remind me when the Second Punic War is.", start: 1761.70, end: 1763.54}
+  - {text: "Yes, it was to 1802 BC between the Romans and the Carthaginians and at the end of that, with Hannibal's infamous defeat at the Battle of Zama,", start: 1763.54, end: 1775.08}
+  - {text: "you have this moment of about 200 years where Carthage's influence is diminished.", start: 1775.76, end: 1783.34}
+  - {text: "And at this time, you see this kind of explosion, if you like, of these various indigenous kingdoms, including others like the Numidians, presumably also the Garamantes where they are filling this kind of void, if you like, this vacuum", start: 1784.20, end: 1799.98}
+  - {text: "and no doubt are doing so through trade.", start: 1800.82, end: 1803.68}
+  - {text: "So David Mattingly, do we know what they were trading?", start: 1804.22, end: 1807.90}
+  - {text: "Was it just agricultural product or was it manufactured product as well?", start: 1808.08, end: 1811.64}
+  - {text: "In traditional Trans -Saharan trading, the key commodities of trade have been gold, enslaved people and salt.", start: 1812.14, end: 1820.00}
+  - {text: "And at one level, the Garamantes plug into that sort of network.", start: 1821.60, end: 1826.44}
+  - {text: "Gold is being sourced in Sub -Saharan Africa, particularly in West Africa, enslaved people obviously can be taken at various points within the Sahara but from the Sub -Saharan lands as well.", start: 1826.94, end: 1841.04}
+  - {text: "Onto that, of course, the Garamantes are producing Oasis products, dates, for instance, have a market in the Mediterranean world for sure.", start: 1841.60, end: 1850.12}
+  - {text: "But, and I think this is the crucial thing about the Garamantes, because sometimes they've been perceived as rather passive middlemen in trade that's dominated from the Mediterranean", start: 1851.17, end: 1859.89}
+  - {text: "but what we actually see from the archaeological evidence is that the Garamantes are quite discerning consumers.", start: 1859.89, end: 1865.85}
+  - {text: "They have a penchant for Roman tableware and glassware, particularly really large open forms of bowls which are incredibly fragile.", start: 1866.41, end: 1875.37}
+  - {text: "So you can imagine how overjoyed the merchants are to have to carry those sorts of goods on the Saharan trails.", start: 1875.81, end: 1881.39}
+  - {text: "We've got lots and lots of amphorae that transport jars for wine and olive oil and fish sauce.", start: 1882.01, end: 1887.61}
+  - {text: "I mean, what's interesting is we've got evidence of masses of that material being consumed in the Garamantean heartlands but it barely moves south and southwest of the Garamantean heartlands.", start: 1888.23, end: 1898.83}
+  - {text: "In other words, the Garamantes preferentially consume those Mediterranean goods in their own society and, you know, we can estimate there are hundreds of thousands of amphorae", start: 1899.09, end: 1909.43}
+  - {text: "and hundreds of thousands of tableware vessels imported into the Garamantean.", start: 1909.99, end: 1914.85}
+  - {text: "So this isn't small -scale trade.", start: 1914.91, end: 1916.83}
+  - {text: "This is large -scale trade but the Garamantes are also manufacturing.", start: 1916.95, end: 1921.73}
+  - {text: "They build up capacity for metalwork producing little metal barring gots which are perfect for carrying on Saharan trade caravans.", start: 1922.05, end: 1931.75}
+  - {text: "We know there are expert textile producers and garment producers and cotton is a very new crop in the Sahara, in the Mediterranean world at this time.", start: 1932.19, end: 1941.81}
+  - {text: "That has to have a high value in trade.", start: 1942.11, end: 1945.13}
+  - {text: "They're producing masses of beads in glass, in semi -precious stones, in ostrich eggshell and again, beads historically have been currency in Saharan trade.", start: 1945.43, end: 1957.63}
+  - {text: "Thank you very much, David.", start: 1957.63, end: 1959.11}
+  - {text: "Joe, why does the city of Garama in particular become the centre of this trading operation?", start: 1959.49, end: 1966.81}
+  - {text: "Do we know? Well, I think one of the things that's really interesting about looking at the growth of cities in general is that very often what seems to produce", start: 1967.27, end: 1978.13}
+  - {text: "that kind of scale and density that we call cities in different periods is when lines of communication or trade cross through them.", start: 1978.13, end: 1988.67}
+  - {text: "So I think what we're getting with the Garamante is that it's so interesting is you have this early sort of trade route that's going from the Nile to the Niger", start: 1989.11, end: 1997.15}
+  - {text: "where there are all these OACs along it.", start: 1997.15, end: 2000.35}
+  - {text: "I would see those OAC settlements as a kind of secondary phenomenon that's not necessarily passive.", start: 2000.95, end: 2007.27}
+  - {text: "Absolutely, people who are coming to profit from the existence of a trade route.", start: 2007.43, end: 2012.83}
+  - {text: "But the actual push factors are kind of coming from one end or the other or both.", start: 2013.49, end: 2020.19}
+  - {text: "But when you get these North -South connections, Sofaras has talked about potentially connections with the Carthaginians.", start: 2020.69, end: 2028.51}
+  - {text: "We have lots of evidence for connections north with Rome later on.", start: 2028.73, end: 2032.71}
+  - {text: "And then there's this amazing thing where the cotton and so on is arriving from further south.", start: 2033.01, end: 2037.69}
+  - {text: "So it's when you get this North -South route that cross that East -West route, that I think is when everything kind of entangles and knots up and becomes this city.", start: 2038.11, end: 2050.05}
+  - {text: "So that's, I would say, where you get the city of Garam are really becoming important and powerful.", start: 2050.37, end: 2055.51}
+  - {text: "That may be the origins of the kingdom we later hear about.", start: 2055.95, end: 2058.87}
+  - {text: "But it's also really turbocharges the trade in the Sahara, putting those two directions together.", start: 2059.61, end: 2065.49}
+  - {text: "Faris, what sort of relationship did the Garamantes have with other polities in North Africa?", start: 2066.11, end: 2070.89}
+  - {text: "So among them, so for example, I mentioned earlier the Numidias, they do have a kingdom and they have a very clear lineage and that's been well -attested.", start: 2071.63, end: 2079.45}
+  - {text: "And so yes, the relationship with them is very interesting because I suppose the texts that we have suggest that the Garamantes are not actually as far away from the coast as we think or know they are.", start: 2080.09, end: 2098.83}
+  - {text: "We know that their heartland was that far away what is now Southwest Libya's Central Sahara.", start: 2098.89, end: 2103.23}
+  - {text: "But you get often references to, for example, King Massenissa, who is the king of the Numidians at one point in the first...", start: 2103.61, end: 2111.55}
+  - {text: "The Numidia is closer to it.", start: 2111.55, end: 2112.97}
+  - {text: "It's just sort of on the edge of the south of the Roman border in North Africa.", start: 2113.03, end: 2117.67}
+  - {text: "So it's a kind of north of the Sahara.", start: 2117.97, end: 2120.35}
+  - {text: "Exactly. And at some point he seeks refuge in the first...", start: 2120.63, end: 2124.57}
+  - {text: "Would that be modern -day Tunisia?", start: 2124.57, end: 2125.93}
+  - {text: "Or is it still...", start: 2126.49, end: 2127.13}
+  - {text: "Tunisia, Algeria, yeah. So he seeks refuge in the first century BC in an area within or close to the Garamantian territory.", start: 2127.13, end: 2135.69}
+  - {text: "So if that's what he's doing, then you're not having to go too far to get into what is perceived as Garamantian territory.", start: 2135.99, end: 2143.39}
+  - {text: "So what that suggests is that the Garamantes somehow have territories or have influence north of their centre quite far and quite near to the Mediterranean.", start: 2143.65, end: 2159.03}
+  - {text: "But also what's interesting about that is they don't feature in a lot of dramas, do they?", start: 2159.31, end: 2164.41}
+  - {text: "You don't see a lot of texts kind of talking about them getting into big kind of conflicts with various entities, which is interesting in itself.", start: 2164.47, end: 2175.99}
+  - {text: "Yet there is one thing I can think of that might be relevant to this, which is that there are some revolts against Rome in North Africa.", start: 2175.99, end: 2183.65}
+  - {text: "There's a guy called Takfarinas who's a rebel North African who's rebelling against Rome in their provinces in North Africa, the Mediterranean provinces across Tunisia, Algeria, Morocco and so on.", start: 2184.03, end: 2198.21}
+  - {text: "And just a couple of times there are references to the King of the Garamantes helping these rebels even coming up to the coast once.", start: 2198.75, end: 2206.61}
+  - {text: "You're going a really long way to the coast of Libya to help the rebels against the Romans.", start: 2206.67, end: 2210.81}
+  - {text: "So there is, again, that sort of sense that they're kind of just one remove from the kingdoms that are in very regular political and military kind of contact and conflict.", start: 2211.51, end: 2223.65}
+  - {text: "But nonetheless with a military capacity of sorts as far as we understand.", start: 2223.65, end: 2227.65}
+  - {text: "Some kind of military capacity.", start: 2227.65, end: 2228.71}
+  - {text: "David Mattingly, this community, this kingdom, this people lived for a very long time as far as we can see.", start: 2229.11, end: 2239.15}
+  - {text: "When and why did they start to decline as a civilization?", start: 2239.65, end: 2243.15}
+  - {text: "Well, I think it's no surprise that a long -established kingdom will eventually start to run out of steam.", start: 2243.83, end: 2250.11}
+  - {text: "So perhaps, you know, almost the more important question is how is it they endure so long?", start: 2250.27, end: 2254.51}
+  - {text: "And I think, you know, the key to that is that they are clearly early adopters of Oasis agriculture.", start: 2254.59, end: 2260.77}
+  - {text: "They are early adopters of the horse, which is a transformative technology in the Sahara, in the first millennium BCE.", start: 2260.77, end: 2269.03}
+  - {text: "And through those two things, they build a powerful society.", start: 2269.83, end: 2274.03}
+  - {text: "And then through that, they establish control over far -flung regions and a monopoly position on in this Saharan trade.", start: 2274.41, end: 2283.71}
+  - {text: "That's a very powerful position.", start: 2284.11, end: 2285.49}
+  - {text: "But of course, it's not going to go unchallenged.", start: 2285.57, end: 2288.01}
+  - {text: "Firstly, you might think about challenges from inside Garamantean society.", start: 2288.01, end: 2292.83}
+  - {text: "So is that kingly power always, you know, unchallenged by other groups to rise in defensive architecture at Garamantean settlements in the late times?", start: 2293.43, end: 2301.83}
+  - {text: "That might suggest that actually that sort of competition within Garamantean society is growing.", start: 2302.05, end: 2307.63}
+  - {text: "Another factor, those incredible phogora systems that are so key to the success of the Garamantees, you know, it's like having a million taps turned on permanently on a non -minuable water table.", start: 2308.15, end: 2323.49}
+  - {text: "So maybe the very success of the Garamantees through their irrigation systems is also part of their downfall.", start: 2323.87, end: 2329.63}
+  - {text: "And they simply ran out of water.", start: 2329.65, end: 2330.85}
+  - {text: "You start to reduce the level of the water table.", start: 2330.85, end: 2333.63}
+  - {text: "Farris, let me just ask you, as we come to a close, the Garamantees, are they seen as the predecessors of a particular people?", start: 2333.95, end: 2343.83}
+  - {text: "I mean, are they part of a historical culture today?", start: 2343.83, end: 2347.71}
+  - {text: "Does anyone heart back to the Garamantees?", start: 2348.31, end: 2350.69}
+  - {text: "Well, that's interesting. I think you can quite safely say that there's a disconnect between those people that we're talking about in the past and people who live in the region now.", start: 2351.11, end: 2363.43}
+  - {text: "But I think as we have started to learn a bit more about the Garamantees, people have started to obviously take an interest in that heritage specifically within that region.", start: 2363.91, end: 2375.41}
+  - {text: "I think though what that kind of feeds into is a broader phenomenon, which I think that we are beginning to witness in North Africa.", start: 2375.97, end: 2387.31}
+  - {text: "And this is all arisen with the ability to have genetic tests and to know your mitochondrial DNA kind of profile, which we haven't had in the past.", start: 2387.79, end: 2400.07}
+  - {text: "And people now are beginning to realise, who live in North Africa, that they are not necessarily Arab genetically in the way that people in the Arabian region might be identified.", start: 2400.07, end: 2411.49}
+  - {text: "And so that's for some people, and it's certainly a phenomenon among some young people in countries like Tunisia and Algeria, there was a revision about what their identity is.", start: 2411.97, end: 2423.11}
+  - {text: "And there's a much more of a reversion, or if you like an adoption of an identity which is more indigenous.", start: 2423.37, end: 2431.35}
+  - {text: "And so people are now actively looking for those connections.", start: 2432.37, end: 2437.17}
+  - {text: "And, you know, there are various tribal entities throughout the ancient, you know, North Africa.", start: 2437.63, end: 2444.97}
+  - {text: "And the Garamantees are one of those.", start: 2445.45, end: 2446.97}
+  - {text: "And I suspect that they are going to become more and more relevant as this phenomenon that's kind of fermenting is going to grow.", start: 2447.07, end: 2455.03}
+  - {text: "Quick fire round at the end.", start: 2455.39, end: 2457.49}
+  - {text: "How do the Garamantees, and I want you to keep this snappy, how do the Garamantees change our understanding of this period of history overall, Joe?", start: 2457.49, end: 2466.47}
+  - {text: "OK, so number one, it's not all about Rome.", start: 2467.05, end: 2469.73}
+  - {text: "There are other places to talk about, not just Rome and China either.", start: 2470.01, end: 2473.17}
+  - {text: "Number two, deserts are really interesting and deserts are experienced very differently by the people inside them who know how to get around, how to exploit them from the people outside who see them as terrifying and dangerous places, quite rightly.", start: 2474.59, end: 2491.35}
+  - {text: "And three, that trade and travel and exchange are a driving force in ancient history.", start: 2492.19, end: 2501.07}
+  - {text: "And these, the connections extend much further than people normally realise.", start: 2501.25, end: 2505.49}
+  - {text: "David, your take on how it's transformed our understanding of this period?", start: 2505.91, end: 2510.93}
+  - {text: "Well, I think we are just at the beginning of proper knowledge about these people.", start: 2511.33, end: 2515.57}
+  - {text: "You know, before 30 years ago, as we say, we had a very different view about the Garamantees.", start: 2516.41, end: 2522.15}
+  - {text: "There are hundreds of other pre -Islamic, Iron Age populations across North Africa and the Sahara who we know virtually nothing about in archaeological terms and we desperately need,", start: 2522.47, end: 2533.85}
+  - {text: "and I hope very much, that in the next generation, many archaeologists will emulate the sort of work we've done on the Garamantees on those other peoples.", start: 2533.99, end: 2542.59}
+  - {text: "Ferres, final word? Yes, well, I think, you know, it really would want to echo what Joe and David already said, but I think it is really important for scholarship and then how that impacts beyond scholarship in terms of our perceptions,", start: 2543.17, end: 2556.25}
+  - {text: "which have been for a long time perhaps quite Eurocentric about the flow of influence and the flow of power and culture in ancient times up to the present day.", start: 2556.81, end: 2568.51}
+  - {text: "And we start to realise when you start to uncover these civilisations that actually there's a lot going on around Europe and close to Europe, which is pretty powerful,", start: 2568.51, end: 2580.11}
+  - {text: "pretty significant and actually would have been very influential in the wider polity.", start: 2580.47, end: 2584.73}
+  - {text: "My thanks to Ferres Musa, David Mattingly and Josephine Quinn.", start: 2585.31, end: 2589.53}
+  - {text: "Next week, do not doff your hat and do not kneel.", start: 2590.29, end: 2594.87}
+  - {text: "We'll be discussing some of the radical politics that emerged during the English Civil War.", start: 2595.25, end: 2600.09}
+  - {text: "That's the levelers. Thank you for listening.", start: 2600.55, end: 2603.03}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2603.71, end: 2610.29}
+  - {text: "Great, so now the podcast extra.", start: 2611.09, end: 2613.97}
+  - {text: "Before I ask what did we miss out, let me ask the question, how come none of us have ever heard of the Garamantees?", start: 2614.63, end: 2623.21}
+  - {text: "I'm astonished by this, to see the depth of the work that you've done and the sophistication of this society, and we don't know about it.", start: 2625.21, end: 2634.61}
+  - {text: "Why is that? I don't know.", start: 2634.71, end: 2636.87}
+  - {text: "I've done my best.", start: 2636.93, end: 2637.55}
+  - {text: "I don't doubt it for a minute, David.", start: 2643.37, end: 2645.67}
+  - {text: "I don't doubt it for a minute.", start: 2645.87, end: 2647.11}
+  - {text: "I suspect it's a sort of a drip down process, isn't it, with research that, you know, it takes a long time, because of course the first time that we're really properly researching the Garamantees would have been in the 1960s, a little bit earlier,", start: 2647.35, end: 2662.51}
+  - {text: "and so that's not a long time that people have been studying it, and it does take a long time for that to feed through into broader literature and popular culture.", start: 2663.17, end: 2672.91}
+  - {text: "I think we still have a version of my progressive barbarisation model operating in our own minds today about desert peoples, and there's a tendency to default,", start: 2673.59, end: 2685.95}
+  - {text: "to kind of negative, even people who've read my work and are writing, let's say primarily from the point of view of the literary sources, they tend to immediately slip back into describing them as just kind of pastoral nomadic,", start: 2686.87, end: 2701.39}
+  - {text: "you know, and of course there were pastoralists within that broader Garamantean world, but what's really special about them is the scale of that oasis agriculture", start: 2702.41, end: 2711.81}
+  - {text: "alongside pastoral groups that, you know, make this very powerful.", start: 2712.91, end: 2715.91}
+  - {text: "I was also interested, David, in what you said about cotton and the manufacture of cotton, because the products were incredibly sophisticated, comfortable, kind of clothes that we wear today almost.", start: 2716.09, end: 2728.49}
+  - {text: "Yeah, well the textiles that we found, the cotton tends to be not terribly well preserved, but we'd certainly have it, we can see.", start: 2728.73, end: 2735.29}
+  - {text: "And it's incredibly finely woven, you know, finer than the shirt that I'm wearing today, if you look at the thread counts and the fineness of the fibres.", start: 2735.59, end: 2743.53}
+  - {text: "That must have done a roaring trade with the Romans, I would have thought.", start: 2743.81, end: 2747.39}
+  - {text: "Personally, I think that textiles was the number one commodity of Saharan trade in terms of bulk.", start: 2747.83, end: 2755.11}
+  - {text: "You know, gold you can carry relatively small amounts, enslaved people walk themselves to the coast, those that survive.", start: 2756.11, end: 2762.41}
+  - {text: "You know, salt is mostly going down to Sub -Saharan Africa.", start: 2763.31, end: 2768.13}
+  - {text: "Textiles move in every direction in bulk quantities, I'm sure, because everyone needs textiles, and particularly if you're, you know, producing high quality and dyed textiles, which we know the Garamantes are doing.", start: 2769.11, end: 2781.63}
+  - {text: "They could dye as well.", start: 2781.67, end: 2782.61}
+  - {text: "Yeah, yeah, we've found some brightly coloured textile fragments.", start: 2782.63, end: 2785.25}
+  - {text: "So there's a kind of comparative case in Anatolia in the 19th century BCE.", start: 2786.01, end: 2791.79}
+  - {text: "There's an incredible archive of traders who are from Asher, from the capital of Assyria, which is in those days a trading state.", start: 2792.65, end: 2800.13}
+  - {text: "And this archive records in incredible detail, a kind of detail we'd love to have for the Garamantes, what they're actually doing, like amounts of metals, textiles, that kind of thing.", start: 2800.97, end: 2811.33}
+  - {text: "And one thing that's fascinating is that basically people are bringing from Asher to Anatolia tin and textiles, and they're swapping them for silver coming back down.", start: 2811.69, end: 2821.11}
+  - {text: "That's the way that trade works.", start: 2821.33, end: 2822.59}
+  - {text: "But the amount of textiles and the value of the textiles is very similar to that of the tin.", start: 2823.15, end: 2828.81}
+  - {text: "Its textiles aren't just a kind of extra, you throw a few in on top of the metal cargo.", start: 2829.23, end: 2835.27}
+  - {text: "They are a really hugely important trade good across antiquity.", start: 2835.81, end: 2840.29}
+  - {text: "And the textiles are probably the key to how you manage to transport safely into huge glass bowls.", start: 2840.51, end: 2846.23}
+  - {text: "You wrap them in bundles of cloth.", start: 2847.05, end: 2848.31}
+  - {text: "Any evidence of writing?", start: 2849.15, end: 2850.79}
+  - {text: "Writing is, I mean in many ways, you know, it's our big gap.", start: 2851.55, end: 2855.49}
+  - {text: "We don't have written sources by the Garamantes themselves about their society.", start: 2856.21, end: 2861.83}
+  - {text: "We just have these rather brief external views and then often subject to these prejudices and biases and stereotypes.", start: 2862.17, end: 2870.31}
+  - {text: "But we know that the Garamantes had a written language because we have found inscriptions.", start: 2870.95, end: 2875.79}
+  - {text: "Oh, they did have a written language.", start: 2877.23, end: 2878.57}
+  - {text: "But the sort of inscriptions we found tend to be very short, you know, single name on a funerary steely.", start: 2878.59, end: 2885.23}
+  - {text: "We found a small clay tablet in a stratified layer at Garama, which had a few characters in this Libyan script.", start: 2885.87, end: 2893.73}
+  - {text: "So we know that they had writing.", start: 2894.43, end: 2896.25}
+  - {text: "What we haven't got is an archive of state documents or something like that that would really help us get a better view of Garamantes' society.", start: 2897.05, end: 2904.89}
+  - {text: "Now, that's partly because the sites we've excavated, the settlement sites that we've excavated to this point have been in the oasis itself where the water table is very high beneath the oasis.", start: 2905.29, end: 2918.41}
+  - {text: "So broadly, we don't get very good organic preservation in those sites.", start: 2918.73, end: 2922.29}
+  - {text: "In the tombs on the edge of the valley, yes, we do find textiles and organics and so on, but that's not where you'd keep your archives.", start: 2922.85, end: 2930.07}
+  - {text: "So I live in hope that someday somebody may find a cache of Garamantean documents that would really blow this open.", start: 2930.07, end: 2938.43}
+  - {text: "And of course, there is also this extraordinary corpus of texts of what's called proto -Tifanac.", start: 2939.07, end: 2945.35}
+  - {text: "So Tifanac is the written language of broadly what we might call Amazigh people, what people often refer to commonly as burburs.", start: 2945.71, end: 2954.57}
+  - {text: "It's problematic because, of course, historically and today, they are all different people and they're different entities throughout North Africa, but there is a language in common", start: 2954.91, end: 2965.79}
+  - {text: "and various variants of that language across North Africa and we see early forms of that.", start: 2965.79, end: 2970.79}
+  - {text: "This is not Arabic.", start: 2971.05, end: 2971.97}
+  - {text: "Not Arabic. We see early forms of that in the rock art, which we see along the Wadi An -Al -Jal.", start: 2972.57, end: 2979.41}
+  - {text: "The problem with that is dating it and associating it with the Garamantean.", start: 2979.85, end: 2985.83}
+  - {text: "So it's nearby, but exactly how it relates to the Garamantean if it is directly related to them or not is the difficulty that we have because these are rock engravings rather than rock pictures drawn with paint,", start: 2985.83, end: 2998.23}
+  - {text: "so it's a very difficult medium to take.", start: 2998.41, end: 3000.57}
+  - {text: "Do we know were they affected by Christianity and the growth of Christianity at all?", start: 3000.73, end: 3005.17}
+  - {text: "Can I jump in on that?", start: 3005.29, end: 3006.39}
+  - {text: "There are one or two source references that suggest that they accept Christianity.", start: 3006.57, end: 3010.33}
+  - {text: "We found no archaeological evidence to confirm that and I suspect that's a standard clause in every Byzantine peace treaty with so -called barbarian peoples that you will accept Christianity.", start: 3010.55, end: 3022.95}
+  - {text: "One thing I would like to say about the Garamantean is that they don't disappear at any point.", start: 3023.83, end: 3029.05}
+  - {text: "They just become less significant.", start: 3029.25, end: 3031.03}
+  - {text: "In the 7th century, when the first Arab cavalry columns go down into the Sahara, they encounter a king at Garamah still.", start: 3031.59, end: 3039.49}
+  - {text: "But he's clearly a petty ruler now, amongst many other petty rulers.", start: 3040.11, end: 3044.19}
+  - {text: "And even when we were doing field work down there, as it happens, one of our cooks was Muhammad Koromant.", start: 3044.69, end: 3051.31}
+  - {text: "So the name survived right through to modern times.", start: 3051.65, end: 3054.19}
+  - {text: "How difficult has it been to research and do archaeological digs since 2011 when you had the overthrow of Gaddafi and then the chaos in Libya?", start: 3054.65, end: 3064.95}
+  - {text: "Well, I've had a wish for the future.", start: 3065.31, end: 3067.81}
+  - {text: "It's just that, well, archaeological research in the Garamantean heartlands could start again.", start: 3068.37, end: 3072.77}
+  - {text: "Probably too late for me, but it would be great to see that work picked up again because there's so much to do.", start: 3073.35, end: 3079.77}
+  - {text: "You know, what we discussed is a remarkable advance on what was known 30 years ago, but we're still so near the beginning of our understanding of this people.", start: 3080.33, end: 3091.53}
+  - {text: "There's so many questions.", start: 3091.63, end: 3093.21}
+  - {text: "A bit like, you know, writing about the British Iron Age on the basis of the state of knowledge 150 years ago, a handful of sites excavated", start: 3093.67, end: 3103.29}
+  - {text: "and what sort of picture are you going to produce?", start: 3103.29, end: 3105.95}
+  - {text: "Joe. Well, one thing I'd love to hear from David is that after archaeological work in Libya stopped, he went to work in Morocco and did all this incredible new stuff in this other part of North Africa,", start: 3106.63, end: 3117.37}
+  - {text: "and I'd just love to know what does the work that you've done in the last 10, 15 years in Morocco, how has that changed your ideas about the Garamantes, if at all?", start: 3117.37, end: 3127.45}
+  - {text: "Well, I think it's reinforced my sense of how important the Garamantes are.", start: 3127.45, end: 3132.11}
+  - {text: "I mean, I think the Garamantes are, undoubtedly, a powerful state.", start: 3132.37, end: 3136.19}
+  - {text: "What we found in southern Morocco is very similar processes, the importance of the horse, the importance of the beginnings of Oasis agriculture, more complex societies,", start: 3136.75, end: 3146.27}
+  - {text: "but they're not as organised or as far along as the Garamantes, and it's happening a little bit later there as well.", start: 3146.75, end: 3154.43}
+  - {text: "But, you know, between those extremes, there are, you know, literally hundreds of Saharan peoples and Oasis locations where similar sorts of stories were happening in antiquity.", start: 3154.75, end: 3167.25}
+  - {text: "And, Faris, where have you been working since 2011 on sites anyway?", start: 3167.95, end: 3172.03}
+  - {text: "Mainly outside North Africa.", start: 3172.69, end: 3174.23}
+  - {text: "Right. Yes, so not directly related to the work that we've been doing on the Garamantes.", start: 3174.89, end: 3182.49}
+  - {text: "I did want to pick up a little bit on what we were talking about earlier with the religion, and you started to talk, David, about some of the ancestral worship,", start: 3183.17, end: 3192.95}
+  - {text: "which I thought was an area we didn't explore enough.", start: 3193.11, end: 3196.19}
+  - {text: "There's this really interesting relationship between the sites, the location of the cemeteries, and then what appear to be separate little villages, if you like, within the Oasis.", start: 3196.37, end: 3210.67}
+  - {text: "So it's almost like the villages are connecting to cemeteries a little bit further south from them in the escarpment.", start: 3210.97, end: 3218.17}
+  - {text: "And you mentioned about ancient practices, and one of those that we know a lot about with who Herodotus refers to is this idea of incubation,", start: 3218.43, end: 3229.31}
+  - {text: "where we see this idea that if you can sleep with the ancestors or in a place, in an enclosure close to your ancestors at the tomb,", start: 3229.71, end: 3240.55}
+  - {text: "then you can divine or solve problems, for example.", start: 3240.55, end: 3244.99}
+  - {text: "And these are kinds of enclosures that we do find associated with some of these burials.", start: 3245.21, end: 3250.49}
+  - {text: "And there are these sorts of practices right up until the present day, very much present throughout North Africa, of holy men shrines ancestral shrines where people go and divine,", start: 3251.05, end: 3267.77}
+  - {text: "and indeed practice incubation right until the present day.", start: 3267.77, end: 3271.29}
+  - {text: "Just coming off the back of that, Faris, we've heard about the exchange with Egypt and with the Romans and the Greeks.", start: 3271.51, end: 3279.37}
+  - {text: "You've all mentioned that there was trade with sub -Saharan Africa as well.", start: 3280.25, end: 3284.35}
+  - {text: "Is there any evidence of cultural exchange between the Garamantes and sub -Saharan Africa as opposed to the Mediterranean?", start: 3284.97, end: 3291.41}
+  - {text: "There are certainly elements in sub -Saharan Africa that I think we can say are pointing towards trade with Garamantes.", start: 3292.09, end: 3300.57}
+  - {text: "So some of the distinctive styles of Carnelian beads that the Garamantes are manufacturing look extremely close to Carnelian beads that are turning up on sub -Saharan sites.", start: 3301.05, end: 3312.19}
+  - {text: "We need to develop better methods of testing the provenance of the Carnelian sources.", start: 3313.01, end: 3319.31}
+  - {text: "But I'd be very surprised if we can't demonstrate those sort of links as time goes on.", start: 3319.73, end: 3324.61}
+  - {text: "But we've also got finds of copper alloys in the sub -Saharan zone which are effectively Mediterranean copper alloys.", start: 3324.61, end: 3334.73}
+  - {text: "And the only way that they can be reaching the sub -Saharan zone is through trans -Saharan trade and that's going to be the Garamantes plus potentially other Oasis peoples as well.", start: 3335.63, end: 3346.67}
+  - {text: "One of the things that's so interesting about this kind of thing is that trade of course is a very personal thing in antiquity and especially the exchange of technology.", start: 3347.03, end: 3357.51}
+  - {text: "So if you're talking about cotton coming up from the sub -Saharan zone to the Garamantes and the Sahara or them transmitting copper technology and alloy recipes", start: 3357.75, end: 3367.63}
+  - {text: "and so on that's not just something somebody writes on the back of an envelope and gives with your packet of seeds.", start: 3367.63, end: 3372.91}
+  - {text: "You actually have to learn how to grow and then make cotton.", start: 3373.13, end: 3377.13}
+  - {text: "You have to learn how to manufacture copper in this particular way.", start: 3377.13, end: 3382.07}
+  - {text: "So that must involve people spending a lot of time together at least for certain periods.", start: 3382.19, end: 3388.91}
+  - {text: "Of course the transit.", start: 3389.25, end: 3390.79}
+  - {text: "I mean the actual, you know, getting it from say Garamah to the Mediterranean coast you must require protection as well presumably.", start: 3391.11, end: 3399.51}
+  - {text: "I mean it's a thousand kilometers more or less from Garamah up to the Mediterranean.", start: 3400.15, end: 3404.89}
+  - {text: "In fact, particularly during the Lockerbie years when internal flights in Libya were quite a risk we tended to drive that route.", start: 3404.89, end: 3413.87}
+  - {text: "So I've driven that route many, many times.", start: 3414.07, end: 3416.89}
+  - {text: "And it's today a really challenging journey still but doing it with caravans of camels and donkeys and horses is another level of difficulty where you're dependent on these scattered wells to keep that.", start: 3417.55, end: 3433.93}
+  - {text: "I mean that's another thing isn't it that we haven't talked about camels.", start: 3434.05, end: 3438.19}
+  - {text: "So camels arrive among the Garamante sort of second century CE.", start: 3438.55, end: 3443.17}
+  - {text: "I think they're there before then.", start: 3443.67, end: 3444.79}
+  - {text: "There's a certain point where they sort of they just have horses start off with and then the camels arrive and that must change things a lot.", start: 3445.53, end: 3451.79}
+  - {text: "They become more important over time and you know again that may be one of the factors that changes the balance of power in the desert is", start: 3451.79, end: 3459.51}
+  - {text: "that you get specialised camel raising pastoral groups whose power actually grows over time.", start: 3459.51, end: 3465.55}
+  - {text: "So in the early modern period it's the camel raising nomads who are the most powerful people in the Sahara.", start: 3466.21, end: 3474.33}
+  - {text: "A lot of the Oasis communities are subservient.", start: 3474.69, end: 3477.59}
+  - {text: "The evidence in the Garamante suggests that the balance of power is still with the Oasis cultivators.", start: 3478.09, end: 3483.93}
+  - {text: "You know that's where the big tombs are that's where we can see the big consumption going on rather than with pastoral groups but the pastoral groups are always going to be important because if you're doing trade if you're conducting raiding and warfare", start: 3484.33, end: 3496.15}
+  - {text: "in the Sahara you need people who are good desert navigators who really know how to survive.", start: 3496.61, end: 3501.21}
+  - {text: "And that's going to be the pastoral people.", start: 3502.21, end: 3503.67}
+  - {text: "Absolutely. Martha. Tea, coffee.", start: 3504.09, end: 3506.83}
+  - {text: "Coffee, please. Coffee, coffee please.", start: 3507.43, end: 3509.85}
+  - {text: "I think I'll have tea for a change.", start: 3510.21, end: 3511.51}
+  - {text: "Coffee, coffee, tea. Thank you.", start: 3511.77, end: 3512.51}
+  - {text: "Tea. Two teas, two coffees, two coffees.", start: 3512.55, end: 3514.47}
+  - {text: "Thank you. In our time with Misha Glenny was produced by Martha Owen it's a BBC Studios production for Radio 4.", start: 3514.47, end: 3522.34}
+  - {text: "If you've got a scrolling problem then this is the podcast for you.", start: 3522.68, end: 3525.48}
+  - {text: "It's called Top Comment with me Matt Shea and me Marianna Spring.", start: 3525.82, end: 3528.78}
+  - {text: "We both investigate social media for a living.", start: 3529.00, end: 3530.84}
+  - {text: "Whether it's disinformation, conspiracy theories internet culture, memes.", start: 3531.30, end: 3535.32}
+  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3535.76, end: 3539.48}
+  - {text: "That's Top Comment on BBC Sounds.", start: 3539.94, end: 3542.00}
+---

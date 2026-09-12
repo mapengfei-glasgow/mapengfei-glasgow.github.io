@@ -1,0 +1,576 @@
+---
+layout: single
+title: "The Evolution of Trees"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-07-02T00:00:00Z
+slug: "2026-07-02-the-evolution-of-trees"
+audioDir: "2026-07-02-the-evolution-of-trees"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-07-02-the-evolution-of-trees/episode.mp3"
+totalDuration: 3333.3
+sentences:
+  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.20, end: 14.24}
+  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08}
+  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different, I think I have one of the best jobs in broadcasting.", start: 21.26, end: 29.58}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.20, end: 32.94}
+  - {text: "Hi, this is Misha Gleney.", start: 34.41, end: 36.41}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts, but if you can't wait, head over to BBC Sounds where you can", start: 36.73, end: 45.37}
+  - {text: "listen to the latest episodes a month earlier than anywhere else.", start: 45.37, end: 49.49}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 50.17, end: 58.99}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.65, end: 64.71}
+  - {text: "I hope you enjoy the programme.", start: 65.27, end: 66.67}
+  - {text: "Hello. We might take them for granted in parks, in our streets and in forests, yet trees play a crucial role in regulating our climate and providing the air we breathe.", start: 67.95, end: 79.67}
+  - {text: "We build with them, rely on them for food and shelter, use them for paper, clothing, medicine and energy.", start: 80.27, end: 87.57}
+  - {text: "But trees aren't simply a backdrop to human life.", start: 88.30, end: 91.56}
+  - {text: "They're the product of a deep evolutionary history that transformed our planet.", start: 91.78, end: 96.56}
+  - {text: "When they first appeared, they reshaped our ecosystems, altered the atmosphere and created entirely new environments on land.", start: 97.26, end: 105.66}
+  - {text: "Well, with me to discuss the evolution of trees are Jenny McElwain, the 1711 Chair of Botany at Trinity College Dublin and Director of Trinity Botanic Gardens,", start: 106.30, end: 117.12}
+  - {text: "Christopher Berry, Senior Lecturer in Earth and Environmental Sciences at Cardiff University and Bill Baker, Senior Researcher at the Royal Botanic Gardens in Kew.", start: 117.74, end: 129.14}
+  - {text: "Welcome to In Our Time and Jenny, let me start with you.", start: 129.72, end: 133.66}
+  - {text: "I think like most of the listeners, I can say that I recognise a tree when I see one.", start: 133.90, end: 139.44}
+  - {text: "But what is a tree?", start: 139.90, end: 141.28}
+  - {text: "Yeah, that's actually such a hard question.", start: 142.04, end: 144.74}
+  - {text: "Because we have to define a tree without using the word tree.", start: 145.38, end: 148.30}
+  - {text: "So there is actually, there's a lot of arguments and discussion among plant scientists about what a tree is.", start: 149.10, end: 154.50}
+  - {text: "But what we can say is that it has to have a trunk, so a main stem, and it has to have a canopy.", start: 154.60, end: 161.10}
+  - {text: "And the canopy we think usually has leaves today, but not necessarily.", start: 161.78, end: 165.54}
+  - {text: "So it is a canopy of branches.", start: 166.02, end: 168.76}
+  - {text: "That trunk has to not die back.", start: 169.58, end: 172.46}
+  - {text: "So we have structures that look like trees, but they're actually flowers.", start: 172.46, end: 175.86}
+  - {text: "So what do we mean by die back?", start: 176.42, end: 178.10}
+  - {text: "So it means that it's a perennial structure so that it will last for many, many years and not just die after one or two years.", start: 178.36, end: 187.50}
+  - {text: "And then to be a tree, the trunk and the crown have to be self supporting.", start: 187.94, end: 192.16}
+  - {text: "So what that means is that this beautiful organism can't rely on leaning on a wall or before walls leaning on another tree or leaning on other vegetation.", start: 192.70, end: 203.02}
+  - {text: "And then other people use a definition of a particular height and a particular width.", start: 203.98, end: 209.06}
+  - {text: "So there's loads of arguments about that.", start: 209.36, end: 211.42}
+  - {text: "But I think a good definition is a tree has to be above three meters.", start: 211.66, end: 215.80}
+  - {text: "And then if you took your hand and a chest height measured the width of the trunk, it has to be wider than your hand to classify as a tree.", start: 216.34, end: 225.50}
+  - {text: "And then the big controversy comes with wood.", start: 225.74, end: 228.08}
+  - {text: "Yes. Tell us, tell us what is wood exactly?", start: 228.68, end: 231.70}
+  - {text: "And can you have trees without wood?", start: 232.20, end: 233.94}
+  - {text: "Yes, we absolutely can have trees without wood.", start: 234.38, end: 236.80}
+  - {text: "Some botanists are really strict and they say you can't be a tree unless you have wood.", start: 237.32, end: 241.06}
+  - {text: "But I think that's far too strict.", start: 241.20, end: 243.88}
+  - {text: "And if you think of a tree, it can be woodless.", start: 244.28, end: 247.50}
+  - {text: "It can have wood.", start: 247.70, end: 248.42}
+  - {text: "Trees have worked out many ways of becoming a tree.", start: 248.96, end: 251.16}
+  - {text: "So what is wood?", start: 251.72, end: 252.62}
+  - {text: "Wood is a tissue made up of lots of cells.", start: 253.18, end: 256.82}
+  - {text: "And those cells are really complex and they are hollowed out.", start: 256.82, end: 260.98}
+  - {text: "And they really look like straws in their simplest form.", start: 261.34, end: 264.40}
+  - {text: "So they have a hollow center and then the cell wall of the straw is thickened with a polymer that is called lignin.", start: 265.02, end: 271.40}
+  - {text: "And lignin enables that tree to self support and not fall down and not rely on other structures to lean on.", start: 271.94, end: 279.54}
+  - {text: "So if the tree has lignin, we call it wood.", start: 280.18, end: 284.16}
+  - {text: "Actually, the Greek for wood is called xylem.", start: 284.16, end: 287.76}
+  - {text: "And that's what those cells are called wood cells are called xylem.", start: 287.86, end: 290.42}
+  - {text: "And before trees came along, what was happening with plants on earth?", start: 290.46, end: 295.30}
+  - {text: "Yeah, so we kind of always think trees are ubiquitous today.", start: 295.62, end: 299.56}
+  - {text: "So we kind of think they've always been here.", start: 299.62, end: 301.10}
+  - {text: "But if you look deep into evolutionary time using fossil plants between about 460 million years ago and 390 million years ago, the world was treeless.", start: 301.16, end: 311.68}
+  - {text: "And in actual fact, plants are just coming onto the earth's surface out of water and photosynthesizing.", start: 312.06, end: 319.54}
+  - {text: "So they're green. So if you could imagine, you would be walking in a world where you'd see lots of bear rock, very little soil.", start: 319.58, end: 326.72}
+  - {text: "And the plants are leafless.", start: 327.36, end: 329.90}
+  - {text: "They are rootless and there are no trees.", start: 330.22, end: 333.16}
+  - {text: "So the highest plants are kind of brushing your ankle, touching your knee.", start: 333.52, end: 338.06}
+  - {text: "But there's no massive tree structures on the earth before the advent of trees.", start: 338.10, end: 342.52}
+  - {text: "So if they're if they're rootless, that means they're sort of like mosses or some or something.", start: 342.96, end: 348.04}
+  - {text: "Yeah, that's right. So evolutionary groups that have evolved in the earliest phase of the earth are mosses, liverworts.", start: 348.30, end: 357.40}
+  - {text: "There's also ferns. So these plants will reproduce by spores in the early record.", start: 357.72, end: 362.18}
+  - {text: "They're rootless, but they evolve roots.", start: 362.32, end: 364.16}
+  - {text: "And in the early record, they have no leaves, but they evolve leaves.", start: 364.44, end: 367.44}
+  - {text: "OK, so Chris Berry, when did the first trees then arrive out of presumably out of this vegetation?", start: 368.04, end: 375.66}
+  - {text: "And what did they look like?", start: 376.16, end: 377.34}
+  - {text: "So the oldest trees I've seen are about three hundred and ninety three million years old from the beginning of the Middle Devonian period.", start: 377.76, end: 385.84}
+  - {text: "And I suspect that a few million years before that, there's other types of simple tree leading up to these first trees that we know about.", start: 386.30, end: 394.30}
+  - {text: "And the first tree we have is a cladozolopsid tree, and it's called calamophyton, and it's an extinct type of organism.", start: 394.82, end: 401.72}
+  - {text: "So just the definition of those two words.", start: 402.08, end: 405.58}
+  - {text: "Cladozolopsid simply means that the wood is branched.", start: 406.52, end: 409.84}
+  - {text: "So inside the tree, there's lots of sort of a network of wood rather than a solid cylinder of wood that you might expect in an oak tree or something today.", start: 410.18, end: 418.36}
+  - {text: "Got it. And the name of the tree is calamophyton.", start: 418.72, end: 421.34}
+  - {text: "So that's a strange word, which is, I think, a combination of a Greek word for reed and phyton, which means plant.", start: 421.50, end: 428.78}
+  - {text: "It was considered very simple when they first found small parts of it.", start: 429.04, end: 433.24}
+  - {text: "So these are the first trees that we know of?", start: 433.48, end: 435.54}
+  - {text: "Yes, they are. Now that we've been able to assemble the different bits that we've known about into one organism, which is a tree.", start: 435.72, end: 443.10}
+  - {text: "So it's a tree called calamophyton.", start: 443.62, end: 446.20}
+  - {text: "It's probably about two meters tall, consists of a trunk.", start: 446.82, end: 451.50}
+  - {text: "It has simple, but many roots at the bottom.", start: 451.94, end: 455.16}
+  - {text: "And from the sides and particularly the top of the growing apex of the tree would be lots of branches.", start: 456.08, end: 462.18}
+  - {text: "Those branches look a bit like, I'd say, maybe monkey arms with very long fingers and attached to those fingers would be tiny little twiggy things which weren't leaves, but were probably photosynthesizing.", start: 462.68, end: 474.94}
+  - {text: "And this thing would have just grown upwards to probably about maybe two and a half meters.", start: 475.44, end: 479.40}
+  - {text: "So Jenny wouldn't call it a tree, which is fine by me, actually.", start: 480.04, end: 483.62}
+  - {text: "But would you call it a tree then?", start: 484.22, end: 486.44}
+  - {text: "In its time it was a tree, but we might not call it a tree now.", start: 486.86, end: 490.88}
+  - {text: "It was definitely something that we'd look up to if we were a small arthropod crawling around on the ground back in the middle Devonian.", start: 491.02, end: 498.92}
+  - {text: "So Jenny, not a tree?", start: 499.36, end: 500.90}
+  - {text: "I would call it a tree.", start: 501.10, end: 502.10}
+  - {text: "I have a broad definition of a tree.", start: 502.32, end: 504.04}
+  - {text: "I just gave the strict one.", start: 504.22, end: 505.32}
+  - {text: "OK, so we know about this because of the fossil record.", start: 506.10, end: 510.36}
+  - {text: "Sticking with that, Chris, what do those fossil records tell us about the first forest?", start: 511.00, end: 516.82}
+  - {text: "The first forests I look at is occurring over the next period of about 10 million years.", start: 517.36, end: 524.56}
+  - {text: "So we find probably four really good examples of what these very primitive forests were like.", start: 524.82, end: 531.18}
+  - {text: "If we look at the first one that was known about the famous Gilboa fossil forest in upstate New York, we find these cladozolopsid trees like Callum fighton,", start: 531.80, end: 540.30}
+  - {text: "except by 10 million years later, they're actually about a meter in diameter at the base, maybe 10, 12 meters tall.", start: 540.34, end: 546.76}
+  - {text: "So really substantial trees.", start: 547.42, end: 549.16}
+  - {text: "Yeah, we find in the sandstone quarry in upstate New York where this forest occurs, between meandering between those tree bases, we find a woody trunk, but which is lying along the ground.", start: 549.68, end: 561.84}
+  - {text: "It's a new type of plant called a neurophyte, very simple leaf -like twigs, again, on little branches.", start: 562.32, end: 570.28}
+  - {text: "If we go back maybe two million years before that, go down the hills, out of the Catskill Mountains, down into the Hudson Valley, there's another place called Kero.", start: 571.02, end: 581.06}
+  - {text: "And there's another sandstone quarry there on the base of that quarry.", start: 581.50, end: 585.56}
+  - {text: "There are huge, great rooting systems.", start: 585.82, end: 587.90}
+  - {text: "And that is the base of another woody tree.", start: 588.28, end: 591.08}
+  - {text: "But this type of tree has learned to grow upright.", start: 591.30, end: 593.92}
+  - {text: "And you've been to the four major sites of the earliest fossilized trees that we know.", start: 594.52, end: 602.40}
+  - {text: "Where are the other two?", start: 602.78, end: 603.88}
+  - {text: "The other one, which is of a similar age to the two I've just described, is in Spitzbergen, about nearly 80 degrees north.", start: 604.20, end: 611.70}
+  - {text: "Though when that forest was alive, it was on the equator.", start: 612.44, end: 614.52}
+  - {text: "And there we see Lycopod trees growing, which is a third type of tree.", start: 615.00, end: 620.98}
+  - {text: "And that tree has a little bulbous base.", start: 621.30, end: 623.56}
+  - {text: "And then a trunk, which is just a column, which would have been covered in little leaves.", start: 623.92, end: 627.78}
+  - {text: "And when it got to a certain height, about three metres, it would then branch, start dividing into two and two and two and two and", start: 628.32, end: 636.00}
+  - {text: "form probably an upright crown at the top of it.", start: 636.00, end: 638.88}
+  - {text: "These trees are still excellent today in the form of little herbaceous plants.", start: 639.44, end: 643.28}
+  - {text: "And then the last and the oldest fossil forest and was found by a couple of Cambridge sedimentologists, Neil Davis and Will McMahon, down on the coast of Somerset.", start: 643.82, end: 654.22}
+  - {text: "And they sent me some pictures of some trees and they look a bit like a tire mark from a bicycle going across the sandstone.", start: 654.52, end: 661.62}
+  - {text: "And I recognised immediately the pattern of branches that are found in Calamifiedon, which is the oldest tree.", start: 662.22, end: 669.40}
+  - {text: "It's from about 390 million years.", start: 670.06, end: 672.46}
+  - {text: "Thanks very much, Chris.", start: 672.96, end: 674.64}
+  - {text: "Bill Baker, from physical trees, early physical trees to trees as a metaphor, you've called the Tree of Life, Biology's periodic table.", start: 674.96, end: 685.62}
+  - {text: "Can you explain what you mean by that?", start: 686.14, end: 687.96}
+  - {text: "Well, metaphorical, the idea of the metaphorical tree of life has been around for thousands of years in religious, mythological, cultural contexts.", start: 688.54, end: 700.72}
+  - {text: "Think of the Tree of Life in the Garden of Eden or this great tree, Yggdrasil, that connected the nine realms of Norse mythology.", start: 701.10, end: 711.34}
+  - {text: "But what I'm talking about today is the evolutionary Tree of Life, so the genealogy of everything that lives and has lived.", start: 711.90, end: 719.70}
+  - {text: "And I liken it to the periodic table because the Tree of Life helps us understand the properties of living things, just like the periodic table helps us understand", start: 720.26, end: 733.66}
+  - {text: "the relationships and properties of the chemical elements.", start: 734.24, end: 737.64}
+  - {text: "So if you are looking to find your way through the complexity of biodiversity, the Tree of Life is like a roadmap.", start: 738.54, end: 746.66}
+  - {text: "It kind of cuts your workload down because, you know, you don't have to, if you're interested, for example, in a group of plants that might produce chemicals", start: 747.12, end: 754.92}
+  - {text: "that could have medicinal value and you want to explore those plants for their medicinal properties.", start: 754.92, end: 760.68}
+  - {text: "You don't have to look at every plant.", start: 760.96, end: 762.84}
+  - {text: "You can use the Tree of Life and what we call its predictive power to direct your next sampling for a.", start: 762.84, end: 771.02}
+  - {text: "So it's really central.", start: 771.56, end: 772.64}
+  - {text: "It's the foundation of biology in many respects and indeed the kinds of things that Jenny and Chris have been talking about are all underpinned by concepts of the Tree of Life.", start: 773.26, end: 782.88}
+  - {text: "And you've been involved in the building of a complex Tree of Life at Q.", start: 783.02, end: 788.30}
+  - {text: "Can you explain to us how you go about doing that?", start: 789.02, end: 791.20}
+  - {text: "And what does it tell us specifically about the evolution of trees?", start: 791.20, end: 794.40}
+  - {text: "In a perfect world, we'd be able to reconstruct the Tree of Life from what we see written in the rocks.", start: 795.28, end: 802.06}
+  - {text: "The fossil record would tell us how everything is connected.", start: 802.30, end: 805.48}
+  - {text: "But as Chris has just described very clearly, actually, the fossil record is very incomplete and it's difficult to piece together.", start: 805.92, end: 814.14}
+  - {text: "But there there is another kind of fossil record.", start: 814.26, end: 817.00}
+  - {text: "There's the molecular fossil record, which is effectively the changes in DNA that accumulate over time.", start: 817.38, end: 824.60}
+  - {text: "All of us ourselves have DNA.", start: 824.72, end: 826.86}
+  - {text: "That is what encodes our properties and functions and over time DNA mutates.", start: 827.68, end: 833.10}
+  - {text: "Now, if you can pull together DNA code, DNA sequence, as we call it, from different species, but for the same parts of the genome and line those up, you're able to run it through a complex algorithm", start: 833.80, end: 847.36}
+  - {text: "and infer a tree or recover a tree.", start: 847.88, end: 850.96}
+  - {text: "We often talk about recovering as if it's a form of excavation, almost.", start: 851.06, end: 855.42}
+  - {text: "We know that there is a tree out there, but that we have to somehow get to it through our molecular genetic shenanigans.", start: 856.06, end: 863.22}
+  - {text: "I mean, building the Tree of Life is a huge global endeavour.", start: 864.06, end: 866.82}
+  - {text: "There are many, many researchers involved in this.", start: 866.90, end: 869.10}
+  - {text: "And at Q, it's been our bread and butter for decades.", start: 869.26, end: 871.86}
+  - {text: "For the last decade, I've led a programme called the Plant and Fungal Trees programme at Q.", start: 872.50, end: 877.72}
+  - {text: "And we have recently, it sounds rather glib, we have recently completed the flowering plant, Tree of Life, by which I mean we have sequenced one representative of every genus of flowering plant.", start: 877.96, end: 889.30}
+  - {text: "Now, the flowering plants make up 90 % of the plants that grow on Earth today.", start: 889.78, end: 895.06}
+  - {text: "Chris has not talked about flowering plants yet.", start: 895.82, end: 897.74}
+  - {text: "He's talked about things that come long before flowering plants, but there are 350 ,000 of them.", start: 897.84, end: 902.48}
+  - {text: "We've sequenced about 90 % of the genera.", start: 902.48, end: 905.94}
+  - {text: "That represents about 98 % of the total diversity.", start: 906.04, end: 908.84}
+  - {text: "And we've done that using Q's amazing collections and really novel genomic methods.", start: 909.22, end: 915.06}
+  - {text: "And I think the thing we're most proud about is that everything that we have done is in the public domain and free for other people to use.", start: 915.30, end: 922.02}
+  - {text: "And it's been a really wonderful springboard for other people's research.", start: 922.16, end: 925.96}
+  - {text: "And are trees included in that?", start: 926.24, end: 928.40}
+  - {text: "Because some of them are flowering and some of them aren't.", start: 928.74, end: 930.66}
+  - {text: "Yes, so there are many tens of thousands of the 350 ,000 species of flowering plants are trees.", start: 930.66, end: 938.26}
+  - {text: "And what our Angiosperm Tree of Life shows us is that...", start: 938.52, end: 943.58}
+  - {text: "Angiosperm? Sorry, flowering plant.", start: 943.58, end: 945.44}
+  - {text: "Angiosperm is a synonym for flowering plants.", start: 945.60, end: 947.72}
+  - {text: "Plants that produce flowers and produce true fruit.", start: 948.12, end: 952.02}
+  - {text: "And so our flowering plant Tree of Life shows us very clearly that trees are not a group that they have originated repeatedly across this enormous group.", start: 952.64, end: 962.76}
+  - {text: "We see a wonderful pattern in the way the flowering plants diversified very early on in their origin about 150 million years ago.", start: 963.02, end: 971.56}
+  - {text: "There was this enormous surge in diversification.", start: 971.70, end: 974.02}
+  - {text: "All the major lineages, what we call the orders of flowering plants appearing.", start: 974.46, end: 978.86}
+  - {text: "But we don't think that they were trees at that time.", start: 979.20, end: 982.40}
+  - {text: "The first groups that popped off were flimsy shrubs and climbers.", start: 983.04, end: 988.20}
+  - {text: "Or the water lilies, for example, they can't even make wood in their aquatics.", start: 988.20, end: 991.84}
+  - {text: "There's a lack of clarity about exactly what the sequence was of diversification.", start: 992.46, end: 997.22}
+  - {text: "But we know that trees were probably not there in the earlier stages.", start: 997.80, end: 1001.84}
+  - {text: "But by the end of the Cretaceous, they were very, very much present.", start: 1002.00, end: 1005.34}
+  - {text: "OK, so as we've established, they've arrived around 380, 390 million years ago.", start: 1005.94, end: 1014.02}
+  - {text: "Jenny McElwain, how did they start to change the environment?", start: 1014.02, end: 1018.56}
+  - {text: "Yeah, so I think we mostly think of trees.", start: 1019.26, end: 1021.90}
+  - {text: "We use the term ecosystem engineer.", start: 1022.36, end: 1024.26}
+  - {text: "So they just build this structural complexity.", start: 1024.86, end: 1029.66}
+  - {text: "So if you imagine you've got 20 herbs, you know, they're not trees.", start: 1030.10, end: 1034.18}
+  - {text: "They're small in a space and now swap that with 20 trees.", start: 1034.34, end: 1038.02}
+  - {text: "So the trees will increase the volume of complexity.", start: 1038.40, end: 1041.80}
+  - {text: "So as soon as you have trees, you begin to have layers of habitats.", start: 1041.80, end: 1047.08}
+  - {text: "So let's say you go hiking on a hot day.", start: 1047.84, end: 1050.46}
+  - {text: "It's really hot. It's really drying, but you walk into a cool forest.", start: 1051.08, end: 1054.98}
+  - {text: "You can feel the moisture increase.", start: 1055.18, end: 1056.92}
+  - {text: "You can feel the shade and the cool.", start: 1057.12, end: 1058.82}
+  - {text: "So what trees do in a space is they create microclimates.", start: 1059.52, end: 1064.70}
+  - {text: "They change the light.", start: 1065.38, end: 1067.28}
+  - {text: "So you now have understory plants.", start: 1067.58, end: 1069.28}
+  - {text: "You have middle story plants and you have canopy plants.", start: 1069.28, end: 1071.94}
+  - {text: "They change the humidity.", start: 1072.48, end: 1073.94}
+  - {text: "They change the complexity of how everything interacts.", start: 1074.30, end: 1077.28}
+  - {text: "And they and this is just above ground, below ground.", start: 1078.40, end: 1082.42}
+  - {text: "They're doing the same.", start: 1082.74, end: 1083.70}
+  - {text: "So they're extracting elements from rocks, building soil, building relationships with fungi.", start: 1083.86, end: 1088.72}
+  - {text: "So per unit space, trees add complexity and they engineer space and climate and resources for other plants to come in and other animals and fungi, other groups to come in.", start: 1089.28, end: 1101.62}
+  - {text: "So very fundamental really in terms of how life evolves.", start: 1102.22, end: 1106.22}
+  - {text: "Chris, are trees from 390 million years ago recognizable to us?", start: 1107.18, end: 1113.22}
+  - {text: "Or are today's trees very, very different from what first emerged?", start: 1113.42, end: 1118.66}
+  - {text: "And if so, where do those differences lie?", start: 1119.08, end: 1121.10}
+  - {text: "So if we look at the archaeoptery, the one with the big roots that we saw at Cairo in the forest, this would be a recognizable form to us because it's got big, sturdy roots.", start: 1121.10, end: 1132.64}
+  - {text: "It's got a woody trunk with some sort of bark on the outside of it.", start: 1132.82, end: 1136.78}
+  - {text: "It may have branches, but it definitely has leafy, frond -like branches attached to it.", start: 1137.42, end: 1143.54}
+  - {text: "So it would have nice green leaves and so it probably reached a height of maybe at that time, 20 meters or so.", start: 1143.56, end: 1149.38}
+  - {text: "So does it look like something like a pine tree?", start: 1149.38, end: 1152.14}
+  - {text: "Yes, to a certain extent, that would be the basic thing that you might recognize as sort of leafy pine tree, if you could imagine such a thing.", start: 1153.38, end: 1161.52}
+  - {text: "The lycopods, such as we saw in Spitzburg and were quite different, I think, to anything that we really see today because they would grow up as a leafy trunk from the ground", start: 1162.20, end: 1172.30}
+  - {text: "and they would grow up to this time three meters, maybe, and then start branching and have this branching crown of leafy, smaller branches at the top, which would then terminate in a cone.", start: 1172.98, end: 1186.38}
+  - {text: "That would be where the reproductive part was.", start: 1186.62, end: 1188.52}
+  - {text: "And I don't really know of anything that looks particularly like that today.", start: 1188.88, end: 1193.24}
+  - {text: "There's some cactuses and things which maybe do a little something a little bit similar, but the claddysylopsids are really fairly unique because the way that", start: 1193.52, end: 1203.26}
+  - {text: "they support themselves is with this very much divided woody structure.", start: 1203.26, end: 1207.18}
+  - {text: "Around a hollow interior, it's a bit like the Eiffel Tower inside the plant, holding it up.", start: 1207.18, end: 1213.62}
+  - {text: "And then with these monkey -armed branches on the side of them, which then dropping off as the apex grows upwards, it's a form that we might recognize from a palm.", start: 1213.94, end: 1223.90}
+  - {text: "I'm sure Bill might talk about this or a tree fern, but without actually having any leaves.", start: 1224.06, end: 1230.04}
+  - {text: "So a quite unusual type of structure, but quite distinctive.", start: 1230.38, end: 1234.70}
+  - {text: "So when do things like oaks and ashes and birches that we know today?", start: 1234.70, end: 1239.58}
+  - {text: "When do they start evolving or do we not know?", start: 1239.78, end: 1241.76}
+  - {text: "This will not be till probably about 200, 250 million years later.", start: 1241.78, end: 1246.26}
+  - {text: "So these early Devonian forests are really quite distinct.", start: 1246.70, end: 1250.42}
+  - {text: "And one thing you should perhaps recognize is that there's no seeds there.", start: 1250.78, end: 1254.30}
+  - {text: "There's no flowers. There's almost no insects, maybe just millipedes, no birds.", start: 1254.40, end: 1260.16}
+  - {text: "Very low diversity, not this tropical ecosystem that we think of today as being a tropical forest.", start: 1260.82, end: 1267.58}
+  - {text: "This is really something very distinctive and without the level of interactions that Jenny's talked about, perhaps apart from the fungi in the soil, which might be quite interesting.", start: 1267.96, end: 1277.74}
+  - {text: "Well, you mentioned tropical forests, rain forests.", start: 1277.94, end: 1281.48}
+  - {text: "Bill, you've done quite a lot of work on palms.", start: 1282.44, end: 1285.32}
+  - {text: "What can you tell us about palms and rainforests?", start: 1285.86, end: 1289.06}
+  - {text: "Rain forests obviously are iconic places for trees.", start: 1289.06, end: 1293.06}
+  - {text: "They're also really important for biodiversity.", start: 1293.38, end: 1295.38}
+  - {text: "We think maybe half of all plant species occur in rainforests, which take up just seven percent of the world's land surface area.", start: 1296.30, end: 1302.68}
+  - {text: "So they're really important.", start: 1302.74, end: 1303.58}
+  - {text: "And that idea begs the question, well, how on earth did that come about?", start: 1304.28, end: 1308.40}
+  - {text: "So the palms are a fruitful, provided fruitful line of inquiry on this subject, because palms are found all over the tropics.", start: 1309.24, end: 1318.70}
+  - {text: "They're widespread, two and a half thousand species, but they are mechanically kind of bound to the tropics.", start: 1318.70, end: 1325.50}
+  - {text: "They can't cope with freezing on the whole.", start: 1325.62, end: 1328.28}
+  - {text: "There are a few exceptions.", start: 1328.40, end: 1329.14}
+  - {text: "Don't write in on the whole palms can't cope with freezing because freezing causes catastrophic embolism of their plumbing.", start: 1329.72, end: 1339.08}
+  - {text: "Basically, you get a bubble and it can't function anymore.", start: 1339.26, end: 1341.88}
+  - {text: "So this makes them what we call niche conserve.", start: 1342.42, end: 1345.16}
+  - {text: "They are bound to a certain environment.", start: 1345.16, end: 1348.32}
+  - {text: "And as you can tell already, I love building the tree of life.", start: 1349.02, end: 1352.04}
+  - {text: "And my early days were spent frenetically building a palm tree of life.", start: 1352.24, end: 1355.74}
+  - {text: "And we have used that tree to try to see what that might tell us about the rainforest by combining it with fossils to turn this branching diagram actually into a proper chronology,", start: 1356.10, end: 1369.44}
+  - {text: "if you like, so that the individual splits in this tree fit to a time.", start: 1369.56, end: 1373.88}
+  - {text: "We've related on to that tree, the environments in which the modern species occur and reconstructed what the original, the ancestral condition might be.", start: 1373.88, end: 1384.30}
+  - {text: "And that tree told us that analysis published in 2011 told us that palms appear to have evolved in the rainforest 100 million years ago, somewhere in the northern hemisphere.", start: 1384.40, end: 1394.74}
+  - {text: "This caused a bit of a drama because, in fact, from a paleo perspective, the fossil evidence for rainforest doesn't exist at that time.", start: 1395.44, end: 1404.72}
+  - {text: "The earliest fossil assemblages that look like they characterize a rainforest don't come till after the meteor impact and the extinction of dinosaurs around 60, 65 million years ago.", start: 1405.00, end: 1417.08}
+  - {text: "So what's happening there if the evidence is so contradictory?", start: 1417.44, end: 1421.98}
+  - {text: "Well, we, of course, what is science for, if not for revisiting later?", start: 1422.60, end: 1428.18}
+  - {text: "So the update to all of this is that we have managed to build an even bigger tree of life for palms with 80 percent of the two and a half thousand species in it now that gives us a more nuanced insight", start: 1428.18, end: 1439.42}
+  - {text: "that shows us that palms are even older, perhaps 120 million years, but that it appears now that they have old in a non rainforest environment", start: 1440.20, end: 1449.46}
+  - {text: "but quickly moved into them around 60 million years.", start: 1449.46, end: 1452.32}
+  - {text: "So by doing more work, we finally get a close match that I hope will cause less controversy among my paleo friends.", start: 1452.52, end: 1459.70}
+  - {text: "Thanks for that clarification, Bill.", start: 1459.98, end: 1461.88}
+  - {text: "Jenny, we heard from Bill that palms exist in rainforests, or I think it was you that they can't exist in different temperatures.", start: 1462.74, end: 1472.28}
+  - {text: "So what makes some trees resilient and other trees not resilient?", start: 1472.84, end: 1477.16}
+  - {text: "Yeah, that's that's such a great question.", start: 1477.88, end: 1479.86}
+  - {text: "And I actually think nobody can answer it.", start: 1479.98, end: 1482.60}
+  - {text: "Yes. So I think this is really an active area of research for plant scientists in all disciplines.", start: 1482.60, end: 1489.22}
+  - {text: "And we really need to know which trees are going to be resilient in the face of climate change in the future.", start: 1489.84, end: 1497.02}
+  - {text: "And there's lots of ways of answering those questions.", start: 1497.34, end: 1499.64}
+  - {text: "You can come from lots of different disciplines and answer in different ways.", start: 1499.82, end: 1502.74}
+  - {text: "But I suppose thinking of my own research area, we know from looking back at the fossil record at times of natural global warming in the past.", start: 1502.86, end: 1512.92}
+  - {text: "So this would be caused by volcanism, that if you push the climate too far and too warm, we know that trees have limits.", start: 1513.16, end: 1522.28}
+  - {text: "So you push the climate beyond their niche or their adapted envelope.", start: 1522.68, end: 1529.12}
+  - {text: "And they suddenly disappear.", start: 1529.80, end: 1532.16}
+  - {text: "And we don't see them as fossils anymore.", start: 1532.58, end: 1534.92}
+  - {text: "And instead we see the really ancient plants thrive, like ferns and those mosses that we talked about in the early phase of the earth.", start: 1535.12, end: 1543.06}
+  - {text: "So what we do know is that trees, all trees have limits.", start: 1543.84, end: 1546.76}
+  - {text: "We see this if you go to the Arctic today or the Antarctic, there are no trees.", start: 1547.34, end: 1550.78}
+  - {text: "It's a treeless landscape.", start: 1550.98, end: 1552.50}
+  - {text: "It's because it's too cold.", start: 1552.92, end: 1553.84}
+  - {text: "And then you see it in a desert.", start: 1554.38, end: 1555.58}
+  - {text: "In the most extreme deserts, it's too hot.", start: 1556.62, end: 1558.84}
+  - {text: "So I kind of think we can't be complacent.", start: 1559.32, end: 1562.12}
+  - {text: "We know trees, we love trees, but we absolutely can't be complacent.", start: 1562.74, end: 1566.68}
+  - {text: "And we've set up a project in Trinity College Botanic Garden called the Witness Tree Project.", start: 1567.16, end: 1573.62}
+  - {text: "And the idea is that all trees are sensors and they're witnesses of climate change.", start: 1574.40, end: 1580.64}
+  - {text: "And because they're long -lived organisms, you know, many live for thousands of years.", start: 1580.86, end: 1584.78}
+  - {text: "Most live for hundreds of years or certainly decades.", start: 1585.00, end: 1588.48}
+  - {text: "We are tracking 21 trees.", start: 1589.30, end: 1592.60}
+  - {text: "And it was very difficult to choose which ones.", start: 1592.86, end: 1594.54}
+  - {text: "21 trees every year over time to answer the question you posed, which trees are most resilient?", start: 1595.10, end: 1602.16}
+  - {text: "And we're trying to understand, it's called a common garden experiment because we have trees from all over the world growing in the same botanic garden.", start: 1602.52, end: 1611.46}
+  - {text: "So we have trees from the subtropics, trees from cold environments, trees from very warm environments.", start: 1612.10, end: 1619.30}
+  - {text: "And we're trying to understand fundamentally, what is it about their traits that enable some to be resilient and others to not withstand a change in climate?", start: 1619.56, end: 1630.26}
+  - {text: "So Chris Berry, in that case, presumably even resilient trees would find it difficult to adapt year on year.", start: 1631.00, end: 1639.04}
+  - {text: "So you're looking at tree resilience over millions of years, hundreds of millions of years.", start: 1639.40, end: 1646.34}
+  - {text: "Do you, are you able to say, ah, yes, this tree faded away, but became an oak tree or something like that?", start: 1647.12, end: 1655.38}
+  - {text: "Or do you see hard cutoff points?", start: 1655.60, end: 1658.70}
+  - {text: "One of the interesting things about how trees grows is where the growth occurs, where the primary growth occurs.", start: 1659.95, end: 1667.07}
+  - {text: "And for my very old trees, this tends to be the actual apex of the trunk.", start: 1667.35, end: 1671.49}
+  - {text: "So at the apex of the trunk, there's a thing called a meristem, which is producing new cells, which become part of the trunk.", start: 1671.97, end: 1679.13}
+  - {text: "And in these ancient types of trees, then pretty much the whole body plan of the tree was organized from there.", start: 1679.13, end: 1688.03}
+  - {text: "So it would be given instructions as to where the branches would grow when they grow in geometric patterns coming back from the meristem.", start: 1688.15, end: 1695.33}
+  - {text: "Problem with this is that that's extremely vulnerable because if you take out the meristem, if you have frost or something, or this big bulbous thing on the top of the trunk, then it can easily be destroyed.", start: 1696.15, end: 1707.21}
+  - {text: "And it's the same for the lycopod trees as well.", start: 1707.21, end: 1709.43}
+  - {text: "I think archaeopterists, the big tall woody tree that we see at Cairo in upstate New York is a really interesting thing because with my PhD student Amy Wyatt,", start: 1710.07, end: 1721.19}
+  - {text: "we've been in Spitzburg and collecting what we think are trunks of these archaeopterist trees.", start: 1721.27, end: 1725.43}
+  - {text: "And up to a certain size, they seem to have very geometric insertion of the leafy branches that they had, which seems to fit in with this model.", start: 1726.01, end: 1737.01}
+  - {text: "It's all coming from the apex.", start: 1737.01, end: 1738.23}
+  - {text: "But work by American, particularly French colleagues, looking at the anatomy of some of these trees, shows that there's a new type of branching which can develop in archaeopterists.", start: 1739.13, end: 1749.33}
+  - {text: "And that's to say that it starts growing new branches from essentially the surface of the wood.", start: 1749.63, end: 1755.25}
+  - {text: "So it can produce a new branch anywhere on the trunk.", start: 1755.67, end: 1759.33}
+  - {text: "And that can grow into a big branch, a long live branch with fronds on it itself, or even into a new trunk.", start: 1759.73, end: 1767.15}
+  - {text: "So that sort of development gives the plant much more resilience because you can lop off the top, you can have wind damage, other sorts of damage.", start: 1768.23, end: 1777.29}
+  - {text: "Another tree can fall down and take half of it away.", start: 1778.09, end: 1780.63}
+  - {text: "It could still grow.", start: 1780.73, end: 1781.37}
+  - {text: "So I think basically within archaeopterists, at some point it changed from one type of branching to the other and became more resilient and lasted for 25 million years as a genus.", start: 1781.97, end: 1793.61}
+  - {text: "And I think you can also add seeds to that.", start: 1793.61, end: 1796.17}
+  - {text: "If you add seeds to a plant, then it's also become more resilient.", start: 1796.47, end: 1800.07}
+  - {text: "When do seeds come in as it were for trees?", start: 1800.15, end: 1803.39}
+  - {text: "For the trees, not totally sure, but seeds appear in the fossil record towards the end of the Devonian, but within shrubby plants rather than within trees.", start: 1804.07, end: 1814.21}
+  - {text: "So the first seeds are probably in plants which will later become trees rather than in the earliest trees.", start: 1814.81, end: 1821.81}
+  - {text: "Bill, why do so many plants end up looking like trees?", start: 1822.69, end: 1827.43}
+  - {text: "Is there something about the tree structure which makes it particularly efficient or adaptable?", start: 1827.63, end: 1834.97}
+  - {text: "Well, being a tree has a lot of benefits.", start: 1835.43, end: 1837.51}
+  - {text: "It gives you more access to light, probably more photosynthetic efficiency.", start: 1837.89, end: 1845.13}
+  - {text: "It gives you longevity, perhaps makes it easier for you to disperse your pollen or seeds.", start: 1845.41, end: 1851.95}
+  - {text: "And because these pressures exist in many different places, this leads to what we call convergent evolution, the independent origination of traits in unrelated lineages.", start: 1852.63, end: 1866.67}
+  - {text: "I mean, there is, of course, selection to not be a tree in some places.", start: 1867.35, end: 1870.85}
+  - {text: "There are no trees up beyond the treeline in the mountains because it's actually better to be able to die back to a perennial rootstock and in the desert it's better to be an annual and live fast,", start: 1870.85, end: 1882.65}
+  - {text: "die young in an environment where there is not much water.", start: 1882.93, end: 1887.63}
+  - {text: "But as a result, we see in the flowering plants, at least we see many instances of plant families that have both tree and non -tree members.", start: 1888.55, end: 1898.47}
+  - {text: "So we all know the apple, cherry, plum, for example.", start: 1898.97, end: 1904.47}
+  - {text: "They're all members of the Rose AC, the Rose family, but so is the strawberry, and everyone knows that strawberries don't grow on trees.", start: 1904.59, end: 1911.19}
+  - {text: "The same with mint, for example.", start: 1912.19, end: 1914.71}
+  - {text: "One of the relatives of mint, our little sappy herb, is the great teak tree, one of the most valuable timbers on the planet.", start: 1915.15, end: 1922.71}
+  - {text: "And palms really take the biscuit because they can't make proper wood.", start: 1923.51, end: 1927.25}
+  - {text: "They grow a bit like Chris was describing earlier from a big fat bud on the top.", start: 1927.63, end: 1932.79}
+  - {text: "They're embedded in the monocots, which is a group that includes cereals, rice, as well as orchids, lilies, normally floppy things, sappy things that can't make proper wood.", start: 1933.73, end: 1944.81}
+  - {text: "And yet, palms have escaped this constraint to produce trees that can be as tall as 60 metres.", start: 1945.57, end: 1953.51}
+  - {text: "And in the Amazon, six of the 10 commonest trees are palms.", start: 1954.11, end: 1959.95}
+  - {text: "So that means the commonest tree, and one of the Asa 'i species, Utterpi Precatoria, there are five billion individuals of that thing, which is kind", start: 1960.55, end: 1969.63}
+  - {text: "of just pretending to be a proper tree.", start: 1969.63, end: 1971.61}
+  - {text: "Jenny, I want to concentrate a bit on what the evolution of trees can tell us about the environment.", start: 1972.65, end: 1980.37}
+  - {text: "Presumably before trees came along, the earth was still pretty hot and humid, I would have thought.", start: 1980.85, end: 1987.21}
+  - {text: "What do trees do to change the environment?", start: 1987.49, end: 1990.37}
+  - {text: "Yeah, so trees are sensors of their environment, so we can actually use them in the fossil record because we have beautiful fossils that Chris has spoken about.", start: 1991.13, end: 2001.47}
+  - {text: "We have fossil leaves.", start: 2001.93, end: 2002.97}
+  - {text: "We can use those fossils of trees through time to reconstruct how the environment has changed.", start: 2003.29, end: 2010.41}
+  - {text: "So we've been able to reconstruct how the atmosphere has changed in terms of how much carbon dioxide there was in the past, how much oxygen there was in the past,", start: 2011.17, end: 2021.21}
+  - {text: "and also then if you've got greenhouse gases, you can plug that into a climate model, work with your climate colleagues, and you can reconstruct how climate has changed through time.", start: 2021.59, end: 2030.65}
+  - {text: "So when trees first start appearing, do they begin to oxygenate the atmosphere?", start: 2030.79, end: 2036.53}
+  - {text: "Yeah, so I think that there's a long transition, but the net effect of going from a treeless world to a world of forests and woody organisms and trees is that those trees sequestered, so they pulled carbon out of the atmosphere,", start: 2036.97, end: 2054.79}
+  - {text: "and then many of them, like the lycopods that Chris was talking about, rather than fungi breaking those trunks down and releasing the carbon back, that carbon was trapped in swamps and peats,", start: 2055.53, end: 2070.72}
+  - {text: "and the net effect over time, millions of years, is that carbon dioxide levels dropped from really high levels, really hot earth to a cool climate, and oxygen levels were increased.", start: 2070.72, end: 2082.98}
+  - {text: "So about 300 million years ago, we had this peak in oxygen.", start: 2083.52, end: 2087.60}
+  - {text: "It could have been higher than 25 % oxygen, but even 30 % oxygen, so much higher than today.", start: 2087.82, end: 2094.00}
+  - {text: "So does that mean that the methane, for example, that's being released from peat bogs and from permafrost and so on as the earth warms, is that those gases which trees originally stored?", start: 2094.62, end: 2111.48}
+  - {text: "So partly, I think any of the carbon in our fossil fuels, so coal, oil, is the remnants of photosynthesis from millions of years ago.", start: 2112.70, end: 2125.48}
+  - {text: "Yeah, so we're burning carbon that was stored millions of years ago and took millions of years to store, and we're releasing it rapidly into the atmosphere.", start: 2125.48, end: 2135.56}
+  - {text: "In a very short space of time, obviously.", start: 2135.60, end: 2137.88}
+  - {text: "Chris, as well as cooling the planet, trees also contributed to warming the planet.", start: 2138.92, end: 2146.04}
+  - {text: "Is that right? That's right.", start: 2146.24, end: 2147.96}
+  - {text: "I mean, I'm massively impressed by how much carbon can be sucked out of the atmosphere by trees.", start: 2148.20, end: 2152.78}
+  - {text: "It's amazing. If we look at the newer graphs of carbon dioxide changing over the year, in the northern hemisphere summer, we can pull out 1", start: 2152.96, end: 2160.48}
+  - {text: "% of the carbon dioxide in the atmosphere in one year.", start: 2160.48, end: 2164.40}
+  - {text: "It then gets released back again as the leaves sort of decay.", start: 2164.76, end: 2167.32}
+  - {text: "But so over millions of years, this has got to be a really serious thing.", start: 2167.54, end: 2170.98}
+  - {text: "So you can model that, as Jenny says.", start: 2171.82, end: 2174.24}
+  - {text: "And one interesting thing that I think out of all the papers I've read.", start: 2174.80, end: 2179.58}
+  - {text: "I've been down to South Africa, which was about 70 degrees south, back in the late Devonian.", start: 2180.74, end: 2186.38}
+  - {text: "And there's archaeoptery trees there.", start: 2186.98, end: 2188.66}
+  - {text: "And that's more near the pole than Reykjavik.", start: 2189.64, end: 2193.60}
+  - {text: "Why were there in the late Devonian trees there?", start: 2194.14, end: 2196.80}
+  - {text: "Because Jenny said that all this carbon dioxide being pulled out of the atmosphere, you'd expect that the planet would just get cooler and cooler and cooler.", start: 2196.86, end: 2204.48}
+  - {text: "But the models of my French colleagues actually suggest that the temperature stayed the same as all this carbon dioxide get pulled out of the atmosphere.", start: 2205.08, end: 2213.54}
+  - {text: "And in their model, which is a conceptual model, it's not real life, in their model, the growth and spread of the forests changes the way in which the Earth reflects sunlight.", start: 2214.14, end: 2224.58}
+  - {text: "So instead of the sunlight bouncing off bear rock and so on, and back into the space, that heat comes in, it hits the plants.", start: 2225.30, end: 2235.42}
+  - {text: "And as you know, tropical forests are very warm.", start: 2235.86, end: 2237.68}
+  - {text: "It absorbs heat and moisture and all the things that we've talked about.", start: 2237.68, end: 2241.22}
+  - {text: "And so the reverse effect of the forest spreading actually delayed the cooling of the planet.", start: 2241.68, end: 2248.12}
+  - {text: "And it wasn't till the very end of the Devonian that it sort of caught up.", start: 2248.40, end: 2251.48}
+  - {text: "And then we descend into an ice age in the early Carboniferous.", start: 2251.76, end: 2255.06}
+  - {text: "Bill Baker, we've heard how ancient trees evolved over millions of years.", start: 2256.29, end: 2263.75}
+  - {text: "Are trees still evolving now?", start: 2264.19, end: 2266.31}
+  - {text: "And do we know how they're evolving?", start: 2266.31, end: 2268.61}
+  - {text: "Absolutely, they are. It's a bit hard for us to see on our kind of human time scales.", start: 2269.05, end: 2274.71}
+  - {text: "But on evolutionary time scales, we know that there's still a lot going on.", start: 2274.85, end: 2279.69}
+  - {text: "So for example, we know that some groups are radiating really rapidly.", start: 2279.83, end: 2284.33}
+  - {text: "The Inga trees, for example, in the Amazon, really important trees to people and to the forest.", start: 2284.83, end: 2290.97}
+  - {text: "The Inga trees have produced 300 species in the last 10 million years, which is an astonishing rate of diversification.", start: 2291.97, end: 2298.93}
+  - {text: "We also know from islands, from weird things that happen on islands that trees are evolving.", start: 2299.59, end: 2305.63}
+  - {text: "Islands, there's a thing called island syndrome where you get, for example, gigantism.", start: 2306.35, end: 2312.45}
+  - {text: "Think of a giant tortoise on the Galapagos or flightlessness in birds like the dodo, the now extinct dodo.", start: 2312.63, end: 2321.37}
+  - {text: "Well, in plants, we get what we call insular woodiness.", start: 2321.79, end: 2325.03}
+  - {text: "Which is when formerly herbaceous lineages become woody, not necessarily trees, but they become woody.", start: 2326.43, end: 2332.65}
+  - {text: "So for example, in the Canary Islands, there are 41 independent lineages that have done that.", start: 2332.81, end: 2338.93}
+  - {text: "So you get sort of thistles that are now quite, you know, well, they're stumpy trees.", start: 2340.67, end: 2344.57}
+  - {text: "My favorite is one that I've been lucky enough to see on Lord Howe Island, which is a little flake of a remnant volcano two hours flight east of Sydney.", start: 2344.97, end: 2354.75}
+  - {text: "And there you can find a relative of the African violet, which many listeners will grow on their windowsill, a little mushy houseplant.", start: 2354.75, end: 2363.91}
+  - {text: "But it's a great big tree.", start: 2364.39, end: 2366.97}
+  - {text: "And it's a bizarre experience as a botanist to see something you really associate with the forest understory there, with its sort of spectacular waxy orange flowers.", start: 2368.61, end: 2380.89}
+  - {text: "They call it the pumpkin tree, I think because of the colour of the flowers.", start: 2381.07, end: 2384.87}
+  - {text: "And which one of you spoke about cabbages, which might be turning into trees?", start: 2385.45, end: 2390.13}
+  - {text: "Yes, that's the case.", start: 2390.15, end: 2391.05}
+  - {text: "That's the case in the Canary Islands.", start: 2391.97, end: 2393.57}
+  - {text: "What is a wooden cabbage, tell me.", start: 2393.65, end: 2396.13}
+  - {text: "Not especially handsome, but nor particularly tasty, I suspect.", start: 2397.59, end: 2402.45}
+  - {text: "But you see this happening on different islands, so it's really important in Hawaii as well.", start: 2402.91, end: 2406.95}
+  - {text: "And it can also happen on what we call sky islands.", start: 2408.35, end: 2412.67}
+  - {text: "So if you like seeing mountains as island in a terrestrial landscape.", start: 2413.13, end: 2419.43}
+  - {text: "So, for example, in the Andes, in the last two million years, the lupins have turned into shrubs and trees, producing 80 different species.", start: 2419.59, end: 2428.83}
+  - {text: "It's completely mind boggling.", start: 2429.27, end: 2430.55}
+  - {text: "Jenny, tell us towards the end now whether you can predict which trees will, I mean, given the project you're involved in, which trees are going to survive?", start: 2431.13, end: 2443.91}
+  - {text: "Can you model the trees against the trajectory of climate change?", start: 2444.13, end: 2448.37}
+  - {text: "We can do that, but I don't think we can give you the answer, yes.", start: 2448.99, end: 2452.33}
+  - {text: "And I don't really, I think everybody's trying, but we're not there, yes.", start: 2452.49, end: 2456.67}
+  - {text: "But I think we have to, as scientists, use all the tools possible.", start: 2457.07, end: 2461.49}
+  - {text: "So, again, going back to Peleobotany, what we can do is, I think we can look at the rich fossil history of Britain and Ireland and look at what trees, what species were growing", start: 2461.75, end: 2474.41}
+  - {text: "two million years ago or 25 million years ago when we know the climate was similar to our climate future.", start: 2475.09, end: 2482.45}
+  - {text: "So, we're kind of going back, we're going, I can't even think where we're going, but we're going into our futures more similar to the warm climates of the past.", start: 2482.97, end: 2492.33}
+  - {text: "For example, in Ireland, the west coast of Ireland, Connemara, two million years ago, we had pecans, we had Japanese umbrella pine that's today only found in Japan.", start: 2492.83, end: 2504.79}
+  - {text: "And then if you go further back, 25 million years ago, the whole of Northern Ireland, Northern Britain was covered in swamp cypress and these trees are,", start: 2505.53, end: 2514.57}
+  - {text: "you find them today in Alabama and the bays of America and they're extinct from Europe today.", start: 2514.79, end: 2523.14}
+  - {text: "So, presumably that means that the soil that exists in Ireland is good enough or adaptable enough to once again host trees like that.", start: 2523.52, end: 2534.64}
+  - {text: "Yeah, I suppose it gives me a lot of hope that they're, you know, I kind of said, well, we don't know what's resilient, but we know that biology is incredibly resilient.", start: 2535.32, end: 2546.10}
+  - {text: "Bill's given us wonderful examples and it's amazing how rapidly things can adapt to their environments.", start: 2546.28, end: 2553.68}
+  - {text: "Well, on that note of optimism, I'd like to thank my guests, Bill Baker, Chris Berry and Jenny McElwain.", start: 2554.62, end: 2561.48}
+  - {text: "Next week, we'll be discussing Machado de Assis, the grandson of freed slaves and the towering figure of Brazilian 19th century literature.", start: 2562.22, end: 2571.22}
+  - {text: "Thank you for listening.", start: 2571.84, end: 2572.96}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2574.00, end: 2580.64}
+  - {text: "I sometimes start off by saying, is there anything else you want to add?", start: 2581.36, end: 2586.06}
+  - {text: "But I wanted to ask a question first of all and that is the relationship symbiotic or otherwise between animal life forms and trees as they evolve.", start: 2586.48, end: 2599.18}
+  - {text: "How do animals impact on trees?", start: 2599.48, end: 2602.06}
+  - {text: "Who wants to go?", start: 2602.42, end: 2603.22}
+  - {text: "I guess it might be easier to try to address that in the flowering plants because in a sense a lot of the evidence is still there and the experience of seeing", start: 2604.60, end: 2615.02}
+  - {text: "birds pollinating and insects doing their thing is around us all the time and leads us to suspect that, for example, you know, okay, it's not a tree,", start: 2615.70, end: 2625.78}
+  - {text: "but the fact that there are 25, 30 ,000 species of orchid is probably to do with their pollination interactions.", start: 2625.86, end: 2632.10}
+  - {text: "And it's worth saying, I mentioned earlier, that when we look at how the flowering plants have diversified over time, we see this big rush at the beginning.", start: 2632.88, end: 2641.54}
+  - {text: "But there's actually also a sort of follow -up rush that is observable in the sort of 40 million year kind of area.", start: 2642.02, end: 2650.02}
+  - {text: "And we struggle to work out what that might be.", start: 2650.14, end: 2652.54}
+  - {text: "But one of the reasons for that could be positive feedbacks from the growth of importance, the evolution of important animal lineages that then lead plants to diversify.", start: 2652.66, end: 2662.22}
+  - {text: "I haven't given you a tree specific answer because that's a bit harder to tackle.", start: 2662.72, end: 2667.26}
+  - {text: "But I mean, presumably, I mean, trees are mentioned in the introduction about trees being used by human beings in a variety of ways.", start: 2667.64, end: 2676.42}
+  - {text: "But clearly they provide shelter and cooler environment for animal species.", start: 2676.80, end: 2682.22}
+  - {text: "I mean, if you look at the rain forest, it's teeming with animal life because of the trees, so they couldn't exist without those trees.", start: 2682.50, end: 2689.90}
+  - {text: "You can see you've hit us.", start: 2690.20, end: 2691.80}
+  - {text: "We're not zoologists. We've gone very quiet.", start: 2692.12, end: 2695.78}
+  - {text: "One of my favorite examples of this would be from the carboniferous, so the carboniferous forest.", start: 2697.74, end: 2704.74}
+  - {text: "Probably worth saying that if people want to go and see fossil forest in Britain, then head to Victoria Park in Glasgow or to the Brumbo fossil forest near Wrexham.", start: 2705.70, end: 2716.22}
+  - {text: "You can see big fossil lycopod trees in the ground.", start: 2716.72, end: 2720.20}
+  - {text: "There's even a beach in Wales, which a bit of a secret at the moment, but where you can see similar things.", start: 2720.30, end: 2725.16}
+  - {text: "And in Nova Scotia on joggins, there is a fantastic place called a joggins fossil forest where you can see the bases of these lycopod trees, just like it as in Britain.", start: 2725.98, end: 2737.16}
+  - {text: "But a hundred or more years ago, it was found that there were reptiles actually in the trees and that they were living or falling into the bases of these rotting trees.", start: 2737.74, end: 2749.78}
+  - {text: "And some of our best evidence of what early reptilian life was like comes from inside these trees.", start: 2750.38, end: 2756.94}
+  - {text: "So that's quite remarkable.", start: 2757.26, end: 2758.36}
+  - {text: "And I think also even if you don't have a good fossil record of the animals or the insects, we have trace fossils.", start: 2759.34, end: 2769.70}
+  - {text: "So we have the indirect evidence.", start: 2770.02, end: 2771.54}
+  - {text: "So often we will look at the fossil leaves and we can see very diagnostic feeding behaviour.", start: 2771.84, end: 2776.66}
+  - {text: "So we see mining and margin feeding and hole feeding.", start: 2777.08, end: 2782.30}
+  - {text: "And in some cases, colleagues and pennybuttons have been able to identify the first occurrence of a beetle or the first occurrence of a bee, not based on the body fossil of the animal, but on its diagnostic feeding behaviour.", start: 2782.30, end: 2795.90}
+  - {text: "On the leaf. Yeah, preserved on the leaves.", start: 2796.46, end: 2799.06}
+  - {text: "And what about, Bill, you mentioned gigantism.", start: 2799.44, end: 2802.40}
+  - {text: "What about in trees, things like the sequoia, the redwood forests in, I mean, you know, I've seen, I haven't seen the big fat ones, but I've been in San Francisco to see these unbelievably tall trees.", start: 2802.90, end: 2818.20}
+  - {text: "How did they emerge?", start: 2818.46, end: 2819.32}
+  - {text: "So we know that the tallest living tree recorded is about 116 metres tall.", start: 2819.72, end: 2826.66}
+  - {text: "And I was looking at a good analogy.", start: 2827.46, end: 2829.32}
+  - {text: "I think Big Ben is around 80, 90 metres.", start: 2829.94, end: 2832.66}
+  - {text: "So it's taller than Big Ben.", start: 2833.16, end: 2834.46}
+  - {text: "Wow. And there's a group of physicists mainly and plant scientists in Berkeley, and they actually did a really nice theory paper and they asked, what is the limit of tree height?", start: 2834.46, end: 2846.52}
+  - {text: "And they determined it's about 140 metres.", start: 2846.74, end: 2848.92}
+  - {text: "And what limits a tree from ever getting taller than that is that wood, those xylem cells, suck water up under tension and negative pressure.", start: 2849.50, end: 2860.26}
+  - {text: "And the water has to get from the roots all the way up to the leaves at 130 metres tall of the tree.", start: 2860.62, end: 2867.14}
+  - {text: "And you break that flow of water.", start: 2867.14, end: 2870.88}
+  - {text: "Bill mentioned it in his palm.", start: 2871.34, end: 2873.14}
+  - {text: "So you break the flow.", start: 2873.32, end: 2874.42}
+  - {text: "And the leaves at the top of the tallest tree are actually almost living in a desert.", start: 2875.18, end: 2879.86}
+  - {text: "They're so water starved that a tree cannot get taller because they would no longer be able to photosynthesize because they need water to exchange for carbon.", start: 2880.18, end: 2888.16}
+  - {text: "So the limit of tree height is a hard line.", start: 2888.98, end: 2892.88}
+  - {text: "It's about 135 metres.", start: 2893.04, end: 2894.50}
+  - {text: "Nothing is ever can get taller or has got taller that we know of.", start: 2894.50, end: 2898.46}
+  - {text: "And this may be a stupid follow -up question, but in somewhere like the Amazon where you have these monumental rainfalls, the flying, the so -called flying river,", start: 2898.54, end: 2909.64}
+  - {text: "is there any way that the canopy can extract water other than sucking it up from the ground?", start: 2910.10, end: 2916.18}
+  - {text: "I don't think so.", start: 2916.74, end: 2917.78}
+  - {text: "Is there? You're nodding.", start: 2917.88, end: 2918.70}
+  - {text: "I'm out of my depth here.", start: 2920.06, end: 2921.36}
+  - {text: "So I suppose fog.", start: 2921.36, end: 2923.18}
+  - {text: "So you can get deposition of fog onto a leaf surface.", start: 2923.46, end: 2926.92}
+  - {text: "And most of the water supply is up from the roots, but plants, they actually can take up a certain amount of moisture through their cuticle, but it's a tiny, tiny amount.", start: 2927.62, end: 2938.86}
+  - {text: "What else did we miss out in the programme?", start: 2940.02, end: 2942.68}
+  - {text: "I just wanted to make another plug for the palm family, if I may.", start: 2942.94, end: 2945.48}
+  - {text: "Please do. That, yeah, the 100 -something metre sequoia is totally awesome, but the palms still beat that in terms of total stem length, not in a tree form,", start: 2946.38, end: 2959.68}
+  - {text: "but there is a whole group of palms that have evolved from trees to become climbers, the so -called ratans of the cane furniture industry and the longest stem", start: 2959.68, end: 2969.90}
+  - {text: "that doesn't sort of root along its length.", start: 2969.90, end: 2972.60}
+  - {text: "It was reported to be something like 200 metres long.", start: 2972.74, end: 2976.22}
+  - {text: "I think there was said to be a longer one, but an elephant chewed it up before it could be measured, but it isn't, it's a pretty poor point to score there, Jenny,", start: 2976.22, end: 2987.44}
+  - {text: "because of course the ratan is constantly slipping out of the canopy and it's not 200 metres in vertical height.", start: 2987.62, end: 2995.78}
+  - {text: "It's producing coils of stem on the floor, which so it's not having to deal with that tug of war against gravitational pull.", start: 2995.78, end: 3004.20}
+  - {text: "And tell me, Chris, in terms of those trees which grew along the ground, the first trees, do they exist any more anywhere?", start: 3004.20, end: 3015.30}
+  - {text: "So not in the, it's an extinct group of plants, but if you do go into tropical forests, you can see all sorts of plants which have very, very similar habits,", start: 3016.52, end: 3026.32}
+  - {text: "usually using trees, upright trees as a sort of prop, and sometimes with little prop roots and things.", start: 3027.30, end: 3034.04}
+  - {text: "And when we had to reconstruct what this plant looked like, we did go into a botanical garden and go round and look at some things which might have a similar sort of reason for being and so on and look for a model, which is what I quite often do.", start: 3034.42, end: 3051.02}
+  - {text: "I go, because I, anybody listening to this who's a botanist would be going, Chris, he's not a botanist.", start: 3051.16, end: 3056.20}
+  - {text: "I think it's quite obvious that I'm the geologist here, but I do like going into botanical gardens and looking at the plants and trying to work out how they grow, why they grow,", start: 3056.46, end: 3066.48}
+  - {text: "and what are the analogies to these really ancient plants.", start: 3066.66, end: 3069.74}
+  - {text: "And so that there are analogous things, but there's not the same thing.", start: 3070.16, end: 3073.62}
+  - {text: "And can someone tell me about the Wallamy Pine and what the Wallamy Pine is and why it's important?", start: 3074.06, end: 3079.42}
+  - {text: "So the Wallamy Pine is a beautiful tree, which three of my colleagues have in their gardens growing at various different heights.", start: 3080.62, end: 3089.18}
+  - {text: "So it's one of an example like the Dawn Redwood and various other things of a plant which has a morphology, which you can sort of see in the past.", start: 3089.46, end: 3098.68}
+  - {text: "It's related to agathists and to Arakari and various other types of coniferous tree.", start: 3098.86, end: 3104.58}
+  - {text: "For my point of view, it was discovered in Australia relatively recently and has been cultivated and spread around the world.", start: 3105.32, end: 3113.72}
+  - {text: "From my point of view, I like it because it's an example.", start: 3114.00, end: 3118.36}
+  - {text: "I've been looking for years and years using this analogy example for a vertical upright trunk, which just has small leafy branches coming off it to see how far a tree can get that just has small leafy branches.", start: 3118.48, end: 3132.46}
+  - {text: "And it does that, it produces small leafy branches and I had a photograph of one from the parking card if on my phone.", start: 3133.20, end: 3139.76}
+  - {text: "And I thought, I've got to go back and see that because it was about two meters tall when I took the photograph.", start: 3139.88, end: 3144.36}
+  - {text: "I just went back to see it and it's now eight meters tall.", start: 3144.72, end: 3147.12}
+  - {text: "It's absolutely gorgeous. With these leafy branches, eventually some of those branches will start turning into subsidiary trunks and growing upright and it'll do all sorts of interesting things.", start: 3147.28, end: 3158.34}
+  - {text: "But at the moment, it's a really nice analogy for the sort of early Archaeoptery's trees that we have from 370 million years ago.", start: 3158.70, end: 3167.86}
+  - {text: "Yeah, so they came from Australia, right?", start: 3167.88, end: 3169.14}
+  - {text: "Correct, yes, from one of me.", start: 3169.18, end: 3170.86}
+  - {text: "And thought, they were thought to be extinct, is that right?", start: 3171.92, end: 3175.48}
+  - {text: "Yeah, so I think it's really remarkable that a tree was discovered, not known to science and it was, I think it was climbers or abseilers and they went down into a gorge outside Sydney,", start: 3175.88, end: 3188.62}
+  - {text: "very inhospitable, you know, people don't go there and found this grove of trees.", start: 3189.20, end: 3194.14}
+  - {text: "So for conservation purposes, Botanic Gardens all over the world now host Wallamy Pines but also genetic variants of them and this is, it's called a conservation horticulture collection.", start: 3194.90, end: 3208.36}
+  - {text: "So it's a way of ensuring the longevity of that incredible tree into the future by kind of sending it to other places to look after, kind of like plant zoos.", start: 3208.66, end: 3219.54}
+  - {text: "We actually have included it in our witness tree projects.", start: 3220.02, end: 3223.30}
+  - {text: "So it is one of our trees that we're monitoring every year to see how it responds to climate change and also to see how it takes up atmospheric pollution in the city environment.", start: 3223.44, end: 3232.32}
+  - {text: "Yeah, because it wasn't in city environments at all, was it?", start: 3232.32, end: 3236.92}
+  - {text: "No, not at all.", start: 3237.02, end: 3237.62}
+  - {text: "But it seems to be tough as old boots.", start: 3237.72, end: 3239.02}
+  - {text: "I mean, it's growing like the clappers at Kew and yeah, really interesting.", start: 3239.24, end: 3243.88}
+  - {text: "You've got a Wallamy too.", start: 3243.90, end: 3244.94}
+  - {text: "We've got quite a few, yeah.", start: 3245.18, end: 3246.54}
+  - {text: "Well, I think I shall be visiting Kew once again fairly soon and if I may, when I next go to Dublin, Jenny, I will come and see the Trinity Botanic Gardens.", start: 3248.40, end: 3259.88}
+  - {text: "Please do. You're welcome.", start: 3260.18, end: 3261.38}
+  - {text: "Well, thank you very much.", start: 3261.38, end: 3263.04}
+  - {text: "I think we all deserve a cup of tea or a cup of coffee.", start: 3263.14, end: 3265.60}
+  - {text: "That would be good.", start: 3265.82, end: 3266.30}
+  - {text: "Oh, here he comes.", start: 3266.72, end: 3267.54}
+  - {text: "Tea or coffee? Coffee.", start: 3268.18, end: 3269.32}
+  - {text: "I can let myself have a coffee now because it doesn't matter if I speak too quickly.", start: 3269.50, end: 3273.60}
+  - {text: "A coffee would be gorgeous.", start: 3274.34, end: 3275.54}
+  - {text: "Thank you. Tea please.", start: 3275.86, end: 3276.86}
+  - {text: "There are plenty of coffee's.", start: 3277.38, end: 3278.78}
+  - {text: "Coffee is a tree.", start: 3278.80, end: 3279.62}
+  - {text: "And chocolate is a tree.", start: 3279.94, end: 3281.30}
+  - {text: "And tea is really, if you let it go, if you weren't permanently removing it to make tea.", start: 3281.76, end: 3286.08}
+  - {text: "In our time with Misha Glenny is produced by Simon Tillitson and it's a BBC Studios production.", start: 3287.72, end: 3293.32}
+  - {text: "This is a nightmare.", start: 3295.42, end: 3296.24}
+  - {text: "I need to get out of here because I do not want them to see me.", start: 3296.96, end: 3299.32}
+  - {text: "A search across borders in some tricky situations.", start: 3299.78, end: 3303.36}
+  - {text: "Shoot, there's a boat in the back of that car.", start: 3303.82, end: 3305.28}
+  - {text: "Yeah, there is. No, no, no, don't get out.", start: 3305.74, end: 3307.12}
+  - {text: "Watching smugglers who bring thousands of people to the UK.", start: 3307.54, end: 3311.24}
+  - {text: "They have gone, they have knives.", start: 3311.54, end: 3312.94}
+  - {text: "They have no sheen.", start: 3313.54, end: 3314.90}
+  - {text: "And at the top, a man who keeps his identity well hidden.", start: 3315.06, end: 3318.72}
+  - {text: "If they know I'm talking about them, they come tonight, they will kill me.", start: 3318.72, end: 3322.62}
+  - {text: "Can we find out who he is?", start: 3323.52, end: 3325.82}
+  - {text: "From Radio 4, this is Intrigue to Catch a King.", start: 3326.56, end: 3329.56}
+  - {text: "Listen first on BBC Sounds.", start: 3330.52, end: 3332.64}
+---

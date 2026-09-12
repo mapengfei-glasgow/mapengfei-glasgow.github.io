@@ -1,0 +1,317 @@
+---
+layout: single
+title: "Machado de Assis"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-07-09T00:00:00Z
+slug: "2026-07-09-machado-de-assis"
+audioDir: "2026-07-09-machado-de-assis"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-07-09-machado-de-assis/episode.mp3"
+totalDuration: 3304.4
+sentences:
+  - {text: "BBC Sounds. Music Radio Podcasts.", start: 1.10, end: 4.92}
+  - {text: "After a summer of lounging and listening to BBC Podcasts, you might need help readjusting to the rhythm of normal life.", start: 7.02, end: 13.64}
+  - {text: "So listen to a breakfast show live on BBC Sounds.", start: 14.50, end: 17.64}
+  - {text: "Good morning! Get up and at it with Greg James on Radio 1.", start: 17.92, end: 22.52}
+  - {text: "You are the oo -ing, Micox -a -doodle -doo.", start: 22.68, end: 24.76}
+  - {text: "Have a laugh with Sarah Cox on Radio 2.", start: 24.96, end: 27.26}
+  - {text: "We'll calm it all down with Tom McKinney on Radio 3.", start: 27.70, end: 31.02}
+  - {text: "Enjoy the rest of your day.", start: 31.18, end: 32.06}
+  - {text: "Breakfast packed with personality.", start: 32.78, end: 34.70}
+  - {text: "Listen on BBC Sounds.", start: 35.30, end: 36.36}
+  - {text: "Hi, this is Misha Gleney.", start: 36.82, end: 38.88}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 39.10, end: 43.26}
+  - {text: "But if you can't wait, head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else.", start: 44.02, end: 51.86}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 52.50, end: 61.32}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 61.32, end: 67.10}
+  - {text: "I hope you enjoy the programme.", start: 67.66, end: 69.04}
+  - {text: "Hello! Machado de Assis, 1839 -1908 is considered the towering figure of modern Brazilian literature with a global reputation, although arguably not as much as he deserves.", start: 70.14, end: 83.86}
+  - {text: "The Descendant of Slaves, Machado wrote many of his novels and almost 200 short stories before Brazil abolished slavery in 1888, the last country in the Americas to do so.", start: 84.76, end: 98.26}
+  - {text: "And while he vividly critiques the slave -owning classes, he transcends that time and place.", start: 98.96, end: 105.02}
+  - {text: "In Salman Rushdie's view, his work seemed to have been written yesterday, not a hundred years ago.", start: 105.68, end: 111.72}
+  - {text: "Well, with me to discuss Machado de Assis, Ana Claudia Suriani da Silva, Associate Professor in Brazilian Studies at University College London, Clare Williams, Professor of Brazilian Literature and Culture at the Faculty of Modern Languages at the University of Oxford and Fellow of St Peter's College", start: 112.58, end: 132.32}
+  - {text: "and Viviani Cavalio da Anunciação, Affiliated Lecturer at the Faculty of Modern and Medieval Languages and Linguistics at the University of Cambridge and Viviani, it's to you that I come first.", start: 132.88, end: 147.14}
+  - {text: "Can you tell us something about Machado's early life in Rio de Janeiro?", start: 147.30, end: 152.48}
+  - {text: "Machado just sees it sometimes, called the greatest Brazilian writer, but I come to think of him as the Pele of literature.", start: 153.44, end: 163.32}
+  - {text: "Machado did the same thing as Pele did for football.", start: 164.02, end: 168.48}
+  - {text: "He inherited an European tradition, mastered it and transformed it, completely creating it.", start: 169.10, end: 176.08}
+  - {text: "It's something unmistakably Brazilian and original.", start: 176.12, end: 180.10}
+  - {text: "And Machado de Assis was born in Rio de Janeiro, a burgeon in the city.", start: 181.06, end: 187.68}
+  - {text: "He was the son of Francisco José Assis and Mariela Paulina Machado de Assis.", start: 187.88, end: 194.04}
+  - {text: "His father was a painter, descendant from freed slaves and his mother was an Azorian washerwoman.", start: 194.26, end: 203.28}
+  - {text: "He grew up in an affluent neighborhood but connected to a working -class family.", start: 203.78, end: 211.02}
+  - {text: "He was baptized by Dona Maria José de Mendoza, the wife of a senator.", start: 211.34, end: 218.56}
+  - {text: "So he grew up going in and out of her mansion and going back to his working -class family.", start: 219.04, end: 228.00}
+  - {text: "So what was his relationship with the wealthy family?", start: 228.00, end: 231.26}
+  - {text: "She was his godmother and he would go to her house to have meals and to be with her.", start: 231.54, end: 240.80}
+  - {text: "So just to make it clear, what was that relationship between a relatively poor family, working -class, how come he has this relationship with a wealthy family?", start: 240.82, end: 252.56}
+  - {text: "Well, it's where his father and mother would work.", start: 252.56, end: 257.94}
+  - {text: "This is basically where he would paint their houses, she would wash their clothes and that was a patronage relationship.", start: 258.42, end: 268.44}
+  - {text: "And what were the prospects for a young boy like Machado at the time in Brazil, given his background and this relationship of dependency with the wealthy family?", start: 269.16, end: 280.54}
+  - {text: "It was very slim.", start: 280.54, end: 282.16}
+  - {text: "It was believed that he was going to follow the footsteps of his father and become a painter or some sort of manual worker but effectively his health wasn't so great.", start: 282.64, end: 297.50}
+  - {text: "So he started working, selling sweets but then he wasn't strong enough and developing this incredible intelligence for literature.", start: 297.68, end: 310.20}
+  - {text: "He transcended his background.", start: 310.64, end: 313.58}
+  - {text: "So although illiteracy in Brazil at this time is very high, I think around 70%, he nonetheless has access to books and reading because of that relationship with the wealthy family.", start: 314.32, end: 326.24}
+  - {text: "Is that right? Not exactly because what happened is that he lost both his mother and his father at an early age and he was brought up by his stepmother Mariennes who was an Afro -Brazilian woman", start: 326.34, end: 342.80}
+  - {text: "and Lucia Miguel Pereira in her biography of Machado de Assis says that she worked in a school for young women and apparently he would overhear the lessons", start: 343.32, end: 359.72}
+  - {text: "and the corridors and get very much interested in what they were studying.", start: 359.88, end: 365.64}
+  - {text: "Formal education didn't suit him so he would learn French with Madame Galot, the baker, classics, Greek Latin with father Silvia Sarmiento, the priest.", start: 366.24, end: 380.96}
+  - {text: "When he was 17 he started to go to the bookshop Pereira Brito and frequent literary circles.", start: 381.64, end: 391.90}
+  - {text: "So in addition to reading by himself, studying by himself, he was also learning from people in different social classes and in different levels of education.", start: 391.90, end: 404.84}
+  - {text: "So Ana -Claudia Suryane da Silva he is working associated with a bookshop which is run by a publisher in Rio.", start: 405.30, end: 415.50}
+  - {text: "How does he start writing?", start: 416.22, end: 417.60}
+  - {text: "What's his first break as a writer?", start: 417.82, end: 420.08}
+  - {text: "Machado starts to collaborate with the local press so Paula Brito's press as a translator.", start: 420.08, end: 427.86}
+  - {text: "So he translates poetry and he translates novels but also he is an aspiring poet and he's not very successful as a poet.", start: 428.84, end: 439.42}
+  - {text: "He very soon realizes from very harsh criticism that he's not a very good poet.", start: 439.92, end: 444.94}
+  - {text: "At that time there was a flourishing, publishing market print culture in Brazil.", start: 445.60, end: 451.92}
+  - {text: "So with the end of censorship in 1821 all of a sudden we had lots of books being published so a proper print culture.", start: 452.68, end: 462.72}
+  - {text: "Bookshops, circulating libraries, one of the circulating libraries was the British subscription library, the Portuguese royal cabinet and lots of newspapers and periodicals.", start: 463.18, end: 475.20}
+  - {text: "Many of them were ventures by European publishers that settled down in Rio de Janeiro including Garnier.", start: 475.20, end: 483.70}
+  - {text: "So Garnier played a very important role in Machado's career because he had a fashion magazine, a magazine for women.", start: 483.90, end: 492.88}
+  - {text: "So it was basically a magazine full of sewing material, fashion plates and a lot of literary content.", start: 493.36, end: 500.54}
+  - {text: "So Machado went from being an average poet to being a very successful short story writer.", start: 501.24, end: 508.64}
+  - {text: "So he wrote in this specific journal published once a month and it was actually printed in Paris.", start: 509.28, end: 517.14}
+  - {text: "So his manuscripts had to travel to Paris and come back to Brazil and serialized and his short stories were very long which means that he made a good amount of money", start: 517.76, end: 528.82}
+  - {text: "because of the world count of these stories.", start: 528.82, end: 530.88}
+  - {text: "And these were largely women's magazines, is that right?", start: 530.88, end: 533.98}
+  - {text: "Yes. Why is he so popular with women at the time?", start: 534.26, end: 537.24}
+  - {text: "Because these magazines were very successful so there were all sorts of periodicals being published in Brazil.", start: 537.72, end: 544.92}
+  - {text: "It was a very vibrant market for periodicals.", start: 544.92, end: 549.66}
+  - {text: "So political newspapers published daily and also these magazines that targeted women and were suited for the domestic sphere.", start: 549.76, end: 559.34}
+  - {text: "So Machado was writing short stories and the short stories were actually a big attraction to the readers for them to subscribe to these magazines.", start: 559.34, end: 569.26}
+  - {text: "So he had a very diverse readership, both men when he was publishing short stories for political newspapers and women in these fashion magazines.", start: 570.26, end: 580.08}
+  - {text: "Thank you. Claire Williams, Brazilian literature comes late in the day.", start: 580.86, end: 585.96}
+  - {text: "Was it in any sense ostracized during the slavery period?", start: 585.96, end: 590.60}
+  - {text: "Brazil as a nation was ostracized and looked down upon by the rest of the world while they were a slave -owning nation.", start: 591.12, end: 599.16}
+  - {text: "And the development of Brazil is quite unique in that it was a colony of Portugal for 300 years and then became an empire in 1822, a kind of constitutional monarchy.", start: 599.80, end: 611.64}
+  - {text: "And all this time the economy was run largely on slavery.", start: 612.26, end: 616.96}
+  - {text: "This was something that was very much looked down upon by the rest of the world.", start: 617.80, end: 622.22}
+  - {text: "And Brazilian politicians and intellectuals were worried that they wouldn't be taken seriously as a modern nation until slavery had been abolished.", start: 623.00, end: 631.62}
+  - {text: "Why did it take so long for slavery to be abolished?", start: 631.86, end: 635.02}
+  - {text: "There are lots of thoughts about that.", start: 635.46, end: 637.74}
+  - {text: "Historians have written many tomes about that.", start: 637.88, end: 640.48}
+  - {text: "But because the politicians, the governing classes were plantation owners.", start: 640.60, end: 646.32}
+  - {text: "So a lot of money was at stake if they were going to give up their workforce.", start: 646.98, end: 650.58}
+  - {text: "But they did eventually.", start: 651.54, end: 653.12}
+  - {text: "So the slave trade ended in 1850 and gradually slavery was abolished in various waves through various laws.", start: 653.74, end: 661.48}
+  - {text: "And in 1888 it was abolished.", start: 662.36, end: 664.80}
+  - {text: "More or less at the same time that Brazil becomes a republic.", start: 665.04, end: 668.54}
+  - {text: "Exactly. So 1889 Brazil becomes a republic.", start: 669.06, end: 672.56}
+  - {text: "Gets rid of the monarchy.", start: 672.88, end: 673.96}
+  - {text: "Let's look at one of Machado's most famous works.", start: 674.66, end: 679.18}
+  - {text: "That's the posthumous memoirs of Bras Cubas.", start: 679.52, end: 683.12}
+  - {text: "Can you describe that novel to us?", start: 683.64, end: 685.36}
+  - {text: "Absolutely. It's a novel where nothing happens and everything happens.", start: 685.70, end: 690.66}
+  - {text: "So you'd think from the title that it's the story of a life.", start: 691.12, end: 695.42}
+  - {text: "Then you realise that it's posthumous memoirs.", start: 695.94, end: 698.80}
+  - {text: "So there's something strange going on.", start: 698.80, end: 700.96}
+  - {text: "So he's dead when he's writing it?", start: 701.10, end: 703.22}
+  - {text: "He's dead when he's writing it and he tells us at the beginning after making a dedication to the worms that gnawed on his cold body, the first worm who gnawed on his cold body", start: 703.36, end: 714.14}
+  - {text: "that this is not the book of an author who has died but a dead man who has become an author.", start: 714.80, end: 722.48}
+  - {text: "So he tells us right from the very beginning that he's not a very good writer but he is quite good at being dead.", start: 723.24, end: 729.40}
+  - {text: "And being dead gives him licence to say all sorts of things that he couldn't say when he was alive.", start: 730.30, end: 736.70}
+  - {text: "It also gives him the chance to look back over his whole life and draw conclusions about the causes that produced certain effects and to reflect on how important he could have been because he's a character who's desperate for approbation, for acclaim, for recognition.", start: 737.30, end: 758.00}
+  - {text: "And yet he's so lazy and cowardly and so entitled as well.", start: 759.02, end: 766.12}
+  - {text: "He comes from a rich background, he's wealthy, he doesn't even need to work and he could do anything with his learning.", start: 766.62, end: 774.44}
+  - {text: "He's studied in Portugal.", start: 775.16, end: 776.38}
+  - {text: "He could do anything with his money but he keeps it all for himself and in fact he's one of the great ironies is that he's very lucky so almost as if whatever he wants, he gets, he likes a particular woman,", start: 777.04, end: 789.84}
+  - {text: "he manages to seduce her, he finds money in the street and all this at the time where poverty was rife.", start: 790.54, end: 799.18}
+  - {text: "So that's what I want to go on to Viviani.", start: 799.36, end: 802.42}
+  - {text: "Can you tell us what the social critique in this novel is really about?", start: 802.78, end: 808.52}
+  - {text: "Well, the European, you have the tradition of the self -made man, the person who works, who comes out of nothing and builds something extraordinary.", start: 808.90, end: 819.56}
+  - {text: "In a way, Brás has everything and he doesn't make anything out of that and there is a whole chapter about him trying to be a politician which is dot,", start: 820.40, end: 832.80}
+  - {text: "dot, dot and that is a big joke that Machado plays with the reader.", start: 833.04, end: 839.70}
+  - {text: "How did I become a politician?", start: 840.20, end: 842.22}
+  - {text: "There is nothing to be read, there's nothing to be read about it.", start: 842.22, end: 846.72}
+  - {text: "In the following chapter, well, I am in my house, I am with my slaves, I'm with my son, my chair but I keep thinking about the work that I don't have.", start: 846.78, end: 859.16}
+  - {text: "This is very typical of the higher classes.", start: 859.48, end: 862.76}
+  - {text: "They have everything and they want a little bit more in the Brazilian situation of the 19th century but he's still talking about what he could have been.", start: 862.92, end: 873.90}
+  - {text: "In a way, it is Brazilian but it's also very universal in a way because we might have everything but we still keep thinking about that little thing that didn't happen.", start: 874.36, end: 884.50}
+  - {text: "Ana Cláudio, that sense of entitlement which Viviani described there, it sounds quite a lot like the Brazil of today.", start: 884.96, end: 893.54}
+  - {text: "There's not much of a plot in this novel so what is it that inspires people to read the book?", start: 894.04, end: 900.96}
+  - {text: "Well, in terms of the entitlement, Machado is writing to a niche of readers so the literacy levels were actually quite low in Brazil.", start: 901.30, end: 912.22}
+  - {text: "It was 30 % of people could read and he was writing to the educated elite, yes.", start: 912.52, end: 918.96}
+  - {text: "It's the first novel he publishes in the first person so he moves away from the sentimental, omniscient narrator of his first novels and in the preface of this specific novel he says", start: 919.74, end: 934.84}
+  - {text: "that he's now being in his second phase and he's heavily influenced by Stern and Tristan Shandy so we are about to engage with a novel that is going to be digressive,", start: 934.84, end: 947.40}
+  - {text: "it's going to be fragmented and very witty and ironic so he constructs a character that is going to embrace the blindness of Brazilian elite and for many times critics couldn't understand", start: 947.84, end: 963.56}
+  - {text: "that he was actually being critical to the status quo because that character who achieves nothing leaves no legacy, is a failed scientist, a failed politician, a bad lover,", start: 963.84, end: 975.78}
+  - {text: "he actually represents the failure of the Brazilian elite, yes.", start: 976.04, end: 981.30}
+  - {text: "So how was it received when it was first published?", start: 981.30, end: 984.64}
+  - {text: "You said that they didn't really understand it.", start: 984.80, end: 986.84}
+  - {text: "They liked the novel but they didn't understand it.", start: 986.90, end: 988.92}
+  - {text: "Was it well received?", start: 988.98, end: 990.24}
+  - {text: "It was extremely well received.", start: 990.92, end: 992.50}
+  - {text: "It was first published in a scientific magazine and then a sign of success that it was very quickly published in book form and it had all sorts of positive reception that read in favor of this very witty, charming narrator.", start: 992.78, end: 1011.56}
+  - {text: "You mean almost as though they were celebrating the factlessness of the Brazilian elite?", start: 1011.80, end: 1017.52}
+  - {text: "Exactly, yes. And actually not seeing that a lot that is silence, for example, Brascoobus is a slave owner and he barely mentions slaves in his plot.", start: 1018.22, end: 1029.18}
+  - {text: "So it's again that silence that tells everything and that's what more reception, the reception of his novel from the 1950 onwards starts to open the eyes", start: 1029.68, end: 1041.26}
+  - {text: "and see that the silence is more important than what he said.", start: 1041.26, end: 1044.86}
+  - {text: "Right, so reception changes as Brazil develops and people start to look at it in different ways.", start: 1045.20, end: 1053.48}
+  - {text: "Claire Williams, the narrator here is a man, Brascoobus, but how strong are women in Machado's work?", start: 1054.02, end: 1062.08}
+  - {text: "Women are crucial. So before Brascoobus, before the memoirs, he'd published four other novels, this is his fifth novel and the third and fourth have female protagonists and the titles are female names, Elena and Jaya Garcia", start: 1062.44, end: 1079.26}
+  - {text: "and then from then on he focuses on male narrators, almost all of them writing in the first person.", start: 1079.94, end: 1086.02}
+  - {text: "So they are the ones with the voice, they are the ones with the agency, but we have to read between the lines to see what's going on with the women.", start: 1086.38, end: 1094.30}
+  - {text: "So a lot of the female characters who these male narrators speak about are extremely beautiful, they have lovely long black hair, they have glittering eyes, they go to balls and they bear their shoulders", start: 1094.30, end: 1107.48}
+  - {text: "and kissing them is close to heaven and the men become bewitched until the point when they want to drop them.", start: 1108.18, end: 1116.16}
+  - {text: "So we see it's a bit like Jane Austen, the way that the world of the women is that they have to capitalize on their beauty,", start: 1116.52, end: 1124.70}
+  - {text: "they have to be practical and strategic in order to survive and perhaps the best example of this is Capitou, who's the heroine of the seventh novel Don Cajmuro,", start: 1124.94, end: 1138.56}
+  - {text: "that title Don Cajmuro has a double meaning which we can talk about later.", start: 1138.80, end: 1144.64}
+  - {text: "Well do tell us now what it means.", start: 1144.84, end: 1147.18}
+  - {text: "Well Don is a title as in Don Quixote, it's a title that means nobility but here it's used ironically and Cajmuro is a term which means grumpy basically and...", start: 1147.78, end: 1160.44}
+  - {text: "So it's grumpy? Yes, exactly and in the first chapter of this novel again in the first chapter that's where they give themselves, start to give themselves away,", start: 1160.44, end: 1172.32}
+  - {text: "I think the reader gives them a bit of benefit of the doubt but very soon we start to spot contradictions and realize that we need", start: 1172.76, end: 1180.36}
+  - {text: "to think very hard about what they're saying before we trust them.", start: 1180.36, end: 1183.78}
+  - {text: "So he tells us in the first chapter oh a young poet called me Don Cajmuro when I didn't take his poems seriously and I accepted that title but dear reader,", start: 1184.54, end: 1196.04}
+  - {text: "don't go and look up in the dictionary, I will tell you what this means, it means somebody who is very quiet of recluse and of course what does the reader do,", start: 1196.32, end: 1205.44}
+  - {text: "the first thing we do is to go and look it up and it means grumpy, stubborn and I think this is a very early example of mansplaining", start: 1205.54, end: 1213.46}
+  - {text: "so we get these male characters who tell the women what to do, get very frustrated when they don't know what they're thinking and are seduced by their beauty to a certain extent", start: 1214.38, end: 1226.66}
+  - {text: "I know that my son is somewhere alive This is Deborah Tice, her son Austin is one of the biggest missing person cases in the world he disappeared in Syria more than a decade ago and for years I've been searching for him we've spoken to spies,", start: 1228.49, end: 1244.97}
+  - {text: "tracked down war criminals and uncovered evidence that has never been made public I want to know about my son Where is Austin Tice Listen on BBC Science Viv,", start: 1245.27, end: 1256.83}
+  - {text: "we've just heard from Claire about Don Cajmuro it doesn't sound like the way a lot of people describe it which is a modern Othello, is that right and why is it compared to Othello Well, it's all about jealousy,", start: 1258.21, end: 1273.27}
+  - {text: "it's all about this woman capital who has watery eyes undertoe eyes who is very seductive and we don't hear her voice we hear her through his eyes but he's very jealous,", start: 1273.83, end: 1289.29}
+  - {text: "he believes that his best friend Escobar had an affair with her and their child is actually his best friend and not his and the end of the novel he goes and watches Othello and after he comes out he keeps thinking well", start: 1289.37, end: 1309.37}
+  - {text: "poor does the Mona, she's not guilty but what would have happened if she was guilty as capital and then he tries to think about ways to punish capital and in many ways this Cajmuro has deceived", start: 1309.87, end: 1328.37}
+  - {text: "readers and literary critics for 50 years, it took an American critic Helen Caldwell in the 80s, 90s to write the Brazilian Othello and she pointed out to us, which was right in front of us, you shouldn't trust this first person narrator,", start: 1328.83, end: 1351.13}
+  - {text: "we are hearing everything from his point of view.", start: 1351.85, end: 1355.49}
+  - {text: "That's right because in Shakespeare's Othello we know throughout the play that Desdemona is absolutely innocent here we don't know because we only have one voice and that's Don Cajmuro and so there is doubt,", start: 1355.71, end: 1371.17}
+  - {text: "we simply don't know but his name is Bento Santiago Bento and Don Cajmuro are the same person so Saint Iago, Iago is within his name so Machado is a brilliant author that he is,", start: 1371.17, end: 1391.61}
+  - {text: "he's already showing us Iago is inside his mind so Don Cajmuro is both a fellow and Iago at the same time, both the duped one and the person who's suggesting that Capitou is unfaithful Ana Claudia,", start: 1391.63, end: 1412.21}
+  - {text: "this is probably his best known work, how does it highlight his strengths as a writer?", start: 1412.69, end: 1419.07}
+  - {text: "It's a novel that shows how varied his style and prose is so the young Machado was exposed to a tsunami of novels he read at the same time Stern, Bauzac, Dickens,", start: 1419.69, end: 1435.77}
+  - {text: "Cervantes different traditions of novels and throughout his career he experimented with different novel traditions so in Don Cajmuro we see this all together it's at the same time a sentimental novel", start: 1436.35, end: 1452.21}
+  - {text: "it's an elegy so he messes Capitou so he has a sort of hate and love relationship with Capitou and he messes her, he writes a memoir", start: 1452.83, end: 1461.91}
+  - {text: "which is at the same time an autobiography but an elegy So he doesn't kill Capitou she leaves him for Europe?", start: 1462.27, end: 1469.71}
+  - {text: "It's also realist so there are chapters in which you find very clear and realistic descriptions of the setting the farm where he grew up characters like Escobar,", start: 1469.99, end: 1485.35}
+  - {text: "his mother his aunt and the dependent Can you just explain what the dependent is because this is an important concept in Brazil but not so familiar here?", start: 1485.51, end: 1495.41}
+  - {text: "Yes so Machado was a sort of dependent of this wealthy family that he lived with and supported him so dependent is a free person that works", start: 1495.55, end: 1507.15}
+  - {text: "and has a very complicated relationship with a wealthy family because it's not an enslaved person and it has no blood ties with the family so", start: 1507.15, end: 1516.51}
+  - {text: "they have to make themselves useful for the family in order not to be sent out.", start: 1516.51, end: 1522.51}
+  - {text: "Viv, you wanted to come in briefly there?", start: 1522.99, end: 1524.95}
+  - {text: "Yeah because I think the drama is very important in Doncas Morro of course it is from Shakespeare Machado just sees was he began his career writing poetry", start: 1525.15, end: 1538.33}
+  - {text: "but also writing theater it's also very Brazilian this type of performance when you are under a patronage some sort of system you have to perform in a certain way", start: 1538.33, end: 1551.83}
+  - {text: "that you're going to make your employer very much flattered.", start: 1551.83, end: 1556.93}
+  - {text: "It's a very theatrical society Brazil I remember when I first went there I had come from working in the Balkans for a long time circumstances in Brazil in terms of poverty", start: 1557.31, end: 1568.43}
+  - {text: "and things like that are comparable to the Balkans but people still party all the time it's a very lively society and I wonder if Machado captures any of that liveliness as well.", start: 1568.43, end: 1582.99}
+  - {text: "I think so because his novels and short stories they all have a dark side because of the plot characters owning slaves etc but they are joyful", start: 1583.19, end: 1594.17}
+  - {text: "and that reflects a characteristic of Brazilian culture and Brazilians nowadays if you go to Brazil for the first time you think everybody is happy and", start: 1594.17, end: 1605.59}
+  - {text: "if you read these statistics not really lots of people are not happy but we are joyful so in Brazil you learn very quickly to distinguish between being joyful", start: 1605.59, end: 1617.31}
+  - {text: "and happy and I think part of his wit and one contribution for the formation of Brazilian literature is exactly how to convey this very specific unique Brazilian humour into literature which was then of course expanded", start: 1617.31, end: 1636.75}
+  - {text: "incorporated by Lima Barreto João Du Rio and all the writers that came after him.", start: 1637.55, end: 1644.09}
+  - {text: "Claire do you think that he was writing for women were those his first readers as it were I mean we know that he wrote for women's magazines do you think he was hoping that women would recognise what was in these novels?", start: 1644.47, end: 1658.49}
+  - {text: "Very possibly I think he creates these very resourceful practical, strategic female characters because they are the ones who are going to educate the sons and the Brazilians of the future and", start: 1658.91, end: 1672.99}
+  - {text: "clearly nobody wants the Brazilians of the future to be like Bento or Brascobert because society will fail just as they have failed and I think one of the things that's interesting is", start: 1673.96, end: 1686.14}
+  - {text: "that in these novels none of the protagonists have children who survive past the end of the book they are the end of a generation in a way", start: 1686.14, end: 1696.22}
+  - {text: "that's really important because Brazil needed to reinvent itself create new citizens who were forward looking.", start: 1697.00, end: 1704.84}
+  - {text: "Yes of course one of the cliches about Brazil is Brazil is the country of the future and it always will be and it's that elite,", start: 1705.60, end: 1716.22}
+  - {text: "that middle class elite who are often seen as preventing the development because of characters like Don Cosmurro Ana Claudia Machado has been criticised for not speaking out enough about slavery", start: 1716.48, end: 1731.40}
+  - {text: "as clearly as he might have done is that a fair assessment?", start: 1731.40, end: 1735.70}
+  - {text: "Not really but that's how he was read for many generations of critics so first of all in his birth and death certificate he appears as a white person", start: 1736.14, end: 1749.20}
+  - {text: "and he was considered by many contemporary critics as apolitical he was even considered against the republican the change of the regime he was considered a monarchist", start: 1749.76, end: 1761.70}
+  - {text: "and just basically because he didn't believe in any changes he was not really the person who would believe that changing abolishing slavery or changing from the monarchy to republic would change anything", start: 1761.70, end: 1775.18}
+  - {text: "he's writing for the elite and talking and embracing the point of view of the elite and leaving a lot unsaid about the working class and slavery", start: 1775.70, end: 1787.04}
+  - {text: "but as one of the critics says Alfredo Bosia, Brazilian critic from the University of São Paulo Machado worked around asymmetric relations that were very close to each other", start: 1787.70, end: 1803.14}
+  - {text: "so father against mother that's the title of the story yes it's a short story and it was published in 1906 18 years after the end of slavery", start: 1803.78, end: 1815.78}
+  - {text: "and Machado just sees constructs a narrator presenting elements of slavery and what it was like an anecdote about a slave catcher and a runaway slaved woman so you see the very asymmetric relations", start: 1815.78, end: 1832.84}
+  - {text: "the slave catcher has to catch the slave because it depends on that reward in order to keep his son so we as readers we have in one side the runaway the slave", start: 1833.48, end: 1845.74}
+  - {text: "who is a pregnant woman Arminda and the slave catcher whose wife is also pregnant so as readers we the narrator doesn't pass any judgment and we are put in this moral dilemma so this was a way for him to confront the system talk about it expose", start: 1845.74, end: 1866.70}
+  - {text: "without being judgmental leaving for the reader to make the conclusions Claire there's a sense in Machado's work that he really despises mediocrity where do you find examples of this there are lots of examples of this", start: 1867.24, end: 1885.45}
+  - {text: "and we've already touched on the fact that Brat Kubas achieved very little in his life despite having all the wealth, all the training all the education,", start: 1885.45, end: 1895.33}
+  - {text: "all the charm to do this so Brat is the ultimate underachiever he wanted attention from everybody but he did nothing really to deserve it he's somebody who does nothing", start: 1895.35, end: 1909.97}
+  - {text: "and this I think is very frustrating for Machado but also for the reader he has no initiative you know this is what the new generation need they need initiative they need to take responsibility", start: 1910.47, end: 1922.11}
+  - {text: "and there's the last chapter of Brat Kubas is called negatives and it's all about what Brat didn't do in his life so he says I did not have children and thus did not bequeath to any creature the legacy of our misery", start: 1922.95, end: 1940.23}
+  - {text: "he's listed all the things that he didn't do which is basically what the whole story is about and also I would say that although he's Machado's described", start: 1941.67, end: 1951.47}
+  - {text: "as a realist it seems to me as though there are the seeds of modernism in what Machado is doing as well Ana Claudia?", start: 1951.47, end: 1959.73}
+  - {text: "Yes so I think Don Casimo for example is a novel that is almost impressionist we have the one version of a story and not exactly the access to facts", start: 1960.31, end: 1976.29}
+  - {text: "because it's a first person narrator so we are very close to we can compare to James Joyce and also Lord Jim by Conrad so we have the impressions of the narrator", start: 1976.29, end: 1989.31}
+  - {text: "and the narrator writes about his relationship with a dead character exactly like in Lord Jim so we don't have access to that character in the case of Lord Jim", start: 1989.31, end: 2000.47}
+  - {text: "and Machado Jaciz Capitou so what we have are the impressions the memories of the main narrator about that character so we are getting very close to modernism", start: 2000.47, end: 2012.37}
+  - {text: "but Machado is still grounded in the 19th century so his plots are very grounded in a patriarchy slave -owning society and the characters reflect that society He writes quite economically which if I might say is not necessarily a Brazilian trait of short books,", start: 2012.37, end: 2035.51}
+  - {text: "short sentences short chapters he's a very efficient writer yes that's true I mean he's also been described as a post -modernist and I think that's something to do with the knowing nature of the way", start: 2035.83, end: 2049.55}
+  - {text: "that the characters address you as if you've just left the room and come back in and you are their dear reader yes that addressing of the audience is quite striking isn't it?", start: 2049.55, end: 2061.11}
+  - {text: "and it's to call attention to the medium of the novel this is not reality you have to engage with this in some sort of way because sometimes it's dear reader sometimes it's", start: 2061.11, end: 2073.09}
+  - {text: "damned reader or something like that I don't like I don't like a reader don't look up that in the dictionary don't tell Vigilia about this so there is like", start: 2073.99, end: 2086.33}
+  - {text: "yes so what do we do with this so he's always spoken in the theater when you break the fourth wall and he's like now you", start: 2087.17, end: 2099.33}
+  - {text: "make your own decision about the novel about the story about society about what you think of the world Claire why do you or indeed your students why do you find him so fresh today?", start: 2099.33, end: 2113.13}
+  - {text: "well I think he covers very juicy topics such universal topics about love about parenting so sometimes I read Memorias Postum as a kind of parenting manual how not to be how not to bring up your children do you impose discipline", start: 2113.33, end: 2131.57}
+  - {text: "and then also Don Cajmujo is a kind of marriage counselling can be read as a kind of marriage counselling guide so it's very up to date in the topics that it's dealing with and then I very much enjoy texts where the reader has to participate", start: 2132.27, end: 2150.13}
+  - {text: "my shadows novels are full of gaps and holes and clues which the reader has to put together once we realize that the narrator is a narrator he's not the author", start: 2150.93, end: 2163.31}
+  - {text: "we have to deal with that sort of that gap the fact that there are different versions of reality being portrayed here and we also realize that the narrators have their own agenda", start: 2164.09, end: 2176.47}
+  - {text: "so for example in Don Cajmujo Bantu is trying to prove throughout the novel that in fact that Kapitu is guilty and you can read it if you're on Kapitu's side that she's innocent", start: 2177.55, end: 2191.29}
+  - {text: "just some other things that I really enjoy and my students have enjoyed the fact that there are he's very entertaining the texts are full of jokes they're full of like typographical", start: 2192.27, end: 2204.37}
+  - {text: "quirks as Viv was mentioning before there's a chapter called the age old dialogue of Adam and Eve in the posthumous memoirs which there are no words there are ellipses and there is punctuation and you can tell", start: 2205.09, end: 2220.83}
+  - {text: "from the number of question marks and exclamation marks that this is an argument between lovers so we become part of the storytelling process and we we search for these clues", start: 2221.44, end: 2233.05}
+  - {text: "and gaps and Easter eggs as well Easter eggs that they have in films where he makes a reference to a particular place or a quotation", start: 2233.05, end: 2241.99}
+  - {text: "which we then go and follow up and find out what extra information that adds to the story.", start: 2241.99, end: 2248.57}
+  - {text: "Okay Viv a big question for you how did Machado change Brazilian literature?", start: 2248.93, end: 2254.93}
+  - {text: "That is very I think he changed it forever he gave us a body of work that will go on for another hundred years and we could still be writing about the short stories there's still a lot to be written about his", start: 2255.75, end: 2274.53}
+  - {text: "novels and I think it's a love and hate relationship so we have Mario Giandragi who was one of our greatest modernist novelist he wrote in a very avant -garde style", start: 2275.55, end: 2289.91}
+  - {text: "and he used to characterize Machado just sees as this classic writer very much a Greek that wrote in the models of an European tradition but I would I would argue against", start: 2289.91, end: 2306.79}
+  - {text: "that especially in terms of science so Nacalgia was talking about slavery about the issue of race at the end of the 19th century we have the beginning of the eugenics", start: 2306.79, end: 2323.03}
+  - {text: "Nina Rodrigues was writing in a similar way as Cesare Lombroso in Europe identifying the race with criminality certain aspects of genetic predisposition and of course Machado just sees was not only", start: 2323.52, end: 2342.83}
+  - {text: "Afro descendant but he also had a strange illness his condition his illnesses which was epilepsy and it was believe that it was associated with degeneracy with the mixture of races", start: 2343.70, end: 2363.03}
+  - {text: "and in a way when Machado just sees wrote stories like the alien is too well in Easter he was trying to criticize also these new", start: 2363.41, end: 2374.87}
+  - {text: "scientists of course in the 19th century Brazil we don't have a big difference between the intellectual or the scientists they all kind of wrote about everything and", start: 2374.87, end: 2388.83}
+  - {text: "he identified a problem with this kind of discourse of the whitening of the race and that was what happened in the beginning of the century in Brazil the whitening of Brazil was a governmental project to bring European immigrants from Portugal,", start: 2389.34, end: 2408.33}
+  - {text: "Spain and Italy to create this kind of whitening of the race and this happened at the end of the 19th century the generation of 1870s", start: 2408.69, end: 2420.11}
+  - {text: "and Machado in one of his critical texts which made him hated by many intellectuals like Silvio Romero he said this generation doesn't read Spencer and Darwin properly", start: 2421.19, end: 2435.99}
+  - {text: "if you want to understand it properly you should apply a scientific method and this is exactly what he did in his short stories he applied the scientific method", start: 2435.99, end: 2447.47}
+  - {text: "to criticize what was happening in this change in society Thank you very much Viv Ana Claudia finally for you what do you think Machado's appeal is today he remains the load star of Brazilian literature certainly among writers", start: 2447.93, end: 2464.13}
+  - {text: "and scholars he enjoys a huge reputation but Machado is not that well known by a general public outside Brazil why do you think that's the case?", start: 2464.13, end: 2475.99}
+  - {text: "Well I think it's the case is with Brazilian literature in general or literature in Portuguese language we have our big neighbor or neighbors that write in Spanish", start: 2476.89, end: 2490.03}
+  - {text: "and the United States is a big market for Spanish literature so it's but I think Machado and all the Brazilian writers like Clarice Despecto Jorge Amado and Machado with the new wave of new translations are now", start: 2490.03, end: 2506.23}
+  - {text: "actually bringing Machado to the shop windows of libraries and to the interest of newspapers so there are more articles and for me Machado is the type of writer that teaches how to read and how to doubt", start: 2506.87, end: 2523.65}
+  - {text: "narratives which is something very important in nowadays so he teaches us basically how to be not to trust the media system so he's writing novels he's writing for periodicals he's criticizing the information that is circulating in Brazilian", start: 2524.23, end: 2545.03}
+  - {text: "periodicals all the time he's mocking those who actually own the newspapers, the bookshops and this is an excellent reading skill to acquire so we can read his novels for that reason but also just for the pleasure of his prose which is so diverse,", start: 2545.57, end: 2565.03}
+  - {text: "witty, ironic and readers who enjoy Mopassango, Goal Jane Austen, Dickens they are going to find something interesting in Machado and enjoy the prose by itself my thanks to Claire Williams,", start: 2565.31, end: 2583.47}
+  - {text: "Ana Claudia Suriani da Silva and Viviani Carvalho da Annunciação next week The Deleon League how ancient Athens used and abused its alliance against Persia thank you for listening", start: 2583.81, end: 2598.81}
+  - {text: "and the in our time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests the Wallianista I", start: 2599.72, end: 2609.20}
+  - {text: "still wanted to talk about Wallianista now is your chance to talk about the alienista I think Wallianista is as important as Brascobas and as important", start: 2609.20, end: 2624.22}
+  - {text: "as Don Cosmoho and it's usually looked down so why is it it's a short story it's a novella it's slightly shorter and it's about the greatest doctor of the greatest physician in Brazil,", start: 2624.22, end: 2643.56}
+  - {text: "Portugal and of the two Spains and he's basically the Don Quixote of science who comes to who returns from Europe to the village of Itaguaí and he wants to find the cause of madness", start: 2643.66, end: 2657.72}
+  - {text: "and he dedicates himself to the study of madness he creates the green house the Casa Verde where he starts to create a catalogue of illnesses", start: 2658.76, end: 2673.22}
+  - {text: "and in a very absurd way he starts to put everybody in this Casa Verde when everybody rebels against him and nothing happens to him he continues", start: 2673.22, end: 2687.48}
+  - {text: "putting people in his mental asylum at the end of the story he realizes there is no mad person in Itaguaí I am the only mad person", start: 2688.34, end: 2699.38}
+  - {text: "and then he locks himself up and dies alone and it's one of of Machadoís critique to the new vision of Brazil of this intellectuality which is replacing religion by science,", start: 2699.38, end: 2717.94}
+  - {text: "positivism creating a new society but reproducing the same mistakes reproducing the same social relationships the same structure So it seems to me that one of the real strengths of his work is", start: 2718.56, end: 2737.82}
+  - {text: "that those things which he critiques aspects of Brazilian society the elite the way the elite ignores the mass of other Brazilians primarily Afro -Brazilians the inequality the entitlement these are phenomena", start: 2737.82, end: 2757.92}
+  - {text: "which when you go to Brazil today they're all still there they're all visible Machado was writing about Brazil 100 years ago but he's also writing about Brazil today is that a fair enough comment?", start: 2757.92, end: 2769.62}
+  - {text: "And I think that is he captures that zeitgeist of Brazil but he also captures our way of dealing with things which is sometimes we joke we make we are very much about not dealing with things directly we kind of weird,", start: 2770.12, end: 2794.96}
+  - {text: "we gossip about it and then we move on And he's initially seen as a romantic author with a capital R and then he becomes what's described", start: 2795.26, end: 2808.50}
+  - {text: "as a realist author but what does realism mean within the Brazilian context?", start: 2808.50, end: 2814.10}
+  - {text: "It's very strange that a dead author is the father of realism in Brazil and that shows a lot about us Brazilians well we are realists but that was before the Latin American magic realism and in a way this way of dealing with things in a very", start: 2815.04, end: 2837.38}
+  - {text: "oblique way exactly that's right The great British researcher John Gledson wrote a book about the deceptive realism of and that's what it is it's skewed, it's oblique it's realism", start: 2838.34, end: 2855.42}
+  - {text: "with joy with moments of shade and shock and I was thinking that the films of who's a contemporary filmmaker may have something may be sort of a 21st century reinvention of this idea of presenting", start: 2856.08, end: 2873.62}
+  - {text: "a realist version of urban Brazil but with little pockets of magical realism so shadows of little Afro -Brazilian boys running across the screen or there's", start: 2874.07, end: 2888.00}
+  - {text: "a famous scene in his film Neighbouring Sounds with suddenly a fountain of blood which there are lots of allusions to the slave owning past and he writes films about", start: 2888.00, end: 2900.46}
+  - {text: "landowners in contemporary Brazil in the northeast of the country where the reality is much more present than in Rio or Sao Paulo What happens in the 1930s in Brazil is", start: 2901.38, end: 2917.64}
+  - {text: "that you start to get the creation of the myth of Brazil being a non -racial society where everyone it doesn't matter what you're born you have the same equal opportunities but that of course doesn't reflect the economic reality in Brazil but tell me, Machado was", start: 2917.64, end: 2937.68}
+  - {text: "as you pointed out if he was writing at a time where there was this huge campaign to whiten Brazilian society who was driving that amongst the elites?", start: 2938.21, end: 2948.80}
+  - {text: "Why did they want to whiten Brazilian society?", start: 2949.14, end: 2951.24}
+  - {text: "I think that was it was more towards the 20th century in the 1870s it was the beginning of this wave of new ideas that arrived in the country from Europe and Eugenics was one of them and one of the explanations why Brazil was underdeveloped", start: 2951.26, end: 2975.54}
+  - {text: "was behind Europe was because we were mostly a mixed a black nation or an Afro -Brazilian race and that was because of Raimundo Ninas Rodriguez work on the Brazilian criminal for example he would analyze criminals in Brazil", start: 2976.12, end: 2997.96}
+  - {text: "as being predisposed to that and that was the republican government well we need to make sure that Brazil is not going to make this mistake again so they were associating modernity with", start: 2997.96, end: 3016.32}
+  - {text: "whiteness and Europeanness I have to say that attitude towards criminality and Afro -Brazilian persists to this day in Brazil sadly so and in terms of the literature after Machado", start: 3016.81, end: 3036.00}
+  - {text: "Brazilian literature must have gained quite a deal of self -confidence because of his work and he becomes recognized as the sort of this towering figure fairly early on in Brazil", start: 3036.67, end: 3050.16}
+  - {text: "would you see people like Jorge Armando who's writing a little later on Clarice Lispector these are also great great figures of Brazilian literature do they all admit a debt to Machado I think not directly", start: 3050.78, end: 3068.37}
+  - {text: "but you can certainly Lima Baheto for example an author that has quite a great deal of humor of a critical voice Mario Gendrage for example he criticized Machado Jesus", start: 3068.37, end: 3083.69}
+  - {text: "but if you analyze if you read his first novels it's very much psychological analysis that are present in Machado from the beginning of his work when he was a romantic his greatest difference between him and José de Alencarre was the psychological analysis of these female", start: 3083.69, end: 3108.51}
+  - {text: "characters ok final question before we get our tea and coffee much deserved what would you recommend to readers who don't know Machado Jesus what should you read first Claire I love Don Cajmojo I really love the character of Capitul", start: 3109.57, end: 3130.90}
+  - {text: "and I always hope that I'm going to spot a clue every time I read it that's going to prove that she was innocent I will go for the aliens there is a good translation", start: 3131.18, end: 3143.19}
+  - {text: "now and I think it's short you can read over the weekend and it's massively entertaining and extremely relevant for our society Ana Claudia since I", start: 3144.05, end: 3158.01}
+  - {text: "cannot choose Don Cajmojo I'm not going to repeat it I would say father against mother and another short story in which the main character is a woman a chapter on heads they all have been translated into English", start: 3158.01, end: 3173.83}
+  - {text: "so you can see the both sides of Machado you can also learn a lot about Rio de Janeiro social life in the old town of Rio de Janeiro", start: 3173.83, end: 3183.99}
+  - {text: "where dovidou consumer habits in Rio de Janeiro with chapter on heads Rio is already the capital at this point so no longer Salvador Salvador and", start: 3183.99, end: 3197.36}
+  - {text: "if you get the chance to go to Rio you should visit the Cafe Colombo which is where Machado used to hang out with and it's a wonderful 19th century cafe still open today with beautiful dark paneled walls and", start: 3197.36, end: 3213.17}
+  - {text: "wall length mirrors very glittery yes it is, you have to queue and you should also visit the Cafe Capitou which is in Cosmi Vale up the hill where you can purchase a penada galeofa a pen of mirthful merriment filled with the ink of melancholy which is", start: 3214.13, end: 3235.63}
+  - {text: "what Machado says what Brash says he's writing his story with well, on that point would you like tea or coffee?", start: 3236.27, end: 3246.00}
+  - {text: "tea please tea, tea, tea thank you very much in our time with Misha Glenny is produced by Simon Tilletson and it's a BBC Studios production", start: 3246.38, end: 3257.66}
+  - {text: "I'm Jamie Bartlett and for BBC Radio 4 I'll be looking at how fakery took over the world no, no, hang on, hang on, sorry you're not Jamie Bartlett I'm Jamie Bartlett really?", start: 3259.20, end: 3271.42}
+  - {text: "Well who am I then?", start: 3271.88, end: 3272.86}
+  - {text: "I'm afraid you're not real pal you're just an imitation chatbot I created to help me make this series on modern fakery and why it's everywhere", start: 3273.22, end: 3281.94}
+  - {text: "sounds good what's going to be in it?", start: 3281.94, end: 3284.40}
+  - {text: "well, there's a lot 1980s professional wrestling dodgy academics A .I.", start: 3284.60, end: 3289.84}
+  - {text: "psychosis Covid vaccine skeptics what's it called?", start: 3290.00, end: 3293.76}
+  - {text: "everything is fake and nobody cares with me, Jamie Bartlett and me, Jamie Bartlett listen first on BBC Sounds", start: 3294.42, end: 3301.72}
+---
