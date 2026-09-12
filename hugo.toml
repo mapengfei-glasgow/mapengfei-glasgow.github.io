@@ -17,6 +17,13 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   # plain Markdown, so their rendering is unchanged.
   [markup.goldmark.renderer]
     unsafe = true
+  # MathJax: pass $…$ / $$…$$ through untouched, so LaTeX punctuation
+  # (\, \% \\) is not eaten by the Markdown parser.
+  [markup.goldmark.extensions.passthrough]
+    enable = true
+    [markup.goldmark.extensions.passthrough.delimiters]
+      block = [['$$', '$$'], ['\\[', '\\]']]
+      inline = [['$', '$'], ['\\(', '\\)']]
 
 [params]
   defaultTheme = "auto"

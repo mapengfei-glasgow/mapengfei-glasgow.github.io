@@ -6,4 +6,21 @@
        three-line tables, numbered captions. Only pages that opt in with
        `academic: true` load it, so the rest of the site is unaffected. */}}
 <link rel="stylesheet" href="{{ "css/academic.css" | relURL }}">
+{{- /* MathJax (self-hosted, SVG output — no CDN dependency and no web fonts,
+       so it also prints cleanly). $…$ is inline, $$…$$ is display. */}}
+<script>
+window.MathJax = {
+    tex: {
+        inlineMath: [['$', '$']],
+        displayMath: [['$$', '$$']],
+        tags: 'none'
+    },
+    svg: { fontCache: 'global' },
+    options: {
+        enableMenu: false,
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+    }
+};
+</script>
+<script defer src="{{ "js/tex-svg.js" | relURL }}"></script>
 {{- end }}

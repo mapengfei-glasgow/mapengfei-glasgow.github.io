@@ -62,25 +62,6 @@
     margin: 1.5rem 0 0.5rem;
 }
 
-/* ------------------------------------------------------------ abstract etc. */
-
-.post-content .abstract {
-    margin: 1.4rem 2.2rem 0.6rem;
-    font-size: 0.97em;
-    line-height: 1.45;
-    text-align: justify;
-}
-
-.post-content .abstract .abstract-title {
-    font-weight: bold;
-    font-style: normal;
-}
-
-.post-content .keywords {
-    margin: 0 2.2rem 1.6rem;
-    font-size: 0.95em;
-}
-
 /* --------------------------------------------------- three-line (booktabs) */
 
 .post-content.md-content table,
@@ -154,81 +135,18 @@
     color: var(--content);
 }
 
-/* ------------------------------------------------------------- equations */
+/* --------------------------------------------------------------- equations */
 
-.post-content .equation {
-    display: grid;
-    grid-template-columns: 2.5rem 1fr 2.5rem;
-    align-items: center;
-    margin: 1.15rem 0;
-    text-align: center;
+/* MathJax display equations: keep them clear of the caption rhythm and let
+   the SVG scale with the surrounding text. */
+.post-content mjx-container[display="true"] {
+    margin: 1.1rem 0 !important;
+    overflow-x: auto;
+    overflow-y: hidden;
 }
 
-.post-content .equation .eqbody {
-    grid-column: 2;
-    font-style: italic;
-}
-
-.post-content .equation .eqno {
-    grid-column: 3;
-    font-style: normal;
-    text-align: right;
-}
-
-.post-content .equation > table.eqtable {
-    grid-column: 2;
-}
-
-.post-content .equation .eqlead {
-    font-style: italic;
-    text-align: right;
-    padding-right: 0.4em;
-}
-
-/* cases-style equation: a borderless alignment table */
-.post-content table.eqtable,
-.post-content.md-content table.eqtable {
-    width: auto !important;
-    margin: 0 auto !important;
-    border: 0 !important;
+.post-content mjx-container:not([display="true"]) {
     font-size: 1em;
-}
-
-.post-content table.eqtable td,
-.post-content.md-content table.eqtable td {
-    border: 0 !important;
-    padding: 0.06em 0.5em !important;
-    font-style: italic;
-    text-align: left;
-}
-
-.post-content table.eqtable td.cond {
-    font-style: normal;
-    padding-left: 1.6em !important;
-}
-
-.post-content table.eqtable td.lhs {
-    text-align: right;
-    padding-right: 0.2em !important;
-}
-
-/* Inline code should not look like code in a paper. */
-.post-content code {
-    font-family: "Times New Roman", "Liberation Serif", Times, serif;
-    font-size: 0.97em;
-    background: none;
-    border: 0;
-    padding: 0;
-    font-style: italic;
-}
-
-/* Code blocks keep a monospace face — they carry verbatim commands/code. */
-.post-content pre,
-.post-content pre code,
-.post-content .highlight code {
-    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
-    font-style: normal !important;
-    font-size: 0.85em;
 }
 
 /* ---------------------------------------------------------- references */
