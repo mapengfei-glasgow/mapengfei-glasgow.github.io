@@ -1,0 +1,469 @@
+---
+layout: single
+title: "Indian Indentured Labour"
+show: "In Our Time"
+categories: ["In Our Time"]
+date: 2026-05-21T00:00:00Z
+slug: "2026-05-21-indian-indentured-labour"
+audioDir: "2026-05-21-indian-indentured-labour"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-05-21-indian-indentured-labour/episode.mp3"
+totalDuration: 3095.5
+sentences:
+  - {text: "This is In Our Time from BBC Radio 4, and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 0.14, end: 9.20}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 9.98, end: 14.82}
+  - {text: "I hope you enjoy the programme.", start: 15.38, end: 16.78}
+  - {text: "Hello. When the British Empire abolished slavery in 1833, plantation owners turned to Indian indentured labour, taking more than a million people to colonies from Guyana to Mauritius, to the Caribbean, and beyond.", start: 18.36, end: 33.50}
+  - {text: "Critics, Gandhi amongst them later on, said this was little more than slavery in disguise, and argued for abolition, which happened, but not until 1917, and there could be deception and abuse, especially in the early decades.", start: 34.40, end: 49.94}
+  - {text: "But since many, especially from disadvantaged castes, chose to stay rather than return to India when their contracts expired, then questions about the experience of different peoples in different colonies became more nuanced.", start: 50.90, end: 66.40}
+  - {text: "Well, with me to discuss this period of Indian indentured labour, are Purba Hussein, lecturer in modern history at the University of York, Neha Hui, associate professor in economics at the University of Reading,", start: 67.34, end: 81.00}
+  - {text: "and Clem Cicharan, emeritus professor of history at London Metropolitan University.", start: 81.58, end: 87.60}
+  - {text: "And, Clem, it's to you I turn to first.", start: 87.96, end: 90.24}
+  - {text: "In 1833, give us a sense of how entwined slavery, sugar, and the British Empire were.", start: 90.96, end: 98.98}
+  - {text: "Well, it was a very long history of that, and some scholars have referred to it as the sugar slave plantation complex.", start: 99.91, end: 109.23}
+  - {text: "Certainly in the Caribbean, the sugar industry with slave labour was the dominant factor in the economic development of the Caribbean islands.", start: 110.27, end: 121.61}
+  - {text: "So it was crucial.", start: 122.27, end: 124.01}
+  - {text: "In fact, when you think of sugar in the Caribbean, you think of sugar and slavery, and very often the expression bitter sugar crops up because I think it summarizes the experience on the slavery as well as to an extent,", start: 124.65, end: 144.05}
+  - {text: "certainly in the early stages of indentureship which came after the enslavement of Africans.", start: 144.37, end: 151.07}
+  - {text: "So what happened to the former enslaved people?", start: 151.63, end: 155.75}
+  - {text: "What did they do?", start: 156.49, end: 157.25}
+  - {text: "It varied, Misha, in some islands like Antigua, for instance, where the possibility of acquiring land was virtually impossible.", start: 157.57, end: 168.67}
+  - {text: "So very difficult indeed.", start: 169.21, end: 170.45}
+  - {text: "You didn't even have the so -called apprenticeship system which existed on other islands or in other colonies in the Caribbean, because the planters knew that the freed people,", start: 171.05, end: 184.45}
+  - {text: "the former slaves, the former enslaved, had very few options, very few alternatives, so that their labour was still accessible to the planters.", start: 185.15, end: 194.65}
+  - {text: "But in places like Trinidad and British Guyana and Suriname, in the southern Caribbean, there was a considerable amount of unoccupied land, land that did not belong to the plantations", start: 194.95, end: 211.71}
+  - {text: "or land that was not used by the plantations.", start: 211.71, end: 214.79}
+  - {text: "And in those places, the freed people had options to acquire land, as they did in British Guyana as well as in Trinidad.", start: 215.49, end: 223.73}
+  - {text: "And it was to those places where people had options and therefore were inclined to leave the plantations after emancipation.", start: 224.71, end: 233.51}
+  - {text: "It is to those places where that vacuum was left, where Indian indentured labourers, in fact, other forms of indentured labourers, including Madeira and Portuguese indentured labourer and Chinese indentured labourer.", start: 233.95, end: 247.81}
+  - {text: "So tell us a little bit about the compensation.", start: 247.81, end: 251.29}
+  - {text: "Who was compensated for the abolition of slavery?", start: 251.77, end: 254.71}
+  - {text: "But certainly not the enslaved or the freed people.", start: 255.03, end: 257.89}
+  - {text: "The compensation, ironically, was referred to those who owned the enslaved Africans.", start: 258.35, end: 265.33}
+  - {text: "And they were being compensated for their property.", start: 266.25, end: 269.15}
+  - {text: "And enslaved people were not human beings.", start: 269.71, end: 272.43}
+  - {text: "They were property in the same way, the oxen and the mules.", start: 272.85, end: 276.95}
+  - {text: "And it was huge sums of money, as I understand.", start: 277.39, end: 279.59}
+  - {text: "Well, it was over 20 million pangs.", start: 279.83, end: 282.27}
+  - {text: "It's certainly for Caribbean planters.", start: 282.45, end: 284.11}
+  - {text: "And that was a vast amount of money in its time.", start: 284.17, end: 286.85}
+  - {text: "So Neha, Hui, tell us a little bit about this man, John Gladstone, and what problem he perceived he had once slavery was abolished?", start: 287.81, end: 297.51}
+  - {text: "John Gladstone was a Scottish merchant, member of Parliament, and the father of future Prime Minister William Gladstone.", start: 298.03, end: 306.01}
+  - {text: "He was also a slave owner.", start: 306.57, end: 308.29}
+  - {text: "He had more than 2500 slaves across nine plantations.", start: 308.59, end: 312.75}
+  - {text: "And he was one of those people who got the compensation that you were talking about a minute ago.", start: 313.15, end: 317.03}
+  - {text: "He got over 100 ,000 pounds in compensation, which was close to 83 million pounds in current money.", start: 317.51, end: 326.39}
+  - {text: "So as was mentioned, as Clem mentioned, it isn't like plantation owners like Gladstone lost complete control.", start: 326.77, end: 333.43}
+  - {text: "So right after slavery was abolished, a transitional period of apprenticeship was instated, where former slaves were required to continue working for their slave owners for a period of up to eight years.", start: 333.73, end: 346.85}
+  - {text: "However, Gladstone was looking beyond that.", start: 347.25, end: 349.59}
+  - {text: "He wanted access to a reliable labour force.", start: 349.87, end: 354.49}
+  - {text: "Just if I can put in there, how much were the former enslaved workers being paid during these apprenticeships?", start: 354.89, end: 364.15}
+  - {text: "So during the apprenticeships, they were required to provide unpaid labour for up to 45 hours a week.", start: 364.55, end: 372.05}
+  - {text: "And yes, so it's not quite the abolition of slavery that we thought it was.", start: 372.63, end: 377.87}
+  - {text: "No, no, definitely, at least not in the initial years.", start: 378.05, end: 380.65}
+  - {text: "So yeah, so going back to Gladstone, so Gladstone was very keen to continue having the supply of reliable labour.", start: 381.19, end: 388.21}
+  - {text: "And so he knew that Mauritius had already started getting a supply of Indian workers from 1834.", start: 388.65, end: 395.59}
+  - {text: "And he started lobbying the parliament.", start: 396.15, end: 398.95}
+  - {text: "Yes. So what arguments was he making?", start: 399.49, end: 402.25}
+  - {text: "And who did he need to persuade in order to introduce this system of indentured labour?", start: 402.47, end: 407.55}
+  - {text: "There were a couple of things, couple of concerns that the plantation owners felt would reduce their profitability.", start: 407.81, end: 414.95}
+  - {text: "One was, of course, the Slavery Abolition Act.", start: 415.65, end: 418.25}
+  - {text: "But then there was another act which was being debated around the same time as indentured labour in the parliament.", start: 418.47, end: 424.09}
+  - {text: "That was the Sugar Equalisation Act, which Sugar Equalisation Bill, which became an act in 1846.", start: 424.65, end: 430.51}
+  - {text: "That act would remove the preferential treatment that British Caribbean sugar had in Great Britain.", start: 431.05, end: 436.59}
+  - {text: "And they would face competition from slave produced sugar from Brazil and Cuba.", start: 437.01, end: 441.09}
+  - {text: "The kind of argument that people like Gladstone was making was they were concerned that these newly freed former slaves would have increased bargaining power.", start: 441.73, end: 451.41}
+  - {text: "And then they were also concerned, as Clem mentioned, because there was abundance of fertile land, these workers would be contained with bounties of nature was the term that was used.", start: 451.91, end: 462.65}
+  - {text: "So he argued for a flow of workers from India.", start: 463.05, end: 466.73}
+  - {text: "So part of what I was saying, the legislation goes through relatively swiftly.", start: 466.99, end: 471.43}
+  - {text: "The indentured system is set up and it begins with the Atlas voyage going from Calcutta to Mauritius in 1834.", start: 471.85, end: 481.55}
+  - {text: "Why does it begin in Calcutta?", start: 482.29, end: 484.11}
+  - {text: "So Calcutta in 1833, if you take the year that the Slavery Abolition Act is passed in the British Parliament, Calcutta is a very, very important city already in South Asia.", start: 484.41, end: 494.03}
+  - {text: "It is a port city.", start: 494.29, end: 495.19}
+  - {text: "It is a really quite massive port traffic connecting East Asia, China on the one hand, all the way up to Europe.", start: 495.53, end: 501.59}
+  - {text: "In the 19th century, Calcutta is the capital under the East India Company later under the British Crown.", start: 501.89, end: 507.11}
+  - {text: "But also there are multiple important shipping companies and merchant companies based in Calcutta.", start: 507.73, end: 512.69}
+  - {text: "And in fact, when Gladstone in 1836 writes to Calcutta based merchant company where his cousin works to ask if Indian labour is a possible way of bringing labour into the Caribbean", start: 513.19, end: 525.21}
+  - {text: "and a way of ensuring that sugar production is not stalled.", start: 525.21, end: 529.23}
+  - {text: "They had this conversation that is very focused on what Calcutta can provide.", start: 529.69, end: 533.83}
+  - {text: "The idea is that the merchant companies based in Calcutta can kind of run the operations at the port city side, but there would be labour recruiters going into different parts of Eastern India into villages and towns and cities,", start: 534.67, end: 547.77}
+  - {text: "entice people in, in some cases as we know now, kidnap people and bring them to the port.", start: 548.51, end: 553.37}
+  - {text: "So what were the voyages like?", start: 553.93, end: 555.77}
+  - {text: "What were the conditions that the indenture workers were kept in?", start: 555.99, end: 559.63}
+  - {text: "So the voyages were actually an extremely important part of the indenture experience.", start: 559.93, end: 564.95}
+  - {text: "And maybe I'll start with the caveat that this changes quite a lot in the 1830s and 40s.", start: 565.47, end: 570.17}
+  - {text: "We see really long voyages with the coming of steel ships and much improved steamship engineering in the 1880s and 90s.", start: 570.21, end: 577.91}
+  - {text: "It does change quite a bit.", start: 577.91, end: 579.53}
+  - {text: "And presumably it's a lot quicker once you've got steams.", start: 579.79, end: 582.15}
+  - {text: "It is a lot quicker once you get to the end of the 19th century.", start: 582.15, end: 585.65}
+  - {text: "Yes. But surprisingly, people's understanding of the ships and the voyages does not change as a complete overhaul.", start: 586.07, end: 594.29}
+  - {text: "For context, in the 1830s, 40s and 50s, if you go from Calcutta to Mauritius, it takes about one and a half months.", start: 594.77, end: 601.05}
+  - {text: "If you go to Fiji, it takes about four months.", start: 601.65, end: 603.63}
+  - {text: "If you go to Jamaica, it can take up to five months.", start: 603.79, end: 605.93}
+  - {text: "It depends on the time of the year and all those other geographical concerns as well.", start: 606.11, end: 610.19}
+  - {text: "That a large part of becoming an indentured migrant and becoming used to the system of having an overseer, becoming one laborer amongst many, and following very particular kind of almost the synchronized system of waking up at a particular time,", start: 610.99, end: 627.79}
+  - {text: "being allowed on deck at a particular time, living with other indentured migrants.", start: 628.29, end: 631.99}
+  - {text: "Most of the indentured men, women and children were living under the decks.", start: 632.65, end: 636.07}
+  - {text: "They were allowed upon decks for certain times.", start: 636.31, end: 638.31}
+  - {text: "There were real concerns with spread of disease because they were living very, very closely together.", start: 638.85, end: 643.59}
+  - {text: "There were other issues such as sexual harassment of women that was really quite rampant on these ships.", start: 644.15, end: 649.35}
+  - {text: "So, Clem, let's focus a bit on Guyana, which became one of the main destinations after Mauritius.", start: 650.09, end: 655.97}
+  - {text: "What were conditions like for indentured laborers at first when they arrived in Guyana?", start: 656.55, end: 661.57}
+  - {text: "It's some gradation here in terms of the treatment of indentured laborers.", start: 661.97, end: 667.19}
+  - {text: "It's not a uniform thing.", start: 667.31, end: 668.73}
+  - {text: "And the first indentured laborers who were taking to British Guyana arrived there on the 5th of May, 1838, even before the final day of the formal end of slavery.", start: 668.73, end: 681.43}
+  - {text: "So, we're dealing here with a society that was still a slave society.", start: 681.95, end: 687.21}
+  - {text: "And obviously, the attitudes of planters, in spite of the fact that they were facing this potential loss of labor, the attitude of planters was still the attitude shaped by being slave masters.", start: 687.63, end: 702.37}
+  - {text: "So, I think the initial experience was quite awful.", start: 703.13, end: 707.93}
+  - {text: "And it was primarily because of that experience in British Guyana with the first two ships that arrived there in 1838 that the system was suspended for a number of years.", start: 708.39, end: 721.61}
+  - {text: "And it wasn't restarted again in the Caribbean until...", start: 722.01, end: 725.43}
+  - {text: "But suspended because the conditions were still awful.", start: 725.43, end: 727.73}
+  - {text: "Because the conditions were so awful and there was a high mortality rate among the first batch of indentured laborers.", start: 727.73, end: 736.19}
+  - {text: "And it was restarted again in 1845.", start: 736.31, end: 739.57}
+  - {text: "But what is interesting to note here, Misha, is that those freed people of African descent, the former slaves, they understood their bargaining position because British", start: 740.29, end: 754.95}
+  - {text: "Guyana was not a developed slave society like Jamaica.", start: 754.95, end: 759.33}
+  - {text: "Trinidad was not a developed slave society like Jamaica or Barbados.", start: 759.77, end: 764.23}
+  - {text: "So, there was considerable amount of land.", start: 765.13, end: 767.43}
+  - {text: "And the freed people realized that they had a bargaining strength, a bargaining advantage because of their access to land.", start: 768.19, end: 778.73}
+  - {text: "And they started to buy land and to acquire small villages and so on on the periphery of these plantations.", start: 778.73, end: 785.51}
+  - {text: "But they were very conscious that they could bargain with the planters.", start: 786.05, end: 790.57}
+  - {text: "In fact, they went on strike in 1842 in British Guyana.", start: 790.73, end: 794.03}
+  - {text: "And they were able to get an increase in wages.", start: 794.27, end: 796.67}
+  - {text: "But when those same freed African people went on strike in 1848, by then indentureship had started again.", start: 797.23, end: 805.39}
+  - {text: "And therefore, those Portuguese and Indian indentured laborers were able to undercut the bargaining position of the freed people.", start: 806.07, end: 815.13}
+  - {text: "Yeah, of course, the Indian indentured labor was not the only indentured labor system that emerged in the 19th century.", start: 815.55, end: 822.29}
+  - {text: "We saw this particular with Chinese workers as well.", start: 822.37, end: 825.35}
+  - {text: "And Neha, you mentioned before about the lifting of the sugar monopoly in the 1840s.", start: 826.15, end: 832.37}
+  - {text: "So, we've got a tension between the colonialist planters and the free traders in Britain at the time.", start: 832.69, end: 842.07}
+  - {text: "What role does the idea about free labor, how does that fit into this?", start: 842.43, end: 848.21}
+  - {text: "So, liberal thinkers of that time saw in Indian indentured labor as an uneasy compromise between slavery and free labor.", start: 848.85, end: 856.87}
+  - {text: "So, say for example, the Indian indentured workers did have sort of macro freedom to travel from one part of British colony India to other parts.", start: 857.33, end: 865.71}
+  - {text: "However, of course, mobility was restricted within the plantation.", start: 866.11, end: 869.83}
+  - {text: "There were other things that made indentured workers superior.", start: 870.23, end: 873.19}
+  - {text: "Say for example, a right to a passage back home.", start: 873.65, end: 877.01}
+  - {text: "Recruitment was at least theoretically free and people were signing a contract to get into the system.", start: 877.59, end: 883.93}
+  - {text: "Of course, there was a lot of evidence of abuse and coercion there.", start: 884.31, end: 888.47}
+  - {text: "In indentured workers were paid a wage.", start: 888.89, end: 890.89}
+  - {text: "It was less than free wage, but they were paid a wage.", start: 891.01, end: 893.41}
+  - {text: "So, it was a bit of a compromise.", start: 893.97, end: 895.47}
+  - {text: "The political economists of that time were uneasy about this, but they didn't explicitly talk about indentured labor.", start: 896.01, end: 903.23}
+  - {text: "Adam Smith, who of course predated indentured labor, was unambiguously opposed to unfreedom.", start: 903.65, end: 910.47}
+  - {text: "So, in his work, Theory of Moral Sentiment, he calls states that had slavery the vilest of all states.", start: 910.93, end: 916.97}
+  - {text: "And then in Wealth of Nation, he said that unfree labor was inefficient because workers just did not have the incentive to work more.", start: 917.39, end: 925.45}
+  - {text: "J .S. Mill also opposed unfree labor on a very deep philosophical ground in his work on liberty.", start: 926.03, end: 931.79}
+  - {text: "He argued that indentured labor, because it resulted in loss of freedom, actually made contracts meaningless.", start: 932.27, end: 938.55}
+  - {text: "Well, talking about those contracts which they were signing, put about back in India, who was doing the recruiting, and how much did the indentured workers know what they were signing up for?", start: 939.11, end: 952.07}
+  - {text: "Labor recruiting was done by quite a wide range of people.", start: 952.47, end: 955.47}
+  - {text: "Back in India, the general idea was that plantation owners in different parts of the British Empire, including British Caribbean, would write to the merchants in Calcutta, some merchant companies,", start: 956.09, end: 966.79}
+  - {text: "and say, we need this many people at this time.", start: 967.19, end: 969.71}
+  - {text: "The merchant companies would recruit local Indian men, mostly men, to go into the hinterlands of India.", start: 970.33, end: 976.67}
+  - {text: "We've talked about Calcutta, but that was not the only port.", start: 977.19, end: 979.55}
+  - {text: "There were two big ports in southern India as well, Madras and Bombay.", start: 979.75, end: 983.63}
+  - {text: "So the idea being labor recruiters go into villages and towns and cities in the hinterland and try to argue that indentured system is a really good alternative,", start: 983.85, end: 993.39}
+  - {text: "especially for people who were already quite used to agricultural labor.", start: 993.39, end: 997.13}
+  - {text: "That is not actually how it happened.", start: 997.53, end: 999.15}
+  - {text: "There were people coming back from the Caribbean who had been an indentured migrant, and they would then have the job of trying to then entice other people to join the indentured migration.", start: 999.65, end: 1010.13}
+  - {text: "Their contracts lasted for about five years, is that right?", start: 1010.17, end: 1013.51}
+  - {text: "Five years, yes. Five years was the standard contract.", start: 1013.53, end: 1016.29}
+  - {text: "And were they generally, after five years, free to choose what to do next?", start: 1016.37, end: 1021.21}
+  - {text: "On paper, yes. Actually, no.", start: 1021.49, end: 1023.77}
+  - {text: "Sometimes it really depended on whether they had been paid their wages up on time, on whether their wages had been cut because of being ill, for instance, where you couldn't work on certain days.", start: 1024.09, end: 1034.47}
+  - {text: "Various plantation colonies used the double cut in wages.", start: 1034.99, end: 1037.91}
+  - {text: "So if you miss one day, you get two days wages cut.", start: 1038.31, end: 1040.93}
+  - {text: "They were supposed to be paid for the voyage back to their port of origin.", start: 1041.41, end: 1045.47}
+  - {text: "Many weren't paid that.", start: 1045.69, end: 1046.63}
+  - {text: "Generally, we do know of multiple indentured migrants who did, after they have gone to the Caribbean, to Fiji, to Mauritius, who did take the opportunity of the end of the contract to try to get some of that agency back.", start: 1047.19, end: 1060.29}
+  - {text: "We know of multiple people who put in applications to move to a different colony or to a different estate because they heard from other indentured migrants", start: 1060.85, end: 1068.87}
+  - {text: "that that was slightly better for them or move to colonies would be easier to kind of settle down a bit.", start: 1068.87, end: 1074.49}
+  - {text: "But we know so many indentured migrants who had absolutely no idea what they were signing on for.", start: 1074.83, end: 1080.43}
+  - {text: "We know of people in the 1830s who was told that they were going to be going on a five day journey.", start: 1080.75, end: 1087.65}
+  - {text: "They ended up going on a two months journey who were told they were going to be abroad for six months.", start: 1087.85, end: 1092.59}
+  - {text: "They were abroad for, well, five years in the plantation and then the travel time.", start: 1092.81, end: 1096.33}
+  - {text: "As late as 1898, we know of people who thought that land would be visible throughout the journey.", start: 1096.73, end: 1102.55}
+  - {text: "Many of these people from the hinterlands have never been on the oceans.", start: 1102.89, end: 1105.87}
+  - {text: "So many of them we know were expecting really a river journey to somewhere in or near India.", start: 1106.43, end: 1111.41}
+  - {text: "So, Clem, back to Guyana, you've mentioned the fact that the agency of the freed enslaved population was initially considerable, but then weakened by the introduction of indentured Indian labour.", start: 1112.21, end: 1127.21}
+  - {text: "Did that result in ever any coming together of the two communities or were they at daggers drawn as it were over the years?", start: 1127.83, end: 1137.43}
+  - {text: "Yes, primarily because the indentured labourers had access to a considerable amount of land on the Guyana coast, because as I said earlier, it wasn't a mature slave society in the way Jamaica and Barbados were,", start: 1137.77, end: 1156.09}
+  - {text: "some of the islands and the Leeward Islands and the Windward Islands.", start: 1156.25, end: 1159.49}
+  - {text: "So after 1817 in particular, because conditions started to improve, there were reforms.", start: 1160.01, end: 1166.29}
+  - {text: "The system that Purba is discussing from the 1830s and the 1840s had undergone some reforms from the 1870s to the 1880s.", start: 1167.31, end: 1178.47}
+  - {text: "So increasingly, people were able to or some people were able to move out of the plantations.", start: 1178.67, end: 1185.21}
+  - {text: "So you had an interesting relationship where Indian villages were being created on the Guyana coast, on the periphery of the sugar plantations, in the same way that African villages were created.", start: 1185.67, end: 1199.19}
+  - {text: "But in many cases, the Indian villages were substantially more successful because this is a place that's below sea level, tends to be very swampy during the heavy rains.", start: 1199.53, end: 1213.77}
+  - {text: "And what happened there was that many people, many indentured laborers who came from agricultural cast or people who were forced into agriculture because of the penetration of the economies of Eastern Uttar Pradesh and Western Bihar,", start: 1214.49, end: 1231.13}
+  - {text: "where many of the caste professions had become defunct.", start: 1231.43, end: 1235.33}
+  - {text: "So virtually everybody was thrown onto the land.", start: 1235.61, end: 1238.61}
+  - {text: "So even the lowest of caste, people like the Chamars and the Domes and the Dussads who today I presume consider Dalits over the time were seen as untouchables,", start: 1238.95, end: 1250.57}
+  - {text: "even those people had considerable experience as cultivators, renting land, of course, not owning land, but also as agricultural laborers.", start: 1251.17, end: 1263.17}
+  - {text: "So the people who were taking most of the indentured laborers who were taking to British Guyana and Trinidad and Surinam and so on, had considerable agricultural experience and they were able to maximize the advantages that were thrown up on the Guyana coast on these swampy lands,", start: 1263.55, end: 1282.41}
+  - {text: "because these swampy lands were ideal for the wet rice culture.", start: 1282.79, end: 1286.51}
+  - {text: "Whereas in many cases that militated against the kind of crops that African villagers were cultivating.", start: 1286.83, end: 1293.71}
+  - {text: "So there was already a conflict there which had started with the inflow of indentured laborers and that was magnified by the fact that Indian villages", start: 1294.27, end: 1306.19}
+  - {text: "after the 1870s to 1880s were emerging all along the coast to the point where when some African villages or bits of land owned by Africans could not be profitably cultivated.", start: 1306.19, end: 1318.49}
+  - {text: "Some of these lands were bought over by Indians, which exacerbated that discordance that had already emerged.", start: 1318.99, end: 1325.83}
+  - {text: "Neha, Clem just mentioned there about the caste system and the fact that I presume most of the indentured laborers were Dalits or untouchables as they're often referred to.", start: 1326.35, end: 1339.49}
+  - {text: "Can you tell us a bit more about what happened to the caste system as people went away and who was signing up for this?", start: 1340.01, end: 1347.79}
+  - {text: "Just to clarify, it's not that most people were from the backgrounds, but then a significant number one.", start: 1348.03, end: 1353.77}
+  - {text: "I think about a third that came out from my research.", start: 1353.83, end: 1356.81}
+  - {text: "There were people from other castes as well.", start: 1357.01, end: 1358.71}
+  - {text: "There were people who were from agricultural caste.", start: 1358.77, end: 1360.43}
+  - {text: "There were people from a high caste as well.", start: 1360.55, end: 1361.97}
+  - {text: "Now, no matter where they were in the caste hierarchy, in India, their lives would have been structured very much by gender and caste norms.", start: 1362.61, end: 1372.41}
+  - {text: "So just to tell the listeners a little bit about what we mean by the caste system, in India, when the indentured workers came, the system of caste hierarchy would be a very structured system that would deem some people or groups,", start: 1372.81, end: 1387.65}
+  - {text: "one nose superior to others and people who were at the bottom of the caste hierarchy, they would live really difficult lives of material deprivation, having no access to educational institutions locked in really bad quality, unskilled labour.", start: 1387.89, end: 1406.23}
+  - {text: "People of lower caste were considered so polluting that anyone who, if someone of the higher caste saw them, let alone touched them, they would be defiled.", start: 1406.67, end: 1415.71}
+  - {text: "So people lived lives of physical segregation.", start: 1416.17, end: 1418.19}
+  - {text: "Interdining was not allowed.", start: 1419.25, end: 1420.77}
+  - {text: "Intermarriage was not allowed.", start: 1421.49, end: 1423.07}
+  - {text: "And the gender norms were particularly difficult for women of higher caste.", start: 1423.65, end: 1427.81}
+  - {text: "But then for most people, the caste structure was very strong and prohibitive.", start: 1427.89, end: 1432.51}
+  - {text: "In the plantation colonies, not that caste completely disappeared, but it didn't exist in the same way.", start: 1433.23, end: 1439.37}
+  - {text: "All the workers were working similar jobs.", start: 1439.75, end: 1441.77}
+  - {text: "The hierarchy based on occupation couldn't exist anymore.", start: 1442.21, end: 1445.45}
+  - {text: "It's not that there was no hierarchy, but the hierarchy was more on racial lines rather than caste lines.", start: 1445.89, end: 1450.53}
+  - {text: "Also, you know, coming together in the ships, living together in the sleeping quarters, eating together meant that these prohibitions on interdining or these physical segregation could not be continued.", start: 1450.91, end: 1462.41}
+  - {text: "Sex ratio was skewed, which meant that intermarriage cohabitation was quite common.", start: 1462.83, end: 1467.87}
+  - {text: "In fact, in some instances, people of lower caste were considered better options by plantation management because they were less trouble.", start: 1468.43, end: 1476.19}
+  - {text: "They're able to stand up for their for their rights and less, less, less confident.", start: 1476.55, end: 1481.55}
+  - {text: "Clem, you wanted to go in there.", start: 1481.85, end: 1482.91}
+  - {text: "I just want to add to what Nia is saying there, because I think that the whole process as Nia was saying that it's not just people from the lowest caste.", start: 1482.95, end: 1493.15}
+  - {text: "You had people from a broad cross -section of caste, including some minority of Brahmins and Shatryas who were upper caste people.", start: 1493.59, end: 1504.01}
+  - {text: "But you also had a significant amount of people from agricultural castes.", start: 1504.19, end: 1510.05}
+  - {text: "If you go to Eastern UP today or Western Bihar, what is known as the Bhojpur area, Bhojpur is speaking area.", start: 1510.05, end: 1517.01}
+  - {text: "That Bhojpur culture, the agricultural castes like the Kurmese and the Ahirs and the Khoris and so on.", start: 1517.47, end: 1527.13}
+  - {text: "These people were among the best agriculturalists in 19th century, late 19th century Eastern UP and Western Bihar.", start: 1527.83, end: 1537.25}
+  - {text: "And many contemporary writers spoke about the great agricultural skills of the men, even more so of the women.", start: 1537.47, end: 1545.13}
+  - {text: "But what was interesting about the here is that these people, although they were the best agriculturalists, they own very little of the land.", start: 1545.61, end: 1554.89}
+  - {text: "So when they went to a place like British Guyana or Trinidad or Suriname and found that although they were from the lowest caste and they now had the means to acquire some land, even small parcels of land,", start: 1555.35, end: 1569.63}
+  - {text: "that was magical for them because in spite of their agricultural skills in many of these places, there was absolutely no way they could acquire land.", start: 1570.11, end: 1579.85}
+  - {text: "Acquiring land was magic.", start: 1580.29, end: 1581.75}
+  - {text: "And that explains why, or to a great extent, that explains why it's a place like British Guyana.", start: 1582.37, end: 1588.79}
+  - {text: "Only about 28, 29 percent of the people returned.", start: 1589.11, end: 1593.51}
+  - {text: "I think in Trinidad it was less.", start: 1594.03, end: 1595.51}
+  - {text: "They stayed on after their conscience.", start: 1595.89, end: 1597.87}
+  - {text: "Because they were recreating a world.", start: 1598.31, end: 1600.67}
+  - {text: "But not just recreating a world.", start: 1601.11, end: 1602.79}
+  - {text: "They actually had certain advantages which didn't exist in India.", start: 1602.91, end: 1606.83}
+  - {text: "Of course. And they were able to exploit a variety of niches in the village environments on the periphery of these plantations.", start: 1606.95, end: 1616.87}
+  - {text: "So you had a kind of symbiotic relationship between the villages where people were pursuing their particular skills and developing village communities.", start: 1617.39, end: 1627.93}
+  - {text: "But at the same time, during the harvest season, because they had recreated the Indian families, a kind of corporate economic unit, some members would be sent out to the plantations to earn cash during the harvest season and the plantations.", start: 1628.31, end: 1643.35}
+  - {text: "Neha. We've not spoken very much about the experience of women.", start: 1644.03, end: 1647.35}
+  - {text: "Yes. And that is actually quite interesting because on the one hand, yes, there was a lot of sexual harassment, coercion, and so on, right from the time of recruitment.", start: 1647.95, end: 1658.21}
+  - {text: "However, there is also evidence that many of the women who went were women who were, you know, widowed, who were destitutes.", start: 1658.73, end: 1666.41}
+  - {text: "Many of the recruitments were from pilgrimage areas where women and men were recruited from often under false sprittance.", start: 1666.49, end: 1675.11}
+  - {text: "But then many of these women were in the pilgrimage sites because they were widowed and they were sent away by their families at the death of their husbands.", start: 1675.45, end: 1683.57}
+  - {text: "And they lived under extreme conditions of austerity with very little financial support.", start: 1684.13, end: 1690.35}
+  - {text: "So for some of them, this signing of contract was also an act of agency given the very limited and a real real opportunity.", start: 1690.81, end: 1698.55}
+  - {text: "Clem, you are coming on that.", start: 1699.23, end: 1701.11}
+  - {text: "Yes, just to add to what Neha is saying here, my maternal great -grandmother came from a low caste Pasi, which would be a Dalit caste.", start: 1701.57, end: 1713.13}
+  - {text: "And she came from the district of Gonda, which is on the border with Nepal.", start: 1713.61, end: 1718.27}
+  - {text: "And she was 20 years old, when she was taken to British Guyana in 1909, unaccompanied by anybody.", start: 1718.53, end: 1728.17}
+  - {text: "And from Brijlal's study of Fiji, the late great Professor Brijlal, an Indo -Fijian historian, we can extrapolate from that to say that the overwhelming majority", start: 1728.77, end: 1741.83}
+  - {text: "of women who were taking under indentureship, certainly to Fiji and possibly to the Caribbean, were not accompanied by anybody at all, which was a clear indication of what Neha has been talking about,", start: 1742.69, end: 1757.85}
+  - {text: "that for some of these women, their husbands had probably died.", start: 1758.37, end: 1763.25}
+  - {text: "There were many. They were married at 14.", start: 1763.77, end: 1766.55}
+  - {text: "Ninety percent of the girls in this area in Eastern, European, Western Bihar were married at the age of 14.", start: 1767.35, end: 1775.45}
+  - {text: "So many of them would have been widows.", start: 1775.85, end: 1778.05}
+  - {text: "Some of them would have been deserted.", start: 1778.73, end: 1780.55}
+  - {text: "But what we have to understand also is that there was a culture of migration which had been opened up in the context of the expansion of the British colonialism.", start: 1781.41, end: 1790.85}
+  - {text: "Put it back, let's pull out a bit now towards the end of the 19th century.", start: 1791.41, end: 1795.51}
+  - {text: "We started seeing more and more voices arguing against the indentured system.", start: 1795.73, end: 1800.91}
+  - {text: "And perhaps some of the most important voices came out of South Africa.", start: 1801.19, end: 1805.49}
+  - {text: "Can you tell us about what happened in South Africa and why that was so important?", start: 1805.49, end: 1810.69}
+  - {text: "South Africa was one of the parts of the British Empire that also saw the use of Indian indentured labour.", start: 1811.33, end: 1817.61}
+  - {text: "I believe from the middle of the 19th century, Indian labourers were also moving as indentured migrants to South Africa, working not just on the field, but in a variety of jobs.", start: 1817.99, end: 1828.19}
+  - {text: "One of the reasons why South Africa becomes so important to the voices against indenture is because of Gandhi, who, you know, before he started becoming really involved in the Indian independence movement with a lawyer educated in London, for instance,", start: 1828.61, end: 1844.21}
+  - {text: "and then based in South Africa, where he realised that there were multiple groups of Indian origin or Indians living in South Africa at the time.", start: 1844.49, end: 1853.47}
+  - {text: "People like him who were professionals, people who were labourers and people who had specifically gone under the indentured system to work in the particular part of South Africa known as Natal.", start: 1853.75, end: 1863.19}
+  - {text: "And Gandhi became very involved in the rights of Indians, and in that case, the rights of Indians, of course, included the rights of indentured migrants and the descendants of indentured migrants.", start: 1863.75, end: 1873.59}
+  - {text: "The South African voice then really comes in as part of the discussion of indentured migrants as part of a wider Indian diaspora and thinking particularly about how prejudice against people of Indian origin in South Africa, as in many other colonies across the British Empire,", start: 1874.01, end: 1890.13}
+  - {text: "prejudice against Indian indentured migrants became part of the prejudice against Indians as a whole.", start: 1891.09, end: 1895.93}
+  - {text: "So when Gandhi is back in India in the beginning of the 20th century, very end of the 19th century, this entire discourse and this entire experience he had in South Africa became part of the wider discourse that was coming up out of India at this time,", start: 1896.75, end: 1910.87}
+  - {text: "which was that the British imperial system that existed in India needed a complete overhaul, moving later to the asking for complete independence.", start: 1911.15, end: 1920.81}
+  - {text: "So, Clem, if we look at what happens as the movement to abolish the indentured system develops, what happens to the communities afterwards?", start: 1921.83, end: 1934.99}
+  - {text: "They are now really part of the local countries that they've moved to.", start: 1935.45, end: 1940.91}
+  - {text: "How do they respond to the end of the system?", start: 1941.49, end: 1944.39}
+  - {text: "The British Guyana case is especially interesting because when indentureship was abolished, the last indentures were cancelled in April of 1920.", start: 1944.39, end: 1957.15}
+  - {text: "Some middle -class Indians in British Guyana launched something called the colonization scheme.", start: 1957.85, end: 1964.09}
+  - {text: "It was headed by two very distinguished Indians, a lawyer and a legislator, a man named J .A.", start: 1964.57, end: 1971.05}
+  - {text: "Lockhoo and a man named Dr.", start: 1971.13, end: 1974.39}
+  - {text: "William Hewley -Warton, who was actually Indian, who was the first Indian in the Caribbean to graduate in medicine, studied at the University of Edinburgh, and they thought that the Indian population was stuck at something like 42 or 43 percent,", start: 1974.61, end: 1990.75}
+  - {text: "precisely at the time when no more indentured laborers would be taken into the colony.", start: 1990.99, end: 1996.51}
+  - {text: "And they felt that that left them very vulnerable because unlike Mauritius, and they were citing the case of Mauritius, where the Indian population was already well over 60, maybe 70 percent,", start: 1996.77, end: 2008.65}
+  - {text: "the Mauritian Indians had the instruments to begin to fight for greater political rights.", start: 2009.33, end: 2016.99}
+  - {text: "But that in British Guyana, they didn't have that numerical strength to be able to fight in the same way.", start: 2017.35, end: 2025.11}
+  - {text: "You mean to fight for them with the British authorities?", start: 2025.39, end: 2029.71}
+  - {text: "Yes, with the British authorities.", start: 2029.71, end: 2031.23}
+  - {text: "Or the other peoples of British Guyana?", start: 2031.61, end: 2034.03}
+  - {text: "Well, with the British authorities, but that any kind of political battle of that nature inevitably acquired an ethnic dimension because the Africans were not in", start: 2034.07, end: 2045.89}
+  - {text: "favor of the continuation of Indian indentured laborers.", start: 2045.89, end: 2049.61}
+  - {text: "In fact, they were trying to get more Africans to come in from West Indian islands and from West Africa because they thought that their position in the future,", start: 2049.67, end: 2060.27}
+  - {text: "their political and economic position in the future, would be gravely undermined if the Indian population was further increased.", start: 2060.57, end: 2069.59}
+  - {text: "So that created a big battle there already between the two of them.", start: 2069.87, end: 2074.35}
+  - {text: "Sir Neha, you have these populations in places as far away as Fiji, British Guyana, Mauritius, South Africa, these Indian populations who remained there after the end of the system, how do they view India itself?", start: 2074.49, end: 2090.35}
+  - {text: "I mean, do they feel detached from it or what is their relationship with India?", start: 2090.87, end: 2095.37}
+  - {text: "The Indian diaspora in the different colonies have a very distinct identity in themselves, which is, of course, influenced by India, but then it is distinct.", start: 2095.65, end: 2106.79}
+  - {text: "Say, for example, in Trinidad and Suriname and British Guyana, there is a very strong Indo -Caribbean identity.", start: 2107.31, end: 2114.75}
+  - {text: "And during the time of decolonization, these people of Indian background played extremely important roles in every sphere of life, in politics, in literature, and I'm sure Clem will tell you in sports.", start: 2115.21, end: 2129.73}
+  - {text: "It's a... Of course.", start: 2130.91, end: 2132.19}
+  - {text: "Of course. It's a distinct identity did exist, but then it was influenced by their background in India.", start: 2132.83, end: 2140.81}
+  - {text: "There are traces of Indianness in different aspects of their life.", start: 2141.27, end: 2145.01}
+  - {text: "For example, maybe the caste system didn't continue to exist in the same way, but then festivals got transferred.", start: 2145.57, end: 2152.25}
+  - {text: "So people of Indian origin in the Caribbean celebrate festivals like Pagwa, which is the Spring Festival of Color, which is also known as Holy in India,", start: 2152.59, end: 2162.47}
+  - {text: "as well as Diwali, which is the Autumn Festival of Lights.", start: 2162.83, end: 2166.67}
+  - {text: "Food has got a very rich influence from India, but then it is unique and their own.", start: 2166.67, end: 2173.43}
+  - {text: "So, yes, the culture did come in, but it's a very distinct identity.", start: 2173.81, end: 2178.77}
+  - {text: "And Portoba, how would you sum up the legacy of the Indian indentured system?", start: 2179.47, end: 2184.75}
+  - {text: "It kind of touches upon everything, economy, politics, culture.", start: 2185.13, end: 2189.17}
+  - {text: "This is about eight decades of Indians moving to different parts of the world, as you say, feeding the South Pacific all the way to Caribbean.", start: 2189.57, end: 2197.87}
+  - {text: "One of the biggest legacies, of course, is the creation of these new identities that Neha just told us about and these new aspects of the Indian diaspora that many of whom remain quite Indian in their culture,", start: 2198.63, end: 2211.41}
+  - {text: "but as you say, also have created their own distinct identities into Mauritians, as into Caribbean.", start: 2211.55, end: 2217.63}
+  - {text: "Neha has talked about the population and cultural legacies.", start: 2218.19, end: 2220.89}
+  - {text: "To me, one of the bigger legacies, of course, as a historian thinking about what's happening in India at the time, is considering how the abolition of indenture", start: 2221.55, end: 2230.73}
+  - {text: "and the discussion and discourse that came out of that snowballed into a very important part of the Indian independence movement and the mass mobilization politics", start: 2230.73, end: 2240.15}
+  - {text: "that we know about the Indian independence movement today.", start: 2240.15, end: 2242.87}
+  - {text: "Many of it started with people like Gandhi who were based in India, but also ex -indentured migrants, a very important person being Totharam Sanathya, who was an Indo -Fijian man who came back to India this time, as many did as part of the repatriation process,", start: 2243.37, end: 2259.37}
+  - {text: "who would go on and giving lectures around different parts of the country in India to try to show his experience of the indenture trade and use", start: 2259.99, end: 2269.29}
+  - {text: "that as a way to rile people up to speak against the indenture system.", start: 2269.29, end: 2272.97}
+  - {text: "And, Clem, how about you?", start: 2273.29, end: 2274.85}
+  - {text: "What do you think the primary legacies of the system are?", start: 2274.97, end: 2278.91}
+  - {text: "Well, I think, Misha, I've called it a social revolution.", start: 2278.91, end: 2282.27}
+  - {text: "And in this respect, I think I was greatly influenced by Professor Brijlal, who had a great impact on me.", start: 2282.89, end: 2290.37}
+  - {text: "One of the most important things here was that the cast, notions of caste were largely incompatible with the capitalist rationale, the capitalist ethos of the sugar plantations.", start: 2290.73, end: 2305.79}
+  - {text: "But the whole process, from the depots in Calcutta, the proverb writes about in a very fine book, that from there, onto the ships, onto the plantations, into the loges,", start: 2306.11, end: 2318.23}
+  - {text: "the barracks, there was no recognition of one's caste background.", start: 2318.95, end: 2323.95}
+  - {text: "And therefore, people of necessity started to integrate and to create a new identity.", start: 2324.29, end: 2330.65}
+  - {text: "In fact, those who travel on the same ship, whether they were Brahmins or Shatriyas or Kourmys or Chamars, or people who were seen as being from a very low caste,", start: 2331.33, end: 2343.21}
+  - {text: "they had to integrate, they had to work within this framework.", start: 2343.75, end: 2346.75}
+  - {text: "And that is why, I'd say, the social revolution began there and it continued onto the plantations.", start: 2346.99, end: 2352.73}
+  - {text: "In fact, men and women who travel on the same ship saw themselves as Jihadis or Jihadins, ship brothers and ship sisters.", start: 2352.99, end: 2363.75}
+  - {text: "And that relationship became so strong that it was almost forbidden for such people's family to intermarry.", start: 2364.29, end: 2371.97}
+  - {text: "And I think that that process was magnified by the fact that people were able to retain Islam as well as Hinduism in the Caribbean.", start: 2372.19, end: 2381.39}
+  - {text: "Because Muslim people, Brahmins, lower caste people, all were literally in the same boat and on the same plantations.", start: 2381.83, end: 2390.03}
+  - {text: "Neha. Clem has mentioned a lot about what the bull factors, what kept workers back in British Ghana or other colonies.", start: 2390.79, end: 2399.53}
+  - {text: "One thing that stopped many people from going back was the notion of Kalapani.", start: 2400.09, end: 2405.97}
+  - {text: "So Hinduism imposes caste expulsion on people who have crossed the sea in a process called Kalapani, which translates to black water.", start: 2406.31, end: 2414.67}
+  - {text: "And then that process can only be reversed through an expensive ceremony called Shuddhi.", start: 2415.21, end: 2421.55}
+  - {text: "And people of lower caste did not often have the means or the motive to go back.", start: 2422.17, end: 2427.09}
+  - {text: "I was going to say, why would they?", start: 2427.15, end: 2428.21}
+  - {text: "Yes, just to confirm the fact that they were a Dalit.", start: 2428.71, end: 2432.09}
+  - {text: "Exactly. And just one final point, Misha.", start: 2432.55, end: 2435.29}
+  - {text: "I do not know how orthodox Hinduism, for instance, which is still very strong there, Sanat and Herm, how that could have been maintained if it hadn't been for the minority of Brahmins who were taken to the Caribbean,", start: 2435.79, end: 2450.39}
+  - {text: "because they themselves were conscious participants in this process, because they started in order to counteract, to make a living, but also to counteract the Christian proselytizers", start: 2450.93, end: 2464.29}
+  - {text: "who had come in because they had a whole set of heathens there as they saw them.", start: 2464.83, end: 2469.27}
+  - {text: "But those Brahmins soon started not only to minister in the homes of people who were known to be a very low caste, with whom they would never have associated with in India,", start: 2469.59, end: 2482.79}
+  - {text: "not only did they go to their homes to do the poojas and to do all the religious work and to recognize these people as human beings,", start: 2483.31, end: 2491.37}
+  - {text: "but they also start to take cooked food from these people.", start: 2491.77, end: 2495.39}
+  - {text: "And for me to take cooked food from you, if you're known as a Dalit or an untouchable, that itself was a social revolution of great significance.", start: 2495.57, end: 2505.57}
+  - {text: "And for me, that is what epitomizes this new identity that was being shaped.", start: 2506.13, end: 2510.95}
+  - {text: "My thanks to Purbao Hussain, Clem Sicharan and Neha Hui.", start: 2511.91, end: 2516.39}
+  - {text: "Next week, the Origins of Cybernetics.", start: 2516.91, end: 2520.03}
+  - {text: "Thank you for listening.", start: 2520.47, end: 2521.53}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2522.21, end: 2528.81}
+  - {text: "Are you keeping this bit or not?", start: 2530.15, end: 2532.01}
+  - {text: "Yeah, we keep this, but we keep this bit.", start: 2532.01, end: 2533.85}
+  - {text: "So there are a couple of things that really struck me.", start: 2534.11, end: 2537.47}
+  - {text: "First of all, we didn't talk about Uganda.", start: 2537.59, end: 2540.45}
+  - {text: "We didn't talk about what the long -term impact has been in politically in places like Uganda and Fiji, in particular, where there's been real tension", start: 2541.45, end: 2553.69}
+  - {text: "in the past 50 years or so and how that emerged.", start: 2554.31, end: 2557.21}
+  - {text: "And the other thing that strikes me is that this is so reminiscent of something else that I've done some work on, which is the effectively indentured labor of Bengalis and Nepalese in particular, but also Filipinos into the Gulf states.", start: 2557.51, end: 2575.45}
+  - {text: "It seems to me to be a very similar system.", start: 2575.59, end: 2579.17}
+  - {text: "I mean, when you signed up for the indentured labor, did you, well, I mean, obviously you didn't have passports, but did you get any cash for it?", start: 2579.63, end: 2589.75}
+  - {text: "Were there tangible benefits straight away for these people?", start: 2589.89, end: 2593.13}
+  - {text: "On paper, every indentured migrant who signed up to join the trade got six months wage advance.", start: 2593.51, end: 2599.37}
+  - {text: "Multiple people who came back and spoke to multiple investigative committees said that they never received that wage advance or they received it from the labor recruiters", start: 2599.85, end: 2611.11}
+  - {text: "and then some of it was taken away as sort of fee.", start: 2611.11, end: 2614.47}
+  - {text: "Some middle manhood. Yes, exactly.", start: 2614.67, end: 2617.23}
+  - {text: "But there was the idea that you could just get cash in hand immediately.", start: 2617.73, end: 2620.61}
+  - {text: "Right, so and did any of them take the money and run?", start: 2621.17, end: 2624.51}
+  - {text: "Most indentured migrants were under quite severe surveillance before they moved onto the ships.", start: 2624.89, end: 2630.81}
+  - {text: "They were kept in these warehouse kind of spaces on the ports known as depots.", start: 2631.09, end: 2636.65}
+  - {text: "In Calcutta and in Mumbai.", start: 2636.97, end: 2639.29}
+  - {text: "In Calcutta and in Mumbai and Madras and all of that.", start: 2639.29, end: 2642.75}
+  - {text: "So and how long would they stay in these warehouses?", start: 2643.03, end: 2645.59}
+  - {text: "Five to six months, up to sometimes three months.", start: 2646.07, end: 2648.99}
+  - {text: "So there's been quite a bit of debate amongst researchers and scholars and presumably also descendants of indentured laborers about the balance here.", start: 2650.85, end: 2661.91}
+  - {text: "You know, was this a replacement for slavery or was this actually something which facilitated opportunities for people?", start: 2662.19, end: 2671.33}
+  - {text: "I mean, is that a live debate amongst scholars?", start: 2671.51, end: 2674.35}
+  - {text: "Well, I think a lot of people hold on to these ideas that this was a new system of slavery.", start: 2674.93, end: 2681.49}
+  - {text: "I think the early period you discussed in your book, certainly, you know, there was slave -like conditions and slave -like practices and the plantations.", start: 2682.17, end: 2692.57}
+  - {text: "But you can't extrapolate from that and paint the whole thing in that sense.", start: 2693.09, end: 2698.15}
+  - {text: "Yes, because it lasted a hundred years.", start: 2698.47, end: 2699.91}
+  - {text: "Yes, it lasted 75 to 80 years.", start: 2699.91, end: 2702.95}
+  - {text: "And people were very enlightened.", start: 2703.59, end: 2705.93}
+  - {text: "People understood. People were returning.", start: 2706.31, end: 2708.23}
+  - {text: "Some who had returned went back to the Caribbean or went back to Fiji.", start: 2708.61, end: 2713.47}
+  - {text: "Now, we knew little about this.", start: 2714.01, end: 2716.21}
+  - {text: "As a descendant of indentured laborers, I had no idea until I was probably in my 30s as to where, what part of India these people came from.", start: 2716.81, end: 2726.29}
+  - {text: "It was a closed book.", start: 2726.87, end: 2728.19}
+  - {text: "As V .S. Naipal said, apart from the fact, as he put it memorably, is that the poverty of these people, and if you go to India today,", start: 2728.89, end: 2738.84}
+  - {text: "these still remain to the most deprived parts of India.", start: 2738.94, end: 2741.80}
+  - {text: "Their poverty was immemorial.", start: 2742.58, end: 2744.40}
+  - {text: "It went back many, many centuries.", start: 2745.14, end: 2746.98}
+  - {text: "And here you had people, many of whom, certainly in the latest stages of indenture, were making a conscious effort to find a new life.", start: 2747.64, end: 2758.26}
+  - {text: "But this was never discovered in families anywhere in the Caribbean.", start: 2758.64, end: 2763.38}
+  - {text: "Sir, how did people go about finding what their heritage was?", start: 2763.72, end: 2768.70}
+  - {text: "What is the sort of record system?", start: 2768.92, end: 2770.64}
+  - {text: "Is there an excellent system of records of who was moving and why?", start: 2771.38, end: 2775.38}
+  - {text: "Yes, so there are multiple times in the indentured system itself where people's names were recorded.", start: 2775.94, end: 2781.94}
+  - {text: "So the first time is when people are brought to the port cities.", start: 2782.56, end: 2785.44}
+  - {text: "There are government officials, colonial officials, who take down things like name and where they come from, their village name or geographical space.", start: 2786.00, end: 2794.16}
+  - {text: "For women, they often take down whether they're married or not.", start: 2794.72, end: 2797.60}
+  - {text: "As Neha pointed out, there are multiple women who are actually travelling by herself.", start: 2797.86, end: 2802.20}
+  - {text: "Many pregnant, often given birth on ships, often giving birth when they arrived.", start: 2802.44, end: 2806.62}
+  - {text: "And as you say, many of them unaccompanied.", start: 2807.38, end: 2809.54}
+  - {text: "So a lot of records were taken down or were supposed to be at least taken down at the port of origin.", start: 2810.04, end: 2817.22}
+  - {text: "And then when you go to Mauritius, Guyana, they're supposed to also kind of check that those are the people who arrived because there were many deaths on passage as well.", start: 2817.46, end: 2826.40}
+  - {text: "So, Clem, how did you track down your maternal grandmother?", start: 2826.62, end: 2829.58}
+  - {text: "Well, in fact, most of my relatives because on their transport for the land that they owned in Guyana, their names would be listed, but it would say X -Avon 1884,", start: 2830.58, end: 2846.58}
+  - {text: "which means that it came on the ship, Avon in 1884.", start: 2847.30, end: 2851.52}
+  - {text: "And if you go into the National Archives in Guyana, in Georgetown, Guyana, Neha's been there, I think.", start: 2852.20, end: 2859.14}
+  - {text: "If you go there, you will see these volumes, which state the name of the ship in the year, certainly from 1865, not the early stages, but from 1865 to 1917.", start: 2860.42, end: 2874.56}
+  - {text: "So once I had that information from the land transport documents, I was able to go straight to the ship's registers, which would state their names, the village from which they came,", start: 2875.06, end: 2888.72}
+  - {text: "what district, yes, their caste background, whether they were...", start: 2889.32, end: 2893.88}
+  - {text: "They registered the caste background as well?", start: 2893.88, end: 2895.22}
+  - {text: "Yes, they did. Absolutely.", start: 2895.22, end: 2896.16}
+  - {text: "They did. Wow. And it would state where they came from, it would state who they were accompanied by, and then it would be penciled in,", start: 2896.48, end: 2904.14}
+  - {text: "Rose Hall, Port Morant, wherever they were sent to, that would be penciled in.", start: 2904.80, end: 2909.92}
+  - {text: "Also, whether they were re -adventured, whether they went back, what should they do?", start: 2910.77, end: 2915.69}
+  - {text: "Right, so you could track their career, pretty much.", start: 2916.43, end: 2920.81}
+  - {text: "So there's some advantage to that bureaucratization of the colonial system.", start: 2921.09, end: 2925.85}
+  - {text: "It's there. I mean, I would never have known, because this thing wasn't discussed, you see, for two reasons.", start: 2927.35, end: 2933.31}
+  - {text: "One, the idea that you were all kidnapped in a way handled this feeling of animosity that Africans had, that these people had come in to swamp us and to,", start: 2934.23, end: 2945.51}
+  - {text: "as they used to put it, took the bread out of our mouths.", start: 2945.95, end: 2949.41}
+  - {text: "When we were about to embark on our freedom, these people came in as cab labor, and we paid, because one third of the funding of it came from colonial budgets.", start: 2949.89, end: 2962.55}
+  - {text: "So they said, we paid to bring these people in to undercut us.", start: 2963.37, end: 2966.59}
+  - {text: "So if you were going there in the ensured labor, you say, well, look, I didn't come to undercut you.", start: 2967.55, end: 2972.29}
+  - {text: "I was kidnapped, I was tricked, I was fooled.", start: 2972.59, end: 2975.07}
+  - {text: "So you sustained that.", start: 2975.43, end: 2976.55}
+  - {text: "So that becomes the narrative that everyone was kidnapped.", start: 2976.55, end: 2980.23}
+  - {text: "One final point to that.", start: 2980.23, end: 2982.39}
+  - {text: "That within the family itself, we knew nothing.", start: 2982.69, end: 2985.59}
+  - {text: "As Naipaul said, I didn't know my great -great -grandmother was pregnant on this boat, and she came here alone to Trinidad.", start: 2986.31, end: 2993.73}
+  - {text: "They weren't going to discuss that past.", start: 2994.53, end: 2996.77}
+  - {text: "That past was an area of darkness.", start: 2997.03, end: 3000.21}
+  - {text: "It was never discussed, because there were too many things hidden in that past.", start: 3000.99, end: 3005.71}
+  - {text: "Personal reasons for leaving, conditions within the family, and for women, two -thirds of whom went on their own.", start: 3006.39, end: 3013.75}
+  - {text: "And these were women large among them between 20 and 30.", start: 3014.51, end: 3018.01}
+  - {text: "They would have been married.", start: 3018.53, end: 3019.55}
+  - {text: "They would have had all kinds of family connections, but to revisit that was far too painful.", start: 3020.23, end: 3024.89}
+  - {text: "So it was a cultivated area of darkness.", start: 3025.57, end: 3027.87}
+  - {text: "Well, thank you very much.", start: 3028.65, end: 3030.01}
+  - {text: "I think you've all deserved a cup of tea or coffee, indeed, if that's what you want.", start: 3030.07, end: 3034.67}
+  - {text: "And I think Simon is going to be making his...", start: 3034.67, end: 3037.03}
+  - {text: "A shot of Guyana Rom.", start: 3037.03, end: 3038.61}
+  - {text: "A shot of Guyana Rom.", start: 3038.99, end: 3040.25}
+  - {text: "They make a very good rum.", start: 3040.57, end: 3042.77}
+  - {text: "I'm sure they do.", start: 3042.81, end: 3043.61}
+  - {text: "If you've got any hand, you're clean.", start: 3043.67, end: 3044.73}
+  - {text: "Very good. They make a very good rum.", start: 3044.73, end: 3047.39}
+  - {text: "Thanks very much. Who would anyone want to your coffee, or you've got to go, Misha.", start: 3048.21, end: 3050.67}
+  - {text: "I've got to go, unfortunately.", start: 3050.67, end: 3052.09}
+  - {text: "In Our Time with Misha Glenny is produced by Simon Tilletson, and it's a BBC Studios production.", start: 3052.93, end: 3058.61}
+  - {text: "Hello, I'm Johnny Diamond, and I'm the presenter of the Radio 4 series How Did We Get Here?", start: 3059.35, end: 3064.01}
+  - {text: "Israel and the Palestinians We explore the complicated back story of that Middle East conflict as the region endures another wider war.", start: 3064.17, end: 3073.51}
+  - {text: "Through conversations with experts with a variety of perspectives, we travel back through the centuries to examine the history of the land that's now so contested between Arabs and Israelis.", start: 3073.83, end: 3086.31}
+  - {text: "And we try and understand the past that's brought us to such a present.", start: 3086.57, end: 3090.89}
+  - {text: "How Did We Get Here?", start: 3091.23, end: 3092.15}
+  - {text: "Israel and the Palestinians Listen on BBC Sounds.", start: 3092.29, end: 3095.19}
+---
