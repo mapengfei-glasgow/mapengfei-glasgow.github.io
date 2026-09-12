@@ -1,0 +1,288 @@
+---
+layout: single
+title: "US Republicans kick off first-ever midterm convention"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-10T00:00:00Z
+slug: "2026-09-10-us-republicans-kick-off-first-ever-midterm-convention"
+audioDir: "2026-09-10-us-republicans-kick-off-first-ever-midterm-convention"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-10-us-republicans-kick-off-first-ever-midterm-convention/episode.mp3"
+totalDuration: 1615.0
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 4.44, end: 9.88}
+  - {text: "I'm Janet Jalil and at four hours GMT on Wednesday the 10th of September, these are our main stories.", start: 10.94, end: 16.57}
+  - {text: "President Trump says he will pay every adult American $5 ,000 if the Republicans keep control of Congress in November's midterm elections.", start: 17.31, end: 27.29}
+  - {text: "More than 80 people are missing after a fire broke out on a passenger ferry in a popular tourist area in the Philippines.", start: 28.11, end: 34.91}
+  - {text: "Apple launches its new foldable iPhone, but would you pay $2 ,000 for it?", start: 35.99, end: 41.69}
+  - {text: "Also in this podcast, we know about leap years, but have you heard about leap seconds?", start: 44.68, end: 50.44}
+  - {text: "Instead of having to apply a leap second every few years, we can let them drift further apart.", start: 50.98, end: 56.56}
+  - {text: "It will be many thousands of years before that drift becomes up to an hour.", start: 56.56, end: 60.58}
+  - {text: "The U .S. Republicans have kicked off their first ever midterm convention, a mid -growing concern that they could lose control of one or both houses of Congress.", start: 65.43, end: 75.57}
+  - {text: "Usually conventions are held before presidential elections, not midterms.", start: 76.31, end: 80.63}
+  - {text: "The hope is that this unusual two -day gathering in Dallas, Texas will infuse voters and boost turnout in November's elections, despite Americans' concerns about rising prices,", start: 81.25, end: 92.35}
+  - {text: "dissatisfaction with the Iran War and Donald Trump's low approval ratings.", start: 92.95, end: 97.53}
+  - {text: "Taking to the stage, the president made an impassioned plea to voters.", start: 98.11, end: 102.39}
+  - {text: "In 55 days, Americans will be going to the polls in one of the most important elections in our country's history.", start: 103.05, end: 109.87}
+  - {text: "Your vote will decide whether our country stumbles at the starting gate of the next 250 years or surges forward and never ever looks back.", start: 110.51, end: 121.29}
+  - {text: "Mr. Trump urged voters to pretend that he was on the ballot.", start: 123.10, end: 126.60}
+  - {text: "He then went one step further with this promise.", start: 127.08, end: 129.76}
+  - {text: "If the Republicans win the House of Representatives and the United States Senate, both of them, because of our tremendous strength and success economically, I will", start: 130.42, end: 142.68}
+  - {text: "issue a dividend to every adult citizen in the United States of America for $5 ,000.", start: 142.68, end: 150.20}
+  - {text: "I put it to our correspondent at the convention, Daniel Bush, that this was an extraordinary plea from President Trump.", start: 152.00, end: 158.52}
+  - {text: "It certainly was, Jeanette, on a number of fronts, you know, not the least of which was this $5 ,000 dividend, which it's important to note there are some 270 million American adults.", start: 159.10, end: 170.84}
+  - {text: "That would be some $1 .3 trillion, and it's unclear where that money would come from, whether it's even legal for the U .S.", start: 170.84, end: 178.08}
+  - {text: "government to issue such a payout and critics immediately seized on it to say that it was essentially a bribe on the part of the president to try and get voters out of the polls by promising them a cash reward,", start: 178.08, end: 190.54}
+  - {text: "although he framed it as an economic incentive.", start: 190.70, end: 192.60}
+  - {text: "That was just one part of this extraordinary speech, nearly two hours long, in which the president argued that the country is better off under him stronger economically and more secure border.", start: 192.76, end: 203.84}
+  - {text: "It's also notable, however, some of the things that were not in this speech, Jeanette, for example, much pay attention paid to the war in Iran.", start: 204.04, end: 211.52}
+  - {text: "He mentioned it a little bit, the president did, but largely did not offer any new road map for how to end this conflict, for how to get Iran to a negotiating table.", start: 211.68, end: 222.42}
+  - {text: "It's something that a lot of supporters are concerned about.", start: 222.84, end: 225.46}
+  - {text: "It was a speech with a lot of vague promises about what he might do, but not a lot of concrete specifics on how Republicans would shape,", start: 225.46, end: 234.48}
+  - {text: "continue to run the country if they keep control of the House and the Senate.", start: 234.48, end: 238.32}
+  - {text: "Yeah, a thorny issue for him because ahead of this speech, he did say that he didn't think the Iran war would be over until after the midterm elections,", start: 238.92, end: 247.14}
+  - {text: "and we've already seen oil prices going above $100 a barrel again.", start: 247.16, end: 251.14}
+  - {text: "Given all this, what kind of reception did he get?", start: 251.56, end: 254.16}
+  - {text: "Well, he got a very positive reception, but that's primarily because the audience at this convention, this unprecedented midterm convention, was largely made up of loyalists,", start: 254.62, end: 264.78}
+  - {text: "of party supporters who are deeply loyal to the president himself, the core MAGA supporters.", start: 264.84, end: 271.84}
+  - {text: "Those are the folks who came to this convention.", start: 272.14, end: 274.70}
+  - {text: "And so it's not indicative necessarily of the broader Republican electorate.", start: 274.96, end: 278.88}
+  - {text: "And in fact, the president still has his work cut out for him, getting moderates and independents that polls show are not pleased with his handling of Iran, of the economy, of other issues out to the polls.", start: 278.88, end: 290.52}
+  - {text: "And there was not much in this speech for that audience in particular.", start: 290.64, end: 293.86}
+  - {text: "It was loaded more with culture war issues and talking points that are popular with his base, but there was not a lot of reach out to", start: 294.12, end: 301.78}
+  - {text: "that broader electorate that Republicans need in November.", start: 301.78, end: 304.32}
+  - {text: "And there are quite a few close races in November's election.", start: 304.66, end: 308.08}
+  - {text: "And some of those Republicans in those close races decided to skip this event entirely.", start: 308.08, end: 312.56}
+  - {text: "That's right. There were some Republican candidates in House and Senate races who were present here.", start: 313.60, end: 318.02}
+  - {text: "But the vast majority of Republicans that are in tight races that are actually going to determine the outcome of the House and the Senate stayed away,", start: 318.16, end: 326.38}
+  - {text: "many of them claiming that they had scheduled conflicts or simply had chosen to remain campaigning home in their districts.", start: 326.58, end: 332.90}
+  - {text: "But their absence was glaring.", start: 333.02, end: 334.68}
+  - {text: "And it pointed to, number one, how much the Republican Party has changed under Trump and the dwindling Republican establishment over the last decade.", start: 334.68, end: 342.98}
+  - {text: "And number two, how polarizing of a figure he remains with an even his own party in the extent to which some Republicans at least start", start: 342.98, end: 349.78}
+  - {text: "eager to move on from the Trump era.", start: 349.78, end: 351.34}
+  - {text: "Daniel Bush at the Republican Convention in Dallas.", start: 352.28, end: 355.00}
+  - {text: "As we record this podcast, at least five people are known to have died after a fire broke out on a passenger ferry in the Philippines.", start: 355.94, end: 362.98}
+  - {text: "More than 80 others remain unaccounted for according to the country's Coast Guard.", start: 363.78, end: 368.10}
+  - {text: "Video footage shows the vessel completely engulfed in flames during the night time, as rescuers and nearby boats pull people out of the water.", start: 368.80, end: 377.96}
+  - {text: "The ferry was heading to Coron, a popular tourist destination when the disaster occurred.", start: 378.70, end: 384.24}
+  - {text: "Our reporter, Jake Kwan, is following developments from Seoul in South Korea.", start: 384.78, end: 388.76}
+  - {text: "This is shaping up to be one of the kind of worst disasters in recent memory.", start: 389.30, end: 394.74}
+  - {text: "I mean, they're saying that they're still investigating the cause of the fire.", start: 395.32, end: 400.32}
+  - {text: "But because the fire happened on a ship in the middle of the night, the darkness, as well as the condition of the water, the current is very strong.", start: 400.76, end: 408.58}
+  - {text: "There's high wind as well as a high wave that is complicating the rescue efforts.", start: 408.76, end: 413.58}
+  - {text: "Now, this ship, it was carrying, you know, 134 passengers.", start: 414.20, end: 418.24}
+  - {text: "From Manila, the capital, Manila to the island of Coron, where this is a very popular spot for many tourists, both locals and foreigners alike.", start: 419.48, end: 427.46}
+  - {text: "So what the authorities are saying is that the time is of essence and they're using all resources, including volunteer fishermen, to pull as many people out of the water as possible.", start: 427.92, end: 436.78}
+  - {text: "And there were some harrowing images, weren't there?", start: 437.12, end: 439.30}
+  - {text: "There are. And I think, you know, the question is, you know, how many children were on board as well as, you know, how many foreigners were on board.", start: 439.98, end: 448.56}
+  - {text: "There's a lot of still questions about how exactly something like this had happened.", start: 448.96, end: 452.96}
+  - {text: "This is an island nation of more than 7000 islands and ferries are very common.", start: 453.52, end: 457.64}
+  - {text: "And unfortunately, this is a country that is no stranger to these kind of ferry disasters.", start: 458.30, end: 462.54}
+  - {text: "Back in 2023, 31 people died in a ferry fire as well.", start: 463.24, end: 468.12}
+  - {text: "And there, you know, whenever this kind of things happened, the kind of lax attitude towards safety as well as the enforcement.", start: 468.82, end: 476.58}
+  - {text: "And poor maintenance has been blamed for this kind of events.", start: 477.36, end: 481.34}
+  - {text: "And, you know, I think one thing that is kind of interesting about this incident is that, Corona, it's known for a very, you know, crystal clear waters and white sandy beaches.", start: 482.30, end: 493.62}
+  - {text: "This is a very popular tourist destination.", start: 493.88, end: 496.34}
+  - {text: "And, you know, it is where a lot of people go to do scuba diving.", start: 496.90, end: 499.92}
+  - {text: "And the understanding is that a lot of people on that boat are probably, you know, holiday makers.", start: 500.34, end: 506.32}
+  - {text: "And, you know, it's just unfortunate and awful to see this image of people who are about to, you know, start their holiday season with this tragedy.", start: 507.00, end: 515.46}
+  - {text: "Jake Kwan. Apple has unveiled its latest iPhone.", start: 516.26, end: 520.88}
+  - {text: "This is an iPhone.", start: 521.64, end: 522.86}
+  - {text: "It's not the first iPhone to have your favorite apps or the first to fit comfortably in your hand.", start: 523.54, end: 529.12}
+  - {text: "It is the first iPhone to do this.", start: 529.60, end: 532.68}
+  - {text: "This is Apple's first foldable smartphone.", start: 534.03, end: 537.09}
+  - {text: "It's called the Duro and it's been years in development.", start: 537.47, end: 540.11}
+  - {text: "Our North America technology correspondent, Lily Jamali, was at the launch in California.", start: 540.73, end: 544.39}
+  - {text: "I put it to her that this was the first major change to the iPhone in years.", start: 545.13, end: 549.25}
+  - {text: "Yeah, the first major change since the release of the iPhone, if you can believe it, that was almost two decades ago.", start: 550.05, end: 556.73}
+  - {text: "Steve Jobs, of course, was the person who did that unveiling today here at Apple Park in Cupertino, California.", start: 557.13, end: 563.51}
+  - {text: "It was new CEO, John Ternus, who did the unveiling of the iPhone duo.", start: 563.89, end: 568.21}
+  - {text: "He said that in his view, it would fundamentally alter how consumers experience foldables.", start: 568.91, end: 574.35}
+  - {text: "I got to test it out a bit earlier.", start: 574.65, end: 576.85}
+  - {text: "It's actually a lot of fun.", start: 577.49, end: 578.69}
+  - {text: "It is the size of a passport.", start: 578.83, end: 580.13}
+  - {text: "It's not all that much heavier than your standard iPhone, the smaller version now.", start: 580.49, end: 585.13}
+  - {text: "And when you open it up, you get a 7 .6 inch screen.", start: 585.61, end: 589.11}
+  - {text: "It's the thinnest iPhone that Apple has ever made when it is open, but it is expensive.", start: 589.11, end: 594.87}
+  - {text: "Absolutely. A hefty price tag of some $2 ,000.", start: 595.31, end: 599.03}
+  - {text: "That's right. So it's $2 ,000 to start.", start: 599.77, end: 602.61}
+  - {text: "That's just the base price.", start: 603.03, end: 604.67}
+  - {text: "The price can rise considerably depending on how much storage a consumer is willing to buy.", start: 605.01, end: 610.03}
+  - {text: "So you could end up spending north of $3 ,000 for this phone.", start: 610.37, end: 615.51}
+  - {text: "And it's worth noting, you know, smartphones within that segment, foldables make up just 2 percent of sales.", start: 615.51, end: 623.07}
+  - {text: "That was the stat from 2025, according to a number of different analysts we've been speaking to.", start: 623.43, end: 628.73}
+  - {text: "So it's not something that consumers are clamoring for.", start: 629.17, end: 632.83}
+  - {text: "But we have seen Apple enter these spaces later, the smartphone itself.", start: 633.07, end: 636.91}
+  - {text: "That category being a great example and coming to dominate it because in their view, they might take a little bit longer, but they are the ones who will ultimately get it right.", start: 637.21, end: 646.33}
+  - {text: "And Lily, iPhone launches used to be highly anticipated events under Steve Jobs.", start: 646.73, end: 652.37}
+  - {text: "How does this one compare?", start: 652.65, end: 653.53}
+  - {text: "Yeah, you know, in recent years, the company has shifted away from these live events, Steve Jobs, you know, because it was the 50th anniversary of the company earlier.", start: 654.51, end: 663.99}
+  - {text: "I spent a lot of time looking through his archival videos.", start: 664.27, end: 666.59}
+  - {text: "And he was just a spectacular showman, did live demos, cracked jokes on the fly.", start: 666.87, end: 672.37}
+  - {text: "We have a much more kind of curated, carefully choreographed set of launch events these days.", start: 672.37, end: 680.33}
+  - {text: "And in fact, it was released by video effectively.", start: 680.51, end: 682.99}
+  - {text: "We all sat in a room and watched a video for an hour and 20 minutes.", start: 683.69, end: 686.57}
+  - {text: "It's a little different.", start: 686.79, end: 687.51}
+  - {text: "But you know, that does represent some of the bigger shifts under Tim Cook.", start: 687.69, end: 690.83}
+  - {text: "And now John Turnes, it's a little bit more careful, perhaps, than it used to be.", start: 690.95, end: 694.49}
+  - {text: "Lily Jamali, the German car manufacturer of Volkswagen is having a tough time.", start: 695.33, end: 700.95}
+  - {text: "Competition from Chinese competitors is causing it and other German car makers a big headache.", start: 700.95, end: 706.63}
+  - {text: "With the future of several factories in jeopardy, one VW plant on the brink of being shut down will now be repurposed in what might well be a blueprint for the future.", start: 707.37, end: 717.51}
+  - {text: "Rather than making cars, it will now manufacture weapons.", start: 717.95, end: 721.81}
+  - {text: "The Financial Times Berlin correspondent covering German defense Laura Pitl told Evan Davis more about the plan.", start: 722.55, end: 729.57}
+  - {text: "VW, which is obviously one of Germany's most iconic car makers, has been in real trouble.", start: 730.39, end: 734.91}
+  - {text: "It's been suffering from all the factors that have been putting the German car industry under pressure.", start: 735.17, end: 740.05}
+  - {text: "And they had said that they might have to close up to four of their factories sometime in the next decade.", start: 740.37, end: 745.31}
+  - {text: "And they were looking together with unions and others to find a deal to save it.", start: 745.71, end: 750.09}
+  - {text: "And this is where the Israeli defense company, Rafael, comes in.", start: 750.43, end: 754.89}
+  - {text: "It makes the Iron Dome system that's protected Israel from rockets from Hamas for many years.", start: 755.05, end: 761.51}
+  - {text: "And they have now struck a deal, which will see Rafael come in and use the factory and most of its workforce to produce components for that system,", start: 762.13, end: 770.67}
+  - {text: "which they now hope to sell in Europe.", start: 770.69, end: 772.49}
+  - {text: "I mean, is a car plant easy to convert to, if you like, a military purpose?", start: 772.75, end: 778.29}
+  - {text: "You obviously take out the cars and the machines making cars.", start: 778.55, end: 781.05}
+  - {text: "Are they convertible? Well, it depends who you ask.", start: 781.43, end: 784.19}
+  - {text: "I hear very different views on this from across the German defense industry.", start: 784.33, end: 787.59}
+  - {text: "I think some in the sector may be a little bit defensive or protective.", start: 788.03, end: 791.31}
+  - {text: "And they say, well, you know, incredibly difficult to make our products, which some of which are obviously incredibly complicated, high security, complex of specialized fortified steel and security clearances for their workers.", start: 791.57, end: 802.57}
+  - {text: "But I think if we look at the practical examples, it is actually happening.", start: 803.05, end: 806.17}
+  - {text: "So KNDS, which is the Franco German maker of the Leopard 2 tank, which is used across Europe, has taken over a factory that used to make railway carriages in East Germany.", start: 806.65, end: 818.09}
+  - {text: "A few months ago, I visited a small growing startup called Arx Robotics, and they've done a deal with a former auto supplier where they could", start: 818.79, end: 827.37}
+  - {text: "make up to 60 of their kind of ground braced military robots per day.", start: 827.37, end: 832.07}
+  - {text: "What's going to happen at the VW plant in Osnaburg is that they will make things like launchers and vehicles for this iron dome system.", start: 832.91, end: 841.31}
+  - {text: "They're not actually going to make the missiles, which are both like the most sensitive and the most difficult part.", start: 841.45, end: 845.61}
+  - {text: "But I think it shows you how there can be some overlap.", start: 845.87, end: 849.03}
+  - {text: "Germany is leading the way in European defence spending, which is going to end up with a budget bigger than France and the UK is put together.", start: 849.39, end: 857.27}
+  - {text: "And at the same time, Germany has been incredibly dependent on the car industry, which is doing very, very badly right now.", start: 857.85, end: 863.69}
+  - {text: "You have this booming defence sector.", start: 863.81, end: 865.39}
+  - {text: "And so you have this sort of unique convergence of a very large, advanced manufacturing sector with lots of skilled workers, lots of engineers that just at this moment is looking for ways to diversify things to do with its spare capacity and its spare workers,", start: 865.59, end: 880.27}
+  - {text: "just as the defence sector is really booming.", start: 880.41, end: 882.59}
+  - {text: "I think Germany is trying to lead the way in showing how it can be done.", start: 882.99, end: 885.95}
+  - {text: "And German officials, you can imagine, are very, very keen for it to happen because they're very worried about sluggish growth here and trying to help it pick up.", start: 886.17, end: 893.57}
+  - {text: "That was Laura Pitle.", start: 894.21, end: 895.89}
+  - {text: "Still to come in this podcast.", start: 898.70, end: 900.10}
+  - {text: "You have seen cockroaches and rats.", start: 900.54, end: 902.44}
+  - {text: "The actions which you are taking, it is in the public health interest and it will continue so that whatever we eat and whatever we purchase is a safer food.", start: 902.86, end: 910.00}
+  - {text: "The food inspector in India who has become an unlikely celebrity.", start: 910.82, end: 914.28}
+  - {text: "This is the Global News podcast.", start: 922.06, end: 923.96}
+  - {text: "Let's turn now to a disturbing case in the US state of Mississippi.", start: 924.72, end: 928.20}
+  - {text: "The mother of a black woman whose body was found hanging from a tree in the city of Jackson has told the BBC she is still", start: 928.96, end: 935.88}
+  - {text: "waiting for answers from officials more than a month later.", start: 935.88, end: 939.90}
+  - {text: "Christie Spivey said despite repeated inquiries, police had not given her any information about the investigation into the death of her daughter, 29 year old Tassia Fortune for weeks.", start: 940.68, end: 952.38}
+  - {text: "She said the first update she received came on Tuesday when officials at a public city meeting finally announced they were investigating her death as a potential homicide.", start: 953.26, end: 962.52}
+  - {text: "Many people in the black majority city say they are fearful, given Mississippi's long history of racial violence and lynchings.", start: 963.54, end: 971.38}
+  - {text: "With more, here's our reporter, Brandon Drennan.", start: 971.86, end: 974.42}
+  - {text: "Police discovered the body on August 3rd, hanging from a tree in the lot of an abandoned home.", start: 975.02, end: 979.70}
+  - {text: "They initially said they're classifying it as a death investigation and hadn't really said much since then until the city council meeting where they announced they were investigating it as a possible homicide.", start: 980.22, end: 991.98}
+  - {text: "The mother herself said she felt a bit stonewalled by police.", start: 992.56, end: 995.58}
+  - {text: "She told me yesterday she'd made multiple phone calls, left voicemails over the last two weeks and hasn't heard back anything.", start: 995.68, end: 1002.08}
+  - {text: "This morning when I texted her, she said not a word.", start: 1002.38, end: 1005.26}
+  - {text: "So she's still just really looking for closure, wanting to know how her daughter died in total disbelief of a possibility of suicide.", start: 1005.60, end: 1013.16}
+  - {text: "But that hasn't been suggested.", start: 1013.16, end: 1015.00}
+  - {text: "We just don't know.", start: 1015.24, end: 1015.94}
+  - {text: "One of the other things about this particular case is it is the third instance of a person found dead and hung from a tree in Mississippi in less than a year.", start: 1016.36, end: 1023.86}
+  - {text: "The other two happened in 2025 on the exact same day.", start: 1024.10, end: 1026.82}
+  - {text: "One white man, one black man, both considered a suicide.", start: 1027.30, end: 1030.62}
+  - {text: "And the mother of one of those contests those findings.", start: 1031.20, end: 1033.92}
+  - {text: "So there's institutional distrust going on.", start: 1034.20, end: 1036.88}
+  - {text: "People are saying the slow drip of information just feeds that distrust.", start: 1037.34, end: 1040.98}
+  - {text: "And they're worried, is this the beginning of a new horrifying trend?", start: 1041.32, end: 1044.56}
+  - {text: "And they want answers.", start: 1044.56, end: 1045.28}
+  - {text: "Looking at Mississippi's dark racial history and the lynchings that have occurred there over the years, many years ago, fortunately, in this predominantly black town or roughly 80 percent of the population is African American, people are worried,", start: 1045.94, end: 1057.54}
+  - {text: "did race play a role in her death?", start: 1058.04, end: 1059.98}
+  - {text: "Was she killed? These are all some of their worst suspicions that are born out of knowledge of that lived history by some of them.", start: 1060.10, end: 1067.12}
+  - {text: "And until they get answers from police, they just feel kind of stuck worrying the worst.", start: 1067.46, end: 1072.28}
+  - {text: "Brandon Drennan. Let's turn now to Germany, where the resounding victory of the far right party, the AFD, in a regional election this week has sparked alarm.", start: 1073.18, end: 1083.64}
+  - {text: "It rejects comparisons with the Nazis.", start: 1084.24, end: 1086.16}
+  - {text: "But in a stormy debate in the German parliament, the Chancellor Friedrich Merz clashed with the AFD leader, Alice Weidel, saying her party's migration policies amounted to ethnic cleansing that would affect millions of workers.", start: 1086.48, end: 1101.02}
+  - {text: "Ms Weidel dismissed the claims and told the Bundestag that the days of the Merz coalition were over.", start: 1101.62, end: 1107.38}
+  - {text: "Mr Chancellor, the voters in Saxony and Holt have made it crystal clear to you in the language of the democratic sovereign.", start: 1110.40, end: 1116.32}
+  - {text: "Your coalition is done.", start: 1116.86, end: 1118.18}
+  - {text: "People finally want a change of policy and they do not want more of the same.", start: 1118.74, end: 1122.32}
+  - {text: "With more on what she had to say, here's our reporter, Joanna Keane.", start: 1122.98, end: 1126.52}
+  - {text: "She told Friedrich Merz his coalition government was a total failure and his time was up.", start: 1127.16, end: 1132.54}
+  - {text: "Christian Democrats had been pulverised, she said, in the recent Saxony and Holt elections.", start: 1132.94, end: 1138.56}
+  - {text: "So this was when he hit back.", start: 1139.08, end: 1140.76}
+  - {text: "He said the AFD party was a destructive force.", start: 1141.30, end: 1144.96}
+  - {text: "If what you are advocating here, namely re -migration, were to become a reality, it would be nothing other than ethnic cleansing based on skin colour and origin.", start: 1147.48, end: 1158.42}
+  - {text: "Nothing else. Ladies and gentlemen, the word re -migration is nothing other than a synonym for ethnic cleansing.", start: 1159.02, end: 1168.98}
+  - {text: "He claims that their policies will affect millions.", start: 1171.35, end: 1174.29}
+  - {text: "He talks about skilled workers being forced to leave the country.", start: 1174.53, end: 1177.63}
+  - {text: "And he's claiming this will leave a skills gap, saying not a single hospital, nursing home will be able to function.", start: 1178.19, end: 1183.95}
+  - {text: "Then he went on to accuse the AFD of being on Russia's side during the war in Ukraine.", start: 1183.95, end: 1189.89}
+  - {text: "The disruption by AFD MPs became so loud at one point that the Bundestag president threatened to start expelling people.", start: 1192.35, end: 1200.17}
+  - {text: "Now, I think we should talk a bit about the AFD's response to all of these claims.", start: 1201.50, end: 1205.32}
+  - {text: "It's denied the ethnic cleansing.", start: 1205.54, end: 1207.68}
+  - {text: "It advocated for re -migration policies.", start: 1208.30, end: 1211.18}
+  - {text: "It calls them re -migration, but it says it just wants to speed up deportations of rejected asylum seekers and foreign criminals.", start: 1211.42, end: 1218.62}
+  - {text: "And it says it wants to incentivise people to leave voluntarily.", start: 1219.08, end: 1223.06}
+  - {text: "It also wants the children of refugees to be taught in segregated classes.", start: 1223.64, end: 1228.46}
+  - {text: "Now, the AFD says by re -migration, it means deportation in accordance with the law.", start: 1229.18, end: 1235.32}
+  - {text: "Those are its words.", start: 1235.50, end: 1236.32}
+  - {text: "Just a reminder for a bit of context here, the AFD in Saxony -Anhalt has been labelled as right -wing extremist by German domestic intelligence.", start: 1237.16, end: 1247.28}
+  - {text: "Joanna Keane. Now, we all know about leap years, but have you heard about leap seconds?", start: 1248.04, end: 1253.18}
+  - {text: "Every now and then, an extra second is added to a day in order to keep the world's clocks aligned with the Earth's rotation.", start: 1253.74, end: 1259.86}
+  - {text: "However, because our planet's speed varies in response to climatic events, there is now a possibility of a leap second being taken away.", start: 1260.74, end: 1269.10}
+  - {text: "But that could pose all kinds of risks from telecoms to satellites if computer systems are not programmed to deal with this.", start: 1269.10, end: 1276.76}
+  - {text: "Next month, the General Conference on Weights and Measures, yes, that is a thing, will consider how to deal with this.", start: 1277.36, end: 1283.00}
+  - {text: "Dr. Setnam Shimar, the principal scientist for the National Timescale Group at the UK's National Physical Laboratory, explains the problem and a possible solution.", start: 1283.40, end: 1292.70}
+  - {text: "The problem is that whenever we insert these leap seconds to keep atomic time or the time on our everyday clocks, in order to keep that aligned with solar time, which is based on the rotation of the Earth, modern technology systems,", start: 1293.30, end: 1307.32}
+  - {text: "the timing networks in them can have discrepancies in the way the leap seconds are applied.", start: 1307.96, end: 1313.12}
+  - {text: "And this can cause inconsistencies with a system crash.", start: 1313.64, end: 1317.04}
+  - {text: "So this could involve a telecom system or an electrical grid system or a system inside the financial sector.", start: 1317.48, end: 1324.20}
+  - {text: "And this is the concern why leap seconds are being considered to be replaced by the leap hour.", start: 1324.20, end: 1330.52}
+  - {text: "The current proposal that's been put forward by the international timekeeping community is to replace leap seconds by the leap hour.", start: 1330.90, end: 1340.42}
+  - {text: "This means that instead of having to apply a leap second every few years because the the world time system has drifted from solar time by a second,", start: 1340.80, end: 1350.78}
+  - {text: "instead, we can let them drift further apart by up to an hour before a leap hour is applied.", start: 1350.78, end: 1356.82}
+  - {text: "However, it will be many thousands of years before that drift becomes up to an hour.", start: 1357.12, end: 1362.02}
+  - {text: "And then the leap hour needs to be applied.", start: 1362.54, end: 1364.22}
+  - {text: "So, you know, we don't need to worry about applying one for thousands of years.", start: 1364.66, end: 1368.62}
+  - {text: "And by that time, you know, things will be so different on Earth that it may not matter anyway.", start: 1368.74, end: 1373.72}
+  - {text: "So the international consensus is the leap hour.", start: 1374.26, end: 1377.20}
+  - {text: "And this is where in October next month, there will be the National Delegate to many different countries at the General Conference for Weights and Measures in Paris, and they'll be voting.", start: 1377.20, end: 1388.38}
+  - {text: "And if it's passed, then leap seconds will be abandoned and will move to the leap hour.", start: 1388.80, end: 1393.42}
+  - {text: "But to set nam, Shema.", start: 1394.18, end: 1395.42}
+  - {text: "A bureaucrat on a mission has become an unlikely celebrity in India.", start: 1396.25, end: 1400.47}
+  - {text: "The food inspectors crack down on restaurants and stalls across Mumbai has captured the public's imagination with footage from the raids going viral.", start: 1400.95, end: 1408.71}
+  - {text: "But along with the fame has come controversy.", start: 1409.37, end: 1411.39}
+  - {text: "Our reporter Achana Shukla met the man who's shaken and stirred Mumbai's food industry.", start: 1411.99, end: 1418.11}
+  - {text: "Do you have filter coffee?", start: 1418.91, end: 1419.97}
+  - {text: "Yes, yes. Yeah, can I get one filter coffee and a plate of Idli sambar, please?", start: 1420.25, end: 1424.31}
+  - {text: "Yes, yes, ma 'am.", start: 1424.55, end: 1425.01}
+  - {text: "Thank you. I've popped into this restaurant near our Mumbai office and this place looks different from the last time I was here.", start: 1425.29, end: 1431.91}
+  - {text: "There's a fresh coat of paint on the walls.", start: 1432.19, end: 1434.43}
+  - {text: "There are new bins.", start: 1434.69, end: 1435.57}
+  - {text: "The open kitchen counters that I can actually see from here are being wiped down after every task.", start: 1436.01, end: 1441.27}
+  - {text: "And the staff here also seems to be double checking everything.", start: 1441.59, end: 1444.57}
+  - {text: "Like, nobody wants to end up in the next viral video.", start: 1445.07, end: 1447.67}
+  - {text: "And that's not really a joke because the recent photos and videos coming out of the food safety raids across Maharashtra, that's the state Mumbai sits in, have been hard to ignore.", start: 1448.21, end: 1458.43}
+  - {text: "Cockroaches on kitchen floors, spider webs on the walls, rotting vegetables.", start: 1458.91, end: 1462.59}
+  - {text: "And behind it all is Tukaram Bunde, the state's new food safety commissioner.", start: 1464.25, end: 1469.01}
+  - {text: "Since he's took over in May, his teams have raided more than 4 ,000 food businesses.", start: 1469.63, end: 1473.87}
+  - {text: "That's over 40 raids a day.", start: 1474.51, end: 1475.83}
+  - {text: "300 licenses have been suspended so far for violations.", start: 1476.35, end: 1479.35}
+  - {text: "I met him at his office in the city's business district.", start: 1483.99, end: 1487.31}
+  - {text: "I did not expect this much violations.", start: 1487.77, end: 1489.69}
+  - {text: "Infestation, we have seen cockroaches and rats.", start: 1490.91, end: 1493.43}
+  - {text: "We just cannot think it's a filthy condition.", start: 1494.09, end: 1496.39}
+  - {text: "And it's a cross from multinational food chains to a 100 -year -old dairy to the iconic and elite clubs.", start: 1497.13, end: 1503.47}
+  - {text: "All have had their kitchens shut down.", start: 1503.93, end: 1505.59}
+  - {text: "This has made the new food commissioner popular, but also controversial.", start: 1506.13, end: 1509.79}
+  - {text: "Some businesses say they were shut without warning and have taken legal action.", start: 1510.45, end: 1514.01}
+  - {text: "Courts have at times fined Bunde's department called their actions overboard, even reversed some decisions.", start: 1514.45, end: 1520.13}
+  - {text: "There's been some amount of criticism as well with some establishment saying that the actions are more strict than needed.", start: 1520.69, end: 1528.61}
+  - {text: "The actions which you are taking is as per the law.", start: 1529.15, end: 1531.07}
+  - {text: "It is in the public health interest and it will continue so that whatever we eat and whatever you purchase is a safer food.", start: 1531.43, end: 1538.11}
+  - {text: "But Bunde has tapped into the shared public frustration over food safety in India, where government data shows one in five food samples tested were found unsafe, substandard or mislabeled.", start: 1538.47, end: 1550.05}
+  - {text: "And that's why Bunde's hard enforcement style has made him popular.", start: 1550.29, end: 1553.89}
+  - {text: "There are selfies, fan crowds, close to 4 million Instagram followers.", start: 1554.45, end: 1558.41}
+  - {text: "Experts, however, say that while this has raised awareness, one officer can't sustain at all.", start: 1558.99, end: 1564.45}
+  - {text: "Building a system that outlasts him is the real challenge.", start: 1564.83, end: 1567.71}
+  - {text: "For now, the change is reflecting even in street stalls, like the ones selling sandwiches here that have stopped using old newspapers, where the ink can seep into food,", start: 1568.17, end: 1578.81}
+  - {text: "after Bunde banned it, among many other unsafe items.", start: 1579.25, end: 1582.11}
+  - {text: "Today, I actually got my sandwich wrapped in plain, grease -proof paper.", start: 1582.79, end: 1586.41}
+  - {text: "Achana Shuklair. And that's all from us for now.", start: 1587.84, end: 1591.79}
+  - {text: "If you want to get in touch, you can email us at globalpodcastatbbc .co .uk.", start: 1592.05, end: 1598.55}
+  - {text: "This edition of the Global News Podcast was mixed by Nikki Brough.", start: 1599.15, end: 1602.85}
+  - {text: "The producer was Adrienne White.", start: 1603.11, end: 1604.71}
+  - {text: "The editor is Karen Martin.", start: 1605.09, end: 1606.55}
+  - {text: "I'm Janet Jalil. Until next time, goodbye.", start: 1607.05, end: 1609.19}
+---

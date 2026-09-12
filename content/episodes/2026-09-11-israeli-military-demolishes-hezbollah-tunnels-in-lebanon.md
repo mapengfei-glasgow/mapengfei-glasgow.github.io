@@ -1,0 +1,316 @@
+---
+layout: single
+title: "Israeli military demolishes Hezbollah tunnels in Lebanon"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-11T00:00:00Z
+slug: "2026-09-11-israeli-military-demolishes-hezbollah-tunnels-in-lebanon"
+audioDir: "2026-09-11-israeli-military-demolishes-hezbollah-tunnels-in-lebanon"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-11-israeli-military-demolishes-hezbollah-tunnels-in-lebanon/episode.mp3"
+totalDuration: 1760.7
+sentences:
+  - {text: "BBC Sounds, Music Radio Podcasts.", start: 1.10, end: 4.72}
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 5.91, end: 9.66}
+  - {text: "I'm Janette Jaleel and at 5 Hours GMT on Friday 11 September, these are our main stories.", start: 12.06, end: 17.90}
+  - {text: "Israel blows up what it says was a Hezbollah underground tunnel system in the south of Lebanon.", start: 18.76, end: 24.64}
+  - {text: "Israel's Prime Minister Benjamin Netanyahu says he'll launch defamation proceedings after a newspaper allegedly had prior warning of the deadly October the 7th attacks carried out by Hamas but did nothing.", start: 25.64, end: 38.86}
+  - {text: "Also in this podcast, love, juice, best of five, is it time tennis got a reboot to widen its appeal?", start: 41.33, end: 49.05}
+  - {text: "It's not necessarily difficult to understand and I think if you did change it you would miss the drama that comes with those particularly big points,", start: 49.47, end: 58.15}
+  - {text: "I mean to get so much more invested in it.", start: 58.33, end: 60.29}
+  - {text: "We begin in Lebanon.", start: 65.43, end: 66.80}
+  - {text: "That's the sound of a massive blast carried out by the Israeli army using more than a thousand tons of explosives to demolish what it says", start: 72.14, end: 81.34}
+  - {text: "was an extensive Hezbollah underground tunnel system in the south of the country.", start: 81.34, end: 85.90}
+  - {text: "The blast at the Ali -Tahir Ridge, located within Israel's self -declared buffer zone in Lebanon, was so big that the US Geological Survey says it caused a 4 .1 magnitude earthquake.", start: 86.44, end: 99.30}
+  - {text: "I've got more details from our global affairs correspondent Ambar Hassan Etirajan.", start: 99.88, end: 103.92}
+  - {text: "The Israeli military says that it has destroyed nearly two kilometers long tunnel under this Ali -Tahir Ridge which is about 15 kilometers from the Israel -Lebanon border.", start: 104.36, end: 115.46}
+  - {text: "Now this ridge itself is considered to be strategically important because the Israeli military was saying that it was used by the Hezbollah to fire missiles", start: 116.36, end: 125.30}
+  - {text: "and drones from there into the Israeli territory and this is about 600 meters tall and 3 kilometers long.", start: 125.30, end: 133.02}
+  - {text: "So that gives enough space according to the Israeli military for the Hezbollah to operate.", start: 133.18, end: 137.92}
+  - {text: "Now since the war began in March, both sides have been fighting heavily with Israel moving into Lebanon establishing what they call as a security zone.", start: 138.14, end: 148.90}
+  - {text: "Despite a ceasefire in June between Lebanon and Israel, the US broke at one.", start: 149.78, end: 155.12}
+  - {text: "The fighting continued around this area because according to media reports the Hezbollah refused to withdraw from this area to hand over control to the Lebanese army", start: 155.68, end: 165.22}
+  - {text: "and that led to renewed clashes and it went on for weeks and a few days ago the Israeli army said they had retained control of this ridge.", start: 165.22, end: 173.78}
+  - {text: "They found these tunnels with weapons, with the shelters, with the command center and all of them have been now destroyed in the tunnel explosion.", start: 173.78, end: 183.14}
+  - {text: "And this was a really massive explosion, so powerful that there was an earthquake afterwards.", start: 183.58, end: 188.92}
+  - {text: "So the military says, Israeli military, that they used more than 1 ,000 tons of explosives to destroy these tunnels and the locals were talking about huge explosion.", start: 189.90, end: 203.52}
+  - {text: "The sound and the tremors and the US Geological Survey talked about more than 4 .1 magnitude of this tremor and the Israeli media has also published pictures and the videos of several explosions of fireball lighting in the sky.", start: 203.52, end: 220.14}
+  - {text: "Some of them were massive.", start: 220.26, end: 221.26}
+  - {text: "They were continuous explosions and it must have taken a while to plant these explosives inside these tunnels.", start: 221.44, end: 227.84}
+  - {text: "So the whole idea was to deny the opportunity for Hezbollah even in future to use this area.", start: 227.84, end: 234.06}
+  - {text: "Do we have any information about casualties given the size of this explosion?", start: 234.50, end: 237.88}
+  - {text: "Weeks long fighting between the two sides led to reports of several casualties especially among Hezbollah fighters but they have not commented fully on the explosion so far.", start: 238.86, end: 250.36}
+  - {text: "But there were continuous attacks by Israeli forces including aircraft and artillery and drone targeting this particular area.", start: 250.86, end: 259.40}
+  - {text: "This has been a hotly contested area.", start: 259.68, end: 261.90}
+  - {text: "So possibilities there, there were several casualties but we don't know exactly how many of them were killed or whether there were any casualties on the Israeli side as well.", start: 262.24, end: 271.48}
+  - {text: "But what it gives a political advantage for Benjamin Netanyahu the prime minister is before the October elections now he can tell his supporters that we have destroyed,", start: 271.80, end: 284.40}
+  - {text: "we have taken back, we have taken control of this ridge and also destroyed the tunnel which is a huge strategic victory.", start: 284.64, end: 291.94}
+  - {text: "I'm Barassan Atirajan. Well with elections in Israel just weeks away the prime minister has told his lawyers to begin defamation proceedings against an Israeli newspaper that alleges Mr.", start: 292.58, end: 303.28}
+  - {text: "Netanyahu was told in advance that Hamas was planning to carry out the October the 7th attacks.", start: 303.38, end: 309.14}
+  - {text: "The Haaretz newspaper reported that the president of the United Arab Emirates warned Mr.", start: 309.82, end: 314.94}
+  - {text: "Netanyahu just days before the Hamas attack three years ago but that the Israeli prime minister did nothing with the information.", start: 315.02, end: 322.48}
+  - {text: "Mr. Netanyahu's office has denied there was any warning calling the report part of a quote sinister plot.", start: 323.08, end: 330.20}
+  - {text: "Haaretz which has long been a vocal critic of the prime minister says it stands by its reporting.", start: 330.80, end: 335.58}
+  - {text: "The diplomatic correspondent for the times of Israel, Laser Berman spoke to Jane Hill about the allegations.", start: 336.16, end: 341.48}
+  - {text: "There have been a series of questions about what Prime Minister Benjamin Netanyahu knew what he didn't know and his responsibility for the October 7th attacks.", start: 342.26, end: 353.18}
+  - {text: "Now Netanyahu has made the case that his security services failed him and he ultimately was not responsible that the Shin Bet intelligence service that the", start: 353.56, end: 361.24}
+  - {text: "army did not alert him in time of some warning signals on the morning of October 7th and had they woken him up he could have taken action to stop it", start: 361.24, end: 369.02}
+  - {text: "and that has been really his message throughout the war since October 7th 2023.", start: 369.02, end: 373.08}
+  - {text: "This new article from the Haaretz daily really flips us around.", start: 374.00, end: 378.64}
+  - {text: "It alleges that the UAE's president, Mohamed bin Zayed, actually in a 45 minute phone call warned Prime Minister Netanyahu that Hamas leader Yahya Sinwar was planning a major attack.", start: 378.86, end: 391.82}
+  - {text: "He told him allegedly at the end of September 2023 and according to this article Netanyahu failed to give that warning to Shin Bet, to the IDF", start: 392.22, end: 400.82}
+  - {text: "and to the security services and perhaps had they known about that particular very specific warning they could have taken different action ahead of the attack and perhaps even prevented it.", start: 400.82, end: 412.08}
+  - {text: "Again, this is all alleged and Netanyahu very firmly denies the article.", start: 412.18, end: 417.04}
+  - {text: "And is it right to say that the Emirates haven't denied what's in that Haaretz article?", start: 417.36, end: 423.32}
+  - {text: "That is exactly true.", start: 423.64, end: 424.98}
+  - {text: "So they put out this statement which sounded basically like a confirmation in their non -denial.", start: 424.98, end: 430.56}
+  - {text: "They said that they don't comment on specific conversations.", start: 430.82, end: 433.64}
+  - {text: "But throughout the war, when there was intelligence that needed to be given to the Israelis, it was given to the Israelis and conversations were open.", start: 433.96, end: 441.14}
+  - {text: "So it basically sounded like they didn't want to confirm this conversation, but they weren't denying it either.", start: 441.24, end: 446.58}
+  - {text: "And as you suggest, this is the latest in allegations around what was or wasn't done in the run up to the October 7th attacks.", start: 446.90, end: 455.20}
+  - {text: "Yeah. So, you know, this obviously is going to be a major question in the upcoming elections in October.", start: 455.34, end: 460.66}
+  - {text: "It's been a question throughout since October 7th.", start: 460.96, end: 464.10}
+  - {text: "Obviously, you know, a terrible day for Israel, for the Jewish people, perhaps the worst day that Israel ever suffered.", start: 464.20, end: 470.14}
+  - {text: "And Netanyahu was the only member of Israel's senior leadership that hasn't stepped down, been forced out.", start: 470.32, end: 476.40}
+  - {text: "He is still in office.", start: 476.54, end: 477.44}
+  - {text: "So I think he recognizes that this is exactly what he doesn't need ahead of a very, very difficult election.", start: 477.64, end: 483.34}
+  - {text: "Laser Berman of the times of Israel.", start: 484.12, end: 486.02}
+  - {text: "A day after President Trump promised $5 ,000 to every American adult if the Republicans win the midterm elections in November, his vice president, JD Vance,", start: 486.92, end: 496.68}
+  - {text: "has been making his own personal appeal to voters.", start: 496.88, end: 499.34}
+  - {text: "He's been speaking on the second and final day of an unusual convention.", start: 499.86, end: 504.26}
+  - {text: "Normally, they're only held every four years ahead of the presidential election.", start: 504.70, end: 508.88}
+  - {text: "But in a sign of how important this year's midterms are to Republicans hoping to retain control of Congress, senior members of the party have been trying to energize voters despite widespread concerns about the cost of living and the Iran war.", start: 509.18, end: 524.00}
+  - {text: "I asked our correspondent, Daniel Bush, who was at the convention in Dallas, Texas, what JD Vance's message was.", start: 524.54, end: 530.90}
+  - {text: "It was an interesting speech by the vice president that actually offered some contrast from President Trump's speech the previous night, JD Vance outlining sort of his own personal story,", start: 531.62, end: 541.56}
+  - {text: "his recent experience as the father of a newborn child, his fourth kid, and then went on to sort of weave in a broader narrative, pitting the Republican Party against the Democrats,", start: 542.10, end: 552.00}
+  - {text: "saying it was a common sense party versus the crazies, which is some of the rhetoric we heard from Trump.", start: 552.30, end: 556.78}
+  - {text: "But where Trump were advanced departed, I think, from the vice from the president was making a direct appeal to undecided voters.", start: 556.86, end: 563.84}
+  - {text: "We did not hear much from Trump last night about reaching out to moderate independence.", start: 564.04, end: 569.24}
+  - {text: "But JD Vance specifically said that he wanted to speak not to the faithful, as he put it, but to people on the margins.", start: 569.24, end: 575.20}
+  - {text: "So this was a tacit acknowledgement, I think, by the vice president, that Republicans still have work to do to try and convince voters who are undecided,", start: 575.40, end: 584.20}
+  - {text: "who may have voted for Trump in 2024 and are thinking about sitting this election out to get out to the polls and to vote.", start: 584.26, end: 591.92}
+  - {text: "And of course, his speech came amid a sort of backdrop of the 2028 election.", start: 592.08, end: 598.06}
+  - {text: "Vance is considered a top contender to replace Trump at the top of the ticket for Republicans.", start: 598.48, end: 603.00}
+  - {text: "And at one point in his speech, Vance was interrupted by a chance of 48, which is a nod to the 48th president, which will be the next president after Donald Trump.", start: 603.48, end: 613.50}
+  - {text: "Vance let those those chance linger for a little bit.", start: 613.78, end: 616.90}
+  - {text: "Then he cut them off and said, let's focus on the business at hand and then look to the future.", start: 616.94, end: 622.18}
+  - {text: "So the future was sort of hovering over this last night of the convention as Republicans both made an argument for this midterm cycle and are", start: 622.30, end: 629.68}
+  - {text: "then beginning to look ahead to the end of the Trump era.", start: 629.68, end: 631.80}
+  - {text: "And also hovering was President Trump who reappeared and seemed reluctant to end the convention.", start: 632.28, end: 637.98}
+  - {text: "He is never one to shy away from the spotlight.", start: 638.46, end: 641.28}
+  - {text: "It was a slightly awkward moment where the vice president got his moment in the spotlight and then Trump reappeared, which we knew he was going to do.", start: 641.40, end: 648.22}
+  - {text: "He said he would.", start: 648.32, end: 649.04}
+  - {text: "He said he was going to speak briefly tonight, unlike the previous evening where he spoke for nearly two hours, but brief is a relative term for this president because he then went on to speak for approximately 25 minutes,", start: 649.48, end: 661.74}
+  - {text: "repeating many of the same themes from his keynote speech, saying that Democrats were radical left lunatics that Republicans needed to save the country from communism,", start: 661.80, end: 672.46}
+  - {text: "touting some of his administration's accomplishments and then, of course, also repeating his pledge to give all American adults that $5 ,000 dividend, which legal scholars say is dubious from a legality point of view,", start: 672.82, end: 686.28}
+  - {text: "and which is surely a very low likelihood that Republicans would ever agree to to pass that appropriate, that money in Congress.", start: 686.38, end: 693.70}
+  - {text: "Nevertheless, we saw President Trump reiterating that pledge.", start: 693.88, end: 696.54}
+  - {text: "And then and then again, also telling voters, pretend as if I am on the ballot.", start: 696.78, end: 700.60}
+  - {text: "Do me a favor, go out and vote.", start: 700.92, end: 702.38}
+  - {text: "And briefly, Daniel, do you think Republicans, especially those in close races, will see this as a success?", start: 702.90, end: 708.08}
+  - {text: "That's an excellent question.", start: 708.78, end: 709.66}
+  - {text: "I think we'll have to see over the next couple of days, we'll see what polling shows during traditional or after traditional national conventions every four years during a presidential election year.", start: 709.66, end: 719.98}
+  - {text: "The candidates typically get a several day bump where they see their approval rating and the polls go increase a little bit in their favor.", start: 720.40, end: 729.24}
+  - {text: "It's unlikely, political pundits analysts that I've talked to say that that will happen this time around.", start: 729.64, end: 735.00}
+  - {text: "This was only a two day convention.", start: 735.14, end: 736.54}
+  - {text: "Republicans had never done it before.", start: 736.98, end: 738.58}
+  - {text: "We don't expect massive viewership numbers on television from people tuning in from home.", start: 738.58, end: 744.06}
+  - {text: "So likely this won't move the needle all that much.", start: 744.28, end: 746.96}
+  - {text: "But Republicans now have this material from these speeches.", start: 747.02, end: 749.82}
+  - {text: "They can cut new campaign ads.", start: 749.96, end: 751.76}
+  - {text: "They can fundraise off of it.", start: 751.88, end: 753.16}
+  - {text: "So they're going to look to try and leverage this as much as they can in the two months or so that we have before Election Day.", start: 753.20, end: 758.46}
+  - {text: "Daniel Bush is a date that will stick in many people's minds for the rest of their lives.", start: 759.33, end: 765.20}
+  - {text: "9 11. Twenty five years ago, almost three thousand people died and tens of thousands more were injured as two hijacked planes crashed into the twin towers in New York.", start: 765.20, end: 778.80}
+  - {text: "As others fled the scene, firefighter Jay Jonas and his crew were inside the North Tower on a search and rescue mission.", start: 779.58, end: 786.58}
+  - {text: "He told Roan Bridge about being trapped inside and how they survived when the tower collapsed around them.", start: 787.30, end: 794.30}
+  - {text: "We've felt an experience of the nobody ever felt our experience before.", start: 794.84, end: 798.42}
+  - {text: "We heard a loud noise outside and our building started to sway back and forth violently.", start: 798.78, end: 805.61}
+  - {text: "I went to the north windows.", start: 806.01, end: 807.05}
+  - {text: "I couldn't see anything.", start: 807.29, end: 807.89}
+  - {text: "I just saw the white dust pressed against the glass.", start: 808.17, end: 810.29}
+  - {text: "The dust was from the plume that engulfed the area as the South Tower collapsed.", start: 810.89, end: 815.03}
+  - {text: "And I just looked at my guys.", start: 815.39, end: 816.97}
+  - {text: "It's OK. Our mission is no longer doable.", start: 817.11, end: 819.35}
+  - {text: "It's time for us to get out of here.", start: 819.73, end: 821.27}
+  - {text: "We got to about the 20th floor and we saw a woman standing in the doorway and she was crying.", start: 821.51, end: 826.47}
+  - {text: "I looked at her.", start: 827.05, end: 827.95}
+  - {text: "I said, all right, bring her with us.", start: 828.59, end: 829.97}
+  - {text: "Some people have questioned me about that.", start: 830.03, end: 831.55}
+  - {text: "I said, what a monumental decision.", start: 831.73, end: 833.07}
+  - {text: "And I says, well, that's why we went there.", start: 833.45, end: 835.83}
+  - {text: "We didn't go there to have the World Trade Center experience.", start: 836.31, end: 838.75}
+  - {text: "We went there to save somebody's life.", start: 838.91, end: 840.37}
+  - {text: "And we started heading down the stairs with her and told her, but that greatly slowed us down.", start: 840.57, end: 844.51}
+  - {text: "The woman's name was Josephine Harris, but she can't move at anything like the speed of the firefighters.", start: 844.75, end: 849.95}
+  - {text: "We made it to the fourth floor and Josephine Harris falls to the floor and she starts yelling at us, lead me, get away from me.", start: 850.75, end: 857.51}
+  - {text: "Don't touch me. This is after we slowed ourselves down to rescue us.", start: 857.65, end: 861.25}
+  - {text: "I wasn't very happy with Josephine Harris at this point.", start: 861.55, end: 864.23}
+  - {text: "As unhappy as they were, Jane and his team weren't going to leave her.", start: 864.57, end: 867.73}
+  - {text: "As they're working out how to carry her out of the building, events overtake them.", start: 868.17, end: 872.05}
+  - {text: "The tower comes down on top of them.", start: 872.57, end: 874.71}
+  - {text: "Deafening noise, tremendous vibration.", start: 879.90, end: 882.38}
+  - {text: "We're bouncing up and down off the floor like we're ragdolls.", start: 883.02, end: 886.12}
+  - {text: "Every time a floor were hit, another floor you hear a loud boom, but they were a quick succession.", start: 886.12, end: 891.50}
+  - {text: "So it was like boom, boom, boom, boom, boom, boom, boom.", start: 891.76, end: 893.42}
+  - {text: "So we just covered up anticipating that this was going to be it.", start: 893.94, end: 897.42}
+  - {text: "And then the collapse stopped.", start: 897.78, end: 899.28}
+  - {text: "Miraculously, they'd survived the most catastrophic building collapse in history.", start: 900.50, end: 904.50}
+  - {text: "More than 1 ,400 people had been killed in a matter of seconds.", start: 905.04, end: 908.84}
+  - {text: "But the stairway had shielded Josephine Jay and his colleagues.", start: 909.44, end: 912.62}
+  - {text: "The B stairway was in the center of the building.", start: 913.04, end: 915.52}
+  - {text: "So you would think that that would be the worst place to be.", start: 915.52, end: 918.46}
+  - {text: "But actually it was the best place because if you watch the way the building collapsed, the building peeled away like it was a banana.", start: 918.84, end: 924.98}
+  - {text: "We were the banana in the center of the building.", start: 925.24, end: 927.64}
+  - {text: "Remarkably, everyone, including Josephine Harris, made it out without serious physical injury from the collapse.", start: 928.24, end: 933.82}
+  - {text: "If we passed Josephine Harris and not picked her up, it would have bothered me.", start: 934.16, end: 937.72}
+  - {text: "But we were doing everything everybody else was doing.", start: 937.90, end: 940.14}
+  - {text: "And we just happened to be in the right spot at the right time.", start: 940.22, end: 942.68}
+  - {text: "By Harris making a stand on the fourth floor that put us in the exact right spot.", start: 942.68, end: 947.26}
+  - {text: "How do you reflect on all of that now?", start: 947.50, end: 949.30}
+  - {text: "I'm blessed that I was part of the biggest rescue effort in the history of the United States.", start: 949.74, end: 955.52}
+  - {text: "The only thing is that almost all the guys who participated in this rescue effort were killed, you know, so their heroism was left on the battlefield.", start: 955.74, end: 963.52}
+  - {text: "That report was by Rowan Bridge.", start: 969.59, end: 972.17}
+  - {text: "Still to come in this podcast, a record 25 minute standing ovation at the Venice Film Festival for a film about Israel's mass killing of civilians in Gaza.", start: 975.90, end: 986.46}
+  - {text: "You know, you speak to people and this is in our film telling you that, yes, we listen house after house and we hear a baby crying.", start: 986.80, end: 992.08}
+  - {text: "We hear a family is there.", start: 992.24, end: 993.24}
+  - {text: "We hear the TV playing.", start: 993.56, end: 994.56}
+  - {text: "We hear a man talking to his wife and we bond them.", start: 994.72, end: 997.08}
+  - {text: "This is the Global News Podcast.", start: 1003.61, end: 1005.51}
+  - {text: "India's cockroach Janta Party started as an online satirical movement after an official described unemployed young people as cockroaches.", start: 1006.68, end: 1014.66}
+  - {text: "But millions gave it their support as it tapped into the anger of Gen Z protesters who eventually forced the resignation of the Education Minister in July.", start: 1015.26, end: 1024.64}
+  - {text: "Now the cockroach Janta Party is on the march again, demanding more be done to improve the poor state of government schools.", start: 1025.46, end: 1032.66}
+  - {text: "But in a country facing a crisis of youth unemployment, despite its impressive growth, what difference can this campaign make?", start: 1033.16, end: 1040.36}
+  - {text: "Yugita Limaye begins her report from Hingoli in the western state of Maharashtra, where she met the founder of the cockroach party.", start: 1040.80, end: 1048.74}
+  - {text: "The main face in the founder of this movement, Abhijeet Dipke, who was a student himself, studying overseas in the U .S.", start: 1051.52, end: 1058.78}
+  - {text: "I can see him.", start: 1058.82, end: 1060.00}
+  - {text: "He's going from one classroom to another, checking the condition.", start: 1060.30, end: 1064.62}
+  - {text: "And I'm now going to speak to Abhijeet to ask him what they are hoping to accomplish through this new campaign.", start: 1065.10, end: 1071.70}
+  - {text: "What I'm hoping to accomplish is that the students or the kids who are living in the rural India, they should at least give a dignified life because they have been neglected for last seven,", start: 1072.32, end: 1081.92}
+  - {text: "eight decades and they do deserve an equal shot at life and equal shot at opportunities.", start: 1082.00, end: 1086.82}
+  - {text: "So what they've discovered at the school is that there is no toilet for female students, that the food they are giving in school lunches, some of that is being made from expired products.", start: 1089.30, end: 1099.74}
+  - {text: "And I can see now that Abhijeet is sitting surrounded by villagers from the area.", start: 1100.32, end: 1104.72}
+  - {text: "He's asked for the number of the official in charge of the school.", start: 1105.66, end: 1108.52}
+  - {text: "He's called them and he's asking them questions about why these basic facilities are not available here.", start: 1108.68, end: 1113.68}
+  - {text: "So the scene is almost like this is a public court demanding accountability from the government.", start: 1115.74, end: 1120.90}
+  - {text: "So the government is on trial here.", start: 1121.22, end: 1123.14}
+  - {text: "Aim of the Kokoro Janta Party is to change the political discourse of the country because since last 10, 12 years we have been seeing that the political discourse has been around communal politics, Hindu -Muslim politics,", start: 1123.58, end: 1132.32}
+  - {text: "and we want to bring it to education and employment.", start: 1132.54, end: 1135.60}
+  - {text: "Discontentment and anger has been simmering for a very long time in India about these issues.", start: 1137.00, end: 1141.26}
+  - {text: "But what the Kokoro Janta Party has managed to do is that it's given them a vengeance, brought them to a forefront in a way that", start: 1141.82, end: 1147.08}
+  - {text: "we haven't seen in India in a very long time.", start: 1147.08, end: 1150.50}
+  - {text: "So to get a sense of how acute this crisis of unemployment is, we've come away from Orangabad to the national capital, Delhi.", start: 1151.74, end: 1159.22}
+  - {text: "We've come specifically to an area where there are numerous coaching institutes for students who want to join government services.", start: 1159.62, end: 1166.08}
+  - {text: "In the last exam that happened, a million students applied, just around a thousand of them actually got through.", start: 1166.76, end: 1174.22}
+  - {text: "Hi, my name is Yogita.", start: 1174.72, end: 1175.80}
+  - {text: "What's your name? Devesh Shukla.", start: 1175.98, end: 1177.88}
+  - {text: "I would say there are two core problems.", start: 1178.40, end: 1180.10}
+  - {text: "One is income levels not rising in India.", start: 1180.10, end: 1182.52}
+  - {text: "So there is a stagnation of income and the second is unavailability of jobs for the Genji.", start: 1183.20, end: 1188.06}
+  - {text: "My name is Ahana Singh.", start: 1188.40, end: 1189.64}
+  - {text: "It's very depressing, honestly.", start: 1190.14, end: 1191.50}
+  - {text: "I always tell this to people that the only people who are staying in India are not out of choice.", start: 1191.72, end: 1196.92}
+  - {text: "They have to stay in India because they don't have a choice to go out.", start: 1197.40, end: 1199.74}
+  - {text: "So it's evident that it's a really complicated picture here in India because what those voices are saying, it doesn't really tally with a more than 7 % growth rate", start: 1200.39, end: 1208.75}
+  - {text: "that India's recently seen making it one of the fastest growing major economies in the world.", start: 1208.75, end: 1213.25}
+  - {text: "And I think the question a lot of people are asking is, will the protests have an electoral impact in this country?", start: 1213.51, end: 1220.61}
+  - {text: "It's a question I put to the founder of the Kokra Janta Party, Abhijit Dipke.", start: 1221.05, end: 1225.15}
+  - {text: "I do believe that.", start: 1225.51, end: 1226.19}
+  - {text: "Say, we have been seeing across India, all political parties have started to catering to the youth.", start: 1226.79, end: 1232.03}
+  - {text: "They're trying to have a dialogue with them.", start: 1232.37, end: 1233.75}
+  - {text: "Weeks on from the euphoria of their win, the Kokra Janta Party is now confronted with the difficult mandate, approving it wasn't just a flash in the pan and that it is here to stay.", start: 1233.97, end: 1244.53}
+  - {text: "That report by Yogita Limaye.", start: 1246.10, end: 1247.86}
+  - {text: "A new documentary detailing Israel's mass killing of Palestinian civilians in Gaza has received a record breaking 25 minutes standing ovation at its premiere at the Venice Film Festival.", start: 1248.80, end: 1261.66}
+  - {text: "Naza is made by two Oscar -winning Israeli filmmakers and features testimonies from anonymous whistleblowers.", start: 1262.40, end: 1269.04}
+  - {text: "Jacob Evans reports. This was the scene in Venice after the airing of Naza for the very first time.", start: 1269.62, end: 1280.30}
+  - {text: "The film features anonymous interviews with 24 Israeli military and intelligence whistleblowers.", start: 1280.86, end: 1285.52}
+  - {text: "It's called Naza after a euphemism for the number of civilian deaths expected in an airstrike.", start: 1286.06, end: 1290.88}
+  - {text: "The interviewees in the film describe using AI to process mass surveillance data and identify suspected low -ranking Hamas targets who were then bombed in their homes with their families.", start: 1291.46, end: 1301.32}
+  - {text: "The movie was written and directed by two Israeli filmmakers, Yuval Abraham and Rachel Zaw.", start: 1302.08, end: 1307.20}
+  - {text: "Speaking in Venice, Abraham says the Israeli military was well aware of the civilian casualties.", start: 1307.68, end: 1312.56}
+  - {text: "Intelligence officers knew perhaps the most because they are the ones listening and there was a policy, for example, to listen inside houses before they are bombed and using spyware.", start: 1312.92, end: 1324.14}
+  - {text: "And and and, you know, you speak to people and this is in our film telling you that, yes, we listen house after house and we hear a baby crying.", start: 1324.86, end: 1331.44}
+  - {text: "We hear a family is there.", start: 1331.62, end: 1332.62}
+  - {text: "We hear the TV playing.", start: 1332.92, end: 1333.92}
+  - {text: "We hear a man talking to his wife and we bond them.", start: 1334.08, end: 1336.60}
+  - {text: "We consider everyone there, Naza, and we do it again and again and again as part of a system of targeting.", start: 1336.74, end: 1342.02}
+  - {text: "The two directors also worked on the Oscar winning documentary No Other Land about Israel's occupation in the West Bank.", start: 1342.46, end: 1348.78}
+  - {text: "Despite the positive reception, Zaw says she felt compelled to work on another project.", start: 1349.38, end: 1353.76}
+  - {text: "No Other Land was at the end of the Oscar and it was a very important moment for us.", start: 1354.26, end: 1360.12}
+  - {text: "But in a way, I think in the following months afterwards, first of all, the situation just got worse and worse.", start: 1360.50, end: 1366.52}
+  - {text: "The 25 minute applause Naza received beat the previous record set last year for another documentary called The Voice of Hindra Jab about Israel's killing of a young girl in Gaza", start: 1366.84, end: 1376.46}
+  - {text: "as she pleaded for rescue after her family car came under fire.", start: 1376.46, end: 1379.68}
+  - {text: "Israeli attacks in Gaza have killed more than 73 ,000 people according to the Hamas Run Health Ministry, which the UN considers reliable.", start: 1379.68, end: 1387.34}
+  - {text: "Israel insists it does not target civilians.", start: 1388.22, end: 1390.36}
+  - {text: "Jacob Evans reporting there.", start: 1391.59, end: 1393.29}
+  - {text: "Now to a London landmark locked in a legal battle.", start: 1394.57, end: 1397.61}
+  - {text: "At this Mayfair address resides the spirit of the city.", start: 1398.39, end: 1402.53}
+  - {text: "With a character as big as its legend is magnificent.", start: 1403.95, end: 1407.45}
+  - {text: "The Dorchester, one of the city's grandest hotels, has been given permission to sell a car belonging to a member of Qatar's ruling family after he ran up a bill of more than six hundred thousand dollars and left without paying.", start: 1408.37, end: 1423.71}
+  - {text: "Stephanie Prentice tells us more.", start: 1424.37, end: 1426.17}
+  - {text: "So this case involves a Qatari shake.", start: 1426.65, end: 1429.39}
+  - {text: "He's called NASA bin Abdullah Al -Thani.", start: 1429.67, end: 1431.85}
+  - {text: "He was staying at the hotel.", start: 1432.37, end: 1433.63}
+  - {text: "Now we don't know for how long the outstanding bill for the room by itself was about two hundred and seventy thousand dollars.", start: 1433.93, end: 1442.25}
+  - {text: "Now rooms at the Dorchester range from about one thousand five hundred to eleven thousand dollars.", start: 1443.07, end: 1448.05}
+  - {text: "So at least a month we can say he was there.", start: 1448.47, end: 1450.51}
+  - {text: "But the rest of the bill suggests he was not as his miscellaneous costs incurred while he was there or even higher.", start: 1450.65, end: 1458.49}
+  - {text: "So the London court that was dealing with this case put forward a lump sum of almost three hundred and fifty thousand dollars.", start: 1458.89, end: 1465.47}
+  - {text: "That's on top of those room charges.", start: 1465.47, end: 1467.27}
+  - {text: "Now that did include legal fees, but also things like dining.", start: 1468.09, end: 1471.39}
+  - {text: "We know the Dorchester has a three Michelin star restaurant inside.", start: 1471.89, end: 1474.93}
+  - {text: "It includes spa treatments.", start: 1475.33, end: 1476.65}
+  - {text: "Now it's not clear when this lavish stay did take place.", start: 1477.33, end: 1480.81}
+  - {text: "But in March, the Dorchester gave up trying to get the bill paid and filed a lawsuit.", start: 1480.91, end: 1485.69}
+  - {text: "And now we do know it won.", start: 1485.97, end: 1487.31}
+  - {text: "So what they're now allowed to do is sell one of the shakes cars that he must have left in the UK.", start: 1487.91, end: 1493.45}
+  - {text: "Sadly for them, it isn't one of the many supercars.", start: 1494.09, end: 1497.89}
+  - {text: "It is a Fiat five hundred.", start: 1498.15, end: 1500.05}
+  - {text: "So that's a small three door hatchback.", start: 1500.19, end: 1502.35}
+  - {text: "The shape wasn't in court.", start: 1502.91, end: 1504.29}
+  - {text: "He lives in Doha and his lawyers have given out a statement saying he wasn't aware of any of this.", start: 1504.61, end: 1509.05}
+  - {text: "He wasn't formally served in their words and said they'll be disputing the amount.", start: 1509.17, end: 1513.55}
+  - {text: "Stephanie Prentice. Love, juice, best of five.", start: 1514.27, end: 1518.95}
+  - {text: "Tennis, as we know it, may change if the new head of the Australian Open gets his way.", start: 1518.95, end: 1524.87}
+  - {text: "Andrew Abdo has suggested altering the scoring system and shortening grand slam matches for men from the current five sets.", start: 1525.41, end: 1533.13}
+  - {text: "He recognizes some, quote, purist fans won't be happy, but says it's important to strike a balance between tradition and entertainment.", start: 1533.81, end: 1541.79}
+  - {text: "Well, the comments haven't gone down well with some, but is there an argument for changing the sport?", start: 1542.73, end: 1547.27}
+  - {text: "A question Jane Hill put to the Guardian newspaper's sports reporter, Sonja Trigg.", start: 1547.27, end: 1552.05}
+  - {text: "It is one of these debates that sort of reemerges every few years.", start: 1552.61, end: 1557.57}
+  - {text: "I think Abdo was talking about, you know, not connecting with young people and that tennis might get left behind if it doesn't.", start: 1557.95, end: 1565.27}
+  - {text: "You know, Billy Jean King was arguing for a simple one, two, three, four scoring system at a tournament named after her in 2024.", start: 1565.69, end: 1573.41}
+  - {text: "And Novak Djokovic said that a set should be up to four games.", start: 1574.07, end: 1577.23}
+  - {text: "So even if tennis does decide that a change is needed, it doesn't seem like there's a whole lot of consensus about what that change should be.", start: 1577.35, end: 1585.19}
+  - {text: "But I do think it all stems from this fear of getting left behind, which is odd at a point when tennis seems to be connecting with an audience through social media", start: 1585.59, end: 1594.79}
+  - {text: "and various other things in a way that it hasn't before.", start: 1594.79, end: 1597.37}
+  - {text: "I think you only need to look at how Alex Ayala's success on the court has brought a whole new audience in from the Philippines to", start: 1597.77, end: 1604.99}
+  - {text: "a sport they might not have considered before.", start: 1604.99, end: 1606.79}
+  - {text: "So I wouldn't say tennis is necessarily struggling and in need of change.", start: 1607.43, end: 1611.85}
+  - {text: "It just seems to be something that people like to sort of bring up every couple of years and then a few debates and then tennis ends up not really changing anything.", start: 1611.97, end: 1620.79}
+  - {text: "And certainly the Australian Open, it seems, came out pretty quickly saying, we're not getting rid of five sets, don't panic, nothing is changing.", start: 1621.25, end: 1629.25}
+  - {text: "I suppose that's one of the things that people do think about, because, goodness, particularly in Australia and in America, we've seen game matches end at 1, 2, 3 in the morning.", start: 1629.25, end: 1641.49}
+  - {text: "Yes, I do think that's a different point that how late finishes there are.", start: 1641.95, end: 1646.61}
+  - {text: "I mean, Carlos Alcaraz and Ben Shelton finishing their quarterfinal at 3 .33 in the morning, breaking the previous record by more than 40 minutes.", start: 1646.83, end: 1655.65}
+  - {text: "You sort of do ask yourself, who is watching this on television and also who is still there in the stadium?", start: 1655.65, end: 1661.81}
+  - {text: "Because obviously you want a packed out stadium.", start: 1662.05, end: 1664.35}
+  - {text: "And just to turn to some of the other comments that Andrew Abdo made.", start: 1664.65, end: 1667.71}
+  - {text: "I mean, he was he was talking generally about the scoring system, wasn't he?", start: 1668.51, end: 1672.13}
+  - {text: "I mean, is he a bit unfair to suggest that the scoring system is antiquated?", start: 1672.25, end: 1677.83}
+  - {text: "I'm not sure that was his exact word, but that's sort of what he was driving at.", start: 1677.97, end: 1681.21}
+  - {text: "And it seems to work OK, doesn't it?", start: 1681.33, end: 1683.37}
+  - {text: "Well, I think if you ask anyone who plays or watches tennis, they don't have an issue.", start: 1683.37, end: 1688.05}
+  - {text: "But for someone who's new to it, they might find it a little difficult to get to grips with.", start: 1688.27, end: 1693.37}
+  - {text: "But I think what's really interesting is, especially for young people, we've seen a huge explosion in paddle, which everyone seems to be taking up.", start: 1693.51, end: 1702.13}
+  - {text: "And it's sort of booming, particularly in this country.", start: 1702.25, end: 1704.55}
+  - {text: "But they also use a tennis system and people don't seem to have difficulty getting to grips with that.", start: 1705.01, end: 1710.97}
+  - {text: "Even a lot of them not coming from a tennis background.", start: 1710.97, end: 1714.47}
+  - {text: "So I think it's not necessarily difficult to understand.", start: 1714.73, end: 1718.17}
+  - {text: "And I think if you did change it, you would miss the drama that comes with those particularly big points.", start: 1718.57, end: 1724.55}
+  - {text: "I mean, who doesn't want to watch an eight minute game that goes to juice three or four times?", start: 1724.77, end: 1729.71}
+  - {text: "You get so much more invested in it.", start: 1729.89, end: 1731.57}
+  - {text: "Sonja Tweek. And that's all from us for now.", start: 1732.25, end: 1736.55}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1736.73, end: 1743.09}
+  - {text: "This edition of the Global News Podcast was mixed by Nick Randall.", start: 1743.93, end: 1747.55}
+  - {text: "The producer was Adrienne White.", start: 1747.99, end: 1749.61}
+  - {text: "The editor is Karen Martin.", start: 1750.03, end: 1751.61}
+  - {text: "I'm Jenna Jaleel. Until next time, goodbye.", start: 1752.19, end: 1754.63}
+---

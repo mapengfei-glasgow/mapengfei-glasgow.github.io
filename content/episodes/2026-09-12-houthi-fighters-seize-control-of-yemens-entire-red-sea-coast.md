@@ -1,0 +1,264 @@
+---
+layout: single
+title: "Houthi fighters seize control of Yemen's entire Red Sea coast"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-12T00:00:00Z
+slug: "2026-09-12-houthi-fighters-seize-control-of-yemens-entire-red-sea-coast"
+audioDir: "2026-09-12-houthi-fighters-seize-control-of-yemens-entire-red-sea-coast"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-12-houthi-fighters-seize-control-of-yemens-entire-red-sea-coast/episode.mp3"
+totalDuration: 1558.1
+sentences:
+  - {text: "BBC Sounds Music Radio Podcasts This is the Global News Podcast from the BBC World Service I'm Jenna Jalil and in the early hours of Saturday, the 12th of September, these are our main stories.", start: 1.10, end: 17.25}
+  - {text: "Iranian -Bat Houthi fighters in Yemen cement their control of a key waterway, seizing control of the country's entire Red Sea coast.", start: 17.97, end: 27.51}
+  - {text: "The Democratic Republic of Congo says the Ebola outbreak it's battling has spread to the country's northwest.", start: 27.51, end: 34.49}
+  - {text: "A bill to legalize assisted dying in England and Wales is rejected by MPs.", start: 35.71, end: 41.95}
+  - {text: "Also in this podcast, India hosts a BRICS summit with it challenge a Western -dominated world.", start: 43.91, end: 51.01}
+  - {text: "And a museum in England removes an ancient Egyptian mummy from public display because they think that's what she would have wanted.", start: 51.63, end: 59.53}
+  - {text: "Some visitors though aren't happy.", start: 60.13, end: 62.15}
+  - {text: "It's half of an exhibit if you just have the exterior without the interior of it.", start: 62.59, end: 66.77}
+  - {text: "You're missing out on kids coming in learning what mummies looked like.", start: 67.17, end: 70.07}
+  - {text: "I do understand the point of view of the people who it's been taken from.", start: 70.25, end: 74.19}
+  - {text: "Yeah, it definitely was a right decision to take it off.", start: 74.75, end: 77.61}
+  - {text: "Iranian -Bat Houthi fighters have now seized control of Yemen's entire Red Sea coast in a lightning offensive that cemented their grip on a vital maritime corridor.", start: 81.33, end: 92.09}
+  - {text: "An eyewitness said gunmen were deploying along a key international shipping route, the Bab Al -Mandab Strait, and driving around in military vehicles.", start: 92.71, end: 101.59}
+  - {text: "Officials in the Saudi -backed Yemeni government say the Houthis have also seized several islands in and near the Bab Al -Mandab.", start: 102.33, end: 110.69}
+  - {text: "This has become an increasingly important route for Saudi Arabia's oil exports since Iran blocked shipping through the Strait of Hormuz after the US and Israel launched their war on it.", start: 111.03, end: 121.87}
+  - {text: "The Houthi military spokesman Yahya Sari had this to say.", start: 122.51, end: 125.91}
+  - {text: "Navigation remains safe for all shipping companies except Saudi vessels in the Strait of Bab Al -Mandab, a strategic link between the Indian Ocean and the Mediterranean Sea via the Red Sea and the Suez Canal.", start: 129.29, end: 144.35}
+  - {text: "Meanwhile, Saudi Arabia says it's shut down a major oil pipeline after it was attacked by drones launched from inside Iraq.", start: 144.35, end: 152.74}
+  - {text: "The UN says the latest fighting in Yemen has killed hundreds of people and displaced tens of thousands more.", start: 153.66, end: 160.18}
+  - {text: "Our correspondent, Lise Doucette, explained how significant the Houthi advance was.", start: 160.82, end: 165.40}
+  - {text: "This is hugely significant.", start: 166.00, end: 167.48}
+  - {text: "It essentially opens up a second front in this crucial area.", start: 167.90, end: 171.36}
+  - {text: "We have, of course, been focusing on for many months the main theater of war is in the Strait of Hormuz.", start: 171.36, end: 177.48}
+  - {text: "And there's been observations, including from US officials in recent days about how they've been able to loosen Iran's grip on that strategic choke point that they're now managing to get many,", start: 177.74, end: 188.96}
+  - {text: "many more tankers through, exporting many, many more millions of barrels of oil, whereas the Iranians are being prevented from exporting their oil.", start: 189.04, end: 196.70}
+  - {text: "So we see in this move by the Houthis who are not completely tied to Iran.", start: 196.70, end: 201.68}
+  - {text: "They have their own interest in the region.", start: 201.80, end: 203.96}
+  - {text: "But on this, they seem aligned that Iran now wants to exercise even greater leverage geographically and politically by maintaining a hold over the second choke point just south of the Persian Gulf.", start: 204.20, end: 215.76}
+  - {text: "Now you have the Bab Al -Mandab Strait on the Red Sea.", start: 216.10, end: 219.16}
+  - {text: "But you heard from the spokesperson making it very clear they don't want the Americans to be drawn in.", start: 219.56, end: 224.62}
+  - {text: "They promise not to disrupt maritime trade except for the Saudis.", start: 224.62, end: 229.08}
+  - {text: "And just how crucial is that Bab Al -Mandab Strait?", start: 229.56, end: 231.88}
+  - {text: "We've heard so much about the Strait of Hormuz.", start: 232.02, end: 234.10}
+  - {text: "How about this particular choke point?", start: 234.22, end: 235.56}
+  - {text: "It's particularly important for Saudi Arabia because Saudi Arabia and being prevented from exporting through the Strait of Hormuz has been turning to the Red Sea,", start: 235.92, end: 245.18}
+  - {text: "which is the link between the Suez Canal in the north and the Gulf of Aden.", start: 245.24, end: 249.28}
+  - {text: "And I know from recently speaking to Saudi officials, they were putting all their efforts into developing these alternative routes.", start: 249.28, end: 256.88}
+  - {text: "And it's been the same with other partners in the Gulf saying, OK, right, Iran's going to continue to exercise control there.", start: 257.00, end: 262.70}
+  - {text: "We're going to outsmart them by making the Strait of Hormuz less important.", start: 262.98, end: 266.78}
+  - {text: "It's very difficult to say just how much of the traffic goes through there.", start: 267.20, end: 269.98}
+  - {text: "And it's not just oil and gas.", start: 270.02, end: 271.30}
+  - {text: "There are other really important commodities as well.", start: 271.58, end: 273.84}
+  - {text: "So this is why you've seen today another spike in oil prices.", start: 274.06, end: 277.98}
+  - {text: "The markets are nervous.", start: 277.98, end: 279.44}
+  - {text: "And I think it's a very unpredictable and a very volatile situation.", start: 279.88, end: 284.10}
+  - {text: "What will the Saudis do?", start: 284.38, end: 285.50}
+  - {text: "They're already bombing today.", start: 285.80, end: 287.24}
+  - {text: "There are reports that they've asked the Americans to help.", start: 287.72, end: 290.20}
+  - {text: "So far, they're not, but the discussions are continuing.", start: 290.34, end: 293.38}
+  - {text: "Please do that, speaking to Anka Desai.", start: 294.34, end: 296.88}
+  - {text: "Despite efforts to control the Ebola outbreak in the Democratic Republic of Congo, officials have confirmed that the virus has now spread to a new part of the country.", start: 297.90, end: 307.60}
+  - {text: "So far, more than 3 ,000 people are known to have died with thousands more infected.", start: 307.60, end: 313.86}
+  - {text: "I've got more details from our reporter David Bamford.", start: 314.28, end: 316.90}
+  - {text: "Up until now, the virus has been mainly in the northeast of Congo in about six different provinces.", start: 317.32, end: 324.28}
+  - {text: "It's now slightly further to the west on the borders of the Central African Republic and Congo in what's called the South Ubangi region.", start: 324.76, end: 333.58}
+  - {text: "So it is still spreading.", start: 333.96, end: 335.20}
+  - {text: "And up until now, we've had 7 ,000 cases nationwide.", start: 335.20, end: 339.68}
+  - {text: "Nearly half of those died.", start: 340.36, end: 342.90}
+  - {text: "So 3 ,300 dead.", start: 343.08, end: 345.02}
+  - {text: "And the fear is, of course, that it could spread across the borders into the other countries.", start: 345.42, end: 350.86}
+  - {text: "Although that said, when it did spread into Uganda, for instance, they dealt with it very efficiently.", start: 351.08, end: 355.80}
+  - {text: "That's because they have quick contact tracing systems and so on, very modern in a way that Congo just doesn't.", start: 356.10, end: 362.50}
+  - {text: "And what role have the major cuts in U .S.", start: 362.50, end: 366.26}
+  - {text: "aid played in all this?", start: 366.54, end: 367.76}
+  - {text: "Because the virus did spread undetected for some weeks.", start: 367.84, end: 372.20}
+  - {text: "That's right. It did.", start: 372.68, end: 373.84}
+  - {text: "It is true that the Americans under the Trump administration have withdrawn funding for the little clinics that were spread right across the Congo.", start: 374.22, end: 381.66}
+  - {text: "But it's not just the Americans, of course.", start: 381.94, end: 383.82}
+  - {text: "The Europeans have also withdrawn a lot of aid as well.", start: 383.94, end: 387.42}
+  - {text: "And dealing with a country like Congo is difficult at the best of times, but with money disappearing the way it has, it's almost impossible.", start: 387.92, end: 394.80}
+  - {text: "And what progress has there been towards developing a vaccine?", start: 395.44, end: 398.92}
+  - {text: "Well, remarkably, there has been a lot of work on the vaccines and human treatment has begun already, but it's still in the early stages and", start: 399.72, end: 408.18}
+  - {text: "it's going to be months before they can actually put together significant quantities of the vaccine to make any difference.", start: 408.18, end: 415.54}
+  - {text: "David Bamford. A number of countries have legalised assisted dying in recent years, but it seems England and Wales won't be joining their ranks anytime soon", start: 416.42, end: 426.56}
+  - {text: "after the British Parliament voted against changing the law on this emotionally charged issue.", start: 426.56, end: 432.18}
+  - {text: "The terminally ill adults end of life bill would have allowed adults with less than six months to live to apply to end their own life, subject to certain safeguards.", start: 432.90, end: 442.38}
+  - {text: "One of those who has long campaigned for assisted dying to be allowed in the UK is 86 -year -old broadcaster Esther Ranson, who's terminally ill with cancer.", start: 442.38, end: 452.56}
+  - {text: "She has said she is now too physically fragile to travel to another country like Switzerland where she could legally end her life.", start: 453.32, end: 460.26}
+  - {text: "She gave her reaction to the no -vote on a mobile phone.", start: 460.80, end: 463.94}
+  - {text: "I'm so sad people in this country won't have the choice of shortening their own deaths by asking for help.", start: 464.50, end: 476.01}
+  - {text: "I am sure a change in the law will come.", start: 476.92, end: 480.26}
+  - {text: "I am deeply sad that it won't come soon enough for many of the people who need it.", start: 480.76, end: 489.32}
+  - {text: "But one of the MPs who voted against was Ashley Dalton, who is living with stage 4 cancer.", start: 490.10, end: 496.16}
+  - {text: "She said she was worried people like her could be pressured or coerced into ending their lives.", start: 496.16, end: 501.98}
+  - {text: "It's nothing short of irresponsible to scare monger people like me into believing our deaths will be horrific.", start: 502.36, end: 509.12}
+  - {text: "When all the evidence suggests that with access to good palliative care deaths are on the hold gentle.", start: 509.48, end: 514.76}
+  - {text: "The answer is not to terrify people and their families.", start: 515.26, end: 517.88}
+  - {text: "It's to sort out palliative care and social care first.", start: 518.40, end: 522.12}
+  - {text: "It's the second time in two years that MPs have voted on the issue.", start: 522.90, end: 526.66}
+  - {text: "The Lower House of Parliament, the Commons, voted in favour of assisted dying last year.", start: 527.22, end: 531.68}
+  - {text: "But after the Upper House blocked it, concerns have grown that safeguards may not be robust enough.", start: 532.06, end: 537.86}
+  - {text: "When the result of this latest vote was announced, our medical editor, Fergus Walsh, was outside the Parliament building where supporters and opponents of the Bill had gathered.", start: 538.54, end: 547.76}
+  - {text: "Joy and relief from no campaigners who'd argued that the Bill would lead to the coercion of the vulnerable and undermined support for the disabled.", start: 552.50, end: 561.52}
+  - {text: "Sophie Cleanthas is a disability rights campaigner.", start: 562.18, end: 565.28}
+  - {text: "The fact that MPs listened, they spoke to us, they heard us.", start: 565.88, end: 569.62}
+  - {text: "They know that disabled people were terrified of this Bill.", start: 569.96, end: 572.64}
+  - {text: "Thank you to every MP that voted against.", start: 572.86, end: 575.24}
+  - {text: "But there was dismay among pro -campaners who only last year were celebrating when MPs backed the same legislation.", start: 575.74, end: 583.26}
+  - {text: "They argued terminally ill people deserved choice and a pain -free death.", start: 584.00, end: 588.72}
+  - {text: "Sarah Burns' sister Elise died of breast cancer in July.", start: 589.34, end: 593.70}
+  - {text: "It just feels like a massive slap in the face.", start: 594.26, end: 596.36}
+  - {text: "We had to watch her go through hell.", start: 597.14, end: 600.38}
+  - {text: "Essentially, she'd be devastated.", start: 600.68, end: 602.50}
+  - {text: "After it passed once and then it ran out of time, it's come back and now it's a no -vote.", start: 604.30, end: 610.98}
+  - {text: "A growing number of countries have legalised assisted dying in recent years including Canada, Australia, New Zealand, Spain and just last month, France.", start: 611.16, end: 620.98}
+  - {text: "This is not the end of the assisted dying campaign in Britain.", start: 621.88, end: 625.34}
+  - {text: "Supporters say they'll be back but it looks like they'll have to wait until after the next general election to have any hope of changing the law.", start: 625.74, end: 634.52}
+  - {text: "A new weather record was set on Friday and it's good news because September 11th, 2026 marked the furthest point into an Atlantic hurricane season without a single hurricane being formed.", start: 636.13, end: 650.81}
+  - {text: "James Kumrasami asked Dr Ryan Trishalut, a meteorologist and president of the consulting firm WeatherTiger if this was down to the El Nino weather phenomenon.", start: 651.57, end: 661.71}
+  - {text: "It absolutely is. El Nino is a global climate pacemaker.", start: 662.39, end: 667.53}
+  - {text: "It's defined by warmth of tropical ocean waters in the Pacific Ocean but it certainly has weather impacts worldwide.", start: 667.97, end: 673.99}
+  - {text: "In terms of tropical cyclones, when there is an El Nino in effect you tend to see more tropical cyclones in the western and the eastern Pacific Ocean", start: 674.79, end: 682.01}
+  - {text: "and many fewer than average tropical cyclones in the Atlantic Ocean.", start: 682.01, end: 685.31}
+  - {text: "Now it's unusual to see zero hurricanes forming at what's generally regarded as about the halfway point of hurricane season here in the North Atlantic Ocean but this is no typical El Nino.", start: 685.31, end: 696.79}
+  - {text: "It's one of the strongest of all time.", start: 697.01, end: 698.25}
+  - {text: "Does it mean that there is just a delay?", start: 698.67, end: 701.67}
+  - {text: "I mean, could things come back with a vengeance in the second half of the season?", start: 702.07, end: 706.09}
+  - {text: "Never say never in this business.", start: 706.27, end: 707.73}
+  - {text: "I've been forecasting hurricanes for the last 20 years and it truly does only take one hurricane to make it a bad hurricane season.", start: 708.15, end: 716.05}
+  - {text: "1992 was a very quiet hurricane season other than Hurricane Andrew, which was a category five that hit South Florida.", start: 716.35, end: 722.25}
+  - {text: "That being said, the conditions that are causing the hurricane season to be so quiet in the Atlantic are highly unfavorable upper level winds over the Caribbean Sea.", start: 722.79, end: 732.25}
+  - {text: "I do not think that those are going anywhere over the next couple months.", start: 732.55, end: 735.73}
+  - {text: "El Nino is only intensifying and I think those unfavorable upper level winds will continue to be in place.", start: 735.93, end: 741.75}
+  - {text: "Now, of course, that doesn't rule out that a storm could form closer to the continental United States and cause problems.", start: 741.75, end: 748.53}
+  - {text: "So we may see some mean reversion, but I think this hurricane season is going to end well below normal and has a shot of being", start: 749.13, end: 756.45}
+  - {text: "the quietest hurricane season of all time in the North Atlantic.", start: 756.45, end: 759.09}
+  - {text: "Well, as you say, it's a different story in the East and Pacific.", start: 759.55, end: 762.75}
+  - {text: "Well, it absolutely is.", start: 763.11, end: 764.25}
+  - {text: "And in fact, if you integrate all the tropical cyclone activity in the Northern Hemisphere, we're actually running about 25 % above normal for 2026.", start: 764.47, end: 772.91}
+  - {text: "So it's kind of a seesaw.", start: 773.41, end: 774.47}
+  - {text: "You'll see this when there's a La Nina.", start: 774.79, end: 776.03}
+  - {text: "Typically, we'll have more tropical cyclone activity in the Atlantic and less in the Central and Eastern Pacific.", start: 776.41, end: 781.23}
+  - {text: "So in worldwide terms, 2026 tropical cyclone season is quite busy, but it's very, very historically quiet here in the Atlantic.", start: 781.71, end: 789.83}
+  - {text: "Since 1950, there have been at least two hurricanes in the North Atlantic Ocean, every hurricane season.", start: 790.61, end: 795.69}
+  - {text: "Dr. Ryan Trushelut. Still to come in this podcast, one year after the assassination of the prominent right -wing U .S.", start: 795.69, end: 806.16}
+  - {text: "activist Charlie Kirk, we assess his legacy.", start: 806.18, end: 809.24}
+  - {text: "He changed the way U .S.", start: 809.58, end: 811.46}
+  - {text: "conservatives talk to Gen Z and future generations.", start: 811.52, end: 814.26}
+  - {text: "And I think his legacy will be this concept of having an open dialogue is a good thing.", start: 814.90, end: 821.64}
+  - {text: "This is the Global News podcast.", start: 829.79, end: 831.61}
+  - {text: "Between them, they represent about half the world's population.", start: 832.54, end: 836.06}
+  - {text: "Leaders of the BRICS Group of Nations are attending a summit in the Indian capital, Delhi this weekend.", start: 836.54, end: 842.12}
+  - {text: "It looks set to be dominated by the wars in the Middle East and Ukraine, as well as economic challenges.", start: 842.80, end: 848.02}
+  - {text: "It's being hosted by India's Prime Minister, Narendra Modi.", start: 848.66, end: 851.74}
+  - {text: "China's President Xi Jinping's visit to India will be the first since deadly border clashes between the two nations seven years ago.", start: 852.44, end: 859.20}
+  - {text: "BRICS was created in 2009 as a forum for major emerging economies seeking greater influence in institutions dominated by the West.", start: 859.20, end: 869.08}
+  - {text: "A global affairs reporter, Ambarasan Etirajan, told us more.", start: 869.56, end: 873.12}
+  - {text: "It's a much expanded BRICS.", start: 873.56, end: 875.06}
+  - {text: "Initially it was mainly Brazil, India, Russia, China and then South Africa.", start: 875.10, end: 879.62}
+  - {text: "Now it has expanded with 11 other members.", start: 879.86, end: 882.48}
+  - {text: "It is happening at a critical time.", start: 883.16, end: 885.40}
+  - {text: "You have the tensions in the Middle East, Russia's war on Ukraine and also the US President Trump's tariff, particularly targeting those countries which are doing business with Russia, for example, and China, India and many other countries.", start: 885.72, end: 899.92}
+  - {text: "And why they founded this?", start: 900.48, end: 902.02}
+  - {text: "Because they felt the western backed financial institutions like the World Bank and the International Monetary Fund, they were western dominated and the UN and other agencies are again the influence of US", start: 902.12, end: 913.56}
+  - {text: "and Western Europe are too high and to balance this this alternative grouping was formed.", start: 913.56, end: 919.10}
+  - {text: "But there are also issues because even though they came together for a common purpose, there are also bilateral issues and tensions like India and China", start: 919.54, end: 928.74}
+  - {text: "and again India's links with the US and Israel how it is being seen, whether they can have any statement against President Trump.", start: 928.74, end: 936.82}
+  - {text: "But it is important because it really represents nearly 50 % of the world's population, 40 % of the GDP and these are some of the countries which are having the fastest going economy.", start: 937.18, end: 948.60}
+  - {text: "So what they say whether to make trade easier among themselves or to plan for something long term whether how they can look at trading in", start: 948.80, end: 958.96}
+  - {text: "local currencies rather than depending heavily on US dollar.", start: 958.96, end: 962.42}
+  - {text: "So a kind of counterweight if you like to the west at a time when Donald Trump's policies, particularly on tariffs and trade have caused a lot of concern around the world.", start: 962.94, end: 973.92}
+  - {text: "This would be one of the topics discussed in this meeting because many of the countries feel that it is disrupting the global trade and they also feel that these tariffs are unjustified.", start: 974.34, end: 986.56}
+  - {text: "So now they want to take a common position but at the same time Trump has also clearly want about some of the aims of this BRICS for example", start: 987.14, end: 995.26}
+  - {text: "if he was categorically saying they shouldn't even think about an alternative currency to dollar then he will be imposing severe tariffs on the member states.", start: 995.26, end: 1004.30}
+  - {text: "He is also warning about individual agreements on any of the trade policies.", start: 1004.78, end: 1009.84}
+  - {text: "You know they are going to watch it how far it is going to be beneficial to each other.", start: 1010.04, end: 1013.38}
+  - {text: "Here is the counter narrative counter voice and it is also interesting the Iranian president Mr.", start: 1013.92, end: 1019.38}
+  - {text: "Pichersky is also there in Delhi.", start: 1019.56, end: 1021.68}
+  - {text: "So you have these people from different countries with a different agenda and finding a common point if that is going to be a challenge.", start: 1022.12, end: 1028.96}
+  - {text: "For example, Willard Mirputin probably is one of the few countries where he can go freely without the fear of getting arrested because India is not a signatory to the ICC", start: 1029.34, end: 1038.86}
+  - {text: "and India and Russia they maintain very close defence and trade ties especially in the military defence supplies India heavily relies on Russia.", start: 1038.86, end: 1048.84}
+  - {text: "Now at the same time this also has given an opportunity for India and China to reset the ties because it is a first visit by Xi Jinping to India after seven years.", start: 1049.60, end: 1059.92}
+  - {text: "So there is a thaw in relations between Beijing and Delhi because that is a bilateral meeting on Saturday is going to be seen as very crucial in improving ties.", start: 1060.42, end: 1068.76}
+  - {text: "I am Brassan Etirajan President Trump is visiting Ireland this weekend to meet the country's leaders in Dublin and then to watch the Irish Open Golf Tournament at his resort in County Clare.", start: 1069.66, end: 1080.34}
+  - {text: "Ireland has been a frequent destination for travelling US presidents as Chris Page reports.", start: 1080.34, end: 1086.67}
+  - {text: "Since the 1990's Ireland has stood out among small countries as hosting a big number of US presidential visits often with huge public welcomes for the visitors.", start: 1091.07, end: 1101.91}
+  - {text: "Over the years stories of this place have become part of my soul.", start: 1102.31, end: 1105.97}
+  - {text: "I am happy to be in Ireland.", start: 1106.73, end: 1108.67}
+  - {text: "I am now a free man of Dublin.", start: 1109.13, end: 1111.91}
+  - {text: "The roots of the relationship lie in emigration during America's formative years.", start: 1111.91, end: 1117.97}
+  - {text: "Almost one in ten Americans now claim Irish ancestry.", start: 1118.45, end: 1121.83}
+  - {text: "The wheels of the presidential airliner were running on Irish soil.", start: 1122.13, end: 1125.63}
+  - {text: "John F. Kennedy was in the land of his forebears.", start: 1126.13, end: 1128.35}
+  - {text: "JFK was the first president to visit Ireland in 1963.", start: 1128.61, end: 1132.19}
+  - {text: "This is the man whose great grandfather somehow scraped together the four pounds for a sailing ship passage and emigrated to the United States.", start: 1133.11, end: 1139.91}
+  - {text: "Barack Obama was another president with Irish heritage and he paid homage with humour.", start: 1139.91, end: 1145.49}
+  - {text: "My name is Barack Obama of the Moneygall Obamas and I've come home to find the apostrophe that we lost somewhere along the way.", start: 1145.99, end: 1158.29}
+  - {text: "One of the most visible and diplomatically valuable out -workings of the country's links happens every year on the 17th of March in Washington.", start: 1159.27, end: 1166.55}
+  - {text: "Let me wish everyone a very happy St.", start: 1166.97, end: 1168.95}
+  - {text: "Patrick's Day. On Ireland's national holiday the Irish Prime Minister, the Tishik has a meeting and a ceremony with the President.", start: 1169.13, end: 1175.87}
+  - {text: "I'm going to present the bowl of shamrock to the President.", start: 1176.31, end: 1179.47}
+  - {text: "Dan Mulholl is a former Irish ambassador to the U .S.", start: 1180.63, end: 1183.93}
+  - {text: "I don't know of any other country that has a guaranteed annual outing in Washington.", start: 1184.15, end: 1191.09}
+  - {text: "Some of my European colleagues kind of puzzled as to how Ireland had managed to pull this off.", start: 1191.53, end: 1195.51}
+  - {text: "Donald Trump's visit here to Dublin and to the west of Ireland will be different to most of his predecessors.", start: 1195.51, end: 1201.29}
+  - {text: "He has no known Irish ancestry.", start: 1201.73, end: 1203.53}
+  - {text: "There won't be a large public rally involving him.", start: 1204.13, end: 1206.65}
+  - {text: "Protests are being planned, focused on U .S.", start: 1207.29, end: 1210.15}
+  - {text: "actions in the Middle East.", start: 1210.31, end: 1211.33}
+  - {text: "Dr Peter McLaughlin believes there are parallels with another visit that of Ronald Reagan in 1984.", start: 1212.15, end: 1217.87}
+  - {text: "The U .S. was severely criticised at that point by people in Ireland and what was going on in the North Cold War broadly but very specifically in Central America.", start: 1218.49, end: 1226.55}
+  - {text: "Many people in Ireland would have a cousin or someone who was serving abroad as a nun or a priest in Latin America and was able to bring back these first -hand reports of how there were very controversial associations there with U .S.", start: 1226.89, end: 1238.57}
+  - {text: "policy. And yet at the same time, this was the U .S.", start: 1238.61, end: 1241.53}
+  - {text: "President. He needed to be courted and that was the start of the real investment of the U .S.", start: 1241.79, end: 1245.65}
+  - {text: "in the Republic of Ireland and indeed Northern Ireland.", start: 1245.67, end: 1247.57}
+  - {text: "I want you to know that for this great grandson of Ireland, this is the moment of joy.", start: 1247.87, end: 1252.79}
+  - {text: "Ireland is more used to the most nations to hosting the holder of the most powerful office in the world.", start: 1255.01, end: 1260.43}
+  - {text: "This weekend of diplomacy and demonstrations will be another episode in a story dating back decades.", start: 1260.85, end: 1267.01}
+  - {text: "That report by Chris Page.", start: 1268.08, end: 1269.68}
+  - {text: "It's one year since the assassination of Charlie Kirk, a right -wing American activist who was credited with helping to get young men to vote for President Trump", start: 1270.80, end: 1279.80}
+  - {text: "and who was talked about as a future president himself.", start: 1279.80, end: 1283.04}
+  - {text: "In the wake of his shooting on a college campus, his supporters thought his conservative movement Turning Point could only grow but many now fear that", start: 1283.70, end: 1292.98}
+  - {text: "no one will be able to fill the void.", start: 1292.98, end: 1295.26}
+  - {text: "Kyle Bass is an American investor and founder of a private equity fund who knew Charlie Kirk.", start: 1296.10, end: 1302.00}
+  - {text: "He spoke to Paul Henley.", start: 1302.46, end: 1303.60}
+  - {text: "I met Charlie when he was 21 years old.", start: 1304.18, end: 1306.84}
+  - {text: "He came into my office in Dallas.", start: 1306.84, end: 1309.04}
+  - {text: "A couple of friends suggested that I meet him and I was just taken by his constancy of purpose.", start: 1309.38, end: 1315.26}
+  - {text: "The fire that he had lit in him to change the way that youth politics is formed and going to these college campuses around the U .S.", start: 1315.88, end: 1325.46}
+  - {text: "was his mission to go talk about the things that he cared most about which was, you know, faith, family and country.", start: 1325.52, end: 1332.84}
+  - {text: "So we were in frequent contact.", start: 1333.04, end: 1335.54}
+  - {text: "Charlie and I had plenty of things we disagreed on but the one thing that I think everybody appreciates was his desire to engage in the dialectic.", start: 1335.98, end: 1344.70}
+  - {text: "Ask questions and answer questions and let's talk about what our differences are and why they might be and I think that did the U .S.", start: 1344.82, end: 1352.34}
+  - {text: "and the world a service.", start: 1352.38, end: 1353.62}
+  - {text: "He was always optimistic and he changed the way youth politics was thought about in America so I think he has a lasting legacy.", start: 1354.06, end: 1360.46}
+  - {text: "And what convinced you he could have been president of the U .S.", start: 1360.46, end: 1363.94}
+  - {text: "one day? I've met the last, I don't know, four or five presidents in America and when you meet someone whose life mission is to make things better and he has that charisma, he has that presence,", start: 1363.96, end: 1377.04}
+  - {text: "that gravitas when he walked into a room, when he was 21 years old he had it and I think that's why he was so successful", start: 1377.38, end: 1384.14}
+  - {text: "having that constancy of purpose and the desire to, as he always said, trying to get America back to the America that, let's say, we once had the America", start: 1384.62, end: 1395.48}
+  - {text: "that we had before September 11th and I think that's why he had such a broad reach across America.", start: 1395.48, end: 1401.12}
+  - {text: "What do you think Charlie Kirk would make of his legacy now?", start: 1401.62, end: 1405.14}
+  - {text: "He changed the way U .S.", start: 1405.72, end: 1407.56}
+  - {text: "conservatives talk to Gen Z and future generations and I think his legacy will be this concept of having an open dialogue is a good thing.", start: 1407.64, end: 1417.98}
+  - {text: "Kyle Bass. And finally Manchester Museum in Northwest England has removed its ancient Egyptian mummy from public display to reflect what it describes as changing views.", start: 1418.82, end: 1429.38}
+  - {text: "The remains of the woman known as Asru have been on show in the city for 200 years.", start: 1430.00, end: 1435.08}
+  - {text: "The woman lived and died in ancient Egypt more than 2 ,000 years ago.", start: 1435.72, end: 1439.84}
+  - {text: "The museum said it had carried out research that showed she would not have wanted her body to be on public display.", start: 1440.42, end: 1446.58}
+  - {text: "Rowan Bridge reports. Since being unwrapped, Asru has been on almost constant public display most recently at Manchester Museum but no longer.", start: 1447.14, end: 1456.38}
+  - {text: "Last year the museum launched a public consultation on whether her mummified body should continue to be seen by visitors.", start: 1457.12, end: 1462.96}
+  - {text: "Around 8 ,000 people responded with views roughly evenly divided and today these visitors to the museum gave their reaction to the decision.", start: 1463.64, end: 1471.62}
+  - {text: "Might as well leave it.", start: 1472.14, end: 1472.86}
+  - {text: "It's half of an exhibit if you just have the exterior without the interior of it.", start: 1472.86, end: 1477.38}
+  - {text: "You're missing out on kids coming in learning what mummies looked like.", start: 1477.78, end: 1480.64}
+  - {text: "I do understand the point of view of the people who it's been taken from Yeah, it definitely was a right decision to take it off.", start: 1480.82, end: 1488.18}
+  - {text: "Having it in a separate room so that you make that choice about whether you go and see it or not I think that would be a good compromise", start: 1488.42, end: 1494.88}
+  - {text: "because I think some people would want to see it and we learn from the artefacts that are in museums I mean that's part of the reason behind having museums isn't it?", start: 1494.88, end: 1503.84}
+  - {text: "But the museum said the move reflected changing views about it's responsibilities towards ancestors and the communities they represented and most closely reflect what Azruh herself would have wanted.", start: 1503.96, end: 1514.18}
+  - {text: "The museum's now considering what should happen to her in the long term.", start: 1514.98, end: 1518.24}
+  - {text: "The question of whether mummies should be publicly displayed as a live issue among museums.", start: 1518.84, end: 1523.02}
+  - {text: "The British Museum still displays mummies saying they provide an opportunity to examine how past societies understood death.", start: 1523.68, end: 1530.40}
+  - {text: "Roman Bridge And that's all from us for now.", start: 1531.12, end: 1535.38}
+  - {text: "If you want to get in touch you can email us at globalpodcast at bbc .co .uk This edition of the Global News podcast was mixed by Hannah Montgomery the producer was Emma Joseph the editor is Karen Martin I'm Janet Jaleel, until next time Goodbye", start: 1535.60, end: 1552.48}
+---
