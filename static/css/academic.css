@@ -1,65 +1,125 @@
 /* ---------------------------------------------------------------------------
-   Academic (paper-style) presentation for the AFSI demo write-ups.
+   Note pages (the AFSI demo write-ups), styled after https://ipc-sim.github.io
 
-   This sheet is loaded ONLY on pages whose front matter sets `academic: true`
-   (see layouts/partials/extend_head.html), so the rest of the site keeps its
-   normal typography. It provides the usual journal conventions:
+   The reference site carries all of its CSS inline in the page <head>; the
+   rules below are that sheet, mapped onto this theme's markup:
 
-     * Times New Roman body text, justified, with numbered sections
-     * three-line (booktabs-style) tables: top rule, rule under the header,
-       bottom rule — no vertical rules and no row shading
-     * numbered captions above tables and below figures
-     * centred, numbered display equations
+     p { font: 10pt Arial }                       → body copy, sans, justified
+     .text  { font-family:'Open Sans'; 11pt; text-align:justify; margin:0 20px }
+     .heading     { font-family:'Open Sans'; font-size: 20pt }        (title)
+     .regularHeader { font: 16pt Playfair Display; margin-top:20px }  (h2)
+     .main { width:1000px; background:white; margin:auto; border-radius:10px }
+     img { box-shadow: 1px 1px 3px 3px rgba(0,0,0,.2); border-radius:6px }
+     td { padding-top:5px; padding-bottom:5px }
+     a { color:black; text-decoration:none }
+     a:hover { color:green; text-decoration:underline }
+
+   Open Sans is self-hosted (the reference pulls it from Google Fonts, which is
+   unreliable here and is blocked by mixed content on their own https page).
+   The sheet is loaded only on pages that set `academic: true`, so the rest of
+   the site is untouched. Tables keep the three-line style: the reference site
+   has no tables, and these notes are mostly tables.
    --------------------------------------------------------------------------- */
 
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300 800;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url('/fonts/opensans/opensans-latin.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 300 800;
+    font-stretch: 100%;
+    font-display: swap;
+    src: url('/fonts/opensans/opensans-latin-italic.woff2') format('woff2');
+}
+
+/* .main { width: 1000px } — one wide, centred column for the notes. */
+:root {
+    --main-width: 1000px;
+}
+
+/* --------------------------------------------------------------- typography */
+
 .post-single,
-.post-single .post-title,
 .post-single .post-meta,
 .post-single .post-content {
-    font-family: "Times New Roman", "Liberation Serif", "Nimbus Roman No9 L",
-                 Times, Georgia, serif;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
 .post-single .post-title {
-    font-size: 1.72rem;
-    line-height: 1.25;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    font-weight: 400;
+    line-height: 1.35;
     text-align: center;
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.4rem;
 }
 
 .post-single .post-meta {
+    font-size: 10pt;
     text-align: center;
-    font-size: 0.92rem;
 }
 
-/* Paper-like links: subtle, not coloured chrome. */
-.post-content a {
-    text-decoration: underline;
-    text-underline-offset: 2px;
-}
-
+/* .text — 11 pt, justified */
 .post-content {
-    font-size: 1.02rem;
-    line-height: 1.52;
+    font-size: 11pt;
+    line-height: 1.5;
     text-align: justify;
     hyphens: auto;
 }
 
-/* ---------------------------------------------------------------- headings */
-
+/* .regularHeader — 16 pt serif, 20 px above */
 .post-content h2 {
-    font-size: 1.14rem;
-    font-weight: bold;
-    margin: 2.1rem 0 0.7rem;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    font-size: 16pt;
+    font-weight: 400;
+    line-height: 1.3;
+    margin: 20px 0 8px;
     padding: 0;
     border: 0;
 }
 
 .post-content h3 {
-    font-size: 1.02rem;
-    font-weight: bold;
-    font-style: italic;
-    margin: 1.5rem 0 0.5rem;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 11.5pt;
+    font-weight: 600;
+    margin: 16px 0 6px;
+}
+
+/* a { color:black; text-decoration:none } / a:hover { color:green; text-decoration:underline } */
+.post-content a,
+.post-single .post-title a,
+.post-single .post-meta a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.post-content a:hover,
+.post-single .post-meta a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+/* Code identifiers stay monospace — these notes are about the code. */
+.post-content code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.9em;
+    background: none;
+    border: 0;
+    padding: 0;
+}
+
+.post-content pre,
+.post-content pre code,
+.post-content .highlight code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
+    font-size: 0.85em;
 }
 
 /* --------------------------------------------------- three-line (booktabs) */
@@ -73,16 +133,17 @@
     border-bottom: 1.5px solid var(--content) !important;
     margin: 0.15rem 0 1.4rem !important;
     font-size: 0.94em;
-    line-height: 1.38;
+    line-height: 1.4;
 }
 
+/* td { padding-top:5px; padding-bottom:5px } */
 .post-content.md-content table th,
 .post-content.md-content table td,
 .post-content table th,
 .post-content table td {
     border: 0 !important;
     background: none !important;
-    padding: 0.34em 0.55em !important;
+    padding: 5px 8px !important;
     min-width: 0 !important;
     vertical-align: top;
 }
@@ -90,7 +151,7 @@
 .post-content.md-content table thead th,
 .post-content table thead th {
     border-bottom: 1px solid var(--content) !important;
-    font-weight: bold;
+    font-weight: 600;
     text-align: left;
     white-space: nowrap;
 }
@@ -100,7 +161,6 @@
     background: none !important;
 }
 
-/* header-less tables (they start with <tbody>) keep the top rule only */
 .post-content table tbody tr:first-child td {
     border-top: 0 !important;
 }
@@ -108,37 +168,38 @@
 /* Caption above a table. */
 .post-content .tcaption {
     text-align: center;
-    font-size: 0.9em;
+    font-size: 10pt;
     line-height: 1.4;
-    margin: 1.5rem 0.5rem 0.3rem;
+    margin: 1.4rem 0.5rem 0.3rem;
 }
 
 /* --------------------------------------------------------------- figures */
 
+/* img { box-shadow: 1px 1px 3px 3px rgba(0,0,0,.2); border-radius: 6px } */
 .post-content figure {
-    margin: 1.6rem 0 1.7rem;
+    margin: 1.5rem 0 1.6rem;
     text-align: center;
 }
 
 .post-content figure img {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
-    border-radius: 1px;
+    max-width: 96%;
+    padding: 3pt;
+    border-radius: 6px;
+    box-shadow: 1px 1px 3px 3px rgba(0, 0, 0, 0.2);
 }
 
 .post-content figure figcaption {
     text-align: center;
-    font-size: 0.9em;
-    line-height: 1.42;
-    margin: 0.55rem 0.5rem 0;
+    font-size: 10pt;
+    line-height: 1.45;
+    margin: 0.7rem 0.5rem 0;
     color: var(--content);
 }
 
-/* --------------------------------------------------------------- equations */
+/* ------------------------------------------------------------- equations */
 
-/* MathJax display equations: keep them clear of the caption rhythm and let
-   the SVG scale with the surrounding text. */
 .post-content mjx-container[display="true"] {
     margin: 1.1rem 0 !important;
     overflow-x: auto;
@@ -152,8 +213,8 @@
 /* ---------------------------------------------------------- references */
 
 .post-content .references {
-    font-size: 0.95em;
-    line-height: 1.4;
+    font-size: 10pt;
+    line-height: 1.45;
 }
 
 .post-content .references ol {
