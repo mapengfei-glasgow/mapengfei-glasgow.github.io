@@ -1,7 +1,8 @@
 ---
 title: "AFSI"
-description: "AFSI — an automated fluid–structure interaction solver on FEniCSx: demo configurations, run parameters and measured results."
+description: "AFSI — an automated fluid–structure interaction solver on FEniCSx: notes on every demo in the repository, with configurations, run commands, results and caveats."
 date: 2026-09-12
+academic: true
 ---
 
 **AFSI** (*Automated Fluid–Structure Interaction Solver*) couples an
@@ -18,70 +19,59 @@ hand-written element routines.
 
 **Cite:** Ma, P., Cai, L., Wang, X., Gao, H. *AFSI: Automated Fluid-Structure Interaction Solver Development for Nonlinear Solid Mechanics.* arXiv:2509.00014 (2025).
 
-## Verification demos
+## The demo notes
 
-The pages below document individual demos in detail: the full parameter set, the
-boundary conditions, the commands that produced the numbers, and the measured
-results — including the parts that do **not** match the reference solution, with
-the diagnosed cause.
+One page per demo in `afsic/demo`, written from the sources: the parameter set as
+the code actually runs it, the files and their roles, the commands, whatever
+results are archived, and the discrepancies that would otherwise cost an
+afternoon. Where nothing is archived, the page says so rather than quoting the
+readme.
 
-| Demo | Problem | What it establishes |
-|---|---|---|
-| [`demo_423`](/afsi/demo-423/) | Static equilibrium of an immersed anisotropic annular solid in a driven cavity | Analytic pressure field reproduced by the immersed coupling; quadrilateral vertex-ordering pitfall |
-| [`demo_424`](/afsi/demo_424/) | Tethered aorta in a box — patent and occluded variants | Pressure-driven open boundaries, an immersed sealing membrane, a mesh-refinement study, and a diagnosed defect in the IPCS solver |
-
-Both write their raw results to `plot/` as XDMF/HDF5 plus a `verify.json`
-summary; the figures on those pages were rendered from those files.
-
-## Demo catalogue
-
-The repository ships 14 demos (plus one reserved directory), each with a
-`generate_mesh.py` (solid mesh) and a `main.py` (solve). The list below is the
-catalogue from `afsic/demo/readme.md`.
+Two demos are worked through in full, against closed-form or published
+references — `demo_423` and `demo_424` below; those pages carry the measured
+errors, refinement orders and figures.
 
 ### Two-dimensional
 
-| Demo | Problem |
-|---|---|
-| `demo_336` | Disc carried by a lid-driven cavity flow (immersed boundary vs multi-direct forcing) |
-| `demo_339` | Flow past a cylinder, four ways: no cylinder / body-fitted mesh / IBFE / multi-direct forcing |
-| `demo_340` | Ideal 2-D valve, fibre-reinforced (FRH) leaflets at 45° / 60° / 75°, physiological sinusoidal inlet |
-| `demo_343` | Discs advected through an ideal 2-D valve (lower leaflet 10× stiffer), with a `CIRCLE=0` control |
-| `demo_400` | 2-D turtle: head and tail fixed, periodic follower pressure along the spine, limbs flapping |
-| `demo_402` | Turek FSI2 benchmark — channel with a cylinder and a flexible flag (`SVK`, Re = 100) |
-| `demo_421` | Fish swimming — a FEniCSx port of DFIBMFoam's `CircularFishSwimming` |
-| `demo_423` | Immersed anisotropic annulus at static equilibrium, verified against the analytic pressure |
-| `demo_424` | Tethered planar aorta — patent and occluded (sealed-membrane) verification cases |
+| Demo | Problem | State |
+|---|---|---|
+| [`demo_336`](/afsi/demo-336/) | Disc carried by a lid-driven cavity, three couplings (IB-FE, rigid and elastic direct forcing) | Back-effect and viscosity-comparison tables recorded; two result figures |
+| [`demo_339`](/afsi/demo-339/) | Flow past a cylinder, four ways (DFG 2D-3, $\mathrm{Re} = 100$) | Short-run comparison archived; drag-coefficient grid-dependence study |
+| [`demo_340`](/afsi/demo-340/) | 2-D ideal valve, fibre-reinforced (FRH) leaflets at $45^\circ/60^\circ/75^\circ$ | Probe series archived and compared with Ryan et al. and Kamensky et al. |
+| [`demo_343`](/afsi/demo-343/) | Two compliant discs transported through the ideal valve | Configuration only; no results archived |
+| [`demo_400`](/afsi/demo-400/) | Turtle outline under a periodic follower pressure | Configuration only; inlet condition and geometry files need attention |
+| [`demo_402`](/afsi/demo-402/) | Turek FSI2 — cylinder with a flexible flag | Configuration only; several readme/code conflicts flagged |
+| [`demo_421`](/afsi/demo-421/) | Fish swimming around a circular tank (DFIBMFoam port) | Configuration only; the IBM kernel origin bug is documented |
+| [`demo_423`](/afsi/demo-423/) | Immersed anisotropic annulus at static equilibrium | **Full verification write-up** against the analytic pressure |
+| [`demo_424`](/afsi/demo-424/) | Tethered aorta, patent and occluded, in a box | **Full verification write-up**: refinement study and an IPCS solver defect |
 
 ### Three-dimensional
 
-| Demo | Problem |
-|---|---|
-| `demo_337` | Ideal left ventricle, diastolic filling and systolic contraction (IB-FE, passive Neo-Hookean) |
-| `demo_341` | Sphere in a 3-D lid-driven cavity; mid-line interpolation at t = 1 s, pure NS vs FSI |
-| `demo_401` | Sperm cell (spherical head + three-segment flagellum) solid geometry and mesh |
-| `demo_403` | Beam in cross flow (Tuković 2018 §4.5), Re = 40, symmetric half domain, plate clamped at the base |
-| `demo_405` | 3-D vessel wall FSI (wedge/tetrahedral mesh) with a valve, sinusoidal inflow |
-
-> `demo_422` is an empty placeholder directory.
+| Demo | Problem | State |
+|---|---|---|
+| [`demo_337`](/afsi/demo-337/) | Idealised left ventricle under a physiological pressure load | MPI scaling tables and reference displacements archived |
+| [`demo_341`](/afsi/demo-341/) | Sphere carried through a cubic cavity, NS against FSI | Configuration only; inlet/wall marking needs checking |
+| [`demo_401`](/afsi/demo-401/) | Sperm-cell solid geometry and mesh | Pre-processing only — no solver in the directory |
+| [`demo_403`](/afsi/demo-403/) | Elastic plate in cross flow (Tuković §4.5) | Configuration only; the `plot/` artefacts belong to the 2-D valve |
+| [`demo_405`](/afsi/demo-405/) | Vessel-wall FSI with merged leaflets | Configuration only; meshes and the pressure model are missing |
 
 ## Running a demo
 
 AFSI needs FEniCSx 0.10.0 and an editable install of the `afsic` package:
 
 ```bash
-# environment (see install.md in the repository)
 sudo install/install_env.sh
 source install/activate_dolfinx
 install/install_dolfinx
 cd afsic && pip install .
 
-# then, for any demo
 cd afsic/demo/demo_424
 CASE=open NY=45 python generate_mesh.py && CASE=open NY=45 python main.py
 ```
 
-Most demos accept environment-variable overrides (`STEPS`, `NY`, `DT`,
-`SOLVER`, `CIRCLE`, `GRID`, …) so a case can be shortened for a quick check;
-each demo page lists the ones that matter and the wall-clock cost of the runs
-behind its numbers.
+Most demos accept environment-variable overrides — `STEPS`, `GRID`, `NX`/`NY`,
+`CASE`, `SOLVER`, `CIRCLE` — so a case can be shortened for a quick check; each
+page lists the ones that demo actually reads. Note that several drivers call
+SwanLab (and one a counter service) on start-up, so offline runs need those calls
+stubbed out; `demo_339/_short_run/run_compare.py` and `demo_336/run_ib_compare.py`
+are examples that do exactly that.

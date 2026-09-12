@@ -46,14 +46,18 @@
 
 /* --------------------------------------------------------------- typography */
 
+/* Cover both single pages (.post-single) and the section list page, whose
+   heading is a bare <h1> inside .page-header. */
 .post-single,
 .post-single .post-meta,
-.post-single .post-content {
+.post-content,
+.page-header h1,
+.post-single .post-title {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
 }
 
-.post-single .post-title {
-    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+.post-single .post-title,
+.page-header h1 {
     font-size: 20pt;
     font-weight: 400;
     line-height: 1.35;
@@ -61,7 +65,8 @@
     margin-bottom: 0.4rem;
 }
 
-.post-single .post-meta {
+.post-single .post-meta,
+.page-header .post-description {
     font-size: 10pt;
     text-align: center;
 }
@@ -93,7 +98,10 @@
 }
 
 /* a { color:black; text-decoration:none } / a:hover { color:green; text-decoration:underline } */
+/* The :not(.anchor) form is needed to outrank the theme's
+   `.md-content a:not(.anchor) { text-decoration: underline }`. */
 .post-content a,
+.post-content.md-content a:not(.anchor),
 .post-single .post-title a,
 .post-single .post-meta a {
     color: inherit;
@@ -101,6 +109,7 @@
 }
 
 .post-content a:hover,
+.post-content.md-content a:not(.anchor):hover,
 .post-single .post-meta a:hover {
     color: green;
     text-decoration: underline;
