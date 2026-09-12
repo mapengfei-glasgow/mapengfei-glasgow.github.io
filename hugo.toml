@@ -72,3 +72,8 @@ Sentences above A2 level come with a short **plain-English note**, and any sente
   name = "Files"
   url = "/files/"
   weight = 5
+
+[[menu.main]]
+  name = "AFSI"
+  url = "/afsi/"
+  weight = 6

@@ -510,3 +510,7 @@ body.modal-open { overflow: hidden; }
   .portal-fileacts { margin-left: auto; }
 }
 }
+
+/* ---------- AFSI section (solver documentation pages) ---------- */
+.post-content figure img { border-radius: var(--radius); }
+.post-content figure figcaption { color: var(--secondary); font-size: 0.85rem; }
