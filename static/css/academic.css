@@ -124,6 +124,15 @@
 
 /* --------------------------------------------------- three-line (booktabs) */
 
+/* The theme's reset makes every table `display: block` (so wide tables can
+   scroll sideways). A block-level <table> wraps its rows in an anonymous,
+   shrink-to-fit table, which leaves the header rule short of the table's own
+   top/bottom rules — so put the real table box back. */
+.post-content table {
+    display: table !important;
+    table-layout: auto;
+}
+
 .post-content.md-content table,
 .post-content table {
     width: 100%;
