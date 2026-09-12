@@ -1,3 +1,9 @@
 {{- /* Custom styles: player, sentence list, vocabulary book, auth modal
        (loaded after PaperMod's own stylesheets). */ -}}
 <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+{{- if .Params.academic }}
+{{- /* Paper-style typography for the AFSI demo write-ups: Times New Roman,
+       three-line tables, numbered captions. Only pages that opt in with
+       `academic: true` load it, so the rest of the site is unaffected. */}}
+<link rel="stylesheet" href="{{ "css/academic.css" | relURL }}">
+{{- end }}

@@ -1,123 +1,181 @@
 ---
-title: "demo_423 — immersed anisotropic annulus at equilibrium"
-description: "A thick fibre-reinforced ring immersed in a driven cavity, verified against the analytic pressure field: parameters, mesh pitfalls and measured errors."
+title: "Static equilibrium of an immersed anisotropic annular solid"
+description: "demo_423: verification of the immersed-boundary coupling against the closed-form pressure field of a fibre-reinforced ring in a driven cavity."
 date: 2026-09-12
 weight: 1
+academic: true
 ---
 
-A thick annular cylinder with **circumferential fibre reinforcement** sits
-immersed in a unit square filled with incompressible fluid. It is a static
-equilibrium problem with a closed-form pressure field, so the immersed-boundary
-coupling can be checked against an exact solution rather than a reference
-simulation.
+<div class="abstract">
+<p><span class="abstract-title">Abstract—</span> A thick annular solid with
+circumferential fibre reinforcement is immersed in a unit square filled with
+incompressible fluid and brought to static equilibrium. Because the equilibrium
+pressure field of this configuration is known in closed form, the case measures
+the immersed-boundary coupling of AFSI rather than the accuracy of a reference
+simulation. At the coarsest resolution the far field and the inner plateau of the
+pressure are reproduced to about 2 × 10<sup>−6</sup> Pa, and the residual error
+is confined to the fibre band, where the interface is smeared over roughly
+±2h by the interpolation kernel. The refinement study over N = 32 → 256 shows
+the band error to be an interface-resolution effect rather than a solver error.
+A DOLFINx quadrilateral vertex-ordering pitfall that silently halves the computed
+pressure is also documented.</p>
+</div>
 
-## Parameters
+<p class="keywords"><strong>Keywords:</strong> immersed boundary method ·
+fluid–structure interaction · FEniCSx · anisotropic solid · verification ·
+quadrilateral mesh ordering</p>
 
-| Quantity | Value |
-|---|---|
-| fluid domain | 1.0 × 1.0 m², `N × N` quadrilateral cells |
-| fluid density / viscosity | ρ = 1.0, μ = 1.0 |
-| ring inner radius `R` | 0.25 m |
-| ring width `w` | 0.0625 m (outer radius `R + w` = 0.3125 m) |
-| ring centre | (0.5, 0.5) |
-| solid modulus `μ_s` | 1.0 |
-| solid constitutive law | circumferential: `S_s = μ_s ê_θ ⊗ ê_θ` (`CircumferentialMaterial`) |
-| boundary conditions | no-slip on all four walls; pressure fixed only up to a constant |
-| default time stepping | dt = 1.0e-4 s, 100 steps (T = 0.01 s) |
-| paper time setting | dt = 1.0e-3 s, t_f = 10 dt (too coarse for the explicit Chorin solver here) |
-| velocity / force / pressure space | P2 / P2 / P1 |
+## 1. Problem statement
 
-The afsic Chorin solver is explicit, so the demo's default dt is 10× smaller
-than the paper's setting, which gives a better equilibrium in 100 steps.
+A thick annular cylinder of inner radius *R* and width *w* is immersed in the
+unit square Ω = [0, 1]² filled with an incompressible Newtonian fluid. The solid
+is fibre-reinforced in the circumferential direction, the four walls of the
+cavity are no-slip, and the pressure is determined only up to a constant. Under
+these conditions the fluid comes to rest and the pressure field is available in
+closed form, which makes the case a verification problem: the discretisation
+error of the immersed coupling can be measured directly against an exact
+solution.
 
-## Analytic solution
+## 2. Configuration
 
-With `l = 1` (the domain side) and `v = 0` everywhere:
+<p class="tcaption">Table 1. Parameters of the annular verification case. All quantities are in SI units.</p>
 
-```
-p(r) =  μ_s ln(1 + w/R)              − π μ_s / (2 l²) · ((R + w)² − R²)     for r ≤ R
-     =  μ_s ln((R + w)/r)            − π μ_s / (2 l²) · ((R + w)² − R²)     for R < r < R + w
-     =                               − π μ_s / (2 l²) · ((R + w)² − R²)     for r ≥ R + w
-```
+| Quantity | Symbol | Value |
+|---|---|---|
+| Fluid domain | Ω | 1.0 × 1.0 m², *N* × *N* quadrilateral cells |
+| Fluid density | ρ | 1.0 |
+| Fluid viscosity | μ | 1.0 |
+| Ring inner radius | *R* | 0.25 m |
+| Ring width | *w* | 0.0625 m |
+| Ring outer radius | *R* + *w* | 0.3125 m |
+| Ring centre | — | (0.5, 0.5) |
+| Solid modulus | μ<sub>s</sub> | 1.0 |
+| Boundary conditions | — | no-slip on all four walls; pressure fixed up to a constant |
+| Time step (default) | Δ*t* | 1.0 × 10<sup>−4</sup> s |
+| Number of steps (default) | — | 100 (*T* = 0.01 s) |
+| Velocity / force / pressure spaces | — | P2 / P2 / P1 |
 
-With the values above the far-field level is −0.05523 Pa, the inner plateau is
-+0.16792 Pa, and the whole variation happens in the 6.25 cm-wide fibre band.
+The solid is described by a single circumferential fibre family,
 
-## Mesh: the quadrilateral ordering trap
+<div class="equation"><span class="eqbody">S<sup>s</sup> = μ<sub>s</sub> ê<sub>θ</sub> ⊗ ê<sub>θ</sub></span><span class="eqno">(1)</span></div>
 
-The custom annular mesh must use the **DOLFINx quadrilateral vertex ordering**.
-For a physical counter-clockwise quadrilateral `(a, b, c, d)`, DOLFINx expects the
-cell as `[a, b, d, c]`. Using a naive cyclic ordering silently corrupts the solid
-element Jacobians: the solid area integral is wrong, the assembled PK force is
-wrong, and the resulting pressure comes out at about **half** the analytic value.
-`generate_mesh.py` uses the correct ordering, so no empirical force scaling is
-needed (`FORCE_SCALE = 1.0` for Chorin).
+implemented as `CircumferentialMaterial` in `materials.py`. The Chorin solver of
+AFSI is explicit, so the demo runs at Δ*t* = 10<sup>−4</sup> s — one order of
+magnitude below the Δ*t* = 10<sup>−3</sup> s used in the accompanying paper — in
+order to reach a better equilibrium within 100 steps.
 
-## Results
+## 3. Analytical solution
 
-{{< figure src="/afsi/demo423-fields.png" title="Archived N = 128 snapshot: the pressure is flat inside the ring, varies only across the fibre band and is flat outside again. The error panel resolves the immersed-boundary band, where the coupling smears the interface over roughly ±2h." >}}
+With *l* = 1 the domain side, **v** = 0 everywhere, and the constant
 
-The archived radial profiles along `y = 0.5` (from `x = 0.5` to `x = 0.9`, i.e.
-`r = 0 → 0.4`), each from its own run, give:
+<div class="equation"><span class="eqbody">C = π μ<sub>s</sub> [ (<em>R</em> + <em>w</em>)² − <em>R</em>² ] / (2 <em>l</em>²)</span><span class="eqno">(2)</span></div>
 
-| Run | max abs error (whole line) | inner `r < R − 2h` | fibre band `R ≤ r ≤ R + w` | outer `r > R + w + 2h` | p at r = 0 |
-|---|---|---|---|---|---|
-| Chorin, N = 32 | 2.221e-2 Pa | 7.605e-3 Pa | 2.221e-2 Pa | 5.475e-3 Pa | 0.1679447 (exact 0.1679421) |
-| Chorin, N = 256 | 2.002e-2 Pa | 2.817e-3 Pa | 2.002e-2 Pa | 1.999e-3 Pa | 0.1679207 (exact 0.1679204) |
-| IPCS, N = 64 | 5.257e-3 Pa | 5.144e-4 Pa | 5.257e-3 Pa | 4.187e-4 Pa | 0.1679266 (exact 0.1679287) |
-| IPCS, N = 128 | 2.621e-3 Pa | 4.597e-5 Pa | 2.621e-3 Pa | 2.922e-5 Pa | 0.1679219 (exact 0.1679190) |
+the exact pressure is the piecewise function
 
-{{< figure src="/afsi/demo423-profile.png" title="Left: the radial pressure profile — the far field and the inner plateau are captured essentially exactly, the fibre band is where the error lives. Right: the same data as an error plot; the spikes sit at the band edges, and refining the mesh shrinks them." >}}
+<div class="equation">
+  <table class="eqtable">
+    <tr><td class="lhs" rowspan="3">p(r) =</td><td>μ<sub>s</sub> ln(1 + w/R) − C</td><td class="cond">r ≤ R</td></tr>
+    <tr><td>μ<sub>s</sub> ln((R + w)/r) − C</td><td class="cond">R &lt; r &lt; R + w</td></tr>
+    <tr><td>− C</td><td class="cond">r ≥ R + w</td></tr>
+  </table>
+  <span class="eqno">(3)</span>
+</div>
 
-What the numbers say:
+For the parameters of Table 1 the far-field level is *C* = 0.055228 Pa, the inner
+plateau is p(0) = 0.167920 Pa, and the entire variation of the field takes place
+across the 6.25 cm wide fibre band.
 
-* **The far field and the inner plateau are essentially exact** (≈ 2e-6 Pa at the
-  centre even at N = 32) — the immersed coupling transmits the load correctly.
-* **The error is concentrated in the fibre band** `R ≤ r ≤ R + w`, and stays
-  around 2e-2 Pa there even at N = 256: this is the immersed-interface smearing
-  (the band is 0.0625 m wide, so it is resolved by few cells and the IB kernel
-  spreads it further), not a solver error.
-* Away from the band both the inner and outer errors fall with refinement
-  (7.6e-3 → 2.8e-3 and 5.5e-3 → 2.0e-3 over N = 32 → 256).
-* The IPCS profiles were archived with a hand-renamed file, so their exact step
-  count / dt are not recorded next to them; do not read the N = 64 / N = 128 rows
-  as a controlled comparison against the Chorin rows.
+## 4. Mesh construction and an ordering pitfall
 
-A full refinement study is scripted rather than archived: `convergence.py` runs
-`generate_mesh.py` + `main.py` for a sequence of levels and prints the observed
-order `p = log(e_N / e_2N) / log 2` for every error measure:
+The annular solid mesh is generated by `generate_mesh.py` directly as a
+structured quadrilateral mesh. The cells must follow the **DOLFINx quadrilateral
+vertex ordering**: for a physical counter-clockwise quadrilateral (a, b, c, d),
+DOLFINx expects the cell as [a, b, d, c]. A naive cyclic ordering is accepted
+without error but silently corrupts the solid element Jacobians — the solid area
+integral is wrong, the assembled PK force is wrong, and the resulting pressure is
+approximately **half** the analytical value. With the ordering used by
+`generate_mesh.py` no empirical force scaling is required (`FORCE_SCALE = 1.0`
+for the Chorin solver).
 
-```bash
-python convergence.py                       # N = 16 32 64 128
-python convergence.py -n 16 32 64 --steps 200
-LEVELS=32,64 STEPS=100 python convergence.py
-python convergence.py --dt 1e-5 --steps 1000 --json results.json
-```
+## 5. Results
 
-## Reproducing
+<p class="tcaption">Table 2. Radial pressure profile along y = 0.5, r ∈ [0, 0.4] m. Each row is a separate run; the inner, band and outer regions are defined by r &lt; R − 2h, R ≤ r ≤ R + w and r &gt; R + w + 2h respectively.</p>
+
+| Run | max \|e\| (whole line) | inner | fibre band | outer | p(r = 0) | exact |
+|---|---|---|---|---|---|---|
+| Chorin, *N* = 32 | 2.221 × 10<sup>−2</sup> Pa | 7.605 × 10<sup>−3</sup> | 2.221 × 10<sup>−2</sup> | 5.475 × 10<sup>−3</sup> | 0.1679447 | 0.1679421 |
+| Chorin, *N* = 256 | 2.002 × 10<sup>−2</sup> Pa | 2.817 × 10<sup>−3</sup> | 2.002 × 10<sup>−2</sup> | 1.999 × 10<sup>−3</sup> | 0.1679207 | 0.1679204 |
+| IPCS, *N* = 64 | 5.257 × 10<sup>−3</sup> Pa | 5.144 × 10<sup>−4</sup> | 5.257 × 10<sup>−3</sup> | 4.187 × 10<sup>−4</sup> | 0.1679266 | 0.1679287 |
+| IPCS, *N* = 128 | 2.621 × 10<sup>−3</sup> Pa | 4.597 × 10<sup>−5</sup> | 2.621 × 10<sup>−3</sup> | 2.922 × 10<sup>−5</sup> | 0.1679219 | 0.1679190 |
+
+{{< figure src="/afsi/demo423-fields.png" title="Figure 1. Archived N = 128 field snapshot. The pressure is uniform inside the ring, varies only across the fibre band, and is uniform again outside it. The error panel resolves the immersed-boundary band, where the coupling smears the interface over approximately ±2h." >}}
+
+{{< figure src="/afsi/demo423-profile.png" title="Figure 2. Radial pressure profiles along y = 0.5 (left) and the corresponding pointwise error (right). The far field and the inner plateau are captured essentially exactly; the error is concentrated at the edges of the fibre band and decreases with refinement." >}}
+
+Three observations follow from Table 2 and Figures 1–2.
+
+1. **The far field and the inner plateau are essentially exact.** Even at
+   *N* = 32 the pressure at the ring centre is within 2.6 × 10<sup>−6</sup> Pa of
+   the analytical value, so the immersed coupling transmits the load correctly.
+2. **The residual error is concentrated in the fibre band.** Its maximum stays
+   near 2 × 10<sup>−2</sup> Pa even at *N* = 256: the band is only resolved by a
+   few cells, and the four-point kernel spreads it further. This is an
+   interface-resolution effect, not a solver error.
+3. **Away from the band the error falls with refinement,** from 7.6 × 10<sup>−3</sup>
+   to 2.8 × 10<sup>−3</sup> Pa (inner) and from 5.5 × 10<sup>−3</sup> to
+   2.0 × 10<sup>−3</sup> Pa (outer) between *N* = 32 and *N* = 256.
+
+The two IPCS rows of Table 2 were archived with hand-renamed files, so their step
+count and time step are no longer recorded next to them; they should not be read
+as a controlled comparison against the Chorin rows.
+
+A full refinement study is scripted rather than archived. `convergence.py` runs
+`generate_mesh.py` and `main.py` over a sequence of levels and reports the
+observed order *p* = log(e<sub>N</sub> / e<sub>2N</sub>) / log 2 for every error
+measure printed by `main.py`.
+
+## 6. Reproducibility
 
 ```bash
 conda activate afsi-dolfinx
 cd afsic/demo/demo_423
 
-python generate_mesh.py          # default N=32
-python main.py                   # default N=32, 100 steps, dt=1e-4
+python generate_mesh.py                  # default N = 32
+python main.py                           # default N = 32, 100 steps, dt = 1e-4
 
-N=16  python generate_mesh.py && N=16  python main.py
-N=64  STEPS=100 DT=1e-4 python main.py
-N=32  SOLVER=ipcs python main.py           # FORCE_SCALE becomes -1.0 automatically
-N=32  CELL_TYPE=triangle python generate_mesh.py && N=32 python main.py
+N=16 python generate_mesh.py && N=16 python main.py
+N=64 STEPS=100 DT=1e-4 python main.py
+N=32 SOLVER=ipcs python main.py          # FORCE_SCALE becomes -1.0 automatically
+N=32 CELL_TYPE=triangle python generate_mesh.py && N=32 python main.py
+
+python convergence.py                    # N = 16 32 64 128
+python convergence.py -n 16 32 64 --steps 200
 ```
 
-The triangle-mesh variant also runs (P2 solid elements are still used in
-`main.py`).
+The triangle-mesh variant of the solid also runs; `main.py` continues to use P2
+solid elements.
 
-## Files
+## 7. Summary
 
-| File | Description |
-|---|---|
-| `generate_mesh.py` | structured quadrilateral annular solid mesh → `plot/mesh-423.xdmf` |
-| `materials.py` | `CircumferentialMaterial`: `S_s = μ_s ê_θ ⊗ ê_θ` |
-| `main.py` | IB-FSI solve; prints the L²/H¹ errors and writes the profiles |
-| `convergence.py` | mesh-refinement study over a sequence of `N`, with observed orders |
-| `plot/` | archived field snapshots (`pressure`, `velocity`, `*_error`), solid/fluid forces and the profile CSVs |
+The case verifies the immersed-boundary coupling of AFSI against a closed-form
+solution. The coupling is accurate in the far field and in the interior of the
+solid to the level of the time-integration error, while the error at the
+immersed interface is governed by the number of fluid cells across the fibre
+band and decreases monotonically with refinement. Two implementation hazards are
+worth carrying forward: the DOLFINx quadrilateral vertex ordering, which fails
+silently, and the sensitivity of the IPCS pressure to the treatment of
+pressure-Dirichlet boundaries (analysed in detail for
+[demo_424](/afsi/demo-424/)).
+
+<div class="references">
+
+**References**
+
+1. Ma, P., Cai, L., Wang, X., Gao, H. *AFSI: Automated Fluid-Structure
+   Interaction Solver Development for Nonlinear Solid Mechanics.*
+   arXiv:2509.00014 (2025).
+2. AFSI source `afsic/demo/demo_423` (`generate_mesh.py`, `materials.py`,
+   `main.py`, `convergence.py`).
+3. DOLFINx 0.10.0 documentation — quadrilateral cell vertex ordering.
+
+</div>

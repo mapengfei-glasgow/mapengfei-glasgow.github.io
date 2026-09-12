@@ -1,0 +1,259 @@
+/* ---------------------------------------------------------------------------
+   Academic (paper-style) presentation for the AFSI demo write-ups.
+
+   This sheet is loaded ONLY on pages whose front matter sets `academic: true`
+   (see layouts/partials/extend_head.html), so the rest of the site keeps its
+   normal typography. It provides the usual journal conventions:
+
+     * Times New Roman body text, justified, with numbered sections
+     * three-line (booktabs-style) tables: top rule, rule under the header,
+       bottom rule — no vertical rules and no row shading
+     * numbered captions above tables and below figures
+     * centred, numbered display equations
+   --------------------------------------------------------------------------- */
+
+.post-single,
+.post-single .post-title,
+.post-single .post-meta,
+.post-single .post-content {
+    font-family: "Times New Roman", "Liberation Serif", "Nimbus Roman No9 L",
+                 Times, Georgia, serif;
+}
+
+.post-single .post-title {
+    font-size: 1.72rem;
+    line-height: 1.25;
+    text-align: center;
+    margin-bottom: 0.35rem;
+}
+
+.post-single .post-meta {
+    text-align: center;
+    font-size: 0.92rem;
+}
+
+/* Paper-like links: subtle, not coloured chrome. */
+.post-content a {
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.post-content {
+    font-size: 1.02rem;
+    line-height: 1.52;
+    text-align: justify;
+    hyphens: auto;
+}
+
+/* ---------------------------------------------------------------- headings */
+
+.post-content h2 {
+    font-size: 1.14rem;
+    font-weight: bold;
+    margin: 2.1rem 0 0.7rem;
+    padding: 0;
+    border: 0;
+}
+
+.post-content h3 {
+    font-size: 1.02rem;
+    font-weight: bold;
+    font-style: italic;
+    margin: 1.5rem 0 0.5rem;
+}
+
+/* ------------------------------------------------------------ abstract etc. */
+
+.post-content .abstract {
+    margin: 1.4rem 2.2rem 0.6rem;
+    font-size: 0.97em;
+    line-height: 1.45;
+    text-align: justify;
+}
+
+.post-content .abstract .abstract-title {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.post-content .keywords {
+    margin: 0 2.2rem 1.6rem;
+    font-size: 0.95em;
+}
+
+/* --------------------------------------------------- three-line (booktabs) */
+
+.post-content.md-content table,
+.post-content table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0 !important;
+    border-top: 1.5px solid var(--content) !important;
+    border-bottom: 1.5px solid var(--content) !important;
+    margin: 0.15rem 0 1.4rem !important;
+    font-size: 0.94em;
+    line-height: 1.38;
+}
+
+.post-content.md-content table th,
+.post-content.md-content table td,
+.post-content table th,
+.post-content table td {
+    border: 0 !important;
+    background: none !important;
+    padding: 0.34em 0.55em !important;
+    min-width: 0 !important;
+    vertical-align: top;
+}
+
+.post-content.md-content table thead th,
+.post-content table thead th {
+    border-bottom: 1px solid var(--content) !important;
+    font-weight: bold;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.post-content table tbody tr:nth-child(2n),
+.post-content table tbody tr {
+    background: none !important;
+}
+
+/* header-less tables (they start with <tbody>) keep the top rule only */
+.post-content table tbody tr:first-child td {
+    border-top: 0 !important;
+}
+
+/* Caption above a table. */
+.post-content .tcaption {
+    text-align: center;
+    font-size: 0.9em;
+    line-height: 1.4;
+    margin: 1.5rem 0.5rem 0.3rem;
+}
+
+/* --------------------------------------------------------------- figures */
+
+.post-content figure {
+    margin: 1.6rem 0 1.7rem;
+    text-align: center;
+}
+
+.post-content figure img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 1px;
+}
+
+.post-content figure figcaption {
+    text-align: center;
+    font-size: 0.9em;
+    line-height: 1.42;
+    margin: 0.55rem 0.5rem 0;
+    color: var(--content);
+}
+
+/* ------------------------------------------------------------- equations */
+
+.post-content .equation {
+    display: grid;
+    grid-template-columns: 2.5rem 1fr 2.5rem;
+    align-items: center;
+    margin: 1.15rem 0;
+    text-align: center;
+}
+
+.post-content .equation .eqbody {
+    grid-column: 2;
+    font-style: italic;
+}
+
+.post-content .equation .eqno {
+    grid-column: 3;
+    font-style: normal;
+    text-align: right;
+}
+
+.post-content .equation > table.eqtable {
+    grid-column: 2;
+}
+
+.post-content .equation .eqlead {
+    font-style: italic;
+    text-align: right;
+    padding-right: 0.4em;
+}
+
+/* cases-style equation: a borderless alignment table */
+.post-content table.eqtable,
+.post-content.md-content table.eqtable {
+    width: auto !important;
+    margin: 0 auto !important;
+    border: 0 !important;
+    font-size: 1em;
+}
+
+.post-content table.eqtable td,
+.post-content.md-content table.eqtable td {
+    border: 0 !important;
+    padding: 0.06em 0.5em !important;
+    font-style: italic;
+    text-align: left;
+}
+
+.post-content table.eqtable td.cond {
+    font-style: normal;
+    padding-left: 1.6em !important;
+}
+
+.post-content table.eqtable td.lhs {
+    text-align: right;
+    padding-right: 0.2em !important;
+}
+
+/* Inline code should not look like code in a paper. */
+.post-content code {
+    font-family: "Times New Roman", "Liberation Serif", Times, serif;
+    font-size: 0.97em;
+    background: none;
+    border: 0;
+    padding: 0;
+    font-style: italic;
+}
+
+/* Code blocks keep a monospace face — they carry verbatim commands/code. */
+.post-content pre,
+.post-content pre code,
+.post-content .highlight code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace !important;
+    font-style: normal !important;
+    font-size: 0.85em;
+}
+
+/* ---------------------------------------------------------- references */
+
+.post-content .references {
+    font-size: 0.95em;
+    line-height: 1.4;
+}
+
+.post-content .references ol {
+    padding-inline-start: 1.6rem;
+}
+
+/* ------------------------------------------------------------------ print */
+
+@media print {
+    .header,
+    .footer,
+    .top-link,
+    .post-header .post-meta,
+    #signin-btn {
+        display: none !important;
+    }
+
+    .post-single {
+        max-width: none;
+    }
+}

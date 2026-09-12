@@ -12,6 +12,11 @@ description = "Learn English with podcasts — tap any sentence to play from tha
 [markup]
   [markup.highlight]
     style = "monokai"
+  # The AFSI demo pages need a little hand-written markup (table captions,
+  # display equations). Only those pages use raw HTML; every other page is
+  # plain Markdown, so their rendering is unchanged.
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [params]
   defaultTheme = "auto"

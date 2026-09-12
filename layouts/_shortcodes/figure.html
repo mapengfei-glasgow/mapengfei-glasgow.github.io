@@ -1,0 +1,14 @@
+{{- /* Hugo's built-in figure shortcode, with the image loaded eagerly.
+       The AFSI demo pages show a handful of small result figures that belong in
+       the reading flow (and in print), so they should not pop in while
+       scrolling. Everything else follows the built-in behaviour: optional
+       link/target/rel, alt text, and a plain-text caption from `title`. */ -}}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+    {{- with .Get "link" }}<a href="{{ . }}"{{ with $.Get "target" }} target="{{ . }}"{{ end }}{{ with $.Get "rel" }} rel="{{ . }}"{{ end }}>{{ end -}}
+    <img src="{{ .Get "src" }}" loading="eager" decoding="async"
+        {{- with .Get "alt" }} alt="{{ . }}"{{ else }} alt=""{{ end -}}
+        {{- with .Get "width" }} width="{{ . }}"{{ end -}}
+        {{- with .Get "height" }} height="{{ . }}"{{ end -}}>
+    {{- if .Get "link" }}</a>{{ end -}}
+    {{- with .Get "title" }}<figcaption>{{ . }}</figcaption>{{ end -}}
+</figure>
