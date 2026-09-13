@@ -62,6 +62,8 @@ python main.py             # or: mpirun -n <N> python main.py
 
 ## 5. Results and notes
 
+{{< figure src="/afsi/demo402-results.png" title="Figure 2. A 40 000-step run at $88 \times 17$ on the reduced grid, taken to $t = 2$ s (the ramp is complete): the flag tip jumps to a deflected state at $t \approx 0.55$ s and then holds, while the flow is still filling the channel. The published case runs ten times longer on a $220 \times 41$ grid." >}}
+
 **No results are archived**: the directory holds only the five source files,
 `turek_mesh.xdmf` is not shipped, and the configured output root
 `~/afsi-data/` does not exist here, so nothing from a run is stored. The readme

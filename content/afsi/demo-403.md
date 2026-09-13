@@ -62,6 +62,8 @@ python main.py              # or: mpirun -n 4 python main.py
 
 ## 5. Results and notes
 
+{{< figure src="/afsi/demo403-results.png" title="Figure 2. A 100-step run at $40 \times 16 \times 16$ with the inlet ramp switched off: the plate picks up a displacement of up to $\approx 3$ mm over $0.05$ s (largest away from the clamped base), and the inflow has only reached $x \approx 20$ cm. The published deflection needs seconds of simulated time, which is out of reach at this resolution." >}}
+
 **No results are archived for the beam case.** `plate_mesh.xdmf` is missing, so
 the mesh has to be regenerated, and the readme quotes no outcome values — it only
 lists the configuration.

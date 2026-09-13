@@ -68,6 +68,8 @@ mpirun -np 4 python3 fsi_paralell.py
 
 ## 5. Results and notes
 
+{{< figure src="/afsi/demo405-results.png" title="Figure 2. What the code applies and what it ships: the driver is driven by an inlet velocity, while `PressureEndo.py` — the only luminal-pressure model in the demo — is imported by nothing. Both curves are evaluated from the sources; no run data exists for this demo." >}}
+
 **No results are archived**, and neither is any mesh file: the readme's
 $141\,038$-node vessel mesh, `leaflets_M2_tet.xdmf` and the merged
 `combined_vessel_leaflets.xdmf` are all absent, so neither the merge step nor the
