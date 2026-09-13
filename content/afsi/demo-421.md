@@ -62,8 +62,36 @@ STEPS=100 python main.py   # smoke test
 
 {{< figure src="/afsi/demo421-results.png" title="Figure 2. Marker positions written by the run, and the prescribed circular path." >}}
 
-**No results are archived** — `output/` does not exist and is git-ignored, so the
-fields and `fish_trace.csv` must be regenerated. The readme's default-parameter
+**No results were archived** when these notes were first written — `output/` does
+not exist in the repo and is git-ignored — so the fields and `fish_trace.csv` were
+regenerated for the figures below.
+
+### 5.1 A live run ($T = 1$ s, $N = 140$)
+
+`main.py` was run as shipped except for the fluid resolution, which was lowered to
+$N_x = N_y = 140$ to keep the run short: $1000$ steps at $\Delta t = 0.001$, serial
+(the $\texttt{IBMesh}$ marker map is not MPI-safe), $406\,\mathrm{s}$ of wall time.
+
+{{< figure src="/afsi/demo421-fish-1s.png" title="Figure 3. The tank at $t = 0, 0.2, 0.4, 0.6, 0.8, 1$ s (top) with the fish silhouette from `fish_trace.csv`, and a near-body zoom (bottom). Each undulation cycle leaves a pair of counter-rotating eddies behind the body; the tank itself reacts with a slow return flow, which is what makes this a closed-domain case rather than a towed-fish one." >}}
+
+{{< figure src="/afsi/demo421-path.png" title="Figure 4. Body-centroid path over the run and the net displacement. The tank is 14 body lengths across and one orbit is prescribed to take 37.7 s, so 1 s covers only 2.7 % of the circle." >}}
+
+{{< figure src="/afsi/demo421-pyvista.png" title="Figure 5. The same instant rendered with PyVista: the whole tank and the near-body zoom, from the same mesh." >}}
+
+<p class="tcaption">Table 3. The live run, $N = 140$, $t \le 1$ s.</p>
+
+| Quantity | Value |
+|---|---|
+| Steps / wall time | $1000$, $406$ s serial |
+| Net body travel | $0.0503\,\mathrm{m}$ = $0.50$ body lengths (mostly in $y$) |
+| $\max\lvert u\rvert$ in the tank | $0.19\,\mathrm{m\,s^{-1}}$, against a body length of $0.1\,\mathrm{m}$ and an undulation period of $0.5\,\mathrm{s}$ |
+| Body length / marker count | $0.0992\,\mathrm{m}$ from the traced outline, 240 markers |
+
+The striking feature is how **local** the flow is: the fish is $7\,\%$ of the tank
+across, so almost all of the kinetic energy sits within a body length of the surface
+and the tank-scale motion is a slow return flow. Filling the prescribed 37.7 s orbit
+would need roughly forty times the steps — about five hours at this resolution.
+ The readme's default-parameter
 table is also **stale relative to the code**: it quotes $200$ sections
 ($400$ markers, $\Delta s \approx 0.5\,\mathrm{mm}$) and
 $N_x = N_y = 140$ with $h \approx 0.01\,\mathrm{m}$, while `configuration.py`

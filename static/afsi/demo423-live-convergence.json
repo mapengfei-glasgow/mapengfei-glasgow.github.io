@@ -1,0 +1,120 @@
+{
+  "levels": [
+    16,
+    32,
+    64,
+    128
+  ],
+  "steps": 100,
+  "dt": "1.0e-4",
+  "solver": "chorin",
+  "cell_type": "quadrilateral",
+  "errors": {
+    "16": {
+      "N": 16.0,
+      "Steps": 100.0,
+      "e_v_L2": 5.118252e-05,
+      "e_v_H1": 0.003611198,
+      "e_p_L2": 0.004797548,
+      "max|v|": 0.0002651204,
+      "e_p inner(r<R-2h)": 0.0001564973,
+      "e_p inner4(r<R-4h)": 0.0,
+      "e_p band(|r-R|<2h)": 0.004787678,
+      "e_p outer(r>R+w+2h)": 0.0002648074,
+      "mean p_shift": -9.359375e-17
+    },
+    "32": {
+      "N": 32.0,
+      "Steps": 100.0,
+      "e_v_L2": 1.541352e-05,
+      "e_v_H1": 0.002529701,
+      "e_p_L2": 0.003169119,
+      "max|v|": 0.0001258633,
+      "e_p inner(r<R-2h)": 9.189566e-06,
+      "e_p inner4(r<R-4h)": 0.0,
+      "e_p band(|r-R|<2h)": 0.003169079,
+      "e_p outer(r>R+w+2h)": 1.300032e-05,
+      "mean p_shift": -7.737646e-17
+    },
+    "64": {
+      "N": 64.0,
+      "Steps": 100.0,
+      "e_v_L2": 5.162508e-06,
+      "e_v_H1": 0.00186554,
+      "e_p_L2": 0.003074286,
+      "max|v|": 4.451363e-05,
+      "e_p inner(r<R-2h)": 7.411442e-05,
+      "e_p inner4(r<R-4h)": 4.782712e-07,
+      "e_p band(|r-R|<2h)": 0.003072731,
+      "e_p outer(r>R+w+2h)": 6.375867e-05,
+      "mean p_shift": -9.920873e-18
+    },
+    "128": {
+      "N": 128.0,
+      "Steps": 100.0,
+      "e_v_L2": 1.785389e-06,
+      "e_v_H1": 0.001334797,
+      "e_p_L2": 0.003241767,
+      "max|v|": 1.948292e-05,
+      "e_p inner(r<R-2h)": 0.0003763603,
+      "e_p inner4(r<R-4h)": 3.199783e-06,
+      "e_p band(|r-R|<2h)": 0.003171724,
+      "e_p outer(r>R+w+2h)": 0.0003405799,
+      "mean p_shift": -9.074533e-16
+    }
+  },
+  "orders": {
+    "e_p_L2": [
+      0.5982154070712481,
+      0.04383044894180519,
+      -0.07652901696334452
+    ],
+    "e_p inner(r<R-2h)": [
+      4.089997228492549,
+      -3.011685633006387,
+      -2.344288283299135
+    ],
+    "e_p inner4(r<R-4h)": [
+      NaN,
+      NaN,
+      -2.742073244581265
+    ],
+    "e_p band(|r-R|<2h)": [
+      0.5952625014519964,
+      0.044542151444930275,
+      -0.04574576196696722
+    ],
+    "e_p outer(r>R+w+2h)": [
+      4.348324398165617,
+      -2.2940743998462483,
+      -2.4172998537434927
+    ],
+    "e_v_L2": [
+      1.731454811926435,
+      1.5780523518005862,
+      1.5318336697340629
+    ],
+    "e_v_H1": [
+      0.5135106501099754,
+      0.4393735804700807,
+      0.48297294491854675
+    ],
+    "max|v|": [
+      1.074790009910877,
+      1.499538614750367,
+      1.1920372372144517
+    ]
+  },
+  "seconds": {
+    "16": 4.761000633239746,
+    "32": 5.561482667922974,
+    "64": 9.108664989471436,
+    "128": 40.00013995170593
+  },
+  "stdout": {
+    "16": "[2026-09-14 00:12:06.351] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:06.352] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:06.352] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:06.352] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:06.352] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.749] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.750] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.750] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.750] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.750] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.770] [info] Opened HDF5 file with id \"72057594037927941\"\n[2026-09-14 00:12:07.771] [info] Opened HDF5 file with id \"72057594037927942\"\n[2026-09-14 00:12:07.771] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:12:07.771] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:12:07.771] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:12:07.771] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:12:07.771] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:12:07.771] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:12:07.771] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:07.772] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n============================================================\nN=16, M=2, force_scale=1.0\nSteps=100, dt=0.0001, T=0.01\ne_v_L2 = 5.118252e-05\ne_v_H1 = 3.611198e-03\ne_p_L2 = 4.797548e-03\nmax|v| = 2.651204e-04\np range (zero mean): -5.938720e-02, 1.732843e-01\ne_p inner(r<R-2h) = 1.564973e-04\ne_p inner4(r<R-4h) = 0.000000e+00, RMS = 0.000000e+00\ne_p band(|r-R|<2h) = 4.787678e-03\ne_p outer(r>R+w+2h) = 2.648074e-04\narea inner/band/outer = 5.078125e-02/5.507813e-01/3.984375e-01\nRMS inner/band/outer = 6.944729e-04/6.451123e-03/4.195174e-04\nmean p_shift = -9.359375e-17, mean p_exact = -4.332057e-04\n============================================================\n",
+    "32": "[2026-09-14 00:12:11.187] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:11.187] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:11.188] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:11.188] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:11.188] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.873] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.874] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.874] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.874] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.874] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.894] [info] Opened HDF5 file with id \"72057594037927941\"\n[2026-09-14 00:12:14.894] [info] Opened HDF5 file with id \"72057594037927942\"\n[2026-09-14 00:12:14.894] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:12:14.894] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:12:14.894] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:12:14.895] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:12:14.895] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:12:14.895] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:12:14.895] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:14.895] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n============================================================\nN=32, M=4, force_scale=1.0\nSteps=100, dt=0.0001, T=0.01\ne_v_L2 = 1.541352e-05\ne_v_H1 = 2.529701e-03\ne_p_L2 = 3.169119e-03\nmax|v| = 1.258633e-04\np range (zero mean): -5.605154e-02, 1.685391e-01\ne_p inner(r<R-2h) = 9.189566e-06\ne_p inner4(r<R-4h) = 0.000000e+00, RMS = 0.000000e+00\ne_p band(|r-R|<2h) = 3.169079e-03\ne_p outer(r>R+w+2h) = 1.300032e-05\narea inner/band/outer = 1.103516e-01/3.339844e-01/5.556641e-01\nRMS inner/band/outer = 2.766341e-05/5.483654e-03/1.744005e-05\nmean p_shift = -7.737646e-17, mean p_exact = -2.188710e-05\n============================================================\n",
+    "64": "[2026-09-14 00:12:16.811] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:16.811] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:16.811] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:16.812] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:16.812] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:23.981] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:23.982] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:23.982] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:23.982] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:23.982] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:24.005] [info] Opened HDF5 file with id \"72057594037927941\"\n[2026-09-14 00:12:24.005] [info] Opened HDF5 file with id \"72057594037927942\"\n[2026-09-14 00:12:24.005] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:12:24.005] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:12:24.005] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:12:24.006] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:12:24.006] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:12:24.006] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:12:24.006] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:24.006] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n============================================================\nN=64, M=8, force_scale=1.0\nSteps=100, dt=0.0001, T=0.01\ne_v_L2 = 5.162508e-06\ne_v_H1 = 1.865540e-03\ne_p_L2 = 3.074286e-03\nmax|v| = 4.451363e-05\np range (zero mean): -5.521725e-02, 1.679271e-01\ne_p inner(r<R-2h) = 7.411442e-05\ne_p inner4(r<R-4h) = 4.782712e-07, RMS = 2.148356e-06\ne_p band(|r-R|<2h) = 3.072731e-03\ne_p outer(r>R+w+2h) = 6.375867e-05\narea inner/band/outer = 1.503906e-01/2.209473e-01/6.286621e-01\nRMS inner/band/outer = 1.911139e-04/6.537026e-03/8.041380e-05\nmean p_shift = -9.920873e-18, mean p_exact = -8.468918e-06\n============================================================\n",
+    "128": "[2026-09-14 00:12:26.493] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:26.494] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:26.495] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:26.495] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:12:26.495] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.392] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.393] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.394] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.394] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.394] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.432] [info] Opened HDF5 file with id \"72057594037927941\"\n[2026-09-14 00:13:02.432] [info] Opened HDF5 file with id \"72057594037927942\"\n[2026-09-14 00:13:02.432] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:13:02.432] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:13:02.433] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:13:02.433] [info] Adding mesh to node \"/Xdmf/Domain\"\n[2026-09-14 00:13:02.433] [info] Adding topology data to node /Xdmf/Domain/Grid\n[2026-09-14 00:13:02.433] [info] Adding geometry data to node \"/Xdmf/Domain/Grid\"\n[2026-09-14 00:13:02.434] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n[2026-09-14 00:13:02.434] [info] Adding function to node \"/Xdmf/Domain/Grid/Grid\"\n============================================================\nN=128, M=16, force_scale=1.0\nSteps=100, dt=0.0001, T=0.01\ne_v_L2 = 1.785389e-06\ne_v_H1 = 1.334797e-03\ne_p_L2 = 3.241767e-03\nmax|v| = 1.948292e-05\np range (zero mean): -5.522825e-02, 1.679207e-01\ne_p inner(r<R-2h) = 3.763603e-04\ne_p inner4(r<R-4h) = 3.199783e-06, RMS = 9.632328e-06\ne_p band(|r-R|<2h) = 3.171724e-03\ne_p outer(r>R+w+2h) = 3.405799e-04\narea inner/band/outer = 1.726685e-01/1.104736e-01/6.616821e-01\nRMS inner/band/outer = 9.057271e-04/9.542586e-03/4.186916e-04\nmean p_shift = -9.074533e-16, mean p_exact = 1.287480e-06\n============================================================\n"
+  }
+}

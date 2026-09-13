@@ -87,6 +87,38 @@ Archived results are the short-run summary and the numbers in the readmes:
 | Quasi-steady wake ($t > 6\,\mathrm{s}$, mdf) | $\mathrm{Cd} \approx 2.53$, $\mathrm{St} \approx 0.52$ against the reference $\mathrm{Cd} \approx 5.57$, $\mathrm{St} \approx 0.3$ | `4-multi-direct-forcing/readme.md:161-171` |
 | Body-fitted, $10\,\mathrm{s}$ | wake spikes to $-5811\,\mathrm{m\,s^{-1}}$, Cd spikes to $10^{91}$ after $t > 6.8\,\mathrm{s}$ | `4-multi-direct-forcing/readme.md:175-180` |
 
+### 5.1 A live run of the multi-direct-forcing case ($T = 5$ s)
+
+The case was re-run as shipped (`4-multi-direct-forcing`, $220\times41$, $\Delta t=0.001$,
+$n_{iter}=10$, boundary-ring markers with the interior mask) for $5000$ steps, i.e.
+$t \le 5\,\mathrm{s}$ — serial, because the $\texttt{IBMesh}$ marker map is not
+MPI-safe ($mpirun$ dies with a broadcast shape error). It took $812\,\mathrm{s}$.
+
+{{< figure src="/afsi/demo339-cylinder-5s.png" title="Figure 4. The re-run: velocity magnitude with streamlines (top) and pressure (bottom, symlog) at $t = 0,1,2,3,4,5$ s, with the immersed cylinder drawn in black. The wake grows to a steady recirculation and then stops changing." >}}
+
+{{< figure src="/afsi/demo339-forces.png" title="Figure 5. Drag and lift from the re-run. $C_d$ rises to a plateau of $2.527$ by $t \approx 2$ s and stays flat to five digits; the lift is a weak but clean sinusoid." >}}
+
+{{< figure src="/afsi/demo339-pyvista.png" title="Figure 6. The same instant rendered with PyVista: the channel mesh with the immersed cylinder overlaid, velocity on the left and pressure on the right." >}}
+
+<p class="tcaption">Table 3. The re-run's late window ($t > 2.5$ s).</p>
+
+| Quantity | Value |
+|---|---|
+| $C_d$ | $2.5274$ (range $2.5270$–$2.5299$, std $6.8\times10^{-4}$) |
+| $C_l$ | $-0.0528$ (std $8.0\times10^{-4}$) |
+| Lift period (late window) | $0.380$ s, i.e. $\mathrm{St} = fD/U_m = 0.26$ |
+| Field | $\max\lvert u\rvert = 2.09\,\mathrm{m\,s^{-1}}$ against an inlet peak of $1.5$ |
+
+The re-run reaches $C_d = 2.53$, the same value the readme records for the $10$ s run,
+so the force integral is reproducible at fixed resolution. What it does **not** show
+is a vortex street: the lift amplitude is $1.5\,\%$ of $\lvert C_l\rvert$ and the flow
+settles into a steady wake. That is consistent with the geometry — the cylinder
+($r = 0.05$) blocks a quarter of the $0.41$-wide channel and sits only $2.6$ diameters
+from the inlet — rather than with the unbounded DFG 2D-3 benchmark, whose reference
+values ($C_d \approx 3.22$, $\mathrm{St} \approx 0.30$) this configuration does not
+reproduce quantitatively. The readme's caveat about the missing density factor in
+$C_d$ (even though $\rho = 1000$ is set) applies here too.
+
 The readme's own conclusion is that the **velocity field converges but the
 volume-force-integral drag does not**: marker volumes sum to $2\pi r h \propto h$,
 so $\mathrm{Cd}$ from $\int \mathbf{f}_{\mathrm{IB}}\,\mathrm{d}V$ is

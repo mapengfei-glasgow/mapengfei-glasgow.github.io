@@ -115,6 +115,37 @@ A full refinement study is scripted rather than archived. `convergence.py` runs
 order $p = \log(e_N / e_{2N}) / \log 2$ for every error measure printed by
 `main.py`.
 
+### 5.1 The refinement study, run
+
+That study was executed here for $N = 16, 32, 64, 128$ ($100$ steps,
+$\Delta t = 10^{-4}$, Chorin), which takes $60\,\mathrm{s}$ in total. Reproducing
+the $N = 32$ row of Table 2 to five digits confirms the archived numbers:
+
+<p class="tcaption">Table 3. The live refinement study, against the archived rows of Table 2.</p>
+
+| $N$ | $e_p$ whole domain | $e_p$ inner | $e_p$ fibre band | $\lVert v\rVert_{L^2}$ (exact $v = 0$) |
+|---|---|---|---|---|
+| $16$ | $4.798\times10^{-3}$ | $1.565\times10^{-4}$ | $4.788\times10^{-3}$ | $5.118\times10^{-5}$ |
+| $32$ | $3.169\times10^{-3}$ | $9.190\times10^{-6}$ | $3.169\times10^{-3}$ | $1.541\times10^{-5}$ |
+| $64$ | $3.074\times10^{-3}$ | $7.411\times10^{-5}$ | $3.073\times10^{-3}$ | $5.163\times10^{-6}$ |
+| $128$ | $3.242\times10^{-3}$ | $3.764\times10^{-4}$ | $3.172\times10^{-3}$ | $1.785\times10^{-6}$ |
+
+{{< figure src="/afsi/demo423-live-conv-pyvista.png" title="Figure 4. Pressure error against the exact solution at three levels, rendered with PyVista on the fluid mesh. The scattered error of the coarse grids collapses onto the immersed-boundary band as $N$ grows." >}}
+
+{{< figure src="/afsi/demo423-live-convergence.png" title="Figure 5. Left: the radial pressure profile along $y = 0.5$ at the three levels, against the exact solution — the plateau and the far field are captured immediately, while the fibre band is smoothed over $\pm 2h$. Right: the band error barely improves (RMS $7.4 \to 4.0 \to 3.4\times10^{-3}$), which is the interface-resolution limit rather than a solver error." >}}
+
+{{< figure src="/afsi/demo423-live-ring.png" title="Figure 6. The $N = 32$ solution in full: fluid velocity with streamlines, numerical pressure, the closed-form pressure, and the difference. All four panels share the same colour limits where they are comparable." >}}
+
+The observed orders quantify the two regimes: the **velocity** converges cleanly
+($\lVert v\rVert_{L^2}$ orders $1.73$, $1.58$, $1.53$ — close to second order, and
+$\max\lvert v\rvert$ is already $10^{-5}\,\mathrm{m\,s^{-1}}$), while the
+**pressure error is stuck at the interface**: the whole-domain order is $0.60$,
+$0.04$, $-0.08$ because $e_p$ is dominated by the fibre band, whose value stays near
+$3\times10^{-3}\,\mathrm{Pa}$ from $N = 32$ onward. Note also that the inner-region
+error is **not** monotone ($1.6\times10^{-4}$, $9.2\times10^{-6}$,
+$7.4\times10^{-5}$, $3.8\times10^{-4}$) — it is a small difference of large numbers,
+so its apparent order should not be read as a convergence rate.
+
 ## 6. Reproducibility
 
 ```bash
