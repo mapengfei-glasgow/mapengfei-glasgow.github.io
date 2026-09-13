@@ -55,8 +55,8 @@ $T = \text{STEPS}\cdot\Delta t$; `STEPS=20` is the documented smoke test).
 ```bash
 conda activate afsi-dolfinx
 cd afsic/demo/demo_340
-python generate_mesh.py          # first run only
-python main.py                   # full T = 3 s
+python generate_mesh.py          # first run only (needs gmsh / python-gmsh)
+mpirun -n 8 python main.py       # full T = 3 s; ~12 min on 8 ranks, ~7 h serial
 
 cd plot && python plot_1.py      # comparison figure
 python plot_2.py                 # fibre-angle figure
@@ -103,3 +103,49 @@ Caveats:
   earlier version.
 * `main.py` calls SwanLab unconditionally, and `generate_mesh.py` never calls
   `gmsh.finalize()`.
+
+## 6. Re-running the $45^\circ$ case for the full $T = 3$ s
+
+The archived series was regenerated end to end: `generate_mesh.py` (572 nodes, 848
+triangles, tag offsets 0 and 10) followed by the full $48\,000$ steps at
+$\Delta t = 1/16\,000$ s, driven by the pulsatile inlet
+$5(\sin 2\pi t + 1.1)\,y\,(L_y - y)$. Two practical notes from the run:
+
+* **Run it with MPI.** The same 200 steps cost $125$ s on one rank and $7$ s on
+  eight — a serial `main.py` would need roughly seven hours for $T = 3$ s, while
+  eight ranks finish it in **12 minutes**. The per-step probe hook below was added
+  because the archived comparison needs the trace at every step rather than at the
+  `fps = 100` output rate.
+* **`gmsh` is a separate install** (`python-gmsh`); without it `generate_mesh.py`
+  cannot run, and `main.py` reads `plot/mesh-340.xdmf` unconditionally.
+* `OUTPUT_PATH` and `PROBE_TRACE` environment overrides were added to `main.py`
+  (the former so a run does not have to write into the demo tree, the latter to
+  dump the probe trace to CSV per step).
+
+{{< figure src="/afsi/demo340-valve-3s.png" title="Figure 3. The re-run at 0, 0.25, 0.5, 0.75, 1, 1.25, 1.5, 2 and 3 s. Top: the whole 8 x 1.61 channel (dashed box = the zoom below). Middle: the valve region with streamlines — the leaflets are shaded by their own displacement. Bottom: the two leaflets alone, dotted lines marking the undeformed positions. The leaflets are pushed downstream as the inlet rises and spring back as it falls." >}}
+
+{{< figure src="/afsi/demo340-history.png" title="Figure 4. Leaflet-tip displacement against the published curves: Ryan et al. M2/M3, Kamensky et al., the archived AFSI 45-degree series (thick grey) and this run (thin red), plus the inlet waveform with the snapshot times marked. This run is indistinguishable from the archive at this scale." >}}
+
+<p class="tcaption">Table 3. This run ($45^\circ$, $T = 3$ s) against the archived AFSI series and the reference curves.</p>
+
+| Quantity | Value |
+|---|---|
+| Steps / wall time | $48\,000$ steps, $707$ s on 8 MPI ranks |
+| Tip $x$-displacement | ranges $0.00015 \to 0.6015$; peak at $t \approx 1.25$ s |
+| Tip $y$-displacement | ranges $0.000 \to 0.4476$; peak at $t \approx 1.25$ s |
+| Whole-leaflet $\max \vert u_s \vert$ | $0.7515$ m, against a leaflet length of $0.7$ |
+| Agreement with the archived AFSI $45^\circ$ series | $\max$ difference $3.7\times10^{-4}$ on a $0.6014$ signal (0.06 %) |
+| Cycle-to-cycle repeat | $x$ at $t = 0.25$ s vs $t = 2.25$ s: $0.5942$ vs $0.6013$ (1.2 %), i.e. still creeping toward the periodic state |
+| Versus the literature band | this run sits $\sim 8$ % above Ryan M2/M3 and Kamensky in $x$ and up to $\sim 18$ % in $y$ — the same offset the archived AFSI series shows |
+
+Raw per-step probe trace: `static/afsi/demo340-run/probe45-tip-displacement.csv.gz`
+($48\,000$ rows), figures from `static/afsi/demo340-make_valve_figures.py`.
+
+The deflection is **quasi-steady**: the tip tracks the inlet waveform with no
+visible phase lag, peaking as the inlet peaks ($t \approx 0.25$ s into each
+cycle) and returning to a small residual as the inlet dips. The leaflets swing
+apart rather than toward each other — the free gap between the tips widens from
+$0.21$ (undeformed) up to $1.08$ at the peak, and narrows back to $0.50$ at the
+trough, i.e. it stays between $31\,\%$ and $67\,\%$ of $L_y$. The highest speeds
+in the field ($\sim 9.2$ m/s, against an inlet peak of $10.5$ m/s) sit at
+$x \approx 2.7$, just downstream of the leaflets, rather than at the inlet.
