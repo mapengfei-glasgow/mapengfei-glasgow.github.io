@@ -61,6 +61,41 @@ python main.py              # or: mpirun -n <N> python main.py
 
 ## 5. Results and notes
 
+### 5.1 A live run ($t \le 1$ s), and where it breaks
+
+The directory has no offline entry point, so it was run through a small harness that
+replaces `swanlab_init`/`swanlab_upload` with a no-op and a CSV logger — the same
+approach `demo_339/_short_run/run_compare.py` uses. Two further fixes were needed
+before it would start at all: `generate_mesh.py` imports `gmshio` from `dolfinx.io`
+(renamed `dolfinx.io.gmsh` in 0.10), and `main.py` hard-codes `./turtle_mesh.xdmf`.
+`STEPS` is now honoured as well. The run itself: $20000$ steps at $\Delta t = 5\times10^{-5}$
+($t \le 1$ s of the $2$ s load period) on a $128\times64$ grid, **2321 s** serial.
+
+{{< figure src="/afsi/demo400-turtle-1s.png" title="Figure 3. The re-run at $t = 0, 0.1, 0.2, 0.35, 0.5, 0.75, 1$ s. Top: fluid velocity, which organises into four lobes around the flapping limbs. Bottom: pressure, which is a dipole across the body. The black outline is the deformed turtle mesh, drawn from `solid_coords_io`." >}}
+
+{{< figure src="/afsi/demo400-history.png" title="Figure 4. The three diagnostics that matter. Left: the largest fluid velocity, on a log scale — it tracks the pressure ramp up to $t \approx 0.4$ s and then runs away to 28 m/s. Middle: the limb deflection (±0.6 m). Right: the applied follower pressure." >}}
+
+<p class="tcaption">Table 2. The live run.</p>
+
+| Quantity | Value |
+|---|---|
+| Steps / wall time | $20000$ steps, $2321$ s serial |
+| Load | follower pressure on tags 16/17, fast-open waveform of period 2 s, peak 100 at $t = 0.2$ s |
+| Inlet | **zero for the whole run** — `Um` $= 0.0$ *and* the inlet `DirichletBC` is never passed to the solver, so every motion in the fluid comes from the deforming body |
+| Fluid velocity | $1.2\,\mathrm{m\,s^{-1}}$ at $t = 0.35$ s, $28\,\mathrm{m\,s^{-1}}$ at $t = 1$ s |
+| Limb deflection | $+0.60 / -0.60\,\mathrm{m}$ in $y$, against a body height of $33.8$ |
+| Volume | $319.93 \to 319.78$, i.e. $0.05\,\%$ compression |
+
+**The first four snapshots are usable; the rest are not.** Up to $t \approx 0.4$ s the
+response is physical and worth looking at: the pressure dipole across the body, the
+four-lobe velocity pattern around the limbs, and the limbs deflecting by about 1.8 % of
+the body height. Beyond that the solver runs away — by $t = 1$ s the fluid reaches
+$28\,\mathrm{m\,s^{-1}}$ while the limb tips are moving at only $\approx 10^{-3}\,\mathrm{m\,s^{-1}}$,
+a factor of $10^{4}$ larger than the kinematics can explain. That is the explicit
+IB-FE coupling losing stability, not a physical result, and it happens well inside the
+first load period. Running the documented 30 s / 600000 steps will need a smaller
+$\Delta t$, sub-iterated coupling, or both.
+
 {{< figure src="/afsi/demo400-results.png" title="Figure 2. The smoke run at $64 \times 32$ for 400 steps with the turtle outline overlaid, and the follower-pressure waveform the driver applies." >}}
 
 **No results are archived**: the directory has no `.xdmf`, `.h5`, `.csv`, `.json`

@@ -38,8 +38,8 @@ errors, refinement orders and figures.
 | [`demo_336`](/afsi/demo-336/) | Disc carried by a lid-driven cavity, three couplings (IB-FE, rigid and elastic direct forcing) | Back-effect and viscosity-comparison tables recorded; two result figures |
 | [`demo_339`](/afsi/demo-339/) | Flow past a cylinder, four ways (DFG 2D-3, $\mathrm{Re} = 100$) | Short-run comparison archived; drag-coefficient grid-dependence study; **live $T = 5$ s field snapshots** |
 | [`demo_340`](/afsi/demo-340/) | 2-D ideal valve, fibre-reinforced (FRH) leaflets at $45^\circ/60^\circ/75^\circ$ | Probe series archived and compared with Ryan et al. and Kamensky et al.; **full $T = 3$ s re-run** reproduced to $4\times10^{-4}$ |
-| [`demo_343`](/afsi/demo-343/) | Two compliant discs transported through the ideal valve | Configuration only; no results archived |
-| [`demo_400`](/afsi/demo-400/) | Turtle outline under a periodic follower pressure | Configuration only; inlet condition and geometry files need attention |
+| [`demo_343`](/afsi/demo-343/) | Two compliant discs transported through the ideal valve | **Live $t \le 0.2$ s run** at the shipped $320\times64$ resolution: leaflets open into a nozzle, discs carried downstream |
+| [`demo_400`](/afsi/demo-400/) | Turtle outline under a periodic follower pressure | **Live $t \le 1$ s run**: physical four-lobe flow to $t\approx0.4$ s, then the explicit coupling diverges |
 | [`demo_402`](/afsi/demo-402/) | Turek FSI2 — cylinder with a flexible flag | Configuration only; several readme/code conflicts flagged |
 | [`demo_421`](/afsi/demo-421/) | Fish swimming around a circular tank (DFIBMFoam port) | IBM kernel origin bug documented; **live $T = 1$ s run** with the shed vortex pair and body path |
 | [`demo_423`](/afsi/demo-423/) | Immersed anisotropic annulus at static equilibrium | **Full verification write-up** against the analytic pressure, now including the **executed refinement study** ($N = 16\ldots128$) |
@@ -72,7 +72,8 @@ CASE=open NY=45 python generate_mesh.py && CASE=open NY=45 python main.py
 The field figures scattered through these pages come from two scripts:
 `static/afsi/demo-fields-pyvista.py` (PyVista field panels for `demo_339`,
 `demo_421` and `demo_423`) and `static/afsi/demo336-make_figures.py`,
-`static/afsi/demo340-make_valve_figures.py` for the other two. They read the
+`static/afsi/demo340-make_valve_figures.py` and `static/afsi/demo-figs-343-400.py`
+for the other four. They read the
 dolfinx XDMF/HDF5 with `xml.etree` + `h5py` because VTK's `XdmfReader` cannot open
 this 2-D output in this environment — it reports
 `XDMF Error ... Can't Open Dataset` and then the process dumps core — and hand the

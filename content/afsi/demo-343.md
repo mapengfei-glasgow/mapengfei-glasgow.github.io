@@ -69,6 +69,33 @@ cd plot && python plot_centerline.py
 
 ## 5. Results and notes
 
+### 5.1 A live run of the `CIRCLE=1` case ($t \le 0.2$ s)
+
+The case was run at its shipped resolution ($320\times64$ fluid, $\Delta t = 1/64000$)
+with `CIRCLE=1`, cutting the $192000$ steps of the full $T = 3$ s down to $12800$
+(that is $t \le 0.2$ s), serially — the $\texttt{IBMesh}$ marker map is not MPI-safe.
+It took $3850$ s, or $0.30\,\mathrm{s}$ per step.
+
+{{< figure src="/afsi/demo343-valve-discs.png" title="Figure 3. The re-run: velocity magnitude with the solids shaded by their own displacement (top: whole channel, bottom: the valve region). The leaflets swing open as the inlet rises, forming an asymmetric nozzle, while the two discs are carried downstream." >}}
+
+{{< figure src="/afsi/demo343-displacement.png" title="Figure 4. Solid displacement over the run. The maximum grows steadily with the pressure load; the discs are 100x softer than the leaflets, so they dominate it." >}}
+
+<p class="tcaption">Table 2. The live run.</p>
+
+| Quantity | Value |
+|---|---|
+| Steps / wall time | $12800$ steps, $3850$ s serial ($0.30\,\mathrm{s}$/step) |
+| $u_{L2}$ | grows monotonically $73 \to 297$ (the inlet forcing is still ramping up to its $t = 0.25$ s peak) |
+| Field | $\max\lvert u\rvert = 8.05\,\mathrm{m\,s^{-1}}$ |
+| Solid $\max\lvert u_s\rvert$ | $0.824\,\mathrm{m}$ — carried by the soft discs, not the leaflets |
+| Leaflet opening | the two tips separate and bend downstream from $t \approx 40$ ms, reaching a nozzle-like shape by $t = 200$ ms |
+
+Note on the output cadence: `TimeManager` derives its write interval from
+$T/(\mathrm{fps}\,T)$, so with `STEPS` overriding `num_steps` but not `T` it writes
+**every step**. `main.py` now builds the `TimeManager` from
+$\texttt{num\_steps}\cdot\Delta t$. Running the full $T = 3$ s at this resolution needs
+$192000$ steps, about 16 h serial.
+
 {{< figure src="/afsi/demo343-results.png" title="Figure 2. The demo's own post-processing after 500 steps (both `CIRCLE` settings): the centreline at the two disc heights. The two runs differ only near the discs, which is what the `CIRCLE=0` control was meant to expose — it removes the constitutive force but leaves the markers coupled." >}}
 
 **No results are archived** for this demo — neither the fields, nor the
