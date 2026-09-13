@@ -50,7 +50,7 @@ errors, refinement orders and figures.
 | Demo | Problem | State |
 |---|---|---|
 | [`demo_337`](/afsi/demo-337/) | Idealised left ventricle under a physiological pressure load | MPI scaling tables and reference displacements archived |
-| [`demo_341`](/afsi/demo-341/) | Sphere carried through a cubic cavity, NS against FSI | Configuration only; inlet/wall marking needs checking |
+| [`demo_341`](/afsi/demo-341/) | Sphere carried through a cubic cavity, NS against FSI | **Live 3-D run** at $GRID = 16$ to $t = 1$ s: PyVista scene, sphere trajectory and the three centreline profiles |
 | [`demo_401`](/afsi/demo-401/) | Sperm-cell solid geometry and mesh | Pre-processing only — no solver in the directory |
 | [`demo_403`](/afsi/demo-403/) | Elastic plate in cross flow (Tuković §4.5) | Configuration only; the `plot/` artefacts belong to the 2-D valve |
 | [`demo_405`](/afsi/demo-405/) | Vessel-wall FSI with merged leaflets | Configuration only; meshes and the pressure model are missing |

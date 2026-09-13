@@ -66,6 +66,47 @@ cd plot && python plot_lines.py              # line_*.csv / line_*.png
 
 ## 5. Results and notes
 
+### 5.1 A live run ($GRID = 16$, 200 steps, $t = 1$ s)
+
+The case was run as shipped except for two environment overrides added here
+(`OUTPUT_PATH`, `MESH_341`) and a copy of the driver with the SwanLab calls replaced
+by a CSV logger. It is **serial only** — like the 2-D IBM demos, the marker map is
+not MPI-safe. Cost on this machine:
+
+| Grid | cells | per step | source |
+|---|---|---|---|
+| $8^3$ | $512$ | $1.1\,\mathrm{s}$ | measured |
+| $16^3$ | $4096$ | $2.8\,\mathrm{s}$ | measured |
+| $32^3$ | $32768$ | $\approx 12\,\mathrm{s}$ | readme (extrapolates as $\approx N^{5}$: $N^3$ for the fluid solve times $N^2$ markers in the IBM loop) |
+
+So the $200$-step run to $t = 1$ s at $GRID = 16$ takes $479\,\mathrm{s}$; the same run
+at $GRID = 32$ would take about $40$ minutes, and the readme's default $T = 10$ s
+(2000 steps) would be $6.7$ hours at $GRID = 16$ and $\approx 27$ hours at $GRID = 32$.
+
+{{< figure src="/afsi/demo341-3d-scene.png" title="Figure 3. The $t = 1$ s state, rendered with PyVista. Top left: the cavity boundary coloured by speed — the lid at $y = 1$ carries $|u| = 1$, the four side walls the return flow and the floor none. Top right: the octant mesh and the immersed sphere, which spans a quarter of the cavity. Bottom left: streamlines seeded on a disc just upstream of the sphere; they wrap round its shoulder and rejoin the primary vortex. Bottom right: the tetrahedral sphere coloured by nodal displacement." >}}
+
+{{< figure src="/afsi/demo341-trajectory.png" title="Figure 4. The sphere over the run. It starts at $(0.6, 0.5, 0.5)$ and drifts to $(0.528, 0.492, 0.500)$ — 0.073 m, or 0.37 radii — while its nodes move up to $0.107$, more than half a radius, so the sphere is being carried and deformed rather than simply translated. The drift is in $-x$, opposite the lid motion, which is the return branch of the primary vortex." >}}
+
+{{< figure src="/afsi/demo341-centerlines.png" title="Figure 5. The three centreline profiles at $t = 1$ s, in the form `plot/plot_lines.py` extracts them. The shaded band is the sphere's span; markers inside it are the nodes the immersed boundary overwrites, which is why they must be excluded before comparing with a body-fitted reference." >}}
+
+<p class="tcaption">Table 2. The live run.</p>
+
+| Quantity | Value |
+|---|---|
+| Steps / wall time | $200$ steps at $GRID = 16$, $479\,\mathrm{s}$ serial |
+| $u_{L2}$ | $0 \to 0.0411$, still growing at $t = 1$ s (the cavity takes several seconds to reach its steady state) |
+| $p_{L2}$ | settles at $5.6\times10^{-3}$ after $t \approx 0.4$ s |
+| Boundary speeds | lid mean $0.78$ (perturbed near the sphere), floor $1.6\times10^{-18}$ |
+| Sphere | centroid travel $0.073$, $\max\lvert u_s\rvert = 0.107$ against a radius of $0.2$ |
+| $u_z$ on the $z$-line | $\le 2.5\times10^{-3}$ — the flow stays essentially two-component in the mid-planes |
+
+Two notes on reading these. The case is a **lid-driven cavity**, not an inlet problem:
+the driver is internally consistent (the moving lid is `marker_up` $= y = 1$ with
+$u_x = 1$, every other face no-slip), so the readme's "inlet" wording is the
+mislabel, and no run is needed to resolve it. And the sphere reaches only $t = 1$ s
+of the $10$ s the readme suggests, so the wake is still developing — Figure 5 is the
+$t = 1$ s state that `plot_lines.py` is written for.
+
 {{< figure src="/afsi/demo341-results.png" title="Figure 2. The demo's own post-processing at $GRID = 8$ after 20 steps: the three centrelines with and without the sphere." >}}
 
 **No run outputs are archived** for this demo: the directory holds only the five
