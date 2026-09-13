@@ -19,6 +19,8 @@ $32^3$ and $64^3$ grids.
 Legacy variants (`fsi_paralell*.py`) add fibre families (Guccione) and active
 contraction; the readme labels them as reference versions.
 
+{{< figure src="/afsi/demo337-setup.png" title="Figure 1. The idealised ventricle: endocardial and epicardial ellipsoids, the penalty-held base ring, and the endocardial pressure load. Drawn from the radii recorded in the demo." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Main-run parameters (`configuration.py`, consumed by `main.py`).</p>
@@ -74,6 +76,8 @@ python middle_wall_location.py    # -> ../reference/ideal_middle_wall.txt
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo337-results.png" title="Figure 2. Archived data: strong scaling from `data/32x32x32.csv` and `data/64x64x64.csv`, and the end-diastolic mid-wall line against the `pulse-fenicsx` reference, plotted the way `plot_diastole.py` does." >}}
 
 The archived numbers are the MPI scaling tables ($32^3$: $1 \to 160$ processes,
 wall time $1278.7\,\mathrm{s} \to 61.8\,\mathrm{s}$, speed-up $21.1$; $64^3$:

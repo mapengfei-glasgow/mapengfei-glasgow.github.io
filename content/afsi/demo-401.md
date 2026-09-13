@@ -19,6 +19,8 @@ The interesting part is the construction: the sphere and the three coaxial
 cylinders are combined with `occ.fragment`, so the segment interfaces stay
 conformal and each lateral surface can be tagged separately.
 
+{{< figure src="/afsi/demo401-setup.png" title="Figure 1. The solid geometry and its physical groups, drawn to scale from `a.py`." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Geometry and mesh parameters (`a.py`). The body is a single volume, tag $1$.</p>
@@ -57,6 +59,8 @@ python generate_mesh.py    # sperm3d.msh -> sperm-2.xdmf/.h5
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo401-mesh.png" title="Figure 2. The mesh that `a.py` writes: mid-plane nodes of the generated solid and the node distribution around the body axis." >}}
 
 There is nothing to measure yet: no solver runs, no results, and the readme's
 only figure is an external URL. The stored mesh itself reports $3104$ nodes and

@@ -16,6 +16,8 @@ a volumetric penalty spring and the leaflet cells carry the neo-Hookean stress.
 Three entry points exist — merged vessel + leaflets, vessel-only, and a copy named
 for "valves".
 
+{{< figure src="/afsi/demo405-setup.png" title="Figure 1. The vessel cross-section and an axial cut, with the cell tags that separate the wall from the leaflets." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters (`configuration.py`, CGS). The solid mesh itself is not in the repository.</p>

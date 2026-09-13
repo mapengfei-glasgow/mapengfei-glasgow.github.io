@@ -17,6 +17,8 @@ multi-direct-forcing loop. The solver is not `ChorinSolver`: the demo carries it
 own AB2 / semi-implicit fractional-step scheme with a per-iteration force
 accumulation in Python.
 
+{{< figure src="/afsi/demo421-setup.png" title="Figure 1. The closed tank, the prescribed circular path, and the travelling-wave midline of the body." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters (`configuration.py`, SI units). The tank must start at the origin — see the kernel note below.</p>
@@ -57,6 +59,8 @@ STEPS=100 python main.py   # smoke test
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo421-results.png" title="Figure 2. Marker positions written by the run, and the prescribed circular path." >}}
 
 **No results are archived** — `output/` does not exist and is git-ignored, so the
 fields and `fish_trace.csv` must be regenerated. The readme's default-parameter

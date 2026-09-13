@@ -21,6 +21,8 @@ The point of the pair in `multi-direct-frocing*` is the back-effect question: a
 light, soft body carried by the flow produces almost no reaction force on the
 fluid, and the demonstration quantifies that against a solid-free reference.
 
+{{< figure src="/afsi/demo336-setup.png" title="Figure 1. The case: a square cavity with a sliding lid and a disc at $(0.6, 0.5)$." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Common configuration. The cavity must start at the origin: the IBM kernel computes its base node as $X/h$ without subtracting a domain offset.</p>
@@ -84,7 +86,9 @@ RHO_S=50 python main.py        # heavy solid: measurable back-effect
 
 ## 5. Results and notes
 
-{{< figure src="/afsi/demo336-ib-vs-df.png" title="Figure 1. Archived comparison from `multi-direct-frocing-elastic/plot/compare_ib_df64.png`: centroid path, centroid $y(t)$ and top-edge $y(t)$ for the IB run and the direct-forcing runs at two resolutions." >}}
+{{< figure src="/afsi/demo336-results.png" title="Figure 2. Smoke run at $48^2$ for 2 000 steps: the centroid path (barely moved at $t = 0.5$ s) and the drag coefficient; panel (c) is the back-effect table recorded in the readme." >}}
+
+{{< figure src="/afsi/demo336-ib-vs-df.png" title="Figure 3. Archived comparison from `multi-direct-frocing-elastic/plot/compare_ib_df64.png`: centroid path, centroid $y(t)$ and top-edge $y(t)$ for the IB run and the direct-forcing runs at two resolutions." >}}
 
 Numbers archived in the readmes rather than in result files:
 

@@ -14,6 +14,8 @@ advected by the surrounding flow, and a periodic **follower pressure** is applie
 along the spine direction. It is the demo that exercises tag-driven fixation,
 traction that follows the deformed geometry, and a selectable pressure waveform.
 
+{{< figure src="/afsi/demo400-setup.png" title="Figure 1. The turtle outline (drawn from `turtle_solid.geo`), the pinned head and tail facets, and the follower pressure on the limb edges." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters (`configuration.py` and `main.py`). Units are CGS, as in the source.</p>
@@ -58,6 +60,8 @@ python main.py              # or: mpirun -n <N> python main.py
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo400-results.png" title="Figure 2. The smoke run at $64 \times 32$ for 400 steps with the turtle outline overlaid, and the follower-pressure waveform the driver applies." >}}
 
 **No results are archived**: the directory has no `.xdmf`, `.h5`, `.csv`, `.json`
 or image output, and none of the `~/afsi-data/demo-400/...` directories exist.

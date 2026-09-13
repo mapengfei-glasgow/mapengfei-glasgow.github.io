@@ -19,6 +19,8 @@ body can be compared directly:
 | 3 | `3-ibfe/` | an immersed near-rigid neo-Hookean disc ($\mu_s = 7.7\times10^{10}$ Pa) held by a $\beta = 10^{12}$ penalty |
 | 4 | `4-multi-direct-forcing/` | multi-direct forcing with a rigid marker set and interior masking |
 
+{{< figure src="/afsi/demo339-setup.png" title="Figure 1. The DFG 2D-3 channel and the four ways the cylinder is treated." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Shared parameters (SI units). Cases 1, 3 and 4 use the same uniform grid; case 2 replaces it with a Gmsh mesh.</p>
@@ -71,6 +73,10 @@ STEPS=300 python _short_run/run_compare.py all   # offline four-way comparison
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo339-fields.png" title="Figure 2. All four treatments at 300 steps ($t = 0.3$ s), from the short-run harness. The inlet ramp takes 2 s, so the wake is only beginning to form." >}}
+
+{{< figure src="/afsi/demo339-cd.png" title="Figure 3. The drag coefficient from the force integral shrinks with refinement — the effect the readme documents (archived numbers)." >}}
 
 Archived results are the short-run summary and the numbers in the readmes:
 

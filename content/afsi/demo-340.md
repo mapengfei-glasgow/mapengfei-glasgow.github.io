@@ -14,6 +14,8 @@ the immersed boundary. The demo has two axes: a comparison of the AFSI tip
 displacement against published reference curves (Ryan et al. M2/M3, Kamensky et
 al.), and a fibre-angle study at $45^\circ$, $60^\circ$ and $75^\circ$.
 
+{{< figure src="/afsi/demo340-setup.png" title="Figure 1. The channel and the two fibre-reinforced leaflets, with the pulsatile inlet and the clamped edges." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Channel, leaflets and material. The fluid grid and the leaflet mesh are fixed; the fibre angle is the only parameter that changes between runs.</p>
@@ -64,6 +66,8 @@ Switching the fibre angle means editing the active `f1_*` / material lines in
 `main.py` (the $60^\circ$ and $75^\circ$ vectors are present but commented out).
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo340-results.png" title="Figure 2. Archived probe series for the three fibre angles, against the digitised literature curves." >}}
 
 The archived probe series ends at $t = 2.9999\,\mathrm{s}$:
 

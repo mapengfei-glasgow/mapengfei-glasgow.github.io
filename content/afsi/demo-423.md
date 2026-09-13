@@ -90,6 +90,8 @@ approximately **half** the analytical value. With the ordering used by
 
 {{< figure src="/afsi/demo423-profile.png" title="Figure 2. Radial pressure profiles along $y = 0.5$ (left) and the corresponding pointwise error (right). The far field and the inner plateau are captured essentially exactly; the error is concentrated at the edges of the fibre band and decreases with refinement." >}}
 
+{{< figure src="/afsi/demo423-error.png" title="Figure 3. The four archived profile runs: the maximum error over the line against resolution. The fibre band dominates it, so the maxima of the N = 32 and N = 256 Chorin runs stay close together." >}}
+
 Three observations follow from Table 2 and Figures 1–2.
 
 1. **The far field and the inner plateau are essentially exact.** Even at

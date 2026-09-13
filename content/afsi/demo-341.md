@@ -14,6 +14,8 @@ post-processing script samples the three centre lines at $t = 1\,\mathrm{s}$ and
 compares NS against FSI across background grid densities — a minimal 3-D
 counterpart to the 2-D lid-driven disc.
 
+{{< figure src="/afsi/demo341-setup.png" title="Figure 1. The cubic cavity and the immersed sphere." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters of the cubic-cavity case.</p>
@@ -63,6 +65,8 @@ cd plot && python plot_lines.py              # line_*.csv / line_*.png
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo341-results.png" title="Figure 2. The demo's own post-processing at $GRID = 8$ after 20 steps: the three centrelines with and without the sphere." >}}
 
 **No run outputs are archived** for this demo: the directory holds only the five
 source files, and `*.xdmf`/`*.h5` are git-ignored by design, so the mesh, the

@@ -14,6 +14,8 @@ body-fitted ALE mesh. The cylinder is not treated as rigid: it is the same
 elastic material as the flag, held in place by a strong penalty. The readme is
 explicit that this is a **qualitative replication, not a precision match**.
 
+{{< figure src="/afsi/demo402-setup.png" title="Figure 1. The Turek FSI2 channel: the penalty-held cylinder and the flexible flag." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters as the code actually runs them (`configuration.py`, CGS). The right-hand column records what the readme claims where the two disagree.</p>

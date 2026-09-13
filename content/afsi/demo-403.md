@@ -15,6 +15,8 @@ Neo-Hookean solid fixed on its bottom face by a penalty and carries no inertia
 (the solid velocity is interpolated from the fluid and the position advanced by
 explicit Euler).
 
+{{< figure src="/afsi/demo403-setup.png" title="Figure 1. The channel and the clamped plate." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters. Lengths and material constants are in CGS, as in the source; the readme also quotes the SI equivalents.</p>

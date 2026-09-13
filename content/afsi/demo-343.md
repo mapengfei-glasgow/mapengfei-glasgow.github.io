@@ -15,6 +15,8 @@ stand-in for a hardened leaflet), and a `CIRCLE` switch produces a control run i
 which the discs' restoring force is dropped. Post-processing compares centre-line
 $u_x$ profiles at $y = 0.5$ and $y = 1.1$ between the two runs.
 
+{{< figure src="/afsi/demo343-setup.png" title="Figure 1. The ideal-valve geometry with the two compliant discs that the `CIRCLE` switch controls." >}}
+
 ## 2. Configuration
 
 <p class="tcaption">Table 1. Parameters (`configuration.py`). The geometry and the inlet profile are shared with demo_340.</p>
@@ -66,6 +68,8 @@ cd plot && python plot_centerline.py
 ```
 
 ## 5. Results and notes
+
+{{< figure src="/afsi/demo343-results.png" title="Figure 2. The demo's own post-processing after 500 steps (both `CIRCLE` settings): the centreline at the two disc heights. The two runs differ only near the discs, which is what the `CIRCLE=0` control was meant to expose — it removes the constitutive force but leaves the markers coupled." >}}
 
 **No results are archived** for this demo — neither the fields, nor the
 centre-line CSVs, nor the comparison figures are in the repository, so the run
