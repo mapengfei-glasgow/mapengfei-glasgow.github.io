@@ -35,7 +35,7 @@ errors, refinement orders and figures.
 
 | Demo | Problem | State |
 |---|---|---|
-| [`demo_336`](/afsi/demo-336/) | Disc carried by a lid-driven cavity, three couplings (IB-FE, rigid and elastic direct forcing) | Back-effect and viscosity-comparison tables recorded; two result figures |
+| [`demo_336`](/afsi/demo-336/) | Disc carried by a lid-driven cavity, three couplings (IB-FE, rigid and elastic direct forcing) | **Detailed study**: 6 configurations × 3 grids, per-step logs, trajectories, deformation and grid sensitivity |
 | [`demo_339`](/afsi/demo-339/) | Flow past a cylinder, four ways (DFG 2D-3, $\mathrm{Re} = 100$) | Short-run comparison archived; drag-coefficient grid-dependence study; **live $T = 5$ s field snapshots** |
 | [`demo_340`](/afsi/demo-340/) | 2-D ideal valve, fibre-reinforced (FRH) leaflets at $45^\circ/60^\circ/75^\circ$ | Probe series archived and compared with Ryan et al. and Kamensky et al.; **full $T = 3$ s re-run** reproduced to $4\times10^{-4}$ |
 | [`demo_343`](/afsi/demo-343/) | Two compliant discs transported through the ideal valve | **Live $t \le 0.2$ s run** at the shipped $320\times64$ resolution: leaflets open into a nozzle, discs carried downstream |
