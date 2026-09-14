@@ -23,6 +23,9 @@ The solid-deformation snapshots are in §3.  The failures of the simpler
 configurations, the seven real defects, the ruled-out hypotheses and the layered
 diagnosis method are analysed in §4–§9; the remaining work is in §10.
 
+> **Environment and build instructions:** see
+> [FDM-3D v1: environment, build and run](/posts/fdm-3d-v1-build-and-run/).
+
 ## 1. AV: working recipe and results
 
 The AV campaign splits into two command families:
