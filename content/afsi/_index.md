@@ -69,6 +69,15 @@ cd afsic/demo/demo_424
 CASE=open NY=45 python generate_mesh.py && CASE=open NY=45 python main.py
 ```
 
+These pages are written in the shape of the
+[FEniCSx tutorial](https://jsdokken.com/dolfinx-tutorial/chapter2/heat_equation.html):
+the model problem and its weak form first, then the time-stepping scheme, then the
+implementation quoted from the driver, and only then the results, the verification
+and the cost. The upstream readmes in the AFSI repository are organised as file
+manifests and configuration tables; where a page here reads like an audit rather than
+a derivation, it is reporting what we measured rather than restating the code.
+[`demo_340`](/afsi/demo-340/) is the worked example of the layout.
+
 The field figures scattered through these pages come from two scripts:
 `static/afsi/demo-fields-pyvista.py` (PyVista field panels for `demo_339`,
 `demo_421` and `demo_423`) and `static/afsi/demo336-make_figures.py`,
