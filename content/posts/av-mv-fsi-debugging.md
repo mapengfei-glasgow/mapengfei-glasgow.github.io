@@ -1,6 +1,6 @@
 ---
 title: "AV/MV valve FSI: debugging summary"
-description: "One root cause, seven real defects, seven ruled-out hypotheses and the layered-diagnosis method behind the real aortic- and mitral-valve FSI cases."
+description: "One root cause, seven real defects, seven ruled-out hypotheses and the layered-diagnosis method behind the real aortic- and mitral-valve FSI cases, with command matrices, pressure/flow comparisons and PyVista deformation snapshots."
 date: 2026-09-13
 academic: true
 ShowToc: true
@@ -192,7 +192,101 @@ DSH_CS_POIS=20 DSH_CS_HELM=8 DSH_FLAT_ASM=1 OMP_NUM_THREADS=8 \
 - `test_unit_convection_cuda`: SOU **linear exactness (both upwind branches) +
   second-order convergence**
 
+## 9. AV: command matrix and result comparison
+
+The AV campaign splits into two command families:
+
+- the **Stokes production run**, which is the one that reaches the full
+  $T = 1.635$ s;
+- the **convection runs**, used to test whether SOU advection removes the
+  closing-transient wall.
+
+<p class="tcaption">Table 9.1. AV: command combinations and observed reachable state.</p>
+
+| ID | Run | Command combination | Reached | Observation |
+|---|---|---|---|---|
+| AV-1 | Stokes, fibre mny | `--av-iso-form mny --av-beta-s 5e6 --pk1-mask 15,16,18 --tether-mask 5,17` (full command in §6.2) | **1.635 s / 327,000 steps** | complete, 0 instabilities |
+| AV-2 | SOU convection, NH walls | `--nh --nh-mu 1e7 --nh-lambda 1e7 --pk1-mask 15,16,18 --conv --conv-upwind`; feedback off | 0.335 s | max displacement reaches 0.90, then NaN |
+| AV-3 | SOU convection, elastic wall + fibre | AV-2 plus `--pk1-mask 5,15,16,17,18 --av-rigid-c1 1e7` | 0.41–0.45 s | wall elasticity extends the run; SOU alone is not the fix |
+
+The exact AV-1 command is the one in §6.2.  For AV-2/AV-3 the essential switch
+is the pk1 mask: as long as only the leaflets (15,16,18) carry elastic stiffness,
+the tube and sinus (markers 5 and 17, together 88.6% of the cells) are supported
+only by the body penalty.  Adding `5,17` to the pk1 mask makes the wall elastic
+and pushes the convection run from about 0.35 s to about 0.42 s.
+
+{{< figure src="/fdm/av_command_progress.png" title="Figure 1. AV command combinations and the reachable time of each. The dashed line is the full two-cycle target, T = 1.635 s." >}}
+
+{{< figure src="/fdm/av_full_results.png" title="Figure 2. AV production run (Stokes, fibre mny, βs = 5e6, 327,000 steps). (a) inlet LV pressure and Windkessel outlet pressure; (b) flow rate integrated on the two axial faces; (c) maximum solid displacement and force; (d) L2 divergence." >}}
+
+{{< figure src="/fdm/av_command_comparison.png" title="Figure 3. AV command comparison: Stokes fibre (blue, runs to 1.635 s) against SOU convection with NH walls and feedback off (red, 0.335 s). The prescribed inlet pressure is identical; the outlet pressure and flow already differ, and the SOU run still ends in NaN." >}}
+
+## 10. MV: command matrix and result comparison
+
+The MV sequence is the clearest example of the layered diagnosis: each fix moves
+the collapse to the next weakest region, so the commands must be compared as a
+chain rather than one switch at a time.
+
+<p class="tcaption">Table 10.1. MV: command combinations and observed reachable state.</p>
+
+| ID | Run | Key command combination | Reached | Note |
+|---|---|---|---|---|
+| MV-0 | baseline, literature stiffness | `--mv-Jclip 0.2` (no `--mv-rigid-c1`) | 0.375 s (48%) | default wall |
+| MV-1 | + zero-stiffness correction | add `--mv-rigid-c1 1e7` | 0.500 s (64%) | tube/disk (41% of cells) given a real modulus |
+| MV-2 | + leaflet stiffness x10 | literature `C1`/`af` multiplied by 10 | 0.500 s | still fails at the same place |
+| MV-3 | + leaflet stiffness x30 | `--mv-C1-ant 5.2110e6 --mv-af-ant 9.43788e6 --mv-C1-post 3.06e6 --mv-af-post 1.5e7` | **0.785 s / 125,600 steps** | complete cardiac cycle |
+| MV-4 | + leaflet stiffness x100 | same with x100 values | 0.785 s | complete, but further from the literature |
+
+The exact MV-3 command is:
+
+```bash
+cd fdm-3d-v1-gpu
+DSH_CS_POIS=20 DSH_CS_HELM=8 DSH_FLAT_ASM=1 OMP_NUM_THREADS=8 \
+./build-av/real_mv --variant gao_0 --N 64 --T 0.785 --dt 6.25e-6 \
+  --beta 1.0 --beta-body 1e8 --pk1-mask all --tether-mask 5,6,11,12 \
+  --mv-Jclip 0.2 --mv-rigid-c1 1e7 \
+  --mv-C1-ant 5.2110e6 --mv-af-ant 9.43788e6 \
+  --mv-C1-post 3.06e6 --mv-af-post 1.5e7 \
+  --nvc 2 --helm-nvc 1 --gpu-solid --every 10000 --out out_real_mv_cycle/
+```
+
+> ⚠ MV-3 uses leaflet stiffness **30× the literature value**.  This is an
+> empirical calibration, not a physical result.  The cycle can be completed, but
+> `|div|` rises to 0.1–0.3 during systole, so quantitative statements about
+> regurgitation and closure dynamics from this run remain unsafe.
+
+{{< figure src="/fdm/mv_command_progress.png" title="Figure 4. MV command matrix: the reachable time moves from 0.375 s (48% of the cycle) to the complete 0.785 s cycle. The dashed line is the full-cycle target." >}}
+
+{{< figure src="/fdm/mv_full_results.png" title="Figure 5. MV production run (gao_0, N = 64, Δt = 6.25e-6 s, rigid-c1 = 1e7, leaflet stiffness x30). (a) prescribed inlet pressure; (b) axial flow-rate estimate on the two faces, plotted on a symmetric-log axis — during systole this run has |div| = 0.1–0.3, so the curve is a numerical diagnostic rather than a physiological flow rate; (c) maximum solid displacement and force; (d) L2 divergence. The divergence peaks in systole and falls again before the end of the cycle." >}}
+
+## 11. Solid deformation with PyVista
+
+The deformation snapshots are rendered directly from the same binary output the
+solver writes: `ref_nodes.bin` (reference coordinates), `Xc_<step>.bin` (current
+coordinates), and the first four node indices of each cell in `dofmaps.bin`.
+For each selected time the renderer builds a `pyvista.UnstructuredGrid`, attaches
+the displacement vector and its magnitude,
+
+```python
+grid.points = Xc
+grid.point_data["u"] = Xc - ref
+grid.point_data["|u|"] = np.linalg.norm(grid.point_data["u"], axis=1)
+surface = grid.extract_surface()
+```
+
+and renders the leaflet/chordae surface with the same camera and colour range.
+The tube, disk and penalty regions are omitted so that the moving leaflets are
+not hidden inside the surrounding solid.  AV snapshots are available every
+$0.005$ s (`--every 1000`) and MV snapshots every $0.0625$ s
+(`--every 10000`).
+
+{{< figure src="/fdm/av_solid_deformation.png" title="Figure 6. AV leaflet solid deformation (markers 15/16/18), t = 0–1.635 s. Colour is |u| in cm; every panel uses the same camera and colour scale." >}}
+
+{{< figure src="/fdm/mv_solid_deformation.png" title="Figure 7. MV leaflet/chordae solid deformation (markers 7/8/10/11/12), t = 0–0.785 s. Colour is |u| in cm; every panel uses the same camera and colour scale." >}}
+
 ---
 
 *This page is the English edition of the project note
-`av-mv-fsi-summary.md` (2026-09-13).*
+`av-mv-fsi-summary.md` (2026-09-13). The command matrices, pressure/flow
+figures and PyVista deformation snapshots were generated from the saved AV and
+MV runs on 2026-09-14.*
