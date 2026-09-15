@@ -140,3 +140,166 @@ Caveats:
   are density-normalised is unclear.
 * The IB-FE case is inherently stiff: the disc drifts $\approx 9\times10^{-4}\,\mathrm{m}$
   over $300$ steps and the solid force becomes `NaN` after $\approx 200$ steps.
+
+## 6. A detailed study of the cylinder case
+
+Section 5 records the demo's own results and the resolution study its readme
+carries. This section re-runs the multi-direct-forcing variant as a matrix and
+reports what the fields actually show.
+
+### 6.1 What was run
+
+All runs use the shipped physics — channel $2.2\times0.41$, cylinder $r = 0.05$ at
+$(0.2,0.2)$, $\rho = 1000$, $\mu = 1$, inlet peak $1.5\,\mathrm{m\,s^{-1}}$,
+$\Delta t = 10^{-3}$ — and differ in the grid, the marker model or the iteration
+count. Each ran to $t = 6\,\mathrm{s}$, i.e. $4\,\mathrm{s}$ past the end of the
+inlet ramp.
+
+<p class="tcaption">Table 4. The run matrix.</p>
+
+| Run | Grid | Difference from the shipped case | Steps |
+|---|---|---|---|
+| `r110` | $110\times21$ | coarser | $6000$ |
+| `r220` | $220\times41$ | shipped resolution | $6000$ |
+| `r440` | $440\times82$ | finer | $6000$ |
+| `no_cyl` | $220\times41$ | cylinder markers moved outside the domain | $6000$ |
+| `disk_marks` | $220\times41$ | filled-disc markers instead of a boundary ring | $6000$ |
+| `iter2` / `iter20` | $220\times41$ | $n_{iter} = 2$ / $20$ instead of $10$ | $6000$ |
+
+### 6.2 The drag integral tracks the marker volume, and the fine grid fails
+
+The readme records that the volume-force integral *decreases* under refinement
+($0.439 \to 0.268 \to 0.157$ at $110\times21$, $220\times41$, $440\times82$).
+Re-measured here over the statistically steady window $t > 2.5\,\mathrm{s}$, the
+decrease is there but the fine grid never gets that far:
+
+{{< figure src="/afsi/demo339-study-cd.png" title="Figure 7. Left: the force-integral $C_d$ at three resolutions, with the body-fitted value the tutorial reports. Middle: the apparent shedding frequency from the lift signal — but see §6.3, the lift signal is not a vortex street. Right: lift histories for every variant." >}}
+
+| Grid | $C_d$ (force integral) | marker volume $\Delta V_l$ | status |
+|---|---|---|---|
+| $110\times21$ | $4.3676 \pm 0.0045$ | $48.50\,\mathrm{mm^2}$ | steady |
+| $220\times41$ | $2.5282 \pm 0.0029$ | $24.54\,\mathrm{mm^2}$ | steady |
+| $440\times82$ | — | $12.55\,\mathrm{mm^2}$ | **diverges at $t = 2.28\,\mathrm{s}$** |
+
+The ratio $4.3676/2.5282 = 1.73$ tracks the marker-volume ratio
+$48.50/24.54 = 1.98$: halving the grid halves $\Delta V_l = \Delta s \cdot h$ and
+the spread-force integral grows with it. So the discrete drag is a property of the
+marker discretisation rather than of the flow, exactly as the readme argues — and
+the values it quotes for this configuration should not be read as drag
+coefficients.
+
+The fine grid does not merely give a different number: it **fails**. `r440`
+blows up at $t = 2.28\,\mathrm{s}$ ($u_{L2}$ jumps from $\mathcal O(1)$ to
+$10^{180}$), after which the solution never settles — $C_d$ wanders with a standard
+deviation of $2.6$ around a mean of $2.1$, and no finite window can be used for
+statistics. This is not a CFL problem: at $440\times82$ with $\Delta t = 10^{-3}$ the
+advective CFL is $0.30$, half the value the coarse grid runs stably at. The cause is
+the IBM forcing itself: the direct-force impulse per step scales with the marker
+volume $\Delta V_l \propto h$, so halving $h$ halves the impulse and, in an
+explicitly coupled scheme, eventually destabilises it. Halving $\Delta t$ as well
+does run (`440\times82` with $\Delta t = 5\times10^{-4}$ starts cleanly), but at
+$0.14\,\mathrm{ms}$ of simulated time per second it needs about five hours to reach
+$t = 4\,\mathrm{s}$, which is beyond what this study spent.
+
+### 6.3 The wake is steady, not a vortex street
+
+{{< figure src="/afsi/demo339-study-wake.png" title="Figure 8. Left: the centreline velocity at $t = 6$ s at both resolutions — the deficit closes monotonically and the two grids lie on top of each other. Right: the lift signal magnified by $10^3$. The residual oscillation is 0.005 in $C_l$, against a mean level of $-0.05$." >}}
+
+The lift signal never develops the large periodic oscillation that a von Kármán
+street produces. Over $t > 2.5\,\mathrm{s}$ the lift sits at a constant offset with a
+peak-to-peak ripple of
+
+| Grid | $\overline{C_l}$ | peak-to-peak $C_l$ | recirculation length (from the centreline) |
+|---|---|---|---|
+| $110\times21$ | $-0.1606$ | $0.0093$ | $\approx 0.14\,\mathrm{m} = 1.4\,D$ |
+| $220\times41$ | $-0.0527$ | $0.0050$ | $\approx 0.14\,\mathrm{m} = 1.4\,D$ |
+
+A ripple three orders of magnitude below the dynamic pressure, and identical
+recirculation lengths on two very different grids, is the signature of a **steady
+symmetric wake**. Figure 9 shows it directly: the vorticity field behind the
+cylinder is a symmetric pair of shear layers with no alternating cores, and it
+barely changes between $t = 2$ and $t = 6$.
+
+{{< figure src="/afsi/demo339-study-fields.png" title="Figure 9. Vorticity (top) and pressure (bottom) at five instants for the shipped resolution. The pattern is symmetric about the centreline and stationary: no vortex street forms." >}}
+
+This matters for how the case is described. Shedding frequencies computed from that
+ripple are noise — the period is stable enough to divide by ($0.38\,\mathrm{s}$,
+i.e. $\mathrm{St} \approx 0.26$) but the amplitude carries no signal. The honest
+statement is that **this implementation, at these resolutions, produces a steady
+wake at $\mathrm{Re} = 100$**, where the DFG 2D-3 benchmark is unsteady
+($\mathrm{St} \approx 0.295$, $C_l$ amplitude $\approx 1$).
+
+### 6.4 Marker model and iteration count
+
+{{< figure src="/afsi/demo339-study-variants.png" title="Figure 10. Drag and energy histories for every variant: the two grids, the two marker models, and $n_{iter} = 2$ and $20$." >}}
+
+The remaining knobs matter much less than the grid:
+
+| Run | Markers | $n_{iter}$ | $C_d$ | $\overline{C_l}$ | $u_{L2}$ at $t=6$ |
+|---|---|---|---|---|---|
+| `r220` | boundary ring, 128 | $10$ | $2.5282 \pm 0.0029$ | $-0.05273$ | $1.1178$ |
+| `disk_marks` | filled disc | $10$ | $2.5282 \pm 0.0029$ | $-0.05273$ | $1.1178$ |
+| `iter2` | boundary ring, 128 | $2$ | $1.6891 \pm 0.0019$ | $-0.05208$ | $1.1148$ |
+| `iter20` | boundary ring, 128 | $20$ | $2.5962 \pm 0.0029$ | $-0.05137$ | $1.1180$ |
+| `no_cyl` | none | — | $0.0000$ | $0.00000$ | $1.0826$ |
+
+Two clean conclusions. **The marker model is irrelevant**: filling the disc with
+interior markers returns bit-identical drag to the boundary ring alone, so the ring
+is sufficient and the `disk` mode is pure cost. And **the iteration count is a real
+parameter but a small one**: dropping from $10$ to $2$ iterations costs $33\,\%$ of
+the drag, while going to $20$ changes it by $+2.7\,\%$ — so $10$ is close to
+converged in $n_{iter}$, which is presumably why the demo ships with it. The
+cylinder's presence costs the flow about $3\,\%$ of its energy norm
+($1.1178$ against $1.0826$), a sensible magnitude for a $24\,\%$ blockage.
+
+### 6.5 Why it cannot be compared with the published benchmark as-shipped
+
+Two independent mismatches, both in the shipped configuration:
+
+1. **The inlet amplitude is 1.5× too large.** The driver builds the inlet from
+   `TurekInlet(Um=Um)` with `Um = 1.0`, and `TurekInlet` evaluates
+   $1.5\,U_m\,y\,(H-y)/(H/2)^2$ — so the profile peaks at $1.5\,U_m = 1.5$ with
+   $\overline{u} = 1.0$. The DFG 2D-3 inlet is
+   $4Uy(0.41-y)/0.41^2$ with $U = 1.5\sin(\pi t/8)$, which peaks at $1.5$ and has
+   $\overline{u} = 1.0$ *only when the sine is at its maximum*. The demo therefore
+   runs at a steady $\mathrm{Re} = 100$ while the benchmark sweeps
+   $\mathrm{Re} = 0 \to 100$ over eight seconds and never holds a steady state.
+2. **The force coefficients are normalised differently.** The driver reports
+   $C_d = 2F_x/(\bar U^2 D)$ with $\bar U = 1$, i.e. the DFG $C_d$ (which uses the
+   peak) is $2.25\times$ larger for the same force. Neither the readme's
+   $\approx 0.29$ (body-fitted, surface-stress integration) nor the DFG
+   $\approx 3.22$ matches the number this driver prints.
+
+A variant with `DFG_PROFILE=1.5` was added to test the inlet question directly. It
+diverges: at $\Delta t = 10^{-3}$ and an inlet peak of $2.25$ the step is simply too
+large, and the solution blows up around $t = 1.7\,\mathrm{s}$ (see §6.6). Fixing the
+comparison properly needs both a smaller $\Delta t$ and the benchmark's time-dependent
+amplitude, not a constant one.
+
+### 6.6 What to reproduce, and what to fix
+
+```bash
+cd afsic/demo/demo_339/4-multi-direct-forcing
+# resolution study (NX/NY now honoured; they were silently ignored before)
+OUTPUT_PATH=<dir>/ NX=220 NY=41 STEPS=6000 python main.py
+# marker model and iteration-count sensitivity
+OUTPUT_PATH=<dir>/ MARKER_MODE=disk STEPS=6000 python main.py
+OUTPUT_PATH=<dir>/ N_ITER=20        STEPS=6000 python main.py
+```
+
+Three defects were found and fixed while setting this up, all of which change
+results silently:
+
+* **`NX`/`NY` were ignored.** The configuration read `STEPS`, `MARKER_MODE` and
+  `DISK_MOTION` but not the grid — so runs intended as $110\times21$ and
+  $440\times82$ both ran at $220\times41$. The first version of the resolution table
+  above was flat for exactly this reason.
+* **The DFG-profile variant has no stable $\Delta t$.** `DFG_PROFILE=1.5` (peak
+  $2.25\,\mathrm{m\,s^{-1}}$) diverges at the shipped $\Delta t = 10^{-3}$.
+* The control-volume drag recommended by the readme **cannot be applied to this
+  channel as configured**: with a cylinder only $2D$ from the inlet and a domain of
+  $4.1D$, the balance is dominated by the channel-wall friction integral
+  ($\approx 70\,\mathrm{N}$) and the inlet/outlet momentum flux
+  ($\approx 37\,\mathrm{N}$), against a $0.13\,\mathrm{N}$ cylinder force. A
+  circular control volume hugging the cylinder would be needed, and that cannot be
+  integrated accurately on a Cartesian grid this coarse.
