@@ -1337,7 +1337,7 @@ t, fdm (from VTI), gfem (from log)
 1.6350, -0.8, 0.7
 {{< /chart >}}
 
-{{< chart xlabel="t (s)" ylabel="max |u| (cm)" caption="Figure 16. Maximum solid displacement, both codes (fdm: 233,216-cell AV mesh, max|u| from `sim.log`; gfem: `mesh_connected_scale`, 683,558 tetrahedra, max|u| over the 178,457 P1 nodes of every saved `solid/view.h5` frame). The two curves are the same size: fdm spans 0.16-1.01 cm and gfem 0.29-1.11 cm, both peak at a closure (fdm 1.01 cm at t = 1.22 s, gfem 1.11 cm at t = 0.51 s), and both return to a 0.25-0.35 cm plateau while the valve is open." >}}
+{{< chart xlabel="t (s)" ylabel="max |u| (cm)" caption="Figure 16. Maximum solid displacement, both codes (fdm: 233,216-cell AV mesh, max|u| from `sim.log`; gfem: `mesh_connected_scale`, 683,558 tetrahedra, max|u| over the 178,457 P1 nodes of every saved `solid/view.h5` frame). Both start at zero and reach the same order of deformation: during ejection fdm travels 0.25-0.94 cm against gfem's 0.86-1.03 cm, both hold a 0.27-0.29 cm plateau while the valve is shut, and each peaks at a closure - fdm 1.01 cm at t = 1.22 s, gfem 1.11 cm at t = 0.51 s." >}}
 t, fdm max|u| (cm), gfem max|u| (cm)
 0.0000, 0.0000, 0.0000
 0.0100, 0.2640, 0.2696
