@@ -1,0 +1,11 @@
+# 每天下载完成后的发布时间：GNP 09:00 下载、IOT 11:00 下载，这里 12:30 统一处理刚下载的集
+[Unit]
+Description=Daily publish of latest BBC podcast episodes
+
+[Timer]
+OnCalendar=*-*-* 12:30:00
+Persistent=true
+RandomizedDelaySec=20min
+
+[Install]
+WantedBy=timers.target

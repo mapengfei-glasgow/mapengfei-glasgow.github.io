@@ -1,0 +1,8 @@
+[Unit]
+Description=Download the latest BBC Global News Podcast episode
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /home/Pengfei.Ma@glasgow.ac.uk/dcgrid/bbc_podcast.py global-news

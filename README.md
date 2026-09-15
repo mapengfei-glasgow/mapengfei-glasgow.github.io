@@ -10,21 +10,44 @@ Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme +
 ## Layout
 
 ```
-english-site/          # the Hugo site
-  content/episodes/    # one .md per episode (front matter holds every sentence + its timestamps)
-  data/transcripts/    # <slug>.small.json per episode (word-level timestamps)
-  static/audio/<slug>/ # LOCAL ONLY while building: the episode MP3 is uploaded to
-                       # R2 and then removed, so the repo keeps pages only
-  static/css/          # main.css — styles for our own components only
-  assets/js/           # player.js (bottom bar + episode page wiring)
-                       # appwrite.js (vocabulary book)
-  layouts/             # index.html (home: intro + cards), episodes/single.html,
-                       # words/list.html, partials/ overrides
-  themes/PaperMod/     # theme (git submodule)
-tools/make_episode.py  # MP3 → full audio + Hugo content (with sentence timestamps)
-tools/bbc_podcast.py   # downloader for the BBC feeds (run by systemd timers)
-bin/                   # static hugo / ffmpeg binaries, uv
-venv/                  # Python environment (faster-whisper)
+content/episodes/    # one .md per episode (front matter holds every sentence + its timestamps)
+data/transcripts/    # <slug>.small.json per episode (word-level timestamps)
+static/audio/<slug>/ # LOCAL ONLY while building: the episode MP3 is uploaded to
+                     # R2 and then removed, so the repo keeps pages only
+static/css/          # main.css — styles for our own components only
+assets/js/           # player.js (bottom bar + episode page wiring)
+                     # appwrite.js (vocabulary book)
+layouts/             # index.html (home: intro + cards), episodes/single.html,
+                     # words/list.html, partials/ overrides
+themes/PaperMod/     # theme (git submodule)
+tools/               # the pipeline (see tools/ below)
+```
+
+`tools/` is committed; a few large or machine-local pieces are not, and are
+recreated on a new host:
+
+```
+tools/make_episode.py     # MP3 → full audio + Hugo content (sentence timestamps)
+tools/bbc_podcast.py      # BBC feed downloaders (run by the systemd timers)
+tools/bbc_gnp.py
+tools/bbc_publish.py      # transcribe → publish → push a batch
+tools/publish_batch.py    # batch helper used by BBC publishing
+tools/r2_client.py        # shared R2 signing/upload code (stdlib only)
+tools/r2_upload.py        # R2 CLI (also used from make_episode.py)
+tools/make_og.py          # Open Graph image for an episode
+tools/flag_a2.py          # A2-level sentence flagging (uses tools/phrase_notes.tsv)
+tools/merge_explain.py    # merge the plain-English sentence notes
+tools/phrase_notes.tsv    # set-phrase table used by the flagger
+tools/r2-portal/          # Cloudflare Worker behind the /files/ page (+ its test)
+tools/systemd/*.service|timer   # bbc-publish, bbc_gnp, bbc_iot timers
+tools/test_charts.mjs     # test for the chart shortcode (see below)
+
+tools/ecdict.csv          # NOT committed (66 MB ECDICT table); make_episode.py
+                          # prints the one-line curl to fetch it
+bin/                      # NOT committed: static hugo / ffmpeg binaries, uv
+venv/                     # NOT committed: Python environment (faster-whisper)
+static/audio/, ecdict     # NOT committed: episode MP3s live in R2
+~/.r2.env                 # NOT committed: R2 credentials (chmod 600)
 ```
 
 ## Build one episode from an MP3

@@ -1,0 +1,13 @@
+# 每日发布（下载→转写→切片→生成页面→commit→push → GitHub Pages 自动发布）
+# 安装为 systemd 用户定时器：
+#   cp tools/systemd/bbc-publish.{service,timer} ~/.config/systemd/user/
+#   systemctl --user daemon-reload && systemctl --user enable --now bbc-publish.timer
+[Unit]
+Description=Publish newly downloaded BBC podcast episodes to the site
+After=network-online.target bbc_gnp.service bbc_iot.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 /home/Pengfei.Ma@glasgow.ac.uk/dcgrid/tools/bbc_publish.py
+WorkingDirectory=/home/Pengfei.Ma@glasgow.ac.uk/dcgrid

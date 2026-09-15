@@ -1,0 +1,18 @@
+name = "r2-portal"
+main = "worker.js"
+compatibility_date = "2025-09-01"
+
+# The bucket the /files/ page browses (binding name must be BUCKET)
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "aorta-data"
+
+[vars]
+PUBLIC_BASE = "https://bucket.r2.mapengfei.cn"
+ALLOWED_ORIGIN = "https://mapengfei-glasgow.github.io"
+UPLOAD_PREFIX = "uploads"
+# AppWrite project used to verify the JWT that the page sends
+APPWRITE_ENDPOINT = "https://fra.cloud.appwrite.io/v1"
+APPWRITE_PROJECT = "6a9d0e7c002b1fabe1e9"
+# empty = any signed-in account; e.g. "aa" or "aa,someone@example.com"
+ALLOWED_USERS = ""

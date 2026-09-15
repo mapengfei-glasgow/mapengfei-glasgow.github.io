@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily download of the latest BBC In Our Time episode
+
+[Timer]
+OnCalendar=*-*-* 11:00:00
+Persistent=true
+RandomizedDelaySec=15min
+
+[Install]
+WantedBy=timers.target

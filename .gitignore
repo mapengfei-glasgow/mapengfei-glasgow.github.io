@@ -5,3 +5,9 @@ public/
 # Episode audio lives in Cloudflare R2 (uploaded by tools/make_episode.py),
 # so the repo and the published site stay small.
 static/audio/
+
+# Pipeline tools (tools/): the large dictionary table and scratch data are not
+# committed — see the note in tools/make_episode.py for how to fetch ECDICT.
+tools/ecdict.csv
+tools/a2_chunks/
+tools/__pycache__/
