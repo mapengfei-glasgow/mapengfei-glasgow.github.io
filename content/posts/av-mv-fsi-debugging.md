@@ -25,6 +25,10 @@ diagnosis method are analysed in §4–§9; the remaining work is in §10.
 
 > **Environment and build instructions:** see
 > [FDM-3D v1: environment, build and run](/posts/fdm-3d-v1-build-and-run/).
+>
+> **Second implementation:** §12 documents the same AV case in the
+> `npuheart`/`gfem` CMake + Kokkos code base, with a conda-based build and the
+> full-resolution mesh (2026-09-15 run).
 
 ## 1. AV: working recipe and results
 
@@ -274,9 +278,150 @@ tube axis at z≈10.1, the same place as the crash cell `cell 623` recorded in
 - `test_unit_convection_cuda`: SOU **linear exactness (both upwind branches) +
   second-order convergence**
 
+## 12. The same AV case in the npuheart/gfem codebase (2026-09-15)
+
+§1–§11 are about `fdm-3d-v1-gpu`.  A second, independent implementation of the
+same aortic-valve immersed-boundary problem is `cmame-v100-2`
+(`npuheart`/`gfem`): a CMake + CUDA/Kokkos code driven by a JSON deck instead of
+CLI switches, with the solid on a **P2 tetrahedral finite-element mesh**, the
+fluid on a **staggered Cartesian grid**, and a four-point immersed-boundary delta
+function coupling the two.  The physics is comparable to §1; the code path, the
+build and the numbers below are not.
+
+### 12.1 Environment: the spack recipe replaced by conda
+
+The published recipe for this code needs spack plus a source-built `gcc@11.4.0`
+and a full FEniCS/PETSc/Kokkos concretisation (hours).  It now builds from
+conda-forge packages instead, in about 20 minutes end to end:
+
+| Dependency | spack recipe | conda recipe (used here) |
+|---|---|---|
+| DOLFIN 2019.1 + FFC | `spack install fenics@2019.1.0.post0` | conda-forge `fenics-dolfin=2019.1.0` (+ boost/petsc/eigen/mpich) |
+| Kokkos 4.3 + CUDA | spack source build | conda-forge `kokkos=4.3.00` build `cuda12*`, then rebuilt from source for `sm_89` |
+| CUDA toolchain | spack `cuda` | conda-forge `cuda-nvcc=12.6` + `cuda-cudart-dev` + `cuda-cccl` |
+| spdlog / fmt / muparser / nlohmann_json | spack | conda-forge prebuilt |
+| basix (Gauss rules) | `spack env activate basix` | conda-forge `fenics-basix` |
+| compiler | spack `gcc@11.4.0` | system `gcc 13.3` (host) + `nvcc 12.6` |
+
+Four commands, all scripted in the repo:
+
+```bash
+bash scripts/setup_env.sh      # two conda envs
+bash scripts/build_kokkos.sh   # Kokkos 4.3.01 for ADA89 (sm_89)
+bash scripts/build.sh          # cmake + make, CUDA arch = 89
+bash scripts/run_av.sh config/av_smoke.json
+```
+
+The seven build defects that had to be fixed are collected in §12.5; the one that
+costs real performance if missed is the Kokkos architecture — the conda-forge
+package is compiled for compute capability 5.0, so on a 4090 every Kokkos kernel
+is PTX-JIT-compiled at start-up with
+
+```text
+Kokkos::Cuda::initialize WARNING: running kernels compiled for compute capability 5.0
+on device with compute capability 8.9, this will likely reduce potential performance.
+```
+
+Rebuilding Kokkos with `-DKokkos_ARCH_ADA89=ON` removes the warning; the source
+build additionally needs `CMAKE_POSITION_INDEPENDENT_CODE=ON`, because the
+project links Kokkos into the shared library `libkokkos_lib.so` (a non-PIC static
+Kokkos fails with `relocation R_X86_64_TPOFF32 ... recompile with -fPIC`).
+
+### 12.2 The real mesh, and what the JSON actually controls
+
+The AV mesh now present at `~/mesh-cardiology/AV` is the full-resolution
+`mesh_connected_scale`, i.e. three times the cell count of the reduced variant
+used for the first smoke tests:
+
+| Quantity | Value |
+|---|---|
+| solid tetrahedra / nodes | **683,558 / 178,457** |
+| bounding box | x 2.271–6.014, y 2.064–5.940, z 0–14 |
+| mean / median edge length | 0.0716 / 0.0595 |
+| element | P2 Lagrange, 10 nodes per cell |
+| P2 dofs | **1,174,681 scalar (3,524,043 vector)** |
+| background fluid grid | 80 × 80 × 128 = **819,200 cells**, Δx = Δy = 0.1, Δz = 0.109375 (domain 8 × 8 × 14) |
+| ghost layers | p 82 × 82 × 130 = 874,120; u, v 884,780 each; w 880,844 |
+
+Two IO facts are worth recording.  The `*.xml` `MeshFunction` files are
+uncompressed DOLFIN XML and dominate the input size (`boundaries_connected.xml`
+alone is 164 MB against a 15 MB `mesh_connected_scale.h5`).  And `N_bg = 96` in the
+JSON deck is **not used**: `dim_bg` is hard-coded to `{80,80,128}` in
+`src/main_av.cpp`, so the background resolution is a rebuild-level parameter, not
+a configuration one.
+
+The solid mesh is finer than the fluid grid (edge 0.07 versus spacing 0.10), so
+each fluid cell carries roughly two to three solid cells — a normal IB ratio, but
+it also means the two resolutions are changed independently.
+
+### 12.3 Commands of the 2026-09-15 production run
+
+The original two-step recipe is unchanged (config generator, then the printed
+command); only the environment wrapper is added in front of it:
+
+```bash
+cd cmame-v100-2/build
+python3 ../demos/demo_3392.py                 # writes config/test10.json
+taskset -c 10 nohup ./gfem_main_av config/test10.json > log/gfem-10.out &
+```
+
+with `Nt = 327,000`, `T = 1.635`, so `Δt = 5e-6`, `beta = 5e8`, `kappa = 5e6`,
+`muf = 0.04`, `rhof = 1`, and the real inputs
+`mesh_connected_scale.xdmf` / `boundaries_connected.xml` /
+`materials_connected.xml` / `fibers_{0,1,2}_connected.xml`.
+
+The prescribed inlet waveform is the original `ibamr/pressure.txt` (328 samples at
+`Δt = 0.005 s`).  The code confirms it: the first computed
+`pressure_atrim = 19,133.27 Pa = 14.3511 mmHg` reproduces the first file value
+`14.3511332141801` exactly after the internal `×1333.22368421` conversion.
+
+### 12.4 Status of the run
+
+<p class="tcaption">Table 12. AV in the npuheart/gfem code, snapshot at 2026-09-15 22:02 (still running).</p>
+
+| Quantity | Value |
+|---|---|
+| started / elapsed | 16:54, 5 h 08 min |
+| progress | **296,318 / 327,000 steps (90.6 %)**, t = 1.481 s of 1.635 s |
+| rate | ≈ 16 steps/s (0.062 s per coupled step) |
+| GPU | 1 × RTX 4090, 2.6 GB / 24 GB, 99 % utilisation |
+| errors | **0** NaN / CUDA failures in the log |
+| inlet pressure | 5,695–164,777 Pa (4.3–123.6 mmHg) over the cycle so far |
+| axial flow rate | −485 to +538 (arbitrary units), last 0.38 |
+| output | 297 × `fluid*.vti` (65 MB each) + growing `solid/view.h5`, ≈ 22 GB |
+
+At roughly 0.062 s per coupled step this is the same order as the AV-1 Stokes run
+in §1, on a mesh three times larger than the reduced one — the cost is dominated
+by the fluid solve, not by the solid assembly.
+
+### 12.5 Build and run pitfalls worth recording
+
+| # | Symptom | Fix |
+|---|---|---|
+| 1 | `nvcc` 12.6 rejects gcc 13.3 (`gcc versions later than 13 are not supported`, the check stops at 13.2) | `-allow-unsupported-compiler` |
+| 2 | `KOKKOS_LAMBDA` in `.cpp` files (it expands to `__host__ __device__`) cannot be parsed by g++ | mark those translation units `LANGUAGE CUDA`; no `nvcc_wrapper` needed |
+| 3 | nvcc does not implement C++20 `consteval` fully, spdlog's bundled fmt 8 fails with `call to consteval function did not produce a valid constant expression` | compile CUDA with `-DFMT_CONSTEVAL=` |
+| 4 | Kokkos is built with the OpenMP backend while the project compiles CUDA | `-Xcompiler=-fopenmp` on CUDA compilations |
+| 5 | conda Kokkos config asks for `CUDA::cudart` / `CUDA::cuda_driver` | `find_package(CUDAToolkit REQUIRED)` **before** `find_package(Kokkos)` |
+| 6 | DOLFIN's imported target references `PETSC::petsc` and `SLEPC::slepc`, which its config never defines | add placeholder imported targets, and disable Boost's CONFIG mode (`Boost_NO_BOOST_CMAKE`), since the conda Boost ships no `BoostConfig.cmake` |
+| 7 | CMake 4.x removed the `FindBoost` module entirely | configure with the system CMake 3.28 |
+
+One numerical pitfall matters more than all of these.  **`Δt` must stay at
+`5e-6`.**  Running the same deck at `Nt = 100` (`Δt = 1.6e-2`) diverges to NaN
+within about three steps, and the NaN then propagates into a CUDA illegal-address
+fault inside the flow-rate reduction — an environment-looking crash with a
+time-step cause.  The reference deck's `Nt = 327,000` is not merely a resolution
+choice.
+
+Finally, `$HOME/mesh-cardiology/AV/ibamr/pressure.txt` is **hard-coded** in
+`src/libkokkos/StokesFlow3D/TubeFlow.h:157`, in the original
+`dataSize / timeInterval / values` format.  Any other case must either create
+that exact path or patch the source.
+
 ---
 
 *This page is the English edition of the project note
 `av-mv-fsi-summary.md` (2026-09-13). The command matrices, pressure/flow
 figures and PyVista deformation snapshots were generated from the saved AV and
-MV runs on 2026-09-14.*
+MV runs on 2026-09-14.  §12 was added on 2026-09-15 for the npuheart/gfem
+implementation.*
