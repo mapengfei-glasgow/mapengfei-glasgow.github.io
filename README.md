@@ -135,6 +135,56 @@ variable to restrict those to particular accounts (empty = any signed-in one);
 the page prints your account id next to "Signed in" so it can be copied into that
 variable. Deploy notes: `tools/r2-portal/README.md`.
 
+## Figures written as data (`chart` shortcode)
+
+A quantitative figure no longer has to be a matplotlib PNG that gets regenerated
+and re-uploaded: the numbers can live **in the Markdown**, and the page draws them
+with Chart.js. The reader gets hover tooltips and the exact values, and updating a
+figure means editing numbers in the text.
+
+```markdown
+{{< chart xlabel="t (s)" ylabel="p (mmHg)" caption="Figure 12. Inflow and outflow pressure." >}}
+t, inflow, outflow
+0.000, 14.351, 85.000
+0.005, 14.898, 84.999
+{{< /chart >}}
+```
+
+The first line is the header — the first name is the x column, the rest are series
+names — and every following line is one sample. An empty cell becomes a gap, so a
+missing or non-positive sample can simply be left blank.
+
+| Parameter | Meaning |
+|---|---|
+| `type` | `line` (default), `bar`, `scatter` |
+| `xlabel`, `ylabel` | axis titles (the x title is also used in the tooltip) |
+| `title` | title drawn inside the canvas |
+| `caption` | caption under the figure (academic pages style it like a table caption) |
+| `height` | canvas height in px, default 320 |
+| `legend` | `true`/`false` (default: shown when there is more than one series) |
+| `xlog`, `ylog` | logarithmic axis (on a log y axis non-positive samples are dropped) |
+| `xkind` | `numeric` (default) or `category` (keeps the first column as labels) |
+| `colors` | comma-separated colour overrides, one per series |
+| `ymirror`, `y2label` | put the listed series (1-based, comma-separated) on a right-hand axis |
+| `smooth` | `true` for a slightly smoothed line |
+
+Implementation: `layouts/_shortcodes/chart.html` parses the CSV into JSON and emits a
+`<canvas data-chart>` plus a `<script type="application/json" class="chart-data">`
+block; `assets/js/charts.js` turns that into the Chart.js configuration. Chart.js is
+self-hosted in `static/js/chart.umd.min.js` (no CDN, like MathJax), and the
+stylesheet, Chart.js and `charts.js` are loaded only on pages that actually use the
+shortcode. The charts follow the PaperMod theme variables and are rebuilt when the
+light/dark toggle changes.
+
+`content/posts/chart-demo.md` is a draft page exercising every parameter (two series,
+gaps, a category axis, a log axis, a scatter, a mirrored axis) — run `hugo server -D`
+and open `/posts/chart-demo/`. `tools/test_charts.mjs` runs the front end in Node
+against a small DOM stub:
+
+```bash
+node tools/test_charts.mjs          # 17 checks: parser, datasets, scales, the built page
+```
+
 ## Using the site
 
 - Tap any sentence → playback jumps to that moment; tap the same sentence again to pause

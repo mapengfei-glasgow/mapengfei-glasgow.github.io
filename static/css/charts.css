@@ -1,0 +1,42 @@
+/* charts.css — styling for the `chart` shortcode (Chart.js figures whose data is
+ * written inline in the Markdown).  Loaded only on pages that use the shortcode.
+ *
+ * The caption reuses the academic `.tcaption` class, so on `academic: true`
+ * pages (AFSI write-ups) the paper typography wins by specificity; the rules
+ * below are the fallback for every other page.
+ */
+
+.chart-figure {
+    margin: 1.6rem 0 1.9rem;
+}
+
+.chart-box {
+    position: relative;
+    width: 100%;
+    /* height is set inline by the shortcode */
+}
+
+.chart-box canvas {
+    display: block;
+    width: 100% !important;
+}
+
+.post-content .chart-caption {
+    text-align: center;
+    font-size: 0.84rem;
+    line-height: 1.45;
+    margin: 0.5rem 0.4rem 0;
+    color: var(--secondary);
+}
+
+/* The data block stays in the HTML source (that is the point: the figure can be
+   regenerated from the numbers in the page), but it must never be visible. */
+.chart-figure script.chart-data {
+    display: none;
+}
+
+@media print {
+    .chart-figure {
+        break-inside: avoid;
+    }
+}

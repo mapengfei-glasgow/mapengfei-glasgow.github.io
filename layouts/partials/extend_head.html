@@ -1,6 +1,14 @@
 {{- /* Custom styles: player, sentence list, vocabulary book, auth modal
        (loaded after PaperMod's own stylesheets). */ -}}
 <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+{{- if .HasShortcode "chart" }}
+{{- /* Interactive figures written as data in the Markdown body: Chart.js is
+       self-hosted (like MathJax below), and both assets load only on pages
+       that use the `chart` shortcode. */}}
+<link rel="stylesheet" href="{{ "css/charts.css" | relURL }}">
+<script defer src="{{ "js/chart.umd.min.js" | relURL }}"></script>
+<script defer src="{{ (resources.Get "js/charts.js" | fingerprint).RelPermalink }}"></script>
+{{- end }}
 {{- if .Params.academic }}
 {{- /* Paper-style typography for the AFSI demo write-ups: Times New Roman,
        three-line tables, numbered captions. Only pages that opt in with
