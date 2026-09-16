@@ -1,6 +1,6 @@
 ---
 title: "Griffith 2009 耦合速度-压力求解器移植与 Chorin 对比"
-description: "把 Griffith 耦合鞍点求解器移植进 fdm-3d-v1，并在同一个 tethered tube partition 算例中比较 Chorin 与 Griffith：求解器本身差多少、对流格式影响多大、XSPPM7 为什么能算。"
+description: "把 Griffith 耦合鞍点求解器移植进 fdm-3d-v1，并在同一个 tethered tube partition 算例中比较 Chorin 与 Griffith：求解器本身差多少、对流格式影响多大、XSPPM7 为什么能算。附 400 步时间曲线、采样数据和 PyVista 三维图。"
 date: 2026-09-16
 academic: true
 ShowToc: true
@@ -214,6 +214,66 @@ native, 0.573719, 0.577121
 off, 0.572894, 0.577956
 central, 0.590620, 0.597905
 {{< /chart >}}
+
+### 3.4 时间曲线与采样数据
+
+这一节的曲线直接来自两次运行的 `history.csv`；PyVista 图由 `markers.csv` 按 `N=16` 重建管壁四边形网格和隔板点云得到。
+
+下面给出两个求解器 plate 最大位移之差 `|plate_Chorin - plate_Griffith|` 的采样值。
+空白单元格在图表中会形成断点：
+
+{{< chart height="270" xlabel="t (s)" ylabel="|plate_Chorin - plate_Griffith| (mm)" legend="true" caption="图 2. 两个求解器 plate 位移差的随时间采样；central 只跑到 t=0.065 s。" >}}
+t,native_diff,off_diff,central_diff
+0.000250,0.000000,0.000000,0.000000
+0.005250,0.000106,0.000106,0.000106
+0.010250,0.000446,0.000446,0.000446
+0.015250,0.000940,0.000938,0.000938
+0.020250,0.001315,0.001342,0.001342
+0.025250,0.001122,0.001373,0.001373
+0.030250,0.002501,0.002135,0.002133
+0.035250,0.003336,0.002306,0.002308
+0.040250,0.019964,0.003480,0.003382
+0.045250,0.029290,0.003049,0.002804
+0.050250,0.034570,0.002922,0.002483
+0.055250,0.038119,0.003559,0.003077
+0.060250,0.006816,0.004471,0.006596
+0.065250,0.003331,0.005072,
+0.070250,0.001711,0.004877,
+0.075250,0.001275,0.003918,
+0.080250,0.005881,0.002658,
+0.085250,0.005054,0.005645,
+0.090250,0.009921,0.005536,
+0.095250,0.024123,0.005322,
+0.100000,0.051889,0.005032,
+{{< /chart >}}
+
+完整 400 步时间曲线如下。左上/右上分别是 `native` 和 `off` 模式下两个求解器的
+plate 最大位移；左下是求解器差值；右下是 plate 总力：
+
+![time curves](/griffith-chorin/time_curves_plate.png)
+<p class="tcaption">图 3. 400 步时间曲线：plate 最大位移、求解器差值和对板力。</p>
+
+marker 最大速度和最大散度随时间的曲线：
+
+![flow curves](/griffith-chorin/time_curves_flow.png)
+<p class="tcaption">图 4. marker 最大速度和最大散度的时间曲线。</p>
+
+原始数据下载：[native/Chorin history.csv](/griffith-chorin/native_chorin_history.csv)、[native/Griffith history.csv](/griffith-chorin/native_griffith_history.csv)、[off/Chorin history.csv](/griffith-chorin/off_chorin_history.csv)、[off/Griffith history.csv](/griffith-chorin/off_griffith_history.csv)、[差值采样 CSV](/griffith-chorin/time_diff_samples.csv)。
+
+### 3.5 PyVista 三维视图
+
+下面用 PyVista 查看最终时刻的 marker 构型：管壁 marker 连接成四边形网格，
+隔板 marker 用球 glyph；颜色是相对参考构型的位移大小（mm）。
+四个 panel 依次是 `native/Chorin`、`native/Griffith`、`off/Chorin`、`off/Griffith`：
+
+![pyvista final](/griffith-chorin/pyvista_final_native_off.png)
+<p class="tcaption">图 5. PyVista 最终 marker 构型；颜色为 |disp|。</p>
+
+两个求解器逐 marker 的配对距离。`native` 模式的最大差约 0.41 mm，
+`off` 模式约 0.005 mm，因此两个 panel 使用各自的颜色范围：
+
+![pyvista diff](/griffith-chorin/pyvista_solver_difference.png)
+<p class="tcaption">图 6. PyVista 配对 marker 距离；native（左）和 off（右）量级不同，颜色范围独立。</p>
 
 ---
 
