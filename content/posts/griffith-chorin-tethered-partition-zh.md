@@ -275,6 +275,33 @@ marker 最大速度和最大散度随时间的曲线：
 ![pyvista diff](/griffith-chorin/pyvista_solver_difference.png)
 <p class="tcaption">图 6. PyVista 配对 marker 距离；native（左）和 off（右）量级不同，颜色范围独立。</p>
 
+### 3.6 最终时刻流场 VTI
+
+demo 现在支持 `--vti`：在每次运行结束时写出最终时刻的 MAC 流场，
+内部会转换为 VTI (VTK ImageData) PointData，包含 `velocity`、`pressure`、
+`u`、`v`、`w`、`vorticity_mag`。可以直接在 ParaView 中打开，也可以用 PyVista 读取：
+
+```bash
+/path/to/tethered_tube_partition ... both --convection off --vti
+```
+
+本次上传的最终时刻 VTI：
+
+- [native/Chorin final VTI](/griffith-chorin/native_chorin_final.vti)
+- [native/Griffith final VTI](/griffith-chorin/native_griffith_final.vti)
+- [off/Chorin final VTI](/griffith-chorin/off_chorin_final.vti)
+- [off/Griffith final VTI](/griffith-chorin/off_griffith_final.vti)
+
+下面是 PyVista 读取 VTI 后在 `z=0.5` 中截面上的速度大小和压力分布。
+四个 panel 与 marker 图相同：`native/Chorin`、`native/Griffith`、`off/Chorin`、`off/Griffith`。
+速度图和压力图各自使用统一颜色范围。
+
+![flow speed slice](/griffith-chorin/pyvista_flow_speed_slice.png)
+<p class="tcaption">图 7. 最终时刻 z=0.5 中截面速度大小 |u|；黑色短线为隔板参考位置。</p>
+
+![flow pressure slice](/griffith-chorin/pyvista_flow_pressure_slice.png)
+<p class="tcaption">图 8. 最终时刻 z=0.5 中截面压力 p；黑色短线为隔板参考位置。</p>
+
 ---
 
 ## 4. 怎么理解这组差异
