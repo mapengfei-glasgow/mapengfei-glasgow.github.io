@@ -1,0 +1,271 @@
+---
+layout: single
+title: "Russia and Ukraine continue strikes on energy targets"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-15T00:00:00Z
+slug: "2026-09-15-russia-and-ukraine-continue-strikes-on-energy-targets"
+audioDir: "2026-09-15-russia-and-ukraine-continue-strikes-on-energy-targets"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-15-russia-and-ukraine-continue-strikes-on-energy-targets/episode.mp3"
+totalDuration: 1619.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.06}
+  - {text: "I'm Charlotte Gallagher and at 1400 hours GMT on Tuesday, the 15th of September, these are our main stories.", start: 5.40, end: 12.28}
+  - {text: "As Ukraine and Russia continue fighting, Kiev says it's ready to observe a temporary pause in attacks on energy infrastructure.", start: 12.80, end: 20.12}
+  - {text: "In Lithuania, a NATO fighter jet shoots down a drone that entered the country's airspace.", start: 20.64, end: 25.74}
+  - {text: "Also in this podcast, Kenya will host the World Athletics Championships, a first for an African nation.", start: 27.99, end: 34.89}
+  - {text: "Nairobi has demonstrated emphatically that this is their moment to supercharge the development of our sport in Kenya and across Africa.", start: 35.19, end: 44.29}
+  - {text: "And the number of people in Japan who are aged 100 or older has surpassed 100 ,000 for the first time.", start: 44.83, end: 51.67}
+  - {text: "There's been no pause in fighting between Russia and Ukraine, despite President Trump's claim that both sides would temporarily stop targeting critical infrastructure.", start: 56.08, end: 65.30}
+  - {text: "Russia says a gas pipeline was hit in the south of the country in an attack overnight, while officials in the Zaporizhia region in Ukraine said Russian attacks had disrupted power supplies to some areas", start: 65.80, end: 77.54}
+  - {text: "and a petrol station in Kiev was hit.", start: 77.54, end: 80.00}
+  - {text: "Ukraine says it supports de -escalation, but only if Russia shows it's ready to end the war.", start: 80.64, end: 86.46}
+  - {text: "The foreign minister Andrey Sibiya said Ukraine was primed for a ceasefire.", start: 87.18, end: 91.54}
+  - {text: "Ukraine is ready for such a ceasefire.", start: 92.06, end: 97.28}
+  - {text: "Our partners know our position.", start: 97.76, end: 98.94}
+  - {text: "And by the way, there are several other proposals from our closest partners, our international partners, to work on this track so that through joint efforts we can achieve this energy ceasefire.", start: 99.68, end: 109.20}
+  - {text: "The Kremlin has said it welcomed the U .S.", start: 109.20, end: 112.04}
+  - {text: "proposal, while adding that what it called illegal sanctions on Russian energy supplies should be lifted.", start: 112.08, end: 117.90}
+  - {text: "Our correspondent James Landale is in the Ukrainian capital and told me more about the overnight attacks.", start: 118.42, end: 123.64}
+  - {text: "Here in Kiev, yet again, more air raids, more Russian drones in the skies overnight.", start: 124.10, end: 129.40}
+  - {text: "And this morning the understanding is that the main targets of those drones were petrol stations.", start: 130.20, end: 135.26}
+  - {text: "Two were hit. We know a number of people have been injured.", start: 136.02, end: 138.64}
+  - {text: "There is a report that one of them has now died of their wounds in hospital.", start: 139.02, end: 142.58}
+  - {text: "This is part of a continuing pattern now of Russia choosing more and more petrol stations to target here as part of a wider escalation of its attacks against Ukraine.", start: 143.22, end: 153.88}
+  - {text: "In turn, we also know that there was a Ukrainian missile attack on a town in the southern part of Russia on the Sea of Azov", start: 154.44, end: 163.68}
+  - {text: "where the local regional governor has reported Ukrainian strikes on a warehouse and a gas pipeline.", start: 163.68, end: 169.38}
+  - {text: "So the fighting continues.", start: 169.60, end: 170.54}
+  - {text: "And have Ukraine and Russia said anything about this temporary pause that Donald Trump announced on them targeting critical infrastructure?", start: 171.12, end: 179.46}
+  - {text: "Well, Donald Trump said there was an agreement.", start: 179.98, end: 181.40}
+  - {text: "That's not true. What there is is some kind of proposal doing the rounds.", start: 181.80, end: 185.68}
+  - {text: "President Zelensky said in his overnight address that he welcomed what he called a strong proposal from the United States for some kind of pause on attacks on critical infrastructure.", start: 185.98, end: 195.48}
+  - {text: "And he said that Ukraine was in principle willing to de -escalate.", start: 196.12, end: 199.86}
+  - {text: "But he said they would only do that if there was a very genuine and clear sign that Russia was ready to end the war.", start: 200.26, end: 206.92}
+  - {text: "And he said at the moment there isn't such readiness.", start: 207.10, end: 209.54}
+  - {text: "Here not many people are holding their breath for some kind of pause in the fighting.", start: 210.38, end: 214.66}
+  - {text: "The general expectation here is that Russia will seek to use this coming winter to put as much pressure as it can on Ukraine.", start: 214.78, end: 222.16}
+  - {text: "That was James Landale in Kiev.", start: 222.60, end: 224.10}
+  - {text: "On Monday, NATO and EU leaders condemned what they described as Russian attempts to frighten the West away from its support for Ukraine, after a drone", start: 224.86, end: 234.00}
+  - {text: "struck a train near the Ukraine -Poland border.", start: 234.00, end: 236.60}
+  - {text: "Less than 24 hours later, NATO said one of its fighter jets has shot down a drone that entered Lithuanian airspace.", start: 237.14, end: 244.18}
+  - {text: "David S. Matulonis is the National Security Advisor for the Lithuanian President.", start: 244.78, end: 249.24}
+  - {text: "This is the signal of our airspace, the encountering such a...", start: 249.60, end: 255.78}
+  - {text: "Our correspondent Sarah Rainsford was in the Lithuanian capital Vilnius when the drone incursion happened.", start: 274.75, end: 280.43}
+  - {text: "It was just after midnight this morning here in Vilnius that my phone screeched with an alert.", start: 280.93, end: 286.09}
+  - {text: "And when I checked the message, it said there was a suspected drone.", start: 286.23, end: 289.43}
+  - {text: "Keep safe, it said, and wait for the all clear.", start: 289.69, end: 292.47}
+  - {text: "Now, that all clear came about 20 minutes later, and we now know that there was a drone confirmed, that it was in Lithuanian airspace for around about half an hour before it was intercepted and shot down by NATO fighter jets.", start: 292.47, end: 305.23}
+  - {text: "We still don't know who that drone belonged to.", start: 305.55, end: 307.67}
+  - {text: "We don't know whether it was launched deliberately or it might have strayed into Lithuanian airspace.", start: 307.87, end: 312.47}
+  - {text: "We know that it entered from neighbouring Belarus, and that after it was shot down, the debris was scattered over a wide area, so it's being collected up and examined to see who it was launched by", start: 312.57, end: 322.99}
+  - {text: "and whether or not it was armed, in fact, whether or not there was any explosives.", start: 323.53, end: 327.79}
+  - {text: "But this has happened at a nervous time here in this region because Russia is escalating its full -scale war on Ukraine, and it is also", start: 328.15, end: 337.15}
+  - {text: "escalating its hybrid attacks on Ukraine's greatest supporters.", start: 337.15, end: 341.01}
+  - {text: "Vilnius Lithuania has always been a staunch supporter of Ukraine ever since the full -scale invasion.", start: 341.49, end: 346.35}
+  - {text: "This city is still covered in Ukrainian flags.", start: 346.93, end: 350.15}
+  - {text: "There's lots of messages of solidarity.", start: 350.27, end: 352.31}
+  - {text: "In the past, when there have been drone incursions into other countries, including Poland and other Baltic states, experts have suggested that Moscow could be testing NATO's reactions.", start: 352.79, end: 363.25}
+  - {text: "At the moment here in Lithuania, there are still more questions and answers, but certainly there is now a full -scale investigation into what happened and who might be behind it.", start: 363.69, end: 372.61}
+  - {text: "That was Sarah Rainsford.", start: 373.05, end: 374.13}
+  - {text: "Saudi Arabia has vowed to respond firmly to attacks by Yemen's Houthis after the Iran -backed fighters wounded 13 people in the south of the kingdom in an assault using ballistic missiles and drones.", start: 375.22, end: 386.92}
+  - {text: "In Yemen, reports on a Houthi -run media outlet say three people were killed in Saudi -led airstrikes.", start: 387.48, end: 393.62}
+  - {text: "The recent fighting has been some of the heaviest in the region in years, forcing thousands of civilians to flee across the Red Sea to neighbouring Djibouti.", start: 394.20, end: 402.38}
+  - {text: "Ramatou Toure is the representative in Djibouti for the United Nations Children's Agency UNICEF.", start: 402.38, end: 409.04}
+  - {text: "She spoke to my colleague Anne Soy about what she'd witnessed.", start: 409.14, end: 411.90}
+  - {text: "What we've been witnessing is the arrival of civilians crossing the Red Sea and families and women on boats who have arrived in Djibouti who have been received by the government of Djibouti.", start: 412.34, end: 425.50}
+  - {text: "So we've been seeing at least 2 ,400 people crossing over the past few days.", start: 425.80, end: 431.10}
+  - {text: "We estimate that half of them are children.", start: 431.66, end: 433.94}
+  - {text: "They are tired, but they are also very relieved once they arrived.", start: 434.48, end: 439.36}
+  - {text: "What we've seen is families crossing.", start: 439.96, end: 442.80}
+  - {text: "We've also seen children who had to cross in different boats.", start: 443.32, end: 446.36}
+  - {text: "What do you expect in the coming days and weeks if the situation does not improve?", start: 446.78, end: 451.62}
+  - {text: "Well, first of all, I think that we were all kind of surprised by the numbers.", start: 452.14, end: 456.68}
+  - {text: "We do not know obviously how the situation will evolve, but we're expecting more arrivals.", start: 457.08, end: 461.54}
+  - {text: "We are planning for 5 ,000 to 10 ,000.", start: 462.24, end: 464.86}
+  - {text: "Our capacity, I would say, as partners to provide assistance to these arrivals will be difficult.", start: 465.48, end: 471.92}
+  - {text: "They need first water, shelter, food, and the assistance is being provided by the government.", start: 472.82, end: 480.08}
+  - {text: "Should the situation escalate, it will be very difficult to cover those needs.", start: 480.74, end: 485.44}
+  - {text: "Presumably the ones who have arrived, 2 ,400, they don't expect to be leaving anytime soon.", start: 485.44, end: 492.18}
+  - {text: "Do you have enough to provide for them?", start: 492.32, end: 494.88}
+  - {text: "Definitely not. There's definitely not.", start: 495.36, end: 497.38}
+  - {text: "So we need to plan both for new arrivals, but also how are we going to support the government?", start: 497.90, end: 503.90}
+  - {text: "The good thing is that they are actually arriving in our refugee village that is called Mark Tamakasi, where there are some already basic installations.", start: 504.66, end: 514.38}
+  - {text: "But this is not enough.", start: 514.38, end: 516.18}
+  - {text: "We urgently need actually additional assistance.", start: 516.66, end: 519.64}
+  - {text: "As for UNICEF alone, we are planning and we have a need of 3 million US dollars to cover for 10 ,000 people.", start: 520.30, end: 527.80}
+  - {text: "As we say, this is our estimate for the next six months.", start: 528.02, end: 531.50}
+  - {text: "Kenya has a long history of producing some of the world's greatest athletes, particularly when it comes to long distance running.", start: 532.72, end: 540.36}
+  - {text: "Now the country will be the first in Africa to host the World Athletics Championships in 2029.", start: 540.94, end: 546.82}
+  - {text: "The announcement was made by the World Athletics President, Sebastian Koh.", start: 547.42, end: 551.00}
+  - {text: "It was important that the world championship should come to Africa when we had the right host, the right bid and the right circumstances.", start: 551.40, end: 561.50}
+  - {text: "Nairobi has demonstrated emphatically that this is their moment to supercharge the development of our sport in Kenya and across Africa.", start: 562.18, end: 571.20}
+  - {text: "Nairobi beat off competition from London and Rome.", start: 571.82, end: 574.82}
+  - {text: "Our global affairs reporter Richard Kagoye is in the Kenyan capital and he told me more about why Kenya came out on top.", start: 575.20, end: 582.20}
+  - {text: "Well it is said that Kenya did present a very solid and emotional bid to host this very historic event.", start: 582.48, end: 590.22}
+  - {text: "The argument has been that Kenyans really do follow athletics.", start: 590.80, end: 594.74}
+  - {text: "It is the second most followed sport in the country behind football.", start: 595.00, end: 598.46}
+  - {text: "In terms of engagement also online on social media, Kenyans are quite really engaged when it comes to athletics.", start: 598.46, end: 605.52}
+  - {text: "There's also the thinking of the fact that Kenya has over the years produced world and Olympic champions and it will be a historic moment for", start: 606.24, end: 615.32}
+  - {text: "Kenya to host this event for the very first time being held in the African continent.", start: 615.32, end: 620.70}
+  - {text: "What's the reaction then in Kenya?", start: 621.32, end: 622.96}
+  - {text: "Because I guess it feels like it's been a long time coming having it there.", start: 623.20, end: 626.36}
+  - {text: "Absolutely, you rightly put it that way.", start: 626.36, end: 628.72}
+  - {text: "It's been a long time coming and Kenya had done a bidder for 2025 but lost out to Tokyo and there has been really a lot of excitement.", start: 628.82, end: 637.84}
+  - {text: "Just looking even at comments by the Kenyan president William Ruto who says that this is Kenya's moment.", start: 638.26, end: 644.26}
+  - {text: "It's Africa's moment. He says that it's a victory for generation of athletes who have made our nation quite a synonymous with excellence on the track, on the road and cross country.", start: 644.46, end: 656.36}
+  - {text: "There have been also comments from the Kenyan sprinter Fadinant Omanyala who also holds a 100 record holder who says what a time to be a Kenyan athlete.", start: 656.52, end: 666.14}
+  - {text: "And also Paul Terragat, if you remember him, he also said that this was a moment that Kenya really deserved at this opportunity to host at this event.", start: 666.40, end: 675.82}
+  - {text: "So it's not just a Kenyan moment but it's widely seen as a victory for Africa because athletics has really picked up across East Africa and Tanzania,", start: 675.90, end: 684.56}
+  - {text: "Uganda and also as far as South Africa.", start: 684.80, end: 687.66}
+  - {text: "So it's a moment of pride for the continent.", start: 688.04, end: 690.60}
+  - {text: "And what will happen now in terms of infrastructure in Nairobi?", start: 691.04, end: 695.14}
+  - {text: "Are they going to be building new stadiums, upgrading some of the older ones?", start: 695.46, end: 698.46}
+  - {text: "Well, I think for the moment it's basically upgrading.", start: 699.36, end: 702.06}
+  - {text: "And this has really been in the works for a while because Kenya set also to host the Africa Cup of Nations 2027.", start: 702.26, end: 708.72}
+  - {text: "Jointly with Uganda and Tanzania.", start: 708.72, end: 711.12}
+  - {text: "So at the moment we have the biggest stadium in the city which has about 48 ,000 seater capacity.", start: 711.68, end: 717.58}
+  - {text: "It's currently undergoing major structural overhaul and renovation in readiness for the Soka event and also for hosting these athletics.", start: 717.92, end: 725.94}
+  - {text: "There's also another stadium as well in the city which has about roughly 30 ,000 seater which is half of that which has also been undergoing renovations.", start: 726.16, end: 734.82}
+  - {text: "And a major one coming up, of course, doesn't have a running truck.", start: 735.04, end: 738.32}
+  - {text: "So the country has sort of like been positioning itself for major sporting events locally, regionally, and also internationally.", start: 738.32, end: 746.00}
+  - {text: "So I think with this spring in 2029, they have a bit of a lead time.", start: 746.24, end: 750.42}
+  - {text: "That was Richard Kaguya.", start: 750.92, end: 752.04}
+  - {text: "Still to come in this podcast.", start: 754.35, end: 756.21}
+  - {text: "If you read early on, when you're in an adolescent, you have better brain structure, better cognition, better academic attainment.", start: 756.61, end: 764.77}
+  - {text: "You have less inattention.", start: 765.15, end: 766.61}
+  - {text: "Why reading? Whatever the genre can bring health benefits at every stage of life.", start: 766.61, end: 772.27}
+  - {text: "This is the Global News Podcast.", start: 772.85, end: 780.30}
+  - {text: "The number of people in Japan who are aged 100 or older has surpassed 100 ,000 for the first time.", start: 781.45, end: 787.87}
+  - {text: "And the vast majority of them are women.", start: 788.29, end: 790.75}
+  - {text: "The oldest person is 114 years old and she's a woman in Kyoto.", start: 791.29, end: 796.09}
+  - {text: "I asked our Tokyo correspondent, Karumi Mori, why so many Japanese people are living for such a long time.", start: 796.71, end: 803.09}
+  - {text: "I mean, there's no single explanation for this.", start: 803.27, end: 806.61}
+  - {text: "But Japan's longevity is really probably the result of several factors that really have been working together over the past few decades.", start: 806.91, end: 815.37}
+  - {text: "The number one thing I can see here on the ground is perhaps the diet, the traditional Japanese food.", start: 815.73, end: 821.69}
+  - {text: "It's often associated with more fish, vegetables, rice, relatively nutritious foods.", start: 821.77, end: 827.21}
+  - {text: "And historically, we have lower levels of saturated fat compared to a lot of the Western diets.", start: 827.63, end: 832.23}
+  - {text: "So that may be one contributing factor.", start: 832.35, end: 834.65}
+  - {text: "Another thing, healthcare. Japan has a highly developed healthcare system that gives broad access to medical care at pretty reasonable costs which helps you prevent any illnesses, detect them and treat them.", start: 834.81, end: 848.65}
+  - {text: "There's also lifestyle factors.", start: 848.89, end: 851.09}
+  - {text: "Physical activity is very big in Japan.", start: 851.27, end: 854.41}
+  - {text: "A lot of the social connections and communities is based around remaining engaged in the community and that could also contribute to healthy aging.", start: 854.41, end: 863.67}
+  - {text: "And these figures are going up and up as well.", start: 864.25, end: 866.63}
+  - {text: "I was reading that when they started counting them in the 1960s, it was a relatively small number and as you're talking about now going over 100 ,000.", start: 866.73, end: 874.59}
+  - {text: "That's right. When the government started compiling this figure dating back to 1963, there were only just 153 centenarians.", start: 874.95, end: 884.07}
+  - {text: "Now that number, as you said, has surpassed 100 ,000.", start: 884.07, end: 888.27}
+  - {text: "And so this figure has been increasing every single year for the past 56 years.", start: 888.41, end: 893.79}
+  - {text: "And so it keeps going up and up.", start: 893.95, end: 896.15}
+  - {text: "And the interesting bit is 88 % of all centenarians are women.", start: 896.51, end: 901.73}
+  - {text: "That's the same figure as last year.", start: 901.89, end: 903.23}
+  - {text: "In 2025 reported as well that 88 % of them were women.", start: 903.29, end: 908.47}
+  - {text: "So the striking part of all this is that this is all happening while Japan's overall population is declining.", start: 908.73, end: 915.67}
+  - {text: "And from what you were saying as well, it seems that people not being isolated, people being involved in the community is as important perhaps as dire and also healthcare.", start: 916.45, end: 926.23}
+  - {text: "Yeah, there's a lot of research that's been ongoing.", start: 926.73, end: 929.95}
+  - {text: "Some of the experts suggest that combining good healthcare with healthy lifestyles, managing illnesses early, really help contribute to having longevity in a Japanese life.", start: 930.51, end: 941.97}
+  - {text: "There's also a cautionary tale for Japan, right?", start: 942.41, end: 945.23}
+  - {text: "Longer lives combined with very low birth rates do create a shrinking workforce.", start: 945.35, end: 949.45}
+  - {text: "So that's putting pressure on society as well.", start: 949.75, end: 952.27}
+  - {text: "That was Karumi Mori in Tokyo.", start: 952.53, end: 954.53}
+  - {text: "One of the biggest nights in television, the Emmys has taken place in Los Angeles, recognizing the hit shows of the past year.", start: 955.53, end: 963.49}
+  - {text: "And Widow's Bay, the comedy horror television series about a sleepy and supposedly cursed New England town, completely dominated the awards, followed by the emergency room drama The Pit.", start: 963.49, end: 975.49}
+  - {text: "The Welsh actor Matthew Reese made history too, winning two lead acting prizes.", start: 976.05, end: 980.45}
+  - {text: "The celebrations will be long varied and I hope times wild.", start: 980.83, end: 984.77}
+  - {text: "It's incredible. It really, it certainly hasn't sunk in.", start: 985.33, end: 990.05}
+  - {text: "And I'm, you know, stumbling for words because I really don't have them at the moment.", start: 990.57, end: 993.99}
+  - {text: "I can't, I can't, I really can't quite believe it.", start: 994.23, end: 997.86}
+  - {text: "I'm from a, you know, I'm from a small country and I'm glad we kind of, you know, we get moments to kind of put our flag in the map and say,", start: 999.10, end: 1007.94}
+  - {text: "you know, we punch higher than I wait sometimes in Wales.", start: 1008.04, end: 1011.86}
+  - {text: "In the outstanding writing for a comedy series, Katie Dippold also took the prize for Widow's Bay.", start: 1012.79, end: 1018.11}
+  - {text: "Here she is explaining how she works.", start: 1018.67, end: 1020.79}
+  - {text: "A lot of it is just following your gut, you know, sometimes it feels right for a comedic moment and sometimes you don't want to undercut the tension or scare with something silly.", start: 1021.05, end: 1033.45}
+  - {text: "So it's truly just trial and error and just feeling your way through and even through production, like there are times here when I would look at each other like, does this feel weird?", start: 1033.89, end: 1042.55}
+  - {text: "Does this feel right?", start: 1042.75, end: 1043.37}
+  - {text: "This feels weird and just like adjust.", start: 1043.47, end: 1044.81}
+  - {text: "So it's truly just trial and error and then seeing what comes together.", start: 1045.21, end: 1049.17}
+  - {text: "And here's our correspondent in LA, David Willis, with a roundup of the night.", start: 1049.59, end: 1053.81}
+  - {text: "It's the annual Emmy Award show with statuettes handed out for comedy, drama, reality and late night television.", start: 1054.09, end: 1061.97}
+  - {text: "The Law and Order star, Mariska Hargitay, kicked off the proceedings with a song.", start: 1062.21, end: 1066.53}
+  - {text: "Sally Field paid tribute to Dolly Parton saying that the world, and in her words, lost an angel.", start: 1066.99, end: 1073.29}
+  - {text: "And Michael J. Fox received multiple standing ovations and a rare humanitarian award for his charitable work on behalf of Parkinson's disease.", start: 1073.85, end: 1084.35}
+  - {text: "But the night belonged to the quirky new horror comedy, Widow's Bay, breaking the record for comedy series by winning 14 Emmys, including best comedy, and three acting awards.", start: 1085.15, end: 1096.07}
+  - {text: "The show's star, the Welsh actor Matthew Reese, made history winning two lead actor prizes in one night for Widow's Bay and The Beast in Me, which is a Netflix limited series.", start: 1096.61, end: 1108.21}
+  - {text: "Widow's Bay picked up a total of 14 Emmys, breaking an Emmy comedy record, including best supporting actress for Kate O 'Flynn for her role as the awkward assistant Patricia.", start: 1108.65, end: 1119.73}
+  - {text: "The other big winner this year was the medical drama The Pit, which won a total of six Emmys, including for best leading actor, that prize we're going to Noah Wiley.", start: 1120.49, end: 1129.73}
+  - {text: "Well, amid the fall in Hollywood production and flight to other less expensive places, such as Canada and the United Kingdom, The Pit offers at least a crumb of comfort.", start: 1129.73, end: 1140.29}
+  - {text: "It was made not in Pittsburgh, but on a soundstage here in Los Angeles, and it's already been commissioned for a third series.", start: 1140.69, end: 1148.83}
+  - {text: "That was David Willis in LA.", start: 1149.31, end: 1151.01}
+  - {text: "Researchers at Cambridge University say reading for pleasure is linked to better mental health, lower stress levels, and a reduced risk of dementia.", start: 1151.98, end: 1160.80}
+  - {text: "In a new review of existing evidence, scientists argue that regularly picking up a book, whatever the genre, can bring health benefits at every stage of life.", start: 1161.52, end: 1170.36}
+  - {text: "One study of more than 10 ,000 young people found those who read for fun from an early age had better concentration, memory, and problem -solving skills.", start: 1170.94, end: 1180.36}
+  - {text: "Professor Barbara Sahakian is the lead researcher.", start: 1180.96, end: 1183.48}
+  - {text: "People can benefit from reading at all ages, which is what's great, but it's especially important in early childhood because we have shown in some of our own studies", start: 1183.86, end: 1194.00}
+  - {text: "that the benefits of reading accrue when you're an adolescent.", start: 1194.60, end: 1197.82}
+  - {text: "So if you read early on as a child, when you're an adolescent, you have better brain structure, better cognition, better academic attainment.", start: 1198.26, end: 1207.64}
+  - {text: "You have less inattention, less symptoms of mental health problems, and so you get all these benefits.", start: 1207.90, end: 1214.30}
+  - {text: "They also spend less screen time, which I know a lot of parents are concerned about, and they have a longer sleep duration.", start: 1214.30, end: 1221.24}
+  - {text: "So all those things accrue in adolescence if you are an early reader in childhood.", start: 1222.02, end: 1226.56}
+  - {text: "I was going to say that can be one of the hardest things for parents to get their children to read, particularly when there's so many screens around", start: 1227.04, end: 1234.90}
+  - {text: "that can often seem more tempting for children.", start: 1234.90, end: 1237.10}
+  - {text: "Yes, we always say that the important thing is reading for pleasure, and it doesn't really matter what they read.", start: 1237.46, end: 1243.42}
+  - {text: "And the studies have shown that as well.", start: 1243.42, end: 1245.56}
+  - {text: "So even comic books or anything that interests them, if it's about sports, about football or anything about fashion or whatever they want to read, it's good to get them started reading", start: 1246.00, end: 1257.06}
+  - {text: "because they'll probably continue that as a good habit lifelong.", start: 1257.06, end: 1260.36}
+  - {text: "And then at the other end of the spectrum, it's also great for you because we reported on a couple of studies that showed with a big group of people about 2 ,000 older adults that if they read just once weekly,", start: 1260.86, end: 1272.76}
+  - {text: "they were less likely to suffer from cognitive decline with aging over a 14 -year period.", start: 1272.76, end: 1279.66}
+  - {text: "So that's really great.", start: 1280.04, end: 1281.10}
+  - {text: "And another study showed that you had a 35 % reduction in risk of dementia if you were a reader.", start: 1281.50, end: 1288.26}
+  - {text: "So at the other end of the spectrum, you also gain a lot.", start: 1288.80, end: 1291.86}
+  - {text: "And does it matter if someone's reading a book or a magazine, or is it the same if they're reading from, say, a Kindle?", start: 1292.38, end: 1299.08}
+  - {text: "Well, it does matter.", start: 1299.64, end: 1301.04}
+  - {text: "I mean, most people enjoy the books better than the Kindles, but the Kindles are sort of more practical.", start: 1301.04, end: 1306.16}
+  - {text: "But I would say that different effects you get in the brain, depending on what you're reading.", start: 1306.86, end: 1311.04}
+  - {text: "So that was one of the most fascinating things of the studies that we looked at.", start: 1311.22, end: 1315.32}
+  - {text: "One of them found that if you were reading fiction and it had a social content, that it actually activated areas of the brain that we know are involved in social cognition, so areas like the temporal parietal junction.", start: 1315.74, end: 1328.34}
+  - {text: "Now, the interesting thing there is that this area is very important for the sorts of things like empathy or understanding the ideas of others, sort of theory of mind, what the other person's thinking.", start: 1328.34, end: 1341.74}
+  - {text: "And in surveys, when you ask people about why do you read, they say to reduce loneliness, to connect more with others, it also gives them more empathy", start: 1342.62, end: 1352.18}
+  - {text: "and it also helps them understand things from another person's perspective.", start: 1352.18, end: 1356.46}
+  - {text: "So it's really interesting that the survey data fits very well with what we actually see in the brain when people are neuro -imaged.", start: 1357.01, end: 1364.82}
+  - {text: "That was Professor Barbara Sahakian.", start: 1365.38, end: 1367.24}
+  - {text: "Let's go back to our main story and get the perspective of a Ukrainian tennis player, Diana Yamstremska, who's just finished playing in the US Open.", start: 1367.86, end: 1376.28}
+  - {text: "Russian drones have carried out massive attacks in recent days and her family home in the port city of Odessa in the southwest of the country has been hit.", start: 1376.78, end: 1385.04}
+  - {text: "She's been speaking to the BBC's Rob Young about the moment she found out.", start: 1385.04, end: 1389.30}
+  - {text: "I was a niece, I woke up at five in the morning due to my father's call by video and he told me the Russian missile", start: 1389.50, end: 1398.26}
+  - {text: "caliber hit out building in Odessa during the night.", start: 1398.26, end: 1401.68}
+  - {text: "Then they told me that apartment was completely destroyed.", start: 1402.20, end: 1405.60}
+  - {text: "For the first few seconds, I couldn't really understand and realize what it meant.", start: 1406.18, end: 1411.46}
+  - {text: "Some young men on the 21st floor were simply sleeping in their homes.", start: 1411.98, end: 1416.74}
+  - {text: "They were killed. Another young man on the same floor was pulled out from underneath and concrete slab and somehow he survived.", start: 1417.04, end: 1426.58}
+  - {text: "At that time, I had a thought that I lost apartment, but thanks God my parents are alive, my family is alive.", start: 1427.44, end: 1434.30}
+  - {text: "It's very, very, very scary.", start: 1434.81, end: 1436.71}
+  - {text: "Now you posted an image on social media of the bright orange Rodin Garros towel hanging from the wreckage.", start: 1437.39, end: 1445.13}
+  - {text: "So just tell us the significance of that.", start: 1445.83, end: 1447.73}
+  - {text: "That's the only thing that left and the white toy that was on the floor under the building.", start: 1448.07, end: 1456.85}
+  - {text: "And you know, when I saw that towel, like I'm on the destruction, at first it almost didn't seem real because when there is nothing left,", start: 1457.45, end: 1467.93}
+  - {text: "the only thing you see is the yellow towel Rodin Garros.", start: 1468.11, end: 1472.09}
+  - {text: "You know, for someone it's just a towel, but for me Rodin Garros is my life, is my journey, my dreams, my victories, my fells, everything.", start: 1472.63, end: 1485.41}
+  - {text: "And at that time when I saw it, it became a symbol for me.", start: 1485.91, end: 1490.43}
+  - {text: "A symbol that the fight goes on, even when everything around has been destroyed.", start: 1490.77, end: 1496.31}
+  - {text: "Diana, it's Isaac, the sports presenter here.", start: 1496.67, end: 1499.21}
+  - {text: "I'm really sorry to hear about what's been happening and your story.", start: 1499.21, end: 1502.99}
+  - {text: "I wondered, we're starting to see a bit of a defrosting of relations when it comes to sporting bodies and Russian athletes.", start: 1503.41, end: 1511.35}
+  - {text: "And I know in July, the IOC said that they were going to provisionally suspend the suspension on Russian athletes.", start: 1511.83, end: 1519.33}
+  - {text: "I understand that the WTA is a sport organization.", start: 1519.67, end: 1523.67}
+  - {text: "It cannot stop the war and it cannot make political decisions on, I would say, behalf of governments.", start: 1524.61, end: 1532.57}
+  - {text: "And today I don't really like want to talk about who should or who should not be allowed to compete in the tournaments.", start: 1533.29, end: 1542.09}
+  - {text: "For me, there is something more important right now.", start: 1542.41, end: 1544.95}
+  - {text: "For four and a half years, Ukrainian tennis players have been leaving and competing under circumstances that are anything but normal.", start: 1545.23, end: 1556.07}
+  - {text: "We step onto the same court, play the same rules and are expected to deliver the same results.", start: 1556.75, end: 1563.49}
+  - {text: "But outside the court, our reality can be completely different.", start: 1563.89, end: 1567.47}
+  - {text: "We don't sleep well.", start: 1568.05, end: 1569.29}
+  - {text: "We always worry about our family, about our close people.", start: 1569.79, end: 1573.53}
+  - {text: "Like, that's why I would like the WTA to continue to remember that behind every Ukrainian flag in a tournament draw, there is a real person.", start: 1573.97, end: 1584.09}
+  - {text: "And behind that person, there is a family country where the war is still going on.", start: 1584.09, end: 1590.11}
+  - {text: "That was the Ukrainian tennis player Diana Yamstromska speaking to the BBC.", start: 1590.55, end: 1594.75}
+  - {text: "And that's all from us for now.", start: 1596.87, end: 1598.29}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1598.49, end: 1602.41}
+  - {text: "You can also watch our episodes in full.", start: 1602.91, end: 1604.91}
+  - {text: "Just search for the Global News Podcast on YouTube.", start: 1605.27, end: 1607.71}
+  - {text: "This edition was produced by Marion Straughan.", start: 1608.23, end: 1610.37}
+  - {text: "The editor is Karen Martin.", start: 1610.43, end: 1611.51}
+  - {text: "I'm Charlotte Gallagher. Until next time. Goodbye.", start: 1611.97, end: 1614.07}
+---

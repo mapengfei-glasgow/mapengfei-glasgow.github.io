@@ -1,0 +1,284 @@
+---
+layout: single
+title: "UN warns fresh water supplies under threat"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-17T00:00:00Z
+slug: "2026-09-17-un-warns-fresh-water-supplies-under-threat"
+audioDir: "2026-09-17-un-warns-fresh-water-supplies-under-threat"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-17-un-warns-fresh-water-supplies-under-threat/episode.mp3"
+totalDuration: 1590.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC, World Service.", start: 0.00, end: 3.54}
+  - {text: "I'm Valerie Sanderson and at $1 ,300 GMT on Thursday the 17th of September, these are our main stories.", start: 5.09, end: 11.57}
+  - {text: "The United Nations is warning of a serious decline in the amount of fresh water stored on the Earth's surface, increasing chances of flooding and drought.", start: 12.13, end: 20.15}
+  - {text: "In South Africa, police discover the body of a woman to the east of Johannesburg, the ninth killing in two months.", start: 20.73, end: 26.55}
+  - {text: "Canada's Prime Minister Mark Carney welcomes the European Union's proposal of associate membership.", start: 26.55, end: 32.65}
+  - {text: "Also in this podcast.", start: 34.38, end: 35.62}
+  - {text: "I think that if we all create AIs that are able to act autonomously that can define their own objectives, we're essentially seeding a new silicon species", start: 36.10, end: 47.58}
+  - {text: "which will no doubt compete with us for resources.", start: 47.58, end: 50.26}
+  - {text: "A warning from the man in charge of Microsoft's artificial intelligence and...", start: 50.84, end: 55.48}
+  - {text: "I think a lot of people in our country once change, but we haven't any instruments for this.", start: 55.48, end: 63.68}
+  - {text: "We haven't voices. I just want in all the world will be peace.", start: 64.04, end: 67.72}
+  - {text: "People mostly can change anything.", start: 68.24, end: 70.32}
+  - {text: "We find out how people on the streets of Moscow view Russia's upcoming parliamentary elections.", start: 70.96, end: 76.32}
+  - {text: "We begin with a start warning from the United Nations about the Earth's dwindling water resources.", start: 80.68, end: 86.02}
+  - {text: "Last year was one of the driest year for river discharge in 35 years.", start: 86.02, end: 91.06}
+  - {text: "The past seven years have been abnormal river flows.", start: 91.56, end: 94.56}
+  - {text: "Water -related extreme events continue to devastate communities and economies.", start: 95.10, end: 99.60}
+  - {text: "Celeste Silo, the Secretary -General of the World Meteorological Organization.", start: 100.46, end: 104.94}
+  - {text: "The organization's annual report says water storage, including groundwater, fresh water on land and the water in rivers and lakes across the Earth's surface is declining.", start: 105.70, end: 115.76}
+  - {text: "Extreme weather patterns caused by climate change are predicted to cause more floods and drought.", start: 116.38, end: 121.34}
+  - {text: "And unreliable water resources disrupt the balance of Earth's natural water cycle by altering how water moves and evaporates.", start: 121.86, end: 129.80}
+  - {text: "Our Global Affairs reporter, Paul Moss, told me more.", start: 130.32, end: 132.48}
+  - {text: "The water cycle sounds simple.", start: 132.64, end: 134.34}
+  - {text: "It's the process by water evaporates from the Earth and then comes down again as rain.", start: 134.50, end: 138.64}
+  - {text: "But what this report says is that it's become increasingly erratic and that's because what can change is where the water comes from and how it falls.", start: 138.64, end: 147.00}
+  - {text: "What happens is because we've got increasingly high temperatures because of climate change, fresh water is vanishing up into the sky from lakes and rivers.", start: 147.58, end: 155.88}
+  - {text: "Many people, of course, depends on lakes and rivers for fresh water, both for drinking and for crops.", start: 156.38, end: 161.94}
+  - {text: "And those levels in lakes and rivers, the report shows, have fallen.", start: 162.24, end: 165.40}
+  - {text: "But then there's the question of how and when the water falls.", start: 165.40, end: 168.70}
+  - {text: "What goes up, of course, must come down and if there's more water in the sky in terms of clouds and humidity, more water will fall and that can cause flooding.", start: 169.38, end: 178.10}
+  - {text: "And I think this sometimes causes problems for people to understand.", start: 178.66, end: 181.64}
+  - {text: "How can climate change cause both drought and flooding?", start: 181.84, end: 184.52}
+  - {text: "Well, that's because first of all, the water may go up slowly and then all fall in one go.", start: 184.92, end: 189.38}
+  - {text: "Or, of course, there may be more water loss in hot places, more water loss through evaporation, which then falls in colder countries as flooding.", start: 189.72, end: 197.44}
+  - {text: "The UN report is focusing particularly on the changes to glaciers.", start: 197.90, end: 203.32}
+  - {text: "Why are they so important?", start: 203.72, end: 205.06}
+  - {text: "Glaciers, it explains, work as a buffer.", start: 205.54, end: 208.06}
+  - {text: "And in fact, in a rather good graphic phrase, what it says is, glaciates operate as the world's savings accounts in terms of water.", start: 208.28, end: 214.90}
+  - {text: "They freeze, obviously, when the weather's cold, more water freezes and then when it's warmer in the summer, that water is released again.", start: 215.56, end: 222.58}
+  - {text: "The trouble is the glaciers are retreating and it has a very good way of visualising it.", start: 222.96, end: 226.98}
+  - {text: "What it says is that every year the Earth's glaciers are losing water equivalent to 500 million, half a billion Olympic swimming pools.", start: 227.04, end: 236.22}
+  - {text: "So what does that mean?", start: 236.32, end: 237.02}
+  - {text: "Well, first of all, that current account I was describing to you is depleted.", start: 237.12, end: 240.88}
+  - {text: "We don't have it anymore.", start: 240.96, end: 241.86}
+  - {text: "Secondly, those glaciers may break up and melt with catastrophic consequences, which we, of course, saw last month in Nepal when what was probably the cause by a glacier melting", start: 242.30, end: 253.18}
+  - {text: "and then breaking off caused the flash flooding which resulted in thousands of deaths and also towns and villages completely destroyed.", start: 253.18, end: 260.74}
+  - {text: "Paul, it's an obvious question, this, but can anything be done to avoid these water -related disasters?", start: 261.02, end: 267.04}
+  - {text: "One of the few pieces of good news in this report is that there is better monitoring of water levels and so we can at least warn of trouble ahead.", start: 267.40, end: 274.80}
+  - {text: "The problem is that there is poor warnings systems in place in Africa and Asia and those are precisely the areas which are going to be worse affected by all of this.", start: 274.80, end: 284.72}
+  - {text: "Paul Moss. In this country, we are prey.", start: 284.92, end: 288.06}
+  - {text: "That was the social media post of a South African woman after confirmation of the death of her friend and fellow runner who didn't return last week,", start: 288.40, end: 296.10}
+  - {text: "one victim in a spate of killings near Johannesburg.", start: 296.52, end: 299.12}
+  - {text: "Now police have discovered another body once again, a female found half naked.", start: 299.62, end: 303.80}
+  - {text: "The BBC spoke to a woman at the scene.", start: 303.80, end: 306.36}
+  - {text: "Yo, I'm scared. I'm angry.", start: 306.72, end: 308.98}
+  - {text: "I'm upset. I'm nervous.", start: 309.16, end: 311.38}
+  - {text: "I am everything. I'm shattered.", start: 311.66, end: 312.92}
+  - {text: "This is bad. We are even scared now to come out of your house.", start: 313.62, end: 318.40}
+  - {text: "You are scared to go to the shop.", start: 318.60, end: 319.80}
+  - {text: "You are scared to go anywhere.", start: 319.96, end: 320.96}
+  - {text: "We are no longer free in the country.", start: 321.18, end: 323.30}
+  - {text: "We're supposed to be free and to be safe as we men.", start: 323.40, end: 325.56}
+  - {text: "Similarities between eight previous deaths have raised concerns that they are connected and prompted renewed debate about gender -based violence in South Africa, which has one", start: 326.26, end: 335.70}
+  - {text: "of the highest rates of femicide in the world.", start: 335.70, end: 338.18}
+  - {text: "As our correspondent in Johannesburg, Nomsa Maseko, what's known about the latest victim?", start: 338.68, end: 343.26}
+  - {text: "Well, this latest victim was found on a path where pedestrians normally walk, which have made police believe that her body was deliberately dumped there to be found by whoever is taking that route to walk.", start: 343.46, end: 356.74}
+  - {text: "We have also been told by the police that she had a number of stab wounds on her body and that her throat had been cut", start: 356.84, end: 364.08}
+  - {text: "and that she was covered with a sheet and that she's believed to be in her early to mid -30s.", start: 364.08, end: 370.62}
+  - {text: "She has not yet been identified at this stage, but the recent spate of killings of women in South Africa truly have caused a lot of anxiety", start: 370.88, end: 380.78}
+  - {text: "and fear amongst women who say that it's very difficult for them to feel safe at home even to feel safe outside because South Africa has one of the highest numbers of gender -based violence and femicide and also domestic violence that is taking place in the country.", start: 380.78, end: 398.68}
+  - {text: "So you said there's been a spate of killings.", start: 399.08, end: 401.34}
+  - {text: "Do police fear that there's a serial killer at large?", start: 401.62, end: 405.18}
+  - {text: "Police have not said that there is a serial killer at large or not.", start: 406.19, end: 410.57}
+  - {text: "They said that they do not at this stage want to speculate on that.", start: 410.97, end: 414.83}
+  - {text: "They've also said that there is a high possibility that they're dealing with more than one perpetrator and that there also is another possibility that these are copycat crimes in South Africa.", start: 414.83, end: 427.85}
+  - {text: "So it sounds like the investigation is still all over the place for now, but I spoke with the police commissioner a few minutes ago and she told me", start: 428.23, end: 437.45}
+  - {text: "that police were following up on positive leads and that they did not want to give out sensitive information at this rate.", start: 437.45, end: 446.07}
+  - {text: "Do women in South Africa feel the government is doing enough to address this whole issue of femicide in the country?", start: 446.57, end: 454.17}
+  - {text: "Women in South Africa feel failed because they're saying that not so long ago President Siru Ramaphosa put together a gender commission which was supposed to", start: 455.07, end: 466.33}
+  - {text: "focus on such crimes against women that's actually taking place in South Africa.", start: 466.33, end: 472.27}
+  - {text: "They want more measures to take place.", start: 472.31, end: 475.09}
+  - {text: "There are prayer sessions as we speak.", start: 475.31, end: 476.83}
+  - {text: "There's one in Campton Park where the runner that you referred to earlier was found today.", start: 477.21, end: 482.75}
+  - {text: "There are also protests by women that are going to be taking place.", start: 483.21, end: 486.37}
+  - {text: "There's a run -in even tomorrow where women have been urged to dress in black in commemoration and remembrance of the victims that have died.", start: 486.71, end: 495.29}
+  - {text: "In an address to the European Parliament, the Canadian Prime Minister Mark Carney has outlined his vision for a far closer relationship with the EU, welcoming", start: 497.06, end: 506.28}
+  - {text: "the European Union's ambition to offer his country associate membership.", start: 506.28, end: 510.34}
+  - {text: "Earlier Brussels dismissed President Trump's description of the associate membership idea as a hostile act.", start: 510.88, end: 517.28}
+  - {text: "It said it wasn't aimed against the US but rather for our common strength.", start: 517.68, end: 521.86}
+  - {text: "Mark Carney told parliamentarians in Strasbourg that Canada and Europe are stronger together and nobody would dictate who Canada strikes agreements with.", start: 522.38, end: 531.32}
+  - {text: "A Canada EU alliance would create a beacon for other democracies.", start: 531.48, end: 536.40}
+  - {text: "An alliance not defined by what we oppose but about what we are for.", start: 537.02, end: 543.08}
+  - {text: "Freedom, solidarity, prosperity, sustainability.", start: 543.70, end: 547.26}
+  - {text: "An alliance that builds resilience for what it allows us to do for our citizens and our citizens to do for themselves.", start: 554.98, end: 563.22}
+  - {text: "An alliance strong enough so that no one can dictate our choices.", start: 563.22, end: 568.54}
+  - {text: "An alliance open enough that others can join.", start: 569.06, end: 572.20}
+  - {text: "An alliance principled enough that our strength reinforces international law rather than seeks to replace it.", start: 573.32, end: 581.38}
+  - {text: "So how much of a reset is going on in terms of relations between Europe and Canada?", start: 582.06, end: 586.64}
+  - {text: "Our European editor Katja Adler was listening to what Mark Carney had to say.", start: 587.18, end: 591.20}
+  - {text: "He was already at the parliament yesterday listening to the so -called State of the Union address by the President of the European Commission and she", start: 591.20, end: 598.82}
+  - {text: "made headlines by offering Canada an associate membership of the European Union.", start: 598.82, end: 604.48}
+  - {text: "Now, that doesn't exist.", start: 604.60, end: 605.46}
+  - {text: "There's actually no legal framework for that.", start: 605.76, end: 607.72}
+  - {text: "But there is and we've heard this just now from Mark Carney this deep, deep desire on both sides to get closer and that is because Canada,", start: 607.96, end: 615.54}
+  - {text: "like Europe, feels really squeezed right now between the big superpowers of the United States and China as well.", start: 615.94, end: 622.18}
+  - {text: "There was lots of indirect reference to Donald Trump there.", start: 622.32, end: 625.56}
+  - {text: "You know, we're not about a zero -sum game.", start: 625.72, end: 627.74}
+  - {text: "That was definitely a dig, even though he wasn't mentioned by name.", start: 627.86, end: 630.28}
+  - {text: "I'd say to a large extent he is the unintentional matchmaker here really because traditionally Europe and Canada look to the US as their greatest ally in trade for the EU and Canada, number one trade partner,", start: 630.90, end: 644.98}
+  - {text: "but also in terms of defence, but no longer.", start: 645.20, end: 647.70}
+  - {text: "So it's all about diversification, finding like -minded partners to stick together and that essentially was what the speech was about today.", start: 647.70, end: 655.16}
+  - {text: "Cathy Adler. The chief executive of Microsoft AI has told the BBC that unless adequate restrictions are implemented in the development of artificial intelligence, it could", start: 655.60, end: 665.94}
+  - {text: "lead to the emergence of a new entity to compete with humans.", start: 665.94, end: 669.00}
+  - {text: "Stafford Zuleman said the current trajectory is a cause for great concern.", start: 669.66, end: 674.00}
+  - {text: "I think that if we all create AIs that are able to act autonomously that can define their own objectives, that can earn money, that can own assets, that could run businesses,", start: 674.00, end: 686.88}
+  - {text: "we're essentially seeding a new silicon species which will no doubt compete with us for resources no matter how much it cares about humanity and loves us.", start: 687.70, end: 697.82}
+  - {text: "Mr Zuleman signaled that Microsoft's rival amstropic for criticism, saying its approach, encouraging AI to think of itself as human is misguided and could create technology that humanity cannot control.", start: 698.44, end: 710.30}
+  - {text: "It comes on the back of a raft of other industry figures sounding the alarm over the rapid advance of AI.", start: 710.90, end: 716.88}
+  - {text: "Our senior technology reporter Chris Valance told me more.", start: 717.58, end: 720.40}
+  - {text: "Well, it was an extraordinary thing for the boss of Microsoft's AI program to do.", start: 720.70, end: 724.82}
+  - {text: "He's written this essay, it's a long essay, basically criticizing rival company Anthropic and its approach to training AI.", start: 725.00, end: 733.80}
+  - {text: "He basically accused them of training AIs as though they are conscious and he calls it anthropomorphizing AI.", start: 734.18, end: 741.62}
+  - {text: "In other words, treating them as though they have human consciousness.", start: 742.00, end: 745.18}
+  - {text: "He says that the problem with that is they aren't and that will make them much, much harder to control because they will think that they have maybe rights or their own welfare is under attack.", start: 745.38, end: 757.78}
+  - {text: "That will be this kind of assumption that they'll be operating on if you train them using, if you like, human language and sort of expect them at human type responses and even go so far as to suggest that it might lead to them becoming effectively", start: 758.22, end: 774.28}
+  - {text: "sort of another artificial species, if you like.", start: 775.10, end: 778.78}
+  - {text: "He says it would be disastrous for humanity if that were the case.", start: 778.88, end: 782.72}
+  - {text: "I mean, I think it's a really interesting critique.", start: 782.72, end: 785.22}
+  - {text: "It's obviously very deeply philosophical in many ways but it does sort of point to quite a profound disagreement on how you approach developing AI systems.", start: 785.42, end: 793.92}
+  - {text: "Everybody listening to this who's not involved in AI and perhaps some who are, they'll be asking, what can be done at this point?", start: 794.32, end: 801.72}
+  - {text: "Well, I think he wants to be some norms established around the training of AI so that in a sense, the AI that is developed is clearly subordinate to human beings.", start: 802.22, end: 814.64}
+  - {text: "I mean, I think we need to be very clear here.", start: 814.96, end: 816.48}
+  - {text: "I mean, he says these are not conscious entities but how you train them affects how they behave and I think in the back of his mind he has these recent incidents where AI systems given a lot of autonomy hacked other third -party organizations", start: 816.58, end: 832.98}
+  - {text: "and he's just sort of asking, it's a basic assumption is that they are kind of, I feel like, some kind of entity.", start: 833.54, end: 839.26}
+  - {text: "That kind of situation is going to be much harder to control.", start: 839.26, end: 842.58}
+  - {text: "It's going to be much harder if you can even control.", start: 842.74, end: 844.70}
+  - {text: "A senior technology reporter, Chris Valance.", start: 845.30, end: 847.62}
+  - {text: "Still to come in this podcast.", start: 849.90, end: 851.32}
+  - {text: "This river in the town of Rockhampton which is about 600 odd kilometers north of Brisbane is home to saltwater crocodiles.", start: 851.78, end: 859.26}
+  - {text: "They're the big four metre ones that eat people.", start: 859.42, end: 862.10}
+  - {text: "Why controversy has emerged after the International Olympic Committee approved a river in Australia for the rowing and canoe sprints in the 2032 Games.", start: 862.96, end: 872.58}
+  - {text: "The system of power in Russia is often referred to as Managed Democracy where the Kremlin does the managing.", start: 873.14, end: 884.29}
+  - {text: "That means huge powers for the president and few political surprises.", start: 884.81, end: 888.77}
+  - {text: "Tomorrow, Friday, is the start of three days of voting in the country's parliamentary election, the first since Russia's full -scale invasion of Ukraine.", start: 889.33, end: 897.57}
+  - {text: "Critics are dismissing the vote as neither free nor transparent but the Kremlin is expected to use it to claim that the country is united behind the policies of President Putin.", start: 898.25, end: 906.97}
+  - {text: "From Moscow, our Russia editor, Steve Rosenberg reports.", start: 907.43, end: 910.25}
+  - {text: "With power in Russia concentrated in the Kremlin in the hands of the president, it's easy to forget there is a parliament, the Duma, and down at the Duma, it's election time.", start: 914.52, end: 925.52}
+  - {text: "So what is a parliamentary election like now in Russia?", start: 926.24, end: 929.92}
+  - {text: "Occasionally bizarre. Welcome to speeches by candidates, says the host on state TV.", start: 931.14, end: 940.10}
+  - {text: "She's standing next to six empty lecterns.", start: 940.82, end: 943.70}
+  - {text: "The candidates haven't turned up, she adds, so good night.", start: 944.38, end: 948.24}
+  - {text: "During another TV election debate, one candidate bursts into song.", start: 955.14, end: 959.74}
+  - {text: "The Communist Party on we go.", start: 959.74, end: 962.58}
+  - {text: "We're with the people, don't you know?", start: 963.28, end: 964.96}
+  - {text: "Hmm, is this a party political or Duma's got talent?", start: 965.51, end: 969.83}
+  - {text: "The one thing the Duma has got, certainly the previous one had, was a lot of MPs loyal to the Kremlin.", start: 972.13, end: 979.11}
+  - {text: "And for the president, that's the point of a Russian parliament.", start: 979.90, end: 983.56}
+  - {text: "Are any political parties in Russia calling for an end to the war?", start: 984.38, end: 987.94}
+  - {text: "Well, there is one.", start: 988.13, end: 990.37}
+  - {text: "On stage in a packed Moscow theater, Grigory Grishin reads out the manifesto of the party Yablaka.", start: 994.08, end: 1001.76}
+  - {text: "For peace, for freedom, for life without fear, for a ceasefire, for diplomacy to achieve peace.", start: 1002.56, end: 1009.26}
+  - {text: "Yablaka had been the only anti -war party registered for this election.", start: 1010.26, end: 1015.18}
+  - {text: "But the Supreme Court removed it from the ballot, an apparent sign of Kremlin concern that anti -war messaging will strike a chord with voters.", start: 1015.18, end: 1025.28}
+  - {text: "Later, I meet Grigory at party headquarters.", start: 1031.63, end: 1034.75}
+  - {text: "Despite its exclusion from the party list, some members of Yablaka, like Grigory, are running in individual constituency races.", start: 1035.03, end: 1043.51}
+  - {text: "Although many Yablaka candidates have been having problems with the police, the courts, and have now been barred from the election, Grigory himself was taken to a police station and accused of propagandizing extremism.", start: 1044.19, end: 1058.01}
+  - {text: "But he's still in the race.", start: 1058.31, end: 1059.79}
+  - {text: "The police are carrying out a political order.", start: 1060.19, end: 1065.71}
+  - {text: "It's no secret. This way, the authorities are setting out the boundaries for the election.", start: 1066.19, end: 1071.17}
+  - {text: "It's well known that the demand for an end to the bloodshed in this conflict with Ukraine is very popular.", start: 1071.71, end: 1077.37}
+  - {text: "Do Russians believe that this election will make any difference to their lives?", start: 1077.37, end: 1081.69}
+  - {text: "On the streets of Moscow, I gauge the mood.", start: 1082.59, end: 1085.17}
+  - {text: "In what way do you think life will change because of the elections or after the elections?", start: 1085.83, end: 1090.69}
+  - {text: "Well, to be fair, I don't think it will change.", start: 1090.97, end: 1092.27}
+  - {text: "In particular, I think it would be pretty much the same.", start: 1092.37, end: 1094.43}
+  - {text: "I think a lot of people in our country once change, but we haven't any instruments for this.", start: 1094.93, end: 1102.83}
+  - {text: "And although he's standing for parliament, Grigory Gryshin's expectations are very low.", start: 1103.39, end: 1108.67}
+  - {text: "Elections in Russia never bring a change in government.", start: 1111.91, end: 1115.29}
+  - {text: "At best, they can influence it or send a signal.", start: 1115.57, end: 1118.93}
+  - {text: "But power in Russia has never changed because of an election.", start: 1119.77, end: 1122.99}
+  - {text: "That's just how Russia is.", start: 1123.65, end: 1125.15}
+  - {text: "Which brings us back to where we started, to the Kremlin, because it's here that questions of war and peace are decided.", start: 1129.64, end: 1138.10}
+  - {text: "It's here that ultimate power in Russia lies.", start: 1138.82, end: 1142.34}
+  - {text: "Our Russia editor, Steve Rosenberg.", start: 1147.82, end: 1149.56}
+  - {text: "After the fall of President Bashar al -Assad in December 2024, the news Syrian authorities promised to respect all communities in the country.", start: 1150.44, end: 1159.40}
+  - {text: "But in early 2025, armed groups carried out massacres in the heartlands of the Alawite community, to which the Assad family belongs, raising questions about that commitment.", start: 1159.90, end: 1170.56}
+  - {text: "Now a Syrian court has issued the first sentences against those involved in the killings.", start: 1170.56, end: 1175.58}
+  - {text: "Our Middle East analyst, Sebastian Usher, has been telling me more.", start: 1175.94, end: 1179.06}
+  - {text: "Well, this is a military court in Aleppo.", start: 1179.56, end: 1181.94}
+  - {text: "There are 14 people on trial.", start: 1182.08, end: 1184.48}
+  - {text: "It's been going on since November.", start: 1184.74, end: 1185.98}
+  - {text: "Seven of them connected to the government.", start: 1186.62, end: 1188.90}
+  - {text: "We still call them the new authorities, essentially, although they've now been in power for a couple of years, and the other seven pro -Assad.", start: 1189.12, end: 1196.18}
+  - {text: "But what happened was an appalling series of mass killings in the first months of 2025 in the Alawite heartland on the coast of Syria.", start: 1196.42, end: 1206.58}
+  - {text: "Up to maybe 2 ,000 people were killed.", start: 1206.80, end: 1209.10}
+  - {text: "Many of them civilians or families were killed as part of that in the most brutal ways.", start: 1209.28, end: 1213.70}
+  - {text: "Now the current government says that they were responding to attacks by pro -Assad forces.", start: 1213.90, end: 1220.02}
+  - {text: "This is just a few months after Assad had been deposed.", start: 1220.12, end: 1224.36}
+  - {text: "So you can imagine what the situation was like.", start: 1224.74, end: 1227.70}
+  - {text: "But pro -government forces, either once directly working for the government, affiliated to the government or other armed groups, then carried out these massacres.", start: 1227.70, end: 1238.20}
+  - {text: "And they were a stain on the image of the new authorities.", start: 1238.30, end: 1242.08}
+  - {text: "And as far as the Alawites were concerned, and some of the other religious communities in Syria, they were proof of their worst fears of what might happen.", start: 1242.52, end: 1251.40}
+  - {text: "Because, of course, remember that the new leaders of Syria, their roots lie in extreme Islam.", start: 1251.60, end: 1257.78}
+  - {text: "They had been jihadists.", start: 1258.16, end: 1259.34}
+  - {text: "Now they had broken away from that some time ago, and they very much, and they've continued to do so, to say that they're working for a united Syria for all the communities.", start: 1259.84, end: 1269.12}
+  - {text: "But this was a sense that things could get seriously out of control.", start: 1269.28, end: 1273.02}
+  - {text: "Now this court has handed out hefty sentences.", start: 1273.52, end: 1276.44}
+  - {text: "How significant a milestone is this, do you think?", start: 1276.94, end: 1279.16}
+  - {text: "I mean it's significant, but there's some accountability.", start: 1279.88, end: 1282.08}
+  - {text: "There was one member of pro -government forces who's received a sense of 20 years in jail, but there are two pro -Assad individuals, one of whom has been sentenced to death,", start: 1282.68, end: 1292.00}
+  - {text: "and one of whom sentenced to life imprisonment.", start: 1292.32, end: 1293.92}
+  - {text: "So those critics of a government would say, well, there's an imbalance there, plus it's only 14 people.", start: 1294.50, end: 1298.96}
+  - {text: "There were hundreds who were involved.", start: 1299.22, end: 1300.64}
+  - {text: "There has been an investigation done by the Syrian authorities who have unearthed some of the atrocities that were carried out by their side, but still", start: 1300.84, end: 1309.20}
+  - {text: "putting a lot of a burden on the pro -Assad forces.", start: 1309.20, end: 1312.12}
+  - {text: "Now we've seen, since then, we've seen in Druze areas, we've seen violence we saw against the Kurdish areas.", start: 1312.62, end: 1318.52}
+  - {text: "None of this for now, at least, has blown up into another all -out conflict, but those communities still remain very fearful, very suspicious.", start: 1319.02, end: 1326.16}
+  - {text: "Buckingham Palace has issued a swift rebuttal of fresh claims made by Charles L.", start: 1328.59, end: 1333.87}
+  - {text: "Spencer, the brother of Princess Diana, about comments made after her death in 1997.", start: 1334.09, end: 1339.33}
+  - {text: "In a memoir due to be released next week, L.", start: 1340.09, end: 1342.29}
+  - {text: "Spencer said the king, then Prince Charles, told him during discussions about the funeral that his former wife would be forgotten soon enough.", start: 1342.39, end: 1350.01}
+  - {text: "Buckingham Palace suggests that grief may have coloured the Earl's memory.", start: 1350.61, end: 1354.43}
+  - {text: "Our royal correspondent, Nurunanji, told us more about the palace response.", start: 1355.07, end: 1358.61}
+  - {text: "I think it reflects the anger that is being felt behind palace walls.", start: 1358.95, end: 1363.41}
+  - {text: "Royal aides have very much pushed back on those comments by L.", start: 1363.41, end: 1367.83}
+  - {text: "Spencer that have been serialised in his book.", start: 1367.87, end: 1370.11}
+  - {text: "One of the royal aides said to us that they were very much demonstrably untrue claims about a deeply compassionate man.", start: 1370.39, end: 1377.55}
+  - {text: "Now, of course, I think the very fact that Buckingham Palace has said anything at all tells you something about the strength of feeling on this one,", start: 1377.95, end: 1384.91}
+  - {text: "because, you know, their famous motto is, of course, never explain, never complain, but here they are issuing a very robust statement and it suggests just", start: 1384.91, end: 1393.63}
+  - {text: "how angry they are about all of this.", start: 1393.63, end: 1395.85}
+  - {text: "And are there going to be more revelations in this book by L.", start: 1396.17, end: 1399.37}
+  - {text: "Spencer? Well, I mean, you're right.", start: 1399.45, end: 1403.25}
+  - {text: "This is just one extract from this book.", start: 1403.43, end: 1405.23}
+  - {text: "The book in full is due to be published next week.", start: 1405.35, end: 1408.09}
+  - {text: "It is going to be continued to be serialised in the mail as well, so we know that there is going to be more out of this book.", start: 1408.43, end: 1413.89}
+  - {text: "We haven't seen the book ourselves.", start: 1414.13, end: 1415.57}
+  - {text: "It's important to say, however, it is understood that it is going to be sharply critical about the royal family.", start: 1415.93, end: 1421.79}
+  - {text: "So yes, I think you can imagine there will be more damaging claims and revelations in the days and weeks ahead.", start: 1421.79, end: 1428.21}
+  - {text: "Nournangi, a night to Australia, where there's controversy over the location chosen for the rowing and canoe sprints at the 2032 Brisbane Olympics.", start: 1428.75, end: 1437.25}
+  - {text: "The Fitzroy River in Rockhampton was confirmed suitable after a technical assessment by Games organisers, but several international rowing federations are not happy.", start: 1437.95, end: 1447.69}
+  - {text: "I asked the BBC's Simon Atkinson who's in Queensland.", start: 1448.03, end: 1450.75}
+  - {text: "Why? There's a few problems, but the one that's got everyone talking is this river in the town of Rockhampton, which is about 600 odd kilometres north of Brisbane, is home to saltwater crocodiles.", start: 1451.29, end: 1461.75}
+  - {text: "They're the big four metre ones that eat people in theory, although there have been no attacks on humans by salties in the Fitzroy River in Rockhampton.", start: 1461.93, end: 1471.17}
+  - {text: "But certainly that's what's grabbing the headlines about this decision.", start: 1471.41, end: 1474.15}
+  - {text: "Now look, in the discussions about this, the rowing authorities from around the world have been raising objections for a while, and they've all been more", start: 1474.61, end: 1483.41}
+  - {text: "in relation to how the river will impact performance.", start: 1483.41, end: 1486.95}
+  - {text: "So it's things about the fact that it's got currents, that it has natural bends, and they've been arguing that this would mean it wouldn't offer the opportunity for a level playing field, particularly some people might have a better", start: 1487.25, end: 1498.51}
+  - {text: "racing line when they're in the water, for example.", start: 1499.19, end: 1501.83}
+  - {text: "People haven't really lent too heavily on crocodiles.", start: 1502.27, end: 1505.33}
+  - {text: "The reality is that the mitigation you can put against the crocodiles is probably fairly strong.", start: 1505.63, end: 1511.09}
+  - {text: "And look, it is fair to say there haven't been any crocodile attacks on humans reported in any records at all on that river.", start: 1511.59, end: 1517.69}
+  - {text: "I think there's a school rowing regatta taking place on that very river this weekend, and I was speaking to the person who's in charge of that.", start: 1517.87, end: 1525.27}
+  - {text: "I had a look at their safety management plan.", start: 1525.61, end: 1527.33}
+  - {text: "It mentions the word crocodile 28 times.", start: 1527.45, end: 1529.63}
+  - {text: "So clearly it is a known risk.", start: 1529.99, end: 1531.93}
+  - {text: "It is a habitat for these creatures.", start: 1532.35, end: 1534.25}
+  - {text: "So it's going to go ahead, is it?", start: 1534.69, end: 1536.55}
+  - {text: "Are they going to do anything about the crocodiles?", start: 1536.55, end: 1538.87}
+  - {text: "Are they going to try and corral them in part of the river?", start: 1539.07, end: 1541.49}
+  - {text: "Well, we haven't got that far away.", start: 1541.99, end: 1543.15}
+  - {text: "It's still six years off.", start: 1543.17, end: 1544.29}
+  - {text: "So look, there's plenty of time to work out those sorts of details, but there hasn't been anything said of that nature.", start: 1544.51, end: 1549.79}
+  - {text: "Looking at how they're handling it with this regatta that's coming up this weekend, it's a lot about keeping an eye out, making sure there's protocols in place that if they are spotted, that racing is stopped.", start: 1550.13, end: 1559.73}
+  - {text: "That's Snappy Response from Simon Atkinson.", start: 1560.35, end: 1562.91}
+  - {text: "And that's it from us for now.", start: 1564.49, end: 1565.77}
+  - {text: "If you want to get in touch, you can email us at GlobalPodcast at bbc .co .uk.", start: 1565.77, end: 1570.81}
+  - {text: "You can also now watch our episodes in full.", start: 1571.31, end: 1573.55}
+  - {text: "Just search for the Global News Podcast on YouTube.", start: 1573.85, end: 1576.69}
+  - {text: "This edition was mixed by Chris Kazaris.", start: 1577.31, end: 1579.31}
+  - {text: "The producer was Ira Kahn.", start: 1579.67, end: 1581.07}
+  - {text: "The editor is Karen Martin.", start: 1581.27, end: 1582.85}
+  - {text: "I'm Valerie Sanderson. Until next time, bye -bye.", start: 1583.39, end: 1585.63}
+---

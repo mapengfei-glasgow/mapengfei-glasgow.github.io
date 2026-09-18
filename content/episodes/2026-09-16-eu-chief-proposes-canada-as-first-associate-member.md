@@ -1,0 +1,243 @@
+---
+layout: single
+title: "EU chief proposes Canada as first 'associate member'"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-16T00:00:00Z
+slug: "2026-09-16-eu-chief-proposes-canada-as-first-associate-member"
+audioDir: "2026-09-16-eu-chief-proposes-canada-as-first-associate-member"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-16-eu-chief-proposes-canada-as-first-associate-member/episode.mp3"
+totalDuration: 1917.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.22}
+  - {text: "I'm Celia Hatton, and on Wednesday, the 16th of September, these are our main stories.", start: 4.90, end: 9.84}
+  - {text: "The president of the European Commission, Ursula von der Leyen, announces proposals for Canada to become the first associate member of the European Union.", start: 10.50, end: 18.16}
+  - {text: "The civil defense agency in Gaza says at least 20 people, including five children, have been killed after the collapse of an apartment block weakened by previous Israeli airstrikes.", start: 18.80, end: 28.68}
+  - {text: "Saudi Arabia says it shot down a drone that was heading towards Mecca, Islam's holiest site.", start: 29.26, end: 34.26}
+  - {text: "The kingdom blames the Houthi rebel group, but the Houthis deny launching the attack.", start: 34.74, end: 38.78}
+  - {text: "Also in this podcast...", start: 41.45, end: 42.99}
+  - {text: "Four years ago, if someone had told me that one day I would see women walking down the streets, bravely and without the hijab, I probably wouldn't have believed them.", start: 42.99, end: 54.51}
+  - {text: "It's been four years since the death of Masa Amini at the hands of morality police in Iran.", start: 54.77, end: 59.59}
+  - {text: "Her death sparked huge protests.", start: 60.21, end: 61.93}
+  - {text: "What's changed since then?", start: 62.49, end: 63.43}
+  - {text: "We'll begin with what could be the start of a new global alliance, one between Canada and the European Union.", start: 68.30, end: 73.92}
+  - {text: "The EU's chief has backed a proposal for Canada to become the Union's first associate member.", start: 74.54, end: 79.82}
+  - {text: "Here's Ursula von der Leyen speaking in Strasbourg.", start: 80.42, end: 82.74}
+  - {text: "Mark Carney, the Canadian Prime Minister, was in the audience.", start: 83.18, end: 85.80}
+  - {text: "We want to bring the relationship with Canada to the highest level possible, and dear Mark, I said we must urgently reimagine our partnerships, so I would like to work with you", start: 86.24, end: 101.10}
+  - {text: "on opening the door for Canada to being the first associate member of the European Union.", start: 101.66, end: 109.44}
+  - {text: "This possible new partnership comes as Canada is fighting a hugely costly trade war with the United States, the country that normally takes in more than 70 percent of its exports.", start: 112.44, end: 122.38}
+  - {text: "Mark Carney has promised to fight that battle by finding new markets for Canadian products.", start: 122.94, end: 127.54}
+  - {text: "He's also pledged to make Canada safer by forging new security ties, as Donald Trump continues to threaten to make his northern neighbour, the United States, 51st state.", start: 128.10, end: 137.88}
+  - {text: "So that's the view from Canada.", start: 138.50, end: 140.12}
+  - {text: "But what could the EU get from this new link?", start: 140.66, end: 143.10}
+  - {text: "I asked our correspondent in Brussels, Nick Beek.", start: 143.60, end: 146.00}
+  - {text: "I think this all boils down to the fact that at the moment many Europeans, particularly us, LeVon de Lyon, the commission president, really feels that Mark Carney, in particular, is a kindred spirit, that they're on the same page.", start: 146.42, end: 158.96}
+  - {text: "They're dealing with the same sort of threats, that from China, but notably, as you were saying, from President Trump, an unpredictable Donald Trump, whether it's the waging of tariff wars or hitting out at supposed allies,", start: 159.36, end: 172.56}
+  - {text: "whether they're just across the border in Canada or across the Atlantic in Europe.", start: 172.72, end: 177.88}
+  - {text: "And so what's been put forward today by us, LeVon de Lyon, is something completely novel, because at the moment, there's no such thing as associate membership for anyone who wants to join the European Union.", start: 178.18, end: 190.00}
+  - {text: "So this would be something that's not in the EU treaties at the moment, not in EU law.", start: 190.18, end: 195.26}
+  - {text: "So really, there are a lot of unknowns around this, but certainly, both sides feel that there would be this added protection in the face of economic aggression and also, potentially,", start: 195.66, end: 207.98}
+  - {text: "when it comes to defence in the years and decades to come, that this sort of union could be mutually beneficial.", start: 208.24, end: 213.98}
+  - {text: "Yeah, fascinating, isn't it?", start: 214.42, end: 215.60}
+  - {text: "I mean, Mark Carney does have experience on both sides of the Atlantic.", start: 215.68, end: 219.04}
+  - {text: "He's the prime minister of Canada now, but he worked in England.", start: 219.14, end: 222.26}
+  - {text: "He was the governor of the Bank of England in the UK.", start: 222.36, end: 224.90}
+  - {text: "I wonder, you said that this is a brand new venture in theory.", start: 225.88, end: 231.32}
+  - {text: "So is this symbolic?", start: 231.72, end: 233.10}
+  - {text: "What would it take for Canada to become an associate member?", start: 233.10, end: 237.14}
+  - {text: "Is it fair or complete?", start: 237.34, end: 238.26}
+  - {text: "Well, it would take years, that's for sure.", start: 238.62, end: 240.42}
+  - {text: "And the idea of associate membership, although it's not been implemented, is something actually that was raised a few months back by Chancellor Mertz of Germany.", start: 240.92, end: 250.36}
+  - {text: "Now, he was talking about Ukraine in that context, saying that maybe the Ukrainians could be brought on board, not with all the benefits of EU membership, but some of them.", start: 250.60, end: 260.62}
+  - {text: "Now, the thing with this is that, at the time, people were saying, well, hang up, there's a long queue of other countries who are going through this very", start: 260.62, end: 266.86}
+  - {text: "laborious, long process trying to make sure that all their laws and basically the way their countries work, I'm thinking about in the Balkans in particular,", start: 267.36, end: 276.04}
+  - {text: "that they are hitting all the goals needed, the European standards needed, so that they can progress and ultimately become members of the European Union.", start: 276.40, end: 284.90}
+  - {text: "So it's hard to see how this thing would be fast -tracked.", start: 285.02, end: 287.92}
+  - {text: "And of course, there's the thorny cost of membership.", start: 287.98, end: 290.00}
+  - {text: "How much would it cost to be part of this club, even if it's not full membership?", start: 290.34, end: 294.38}
+  - {text: "Do you get the sense that this is a bit of a knee -jerk reaction to the EU and Canada's strident ties with the US, with Donald Trump,", start: 294.64, end: 302.84}
+  - {text: "rather than a desire to build closer relationships between Canada and the EU?", start: 302.86, end: 309.18}
+  - {text: "I think certainly it's in keeping and chimes with the relationship that's emerged between Canada and the EU over the past couple of years.", start: 309.94, end: 317.54}
+  - {text: "Earlier in the year, Mark Carney was saying that middle powers, middle countries, should club together in the face of aggression and muscular activity by the much bigger superpowers of the United States and China.", start: 317.64, end: 330.92}
+  - {text: "So there are benefits for both sides here.", start: 331.12, end: 333.50}
+  - {text: "But of course, in the longer term, whether the Canadian people want this, whether the people of the European Union want this, is another matter.", start: 333.68, end: 340.38}
+  - {text: "But yes, if not knee -jerk, certainly this is a response to the current political temperature.", start: 340.50, end: 347.32}
+  - {text: "And of course, Donald Trump won't be around forever.", start: 347.80, end: 349.56}
+  - {text: "And Ursula von der Leyen and Mark Carney in the future won't be at the helm.", start: 350.22, end: 353.20}
+  - {text: "So yeah, this is something that's put forward, making a lot of headlines today.", start: 353.46, end: 357.30}
+  - {text: "But let's see how it progresses in the weeks and months to come, in the years to come.", start: 357.36, end: 361.76}
+  - {text: "And potentially they may feel they don't need this, because at the moment there's already this big trade deal between Canada and the European Union.", start: 361.78, end: 368.46}
+  - {text: "The EU is actually the second biggest market for the Canadians.", start: 368.50, end: 371.16}
+  - {text: "So already there are these deep ties.", start: 371.72, end: 373.56}
+  - {text: "There is this trade agreement that's been in place, although not fully ratified, that's been there for nearly the past decade.", start: 373.82, end: 378.92}
+  - {text: "Nick Beacon Brussels To Gaza now, a multi -story building has collapsed in Gaza's city with people inside.", start: 379.44, end: 386.13}
+  - {text: "Before the structure crumbled, it had been functioning as a makeshift home for several displaced families.", start: 386.73, end: 391.83}
+  - {text: "The large building had been previously attacked by an Israeli airstrike, which had left it damaged.", start: 392.37, end: 397.31}
+  - {text: "The territory's civil defense agency says dozens of people are missing, at least 20 people, including five children, have died.", start: 398.01, end: 405.19}
+  - {text: "Despite the Israel -Gaza ceasefire, conditions inside Gaza do not appear to have improved.", start: 405.81, end: 410.31}
+  - {text: "The US -created Board of Peace was meant to oversee the ceasefire and initiate reconstruction, as well as a gradual withdrawal of Israeli troops from the territory.", start: 410.87, end: 420.21}
+  - {text: "But Israel has expanded its control and still limits what reconstruction materials go into the strip.", start: 420.21, end: 426.73}
+  - {text: "Our Middle East correspondent Yola Nel told me the latest.", start: 427.41, end: 430.13}
+  - {text: "We're speaking to local journalists there and they're saying that this building collapsed overnight.", start: 430.43, end: 435.49}
+  - {text: "It's one which was known to have structural damage according to Gaza's civil defense.", start: 435.75, end: 441.23}
+  - {text: "Yet families had been living there really because of the very harsh conditions and the lack of suitable shelters around.", start: 441.71, end: 449.59}
+  - {text: "People had chosen to live in a building that they knew was unsafe rather than living in the tents around them to try to take shelter from the strong sun during the summer from the wind and the elements.", start: 449.99, end: 462.11}
+  - {text: "And we're hearing that there are 10 families that have been living in this building and that dozens of people are still unaccounted for many of them children.", start: 462.71, end: 471.43}
+  - {text: "But there are rescuers there saying that they can hear voices from within the rubble so there is some hope of finding some more survivors.", start: 471.81, end: 479.13}
+  - {text: "So emergency teams are on site but what kinds of challenges do rescuers face when this kind of collapse happens?", start: 479.53, end: 487.33}
+  - {text: "I mean you can see from some of the video footage that people are just using their bare hands to try to go through the rubble of at least six floors of this building that have now been sandwiched together.", start: 487.79, end: 499.29}
+  - {text: "There are some heavy equipment teams arriving there.", start: 499.87, end: 503.39}
+  - {text: "They are from the UN and also from an Egyptian relief agency.", start: 503.83, end: 507.81}
+  - {text: "The civil defense told the BBC that it's really struggling to get heavy equipment for any kinds of jobs like this because of Israel's tight border restrictions", start: 508.31, end: 518.21}
+  - {text: "which it says are in place for security reasons to stop Hamas and other Palestinian armed groups being able to use this equipment, being able to", start: 518.21, end: 527.67}
+  - {text: "rearm to re -establish tunnels in the strip.", start: 527.67, end: 530.75}
+  - {text: "But there's also a shortage of spare parts for machinery, a shortage of fuel to run the machinery and that causes real problems with events like this happening", start: 530.87, end: 540.53}
+  - {text: "and the civil defense is saying that there are about 2 ,000 buildings where people have been told not to live in them but they know that there are families inside.", start: 540.53, end: 549.37}
+  - {text: "Yolana, now to another fast -changing story in the Middle East.", start: 549.91, end: 553.99}
+  - {text: "The growing conflict between the Houthi rebel group in Yemen and Saudi Arabia.", start: 554.23, end: 558.53}
+  - {text: "The Saudi military says it shot down a drone flying in western Saudi Arabia towards Mecca, Islam's holiest site.", start: 559.09, end: 565.95}
+  - {text: "The Saudis blamed the Houthis for what they claim as an attempted attack.", start: 566.53, end: 570.55}
+  - {text: "It's an unproven accusation which the Houthis have denied.", start: 571.15, end: 573.87}
+  - {text: "But the Saudis say the Houthis have crossed a red line.", start: 574.43, end: 577.39}
+  - {text: "The organization of Islamic cooperation has also condemned the alleged attempted attack as Hamas.", start: 577.87, end: 583.91}
+  - {text: "Mustafa Noman is the Deputy Foreign Affairs Minister of the internationally recognized government of Yemen.", start: 584.55, end: 589.91}
+  - {text: "It might be not a main goal but to try to say that they can reach anywhere in Saudi Arabia whether it's the holy and sacred to all Muslims or is it the military side.", start: 590.29, end: 600.91}
+  - {text: "So I think it's part of their propaganda and just to show off of their power and their capability to reach anywhere they decide to reach.", start: 601.49, end: 611.29}
+  - {text: "Meanwhile the Houthis are claiming to have shot down a Saudi fighter jet in Yemen's Marib province using locally made weapons.", start: 611.67, end: 618.43}
+  - {text: "The Saudis are yet to comment.", start: 618.89, end: 620.43}
+  - {text: "It's all adding to an escalation in the conflict, so much so that for the second time this week the United Nations Security Council has been calling for a de -escalation in violence following Houthi attacks in", start: 621.09, end: 633.21}
+  - {text: "and around the Bab al -Mandab Strait on the Red Sea which has disrupted the vital maritime corridor.", start: 633.21, end: 639.15}
+  - {text: "So what more do we know about Yemen's alleged attacks?", start: 639.77, end: 642.87}
+  - {text: "I spoke to our security correspondent Frank Gardner who's following developments.", start: 643.43, end: 646.99}
+  - {text: "There is no evidence on either side of this not to say that it hasn't happened but until we see the evidence I think we're going to have to take a degree of skepticism about it", start: 647.37, end: 657.67}
+  - {text: "because as your previous guest said there there is an element of propaganda about this.", start: 657.67, end: 663.75}
+  - {text: "If the Houthis really did fire a drone at Mecca the holiest city in Islam the birthplace of the Prophet Muhammad that is very bad optics for the Houthis.", start: 663.75, end: 674.93}
+  - {text: "It makes them look really bad but the Houthis are busy denying this because they know how you know they are fundamentalist Muslims.", start: 674.97, end: 684.17}
+  - {text: "Their slogan is God is great death to America death to Israel a curse on the Jews victory to Islam so it's not a good look for them", start: 684.83, end: 694.33}
+  - {text: "if they fired a missile at the holiest city in Islam whether or not it got there but it may be that this is something that", start: 694.33, end: 702.23}
+  - {text: "has been concocted to make them look bad.", start: 702.23, end: 704.65}
+  - {text: "Even if we're still looking into reports surrounding this drone but also the accusations that or the claims by the Houthis to have shot down a fighter jet", start: 705.61, end: 716.71}
+  - {text: "Saudi fighter jet it's clear that tensions are rising between the two sides how evenly matched are they are the Houthis really capable of taking on Saudi Arabia.", start: 717.43, end: 726.31}
+  - {text: "So Saudi Arabia has by far the most powerful air force it's got powerful American made F -15s Donald Douglas F -15 strike eagles and we don't know", start: 726.59, end: 737.95}
+  - {text: "if one of those was shot down or not but it was claimed that it was shot near Marib which is an area where the Saudis", start: 737.95, end: 744.55}
+  - {text: "have been active inside Yemen the the Houthis have got a lot of Iranian supplied and Chinese supplied weaponry they've got the ability to threaten shipping passing their coastline", start: 744.55, end: 756.17}
+  - {text: "and this is why all of this is kind of catching world headlines at the moment because the Houthis last week made a lightning advance down", start: 756.17, end: 763.79}
+  - {text: "the coast of the Red Sea to seize areas close to the narrow choke point the bubble mandate that's the waterway that separates the Arabian Peninsula from the Hall of Africa", start: 763.79, end: 775.77}
+  - {text: "and it's through that narrow choke point that shipping has to pass to get from Europe or from Saudi oil export terminals like Yambu to markets in Asia", start: 775.77, end: 786.97}
+  - {text: "so even though the Houthis visually when people see them you know they don't look like a professional army they're wearing flip flops and carrying 1970s era weapons", start: 786.97, end: 797.99}
+  - {text: "and yet they've got the strategic ability to harm the global economy Frank Gardner with this next story we'll go back to something that happened four", start: 797.99, end: 806.91}
+  - {text: "years ago the death of a young woman in Iran Masa Amini three days after she was arrested by Iran's morality police for allegedly wearing her hijab improperly the 22 year old's death sparked huge protests", start: 806.91, end: 821.43}
+  - {text: "and the ongoing woman life freedom movement so what's changed for women's right since those demonstrations and now with the US war with Iran the BBC Persian services Goncha Habibi Azad sent this report", start: 821.43, end: 835.27}
+  - {text: "woman life freedom it was a defining chant of a protest movement sparked by the death of a death of Masa Amini videos of women dancing and appearing in public without mandatory hijabs of and viral across", start: 839.26, end: 859.09}
+  - {text: "Iran women ripped off and burned their headscarfs in solidarity the authorities responded with a brutal crackdown the UN says more than 500 protesters should kill the", start: 859.73, end: 873.99}
+  - {text: "mass protests eventually subsided but the movement did not simply disappear from Iran's society speaking out is not safe so all the voices you'll hear have been voiced by BBC Persian producers", start: 874.92, end: 886.92}
+  - {text: "like this 20 year old from Tehran I think what connected us to Masa was the fact that she was one of us four years ago", start: 887.40, end: 895.74}
+  - {text: "if someone had told me that one day I would see women walking down the streets bravely and without the hijab I probably wouldn't have believed them", start: 895.74, end: 907.00}
+  - {text: "and these changes are not limited to the capital a young woman enraged a city in northern Iran told us you can see it in the", start: 907.00, end: 913.98}
+  - {text: "way the city looks some families have become a bit more open minded too these days they left their daughters go out wearing tops or even shorter skirts there is more freedom than before in shops in taxi", start: 913.98, end: 926.18}
+  - {text: "and cars but that greater sense of freedom does not mean the mandatory hijab law has gone away you won't take my daughter anywhere at the stress mother shouts this", start: 926.18, end: 937.22}
+  - {text: "video was sent to us from Tehran two years ago a woman is being taken away by the morality police just like Masa away from the streets women are still being monitored online and while arrests in public appear to be less frequent", start: 939.11, end: 953.21}
+  - {text: "some fear they could flare up again they stopped my friend's car and asked where's your head scarf I'm scared I'm scared the crackdown will happen all over again and honestly I don't have the mental capacity for it the", start: 953.73, end: 969.29}
+  - {text: "world with the US and Israel appears to have changed the government's priorities and one senior Iranian figure says enforcing the hijab law is currently a", start: 970.12, end: 979.12}
+  - {text: "lower priority the changes have also sparked a backlash one young man I spoke to you who lives near Tehran said the issues had become polarizing dressing appropriately is different from wearing the hijab in my opinion", start: 979.12, end: 992.48}
+  - {text: "but it feels like some women are taking their resentment towards the hijab to an extreme an opposition to the changes now seen on Iranian streets is inconfined to men a group of religious women gathered in central province of Isfahan recently man", start: 992.48, end: 1007.46}
+  - {text: "where is your dignity where's your wife's hijab the hijab law must be enforced and other chances but their views are far from universal inside Iran", start: 1009.74, end: 1024.40}
+  - {text: "and this young woman from Tehran echoed many of those we spoke to you women are taken much more seriously now they seem more confident and more willing to push boundaries it's almost like people have learned", start: 1024.40, end: 1037.00}
+  - {text: "that women can be important too and that they can do whatever they want wear whatever they want still to come in this podcast we've got", start: 1037.00, end: 1049.97}
+  - {text: "one of the oldest figures in the world about 40 000 years old made out of mammoth cast a lion man and we've put it next", start: 1049.97, end: 1058.73}
+  - {text: "to this little star wars figurine london's world famous natural history museum reopens a gallery that's been sealed off to the public for 80 years we'll tell you what's there now this", start: 1058.73, end: 1070.48}
+  - {text: "is the global news podcast to a decision now from the international criminal court at the haig the former Kosovo president Hashim that she has been", start: 1075.86, end: 1084.16}
+  - {text: "found guilty of war crimes committed in the late 1990s he's a former top commander of the albanian separatist Kosovo liberation army that was fighting during the country's war for independence from Serbia", start: 1084.16, end: 1096.18}
+  - {text: "that she was convicted by a panel of judges in the haig the presiding judge charles smith announced his sentence the panel has determined a a term of 15 years of imprisonment for the war crime of illegal", start: 1096.18, end: 1108.92}
+  - {text: "or arbitrary arrest and detention a term of four years of imprisonment for the crime of cruel treatment a term of 20 years imprisonment for the crime of torture", start: 1108.92, end: 1118.18}
+  - {text: "and a term of 23 years of imprisonment for the war crime of murder the panel now sentences you to a single sentence of 25 years", start: 1118.18, end: 1126.90}
+  - {text: "of imprisonment our global affairs reporter paul monks first told me about the background to the case as you say the hashim that she was a", start: 1126.90, end: 1134.44}
+  - {text: "leader of the Kosovo liberation army during the the fight the Kosovo fought for independence from Serbia this was part of the several just one of the several conflicts which broke out as Yugoslavia fell apart but it was particularly", start: 1134.44, end: 1147.20}
+  - {text: "pointed for the Serbs they fought it with particular ardor because for Serbs Kosovo wasn't just part of Yugoslavia it was part of Serbia itself so this was a very vicious a very violent conflict in", start: 1147.90, end: 1158.58}
+  - {text: "which there were accusations of atrocities on all sides and yes this Kosovo Liberation Army effectively a guerrilla force but Hashim that she was very much", start: 1158.58, end: 1167.94}
+  - {text: "its presentable face very dapper very suave I remember interviewing him in the capital Pristina he's fluent in English very very convenient he was said to", start: 1167.94, end: 1177.14}
+  - {text: "have charmed a lot of political leaders in the west however there were always allegations that not only the Serbs but the Kosovo Liberation Army were committing atrocities in this conflict", start: 1177.14, end: 1187.26}
+  - {text: "so looking back I suppose it may maybe was inevitable that in the end this KLA commander might end up accused himself of committing war crimes", start: 1187.26, end: 1196.42}
+  - {text: "so you talked about the the accusation but today a conviction what more can you tell us about the crimes that he's found to have committed we heard", start: 1196.42, end: 1204.74}
+  - {text: "that judged didn't we sort of coming up with this extensive list yes murdering people opponents were tortured and these weren't just some Serbs who were", start: 1204.74, end: 1212.42}
+  - {text: "captured they were Kosovens accused of collaborating with the Serbs he was also accused of detaining torturing and murdering political opponents and that's important because Kosovo may have one independence de facto", start: 1212.42, end: 1224.64}
+  - {text: "but it's a country that's still very unstable it's internationally rated as being corrupt and therefore the fact that their former prime minister and president has", start: 1224.64, end: 1234.38}
+  - {text: "been found guilty of murdering political opponents that's going to have an effect internally I should also say the judges mentioned the fact that was a trial", start: 1234.38, end: 1241.88}
+  - {text: "that took place against a background of terrible witness intimidation attempts to prosecute Kosovo leaders before have seen witnesses suddenly withdraw their testimony go silent in one case murder", start: 1241.88, end: 1253.46}
+  - {text: "and they made that point this time they have successfully prosecuted someone Paul these are crimes that took place in the late 1990s what now about", start: 1253.46, end: 1262.18}
+  - {text: "the consequences for this decision I think there are many the Serbian side have always complained why is it only our leaders our military leaders and politicians", start: 1262.18, end: 1270.54}
+  - {text: "who are prosecuted people like general Miladic who died only last month well now that criticism no longer holds they successfully prosecuted Kosovens as well and", start: 1270.54, end: 1280.98}
+  - {text: "that is important for people I think who believe in the idea of international justice that it doesn't matter whether you're on the side in a conflict", start: 1280.98, end: 1288.08}
+  - {text: "that people consider to be the right side it doesn't matter whether you won or lost you will be held to account for any crimes you commit at the same time he remains very popular Hashim", start: 1288.08, end: 1298.80}
+  - {text: "that we've already seen protests breaking out and there have been predictions there could be more protest by his supporters both in the Hague where the trial took place and also in Kosovo itself to Germany", start: 1298.80, end: 1311.04}
+  - {text: "now Chancellor Friedrich Merz is under growing pressure following major electoral losses in the Saxony and Holtz state elections to the far -right AFD party amid", start: 1311.52, end: 1321.56}
+  - {text: "the pressure the chancellor cancelled his upcoming trip to the United Nations General Assembly in New York to attend a crisis meeting of his Christian Democratic Union alliance", start: 1321.56, end: 1331.08}
+  - {text: "questions have been raised over whether he's too much of an electoral liability he's vowed to carry on but two further state elections this Sunday are being seen", start: 1331.76, end: 1341.18}
+  - {text: "as an important moment for the chancellor a resignation midterm in Germany would be highly unusual so how likely is it that merits could go I asked our Berlin correspondent Jessica Parker obviously Merz is saying", start: 1341.18, end: 1354.37}
+  - {text: "that he's going to carry on there's a lot of questions over how this would even happen because this is not really something that German politics is known for", start: 1354.37, end: 1363.63}
+  - {text: "but this idea of a chancellor swap has been circulating through the summer and seems to have ratcheted up in the last few days is there somebody within the conservative cdu party", start: 1363.63, end: 1375.69}
+  - {text: "who could replace Chancellor Merz and perhaps be a more successful leader for the party and then this Sunday the AFD could again top the polls in another eastern state", start: 1375.69, end: 1387.33}
+  - {text: "while the conservative cdu are hovering at around seven percent in that state Mecklenburg of Oppoman and that puts them in danger of possibly falling out of parliament altogether", start: 1387.33, end: 1397.55}
+  - {text: "if they fall below the five percent threshold and they could lose power in Berlin an election happening there as well so whilst the chancellor and government sources have not given a precise reason", start: 1397.55, end: 1409.19}
+  - {text: "as to why Merz has canceled his trip to New York it is being widely read as the chancellor taking this situation quite seriously and wanting Merz to be around in the aftermath of those votes on Sunday Jessica Parker speaking to me from Berlin to the U .S.", start: 1409.19, end: 1425.19}
+  - {text: "now and some trouble ahead for the British singer -songwriter Ed Sheeran he's currently touring the United States but now all his supporting acts have quit the artists say it's in solidarity with a rapper Macklemore", start: 1425.21, end: 1437.77}
+  - {text: "who was dropped from the concert lineup after making pro -Palestinian comments when playing at an Ed Sheeran concert in New Jersey i've been trying to", start: 1437.77, end: 1446.53}
+  - {text: "figure out a way to say this all day one of the reasons why i wanted to come on this tour was because i wanted to stand up here on stages", start: 1446.53, end: 1456.22}
+  - {text: "and stadiums across America and say two words that are very near and dear to my heart free Palestine i said free Palestine the words of", start: 1456.22, end: 1481.15}
+  - {text: "the rapper Macklemore for more on the story i spoke to our music correspondent Mark Savage so this all started two weeks ago when as you", start: 1481.15, end: 1488.79}
+  - {text: "heard Macklemore was on stage in New Jersey the opening night of Ed Sheeran's US tour and he made these statements about Palestine the second night he came out", start: 1488.79, end: 1498.05}
+  - {text: "and doubled down on those statements he called Israel's action in Gaza a genocide which of course is a term that Israel contests but that other people have endorsed that kicked off a huge wave of criticism pro -israeli groups in America", start: 1498.05, end: 1512.03}
+  - {text: "said that Macklemore had ambushed fans with these images and with these words there were petitions calling for him to be dropped from the tour and what we understand next was", start: 1512.55, end: 1522.31}
+  - {text: "that venue owners for future dates on the rest of this tour started phoning up Ed Sheeran's team and his promoters and putting pressure on him to drop Macklemore now in a statement on Tuesday Ed said", start: 1522.31, end: 1534.07}
+  - {text: "that he had spent a week trying to negotiate this trying to build bridges between the different sides but the ultimate result taken by his promoters was to drop Macklemore from the bill", start: 1534.07, end: 1543.87}
+  - {text: "and in a very long statement it was almost 500 words Ed Sheeran was trying to say I don't like this I have my own views on Gaza I try not to speak about them publicly", start: 1543.87, end: 1553.83}
+  - {text: "but kind of saying his hands were tied it wasn't a very convincing statement it felt like he was trying to keep the peace but not really doing it very successfully", start: 1553.83, end: 1563.61}
+  - {text: "and within hours of that statement dropping all of the support acts for the rest of the tour dropped out and not only that but Ed's backing band", start: 1563.61, end: 1573.03}
+  - {text: "who play with him on songs like Galway Girl and Jenny Mulligan they also dropped out and so basically now he's left doing these 18 stadium shows completely on his own wow so as you said this started right at the start of a big tour", start: 1573.03, end: 1587.57}
+  - {text: "so what does he face now will he struggle to find any other supporting acts any other backup singers or musicians I mean I think it'd", start: 1588.13, end: 1597.47}
+  - {text: "be very difficult for anyone to join this tour I mean look there are a lot of artists who would love that exposure but I think", start: 1597.47, end: 1603.35}
+  - {text: "as soon as you sign up to it you're going to get caught up in this controversy and you're going to face torrents of abuse online", start: 1603.35, end: 1609.95}
+  - {text: "because it will be interpreted as endorsing either Ed Sheeran's point of view or rejecting Macklemore's point of view it's a hard situation to get yourself involved in you'd have to have tough skin for", start: 1609.95, end: 1620.93}
+  - {text: "that as for Ed he has a lot of experience of playing shows on his own I once saw him at Wembley Stadium and he was the only musician on stage for two hours he just plays his guitar", start: 1620.93, end: 1631.45}
+  - {text: "and then uses what's called a loop pedal to kind of sample himself and build up tracks he's very capable of holding 80 000 people in the palm of his hand for", start: 1631.45, end: 1640.69}
+  - {text: "that amount of time but I do think for the remaining three months of the year while he's on the road it's just going to be him.", start: 1640.69, end: 1647.29}
+  - {text: "Mark Savage and last let's end here in London Natural History Museum is the UK's most popular tourist attraction last year more than 7 million people visited the site", start: 1647.63, end: 1659.61}
+  - {text: "and now they'll have good reasons to return today the museum reopened a gallery that has been sealed off to the public for 80 years in it is a new exhibition", start: 1659.61, end: 1669.71}
+  - {text: "which explores our evolving relationship with the natural world through 50 objects Evan Davis went to the museum to find out more Welcome to the Natural History Museum my name is Doug Gehr", start: 1669.71, end: 1683.73}
+  - {text: "and I'm the director of the museum Five years to go to your 150th anniversary at the Natural History Museum and you've got a new exhibition opening Nature and Us.", start: 1683.73, end: 1693.81}
+  - {text: "Absolutely yes Nature and Us which is really all about that what is our relationship between humanity and nature over time and space.", start: 1694.13, end: 1700.69}
+  - {text: "Let's go and have a look.", start: 1701.11, end: 1701.87}
+  - {text: "Okay so we're going behind the black screens that are currently covering the entrance to this gallery and we've got some staff here.", start: 1703.47, end: 1711.83}
+  - {text: "So what you're in here is an enormous long spacious gallery it's actually on the second floor and because as I say for the last sort of 70", start: 1713.59, end: 1721.57}
+  - {text: "or 80 years it's been used as a collection source you can see all these rather wonderful cabinets so we're bringing a lot more global perspectives really bringing back a lot of historical perspectives", start: 1721.57, end: 1730.33}
+  - {text: "and of course at the heart of it we have some pretty cool specimens in here.", start: 1730.33, end: 1734.17}
+  - {text: "Well also with me here in the gallery is Isabel Davis who's one of the science leads in this exhibition.", start: 1737.39, end: 1744.43}
+  - {text: "Now one thing that caught my eye Star Wars figurine what's this talk to me about this?", start: 1745.21, end: 1750.89}
+  - {text: "So this gallery is trying to put interesting things together so we've got one of the oldest figures in the world about 40 000 years old made out of mammoth cast a lion man", start: 1751.19, end: 1762.43}
+  - {text: "and we've put it next to this little Star Wars figurine which has been brought up from the bottom of the sea and colonized by bryozoans so these are", start: 1762.43, end: 1771.53}
+  - {text: "microscopic animals one one of the animals that can actually thrive on plastic you know we talk a lot about plastic in the sea of course", start: 1772.53, end: 1780.11}
+  - {text: "but this is one animal that's made it its home.", start: 1780.11, end: 1782.95}
+  - {text: "Right so it doesn't really look like um it doesn't look like a tie fighter anymore no no it doesn't it's transformed by nature.", start: 1783.09, end: 1789.89}
+  - {text: "And this curious looking scythe type object what is this?", start: 1790.31, end: 1795.07}
+  - {text: "So this is a whaler's fleshing knife and this really speaks to the social history of whaling obviously it was terrible fatal for whales but it's also for the actual people working as whalers it was not easy life.", start: 1795.37, end: 1809.37}
+  - {text: "Here we've got one of their tools and at the bottom it's actually got a marion mark so the kind of good luck charm.", start: 1809.91, end: 1816.51}
+  - {text: "Where would this have come from then I mean we associate whaling with one or two countries now.", start: 1817.07, end: 1821.51}
+  - {text: "Well this one comes from South Georgia.", start: 1821.65, end: 1823.31}
+  - {text: "So Falkland Island sort of around that part South Atlantic South Georgia.", start: 1823.57, end: 1826.81}
+  - {text: "And we had a library open day recently and there were quite a few young people who had no idea that whaling was a thing and the extraordinary international efforts", start: 1827.35, end: 1836.51}
+  - {text: "that were made in the 20th century to bring those numbers down so there is a kind of positive end to this.", start: 1836.51, end: 1843.25}
+  - {text: "Coming back to Doug the director um 150 years in South Kensington as the Natural History Museum what would you say is the big difference between museums as they were then and now?", start: 1845.79, end: 1856.67}
+  - {text: "Look I mean some things have not changed at all and what has not changed is museums are all about the collection.", start: 1857.21, end: 1862.15}
+  - {text: "What's also not changed for our museum is that collection was put there for a dual purpose for public display and also for scientific research.", start: 1862.35, end: 1869.47}
+  - {text: "But here's what's changed.", start: 1869.87, end: 1870.67}
+  - {text: "Go back even to when this building started open in 1881 the scientific mission was how do we classify and understand the natural world.", start: 1871.09, end: 1878.81}
+  - {text: "That's not the mission today.", start: 1879.11, end: 1880.11}
+  - {text: "The mission today is how do we protect and restore nature and that is what this gallery is challenging.", start: 1880.41, end: 1885.87}
+  - {text: "Evan Davis and that's all from us for now.", start: 1888.74, end: 1893.82}
+  - {text: "If you want to get in touch you can email us at globalpodcast at bbc .co .uk.", start: 1893.94, end: 1898.88}
+  - {text: "You can also now watch our episodes in full just search for the global news podcast on YouTube.", start: 1899.40, end: 1904.08}
+  - {text: "This edition was mixed by Chris Kuzaris and the producer was Ira Kahn.", start: 1904.76, end: 1908.56}
+  - {text: "The editor is Karen Martin.", start: 1909.04, end: 1910.22}
+  - {text: "I'm Celia Hatton. Until next time goodbye.", start: 1910.66, end: 1912.76}
+---
