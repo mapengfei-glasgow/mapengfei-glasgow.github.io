@@ -1,0 +1,16 @@
+[Unit]
+Description=Mihomo (Clash Meta) user-space proxy on 127.0.0.1:7891
+Documentation=file:///home/deepseek-harness/memory.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+ExecStart=/home/deepseek-harness/.local/bin/mihomo -d /home/deepseek-harness/.config/mihomo -f /home/deepseek-harness/.config/mihomo/config.yaml
+Restart=on-failure
+RestartSec=5
+# mihomo logs to /tmp/mihomo.log when started by hand; under systemd the
+# journal is enough:  journalctl --user -u mihomo
+
+[Install]
+WantedBy=default.target

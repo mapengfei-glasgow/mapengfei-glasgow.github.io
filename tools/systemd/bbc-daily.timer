@@ -1,0 +1,17 @@
+# 18:00 CST = 10:00 UTC. The Global News Podcast publishes twice a day:
+#   * the edition this site publishes, ~03:40-08:40 UTC (11:40-16:40 CST)
+#   * an afternoon edition, ~15:00-15:50 UTC (23:00-23:50 CST), which is skipped
+# 10:00 UTC is after every morning edition and well before the afternoon one, so
+# each date's morning edition is the newest item at run time. The pipeline also
+# looks back a few days (see WINDOW_DAYS), so a late post or a missed run is
+# picked up on the next pass rather than lost.
+[Unit]
+Description=Daily BBC podcast pipeline
+
+[Timer]
+OnCalendar=*-*-* 18:00:00
+Persistent=true
+RandomizedDelaySec=15min
+
+[Install]
+WantedBy=timers.target
