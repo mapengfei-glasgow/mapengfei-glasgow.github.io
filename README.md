@@ -30,16 +30,19 @@ recreated on a new host:
 tools/make_episode.py     # MP3 → full audio + Hugo content (sentence timestamps)
 tools/bbc_podcast.py      # BBC feed downloaders (run by the systemd timers)
 tools/bbc_gnp.py
+tools/bbc_backfill.py     # one episode per day for a date range (backfills)
 tools/bbc_publish.py      # transcribe → publish → push a batch
 tools/publish_batch.py    # batch helper used by BBC publishing
 tools/r2_client.py        # shared R2 signing/upload code (stdlib only)
 tools/r2_upload.py        # R2 CLI (also used from make_episode.py)
 tools/make_og.py          # Open Graph image for an episode
 tools/flag_a2.py          # A2-level sentence flagging (uses tools/phrase_notes.tsv)
+tools/qwen_explain.py     # writes the A2 notes with a local Qwen server
 tools/merge_explain.py    # merge the plain-English sentence notes
 tools/phrase_notes.tsv    # set-phrase table used by the flagger
+tools/daily_bbc_pipeline.sh      # the whole daily chain (systemd calls this)
 tools/r2-portal/          # Cloudflare Worker behind the /files/ page (+ its test)
-tools/systemd/*.service|timer   # bbc-publish, bbc_gnp, bbc_iot timers
+tools/systemd/*.service|timer    # bbc-daily (+ the older bbc_gnp/bbc_iot units)
 tools/test_charts.mjs     # test for the chart shortcode (see below)
 
 tools/ecdict.csv          # NOT committed (66 MB ECDICT table); make_episode.py
@@ -101,12 +104,65 @@ git push origin main   # remote is SSH; core.sshCommand points at the local ssh 
 
 ## Daily automation
 
-Two systemd user timers download the newest episodes, and one publishes them:
+One systemd **user** timer runs the whole chain — no root needed:
 
-- `~/.config/systemd/user/bbc_gnp.timer` — 09:00, Global News Podcast
-- `~/.config/systemd/user/bbc_iot.timer` — 11:00, In Our Time
-- `tools/systemd/bbc-publish.timer` — 12:30, runs `tools/bbc_publish.py`, which
-  transcribes any newly downloaded episode, generates its page, commits and pushes
+- `~/.config/systemd/user/bbc-daily.timer` — 18:00 daily (10:00 UTC), runs
+  `tools/daily_bbc_pipeline.sh`, which does
+
+  1. make sure the local Mihomo proxy (`mihomo.service`) is up,
+  2. download the day's episode (`tools/bbc_backfill.py`, a rolling 3-day
+     window, one episode per day),
+  3. transcribe → build the page → upload to R2 → commit → push
+     (`tools/bbc_publish.py`),
+  4. flag the sentences beyond CEFR A2, write the plain-English notes with the
+     local Qwen server (`tools/qwen_explain.py`) and merge them
+     (`tools/merge_explain.py`), then commit and push again.
+
+  Every stage is idempotent, so a failed run can be repeated with
+  `systemctl --user start bbc-daily.service`.
+
+Useful:
+
+```bash
+systemctl --user list-timers bbc-daily.timer
+journalctl --user -u bbc-daily -n 50          # or work/logs/bbc-daily-*.log
+systemctl --user start bbc-daily.service      # run it now
+SKIP_NOTES=1 systemctl --user start bbc-daily.service   # skip the Qwen step
+```
+
+The older `bbc_gnp` / `bbc_iot` / `bbc-publish` units are superseded by
+`bbc-daily`; their `ExecStart` still refers to the pre-migration host, so do not
+install them as they are. To add In Our Time, copy `bbc-daily.service` and set
+`Environment=SHOW=in-our-time DL_DIR=downloads/In Our Time`.
+
+### The A2 notes
+
+`tools/qwen_explain.py` talks to the local SGLang server (`sglang-qwen.service`,
+`Qwen3.8-27B-FP8` on `127.0.0.1:30000`). The daily pipeline starts it if it is
+not already running:
+
+```bash
+./venv/bin/python tools/qwen_explain.py --dry-run          # check the endpoint
+./venv/bin/python tools/qwen_explain.py --slug <episode>   # one episode
+./venv/bin/python tools/qwen_explain.py --force            # regenerate all
+```
+
+The daily pipeline only annotates the episodes **it published in that run**, so
+the timer can never quietly rewrite a hundred older pages. Older episodes that
+have no notes yet (the In Our Time run, and the Global News episodes from
+2026-09-09 to 2026-09-12) are a deliberate backfill; generate them in bounded
+batches and merge:
+
+```bash
+./venv/bin/python tools/qwen_explain.py --limit 20         # 20 chunks this pass
+./venv/bin/python tools/merge_explain.py                   # merge into frontmatter
+./venv/bin/python tools/bbc_publish.py --dry-run           # (nothing to publish)
+git -C . add content/episodes && git commit -m "A2 notes" && git push
+```
+
+`flag_a2.py` also flags sentences for every episode, so `tools/a2_chunks/` grows
+regardless of which episodes you annotate; `qwen_explain.py` skips any chunk that
+already has a result file.
 
 ## Uploading files to Cloudflare R2
 
@@ -229,11 +285,29 @@ python3 bbc_podcast.py in-our-time "$PWD/downloads/In Our Time" --limit 10   # 1
 ./venv/bin/python tools/bbc_publish.py --limit 4                            # transcribe → publish → push
 ```
 
+To fill in a *date range* rather than "the N newest", use `bbc_backfill.py`. The
+Global News feed carries two editions a day plus cross-posted items (The Happy
+Pod, The Global Story), so "the newest item" is the wrong episode as soon as an
+afternoon edition lands first; this takes the earliest item of each date, which
+is the edition every existing page matches:
+
+```bash
+http_proxy=http://127.0.0.1:7891 https_proxy=http://127.0.0.1:7891 \
+  ./venv/bin/python tools/bbc_backfill.py global-news \
+    --from 2026-09-13 --to 2026-09-18 --dir "downloads/BBC Global News Podcast"
+```
+
+Add `--dry-run` first to see the selection. It is idempotent (downloaded guids
+are recorded in `.last_episode.json`).
+
 - `bbc_podcast.py` skips trailers (< 5 MB), items belonging to other programmes,
   and keeps a `.downloaded.json` title index next to the MP3s (so real feed titles
   like `Archive: Coffee` are preserved).
 - `bbc_publish.py` skips any episode that already has a page, so re-running is safe.
 - Transcription runs at roughly 4–5 minutes per 50-minute episode on this machine.
+- On networks where the BBC's Akamai edge answers 403, both downloaders retry the
+  episode through the other CDN connections the mediaset API lists (CloudFront
+  works); see `work/HOST-NOTES.md`.
 
 ### Where the audio lives (Cloudflare R2)
 

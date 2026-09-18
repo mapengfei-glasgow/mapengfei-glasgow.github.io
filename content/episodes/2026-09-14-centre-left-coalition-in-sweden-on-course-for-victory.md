@@ -1,0 +1,257 @@
+---
+layout: single
+title: "Centre Left coalition in Sweden on course for victory"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-14T00:00:00Z
+slug: "2026-09-14-centre-left-coalition-in-sweden-on-course-for-victory"
+audioDir: "2026-09-14-centre-left-coalition-in-sweden-on-course-for-victory"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-14-centre-left-coalition-in-sweden-on-course-for-victory/episode.mp3"
+totalDuration: 1548.4
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.62}
+  - {text: "I'm Alex Ridsson and in the early hours of Monday the 14th of September these are our main stories.", start: 5.28, end: 11.88}
+  - {text: "Sweden's election authorities predict a slim majority for the left -wing opposition in a close parliamentary race.", start: 12.54, end: 19.22}
+  - {text: "Ukrainian Railways says Russia could have been targeting a train carrying senior European diplomats in a drone attack and Turkish police detained dozens of people after sweeping raids at LGBT venues.", start: 19.74, end: 32.42}
+  - {text: "Also in this podcast a tragic story as a result of the mafia's grip on a family.", start: 35.09, end: 41.03}
+  - {text: "The death of Nisekosko is the last episode, let's say, of a family saga.", start: 41.43, end: 47.41}
+  - {text: "And in tennis. None of us have ever seen anything quite like that at the end of a grand slam final.", start: 48.05, end: 53.43}
+  - {text: "We're at Flushing Meadows for the US Open Men's Final.", start: 53.81, end: 57.33}
+  - {text: "We begin in Sweden where the country's general election on Sunday remains too close to call as the vote count continues.", start: 62.30, end: 69.56}
+  - {text: "Initial exit polls suggested a victory for the left -wing opposition with results for the largest party in that coalition, the Social Democrats, being met with jubilant celebrations.", start: 69.80, end: 80.38}
+  - {text: "This will be a great change for Sweden, for some democracy, a better future.", start: 84.74, end: 90.89}
+  - {text: "It's briefly hopeful I would say.", start: 91.33, end: 93.67}
+  - {text: "It shows that with some luck we will still see that the polls that they actually moved through in the actual elections.", start: 93.89, end: 100.85}
+  - {text: "I hope this is the start for the right -wing moment to finish off.", start: 101.11, end: 107.57}
+  - {text: "In their latest update the election authorities are projecting that the left -wing bloc will win a three -seat majority in parliament.", start: 107.75, end: 114.69}
+  - {text: "The far -right Sweden Democrats saw their support fall, but some results have yet to be declared.", start: 115.17, end: 120.21}
+  - {text: "BBC monitoring's Matilda Vellin has been following developments.", start: 120.69, end: 123.99}
+  - {text: "She says it may take a while before we get a definitive result.", start: 124.49, end: 127.87}
+  - {text: "A government might take longer than an initial election result because there's a parliamentary party in Sweden and the way that they collaborate with each other makes ground for who they approve as a prime minister.", start: 128.35, end: 140.89}
+  - {text: "So when we last had an election in Sweden four years ago it took around a month for them to agree on a prime minister and four years before that.", start: 141.63, end: 148.57}
+  - {text: "It took so long that it was after Christmas before the prime minister was approved by parliament.", start: 148.79, end: 153.35}
+  - {text: "It's likely that the last votes will be counted this coming Wednesday.", start: 154.05, end: 157.85}
+  - {text: "So most likely we will know which of the two main blocks in the right -wing bloc and the centre -left bloc will have the most mandates", start: 158.29, end: 167.77}
+  - {text: "and then it will be likely to guess who will become the prime minister soon after that.", start: 167.77, end: 172.31}
+  - {text: "Opinion polls had predicted a victory for the far -right but the election authorities are suggesting that they were wrong and that the left -wing coalition is likely to be ahead.", start: 172.49, end: 185.77}
+  - {text: "I wouldn't say that there would ever be a victory for the far -right in so far that in Sweden for most of the last 100 years the social democrats have been the biggest party", start: 186.11, end: 196.51}
+  - {text: "and that was always expected in this election too and even though the social democrats have most likely have done one of the worst elections in", start: 196.51, end: 205.81}
+  - {text: "the last 100 years they are still the biggest party in Sweden such is their dominance.", start: 205.81, end: 210.27}
+  - {text: "What people mean when they talk about the Sweden Democrats being victors in the election is that they have really rocketed in their support.", start: 210.53, end: 218.51}
+  - {text: "They only entered parliament 16 years ago in 2010 and since then they have every election they have increased their support so much so that four", start: 219.03, end: 228.49}
+  - {text: "years ago they were the second biggest political party behind the social democrats.", start: 228.49, end: 232.39}
+  - {text: "So does that mean that migration is no longer perhaps quite the issue that it has been for recent years?", start: 233.31, end: 241.21}
+  - {text: "You ask about migration as a topic in Sweden and that's very much still a topic that has been discussed during the election or the campaigning.", start: 241.59, end: 249.57}
+  - {text: "How will Sweden change as a result of this election?", start: 249.85, end: 252.75}
+  - {text: "What it seems likely right now is that we will have a shift of prime minister we will go from a conservative prime minister Ulf Kristessow to a labour of social democrat prime minister Magdalena Andersson", start: 253.03, end: 263.55}
+  - {text: "but again we will see how how these parties negotiate between themselves.", start: 263.55, end: 267.23}
+  - {text: "The state railway company in Ukraine has said it's quite likely that Russia was seeking to attack a diplomatic train which had some of Europe's most senior security officials on board.", start: 267.75, end: 279.55}
+  - {text: "On Sunday morning the train was passing through a station in Ukraine which is near the Polish border and had left earlier than planned.", start: 280.07, end: 286.43}
+  - {text: "Soon after leaving Warsaw a Russian drone hit another train at the same station.", start: 286.71, end: 291.21}
+  - {text: "The train had been evacuated and no one was injured but this passenger said that she was terrified.", start: 291.61, end: 296.81}
+  - {text: "We were travelling on the train.", start: 301.09, end: 302.61}
+  - {text: "This was already our third evacuation.", start: 303.05, end: 304.65}
+  - {text: "We were woken up in the middle of the night.", start: 305.15, end: 306.67}
+  - {text: "I looked out of the window and saw that people had started running.", start: 307.13, end: 309.75}
+  - {text: "We had to. I realised that something had happened and we needed to act quickly but then I heard the explosion so I told the children to run out of the carriage quickly and whatever they were wearing.", start: 310.15, end: 319.83}
+  - {text: "I grabbed my rucksack with my documents and we all ran out too.", start: 320.35, end: 323.39}
+  - {text: "Russia's defence ministry said it had attacked railway infrastructure used to transport military cargo.", start: 323.95, end: 329.57}
+  - {text: "Andrey Sabiha, Ukraine's foreign minister gave this warning.", start: 330.03, end: 333.47}
+  - {text: "Russian strikes are now hitting right next to the Ukrainian -Polish border.", start: 336.89, end: 340.99}
+  - {text: "Specifically, a strike was carried out today.", start: 341.47, end: 344.17}
+  - {text: "President Putin's terror is literally knocking on the doors of the European Union and NATO.", start: 344.89, end: 350.61}
+  - {text: "That is precisely why partial measures are insufficient.", start: 351.33, end: 354.45}
+  - {text: "Mr Sabiha went on to call for continued military support for Ukraine and tougher sanctions against Russia.", start: 355.49, end: 361.61}
+  - {text: "It's understood the drone struck two kilometres from the Ukraine -Poland border.", start: 362.05, end: 366.71}
+  - {text: "The Polish Prime Minister, Donald Tusk, held an emergency meeting to discuss what he called Russia's escalation of actions.", start: 367.21, end: 374.05}
+  - {text: "Our diplomatic correspondent James Landale is in Kiev.", start: 374.71, end: 378.09}
+  - {text: "Over the last couple of days there's been a big conference here in the centre of Kiev.", start: 378.83, end: 382.67}
+  - {text: "It's an annual event and an awful lot of VIPs have been in town and a lot of people were on a special train that had been organised by the conference", start: 383.11, end: 392.61}
+  - {text: "and the thing is is that that train followed the very, very familiar routes.", start: 393.17, end: 397.71}
+  - {text: "The same routes that other world leaders take when they leave Ukraine.", start: 397.91, end: 401.93}
+  - {text: "It's the same routes that U .S.", start: 402.19, end: 404.11}
+  - {text: "envoys took themselves last weekend when they came here from Moscow and then back out again.", start: 404.21, end: 410.33}
+  - {text: "So this is a familiar route.", start: 410.47, end: 412.07}
+  - {text: "It's not secret. People know where it is.", start: 412.27, end: 414.73}
+  - {text: "And this train passed through the border and then an hour later a Russian drone struck a train in the station.", start: 415.45, end: 424.27}
+  - {text: "And the train operator says that it is quite likely that Russia was targeting that special diplomatic train.", start: 424.75, end: 432.01}
+  - {text: "What this shows, I think, is A, that Russia's new tactic of targeting not just trains but also border positions.", start: 432.59, end: 439.75}
+  - {text: "In recent days there have been attacks on the border with Romania, with Moldova.", start: 440.49, end: 444.99}
+  - {text: "There's a pattern forming here as part of a broader escalation that is taking place at the moment.", start: 445.21, end: 450.11}
+  - {text: "And secondly, what is interesting is General David Petraeus, the former U .S.", start: 450.81, end: 454.37}
+  - {text: "CIA chief, was also at this conference.", start: 454.57, end: 456.41}
+  - {text: "He was on a slightly different train but he was at that station just outside when the attack took place.", start: 456.75, end: 462.27}
+  - {text: "And he's been quoted saying that he now believes that this was a deliberate attempt by the Russians to try to close that Western border to deter Western visitors coming here to Ukraine,", start: 462.57, end: 472.53}
+  - {text: "the fact that these attacks are happening so close to NATO territory.", start: 472.87, end: 475.85}
+  - {text: "At the very least, it raises the possibility of mistake, of miscalculation of some of these attacks going wrong and not happening on Ukrainian soil but on NATO soil.", start: 476.41, end: 487.35}
+  - {text: "And as we've seen throughout this conflict, sometimes that is tolerated and NATO takes a blind eye.", start: 487.57, end: 493.77}
+  - {text: "But at a certain point, NATO members may well decide that enough is enough.", start: 493.83, end: 498.33}
+  - {text: "And that I think is part of the Russian strategy of pushing NATO.", start: 498.79, end: 502.49}
+  - {text: "It has done for many, many months, if not years, to see how and when it's going to respond.", start: 502.67, end: 507.75}
+  - {text: "James Landale. Up to now, Russia's economy has remained surprisingly resilient despite international sanctions and the massive cost of the war in Ukraine.", start: 508.15, end: 518.08}
+  - {text: "But businesses are struggling, fuel shortages are growing and many Russians say they're feeling the strain.", start: 518.58, end: 524.00}
+  - {text: "Our reporter, Ed Butler, asks whether the cost of the war is finally beginning to bite.", start: 524.52, end: 529.14}
+  - {text: "Filling up at gas stations in Russia seems to be getting increasingly stressful these days.", start: 533.98, end: 540.28}
+  - {text: "This was an argument over alleged queue jumping.", start: 542.52, end: 545.52}
+  - {text: "Russians are having to wait six hours or more sometimes to fill their fuel tanks.", start: 546.10, end: 550.78}
+  - {text: "The reason? Well largely, this is due, it seems, to Ukraine's sustained drone attacks on Russia's oil refineries.", start: 551.34, end: 559.22}
+  - {text: "And not just those, Ukraine's extended its attacks to include retail warehouses as well, like the wildberries chain known as Russia's Amazon.", start: 562.92, end: 573.94}
+  - {text: "This was the scene of panic after one recent strike in Yakitorinburg.", start: 577.15, end: 581.58}
+  - {text: "Some small business owners who house their commercial products inside wildberries say they've been ruined.", start: 582.50, end: 589.58}
+  - {text: "That's it. That's over.", start: 593.42, end: 595.24}
+  - {text: "My brand officially no longer exists because we have nothing left, no inventory, no savings.", start: 596.20, end: 602.32}
+  - {text: "I've been wiped out.", start: 603.02, end: 604.50}
+  - {text: "I'm officially broke. But is it really so bad across Russia as a whole?", start: 605.20, end: 613.29}
+  - {text: "Yes, it's true inflation and interest rates are up, but President Putin points out that unemployment remains low.", start: 613.71, end: 621.07}
+  - {text: "And in a press conference last month, he said that the economy was actually still growing.", start: 621.47, end: 626.23}
+  - {text: "Economic dynamics are generally modest, but positive GDP growth is around 1%.", start: 626.53, end: 635.97}
+  - {text: "It is clear that economic growth is affected by external pressure and terrorist attacks.", start: 635.97, end: 642.75}
+  - {text: "But economists say that this growth is unsustainable long term because it's only government spending that's driving it.", start: 643.23, end: 649.73}
+  - {text: "The state coffers are running low.", start: 650.23, end: 652.11}
+  - {text: "The deficit is rising.", start: 652.55, end: 653.81}
+  - {text: "And the low unemployment rate may not be the sign of strength that Vladimir Putin claims.", start: 654.37, end: 659.17}
+  - {text: "There are growing rumors that after Vladimir Putin's victory in this month's election, something which is presumed to be a formality in this highly authoritarian state,", start: 659.93, end: 670.11}
+  - {text: "his government will launch another round of mobilizations, forcing hundreds of thousands of people to join the armed forces.", start: 670.61, end: 677.69}
+  - {text: "Some like this man who's just crossed the border into Georgia are posting online that they're not waiting to find out.", start: 678.41, end: 684.33}
+  - {text: "Folks, it's the end of August, the end of the holiday season.", start: 688.03, end: 692.01}
+  - {text: "People are fleeing from Russia.", start: 692.23, end: 694.09}
+  - {text: "Cues to borders are increasing each hour.", start: 694.67, end: 696.87}
+  - {text: "But be aware that the Russian authorities will try to close this gap to escape.", start: 697.11, end: 701.53}
+  - {text: "They will create obstacles.", start: 701.83, end: 703.09}
+  - {text: "Sergey Petrov is a former Russian billionaire who built a car sales and rental business from nothing back in the 1990s.", start: 704.51, end: 712.81}
+  - {text: "Now the Kremlin critic lives in exile.", start: 712.81, end: 715.23}
+  - {text: "He says that the steady brain drain of wealthier Russians fleeing abroad is a factor now.", start: 715.49, end: 721.47}
+  - {text: "Next year, maybe next two years, it might be people who raise the questions why we are here and the situation inside of society might show a lot of unstable things which we can't predict.", start: 721.97, end: 734.01}
+  - {text: "We can't see it now.", start: 734.21, end: 735.17}
+  - {text: "Russia is so unpredictable.", start: 735.83, end: 737.19}
+  - {text: "No rules. They don't believe in the rules.", start: 737.67, end: 740.15}
+  - {text: "And it might be consequence, of course, immediate reaction from the, not from the people, but from the people who are near the Putin.", start: 740.53, end: 748.31}
+  - {text: "It might be dangerous for him.", start: 748.73, end: 750.17}
+  - {text: "Sergey Petrov ending that report by Ed Butler.", start: 750.65, end: 753.39}
+  - {text: "Still to come in this podcast.", start: 755.96, end: 757.88}
+  - {text: "The metaphor that I use isn't the metaphor of the ladder, which is, I think, climbing up the ladder.", start: 758.32, end: 763.96}
+  - {text: "It's the metaphor of the weave that we weave our lives.", start: 764.32, end: 768.04}
+  - {text: "How should we view our lives in the age of longevity?", start: 768.36, end: 772.02}
+  - {text: "This is the Global News podcast.", start: 778.90, end: 780.78}
+  - {text: "Human rights groups in Turkey have accused the government of targeting the LGBT community after a series of raids on gay bars and activists' homes.", start: 781.68, end: 790.74}
+  - {text: "The crackdown is part of a campaign dubbed My Family is Safe, which the government says is designed to protect traditional values.", start: 791.28, end: 798.20}
+  - {text: "But critics have described it as state -led discrimination and a blatant violation of fundamental rights, taking the country down a dark path.", start: 798.20, end: 807.12}
+  - {text: "My colleague, Owen Bennett Jones, spoke to Emily Wither, a journalist based in Istanbul.", start: 807.56, end: 812.42}
+  - {text: "What we've seen over the weekend is really unprecedented.", start: 813.06, end: 816.34}
+  - {text: "There's never been a crackdown quite like this before.", start: 816.80, end: 819.56}
+  - {text: "The scale of arrests are wide -ranging and it's really sent a chill through the community here.", start: 820.12, end: 825.74}
+  - {text: "So the Justice Minister has said that they've brought in 162 suspects.", start: 825.96, end: 831.16}
+  - {text: "They've raided nine associations, 13 businesses covering 15 provinces.", start: 831.90, end: 837.54}
+  - {text: "And the Justice Minister says this is in a probe into prostitution and obscenity.", start: 838.06, end: 843.40}
+  - {text: "And they've also shut down dozens of LGBTQ plus websites, social media accounts.", start: 843.88, end: 850.48}
+  - {text: "So it's really wide -ranging.", start: 850.76, end: 852.40}
+  - {text: "And many of the associations that were raided, they were helping this community, which is really targeted in this country with everything from solidarity to mental health.", start: 852.76, end: 863.42}
+  - {text: "So there are many people from this community tonight in Turkey who are feeling quite scared and quite worried about their future.", start: 863.64, end: 870.72}
+  - {text: "So this is part of President Erdogan's long -running campaign to bolster family values, right?", start: 871.10, end: 877.28}
+  - {text: "Yes, that's right. So this crackdown is part of the Turkish president Tayyip Erdogan's decade of family and population.", start: 877.28, end: 884.20}
+  - {text: "It's an initiative designed to tackle falling birth rates in this country and an aging demographic.", start: 884.74, end: 890.10}
+  - {text: "Like many countries around the world, people aren't having children like they used to here in Turkey.", start: 890.74, end: 895.48}
+  - {text: "It's below replacement level.", start: 895.76, end: 897.54}
+  - {text: "And Erdogan was encouraging people to have at least three children pushing traditional family values and blaming the decline partly on the LGBTQ plus community.", start: 897.96, end: 908.22}
+  - {text: "The government are offering financial incentives, but it's not really working partly because there is a very challenging cost of living crisis here.", start: 908.96, end: 917.20}
+  - {text: "What are the laws about same -sex relationships?", start: 917.60, end: 919.62}
+  - {text: "Is it illegal? Turkey doesn't recognise same -sex marriages, but same -sex relations are not an offence in Turkey.", start: 920.08, end: 927.88}
+  - {text: "But homophobia is common, and it's been tough for some time in Turkey.", start: 928.20, end: 932.08}
+  - {text: "So Pride was banned in 2015.", start: 932.08, end: 934.46}
+  - {text: "People still do come out and march on Pride, but they are targeted with tear gas and water cannon.", start: 935.10, end: 941.50}
+  - {text: "And I've really watched it build over the years here how much this community is being targeted.", start: 941.96, end: 947.42}
+  - {text: "We now have direct messaging from the government targeting this community.", start: 947.66, end: 952.14}
+  - {text: "Effectively hate speech against these communities has become acceptable language in political discourse in a way that it didn't used to be.", start: 952.28, end: 961.42}
+  - {text: "This is also part of a wider crackdown that we're seeing in Turkey this year.", start: 961.42, end: 965.62}
+  - {text: "It began with the political opposition, but lately it's extended to people from the LGBTQ plus community, but also to social media influencers, performers, business people.", start: 965.90, end: 978.22}
+  - {text: "A number of comedians have found themselves in trouble with the law recently.", start: 978.82, end: 982.22}
+  - {text: "So it's not just the opposition.", start: 982.84, end: 984.46}
+  - {text: "It's now part of a wider crackdown that critics say is against anyone that challenges the government's socially conservative view of how Turkey should be and how its public should behave.", start: 984.66, end: 995.02}
+  - {text: "Emily Wither in Istanbul.", start: 995.38, end: 996.98}
+  - {text: "Now to a case that's gripped Italy for years.", start: 998.06, end: 1000.82}
+  - {text: "A woman who testified against her own father after her mother was murdered in a notorious mafia killing is believed to have taken her own life.", start: 1001.14, end: 1009.20}
+  - {text: "Denise Costco described herself as a proud witness for justice.", start: 1009.56, end: 1013.14}
+  - {text: "She was found critically injured last Sunday and died a few days later in hospital.", start: 1013.14, end: 1018.04}
+  - {text: "Anna Sergi is professor of sociology of law and deviance at the University of Bologna.", start: 1018.62, end: 1025.14}
+  - {text: "The death of Denise Costco is the last episode, let's say, of a family saga.", start: 1025.62, end: 1031.78}
+  - {text: "Denise's mom, Lea Garofalo, is probably one of the best well -known women who took on the Ndrangheta, the Calabrian mafia, by basically rebelling against her husband", start: 1032.56, end: 1044.84}
+  - {text: "and leaving her husband and her family behind to give Denise a better life.", start: 1044.84, end: 1049.48}
+  - {text: "But then she was killed by her husband, Denise's father.", start: 1049.92, end: 1052.90}
+  - {text: "The father is in prison.", start: 1053.42, end: 1054.28}
+  - {text: "Denise chose to kill herself when she was 35, which is the same age that her mother was when she was killed.", start: 1054.48, end: 1062.88}
+  - {text: "So it's highly symbolic.", start: 1063.10, end: 1064.00}
+  - {text: "Denise's story is fairly complicated because she chose to go back to her father's family at the beginning when things were not settled, when she didn't know effectively what her father had done.", start: 1064.56, end: 1075.42}
+  - {text: "So she has lived with the ambiguity of her mother being effectively a saint and idealized for being this anti -mafia hero.", start: 1075.92, end: 1085.44}
+  - {text: "And her father, the monster who killed her, this is very difficult on anyone growing up.", start: 1085.76, end: 1091.26}
+  - {text: "The reasons why Carlos Costco, her father, was in jail is because Denise testified.", start: 1091.70, end: 1097.28}
+  - {text: "So she was under witness protection, which effectively means that she was away with a new identity in a secure location, constantly checked up upon by protection services to make sure that nothing unusual happened in the routine.", start: 1098.14, end: 1112.70}
+  - {text: "This must have been extremely demanding for her.", start: 1112.70, end: 1115.88}
+  - {text: "It's still about dangers that she was, of course, facing by the organization that she took on.", start: 1116.28, end: 1122.94}
+  - {text: "But at the same time, probably she would have needed more support, overcoming all her internal and family history.", start: 1123.40, end: 1130.14}
+  - {text: "The Israeli culture minister has said he'll take immediate action to revoke the citizenship of two Israeli directors of NASA, the documentary examining the AI -driven", start: 1130.58, end: 1142.16}
+  - {text: "system used by the Israeli military to carry out attacks in Gaza.", start: 1142.16, end: 1146.12}
+  - {text: "On Saturday, NASA won a special jury prize at the prestigious Venice Film Festival, where it received a 25 -minute standing ovation.", start: 1146.54, end: 1154.96}
+  - {text: "Sebastian Usher reports. In an angry tweet, the Israeli culture minister, Mickey Zohar, has accused Yuval Abraham and Rachel Zor of having betrayed the state of Israel.", start: 1155.44, end: 1165.70}
+  - {text: "He described the prize awarded to NASA in Venice.", start: 1165.94, end: 1168.76}
+  - {text: "The shocking and said its directors were willing to harm their homeland just to win applause from anti -Semites.", start: 1169.16, end: 1175.36}
+  - {text: "Mr. Zohar doesn't himself have the power to revoke their citizenship, but the mechanism to take such action does exist in Israeli law.", start: 1175.98, end: 1183.26}
+  - {text: "NASA takes its name from an acronym used by the Israeli military to denote how many civilians are expected to be killed in any strike targeting a Hamas member in Gaza.", start: 1183.70, end: 1194.00}
+  - {text: "The film is based on testimony from disillusioned Israeli intelligence officers speaking on condition of anonymity.", start: 1194.00, end: 1201.26}
+  - {text: "Alexander Zverev has won the men's US Open, his second Grand Slam tennis title of the year.", start: 1203.72, end: 1210.20}
+  - {text: "The German beat America's Ben Shelton in four sets, and it was quite a bizarre ending, as Zverev didn't realise he'd won when Shelton hit a return long on championship point.", start: 1210.46, end: 1220.36}
+  - {text: "Our correspondent Russell Fuller was watching from the commentators box at Flushing Meadows.", start: 1220.36, end: 1225.62}
+  - {text: "He spoke to Anko Desai.", start: 1226.02, end: 1227.58}
+  - {text: "Russell, he's often been the nearly man in men's tennis, but this year he's really filled the gap when the likes of Alkarath and Sinner, the two real titans of tennis,", start: 1272.52, end: 1282.68}
+  - {text: "have been either injured or absent from Grand Slams.", start: 1282.92, end: 1285.08}
+  - {text: "He's really capitalised. Yes, absolutely.", start: 1285.20, end: 1287.58}
+  - {text: "He has taken his opportunity wonderfully well.", start: 1287.94, end: 1290.52}
+  - {text: "There was no Carlos Alkarath at the French Open.", start: 1290.84, end: 1292.78}
+  - {text: "Yannick Sinner was beaten in the heat of the second round, and he was very nervous through much of that championships, but he still won a fifth set against Flavio Caboli.", start: 1293.02, end: 1303.06}
+  - {text: "And then here at the US Open, with Carlos Alkarath just returning from injury and Yannick Sinner absent.", start: 1303.44, end: 1308.90}
+  - {text: "Again, he benefited from a very handy draw.", start: 1309.40, end: 1311.76}
+  - {text: "Ben Shelton, the first top 20 player he had to beat, and despite being taken to five sets in both rounds one and two, he got better throughout the tournament, and there's no question,", start: 1312.18, end: 1321.70}
+  - {text: "that was his premiere performance of the championships, and he saved it until the final.", start: 1322.00, end: 1326.06}
+  - {text: "A word on Ben Shelton, an exciting prospect for American tennis.", start: 1326.40, end: 1329.88}
+  - {text: "He'll be hoping to come back and try and claim that trophy one more time.", start: 1330.00, end: 1333.62}
+  - {text: "Yes, the American male Grand Slam droughts will extend into a 24th year.", start: 1334.24, end: 1339.74}
+  - {text: "Andy Roddick, the last American man to win a Grand Slam here at the US Open in 2003.", start: 1339.90, end: 1345.06}
+  - {text: "But I think having beaten Carlos Alkarath in the quarterfinals and reached the first Grand Slam final with so many years of his career to come,", start: 1345.58, end: 1351.88}
+  - {text: "and having matured so much in terms of his game and his approach to matches, American fans can be very optimistic that he's going to put himself in this sort of position again and that that very,", start: 1352.20, end: 1362.66}
+  - {text: "very long drought by their standards, not a problem on the women's side, I should say, where they have dominated, will come to an end at some point in the next few years.", start: 1362.72, end: 1369.92}
+  - {text: "Russell Fuller in New York.", start: 1370.24, end: 1371.98}
+  - {text: "We are, on average, living longer than ever before, but how should we make the most of the extra years?", start: 1372.54, end: 1379.22}
+  - {text: "Professor Linda Gratton has been researching this for her new book, Living the 100 -Year Life About Living and Working in the Age of Longevity.", start: 1379.74, end: 1388.60}
+  - {text: "She told us aging is not like climbing a ladder, but rather like weaving a cloth that evolves with us.", start: 1388.60, end: 1395.54}
+  - {text: "When we used to think about our lives, particularly our working life, we used to think about it as three stages, full -time education, full -time work, full -time retirement.", start: 1395.96, end: 1403.24}
+  - {text: "But let's imagine that you retire at 60 and then live to maybe 90.", start: 1403.40, end: 1407.08}
+  - {text: "You know, that's a long time on the golf course, it's a long time, not necessarily interacting.", start: 1407.54, end: 1410.96}
+  - {text: "So, you know, I ask three questions.", start: 1411.14, end: 1412.88}
+  - {text: "The first one is who am I?", start: 1412.98, end: 1414.62}
+  - {text: "You know, what do I want to do with my life?", start: 1414.92, end: 1416.68}
+  - {text: "The second is where am I now?", start: 1416.96, end: 1418.34}
+  - {text: "And that's where the threads comes in, you know.", start: 1418.34, end: 1420.16}
+  - {text: "You can really look at the threads that hold your life together.", start: 1420.34, end: 1422.86}
+  - {text: "And then the third question I ask is, what actions could I take right now?", start: 1423.18, end: 1427.48}
+  - {text: "But also what promises might I make to my future self?", start: 1427.82, end: 1430.68}
+  - {text: "The one thing we know that really predicts whether you have a great life is friendship.", start: 1431.34, end: 1436.02}
+  - {text: "Now, all of us, anywhere in the world, can right now turn around and spend eight minutes with a friend.", start: 1436.66, end: 1443.56}
+  - {text: "And we know that eight minutes with a friend strengthens that thread of friendship.", start: 1443.64, end: 1447.94}
+  - {text: "So, you know, these threads are not just about making money.", start: 1447.94, end: 1451.56}
+  - {text: "They're also about staying calm, having adventures.", start: 1451.60, end: 1454.62}
+  - {text: "All of the choices that we want to make can change over time.", start: 1455.06, end: 1458.74}
+  - {text: "So, for example, you know, there was a time you thought, oh, if I want to start a business, I've got to start it when I'm really young.", start: 1458.82, end: 1463.54}
+  - {text: "Got to be 20, got to be 21.", start: 1463.72, end: 1464.88}
+  - {text: "What we know now from research on entrepreneurs is the most successful entrepreneurs now who start a business are in their 40s.", start: 1465.16, end: 1472.88}
+  - {text: "So here you have this great opportunity, you know, to actually think about your life not around your age.", start: 1472.90, end: 1479.26}
+  - {text: "You know, I've seen more and more people taking sabbaticals in their 40s and their 50s and really stepping away.", start: 1479.54, end: 1486.14}
+  - {text: "And of course, you can do that because if you're going to work until your 70s, and that's what I think we'll be doing, then actually it makes sense to take some of that retirement age and redistribute it,", start: 1486.46, end: 1497.70}
+  - {text: "but also take the education age and redistribute that.", start: 1497.76, end: 1501.68}
+  - {text: "Professor Linda Gratton. And that's all from us for now.", start: 1501.68, end: 1509.04}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1509.30, end: 1515.50}
+  - {text: "You can also find us on X at BBC World Service.", start: 1515.86, end: 1519.02}
+  - {text: "Use the hashtag globalnewspod.", start: 1519.22, end: 1521.58}
+  - {text: "And don't forget our sibling podcast, The Global Story, which goes in depth and beyond the headlines on one big story.", start: 1521.96, end: 1530.34}
+  - {text: "This edition of the Global News podcast was mixed by Resen Wendoro and the producer was Mozaffa Shakir.", start: 1530.34, end: 1538.06}
+  - {text: "The editor is Karen Martin.", start: 1538.38, end: 1540.26}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1540.82, end: 1543.14}
+---

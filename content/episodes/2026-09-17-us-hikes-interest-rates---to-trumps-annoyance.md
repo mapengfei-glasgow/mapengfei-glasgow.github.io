@@ -1,0 +1,275 @@
+---
+layout: single
+title: "US hikes interest rates - to Trump's annoyance"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-17T00:00:00Z
+slug: "2026-09-17-us-hikes-interest-rates---to-trumps-annoyance"
+audioDir: "2026-09-17-us-hikes-interest-rates---to-trumps-annoyance"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-17-us-hikes-interest-rates---to-trumps-annoyance/episode.mp3"
+totalDuration: 1769.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.84}
+  - {text: "I'm Alex Ritzen and in the early hours of Thursday, the 17th of September, these are our main stories.", start: 5.73, end: 12.67}
+  - {text: "The US Federal Reserve puts up interest rates for the first time in three years, despite loud calls from President Trump to lower them.", start: 13.17, end: 21.29}
+  - {text: "Nepal has revised upwards to more than 6 ,000, the number of people still missing after last month's devastating flash floods, and athletes criticise conditions at the Asian Games in Japan.", start: 21.89, end: 34.51}
+  - {text: "Some competitors can't even fit into the beds.", start: 35.01, end: 37.53}
+  - {text: "Also in this podcast, we build a new model that allows us to actually capture aspects of human brain function in a way that has not been possible before.", start: 40.44, end: 50.18}
+  - {text: "Frankenstein rodents. We hear about the part mouse, part human brain.", start: 50.72, end: 56.00}
+  - {text: "And the world's best pizza is apparently not found in Italy.", start: 56.00, end: 61.14}
+  - {text: "Rising prices, soaring fuel rates and the cost of living are hitting consumers and financial markets globally.", start: 65.24, end: 72.50}
+  - {text: "So much so that for the first time in three years, the US Central Bank, the Federal Reserve, is raising interest rates for the biggest economy", start: 72.84, end: 80.82}
+  - {text: "in the world by a quarter of a percentage point.", start: 80.82, end: 83.58}
+  - {text: "In the hope it will bring down inflation.", start: 83.96, end: 85.72}
+  - {text: "But the US President, who's demanded cuts, responded with a loud social media post, writing in all caps, lower the interest rates for the United States of America and fast.", start: 85.72, end: 97.26}
+  - {text: "This is not the script Donald Trump expected from the man he appointed as the new Fed chair.", start: 98.02, end: 103.30}
+  - {text: "But Kevin Warsh says inflation is too high.", start: 103.54, end: 106.42}
+  - {text: "While uncertainty remains elevated, owing in part to geopolitical developments, domestic spending has been resilient.", start: 106.82, end: 114.66}
+  - {text: "Productivity growth, strong and capital investment is robust.", start: 114.84, end: 118.42}
+  - {text: "Job gains have kept pace with the workforce and the unemployment rate has changed little.", start: 119.04, end: 123.84}
+  - {text: "But inflation remains elevated.", start: 124.08, end: 126.16}
+  - {text: "Today's policy action will support a timelier return to the committee's 2 % goal.", start: 126.50, end: 131.84}
+  - {text: "Our business correspondent in New York is Samira Hussain.", start: 132.30, end: 135.30}
+  - {text: "She gave us her assessment.", start: 135.72, end: 136.98}
+  - {text: "Kevin Warsh says that the US economy is doing really well, despite the geopolitical developments, as he put it.", start: 136.98, end: 145.94}
+  - {text: "And presumably, he's referring to the war with Iran, which has been a big driving factor for inflation in America right now.", start: 146.08, end: 154.88}
+  - {text: "Inflation here has been running above the target rate of 2 % for about five years.", start: 155.52, end: 161.82}
+  - {text: "But it was hovering around 2 .5%.", start: 161.96, end: 164.48}
+  - {text: "Now we're seeing this jump since February to 3 .4%.", start: 164.48, end: 169.90}
+  - {text: "And this is having a huge impact on all Americans.", start: 169.90, end: 174.30}
+  - {text: "They are having to pay so much more for the same things that they did just a year ago.", start: 174.50, end: 179.92}
+  - {text: "And that's really putting a lot of pressure on the American consumer.", start: 180.12, end: 183.20}
+  - {text: "And now they're going to have to pay more for their interest rates.", start: 183.54, end: 187.84}
+  - {text: "It's going to hurt, isn't it?", start: 187.90, end: 188.96}
+  - {text: "It's going to hurt for those people that are looking to borrow money.", start: 189.72, end: 193.50}
+  - {text: "It's going to put pressure on those people that are looking to buy a home or get a car loan.", start: 193.50, end: 198.76}
+  - {text: "But what Kevin Warsh was trying to say in the press conference is that this is about the American consumer and very much the consumer that is living paycheck to paycheck,", start: 199.18, end: 209.52}
+  - {text: "where the cost of living has been so high and it is making it very difficult for people to make ends meet.", start: 209.90, end: 216.52}
+  - {text: "Even when you look at the labor market, which Kevin Warsh had also said is doing really well in the United States, you see that wages aren't going up in line with inflation.", start: 216.78, end: 227.02}
+  - {text: "And that's also making it even harder for the American consumer.", start: 227.40, end: 231.18}
+  - {text: "This is like the bottom interest rate, though.", start: 231.98, end: 234.06}
+  - {text: "This is the interest rate upon which everything else is set, 3 .75 % to 4%.", start: 234.12, end: 240.30}
+  - {text: "Plus, whatever your lender adds on the top, people aren't used to interest rates at this level, are they?", start: 240.30, end: 246.78}
+  - {text: "We certainly haven't seen interest rates this high in a very long time.", start: 247.40, end: 250.90}
+  - {text: "And then if you look at the bond market, the 10 -year treasury yield, which is also a big indicator and perhaps more of an indicator", start: 251.20, end: 259.86}
+  - {text: "in terms of what your mortgage rate is going to be.", start: 259.86, end: 262.04}
+  - {text: "Here in the United States, we're looking at mortgage rates that are in the 7 % realm.", start: 262.36, end: 266.72}
+  - {text: "And just six, eight months ago, you could still get a mortgage for about 3 % to 4%.", start: 267.08, end: 272.38}
+  - {text: "So it's been really dramatic increases and it's going to start putting a lot of pressure on different parts of the American economy.", start: 272.38, end: 281.60}
+  - {text: "And this is an international issue, isn't it?", start: 281.92, end: 285.78}
+  - {text: "Everyone else is facing a rise too.", start: 285.92, end: 287.34}
+  - {text: "Everyone else is facing a rise because everyone else is also facing inflation because everyone else is also facing similar inflationary pressures because of the high cost of energy.", start: 287.54, end: 298.36}
+  - {text: "We didn't think Donald Trump was going to like this and he doesn't, does he?", start: 298.66, end: 302.68}
+  - {text: "He's already responded. He has responded and saying that, look, interest rates should be at 1 % or lower.", start: 302.72, end: 310.52}
+  - {text: "The interesting thing to me about this is that the criticism was related to interest rates only and he didn't resort to personal attacks against Kevin Warsh.", start: 311.38, end: 322.88}
+  - {text: "And if you'll remember his predecessor, the Fed Chair, former Fed Chair, Jerome Powell, faced a litany of criticisms both personally and his performance as Fed", start: 323.20, end: 334.10}
+  - {text: "Chair from the President of the United States.", start: 334.10, end: 336.82}
+  - {text: "Perhaps Kevin Warsh is a little bit saved, given that he was appointed by President Trump himself.", start: 337.14, end: 342.56}
+  - {text: "Our US business correspondent, Samira Hussain.", start: 342.82, end: 345.52}
+  - {text: "It's been three weeks since devastating flash floods hit Nepal and Tibet and China when a torrent of muddy water tore through villages and homes killing at least 1 ,400 people.", start: 346.50, end: 358.14}
+  - {text: "Many more are missing.", start: 358.68, end: 359.82}
+  - {text: "In fact, the Nepalese authorities have just revised that figure upwards.", start: 360.12, end: 364.24}
+  - {text: "They're now saying that more than 6 ,000 are unaccounted for.", start: 364.58, end: 368.04}
+  - {text: "That's left many families stuck in limbo, fearing the worst, but still hoping for a miracle.", start: 368.54, end: 373.36}
+  - {text: "Ajay Gupta in Delhi, in India, received the final text message from his daughter, Arushi, on the morning of the flood.", start: 373.74, end: 380.62}
+  - {text: "It said she was just 15 minutes away from the Nepal -Tibet border.", start: 381.02, end: 385.38}
+  - {text: "We cry sometimes. Then we try to compose ourself, me and my wife.", start: 386.23, end: 392.21}
+  - {text: "Her husband is convinced, I am convinced, wife is convinced, every one of our family member is convinced that she will be rescued.", start: 393.03, end: 402.12}
+  - {text: "Miracles do happen. Nepal government and China government.", start: 402.80, end: 410.02}
+  - {text: "It folded and I have faith in China and Nepal government.", start: 411.04, end: 417.24}
+  - {text: "They will definitely rescue her.", start: 417.96, end: 420.44}
+  - {text: "She will be found.", start: 421.10, end: 422.10}
+  - {text: "Our global affairs reporter and Barasan Etirajan told me more about the recovery efforts.", start: 424.20, end: 429.40}
+  - {text: "It's a mammoth task for the rescuers because it impacted a vast area as the flash floods came roaring down the valley, sweeping away villages and towns.", start: 429.88, end: 440.02}
+  - {text: "That's one of the reasons why even the Nepalese government is still not clear about how many people are missing.", start: 440.52, end: 445.44}
+  - {text: "In fact, they have revised the number of deaths to more than 1 ,400, but the number of missing has gone up from 5 ,100 to more than 6 ,100.", start: 445.93, end: 457.08}
+  - {text: "That's a jump of 1 ,000 people.", start: 457.42, end: 459.44}
+  - {text: "But the disaster management authority were saying that they were talking to various district officials after analyzing various data.", start: 459.82, end: 467.28}
+  - {text: "Now they have revised this figure.", start: 467.92, end: 469.90}
+  - {text: "This is more than 500 were missing.", start: 473.16, end: 476.04}
+  - {text: "So Nepal is still trying to kind of manage this problem and first of all, they won't understand what was the impact and damage and every day they're learning something new.", start: 476.74, end: 487.44}
+  - {text: "So many families still waiting for answers about their loved ones.", start: 487.96, end: 492.76}
+  - {text: "Because these entire villages were wiped out and I was just reading one of the Nepali media reports in a village in Timuray.", start: 493.38, end: 499.98}
+  - {text: "There were 250 houses when the incident happened, customs houses, police stations and some army detachments.", start: 500.00, end: 507.26}
+  - {text: "Only six houses were standing there.", start: 507.82, end: 509.48}
+  - {text: "So two officials were giving contradicting information.", start: 510.16, end: 513.00}
+  - {text: "Like one was saying there were 3 ,000 people at the time, including tourists, but another official was saying probably the number could be half.", start: 513.36, end: 520.18}
+  - {text: "So there is a lot of confusion even among Nepalese officials.", start: 520.60, end: 524.12}
+  - {text: "And a group of families from southern India, they were in fact holding a protest outside police office in India in Tamil Nadu state because many of the relatives went", start: 524.62, end: 537.32}
+  - {text: "as pilgrims across Tibet and they were coming back from Tibet into Nepal and they have no information about the relatives.", start: 537.32, end: 544.24}
+  - {text: "They just simply disappeared and also on social media I keep seeing families from Australia, some from the US, from Sri Lanka, but there is no information because even if you unfortunately die in an accident,", start: 544.42, end: 556.76}
+  - {text: "you need to know the legal paperwork you need to be doing.", start: 556.96, end: 560.30}
+  - {text: "You need to try to get their bodies to do this cremation or ceremonies.", start: 560.60, end: 564.68}
+  - {text: "So the families have no clue about what happened.", start: 565.30, end: 568.04}
+  - {text: "All they knew, some people waiting at the border crossing between Tibet and Nepal, texting them, we have arrived at the immigration center, but after that there's no news what happened to them.", start: 568.18, end: 579.48}
+  - {text: "The suspicion is many of the bodies could be buried under this feet of several feet of clay and mud.", start: 579.74, end: 585.28}
+  - {text: "It's going to be a huge task to recover those bodies as well.", start: 585.64, end: 588.74}
+  - {text: "And if and when the bodies are recovered and laid to rest, there's still the enormous challenge and cost of reconstruction.", start: 589.08, end: 597.36}
+  - {text: "Several villages just disappeared.", start: 598.30, end: 600.04}
+  - {text: "They're all about four or five feet of mud.", start: 600.16, end: 602.62}
+  - {text: "One bazaar is called Betravati bazaar.", start: 603.08, end: 605.22}
+  - {text: "It's a very picturesque, a small town and that town was about 100 meters above the riverbed, but it was completely swept away.", start: 605.28, end: 612.98}
+  - {text: "So if you want a reconstruction, if you want to have reconstruction, it's going to be a huge task.", start: 613.38, end: 617.54}
+  - {text: "And that's why the Nepal government estimates that it could cost up to $5 billion.", start: 618.00, end: 622.14}
+  - {text: "But where is the money going to come from?", start: 622.94, end: 624.62}
+  - {text: "That's a big question.", start: 624.78, end: 625.48}
+  - {text: "And also hydropower plants.", start: 626.08, end: 627.48}
+  - {text: "Nepal heavily relies on hydropower.", start: 627.64, end: 629.60}
+  - {text: "In fact, 10 years ago they were short of electricity, but now they were exporting power to India and Bangladesh, but that has come as a huge jolt.", start: 630.16, end: 637.82}
+  - {text: "12 projects were wiped out completely.", start: 638.24, end: 640.22}
+  - {text: "They were constructing. So that's about 10 % of their capacity.", start: 640.62, end: 644.50}
+  - {text: "So where is the money going to come from to rebuild this hydropower?", start: 644.74, end: 647.62}
+  - {text: "And that's why Nepal is now trying to put out this argument that this is climate injustice.", start: 648.10, end: 652.32}
+  - {text: "We are not responsible for climate change.", start: 652.80, end: 654.64}
+  - {text: "Our greenhouse gas emissions are very low compared to our developed countries like the US, Western Europe, India and China, and the world should give us compensation rather than aid.", start: 654.88, end: 664.74}
+  - {text: "And Barassan, Etirajan. Now, neuroscientists in the United States have created laboratory mice with functioning human cells in their brains.", start: 665.44, end: 675.79}
+  - {text: "The rodents are genetically engineered and surgically altered, so most of their cortex is of human origin.", start: 676.35, end: 682.29}
+  - {text: "The team from Stanford University say it could help researchers develop treatments for psychiatric diseases.", start: 682.85, end: 689.17}
+  - {text: "More details from our science correspondent, Victoria Gill.", start: 689.87, end: 692.99}
+  - {text: "While mice with partly human brains might sound a Kafka -esque experiment, the scientists say that these are not mice that think like humans, rather they're animals", start: 693.57, end: 702.03}
+  - {text: "that are altered so that some of their brain tissue is human.", start: 702.03, end: 705.25}
+  - {text: "The researchers engineered mice to develop almost none of their own cerebral cortex.", start: 705.91, end: 709.81}
+  - {text: "That's the outer layer that's sometimes referred to as grey matter.", start: 710.19, end: 712.95}
+  - {text: "It handles higher level thinking, memory and senses.", start: 713.39, end: 715.75}
+  - {text: "They then used skin cells taken from humans, reprogrammed them and grew them into pieces of brain -like tissue called organoids, collections of connected living brain cells.", start: 716.39, end: 725.81}
+  - {text: "When these organoids were implanted into the mice, they formed connections with the rest of the brain and the spinal cord, functioning like brain tissue.", start: 726.45, end: 733.05}
+  - {text: "Having working human brain cells inside a living animal, the scientists say, gives them a new way to understand the biological causes and develop treatments for brain disorders, including dementia, epilepsy and cerebral palsy.", start: 733.91, end: 746.67}
+  - {text: "Understanding disorders of the brain is really, really difficult.", start: 747.15, end: 750.53}
+  - {text: "That's lead researcher Professor Sergio Pasca from Stanford University in the US.", start: 750.53, end: 755.07}
+  - {text: "These disorders are having devastating consequences.", start: 755.57, end: 758.35}
+  - {text: "We need better models, models that include human cells.", start: 758.71, end: 762.57}
+  - {text: "So here we build a new model that allows us to actually capture aspects of human brain function in a way that has not been possible before.", start: 763.33, end: 772.29}
+  - {text: "The study raises questions about what it means to change the brain of an animal and exactly how these laboratory mice will experience the world.", start: 772.91, end: 780.01}
+  - {text: "So there'll be ongoing discussions weighing the scientific value of these mice against these ethical challenges.", start: 780.45, end: 785.75}
+  - {text: "Victoria Gill. Thousands of athletes from more than 40 countries and regions are getting ready for the Asian Games, which are being held in Japan.", start: 786.35, end: 794.99}
+  - {text: "But just a couple of days before the event is due to begin, there have been numerous complaints about the athlete's accommodation.", start: 795.41, end: 801.59}
+  - {text: "The games in the city of Nagoya officially open on Saturday, but football and basketball are already underway.", start: 801.59, end: 808.81}
+  - {text: "For more on what the complaints center on, I spoke to our correspondent, Karumi Mori, who's in Tokyo.", start: 809.31, end: 815.29}
+  - {text: "These athletes are complaining about several things regarding accommodation.", start: 815.75, end: 820.13}
+  - {text: "One being that they're just not big enough, quite literally.", start: 820.97, end: 823.59}
+  - {text: "Some of the basketball athletes are saying that the beds are too short and they're not able to lie down fully on these beds.", start: 823.91, end: 830.53}
+  - {text: "So you can imagine how uncomfortable that must be for athletes set to compete.", start: 830.75, end: 834.95}
+  - {text: "There have also been complaints about the condition of the rooms, including a video showing a leaking pipe and a soaked floor, a flooded floor, because we had some heavy rains here in Japan", start: 835.27, end: 845.99}
+  - {text: "that really added to this disruption and the complaints.", start: 845.99, end: 849.61}
+  - {text: "Several hundred people from the games were briefly evacuated from their accommodation last week when we had the heavy rains flooding through Nagoya.", start: 849.89, end: 858.97}
+  - {text: "And I'm told cruise ships have been sent to Nagoya to accommodate the athletes.", start: 858.97, end: 863.83}
+  - {text: "Yeah. And you know, that's probably the most unusual part of this accommodation story.", start: 864.19, end: 868.71}
+  - {text: "Organizers decided not to really build a traditional athlete's village like they did, for example, in the Tokyo Olympics.", start: 869.47, end: 875.47}
+  - {text: "So they've had to get creative to be able to house all of the athletes that are here.", start: 876.01, end: 880.49}
+  - {text: "I mean, this is a massive event.", start: 880.65, end: 883.07}
+  - {text: "The Asian Games have more athlete involvement than even the Summer Olympics in Paris.", start: 883.31, end: 889.13}
+  - {text: "So it is a huge number of people coming here.", start: 889.63, end: 892.01}
+  - {text: "They had an Italian cruise ship arriving in Nagoya to house around 4 ,000 athletes and officials.", start: 892.27, end: 898.99}
+  - {text: "Other people are staying in hotels, Airbnbs, and also temporary huts as well.", start: 899.21, end: 905.69}
+  - {text: "But the cruise ship, they're saying it's the first time that Japan has used this kind of facility for a sporting event, for a major international sporting event.", start: 905.87, end: 913.39}
+  - {text: "And they're saying it's a sustainable alternative to build a temporary living space for the athletes.", start: 913.93, end: 920.03}
+  - {text: "Have the organizers responded to the criticism?", start: 920.27, end: 922.55}
+  - {text: "They are saying that basically that, you know, we hear you and we're working on it.", start: 923.13, end: 927.77}
+  - {text: "The managers are saying that they've taken steps to improve the conditions for the athletes that are here.", start: 928.03, end: 933.15}
+  - {text: "They've also set up a 24 -hour call center where athletes and officials can come and report some problems and try to mitigate some of these issues.", start: 933.57, end: 944.47}
+  - {text: "But part of the challenge I want to point out is that these games were expected initially to have around 15 ,000 athletes and officials participating.", start: 945.09, end: 952.71}
+  - {text: "But that number rose to about 17 ,000 pretty late in the game.", start: 953.21, end: 957.53}
+  - {text: "And so they hadn't planned for this many people.", start: 957.65, end: 960.99}
+  - {text: "They say that everyone is now, though, guaranteed accommodation and saying that this whole plan was trying to be built around sustainability.", start: 961.21, end: 969.85}
+  - {text: "Karumi Mori in Tokyo.", start: 970.45, end: 972.11}
+  - {text: "Still to come in this podcast.", start: 974.51, end: 976.45}
+  - {text: "He dealt with the fire and getting him out of the car and everything.", start: 976.89, end: 979.61}
+  - {text: "He did every step right.", start: 979.83, end: 981.67}
+  - {text: "And it's, you know, quite rightly created this really strong bond between us.", start: 981.85, end: 986.97}
+  - {text: "The racing driver rescued from a burning car by his rival gets to thank his saviour.", start: 987.59, end: 993.59}
+  - {text: "This is the Global News Podcast.", start: 1001.02, end: 1002.94}
+  - {text: "One of Nigeria's best known actors has died.", start: 1004.05, end: 1006.89}
+  - {text: "In a career spanning more than five decades, Olu Jacobs was hailed as a pioneer of Nollywood, Nigeria's homegrown film industry.", start: 1007.31, end: 1015.61}
+  - {text: "Richard Hamilton looks back on his life.", start: 1016.25, end: 1018.17}
+  - {text: "Olu Jacobs was born in southwestern Nigeria but spent his formative years in the northern city of Karno.", start: 1018.53, end: 1026.39}
+  - {text: "There he was inspired to take up acting after seeing a performance by the Nigerian actor Hubert Ogunde at the city's colonial hotel.", start: 1026.85, end: 1036.01}
+  - {text: "He travelled to London and studied at the Royal Academy of Dramatic Arts, or Rada.", start: 1036.93, end: 1042.45}
+  - {text: "He featured in several British TV shows and stage plays in the 1970s before moving into international films.", start: 1043.21, end: 1051.33}
+  - {text: "Here he is playing an immigration officer in the 1980 action movie The Dogs of War, in a tense dialogue with Christopher Walken who plays a mercenary.", start: 1062.44, end: 1073.62}
+  - {text: "Jacobs subsequently returned to his homeland and was instrumental in starting Nigeria's homegrown movie industry, or Nollywood, in the early 1990s.", start: 1081.16, end: 1091.60}
+  - {text: "In total he starred in more than 120 Nollywood films in which he was revered for his commanding screen presence and depth of character portrayal.", start: 1092.10, end: 1103.06}
+  - {text: "Together with his wife, Joke Silver, he founded the Lofodo Group which was committed to the development of the performing arts in Nigeria.", start: 1103.88, end: 1112.52}
+  - {text: "Interviewed on Nigerian television a few years ago, he talked about the need to nurture talent inside the country.", start: 1113.34, end: 1120.80}
+  - {text: "I'm really very very excited because the avenue for our children to begin to express themselves positively and confidently is very very important.", start: 1121.14, end: 1134.70}
+  - {text: "You know there was a time when, not too long ago, when everything that we did was measured against what the Europeans did, what they did was the best and ours was the worst,", start: 1135.62, end: 1148.73}
+  - {text: "but our children even being born in foreign land don't think so anymore.", start: 1149.45, end: 1155.25}
+  - {text: "They know that we are capable, we may have our faults, more and more are coming home.", start: 1156.29, end: 1160.51}
+  - {text: "They are coming home and they are staying home and they are productive.", start: 1161.01, end: 1164.01}
+  - {text: "You know and I'm very very happy I'm proud of that.", start: 1165.16, end: 1167.92}
+  - {text: "Olu Jacobs won a string of prestigious trophies including the Africa Movie Academy Award for Best Actor and the Industry Merit Award for Outstanding Achievements.", start: 1168.50, end: 1180.96}
+  - {text: "In 2011 he was given the member of the Order of the Federal Republic by the then President Goodluck Jonathan.", start: 1181.62, end: 1189.24}
+  - {text: "But rumors that Jacobs had died emerged in 2021 until he turned up at that year's Africa International Film Festival where he was honoured with the Lifetime Achievement Award.", start: 1189.86, end: 1202.34}
+  - {text: "The former Vice President Atiku Abubaka described Jacobs as a cultural icon.", start: 1202.96, end: 1208.98}
+  - {text: "His wife called him the Lion of Lufodo.", start: 1209.78, end: 1212.90}
+  - {text: "Richard Hamilton on the life of the Nigerian actor Olu Jacobs who has died at the age of 84.", start: 1213.57, end: 1219.91}
+  - {text: "Cepsis is a life -threatening condition which kills about one in five affected people.", start: 1221.21, end: 1226.45}
+  - {text: "It's the body's overreaction to an infection leading to shock and organ failure.", start: 1226.81, end: 1231.71}
+  - {text: "For doctors it's a race against time to find out the cause of the infection to treat it but currently it can take up to a week to find out", start: 1232.19, end: 1239.91}
+  - {text: "which bug or pathogen is behind the patient's rapid decline.", start: 1239.91, end: 1243.87}
+  - {text: "But researchers in Scotland and Germany are developing a new blood test that could dramatically reduce that time delivering results within hours.", start: 1244.25, end: 1252.79}
+  - {text: "Dr Ron Daniels founder and chief medical officer of the UK Cepsis Trust explains why this could be a game changer.", start: 1253.17, end: 1261.31}
+  - {text: "Cepsis is one of the most time critical conditions that we face in healthcare.", start: 1261.87, end: 1266.69}
+  - {text: "In the most severe cases it's not even that every hour counts in treating it's every minute counts.", start: 1267.15, end: 1273.53}
+  - {text: "But we know that across the spectrum of Cepsis because it can range from very rapidly progressive to more slowly progressive, getting the right treatment in within the first hour", start: 1273.53, end: 1285.85}
+  - {text: "or at worst within the first three hours can often make the difference between life and death.", start: 1285.85, end: 1290.57}
+  - {text: "Professor Maiwan Khursadeh Kewas is with Harriet Watt University's Global Research Institute in health and care technologies.", start: 1291.18, end: 1300.28}
+  - {text: "She told Laura McIver about the new rapid test they're working on.", start: 1300.78, end: 1305.14}
+  - {text: "My team at Harriet Watt has developed a way to detect these Cepsis -cosing microbes in a matters of hours rather than days.", start: 1305.40, end: 1314.70}
+  - {text: "So instead of waiting for samples to be cultured, that mean growing the pathogens, the microbes, we catch the DNA that is shared by these microbes in our bloodstream", start: 1315.28, end: 1328.66}
+  - {text: "and it just uses the same blood sample as a normal test would.", start: 1328.66, end: 1334.20}
+  - {text: "But we can entirely skip the blood culture which takes days by analyzing directly these bits of DNA.", start: 1334.76, end: 1342.24}
+  - {text: "We worked on a pilot, so we received samples from patients in Germany and we had some really good results including a clinical case where we had a young woman in her thirties with a urinary pouch infection and the blood culture had completely failed.", start: 1342.78, end: 1362.98}
+  - {text: "So after seven or nine days they were still not able to say what was the problem but we were able to detect using our test traces of the DNA left by the microbes causing the infection", start: 1363.48, end: 1376.06}
+  - {text: "and we're able to match these findings with their other type of cultures.", start: 1376.06, end: 1381.18}
+  - {text: "So now we have just received more funding from the state of Rheinland -Flaß in Germany and that will enable us to acquire more samples in order to further validate the tests and hopefully bring it closer to patients.", start: 1382.22, end: 1398.96}
+  - {text: "So what kind of difference do you think this could end up making?", start: 1399.36, end: 1401.72}
+  - {text: "My one. I think our test could make a big difference to patients so instead of waiting days the clinical care team would have the results on the same day", start: 1402.18, end: 1412.04}
+  - {text: "or maybe next day and that means that they could administer the right treatments so potentially saving lives in some cases maybe getting you quicker out of hospital", start: 1412.04, end: 1423.04}
+  - {text: "and also by administering the right targeted treatments they could reduce antibiotic resistance.", start: 1423.04, end: 1430.36}
+  - {text: "Professor Maywan Kossadeh Kewas of Herriot Watt University.", start: 1430.94, end: 1435.66}
+  - {text: "Now who makes the best pizzas?", start: 1437.14, end: 1439.56}
+  - {text: "Maybe chefs from Naples, Rome or New York spring to mind.", start: 1439.88, end: 1443.42}
+  - {text: "Well according to a jury for the 50 top pizza world 2026 contest the best slice of pizza comes from London.", start: 1443.66, end: 1453.14}
+  - {text: "You can sample them at one of Napoli on the road three branches as the name suggests they serve classic Neapolitan pizza with its charred doughy crust.", start: 1454.08, end: 1463.64}
+  - {text: "The BBC's Adriana Urbano who is herself Italian went along to have a taste.", start: 1464.08, end: 1469.12}
+  - {text: "So here they are two Napoli style pizzas with their thick borders and a nice fin base that I have been assured will not flop.", start: 1469.61, end: 1478.71}
+  - {text: "The first one I will be trying is a classic margarita but I've also ordered a ricordo d 'infancia it's a pizza whose name means childhood memory.", start: 1479.19, end: 1488.87}
+  - {text: "It's got ragù, parmigiano fondue and a lot of extra parmigiano shaving on top.", start: 1489.35, end: 1495.81}
+  - {text: "The margarita first. Now I have lived 21 years of my life in Italy and this is a very good tasty pizza.", start: 1496.17, end: 1504.23}
+  - {text: "The bufala mozzarella is very stringy it's got lovely texture in the dough and there's a nice thick border and now ricordo d 'infancia the award", start: 1504.75, end: 1515.81}
+  - {text: "-winning pizza has got a lovely thick ragù base just like the kind of ragù Italians would eat up and down the country as part of many Sunday meals.", start: 1515.81, end: 1525.13}
+  - {text: "I have to say I can see where the hype is coming from.", start: 1525.45, end: 1527.79}
+  - {text: "Napoli on the road is the passion project of Michele Pascarella who learned his trade as a boy in Campania the region of Italy home to Naples before moving to London.", start: 1528.51, end: 1539.55}
+  - {text: "He gave the BBC his reaction to winning the award.", start: 1539.99, end: 1543.03}
+  - {text: "Still can't believe it's just happened.", start: 1543.49, end: 1545.83}
+  - {text: "I'm very very happy and of course I'm very very proud also about the team we got like 90 people that work with us so we", start: 1546.33, end: 1554.45}
+  - {text: "are very proud of what we achieved actually yes.", start: 1554.45, end: 1556.67}
+  - {text: "I was like singing the song is finally coming home because we won Best with City in Europe for three years in a row Best with City in Europe", start: 1557.09, end: 1565.25}
+  - {text: "but outside Italy but this time we won Best with City in the world including Italy so it was very very very beautiful.", start: 1565.25, end: 1572.73}
+  - {text: "We are like always trying to evolve our product we focus on really high quality ingredients we change our menu every three months and you know lots of restaurants in pizzeria just think about pizza is a fast food", start: 1573.09, end: 1588.19}
+  - {text: "but pizza is like a serious thing and we will love and I think we did very good to explain to our customers that we are doing something different on the pizza.", start: 1588.19, end: 1597.65}
+  - {text: "Michele Pascarella of Napoli on the road.", start: 1598.29, end: 1601.55}
+  - {text: "Finally earlier this month he may have seen dramatic footage of a racing driver being pulled from his burning car by one of his rivals that a race in China.", start: 1602.64, end: 1611.40}
+  - {text: "Luke Hartog's act of heroism stopping his car to rescue a barely conscious Oli Milroy stuck in the wreckage saved Milroy's life.", start: 1611.86, end: 1620.70}
+  - {text: "He suffered multiple fractures and a punctured lung in the impact and is recovering in hospital.", start: 1621.06, end: 1626.38}
+  - {text: "The pair have been speaking together for the first time since the crash in an interview with the BBC.", start: 1627.06, end: 1632.20}
+  - {text: "First we heard from Luke Hartog.", start: 1632.76, end: 1634.76}
+  - {text: "We haven't had the chance to see each other like this face to face yet.", start: 1635.04, end: 1639.92}
+  - {text: "Truthfully that's the only thing I really care about.", start: 1640.46, end: 1642.94}
+  - {text: "I was prepared for things becoming a bit worse sort of such as a traumatic experience but it really wasn't because and I think Oli and I both believe in this", start: 1643.24, end: 1655.44}
+  - {text: "but how racing kind of teaches you to do acts like this is a kind of kind of natural thing therefore it's just very healing in some way to speak with Oli.", start: 1655.44, end: 1667.62}
+  - {text: "It's honestly the strangest feeling when you watch the onboard video from Luke's car as soon as my car started going up in flames he aimed for me", start: 1667.78, end: 1678.04}
+  - {text: "as though it had been pre -programmed or rehearsed.", start: 1678.04, end: 1680.44}
+  - {text: "It was the weirdest thing you know and even the way that he dealt with the fire and getting me out of the car and everything he did every step right", start: 1680.44, end: 1689.88}
+  - {text: "and it's you know quite rightly created this really strong bond between us.", start: 1689.88, end: 1695.18}
+  - {text: "I didn't have any memory of the accident at all so the first time that anyone talked me through it was actually Luke himself in hospital", start: 1695.34, end: 1701.46}
+  - {text: "and I remember the the service was just in floods of tears when we just when you were telling me what happened and what you did", start: 1701.46, end: 1709.76}
+  - {text: "and you know this how different the result could have been for me.", start: 1709.76, end: 1713.66}
+  - {text: "Oli Milroy thanking rival Luke Hartog for saving his life by pulling him from his burning Ferrari during a race in Shanghai and that's all from us for now.", start: 1714.18, end: 1728.64}
+  - {text: "If you want to get in touch you can email us at globalpodcast at bbc .co .uk.", start: 1729.06, end: 1735.52}
+  - {text: "You can also find us on x at BBC World Service use the hashtag globalnewspod and don't forget our sibling podcast the global story which goes in depth", start: 1735.88, end: 1748.02}
+  - {text: "and beyond the headlines on one big story.", start: 1748.02, end: 1750.96}
+  - {text: "This edition of the global news podcast was mixed by Holly Smith the producer was Stephanie Zachresson.", start: 1751.50, end: 1758.88}
+  - {text: "The editor is Karen Martin.", start: 1759.24, end: 1760.84}
+  - {text: "I'm Alex Ritzen until next time goodbye.", start: 1761.38, end: 1764.28}
+---

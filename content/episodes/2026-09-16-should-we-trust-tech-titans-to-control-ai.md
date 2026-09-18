@@ -1,0 +1,251 @@
+---
+layout: single
+title: "Should we trust tech titans to control AI?"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-16T00:00:00Z
+slug: "2026-09-16-should-we-trust-tech-titans-to-control-ai"
+audioDir: "2026-09-16-should-we-trust-tech-titans-to-control-ai"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-16-should-we-trust-tech-titans-to-control-ai/episode.mp3"
+totalDuration: 1803.9
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.92}
+  - {text: "I'm Alex Ritzen, and in the early hours of Wednesday, the 16th of September, these are our main stories.", start: 6.07, end: 12.61}
+  - {text: "Two conferences on AI reveal different views on how to control the technology.", start: 13.25, end: 18.85}
+  - {text: "The US Defence Department confirms it's facing a shortage of precision weapons because of the war with Iran.", start: 19.55, end: 25.07}
+  - {text: "And the authorities in Norway search the headquarters of the telecom operator Telenoor for helping the military government in Myanmar.", start: 25.47, end: 33.19}
+  - {text: "Also in this podcast, the tech giant Meta takes action after a BBC investigation found adverts for child abuse material on Instagram.", start: 35.84, end: 44.66}
+  - {text: "Child rights bodies and government agencies have now been demanding that Meta needs to make its guardrails better and stop the material even before it's published on their platform.", start: 45.06, end: 56.72}
+  - {text: "And the support acts for pop star Ed Sheeran walk out of his US tour in a row over pro -Palestinian comments.", start: 57.20, end: 64.44}
+  - {text: "He rightfully said he's appalled by the conflict that's happening in the Middle East at the same time.", start: 64.72, end: 71.48}
+  - {text: "He's very apolitical for a reason.", start: 72.06, end: 74.54}
+  - {text: "We start with a debate that's dominated the headlines over the last week.", start: 77.90, end: 81.54}
+  - {text: "How safe is artificial intelligence?", start: 81.80, end: 84.30}
+  - {text: "Two camps appear to have emerged offering conflicting views on how to deal with the fast developing technology.", start: 84.30, end: 91.24}
+  - {text: "On one hand, there's a push for more regulations voiced at a conference in Washington DC on Tuesday by the US Senator Bernie Sanders.", start: 91.56, end: 99.60}
+  - {text: "He accused his congressional colleagues of being too slow to act on the risks posed by AI.", start: 100.14, end: 105.90}
+  - {text: "Despite living in a so -called democracy, the public has had virtually no input into the AI revolution that is transforming the world in which they live.", start: 106.74, end: 123.41}
+  - {text: "Congress under both Democratic and Republican control have been asleep at the wheel and we now have a president whose ignorance regarding this issue is truly embarrassing.", start: 124.43, end: 138.77}
+  - {text: "Just a few hours after that gathering, tech leaders and bosses were speaking at another AI conference in San Francisco.", start: 139.49, end: 145.97}
+  - {text: "Some executives have themselves called for tougher regulations, including the boss of Anthropic.", start: 145.97, end: 151.75}
+  - {text: "But others are hoping their businesses can carry on with few constraints.", start: 152.07, end: 155.85}
+  - {text: "One of those is Jensen Huang, the chief executive of Chipmaker NVIDIA.", start: 156.35, end: 161.07}
+  - {text: "He told the conference that the market can regulate itself.", start: 161.35, end: 164.47}
+  - {text: "If you build a product or a service and you're not confident in its functionality, capability or safety, then don't release it.", start: 164.93, end: 172.09}
+  - {text: "And so that's a very obvious thing to do.", start: 172.09, end: 174.83}
+  - {text: "You pace yourself until you are confident you're releasing something that the market would appreciate.", start: 175.17, end: 180.91}
+  - {text: "The market forces are already there.", start: 181.43, end: 182.93}
+  - {text: "We don't need any new laws.", start: 183.27, end: 184.41}
+  - {text: "We don't need new regulations.", start: 184.57, end: 185.83}
+  - {text: "Sam Altman, co -founder of OpenAI, has also been speaking, admitting that the speed at which AI is developing is scary, but also urging the world", start: 186.43, end: 195.79}
+  - {text: "to trust the AI industry to do the right thing.", start: 195.79, end: 199.15}
+  - {text: "But can we? A North America technology correspondent, Lily Jamali, told me what vision both camps have been laying out.", start: 199.15, end: 207.09}
+  - {text: "They're pretty much staking the same positions that they already have.", start: 207.37, end: 211.57}
+  - {text: "You have the very strange bedfellows in a progressive senator, an independent but a very liberal Senator Bernie Sanders, coupled with the man who helped get Donald Trump elected in 2016, Steve Bannon,", start: 211.77, end: 225.45}
+  - {text: "who is very conservative, joining forces in D .C.", start: 225.61, end: 228.53}
+  - {text: "at that one conference saying, we need regulation, these billionaires can't be trusted.", start: 228.59, end: 232.73}
+  - {text: "And then on the other hand, here in California, I'm in Los Angeles, but up in San Francisco, the Dreamforce conference held by the company Salesforce, you heard AI leaders, people with the most skin in the game,", start: 233.43, end: 245.07}
+  - {text: "pretty much singing from the same songbook saying, we've got this, you can trust us.", start: 245.57, end: 250.79}
+  - {text: "It was a shock earlier in the week to hear these predictions from your senior people in the industry that there is a good chance, they say,", start: 250.79, end: 260.04}
+  - {text: "of AI agents killing all humans within 10 years.", start: 260.64, end: 264.84}
+  - {text: "How have people inside and outside the industry been digesting that news over the last week?", start: 265.44, end: 271.72}
+  - {text: "Well, Jacob Cox in the AI safety researcher who abruptly resigned from Anthropic, one of the leaders in the AI space right now.", start: 271.72, end: 282.36}
+  - {text: "His resignation I think was really galvanizing in terms of starting a public dialogue that really has not existed in this way.", start: 282.84, end: 293.19}
+  - {text: "Yes, we talk about AI, we talk about data centers, but I think the concept of human extinction at the hands of this technology is one", start: 293.19, end: 301.33}
+  - {text: "that is only now starting to trickle into the more mainstream culture.", start: 301.33, end: 305.23}
+  - {text: "And, you know, I was talking to a CEO at a different conference last week who told me that is very much the culture at that company, at Anthropic.", start: 306.55, end: 314.89}
+  - {text: "There is, at least from where others sit, a doomer culture, they have marketed themselves as being safety first.", start: 314.89, end: 321.59}
+  - {text: "And so the cynics will say, well, that's because that's a way of selling their product.", start: 321.83, end: 325.77}
+  - {text: "But I will say, you know, Dario Amode who started that company, he left open AI because he also felt that safety wasn't being centered in the development of the technology there, the maker of chat GPT.", start: 325.87, end: 338.65}
+  - {text: "So he goes off and co -founds this other company.", start: 338.65, end: 341.31}
+  - {text: "And so I think that that view is maybe a little more common in Silicon Valley than the outside world might have known.", start: 341.59, end: 349.57}
+  - {text: "And you've got the White House weighing in as well with President Trump calling warnings over AI a hoax.", start: 349.81, end: 357.33}
+  - {text: "He's not looking to regulate the market at all.", start: 357.85, end: 360.17}
+  - {text: "No, he's not. And that is because, you know, he's thinking about how do I bolster an economy that's not going his way right now for a multitude of reasons?", start: 360.41, end: 370.33}
+  - {text: "But AI is one of the parts of the sunshine in that economic story.", start: 370.63, end: 377.17}
+  - {text: "The one thing that may be propping this economy up more than anything else.", start: 377.53, end: 381.61}
+  - {text: "So he has been very hands off.", start: 381.87, end: 383.55}
+  - {text: "I think it's fair to say he's calling for basically an unfettered approach by these companies.", start: 383.97, end: 389.67}
+  - {text: "And he's reiterated that view a number of times in the last couple of days since this debate really entered the mainstream.", start: 389.67, end: 397.07}
+  - {text: "Because presumably he thinks that if he did regulate it, all that would happen is that the experts would just move to countries where they could", start: 397.25, end: 405.21}
+  - {text: "continue being paid a fortune to do their work.", start: 405.21, end: 407.43}
+  - {text: "Presumably. And I think there's also, you know, there are cynics who say, here's a president.", start: 408.45, end: 414.01}
+  - {text: "He's 80 years old who maybe doesn't understand the stakes of this technology all that well.", start: 414.23, end: 420.29}
+  - {text: "I have heard that view from a number of sources.", start: 420.39, end: 422.37}
+  - {text: "He also is framing this a very particular way to think about the US China race to position this as a race where the US must win at any cost.", start: 422.99, end: 432.51}
+  - {text: "Lily Jamali. President Trump is prone to boasting about the US military of which he is commander -in -chief.", start: 433.07, end: 440.64}
+  - {text: "The war with Iran has, according to him, shown it to be the greatest in the world.", start: 441.02, end: 445.20}
+  - {text: "But a report by the Pentagon has revealed that rather than the US possessing almost unlimited munitions, as Mr Trump has insisted, the war has not only led to shortfalls but problems in resupplying arms.", start: 445.44, end: 458.44}
+  - {text: "I heard more from our North America correspondent, Gary O'Donohue.", start: 458.90, end: 462.22}
+  - {text: "Well, the shortfall isn't really enumerated but they do use the word strategic shortfall.", start: 462.22, end: 467.44}
+  - {text: "Now that is another military word for serious and long -term and structural.", start: 468.14, end: 472.48}
+  - {text: "And that suggests to me that there is more than a kind of temporary problem here.", start: 473.06, end: 477.44}
+  - {text: "It's exacerbated also by these questions of resupply issues, these bottlenecks.", start: 478.04, end: 482.58}
+  - {text: "We'd heard lots about that in various forums about the defense industrial base here not being able to keep up with producing enough missiles, rocket motors, those kinds of things.", start: 482.66, end: 493.04}
+  - {text: "This has all of course been sort of denied and pushed back on by the White House largely.", start: 493.58, end: 497.82}
+  - {text: "The President himself said that they had more than enough at various points.", start: 498.00, end: 502.52}
+  - {text: "But this gives us sort of an official stamp to those problems.", start: 502.72, end: 506.22}
+  - {text: "And whilst most analysts here think they're not going to run out of material to fight Iran at any one time, the issue is if something else happened, if another big front opened, another war started, a war in the Indo -Pacific for example,", start: 506.82, end: 521.14}
+  - {text: "there would be serious problems for the Americans being able to defend themselves.", start: 521.82, end: 524.70}
+  - {text: "And we've seen other reports about how short they are on interceptors and things like that.", start: 524.84, end: 528.96}
+  - {text: "How much of a problem is this for President Trump, particularly with the midterms coming up?", start: 529.14, end: 534.22}
+  - {text: "I think it is a bit of an issue.", start: 534.38, end: 535.60}
+  - {text: "It's worth saying that the White House has taken about 24 hours to respond to this Inspector General's report and we've just had a line from them where there's some stuff you'd expect.", start: 535.78, end: 545.38}
+  - {text: "And then the number of it says the United States military has more than enough munitions, ammo, and stockpiles to serve all of the commander -in -chief's strategic goals", start: 545.66, end: 556.34}
+  - {text: "and beyond just pushing back directly against what is obviously an official report from the people who have access to the Pentagon inventories and files.", start: 556.34, end: 566.90}
+  - {text: "So that doesn't really get us any further.", start: 566.90, end: 569.96}
+  - {text: "But it does raise some serious questions about America's capacities.", start: 570.48, end: 574.32}
+  - {text: "And the cost is continuing to rise.", start: 574.78, end: 577.68}
+  - {text: "The last time we had a figure, this war was costing $37 billion.", start: 577.86, end: 582.18}
+  - {text: "These sorts of reports are not that easy to bat away because they're based on internal numbers, internal processes.", start: 583.52, end: 592.22}
+  - {text: "They have the stamp of official.", start: 592.22, end: 594.28}
+  - {text: "You know, they are a report from the administration.", start: 594.56, end: 596.46}
+  - {text: "That is the issue.", start: 596.88, end: 597.58}
+  - {text: "The watchdog for the Pentagon says there are these problems.", start: 597.70, end: 601.56}
+  - {text: "That's very difficult to gain, say.", start: 601.88, end: 603.30}
+  - {text: "Gary, the President always talks about the U .S.", start: 603.86, end: 606.92}
+  - {text: "military as the greatest in the world.", start: 606.96, end: 609.54}
+  - {text: "This must be embarrassing.", start: 609.78, end: 611.40}
+  - {text: "I think to some degree, I mean, you know, this is a war and you lose stuff in wars and you use stuff.", start: 611.84, end: 617.30}
+  - {text: "The big challenge for the U .S.", start: 617.30, end: 619.86}
+  - {text: "military and other militaries like it is the sort of asymmetric nature of warfare now.", start: 619.88, end: 625.38}
+  - {text: "So Iran can cause havoc and has caused a lot of havoc at various diplomatic facilities around the region, military bases too, with drones, for example,", start: 625.54, end: 635.96}
+  - {text: "that don't cost all that much relatively in military terms.", start: 636.16, end: 638.94}
+  - {text: "But the interceptors that bring them down and stop them doing more damage cost, you know, lots and lots more.", start: 639.26, end: 645.66}
+  - {text: "And that is something that's developed in the last few years.", start: 645.66, end: 648.82}
+  - {text: "We've seen that in Ukraine and Russia, for example.", start: 648.94, end: 651.66}
+  - {text: "And that's something that big militaries like the U .S.", start: 652.10, end: 654.78}
+  - {text: "are having to come to terms with, that smaller states can make these larger militaries like the U .S.", start: 655.12, end: 661.18}
+  - {text: "spend a lot of money trying to contain any conflict.", start: 661.20, end: 664.06}
+  - {text: "Gary O'Donoghue in Washington.", start: 665.12, end: 666.80}
+  - {text: "In July, a BBCI investigation found that Instagram was running paid adverts promoting child sexual abuse material in India.", start: 667.94, end: 676.58}
+  - {text: "The Indian government summoned representatives from the platform's owner, Metta, to explain themselves.", start: 677.12, end: 682.18}
+  - {text: "Now, Metta has announced that it will report child safety cases directly to the Indian authorities instead of via the U .S.", start: 682.64, end: 690.10}
+  - {text: "as it does now.", start: 690.52, end: 691.26}
+  - {text: "Divya Arya carried out the original investigation.", start: 691.64, end: 694.64}
+  - {text: "She told Oliver Conway what they found on Instagram.", start: 695.16, end: 698.46}
+  - {text: "We saw ads that had clear messaging.", start: 698.46, end: 702.10}
+  - {text: "They used terms like rape video, child video.", start: 702.56, end: 705.72}
+  - {text: "Some ads featured very distressing content.", start: 706.10, end: 708.94}
+  - {text: "We saw a young girl in distress.", start: 709.36, end: 711.56}
+  - {text: "There was wording associated with the video that said that she had been assaulted.", start: 711.94, end: 715.64}
+  - {text: "We saw teenagers in a sexual act together.", start: 716.24, end: 719.54}
+  - {text: "So we saw a range of material that was being put out as paid ads on Instagram.", start: 719.96, end: 724.68}
+  - {text: "And almost all of the ads we saw had links to the social media app Telegram, where this material could be purchased.", start: 724.68, end: 734.08}
+  - {text: "That's what the ad was promising.", start: 734.62, end: 736.06}
+  - {text: "And when we went on to those channels on Telegram, they were indeed saying that this kind of material, longer videos, can be purchased for a very, very small price.", start: 736.38, end: 745.16}
+  - {text: "We tried to report some of these ads.", start: 745.74, end: 748.10}
+  - {text: "When we reported them as a user, they did not get taken down.", start: 748.46, end: 751.76}
+  - {text: "But when we reached out to both Metta and Telegram as the BBC, they did admit that these were violating their policies and they took them down.", start: 751.76, end: 760.22}
+  - {text: "Though they also said that they're doing a lot else to combat child sexual abuse material on their platforms and that criminals are responsible for abusing the platform.", start: 760.32, end: 769.68}
+  - {text: "So what difference will it make now that Metta is going to report child safety issues directly to India?", start: 770.22, end: 776.78}
+  - {text: "A lot because time here is of essence.", start: 777.40, end: 780.28}
+  - {text: "So the current practice that Metta is obliged, it talks about it quite prominently when it talks about its efforts to combat child sexual abuse material online,", start: 780.28, end: 789.70}
+  - {text: "is that whenever it becomes aware of such material, it reports it to the US -based National Centre for Missing and Exploited Children, which is a global hub,", start: 790.20, end: 799.90}
+  - {text: "which then escalates relevant reports to national investigating authorities.", start: 800.12, end: 803.98}
+  - {text: "I was speaking to the local cyber police in India today and they said that central agency has tie -ups across the globe with different countries,", start: 804.68, end: 812.58}
+  - {text: "but the amount of time it takes for a complaint to reach them and from them to the investigating authority can range from eight months to a year.", start: 812.92, end: 820.40}
+  - {text: "And they worked hard to bring that down to three months, but a direct reporting to a local investigative authority will really help in pushing things forward.", start: 820.64, end: 829.92}
+  - {text: "However, Metta hasn't shared the details of when it's going to start doing that and what would be its process in reporting directly to Indian authorities.", start: 830.10, end: 837.94}
+  - {text: "But at the same time, I want to point out that these are paid ads that we're talking about unlike what you and I post as users.", start: 838.32, end: 845.10}
+  - {text: "Ads are approved by Metta's own moderation technology.", start: 845.86, end: 849.40}
+  - {text: "So it becomes aware of what is being published as an advertisement on its platform much before somebody can flag it to them.", start: 850.02, end: 857.44}
+  - {text: "And that is what a lot of child rights bodies and government agencies have now been demanding that Metta needs to make its guardrails better and", start: 857.52, end: 867.24}
+  - {text: "stop the material even before it's published on their platform.", start: 867.24, end: 870.66}
+  - {text: "Divya Arya in Delhi.", start: 871.10, end: 873.22}
+  - {text: "The British singer Ed Sheeran is currently playing a number of venues in the United States, but the tour has hit controversy after one of his support acts,", start: 874.23, end: 882.87}
+  - {text: "the rapper Macklemore, made pro -Palestinian comments at one of the shows in New Jersey.", start: 883.15, end: 888.39}
+  - {text: "This is what he said.", start: 888.89, end: 889.87}
+  - {text: "I wanted to stand up here on stages and stadiums across America and say two words that are very near and dear to my heart.", start: 889.87, end: 902.09}
+  - {text: "Free Palestine. The remarks led to criticism from several Jewish groups and venue owners leading to Macklemore being dropped from the tour.", start: 902.61, end: 915.26}
+  - {text: "But his removal has led to its own backlash with all Ed Sheeran support artists on his US tour quitting.", start: 915.70, end: 922.94}
+  - {text: "Among those who have dropped out in support of Macklemore are Phineas, singer -songwriter and brother of Billie Eilish.", start: 922.94, end: 930.56}
+  - {text: "In a statement, Ed Sheeran said he wouldn't be drawn into a public debate over Israel's war in Gaza and stressed that he was not responsible for Macklemore being removed from the tour.", start: 931.08, end: 941.32}
+  - {text: "Macklemore himself said he understood the difficult position Sheeran had been put in but criticised the English singer for not taking a stance.", start: 941.76, end: 950.94}
+  - {text: "Shirley Halperin, the co -editor -in -chief at Rolling Stone magazine told us more about the controversy.", start: 950.94, end: 957.30}
+  - {text: "Macklemore defended his position and also he has been very outspoken about his advocacy for the Palestinians in Gaza and the West Bank.", start: 958.10, end: 968.72}
+  - {text: "At the same time he's also known for having made some anti -Semitic comments and he wore a prosthetic that people said was anti -Semitic.", start: 969.14, end: 980.26}
+  - {text: "This was granted a long time ago.", start: 980.26, end: 981.96}
+  - {text: "But, yeah, what happened was that the backlash to his being on the tour was so loud that it apparently impacted the owners of these venues", start: 982.66, end: 993.76}
+  - {text: "who got together and basically said if Macklemore continues on this tour the concerts cannot happen in these stadiums and we will be forced to cancel the tour", start: 993.76, end: 1005.62}
+  - {text: "which kind of put Ed Sheeran in the untenable position of having to continue his tour knowing that the removal of Macklemore will gain as much backlash as his appearance there.", start: 1005.62, end: 1018.82}
+  - {text: "So Ed Sheeran today posted like a six slide caption of his many feelings about the conflict, about what's happened.", start: 1019.34, end: 1028.44}
+  - {text: "He rightfully said he's appalled by the conflict that's happening in the Middle East at the same time he's very apolitical for a reason.", start: 1029.18, end: 1039.28}
+  - {text: "These are supposed to be shows about uniting and loving each other and once you present one side of something that is very, very dramatic and triggering", start: 1039.84, end: 1050.24}
+  - {text: "and emotional for people you've kind of lost sight of the purpose of the concert.", start: 1050.24, end: 1055.70}
+  - {text: "I think he tried to toe the line but I think he's going to get just as much backlash for these comments as he did for the decision which he says wasn't his, was purely the promoter's call", start: 1056.18, end: 1069.20}
+  - {text: "but where it doesn't really track is that some of these venues and one in particular in Texas is hosting Kanye West who has made incredibly offensive comments", start: 1069.90, end: 1081.02}
+  - {text: "that are really like not there's not even an argument they are anti -Semitic.", start: 1081.02, end: 1086.70}
+  - {text: "He's being allowed to play these venues so the inconsistency of the message is really I think confusing to people on both sides.", start: 1086.70, end: 1095.22}
+  - {text: "Shirley Halperin from Rolling Stone magazine.", start: 1095.60, end: 1097.82}
+  - {text: "Still to come in this podcast.", start: 1100.35, end: 1101.93}
+  - {text: "I think it's an exercise that sends out a powerful message.", start: 1102.39, end: 1105.57}
+  - {text: "We understand it has no legal binding.", start: 1105.77, end: 1107.85}
+  - {text: "The village that wants to secede from the UK over plans to locate asylum seekers near their homes and the US mother with a criminal conviction", start: 1108.39, end: 1117.67}
+  - {text: "for letting her five -year -old son go for an unsupervised walk.", start: 1117.67, end: 1121.99}
+  - {text: "This is the Global News Podcast.", start: 1128.98, end: 1130.82}
+  - {text: "Telecom firms usually like to prevent the private details of their users from being passed to the authorities but earlier this year Telenoor Myanmar a Norwegian", start: 1131.64, end: 1140.96}
+  - {text: "company operating in Myanmar was accused of sharing sensitive personal data with the Burmese military that had taken over the country.", start: 1140.96, end: 1149.22}
+  - {text: "Now the authorities in Norway have searched Telenoor's headquarters as part of an investigation into the release of this personal data.", start: 1149.22, end: 1157.50}
+  - {text: "Our global affairs reporter and Barasan Atirajan told me more.", start: 1157.94, end: 1161.68}
+  - {text: "Telenoor is a very major Norwegian telecom company.", start: 1162.18, end: 1165.64}
+  - {text: "They have operations across the world in many countries and one of them was in Myanmar where in 2013 they started Telenoor Myanmar at that time the country was in transition to democracy", start: 1165.84, end: 1178.44}
+  - {text: "and soon they emerged as one of the biggest players.", start: 1178.44, end: 1181.42}
+  - {text: "At one point they had nearly 18 million customers in Myanmar.", start: 1181.98, end: 1186.18}
+  - {text: "Now in 21 February a military coup happened and according to some of the activists from Myanmar they were accusing this company of handing over data,", start: 1187.10, end: 1198.74}
+  - {text: "users data particularly information about pro -democracy activists they were being hunted by the military junta their addresses, their call locations last seen where and call logs", start: 1199.10, end: 1213.16}
+  - {text: "as well and many of the data were handed over to the Myanmar authorities.", start: 1213.16, end: 1218.04}
+  - {text: "It was about 1200 people whom the military junta was focusing on and the activists say one of the main government opponent and lawmaker Fyo Zeyathah he was arrested and executed.", start: 1218.58, end: 1232.44}
+  - {text: "A class action suit was filed by a Swedish nonprofit called the Justice and Accountability Initiative based on that the Norwegian authorities today raided the headquarters of Telenoor", start: 1232.44, end: 1244.62}
+  - {text: "and also they've launched an investigation into a suspected complicity of crimes against humanity by helping the Myanmar authorities.", start: 1245.12, end: 1252.36}
+  - {text: "These are incredibly serious allegations surely this company knows what's expected of it as an international player why would if they did why would its employees have even considered doing this?", start: 1252.64, end: 1267.22}
+  - {text: "Now that was the time of big upheaval in Myanmar and whenever a military takes over in a country like Myanmar it was very tough for the local people and that's what the Telenoor was saying in a statement", start: 1267.44, end: 1279.00}
+  - {text: "that they risked death penalty or imprisonment and also death threats the local employees were facing for not handing over this data and they had no other alternative than giving such data whenever the authorities were asking", start: 1279.84, end: 1296.08}
+  - {text: "because it was compromising the security of the staff.", start: 1296.08, end: 1299.74}
+  - {text: "Anbarosan Etirajan Trains have been severely disrupted in the Netherlands after suspected sabotage to the tracks police said metal pipes and other objects had been found", start: 1300.32, end: 1311.37}
+  - {text: "attached to tracks in more than 30 locations triggering warning signals the disruptions were allegedly caused by farmers who opposed government plans to enforce reduced nitrogen emissions a farmers group denied responsibility", start: 1311.37, end: 1325.75}
+  - {text: "but said it could not rule out individuals acting on their own our Europe correspondent Nick Beek has more details Early services were cancelled as the", start: 1325.75, end: 1335.95}
+  - {text: "Dutch rail network detected unexpected weight on the tracks in dozens of locations in mostly central and eastern parts of the Netherlands these were not trains", start: 1335.95, end: 1346.25}
+  - {text: "but metal pipes some two meters long that had been attached to the rails triggering red lights international services to Germany were among those disrupted the acts of sabotage came hours before the opening of parliament", start: 1346.25, end: 1360.95}
+  - {text: "which often attracts some form of protest a group representing Dutch farmers said its members had started fires near roads and railway lines but denied they", start: 1360.95, end: 1372.11}
+  - {text: "had carried out sabotage on the tracks the government's budget plans have sparked widespread protest in recent months including from farmers who argue they are being unfairly blamed for nitrogen pollution the Dutch intelligence agency,", start: 1372.11, end: 1387.51}
+  - {text: "AIVD said it was now investigating alongside police and prosecutors Nick Beek how much immigration is acceptable is an issue that many countries around the world are grappling with at the moment including Britain", start: 1387.77, end: 1401.98}
+  - {text: "and in Piddington, a village in the English county of Oxfordshire residents have come up with a novel way to show their displeasure at a plan to house asylum seekers in a disused military base nearby they've held a referendum to secede from the UK", start: 1402.43, end: 1418.78}
+  - {text: "this independence vote has no basis in law but it does show the anti -immigration feeling among some British people our correspondent Duncan Kennedy spent the day there Piddington is now at the centre of a very modern chapter of British life", start: 1419.39, end: 1435.78}
+  - {text: "people have been voting all day in their own referendum they want independence from the UK so they can block plans to house asylum seekers nearby", start: 1436.52, end: 1446.40}
+  - {text: "probably good, we're just going to go in now voting by post and in person at the village hall has been brisk all day you don't think it's a futile exercise", start: 1447.23, end: 1458.07}
+  - {text: "because it has no legal binding I think it's an exercise that sends out a powerful message we understand it has no legal binding the village", start: 1458.07, end: 1466.95}
+  - {text: "with a population of around 350 people is just half a mile from this disused military base where the Home Office want to house 1250 asylum seekers", start: 1466.95, end: 1477.45}
+  - {text: "the camp was used for storage the only people here today were the security guards filming us the referendum voting slip asks if people want to succeed from the UK", start: 1477.99, end: 1490.86}
+  - {text: "it has no legal basis but villagers say it is symbolic it's just really hard to see that many people that are unvetted and you just don't know", start: 1491.50, end: 1501.82}
+  - {text: "who they are it's just the sheer scale of it they're putting these people everywhere they shouldn't do it, it's disgraceful they've got to wake up and smell the coffee and not kick the can down the road which everyone's been doing", start: 1501.82, end: 1514.76}
+  - {text: "the villagers have even made their own campaign videos to get their message across in a statement the Home Office said we are working fairly to house asylum seekers across the country including former military sites", start: 1516.70, end: 1531.70}
+  - {text: "which are designed to be self -contained we did try to find somebody in the village not voting for independence but there weren't any it may only be a paper exercise", start: 1531.70, end: 1542.93}
+  - {text: "but it reflects the views of this community and many others around the country even if it is unlikely but anyone will ever need a passport to Pittington", start: 1542.93, end: 1553.23}
+  - {text: "Duncan Kennedy finally how far would you let children take a walk alone some parents wouldn't let them out of their sight but Carrie Ann Parkinson felt certain", start: 1554.24, end: 1565.76}
+  - {text: "that her five -year -old son Sam would be safe taking a walk by himself along a paved trail they knew well in the gated community", start: 1565.76, end: 1573.68}
+  - {text: "where they live in the US state of Virginia he wanted to walk half a mile that's nearly a kilometer to a pond to collect goose feathers", start: 1573.68, end: 1582.48}
+  - {text: "and his mother agreed but the state authorities didn't and she was placed on the Child Abuse and Neglect Register the BBC's Regina Vidyanathan asked Carrie", start: 1582.48, end: 1594.02}
+  - {text: "Ann Parkinson about the moment she found out she was in trouble one of the neighborhood security guards knocked on the door and he had Sam with him", start: 1594.02, end: 1601.64}
+  - {text: "who was holding his feathers and looking pretty scared and I asked the security guard what was going on and he said well a neighborhood seen Sam alone I had called security I just thought was", start: 1601.64, end: 1612.28}
+  - {text: "that it and I said why did you bother him he was out on his walk and it was everything fine and he said well we don't permit children to be alone", start: 1612.28, end: 1620.38}
+  - {text: "which I knew was not true because we've lived there for three years and our children ride their bikes to tennis lessons and walk to swim team", start: 1620.38, end: 1628.02}
+  - {text: "and they go see their friends so that was kind of silly and so I said well is that some sort of HOA rule because I really don't believe that's in the bylaws", start: 1628.02, end: 1636.42}
+  - {text: "and he said well if it's not in the rules then it's against the law so I'm calling the police which I thought I am sure the police are going to think this is some little neighborhood dispute I didn't think they would respond", start: 1636.42, end: 1647.70}
+  - {text: "but ten minutes later sure enough there was a police officer on my porch and then two more police officers arrived as well as child protective services", start: 1648.28, end: 1657.08}
+  - {text: "and the chief of security for the neighborhood who came and parked his car across the street to observe the proceedings this ended up going through the courts", start: 1657.08, end: 1666.44}
+  - {text: "and being prosecuted and just tell us the situation that you're in right now I ended up being charged with contributing to the delinquency of a minor it went to trial", start: 1666.44, end: 1676.28}
+  - {text: "my trial was on August 21st and it was just before a judge and the judge found me guilty of contributing to the delinquency of a minor sentenced me to six months in jail suspended based on good behavior", start: 1676.84, end: 1689.88}
+  - {text: "and compliance with CPS requirements and now we are appealing that decision that trial will happen on February 4th do you accept the argument that some people have", start: 1689.88, end: 1701.26}
+  - {text: "which is that you perhaps didn't consider all of the risks in letting him go on that walk on his own and even though you say you have a certain style of parenting", start: 1701.26, end: 1711.12}
+  - {text: "that doesn't take away from the fact that there are risks in letting a five year old child go out of the house on their own I absolutely considered all of the risks", start: 1711.12, end: 1720.64}
+  - {text: "and I felt that he was perfectly capable of handling them this was a walk that he had done every single day and even that very morning he was on his bike zooming up ahead of me", start: 1720.64, end: 1730.66}
+  - {text: "and coming back about 50 yards ahead of me the entire time and he made all of those street crossings on his own he managed to go down", start: 1730.66, end: 1738.06}
+  - {text: "that path every single day for the last three years and never fell into a pond and never got hit by a car and checked and made sure", start: 1738.06, end: 1745.44}
+  - {text: "that he knew how to cross the street so I knew that he was safe do you regret letting Sam go to the pond now?", start: 1745.44, end: 1753.10}
+  - {text: "would you do it again?", start: 1753.18, end: 1753.80}
+  - {text: "you've got other children as well I would absolutely do it again and I do not regret it Carrie Ann Parkinson speaking to Rajini Vaidyanathan and that's all from us for now", start: 1753.88, end: 1766.38}
+  - {text: "if you want to get in touch you can email us at globalpodcast at bbc .co .uk you can also find us on X at BBC World Service use the hashtag globalnewspod and don't forget our sibling podcast,", start: 1766.38, end: 1782.34}
+  - {text: "The Global Story which goes in depth and beyond the headlines on one big story this edition of The Global News Podcast was mixed by Darcy Obrey", start: 1782.72, end: 1792.80}
+  - {text: "the editor is Karen Martin I'm Alex Ritzen until next time goodbye", start: 1793.38, end: 1797.94}
+---

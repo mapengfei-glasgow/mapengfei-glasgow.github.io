@@ -1,0 +1,298 @@
+---
+layout: single
+title: "Did the US carry out war crimes in Iran?"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-18T00:00:00Z
+slug: "2026-09-18-did-the-us-carry-out-war-crimes-in-iran"
+audioDir: "2026-09-18-did-the-us-carry-out-war-crimes-in-iran"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-18-did-the-us-carry-out-war-crimes-in-iran/episode.mp3"
+totalDuration: 1687.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.18}
+  - {text: "I'm Celia Hatton, and in the early hours of Friday, the 18th of September, these are our main stories.", start: 5.22, end: 11.38}
+  - {text: "Washington has rejected a UN report alleging the US military may have committed war crimes in the early days of the war on Iran.", start: 12.00, end: 20.56}
+  - {text: "NATO Secretary General tells us why he thinks Russia's Vladimir Putin is becoming increasingly desperate over Ukraine.", start: 21.24, end: 27.98}
+  - {text: "And new research explains why caffeine affects some people more than others.", start: 28.58, end: 33.02}
+  - {text: "Also in this podcast.", start: 35.02, end: 36.36}
+  - {text: "It is largely drawn in black ink and decorated in reds and oranges and yellows, sort of burnt colors, if you will.", start: 36.76, end: 44.14}
+  - {text: "A manuscript telling the story of the Aztecs returns to Mexico after more than 180 years.", start: 44.62, end: 50.68}
+  - {text: "We'll begin with a new report from the United Nations that's getting a lot of attention.", start: 55.02, end: 59.66}
+  - {text: "Investigators with the UN Human Rights Council say there are reasonable grounds to believe that the United States carried out war crimes in the early days of its war on Iran.", start: 60.42, end: 70.72}
+  - {text: "A fact -finding mission looked at two deadly missile strikes in February that killed more than 170 people.", start: 71.28, end: 77.92}
+  - {text: "One on a primary school in the southern town of Manab.", start: 78.22, end: 81.52}
+  - {text: "Another airstrike hit a sports complex in the town of La Mer, also in the south.", start: 82.08, end: 86.78}
+  - {text: "The Iranian authorities were also mentioned by UN investigators.", start: 87.32, end: 91.48}
+  - {text: "Tehran's accused of committing crimes against humanity during its violent repression of anti -government protests that started last December.", start: 92.18, end: 100.10}
+  - {text: "Iran has previously denied wrongdoing, though it's yet to say anything about this latest report.", start: 100.84, end: 106.22}
+  - {text: "As we'll hear in a moment, the US has responded.", start: 106.70, end: 109.46}
+  - {text: "Tom Bateman is our State Department correspondent in Washington.", start: 110.20, end: 113.26}
+  - {text: "He told me more about the findings, starting with that strike on the primary school in Manab.", start: 113.26, end: 118.76}
+  - {text: "What this UN fact -finding mission says is that it believes like much of the reporting in the US has backed as well that there was a targeting database error.", start: 119.08, end: 129.32}
+  - {text: "Basically the Americans were using out -of -date information.", start: 129.46, end: 131.94}
+  - {text: "It suggests about the school building itself in effect believing that it was still a part of a military compound, which it wasn't and hadn't been for many years.", start: 132.36, end: 140.86}
+  - {text: "So the report says this amounted to more than mere negligence, going on to say that the US acted recklessly and this gave the fact -finding", start: 140.86, end: 150.66}
+  - {text: "mission reasonable grounds to believe the US committed a war crime under international law.", start: 150.66, end: 155.40}
+  - {text: "So that's related to Manab.", start: 155.82, end: 157.40}
+  - {text: "It then goes on to talk about the strike on a sports centre in La Mer in Iran, the same day which killed 22 civilians, also describing this", start: 157.62, end: 165.68}
+  - {text: "as indiscriminate and therefore saying that they believe that too constituted a war crime.", start: 165.68, end: 169.94}
+  - {text: "And Tom, I understand there's already been a response from the US State Department?", start: 169.94, end: 173.80}
+  - {text: "Well, the State Department has put out a response to this because the fact -finding mission is appointed by the UN's Human Rights Council.", start: 174.22, end: 182.18}
+  - {text: "The US has long had an issue with the Human Rights Council.", start: 182.68, end: 185.44}
+  - {text: "It withdrew from the council itself some time ago and says in response to this report that the council pushes, it says, anti -American rhetoric and anti -Semitism all the while appeasing repressive regimes.", start: 185.58, end: 197.32}
+  - {text: "As such, say the Americans, we do not give credibility to the findings of this report.", start: 197.86, end: 202.22}
+  - {text: "Interesting because the State Department mentions anti -American rhetoric, but we should note that this UN report also criticised Iran's actions as well.", start: 202.82, end: 211.98}
+  - {text: "Can you take us through that?", start: 212.08, end: 212.92}
+  - {text: "Absolutely. I mean, this report is in two parts and actually this fact -finding mission was established in 2022 and it was largely to look at", start: 213.28, end: 220.38}
+  - {text: "human rights abuses in Iran carried out by the regime.", start: 220.38, end: 223.36}
+  - {text: "And so there is a very lengthy section on the uprising and the protests that took place at the very end of last year, the late December into the new year,", start: 224.04, end: 233.24}
+  - {text: "which the report says involved a widespread and systematic attack by the Iranian authorities against their own civilians.", start: 233.58, end: 242.28}
+  - {text: "It talks about this having amounted to crimes against humanity in the view of the fact -finding mission and goes into some detail about what took place involving unlawful killings, torture, arbitrary detention and enforced disappearances.", start: 242.76, end: 258.32}
+  - {text: "It talks about the official death toll that the Iranians had said had been killed in these clashes of 3 ,000, more than 3 ,000 people.", start: 258.66, end: 265.34}
+  - {text: "It says that the actual death toll was likely to be far higher than that official figure and also they're saying including at least 221 children reportedly killed some of those as young as two years old.", start: 265.68, end: 277.30}
+  - {text: "Tom, I wonder our listeners might be thinking, well, what next for these findings then?", start: 278.26, end: 282.88}
+  - {text: "If human rights experts at the UN say there are grounds to believe the US committed war crimes and that the Iranians committed crimes against humanity, what can be done with those accusations?", start: 283.10, end: 293.38}
+  - {text: "Well, largely because of the countries involved, these things really reach an end point with these reports because, for example, as far as the US is concerned, the US has largely tried to disempower multilateral institutions that have the ability to investigate and also to adjudicate, basically,", start: 294.00, end: 311.94}
+  - {text: "in instances where countries themselves won't do that.", start: 312.70, end: 315.54}
+  - {text: "These reports are significant because they put this information and these findings into the public domain, but in terms of any further action, well, that I think is likely to be extremely limited if not non -existent.", start: 316.02, end: 327.72}
+  - {text: "But what about the Court of Public Opinion?", start: 327.72, end: 329.66}
+  - {text: "I mean, this comes at a time when the US war with Iran is relatively unpopular with American voters.", start: 329.80, end: 334.60}
+  - {text: "Can the Trump administration brush off accusations of war crimes so easily?", start: 334.94, end: 339.44}
+  - {text: "Well, I think particularly over the issue of the Minab school strike, it is something that has received coverage within the US and across the US media.", start: 340.08, end: 350.48}
+  - {text: "What has been very notable about that is the degree to which the Pentagon under Defense Secretary Pete Hegseth has simply declined to say anything beyond its investigating,", start: 351.00, end: 361.90}
+  - {text: "and there has not been any publication of any findings.", start: 362.58, end: 367.30}
+  - {text: "It was widely understood that there was an initial probe that found it likely that a US missile, a Tomahawk missile, was the cause of the", start: 367.72, end: 375.04}
+  - {text: "strike on the school in the first place.", start: 375.04, end: 376.64}
+  - {text: "But the Trump administration has simply not wanted to talk about these things.", start: 376.98, end: 380.90}
+  - {text: "I think that has been noted among the public.", start: 381.38, end: 384.28}
+  - {text: "But I think largely what the opinion polling suggests is that for Americans at the moment in the run -ups of the midterm elections, this war is unpopular,", start: 384.42, end: 392.42}
+  - {text: "but the doorstep issues for Americans are because that has led to a rise in the price of gasoline and petrol, and that has made Mr.", start: 393.00, end: 400.26}
+  - {text: "Trump unpopular. Beyond that, he had said that he gained election on the basis of not taking America into what he and others have called forever wars, these kind of foreign entanglements.", start: 400.40, end: 410.74}
+  - {text: "For parts, even of his own base, who feel pretty aghast that he then appears to have done that in their view, that will cause him", start: 411.10, end: 419.04}
+  - {text: "and is causing him some problems in terms of the perception of his foreign policy.", start: 419.04, end: 422.58}
+  - {text: "Tom Bateman in Washington.", start: 422.98, end: 424.36}
+  - {text: "On Thursday, sirens sounded in eastern Poland, military aircraft were scrambled, and two airports temporarily suspended flights after Russian strikes on Ukraine landed close to the Polish border.", start: 425.06, end: 438.34}
+  - {text: "This is just the latest example of Russian military activity edging closer to NATO territory.", start: 439.10, end: 445.20}
+  - {text: "Speaking to the BBC's Chris Mason, NATO Secretary -General Mark Rutte said this all points towards an increasingly rattled Vladimir Putin.", start: 446.02, end: 455.22}
+  - {text: "It is clearly an example of increasingly reckless behavior by Russia and its president, but also evidence of him being increasingly desperate.", start: 455.86, end: 465.12}
+  - {text: "Should NATO intercept Russian drones that are over Ukrainian territory if they are approaching a NATO border?", start: 465.42, end: 472.76}
+  - {text: "There is a limit to what I can go into in a public interview, but I can assure you we do everything to make sure that NATO stays safe, NATO territory stays safe, that we can defend every...", start: 473.08, end: 483.88}
+  - {text: "Sounds like that's happening.", start: 483.88, end: 484.92}
+  - {text: "Again, I can never get into those operational details.", start: 485.68, end: 488.32}
+  - {text: "I was told afterwards drones were not at least yet intercepted by NATO while still over Ukraine.", start: 489.12, end: 496.28}
+  - {text: "How worried are you?", start: 496.76, end: 497.66}
+  - {text: "How worried should we all be that Russia will attack or invade a NATO country in the coming years?", start: 497.86, end: 505.18}
+  - {text: "If you are willing to sacrifice 1 .2 million of your own people in this crazy, unprovoked fight, let's not be naive about what Putin could do, but we are stronger.", start: 505.56, end: 515.00}
+  - {text: "It could happen in the coming years.", start: 515.76, end: 518.12}
+  - {text: "I don't think so because we are strong, so strong that he will not try, but we have to make sure of is that we are as strong in 2, 3, 5 years from now.", start: 518.40, end: 527.02}
+  - {text: "NATO Secretary -General Mark Rutte speaking to Chris Mason.", start: 527.38, end: 530.90}
+  - {text: "Now, are you someone who needs a cup of coffee in the morning to get going, but if you have a coffee after 3pm, you're up all night?", start: 531.68, end: 539.90}
+  - {text: "Why does caffeine make some people buzz and others barely notice its effects?", start: 540.62, end: 545.52}
+  - {text: "Our house reporter has been looking into this, but we also asked listeners to send us voice messages about their coffee drinking.", start: 546.22, end: 552.94}
+  - {text: "Here's two from Egypt and then Tenerife.", start: 553.38, end: 556.14}
+  - {text: "I do like coffee and I'm a little bit of a coffee addict.", start: 556.62, end: 560.00}
+  - {text: "In Egypt for instance, I'm always like to have 2 to 3 cups, which is a lot, and also changed with the age because in the past, you know, it didn't really feel anything, but now I'm feeling the caffeine, maybe because of the consumption has increased.", start: 561.06, end: 578.74}
+  - {text: "Almost everybody takes a cup of coffee in the morning with the breakfast.", start: 579.28, end: 584.38}
+  - {text: "It is very important because it is a stimulant to have energy and to finish waking up.", start: 584.80, end: 592.92}
+  - {text: "As I mentioned, our health reporter Jim Reid has been investigating coffee and caffeine.", start: 592.92, end: 598.42}
+  - {text: "He spoke to James Reynolds and began by telling him who drinks the most coffee.", start: 599.12, end: 603.36}
+  - {text: "These figures are from the International Coffee Organization, so, you know, take that as you will, but 2 billion cups a day is the figure.", start: 603.66, end: 610.82}
+  - {text: "When you think there's only 8 billion people in the world, that is an awful lot of coffee.", start: 611.12, end: 615.36}
+  - {text: "I think it works out at around 26 ,000 cups a second.", start: 615.60, end: 620.30}
+  - {text: "In terms of which countries, so actually when you look at the figures, Scandinavia in northern Europe tops the list.", start: 620.56, end: 628.72}
+  - {text: "So Finland is number one.", start: 629.26, end: 630.90}
+  - {text: "Four cups of coffee a day, a day on average in Finland.", start: 631.08, end: 634.70}
+  - {text: "Norway, Iceland, Denmark, then you get the other big European countries.", start: 635.30, end: 638.96}
+  - {text: "The UK, Germany, France come down a little bit further down the list.", start: 639.26, end: 641.92}
+  - {text: "The USA. Asian countries tend to be much lower.", start: 642.04, end: 645.54}
+  - {text: "There are exceptions, but you know, Japan, China, much lower in coffee consumption, partly because there's more of a culture of tea drinking in large parts of Asia.", start: 645.70, end: 654.16}
+  - {text: "So let's get to one of the points of the story.", start: 654.60, end: 656.70}
+  - {text: "Does coffee affect people differently?", start: 656.98, end: 658.54}
+  - {text: "And clearly it does, looking at the different personalities in this newsroom.", start: 658.88, end: 661.74}
+  - {text: "If so, how? Interesting thing with caffeine is it's a very weird drug for that reason.", start: 662.00, end: 667.38}
+  - {text: "I spoke to researchers at Northwestern University in Chicago about this.", start: 668.06, end: 670.78}
+  - {text: "They've done some work pretty recently, and a lot depends on how quickly you can metabolize or break down that coffee in your body.", start: 670.88, end: 678.56}
+  - {text: "And that can take from six hours to 20 hours, depending on the individual.", start: 678.66, end: 683.58}
+  - {text: "The interesting thing with caffeine is it's not ever, it doesn't give you more energy.", start: 684.12, end: 687.78}
+  - {text: "All it's doing is that there's a chemical that builds up in your brain all day called adenosine that makes you feel more sleepy.", start: 688.34, end: 695.34}
+  - {text: "And all the caffeine is doing is blocking that chemical coming through.", start: 695.62, end: 699.42}
+  - {text: "So it's not giving you really a boost in that sense.", start: 699.54, end: 701.82}
+  - {text: "It's just stopping you being more tired.", start: 701.98, end: 704.50}
+  - {text: "Tell us about building up a tolerance.", start: 704.74, end: 706.38}
+  - {text: "That's definitely something you can do.", start: 706.78, end: 708.40}
+  - {text: "And this is where the body, James, is pretty amazing.", start: 708.60, end: 710.96}
+  - {text: "So if you drink coffee over time, your brain can actually form more of the receptors that let that tiredness chemical adenosine get through.", start: 711.18, end: 722.50}
+  - {text: "So caffeine seems to have less of an effect.", start: 722.70, end: 724.84}
+  - {text: "Then if you suddenly give up coffee for a couple of weeks, your brain can actually revert very quickly just in a matter of days or weeks to its normal state.", start: 724.84, end: 733.48}
+  - {text: "Then you suddenly have a coffee again after a period of not drinking for a couple of weeks.", start: 733.96, end: 737.76}
+  - {text: "And that is when it can really hit you because your brain and your body's just not used to it.", start: 737.92, end: 742.88}
+  - {text: "So it's amazing how quickly your body can adapt to these things.", start: 742.94, end: 745.14}
+  - {text: "How much is the limit?", start: 745.76, end: 747.18}
+  - {text: "I mean, do people in Finland, are they getting close to that limit?", start: 747.38, end: 749.88}
+  - {text: "They're on four cups of coffee a day.", start: 750.10, end: 751.84}
+  - {text: "It's pretty difficult because there's no great answer to that.", start: 752.30, end: 755.36}
+  - {text: "It does depend on individuals.", start: 755.50, end: 756.50}
+  - {text: "The exception is pregnant women because there is pretty decent evidence that intake of caffeine can be linked to low birth weight, other complications.", start: 757.14, end: 764.74}
+  - {text: "So there the advice is for most health regulators, 200 milligrams of caffeine a day, that's about the same as two cups of filter coffee.", start: 765.52, end: 772.02}
+  - {text: "For healthy adults, the advice again from regulators, anything under four cups of filter coffee, you're pretty safe.", start: 772.64, end: 780.68}
+  - {text: "To be honest, you're only going to really have a major health problem if you consume a lot more caffeine.", start: 781.36, end: 786.86}
+  - {text: "And that is unlikely with coffee because you'll simply get jittery and stop drinking it.", start: 787.42, end: 790.74}
+  - {text: "It is possible though, we think recently there's been a big fad for kind of caffeine powders and supplements.", start: 791.22, end: 797.76}
+  - {text: "And that's where you can get in trouble because it's difficult to regulate how much you're taking in.", start: 798.14, end: 801.90}
+  - {text: "And you can overdose on those.", start: 802.14, end: 803.54}
+  - {text: "And there have been a handful, not very many, but a handful of deaths connected with that in some European countries.", start: 803.66, end: 809.02}
+  - {text: "So for the most part, completely safe.", start: 809.40, end: 811.82}
+  - {text: "But in isolation in rare cases, it can be quite dangerous.", start: 812.24, end: 815.40}
+  - {text: "Health reporter Jim Reid.", start: 816.08, end: 817.48}
+  - {text: "Let's focus now on a manuscript from the 16th century, which tells the story of what happened to the Aztec people who lived in what's now central and southern Mexico.", start: 818.41, end: 829.07}
+  - {text: "The Codex Ascati clan depicts the fall of the Aztecs after the arrival of the Spanish conquistadors.", start: 829.53, end: 835.49}
+  - {text: "It's widely considered to be among the most valuable and insightful tellings of the history of Aztec civilization.", start: 836.03, end: 842.45}
+  - {text: "Now the Codex is going on display in Mexico after more than 180 years abroad.", start: 843.49, end: 848.89}
+  - {text: "It had been held in France since 1898, and it had already spent decades outside Mexico before that.", start: 849.55, end: 855.85}
+  - {text: "Camilla Townsend told Paul Henley about the Codex.", start: 856.63, end: 859.67}
+  - {text: "She's a professor of history at Rutgers University in the US, and she's a specialist on the Aztecs.", start: 860.03, end: 866.05}
+  - {text: "The Codex Ascati clan is a really beautiful work of art, one of the loveliest of the Mexican codices.", start: 866.49, end: 872.19}
+  - {text: "It is largely drawn in black ink and decorated in reds and oranges and yellows, sort of burnt colors, if you will.", start: 872.85, end: 880.15}
+  - {text: "And it proceeds in a very beautiful way through their history from the earliest legends up to the period of the arrival of the Spanish.", start: 880.33, end: 888.25}
+  - {text: "It is illustrating all sorts of aspects of Mexica, as they call themselves, Aztec history, some warlike and some times of peace.", start: 888.25, end: 898.25}
+  - {text: "For example, just describe what the figures look like.", start: 898.59, end: 901.39}
+  - {text: "They're fairly primitive to some modern eyes, aren't they?", start: 901.57, end: 904.41}
+  - {text: "Yes, they are. I guess you might use the word cartoon, but I don't mean cartoonish.", start: 904.57, end: 909.39}
+  - {text: "They are two -dimensional but suggest three -dimensional.", start: 909.87, end: 912.37}
+  - {text: "It's clearly by artists Nahuatl or native indigenous artists who had gone to school with the friars and learned about western perspective.", start: 912.65, end: 920.47}
+  - {text: "Everyone has the impression that they've learned to draw western style quite recently, and so they're mixing western presentation of the human body with all sorts of indigenous images and artwork.", start: 920.75, end: 930.19}
+  - {text: "They show a road with a human footprint going along the path to indicate motion.", start: 930.71, end: 935.41}
+  - {text: "And here and there they do stop and war with their neighbors but also do dances, sing songs, etc.", start: 935.69, end: 941.25}
+  - {text: "So there they are living their lives when the Spaniards arrive.", start: 941.85, end: 944.81}
+  - {text: "And do we know for sure that it was Aztec artists that did it, and were these pictures drawn at the time or as historical documents?", start: 945.15, end: 953.15}
+  - {text: "We are certain that these were Aztec artists, indigenous artists, because the imagery is so loaded with native iconography, with stories that the Spaniards didn't even know.", start: 953.83, end: 966.29}
+  - {text: "There would be no way for a Spanish person really to have created this piece of work in the colonial era.", start: 966.69, end: 972.77}
+  - {text: "This is based on legends and histories that were passed orally amongst the Nahuas.", start: 972.91, end: 977.81}
+  - {text: "And we know these stories because they sometimes stopped and wrote them down in their own language for each other.", start: 977.95, end: 982.99}
+  - {text: "So the codex is coming home.", start: 983.19, end: 985.11}
+  - {text: "How big a deal is that?", start: 985.39, end: 986.43}
+  - {text: "It's a very big deal.", start: 986.89, end: 988.07}
+  - {text: "The Mexicans know and some level they all know what a grand history they have.", start: 988.43, end: 993.85}
+  - {text: "The extraordinary nature of the civilizations that existed in Mexico before the conquest.", start: 994.29, end: 998.79}
+  - {text: "But very few of them have the time, energy resources, you know, to go and get their PhDs in this subject, so they don't know much about it.", start: 999.37, end: 1005.95}
+  - {text: "And of course, making matters worse, much of their heritage was taken from them, literally removed from the country, largely by the French, although some by English and Americans.", start: 1006.01, end: 1016.17}
+  - {text: "Is there implied criticism of the Spanish, which wouldn't be surprising, given that they were the invaders, the killers?", start: 1016.73, end: 1022.37}
+  - {text: "The Spaniards appear not to good advantage on several occasions.", start: 1022.81, end: 1026.83}
+  - {text: "They are violent. The people, even women and children are having their limbs cut off.", start: 1026.83, end: 1032.21}
+  - {text: "The very last page shows friars involved in torturing Indigenous people who are tied to wooden sticks.", start: 1032.45, end: 1039.23}
+  - {text: "Camilla Townsend. Still to come in this podcast.", start: 1039.61, end: 1043.78}
+  - {text: "For me, it's amazing that there is still new species waiting to be discovered, so we don't have to go to a volcano or an island or deep in the sea.", start: 1044.18, end: 1052.10}
+  - {text: "We have it around us.", start: 1052.40, end: 1053.76}
+  - {text: "A new type of cat hiding in plain sight in Bolivia.", start: 1053.76, end: 1058.06}
+  - {text: "This is the Global News Podcast.", start: 1064.87, end: 1066.17}
+  - {text: "A major news study has found that since 1979, more than 11 trillion tons of ice has melted into the oceans from ice sheets in Greenland and Antarctica.", start: 1066.99, end: 1076.73}
+  - {text: "And researchers say all that melted water has led to an average sea level rise of three centimeters.", start: 1077.59, end: 1083.65}
+  - {text: "That might not sound like a lot, but that water is distributed unevenly across the planet.", start: 1084.53, end: 1089.77}
+  - {text: "And it means tens of millions of people in coastal communities face increased risks from flooding.", start: 1090.01, end: 1095.31}
+  - {text: "And as the climate continues to warm, the rate of melting could accelerate, raising sea levels even higher.", start: 1095.79, end: 1102.27}
+  - {text: "Ines Otisaka, an ice scientist at Northumbria University in England, led the research.", start: 1103.07, end: 1108.05}
+  - {text: "11 .3 trillion tons of ice is a very large amount of ice.", start: 1108.49, end: 1112.43}
+  - {text: "And if you convert that to sea level rise equivalent, that's three centimeters.", start: 1112.53, end: 1116.77}
+  - {text: "We know that for every centimeters of sea level rise, about two to three billion people around the planet are put at further risk of annual coastal flooding.", start: 1117.53, end: 1126.31}
+  - {text: "So that's obviously something that's very important, and we really need to keep on tracking ice sheet melting.", start: 1126.79, end: 1132.67}
+  - {text: "Can you take us through that a little bit?", start: 1133.09, end: 1134.55}
+  - {text: "Because when I think about three centimeters of water rising, it doesn't sound like much.", start: 1134.65, end: 1139.81}
+  - {text: "Why does it affect so many people around the world?", start: 1139.89, end: 1142.55}
+  - {text: "How does that work?", start: 1142.67, end: 1143.23}
+  - {text: "So here we're talking about three centimeters of global mean sea level.", start: 1143.81, end: 1148.17}
+  - {text: "So that's really when you project all of the water that's being released by the ice sheet when they melt onto the planet.", start: 1148.43, end: 1155.73}
+  - {text: "And because of the effect of gravity, it's not redistributed uniformly across the world.", start: 1156.17, end: 1161.81}
+  - {text: "So it doesn't mean that everywhere it will rise by three centimeters.", start: 1161.91, end: 1164.97}
+  - {text: "There will be areas around the planet where it's going to be much more than three centimeters.", start: 1165.45, end: 1169.31}
+  - {text: "And some areas, for instance, very close to the ice sheet where it will actually be a sea level four.", start: 1170.05, end: 1173.85}
+  - {text: "I see. Okay. So tell us more about the report and how you collected the data in it.", start: 1174.19, end: 1180.99}
+  - {text: "How can we be sure it's accurate?", start: 1181.13, end: 1182.19}
+  - {text: "Yes. So we have used satellite data from 27 different satellite missions.", start: 1182.75, end: 1187.07}
+  - {text: "We are tracking how much ice the ice sheets in Greenwood and Antarctica are losing from year to year.", start: 1187.37, end: 1193.31}
+  - {text: "And now we have extended the satellite data record backwards in time to the 1970s.", start: 1193.73, end: 1199.63}
+  - {text: "And this really confirms that ice loss started around the 1990s and they have increased since then.", start: 1199.87, end: 1206.09}
+  - {text: "In fact, we found that the pace of ice loss increased by the fact of four between the 1980s and 2010s.", start: 1206.27, end: 1212.79}
+  - {text: "So how should we think about all of this then, the findings?", start: 1212.99, end: 1216.01}
+  - {text: "What are the long term consequences for sea levels if this trend continues and actually speeds up as you've indicated?", start: 1216.45, end: 1224.11}
+  - {text: "There's a really clear long term trend showing that glaciers are flowing faster into the ocean.", start: 1224.45, end: 1229.85}
+  - {text: "If we cross certain warming thresholds, then we could have even higher sea level rise than currently planned for.", start: 1230.33, end: 1236.59}
+  - {text: "So for instance, by 2100, depending on the warming scenario that we're going to follow, in a low emission, we have a total sea level that could be between 28 to 55 centimeters.", start: 1237.03, end: 1249.37}
+  - {text: "But then if you look at high emission scenarios, then by the end of that century, that's around two meters.", start: 1249.37, end: 1254.17}
+  - {text: "And then if you look at even a bit longer time scale by 2300, 15 meters sea level rise cannot be ruled out.", start: 1254.85, end: 1261.57}
+  - {text: "Wow. I mean, Iniesta, as you're talking, those numbers that you're throwing out there just sound quite mind boggling.", start: 1261.93, end: 1267.67}
+  - {text: "Yeah. And it will have really large implications for coastal communities around the world because we know that about 40 % of the global population are living in coastal areas.", start: 1267.91, end: 1277.43}
+  - {text: "So it really shows that we urgently need to develop plans for protecting our coastal communities from the impact of ice melting.", start: 1277.79, end: 1284.79}
+  - {text: "Ice scientists, Iniesta Otossaka.", start: 1285.49, end: 1287.45}
+  - {text: "Scientists have discovered a new species of wild cat hiding in plain sight in the forests of Bolivia.", start: 1288.78, end: 1295.34}
+  - {text: "The small feline with leopard -like spots was long mistaken for another kind of tiger cat, which is normally found in Brazil, until DNA testing revealed", start: 1296.04, end: 1305.88}
+  - {text: "the Bolivian cat was a species all of its own.", start: 1305.88, end: 1308.92}
+  - {text: "Helen Briggs tells us more.", start: 1309.26, end: 1310.50}
+  - {text: "The story starts with a cat nicknamed Tigrino, living at a rescue sanctuary in Bolivia.", start: 1310.88, end: 1316.44}
+  - {text: "Researchers noticed something unusual about his markings, but since tiger cats have very similar spots and stripes, even experts can struggle to tell them apart.", start: 1316.94, end: 1326.58}
+  - {text: "To solve the mystery, the scientists compared DNA from living tiger cats with samples from museum collections.", start: 1327.20, end: 1334.12}
+  - {text: "And the results show that Tigrino belongs to a distinct species, now named Leopardus tilkayo.", start: 1334.66, end: 1341.82}
+  - {text: "He's the only known living tiger cat of his kind, though there are thought to be more living wild in the forests.", start: 1342.22, end: 1349.06}
+  - {text: "Dr Paola Nogales Ascarun says it shows how much we still have left to discover.", start: 1349.62, end: 1356.10}
+  - {text: "For me it's amazing that there is still new species waiting to be discovered, so we don't have to go to a volcano or an island or deep in the sea.", start: 1356.46, end: 1364.56}
+  - {text: "We have it around us.", start: 1365.06, end: 1367.02}
+  - {text: "The researchers say this is only the first step they need to find how many of these tiger cats exist and how to protect them.", start: 1367.24, end: 1374.78}
+  - {text: "Helen Briggs, one of Syria's biggest stars, the singer Asala, has performed in the capital Damascus on her first return to the country for 15 years.", start: 1375.59, end: 1386.58}
+  - {text: "Asala openly expressed her fierce opposition to the regime of Bashar al -Assad as the uprising against his rule began.", start: 1387.28, end: 1395.16}
+  - {text: "She was not based in Syria at the time, but her opposition led to what was effectively a ban on her return to the country.", start: 1395.88, end: 1402.92}
+  - {text: "Our Middle East analyst Sebastian Usher told Pete Ross more about her.", start: 1403.54, end: 1407.26}
+  - {text: "These are big, big stars, the Arab female pop singers.", start: 1407.62, end: 1411.46}
+  - {text: "And she's one of the biggest, I mean, as she's known by one name, Asala.", start: 1412.08, end: 1415.36}
+  - {text: "I mean, there you go.", start: 1415.60, end: 1416.16}
+  - {text: "That's a big thing, isn't it?", start: 1416.50, end: 1418.06}
+  - {text: "She has an extraordinary voice.", start: 1418.40, end: 1419.90}
+  - {text: "She's a little different in her sound from a lot of the other big Arab singers who sound a little bit the same.", start: 1420.16, end: 1427.12}
+  - {text: "She's got a special timbre to her.", start: 1427.28, end: 1429.04}
+  - {text: "And she has been out of Syria for quite some time now.", start: 1429.36, end: 1432.54}
+  - {text: "What were the circumstances that led to her leaving the country?", start: 1432.64, end: 1435.24}
+  - {text: "Before the uprising began in 2011, she was able to come and go to Syria.", start: 1435.60, end: 1439.92}
+  - {text: "That stopped when the uprising began against President Assad.", start: 1440.14, end: 1444.38}
+  - {text: "He tried to put it down and she spoke out against it.", start: 1445.08, end: 1448.02}
+  - {text: "And one of her songs became one of those sounds that the revolution as it was seen by the people with the uprising at the time kind of played and sang along too.", start: 1448.28, end: 1459.32}
+  - {text: "So she wasn't welcome back in Syria.", start: 1459.78, end: 1462.18}
+  - {text: "She even faced trouble when she was passing through Beirut airport.", start: 1462.66, end: 1465.98}
+  - {text: "Beirut airport has been, at certain times, pretty much under the control of Hezbollah, which obviously was backing President Assad.", start: 1466.18, end: 1472.94}
+  - {text: "That gives a sense of how the tentacles essentially of the Assad regime was reaching out to her.", start: 1473.68, end: 1478.10}
+  - {text: "So this is a big moment.", start: 1478.74, end: 1479.82}
+  - {text: "She's been in Damascus for the past couple of days and she'll play a couple more concerts.", start: 1479.96, end: 1483.90}
+  - {text: "But there's been moments, kind of emotional significance where she needs to be back.", start: 1484.00, end: 1487.70}
+  - {text: "One particular one is her father was a very well -known Oud player.", start: 1487.96, end: 1492.20}
+  - {text: "And I don't know if this was set up, stage managed, but she went into the old suit, the old market in Damascus.", start: 1492.68, end: 1500.06}
+  - {text: "And there was a guy there, an antique shop, he said, I've got something for you.", start: 1500.64, end: 1503.32}
+  - {text: "And it was the Oud that her father played, which she hasn't seen for all those years.", start: 1503.72, end: 1508.98}
+  - {text: "He said, I've kept a few for 13 years.", start: 1509.14, end: 1510.80}
+  - {text: "So that's the kind of thing that kind of points to this sort of artistic and cultural renewal that's kind of perhaps happening in Syria.", start: 1511.08, end: 1517.60}
+  - {text: "But it's not all that though, is it?", start: 1517.62, end: 1519.24}
+  - {text: "As you can imagine, the culture minister is very much selling this as being part of that renewal and the more big names you can bring back.", start: 1519.62, end: 1527.36}
+  - {text: "It's part of also trying to make Syria seem like a normal country again.", start: 1527.62, end: 1530.76}
+  - {text: "They want people to go back.", start: 1531.10, end: 1532.10}
+  - {text: "They want tourism. But it's not all roses for her being there.", start: 1532.20, end: 1536.32}
+  - {text: "One of the concerns when the new leadership took over was their roots in jihadism and extreme Islamic ideology.", start: 1536.68, end: 1545.42}
+  - {text: "People feared, you know, the alcohol be banned, singing, dancing, all that kind of thing hasn't happened to any major, it has happened to some degree.", start: 1546.14, end: 1554.00}
+  - {text: "And so you do have voices that are speaking out against her being there.", start: 1554.66, end: 1558.36}
+  - {text: "Another major thing the Syrian government has been trying to do this new leadership is to bring back a sense of unity to Syria, a fractured country.", start: 1558.86, end: 1565.16}
+  - {text: "And Asala plays into this very well because her latest album is called The Syrian Album.", start: 1565.84, end: 1569.86}
+  - {text: "You even hear her when she sings, she sings in different dialects.", start: 1570.38, end: 1573.64}
+  - {text: "Her voice changes. There's a kind of texture to it that changes according to those regions.", start: 1573.76, end: 1578.06}
+  - {text: "So she is trying to represent a sense both personally, her reconnection with those roots, but potentially model the Syria to follow.", start: 1578.54, end: 1586.32}
+  - {text: "Sebastian Asher. And finally, the late Dolly Parton has been recognized with a posthumous lifetime achievement award after her death last month, aged 80.", start: 1586.88, end: 1598.28}
+  - {text: "At the Americana Music Honors and Awards in Nashville on Wednesday, she was remembered for her songwriting and pure mountain voice, as well as her imagination library book giving initiative and her funding of COVID vaccine research.", start: 1598.92, end: 1613.24}
+  - {text: "The award was obviously planned some time ago because midway through the ceremony, there was a gasp in the audience when organizers played a video message from Dolly Parton,", start: 1613.86, end: 1624.34}
+  - {text: "recorded before her death, accepting the lifetime achievement prize.", start: 1624.64, end: 1628.82}
+  - {text: "Roots Music or what is now called Americana Music is what I grew up playing back in the Smoky Mountains.", start: 1629.34, end: 1635.80}
+  - {text: "And I want to thank everybody at the AMA for recognizing me with this award.", start: 1636.50, end: 1642.40}
+  - {text: "It's a great honor truly and just know that I will always love you.", start: 1642.82, end: 1646.94}
+  - {text: "Roots Music The late great Dolly Parton.", start: 1647.46, end: 1649.46}
+  - {text: "And that's all from us for now.", start: 1651.41, end: 1652.95}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1653.27, end: 1659.05}
+  - {text: "You can also find us on X at BBC World Service.", start: 1659.63, end: 1662.15}
+  - {text: "Use the hashtag Global News Pod.", start: 1662.15, end: 1664.61}
+  - {text: "And don't forget our sister podcast, The Global Story, which goes in -depth and beyond the headlines on one big story.", start: 1665.17, end: 1671.75}
+  - {text: "This edition of the Global News Podcast was mixed by Johnny Hall and the producer was Rebecca Wood.", start: 1672.49, end: 1677.07}
+  - {text: "The editor is Karen Martin.", start: 1677.53, end: 1678.83}
+  - {text: "I'm Celia Hatton. Until next time, goodbye.", start: 1679.35, end: 1681.81}
+---

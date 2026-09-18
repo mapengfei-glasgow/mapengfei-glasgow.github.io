@@ -1,0 +1,298 @@
+---
+layout: single
+title: "US reveals it has deployed space weapons"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-15T00:00:00Z
+slug: "2026-09-15-us-reveals-it-has-deployed-space-weapons"
+audioDir: "2026-09-15-us-reveals-it-has-deployed-space-weapons"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-15-us-reveals-it-has-deployed-space-weapons/episode.mp3"
+totalDuration: 1751.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.96}
+  - {text: "Hi, I'm Alex Richardson and in the early hours of Tuesday, the 15th of September, these are our main stories.", start: 5.38, end: 12.36}
+  - {text: "The United States military has confirmed that it has weapons in space.", start: 13.02, end: 16.94}
+  - {text: "The co -founder of Anthropic tells the BBC artificial intelligence might need a mandatory kill switch, but President Trump says the idea of AI destroying humanity is a hoax.", start: 17.70, end: 29.56}
+  - {text: "Police in Turkey fire tear gas at protesters following a crackdown on gay bars and LGBTQ activists.", start: 29.56, end: 37.32}
+  - {text: "Also in this podcast.", start: 39.52, end: 41.36}
+  - {text: "More than 60 % died, but now it's less than 30%.", start: 41.74, end: 45.90}
+  - {text: "It's one of the dramatic stories in all of medicine.", start: 46.46, end: 49.56}
+  - {text: "Winning the fight against breast cancer over the last 50 years.", start: 50.06, end: 53.70}
+  - {text: "The Trump administration has revealed that the United States military does have weapons in space.", start: 57.16, end: 62.50}
+  - {text: "The admission came from the Air Force Secretary, Troy Mink, who didn't say what these were, but that they would be used to protect U .S.", start: 63.10, end: 70.76}
+  - {text: "assets in orbit. He also didn't say why the disclosure was being made now, but his comments will be seen as a warning to Russia and China.", start: 70.78, end: 78.96}
+  - {text: "A treaty from 1967 banned weapons of mass destruction in space, but the U .S.", start: 79.40, end: 84.90}
+  - {text: "has, like its rivals, been developing technology that can target and defend satellites.", start: 84.92, end: 90.56}
+  - {text: "I heard more from our Washington correspondent, Bern De Boosman.", start: 91.06, end: 94.18}
+  - {text: "Well, in his comments, the Secretary of the Air Force, Troy Mink, provided absolutely no details on the weapons, how they could be employed, or its capabilities,", start: 94.64, end: 102.20}
+  - {text: "or even when it was put into orbit.", start: 102.38, end: 104.34}
+  - {text: "But he did say that unnamed adversaries had already sought to dismantle U .S.", start: 104.80, end: 109.50}
+  - {text: "systems relating to sensing and command and control functions, and that this system was essentially that it's something that could be used to safeguard U .S.", start: 109.52, end: 118.30}
+  - {text: "forces against hostile enemy action.", start: 118.46, end: 120.02}
+  - {text: "In the past, senior people at the Pentagon have previously said that they plan to really boost military capabilities in space, specifically citing Russian and Chinese programs,", start: 120.42, end: 131.16}
+  - {text: "developing ways to attack and disrupt U .S.", start: 131.32, end: 133.76}
+  - {text: "satellites in a future conflict.", start: 133.80, end: 135.18}
+  - {text: "So this very well could be something related to that, stopping those efforts from potential adversaries to knock out U .S.", start: 135.58, end: 143.02}
+  - {text: "communications and satellites in space.", start: 143.08, end: 144.68}
+  - {text: "So there's no hint that we're talking about weapons that could be fired towards the earth here?", start: 144.68, end: 149.80}
+  - {text: "There's no suggestion of that at the moment, at least.", start: 149.90, end: 153.58}
+  - {text: "He very much framed this as something that would safeguard U .S.", start: 153.72, end: 157.46}
+  - {text: "personnel and assets. So he kind of framed it as a weapon that essentially defensive in nature.", start: 157.50, end: 164.46}
+  - {text: "There was a roundtable with journalists at this event in Maryland shortly after his remarks, and he didn't even say that it was kinetic, essentially, that it would cause, for example, an explosion of any kind.", start: 164.66, end: 175.92}
+  - {text: "We do know, though, that the Trump administration has been very forward about saying that there are plans to put missiles into space, but those are part of what this term, the golden dome missile defense system.", start: 176.28, end: 188.26}
+  - {text: "So those are essentially interceptor missiles that would be used to protect the U .S.", start: 188.26, end: 192.24}
+  - {text: "from missiles coming from overseas or potentially even other airborne threats.", start: 192.26, end: 196.06}
+  - {text: "It does sound, though, almost sci -fi.", start: 196.44, end: 198.50}
+  - {text: "We have reached the age of Star Wars.", start: 198.50, end: 200.88}
+  - {text: "It does, and this is something that, of course, it's not a novel idea.", start: 201.02, end: 204.48}
+  - {text: "The U .S. government has, for many, many decades now, been eyeing space as very much a potential military frontier.", start: 204.66, end: 212.28}
+  - {text: "As far back as the Reagan administration, he famously had a very expensive program, which was called Star Wars, to protect the U .S.", start: 212.60, end: 220.74}
+  - {text: "from ballistic missiles coming from what was then the Soviet Union.", start: 220.76, end: 223.54}
+  - {text: "So the planning of it has been long in the making, but this is very much the first time or belief to be the first time that the U .S.", start: 224.14, end: 231.44}
+  - {text: "or U .S. official has publicly acknowledged putting weapons in space.", start: 231.50, end: 235.94}
+  - {text: "And in his remarks, he was very clear that he's not giving details because of the sensitivity around this system, which one imagines is extremely sophisticated and expensive.", start: 236.12, end: 245.70}
+  - {text: "Burnt debusement. Opinion polls suggest the majority of Americans are worried about data centers and the wider impact of artificial intelligence.", start: 246.06, end: 255.24}
+  - {text: "But Donald Trump rejects those concerns and says warnings about the technology destroying humanity are a hoax.", start: 255.74, end: 262.50}
+  - {text: "In a series of posts, the U .S.", start: 262.90, end: 264.78}
+  - {text: "president railed against what he called a sick conspiracy against AI, saying the only guardrail it needed was a strong and smart president.", start: 264.80, end: 273.16}
+  - {text: "But from within the AI industry itself, there has been a stark warning against the potential risks of the tech.", start: 273.80, end: 281.10}
+  - {text: "The anthropic co -founder Jack Clark told our economics editor Faisal Islam that the world must set limits to prevent it becoming uncontrollable.", start: 281.56, end: 290.64}
+  - {text: "AI systems for a while have been useful tools with specific skills like translation or coding or being able to label what's going on in an image.", start: 291.02, end: 299.52}
+  - {text: "And then in the last few years, people have successfully put all of these skills together into single systems, which have started to become much more intelligent and much more general.", start: 299.96, end: 309.18}
+  - {text: "These systems now probably about as smart as you or me or on a good day smarter.", start: 309.78, end: 315.26}
+  - {text: "The basic risk is how well do you fancy your chances at being able to deal with the risks of a system that is a hundred", start: 315.82, end: 322.44}
+  - {text: "times smarter than the smartest person on the planet?", start: 322.44, end: 324.78}
+  - {text: "I think pretty low.", start: 325.16, end: 326.28}
+  - {text: "Today, these systems are just hacking into websites that host other AI systems.", start: 326.68, end: 330.76}
+  - {text: "What would happen if a swarm of agents hacked into a bank or into a hospital?", start: 331.08, end: 335.54}
+  - {text: "That could be really, really dangerous.", start: 335.88, end: 337.54}
+  - {text: "So now we've had the warning shot.", start: 337.88, end: 339.20}
+  - {text: "We need to talk about pacing, and we need to get a policy regime in place.", start: 339.56, end: 342.98}
+  - {text: "Get third parties to come in and embed themselves in these companies, audit what we're doing, check our safety and security.", start: 343.28, end: 350.58}
+  - {text: "So it's not just us writing our own safety and security playbooks, but there are third parties checking it.", start: 350.78, end: 356.06}
+  - {text: "Number two, get industry together to agree on common standards that we can implement to reduce the risk of this and then get governments to agree that those are sensible standards.", start: 356.28, end: 365.62}
+  - {text: "And then the third step, which will be the hardest one, is get the world's great powers, including the US and China, to have dialogue about this", start: 366.38, end: 373.94}
+  - {text: "because these issues transcend any individual country or set of nations.", start: 373.94, end: 377.82}
+  - {text: "I would say if you don't take any actions today, you are massively increasing the chances of ending up with impossible to control AI systems.", start: 378.50, end: 387.30}
+  - {text: "It raises the question of some sort of kill switch.", start: 387.30, end: 389.74}
+  - {text: "I mean, have you guys got one?", start: 389.98, end: 391.42}
+  - {text: "Can you pull the plug?", start: 391.68, end: 392.40}
+  - {text: "Most labs have different ways of being able to pull the plug.", start: 392.88, end: 395.40}
+  - {text: "And yes, of course, we have systems in place for this.", start: 395.52, end: 397.68}
+  - {text: "But this is the kind of thing that you want to feed into the larger policy conversation.", start: 397.84, end: 402.40}
+  - {text: "Should you mandate that companies definitely have a kill switch and is that kill switch verifiable by a third party?", start: 402.68, end: 408.00}
+  - {text: "That's the kind of thing that society is going to want to know and might want to eventually pass rules around.", start: 408.34, end: 412.64}
+  - {text: "Put it all together.", start: 412.96, end: 413.58}
+  - {text: "Is it really worth it?", start: 414.16, end: 415.44}
+  - {text: "Does it cause you sleepless nights?", start: 415.62, end: 416.86}
+  - {text: "What might happen? Of course, I've worked in this field for 10 years.", start: 417.20, end: 421.60}
+  - {text: "I've thought about AI and wanted to work in this field for 20 years.", start: 421.80, end: 425.26}
+  - {text: "The whole time I've seen this technology coming in the contours of it and I felt this trepidation and anxiety that the world didn't realize what was happening", start: 425.84, end: 433.46}
+  - {text: "and the world didn't realize how big a deal this technology was going to be.", start: 433.98, end: 437.30}
+  - {text: "Well, good news. Now the world realizes and we have to get this right.", start: 437.56, end: 441.78}
+  - {text: "I think if we get this technology right, we are going to change the world in so many positive ways.", start: 442.14, end: 448.26}
+  - {text: "We are going to genuinely change the face of science, change the face of healthcare.", start: 448.58, end: 453.10}
+  - {text: "We're going to extend the frontiers of what you or I or any of our children could ever do.", start: 453.66, end: 457.68}
+  - {text: "And if we get it wrong, we are going to massively disrupt the economy and misery people and potentially cause harm.", start: 458.18, end: 465.30}
+  - {text: "We have to get this right.", start: 465.72, end: 466.94}
+  - {text: "So why is the US president so relaxed when even tech bosses are warning about the risks?", start: 467.46, end: 473.50}
+  - {text: "A question for our chief North America correspondent, Gary O'Donohue.", start: 474.02, end: 477.74}
+  - {text: "I think both he and the vice president are very suspicious of the intervention of the tech bosses.", start: 478.28, end: 483.56}
+  - {text: "For these reasons, one, they believe that this sort of call for regulation from the big companies is, as JD Vance put it, something of a Trojan horse.", start: 484.32, end: 493.38}
+  - {text: "And what they mean by that or what they seem to be suggesting is that if you're a massive company already, you can cope with regulation.", start: 493.54, end: 500.40}
+  - {text: "You've got billions of dollars at your disposal and it can be a way of sort of closing down the markets and new entrants and things like that.", start: 500.82, end: 507.72}
+  - {text: "So I think they're suspicious on that front.", start: 507.80, end: 509.38}
+  - {text: "And secondly, in terms of the president, he's much more gung -ho about the threat from China and letting China get away in the AI race.", start: 510.12, end: 517.34}
+  - {text: "Whereas, interestingly, the vice president was saying, look, there are risks, there are downsides.", start: 517.70, end: 522.18}
+  - {text: "We should be smart about our regulation as long as we stay ahead of the curve.", start: 522.34, end: 525.58}
+  - {text: "Yeah. I mean, President Trump said the US is in a winner -takes -all race against China.", start: 526.04, end: 530.90}
+  - {text: "So could the US and China ever work together over regulation, as the anthropic boss had suggested?", start: 531.46, end: 537.42}
+  - {text: "Well, I think there are some possibilities.", start: 537.84, end: 539.40}
+  - {text: "I mean, it's not that one power is going to have AI and the rest of the world isn't.", start: 539.70, end: 543.58}
+  - {text: "Everyone's going to have it.", start: 543.96, end: 545.28}
+  - {text: "It's just a question of whether they can find some common ground.", start: 545.78, end: 548.08}
+  - {text: "So for example, making sure that threats from the third parties, from groups that want to attack nation -states, maybe that information could be shared.", start: 548.18, end: 558.24}
+  - {text: "You'd want agreements, wouldn't you, over autonomous weapons and how to sort of intervene if they started to fire themselves.", start: 558.80, end: 566.78}
+  - {text: "I mean, I'm sort of casting a power into science fiction slightly.", start: 567.20, end: 570.82}
+  - {text: "But you'd want those sorts of controls and you'd want some kind of potential hotline, kill switch, whatever you want to call it so that just enduring the nuclear era,", start: 571.00, end: 581.00}
+  - {text: "there's an ability to contact and to communicate.", start: 581.16, end: 584.04}
+  - {text: "So something's gone badly wrong here.", start: 584.48, end: 586.06}
+  - {text: "It looks like you're under attack.", start: 586.60, end: 587.94}
+  - {text: "We don't think this is us.", start: 588.06, end: 588.94}
+  - {text: "We think this is what's going on.", start: 589.04, end: 590.08}
+  - {text: "You'd want to be able to do that, whether or not they can get to that place while still having a sort of competition, a genuine competitive position in terms of the technology is a tricky one", start: 590.14, end: 601.56}
+  - {text: "because that's obviously a balance of two different things that can conflict.", start: 601.56, end: 604.62}
+  - {text: "Gary O'Donoghue speaking to Oliver Conway.", start: 605.42, end: 607.86}
+  - {text: "So if this is a race between the US and China, what's the view in Beijing?", start: 608.50, end: 613.46}
+  - {text: "Our correspondent Laura Bicker is there.", start: 614.02, end: 616.36}
+  - {text: "So when it comes to those alarm bells, China hasn't explicitly acknowledged the fact that there is a call for a slowdown.", start: 616.82, end: 623.66}
+  - {text: "In fact, they've pushed back against any suggestion that their development in artificial intelligence may pose a risk to any international security.", start: 623.80, end: 632.58}
+  - {text: "However, when it comes to the slowdown, President Xi Jinping has long called for a global governance framework, some kind of rule book for the development of artificial intelligence.", start: 633.32, end: 644.98}
+  - {text: "And those calls have been coming for a year.", start: 645.14, end: 646.52}
+  - {text: "And once again, over the weekend, while in India at the BRICS summit, he addressed countries calling for that international framework.", start: 646.66, end: 655.04}
+  - {text: "What we don't know is what that exactly looks like.", start: 655.28, end: 657.82}
+  - {text: "Also, when it comes to the kind of agreement that might have to happen between the two superpowers as they race to win on AI, the development here is very,", start: 658.10, end: 668.10}
+  - {text: "very different to those in the United States.", start: 668.12, end: 670.30}
+  - {text: "First of all, it all comes from the top down.", start: 670.30, end: 672.08}
+  - {text: "There is already a kind of international strategy and also national rules governing the development of AI.", start: 672.24, end: 679.20}
+  - {text: "China advocates a more open source policy, sharing of the technology.", start: 679.62, end: 684.10}
+  - {text: "In doing that, they hope to make it cheaper, more accessible, so that when it comes to a choice, people may download Chinese applications which are easier on the pocket.", start: 684.56, end: 692.98}
+  - {text: "And then when it comes to the kind of integration of AI, you get top code here from kindergarten age.", start: 693.44, end: 700.04}
+  - {text: "If you're an adult that wants to learn about AI, you can go to a special study hall.", start: 700.34, end: 704.62}
+  - {text: "AI is being integrated in society right from the bottom up.", start: 705.22, end: 709.40}
+  - {text: "And that is where China believes it can win.", start: 709.62, end: 712.20}
+  - {text: "To Turkey, where police have fired tear gas at protesters in the western city of Izmir.", start: 714.00, end: 720.34}
+  - {text: "The demonstrators who were chanting slogans such as hate kills, not love, were marching against the increasing targeting of the LGBTQ community in Turkey.", start: 727.98, end: 739.22}
+  - {text: "On Sunday, dozens were arrested in wide raids on gay bars and private homes.", start: 739.50, end: 744.68}
+  - {text: "A court has suspended social media accounts of human rights groups, journalists and campaigners, citing national security concerns.", start: 745.12, end: 753.04}
+  - {text: "Our correspondent in Istanbul, Ola Gerin, has more.", start: 753.58, end: 756.92}
+  - {text: "Turkey told the BBC this was a first for the organisation and said it was very concerning.", start: 771.50, end: 777.52}
+  - {text: "But she added, it's not just us, it's part of a broader operation.", start: 778.08, end: 782.64}
+  - {text: "Turkey says it is protecting family values and social order.", start: 783.40, end: 787.78}
+  - {text: "Human rights activists say the state is intensifying a campaign of discrimination.", start: 788.44, end: 793.92}
+  - {text: "President Recep Tayyip Erdogan has blamed LGBTQ people for the country's falling birth rate and has called them perverts.", start: 794.68, end: 803.70}
+  - {text: "Pride parades have been banned since 2015.", start: 804.48, end: 807.66}
+  - {text: "Critics see the latest moves by the authorities as an attack on human rights and free speech.", start: 808.82, end: 814.88}
+  - {text: "The European Parliament's rapporteur on Turkey has said the arrests were a shocking escalation of repression.", start: 815.66, end: 822.70}
+  - {text: "Ola Gerin in Istanbul.", start: 823.34, end: 825.38}
+  - {text: "Still to come in this podcast.", start: 828.08, end: 830.08}
+  - {text: "Lately we've been taking such huge steps forward in the world of female athletes and being taken seriously, but this does feel like a big step backwards.", start: 830.42, end: 837.44}
+  - {text: "The Sydney -Sweeney advert that's caused an uproar in women's sport.", start: 838.16, end: 842.90}
+  - {text: "This is the Global News Podcast.", start: 849.39, end: 851.65}
+  - {text: "The US Environmental Protection Agency, the EPA, is scrapping limits on emissions from coal and gas power plants.", start: 852.44, end: 860.44}
+  - {text: "The move is expected to face immediate legal challenges with environmental groups saying that removing the regulations will come at a huge cost to Americans' health and the planet.", start: 860.94, end: 871.00}
+  - {text: "Samira Hussein reports. President Trump has described man -made climate change as the greatest con job ever perpetrated on the world.", start: 871.50, end: 879.56}
+  - {text: "Accordingly, his administration has long indicated that it wants to ditch the restrictions that his predecessors placed on how many greenhouse gases, coal and natural gas -fired power stations could emit.", start: 880.06, end: 892.26}
+  - {text: "Now the rule change announced by EPA Administrator Lee Zeldin will make it possible for the power -generating sector to put many more of the gases that cause global warming into the atmosphere.", start: 892.96, end: 905.02}
+  - {text: "Today we are repealing the majority of the burdensome 2024 requirements so that Americans can benefit from our nation's full energy potential.", start: 905.32, end: 915.29}
+  - {text: "But we aren't just stopping with the Biden administration's overreach.", start: 916.29, end: 919.63}
+  - {text: "We are also proposing to rescind all remaining greenhouse gas emission standards for power plants, all of them.", start: 920.61, end: 928.07}
+  - {text: "The reality is that America produces energy better and cleaner than anywhere else in the world.", start: 928.43, end: 934.35}
+  - {text: "Now the power -generating sector is already the second biggest source of greenhouse gases in America after transportation.", start: 934.83, end: 941.01}
+  - {text: "Mr. Zeldin says his moves will save the industry over $300 billion.", start: 941.65, end: 946.97}
+  - {text: "It's a different day under President Trump.", start: 947.73, end: 949.39}
+  - {text: "The overbearing and often unlawful rules that were sought by prior administrations to destroy reliable basal of power made energy prices skyrocket and threatened many communities and states throughout our country.", start: 950.13, end: 966.41}
+  - {text: "Now this comes as the rapid construction of data centers has created huge new demand for electricity.", start: 966.89, end: 973.91}
+  - {text: "Our business correspondent, Samira Hussain, in New York.", start: 974.49, end: 977.63}
+  - {text: "Prince Harry, King Charles' youngest son, has just moved back to the UK with his family, but it has now emerged that he and his wife, Meghan,", start: 979.00, end: 987.48}
+  - {text: "have changed their children's school only days after they first started over security concerns about Archie and Lilibut's school run.", start: 987.94, end: 995.46}
+  - {text: "And a big question after the family's return to Britain is who should pay for the Sussexes security.", start: 995.96, end: 1001.34}
+  - {text: "Their status was downgraded six years ago after they stepped back from being working royals.", start: 1001.76, end: 1007.34}
+  - {text: "It is understood that their publicly funded protection will be reviewed now they and their two children are full -time residents in the country.", start: 1007.60, end: 1015.60}
+  - {text: "I asked our royal correspondent, Sean Cochlan, why their security had become such a talked about subject in Britain.", start: 1016.06, end: 1022.38}
+  - {text: "Well, I suppose in the past it was controversial because they were living in California and Prince Harry particularly was very exercised by the fact that when he returned to the UK,", start: 1022.94, end: 1031.92}
+  - {text: "he didn't have the level of security that he thought he should be afforded because he thought the risks hadn't really changed.", start: 1032.46, end: 1039.06}
+  - {text: "He was still a member of the royal family.", start: 1039.12, end: 1040.84}
+  - {text: "He was still the son of the king.", start: 1041.00, end: 1043.16}
+  - {text: "What's changed now is perhaps is that they are now full -time residents of the UK and the arrangements which previously had related to the sort of occasional trips have changed.", start: 1043.50, end: 1051.72}
+  - {text: "And there's a committee that considers these things, which is known as RAVEC, which is the Executive Committee for the Protection of Royalty and Public Figures.", start: 1052.14, end: 1060.20}
+  - {text: "And that considers what level of public protection should be afforded to royalty or VIPs.", start: 1060.54, end: 1067.48}
+  - {text: "And it now seems that that committee has met and wants to reconsider the level of security that should be given to Prince Harry, to Meghan and to their children.", start: 1067.86, end: 1077.62}
+  - {text: "Their circumstances have changed and so there's a review that is now considering whether the level of security should change to reflect that.", start: 1077.62, end: 1085.52}
+  - {text: "Because they're not proposing to pay for it themselves.", start: 1085.70, end: 1087.82}
+  - {text: "Are they out of their private incomes?", start: 1088.02, end: 1089.56}
+  - {text: "They want this to be funded by the British taxpayer.", start: 1089.72, end: 1091.92}
+  - {text: "This would be public funding and it might be as well as their own private security, we don't know.", start: 1092.30, end: 1098.16}
+  - {text: "And also in the nature of these things, the levels of security are always confidential that the Home Office will never say exactly what has been provided", start: 1098.74, end: 1108.20}
+  - {text: "or what the risks are that this is relating to.", start: 1108.20, end: 1111.34}
+  - {text: "So it's all surrounded by a bit of a cloud of confidentiality.", start: 1111.52, end: 1114.64}
+  - {text: "Because their security is in the news in more than one way, their children went to school briefly in the UK and then had to be moved to another school because of security concerns.", start: 1114.82, end: 1123.56}
+  - {text: "Well, that's, yes, that's a rather strange twist in the tale that we've heard this evening.", start: 1124.02, end: 1127.86}
+  - {text: "Their children had begun a new school, they'd moved from the US, moved to the UK and I suppose they'd gone through the difficult thing about starting a new school, always tough for any family, always tough for any child.", start: 1128.46, end: 1140.72}
+  - {text: "And they'd only been there for a couple of days when it's been decided that they will have to move school again.", start: 1141.12, end: 1146.48}
+  - {text: "And the thinking behind that it seems is that their private security team was anxious about whether they could make the school run sufficiently secure.", start: 1146.78, end: 1155.66}
+  - {text: "And there seemed to be specific worries about the heavy traffic on the school run and the distance they had to travel.", start: 1156.22, end: 1162.80}
+  - {text: "We don't know exactly which school it's at or what distances they did have to travel, but it seems that was enough to trouble their security advisors", start: 1162.96, end: 1169.90}
+  - {text: "who thought that that wasn't safe and they will now be going to another school.", start: 1169.90, end: 1173.94}
+  - {text: "It does feel, Sean, as though there are real tensions between Harry and Meghan and the royal family, the firm as they're often talked about since their return to the UK.", start: 1174.14, end: 1185.34}
+  - {text: "Well, I think that's right and elements like the security question are part of the same swirl of questions about what's their function.", start: 1185.62, end: 1191.08}
+  - {text: "They'll be appearing soon at big public events and I suppose for many people they'll look like royal occasions, they'll be there waving and smiling and having photographs taken", start: 1191.44, end: 1200.50}
+  - {text: "and they'll be treated a bit like a royal visit.", start: 1200.50, end: 1203.36}
+  - {text: "But the Buckingham Palace institution will say that's completely wrong.", start: 1203.52, end: 1206.06}
+  - {text: "These are just people who are carrying events out like a celebrity might.", start: 1206.28, end: 1210.56}
+  - {text: "And I think there's a kind of tension there.", start: 1210.80, end: 1212.28}
+  - {text: "There's a battle possibly for media attention.", start: 1212.66, end: 1215.18}
+  - {text: "There's a battle for public opinion as well.", start: 1215.50, end: 1217.58}
+  - {text: "And I think these things will play out this water.", start: 1217.70, end: 1219.76}
+  - {text: "They've been away a long time.", start: 1220.08, end: 1221.16}
+  - {text: "They've come back a bit like a so -proper script.", start: 1221.52, end: 1223.48}
+  - {text: "The character who's left has turned up again and that always means conflict.", start: 1223.92, end: 1227.60}
+  - {text: "Sean Cochlan. A diagnosis of breast cancer was once regarded as a death sentence, but over the past 50 years treatment and results have been transformed.", start: 1228.34, end: 1239.00}
+  - {text: "Professor Ian Smith, an oncologist and a world -leading expert on the disease, has just published a book, Doctor I Found a Lump, which he calls The Pioneering Story of Breast Cancer Medicine.", start: 1239.44, end: 1251.22}
+  - {text: "A former patient, Debbie McMenemem and Professor Smith have been speaking to the BBC about their experiences.", start: 1251.92, end: 1258.40}
+  - {text: "When I began, more than 60 % of patients died of breast cancer, the majority.", start: 1258.90, end: 1264.76}
+  - {text: "But now it's less than 30%.", start: 1265.52, end: 1268.48}
+  - {text: "It's one of the dramatic stories in whole of medicine, I think.", start: 1268.48, end: 1272.98}
+  - {text: "The main reason is that what we didn't realize was that little microscopic cancer cells develop very early on in breast cancer.", start: 1273.64, end: 1282.98}
+  - {text: "And by the time the patient comes to the hospital with a lump, these microscopic cancer cells have often spread.", start: 1283.08, end: 1289.58}
+  - {text: "So it doesn't matter how skillful the surgeon is, it's too late.", start: 1289.80, end: 1293.08}
+  - {text: "And once we realized that and started giving medical treatment after surgery to cool these cells off, this is what we call adjuvant medical therapy, that was the biggest transformation.", start: 1293.44, end: 1305.48}
+  - {text: "Debbie, can I bring you in?", start: 1306.24, end: 1307.48}
+  - {text: "You were one of those people who went to Professor Smith and said, Doctor, I found a lump.", start: 1307.84, end: 1313.64}
+  - {text: "The lump was identified as being an aggressive form of breast cancer.", start: 1314.02, end: 1317.40}
+  - {text: "And I was encouraged to have chemotherapy, radiotherapy, and five years of endocrine therapy to moxifen.", start: 1317.68, end: 1326.28}
+  - {text: "And I myself benefited from real time research in as much as I was prescribed to moxifen for five years.", start: 1326.90, end: 1334.58}
+  - {text: "And at the end of those five years, I was told that the research that had been running during those first five years showed that it would be for people like me,", start: 1335.12, end: 1343.24}
+  - {text: "it would be better to take it for 10 years.", start: 1343.54, end: 1345.52}
+  - {text: "So I felt very conscious that I was benefiting from my self research.", start: 1345.88, end: 1350.40}
+  - {text: "One of the best pieces of advice he gave me was, don't look at the packet, don't read the side effects, because most people don't have any.", start: 1350.88, end: 1358.52}
+  - {text: "There have been big advances in screaming.", start: 1358.84, end: 1361.10}
+  - {text: "But is there a danger of over diagnosis?", start: 1361.60, end: 1364.52}
+  - {text: "Screening in breast cancer is very controversial.", start: 1365.54, end: 1367.62}
+  - {text: "It's never convincingly been shown, in my view, to save lives.", start: 1368.28, end: 1372.40}
+  - {text: "The improvement in survival is just as high in younger women who were never screamed as in older women.", start: 1372.92, end: 1380.20}
+  - {text: "Early detection is very important.", start: 1380.52, end: 1382.30}
+  - {text: "A woman finds a lump.", start: 1382.46, end: 1383.62}
+  - {text: "What are the things that are exciting you about the next potential steps?", start: 1383.80, end: 1387.52}
+  - {text: "We now have the technology to see what the specific gene mutations are in a cancer.", start: 1387.98, end: 1394.90}
+  - {text: "You can design a drug to target the mutation and switch it off.", start: 1395.40, end: 1399.50}
+  - {text: "So we're now in an era of targeted therapy.", start: 1399.84, end: 1402.42}
+  - {text: "And the one other thing is liquid biopsies.", start: 1403.06, end: 1406.78}
+  - {text: "In the past, we couldn't detect these microscopic cells.", start: 1407.26, end: 1411.02}
+  - {text: "Now we can start to detect little bits of DNA, that's the genetic material, from the cancer in the bloodstream.", start: 1411.20, end: 1419.58}
+  - {text: "And if that's there, it means the patient needs treatment to get rid of it.", start: 1419.58, end: 1424.18}
+  - {text: "And if you start treatment and the DNA goes away, then it shows the treatment's working.", start: 1424.68, end: 1431.08}
+  - {text: "So we're going to be much more confident that an individual patient is on the right drug.", start: 1431.78, end: 1437.12}
+  - {text: "And Debbie, the fundraising that you've been involved in, it suggests that you're fully recovered.", start: 1437.48, end: 1441.94}
+  - {text: "Through Ian, I've got involved in a big cycling event.", start: 1442.22, end: 1444.64}
+  - {text: "We go to the Alps, we cycle for four days up mountains to ensure that we have climbed an elevation equal to the height of Everest on our bikes.", start: 1445.08, end: 1455.40}
+  - {text: "So it's very arduous, but it's great fun.", start: 1455.96, end: 1458.06}
+  - {text: "But it suggests that you're in good shape.", start: 1458.40, end: 1460.32}
+  - {text: "Well, to an extent, but I have to say, having just read the book last night, Ian talks about how exercise reduces the risk of recurrence by up to 40%.", start: 1461.02, end: 1474.28}
+  - {text: "So dare I say it, any fit and healthy post -treatment breast cancer patients should be doing this with us because it's good for them and it's good for research.", start: 1474.76, end: 1483.92}
+  - {text: "Breast cancer survivor Debbie McMenemem and British oncologist Professor Ian Smith talking to Tim Franks.", start: 1484.48, end: 1493.02}
+  - {text: "The US actress Sydney Sweeney has a history of controversial marketing campaigns, selling soap infused with her own bath water and posing in a genes advert that hinted at eugenics.", start: 1493.57, end: 1505.89}
+  - {text: "Her latest ad promoting a betting app is now ruffling feathers in the world of sport after it showed her in highly revealing poses.", start: 1506.27, end: 1514.75}
+  - {text: "Dozens of female athletes say it objectifies women in sport.", start: 1515.31, end: 1519.25}
+  - {text: "Halena Burke has the story.", start: 1519.69, end: 1521.63}
+  - {text: "This ad for the sports betting app Novig shows Sydney Sweeney completely naked with various sports equipment strategically covering certain parts of her body.", start: 1529.25, end: 1539.24}
+  - {text: "Since it was posted on Instagram last week, the video has received nearly 40 million views.", start: 1539.84, end: 1544.46}
+  - {text: "You can trade the sport and the sport.", start: 1544.80, end: 1548.89}
+  - {text: "But not everyone is a fan.", start: 1549.70, end: 1551.72}
+  - {text: "A string of athletes have criticized the video saying that it sets women's sport back by framing female athletes as sexual objects.", start: 1552.28, end: 1559.48}
+  - {text: "After finishing her race at the World Athletics Ultimate Championship, the British sprinter Amy Hunt joined the chorus.", start: 1560.10, end: 1566.04}
+  - {text: "In response to the ad, dozens of videos have been posted online by female athletes showing themselves training and competing.", start: 1573.12, end: 1580.76}
+  - {text: "The Olympic water polo player Tilly Kearns told the Australian Broadcasting Corporation that she believes the ad undermines the progress made in changing public perceptions of women's sport.", start: 1581.46, end: 1591.56}
+  - {text: "It's something that myself, but most female athletes, kind of spend our whole career is trying to rebuttle the idea that we are a lot more than obviously just our bodies.", start: 1591.98, end: 1600.44}
+  - {text: "Lately, we've been taking such huge steps forward in the world of female athletes and being taken seriously.", start: 1601.02, end: 1606.12}
+  - {text: "But this does feel like a big step backwards.", start: 1606.42, end: 1608.10}
+  - {text: "In recent years, a number of sports have relaxed uniform requirements for women, giving athletes more freedom over what they wear.", start: 1608.40, end: 1614.62}
+  - {text: "Female beach volleyball players are now permitted to wear shorts instead of bikini bottoms, while gymnasts in France are no longer required to wear high -cut leotards.", start: 1615.16, end: 1623.18}
+  - {text: "Sydney Sweeney responded to the backlash by posting photos from the sports magazine ESPN, which featured athletes either naked or semi -nude.", start: 1623.84, end: 1631.94}
+  - {text: "But Tilly Kearns believes that's not a fair comparison.", start: 1632.48, end: 1635.30}
+  - {text: "She's posted the athletes, but they're posed for this magazine as athletes, firstly, and I think the way that they're posed is look at what my body can do for me in whatever the sport is,", start: 1635.68, end: 1646.30}
+  - {text: "and I think it's vastly different from her ad, which was her pose saying look at my body instead of looking at what it can do.", start: 1646.64, end: 1654.04}
+  - {text: "As the old saying goes, all publicity is good publicity.", start: 1654.42, end: 1658.08}
+  - {text: "Many people online have praised the ad, while others claim that the negative reaction to it is actually helping promote the brand.", start: 1658.68, end: 1664.54}
+  - {text: "Dr Cherie Braddish, a sports marketing expert from Toronto Metropolitan University, is not convinced that the backlash will actually help the betting app.", start: 1665.20, end: 1672.96}
+  - {text: "I think that they will realise in a post mortem how this really didn't hit the mark with so many key demographics and with the women's sports marketplace in particular.", start: 1672.96, end: 1684.22}
+  - {text: "I do feel like we have a healthier marketplace that is beginning in very sophisticated ways, addressing who the true female athlete is and recognizing and representing women in sport in a really healthy, accurate way.", start: 1684.84, end: 1699.82}
+  - {text: "The BBC has contacted Sidney Sweeney and No Big for comment.", start: 1700.30, end: 1703.58}
+  - {text: "Hey, Lena Burke. And that's all from us for now.", start: 1704.38, end: 1711.03}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1711.41, end: 1718.07}
+  - {text: "You can also find us on X at BBC World Service.", start: 1718.43, end: 1722.09}
+  - {text: "Use the hashtag Global NewsPod and don't forget our sibling podcast, The Global Story, which goes in -depth and beyond the headlines on one big story.", start: 1722.27, end: 1733.73}
+  - {text: "This edition of the Global News podcast was mixed by Darcy O 'Bree and the producer was Stephanie Zachresson.", start: 1734.45, end: 1741.57}
+  - {text: "The editor is Karen Martin.", start: 1741.89, end: 1743.77}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1744.31, end: 1746.73}
+---

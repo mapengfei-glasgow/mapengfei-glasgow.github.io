@@ -1,0 +1,213 @@
+---
+layout: single
+title: "Dario Amodei from AI's Anthropic issues a stark warning"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-13T00:00:00Z
+slug: "2026-09-13-dario-amodei-from-ais-anthropic-issues-a-stark-warning"
+audioDir: "2026-09-13-dario-amodei-from-ais-anthropic-issues-a-stark-warning"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-13-dario-amodei-from-ais-anthropic-issues-a-stark-warning/episode.mp3"
+totalDuration: 1761.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.96}
+  - {text: "I'm Pete Ross and in the early hours of Sunday the 13th of September, these are our main stories.", start: 5.50, end: 10.52}
+  - {text: "Three AI bosses call for the development of artificial intelligence to be slowed down due to concerns over safety.", start: 11.28, end: 18.22}
+  - {text: "The right -wing party Reform UK gets another donation of nearly $50 million.", start: 18.70, end: 23.06}
+  - {text: "The second in as many days from a cryptocurrency billionaire.", start: 24.08, end: 27.50}
+  - {text: "The first way of thinking about it that I had was, maybe it's not pointless for people to see what terrorism looks like.", start: 27.50, end: 34.80}
+  - {text: "I'm going to tell the story and the attacker doesn't get to be the storyteller.", start: 34.94, end: 39.10}
+  - {text: "The author Salman Rushdie discusses a new film about the vicious knife attack that left him blind in one eye.", start: 39.50, end: 45.34}
+  - {text: "Also in this podcast at least 16 people have died in a fire at a nursing home in Chile and in tennis Yelena Rabakina has become the US Open Women's Singles Champion.", start: 48.52, end: 59.20}
+  - {text: "When artificial intelligence first hit the mainstream, it was promised to be a game changer for economic growth and human well -being.", start: 63.09, end: 70.25}
+  - {text: "But in a major shift, the CEO of one of the US's leading AI companies, Dario Amodi of Anthropic published a lengthy post warning the industry", start: 70.63, end: 80.21}
+  - {text: "to slow down before safety risks get out of hand.", start: 80.21, end: 83.27}
+  - {text: "Elon Musk and the Open AI boss Sam Altman both said they agreed with him.", start: 83.67, end: 88.25}
+  - {text: "Last week a couple of Anthropic executives resigned.", start: 88.75, end: 91.37}
+  - {text: "One of them, Jacob Coxon, told the BBC that quote, if we don't slow down at the current rate of progress, there's a strong chance that", start: 91.37, end: 99.23}
+  - {text: "we could all die in the immediate future.", start: 99.23, end: 101.23}
+  - {text: "Our North America technology correspondent is Lily Jamali.", start: 101.57, end: 104.63}
+  - {text: "This essay from Anthropic CEO Dario Amodi has really made the rounds in Silicon Valley throughout this morning and into this afternoon here.", start: 105.07, end: 114.83}
+  - {text: "Nearly 4 ,000 words long, he lays out his concerns that the risks associated with artificial intelligence technology are very serious, even though he also says there are tremendous benefits so that it doesn't make sense to stop developing it,", start: 115.41, end: 131.41}
+  - {text: "but that the pace of development should slow.", start: 131.45, end: 134.19}
+  - {text: "So he proposed creating a system that, first of all, gives governments a little more time than they currently have to properly regulate this technology.", start: 134.33, end: 144.17}
+  - {text: "And he also floated the idea of monitors that would be independent third parties with the same access that company employees have to the models so that they can keep tabs on what's happening both as the models are being developed and then later also when they're deployed.", start: 144.17, end: 163.19}
+  - {text: "Lily Jamali in San Francisco.", start: 164.05, end: 165.81}
+  - {text: "Gina Neff is a professor of responsible AI at Queen Mary University of London and an expert on what the technology can do.", start: 166.33, end: 173.93}
+  - {text: "Owen Bennett -Joan spoke to her and asked if universal regulation is getting closer.", start: 174.17, end: 178.87}
+  - {text: "They're saying regulate me with huge caveats.", start: 179.57, end: 183.37}
+  - {text: "Dario Amodi is calling to quote, pace the frontier of AI development just as the company are floating a $1 .6 trillion IPO.", start: 183.71, end: 193.61}
+  - {text: "His message is clear.", start: 194.43, end: 195.57}
+  - {text: "Anthropics say they have such powerful technology that only they should be entrusted with it.", start: 196.07, end: 201.37}
+  - {text: "The sentiment is both undemocratic and also cynical.", start: 201.37, end: 204.49}
+  - {text: "But I think we all need to be heeding Amidae's warning here.", start: 205.11, end: 208.79}
+  - {text: "The technical development of AI right now outpaces the social, legal and regulatory advances that we're going to need if we're going to use AI safely in society.", start: 209.47, end: 219.49}
+  - {text: "So are you saying that Amidae, the head of Anthropic, is basically saying, yeah, he's thinking.", start: 219.91, end: 224.59}
+  - {text: "Anthropic's in the lead.", start: 225.07, end: 226.13}
+  - {text: "So it's fine if we freeze developments just now because it'll leave me ahead.", start: 226.23, end: 229.83}
+  - {text: "They absolutely want to pace right at the moment when they're in the lead.", start: 229.83, end: 234.83}
+  - {text: "Open AI just announced that they are putting a pause on their own IPO because it would be unsafe to do so at this particular moment.", start: 235.49, end: 245.15}
+  - {text: "Anthropic is going ahead.", start: 245.71, end: 246.99}
+  - {text: "What they're calling for in this regulation though is thin when it comes to regulation.", start: 247.51, end: 251.61}
+  - {text: "It's like regulation proposed by a high school dropout of Model UN.", start: 251.93, end: 256.13}
+  - {text: "They would hire independent evaluators to sit in house with the company.", start: 256.13, end: 260.41}
+  - {text: "Now, we've seen that story of businesses doing self -regulation before and it always fails.", start: 260.75, end: 265.77}
+  - {text: "Amidae has said rogue AI agents could take over the internet in six to 12 months, causing hundreds of billions of dollars in damage.", start: 266.77, end: 273.33}
+  - {text: "What does he mean would actually happen?", start: 273.53, end: 275.31}
+  - {text: "Yeah, this is going on the heels of one of Anthropic's regular reports around the cybersecurity abuses and other harms that they've detected within the company.", start: 275.65, end: 287.11}
+  - {text: "What they can see is that bad actors around the world are using Claude tools, like ordinary people do, to do some bad things.", start: 287.91, end: 297.09}
+  - {text: "And they're worried that as we move to what's called the agentic AI moment that these agents might not be able to be controlled.", start: 297.51, end: 306.31}
+  - {text: "They want good people and in this mis -of he published, democratic people and people in the US to control AI and not other countries in the world.", start: 306.31, end: 317.13}
+  - {text: "The report has lots of examples of China, Iran and Yemen using Claude tools to do bad things.", start: 317.37, end: 325.61}
+  - {text: "You've used this word agents.", start: 325.79, end: 327.13}
+  - {text: "It's slightly confusing. And basically what that word means, not rogue agents really, rogue computer programs.", start: 327.39, end: 333.51}
+  - {text: "Is that right? Agents aren't rogue.", start: 333.81, end: 335.07}
+  - {text: "Agents are simply computer programs that can work autonomously without being specifically programmed to do a particular task.", start: 335.27, end: 343.43}
+  - {text: "So they're given a goal and they're said crack on.", start: 343.61, end: 346.05}
+  - {text: "And the challenge here is that they haven't been to school, they haven't been to church, they don't have human discernment.", start: 346.95, end: 352.87}
+  - {text: "So the kinds of values that AI agents have to go about those goals aren't human values.", start: 353.21, end: 359.77}
+  - {text: "We might understand if something is illegal or immoral or could really get us into trouble.", start: 360.25, end: 365.31}
+  - {text: "AI agents don't have that sense of right and wrong.", start: 365.75, end: 368.09}
+  - {text: "Yeah. And you can't just tell them to obey the law.", start: 368.31, end: 370.23}
+  - {text: "That's right. You can put in guardrails and you can put in safeguards that make sure these agents aren't stringing together very complex tasks.", start: 370.47, end: 381.59}
+  - {text: "And that's partly what Amade is calling for here.", start: 381.93, end: 385.07}
+  - {text: "Remember, Anthropic was founded five years ago by computer programmers who broke away from open AI because they thought that company was not doing enough for AI safety.", start: 385.07, end: 395.25}
+  - {text: "And now they're in the lead, they're saying they should be the ones to create safe AI.", start: 395.63, end: 400.41}
+  - {text: "Gina Neff speaking to Owen Bennett -Jones.", start: 401.43, end: 403.63}
+  - {text: "Nigel Farage has been a disruptor in British politics for many years and was a key figure in the Brexit movement that saw the UK vote to leave the European Union.", start: 404.80, end: 413.42}
+  - {text: "Some have even tipped him to be the next Prime Minister.", start: 413.93, end: 416.52}
+  - {text: "Now, his populist right -wing party Reform UK, which has been accused of stoking violent anti -immigration protests, has received almost $100 million in donations in the space of two days by the cryptocurrency billionaires Ben Dello and Christopher Harbourn.", start: 417.18, end: 433.48}
+  - {text: "The party's deputy leader Richard Tice said there was nothing wrong with receiving such a huge sum of money.", start: 433.96, end: 439.26}
+  - {text: "We should celebrate when entrepreneurs want to try to help a country that's in serious difficulty and provide greater choice to voters.", start: 439.80, end: 447.96}
+  - {text: "That's the key thing.", start: 448.30, end: 449.20}
+  - {text: "And to have that support, to know that we can focus on employing the best people, whether it be on social media, policy, campaign managers, that's a good thing.", start: 449.80, end: 459.48}
+  - {text: "Nigel Farage is already being investigated by the British Parliament over whether he should have declared a cash gift of $7 million from Mr Harbourn.", start: 460.22, end: 468.40}
+  - {text: "He has said it's not the public's business to know details of how he spends that money.", start: 468.40, end: 473.58}
+  - {text: "Reform UK itself is also the subject of a probe by the police over donations to the party which denies any wrongdoing.", start: 474.10, end: 481.28}
+  - {text: "The governing Labour Party has said that Mr Farage can't buy his way out of the sleaze and scandal he and Reform UK are drowning in.", start: 481.70, end: 489.28}
+  - {text: "Margaret Hodge, the British Government's anti -corruption champion, said that donations on this scale would have great concern.", start: 489.78, end: 496.32}
+  - {text: "This does represent a very dangerous challenge to our democracy when you get a couple of billionaires who capture one of our political parties and their best influence", start: 496.32, end: 507.66}
+  - {text: "and at worst control our democracy through those political parties.", start: 507.66, end: 512.42}
+  - {text: "From More on the Nations, I spoke to our political correspondent, Rob Watson.", start: 513.12, end: 517.18}
+  - {text: "They are massive figures.", start: 517.70, end: 518.90}
+  - {text: "I have been covering British politics on and off for about four decades and I know that these are by far and away the largest donations", start: 519.24, end: 527.68}
+  - {text: "given by individuals to a political party ever.", start: 527.68, end: 530.88}
+  - {text: "There's just been nothing like this and again to try and put them in some kind of context I mean these two donations amount to more than all the money all the major parties got last year put together", start: 531.16, end: 544.30}
+  - {text: "and it's much more money than the two main parties the Conservatives and Labour spent at the last general election in 2024 so staggering.", start: 544.30, end: 553.68}
+  - {text: "Why are these two billionaires doing it?", start: 554.18, end: 556.58}
+  - {text: "I think based on what they've said it's their sort of passionate belief along with a lot of Reform supporters that goes something like this Pete", start: 556.74, end: 565.16}
+  - {text: "that something's gone profoundly wrong in Britain much of that to do with immigration much of that to do with too much wokery and that only Reform", start: 565.16, end: 574.14}
+  - {text: "and Nigel Farage its leader can put it right.", start: 574.14, end: 576.56}
+  - {text: "So that is the explanation but the sums are staggering and historic in their size.", start: 576.56, end: 581.92}
+  - {text: "And what about these two individuals that have made these huge donations can you tell us a bit more about them and why they've got the ability to spend in one go what is a", start: 582.30, end: 591.60}
+  - {text: "as we've said a very large amount of money?", start: 591.60, end: 593.84}
+  - {text: "So yes both of them are fabulously wealthy cryptocurrency investors they tend to be in that sort of class of billionaire who are sort of very pro -entrepreneur", start: 594.14, end: 605.22}
+  - {text: "who think that Britain has become sort of tied down with regulation with red tape and it's why donors like these two also tended to support Britain leaving the European Union.", start: 605.22, end: 616.28}
+  - {text: "This is a bit of good news for Reform then is it?", start: 616.42, end: 618.38}
+  - {text: "On the one hand it's fabulous news right I mean what political party would turn down such riches it's also fabulous news in the sense that there had been concern", start: 618.42, end: 628.16}
+  - {text: "that some of these very negative stories about Reform Nigel Farage and their financing might put people off from donating to Reform because they wouldn't want to get into the news.", start: 628.16, end: 638.82}
+  - {text: "Well now Reform has all this money it presumably won't need to be attracting large amounts of cash.", start: 639.08, end: 645.44}
+  - {text: "It's also good news this huge amount of money if for example Andy Burnham the current prime minister would to decide to call an early general election I mean they would have lots and lots of money.", start: 645.94, end: 656.14}
+  - {text: "On the other hand the problem with donations like this is that it allows your political opponents to say hang on a minute Reform you say", start: 656.44, end: 664.20}
+  - {text: "you're the party of the ordinary person the working class person on the street but hang on a minute you're a party that depends on the uber wealthy", start: 664.20, end: 673.50}
+  - {text: "and billionaires who make their money in ways that most people don't understand but past evidence is showing that when parties have had huge donations it still won't help you win an election", start: 673.50, end: 685.26}
+  - {text: "if you know the message that you're trying to sell is not one that goes down with the voters so this massive sum of money does", start: 685.26, end: 692.04}
+  - {text: "not by any means mean the next election is in the bag for Reform and Nigel Farage.", start: 692.04, end: 697.00}
+  - {text: "Rob Watson it's four years since the attempted murder on a stage in New York State of the controversial Indian British novelist Salman Rushdie a new", start: 697.64, end: 707.40}
+  - {text: "film about the incident is soon to be released based on never before seen footage of the attack taken by his wife the cinematographer Rachel Eliza Griffiths", start: 707.40, end: 716.44}
+  - {text: "and of his recovery Justin Webb spoke to Mr Rushdie and the director of the film Alex Gibney he began by asking how the project started", start: 716.44, end: 724.12}
+  - {text: "and just a warning some of their discussion contains graphic details about the aftermath of the attack initially we weren't thinking clearly at all we were", start: 724.74, end: 733.32}
+  - {text: "just doing it to have some record of this terrible thing you know we live in an age where everything has to be recorded otherwise it didn't happen", start: 733.32, end: 740.64}
+  - {text: "and it was only when I was back home that my wife said to me was I ready to see this stuff and I said okay", start: 740.64, end: 748.16}
+  - {text: "and she set up a screen and a projector and we sat together and watched it and amongst other things what I thought was that the filmmaking was very good", start: 748.16, end: 756.16}
+  - {text: "and I thought this doesn't look like a home movie it looks like something more professional than that maybe if it's of that quality then there is some reason for it to talk about it having a wider life", start: 756.16, end: 766.66}
+  - {text: "and eventually we were introduced to Alex Gibney and he also thought it was good Alex you thought it was good what did you think you", start: 766.66, end: 774.16}
+  - {text: "could then do with it was it immediately obvious to you well it was immediately obvious that there was an extraordinary film here exactly what to", start: 774.16, end: 781.82}
+  - {text: "do with it I wasn't a hundred percent sure in fact the first question I asked Salman and Eliza is you know why don't you do it", start: 781.82, end: 787.68}
+  - {text: "and I think they had considered that but felt that it was too close to them and so that I could perform a service in a sense", start: 787.68, end: 794.58}
+  - {text: "that I would see it from the outside in and therefore have some sense of how to present it to the audience but I did have an idea based on a a British TV series called The Singing Detective", start: 794.58, end: 805.30}
+  - {text: "and what's interesting about that series is that the simple story is a story of physical recovery a guy shows up in a hospital with psoriatic myopathy full of lesions", start: 805.88, end: 816.52}
+  - {text: "and in terrible pain and over the course of it he physically recovers but along the way he has these hallucinations he thinks back to his childhood he imagines bits", start: 816.52, end: 826.34}
+  - {text: "and pieces of his own detective fiction sort of intermingling with his personal thoughts and memories and desires so I thought a kind of a mindscape that would move in and out of a simple", start: 826.34, end: 837.60}
+  - {text: "story of physical recovery would be interesting so this is not a film about a recovery that just goes chronologically through that recovery it's much more than that and in purpose", start: 838.26, end: 847.74}
+  - {text: "Salman what is it well the first way of thinking about it that I had was maybe it's not pointless for people to see what terrorism looks like and see it close up and", start: 848.76, end: 859.92}
+  - {text: "unvarnished but this is what an eye looks like when it's hanging out of your head this is what a neck looks like when it's been slashed", start: 860.46, end: 866.08}
+  - {text: "so I just thought tell the story in an age when there is so much violence that we are almost inured to it especially if you live in America", start: 866.08, end: 874.68}
+  - {text: "and there's murders every day murders of children at school mass murders for no reason human life feels much cheaper than it should and one way I thought of understanding how this man thought is", start: 874.68, end: 887.10}
+  - {text: "that it's a kind of an American story is if you're so used to the cheapening of human life it may be easier to conceive of taking it Salman was already starting to work on knife the book the memoir", start: 887.10, end: 898.52}
+  - {text: "and one of the things that he said as I recall was that what was interesting to him was the idea of moving from an act of hate to a place of love", start: 899.10, end: 907.18}
+  - {text: "and that was very interesting to me too because I had spent a good bit of my time doing films about the dark side of human nature", start: 907.18, end: 914.00}
+  - {text: "and indeed there's a film I did called Taxi to the Dark Side which is all about terror and I thought wouldn't it be interesting to kind of flip the script", start: 914.00, end: 921.30}
+  - {text: "and show not only the face of terror in the form of the wounds that had been inflicted on Salman but also how you recover from that both physically and spiritually and psychologically", start: 921.30, end: 931.46}
+  - {text: "to be able to embrace life again to you know at the end Salman says it's a reconstructed happiness I was in interested in the idea of reconstructing happiness I've always disliked thinking of myself as a victim", start: 932.12, end: 943.52}
+  - {text: "and in a way of doing this double project of writing this book and making this film was a way of taking charge of it I'm going to tell the story I'm going to say what it means", start: 944.18, end: 952.88}
+  - {text: "and the attacker doesn't get to be the storyteller he's had his 15 minutes of Andy Warhol type fame and he can now go back into obscurity for the rest of his life Sir Salman Rushdie and the film director Alex Gibney speaking to Justin Webb still", start: 952.88, end: 969.22}
+  - {text: "to come in this podcast a crucial general election in Sweden they have been very much mainstreamed but they're still you know a very radical party for interviews of many voters amid rising support for the far -right sweden democrats", start: 972.26, end: 986.02}
+  - {text: "this is the global news podcast Yemen says it has struck Houthi fighters in the strategic coastal city of Mokka it comes a day after the", start: 993.77, end: 1003.86}
+  - {text: "Iranian -backed armed group seized control of the entire Red Sea coast threatening to block the Bab al -Mandab Strait a vital artery for Saudi oil", start: 1003.86, end: 1013.42}
+  - {text: "exports Saudi Arabia has closed a critical oil pipeline after it was hit by drones launched from Iraq and has said it won't retaliate for now", start: 1013.42, end: 1022.42}
+  - {text: "Djibouti which sits on the other side of the strait says 1400 people have fled to it from Yemen in just 24 hours because of the fighting between Yemeni government forces", start: 1023.04, end: 1031.94}
+  - {text: "and Houthi militias our Middle East correspondent Hugo Beshega has been speaking to Anchor Desai about the fighting it's difficult to get a clear picture of what exactly is happening on the ground", start: 1031.94, end: 1042.78}
+  - {text: "but we had a statement from the government in Yemen saying that its forces had carried out some airstrikes targeting Houthi positions in Mokka and this was actually confirmed by a Houthi spokesperson", start: 1042.78, end: 1054.28}
+  - {text: "who said a number of fighters had been killed now Mokka is a strategically located port on the Red Sea and I think we haven't seen", start: 1054.28, end: 1063.24}
+  - {text: "any kind of organized response from the government yet there have been reports saying that government forces were shocked by the lack of support from the", start: 1063.24, end: 1071.74}
+  - {text: "Saudis the Saudis obviously have been supporting the government in this fight against the Houthis there have also been lots of divisions among members of this anti -Houthi coalition in Yemen", start: 1071.74, end: 1082.14}
+  - {text: "so it does seem that the Houthis may have spotted an opportunity to make these gains what about the chances of this escalating the risk of plunging the country back into a full -scale conflict", start: 1082.14, end: 1092.34}
+  - {text: "because we have seen periods of relative calm in Yemen compared with the height of the civil war yeah there have been years of relative quiet in Yemen", start: 1092.34, end: 1100.46}
+  - {text: "and we still don't know if the government and its Saudi supporters are going to carry out a large -scale offensive against the Houthis to try to take back this territory don't forget", start: 1100.46, end: 1110.82}
+  - {text: "that years of military action by that Saudi -led coalition against the Houthis failed to dislodge them and the Saudis had been prioritizing diplomacy in recent years I think it's interesting", start: 1110.82, end: 1122.60}
+  - {text: "that President Trump today confirmed that he had a phone call with the Saudi crown prince Mohammed bin Salman who reportedly asked for an American intervention in Yemen", start: 1122.60, end: 1132.10}
+  - {text: "which was rejected so I think this could be an indication of perhaps a strategy of trying to contain these tensions of trying to prevent a", start: 1132.10, end: 1140.56}
+  - {text: "further escalation of the conflict you get the price of oil is rising it's at over a hundred dollars a barrel so if the Houthis are able to take control of this key choke point", start: 1140.56, end: 1149.38}
+  - {text: "or bubble mandab straight just talk us about the implications of that this advance has put the Houthis in a position to control this strategic bubble", start: 1149.38, end: 1157.48}
+  - {text: "mandab straight this has been a key waterway for Saudi Arabia's oil exports an alternative to the trade of hummus which has been effectively closed because of the US war against Iran", start: 1157.48, end: 1168.44}
+  - {text: "and a blockade by the Houthis could further squeeze global energy supply so that's why I think a lot of people are paying attention to the situation there", start: 1168.44, end: 1177.18}
+  - {text: "and any kind of action by the Houthis could also help Iran's strategy of driving up prices to put pressure on the US to end the war", start: 1177.18, end: 1185.76}
+  - {text: "and I think you know these seemingly different conflicts are connected because it could end up being part of this Iranian strategy of trying to put pressure on the US to come up with a deal to end the war Hugo Beshegan who's been monitoring developments from Jerusalem", start: 1185.76, end: 1201.32}
+  - {text: "Now to Chile where officials have declared a period of morning after at least 16 elderly people were killed in a fire at a nursing home 10 residents were reportedly rescued after the blaze took hold at the building in Santiago", start: 1202.18, end: 1214.88}
+  - {text: "I heard more from our Latin America specialist Luis Fajardo The facility in the south of Chile had been under investigation and had been apparently the", start: 1215.52, end: 1226.50}
+  - {text: "object of several sanctions according to Chilean media Chilean news website bobo for example was saying that there had been several irregularities and the person who", start: 1226.50, end: 1237.12}
+  - {text: "was taking care of the old people in this in this facility apparently did not have proper authorization for that so it is causing a great deal of concern moreover there are reports", start: 1237.12, end: 1249.46}
+  - {text: "that this same facility had been the object of investigations and sanctions over the years again because of irregularities so there's a lot of questions being asked about why this facility had been allowed to continue operating", start: 1249.46, end: 1265.12}
+  - {text: "and what's been the response in Chile what are people there saying to this there's a lot of complaints of course against the people who are behind the facility", start: 1265.12, end: 1275.16}
+  - {text: "but also questions about how effective the government regulation of these facilities has been in Chile as in many other countries in the region in Latin America there is a particular", start: 1275.16, end: 1288.58}
+  - {text: "and growing concern about how old people are being taken care of by society because these countries are facing an increase in the number of old people in the community", start: 1288.58, end: 1299.90}
+  - {text: "as the society is becoming a higher proportion of them are in old age and there are questions about whether the regulation of these institutions has been effective", start: 1299.90, end: 1308.94}
+  - {text: "and has the government said anything on this there was a recent statement by the government of Chile saying that indeed the person taking care of the old people in this", start: 1308.94, end: 1318.52}
+  - {text: "facility did not have the adequate documentation and they are of course promising more investigations and eventually sanctions to those being responsible Luis Fajardo The people of Sweden are heading to the polls", start: 1319.18, end: 1332.85}
+  - {text: "and what's expected to be a tight race between the center left and center right political blocks it's effectively a referendum on whether the far right Sweden Democrats should join the government and move away from political outcasts to trusted partners", start: 1332.85, end: 1347.05}
+  - {text: "so what is the main issue on voters minds the BBC Stephanie Zacharsson compiled this report On a cold and rainy day in March demonstrators gathered in a nationwide call against what had been labeled teenage deportation", start: 1347.63, end: 1364.21}
+  - {text: "where young people who had lived in Sweden for many years were told they no longer had the right to stay they had turned 18 and were no longer deemed to be dependents of their foreign born parents", start: 1365.12, end: 1376.42}
+  - {text: "headlines across Sweden told the stories of youngsters who'd learned Swedish, studied, made friends to them be sent to a country that many of them hadn't set foot in for years prompting public outrage against the strict immigration laws", start: 1377.08, end: 1392.00}
+  - {text: "the center right government was forced to backtrack and pause the deportations but the tough stance on immigration has been a trademark of prime minister Ulf Kristiansson's coalition", start: 1392.56, end: 1403.86}
+  - {text: "which is governing with the backing of the far right Sweden Democrats its leader Nymi Åkesson had promised a paradigm shift in Swedish immigration policy four", start: 1403.86, end: 1416.90}
+  - {text: "years on the number of asylum seekers has plummeted Swedish citizenship now requires longer residence and a knowledge test and residence permits are strictly temporary this", start: 1416.90, end: 1429.12}
+  - {text: "is largely due to the leverage of the Sweden Democrats a party founded by neo -nazis and long treated as a pariah but now the country's second largest political force they've had a very big influence Jan Theorell is a professor of political science at Stockholm University", start: 1429.12, end: 1445.74}
+  - {text: "they have been very much mainstreamed but they're still you know a very radical party for the views of many voters and the other parties have had to adjust", start: 1446.24, end: 1455.00}
+  - {text: "and particularly then on the center right side where the first approach was to basically ignore them but that shifted ahead of the last election and now they've been a well integrated support party for the government", start: 1455.00, end: 1467.58}
+  - {text: "and have had very much policy influence in the last four years when asked about Sweden's dramatic shift in immigration during his time as prime minister Ulf Kristiansson said his government had fulfilled its task of cleaning house and must now focus on integration", start: 1467.58, end: 1482.68}
+  - {text: "when he came into office shootings and explosions were an almost daily occurrence with turf wars between drug networks plaguing many swedish cities the deadly violence has decreased with homicides hitting the lowest level in a decade", start: 1487.62, end: 1503.96}
+  - {text: "but the criminal gangs are still active recruiting children and teenagers to run their errands for them crime and migration remain central to the government's case for re -election", start: 1504.52, end: 1515.36}
+  - {text: "as voters choose between the parties that make up Sweden's two main political coalitions the governing center right block and the center left led by the former prime minister Magdalena Andersson social democrats the largest party in every election for more than a century", start: 1515.36, end: 1532.60}
+  - {text: "most polls have put the opposition ahead but they are more splintered ideologically than the right the main thing uniting them is their opposition to the sweden democrats", start: 1533.36, end: 1543.84}
+  - {text: "in a country often viewed internationally as the epitome of the welfare state it has been a frustration over its failures that has dominated the election campaign with voters saying they want more investment in health services and schools", start: 1544.71, end: 1559.35}
+  - {text: "this is the first general election since sweden moved away from its centuries old policy of military non -alignment and joined NATO a major shift prompted by the war in Ukraine on this", start: 1559.91, end: 1572.87}
+  - {text: "and on the importance of investing in defence nothing much will change after election day regardless of which coalition is in power Stephanie Zacherson with that report now to tennis", start: 1572.87, end: 1585.60}
+  - {text: "and the last grand slam of the year the US opened in New York and it was Yelena who proved that she's the undisputed world number", start: 1585.60, end: 1594.28}
+  - {text: "one after beating the two -time defending champion Irina Sabalenka to win her first US women's singles title it's the third grand slam title for Rebecca", start: 1594.28, end: 1603.94}
+  - {text: "and the second of the year after she beat Sabalenka in the Australian open final and as our tennis correspondent Russell Fuller told me it was a composed", start: 1603.94, end: 1613.04}
+  - {text: "and ultimately dominant performance by the Kazakhstan player Elena Rybakina took Irina Sabalenka's US open title away from her in the way that she is already", start: 1613.04, end: 1623.54}
+  - {text: "taking her world number one position away by winning the deciding set by six games to two and she played an exceptionally high level in that final set never in trouble on serve", start: 1623.54, end: 1635.42}
+  - {text: "and broke Irina Sabalenka twice this after Sabalenka had leveled the match and was improving as she won the second set seven five but whereas Rybakina was completely in control of her game", start: 1635.42, end: 1646.04}
+  - {text: "and her emotions Sabalenka's body language was appalling at times and she did probably give Elena Rybakina a helping hand in that she was constantly getting", start: 1646.04, end: 1655.84}
+  - {text: "very upset with her she was lucky not to be doctor point for smashing a racket and she cut the look of a figure who didn't believe she could beat Rybakina", start: 1655.84, end: 1664.66}
+  - {text: "and that was probably close to the truth because Rybakina was quite superb.", start: 1664.66, end: 1668.34}
+  - {text: "Elena Rybakina writing saying became number one over the course of this tournament Sabalenka now number two but could this be a rivalry we could see", start: 1668.92, end: 1679.64}
+  - {text: "for years to come these two pulling away from the rest of the pack?", start: 1679.64, end: 1682.14}
+  - {text: "Yes I think it's the best rivalry in the women's game they've played together a lot of times 18 times now Sabalenka has won 10 of their 18 matches so it's very very close indeed", start: 1682.66, end: 1693.60}
+  - {text: "and we shall see given the age they are 28 Sabalenka 27 Rybakina they have a number of years still left in their prime and they will certainly start 20 27", start: 1694.20, end: 1704.88}
+  - {text: "as the players to beat Koko Goff is not too far behind them there's also the likes of Igor Svjontek of Poland who's had a difficult couple of years", start: 1704.88, end: 1714.72}
+  - {text: "and Jessica Bogula of the United States and also some up and coming younger players either Jowicz the American is only 18 and has really caught the eye this year", start: 1714.72, end: 1724.02}
+  - {text: "but these two I think certainly would be in the strongest position when the Australian Open takes place in January another hardcore grand slam where these two are usually at their best our tennis correspondent Russell Fuller and", start: 1724.02, end: 1737.96}
+  - {text: "that's all from us for now if you want to get in touch you can email us at globalpodcast at bbc .co .uk this edition of the global news podcast was mixed by Calla McLean", start: 1739.56, end: 1749.78}
+  - {text: "and the producer was Emma Joseph the editor is Karen Martin I'm Pete Ross until next time goodbye", start: 1749.78, end: 1755.94}
+---
