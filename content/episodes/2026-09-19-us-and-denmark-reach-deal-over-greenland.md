@@ -1,0 +1,265 @@
+---
+layout: single
+title: "US and Denmark reach deal over Greenland"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-19T00:00:00Z
+slug: "2026-09-19-us-and-denmark-reach-deal-over-greenland"
+audioDir: "2026-09-19-us-and-denmark-reach-deal-over-greenland"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-19-us-and-denmark-reach-deal-over-greenland/episode.mp3"
+totalDuration: 1747.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.48}
+  - {text: "I'm Celia Hatton, and in the early hours of Saturday, September 19th, these are our main stories.", start: 5.78, end: 11.78}
+  - {text: "President Trump says he's reached an agreement with Greenland and Denmark that he says gives the U .S.", start: 12.50, end: 17.94}
+  - {text: "permanent control over security in Greenland.", start: 17.96, end: 20.48}
+  - {text: "Mr. Trump also signed into law a bill that gives him more powers to impose trade sanctions on countries that buy energy from Russia to get Moscow to stop its war on Ukraine.", start: 21.16, end: 31.30}
+  - {text: "And the governor of California Gavin Newsom wants more safety rules around AI, perhaps even a kill switch.", start: 31.92, end: 38.92}
+  - {text: "Also in this podcast.", start: 40.90, end: 42.38}
+  - {text: "If anyone finds that fun, I'm not sure they understand games and the conventional definition.", start: 42.70, end: 48.84}
+  - {text: "A board game that's being played in England that's so complex no one has ever finished in.", start: 49.56, end: 54.80}
+  - {text: "We'll begin in Washington where there's been a series of announcements from the White House.", start: 54.80, end: 64.94}
+  - {text: "In a surprise diplomatic development, Donald Trump says the United States, Denmark and Greenland have reached a security deal for Greenland, a Danish territory.", start: 65.48, end: 74.60}
+  - {text: "And in another potentially important move, Mr.", start: 75.40, end: 78.68}
+  - {text: "Trump has banned a number of major media organizations from the White House.", start: 78.92, end: 82.72}
+  - {text: "We'll get to both of those stories in a moment.", start: 83.24, end: 85.06}
+  - {text: "But first, the president has signed into law a bill that allows him to impose tough new sanctions on Russia in addition to severe trade sanctions on countries that buy energy from Russia.", start: 85.06, end: 97.28}
+  - {text: "The bill was championed by the Republican Senator Lindsey Graham before he died in July and gives the president the tools to try to force Moscow to end its war on Ukraine.", start: 97.80, end: 107.96}
+  - {text: "So how will this legislation allow President Trump to pressure Russia?", start: 108.70, end: 113.02}
+  - {text: "Our North America editor Sarah Smith joined us from Washington.", start: 113.02, end: 116.66}
+  - {text: "This allows for the most stringent sanctions on Russia since Donald Trump came back into office.", start: 117.14, end: 122.24}
+  - {text: "It targets President Putin, some of his fellow Ministers and Associates and some Russian oligarchs personally.", start: 122.54, end: 128.38}
+  - {text: "But the really big and what Congress thinks effective part of this bill is it allows President Trump to target Russia's energy industry, which is of", start: 128.72, end: 137.94}
+  - {text: "course what has allowed them to pay for a lot of the assault on Ukraine.", start: 137.94, end: 141.10}
+  - {text: "And it does this by giving the president the authority to place sanctions on other countries, third countries that are the biggest purchasers of Russian oil and gas.", start: 141.10, end: 151.22}
+  - {text: "So other nations who are keeping Russia afloat by buying their energy could face 100 % sanctions on goods that they are exporting to the United States.", start: 151.68, end: 161.78}
+  - {text: "But it doesn't trigger that automatically.", start: 161.86, end: 163.31}
+  - {text: "What it does is allow President Trump to make the choice as to whether he wants to do that on the biggest purchasers of Russian energy.", start: 164.04, end: 170.76}
+  - {text: "Now, they include countries like China and India and there are lots of other reasons why he may not want to impose punitive sanctions on those countries.", start: 170.90, end: 180.32}
+  - {text: "It's interesting you bring up China, Sarah, because it's one of the biggest purchasers of Russian energy.", start: 180.50, end: 186.78}
+  - {text: "This comes at an interesting time, doesn't it?", start: 187.40, end: 188.98}
+  - {text: "Donald Trump is signing this bill just days before a high stakes meeting with Xi Jinping next week, China's leader.", start: 189.06, end: 194.74}
+  - {text: "Are we expecting the president to use this new bill against countries like China?", start: 194.74, end: 199.64}
+  - {text: "Neither the president nor the White House have said if or when he would attempt to use these measures.", start: 200.10, end: 205.24}
+  - {text: "This was a bill that it's taken a year to get through Congress and eventually got a lot of bipartisan support.", start: 205.26, end: 210.38}
+  - {text: "It was initiated by the late Senator Lindsey Graham and it's in his memory that it's now been passed.", start: 210.84, end: 217.22}
+  - {text: "The president has said supportive things about it before but given us no indication whether he intends to use these powers, I would be very surprised if he were to put additional sanctions on China before or during the state visit from President Xi,", start: 217.36, end: 229.94}
+  - {text: "which is taking place at the end of next week.", start: 230.04, end: 232.32}
+  - {text: "Well, at the same time as having these extra powers to sanction Russia and some of Russia's energy buyers, there are also reports in the New York Times that Mr.", start: 232.50, end: 243.22}
+  - {text: "Trump is willing to offer Vladimir Putin business deals to get him to stop the fighting.", start: 243.48, end: 248.98}
+  - {text: "What more do we know about this carrots and sticks measure?", start: 248.98, end: 252.22}
+  - {text: "We know that the Times was reporting that Donald Trump's envoys, Steve Wyckoff, the real estate magnate and his son -in -law, Jared Kushner, who have been in Moscow talking to President Putin,", start: 252.48, end: 262.32}
+  - {text: "were offering some business deals talking about the possibility of signing some before a deal with Ukraine had been done.", start: 262.62, end: 271.28}
+  - {text: "So it has always been on the table.", start: 271.36, end: 272.80}
+  - {text: "It's always been known that Donald Trump and Vladimir Putin are both very keen to re -establish a business relationship.", start: 273.04, end: 278.26}
+  - {text: "What we're told, his envoys were talking about, in order to try and persuade Vladimir Putin to move closer towards doing a peace deal, the idea that some of these deals could be put in place before a peace in Ukraine had been established,", start: 278.26, end: 290.70}
+  - {text: "but with it being contingent on the idea that he would be moving towards that.", start: 290.70, end: 294.38}
+  - {text: "And, Sarah, we are speaking to you on a big day for the White House press pool.", start: 294.68, end: 298.46}
+  - {text: "President Trump appears to have banned three news organizations, CNN, Politico and MSNOW, from reporting from the White House.", start: 298.66, end: 306.60}
+  - {text: "What more do you know?", start: 306.60, end: 307.68}
+  - {text: "Well, he announced this in a Truth Social post on social media, saying that he was sick of their constant fake news reporting and that these three media organizations would be banned from the White House.", start: 308.00, end: 318.84}
+  - {text: "And then he took questions in the Oval Office from some other reporters who were in there and didn't give us a huge amount of detail.", start: 318.92, end: 325.42}
+  - {text: "So we don't know whether these organizations are banned from the grounds of the White House and from the press briefing room or whether it is only from the Oval Office", start: 325.58, end: 335.04}
+  - {text: "or whether it is from press conferences and traveling with President Trump on Air Force One.", start: 335.04, end: 339.34}
+  - {text: "He also said there was no particular reason why he was doing this now.", start: 339.78, end: 343.48}
+  - {text: "There was no individual story that he was taking objection to, that it had prompted him to do this move.", start: 343.56, end: 348.54}
+  - {text: "He just said that the constant negative and fake reporting had annoyed him so much he wanted to take this action because he said it was diminishing his Republican party and,", start: 348.58, end: 359.60}
+  - {text: "of course, it is worth remembering that we're only a few weeks away from some crucial mid -term elections.", start: 359.66, end: 364.52}
+  - {text: "He did mention the possibility that he might want to go on and ban other organizations.", start: 365.32, end: 369.90}
+  - {text: "He mentioned off the top of his head when he was asked about it, the New York Times, the Washington Post and ourselves and the BBC,", start: 370.14, end: 376.88}
+  - {text: "all of whom he said were purveyors of fake news, but he doesn't appear to be making a move in that direction at the moment.", start: 377.52, end: 382.82}
+  - {text: "Our North America editor, Sarah Smith.", start: 383.12, end: 384.96}
+  - {text: "And now to that other White House announcement that I mentioned.", start: 386.12, end: 388.80}
+  - {text: "For months, President Trump has been threatening to annex Greenland if the U .S.", start: 389.34, end: 393.82}
+  - {text: "failed to secure complete control over the Danish territory security.", start: 393.98, end: 398.02}
+  - {text: "Now comes news from the White House that an agreement has been reached with Greenland and Denmark over a way forward, though as we'll hear, just what has been agreed is unclear.", start: 398.78, end: 408.72}
+  - {text: "Our Washington correspondent, Daniel Bush, told me more.", start: 409.36, end: 412.16}
+  - {text: "The details of this agreement, Celia, are still pretty unclear.", start: 412.60, end: 415.84}
+  - {text: "According to President Trump and his truth social post, this is a sweeping agreement that gives the U .S.", start: 416.02, end: 421.22}
+  - {text: "total control as President Trump put it over Greenland security.", start: 421.22, end: 424.80}
+  - {text: "However, the officials in Denmark and Greenland, their initial statements were a little more circumspect.", start: 425.12, end: 431.48}
+  - {text: "They applauded this deal, said that it was good for Arctic security, but stopped short of confirming what President Trump had said, that this would give America unprecedented control of the territory.", start: 431.66, end: 442.80}
+  - {text: "It's interesting, Daniel. I mean, there were a lot of tensions around this issue earlier in Donald Trump's second term.", start: 443.10, end: 449.44}
+  - {text: "Now it seems like this agreement has come out of the blue almost.", start: 450.14, end: 454.04}
+  - {text: "Is this a win for quiet diplomacy?", start: 454.26, end: 456.28}
+  - {text: "It's certainly been playing out behind the scenes, and I know from sources that, quietly in private, the U .S., Greenland, and Denmark have actually been", start: 456.78, end: 463.86}
+  - {text: "working on this diplomacy track now four months after President Trump threatened to somehow annex Greenland by force earlier this year.", start: 463.86, end: 471.68}
+  - {text: "That caused a huge diplomatic row, but since then, the sides have been working quietly again to try and reach some sort of a deal, and it seems that they were able to make progress out of the public spotlight by keeping these talks in private secret,", start: 471.76, end: 484.84}
+  - {text: "if you will, to try and reach some sort of an agreement.", start: 484.98, end: 487.40}
+  - {text: "Now they've done that, but again, the details remain unclear about what exactly, what kind of control it gives the U .S.", start: 487.62, end: 493.68}
+  - {text: "over the territory. Why was Donald Trump so fixated on Greenland?", start: 493.72, end: 498.20}
+  - {text: "This has been an issue that he's been interested in from the very beginning of his presidency, going all the way back to his first term,", start: 498.60, end: 504.12}
+  - {text: "and now at the start of his second term, especially when he entered office, he was fixated on trying to expand U .S.", start: 504.12, end: 510.62}
+  - {text: "territory and in some other way sort of leave his legacy, his mark on foreign affairs.", start: 510.70, end: 516.22}
+  - {text: "So that was part of this.", start: 516.66, end: 517.82}
+  - {text: "He's also been told by multiple U .S.", start: 518.12, end: 520.48}
+  - {text: "officials in his orbit that this is important for national security reasons to protect U .S.", start: 520.48, end: 525.52}
+  - {text: "interests in the Arctic against threats from China and Russia.", start: 525.54, end: 528.60}
+  - {text: "So there's geopolitics at play, as well as President Trump's own sort of views on his legacy and his ability to expand American power abroad.", start: 528.78, end: 536.16}
+  - {text: "Danielle Bush in Washington.", start: 536.48, end: 537.76}
+  - {text: "For weeks now, we've heard warning after warning about artificial intelligence and the potential threat it poses to humanity.", start: 538.65, end: 546.59}
+  - {text: "Many of the world's biggest AI companies are based in California, and now the state's Democratic governor, Gavin Newsom, has announced he's setting up a panel to look at ways to strengthen safety rules around the technology,", start: 547.33, end: 560.19}
+  - {text: "including the possibility of what's being called a kill switch.", start: 560.49, end: 564.03}
+  - {text: "In a video posted to social media, he called on Mike Johnson, the Republican House Speaker in Washington, to do the same.", start: 564.49, end: 571.53}
+  - {text: "We're going to convene experts to figure out the right path forward.", start: 571.97, end: 576.17}
+  - {text: "California will do what it can, but this nation needs to get in the game.", start: 576.53, end: 581.33}
+  - {text: "Washington, D .C. needs to do its job.", start: 581.63, end: 584.43}
+  - {text: "Remarkably, they left for a summer break.", start: 584.91, end: 587.95}
+  - {text: "Mike Johnson should return from vacation and follow California's lead by passing national legislation.", start: 587.95, end: 595.09}
+  - {text: "Get it done. Earlier in the week, Donald Trump said that fears about the safety of AI are a hoax and rejected calls for greater safeguards.", start: 595.37, end: 603.67}
+  - {text: "Kali Hayes is our tech reporter in San Francisco.", start: 604.23, end: 607.27}
+  - {text: "She told me more about what this panel in California might be exploring.", start: 607.79, end: 611.69}
+  - {text: "I think some of the key things that they would be looking at would be, one, getting third parties to come in and actually look at these models as they're developed,", start: 612.27, end: 623.27}
+  - {text: "the models or the basis of things like AI chatbots.", start: 623.77, end: 626.93}
+  - {text: "So just having somebody that is not inside one of these companies coming in and being able to look at what is going into the training and saying,", start: 628.47, end: 636.81}
+  - {text: "hey, that's maybe not the best idea or don't you think that behavior is weird, that kind of a thing.", start: 636.91, end: 641.71}
+  - {text: "But one of the biggest things that I think that people are starting to take seriously is this idea of a quote -unquote kill switch, which sounds very dramatic and it kind of is,", start: 642.17, end: 653.11}
+  - {text: "but basically governments and authorities want some way to actually force an AI company to turn off or shut down an AI tool that has started acting improperly.", start: 653.27, end: 665.79}
+  - {text: "Do you think that this panel could reach any kind of agreement on this huge issue?", start: 665.97, end: 671.55}
+  - {text: "Do tech bosses appear to be very split on how much regulation they'd like to see happen when it comes to AI?", start: 671.55, end: 678.03}
+  - {text: "I think any kind of broad agreement would be next to impossible.", start: 678.55, end: 681.59}
+  - {text: "I think they would definitely also fight to the nail against the idea of a kill switch.", start: 682.17, end: 686.49}
+  - {text: "They really do not want outside people being able to tell them what to do when.", start: 687.01, end: 692.49}
+  - {text: "But that said, the cynical side of me coming out, there are things that there is already agreement on with regards to what needs to be done with AI safety.", start: 693.49, end: 702.85}
+  - {text: "And this idea of third parties coming in and actually looking at the bottles and having a say in what goes into them is actually gaining a lot of traction.", start: 703.47, end: 711.09}
+  - {text: "And I think there has already kind of turned up a consensus that this would be a good idea.", start: 711.41, end: 716.45}
+  - {text: "But President Trump doesn't appear keen to regulate the market at all.", start: 716.97, end: 721.87}
+  - {text: "And we also have to remember that President Trump and Gavin Newsom, the governor of California, are political rivals.", start: 721.93, end: 728.49}
+  - {text: "They are political rivals, but it's funny that they tend to listen to the same people.", start: 728.49, end: 733.93}
+  - {text: "I mean, Trump definitely has been vehement that he does not want to have any involvement in regulating AI at all.", start: 734.77, end: 742.39}
+  - {text: "And he has a lot of very powerful, very wealthy people in tech speaking to him directly quite often and kind of pleading their case that they really can handle this themselves.", start: 742.77, end: 754.01}
+  - {text: "But Newsom definitely has ties to big tech.", start: 754.61, end: 757.87}
+  - {text: "He has ties to Metta.", start: 757.87, end: 759.03}
+  - {text: "He has ties to Google.", start: 759.15, end: 760.13}
+  - {text: "He takes money from these places.", start: 760.63, end: 762.25}
+  - {text: "So they are political rivals, but they're kind of coming at this from the same group of people.", start: 762.85, end: 769.55}
+  - {text: "So it will be interesting to see where California actually ends up landing on this, especially as Newsom is leaving office.", start: 769.81, end: 775.67}
+  - {text: "Callie Hayes. Still to come in this podcast.", start: 776.23, end: 780.63}
+  - {text: "He has proselytized for years the notion of long -term value investing.", start: 781.05, end: 786.33}
+  - {text: "So the whole idea is to hold on to companies and investments for decades.", start: 786.33, end: 791.21}
+  - {text: "The sage of Omaha, Warren Buffett is stepping down from the investment company he's led for more than six decades.", start: 791.71, end: 798.95}
+  - {text: "This is the Global News Podcast.", start: 806.88, end: 808.58}
+  - {text: "Long live life! Long live life!", start: 809.24, end: 814.18}
+  - {text: "Protesters outside Turkey's embassy in London on Friday.", start: 816.32, end: 820.24}
+  - {text: "They're angry at a crackdown on the LGBTQ community ordered by the Turkish president Recep Tayyip Erdogan.", start: 820.70, end: 827.80}
+  - {text: "Hundreds of people have been detained across Turkey this week following sweeping government raids.", start: 828.04, end: 833.48}
+  - {text: "Emily Withers is a journalist covering the story in Turkey.", start: 834.24, end: 837.40}
+  - {text: "She spoke to Sean Lay.", start: 837.70, end: 838.76}
+  - {text: "Well, I should start by saying, Sean, that life has been pretty tough for LGBTQI plus people here for some time.", start: 839.30, end: 846.08}
+  - {text: "So Pride, for example, in this country has been banned since 2015.", start: 846.52, end: 850.52}
+  - {text: "Turkey doesn't recognize same -sex marriage, but same -sex relations are not illegal here.", start: 851.20, end: 856.70}
+  - {text: "But what we saw over the weekend and into the start of this week is really unprecedented.", start: 857.18, end: 862.10}
+  - {text: "This is a massive crackdown on this community.", start: 862.68, end: 865.58}
+  - {text: "So over 160 people were detained.", start: 866.22, end: 868.60}
+  - {text: "Associations were raided. Bars, which are LGBTQ plus friendly were raided.", start: 869.54, end: 874.52}
+  - {text: "And then there was this footage that was released from the justice ministry which showed police officers searching offices and confiscating rainbow flags.", start: 874.94, end: 884.36}
+  - {text: "They say to protect children and family.", start: 884.64, end: 887.04}
+  - {text: "And then later in this week when some of these court cases started happening, these people were being held in pre -trial detention, there were small protests outside courtrooms in Ankara and Istanbul.", start: 887.44, end: 898.18}
+  - {text: "And the authorities then arrested over 100 people that had come out to show solidarity.", start: 898.60, end: 903.36}
+  - {text: "So these events have really sent a chill through the LGBTQ plus society here that life for them is about to get a lot harder.", start: 903.36, end: 911.50}
+  - {text: "Last year, President Recep Tayyip Erdogan designated 2025 as the year of the family, encouraging people to have more children.", start: 911.86, end: 920.90}
+  - {text: "Is he kind of blaming the LGBTQ community in some way for the fact that the birthrate in Turkey has been falling?", start: 921.18, end: 927.84}
+  - {text: "Yes, that's right. So like many countries around the world, people in Turkey are not having as many babies as the government would like.", start: 928.46, end: 935.72}
+  - {text: "So there's been this year of the family last year that's now been extended by the government here so it's a decade where they're going to be pushing people to have at least three children", start: 936.02, end: 944.92}
+  - {text: "and they've partly blamed the drop in people having children here on the LGBTQ plus community.", start: 944.92, end: 951.90}
+  - {text: "Erdogan has made many speeches over the last year or so where he has warned that society risks moral decay and that this decay is spreading from", start: 952.20, end: 961.66}
+  - {text: "individuals to families and then from families to society.", start: 962.36, end: 965.42}
+  - {text: "The language that the politicians use here now against this community is really quite shocking.", start: 966.00, end: 971.34}
+  - {text: "It is effectively hate speech.", start: 971.60, end: 972.96}
+  - {text: "I mean, President Tayyip Erdogan has called LGBTQI people perverts.", start: 973.22, end: 978.52}
+  - {text: "We also heard this week from the Justice Minister.", start: 978.70, end: 981.46}
+  - {text: "He made a statement on his social media account that he had let all police force operations know in the country that they had to look out for any activity that might endanger children,", start: 981.86, end: 993.40}
+  - {text: "might endanger the family and we have just seen the language around this community tightening life getting harder for them.", start: 993.76, end: 1001.42}
+  - {text: "People being attacked more they say on the street.", start: 1001.54, end: 1004.16}
+  - {text: "I mean, just this week I went to an LGBTQ plus friendly bar.", start: 1004.58, end: 1008.34}
+  - {text: "I watched a band play that was made up of queer and trans people and they said that they used to play in venues all around the country", start: 1008.48, end: 1016.70}
+  - {text: "and they're now really struggling to find places to perform because bars just simply won't have them.", start: 1016.70, end: 1022.42}
+  - {text: "Emily Withers. Father Time always wins.", start: 1022.74, end: 1026.45}
+  - {text: "The words of the billionaire investor and philanthropist Warren Buffett in a note to shareholders announcing that he's stepping down as chairman of Berkshire Hathaway, the", start: 1026.83, end: 1037.11}
+  - {text: "firm he took control of 61 years ago.", start: 1037.11, end: 1039.71}
+  - {text: "Mr. Buffett is now 96 years old.", start: 1040.21, end: 1042.77}
+  - {text: "He'll remain a member of the board while his son Howard becomes the new chairman overseeing what's now a huge conglomerate worth more than a trillion dollars.", start: 1043.17, end: 1052.77}
+  - {text: "Here's the sage of Omaha, as he's often called, speaking to the BBC a few years ago.", start: 1053.37, end: 1057.99}
+  - {text: "The first books I read on investment were actually in my dad's office.", start: 1058.57, end: 1062.27}
+  - {text: "Pretty soon I read all the books in the office and read some of them more than once.", start: 1064.64, end: 1068.44}
+  - {text: "My dad had various nicknames for me.", start: 1070.55, end: 1072.63}
+  - {text: "He'd call me Fireball sometimes because I'd start little businesses.", start: 1072.63, end: 1076.05}
+  - {text: "He didn't care about money at all.", start: 1076.96, end: 1078.56}
+  - {text: "He believed very much in having an inner scorecard and I'd never worry about what other people are thinking about you know just if you know", start: 1079.59, end: 1088.38}
+  - {text: "why you're doing what you're doing that's good enough.", start: 1088.38, end: 1090.74}
+  - {text: "I admired everything about him to the extent that I was absorbing lessons from him without knowing it.", start: 1091.88, end: 1097.02}
+  - {text: "And the idea that all lives have equal value is something that all three of his children felt since I can remember.", start: 1097.54, end: 1103.90}
+  - {text: "Amelia Pollard is the US investment correspondent for the Financial Times.", start: 1104.56, end: 1108.74}
+  - {text: "She spoke to James Menendez about Warren Buffett's retirement.", start: 1109.26, end: 1112.36}
+  - {text: "Warren Buffett's been planning his succession for decades and even back in 2011 Howard spoke publicly on 60 Minutes about what that plan would look like", start: 1112.86, end: 1123.40}
+  - {text: "and knew even then that this was the eventual role he would take on with the company.", start: 1123.40, end: 1128.42}
+  - {text: "What can you tell us about Howard?", start: 1128.42, end: 1130.56}
+  - {text: "I mean is he able to fill his father's very big shoes?", start: 1130.90, end: 1134.64}
+  - {text: "Yeah I mean I think an important distinction here is that Howard's becoming head of the board but Greg Abel is already CEO and took on", start: 1135.74, end: 1144.22}
+  - {text: "that role at the beginning of the year.", start: 1144.22, end: 1145.38}
+  - {text: "So the vision is basically to have Abel running the capital allocation on the business side of things.", start: 1145.58, end: 1151.10}
+  - {text: "All of the operations and the sprawling conglomerate that's probably the most famous company in the US at this point or one of them and then Howard's job is more to steward the culture", start: 1151.48, end: 1162.08}
+  - {text: "and values of Berkshire and so Berkshire is a really unique company in that there's a cult -like group of shareholders and investors that travel to Omaha every year for the annual shareholder meeting and that is part of the responsibility that Howard will take on and obviously", start: 1162.08, end: 1179.32}
+  - {text: "the Buffett name is synonymous at this point with Berkshire Hathaway so I think to some extent it's to have a sense of continuity for investors", start: 1180.04, end: 1187.56}
+  - {text: "and shareholders and who's leading the company behind the scenes.", start: 1187.56, end: 1190.62}
+  - {text: "The Buffett name is also synonymous with a certain style of investing.", start: 1191.06, end: 1196.16}
+  - {text: "I mean for those who don't follow the ins and outs of Berkshire Hathaway I mean why did Warren Buffett become such a big name?", start: 1196.66, end: 1205.20}
+  - {text: "So he has proselytised for years the notion of long -term value investing so the whole idea is to hold on to companies and investments for decades to think about the long -term evolution of the economy", start: 1206.44, end: 1219.84}
+  - {text: "and not about what quick hit wonders might be popular this year or this month and that has really been the spirit and the ethos of the company for many many years", start: 1219.84, end: 1230.04}
+  - {text: "and has really brought on legions of shareholders and investors to also subscribe to that philosophy.", start: 1230.04, end: 1236.08}
+  - {text: "Obviously in 2026 that sort of philosophy has a lot more resonance and it's quite unique in the age of crypto and AI and the world we've seen now", start: 1236.58, end: 1248.40}
+  - {text: "which the S &P 500 and the broader stock market is so intensely driven by these high value high growth AI and tech companies and Berkshire is a bit antithetical to", start: 1248.40, end: 1260.16}
+  - {text: "that model and is in much more the longer term camp.", start: 1260.16, end: 1263.24}
+  - {text: "Yes and has that meant that the company has suffered relative to others.", start: 1264.00, end: 1268.80}
+  - {text: "I mean it has underperformed compared to the main S &P 500 index hasn't it by quite a margin.", start: 1269.00, end: 1275.60}
+  - {text: "Is that a problem?", start: 1275.76, end: 1276.32}
+  - {text: "It has this year and I think there are a lot of eyes on Berkshire stock price the investors that I've spoken to today and in recent months have all said", start: 1277.77, end: 1287.25}
+  - {text: "that they are believers in the long term plan here and think that Berkshire and historically Buffett and now Greg Abel are stewards of their money", start: 1287.25, end: 1296.51}
+  - {text: "and they believe that there's a longer term vision beyond just what the stock market is doing this year.", start: 1296.51, end: 1302.21}
+  - {text: "I mean obviously there's been intense growth with the S &P 500 index this year and the broader market there's also been a lot of volatility", start: 1302.41, end: 1310.23}
+  - {text: "so I think that there is the camp of shareholders that are still believers in Berkshire and what's to come.", start: 1310.99, end: 1317.07}
+  - {text: "I think believe that to not just focus on what the stock shares have done this year many of them have held shares since the 70s", start: 1317.57, end: 1324.61}
+  - {text: "or 80s and 90s and they want to see what Greg Abel can do in passing the baton from Warren to this new era and haven't been from my understanding", start: 1324.61, end: 1336.33}
+  - {text: "so far too quick to judge on the share price alone.", start: 1336.33, end: 1339.67}
+  - {text: "Amelia Pollard, US investment correspondent for The Financial Times Well it's happened before of course sometimes with embarrassing results but officials at the Asian Games in", start: 1340.07, end: 1351.04}
+  - {text: "Japan had to apologize quickly after they played the wrong national anthem ahead of a field hockey match and not any anthem but the North Korean one", start: 1351.04, end: 1361.08}
+  - {text: "when the team on the pitch were from South Korea.", start: 1361.08, end: 1363.68}
+  - {text: "Carla Conte reports Lined up before the match the players from the South Korean men's hockey team looked around in confusion as the wrong anthem rang out around the arena", start: 1364.02, end: 1374.64}
+  - {text: "while others not realizing what had happened kept a hand on their chest the stadium announcer was quick to apologize for the mistake We're really sorry,", start: 1374.64, end: 1383.80}
+  - {text: "terribly sorry national anthem for Republic of Korea we played a different song.", start: 1384.04, end: 1391.84}
+  - {text: "This comes off the back of an earlier incident in the Asian Games where a Japanese war lord Toyotomi Hideyoshi was featured during a welcoming ceremony in Nagoya.", start: 1392.22, end: 1401.42}
+  - {text: "This prompted South Korea's Olympic Committee to file a complaint with the organizers as Hideyoshi's invasions of Korea in the 16th century remain a sensitive chapter for Seoul", start: 1401.98, end: 1412.44}
+  - {text: "but these are just the latest of a number of controversies emerging from this year's Asian Games where organizers have sought to cut costs by ditching the traditional athlete's village instead some 17 ,000 competitors", start: 1412.44, end: 1425.96}
+  - {text: "and officials are being housed in alternative accommodations including an Italian cruise ship and shipping container style cabins.", start: 1425.96, end: 1433.90}
+  - {text: "This has led to massive delays and chaos for the teams arriving from all over Asia with players experiencing grueling waits upon arrival and some being forced to sleep on the floor", start: 1434.10, end: 1444.42}
+  - {text: "while their rooms were being prepared basketball players also voiced their discomfort with athletes over 2 meters tall complaining that their beds were not big enough to accommodate them Carla Conti with", start: 1444.42, end: 1456.42}
+  - {text: "that report and we should add that hearing the wrong national anthem didn't ruin things for the South Korean men's field hockey team they won their match against Bangladesh 5 -0 now", start: 1456.42, end: 1467.26}
+  - {text: "let's stick to the topic of games but games of another kind some believe the board game monopoly takes too long to play because it can go on for hours", start: 1467.65, end: 1477.01}
+  - {text: "or even days with no clear winner but there's another game that's so detailed and complex that it's almost certain that no one has ever completed it the game in question is called Campaign for North Africa", start: 1477.01, end: 1490.55}
+  - {text: "and two friends in Britain have taken on the task of playing the game to its conclusion something they estimate could take several years or even", start: 1490.97, end: 1500.31}
+  - {text: "decades the newsrooms Pete Ross picks up the story you've perhaps been there someone gets a new board game maybe for Christmas and one of the family takes it upon themselves to read the rules", start: 1500.31, end: 1510.75}
+  - {text: "and explain them to everybody else you're hopefully up and playing within a few minutes until everyone gets bored or falls out if you're very lucky you might play to the end well what about a game that's", start: 1510.75, end: 1521.91}
+  - {text: "so convoluted and cumbersome that it can take years just to learn the rules I think why we were mad enough to do it I think", start: 1521.91, end: 1529.27}
+  - {text: "if we understood war games better or the scale of it we might have been scared off that's Andrew Tager he and James Purcell two friends", start: 1529.27, end: 1537.05}
+  - {text: "from Newcastle upon Tyne in the north of England have spent nearly two years mastering the rules and getting ready to play the game which covers", start: 1537.05, end: 1543.87}
+  - {text: "the conflict in North Africa during the Second World War only now are the pair confident they know the rules of the military strategy game first", start: 1543.87, end: 1551.51}
+  - {text: "released in the 1970s well enough to start playing for real the two are it'll come as no surprise board game enthusiasts and while discussing their hobby with a friend one night they learned about a game", start: 1551.51, end: 1563.01}
+  - {text: "that legend claimed had never been completed explains James and we thought nothing of it until a few weeks later one of us said to the other have you been thinking about", start: 1563.01, end: 1572.73}
+  - {text: "that game a lot and over the course of the next couple of hours we decided we were going to buy the game play the game in its entirety", start: 1572.73, end: 1579.71}
+  - {text: "and record a podcast alongside it so that we had a reason to stay on topic and really accountable to finish it given just how much detail the game goes into it's perhaps not surprising", start: 1579.71, end: 1591.41}
+  - {text: "that no one has ever seen it through to the end much of the time playing the game is spent on logistical concerns do your troops have enough ammunition", start: 1591.41, end: 1599.33}
+  - {text: "and don't forget to supply them with sufficient rations as you keep track of food and water supplies it can all get a bit much says James I've had many a times", start: 1599.66, end: 1608.97}
+  - {text: "where I've been invited to a social event and I've had to tell them that I can't because I've got to go and play a game", start: 1608.97, end: 1615.31}
+  - {text: "and I don't particularly enjoy playing and fill out some spreadsheets if you're playing as an Italian unit you'll need more water than troops from other nations", start: 1615.31, end: 1623.31}
+  - {text: "as you need it according to the rules to boil pasta and that water can also evaporate at varying rates depending on how hot or cold the weather is", start: 1623.31, end: 1632.49}
+  - {text: "that turn and those are just some of the less puzzling rules there's small moments like the air combat is quite fun where you get to have dogfights between planes", start: 1632.49, end: 1641.39}
+  - {text: "but since most of it is just a logistic simulator I think if anyone finds that fun I'm not sure they understand games and the conventional definition James there again there's an awful lot to get your head around", start: 1641.39, end: 1655.49}
+  - {text: "but if you fancy playing yourself and need guidance or help with the rules there aren't many resources out there the game itself has been out of print for years", start: 1655.49, end: 1663.51}
+  - {text: "and its publisher went out of business some time ago the game's designer Richard Berg who admitted he'd never finished the game died in 2019 so Richard", start: 1663.51, end: 1673.05}
+  - {text: "and Andrew will be pretty much on their own when they begin playing the game for real later this month but they'll have plenty of time to learn the game while they play as Andrew explains at our current pace it's probably gonna be about two decades", start: 1673.05, end: 1685.59}
+  - {text: "hopefully speed that up a little bit but if we get it done in less than ten years we've done very well given their one practice game", start: 1686.37, end: 1693.25}
+  - {text: "which in comparison took just a few weeks to complete ended in a draw they'll be hoping for a more satisfying conclusion I think the main question I get is why like just why are you doing this and I don't have a great answer", start: 1693.25, end: 1707.07}
+  - {text: "just don't ask if they're up for a rematch Pete Ross and that's all from us for now if you want to get in touch you", start: 1707.65, end: 1716.43}
+  - {text: "can email us at globalpodcast .bbc .co .uk you can also find us on X at BBC World Service use the hashtag Global News Pod and don't forget our sister podcast The Global Story", start: 1716.43, end: 1729.73}
+  - {text: "which goes in -depth and beyond the headlines on one big story this edition of the Global News podcast was mixed by Johnny Hall the editor is Karen Martin I'm Celia Hatton until next time, goodbye", start: 1729.73, end: 1741.95}
+---
