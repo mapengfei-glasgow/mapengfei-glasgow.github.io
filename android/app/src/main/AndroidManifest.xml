@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Trusted Web Activity shell around https://mapengfei-glasgow.github.io/
+
+  There is deliberately no Java/Kotlin source here: the launcher activity is the
+  one shipped by com.google.androidbrowserhelper, configured entirely through the
+  <meta-data> values below. The meta-data key names were read out of
+  LauncherActivityMetadata.class in androidbrowserhelper-2.7.3.aar rather than
+  from memory.
+
+  Full-screen (no address bar) requires the assetlinks.json published at
+  https://mapengfei-glasgow.github.io/.well-known/assetlinks.json to list this
+  package name and the SHA-256 of the signing certificate. If that check fails,
+  Chrome falls back to showing a normal Custom Tab *with* a URL bar — the app
+  still works, it just looks less native.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/LauncherTheme">
+
+        <activity
+            android:name="com.google.androidbrowserhelper.trusted.LauncherActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/LauncherTheme">
+
+            <!-- Where the app opens -->
+            <meta-data
+                android:name="android.support.customtabs.trusted.DEFAULT_URL"
+                android:value="https://mapengfei-glasgow.github.io/" />
+
+            <!-- Colours: light values first, *DARK for when the phone is in
+                 dark mode. Both are the site's dark background, since the site
+                 defaults to its dark theme. -->
+            <meta-data
+                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR"
+                android:resource="@color/barColor" />
+            <meta-data
+                android:name="android.support.customtabs.trusted.STATUS_BAR_COLOR_DARK"
+                android:resource="@color/barColor" />
+            <meta-data
+                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR"
+                android:resource="@color/barColor" />
+            <meta-data
+                android:name="android.support.customtabs.trusted.NAVIGATION_BAR_COLOR_DARK"
+                android:resource="@color/barColor" />
+
+            <!-- Splash while Chrome warms up: same colour as the site's
+                 background, so it does not flash white. -->
+            <meta-data
+                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_BACKGROUND_COLOR"
+                android:resource="@color/barColor" />
+            <meta-data
+                android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
+                android:value="300" />
+
+            <!-- autoVerify makes Android check assetlinks.json at install time,
+                 which is also what lets the TWA run without a URL bar. -->
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <data
+                    android:scheme="https"
+                    android:host="mapengfei-glasgow.github.io" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

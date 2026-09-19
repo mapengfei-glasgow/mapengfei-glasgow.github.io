@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.mapengfeiglasgow.englishlistening",
+      "sha256_cert_fingerprints": [
+        "78:D7:79:EB:80:60:9B:1F:BC:60:2A:4A:20:68:EE:7C:C7:04:70:6F:33:49:5D:E7:39:6F:47:D6:F8:A4:16:80"
+      ]
+    }
+  }
+]

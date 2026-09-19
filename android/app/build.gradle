@@ -1,0 +1,61 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Signing material is NOT in the repo. The keystore lives outside the checkout
+// (~/.android-keys/english-listening.jks by default) and its password comes from
+// $TWA_KEYSTORE_PASSWORD, falling back to ~/.android-keys/password.txt so that a
+// rebuild on this host works without exporting anything.
+def keystorePath = System.getenv("TWA_KEYSTORE") ?:
+        "${System.properties['user.home']}/.android-keys/english-listening.jks"
+def keystoreFile = file(keystorePath)
+def keystorePassword = System.getenv("TWA_KEYSTORE_PASSWORD")
+if (keystorePassword == null && keystoreFile.exists()) {
+    def pwFile = new File(keystoreFile.parentFile, "password.txt")
+    if (pwFile.exists()) {
+        keystorePassword = pwFile.text.trim()
+    }
+}
+
+android {
+    namespace 'io.github.mapengfeiglasgow.englishlistening'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "io.github.mapengfeiglasgow.englishlistening"
+        // Custom Tabs need API 21; Trusted Web Activity is best on 21+.
+        minSdk 21
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+
+    signingConfigs {
+        release {
+            storeFile keystoreFile
+            storePassword keystorePassword
+            keyAlias System.getenv("TWA_KEY_ALIAS") ?: "english-listening"
+            keyPassword keystorePassword
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    // The Trusted Web Activity launcher activity declared in the manifest lives
+    // here, not in androidx.browser — androidx.browser only has
+    // TrustedWebActivityIntentBuilder. (Checked against the published artifacts.)
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.7.3'
+}

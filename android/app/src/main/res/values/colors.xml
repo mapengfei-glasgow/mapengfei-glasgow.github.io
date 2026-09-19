@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PaperMod's dark background (theme-vars.css --theme: rgb(29, 30, 32)),
+         matching theme_color in static/manifest.json and hugo.toml. -->
+    <color name="barColor">#1d1e20</color>
+    <!-- Adaptive-icon background: the same near-black as static/favicon.svg. -->
+    <color name="iconBackground">#0d0f12</color>
+</resources>

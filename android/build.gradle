@@ -1,0 +1,5 @@
+// Root build file: the Android Gradle Plugin version is pinned here and applied
+// by :app. 8.4.0 needs Gradle 8.6+ and JDK 17 (see android/README.md).
+plugins {
+    id 'com.android.application' version '8.4.0' apply false
+}

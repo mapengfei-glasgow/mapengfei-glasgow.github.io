@@ -37,6 +37,14 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   ShowCodeCopyButtons = false
   disableScrollToTop = false
 
+  # Android status-bar colour for the installed app / TWA, and the browser's
+  # theme-color. This is PaperMod's dark background (theme-vars.css
+  # --theme: rgb(29, 30, 32)); PaperMod's own default (#2e2e33) does not match
+  # this site, and a second meta tag in extend_head.html would be ignored
+  # because the first one wins.
+  [params.assets]
+    theme_color = "#1d1e20"
+
   # Files page backend: the R2 portal Worker (tools/r2-portal/).
   # Deployed at https://r2-portal.mpf-npu.workers.dev (R2 binding BUCKET → aorta-data);
   # leave empty to fall back to the static files.json manifest.

@@ -1,3 +1,13 @@
+{{- /* Installable app: the web manifest drives both the Android TWA wrapper
+       (android/) and "Add to Home screen" on iOS/desktop.
+       The browser's theme-color is NOT set here: PaperMod already emits one
+       from site.Params.assets.theme_color, and a second meta would simply be
+       ignored (the first one wins). */ -}}
+<link rel="manifest" href="{{ "manifest.json" | relURL }}">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Listening">
 {{- /* Custom styles: player, sentence list, vocabulary book, auth modal
        (loaded after PaperMod's own stylesheets). */ -}}
 <link rel="stylesheet" href="{{ "css/main.css" | absURL }}">

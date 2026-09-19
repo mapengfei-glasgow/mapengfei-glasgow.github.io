@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Shown for the split second before Chrome takes over. LauncherActivity
+         extends android.app.Activity (not AppCompatActivity), so a framework
+         theme is correct here and androidx.appcompat is not required. -->
+    <style name="LauncherTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/barColor</item>
+        <item name="android:statusBarColor">@color/barColor</item>
+        <item name="android:navigationBarColor">@color/barColor</item>
+    </style>
+</resources>
