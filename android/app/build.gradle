@@ -57,5 +57,13 @@ dependencies {
     // The Trusted Web Activity launcher activity declared in the manifest lives
     // here, not in androidx.browser — androidx.browser only has
     // TrustedWebActivityIntentBuilder. (Checked against the published artifacts.)
-    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.7.3'
+    //
+    // Pinned to 2.5.0 on purpose. The newer ones drag in androidx libraries that
+    // demand AGP 8.9.1+ and compileSdk 36:
+    //   2.7.3 -> androidx.core:1.17.0        (needs compileSdk 36)
+    //   2.6.2 -> androidx.browser:1.9.0-alpha04 (needs compileSdk 36)
+    //   2.5.0 -> annotation:1.1.0, core:1.0.2, browser:1.4.0
+    // 2.5.0 has the same LauncherActivity and the same meta-data keys, so it
+    // builds against compileSdk 34 with AGP 8.4.0.
+    implementation 'com.google.androidbrowserhelper:androidbrowserhelper:2.5.0'
 }

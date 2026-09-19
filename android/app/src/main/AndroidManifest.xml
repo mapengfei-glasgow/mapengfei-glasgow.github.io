@@ -5,8 +5,8 @@
   There is deliberately no Java/Kotlin source here: the launcher activity is the
   one shipped by com.google.androidbrowserhelper, configured entirely through the
   <meta-data> values below. The meta-data key names were read out of
-  LauncherActivityMetadata.class in androidbrowserhelper-2.7.3.aar rather than
-  from memory.
+  LauncherActivityMetadata.class in the published androidbrowserhelper AAR rather
+  than from memory.
 
   Full-screen (no address bar) requires the assetlinks.json published at
   https://mapengfei-glasgow.github.io/.well-known/assetlinks.json to list this
@@ -58,6 +58,14 @@
             <meta-data
                 android:name="android.support.customtabs.trusted.SPLASH_SCREEN_FADE_OUT_DURATION"
                 android:value="300" />
+
+            <!-- App-drawer entry. Without this filter the APK still installs,
+                 but there is no icon to tap and no way to start it: the icon
+                 comes from MAIN + LAUNCHER, not from the VIEW filter below. -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
 
             <!-- autoVerify makes Android check assetlinks.json at install time,
                  which is also what lets the TWA run without a URL bar. -->
