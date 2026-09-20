@@ -9,368 +9,368 @@ audioDir: "2026-09-05-trump-drinks-venezuelas-milkshake"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-05-trump-drinks-venezuelas-milkshake/episode.mp3"
 totalDuration: 1699.9
 sentences:
-  - {text: "This message comes from IXL.", start: 0.53, end: 2.85}
-  - {text: "IXL's level -up diagnostic gives immediate benchmark results along with personalized action plans that link directly to IXL's skill practice.", start: 3.25, end: 11.41}
-  - {text: "More at IXL .com slash NPR.", start: 11.71, end: 14.57}
-  - {text: "This is Planet Money from NPR.", start: 16.16, end: 18.50}
-  - {text: "It's been one week since President Trump got on Truth Social and announced that the United States of America had just entered into an agreement with", start: 21.44, end: 31.32}
-  - {text: "the country of Venezuela on the biggest oil deal in world history.", start: 31.32, end: 36.50}
-  - {text: "All caps. This announcement was a little vague on the details, but more have come out since.", start: 37.08, end: 43.28}
-  - {text: "According to the White House, the U .S.", start: 43.62, end: 45.12}
-  - {text: "government through the Pentagon might be buying a stake in a Venezuelan oil company.", start: 45.28, end: 49.64}
-  - {text: "The Venezuelan government is going to give that company the exclusive right for 100 years to extract oil from 17 of its oil fields.", start: 50.12, end: 58.50}
-  - {text: "And the U .S.", start: 58.86, end: 59.62}
-  - {text: "will get a bunch of that oil for cheap.", start: 59.66, end: 61.46}
-  - {text: "So, yeah. Eight months after Trump ordered the capture of the leader of Venezuela and told oil execs, we're going to be extracting numbers in terms of oil like few people have seen.", start: 61.46, end: 73.84}
-  - {text: "The U .S. government is apparently in the oil biz.", start: 74.88, end: 78.66}
-  - {text: "We didn't know what to make of this.", start: 79.97, end: 81.33}
-  - {text: "Venezuela, as we've talked about on the show before, has been blessed with one of the biggest reserves of oil in the world.", start: 82.22, end: 88.74}
-  - {text: "Despite that, it is a poor country.", start: 89.34, end: 92.14}
-  - {text: "And its oil industry is just barely sputtering along right now.", start: 92.84, end: 96.42}
-  - {text: "Part of that has to do with politics from American meddling to corrupt leadership.", start: 96.94, end: 101.66}
-  - {text: "And part of it has to do with an idea we've covered before.", start: 102.12, end: 105.44}
-  - {text: "The paradox of plenty.", start: 106.08, end: 107.58}
-  - {text: "What happens when a country's whole economy is based on riches from one resource?", start: 108.24, end: 112.92}
-  - {text: "But part of it, the part we're going to focus on today because it's relevant to Trump's announcement, has to do with foreigners.", start: 113.32, end: 120.64}
-  - {text: "Who gets to tap into the country's massive oil reserves?", start: 121.14, end: 124.76}
-  - {text: "Because for the last century, Venezuela has been wrestling with this other paradox.", start: 125.22, end: 130.12}
-  - {text: "We're going to call it the can't live with them, can't live without them paradox.", start: 130.90, end: 134.52}
-  - {text: "You know how sometimes you need help, but you don't like it when you get it?", start: 135.36, end: 139.06}
-  - {text: "That has been the story of Venezuela's oil industry and outsiders.", start: 139.60, end: 143.96}
-  - {text: "They have this long history of opening up to foreign investment and then shutting down again, opening up and shutting down again.", start: 144.50, end: 151.46}
-  - {text: "Earlier this week, I called up a guy who witnessed this back and forth from the inside.", start: 151.82, end: 156.24}
-  - {text: "Hello. Hi. His name?", start: 156.52, end: 158.26}
-  - {text: "José Ángel Pereira Rembeck.", start: 158.62, end: 160.68}
-  - {text: "His oil pedigree? Strong.", start: 160.84, end: 162.46}
-  - {text: "I am the third generation.", start: 162.76, end: 164.14}
-  - {text: "His grandparents worked in Venezuela's oil industry at its founding when foreigners all but ran the show.", start: 164.62, end: 169.54}
-  - {text: "His parents were part of its nationalization.", start: 170.08, end: 172.52}
-  - {text: "José himself found his true love because of Venezuelan oil.", start: 172.52, end: 177.66}
-  - {text: "He and his wife, Mervis, were in a chorus run by the state oil company.", start: 177.98, end: 182.06}
-  - {text: "She was a mesosoprano, I was a baritone.", start: 182.32, end: 185.56}
-  - {text: "And we met there?", start: 186.16, end: 186.92}
-  - {text: "Young kids. You met in the state oil company's chorus?", start: 187.58, end: 190.40}
-  - {text: "Yes. Yes. Yes. Give me a song.", start: 190.94, end: 195.65}
-  - {text: "Give me a few notes.", start: 195.89, end: 196.87}
-  - {text: "Ferrella ca, Ferrella ca from there.", start: 197.81, end: 200.73}
-  - {text: "And as José has been following the news out of Venezuela this week, he has been thinking about the lessons he and his family have learned.", start: 200.73, end: 208.19}
-  - {text: "As they've watched Venezuela open its fast reserves of oil to foreigners and then decide to shut them out.", start: 208.53, end: 214.27}
-  - {text: "In particular, José himself had a front row seat to one moment in the 90s when, just like now, Venezuela's oil industry was faltering.", start: 214.73, end: 225.97}
-  - {text: "And just like now, they opened up their previously nationalized oil industry to foreigners.", start: 225.97, end: 231.99}
-  - {text: "It was called, well, I'm going to need some help.", start: 232.91, end: 235.52}
-  - {text: "Apertura petrolera. Opening. Apertura like the aperture of a camera?", start: 235.98, end: 240.60}
-  - {text: "Apertura is opening, yes.", start: 240.76, end: 242.18}
-  - {text: "José kind of led the charge of the Apertura.", start: 242.52, end: 245.34}
-  - {text: "The last time Venezuela opened its doors to foreign investments in their oil sector.", start: 245.80, end: 251.30}
-  - {text: "Me and my wife.", start: 251.70, end: 252.56}
-  - {text: "You and your wife worked for the first project of the Apertura?", start: 252.56, end: 257.60}
-  - {text: "The very first. The very first project, yes.", start: 258.04, end: 260.30}
-  - {text: "So you're the perfect person to talk to about this?", start: 260.48, end: 262.62}
-  - {text: "I was the guy that started all of this.", start: 263.96, end: 267.12}
-  - {text: "A little work to put in money.", start: 269.36, end: 270.42}
-  - {text: "I'm Nick Fountain. And I'm Erica Barris.", start: 270.66, end: 272.80}
-  - {text: "There's been a lot of coverage of this evolving deal between the U .S.", start: 273.12, end: 276.24}
-  - {text: "and Venezuela. Some great stuff from our colleagues here at NPR about what the U .S.", start: 276.28, end: 279.82}
-  - {text: "hopes to get from this and whether it'll work, the climate impacts.", start: 279.84, end: 282.60}
-  - {text: "Today on the show, what does this mean for Venezuela?", start: 282.60, end: 285.76}
-  - {text: "We're going to hear one take.", start: 286.42, end: 288.26}
-  - {text: "The take of a Venezuelan oilman who's been through all this before.", start: 288.72, end: 292.22}
-  - {text: "Everybody's saying this deal is probably terrible for the Venezuelan people.", start: 292.62, end: 297.48}
-  - {text: "Do you agree with that?", start: 297.86, end: 299.04}
-  - {text: "No, let me tell you.", start: 299.74, end: 301.20}
-  - {text: "I'm an oil and gas guy that knows the industry inside.", start: 301.38, end: 304.90}
-  - {text: "Yeah, José, he's both optimistic and wary.", start: 305.34, end: 309.54}
-  - {text: "Because he's seen it all.", start: 309.98, end: 311.18}
-  - {text: "When Venezuela invited foreigners in, he was there to greet them.", start: 311.18, end: 315.14}
-  - {text: "And when Venezuela wanted them out, well, that's how he ended up in a jail cell.", start: 315.62, end: 320.62}
-  - {text: "This message comes from Odoo.", start: 324.72, end: 326.32}
-  - {text: "If your business runs on five different apps, 12 browser tabs, and one spreadsheet that everyone's afraid to touch, it's probably time for Odoo.", start: 326.82, end: 335.50}
-  - {text: "Odoo is an all -in -one business management software platform.", start: 335.86, end: 339.26}
-  - {text: "Instead of wasting time switching between systems, your business works together in real time.", start: 339.50, end: 344.20}
-  - {text: "Odoo gives you one flexible platform built to grow with you.", start: 344.58, end: 347.86}
-  - {text: "Try for free today at Odoo .com slash Planet Money.", start: 348.30, end: 351.40}
-  - {text: "That's Odoo .com slash Planet Money.", start: 351.64, end: 355.12}
-  - {text: "This message comes from IXL.", start: 356.32, end: 358.24}
-  - {text: "IXL provides personalized learning and powerful insights that help teachers boost achievement and understand student progress in real time.", start: 358.46, end: 366.04}
-  - {text: "Learn more at IXL .com slash NPR.", start: 366.40, end: 369.76}
-  - {text: "All right, so what does Jose think about this news coming out of Venezuela?", start: 369.76, end: 375.81}
-  - {text: "In a bit, we're going to hear his take.", start: 376.35, end: 377.91}
-  - {text: "Why he thinks this deal between the U .S., this private Venezuelan company, and the Venezuelan government could help a lot of people and where he thinks this all might go wrong, based on his experiences.", start: 378.09, end: 391.65}
-  - {text: "His generational experiences. Remember, he's a third -generation Venezuelan oilman, and from each of those generations, you can get these picture -perfect little snapshots of the long, drama -filled history of Venezuela's oil.", start: 392.33, end: 406.01}
-  - {text: "From a time when foreigners reigned to the nationalization, and back and forth again.", start: 406.43, end: 411.57}
-  - {text: "Snapshot number one a century ago.", start: 411.91, end: 414.21}
-  - {text: "His grandparents meet cute.", start: 414.57, end: 416.25}
-  - {text: "His grandpa, a Dutch drilling engineer, part of the original wave of foreign investment and exploitation of Venezuela's oil.", start: 416.71, end: 424.67}
-  - {text: "His grandma, a Venezuelan nurse in a hospital run by an oil company.", start: 425.05, end: 429.75}
-  - {text: "How they met is that he got in an accident, and they put him in the ER, and she saw, you know, a blonde blue -eyed guy, very cute.", start: 430.07, end: 439.47}
-  - {text: "And they got connected.", start: 441.63, end: 443.31}
-  - {text: "This, of course, was the first era of Venezuelan oil, foreign control, which eventually Venezuelans got tired of, because too little money from their labor and their resources were going to them.", start: 443.95, end: 456.87}
-  - {text: "Right, which brings us to snapshot number two.", start: 456.87, end: 460.17}
-  - {text: "Now it's 1967, and this photo is of Jose's parents, both oil workers, with suitcases.", start: 460.75, end: 466.57}
-  - {text: "They're moving to Tulsa, Oklahoma, with cute little five -year -old Jose and his two sisters.", start: 467.03, end: 472.19}
-  - {text: "As part of a bigger plan.", start: 472.67, end: 474.45}
-  - {text: "Before Venezuela could nationalize their oil industry, they needed trained up Venezuelan oil engineers.", start: 475.25, end: 480.41}
-  - {text: "So he says Venezuela's oil minister sent Jose's family and a bunch of others to train at the University of Tulsa to study at their world -class petroleum engineering program.", start: 480.99, end: 492.71}
-  - {text: "Ten Venezuelan families in the 60s in the U .S.", start: 493.11, end: 497.37}
-  - {text: "was very, very uncommon, let me tell you.", start: 497.49, end: 500.35}
-  - {text: "My best friend was in America, where we played cowboys and Indians, and can you imagine who played the Indians?", start: 500.61, end: 506.77}
-  - {text: "Yeah. Seven years later, snapshot number three.", start: 507.05, end: 511.05}
-  - {text: "It's Jose and his family again, but he's a teenager now.", start: 511.45, end: 514.37}
-  - {text: "It's the late 70s and they're back in Venezuela.", start: 514.37, end: 517.01}
-  - {text: "His parents are working for a new nationalized oil company.", start: 517.63, end: 521.67}
-  - {text: "Actually, everyone is. Venezuela has taken control of the oil, and eventually creates one state -run company to own everything, but Torrios de Venezuela, or Bedevesa.", start: 522.09, end: 532.99}
-  - {text: "Though there are still tons of American workers around.", start: 533.39, end: 536.39}
-  - {text: "In fact, Jose and his family are living in this weird company town that looks like Texas.", start: 536.83, end: 542.05}
-  - {text: "Picture it. It's Texas, but in the middle of nowhere.", start: 542.05, end: 545.31}
-  - {text: "An oil field in Venezuela.", start: 545.85, end: 547.15}
-  - {text: "That was like a copy -paste of the U .S.", start: 547.57, end: 549.81}
-  - {text: "We have gold cores.", start: 549.85, end: 550.91}
-  - {text: "We have bowling. We have pools, theaters.", start: 551.39, end: 554.71}
-  - {text: "You know, we celebrated four of July.", start: 555.35, end: 556.89}
-  - {text: "We celebrated Thanksgiving. We did Halloween.", start: 557.23, end: 561.61}
-  - {text: "We did many American things.", start: 562.13, end: 563.71}
-  - {text: "A decade later, Jose and that meso -soprano he married from the youth chorus, they're grown.", start: 564.29, end: 569.21}
-  - {text: "They have their own jobs with a nationalized oil company, and for them, everything is great.", start: 569.21, end: 574.23}
-  - {text: "Except after years of high oil prices and ballooning budgets and payrolls, the price of oil has dropped.", start: 574.93, end: 581.27}
-  - {text: "Venezuela is starting to neglect its oil fields.", start: 581.77, end: 584.61}
-  - {text: "Yeah, so maybe another snapshot, idle drilling rigs and pump jacks.", start: 584.99, end: 589.39}
-  - {text: "Jose says he was there to see it.", start: 589.59, end: 591.23}
-  - {text: "And from it, he took a very important lesson.", start: 591.59, end: 594.19}
-  - {text: "The oil and gas industry, where you always have to be investing.", start: 594.63, end: 599.15}
-  - {text: "Always be investing, ABI.", start: 599.57, end: 602.03}
-  - {text: "If you don't, he says your oil fields stop being as productive.", start: 603.13, end: 606.79}
-  - {text: "Any oil field can have around 10 % to 11 % yearly that they decline.", start: 607.23, end: 614.47}
-  - {text: "So if you don't do nothing, in 10 years, your production is zero.", start: 615.51, end: 619.49}
-  - {text: "So, Venezuela didn't have money to do that.", start: 620.35, end: 622.33}
-  - {text: "And that's why the genius guys of that time created the apertura because they said, okay, let's do something.", start: 622.33, end: 629.25}
-  - {text: "Let's bring international players so they can bring money.", start: 629.89, end: 634.19}
-  - {text: "And that's how the apertura came.", start: 634.65, end: 636.55}
-  - {text: "This is the moment we wanted to talk with Jose about the most.", start: 636.95, end: 640.09}
-  - {text: "The apertura, the opening.", start: 640.37, end: 642.23}
-  - {text: "Because if you squint at least, it is analogous to what's happening now.", start: 642.89, end: 648.83}
-  - {text: "A rusty heap of an oil industry and an opening for foreigners to plow money into the economy.", start: 648.83, end: 654.71}
-  - {text: "Jose, if you couldn't tell from his genius comment, is a fan of that earlier apertura.", start: 655.01, end: 660.93}
-  - {text: "He says he saw firsthand how letting in both money and expertise from outside of the country could benefit Venezuelans.", start: 661.31, end: 668.93}
-  - {text: "Yeah, as we mentioned before, he says he worked for the very first project of the apertura.", start: 669.29, end: 673.65}
-  - {text: "Way back in 1992, he got himself hired by one of those foreign investors, a Japanese company, which was exciting.", start: 673.93, end: 681.39}
-  - {text: "Had you ever met a Japanese person before?", start: 681.69, end: 683.37}
-  - {text: "No, I had to buy a book, How to Deal with Japanese.", start: 683.65, end: 685.61}
-  - {text: "They sent him to Tokyo for months to get trained and Señor Pereira got schooled in Japanese business culture.", start: 686.77, end: 693.41}
-  - {text: "Well, for example, I became Pereira -san.", start: 693.81, end: 696.33}
-  - {text: "Hey, Pereira -san. Pereira -san, yeah, yeah, yeah.", start: 696.73, end: 699.61}
-  - {text: "He picked up new business principles, like the one where you try to get some consensus before making big changes, and it can be crazy.", start: 699.81, end: 706.99}
-  - {text: "But if you are having a team of 20 people, you need all that 20 people are in consensus.", start: 707.47, end: 714.61}
-  - {text: "It takes time to put them together.", start: 715.25, end: 717.17}
-  - {text: "Is that how the oil industry usually works?", start: 717.17, end: 719.21}
-  - {text: "No, I came with the American culture that is like this.", start: 719.73, end: 724.25}
-  - {text: "You know, and if you're the boss, you make a decision.", start: 724.85, end: 727.05}
-  - {text: "He worked for a few years for the Japanese company building up oil field infrastructure and then jumped over to an American company, majority owned by Conoco and Chevron, also part of the Apeltura.", start: 727.57, end: 737.27}
-  - {text: "Jose says those two companies brought new technology that Venezuela had needed for years.", start: 737.49, end: 742.73}
-  - {text: "For example, a lot of Venezuela's reserves of oil are this kind of sticky icky tar -like stuff.", start: 743.31, end: 749.51}
-  - {text: "Bad stuff. So we needed to have a way to produce that.", start: 749.95, end: 753.89}
-  - {text: "Venezuela didn't have that technology.", start: 754.13, end: 755.81}
-  - {text: "And these companies had figured out how to deal with the sticky icky stuff.", start: 756.29, end: 760.17}
-  - {text: "Essentially, they diluted it, made a smoothie of it so it could be transported in a pipeline.", start: 760.17, end: 765.23}
-  - {text: "That was a technology that was brought by Chevron, by Conoco, these companies.", start: 765.75, end: 771.59}
-  - {text: "Yeah, they brought tons of new technology and also tons of money, just enormous amounts of investment.", start: 772.09, end: 779.09}
-  - {text: "So do you think that the Apeltura worked?", start: 779.57, end: 783.85}
-  - {text: "The first years, the first decade worked very good.", start: 785.22, end: 788.26}
-  - {text: "Yeah, Jose says for the industry and for many, though not all, Venezuelans, it worked very well.", start: 788.26, end: 795.52}
-  - {text: "Foreign companies brought new oil fields online, fixed up the old ones, oil production nearly doubled.", start: 795.98, end: 801.58}
-  - {text: "And all that investment meant lots of jobs for Venezuelans.", start: 802.14, end: 806.22}
-  - {text: "So Jose says he's been thinking a lot about the Apeltura as he's seen the news trickle out of Venezuela about this new deal with the United States.", start: 806.50, end: 814.46}
-  - {text: "This is going to be like Apeltura 2 .0.", start: 814.78, end: 817.14}
-  - {text: "So the thing we did in the 90s...", start: 817.14, end: 820.20}
-  - {text: "Yes, it's going to be like Apeltura 2 .0, yes.", start: 821.18, end: 823.80}
-  - {text: "The White House said the company they're doing business with is going to invest $100 billion in new oil production.", start: 824.16, end: 830.64}
-  - {text: "And this week, Chevron said they're going to spend more than $7 billion over the next five years.", start: 830.96, end: 836.24}
-  - {text: "Yeah, lots of cash.", start: 836.48, end: 837.46}
-  - {text: "And remember the motto, always be investing?", start: 838.12, end: 840.18}
-  - {text: "Jose says that investment...", start: 840.90, end: 842.26}
-  - {text: "You don't put it in Mars, you put it in Venezuelans because you have to drill the wells.", start: 843.20, end: 847.94}
-  - {text: "So to drill the wells, you have to have that truck driver.", start: 848.58, end: 851.38}
-  - {text: "You need the chauffeur, you need that empanada lady that prepares the breakfast.", start: 851.78, end: 856.46}
-  - {text: "She's very important. She might be the most important person.", start: 856.88, end: 859.44}
-  - {text: "I'm not kidding, you will need everything.", start: 860.88, end: 862.64}
-  - {text: "So the people can have a better life.", start: 862.98, end: 865.02}
-  - {text: "But when Jose looks at the Apeltura, he helps beerhead back in the 90s.", start: 865.80, end: 870.80}
-  - {text: "He says it also includes a cautionary tale, which is when you open up Venezuela to foreign investment and the foreigners seem to have the upper hand, things can go sour.", start: 871.14, end: 883.24}
-  - {text: "Right, because here's how the Apeltura 1 .0 ended.", start: 883.68, end: 887.34}
-  - {text: "As foreigners started reaping the benefits of their investments, a brash red beret wearing populace named Hugo Chávez, el comandante, was gaining popularity.", start: 887.94, end: 898.92}
-  - {text: "In 1998, he'd run for president and win partially on the promise of sharing the oil wealth, lifting people out of poverty, and dethroning the oil elite.", start: 899.42, end: 910.36}
-  - {text: "Chávez criticized Bedevesa, the state oil company, calling it a state within a state.", start: 910.88, end: 916.08}
-  - {text: "And Jose says, on that point, he wasn't exactly wrong.", start: 916.52, end: 919.84}
-  - {text: "The problem that was happening with Bedevesa, that those guys that began to work with my dad, these guys became like kings.", start: 920.12, end: 929.02}
-  - {text: "They were intouchable. They became very, you know, it was like a theocracy, you know.", start: 930.04, end: 937.28}
-  - {text: "Yeah, theocracy and oligopoly.", start: 937.82, end: 939.70}
-  - {text: "And they weren't just going to let Chávez take their power.", start: 940.20, end: 943.46}
-  - {text: "These guys didn't like Chávez, and they did kind of a plot to take Chávez and that created the national strike.", start: 943.90, end: 953.98}
-  - {text: "In late 2002, oil workers, their management, walked off the job.", start: 954.46, end: 958.70}
-  - {text: "It was a standoff between Chávez and the oil elite.", start: 959.22, end: 962.26}
-  - {text: "There was violence in the street.", start: 962.92, end: 964.02}
-  - {text: "Oil production dropped too close to zero.", start: 964.44, end: 966.76}
-  - {text: "Venezuela was starved of its oil money.", start: 967.22, end: 969.64}
-  - {text: "They were thinking that if they do that national strike and they squeeze Chávez, he will resign.", start: 970.00, end: 975.98}
-  - {text: "That was their idea.", start: 976.52, end: 977.50}
-  - {text: "That's what they thought.", start: 978.10, end: 979.04}
-  - {text: "And look what Chávez did.", start: 979.90, end: 981.18}
-  - {text: "He fired 20 ,000 people.", start: 981.36, end: 982.96}
-  - {text: "20 ,000. Including everyone you knew.", start: 982.96, end: 986.72}
-  - {text: "Everyone I knew, yes.", start: 987.20, end: 988.74}
-  - {text: "Not him. He was in the private sector by then.", start: 989.10, end: 991.28}
-  - {text: "Can you imagine all my former colleagues being fired?", start: 991.46, end: 994.74}
-  - {text: "I have neighbors. Neighbors that live beside my house that were fired.", start: 995.56, end: 1000.32}
-  - {text: "In the mid -2000s, Chávez made good on his promise to try to redistribute the oil wealth.", start: 1000.76, end: 1005.18}
-  - {text: "He tore up the contracts the foreign companies had with Bedevesa.", start: 1005.36, end: 1008.66}
-  - {text: "Said they were unfair.", start: 1008.94, end: 1009.64}
-  - {text: "He was a little bit right.", start: 1009.64, end: 1011.72}
-  - {text: "But if you see the things in what happened after, he took a bad decision.", start: 1012.36, end: 1018.76}
-  - {text: "For José, though, everything worked out okay.", start: 1019.20, end: 1021.78}
-  - {text: "Because all those formally foreign -owned companies...", start: 1022.18, end: 1024.90}
-  - {text: "I became the manager.", start: 1025.58, end: 1026.46}
-  - {text: "You became the manager of...", start: 1026.66, end: 1027.74}
-  - {text: "And all those companies...", start: 1027.74, end: 1029.04}
-  - {text: "You became the manager of all the nationalized oil companies?", start: 1029.04, end: 1032.08}
-  - {text: "44 companies, yes. Wow.", start: 1032.38, end: 1034.90}
-  - {text: "44 companies. Which means, José had a front -row seat as foreigners made their slow retreat out of the country.", start: 1035.95, end: 1042.65}
-  - {text: "The only major American oil company to stay was Chevron.", start: 1043.05, end: 1046.07}
-  - {text: "Under a new contract that gave majority control to Bedevesa.", start: 1046.71, end: 1050.25}
-  - {text: "Meanwhile, Bedevesa was taken over by Chávez loyalists.", start: 1050.87, end: 1055.49}
-  - {text: "Some of whom couldn't tell a pump jack from a nodding donkey.", start: 1055.99, end: 1059.59}
-  - {text: "Just kidding, that's the same thing.", start: 1059.95, end: 1061.15}
-  - {text: "It took years, but at the end they destroyed it.", start: 1061.85, end: 1064.83}
-  - {text: "He lost two -thirds of the production capacity.", start: 1064.83, end: 1068.31}
-  - {text: "But at the same time, Bedevesa became bloated.", start: 1068.93, end: 1071.75}
-  - {text: "They hired an enormous number of employees.", start: 1072.15, end: 1074.71}
-  - {text: "Like five times that we had in the past, yes.", start: 1075.15, end: 1078.13}
-  - {text: "They are only being paid because it's like a political party.", start: 1078.93, end: 1081.97}
-  - {text: "So that is the cautionary tale of the Apeltura.", start: 1082.41, end: 1084.77}
-  - {text: "If you let foreign investors in, it can be good.", start: 1085.13, end: 1088.11}
-  - {text: "It can revitalize the oil sector.", start: 1088.45, end: 1090.29}
-  - {text: "A lot of people can reap the rewards.", start: 1090.63, end: 1092.57}
-  - {text: "But beware because things can change.", start: 1092.57, end: 1096.49}
-  - {text: "If Venezuelans get the sense that they're being taken advantage of, they might take everything back.", start: 1097.01, end: 1101.83}
-  - {text: "Now this new Venezuelan oil deal just announced by Trump, it's a weird one.", start: 1102.35, end: 1108.41}
-  - {text: "Even though the Venezuelan constitution says that oil deposits are owned by the Venezuelan people and can't be transferred to a private company or country, this", start: 1109.05, end: 1117.59}
-  - {text: "deal gives the rights to 17 oil fields in Venezuela to a private company which might be partially owned by the U .S.", start: 1117.59, end: 1125.89}
-  - {text: "Of course it's not the best deal.", start: 1126.09, end: 1127.51}
-  - {text: "I would never negotiate that.", start: 1127.75, end: 1128.97}
-  - {text: "But of course not.", start: 1129.41, end: 1131.09}
-  - {text: "If they didn't have a chance to negotiate, that wasn't imposed.", start: 1131.37, end: 1134.45}
-  - {text: "Okay? Yeah. Remember the U .S.", start: 1134.97, end: 1137.61}
-  - {text: "military bombed Venezuela, removed its former president, put him on an airplane, and is holding him at a jail in New York.", start: 1137.67, end: 1143.81}
-  - {text: "The current U .S.", start: 1144.31, end: 1145.29}
-  - {text: "backed president seems basically at the beck and call of the White House.", start: 1145.49, end: 1149.21}
-  - {text: "Not exactly a negotiation.", start: 1149.21, end: 1150.81}
-  - {text: "But despite all that, and despite the climate impacts and how the oil wealth might not be shared equitably, Jose thinks anything to jumpstart Venezuela's oil", start: 1151.69, end: 1162.43}
-  - {text: "economy has the potential to be good for Venezuelans.", start: 1162.43, end: 1166.03}
-  - {text: "He's not out. Wow.", start: 1166.47, end: 1168.17}
-  - {text: "Are you going to come out of retirement to do this?", start: 1168.95, end: 1170.87}
-  - {text: "I can be advising that from here from the U .S.", start: 1171.81, end: 1174.77}
-  - {text: "I'm not planning to go back to Venezuela.", start: 1174.81, end: 1176.61}
-  - {text: "Oh, yeah. Because there's one more thing that happened to Jose in Venezuela that we haven't told you about yet.", start: 1176.61, end: 1184.11}
-  - {text: "Yeah, it might be the most cautionary epilogue to this cautionary tale, especially for any oil execs trying to get in on this deal.", start: 1185.05, end: 1194.77}
-  - {text: "Here's a little image, a preview.", start: 1195.31, end: 1196.57}
-  - {text: "Can you imagine 20 guys with skeleton masks and rifles?", start: 1197.15, end: 1200.43}
-  - {text: "That's after the break.", start: 1200.79, end: 1201.61}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1208.66, end: 1212.26}
-  - {text: "This message comes from Schwab.", start: 1213.47, end: 1214.97}
-  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place, no matter your investing goal, life stage, amount to invest,", start: 1215.41, end: 1225.57}
-  - {text: "or know how, you can invest your way with Schwab.", start: 1225.85, end: 1229.09}
-  - {text: "This message comes from Northwestern Mutual.", start: 1229.53, end: 1232.13}
-  - {text: "Life's a lot lately.", start: 1232.49, end: 1233.89}
-  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1234.29, end: 1238.45}
-  - {text: "It all starts with Northwestern Mutual.", start: 1238.77, end: 1240.73}
-  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1240.73, end: 1248.99}
-  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1249.45, end: 1254.55}
-  - {text: "This message comes from Active Campaign.", start: 1255.45, end: 1257.41}
-  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 1257.99, end: 1262.43}
-  - {text: "That's Active Intelligence by Active Campaign.", start: 1262.77, end: 1265.23}
-  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 1265.57, end: 1270.99}
-  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 1271.33, end: 1275.85}
-  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 1276.39, end: 1280.81}
-  - {text: "Start free at ActiveCampaign .com.", start: 1281.03, end: 1283.41}
-  - {text: "You know, I don't really think that any oil exec who is thinking of going into business in Venezuela right now has the time to listen to the show,", start: 1285.45, end: 1292.05}
-  - {text: "but if you are, you're going to want to hear this part.", start: 1292.11, end: 1294.71}
-  - {text: "This story is about just how bad things can get when an oil exec gets caught in a geopolitical struggle.", start: 1295.05, end: 1300.91}
-  - {text: "In the 2010s, Jose Pereira got a pretty sweet job.", start: 1301.29, end: 1304.93}
-  - {text: "He became president and CEO of Sicko, which is an oil company owned by Venezuela and selling Venezuelan oil, but based in the United States.", start: 1305.23, end: 1314.31}
-  - {text: "So we moved up to Houston, was living the oil executive's life.", start: 1314.69, end: 1317.85}
-  - {text: "We have all the toys.", start: 1318.19, end: 1319.65}
-  - {text: "I flew in helicopters all over.", start: 1320.45, end: 1322.67}
-  - {text: "I have a plane that I could travel all over, but it was a tough situation politically.", start: 1322.83, end: 1330.17}
-  - {text: "Jose was a Venezuelan kind of raised in Oklahoma running a Venezuelan oil company in Texas?", start: 1330.71, end: 1337.87}
-  - {text: "Yeah. The Americans thought he was just a chavista, and the Venezuelans, well, eventually they didn't trust him either.", start: 1338.37, end: 1345.11}
-  - {text: "And that got worse in 2017 when President Trump and the successor to Chavez, Nicolás Maduro, really started going at it.", start: 1345.55, end: 1352.65}
-  - {text: "Sanctions from Trump, harsh words from Maduro.", start: 1353.13, end: 1355.31}
-  - {text: "Jose says being stuck in the middle was exhausting.", start: 1355.31, end: 1358.09}
-  - {text: "He was ready to call it quits, getting ready to retire.", start: 1358.69, end: 1361.61}
-  - {text: "And then just before Thanksgiving, he was at the movies with his wife, Justice League, when he got a call.", start: 1362.25, end: 1368.09}
-  - {text: "It was Venezuela's petroleum minister.", start: 1368.43, end: 1370.95}
-  - {text: "They wanted him to come to Caracas to give an update about a refinery project.", start: 1371.53, end: 1375.69}
-  - {text: "So it was like a short notice.", start: 1376.11, end: 1377.79}
-  - {text: "Come tomorrow. Come tomorrow.", start: 1378.27, end: 1379.45}
-  - {text: "Tomorrow, yes. So I quit the movie.", start: 1379.69, end: 1381.83}
-  - {text: "I told my wife, we see the movie when I come back.", start: 1382.15, end: 1384.93}
-  - {text: "Next morning, he and five other executives fly to Caracas.", start: 1384.93, end: 1388.69}
-  - {text: "They give their presentation.", start: 1389.09, end: 1389.99}
-  - {text: "It goes well. I had the plane waiting for me in the airport, and when I was going to go to the airport, they opened the doors, and it came like 20 guards with masks, skeleton masks.", start: 1390.59, end: 1404.44}
-  - {text: "Can you imagine 20 guys with skeleton masks and rifles?", start: 1404.62, end: 1407.64}
-  - {text: "He says they were from Maduro's counterintelligence unit, the folks who rounded up Maduro's political prisoners.", start: 1408.08, end: 1414.38}
-  - {text: "One of them approached him.", start: 1414.38, end: 1416.40}
-  - {text: "And said, who is Jose Pereira here?", start: 1416.58, end: 1418.50}
-  - {text: "So I said, I'm Jose Pereira.", start: 1419.10, end: 1421.38}
-  - {text: "Okay, you had to come with me.", start: 1422.06, end: 1423.34}
-  - {text: "And then we went to a small room.", start: 1423.54, end: 1426.90}
-  - {text: "It came inside a general, and he announced that we were accused to be American spies, had committed treason to the country, and we're going to go to jail.", start: 1428.00, end: 1438.00}
-  - {text: "They put us handcuffs, and the next time I went out to see the sky, it was 10 months after.", start: 1438.32, end: 1444.04}
-  - {text: "So I stayed in solitary confinement for the next 10 months.", start: 1444.04, end: 1447.96}
-  - {text: "10 months in solitaire, accused of treason, corruption, and embezzlement, all of which he says he didn't do.", start: 1448.56, end: 1456.20}
-  - {text: "The US government agreed.", start: 1456.94, end: 1458.02}
-  - {text: "They said he was wrongfully detained.", start: 1458.18, end: 1459.82}
-  - {text: "But he was stuck.", start: 1460.56, end: 1461.20}
-  - {text: "This is the last snapshot of our story.", start: 1461.76, end: 1463.36}
-  - {text: "Jose, alone in a cell, the starkest of contrast with the expense account life he'd been living before.", start: 1463.66, end: 1469.08}
-  - {text: "He lost 100 pounds.", start: 1469.50, end: 1470.48}
-  - {text: "400 pounds, yes. You lost 100 pounds?", start: 1471.02, end: 1475.03}
-  - {text: "100 pounds in one year.", start: 1475.17, end: 1476.95}
-  - {text: "Yeah. So no diet.", start: 1477.23, end: 1478.61}
-  - {text: "Starving. Oh. Yeah. Eventually, he got out of solitary.", start: 1479.13, end: 1483.49}
-  - {text: "His family figured out how to get him food, and he was reunited with his sick go colleagues.", start: 1483.91, end: 1488.79}
-  - {text: "Oh, wow, my friend.", start: 1489.31, end: 1490.45}
-  - {text: "We hugged all of us.", start: 1491.05, end: 1492.63}
-  - {text: "We began to cry.", start: 1492.97, end: 1494.07}
-  - {text: "He says they kind of saved each other.", start: 1494.47, end: 1496.57}
-  - {text: "In detention, they became workout buddies, Bible study buddies, dominoes buddies.", start: 1497.15, end: 1501.71}
-  - {text: "It was like when he worked for the Japanese company.", start: 1501.71, end: 1504.69}
-  - {text: "Every decision they made, they made together and discussed at great length.", start: 1505.01, end: 1509.93}
-  - {text: "Well, let me tell you, we create like a boardroom.", start: 1510.29, end: 1513.13}
-  - {text: "No, no, no. Literally, we did like a boardroom.", start: 1513.49, end: 1516.87}
-  - {text: "We were in the six in a round table and taken decision how we will survive.", start: 1517.05, end: 1523.09}
-  - {text: "Eventually, after nearly five years of imprisonment, two cases of scabies, two of COVID, a case of bronchitis, and a heart attack.", start: 1523.59, end: 1531.65}
-  - {text: "Jose, the rest of his sick go colleagues, and two other prisoners were swapped for two Venezuelans, nephews of then president Maduro.", start: 1532.09, end: 1540.07}
-  - {text: "What's a good deal?", start: 1540.51, end: 1541.33}
-  - {text: "What's a good deal?", start: 1542.11, end: 1543.13}
-  - {text: "So that explains why he doesn't want to go back and why his son, who also works in oil, four generations, says no way.", start: 1543.63, end: 1552.49}
-  - {text: "And it might also explain why kick starting foreign investment in Venezuela has been so hard for President Trump.", start: 1553.22, end: 1560.84}
-  - {text: "Why most of the big oil companies haven't jumped back into Venezuela so far.", start: 1561.18, end: 1565.00}
-  - {text: "Apertura 2 .0, it is not exactly happening on the best of terms.", start: 1565.66, end: 1570.94}
-  - {text: "It is one country, the U .S., pretty much dictating the terms with gun boats and helicopters.", start: 1571.70, end: 1578.00}
-  - {text: "Jose and a lot of other people do not want to be in the middle of that.", start: 1579.04, end: 1583.66}
-  - {text: "A quick word before we go.", start: 1592.41, end: 1593.93}
-  - {text: "We are working on a new bonus episode about a topic we've been asked to tackle a bunch of times over the years, the economics of podcasting.", start: 1593.93, end: 1602.31}
-  - {text: "We are pulling back the curtain on NPR Plus, the sponsor messages you hear, or maybe don't hear, the dollars and cents of it all.", start: 1602.57, end: 1611.11}
-  - {text: "If you're curious about how any of that works, and have a question, drop us an email, planetmoneyatnpr .org.", start: 1611.39, end: 1617.59}
-  - {text: "This episode of Planet Money was produced by Emma Peasley and Samuel Horst Kessler.", start: 1617.85, end: 1622.31}
-  - {text: "It was edited by Mary Ann McKeown.", start: 1622.31, end: 1624.23}
-  - {text: "It was fact -checked by Emma and Sierra Juarez.", start: 1624.37, end: 1626.85}
-  - {text: "It was engineered by Josephine Neonai with help from Jimmy Keely.", start: 1627.15, end: 1631.03}
-  - {text: "Our school mark is Planet Money's executive producer.", start: 1631.35, end: 1633.61}
-  - {text: "Special thanks to longtime Planet Money producer Willa Rubin, who is currently covering energy for NPR.", start: 1634.05, end: 1641.47}
-  - {text: "You got to check out her coverage.", start: 1641.67, end: 1642.55}
-  - {text: "It's really great. I'm Nick Fountain.", start: 1642.81, end: 1644.47}
-  - {text: "I'm Erica Barris. This is NPR.", start: 1645.13, end: 1646.65}
-  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1647.05, end: 1667.35}
-  - {text: "Taxes and fees extra.", start: 1696.10, end: 1697.26}
-  - {text: "See Mint Mobile for details.", start: 1697.54, end: 1698.72}
+  - {text: "This message comes from IXL.", start: 0.53, end: 2.85, explain: "This is an advertisement. \"IXL\" is the name of a company that makes learning tools for schools.", zh: "这条信息来自IXL。（IXL 一家教育科技公司）"}
+  - {text: "IXL's level -up diagnostic gives immediate benchmark results along with personalized action plans that link directly to IXL's skill practice.", start: 3.25, end: 11.41, explain: "A \"diagnostic\" is a test to check what a student knows. \"Benchmark\" means a standard level to compare against. \"Personalized\" means made just for one person. This sentence says the test gives quick results and a plan for each student.", zh: "IXL的进阶诊断功能能立即给出基准测试结果，并生成个性化行动计划，直接链接到IXL的技能练习模块。（diagnostic 诊断；benchmark 基准；personalized 个性化的）"}
+  - {text: "More at IXL .com slash NPR.", start: 11.71, end: 14.57, explain: "This is a website address. \"Slash\" means the symbol \"/\". It tells you where to find more information online.", zh: "更多信息请访问IXL.com/slash/NPR。（slash 斜杠，指网址中的/）"}
+  - {text: "This is Planet Money from NPR.", start: 16.16, end: 18.50, explain: "This is the name of the show. \"NPR\" is the radio station that makes it.", zh: "这里是NPR的《星球金钱》。（Planet Money NPR的一档经济类播客；NPR 美国国家公共广播电台）"}
+  - {text: "It's been one week since President Trump got on Truth Social and announced that the United States of America had just entered into an agreement with", start: 21.44, end: 31.32, explain: "\"Truth Social\" is a website where people share messages. \"Announced\" means said publicly. \"Agreement\" means a deal. The sentence is cut off and continues in the next one.", zh: "距离特朗普总统在Truth Social上宣布美国刚刚与……（Truth Social 特朗普创立的社交媒体平台）"}
+  - {text: "the country of Venezuela on the biggest oil deal in world history.", start: 31.32, end: 36.50, zh: "委内瑞拉达成世界历史上最大的石油协议，已经一周了。（Venezuela 委内瑞拉）"}
+  - {text: "All caps. This announcement was a little vague on the details, but more have come out since.", start: 37.08, end: 43.28, explain: "\"All caps\" means writing with big letters. \"Vague\" means not clear or detailed. This sentence says the first message was not very clear, but now we know more.", zh: "全是大写。这个公告细节有点模糊，但后来有更多消息披露了。（All caps 全大写，指原文中强调用的全大写字母）"}
+  - {text: "According to the White House, the U .S.", start: 43.62, end: 45.12, zh: "据白宫称，美国政府……（White House 白宫，代指美国政府）"}
+  - {text: "government through the Pentagon might be buying a stake in a Venezuelan oil company.", start: 45.28, end: 49.64, explain: "The \"Pentagon\" is the main building of the US military. \"Buying a stake\" means buying a part of a company. This sentence is a fragment and continues from the previous one.", zh: "可能会通过五角大楼购买一家委内瑞拉石油公司的股份。（Pentagon 五角大楼，代指美国国防部；stake 股份）"}
+  - {text: "The Venezuelan government is going to give that company the exclusive right for 100 years to extract oil from 17 of its oil fields.", start: 50.12, end: 58.50, explain: "\"Exclusive\" means only one person or group can do it. \"Extract\" means to take out. This sentence says Venezuela will let one company take oil from 17 fields for 100 years, and no one else can.", zh: "委内瑞拉政府将授予该公司独家权利，在100年内从其17个油田中开采石油。（exclusive right 独家权利；extract 开采）"}
+  - {text: "And the U .S.", start: 58.86, end: 59.62, zh: "而美国……"}
+  - {text: "will get a bunch of that oil for cheap.", start: 59.66, end: 61.46, zh: "将以低价获得大量石油。（for cheap 便宜地，低价）"}
+  - {text: "So, yeah. Eight months after Trump ordered the capture of the leader of Venezuela and told oil execs, we're going to be extracting numbers in terms of oil like few people have seen.", start: 61.46, end: 73.84, explain: "A \"capture\" is when the police or army take a person into their control. \"Execs\" is a short word for executives, which are the top bosses in a company. \"Extracting\" means taking something out, here it means taking oil out of the ground. The sentence says that eight months ago, Trump took the leader of Venezuela and told oil bosses that they will take out a lot of oil.", zh: "没错，在特朗普下令抓捕委内瑞拉领导人并告诉石油高管们，我们将提取前所未有的石油产量数字八个月后。（execs 高管；extracting 提取，开采）"}
+  - {text: "The U .S. government is apparently in the oil biz.", start: 74.88, end: 78.66, explain: "\"Apparently\" means it seems to be true, or people think it is true. \"Oil biz\" is a short, informal way to say the business of selling oil. The sentence says that the US government seems to be working in the oil industry.", zh: "美国政府显然正在涉足石油行业。（in the oil biz 从事石油生意）"}
+  - {text: "We didn't know what to make of this.", start: 79.97, end: 81.33, zh: "我们当时不知道该如何看待这件事。（make of 理解，看待）"}
+  - {text: "Venezuela, as we've talked about on the show before, has been blessed with one of the biggest reserves of oil in the world.", start: 82.22, end: 88.74, explain: "\"Blessed\" here means very lucky or fortunate. \"Reserves\" means the amount of a natural resource, like oil, that is known to be there. The sentence says that Venezuela is very lucky because it has a huge amount of oil.", zh: "正如我们在节目中之前提到的，委内瑞拉拥有世界上最大的石油储量之一。（reserves 储量）"}
+  - {text: "Despite that, it is a poor country.", start: 89.34, end: 92.14, explain: "\"Despite\" means even though or in spite of. The sentence says that the country is poor, even though something else was true before.", zh: "尽管如此，它仍然是一个贫穷国家。（Despite that 尽管如此）"}
+  - {text: "And its oil industry is just barely sputtering along right now.", start: 92.84, end: 96.42, explain: "\"Sputtering\" means moving or working in a weak, broken way, like an engine that is about to stop. \"Barely\" means just enough, with very little to spare. The sentence says that the oil industry is working, but it is very weak and not doing well.", zh: "而且其石油行业目前只是勉强维持运转。（sputtering along 勉强运转，断断续续地运行）"}
+  - {text: "Part of that has to do with politics from American meddling to corrupt leadership.", start: 96.94, end: 101.66, explain: "\"Meddling\" means trying to control or change things in another country, often in a bad way. \"Corrupt\" means that leaders take money or power for themselves instead of helping the people. The sentence says that politics, like outside interference and bad leaders, is one reason for the problem.", zh: "部分原因在于政治，从美国的干涉到腐败的领导层。（meddling 干涉，插手）"}
+  - {text: "And part of it has to do with an idea we've covered before.", start: 102.12, end: 105.44, zh: "另一部分原因与我们之前报道过的一个概念有关。（covered 报道，涉及）"}
+  - {text: "The paradox of plenty.", start: 106.08, end: 107.58, zh: "这就是“丰裕的悖论”。（paradox 悖论；plenty 丰富，充裕）"}
+  - {text: "What happens when a country's whole economy is based on riches from one resource?", start: 108.24, end: 112.92, explain: "\"Riches\" means a lot of money or valuable things. \"Resource\" is a natural thing, like oil or gold, that a country can use to make money. The speaker asks what happens when a country only has money from one thing.", zh: "当一个国家的整个经济都建立在单一资源的财富之上时，会发生什么？（resource 资源）"}
+  - {text: "But part of it, the part we're going to focus on today because it's relevant to Trump's announcement, has to do with foreigners.", start: 113.32, end: 120.64, explain: "\"Relevant\" means connected to or important for a specific topic. \"Foreigners\" are people from other countries. The speaker says they will talk about the part of the story that connects to Trump's news, which is about people from other countries.", zh: "但其中有一部分，也就是我们今天重点关注的部分，因为它与特朗普的声明有关，涉及的是外国人。（relevant 相关的；announcement 声明，公告）"}
+  - {text: "Who gets to tap into the country's massive oil reserves?", start: 121.14, end: 124.76, explain: "To \"tap into\" a resource means to start using it or taking it out. \"Reserves\" are large amounts of a natural resource, like oil, that are stored underground. The question asks who is allowed to use the country's large amount of oil.", zh: "谁有权开采该国巨大的石油储备？（tap into 利用，开采；reserves 储备，储量）"}
+  - {text: "Because for the last century, Venezuela has been wrestling with this other paradox.", start: 125.22, end: 130.12, explain: "A \"century\" is 100 years. To \"wrestle with\" a problem means to try hard to solve it, but it is difficult. A \"paradox\" is a situation that seems to have two opposite truths at the same time. Venezuela has been struggling with this confusing situation for 100 years.", zh: "因为过去一个世纪，委内瑞拉一直在与另一个悖论作斗争。（wrestling with 与……作斗争，艰难应对）"}
+  - {text: "We're going to call it the can't live with them, can't live without them paradox.", start: 130.90, end: 134.52, explain: "This phrase means that a situation is bad when you are with someone, but it is also bad when you are alone. It describes a difficult relationship where both options are not good. The speaker gives this name to the confusing situation in Venezuela.", zh: "我们把它称为“离不开又过不好”的悖论。（can't live with them, can't live without them 离不开又过不好，形容既依赖又排斥的关系）"}
+  - {text: "You know how sometimes you need help, but you don't like it when you get it?", start: 135.36, end: 139.06, zh: "你知道有时候你需要帮助，但又不喜欢得到帮助吗？"}
+  - {text: "That has been the story of Venezuela's oil industry and outsiders.", start: 139.60, end: 143.96, explain: "\"Outsiders\" are people who are not from the country or group being discussed. Here, it means foreign companies or people. This difficult relationship has been the main story of Venezuela's oil business and foreign people.", zh: "这就是委内瑞拉石油行业与外部势力之间一直上演的故事。（outsiders 外部人员，外人）"}
+  - {text: "They have this long history of opening up to foreign investment and then shutting down again, opening up and shutting down again.", start: 144.50, end: 151.46, explain: "\"Foreign investment\" is money from other countries used to build businesses. \"Shutting down\" means stopping access or closing the door. Venezuela has a long history of letting foreign money in, then stopping it, and doing this many times.", zh: "他们有着漫长的历史，先是向外国投资开放，然后又关闭，再开放，再关闭。（foreign investment 外国投资）"}
+  - {text: "Earlier this week, I called up a guy who witnessed this back and forth from the inside.", start: 151.82, end: 156.24, explain: "To \"call up\" someone means to phone them. To \"witness\" something means to see it happen. \"From the inside\" means the person was working there or was part of the group. The speaker phoned a man who saw these changes happen while working in the industry.", zh: "本周早些时候，我联系了一位从内部见证过这种反复无常的人。（witnessed 见证；back and forth 反复，来回）"}
+  - {text: "Hello. Hi. His name?", start: 156.52, end: 158.26, zh: "你好。嗨。他叫什么名字？"}
+  - {text: "José Ángel Pereira Rembeck.", start: 158.62, end: 160.68, explain: "This is the name of the person mentioned in the previous sentence. It is a full name from a Spanish-speaking country.", zh: "何塞·安赫尔·佩雷拉·伦贝克。（Pereira Rembeck 佩雷拉·伦贝克，人名）"}
+  - {text: "His oil pedigree? Strong.", start: 160.84, end: 162.46, explain: "A \"pedigree\" is a family history or background. The speaker says his family has a very strong history in the oil business.", zh: "他的石油家族背景？很强。（pedigree 血统，出身背景）"}
+  - {text: "I am the third generation.", start: 162.76, end: 164.14, explain: "\"Third generation\" means he is the third person in his family to work in this field, after his parents and grandparents.", zh: "我是第三代。（third generation 第三代）"}
+  - {text: "His grandparents worked in Venezuela's oil industry at its founding when foreigners all but ran the show.", start: 164.62, end: 169.54, explain: "\"Foreigners\" are people from other countries. \"Ran the show\" means they controlled everything. The sentence says that when the oil industry started, people from other countries had almost total control.", zh: "他的祖父母在委内瑞拉石油业创立初期就在那里工作，当时外国人几乎掌控了一切。（founding 创立；all but 几乎，差不多）"}
+  - {text: "His parents were part of its nationalization.", start: 170.08, end: 172.52, explain: "\"Nationalization\" is when the government takes control of a business that was owned by private people. His parents helped the government take over the oil company.", zh: "他的父母参与了该行业的国有化进程。（nationalization 国有化）"}
+  - {text: "José himself found his true love because of Venezuelan oil.", start: 172.52, end: 177.66, zh: "何塞本人因为委内瑞拉的石油找到了真爱。（true love 真爱）"}
+  - {text: "He and his wife, Mervis, were in a chorus run by the state oil company.", start: 177.98, end: 182.06, explain: "A \"chorus\" is a group of people who sing together. \"Run by\" means managed or organized by. They were members of a singing group managed by the state oil company.", zh: "他和妻子梅尔维斯都在国家石油公司运营的合唱团里。（chorus 合唱团；state oil company 国家石油公司）"}
+  - {text: "She was a mesosoprano, I was a baritone.", start: 182.32, end: 185.56, explain: "A \"mesosoprano\" is a type of female singing voice. A \"baritone\" is a type of male singing voice. He is describing the voices he and his wife have.", zh: "她是次女高音，我是男中音。（mesosoprano 次女高音；baritone 男中音）"}
+  - {text: "And we met there?", start: 186.16, end: 186.92, explain: "This is a question asking if they met at the place where the chorus was.", zh: "我们是在那里认识的？（met 遇见，相识）"}
+  - {text: "Young kids. You met in the state oil company's chorus?", start: 187.58, end: 190.40, explain: "The speaker is confirming that they met as young people in the singing group owned by the oil company.", zh: "小朋友们，你们是在国家石油公司的合唱团里认识的吗？（chorus 合唱团）"}
+  - {text: "Yes. Yes. Yes. Give me a song.", start: 190.94, end: 195.65, zh: "是的，是的，是的。给我唱首歌吧。"}
+  - {text: "Give me a few notes.", start: 195.89, end: 196.87, zh: "给我来几个音符。"}
+  - {text: "Ferrella ca, Ferrella ca from there.", start: 197.81, end: 200.73, explain: "This sentence is broken and hard to understand. It seems to be a mistake in the recording or a very short, unclear sound.", zh: "Ferrella ca，Ferrella ca，就那样唱。"}
+  - {text: "And as José has been following the news out of Venezuela this week, he has been thinking about the lessons he and his family have learned.", start: 200.73, end: 208.19, explain: "\"Following the news\" means reading or listening to news reports. \"Lessons\" here means things they have learned from past events. José has been watching news about Venezuela and thinking about what his family learned in the past.", zh: "随着何塞本周一直关注委内瑞拉的新闻，他一直在思考他和家人从中吸取的教训。（José 何塞，人名）"}
+  - {text: "As they've watched Venezuela open its fast reserves of oil to foreigners and then decide to shut them out.", start: 208.53, end: 214.27, explain: "\"Reserves\" means the amount of oil stored in the ground. \"Shut them out\" means to stop them from coming in. The sentence says Venezuela let foreign companies use its oil, but then stopped them.", zh: "看着委内瑞拉向外国人开放其庞大的石油储备，随后又决定将他们拒之门外。（fast reserves 此处指庞大的石油储备）"}
+  - {text: "In particular, José himself had a front row seat to one moment in the 90s when, just like now, Venezuela's oil industry was faltering.", start: 214.73, end: 225.97, explain: "\"Front row seat\" means you were very close to the event and saw everything clearly. \"Faltering\" means becoming weak or not working well. José was very close to a time in the 1990s when Venezuela's oil business was failing, just like now.", zh: "特别是何塞本人，在90年代曾亲眼目睹了一个时刻，当时委内瑞拉的石油行业就像现在一样陷入困境。（faltering 动摇，陷入困境）"}
+  - {text: "And just like now, they opened up their previously nationalized oil industry to foreigners.", start: 225.97, end: 231.99, explain: "\"Nationalized\" means the government owns the business. \"Opened up\" means they let other people, like foreign companies, work in it. Like now, Venezuela let foreign companies work in its oil industry, which was owned by the government before.", zh: "就像现在一样，他们向外国人开放了此前已国有化的石油行业。（nationalized 国有化的）"}
+  - {text: "It was called, well, I'm going to need some help.", start: 232.91, end: 235.52, explain: "\"I'm going to need some help\" is a common phrase meaning you do not know the answer and need another person to help you. The speaker says he does not know the name of the event and needs help.", zh: "它被称为……嗯，我需要一点帮助。"}
+  - {text: "Apertura petrolera. Opening. Apertura like the aperture of a camera?", start: 235.98, end: 240.60, explain: "\"Apertura\" is a Spanish word. \"Aperture\" is the opening in a camera that lets light in. The speaker asks if the word means the same as the camera part.", zh: "Apertura petrolera，石油开放。Apertura，就像相机的光圈那样吗？（Apertura petrolera 石油开放政策；aperture 光圈）"}
+  - {text: "Apertura is opening, yes.", start: 240.76, end: 242.18, explain: "\"Apertura\" is a Spanish word that means opening. The speaker confirms that the word means opening.", zh: "Apertura 就是开放，没错。（Apertura 开放，指委内瑞拉石油业对外开放政策）"}
+  - {text: "José kind of led the charge of the Apertura.", start: 242.52, end: 245.34, explain: "\"Led the charge\" means started the main effort or was the first to act. \"Apertura\" is the name of the first half of the soccer season in Mexico. The sentence says José was the main person who started this part of the season.", zh: "何塞算是 Apertura 政策的领军人物。（led the charge 带头，引领；Apertura 开放）"}
+  - {text: "The last time Venezuela opened its doors to foreign investments in their oil sector.", start: 245.80, end: 251.30, explain: "\"Foreign investments\" means money from other countries put into a business. \"Oil sector\" means the part of the economy that deals with oil. This is a sentence part that tells you when something happened. It is not a full sentence.", zh: "那是委内瑞拉最后一次向外国投资开放其石油领域。（foreign investments 外国投资；oil sector 石油行业）"}
+  - {text: "Me and my wife.", start: 251.70, end: 252.56, zh: "我和我妻子。"}
+  - {text: "You and your wife worked for the first project of the Apertura?", start: 252.56, end: 257.60, explain: "\"Apertura\" is the name of a big project in Mexico that opened up its markets to the world. The speaker asks if the listener and their wife worked on this first project.", zh: "你和你妻子参与了 Apertura 的第一个项目吗？（Apertura 开放，指委内瑞拉石油业对外开放政策）"}
+  - {text: "The very first. The very first project, yes.", start: 258.04, end: 260.30, zh: "就是第一个，最初的那个项目，是的。（very first 最初的，第一个）"}
+  - {text: "So you're the perfect person to talk to about this?", start: 260.48, end: 262.62, zh: "那你就是谈论这件事的最佳人选了？（perfect person 最佳人选）"}
+  - {text: "I was the guy that started all of this.", start: 263.96, end: 267.12, explain: "\"The guy\" is a common word for a man. The speaker says he is the person who began this situation or story.", zh: "我就是启动这一切的人。（started all of this 启动这一切）"}
+  - {text: "A little work to put in money.", start: 269.36, end: 270.42, zh: "稍微投入点工作来换取资金。（put in money 投入资金）"}
+  - {text: "I'm Nick Fountain. And I'm Erica Barris.", start: 270.66, end: 272.80, zh: "我是尼克·福滕。我是埃里卡·巴里斯。"}
+  - {text: "There's been a lot of coverage of this evolving deal between the U .S.", start: 273.12, end: 276.24, explain: "\"Coverage\" means news reports about a topic. \"Evolving\" means changing and growing over time. The sentence is cut off and continues in the next one.", zh: "关于美国与……（coverage 报道；evolving 不断发展的；deal 交易）"}
+  - {text: "and Venezuela. Some great stuff from our colleagues here at NPR about what the U .S.", start: 276.28, end: 279.82, zh: "委内瑞拉之间这项不断变化的交易，有很多报道。我们NPR的同事写了一些很棒的内容，关于美国……（colleagues 同事；NPR 美国国家公共广播电台）"}
+  - {text: "hopes to get from this and whether it'll work, the climate impacts.", start: 279.84, end: 282.60, explain: "The sentence is a fragment. It starts in the middle of a thought and continues from the previous sentence. \"Climate impacts\" means the effects on the weather and the environment. The speaker is talking about what people want to gain from a plan and if it will be successful.", zh: "希望从中得到什么，以及这是否可行，还有气候影响。（climate impacts 气候影响）"}
+  - {text: "Today on the show, what does this mean for Venezuela?", start: 282.60, end: 285.76, zh: "今天的节目里，这对委内瑞拉意味着什么？"}
+  - {text: "We're going to hear one take.", start: 286.42, end: 288.26, zh: "我们将听到一种观点。（take 观点，看法）"}
+  - {text: "The take of a Venezuelan oilman who's been through all this before.", start: 288.72, end: 292.22, explain: "A \"take\" is an opinion or view about something. A \"Venezuelan oilman\" is a business person from Venezuela who works in the oil industry. This sentence introduces the opinion of a man who has seen these events happen before.", zh: "一位经历过这一切的委内瑞拉石油大亨的观点。（oilman 石油大亨；Venezuelan 委内瑞拉的）"}
+  - {text: "Everybody's saying this deal is probably terrible for the Venezuelan people.", start: 292.62, end: 297.48, explain: "\"Terrible\" means very bad. \"Venezuelan\" refers to people from the country of Venezuela. The sentence means that many people think this agreement is very bad for the people living in Venezuela.", zh: "大家都说这项交易对委内瑞拉人民来说可能很糟糕。"}
+  - {text: "Do you agree with that?", start: 297.86, end: 299.04, zh: "你同意这个说法吗？"}
+  - {text: "No, let me tell you.", start: 299.74, end: 301.20, zh: "不，让我告诉你。"}
+  - {text: "I'm an oil and gas guy that knows the industry inside.", start: 301.38, end: 304.90, zh: "我是个油气行业的人，对行业内部了如指掌。（oil and gas 石油和天然气；inside 内部，内部情况）"}
+  - {text: "Yeah, José, he's both optimistic and wary.", start: 305.34, end: 309.54, explain: "\"Wary\" means careful because you are afraid of danger or bad things. The speaker says José feels happy about the future but also careful.", zh: "是的，何塞，他既乐观又谨慎。（optimistic 乐观的；wary 谨慎的，警惕的）"}
+  - {text: "Because he's seen it all.", start: 309.98, end: 311.18, zh: "因为他什么世面都见过。（seen it all 见多识广，经历过各种事情）"}
+  - {text: "When Venezuela invited foreigners in, he was there to greet them.", start: 311.18, end: 315.14, explain: "This sentence says that when Venezuela let people from other countries come in, José was there to welcome them.", zh: "当委内瑞拉邀请外国人进来时，他在那里迎接他们。（Venezuela 委内瑞拉；foreigners 外国人）"}
+  - {text: "And when Venezuela wanted them out, well, that's how he ended up in a jail cell.", start: 315.62, end: 320.62, explain: "A \"jail cell\" is a small room where people are kept when they are in prison. The sentence says José went to prison because Venezuela wanted the foreigners to leave.", zh: "而当委内瑞拉想让他们离开时，他就因此被关进了牢房。（jail cell 牢房，监禁室）"}
+  - {text: "This message comes from Odoo.", start: 324.72, end: 326.32, explain: "This is an advertisement. \"Odoo\" is the name of a company that makes computer programs for businesses.", zh: "这条信息来自 Odoo。（Odoo 欧度，一家企业管理软件公司）"}
+  - {text: "If your business runs on five different apps, 12 browser tabs, and one spreadsheet that everyone's afraid to touch, it's probably time for Odoo.", start: 326.82, end: 335.50, explain: "A \"spreadsheet\" is a computer program with a grid of boxes for numbers and text. The ad says if your work uses many different tools, you should try Odoo.", zh: "如果你的业务运行在五个不同的应用、12个浏览器标签页，以及一个大家都不敢碰的电子表格上，那可能该试试 Odoo 了。（spreadsheet 电子表格）"}
+  - {text: "Odoo is an all -in -one business management software platform.", start: 335.86, end: 339.26, explain: "\"All-in-one\" means one thing that does many jobs. The sentence says Odoo is a program that helps manage a whole business.", zh: "Odoo 是一个一体化的企业管理软件平台。（all-in-one 一体化的；platform 平台）"}
+  - {text: "Instead of wasting time switching between systems, your business works together in real time.", start: 339.50, end: 344.20, explain: "\"Real time\" means happening now, without waiting. The sentence says your business parts work together instantly.", zh: "不用再浪费时间在不同系统间切换，你的业务可以实时协同工作。（real time 实时地）"}
+  - {text: "Odoo gives you one flexible platform built to grow with you.", start: 344.58, end: 347.86, explain: "This is an advertisement. \"Odoo\" is the name of a software company. \"Flexible\" means it can change easily to fit your needs. The sentence says the software is made to help your business get bigger.", zh: "Odoo 提供一个灵活的单一平台，能够随着你的业务一起成长。（flexible 灵活的）"}
+  - {text: "Try for free today at Odoo .com slash Planet Money.", start: 348.30, end: 351.40, explain: "This is an advertisement. \"Slash\" means the forward mark (/) on a keyboard. The speaker tells you to type the website address to try the product for free.", zh: "今天就可以在 Odoo.com/slash/Planet Money 免费试用。（slash 斜杠符号 /）"}
+  - {text: "That's Odoo .com slash Planet Money.", start: 351.64, end: 355.12, explain: "This is an advertisement. The speaker repeats the website address. \"Slash\" means the forward mark (/).", zh: "这是 Odoo.com 上的 Planet Money。"}
+  - {text: "This message comes from IXL.", start: 356.32, end: 358.24, explain: "This is an advertisement. \"IXL\" is the name of an education company. The speaker says the next message is from this company.", zh: "这条信息来自 IXL。"}
+  - {text: "IXL provides personalized learning and powerful insights that help teachers boost achievement and understand student progress in real time.", start: 358.46, end: 366.04, explain: "This is an advertisement. \"Personalized\" means made for one specific person. \"Insights\" means deep understanding or new ideas. \"Boost\" means to increase or make stronger. The sentence says the software helps teachers see how students are doing right away.", zh: "IXL 提供个性化学习和强大的洞察功能，帮助教师提升成绩并实时了解学生的进步。（personalized learning 个性化学习；insights 洞察，见解）"}
+  - {text: "Learn more at IXL .com slash NPR.", start: 366.40, end: 369.76, explain: "This is an advertisement. \"Slash\" means the forward mark (/). The speaker tells you where to find more information online.", zh: "请在 IXL.com/slash/NPR 了解更多。"}
+  - {text: "All right, so what does Jose think about this news coming out of Venezuela?", start: 369.76, end: 375.81, explain: "\"Coming out of\" means happening in or coming from a place. The host asks what Jose thinks about the new news from Venezuela.", zh: "好的，那么何塞对委内瑞拉传来的这条新闻怎么看？"}
+  - {text: "In a bit, we're going to hear his take.", start: 376.35, end: 377.91, zh: "稍后我们会听听他的看法。（take 看法，观点）"}
+  - {text: "Why he thinks this deal between the U .S., this private Venezuelan company, and the Venezuelan government could help a lot of people and where he thinks this all might go wrong, based on his experiences.", start: 378.09, end: 391.65, zh: "他认为美国、这家委内瑞拉私营公司和委内瑞拉政府之间的这笔交易能帮到很多人，以及基于他的经历，他认为哪里可能会出问题。"}
+  - {text: "His generational experiences. Remember, he's a third -generation Venezuelan oilman, and from each of those generations, you can get these picture -perfect little snapshots of the long, drama -filled history of Venezuela's oil.", start: 392.33, end: 406.01, explain: "This sentence is cut off at the start and continues from the previous one. \"Generational\" means relating to different groups of people born at different times. \"Oilman\" is a person who works in the oil industry. \"Snapshots\" are short, clear pictures or examples. The speaker says you can see the history of Venezuela's oil through the stories of three different families.", zh: "他几代人的经历。记住，他是第三代委内瑞拉石油人，从每一代人中，你都能捕捉到委内瑞拉石油漫长且充满戏剧性历史的完美缩影。（generational 世代的；snapshots 缩影，快照）"}
+  - {text: "From a time when foreigners reigned to the nationalization, and back and forth again.", start: 406.43, end: 411.57, explain: "\"Reigned\" means to rule or have power. \"Nationalization\" is when a country takes control of a business from private owners. This sentence describes a long history where foreign companies controlled the oil, then the country took it back, and then it went back and forth.", zh: "从外国人统治的时代，到国有化，然后又反复变化。（reigned 统治；nationalization 国有化）"}
+  - {text: "Snapshot number one a century ago.", start: 411.91, end: 414.21, zh: "第一个缩影是一百年前的事。"}
+  - {text: "His grandparents meet cute.", start: 414.57, end: 416.25, explain: "\"Meet cute\" is a phrase from movies. It means two people meet in a romantic or interesting way. The speaker says the grandparents met in a nice way.", zh: "他的祖父母相识的过程很浪漫。（meet cute 浪漫地相识）"}
+  - {text: "His grandpa, a Dutch drilling engineer, part of the original wave of foreign investment and exploitation of Venezuela's oil.", start: 416.71, end: 424.67, explain: "\"Drilling\" means making holes in the ground to find oil. \"Exploitation\" means using resources, often in a way that is not fair to the local people. The grandpa was a Dutch engineer who helped take oil from Venezuela.", zh: "他的祖父是一名荷兰钻井工程师，属于最早一批在委内瑞拉进行石油投资和开采的外国人。（drilling engineer 钻井工程师；exploitation 开采，剥削）"}
+  - {text: "His grandma, a Venezuelan nurse in a hospital run by an oil company.", start: 425.05, end: 429.75, explain: "\"Run by\" means managed or controlled by. The grandma worked in a hospital that was managed by an oil company.", zh: "他的祖母是一名委内瑞拉护士，在一家由石油公司运营的医院工作。（run by 由……运营）"}
+  - {text: "How they met is that he got in an accident, and they put him in the ER, and she saw, you know, a blonde blue -eyed guy, very cute.", start: 430.07, end: 439.47, explain: "\"ER\" is short for Emergency Room, the part of a hospital for sick or hurt people. \"Blonde\" means having light yellow hair. The grandpa had an accident and went to the hospital, where the grandma saw him and thought he was handsome.", zh: "他们相识是因为他出了车祸，被送进急诊室，她看到一个金发蓝眼的男人，觉得非常可爱。（ER 急诊室）"}
+  - {text: "And they got connected.", start: 441.63, end: 443.31, explain: "\"Got connected\" means they started talking and became friends or a couple. This short sentence says they began a relationship.", zh: "于是他们走到了一起。（connected 产生联系，走到一起）"}
+  - {text: "This, of course, was the first era of Venezuelan oil, foreign control, which eventually Venezuelans got tired of, because too little money from their labor and their resources were going to them.", start: 443.95, end: 456.87, explain: "\"Era\" means a period of time. \"Foreign control\" means foreign people or companies had the power. Venezuelans were angry because they did not get enough money from their own oil.", zh: "这当然是委内瑞拉石油的第一阶段，即外国控制时期，委内瑞拉人最终对此感到厌倦，因为他们的劳动和资源所创造的价值中，流向他们自己的部分太少。（foreign control 外国控制）"}
+  - {text: "Right, which brings us to snapshot number two.", start: 456.87, end: 460.17, explain: "\"Snapshot\" is a quick look at a moment in time. The speaker is moving to the next part of the story.", zh: "没错，这就引出了第二个历史瞬间。（snapshot 快照，历史瞬间）"}
+  - {text: "Now it's 1967, and this photo is of Jose's parents, both oil workers, with suitcases.", start: 460.75, end: 466.57, explain: "\"Oil workers\" are people who work in the oil industry. The speaker says it is 1967 and shows a photo of Jose's parents, who work with oil, holding their bags.", zh: "现在是1967年，这张照片里是Jose的父母，两人都是石油工人，身边放着行李箱。（suitcases 行李箱）"}
+  - {text: "They're moving to Tulsa, Oklahoma, with cute little five -year -old Jose and his two sisters.", start: 467.03, end: 472.19, explain: "\"Tulsa\" is a city in the state of Oklahoma. The family is moving to this city with young Jose and his two sisters.", zh: "他们带着可爱的五岁小Jose和他的两个姐妹，搬到了俄克拉荷马州的塔尔萨。（Tulsa 塔尔萨，美国城市）"}
+  - {text: "As part of a bigger plan.", start: 472.67, end: 474.45, zh: "这是更大计划的一部分。（bigger plan 更大的计划）"}
+  - {text: "Before Venezuela could nationalize their oil industry, they needed trained up Venezuelan oil engineers.", start: 475.25, end: 480.41, explain: "\"Nationalize\" means the government takes control of a business. \"Trained up\" means educated and ready to work. Venezuela needed skilled engineers before the government took over the oil business.", zh: "在委内瑞拉将石油产业国有化之前，他们需要培养本土的石油工程师。（nationalize 国有化；oil industry 石油工业）"}
+  - {text: "So he says Venezuela's oil minister sent Jose's family and a bunch of others to train at the University of Tulsa to study at their world -class petroleum engineering program.", start: 480.99, end: 492.71, explain: "\"Petroleum\" is another word for oil. \"World-class\" means very good and famous. The oil minister sent Jose's family to a university in Tulsa to study oil engineering.", zh: "他说委内瑞拉石油部长派何塞的家人和其他一批人前往塔尔萨大学，在那里的世界级石油工程项目中学习。（petroleum engineering 石油工程；University of Tulsa 塔尔萨大学）"}
+  - {text: "Ten Venezuelan families in the 60s in the U .S.", start: 493.11, end: 497.37, explain: "This is a short phrase. It mentions ten families from Venezuela living in the USA in the 1960s.", zh: "上世纪六十年代，有十户委内瑞拉家庭在美国……"}
+  - {text: "was very, very uncommon, let me tell you.", start: 497.49, end: 500.35, explain: "\"Uncommon\" means not very common or rare. The speaker says that having Venezuelan families in the USA was very rare at that time.", zh: "让我告诉你，这非常、非常罕见。（uncommon 罕见的，不常见的）"}
+  - {text: "My best friend was in America, where we played cowboys and Indians, and can you imagine who played the Indians?", start: 500.61, end: 506.77, explain: "\"Cowboys and Indians\" is a common game for children in the USA. The speaker asks who played the role of the Indians in the game.", zh: "我最好的朋友在美国，我们玩牛仔和印第安人游戏，你能想象谁扮演印第安人吗？（cowboys and Indians 牛仔与印第安人，一种角色扮演游戏）"}
+  - {text: "Yeah. Seven years later, snapshot number three.", start: 507.05, end: 511.05, explain: "\"Snapshot\" means a quick photo or moment in time. The speaker says that seven years later, we look at the third photo.", zh: "是的。七年后，第三张照片。（snapshot 快照，此处指照片或瞬间）"}
+  - {text: "It's Jose and his family again, but he's a teenager now.", start: 511.45, end: 514.37, explain: "A \"teenager\" is a young person between 13 and 19 years old. The speaker says Jose is older now and is in his teenage years.", zh: "又是何塞和他的家人，但他现在是个少年了。（teenager 青少年）"}
+  - {text: "It's the late 70s and they're back in Venezuela.", start: 514.37, end: 517.01, explain: "\"The late 70s\" means the years from 1977 to 1979. The family has returned to Venezuela during this time.", zh: "那是七十年代末，他们回到了委内瑞拉。（late 70s 七十年代末）"}
+  - {text: "His parents are working for a new nationalized oil company.", start: 517.63, end: 521.67, explain: "\"Nationalized\" means the government owns and runs the business instead of private people. The parents work for a company owned by the state.", zh: "他的父母正在一家新成立的国有石油公司工作。（nationalized 国有化的）"}
+  - {text: "Actually, everyone is. Venezuela has taken control of the oil, and eventually creates one state -run company to own everything, but Torrios de Venezuela, or Bedevesa.", start: 522.09, end: 532.99, explain: "\"Taken control\" means the government now owns the oil. \"State-run\" means the government manages the company. The sentence has a mistake in the name; it should be \"Petrovenezuela\" or similar, but the audio says \"Torrios... Bedevesa\".", zh: "实际上，所有人都是。委内瑞拉接管了石油，并最终成立了一家国有公司来拥有所有资产，即委内瑞拉石油公司，简称PDVSA。（state-run 国有的；Torrios de Venezuela 此处应为Petróleos de Venezuela，委内瑞拉石油公司；Bedevesa 此处应为PDVSA，委内瑞拉石油公司缩写）"}
+  - {text: "Though there are still tons of American workers around.", start: 533.39, end: 536.39, zh: "尽管周围仍然有很多美国工人。（tons of 大量的；workers 工人）"}
+  - {text: "In fact, Jose and his family are living in this weird company town that looks like Texas.", start: 536.83, end: 542.05, explain: "A \"company town\" is a place built by one company for its workers to live in. The town looks like a place in Texas, USA.", zh: "事实上，何塞和他的家人就住在这个看起来像德克萨斯州的奇怪公司小镇里。（company town 公司小镇，由单一企业主导的社区；weird 奇怪的）"}
+  - {text: "Picture it. It's Texas, but in the middle of nowhere.", start: 542.05, end: 545.31, zh: "想象一下，那是德克萨斯州，但位于荒无人烟的地方。（in the middle of nowhere 在荒郊野外；nowhere 无人区）"}
+  - {text: "An oil field in Venezuela.", start: 545.85, end: 547.15, zh: "那是委内瑞拉的一个油田。（oil field 油田；Venezuela 委内瑞拉）"}
+  - {text: "That was like a copy -paste of the U .S.", start: 547.57, end: 549.81, explain: "\"Copy-paste\" is a computer term meaning to make an exact copy of something. Here, it means the town was built to look exactly like the US.", zh: "那简直像是从美国复制粘贴过来的。（copy-paste 复制粘贴；U.S. 美国）"}
+  - {text: "We have gold cores.", start: 549.85, end: 550.91, zh: "我们有金芯。（gold cores 金芯，此处可能指某种装饰或特定物品，结合语境可能为口误或特定指代，直译为金芯）"}
+  - {text: "We have bowling. We have pools, theaters.", start: 551.39, end: 554.71, explain: "\"Bowling\" is a game where you roll a ball to knock down pins. The town has bowling alleys, swimming pools, and theaters.", zh: "我们有保龄球，有游泳池，还有剧院。（bowling 保龄球；theaters 剧院）"}
+  - {text: "You know, we celebrated four of July.", start: 555.35, end: 556.89, explain: "\"Four of July\" is the date July 4th, which is Independence Day in the USA. They celebrated this American holiday in Venezuela.", zh: "你知道，我们庆祝了七月四日。（four of July 七月四日，美国独立日）"}
+  - {text: "We celebrated Thanksgiving. We did Halloween.", start: 557.23, end: 561.61, explain: "\"Thanksgiving\" and \"Halloween\" are two big holidays in the US. The speaker says they had fun at these parties.", zh: "我们庆祝了感恩节，还过了万圣节。（Thanksgiving 感恩节；Halloween 万圣节）"}
+  - {text: "We did many American things.", start: 562.13, end: 563.71, zh: "我们做了很多美国式的事情。（American things 美国式的事情）"}
+  - {text: "A decade later, Jose and that meso -soprano he married from the youth chorus, they're grown.", start: 564.29, end: 569.21, explain: "A \"decade\" is ten years. A \"meso-soprano\" is a type of female singing voice. The note is split by a space in the text. Ten years later, Jose and his wife are grown up.", zh: "十年后，何塞和他从青年合唱团娶来的那位女中音，都已经长大了。（meso-soprano 女中音；youth chorus 青年合唱团）"}
+  - {text: "They have their own jobs with a nationalized oil company, and for them, everything is great.", start: 569.21, end: 574.23, explain: "\"Nationalized\" means the government owns the company. They work for the state oil company and are happy.", zh: "他们在一家国有石油公司工作，对他们来说，一切都很好。（nationalized 国有的）"}
+  - {text: "Except after years of high oil prices and ballooning budgets and payrolls, the price of oil has dropped.", start: 574.93, end: 581.27, explain: "\"Ballooning\" means growing very fast. The oil price went down after many years of high prices and big costs.", zh: "不过，在经历了多年高油价、预算和工资单不断膨胀之后，油价下跌了。（ballooning 急剧膨胀的；payrolls 工资单）"}
+  - {text: "Venezuela is starting to neglect its oil fields.", start: 581.77, end: 584.61, explain: "\"Neglect\" means to not take good care of something. Venezuela is not looking after its oil fields well.", zh: "委内瑞拉开始忽视其油田的维护。（neglect 忽视，疏忽）"}
+  - {text: "Yeah, so maybe another snapshot, idle drilling rigs and pump jacks.", start: 584.99, end: 589.39, explain: "\"Idle\" means not working. \"Drilling rigs\" are machines that dig for oil. \"Pump jacks\" are machines that pull oil up. The speaker sees stopped machines.", zh: "是的，也许再来看一张快照：闲置的钻井架和抽油机。（idle 闲置的；drilling rigs 钻井架；pump jacks 抽油机）"}
+  - {text: "Jose says he was there to see it.", start: 589.59, end: 591.23, explain: "This is a short sentence. Jose says he went to that place to see the situation.", zh: "何塞说，他当时就在那里亲眼目睹了这一切。"}
+  - {text: "And from it, he took a very important lesson.", start: 591.59, end: 594.19, zh: "从中，他吸取了一个非常重要的教训。"}
+  - {text: "The oil and gas industry, where you always have to be investing.", start: 594.63, end: 599.15, explain: "\"Investing\" means putting money in to make more money. The oil industry needs to spend money all the time.", zh: "在油气行业，你必须始终进行投资。"}
+  - {text: "Always be investing, ABI.", start: 599.57, end: 602.03, explain: "\"Investing\" means putting money into a business to make more money later. \"ABI\" is a short name for the phrase \"Always Be Investing\".", zh: "始终要投资，也就是ABI。（ABI 始终投资，Always Be Investing的缩写）"}
+  - {text: "If you don't, he says your oil fields stop being as productive.", start: 603.13, end: 606.79, explain: "\"Productive\" means making a lot of oil. The speaker says that if you do not put money in, the oil fields will not work as well.", zh: "他说，如果不这样做，你的油田产量就会下降。（productive 高产的，有生产力的）"}
+  - {text: "Any oil field can have around 10 % to 11 % yearly that they decline.", start: 607.23, end: 614.47, explain: "\"Decline\" means to go down or get smaller. The sentence says that oil fields naturally lose about 10% to 11% of their output every year.", zh: "任何油田的年产量自然递减率通常在10%到11%左右。（decline 递减，产量下降）"}
+  - {text: "So if you don't do nothing, in 10 years, your production is zero.", start: 615.51, end: 619.49, explain: "\"Production\" means the amount of oil made. The speaker uses a double negative (\"don't do nothing\") to mean doing nothing at all. He says if you do nothing, you will have no oil in ten years.", zh: "所以如果你什么都不做，十年后你的产量就会变成零。（production 产量）"}
+  - {text: "So, Venezuela didn't have money to do that.", start: 620.35, end: 622.33, zh: "因此，委内瑞拉当时没有资金来做这件事。"}
+  - {text: "And that's why the genius guys of that time created the apertura because they said, okay, let's do something.", start: 622.33, end: 629.25, explain: "\"Genius\" means very smart people. \"Apertura\" is a Spanish word meaning an opening or a start. The speaker says smart people created this opening because they wanted to act.", zh: "正因如此，当时的天才们创造了“开放政策”，因为他们说，好吧，让我们做点什么。（apertura 开放政策，指委内瑞拉石油行业的对外开放）"}
+  - {text: "Let's bring international players so they can bring money.", start: 629.89, end: 634.19, zh: "让我们引入国际参与者，让他们带来资金。（players 参与者，这里指企业或投资者）"}
+  - {text: "And that's how the apertura came.", start: 634.65, end: 636.55, zh: "这就是“开放政策”的由来。"}
+  - {text: "This is the moment we wanted to talk with Jose about the most.", start: 636.95, end: 640.09, explain: "This sentence is a bit broken. It means this is the topic the speakers most wanted to discuss with Jose.", zh: "这是我们最想和何塞讨论的时刻。（Jose 何塞，受访者的名字）"}
+  - {text: "The apertura, the opening.", start: 640.37, end: 642.23, zh: "即“开放政策”，也就是开放。"}
+  - {text: "Because if you squint at least, it is analogous to what's happening now.", start: 642.89, end: 648.83, explain: "\"Squint\" means to look with half-closed eyes to see something clearly. \"Analogous\" means similar. The speaker says that if you look closely, the past situation is similar to what is happening now.", zh: "因为如果你眯起眼睛看，这与现在发生的情况是类似的。（analogous 类似的，有相似之处的）"}
+  - {text: "A rusty heap of an oil industry and an opening for foreigners to plow money into the economy.", start: 648.83, end: 654.71, explain: "\"Rusty heap\" describes something old, broken, and dirty. \"Plow\" means to put a lot of money into something. The sentence describes an old oil industry and a chance for foreigners to invest money.", zh: "一个锈迹斑斑的石油工业，以及向外国人开放资金流入经济的机会。（plow 投入，这里指大量投入资金）"}
+  - {text: "Jose, if you couldn't tell from his genius comment, is a fan of that earlier apertura.", start: 655.01, end: 660.93, explain: "\"Apertura\" is a Spanish word that means opening. It refers to a time when a country lets more foreign business in. \"Genius\" is used here in a funny way to mean a very smart or clever comment. The speaker says Jose likes the time when Venezuela opened its doors to foreign business.", zh: "何塞，如果你没听出他这句天才般的评论，那他肯定是之前那次开放政策的粉丝。（apertura 开放政策，指委内瑞拉90年代初的经济自由化措施）"}
+  - {text: "He says he saw firsthand how letting in both money and expertise from outside of the country could benefit Venezuelans.", start: 661.31, end: 668.93, explain: "\"Firsthand\" means you see or do something yourself, not just hear about it. \"Expertise\" means special skill or knowledge. He says he saw with his own eyes how letting money and skilled people from other countries into Venezuela helped the people there.", zh: "他说他亲眼看到，让外国的资金和技术进入国家，能给委内瑞拉人带来好处。（expertise 专业知识；expertise from outside 外部技术或人才）"}
+  - {text: "Yeah, as we mentioned before, he says he worked for the very first project of the apertura.", start: 669.29, end: 673.65, explain: "\"Apertura\" is a Spanish word that means opening. It refers to a time when a country lets more foreign business in. He says he worked on the very first project that started when Venezuela opened its doors to foreign business.", zh: "是的，正如我们之前提到的，他说他参与了开放政策下的第一个项目。（apertura 开放政策）"}
+  - {text: "Way back in 1992, he got himself hired by one of those foreign investors, a Japanese company, which was exciting.", start: 673.93, end: 681.39, explain: "\"Way back\" means a long time ago. \"Hired\" means a company gave him a job. In 1992, a Japanese company gave him a job, and he found that very exciting.", zh: "早在1992年，他就受雇于其中一家外国投资者，那是一家日本公司，这让他很兴奋。（foreign investors 外国投资者）"}
+  - {text: "Had you ever met a Japanese person before?", start: 681.69, end: 683.37, explain: "This is a question. The speaker asks if Jose had ever met a person from Japan before this job.", zh: "你以前见过日本人吗？"}
+  - {text: "No, I had to buy a book, How to Deal with Japanese.", start: 683.65, end: 685.61, zh: "没有，我不得不买了一本《如何与日本人打交道》的书。（How to Deal with Japanese 书名，意为如何与日本人交往）"}
+  - {text: "They sent him to Tokyo for months to get trained and Señor Pereira got schooled in Japanese business culture.", start: 686.77, end: 693.41, explain: "\"Schooled\" here means he learned a lot, like a student in a class. \"Business culture\" means the ways people act and work in a company. They sent him to Tokyo for many months to learn how Japanese companies work.", zh: "他们派他去东京培训了几个月，佩雷拉先生在那里接受了日本商业文化的熏陶。（schooled 接受训练或熏陶；business culture 商业文化）"}
+  - {text: "Well, for example, I became Pereira -san.", start: 693.81, end: 696.33, explain: "\"Pereira-san\" is how you say his name in Japanese. \"San\" is a polite word you add after a name in Japan. He is saying that in Japan, people called him \"Pereira-san\".", zh: "比如，我变成了佩雷拉桑。（Pereira-san 佩雷拉桑，日本称呼中加在姓氏后的敬称）"}
+  - {text: "Hey, Pereira -san. Pereira -san, yeah, yeah, yeah.", start: 696.73, end: 699.61, explain: "\"Pereira -san\" is a name with a Japanese title added. \"San\" is a polite way to address someone in Japan. The speaker is greeting a man named Pereira in a friendly way.", zh: "嘿，佩雷拉桑。佩雷拉桑，对对对。（Pereira-san 佩雷拉桑）"}
+  - {text: "He picked up new business principles, like the one where you try to get some consensus before making big changes, and it can be crazy.", start: 699.81, end: 706.99, explain: "\"Consensus\" means everyone agrees on a plan. The speaker says he learned to ask everyone for their agreement before making big changes, which can be very difficult.", zh: "他学到了新的商业原则，比如在做重大改变前先尝试达成共识，这过程可能很疯狂。（consensus 共识）"}
+  - {text: "But if you are having a team of 20 people, you need all that 20 people are in consensus.", start: 707.47, end: 714.61, explain: "\"Consensus\" means everyone agrees. The speaker says if you have a team of 20 people, you need all 20 of them to agree on the same thing.", zh: "但如果你有一个二十人的团队，你需要让这二十个人达成共识。（consensus 共识）"}
+  - {text: "It takes time to put them together.", start: 715.25, end: 717.17, zh: "把他们整合在一起需要时间。"}
+  - {text: "Is that how the oil industry usually works?", start: 717.17, end: 719.21, zh: "石油行业通常是这样运作的吗？"}
+  - {text: "No, I came with the American culture that is like this.", start: 719.73, end: 724.25, explain: "This sentence is a bit broken. The speaker says he came from American culture, which works in a specific way (likely meaning it is direct or fast).", zh: "不，我带着的是那种美国文化，就是这样的。"}
+  - {text: "You know, and if you're the boss, you make a decision.", start: 724.85, end: 727.05, zh: "你知道，如果你是老板，你就做决定。"}
+  - {text: "He worked for a few years for the Japanese company building up oil field infrastructure and then jumped over to an American company, majority owned by Conoco and Chevron, also part of the Apeltura.", start: 727.57, end: 737.27, explain: "\"Infrastructure\" means the basic systems like roads and pipes needed for a business. \"Conoco\" and \"Chevron\" are big oil company names. The speaker worked for a Japanese company building oil systems, then moved to an American company owned by those big names.", zh: "他在一家日本公司工作了几年，负责建设油田基础设施，然后跳槽到一家由康菲和雪佛龙控股的美国公司，该公司也是阿佩尔特拉的一部分。（Conoco 康菲石油；Chevron 雪佛龙；Apeltura 阿佩尔特拉，音译）"}
+  - {text: "Jose says those two companies brought new technology that Venezuela had needed for years.", start: 737.49, end: 742.73, explain: "\"Reserves\" is not used here, but \"technology\" is the key word. Jose says these two companies brought new tools and methods that Venezuela had wanted for a long time.", zh: "何塞说，这两家公司带来了委内瑞拉多年来急需的新技术。"}
+  - {text: "For example, a lot of Venezuela's reserves of oil are this kind of sticky icky tar -like stuff.", start: 743.31, end: 749.51, explain: "\"Reserves\" means the amount of oil left in the ground. \"Sticky icky tar-like stuff\" means the oil is thick, dark, and hard to move, like sticky glue or tar.", zh: "例如，委内瑞拉大量的石油储备是那种粘稠、令人不快的沥青状物质。（reserves 储量；tar 沥青，焦油）"}
+  - {text: "Bad stuff. So we needed to have a way to produce that.", start: 749.95, end: 753.89, explain: "\"Produce\" means to get the oil out of the ground. The speaker says the oil is bad quality, so they needed a special way to take it out.", zh: "很糟糕的东西。所以我们需要一种方法来开采它。"}
+  - {text: "Venezuela didn't have that technology.", start: 754.13, end: 755.81, zh: "委内瑞拉当时没有这项技术。"}
+  - {text: "And these companies had figured out how to deal with the sticky icky stuff.", start: 756.29, end: 760.17, zh: "而且这些公司已经找到了处理那些棘手麻烦问题的办法。（sticky icky stuff 棘手麻烦的问题）"}
+  - {text: "Essentially, they diluted it, made a smoothie of it so it could be transported in a pipeline.", start: 760.17, end: 765.23, explain: "\"Diluted\" means made thinner by adding another liquid. A \"smoothie\" here is a thick, mixed liquid, not a fruit drink. \"Pipeline\" is a long tube for moving oil. The sentence says they mixed the oil to make it thinner so it could move easily through the pipe.", zh: "基本上，他们将其稀释，做成类似冰沙的混合物，以便能通过管道运输。（diluted 稀释；smoothie 冰沙，此处比喻稀释后的油液）"}
+  - {text: "That was a technology that was brought by Chevron, by Conoco, these companies.", start: 765.75, end: 771.59, explain: "\"Chevron\" and \"Conoco\" are the names of big oil companies. The sentence says these companies brought the new technology to Venezuela.", zh: "这项技术是由雪佛龙、康菲石油等公司带来的。（Chevron 雪佛龙；Conoco 康菲石油）"}
+  - {text: "Yeah, they brought tons of new technology and also tons of money, just enormous amounts of investment.", start: 772.09, end: 779.09, zh: "没错，他们带来了大量新技术，还有巨额资金，投资规模极其庞大。（investment 投资）"}
+  - {text: "So do you think that the Apeltura worked?", start: 779.57, end: 783.85, explain: "\"Apeltura\" is a misspelling in the text. It should be \"Apertura\", which means an opening or a start. The speaker asks if the start of this new time period was successful.", zh: "那你觉得阿佩尔图拉计划起作用了吗？（Apeltura 阿佩尔图拉，指委内瑞拉石油开放政策）"}
+  - {text: "The first years, the first decade worked very good.", start: 785.22, end: 788.26, explain: "\"Decade\" means ten years. The speaker says the first ten years were very good.", zh: "最初几年，也就是第一个十年，效果非常好。（decade 十年）"}
+  - {text: "Yeah, Jose says for the industry and for many, though not all, Venezuelans, it worked very well.", start: 788.26, end: 795.52, explain: "\"Venezuelans\" are people from Venezuela. The sentence says Jose thinks it worked well for the oil business and for many people in the country, but not for everyone.", zh: "是的，何塞说，对于行业以及许多（并非全部）委内瑞拉人来说，它运行得非常出色。（Venezuelans 委内瑞拉人）"}
+  - {text: "Foreign companies brought new oil fields online, fixed up the old ones, oil production nearly doubled.", start: 795.98, end: 801.58, explain: "\"Brought... online\" means started using or operating. \"Production\" means the amount of oil made. The sentence says foreign companies started new oil places and fixed old ones, so they made almost twice as much oil.", zh: "外国公司让新的油田投产，修复了老旧油田，石油产量几乎翻了一番。（production 产量）"}
+  - {text: "And all that investment meant lots of jobs for Venezuelans.", start: 802.14, end: 806.22, explain: "\"Investment\" means money put into a business to make it grow. The sentence says this money created many jobs for people in Venezuela.", zh: "所有这些投资为委内瑞拉人提供了大量就业机会。（jobs 工作，就业机会）"}
+  - {text: "So Jose says he's been thinking a lot about the Apeltura as he's seen the news trickle out of Venezuela about this new deal with the United States.", start: 806.50, end: 814.46, explain: "\"Trickle out\" means to come out slowly, like water from a small hole. The sentence says Jose has been thinking about the start of this new period because he is seeing news slowly come from Venezuela about a new deal with the US.", zh: "所以何塞说，随着有关委内瑞拉与美国新协议的消息逐渐传出，他一直在深入思考阿佩尔图拉计划。（trickle out 逐渐流出，传出）"}
+  - {text: "This is going to be like Apeltura 2 .0.", start: 814.78, end: 817.14, explain: "\"Apeltura\" is a misspelling of \"Apocalypse\". The \"Apocalypse\" is the end of the world. The speaker says this situation will be like a second, very bad end of the world.", zh: "这将会像阿帕特拉2.0一样。（Apeltura 阿帕特拉，此处指代某种特定的经济或政治模式；2.0 2.0版本，升级版）"}
+  - {text: "So the thing we did in the 90s...", start: 817.14, end: 820.20, explain: "The speaker starts a sentence about what they did in the 1990s. The sentence is cut off and continues in the next part.", zh: "所以我们在90年代做的那件事……（90s 90年代）"}
+  - {text: "Yes, it's going to be like Apeltura 2 .0, yes.", start: 821.18, end: 823.80, zh: "是的，这将会像阿帕特拉2.0一样，没错。（Apeltura 阿帕特拉；2.0 2.0版本）"}
+  - {text: "The White House said the company they're doing business with is going to invest $100 billion in new oil production.", start: 824.16, end: 830.64, explain: "\"Invest\" means to put money into a business to make more money later. \"Oil production\" means making oil from the ground. The White House said a company will put $100 billion into making new oil.", zh: "白宫表示，与他们合作的公司将投资1000亿美元用于新的石油生产。（White House 白宫；invest 投资）"}
+  - {text: "And this week, Chevron said they're going to spend more than $7 billion over the next five years.", start: 830.96, end: 836.24, explain: "\"Chevron\" is a big oil company. The sentence says Chevron will spend over $7 billion in the next five years.", zh: "本周，雪佛龙表示他们将在未来五年内花费超过70亿美元。（Chevron 雪佛龙，美国石油公司；spend 花费）"}
+  - {text: "Yeah, lots of cash.", start: 836.48, end: 837.46, explain: "\"Cash\" means money. The speaker agrees that there is a lot of money involved.", zh: "是啊，很多现金。（cash 现金）"}
+  - {text: "And remember the motto, always be investing?", start: 838.12, end: 840.18, explain: "\"Motto\" means a short saying or rule. The speaker asks if you remember the rule to always put money into businesses.", zh: "还记得那句座右铭吗，永远在投资？（motto 座右铭；investing 投资）"}
+  - {text: "Jose says that investment...", start: 840.90, end: 842.26, zh: "何塞说，那笔投资……（investment 投资）"}
+  - {text: "You don't put it in Mars, you put it in Venezuelans because you have to drill the wells.", start: 843.20, end: 847.94, explain: "\"Drill\" means to dig deep holes in the ground to find oil. The speaker says you put money in Venezuela, not Mars, because you need to dig for oil there.", zh: "你不会把它投到火星上，你会投到委内瑞拉人身上，因为你需要钻井。（Mars 火星；drill 钻探）"}
+  - {text: "So to drill the wells, you have to have that truck driver.", start: 848.58, end: 851.38, explain: "To dig for oil, you need people to drive the trucks. The speaker says you need a truck driver.", zh: "所以要钻井，你就需要那个卡车司机。（drill 钻探；truck driver 卡车司机）"}
+  - {text: "You need the chauffeur, you need that empanada lady that prepares the breakfast.", start: 851.78, end: 856.46, explain: "A \"chauffeur\" is a person whose job is to drive a car for someone else. An \"empanada\" is a small, filled pastry, often with meat or cheese. The speaker says you need a driver and a woman who makes these pastries for breakfast.", zh: "你需要司机，也需要那位做早餐的炸肉饼女士。（chauffeur 司机；empanada 炸肉饼）"}
+  - {text: "She's very important. She might be the most important person.", start: 856.88, end: 859.44, zh: "她非常重要，她可能是最重要的人。"}
+  - {text: "I'm not kidding, you will need everything.", start: 860.88, end: 862.64, explain: "\"Kidding\" means joking or not being serious. The speaker says they are being very serious and that you will need all the things mentioned.", zh: "我没开玩笑，你会需要这一切。"}
+  - {text: "So the people can have a better life.", start: 862.98, end: 865.02, zh: "这样人们才能过上更好的生活。"}
+  - {text: "But when Jose looks at the Apeltura, he helps beerhead back in the 90s.", start: 865.80, end: 870.80, explain: "The sentence is likely a mistake in the automatic transcript. It is hard to understand because the words do not make sense together. \"Apeltura\" and \"beerhead\" are probably wrong spellings of other words. The speaker is talking about looking at something from the 1990s.", zh: "但当何塞看到《阿佩尔图拉》时，他想起了九十年代。（Apeltura 阿佩尔图拉，指委内瑞拉石油开放政策；beerhead 啤酒头，可能为转录错误）"}
+  - {text: "He says it also includes a cautionary tale, which is when you open up Venezuela to foreign investment and the foreigners seem to have the upper hand, things can go sour.", start: 871.14, end: 883.24, explain: "A \"cautionary tale\" is a story that warns people about what can go wrong. To \"go sour\" means to become bad or unpleasant. The speaker says the story warns that if foreigners control the money, things can get bad.", zh: "他说这也包含一个警示故事，那就是当你向外国投资开放委内瑞拉，而外国人似乎占据上风时，事情可能会变糟。（cautionary tale 警示故事；upper hand 上风，优势）"}
+  - {text: "Right, because here's how the Apeltura 1 .0 ended.", start: 883.68, end: 887.34, zh: "没错，因为《阿佩尔图拉1.0》就是这样结束的。"}
+  - {text: "As foreigners started reaping the benefits of their investments, a brash red beret wearing populace named Hugo Chávez, el comandante, was gaining popularity.", start: 887.94, end: 898.92, explain: "\"Reaping the benefits\" means getting the good results or money from something. \"Brash\" means bold and rude. \"Populace\" means the ordinary people. \"El comandante\" is a title meaning \"the commander\". The sentence says that while foreigners made money, a bold leader named Hugo Chávez became popular among the people.", zh: "随着外国人开始从投资中获利，一个戴着红色贝雷帽、名叫乌戈·查韦斯的“指挥官”开始走红。（brash 大胆，鲁莽；populace 民众，此处指人物；el comandante 指挥官，查韦斯的称号）"}
+  - {text: "In 1998, he'd run for president and win partially on the promise of sharing the oil wealth, lifting people out of poverty, and dethroning the oil elite.", start: 899.42, end: 910.36, explain: "\"Dethroning\" means removing a powerful group from their position of power. The speaker says Chávez won the election partly because he promised to share oil money, help poor people, and remove the powerful oil leaders.", zh: "1998年，他竞选总统并获胜，部分原因是他承诺分享石油财富、让人们摆脱贫困并推翻石油精英。（dethroning 推翻，罢免）"}
+  - {text: "Chávez criticized Bedevesa, the state oil company, calling it a state within a state.", start: 910.88, end: 916.08, explain: "\"Bedevesa\" is a mistake in the recording; it is the name of the state oil company, PDVSA. A \"state within a state\" is a group inside a country that acts like it has its own power and rules. Chávez criticized the oil company for being too powerful.", zh: "查韦斯批评了贝德斯阿，这家国有石油公司，称其为“国中之国”。（Bedevesa 贝德斯阿，委内瑞拉国家石油公司；state within a state 国中之国）"}
+  - {text: "And Jose says, on that point, he wasn't exactly wrong.", start: 916.52, end: 919.84, zh: "何塞说，就这一点而言，他说的也没错。（on that point 就这一点而言）"}
+  - {text: "The problem that was happening with Bedevesa, that those guys that began to work with my dad, these guys became like kings.", start: 920.12, end: 929.02, explain: "The speaker says that the people who started working with his father became very powerful, like kings. This was a problem with the oil company.", zh: "贝德韦萨当时面临的问题是，那些开始跟我父亲一起工作的人，后来简直成了国王。（Bedevesa 贝德韦萨，委内瑞拉前总统；kings 国王，此处指权贵）"}
+  - {text: "They were intouchable. They became very, you know, it was like a theocracy, you know.", start: 930.04, end: 937.28, explain: "The word \"intouchable\" is split by a space in the text; it means people who cannot be touched or changed by normal rules. A \"theocracy\" is a country where religious leaders hold the most power. The speaker says the group was very powerful and acted like a religious government.", zh: "他们高高在上，不可触碰，变得非常……你知道，就像神权政治一样。（intouchable 不可触碰的，指地位极高；theocracy 神权政治，此处比喻权力垄断）"}
+  - {text: "Yeah, theocracy and oligopoly.", start: 937.82, end: 939.70, explain: "An \"oligopoly\" is a market where a few big companies control everything. The speaker agrees that the situation was like a religious government and a market controlled by a few rich people.", zh: "没错，既是神权政治，也是寡头垄断。（theocracy 神权政治；oligopoly 寡头垄断）"}
+  - {text: "And they weren't just going to let Chávez take their power.", start: 940.20, end: 943.46, zh: "他们绝不会让查韦斯夺走他们的权力。（Chávez 查韦斯，委内瑞拉前总统）"}
+  - {text: "These guys didn't like Chávez, and they did kind of a plot to take Chávez and that created the national strike.", start: 943.90, end: 953.98, explain: "A \"plot\" is a secret plan to do something bad or illegal. The speaker says these people did not like Chávez, so they made a secret plan to remove him, which caused a national strike.", zh: "这些人不喜欢查韦斯，他们甚至策划了一场政变来对付查韦斯，这导致了全国大罢工。（plot 阴谋，策划；national strike 全国大罢工）"}
+  - {text: "In late 2002, oil workers, their management, walked off the job.", start: 954.46, end: 958.70, zh: "2002年底，石油工人的管理层集体罢工。（walked off the job 罢工，离开工作岗位）"}
+  - {text: "It was a standoff between Chávez and the oil elite.", start: 959.22, end: 962.26, explain: "A \"standoff\" is a situation where two sides are stuck and cannot move forward. The speaker says there was a tense pause between Chávez and the rich oil leaders.", zh: "这是查韦斯与石油精英之间的一场对峙。（standoff 对峙；oil elite 石油精英）"}
+  - {text: "There was violence in the street.", start: 962.92, end: 964.02, explain: "This sentence is simple. It says that people were fighting or using force in the streets.", zh: "街头发生了暴力事件。（violence 暴力）"}
+  - {text: "Oil production dropped too close to zero.", start: 964.44, end: 966.76, explain: "\"Production\" means the amount of oil made. The sentence says that the amount of oil made went down to almost nothing.", zh: "石油产量也几乎降到了零。（dropped 下降；close to zero 接近零）"}
+  - {text: "Venezuela was starved of its oil money.", start: 967.22, end: 969.64, explain: "To be \"starved\" of something means to have very little of it, like a person who is hungry. The sentence says Venezuela did not have enough money from oil.", zh: "委内瑞拉当时被切断了石油收入。（starved of 被剥夺，缺乏；oil money 石油收入）"}
+  - {text: "They were thinking that if they do that national strike and they squeeze Chávez, he will resign.", start: 970.00, end: 975.98, explain: "To \"squeeze\" someone means to put pressure on them to make them do something. The speaker says they thought that if they caused a strike and put pressure on Chávez, he would leave his job.", zh: "他们当时想，如果发动全国罢工并给查韦斯施压，他就会辞职。（national strike 全国罢工；squeeze 施压，挤压；Chávez 查韦斯，委内瑞拉前总统）"}
+  - {text: "That was their idea.", start: 976.52, end: 977.50, explain: "This short sentence says that the people mentioned before had this plan or thought first.", zh: "这就是他们的如意算盘。"}
+  - {text: "That's what they thought.", start: 978.10, end: 979.04, zh: "他们当时是这么想的。"}
+  - {text: "And look what Chávez did.", start: 979.90, end: 981.18, zh: "看看查韦斯后来做了什么。"}
+  - {text: "He fired 20 ,000 people.", start: 981.36, end: 982.96, explain: "\"Fired\" means to tell people to leave their jobs. The sentence says he made 20,000 people lose their work.", zh: "他解雇了两万人。"}
+  - {text: "20 ,000. Including everyone you knew.", start: 982.96, end: 986.72, zh: "两万人。包括你认识的每个人。"}
+  - {text: "Everyone I knew, yes.", start: 987.20, end: 988.74, zh: "我认识的所有人，是的。"}
+  - {text: "Not him. He was in the private sector by then.", start: 989.10, end: 991.28, explain: "The \"private sector\" means businesses that are not run by the government. \"By then\" means at that time in the past. The speaker says this man was working for a private company at that time, not the government.", zh: "不包括他。那时候他已经在私营部门工作了。（private sector 私营部门）"}
+  - {text: "Can you imagine all my former colleagues being fired?", start: 991.46, end: 994.74, explain: "\"Former colleagues\" are people you used to work with in the past. The speaker is asking if you can picture all those old work friends losing their jobs.", zh: "你能想象我以前的同事全被解雇了吗？"}
+  - {text: "I have neighbors. Neighbors that live beside my house that were fired.", start: 995.56, end: 1000.32, explain: "\"Neighbors\" are people who live in houses next to yours. The speaker says people living next to his house lost their jobs.", zh: "我有邻居，就住在我家旁边，他们都被解雇了。（neighbors 邻居；fired 被解雇，被开除）"}
+  - {text: "In the mid -2000s, Chávez made good on his promise to try to redistribute the oil wealth.", start: 1000.76, end: 1005.18, explain: "\"Redistribute\" means to share money or things again, often to be more fair. \"Oil wealth\" is the money made from selling oil. Chávez kept his promise to share the oil money in the mid-2000s.", zh: "在2000年代中期，查韦斯兑现了他的承诺，试图重新分配石油财富。（Chávez 查韦斯，委内瑞拉前总统；redistribute 重新分配）"}
+  - {text: "He tore up the contracts the foreign companies had with Bedevesa.", start: 1005.36, end: 1008.66, zh: "他撕毁了外国公司与贝德韦萨签订的合同。（tore up 撕毁；contracts 合同；Bedevesa 贝德韦萨，此处指委内瑞拉石油公司PDVSA）"}
+  - {text: "Said they were unfair.", start: 1008.94, end: 1009.64, zh: "他说这些合同是不公平的。（unfair 不公平的）"}
+  - {text: "He was a little bit right.", start: 1009.64, end: 1011.72, explain: "This means he was partly correct, but not completely. He was right about some things.", zh: "他有一点是对的。（a little bit 有一点，稍微）"}
+  - {text: "But if you see the things in what happened after, he took a bad decision.", start: 1012.36, end: 1018.76, zh: "但如果你看看后来发生的事，他做了一个错误的决定。（bad decision 错误的决定）"}
+  - {text: "For José, though, everything worked out okay.", start: 1019.20, end: 1021.78, explain: "\"Worked out okay\" means things went well or ended in a good way. For José, everything was fine in the end.", zh: "不过对何塞来说，一切都还好。（though 不过，然而；worked out okay 结果还不错）"}
+  - {text: "Because all those formally foreign -owned companies...", start: 1022.18, end: 1024.90, explain: "\"Formally\" means officially or in name. \"Foreign-owned\" means the company belongs to people from another country. This sentence is a fragment that starts with \"Because\" and continues in the next part.", zh: "因为那些原本由外国拥有的公司……（formally 形式上，名义上；foreign-owned 外国拥有的）"}
+  - {text: "I became the manager.", start: 1025.58, end: 1026.46, zh: "我成了经理。（manager 经理）"}
+  - {text: "You became the manager of...", start: 1026.66, end: 1027.74, zh: "你成了……的经理（manager 经理）"}
+  - {text: "And all those companies...", start: 1027.74, end: 1029.04, zh: "而所有这些公司……"}
+  - {text: "You became the manager of all the nationalized oil companies?", start: 1029.04, end: 1032.08, explain: "\"Nationalized\" means the government took control of private companies. The speaker asks if the listener became the boss of all these government-run oil companies.", zh: "你成了所有国有石油公司的经理？（nationalized 国有化的）"}
+  - {text: "44 companies, yes. Wow.", start: 1032.38, end: 1034.90, zh: "44家公司，是的。哇。"}
+  - {text: "44 companies. Which means, José had a front -row seat as foreigners made their slow retreat out of the country.", start: 1035.95, end: 1042.65, explain: "\"Front-row seat\" means a very good position to see what is happening. \"Retreat\" means to leave or go away. José watched closely as foreign companies slowly left the country.", zh: "44家公司。这意味着，何塞坐在前排，看着外国公司缓慢地撤出这个国家。（front-row seat 前排座位，喻指处于有利位置或近距离观察）"}
+  - {text: "The only major American oil company to stay was Chevron.", start: 1043.05, end: 1046.07, explain: "\"Chevron\" is the name of a large American oil company. This was the only big US oil company that did not leave.", zh: "唯一留下的主要美国石油公司是雪佛龙。（Chevron 雪佛龙，美国石油公司）"}
+  - {text: "Under a new contract that gave majority control to Bedevesa.", start: 1046.71, end: 1050.25, zh: "根据一份新合同，将多数控制权交给了贝德韦萨。（majority control 多数控制权；Bedevesa 贝德韦萨，此处指代委内瑞拉石油公司PDVSA）"}
+  - {text: "Meanwhile, Bedevesa was taken over by Chávez loyalists.", start: 1050.87, end: 1055.49, explain: "\"Loyalists\" are people who strongly support a leader. \"Chávez\" is the name of the former president of Venezuela. People who supported Chávez took control of the company.", zh: "与此同时，贝德韦萨被查韦斯的忠实追随者接管了。（loyalists 忠实追随者）"}
+  - {text: "Some of whom couldn't tell a pump jack from a nodding donkey.", start: 1055.99, end: 1059.59, explain: "\"Pump jack\" is a machine used to get oil out of the ground. \"Nodding donkey\" is a funny name for the same machine. The speaker says some new managers did not know how to use the machines.", zh: "其中有些人连抽油机和点头驴都分不清。（pump jack 抽油机；nodding donkey 点头驴，抽油机的俗称）"}
+  - {text: "Just kidding, that's the same thing.", start: 1059.95, end: 1061.15, explain: "\"Just kidding\" means the speaker is joking. The speaker says that a pump jack and a nodding donkey are actually the same thing.", zh: "开个玩笑，那其实是同一种东西。"}
+  - {text: "It took years, but at the end they destroyed it.", start: 1061.85, end: 1064.83, explain: "\"Destroyed\" means broken or ruined completely. This sentence says that it took a long time, but in the end, they ruined it.", zh: "虽然花了好几年，但最后他们把它毁了。"}
+  - {text: "He lost two -thirds of the production capacity.", start: 1064.83, end: 1068.31, explain: "\"Production capacity\" means the amount of goods a place can make. The note \"two -thirds\" is split by a space; it means two parts out of three. This sentence says he lost a large part of the ability to make things.", zh: "他失去了三分之二的产能。（production capacity 产能，生产能力）"}
+  - {text: "But at the same time, Bedevesa became bloated.", start: 1068.93, end: 1071.75, explain: "\"Bloated\" means too big or too heavy, often in a bad way. This sentence says that at the same time, Bedevesa became too large or inefficient.", zh: "但与此同时，贝德韦萨变得臃肿不堪。（bloat 膨胀，臃肿）"}
+  - {text: "They hired an enormous number of employees.", start: 1072.15, end: 1074.71, explain: "\"Enormous\" means very big or very many. This sentence says they hired a very large number of workers.", zh: "他们雇佣了数量庞大的员工。（enormous 巨大的，庞大的）"}
+  - {text: "Like five times that we had in the past, yes.", start: 1075.15, end: 1078.13, explain: "\"That\" refers to the number of employees mentioned before. This sentence says they now have five times as many workers as they used to have.", zh: "是的，是我们过去人数的五倍。（five times 五倍）"}
+  - {text: "They are only being paid because it's like a political party.", start: 1078.93, end: 1081.97, explain: "\"Political party\" is a group of people who want to be in power. This sentence says people get paid only because it works like a political group, not because of real work.", zh: "他们之所以能领到薪水，是因为这就像个政党一样。（political party 政党）"}
+  - {text: "So that is the cautionary tale of the Apeltura.", start: 1082.41, end: 1084.77, explain: "\"Cautionary tale\" is a story that warns people about a mistake. \"Apeltura\" is likely a misspelling of a company name. This sentence says this is a warning story about that company.", zh: "这就是阿佩图拉留下的警示故事。（cautionary tale 警示故事，教训）"}
+  - {text: "If you let foreign investors in, it can be good.", start: 1085.13, end: 1088.11, explain: "\"Foreign investors\" are people from other countries who put money into a business. This sentence says that letting people from other countries invest can be a good thing.", zh: "如果你允许外国投资者进入，情况可能会变好。（foreign investors 外国投资者）"}
+  - {text: "It can revitalize the oil sector.", start: 1088.45, end: 1090.29, explain: "\"Revitalize\" means to make something strong and active again. \"Sector\" means a part of the economy, like farming or oil. This sentence says that something can make the oil industry work well again.", zh: "它能振兴石油行业。（revitalize 振兴，使……恢复活力）"}
+  - {text: "A lot of people can reap the rewards.", start: 1090.63, end: 1092.57, explain: "\"Reap\" means to get a good result or benefit. \"Rewards\" are good things you get for your work. This means many people can get good benefits.", zh: "很多人能从中获益。（reap the rewards 收获回报，获益）"}
+  - {text: "But beware because things can change.", start: 1092.57, end: 1096.49, explain: "\"Beware\" means to be careful or watch out. This sentence warns that the situation might not stay good.", zh: "但要小心，因为局势可能会发生变化。（beware 小心，提防）"}
+  - {text: "If Venezuelans get the sense that they're being taken advantage of, they might take everything back.", start: 1097.01, end: 1101.83, explain: "\"Taken advantage of\" means being treated unfairly or cheated. \"Get the sense\" means to feel or think that something is true. If people feel cheated, they might take back their things.", zh: "如果委内瑞拉人感觉自己在被占便宜，他们可能会夺回所有东西。（taken advantage of 被占便宜，被利用）"}
+  - {text: "Now this new Venezuelan oil deal just announced by Trump, it's a weird one.", start: 1102.35, end: 1108.41, explain: "\"Weird\" means strange or unusual. This sentence says the new oil deal is strange.", zh: "现在特朗普刚宣布的这个委内瑞拉石油协议，挺奇怪的。（weird 奇怪的，不寻常的）"}
+  - {text: "Even though the Venezuelan constitution says that oil deposits are owned by the Venezuelan people and can't be transferred to a private company or country, this", start: 1109.05, end: 1117.59, explain: "\"Constitution\" is the main set of rules for a country. \"Deposits\" are the places where oil is found underground. This part says the rules say the oil belongs to the people. The sentence is cut off and continues in the next one.", zh: "尽管委内瑞拉宪法规定石油储量归委内瑞拉人民所有，不能转让给私人公司或国家，但……（constitution 宪法；deposits 储量，矿藏）"}
+  - {text: "deal gives the rights to 17 oil fields in Venezuela to a private company which might be partially owned by the U .S.", start: 1117.59, end: 1125.89, explain: "\"Rights\" here means the permission to use or sell the oil. \"Partially owned\" means a company has some, but not all, of the shares. This deal gives a private company the permission to use 17 oil fields.", zh: "……这笔交易将委内瑞拉17个油田的权利授予了一家可能部分由美国持有的私人公司。（oil fields 油田；partially owned 部分持股）"}
+  - {text: "Of course it's not the best deal.", start: 1126.09, end: 1127.51, zh: "当然，这不是最好的交易。（deal 交易，协议）"}
+  - {text: "I would never negotiate that.", start: 1127.75, end: 1128.97, explain: "\"Negotiate\" means to talk with others to make a deal. This person says they would never make this kind of deal.", zh: "我绝不会那样谈判。（negotiate 谈判，协商）"}
+  - {text: "But of course not.", start: 1129.41, end: 1131.09, zh: "当然不是。（of course 当然）"}
+  - {text: "If they didn't have a chance to negotiate, that wasn't imposed.", start: 1131.37, end: 1134.45, explain: "\"Negotiate\" means to talk with others to reach an agreement. \"Imposed\" means forced on someone without asking. The speaker says that if the people could not talk to make a deal, the rules were not forced on them.", zh: "如果他们没机会谈判，那就不是强加给他们的。（imposed 强加的，强制实施的）"}
+  - {text: "Okay? Yeah. Remember the U .S.", start: 1134.97, end: 1137.61, zh: "明白了吗？是的。记得美国……（Okay 明白了吗）"}
+  - {text: "military bombed Venezuela, removed its former president, put him on an airplane, and is holding him at a jail in New York.", start: 1137.67, end: 1143.81, explain: "This sentence is a fragment and continues from the previous one. It describes how the military attacked Venezuela, took the old president, flew him to New York, and put him in a jail there.", zh: "……军队轰炸了委内瑞拉，推翻了前总统，把他送上飞机，现在正把他关押在纽约的一所监狱里。（bombed 轰炸；removed 移除，此处指推翻政权）"}
+  - {text: "The current U .S.", start: 1144.31, end: 1145.29, zh: "目前的美国……"}
+  - {text: "backed president seems basically at the beck and call of the White House.", start: 1145.49, end: 1149.21, explain: "This is a fragment. \"Backed\" means supported. \"At the beck and call\" means someone controls you completely and you must do what they say. The new president seems to do exactly what the White House wants.", zh: "受美国支持的总统似乎完全听命于白宫。（beck and call 随叫随到，听候差遣）"}
+  - {text: "Not exactly a negotiation.", start: 1149.21, end: 1150.81, zh: "这根本算不上谈判。"}
+  - {text: "But despite all that, and despite the climate impacts and how the oil wealth might not be shared equitably, Jose thinks anything to jumpstart Venezuela's oil", start: 1151.69, end: 1162.43, explain: "\"Equitably\" means fairly. \"Jumpstart\" means to help something start working again quickly. Jose thinks any plan to restart Venezuela's oil industry is good, even if it has bad effects on nature or money is not shared fairly. The sentence cuts off at the end.", zh: "但尽管有这些情况，尽管有气候影响以及石油财富可能分配不均，何塞认为任何能重启委内瑞拉石油……（equitably 公平地；jumpstart 重新启动，激活）"}
+  - {text: "economy has the potential to be good for Venezuelans.", start: 1162.43, end: 1166.03, zh: "经济对委内瑞拉人来说都有可能是好事。"}
+  - {text: "He's not out. Wow.", start: 1166.47, end: 1168.17, zh: "他还没出局。哇。"}
+  - {text: "Are you going to come out of retirement to do this?", start: 1168.95, end: 1170.87, zh: "你打算退出退休状态来做这件事吗？"}
+  - {text: "I can be advising that from here from the U .S.", start: 1171.81, end: 1174.77, zh: "我可以从美国这边提供建议。"}
+  - {text: "I'm not planning to go back to Venezuela.", start: 1174.81, end: 1176.61, zh: "我不打算回委内瑞拉。"}
+  - {text: "Oh, yeah. Because there's one more thing that happened to Jose in Venezuela that we haven't told you about yet.", start: 1176.61, end: 1184.11, explain: "The speaker says there is one more story about Jose in Venezuela that the listeners have not heard yet.", zh: "哦，是的。因为何塞在委内瑞拉还发生了另一件事，我们还没告诉你。"}
+  - {text: "Yeah, it might be the most cautionary epilogue to this cautionary tale, especially for any oil execs trying to get in on this deal.", start: 1185.05, end: 1194.77, explain: "\"Cautionary\" means it teaches people to be careful. \"Epilogue\" is the end part of a story. \"Execs\" is short for executives, or top managers. This part of the story is a warning for oil company leaders who want to make money from this deal.", zh: "没错，这或许就是这则警示故事中最具警示意义的尾声，尤其对于那些想参与这笔交易的石油高管来说。（cautionary 警示性的；epilogue 尾声；execs 高管）"}
+  - {text: "Here's a little image, a preview.", start: 1195.31, end: 1196.57, explain: "\"Preview\" means a short look at what is coming next. The speaker asks the listener to imagine a picture before telling the full story.", zh: "这里给大家看一张小图，算是个预告。（preview 预告，预览）"}
+  - {text: "Can you imagine 20 guys with skeleton masks and rifles?", start: 1197.15, end: 1200.43, explain: "\"Skeleton masks\" are masks that look like bones. \"Rifles\" are long guns. The speaker asks if you can imagine twenty men wearing bone masks and holding guns.", zh: "你能想象20个戴着骷髅面具、拿着步枪的人吗？（skeleton masks 骷髅面具；rifles 步枪）"}
+  - {text: "That's after the break.", start: 1200.79, end: 1201.61, zh: "广告时间后见。（break 广告休息）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1208.66, end: 1212.26, explain: "\"Stay tuned\" means keep listening. \"Sponsors\" are companies that pay for the show. This is a standard line before ads.", zh: "请留意接下来来自我们赞助商的公告和信息。（sponsors 赞助商）"}
+  - {text: "This message comes from Schwab.", start: 1213.47, end: 1214.97, explain: "\"Schwab\" is the name of a company. This is the start of an advertisement.", zh: "这条信息来自嘉信理财。（Schwab 嘉信理财）"}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place, no matter your investing goal, life stage, amount to invest,", start: 1215.41, end: 1225.57, explain: "\"Self-directed investing\" means you choose your own investments. \"Wealth management\" is a service that helps you manage your money. The sentence is cut off at the end.", zh: "在嘉信理财，无论您的投资目标、人生阶段或投资金额如何，您都可以在一个地方获得从自主投资到全方位财富管理的所有服务。（self-directed investing 自主投资；wealth management 财富管理）"}
+  - {text: "or know how, you can invest your way with Schwab.", start: 1225.85, end: 1229.09, zh: "或者无论您懂多少，您都可以按照自己的方式在嘉信理财进行投资。（invest your way 按自己的方式投资）"}
+  - {text: "This message comes from Northwestern Mutual.", start: 1229.53, end: 1232.13, explain: "\"Northwestern Mutual\" is the name of a company. This is the start of an advertisement.", zh: "这条信息来自西北互助保险。（Northwestern Mutual 西北互助保险）"}
+  - {text: "Life's a lot lately.", start: 1232.49, end: 1233.89, explain: "\"Life's a lot lately\" means life is very busy and difficult right now. This is a short, informal sentence.", zh: "最近生活挺忙的。（Life's a lot 生活很忙碌，指事情多）"}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1234.29, end: 1238.45, zh: "有些事你无法掌控，但你可以用计划来掌控自己的财务。（plan 计划）"}
+  - {text: "It all starts with Northwestern Mutual.", start: 1238.77, end: 1240.73, zh: "这一切都始于西北相互人寿保险公司。（Northwestern Mutual 西北相互人寿保险公司）"}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1240.73, end: 1248.99, explain: "\"Clients\" are the people who use a company's services. \"Economic environment\" means the state of the economy. \"Uncertainty\" means not knowing what will happen.", zh: "近170年来，他们帮助客户在各种经济环境中取得成功，在不确定时期提供稳定性。（stability 稳定性；uncertainty 不确定性）"}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1249.45, end: 1254.55, explain: "\"Get started\" means begin. \"NM.com\" is the website address. This is the end of the advertisement.", zh: "请访问NM.com，即位于威斯康星州密尔沃基的西北相互人寿保险公司。（Milwaukee 密尔沃基；Wisconsin 威斯康星州）"}
+  - {text: "This message comes from Active Campaign.", start: 1255.45, end: 1257.41, explain: "\"Active Campaign\" is the name of a company. This is the start of an advertisement.", zh: "这条信息来自Active Campaign。（Active Campaign 活动营销软件品牌）"}
+  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 1257.99, end: 1262.43, explain: "A \"marketing campaign\" is a plan to sell products using ads and messages. This is an ad. It asks if a computer can make your sales plan before you start working.", zh: "如果你打开笔记本电脑之前，下一个营销活动就已经建好了，那会怎样？（marketing campaign 营销活动）"}
+  - {text: "That's Active Intelligence by Active Campaign.", start: 1262.77, end: 1265.23, zh: "这就是Active Campaign推出的Active Intelligence。（Active Intelligence 主动智能功能）"}
+  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 1265.57, end: 1270.99, zh: "它了解你的受众、历史和你的语调，无需你要求就能据此行动。（audience 受众；voice 语调，风格）"}
+  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 1271.33, end: 1275.85, explain: "\"On your wavelength\" means understanding you well or matching your needs. This is an ad for a software tool that helps with marketing.", zh: "它不仅仅是营销自动化，更是一个真正与你同频的平台。（automation 自动化；wavelength 频率，同频）"}
+  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 1276.39, end: 1280.81, explain: "\"Engagement\" means how much people interact with your messages, like opening emails. This is an ad saying their tool makes emails more effective.", zh: "使用Active Intelligence的客户，其邮件互动率高出75%。（engagement 互动率）"}
+  - {text: "Start free at ActiveCampaign .com.", start: 1281.03, end: 1283.41, explain: "This is a short instruction to visit a website to start using the service for free. It is part of an advertisement.", zh: "在 ActiveCampaign.com 免费开始使用。"}
+  - {text: "You know, I don't really think that any oil exec who is thinking of going into business in Venezuela right now has the time to listen to the show,", start: 1285.45, end: 1292.05, explain: "An \"oil exec\" is a high-level manager in an oil company. The speaker says these busy people do not have time to listen to the radio show.", zh: "说实话，我觉得现在任何打算在委内瑞拉开展业务的石油高管，都没时间听我们的节目，"}
+  - {text: "but if you are, you're going to want to hear this part.", start: 1292.11, end: 1294.71, zh: "但如果你正在听，那你一定会想听这一段。"}
+  - {text: "This story is about just how bad things can get when an oil exec gets caught in a geopolitical struggle.", start: 1295.05, end: 1300.91, explain: "A \"geopolitical struggle\" is a fight between countries or groups of countries. The story is about how bad things get when a business leader is caught in this kind of fight.", zh: "这个故事讲的是，当一名石油高管卷入地缘政治斗争时，事情能变得多么糟糕。（geopolitical 地缘政治的）"}
+  - {text: "In the 2010s, Jose Pereira got a pretty sweet job.", start: 1301.29, end: 1304.93, explain: "\"Pretty sweet\" means very good or attractive. In the 2010s, Jose Pereira got a very good job.", zh: "在2010年代，何塞·佩雷拉得到了一份相当美差。（sweet job 美差，好职位）"}
+  - {text: "He became president and CEO of Sicko, which is an oil company owned by Venezuela and selling Venezuelan oil, but based in the United States.", start: 1305.23, end: 1314.31, explain: "\"CEO\" means the top boss of a company. \"Sicko\" is the name of the oil company. It is owned by Venezuela but runs from the US.", zh: "他成为了Sicko公司的总裁兼首席执行官，这是一家由委内瑞拉拥有、销售委内瑞拉石油但总部设在美国的石油公司。（CEO 首席执行官；Sicko 公司名，此处指委内瑞拉国家石油公司旗下实体）"}
+  - {text: "So we moved up to Houston, was living the oil executive's life.", start: 1314.69, end: 1317.85, explain: "An \"executive\" is a person with a very high job in a company. \"Houston\" is a big city in Texas, USA. The speaker moved to Houston and lived a rich life working for an oil company.", zh: "我们搬到了休斯顿，过着石油高管的生活。"}
+  - {text: "We have all the toys.", start: 1318.19, end: 1319.65, zh: "我们拥有所有那些奢华的装备。（toys 此处指豪车、飞机等奢华物品）"}
+  - {text: "I flew in helicopters all over.", start: 1320.45, end: 1322.67, explain: "A \"helicopter\" is a type of plane with spinning wings on top. The speaker says he traveled to many places by helicopter.", zh: "我到处坐直升机飞行。"}
+  - {text: "I have a plane that I could travel all over, but it was a tough situation politically.", start: 1322.83, end: 1330.17, explain: "\"Politically\" means related to government and power. The speaker had a private plane, but the situation between countries was difficult.", zh: "我有一架飞机可以带我到处飞，但当时的政治局势很严峻。"}
+  - {text: "Jose was a Venezuelan kind of raised in Oklahoma running a Venezuelan oil company in Texas?", start: 1330.71, end: 1337.87, explain: "\"Raised\" means to grow up in a place. The speaker asks if Jose grew up in Oklahoma but ran a Venezuelan oil company in Texas.", zh: "何塞是个委内瑞拉人，在俄克拉荷马州长大，在得克萨斯州经营一家委内瑞拉石油公司？（Venezuelan 委内瑞拉人；Oklahoma 俄克拉荷马州；Texas 得克萨斯州）"}
+  - {text: "Yeah. The Americans thought he was just a chavista, and the Venezuelans, well, eventually they didn't trust him either.", start: 1338.37, end: 1345.11, explain: "A \"chavista\" is a person who supports the political ideas of Hugo Chavez, a former leader of Venezuela. Americans and Venezuelans both did not trust Jose.", zh: "没错。美国人觉得他只是个查韦斯主义者，而委内瑞拉人呢，最终也不信任他了。（chavista 查韦斯主义者，指支持查韦斯政策的人）"}
+  - {text: "And that got worse in 2017 when President Trump and the successor to Chavez, Nicolás Maduro, really started going at it.", start: 1345.55, end: 1352.65, explain: "A \"successor\" is the person who takes a job after someone else leaves. \"Going at it\" means fighting or arguing strongly. Trump and Maduro started arguing a lot in 2017.", zh: "2017年情况变得更糟，当时特朗普总统和查韦斯的继任者尼古拉斯·马杜罗真的开始互相攻击了。（successor 继任者；Nicolás Maduro 尼古拉斯·马杜罗）"}
+  - {text: "Sanctions from Trump, harsh words from Maduro.", start: 1353.13, end: 1355.31, explain: "\"Sanctions\" are rules that stop a country from trading with another country. Trump made these rules, and Maduro said bad things about him.", zh: "特朗普实施制裁，马杜罗则口出恶言。（Sanctions 制裁；harsh words 严厉言辞，恶言）"}
+  - {text: "Jose says being stuck in the middle was exhausting.", start: 1355.31, end: 1358.09, explain: "\"Exhausting\" means making you feel very tired. Jose felt very tired because he was caught between two sides.", zh: "何塞说夹在中间让他精疲力竭。（stuck in the middle 夹在中间，左右为难；exhausting 令人精疲力竭的）"}
+  - {text: "He was ready to call it quits, getting ready to retire.", start: 1358.69, end: 1361.61, explain: "\"Call it quits\" means to stop doing something. \"Retire\" means to stop working because you are old or you want to rest. The sentence says he was about to stop working and start his rest time.", zh: "他准备收手了，正准备退休。（call it quits 收手，结束；retire 退休）"}
+  - {text: "And then just before Thanksgiving, he was at the movies with his wife, Justice League, when he got a call.", start: 1362.25, end: 1368.09, explain: "\"Thanksgiving\" is a big holiday in the US in late November. \"Justice League\" is the name of a famous movie. The sentence says that just before the holiday, he was in a cinema with his wife watching this movie when he received a phone call.", zh: "就在感恩节前夕，他和妻子在看电影《正义联盟》时，接到了一个电话。（Thanksgiving 感恩节；Justice League 正义联盟，电影名）"}
+  - {text: "It was Venezuela's petroleum minister.", start: 1368.43, end: 1370.95, explain: "\"Petroleum\" is the word for oil. A \"minister\" is a high-level government worker who is in charge of a specific area, like energy. The sentence says the person was the head of the oil department in the Venezuelan government.", zh: "打电话来的是委内瑞拉的石油部长。（petroleum minister 石油部长）"}
+  - {text: "They wanted him to come to Caracas to give an update about a refinery project.", start: 1371.53, end: 1375.69, explain: "A \"refinery\" is a factory that changes raw oil into fuel like gas. \"Caracas\" is the main city in Venezuela. This sentence says people wanted him to go to Caracas to talk about a new oil factory.", zh: "他们想让他去加拉加斯汇报一个炼油厂项目的进展。（Caracas 加拉加斯，委内瑞拉首都；refinery 炼油厂）"}
+  - {text: "So it was like a short notice.", start: 1376.11, end: 1377.79, explain: "\"Short notice\" means a very small amount of time to prepare. The speaker says the warning or message came very quickly, so people did not have much time to get ready.", zh: "所以这算是个临时通知。（short notice 临时通知，提前通知时间很短）"}
+  - {text: "Come tomorrow. Come tomorrow.", start: 1378.27, end: 1379.45, zh: "明天再来。明天再来。"}
+  - {text: "Tomorrow, yes. So I quit the movie.", start: 1379.69, end: 1381.83, zh: "明天，是的。所以我放弃了这部电影。"}
+  - {text: "I told my wife, we see the movie when I come back.", start: 1382.15, end: 1384.93, explain: "This is a fragment. The speaker says they told their wife that they will watch a film together after they return home. The sentence is cut off and continues in the next one.", zh: "我告诉妻子，等我回来再看这部电影。"}
+  - {text: "Next morning, he and five other executives fly to Caracas.", start: 1384.93, end: 1388.69, zh: "第二天早上，他和另外五名高管飞往加拉加斯。（executives 高管；Caracas 加拉加斯，委内瑞拉首都）"}
+  - {text: "They give their presentation.", start: 1389.09, end: 1389.99, zh: "他们进行了演示。（presentation 演示，展示）"}
+  - {text: "It goes well. I had the plane waiting for me in the airport, and when I was going to go to the airport, they opened the doors, and it came like 20 guards with masks, skeleton masks.", start: 1390.59, end: 1404.44, explain: "\"Skeleton masks\" are face coverings that look like human bones. The speaker says the trip went well. He had a plane ready for him. When he went to the airport, the doors opened and about 20 guards wearing these bone-like masks came out.", zh: "进展顺利。我在机场等着飞机，正要去机场时，门开了，大约20个戴着骷髅面具的警卫冲了出来。（guards 警卫；skeleton masks 骷髅面具）"}
+  - {text: "Can you imagine 20 guys with skeleton masks and rifles?", start: 1404.62, end: 1407.64, explain: "A \"skeleton\" is the bones of a body. A \"skeleton mask\" looks like a skull. A \"rifle\" is a long gun. The speaker asks if you can picture 20 men wearing scary masks and holding guns.", zh: "你能想象20个拿着步枪、戴着骷髅面具的人吗？（rifles 步枪）"}
+  - {text: "He says they were from Maduro's counterintelligence unit, the folks who rounded up Maduro's political prisoners.", start: 1408.08, end: 1414.38, explain: "\"Counterintelligence\" is a group that fights against enemy spies. \"Rounded up\" means to catch or arrest people. The men were from a secret police group that arrested political enemies.", zh: "他说他们是马杜罗的反情报部门的人，就是那些抓捕马杜罗政治犯的人。（counterintelligence 反情报；rounded up 抓捕，围捕）"}
+  - {text: "One of them approached him.", start: 1414.38, end: 1416.40, zh: "其中一个人走向他。（approached 走近，靠近）"}
+  - {text: "And said, who is Jose Pereira here?", start: 1416.58, end: 1418.50, explain: "This is a question asked by the men. They want to know the name of the person named Jose Pereira.", zh: "并问道，这里的何塞·佩雷拉是谁？（Jose Pereira 何塞·佩雷拉，人名）"}
+  - {text: "So I said, I'm Jose Pereira.", start: 1419.10, end: 1421.38, explain: "The speaker answers the question. He says his name is Jose Pereira.", zh: "于是我说，我是何塞·佩雷拉。"}
+  - {text: "Okay, you had to come with me.", start: 1422.06, end: 1423.34, zh: "好吧，你不得不跟我一起走。"}
+  - {text: "And then we went to a small room.", start: 1423.54, end: 1426.90, zh: "然后我们被带进了一间小房间。"}
+  - {text: "It came inside a general, and he announced that we were accused to be American spies, had committed treason to the country, and we're going to go to jail.", start: 1428.00, end: 1438.00, explain: "\"Treason\" is a crime against your own country, like helping the enemy. \"Spies\" are secret agents. A general told them they were accused of being American spies and betraying the country.", zh: "进来了一位将军，他宣布我们被指控为美国间谍，犯有叛国罪，将被关进监狱。（general 将军；treason 叛国罪）"}
+  - {text: "They put us handcuffs, and the next time I went out to see the sky, it was 10 months after.", start: 1438.32, end: 1444.04, explain: "\"Handcuffs\" are metal rings that lock your hands together. \"10 months after\" means 10 months later. He was locked up for a long time before seeing the sky again.", zh: "他们给我们戴上手铐，下一次我抬头看到天空时，已经是10个月之后了。（handcuffs 手铐）"}
+  - {text: "So I stayed in solitary confinement for the next 10 months.", start: 1444.04, end: 1447.96, explain: "\"Solitary confinement\" means being alone in a cell with no other people. He was alone for 10 months.", zh: "所以我在接下来的10个月里一直被单独关押。（solitary confinement 单独关押，即隔离监禁）"}
+  - {text: "10 months in solitaire, accused of treason, corruption, and embezzlement, all of which he says he didn't do.", start: 1448.56, end: 1456.20, explain: "\"Solitaire\" is another word for being alone in a cell. \"Embezzlement\" is stealing money that belongs to a job or company. He was accused of many crimes, but he says he did not do them.", zh: "在单人牢房里关了10个月，被指控叛国、腐败和挪用公款，但他声称自己什么都没做。（solitaire 单人牢房；embezzlement 挪用公款）"}
+  - {text: "The US government agreed.", start: 1456.94, end: 1458.02, explain: "This sentence says that the US government said yes to a request or plan.", zh: "美国政府也持相同看法。"}
+  - {text: "They said he was wrongfully detained.", start: 1458.18, end: 1459.82, explain: "\"Wrongfully detained\" means held in prison without a good reason or by mistake. The sentence says the authorities admitted he was in jail by mistake.", zh: "他们说他是被错误拘留的。（wrongfully detained 被错误拘留）"}
+  - {text: "But he was stuck.", start: 1460.56, end: 1461.20, explain: "\"Stuck\" means he could not move or leave. The sentence says he was still in a difficult situation.", zh: "但他被困住了。"}
+  - {text: "This is the last snapshot of our story.", start: 1461.76, end: 1463.36, explain: "A \"snapshot\" is a quick look at a moment in time. The speaker says this is the final part of the story.", zh: "这是我们要讲的故事的最后一幕。（snapshot 快照，此处指故事的一个片段或画面）"}
+  - {text: "Jose, alone in a cell, the starkest of contrast with the expense account life he'd been living before.", start: 1463.66, end: 1469.08, explain: "\"Solitary\" means a small room where a prisoner is alone. \"Starkest of contrast\" means the difference is very big. \"Expense account\" means money paid by the company for work trips. The sentence describes Jose alone in a cell, which is very different from his rich life before.", zh: "何塞独自关在牢房里，这与他之前挥霍无度的生活形成了最鲜明的对比。（stark 鲜明的，强烈的；expense account 公款，用于支付公务开支的账户）"}
+  - {text: "He lost 100 pounds.", start: 1469.50, end: 1470.48, zh: "他瘦了一百磅。（pounds 磅，重量单位）"}
+  - {text: "400 pounds, yes. You lost 100 pounds?", start: 1471.02, end: 1475.03, zh: "四百磅，没错。你瘦了一百磅？"}
+  - {text: "100 pounds in one year.", start: 1475.17, end: 1476.95, zh: "一年之内瘦了一百磅。"}
+  - {text: "Yeah. So no diet.", start: 1477.23, end: 1478.61, zh: "是啊。所以不是靠节食。（diet 节食，减肥饮食）"}
+  - {text: "Starving. Oh. Yeah. Eventually, he got out of solitary.", start: 1479.13, end: 1483.49, explain: "\"Solitary\" means a small room where a prisoner is alone. The speaker says that after a long time, he was allowed to leave that room.", zh: "是饿的。噢。是的。最后，他被移出了单独监禁。（solitary 单独监禁，指囚犯被关在单人牢房中）"}
+  - {text: "His family figured out how to get him food, and he was reunited with his sick go colleagues.", start: 1483.91, end: 1488.79, explain: "\"Reunited\" means joined together again. \"Colleagues\" are people who work with you. The sentence says his family found a way to give him food, and he went back to his sick work friends.", zh: "他的家人想办法给他送食物，他也和生病的狱友重新团聚了。（colleagues 同事，此处指狱友或同监室的人）"}
+  - {text: "Oh, wow, my friend.", start: 1489.31, end: 1490.45, explain: "This is a short reaction. The speaker is surprised or impressed by what just happened.", zh: "噢，天哪，我的朋友。"}
+  - {text: "We hugged all of us.", start: 1491.05, end: 1492.63, explain: "The speaker says that everyone in the group hugged each other. This is a short, simple sentence.", zh: "我们全都抱在一起。"}
+  - {text: "We began to cry.", start: 1492.97, end: 1494.07, zh: "我们开始哭了。"}
+  - {text: "He says they kind of saved each other.", start: 1494.47, end: 1496.57, explain: "\"Saved\" here means helped each other stay safe or alive. The speaker says they helped each other a lot.", zh: "他说他们算是互相拯救了对方。"}
+  - {text: "In detention, they became workout buddies, Bible study buddies, dominoes buddies.", start: 1497.15, end: 1501.71, explain: "\"Detention\" means being kept in a prison or jail. \"Scabies\" is a skin disease. \"Buddies\" means friends. The sentence says they became friends for exercise, reading the Bible, and playing games while in jail.", zh: "在被拘留期间，他们成了健身伙伴、圣经学习伙伴和多米诺骨牌牌友。（detention 拘留；Bible study 圣经学习；dominoes 多米诺骨牌）"}
+  - {text: "It was like when he worked for the Japanese company.", start: 1501.71, end: 1504.69, explain: "The speaker compares the current situation to a past job at a Japanese company. The sentence is a bit short and might continue in the next one.", zh: "那感觉就像他在日本公司工作的时候一样。"}
+  - {text: "Every decision they made, they made together and discussed at great length.", start: 1505.01, end: 1509.93, zh: "他们做的每一个决定，都是共同做出的，并且进行了长时间的讨论。"}
+  - {text: "Well, let me tell you, we create like a boardroom.", start: 1510.29, end: 1513.13, explain: "A \"boardroom\" is a room where business leaders meet to make big decisions. The speaker says they made a space like that.", zh: "好吧，让我告诉你，我们就像组建了一个董事会。"}
+  - {text: "No, no, no. Literally, we did like a boardroom.", start: 1513.49, end: 1516.87, explain: "\"Literally\" means exactly, not just for fun. The speaker confirms they really made a boardroom.", zh: "不不不，字面意义上的，我们真的像开了个董事会。"}
+  - {text: "We were in the six in a round table and taken decision how we will survive.", start: 1517.05, end: 1523.09, explain: "\"Taken decision\" is a mistake for \"made a decision\". The speaker says six people sat at a round table to decide how to stay alive.", zh: "我们六个人围坐在圆桌旁，讨论决定我们要如何生存下去。（boardroom 董事会会议室；round table 圆桌）"}
+  - {text: "Eventually, after nearly five years of imprisonment, two cases of scabies, two of COVID, a case of bronchitis, and a heart attack.", start: 1523.59, end: 1531.65, explain: "\"Imprisonment\" means being in prison. \"Bronchitis\" is a lung infection. The sentence lists the bad things that happened to him in prison over five years. It is a fragment and ends abruptly.", zh: "最终，在经历了近五年的监禁、两次疥疮、两次新冠感染、一次支气管炎以及一次心脏病发作后……（scabies 疥疮；bronchitis 支气管炎）"}
+  - {text: "Jose, the rest of his sick go colleagues, and two other prisoners were swapped for two Venezuelans, nephews of then president Maduro.", start: 1532.09, end: 1540.07, explain: "The word \"sick go\" is a mistake in the recording; it should be \"sicko\" or just \"colleagues\". \"Swapped\" means exchanged. This sentence says Jose and other prisoners were exchanged for two of Maduro's nephews.", zh: "何塞、他其他生病的同事以及另外两名囚犯，被交换给了两名委内瑞拉人，他们是当时总统马杜罗的侄子。（swapped 交换；nephews 侄子）"}
+  - {text: "What's a good deal?", start: 1540.51, end: 1541.33, zh: "什么才算是一笔好买卖？"}
+  - {text: "What's a good deal?", start: 1542.11, end: 1543.13, zh: "什么才算是一笔好买卖？"}
+  - {text: "So that explains why he doesn't want to go back and why his son, who also works in oil, four generations, says no way.", start: 1543.63, end: 1552.49, zh: "这也解释了他为什么不想回去，以及为什么他的儿子——同样在石油行业工作，家族已传承四代——坚决说不。（kick starting 启动；four generations 四代）"}
+  - {text: "And it might also explain why kick starting foreign investment in Venezuela has been so hard for President Trump.", start: 1553.22, end: 1560.84, explain: "\"Kick starting\" means to start something so it grows. \"Foreign investment\" means money from other countries. The sentence asks why it is hard for Trump to start this money flow in Venezuela.", zh: "这也可能解释了为什么特朗普总统在推动外国投资进入委内瑞拉方面如此艰难。（kick starting 启动；foreign investment 外国投资）"}
+  - {text: "Why most of the big oil companies haven't jumped back into Venezuela so far.", start: 1561.18, end: 1565.00, zh: "为什么大多数大型石油公司迄今都没有重返委内瑞拉。（jumped back into 重返，重新进入）"}
+  - {text: "Apertura 2 .0, it is not exactly happening on the best of terms.", start: 1565.66, end: 1570.94, explain: "\"Apertura 2.0\" is the name of a new plan or deal. \"On the best of terms\" means in a friendly and fair way. The speaker says this new deal is not going well or fairly.", zh: "所谓的“2.0版开放”，情况并不像表面上那么顺利。（Apertura 2.0 开放2.0，指委内瑞拉石油行业的新开放政策；on the best of terms 在最好的条件下，顺利）"}
+  - {text: "It is one country, the U .S., pretty much dictating the terms with gun boats and helicopters.", start: 1571.70, end: 1578.00, explain: "\"Dictating\" means telling others what to do in a strong way. \"Gun boats\" are military ships with guns. The sentence says the US is forcing its rules using military power.", zh: "基本上是美国这一个国家，用军舰和直升机在强加条件。（dictating the terms 强加条件；gun boats 军舰，炮艇）"}
+  - {text: "Jose and a lot of other people do not want to be in the middle of that.", start: 1579.04, end: 1583.66, zh: "何塞和许多其他人都希望不要卷入其中。（in the middle of 在中间，卷入）"}
+  - {text: "A quick word before we go.", start: 1592.41, end: 1593.93, zh: "在结束之前，简单说几句。（a quick word 简短的几句话）"}
+  - {text: "We are working on a new bonus episode about a topic we've been asked to tackle a bunch of times over the years, the economics of podcasting.", start: 1593.93, end: 1602.31, explain: "\"Bonus episode\" is an extra show. \"Tackle\" means to deal with a topic. The hosts are making a new extra show about the money side of podcasts.", zh: "我们正在制作一期新的特别节目，探讨一个多年来大家反复要求我们分析的话题：播客的经济模式。（bonus episode 特别节目；economics of podcasting 播客经济学）"}
+  - {text: "We are pulling back the curtain on NPR Plus, the sponsor messages you hear, or maybe don't hear, the dollars and cents of it all.", start: 1602.57, end: 1611.11, explain: "\"Pulling back the curtain\" means showing the secret details. \"Dollars and cents\" means the money details. They will explain how NPR Plus works and how it makes money.", zh: "我们要揭开NPR Plus的神秘面纱，也就是你听到或没听到的那些赞助商广告，以及背后的金钱细节。（pulling back the curtain 揭开面纱，揭示真相；NPR Plus NPR的付费订阅服务）"}
+  - {text: "If you're curious about how any of that works, and have a question, drop us an email, planetmoneyatnpr .org.", start: 1611.39, end: 1617.59, explain: "\"Drop us an email\" means send an email to them. The hosts ask listeners to send questions about how the show works to their email address.", zh: "如果你好奇这些是怎么运作的，并且有问题，请给我们发邮件，地址是planetmoneyatnpr.org。（drop us an email 给我们发电子邮件）"}
+  - {text: "This episode of Planet Money was produced by Emma Peasley and Samuel Horst Kessler.", start: 1617.85, end: 1622.31, explain: "\"Produced by\" means made by. This sentence lists the people who made this specific episode of the show.", zh: "本期《Planet Money》由Emma Peasley和Samuel Horst Kessler制作。（produced by 由……制作）"}
+  - {text: "It was edited by Mary Ann McKeown.", start: 1622.31, end: 1624.23, explain: "\"Edited\" means the person changed the sound or words to make the show sound good. This sentence says who made the final changes to the audio.", zh: "由Mary Ann McKeown编辑。（edited by 由……编辑）"}
+  - {text: "It was fact -checked by Emma and Sierra Juarez.", start: 1624.37, end: 1626.85, explain: "\"Fact-checked\" means they looked for the truth to make sure the information was correct. The transcript has a space in \"fact -checked\".", zh: "由Emma和Sierra Juarez进行事实核查。（fact-checked 事实核查，核实信息准确性）"}
+  - {text: "It was engineered by Josephine Neonai with help from Jimmy Keely.", start: 1627.15, end: 1631.03, explain: "\"Engineered\" here means the person worked on the sound quality and music. This sentence names the people who made the audio sound clear.", zh: "由Josephine Neonai负责音效工程，Jimmy Keely协助。（engineered by 由……负责音效工程；with help from 在……的帮助下）"}
+  - {text: "Our school mark is Planet Money's executive producer.", start: 1631.35, end: 1633.61, explain: "The word \"school\" is a mistake in the recording; it should be a person's name. An \"executive producer\" is a boss who manages the whole show.", zh: "我们的校标是Planet Money的总制片人。（school mark 校标，此处指NPR的标识或品牌；executive producer 总制片人）"}
+  - {text: "Special thanks to longtime Planet Money producer Willa Rubin, who is currently covering energy for NPR.", start: 1634.05, end: 1641.47, explain: "\"Longtime\" means for a very long time. \"Covering\" means reporting news about a specific topic. This sentence thanks a person who worked on the show for many years.", zh: "特别感谢Planet Money的资深制片人Willa Rubin，她目前正为NPR报道能源新闻。（longtime 资深的，长期的；covering 报道，覆盖）"}
+  - {text: "You got to check out her coverage.", start: 1641.67, end: 1642.55, explain: "\"Check out\" means to look at or listen to something. The speaker tells you to listen to the news this person is making now.", zh: "你一定要去看看她的报道。（check out 查看，看看）"}
+  - {text: "It's really great. I'm Nick Fountain.", start: 1642.81, end: 1644.47, zh: "真的非常棒。我是Nick Fountain。（I'm Nick Fountain 我是Nick Fountain，自我介绍）"}
+  - {text: "I'm Erica Barris. This is NPR.", start: 1645.13, end: 1646.65, explain: "This is a short introduction by the host. She says her name and the name of the radio station.", zh: "我是埃丽卡·巴里斯。这里是NPR。（NPR 美国国家公共广播电台）"}
+  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1647.05, end: 1667.35, explain: "\"Sponsors\" are companies that pay money to have their ads on the show. The host says the next part will have ads.", zh: "感谢收听。请留意接下来的赞助商公告和留言。（sponsors 赞助商）"}
+  - {text: "Taxes and fees extra.", start: 1696.10, end: 1697.26, zh: "税费另计。（fees 费用）"}
+  - {text: "See Mint Mobile for details.", start: 1697.54, end: 1698.72, zh: "详情请见Mint Mobile。（Mint Mobile 一家美国虚拟移动运营商）"}
 ---

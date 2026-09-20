@@ -9,343 +9,343 @@ audioDir: "2026-08-30-dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonu
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-08-30-dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus/episode.mp3"
 totalDuration: 1562.3
 sentences:
-  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16}
-  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.52, end: 8.52}
-  - {text: "There, build your own family meal, feeds four for just $35.", start: 8.88, end: 12.60}
-  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30}
-  - {text: "Hey, it's Sarah, and this is a bonus Sunday episode because, as we all know, Dolly Parton has sadly passed away.", start: 16.46, end: 24.64}
-  - {text: "There's so much to say about her music, her acting career, Dollywood, her business savvy.", start: 24.64, end: 30.16}
-  - {text: "Today, though, we have the renegade true story behind Dolly Parton's 9 -5 anthem.", start: 30.80, end: 36.82}
-  - {text: "The song was for a movie, and I did not know this before I worked on this episode.", start: 37.24, end: 40.94}
-  - {text: "The song and movie were based on real people and a real labor movement formed by a group of secretaries in Boston.", start: 41.06, end: 47.74}
-  - {text: "We spoke with them and learned how the song and movie and the real life movement all started to feed into each other.", start: 47.74, end: 55.48}
-  - {text: "This was all recorded back in 2021, but please enjoy my true delight watching Dolly Parton in this movie and how much all the people we interviewed love, love, love this song.", start: 55.76, end: 65.82}
-  - {text: "But before we turn to our Dolly appreciation, I just want to say, do not let this bonus episode take the place of our usual Friday episode.", start: 66.12, end: 73.28}
-  - {text: "It is there waiting for you.", start: 73.28, end: 74.60}
-  - {text: "It is all about the quest to turn tomatoes, basically all fruits, into brands you will pay more for.", start: 74.72, end: 80.72}
-  - {text: "We hear from the food scientists creating a new type of cherry tomato.", start: 80.94, end: 84.18}
-  - {text: "That's supposed to be a lot better, and this episode may just change how you see fruit at the grocery store.", start: 84.40, end: 90.14}
-  - {text: "Scroll down in the feed to find it.", start: 90.48, end: 91.96}
-  - {text: "Okay, here you are, 9 -5.", start: 92.64, end: 95.22}
-  - {text: "This is Planet Money from NPR.", start: 96.50, end: 98.72}
-  - {text: "Alright, so you have your snacks?", start: 101.59, end: 103.57}
-  - {text: "Okay, I have my snacks.", start: 103.57, end: 104.51}
-  - {text: "Well, I actually have a chicken pot pie.", start: 105.15, end: 108.11}
-  - {text: "A chicken pot pie as your movie snack?", start: 108.39, end: 111.23}
-  - {text: "Yeah. I got string cheese, goldfish crackers, and I haven't seen this film.", start: 111.55, end: 117.69}
-  - {text: "That is going to change today because we are watching 9 -5, the movie during the work day, the way it was meant to be watched.", start: 117.97, end: 125.93}
-  - {text: "Okay, ready? 3, 2, 1, play.", start: 126.15, end: 127.89}
-  - {text: "I don't even think I knew that 9 -5, the song, had a movie.", start: 132.71, end: 137.17}
-  - {text: "I thought it was a song.", start: 137.41, end: 138.33}
-  - {text: "What you got a lot is, like, a long, open, credits tick.", start: 140.45, end: 143.95}
-  - {text: "I'm excited. I'm getting into it.", start: 148.70, end: 151.32}
-  - {text: "Well, welcome to the front lines.", start: 161.64, end: 164.11}
-  - {text: "Millie Tomlin, I love her.", start: 164.31, end: 166.23}
-  - {text: "Oh, I wanted to ask you about my salary.", start: 166.23, end: 169.63}
-  - {text: "Rujin Fonda looks so good.", start: 169.83, end: 172.33}
-  - {text: "She always looks good.", start: 173.19, end: 174.25}
-  - {text: "Mr. Hart, I've told you before I'm a married woman.", start: 174.69, end: 177.67}
-  - {text: "Dolly Parton is in it?", start: 177.85, end: 179.35}
-  - {text: "This is her debut film.", start: 179.81, end: 181.85}
-  - {text: "Okay, Sarah, here's what you got to know about 9 -5.", start: 182.49, end: 185.79}
-  - {text: "Okay. It is truly a movie of its era.", start: 185.95, end: 188.81}
-  - {text: "It's one of the first movies that was set in the work world.", start: 189.09, end: 192.05}
-  - {text: "It's about clerical workers, secretaries.", start: 192.41, end: 194.53}
-  - {text: "A workforce which, in 1980, was predominantly women.", start: 194.53, end: 198.67}
-  - {text: "Most of the bosses were men, which leads to all sorts of problems.", start: 199.19, end: 203.35}
-  - {text: "Dorothy, please. I want you.", start: 203.97, end: 205.96}
-  - {text: "Oh, for heaven's sake.", start: 206.10, end: 207.48}
-  - {text: "What are you doing, Mr.", start: 208.00, end: 209.40}
-  - {text: "Hart? A little sexual harassment in the workplace.", start: 209.64, end: 212.14}
-  - {text: "Well, like, it gets worse.", start: 212.76, end: 214.24}
-  - {text: "So they've gotten to men being promoted over women when they're not as qualified, getting coffee for the guy.", start: 214.90, end: 221.78}
-  - {text: "What I love about this film is that they take these issues and they handle them with comedy.", start: 221.78, end: 226.92}
-  - {text: "The problems are played for laughs, like the main plot of the film, getting revenge against your boss.", start: 227.32, end: 232.10}
-  - {text: "Lily, Jane, Dolly, their characters all get high one day and fantasize about killing their boss.", start: 232.56, end: 240.02}
-  - {text: "They end up kind of accidentally tying him up one day and while he's tied up, they take over the business.", start: 240.64, end: 246.68}
-  - {text: "They're running things. By the end of the movie, the boss gets free.", start: 246.82, end: 249.76}
-  - {text: "He shows up at the office and with the women in charge, the workplace looked totally different.", start: 249.76, end: 256.44}
-  - {text: "What are all these people doing here?", start: 256.60, end: 257.68}
-  - {text: "It's not even nine o 'clock.", start: 257.76, end: 258.58}
-  - {text: "It's called flexible hours.", start: 258.76, end: 260.02}
-  - {text: "People set their own time.", start: 260.22, end: 261.18}
-  - {text: "Well, some work eight to four, some work ten to six, some work nine to five.", start: 261.58, end: 265.78}
-  - {text: "Not less absenteeism. People really like it.", start: 265.92, end: 268.38}
-  - {text: "They make a bunch of workplace improvements.", start: 268.94, end: 271.02}
-  - {text: "There's a daycare center at work, flexible hours, equal pay, and they all end up sticking.", start: 271.52, end: 276.98}
-  - {text: "Well, except the equal pay.", start: 277.18, end: 278.32}
-  - {text: "That one was never going to stand a chance.", start: 278.32, end: 280.08}
-  - {text: "Yeah, exactly. But the others do stick.", start: 280.82, end: 283.68}
-  - {text: "So at the end of the film, Lily, Jane, and Dolly, they all pop champagne.", start: 284.06, end: 287.86}
-  - {text: "That's what we did.", start: 288.26, end: 293.47}
-  - {text: "Yeah, everything except that part about the money.", start: 293.81, end: 295.65}
-  - {text: "What are we going to do about that?", start: 296.13, end: 297.25}
-  - {text: "Hey, we've come this far, haven't we?", start: 297.81, end: 299.67}
-  - {text: "This is just the beginning.", start: 300.01, end: 301.29}
-  - {text: "This is just the beginning.", start: 301.63, end: 302.29}
-  - {text: "And here's to the beginning.", start: 302.31, end: 303.31}
-  - {text: "Oh, no. Nothing changes.", start: 303.47, end: 306.41}
-  - {text: "Nothing changes. Hello and welcome to Planet Money.", start: 307.61, end: 311.41}
-  - {text: "I'm Sonari Glinton. And I'm Sarah Gonzalez.", start: 311.41, end: 313.49}
-  - {text: "And Sonari, the reason you wanted me to watch this movie is because nine to five is not just a movie.", start: 313.87, end: 320.23}
-  - {text: "Exactly. For the women who watched it, there was a real true feeling that the changes they saw on the big screen would lead to changes in the actual world.", start: 320.55, end: 329.81}
-  - {text: "Today on the show, the story of how nine to five the movie, nine to five the song even, started with a group of secretaries in Boston.", start: 329.91, end: 338.15}
-  - {text: "This message comes from Northwestern Mutual.", start: 338.15, end: 341.07}
-  - {text: "Life's a lot lately.", start: 341.49, end: 342.85}
-  - {text: "Some things you can't control.", start: 343.31, end: 344.73}
-  - {text: "But you can control your money with a plan.", start: 345.09, end: 347.39}
-  - {text: "It all starts with Northwestern Mutual.", start: 347.81, end: 349.67}
-  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 350.05, end: 357.95}
-  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 358.41, end: 363.53}
-  - {text: "This message comes from BetterHelp.", start: 364.41, end: 366.23}
-  - {text: "Imagine carrying a backpack every day.", start: 366.23, end: 368.91}
-  - {text: "Inside it, every conversation, every mistake, every expectation.", start: 369.21, end: 373.19}
-  - {text: "It is easy not to notice how heavy it is until someone asks if you want to put it down.", start: 373.75, end: 379.05}
-  - {text: "Sometimes feeling better starts exactly like that.", start: 379.43, end: 382.17}
-  - {text: "Better isn't one size fits all.", start: 382.59, end: 384.25}
-  - {text: "Better is personal. It's therapy tailored to the individual to help lighten what you carry.", start: 384.63, end: 389.83}
-  - {text: "Match with a therapist who truly understands.", start: 390.23, end: 392.55}
-  - {text: "Visit BetterHelp .com slash NPR.", start: 392.55, end: 395.83}
-  - {text: "Nine to five, the movie was based on real workplace experiences.", start: 397.12, end: 401.54}
-  - {text: "And it all started with a woman named Karen Nussbaum.", start: 401.90, end: 405.22}
-  - {text: "I was very active in the anti -war movement and in the newly blooming women's movement.", start: 405.50, end: 412.26}
-  - {text: "And I got a job to support my activism in the kind of work that most women did in those days.", start: 412.86, end: 420.10}
-  - {text: "And that was as a clerical worker.", start: 420.12, end: 421.44}
-  - {text: "This is the 1970s.", start: 421.44, end: 423.26}
-  - {text: "And something really big was happening around this time.", start: 423.46, end: 425.72}
-  - {text: "Millions of women were entering the workforce.", start: 426.10, end: 428.56}
-  - {text: "This is during the Vietnam War.", start: 429.02, end: 430.60}
-  - {text: "In the 70s, women in the labor force increased by 12 million.", start: 431.00, end: 434.86}
-  - {text: "And a lot of women were clerical workers.", start: 435.26, end: 437.38}
-  - {text: "There were 18 million clerical workers by the end of the decade.", start: 437.58, end: 440.76}
-  - {text: "If you ask somebody who is a typical worker in America, they most likely say a man in a hard hat.", start: 441.22, end: 446.02}
-  - {text: "But in fact, literally the most typical worker in America was a woman at a keyboard.", start: 446.36, end: 451.04}
-  - {text: "Now Karen was just doing clerical work to pay the bills.", start: 451.56, end: 454.64}
-  - {text: "Her real passion was protesting the Vietnam War.", start: 454.82, end: 457.54}
-  - {text: "So one day Karen is at this anti -war conference and she runs into one of the biggest movie stars at the time and perhaps the most famous Vietnam War protester.", start: 457.86, end: 467.24}
-  - {text: "I saw Jane Fonda sitting on the floor just participating like anybody else and that made a big impression on me.", start: 467.54, end: 474.06}
-  - {text: "Karen and Jane Fonda end up teaming up, protesting the Vietnam War together.", start: 474.34, end: 479.50}
-  - {text: "Jane would like sleep over at Karen's.", start: 480.00, end: 482.26}
-  - {text: "I lived with five other women in an apartment that was a mess.", start: 482.40, end: 487.04}
-  - {text: "She stayed in somebody's water bed.", start: 488.08, end: 490.84}
-  - {text: "We had meetings in our living room and every once in a while I'd think, oh, Jane Fonda, major motion picture star is sitting in my living room.", start: 491.98, end: 502.66}
-  - {text: "Once the war ended, Jane Fonda returned to acting and Karen, you know, Karen's an activist.", start: 503.34, end: 510.18}
-  - {text: "And now that the war is over, she starts noticing all these things about the office that she didn't really, really notice before.", start: 510.62, end: 518.74}
-  - {text: "There was this casual chauvinism that just popped up all of the time.", start: 519.28, end: 525.32}
-  - {text: "At first, Karen and some of her coworkers started meeting regularly talking about their workplace problems and then they realized that women all over Boston were doing the exact same thing.", start: 525.80, end: 537.16}
-  - {text: "So they decide to start a formal labor organization.", start: 537.38, end: 541.86}
-  - {text: "And what do they decide to call it?", start: 542.28, end: 544.24}
-  - {text: "Well, at the time the workday for clerical workers was 9 to 5.", start: 544.44, end: 549.76}
-  - {text: "So we just picked the hours of the day and called it 9 to 5 and we had an organization of nurses inspired by 9 to 5", start: 550.08, end: 558.62}
-  - {text: "which called themselves 7 to 3 because that was their organization.", start: 558.62, end: 562.96}
-  - {text: "Rolls right off the tongue, 7 to 3.", start: 563.08, end: 565.18}
-  - {text: "No one says 7 to 3.", start: 565.82, end: 567.36}
-  - {text: "9 to 5 is the phrase.", start: 567.58, end: 568.68}
-  - {text: "Thank you so much, Karen, for the much better phrase.", start: 569.06, end: 571.76}
-  - {text: "Now at first, Karen says 9 to 5.", start: 572.22, end: 574.48}
-  - {text: "The labor organization started with what felt like painfully small issues.", start: 574.86, end: 578.82}
-  - {text: "We started with job posting.", start: 578.98, end: 580.20}
-  - {text: "You should at least know when there was a job opening in your company.", start: 581.60, end: 585.70}
-  - {text: "That's still a problem.", start: 586.24, end: 587.00}
-  - {text: "9 to 5, the organization starts spreading across the country more and more chapters and it leads to a local union in Boston, SCIU Local 925.", start: 587.00, end: 597.58}
-  - {text: "Get it? 9 to 5.", start: 597.96, end: 600.00}
-  - {text: "Pretty soon, Karen and the 9 to 5 women are demanding and getting higher pay at big institutions.", start: 600.40, end: 606.00}
-  - {text: "They helped pass the Pregnancy Discrimination Act and a big priority for Karen was to have fun with all of their campaigns.", start: 606.40, end: 614.68}
-  - {text: "One of the very first things 9 to 5 instituted was the pettiest office procedure contest and the bad boss contest.", start: 614.68, end: 623.06}
-  - {text: "And you would be amazed at the things that these guys asked these women to do.", start: 623.48, end: 629.20}
-  - {text: "What's the pettiest? What was the pettiest?", start: 629.62, end: 631.98}
-  - {text: "Oh my gosh. We had a guy who asked his secretary to sew up a hole in his pants while he still had them on.", start: 632.68, end: 642.52}
-  - {text: "I was going to ask, now while he was still wearing them, of course.", start: 642.52, end: 645.88}
-  - {text: "Yes, while he was still wearing them.", start: 646.08, end: 647.66}
-  - {text: "And you may think that I made that up, except for that when we gave him the award, it was on television.", start: 648.00, end: 654.54}
-  - {text: "He went on television with the secretary.", start: 655.04, end: 657.60}
-  - {text: "Wait, how did you, you would invite the petty boss to come on TV to win the petty boss award and they were like, sure, I would love to.", start: 658.16, end: 667.22}
-  - {text: "They didn't even have enough sense to know that they should be embarrassed.", start: 667.54, end: 670.14}
-  - {text: "We had a guy who gave his secretary his beeper and sent her to the pub, the bar downstairs from their office.", start: 670.14, end: 679.48}
-  - {text: "And if she saw a woman who met his specification, she was supposed to beep him.", start: 679.80, end: 684.58}
-  - {text: "Now, you might think that that's a made up story too, except for that was on Phil Donahue.", start: 685.06, end: 690.46}
-  - {text: "We got the boss and his secretary on the Phil Donahue show.", start: 690.76, end: 694.92}
-  - {text: "Using daytime talk shows like Phil Donahue, millions of women across the country could see themselves in the office workers on television, which sort of made people go, hold on a second.", start: 695.42, end: 706.64}
-  - {text: "This is ridiculous. And it made them feel like they could actually call out their own bosses.", start: 706.94, end: 711.90}
-  - {text: "I know my mom watched a lot of Phil Donahue.", start: 712.14, end: 714.18}
-  - {text: "And seeing the craziness out in the open on television helped propel the woman's worker movement.", start: 714.46, end: 720.24}
-  - {text: "This whole time Karen, she stayed in touch with Jane Fonda and she'd tell Jane about the things she was hearing from her fellow office workers.", start: 720.42, end: 728.00}
-  - {text: "And Jane Fonda said, I want to help.", start: 728.44, end: 730.78}
-  - {text: "Jane came to me and said, you know, I'd love to support nine to five in the best way I know how.", start: 731.00, end: 736.02}
-  - {text: "And that's by making a major motion picture.", start: 736.32, end: 738.66}
-  - {text: "So I thought, whoa, great.", start: 739.80, end: 741.98}
-  - {text: "Jane Fonda is like, let's write up a real pitch.", start: 742.34, end: 744.92}
-  - {text: "I'll shop it around to the film executives.", start: 745.16, end: 746.86}
-  - {text: "Karen thinks the best angle to pitch is just the sheer number of clerical workers.", start: 747.50, end: 752.12}
-  - {text: "She writes, office workers haven't seen themselves represented in pop culture almost ever.", start: 752.58, end: 757.92}
-  - {text: "And there are almost 20 million of us.", start: 758.20, end: 760.84}
-  - {text: "You'd have a built -in audience film executive, a built -in audience of almost 20 million people.", start: 761.00, end: 766.50}
-  - {text: "The movie studio 20th Century Fox approves the idea.", start: 767.28, end: 770.64}
-  - {text: "Now Jane had to figure out what the movie was going to be about.", start: 771.26, end: 774.54}
-  - {text: "She starts meeting with workers from Karen's group, the original nine to five, to get ideas.", start: 774.94, end: 779.32}
-  - {text: "And there's this pretty important meeting.", start: 779.58, end: 781.92}
-  - {text: "That's the big aha moment.", start: 782.56, end: 783.88}
-  - {text: "Jane's meeting with about 40 workers in Cleveland hearing all their complaints.", start: 783.88, end: 787.76}
-  - {text: "And long into the meeting, Jane at one point says, now has anybody here ever dreamed of killing your boss?", start: 788.44, end: 795.86}
-  - {text: "And the room just lit up because everybody had dreamed about getting even with their boss and told story after story about the kinds of things", start: 796.36, end: 804.60}
-  - {text: "that they'd like to do to their boss.", start: 804.60, end: 806.10}
-  - {text: "And it was those stories that became the basis of the movie.", start: 806.32, end: 811.74}
-  - {text: "At this point, Jane decides this is a movie about getting back at the man.", start: 811.74, end: 816.36}
-  - {text: "So they have a movie studio.", start: 816.76, end: 818.70}
-  - {text: "They have stars. They have a premise.", start: 819.00, end: 820.56}
-  - {text: "All they need now is a script.", start: 821.18, end: 823.12}
-  - {text: "In comes a young 26 -year -old rising star.", start: 823.60, end: 827.54}
-  - {text: "She's a writer, Patricia Resnick.", start: 828.02, end: 829.96}
-  - {text: "And she hears that Jane Fonda, a hero of hers, was producing a movie.", start: 830.24, end: 834.24}
-  - {text: "She knew that she had to be a part of it.", start: 834.58, end: 837.10}
-  - {text: "So she gets a meeting with Jane Fonda.", start: 837.36, end: 839.96}
-  - {text: "When I went to meet with her at her house, she had stacks and stacks of files.", start: 839.96, end: 846.82}
-  - {text: "And so I felt that my job was to come up with a compelling story and characters you could root for and a boss that was, you know,", start: 847.80, end: 859.46}
-  - {text: "as close as you could get to the mustache twirling villain.", start: 859.84, end: 862.92}
-  - {text: "Problem was, even though Patricia had plenty of non -glamorous jobs, including waiting tables, she had never had a clerical job.", start: 863.24, end: 870.04}
-  - {text: "So the movie studio of 20th Century Fox was like, you want to learn about office culture?", start: 870.48, end: 874.00}
-  - {text: "We've got a place for you.", start: 874.24, end: 875.28}
-  - {text: "Mind to try our insurance company in downtown Los Angeles.", start: 875.56, end: 878.14}
-  - {text: "It was a, you know, a giant whole floor of secretaries.", start: 878.48, end: 885.34}
-  - {text: "And as soon as you walked in, you saw, oh, all the underlings are female and all the bosses are male.", start: 885.58, end: 893.12}
-  - {text: "There was not one female in an upper level position.", start: 893.12, end: 897.80}
-  - {text: "Patricia spent weeks hanging out with the secretaries, taking them to lunch, listening to their stories.", start: 898.36, end: 903.16}
-  - {text: "And slowly, the characters for the movie begin to emerge.", start: 903.60, end: 907.68}
-  - {text: "One woman in particular kept coming up in all these lunches.", start: 908.08, end: 911.70}
-  - {text: "Everyone was absolutely sure she was sleeping with the boss.", start: 912.16, end: 915.28}
-  - {text: "I was a tiny bit afraid of her.", start: 915.62, end: 917.48}
-  - {text: "And anyway, I took her out to lunch last and got a couple of martinis into her.", start: 917.98, end: 923.24}
-  - {text: "That's when people used to drink at lunch.", start: 923.36, end: 925.40}
-  - {text: "I didn't bring it up.", start: 925.66, end: 926.94}
-  - {text: "I didn't feel comfortable bringing it up.", start: 927.02, end: 928.78}
-  - {text: "But she told me that she knew that everybody thought she was sleeping with the boss.", start: 929.00, end: 935.14}
-  - {text: "And, you know, he was letting them think that, but it was completely untrue.", start: 935.76, end: 940.40}
-  - {text: "And she started to cry.", start: 940.58, end: 942.24}
-  - {text: "And, you know, I had no proof either way, but I absolutely believed her.", start: 943.75, end: 949.17}
-  - {text: "This real -life worker inspired the character played by Dolly Parton.", start: 949.17, end: 953.73}
-  - {text: "So you've been telling everybody I'm sleeping with you, huh?", start: 953.81, end: 956.77}
-  - {text: "No. Well, that explains it.", start: 956.93, end: 958.13}
-  - {text: "That's why these people treat me like some damn store bluesie.", start: 958.17, end: 960.81}
-  - {text: "No, no. They think I'm screwing the boss.", start: 960.83, end: 962.39}
-  - {text: "Dolly Parton's star turn made the idea of sexual harassment a central part of the movie.", start: 962.87, end: 967.95}
-  - {text: "But the phrase basically didn't exist yet.", start: 968.29, end: 970.95}
-  - {text: "Sexual harassment, those words are never used in the movie.", start: 971.07, end: 973.99}
-  - {text: "We didn't even have a term for it because it was just this thing that men did that we didn't like.", start: 974.37, end: 981.81}
-  - {text: "Patricia subtly inserted huge workplace reforms into the script.", start: 982.41, end: 986.41}
-  - {text: "Like, at the very end of the movie, after the women have instituted all these new workplace programs, the boss is boss, the big boss, he shows up like, wow, you've been so productive, Frank.", start: 986.73, end: 998.37}
-  - {text: "Frank Hart, my boy, I would like to shake your hand.", start: 998.85, end: 1001.77}
-  - {text: "You managed to create a very, very splendid environment here.", start: 1002.41, end: 1005.47}
-  - {text: "Like the, you like the job sharing program.", start: 1005.76, end: 1008.44}
-  - {text: "Job sharing. Of course, the boss has been literally tied up in a harness, the whole movie, and didn't do anything, but he takes all the credit.", start: 1009.22, end: 1019.52}
-  - {text: "So you pulled it off, Frank.", start: 1019.76, end: 1021.12}
-  - {text: "Well, I like to think we did anyway.", start: 1021.38, end: 1022.98}
-  - {text: "Good. Like the daycare center.", start: 1023.28, end: 1024.78}
-  - {text: "Daycare center. Our working parents love it.", start: 1025.64, end: 1028.06}
-  - {text: "The cost was minimal.", start: 1028.16, end: 1029.04}
-  - {text: "It's cut down on absenteeism, and we had a wonderful time doing it.", start: 1029.40, end: 1032.84}
-  - {text: "Well, Frank, I got to give you credit.", start: 1033.00, end: 1034.66}
-  - {text: "That equal pay thing, though, that's got to go.", start: 1034.66, end: 1037.26}
-  - {text: "All right. Well, here's an irony.", start: 1037.52, end: 1038.86}
-  - {text: "A director named Colin Higgins gets hired to direct the movie.", start: 1039.18, end: 1042.90}
-  - {text: "Yes, apparently you needed a dude to direct the movie about women.", start: 1043.36, end: 1046.76}
-  - {text: "And this guy, well, he ends up pushing out Patricia Resnick.", start: 1047.20, end: 1050.54}
-  - {text: "He wouldn't let me on the set.", start: 1050.60, end: 1052.18}
-  - {text: "He didn't want me around.", start: 1052.50, end: 1053.86}
-  - {text: "You know, he gave me that every ship has one captain's speech.", start: 1054.86, end: 1058.68}
-  - {text: "So I kind of got nine to five on nine to five.", start: 1060.84, end: 1064.90}
-  - {text: "When you say nine to five done nine to five, there is a plot line in which the man takes credit for other, for the women's work.", start: 1064.96, end: 1072.54}
-  - {text: "That's like a theme.", start: 1072.62, end: 1073.52}
-  - {text: "Correct. A theme in the movie.", start: 1073.82, end: 1075.76}
-  - {text: "Right. And that's exactly what happened to me.", start: 1076.12, end: 1078.86}
-  - {text: "There was a whole documentary about Colin Higgins that talks about nine to five.", start: 1080.59, end: 1085.41}
-  - {text: "Endlessly, I've never mentioned there have been other documentaries more recently.", start: 1085.71, end: 1090.97}
-  - {text: "I've never mentioned. And it's golly, you know.", start: 1091.81, end: 1094.95}
-  - {text: "Is that like a, there's something, I don't know what word you would use for it, but there's some weird poetry in that idea.", start: 1095.79, end: 1106.99}
-  - {text: "Yes, your poetry is my golly.", start: 1109.00, end: 1112.42}
-  - {text: "After the break, we see just how far the influence of Hollywood goes in the real world.", start: 1116.50, end: 1122.26}
-  - {text: "It's not, it's not much.", start: 1122.72, end: 1123.80}
-  - {text: "It's not great. Like almost none.", start: 1124.06, end: 1125.60}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1126.12, end: 1129.54}
-  - {text: "This message comes from Northwestern Mutual.", start: 1130.34, end: 1132.66}
-  - {text: "Life's a lot lately.", start: 1133.08, end: 1134.44}
-  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1134.90, end: 1139.00}
-  - {text: "It all starts with Northwestern Mutual.", start: 1139.36, end: 1141.24}
-  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1141.62, end: 1149.52}
-  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1149.52, end: 1155.12}
-  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 1155.98, end: 1159.12}
-  - {text: "When is the right time to sell a stock?", start: 1159.46, end: 1161.30}
-  - {text: "How do you protect against inflation?", start: 1161.70, end: 1163.36}
-  - {text: "Financial decisions can be tricky, and often your own cognitive and emotional biases can lead you astray.", start: 1163.88, end: 1169.92}
-  - {text: "Financial decoder, an original podcast from Charles Schwab, can help.", start: 1170.26, end: 1174.42}
-  - {text: "Join host Mark Rebe as he offers practical solutions to help overcome the cognitive and emotional biases that may affect your investing decisions.", start: 1174.72, end: 1184.28}
-  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 1184.56, end: 1190.04}
-  - {text: "This message comes from Capella University.", start: 1190.75, end: 1193.29}
-  - {text: "That spark you feel?", start: 1193.69, end: 1194.65}
-  - {text: "That's your drive for more.", start: 1194.95, end: 1196.33}
-  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1196.67, end: 1202.63}
-  - {text: "Learn more at capella .edu.", start: 1203.07, end: 1204.63}
-  - {text: "On December 19th, 1980, Karen Nussbaum, who started 9 to 5 The Organization, goes to a dark theater to watch 9 to 5 The Movie on the big screen.", start: 1204.63, end: 1217.45}
-  - {text: "The opening credits start, the song comes in.", start: 1218.09, end: 1221.07}
-  - {text: "You know the song.", start: 1221.23, end: 1221.77}
-  - {text: "Can you tell me, as someone who's leading 9 to 5, the union, it has to be a crazy moment, the first time you hear...", start: 1222.07, end: 1232.10}
-  - {text: "You hear that song.", start: 1232.10, end: 1232.50}
-  - {text: "That you hear it done, done, done, done.", start: 1232.62, end: 1234.18}
-  - {text: "The song was thrilling.", start: 1234.18, end: 1236.14}
-  - {text: "Karen wasn't sure people would like the movie, but then there was this scene.", start: 1236.46, end: 1240.96}
-  - {text: "The copy machine is shooting papers everywhere.", start: 1242.23, end: 1244.47}
-  - {text: "Jane Fonda's character doesn't know how to stop it.", start: 1244.75, end: 1247.03}
-  - {text: "And a woman far down the row from me stands up and yells, Push the stop button.", start: 1247.77, end: 1254.23}
-  - {text: "You could just feel the electricity in the room because all of the women there are totally in this movie.", start: 1255.25, end: 1263.33}
-  - {text: "They see themselves. 9 to 5 is the second biggest box office hit that year.", start: 1263.33, end: 1268.59}
-  - {text: "Right after Star Wars, the empire strikes back.", start: 1268.77, end: 1271.33}
-  - {text: "Jane and Karen go on a tour with the film, and they're screening the movie in a bunch of theaters, having huge worker rallies, and using", start: 1271.79, end: 1279.19}
-  - {text: "the song especially to promote organizing office workers.", start: 1279.19, end: 1282.97}
-  - {text: "It became a cultural phenomenon far beyond Hollywood.", start: 1283.45, end: 1287.17}
-  - {text: "After the movie, the number of 9 to 5 chapters doubles, and the union expands.", start: 1287.57, end: 1292.09}
-  - {text: "Both groups are still active today.", start: 1292.09, end: 1294.21}
-  - {text: "And both lobbied to pass marquee employment protection laws, like the Family Medical Leave Act and the Lily Ledbetter Fair Pay Act.", start: 1294.65, end: 1302.53}
-  - {text: "But for Karen, there was something more subtle that they all accomplished also.", start: 1302.71, end: 1306.73}
-  - {text: "9 to 5, the movement, was the start of women being perceived differently in the workplace.", start: 1307.29, end: 1313.31}
-  - {text: "They were starting to be treated more as professionals, less likely to be asked to sew up their bosses' pants.", start: 1313.47, end: 1319.61}
-  - {text: "More likely to say no if someone did ask them to do that.", start: 1319.61, end: 1323.25}
-  - {text: "The movement from the 1970s had a massive effect on the way women think of ourselves.", start: 1323.51, end: 1329.37}
-  - {text: "We have built generations of self -confident women who take care of ourselves.", start: 1329.83, end: 1336.15}
-  - {text: "But Karen really thought there would have been more progress made over the last 40 years.", start: 1336.59, end: 1341.77}
-  - {text: "The main issues that 9 to 5 fought for, there's still a problem today.", start: 1342.11, end: 1345.81}
-  - {text: "Childcare, sexual harassment, equal pay.", start: 1346.41, end: 1349.09}
-  - {text: "The pay disparity is largest for women of color.", start: 1349.33, end: 1352.85}
-  - {text: "And I want to acknowledge for a moment that this is a movie about white women.", start: 1353.09, end: 1356.59}
-  - {text: "Shout out to Maria Delgado for holding it down for all the women of color in the entire movie.", start: 1356.95, end: 1362.11}
-  - {text: "Shout out Maria Delgado.", start: 1362.39, end: 1363.57}
-  - {text: "Now, in many ways, Karen says, we've actually gone backwards.", start: 1363.99, end: 1367.71}
-  - {text: "You know, Karen has spent almost 50 years in the labor movement.", start: 1368.33, end: 1371.49}
-  - {text: "She ran the union.", start: 1371.59, end: 1372.29}
-  - {text: "She was in the Department of Labor.", start: 1372.49, end: 1373.69}
-  - {text: "And she says the period right after the movie, the 80s, undid a lot of the progress made in the 70s.", start: 1373.69, end: 1381.57}
-  - {text: "When we started first organizing at 9 to 5, I never expected that we would see fewer people without sick days, that we would see fewer people without paid leave.", start: 1381.73, end: 1392.53}
-  - {text: "I certainly thought we would have paid maternity leave.", start: 1393.31, end: 1397.45}
-  - {text: "Karen blames the decline in labor protections on union participation.", start: 1397.73, end: 1401.73}
-  - {text: "When the movie came out, almost 25 % of U .S.", start: 1401.73, end: 1405.49}
-  - {text: "companies were unionized. Today, it's about 10%.", start: 1405.53, end: 1409.73}
-  - {text: "I think our job now is to make sure that this coming decade is not a repeat of the 1980s.", start: 1410.25, end: 1415.99}
-  - {text: "In 2021, Dolly Parton released an updated version of her original song.", start: 1416.80, end: 1420.98}
-  - {text: "It is called Five to Nine, in ode to all the extra hours women have to work.", start: 1421.12, end: 1427.14}
-  - {text: "She can certainly write a catchy tune, but jeez, it's depressing.", start: 1433.88, end: 1437.68}
-  - {text: "That's sort of the brilliance of this whole 9 to 5 thing.", start: 1438.36, end: 1441.38}
-  - {text: "Like, you're like dancing along, you're enjoying it, and then when you really listen to the lyrics, you're like, wait, this is a little messed up.", start: 1441.54, end: 1447.70}
-  - {text: "Like, why does it have to be this way?", start: 1447.86, end: 1449.54}
-  - {text: "And thus, the greatness of Dolly Parton.", start: 1450.18, end: 1452.90}
-  - {text: "Okay, do not miss our Friday episode about the invention of a new type of tomato and why the produce section at all of our grocery stores is starting to look, I don't know, little fancy,", start: 1462.30, end: 1473.48}
-  - {text: "you know, sungolds and cuties and all that.", start: 1473.74, end: 1475.40}
-  - {text: "We have the story of what it takes to make a new fruit that you can trademark and where the money from that goes.", start: 1475.70, end: 1481.54}
-  - {text: "Scroll down in the Planet Money Beat to find that episode.", start: 1481.98, end: 1484.20}
-  - {text: "Today's bonus show was produced by Nick Fountain and James Snead and edited by Mitra Kaboli.", start: 1484.80, end: 1489.38}
-  - {text: "Cenari Glinton was my co -host.", start: 1489.86, end: 1491.68}
-  - {text: "He has a new book coming out called Blackonomics.", start: 1491.84, end: 1494.72}
-  - {text: "We can find more, including how to pre -order if you Google Blackonomics and Cenari Glinton.", start: 1494.90, end: 1499.44}
-  - {text: "As always, thanks to our NPR Plus supporters to get bonus episodes and sponsor -free listening.", start: 1499.96, end: 1504.80}
-  - {text: "I'm Sarah Gonzalez, this is NPR.", start: 1505.12, end: 1506.76}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1528.18, end: 1531.86}
-  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1553.24, end: 1559.30}
-  - {text: "Learn more at capella .edu.", start: 1559.60, end: 1561.20}
+  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16, explain: "\"Whole Foods Market\" is the name of a large chain of grocery stores. This sentence is an advertisement for that store.", zh: "这条信息来自全食超市。（Whole Foods Market 全食超市，美国连锁有机食品超市）"}
+  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.52, end: 8.52, explain: "A \"stock-up\" event is a sale where you buy many things to keep at home. \"Pantry\" means the place where you keep dry food like rice and pasta. \"Nourishing\" means food that gives your body energy and health. This sentence says their sale helps you fill your home with good food.", zh: "他们的九月囤货活动让你轻松把美味又营养的食物装满储藏室和冰箱。（stock-up 囤货；pantry 食品储藏室）"}
+  - {text: "There, build your own family meal, feeds four for just $35.", start: 8.88, end: 12.60, zh: "在那里，你可以自己搭配家庭餐，35美元就能供四人食用。（build your own 自选搭配；feeds four 供四人吃）"}
+  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30, zh: "去全食超市囤货吧。（Stock-up 囤货）"}
+  - {text: "Hey, it's Sarah, and this is a bonus Sunday episode because, as we all know, Dolly Parton has sadly passed away.", start: 16.46, end: 24.64, explain: "\"Bonus\" means extra, not part of the normal schedule. \"Passed away\" is a polite way to say someone has died. Sarah says this is an extra episode because Dolly Parton has died.", zh: "嗨，我是莎拉，这是一期周日的特别加更，因为正如大家所知，多莉·帕顿已经不幸去世了。（bonus 加更，额外；sadly 令人悲伤地）"}
+  - {text: "There's so much to say about her music, her acting career, Dollywood, her business savvy.", start: 24.64, end: 30.16, explain: "\"Acting career\" means the work she did as an actress. \"Business savvy\" means she is very smart about making money and running companies. This sentence lists the many things people can talk about regarding her life.", zh: "关于她的音乐、演艺生涯、多莉乐园以及她的商业头脑，有太多值得说的了。（Dollywood 多莉乐园，多莉·帕顿创办的主题公园；business savvy 商业头脑）"}
+  - {text: "Today, though, we have the renegade true story behind Dolly Parton's 9 -5 anthem.", start: 30.80, end: 36.82, explain: "\"Renegade\" means different from what is normal or expected. \"Anthem\" is a famous song that people sing together. This sentence says the story behind the song is surprising and different from what people usually think.", zh: "不过今天，我们要讲述多莉·帕顿那首《9到5》背后的真实叛逆故事。（renegade 叛逆的，离经叛道的；anthem 颂歌，标志性歌曲）"}
+  - {text: "The song was for a movie, and I did not know this before I worked on this episode.", start: 37.24, end: 40.94, explain: "\"Movie\" means a film. The speaker says the song was made for a film, and she did not know this fact before she started working on this podcast episode.", zh: "这首歌是为电影创作的，在我制作这期节目之前，我并不知道这一点。（I did not know this 我此前不知道）"}
+  - {text: "The song and movie were based on real people and a real labor movement formed by a group of secretaries in Boston.", start: 41.06, end: 47.74, explain: "\"Labor movement\" is a group of workers who work together to get better pay and rights. This sentence says the song and film were based on real people and a real group of secretaries in Boston who started such a movement.", zh: "这首歌和电影都是基于真实人物，以及波士顿一群秘书发起的真实劳工运动。（labor movement 劳工运动；secretaries 秘书）"}
+  - {text: "We spoke with them and learned how the song and movie and the real life movement all started to feed into each other.", start: 47.74, end: 55.48, explain: "\"Feed into\" means to give information or influence to something else. This sentence says they talked to the people involved and learned how the song, the movie, and the real event influenced each other.", zh: "我们采访了当事人，了解到这首歌、这部电影以及现实中的运动是如何相互交织、彼此影响的。（feed into 融入，相互影响）"}
+  - {text: "This was all recorded back in 2021, but please enjoy my true delight watching Dolly Parton in this movie and how much all the people we interviewed love, love, love this song.", start: 55.76, end: 65.82, explain: "\"Recorded\" means made into a file so it can be played later. \"Delight\" means great happiness. The host says this part was made in 2021, but she is happy to show you Dolly Parton in a movie and how much people like the song.", zh: "这段内容其实是2021年录制的，但请尽情欣赏我在电影里看到多莉·帕顿时那种发自内心的喜悦，以及我们采访的所有人对这首歌有多么喜爱。（Dolly Parton 多莉·帕顿，美国著名乡村音乐歌手；bonus episode 特别篇，额外加播的节目）"}
+  - {text: "But before we turn to our Dolly appreciation, I just want to say, do not let this bonus episode take the place of our usual Friday episode.", start: 66.12, end: 73.28, explain: "\"Appreciation\" means showing that you like and respect something. \"Bonus\" means extra, not part of the normal plan. The host asks you to listen to the normal Friday show first, and not skip it for this extra episode.", zh: "但在开始我们的多莉致敬环节之前，我想先说一声，千万别让这个特别篇取代了我们每周五的常规节目。（appreciation 欣赏，致敬；usual 常规的，通常的）"}
+  - {text: "It is there waiting for you.", start: 73.28, end: 74.60, explain: "This short sentence means the normal Friday episode is ready for you to listen to.", zh: "它正等着你呢。（waiting for you 等着你，指节目已发布）"}
+  - {text: "It is all about the quest to turn tomatoes, basically all fruits, into brands you will pay more for.", start: 74.72, end: 80.72, explain: "\"Quest\" means a long search or journey to find something. \"Brands\" are names for products that people know and trust. The episode is about trying to make tomatoes, which are fruits, into famous names that cost more money.", zh: "这一期主要讲的是如何把西红柿，基本上也就是所有水果，变成让你愿意多花钱的品牌。（quest 追求，探索；brands 品牌）"}
+  - {text: "We hear from the food scientists creating a new type of cherry tomato.", start: 80.94, end: 84.18, explain: "\"Scientists\" are people who study and test things to learn new facts. The show talks to people who are making a new kind of small tomato.", zh: "我们听到了食品科学家们正在研发一种新型樱桃番茄。（food scientists 食品科学家；cherry tomato 樱桃番茄，一种小型番茄）"}
+  - {text: "That's supposed to be a lot better, and this episode may just change how you see fruit at the grocery store.", start: 84.40, end: 90.14, explain: "\"Supposed to be\" means people think it is true, or it is expected to be. The new tomato is expected to be much better, and this show might change how you look at fruit in the shop.", zh: "据说这种番茄要好得多，这一期节目可能会改变你在超市看待水果的方式。（supposed to be 据称，应该是；grocery store 杂货店，超市）"}
+  - {text: "Scroll down in the feed to find it.", start: 90.48, end: 91.96, zh: "在信息流里往下滑就能找到它。（Scroll down 向下滑动；feed 信息流，节目列表）"}
+  - {text: "Okay, here you are, 9 -5.", start: 92.64, end: 95.22, zh: "好了，你们来了，九到五。（9-5 指歌曲《9 to 5》，也指朝九晚五的工作时间）"}
+  - {text: "This is Planet Money from NPR.", start: 96.50, end: 98.72, explain: "This is the name of the show and the radio station that makes it. It is a short introduction.", zh: "这里是NPR的《Planet Money》。（Planet Money 星球金钱，NPR的一档经济类播客；NPR 美国国家公共广播电台）"}
+  - {text: "Alright, so you have your snacks?", start: 101.59, end: 103.57, explain: "\"Snacks\" are small pieces of food you eat between main meals. The host asks if you have your small food ready.", zh: "好了，你们的零食准备好了吗？（snacks 零食，点心）"}
+  - {text: "Okay, I have my snacks.", start: 103.57, end: 104.51, explain: "A \"snack\" is a small amount of food eaten between main meals. The speaker says they have their food ready.", zh: "好了，我的零食备齐了。"}
+  - {text: "Well, I actually have a chicken pot pie.", start: 105.15, end: 108.11, explain: "A \"chicken pot pie\" is a baked dish with chicken and vegetables in a crust. The speaker says this is what they are eating.", zh: "其实我准备的是鸡肉派。（pot pie 派，一种带馅的烘焙食品）"}
+  - {text: "A chicken pot pie as your movie snack?", start: 108.39, end: 111.23, explain: "The speaker is surprised that the other person is eating a chicken pot pie while watching a movie.", zh: "看电影吃鸡肉派？"}
+  - {text: "Yeah. I got string cheese, goldfish crackers, and I haven't seen this film.", start: 111.55, end: 117.69, explain: "\"String cheese\" is a type of cheese that you can pull apart into strands. \"Goldfish crackers\" are small, fish-shaped salty snacks. The speaker lists their food and says they have not seen the movie before.", zh: "是啊，还有芝士条和金鱼饼干，而且我还没看过这部电影。（string cheese 芝士条；goldfish crackers 金鱼饼干，一种儿童零食）"}
+  - {text: "That is going to change today because we are watching 9 -5, the movie during the work day, the way it was meant to be watched.", start: 117.97, end: 125.93, explain: "\"9 to 5\" is the name of the movie. The speaker says they will watch it during work hours, which is how the movie was made to be seen.", zh: "今天就要改变了，因为我们要在工作时间看《朝九晚五》这部电影，这才是它原本该有的观影方式。"}
+  - {text: "Okay, ready? 3, 2, 1, play.", start: 126.15, end: 127.89, zh: "好了，准备好了吗？3、2、1，播放。"}
+  - {text: "I don't even think I knew that 9 -5, the song, had a movie.", start: 132.71, end: 137.17, zh: "我甚至都不知道《朝九晚五》这首歌还有一部同名电影。"}
+  - {text: "I thought it was a song.", start: 137.41, end: 138.33, explain: "The speaker thought \"9 to 5\" was just a song, not a movie.", zh: "我以为那只是一首歌。"}
+  - {text: "What you got a lot is, like, a long, open, credits tick.", start: 140.45, end: 143.95, explain: "The sentence is broken and hard to understand. It likely refers to the end credits of the movie, which are long and show the names of the people who made it.", zh: "你看到的很多是那种长长的、开放的片尾字幕滚动。（credits 片尾字幕；tick 滚动，此处指字幕滚动效果）"}
+  - {text: "I'm excited. I'm getting into it.", start: 148.70, end: 151.32, zh: "我很兴奋，我已经进入状态了。"}
+  - {text: "Well, welcome to the front lines.", start: 161.64, end: 164.11, explain: "\"Front lines\" usually means the place where a war is happening. Here, it is used in a funny way to mean the main place where the action is happening.", zh: "嗯，欢迎来到前线。（front lines 前线，此处指工作一线或核心地带）"}
+  - {text: "Millie Tomlin, I love her.", start: 164.31, end: 166.23, zh: "米莉·汤姆林，我太喜欢她了。（Millie Tomlin 米莉·汤姆林，演员）"}
+  - {text: "Oh, I wanted to ask you about my salary.", start: 166.23, end: 169.63, explain: "A \"salary\" is the money a person gets for their job, usually paid every month. This sentence is a line from the movie where a character asks about her pay.", zh: "哦，我想问问你关于我薪水的事。（salary 薪水，工资）"}
+  - {text: "Rujin Fonda looks so good.", start: 169.83, end: 172.33, zh: "朱琳·方达看起来真漂亮。（Rujin Fonda 朱琳·方达，演员，此处为转录错误，应为Julie Fonda或类似名字，但按原文音译处理）"}
+  - {text: "She always looks good.", start: 173.19, end: 174.25, zh: "她总是看起来很棒。（looks good 看起来不错，漂亮）"}
+  - {text: "Mr. Hart, I've told you before I'm a married woman.", start: 174.69, end: 177.67, explain: "This is a line from the movie. The speaker tells a man named Mr. Hart that she is already married, so she cannot date him.", zh: "哈特先生，我早就告诉过你，我是有夫之妇。（married woman 已婚妇女，有夫之妇）"}
+  - {text: "Dolly Parton is in it?", start: 177.85, end: 179.35, explain: "This is a question. The speaker is asking if the famous singer Dolly Parton is in the movie.", zh: "多莉·帕顿也参演了吗？（Dolly Parton 多莉·帕顿，著名乡村歌手）"}
+  - {text: "This is her debut film.", start: 179.81, end: 181.85, explain: "A \"debut\" is the first time a person does something, like acting in a movie. This sentence says it is her first film.", zh: "这是她的电影处女作。（debut film 处女作，第一部电影）"}
+  - {text: "Okay, Sarah, here's what you got to know about 9 -5.", start: 182.49, end: 185.79, explain: "\"9-5\" is the name of the movie. The speaker is telling Sarah what she needs to know about this film.", zh: "好吧，莎拉，关于《朝九晚五》你需要知道的是……（9-5 朝九晚五，电影名）"}
+  - {text: "Okay. It is truly a movie of its era.", start: 185.95, end: 188.81, explain: "An \"era\" is a long period of time in history. The speaker says the movie is very typical of the time it was made.", zh: "好的。这确实是一部属于那个时代的电影。（era 时代，时期）"}
+  - {text: "It's one of the first movies that was set in the work world.", start: 189.09, end: 192.05, explain: "\"Set in\" means the story happens in a specific place or situation. This movie is about people at work.", zh: "这是最早以职场为背景的电影之一。（work world 职场）"}
+  - {text: "It's about clerical workers, secretaries.", start: 192.41, end: 194.53, explain: "\"Clerical workers\" are people who do office jobs, like typing or keeping records. \"Secretaries\" are office workers who help managers with daily tasks.", zh: "讲的是文职人员和秘书。（clerical workers 文职人员）"}
+  - {text: "A workforce which, in 1980, was predominantly women.", start: 194.53, end: 198.67, explain: "\"Workforce\" means the group of people who work in a place. \"Predominantly\" means mostly or mainly. This sentence says that in 1980, most of the workers were women.", zh: "在1980年，这个劳动力群体主要由女性组成。（predominantly 主要地，大部分）"}
+  - {text: "Most of the bosses were men, which leads to all sorts of problems.", start: 199.19, end: 203.35, explain: "\"Bosses\" are the people in charge of a company. This sentence says that most of the leaders were men, and this caused many problems.", zh: "大多数老板都是男性，这导致了一系列问题。（leads to 导致）"}
+  - {text: "Dorothy, please. I want you.", start: 203.97, end: 205.96, zh: "多萝西，请过来。我要见你。"}
+  - {text: "Oh, for heaven's sake.", start: 206.10, end: 207.48, explain: "\"For heaven's sake\" is a phrase used to show you are annoyed or frustrated. It is like saying \"Oh, please\" or \"Goodness\".", zh: "天哪，真是够了。（for heaven's sake 天哪，真是的）"}
+  - {text: "What are you doing, Mr.", start: 208.00, end: 209.40, explain: "This is a short, cut-off sentence. The speaker is asking someone named Mr. [Name] what he is doing.", zh: "你在干什么，先生……"}
+  - {text: "Hart? A little sexual harassment in the workplace.", start: 209.64, end: 212.14, explain: "\"Sexual harassment\" means unwanted sexual attention or behavior at work. This sentence describes a situation where a man is acting in a way that is not okay at work.", zh: "哈特？这是职场性骚扰。（sexual harassment 性骚扰）"}
+  - {text: "Well, like, it gets worse.", start: 212.76, end: 214.24, zh: "嗯，情况还会更糟。"}
+  - {text: "So they've gotten to men being promoted over women when they're not as qualified, getting coffee for the guy.", start: 214.90, end: 221.78, explain: "\"Promoted\" means moved to a higher job with more power. \"Qualified\" means having the right skills or education for the job. This sentence says men got better jobs than women, even when the women were better at the work, and women had to do small tasks like getting coffee.", zh: "于是出现了一些男性资历不如女性却获得晋升，还要女性去给男性端咖啡的情况。（promoted 晋升；qualified 有资格的，资历够的）"}
+  - {text: "What I love about this film is that they take these issues and they handle them with comedy.", start: 221.78, end: 226.92, explain: "\"Issues\" means problems or topics that are important. This sentence says the speaker likes the movie because it uses funny stories to talk about serious problems.", zh: "我喜欢这部电影的地方在于，他们把这些严肃的问题用喜剧的方式呈现出来。（handle 处理；comedy 喜剧）"}
+  - {text: "The problems are played for laughs, like the main plot of the film, getting revenge against your boss.", start: 227.32, end: 232.10, explain: "\"Played for laughs\" means the story is told in a funny way to make people smile. \"Revenge\" means getting back at someone who hurt you. This sentence says the movie makes the problems funny, just like the main story about getting back at the boss.", zh: "这些问题被拿来逗乐，就像电影的主线剧情一样，就是向老板复仇。（played for laughs 为了搞笑；revenge 复仇）"}
+  - {text: "Lily, Jane, Dolly, their characters all get high one day and fantasize about killing their boss.", start: 232.56, end: 240.02, explain: "\"Fantasize\" means to imagine something that is not real. \"Boss\" is the person who is in charge of a group of workers. The sentence says the women imagine killing their leader because they are angry.", zh: "莉莉、简和多莉，她们的角色有一天都喝醉了，幻想把老板杀掉。（fantasize 幻想；killing 杀害）"}
+  - {text: "They end up kind of accidentally tying him up one day and while he's tied up, they take over the business.", start: 240.64, end: 246.68, explain: "\"Tying him up\" means binding his hands and feet so he cannot move. \"Take over\" means to become the new leaders. The women bind the boss and then run the company themselves.", zh: "结果有一天她们不小心把老板绑了起来，趁他被困住的时候，她们接管了公司。（tying him up 把他绑起来；take over 接管）"}
+  - {text: "They're running things. By the end of the movie, the boss gets free.", start: 246.82, end: 249.76, zh: "她们在管理事务。到了电影结尾，老板挣脱了出来。（running things 掌管事务；gets free 挣脱，获自由）"}
+  - {text: "He shows up at the office and with the women in charge, the workplace looked totally different.", start: 249.76, end: 256.44, explain: "\"In charge\" means having control or power. The sentence says the office looks very different because the women are now the leaders.", zh: "他出现在办公室，发现由女性掌权后，职场看起来完全不一样了。（in charge 负责，掌权；workplace 职场）"}
+  - {text: "What are all these people doing here?", start: 256.60, end: 257.68, explain: "This is a question asking why so many people are present. It implies the number of people is surprising or too high.", zh: "这些人都在这里干什么？"}
+  - {text: "It's not even nine o 'clock.", start: 257.76, end: 258.58, explain: "\"O 'clock\" is a short way of saying \"o'clock\" (time). The speaker says it is not yet 9:00 in the morning.", zh: "现在甚至还没到九点。（o'clock 点钟）"}
+  - {text: "It's called flexible hours.", start: 258.76, end: 260.02, explain: "\"Flexible hours\" means workers can choose when they start and finish work. It is not a fixed time for everyone.", zh: "这叫弹性工作时间。（flexible hours 弹性工时）"}
+  - {text: "People set their own time.", start: 260.22, end: 261.18, zh: "人们自己设定上班时间。"}
+  - {text: "Well, some work eight to four, some work ten to six, some work nine to five.", start: 261.58, end: 265.78, zh: "嗯，有人工作八点到四点，有人十点到六点，有人九点到五点。（eight to four 八点到四点；nine to five 九点到五点，指标准工作时间）"}
+  - {text: "Not less absenteeism. People really like it.", start: 265.92, end: 268.38, explain: "\"Absenteeism\" means when workers do not come to work. The speaker says people like the new system, so they do not miss work less; they just like it.", zh: "缺勤率并没有降低，大家真的很喜欢这种制度。（absenteeism 缺勤，旷工）"}
+  - {text: "They make a bunch of workplace improvements.", start: 268.94, end: 271.02, explain: "\"Improvements\" are changes that make something better. The group made many changes to make the workplace better.", zh: "他们实施了一系列职场改进措施。（workplace improvements 职场改进措施）"}
+  - {text: "There's a daycare center at work, flexible hours, equal pay, and they all end up sticking.", start: 271.52, end: 276.98, explain: "\"Daycare\" is a place where parents leave their young children for a few hours while they work. \"Flexible hours\" means you can choose when you start and stop work. \"Sticking\" means the rules or ideas stay in place and do not go away.", zh: "公司设有托儿所、弹性工时，还有同工同酬，这些措施最终都保留了下来。（daycare center 托儿所；flexible hours 弹性工时；sticking 持续有效，保留）"}
+  - {text: "Well, except the equal pay.", start: 277.18, end: 278.32, zh: "嗯，除了同工同酬这项。（equal pay 同工同酬）"}
+  - {text: "That one was never going to stand a chance.", start: 278.32, end: 280.08, explain: "\"Stand a chance\" means to have a good possibility of winning or succeeding. The speaker says this idea or person would never succeed.", zh: "那项从一开始就不可能实现。（stand a chance 有希望，有可能）"}
+  - {text: "Yeah, exactly. But the others do stick.", start: 280.82, end: 283.68, zh: "对，没错。但其他措施都保留下来了。（stick 坚持，保留）"}
+  - {text: "So at the end of the film, Lily, Jane, and Dolly, they all pop champagne.", start: 284.06, end: 287.86, explain: "\"Pop champagne\" means to open bottles of champagne to celebrate a happy event. The characters in the movie open their drinks together at the end.", zh: "所以在电影结尾，莉莉、简和多莉都开了香槟庆祝。（pop champagne 开香槟庆祝）"}
+  - {text: "That's what we did.", start: 288.26, end: 293.47, zh: "我们也这么做了。（That's what we did 我们也这样做了）"}
+  - {text: "Yeah, everything except that part about the money.", start: 293.81, end: 295.65, zh: "是的，除了关于薪资的那部分。（everything except 除了……之外的一切）"}
+  - {text: "What are we going to do about that?", start: 296.13, end: 297.25, zh: "我们该怎么办？"}
+  - {text: "Hey, we've come this far, haven't we?", start: 297.81, end: 299.67, zh: "嘿，我们已经走了这么远，不是吗？（come this far 走了这么远）"}
+  - {text: "This is just the beginning.", start: 300.01, end: 301.29, explain: "This is a short phrase. It means that the current situation is only the start of a longer process or story.", zh: "这仅仅是个开始。"}
+  - {text: "This is just the beginning.", start: 301.63, end: 302.29, explain: "This is a short phrase. It means that the current situation is only the start of a longer process or story.", zh: "这仅仅是个开始。"}
+  - {text: "And here's to the beginning.", start: 302.31, end: 303.31, zh: "让我们为这个开始干杯。（here's to 为……干杯）"}
+  - {text: "Oh, no. Nothing changes.", start: 303.47, end: 306.41, zh: "噢，不。什么也没变。"}
+  - {text: "Nothing changes. Hello and welcome to Planet Money.", start: 307.61, end: 311.41, zh: "什么也没变。大家好，欢迎收听 Planet Money。"}
+  - {text: "I'm Sonari Glinton. And I'm Sarah Gonzalez.", start: 311.41, end: 313.49, zh: "我是 Sonari Glinton。我是 Sarah Gonzalez。"}
+  - {text: "And Sonari, the reason you wanted me to watch this movie is because nine to five is not just a movie.", start: 313.87, end: 320.23, explain: "\"Sonari\" is the name of the person being spoken to. The speaker asks why Sonari wanted them to see the film, implying the movie has a deeper meaning than just entertainment.", zh: "Sonari，你让我看这部电影，是因为《朝九晚五》不仅仅是一部电影。（nine to five 朝九晚五，指电影名）"}
+  - {text: "Exactly. For the women who watched it, there was a real true feeling that the changes they saw on the big screen would lead to changes in the actual world.", start: 320.55, end: 329.81, explain: "\"Big screen\" is a common way to say the cinema or movie theater. The sentence says that women believed the changes shown in the movie would happen in real life too.", zh: "没错。对于看过它的女性来说，她们真切地感到，大银幕上看到的变化将引领现实世界的改变。（big screen 大银幕，指电影）"}
+  - {text: "Today on the show, the story of how nine to five the movie, nine to five the song even, started with a group of secretaries in Boston.", start: 329.91, end: 338.15, zh: "今天节目里，我们要讲讲电影《朝九晚五》甚至同名歌曲的起源，故事始于波士顿的一群秘书。（nine to five 朝九晚五，指标准工作时间或同名作品；secretaries 秘书）"}
+  - {text: "This message comes from Northwestern Mutual.", start: 338.15, end: 341.07, explain: "This is an advertisement. \"Northwestern Mutual\" is the name of a company that sells insurance.", zh: "这条信息来自西北相互保险公司。（Northwestern Mutual 西北相互保险公司，美国一家大型保险公司）"}
+  - {text: "Life's a lot lately.", start: 341.49, end: 342.85, explain: "This is part of an advertisement. The sentence is a bit broken, but it means that life is very busy and hard these days.", zh: "最近生活挺不容易的。（lately 最近，近来）"}
+  - {text: "Some things you can't control.", start: 343.31, end: 344.73, zh: "有些事是你控制不了的。（control 控制，掌控）"}
+  - {text: "But you can control your money with a plan.", start: 345.09, end: 347.39, zh: "但你可以用计划来掌控自己的财务。（plan 计划，规划）"}
+  - {text: "It all starts with Northwestern Mutual.", start: 347.81, end: 349.67, zh: "这一切都始于西北相互保险公司。（Northwestern Mutual 西北相互保险公司）"}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 350.05, end: 357.95, explain: "\"Clients\" are the people who pay for a service. \"Uncertainty\" means a time when you do not know what will happen. This sentence says the company has helped people for a long time, even when the economy was bad.", zh: "近170年来，他们帮助客户在各种经济环境中取得成功，在不确定时期提供稳定。（stability 稳定性；uncertainty 不确定性）"}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 358.41, end: 363.53, explain: "This is the end of the advertisement. It tells you where to go on the internet to buy their products.", zh: "请访问NM.com，即位于威斯康星州密尔沃基的西北相互人寿保险公司。（Milwaukee 密尔沃基，美国威斯康星州城市）"}
+  - {text: "This message comes from BetterHelp.", start: 364.41, end: 366.23, explain: "This is the start of a new advertisement. \"BetterHelp\" is a company that offers online therapy.", zh: "这条信息来自BetterHelp。（BetterHelp 一家在线心理咨询服务平台）"}
+  - {text: "Imagine carrying a backpack every day.", start: 366.23, end: 368.91, explain: "This is a metaphor. It means thinking about the heavy problems or worries you have in your life.", zh: "想象一下你每天都背着一个背包。（backpack 双肩背包）"}
+  - {text: "Inside it, every conversation, every mistake, every expectation.", start: 369.21, end: 373.19, zh: "在那里面，每一段对话、每一个错误、每一份期待。"}
+  - {text: "It is easy not to notice how heavy it is until someone asks if you want to put it down.", start: 373.75, end: 379.05, explain: "\"Notice\" means to see or know something. This sentence says you might not feel the weight of your problems until someone helps you.", zh: "在有人问你是否想把它放下之前，你很难意识到它有多沉重。（put it down 放下，卸下负担）"}
+  - {text: "Sometimes feeling better starts exactly like that.", start: 379.43, end: 382.17, zh: "有时候，感觉变好就是从那一刻开始的。"}
+  - {text: "Better isn't one size fits all.", start: 382.59, end: 384.25, zh: "变好并不是一刀切的。（one size fits all 一刀切，放之四海而皆准）"}
+  - {text: "Better is personal. It's therapy tailored to the individual to help lighten what you carry.", start: 384.63, end: 389.83, explain: "\"Therapy\" is talking to a professional to help with mental health. \"Tailored\" means made just for one person. This sentence says their service is personal and helps you feel less burdened.", zh: "变好是个性化的。它是为个人量身定制的心理治疗，帮助你减轻背负的重担。（tailored 量身定制的）"}
+  - {text: "Match with a therapist who truly understands.", start: 390.23, end: 392.55, explain: "A \"therapist\" is a person who helps you with your feelings and mental health. This is an ad for a service that connects you with a helper.", zh: "与一位真正理解你的治疗师匹配。"}
+  - {text: "Visit BetterHelp .com slash NPR.", start: 392.55, end: 395.83, explain: "This is a website address for an advertisement. It tells you where to go online to find the service mentioned before.", zh: "请访问 BetterHelp .com slash NPR。"}
+  - {text: "Nine to five, the movie was based on real workplace experiences.", start: 397.12, end: 401.54, explain: "\"Workplace\" means the place where people go to do their jobs. The movie is about real things that happened in offices.", zh: "电影《朝九晚五》是基于真实的职场经历改编的。"}
+  - {text: "And it all started with a woman named Karen Nussbaum.", start: 401.90, end: 405.22, explain: "This sentence introduces the main person in the story. Her name is Karen Nussbaum.", zh: "而这一切都始于一位名叫卡伦·努斯鲍姆的女性。（Karen Nussbaum 卡伦·努斯鲍姆，编剧）"}
+  - {text: "I was very active in the anti -war movement and in the newly blooming women's movement.", start: 405.50, end: 412.26, explain: "The \"anti-war movement\" is a group of people who fight against war. \"Bloom\" means to start to grow or become popular. The sentence has a space in \"anti -war\" because of the recording.", zh: "我当时非常活跃于反战运动，以及刚刚兴起的女性运动中。（anti-war movement 反战运动；women's movement 女性运动）"}
+  - {text: "And I got a job to support my activism in the kind of work that most women did in those days.", start: 412.86, end: 420.10, explain: "\"Activism\" means working to change society or make things fair. She got a job to pay for her work in these groups.", zh: "我找了一份工作来支持我的社会活动，那是当时大多数女性从事的工作类型。（activism 社会活动；support 支持）"}
+  - {text: "And that was as a clerical worker.", start: 420.12, end: 421.44, explain: "A \"clerical worker\" is an office worker who does paper work, like typing or filing. This was her job.", zh: "具体来说，就是做文职工作。（clerical worker 文职人员）"}
+  - {text: "This is the 1970s.", start: 421.44, end: 423.26, explain: "This short sentence tells you the time period. It was the 1970s.", zh: "那是二十世纪七十年代。"}
+  - {text: "And something really big was happening around this time.", start: 423.46, end: 425.72, explain: "This sentence says that a very important event was taking place at that time. It sets the scene for the next part of the story.", zh: "就在这一时期，发生了一件非常重大的事情。"}
+  - {text: "Millions of women were entering the workforce.", start: 426.10, end: 428.56, explain: "The \"workforce\" is the group of people who have jobs. This sentence means that many women started working for money.", zh: "数百万女性开始进入劳动力市场。（workforce 劳动力）"}
+  - {text: "This is during the Vietnam War.", start: 429.02, end: 430.60, explain: "The \"Vietnam War\" was a long conflict in Southeast Asia. This sentence tells you when the story is set.", zh: "当时正值越南战争期间。"}
+  - {text: "In the 70s, women in the labor force increased by 12 million.", start: 431.00, end: 434.86, explain: "The \"labor force\" means people who work. \"Increased by\" means the number went up. This sentence says 12 million more women were working in the 1970s.", zh: "在七十年代，女性劳动力增加了1200万人。（labor force 劳动力）"}
+  - {text: "And a lot of women were clerical workers.", start: 435.26, end: 437.38, explain: "A \"clerical worker\" is a person who does office jobs, like typing or filing papers. This sentence says many women had these types of jobs.", zh: "其中很多女性都是文职人员。（clerical workers 文职人员）"}
+  - {text: "There were 18 million clerical workers by the end of the decade.", start: 437.58, end: 440.76, explain: "A \"decade\" is a period of ten years. This sentence says that by the end of the 1970s, there were 18 million people doing office work.", zh: "到十年结束时，文职人员总数达到了1800万。"}
+  - {text: "If you ask somebody who is a typical worker in America, they most likely say a man in a hard hat.", start: 441.22, end: 446.02, explain: "A \"hard hat\" is a protective helmet worn by construction workers. This sentence says people usually imagine a male construction worker when they think of a typical job.", zh: "如果你问别人美国典型的工人是什么样，他们很可能会说是一个戴安全帽的男人。（hard hat 安全帽）"}
+  - {text: "But in fact, literally the most typical worker in America was a woman at a keyboard.", start: 446.36, end: 451.04, explain: "\"Literally\" means exactly, not just for effect. A \"keyboard\" is the part of a computer or typewriter you type on. This sentence says the most common worker was actually a woman typing.", zh: "但事实上，美国最典型的工人形象，恰恰是一位坐在键盘前的女性。（typical 典型的；keyboard 键盘）"}
+  - {text: "Now Karen was just doing clerical work to pay the bills.", start: 451.56, end: 454.64, explain: "\"Clerical work\" means office jobs like typing or filing papers. \"Pay the bills\" means to give money for things like rent or food. The sentence says Karen had a simple office job to earn money for her daily needs.", zh: "当时凯伦只是做点文职工作来支付账单。（clerical work 文职工作；pay the bills 支付账单）"}
+  - {text: "Her real passion was protesting the Vietnam War.", start: 454.82, end: 457.54, explain: "\"Passion\" means a very strong feeling of interest or love for something. \"Protesting\" means going out to show you do not agree with something. The sentence says Karen really loved fighting against the Vietnam War.", zh: "她真正的热情在于抗议越南战争。（passion 热情；protesting 抗议）"}
+  - {text: "So one day Karen is at this anti -war conference and she runs into one of the biggest movie stars at the time and perhaps the most famous Vietnam War protester.", start: 457.86, end: 467.24, explain: "\"Runs into\" means to meet someone by chance. \"Conference\" means a meeting where people talk about a specific topic. The sentence says Karen met a very famous movie star and anti-war leader at a meeting by accident.", zh: "于是有一天，凯伦在一场反战会议上，偶遇了当时最著名的大明星之一，或许也是最知名的越战抗议者。（anti-war 反战的；runs into 偶遇）"}
+  - {text: "I saw Jane Fonda sitting on the floor just participating like anybody else and that made a big impression on me.", start: 467.54, end: 474.06, explain: "\"Participating\" means taking part in an activity. \"Impression\" means a strong feeling or memory left in your mind. The sentence says Karen was surprised and moved to see a famous star acting like a normal person.", zh: "我看到简·方达坐在地板上，像普通人一样参与活动，这给我留下了很深的印象。（participating 参与；impression 印象）"}
+  - {text: "Karen and Jane Fonda end up teaming up, protesting the Vietnam War together.", start: 474.34, end: 479.50, explain: "\"Teaming up\" means working together as a group. The sentence says Karen and Jane Fonda started working together to protest the war.", zh: "凯伦和简·方达最终联手，一起抗议越南战争。（teaming up 联手；protesting 抗议）"}
+  - {text: "Jane would like sleep over at Karen's.", start: 480.00, end: 482.26, zh: "简有时会去凯伦家过夜。（sleep over 过夜）"}
+  - {text: "I lived with five other women in an apartment that was a mess.", start: 482.40, end: 487.04, explain: "\"Apartment\" means a flat or a place to live in a building. The sentence says Karen lived with five other women in a very dirty flat.", zh: "我和另外五个女人住在一间乱糟糟的公寓里。（apartment 公寓；mess 混乱）"}
+  - {text: "She stayed in somebody's water bed.", start: 488.08, end: 490.84, explain: "\"Water bed\" is a special bed filled with water. The sentence says Jane Fonda slept in a water bed that belonged to someone else.", zh: "她睡在别人的水床上。（water bed 水床）"}
+  - {text: "We had meetings in our living room and every once in a while I'd think, oh, Jane Fonda, major motion picture star is sitting in my living room.", start: 491.98, end: 502.66, explain: "\"Motion picture\" is another word for a movie. \"Living room\" is the main room in a house for relaxing. The sentence says Karen thought it was amazing that a famous movie star was sitting in her home.", zh: "我们在客厅开会，偶尔我会想，天哪，简·方达，这位大电影明星，竟然就坐在我家客厅里。（living room 客厅；motion picture star 电影明星）"}
+  - {text: "Once the war ended, Jane Fonda returned to acting and Karen, you know, Karen's an activist.", start: 503.34, end: 510.18, explain: "An \"activist\" is a person who works hard to change laws or social rules. The speaker says that after the war, Jane Fonda went back to acting, but Karen became an activist.", zh: "战争结束后，简·方达回归了演艺事业，而凯伦呢，大家知道，她成了一名活动家。（Jane Fonda 简·方达，美国著名演员；activist 活动家）"}
+  - {text: "And now that the war is over, she starts noticing all these things about the office that she didn't really, really notice before.", start: 510.62, end: 518.74, explain: "The sentence is a bit cut off, but it means that after the war ended, Karen began to see unfair things in her office that she had not noticed before.", zh: "如今战争结束了，她开始注意到办公室里许多以前根本没在意的细节。（noticing 注意到；office 办公室）"}
+  - {text: "There was this casual chauvinism that just popped up all of the time.", start: 519.28, end: 525.32, explain: "\"Chauvinism\" is a strong belief that one group is better than another, often used to describe men thinking they are better than women. \"Casual\" here means it happened often and people did not think it was a big deal. The sentence says that this kind of attitude appeared all the time.", zh: "那种随意的男性沙文主义总是时不时地冒出来。（casual 随意的；chauvinism 沙文主义，此处指大男子主义）"}
+  - {text: "At first, Karen and some of her coworkers started meeting regularly talking about their workplace problems and then they realized that women all over Boston were doing the exact same thing.", start: 525.80, end: 537.16, explain: "\"Coworkers\" are people who work with you in the same place. The sentence says that Karen and her coworkers met often to talk about work problems, and then they found out that women in Boston were doing the same thing.", zh: "起初，凯伦和一些同事开始定期聚会，讨论她们在工作场所遇到的问题，随后她们发现波士顿各地的女性都在做完全相同的事。（coworkers 同事；workplace 工作场所）"}
+  - {text: "So they decide to start a formal labor organization.", start: 537.38, end: 541.86, explain: "A \"labor organization\" is a group that fights for the rights of workers. The sentence says they decided to make an official group for workers.", zh: "于是她们决定成立一个正式的劳工组织。（formal 正式的；labor organization 劳工组织）"}
+  - {text: "And what do they decide to call it?", start: 542.28, end: 544.24, zh: "那她们决定给这个组织起什么名字呢？"}
+  - {text: "Well, at the time the workday for clerical workers was 9 to 5.", start: 544.44, end: 549.76, explain: "\"Clerical workers\" are people who do office jobs like typing or answering phones. The sentence says that at that time, these workers worked from 9 am to 5 pm.", zh: "当时，文职人员的标准工作时间是上午九点到下午五点。（clerical workers 文职人员；workday 工作日）"}
+  - {text: "So we just picked the hours of the day and called it 9 to 5 and we had an organization of nurses inspired by 9 to 5", start: 550.08, end: 558.62, explain: "The speaker says they chose the hours 9 to 5 for the name of the group. They also mention that a group of nurses was inspired by this name.", zh: "所以我们直接选了这一天的时间段，把它叫作“9 to 5”，我们还有一群受“9 to 5”启发的护士组成的组织……（clerical 文职的；nurses 护士）"}
+  - {text: "which called themselves 7 to 3 because that was their organization.", start: 558.62, end: 562.96, explain: "This sentence continues from the last one. It says the nurses called their group \"7 to 3\" because that was their working time.", zh: "她们自称“7 to 3”，因为那是她们的工作时间。（organization 组织）"}
+  - {text: "Rolls right off the tongue, 7 to 3.", start: 563.08, end: 565.18, zh: "“7 to 3”读起来朗朗上口。（Rolls right off the tongue 朗朗上口，容易说出口）"}
+  - {text: "No one says 7 to 3.", start: 565.82, end: 567.36, zh: "没人会说“七点到三点”。（7 to 3 七点到三点，指工作时间）"}
+  - {text: "9 to 5 is the phrase.", start: 567.58, end: 568.68, explain: "\"9 to 5\" is the name of the group. It also means the usual work hours, from 9 in the morning to 5 in the afternoon. This short sentence says that \"9 to 5\" is the name of the phrase or group being discussed.", zh: "大家说的是“九点到五点”。（9 to 5 九点到五点，指标准工作时间）"}
+  - {text: "Thank you so much, Karen, for the much better phrase.", start: 569.06, end: 571.76, zh: "非常感谢凯伦，你用了更贴切的说法。"}
+  - {text: "Now at first, Karen says 9 to 5.", start: 572.22, end: 574.48, zh: "起初，凯伦说的是“九点到五点”。"}
+  - {text: "The labor organization started with what felt like painfully small issues.", start: 574.86, end: 578.82, explain: "A \"labor organization\" is a group that helps workers with their rights. \"Painfully small\" means very small, so small that it feels sad or frustrating. The group started by fixing very small problems at work.", zh: "这个劳工组织最初关注的是那些看似微不足道的问题。（labor organization 劳工组织；painfully small 极其微小的）"}
+  - {text: "We started with job posting.", start: 578.98, end: 580.20, explain: "\"Job posting\" means putting a notice about a new job in a public place. The group started by making sure people could see these notices.", zh: "我们从招聘启事开始着手。（job posting 招聘启事）"}
+  - {text: "You should at least know when there was a job opening in your company.", start: 581.60, end: 585.70, explain: "A \"job opening\" is a job that is empty and needs a new person. You should know when your company needs a new worker.", zh: "你至少应该知道公司里什么时候有职位空缺。（job opening 职位空缺）"}
+  - {text: "That's still a problem.", start: 586.24, end: 587.00, zh: "这至今仍然是一个问题。"}
+  - {text: "9 to 5, the organization starts spreading across the country more and more chapters and it leads to a local union in Boston, SCIU Local 925.", start: 587.00, end: 597.58, explain: "A \"chapter\" is a local group of a larger organization. A \"union\" is a group of workers who work together to get better pay and rights. The group grew and made a local union in Boston.", zh: "“九点到五点”这个组织在全国各地迅速扩展，成立了越来越多的分会，并最终促成了波士顿当地工会SCIU Local 925的成立。（chapters 分会；local union 当地工会）"}
+  - {text: "Get it? 9 to 5.", start: 597.96, end: 600.00, zh: "懂了吗？九点到五点。"}
+  - {text: "Pretty soon, Karen and the 9 to 5 women are demanding and getting higher pay at big institutions.", start: 600.40, end: 606.00, explain: "\"Institutions\" here means big companies or organizations. \"Demanding\" means asking for something strongly. The women asked for and got more money at big companies.", zh: "没过多久，卡伦和“朝九晚五”的女性们就开始要求并在大型机构中获得了更高的薪酬。（9 to 5 women 指代该组织成员，意为朝九晚五的女性；institutions 机构）"}
+  - {text: "They helped pass the Pregnancy Discrimination Act and a big priority for Karen was to have fun with all of their campaigns.", start: 606.40, end: 614.68, explain: "The \"Pregnancy Discrimination Act\" is a law that stops companies from treating women badly because they are pregnant. \"Campaigns\" are plans to change things or get support. They helped make this law and wanted their work to be fun.", zh: "她们协助通过了《妊娠歧视法》，而卡伦的一大重点是在所有活动中让大家玩得开心。（Pregnancy Discrimination Act 妊娠歧视法；priority 重点，优先事项）"}
+  - {text: "One of the very first things 9 to 5 instituted was the pettiest office procedure contest and the bad boss contest.", start: 614.68, end: 623.06, explain: "\"Instituted\" means started or made a rule. \"Petty\" means small and not important. \"Procedure\" is a way of doing a task. The group started a contest for the most annoying office rules and bad bosses.", zh: "“朝九晚五”组织最早开展的活动之一，就是评选“最琐碎的办公室程序”和“糟糕老板”大赛。（instituted 设立，发起；pettiest 最琐碎的，最无聊的）"}
+  - {text: "And you would be amazed at the things that these guys asked these women to do.", start: 623.48, end: 629.20, explain: "\"Amazed\" means very surprised. \"These guys\" refers to the men or bosses being talked about. The speaker says that the things the bosses asked the women to do were very surprising and strange.", zh: "你会惊讶于这些家伙要求这些女性做的那些事。（amazed 惊讶的；guys 家伙们，指代男性上司）"}
+  - {text: "What's the pettiest? What was the pettiest?", start: 629.62, end: 631.98, explain: "\"Petty\" means small, mean, or not important. The speaker asks what the smallest or meanest thing was that the bosses did.", zh: "最琐碎的是什么？最琐碎的是什么？（pettiest 最琐碎的，最无聊的）"}
+  - {text: "Oh my gosh. We had a guy who asked his secretary to sew up a hole in his pants while he still had them on.", start: 632.68, end: 642.52, explain: "\"Sew up\" means to fix with a needle and thread. The speaker tells a story about a man who asked his secretary to fix his pants while he was still wearing them.", zh: "天哪。我们有个家伙要求他的秘书在他还穿着裤子的时候，把裤子上的洞缝好。（sew up 缝补；hole 洞）"}
+  - {text: "I was going to ask, now while he was still wearing them, of course.", start: 642.52, end: 645.88, explain: "\"Wearing\" means having clothes on your body. The speaker says she wanted to ask if the man was still wearing the pants when he asked for help.", zh: "我本来想问，当然是在他还穿着裤子的时候。（wearing 穿着）"}
+  - {text: "Yes, while he was still wearing them.", start: 646.08, end: 647.66, explain: "This is a short answer confirming that the man was still wearing the pants when he asked the secretary to fix them.", zh: "是的，在他还穿着裤子的时候。（wearing 穿着）"}
+  - {text: "And you may think that I made that up, except for that when we gave him the award, it was on television.", start: 648.00, end: 654.54, explain: "\"Made that up\" means invented a story that is not true. \"Award\" means a prize. The speaker says the story is true because it happened on TV when they gave the man a prize.", zh: "你可能觉得我是编的，但当我们给他颁奖时，是在电视上直播的。（made up 编造；award 奖项）"}
+  - {text: "He went on television with the secretary.", start: 655.04, end: 657.60, zh: "他和那位秘书一起上了电视。（television 电视）"}
+  - {text: "Wait, how did you, you would invite the petty boss to come on TV to win the petty boss award and they were like, sure, I would love to.", start: 658.16, end: 667.22, explain: "\"Petty boss\" is a funny name for a mean or small-minded manager. The speaker is surprised that the boss was happy to come on TV to win this funny prize.", zh: "等等，你们居然会邀请那些小头目上电视来领“小头目奖”，他们居然还说，好啊，我很乐意。（petty boss 小头目，基层管理者；award 奖项）"}
+  - {text: "They didn't even have enough sense to know that they should be embarrassed.", start: 667.54, end: 670.14, zh: "他们甚至没常识到该感到尴尬。（embarrassed 尴尬的）"}
+  - {text: "We had a guy who gave his secretary his beeper and sent her to the pub, the bar downstairs from their office.", start: 670.14, end: 679.48, explain: "A \"beeper\" is a small device that makes a sound to tell you to call someone. A \"pub\" is a place where people go to drink alcohol. The sentence says a man gave his pager to his secretary and told her to go to the bar below their office.", zh: "有个家伙把他的寻呼机给了他的秘书，让她去楼下办公室旁边的酒吧。（beeper 寻呼机；pub 酒吧）"}
+  - {text: "And if she saw a woman who met his specification, she was supposed to beep him.", start: 679.80, end: 684.58, explain: "\"Specification\" means the list of things a person wants in a partner. \"Beep\" means to make the beeper sound. The sentence says if the secretary saw a woman who fit the man's list, she should make the beeper sound to tell him.", zh: "如果她看到符合他要求的女性，就得给他发寻呼信号。（specification 标准，要求；beep 发寻呼信号）"}
+  - {text: "Now, you might think that that's a made up story too, except for that was on Phil Donahue.", start: 685.06, end: 690.46, explain: "\"Made up\" means not true, invented. \"Phil Donahue\" is the name of a famous TV talk show. The speaker says you might think this story is fake, but it actually happened on that TV show.", zh: "你可能觉得这也是编的，但这事确实上过菲尔·多纳休的节目。（Phil Donahue 菲尔·多纳休，美国著名电视主持人）"}
+  - {text: "We got the boss and his secretary on the Phil Donahue show.", start: 690.76, end: 694.92, explain: "The sentence says they invited the boss and his secretary to appear on the Phil Donahue TV show.", zh: "我们把那个老板和他的秘书请上了菲尔·多纳休的节目。（Phil Donahue 菲尔·多纳休）"}
+  - {text: "Using daytime talk shows like Phil Donahue, millions of women across the country could see themselves in the office workers on television, which sort of made people go, hold on a second.", start: 695.42, end: 706.64, explain: "\"Daytime talk shows\" are TV programs that happen during the day where people talk about news or life. \"Hold on a second\" is a phrase that means \"wait, that is not right.\" The sentence says women watching these shows saw themselves in the characters and thought the behavior was wrong.", zh: "通过菲尔·多纳休这样的日间脱口秀，全国数百万女性能在电视上的办公室职员身上看到自己的影子，这让人不禁想，等等，怎么回事。（daytime talk shows 日间脱口秀；Phil Donahue 菲尔·多纳休）"}
+  - {text: "This is ridiculous. And it made them feel like they could actually call out their own bosses.", start: 706.94, end: 711.90, explain: "\"Call out\" means to criticize someone publicly. The sentence says this made women feel brave enough to criticize their own bosses.", zh: "这太荒谬了。这让她们觉得自己真的可以公开指责自己的老板。（call out 公开指责，点名批评）"}
+  - {text: "I know my mom watched a lot of Phil Donahue.", start: 712.14, end: 714.18, zh: "我知道我妈妈看了很多菲尔·多纳休的节目。（Phil Donahue 菲尔·多纳休）"}
+  - {text: "And seeing the craziness out in the open on television helped propel the woman's worker movement.", start: 714.46, end: 720.24, explain: "\"Craziness\" means strange or bad behavior. \"Propel\" means to push forward or help grow. The sentence says seeing this bad behavior on TV helped the women's worker movement grow.", zh: "在电视上公开揭露这些荒唐事，有助于推动女性劳工运动。（propel 推动，促进；woman's worker movement 女性劳工运动）"}
+  - {text: "This whole time Karen, she stayed in touch with Jane Fonda and she'd tell Jane about the things she was hearing from her fellow office workers.", start: 720.42, end: 728.00, explain: "\"Stayed in touch\" means they kept talking to each other. \"Fellow\" means people in the same group or job. The sentence says Karen kept talking to Jane Fonda and told her what other office workers were saying.", zh: "这段时间里，卡伦一直和简·方达保持联系，并向她讲述从同事那里听到的各种事情。（Jane Fonda 简·方达，美国著名演员；fellow office workers 同事）"}
+  - {text: "And Jane Fonda said, I want to help.", start: 728.44, end: 730.78, explain: "This sentence is a direct quote. Jane Fonda is a famous actress. She says she wants to help with the project.", zh: "简·方达说，我想帮忙。（want to help 想要帮忙）"}
+  - {text: "Jane came to me and said, you know, I'd love to support nine to five in the best way I know how.", start: 731.00, end: 736.02, explain: "\"Support\" means to help or give money to. \"Nine to five\" is the name of the movie or song. Jane says she wants to help in the best way she knows.", zh: "简来找我，说你知道，我很乐意用我知道的最好方式来支持《朝九晚五》。（nine to five 朝九晚五，指工作时间或同名电影/歌曲）"}
+  - {text: "And that's by making a major motion picture.", start: 736.32, end: 738.66, explain: "A \"motion picture\" is a movie. \"Major\" means big and important. She wants to make a big, important movie.", zh: "那就是拍一部大型电影。（major motion picture 大型电影，指大制作影片）"}
+  - {text: "So I thought, whoa, great.", start: 739.80, end: 741.98, explain: "\"Whoa\" is a sound people make when they are surprised or excited. The speaker thinks this is a great idea.", zh: "我当时心想，哇，太棒了。（whoa 哇，表示惊叹）"}
+  - {text: "Jane Fonda is like, let's write up a real pitch.", start: 742.34, end: 744.92, explain: "A \"pitch\" is a short plan or idea you show to people to get them to agree. \"Write up\" means to write it down. They want to write a formal plan.", zh: "简·方达说，让我们写一份正式的项目提案。（pitch 项目提案，指用于争取投资的故事梗概）"}
+  - {text: "I'll shop it around to the film executives.", start: 745.16, end: 746.86, zh: "我会把它拿给电影高管们看看。（shop it around 四处推销，指向多方展示以寻求机会；film executives 电影高管）"}
+  - {text: "Karen thinks the best angle to pitch is just the sheer number of clerical workers.", start: 747.50, end: 752.12, explain: "An \"angle\" is a way to look at a story. \"Sheer\" means just the amount, nothing else. \"Clerical\" means office jobs. She thinks the best way to sell the idea is to show how many office workers there are.", zh: "卡伦认为最好的切入角度是行政人员的庞大数量。（clerical workers 行政人员，指从事文书工作的人）"}
+  - {text: "She writes, office workers haven't seen themselves represented in pop culture almost ever.", start: 752.58, end: 757.92, explain: "\"Represented\" means shown or included. \"Pop culture\" means popular things like movies and music. She writes that office workers have not been shown in movies or music for a long time.", zh: "她写道，办公室员工几乎从未在流行文化中看到过自己的形象。（represented 被代表，指被呈现或反映；pop culture 流行文化）"}
+  - {text: "And there are almost 20 million of us.", start: 758.20, end: 760.84, zh: "而且我们几乎有两千万人。（20 million 两千万）"}
+  - {text: "You'd have a built -in audience film executive, a built -in audience of almost 20 million people.", start: 761.00, end: 766.50, zh: "你天然就拥有一批观众，也就是电影高管，以及近两千万的庞大受众。（built-in 内置的，固有的；audience 观众，受众）"}
+  - {text: "The movie studio 20th Century Fox approves the idea.", start: 767.28, end: 770.64, explain: "\"Approves\" means says yes to. \"20th Century Fox\" is the name of a movie company. The movie company says yes to the idea.", zh: "二十世纪福克斯电影公司批准了这个创意。（20th Century Fox 二十世纪福克斯，美国电影公司）"}
+  - {text: "Now Jane had to figure out what the movie was going to be about.", start: 771.26, end: 774.54, explain: "\"Figure out\" means to think hard to find the answer. This sentence says Jane needed to decide the main topic of the film.", zh: "现在简需要弄清楚这部电影到底要讲什么。（figure out 弄清楚，想明白）"}
+  - {text: "She starts meeting with workers from Karen's group, the original nine to five, to get ideas.", start: 774.94, end: 779.32, zh: "她开始与卡伦团队里的员工会面，也就是最初的“九点到五点”群体，以获取灵感。（nine to five 九点到五点，指朝九晚五的上班族）"}
+  - {text: "And there's this pretty important meeting.", start: 779.58, end: 781.92, zh: "其中有一场相当重要的会议。（pretty 相当，挺；important 重要的）"}
+  - {text: "That's the big aha moment.", start: 782.56, end: 783.88, explain: "An \"aha moment\" is a sudden moment when you understand something clearly. The speaker says this was the key moment of realization.", zh: "那就是那个顿悟的关键时刻。（aha moment 顿悟时刻，灵光一现的瞬间）"}
+  - {text: "Jane's meeting with about 40 workers in Cleveland hearing all their complaints.", start: 783.88, end: 787.76, zh: "简在克利夫兰与大约40名工人会面，听取他们的各种抱怨。（Cleveland 克利夫兰，美国城市；complaints 抱怨，投诉）"}
+  - {text: "And long into the meeting, Jane at one point says, now has anybody here ever dreamed of killing your boss?", start: 788.44, end: 795.86, zh: "会议进行到很久之后，简在某个时刻问道：在座各位有没有人曾经梦想过干掉你们的老板？（dreamed of 梦想过，幻想过；killing 杀死，这里指报复或除掉）"}
+  - {text: "And the room just lit up because everybody had dreamed about getting even with their boss and told story after story about the kinds of things", start: 796.36, end: 804.60, explain: "The sentence is cut off and continues in the next part. \"Getting even\" means to take revenge or punish someone for a past wrong. \"Lit up\" means the room became full of energy and excitement.", zh: "整个房间瞬间活跃起来，因为每个人都曾梦想过向老板报仇，大家一个接一个地讲述着……（lit up 活跃起来，兴奋起来；getting even 报仇，报复）"}
+  - {text: "that they'd like to do to their boss.", start: 804.60, end: 806.10, zh: "他们想对老板做的各种事情。（kinds of things 各种事情；to their boss 对他们的老板）"}
+  - {text: "And it was those stories that became the basis of the movie.", start: 806.32, end: 811.74, explain: "\"Basis\" means the foundation or main idea. The sentence says the stories told by the people became the main idea for the movie.", zh: "正是这些故事成为了那部电影的基础。（basis 基础，依据）"}
+  - {text: "At this point, Jane decides this is a movie about getting back at the man.", start: 811.74, end: 816.36, explain: "\"Getting back at\" means to take revenge on someone. The sentence says Jane decided the movie would be about punishing a man.", zh: "到了这个阶段，简认为这是一部关于向男人复仇的电影。（premise 前提，构思；get back at 报复，反击）"}
+  - {text: "So they have a movie studio.", start: 816.76, end: 818.70, zh: "于是他们拥有了一家电影制片厂。（studio 制片厂，工作室）"}
+  - {text: "They have stars. They have a premise.", start: 819.00, end: 820.56, explain: "A \"premise\" is the main idea or plan for a story. The sentence says they have famous actors and a main idea for the story.", zh: "他们有明星，也有故事构思。（premise 前提，构思）"}
+  - {text: "All they need now is a script.", start: 821.18, end: 823.12, explain: "A \"script\" is the written text of a movie, including all the lines and actions. The sentence says they only need the written text now.", zh: "现在他们只需要一个剧本。（script 剧本）"}
+  - {text: "In comes a young 26 -year -old rising star.", start: 823.60, end: 827.54, explain: "A \"rising star\" is a person who is becoming famous quickly. The sentence says a young woman, who is 26, who is becoming famous, joins the project. The number 26 is split by spaces in the text.", zh: "一位二十六岁的年轻新星登场了。（rising star 新星，崭露头角的人）"}
+  - {text: "She's a writer, Patricia Resnick.", start: 828.02, end: 829.96, zh: "她是一位作家，名叫帕特里夏·雷斯尼克。（Patricia Resnick 帕特里夏·雷斯尼克，编剧）"}
+  - {text: "And she hears that Jane Fonda, a hero of hers, was producing a movie.", start: 830.24, end: 834.24, explain: "A \"hero\" is a person you admire very much. \"Producing\" means paying for and organizing the making of a film. The sentence says she heard that Jane Fonda, whom she admires, was making a movie.", zh: "她听说简·方达——她心目中的偶像——正在制作一部电影。（hero 偶像，崇拜的人；producing 制作，制片）"}
+  - {text: "She knew that she had to be a part of it.", start: 834.58, end: 837.10, zh: "她知道她必须参与其中。（part of 一部分，参与）"}
+  - {text: "So she gets a meeting with Jane Fonda.", start: 837.36, end: 839.96, zh: "于是她争取到了与简·方达见面的机会。（meeting 会面，会议）"}
+  - {text: "When I went to meet with her at her house, she had stacks and stacks of files.", start: 839.96, end: 846.82, explain: "\"Stacks\" means tall piles of things. The speaker says that when they visited the woman's house, there were many tall piles of papers there.", zh: "当我去她家拜访她时，她那里堆了一摞又一摞的文件。（stacks 堆，叠；files 文件，档案）"}
+  - {text: "And so I felt that my job was to come up with a compelling story and characters you could root for and a boss that was, you know,", start: 847.80, end: 859.46, explain: "\"Compelling\" means very interesting and hard to stop watching. \"Root for\" means to support a character and hope they win. The speaker felt their job was to make a story with characters people would support and a bad boss.", zh: "所以我觉得我的任务是想出一个引人入胜的故事，塑造一些让人想支持的角色，以及一个你知道的……（compelling 引人入胜的；root for 支持，为……加油）"}
+  - {text: "as close as you could get to the mustache twirling villain.", start: 859.84, end: 862.92, explain: "A \"villain\" is a bad person in a story. \"Mustache twirling\" is a funny way to describe a very obvious, cartoon-like bad guy. The sentence says the boss should be as close to a typical bad guy as possible.", zh: "尽可能接近那种转动小胡子的反派形象。（mustache twirling villain 转动小胡子的反派，指典型的邪恶角色）"}
+  - {text: "Problem was, even though Patricia had plenty of non -glamorous jobs, including waiting tables, she had never had a clerical job.", start: 863.24, end: 870.04, explain: "\"Non-glamorous\" means not exciting or beautiful. \"Clerical\" means office work, like typing or filing. The problem was that Patricia had done many unexciting jobs, like serving food, but never office work.", zh: "问题是，尽管帕特里夏做过很多不体面的工作，包括当服务员，但她从未做过文职工作。（non-glamorous 不体面的，不起眼的；clerical 文职的，行政的）"}
+  - {text: "So the movie studio of 20th Century Fox was like, you want to learn about office culture?", start: 870.48, end: 874.00, explain: "\"Office culture\" means how people behave and work in an office. The movie studio 20th Century Fox is asking if she wants to learn about how offices work.", zh: "所以二十世纪福克斯电影制片厂说，你想了解办公室文化？（20th Century Fox 二十世纪福克斯，电影制片厂；office culture 办公室文化）"}
+  - {text: "We've got a place for you.", start: 874.24, end: 875.28, explain: "This short sentence means the studio has a specific place for her to go to learn.", zh: "我们有个地方适合你。（place 地方，职位）"}
+  - {text: "Mind to try our insurance company in downtown Los Angeles.", start: 875.56, end: 878.14, explain: "\"Downtown\" means the main business center of a city. The sentence suggests she go to their insurance company in the center of Los Angeles.", zh: "要不要试试我们在洛杉矶市中心的保险公司？（downtown 市中心）"}
+  - {text: "It was a, you know, a giant whole floor of secretaries.", start: 878.48, end: 885.34, explain: "\"Giant\" means very big. \"Floor\" here means one level of a building. The speaker says there were many secretaries working on one big level of the office building.", zh: "那里你知道，整整一层楼都是秘书。（giant 巨大的；secretaries 秘书）"}
+  - {text: "And as soon as you walked in, you saw, oh, all the underlings are female and all the bosses are male.", start: 885.58, end: 893.12, explain: "\"Underlings\" means people who have a lower job rank. \"Male\" means men. The speaker says that when you entered, you could see that all the lower-level workers were women and all the bosses were men.", zh: "你一进去就看到，哦，所有下属都是女性，所有老板都是男性。（underlings 下属，地位低的人）"}
+  - {text: "There was not one female in an upper level position.", start: 893.12, end: 897.80, explain: "\"Upper level position\" means a high-ranking job. The speaker says there were no women in high-ranking jobs.", zh: "高层职位中没有一位女性。（upper level position 高层职位）"}
+  - {text: "Patricia spent weeks hanging out with the secretaries, taking them to lunch, listening to their stories.", start: 898.36, end: 903.16, explain: "\"Hanging out\" means spending time with people in a relaxed way. \"Taking them to lunch\" means paying for their lunch. Patricia spent many weeks spending time with the secretaries, paying for their lunch, and listening to their stories.", zh: "帕特里夏花了好几周时间跟这些秘书混在一起，带她们去吃午饭，听她们讲自己的故事。（hanging out 闲逛，相处；secretaries 秘书）"}
+  - {text: "And slowly, the characters for the movie begin to emerge.", start: 903.60, end: 907.68, zh: "慢慢地，电影里的角色形象开始浮现出来。（emerge 出现，浮现）"}
+  - {text: "One woman in particular kept coming up in all these lunches.", start: 908.08, end: 911.70, explain: "\"In particular\" means especially. One specific woman was mentioned often during all these lunches.", zh: "其中有一位女士，在所有的午餐聚会中总是被提到。（in particular 特别，尤其）"}
+  - {text: "Everyone was absolutely sure she was sleeping with the boss.", start: 912.16, end: 915.28, explain: "\"Sleeping with\" means having a romantic or sexual relationship. Everyone was completely sure that she was having a relationship with the boss.", zh: "大家都确信她在跟老板搞暧昧。（sleeping with 与……发生性关系，此处指有不正当关系）"}
+  - {text: "I was a tiny bit afraid of her.", start: 915.62, end: 917.48, explain: "\"Tiny bit\" means a very small amount. The speaker was a little bit afraid of her.", zh: "我其实有点怕她。（a tiny bit 一点点）"}
+  - {text: "And anyway, I took her out to lunch last and got a couple of martinis into her.", start: 917.98, end: 923.24, explain: "\"Got a couple of martinis into her\" means she drank two martinis. The speaker took her to lunch and made her drink two martinis.", zh: "反正，上次我带她出去吃午饭，让她喝了两杯马提尼。（martinis 马提尼酒）"}
+  - {text: "That's when people used to drink at lunch.", start: 923.36, end: 925.40, zh: "那时候大家中午吃饭时都会喝酒。（at lunch 在午餐时）"}
+  - {text: "I didn't bring it up.", start: 925.66, end: 926.94, zh: "我没提那件事。（bring up 提起，提出）"}
+  - {text: "I didn't feel comfortable bringing it up.", start: 927.02, end: 928.78, explain: "\"Bringing it up\" means talking about a topic, especially a difficult one. The speaker says they did not feel safe or happy talking about this subject.", zh: "我觉得提那件事不太合适。（comfortable 自在，舒服）"}
+  - {text: "But she told me that she knew that everybody thought she was sleeping with the boss.", start: 929.00, end: 935.14, explain: "\"Sleeping with the boss\" is a phrase that means having a romantic or sexual relationship with your manager. The woman knew that everyone believed this was true.", zh: "但她告诉我，她知道大家都以为她在跟老板搞暧昧。（sleeping with the boss 跟老板有不正当关系）"}
+  - {text: "And, you know, he was letting them think that, but it was completely untrue.", start: 935.76, end: 940.40, explain: "\"Untrue\" means not true, or false. The man allowed people to believe the rumor, but it was not real.", zh: "而且，你知道，他故意让他们这么以为，但这完全是假的。（letting them think 让他们以为；completely 完全地）"}
+  - {text: "And she started to cry.", start: 940.58, end: 942.24, zh: "然后她开始哭了。（started to cry 开始哭泣）"}
+  - {text: "And, you know, I had no proof either way, but I absolutely believed her.", start: 943.75, end: 949.17, zh: "你知道，我没有任何证据能证实或证伪，但我完全相信她。（proof 证据；either way 无论哪方面，即证实或证伪）"}
+  - {text: "This real -life worker inspired the character played by Dolly Parton.", start: 949.17, end: 953.73, explain: "A \"character\" is a person in a story or movie. The real woman was the inspiration for the role Dolly Parton played.", zh: "这位真实生活中的女工启发了多莉·帕顿所饰演的角色。（real-life 真实生活中的；inspired 启发，作为灵感来源）"}
+  - {text: "So you've been telling everybody I'm sleeping with you, huh?", start: 953.81, end: 956.77, explain: "This is a line from the movie. The speaker is angry because the other person is telling everyone they are having a relationship.", zh: "所以你在到处跟人说你在跟我睡觉，是吗？（sleeping with 与……发生性关系，此处指传闻）"}
+  - {text: "No. Well, that explains it.", start: 956.93, end: 958.13, zh: "没有。哦，那就说得通了。（explains it 解释了这件事，指之前的误会）"}
+  - {text: "That's why these people treat me like some damn store bluesie.", start: 958.17, end: 960.81, explain: "\"Damn\" is a rude word used to show strong anger. \"Store bluesie\" is likely a transcription error for \"store busybody\" or similar, meaning someone who is annoying or nosy in the store. The speaker feels treated badly because of the rumors.", zh: "这就是为什么这些人把我当成该死的商店女招待。（damn 该死的，语气词；store bluesie 此处应为口误或转录错误，结合语境指store clerk 商店店员/女招待）"}
+  - {text: "No, no. They think I'm screwing the boss.", start: 960.83, end: 962.39, zh: "不不，他们以为我在跟老板搞暧昧。（screwing the boss 与老板发生不正当关系，俚语）"}
+  - {text: "Dolly Parton's star turn made the idea of sexual harassment a central part of the movie.", start: 962.87, end: 967.95, explain: "A \"star turn\" is a performance by a famous actor that makes the movie very popular. \"Sexual harassment\" means unwanted sexual attention or behavior at work. Dolly Parton's performance made this topic a main part of the film.", zh: "多莉·帕顿的精彩表现让性骚扰这一概念成为电影的核心部分。（star turn 明星的精彩演出；sexual harassment 性骚扰）"}
+  - {text: "But the phrase basically didn't exist yet.", start: 968.29, end: 970.95, zh: "但当时这个短语基本上还不存在。（phrase 短语；basically 基本上）"}
+  - {text: "Sexual harassment, those words are never used in the movie.", start: 971.07, end: 973.99, explain: "The sentence says that the specific words \"sexual harassment\" are not spoken in the movie, even though the topic is there.", zh: "性骚扰，电影里从未使用过这个词。（sexual harassment 性骚扰）"}
+  - {text: "We didn't even have a term for it because it was just this thing that men did that we didn't like.", start: 974.37, end: 981.81, explain: "A \"term\" is a word or name for something. The speaker says they did not have a name for this bad behavior because it was just something men did that the women did not like.", zh: "我们当时甚至没有专门的词来描述它，因为这只是男人常做的、我们不喜欢的事。（term 术语，专门词汇）"}
+  - {text: "Patricia subtly inserted huge workplace reforms into the script.", start: 982.41, end: 986.41, explain: "\"Subtly\" means in a quiet or hidden way, not loudly. \"Reforms\" are changes made to fix problems. Patricia put big changes for the workplace into the movie script in a hidden way.", zh: "帕特丽夏在剧本中巧妙地植入了巨大的职场改革。（subtly 微妙地，含蓄地；workplace 职场，工作场所）"}
+  - {text: "Like, at the very end of the movie, after the women have instituted all these new workplace programs, the boss is boss, the big boss, he shows up like, wow, you've been so productive, Frank.", start: 986.73, end: 998.37, explain: "To \"institute\" means to start or set up something new. \"Productive\" means doing a lot of useful work. At the end of the movie, the boss comes back and says the women worked very well, but he praises himself.", zh: "比如，在电影结尾，当女性们建立了所有这些新的职场项目后，大老板出现了，他说：哇，弗兰克，你们效率真高。（instituted 建立，实施；productive 高效的，多产的）"}
+  - {text: "Frank Hart, my boy, I would like to shake your hand.", start: 998.85, end: 1001.77, zh: "弗兰克·哈特，我的孩子，我想握握你的手。（Frank Hart 弗兰克·哈特，片中角色名）"}
+  - {text: "You managed to create a very, very splendid environment here.", start: 1002.41, end: 1005.47, explain: "This is a fragment. It continues the boss's speech. He is talking about a specific program.", zh: "你们在这里创造了一个非常、非常棒的环境。（splendid 极好的，辉煌的）"}
+  - {text: "Like the, you like the job sharing program.", start: 1005.76, end: 1008.44, explain: "\"Job sharing\" is when two people share one full-time job. \"Tied up\" means held tight with ropes or straps. \"Credit\" means the praise or reward for doing something. The boss was tied up the whole time and did nothing, but he takes the praise for the women's work.", zh: "比如，你喜欢那个工作分担计划。（job sharing 工作分担，两人分担一份全职工作）"}
+  - {text: "Job sharing. Of course, the boss has been literally tied up in a harness, the whole movie, and didn't do anything, but he takes all the credit.", start: 1009.22, end: 1019.52, explain: "To \"pull it off\" means to succeed in doing something difficult. The boss tells Frank that he succeeded in making the workplace better.", zh: "工作分担。当然，老板整部电影都被绑在背带里，什么也没做，但他却抢走了所有功劳。（harness 背带，挽具；credit 功劳，赞誉）"}
+  - {text: "So you pulled it off, Frank.", start: 1019.76, end: 1021.12, explain: "\"Pulled it off\" means you did a difficult thing successfully. The speaker is telling Frank that he did a good job.", zh: "所以，你做到了，弗兰克。（pulled it off 成功做到，办成）"}
+  - {text: "Well, I like to think we did anyway.", start: 1021.38, end: 1022.98, zh: "嗯，我想我们可以这么说。（think we did 认为我们做到了）"}
+  - {text: "Good. Like the daycare center.", start: 1023.28, end: 1024.78, explain: "A \"daycare center\" is a place where parents leave their young children during the day. The speaker is giving an example of a good thing, like a place to look after children.", zh: "很好。就像那个托儿所一样。（daycare center 托儿所）"}
+  - {text: "Daycare center. Our working parents love it.", start: 1025.64, end: 1028.06, explain: "A \"daycare center\" is a place for young children. \"Working parents\" are parents who have jobs. The speaker says that parents with jobs like this place.", zh: "托儿所。我们的职场父母们都很喜欢它。（working parents 职场父母）"}
+  - {text: "The cost was minimal.", start: 1028.16, end: 1029.04, explain: "\"Minimal\" means very small or very little. The speaker says the price was very low.", zh: "费用非常低廉。（minimal 极少的，微小的）"}
+  - {text: "It's cut down on absenteeism, and we had a wonderful time doing it.", start: 1029.40, end: 1032.84, explain: "\"Absenteeism\" means when people do not come to work or school. \"Cut down on\" means to make something smaller or less. The speaker says fewer people missed work, and they enjoyed the project.", zh: "它减少了缺勤率，而且我们做得很开心。（absenteeism 缺勤，旷工）"}
+  - {text: "Well, Frank, I got to give you credit.", start: 1033.00, end: 1034.66, explain: "To \"give credit\" means to say that someone did a good job or deserves praise. The speaker is praising Frank.", zh: "好吧，弗兰克，我得承认你做得不错。（give you credit 承认你的功劳）"}
+  - {text: "That equal pay thing, though, that's got to go.", start: 1034.66, end: 1037.26, explain: "\"Equal pay\" means men and women get the same money for the same work. The speaker says this idea must be stopped or removed.", zh: "不过，同工同酬那件事，必须取消。（equal pay 同工同酬）"}
+  - {text: "All right. Well, here's an irony.", start: 1037.52, end: 1038.86, explain: "An \"irony\" is a situation that is funny or strange because it is the opposite of what you expect. The speaker is about to tell a strange fact.", zh: "好的。这里有个讽刺的地方。（irony 讽刺，反讽）"}
+  - {text: "A director named Colin Higgins gets hired to direct the movie.", start: 1039.18, end: 1042.90, explain: "A \"director\" is the person in charge of making a movie. \"Hired\" means paid to do a job. A man named Colin Higgins was paid to make the movie.", zh: "一位名叫柯林·希金斯的人被雇来执导这部电影。（director 导演；Colin Higgins 柯林·希金斯）"}
+  - {text: "Yes, apparently you needed a dude to direct the movie about women.", start: 1043.36, end: 1046.76, explain: "\"Apparently\" means it seems true, or people say it is true. \"Dude\" is a casual word for a man. The speaker says that, in the past, people thought a man had to be the director of a film about women.", zh: "是的，显然你需要一个男人来执导一部关于女性的电影。（dude 家伙，男人）"}
+  - {text: "And this guy, well, he ends up pushing out Patricia Resnick.", start: 1047.20, end: 1050.54, explain: "\"Pushing out\" means forcing someone to leave a job or a position. The speaker says that this man forces Patricia Resnick to leave her job.", zh: "而这个人，最终把帕特里夏·雷斯尼克挤了出去。（pushing out 排挤，挤出）"}
+  - {text: "He wouldn't let me on the set.", start: 1050.60, end: 1052.18, zh: "他不让我进片场。（set 片场，拍摄现场）"}
+  - {text: "He didn't want me around.", start: 1052.50, end: 1053.86, zh: "他不想让我待在那儿。（around 在附近，在场）"}
+  - {text: "You know, he gave me that every ship has one captain's speech.", start: 1054.86, end: 1058.68, explain: "A \"captain's speech\" is a talk given by the leader of a ship. The speaker says that the man gave her a copy of this speech for every ship. This sentence is a fragment and continues in the next one.", zh: "你知道，他给我讲了一通“每艘船只能有一个船长”的大道理。（captain's speech 船长训话，此处指强调自己权威的说辞）"}
+  - {text: "So I kind of got nine to five on nine to five.", start: 1060.84, end: 1064.90, explain: "\"Nine to five\" means the normal working hours from 9 am to 5 pm. \"Got\" here means she understood or learned about the topic. The speaker says she learned about the working hours while listening to the song called \"9 to 5\".", zh: "所以我在《朝九晚五》里体验了一把朝九晚五。（nine to five 朝九晚五，指常规工作时间）"}
+  - {text: "When you say nine to five done nine to five, there is a plot line in which the man takes credit for other, for the women's work.", start: 1064.96, end: 1072.54, explain: "\"Plot line\" means the main story or events in a movie or song. \"Takes credit\" means says that he did the work, even if he did not. The sentence is a bit broken, but it says that in the story, the man claims the women did the work for him.", zh: "当你提到《朝九晚五》拍完了《朝九晚五》，剧情里有一条线是男人把女人的功劳据为己有。（plot line 剧情线；takes credit 抢功劳，把功劳归在自己身上）"}
+  - {text: "That's like a theme.", start: 1072.62, end: 1073.52, zh: "这简直就是一个主题。（theme 主题，核心思想）"}
+  - {text: "Correct. A theme in the movie.", start: 1073.82, end: 1075.76, zh: "没错，这是电影里的一个主题。（theme 主题）"}
+  - {text: "Right. And that's exactly what happened to me.", start: 1076.12, end: 1078.86, zh: "对，而且这恰恰就发生在我身上。（exactly 恰恰，正是）"}
+  - {text: "There was a whole documentary about Colin Higgins that talks about nine to five.", start: 1080.59, end: 1085.41, explain: "A \"documentary\" is a film or TV show that tells the true story of a person or event. \"Colin Higgins\" is the name of the man who wrote the song. The speaker says there is a film about this man that explains the song \"9 to 5\".", zh: "有一部关于柯林·希金斯（Colin Higgins）的纪录片，专门讲了《朝九晚五》。（documentary 纪录片）"}
+  - {text: "Endlessly, I've never mentioned there have been other documentaries more recently.", start: 1085.71, end: 1090.97, explain: "\"Endlessly\" means for a very long time without stopping. \"Documentaries\" are films that show real facts and events. The speaker says they have not talked about other films about this topic for a long time.", zh: "无数次了，我从未提及最近还有其他纪录片。（endlessly 无数次地，反复地）"}
+  - {text: "I've never mentioned. And it's golly, you know.", start: 1091.81, end: 1094.95, explain: "\"Golly\" is a polite word people use to show surprise, like \"wow\". The speaker says they have never talked about this before, and they are surprised.", zh: "我从来没提过。天哪，你知道的。（golly 天哪，感叹词）"}
+  - {text: "Is that like a, there's something, I don't know what word you would use for it, but there's some weird poetry in that idea.", start: 1095.79, end: 1106.99, explain: "\"Poetry\" here means a beautiful or deep feeling, not just writing poems. The speaker is saying the idea feels strange but also very beautiful and deep.", zh: "这感觉像是……有点什么，我找不到合适的词，但那个想法里有一种奇怪的诗意。（poetry 诗意）"}
+  - {text: "Yes, your poetry is my golly.", start: 1109.00, end: 1112.42, explain: "\"Golly\" is an old-fashioned word used to show surprise or excitement. It is like saying \"goodness\" or \"wow\". The speaker is joking that the other person's words are very surprising to them.", zh: "是的，你的诗意就是我的天哪。（poetry 诗意；golly 天哪）"}
+  - {text: "After the break, we see just how far the influence of Hollywood goes in the real world.", start: 1116.50, end: 1122.26, zh: "广告之后，我们将看看好莱坞的影响力在现实世界中究竟延伸到了多远。（influence 影响力）"}
+  - {text: "It's not, it's not much.", start: 1122.72, end: 1123.80, zh: "并没有，并没有多少。（not much 没多少）"}
+  - {text: "It's not great. Like almost none.", start: 1124.06, end: 1125.60, zh: "并不好，几乎可以忽略不计。（none 没有，零）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1126.12, end: 1129.54, explain: "\"Stay tuned\" means keep listening. \"Sponsors\" are companies that pay for the show. This is a standard sentence before an ad.", zh: "请留意接下来来自我们赞助商的通告和信息。（sponsors 赞助商）"}
+  - {text: "This message comes from Northwestern Mutual.", start: 1130.34, end: 1132.66, explain: "\"Northwestern Mutual\" is the name of a company. This is the start of an advertisement.", zh: "这条信息来自西北互惠保险。（Northwestern Mutual 西北互惠保险，美国保险公司）"}
+  - {text: "Life's a lot lately.", start: 1133.08, end: 1134.44, explain: "\"Life's a lot\" means life is very busy and full of problems right now. It is a short, informal way to say life is difficult.", zh: "最近生活挺忙碌的。（lately 最近）"}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1134.90, end: 1139.00, zh: "有些事你无法控制，但你可以用计划来掌控你的金钱。（control 控制）"}
+  - {text: "It all starts with Northwestern Mutual.", start: 1139.36, end: 1141.24, zh: "一切都要从西北相互保险公司说起。（Northwestern Mutual 西北相互保险公司）"}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1141.62, end: 1149.52, explain: "\"Clients\" are the people who use the company's services. \"Stability\" means being safe and steady. \"Uncertainty\" means not knowing what will happen next. The company says they help people stay safe when the economy is bad.", zh: "在近170年里，他们帮助客户在各种经济环境中取得成功，在不确定时期提供稳定。（economic environment 经济环境；uncertainty 不确定性）"}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1149.52, end: 1155.12, explain: "\"Get started\" means begin using their service. \"NM.com\" is the website address. This is the end of the ad.", zh: "请访问 NM.com 开始办理，即位于威斯康星州密尔沃基的西北相互人寿保险公司。（Milwaukee 密尔沃基；Wisconsin 威斯康星州）"}
+  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 1155.98, end: 1159.12, explain: "\"Charles Schwab\" is the name of a financial company. This is the start of another advertisement.", zh: "这条信息来自 NPR 的赞助商嘉信理财。（sponsor 赞助商；Charles Schwab 嘉信理财）"}
+  - {text: "When is the right time to sell a stock?", start: 1159.46, end: 1161.30, explain: "A \"stock\" is a small part of a company that you can buy and sell. This question asks when is the best time to sell that part.", zh: "什么时候是卖出股票的最佳时机？"}
+  - {text: "How do you protect against inflation?", start: 1161.70, end: 1163.36, zh: "你如何抵御通货膨胀？（inflation 通货膨胀）"}
+  - {text: "Financial decisions can be tricky, and often your own cognitive and emotional biases can lead you astray.", start: 1163.88, end: 1169.92, explain: "\"Cognitive\" means related to thinking. \"Biases\" are unfair or wrong ways of thinking. \"Lead you astray\" means to make you make a mistake. The sentence says that thinking and feelings can make you make bad money choices.", zh: "财务决策可能很棘手，而且往往是你自己的认知和情绪偏见会误导你。（cognitive 认知的；biases 偏见）"}
+  - {text: "Financial decoder, an original podcast from Charles Schwab, can help.", start: 1170.26, end: 1174.42, explain: "This is an advertisement. \"Financial Decoder\" is the name of a podcast. \"Charles Schwab\" is a big bank and investment company. The sentence says this podcast can help you with money.", zh: "嘉信理财出品的原创播客《财务解码器》可以帮到你。（Financial Decoder 财务解码器）"}
+  - {text: "Join host Mark Rebe as he offers practical solutions to help overcome the cognitive and emotional biases that may affect your investing decisions.", start: 1174.72, end: 1184.28, explain: "\"Practical\" means useful and real. \"Overcome\" means to beat or fix a problem. The host, Mark Rebe, gives real tips to help you stop making mistakes because of your feelings or thinking.", zh: "跟随主持人马克·雷贝，获取实用解决方案，帮助你克服可能影响投资决策的认知和情绪偏见。（Mark Rebe 马克·雷贝）"}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 1184.56, end: 1190.04, explain: "\"Subscribe\" means to sign up to get new episodes. \"Schwab .com slash Financial Decoder\" is the web address to find the show. The sentence tells you where to download and sign up.", zh: "请下载最新一集并订阅，网址是 Schwab.com 斜杠 Financial Decoder。（subscribe 订阅）"}
+  - {text: "This message comes from Capella University.", start: 1190.75, end: 1193.29, explain: "This is an advertisement. \"Capella University\" is the name of a school. The sentence says the next part of the show is paid for by this university.", zh: "这条信息来自卡佩拉大学。（Capella University 卡佩拉大学，美国一所私立大学）"}
+  - {text: "That spark you feel?", start: 1193.69, end: 1194.65, explain: "\"Spark\" means a small feeling of excitement or interest. The speaker asks if you feel that excited feeling.", zh: "你感受到的那种火花？（spark 火花，此处指灵感或动力）"}
+  - {text: "That's your drive for more.", start: 1194.95, end: 1196.33, zh: "那是你追求更多的动力。（drive 驱动力，动力）"}
+  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1196.67, end: 1202.63, explain: "\"FlexPath\" is a special way to study. \"Earn your degree\" means to finish school and get your diploma. \"Putting life on pause\" means stopping your normal life to study. The sentence says you can study at your own speed without stopping your life.", zh: "卡佩拉大学的 FlexPath 学习模式让你能按自己的节奏获得学位，无需让生活暂停。（FlexPath 灵活路径，指该校的一种学习模式；at your pace 按你的节奏）"}
+  - {text: "Learn more at capella .edu.", start: 1203.07, end: 1204.63, zh: "访问 capella.edu 了解更多。（capella.edu 卡佩拉大学官网域名）"}
+  - {text: "On December 19th, 1980, Karen Nussbaum, who started 9 to 5 The Organization, goes to a dark theater to watch 9 to 5 The Movie on the big screen.", start: 1204.63, end: 1217.45, explain: "\"Organization\" here means a group of people who work together for a shared goal. \"Theater\" is a place where you watch movies. The sentence says Karen Nussbaum went to a movie theater to see the film *9 to 5* on a big screen.", zh: "1980年12月19日，创办了“9 to 5”组织的卡伦·纳斯鲍姆走进一家昏暗的电影院，在大银幕上观看电影《朝九晚五》。（Karen Nussbaum 卡伦·纳斯鲍姆，美国工会组织者；9 to 5 The Organization “9 to 5”组织，指她创立的工会）"}
+  - {text: "The opening credits start, the song comes in.", start: 1218.09, end: 1221.07, explain: "\"Credits\" are the names of the people who made the movie, shown at the start or end. \"Opening credits\" are the first names shown. The sentence means the movie begins and the song starts playing.", zh: "片头字幕开始滚动，歌曲随之响起。（opening credits 片头字幕）"}
+  - {text: "You know the song.", start: 1221.23, end: 1221.77, zh: "你知道那首歌。（the song 那首歌，指《9 to 5》）"}
+  - {text: "Can you tell me, as someone who's leading 9 to 5, the union, it has to be a crazy moment, the first time you hear...", start: 1222.07, end: 1232.10, zh: "你能告诉我，作为“9 to 5”工会的领导者，第一次听到……那一定是一个疯狂的瞬间。（9 to 5 朝九晚五，指该工会名称；union 工会）"}
+  - {text: "You hear that song.", start: 1232.10, end: 1232.50, zh: "你听到了那首歌。（that song 那首歌，指《9 to 5》）"}
+  - {text: "That you hear it done, done, done, done.", start: 1232.62, end: 1234.18, explain: "This is a fragment. It continues a thought about hearing the song many times. \"Done\" here is used to mean \"finished\" or \"completed\" in a repetitive way, emphasizing how often she has heard it.", zh: "你会听到它被一遍又一遍地反复播放。（done 这里指反复播放或重复）"}
+  - {text: "The song was thrilling.", start: 1234.18, end: 1236.14, explain: "\"Thrilling\" means very exciting and making your heart beat fast. The sentence says the song was very exciting to listen to.", zh: "这首歌非常令人激动。（thrilling 令人兴奋的，激动人心的）"}
+  - {text: "Karen wasn't sure people would like the movie, but then there was this scene.", start: 1236.46, end: 1240.96, explain: "\"Scene\" is a part of a movie that happens in one place. The sentence says Karen was not sure if people would enjoy the movie, until a specific part happened.", zh: "凯伦不确定大家会不会喜欢这部电影，但随后出现了那个场景。（scene 场景，戏份）"}
+  - {text: "The copy machine is shooting papers everywhere.", start: 1242.23, end: 1244.47, explain: "\"Copy machine\" is a machine that makes copies of paper. \"Shooting\" here means throwing or sending out quickly. The sentence describes a machine throwing papers all over the place.", zh: "复印机把纸张到处乱喷。（copy machine 复印机；shooting 喷射，乱飞）"}
+  - {text: "Jane Fonda's character doesn't know how to stop it.", start: 1244.75, end: 1247.03, zh: "简·方达饰演的角色不知道该怎么关掉它。（Jane Fonda 简·方达，美国著名女演员）"}
+  - {text: "And a woman far down the row from me stands up and yells, Push the stop button.", start: 1247.77, end: 1254.23, explain: "\"Row\" is a line of seats in a theater. \"Stop button\" is the button that stops the machine. The sentence says a woman in a seat far away stood up and shouted to stop the machine.", zh: "离我好几排远的一位女士站起来大喊：按停止键。（row 排，行；stop button 停止按钮）"}
+  - {text: "You could just feel the electricity in the room because all of the women there are totally in this movie.", start: 1255.25, end: 1263.33, explain: "\"Electricity\" here means a strong, exciting feeling in the air, not real power. \"Totally in this movie\" means the women were very interested and excited about it. The sentence says the room felt very excited because all the women loved the movie.", zh: "你能感觉到房间里那种电流般的氛围，因为在场的所有女性都完全沉浸在这部电影里。（electricity 电流，此处指激动人心的氛围）"}
+  - {text: "They see themselves. 9 to 5 is the second biggest box office hit that year.", start: 1263.33, end: 1268.59, explain: "A \"box office hit\" is a movie that makes a lot of money from ticket sales. The sentence says the movie was very popular and successful.", zh: "她们看到了自己的影子。《朝九晚五》是当年票房第二高的电影。（box office hit 票房大卖的电影）"}
+  - {text: "Right after Star Wars, the empire strikes back.", start: 1268.77, end: 1271.33, zh: "紧随其后的是《星球大战：帝国反击战》。（Star Wars 星球大战；the empire strikes back 帝国反击战）"}
+  - {text: "Jane and Karen go on a tour with the film, and they're screening the movie in a bunch of theaters, having huge worker rallies, and using", start: 1271.79, end: 1279.19, explain: "A \"tour\" is a trip to many places to show a movie or perform. \"Rallies\" are big public meetings to support a cause. The sentence is cut off at the end.", zh: "简和凯伦带着电影进行巡回宣传，她们在多家影院放映电影，举办大型劳工集会，并且利用……（tour 巡回宣传；rallies 集会，示威活动）"}
+  - {text: "the song especially to promote organizing office workers.", start: 1279.19, end: 1282.97, explain: "To \"organize\" workers means to help them form a group to fight for better rights. This sentence continues from the previous one.", zh: "尤其是为了推动办公室职员组织起来。（organizing 组织，组建；office workers 办公室职员）"}
+  - {text: "It became a cultural phenomenon far beyond Hollywood.", start: 1283.45, end: 1287.17, explain: "A \"cultural phenomenon\" is something that becomes very famous and important in society. The movie changed how people thought, not just in the film industry.", zh: "它变成了一种文化现象，远远超出了好莱坞的范围。（cultural phenomenon 文化现象；Hollywood 好莱坞）"}
+  - {text: "After the movie, the number of 9 to 5 chapters doubles, and the union expands.", start: 1287.57, end: 1292.09, zh: "电影上映后，9 to 5 分会的数量翻了一番，工会也随之扩大。（9 to 5 chapters 9 to 5 分会；union 工会）"}
+  - {text: "Both groups are still active today.", start: 1292.09, end: 1294.21, zh: "这两个组织至今仍然活跃。（active 活跃的，仍在运作的）"}
+  - {text: "And both lobbied to pass marquee employment protection laws, like the Family Medical Leave Act and the Lily Ledbetter Fair Pay Act.", start: 1294.65, end: 1302.53, explain: "To \"lobby\" means to ask leaders to make new laws. \"Marquee\" here means very important or famous. The sentence lists two specific laws about worker rights.", zh: "这两个组织都曾游说通过标志性的就业保护法律，比如《家庭医疗假法》和《莉莉·莱德贝特公平薪酬法》。（lobbied 游说，争取支持；marquee 标志性的，著名的；Family Medical Leave Act 家庭医疗假法）"}
+  - {text: "But for Karen, there was something more subtle that they all accomplished also.", start: 1302.71, end: 1306.73, explain: "\"Subtle\" means small or hard to see, but still important. Karen says they achieved something quiet but deep.", zh: "但对凯伦来说，她们还共同完成了一件更微妙的事情。（subtle 微妙的，不易察觉的）"}
+  - {text: "9 to 5, the movement, was the start of women being perceived differently in the workplace.", start: 1307.29, end: 1313.31, explain: "To be \"perceived\" means to be seen or understood by others. The movement changed how people saw women at work.", zh: "9 to 5 运动标志着职场女性开始被以不同的眼光看待。（perceived 看待，感知；workplace 职场）"}
+  - {text: "They were starting to be treated more as professionals, less likely to be asked to sew up their bosses' pants.", start: 1313.47, end: 1319.61, explain: "\"Professionals\" are people with special skills and jobs. \"Sew up\" means to fix with a needle. The sentence says women were treated with more respect and not asked to do small, unskilled tasks.", zh: "她们开始更多地被视为专业人士，而不太可能被要求去缝老板的裤子。（professionals 专业人士；sew up 缝补）"}
+  - {text: "More likely to say no if someone did ask them to do that.", start: 1319.61, end: 1323.25, zh: "如果有人真的要求她们这么做，她们更有可能说“不”。（say no 拒绝，说不）"}
+  - {text: "The movement from the 1970s had a massive effect on the way women think of ourselves.", start: 1323.51, end: 1329.37, explain: "\"Massive\" means very big. \"The movement\" refers to the group of people who fought for women's rights in the 1970s. This sentence says that this group changed how women see themselves.", zh: "20世纪70年代的运动对女性如何看待自己产生了巨大的影响。（massive effect 巨大的影响）"}
+  - {text: "We have built generations of self -confident women who take care of ourselves.", start: 1329.83, end: 1336.15, explain: "\"Self-confident\" means feeling sure about yourself. \"Generations\" means many groups of people born one after another. The speaker says we have created many strong women who look after themselves. Note that the text has a space in \"self -confident\".", zh: "我们培养了一代又一代自信的女性，她们懂得照顾自己。（self-confident 自信的）"}
+  - {text: "But Karen really thought there would have been more progress made over the last 40 years.", start: 1336.59, end: 1341.77, zh: "但凯伦真的认为，在过去40年里，我们本应该取得更多的进步。（progress 进步）"}
+  - {text: "The main issues that 9 to 5 fought for, there's still a problem today.", start: 1342.11, end: 1345.81, zh: "《朝九晚五》当年争取的那些主要议题，如今依然存在问题。（9 to 5 朝九晚五，指电影名）"}
+  - {text: "Childcare, sexual harassment, equal pay.", start: 1346.41, end: 1349.09, explain: "\"Childcare\" means looking after children. \"Harassment\" means bad or unwanted behavior, often at work. \"Equal pay\" means getting the same money for the same job. This is a list of important topics.", zh: "比如托儿服务、性骚扰以及同工同酬。（Childcare 托儿服务；sexual harassment 性骚扰；equal pay 同工同酬）"}
+  - {text: "The pay disparity is largest for women of color.", start: 1349.33, end: 1352.85, explain: "\"Disparity\" means a difference or gap. \"Women of color\" is a term for women who are not white. This sentence says the pay gap is biggest for non-white women.", zh: "对于有色人种女性来说，薪酬差距是最大的。（pay disparity 薪酬差距；women of color 有色人种女性）"}
+  - {text: "And I want to acknowledge for a moment that this is a movie about white women.", start: 1353.09, end: 1356.59, explain: "\"Acknowledge\" means to admit or say something is true. The speaker admits that the film focuses only on white women.", zh: "我想在此刻承认，这是一部关于白人女性的电影。（white women 白人女性）"}
+  - {text: "Shout out to Maria Delgado for holding it down for all the women of color in the entire movie.", start: 1356.95, end: 1362.11, explain: "\"Shout out\" means to give credit or praise to someone. \"Holding it down\" means doing a good job or keeping things going. The speaker praises Maria Delgado for representing non-white women in the film.", zh: "特别致敬玛丽亚·德尔加多，她在整部电影中代表了所有有色人种女性。（Shout out to 特别致敬；holding it down 撑住场面，代表）"}
+  - {text: "Shout out Maria Delgado.", start: 1362.39, end: 1363.57, zh: "特别致敬玛丽亚·德尔加多。（Shout out 特别致敬）"}
+  - {text: "Now, in many ways, Karen says, we've actually gone backwards.", start: 1363.99, end: 1367.71, zh: "凯伦说，在很多方面，我们实际上已经退步了。（gone backwards 退步）"}
+  - {text: "You know, Karen has spent almost 50 years in the labor movement.", start: 1368.33, end: 1371.49, explain: "\"Labor movement\" is the group of workers who fight for better jobs and pay. This sentence says Karen has been part of this group for almost 50 years.", zh: "要知道，凯伦在劳工运动中已经度过了近50年。（labor movement 劳工运动）"}
+  - {text: "She ran the union.", start: 1371.59, end: 1372.29, zh: "她领导着工会。（union 工会）"}
+  - {text: "She was in the Department of Labor.", start: 1372.49, end: 1373.69, explain: "\"Department of Labor\" is a government office that makes rules about work. The sentence says she worked for this office.", zh: "她曾在劳工部任职。（Department of Labor 劳工部）"}
+  - {text: "And she says the period right after the movie, the 80s, undid a lot of the progress made in the 70s.", start: 1373.69, end: 1381.57, explain: "\"Undid\" means to take away or reverse something good. \"Progress\" means improvement. The speaker says the 1980s made things worse for workers compared to the 1970s.", zh: "她说，电影上映后的八十年代，摧毁了七十年代取得的许多进步。（undid 摧毁，逆转；progress 进步）"}
+  - {text: "When we started first organizing at 9 to 5, I never expected that we would see fewer people without sick days, that we would see fewer people without paid leave.", start: 1381.73, end: 1392.53, explain: "\"Organizing\" means bringing workers together to fight for better rights. \"Paid leave\" means time off work where you still get money. She did not expect that fewer people would have these benefits.", zh: "当我们最初为《朝九晚五》组织工会时，我从未想到我们会看到没有病假的人变少，或者没有带薪休假的人变少。（organizing 组织，组建；sick days 病假；paid leave 带薪休假）"}
+  - {text: "I certainly thought we would have paid maternity leave.", start: 1393.31, end: 1397.45, explain: "\"Maternity leave\" is time off for a mother after she has a baby. She thought this would be a normal right by now.", zh: "我肯定以为我们会拥有带薪产假。（maternity leave 产假）"}
+  - {text: "Karen blames the decline in labor protections on union participation.", start: 1397.73, end: 1401.73, explain: "\"Labor protections\" are laws that keep workers safe and fair. \"Union participation\" means how many people join worker groups. Karen thinks fewer people in unions caused the laws to get weaker.", zh: "凯伦将劳工保护措施的倒退归咎于工会参与度的下降。（labor protections 劳工保护；union participation 工会参与度）"}
+  - {text: "When the movie came out, almost 25 % of U .S.", start: 1401.73, end: 1405.49, zh: "当电影上映时，美国近25%的……（U.S. 美国）"}
+  - {text: "companies were unionized. Today, it's about 10%.", start: 1405.53, end: 1409.73, explain: "\"Unionized\" means the workers belong to a union. This is a fragment; it continues from the previous sentence about the past percentage.", zh: "公司加入了工会。如今，这一比例约为10%。（unionized 加入工会的）"}
+  - {text: "I think our job now is to make sure that this coming decade is not a repeat of the 1980s.", start: 1410.25, end: 1415.99, explain: "\"Decade\" means ten years. \"Repeat\" means to happen again. She wants the next ten years to be better than the 1980s.", zh: "我认为我们现在的任务是确保接下来的十年不会重演1980年代的局面。（repeat 重演）"}
+  - {text: "In 2021, Dolly Parton released an updated version of her original song.", start: 1416.80, end: 1420.98, explain: "\"Released\" means made available to the public. \"Updated version\" means a new mix or recording of the old song. Dolly Parton shared a new version of her song in 2021.", zh: "2021年，多莉·帕顿发布了她原曲的更新版本。（updated version 更新版本）"}
+  - {text: "It is called Five to Nine, in ode to all the extra hours women have to work.", start: 1421.12, end: 1427.14, explain: "The word \"ode\" is a mistake in the recording. It should be \"in ode to\" or more likely \"in honor of\". An \"ode\" is a poem that praises something. \"In ode to\" here means to show respect for or to celebrate. The sentence says the song is called \"Five to Nine\" to celebrate the extra work women do.", zh: "这首歌叫《五点到九点》，是为了致敬女性不得不额外工作的那些时间。（in ode to 致敬；extra hours 额外时间）"}
+  - {text: "She can certainly write a catchy tune, but jeez, it's depressing.", start: 1433.88, end: 1437.68, explain: "A \"catchy tune\" is a song that is easy to remember and fun to listen to. \"Jeez\" is a short way of saying \"goodness\" or \"oh my\", used to show surprise or frustration. The speaker says the song is fun, but the meaning is sad.", zh: "她确实能写出朗朗上口的旋律，但天哪，这内容太让人沮丧了。（catchy tune 朗朗上口的旋律；depressing 令人沮丧的）"}
+  - {text: "That's sort of the brilliance of this whole 9 to 5 thing.", start: 1438.36, end: 1441.38, explain: "\"Brilliance\" means great skill or cleverness. The speaker says the clever part of the \"9 to 5\" song is that it sounds happy but is actually about a hard situation.", zh: "这恰恰是《9 to 5》这首歌精妙之处所在。（brilliance 精妙之处；9 to 5 指朝九晚五的工作时间）"}
+  - {text: "Like, you're like dancing along, you're enjoying it, and then when you really listen to the lyrics, you're like, wait, this is a little messed up.", start: 1441.54, end: 1447.70, explain: "\"Lyrics\" are the words of a song. \"Messed up\" means wrong, bad, or not fair. The speaker says you dance to the song, but when you hear the words, you realize the situation is unfair.", zh: "就像你跟着节奏跳舞，听得正开心，但仔细一听歌词，你会觉得：等等，这有点不对劲啊。（dancing along 跟着跳舞；lyrics 歌词；messed up 不对劲，糟糕）"}
+  - {text: "Like, why does it have to be this way?", start: 1447.86, end: 1449.54, zh: "就像在问，为什么非得是这样呢？（have to 不得不，必须）"}
+  - {text: "And thus, the greatness of Dolly Parton.", start: 1450.18, end: 1452.90, explain: "\"Greatness\" means being very good or famous. This short sentence praises Dolly Parton for making a song that is both fun and deep.", zh: "这就是多莉·帕顿的伟大之处。（greatness 伟大之处；Dolly Parton 多莉·帕顿，美国著名乡村歌手）"}
+  - {text: "Okay, do not miss our Friday episode about the invention of a new type of tomato and why the produce section at all of our grocery stores is starting to look, I don't know, little fancy,", start: 1462.30, end: 1473.48, explain: "This is a trailer for another episode. \"Produce section\" is the part of a store where fresh fruit and vegetables are sold. \"Little fancy\" means a bit special or expensive-looking. The speaker asks you not to miss the Friday show about new tomatoes.", zh: "别忘了我们周五那期节目，讲的是新型番茄的发明，以及为什么现在超市生鲜区看起来有点……怎么说呢，挺高档的，（produce section 生鲜区；grocery stores 杂货店；fancy 高档的）"}
+  - {text: "you know, sungolds and cuties and all that.", start: 1473.74, end: 1475.40, explain: "\"Sungolds\" and \"cuties\" are specific brand names for types of tomatoes and oranges. The speaker lists these brands to show that the fruit section looks special now.", zh: "你知道，就是像 Sun Gold 和 Cuties 这些品种。（sungolds 一种黄色小番茄品种；cuties 一种柑橘品种）"}
+  - {text: "We have the story of what it takes to make a new fruit that you can trademark and where the money from that goes.", start: 1475.70, end: 1481.54, explain: "A \"trademark\" is a legal name or symbol that a company owns, so others cannot use it. The episode explains how to create a new fruit that a company can own and how the money works.", zh: "我们讲述了打造一种可以注册商标的新水果需要付出什么，以及这笔钱最后流向了哪里。（trademark 注册商标；fruit 水果）"}
+  - {text: "Scroll down in the Planet Money Beat to find that episode.", start: 1481.98, end: 1484.20, explain: "\"Scroll down\" means to move your finger or mouse down the screen to see more. \"Planet Money Beat\" is the name of a section on the website. This sentence tells you where to click to find the old show.", zh: "在 Planet Money Beat 栏目往下滚动就能找到那期节目。（Scroll down 向下滚动；Planet Money Beat 行星金钱快讯，该节目的一个栏目）"}
+  - {text: "Today's bonus show was produced by Nick Fountain and James Snead and edited by Mitra Kaboli.", start: 1484.80, end: 1489.38, explain: "\"Produced\" means made or created. \"Edited\" means cleaned up and put together. This sentence lists the people who made the show.", zh: "今天的特别节目由尼克·福滕和詹姆斯·斯尼德制作，米特拉·卡博利负责剪辑。（bonus show 特别节目；edited 剪辑）"}
+  - {text: "Cenari Glinton was my co -host.", start: 1489.86, end: 1491.68, explain: "A \"co-host\" is a person who presents the show with someone else. The word \"co-host\" is split by a space in the text. This sentence says who was with the speaker on the show.", zh: "塞纳里·格林顿是我的联合主持人。（co-host 联合主持人）"}
+  - {text: "He has a new book coming out called Blackonomics.", start: 1491.84, end: 1494.72, explain: "\"Coming out\" means being published or released to the public. This sentence says he has a new book that will be available soon.", zh: "他有一本新书即将出版，名叫《黑经济学》。（coming out 出版，发行）"}
+  - {text: "We can find more, including how to pre -order if you Google Blackonomics and Cenari Glinton.", start: 1494.90, end: 1499.44, explain: "\"Pre-order\" means to buy something before it is officially released. The word \"pre-order\" is split by a space. This sentence tells you how to find the link to buy the book early.", zh: "如果你想了解更多，包括如何预订，可以搜索“Blackonomics”和“Cenari Glinton”。（pre-order 预订）"}
+  - {text: "As always, thanks to our NPR Plus supporters to get bonus episodes and sponsor -free listening.", start: 1499.96, end: 1504.80, explain: "\"Sponsor-free\" means without ads from companies. This sentence thanks the people who pay for the service to get extra shows and no ads.", zh: "一如既往，感谢我们的NPR Plus支持者，让我们能收听特别节目并享受无广告体验。（sponsor-free 无广告的）"}
+  - {text: "I'm Sarah Gonzalez, this is NPR.", start: 1505.12, end: 1506.76, explain: "This is a station ident. It is a short phrase used to say who is speaking and which radio station it is.", zh: "我是萨拉·冈萨雷斯，这里是NPR。（NPR 美国国家公共广播电台）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1528.18, end: 1531.86, explain: "\"Stay tuned\" means to keep listening because more information is coming. This sentence tells you to listen for the next part, which has ads.", zh: "请留意接下来的公告和来自我们赞助商的留言。（sponsors 赞助商）"}
+  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1553.24, end: 1559.30, explain: "This is an advertisement for a university. \"FlexPath\" is the name of a study plan that lets you choose when to study. \"At your pace\" means you can go as fast or as slow as you want. \"Putting life on pause\" means stopping your normal daily life to study.", zh: "卡佩拉大学的FlexPath学习模式让你可以按自己的节奏获得学位，无需暂停生活。（FlexPath 灵活路径；at your pace 按你的节奏）"}
+  - {text: "Learn more at capella .edu.", start: 1559.60, end: 1561.20, zh: "请访问capella.edu了解更多。"}
 ---

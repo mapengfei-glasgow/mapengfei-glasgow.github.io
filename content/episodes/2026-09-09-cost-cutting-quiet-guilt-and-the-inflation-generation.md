@@ -9,377 +9,377 @@ audioDir: "2026-09-09-cost-cutting-quiet-guilt-and-the-inflation-generation"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-09-cost-cutting-quiet-guilt-and-the-inflation-generation/episode.mp3"
 totalDuration: 1666.1
 sentences:
-  - {text: "This message comes from Capital One Commercial Bank.", start: 0.00, end: 2.52}
-  - {text: "Access comprehensive solutions from a top commercial bank that prioritizes your needs today and goals for tomorrow.", start: 2.76, end: 10.06}
-  - {text: "Learn more at capital .one -slash -commercial, member FDIC.", start: 10.48, end: 14.64}
-  - {text: "This is Planet Money from NPR.", start: 15.99, end: 18.23}
-  - {text: "How are you doing?", start: 20.99, end: 21.73}
-  - {text: "We know what it's like out there.", start: 22.35, end: 23.33}
-  - {text: "We've seen the stats on the economy.", start: 23.45, end: 24.65}
-  - {text: "We also know the stats don't fully capture what you're all dealing with.", start: 25.21, end: 27.99}
-  - {text: "We know this because we asked you to tell us how you've been doing, and we heard back from many of you.", start: 28.29, end: 32.73}
-  - {text: "Hello, Planet Money. I'm Alan Miller from...", start: 32.95, end: 35.25}
-  - {text: "Hey, my name is Lindsay Cole.", start: 35.25, end: 36.01}
-  - {text: "I'm a professor. I'm Rick Schultz.", start: 36.49, end: 38.23}
-  - {text: "I'm retired. My name's Stephen Lloyd.", start: 38.39, end: 40.07}
-  - {text: "I'm 24. My name's Josh Buck.", start: 40.35, end: 42.11}
-  - {text: "I'm a truck driver.", start: 42.37, end: 43.09}
-  - {text: "The economy is treating so many of you, or listeners, very differently right now.", start: 43.29, end: 47.17}
-  - {text: "It is boom times for some, bleak for others.", start: 47.29, end: 49.75}
-  - {text: "It's kind of like the everything all at once economy.", start: 50.09, end: 52.81}
-  - {text: "77 % of Americans say they're stressed about their finances, but if you own assets like stocks or property, you might be feeling good right now.", start: 53.17, end: 60.67}
-  - {text: "Homes have appreciated so much.", start: 61.11, end: 63.07}
-  - {text: "And if you're open to selling your home...", start: 63.23, end: 65.85}
-  - {text: "That was a huge win when I sold it.", start: 65.85, end: 67.29}
-  - {text: "I got quite a nice pocket full of cash.", start: 67.57, end: 70.25}
-  - {text: "Nice. Unemployment is also relatively low overall, but the people who are unemployed right now are unemployed for way longer because turnover is so low right now.", start: 70.63, end: 80.93}
-  - {text: "It's hard to find a job or leave a job.", start: 81.03, end: 83.01}
-  - {text: "It is just absolutely brutal.", start: 83.23, end: 84.67}
-  - {text: "I have so many applications out there that I've just gone absolutely nowhere.", start: 85.01, end: 89.62}
-  - {text: "Wages are up a tiny bit, but not for everyone.", start: 90.08, end: 93.34}
-  - {text: "So my entire paycheck only covers my child care payment and my student loan payments a month.", start: 93.56, end: 97.94}
-  - {text: "That is it. And then it is gone.", start: 98.06, end: 99.64}
-  - {text: "Inflation also down from its peak to 3 .4%, but that still means that prices are 3 .4 % higher than they were this time last year.", start: 100.92, end: 109.52}
-  - {text: "And this is an average, right?", start: 109.88, end: 111.26}
-  - {text: "So the price changes for specific goods can be much less than that or much, much more.", start: 111.38, end: 117.52}
-  - {text: "Two years ago, I could get a two -liter of brand name soda on sale for a dollar.", start: 118.24, end: 124.42}
-  - {text: "Today it's on sale for 350.", start: 124.88, end: 126.12}
-  - {text: "That doesn't feel like three or 4%.", start: 126.68, end: 128.86}
-  - {text: "You know, it feels like eight or 15 or in some cases 100%.", start: 129.50, end: 135.12}
-  - {text: "After hearing from you, a few themes popped up.", start: 135.12, end: 137.68}
-  - {text: "The economy is pushing some people into hyper -priced consciousness and others into the most comfortable period of their lives.", start: 138.02, end: 144.94}
-  - {text: "And then there are those whose entire economic views are being shaped by this moment.", start: 145.22, end: 149.34}
-  - {text: "Like I was just like thrust into a world like that.", start: 149.68, end: 152.44}
-  - {text: "This is 17 -year -old Leo Vamaca who spends so much of his time thinking about.", start: 152.72, end: 157.32}
-  - {text: "Honestly, spending money. How much money I have.", start: 157.66, end: 161.35}
-  - {text: "We're gonna spend a little time with Leo who is part of the newest generation of consumers.", start: 161.71, end: 165.69}
-  - {text: "Leo's a high school senior and he has two jobs.", start: 166.11, end: 168.51}
-  - {text: "I've been working since, well, I guess I've been working since I was 13, but a lot of it was under the table, I would say.", start: 168.51, end: 176.61}
-  - {text: "Uh -huh. You sure you want to tell us that?", start: 176.73, end: 178.69}
-  - {text: "Yeah, yeah, you know, like scorekeeping hockey games and stuff, that was a lot of like what I was doing.", start: 178.91, end: 184.15}
-  - {text: "When Leo started working, making money and spending money, it was four years ago when we had peak inflation.", start: 184.55, end: 191.07}
-  - {text: "Inflation that so many of us had never seen in our lives.", start: 191.27, end: 194.93}
-  - {text: "So much of what he's known is this era of inflation.", start: 194.93, end: 198.05}
-  - {text: "Even as I make more money, I'm like, where is it going?", start: 198.37, end: 201.03}
-  - {text: "Where is it going?", start: 201.19, end: 201.65}
-  - {text: "Because the prices increase, you know.", start: 201.85, end: 203.99}
-  - {text: "Oh, well you know.", start: 204.41, end: 205.53}
-  - {text: "Leo says he and his friends have started doing some old school coupon clipping.", start: 205.87, end: 210.39}
-  - {text: "It definitely caught on this year and has become much more of a thing.", start: 210.73, end: 214.65}
-  - {text: "Are you guys like a coupon crew then?", start: 214.85, end: 216.43}
-  - {text: "Yeah, I mean you could say that.", start: 216.59, end: 217.73}
-  - {text: "We'll go to like the same CVS, right?", start: 217.87, end: 221.13}
-  - {text: "We'll like caravan over there together.", start: 221.25, end: 222.95}
-  - {text: "The latest price conscious inflation generation has entered the economy.", start: 222.95, end: 228.27}
-  - {text: "Hello and welcome to Planet Money.", start: 228.93, end: 230.19}
-  - {text: "I'm Sara Gonzalez and I'm Erica Barris and we are checking in with you, our Planet Money community.", start: 230.37, end: 235.51}
-  - {text: "Because we're all trying to figure out this confusing economic moment.", start: 235.69, end: 239.39}
-  - {text: "Today on the show, we hear about your extreme cost cutting, the quiet guilt you're feeling from your own economic luck and consumer habits forming in the younger generation.", start: 240.03, end: 250.91}
-  - {text: "When you grow up around economic volatility, it can affect your beliefs and your behavior for the rest of your life.", start: 250.91, end: 257.65}
-  - {text: "This message comes from LinkedIn.", start: 295.85, end: 297.89}
-  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 298.33, end: 302.71}
-  - {text: "It's even harder to do it efficiently.", start: 303.05, end: 304.37}
-  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 304.81, end: 308.73}
-  - {text: "With LinkedIn, simplify your sales, marketing and hiring so that you can actually run your small business.", start: 309.03, end: 315.27}
-  - {text: "Learn more at LinkedIn .com slash Planet Money show.", start: 315.67, end: 319.11}
-  - {text: "When we asked the listeners to check in, we did hear from a decent amount of you who said, you're actually doing pretty good in this economy.", start: 319.83, end: 326.81}
-  - {text: "But we also heard from many of you who are struggling.", start: 327.31, end: 330.37}
-  - {text: "You're changing your behavior and consumer habits in big ways.", start: 330.71, end: 334.09}
-  - {text: "I mean, honestly, if I'm being honest, when we read your email unanimously, we were like, wait, a professor's going through all of this and dealing with all of this.", start: 334.43, end: 345.56}
-  - {text: "Yeah. So I think there's a lot of misconceptions around how much money people think professors make.", start: 345.70, end: 352.12}
-  - {text: "This is listener Lindsey Cole who wrote into us.", start: 352.24, end: 354.50}
-  - {text: "And I'm sure, you know, if you worked at an Ivy League, you make decent money.", start: 354.62, end: 358.46}
-  - {text: "But most of us make probably what public school teachers make.", start: 358.54, end: 363.48}
-  - {text: "At least that's what she's been making, teaching forensic psychology at a small liberal arts college in the Northeast.", start: 363.82, end: 369.62}
-  - {text: "Her husband is also a full -time professor at a different university, so dual income, but it's been very tight for their family.", start: 370.04, end: 376.94}
-  - {text: "So I have two boys.", start: 377.34, end: 377.96}
-  - {text: "They have a six -year -old and a four -year -old.", start: 378.38, end: 379.68}
-  - {text: "They're very active boys.", start: 380.18, end: 381.78}
-  - {text: "Currently, they like to stand outside in Spider -Man costumes, hoping cars honk and, you know, kids alone.", start: 382.22, end: 387.50}
-  - {text: "It's expensive. You know, we know things are more expensive.", start: 387.74, end: 391.50}
-  - {text: "Inflation has been sticky.", start: 391.84, end: 393.24}
-  - {text: "I feel it every day.", start: 393.48, end: 394.74}
-  - {text: "But Lindsey in particular stood out to us because what she deals with on a day -to -day basis takes us beyond the numbers and what the stats miss.", start: 395.14, end: 402.92}
-  - {text: "Take wages, for example.", start: 403.28, end: 404.48}
-  - {text: "Technically, nominal wages have gone up, meaning the literal dollar amount on paychecks, but just slightly.", start: 404.86, end: 410.72}
-  - {text: "They're growing at 3 .1%.", start: 411.00, end: 412.52}
-  - {text: "But when you factor in inflation, which is 3 .4 % right now, there is no real wage growth on average.", start: 412.52, end: 419.66}
-  - {text: "We collectively are making less money when you factor in inflation.", start: 419.82, end: 422.94}
-  - {text: "And of course, not everyone's seeing any wage growth at all.", start: 423.50, end: 426.86}
-  - {text: "I haven't gotten even a cost of living adjustment, and I don't know how long, like, and we know how much inflation has been.", start: 426.86, end: 433.78}
-  - {text: "I mean, I haven't gotten...", start: 433.94, end: 435.06}
-  - {text: "We've gotten costs of living adjustments of, like, 2 .5%.", start: 435.06, end: 438.46}
-  - {text: "And you're like, hmm, inflation's more than that.", start: 438.46, end: 442.38}
-  - {text: "Absolutely. And we're not even getting that.", start: 442.40, end: 443.92}
-  - {text: "It's literally just stagnant.", start: 444.08, end: 446.28}
-  - {text: "And actually this summer, she kind of got a pay cut.", start: 446.58, end: 449.78}
-  - {text: "She used to get a flat fee for teaching a summer course, but the college changed the pay structure to a per -student rate.", start: 450.14, end: 456.80}
-  - {text: "$400 for every student she brings in.", start: 457.24, end: 459.38}
-  - {text: "The competitiveness that it's going to create amongst faculty of, you know, coming and you'll basically get an A in my class.", start: 459.62, end: 466.54}
-  - {text: "So there'll be a lot less work.", start: 466.76, end: 468.04}
-  - {text: "Oh, the easy A classes.", start: 468.56, end: 469.52}
-  - {text: "Those ones are going to do great.", start: 469.82, end: 471.36}
-  - {text: "Yeah. So I'm just...", start: 471.66, end: 472.62}
-  - {text: "Just be that professor, Lindsay.", start: 472.62, end: 473.72}
-  - {text: "Well, I mean, you know, you have standards for yourselves then.", start: 473.86, end: 478.22}
-  - {text: "But when it's really digging your livelihood, it's hard not to feel the pull of that.", start: 478.84, end: 485.16}
-  - {text: "Lindsay got paid less this summer for teaching two classes than she got last summer for teaching one class.", start: 485.58, end: 491.04}
-  - {text: "And she was really banking on the full summer pay because she's got this van.", start: 491.24, end: 496.74}
-  - {text: "It is finicky. My kids call it ghost van because it'll turn itself on and off randomly.", start: 497.54, end: 503.86}
-  - {text: "The car turns on and off?", start: 504.50, end: 505.88}
-  - {text: "Oh, yeah. No, no, the car.", start: 505.96, end: 507.40}
-  - {text: "The car turns on and off.", start: 507.62, end: 508.80}
-  - {text: "Sometimes I sit in a parking lot for 10 minutes trying to get the car to just stay on or stay off.", start: 509.12, end: 514.24}
-  - {text: "What a waste of time.", start: 514.40, end: 515.10}
-  - {text: "And then the AC on the van just busted this summer.", start: 515.42, end: 519.16}
-  - {text: "They had plans to finally put a down payment on a new car.", start: 519.54, end: 522.76}
-  - {text: "But when the summer pay structure changed, that went out the window, which is always open now.", start: 522.96, end: 527.78}
-  - {text: "So we're driving around with the windows down.", start: 528.02, end: 530.10}
-  - {text: "We had like a week where it was like 100 degrees outside.", start: 530.26, end: 532.46}
-  - {text: "And when I went to pick up the kids from camp and daycare, I had like packs of cold washcloths for them to hang on their necks", start: 532.46, end: 540.34}
-  - {text: "while we were in the car so they wouldn't get overheated.", start: 540.34, end: 542.52}
-  - {text: "Lindsay says people are often surprised to hear that two full -time college professors can't afford a setback like a busted car or even a simple", start: 542.88, end: 551.98}
-  - {text: "pleasure like a play date for their kids.", start: 551.98, end: 553.96}
-  - {text: "That stings a little bit, right?", start: 554.36, end: 556.26}
-  - {text: "Of like, ah, but working professionals, like I should be able to let my kid go with their friend to the trampoline park like every once in a while.", start: 556.54, end: 565.18}
-  - {text: "Lindsay feels like she and her husband followed all the rules and did everything they were supposed to do.", start: 565.64, end: 571.70}
-  - {text: "We should be on the upswing of the K -shaped economy.", start: 571.90, end: 574.94}
-  - {text: "And we're just not.", start: 575.42, end: 577.12}
-  - {text: "Are you just naturally interested in econ because you've thrown around some econ a couple of times?", start: 577.56, end: 583.06}
-  - {text: "Yeah, I mean, I probably learned it from you guys, to be honest.", start: 583.26, end: 585.78}
-  - {text: "All right, the K -shaped economy, which many economists say we have right now, though there are some skeptics, is basically one economy with two different experiences.", start: 586.38, end: 594.38}
-  - {text: "Some people are spending big, increasing their wealth and on track to continue.", start: 594.82, end: 598.28}
-  - {text: "So they're on the top half of the K with the arm of the K going up, while others have slower spending growth, stagnating or decreasing wages", start: 598.54, end: 606.70}
-  - {text: "and growing debt and are on track to continue that.", start: 606.70, end: 610.18}
-  - {text: "So they're the bottom half of the K with the leg of the K going down.", start: 610.28, end: 613.56}
-  - {text: "Now, Lindsay and her family are not at the very bottom of the K.", start: 613.84, end: 617.30}
-  - {text: "They own a house, they can afford childcare so they can work, but they are struggling.", start: 617.42, end: 621.58}
-  - {text: "I think it's also kind of crazy when you hear people like politicians saying everything is fine because this one group of people is doing amazing and look, they are spending.", start: 622.02, end: 633.20}
-  - {text: "And like, whoa, yeah, good for the overall economy.", start: 633.60, end: 635.60}
-  - {text: "But I'm not taking a shower tonight, right?", start: 636.00, end: 639.46}
-  - {text: "Because I'm trying to keep my water building.", start: 639.62, end: 641.50}
-  - {text: "Yeah, Lindsay and her family, they're not spending big right now.", start: 642.00, end: 645.30}
-  - {text: "They're actually rationing. Rationing the kid's snacks, electricity, the hot water.", start: 645.44, end: 650.76}
-  - {text: "Yeah, so the kids used to take separate baths that now they're forced to take together bath because I'm just like, we have to get through until the gas prices drop because I don't want to pay.", start: 651.12, end: 663.22}
-  - {text: "The hot water in Lindsay's house runs on heating oil and the high price of crude oil right now is also keeping heating oil prices high.", start: 663.66, end: 670.94}
-  - {text: "It costs like $1 ,300 to fill up the tank in her house.", start: 671.30, end: 674.08}
-  - {text: "And I think I told you, I've switched up some of our oven usage too to try to keep the electrical costs down.", start: 674.38, end: 680.90}
-  - {text: "This is what Lindsay wrote to us about, her oven usage.", start: 680.90, end: 685.14}
-  - {text: "And I don't think I'm overstating this.", start: 685.70, end: 687.12}
-  - {text: "Lindsay basically plans her whole life around when she's going to turn on her oven because Lindsay likes good bread, not cheapo sliced bread.", start: 687.70, end: 696.12}
-  - {text: "So she's baking their family's bread and muffins to try to save money.", start: 696.26, end: 700.14}
-  - {text: "And I had rationalized keeping it going because I was like, I'm saving us so much money from not buying that $10 loaf of bread when I go to the grocery store.", start: 700.36, end: 711.04}
-  - {text: "And then somebody said to me, yeah, but it costs so much money to run your oven at like 450, 500 degrees.", start: 711.36, end: 716.56}
-  - {text: "And it kind of clicked.", start: 716.76, end: 717.56}
-  - {text: "I was like, oh, am I even saving us any money by doing this?", start: 717.68, end: 721.38}
-  - {text: "And so I pulled up last year's bill.", start: 721.80, end: 723.70}
-  - {text: "I pulled up this year's bill.", start: 723.86, end: 725.06}
-  - {text: "And then I was paying attention to the actual usage like the kilowatt hours.", start: 725.26, end: 728.34}
-  - {text: "She's tracking their family's kilowatt per hour usage.", start: 728.70, end: 731.98}
-  - {text: "Not because she's like into this stuff because she needs to squeeze out any cost savings she can.", start: 732.34, end: 737.74}
-  - {text: "Or if there's a particularly cooler day coming, like I'll save the baking for that day.", start: 737.74, end: 741.66}
-  - {text: "No, you do not.", start: 742.12, end: 743.46}
-  - {text: "I do. I absolutely do.", start: 743.68, end: 745.14}
-  - {text: "This is, you're doing so many mental gymnastics.", start: 746.20, end: 751.26}
-  - {text: "It's the water usage.", start: 752.04, end: 753.10}
-  - {text: "It's when to use the oven.", start: 753.40, end: 754.58}
-  - {text: "I mean, you know, because you teach psychology.", start: 755.42, end: 757.64}
-  - {text: "But this is what they call the cognitive burden.", start: 758.26, end: 761.56}
-  - {text: "The cognitive load, yeah.", start: 761.58, end: 762.50}
-  - {text: "Yeah, for sure. The cognitive tax for trying to make the finances work for your household.", start: 762.78, end: 768.16}
-  - {text: "It is, yeah. The cognitive tax isn't just about the mental load for Lindsey.", start: 768.64, end: 773.30}
-  - {text: "It's about all the things she's not doing for the larger economy because her brain and time are so tied up trying to save money.", start: 773.60, end: 780.80}
-  - {text: "Like the energy you're expending is taking away from other things that you could be doing.", start: 781.30, end: 787.30}
-  - {text: "Like it's like you are less good at doing your job because you're dealing with all this other stuff.", start: 787.42, end: 794.74}
-  - {text: "Yeah, less good at a lot of things, right?", start: 795.22, end: 796.92}
-  - {text: "But if you could be saving $2 here and $2 there, like I think those drops in the bucket will add up at some point.", start: 796.92, end: 803.20}
-  - {text: "And I do feel this sense of guilt about not making the effort where the effort could be made to make a difference for my family.", start: 803.66, end: 813.14}
-  - {text: "And this is why her email really stood out to us because you have a professor here putting so much mental energy and her analytical research skills towards questions like,", start: 813.58, end: 821.44}
-  - {text: "does it save money to bake bread versus buy it when you factor in electricity costs in the middle of the summer?", start: 821.60, end: 826.52}
-  - {text: "And that cognitive tax, it is worse for people who are much lower income than Lindsey.", start: 827.02, end: 831.52}
-  - {text: "But even for Lindsey, there is kind of a silver lining that this odd economy is offering.", start: 833.14, end: 839.64}
-  - {text: "Like, I know Trump keeps saying, how's your 401k doing?", start: 840.12, end: 843.04}
-  - {text: "I'm like, it's doing great, but what do I do with that?", start: 843.66, end: 846.83}
-  - {text: "Like, I can't use that for another 30 or 40 years.", start: 846.99, end: 849.27}
-  - {text: "So like, yay, my retired self.", start: 849.49, end: 852.15}
-  - {text: "You said your retired self is looking pretty good though.", start: 853.05, end: 855.41}
-  - {text: "Well, I mean, compound interest, right?", start: 855.41, end: 858.79}
-  - {text: "Yeah, and speaking of retirement?", start: 859.15, end: 861.43}
-  - {text: "Yeah, we're very, very, very lucky.", start: 861.91, end: 863.63}
-  - {text: "There are some real winners in this economy, like some people whose retirement accounts are allowing them to live more comfortably than they even like to admit.", start: 863.91, end: 871.93}
-  - {text: "Also, we hear more from 17 -year -old Leo and the potential generational impacts of living through inflation spikes.", start: 872.35, end: 879.93}
-  - {text: "That's after the break.", start: 880.35, end: 881.23}
-  - {text: "This message comes from NPR sponsor Charles Schwab Financial decisions can be tricky.", start: 890.77, end: 896.15}
-  - {text: "Your biases can lead you astray.", start: 896.55, end: 898.43}
-  - {text: "Financial Decoder, an original podcast from Charles Schwab, can help.", start: 898.87, end: 902.71}
-  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 903.01, end: 908.41}
-  - {text: "This message comes from Northwestern Mutual.", start: 909.07, end: 911.37}
-  - {text: "Life's a lot lately.", start: 911.75, end: 913.17}
-  - {text: "Some things you can't control, but you can control your money with a plan.", start: 913.59, end: 917.69}
-  - {text: "It all starts with Northwestern Mutual.", start: 918.11, end: 919.97}
-  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 920.33, end: 928.27}
-  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 928.75, end: 933.85}
-  - {text: "This message comes from LinkedIn.", start: 934.77, end: 936.19}
-  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 936.65, end: 941.01}
-  - {text: "It's even harder to do it efficiently.", start: 941.31, end: 942.69}
-  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 943.11, end: 947.07}
-  - {text: "With LinkedIn, simplify your sales, marketing, and hiring so that you can actually run your small business.", start: 947.37, end: 953.57}
-  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 953.95, end: 957.43}
-  - {text: "This message comes from Active Campaign.", start: 957.97, end: 959.97}
-  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 960.55, end: 964.99}
-  - {text: "That's Active Intelligence by Active Campaign.", start: 965.33, end: 967.77}
-  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 968.11, end: 973.53}
-  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 973.83, end: 978.33}
-  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 978.33, end: 983.35}
-  - {text: "Start free at ActiveCampaign .com.", start: 983.63, end: 985.93}
-  - {text: "Okay, so some of you who wrote in were more the lenses of the economic moment, you know, really jumping through hoops to make money stretch.", start: 987.42, end: 994.68}
-  - {text: "Others were more of a rick.", start: 995.38, end: 997.24}
-  - {text: "Retired and feeling good.", start: 997.68, end: 999.26}
-  - {text: "You said that a lot of your elderly friends, your words, are in a similar situation financially as you.", start: 999.62, end: 1007.92}
-  - {text: "And then you put, and we do not talk about it much.", start: 1007.92, end: 1010.82}
-  - {text: "Like that's not a conversation.", start: 1011.54, end: 1013.70}
-  - {text: "No. No, no. This is Rick Schultz who said he is very, very, very lucky right now.", start: 1014.04, end: 1019.02}
-  - {text: "Well, yeah, we are.", start: 1019.38, end: 1020.52}
-  - {text: "We're very, very fortunate.", start: 1020.76, end: 1021.88}
-  - {text: "I mean, you emailed us and said, your income exceeds your daily expenditures by nearly $2 ,000 a month.", start: 1022.34, end: 1029.92}
-  - {text: "Yep, we're pleased. On a fixed income, that's pretty good.", start: 1030.28, end: 1033.36}
-  - {text: "Yeah, we're very, very, very lucky.", start: 1033.78, end: 1035.50}
-  - {text: "Rick is not rolling in it.", start: 1035.84, end: 1037.50}
-  - {text: "Okay, he's still paying off his house, paying a mortgage.", start: 1037.50, end: 1040.04}
-  - {text: "He doesn't feel at all stressed about finances, but he notices that prices are high.", start: 1040.50, end: 1045.88}
-  - {text: "Well, eating out, you see that, and you see filling up your daughter's minivan is a lot more expensive.", start: 1046.26, end: 1054.30}
-  - {text: "Do you fill up your daughter's minivans?", start: 1054.80, end: 1056.54}
-  - {text: "Oh, on occasion. That's a good dad.", start: 1057.34, end: 1060.50}
-  - {text: "How old is your daughter?", start: 1061.38, end: 1062.40}
-  - {text: "She is, I'm supposed to know this, aren't I?", start: 1063.08, end: 1066.04}
-  - {text: "I think she's 38.", start: 1066.22, end: 1067.06}
-  - {text: "Now I'm going to get that wrong and I'm going to get in big trouble.", start: 1067.50, end: 1069.72}
-  - {text: "It's okay, we'll correct it.", start: 1069.90, end: 1071.04}
-  - {text: "We'll change it later.", start: 1071.08, end: 1071.78}
-  - {text: "His daughter is 41.", start: 1072.06, end: 1073.48}
-  - {text: "He checked his little sheet of important dates on his phone for that one.", start: 1073.80, end: 1076.88}
-  - {text: "And one of the reasons we wanted to talk to Rick is because he represents a version of the American dream and retirement that is fleeting,", start: 1077.54, end: 1085.86}
-  - {text: "the fulfillment of a kind of economic promise that for younger generations feels broken.", start: 1086.40, end: 1091.28}
-  - {text: "When Rick emailed us, he wrote, quote, One under -reported economic story is the number of older retired people that are living very good economic lives in their old age.", start: 1091.74, end: 1101.46}
-  - {text: "And there are a few reasons for that.", start: 1101.64, end: 1103.48}
-  - {text: "One, real estate. If you own property, your homes have probably gone up in value.", start: 1103.88, end: 1108.24}
-  - {text: "Another is the stock market.", start: 1108.62, end: 1110.06}
-  - {text: "If you have money in there, I mean the stock market over the past several years is on an incredible historic streak.", start: 1110.38, end: 1116.82}
-  - {text: "It is just up, up, up, up, up, up, up.", start: 1116.96, end: 1120.40}
-  - {text: "And if you're retired, like Rick, that's probably where your money is.", start: 1120.48, end: 1125.06}
-  - {text: "IRAs, individual retirement accounts, 401Ks.", start: 1125.74, end: 1128.58}
-  - {text: "Rick has some of that.", start: 1128.92, end: 1129.50}
-  - {text: "But also, he has a pension.", start: 1129.92, end: 1131.62}
-  - {text: "Two, actually. He worked for the state of Kansas and the state of Iowa doing mental health and disability services jobs.", start: 1132.34, end: 1139.10}
-  - {text: "So you have pensions for the rest of your life from both states?", start: 1139.54, end: 1142.38}
-  - {text: "Yes, yes. Rick says there are some trade -offs to working in public service jobs.", start: 1143.16, end: 1148.52}
-  - {text: "It's not a path to riches necessarily, but he says it is a path to security.", start: 1148.64, end: 1154.00}
-  - {text: "The salaries are not that wonderful.", start: 1154.20, end: 1155.72}
-  - {text: "Benefits are great. Rick also invested in a personal retirement account.", start: 1156.58, end: 1161.74}
-  - {text: "He said he and his wife invested early in their mid -30s and quite substantially.", start: 1162.06, end: 1166.52}
-  - {text: "Even when it was difficult for us to do so.", start: 1167.10, end: 1169.16}
-  - {text: "Even when it was a challenge for us financially.", start: 1169.46, end: 1172.22}
-  - {text: "The standard investing advice has always been to put money into a retirement account as early as possible and choose risky investments in the stock market", start: 1172.78, end: 1180.58}
-  - {text: "when you're still years away from retirement than less risky investments like treasuries when retirement is around the corner.", start: 1180.58, end: 1186.38}
-  - {text: "And that is what Rick did.", start: 1186.66, end: 1188.28}
-  - {text: "So a part of him feels like, yeah, he made the sacrifices early.", start: 1188.76, end: 1191.92}
-  - {text: "But also, he kind of just got lucky that he was born and he retired at the right time when the stock market experienced these gigantic booms and his money compounded.", start: 1192.54, end: 1202.76}
-  - {text: "Rick feels a lot of guilt over this actually because he says what he was able to do in his 30s, he doesn't think people in their 30s today can do.", start: 1203.00, end: 1211.26}
-  - {text: "We could figure out how to squeeze the money out of our budget but nowadays the cost of living has gone up so much.", start: 1211.58, end: 1219.62}
-  - {text: "There's so much less flexibility for younger people to do the same kind of investing.", start: 1220.08, end: 1225.96}
-  - {text: "We heard from a lot of you who felt this exact same way.", start: 1226.32, end: 1230.14}
-  - {text: "You said you were doing fine, but your kids are struggling living at home or they want to do some of the big milestones like getting engaged by a house but they're just not there financially.", start: 1230.30, end: 1240.42}
-  - {text: "And when you hear people talk about, well, the younger generation, they just have to pull themselves up from their bootstraps.", start: 1241.32, end: 1247.64}
-  - {text: "Do the math. That's what I like to tell people.", start: 1248.22, end: 1251.34}
-  - {text: "Do the math. It's not the same.", start: 1251.54, end: 1253.46}
-  - {text: "You like to think it's the same, it's not the same.", start: 1254.64, end: 1256.76}
-  - {text: "All you have to do is look at rent and look at what the minimum wage is.", start: 1257.52, end: 1261.82}
-  - {text: "Rick is refreshingly thoughtful about this stuff.", start: 1262.36, end: 1265.16}
-  - {text: "He says he got where he is now not just through smart decisions that he made and pensions and investments, but also because of these programs that he and his wife benefited from.", start: 1265.46, end: 1274.38}
-  - {text: "Like, Rick got a federal first -time homebuyer's tax credit.", start: 1274.90, end: 1278.98}
-  - {text: "Well, I looked it up before I called you and said, did they still have that?", start: 1279.22, end: 1282.78}
-  - {text: "No, they don't have that anymore.", start: 1283.32, end: 1284.62}
-  - {text: "They haven't had it for years.", start: 1284.70, end: 1286.04}
-  - {text: "There are some homebuyer tax credits still, but the one that Rick got doesn't exist anymore.", start: 1286.38, end: 1290.70}
-  - {text: "Another thing, Rick's wife, she got a job that qualified for student loan forgiveness.", start: 1291.04, end: 1295.00}
-  - {text: "People talk about student loan forgiveness as like a sin now, but we had access to that.", start: 1295.00, end: 1300.36}
-  - {text: "I didn't realize. It does feel like it's like a new thing.", start: 1300.60, end: 1303.46}
-  - {text: "I didn't even know you guys took out loans in the 70s that that college was like 100 bucks a month.", start: 1303.74, end: 1307.96}
-  - {text: "Yeah, well, see, that's the other thing.", start: 1308.32, end: 1309.68}
-  - {text: "Higher education was cheap.", start: 1309.90, end: 1310.90}
-  - {text: "There was bad unemployment in 1975 when Rick graduated college.", start: 1311.30, end: 1314.88}
-  - {text: "He could only get a minimum wage job, but he lived and saved.", start: 1315.10, end: 1319.40}
-  - {text: "Just fine with that, he says.", start: 1319.66, end: 1320.96}
-  - {text: "Can you imagine? That would never happen today.", start: 1321.42, end: 1324.28}
-  - {text: "Meaning like you could rent your own apartment and buy your groceries?", start: 1324.82, end: 1328.12}
-  - {text: "Oh yeah, I did when I graduated, and you could make it.", start: 1328.68, end: 1331.92}
-  - {text: "You could find a way to make it.", start: 1332.22, end: 1333.66}
-  - {text: "So much of what was available to Rick has to do with timing.", start: 1333.88, end: 1337.46}
-  - {text: "Yeah, just like what was going on in the economy, what programs existed when he entered the labor market and had all of his big financial milestones.", start: 1337.76, end: 1345.26}
-  - {text: "Think of all the people who entered the labor market in 2008 -2009 during the financial crisis.", start: 1345.78, end: 1351.52}
-  - {text: "As a generation, millennials started working at depressed wages.", start: 1351.52, end: 1355.14}
-  - {text: "It took more than a decade for them to catch up.", start: 1355.28, end: 1357.74}
-  - {text: "And many still haven't caught up.", start: 1357.96, end: 1359.68}
-  - {text: "Literally, your economic fate can come down to just the year you were born, which brings us back to Leo, the 17 -year -old who has only ever known high -price bikes.", start: 1359.80, end: 1370.00}
-  - {text: "For Leo, gas has been the real killer.", start: 1370.44, end: 1372.86}
-  - {text: "Yeah, when gas hit $5 a gallon and I was going to the pump and I was like feeling it like in my...", start: 1373.10, end: 1378.68}
-  - {text: "I was like, no, stop growing up.", start: 1378.68, end: 1380.20}
-  - {text: "Oh, I was waiting for the click and it's like still going up.", start: 1380.20, end: 1383.34}
-  - {text: "Leo lives with his parents, right?", start: 1383.62, end: 1385.88}
-  - {text: "So he doesn't have to pay rent.", start: 1386.00, end: 1387.42}
-  - {text: "He doesn't have bills, but his parents don't pay for everything.", start: 1387.54, end: 1390.02}
-  - {text: "They have drawn a very defined line on we're not paying for any of your food.", start: 1390.34, end: 1395.02}
-  - {text: "If you're getting food outside of the house, it's you're paying for it.", start: 1395.36, end: 1399.18}
-  - {text: "Hence the two jobs and the coupon clipping.", start: 1399.26, end: 1401.54}
-  - {text: "Teenagers got to eat.", start: 1401.90, end: 1402.66}
-  - {text: "And the reason we're talking to Leo is because he's just starting to figure out how to be a savvy consumer, how to budget, find deals.", start: 1403.16, end: 1409.94}
-  - {text: "But he's only ever done that in this era of volatile prices and bouncing inflation.", start: 1410.34, end: 1414.98}
-  - {text: "His whole life has been achieved by this.", start: 1415.42, end: 1417.08}
-  - {text: "He sees it everywhere, his extracurricular activities.", start: 1417.18, end: 1419.58}
-  - {text: "Leo's a boy scout.", start: 1420.08, end: 1420.86}
-  - {text: "He's one of the grub masters for his troop, which is the person who has to do the grocery shopping for their camping trips.", start: 1421.18, end: 1427.26}
-  - {text: "We actually cooked a full, like suckling pig and presented it for a contest.", start: 1427.56, end: 1434.08}
-  - {text: "Yes, we carried it on a skewer.", start: 1435.14, end: 1435.80}
-  - {text: "Oh, so you're really cooking.", start: 1435.82, end: 1436.68}
-  - {text: "You're cooking like real food.", start: 1436.68, end: 1438.08}
-  - {text: "Oh yeah, yeah. We've got some very good chefs in our troop.", start: 1438.62, end: 1442.24}
-  - {text: "And a lot of what goes into cooking is buying good ingredients.", start: 1442.62, end: 1444.88}
-  - {text: "Leo with his troop leaders and fellow boy scouts has to budget how many dollars they can spend on ingredients per boy scout.", start: 1445.32, end: 1452.48}
-  - {text: "So what it is is per boy, per meal, breakfast is three, lunch is four, dinner is five.", start: 1452.94, end: 1459.72}
-  - {text: "And we had to raise it to four, five, six per meal, respectively, because of the price changes.", start: 1459.94, end: 1466.72}
-  - {text: "Leo is trying to find deals for like nine households worth of people, looking for the best deals on butter, on 30 pounds of potatoes, on sausages, peaches at age 17.", start: 1467.12, end: 1477.36}
-  - {text: "And like any good budgeter, he's putting some limits on the boys.", start: 1477.72, end: 1481.22}
-  - {text: "It's the only way to run a household.", start: 1481.46, end: 1482.46}
-  - {text: "We've been going a little lighter on the lemonade.", start: 1484.50, end: 1486.32}
-  - {text: "People used to put like bigger scoops in their bottles and then we've like started watching a little more.", start: 1486.54, end: 1492.44}
-  - {text: "We're like, you get one scoop.", start: 1492.56, end: 1493.50}
-  - {text: "One scoop? That's barely lemonade.", start: 1493.50, end: 1495.72}
-  - {text: "Unless they want to bring a lemon themselves from home.", start: 1496.22, end: 1498.74}
-  - {text: "And even small penny pinching measures like this, they can shape you.", start: 1499.14, end: 1502.76}
-  - {text: "Plenty of studies have found that living through economic shocks can rewire your brain, make you more price sensitive, change your relationship with risk.", start: 1502.98, end: 1511.18}
-  - {text: "It can even change your expectations of inflation itself, make you feel like inflation can always be around the corner.", start: 1511.26, end: 1518.34}
-  - {text: "And as we've covered before, when people expect inflation, it can lead people to behave in ways that contribute to inflation.", start: 1518.80, end: 1525.60}
-  - {text: "For now, Leo's mainly just buying teenager things.", start: 1526.40, end: 1529.52}
-  - {text: "Like he just ordered Busta Rhymes and MF Doom CDs.", start: 1529.80, end: 1532.72}
-  - {text: "But I think I'm paying full price for those ones.", start: 1533.18, end: 1534.90}
-  - {text: "So yeah, not everything in his life is about thrift.", start: 1535.36, end: 1538.18}
-  - {text: "It can be hard to talk about personal finances, but these are things we're all thinking about and experiencing.", start: 1547.00, end: 1554.16}
-  - {text: "And so we're grateful to all of you who wrote in and shared your stories with us.", start: 1554.38, end: 1557.56}
-  - {text: "And if you have an economic experience that we didn't capture, let us know.", start: 1557.66, end: 1560.86}
-  - {text: "We read every email and Spotify and social media comment.", start: 1561.02, end: 1564.68}
-  - {text: "Even if we cannot reply, they really shape how we think about what stories we do.", start: 1564.88, end: 1568.36}
-  - {text: "So please keep on keeping in touch, planetmoneyatmpr .org or at Planet Money on basically all the social platforms.", start: 1568.60, end: 1576.72}
-  - {text: "And as always, super extra special thanks to our NPR Plus supporters who get sponsor -free listening and bonus episodes and occasional live shows where you can ask us questions.", start: 1577.16, end: 1586.36}
-  - {text: "You can sign up to be an NPR Plus supporter also at plus .npr .org.", start: 1586.74, end: 1591.10}
-  - {text: "This episode of Planet Money was produced by Emma Peasley and edited by Alex Goldmark with reporting help from Charlotte Isidore.", start: 1591.50, end: 1599.92}
-  - {text: "It was back -checked by Sierra Juarez and engineered by Robert Rodriguez.", start: 1600.28, end: 1604.18}
-  - {text: "I'm Sarah Gonzalez. And I'm Erica Barris.", start: 1604.82, end: 1606.86}
-  - {text: "This is NPR. Thanks for listening.", start: 1607.06, end: 1608.52}
-  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 1630.51, end: 1634.45}
-  - {text: "When is the right time to sell a stock?", start: 1634.81, end: 1636.63}
-  - {text: "How do you protect against inflation?", start: 1637.01, end: 1638.71}
-  - {text: "Financial decisions can be tricky, and often your own cognitive and emotional biases can lead you astray.", start: 1639.19, end: 1645.25}
-  - {text: "Financial decoder, an original podcast from Charles Schwab, can help.", start: 1645.57, end: 1649.75}
-  - {text: "Join host Mark Rebe as he offers practical solutions to help overcome the cognitive and emotional biases that may affect your investing decisions.", start: 1650.01, end: 1659.59}
-  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 1659.87, end: 1665.41}
+  - {text: "This message comes from Capital One Commercial Bank.", start: 0.00, end: 2.52, explain: "This is an advertisement. \"Capital One\" is the name of a bank. The speaker says this message is from that bank.", zh: "这条信息来自第一资本商业银行。（Capital One 第一资本；Commercial Bank 商业银行）"}
+  - {text: "Access comprehensive solutions from a top commercial bank that prioritizes your needs today and goals for tomorrow.", start: 2.76, end: 10.06, explain: "A \"commercial bank\" is a bank for businesses, not just people. \"Prioritizes\" means puts first or makes most important. The ad says the bank helps with your needs now and your plans for the future.", zh: "来自一家顶级商业银行的全面解决方案，优先考虑您当下的需求和未来的目标。（comprehensive 全面的；prioritizes 优先考虑）"}
+  - {text: "Learn more at capital .one -slash -commercial, member FDIC.", start: 10.48, end: 14.64, explain: "This is part of the advertisement. \"FDIC\" is a government group that protects your money in the bank. The speaker tells you where to find more information online.", zh: "请访问 capital.one/slash-commercial 了解更多，我们是联邦存款保险公司成员。（FDIC 联邦存款保险公司）"}
+  - {text: "This is Planet Money from NPR.", start: 15.99, end: 18.23, explain: "\"Planet Money\" is the name of this radio show. \"NPR\" is the radio station that makes it. This sentence introduces the show.", zh: "这里是 NPR 的《Planet Money》。（NPR 美国国家公共广播电台）"}
+  - {text: "How are you doing?", start: 20.99, end: 21.73, explain: "This is a common way to ask how someone is feeling or doing. It is a friendly greeting.", zh: "大家最近过得怎么样？"}
+  - {text: "We know what it's like out there.", start: 22.35, end: 23.33, zh: "我们知道外面的世界是什么样子。（out there 外面，指大众的生活环境）"}
+  - {text: "We've seen the stats on the economy.", start: 23.45, end: 24.65, explain: "\"Stats\" is short for statistics. These are numbers that show how the economy is working. The speaker says we have looked at these numbers.", zh: "我们看过经济数据。（stats 统计数据）"}
+  - {text: "We also know the stats don't fully capture what you're all dealing with.", start: 25.21, end: 27.99, explain: "\"Capture\" means to show or include. \"Dealing with\" means handling or facing problems. The speaker says the numbers do not show the real problems people have.", zh: "我们也知道，这些数据并不能完全反映你们正在经历的现实。（capture 捕捉，反映）"}
+  - {text: "We know this because we asked you to tell us how you've been doing, and we heard back from many of you.", start: 28.29, end: 32.73, explain: "\"Heard back\" means received a reply. The speaker says they asked people for their stories, and many people answered.", zh: "我们知道这一点，是因为我们邀请大家分享近况，并收到了许多回复。（heard back from 收到……的回复）"}
+  - {text: "Hello, Planet Money. I'm Alan Miller from...", start: 32.95, end: 35.25, zh: "你好，《Planet Money》。我是来自……的 Alan Miller。（Alan Miller 人名）"}
+  - {text: "Hey, my name is Lindsay Cole.", start: 35.25, end: 36.01, explain: "This is a simple introduction. The speaker says her name is Lindsay Cole.", zh: "嗨，我叫林赛·科尔。"}
+  - {text: "I'm a professor. I'm Rick Schultz.", start: 36.49, end: 38.23, zh: "我是教授，我叫里克·舒尔茨。"}
+  - {text: "I'm retired. My name's Stephen Lloyd.", start: 38.39, end: 40.07, explain: "\"Retired\" means a person who has stopped working because they are old or have finished their career. The speaker says he is retired and his name is Stephen Lloyd.", zh: "我已经退休了，我叫斯蒂芬·劳埃德。"}
+  - {text: "I'm 24. My name's Josh Buck.", start: 40.35, end: 42.11, explain: "This is a simple introduction. The speaker says he is 24 years old and his name is Josh Buck.", zh: "我今年24岁，我叫乔什·巴克。"}
+  - {text: "I'm a truck driver.", start: 42.37, end: 43.09, zh: "我是一名卡车司机。"}
+  - {text: "The economy is treating so many of you, or listeners, very differently right now.", start: 43.29, end: 47.17, explain: "\"Treating\" here means how the economy affects people. The speaker says the economy is affecting many listeners in very different ways right now.", zh: "目前，经济状况对你们中的许多人，也就是听众们，有着截然不同的影响。"}
+  - {text: "It is boom times for some, bleak for others.", start: 47.29, end: 49.75, explain: "\"Boom times\" means a period when business is very good and money is easy to make. \"Bleak\" means dark, sad, or full of worry. The speaker says it is a great time for some people, but a bad time for others.", zh: "对一些人来说这是繁荣时期，而对另一些人来说则十分惨淡。（boom times 繁荣时期；bleak 惨淡的，萧条的）"}
+  - {text: "It's kind of like the everything all at once economy.", start: 50.09, end: 52.81, zh: "这就像是一种“万物同时发生”的经济状态。"}
+  - {text: "77 % of Americans say they're stressed about their finances, but if you own assets like stocks or property, you might be feeling good right now.", start: 53.17, end: 60.67, zh: "77%的美国人表示他们为财务状况感到压力，但如果你拥有股票或房产等资产，你现在的感受可能还不错。（assets 资产；stocks 股票；property 房产）"}
+  - {text: "Homes have appreciated so much.", start: 61.11, end: 63.07, zh: "房价已经大幅上涨了。（appreciated 增值，升值）"}
+  - {text: "And if you're open to selling your home...", start: 63.23, end: 65.85, explain: "This sentence is cut off. It starts with \"And if you're open to...\" which means if you are willing to do something. The speaker is talking about selling a house.", zh: "如果你愿意卖掉你的房子……（open to 愿意，乐于接受）"}
+  - {text: "That was a huge win when I sold it.", start: 65.85, end: 67.29, explain: "\"Win\" here means a good result or success. The speaker says selling the house was a very good thing for him.", zh: "我卖房子时赚了一大笔。（win 收益，获利）"}
+  - {text: "I got quite a nice pocket full of cash.", start: 67.57, end: 70.25, explain: "\"Pocket full of cash\" is a phrase that means having a lot of money. The speaker says he got a lot of money when he sold the house.", zh: "我口袋里装满了不少现金。（pocket full of cash 一大笔现金，形容钱很多）"}
+  - {text: "Nice. Unemployment is also relatively low overall, but the people who are unemployed right now are unemployed for way longer because turnover is so low right now.", start: 70.63, end: 80.93, explain: "\"Unemployment\" means the state of not having a job. \"Turnover\" here means how often people change jobs. The speaker says that while not many people are out of work, those who are out of work stay out of work for a long time because people are not changing jobs often.", zh: "整体失业率相对较低，但现在的失业者失业时间更长，因为人员流动率非常低。（turnover 人员流动率；unemployed 失业的）"}
+  - {text: "It's hard to find a job or leave a job.", start: 81.03, end: 83.01, zh: "找工作很难，辞职也很难。（leave a job 辞职，离开工作岗位）"}
+  - {text: "It is just absolutely brutal.", start: 83.23, end: 84.67, explain: "\"Brutal\" means very bad, harsh, or painful. The speaker is saying that the situation is extremely difficult and hard to bear.", zh: "这简直太残酷了。（brutal 残酷的，极端的）"}
+  - {text: "I have so many applications out there that I've just gone absolutely nowhere.", start: 85.01, end: 89.62, zh: "我投出了无数份申请，却没有任何进展。（applications 申请；nowhere 毫无进展，没结果）"}
+  - {text: "Wages are up a tiny bit, but not for everyone.", start: 90.08, end: 93.34, zh: "工资涨了一点点，但不是每个人都涨了。（wages 工资；a tiny bit 一点点）"}
+  - {text: "So my entire paycheck only covers my child care payment and my student loan payments a month.", start: 93.56, end: 97.94, zh: "所以我整个月的工资只够支付托儿费和助学贷款。（paycheck 工资单，薪水；child care 托儿，育儿）"}
+  - {text: "That is it. And then it is gone.", start: 98.06, end: 99.64, explain: "This sentence is a fragment. It continues the thought from the previous sentence, saying that the money or benefit is finished and no longer available.", zh: "就这样，钱花光了。（gone 花光，用完）"}
+  - {text: "Inflation also down from its peak to 3 .4%, but that still means that prices are 3 .4 % higher than they were this time last year.", start: 100.92, end: 109.52, explain: "\"Inflation\" means the general rise in prices over time. \"Peak\" means the highest point. The speaker explains that although price increases have slowed down from the highest level, prices are still 3.4% higher than they were one year ago.", zh: "通胀率虽然从峰值回落到了3.4%，但这依然意味着现在的物价比一年前高了3.4%。（inflation 通货膨胀；peak 峰值）"}
+  - {text: "And this is an average, right?", start: 109.88, end: 111.26, explain: "The speaker is asking if the number mentioned is an average, meaning a typical or middle value, not the exact amount for every single person.", zh: "而且这还是个平均值，对吧？（average 平均值）"}
+  - {text: "So the price changes for specific goods can be much less than that or much, much more.", start: 111.38, end: 117.52, zh: "所以具体商品的价格变动可能比这个数低得多，或者高得多。（specific 具体的）"}
+  - {text: "Two years ago, I could get a two -liter of brand name soda on sale for a dollar.", start: 118.24, end: 124.42, explain: "\"Brand name\" means a well-known company's product, which is usually more expensive than a store brand. \"On sale\" means the price is temporarily lower. The speaker says that two years ago, they could buy a large bottle of famous soda for one dollar when it was discounted.", zh: "两年前，我还能花一美元买到打折的知名品牌两升装汽水。（brand name 知名品牌；on sale 打折）"}
+  - {text: "Today it's on sale for 350.", start: 124.88, end: 126.12, zh: "今天它打折卖3.5美元。（on sale 打折）"}
+  - {text: "That doesn't feel like three or 4%.", start: 126.68, end: 128.86, zh: "这感觉不像才涨了3%或4%。（feel like 感觉像）"}
+  - {text: "You know, it feels like eight or 15 or in some cases 100%.", start: 129.50, end: 135.12, zh: "你知道，感觉像是涨了8%、15%，有些情况下甚至涨了100%。（in some cases 在某些情况下）"}
+  - {text: "After hearing from you, a few themes popped up.", start: 135.12, end: 137.68, zh: "听了大家的反馈后，浮现出几个主题。（themes 主题；popped up 浮现，出现）"}
+  - {text: "The economy is pushing some people into hyper -priced consciousness and others into the most comfortable period of their lives.", start: 138.02, end: 144.94, explain: "\"Hyper-priced consciousness\" is a new phrase meaning a state of being very aware of how expensive things are. The speaker says the economy makes some people very worried about high costs, while making other people very comfortable.", zh: "经济正在把一些人推向对高价极度敏感的状态，而另一些人则处于他们一生中最舒适的时期。（hyper-priced consciousness 对高价极度敏感的意识；comfortable period 舒适时期）"}
+  - {text: "And then there are those whose entire economic views are being shaped by this moment.", start: 145.22, end: 149.34, zh: "还有一群人，他们的整个经济观念正在被当下这一刻所塑造。（shaped by 被……塑造）"}
+  - {text: "Like I was just like thrust into a world like that.", start: 149.68, end: 152.44, explain: "\"Thrust\" means pushed or forced quickly into a situation. The speaker says they were suddenly forced into a new and different world or situation.", zh: "就像我一下子被扔进了那样的世界。（thrust 突然被推入，被迫进入）"}
+  - {text: "This is 17 -year -old Leo Vamaca who spends so much of his time thinking about.", start: 152.72, end: 157.32, explain: "The sentence is cut off and continues in the next one. It introduces a 17-year-old named Leo Vamaca.", zh: "这是17岁的里奥·瓦马卡，他花大量时间思考这件事。（Leo Vamaca 里奥·瓦马卡，人名）"}
+  - {text: "Honestly, spending money. How much money I have.", start: 157.66, end: 161.35, explain: "\"Honestly\" means telling the truth. Leo says he thinks a lot about spending money and how much he has.", zh: "说实话，就是花钱，以及我到底有多少钱。（spending money 花钱，消费）"}
+  - {text: "We're gonna spend a little time with Leo who is part of the newest generation of consumers.", start: 161.71, end: 165.69, explain: "A \"consumer\" is a person who buys things. The host says they will talk to Leo, who is part of a new group of buyers.", zh: "我们要花点时间聊聊里奥，他是最新一代消费者中的一员。（consumers 消费者）"}
+  - {text: "Leo's a high school senior and he has two jobs.", start: 166.11, end: 168.51, zh: "里奥是高中毕业生，他有两份工作。（senior 高年级学生，这里指即将毕业的高三学生）"}
+  - {text: "I've been working since, well, I guess I've been working since I was 13, but a lot of it was under the table, I would say.", start: 168.51, end: 176.61, explain: "\"Under the table\" means working without telling the government, so you do not pay tax. Leo says he has worked since he was 13, but some of it was not official.", zh: "我工作很久了，大概从13岁就开始，但很多都是私下做的，没走正规渠道。（under the table 私下交易，未申报的）"}
+  - {text: "Uh -huh. You sure you want to tell us that?", start: 176.73, end: 178.69, explain: "The host asks if Leo is sure he wants to say that, because it might be a secret or a mistake.", zh: "嗯。你确定要告诉我们这个吗？（sure 确定，肯定）"}
+  - {text: "Yeah, yeah, you know, like scorekeeping hockey games and stuff, that was a lot of like what I was doing.", start: 178.91, end: 184.15, explain: "\"Scorekeeping\" means writing down the points in a game. Leo says he worked at hockey games to keep the score.", zh: "是啊，你知道，就是给冰球比赛记分之类的，那当时是我主要做的事。（scorekeeping 记分，记录比分）"}
+  - {text: "When Leo started working, making money and spending money, it was four years ago when we had peak inflation.", start: 184.55, end: 191.07, explain: "\"Peak inflation\" means the time when prices were rising the fastest. Leo started working four years ago, when prices were going up very quickly.", zh: "当里奥开始工作、赚钱和花钱时，那是四年前，正是通胀高峰期。（peak inflation 通胀高峰期）"}
+  - {text: "Inflation that so many of us had never seen in our lives.", start: 191.27, end: 194.93, zh: "那是我们许多人一生中从未见过的通胀水平。（inflation 通货膨胀）"}
+  - {text: "So much of what he's known is this era of inflation.", start: 194.93, end: 198.05, explain: "An \"era\" is a long period of time. Leo has only known times when prices were going up.", zh: "他所熟知的很大一部分经历，就是这段通货膨胀时期。（inflation 通货膨胀）"}
+  - {text: "Even as I make more money, I'm like, where is it going?", start: 198.37, end: 201.03, explain: "The speaker is asking where their money goes, even though they earn more.", zh: "即使我赚得更多了，我还是在想，钱都去哪儿了？"}
+  - {text: "Where is it going?", start: 201.19, end: 201.65, explain: "This is a short question asking where money goes.", zh: "钱都去哪儿了？"}
+  - {text: "Because the prices increase, you know.", start: 201.85, end: 203.99, zh: "因为物价在涨，你知道的。（prices increase 物价上涨）"}
+  - {text: "Oh, well you know.", start: 204.41, end: 205.53, zh: "哦，是啊，大家都懂。"}
+  - {text: "Leo says he and his friends have started doing some old school coupon clipping.", start: 205.87, end: 210.39, explain: "\"Old school\" means traditional or from the past. \"Coupon clipping\" means cutting out discount coupons from newspapers or magazines to save money.", zh: "Leo 说他和朋友们开始玩起了老派的剪优惠券。（coupon clipping 剪优惠券；old school 老派的，传统的）"}
+  - {text: "It definitely caught on this year and has become much more of a thing.", start: 210.73, end: 214.65, explain: "\"Caught on\" means it became popular. \"A thing\" means a popular activity or trend.", zh: "今年这招确实很流行，已经变成一种很普遍的现象了。（caught on 流行起来；a thing 热门事物，普遍现象）"}
+  - {text: "Are you guys like a coupon crew then?", start: 214.85, end: 216.43, explain: "\"Coupon crew\" is a funny way to say a group of people who use coupons together.", zh: "那你们算是个“优惠券小组”吗？（coupon crew 优惠券小组，指一起收集优惠券的人）"}
+  - {text: "Yeah, I mean you could say that.", start: 216.59, end: 217.73, zh: "是啊，你可以这么说。"}
+  - {text: "We'll go to like the same CVS, right?", start: 217.87, end: 221.13, zh: "我们会去同一家 CVS，对吧？（CVS 美国连锁药店）"}
+  - {text: "We'll like caravan over there together.", start: 221.25, end: 222.95, explain: "The word \"caravan\" is likely a mistake for \"carnival\" or a similar word, but in context it might mean they go to a place together. The sentence is a bit unclear.", zh: "我们会喜欢在那边一起坐马车。（caravan 马车，此处可能为转录错误，结合语境可能指某种交通工具或活动）"}
+  - {text: "The latest price conscious inflation generation has entered the economy.", start: 222.95, end: 228.27, zh: "最新一代对价格敏感、深受通胀影响的群体已经进入经济领域。（price conscious 对价格敏感的；inflation 通货膨胀）"}
+  - {text: "Hello and welcome to Planet Money.", start: 228.93, end: 230.19, zh: "大家好，欢迎收听《Planet Money》。（Planet Money 美国国家公共广播电台的一档经济类播客节目）"}
+  - {text: "I'm Sara Gonzalez and I'm Erica Barris and we are checking in with you, our Planet Money community.", start: 230.37, end: 235.51, explain: "\"Checking in\" means talking to or updating the audience.", zh: "我是Sara Gonzalez，我是Erica Barris，我们正在向你们，我们的《Planet Money》社区成员问好。（checking in 联系，问候）"}
+  - {text: "Because we're all trying to figure out this confusing economic moment.", start: 235.69, end: 239.39, explain: "\"Economic moment\" means the current time in the economy. \"Confusing\" means hard to understand.", zh: "因为我们都在努力弄清楚这个令人困惑的经济时刻。（confusing 令人困惑的；economic moment 经济时刻，指当前的经济状况）"}
+  - {text: "Today on the show, we hear about your extreme cost cutting, the quiet guilt you're feeling from your own economic luck and consumer habits forming in the younger generation.", start: 240.03, end: 250.91, explain: "\"Extreme\" means very much, more than normal. \"Guilt\" is a bad feeling you get when you think you did something wrong. \"Consumer habits\" are the regular ways people buy things. This sentence tells you what the show will talk about today.", zh: "今天的节目中，我们将听到你们极端的省钱措施，你们因自身经济好运而产生的隐秘愧疚感，以及年轻一代正在形成的消费习惯。（cost cutting 削减成本；guilt 愧疚感）"}
+  - {text: "When you grow up around economic volatility, it can affect your beliefs and your behavior for the rest of your life.", start: 250.91, end: 257.65, explain: "\"Volatility\" means big changes that happen quickly, like prices going up and down a lot. This sentence says that if you grow up when the economy is changing a lot, it can change how you think and act for your whole life.", zh: "如果你在经济增长波动中长大，这可能会影响你一生的信念和行为。（volatility 波动性，不稳定性）"}
+  - {text: "This message comes from LinkedIn.", start: 295.85, end: 297.89, explain: "This is an ad. \"LinkedIn\" is a website for work and jobs. The speaker says the next part is paid by this company.", zh: "这条信息来自LinkedIn。（LinkedIn 领英，一个职业社交网络平台）"}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 298.33, end: 302.71, explain: "\"Juggling\" means doing many different things at the same time, like keeping balls in the air. This sentence says that having a small business is hard because you must do many things at once.", zh: "经营一家小企业伴随着许多挑战，意味着要同时处理多件事情。（juggling 同时处理，兼顾）"}
+  - {text: "It's even harder to do it efficiently.", start: 303.05, end: 304.37, explain: "\"Efficiently\" means doing something well and not wasting time or money. This sentence says it is very hard to run a business in a good way.", zh: "要高效地做到这一点甚至更难。（efficiently 高效地）"}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 304.81, end: 308.73, zh: "但有了领英，你所需的所有成长工具都集中在一个地方。（LinkedIn 领英，职业社交网络平台）"}
+  - {text: "With LinkedIn, simplify your sales, marketing and hiring so that you can actually run your small business.", start: 309.03, end: 315.27, explain: "\"Simplify\" means to make something easier or less complicated. This sentence says LinkedIn can help make selling, advertising and hiring easier for small businesses.", zh: "借助领英，简化你的销售、营销和招聘流程，从而真正经营好你的小企业。（hiring 招聘）"}
+  - {text: "Learn more at LinkedIn .com slash Planet Money show.", start: 315.67, end: 319.11, explain: "This is an ad. \"Slash\" means the symbol / in a web address. This sentence tells you where to go on the internet to learn more.", zh: "请访问 LinkedIn.com/slash Planet Money show 了解更多。（slash 斜杠，网址中的分隔符）"}
+  - {text: "When we asked the listeners to check in, we did hear from a decent amount of you who said, you're actually doing pretty good in this economy.", start: 319.83, end: 326.81, explain: "\"Check in\" means to say how you are or give an update. \"Decent amount\" means a good number of people. This sentence says that many listeners told the show that they are doing well in the economy.", zh: "当我们邀请听众反馈时，确实收到了不少人的消息，他们说在这经济环境下其实过得还不错。（check in 反馈，汇报情况）"}
+  - {text: "But we also heard from many of you who are struggling.", start: 327.31, end: 330.37, explain: "\"Struggling\" means having a hard time with money. The speaker says many listeners are finding it difficult to pay for things.", zh: "但我们也听到许多人的声音，表示他们正在艰难挣扎。（struggling 挣扎，艰难维持）"}
+  - {text: "You're changing your behavior and consumer habits in big ways.", start: 330.71, end: 334.09, explain: "\"Consumer habits\" are the ways people buy things. The sentence says people are changing how they spend money in large ways.", zh: "你们正在以巨大的方式改变自己的行为和消费习惯。（consumer habits 消费习惯）"}
+  - {text: "I mean, honestly, if I'm being honest, when we read your email unanimously, we were like, wait, a professor's going through all of this and dealing with all of this.", start: 334.43, end: 345.56, explain: "\"Unanimously\" means everyone agreed, but here it is likely a mistake for \"unanimously\" or just a slip of the tongue; the speaker means they read the emails together. \"Dealing with\" means handling problems. The speaker is surprised that a professor has these money problems.", zh: "我是说，说实话，当我们阅读你们的邮件时，大家一致觉得：等等，一位教授竟然也在经历和应对这一切。（unanimously 一致地，全体同意）"}
+  - {text: "Yeah. So I think there's a lot of misconceptions around how much money people think professors make.", start: 345.70, end: 352.12, explain: "\"Misconceptions\" are wrong ideas that many people believe. The speaker thinks people have wrong ideas about how much money professors earn.", zh: "是的。我认为人们对教授的收入有很多误解。（misconceptions 误解，错误观念）"}
+  - {text: "This is listener Lindsey Cole who wrote into us.", start: 352.24, end: 354.50, explain: "\"Wrote into us\" means sent an email or letter to the show. This is a listener named Lindsey Cole who sent a message to the podcast.", zh: "这是听众林赛·科尔，她给我们写了信。（wrote into us 给我们写信）"}
+  - {text: "And I'm sure, you know, if you worked at an Ivy League, you make decent money.", start: 354.62, end: 358.46, explain: "\"Ivy League\" is a group of famous, expensive universities in the US. The speaker says if you work at one of these schools, you probably make good money.", zh: "而且我相信，如果你在常春藤盟校工作，收入肯定相当可观。（Ivy League 常春藤盟校，美国顶尖私立大学联盟）"}
+  - {text: "But most of us make probably what public school teachers make.", start: 358.54, end: 363.48, zh: "但我们大多数人的收入大概和公立学校老师差不多。（public school 公立学校）"}
+  - {text: "At least that's what she's been making, teaching forensic psychology at a small liberal arts college in the Northeast.", start: 363.82, end: 369.62, explain: "\"Forensic psychology\" is the study of how the mind works in legal cases. \"Liberal arts college\" is a small university that teaches many different subjects. She teaches this subject at a small school in the Northeast.", zh: "至少她一直是在东北部一所小型文理学院教法医心理学，拿的就是这个数。（forensic psychology 法医心理学；liberal arts college 文理学院）"}
+  - {text: "Her husband is also a full -time professor at a different university, so dual income, but it's been very tight for their family.", start: 370.04, end: 376.94, explain: "\"Dual income\" means both partners in a family have jobs and earn money. \"Tight\" means they do not have much money left after paying for things. The sentence says both husband and wife work as teachers at universities, but they still struggle to pay for their family's needs.", zh: "她丈夫也是另一所大学的专职教授，所以是双收入家庭，但他们的日子过得非常紧巴。（full-time 全职的）"}
+  - {text: "So I have two boys.", start: 377.34, end: 377.96, zh: "所以我有两个儿子。"}
+  - {text: "They have a six -year -old and a four -year -old.", start: 378.38, end: 379.68, zh: "他们有一个六岁的和一个四岁的。"}
+  - {text: "They're very active boys.", start: 380.18, end: 381.78, zh: "这两个男孩非常活泼好动。"}
+  - {text: "Currently, they like to stand outside in Spider -Man costumes, hoping cars honk and, you know, kids alone.", start: 382.22, end: 387.50, explain: "\"Costumes\" are special clothes worn for fun or a show. \"Honk\" means to make a sound with a car horn. \"Kids alone\" is a mistake in the recording; it should be \"kids wave\" or similar. The sentence says they dress up as Spider-Man outside, hoping cars make noise and children react.", zh: "现在他们喜欢穿着蜘蛛侠服装站在外面，希望汽车按喇叭，还有那些独自玩耍的小孩。（Spider-Man 蜘蛛侠）"}
+  - {text: "It's expensive. You know, we know things are more expensive.", start: 387.74, end: 391.50, zh: "这很贵。你知道，我们知道东西都变贵了。"}
+  - {text: "Inflation has been sticky.", start: 391.84, end: 393.24, zh: "通货膨胀一直居高不下。（inflation 通货膨胀；sticky 顽固的，指物价持续高企）"}
+  - {text: "I feel it every day.", start: 393.48, end: 394.74, zh: "我每天都切身感受到。"}
+  - {text: "But Lindsey in particular stood out to us because what she deals with on a day -to -day basis takes us beyond the numbers and what the stats miss.", start: 395.14, end: 402.92, explain: "\"Stood out\" means she was very noticeable or special compared to others. \"Day-to-day\" means every single day. \"Stats\" is short for statistics, which are numbers that show facts. The sentence says Lindsey was special because her daily life shows real problems that numbers do not show.", zh: "但尤其是琳赛，她让我们印象深刻，因为她日常处理的事情让我们跳出了数字，看到了统计数据所遗漏的东西。（stood out 突出，显眼；beyond 超出，超越）"}
+  - {text: "Take wages, for example.", start: 403.28, end: 404.48, explain: "\"Take... for example\" is a phrase used to start a new point with a specific case. The speaker is about to use wages as an example to explain a point.", zh: "以工资为例。（Take...for example 以……为例）"}
+  - {text: "Technically, nominal wages have gone up, meaning the literal dollar amount on paychecks, but just slightly.", start: 404.86, end: 410.72, explain: "\"Nominal wages\" are the exact number of dollars on a paycheck, without looking at prices. \"Technically\" means in a strict or official way. The sentence says the dollar amount on paychecks has gone up a little bit, if you look only at the numbers.", zh: "从技术层面看，名义工资确实涨了，也就是工资单上的美元金额，但涨幅微乎其微。（nominal wages 名义工资；paychecks 工资单）"}
+  - {text: "They're growing at 3 .1%.", start: 411.00, end: 412.52, zh: "它们的增长率是3.1%。（growing at 以……的速度增长）"}
+  - {text: "But when you factor in inflation, which is 3 .4 % right now, there is no real wage growth on average.", start: 412.52, end: 419.66, explain: "\"Factor in\" means to include something when you make a calculation. \"Inflation\" means prices for things are going up. \"Real wage growth\" means your money buys more things than before. The sentence says if you include rising prices, people are not earning more money in a way that helps them buy more.", zh: "但考虑到目前3.4%的通货膨胀率，平均而言并没有实际工资增长。（factor in 考虑，计入；inflation 通货膨胀；real wage growth 实际工资增长）"}
+  - {text: "We collectively are making less money when you factor in inflation.", start: 419.82, end: 422.94, explain: "\"Collectively\" means all of us together as a group. \"Factor in\" means to include something in your thinking. The sentence says if you look at rising prices, we are all earning less money in real terms.", zh: "算上通货膨胀，我们整体的收入其实是在减少的。（collectively 整体地，共同地）"}
+  - {text: "And of course, not everyone's seeing any wage growth at all.", start: 423.50, end: 426.86, explain: "\"Wage growth\" means getting a higher salary or pay. The sentence says that for many people, their pay has not gone up at all.", zh: "当然，并不是每个人都能享受到任何工资增长。（wage growth 工资增长）"}
+  - {text: "I haven't gotten even a cost of living adjustment, and I don't know how long, like, and we know how much inflation has been.", start: 426.86, end: 433.78, explain: "A \"cost of living adjustment\" is extra money added to a salary to match rising prices. \"Inflation\" means prices are going up. The speaker says they did not get this extra money, even though prices have risen a lot.", zh: "我连生活成本调整都没拿到，我不知道还要持续多久，毕竟我们都知道通货膨胀有多严重。（cost of living adjustment 生活成本调整，CPI调整）"}
+  - {text: "I mean, I haven't gotten...", start: 433.94, end: 435.06, zh: "我是说，我还没拿到……"}
+  - {text: "We've gotten costs of living adjustments of, like, 2 .5%.", start: 435.06, end: 438.46, explain: "A \"cost of living adjustment\" is extra pay to match rising prices. The speaker says they received a small increase of 2.5 percent.", zh: "我们拿到的生活成本调整大概是2.5%。（costs of living adjustments 生活成本调整）"}
+  - {text: "And you're like, hmm, inflation's more than that.", start: 438.46, end: 442.38, explain: "\"Inflation\" means prices are going up. The speaker thinks the price increase is higher than the pay rise they got.", zh: "你会觉得，嗯，通胀率肯定不止这么点。（inflation 通货膨胀）"}
+  - {text: "Absolutely. And we're not even getting that.", start: 442.40, end: 443.92, zh: "确实如此，而且我们连这点涨幅都没拿到。（getting 获得，此处指涨薪）"}
+  - {text: "It's literally just stagnant.", start: 444.08, end: 446.28, explain: "\"Stagnant\" means not moving or growing. Here, it means the salary did not go up at all.", zh: "工资完全是停滞不前的。（stagnant 停滞的，不增长的）"}
+  - {text: "And actually this summer, she kind of got a pay cut.", start: 446.58, end: 449.78, explain: "A \"pay cut\" means a reduction in salary. The speaker says a woman's pay went down this summer.", zh: "实际上今年夏天，她的工资反而被削减了。（pay cut 降薪）"}
+  - {text: "She used to get a flat fee for teaching a summer course, but the college changed the pay structure to a per -student rate.", start: 450.14, end: 456.80, explain: "A \"flat fee\" is a fixed amount of money. A \"pay structure\" is the system for calculating pay. The college changed from a fixed amount to a rate based on the number of students.", zh: "她以前教暑期课程拿的是固定费用，但学院把薪酬结构改成了按学生人数计费。（flat fee 固定费用；pay structure 薪酬结构；per-student rate 按学生人数计算的费用）"}
+  - {text: "$400 for every student she brings in.", start: 457.24, end: 459.38, zh: "每招来一个学生，她就拿400美元。（brings in 带来，招收）"}
+  - {text: "The competitiveness that it's going to create amongst faculty of, you know, coming and you'll basically get an A in my class.", start: 459.62, end: 466.54, explain: "\"Competitiveness\" means trying to be better than others. \"Faculty\" means the teachers at a school. The speaker worries teachers will compete to get students to give them good grades.", zh: "这会在教师之间产生竞争，大家会想，来我这上课，你基本能拿A。（competitiveness 竞争力；faculty 教师群体；A 优等成绩）"}
+  - {text: "So there'll be a lot less work.", start: 466.76, end: 468.04, explain: "The speaker says teachers will have less work to do because of the new pay system.", zh: "这样工作量就会少很多。（work 工作量）"}
+  - {text: "Oh, the easy A classes.", start: 468.56, end: 469.52, zh: "噢，那些轻松拿A的课。（easy A 轻松获得的优等成绩）"}
+  - {text: "Those ones are going to do great.", start: 469.82, end: 471.36, zh: "那些课肯定会很受欢迎。（do great 表现好，这里指很成功或很抢手）"}
+  - {text: "Yeah. So I'm just...", start: 471.66, end: 472.62, zh: "是的，所以我只是……"}
+  - {text: "Just be that professor, Lindsay.", start: 472.62, end: 473.72, zh: "你就当那个教授吧，林赛。（Lindsay 林赛，人名）"}
+  - {text: "Well, I mean, you know, you have standards for yourselves then.", start: 473.86, end: 478.22, explain: "\"Standards\" means the rules or quality you expect from yourself. The speaker says that if you have high expectations for yourself, you should follow them.", zh: "嗯，我是说，你们自己心里有数，有标准嘛。"}
+  - {text: "But when it's really digging your livelihood, it's hard not to feel the pull of that.", start: 478.84, end: 485.16, explain: "\"Digging your livelihood\" means hurting your ability to earn money. \"The pull\" means the strong feeling that makes you want to do something. The sentence says it is hard to resist bad choices when money is tight.", zh: "但当它真的威胁到你的生计时，很难不受到那种诱惑。（livelihood 生计；pull 吸引力，诱惑）"}
+  - {text: "Lindsay got paid less this summer for teaching two classes than she got last summer for teaching one class.", start: 485.58, end: 491.04, explain: "\"Got paid\" means received money for work. The sentence explains that Lindsay earned less money this summer for doing more work than she did last summer.", zh: "林赛今年夏天教两门课拿到的钱，比她去年夏天教一门课拿的还少。"}
+  - {text: "And she was really banking on the full summer pay because she's got this van.", start: 491.24, end: 496.74, explain: "\"Banking on\" means relying on or counting on something to happen. The sentence says she needed the full summer salary because she owns a van.", zh: "她原本指望能拿到整个夏天的全额薪水，因为她有一辆面包车。（banking on 指望，依赖；van 面包车）"}
+  - {text: "It is finicky. My kids call it ghost van because it'll turn itself on and off randomly.", start: 497.54, end: 503.86, explain: "\"Finicky\" means difficult to control or easy to break. \"Randomly\" means without a pattern or reason. The kids call it \"ghost van\" because it starts and stops by itself.", zh: "这车很娇气。我孩子叫它“幽灵车”，因为它会随机自动开关。（finicky 娇气，难伺候；ghost van 幽灵车，指故障频发的车）"}
+  - {text: "The car turns on and off?", start: 504.50, end: 505.88, zh: "车会自己开关？"}
+  - {text: "Oh, yeah. No, no, the car.", start: 505.96, end: 507.40, zh: "哦，对。不不，是车。"}
+  - {text: "The car turns on and off.", start: 507.62, end: 508.80, zh: "车会自己开关。"}
+  - {text: "Sometimes I sit in a parking lot for 10 minutes trying to get the car to just stay on or stay off.", start: 509.12, end: 514.24, explain: "\"Stay on\" means keep running. \"Stay off\" means keep stopped. The speaker waits in a parking lot to make sure the car does not start or stop on its own.", zh: "有时候我会坐在停车场里十分钟，试图让车子要么一直开着，要么彻底熄火。（parking lot 停车场）"}
+  - {text: "What a waste of time.", start: 514.40, end: 515.10, zh: "真是浪费时间。（waste of time 浪费时间）"}
+  - {text: "And then the AC on the van just busted this summer.", start: 515.42, end: 519.16, explain: "\"Busted\" means broken or stopped working. The sentence says the air conditioning in the van broke this summer.", zh: "然后今年夏天，面包车的空调坏了。（AC 空调；busted 坏了，故障）"}
+  - {text: "They had plans to finally put a down payment on a new car.", start: 519.54, end: 522.76, zh: "他们原本计划终于能付得起一辆新车的定金。（down payment 定金，首付）"}
+  - {text: "But when the summer pay structure changed, that went out the window, which is always open now.", start: 522.96, end: 527.78, explain: "\"Went out the window\" means the plan or hope was lost or destroyed. The sentence says the hope for full pay was gone, so the window is now open.", zh: "但夏天薪资结构一变，这个计划就泡汤了，而且车窗现在总是开着的。（pay structure 薪资结构；out the window 泡汤，落空）"}
+  - {text: "So we're driving around with the windows down.", start: 528.02, end: 530.10, zh: "所以我们开车时都是开着窗的。（windows down 车窗开着）"}
+  - {text: "We had like a week where it was like 100 degrees outside.", start: 530.26, end: 532.46, explain: "\"100 degrees\" is a very hot temperature. The speaker says it was very hot outside for about one week.", zh: "有一周左右，外面气温高达100华氏度。（100 degrees 100华氏度，约38摄氏度）"}
+  - {text: "And when I went to pick up the kids from camp and daycare, I had like packs of cold washcloths for them to hang on their necks", start: 532.46, end: 540.34, zh: "我去夏令营和托儿所接孩子时，给他们带了几包冷湿毛巾，让他们挂在脖子上（camp 夏令营；daycare 托儿所；washcloths 湿毛巾）"}
+  - {text: "while we were in the car so they wouldn't get overheated.", start: 540.34, end: 542.52, explain: "\"Overheated\" means becoming too hot. The speaker says they stayed in the car to keep the things inside from getting too hot.", zh: "这样在车里时他们就不会中暑。（overheated 中暑，过热）"}
+  - {text: "Lindsay says people are often surprised to hear that two full -time college professors can't afford a setback like a busted car or even a simple", start: 542.88, end: 551.98, explain: "A \"setback\" is a bad event that causes a problem. \"Busted\" means broken. The sentence is cut off at the end. Lindsay says people are surprised that two full-time teachers cannot handle a bad event like a broken car or a simple problem.", zh: "林赛说，人们常惊讶于两位全职大学教授竟然负担不起像车坏这种意外，甚至是一个简单的……（full-time 全职；setback 挫折，意外）"}
+  - {text: "pleasure like a play date for their kids.", start: 551.98, end: 553.96, zh: "就像给孩子安排一次玩伴聚会这样的乐趣。（play date 玩伴聚会，指孩子之间约定的玩耍时间）"}
+  - {text: "That stings a little bit, right?", start: 554.36, end: 556.26, zh: "这让人心里挺不是滋味的，对吧？（stings 刺痛，引申为心里难受或尴尬）"}
+  - {text: "Of like, ah, but working professionals, like I should be able to let my kid go with their friend to the trampoline park like every once in a while.", start: 556.54, end: 565.18, explain: "\"Trampoline park\" is a place with big beds you can jump on. The speaker thinks that as a working adult, they should be able to take their child to this place sometimes.", zh: "就是觉得，唉，作为职场人士，我偶尔应该能带孩子去一次蹦床公园，和朋友一起玩。（working professionals 职场人士；trampoline park 蹦床公园）"}
+  - {text: "Lindsay feels like she and her husband followed all the rules and did everything they were supposed to do.", start: 565.64, end: 571.70, zh: "林赛觉得她和丈夫已经遵守了所有规则，做了该做的一切。（Lindsay 林赛，人名）"}
+  - {text: "We should be on the upswing of the K -shaped economy.", start: 571.90, end: 574.94, explain: "\"Upswing\" means a time when things are getting better. The speaker thinks they should be in a good part of the economy.", zh: "我们本该处于K型经济的上行阶段。（K-shaped economy K型经济，指经济复苏中贫富差距拉大的现象）"}
+  - {text: "And we're just not.", start: 575.42, end: 577.12, zh: "但我们并没有。（upswing 上行阶段，指经济或形势好转的时期）"}
+  - {text: "Are you just naturally interested in econ because you've thrown around some econ a couple of times?", start: 577.56, end: 583.06, explain: "\"Econ\" is short for economics, the study of money and business. \"Thrown around\" means used or mentioned many times. The host asks if the guest is interested in economics because they have mentioned it before.", zh: "你是天生对经济学感兴趣吗？因为你刚才提了好几次经济学。（econ 经济学，economics的口语缩写）"}
+  - {text: "Yeah, I mean, I probably learned it from you guys, to be honest.", start: 583.26, end: 585.78, explain: "The speaker says they probably learned about economics from the hosts of the show.", zh: "是的，说实话，我可能是从你们这儿学来的。（to be honest 说实话）"}
+  - {text: "All right, the K -shaped economy, which many economists say we have right now, though there are some skeptics, is basically one economy with two different experiences.", start: 586.38, end: 594.38, explain: "A \"K-shaped economy\" is when rich people get richer and poor people get poorer. \"Skeptics\" are people who do not believe something is true. The host explains that this type of economy has two very different parts.", zh: "好的，关于K型经济，很多经济学家认为我们现在正处于这种状态，虽然也有怀疑者，它基本上是一个经济体中两种截然不同的体验。（skeptics 怀疑者；K-shaped economy K型经济）"}
+  - {text: "Some people are spending big, increasing their wealth and on track to continue.", start: 594.82, end: 598.28, explain: "\"Wealth\" means money and things a person owns that have value. \"On track\" means moving in the right direction to reach a goal. The sentence says some people are spending a lot of money and getting richer, and they will likely keep doing this.", zh: "有些人正在大手笔消费，财富在增加，并且有望持续下去。（spending big 大手笔消费）"}
+  - {text: "So they're on the top half of the K with the arm of the K going up, while others have slower spending growth, stagnating or decreasing wages", start: 598.54, end: 606.70, explain: "\"Stagnating\" means not growing or changing. \"Wages\" are the money people get for their work. The speaker describes a group of people with high income (the top part of the letter K) while others have low or no growth in their pay.", zh: "所以他们处于K型复苏的上半部分，也就是K字向上延伸的那一臂，而其他人消费增长缓慢，工资停滞或下降（K 指K型经济复苏，形容贫富分化加剧；stagnating 停滞）"}
+  - {text: "and growing debt and are on track to continue that.", start: 606.70, end: 610.18, zh: "且债务不断增加，并预计这种趋势将持续下去。（on track to 预计，有迹象表明）"}
+  - {text: "So they're the bottom half of the K with the leg of the K going down.", start: 610.28, end: 613.56, zh: "所以他们处于K型复苏的下半部分，也就是K字向下延伸的那一腿。（leg 腿，此处指K字的下半部分）"}
+  - {text: "Now, Lindsay and her family are not at the very bottom of the K.", start: 613.84, end: 617.30, zh: "现在，林赛和她的家人并没有处于K型复苏的最底层。（at the very bottom 在最底层）"}
+  - {text: "They own a house, they can afford childcare so they can work, but they are struggling.", start: 617.42, end: 621.58, explain: "\"Afford\" means to have enough money to buy something. \"Struggling\" means having a hard time or facing difficulties. The sentence says these people have a home and can pay for child care, but they still have financial problems.", zh: "他们拥有房产，负担得起托儿费用以便工作，但生活依然艰难。（afford 负担得起；childcare 托儿服务）"}
+  - {text: "I think it's also kind of crazy when you hear people like politicians saying everything is fine because this one group of people is doing amazing and look, they are spending.", start: 622.02, end: 633.20, explain: "\"Crazy\" means very strange or not sensible. \"Amazing\" means very good or impressive. The speaker thinks it is strange when leaders say everything is okay just because one group of people is doing well and spending money.", zh: "我觉得这也很荒谬，当听到政客们说一切都好，因为有一群人过得非常滋润，看，他们在消费。（crazy 荒谬的；politicians 政客）"}
+  - {text: "And like, whoa, yeah, good for the overall economy.", start: 633.60, end: 635.60, explain: "\"Overall\" means total or general. The speaker agrees that this is good for the whole economy, but implies it does not help everyone.", zh: "然后说，哇，好吧，这对整体经济来说是好事。（overall economy 整体经济）"}
+  - {text: "But I'm not taking a shower tonight, right?", start: 636.00, end: 639.46, explain: "\"Taking a shower\" means washing your body with water. The speaker uses this as an example of a small personal expense they are skipping to save money.", zh: "但我今晚不打算洗澡，对吧？（taking a shower 洗澡）"}
+  - {text: "Because I'm trying to keep my water building.", start: 639.62, end: 641.50, explain: "\"Building\" here is likely a transcription error for \"bill\" or refers to a specific cost. The speaker is trying to save money on their water costs.", zh: "因为我想省点水。（water bill 水费，此处指为了省钱而减少用水）"}
+  - {text: "Yeah, Lindsay and her family, they're not spending big right now.", start: 642.00, end: 645.30, explain: "\"Spending big\" means spending a large amount of money. The sentence says Lindsay and her family are not spending much money at the moment.", zh: "是的，林赛和她的家人目前并没有进行大额消费。（spending big 大额消费）"}
+  - {text: "They're actually rationing. Rationing the kid's snacks, electricity, the hot water.", start: 645.44, end: 650.76, explain: "\"Rationing\" means using only a small amount of something because you do not have enough money or it is very expensive. The sentence says people are limiting how much food and energy their children use.", zh: "他们实际上是在配给使用。孩子的零食、电力、热水都在限量供应。（rationing 配给，限量供应）"}
+  - {text: "Yeah, so the kids used to take separate baths that now they're forced to take together bath because I'm just like, we have to get through until the gas prices drop because I don't want to pay.", start: 651.12, end: 663.22, explain: "\"Forced\" means they have no choice but to do it. The speaker says the children must bathe together now to save money on gas.", zh: "是啊，以前孩子们是分头洗澡的，现在被迫一起洗，因为我想着得撑到油价降下来，我不想多花钱。（forced to 被迫；gas prices 油价，此处指取暖用燃气价格）"}
+  - {text: "The hot water in Lindsay's house runs on heating oil and the high price of crude oil right now is also keeping heating oil prices high.", start: 663.66, end: 670.94, explain: "\"Heating oil\" is a fuel used to heat homes. \"Crude oil\" is the raw oil used to make fuel. The sentence explains that high oil prices make heating expensive.", zh: "琳赛家的热水靠燃油加热，而目前原油价格高企，也推高了燃油价格。（heating oil 取暖燃油；crude oil 原油）"}
+  - {text: "It costs like $1 ,300 to fill up the tank in her house.", start: 671.30, end: 674.08, zh: "给家里的油罐加满一次大概要花1300美元。（fill up the tank 给油罐加满）"}
+  - {text: "And I think I told you, I've switched up some of our oven usage too to try to keep the electrical costs down.", start: 674.38, end: 680.90, explain: "\"Switched up\" means changed or rearranged. The speaker changed how they use the oven to save money on electricity.", zh: "我想我告诉过你，我也调整了烤箱的使用方式，试图降低电费。（switched up 调整，改变；oven usage 烤箱使用习惯）"}
+  - {text: "This is what Lindsay wrote to us about, her oven usage.", start: 680.90, end: 685.14, explain: "This sentence introduces a letter that Lindsay wrote about how she uses her oven.", zh: "这就是琳赛写给我们关于她烤箱使用情况的内容。（usage 使用情况）"}
+  - {text: "And I don't think I'm overstating this.", start: 685.70, end: 687.12, explain: "\"Overstating\" means saying something is bigger or more serious than it really is. The speaker thinks their actions are very important and not exaggerated.", zh: "我觉得我并没有夸大其词。（overstating 夸大，言过其实）"}
+  - {text: "Lindsay basically plans her whole life around when she's going to turn on her oven because Lindsay likes good bread, not cheapo sliced bread.", start: 687.70, end: 696.12, explain: "\"Cheapo\" is an informal word for something that is very cheap and often of low quality. Lindsay plans her day around baking because she likes good bread.", zh: "琳赛基本上围绕什么时候开烤箱来规划她的生活，因为她喜欢好的面包，而不是廉价的切片面包。（cheapo 廉价的，低档的）"}
+  - {text: "So she's baking their family's bread and muffins to try to save money.", start: 696.26, end: 700.14, explain: "\"Baking\" means cooking food in an oven. She makes bread and muffins to save money.", zh: "所以她给家人烤面包和松饼，试图省钱。（muffins 松饼）"}
+  - {text: "And I had rationalized keeping it going because I was like, I'm saving us so much money from not buying that $10 loaf of bread when I go to the grocery store.", start: 700.36, end: 711.04, explain: "\"Rationalized\" means she made a logical reason for her choice to feel right. A \"loaf\" is a whole piece of bread. The speaker says she kept making bread at home because she thought it saved money compared to buying bread at the shop.", zh: "我之所以觉得继续这么做是合理的，是因为我想着，不去超市买那个10美元的面包，能给我们省好多钱。（rationalized 合理化，自认为合理；loaf 一条面包）"}
+  - {text: "And then somebody said to me, yeah, but it costs so much money to run your oven at like 450, 500 degrees.", start: 711.36, end: 716.56, explain: "\"Run\" here means to use or operate a machine. \"450, 500 degrees\" is a very hot temperature. Someone told the speaker that using the oven at such a high heat uses a lot of money.", zh: "然后有人跟我说，把烤箱开到450、500度真的很费钱。（oven 烤箱；degrees 度，温度单位）"}
+  - {text: "And it kind of clicked.", start: 716.76, end: 717.56, zh: "那一刻我突然想通了。（clicked 突然明白，顿悟）"}
+  - {text: "I was like, oh, am I even saving us any money by doing this?", start: 717.68, end: 721.38, explain: "\"Even\" is used here to show surprise or doubt. The speaker is asking if her action actually saves money or not.", zh: "我就在想，我这么做真的能帮家里省钱吗？"}
+  - {text: "And so I pulled up last year's bill.", start: 721.80, end: 723.70, explain: "\"Pulled up\" means to open or show a file on a computer or phone. A \"bill\" is a paper or message that says how much you owe for services like electricity. The speaker opened her bill from last year.", zh: "于是我把去年的账单调出来看了看。（bill 账单）"}
+  - {text: "I pulled up this year's bill.", start: 723.86, end: 725.06, explain: "\"Pulled up\" means to open or show a file on a computer or phone. A \"bill\" is a paper or message that says how much you owe for services like electricity. The speaker opened her bill from this year.", zh: "又把今年的账单也调了出来。"}
+  - {text: "And then I was paying attention to the actual usage like the kilowatt hours.", start: 725.26, end: 728.34, explain: "\"Usage\" means how much of something you use. \"Kilowatt hours\" is a unit that measures how much electricity you use. The speaker started looking at the exact amount of electricity used.", zh: "然后我开始关注实际的用电量，比如千瓦时。（usage 用量；kilowatt hours 千瓦时，电量单位）"}
+  - {text: "She's tracking their family's kilowatt per hour usage.", start: 728.70, end: 731.98, explain: "\"Tracking\" means watching or recording changes over time. \"Kilowatt per hour\" is a unit of electricity. She is recording how much electricity her family uses.", zh: "她在记录家里每小时的千瓦时用电量。（kilowatt per hour 每小时千瓦时）"}
+  - {text: "Not because she's like into this stuff because she needs to squeeze out any cost savings she can.", start: 732.34, end: 737.74, zh: "她并不是对这方面特别感兴趣，而是因为她需要尽可能挤出每一分钱的节省。（squeeze out 挤出，勉强获得；cost savings 成本节省）"}
+  - {text: "Or if there's a particularly cooler day coming, like I'll save the baking for that day.", start: 737.74, end: 741.66, explain: "\"Particularly\" means very or especially. The speaker says they will wait to use the oven on a day that is much colder, to save energy.", zh: "或者如果预报说接下来会有特别凉快的日子，我就把烘焙安排在那天做。（baking 烘焙）"}
+  - {text: "No, you do not.", start: 742.12, end: 743.46, zh: "不，你绝对不行。"}
+  - {text: "I do. I absolutely do.", start: 743.68, end: 745.14, zh: "确实如此。我完全同意。"}
+  - {text: "This is, you're doing so many mental gymnastics.", start: 746.20, end: 751.26, explain: "\"Mental gymnastics\" is a phrase that means doing very difficult thinking or planning in your head. The speaker says the person is doing a lot of hard thinking.", zh: "这简直是在做高难度的脑力体操。（mental gymnastics 高难度的脑力活动，指复杂的心理调适）"}
+  - {text: "It's the water usage.", start: 752.04, end: 753.10, explain: "\"Usage\" means how much you use something. The speaker says the problem is how much water is being used.", zh: "比如用水量的控制。（water usage 用水量）"}
+  - {text: "It's when to use the oven.", start: 753.40, end: 754.58, zh: "还有什么时候用烤箱。（oven 烤箱）"}
+  - {text: "I mean, you know, because you teach psychology.", start: 755.42, end: 757.64, explain: "\"Psychology\" is the study of how people think and feel. The speaker mentions this because the other person teaches this subject.", zh: "我是说，你知道，因为你教心理学。（psychology 心理学）"}
+  - {text: "But this is what they call the cognitive burden.", start: 758.26, end: 761.56, explain: "\"Cognitive\" relates to thinking and understanding. A \"cognitive burden\" is the heavy weight of having to think about many things. This sentence is a fragment and continues in the next one.", zh: "但这正是他们所说的认知负担。（cognitive burden 认知负担）"}
+  - {text: "The cognitive load, yeah.", start: 761.58, end: 762.50, explain: "\"Cognitive load\" means the amount of mental effort needed to do something. The speaker agrees with the previous idea.", zh: "认知负荷，没错。（cognitive load 认知负荷）"}
+  - {text: "Yeah, for sure. The cognitive tax for trying to make the finances work for your household.", start: 762.78, end: 768.16, explain: "\"Cognitive tax\" is a phrase that means the mental cost or effort you pay to manage your money. \"Finances\" means money matters. The speaker says it is hard to make the family money work.", zh: "没错，绝对是。为了维持家庭财务运转而付出的认知税。（cognitive tax 认知税，指处理复杂决策所消耗的心理能量）"}
+  - {text: "It is, yeah. The cognitive tax isn't just about the mental load for Lindsey.", start: 768.64, end: 773.30, explain: "\"Cognitive tax\" means the mental effort needed to manage money. The speaker says this mental cost is not only for one person named Lindsey.", zh: "是的。认知税不仅仅是琳赛个人的心理负担。（cognitive tax 认知税）"}
+  - {text: "It's about all the things she's not doing for the larger economy because her brain and time are so tied up trying to save money.", start: 773.60, end: 780.80, explain: "\"Larger economy\" means the whole system of money and business in a country. \"Tied up\" means busy or occupied with something else. The sentence says she does not do other things for the country because she is too busy trying to save money.", zh: "更在于，因为她的时间和精力都耗在省钱上，导致她无法为更广泛的经济做出其他贡献。"}
+  - {text: "Like the energy you're expending is taking away from other things that you could be doing.", start: 781.30, end: 787.30, explain: "\"Expending\" means using up energy or effort. The sentence means that the energy you use for one thing stops you from doing other things.", zh: "就像你消耗的能量会挤占你本可以做其他事情的时间。（expending 消耗；taking away from 挤占，占用）"}
+  - {text: "Like it's like you are less good at doing your job because you're dealing with all this other stuff.", start: 787.42, end: 794.74, explain: "\"Dealing with\" means handling or managing problems. The sentence says you work less well because you are busy with other problems.", zh: "感觉因为要处理这些琐事，你工作起来就没那么在行了。（dealing with 处理，应对）"}
+  - {text: "Yeah, less good at a lot of things, right?", start: 795.22, end: 796.92, zh: "是啊，很多方面都不如以前了，对吧？"}
+  - {text: "But if you could be saving $2 here and $2 there, like I think those drops in the bucket will add up at some point.", start: 796.92, end: 803.20, explain: "\"Drops in the bucket\" is a phrase that means very small amounts of money. The speaker thinks these small savings will become a large amount later.", zh: "但如果你能在这里省两美元，那里省两美元，我觉得这些零钱积少成多，最后也会有一笔可观的数目。（drops in the bucket 九牛一毛，微不足道的部分）"}
+  - {text: "And I do feel this sense of guilt about not making the effort where the effort could be made to make a difference for my family.", start: 803.66, end: 813.14, explain: "\"Guilt\" is a bad feeling you have when you think you did something wrong. The speaker feels bad for not trying hard enough to help her family save money.", zh: "我确实感到愧疚，因为明明可以努力改善家人的生活，我却没有付出那份努力。（sense of guilt 愧疚感；make a difference 产生影响，带来改变）"}
+  - {text: "And this is why her email really stood out to us because you have a professor here putting so much mental energy and her analytical research skills towards questions like,", start: 813.58, end: 821.44, explain: "\"Stood out\" means was very noticeable or different from others. \"Analytical\" means using logic and facts to understand things. The email was special because a professor used her smart skills to answer simple money questions.", zh: "这就是为什么她的邮件让我们印象深刻，因为这里有一位教授，将大量的心理能量和分析研究技能投入到这类问题上，"}
+  - {text: "does it save money to bake bread versus buy it when you factor in electricity costs in the middle of the summer?", start: 821.60, end: 826.52, explain: "\"Factor in\" means to include something in your calculation or plan. The question is whether making bread at home is cheaper than buying it, if you count the cost of electricity in summer.", zh: "比如，考虑到夏季中段的电费，自己烤面包比买面包更省钱吗？（factor in 把……考虑在内）"}
+  - {text: "And that cognitive tax, it is worse for people who are much lower income than Lindsey.", start: 827.02, end: 831.52, explain: "\"Cognitive tax\" is a phrase that means the mental effort or stress you have to use. \"Lower income\" means having less money. The mental effort is harder for people who have less money than Lindsey.", zh: "而且这种认知负担，对于收入远低于林赛的人来说，情况更糟。（cognitive tax 认知负担，心智消耗）"}
+  - {text: "But even for Lindsey, there is kind of a silver lining that this odd economy is offering.", start: 833.14, end: 839.64, explain: "A \"silver lining\" is a good thing in a bad situation. \"Inflation\" means prices going up. The speaker says that even for Lindsey, there is a small good thing in this strange economy.", zh: "但即便对林赛来说，这种奇特的经济状况也带来了一丝亮色。（silver lining 一线希望，积极的一面）"}
+  - {text: "Like, I know Trump keeps saying, how's your 401k doing?", start: 840.12, end: 843.04, explain: "A \"401k\" is a special savings plan for work. It helps you save money for when you stop working. The speaker says Trump often asks people how their savings are doing.", zh: "比如，我知道特朗普一直问，你的401k退休金账户怎么样了？（401k 美国的一种退休储蓄计划）"}
+  - {text: "I'm like, it's doing great, but what do I do with that?", start: 843.66, end: 846.83, explain: "\"Doing great\" means working very well. The speaker says her savings are growing well, but she does not know what to do with the money.", zh: "我心想，虽然表现不错，但我该怎么处理这笔钱呢？"}
+  - {text: "Like, I can't use that for another 30 or 40 years.", start: 846.99, end: 849.27, zh: "毕竟，这笔钱我没法再花上三四十年的。"}
+  - {text: "So like, yay, my retired self.", start: 849.49, end: 852.15, zh: "所以，恭喜未来的退休版我自己。"}
+  - {text: "You said your retired self is looking pretty good though.", start: 853.05, end: 855.41, explain: "\"Retired\" means you have stopped working for good. The speaker asks if the person's future life after work looks good.", zh: "不过你说，你未来的退休生活看起来还挺不错的嘛。"}
+  - {text: "Well, I mean, compound interest, right?", start: 855.41, end: 858.79, explain: "\"Compound interest\" is money that grows faster because you earn money on the money you already earned. The speaker says this is why her savings are growing.", zh: "嗯，毕竟有复利嘛，对吧？（compound interest 复利）"}
+  - {text: "Yeah, and speaking of retirement?", start: 859.15, end: 861.43, explain: "\"Speaking of\" means talking about a topic. The speaker changes the topic to talk about retirement.", zh: "是啊，说到退休这件事……"}
+  - {text: "Yeah, we're very, very, very lucky.", start: 861.91, end: 863.63, zh: "是的，我们真的非常、非常幸运。"}
+  - {text: "There are some real winners in this economy, like some people whose retirement accounts are allowing them to live more comfortably than they even like to admit.", start: 863.91, end: 871.93, zh: "在这个经济环境下，有些人其实是真正的赢家，比如那些退休金账户让他们过得比他们自己承认的还要舒适的人。（retirement accounts 退休金账户）"}
+  - {text: "Also, we hear more from 17 -year -old Leo and the potential generational impacts of living through inflation spikes.", start: 872.35, end: 879.93, explain: "\"Generational impacts\" means how one group of people affects the next group. \"Inflation spikes\" means prices going up very fast. The show will talk about how high prices affect young people like Leo.", zh: "此外，我们还将听到17岁的利奥关于经历通胀高峰可能带来的代际影响的更多看法。（inflation spikes 通胀高峰；generational impacts 代际影响）"}
+  - {text: "That's after the break.", start: 880.35, end: 881.23, zh: "稍后回来继续收听。"}
+  - {text: "This message comes from NPR sponsor Charles Schwab Financial decisions can be tricky.", start: 890.77, end: 896.15, explain: "This is an ad. \"Sponsor\" means a company that pays for the show. \"Tricky\" means hard to decide. The ad says making money choices can be difficult.", zh: "这条消息来自 NPR 的赞助商 Charles Schwab。金融决策往往很棘手。（NPR 美国国家公共广播电台；Charles Schwab 嘉信理财）"}
+  - {text: "Your biases can lead you astray.", start: 896.55, end: 898.43, explain: "\"Biases\" are unfair feelings or ideas that make you see things wrongly. \"Lead you astray\" means to make you make a bad choice. The speaker says your unfair feelings can make you do the wrong thing.", zh: "你的偏见可能会让你误入歧途。（biases 偏见；lead you astray 让你走错路）"}
+  - {text: "Financial Decoder, an original podcast from Charles Schwab, can help.", start: 898.87, end: 902.71, zh: "Charles Schwab 的原创播客《Financial Decoder》可以帮到你。（Financial Decoder 金融解码，播客名称）"}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 903.01, end: 908.41, explain: "This is an advertisement. \"Subscribe\" means to pay to get the show every week. \"Schwab\" is the name of the company paying for the ad.", zh: "请在 Schwab.com/FinancialDecoder 下载最新一集并订阅。（subscribe 订阅）"}
+  - {text: "This message comes from Northwestern Mutual.", start: 909.07, end: 911.37, explain: "This is the start of an advertisement. \"Northwestern Mutual\" is the name of a company that sells insurance.", zh: "这条消息来自 Northwestern Mutual。（Northwestern Mutual 西北相互人寿保险公司）"}
+  - {text: "Life's a lot lately.", start: 911.75, end: 913.17, explain: "This is part of an advertisement. \"Life's a lot\" means life is very busy and difficult right now.", zh: "最近生活挺不容易的。（Life's a lot 生活很艰难，口语表达）"}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 913.59, end: 917.69, zh: "有些事你无法控制，但你可以用计划来掌控自己的财务。（control 控制；plan 计划）"}
+  - {text: "It all starts with Northwestern Mutual.", start: 918.11, end: 919.97, zh: "这一切都从 Northwestern Mutual 开始。"}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 920.33, end: 928.27, explain: "\"Clients\" are the people who pay for a service. \"Economic environment\" means the state of the money system, like if prices are high or low. The company says it has helped people for 170 years, even when the economy was bad.", zh: "近 170 年来，他们帮助客户在各种经济环境中取得成功，在不确定时期提供稳定。（economic environment 经济环境；uncertainty 不确定性）"}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 928.75, end: 933.85, explain: "This is the end of an advertisement. \"Milwaukee\" is a city in the US. \"Wisconsin\" is a state in the US. The company is telling you where to find them online.", zh: "请访问 NM.com 开始办理，即位于威斯康星州密尔沃基的 Northwestern Mutual 人寿保险公司。（Milwaukee 密尔沃基；Wisconsin 威斯康星州）"}
+  - {text: "This message comes from LinkedIn.", start: 934.77, end: 936.19, explain: "This is the start of an advertisement. \"LinkedIn\" is a website for work and jobs.", zh: "这条信息来自领英。"}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 936.65, end: 941.01, explain: "\"Juggling\" means doing many hard things at the same time. The speaker says running a small business is hard because you must do many things at once.", zh: "经营一家小企业面临诸多挑战，意味着你得同时处理多件事。（juggling 同时应付，兼顾）"}
+  - {text: "It's even harder to do it efficiently.", start: 941.31, end: 942.69, explain: "\"Efficiently\" means in a way that saves time and money. The speaker says it is very difficult to do the job well and quickly at the same time.", zh: "要想高效地做到这一点就更难了。"}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 943.11, end: 947.07, zh: "但有了领英，你可以在一个地方获得成长所需的所有工具。"}
+  - {text: "With LinkedIn, simplify your sales, marketing, and hiring so that you can actually run your small business.", start: 947.37, end: 953.57, explain: "This is an advertisement. \"LinkedIn\" is a website for work and jobs. \"Hiring\" means finding new people to work for you. The ad says LinkedIn helps small businesses make selling and finding staff easier.", zh: "借助领英，简化你的销售、营销和招聘流程，从而真正经营好你的小企业。"}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 953.95, end: 957.43, explain: "This is part of an advertisement. It tells you where to go on the internet to find more information about the show.", zh: "访问 LinkedIn.com/slash/Planet Money Show 了解更多。"}
+  - {text: "This message comes from Active Campaign.", start: 957.97, end: 959.97, explain: "This is the start of an advertisement. \"Active Campaign\" is the name of a company that sells software for business.", zh: "这条信息来自 Active Campaign。"}
+  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 960.55, end: 964.99, explain: "This is an advertisement. \"Campaign\" means a plan to sell things or tell people about a brand. The ad asks if your plan could be ready before you start your computer.", zh: "如果你打开笔记本电脑之前，下一场营销活动就已经建好了，那会怎样？"}
+  - {text: "That's Active Intelligence by Active Campaign.", start: 965.33, end: 967.77, zh: "这就是 Active Campaign 的 Active Intelligence。"}
+  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 968.11, end: 973.53, zh: "它了解你的受众、历史记录和语调，并据此行动，无需你吩咐。（audience 受众，听众）"}
+  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 973.83, end: 978.33, explain: "This is an advertisement. \"Automation\" means using machines or software to do work by itself. \"On your wavelength\" means understanding what you want and feeling like you are in sync.", zh: "不仅仅是营销自动化，而是一个真正与你同频共振的平台。（wavelength 频率，此处指契合度）"}
+  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 978.33, end: 983.35, explain: "This is an advertisement. \"Engagement\" means how many people open or reply to your emails. The ad says people use this tool to get 75% more replies.", zh: "使用 Active Intelligence 的客户，其邮件互动率提高了 75%。（engagement 互动率）"}
+  - {text: "Start free at ActiveCampaign .com.", start: 983.63, end: 985.93, explain: "This is the end of an advertisement. It tells you to go to the website to start using the service for free.", zh: "访问 ActiveCampaign.com 即可免费开始使用。"}
+  - {text: "Okay, so some of you who wrote in were more the lenses of the economic moment, you know, really jumping through hoops to make money stretch.", start: 987.42, end: 994.68, explain: "\"Lenses\" means ways of looking at something. \"Jumping through hoops\" means doing many difficult things to get a result. The speaker says some listeners wrote in about how they are trying hard to save money because prices are high.", zh: "好的，有些给我们写信的听众更关注当下的经济状况，比如绞尽脑汁让钱花得更久。（lenses 视角；jumping through hoops 费尽心思，做很多繁琐的事）"}
+  - {text: "Others were more of a rick.", start: 995.38, end: 997.24, explain: "This sentence is cut off and continues in the next one. The word \"rick\" is likely a mistake in the recording or transcript for a name, like \"Rick\".", zh: "另一些人则更像里克。（rick 此处指人名 Rick，可能为转录错误）"}
+  - {text: "Retired and feeling good.", start: 997.68, end: 999.26, zh: "退休了，感觉很好。"}
+  - {text: "You said that a lot of your elderly friends, your words, are in a similar situation financially as you.", start: 999.62, end: 1007.92, explain: "\"Elderly\" means old people. The speaker says that listeners told them their older friends have the same money problems as they do.", zh: "你说很多老年朋友，用你的话说，财务状况和你差不多。（elderly 年长的）"}
+  - {text: "And then you put, and we do not talk about it much.", start: 1007.92, end: 1010.82, zh: "然后你写道，我们很少谈论这件事。"}
+  - {text: "Like that's not a conversation.", start: 1011.54, end: 1013.70, zh: "就像那不是个能聊的话题。"}
+  - {text: "No. No, no. This is Rick Schultz who said he is very, very, very lucky right now.", start: 1014.04, end: 1019.02, explain: "\"Lucky\" means having good fortune or good luck. Rick Schultz says he is very happy with his current situation.", zh: "不，不，不。这是里克·舒尔茨，他说自己现在非常、非常、非常幸运。（Schultz 舒尔茨）"}
+  - {text: "Well, yeah, we are.", start: 1019.38, end: 1020.52, zh: "嗯，是的，我们确实是。"}
+  - {text: "We're very, very fortunate.", start: 1020.76, end: 1021.88, explain: "\"Fortunate\" means having good luck or being in a good situation. Rick says he and his family are very well off.", zh: "我们非常、非常幸运。"}
+  - {text: "I mean, you emailed us and said, your income exceeds your daily expenditures by nearly $2 ,000 a month.", start: 1022.34, end: 1029.92, explain: "\"Exceeds\" means is more than. \"Expenditures\" means money spent. The speaker says Rick's money coming in is about $2,000 more than the money he spends each month.", zh: "我是说，你给我们发邮件说，你的收入比日常开销每月高出近2000美元。（exceeds 超过；expenditures 支出）"}
+  - {text: "Yep, we're pleased. On a fixed income, that's pretty good.", start: 1030.28, end: 1033.36, zh: "是的，我们很高兴。对于固定收入来说，这相当不错了。（fixed income 固定收入）"}
+  - {text: "Yeah, we're very, very, very lucky.", start: 1033.78, end: 1035.50, zh: "是的，我们非常、非常、非常幸运。"}
+  - {text: "Rick is not rolling in it.", start: 1035.84, end: 1037.50, explain: "\"Rolling in it\" is an informal phrase that means having a lot of money. The speaker says Rick is not rich, even though he has extra money.", zh: "里克并没有富得流油。（rolling in it 富得流油，非常富有）"}
+  - {text: "Okay, he's still paying off his house, paying a mortgage.", start: 1037.50, end: 1040.04, explain: "\"Mortgage\" is the money you borrow to buy a house, which you pay back over time. The speaker says Rick is still paying for his house.", zh: "好吧，他还在还房贷，支付按揭。（mortgage 抵押贷款，按揭）"}
+  - {text: "He doesn't feel at all stressed about finances, but he notices that prices are high.", start: 1040.50, end: 1045.88, zh: "他对财务状况完全没感到压力，但他注意到物价很高。"}
+  - {text: "Well, eating out, you see that, and you see filling up your daughter's minivan is a lot more expensive.", start: 1046.26, end: 1054.30, explain: "\"Eating out\" means buying food at a restaurant instead of cooking at home. \"Minivan\" is a large car with three rows of seats, often used by families. The speaker says that going to restaurants and filling the car with gas cost much more money now.", zh: "嗯，外出吃饭时你能看到，而且给女儿的迷你面包车加满油也贵了很多。（minivan 迷你面包车）"}
+  - {text: "Do you fill up your daughter's minivans?", start: 1054.80, end: 1056.54, explain: "\"Fill up\" means to make a container full, here meaning to add gas to the car. The host asks if the guest pays for the gas in his daughter's car.", zh: "你会给女儿们的迷你面包车加油吗？"}
+  - {text: "Oh, on occasion. That's a good dad.", start: 1057.34, end: 1060.50, zh: "哦，偶尔吧。那是个不错的爸爸。（on occasion 偶尔）"}
+  - {text: "How old is your daughter?", start: 1061.38, end: 1062.40, explain: "This is a simple question asking about the age of the guest's daughter.", zh: "你女儿多大了？"}
+  - {text: "She is, I'm supposed to know this, aren't I?", start: 1063.08, end: 1066.04, explain: "\"I'm supposed to know this\" means he thinks he should know the answer, but he is not sure. He is joking that he should know his daughter's age.", zh: "她……我本该知道这个的，对吧？"}
+  - {text: "I think she's 38.", start: 1066.22, end: 1067.06, zh: "我觉得她38岁。"}
+  - {text: "Now I'm going to get that wrong and I'm going to get in big trouble.", start: 1067.50, end: 1069.72, zh: "我现在要是说错了，肯定会惹上大麻烦。（in big trouble 惹上大麻烦）"}
+  - {text: "It's okay, we'll correct it.", start: 1069.90, end: 1071.04, zh: "没关系，我们会修正的。"}
+  - {text: "We'll change it later.", start: 1071.08, end: 1071.78, zh: "我们稍后会改过来。"}
+  - {text: "His daughter is 41.", start: 1072.06, end: 1073.48, explain: "This sentence states the age of the man's daughter.", zh: "他的女儿41岁。"}
+  - {text: "He checked his little sheet of important dates on his phone for that one.", start: 1073.80, end: 1076.88, explain: "\"Sheet\" here means a small list or note. The man looked at a list of important dates on his phone to find the answer.", zh: "为了确认这个，他查了手机里那张记录重要日期的便签。（sheet of important dates 重要日期便签）"}
+  - {text: "And one of the reasons we wanted to talk to Rick is because he represents a version of the American dream and retirement that is fleeting,", start: 1077.54, end: 1085.86, explain: "\"Represents\" means shows or stands for. \"Fleeting\" means lasting for a very short time, not permanent. The sentence says they talked to Rick because he shows a type of American dream that is disappearing. The sentence is cut off and continues in the next one.", zh: "我们想采访里克的一个原因是，他代表了一种正在消逝的美国梦和退休生活版本。（fleeting 短暂的，转瞬即逝的）"}
+  - {text: "the fulfillment of a kind of economic promise that for younger generations feels broken.", start: 1086.40, end: 1091.28, explain: "\"Fulfillment\" means making a promise come true. \"Economic promise\" is the idea that working hard will lead to a good life. The sentence says that young people feel this promise is broken.", zh: "对于年轻一代来说，那种曾经被视为经济承诺的兑现，如今感觉像是被打破了。（fulfillment 实现，兑现；economic promise 经济承诺）"}
+  - {text: "When Rick emailed us, he wrote, quote, One under -reported economic story is the number of older retired people that are living very good economic lives in their old age.", start: 1091.74, end: 1101.46, explain: "\"Under-reported\" means not talked about enough in the news. \"Retired\" means people who have stopped working because they are old. Rick says a hidden story is that many older people are living well.", zh: "里克给我们发邮件时写道：“一个被报道不足的经济故事是，许多老年退休人士在晚年过着非常富足的生活。”（under-reported 报道不足的；retired 退休的）"}
+  - {text: "And there are a few reasons for that.", start: 1101.64, end: 1103.48, zh: "这背后有几个原因。"}
+  - {text: "One, real estate. If you own property, your homes have probably gone up in value.", start: 1103.88, end: 1108.24, zh: "第一是房地产。如果你拥有房产，你的房子可能已经升值了。（real estate 房地产；property 房产，不动产）"}
+  - {text: "Another is the stock market.", start: 1108.62, end: 1110.06, explain: "\"Stock market\" is where people buy and sell shares of companies. The speaker says the stock market is another important topic.", zh: "另一个原因是股市。"}
+  - {text: "If you have money in there, I mean the stock market over the past several years is on an incredible historic streak.", start: 1110.38, end: 1116.82, explain: "\"Streak\" means a long period of good luck or success. The speaker says the stock market has been doing very well for many years.", zh: "如果你把钱投在里面，我是说，过去几年股市一直保持着惊人的历史级涨势。（stock market 股市；streak 连续，势头）"}
+  - {text: "It is just up, up, up, up, up, up, up.", start: 1116.96, end: 1120.40, explain: "The speaker repeats \"up\" to show that the value of the stock market keeps going higher and higher.", zh: "它只是一路涨，涨，涨，涨，涨，涨，涨。"}
+  - {text: "And if you're retired, like Rick, that's probably where your money is.", start: 1120.48, end: 1125.06, explain: "\"Retired\" means not working anymore. The speaker says that for people like Rick who have stopped working, their money is likely in the stock market.", zh: "如果你像里克一样退休了，那你的钱很可能就在那里。"}
+  - {text: "IRAs, individual retirement accounts, 401Ks.", start: 1125.74, end: 1128.58, zh: "比如个人退休账户（IRA）和401k计划。（IRAs 个人退休账户；401Ks 401k养老金计划）"}
+  - {text: "Rick has some of that.", start: 1128.92, end: 1129.50, zh: "里克手里也有一些这样的资产。"}
+  - {text: "But also, he has a pension.", start: 1129.92, end: 1131.62, zh: "而且，他还有一份养老金。"}
+  - {text: "Two, actually. He worked for the state of Kansas and the state of Iowa doing mental health and disability services jobs.", start: 1132.34, end: 1139.10, explain: "\"Disability\" means a physical or mental condition that makes it hard to do normal things. Rick worked for the government in two states helping people with health problems.", zh: "实际上有两份。他曾在堪萨斯州和艾奥瓦州政府工作，从事心理健康和残疾服务相关工作。（pension 养老金；Kansas 堪萨斯州；Iowa 艾奥瓦州）"}
+  - {text: "So you have pensions for the rest of your life from both states?", start: 1139.54, end: 1142.38, zh: "所以你能从这两个州领取终身的养老金？"}
+  - {text: "Yes, yes. Rick says there are some trade -offs to working in public service jobs.", start: 1143.16, end: 1148.52, zh: "是的，是的。里克说，在公共服务部门工作有一些利弊权衡。（trade-offs 利弊权衡；public service 公共服务）"}
+  - {text: "It's not a path to riches necessarily, but he says it is a path to security.", start: 1148.64, end: 1154.00, explain: "\"Riches\" means having a lot of money. \"Security\" means being safe and stable. The job does not make him rich, but it is safe.", zh: "这未必是致富之路，但他说这是一条通往安全感的道路。（riches 财富；security 安全感）"}
+  - {text: "The salaries are not that wonderful.", start: 1154.20, end: 1155.72, zh: "薪水并不是特别高。"}
+  - {text: "Benefits are great. Rick also invested in a personal retirement account.", start: 1156.58, end: 1161.74, explain: "\"Benefits\" here means extra money or help from a job, like health care or paid time off. \"Invested\" means he put money into a plan to grow it for the future. The sentence says the job perks are good, and Rick also saved money for when he is old.", zh: "但福利待遇很好。里克还投资了一个个人退休账户。（Benefits 福利待遇；retirement account 退休账户）"}
+  - {text: "He said he and his wife invested early in their mid -30s and quite substantially.", start: 1162.06, end: 1166.52, explain: "\"Invested\" means put money into things like stocks or houses to try to make more money. \"Substantially\" means a large amount. The man says he and his wife started saving money for the future when they were about 35 years old, and they put in a lot of money.", zh: "他说他和妻子在三十多岁时就开始投资，而且投入相当可观。（substantially 可观地，大量地）"}
+  - {text: "Even when it was difficult for us to do so.", start: 1167.10, end: 1169.16, explain: "The sentence is a fragment. It starts with \"Even when\", which means \"although\" or \"despite the fact that\". It says that something happened, even though it was hard for the people to do it. The full meaning depends on the sentence before this one.", zh: "即使这对我们来说很困难。"}
+  - {text: "Even when it was a challenge for us financially.", start: 1169.46, end: 1172.22, explain: "\"Financially\" means having to do with money. The sentence is a fragment that continues from the previous one. It means that the situation was hard for them because of money problems.", zh: "即使我们在经济上面临挑战。"}
+  - {text: "The standard investing advice has always been to put money into a retirement account as early as possible and choose risky investments in the stock market", start: 1172.78, end: 1180.58, explain: "\"Retirement account\" is a special bank account for money you save for when you stop working. \"Risky investments\" are things you buy that might lose value, but can also make a lot of money. The sentence says that normal advice is to start saving for old age early and buy things in the stock market that are not safe.", zh: "传统的投资建议一直是尽早把钱存入退休账户，并在年轻时选择股市中风险较高的投资。（retirement account 退休账户；stock market 股市）"}
+  - {text: "when you're still years away from retirement than less risky investments like treasuries when retirement is around the corner.", start: 1180.58, end: 1186.38, explain: "This is a fragment that continues from the previous sentence. \"Treasuries\" are safe money loans given by the US government. \"Around the corner\" means very soon. The sentence compares risky investments for young people with safe ones for people who are about to stop working.", zh: "而在临近退休时，则应转向国债等风险较低的投资。（treasuries 美国国债；around the corner 临近，即将到来）"}
+  - {text: "And that is what Rick did.", start: 1186.66, end: 1188.28, explain: "\"Rick\" is the name of the person being talked about. The sentence says that Rick did the thing that was just described.", zh: "里克正是这样做的。"}
+  - {text: "So a part of him feels like, yeah, he made the sacrifices early.", start: 1188.76, end: 1191.92, explain: "\"Sacrifices\" means things you give up or do that are hard for you to help others or a plan. The sentence says that he feels good about giving up things early in his life.", zh: "所以他心里觉得，没错，他确实早年做出了牺牲。（sacrifices 牺牲，付出代价）"}
+  - {text: "But also, he kind of just got lucky that he was born and he retired at the right time when the stock market experienced these gigantic booms and his money compounded.", start: 1192.54, end: 1202.76, explain: "\"Gigantic\" means very big. \"Compounded\" means the money grew because the interest earned also made more interest. The sentence says he was lucky to retire when the market was very high, so his savings grew a lot.", zh: "但另一方面，他也觉得自己挺走运，出生和退休的时机刚好赶上股市的巨大繁荣，资金实现了复利增长。（compounded 复利增长；booms 繁荣，激增）"}
+  - {text: "Rick feels a lot of guilt over this actually because he says what he was able to do in his 30s, he doesn't think people in their 30s today can do.", start: 1203.00, end: 1211.26, explain: "\"Guilt\" is a bad feeling you get when you think you did something wrong or are not fair to others. The sentence says Rick feels bad because he thinks young people today cannot do what he did when he was young.", zh: "里克对此其实感到很有负罪感，因为他说自己三十多岁时能做到的事，他认为现在的三十多岁的人做不到。（guilt 负罪感，内疚）"}
+  - {text: "We could figure out how to squeeze the money out of our budget but nowadays the cost of living has gone up so much.", start: 1211.58, end: 1219.62, explain: "\"Squeeze\" means to try to save money by spending less. \"Cost of living\" means the money you need for basic things like food and rent. The speaker says it is hard to save money now because prices are much higher.", zh: "我们当时能想办法从预算里挤出钱来，但现在生活成本涨得太高了。（squeeze 挤出，节省；cost of living 生活成本）"}
+  - {text: "There's so much less flexibility for younger people to do the same kind of investing.", start: 1220.08, end: 1225.96, explain: "\"Flexibility\" means the ability to change or adapt easily. The sentence says young people have less room to make money in the same way as older people did.", zh: "年轻人想要进行同样的投资，灵活性要少得多。（flexibility 灵活性，余地）"}
+  - {text: "We heard from a lot of you who felt this exact same way.", start: 1226.32, end: 1230.14, explain: "\"Exact same\" means completely identical. The hosts say many listeners told them they feel the same way about money and life.", zh: "我们收到了很多听众的反馈，大家都有完全相同的感受。"}
+  - {text: "You said you were doing fine, but your kids are struggling living at home or they want to do some of the big milestones like getting engaged by a house but they're just not there financially.", start: 1230.30, end: 1240.42, explain: "\"Milestones\" are big, important events in a person's life, like getting married or buying a home. \"Not there financially\" means they do not have enough money. The sentence says kids are struggling to reach these big goals because they lack money.", zh: "你们说虽然自己过得还行，但孩子们要么在家生活得很艰难，要么想完成订婚或买房这样的大事，但经济上根本负担不起。（milestones 里程碑，人生大事；engaged 订婚）"}
+  - {text: "And when you hear people talk about, well, the younger generation, they just have to pull themselves up from their bootstraps.", start: 1241.32, end: 1247.64, explain: "\"Pull themselves up from their bootstraps\" is a saying that means you must succeed by your own hard work, without help from others. The sentence refers to people who say young people must just work harder to succeed.", zh: "当你听到人们谈论年轻一代时，他们总是说年轻人得靠自己的双手白手起家。（bootstraps 鞋带，引申为自力更生；pull themselves up from their bootstraps 白手起家，靠自身努力成功）"}
+  - {text: "Do the math. That's what I like to tell people.", start: 1248.22, end: 1251.34, explain: "\"Do the math\" means to look at the real numbers and facts, not just feelings. The speaker tells people to look at the real costs and see that it is not easy.", zh: "算算账吧。这是我常对人们说的话。（Do the math 算算账，仔细计算）"}
+  - {text: "Do the math. It's not the same.", start: 1251.54, end: 1253.46, explain: "\"Do the math\" means to calculate the numbers to see if they are correct. The speaker says the numbers do not match, so the two things are not equal.", zh: "算算账吧。情况并不一样。（Do the math 算算账，仔细计算）"}
+  - {text: "You like to think it's the same, it's not the same.", start: 1254.64, end: 1256.76, zh: "你或许觉得情况一样，但其实并不一样。（like to think 以为，认为）"}
+  - {text: "All you have to do is look at rent and look at what the minimum wage is.", start: 1257.52, end: 1261.82, explain: "\"Rent\" is the money you pay to live in a house you do not own. \"Minimum wage\" is the lowest amount of money a worker can legally be paid for an hour of work. The speaker says you only need to compare these two numbers to see the problem.", zh: "你只需要看看房租和最低工资是多少就行了。（minimum wage 最低工资）"}
+  - {text: "Rick is refreshingly thoughtful about this stuff.", start: 1262.36, end: 1265.16, explain: "\"Refreshingly\" means in a way that feels new and good, because most people do not think this way. \"Thoughtful\" means he thinks carefully and deeply about the topic. The speaker says Rick thinks about these issues in a very good and clear way.", zh: "里克对这些问题有着令人耳目一新的深思熟虑。（refreshingly 令人耳目一新地；thoughtful 深思熟虑的）"}
+  - {text: "He says he got where he is now not just through smart decisions that he made and pensions and investments, but also because of these programs that he and his wife benefited from.", start: 1265.46, end: 1274.38, explain: "\"Pensions\" are money you save for when you stop working and get old. \"Investments\" are money you put into things like stocks to try to make more money. \"Benefited from\" means they got help or good results from these government programs. Rick says he is successful because of his own smart choices, his savings, and also help from the government.", zh: "他说他现在的成就不仅源于他做出的明智决策、养老金和投资，还得益于他和妻子享受到的这些福利计划。（pensions 养老金；benefited from 受益于）"}
+  - {text: "Like, Rick got a federal first -time homebuyer's tax credit.", start: 1274.90, end: 1278.98, explain: "\"Federal\" means from the national government of the country. \"First-time homebuyer\" is a person who is buying a house for the very first time. \"Tax credit\" is money the government takes off your tax bill to help you. Rick got a special discount on his taxes because he was buying his first house.", zh: "比如，里克获得了联邦首次购房者的税收抵免。（federal 联邦的；first-time homebuyer's tax credit 首次购房者税收抵免）"}
+  - {text: "Well, I looked it up before I called you and said, did they still have that?", start: 1279.22, end: 1282.78, explain: "\"Looked it up\" means searched for information in a book or on the internet. The speaker says they checked the facts before calling Rick to ask if that tax help still exists.", zh: "嗯，我在给你打电话之前查了一下，问他们现在还有这个政策吗？（looked it up 查阅，查找）"}
+  - {text: "No, they don't have that anymore.", start: 1283.32, end: 1284.62, explain: "This is a short answer. The speaker says that the specific tax help Rick got is no longer available to people today.", zh: "不，他们现在没有这个政策了。（anymore anymore，不再）"}
+  - {text: "They haven't had it for years.", start: 1284.70, end: 1286.04, zh: "他们已经好几年没享受过这种待遇了。"}
+  - {text: "There are some homebuyer tax credits still, but the one that Rick got doesn't exist anymore.", start: 1286.38, end: 1290.70, explain: "\"Exist\" means to be real or to be there. The speaker says some other tax helps for buying houses are still there, but the specific one Rick got is gone and cannot be used now.", zh: "虽然还有一些购房税收抵免政策，但里克当年享受的那项已经不存在了。（tax credits 税收抵免；exist 存在）"}
+  - {text: "Another thing, Rick's wife, she got a job that qualified for student loan forgiveness.", start: 1291.04, end: 1295.00, explain: "\"Qualified for\" means met the rules to get something. \"Student loan forgiveness\" means the government does not ask you to pay back money you borrowed for school. Rick's wife found a job that let her stop paying back her school loans.", zh: "还有一件事，里克的妻子找到了一份工作，符合学生贷款豁免的条件。（student loan forgiveness 学生贷款豁免；qualify 符合资格）"}
+  - {text: "People talk about student loan forgiveness as like a sin now, but we had access to that.", start: 1295.00, end: 1300.36, explain: "\"Sin\" usually means a bad thing, but here it means people think it is wrong or unfair. \"Access\" means the chance or ability to use something. People say getting loan forgiveness is bad, but the speaker says they were allowed to use it.", zh: "现在人们提起学生贷款豁免，好像那是一种罪过，但我们当时确实有机会享受这个政策。（access 机会，获取权）"}
+  - {text: "I didn't realize. It does feel like it's like a new thing.", start: 1300.60, end: 1303.46, zh: "我都没意识到，感觉这像是个新事物似的。"}
+  - {text: "I didn't even know you guys took out loans in the 70s that that college was like 100 bucks a month.", start: 1303.74, end: 1307.96, explain: "\"Took out loans\" means borrowed money. \"Bucks\" is a casual word for dollars. The speaker is surprised that people borrowed money in the 1970s because college was very cheap, only 100 dollars a month.", zh: "我甚至不知道你们在七十年代也办了贷款，那时候大学学费一个月才一百美元。（loans 贷款）"}
+  - {text: "Yeah, well, see, that's the other thing.", start: 1308.32, end: 1309.68, zh: "是啊，你看，这就是另一回事了。"}
+  - {text: "Higher education was cheap.", start: 1309.90, end: 1310.90, explain: "\"Higher education\" means college or university. This short sentence says that going to college cost very little money back then.", zh: "当时的高等教育很便宜。（Higher education 高等教育）"}
+  - {text: "There was bad unemployment in 1975 when Rick graduated college.", start: 1311.30, end: 1314.88, explain: "\"Unemployment\" means not having a job. \"Bad unemployment\" means many people did not have work. In 1975, when Rick finished college, it was hard to find a job.", zh: "1975年里克大学毕业时，失业率很高。（unemployment 失业）"}
+  - {text: "He could only get a minimum wage job, but he lived and saved.", start: 1315.10, end: 1319.40, explain: "\"Minimum wage\" is the lowest amount of money a boss must pay a worker. \"Saved\" means kept some money instead of spending it. Rick only had a low-paying job, but he lived simply and kept some money.", zh: "他只能找到一份最低工资的工作，但他省吃俭用，存下了钱。（minimum wage 最低工资；saved 储蓄）"}
+  - {text: "Just fine with that, he says.", start: 1319.66, end: 1320.96, zh: "他说，对此他完全没问题。"}
+  - {text: "Can you imagine? That would never happen today.", start: 1321.42, end: 1324.28, zh: "你能想象吗？这在今天绝不可能发生。"}
+  - {text: "Meaning like you could rent your own apartment and buy your groceries?", start: 1324.82, end: 1328.12, zh: "意思是说，你可以租自己的公寓，买得起日常杂货？"}
+  - {text: "Oh yeah, I did when I graduated, and you could make it.", start: 1328.68, end: 1331.92, explain: "\"Make it\" means to manage to live or succeed with the money you have. The speaker says that when they graduated, the money from a job was enough to live on.", zh: "哦是的，我毕业时就是这样，而且日子过得去。（make it 过活，维持生计）"}
+  - {text: "You could find a way to make it.", start: 1332.22, end: 1333.66, zh: "总能找到办法过下去的。"}
+  - {text: "So much of what was available to Rick has to do with timing.", start: 1333.88, end: 1337.46, explain: "\"Timing\" means the specific time or moment. Many things Rick could do depended on when he was born and when he finished school.", zh: "里克拥有的很多机会，其实都跟时机有关。"}
+  - {text: "Yeah, just like what was going on in the economy, what programs existed when he entered the labor market and had all of his big financial milestones.", start: 1337.76, end: 1345.26, explain: "A \"labor market\" is the place where people look for jobs and companies look for workers. \"Milestones\" are big, important steps in life, like buying a house or getting a first job. The speaker says that a person's life path is shaped by the economy and the jobs available when they first started working.", zh: "没错，就像当时的经济状况，以及他进入劳动力市场时有哪些项目，正好赶上他人生中的重大财务节点。（labor market 劳动力市场；milestones 里程碑，关键节点）"}
+  - {text: "Think of all the people who entered the labor market in 2008 -2009 during the financial crisis.", start: 1345.78, end: 1351.52, explain: "The \"financial crisis\" was a time when many banks failed and people lost money, starting in 2008. The speaker asks you to think about the people who started looking for work during that hard time.", zh: "想想那些在2008到2009年金融危机期间进入劳动力市场的人。"}
+  - {text: "As a generation, millennials started working at depressed wages.", start: 1351.52, end: 1355.14, explain: "\"Millennials\" are people born between 1981 and 1996. \"Depressed wages\" means very low pay. This sentence says that when this group started working, they did not earn much money.", zh: "作为一个群体，千禧一代刚开始工作时工资就很低。（millennials 千禧一代；depressed wages 被压低的工资）"}
+  - {text: "It took more than a decade for them to catch up.", start: 1355.28, end: 1357.74, zh: "他们花了十多年才追平（收入水平）。（catch up 追赶，追平）"}
+  - {text: "And many still haven't caught up.", start: 1357.96, end: 1359.68, explain: "\"Caught up\" means to reach the same level as others. The sentence says that many people in this group still have less money than they should have compared to other groups.", zh: "而且很多人至今还没能追上（catch up 赶上，恢复）"}
+  - {text: "Literally, your economic fate can come down to just the year you were born, which brings us back to Leo, the 17 -year -old who has only ever known high -price bikes.", start: 1359.80, end: 1370.00, explain: "\"Economic fate\" means how much money you will make in your life. The speaker says that the year you are born can decide your money problems. The sentence then moves back to Leo, a 17-year-old boy who only knows expensive bikes.", zh: "说真的，你的经济命运可能完全取决于你出生的年份，这就让我们回到利奥，这个只见过高价自行车的17岁少年。（fate 命运；come down to 归结于，取决于）"}
+  - {text: "For Leo, gas has been the real killer.", start: 1370.44, end: 1372.86, explain: "\"Gas\" is the fuel for cars. \"The real killer\" is a phrase that means the biggest problem or the thing that hurts the most. For Leo, the high price of fuel is the worst part of his life.", zh: "对利奥来说，油价才是真正的杀手。（killer 杀手，这里指最大的负担或难题）"}
+  - {text: "Yeah, when gas hit $5 a gallon and I was going to the pump and I was like feeling it like in my...", start: 1373.10, end: 1378.68, explain: "A \"gallon\" is a unit for measuring liquid, about 3.8 liters. \"The pump\" is the machine at a gas station where you put fuel in your car. Leo is describing how it felt when gas became very expensive.", zh: "是啊，当时油价涨到每加仑5美元，我去加油的时候，感觉那种压力真的……（gallon 加仑，液体容量单位）"}
+  - {text: "I was like, no, stop growing up.", start: 1378.68, end: 1380.20, explain: "This is a short, emotional sentence. Leo is saying he did not want to become an adult because being an adult means dealing with high prices and hard money problems.", zh: "我当时就想，不，别让我长大。（grow up 长大，成熟）"}
+  - {text: "Oh, I was waiting for the click and it's like still going up.", start: 1380.20, end: 1383.34, explain: "\"Click\" is the sound a machine makes when it stops or finishes. The speaker was waiting for this sound, but the number on the screen kept getting bigger.", zh: "哦，我在等那个“咔哒”声，结果数字还在往上跳。（click 咔哒声，这里指加油机停止计量的声音）"}
+  - {text: "Leo lives with his parents, right?", start: 1383.62, end: 1385.88, zh: "利奥是跟父母住在一起，对吧？"}
+  - {text: "So he doesn't have to pay rent.", start: 1386.00, end: 1387.42, zh: "所以他不用付房租。（rent 房租）"}
+  - {text: "He doesn't have bills, but his parents don't pay for everything.", start: 1387.54, end: 1390.02, zh: "他也不用付账单，但他父母也不是什么都帮他付。（bills 账单，费用）"}
+  - {text: "They have drawn a very defined line on we're not paying for any of your food.", start: 1390.34, end: 1395.02, explain: "A \"defined line\" is a clear rule or limit. The speaker says the family has a clear rule that they will not pay for the teenagers' food.", zh: "他们划了一条非常明确的界线：你的任何食物我们都不出钱。（drawn a line 划清界限，设定底线）"}
+  - {text: "If you're getting food outside of the house, it's you're paying for it.", start: 1395.36, end: 1399.18, explain: "\"Outside of the house\" means at a restaurant or shop, not at home. The sentence says if you eat away from home, you must pay for it yourself.", zh: "如果你在外面吃饭，那这笔钱就得你自己掏。（getting food outside of the house 在外就餐）"}
+  - {text: "Hence the two jobs and the coupon clipping.", start: 1399.26, end: 1401.54, explain: "\"Hence\" means because of this. \"Coupon clipping\" means cutting out small pieces of paper that give you a discount on products. The speaker says the high cost leads to working two jobs and saving money with coupons.", zh: "所以才会出现打两份工和剪优惠券的情况。（coupon clipping 剪优惠券，指收集折扣券以省钱）"}
+  - {text: "Teenagers got to eat.", start: 1401.90, end: 1402.66, explain: "This short sentence means the teenagers were allowed to eat. It implies they had to ask or it was a special permission.", zh: "至少得保证青少年有饭吃。（teenagers 青少年）"}
+  - {text: "And the reason we're talking to Leo is because he's just starting to figure out how to be a savvy consumer, how to budget, find deals.", start: 1403.16, end: 1409.94, explain: "A \"savvy consumer\" is a person who is smart about buying things and saving money. \"Budget\" means to plan how much money you will spend. The speaker says Leo is learning how to be smart with his money.", zh: "我们之所以采访利奥，是因为他刚开始学习如何做一个精明的消费者，比如怎么做预算、怎么找优惠。（savvy consumer 精明的消费者；budget 预算）"}
+  - {text: "But he's only ever done that in this era of volatile prices and bouncing inflation.", start: 1410.34, end: 1414.98, explain: "\"Volatile\" means changing very fast and not staying the same. \"Bouncing inflation\" means prices go up and down a lot. The speaker says Leo has only learned to save money during this time of unstable prices.", zh: "但他经历过的只有这个物价波动大、通胀起伏不定的时代。（volatile prices 波动剧烈的物价；bouncing inflation 起伏不定的通胀）"}
+  - {text: "His whole life has been achieved by this.", start: 1415.42, end: 1417.08, explain: "\"Achieved\" means made or built. This sentence says that his whole life was made possible by this thing.", zh: "他整个人生都是在这种环境下度过的。（achieved by this 由这种环境造就/度过）"}
+  - {text: "He sees it everywhere, his extracurricular activities.", start: 1417.18, end: 1419.58, explain: "\"Extracurricular activities\" are things you do at school or after school that are not part of your normal classes. The speaker sees these activities everywhere.", zh: "他在课外活动中随处可见这种现象。（extracurricular activities 课外活动）"}
+  - {text: "Leo's a boy scout.", start: 1420.08, end: 1420.86, explain: "A \"scout\" is a member of a youth group that teaches skills like camping and cooking. Leo is a boy in this group.", zh: "利奥是一名童子军。（boy scout 童子军）"}
+  - {text: "He's one of the grub masters for his troop, which is the person who has to do the grocery shopping for their camping trips.", start: 1421.18, end: 1427.26, explain: "A \"grub master\" is a person who buys food for the group. A \"troop\" is a group of scouts. This person buys food for their camping trips.", zh: "他是小队里的“伙食大师”，也就是负责为露营活动采购食材的人。（grub masters 伙食大师，指负责食物的人；troop 小队，童子军单位）"}
+  - {text: "We actually cooked a full, like suckling pig and presented it for a contest.", start: 1427.56, end: 1434.08, explain: "A \"suckling pig\" is a very young pig that is cooked whole. They cooked it for a competition.", zh: "我们其实做了一整只烤乳猪，还拿去参加了比赛。（suckling pig 烤乳猪）"}
+  - {text: "Yes, we carried it on a skewer.", start: 1435.14, end: 1435.80, explain: "A \"skewer\" is a long stick used to hold food while it is being cooked. They carried the pig on this stick.", zh: "是的，我们是串在签子上烤的。（skewer 烤串签子）"}
+  - {text: "Oh, so you're really cooking.", start: 1435.82, end: 1436.68, zh: "哦，看来你们是真的在好好做饭。（cooking 做饭，烹饪）"}
+  - {text: "You're cooking like real food.", start: 1436.68, end: 1438.08, zh: "你们做的是像样的正经饭菜。（real food 正经饭菜，指非速食或简单加工食品）"}
+  - {text: "Oh yeah, yeah. We've got some very good chefs in our troop.", start: 1438.62, end: 1442.24, explain: "A \"chef\" is a person who cooks food. The speaker says there are many good cooks in their group.", zh: "没错没错，我们队里有一些非常厉害的厨师。（chefs 厨师；troop 童子军小队）"}
+  - {text: "And a lot of what goes into cooking is buying good ingredients.", start: 1442.62, end: 1444.88, explain: "\"Ingredients\" are the things you use to make food, like meat, vegetables, and spices. Good cooking needs good food items.", zh: "而烹饪中很大一部分工作在于购买优质的食材。（ingredients 食材，原料）"}
+  - {text: "Leo with his troop leaders and fellow boy scouts has to budget how many dollars they can spend on ingredients per boy scout.", start: 1445.32, end: 1452.48, explain: "\"Troop leaders\" are the adults who run the group of boy scouts. \"Budget\" means to plan how much money you can use. Leo and his group have to plan the cost of food for each boy.", zh: "利奥和他的童子军领队以及同伴们，必须预算每个童子军每餐能花多少钱买食材。（budget 预算；boy scouts 童子军）"}
+  - {text: "So what it is is per boy, per meal, breakfast is three, lunch is four, dinner is five.", start: 1452.94, end: 1459.72, explain: "\"Per\" means for each one. The speaker explains the cost limit for each boy for each meal: breakfast is $3, lunch is $4, and dinner is $5.", zh: "所以具体标准是：每人每餐，早餐3美元，午餐4美元，晚餐5美元。（per 每人，每；meal 餐）"}
+  - {text: "And we had to raise it to four, five, six per meal, respectively, because of the price changes.", start: 1459.94, end: 1466.72, explain: "\"Respectively\" means in the order just mentioned. Because food prices went up, they had to increase the limits to $4, $5, and $6 for the three meals.", zh: "由于物价上涨，我们不得不将每餐的标准分别提高到4美元、5美元和6美元。（respectively 分别地）"}
+  - {text: "Leo is trying to find deals for like nine households worth of people, looking for the best deals on butter, on 30 pounds of potatoes, on sausages, peaches at age 17.", start: 1467.12, end: 1477.36, explain: "\"Households\" means families or groups of people living together. \"Deals\" means good prices or discounts. Leo is looking for cheap food for a large group of people.", zh: "17岁的利奥要为相当于九户人家的人数寻找优惠，他在黄油、30磅土豆、香肠和桃子等方面寻找最划算的交易。（deals 优惠，划算的交易；households 户，家庭）"}
+  - {text: "And like any good budgeter, he's putting some limits on the boys.", start: 1477.72, end: 1481.22, explain: "\"Budgeter\" is a person who plans money carefully. \"Limits\" are rules that say how much you can have. Leo is setting rules for the boys to save money.", zh: "就像任何精明的预算者一样，他对男孩们设定了一些限制。（budgeter 预算者，做预算的人）"}
+  - {text: "It's the only way to run a household.", start: 1481.46, end: 1482.46, zh: "这是经营家庭开支的唯一办法。"}
+  - {text: "We've been going a little lighter on the lemonade.", start: 1484.50, end: 1486.32, explain: "\"Lighter\" here means using less. They are serving less lemonade to save money.", zh: "我们在柠檬水上稍微省了一点。（lighter 少一些，轻一些）"}
+  - {text: "People used to put like bigger scoops in their bottles and then we've like started watching a little more.", start: 1486.54, end: 1492.44, explain: "\"Scoops\" are amounts of ice cream or lemonade taken with a spoon. \"Watching\" here means checking carefully. People used to take more, but now they check more closely.", zh: "以前大家会在瓶子里放比较大的一勺，现在我们就稍微注意着点用量了。（scoops 勺，量）"}
+  - {text: "We're like, you get one scoop.", start: 1492.56, end: 1493.50, explain: "\"Scoop\" is one amount of food or drink taken with a spoon. They are telling the boys they can only have one spoonful.", zh: "我们就说，每人只能拿一勺。"}
+  - {text: "One scoop? That's barely lemonade.", start: 1493.50, end: 1495.72, explain: "A \"scoop\" is a small amount of ice cream in a spoon. \"Lemonade\" is a sweet drink made from lemons. The speaker says one small amount of ice cream is not enough to make a real dessert drink.", zh: "才一勺？那几乎不算柠檬水了。（barely 几乎不，勉强）"}
+  - {text: "Unless they want to bring a lemon themselves from home.", start: 1496.22, end: 1498.74, zh: "除非他们愿意自己从家里带柠檬来。"}
+  - {text: "And even small penny pinching measures like this, they can shape you.", start: 1499.14, end: 1502.76, explain: "\"Penny pinching\" means saving money very carefully, even on small things. \"Shape\" means to change how a person thinks or acts. The speaker says that saving small amounts of money can change a person's character.", zh: "即使是这种省小钱的措施，也会塑造你的性格。（penny pinching 过分节俭，锱铢必较）"}
+  - {text: "Plenty of studies have found that living through economic shocks can rewire your brain, make you more price sensitive, change your relationship with risk.", start: 1502.98, end: 1511.18, explain: "\"Economic shocks\" are sudden, bad changes in the money system, like a crash. \"Rewire\" means to change the way the brain works. \"Price sensitive\" means caring a lot about the cost of things. The speaker says that hard money times can change how your brain handles money and risk.", zh: "许多研究发现，经历经济冲击会重塑你的大脑，让你对价格更敏感，改变你对风险的态度。（economic shocks 经济冲击；rewire 重塑，重新连接）"}
+  - {text: "It can even change your expectations of inflation itself, make you feel like inflation can always be around the corner.", start: 1511.26, end: 1518.34, zh: "它甚至能改变你对通胀的预期，让你觉得通胀随时可能发生。（inflation 通货膨胀）"}
+  - {text: "And as we've covered before, when people expect inflation, it can lead people to behave in ways that contribute to inflation.", start: 1518.80, end: 1525.60, zh: "正如我们之前报道过的，当人们预期通胀时，他们的行为反而可能助推通胀。"}
+  - {text: "For now, Leo's mainly just buying teenager things.", start: 1526.40, end: 1529.52, explain: "\"Mainly\" means mostly. \"Teenager things\" are items that young people like, such as music or clothes. The speaker says Leo mostly buys items that are popular with young people.", zh: "目前，Leo主要只是在买些青少年喜欢的东西。（Leo 人名；teenager 青少年）"}
+  - {text: "Like he just ordered Busta Rhymes and MF Doom CDs.", start: 1529.80, end: 1532.72, explain: "\"Busta Rhymes\" and \"MF Doom\" are the names of famous music artists. \"CDs\" are discs that hold music. The speaker says Leo bought music discs by these artists.", zh: "比如他刚订了Busta Rhymes和MF Doom的CD。（Busta Rhymes 美国说唱歌手；MF Doom 美国说唱组合；CD 光盘）"}
+  - {text: "But I think I'm paying full price for those ones.", start: 1533.18, end: 1534.90, explain: "\"Full price\" means the normal cost, without any discount. The speaker thinks they paid the normal amount for those music discs.", zh: "不过我觉得这几张我是按全价买的。（full price 全价，原价）"}
+  - {text: "So yeah, not everything in his life is about thrift.", start: 1535.36, end: 1538.18, explain: "\"Thrift\" means saving money or being careful with spending. The speaker says Leo does not always try to save money.", zh: "所以是的，他生活中并非事事都在追求省钱。（thrift 节俭，省钱）"}
+  - {text: "It can be hard to talk about personal finances, but these are things we're all thinking about and experiencing.", start: 1547.00, end: 1554.16, zh: "谈论个人财务可能很难开口，但这些都是我们都在思考和经历的事情。（personal finances 个人财务）"}
+  - {text: "And so we're grateful to all of you who wrote in and shared your stories with us.", start: 1554.38, end: 1557.56, explain: "\"Grateful\" means very thankful. \"Wrote in\" means sent a letter or email. The speakers thank the listeners who sent their stories to the show.", zh: "因此，我们非常感谢所有写信来与我们分享故事的人。（wrote in 写信来，投稿）"}
+  - {text: "And if you have an economic experience that we didn't capture, let us know.", start: 1557.66, end: 1560.86, zh: "如果你有一些我们没涵盖到的经济经历，请告诉我们。（capture 涵盖，捕捉）"}
+  - {text: "We read every email and Spotify and social media comment.", start: 1561.02, end: 1564.68, zh: "我们会阅读每一封邮件以及Spotify和社交媒体上的评论。（Spotify 音乐流媒体平台）"}
+  - {text: "Even if we cannot reply, they really shape how we think about what stories we do.", start: 1564.88, end: 1568.36, zh: "即使我们无法回复，这些反馈也极大地影响了我们对选题的思考。（shape 塑造，影响）"}
+  - {text: "So please keep on keeping in touch, planetmoneyatmpr .org or at Planet Money on basically all the social platforms.", start: 1568.60, end: 1576.72, explain: "\"Keep in touch\" means to continue talking or sending messages to people. \"Platforms\" are websites or apps like Facebook or X. This is a short sentence asking listeners to contact the show using email or social media.", zh: "所以请继续保持联系，可以通过planetmoneyatmpr.org，或者在几乎所有社交平台上关注Planet Money。（keep in touch 保持联系；social platforms 社交平台）"}
+  - {text: "And as always, super extra special thanks to our NPR Plus supporters who get sponsor -free listening and bonus episodes and occasional live shows where you can ask us questions.", start: 1577.16, end: 1586.36, explain: "\"Supporters\" are people who pay money to help the show. \"Sponsor-free\" means no ads are played. \"Bonus\" means extra. This sentence thanks the paying members who get special content and no ads.", zh: "一如既往，我们要特别感谢我们的NPR Plus支持者，他们可以享受无广告收听、独家剧集以及偶尔的直播节目，在直播中你们还可以向我们提问。（NPR Plus 美国国家公共电台的付费订阅服务；bonus episodes 独家剧集或额外剧集）"}
+  - {text: "You can sign up to be an NPR Plus supporter also at plus .npr .org.", start: 1586.74, end: 1591.10, zh: "你也可以在plus.npr.org注册成为NPR Plus支持者。（sign up 注册）"}
+  - {text: "This episode of Planet Money was produced by Emma Peasley and edited by Alex Goldmark with reporting help from Charlotte Isidore.", start: 1591.50, end: 1599.92, explain: "\"Produced\" means the person made the show happen. \"Edited\" means the person cut and fixed the audio. \"Reporting\" means gathering news facts. This sentence lists the people who made this episode.", zh: "本期《Planet Money》由Emma Peasley制作，Alex Goldmark剪辑，Charlotte Isidore提供报道协助。（produced by 由……制作；edited by 由……剪辑）"}
+  - {text: "It was back -checked by Sierra Juarez and engineered by Robert Rodriguez.", start: 1600.28, end: 1604.18, explain: "\"Back-checked\" means checking the facts again to be sure they are right. \"Engineered\" means the person mixed and balanced the sound. This sentence names the people who checked the facts and fixed the sound.", zh: "Sierra Juarez负责事实核查，Robert Rodriguez负责音频工程。（back-checked 事实核查；engineered by 由……负责音频制作）"}
+  - {text: "I'm Sarah Gonzalez. And I'm Erica Barris.", start: 1604.82, end: 1606.86, zh: "我是Sarah Gonzalez。我是Erica Barris。（I'm 我是）"}
+  - {text: "This is NPR. Thanks for listening.", start: 1607.06, end: 1608.52, explain: "This is a station ident. It is a short sign that says who is playing the show. It simply says, \"This is NPR. Thank you for listening.\"", zh: "这里是NPR。感谢收听。（Thanks for listening 感谢收听）"}
+  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 1630.51, end: 1634.45, explain: "\"Sponsor\" is a company that pays for the show. This is an advert. It says the next message is from a company called Charles Schwab.", zh: "这条信息来自NPR赞助商Charles Schwab。（sponsor 赞助商）"}
+  - {text: "When is the right time to sell a stock?", start: 1634.81, end: 1636.63, explain: "\"Stock\" is a small piece of a company that you can buy. This is a question from the advert. It asks when is the best time to sell a piece of a company.", zh: "什么时候是卖出股票的最佳时机？（stock 股票）"}
+  - {text: "How do you protect against inflation?", start: 1637.01, end: 1638.71, zh: "你如何防范通货膨胀？（inflation 通货膨胀）"}
+  - {text: "Financial decisions can be tricky, and often your own cognitive and emotional biases can lead you astray.", start: 1639.19, end: 1645.25, explain: "\"Biases\" are unfair feelings or habits that make you think wrong. \"Astray\" means to make a mistake or go the wrong way. This sentence says that your feelings can make you make bad money choices.", zh: "财务决策往往很棘手，而且你自己的认知偏差和情绪偏见可能会让你误入歧途。（cognitive biases 认知偏差；emotional biases 情绪偏见）"}
+  - {text: "Financial decoder, an original podcast from Charles Schwab, can help.", start: 1645.57, end: 1649.75, explain: "\"Financial decoder\" is the name of a new podcast. \"Charles Schwab\" is a big company that helps people save and invest money. This sentence is an advert that says this new show can help you understand money better.", zh: "由嘉信理财推出的原创播客《金融解码器》可以提供帮助。（Financial decoder 金融解码器；Charles Schwab 嘉信理财）"}
+  - {text: "Join host Mark Rebe as he offers practical solutions to help overcome the cognitive and emotional biases that may affect your investing decisions.", start: 1650.01, end: 1659.59, explain: "\"Cognitive and emotional biases\" are wrong thoughts or feelings that make you make bad choices. \"Investing decisions\" are choices about where to put your money to grow it. The host, Mark Rebe, gives tips to stop these bad feelings from hurting your money.", zh: "跟随主持人马克·雷贝，获取实用方案，帮助你克服可能影响投资决策的认知偏差和情绪偏见。（cognitive 认知的；biases 偏差，偏见）"}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 1659.87, end: 1665.41, explain: "\"Subscribe\" means to sign up so you get new episodes automatically. \"Schwab .com slash Financial Decoder\" is the web address to find the show. This is a call to action telling you where to go to listen.", zh: "请访问 Schwab.com/FinancialDecoder 下载最新一期并订阅。（subscribe 订阅）"}
 ---

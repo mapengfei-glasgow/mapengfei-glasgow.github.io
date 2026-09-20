@@ -9,548 +9,548 @@ audioDir: "2026-08-21-who-decides-what-big-box-sells-our-game-got-us-answers"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-08-21-who-decides-what-big-box-sells-our-game-got-us-answers/episode.mp3"
 totalDuration: 2462.5
 sentences:
-  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16}
-  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.50, end: 8.52}
-  - {text: "There, build your own family meal, feed to four for just $35.", start: 8.88, end: 12.60}
-  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30}
-  - {text: "This is Planet Money from NPR.", start: 16.64, end: 18.96}
-  - {text: "I have never heard my Planet Money co -host, Erica Beres, this nervous before.", start: 21.86, end: 27.30}
-  - {text: "Hello, Erica. I'm in the car.", start: 27.82, end: 30.24}
-  - {text: "Okay, can everyone in your car hear me?", start: 30.78, end: 32.52}
-  - {text: "No, this is between you and me.", start: 32.52, end: 34.62}
-  - {text: "Erica had essentially dropped everything to fly to Los Angeles because there was a chance she might get inside the room, inside the system, maybe even participate in the system,", start: 35.06, end: 44.86}
-  - {text: "where a relatively tiny group of people decide what products we all get to see and choose from when we walk into the country's biggest stores.", start: 45.10, end: 53.68}
-  - {text: "All right, so where are you right now?", start: 54.08, end: 56.16}
-  - {text: "I am in my hotel room about two miles from the Exploding Kittens office.", start: 56.42, end: 60.78}
-  - {text: "Exploding Kittens is the company we've been working with to create the Planet Money board game.", start: 60.78, end: 67.64}
-  - {text: "If you're new to this whole project, well, cue the recap.", start: 67.94, end: 70.98}
-  - {text: "We are making a game, me and you all listening at home, and Erica Beres, too.", start: 71.54, end: 77.04}
-  - {text: "Erica, come help me with this recap, yes?", start: 77.26, end: 79.48}
-  - {text: "Yes, gladly. In previous episodes, we've told you the story of how we partnered with the game company, Exploding Kittens, to try and design a game inspired by the Nobel Prize -winning economics paper, The Market for Lemons.", start: 79.74, end: 91.82}
-  - {text: "That paper is literally about asymmetric information in the market for used cars.", start: 92.12, end: 97.50}
-  - {text: "But, broadly, it's about how making deals when one side knows more than the other side causes chaos, distrust, and ultimately destroys a market.", start: 97.80, end: 105.60}
-  - {text: "Our game version of that is not about used cars.", start: 105.90, end: 108.56}
-  - {text: "We decided it should be about monsters, and we chose a name.", start: 108.72, end: 111.88}
-  - {text: "It's called Sell Me a Sasquatch.", start: 112.10, end: 113.94}
-  - {text: "Sell Me a Sasquatch.", start: 114.20, end: 115.34}
-  - {text: "Now, you, listeners, you helped us refine this game.", start: 115.34, end: 118.34}
-  - {text: "And in it, our players have hands of cards with cute little mythical creatures on them, and then the players offer deals to each other, trying to get the best creatures,", start: 118.62, end: 127.50}
-  - {text: "but also maybe trying to trick their friends into accepting terrible creature cards, because asymmetric information you only ever have to show part of the deal.", start: 127.76, end: 137.76}
-  - {text: "One of the reasons we decided to make this game in the first place is so it could be our Trojan horse to report inside a world", start: 138.00, end: 144.14}
-  - {text: "that no other Planet Money project has entered.", start: 144.14, end: 146.30}
-  - {text: "The real shelves at real big box retail stores.", start: 146.80, end: 149.98}
-  - {text: "And we think making an Exploding Kittens party game gives us the best chance of sneaking into that world.", start: 150.34, end: 156.06}
-  - {text: "So, yes, that's the deal.", start: 156.60, end: 159.18}
-  - {text: "And that is why Erika was at Exploding Kittens headquarters in Los Angeles.", start: 159.42, end: 164.30}
-  - {text: "It's why they had told her essentially to drop everything, because two representatives from a humongous big box company were on their way to visit the Kittens office.", start: 164.48, end: 173.38}
-  - {text: "Those representatives are board game experts traveling the country, sifting through hundreds of new games to decide which handful of new games will get space on their company's shelves.", start: 173.72, end: 183.34}
-  - {text: "This is the moment if we want to get the Planet Money board game into big box retail.", start: 183.68, end: 189.22}
-  - {text: "So, I'm doing this call with you and then I'm heading over there.", start: 189.70, end: 193.44}
-  - {text: "Okay. And are you going to get in the room for the pitch?", start: 193.66, end: 196.38}
-  - {text: "Like, where did this land?", start: 196.38, end: 197.82}
-  - {text: "It landed. They emailed me last night and he said that confirmation that you can be in the room for the pitch.", start: 198.52, end: 203.58}
-  - {text: "So, I know part of me was like, maybe I don't have to do this.", start: 204.34, end: 208.62}
-  - {text: "But, uh, yeah, Erika was not just going to be in the room.", start: 210.10, end: 214.54}
-  - {text: "She was going to have to do the pitch for the Planet Money game.", start: 214.80, end: 219.90}
-  - {text: "This is a pretty big deal.", start: 220.24, end: 221.72}
-  - {text: "I'm trying not to think how much of a big deal it is and how much work has gone into.", start: 222.16, end: 226.54}
-  - {text: "It's really big. Is it helpful if I remind you how big it is?", start: 226.74, end: 229.32}
-  - {text: "It's sort of the whole thing.", start: 229.76, end: 230.86}
-  - {text: "It's not. I have a pitch, though.", start: 231.14, end: 232.42}
-  - {text: "I, like, talked myself through it a few times.", start: 232.62, end: 235.12}
-  - {text: "I was sitting on the airplane, like, kind of mumbling to myself being like, and the thing you got to know is how devoted I was just like, yeah, I got this.", start: 235.36, end: 242.82}
-  - {text: "I got this. I have, I have arm movements that are going to happen.", start: 242.90, end: 245.86}
-  - {text: "So, uh, okay. You got this, Erika.", start: 246.24, end: 248.84}
-  - {text: "You got this. All right.", start: 248.98, end: 249.92}
-  - {text: "Bye. Hello and welcome to Planet Money.", start: 250.22, end: 253.74}
-  - {text: "I'm Kenny Malone. And I'm Erika Barris.", start: 254.04, end: 256.40}
-  - {text: "And today on the show, we are going inside the secret room that could make or break our Planet Money game.", start: 256.54, end: 262.92}
-  - {text: "And inside the minds of the people who decide what gets to be in big box stores.", start: 263.36, end: 269.60}
-  - {text: "We get a once -in -a -lifetime front row seat for the shark tankway that essentially all the store shelves get filled at...", start: 270.00, end: 277.84}
-  - {text: "Oh, right. Also, we will explain why we cannot say which specific big box retail company we got unusual access to.", start: 278.64, end: 287.02}
-  - {text: "Stay tuned. This message comes from Schwab.", start: 287.26, end: 302.92}
-  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place.", start: 303.42, end: 309.66}
-  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 310.06, end: 317.06}
-  - {text: "This message comes from Northwestern Mutual.", start: 317.56, end: 320.08}
-  - {text: "Life's a lot lately.", start: 320.08, end: 321.84}
-  - {text: "Some things you can't control, but you can control your money with a plan.", start: 322.32, end: 326.40}
-  - {text: "It all starts with Northwestern Mutual.", start: 326.82, end: 328.66}
-  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 329.04, end: 336.96}
-  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 337.42, end: 342.54}
-  - {text: "This message comes from Capital One.", start: 343.42, end: 345.40}
-  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 345.64, end: 349.38}
-  - {text: "What's in your wallet?", start: 349.38, end: 350.42}
-  - {text: "Terms apply. See capitalone .com slash bank guy for details.", start: 350.72, end: 354.80}
-  - {text: "Capital One NA member FDIC.", start: 355.30, end: 357.46}
-  - {text: "I was somewhat stunned to learn that in the United States, 81 % of our retail buying is still happening at brick and mortar locations.", start: 358.36, end: 368.04}
-  - {text: "Like four out of every $5 we spend on retail purchases is at a physical store according to a report from Capital One.", start: 368.22, end: 375.74}
-  - {text: "Walmart and Kroger and Costco and Home Depot and Target are still huge parts of our economy and our lives.", start: 375.74, end: 383.12}
-  - {text: "And the secretive world of Big Box has been a place we've never gotten an inside look at.", start: 383.34, end: 390.90}
-  - {text: "You know, when the Planet Money team made a t -shirt from scratch, we did not sell it through Walmart.", start: 391.14, end: 395.86}
-  - {text: "When we launched a record label, the vinyl record for the inflation song was not on shelves at Target.", start: 396.00, end: 402.48}
-  - {text: "And when we rescued a forgotten superhero who was then licensed for a cheese product, sadly Costco did not offer to carry five pound blocks of microface aged Gouda.", start: 402.48, end: 412.18}
-  - {text: "But seriously, Big Box is still this hugely important corner of American life that we just haven't had the chance to understand.", start: 412.88, end: 420.06}
-  - {text: "No, not until now, hopefully.", start: 420.52, end: 422.98}
-  - {text: "The Planet Money board game project is the first serious chance we've had to try and follow a product into the real world, into Big Box in this way.", start: 423.50, end: 431.54}
-  - {text: "And it's part of why we decided to make a game in the first place.", start: 431.54, end: 434.54}
-  - {text: "And before any of that can happen, Erika was going to have to convince a Big Box company to take our game.", start: 434.80, end: 442.00}
-  - {text: "Okay, so I'm here.", start: 442.48, end: 445.44}
-  - {text: "It is six hours before Erika's big pitch meeting.", start: 446.06, end: 449.24}
-  - {text: "Yeah, I arrived extra, extra, extra early at the exploding kittens headquarters near West Hollywood.", start: 449.46, end: 455.08}
-  - {text: "Hey Thor, nice to meet you here.", start: 455.62, end: 457.50}
-  - {text: "I can put my mic down for two seconds.", start: 457.68, end: 459.24}
-  - {text: "That is Thor Ritz, you hear there?", start: 459.24, end: 461.32}
-  - {text: "He has been helping us for over a year to make our game.", start: 461.46, end: 464.38}
-  - {text: "And the moment he walks me into their big open floor office space, you can tell everyone is heads down, preparing for this hugely important meeting.", start: 464.60, end: 473.32}
-  - {text: "Any luck, Steve? Hi.", start: 473.58, end: 474.98}
-  - {text: "Will those work? They might.", start: 475.12, end: 476.32}
-  - {text: "These are the bean bags for the game you just did.", start: 476.74, end: 478.44}
-  - {text: "Oh. Thor and I walked past a team huddled over a new dice game?", start: 478.66, end: 483.18}
-  - {text: "That's top secret. It's one of the games that we're pitching lightning dice.", start: 483.38, end: 487.64}
-  - {text: "There's a small team doing last second experimenting with a new plastic material that sort of explodes in this fun, surprising way.", start: 487.64, end: 495.96}
-  - {text: "So then I just sort of pop it down?", start: 496.12, end: 497.52}
-  - {text: "Yeah. All right. Yeah, the office is full of people putting the final touches on game prototypes.", start: 497.60, end: 504.48}
-  - {text: "Ours is one of 13 prototype games that Exploding Kittens is planning to pitch to the representatives from.", start: 505.14, end: 511.08}
-  - {text: "Ah, yes, we have arrived at the situation.", start: 511.99, end: 515.29}
-  - {text: "So we are not saying the name of the big box store coming to the office today because Exploding Kittens told us who they're talking to, the deals they're making.", start: 515.29, end: 524.21}
-  - {text: "This is the kind of stuff that, you know, makes or breaks their business.", start: 524.53, end: 528.37}
-  - {text: "And so we agreed to not record the actual pitch meeting and to not reveal the actual name of the big box store in that meeting.", start: 528.55, end: 536.77}
-  - {text: "But suffice it to say Exploding Kittens was taking this company's visit very seriously.", start: 537.05, end: 543.31}
-  - {text: "Yeah, let's go through seating where we're going to sit.", start: 543.31, end: 546.65}
-  - {text: "It is now T minus one hour until the meeting.", start: 547.37, end: 550.45}
-  - {text: "And Thor and I jump onto an emergency pitch prep call.", start: 550.61, end: 554.13}
-  - {text: "How's everyone doing? Yeah, no, I'm good.", start: 554.35, end: 556.19}
-  - {text: "Okay. I do have a lot of notes.", start: 556.61, end: 559.09}
-  - {text: "Elon Lee is the co -founder of Exploding Kittens.", start: 559.97, end: 563.31}
-  - {text: "He has become our friend, our co -pilot, our general sage through the Planet Money board game project.", start: 563.47, end: 569.23}
-  - {text: "Should I be nervous?", start: 569.57, end: 570.25}
-  - {text: "Oh no. You know, they're actually, they're really good guys.", start: 572.20, end: 577.17}
-  - {text: "However, they've seen the best games in the world fail without proper marketing support.", start: 577.61, end: 583.13}
-  - {text: "So our goal today is to say, okay, we all love this game.", start: 583.65, end: 586.77}
-  - {text: "Everyone who plays this game loves this game.", start: 586.85, end: 588.27}
-  - {text: "Now we're going to tell you why it's also going to be the best selling game of all time.", start: 588.57, end: 593.63}
-  - {text: "Yeah, big box companies have small armies of buyers in charge of finding and buying the things for their sections of the store.", start: 593.63, end: 602.79}
-  - {text: "There are baby aisle buyers and cosmetics buyers and food buyers.", start: 603.09, end: 607.25}
-  - {text: "And today the Exploding Kittens office is going to be visited by the board game buyers from the big box store that shall not be named.", start: 607.55, end: 615.51}
-  - {text: "This whole song and dance is part of something called line review as in a seasonal review of product lines.", start: 615.77, end: 622.85}
-  - {text: "Retail buyers have to regularly look at what's on the shelves in their sections of their big box stores and decide what to keep, what to get rid of.", start: 622.85, end: 631.27}
-  - {text: "And most importantly for us, what new products to add for the upcoming season.", start: 631.55, end: 636.69}
-  - {text: "But here's the thing, this line review, this only happens twice a year.", start: 637.03, end: 641.81}
-  - {text: "This really is our one chance to get a prototype of our game in front of the big box stores and then ask them, do you", start: 642.05, end: 649.27}
-  - {text: "want to pay us to make tens of thousands of these things for you?", start: 649.27, end: 652.49}
-  - {text: "And Thor tells Erika, she's going to have very little time to make that case to the big box store.", start: 652.95, end: 658.91}
-  - {text: "We're probably talking between three and five minutes of...", start: 659.13, end: 662.65}
-  - {text: "You're saying do not bring this entire notebook.", start: 663.23, end: 665.15}
-  - {text: "Yeah, I think you can aim for the upper end of that like closer to five minutes.", start: 665.43, end: 669.27}
-  - {text: "So Alon explains that the plan is he'll be on a big screen in the room and do the setup.", start: 669.71, end: 675.45}
-  - {text: "He's built a lot of trust with the buyers at this point.", start: 675.45, end: 678.13}
-  - {text: "He's not worried about convincing them that the game is good.", start: 678.27, end: 681.53}
-  - {text: "What he cannot do though is be beloved co -host of one of the most listen to podcasts in the country, Erika Barris.", start: 681.73, end: 690.45}
-  - {text: "Stop, stop, stop, go on.", start: 691.23, end: 693.45}
-  - {text: "For real though, this is kind of the whole ballgame right here.", start: 693.61, end: 697.11}
-  - {text: "We partnered with Exploding Kittens in part to optimize our chance of getting into big box.", start: 697.21, end: 702.85}
-  - {text: "But they partnered with us in part because the big box board game world is getting more and more competitive.", start: 702.85, end: 709.09}
-  - {text: "So Erika's job is to tell these buyers about our advantage about planet money, our incredible audience, our history with projects, and frankly, just to keep their attention.", start: 709.33, end: 720.61}
-  - {text: "Do they have tells like they touch their nose or like success?", start: 721.13, end: 723.69}
-  - {text: "Keep going, keep going.", start: 724.07, end: 724.69}
-  - {text: "I've certainly have seen them do things that mean they're definitely not going to buy it, which is like if they start checking their phones halfway through.", start: 725.23, end: 735.13}
-  - {text: "Oh my God, that's so terrible.", start: 735.81, end: 736.63}
-  - {text: "Yeah, yeah, we've seen all of that.", start: 737.71, end: 739.61}
-  - {text: "They take countless of these.", start: 739.93, end: 740.91}
-  - {text: "We are just one of many people that they do the same sort of meeting with.", start: 741.75, end: 744.99}
-  - {text: "Yeah. Like this is it, right?", start: 745.45, end: 748.03}
-  - {text: "We have like seven more minutes before and then that's it.", start: 748.11, end: 750.55}
-  - {text: "Whatever we figure out now, that's what we need for the room.", start: 750.63, end: 753.43}
-  - {text: "So what else should I know?", start: 753.63, end: 754.59}
-  - {text: "Don't be nervous. Smile.", start: 755.61, end: 757.39}
-  - {text: "They have a very, very difficult job because they're trying to tell the future and that's not possible.", start: 757.81, end: 763.35}
-  - {text: "So a lot of times what the best tool they have is to bet on the person instead of the game.", start: 764.13, end: 771.41}
-  - {text: "And so they want to see this person is going to devote themselves to make it successful because ultimately that's really all they can bet on.", start: 771.85, end: 779.47}
-  - {text: "This is going to go great.", start: 779.79, end: 780.69}
-  - {text: "Don't worry about it.", start: 780.95, end: 781.61}
-  - {text: "Yeah, right. Don't worry about it.", start: 781.83, end: 783.33}
-  - {text: "Don't worry about it.", start: 783.49, end: 783.87}
-  - {text: "Thanks a lot. I'll talk to you both soon.", start: 783.95, end: 785.31}
-  - {text: "All right. See you soon.", start: 785.31, end: 786.45}
-  - {text: "And with that, I go find an empty little room.", start: 786.99, end: 790.13}
-  - {text: "Our podcast is, of course, the big part.", start: 790.19, end: 794.21}
-  - {text: "And over my notes, our listeners are the best of us, which is a great thing that Kenny said earlier until they called me in.", start: 794.33, end: 800.65}
-  - {text: "Okay. Is it time?", start: 801.23, end: 802.27}
-  - {text: "Yeah. And I turned off my recorder.", start: 802.63, end: 803.95}
-  - {text: "Here we go. Erica.", start: 804.94, end: 811.87}
-  - {text: "Yes. Tell me everything.", start: 812.74, end: 814.64}
-  - {text: "How did it go?", start: 814.90, end: 815.44}
-  - {text: "I'm so, I'm so excited.", start: 815.60, end: 817.70}
-  - {text: "Okay. I'm going to walk you through the whole thing.", start: 817.70, end: 819.78}
-  - {text: "Immediately afterwards, while Exploding Kittens was pitching its other games, I called Kenny to tell him everything.", start: 820.32, end: 826.46}
-  - {text: "What are the first things that someone says in the room?", start: 827.00, end: 829.62}
-  - {text: "Erica, sit down. What's the first thing I heard?", start: 830.96, end: 833.86}
-  - {text: "Wait, were you like standing too long or something?", start: 834.64, end: 836.28}
-  - {text: "Did you forget to say?", start: 836.54, end: 837.24}
-  - {text: "I was standing there.", start: 837.30, end: 838.00}
-  - {text: "I was like, do I stand for my presentation?", start: 838.12, end: 840.08}
-  - {text: "And I was like, what is this?", start: 840.40, end: 841.86}
-  - {text: "Like, I'm ready to go, you know?", start: 842.10, end: 843.92}
-  - {text: "So I walk in, I sit down, eventually.", start: 844.80, end: 847.96}
-  - {text: "Ilan is up on the screen.", start: 849.66, end: 850.96}
-  - {text: "And he's like, this collaboration is the thing he's most excited about and so on and so forth.", start: 851.54, end: 855.56}
-  - {text: "And he's like, and Erica's here.", start: 855.64, end: 856.60}
-  - {text: "And I was like, that's me, you know.", start: 856.68, end: 858.26}
-  - {text: "And I don't even know what happened.", start: 860.10, end: 861.66}
-  - {text: "I was just talking.", start: 861.82, end: 862.54}
-  - {text: "I just was blah, blah, blah, microface, blah, blah, blah, planet money, blah, blah, blah, devoted audience.", start: 862.74, end: 866.54}
-  - {text: "So, yeah. So what did they seem to respond to?", start: 867.24, end: 870.44}
-  - {text: "So this is, this is interesting.", start: 870.64, end: 872.28}
-  - {text: "They did not respond to anything to do with the actual game or planet money for that matter.", start: 872.28, end: 879.64}
-  - {text: "Like they just took that for granted and they just kind of nodded and smiled, but they had concerns.", start: 879.82, end: 884.16}
-  - {text: "Erica explained they seemed a little worried about who the game was for exactly kids, teens, adults, and also the number of players.", start: 884.66, end: 893.92}
-  - {text: "Is there a two player version?", start: 894.12, end: 895.50}
-  - {text: "But it seemed like the primary concern was about money, the price of the game.", start: 895.74, end: 901.94}
-  - {text: "They were like, it kind of almost feels like it should be one of those $9 .99 card games.", start: 902.28, end: 907.20}
-  - {text: "Oh, that's too cheap.", start: 907.48, end: 908.26}
-  - {text: "Yeah, it's tricky. So they're like, it's not a $10 game, but it doesn't seem like a $20 game.", start: 909.00, end: 913.82}
-  - {text: "Like that did not seem great to you and me, Erica.", start: 914.08, end: 917.48}
-  - {text: "No, like it almost sounded like they did not know what to do with our game or like how to place it exactly.", start: 917.80, end: 924.86}
-  - {text: "Right. But the next day, hello, can you hear me?", start: 925.54, end: 928.52}
-  - {text: "Hey, yeah, I can hear you.", start: 928.70, end: 929.78}
-  - {text: "I called Alon, who had heard that price stuff very differently than the way we did.", start: 929.78, end: 935.08}
-  - {text: "They did ask one question and I think it was very telling.", start: 935.24, end: 940.32}
-  - {text: "They said, how set are you on the price point?", start: 941.12, end: 944.68}
-  - {text: "And that, for me, that's when like little confetti bombs started going off in my head, because that was like, oh, they're not asking about whether or not they should sell this thing.", start: 945.82, end: 956.40}
-  - {text: "They are now asking about the best way to sell it.", start: 956.40, end: 960.28}
-  - {text: "Alon explained that if you think about a board game, our board game, there is a huge range of possibilities for what the final product would", start: 960.50, end: 969.30}
-  - {text: "or could actually look like on a shelf.", start: 969.30, end: 971.32}
-  - {text: "You know, we've just got a prototype for now.", start: 971.52, end: 973.06}
-  - {text: "And at its core, our game is really just a deck of special cards.", start: 973.44, end: 977.74}
-  - {text: "So there's an incredibly cheap version of that game, I suppose.", start: 977.86, end: 980.68}
-  - {text: "It's just like, I don't know, here's a little deck of cards like Uno.", start: 980.92, end: 983.34}
-  - {text: "On the other end of the spectrum, it's way more fun if we could afford to include a little figurine of like a Sasquatch to help keep track of turns.", start: 983.34, end: 991.20}
-  - {text: "Little vinyl guy, I love that.", start: 991.98, end: 993.40}
-  - {text: "Why not? Tokens for points and maybe like...", start: 993.50, end: 996.38}
-  - {text: "Little metal tokens, like little clinky clanky, I love it.", start: 996.38, end: 999.10}
-  - {text: "And maybe like a bigger, nicer box to hold all of that stuff.", start: 999.22, end: 1003.32}
-  - {text: "Right now, the game is still a prototype.", start: 1003.70, end: 1006.36}
-  - {text: "So this pricing decision, it will ultimately determine all of that stuff.", start: 1006.58, end: 1011.30}
-  - {text: "We will, to some extent, change our per unit production cost to meet the price point we choose right now.", start: 1011.30, end: 1018.94}
-  - {text: "Yeah. I mean, what it all comes down to is once you set your price, it is very hard to change.", start: 1019.20, end: 1025.32}
-  - {text: "Yeah. Like once the product is on the shelf, it's very hard to change a price.", start: 1025.76, end: 1029.64}
-  - {text: "Because if you raise your price, that's suicide.", start: 1029.82, end: 1032.22}
-  - {text: "And if you lower your price, then suddenly it looks like you're discounting it.", start: 1032.88, end: 1037.64}
-  - {text: "Like suddenly you're just trying to get rid of a cheap net.", start: 1037.82, end: 1039.80}
-  - {text: "So it's so important to nail it the first time.", start: 1039.80, end: 1043.44}
-  - {text: "We're really setting the stage for the entire global market for that product by picking one price one time.", start: 1043.64, end: 1051.70}
-  - {text: "What is the next step actually?", start: 1052.16, end: 1053.14}
-  - {text: "Let me ask you that.", start: 1053.30, end: 1053.76}
-  - {text: "What is the next step?", start: 1053.86, end: 1054.52}
-  - {text: "Oh, next steps, unfortunately, are waiting.", start: 1054.78, end: 1057.76}
-  - {text: "Now we wait. I never think of anything as a done deal until we get the paperwork, which means that as enthusiastic as they are and as excited as they are,", start: 1058.24, end: 1069.28}
-  - {text: "who knows, maybe the next meeting will present 20 gains and every single one of them is AAA and we just get knocked away.", start: 1069.48, end: 1076.46}
-  - {text: "So all of that's possible.", start: 1077.06, end: 1078.66}
-  - {text: "And now we wait.", start: 1078.84, end: 1080.52}
-  - {text: "And that wait, it did give us some time to do some reporting because, you know, sure, we'd been inside the room with the buyers, but we wanted to know what was inside the mind of those buyers when Erika was pitching.", start: 1081.08, end: 1093.28}
-  - {text: "So we made some phone calls.", start: 1093.28, end: 1095.52}
-  - {text: "Okay, so you essentially have sat on the other side of that table.", start: 1095.84, end: 1100.48}
-  - {text: "Like, I come, I give a pitch, you're the one who sits on the other side.", start: 1100.88, end: 1105.12}
-  - {text: "Yes, correct. That was me.", start: 1105.36, end: 1107.18}
-  - {text: "Okay, it wasn't literally him.", start: 1107.56, end: 1109.12}
-  - {text: "No, that is Matt Adelman, but his job was exactly like those people I sat across from.", start: 1109.34, end: 1114.50}
-  - {text: "Specifically, Matt was a big box buyer.", start: 1114.94, end: 1117.70}
-  - {text: "Yeah, Matt worked for Target and he sat through hundreds of these types of line review meetings.", start: 1118.12, end: 1122.46}
-  - {text: "And you know, for Erika, she was a nervous wreck.", start: 1122.46, end: 1124.54}
-  - {text: "We asked Matt, what is this moment like from your perspective, from a buyer's perspective?", start: 1124.90, end: 1129.06}
-  - {text: "What are you thinking?", start: 1129.36, end: 1130.18}
-  - {text: "I don't know. I'm like, here we go again.", start: 1131.04, end: 1132.36}
-  - {text: "Where is this conversation going to go?", start: 1132.74, end: 1134.08}
-  - {text: "It's very routine. If there's 100 line review submissions, about 30 of them actually get a line review meeting.", start: 1134.58, end: 1140.30}
-  - {text: "Of the 30 that get a line review meeting, three to six of those brands ultimately get on the shelf.", start: 1140.68, end: 1146.58}
-  - {text: "That's it. It's tough.", start: 1147.02, end: 1148.56}
-  - {text: "Wow. Now, Matt was not a board game buyer specifically.", start: 1149.20, end: 1153.16}
-  - {text: "When he worked at Target, he was in charge of deciding what to buy for the deli and prepared foods aisles.", start: 1153.42, end: 1158.78}
-  - {text: "Hummus, charcuterie, potato salad, regular salads.", start: 1159.02, end: 1161.80}
-  - {text: "But he told us, honestly, when it comes to big box, hummus, board games, it's all the same.", start: 1162.20, end: 1168.60}
-  - {text: "It's the same process.", start: 1168.92, end: 1169.82}
-  - {text: "Like it's putting a box on a shelf, whether that's food, whether that's beauty, whether that's a game, like the same thoughts go into it, the same analysis goes into it.", start: 1170.24, end: 1179.10}
-  - {text: "The same, is this going to work or not?", start: 1179.70, end: 1181.46}
-  - {text: "The same financials on the back end, right?", start: 1181.62, end: 1184.10}
-  - {text: "Like how many dollars did you generate?", start: 1184.26, end: 1185.80}
-  - {text: "How much margin did you return?", start: 1186.08, end: 1187.54}
-  - {text: "Is it working or not working?", start: 1187.96, end: 1189.16}
-  - {text: "It's all the same.", start: 1189.40, end: 1190.18}
-  - {text: "So our question for Matt was, in a pitch meeting like Erica's pitching a brand new game, what would the buyers on the other side of the table be thinking?", start: 1190.64, end: 1200.02}
-  - {text: "At the end of the day, what am I really thinking?", start: 1200.32, end: 1202.28}
-  - {text: "Is this going to sell?", start: 1202.54, end: 1203.46}
-  - {text: "If I bring this in, I have to replace something, right?", start: 1203.46, end: 1207.14}
-  - {text: "You're going to take a spot on the shelf at the expense of somebody.", start: 1207.22, end: 1209.90}
-  - {text: "Are you going to do better than that thing that I take out and put you in for?", start: 1210.60, end: 1214.60}
-  - {text: "And there is a set amount of space in a store for this category.", start: 1214.98, end: 1219.10}
-  - {text: "And I need to make that space as productive as I possibly can.", start: 1219.70, end: 1223.48}
-  - {text: "Big box retailers will use these like blueprints of store shelves called planograms.", start: 1223.84, end: 1229.86}
-  - {text: "And Matt says that's one of the things in his mind during line review pitches.", start: 1229.86, end: 1234.00}
-  - {text: "He's kind of mentally playing retail Tetris.", start: 1234.36, end: 1236.78}
-  - {text: "And then when the meeting's over, yeah, we are waiting, but this is when the buyers like Matt have to really get to work.", start: 1237.16, end: 1243.62}
-  - {text: "If they like something, if they like our pitch, they still have to then make a pitch to their bosses.", start: 1243.72, end: 1249.26}
-  - {text: "Remember the nerves you had, I'm sure, sitting in the line review pitch into the buyer?", start: 1249.64, end: 1253.24}
-  - {text: "Oh, yeah. Well, now the buyers get to go to their VPs or their SVPs.", start: 1253.62, end: 1257.88}
-  - {text: "I'm gonna say, here's my planogram.", start: 1257.88, end: 1260.04}
-  - {text: "Here's what I want to do.", start: 1260.26, end: 1261.02}
-  - {text: "And now the VPs and all the senior leaders get to go, what about this?", start: 1261.60, end: 1264.80}
-  - {text: "And they challenge you like crazy.", start: 1264.86, end: 1266.18}
-  - {text: "And so now I need to pitch my stuff to them just like you had to pitch to me.", start: 1266.80, end: 1271.06}
-  - {text: "And there's tons of pushback and there's tons of, I don't know, I don't agree.", start: 1271.72, end: 1275.78}
-  - {text: "What about this? What about that?", start: 1275.96, end: 1277.26}
-  - {text: "That you have to defend as a merchant.", start: 1277.86, end: 1279.98}
-  - {text: "And if you can't defend it, you better go fix it.", start: 1280.20, end: 1282.72}
-  - {text: "So just to recap the path to a big box shelf.", start: 1283.78, end: 1286.56}
-  - {text: "There are like 5 ,000 new board games every year.", start: 1286.56, end: 1289.04}
-  - {text: "A tiny, tiny fraction will actually get to be part of a line review pitch.", start: 1289.32, end: 1292.42}
-  - {text: "An even tinier fraction will get the buyer's attention.", start: 1292.62, end: 1295.12}
-  - {text: "And those still have to go into planograms that get pitched to VPs and SVPs before games actually get ordered for the real shelves.", start: 1295.66, end: 1302.80}
-  - {text: "But, but none of those games had Erica Barris in the room for their line review.", start: 1303.18, end: 1310.98}
-  - {text: "How often do you have like somebody who is not in the industry like say a podcast host pitching the retailers on an item?", start: 1311.52, end: 1319.98}
-  - {text: "Yeah. 10 years ago, not very often in today's world.", start: 1320.54, end: 1323.90}
-  - {text: "If you think about all of the creators and all of the influencers and all the people that have built a following, you know, it's a lot of them are spinning up products.", start: 1324.02, end: 1333.12}
-  - {text: "And they show up.", start: 1333.60, end: 1334.28}
-  - {text: "They show up. Okay.", start: 1334.30, end: 1335.34}
-  - {text: "Okay. Maybe not as special as we were hoping.", start: 1335.86, end: 1338.90}
-  - {text: "Anyway, all of that, that is why getting into big box is a very serious business.", start: 1339.40, end: 1344.62}
-  - {text: "And apparently we have to wait so long to hear anything about how our pitch meeting went.", start: 1344.62, end: 1350.60}
-  - {text: "It was months and months and months of nothing.", start: 1350.90, end: 1354.24}
-  - {text: "During that time, Exploding Kittens did do a similar line review pitch process with other big box retailers.", start: 1354.76, end: 1360.44}
-  - {text: "You know, more pitches, better chance someone picks us up and tells us, you know, go forth, make a bunch of games for us.", start: 1360.82, end: 1366.22}
-  - {text: "And then nearly five months after I'd been in LA, pitching the buyers along from Exploding Kittens got in touch and said, we have to meet.", start: 1366.64, end: 1376.10}
-  - {text: "We have so much stuff to talk about.", start: 1376.76, end: 1378.32}
-  - {text: "We have some updates maybe from retailers if you want to start there.", start: 1378.52, end: 1383.76}
-  - {text: "Okay. That is Stephanie Pesta, Senior Creative Operations Manager at Exploding Kittens.", start: 1384.10, end: 1388.76}
-  - {text: "Erica and I and our boss, Alex Goldmark also on the call.", start: 1389.04, end: 1391.74}
-  - {text: "We all start to lean into our Zoom screens and Exploding Kittens cuts straight to the chase.", start: 1392.00, end: 1397.42}
-  - {text: "The exciting retailer news is that for the two big retailers in the U .S., the Planet Money Game, sell me a Sasquatch, has been accepted full chain throughout North America.", start: 1397.42, end: 1412.20}
-  - {text: "Holy moly. That sounds big.", start: 1412.68, end: 1415.66}
-  - {text: "What? Is that big?", start: 1415.72, end: 1416.70}
-  - {text: "It's literally as big as a thing could be, yes.", start: 1416.88, end: 1420.36}
-  - {text: "Both retailers. Both, yes.", start: 1420.82, end: 1423.14}
-  - {text: "Two of the biggest big box retailers in the country, both placed orders to buy and carry sell me a Sasquatch on their shelves.", start: 1423.14, end: 1432.88}
-  - {text: "Did they say how important it was that Erica did the greatest presentation of all time?", start: 1433.24, end: 1438.66}
-  - {text: "I don't think they're used to that.", start: 1439.58, end: 1443.48}
-  - {text: "I think that was brand new for them.", start: 1443.66, end: 1445.34}
-  - {text: "I think those meetings are normally so dry and so boring.", start: 1445.92, end: 1450.56}
-  - {text: "It's the same people having the same discussions over and over.", start: 1450.56, end: 1454.34}
-  - {text: "We had a celebrity in the room.", start: 1454.48, end: 1456.92}
-  - {text: "All right. Who? It was you, Erica.", start: 1457.08, end: 1459.52}
-  - {text: "When we talked to the former buyer, Matt, he had told us that having a special person with a special product was getting more and more common.", start: 1460.06, end: 1468.78}
-  - {text: "It turns out that that's way more true in the food and cosmetic space.", start: 1469.34, end: 1473.48}
-  - {text: "Think Rihanna's makeup line or Mr.", start: 1473.66, end: 1476.22}
-  - {text: "Beast's chocolate bars. Apparently, for board games, though, it was still genuinely novel and exciting to have the one and only Erica Barris from Planet Money in the room.", start: 1476.54, end: 1488.46}
-  - {text: "Erica pitched her little heart out.", start: 1490.20, end: 1492.40}
-  - {text: "They were amazed. I think they walked away from that just thinking, wow, this is new.", start: 1492.82, end: 1499.48}
-  - {text: "Nobody's doing this. This isn't the same meeting we've had 20 times before.", start: 1499.66, end: 1503.14}
-  - {text: "I have no memory of anything that happened in that room.", start: 1503.48, end: 1506.36}
-  - {text: "So, okay. All told, Exploding Kittens got a first round of orders for about 100 ,000 units of our game.", start: 1506.36, end: 1516.80}
-  - {text: "Anyway, it is now official, like absolutely official done deal.", start: 1517.08, end: 1522.00}
-  - {text: "The orders have been placed.", start: 1522.76, end: 1523.90}
-  - {text: "I had confetti. I'm going to blow this mic out if I'm not careful.", start: 1524.58, end: 1527.58}
-  - {text: "This is so exciting.", start: 1527.78, end: 1528.74}
-  - {text: "Yeah, there's all kinds of things that come next.", start: 1529.38, end: 1533.64}
-  - {text: "But none of those happen until those boats get on the water.", start: 1533.64, end: 1538.82}
-  - {text: "Oh, we still have to actually make and get the games to and.", start: 1539.54, end: 1546.30}
-  - {text: "After the break, a whole new clock starts ticking.", start: 1547.46, end: 1551.44}
-  - {text: "Plus where you can buy the game, how much it costs and why we really, really hope that you appreciate our purple box.", start: 1551.82, end: 1560.64}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1560.64, end: 1571.59}
-  - {text: "This message comes from Schwab.", start: 1572.83, end: 1574.31}
-  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place.", start: 1574.73, end: 1580.97}
-  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 1581.43, end: 1588.45}
-  - {text: "This message comes from Northwestern Mutual.", start: 1588.83, end: 1591.47}
-  - {text: "Life's a lot lately.", start: 1591.87, end: 1593.23}
-  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1593.65, end: 1597.79}
-  - {text: "It all starts with Northwestern Mutual.", start: 1598.21, end: 1600.05}
-  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1600.43, end: 1608.31}
-  - {text: "Get started at nm .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1608.81, end: 1613.91}
-  - {text: "This message comes from LinkedIn.", start: 1614.85, end: 1616.33}
-  - {text: "As a small business owner, you wear many hats.", start: 1616.79, end: 1619.07}
-  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1619.39, end: 1622.29}
-  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 1622.29, end: 1631.77}
-  - {text: "So, while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1632.19, end: 1637.13}
-  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1637.51, end: 1640.93}
-  - {text: "One month after learning the great big box news, Kenny and I were both summoned to exploding kittens' headquarters.", start: 1641.66, end: 1649.30}
-  - {text: "All right, Elan, where are we going?", start: 1649.90, end: 1650.76}
-  - {text: "Let's go in here.", start: 1650.76, end: 1652.51}
-  - {text: "Welcome to the Planet Money Conference Room.", start: 1652.75, end: 1656.47}
-  - {text: "Wait, the Planet Money Conference Room?", start: 1657.11, end: 1659.21}
-  - {text: "The whole room is devoted to the Planet Money game.", start: 1659.27, end: 1663.29}
-  - {text: "Covering the biggest conference table you've ever seen, cards showing all kinds of mythical monsters and boxes with our Sasquatch and our game logo, and, oh my goodness, so many versions of instruction booklets.", start: 1663.41, end: 1676.85}
-  - {text: "These are very nearly the final prototypes, but, apparently, we still have a gazillion small decisions to make.", start: 1676.85, end: 1685.53}
-  - {text: "And, like, at the end of today, that's it?", start: 1685.71, end: 1687.87}
-  - {text: "That's it. We're locked.", start: 1688.01, end: 1688.81}
-  - {text: "We're locked. We have to be locked, actually.", start: 1688.97, end: 1690.75}
-  - {text: "We need to send files to the factory tomorrow.", start: 1691.19, end: 1693.75}
-  - {text: "Oh! So, this is a Speak Now or Forever Hold Your Peace moment.", start: 1694.19, end: 1697.51}
-  - {text: "Oh, okay, tomorrow. Why the rush?", start: 1697.87, end: 1699.79}
-  - {text: "Well, Chinese New Year is a big reason, apparently.", start: 1700.21, end: 1703.57}
-  - {text: "Right. So, the day we got the news that the two big box retailers wanted our game was Monday, January 12th.", start: 1703.95, end: 1711.29}
-  - {text: "Exactly 36 days before the start of the Chinese Lunar New Year.", start: 1712.17, end: 1717.37}
-  - {text: "Lunar New Year is a massive event for the global economy.", start: 1717.61, end: 1721.55}
-  - {text: "Chinese factories often shut down for two or three weeks, and leading up to the shutdown, factories start to slow production for even more weeks.", start: 1721.73, end: 1730.05}
-  - {text: "And then following the shutdown, it's even more weeks until all workers are back and factories are running full force.", start: 1730.33, end: 1737.51}
-  - {text: "Exploding Kittens told us if we wanted our game to be done and in stores in time for the holidays, we needed to be ready to go for that post -lunar New Year factory restart.", start: 1737.69, end: 1748.97}
-  - {text: "And Exploding Kittens had a spot in the factory queue, and we needed to make sure we did not miss it.", start: 1749.43, end: 1754.53}
-  - {text: "We had the narrowest window.", start: 1754.81, end: 1757.19}
-  - {text: "And so, began. One of the most frantic home stretches of a project I can remember, 24 hours to get the game files to China and", start: 1757.69, end: 1767.33}
-  - {text: "a mad dash to handle a bunch of other tasks.", start: 1767.33, end: 1770.73}
-  - {text: "Which is why we have brought into the studio here, this here, egg timer, just to give you all listening at home a sense of stress and the chaos and also the learning about taking a product to market that we experienced", start: 1771.09, end: 1786.03}
-  - {text: "as a clock, a time bomb really, tick, tick, ticking towards our due date.", start: 1786.65, end: 1791.93}
-  - {text: "So many tasks. We still have to get done.", start: 1792.27, end: 1794.83}
-  - {text: "Here we go. Task one.", start: 1795.15, end: 1797.15}
-  - {text: "Shall we look at a spreadsheet?", start: 1797.63, end: 1799.29}
-  - {text: "The answer is always yes, we want to look at a spreadsheet.", start: 1799.85, end: 1802.25}
-  - {text: "Contracts. Like, how much money will MPR slash Planet Money make off this thing?", start: 1802.37, end: 1806.03}
-  - {text: "The thing that we will eventually negotiate is this number here that you're looking at, royalty, but before...", start: 1806.31, end: 1811.77}
-  - {text: "Royalty deals. Licensing deals.", start: 1811.77, end: 1813.55}
-  - {text: "For board games, that tends to be like three to seven percent of something called net revenue.", start: 1813.87, end: 1817.93}
-  - {text: "After months and months of negotiating, we landed right square in that industry standard.", start: 1817.93, end: 1823.95}
-  - {text: "With though a couple of sweeteners, I will say.", start: 1824.07, end: 1826.13}
-  - {text: "Yeah, yeah. For one, we get a small guaranteed upfront fee.", start: 1826.41, end: 1829.51}
-  - {text: "But more importantly, our royalty percentage goes way up if our game is a runaway hit.", start: 1829.99, end: 1835.27}
-  - {text: "If when we hit 200 ,000 units sold with your help, of course, our royalty nearly doubles.", start: 1835.63, end: 1841.77}
-  - {text: "Yeah, we built in that incentive so that the more we sell the bigger cut to Exploding Kittens gives to MPR.", start: 1842.19, end: 1847.83}
-  - {text: "Now, if three, five, seven percent sound like small percentages, it's because Exploding Kittens takes virtually all the risk in this deal.", start: 1848.37, end: 1855.27}
-  - {text: "They are eating the cost of development and prototyping and manufacturing of this game.", start: 1855.65, end: 1860.23}
-  - {text: "They're starting in the hole for all that money.", start: 1860.57, end: 1862.89}
-  - {text: "Yeah, when the big boxes and other companies actually start paying Exploding Kittens for games, then we get to scoop our cup into that sweet, sweet stream of money", start: 1863.23, end: 1873.05}
-  - {text: "and take our percentage minus a relatively narrow set of expenses that have to do with the selling of our specific game, basically.", start: 1873.05, end: 1880.07}
-  - {text: "Yeah, like maybe we offer customers a rebate at some point, or maybe we end up paying for a fancy display in the end cap, you know, at the end of the aisle.", start: 1880.37, end: 1888.31}
-  - {text: "It's your paying rent.", start: 1888.77, end: 1890.01}
-  - {text: "Like they literally charge rent for those placements.", start: 1890.29, end: 1893.19}
-  - {text: "So this is shell payment.", start: 1893.19, end: 1893.35}
-  - {text: "Exactly. Okay, task two, game price.", start: 1893.91, end: 1897.89}
-  - {text: "We were worried that Big Box was seeing us as a cheap 9 .99 card game.", start: 1898.45, end: 1903.47}
-  - {text: "Apparently, Exploding Kittens had also been worried about this.", start: 1903.47, end: 1907.47}
-  - {text: "We fought that fight fiercely.", start: 1907.81, end: 1909.31}
-  - {text: "Definitely. That's Kelly Voeblek, VP of Creative Operations Exploding Kittens, by the way.", start: 1909.51, end: 1912.91}
-  - {text: "We're looking at a, it's a $20 price point and that screams multi -generational family party game.", start: 1913.31, end: 1919.73}
-  - {text: "In the end, Exploding Kittens got Big Box to agree to an MSRP, a manufacturer's suggested retail price of $19 .99.", start: 1919.99, end: 1927.79}
-  - {text: "Does that result in more profit for us, or it is possible for that to result in more profit for us, but we opted to spend that money on the product?", start: 1928.25, end: 1936.15}
-  - {text: "I mean, I would have done the same thing.", start: 1936.45, end: 1937.63}
-  - {text: "Yeah, we poured all of that increased price into making a nicer version of the game.", start: 1937.95, end: 1942.75}
-  - {text: "We splurged on a high quality material for the cards that Elan loves.", start: 1942.99, end: 1947.41}
-  - {text: "We upgraded to a higher quality box that signals, you know, this is a game that requires a little time and it's worth it.", start: 1947.59, end: 1954.63}
-  - {text: "And it meant we could afford to make our box the Pantone Purple, not just everyday purple.", start: 1954.79, end: 1959.87}
-  - {text: "The Pantone Purple. This is kind of getting in the weeds of like art, but this is printing CMYK 4C.", start: 1959.87, end: 1965.42}
-  - {text: "And when we tested it like in the office, it was just kind of dull and not bright and looking really muddy.", start: 1965.92, end: 1970.66}
-  - {text: "So we made the decision to like go forward with the Pantone a little bit more expensive, but like you can see how much impact it has.", start: 1970.86, end: 1977.44}
-  - {text: "It's glorious. Pantone is a whole color system where you pay extra because the colors can be perfectly reproduced by anyone in the Pantone world.", start: 1977.74, end: 1985.48}
-  - {text: "Check out our Planet Money episode about this.", start: 1985.78, end: 1987.36}
-  - {text: "So that purple, it was gonna cost like three cents extra per unit, but I would have paid so much more after seeing it during task three.", start: 1987.58, end: 1995.46}
-  - {text: "So a little time.", start: 1995.84, end: 1996.62}
-  - {text: "Task three, the real world shelf test.", start: 1996.74, end: 1999.40}
-  - {text: "Feels like we're about to do something bad.", start: 2000.33, end: 2001.77}
-  - {text: "It does. It feels like clandestine somehow, but...", start: 2002.61, end: 2005.77}
-  - {text: "I think it kind of is.", start: 2005.77, end: 2006.51}
-  - {text: "Yeah, I guess so.", start: 2006.65, end: 2007.25}
-  - {text: "You're about to hijack some very valuable store shelf.", start: 2007.25, end: 2009.83}
-  - {text: "Before Exploding Kittens starts printing any game, they, off in a lawn, will sneak into a big box store.", start: 2010.81, end: 2017.95}
-  - {text: "Oh, wow. Okay, you just put it up there.", start: 2017.95, end: 2020.95}
-  - {text: "And just put their game on the shelf to just see.", start: 2021.09, end: 2024.51}
-  - {text: "Okay. Does it stand out enough?", start: 2024.87, end: 2026.57}
-  - {text: "Too much? Does it read well from far away?", start: 2026.91, end: 2029.63}
-  - {text: "Does it look okay when it inevitably gets knocked over?", start: 2029.81, end: 2032.87}
-  - {text: "Or gets shoved back into the shadows of the shelves?", start: 2033.05, end: 2035.91}
-  - {text: "I would argue that still stands up in shadow, like, which is a tough position to be in.", start: 2036.25, end: 2041.65}
-  - {text: "The lighter colors on there still pop right out.", start: 2042.67, end: 2045.39}
-  - {text: "Do you see anything else that's our Bantone purple?", start: 2045.39, end: 2048.09}
-  - {text: "Nothing. That's really interesting.", start: 2048.39, end: 2050.15}
-  - {text: "Is that good or bad?", start: 2050.39, end: 2051.03}
-  - {text: "Really good. Really good.", start: 2051.11, end: 2052.47}
-  - {text: "Like, it is very hard to go through this process and get a definitive, yes, we're doing it right?", start: 2052.67, end: 2057.71}
-  - {text: "Right. I think at the very least, we can definitively say, this is not broken.", start: 2057.87, end: 2063.03}
-  - {text: "Ah, okay, okay, we're running out of time here.", start: 2064.21, end: 2065.71}
-  - {text: "Speed round, Erica. Task four, box finish.", start: 2065.79, end: 2068.35}
-  - {text: "We decided to switch the box from glossy finish to matte finish to signal grown -up game.", start: 2068.75, end: 2075.21}
-  - {text: "Apparently, kids' games have been using glossy finishes as a fancy cover -up for the fact that they skimped on cardboard quality and spent on expensive plastic toy things for the game.", start: 2075.21, end: 2085.93}
-  - {text: "Ah, so much to do.", start: 2086.21, end: 2087.33}
-  - {text: "Task five, what's on the back of the box?", start: 2087.43, end: 2089.05}
-  - {text: "At the 11th hour, we land on a comic strip format.", start: 2089.55, end: 2092.73}
-  - {text: "I think we need a speech bubble here.", start: 2093.29, end: 2095.37}
-  - {text: "Back of the box just has to explain enough about the game to give people the feel of the game.", start: 2095.67, end: 2101.19}
-  - {text: "Task six, seven, eight, nine, ten.", start: 2101.81, end: 2103.67}
-  - {text: "Tweaks to the instructions.", start: 2103.67, end: 2105.39}
-  - {text: "A QR code to send people to our board game podcast series.", start: 2105.95, end: 2108.75}
-  - {text: "A different QR code that sends people to a video.", start: 2108.85, end: 2111.27}
-  - {text: "Ah, it sends you to a video of the game.", start: 2111.53, end: 2114.31}
-  - {text: "And we didn't even tell you about the long discussion over punctuation on the front of the box.", start: 2114.61, end: 2118.33}
-  - {text: "It was a long discussion.", start: 2118.67, end: 2119.53}
-  - {text: "I do think that period has to go inside the parenthesis stylistically.", start: 2119.93, end: 2124.45}
-  - {text: "We have this argument every single day here.", start: 2124.83, end: 2127.67}
-  - {text: "After all of this was done, Alon and the Exploding Kittens walked us over to a gigantic bell in the middle of their offices.", start: 2128.47, end: 2136.53}
-  - {text: "This is the bell that they ring when they finish and ship a game.", start: 2136.85, end: 2140.85}
-  - {text: "And they felt like it was our time.", start: 2140.99, end: 2143.43}
-  - {text: "All right, do I say anything?", start: 2143.91, end: 2145.03}
-  - {text: "Is it like a blowing out a birthday handle?", start: 2145.63, end: 2147.53}
-  - {text: "We did it. We did it!", start: 2147.69, end: 2152.06}
-  - {text: "The source files for our game, Sell Me a Sasquatch, were sent off to the factory in China and very soon after that.", start: 2152.56, end: 2162.72}
-  - {text: "Oh my gosh. It's all there, Tori.", start: 2163.38, end: 2168.26}
-  - {text: "So Kenny, this is the machine I was telling you about.", start: 2168.34, end: 2172.72}
-  - {text: "I was FaceTiming with Exploding Kittens Global Sourcing Person, Tori Welch, from the floor of the factory in Shanghai.", start: 2172.96, end: 2180.40}
-  - {text: "And all of that noise, like that is the sound of thousands and thousands of our game coming off of the printing press.", start: 2180.44, end: 2186.48}
-  - {text: "You know, cards and boxes and she is specifically showing me the tool that the factory has for quality control to make sure that our Pantone Purple is exactly right.", start: 2186.62, end: 2197.48}
-  - {text: "It's gonna scan and tell you whether or not it's the perfect purple.", start: 2197.94, end: 2202.14}
-  - {text: "Oh my gosh, it's the purple meter.", start: 2202.48, end: 2204.34}
-  - {text: "Can you show me?", start: 2204.56, end: 2205.46}
-  - {text: "Can you do this?", start: 2205.74, end: 2206.46}
-  - {text: "I'm sorry, I blew it.", start: 2206.94, end: 2208.22}
-  - {text: "My god, this is so exciting.", start: 2208.26, end: 2209.48}
-  - {text: "Oh my gosh. It's so loud.", start: 2210.80, end: 2213.80}
-  - {text: "It's so loud. Oh, they've got the swatches.", start: 2214.00, end: 2217.30}
-  - {text: "There's the Pantone swatches.", start: 2217.68, end: 2219.44}
-  - {text: "Oh my gosh. Okay, so they're pointing at the Pantone.", start: 2219.52, end: 2223.70}
-  - {text: "And look, maybe it was the fact that it was like 2 a .m.", start: 2223.70, end: 2227.18}
-  - {text: "my time, but seeing this tiny portal to the other side of the world to our game choked me up a little bit.", start: 2227.24, end: 2234.74}
-  - {text: "Four months later, wait, where are the board games?", start: 2235.68, end: 2238.86}
-  - {text: "I walked into a big box retailer with my six -year -old daughter.", start: 2239.16, end: 2242.44}
-  - {text: "Oh my goodness, sorry.", start: 2242.44, end: 2246.35}
-  - {text: "There it is. Here, turn around and look up at it.", start: 2246.99, end: 2251.50}
-  - {text: "Point to it. Oh yeah, that's the game.", start: 2252.02, end: 2253.66}
-  - {text: "The game that everyone at your school wants.", start: 2253.88, end: 2255.24}
-  - {text: "No, you gotta say yes.", start: 2255.76, end: 2257.38}
-  - {text: "Yeah. And listen, we still cannot say exactly which big box retailer I got into the room with.", start: 2258.41, end: 2267.05}
-  - {text: "But what we can't tell you is the Planet Money Exploding Kittens game Sell Me A Sasquatch is now available on shelves at Target and Walmart and lots of other places that sell board games, including the NPR shop.", start: 2267.07, end: 2282.83}
-  - {text: "Oh, wait. We saved the best news for last, Erika.", start: 2283.15, end: 2286.01}
-  - {text: "That's right. You, listeners, you are in this game.", start: 2286.33, end: 2290.75}
-  - {text: "Not only did you spend hundreds and hundreds of hours testing prototypes of this game.", start: 2290.91, end: 2296.29}
-  - {text: "And sending us your incredibly useful and thoughtful feedback.", start: 2296.63, end: 2299.71}
-  - {text: "But you also sent us more than a thousand amazing ideas for what mythical creatures we should include in this game.", start: 2299.71, end: 2308.81}
-  - {text: "We love them so much.", start: 2309.05, end: 2310.43}
-  - {text: "The local cryptids you told us about, the deep cut econ cryptids you invented.", start: 2310.77, end: 2315.45}
-  - {text: "And here is a sampling of what successfully we convinced Exploding Kittens to include in the actual game.", start: 2315.91, end: 2322.89}
-  - {text: "You're gonna find the Veblen, the Bull Bear, the Laffer, if you know, you know.", start: 2323.19, end: 2328.99}
-  - {text: "The Ogopogo. Send me notes about pronunciation.", start: 2328.99, end: 2331.95}
-  - {text: "I totally accept them.", start: 2332.43, end: 2333.37}
-  - {text: "I'm sorry. And Australia, you came out preposterously strong for this challenge.", start: 2333.45, end: 2340.99}
-  - {text: "And we have seen you, and we have included the Drop Bear, which is a very real thing that you should be scared of in Australia.", start: 2341.49, end: 2348.03}
-  - {text: "When you buy the game and look at the cards, you will see that Exploding Kittens included a little symbol on those cards so you can see which ones came from you.", start: 2348.39, end: 2358.23}
-  - {text: "We are so, so proud of this.", start: 2358.23, end: 2361.79}
-  - {text: "If you still want to help out on this project, there's gonna be a lot of opportunities.", start: 2367.10, end: 2370.62}
-  - {text: "But right now, the most important thing to do is honestly rate and review the game.", start: 2370.80, end: 2375.42}
-  - {text: "Verified purchases matter a lot more in the rating and reviewing system.", start: 2376.60, end: 2380.68}
-  - {text: "And so if you buy the game, review it where you bought it, and post a game night, tell your friends about it, be a smug econ person and trick them into learning the econ,", start: 2381.38, end: 2389.32}
-  - {text: "and then you can produce the paper, the market for lemons, and then read from it to them.", start: 2389.40, end: 2392.76}
-  - {text: "It'll be a blast.", start: 2392.88, end: 2394.10}
-  - {text: "And, you know, send us an email.", start: 2394.80, end: 2395.86}
-  - {text: "Maybe we'll zoom into your game night.", start: 2396.00, end: 2397.04}
-  - {text: "Who knows? This episode was produced by Emma Peasley.", start: 2397.14, end: 2400.70}
-  - {text: "It was edited by Marianne McKeown.", start: 2400.84, end: 2402.00}
-  - {text: "It was fact -checked by Sierra Juarez.", start: 2402.28, end: 2403.50}
-  - {text: "It was engineered by Robert Rodriguez.", start: 2403.66, end: 2404.86}
-  - {text: "Planet Money's executive producer is Alex Goldmark.", start: 2405.30, end: 2408.96}
-  - {text: "By the way, you can get our game and lots of other merch at theNPRShopAtShopNPR .org.", start: 2409.36, end: 2415.20}
-  - {text: "I'm Erica Bares. I'm Kenny Malone.", start: 2415.70, end: 2417.70}
-  - {text: "This is NPR. And I have purchased a Sasquatch costume.", start: 2418.24, end: 2422.26}
-  - {text: "So, watch the socials.", start: 2422.74, end: 2424.48}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 2425.15, end: 2429.09}
-  - {text: "This message comes from Mint Mobile.", start: 2429.69, end: 2431.65}
-  - {text: "If you're tired of spending hundreds on big wireless bills, bogus fees, and free perks, Mint Mobile is for you.", start: 2432.13, end: 2439.25}
-  - {text: "Shop plans at mintmobile .com slash switch.", start: 2439.61, end: 2442.41}
-  - {text: "Taxes and fees extra.", start: 2442.83, end: 2443.79}
-  - {text: "See Mint Mobile for details.", start: 2444.17, end: 2445.29}
-  - {text: "This message comes from Northwestern Mutual for nearly 170 years.", start: 2446.13, end: 2450.85}
-  - {text: "They've helped clients succeed with strategies to help grow and protect their money.", start: 2451.27, end: 2455.93}
-  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 2456.29, end: 2461.61}
+  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16, explain: "This is a short ad for a store. \"Whole Foods Market\" is the name of a big chain of grocery stores.", zh: "这条信息来自全食超市。"}
+  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.50, end: 8.52, explain: "A \"stock-up\" is when you buy a lot of things to keep at home. \"Pantry\" is a place in your kitchen where you keep dry food like rice and beans. \"Nourishing\" means food that gives your body good energy and health.", zh: "他们九月的囤货活动让你轻松把美味又营养的食物装满储物柜和冰箱。（stock-up 囤货；pantry 食品储藏室）"}
+  - {text: "There, build your own family meal, feed to four for just $35.", start: 8.88, end: 12.60, zh: "在那里，你可以自己搭配家庭餐，四人份只要35美元。（feed to four 供四人食用）"}
+  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30, zh: "来全食超市囤货吧。"}
+  - {text: "This is Planet Money from NPR.", start: 16.64, end: 18.96, explain: "\"Planet Money\" is the name of this radio show. \"NPR\" is the radio station that makes the show.", zh: "这里是NPR的《金钱星球》节目。"}
+  - {text: "I have never heard my Planet Money co -host, Erica Beres, this nervous before.", start: 21.86, end: 27.30, zh: "我从未听我的《金钱星球》联合主持人埃丽卡·贝雷斯这么紧张过。（co-host 联合主持人）"}
+  - {text: "Hello, Erica. I'm in the car.", start: 27.82, end: 30.24, zh: "你好，埃丽卡。我在车里。"}
+  - {text: "Okay, can everyone in your car hear me?", start: 30.78, end: 32.52, zh: "好的，你车里的人都能听到我说话吗？"}
+  - {text: "No, this is between you and me.", start: 32.52, end: 34.62, explain: "\"Between you and me\" means this is a secret. Only these two people know it.", zh: "不，这是你我之间的悄悄话。（between you and me 你我之间，私下）"}
+  - {text: "Erica had essentially dropped everything to fly to Los Angeles because there was a chance she might get inside the room, inside the system, maybe even participate in the system,", start: 35.06, end: 44.86, explain: "\"Dropped everything\" means she stopped all her other work or plans. \"Participate\" means to take part in or join in.", zh: "埃丽卡基本上放下了手头所有事情飞往洛杉矶，因为有机会进入那个房间，进入那个系统，甚至可能参与那个系统的运作……（dropped everything 放下所有事；participate 参与）"}
+  - {text: "where a relatively tiny group of people decide what products we all get to see and choose from when we walk into the country's biggest stores.", start: 45.10, end: 53.68, explain: "This sentence continues from the last one. It says a small group of people chooses which products are sold in the largest stores in the country.", zh: "在那里，一个相对较小的群体决定了当我们走进该国最大的商店时，能看到并选择哪些产品。（relatively tiny 相对较小的；decide 决定）"}
+  - {text: "All right, so where are you right now?", start: 54.08, end: 56.16, zh: "好的，那你现在在哪里？"}
+  - {text: "I am in my hotel room about two miles from the Exploding Kittens office.", start: 56.42, end: 60.78, explain: "\"Exploding Kittens\" is the name of a popular card game. The speaker is in a hotel room near the office of the company that makes this game.", zh: "我在酒店房间里，距离“爆炸小猫”公司办公室大约两英里。（Exploding Kittens 爆炸小猫，一家桌游公司；miles 英里）"}
+  - {text: "Exploding Kittens is the company we've been working with to create the Planet Money board game.", start: 60.78, end: 67.64, explain: "This sentence explains that the radio show made a board game together with the company that makes \"Exploding Kittens\".", zh: "“爆炸小猫”是我们合作开发《Planet Money》桌游的公司。（Exploding Kittens 爆炸小猫；board game 桌游）"}
+  - {text: "If you're new to this whole project, well, cue the recap.", start: 67.94, end: 70.98, explain: "\"Cue\" means to start or play something, like a song or a video. The speaker says that if you are new to the show, they will play a short summary of past events.", zh: "如果你是刚加入这个项目的，那么，让我们回顾一下前情。（recap 回顾，总结）"}
+  - {text: "We are making a game, me and you all listening at home, and Erica Beres, too.", start: 71.54, end: 77.04, explain: "\"Erica Beres\" is the name of the co-host. The speaker explains that the game involves the host, the listeners at home, and Erica.", zh: "我们正在制作一款游戏，参与者包括我、在家的你们，还有Erica Beres。（Erica Beres 埃丽卡·贝雷斯，节目嘉宾）"}
+  - {text: "Erica, come help me with this recap, yes?", start: 77.26, end: 79.48, explain: "\"Recap\" means a short summary of what happened before. The host asks Erica to help explain the background.", zh: "Erica，来帮我一起回顾一下，好吗？"}
+  - {text: "Yes, gladly. In previous episodes, we've told you the story of how we partnered with the game company, Exploding Kittens, to try and design a game inspired by the Nobel Prize -winning economics paper, The Market for Lemons.", start: 79.74, end: 91.82, explain: "\"Partnered\" means worked together with another group. \"Exploding Kittens\" is the name of a game company. \"Nobel Prize\" is a very famous award for science and economics. \"The Market for Lemons\" is the name of a famous economics paper. The sentence explains that in past episodes, they talked about working with a game company to make a game based on a famous economic study.", zh: "好的，很乐意。在之前的几集中，我们讲述了如何与桌游公司“爆炸小猫”合作，试图设计一款受诺贝尔经济学奖获奖论文《柠檬市场》启发的游戏。（Exploding Kittens 爆炸小猫；Nobel Prize 诺贝尔奖；The Market for Lemons 《柠檬市场》，经济学经典论文）"}
+  - {text: "That paper is literally about asymmetric information in the market for used cars.", start: 92.12, end: 97.50, explain: "\"Literally\" means exactly, without exaggeration. \"Asymmetric information\" means one person knows more facts than the other person. The sentence says the paper is exactly about this problem in the used car market.", zh: "那篇论文字面上讲的是二手车市场中的信息不对称。（asymmetric information 信息不对称）"}
+  - {text: "But, broadly, it's about how making deals when one side knows more than the other side causes chaos, distrust, and ultimately destroys a market.", start: 97.80, end: 105.60, explain: "\"Broadly\" means in a general way. \"Destroys\" means makes something stop working or disappear. The sentence explains that when one side knows more than the other, it causes confusion and can ruin a market.", zh: "但更广泛地说，它讲的是当交易一方比另一方知道得更多时，会导致混乱、不信任，并最终摧毁市场。（broadly 广泛地，大体上；destroys 摧毁）"}
+  - {text: "Our game version of that is not about used cars.", start: 105.90, end: 108.56, explain: "The speaker says their game is not about selling old cars, even though the original paper is.", zh: "我们游戏版的内容跟二手车没关系。"}
+  - {text: "We decided it should be about monsters, and we chose a name.", start: 108.72, end: 111.88, explain: "The speaker says they decided the game would be about monsters and they picked a name for it.", zh: "我们决定主题要是怪物，并给它起了个名字。"}
+  - {text: "It's called Sell Me a Sasquatch.", start: 112.10, end: 113.94, explain: "\"Sasquatch\" is a large, hairy, human-like animal that people say lives in the forests of North America. It is also called a Bigfoot. The sentence names the game.", zh: "它叫《卖给我一只大脚怪》。（Sasquatch 大脚怪，传说中的巨型类人猿）"}
+  - {text: "Sell Me a Sasquatch.", start: 114.20, end: 115.34, zh: "《卖给我一只大脚怪》。"}
+  - {text: "Now, you, listeners, you helped us refine this game.", start: 115.34, end: 118.34, explain: "\"Refine\" means to make something better by changing small parts. The speaker says the listeners helped improve the game.", zh: "现在，各位听众，你们帮我们完善了这款游戏。"}
+  - {text: "And in it, our players have hands of cards with cute little mythical creatures on them, and then the players offer deals to each other, trying to get the best creatures,", start: 118.62, end: 127.50, explain: "\"Mythical\" means from stories or legends, not real. \"Offer deals\" means to suggest a trade or exchange. The sentence describes the cards and how players trade them.", zh: "在游戏中，玩家手里拿着印有可爱神话生物的小卡片，然后互相提出交易，试图获得最好的生物，"}
+  - {text: "but also maybe trying to trick their friends into accepting terrible creature cards, because asymmetric information you only ever have to show part of the deal.", start: 127.76, end: 137.76, explain: "\"Asymmetric information\" means one person knows more than the other. \"Trick\" means to fool someone. The sentence explains that players can hide information to fool friends.", zh: "但也可能想骗朋友接受很差的生物卡，因为存在信息不对称，你只需要展示交易的一部分。（asymmetric information 信息不对称；trick 欺骗）"}
+  - {text: "One of the reasons we decided to make this game in the first place is so it could be our Trojan horse to report inside a world", start: 138.00, end: 144.14, explain: "\"Trojan horse\" is a story about a big wooden horse used to hide soldiers. Here it means a tool used to enter a place secretly. The sentence says the game is a way to enter a specific world.", zh: "我们最初决定做这款游戏的理由之一，是把它当作特洛伊木马，以此报道一个……（Trojan horse 特洛伊木马，指表面无害实则带有目的的手段）"}
+  - {text: "that no other Planet Money project has entered.", start: 144.14, end: 146.30, zh: "《金钱星球》其他项目从未涉足的世界。"}
+  - {text: "The real shelves at real big box retail stores.", start: 146.80, end: 149.98, explain: "\"Big box retail stores\" are very large shops that sell many different things, like Walmart or Target. The sentence mentions the shelves in these real stores.", zh: "也就是真实的大型零售商店里的真实货架。（big box retail stores 大型零售商店）"}
+  - {text: "And we think making an Exploding Kittens party game gives us the best chance of sneaking into that world.", start: 150.34, end: 156.06, explain: "\"Exploding Kittens\" is the name of a popular card game. \"Sneaking into\" means entering quietly without being noticed. The sentence says making this game helps them enter the world of big stores.", zh: "我们认为，制作一款《爆炸小猫》派对游戏是我们进入那个领域最好的机会。（Exploding Kittens 爆炸小猫，一款流行桌游；sneaking into 潜入，偷偷进入）"}
+  - {text: "So, yes, that's the deal.", start: 156.60, end: 159.18, zh: "我觉得他们不太习惯这种场面。（used to 习惯，熟悉）"}
+  - {text: "And that is why Erika was at Exploding Kittens headquarters in Los Angeles.", start: 159.42, end: 164.30, explain: "\"Headquarters\" is the main office of a company. The sentence explains why Erika was at the main office of the game company in Los Angeles.", zh: "这就是为什么埃丽卡会出现在洛杉矶的《爆炸小猫》总部。（headquarters 总部）"}
+  - {text: "It's why they had told her essentially to drop everything, because two representatives from a humongous big box company were on their way to visit the Kittens office.", start: 164.48, end: 173.38, explain: "\"Essentially\" means basically or in the main way. \"Humongous\" means very, very big. The sentence says they told her to stop everything because two people from a huge store were coming to visit.", zh: "这也是为什么他们让她基本上放下手头所有工作，因为来自一家超大型百货公司的两位代表正前往“小猫”办公室拜访。（humongous 巨大的；big box 大型百货商店）"}
+  - {text: "Those representatives are board game experts traveling the country, sifting through hundreds of new games to decide which handful of new games will get space on their company's shelves.", start: 173.72, end: 183.34, explain: "\"Sifting through\" means looking carefully through a large group of things to find the best ones. \"Handful\" means a small number. The experts travel around to check many new games and pick a few to sell in their stores.", zh: "这些代表是桌游专家，他们走遍全国，从数百款新游戏中筛选出少数几款，决定哪些能登上他们公司的货架。（sifting through 筛选，仔细挑选；shelves 货架）"}
+  - {text: "This is the moment if we want to get the Planet Money board game into big box retail.", start: 183.68, end: 189.22, explain: "\"Big box retail\" means selling in large stores that have many products. The speaker says this is the chance to get their game into those big stores.", zh: "如果我们想把《星球金钱》桌游卖进大型百货零售店，这就是关键时刻。（big box retail 大型百货零售）"}
+  - {text: "So, I'm doing this call with you and then I'm heading over there.", start: 189.70, end: 193.44, explain: "\"Heading over there\" means going to that place. The speaker is saying they are finishing this phone call and then going to the office.", zh: "所以，我打完这个电话后就要赶过去。（heading over 前往，过去）"}
+  - {text: "Okay. And are you going to get in the room for the pitch?", start: 193.66, end: 196.38, zh: "好的。你会进入那个房间参加提案吗？（pitch 提案，推销陈述）"}
+  - {text: "Like, where did this land?", start: 196.38, end: 197.82, zh: "比如，这事进展得怎么样了？（land 落地，指消息或计划得到确认或落实）"}
+  - {text: "It landed. They emailed me last night and he said that confirmation that you can be in the room for the pitch.", start: 198.52, end: 203.58, explain: "\"Landed\" here means the plan worked or succeeded. \"Pitch\" means a short presentation to sell an idea. They got an email saying she can be in the room for the presentation.", zh: "落实了。他们昨晚给我发了邮件，他说确认你可以进入房间参加提案。（confirmation 确认；pitch 提案，推销陈述）"}
+  - {text: "So, I know part of me was like, maybe I don't have to do this.", start: 204.34, end: 208.62, explain: "\"Part of me\" means a feeling inside the person. The speaker felt like maybe they did not need to do this work.", zh: "所以，我内心的一部分在想，也许我不必非做这件事不可。"}
+  - {text: "But, uh, yeah, Erika was not just going to be in the room.", start: 210.10, end: 214.54, explain: "\"In the room\" means present at the meeting. Erika was not just going to be there; she had a job to do.", zh: "是的，我们特意设计了这种激励机制，卖得越多，Exploding Kittens 分给 MPR 的比例就越大。（incentive 激励；cut 分成）"}
+  - {text: "She was going to have to do the pitch for the Planet Money game.", start: 214.80, end: 219.90, explain: "\"Pitch\" means a short talk to try to sell something. She had to present the Planet Money game to the store people.", zh: "她必须为《Planet Money》的游戏进行提案。（pitch 提案，推介）"}
+  - {text: "This is a pretty big deal.", start: 220.24, end: 221.72, explain: "\"A big deal\" means something very important or exciting. The speaker says this event is very important.", zh: "这可是件大事。"}
+  - {text: "I'm trying not to think how much of a big deal it is and how much work has gone into.", start: 222.16, end: 226.54, explain: "\"How much work has gone into\" means how much effort was used to make it happen. The speaker tries not to think about how important it is or how hard they worked.", zh: "我正努力不去想这有多重要，以及为此付出了多少心血。"}
+  - {text: "It's really big. Is it helpful if I remind you how big it is?", start: 226.74, end: 229.32, explain: "\"Remind you\" means to help you remember something. The speaker asks if it helps to say again how big the event is.", zh: "真的很大。如果我提醒你它有多重要，会有帮助吗？"}
+  - {text: "It's sort of the whole thing.", start: 229.76, end: 230.86, zh: "这基本上就是整个项目。"}
+  - {text: "It's not. I have a pitch, though.", start: 231.14, end: 232.42, zh: "不是。不过我有一个提案。"}
+  - {text: "I, like, talked myself through it a few times.", start: 232.62, end: 235.12, explain: "\"Talked myself through it\" means to practice saying the words in your head or out loud. The speaker practiced the speech a few times.", zh: "我，呃，已经自己在心里排练过几遍了。"}
+  - {text: "I was sitting on the airplane, like, kind of mumbling to myself being like, and the thing you got to know is how devoted I was just like, yeah, I got this.", start: 235.36, end: 242.82, explain: "\"Mumbling\" means speaking quietly and unclearly. \"Devoted\" means very focused and serious. The speaker was on a plane, talking quietly to herself, and felt very focused and ready.", zh: "我坐在飞机上，一直在小声嘟囔，就像在说，你要知道的是，我有多投入，是的，我能搞定。"}
+  - {text: "I got this. I have, I have arm movements that are going to happen.", start: 242.90, end: 245.86, explain: "\"Arm movements\" means moving your arms. The speaker says she will move her arms while speaking.", zh: "我能搞定。接下来我的手臂会有一些动作。（got this 我能搞定；arm movements 手臂动作）"}
+  - {text: "So, uh, okay. You got this, Erika.", start: 246.24, end: 248.84, explain: "\"You got this\" is a common phrase that means you can do it well. The speaker encourages herself by saying she can do it.", zh: "所以，呃，好的。你可以的，埃丽卡。（got this 你可以的；Erika 埃丽卡，人名）"}
+  - {text: "You got this. All right.", start: 248.98, end: 249.92, explain: "\"All right\" means okay or ready. The speaker says she is ready to go.", zh: "你可以的。好的。（got this 你可以的）"}
+  - {text: "Bye. Hello and welcome to Planet Money.", start: 250.22, end: 253.74, zh: "再见。大家好，欢迎收听《Planet Money》。（Planet Money 行星金钱，节目名）"}
+  - {text: "I'm Kenny Malone. And I'm Erika Barris.", start: 254.04, end: 256.40, zh: "我是肯尼·马龙。我是埃丽卡·巴里斯。（Kenny Malone 肯尼·马龙，主持人；Erika Barris 埃丽卡·巴里斯，主持人）"}
+  - {text: "And today on the show, we are going inside the secret room that could make or break our Planet Money game.", start: 256.54, end: 262.92, zh: "今天的节目里，我们将走进一个秘密房间，它可能会决定我们《Planet Money》游戏的成败。（make or break 决定成败；secret room 秘密房间）"}
+  - {text: "And inside the minds of the people who decide what gets to be in big box stores.", start: 263.36, end: 269.60, zh: "我们将深入了解那些决定什么商品能进入大型超市的人的思维。（big box stores 大型超市；decide 决定）"}
+  - {text: "We get a once -in -a -lifetime front row seat for the shark tankway that essentially all the store shelves get filled at...", start: 270.00, end: 277.84, explain: "A \"once-in-a-lifetime\" chance is a very rare event that happens only one time. A \"front row seat\" means you are very close to the action, like sitting in the first row of a theater. \"Shark tankway\" is a made-up word here. It mixes \"shark tank\" (a dangerous place) and \"tankway\" (a path). It describes the busy area where goods are moved. The sentence is cut off and continues in the next one.", zh: "我们获得了一次千载难逢的机会，近距离观看那个本质上决定所有商店货架陈列的“鲨鱼池”……（once-in-a-lifetime 千载难逢的；shark tankway 鲨鱼池，比喻激烈的竞争环境）"}
+  - {text: "Oh, right. Also, we will explain why we cannot say which specific big box retail company we got unusual access to.", start: 278.64, end: 287.02, explain: "\"Specific\" means a particular one, not general. \"Big box retail\" refers to very large stores that sell many different things, like Walmart or Target. \"Unusual access\" means they were allowed to see or do something that is not normal for visitors.", zh: "哦，对了。我们还将解释为什么不能透露我们获得了哪家具体大型零售公司的特殊访问权限。（specific 具体的；big box retail company 大型零售公司）"}
+  - {text: "Stay tuned. This message comes from Schwab.", start: 287.26, end: 302.92, explain: "\"Stay tuned\" means keep listening because the next part is important. This is an advertisement for a company called Schwab.", zh: "请继续收听。这条信息来自嘉信理财。（Stay tuned 请继续收听；Schwab 嘉信理财，赞助商）"}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place.", start: 303.42, end: 309.66, explain: "\"Self-directed investing\" means you choose your own investments without a helper. \"Wealth management\" is a service where a company helps you manage your money and assets. \"Full service\" means they do everything for you.", zh: "在嘉信理财，您可以一站式搞定从自主投资到全方位财富管理的各种服务。（Schwab 嘉信理财；self-directed investing 自主投资；full service wealth management 全方位财富管理）"}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 310.06, end: 317.06, explain: "\"Life stage\" means the part of your life you are in, like being a student or a parent. \"Know how\" means the skill or knowledge you have. The sentence says Schwab can help you no matter what your situation is.", zh: "无论您的投资目标、人生阶段、资金规模或专业知识如何，都能在嘉信理财找到适合自己的投资方式。（know how 专业知识；invest your way 按自己的方式投资）"}
+  - {text: "This message comes from Northwestern Mutual.", start: 317.56, end: 320.08, explain: "This is an advertisement for a company called Northwestern Mutual. It is a place that sells insurance and financial plans.", zh: "这条信息来自西北互助保险公司。（Northwestern Mutual 西北互助）"}
+  - {text: "Life's a lot lately.", start: 320.08, end: 321.84, explain: "\"Life's a lot lately\" means that life has been very busy, stressful, or difficult recently. It is a short, informal way to say things are hard right now.", zh: "最近生活挺不容易的。（Life's a lot lately 最近生活压力很大）"}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 322.32, end: 326.40, zh: "有些事你无法控制，但通过规划，你可以掌控自己的财务。（plan 规划）"}
+  - {text: "It all starts with Northwestern Mutual.", start: 326.82, end: 328.66, zh: "这一切都始于西北互助。（Northwestern Mutual 西北互助）"}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 329.04, end: 336.96, explain: "\"Clients\" are the people who pay for a service. \"Economic environment\" means the state of the money system, like if prices are going up or down. \"Uncertainty\" means not knowing what will happen next.", zh: "近170年来，他们帮助客户在各种经济环境中取得成功，在不确定时期提供稳定。（economic environment 经济环境；stability 稳定性）"}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 337.42, end: 342.54, explain: "This is an advertisement for a life insurance company. \"Northwestern Mutual\" is the name of the company. \"Life insurance\" is a contract that pays money to your family if you die.", zh: "请访问NM.com，即位于威斯康星州密尔沃基的西北互助人寿保险公司。（NM.com 官网域名；Milwaukee 密尔沃基）"}
+  - {text: "This message comes from Capital One.", start: 343.42, end: 345.40, explain: "This is the start of an advertisement. \"Capital One\" is the name of a bank.", zh: "这条信息来自第一资本银行。（Capital One 第一资本）"}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 345.64, end: 349.38, explain: "\"Checking accounts\" are bank accounts you use for everyday spending. \"Fees\" are extra money you have to pay to use the service. \"Minimums\" are the smallest amount of money you must keep in the account.", zh: "第一资本提供无手续费、无最低余额要求的支票账户。（checking accounts 支票账户；minimums 最低要求）"}
+  - {text: "What's in your wallet?", start: 349.38, end: 350.42, zh: "你钱包里有什么？"}
+  - {text: "Terms apply. See capitalone .com slash bank guy for details.", start: 350.72, end: 354.80, explain: "\"Terms apply\" means there are rules you must follow to get the offer. The speaker gives a website address for more information.", zh: "条款适用。详情请访问 capitalone.com/slash bank guy。（Terms apply 条款适用；capitalone 第一资本银行）"}
+  - {text: "Capital One NA member FDIC.", start: 355.30, end: 357.46, zh: "第一资本美国国家银行，联邦存款保险公司成员。（NA 国家银行；FDIC 联邦存款保险公司）"}
+  - {text: "I was somewhat stunned to learn that in the United States, 81 % of our retail buying is still happening at brick and mortar locations.", start: 358.36, end: 368.04, explain: "\"Stunned\" means very surprised or shocked. \"Brick and mortar\" is a phrase for physical stores with real buildings, not online shops.", zh: "得知在美国，81% 的零售购买仍然发生在实体店铺时，我有些震惊。（brick and mortar 实体店铺；retail buying 零售购买）"}
+  - {text: "Like four out of every $5 we spend on retail purchases is at a physical store according to a report from Capital One.", start: 368.22, end: 375.74, explain: "\"Retail purchases\" are things you buy for personal use, like clothes or food. \"Physical store\" means a real building where you can walk in and buy things.", zh: "根据第一资本银行的一份报告，我们在零售消费中每花 5 美元，就有 4 美元是在实体店花的。（physical store 实体店；retail purchases 零售消费）"}
+  - {text: "Walmart and Kroger and Costco and Home Depot and Target are still huge parts of our economy and our lives.", start: 375.74, end: 383.12, zh: "沃尔玛、克罗格、好市多、家得宝和塔吉特仍然是我们经济和生活中巨大的组成部分。（Kroger 克罗格，美国连锁超市；Costco 好市多，美国仓储式会员店）"}
+  - {text: "And the secretive world of Big Box has been a place we've never gotten an inside look at.", start: 383.34, end: 390.90, explain: "\"Big Box\" refers to very large stores that sell many different things. \"Secretive\" means they keep their methods hidden from the public. \"Inside look\" means seeing how they work from the inside.", zh: "而大卖场这个神秘的世界，我们从未有机会深入了解过。（Big Box 大卖场，指大型零售商店；inside look 内部视角）"}
+  - {text: "You know, when the Planet Money team made a t -shirt from scratch, we did not sell it through Walmart.", start: 391.14, end: 395.86, explain: "\"From scratch\" means starting from the very beginning, making everything yourself. The speaker says the team made a t-shirt themselves, but they did not sell it in Walmart stores.", zh: "你知道，当《金钱星球》团队从零开始制作一件 T 恤时，我们并没有通过沃尔玛来销售它。（from scratch 从零开始；Walmart 沃尔玛）"}
+  - {text: "When we launched a record label, the vinyl record for the inflation song was not on shelves at Target.", start: 396.00, end: 402.48, explain: "\"Launched\" means started or began a new business. \"Vinyl record\" is a type of music disc made of plastic. The speaker says the music disc for their song was not sold in Target stores.", zh: "当我们成立唱片公司时，那首关于通胀的歌曲的黑胶唱片并没有出现在塔吉特的货架上。（record label 唱片公司；vinyl record 黑胶唱片）"}
+  - {text: "And when we rescued a forgotten superhero who was then licensed for a cheese product, sadly Costco did not offer to carry five pound blocks of microface aged Gouda.", start: 402.48, end: 412.18, explain: "\"Licensed\" means a company gave permission to use their character or brand. \"Carry\" means to sell a product in a store. The speaker jokes that Costco did not sell a specific type of cheese with the superhero on it.", zh: "还有，当我们拯救了一位被遗忘的超级英雄，并为其获得了一款奶酪产品的授权时，遗憾的是，好市多并没有提议销售五磅重的微面熟成高达奶酪。（licensed 授权；Gouda 高达奶酪，一种荷兰奶酪）"}
+  - {text: "But seriously, Big Box is still this hugely important corner of American life that we just haven't had the chance to understand.", start: 412.88, end: 420.06, explain: "\"Big Box\" refers to very large retail stores that sell many different things. The speaker says these stores are a very important part of life in the USA, but people have not understood them well yet.", zh: "但说真的，大盒子商店依然是美国生活中极其重要的一部分，只是我们之前没机会去深入了解它。（Big Box 大盒子商店，指大型连锁零售店）"}
+  - {text: "No, not until now, hopefully.", start: 420.52, end: 422.98, explain: "\"Hopefully\" means we wish it to be true. The speaker says that only now, and we hope for the future, can they really look into this topic.", zh: "不，直到现在，希望如此。（hopefully 希望，但愿）"}
+  - {text: "The Planet Money board game project is the first serious chance we've had to try and follow a product into the real world, into Big Box in this way.", start: 423.50, end: 431.54, explain: "\"Board game\" is a game played on a flat surface with pieces and cards. The speaker says this project is the first real chance to see how a product moves into big stores.", zh: "《金钱星球》的桌游项目是我们第一次有机会以这种方式，追踪一款产品进入现实世界，进入大盒子商店。（board game 桌游；product 产品）"}
+  - {text: "And it's part of why we decided to make a game in the first place.", start: 431.54, end: 434.54, explain: "\"In the first place\" means at the very beginning. The speaker says this reason is why they decided to make the game at the start.", zh: "这也是我们最初决定制作这款游戏的部分原因。（in the first place 起初，一开始）"}
+  - {text: "And before any of that can happen, Erika was going to have to convince a Big Box company to take our game.", start: 434.80, end: 442.00, explain: "\"Convince\" means to make someone agree to do something. The speaker says Erika had to make a big store company agree to sell their game before anything else could happen.", zh: "而在这一切发生之前，埃里卡必须说服一家大盒子商店接受我们的游戏。（convince 说服；pitch 推销，提案）"}
+  - {text: "Okay, so I'm here.", start: 442.48, end: 445.44, zh: "好的，我到了。（Okay 好的，没问题）"}
+  - {text: "It is six hours before Erika's big pitch meeting.", start: 446.06, end: 449.24, explain: "A \"pitch\" is a short presentation to sell an idea to a company. The sentence says there are six hours left before Erika's important meeting.", zh: "现在是埃里卡重要提案会议前的六个小时。（pitch meeting 提案会议，推销会议）"}
+  - {text: "Yeah, I arrived extra, extra, extra early at the exploding kittens headquarters near West Hollywood.", start: 449.46, end: 455.08, explain: "\"Headquarters\" is the main office of a company. \"West Hollywood\" is a city near Los Angeles. The speaker says she arrived very, very early at the main office of the game company.", zh: "是的，我提前、提前、再提前到了位于西好莱坞附近的《爆炸小猫》总部。（headquarters 总部；West Hollywood 西好莱坞）"}
+  - {text: "Hey Thor, nice to meet you here.", start: 455.62, end: 457.50, zh: "嘿，索尔，很高兴在这里见到你。（Thor 索尔，人名）"}
+  - {text: "I can put my mic down for two seconds.", start: 457.68, end: 459.24, explain: "A \"mic\" is a short word for microphone. The speaker asks to stop recording for a moment.", zh: "我可以把麦克风放下两秒钟。（mic 麦克风）"}
+  - {text: "That is Thor Ritz, you hear there?", start: 459.24, end: 461.32, explain: "\"Thor Ritz\" is the name of a person. The speaker points out a sound made by this person.", zh: "那是托尔·里茨，你听到了吗？（Thor Ritz 托尔·里茨，人名）"}
+  - {text: "He has been helping us for over a year to make our game.", start: 461.46, end: 464.38, explain: "The sentence says Thor has helped the team for more than one year to create their game.", zh: "他帮助我们制作这款游戏已经超过一年了。（game 游戏）"}
+  - {text: "And the moment he walks me into their big open floor office space, you can tell everyone is heads down, preparing for this hugely important meeting.", start: 464.60, end: 473.32, explain: "\"Heads down\" means working very hard and focusing on the task. \"Open floor\" means a big office with no walls between desks. The speaker says everyone is working hard to get ready for the meeting.", zh: "当他带我走进他们宽敞的开放式办公区时，你能感觉到每个人都埋头苦干，正在为这场极其重要的会议做准备。（open floor office space 开放式办公区；heads down 埋头工作）"}
+  - {text: "Any luck, Steve? Hi.", start: 473.58, end: 474.98, zh: "有进展吗，史蒂夫？嗨。（luck 运气，进展）"}
+  - {text: "Will those work? They might.", start: 475.12, end: 476.32, zh: "这些能用吗？也许可以。（work 起作用，能用）"}
+  - {text: "These are the bean bags for the game you just did.", start: 476.74, end: 478.44, explain: "\"Bean bags\" are soft, filled bags used for sitting. The speaker points out the bean bags used in the game they just played.", zh: "这些是你刚才玩的游戏用的豆袋。（bean bags 豆袋，一种填充豆子的软垫）"}
+  - {text: "Oh. Thor and I walked past a team huddled over a new dice game?", start: 478.66, end: 483.18, explain: "\"Huddled\" means sitting close together in a group. The speaker asks if they walked past a group working on a new dice game.", zh: "哦。托尔和我经过时，看到一个团队正围在一起研究一款新的骰子游戏？（huddled 围聚在一起；dice game 骰子游戏）"}
+  - {text: "That's top secret. It's one of the games that we're pitching lightning dice.", start: 483.38, end: 487.64, explain: "\"Pitching\" means showing a new idea to people to see if they like it. \"Lightning dice\" is the name of a specific game. The speaker says the game name is a secret, but they are showing it to people today.", zh: "那是最高机密。这是我们要向闪电骰子公司推介的游戏之一。（top secret 最高机密；pitching 推介，推销；lightning dice 闪电骰子，品牌名）"}
+  - {text: "There's a small team doing last second experimenting with a new plastic material that sort of explodes in this fun, surprising way.", start: 487.64, end: 495.96, explain: "\"Last second\" means at the very end, with no time left. \"Explodes\" here means the plastic breaks open or pops in a fun way. A small group is testing a new material right now.", zh: "有一个小团队正在最后时刻试验一种新的塑料材料，这种材料会以一种有趣且出人意料的方式爆裂。（last second 最后一刻；experimenting 试验）"}
+  - {text: "So then I just sort of pop it down?", start: 496.12, end: 497.52, zh: "然后我就把它放下来……（pop it down 把它放下）"}
+  - {text: "Yeah. All right. Yeah, the office is full of people putting the final touches on game prototypes.", start: 497.60, end: 504.48, explain: "\"Final touches\" means the last small changes to make something perfect. \"Prototypes\" are early models of a product used for testing. The office is busy with people finishing their game models.", zh: "没错，好的。是的，办公室里满是正在为游戏原型做最后润色的人。（prototypes 原型；final touches 最后的修饰）"}
+  - {text: "Ours is one of 13 prototype games that Exploding Kittens is planning to pitch to the representatives from.", start: 505.14, end: 511.08, explain: "\"Pitch\" means to present an idea to a buyer. \"Representatives\" are people who work for a company and make decisions. The sentence is cut off and continues in the next one.", zh: "我们的游戏是 Exploding Kittens 计划向……的代表推销的13款原型游戏之一。（pitch 推销，提案；representatives 代表）"}
+  - {text: "Ah, yes, we have arrived at the situation.", start: 511.99, end: 515.29, zh: "啊，是的，我们已经到了那个环节。（situation 情况，局面）"}
+  - {text: "So we are not saying the name of the big box store coming to the office today because Exploding Kittens told us who they're talking to, the deals they're making.", start: 515.29, end: 524.21, explain: "\"Big box store\" is a very large shop that sells many things. The speaker does not say the shop's name because the game company keeps their business deals secret.", zh: "所以我们不透露今天来办公室的大型连锁商店的名字，因为 Exploding Kittens 告诉我们他们在跟谁谈，在做什么交易。（big box store 大型连锁商店；deals 交易）"}
+  - {text: "This is the kind of stuff that, you know, makes or breaks their business.", start: 524.53, end: 528.37, explain: "\"Makes or breaks\" means it can make the business succeed or fail. This information is very important for the company's future.", zh: "这类事情，你知道，能决定他们生意的成败。（makes or breaks 决定成败）"}
+  - {text: "And so we agreed to not record the actual pitch meeting and to not reveal the actual name of the big box store in that meeting.", start: 528.55, end: 536.77, explain: "\"Reveal\" means to show or tell a secret. The team agreed not to record the meeting or say the shop's name.", zh: "所以我们同意不录制实际的推销会议，也不在那次会议中透露大型连锁商店的实际名称。（pitch meeting 推销会议；reveal 透露）"}
+  - {text: "But suffice it to say Exploding Kittens was taking this company's visit very seriously.", start: 537.05, end: 543.31, explain: "\"Suffice it to say\" is a phrase that means “it is enough to say” or “let's just say”. The company took the visit very seriously.", zh: "但足以说明的是，Exploding Kittens 非常重视这家公司的来访。（suffice it to say 足以说明；taking seriously 认真对待）"}
+  - {text: "Yeah, let's go through seating where we're going to sit.", start: 543.31, end: 546.65, explain: "\"Seating\" means the places where people sit. The speaker wants to decide where they will sit.", zh: "是的，我们来过一下座位安排，看看我们要坐哪里。（seating 座位安排）"}
+  - {text: "It is now T minus one hour until the meeting.", start: 547.37, end: 550.45, explain: "\"T minus one hour\" means one hour before a specific event. The meeting starts in one hour.", zh: "现在距离会议开始还有一小时。（T minus 倒计时）"}
+  - {text: "And Thor and I jump onto an emergency pitch prep call.", start: 550.61, end: 554.13, explain: "\"Emergency\" means urgent and happening suddenly. \"Pitch prep\" means getting ready to show a new idea to people. The speaker and Thor join a quick call to prepare.", zh: "Thor 和我跳进了一场紧急的推销准备电话会议。（emergency 紧急的；pitch prep 推销准备）"}
+  - {text: "How's everyone doing? Yeah, no, I'm good.", start: 554.35, end: 556.19, explain: "\"How's everyone doing?\" is a common way to ask how people are feeling. The speaker says they are fine.", zh: "大家最近怎么样？嗯，还行，我挺好的。"}
+  - {text: "Okay. I do have a lot of notes.", start: 556.61, end: 559.09, zh: "好的，我手头有很多笔记。（notes 笔记）"}
+  - {text: "Elon Lee is the co -founder of Exploding Kittens.", start: 559.97, end: 563.31, explain: "\"Co-founder\" means a person who starts a company with others. \"Exploding Kittens\" is the name of a popular card game.", zh: "Elon Lee 是《Exploding Kittens》的联合创始人。（co-founder 联合创始人；Exploding Kittens 爆炸猫，一款流行的桌游）"}
+  - {text: "He has become our friend, our co -pilot, our general sage through the Planet Money board game project.", start: 563.47, end: 569.23, explain: "\"Co-pilot\" means a helper who guides you. \"Sage\" means a wise person who gives good advice. He helps the team with their game project.", zh: "他成了我们的朋友、我们的副驾驶，也是我们在《Planet Money》桌游项目中的智囊。（co-pilot 副驾驶，此处比喻协助者；sage 智者，智囊）"}
+  - {text: "Should I be nervous?", start: 569.57, end: 570.25, zh: "我该紧张吗？"}
+  - {text: "Oh no. You know, they're actually, they're really good guys.", start: 572.20, end: 577.17, explain: "\"Good guys\" means kind and honest people. The speaker thinks the people they are talking about are nice.", zh: "哦不，你知道的，他们其实人真的很好。"}
+  - {text: "However, they've seen the best games in the world fail without proper marketing support.", start: 577.61, end: 583.13, zh: "不过，他们见过很多世界上最优秀的游戏因为缺乏适当的营销支持而失败。（marketing support 营销支持）"}
+  - {text: "So our goal today is to say, okay, we all love this game.", start: 583.65, end: 586.77, explain: "\"Goal\" means the thing you want to achieve. The team wants to agree that everyone likes the game.", zh: "所以今天我们的目标是说，好吧，我们都喜欢这款游戏。"}
+  - {text: "Everyone who plays this game loves this game.", start: 586.85, end: 588.27, zh: "每一个玩过这款游戏的人都喜欢它。"}
+  - {text: "Now we're going to tell you why it's also going to be the best selling game of all time.", start: 588.57, end: 593.63, explain: "\"Best selling\" means the one that sells the most copies. The speaker says this game will be the most popular game ever made.", zh: "现在我们要告诉你们，为什么它也将成为有史以来销量最好的游戏。（best selling 畅销的，销量最好的）"}
+  - {text: "Yeah, big box companies have small armies of buyers in charge of finding and buying the things for their sections of the store.", start: 593.63, end: 602.79, explain: "A \"big box company\" is a very large store that sells many different types of things. \"Buyers\" are people who choose which items the store will sell. \"In charge of\" means responsible for doing something. The sentence says large stores have teams of people who pick the products for their specific store areas.", zh: "没错，大型连锁零售商拥有庞大的采购团队，负责为店内不同区域寻找并采购商品。（big box 大型连锁零售商；buyers 采购员）"}
+  - {text: "There are baby aisle buyers and cosmetics buyers and food buyers.", start: 603.09, end: 607.25, explain: "An \"aisle\" is a long space in a store where shelves are placed. \"Cosmetics\" are products for beauty, like makeup. The sentence lists examples of people who buy products for specific store areas, like baby items or food.", zh: "有专门负责婴儿用品区的采购员，也有负责化妆品区和食品区的采购员。（aisle 货架通道；cosmetics 化妆品）"}
+  - {text: "And today the Exploding Kittens office is going to be visited by the board game buyers from the big box store that shall not be named.", start: 607.55, end: 615.51, explain: "\"Shall not be named\" is a funny way of saying the store's name is a secret. \"Board game\" is a game played on a flat surface with pieces and dice. The sentence says the store's game buyers will visit the Exploding Kittens office today.", zh: "今天，Exploding Kittens 的办公室将迎来一家不便透露名字的大型连锁零售商的桌游采购员。（Exploding Kittens 爆炸小猫，一家桌游公司；board game 桌游）"}
+  - {text: "This whole song and dance is part of something called line review as in a seasonal review of product lines.", start: 615.77, end: 622.85, explain: "\"Song and dance\" is an idiom meaning a long or complicated process. \"Line review\" is a business term for checking which products to sell in a season. The sentence explains that this visit is part of a regular check of products.", zh: "这一整套流程属于所谓的“产品线审查”，即对季节性产品线的定期评估。（line review 产品线审查；seasonal 季节性的）"}
+  - {text: "Retail buyers have to regularly look at what's on the shelves in their sections of their big box stores and decide what to keep, what to get rid of.", start: 622.85, end: 631.27, explain: "\"Retail buyers\" are people who buy goods for stores to sell. \"Get rid of\" means to remove or throw away. The sentence says store buyers must check their shelves and decide which items to keep and which to remove.", zh: "零售采购员必须定期审视大型门店各区域货架上的商品，决定保留哪些、淘汰哪些。（shelves 货架；get rid of 淘汰，清除）"}
+  - {text: "And most importantly for us, what new products to add for the upcoming season.", start: 631.55, end: 636.69, explain: "\"Upcoming\" means coming soon, in the future. The sentence says the most important decision is which new products to add for the next season.", zh: "对我们来说最重要的是，决定在即将到来的季节新增哪些新产品。（upcoming 即将到来的；season 季节，销售档期）"}
+  - {text: "But here's the thing, this line review, this only happens twice a year.", start: 637.03, end: 641.81, zh: "但关键在于，这种产品线审查每年只进行两次。（line review 产品线审查；twice a year 每年两次）"}
+  - {text: "This really is our one chance to get a prototype of our game in front of the big box stores and then ask them, do you", start: 642.05, end: 649.27, explain: "A \"prototype\" is an early model of a product used for testing. The sentence is cut off. It says this is their only chance to show a test version of their game to the stores and ask them a question.", zh: "这真的是我们唯一的机会，将游戏的原型展示给大型零售商，然后问他们是否……（prototype 原型；big box 大型连锁零售商）"}
+  - {text: "want to pay us to make tens of thousands of these things for you?", start: 649.27, end: 652.49, zh: "愿意付费让我们为他们生产成千上万份这样的产品？（tens of thousands 成千上万；make 生产，制造）"}
+  - {text: "And Thor tells Erika, she's going to have very little time to make that case to the big box store.", start: 652.95, end: 658.91, zh: "Thor 告诉 Erika，她向大型零售商推销的时间将非常有限。（case 理由，论据；big box store 大型连锁零售店）"}
+  - {text: "We're probably talking between three and five minutes of...", start: 659.13, end: 662.65, explain: "\"Probably\" means maybe, or likely. The speaker is guessing the time is between three and five minutes. The sentence ends with \"...\" and continues in the next one.", zh: "我们大概说的是三到五分钟……（aim for 瞄准，争取）"}
+  - {text: "You're saying do not bring this entire notebook.", start: 663.23, end: 665.15, explain: "\"Entire\" means the whole thing, all of it. The speaker says you should not bring the whole notebook.", zh: "你的意思是别把整个笔记本都带过来。（entire 整个的）"}
+  - {text: "Yeah, I think you can aim for the upper end of that like closer to five minutes.", start: 665.43, end: 669.27, explain: "\"Aim for\" means to try to reach a goal. \"Upper end\" means the higher number in a range. The speaker suggests trying to be closer to five minutes.", zh: "是的，我觉得你可以往上限靠拢，比如接近五分钟。（upper end 上限，高端）"}
+  - {text: "So Alon explains that the plan is he'll be on a big screen in the room and do the setup.", start: 669.71, end: 675.45, explain: "\"Setup\" means the preparation or introduction before the main activity. Alon will be on a big screen and do the introduction.", zh: "所以Alon解释说，计划是他会出现在房间的大屏幕上，并负责开场介绍。（setup 开场，准备）"}
+  - {text: "He's built a lot of trust with the buyers at this point.", start: 675.45, end: 678.13, zh: "到目前为止，他已经和采购员们建立了大量信任。（buyers 采购员）"}
+  - {text: "He's not worried about convincing them that the game is good.", start: 678.27, end: 681.53, explain: "\"Convincing\" means making people believe something is true. He does not worry about making them believe the game is good.", zh: "他并不担心如何说服他们这款游戏很好。（convincing 说服）"}
+  - {text: "What he cannot do though is be beloved co -host of one of the most listen to podcasts in the country, Erika Barris.", start: 681.73, end: 690.45, explain: "\"Beloved\" means very loved and liked by many people. \"Co-host\" is a person who shares the job of hosting a show. The sentence has a space in \"co -host\". Erika Barris is a famous podcast host.", zh: "但他无法成为那个深受喜爱的联合主持人，也就是全国收听率最高的播客之一的主持人Erika Barris。（co-host 联合主持人）"}
+  - {text: "Stop, stop, stop, go on.", start: 691.23, end: 693.45, zh: "停，停，停，继续说。（go on 继续）"}
+  - {text: "For real though, this is kind of the whole ballgame right here.", start: 693.61, end: 697.11, explain: "\"Ballgame\" is an informal word for the most important part of a situation. \"For real\" means seriously. The speaker says this is the most important part.", zh: "说真的，这其实就是关键所在。（ballgame 关键，核心问题）"}
+  - {text: "We partnered with Exploding Kittens in part to optimize our chance of getting into big box.", start: 697.21, end: 702.85, explain: "\"Optimize\" means to make something as good or effective as possible. \"Big box\" means large retail stores like Walmart or Target. They worked with Exploding Kittens to improve their chance of selling in these stores.", zh: "我们与Exploding Kittens合作，部分原因是为了优化进入大型零售商的机会。（big box 大型零售商，大卖场）"}
+  - {text: "But they partnered with us in part because the big box board game world is getting more and more competitive.", start: 702.85, end: 709.09, explain: "\"Partnered\" means worked together. \"Competitive\" means many people or companies are trying to win the same thing. The sentence says they worked with the show because the market for big store games is becoming very crowded.", zh: "但他们之所以与我们合作，部分原因是大型连锁书店的游戏市场正变得越来越竞争激烈。（big box 大型连锁书店；board game 桌游）"}
+  - {text: "So Erika's job is to tell these buyers about our advantage about planet money, our incredible audience, our history with projects, and frankly, just to keep their attention.", start: 709.33, end: 720.61, explain: "\"Buyers\" are the people who choose which products to sell in a store. \"Frankly\" means honestly. Erika's job is to show the store buyers why their game is good and to keep them interested.", zh: "所以埃里卡的工作就是向这些采购人员介绍我们的优势，比如《Planet Money》、我们庞大的听众群体、过往的项目经验，以及坦白说，就是想办法抓住他们的注意力。（buyers 采购人员；audience 听众）"}
+  - {text: "Do they have tells like they touch their nose or like success?", start: 721.13, end: 723.69, zh: "他们有没有什么小动作，比如摸鼻子之类的？（tells 泄露内心想法的小动作；success 此处疑为转录错误，结合语境可能指某种特定反应）"}
+  - {text: "Keep going, keep going.", start: 724.07, end: 724.69, zh: "继续说，继续说。"}
+  - {text: "I've certainly have seen them do things that mean they're definitely not going to buy it, which is like if they start checking their phones halfway through.", start: 725.23, end: 735.13, explain: "\"Certainly\" means for sure. The speaker has seen buyers do things that show they will not buy the game, like looking at their phones while the presenter is talking.", zh: "我确实见过他们做出一些明显表示不会购买的动作，比如说到一半就开始看手机。（checking their phones 看手机）"}
+  - {text: "Oh my God, that's so terrible.", start: 735.81, end: 736.63, zh: "天哪，那太糟糕了。"}
+  - {text: "Yeah, yeah, we've seen all of that.", start: 737.71, end: 739.61, zh: "是的，是的，我们都见过那些情况。"}
+  - {text: "They take countless of these.", start: 739.93, end: 740.91, explain: "\"Countless\" means too many to count. The sentence is a fragment and means they look at a very large number of these games.", zh: "他们要处理无数这样的提案。（countless 无数的）"}
+  - {text: "We are just one of many people that they do the same sort of meeting with.", start: 741.75, end: 744.99, zh: "我们只是众多进行类似会议的人之一。"}
+  - {text: "Yeah. Like this is it, right?", start: 745.45, end: 748.03, explain: "\"Like this is it\" is a casual way of asking if this is the final decision or the end of the process. The speaker is asking for confirmation.", zh: "是的。这就是全部了，对吧？"}
+  - {text: "We have like seven more minutes before and then that's it.", start: 748.11, end: 750.55, zh: "我们还有大概七分钟，然后就要结束了。（like 大概，大约）"}
+  - {text: "Whatever we figure out now, that's what we need for the room.", start: 750.63, end: 753.43, explain: "\"Figure out\" means to find the answer or solution. \"The room\" refers to the meeting place where the buyers are. Whatever they decide now is what they need for that meeting.", zh: "我们现在定下来的内容，就是会议室里需要的。（figure out 确定，弄清楚）"}
+  - {text: "So what else should I know?", start: 753.63, end: 754.59, zh: "那我还需要知道些什么？（what else 还有什么）"}
+  - {text: "Don't be nervous. Smile.", start: 755.61, end: 757.39, zh: "别紧张，笑一笑。（nervous 紧张的）"}
+  - {text: "They have a very, very difficult job because they're trying to tell the future and that's not possible.", start: 757.81, end: 763.35, explain: "\"Difficult\" means hard to do. \"Tell the future\" means to predict what will happen. The job is hard because you cannot know the future for sure.", zh: "他们的工作非常非常难，因为他们试图预测未来，而这根本不可能。（tell the future 预测未来）"}
+  - {text: "So a lot of times what the best tool they have is to bet on the person instead of the game.", start: 764.13, end: 771.41, explain: "\"Bet on\" means to trust or choose something because you think it will work. The sentence says that companies often choose a person because they think that person is more important than the game itself.", zh: "所以很多时候，他们最好的策略是押注于人，而不是游戏。（bet on 押注，下注）"}
+  - {text: "And so they want to see this person is going to devote themselves to make it successful because ultimately that's really all they can bet on.", start: 771.85, end: 779.47, explain: "\"Devote themselves\" means to give all their time and energy to something. The speaker says the company wants to see that the person will work hard to make the game successful, because that is the only thing they can trust.", zh: "因此他们想看到这个人会全身心投入去让它成功，因为归根结底，这才是他们唯一能押注的东西。（devote themselves to 全身心投入）"}
+  - {text: "This is going to go great.", start: 779.79, end: 780.69, explain: "This is a short, excited sentence. The speaker is saying that the game will be very popular and do very well.", zh: "这会非常棒的。（go great 非常顺利，很棒）"}
+  - {text: "Don't worry about it.", start: 780.95, end: 781.61, zh: "别担心。（Don't worry about it 别担心）"}
+  - {text: "Yeah, right. Don't worry about it.", start: 781.83, end: 783.33, zh: "是啊，没错。别担心。（Yeah, right 是啊，没错）"}
+  - {text: "Don't worry about it.", start: 783.49, end: 783.87, zh: "别担心。"}
+  - {text: "Thanks a lot. I'll talk to you both soon.", start: 783.95, end: 785.31, zh: "非常感谢，我很快会和你们两位聊。"}
+  - {text: "All right. See you soon.", start: 785.31, end: 786.45, zh: "好的，回头见。"}
+  - {text: "And with that, I go find an empty little room.", start: 786.99, end: 790.13, zh: "说完这些，我就去找个空的小房间。"}
+  - {text: "Our podcast is, of course, the big part.", start: 790.19, end: 794.21, explain: "This sentence is a bit broken. The speaker is saying that the podcast is the most important part of their work.", zh: "当然，我们的播客是重头戏。"}
+  - {text: "And over my notes, our listeners are the best of us, which is a great thing that Kenny said earlier until they called me in.", start: 794.33, end: 800.65, explain: "\"Over my notes\" is a transcription error; it likely means \"in my notes\" or refers to reading from notes. The speaker says their listeners are the best part of the team, which Kenny said earlier before the speaker was called to speak.", zh: "在我的笔记里，我们的听众是最棒的，正如肯尼刚才所说，直到他们把我叫进来为止。（Kenny 肯尼，人名）"}
+  - {text: "Okay. Is it time?", start: 801.23, end: 802.27, zh: "好了，是时候了吗？"}
+  - {text: "Yeah. And I turned off my recorder.", start: 802.63, end: 803.95, explain: "\"Recorder\" is a machine that saves sound. The speaker says they stopped the machine from saving sound.", zh: "是的，我关掉了录音机。"}
+  - {text: "Here we go. Erica.", start: 804.94, end: 811.87, zh: "开始了，艾瑞卡。（Erica 艾瑞卡，人名）"}
+  - {text: "Yes. Tell me everything.", start: 812.74, end: 814.64, zh: "是的，告诉我一切。"}
+  - {text: "How did it go?", start: 814.90, end: 815.44, zh: "情况怎么样？"}
+  - {text: "I'm so, I'm so excited.", start: 815.60, end: 817.70, zh: "我太激动了，真的特别兴奋。（excited 兴奋的）"}
+  - {text: "Okay. I'm going to walk you through the whole thing.", start: 817.70, end: 819.78, zh: "好的，我来给你们讲讲整个过程。（walk you through 带你了解，讲解）"}
+  - {text: "Immediately afterwards, while Exploding Kittens was pitching its other games, I called Kenny to tell him everything.", start: 820.32, end: 826.46, explain: "\"Pitching\" means trying to sell an idea to someone. \"Exploding Kittens\" is the name of the game company. The speaker called Kenny right after the company was trying to sell their other games.", zh: "就在刚才，当 Exploding Kittens 还在推销他们的其他游戏时，我立刻给 Kenny 打了电话，把一切都告诉了他。（pitching 推销，推介；Exploding Kittens 爆炸小猫，一家桌游公司）"}
+  - {text: "What are the first things that someone says in the room?", start: 827.00, end: 829.62, zh: "在那间屋子里，大家最先说的是什么？"}
+  - {text: "Erica, sit down. What's the first thing I heard?", start: 830.96, end: 833.86, zh: "Erica，坐吧。我听到的第一句话是什么？"}
+  - {text: "Wait, were you like standing too long or something?", start: 834.64, end: 836.28, explain: "\"Like\" is used here as a filler word, similar to \"sort of\". The speaker is asking if Kenny was standing for a long time, which might make him tired or confused.", zh: "等等，你是站太久了吗，还是怎么了？"}
+  - {text: "Did you forget to say?", start: 836.54, end: 837.24, zh: "你忘记说什么了吗？"}
+  - {text: "I was standing there.", start: 837.30, end: 838.00, explain: "This is a simple sentence. The speaker says they were standing in a specific place at that time.", zh: "我就一直站在那儿。"}
+  - {text: "I was like, do I stand for my presentation?", start: 838.12, end: 840.08, explain: "A \"presentation\" is a talk or show you give to a group of people. The speaker asks if they should stand up to give their talk.", zh: "我当时在想，做演示的时候我该站着还是坐着？（presentation 演示，展示）"}
+  - {text: "And I was like, what is this?", start: 840.40, end: 841.86, explain: "The speaker is confused and asks what is happening. \"What is this\" is a common way to show surprise or confusion.", zh: "我当时心想，这到底是什么？（what is this 这是什么）"}
+  - {text: "Like, I'm ready to go, you know?", start: 842.10, end: 843.92, zh: "就像，我已经准备好出发了，你知道吧？（ready to go 准备好出发）"}
+  - {text: "So I walk in, I sit down, eventually.", start: 844.80, end: 847.96, zh: "所以我走进去，坐了下来，最后。"}
+  - {text: "Ilan is up on the screen.", start: 849.66, end: 850.96, explain: "\"Up on the screen\" means visible on the display or monitor. Ilan is a person's name. The speaker sees Ilan on the screen.", zh: "伊兰出现在屏幕上。（Ilan 伊兰，人名）"}
+  - {text: "And he's like, this collaboration is the thing he's most excited about and so on and so forth.", start: 851.54, end: 855.56, explain: "A \"collaboration\" is when two or more people work together on a project. \"So on and so forth\" means \"and other similar things\". Ilan says he is very happy about working with the speaker.", zh: "他说，这次合作是他最兴奋的事情，诸如此类。（collaboration 合作；excited 兴奋）"}
+  - {text: "And he's like, and Erica's here.", start: 855.64, end: 856.60, zh: "然后他说，埃丽卡在这里。（Erica 埃丽卡，人名）"}
+  - {text: "And I was like, that's me, you know.", start: 856.68, end: 858.26, explain: "\"That's me\" means \"that is about me\" or \"that refers to me\". The speaker realizes the talk is about them.", zh: "我当时心想，那就是我啊，你知道。（that's me 那就是我）"}
+  - {text: "And I don't even know what happened.", start: 860.10, end: 861.66, zh: "我甚至不知道发生了什么。"}
+  - {text: "I was just talking.", start: 861.82, end: 862.54, explain: "This is a simple sentence. The speaker says they were only talking, without doing anything else special.", zh: "我只是在聊天。"}
+  - {text: "I just was blah, blah, blah, microface, blah, blah, blah, planet money, blah, blah, blah, devoted audience.", start: 862.74, end: 866.54, explain: "\"Blah, blah, blah\" is a sound people make to show they are bored or that the words are not important. \"Microface\" is likely a mistake in the recording for \"microphone\" (the tool for recording sound). \"Devoted\" means very loyal and caring. The speaker is joking that they were just talking about the show and its fans.", zh: "我只是在那儿瞎扯，麦克风，瞎扯，Planet Money，瞎扯，忠实的听众。（microface 麦克风；Planet Money 星球金钱，节目名；devoted audience 忠实的听众）"}
+  - {text: "So, yeah. So what did they seem to respond to?", start: 867.24, end: 870.44, zh: "所以，是的。那么他们似乎对什么做出了回应呢？"}
+  - {text: "So this is, this is interesting.", start: 870.64, end: 872.28, explain: "The speaker says the situation is interesting. This is a short comment to show they are thinking about the topic.", zh: "这一点，这一点很有趣。"}
+  - {text: "They did not respond to anything to do with the actual game or planet money for that matter.", start: 872.28, end: 879.64, zh: "他们对与游戏本身或《Planet Money》节目相关的任何事都没有做出回应。（for that matter 就那件事而言；Planet Money 美国国家公共广播电台的一档经济类节目）"}
+  - {text: "Like they just took that for granted and they just kind of nodded and smiled, but they had concerns.", start: 879.82, end: 884.16, zh: "他们似乎把这当作理所当然，只是点头微笑，但他们确实有些顾虑。（took that for granted 视为理所当然；concerns 顾虑，担忧）"}
+  - {text: "Erica explained they seemed a little worried about who the game was for exactly kids, teens, adults, and also the number of players.", start: 884.66, end: 893.92, explain: "\"Teens\" means young people between 13 and 19 years old. \"Primary\" is not used here, but \"seemed\" means it looked like or appeared to be. Erica said the people were worried about who the game is for (kids, teens, or adults) and how many people can play it.", zh: "Erica 解释说，他们似乎有点担心这个游戏到底适合谁，是儿童、青少年还是成人，同时也担心玩家人数的问题。（Erica 人名；concerns 顾虑）"}
+  - {text: "Is there a two player version?", start: 894.12, end: 895.50, zh: "有没有双人版？（two player version 双人版）"}
+  - {text: "But it seemed like the primary concern was about money, the price of the game.", start: 895.74, end: 901.94, explain: "\"Primary\" means main or most important. The main worry was about money, specifically how much the game costs.", zh: "但看起来他们最主要的顾虑是关于钱，也就是游戏的价格。（primary concern 主要顾虑）"}
+  - {text: "They were like, it kind of almost feels like it should be one of those $9 .99 card games.", start: 902.28, end: 907.20, zh: "他们觉得，这感觉几乎像是那种售价 9.99 美元的卡牌游戏。（$9.99 card games 9.99 美元的卡牌游戏）"}
+  - {text: "Oh, that's too cheap.", start: 907.48, end: 908.26, zh: "哦，那太便宜了。（too cheap 太便宜）"}
+  - {text: "Yeah, it's tricky. So they're like, it's not a $10 game, but it doesn't seem like a $20 game.", start: 909.00, end: 913.82, explain: "\"Tricky\" means difficult or hard to decide. The speaker says the price is hard to set because it is not cheap like $10, but not expensive like $20.", zh: "是的，这很难说。他们觉得，它不像是一款 10 美元的游戏，但也不像是一款 20 美元的游戏。（tricky 棘手的，难说的）"}
+  - {text: "Like that did not seem great to you and me, Erica.", start: 914.08, end: 917.48, zh: "就像那样，对你和我来说似乎都不太好，Erica。（Erica 人名）"}
+  - {text: "No, like it almost sounded like they did not know what to do with our game or like how to place it exactly.", start: 917.80, end: 924.86, zh: "是啊，听起来他们好像不知道该怎么处理我们的游戏，或者确切地说不知道该怎么摆放它。（place it 摆放它，指货架陈列）"}
+  - {text: "Right. But the next day, hello, can you hear me?", start: 925.54, end: 928.52, zh: "没错。但第二天，你好，你能听到我说话吗？"}
+  - {text: "Hey, yeah, I can hear you.", start: 928.70, end: 929.78, zh: "嘿，能，我听得见。"}
+  - {text: "I called Alon, who had heard that price stuff very differently than the way we did.", start: 929.78, end: 935.08, explain: "\"Price stuff\" means the talk about the cost of the game. The speaker called Alon because Alon understood the price discussion in a different way than the speaker did.", zh: "我联系了Alon，他对价格问题的理解和我们截然不同。（Alon 人名）"}
+  - {text: "They did ask one question and I think it was very telling.", start: 935.24, end: 940.32, explain: "\"Telling\" means showing the truth or giving a clear sign. The speaker thinks the question asked by the other people was very important and showed what they really thought.", zh: "他们问了一个问题，我觉得这非常有说明性。（telling 有说明性的，意味深长的）"}
+  - {text: "They said, how set are you on the price point?", start: 941.12, end: 944.68, explain: "\"Price point\" means the specific amount of money a product costs. \"Set\" means decided or fixed. They asked how fixed the price is.", zh: "他们问，你们对价格点有多坚持？（price point 价格点，具体定价）"}
+  - {text: "And that, for me, that's when like little confetti bombs started going off in my head, because that was like, oh, they're not asking about whether or not they should sell this thing.", start: 945.82, end: 956.40, explain: "\"Confetti bombs\" are small fireworks that shoot out paper pieces. Here, it means the speaker had a sudden, exciting idea. The speaker realized the other people were not asking if they should sell the game, but if they were sure about the price.", zh: "对我来说，那一刻我脑海里就像炸开了彩纸礼花，因为这意味着，哦，他们不是在问要不要卖这个产品。（confetti bombs 彩纸礼花，比喻兴奋感）"}
+  - {text: "They are now asking about the best way to sell it.", start: 956.40, end: 960.28, explain: "This sentence is a fragment. It says people are looking for the best method to sell the product.", zh: "他们现在问的是如何以最佳方式销售它。"}
+  - {text: "Alon explained that if you think about a board game, our board game, there is a huge range of possibilities for what the final product would", start: 960.50, end: 969.30, explain: "A \"prototype\" is an early model of a product made to test ideas. The sentence is cut off and continues in the next part. Alon says there are many ways the final game could look.", zh: "Alon解释说，如果你想想桌游，我们的桌游，最终产品有巨大的可能性范围……（board game 桌游）"}
+  - {text: "or could actually look like on a shelf.", start: 969.30, end: 971.32, zh: "或者它实际上摆在货架上会是什么样子。"}
+  - {text: "You know, we've just got a prototype for now.", start: 971.52, end: 973.06, explain: "A \"prototype\" is an early sample of a product. The speaker says they only have a test version right now.", zh: "你知道，我们现在只有一个原型。（prototype 原型，样机）"}
+  - {text: "And at its core, our game is really just a deck of special cards.", start: 973.44, end: 977.74, explain: "\"At its core\" means the most important part or the basic idea. A \"deck\" is a set of cards. The speaker says the main part of the game is just a set of special cards.", zh: "从核心来看，我们的游戏其实就是一副特殊的卡牌。（deck 一副牌）"}
+  - {text: "So there's an incredibly cheap version of that game, I suppose.", start: 977.86, end: 980.68, explain: "\"I suppose\" is a phrase used to make a statement sound less certain. The speaker thinks the game could be very cheap to make.", zh: "所以我想，那应该是这个游戏的一个极其便宜的版本。"}
+  - {text: "It's just like, I don't know, here's a little deck of cards like Uno.", start: 980.92, end: 983.34, explain: "\"Uno\" is a very popular card game. The speaker compares the cheap version of their game to a simple deck of cards like Uno.", zh: "就像，我不知道，就是一副类似《UNO》的小卡牌。（Uno 一种流行的纸牌游戏）"}
+  - {text: "On the other end of the spectrum, it's way more fun if we could afford to include a little figurine of like a Sasquatch to help keep track of turns.", start: 983.34, end: 991.20, explain: "A \"figurine\" is a small statue or model of a person or animal. \"Sasquatch\" is a big, hairy monster from stories. The speaker says a small model of a Sasquatch would make the game more fun if they had enough money.", zh: "在预算的另一端，如果我们能负担得起，加一个小大脚怪公仔来帮忙记录回合会好玩得多。（Sasquatch 大脚怪，传说中的巨型类人猿）"}
+  - {text: "Little vinyl guy, I love that.", start: 991.98, end: 993.40, explain: "\"Vinyl\" is a hard plastic material used for toys. The speaker likes the idea of a small plastic figure.", zh: "小乙烯基人偶，我喜欢那个。（vinyl 乙烯基，一种塑料材质）"}
+  - {text: "Why not? Tokens for points and maybe like...", start: 993.50, end: 996.38, zh: "为什么不呢？计分用的代币，也许还有……（Tokens 代币，筹码）"}
+  - {text: "Little metal tokens, like little clinky clanky, I love it.", start: 996.38, end: 999.10, explain: "\"Tokens\" are small, flat pieces of metal used as money in a game. \"Clinky\" is a sound word for hard things hitting each other. The speaker says they like the sound the small metal pieces make.", zh: "小金属代币，叮叮当当的，我爱死它了。"}
+  - {text: "And maybe like a bigger, nicer box to hold all of that stuff.", start: 999.22, end: 1003.32, zh: "也许还有一个更大、更漂亮的盒子来装这些东西。"}
+  - {text: "Right now, the game is still a prototype.", start: 1003.70, end: 1006.36, explain: "A \"prototype\" is the first version of a product, made to test how it works. The speaker says the game is not finished yet; it is still a test model.", zh: "目前，这款游戏还只是一个原型。（prototype 原型，雏形）"}
+  - {text: "So this pricing decision, it will ultimately determine all of that stuff.", start: 1006.58, end: 1011.30, explain: "\"Ultimately\" means in the end, or finally. \"Determine\" means to decide or control. The speaker says this choice about price will decide the final result of everything.", zh: "所以这个定价决定，最终将决定所有那些事情。（ultimately 最终，归根结底）"}
+  - {text: "We will, to some extent, change our per unit production cost to meet the price point we choose right now.", start: 1011.30, end: 1018.94, zh: "为了符合我们现在选定的价格点，我们可能会在一定程度上调整单位生产成本。（per unit production cost 单位生产成本；price point 价格点，特定价位）"}
+  - {text: "Yeah. I mean, what it all comes down to is once you set your price, it is very hard to change.", start: 1019.20, end: 1025.32, explain: "\"Comes down to\" means the main point or the most important part. The speaker says the key thing is that it is very difficult to change a price after you have set it.", zh: "是啊，我的意思是，归根结底，一旦你定了价，就很难再改变。（comes down to 归结为，关键在于）"}
+  - {text: "Yeah. Like once the product is on the shelf, it's very hard to change a price.", start: 1025.76, end: 1029.64, explain: "\"On the shelf\" means in the store, ready for people to buy. The speaker says it is hard to change the price once the product is in the store.", zh: "是啊，就像产品一旦上架，价格就很难再改了。（on the shelf 在货架上，指已上市销售）"}
+  - {text: "Because if you raise your price, that's suicide.", start: 1029.82, end: 1032.22, explain: "\"Suicide\" here is a strong word meaning a very bad mistake that will kill the business. The speaker says raising the price is a terrible idea.", zh: "因为如果你涨价，那就是自杀。（suicide 自杀，比喻自取灭亡）"}
+  - {text: "And if you lower your price, then suddenly it looks like you're discounting it.", start: 1032.88, end: 1037.64, explain: "\"Discounting\" means selling something for less money than usual. The speaker says if you lower the price, it looks like you are selling it for less.", zh: "而如果你降价，那突然看起来就像你在打折促销。（discounting 打折，降价销售）"}
+  - {text: "Like suddenly you're just trying to get rid of a cheap net.", start: 1037.82, end: 1039.80, explain: "\"Get rid of\" means to throw away or sell something you do not want. The speaker says lowering the price makes it look like you are trying to sell a cheap item quickly.", zh: "就像你突然只是在处理廉价网具一样。（get rid of 处理掉，甩卖）"}
+  - {text: "So it's so important to nail it the first time.", start: 1039.80, end: 1043.44, zh: "所以第一次就定准非常重要。（nail it 搞定，做对，此处指精准定价）"}
+  - {text: "We're really setting the stage for the entire global market for that product by picking one price one time.", start: 1043.64, end: 1051.70, explain: "\"Setting the stage\" means preparing the situation for something to happen. \"Global market\" means the trade of goods all over the world. The speaker says that choosing one price once will decide how the product sells everywhere.", zh: "我们通过一次性选定一个价格，实际上是在为该产品在全球市场的整个格局奠定基础。（setting the stage 奠定基础，铺路）"}
+  - {text: "What is the next step actually?", start: 1052.16, end: 1053.14, explain: "This is a simple question asking what happens after the current step.", zh: "那下一步具体是什么？"}
+  - {text: "Let me ask you that.", start: 1053.30, end: 1053.76, zh: "让我来问问你这个问题。"}
+  - {text: "What is the next step?", start: 1053.86, end: 1054.52, explain: "This is a simple question asking what happens next.", zh: "下一步是什么？"}
+  - {text: "Oh, next steps, unfortunately, are waiting.", start: 1054.78, end: 1057.76, explain: "\"Unfortunately\" means sadly or with regret. The speaker says that the next steps are not ready yet, so they must wait.", zh: "噢，不幸的是，下一步还在等待中。"}
+  - {text: "Now we wait. I never think of anything as a done deal until we get the paperwork, which means that as enthusiastic as they are and as excited as they are,", start: 1058.24, end: 1069.28, explain: "A \"done deal\" is a thing that is finished and certain. \"Paperwork\" means the official documents. The speaker says they do not consider a deal finished until they have the papers, even if the other people are very happy.", zh: "现在就是等待。在拿到正式文件之前，我从不认为事情已经板上钉钉，所以尽管他们热情高涨、兴奋不已，（done deal 板上钉钉的事；paperwork 文书工作，正式文件）"}
+  - {text: "who knows, maybe the next meeting will present 20 gains and every single one of them is AAA and we just get knocked away.", start: 1069.48, end: 1076.46, explain: "\"Gains\" here likely refers to potential profits or benefits. \"AAA\" is a top quality rating. \"Knocked away\" means rejected or turned down. The speaker worries that the next meeting might offer many high-quality deals, but they might all be rejected.", zh: "谁知道呢，也许下次会议会提出二十个收益点，而每一个都是A级，结果我们还是被刷掉了。（gains 收益点；AAA 最高等级，A级；knocked away 被拒绝，被刷掉）"}
+  - {text: "So all of that's possible.", start: 1077.06, end: 1078.66, zh: "所以这一切都是有可能的。"}
+  - {text: "And now we wait.", start: 1078.84, end: 1080.52, zh: "现在我们就只能等着了。"}
+  - {text: "And that wait, it did give us some time to do some reporting because, you know, sure, we'd been inside the room with the buyers, but we wanted to know what was inside the mind of those buyers when Erika was pitching.", start: 1081.08, end: 1093.28, explain: "\"Reporting\" means gathering news and facts. \"Pitching\" means presenting an idea or product to try to sell it. The speaker says the wait gave them time to find out what the buyers were thinking while Erika was presenting.", zh: "这段等待时间让我们有机会做一些报道，因为，你知道，虽然我们曾和采购人员同处一室，但我们想知道当Erika进行推介时，这些采购人员心里在想什么。（reporting 新闻报道；buyers 采购人员；pitching 推介，提案）"}
+  - {text: "So we made some phone calls.", start: 1093.28, end: 1095.52, zh: "所以我们打了一些电话。"}
+  - {text: "Okay, so you essentially have sat on the other side of that table.", start: 1095.84, end: 1100.48, explain: "\"Essentially\" means basically or in the main way. \"Sat on the other side of that table\" means being in the position of the person being asked or sold to. The speaker says the listener was basically in the buyer's position.", zh: "好的，所以你基本上就是坐在桌子对面的人。（essentially 基本上；sit on the other side of the table 坐在桌子对面，指处于谈判或决策的另一方）"}
+  - {text: "Like, I come, I give a pitch, you're the one who sits on the other side.", start: 1100.88, end: 1105.12, zh: "对，我过来做提案，而你是坐在对面听的那个人。（pitch 提案，推销方案）"}
+  - {text: "Yes, correct. That was me.", start: 1105.36, end: 1107.18, explain: "The speaker confirms that a previous statement was true. \"That was me\" means the speaker is the person being talked about.", zh: "是的，没错，那就是我。"}
+  - {text: "Okay, it wasn't literally him.", start: 1107.56, end: 1109.12, explain: "\"Literally\" means exactly, not just in a general way. The speaker says it was not exactly that specific man.", zh: "好吧，坐在那里的并不是他本人。（literally 字面上，实际上）"}
+  - {text: "No, that is Matt Adelman, but his job was exactly like those people I sat across from.", start: 1109.34, end: 1114.50, explain: "\"Matt Adelman\" is a person's name. \"Across from\" means on the other side of a table or room. The speaker says Matt's job was the same as the people he met.", zh: "不，那是马特·阿德尔曼，但他的工作和我当时坐在对面的人完全一样。（Matt Adelman 马特·阿德尔曼，人名）"}
+  - {text: "Specifically, Matt was a big box buyer.", start: 1114.94, end: 1117.70, explain: "\"Specifically\" means to give exact details. A \"big box buyer\" is a person who decides what products a large store will sell.", zh: "具体来说，马特是一名大型零售商采购员。（big box buyer 大型零售商采购员，指大型连锁超市的买手）"}
+  - {text: "Yeah, Matt worked for Target and he sat through hundreds of these types of line review meetings.", start: 1118.12, end: 1122.46, explain: "\"Target\" is a famous American store chain. \"Line review\" is a meeting to check if products are good enough to sell. \"Nervous wreck\" is not in this sentence, but \"sat through\" means he stayed in the meetings for a long time.", zh: "是的，马特曾在塔吉特工作，他参加过成百上千次这类商品线审查会议。（Target 塔吉特，美国大型连锁零售商；line review meetings 商品线审查会议，指评估产品是否适合上架的会议）"}
+  - {text: "And you know, for Erika, she was a nervous wreck.", start: 1122.46, end: 1124.54, explain: "\"Nervous wreck\" means a person who is very worried and cannot relax. The speaker says Erika was very stressed.", zh: "你知道，对埃丽卡来说，她当时紧张得要命。（nervous wreck 紧张得崩溃，形容极度焦虑）"}
+  - {text: "We asked Matt, what is this moment like from your perspective, from a buyer's perspective?", start: 1124.90, end: 1129.06, explain: "\"Perspective\" means a point of view or how someone sees things. The speaker asks Matt how he feels as a buyer.", zh: "我们问马特，从你的角度，也就是采购员的角度看，这种时刻是什么样的？（perspective 视角，角度）"}
+  - {text: "What are you thinking?", start: 1129.36, end: 1130.18, zh: "你当时在想什么？"}
+  - {text: "I don't know. I'm like, here we go again.", start: 1131.04, end: 1132.36, zh: "我不知道。我心想，又来了。（here we go again 又来了，表示对重复发生之事的无奈）"}
+  - {text: "Where is this conversation going to go?", start: 1132.74, end: 1134.08, explain: "This sentence asks where the discussion will end up or what the final result will be.", zh: "这场对话最后会走向哪里？"}
+  - {text: "It's very routine. If there's 100 line review submissions, about 30 of them actually get a line review meeting.", start: 1134.58, end: 1140.30, explain: "\"Routine\" means normal and happening all the time. A \"line review\" is a meeting to check if a product is selling well. The speaker says that out of 100 products checked, only about 30 have a meeting.", zh: "这非常常规。如果有100份行审提交，大约只有30份能进入行审会议。（line review 行审，指对商品行的审核；submissions 提交物）"}
+  - {text: "Of the 30 that get a line review meeting, three to six of those brands ultimately get on the shelf.", start: 1140.68, end: 1146.58, zh: "在这30个进入行审会议的品牌中，最终只有3到6个能上架。（ultimately 最终；get on the shelf 上架）"}
+  - {text: "That's it. It's tough.", start: 1147.02, end: 1148.56, zh: "就这样。很难的。（tough 艰难的，困难的）"}
+  - {text: "Wow. Now, Matt was not a board game buyer specifically.", start: 1149.20, end: 1153.16, explain: "A \"board game buyer\" is a person who chooses which board games a store should sell. The speaker says Matt did not do this specific job.", zh: "哇。不过，Matt 并不是专门负责桌游的买手。（board game 桌游；buyer 买手，采购人员）"}
+  - {text: "When he worked at Target, he was in charge of deciding what to buy for the deli and prepared foods aisles.", start: 1153.42, end: 1158.78, explain: "\"Deli\" is short for delicatessen, a shop that sells ready-made food. \"Aisles\" are the long rows of shelves in a store. Matt decided what food to buy for these sections at Target.", zh: "他在 Target 工作时，负责决定熟食区和即食食品货架上买什么。（deli 熟食区；prepared foods 即食食品）"}
+  - {text: "Hummus, charcuterie, potato salad, regular salads.", start: 1159.02, end: 1161.80, zh: "鹰嘴豆泥、熟食拼盘、土豆沙拉、普通沙拉。（Hummus 鹰嘴豆泥；charcuterie 熟食拼盘）"}
+  - {text: "But he told us, honestly, when it comes to big box, hummus, board games, it's all the same.", start: 1162.20, end: 1168.60, explain: "\"Big box\" means a very large store that sells many different things. Matt says that buying hummus (a food) or board games is the same job.", zh: "但他诚实地告诉我们，对于大卖场来说，无论是鹰嘴豆泥还是桌游，其实都一样。（big box 大卖场，指大型连锁超市）"}
+  - {text: "It's the same process.", start: 1168.92, end: 1169.82, zh: "流程是一样的。"}
+  - {text: "Like it's putting a box on a shelf, whether that's food, whether that's beauty, whether that's a game, like the same thoughts go into it, the same analysis goes into it.", start: 1170.24, end: 1179.10, explain: "\"Beauty\" means products for skin and hair, like cream or lipstick. Matt says putting any box on a shelf requires the same thinking and checking of numbers.", zh: "就像往货架上摆个盒子一样，不管是食品、美妆还是游戏，背后的思考和分析逻辑都是一样的。（beauty 美妆；analysis 分析）"}
+  - {text: "The same, is this going to work or not?", start: 1179.70, end: 1181.46, explain: "This is a short question. It asks if the product will be successful or fail.", zh: "核心问题都一样：这东西到底行不行？"}
+  - {text: "The same financials on the back end, right?", start: 1181.62, end: 1184.10, explain: "\"Financials\" means the money numbers, like cost and profit. \"On the back end\" means after the sale, looking at the results. The speaker says the money check is the same for all products.", zh: "后端的财务数据也是一样的，对吧？（financials 财务状况；back end 后端，指销售后的环节）"}
+  - {text: "Like how many dollars did you generate?", start: 1184.26, end: 1185.80, zh: "比如你产生了多少美元的收入？"}
+  - {text: "How much margin did you return?", start: 1186.08, end: 1187.54, explain: "A \"margin\" is the money a store makes after it pays for the product. The speaker asks how much profit the other person got back.", zh: "你获得了多少利润？（margin 利润，利润率）"}
+  - {text: "Is it working or not working?", start: 1187.96, end: 1189.16, zh: "它到底卖得动还是卖不动？"}
+  - {text: "It's all the same.", start: 1189.40, end: 1190.18, zh: "这一切本质上都是一样的。"}
+  - {text: "So our question for Matt was, in a pitch meeting like Erica's pitching a brand new game, what would the buyers on the other side of the table be thinking?", start: 1190.64, end: 1200.02, explain: "A \"pitch\" is a short presentation to sell an idea. \"Buyers\" are the people who choose what to sell in a store. The sentence asks what the store staff were thinking while Erica showed her new game.", zh: "所以我们问马特的是，在像埃丽卡那样推介一款全新游戏的会议上，坐在桌子对面的采购方在想什么？（pitching 推介；buyers 采购方）"}
+  - {text: "At the end of the day, what am I really thinking?", start: 1200.32, end: 1202.28, explain: "\"At the end of the day\" means in the final analysis or basically. The speaker asks what his true thoughts are.", zh: "归根结底，我真正在想的是什么？"}
+  - {text: "Is this going to sell?", start: 1202.54, end: 1203.46, zh: "这东西能卖出去吗？"}
+  - {text: "If I bring this in, I have to replace something, right?", start: 1203.46, end: 1207.14, zh: "如果我引进这个产品，就得替换掉别的，对吧？"}
+  - {text: "You're going to take a spot on the shelf at the expense of somebody.", start: 1207.22, end: 1209.90, explain: "A \"spot on the shelf\" is a place for a product in a store. \"At the expense of\" means by hurting or replacing something else. The speaker says that if you put your product there, you must take the place of another product.", zh: "你占用了货架上的位置，这就意味着牺牲了别人的空间。（at the expense of 以……为代价）"}
+  - {text: "Are you going to do better than that thing that I take out and put you in for?", start: 1210.60, end: 1214.60, zh: "你能比那个被我撤下来、腾出位置给你的产品卖得更好吗？"}
+  - {text: "And there is a set amount of space in a store for this category.", start: 1214.98, end: 1219.10, explain: "A \"category\" is a group of similar products, like all board games. The speaker says there is a fixed amount of room for this group in the store.", zh: "而且店里这个品类的空间是固定的。（category 品类；set amount 固定数量）"}
+  - {text: "And I need to make that space as productive as I possibly can.", start: 1219.70, end: 1223.48, explain: "\"Productive\" means making a lot of money. The speaker wants to use the space to make as much profit as possible.", zh: "我需要尽可能提高这块空间的产出效率。（productive 高产出的，高效的）"}
+  - {text: "Big box retailers will use these like blueprints of store shelves called planograms.", start: 1223.84, end: 1229.86, explain: "A \"blueprint\" is a detailed plan or drawing. A \"planogram\" is a specific map that shows exactly where to put products on a shelf. Big stores use these maps to organize their shelves.", zh: "大型零售商会使用这种被称为“货架布局图”的商店货架蓝图。（Big box retailers 大型零售商；planograms 货架布局图）"}
+  - {text: "And Matt says that's one of the things in his mind during line review pitches.", start: 1229.86, end: 1234.00, zh: "马特说，这是他在参加新品评审推介会时脑海中会考虑的事情之一。（line review 新品评审；pitches 推介，提案）"}
+  - {text: "He's kind of mentally playing retail Tetris.", start: 1234.36, end: 1236.78, explain: "\"Mentally\" means in your head. \"Tetris\" is a famous video game where you fit blocks together. The speaker says he is imagining how to fit products onto the shelves, like playing the game in his head.", zh: "他其实是在脑海里玩零售版的俄罗斯方块。（retail Tetris 零售版俄罗斯方块，指在脑海中规划货架空间）"}
+  - {text: "And then when the meeting's over, yeah, we are waiting, but this is when the buyers like Matt have to really get to work.", start: 1237.16, end: 1243.62, explain: "\"Buyers\" are the people who choose and buy the products for the store. \"Get to work\" means to start doing the main job. The speaker says that after the meeting ends, the buyers, like Matt, must start their hard work.", zh: "会议结束后，是的，我们在等待，但这时像马特这样的采购员才真正开始忙碌。（buyers 采购员）"}
+  - {text: "If they like something, if they like our pitch, they still have to then make a pitch to their bosses.", start: 1243.72, end: 1249.26, zh: "如果他们喜欢某个产品，喜欢我们的推介，他们还得向自己的老板进行汇报。（make a pitch 进行推介，汇报）"}
+  - {text: "Remember the nerves you had, I'm sure, sitting in the line review pitch into the buyer?", start: 1249.64, end: 1253.24, explain: "The sentence is cut off and continues in the next one. \"Nerves\" means fear or worry. \"Line review\" is a meeting where a store checks which products to keep. \"Pitch\" means to try to sell an idea. \"Buyer\" is a person who decides what a store sells.", zh: "你肯定记得当时坐在会议室里向买家做提案时那种紧张感。（line review 行评会议，零售行业定期审查商品表现的会议；pitch 提案，推销）"}
+  - {text: "Oh, yeah. Well, now the buyers get to go to their VPs or their SVPs.", start: 1253.62, end: 1257.88, zh: "噢，是的。现在买家们得去跟他们的副总裁或高级副总裁汇报。（VPs 副总裁；SVPs 高级副总裁）"}
+  - {text: "I'm gonna say, here's my planogram.", start: 1257.88, end: 1260.04, zh: "我会说，这是我的货架陈列图。（planogram 货架陈列图，展示商品在货架上摆放位置的图表）"}
+  - {text: "Here's what I want to do.", start: 1260.26, end: 1261.02, zh: "这就是我想做的方案。"}
+  - {text: "And now the VPs and all the senior leaders get to go, what about this?", start: 1261.60, end: 1264.80, zh: "现在副总裁和所有高层领导都会问，那这个怎么样？"}
+  - {text: "And they challenge you like crazy.", start: 1264.86, end: 1266.18, zh: "他们会疯狂地挑战你的方案。（challenge 质疑，挑战）"}
+  - {text: "And so now I need to pitch my stuff to them just like you had to pitch to me.", start: 1266.80, end: 1271.06, zh: "所以现在我也得向他们推销我的东西，就像你当时得向我推销一样。（pitch 推销，提案）"}
+  - {text: "And there's tons of pushback and there's tons of, I don't know, I don't agree.", start: 1271.72, end: 1275.78, zh: "会有大量的反对意见，还有大量的……我不知道，我不赞同。（pushback 反对，抵制）"}
+  - {text: "What about this? What about that?", start: 1275.96, end: 1277.26, zh: "这个怎么样？那个怎么样？"}
+  - {text: "That you have to defend as a merchant.", start: 1277.86, end: 1279.98, explain: "A \"merchant\" is a person or company that sells goods. \"Defend\" here means to protect or keep safe. This sentence is a fragment. It says that you must protect something, but it does not say what that thing is.", zh: "作为商品经理，你必须为这些决定进行辩护。（merchant 商品经理，负责选品和定价的零售人员；defend 辩护，捍卫）"}
+  - {text: "And if you can't defend it, you better go fix it.", start: 1280.20, end: 1282.72, zh: "如果你无法为它辩护，最好赶紧去修复它。（defend it 为它辩护，这里指解释或维护产品的价值）"}
+  - {text: "So just to recap the path to a big box shelf.", start: 1283.78, end: 1286.56, explain: "\"Recap\" means to say the main points again. A \"big box\" is a very large store that sells many things, like a supermarket. The speaker wants to explain the steps a product takes to get onto a shelf in such a store.", zh: "所以，让我们回顾一下一款游戏登上大卖场货架的路径。（big box 大型连锁卖场；line review 品类审查，零售商评估商品线的过程）"}
+  - {text: "There are like 5 ,000 new board games every year.", start: 1286.56, end: 1289.04, zh: "每年大约有五千款新的桌游问世。（board games 桌游）"}
+  - {text: "A tiny, tiny fraction will actually get to be part of a line review pitch.", start: 1289.32, end: 1292.42, explain: "A \"fraction\" is a very small part of a whole. A \"line review pitch\" is a meeting where workers show their new ideas to the bosses to see if the store will sell them. The sentence says that only a very small number of people will get to go to this meeting.", zh: "其中只有极小极小的一部分能进入品类审查的提案环节。（fraction 比例，部分；line review pitch 品类审查提案）"}
+  - {text: "An even tinier fraction will get the buyer's attention.", start: 1292.62, end: 1295.12, explain: "\"Tiny\" means very small. \"Fraction\" means a small part of a whole. The sentence says that a very small part of the items will make the buyer look at them.", zh: "而能引起采购员注意的，比例更是微乎其微。（buyer 采购员；attention 注意）"}
+  - {text: "And those still have to go into planograms that get pitched to VPs and SVPs before games actually get ordered for the real shelves.", start: 1295.66, end: 1302.80, explain: "A \"planogram\" is a detailed map that shows exactly where products should be placed on a store shelf. \"VPs\" and \"SVPs\" are short for Vice Presidents and Senior Vice Presidents, which are very high-level managers in a company. \"Pitched\" means presented or proposed to someone for approval. The sentence says that these maps must be shown to top managers before the games are bought for the real store shelves.", zh: "这些游戏还得被纳入陈列图，并向副总裁和高级副总裁进行提案，之后才会真正被订购并摆上货架。（planograms 陈列图，展示商品在货架上摆放位置的图表；VPs 副总裁；SVPs 高级副总裁）"}
+  - {text: "But, but none of those games had Erica Barris in the room for their line review.", start: 1303.18, end: 1310.98, zh: "但是，这些游戏在进行品类审查时，房间里都没有埃丽卡·巴里斯。（Erica Barris 埃丽卡·巴里斯，人名；line review 品类审查）"}
+  - {text: "How often do you have like somebody who is not in the industry like say a podcast host pitching the retailers on an item?", start: 1311.52, end: 1319.98, explain: "\"Pitching\" means trying to sell an idea or a product to someone. \"Retailers\" are the shops or companies that sell things to people. The speaker asks how often a person who does not work in the business, like a podcast host, tries to sell a product to these shops.", zh: "像播客主持人这样非行业内人士向零售商推销商品的情况，有多常见？（pitching 推销，提案；retailers 零售商）"}
+  - {text: "Yeah. 10 years ago, not very often in today's world.", start: 1320.54, end: 1323.90, explain: "\"Not very often\" means this did not happen many times. The speaker says that ten years ago, this situation was rare in the modern world.", zh: "是的。十年前这种情况很少见，但在当今世界则不然。（in today's world 在当今世界）"}
+  - {text: "If you think about all of the creators and all of the influencers and all the people that have built a following, you know, it's a lot of them are spinning up products.", start: 1324.02, end: 1333.12, explain: "An \"influencer\" is a person with many followers on social media who can affect what people buy. \"Spinning up\" means starting or creating something new quickly. The sentence says many creators are making their own products.", zh: "如果你想想所有的创作者、网红以及那些积累了粉丝的人，你会发现其中很多人都在推出自己的产品。（influencers 网红，有影响力的人；spinning up 推出，创建）"}
+  - {text: "And they show up.", start: 1333.60, end: 1334.28, zh: "而且他们真的出现了。"}
+  - {text: "They show up. Okay.", start: 1334.30, end: 1335.34, zh: "他们出现了，好的。"}
+  - {text: "Okay. Maybe not as special as we were hoping.", start: 1335.86, end: 1338.90, zh: "好的，也许没我们期待的那么特别。"}
+  - {text: "Anyway, all of that, that is why getting into big box is a very serious business.", start: 1339.40, end: 1344.62, explain: "\"Big box\" refers to very large stores that sell many different things, like Walmart or Target. \"Serious business\" means it is a hard and important task. The speaker says it is difficult to get your products sold in these large stores.", zh: "总之，正因如此，进入大型连锁卖场是非常严肃的生意。（big box 大型连锁卖场）"}
+  - {text: "And apparently we have to wait so long to hear anything about how our pitch meeting went.", start: 1344.62, end: 1350.60, zh: "显然，我们要等很久才能听到关于我们提案会议的任何消息。（pitch meeting 提案会议）"}
+  - {text: "It was months and months and months of nothing.", start: 1350.90, end: 1354.24, explain: "\"Nothing\" here means no news or no progress. The speaker says there was a long time with no updates.", zh: "那是一段漫长的、毫无音讯的几个月。"}
+  - {text: "During that time, Exploding Kittens did do a similar line review pitch process with other big box retailers.", start: 1354.76, end: 1360.44, explain: "A \"pitch\" is a short presentation to sell an idea. \"Retailers\" are shops that sell goods to customers. \"Exploding Kittens\" is the name of the card game company. The sentence says they tried to sell their game to other big stores.", zh: "在此期间，Exploding Kittens 也与其他大型连锁零售商进行了类似的选品评审流程。（Exploding Kittens 爆炸小猫，桌游品牌；line review 选品评审）"}
+  - {text: "You know, more pitches, better chance someone picks us up and tells us, you know, go forth, make a bunch of games for us.", start: 1360.82, end: 1366.22, explain: "\"Picks us up\" means chooses us or agrees to work with us. \"Go forth\" means go ahead or continue. The speaker hopes that more pitches will lead to a store agreeing to make games with them.", zh: "你知道，多投几次，就更有机会被某家选中，然后让我们去为他们开发一堆游戏。（pitches 提案；picks us up 选中我们）"}
+  - {text: "And then nearly five months after I'd been in LA, pitching the buyers along from Exploding Kittens got in touch and said, we have to meet.", start: 1366.64, end: 1376.10, explain: "\"Buyers\" are the people in a store who decide what products to sell. \"Got in touch\" means contacted or called. The speaker says that five months after moving to Los Angeles, the people from the store called to meet.", zh: "然后在我到洛杉矶近五个月后，Exploding Kittens 的采购方联系了我，说我们必须见一面。（LA 洛杉矶；buyers 采购方）"}
+  - {text: "We have so much stuff to talk about.", start: 1376.76, end: 1378.32, zh: "我们有很多事情要谈。"}
+  - {text: "We have some updates maybe from retailers if you want to start there.", start: 1378.52, end: 1383.76, explain: "\"Retailers\" are shops that sell products. The speaker suggests starting the conversation with news from the shops.", zh: "如果你愿意，我们可以先从零售商那边的一些最新进展说起。（retailers 零售商）"}
+  - {text: "Okay. That is Stephanie Pesta, Senior Creative Operations Manager at Exploding Kittens.", start: 1384.10, end: 1388.76, explain: "A \"Senior Creative Operations Manager\" is a high-level job title for someone who plans and runs the creative work in a company. \"Exploding Kittens\" is the name of a popular card game company. This sentence introduces a woman named Stephanie Pesta and her job.", zh: "好的，这位是斯蒂芬妮·佩斯塔，她是《爆炸小猫》的高级创意运营经理。（Senior Creative Operations Manager 高级创意运营经理；Exploding Kittens 爆炸小猫，一款流行桌游）"}
+  - {text: "Erica and I and our boss, Alex Goldmark also on the call.", start: 1389.04, end: 1391.74, zh: "我和埃里卡，还有我们的老板亚历克斯·戈德马克，也都在通话中。（on the call 在通话中）"}
+  - {text: "We all start to lean into our Zoom screens and Exploding Kittens cuts straight to the chase.", start: 1392.00, end: 1397.42, zh: "我们全都凑近 Zoom 屏幕，而《爆炸小猫》那边直接切入正题。（Zoom 视频会议软件；cuts straight to the chase 直奔主题，不绕弯子）"}
+  - {text: "The exciting retailer news is that for the two big retailers in the U .S., the Planet Money Game, sell me a Sasquatch, has been accepted full chain throughout North America.", start: 1397.42, end: 1412.20, explain: "A \"retailer\" is a shop or company that sells goods to people. \"Full chain\" means in every single store of that company. \"Sasquatch\" is a big, hairy monster from stories. This sentence says two big US shops have agreed to sell the game in all their stores across North America.", zh: "令人兴奋的零售商消息是，对于美国两大大型零售商来说，《金钱星球游戏：卖给我一只大脚怪》已被全链条接受，将在整个北美地区销售。（full chain 全链条，指所有门店；Sasquatch 大脚怪，北美传说中的巨型猿类）"}
+  - {text: "Holy moly. That sounds big.", start: 1412.68, end: 1415.66, zh: "天哪，这听起来规模很大啊。（Holy moly 天哪，表示惊讶）"}
+  - {text: "What? Is that big?", start: 1415.72, end: 1416.70, zh: "什么？这算大吗？"}
+  - {text: "It's literally as big as a thing could be, yes.", start: 1416.88, end: 1420.36, explain: "\"Literally\" is used to say something is true in the strongest way. This sentence means the deal is as big as it can possibly be.", zh: "是的，这已经是事情能达到的最大规模了。（literally 字面上，实际上；as big as a thing could be 最大规模）"}
+  - {text: "Both retailers. Both, yes.", start: 1420.82, end: 1423.14, explain: "This short sentence confirms that both of the two big shops mentioned before have agreed to the deal.", zh: "两家零售商都……是的，两家都……"}
+  - {text: "Two of the biggest big box retailers in the country, both placed orders to buy and carry sell me a Sasquatch on their shelves.", start: 1423.14, end: 1432.88, explain: "\"Big box retailers\" are very large stores that sell many different types of products. \"Carry\" here means to have the product in the shop for sale. This sentence says two of the largest stores in the country have ordered the game to put on their shelves.", zh: "全国最大的两家大型连锁零售商，都下了订单，要在货架上销售《卖给我一只大脚怪》。（big box retailers 大型连锁零售商；carry 经营，销售）"}
+  - {text: "Did they say how important it was that Erica did the greatest presentation of all time?", start: 1433.24, end: 1438.66, explain: "\"Presentation\" is a talk or show given to people, often with slides or props. This sentence asks if the shops said that Erica's talk was the best one they have ever seen.", zh: "他们有没有提到，埃里卡做出史上最强演示这一点有多重要？（presentation 演示，展示）"}
+  - {text: "I don't think they're used to that.", start: 1439.58, end: 1443.48, zh: "我觉得他们不习惯那样。（used to 习惯于，适应）"}
+  - {text: "I think that was brand new for them.", start: 1443.66, end: 1445.34, explain: "\"Brand new\" means completely new, never seen before. This sentence says that this experience was new for the people at the shops.", zh: "我觉得这对他们来说完全是新鲜事。（brand new 全新的，崭新的）"}
+  - {text: "I think those meetings are normally so dry and so boring.", start: 1445.92, end: 1450.56, zh: "我觉得那些会议通常都很枯燥乏味。（dry 枯燥的，乏味的）"}
+  - {text: "It's the same people having the same discussions over and over.", start: 1450.56, end: 1454.34, explain: "\"Discussions\" are talks where people talk about a problem or idea. This sentence says the same group of people keep talking about the same things again and again.", zh: "总是同一群人在反复讨论同样的话题。（over and over 反复地，一遍又一遍）"}
+  - {text: "We had a celebrity in the room.", start: 1454.48, end: 1456.92, zh: "当时房间里有一位名人。（celebrity 名人，名流）"}
+  - {text: "All right. Who? It was you, Erica.", start: 1457.08, end: 1459.52, explain: "This is a short, casual reply. The speaker confirms that the person named Erica is the one they are talking about.", zh: "好的。是谁？是你啊，埃里卡。（All right 好的，行）"}
+  - {text: "When we talked to the former buyer, Matt, he had told us that having a special person with a special product was getting more and more common.", start: 1460.06, end: 1468.78, explain: "A \"buyer\" is a person who buys products for a store. \"Former\" means they do not have that job anymore. The sentence says Matt told them that famous people selling their own products is becoming more common.", zh: "当我们采访前采购经理马特时，他告诉我们，拥有特殊人物和特殊产品正变得越来越普遍。（buyer 采购员，买手）"}
+  - {text: "It turns out that that's way more true in the food and cosmetic space.", start: 1469.34, end: 1473.48, explain: "\"Cosmetic\" means products for beauty, like cream or lipstick. \"Space\" here means the industry or market. The sentence says this trend is much more true for food and beauty products.", zh: "事实证明，这在食品和化妆品领域更是如此。（cosmetic 化妆品，美容品）"}
+  - {text: "Think Rihanna's makeup line or Mr.", start: 1473.66, end: 1476.22, explain: "This is a fragment. It cuts off at \"Mr.\" and continues in the next sentence. \"Makeup line\" means a set of beauty products. \"Rihanna\" is a famous singer.", zh: "想想蕾哈娜的彩妆线，或者……（makeup line 彩妆系列，化妆品线）"}
+  - {text: "Beast's chocolate bars. Apparently, for board games, though, it was still genuinely novel and exciting to have the one and only Erica Barris from Planet Money in the room.", start: 1476.54, end: 1488.46, explain: "\"Mr. Beast\" is a famous internet star. \"Novel\" means new and different. The sentence says it was very new and exciting for board games to have Erica from Planet Money in the room.", zh: "还有野兽牌巧克力棒。不过对于桌游来说，让 Planet Money 唯一的 Erica Barris 出现在会议室里，确实还是件新鲜又令人兴奋的事。（Beast 野兽牌，零食品牌；novel 新颖的，新鲜的）"}
+  - {text: "Erica pitched her little heart out.", start: 1490.20, end: 1492.40, explain: "To \"pitch\" means to try to sell an idea. \"Her little heart out\" means she tried very hard and used all her energy. The sentence says Erica tried very hard to sell her idea.", zh: "Erica 拼尽全力去推销。（pitched her little heart out 竭尽全力，拼命争取）"}
+  - {text: "They were amazed. I think they walked away from that just thinking, wow, this is new.", start: 1492.82, end: 1499.48, explain: "\"Amazed\" means very surprised. \"Walked away\" means they left the meeting. The sentence says the people were very surprised and thought the idea was new.", zh: "他们惊呆了。我觉得他们离开时心里都在想，哇，这真是新东西。（amazed 惊讶的，惊叹的）"}
+  - {text: "Nobody's doing this. This isn't the same meeting we've had 20 times before.", start: 1499.66, end: 1503.14, explain: "This sentence is a quote from Erica. She says no one else is doing this. It is not a normal meeting they have done many times before.", zh: "没人这么做过。这不像我们之前开过二十次的那种老套会议。（nobody 没有人）"}
+  - {text: "I have no memory of anything that happened in that room.", start: 1503.48, end: 1506.36, zh: "我对那个房间里发生的事毫无印象。（memory 记忆，印象）"}
+  - {text: "So, okay. All told, Exploding Kittens got a first round of orders for about 100 ,000 units of our game.", start: 1506.36, end: 1516.80, explain: "\"All told\" means in total, when you add everything up. \"Units\" means individual copies of the game. The speaker says that in total, they received orders for about 100,000 copies of their game in the first batch.", zh: "好吧，总之，Exploding Kittens 获得了第一轮订单，大约是我们游戏的 10 万套。（Exploding Kittens 爆炸小猫，桌游名称；units 单位，套）"}
+  - {text: "Anyway, it is now official, like absolutely official done deal.", start: 1517.08, end: 1522.00, explain: "\"Official\" means it is real and confirmed, not just a rumor. \"Done deal\" means the agreement is finished and cannot be changed. The speaker says the deal is now completely finished and confirmed.", zh: "无论如何，现在这是正式的了，绝对是板上钉钉的成交。（official 正式的；done deal 成交，定局）"}
+  - {text: "The orders have been placed.", start: 1522.76, end: 1523.90, zh: "订单已经下达了。（orders 订单）"}
+  - {text: "I had confetti. I'm going to blow this mic out if I'm not careful.", start: 1524.58, end: 1527.58, explain: "\"Confetti\" is small pieces of paper used for celebrations. \"Blow this mic out\" is a funny way of saying the confetti might get stuck in the microphone and make it stop working. The speaker is holding confetti and worries it might fall into the microphone.", zh: "我准备了彩带。如果不小心，我可能会把麦克风吹爆。（confetti 彩带，碎纸屑；blow out 吹坏，弄坏）"}
+  - {text: "This is so exciting.", start: 1527.78, end: 1528.74, explain: "This is a short sentence. The speaker says they are very happy and excited about the news.", zh: "这太令人兴奋了。（exciting 令人兴奋的）"}
+  - {text: "Yeah, there's all kinds of things that come next.", start: 1529.38, end: 1533.64, zh: "是的，接下来还有各种各样的事情要做。"}
+  - {text: "But none of those happen until those boats get on the water.", start: 1533.64, end: 1538.82, zh: "但在这些船下水之前，那些事一件都不会发生。（get on the water 下水，指船只开始航行）"}
+  - {text: "Oh, we still have to actually make and get the games to and.", start: 1539.54, end: 1546.30, zh: "噢，我们还得真正制造游戏并把它们运到……（get the games to 把游戏运到某地）"}
+  - {text: "After the break, a whole new clock starts ticking.", start: 1547.46, end: 1551.44, explain: "\"After the break\" means after the short pause for ads. \"Clock starts ticking\" is a phrase that means time begins to pass, often with a sense of urgency. The speaker says that after the ad break, a new period of time begins.", zh: "广告结束后，一个全新的倒计时开始了。（After the break 广告之后；clock starts ticking 开始计时，比喻时间紧迫）"}
+  - {text: "Plus where you can buy the game, how much it costs and why we really, really hope that you appreciate our purple box.", start: 1551.82, end: 1560.64, zh: "还有你在哪里能买到这款游戏，价格是多少，以及为什么我们真心希望你能喜欢我们的紫色包装盒。（appreciate 欣赏，喜欢；purple box 紫色包装盒）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1560.64, end: 1571.59, explain: "\"Stay tuned\" means keep listening to the radio or podcast. \"Sponsors\" are companies that pay money to have their ads played on the show. The speaker asks you to keep listening for the ads from the companies that support the show.", zh: "请留意接下来来自我们赞助商的公告和信息。（sponsors 赞助商）"}
+  - {text: "This message comes from Schwab.", start: 1572.83, end: 1574.31, explain: "\"Schwab\" is the name of a company. This is an ad break. The speaker says the next message is from the company called Schwab.", zh: "这条信息来自嘉信理财。（Schwab 嘉信理财，美国投资公司）"}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place.", start: 1574.73, end: 1580.97, explain: "\"Self-directed\" means you make all the choices yourself. \"Wealth management\" is a service where a company helps you manage your money. This is an ad for a company called Schwab that offers many money services in one place.", zh: "在嘉信理财，你可以一站式获得从自主投资到全方位财富管理的所有服务。（self-directed investing 自主投资；full service wealth management 全方位财富管理）"}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 1581.43, end: 1588.45, explain: "\"Life stage\" means the part of your life you are in, like being young or old. \"Know how\" means the skills or knowledge you have. This ad says you can invest money with Schwab no matter what your situation is.", zh: "无论你的投资目标、人生阶段、投资金额或专业知识如何，你都可以按自己的方式在嘉信理财进行投资。（life stage 人生阶段；know how 专业知识，技能）"}
+  - {text: "This message comes from Northwestern Mutual.", start: 1588.83, end: 1591.47, explain: "\"Northwestern Mutual\" is the name of a company. This sentence tells you that the next part of the show is an ad for this company.", zh: "这条信息来自西北互助保险。（Northwestern Mutual 西北互助保险，美国保险公司）"}
+  - {text: "Life's a lot lately.", start: 1591.87, end: 1593.23, explain: "This is a short, informal sentence. It means that life is very busy or difficult right now.", zh: "最近生活压力挺大的。"}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1593.65, end: 1597.79, zh: "有些事你控制不了，但你可以用计划来掌控自己的财务。（plan 计划）"}
+  - {text: "It all starts with Northwestern Mutual.", start: 1598.21, end: 1600.05, zh: "这一切都始于西北相互人寿保险。（Northwestern Mutual 西北相互人寿保险）"}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1600.43, end: 1608.31, explain: "\"Clients\" are the people who pay for a service. \"Uncertainty\" means a time when you do not know what will happen. This sentence says the company has helped people for a long time, even when the economy was bad.", zh: "近170年来，他们帮助客户在各种经济环境中取得成功，在不确定时期提供稳定。（uncertainty 不确定性）"}
+  - {text: "Get started at nm .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1608.81, end: 1613.91, explain: "\"Get started\" means to begin. This sentence tells you to visit their website to begin using their services.", zh: "请访问 nm.com，即位于威斯康星州密尔沃基的西北相互人寿保险公司。（Milwaukee 密尔沃基）"}
+  - {text: "This message comes from LinkedIn.", start: 1614.85, end: 1616.33, explain: "\"LinkedIn\" is the name of a website for work. This sentence tells you that the next part of the show is an ad for LinkedIn.", zh: "这条信息来自 LinkedIn。"}
+  - {text: "As a small business owner, you wear many hats.", start: 1616.79, end: 1619.07, zh: "作为小企业主，你身兼数职。（wear many hats 身兼数职，承担多种角色）"}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1619.39, end: 1622.29, explain: "\"Hirer\" is the person who gives jobs to others. This sentence lists the many jobs you do if you run your own small business.", zh: "你是老板，是营销人员，是销售员，也是招聘者。（hirer 招聘者）"}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 1622.29, end: 1631.77, explain: "\"Visibility\" means how easy it is for people to see you. \"Prospective\" means possible or future. This is an ad saying LinkedIn helps small business owners be seen and find new customers and staff.", zh: "有了 LinkedIn，你可以在一个平台上使用工具来提升知名度、寻找潜在客户，并为你的小企业组建最佳团队。（visibility 知名度；prospective 潜在的）"}
+  - {text: "So, while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1632.19, end: 1637.13, explain: "\"Hang up your hat\" is an idiom that means to stop doing a job or role. \"Wear your hat\" means to do a job or role. The speaker says LinkedIn cannot do everything for you, but it helps you manage many different jobs at the same time.", zh: "所以，虽然 LinkedIn 不能替你摘下所有帽子，但它让你更容易同时扮演好这些角色。（hang up 摘下，此处指卸下职责）"}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1637.51, end: 1640.93, explain: "\"Slash\" means the symbol / used in web addresses. This is a short instruction to visit a specific website page.", zh: "请在 LinkedIn.com/slash Planet Money Show 了解更多。"}
+  - {text: "One month after learning the great big box news, Kenny and I were both summoned to exploding kittens' headquarters.", start: 1641.66, end: 1649.30, explain: "\"Summoned\" means called to come to a place, often in a formal or urgent way. \"Headquarters\" is the main office of a company. One month after the news, the speakers were called to the main office of the game company.", zh: "得知那个关于大型盒装游戏的重磅消息一个月后，肯尼和我都被叫到了《爆炸小猫》的总部。（summoned 被召集；headquarters 总部）"}
+  - {text: "All right, Elan, where are we going?", start: 1649.90, end: 1650.76, zh: "好了，伊兰，我们要去哪儿？"}
+  - {text: "Let's go in here.", start: 1650.76, end: 1652.51, zh: "我们进去这里吧。"}
+  - {text: "Welcome to the Planet Money Conference Room.", start: 1652.75, end: 1656.47, zh: "欢迎来到《星球金钱》会议室。"}
+  - {text: "Wait, the Planet Money Conference Room?", start: 1657.11, end: 1659.21, zh: "等等，是《星球金钱》会议室吗？"}
+  - {text: "The whole room is devoted to the Planet Money game.", start: 1659.27, end: 1663.29, explain: "\"Devoted\" means used only for one specific purpose. The entire room is used only for the Planet Money game.", zh: "整个房间都是专门为了《星球金钱》这款游戏布置的。（devoted to 专门用于，奉献给）"}
+  - {text: "Covering the biggest conference table you've ever seen, cards showing all kinds of mythical monsters and boxes with our Sasquatch and our game logo, and, oh my goodness, so many versions of instruction booklets.", start: 1663.41, end: 1676.85, explain: "\"Mythical\" means from stories or legends, not real. \"Sasquatch\" is a big, hairy monster from North American legends. The table is covered with game cards showing monsters and boxes with the game's logo and rule books.", zh: "那张你见过的最大的会议桌上铺满了卡片，上面画着各种神话怪物，还有印着我们的大脚怪和游戏标志的盒子，天哪，还有好多版本的说明书。（mythical monsters 神话怪物；Sasquatch 大脚怪，北美传说中的巨型猿类）"}
+  - {text: "These are very nearly the final prototypes, but, apparently, we still have a gazillion small decisions to make.", start: 1676.85, end: 1685.53, explain: "\"Prototypes\" are early models of a product made to test it. \"Gazillion\" is a funny word for a very large number. The game is almost finished, but there are still many small choices to make.", zh: "这些几乎就是最终的原型了，但显然，我们还得做无数个小决定。（prototypes 原型；gazillion 无数，极多）"}
+  - {text: "And, like, at the end of today, that's it?", start: 1685.71, end: 1687.87, zh: "然后，就像……今天结束后，这就全搞定了？"}
+  - {text: "That's it. We're locked.", start: 1688.01, end: 1688.81, explain: "\"Locked\" means the design is final and cannot be changed anymore. The speaker says the game design is now fixed.", zh: "就这样，我们定稿了。（locked 定稿，锁定）"}
+  - {text: "We're locked. We have to be locked, actually.", start: 1688.97, end: 1690.75, explain: "\"Locked\" means the design is finished and cannot be changed. The speaker says they must finish the game design now to meet the deadline.", zh: "我们定稿了，实际上必须得定稿。（locked 定稿，锁定）"}
+  - {text: "We need to send files to the factory tomorrow.", start: 1691.19, end: 1693.75, zh: "我们需要明天把文件发给工厂。（files 文件；factory 工厂）"}
+  - {text: "Oh! So, this is a Speak Now or Forever Hold Your Peace moment.", start: 1694.19, end: 1697.51, explain: "\"Speak Now or Forever Hold Your Peace\" is a phrase from the game 'Clue' (or 'Cluedo'). It means you must speak now or stay silent forever. The speaker uses it to show the moment is very serious and urgent.", zh: "哦！所以，这是一个“要么现在说，要么永远闭嘴”的时刻。（Speak Now or Forever Hold Your Peace 要么现在说，要么永远闭嘴，源自莎士比亚戏剧）"}
+  - {text: "Oh, okay, tomorrow. Why the rush?", start: 1697.87, end: 1699.79, zh: "哦，好的，明天。这么急是为什么？（rush 急迫，匆忙）"}
+  - {text: "Well, Chinese New Year is a big reason, apparently.", start: 1700.21, end: 1703.57, explain: "\"Apparently\" means it seems true, based on what people say. The speaker says Chinese New Year is a major reason for the timing.", zh: "嗯，显然，中国新年是个大原因。（Chinese New Year 中国新年）"}
+  - {text: "Right. So, the day we got the news that the two big box retailers wanted our game was Monday, January 12th.", start: 1703.95, end: 1711.29, explain: "\"Retailers\" are shops that sell goods to people. \"Big box\" refers to large stores like Walmart or Target. The speaker says they got the news on Monday, January 12th.", zh: "没错。我们得知两家大型零售商想要我们的游戏，那天是1月12日，星期一。（big box retailers 大型零售商；game 游戏）"}
+  - {text: "Exactly 36 days before the start of the Chinese Lunar New Year.", start: 1712.17, end: 1717.37, zh: "正好是农历新年开始前的36天。（Lunar New Year 农历新年）"}
+  - {text: "Lunar New Year is a massive event for the global economy.", start: 1717.61, end: 1721.55, explain: "\"Lunar New Year\" is the Chinese New Year, based on the moon's cycle. \"Massive\" means very big or important. It is a huge event for the world's economy.", zh: "农历新年对全球经济来说是个大事件。（Lunar New Year 农历新年；global economy 全球经济）"}
+  - {text: "Chinese factories often shut down for two or three weeks, and leading up to the shutdown, factories start to slow production for even more weeks.", start: 1721.73, end: 1730.05, explain: "\"Shut down\" means to stop working for a period. \"Production\" means making goods. Factories stop for weeks before and during the holiday.", zh: "中国工厂通常会停工两到三周，而在停工前，工厂还会提前几周放缓生产。（shut down 停工；production 生产）"}
+  - {text: "And then following the shutdown, it's even more weeks until all workers are back and factories are running full force.", start: 1730.33, end: 1737.51, explain: "\"Following\" means after. \"Full force\" means working as fast and hard as possible. It takes weeks after the holiday for factories to work at full speed again.", zh: "而在停工之后，还要再等好几个星期，所有工人才能返岗，工厂才能全速运转。（shutdown 停工；full force 全速，全力）"}
+  - {text: "Exploding Kittens told us if we wanted our game to be done and in stores in time for the holidays, we needed to be ready to go for that post -lunar New Year factory restart.", start: 1737.69, end: 1748.97, explain: "\"In time for\" means before the deadline. \"Post-lunar New Year\" means after the holiday. The game company said they had to be ready for the factory restart after the holiday to sell the game during the holidays.", zh: "Exploding Kittens 告诉我们，如果想让游戏在假日季前完成并上架，就必须准备好迎接农历新年后工厂的复工。（Exploding Kittens 《爆炸小猫》，一款桌游；post-lunar New Year 农历新年后）"}
+  - {text: "And Exploding Kittens had a spot in the factory queue, and we needed to make sure we did not miss it.", start: 1749.43, end: 1754.53, explain: "\"Exploding Kittens\" is the name of a popular card game. A \"queue\" is a line of people or things waiting for their turn. The sentence says the game was waiting in the line at the factory, and the team had to be careful not to miss their turn.", zh: "Exploding Kittens 在工厂的生产队列里排了号，我们必须确保不弄丢这个位置。（queue 队列，排队；miss 错过，弄丢）"}
+  - {text: "We had the narrowest window.", start: 1754.81, end: 1757.19, zh: "我们的时间窗口最窄。（narrowest window 最窄的时间窗口）"}
+  - {text: "And so, began. One of the most frantic home stretches of a project I can remember, 24 hours to get the game files to China and", start: 1757.69, end: 1767.33, explain: "A \"home stretch\" is the final part of a race or a project. \"Frantic\" means very busy and stressed. This sentence is cut off at the end and continues in the next one. It says the team started the last, very busy part of the project, with only 24 hours to send the game files to China.", zh: "于是开始了，这是我记忆中项目冲刺阶段最疯狂的一次，要在24小时内把游戏文件传到中国，并且……（home stretches 冲刺阶段，最后阶段；frantic 疯狂的，极度忙碌的）"}
+  - {text: "a mad dash to handle a bunch of other tasks.", start: 1767.33, end: 1770.73, explain: "A \"dash\" is a fast run. This sentence continues from the previous one. It says the team also had to run fast to finish many other jobs.", zh: "还要拼命赶着处理一堆其他任务。（mad dash 拼命赶，狂奔；handle 处理）"}
+  - {text: "Which is why we have brought into the studio here, this here, egg timer, just to give you all listening at home a sense of stress and the chaos and also the learning about taking a product to market that we experienced", start: 1771.09, end: 1786.03, explain: "A \"studio\" is the room where the podcast is recorded. \"To market\" means to sell a product to customers. The speaker brings an egg timer to the studio to show listeners how stressful and chaotic it was to sell the game.", zh: "这就是为什么我们把这个蛋形计时器带到了录音室，想让在家收听的所有人感受一下那种压力、混乱，以及我们在将产品推向市场过程中学到的东西。（egg timer 蛋形计时器；bringing into 带入，带到）"}
+  - {text: "as a clock, a time bomb really, tick, tick, ticking towards our due date.", start: 1786.65, end: 1791.93, explain: "A \"time bomb\" is a bomb that explodes after a set time. Here, it means a very urgent deadline. The speaker says the deadline felt like a bomb ticking down to the day they had to finish.", zh: "它就像一颗定时炸弹，滴答滴答地指向我们的截止日期。（time bomb 定时炸弹；due date 截止日期）"}
+  - {text: "So many tasks. We still have to get done.", start: 1792.27, end: 1794.83, explain: "This sentence is a fragment. It says there are many jobs that are still not finished.", zh: "还有好多任务没做完。（tasks 任务；get done 完成）"}
+  - {text: "Here we go. Task one.", start: 1795.15, end: 1797.15, zh: "开始了。任务一。（Here we go 开始了，来吧）"}
+  - {text: "Shall we look at a spreadsheet?", start: 1797.63, end: 1799.29, explain: "A \"spreadsheet\" is a computer program with rows and columns for numbers and lists. The speaker asks if they should look at their list of tasks.", zh: "我们要不要看看电子表格？"}
+  - {text: "The answer is always yes, we want to look at a spreadsheet.", start: 1799.85, end: 1802.25, explain: "This sentence answers the question. The speaker says the answer is always yes, and they want to look at the list of tasks.", zh: "答案当然是要，我们总想看看电子表格。（spreadsheet 电子表格）"}
+  - {text: "Contracts. Like, how much money will MPR slash Planet Money make off this thing?", start: 1802.37, end: 1806.03, explain: "\"Contracts\" are written agreements between people or companies. \"MPR\" is the name of the radio station. \"Slash\" is used here to mean \"and\". \"Make off\" means to earn money from. The speaker asks how much money the radio station and the show will earn from the game.", zh: "合同，比如，MPR 或 Planet Money 能从这件事里赚多少钱？（MPR 明尼苏达公共电台；Planet Money 行星金钱，BBC 经济节目）"}
+  - {text: "The thing that we will eventually negotiate is this number here that you're looking at, royalty, but before...", start: 1806.31, end: 1811.77, explain: "\"Negotiate\" means to talk with someone to agree on terms. \"Royalty\" is a payment made to a creator based on how many copies of their work are sold. The sentence is cut off and continues in the next one.", zh: "我们最终要谈判的是你正在看的这个数字，即版税，但在……（royalty 版税）"}
+  - {text: "Royalty deals. Licensing deals.", start: 1811.77, end: 1813.55, zh: "版税协议。授权协议。（Licensing deals 授权协议）"}
+  - {text: "For board games, that tends to be like three to seven percent of something called net revenue.", start: 1813.87, end: 1817.93, explain: "\"Tends to be\" means usually is. \"Net revenue\" is the money a company keeps after paying for costs like making and shipping the product. For board games, the payment is usually three to seven percent of this amount.", zh: "对于桌游来说，这通常是被称为净收入的东西的百分之三到七。（net revenue 净收入）"}
+  - {text: "After months and months of negotiating, we landed right square in that industry standard.", start: 1817.93, end: 1823.95, explain: "\"Landed right square in\" means ended up exactly in the middle of. \"Industry standard\" is the usual rule or number used by companies in that field. After a long time of talking, they agreed on the normal rate for the industry.", zh: "经过几个月的谈判，我们正好落在了行业标准范围内。（landed right square in 正好落在）"}
+  - {text: "With though a couple of sweeteners, I will say.", start: 1824.07, end: 1826.13, explain: "\"Sweeteners\" are extra benefits or bonuses added to a deal to make it better. The speaker says there were a few extra good things in the agreement.", zh: "不过，我得说，有一些额外的甜头。（sweeteners 额外的优惠或好处）"}
+  - {text: "Yeah, yeah. For one, we get a small guaranteed upfront fee.", start: 1826.41, end: 1829.51, explain: "\"Guaranteed\" means certain to happen. \"Upfront fee\" is money paid at the very beginning, before any sales happen. One good thing is that they get a small amount of money paid to them first.", zh: "是的，是的。首先，我们有一笔小额的保底预付金。（upfront fee 预付金）"}
+  - {text: "But more importantly, our royalty percentage goes way up if our game is a runaway hit.", start: 1829.99, end: 1835.27, explain: "\"Royalty percentage\" is the share of money the creators get. \"Runaway hit\" means a product that sells very, very well. If the game sells a lot, the creators get a much bigger share of the money.", zh: "但更重要的是，如果我们的游戏大获成功，我们的版税比例会大幅上升。（runaway hit 大获成功，非常畅销）"}
+  - {text: "If when we hit 200 ,000 units sold with your help, of course, our royalty nearly doubles.", start: 1835.63, end: 1841.77, explain: "\"Units\" means individual copies of the game. \"Doubles\" means becomes twice as big. If they sell 200,000 copies, the money they get per copy almost becomes two times more.", zh: "当然，多亏了你们的帮助，如果销量达到20万套，我们的版税几乎会翻倍。（royalty 版税；units 单位，此处指套数）"}
+  - {text: "Yeah, we built in that incentive so that the more we sell the bigger cut to Exploding Kittens gives to MPR.", start: 1842.19, end: 1847.83, explain: "An \"incentive\" is a reason or reward that makes people want to do something. A \"cut\" is a share of the money. The speaker says they made a deal so that if they sell more games, Exploding Kittens gives MPR a bigger share of the profit.", zh: "是的，我们特意设置了这种激励机制，这样卖得越多，Exploding Kittens 分给 MPR 的份额就越大。（incentive 激励；cut 分成，份额）"}
+  - {text: "Now, if three, five, seven percent sound like small percentages, it's because Exploding Kittens takes virtually all the risk in this deal.", start: 1848.37, end: 1855.27, explain: "\"Virtually\" means almost completely. \"Risk\" here means the chance of losing money. The speaker says the percentages are small because Exploding Kittens takes almost all the chance of losing money in this deal.", zh: "现在，如果百分之三、五、七听起来像是很小的比例，那是因为 Exploding Kittens 在这笔交易中承担了几乎所有的风险。（virtually 几乎；risk 风险）"}
+  - {text: "They are eating the cost of development and prototyping and manufacturing of this game.", start: 1855.65, end: 1860.23, explain: "\"Prototyping\" means making a test version of a product. \"Manufacturing\" means making many copies in a factory. The sentence means Exploding Kittens pays for making the test version and the final games.", zh: "他们承担了这款游戏的开发、原型制作和制造成本。（prototyping 原型制作；manufacturing 制造）"}
+  - {text: "They're starting in the hole for all that money.", start: 1860.57, end: 1862.89, explain: "\"In the hole\" is an idiom that means owing money or having lost money. The speaker says Exploding Kittens starts with a loss because they spent a lot of money first.", zh: "为了这些钱，他们一开始就是亏本的。（in the hole 负债，亏损）"}
+  - {text: "Yeah, when the big boxes and other companies actually start paying Exploding Kittens for games, then we get to scoop our cup into that sweet, sweet stream of money", start: 1863.23, end: 1873.05, explain: "\"Scoop\" means to take or grab. A \"stream\" of money means a continuous flow of cash. The speaker says that when big stores pay Exploding Kittens, MPR can take their share of that money.", zh: "是的，当大型零售商和其他公司开始向 Exploding Kittens 支付游戏款项时，我们就能从那股甜美、甜美的资金流中舀走我们的份额了。（scoop 舀取；stream 流）"}
+  - {text: "and take our percentage minus a relatively narrow set of expenses that have to do with the selling of our specific game, basically.", start: 1873.05, end: 1880.07, explain: "\"Expenses\" are costs you have to pay. The speaker says they take their percentage of the money, but they must subtract the costs for selling their specific game.", zh: "然后扣除与我们特定游戏销售相关的一组相对有限的费用，剩下的就是我们的百分比。（expenses 费用；percentage 百分比）"}
+  - {text: "Yeah, like maybe we offer customers a rebate at some point, or maybe we end up paying for a fancy display in the end cap, you know, at the end of the aisle.", start: 1880.37, end: 1888.31, explain: "A \"rebate\" is money given back to a customer. An \"end cap\" is the shelf at the end of a store aisle. The speaker gives examples of costs like giving money back to customers or paying for a special display at the end of a shelf.", zh: "是的，比如我们可能在某个时候给客户提供返利，或者我们最终可能不得不为货架端头那个花哨的展示位付费，你知道的，就在过道尽头。（rebate 返利；end cap 货架端头）"}
+  - {text: "It's your paying rent.", start: 1888.77, end: 1890.01, explain: "\"Rent\" is money you pay to use a space. The speaker compares the costs of selling the game to paying for a place to live or work.", zh: "这就像你在付租金。（rent 租金）"}
+  - {text: "Like they literally charge rent for those placements.", start: 1890.29, end: 1893.19, explain: "\"Placements\" means the specific spots on the shelf where the product is put. The speaker says the store actually takes money for these good spots.", zh: "他们确实是为这些展示位置收取租金的。（placements 陈列位置）"}
+  - {text: "So this is shell payment.", start: 1893.19, end: 1893.35, explain: "\"Shell payment\" is a term for a fee paid for a specific place on a store shelf. The speaker explains that this is what that fee is called.", zh: "所以这就是壳支付。"}
+  - {text: "Exactly. Okay, task two, game price.", start: 1893.91, end: 1897.89, zh: "没错。好的，任务二，游戏定价。"}
+  - {text: "We were worried that Big Box was seeing us as a cheap 9 .99 card game.", start: 1898.45, end: 1903.47, explain: "\"Placements\" is not here, but \"9.99 card game\" refers to a cheap, simple game. The team was afraid the big store would think their game was just a low-quality, cheap item.", zh: "我们担心 Big Box 把我们看作是一款 9.99 美元的廉价卡牌游戏。（Big Box 大型零售商；card game 卡牌游戏）"}
+  - {text: "Apparently, Exploding Kittens had also been worried about this.", start: 1903.47, end: 1907.47, zh: "显然，Exploding Kittens 也曾担心过这一点。（Exploding Kittens 爆炸小猫，一款流行桌游）"}
+  - {text: "We fought that fight fiercely.", start: 1907.81, end: 1909.31, explain: "\"Fought that fight\" means they argued strongly to get what they wanted. \"Fiercely\" means with a lot of energy and determination.", zh: "我们为此进行了激烈的抗争。"}
+  - {text: "Definitely. That's Kelly Voeblek, VP of Creative Operations Exploding Kittens, by the way.", start: 1909.51, end: 1912.91, zh: "确实如此。顺便说一下，这是 Exploding Kittens 创意运营副总裁 Kelly Voeblek。（VP 副总裁；Creative Operations 创意运营）"}
+  - {text: "We're looking at a, it's a $20 price point and that screams multi -generational family party game.", start: 1913.31, end: 1919.73, explain: "\"Price point\" is the specific price of a product. \"Multi-generational\" means involving people of different ages, like grandparents, parents, and kids. The speaker says a $20 price suggests it is a game for the whole family.", zh: "我们看中的是 20 美元的价格点，这听起来就像是一款适合多代同堂的家庭派对游戏。（price point 价格点；multi-generational 多代同堂的）"}
+  - {text: "In the end, Exploding Kittens got Big Box to agree to an MSRP, a manufacturer's suggested retail price of $19 .99.", start: 1919.99, end: 1927.79, explain: "\"MSRP\" stands for Manufacturer's Suggested Retail Price. It is the price the maker suggests the store should sell the item for. The game company got the store to agree to sell it for $19.99.", zh: "最终，Exploding Kittens 让 Big Box 同意将建议零售价定为 19.99 美元。（MSRP 建议零售价；manufacturer's suggested retail price 制造商建议零售价）"}
+  - {text: "Does that result in more profit for us, or it is possible for that to result in more profit for us, but we opted to spend that money on the product?", start: 1928.25, end: 1936.15, explain: "\"Opted\" means chose. The speaker asks if the higher price means more money for them, or if they chose to use that extra money to make the product better.", zh: "这能给我们带来更多利润吗？或者虽然有可能带来更多利润，但我们选择把这笔钱花在产品上？"}
+  - {text: "I mean, I would have done the same thing.", start: 1936.45, end: 1937.63, explain: "The speaker says they would have made the same choice. This is a simple way to agree with someone.", zh: "我的意思是，我也会做同样的选择。"}
+  - {text: "Yeah, we poured all of that increased price into making a nicer version of the game.", start: 1937.95, end: 1942.75, explain: "\"Poured\" means put a lot of money into something. \"Increased price\" means the price went up. The speaker says they used the extra money to make a better game.", zh: "是的，我们把涨价带来的所有额外收入都投入到了制作更精美的游戏版本上。（poured 投入；increased price 涨价部分）"}
+  - {text: "We splurged on a high quality material for the cards that Elan loves.", start: 1942.99, end: 1947.41, explain: "\"Splurged\" means spent a lot of money on something special. \"Elan\" is the name of a person. The speaker says they spent extra on good card material because Elan likes it.", zh: "我们不惜重金为Elan喜欢的卡牌使用了高质量的材料。（splurged 挥霍，花费巨资；high quality material 高质量材料）"}
+  - {text: "We upgraded to a higher quality box that signals, you know, this is a game that requires a little time and it's worth it.", start: 1947.59, end: 1954.63, explain: "\"Signals\" means shows or tells people something. \"Upgraded\" means made better. The speaker says the better box shows that the game is special and worth the time.", zh: "我们升级了更高质量的包装盒，以此传达出这是一款需要投入时间且物有所值的游戏。（upgraded 升级；signals 传达，暗示）"}
+  - {text: "And it meant we could afford to make our box the Pantone Purple, not just everyday purple.", start: 1954.79, end: 1959.87, explain: "\"Pantone Purple\" is a specific, special shade of purple used in printing. \"Afford\" means have enough money for something. The speaker says they could pay for this special purple color.", zh: "这也意味着我们负担得起使用Pantone紫色，而不仅仅是普通的紫色。（Pantone Purple 潘通紫，一种标准色号；everyday purple 普通紫色）"}
+  - {text: "The Pantone Purple. This is kind of getting in the weeds of like art, but this is printing CMYK 4C.", start: 1959.87, end: 1965.42, explain: "\"Getting in the weeds\" means talking about small, detailed things. \"CMYK 4C\" is a standard way to print colors using four inks. The speaker is explaining the technical printing method.", zh: "就是潘通紫。这有点深入艺术领域的细节了，但这涉及的是CMYK四色印刷。（CMYK 4C 青、品红、黄、黑四色印刷模式）"}
+  - {text: "And when we tested it like in the office, it was just kind of dull and not bright and looking really muddy.", start: 1965.92, end: 1970.66, explain: "\"Dull\" means not bright or shiny. \"Muddy\" means the colors look mixed and dirty, not clear. The speaker says the test version looked bad.", zh: "当我们在办公室测试时，颜色看起来有点暗淡，不够鲜艳，显得很浑浊。（dull 暗淡；muddy 浑浊，不清晰）"}
+  - {text: "So we made the decision to like go forward with the Pantone a little bit more expensive, but like you can see how much impact it has.", start: 1970.86, end: 1977.44, zh: "所以我们决定采用潘通色，虽然稍微贵一点，但你可以看到它带来的巨大影响。（go forward with 采用，推进；impact 影响，效果）"}
+  - {text: "It's glorious. Pantone is a whole color system where you pay extra because the colors can be perfectly reproduced by anyone in the Pantone world.", start: 1977.74, end: 1985.48, explain: "\"Glorious\" means very beautiful or perfect. \"Reproduced\" means made to look exactly the same. The speaker says Pantone colors are perfect because anyone can print them to look the same.", zh: "它太美了。潘通是一整套色彩系统，你多付钱是因为在潘通体系内，任何人都能完美复现这些颜色。（Pantone 潘通，色彩标准系统；reproduced 复现，复制）"}
+  - {text: "Check out our Planet Money episode about this.", start: 1985.78, end: 1987.36, explain: "\"Check out\" means look at or listen to. This sentence tells you to find and listen to a specific show about this topic.", zh: "去看看我们关于这个主题的Planet Money节目吧。（Check out 查看，看看）"}
+  - {text: "So that purple, it was gonna cost like three cents extra per unit, but I would have paid so much more after seeing it during task three.", start: 1987.58, end: 1995.46, explain: "\"Unit\" means one single item. \"Task three\" is the name of a specific test or experiment. The speaker says the purple color cost a little more to make, but they would have paid a lot more for it after seeing it in the test.", zh: "那个紫色每个单位要多花三美分，但在任务三看到实物后，我愿意支付更多的费用。（per unit 每个单位；task three 任务三，指节目中的某个环节）"}
+  - {text: "So a little time.", start: 1995.84, end: 1996.62, zh: "所以稍微花点时间。"}
+  - {text: "Task three, the real world shelf test.", start: 1996.74, end: 1999.40, zh: "任务三，真实世界的货架测试。（shelf test 货架测试）"}
+  - {text: "Feels like we're about to do something bad.", start: 2000.33, end: 2001.77, zh: "感觉我们要干点坏事了。"}
+  - {text: "It does. It feels like clandestine somehow, but...", start: 2002.61, end: 2005.77, explain: "\"Clandestine\" means secret or hidden. The speaker feels that the action is secret, but is not sure.", zh: "确实，感觉有点偷偷摸摸的，但是……（clandestine 秘密的，隐蔽的）"}
+  - {text: "I think it kind of is.", start: 2005.77, end: 2006.51, explain: "\"Kind of\" means a little bit or somewhat. The speaker agrees that it is a little bit secret.", zh: "我觉得确实有点。"}
+  - {text: "Yeah, I guess so.", start: 2006.65, end: 2007.25, zh: "是啊，我想也是。"}
+  - {text: "You're about to hijack some very valuable store shelf.", start: 2007.25, end: 2009.83, explain: "\"Hijack\" means to take control of something by force or trick. \"Store shelf\" is the place in a shop where goods are put. The speaker says you are taking over a very important place in the shop.", zh: "你马上就要劫持一些非常有价值的商店货架了。（hijack 劫持，强行占用）"}
+  - {text: "Before Exploding Kittens starts printing any game, they, off in a lawn, will sneak into a big box store.", start: 2010.81, end: 2017.95, explain: "\"Off in a lawn\" is a mistake in the recording. It should be \"off in the dark\" or similar, meaning secretly at night. \"Sneak into\" means to go in quietly without being seen. The company goes into a big shop secretly before making the game.", zh: "在《爆炸小猫》开始印刷任何游戏之前，他们会跑到后院，偷偷溜进大型百货商店。（Exploding Kittens 爆炸小猫，一款桌游；big box store 大型百货商店）"}
+  - {text: "Oh, wow. Okay, you just put it up there.", start: 2017.95, end: 2020.95, explain: "\"Put it up\" means to place something on a high place. The speaker is surprised that the other person just placed the item on the shelf.", zh: "噢，天哪。好吧，你就把它放上去。"}
+  - {text: "And just put their game on the shelf to just see.", start: 2021.09, end: 2024.51, zh: "就把他们的游戏放到货架上，只是看看反应。"}
+  - {text: "Okay. Does it stand out enough?", start: 2024.87, end: 2026.57, zh: "好的，它足够显眼吗？（stand out 突出，显眼）"}
+  - {text: "Too much? Does it read well from far away?", start: 2026.91, end: 2029.63, zh: "会不会太过了？从远处看能看清吗？（read well 清晰易读）"}
+  - {text: "Does it look okay when it inevitably gets knocked over?", start: 2029.81, end: 2032.87, zh: "当它不可避免地被打倒时，看起来还正常吗？（inevitably 不可避免地）"}
+  - {text: "Or gets shoved back into the shadows of the shelves?", start: 2033.05, end: 2035.91, explain: "\"Shoved\" means pushed hard. \"Shadows\" means dark places. This is a question: will the item be pushed back into the dark parts of the shelves? It is a fragment and continues from the previous sentence.", zh: "或者被塞回货架的阴影里时呢？（shadows of the shelves 货架的阴影处）"}
+  - {text: "I would argue that still stands up in shadow, like, which is a tough position to be in.", start: 2036.25, end: 2041.65, explain: "To \"stand up in shadow\" means to be less noticeable or important than something else. A \"tough position\" is a difficult situation. The speaker says that their idea is still valid, but it is hard to be the less important option.", zh: "我认为即使在阴影里它依然挺立，这其实是个很难处理的位置。（tough position 艰难处境）"}
+  - {text: "The lighter colors on there still pop right out.", start: 2042.67, end: 2045.39, explain: "To \"pop right out\" means to stand out clearly and catch your eye. The speaker says the light colors on the box are very bright and easy to see.", zh: "上面的浅色依然非常醒目。（pop out 突出，醒目）"}
+  - {text: "Do you see anything else that's our Bantone purple?", start: 2045.39, end: 2048.09, zh: "你们还看到其他我们指定的潘通紫色吗？（Pantone purple 潘通紫色，一种标准色号）"}
+  - {text: "Nothing. That's really interesting.", start: 2048.39, end: 2050.15, zh: "没有。这真的很有意思。（interesting 有趣，意味深长）"}
+  - {text: "Is that good or bad?", start: 2050.39, end: 2051.03, zh: "这是好事还是坏事？（good or bad 好还是坏）"}
+  - {text: "Really good. Really good.", start: 2051.11, end: 2052.47, zh: "非常好。真的非常好。（really good 非常好）"}
+  - {text: "Like, it is very hard to go through this process and get a definitive, yes, we're doing it right?", start: 2052.67, end: 2057.71, explain: "A \"definitive\" answer is a clear and final one. The speaker says it is very hard to go through the process and get a clear \"yes, we are doing it correctly\".", zh: "比如，要经历这个过程并得到明确的肯定，确认我们做对了，真的很难。（definitive 明确的，确定的）"}
+  - {text: "Right. I think at the very least, we can definitively say, this is not broken.", start: 2057.87, end: 2063.03, explain: "To say something is \"not broken\" means it is working well and does not need fixing. The speaker agrees that at least they can say for sure that the current design is good.", zh: "没错。我认为至少我们可以肯定地说，这并没有坏掉。（definitively 肯定地，明确地）"}
+  - {text: "Ah, okay, okay, we're running out of time here.", start: 2064.21, end: 2065.71, zh: "啊，好的好的，我们时间快不够了。（running out of time 时间快用完了）"}
+  - {text: "Speed round, Erica. Task four, box finish.", start: 2065.79, end: 2068.35, zh: "快速问答环节，Erica。任务四，盒子收尾。（Speed round 快速问答环节；box finish 盒子表面处理）"}
+  - {text: "We decided to switch the box from glossy finish to matte finish to signal grown -up game.", start: 2068.75, end: 2075.21, explain: "A \"glossy finish\" is a shiny surface. A \"matte finish\" is a dull, non-shiny surface. \"Grown-up\" means for adults. They changed the box to look less shiny to show it is for adults.", zh: "我们决定把盒子从光面改为哑光面，以体现这是一款成熟的游戏。（glossy finish 光面；matte finish 哑光面）"}
+  - {text: "Apparently, kids' games have been using glossy finishes as a fancy cover -up for the fact that they skimped on cardboard quality and spent on expensive plastic toy things for the game.", start: 2075.21, end: 2085.93, explain: "To \"skimp\" means to spend too little money on something important. A \"cover-up\" is hiding a bad fact. Kids' games used shiny plastic to hide that the cardboard was cheap.", zh: "显然，儿童游戏一直用光面包装来掩盖他们在纸板质量上偷工减料，却把钱花在游戏里昂贵的塑料玩具上的事实。（cover-up 掩盖；skimped on 在……上节省，偷工减料）"}
+  - {text: "Ah, so much to do.", start: 2086.21, end: 2087.33, zh: "啊，要做的事真多。（so much to do 有很多事要做）"}
+  - {text: "Task five, what's on the back of the box?", start: 2087.43, end: 2089.05, zh: "任务五，盒子背面印什么？（back of the box 盒子背面）"}
+  - {text: "At the 11th hour, we land on a comic strip format.", start: 2089.55, end: 2092.73, explain: "The \"11th hour\" means at the very last minute, just before the deadline. A \"comic strip format\" is a layout with pictures in boxes, like a cartoon. They chose this design at the last moment.", zh: "在最后一刻，我们决定采用连环画的形式。（11th hour 最后一刻，最后关头；comic strip format 连环画形式）"}
+  - {text: "I think we need a speech bubble here.", start: 2093.29, end: 2095.37, zh: "我觉得这里需要一个对话气泡。（speech bubble 对话气泡）"}
+  - {text: "Back of the box just has to explain enough about the game to give people the feel of the game.", start: 2095.67, end: 2101.19, zh: "盒子背面只需要解释得足够清楚，让人感受到这款游戏的氛围。（back of the box 盒子背面；feel 感觉，氛围）"}
+  - {text: "Task six, seven, eight, nine, ten.", start: 2101.81, end: 2103.67, zh: "任务六、七、八、九、十。（task 任务）"}
+  - {text: "Tweaks to the instructions.", start: 2103.67, end: 2105.39, zh: "对说明书进行微调。（tweaks 微调，小改动）"}
+  - {text: "A QR code to send people to our board game podcast series.", start: 2105.95, end: 2108.75, zh: "一个二维码，把人们引导到我们的桌游播客系列。（QR code 二维码；board game 桌游）"}
+  - {text: "A different QR code that sends people to a video.", start: 2108.85, end: 2111.27, zh: "另一个不同的二维码，把人们引导到一个视频。（QR code 二维码）"}
+  - {text: "Ah, it sends you to a video of the game.", start: 2111.53, end: 2114.31, zh: "啊，它把你引导到一个关于这款游戏的视频。（sends you to 把你引导到）"}
+  - {text: "And we didn't even tell you about the long discussion over punctuation on the front of the box.", start: 2114.61, end: 2118.33, explain: "\"Punctuation\" means marks like commas and full stops. The speaker says there was a long talk about these small marks on the front of the box, which they did not tell the listeners about.", zh: "我们甚至没告诉你们，关于盒子正面标点符号的那场漫长讨论。（punctuation 标点符号；front of the box 盒子正面）"}
+  - {text: "It was a long discussion.", start: 2118.67, end: 2119.53, explain: "This sentence says the talk took a long time. It is a complete sentence.", zh: "那确实是一场漫长的讨论。（long discussion 漫长的讨论）"}
+  - {text: "I do think that period has to go inside the parenthesis stylistically.", start: 2119.93, end: 2124.45, explain: "\"Stylistically\" means in a way that follows the rules of writing style. The speaker thinks the full stop should be inside the brackets.", zh: "从风格上讲，我认为那个句号应该放在括号里面。（period 句号；parenthesis 括号；stylistically 从风格上讲）"}
+  - {text: "We have this argument every single day here.", start: 2124.83, end: 2127.67, zh: "我们在这里每天都为这种事争论。（argument 争论；every single day 每一天）"}
+  - {text: "After all of this was done, Alon and the Exploding Kittens walked us over to a gigantic bell in the middle of their offices.", start: 2128.47, end: 2136.53, explain: "\"Exploding Kittens\" is the name of the company. \"Gigantic\" means very big. The sentence says Alon and the company staff took the reporters to a very big bell in their office.", zh: "这一切完成后，阿隆和“爆炸小猫”团队带我们走到办公室中央的一个巨大铃铛前。（Exploding Kittens 爆炸小猫，知名桌游品牌；gigantic 巨大的）"}
+  - {text: "This is the bell that they ring when they finish and ship a game.", start: 2136.85, end: 2140.85, explain: "\"Ship\" means to send the product to customers. The bell is rung when they finish making a game and send it out.", zh: "每当他们完成一款游戏并准备发货时，就会敲响这个铃铛。（ship 发货，运送）"}
+  - {text: "And they felt like it was our time.", start: 2140.99, end: 2143.43, explain: "\"Felt like\" means they thought or believed. They thought it was the right time for the visitors to ring the bell.", zh: "他们觉得现在正是我们的时刻。（felt like 觉得，认为）"}
+  - {text: "All right, do I say anything?", start: 2143.91, end: 2145.03, zh: "好了，我需要说点什么吗？（all right 好了，那么）"}
+  - {text: "Is it like a blowing out a birthday handle?", start: 2145.63, end: 2147.53, explain: "This is a question. The speaker asks if ringing the bell is like blowing out birthday candles. Note: \"handle\" is likely a mistake for \"candles\" in the transcript.", zh: "这就像吹灭生日蜡烛一样吗？（blowing out 吹灭；handle 此处应为candles的误听，意为蜡烛）"}
+  - {text: "We did it. We did it!", start: 2147.69, end: 2152.06, zh: "我们做到了！我们成功了！（did it 做到了，成功了）"}
+  - {text: "The source files for our game, Sell Me a Sasquatch, were sent off to the factory in China and very soon after that.", start: 2152.56, end: 2162.72, zh: "我们的游戏《卖给我一只大脚怪》的源文件被发往中国工厂，紧接着不久后……（source files 源文件；Sasquatch 大脚怪）"}
+  - {text: "Oh my gosh. It's all there, Tori.", start: 2163.38, end: 2168.26, explain: "\"Oh my gosh\" is a common phrase to show surprise. The speaker is happy to see everything is ready.", zh: "天哪，托里，全都在那里。（Oh my gosh 天哪，哎呀）"}
+  - {text: "So Kenny, this is the machine I was telling you about.", start: 2168.34, end: 2172.72, explain: "The speaker is showing Kenny a machine. She says this is the machine she mentioned before.", zh: "肯尼，这就是我跟你提到的那台机器。（machine 机器，设备）"}
+  - {text: "I was FaceTiming with Exploding Kittens Global Sourcing Person, Tori Welch, from the floor of the factory in Shanghai.", start: 2172.96, end: 2180.40, explain: "A \"FaceTiming\" call is a video chat on a phone. \"Global Sourcing Person\" is a job title for someone who finds factories to make products. The speaker is talking to a woman named Tori Welch who works for the game company. They are looking at a factory in Shanghai.", zh: "我正在通过FaceTime与“爆炸小猫”的全球采购负责人托里·韦尔奇连线，她正站在上海工厂的车间里。（FaceTiming 视频通话；Global Sourcing Person 全球采购负责人）"}
+  - {text: "And all of that noise, like that is the sound of thousands and thousands of our game coming off of the printing press.", start: 2180.44, end: 2186.48, explain: "\"Printing press\" is a big machine that prints many copies of a thing at once. The noise is from the machine making thousands of game cards.", zh: "而所有这些噪音，正是成千上万张我们的游戏卡牌从印刷机上下来的声音。（printing press 印刷机）"}
+  - {text: "You know, cards and boxes and she is specifically showing me the tool that the factory has for quality control to make sure that our Pantone Purple is exactly right.", start: 2186.62, end: 2197.48, explain: "\"Quality control\" means checking if products are good enough to sell. \"Pantone Purple\" is a specific, official shade of purple color. The woman is showing a tool that checks if the color is correct.", zh: "你知道，就是卡牌和盒子，她特意给我看工厂用来做质量控制的工具，确保我们的潘通紫完全正确。（Pantone Purple 潘通紫，一种标准色号）"}
+  - {text: "It's gonna scan and tell you whether or not it's the perfect purple.", start: 2197.94, end: 2202.14, explain: "\"Scan\" means to look at something with a machine to get data. The machine will check if the color is the right purple.", zh: "它会扫描并告诉你颜色是不是完美的紫色。"}
+  - {text: "Oh my gosh, it's the purple meter.", start: 2202.48, end: 2204.34, explain: "\"Oh my gosh\" is a common phrase used to show surprise or excitement. \"Purple meter\" is a funny name for the tool that measures the color.", zh: "天哪，这是紫色测量仪。（purple meter 紫色测量仪）"}
+  - {text: "Can you show me?", start: 2204.56, end: 2205.46, zh: "能给我看看吗？"}
+  - {text: "Can you do this?", start: 2205.74, end: 2206.46, zh: "你能做这个吗？"}
+  - {text: "I'm sorry, I blew it.", start: 2206.94, end: 2208.22, zh: "抱歉，我搞砸了。（blew it 搞砸了，弄坏了）"}
+  - {text: "My god, this is so exciting.", start: 2208.26, end: 2209.48, explain: "This is a short sentence showing that the speaker is very happy and excited about what she is seeing.", zh: "天哪，这太令人兴奋了。"}
+  - {text: "Oh my gosh. It's so loud.", start: 2210.80, end: 2213.80, explain: "The speaker is reacting to the loud noise in the factory. \"Oh my gosh\" shows she is surprised by how loud it is.", zh: "天哪，太吵了。"}
+  - {text: "It's so loud. Oh, they've got the swatches.", start: 2214.00, end: 2217.30, explain: "\"Swatches\" are small samples of different colors used to check if the right color is being used. The factory has these color samples ready.", zh: "太吵了。哦，他们有色卡。（swatches 色卡，用于比对颜色的样本）"}
+  - {text: "There's the Pantone swatches.", start: 2217.68, end: 2219.44, explain: "\"Pantone swatches\" are small cards that show specific colors. People use them to pick the exact color they want for a product. The speaker sees these color cards.", zh: "那是潘通色卡。（Pantone 潘通，色彩标准系统；swatches 色卡）"}
+  - {text: "Oh my gosh. Okay, so they're pointing at the Pantone.", start: 2219.52, end: 2223.70, explain: "\"Oh my gosh\" is a common phrase used when you are very surprised or excited. The speaker is pointing at the color cards.", zh: "天哪，好的，他们指的是潘通色卡。（Pantone 潘通，色彩标准系统）"}
+  - {text: "And look, maybe it was the fact that it was like 2 a .m.", start: 2223.70, end: 2227.18, explain: "The speaker says it was 2 in the morning. \"A.m.\" means morning. The sentence is cut off and continues in the next one.", zh: "而且你看，也许是因为当时我这边已经是凌晨两点了。（2 a.m. 凌晨两点）"}
+  - {text: "my time, but seeing this tiny portal to the other side of the world to our game choked me up a little bit.", start: 2227.24, end: 2234.74, explain: "\"Choked me up\" means it made the speaker feel very emotional and almost cry. \"Portal\" is a word from games that means a door to another place. The speaker was moved by seeing the game from far away.", zh: "但看到这个小窗口，仿佛通往世界另一端，让我们看到了我们的游戏，我有点感动得说不出话。（choked up 哽咽，情绪激动）"}
+  - {text: "Four months later, wait, where are the board games?", start: 2235.68, end: 2238.86, zh: "四个月过去了，等等，桌游在哪里？（board games 桌游）"}
+  - {text: "I walked into a big box retailer with my six -year -old daughter.", start: 2239.16, end: 2242.44, explain: "A \"big box retailer\" is a very large store that sells many different things, like a supermarket or a warehouse store. The speaker went into such a store with their young daughter.", zh: "我带着六岁的女儿走进了一家大型综合零售商。（big box retailer 大型综合零售商）"}
+  - {text: "Oh my goodness, sorry.", start: 2242.44, end: 2246.35, explain: "\"Oh my goodness\" is a phrase used to show surprise or to apologize for a small mistake. The speaker is reacting to something they just saw or said.", zh: "天哪，抱歉。（Oh my goodness 天哪，感叹词）"}
+  - {text: "There it is. Here, turn around and look up at it.", start: 2246.99, end: 2251.50, explain: "The speaker asks someone to turn around and look up. They are pointing to something high up, likely the product on a shelf.", zh: "就在那儿，来，转过身抬头看。（turn around 转身）"}
+  - {text: "Point to it. Oh yeah, that's the game.", start: 2252.02, end: 2253.66, explain: "The speaker confirms that the object they are pointing to is the game they are talking about.", zh: "指一下它。哦对，那就是那个游戏。（Point to it 指一下它）"}
+  - {text: "The game that everyone at your school wants.", start: 2253.88, end: 2255.24, zh: "就是你们学校每个人都想要的那个游戏。（wants 想要）"}
+  - {text: "No, you gotta say yes.", start: 2255.76, end: 2257.38, zh: "不，你得说同意。（gotta 必须，得）"}
+  - {text: "Yeah. And listen, we still cannot say exactly which big box retailer I got into the room with.", start: 2258.41, end: 2267.05, explain: "A \"retailer\" is a shop that sells goods to people. The speaker says they cannot name the specific store they visited.", zh: "对。听着，我们依然无法透露我是和哪家大型零售商一起进的那间屋子。（big box retailer 大型连锁零售商）"}
+  - {text: "But what we can't tell you is the Planet Money Exploding Kittens game Sell Me A Sasquatch is now available on shelves at Target and Walmart and lots of other places that sell board games, including the NPR shop.", start: 2267.07, end: 2282.83, explain: "\"Available\" means you can buy it. \"Target\" and \"Walmart\" are big US stores. The sentence says the game can be bought in these shops and others.", zh: "但我们可以告诉你的是，《星球财经》的“爆炸小猫”桌游《卖给我一只大脚怪》现在已经在Target、Walmart以及许多其他销售桌游的地方上架了，包括NPR商店。（Target 塔吉特，美国大型连锁超市；Walmart 沃尔玛；NPR 美国国家公共广播电台）"}
+  - {text: "Oh, wait. We saved the best news for last, Erika.", start: 2283.15, end: 2286.01, explain: "\"Saved\" here means kept for later. The speaker says the most exciting news is at the end.", zh: "哦，等等。我们把最好的消息留到最后了，Erika。（saved for last 留到最后）"}
+  - {text: "That's right. You, listeners, you are in this game.", start: 2286.33, end: 2290.75, explain: "\"Listeners\" are the people who hear the podcast. The speaker says the audience is part of the game.", zh: "没错。你们，听众们，你们就在这款游戏里。（listeners 听众）"}
+  - {text: "Not only did you spend hundreds and hundreds of hours testing prototypes of this game.", start: 2290.91, end: 2296.29, explain: "\"Prototypes\" are early versions of a product made for testing. The sentence says listeners spent a lot of time testing these early versions.", zh: "你们不仅花了好几百个小时测试这款游戏的原型。（prototypes 原型）"}
+  - {text: "And sending us your incredibly useful and thoughtful feedback.", start: 2296.63, end: 2299.71, explain: "\"Feedback\" is information or opinions given to help improve something. The sentence says listeners sent helpful opinions.", zh: "还给我们发送了极其有用且深思熟虑的反馈。（feedback 反馈）"}
+  - {text: "But you also sent us more than a thousand amazing ideas for what mythical creatures we should include in this game.", start: 2299.71, end: 2308.81, explain: "\"Mythical creatures\" are imaginary animals from stories, like dragons. The sentence says listeners sent many ideas for these animals.", zh: "而且你们还给我们寄来了超过一千个绝妙的主意，关于我们应该在游戏里加入哪些神话生物。（mythical creatures 神话生物）"}
+  - {text: "We love them so much.", start: 2309.05, end: 2310.43, zh: "我们太喜欢它们了。（love them 喜欢它们）"}
+  - {text: "The local cryptids you told us about, the deep cut econ cryptids you invented.", start: 2310.77, end: 2315.45, explain: "A \"cryptid\" is a creature that people say they have seen, but scientists do not know if it is real. \"Deep cut\" means something very special or hard to find. The speaker thanks listeners for sharing stories about local monsters and making up new economic monsters.", zh: "你们告诉我们的那些当地神秘生物，还有你们自创的那些深奥的经济神秘生物。（cryptids 神秘生物，如大脚怪等传说中的生物）"}
+  - {text: "And here is a sampling of what successfully we convinced Exploding Kittens to include in the actual game.", start: 2315.91, end: 2322.89, explain: "\"Sampling\" means a small part of a larger group. \"Exploding Kittens\" is the name of a popular card game. The speaker shows some of the ideas that the game company agreed to put into the real game.", zh: "这里展示了一些我们成功说服《爆炸小猫》团队收录进正式游戏的内容。（sampling 样本，示例；Exploding Kittens 《爆炸小猫》，一款流行桌游）"}
+  - {text: "You're gonna find the Veblen, the Bull Bear, the Laffer, if you know, you know.", start: 2323.19, end: 2328.99, zh: "你会在里面找到韦布伦、牛熊、拉弗，如果你懂的话，你懂的。（Veblen 韦布伦，指炫耀性消费；Bull Bear 牛熊，指股市多空；Laffer 拉弗，指拉弗曲线）"}
+  - {text: "The Ogopogo. Send me notes about pronunciation.", start: 2328.99, end: 2331.95, zh: "还有奥戈波戈。请给我发一下它的发音笔记。（Ogopogo 奥戈波戈，加拿大传说中的湖怪）"}
+  - {text: "I totally accept them.", start: 2332.43, end: 2333.37, zh: "我完全接受这些。（accept 接受）"}
+  - {text: "I'm sorry. And Australia, you came out preposterously strong for this challenge.", start: 2333.45, end: 2340.99, explain: "\"Preposterously\" means in a way that is very surprising or funny. The speaker apologizes and says that people from Australia did very well in this challenge.", zh: "抱歉。澳大利亚，你们在这次挑战中表现得异常强劲。（preposterously 荒谬地，夸张地；challenge 挑战）"}
+  - {text: "And we have seen you, and we have included the Drop Bear, which is a very real thing that you should be scared of in Australia.", start: 2341.49, end: 2348.03, explain: "A \"Drop Bear\" is a funny story about a bear that falls from trees to attack people. It is not real, but it is a famous joke in Australia. The speaker says they put this joke into the game.", zh: "我们注意到你们了，并且收录了掉熊，这在澳大利亚是真实存在且你应该害怕的东西。（Drop Bear 掉熊，澳大利亚传说中的树袋熊变种）"}
+  - {text: "When you buy the game and look at the cards, you will see that Exploding Kittens included a little symbol on those cards so you can see which ones came from you.", start: 2348.39, end: 2358.23, explain: "\"Symbol\" means a small picture or mark. The speaker says that when you buy the game, you will see a small mark on the cards. This mark shows which cards came from the listeners.", zh: "当你购买游戏并查看卡片时，你会发现《爆炸小猫》在卡片上印了一个小符号，让你能看出哪些来自你们。（symbol 符号；included 包含，收录）"}
+  - {text: "We are so, so proud of this.", start: 2358.23, end: 2361.79, zh: "我们为此感到非常自豪。（proud 自豪，骄傲）"}
+  - {text: "If you still want to help out on this project, there's gonna be a lot of opportunities.", start: 2367.10, end: 2370.62, zh: "如果你还想为这个项目出力，会有很多机会。（opportunity 机会；project 项目）"}
+  - {text: "But right now, the most important thing to do is honestly rate and review the game.", start: 2370.80, end: 2375.42, explain: "\"Rate\" means to give a number or stars to show how good something is. \"Review\" means to write words about it. The speaker says the most important thing is to give the game a score and write about it.", zh: "但眼下，最重要的事情其实是诚实地为游戏评分和写评论。（rate 评分；review 评论，回顾）"}
+  - {text: "Verified purchases matter a lot more in the rating and reviewing system.", start: 2376.60, end: 2380.68, explain: "\"Verified purchases\" are buys that the store knows you really made. The speaker says these reviews are more important than others in the system.", zh: "在评分和评论系统中，经过验证的购买记录要重要得多。（Verified purchases 经过验证的购买；rating and reviewing system 评分和评论系统）"}
+  - {text: "And so if you buy the game, review it where you bought it, and post a game night, tell your friends about it, be a smug econ person and trick them into learning the econ,", start: 2381.38, end: 2389.32, explain: "\"Smug\" means feeling too proud of yourself. The speaker tells you to buy the game, review it, and show your friends. Then feel proud and make them learn about economics.", zh: "所以如果你买了游戏，就在购买平台写个评论，再组织一场游戏之夜，告诉朋友们，像个自鸣得意的经济学人那样，让他们不知不觉地学到经济学知识，（smug 自鸣得意的；econ 经济学的缩写）"}
+  - {text: "and then you can produce the paper, the market for lemons, and then read from it to them.", start: 2389.40, end: 2392.76, zh: "然后你可以拿出那篇关于“柠檬市场”的论文，读给他们听。（market for lemons 柠檬市场，指信息不对称导致劣质品驱逐优质品的市场现象）"}
+  - {text: "It'll be a blast.", start: 2392.88, end: 2394.10, explain: "\"A blast\" means a very fun and exciting time. The speaker says the event will be very enjoyable.", zh: "那肯定会非常有趣。（blast 极好的事，非常有趣）"}
+  - {text: "And, you know, send us an email.", start: 2394.80, end: 2395.86, zh: "而且，你知道的，给我们发封邮件吧。"}
+  - {text: "Maybe we'll zoom into your game night.", start: 2396.00, end: 2397.04, explain: "\"Zoom into\" means to look at something in more detail. The speaker suggests they might look closely at the listener's game night.", zh: "说不定我们会通过视频连线加入你的游戏之夜。（zoom 视频连线）"}
+  - {text: "Who knows? This episode was produced by Emma Peasley.", start: 2397.14, end: 2400.70, explain: "\"Produced\" means made or created. \"Emma Peasley\" is the name of the person who made the show. This sentence introduces the person who made the episode.", zh: "谁知道呢？本期节目由 Emma Peasley 制作。（produced by 由……制作）"}
+  - {text: "It was edited by Marianne McKeown.", start: 2400.84, end: 2402.00, explain: "\"Edited\" means changed and fixed to make it sound good. \"Marianne McKeown\" is the name of the person who did this. This sentence introduces the editor of the show.", zh: "由 Marianne McKeown 编辑。（edited by 由……编辑）"}
+  - {text: "It was fact -checked by Sierra Juarez.", start: 2402.28, end: 2403.50, explain: "\"Fact-checked\" means looking to see if the information is true. \"Sierra Juarez\" is the name of the person who did this. The transcript has a space in \"fact -checked\". This sentence introduces the person who checked the facts.", zh: "由 Sierra Juarez 进行事实核查。（fact-checked 事实核查）"}
+  - {text: "It was engineered by Robert Rodriguez.", start: 2403.66, end: 2404.86, explain: "\"Engineered\" means making the sound quality good. \"Robert Rodriguez\" is the name of the person who did this. This sentence introduces the sound engineer.", zh: "由 Robert Rodriguez 负责音频工程。（engineered by 由……负责音频工程）"}
+  - {text: "Planet Money's executive producer is Alex Goldmark.", start: 2405.30, end: 2408.96, explain: "\"Executive producer\" is the person in charge of the whole show. \"Alex Goldmark\" is the name of this person. This sentence introduces the main boss of the show.", zh: "《Planet Money》的节目执行制片人是Alex Goldmark。（executive producer 执行制片人）"}
+  - {text: "By the way, you can get our game and lots of other merch at theNPRShopAtShopNPR .org.", start: 2409.36, end: 2415.20, explain: "\"Merch\" is short for merchandise, which means products like shirts or toys. The speaker tells you where to buy these things. The website name is written together in the transcript.", zh: "顺便提一下，你可以在NPRShopAtShopNPR.org买到我们的游戏和很多其他周边商品。（merch 周边商品）"}
+  - {text: "I'm Erica Bares. I'm Kenny Malone.", start: 2415.70, end: 2417.70, zh: "我是Erica Bares，我是Kenny Malone。"}
+  - {text: "This is NPR. And I have purchased a Sasquatch costume.", start: 2418.24, end: 2422.26, explain: "\"NPR\" is the name of the radio station. \"Sasquatch\" is a name for a big, hairy wild animal that some people believe lives in the woods. The speaker says they bought a costume to look like this animal.", zh: "这里是NPR。而且我买了一套大脚怪服装。（Sasquatch 大脚怪，传说中的巨型人形生物）"}
+  - {text: "So, watch the socials.", start: 2422.74, end: 2424.48, zh: "所以，请留意我们的社交媒体。（socials 社交媒体）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 2425.15, end: 2429.09, explain: "\"Stay tuned\" means to keep listening. \"Sponsors\" are companies that pay for the show. This sentence tells you that ads will come next.", zh: "请继续收听以下来自我们赞助商的公告和信息。"}
+  - {text: "This message comes from Mint Mobile.", start: 2429.69, end: 2431.65, explain: "\"Mint Mobile\" is the name of a phone company. This is an ad for them.", zh: "这条信息来自Mint Mobile。"}
+  - {text: "If you're tired of spending hundreds on big wireless bills, bogus fees, and free perks, Mint Mobile is for you.", start: 2432.13, end: 2439.25, explain: "\"Bogus\" means fake or not real. \"Perks\" are small extra benefits. The ad says you do not have to pay high prices or fake fees.", zh: "如果你受够了每月花几百美元在昂贵的无线账单、虚假费用和所谓的免费福利上，Mint Mobile就是为你准备的。（bogus 虚假的，骗人的）"}
+  - {text: "Shop plans at mintmobile .com slash switch.", start: 2439.61, end: 2442.41, explain: "\"Shop\" means to buy things. \"Plans\" are the different ways you can pay for your phone service. The speaker tells you where to go on the internet to buy.", zh: "请访问mintmobile.com/slash switch查看套餐。"}
+  - {text: "Taxes and fees extra.", start: 2442.83, end: 2443.79, zh: "税费另计。"}
+  - {text: "See Mint Mobile for details.", start: 2444.17, end: 2445.29, zh: "详情请查看 Mint Mobile。"}
+  - {text: "This message comes from Northwestern Mutual for nearly 170 years.", start: 2446.13, end: 2450.85, explain: "\"Northwestern Mutual\" is the name of a financial company. This is an ad for them.", zh: "这条信息来自西北相互人寿保险公司，该公司已成立近170年。（Northwestern Mutual 西北相互人寿保险公司）"}
+  - {text: "They've helped clients succeed with strategies to help grow and protect their money.", start: 2451.27, end: 2455.93, explain: "\"Clients\" are the people who use the company's services. \"Strategies\" are plans or ways to do something. The company helps people make and keep their money safe.", zh: "他们通过策略帮助客户实现财富增长并保护资产。（strategies 策略；grow and protect 增长与保护）"}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 2456.29, end: 2461.61, explain: "\"Life Insurance\" is a type of insurance that pays money to your family if you die. \"Milwaukee\" is a city in the US. This tells you where the company is from.", zh: "请访问 NM.com 开始办理，即位于威斯康星州密尔沃基的西北相互人寿保险公司。（NM .com 公司网站域名；Milwaukee 密尔沃基，威斯康星州城市）"}
 ---
