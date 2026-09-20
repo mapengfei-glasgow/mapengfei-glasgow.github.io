@@ -1,0 +1,442 @@
+---
+layout: single
+title: "The Domino’s Pizza Tracker Theory of Everything"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-18T00:00:00Z
+slug: "2026-09-18-the-dominos-pizza-tracker-theory-of-everything"
+audioDir: "2026-09-18-the-dominos-pizza-tracker-theory-of-everything"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-18-the-dominos-pizza-tracker-theory-of-everything/episode.mp3"
+totalDuration: 2145.5
+sentences:
+  - {text: "This message comes from a Whole Foods Market.", start: 0.00, end: 2.16}
+  - {text: "Their September stock up event makes it easy to load your pantry and freezer with a flavorful nourishing food.", start: 2.50, end: 8.54}
+  - {text: "There, build your own family meal, feeds four for just $35.", start: 8.86, end: 12.58}
+  - {text: "Stock up at Whole Foods Market.", start: 13.28, end: 15.30}
+  - {text: "Hello, Planet Money Listener, it's Kenny Malone.", start: 16.78, end: 19.36}
+  - {text: "So there's been this odd thing happening and we were hoping that you, like you personally, could help us fix this perhaps.", start: 19.74, end: 27.24}
+  - {text: "You probably know that we wrote a book, we made a game, and thanks to you, a lot of those have been sold and this is great.", start: 27.84, end: 35.38}
+  - {text: "But given how well they've been selling, our partners for both the book and the game have pointed out like a mystery.", start: 35.76, end: 43.60}
+  - {text: "There simply are not that many reviews or ratings on sites like Barnes & Noble or Amazon compared to what you would expect given the sales numbers.", start: 44.24, end: 54.88}
+  - {text: "So first of all, I mean, thank you for even just coming along with us on our many zany adventures and for spending your hard -earned money on a Planet Money book or a Planet Money game.", start: 55.12, end: 65.94}
+  - {text: "Like truly, we cannot thank you enough.", start: 66.12, end: 67.78}
+  - {text: "Secondly though, we realize now, perhaps in hindsight, we were maybe too proud to ask for this, but if you bought either the book or the game or if you plan to,", start: 68.28, end: 79.30}
+  - {text: "giving us a rating or a review on whatever site or with whatever store you bought it from really, really helps us at the show.", start: 79.86, end: 88.44}
+  - {text: "Especially in this age of algorithms.", start: 88.44, end: 90.56}
+  - {text: "If you didn't buy either, that's okay too.", start: 91.16, end: 93.26}
+  - {text: "We're glad to just hang out with you and to everyone listening, just thank you.", start: 93.40, end: 98.40}
+  - {text: "Thank you for listening.", start: 98.88, end: 99.40}
+  - {text: "This is Planet Money from NPR.", start: 102.21, end: 104.49}
+  - {text: "I hate waiting. I think we all do.", start: 107.66, end: 110.89}
+  - {text: "But recently I heard a theory about how our relationship with waiting has been totally transformed in the last 20 years.", start: 111.61, end: 119.17}
+  - {text: "It was a story about how an IT department of a pizza restaurant completely changed how we wait and how we feel when we wait.", start: 119.67, end: 128.75}
+  - {text: "I heard it from none other than Alex Mayosi.", start: 129.13, end: 131.71}
+  - {text: "Take it away, Alex.", start: 132.49, end: 133.21}
+  - {text: "Okay, for all intents and purposes, the story starts when David Halbin Stricker got a job at Domino's in IT.", start: 133.77, end: 140.59}
+  - {text: "And at the time the company was in a kind of crisis.", start: 141.33, end: 143.89}
+  - {text: "See, for a long time, Domino's was known for one thing.", start: 144.65, end: 147.99}
+  - {text: "They were known for their fast delivery.", start: 148.29, end: 150.81}
+  - {text: "It was like, if you wanted your pizza fast, you ordered it from Domino's.", start: 151.31, end: 156.25}
+  - {text: "If you wanted good pizza.", start: 156.35, end: 157.55}
+  - {text: "If you wanted good pizza, there were other places you would go.", start: 157.81, end: 160.71}
+  - {text: "They were so into their speedy delivery thing that for many years they even guaranteed it.", start: 162.09, end: 167.17}
+  - {text: "If they didn't get the pizza to your door in 30 minutes, you'd get it free.", start: 167.41, end: 171.53}
+  - {text: "But the guarantee lets you problems.", start: 172.07, end: 174.05}
+  - {text: "It pushed delivery drivers to be reckless.", start: 174.53, end: 176.53}
+  - {text: "People died. There were lawsuits and eventually Domino's had to give up on the guarantee.", start: 176.99, end: 182.23}
+  - {text: "And all the industry pundits said, Domino's is now dead.", start: 183.03, end: 187.01}
+  - {text: "Wow. They were basically saying without the guarantee, who's gonna order Domino's pizza?", start: 187.35, end: 193.31}
+  - {text: "Right. You know? Yeah, David says losing the guarantee was bad.", start: 193.85, end: 198.13}
+  - {text: "They were seating market share to the likes of Papa John's and Pizza Hut.", start: 198.63, end: 203.03}
+  - {text: "And David had this theory of the 30 minute guarantee.", start: 204.01, end: 207.77}
+  - {text: "Which is that it wasn't just popular because it got people their pizzas fast.", start: 208.21, end: 212.77}
+  - {text: "It was popular for a slightly squishier reason.", start: 213.55, end: 217.19}
+  - {text: "It had given people a sense of control.", start: 217.95, end: 221.37}
+  - {text: "This idea was backed up by evidence, around this time in the early 2000s.", start: 222.01, end: 226.87}
+  - {text: "Domino's had actually commissioned a study that mapped the way people felt when they ordered a pizza.", start: 227.21, end: 231.23}
+  - {text: "And what they learned was it was a psychological roller coaster.", start: 231.81, end: 235.97}
+  - {text: "Yeah. You're desperately hungry.", start: 236.45, end: 239.43}
+  - {text: "And so you're like, I want pizza.", start: 239.43, end: 242.29}
+  - {text: "I want pizza. And so you go and you place your order and it's like, oh, yes, I've got pizza coming.", start: 242.41, end: 247.27}
+  - {text: "And you're excited. I've done it.", start: 247.63, end: 249.69}
+  - {text: "I've ordered pizza. This was the top of the roller coaster.", start: 249.79, end: 253.31}
+  - {text: "And things really went downhill after that.", start: 253.87, end: 255.47}
+  - {text: "It's completely out of your control at this point.", start: 255.87, end: 259.25}
+  - {text: "You're like, where is it?", start: 259.57, end: 261.59}
+  - {text: "Where is it? I'm hungry.", start: 261.75, end: 262.65}
+  - {text: "Where is it? Especially with kids.", start: 262.83, end: 264.45}
+  - {text: "Where is it, mom?", start: 265.23, end: 266.19}
+  - {text: "Where is it, mom?", start: 266.39, end: 267.05}
+  - {text: "Where is it, mom?", start: 267.25, end: 267.99}
+  - {text: "It's coming. You have no idea where it is.", start: 268.27, end: 271.55}
+  - {text: "Have they lost my order?", start: 271.75, end: 273.29}
+  - {text: "Regardless of how long getting a pizza actually took, customers just hated the process, the experience of waiting.", start: 274.11, end: 281.99}
+  - {text: "To solve this problem and to stand out in a crowded pizza market, David and his IT colleagues cooked up a tool that would help Domino's beat their competitors on a kind of novel front, managing their customers' emotional journeys.", start: 282.67, end: 299.53}
+  - {text: "This tool would allow their customers to obsessively monitor their pizza's progress.", start: 300.41, end: 304.17}
+  - {text: "It would come to be called the Domino's Pizza Tracker.", start: 304.75, end: 307.23}
+  - {text: "And this humble pizza tracker, some would argue and I am arguing, became way more influential than you might expect.", start: 307.71, end: 314.39}
+  - {text: "Did you know that it would go on to change the world?", start: 314.83, end: 317.59}
+  - {text: "No. I'm still somewhat amazed that it changed, that it changed lives.", start: 318.51, end: 324.45}
+  - {text: "I mean, that's weird.", start: 325.15, end: 326.47}
+  - {text: "A status page that changed lives.", start: 326.79, end: 328.93}
+  - {text: "I mean, that's kind of crazy.", start: 329.17, end: 330.23}
+  - {text: "Hello and welcome to Planet Money.", start: 332.12, end: 333.28}
+  - {text: "I'm Nick Fountain and I'm Alex Mayase.", start: 333.56, end: 335.64}
+  - {text: "Yes, many of you will recognize Alex's voice from some classic Planet Money episodes or his name because he wrote the Planet Money book or maybe you're a listener to Alex's new food and economic show.", start: 336.08, end: 348.36}
+  - {text: "It's called Gastronomics. It is there that Alex laid out this theory that I kind of love.", start: 348.48, end: 353.28}
+  - {text: "Alex, you call it the Domino's Pizza Tracker theory of everything.", start: 353.28, end: 357.78}
+  - {text: "Yes, and here's the theory.", start: 358.18, end: 360.12}
+  - {text: "The Domino's Pizza Tracker would become the canonical model for every website or app that maps out how long a purchase or delivery or service is going to take.", start: 360.46, end: 369.38}
+  - {text: "And it created a completely new norm for how we expect to feel when we buy stuff.", start: 369.80, end: 374.68}
+  - {text: "We're talking banking, car repair, tax prep, waiting for an Uber.", start: 375.06, end: 379.22}
+  - {text: "Your theory is it all started with the Pizza Tracker.", start: 379.70, end: 382.80}
+  - {text: "So today on the show, we're gonna drill down on this theory, hear how the Pizza Tracker was made, how it spread, how it's been manipulated,", start: 383.16, end: 390.58}
+  - {text: "and what it tells us about human nature.", start: 391.34, end: 393.72}
+  - {text: "Also, we hit the streets and do some hard -hitting pizza journalism.", start: 394.40, end: 398.16}
+  - {text: "Got a hidden mic right here.", start: 398.78, end: 400.44}
+  - {text: "We're about to go do investigative journalism.", start: 400.58, end: 402.46}
+  - {text: "This message comes from Superhuman.", start: 414.93, end: 416.99}
+  - {text: "Have you heard of Superhuman Go?", start: 417.29, end: 419.07}
+  - {text: "Their Go AI chat helps you draft emails and messages and can also summarize long threads and documents.", start: 419.07, end: 425.15}
+  - {text: "It can search across your apps all without leaving the page you're on.", start: 425.49, end: 429.13}
+  - {text: "It collaborates with you where you are, whether it's in a doc you're reading or the email you are writing.", start: 429.41, end: 434.51}
+  - {text: "Try Superhuman Go from the makers of Grammarly.", start: 434.89, end: 437.71}
+  - {text: "Find out more at superhuman .com.", start: 438.01, end: 440.25}
+  - {text: "This message comes from LinkedIn.", start: 440.81, end: 442.31}
+  - {text: "As a small business owner, you wear many hats.", start: 442.77, end: 445.05}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 445.37, end: 448.31}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 448.65, end: 457.73}
+  - {text: "So while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 458.19, end: 463.11}
+  - {text: "Learn more at LinkedIn .com slash Planet Money show.", start: 463.47, end: 466.91}
+  - {text: "We're back, it's Planet Money.", start: 467.60, end: 469.12}
+  - {text: "We're tracing the history of the Domino's Pizza Tracker and how it's changed consumer culture.", start: 469.34, end: 473.72}
+  - {text: "Where we left off, it's the mid -2000s and Domino's knew they had this problem where people hated waiting for pizza.", start: 473.96, end: 480.86}
+  - {text: "And without their 30 -minute guarantee, they were losing their edge in the pizza game.", start: 481.38, end: 485.46}
+  - {text: "So Domino's reputation was a rather mediocre pizza and now we've lost our delivery time.", start: 485.96, end: 492.34}
+  - {text: "We're starting to struggle.", start: 492.82, end: 494.32}
+  - {text: "It's not like the company was shrinking but compared to the overall industry, we're not doing that great.", start: 495.18, end: 500.60}
+  - {text: "David says once Domino's learned about the emotional pizza roller coaster, lots of people at the company had a sense that they should build something like a pizza tracker", start: 501.30, end: 510.08}
+  - {text: "but they also knew that corporate would never go for it because it would be really time -consuming to build something that would track literally every pizza at every single Domino's.", start: 510.42, end: 520.48}
+  - {text: "Plus, was it really worth it spending so much effort on basically a gimmick to maybe make some customers a wee bit less anxious?", start: 520.96, end: 530.54}
+  - {text: "So instead at the time, corporate was focused on the tried -and -true Domino's way, beating their competitors on speed, even without the guarantee.", start: 531.10, end: 539.84}
+  - {text: "They became obsessed with the metric they called out the door time, as in pizza out the door.", start: 540.52, end: 546.42}
+  - {text: "And word gets out that the UK franchisee has figured out how to improve these out -the -door times.", start: 546.80, end: 555.00}
+  - {text: "And he somehow cracked the nut.", start: 555.42, end: 557.20}
+  - {text: "So Domino's dispatches David's boss to go across the pond to figure out what the UK stores are doing.", start: 557.88, end: 564.30}
+  - {text: "When he's back, he summoned David and the rest of the technology team.", start: 565.02, end: 568.38}
+  - {text: "And said, let me tell you about what I saw.", start: 568.80, end: 571.62}
+  - {text: "You would go into a store and they would have a dedicated monitor that would show nothing but that stores out -the -door times along with five to 10 other stores.", start: 572.71, end: 584.03}
+  - {text: "Oh. And what this franchisee did was is he had them compete against each other.", start: 584.65, end: 590.41}
+  - {text: "On out -the -door time.", start: 590.71, end: 591.93}
+  - {text: "On out -the -door time.", start: 592.29, end: 593.73}
+  - {text: "And then he would pay cash bonuses to the store that was at the top, stuff like that.", start: 594.39, end: 600.97}
+  - {text: "David's boss said, we need to do this here in the US.", start: 601.21, end: 605.23}
+  - {text: "And did he look at you and say, David, you're on this?", start: 605.73, end: 608.79}
+  - {text: "Yeah, I was basically the guy who had to make it happen.", start: 609.27, end: 612.13}
+  - {text: "David knew how we'd build it.", start: 613.55, end: 615.11}
+  - {text: "Every Domino's had computers where workers would register when an order came in, when a pizza went in the oven, and when it went out for delivery.", start: 615.85, end: 623.93}
+  - {text: "So David took that information and connected it to a centralized system that broadcast out -the -door times from each Domino's to the other competitor stores nearby.", start: 624.84, end: 634.06}
+  - {text: "The out -the -door times were on live dashboards for every teenage worker to see.", start: 634.84, end: 639.58}
+  - {text: "Shortly after it's rolling out maybe a week or two, the CEO comes to my cube and says, you worked on that?", start: 640.28, end: 647.16}
+  - {text: "He goes, there has been nothing in my tenure that has moved the needle as much as that.", start: 647.26, end: 653.96}
+  - {text: "Wow. Good job, guys.", start: 654.40, end: 656.28}
+  - {text: "And here's your bonus, David.", start: 656.66, end: 657.98}
+  - {text: "No. I'm in IT.", start: 659.28, end: 664.22}
+  - {text: "The best you do is you get a thank you.", start: 664.66, end: 666.56}
+  - {text: "So pizza out -the -door times were getting faster, but they still hadn't solved that other issue.", start: 668.74, end: 674.88}
+  - {text: "The existential dread of having to wait a whole 30 minutes in pizza purgatory.", start: 674.88, end: 680.54}
+  - {text: "Except then at some point, David and his colleagues stepped back, looked around, and were like, wait, you know what?", start: 682.46, end: 690.48}
+  - {text: "We already have a system tracking every single pizza in every single Domino's.", start: 690.74, end: 696.78}
+  - {text: "We went, ah, we can piggyback on that and do pizza tracker.", start: 697.00, end: 701.26}
+  - {text: "Pizza tracker. The way the pizza tracker would work was people would call in their orders, then go online, maybe dial up.", start: 701.86, end: 709.80}
+  - {text: "That's not a great impression and see a little animation of their very own pizzas progress in real time.", start: 714.24, end: 721.14}
+  - {text: "Now, this was 2006.", start: 721.62, end: 723.32}
+  - {text: "Most people didn't have smartphones yet.", start: 723.76, end: 725.56}
+  - {text: "They were not using apps.", start: 725.78, end: 727.14}
+  - {text: "At the time FedEx, UPS, and Amazon were tracking packages, but those were generally on the timeline of days, not minutes.", start: 727.90, end: 734.60}
+  - {text: "A tool to track real -time pizza progress would be completely novel.", start: 734.60, end: 738.90}
+  - {text: "David set out to work on the back end.", start: 739.40, end: 741.38}
+  - {text: "And some designers figured out what the tracker would look like, kind of like a thermometer on its side, a long tube with rounded ends.", start: 741.88, end: 751.08}
+  - {text: "As the pizza went through each step of the process, from order placed to prep to bake to box to delivery, the next chunk of the thermometer turned bright red.", start: 751.62, end: 760.76}
+  - {text: "When David saw the mock -up for the first time, he was not impressed.", start: 760.76, end: 765.28}
+  - {text: "I go, it's a hot dog.", start: 766.22, end: 768.26}
+  - {text: "It does kind of look like a hot dog.", start: 769.84, end: 771.44}
+  - {text: "It's a hot dog.", start: 771.50, end: 772.50}
+  - {text: "We're a pizza company.", start: 772.72, end: 774.04}
+  - {text: "Why have you put a hot dog on the pizza tracker?", start: 774.30, end: 778.76}
+  - {text: "So I'm there kind of going, well, this is this is the dumbest thing ever.", start: 779.22, end: 782.18}
+  - {text: "But the big dogs at the company liked it.", start: 782.36, end: 784.68}
+  - {text: "In fact, they wanted to roll out the pizza tracker right before the craziest day in pizza, the Super Bowl of pizza, one might say.", start: 785.08, end: 793.22}
+  - {text: "Yeah, the actual Super Bowl.", start: 793.66, end: 795.88}
+  - {text: "Because the Super Bowl is not necessarily the absolute busiest day, but all four time zones for Domino's synchronize.", start: 796.48, end: 807.71}
+  - {text: "Everybody is ordering right before the game.", start: 808.51, end: 811.39}
+  - {text: "Sure. Everybody is ordering at half time.", start: 811.67, end: 813.97}
+  - {text: "The Super Bowl was stressful enough in a normal year.", start: 814.47, end: 817.05}
+  - {text: "They'd set up a war room with screenshine website traffic, server capacity and, you know, also the Super Bowl broadcast.", start: 817.05, end: 823.73}
+  - {text: "We'd have like 50 people.", start: 824.37, end: 825.89}
+  - {text: "Wow. We'd be we'd be monitoring networks.", start: 826.35, end: 828.91}
+  - {text: "We'd be looking at our competitors.", start: 829.41, end: 831.79}
+  - {text: "Hey, Papa John's, they're slowing down.", start: 832.33, end: 834.65}
+  - {text: "You know, we're saying we're still good.", start: 834.89, end: 836.81}
+  - {text: "We're still good. So maybe not the best time to roll out a totally new piece of pizza technology.", start: 836.95, end: 843.69}
+  - {text: "But the brass are like, are you kidding?", start: 844.15, end: 846.53}
+  - {text: "This is going to be awesome.", start: 847.07, end: 848.23}
+  - {text: "The day comes, all eyes are on David and his tracker.", start: 848.97, end: 852.29}
+  - {text: "Would it work? Would people look at it?", start: 852.79, end: 854.81}
+  - {text: "Would they like it?", start: 854.91, end: 855.91}
+  - {text: "The spotlight is on us.", start: 856.51, end: 858.15}
+  - {text: "And we're basically in there watching the pizza tracker.", start: 859.61, end: 863.08}
+  - {text: "And if this crashes, then we're going to launch this and we're going to do this.", start: 863.34, end: 866.24}
+  - {text: "And so we have all these plans.", start: 866.30, end: 867.28}
+  - {text: "And it basically, fortunately, went off without a hitch.", start: 868.44, end: 871.56}
+  - {text: "Not only did it go off without a hitch, it actually blew up over the next months and years.", start: 872.22, end: 878.50}
+  - {text: "It became a cultural phenomenon.", start: 878.80, end: 880.90}
+  - {text: "Tracking your pizza became not just a tool, but an event.", start: 881.42, end: 884.98}
+  - {text: "People blogged about it.", start: 885.56, end: 887.06}
+  - {text: "A CNN morning show tested it out on live TV.", start: 887.16, end: 889.36}
+  - {text: "And we are awaiting that pizza delivery.", start: 889.88, end: 892.12}
+  - {text: "Will the Domino's man make it in time?", start: 892.40, end: 894.58}
+  - {text: "Customers flooded the Domino's comment box with comments.", start: 894.84, end: 897.54}
+  - {text: "Oh, this is the best thing ever.", start: 898.24, end: 900.22}
+  - {text: "It was mainly from the main commenters were moms.", start: 900.22, end: 903.66}
+  - {text: "Basically, this has gotten my kids off my back.", start: 904.84, end: 907.50}
+  - {text: "I ordered the pizza and then I have my kids sit in front of the computer watching the little flashing lights.", start: 908.18, end: 915.08}
+  - {text: "And the kids would turn around and go, Mom, Mom, Mom, it's in the oven.", start: 915.42, end: 919.90}
+  - {text: "Hey, Mom, Mom, Mom, it's being prepared.", start: 920.68, end: 922.32}
+  - {text: "It's out for delivery.", start: 922.94, end: 924.08}
+  - {text: "You've got to get ready.", start: 924.36, end: 925.12}
+  - {text: "It's out for delivery.", start: 925.28, end: 926.04}
+  - {text: "Yeah, the pizza tracker actually made the pizza waiting experience kind of fun.", start: 926.38, end: 931.26}
+  - {text: "I remember actually being more fascinated with the tracker than actually interested in the pizza.", start: 931.66, end: 937.54}
+  - {text: "Like a thing where I was like refreshing constantly to be like, what is it going to look like now?", start: 937.86, end: 942.42}
+  - {text: "This is Shuya Gong.", start: 942.88, end: 944.42}
+  - {text: "She teaches design at Harvard and she was previously a design director at IDEO, the design firm famous for, among other things, the original Apple mouse.", start: 944.80, end: 953.30}
+  - {text: "We called Shuya to talk about why the pizza tracker works and how it ended up getting way bigger.", start: 954.00, end: 959.68}
+  - {text: "Shuya came up as a designer in the mid 2010s.", start: 960.56, end: 963.90}
+  - {text: "So several important years after the pizza tracker was launched.", start: 964.20, end: 967.70}
+  - {text: "Important because more and more people had smartphones and every company needed an app.", start: 967.94, end: 973.84}
+  - {text: "Many of these companies were Shuya's clients and in meetings where they'd be sitting around saying, what is our app?", start: 974.24, end: 980.56}
+  - {text: "Shuya found that she kept referencing the same excellent model.", start: 981.02, end: 984.12}
+  - {text: "One of the most effective meetings I had was actually like ordering pizza and just putting the tracker on the big screen in the room and being like, so how are you feeling right now?", start: 984.68, end: 996.40}
+  - {text: "Like let's experience this together because you are able to in your body very viscerally understand how much anxiety is going up or down, how much you feel reassurance,", start: 996.68, end: 1010.50}
+  - {text: "how much you feel groundedness and then be able to say like, OK, what parts of that do you want people?", start: 1010.68, end: 1016.04}
+  - {text: "Do you want your customers to feel when they are using your product?", start: 1016.04, end: 1019.14}
+  - {text: "This seems like a boss move that you would like start your meeting with your important clients to be like, OK, I'll explain why later.", start: 1019.44, end: 1025.50}
+  - {text: "But like, let's all order some pizza like hands up for cheese, hands up for pepperoni.", start: 1025.62, end: 1029.24}
+  - {text: "In fact, the idea of the pizza tracker became kind of a shorthand in Shuya's design world.", start: 1029.92, end: 1035.64}
+  - {text: "A client would come in, describe what their business did.", start: 1036.06, end: 1038.84}
+  - {text: "And if it had all involved a customer doing any kind of waiting, she and her colleagues would look at each other and say, oh, easy, they need the pizza tracker.", start: 1039.12, end: 1048.30}
+  - {text: "Shuya says one reason pizza trackers were so popular was because as more and more shopping experiences became digital, a tracker replicated a really important part of paying for something in the real world, watching people do the work.", start: 1048.64, end: 1064.80}
+  - {text: "When you are having an online experience, you don't have that kind of visibility.", start: 1065.20, end: 1070.14}
+  - {text: "And because you don't have that kind of visibility, it sometimes gets easier to be impatient.", start: 1070.14, end: 1075.82}
+  - {text: "Researchers have documented that this reminder of the work that goes into a product or service makes customers value it more.", start: 1076.30, end: 1083.94}
+  - {text: "They call it the labor illusion.", start: 1084.52, end: 1086.56}
+  - {text: "And Shuya said something else about why pizza trackers are so effective.", start: 1087.28, end: 1091.48}
+  - {text: "It's a little bit trippy.", start: 1091.92, end: 1093.62}
+  - {text: "She says they change our perception of time.", start: 1094.16, end: 1097.72}
+  - {text: "Wow. Like there's something that we have literally all experienced, which is a known phenomenon in psychology, where what people walk somewhere, they feel like the", start: 1097.96, end: 1108.62}
+  - {text: "walk on the way back is shorter than the way there.", start: 1108.62, end: 1111.08}
+  - {text: "Even though it might be the exact same minute by minute, second by second amount of time, it feels shorter.", start: 1111.28, end: 1115.94}
+  - {text: "Shuya says one explanation for the walk thing is that the way back is familiar.", start: 1116.32, end: 1120.42}
+  - {text: "And that's actually kind of what happens with the pizza tracker, too.", start: 1121.10, end: 1124.16}
+  - {text: "It gives us a familiar route and shows us landmarks along the way.", start: 1124.46, end: 1128.40}
+  - {text: "It's giving us wayfinding.", start: 1128.48, end: 1130.46}
+  - {text: "It's giving us those familiar things to look out for that makes a journey feel shorter.", start: 1131.10, end: 1136.60}
+  - {text: "And those familiar things are pizzas being made.", start: 1136.76, end: 1139.28}
+  - {text: "It's on its way now, pizzas being delivered.", start: 1139.60, end: 1141.20}
+  - {text: "So all this is why many apps and websites now have pizza tracker like trackers.", start: 1141.54, end: 1146.54}
+  - {text: "The most obvious ones are Uber and Lyft, but I've started seeing them everywhere.", start: 1146.84, end: 1150.34}
+  - {text: "Like the other day, I dropped my car off at the mechanic and it was taking a while.", start: 1151.00, end: 1155.22}
+  - {text: "I started getting nervous.", start: 1155.62, end: 1157.02}
+  - {text: "Had they forgotten me?", start: 1157.20, end: 1158.40}
+  - {text: "Should I call? Then I got a text with a link to a tracker, a little timeline that showed where my car was in its repair process.", start: 1158.76, end: 1166.30}
+  - {text: "I felt calmed and reassured.", start: 1166.72, end: 1168.78}
+  - {text: "Yeah, this is why pizza trackers are everywhere now, because we, as consumers, love them.", start: 1169.24, end: 1176.56}
+  - {text: "But as the whole economy has become more digital, more like ordering a pizza, something weird has started happening.", start: 1177.20, end: 1186.54}
+  - {text: "Pizza trackers have become less honest.", start: 1187.25, end: 1190.09}
+  - {text: "Yeah, Shueya gave me a good example.", start: 1190.73, end: 1192.31}
+  - {text: "In the mid -2010s, she was working with banks and fintech companies whose customers were transitioning from in -person slow cash and check transactions to digital deposits and payments.", start: 1192.73, end: 1202.19}
+  - {text: "And the companies were actually kind of having the opposite problem that Domino's had, because as their customers adapted to online banking, they were uncomfortable with just how fast transactions were happening.", start: 1203.07, end: 1213.69}
+  - {text: "It doesn't actually take that much time for two computers to talk to each other and say, like, is this the amount of money that we're sending over?", start: 1213.91, end: 1220.73}
+  - {text: "Yes, this is the amount of money we're sending over.", start: 1220.93, end: 1222.63}
+  - {text: "You've got that amount of money?", start: 1222.77, end: 1223.57}
+  - {text: "Amazing. Now I've got this amount of money.", start: 1223.67, end: 1225.19}
+  - {text: "Computers talking to each other like, there are no roads that they are crossing.", start: 1225.71, end: 1230.01}
+  - {text: "There is no cheese that is melting.", start: 1230.23, end: 1231.81}
+  - {text: "It is have its numbers on a spreadsheet moving back and forth.", start: 1232.51, end: 1235.11}
+  - {text: "But for people who are used to money taking a while to transfer money moving instantly, it feels sus.", start: 1235.75, end: 1242.47}
+  - {text: "And so what we would do in that instance is actually slow down the pizza tracker, the money tracker, and instead of giving you a real time reflection,", start: 1243.08, end: 1253.07}
+  - {text: "we might actually give it a little bit of a buffer and make you wait.", start: 1253.55, end: 1257.43}
+  - {text: "So in the world of money apps, she helped companies add pizza trackers that actually manufactured a fake waiting period, even though the work that was happening was instantaneous.", start: 1257.83, end: 1270.21}
+  - {text: "In a context like that, slowing down the time and using that concept of a tracker to say, this is the step that's happening right now.", start: 1270.21, end: 1280.03}
+  - {text: "It's getting sent to the other party.", start: 1280.13, end: 1281.61}
+  - {text: "We're verifying it, slowing down that time intentionally and adding some meaningful friction in there means that the experience of waiting is something that you actually want to have.", start: 1281.83, end: 1292.65}
+  - {text: "And in that experience of waiting, you're feeling the gravitas and the seriousness of sending over hundreds of dollars to this like other magical space in the ether that now has your money, which seems reasonable enough.", start: 1292.77, end: 1306.75}
+  - {text: "Though there is another way of thinking about that.", start: 1307.19, end: 1309.63}
+  - {text: "How do you feel about recommending like, oh, you should do a status bar, but one that's like not accurate, like it's not real time accurate.", start: 1310.21, end: 1319.91}
+  - {text: "Right, right. How much are we recommending lying to, uh, to your customers, especially to put it more bluntly, right?", start: 1320.21, end: 1325.57}
+  - {text: "So I would think about it less as lying to someone who's going through this experience and more about curating the experience to put in the physics", start: 1325.57, end: 1337.32}
+  - {text: "that have traditionally existed in these experiences to make people feel comfortable.", start: 1337.32, end: 1343.02}
+  - {text: "Sure. But at a certain point, this all gets more sinister, like TurboTax.", start: 1343.40, end: 1349.10}
+  - {text: "TurboTax has these little status updates as you go from section to section and animation pops up where they say, we're checking to make sure you've got all your deductions or credits or whatever.", start: 1349.78, end: 1359.68}
+  - {text: "But a few years back, someone looked into the code and found that the animation was the same for everyone, no matter what took the same amount of time.", start: 1360.14, end: 1369.26}
+  - {text: "And I guess the question is, is TurboTax trying to make us feel at ease during the frankly scary process of filing taxes, or are they using the labor illusion to convince us", start: 1369.92, end: 1382.26}
+  - {text: "that it's worth it to pay gobs of money for something we could do for free?", start: 1382.26, end: 1386.14}
+  - {text: "Yeah, or like recently I was traveling and I had to use Uber a lot.", start: 1386.58, end: 1390.22}
+  - {text: "And over and over, they sent me updated pickup times.", start: 1390.48, end: 1393.04}
+  - {text: "And seemingly every time the car arrived later than they promised, it felt like the tracker was part of an intentional deception to convince me to book with them instead of Lyft to not cancel,", start: 1393.66, end: 1404.34}
+  - {text: "to be on the street so early I'm anxiously watching for the car and hop right in.", start: 1404.82, end: 1409.06}
+  - {text: "By the way, we reached out to TurboTax asking if anything has changed or if they wanted to comment, they did not.", start: 1409.06, end: 1415.08}
+  - {text: "And we asked Uber for an interview on how they calculated the pickup times.", start: 1415.62, end: 1419.42}
+  - {text: "While they didn't make anyone available, they did share some stats that suggested that their pickup times are pretty accurate.", start: 1419.78, end: 1425.82}
+  - {text: "But this is the weird final stage of pizza tracker history.", start: 1426.61, end: 1432.03}
+  - {text: "Pizza trackers went from an internal tool to manage workers to an external experience, providing transparency for customers.", start: 1432.83, end: 1441.93}
+  - {text: "Customers love them so much that they were adopted by companies around the world.", start: 1442.75, end: 1447.19}
+  - {text: "But then some companies at least twisted them to be less than accurate.", start: 1447.49, end: 1452.93}
+  - {text: "These trackers sometimes have become tools of deception.", start: 1453.49, end: 1458.33}
+  - {text: "And this brings us back to the OG pizza tracker, the Domino's pizza tracker, because there's this whole world of people who think that the Domino's pizza tracker is also veering into deception.", start: 1459.01, end: 1472.83}
+  - {text: "Some of these pizza tracker truthers think it's not real at all.", start: 1473.57, end: 1478.97}
+  - {text: "After the break. Oh, dude, this is like a spy movie.", start: 1480.24, end: 1483.04}
+  - {text: "I'm right behind him.", start: 1483.18, end: 1484.40}
+  - {text: "We hit the streets to investigate.", start: 1484.60, end: 1485.78}
+  - {text: "This message comes from Northwestern Mutual.", start: 1494.99, end: 1497.57}
+  - {text: "Life's a lot lately.", start: 1497.97, end: 1499.35}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1499.81, end: 1503.93}
+  - {text: "It all starts with Northwestern Mutual.", start: 1503.93, end: 1506.17}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1506.53, end: 1514.43}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1514.91, end: 1520.03}
+  - {text: "This message comes from Capella University.", start: 1520.95, end: 1523.01}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1523.59, end: 1528.09}
+  - {text: "That's your own drive pushing you towards what's next.", start: 1528.39, end: 1531.73}
+  - {text: "Capella University gets that with their flex path learning format.", start: 1531.73, end: 1535.97}
+  - {text: "You can set the pace and earn your degree without putting life on pause.", start: 1535.97, end: 1540.31}
+  - {text: "You've built experience and know what you're capable of.", start: 1540.51, end: 1543.75}
+  - {text: "Now this is your time to turn that momentum into more.", start: 1544.03, end: 1548.15}
+  - {text: "The only real question is what can't you do?", start: 1548.47, end: 1551.49}
+  - {text: "Learn more at capella .edu.", start: 1551.85, end: 1553.79}
+  - {text: "This message comes from LinkedIn.", start: 1554.43, end: 1556.25}
+  - {text: "As a small business owner, you wear mini hats.", start: 1556.57, end: 1558.99}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1558.99, end: 1562.23}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 1562.57, end: 1571.67}
+  - {text: "So while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1572.07, end: 1577.07}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1577.39, end: 1580.85}
+  - {text: "All right, test one, two.", start: 1583.69, end: 1585.53}
+  - {text: "Oh, last week I got on my bike and rode the approximately three minutes to my local Domino's, I was there to put the Domino's Pizza Tracker through the ringer to see", start: 1586.39, end: 1599.19}
+  - {text: "if what it says on the app is actually what's happening in the store.", start: 1599.19, end: 1602.79}
+  - {text: "Alex, Nick, hello, I called Alex.", start: 1603.05, end: 1606.35}
+  - {text: "All right. Did I ever tell you the joke?", start: 1606.69, end: 1610.21}
+  - {text: "What's the difference between a podcaster and a large pizza?", start: 1611.13, end: 1616.91}
+  - {text: "No, you have not told me this joke.", start: 1617.71, end: 1619.99}
+  - {text: "A large pizza can feed a family of four.", start: 1620.19, end: 1622.89}
+  - {text: "Anyway, the plan was I was going to order a distinctive looking pizza.", start: 1625.14, end: 1629.40}
+  - {text: "We decided on half Hawaiian, half pepperoni and get it delivered to your house, Nick.", start: 1629.70, end: 1634.42}
+  - {text: "And then from my home computer, I'd monitor what the pizza tracker was saying was happening to this pizza while you staked out the joint.", start: 1634.84, end: 1642.40}
+  - {text: "This is hard heading investigative journalism right here.", start: 1642.80, end: 1646.30}
+  - {text: "OK, I am placing this order in three, two, one.", start: 1647.31, end: 1651.97}
+  - {text: "OK, I'm walking in.", start: 1652.63, end: 1653.51}
+  - {text: "It's a tiny restaurant, fluorescent lighting, open kitchen.", start: 1656.73, end: 1660.51}
+  - {text: "Hello, so open. I realize I might get found out.", start: 1662.06, end: 1666.92}
+  - {text: "So to make the employees less suspicious of me, I decide to order another pizza, a decoy while I wait and observe a large pepperoni.", start: 1667.52, end: 1676.90}
+  - {text: "Meanwhile, at home, basically as soon as I clicked order on our half Hawaiian, half pepperoni pizza, the tracker moves from the ordered position to the make position.", start: 1677.28, end: 1687.98}
+  - {text: "Yeah, and pretty quickly I see a guy start to put together what looks to be the pizza.", start: 1688.36, end: 1693.40}
+  - {text: "Did somebody really order half Hawaiian, half pepperoni?", start: 1693.60, end: 1696.52}
+  - {text: "Yeah. That's a weird pizza.", start: 1696.88, end: 1701.54}
+  - {text: "And the tracker doesn't just tell us that the pizza is being made.", start: 1702.50, end: 1705.30}
+  - {text: "It tells us the name of the person supposedly making it.", start: 1705.78, end: 1709.30}
+  - {text: "It's potentially Ivan who is making your order if this pizza tracker is to be believed.", start: 1710.22, end: 1714.88}
+  - {text: "Cool. Ivan finishes making the pizza, throws it onto the conveyor belt oven, goes back to the computer and presses a button.", start: 1715.81, end: 1724.40}
+  - {text: "Oh, oh, I just got order in the oven.", start: 1724.95, end: 1728.69}
+  - {text: "OK, OK, so far so good.", start: 1729.80, end: 1732.00}
+  - {text: "But then I try to suss out.", start: 1732.38, end: 1733.96}
+  - {text: "Is this really Ivan?", start: 1734.42, end: 1736.30}
+  - {text: "Could I order a soda as well?", start: 1736.84, end: 1738.08}
+  - {text: "Yeah. What's your name?", start: 1738.97, end: 1741.64}
+  - {text: "My name is Alex.", start: 1742.18, end: 1742.90}
+  - {text: "Alex? Sure. Not Ivan.", start: 1743.40, end: 1745.54}
+  - {text: "In other words, a pizza tracker lie.", start: 1746.40, end: 1749.36}
+  - {text: "Meanwhile, at home, I saw that our half Hawaiian, half pepperoni pizza was finished out of the oven and headed to quality control for a check with a quality captain.", start: 1749.94, end: 1760.26}
+  - {text: "Do you see any quality captains around?", start: 1760.84, end: 1763.22}
+  - {text: "I do not. And I got to tell you, the pizza is not off the oven yet.", start: 1765.24, end: 1768.32}
+  - {text: "So pizza tracker lie number two.", start: 1770.88, end: 1773.20}
+  - {text: "But this one has an asterisk.", start: 1773.38, end: 1775.24}
+  - {text: "David, our pizza tracker co -inventor, told us that since Domino's ovens are the conveyor belt type, the bake takes pretty much exactly the same amount of time every time.", start: 1775.62, end: 1784.66}
+  - {text: "So the tracker just automatically goes to the next step after a set amount of time.", start: 1784.94, end: 1789.78}
+  - {text: "A couple of minutes later, Alex, aka Ivan, finally takes it out of the oven and puts it in a box and then puts it on", start: 1790.16, end: 1797.22}
+  - {text: "a rack to be picked up by a delivery driver.", start: 1797.22, end: 1799.22}
+  - {text: "Now, the tracker doesn't say waiting on a shelf, getting colder while the delivery driver finishes up the previous job.", start: 1799.58, end: 1804.36}
+  - {text: "It continues to say quality check, but it's not there for that long.", start: 1804.84, end: 1809.52}
+  - {text: "Now it says out for delivery.", start: 1809.55, end: 1811.31}
+  - {text: "Your delivery expert, Alex, left the store.", start: 1811.69, end: 1813.53}
+  - {text: "Sure enough, Alex, aka Ivan, takes the pizza out of the restaurant, puts it into his car, and I jump on my bike and start following him, trying to beat him to my house.", start: 1814.01, end: 1823.59}
+  - {text: "He's taking a left.", start: 1823.85, end: 1824.71}
+  - {text: "I feel like a freaking creeper.", start: 1824.93, end: 1826.55}
+  - {text: "Meanwhile, I can see his every turn for my home computer.", start: 1826.81, end: 1829.93}
+  - {text: "His phone's GPS is tracking him.", start: 1830.19, end: 1832.43}
+  - {text: "And he actually arrives at Nick's house right around when the tracker estimated he would, which is exactly when I had to hop off my bike,", start: 1832.57, end: 1840.75}
+  - {text: "give an apologetic wave and awkwardly explain what was going down.", start: 1841.05, end: 1844.83}
+  - {text: "No, no, no, this is actually my house.", start: 1846.54, end: 1848.26}
+  - {text: "I can show you my driver's license.", start: 1848.36, end: 1849.58}
+  - {text: "Luckily, he does not take a baseball bat out of the trunk.", start: 1851.00, end: 1854.42}
+  - {text: "So I'm a journalist.", start: 1854.88, end: 1855.88}
+  - {text: "My name is Nick.", start: 1856.72, end: 1857.60}
+  - {text: "Nice to meet you.", start: 1857.84, end: 1858.44}
+  - {text: "I work for NPR.", start: 1858.52, end: 1859.34}
+  - {text: "Cool. I got to say, he was surprisingly cool about this.", start: 1859.86, end: 1862.48}
+  - {text: "I, of course, got his permission to use the recording.", start: 1862.90, end: 1864.56}
+  - {text: "And he said he was actually curious to see how accurate the tracker was.", start: 1864.56, end: 1869.28}
+  - {text: "We want to see what happens when you, Marcus, has delivered how quickly it updates on my buddy's computer.", start: 1869.54, end: 1874.96}
+  - {text: "Oh, sure. OK, let's see it.", start: 1875.14, end: 1876.48}
+  - {text: "Clicks the delivered button.", start: 1879.80, end: 1881.36}
+  - {text: "OK, and I just got pretty promptly the update that we just went from deliver to mm, Alex, thank you so much, man.", start: 1881.70, end: 1888.66}
+  - {text: "I really appreciate it.", start: 1888.70, end: 1890.16}
+  - {text: "So time for a verdict on the truth to lie scale, reflecting reality versus deceiving us.", start: 1891.15, end: 1897.75}
+  - {text: "I was pretty impressed.", start: 1898.19, end: 1899.73}
+  - {text: "The pizza tracker was mostly accurate.", start: 1900.35, end: 1902.81}
+  - {text: "I'm not quite sure there was a real quality check.", start: 1903.49, end: 1906.61}
+  - {text: "And the pizza wasn't made by Ivan, of course, though we later learned and Ivan was working that shift.", start: 1907.21, end: 1913.21}
+  - {text: "But on the important stuff, I knew when the pizza went in the oven, when it left the store.", start: 1913.83, end: 1919.37}
+  - {text: "And although I'm not quite sure I needed any notification for this part, when it was handed to Nick, as I stood there, pizza in hand,", start: 1919.63, end: 1927.19}
+  - {text: "I started to realize pizza trackers are so ubiquitous because companies know we want them.", start: 1927.47, end: 1934.16}
+  - {text: "And I think, by and large, they know we want them even when they're telling us lies, because we've gotten so used to these kinds of apps that helped us transition to the digital world,", start: 1934.22, end: 1945.07}
+  - {text: "holding our hands step by step to show us that some work was really happening, that now, in our totally digital lives, we want that feeling even when it's completely disconnected from reality.", start: 1945.25, end: 1958.69}
+  - {text: "Even when the information we're getting is a fabrication, which I find quite depressing.", start: 1959.27, end: 1966.38}
+  - {text: "Yeah, I don't know if I'm that depressed about it.", start: 1966.92, end: 1969.30}
+  - {text: "The good version of a pizza tracker I love.", start: 1969.52, end: 1972.44}
+  - {text: "I like having more information.", start: 1972.86, end: 1974.42}
+  - {text: "I like knowing I can take a quick run before I have to be home to take delivery of a pizza, though it's true that now, after obsessively learning about pizza trackers,", start: 1974.42, end: 1985.88}
+  - {text: "every time I see one, I question how real it is, whether it's empowering me or tricking me.", start: 1986.80, end: 1993.58}
+  - {text: "And that just makes me anxious all over again.", start: 1994.04, end: 1997.88}
+  - {text: "Oh, wait, wait, wait.", start: 1999.32, end: 1999.86}
+  - {text: "How was the pie?", start: 2000.24, end: 2001.24}
+  - {text: "Oh, thank you for asking.", start: 2001.94, end: 2002.98}
+  - {text: "My family of four loved it.", start: 2003.44, end: 2005.36}
+  - {text: "Can you say pizza for the radio?", start: 2005.82, end: 2007.20}
+  - {text: "Pizza. Pizza. OK, see Alex.", start: 2008.00, end: 2015.14}
+  - {text: "Talk soon. All right.", start: 2015.46, end: 2016.42}
+  - {text: "Take care. If you haven't heard, our friends over at The Indicator have a new newsletter.", start: 2016.82, end: 2029.03}
+  - {text: "It comes out every Friday and it's full of economics tidbits and recommendations from their staff.", start: 2029.43, end: 2034.15}
+  - {text: "You can sign up at npr .org slash indicator newsletter.", start: 2034.67, end: 2037.93}
+  - {text: "Speaking of tasty tidbits, Alex, you have this new show, Gastronomics, which is about food and economics.", start: 2038.78, end: 2045.60}
+  - {text: "Give us the hard sell.", start: 2046.08, end: 2047.12}
+  - {text: "Gastronomics is about how economics shapes the modern menu.", start: 2047.56, end: 2050.70}
+  - {text: "A recent episode was about how trend forecasters use data and some economics to predict the future popularity of foods like Ube and hot honey.", start: 2051.18, end: 2059.62}
+  - {text: "You can find the show on Spotify, YouTube and all your normal spots.", start: 2060.20, end: 2064.38}
+  - {text: "This episode was produced by Sam Yellow Horse Kessler, edited by the great Liza Jaeger, backchecked by Sierra Juarez and engineered by Sina LaFredo.", start: 2064.88, end: 2072.66}
+  - {text: "Alex Goldmark is our executive producer.", start: 2073.04, end: 2074.66}
+  - {text: "Special thanks to Jim Vitek, Marty Gage, the Hustle newsletter, Tammy Kim and Lauren Freese.", start: 2075.00, end: 2080.70}
+  - {text: "I'm Alex Mayasek. I'm Nick Fountain.", start: 2081.12, end: 2082.86}
+  - {text: "This is NPR. Thank you for listening.", start: 2083.16, end: 2085.18}
+  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 2096.53, end: 2099.91}
+  - {text: "Financial decisions can be tricky.", start: 2100.19, end: 2101.93}
+  - {text: "Your biases can lead you astray.", start: 2102.33, end: 2104.21}
+  - {text: "Financial Decoder, an original podcast from Charles Schwab, can help.", start: 2104.21, end: 2108.49}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash financial decoder.", start: 2108.79, end: 2114.25}
+  - {text: "This message comes from Northwestern Mutual.", start: 2114.87, end: 2117.13}
+  - {text: "For nearly 170 years, they've helped clients succeed with strategies to help grow and protect their money.", start: 2117.45, end: 2124.35}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 2124.65, end: 2130.03}
+  - {text: "This message comes from Capital One.", start: 2130.87, end: 2132.83}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 2132.83, end: 2136.85}
+  - {text: "What's in your wallet?", start: 2136.91, end: 2137.85}
+  - {text: "Terms apply. See Capital One dot com slash bank guy for details.", start: 2138.15, end: 2142.25}
+  - {text: "Capital One N .A. member FDIC.", start: 2142.59, end: 2144.83}
+---

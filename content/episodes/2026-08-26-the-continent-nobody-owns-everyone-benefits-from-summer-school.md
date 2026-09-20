@@ -1,0 +1,546 @@
+---
+layout: single
+title: "The continent nobody owns & everyone benefits from (Summer School)"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-08-26T00:00:00Z
+slug: "2026-08-26-the-continent-nobody-owns-everyone-benefits-from-summer-school"
+audioDir: "2026-08-26-the-continent-nobody-owns-everyone-benefits-from-summer-school"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-08-26-the-continent-nobody-owns-everyone-benefits-from-summer-school/episode.mp3"
+totalDuration: 2679.6
+sentences:
+  - {text: "This message comes from Capital One Commercial Bank.", start: 0.00, end: 2.54}
+  - {text: "Access comprehensive solutions from a top commercial bank that prioritizes your needs today and goals for tomorrow.", start: 2.76, end: 10.06}
+  - {text: "Learn more at capital .one -slash -commercial, member FDIC.", start: 10.46, end: 14.64}
+  - {text: "This is Planet Money from NPR.", start: 16.16, end: 18.54}
+  - {text: "Welcome back everyone to Planet Money Summer School World Tour.", start: 32.14, end: 35.92}
+  - {text: "Today is graduation day.", start: 36.36, end: 38.12}
+  - {text: "We have drilled for oil in Norway, smuggled products into North Korea, traveled the bridges to nowhere in China and bargained for water rights in Australia.", start: 38.32, end: 47.34}
+  - {text: "We've met a paint entrepreneur in Nigeria, shoe salesman in Argentina, and an inflation tamer in New Zealand.", start: 47.74, end: 54.08}
+  - {text: "And all the while we've been gathering up lessons in economics that we can put to use back here, back home.", start: 54.52, end: 60.04}
+  - {text: "As part of today's graduation celebration, we will hear from your fellow members of the summer school class of 2026.", start: 60.64, end: 67.42}
+  - {text: "Listeners like you who have written in from around the globe with their provocative ideas that could just make life a little better for all of us", start: 68.10, end: 74.80}
+  - {text: "if we have the will to do it.", start: 75.40, end: 77.08}
+  - {text: "We'll feature the very best ideas near the end of the show.", start: 77.58, end: 79.90}
+  - {text: "And then all that's left is for you to take a short online test and receive your totally real, but not legal diploma.", start: 80.38, end: 86.46}
+  - {text: "The test is at npr .org slash summer school.", start: 87.18, end: 90.20}
+  - {text: "Before we play the pomp and give our speeches and all, I do have a confession to make.", start: 90.82, end: 95.80}
+  - {text: "When we started summer school, I came up with what I thought was a pretty clever tagline.", start: 96.32, end: 100.44}
+  - {text: "Seven continents, eight weeks, 1 ,000 ideas.", start: 101.46, end: 104.78}
+  - {text: "I think we've delivered on the eight weeks part and all the ideas, but we are missing a continent.", start: 105.64, end: 111.16}
+  - {text: "We have gone all summer and we have not talked about Antarctica.", start: 111.68, end: 115.40}
+  - {text: "The problem I discovered is that planet money has never been to Antarctica.", start: 116.14, end: 119.44}
+  - {text: "And I wasn't even sure there were economic ideas to talk about there.", start: 119.76, end: 123.36}
+  - {text: "Can young penguins not afford to buy their own nests?", start: 123.74, end: 126.62}
+  - {text: "Is the exchange rate of ice to snow out of whack?", start: 126.96, end: 129.88}
+  - {text: "But after working all summer to find something, we discovered that there are some profound rules of economics at work on the continent, waiting for us down on the ice, down on the glaciers.", start: 130.40, end: 141.58}
+  - {text: "We even discovered an economist who did something remarkable.", start: 142.10, end: 144.96}
+  - {text: "She figured out exactly what Antarctica was worth.", start: 145.52, end: 148.78}
+  - {text: "She put a price tag on the whole continent and she joins us as our professor today.", start: 149.20, end: 153.24}
+  - {text: "Hi, I'm Natalie Stockel.", start: 153.66, end: 155.34}
+  - {text: "I'm a professor of economics at the University of Tasmania.", start: 155.34, end: 158.56}
+  - {text: "So you live off the southern coast of Australia.", start: 158.92, end: 162.20}
+  - {text: "Are you the closest economist to Antarctica?", start: 162.52, end: 165.78}
+  - {text: "I could be. There might be some down on the bottom of South America.", start: 166.46, end: 170.78}
+  - {text: "So it could be that there are some there.", start: 171.42, end: 173.06}
+  - {text: "They could well be some there, yes.", start: 173.76, end: 175.60}
+  - {text: "So have you actually been there?", start: 175.80, end: 177.34}
+  - {text: "Have you stepped on the ice?", start: 177.44, end: 178.28}
+  - {text: "I have not stepped on the ice yet.", start: 178.52, end: 180.50}
+  - {text: "They have all these scientists there.", start: 180.66, end: 182.36}
+  - {text: "They need economists on the ground.", start: 182.52, end: 184.44}
+  - {text: "Well, this is what I think we need to tell the world.", start: 184.44, end: 186.84}
+  - {text: "Yes, I would agree.", start: 187.02, end: 188.02}
+  - {text: "So what does an economist do when studying Antarctica?", start: 188.48, end: 191.54}
+  - {text: "It doesn't have money.", start: 191.98, end: 193.20}
+  - {text: "It has no private ownership.", start: 193.64, end: 194.92}
+  - {text: "It seems like the one place where economics doesn't exist.", start: 195.28, end: 199.50}
+  - {text: "Tell me I'm wrong.", start: 199.82, end: 200.64}
+  - {text: "Oh, absolutely wrong. It means there's no markets that exist.", start: 201.06, end: 204.48}
+  - {text: "But economics is about far more than markets and it's trying to use insights from that to think about resources around the world.", start: 205.10, end: 213.52}
+  - {text: "And I think Antarctica may not have many markets, but the goods and services that it supplies to the rest of the world are massive, really hugely important to the entire world economy.", start: 214.16, end: 226.88}
+  - {text: "You in fact put a price on what Antarctica is worth to the planet.", start: 227.36, end: 234.52}
+  - {text: "And we will get to that in just a moment.", start: 234.74, end: 236.64}
+  - {text: "But before we do, I want to go back and just talk about this concept of Antarctica.", start: 236.80, end: 241.48}
+  - {text: "Who owns it? I suppose philosophically you could say that the entire world owns it in terms of it.", start: 242.30, end: 249.32}
+  - {text: "It's a resource for all.", start: 249.40, end: 251.48}
+  - {text: "Countries around the world have agreed not to have a massive land grab and to actually collectively look at how they can manage various operations that are being undertaken down there.", start: 251.90, end: 264.62}
+  - {text: "So it's a collaborative form of governance through the Antarctic Treaty system.", start: 264.96, end: 269.44}
+  - {text: "I look this up.", start: 269.88, end: 270.68}
+  - {text: "It is my understanding that the treaty says that Antarctica is reserved for peaceful purposes in scientific research.", start: 270.68, end: 276.90}
+  - {text: "46 countries have signed it.", start: 277.28, end: 278.70}
+  - {text: "It's officially shared territory, no military bases or mining companies.", start: 279.14, end: 283.50}
+  - {text: "But how exactly is this enforced?", start: 284.32, end: 286.76}
+  - {text: "What would happen if a rogue country, and some countries do have old claims on the territory, what would happen if a rogue country decided they wanted to build a golf resort or a strip mining operation?", start: 287.34, end: 298.40}
+  - {text: "Can anyone stop them?", start: 298.76, end: 299.74}
+  - {text: "A system that relies very much on trust.", start: 300.08, end: 303.50}
+  - {text: "It relies on that willingness to collaborate.", start: 303.86, end: 306.58}
+  - {text: "It relies on having respect for the other partners who are in there.", start: 307.12, end: 312.54}
+  - {text: "And it does rely on having some sort of sanction so that if someone does misbehave, you can actually slap them on the wrist.", start: 312.86, end: 322.10}
+  - {text: "And I think in any collaborative system, there needs to be a way of making sure that the people who are playing the game are actually doing the right thing by everyone.", start: 322.22, end: 331.78}
+  - {text: "I'm sort of amazed.", start: 332.24, end: 333.32}
+  - {text: "It feels like something out of the 1950s when this treaty was signed.", start: 333.52, end: 337.84}
+  - {text: "You're talking about trust and cooperation and gentle nudges.", start: 338.08, end: 342.14}
+  - {text: "It doesn't seem like there's many places anymore in the world, and maybe this is my view from the United States, where those things still exist.", start: 342.56, end: 351.36}
+  - {text: "There's enough trust to manage something that is immensely valuable.", start: 351.66, end: 355.56}
+  - {text: "The world is going through, I think, a somewhat sad and depressing trend where the trust is breaking down.", start: 355.56, end: 362.06}
+  - {text: "And I think we just need to work harder to say, no, trust is valuable.", start: 362.30, end: 367.08}
+  - {text: "It's really important. And that's what keeps our world to be a wonderful place to live in.", start: 367.30, end: 372.32}
+  - {text: "We will return with our professor in a moment, and we will visit this strange world of trust and cooperation.", start: 376.22, end: 381.96}
+  - {text: "We'll take you inside McMurdo Station, the largest human settlement and scientific base on Antarctica.", start: 382.32, end: 388.12}
+  - {text: "We had a listener right in who actually worked there in commerce for money, perhaps the only business person on the ice.", start: 388.12, end: 394.86}
+  - {text: "We'll also have our professor return and give us a tally of the economic impact of the seventh continent.", start: 395.14, end: 400.26}
+  - {text: "It's a lot after the break.", start: 400.72, end: 402.84}
+  - {text: "This message comes from Schwab.", start: 407.70, end: 409.36}
+  - {text: "At Schwab, you can get everything from self -directed investing to full -service wealth management, all in one place.", start: 409.84, end: 416.04}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 416.44, end: 423.48}
+  - {text: "This message comes from Northwestern Mutual.", start: 424.10, end: 426.50}
+  - {text: "Life's a lot lately.", start: 426.90, end: 428.32}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 428.72, end: 432.84}
+  - {text: "It all starts with Northwestern Mutual.", start: 433.24, end: 435.10}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 435.48, end: 443.36}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 443.86, end: 448.98}
+  - {text: "This message comes from Capella University.", start: 449.92, end: 452.40}
+  - {text: "That spark you feel?", start: 452.82, end: 453.78}
+  - {text: "That's your drive for more.", start: 454.10, end: 455.48}
+  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 455.82, end: 461.76}
+  - {text: "Learn more at capella .edu.", start: 462.18, end: 463.74}
+  - {text: "Okay, class, you have been issued a parka, boots, face covering, and protective goggles.", start: 466.45, end: 471.99}
+  - {text: "Do not forget to sign the waiver forms because we are going to the South Pole.", start: 472.27, end: 476.53}
+  - {text: "As I mentioned, Planet Money has never been there, but I did remember that back in the 1970s, NPR sent a reporter to Antarctica, and it", start: 477.21, end: 485.41}
+  - {text: "was a really big deal at the time.", start: 485.41, end: 486.65}
+  - {text: "NPR was just starting out as a national broadcaster in the 1970s.", start: 486.91, end: 490.75}
+  - {text: "The theme song for our news program, you're gonna love this, had this synthy vibe.", start: 491.01, end: 495.43}
+  - {text: "So, 70s, they should bring it back.", start: 501.84, end: 503.44}
+  - {text: "NPR did not have a lot of money or access at the time, but science reporter Ira Flado managed to score an invite to visit the South Pole.", start: 503.88, end: 512.26}
+  - {text: "There's this famous photo of him standing on the ice, holding a microphone out to a bunch of penguins.", start: 512.72, end: 518.52}
+  - {text: "I think it's one of the things that inspired me to become a radio reporter.", start: 518.66, end: 522.02}
+  - {text: "Let's hear a little bit of Ira talking to NPR host Barbara Hockter Lynch after he returned from the South Pole.", start: 522.56, end: 528.70}
+  - {text: "This is just a little taste of what the Antarctic Treaty is trying to protect.", start: 529.04, end: 533.02}
+  - {text: "We saw the penguins sitting on the edge of an ice flow where the ocean meets the ice, and we came up to them.", start: 533.68, end: 542.16}
+  - {text: "And as they approached us, they greeted us with these sounds, a very interesting sound.", start: 542.16, end: 547.24}
+  - {text: "That's right, speak for me.", start: 556.67, end: 557.75}
+  - {text: "Mr. Penguin, speak for me, who is that?", start: 558.05, end: 559.35}
+  - {text: "That's another sound of Antarctica.", start: 559.37, end: 560.25}
+  - {text: "That's a reporter trying to interview a penguin.", start: 560.47, end: 562.41}
+  - {text: "My goodness, reporters will interview anything.", start: 562.73, end: 564.47}
+  - {text: "On the way from meeting the penguins, we ran into another very strange sound.", start: 566.29, end: 572.11}
+  - {text: "Now, this sound here, isn't that something?", start: 572.33, end: 579.01}
+  - {text: "It sounds like something from outer space.", start: 579.25, end: 580.99}
+  - {text: "It sounds like synthesized music or something.", start: 581.43, end: 583.89}
+  - {text: "Yes, electronic almost. Well, these are underwater sounds made by wettled seals.", start: 583.89, end: 588.99}
+  - {text: "These are 1 ,000 -pound seals that swim under the ice, and they come up above the ground, onto the ice, above the ice, I should say,", start: 589.35, end: 596.37}
+  - {text: "and then they have their puppies there and they bask in the sun and rest and sleep.", start: 596.43, end: 600.37}
+  - {text: "Oh, my. There are 35 different sounds these seals make underwater, and they don't know what they mean.", start: 601.09, end: 606.89}
+  - {text: "But they're communicating with one another.", start: 607.17, end: 608.83}
+  - {text: "They think so. They think they may be ranging like whales and porpoises sending out sonar type of sounds, but they cannot prove it yet.", start: 609.09, end: 617.97}
+  - {text: "It's not a bird, it's a seal.", start: 620.19, end: 621.61}
+  - {text: "That is unbelievable. It sounds like a symphony almost, like they're in harmony with one another.", start: 621.81, end: 626.65}
+  - {text: "So let me just break in here, Robert Smith here.", start: 627.42, end: 629.70}
+  - {text: "That is the natural side of Antarctica.", start: 630.18, end: 632.36}
+  - {text: "That's what the treaty is there to protect.", start: 632.60, end: 634.62}
+  - {text: "But there's also the man -made part of the continent, McMurdo Station.", start: 634.82, end: 638.48}
+  - {text: "That is the US -operated base for scientific research.", start: 639.02, end: 641.80}
+  - {text: "And it's also essentially a small company town of 2 ,000 people who come and go throughout the year.", start: 642.08, end: 647.06}
+  - {text: "And where you have workers, that means that business and economics come into play.", start: 647.50, end: 651.84}
+  - {text: "Let's play a little bit of Ira's tour of McMurdo Station and the sound of life there in 1979.", start: 652.44, end: 657.54}
+  - {text: "And we'll give you an update afterwards.", start: 658.24, end: 659.58}
+  - {text: "McMurdo itself is unlike the rest of the continent.", start: 660.20, end: 662.78}
+  - {text: "McMurdo is the New York City of Antarctica, noisier, dirtier and more developed than any other base.", start: 663.20, end: 668.66}
+  - {text: "A diesel -powered electric generator drones on incessantly.", start: 672.34, end: 675.42}
+  - {text: "Diesel fuel trickles across the frozen soil.", start: 675.42, end: 678.16}
+  - {text: "Pipes, cables and telephone poles are all reminders that Americans have brought not only their science, but their society with them to this remote location.", start: 678.62, end: 686.22}
+  - {text: "Here are movie houses, mess halls, a post office, general store, infirmary and four drinking clubs.", start: 686.82, end: 692.24}
+  - {text: "But regardless of how the Americans try to make it feel like home, there is always one reminder of exactly where you are.", start: 692.70, end: 698.48}
+  - {text: "It is this. A huge door, actually a freezer door, made for a supermarket meat locker, but affixed to every building.", start: 698.78, end: 706.02}
+  - {text: "A door with a huge round knob or long pull handles.", start: 706.46, end: 709.38}
+  - {text: "Only this one is designed to keep the cold out, not in.", start: 709.72, end: 712.84}
+  - {text: "Sometimes not only the door, but the entire meat locker is here, like the ones on the ice runway.", start: 713.96, end: 718.94}
+  - {text: "A few meat lockers are strung together and into them are stuffed the cuts, furniture, clothing and people.", start: 719.38, end: 724.80}
+  - {text: "The Navy personnel that manicure the runway and service the planes.", start: 725.20, end: 728.66}
+  - {text: "For other servicemen, small canvas covered Quonset Huts, the James Ways, serve as their sleeping quarters.", start: 729.34, end: 734.58}
+  - {text: "Another incessant sound at McMurdo was the roar of helicopter engines.", start: 735.36, end: 738.52}
+  - {text: "McMurdo serves as the jumping off point for hundreds of scientists who use helicopters, planes, snowmobiles and sleds to take their research field parties to other parts of the continent.", start: 739.08, end: 747.92}
+  - {text: "One of those places the most coveted for both scientists and sightseers is the South Pole.", start: 748.52, end: 752.88}
+  - {text: "Tomorrow we take a trip to the pole, a place where very few people have ever been.", start: 753.20, end: 757.24}
+  - {text: "That was NPR's Ira Flado in 1979.", start: 757.72, end: 760.02}
+  - {text: "As much as I would love to play all of his reports from the South Pole, we are going to stay at McMurdo station for a few more minutes.", start: 760.62, end: 767.34}
+  - {text: "45 years later, the place still has a frontier industrial town feel, but they have much stricter environmental regulations about spilling fuel and recycling waste.", start: 767.68, end: 776.64}
+  - {text: "I also hear the dormitories are much nicer than Huts at this point and they are heated.", start: 776.94, end: 781.88}
+  - {text: "And you may remember that Ira mentioned a store at McMurdo, which got our attention here at Planet Money.", start: 782.48, end: 787.96}
+  - {text: "We had a number of listeners write in recommending people we could talk to about this and found one that actually worked at the Navy's store", start: 787.96, end: 795.74}
+  - {text: "down there for a few years in the 1980s.", start: 795.74, end: 798.56}
+  - {text: "Perhaps the sole businesswoman in the entire place.", start: 798.66, end: 801.24}
+  - {text: "My name is Liz Walters.", start: 801.70, end: 803.26}
+  - {text: "I was the dispersing officer and the ship store officer.", start: 803.66, end: 806.84}
+  - {text: "So I didn't know this, but there is a whole part of the Navy that runs general stores on all the big ships around the world.", start: 807.34, end: 813.24}
+  - {text: "And they operated one out of McMurdo station.", start: 813.50, end: 815.78}
+  - {text: "People need to get paid and people need to be able to buy snacks and ball caps and stuff.", start: 816.48, end: 825.64}
+  - {text: "I mean, everyone needs stuff.", start: 826.16, end: 828.22}
+  - {text: "Liz ran the Antarctic store, which means she ordered the merchandise, which could take six months to arrive.", start: 828.88, end: 834.14}
+  - {text: "She organized the tiny, tiny space.", start: 834.60, end: 836.48}
+  - {text: "She set prices. There were a couple of weird things about running a store in such a remote place.", start: 836.74, end: 842.04}
+  - {text: "One was that your customers already have everything they need for free.", start: 842.48, end: 846.88}
+  - {text: "If you're a scientist there, the food is included, the lodging is included, the equipment and clothing are included.", start: 847.50, end: 853.36}
+  - {text: "So what would people want to even buy in a store like this?", start: 853.90, end: 857.54}
+  - {text: "Liz discovered when she got there that Antarctic shopping isn't a necessity.", start: 858.30, end: 862.96}
+  - {text: "It's something you do when you are bored.", start: 863.62, end: 866.08}
+  - {text: "Economics is all about scarcity and the scarcest resource in Antarctica is entertainment.", start: 866.86, end: 872.14}
+  - {text: "It was an event.", start: 872.98, end: 874.44}
+  - {text: "It was a way of killing time in a place where people are working six days a week and they get one day a week off", start: 874.44, end: 883.38}
+  - {text: "and they have evenings and they still need to kill time because there is nothing to do.", start: 883.38, end: 888.44}
+  - {text: "So the people would come to the ship's door and they would stand there in front of the door waiting there for someone to leave so one more person could go in", start: 889.30, end: 897.74}
+  - {text: "and then they would come into the store and it was like not quite a scavenger hunt but it was like what's new?", start: 897.74, end: 904.66}
+  - {text: "What's new in the store that I can look at?", start: 904.94, end: 908.20}
+  - {text: "Liz had to figure out how she could amp up this sense of fun, this sense of entertainment.", start: 908.74, end: 913.18}
+  - {text: "One thing she did when she arrived was to clear out all the merchandise that wasn't selling.", start: 913.66, end: 917.48}
+  - {text: "They had stocked towels for instance and towels were included in other parts of the station so no one needed more towels.", start: 917.96, end: 925.16}
+  - {text: "She also found some pretty suspect 1980s novelty items.", start: 925.56, end: 929.46}
+  - {text: "We had bikini panties, women's bikini panties with a logo on the crotch that said the coldest place on earth.", start: 929.46, end: 939.46}
+  - {text: "Can you imagine anyone buying that as a Christmas present for their wife?", start: 939.78, end: 945.64}
+  - {text: "I mean less than 10 % of the people on the ice were women.", start: 946.18, end: 949.82}
+  - {text: "Liz ditched the panties and started to commission new logos something surprising that she could put on hats and t -shirts.", start: 950.44, end: 956.82}
+  - {text: "People wanted entertainment and novelty and appropriate presents for the wife and she had them made from scratch.", start: 957.32, end: 962.96}
+  - {text: "And then sure as she was, Liz didn't just let people see all her new merchandise at once.", start: 963.64, end: 968.98}
+  - {text: "Remember, this is a show.", start: 969.48, end: 971.06}
+  - {text: "So when I had new stuff, I wouldn't immediately bring in every new thing that came in.", start: 972.82, end: 979.74}
+  - {text: "I would bring in one thing and then I would let them search for it.", start: 980.48, end: 984.24}
+  - {text: "I would just dribble it out as slowly as possible so that during the long weeks, especially at Christmas time we could go like three weeks without an airplane.", start: 984.76, end: 995.74}
+  - {text: "So I tried to put something new in the store every week, some new item so that people could have a big discover moment.", start: 996.44, end: 1003.78}
+  - {text: "And then what I would do is I would rearrange the store.", start: 1004.32, end: 1007.42}
+  - {text: "I would just move things around, especially the things that people would see while they were waiting to come into the store.", start: 1007.80, end: 1014.08}
+  - {text: "That was kind of my featured things.", start: 1014.38, end: 1016.20}
+  - {text: "So the things that I thought should probably sell better than they were, that's where I would put them so that people would have to stare at them", start: 1016.66, end: 1024.44}
+  - {text: "while they were waiting to come into the store.", start: 1024.44, end: 1026.44}
+  - {text: "Liz Walters spent a few seasons on the ice, as they say, working the Navy store at McMurdo Station.", start: 1027.02, end: 1032.50}
+  - {text: "It would not surprise you that after a Navy stint was finished, she went into business for herself.", start: 1032.90, end: 1036.96}
+  - {text: "I feel like we're putting the Antarctic puzzle together here.", start: 1037.50, end: 1040.18}
+  - {text: "We have our penguins and seals making their strange sounds.", start: 1040.48, end: 1043.00}
+  - {text: "We have a tiny amount of buying and selling going on in novelty gifts.", start: 1043.34, end: 1046.90}
+  - {text: "Can this be the sum economic total for an entire continent?", start: 1047.38, end: 1050.52}
+  - {text: "Our professor that we talked to at the beginning of the show says no.", start: 1051.26, end: 1053.90}
+  - {text: "No, there is something so big, so valuable there that it is hard to even see it unless you really zoom out.", start: 1054.34, end: 1062.24}
+  - {text: "But it totals up to billions of dollars in value.", start: 1062.62, end: 1065.28}
+  - {text: "Let's bring Natalie Stockel back in here.", start: 1065.84, end: 1067.98}
+  - {text: "Hey, Natalie. Thanks so much for having me.", start: 1068.24, end: 1069.90}
+  - {text: "I read a paper that you published a couple of years ago that crunched the numbers on the economic value of Antarctica and the ocean around it, the Southern Ocean,", start: 1070.18, end: 1079.16}
+  - {text: "the economic value of Antarctica to the entire world.", start: 1079.76, end: 1083.06}
+  - {text: "Before we get to that number, why put a dollar figure on something like this?", start: 1083.60, end: 1090.58}
+  - {text: "It makes me a little sad that we have to put a number on what this beautiful place is worth.", start: 1090.78, end: 1098.16}
+  - {text: "Yeah, look, my heart bleeds a little every time I put a value on things also.", start: 1098.52, end: 1102.86}
+  - {text: "But I agonize over this.", start: 1102.86, end: 1105.48}
+  - {text: "And I think one of the reasons I put values on things is because I realized that so many of the world's core decision makers don't", start: 1105.74, end: 1116.50}
+  - {text: "actually notice anything unless there's a price attached.", start: 1116.50, end: 1120.20}
+  - {text: "Now, some of this is because people don't care.", start: 1121.02, end: 1123.84}
+  - {text: "But I think also some of it is that the CEOs of corporations are hired to make sure that they focus on profit.", start: 1124.28, end: 1131.94}
+  - {text: "A lot of politicians are elected to try to make sure that they grow GDP.", start: 1132.41, end: 1137.48}
+  - {text: "So if something doesn't have a price attached to it, it's effectively invisible, markets don't see it, and they just end up trashing it.", start: 1138.48, end: 1147.64}
+  - {text: "So I suppose it's saying, look, I know a lot of people know that nature is deeply important.", start: 1148.12, end: 1154.20}
+  - {text: "They recognize it, but unless we make the invisible visible, it will get hammered.", start: 1154.34, end: 1160.60}
+  - {text: "Well, let's break down how you put a value on an entire continent.", start: 1160.60, end: 1165.74}
+  - {text: "We'll start with the most obvious one, which is tourism.", start: 1166.24, end: 1169.70}
+  - {text: "I see people on Instagram who are on ships off the coast of Antarctica.", start: 1170.10, end: 1174.46}
+  - {text: "So it definitely happens.", start: 1175.08, end: 1176.02}
+  - {text: "It used to be in the thousands and now probably more than 100 ,000 people.", start: 1176.08, end: 1179.66}
+  - {text: "Is that right? Indeed, it's 100 ,000 and rising.", start: 1179.78, end: 1183.80}
+  - {text: "It's growing in popularity, like most tourism destinations.", start: 1184.26, end: 1188.40}
+  - {text: "You get the early explorers and over time, you get more and more people coming.", start: 1188.40, end: 1193.10}
+  - {text: "I am googling this so that I can go there someday.", start: 1193.48, end: 1196.84}
+  - {text: "It seems like you mostly stay on a cruise ship and you look at Antarctica, maybe some day trips to the shore to see the penguins and take selfies, that kind of thing.", start: 1197.10, end: 1206.28}
+  - {text: "I think they tightly control access to the interior and the station.", start: 1206.70, end: 1210.06}
+  - {text: "Even this just glimpsing of Antarctica is big business.", start: 1210.54, end: 1213.56}
+  - {text: "In your research paper, you say the value of the tourism industry is worth around $820 million.", start: 1213.84, end: 1219.52}
+  - {text: "Yes, it was pretty close to that.", start: 1220.36, end: 1221.84}
+  - {text: "And it doesn't mean that that's how much people spend, but that's our best estimate of the value that people get from it over and above", start: 1221.96, end: 1230.92}
+  - {text: "what's actually the cost of the resources used up to provide the tourism.", start: 1230.92, end: 1235.22}
+  - {text: "Okay, so that one makes sense.", start: 1235.68, end: 1236.92}
+  - {text: "Another one that we're used to thinking about is fisheries.", start: 1237.26, end: 1240.80}
+  - {text: "There are tons of fish caught in the region and you estimated that value too.", start: 1241.06, end: 1246.56}
+  - {text: "$370 million a year, so along with tourism and fish were over a billion dollars.", start: 1246.96, end: 1252.98}
+  - {text: "Yes. Okay, so this is when it gets a little more interesting because you posit that Antarctica isn't just a place with things, that Antarctica is actually providing a service to the world and like any service, you can put a price on that.", start: 1253.36, end: 1274.42}
+  - {text: "What has Antarctica ever done for me?", start: 1274.66, end: 1276.62}
+  - {text: "What is that? That's a lovely way of actually phrasing it.", start: 1276.86, end: 1280.96}
+  - {text: "I think Antarctica provides these services that are all but invisible to most people throughout the world.", start: 1281.30, end: 1287.72}
+  - {text: "If only 100 ,000 people ever visit the continent each year, then clearly most people don't see it.", start: 1287.92, end: 1293.76}
+  - {text: "But for a start, it's got this massive ice cap and that ice is bright white, reflects the sun and that helps to keep the planet cool.", start: 1294.14, end: 1304.14}
+  - {text: "It also has these oceans which absorb massive amounts of carbon dioxide and again that helps to keep the oceans cool.", start: 1304.74, end: 1314.70}
+  - {text: "So if in fact Antarctica did not exist and we lost all those sort of regulating services, the climate regulating services, you could imagine that the climate would be much more unstable.", start: 1315.26, end: 1327.98}
+  - {text: "There could potentially be much less agriculture.", start: 1328.28, end: 1330.72}
+  - {text: "There could be many more extreme events.", start: 1331.18, end: 1333.24}
+  - {text: "There'd be sea level rise and the damages that could arise if we didn't have those regulating services are massive.", start: 1333.44, end: 1341.30}
+  - {text: "It's interesting. I will pay money for someone to store my crap in a storage unit and essentially Antarctica is a storage unit for a lot of water in the form of ice.", start: 1341.66, end: 1355.18}
+  - {text: "And by storing that water for me and everyone else on the planet, that means that water isn't lapping up to my apartment in Brooklyn, New York", start: 1355.58, end: 1364.76}
+  - {text: "where I am only a couple of miles from the ocean.", start: 1364.76, end: 1367.10}
+  - {text: "That's a great way of explaining it.", start: 1367.64, end: 1369.58}
+  - {text: "And it is interesting that we will store things when they're next to us, when we're close to them, when we see them, we'll pay money to be able to clean", start: 1369.86, end: 1377.86}
+  - {text: "that up and get the crap out of the apartment and into a storage shed instead.", start: 1377.86, end: 1382.12}
+  - {text: "But it's almost like Antarctica becomes an outer side out of mind.", start: 1382.52, end: 1386.16}
+  - {text: "So we have found value in tourism, fish and this environmental service that it provides to all of us.", start: 1386.46, end: 1393.24}
+  - {text: "And to be clear, the way Antarctica produces this economic benefit is by staying the way it is by not mining it or developing it, by remaining natural.", start: 1393.28, end: 1402.72}
+  - {text: "If we total up all that we've talked about today about the value of Antarctica, what is the continent worth?", start: 1403.16, end: 1409.52}
+  - {text: "Well, we collectively estimated at about 180 billion.", start: 1409.52, end: 1414.80}
+  - {text: "180 billion US dollars.", start: 1415.08, end: 1416.98}
+  - {text: "Per annum, yes. Oh, every year?", start: 1417.42, end: 1419.32}
+  - {text: "Yes. Who do we send the check to?", start: 1419.54, end: 1421.42}
+  - {text: "Wouldn't that be nice if we could actually put a trust in place?", start: 1424.40, end: 1428.76}
+  - {text: "I was thinking when I was listening to your podcast earlier and I had the trust that was put in place for the oil in Norway.", start: 1429.12, end: 1436.08}
+  - {text: "And if we could have a trust for Antarctica and somehow use that to protect Antarctica, the Southern Oceans and the other places, that would just be wonderful.", start: 1436.70, end: 1446.48}
+  - {text: "And then maybe we could look after the place that's doing such a good job of looking after us.", start: 1446.90, end: 1451.80}
+  - {text: "Oh, by the way, I think we need to make sure that President Trump doesn't find out that Antarctica is six times larger than Greenland and is worth 180 billion dollars.", start: 1452.20, end: 1462.82}
+  - {text: "We got to keep it hush -hush.", start: 1462.98, end: 1464.24}
+  - {text: "We'll keep it quiet.", start: 1464.84, end: 1465.96}
+  - {text: "Natalie Stockel is a professor of economics at the University of Tasmania.", start: 1466.32, end: 1470.26}
+  - {text: "Thanks for calling us from down under.", start: 1470.66, end: 1472.10}
+  - {text: "Thanks very much for having me.", start: 1472.48, end: 1473.76}
+  - {text: "It's been fun. As for the rest of you, coming up, we have the moment you have been waiting for all summer, graduation, complete with a final exam,", start: 1473.88, end: 1483.38}
+  - {text: "a diploma and student speakers sharing their insightful tips from around the world.", start: 1483.62, end: 1488.02}
+  - {text: "I'm going to put on my Planet Money Green PhD robe and join you all back on the lawn of Planet Money University after the break.", start: 1488.68, end: 1496.20}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1498.99, end: 1502.83}
+  - {text: "This message comes from Schwab.", start: 1503.61, end: 1505.05}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place, no matter your investing goal, life stage,", start: 1505.45, end: 1514.47}
+  - {text: "amount to invest or know how, you can invest your way with Schwab.", start: 1514.81, end: 1519.17}
+  - {text: "This message comes from Northwestern Mutual.", start: 1519.75, end: 1522.17}
+  - {text: "Life's a lot lately.", start: 1522.55, end: 1523.97}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1524.37, end: 1528.53}
+  - {text: "It all starts with Northwestern Mutual.", start: 1528.87, end: 1530.81}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1530.81, end: 1539.05}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1539.53, end: 1544.63}
+  - {text: "This message comes from BetterHelp.", start: 1545.55, end: 1547.31}
+  - {text: "Imagine carrying a backpack every day.", start: 1547.63, end: 1550.01}
+  - {text: "Inside it, every conversation, every mistake, every expectation.", start: 1550.31, end: 1554.23}
+  - {text: "It is easy not to notice how heavy it is until someone asks if you want to put it down.", start: 1554.79, end: 1560.17}
+  - {text: "Sometimes feeling better starts exactly like that.", start: 1560.17, end: 1563.29}
+  - {text: "Better isn't one size fits all.", start: 1563.69, end: 1565.35}
+  - {text: "Better is personal. It's therapy tailored to the individual to help lighten what you carry.", start: 1565.79, end: 1570.91}
+  - {text: "Match with a therapist who truly understands.", start: 1571.37, end: 1573.65}
+  - {text: "Visit betterhelp .com slash NPR.", start: 1574.29, end: 1576.95}
+  - {text: "Graduates, professors from around the world, kids listening in the back seats of your parents Subaru, welcome to the Planet Money Commencement Ceremony for the degree of Master in International Economics.", start: 1581.03, end: 1592.73}
+  - {text: "We have listened to the degree alone in our headphones, but hopefully we can come together today in celebration of what we have all achieved.", start: 1593.27, end: 1601.07}
+  - {text: "You may not recognize your fellow students at first, but when you are laying on the beach somewhere and the person next to you starts to talk about the vulnerabilities of small open economies like the Islands of the Caribbean,", start: 1601.77, end: 1611.31}
+  - {text: "you will know that you have found a fellow member of the Class of 2026.", start: 1612.07, end: 1615.85}
+  - {text: "We have no grades, so our graduation speakers were chosen from the people who wrote into the show.", start: 1616.45, end: 1621.81}
+  - {text: "Every week we've asked you to tell us something clever from a country you're in or a visited that we can maybe steal and bring back to the US.", start: 1622.31, end: 1629.03}
+  - {text: "And so many of you responded.", start: 1629.43, end: 1630.85}
+  - {text: "We picked our favorites and they will be this year's graduation salutatorian, valedictorian, econotorian, whatever else they call it.", start: 1631.37, end: 1639.49}
+  - {text: "First up, a listener from Japan with a clever lesson in the private use of public spaces.", start: 1639.81, end: 1646.53}
+  - {text: "My name is Lang Craig Hill.", start: 1647.94, end: 1649.48}
+  - {text: "I'm based in Tokyo, Japan, although I'm currently up in the mountains.", start: 1649.84, end: 1654.08}
+  - {text: "What is that I hear behind you, Lang?", start: 1654.58, end: 1656.68}
+  - {text: "Yeah, yeah, those are the cicadas.", start: 1657.76, end: 1659.24}
+  - {text: "Cicadas, okay, so you really are in the mountains.", start: 1659.78, end: 1662.12}
+  - {text: "Yeah, you're hearing the sound of the summer in Japan.", start: 1662.46, end: 1664.54}
+  - {text: "I called up Lang because he wrote in with an amazing fact.", start: 1665.73, end: 1668.51}
+  - {text: "For the most part, there is no street parking in Tokyo.", start: 1668.91, end: 1672.15}
+  - {text: "I live in New York City, so it is a constant battle to try to find a spot on the curb to park a two ton piece of metal, especially for free.", start: 1672.59, end: 1679.75}
+  - {text: "But in the narrow streets of Tokyo, they've mostly banned it.", start: 1680.19, end: 1683.31}
+  - {text: "There's no on -street parking.", start: 1683.71, end: 1684.85}
+  - {text: "No on -street parking.", start: 1685.23, end: 1686.23}
+  - {text: "There's no place to park my car in front of my place.", start: 1686.55, end: 1688.41}
+  - {text: "No. So most of the streets you see me to be saying in Tokyo are for driving.", start: 1688.71, end: 1694.43}
+  - {text: "If there is a street, there is somebody driving on it.", start: 1694.61, end: 1697.45}
+  - {text: "There's no room to put a car and park.", start: 1697.83, end: 1700.79}
+  - {text: "There's no room to put a car.", start: 1700.79, end: 1701.95}
+  - {text: "When a delivery vehicle comes to my house, they have to run up to the door and get back if a car comes up behind them.", start: 1702.21, end: 1709.45}
+  - {text: "Now, there are a lot of old cities with narrow medieval streets where parking is almost impossible.", start: 1709.85, end: 1714.87}
+  - {text: "Although if you've been to Europe, they will try to park anywhere they can.", start: 1715.23, end: 1718.87}
+  - {text: "In Tokyo, the amazing economic part of this is not just the lack of parking, but how the government deals with people who want to buy a car.", start: 1719.23, end: 1726.43}
+  - {text: "When you buy a car, you have to go down to the local police station and show a form that says you have an off -street parking space", start: 1726.89, end: 1738.18}
+  - {text: "that you either own or that you are paying for to keep that car.", start: 1738.18, end: 1741.88}
+  - {text: "You have to prove that you have the parking space before you can get the car.", start: 1742.34, end: 1745.28}
+  - {text: "Yes. Yeah. This is genius.", start: 1745.72, end: 1749.23}
+  - {text: "So that means that you always have a place to keep your car.", start: 1749.83, end: 1752.75}
+  - {text: "Do people hate this in Tokyo?", start: 1753.09, end: 1755.09}
+  - {text: "This seems like a lot of bureaucracy in that you can't park your car in front of your house.", start: 1755.73, end: 1759.51}
+  - {text: "No, it's just part of the environment.", start: 1759.51, end: 1762.27}
+  - {text: "It's part of the terrain.", start: 1762.53, end: 1763.39}
+  - {text: "Also, nobody expects to get around by car because the public transportation system is very good.", start: 1763.79, end: 1769.67}
+  - {text: "We've talked a lot in summer school about the concept of externality, which is some free things have an actual cost.", start: 1769.93, end: 1777.33}
+  - {text: "And the parking on your street may seem free, but it is not, in fact, free.", start: 1778.11, end: 1783.86}
+  - {text: "Everyone pays for it.", start: 1784.06, end: 1785.12}
+  - {text: "What you're saying is in Japan, the people who pay for their parking are the people with the cars.", start: 1785.48, end: 1789.66}
+  - {text: "Yeah, exactly. Lane Craig Hill in the cicada -filled mountains of Japan.", start: 1790.16, end: 1797.67}
+  - {text: "OK, city administrators of America, the ball is in your court.", start: 1798.19, end: 1802.07}
+  - {text: "Hopefully you're not up for reelection.", start: 1802.59, end: 1803.89}
+  - {text: "Our next graduation speaker and provocative idea comes from Vienna, Austria.", start: 1804.93, end: 1809.33}
+  - {text: "Lots of cities around the world have tried to tackle affordable housing.", start: 1809.97, end: 1813.05}
+  - {text: "Even here in New York, we have public housing for the poorest families and rent control for the lucky.", start: 1813.41, end: 1818.63}
+  - {text: "But I will tell you, this has not kept the rents down for the rest of us New Yorkers.", start: 1819.01, end: 1823.87}
+  - {text: "Our next graduation speaker wanted to suggest the way that Vienna handles this problem.", start: 1824.37, end: 1829.13}
+  - {text: "So hi, I'm Heine.", start: 1829.55, end: 1830.91}
+  - {text: "I'm 24. I'm an architecture student.", start: 1831.21, end: 1833.93}
+  - {text: "Heine has studied what is called social housing in Vienna.", start: 1834.47, end: 1837.81}
+  - {text: "It's like public housing for vast swaths of the middle class.", start: 1838.25, end: 1841.27}
+  - {text: "It's estimated that around half of the people in Vienna live in either government -supported housing or non -profit cooperatives or are covered under rent control, including Heine herself.", start: 1841.61, end: 1852.29}
+  - {text: "I moved into an apartment on my own for the first time back in October 2025.", start: 1852.63, end: 1858.51}
+  - {text: "The key to Vienna's system is that the government builds a lot of housing.", start: 1859.19, end: 1862.45}
+  - {text: "It takes land from things like the old city airport and unused train stations and builds large and very nice apartment complexes.", start: 1862.89, end: 1870.87}
+  - {text: "As a student, Heine was able to browse a website with hundreds of options, tell the city how much she was making in income and choose an apartment with a reasonable rent.", start: 1871.49, end: 1879.65}
+  - {text: "The only catch was she had to choose from the list without seeing the place.", start: 1880.13, end: 1884.15}
+  - {text: "So she did something clever.", start: 1884.43, end: 1885.47}
+  - {text: "Before she picked, she did a little snooping.", start: 1885.89, end: 1887.99}
+  - {text: "I would go to these buildings.", start: 1888.49, end: 1890.15}
+  - {text: "I would just randomly knock or try to get in and I'm like, hi, I'm an architecture student doing a survey on social housing.", start: 1890.55, end: 1899.99}
+  - {text: "Like, can you tell me what it is like to live here?", start: 1900.25, end: 1902.45}
+  - {text: "Do you like living here?", start: 1902.79, end: 1903.65}
+  - {text: "Do you like neighborhood?", start: 1903.65, end: 1904.41}
+  - {text: "What is what is it like?", start: 1904.79, end: 1905.95}
+  - {text: "She made her choice.", start: 1906.51, end: 1907.13}
+  - {text: "And when she was offered that apartment, she got to say yes or no.", start: 1907.45, end: 1910.91}
+  - {text: "There's no second chance you go in.", start: 1911.67, end: 1913.75}
+  - {text: "You're like, yes, I want to take the apartment.", start: 1913.89, end: 1915.57}
+  - {text: "You sign a paper and then you wait for them to change the locks.", start: 1916.03, end: 1919.09}
+  - {text: "It turned out great.", start: 1919.73, end: 1920.39}
+  - {text: "Cute place, cheaper rent than the private apartment she was paying.", start: 1920.69, end: 1923.39}
+  - {text: "But not by that much because nonprofit housing is so common in Vienna.", start: 1923.91, end: 1928.43}
+  - {text: "That pool of real estate competes with private apartments and keeps the rate of the private places in check.", start: 1929.05, end: 1935.03}
+  - {text: "One study showed that if you have a 10 % increase in nonprofit housing, rents in the for -profit buildings go down 5%.", start: 1935.59, end: 1943.49}
+  - {text: "The biggest controversy about the system is even though there are income limits to get in the apartment, you can keep staying there, even if your income goes up.", start: 1944.18, end: 1951.48}
+  - {text: "You're a student and you're working part -time in a cafe as a producer or something, but you're going to medical school, you become a well -earning doctor.", start: 1952.12, end: 1960.24}
+  - {text: "You still keep living in your social housing apartment with all the other workers and academics and people like that.", start: 1960.60, end: 1967.66}
+  - {text: "There has been some critique of this because people who are well -earning politicians or CEOs of big companies paying 200 euros a month for their first district central apartment,", start: 1968.16, end: 1980.96}
+  - {text: "which they took over in the 80s, kind of feels unfair for some people.", start: 1981.20, end: 1986.16}
+  - {text: "But I think in general, this is a very well done system.", start: 1986.16, end: 1989.94}
+  - {text: "Congratulations to summer school student Haini Miklos in Vienna.", start: 1990.70, end: 1994.22}
+  - {text: "It seems to illustrate the economic instinct that if you build more housing, the prices can remain steady and even perhaps become more affordable.", start: 1994.72, end: 2002.30}
+  - {text: "Our final graduation speaker today has an interesting twist on a finance system used around the world.", start: 2002.78, end: 2009.04}
+  - {text: "I'm Alex Malfitani. I'm a finance executive and I live in Sao Paulo, Brazil.", start: 2009.34, end: 2013.64}
+  - {text: "And in his country, if you want to make a big purchase, you can, of course, get a loan, but the interest rates are high.", start: 2014.36, end: 2019.94}
+  - {text: "So people have come up with another way.", start: 2020.44, end: 2022.28}
+  - {text: "So one interesting feature that we have here in Brazil is the consortium.", start: 2022.72, end: 2027.06}
+  - {text: "Consorcio, is that how you say it?", start: 2027.68, end: 2029.04}
+  - {text: "Exactly. And what is the literal translation of that word?", start: 2029.50, end: 2032.28}
+  - {text: "I guess it's kind of like a consortium, right?", start: 2033.32, end: 2035.34}
+  - {text: "It gives you that impression of something that you're putting together a group to do something as that group.", start: 2035.46, end: 2042.28}
+  - {text: "A consortium is what is known as a group self -financing system.", start: 2042.88, end: 2046.70}
+  - {text: "There are versions of this around the world called all sorts of different things, rosca's, sussus, cheat funds, and they work similarly.", start: 2047.04, end: 2054.10}
+  - {text: "Let's say you want to buy a car and your friend wants a down payment on a house and another wants to remodel their kitchen.", start: 2054.56, end: 2060.68}
+  - {text: "You all agree to pay into a group fund and then maybe the first month, you get to take the money out for the car.", start: 2061.14, end: 2066.44}
+  - {text: "You keep paying into this fund and the next month, your friend gets the kitchen remodel with his fancy stove.", start: 2066.80, end: 2072.48}
+  - {text: "The interesting thing about Brazil's version of this system is in that country, it doesn't have to be informal.", start: 2072.48, end: 2078.80}
+  - {text: "Banks themselves offer this service.", start: 2079.52, end: 2081.40}
+  - {text: "The banks will essentially organize these groups and they kind of put their institutional name and reputation behind these groups.", start: 2081.96, end: 2091.52}
+  - {text: "So that when people pool their money, it isn't just sitting in a coffee can somewhere.", start: 2092.00, end: 2096.44}
+  - {text: "It's in an actual bank account with some measure of accounting for it.", start: 2096.84, end: 2100.32}
+  - {text: "Exactly. Some regulation, the central bank has put rules about how this can work and the bank obviously don't do this for free so they charge a fee to manage the group.", start: 2100.44, end: 2111.00}
+  - {text: "So if you're in Brazil and you go into one of these consortios, do you sign a contract?", start: 2111.48, end: 2118.30}
+  - {text: "Are these people necessarily your friends that you're sharing money with or can it be with total strangers?", start: 2118.66, end: 2122.76}
+  - {text: "Total strangers, you sign a contract and that's one of the things.", start: 2123.65, end: 2126.57}
+  - {text: "You're locked in, right?", start: 2126.71, end: 2128.15}
+  - {text: "And so you actually have to keep paying the consortium until the end of that group until you pay.", start: 2128.15, end: 2135.55}
+  - {text: "So if we're talking about, let's say, a 36 -month consortium, even if you get your good or your item in the first month, you have to continue paying obviously until the last month", start: 2135.71, end: 2148.85}
+  - {text: "and you're obligated and that's part of the contract that you sign.", start: 2148.85, end: 2152.35}
+  - {text: "So if you sometimes have to wait to get your big chunk of money, why is it popular?", start: 2152.59, end: 2156.87}
+  - {text: "Alex says a traditional loan in Brazil could have an annual interest rate of, say, 25%.", start: 2156.87, end: 2162.67}
+  - {text: "But these consortios charge a one -time administrative fee that can range from 10 % to 20%.", start: 2162.67, end: 2168.41}
+  - {text: "It's not compound interest so it ends up being much less expensive.", start: 2168.41, end: 2172.57}
+  - {text: "It can also be indexed for inflation.", start: 2173.11, end: 2174.79}
+  - {text: "And so even though you got your house already, you may be paying inflation for somebody else's future house.", start: 2175.33, end: 2181.67}
+  - {text: "I wonder if there is something about this that makes it emotionally better than just borrowing money from a bank.", start: 2182.42, end: 2192.14}
+  - {text: "Is there some sort of feeling that you're in it together?", start: 2192.84, end: 2195.78}
+  - {text: "Are you more likely to pay this because you know that there's somebody like you who's also paying?", start: 2196.00, end: 2201.38}
+  - {text: "I think maybe. What I would venture is there is the lottery aspect, right?", start: 2203.35, end: 2209.51}
+  - {text: "Because if we formed a group with 50 other people, right?", start: 2209.51, end: 2212.89}
+  - {text: "Somebody is going to get their letter in month one.", start: 2213.43, end: 2216.55}
+  - {text: "Sorry, I forgot to mention that you get a letter of credit from the bank when it's your turn, not cash.", start: 2216.69, end: 2221.77}
+  - {text: "Somebody is going to get their letter in month one.", start: 2222.62, end: 2225.90}
+  - {text: "Somebody is gonna get their letter in month 50, right?", start: 2226.42, end: 2229.36}
+  - {text: "How do you decide by doing a random drawing of names?", start: 2229.78, end: 2233.66}
+  - {text: "And you know, if you're lucky enough to be the number one or two or three, you're gonna feel really good.", start: 2234.34, end: 2239.76}
+  - {text: "If you're number 48, 49, 50, you're gonna feel lousy.", start: 2239.98, end: 2244.56}
+  - {text: "And I think we all like to think we're lucky, especially if we like drawings, right?", start: 2244.62, end: 2250.40}
+  - {text: "And so I think there is that luck aspect or award aspect that I think helps.", start: 2250.60, end: 2257.08}
+  - {text: "And people say, you know what, I'm feeling lucky.", start: 2257.44, end: 2259.48}
+  - {text: "I think I'm gonna be awarded the letter very soon.", start: 2259.60, end: 2263.02}
+  - {text: "So this is much better than saving because then I would have to wait until the end or my end is gonna be much cheaper than getting a loan.", start: 2263.04, end: 2271.88}
+  - {text: "That is a very smart analysis because if you pay $100 the first month, $100 the second month, and then you get your $10 ,000 check", start: 2272.26, end: 2282.14}
+  - {text: "to buy the thing you want, that is going to feel like you have won the lottery.", start: 2282.84, end: 2288.18}
+  - {text: "Yeah, I think like anything, right?", start: 2288.44, end: 2289.98}
+  - {text: "You know, there is a contract, there are obligations.", start: 2290.16, end: 2291.80}
+  - {text: "You have to know exactly what you're getting into, but there are millions of people participating in consortias in Brazil.", start: 2292.38, end: 2298.62}
+  - {text: "I think this is a product that has found an audience that has found a customer base.", start: 2299.34, end: 2304.88}
+  - {text: "Alex Malfattani, summer school graduate, lives in Sao Paulo, Brazil.", start: 2305.32, end: 2309.56}
+  - {text: "And this idea for Brazil, the consortios, seems totally doable in the United States.", start: 2310.10, end: 2314.72}
+  - {text: "If you can split a burrito lunch over four easy payments, I think banks can make this happen.", start: 2315.02, end: 2320.70}
+  - {text: "It builds community, saves you money, and it feels like a lottery.", start: 2321.02, end: 2324.40}
+  - {text: "What could be better?", start: 2324.62, end: 2325.12}
+  - {text: "JP Morgan Chase, this is your moment.", start: 2325.46, end: 2327.48}
+  - {text: "Thanks everyone who wrote in.", start: 2328.06, end: 2329.14}
+  - {text: "I will say that many of your suggestions were intriguing enough that they may spark future episodes of Planet Money.", start: 2329.26, end: 2334.84}
+  - {text: "Stay tuned and stay with us after the break for the granting of diplomas and the links to the final exam.", start: 2335.22, end: 2340.94}
+  - {text: "I think all graduation ceremonies need intermissions.", start: 2341.64, end: 2344.64}
+  - {text: "This message comes from Schwab.", start: 2348.68, end: 2350.40}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place.", start: 2350.88, end: 2357.04}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 2357.52, end: 2364.50}
+  - {text: "This message comes from Capella University.", start: 2365.63, end: 2367.73}
+  - {text: "That spark you feel?", start: 2368.21, end: 2369.13}
+  - {text: "That's your drive for more.", start: 2369.43, end: 2370.81}
+  - {text: "Capella University's FlexPath learning format lets you earn your degree at your pace without putting life on pause.", start: 2371.21, end: 2377.13}
+  - {text: "Learn more at capella .edu.", start: 2377.55, end: 2379.09}
+  - {text: "I just wanna say a few words to the graduates in the audience today.", start: 2383.80, end: 2387.14}
+  - {text: "You sit here in a world that gets more international by the day.", start: 2387.66, end: 2390.82}
+  - {text: "A world where there are trade barriers, sure, but there are no tariffs of the mind.", start: 2391.32, end: 2395.94}
+  - {text: "I'm not even sure what that means, but let the man cook.", start: 2396.42, end: 2398.82}
+  - {text: "I know you signed up for this totally free and fake university for the imaginary travel and fascinating stories, but we hope you learned a little something along the way.", start: 2399.22, end: 2408.32}
+  - {text: "You now know what the flying geese are carrying.", start: 2408.80, end: 2411.24}
+  - {text: "It's industrial knowledge and factory investment.", start: 2411.92, end: 2414.20}
+  - {text: "You know your oil curse from your Dutch disease.", start: 2414.20, end: 2417.14}
+  - {text: "They're the same thing.", start: 2417.74, end: 2418.76}
+  - {text: "You can throw out the term multiple equilibria at dinner parties.", start: 2419.34, end: 2422.80}
+  - {text: "It means multiple things that can reasonably happen.", start: 2423.40, end: 2426.00}
+  - {text: "But these are just vocabulary words that will help you on your final exam.", start: 2426.56, end: 2429.74}
+  - {text: "What we really hope you got from the season, well, what I got anyway, is the sense that there are lots of different ways to create prosperity and happiness.", start: 2430.18, end: 2437.92}
+  - {text: "There are multiple equilibria, if you will.", start: 2438.26, end: 2440.82}
+  - {text: "The principles of economics are the same from Oslo to McMurdo Station, where all humans who make trade -offs every day who follow incentives, but every", start: 2441.44, end: 2449.68}
+  - {text: "country has a different way of using those principles to hopefully create the most good for the most number of people.", start: 2449.68, end: 2455.52}
+  - {text: "We've had a few cautionary tales along the way from the repressive government of North Korea to the currency misadventures of Argentina, but mostly we live in a world where people do get richer,", start: 2455.92, end: 2466.58}
+  - {text: "where there is less poverty and more technological marvels.", start: 2466.92, end: 2470.04}
+  - {text: "The secret to international economics is an open mind and the feeling that things can get better if we just learn the right lessons.", start: 2470.04, end: 2477.50}
+  - {text: "I wanna bring back our Antarctica professor for a moment, Natalie Stockel.", start: 2478.35, end: 2482.45}
+  - {text: "Any final words for the graduating class?", start: 2482.59, end: 2484.45}
+  - {text: "They're worthy of the honor, I would say.", start: 2484.99, end: 2486.63}
+  - {text: "What a fabulous course it's been.", start: 2486.93, end: 2488.93}
+  - {text: "I think probably one of the most interesting courses in international economics I've heard of before and it's been such fun to be part of it.", start: 2489.21, end: 2496.85}
+  - {text: "Huge congratulations to the students and I think and hope that they've enjoyed it as much as I have.", start: 2496.99, end: 2502.27}
+  - {text: "Excellent, thank you so much.", start: 2502.45, end: 2503.93}
+  - {text: "That was really nice.", start: 2503.99, end: 2504.63}
+  - {text: "We're gonna put that on the label.", start: 2505.09, end: 2507.01}
+  - {text: "Very happy for you to do so.", start: 2507.35, end: 2508.71}
+  - {text: "I will now read off every listener's name from Aaron Aronson to Zoe Zewinski after I turn off the microphone of course and presents you with a handshake and an empty folder.", start: 2509.33, end: 2520.23}
+  - {text: "The actual diploma to put inside the folder will take one more step.", start: 2520.67, end: 2523.93}
+  - {text: "The final exam, it is at npr .org slash summer school eight challenging questions to see if you have the right stuff to be an international economist.", start: 2524.39, end: 2534.11}
+  - {text: "If, sorry, when you pass, you will get an electronic diploma suitable for printing and framing.", start: 2534.29, end: 2540.77}
+  - {text: "That's at npr .org slash summer school.", start: 2541.21, end: 2544.09}
+  - {text: "Plus there's a link in the show notes.", start: 2544.31, end: 2545.71}
+  - {text: "Again, npr .org slash summer school.", start: 2545.99, end: 2548.85}
+  - {text: "If this is your first fake degree, may I suggest the six other seasons of summer school?", start: 2549.31, end: 2554.15}
+  - {text: "We have courses in micro and macro economics, a short season on investing.", start: 2554.37, end: 2558.65}
+  - {text: "In one course, we do the entire economic history of the world.", start: 2559.15, end: 2562.51}
+  - {text: "And in another, you could get your planet money MBA.", start: 2562.85, end: 2565.41}
+  - {text: "That should keep you occupied until next summer season.", start: 2566.93, end: 2569.41}
+  - {text: "They're all collected, by the way, in their own podcast feed where you can listen for 32 hours or more.", start: 2569.83, end: 2575.43}
+  - {text: "No double speed allowed.", start: 2576.17, end: 2577.13}
+  - {text: "And of course, I wouldn't be a professor unless I mentioned that the textbook for the course is available now.", start: 2577.81, end: 2582.79}
+  - {text: "It's called Planet Money, a guide to the economic forces that shape your life now that you can take a well -earned summer vacation, check out page 254 on the economics of leisure.", start: 2582.95, end: 2593.65}
+  - {text: "Or is it the economics of leisure?", start: 2594.29, end: 2596.43}
+  - {text: "We're gonna ask our fact checker.", start: 2597.13, end: 2598.29}
+  - {text: "Summer school is produced by Sophia Polisa Carr and Skyler Swenson.", start: 2598.69, end: 2602.15}
+  - {text: "It's edited by Alex Goldmark and fact checked by Charlotte Isidore.", start: 2602.43, end: 2606.11}
+  - {text: "This show is engineered by An Li Huang.", start: 2606.29, end: 2607.99}
+  - {text: "I'm Robert Smith. Until next time, you can find me on my new podcast called Business History, a show about the history of business.", start: 2608.57, end: 2615.31}
+  - {text: "This is NPR. You may throw your caps in the air.", start: 2615.82, end: 2619.21}
+  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 2619.64, end: 2630.81}
+  - {text: "This message comes from Capital One.", start: 2631.23, end: 2633.07}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 2633.33, end: 2637.05}
+  - {text: "What's in your wallet?", start: 2637.13, end: 2638.11}
+  - {text: "Terms apply. See capitalone .com slash bank guy for details.", start: 2638.39, end: 2642.43}
+  - {text: "Capital One NA, member FDIC.", start: 2642.89, end: 2645.09}
+  - {text: "This message comes from Capella University.", start: 2645.59, end: 2648.05}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 2648.45, end: 2652.95}
+  - {text: "That's your own drive, pushing you towards what's next.", start: 2653.31, end: 2656.63}
+  - {text: "Capella University gets that.", start: 2657.05, end: 2658.71}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 2659.01, end: 2665.13}
+  - {text: "You've built experience and know what you're capable of.", start: 2665.55, end: 2668.59}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 2668.95, end: 2672.99}
+  - {text: "The only real question is, what can't you do?", start: 2673.33, end: 2676.35}
+  - {text: "Learn more at capella .edu.", start: 2676.35, end: 2678.77}
+---

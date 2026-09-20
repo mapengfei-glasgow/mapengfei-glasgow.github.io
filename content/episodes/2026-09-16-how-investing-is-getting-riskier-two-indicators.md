@@ -1,0 +1,317 @@
+---
+layout: single
+title: "How investing is getting riskier (Two Indicators)"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-16T00:00:00Z
+slug: "2026-09-16-how-investing-is-getting-riskier-two-indicators"
+audioDir: "2026-09-16-how-investing-is-getting-riskier-two-indicators"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-16-how-investing-is-getting-riskier-two-indicators/episode.mp3"
+totalDuration: 1303.1
+sentences:
+  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16}
+  - {text: "Their September stock up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.50, end: 8.52}
+  - {text: "There, build your own family meal, feed to four for just $35.", start: 8.88, end: 12.62}
+  - {text: "Stock up at Whole Foods Market.", start: 13.28, end: 15.30}
+  - {text: "This is Planet Money from NPR.", start: 16.88, end: 19.20}
+  - {text: "Hey, Rekki. Hey, Waylon.", start: 22.29, end: 23.83}
+  - {text: "Tell me, what could you do if you wanted to invest $100 in apple stock but you only had $50?", start: 24.29, end: 30.71}
+  - {text: "Oh, I know the answer.", start: 31.35, end: 33.21}
+  - {text: "You are talking about margin trading, right?", start: 33.67, end: 36.69}
+  - {text: "Absolutely. I could set up a margin account with my brokerage firm, put my $50 in there, and then they could lend me the other $50,", start: 37.05, end: 44.83}
+  - {text: "of course, at a very high interest rate, and then I could buy that stock.", start: 45.35, end: 48.73}
+  - {text: "Let's rip some day trades.", start: 49.07, end: 50.59}
+  - {text: "Absolutely right. Investors in the U .S.", start: 50.81, end: 53.89}
+  - {text: "stock market are making a lot of these margin trades these days.", start: 53.95, end: 57.35}
+  - {text: "The total amount of borrowing is at an all -time record level over $1 .5 trillion.", start: 57.35, end: 64.13}
+  - {text: "That's up by 50 % from a year ago.", start: 64.87, end: 67.11}
+  - {text: "Woof, that is a lot of leverage.", start: 67.49, end: 69.49}
+  - {text: "Hello and welcome to Planet Money.", start: 70.03, end: 71.77}
+  - {text: "I'm Waylon Wong. And I'm Rekki Mulvey.", start: 72.11, end: 74.07}
+  - {text: "Investing behavior is changing a lot.", start: 74.55, end: 76.99}
+  - {text: "On one hand, it's easier than ever to participate in the stock market.", start: 77.67, end: 81.23}
+  - {text: "That means more people can share in wealth creation.", start: 81.51, end: 84.23}
+  - {text: "Great. In theory. On the other hand, we've seen more people taking more risks.", start: 84.23, end: 90.39}
+  - {text: "So today on the show, when margin trading goes wrong, a debt -fueled stock market crash in South Korea gives us a cautionary tale.", start: 90.95, end: 98.71}
+  - {text: "And can sports betting be an investment?", start: 99.05, end: 101.49}
+  - {text: "This is a growing view of gambling.", start: 101.97, end: 103.73}
+  - {text: "We have the data on how that works out.", start: 104.13, end: 105.91}
+  - {text: "This message comes from Schwab.", start: 113.66, end: 115.36}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place.", start: 115.36, end: 122.02}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 122.50, end: 129.48}
+  - {text: "This message comes from Odoo, the all -in -one business management software platform.", start: 130.45, end: 134.87}
+  - {text: "Whether you're a small or large business, Odoo gives you one flexible platform built to grow with you.", start: 135.41, end: 140.93}
+  - {text: "Try today for free at odoo .com slash PlanetMoney.", start: 140.93, end: 144.89}
+  - {text: "This message comes from Northwestern Mutual.", start: 145.57, end: 148.09}
+  - {text: "Life's a lot lately.", start: 148.45, end: 149.87}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 150.29, end: 154.41}
+  - {text: "It all starts with Northwestern Mutual.", start: 154.81, end: 156.67}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 157.05, end: 164.95}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 164.95, end: 170.59}
+  - {text: "The amount of margin debt at U .S.", start: 172.34, end: 174.34}
+  - {text: "brokerages is now greater than the total amount of American credit card debt.", start: 174.38, end: 178.80}
+  - {text: "More money is being borrowed to play with the stock market than we've racked up on our Amexes.", start: 179.26, end: 183.86}
+  - {text: "And making profits with other people's money is great.", start: 184.06, end: 186.44}
+  - {text: "The problem is when markets go down.", start: 186.76, end: 188.78}
+  - {text: "You still have to cover that loan and the interest.", start: 189.14, end: 191.30}
+  - {text: "If the price of the stock goes down too much, you have two choices.", start: 191.30, end: 195.38}
+  - {text: "That's Heather Tukes, a finance professor at Yale.", start: 195.90, end: 198.08}
+  - {text: "You can either sell the stock to start to pay down that loan or post more margin to your account.", start: 198.36, end: 206.48}
+  - {text: "That is infuse more capital into your margin account.", start: 206.56, end: 209.96}
+  - {text: "In other words, Heather says, put up more cash or be forced to sell investments to cover the loan.", start: 210.34, end: 215.70}
+  - {text: "In the U .S., investors can use margin trading for pretty much any stock, but it's different in India.", start: 216.16, end: 221.78}
+  - {text: "So Heather and her co -author decided to take a look at how margin trades play out there.", start: 222.20, end: 226.44}
+  - {text: "In India, the regulators were in some ways kinds of academics and that they designed rules that made studying this question a lot easier.", start: 226.70, end: 235.90}
+  - {text: "Easier because there's a dividing line in India between stocks that can be bought with margin and others that can't.", start: 236.32, end: 242.18}
+  - {text: "She says that made it a great place for a natural experiment on whether margin trades cause market instability and what they found was, yes, margin mattered, especially during a financial crisis.", start: 242.50, end: 254.34}
+  - {text: "It's during those downswings that we get this amplification.", start: 254.68, end: 258.90}
+  - {text: "The margin basket of stocks went down significantly more than the basket of non -margin stocks during the crisis.", start: 259.56, end: 265.46}
+  - {text: "Many margin sellers were forced to sell their investments to cover loans.", start: 266.02, end: 269.24}
+  - {text: "This forced selling helped amplify overall losses.", start: 269.54, end: 272.40}
+  - {text: "A similar phenomenon just happened in the South Korean stock market.", start: 272.90, end: 276.52}
+  - {text: "Right. Investors there are excited about two companies, SK Hynex and Samsung.", start: 276.52, end: 281.34}
+  - {text: "They make memory chips for AI data centers and, you know, as you've covered on the show, lots of demand for these chips right now.", start: 281.92, end: 288.76}
+  - {text: "SK Hynex and Samsung dominate South Korea's stock market.", start: 289.00, end: 292.02}
+  - {text: "The value of both companies skyrocketed as more investors got excited about their chips.", start: 292.32, end: 296.70}
+  - {text: "This thing is so big and it's moving so fast.", start: 297.06, end: 299.20}
+  - {text: "That's Yuri and Timmer, director of global macro at Fidelity Investments.", start: 299.70, end: 303.52}
+  - {text: "Semiconductor earnings have tripled in the last year.", start: 303.52, end: 306.70}
+  - {text: "It's crazy. Everything is sort of in fast forward and is just multiple dimensions more of what we might typically see in a boom bus cycle.", start: 306.98, end: 315.60}
+  - {text: "Earlier this year, South Korea legalized single stock leveraged ETFs.", start: 315.98, end: 320.86}
+  - {text: "These look just like a normal ETF on the outside except there's extra leverage, futures and various other financial tricks on the inside to multiply your returns.", start: 321.12, end: 330.34}
+  - {text: "What could possibly go wrong?", start: 330.54, end: 332.38}
+  - {text: "Yeah, there's a downside is that if the ETF loses value, the losses are also magnified.", start: 332.38, end: 339.06}
+  - {text: "Now, these investments have been legal in the US since 2022.", start: 339.34, end: 342.64}
+  - {text: "South Korea wanted to keep up, so investors cut money in its stock market.", start: 343.34, end: 347.32}
+  - {text: "These ETFs became more popular in Korea as the value of those semiconductor companies grew, making up 20 % of trading on the South Korean exchange on some days.", start: 347.70, end: 356.64}
+  - {text: "Yuri is not a fan of these tools.", start: 357.12, end: 358.96}
+  - {text: "I call them weapons of self -destruction.", start: 358.96, end: 360.98}
+  - {text: "I don't know why regulators approve these things.", start: 361.34, end: 364.90}
+  - {text: "His pessimistic view seems to hold in Korea at least.", start: 365.28, end: 368.72}
+  - {text: "The value of its stock market plummeted 40 % at one point.", start: 369.08, end: 372.22}
+  - {text: "The companies still estimate booming demand for their memory chips, but investors got a little less excited.", start: 372.70, end: 378.56}
+  - {text: "The leverage bet started to unwind and margin traders had to sell their investments.", start: 379.02, end: 383.08}
+  - {text: "More than 3 % of the South Korean adult population received a margin call.", start: 383.08, end: 387.82}
+  - {text: "They're brokers saying, hey, you need to sell something or put up more cash to cover these loans.", start: 388.02, end: 392.58}
+  - {text: "The sell -offs seem to have little to do with the future prospects of these companies.", start: 393.12, end: 396.62}
+  - {text: "SK Heineck saw revenue more than triple over the past year and it has plenty of demand for its chips.", start: 397.20, end: 402.68}
+  - {text: "You look at the fundamentals of these companies, they're fabulous.", start: 403.12, end: 406.10}
+  - {text: "So it's just a matter of you're in over your skis and when you use leverage, you can lose all your capital.", start: 406.46, end: 412.58}
+  - {text: "Yurian is essentially saying that many South Korean investors took on too much risk, which completely blew up their accounts.", start: 412.58, end: 419.40}
+  - {text: "Goldman Sachs estimated that about 360 ,000 brokerage accounts were forced to sell all of their investments to cover their debts.", start: 419.86, end: 427.18}
+  - {text: "The majority of these accounts belonged to people under the age of 35, according to Citibank.", start: 427.74, end: 432.70}
+  - {text: "Younger people felt confident taking on a lot of risk and maybe had less experience in financial markets.", start: 433.12, end: 438.38}
+  - {text: "That's who got hurt.", start: 438.76, end: 439.52}
+  - {text: "Now is there a lesson for the United States?", start: 439.52, end: 442.16}
+  - {text: "As we've discussed, we're seeing a record level of margin debt here.", start: 442.52, end: 445.96}
+  - {text: "But here's the interesting thing.", start: 446.30, end: 447.72}
+  - {text: "While there was limited interest in leveraged ETFs initially, in the last couple of years, it's spiked.", start: 448.16, end: 453.86}
+  - {text: "And the Federal Reserve can do something about this, at least when it comes to margin debt.", start: 454.26, end: 458.82}
+  - {text: "The bank has a little known job.", start: 459.24, end: 460.66}
+  - {text: "The bank essentially tells investors how much money do you need in your pocket to borrow a dollar.", start: 461.14, end: 466.64}
+  - {text: "Right. So if we go back to that example we started with, if you have $50 to invest in Apple and you want to invest $100 total,", start: 466.64, end: 474.36}
+  - {text: "the Fed could say, okay, we should be more cautious.", start: 474.86, end: 477.64}
+  - {text: "Your brokerage firm can loan you, say, $25, not $50.", start: 478.10, end: 482.30}
+  - {text: "The Federal Reserve played around with this requirement in the years after the Great Depression.", start: 483.06, end: 487.14}
+  - {text: "Interestingly, that crash came after soaring margin debt fueled a bubble.", start: 487.54, end: 491.92}
+  - {text: "Should the Fed get involved today?", start: 492.30, end: 494.14}
+  - {text: "This is more complicated.", start: 494.52, end: 495.82}
+  - {text: "Yes, margin debt is at a historic level, but Eurian says it's not growing as fast as it has in the past.", start: 495.82, end: 502.60}
+  - {text: "Of course, 2000 comes to mind.", start: 502.90, end: 504.70}
+  - {text: "That was, of course, the internet bubble.", start: 504.84, end: 506.34}
+  - {text: "And the rate of change of margin debt then was 81%.", start: 506.92, end: 510.46}
+  - {text: "Today, it's about 40%.", start: 510.46, end: 512.40}
+  - {text: "So considerably faster. Eurian believes we are in a yellow zone, not a point of panic.", start: 512.40, end: 518.18}
+  - {text: "That's why I'm saying that you've got to look, you know, not just at the sentiment, but something has to crack in the fundamental story.", start: 518.70, end: 525.72}
+  - {text: "The Fed hasn't touched these investing loan requirements since 1974.", start: 526.14, end: 529.76}
+  - {text: "Still, we wondered if now was a good time to revisit this requirement and break out a tool it hasn't used in decades.", start: 530.42, end: 536.90}
+  - {text: "This would slow down the amount of new debt in the stock market.", start: 537.40, end: 540.20}
+  - {text: "We reached out to the Fed's press office, but could not get anyone to speak to us on the record.", start: 540.56, end: 544.94}
+  - {text: "Eurian Timmer believes the Fed may not want to get involved with the margin trades for a simple reason.", start: 545.38, end: 550.38}
+  - {text: "I think the Fed generally does not get into the stock market slash bubble business.", start: 550.38, end: 556.36}
+  - {text: "They figure nobody can predict these things.", start: 556.52, end: 558.18}
+  - {text: "Remember, Greenspan especially called the Nasdaq a bubble in 96 and it ran for four more years.", start: 558.30, end: 564.82}
+  - {text: "So I think they're at least are humble enough to know they can't time these things.", start: 565.16, end: 570.42}
+  - {text: "Spotting a bubble forming is easy.", start: 570.68, end: 572.92}
+  - {text: "Timing the pop is much more difficult.", start: 573.36, end: 575.48}
+  - {text: "You don't want to shut down a party that could keep rocking for a while.", start: 575.88, end: 578.90}
+  - {text: "Waylon, I feel really confident about the outcome of a UFC fight this weekend.", start: 578.90, end: 585.80}
+  - {text: "Oh, no. However, I only have $20 in my pocket.", start: 586.10, end: 590.50}
+  - {text: "So I was wondering, can Polly Market lend you this money?", start: 591.64, end: 594.30}
+  - {text: "I'm not lending you.", start: 594.48, end: 594.94}
+  - {text: "Waylon, how much money do you have in your wallet right now?", start: 594.94, end: 597.06}
+  - {text: "The bank of Waylon.", start: 597.32, end: 598.36}
+  - {text: "I don't carry cash.", start: 598.62, end: 599.86}
+  - {text: "I'll have you know.", start: 600.04, end: 600.68}
+  - {text: "After the break, some new research on just how many young people think of sports betting is investing.", start: 602.40, end: 608.20}
+  - {text: "And how one state government is starting to put up guardrails.", start: 608.20, end: 612.04}
+  - {text: "This message comes from Schwab.", start: 619.12, end: 620.90}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place.", start: 621.30, end: 627.58}
+  - {text: "No matter your investing goal, life stage, amount to invest or know how, you can invest your way with Schwab.", start: 628.00, end: 635.02}
+  - {text: "This message comes from Capella University.", start: 635.60, end: 638.02}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 638.36, end: 642.90}
+  - {text: "That's your own drive pushing you towards what's next.", start: 642.90, end: 646.56}
+  - {text: "Capella University gets that.", start: 646.96, end: 648.64}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 648.96, end: 655.06}
+  - {text: "You've built experience and know what you're capable of.", start: 655.46, end: 658.48}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 658.86, end: 662.90}
+  - {text: "The only real question is, what can't you do?", start: 663.26, end: 666.26}
+  - {text: "Learn more at capella .edu.", start: 666.62, end: 668.60}
+  - {text: "This message comes from Active Campaign.", start: 669.18, end: 671.46}
+  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 671.46, end: 676.48}
+  - {text: "That's Active Intelligence by Active Campaign.", start: 676.86, end: 679.20}
+  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 679.62, end: 685.02}
+  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 685.34, end: 689.90}
+  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 690.42, end: 694.86}
+  - {text: "Start free at activecampaign .com.", start: 695.08, end: 697.44}
+  - {text: "The line between investing and gambling is blurry now.", start: 697.44, end: 702.08}
+  - {text: "With me for this next story, my co -host at The Indicator, Adrian Ma.", start: 702.54, end: 705.84}
+  - {text: "Yeah, get this. In the past year, more than half of Gen C say they've taken dollars intended for investing and put it towards sports gambling.", start: 706.14, end: 713.64}
+  - {text: "And you can understand why sports betting seems like easy money when many sports betting commercials advertise hundreds of dollars in free bets just for making a small deposit.", start: 714.16, end: 723.80}
+  - {text: "All customers get a profit boost every NBA playoff game.", start: 723.80, end: 727.28}
+  - {text: "New customers spend $5 and get 300 in bonus bets if you win.", start: 727.44, end: 730.74}
+  - {text: "New customers turn five bucks into 200 instantly in bonus bets.", start: 730.96, end: 734.88}
+  - {text: "The federal ban on sports betting was struck down eight years ago.", start: 735.00, end: 737.72}
+  - {text: "And we're just now learning the effects on younger people.", start: 738.14, end: 740.60}
+  - {text: "For some people, sports betting is more than entertainment.", start: 740.88, end: 743.12}
+  - {text: "They're trying to make real money with it.", start: 743.42, end: 745.16}
+  - {text: "In a recent survey, about a quarter of Gen Z said they view sports betting as a high -risk investment strategy or a way to accelerate some kind of goal.", start: 745.40, end: 753.46}
+  - {text: "Gen Z is anyone aged around 18 to 29.", start: 753.46, end: 756.78}
+  - {text: "I think, you know, number one, it's not good.", start: 757.12, end: 760.00}
+  - {text: "That's Dan Egan, vice president of behavioral science and investing at Betterment.", start: 760.60, end: 764.20}
+  - {text: "They studied the relationship different generations have with investing and gambling.", start: 764.68, end: 768.18}
+  - {text: "And we got some of the numbers you heard from their recent poll.", start: 768.58, end: 771.12}
+  - {text: "I have friends who like, I don't know, collecting cars.", start: 771.56, end: 773.66}
+  - {text: "But they're honest about the fact that that car, they're not making money on it.", start: 774.04, end: 777.92}
+  - {text: "It's a hobby. They enjoy it.", start: 777.96, end: 779.32}
+  - {text: "They enjoy looking at the car.", start: 779.38, end: 780.30}
+  - {text: "I think the dangerous aspect is when we start confusing our hobbies for investing.", start: 780.30, end: 783.78}
+  - {text: "Dan says one reason why so many members of Gen Z are using investing dollars for gambling is overconfidence.", start: 784.38, end: 791.04}
+  - {text: "Like, I watch a ton of basketball.", start: 791.34, end: 792.84}
+  - {text: "I can spot a winner.", start: 793.14, end: 794.12}
+  - {text: "And also, some people in younger generations feel this economy just isn't working for them.", start: 794.50, end: 798.80}
+  - {text: "So I think that's one of the drivers is the idea that in order to get ahead, just like doing my job, saving regularly and focusing", start: 799.16, end: 805.70}
+  - {text: "on my career isn't going to be enough.", start: 805.70, end: 807.34}
+  - {text: "I have to have some big financial wins.", start: 807.70, end: 809.38}
+  - {text: "But this isn't true across the board.", start: 809.38, end: 811.72}
+  - {text: "Are you Gen Z?", start: 812.04, end: 813.00}
+  - {text: "Yes. Sam Mosquera is a 27 -year -old incoming PhD student at the University of Michigan.", start: 813.68, end: 819.60}
+  - {text: "And to be clear, he is three years younger than me.", start: 819.98, end: 822.34}
+  - {text: "So we are not talking about an alien population here, Adrian.", start: 822.46, end: 825.56}
+  - {text: "Sam used to bet on basketball.", start: 826.50, end: 827.98}
+  - {text: "And he saw the ads promising hundreds of dollars in free bets for just a small deposit.", start: 828.44, end: 833.32}
+  - {text: "And one of Sam's coworkers said, hey, if you sign up for a sports betting account, then I get a reward too.", start: 833.58, end: 838.94}
+  - {text: "So he was like, if you join, there's this promotion going on.", start: 839.32, end: 841.94}
+  - {text: "And I figured it was like five bucks.", start: 842.34, end: 844.58}
+  - {text: "The NBA preseason was just starting.", start: 845.10, end: 846.84}
+  - {text: "So I figured it'd be something to try.", start: 846.90, end: 848.68}
+  - {text: "Why does this feel like an after -school special in the making?", start: 849.22, end: 853.08}
+  - {text: "Sam says he'd used just about any platform that had a bonus.", start: 853.92, end: 856.86}
+  - {text: "Bet MGM, FanDual, even the old ESPN platform.", start: 857.56, end: 861.04}
+  - {text: "And he says that he never bet more money than he was willing to lose.", start: 861.44, end: 864.98}
+  - {text: "But worries about people even younger than him.", start: 864.98, end: 867.54}
+  - {text: "Jen Alpha, he taught high schoolers.", start: 867.94, end: 869.68}
+  - {text: "I was seeing economically disadvantaged students.", start: 869.80, end: 873.06}
+  - {text: "Like they would tell me like, this is an easy bet.", start: 873.24, end: 875.26}
+  - {text: "Or like, this is like an easy way to make money.", start: 875.50, end: 877.84}
+  - {text: "He says that some students would find an adult to sign them up for a sports betting account and start playing.", start: 878.28, end: 883.14}
+  - {text: "These are 16 -year -old kids.", start: 883.64, end: 885.26}
+  - {text: "They did not have the self -control to say, I'll only use the promotion money.", start: 885.46, end: 890.36}
+  - {text: "I hear kids talking like they're putting up like $200 of their money on a random basketball game.", start: 890.36, end: 898.10}
+  - {text: "And to be clear, we're just talking about the sports books here.", start: 898.52, end: 901.18}
+  - {text: "Like FanDual and DraftKings, not prediction markets.", start: 901.48, end: 904.00}
+  - {text: "That's a slightly different beast.", start: 904.36, end: 905.94}
+  - {text: "Yeah, and we've reported on how prediction markets like Polymarket and Kalshi can advertise to vulnerable people.", start: 906.58, end: 913.04}
+  - {text: "You can find a link to that in the show notes.", start: 913.56, end: 914.88}
+  - {text: "State governments are starting to react to the negative effects of sports betting, like addiction.", start: 914.88, end: 920.12}
+  - {text: "Colorado just passed a new law that introduced new rules for sports betting companies.", start: 920.62, end: 924.78}
+  - {text: "For example, no more depositing money with a credit card.", start: 925.10, end: 927.78}
+  - {text: "If you want to gamble, you can't take out debt.", start: 928.22, end: 930.14}
+  - {text: "Matt Ball is a Democratic state senator in Colorado.", start: 930.78, end: 932.90}
+  - {text: "He cosponsored the bill with a Republican colleague, Byron Pelton.", start: 933.36, end: 936.30}
+  - {text: "Matt says he's not banning sports gambling.", start: 936.92, end: 938.84}
+  - {text: "In fact, he's gambled himself.", start: 939.04, end: 940.50}
+  - {text: "I've bet on sports before.", start: 940.50, end: 942.12}
+  - {text: "I've been the commissioner of a fantasy league for about 15 years.", start: 942.34, end: 945.58}
+  - {text: "But he sees issues with Gen Z and gambling, specifically young men.", start: 946.06, end: 949.66}
+  - {text: "A couple of constituents came to talk with him about it.", start: 950.18, end: 952.36}
+  - {text: "And that led to a lot more conversations with everyone from mothers who had sons come home from college having put $15 ,000 on the credit", start: 952.54, end: 962.22}
+  - {text: "card in one night to national experts in problem gambling.", start: 962.22, end: 966.46}
+  - {text: "Matt is worried about sports betting as a public health issue.", start: 966.86, end: 969.80}
+  - {text: "Yeah, and problem gambling is associated with more bankruptcies, loan defaults, domestic violence, and suicides.", start: 969.80, end: 977.26}
+  - {text: "So, Matt and Byron's big idea?", start: 978.26, end: 980.04}
+  - {text: "Add some friction. Limit the ways that sports books can reach their customers.", start: 980.62, end: 984.18}
+  - {text: "Colorado became the first state, where sports betting is allowed, to ban sports books from sending customers push notifications on their phones and text messages.", start: 984.80, end: 993.52}
+  - {text: "Reminders like, hey, looks like a game is on.", start: 993.90, end: 996.76}
+  - {text: "Want to bet? Another part of their law is limiting the number of deposits that a customer can make in a single day.", start: 997.16, end: 1002.52}
+  - {text: "That number is now six.", start: 1002.86, end: 1004.30}
+  - {text: "And at first, I thought this sounded kind of nuts.", start: 1004.92, end: 1007.30}
+  - {text: "Customers can always move to another sports book, find ways around it.", start: 1007.72, end: 1010.88}
+  - {text: "But Matt explained why he wanted to limit the number of times gamblers could add money to their accounts in just one day.", start: 1011.22, end: 1017.64}
+  - {text: "When you have a problem, you might set a budget.", start: 1017.88, end: 1020.10}
+  - {text: "I've got $100. I'm going to bet it this weekend.", start: 1020.54, end: 1023.22}
+  - {text: "You blow through that.", start: 1023.68, end: 1024.82}
+  - {text: "Hey, I got to make it back.", start: 1025.30, end: 1026.38}
+  - {text: "You deposit $200, right?", start: 1026.60, end: 1028.22}
+  - {text: "You lose that. You deposit $400.", start: 1028.70, end: 1030.16}
+  - {text: "You just keep chasing your losses.", start: 1030.50, end: 1031.76}
+  - {text: "One thing that we want to measure is, how effective is that?", start: 1032.28, end: 1035.44}
+  - {text: "And Matt says, ultimately, this bill is a test.", start: 1035.98, end: 1038.12}
+  - {text: "Would a deposit limit even make a difference?", start: 1038.78, end: 1040.44}
+  - {text: "I'd be the first to admit, we don't have any data.", start: 1040.92, end: 1043.02}
+  - {text: "So in some sense, we're kind of guessing here.", start: 1043.28, end: 1045.68}
+  - {text: "You rarely hear lawmakers just say, we're kind of guessing with a law, Adrian.", start: 1046.24, end: 1050.16}
+  - {text: "I mean, I guess it speaks to just how novel the situation is.", start: 1050.16, end: 1054.32}
+  - {text: "They're kind of taking the spaghetti at the wall approach to bill writing.", start: 1054.40, end: 1057.82}
+  - {text: "Matt and Byron's bill is a rare bipartisan agreement to find some solutions for a real problem.", start: 1058.22, end: 1064.04}
+  - {text: "We had everyone from organizations that care about mental health and care about kids to groups on the religious right who have a fundamental objection to gambling,", start: 1064.40, end: 1074.60}
+  - {text: "who were some of the same groups that opposed the legalization of gambling back in 2019.", start: 1074.78, end: 1079.26}
+  - {text: "Colorado signed the bill into law this summer and Matt says legislators in other states are starting to reach out to him.", start: 1079.26, end: 1085.90}
+  - {text: "At least 10 other states don't allow betters to make deposits with a credit card like Colorado, a number that's growing.", start: 1086.18, end: 1091.68}
+  - {text: "Dan Egan from Betterment, the behavioral finance guy.", start: 1092.20, end: 1094.96}
+  - {text: "He says there may be another optimistic angle.", start: 1095.38, end: 1097.98}
+  - {text: "I feel like every generation lives in a new context that was different than the previous one's context when they were that age.", start: 1098.40, end: 1104.98}
+  - {text: "And it's entirely possible what we're seeing is just a new coming -of -age story about how people engage with this stuff.", start: 1104.98, end: 1110.86}
+  - {text: "As generations grow older, they may realize that sports betting is not easy money or any kind of investment strategy.", start: 1111.46, end: 1117.98}
+  - {text: "Dan pointed a research on day trading in the stock market.", start: 1118.48, end: 1121.26}
+  - {text: "What you could argue is adjacent to gambling, like traders are trying to make money from quick swings in the market.", start: 1121.52, end: 1127.10}
+  - {text: "The research found that most day traders generally quit after losing money for a couple of years.", start: 1127.62, end: 1132.24}
+  - {text: "Maybe it's an expensive education, but hopefully they will learn.", start: 1132.24, end: 1135.92}
+  - {text: "Losing money consistently can get old, and some people in younger generations already understand the game without losing money.", start: 1136.42, end: 1143.90}
+  - {text: "Like Sam, our former Gen Z sports gambler, he says he took the promotion money, bet on some games, and then cashed out.", start: 1144.28, end: 1151.46}
+  - {text: "I never bet any of my own money though.", start: 1151.68, end: 1153.62}
+  - {text: "That felt like a good trap that I didn't want to get into.", start: 1154.14, end: 1156.86}
+  - {text: "I won probably over, like, $1 ,000.", start: 1156.86, end: 1160.30}
+  - {text: "Not anything like crazy, but it's still, like, it was fun.", start: 1161.58, end: 1164.70}
+  - {text: "Since when is $1 ,000 not a lot of money?", start: 1165.12, end: 1167.18}
+  - {text: "I feel like I could have some fun with a grand.", start: 1167.36, end: 1168.98}
+  - {text: "Oh, Ricky, don't fall into the trap.", start: 1169.40, end: 1171.26}
+  - {text: "Take the bonus and run.", start: 1172.36, end: 1173.60}
+  - {text: "A great way to get more planet money, or give planet money to a friend who needs it, is our book.", start: 1175.35, end: 1180.43}
+  - {text: "It has a whole chapter on how to think about investing.", start: 1180.71, end: 1183.11}
+  - {text: "It is Planet Money, a guide to the economic forces that shape your life.", start: 1183.11, end: 1187.53}
+  - {text: "Thanks to everyone who rated it and reviewed it, please keep that up.", start: 1187.91, end: 1190.83}
+  - {text: "And if you don't already subscribe to Planet Money's daily podcast, The Indicator, that's where today's episodes first appeared.", start: 1191.35, end: 1197.25}
+  - {text: "One slice of the economy explained every day in 10 minutes or less.", start: 1197.69, end: 1201.39}
+  - {text: "Follow The Indicator from Planet Money.", start: 1201.81, end: 1203.43}
+  - {text: "Today's episodes of The Indicator from Planet Money were produced by Corey Bridges and Cooper Katz -McKim, engineering by Travis Hagan and Sina LaFredo.", start: 1204.25, end: 1211.23}
+  - {text: "It was fact -checked by Sierra Juarez.", start: 1211.65, end: 1212.85}
+  - {text: "Julia Ritchie edited our story on gambling.", start: 1213.31, end: 1215.35}
+  - {text: "Kate Cannon edits The Indicator.", start: 1215.75, end: 1217.25}
+  - {text: "This episode of Planet Money was produced by Jade Snead.", start: 1217.75, end: 1220.05}
+  - {text: "Alex Goldmark is our executive producer.", start: 1220.29, end: 1222.01}
+  - {text: "Our co -hosts were the wonderful Waylon Wong, the amazing Adrian Ma.", start: 1222.45, end: 1226.19}
+  - {text: "I'm Ricky Mulvey. This is NPR.", start: 1226.57, end: 1228.31}
+  - {text: "Thanks for listening. This message comes from Northwestern Mutual.", start: 1228.79, end: 1255.57}
+  - {text: "For nearly 170 years, they've helped clients succeed with strategies to help grow and protect their money.", start: 1255.85, end: 1262.77}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1263.05, end: 1268.45}
+  - {text: "This message comes from Capella University.", start: 1269.17, end: 1271.39}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1271.93, end: 1276.45}
+  - {text: "That's your own drive, pushing you towards what's next.", start: 1276.45, end: 1280.13}
+  - {text: "Capella University gets that.", start: 1280.55, end: 1282.21}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 1282.55, end: 1288.63}
+  - {text: "You've built experience and know what you're capable of.", start: 1289.09, end: 1292.07}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 1292.45, end: 1296.47}
+  - {text: "The only real question is, what can't you do?", start: 1296.85, end: 1299.83}
+  - {text: "Learn more at capella .edu.", start: 1300.23, end: 1302.19}
+---

@@ -1,0 +1,401 @@
+---
+layout: single
+title: "The loan at the heart of a new foreclosure crisis"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-11T00:00:00Z
+slug: "2026-09-11-the-loan-at-the-heart-of-a-new-foreclosure-crisis"
+audioDir: "2026-09-11-the-loan-at-the-heart-of-a-new-foreclosure-crisis"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-11-the-loan-at-the-heart-of-a-new-foreclosure-crisis/episode.mp3"
+totalDuration: 1949.3
+sentences:
+  - {text: "This message comes from Bombas.", start: 0.02, end: 1.96}
+  - {text: "Bombas compression socks help keep legs fresh on travel days, work days, leg days, and more.", start: 2.42, end: 8.18}
+  - {text: "That's all day relief with everyday style.", start: 8.56, end: 10.66}
+  - {text: "Go to bombas .com .npr.", start: 11.08, end: 13.30}
+  - {text: "This is Planet Money from NPR.", start: 15.04, end: 17.38}
+  - {text: "Last year, Jack Bologna was sitting at his desk in Baltimore when he got the tip that would turn into the biggest story of his career.", start: 20.41, end: 28.17}
+  - {text: "A sprawling investigation into the mysterious pools of money pouring into the U .S.", start: 28.17, end: 34.69}
+  - {text: "housing market. I got a text that said, interested in a story about two big investor foreclosures question mark?", start: 34.71, end: 41.51}
+  - {text: "Jack is a local reporter at the Baltimore Banner.", start: 41.79, end: 44.11}
+  - {text: "He's always written for local newspapers, started out in the Midwest, writing about meth rings and heroin busts.", start: 44.37, end: 49.42}
+  - {text: "A couple years ago, he came to Baltimore.", start: 49.99, end: 51.23}
+  - {text: "I cover business and development, which is vague enough that you get to cover a lot of stuff, I feel like, because, you know, what is development?", start: 51.23, end: 59.13}
+  - {text: "What is development? Well, that's a great question.", start: 60.05, end: 62.47}
+  - {text: "If I have to answer that, I might define my B2M.", start: 62.53, end: 65.11}
+  - {text: "Basically, Jack's job is to write about how companies and jobs and investment dollars flow in and out of Baltimore, which is how he got this tip.", start: 65.97, end: 74.51}
+  - {text: "It's from an anonymous real estate insider who tells him over the phone, apparently two people, two investors, had been buying up a bunch of homes in Baltimore, mostly old, pro homes.", start: 74.91, end: 86.09}
+  - {text: "And now a lot of those homes were going into foreclosure, ending up on the auction block.", start: 86.41, end: 90.99}
+  - {text: "These folks were from out of town.", start: 91.23, end: 92.91}
+  - {text: "They had bought so many houses so fast.", start: 93.57, end: 95.73}
+  - {text: "They had borrowed a huge amount of money.", start: 96.39, end: 99.21}
+  - {text: "You kind of start, you know, doing the math in your head and you're like, oh, this is going to have big ripple effects.", start: 99.79, end: 104.31}
+  - {text: "So Jack turns around in his chair and starts telling all of this to the housing reporter at the banner, her name's Hallie Miller.", start: 104.31, end: 110.25}
+  - {text: "Jack is the kind of colleague who gets really excited about things right away.", start: 110.55, end: 114.05}
+  - {text: "And so he hung up the phone, looked at me and said, hey, I think I have a huge story here.", start: 114.53, end: 121.92}
+  - {text: "Hallie had been covering the housing beat in Baltimore for years.", start: 122.52, end: 125.08}
+  - {text: "Recently, more and more investors had been swooping in, buying old homes here and fixing them up, which, according to Hallie's sources, was great news for the city.", start: 125.44, end: 133.20}
+  - {text: "But there was something weird about these particular investors.", start: 133.20, end: 137.64}
+  - {text: "For one, they kind of came out of nowhere just a couple years ago.", start: 138.14, end: 141.20}
+  - {text: "The paperwork had the address of some suburb north of New York City.", start: 141.56, end: 144.90}
+  - {text: "Were these names well known in the Baltimore community?", start: 145.24, end: 149.10}
+  - {text: "No. No one had ever heard of them.", start: 149.36, end: 151.02}
+  - {text: "So they were like, nobodies?", start: 151.32, end: 152.32}
+  - {text: "They were kind of nobodies.", start: 152.50, end: 153.40}
+  - {text: "Yet. Yet, as Jack and Hallie start to piece together the public records, they soon realized that these two people that nobody had ever heard of had quickly and quietly amassed what Jack and Hallie believed to be one of the largest private real estate portfolios in Baltimore, over 700 homes.", start: 153.86, end: 172.40}
+  - {text: "And of course, these investors weren't buying the homes with all their own money.", start: 172.92, end: 176.60}
+  - {text: "They were taking out loans, lots and lots of loans.", start: 176.80, end: 180.50}
+  - {text: "So Jack and Hallie start building this ginormous spreadsheet, putting in how much each home cost, how much money these investors had borrowed on each one.", start: 180.92, end: 189.32}
+  - {text: "They added all up.", start: 189.72, end: 190.64}
+  - {text: "We ran the number of, okay, so how much are we talking here?", start: 190.84, end: 194.42}
+  - {text: "Honestly, we ran it more than once just to make sure, you know, because you see it once and you're like, that can't be right.", start: 194.96, end: 199.80}
+  - {text: "Somehow, in just the span of a couple years, these two investors managed to borrow about $100 million.", start: 200.54, end: 207.54}
+  - {text: "That is when Jack and Hallie realize something really weird is going on.", start: 208.86, end: 212.98}
+  - {text: "I was like, what the heck, you know?", start: 213.24, end: 214.64}
+  - {text: "Yeah, where did all that money come from?", start: 214.64, end: 217.32}
+  - {text: "And now, where did it all end up?", start: 217.82, end: 220.60}
+  - {text: "Hello and welcome to Planet Money.", start: 223.20, end: 224.50}
+  - {text: "I'm Jeff Guo. As Jack and Hallie started to follow the trail of those $100 million, they would soon realize that they had stumbled across a story that went far beyond just Baltimore.", start: 224.72, end: 235.74}
+  - {text: "Today on the show, there is a new type of loan that is sweeping through the country right now.", start: 236.36, end: 240.72}
+  - {text: "It's advertised as a super quick, super easy way to get a mortgage to buy a home.", start: 241.04, end: 245.56}
+  - {text: "In recent years, Wall Street has been funneling billions of dollars into these loans.", start: 245.56, end: 250.24}
+  - {text: "But these loans are also raising questions.", start: 251.10, end: 253.30}
+  - {text: "Are they a financial innovation that's helping the housing market, or a sign that Wall Street might be forgetting some of the mistakes of the past?", start: 253.96, end: 262.14}
+  - {text: "This message comes from LinkedIn.", start: 282.02, end: 283.90}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 284.40, end: 288.70}
+  - {text: "It's even harder to do it efficiently.", start: 289.02, end: 290.42}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 290.86, end: 294.78}
+  - {text: "With LinkedIn, simplify your sales, marketing, and hiring so that you can actually run your small business.", start: 295.12, end: 301.28}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 301.70, end: 305.14}
+  - {text: "This message comes from Capella University.", start: 306.07, end: 308.29}
+  - {text: "That spark you feel?", start: 308.29, end: 309.65}
+  - {text: "That's your drive for more.", start: 309.95, end: 311.35}
+  - {text: "Capella University's FlexPath learning format lets you earn your degree at your pace without putting life on pause.", start: 311.73, end: 317.67}
+  - {text: "Learn more at capella .edu.", start: 318.11, end: 319.61}
+  - {text: "The city of Baltimore is famous for its row homes.", start: 322.56, end: 325.56}
+  - {text: "They're these two or three -story, boxy -looking townhouses that go on for block after block.", start: 325.86, end: 330.42}
+  - {text: "Row homes make up about half the city's housing.", start: 330.98, end: 332.94}
+  - {text: "But a lot of those row homes are not in good shape.", start: 333.28, end: 336.74}
+  - {text: "The brick is crumbling, the windows are boarded up.", start: 337.12, end: 339.74}
+  - {text: "But just in the past couple of years, that picture has been changing.", start: 339.74, end: 343.82}
+  - {text: "Halley says suddenly there was a lot more money available to the people who wanted to buy and rehab these homes.", start: 344.28, end: 349.58}
+  - {text: "Her sources told her a major reason for all this money was this amazing new type of loan coming from Wall Street.", start: 350.02, end: 356.70}
+  - {text: "It was basically a new way for people to get financing that had previously been unable to get it from traditional banks.", start: 356.96, end: 363.64}
+  - {text: "Halley had actually been looking into this story that day when Jack told her about these two investors that came out of nowhere and suddenly built this huge portfolio of homes.", start: 363.98, end: 372.80}
+  - {text: "Those hundred million dollars they had borrowed and now apparently couldn't pay back, they had gotten that money through this new kind of loan.", start: 373.30, end: 380.74}
+  - {text: "It's called a debt service coverage ratio loan, a DSCR loan.", start: 381.20, end: 386.28}
+  - {text: "When I learned about that, I was like, what the heck is a DSCR loan?", start: 386.56, end: 389.18}
+  - {text: "What is debt service coverage?", start: 389.38, end: 391.48}
+  - {text: "What, you know? And then I looked it up and I was like, what the what?", start: 391.88, end: 394.86}
+  - {text: "A DSCR loan is a type of mortgage, but it's not your traditional kind of mortgage.", start: 394.86, end: 399.56}
+  - {text: "It's a commercial loan.", start: 399.84, end: 401.50}
+  - {text: "It's designed for people who want to be landlords, who want to buy a home specifically to rent it out.", start: 401.72, end: 407.00}
+  - {text: "And unlike a traditional mortgage, a DSCR loan has this very unusual feature.", start: 407.76, end: 413.76}
+  - {text: "In fact, when Jack first Googled it, he came across tons and tons of people talking about it.", start: 414.22, end: 418.48}
+  - {text: "It's called a DSCR loan.", start: 418.64, end: 419.80}
+  - {text: "It's called the DSCR loan.", start: 419.80, end: 421.46}
+  - {text: "Buying an investment property without showing any W -2s, tax returns or any income at all does not care how much money you make.", start: 421.46, end: 428.48}
+  - {text: "It requires no employment, no income verification.", start: 428.48, end: 430.90}
+  - {text: "Zero, and it's not a scam.", start: 431.36, end: 432.82}
+  - {text: "To get a DSCR loan, you don't need a job.", start: 433.40, end: 436.34}
+  - {text: "You don't need to prove any income at all.", start: 436.78, end: 439.24}
+  - {text: "And when Jack and Halle first heard about these no -income loans that were sweeping through Baltimore, they were like, how is this even possible?", start: 439.68, end: 447.58}
+  - {text: "And yeah, here at Planet Money, we all had the same reaction, because remember the global financial crisis?", start: 448.38, end: 455.16}
+  - {text: "In the run -up to that, banks had been giving out all these easy loans.", start: 455.76, end: 459.78}
+  - {text: "They're these loans called ninja loans, which stood for no income, no job, no assets, no problem.", start: 460.08, end: 466.04}
+  - {text: "You can still get a loan to buy a home.", start: 466.42, end: 468.60}
+  - {text: "So one of the main things that Congress did after the crash was to really tighten the rules.", start: 469.04, end: 474.08}
+  - {text: "Ninja loans were basically outlawed, and mortgage lenders are now required to check stuff like your income and your assets and your credit history.", start: 474.56, end: 483.52}
+  - {text: "So how are these DSCR loans that don't check your income or your job?", start: 484.02, end: 488.38}
+  - {text: "How are they even legal?", start: 488.76, end: 490.74}
+  - {text: "To answer that question, we talked to one of the people responsible for making DSCR loans so popular.", start: 491.36, end: 496.46}
+  - {text: "I'm Eric Abramovich. I'm co -founder at Rock360.", start: 496.80, end: 501.34}
+  - {text: "Eric is in the business of making loans to real estate investors.", start: 502.14, end: 505.66}
+  - {text: "And he says the story of how these DSCR loans got so popular starts back in the early 2010s, right after the financial crisis.", start: 505.66, end: 513.48}
+  - {text: "That's when he learns about an interesting exception to the new rules and regulations surrounding mortgage loans.", start: 514.04, end: 520.58}
+  - {text: "By chance, I met a local private lender here in the New York tri -state area.", start: 520.88, end: 526.18}
+  - {text: "He was lending to local fix and flip investors.", start: 526.34, end: 531.74}
+  - {text: "Yeah, Eric had met this guy who was lending money to people who buy old homes, fix them up and try to flip them for a profit.", start: 532.34, end: 539.08}
+  - {text: "Fix and flippers, you know, this is the basis for an entire genre of reality TV.", start: 539.66, end: 544.42}
+  - {text: "Think about all those shows on HDTV.", start: 545.38, end: 547.26}
+  - {text: "A year ago, we bought a four -close condo at auction.", start: 547.80, end: 549.86}
+  - {text: "Flipped it and we made 20 Gs in 30 days.", start: 550.34, end: 552.56}
+  - {text: "To buy these homes, fix and flippers were able to take out loans that were actually exempt from most of those new post -financial crisis regulations because these are considered business -type loans.", start: 552.90, end: 565.52}
+  - {text: "Now, at the time, traditional banks weren't really doing these types of loans.", start: 566.22, end: 569.50}
+  - {text: "So the fix and flippers went to private lenders.", start: 569.74, end: 572.14}
+  - {text: "Most of these private lenders were pretty small.", start: 572.66, end: 574.46}
+  - {text: "A lot of them were just folks lending out their own money or money that they had pooled together from friends and family.", start: 574.92, end: 579.90}
+  - {text: "And here is where Eric gets his big idea.", start: 580.38, end: 583.52}
+  - {text: "We realized that there were hundreds, if not thousands of private lenders across the country, essentially making loans to mom -and -pop real estate investors.", start: 583.88, end: 592.52}
+  - {text: "And we thought to ourselves, hey, this is a great opportunity.", start: 593.18, end: 595.50}
+  - {text: "And so when we started our business, the idea was to connect Main Street to Wall Street.", start: 595.78, end: 600.60}
+  - {text: "Eric's company started connecting fix and flippers to Wall Street.", start: 600.92, end: 604.92}
+  - {text: "Eric is a finance guy.", start: 605.28, end: 606.66}
+  - {text: "He used to run a hedge fund and he knows there is a lot of money out there on Wall Street.", start: 606.80, end: 611.40}
+  - {text: "You could even say a giant pool of money.", start: 611.66, end: 614.76}
+  - {text: "Thanks to Eric's company, the money from pension funds and insurance companies and sovereign wealth funds started flowing into the fix and flip market and helped to supersize it.", start: 614.76, end: 626.54}
+  - {text: "Now, at first, these loans were mostly short -term loans because it shouldn't take more than a year or two to fix and flip a home.", start: 627.16, end: 634.74}
+  - {text: "But as more and more Wall Street money started flowing in, private lenders realized they could now make longer -term loans.", start: 635.08, end: 642.54}
+  - {text: "They could issue 30 -year mortgages.", start: 642.54, end: 645.34}
+  - {text: "And the private lenders thought that these 30 -year mortgages could attract a much bigger market.", start: 645.72, end: 651.10}
+  - {text: "These longer -term mortgages would be perfect for landlords.", start: 651.54, end: 655.08}
+  - {text: "This was the big innovation and these longer -term mortgages for landlords would soon be called DSCR loans.", start: 655.78, end: 662.54}
+  - {text: "Around 2018, Eric's company started to get into them.", start: 663.00, end: 665.44}
+  - {text: "Do you remember some of the first types of this loan you were doing?", start: 665.72, end: 669.48}
+  - {text: "Oh, sure. I mean, they sort of sold like hotcakes.", start: 669.48, end: 674.85}
+  - {text: "I mean, they were very popular loans.", start: 675.05, end: 676.83}
+  - {text: "This is the moment when DSCR loans go mainstream.", start: 677.23, end: 680.59}
+  - {text: "Wall Street loved DSCR loans because lenders could charge a higher interest rate compared to a traditional mortgage.", start: 681.29, end: 687.49}
+  - {text: "And landlords liked these loans because the borrowing process was so much easier.", start: 687.95, end: 692.71}
+  - {text: "You didn't have to bring your W -2 or prove years of income history.", start: 693.13, end: 696.89}
+  - {text: "Lenders didn't really care about how much money you had been making or even how much money you made that year.", start: 696.89, end: 701.79}
+  - {text: "Why shouldn't the bank be looking at how much money I'm making?", start: 702.23, end: 705.85}
+  - {text: "It doesn't not make sense to look at one's income, but it's not necessary.", start: 706.39, end: 709.95}
+  - {text: "You only really need to focus on the income of the property to make the loan against that property, right, for a DSCR loan.", start: 710.51, end: 716.35}
+  - {text: "Eric says DSCR loans are business -type loans, so they operate on business logic.", start: 716.75, end: 722.45}
+  - {text: "For DSCR loans, the main things that private lenders focus on are the landlord's credit score and the appraisal report, which shows how much the home is worth and the estimated monthly rent.", start: 722.95, end: 733.57}
+  - {text: "Basically, if the lender thinks that the estimated rental income for this home will cover the mortgage payments, it will approve the loan.", start: 734.01, end: 740.63}
+  - {text: "Eric says this is the same logic behind the loans that big -time developers get to build office towers and apartment complexes.", start: 741.25, end: 747.75}
+  - {text: "The bank mainly cares about whether the income from the project will cover the debt payments.", start: 748.25, end: 753.53}
+  - {text: "That's why private lenders started calling these new mortgages debt -service coverage ratio loans.", start: 753.53, end: 759.37}
+  - {text: "Over the past couple years, these DSCR loans have soared in popularity.", start: 760.01, end: 764.15}
+  - {text: "Eric says most of the people taking them out are mom -and -pop landlords.", start: 764.75, end: 768.23}
+  - {text: "And now DSCR loans are one of America's hottest new mortgage products.", start: 768.79, end: 772.19}
+  - {text: "In 2021, lenders originated about $20 billion worth of these loans.", start: 772.51, end: 776.99}
+  - {text: "In 2025, that number more than doubled to about $50 billion.", start: 777.29, end: 781.05}
+  - {text: "And a lot of that money was flowing from all over into Baltimore.", start: 781.05, end: 786.49}
+  - {text: "These mortgage lenders are all based across the country.", start: 786.95, end: 789.83}
+  - {text: "Florida, California, New York.", start: 790.09, end: 793.11}
+  - {text: "To unravel the mystery of who amassed the massive 700 -home real estate portfolio in Baltimore, how they borrowed $100 million so quickly, Jack and Hallie went through the property records.", start: 793.53, end: 806.01}
+  - {text: "They found that these loans came from dozens of different private lenders, with names like Cake Mortgage and Lone Funder LLC.", start: 806.33, end: 814.09}
+  - {text: "Lone Funder is actually connected to Rock 360, to Eric's company.", start: 814.77, end: 818.23}
+  - {text: "Jack says he was surprised at how simple and fast this process seems to be.", start: 818.79, end: 822.37}
+  - {text: "This is like all done electronically or via phone.", start: 822.63, end: 825.03}
+  - {text: "They advertise on their websites.", start: 825.65, end: 826.99}
+  - {text: "They're like, see how easy it is to get a loan today.", start: 827.25, end: 829.81}
+  - {text: "And in theory, there is no limit to how many houses you can buy through DSCR loans.", start: 830.19, end: 835.79}
+  - {text: "A fact that two mysterious landlords from New York were taking full advantage of.", start: 835.79, end: 841.19}
+  - {text: "And then, starting in late 2024, everything comes crashing down.", start: 841.79, end: 846.49}
+  - {text: "So they're kind of building this portfolio over a couple years, and then they almost all start going through foreclosure at the same time.", start: 846.67, end: 852.79}
+  - {text: "Companies associated with one of the landlords declare bankruptcy.", start: 853.01, end: 855.75}
+  - {text: "And as Jack and Hallie combed through the records from those companies, they begin to notice some suspicious patterns.", start: 856.23, end: 863.47}
+  - {text: "First of all, they noticed that a lot of these homes weren't actually getting rented out.", start: 863.47, end: 868.29}
+  - {text: "Hallie finds a very interesting statement in the bankruptcy records.", start: 868.69, end: 871.41}
+  - {text: "One of the first documents in that docket was, I think, a statement from the LLC itself that said we were only ever able to occupy about a third of the homes.", start: 871.83, end: 885.48}
+  - {text: "What was your reaction?", start: 885.88, end: 886.60}
+  - {text: "I remember asking, so why did they keep buying?", start: 887.34, end: 889.84}
+  - {text: "Yeah, why were these landlords taking out more loans, buying up more and more homes if they couldn't find tenants for the homes they already had?", start: 890.22, end: 898.88}
+  - {text: "Yeah, you might make the same mistake once, twice, three times, but you don't make the same mistake 700 times, you know?", start: 898.98, end: 904.82}
+  - {text: "And then Jack and Hallie noticed something even weirder.", start: 905.22, end: 908.56}
+  - {text: "These two landlords seem to be spending way too much money to buy these homes.", start: 908.98, end: 913.82}
+  - {text: "Like, they were paying double or triple what the homes had sold for just a couple years before.", start: 914.08, end: 918.48}
+  - {text: "Jack and Hallie went out to see some of these homes, and they didn't look recently renovated.", start: 918.88, end: 923.92}
+  - {text: "They didn't seem to be worth the new higher prices.", start: 924.24, end: 926.86}
+  - {text: "So who the heck were these people who were coming in and paying way too much money for homes in some of the most distressed neighborhoods in Baltimore?", start: 927.44, end: 936.36}
+  - {text: "At first, there was one name that stood out.", start: 937.06, end: 939.60}
+  - {text: "His name was Eliezer Gold.", start: 940.00, end: 941.36}
+  - {text: "He and his LLCs had bought more than 500 of the homes.", start: 941.74, end: 944.84}
+  - {text: "And Eliezer was kind of a mysterious figure around Baltimore.", start: 945.18, end: 948.48}
+  - {text: "People we talked to, they were like, I've never seen this guy, never heard of him really until now.", start: 948.48, end: 953.44}
+  - {text: "And to buy 500 homes in Baltimore, you'd think that you'd be down here more, you know?", start: 954.18, end: 962.14}
+  - {text: "Jack and Hallie try calling him.", start: 962.52, end: 964.32}
+  - {text: "They send emails and letters.", start: 964.70, end: 966.56}
+  - {text: "They reach out to his attorneys.", start: 967.02, end: 968.44}
+  - {text: "After a few weeks of total silence, they decide that if Eliezer Gold wasn't coming down to Baltimore, then they would have to go to him.", start: 968.94, end: 976.60}
+  - {text: "It was time for a road trip.", start: 976.60, end: 979.49}
+  - {text: "That's after the break.", start: 980.15, end: 980.75}
+  - {text: "Hi, it's Kenny. Don't skip ahead just yet.", start: 991.34, end: 993.14}
+  - {text: "Are you a U .S.", start: 993.72, end: 994.64}
+  - {text: "company? Are you a regular person?", start: 994.68, end: 996.04}
+  - {text: "Have you been affected by tariffs?", start: 996.16, end: 997.68}
+  - {text: "You may be entitled to tariff refunds.", start: 998.38, end: 1001.34}
+  - {text: "Maybe. I don't know for sure.", start: 1001.34, end: 1002.72}
+  - {text: "I don't know you.", start: 1002.90, end: 1003.62}
+  - {text: "I'm Planet Money's Kenny Malone.", start: 1004.06, end: 1005.66}
+  - {text: "The Supreme Court declared President Trump's IEPA tariffs invalid.", start: 1005.82, end: 1009.20}
+  - {text: "And as of June, customs and border patrols say they've paid back over $70 billion in tariff refunds and we're looking for your stories.", start: 1009.76, end: 1018.66}
+  - {text: "Listeners, if you're a company, how has the application process gone?", start: 1018.92, end: 1021.84}
+  - {text: "If you're a consumer, have businesses been passing along their refunds to you?", start: 1021.92, end: 1025.62}
+  - {text: "Honestly, even if you just have tariff -related questions, call us toll -free by emailing us planetmoneyatnpr .org.", start: 1025.94, end: 1034.32}
+  - {text: "And for real, we really, really, really want to hear your refund stories.", start: 1034.62, end: 1039.00}
+  - {text: "That's Planet Money at npr .org.", start: 1039.14, end: 1041.88}
+  - {text: "This message comes from Bombus.", start: 1044.90, end: 1046.84}
+  - {text: "Comfy Footwear is the last thing you want to worry about this summer.", start: 1047.08, end: 1050.20}
+  - {text: "Bombus sandals and slides are perfect for beach days, barbecues, and everything in between.", start: 1050.62, end: 1055.58}
+  - {text: "Go to bombus .com .npr.", start: 1056.10, end: 1058.24}
+  - {text: "This message comes from LinkedIn.", start: 1059.02, end: 1060.74}
+  - {text: "As a small business owner, you wear many hats.", start: 1061.22, end: 1063.50}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1063.82, end: 1066.72}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 1067.04, end: 1076.18}
+  - {text: "So, while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1076.58, end: 1081.56}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1081.94, end: 1085.36}
+  - {text: "This message comes from Capella University.", start: 1086.38, end: 1088.50}
+  - {text: "That spark you feel?", start: 1088.90, end: 1089.86}
+  - {text: "That's your drive for more.", start: 1090.16, end: 1091.56}
+  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1091.94, end: 1097.82}
+  - {text: "Learn more at capella .edu.", start: 1098.24, end: 1099.82}
+  - {text: "This message comes from Active Campaign.", start: 1100.74, end: 1102.86}
+  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 1103.44, end: 1107.86}
+  - {text: "That's Active Intelligence by Active Campaign.", start: 1108.24, end: 1110.62}
+  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 1111.02, end: 1116.42}
+  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 1116.72, end: 1121.24}
+  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 1121.80, end: 1126.24}
+  - {text: "Start free at activecampaign .com.", start: 1126.46, end: 1128.84}
+  - {text: "Spring Valley, New York is about an hour north of Manhattan.", start: 1129.58, end: 1133.88}
+  - {text: "It's a pretty standard -looking suburb.", start: 1134.36, end: 1136.32}
+  - {text: "Jack and Halle pull up at the address they have for Eliezer Gold.", start: 1136.80, end: 1140.06}
+  - {text: "It's an address they have seen over and over on hundreds of pieces of paperwork.", start: 1140.46, end: 1144.96}
+  - {text: "Turns out to be this multifamily house.", start: 1145.42, end: 1147.34}
+  - {text: "It's like 9 .30 in the morning.", start: 1147.84, end: 1149.24}
+  - {text: "Jack walks up and starts knocking on the door.", start: 1149.76, end: 1151.98}
+  - {text: "Halle's a couple steps behind.", start: 1152.36, end: 1153.60}
+  - {text: "We hear movement. We hear maybe some blinds shuffling from inside the house like somebody peeking outside the blinds, putting them down.", start: 1153.88, end: 1161.40}
+  - {text: "Jack says he hears a side door open, so I kind of rushed down to see who's getting out of this house.", start: 1161.78, end: 1167.58}
+  - {text: "Then we hear the car behind us start.", start: 1167.86, end: 1169.86}
+  - {text: "And the car is kind of backing out, and I'm trying to make eye contact with this driver being like, hey, like, hello.", start: 1171.00, end: 1177.68}
+  - {text: "The driver looks a lot like Eliezer Gold.", start: 1178.36, end: 1180.98}
+  - {text: "He looks like the one picture they have of the guy.", start: 1181.28, end: 1183.06}
+  - {text: "He was like, you know, 40 -ish white guy with a beard and more black.", start: 1183.16, end: 1186.60}
+  - {text: "Jack rushes down the driveway toward the car, a big black SUV.", start: 1186.60, end: 1190.38}
+  - {text: "He put himself in front of a moving car and tries to stop the car and tries to get a hold of the driver and is like,", start: 1190.84, end: 1197.78}
+  - {text: "hey, wait a minute, like, are you Eliezer Gold?", start: 1198.14, end: 1200.70}
+  - {text: "Now, the way Jack tells this story, nobody was ever in real danger, but Halle says, no, no, no, Jack almost got run over.", start: 1201.24, end: 1208.52}
+  - {text: "He probably doesn't want his wife to hear this, but he was definitely in front of the car.", start: 1208.78, end: 1213.32}
+  - {text: "Yeah, that's... I don't think he was going to run me over.", start: 1213.32, end: 1216.36}
+  - {text: "I think if he ran me over, he probably would have had to stop and then we could have interviewed him, you know?", start: 1216.80, end: 1221.78}
+  - {text: "Okay, so maybe Jack is trying to block the path of this SUV with his body, but regardless, the driver just swerves around him and takes off.", start: 1222.14, end: 1230.38}
+  - {text: "Looks like they are not going to talk to Eliezer Gold.", start: 1230.66, end: 1233.20}
+  - {text: "But Eliezer Gold is not the only name that Jack and Halle had.", start: 1233.62, end: 1237.50}
+  - {text: "They put together a list of people and addresses that seem to be related to Eliezer Gold.", start: 1237.86, end: 1242.82}
+  - {text: "One of them is named Benjamin Idles.", start: 1243.38, end: 1245.96}
+  - {text: "According to the property records, Benjamin had bought a bunch of homes in Baltimore and eventually sold more than 100 of them to Eliezer Gold.", start: 1246.40, end: 1253.46}
+  - {text: "And Benjamin happens to have an address near Spring Valley, New York.", start: 1253.88, end: 1258.02}
+  - {text: "He's not home, but the doorbell connects Jack and Halle to Benjamin's phone and he agrees to meet them.", start: 1258.42, end: 1264.06}
+  - {text: "An hour later, Benjamin pulls up in the parking lot outside his office and rolls down the window and we start talking to him and he's like, he declines to talk on the record.", start: 1264.64, end: 1273.46}
+  - {text: "They chat for about five minutes.", start: 1273.72, end: 1275.44}
+  - {text: "Jack says it's not much of a conversation, but he and Halle notice something, something that would turn out to be a big clue.", start: 1275.84, end: 1282.92}
+  - {text: "They're standing outside Benjamin's car.", start: 1283.48, end: 1285.18}
+  - {text: "We were talking to him through the open window.", start: 1285.50, end: 1287.26}
+  - {text: "We see on the console it lights up that he's getting a call from Elie Gold.", start: 1287.92, end: 1291.56}
+  - {text: "Oh! Yeah. He saw through the window.", start: 1291.98, end: 1295.52}
+  - {text: "Yeah, yeah. We learned that Benjamin Eidlich and Eliezer Gold were definitely connected then.", start: 1295.52, end: 1302.14}
+  - {text: "In the end, Jack and Halle would actually find several links between Benjamin Eidlich and Eliezer Gold.", start: 1302.40, end: 1307.60}
+  - {text: "In fact, in one of the documents, Eliezer Gold lists his address as the same as Benjamin Eidlich's home address.", start: 1308.02, end: 1314.56}
+  - {text: "These clues were a major breakthrough in Jack and Halle's investigation.", start: 1315.28, end: 1319.48}
+  - {text: "They seemed to show that Benjamin Eidlich and Eliezer Gold might have an unusually close connection.", start: 1319.84, end: 1326.24}
+  - {text: "Jack and Halle now have this theory for what might have been going on.", start: 1327.10, end: 1331.92}
+  - {text: "And it's important to say this is only a theory.", start: 1332.28, end: 1334.66}
+  - {text: "You see, there is a type of mortgage scheme out there where two people work together to put one over on the lender or the bank.", start: 1335.28, end: 1344.04}
+  - {text: "One person buys a home for pretty cheap.", start: 1344.60, end: 1346.78}
+  - {text: "They turn around, sell that home to a close friend.", start: 1347.02, end: 1349.76}
+  - {text: "And the trick here is that the friend agrees to buy the home at a super high price, like way higher than the house is actually worth.", start: 1349.76, end: 1358.48}
+  - {text: "Maybe they even get an appraiser to say that the house is worth that inflated price.", start: 1358.86, end: 1362.46}
+  - {text: "And using that fake price, the friend applies for a really, really big mortgage loan.", start: 1363.00, end: 1368.44}
+  - {text: "This scheme where you conspire to convince a lender to loan you a lot of money for a home that is not actually worth a lot of money is a type of fraud.", start: 1368.80, end: 1376.50}
+  - {text: "And with DSCR loans, where there's no limit to how many loans you can get, you could, in theory, repeat this fraud over and over and over again.", start: 1376.50, end: 1386.00}
+  - {text: "Jack and Halle say if the two friends repeat this scam hundreds of times, let's say, and if they're able to hide the money that they've pocketed,", start: 1386.58, end: 1393.76}
+  - {text: "they could walk away with millions of dollars.", start: 1394.10, end: 1396.20}
+  - {text: "So, yeah, one person gets loaded up with a huge amount of debt, and then at some point they just start walking away.", start: 1396.72, end: 1402.94}
+  - {text: "They just stop paying the mortgages and all these homes go into foreclosure.", start: 1403.34, end: 1407.28}
+  - {text: "But by this point, you've already taken out tens of or maybe even $100 million more in loans to buy up all these homes.", start: 1407.80, end: 1413.89}
+  - {text: "Jack and Halle say a fraudulent home valuation scheme would be especially easy to pull off in Baltimore, where some blocks are in good shape but others are filled with abandoned vacant homes.", start: 1414.17, end: 1425.59}
+  - {text: "And they all might look the same to the private lenders who don't know Baltimore and who are trying to get these loans done quickly.", start: 1426.07, end: 1431.95}
+  - {text: "Last fall, Jack, Halle, and their colleague Sahana J.", start: 1431.95, end: 1435.90}
+  - {text: "Rahman published a series of stories about what's been going on in Baltimore and their suspicions.", start: 1435.96, end: 1441.42}
+  - {text: "Though they say it is possible that these landlords were trying their best and just ended up in way over their heads.", start: 1441.80, end: 1447.76}
+  - {text: "But recently, they've learned that the FBI has opened an investigation into Aliezer Gold and Benjamin Idlis and others.", start: 1448.20, end: 1455.16}
+  - {text: "Also, private lenders have put those names on a blacklist.", start: 1455.82, end: 1458.94}
+  - {text: "By the way, we did reach out to Aliezer Gold and Benjamin Idlis.", start: 1458.94, end: 1462.34}
+  - {text: "Neither of them would comment.", start: 1462.58, end: 1463.42}
+  - {text: "And okay, one way to look at what happened here is if this was a scam, well, then it was just a couple of bad actors defrauding some mortgage lenders, right?", start: 1464.33, end: 1473.77}
+  - {text: "But maybe some of the responsibility lies with these DSCR loans.", start: 1474.43, end: 1479.45}
+  - {text: "Maybe they're a little too easy to get.", start: 1479.75, end: 1481.93}
+  - {text: "Lenders rely on appraisal reports, which in some cases can just be one person's guess about how much a house will rent out for.", start: 1482.51, end: 1488.91}
+  - {text: "And maybe some of the responsibility also lies with Wall Street.", start: 1489.60, end: 1493.38}
+  - {text: "That giant pool of money is maybe too hungry for opportunities to take bigger risks and make bigger profits.", start: 1493.84, end: 1500.18}
+  - {text: "And there is a bit of deja vu here, because Wall Street's hunger for risky mortgages is partly why the financial crisis happened.", start: 1500.80, end: 1508.14}
+  - {text: "And as a result, we as a society decided that mortgage loans specifically should be less risky.", start: 1508.62, end: 1515.24}
+  - {text: "But that was nearly two decades ago.", start: 1515.24, end: 1518.02}
+  - {text: "And over the years, Wall Street has slowly rediscovered the allure of riskier, more exotic types of mortgages.", start: 1518.50, end: 1525.24}
+  - {text: "Now, we raised these questions with Eric Abramovich, who runs that big private lending operation who helped popularize these DSCR loans.", start: 1526.16, end: 1534.28}
+  - {text: "I feel like there's a flashback to that time of easy credit where banks were handing out mortgages like they were lollipops.", start: 1534.68, end: 1542.92}
+  - {text: "Yeah, that's just PTSD.", start: 1542.92, end: 1545.32}
+  - {text: "Things are very different today.", start: 1546.10, end: 1547.36}
+  - {text: "Most people would argue that credit for housing is still too tight.", start: 1548.30, end: 1556.70}
+  - {text: "Okay, we made the rules too tight after the financial crisis, and it actually caused backlash, right?", start: 1557.06, end: 1564.06}
+  - {text: "Eric argues that the U .S.", start: 1564.70, end: 1566.14}
+  - {text: "has a housing shortage right now.", start: 1566.20, end: 1568.06}
+  - {text: "So people need access to money to build new homes or to fix up old ones.", start: 1568.40, end: 1572.78}
+  - {text: "We need Wall Street to keep making that money available in the form of loans, even if some of those loans end up going bad.", start: 1572.78, end: 1581.36}
+  - {text: "And Baltimore, Jack and Hallie told us about 35 million of the $100 million in bad loans came from private lenders associated with Eric's company.", start: 1582.08, end: 1590.30}
+  - {text: "Are you aware of what's happening there?", start: 1590.84, end: 1592.72}
+  - {text: "How should we think about that situation?", start: 1592.88, end: 1596.64}
+  - {text: "Well, some of the things they say on Wall Street, if you're lending and you have no defaults, you're doing something wrong.", start: 1597.40, end: 1605.66}
+  - {text: "Eric said, look, some loans do go bad, but overall, across the country, most DSCR loans still seem to be doing fine.", start: 1606.10, end: 1612.94}
+  - {text: "And that is what the data show right now.", start: 1613.56, end: 1615.78}
+  - {text: "DSCR loans are a small fraction of the overall mortgage market.", start: 1616.26, end: 1619.86}
+  - {text: "They represent, like, maybe 2 % of new mortgage loans for single -family homes these days.", start: 1620.22, end: 1624.88}
+  - {text: "But these loans are rapidly growing in popularity.", start: 1625.36, end: 1628.74}
+  - {text: "And if they become a much bigger part of the mortgage market and these flaws get magnified, we might see regulators step in.", start: 1628.74, end: 1637.78}
+  - {text: "Recently, Jack and Hallie took us to see some of the homes that the investors at the heart of the story bought up and then abandoned.", start: 1639.54, end: 1646.12}
+  - {text: "We are on our way to Edding Street.", start: 1646.97, end: 1650.77}
+  - {text: "The 2 ,400 block of Edding Street is part of a historically black neighborhood in Baltimore.", start: 1651.37, end: 1656.09}
+  - {text: "A couple years ago, Eleazar Gold's LLC bought 20 red -prick row houses here, all on one side of the street.", start: 1656.67, end: 1662.45}
+  - {text: "Last year, they went into foreclosure.", start: 1662.95, end: 1664.67}
+  - {text: "Oh, yeah, this is us, yeah.", start: 1665.43, end: 1666.87}
+  - {text: "This is us, yeah.", start: 1666.87, end: 1667.67}
+  - {text: "This is it? Yeah.", start: 1668.23, end: 1669.11}
+  - {text: "As we turn onto the block, Jack spots something.", start: 1669.57, end: 1672.31}
+  - {text: "Oh, one of them is burned.", start: 1672.63, end: 1673.61}
+  - {text: "Whoa. Yeah, that's new.", start: 1674.25, end: 1677.26}
+  - {text: "We get out and walk over to this burnt -out row house, stepping over broken glass and debris.", start: 1677.78, end: 1683.28}
+  - {text: "The front door of this house is hanging open.", start: 1683.94, end: 1686.44}
+  - {text: "The inside, completely charred.", start: 1686.44, end: 1688.28}
+  - {text: "It smells terrible, yeah.", start: 1688.48, end: 1689.46}
+  - {text: "It's awful, really awful.", start: 1689.62, end: 1691.48}
+  - {text: "The homes next to it are all boarded up.", start: 1691.98, end: 1694.26}
+  - {text: "When Jack and Hallie visited last year, this side of the street was in much better shape.", start: 1695.73, end: 1699.81}
+  - {text: "There were even some tenants living here.", start: 1700.17, end: 1701.71}
+  - {text: "But after the landlord stopped paying the mortgage and the homes went up for auction, nobody wanted to buy them.", start: 1702.09, end: 1707.67}
+  - {text: "So they just sat here, effectively abandoned.", start: 1708.09, end: 1710.71}
+  - {text: "Across the street, there are a few neighbors sitting on their stoops.", start: 1711.48, end: 1714.42}
+  - {text: "They tell us, yeah, this fire just happened last week.", start: 1714.74, end: 1717.38}
+  - {text: "The other day, it started around 3, 3 .30.", start: 1717.56, end: 1719.96}
+  - {text: "Yeah, I was in my window watching it.", start: 1720.16, end: 1722.10}
+  - {text: "Pisa Revlon and Jean Henry have been living on this block for about 15 years.", start: 1722.38, end: 1726.06}
+  - {text: "Pisa says, in the beginning, this was a nice block.", start: 1726.46, end: 1729.00}
+  - {text: "It was full of families and children.", start: 1729.02, end: 1731.04}
+  - {text: "And it's still kind of that way on their side of the street.", start: 1731.54, end: 1734.16}
+  - {text: "But on the other side, it's a different story, especially after the new owners came in.", start: 1734.54, end: 1739.18}
+  - {text: "Would you say the side of the street has gotten worse in the last year?", start: 1739.36, end: 1744.58}
+  - {text: "Yes. Yeah, so you can look at it here.", start: 1744.58, end: 1746.90}
+  - {text: "Yeah. Yeah, it's gotten worse.", start: 1747.34, end: 1749.24}
+  - {text: "It's gotten worse. Take care of the outside.", start: 1749.42, end: 1751.88}
+  - {text: "You know, look, look, look.", start: 1752.98, end: 1754.32}
+  - {text: "Overgrown. Pisa and Jean told us, they're used to landlords coming and going.", start: 1755.04, end: 1759.34}
+  - {text: "But the new landlords on the other side of the block, they never really seem to care.", start: 1759.76, end: 1763.76}
+  - {text: "How does it make you feel that all these people, not from Baltimore, all these investors or whatever in New York, are just buying and trading these homes?", start: 1764.18, end: 1773.80}
+  - {text: "No. Like over your head.", start: 1773.80, end: 1775.18}
+  - {text: "Like a monopoly game.", start: 1775.22, end: 1776.80}
+  - {text: "We play a monopoly.", start: 1778.19, end: 1779.45}
+  - {text: "This is a good investment, but again, they live in New York.", start: 1779.93, end: 1782.17}
+  - {text: "They don't care. They don't even live here.", start: 1782.33, end: 1785.25}
+  - {text: "That's the dilemma in Baltimore.", start: 1785.97, end: 1787.51}
+  - {text: "There are a lot of homes that need investment, that need people to come in and fix them up, make them livable.", start: 1788.15, end: 1794.17}
+  - {text: "But after what happened to these 700 homes, some private lenders have stopped lending in Baltimore altogether.", start: 1794.75, end: 1800.61}
+  - {text: "Now it's gotten harder in Baltimore to get a DSCR loan, which means all those crumbling row homes are still sitting there waiting to be fixed up.", start: 1800.61, end: 1810.83}
+  - {text: "Thanks so much. By the way, Lisa Revlon, halfway through our conversation with her, Jack and Halle realized she's the Lisa Revlon, as in the house of Revlon.", start: 1837.27, end: 1847.61}
+  - {text: "She is a legend of the ballroom scene.", start: 1847.89, end: 1850.03}
+  - {text: "Lisa Revlon or? Why are you really underselling?", start: 1850.51, end: 1854.31}
+  - {text: "My life, my life, yeah, because my life is more than just Barbara, you know what I'm saying?", start: 1854.51, end: 1860.10}
+  - {text: "And by pure coincidence, Lisa was actually profiled last year by The Banner, by another one of their reporters, Lisa Jew, who happens to be married to Jack.", start: 1860.54, end: 1870.60}
+  - {text: "That's my wife. We're going to link to all the stories we mentioned in our show notes.", start: 1871.19, end: 1879.37}
+  - {text: "This episode was produced by Sam Yellowhorse -Kessler and edited by Jess Jang.", start: 1879.97, end: 1883.59}
+  - {text: "It was fact -checked by Sierra Juarez and engineered by Travis Hagan and Sina Lafredo.", start: 1883.99, end: 1888.61}
+  - {text: "Alex Goldmark is our executive producer.", start: 1889.05, end: 1890.85}
+  - {text: "I'm Jeff Guo. This is NPR.", start: 1890.85, end: 1892.49}
+  - {text: "Thanks for listening. This message comes from Midi Health.", start: 1892.85, end: 1935.28}
+  - {text: "Most women never get real answers about their hormonal health.", start: 1935.82, end: 1938.86}
+  - {text: "Midi is changing that with virtual care covered by most major insurances.", start: 1939.18, end: 1943.20}
+  - {text: "Understand your hormones. Visit JoinMidi .com to book your first visit today.", start: 1943.82, end: 1948.58}
+---

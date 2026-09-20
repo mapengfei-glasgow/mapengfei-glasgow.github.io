@@ -1,0 +1,351 @@
+---
+layout: single
+title: "Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-08-30T00:00:00Z
+slug: "2026-08-30-dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus"
+audioDir: "2026-08-30-dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-08-30-dolly-partons-9-to-5-the-true-story-behind-the-anthem-bonus/episode.mp3"
+totalDuration: 1562.3
+sentences:
+  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16}
+  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.52, end: 8.52}
+  - {text: "There, build your own family meal, feeds four for just $35.", start: 8.88, end: 12.60}
+  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30}
+  - {text: "Hey, it's Sarah, and this is a bonus Sunday episode because, as we all know, Dolly Parton has sadly passed away.", start: 16.46, end: 24.64}
+  - {text: "There's so much to say about her music, her acting career, Dollywood, her business savvy.", start: 24.64, end: 30.16}
+  - {text: "Today, though, we have the renegade true story behind Dolly Parton's 9 -5 anthem.", start: 30.80, end: 36.82}
+  - {text: "The song was for a movie, and I did not know this before I worked on this episode.", start: 37.24, end: 40.94}
+  - {text: "The song and movie were based on real people and a real labor movement formed by a group of secretaries in Boston.", start: 41.06, end: 47.74}
+  - {text: "We spoke with them and learned how the song and movie and the real life movement all started to feed into each other.", start: 47.74, end: 55.48}
+  - {text: "This was all recorded back in 2021, but please enjoy my true delight watching Dolly Parton in this movie and how much all the people we interviewed love, love, love this song.", start: 55.76, end: 65.82}
+  - {text: "But before we turn to our Dolly appreciation, I just want to say, do not let this bonus episode take the place of our usual Friday episode.", start: 66.12, end: 73.28}
+  - {text: "It is there waiting for you.", start: 73.28, end: 74.60}
+  - {text: "It is all about the quest to turn tomatoes, basically all fruits, into brands you will pay more for.", start: 74.72, end: 80.72}
+  - {text: "We hear from the food scientists creating a new type of cherry tomato.", start: 80.94, end: 84.18}
+  - {text: "That's supposed to be a lot better, and this episode may just change how you see fruit at the grocery store.", start: 84.40, end: 90.14}
+  - {text: "Scroll down in the feed to find it.", start: 90.48, end: 91.96}
+  - {text: "Okay, here you are, 9 -5.", start: 92.64, end: 95.22}
+  - {text: "This is Planet Money from NPR.", start: 96.50, end: 98.72}
+  - {text: "Alright, so you have your snacks?", start: 101.59, end: 103.57}
+  - {text: "Okay, I have my snacks.", start: 103.57, end: 104.51}
+  - {text: "Well, I actually have a chicken pot pie.", start: 105.15, end: 108.11}
+  - {text: "A chicken pot pie as your movie snack?", start: 108.39, end: 111.23}
+  - {text: "Yeah. I got string cheese, goldfish crackers, and I haven't seen this film.", start: 111.55, end: 117.69}
+  - {text: "That is going to change today because we are watching 9 -5, the movie during the work day, the way it was meant to be watched.", start: 117.97, end: 125.93}
+  - {text: "Okay, ready? 3, 2, 1, play.", start: 126.15, end: 127.89}
+  - {text: "I don't even think I knew that 9 -5, the song, had a movie.", start: 132.71, end: 137.17}
+  - {text: "I thought it was a song.", start: 137.41, end: 138.33}
+  - {text: "What you got a lot is, like, a long, open, credits tick.", start: 140.45, end: 143.95}
+  - {text: "I'm excited. I'm getting into it.", start: 148.70, end: 151.32}
+  - {text: "Well, welcome to the front lines.", start: 161.64, end: 164.11}
+  - {text: "Millie Tomlin, I love her.", start: 164.31, end: 166.23}
+  - {text: "Oh, I wanted to ask you about my salary.", start: 166.23, end: 169.63}
+  - {text: "Rujin Fonda looks so good.", start: 169.83, end: 172.33}
+  - {text: "She always looks good.", start: 173.19, end: 174.25}
+  - {text: "Mr. Hart, I've told you before I'm a married woman.", start: 174.69, end: 177.67}
+  - {text: "Dolly Parton is in it?", start: 177.85, end: 179.35}
+  - {text: "This is her debut film.", start: 179.81, end: 181.85}
+  - {text: "Okay, Sarah, here's what you got to know about 9 -5.", start: 182.49, end: 185.79}
+  - {text: "Okay. It is truly a movie of its era.", start: 185.95, end: 188.81}
+  - {text: "It's one of the first movies that was set in the work world.", start: 189.09, end: 192.05}
+  - {text: "It's about clerical workers, secretaries.", start: 192.41, end: 194.53}
+  - {text: "A workforce which, in 1980, was predominantly women.", start: 194.53, end: 198.67}
+  - {text: "Most of the bosses were men, which leads to all sorts of problems.", start: 199.19, end: 203.35}
+  - {text: "Dorothy, please. I want you.", start: 203.97, end: 205.96}
+  - {text: "Oh, for heaven's sake.", start: 206.10, end: 207.48}
+  - {text: "What are you doing, Mr.", start: 208.00, end: 209.40}
+  - {text: "Hart? A little sexual harassment in the workplace.", start: 209.64, end: 212.14}
+  - {text: "Well, like, it gets worse.", start: 212.76, end: 214.24}
+  - {text: "So they've gotten to men being promoted over women when they're not as qualified, getting coffee for the guy.", start: 214.90, end: 221.78}
+  - {text: "What I love about this film is that they take these issues and they handle them with comedy.", start: 221.78, end: 226.92}
+  - {text: "The problems are played for laughs, like the main plot of the film, getting revenge against your boss.", start: 227.32, end: 232.10}
+  - {text: "Lily, Jane, Dolly, their characters all get high one day and fantasize about killing their boss.", start: 232.56, end: 240.02}
+  - {text: "They end up kind of accidentally tying him up one day and while he's tied up, they take over the business.", start: 240.64, end: 246.68}
+  - {text: "They're running things. By the end of the movie, the boss gets free.", start: 246.82, end: 249.76}
+  - {text: "He shows up at the office and with the women in charge, the workplace looked totally different.", start: 249.76, end: 256.44}
+  - {text: "What are all these people doing here?", start: 256.60, end: 257.68}
+  - {text: "It's not even nine o 'clock.", start: 257.76, end: 258.58}
+  - {text: "It's called flexible hours.", start: 258.76, end: 260.02}
+  - {text: "People set their own time.", start: 260.22, end: 261.18}
+  - {text: "Well, some work eight to four, some work ten to six, some work nine to five.", start: 261.58, end: 265.78}
+  - {text: "Not less absenteeism. People really like it.", start: 265.92, end: 268.38}
+  - {text: "They make a bunch of workplace improvements.", start: 268.94, end: 271.02}
+  - {text: "There's a daycare center at work, flexible hours, equal pay, and they all end up sticking.", start: 271.52, end: 276.98}
+  - {text: "Well, except the equal pay.", start: 277.18, end: 278.32}
+  - {text: "That one was never going to stand a chance.", start: 278.32, end: 280.08}
+  - {text: "Yeah, exactly. But the others do stick.", start: 280.82, end: 283.68}
+  - {text: "So at the end of the film, Lily, Jane, and Dolly, they all pop champagne.", start: 284.06, end: 287.86}
+  - {text: "That's what we did.", start: 288.26, end: 293.47}
+  - {text: "Yeah, everything except that part about the money.", start: 293.81, end: 295.65}
+  - {text: "What are we going to do about that?", start: 296.13, end: 297.25}
+  - {text: "Hey, we've come this far, haven't we?", start: 297.81, end: 299.67}
+  - {text: "This is just the beginning.", start: 300.01, end: 301.29}
+  - {text: "This is just the beginning.", start: 301.63, end: 302.29}
+  - {text: "And here's to the beginning.", start: 302.31, end: 303.31}
+  - {text: "Oh, no. Nothing changes.", start: 303.47, end: 306.41}
+  - {text: "Nothing changes. Hello and welcome to Planet Money.", start: 307.61, end: 311.41}
+  - {text: "I'm Sonari Glinton. And I'm Sarah Gonzalez.", start: 311.41, end: 313.49}
+  - {text: "And Sonari, the reason you wanted me to watch this movie is because nine to five is not just a movie.", start: 313.87, end: 320.23}
+  - {text: "Exactly. For the women who watched it, there was a real true feeling that the changes they saw on the big screen would lead to changes in the actual world.", start: 320.55, end: 329.81}
+  - {text: "Today on the show, the story of how nine to five the movie, nine to five the song even, started with a group of secretaries in Boston.", start: 329.91, end: 338.15}
+  - {text: "This message comes from Northwestern Mutual.", start: 338.15, end: 341.07}
+  - {text: "Life's a lot lately.", start: 341.49, end: 342.85}
+  - {text: "Some things you can't control.", start: 343.31, end: 344.73}
+  - {text: "But you can control your money with a plan.", start: 345.09, end: 347.39}
+  - {text: "It all starts with Northwestern Mutual.", start: 347.81, end: 349.67}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 350.05, end: 357.95}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 358.41, end: 363.53}
+  - {text: "This message comes from BetterHelp.", start: 364.41, end: 366.23}
+  - {text: "Imagine carrying a backpack every day.", start: 366.23, end: 368.91}
+  - {text: "Inside it, every conversation, every mistake, every expectation.", start: 369.21, end: 373.19}
+  - {text: "It is easy not to notice how heavy it is until someone asks if you want to put it down.", start: 373.75, end: 379.05}
+  - {text: "Sometimes feeling better starts exactly like that.", start: 379.43, end: 382.17}
+  - {text: "Better isn't one size fits all.", start: 382.59, end: 384.25}
+  - {text: "Better is personal. It's therapy tailored to the individual to help lighten what you carry.", start: 384.63, end: 389.83}
+  - {text: "Match with a therapist who truly understands.", start: 390.23, end: 392.55}
+  - {text: "Visit BetterHelp .com slash NPR.", start: 392.55, end: 395.83}
+  - {text: "Nine to five, the movie was based on real workplace experiences.", start: 397.12, end: 401.54}
+  - {text: "And it all started with a woman named Karen Nussbaum.", start: 401.90, end: 405.22}
+  - {text: "I was very active in the anti -war movement and in the newly blooming women's movement.", start: 405.50, end: 412.26}
+  - {text: "And I got a job to support my activism in the kind of work that most women did in those days.", start: 412.86, end: 420.10}
+  - {text: "And that was as a clerical worker.", start: 420.12, end: 421.44}
+  - {text: "This is the 1970s.", start: 421.44, end: 423.26}
+  - {text: "And something really big was happening around this time.", start: 423.46, end: 425.72}
+  - {text: "Millions of women were entering the workforce.", start: 426.10, end: 428.56}
+  - {text: "This is during the Vietnam War.", start: 429.02, end: 430.60}
+  - {text: "In the 70s, women in the labor force increased by 12 million.", start: 431.00, end: 434.86}
+  - {text: "And a lot of women were clerical workers.", start: 435.26, end: 437.38}
+  - {text: "There were 18 million clerical workers by the end of the decade.", start: 437.58, end: 440.76}
+  - {text: "If you ask somebody who is a typical worker in America, they most likely say a man in a hard hat.", start: 441.22, end: 446.02}
+  - {text: "But in fact, literally the most typical worker in America was a woman at a keyboard.", start: 446.36, end: 451.04}
+  - {text: "Now Karen was just doing clerical work to pay the bills.", start: 451.56, end: 454.64}
+  - {text: "Her real passion was protesting the Vietnam War.", start: 454.82, end: 457.54}
+  - {text: "So one day Karen is at this anti -war conference and she runs into one of the biggest movie stars at the time and perhaps the most famous Vietnam War protester.", start: 457.86, end: 467.24}
+  - {text: "I saw Jane Fonda sitting on the floor just participating like anybody else and that made a big impression on me.", start: 467.54, end: 474.06}
+  - {text: "Karen and Jane Fonda end up teaming up, protesting the Vietnam War together.", start: 474.34, end: 479.50}
+  - {text: "Jane would like sleep over at Karen's.", start: 480.00, end: 482.26}
+  - {text: "I lived with five other women in an apartment that was a mess.", start: 482.40, end: 487.04}
+  - {text: "She stayed in somebody's water bed.", start: 488.08, end: 490.84}
+  - {text: "We had meetings in our living room and every once in a while I'd think, oh, Jane Fonda, major motion picture star is sitting in my living room.", start: 491.98, end: 502.66}
+  - {text: "Once the war ended, Jane Fonda returned to acting and Karen, you know, Karen's an activist.", start: 503.34, end: 510.18}
+  - {text: "And now that the war is over, she starts noticing all these things about the office that she didn't really, really notice before.", start: 510.62, end: 518.74}
+  - {text: "There was this casual chauvinism that just popped up all of the time.", start: 519.28, end: 525.32}
+  - {text: "At first, Karen and some of her coworkers started meeting regularly talking about their workplace problems and then they realized that women all over Boston were doing the exact same thing.", start: 525.80, end: 537.16}
+  - {text: "So they decide to start a formal labor organization.", start: 537.38, end: 541.86}
+  - {text: "And what do they decide to call it?", start: 542.28, end: 544.24}
+  - {text: "Well, at the time the workday for clerical workers was 9 to 5.", start: 544.44, end: 549.76}
+  - {text: "So we just picked the hours of the day and called it 9 to 5 and we had an organization of nurses inspired by 9 to 5", start: 550.08, end: 558.62}
+  - {text: "which called themselves 7 to 3 because that was their organization.", start: 558.62, end: 562.96}
+  - {text: "Rolls right off the tongue, 7 to 3.", start: 563.08, end: 565.18}
+  - {text: "No one says 7 to 3.", start: 565.82, end: 567.36}
+  - {text: "9 to 5 is the phrase.", start: 567.58, end: 568.68}
+  - {text: "Thank you so much, Karen, for the much better phrase.", start: 569.06, end: 571.76}
+  - {text: "Now at first, Karen says 9 to 5.", start: 572.22, end: 574.48}
+  - {text: "The labor organization started with what felt like painfully small issues.", start: 574.86, end: 578.82}
+  - {text: "We started with job posting.", start: 578.98, end: 580.20}
+  - {text: "You should at least know when there was a job opening in your company.", start: 581.60, end: 585.70}
+  - {text: "That's still a problem.", start: 586.24, end: 587.00}
+  - {text: "9 to 5, the organization starts spreading across the country more and more chapters and it leads to a local union in Boston, SCIU Local 925.", start: 587.00, end: 597.58}
+  - {text: "Get it? 9 to 5.", start: 597.96, end: 600.00}
+  - {text: "Pretty soon, Karen and the 9 to 5 women are demanding and getting higher pay at big institutions.", start: 600.40, end: 606.00}
+  - {text: "They helped pass the Pregnancy Discrimination Act and a big priority for Karen was to have fun with all of their campaigns.", start: 606.40, end: 614.68}
+  - {text: "One of the very first things 9 to 5 instituted was the pettiest office procedure contest and the bad boss contest.", start: 614.68, end: 623.06}
+  - {text: "And you would be amazed at the things that these guys asked these women to do.", start: 623.48, end: 629.20}
+  - {text: "What's the pettiest? What was the pettiest?", start: 629.62, end: 631.98}
+  - {text: "Oh my gosh. We had a guy who asked his secretary to sew up a hole in his pants while he still had them on.", start: 632.68, end: 642.52}
+  - {text: "I was going to ask, now while he was still wearing them, of course.", start: 642.52, end: 645.88}
+  - {text: "Yes, while he was still wearing them.", start: 646.08, end: 647.66}
+  - {text: "And you may think that I made that up, except for that when we gave him the award, it was on television.", start: 648.00, end: 654.54}
+  - {text: "He went on television with the secretary.", start: 655.04, end: 657.60}
+  - {text: "Wait, how did you, you would invite the petty boss to come on TV to win the petty boss award and they were like, sure, I would love to.", start: 658.16, end: 667.22}
+  - {text: "They didn't even have enough sense to know that they should be embarrassed.", start: 667.54, end: 670.14}
+  - {text: "We had a guy who gave his secretary his beeper and sent her to the pub, the bar downstairs from their office.", start: 670.14, end: 679.48}
+  - {text: "And if she saw a woman who met his specification, she was supposed to beep him.", start: 679.80, end: 684.58}
+  - {text: "Now, you might think that that's a made up story too, except for that was on Phil Donahue.", start: 685.06, end: 690.46}
+  - {text: "We got the boss and his secretary on the Phil Donahue show.", start: 690.76, end: 694.92}
+  - {text: "Using daytime talk shows like Phil Donahue, millions of women across the country could see themselves in the office workers on television, which sort of made people go, hold on a second.", start: 695.42, end: 706.64}
+  - {text: "This is ridiculous. And it made them feel like they could actually call out their own bosses.", start: 706.94, end: 711.90}
+  - {text: "I know my mom watched a lot of Phil Donahue.", start: 712.14, end: 714.18}
+  - {text: "And seeing the craziness out in the open on television helped propel the woman's worker movement.", start: 714.46, end: 720.24}
+  - {text: "This whole time Karen, she stayed in touch with Jane Fonda and she'd tell Jane about the things she was hearing from her fellow office workers.", start: 720.42, end: 728.00}
+  - {text: "And Jane Fonda said, I want to help.", start: 728.44, end: 730.78}
+  - {text: "Jane came to me and said, you know, I'd love to support nine to five in the best way I know how.", start: 731.00, end: 736.02}
+  - {text: "And that's by making a major motion picture.", start: 736.32, end: 738.66}
+  - {text: "So I thought, whoa, great.", start: 739.80, end: 741.98}
+  - {text: "Jane Fonda is like, let's write up a real pitch.", start: 742.34, end: 744.92}
+  - {text: "I'll shop it around to the film executives.", start: 745.16, end: 746.86}
+  - {text: "Karen thinks the best angle to pitch is just the sheer number of clerical workers.", start: 747.50, end: 752.12}
+  - {text: "She writes, office workers haven't seen themselves represented in pop culture almost ever.", start: 752.58, end: 757.92}
+  - {text: "And there are almost 20 million of us.", start: 758.20, end: 760.84}
+  - {text: "You'd have a built -in audience film executive, a built -in audience of almost 20 million people.", start: 761.00, end: 766.50}
+  - {text: "The movie studio 20th Century Fox approves the idea.", start: 767.28, end: 770.64}
+  - {text: "Now Jane had to figure out what the movie was going to be about.", start: 771.26, end: 774.54}
+  - {text: "She starts meeting with workers from Karen's group, the original nine to five, to get ideas.", start: 774.94, end: 779.32}
+  - {text: "And there's this pretty important meeting.", start: 779.58, end: 781.92}
+  - {text: "That's the big aha moment.", start: 782.56, end: 783.88}
+  - {text: "Jane's meeting with about 40 workers in Cleveland hearing all their complaints.", start: 783.88, end: 787.76}
+  - {text: "And long into the meeting, Jane at one point says, now has anybody here ever dreamed of killing your boss?", start: 788.44, end: 795.86}
+  - {text: "And the room just lit up because everybody had dreamed about getting even with their boss and told story after story about the kinds of things", start: 796.36, end: 804.60}
+  - {text: "that they'd like to do to their boss.", start: 804.60, end: 806.10}
+  - {text: "And it was those stories that became the basis of the movie.", start: 806.32, end: 811.74}
+  - {text: "At this point, Jane decides this is a movie about getting back at the man.", start: 811.74, end: 816.36}
+  - {text: "So they have a movie studio.", start: 816.76, end: 818.70}
+  - {text: "They have stars. They have a premise.", start: 819.00, end: 820.56}
+  - {text: "All they need now is a script.", start: 821.18, end: 823.12}
+  - {text: "In comes a young 26 -year -old rising star.", start: 823.60, end: 827.54}
+  - {text: "She's a writer, Patricia Resnick.", start: 828.02, end: 829.96}
+  - {text: "And she hears that Jane Fonda, a hero of hers, was producing a movie.", start: 830.24, end: 834.24}
+  - {text: "She knew that she had to be a part of it.", start: 834.58, end: 837.10}
+  - {text: "So she gets a meeting with Jane Fonda.", start: 837.36, end: 839.96}
+  - {text: "When I went to meet with her at her house, she had stacks and stacks of files.", start: 839.96, end: 846.82}
+  - {text: "And so I felt that my job was to come up with a compelling story and characters you could root for and a boss that was, you know,", start: 847.80, end: 859.46}
+  - {text: "as close as you could get to the mustache twirling villain.", start: 859.84, end: 862.92}
+  - {text: "Problem was, even though Patricia had plenty of non -glamorous jobs, including waiting tables, she had never had a clerical job.", start: 863.24, end: 870.04}
+  - {text: "So the movie studio of 20th Century Fox was like, you want to learn about office culture?", start: 870.48, end: 874.00}
+  - {text: "We've got a place for you.", start: 874.24, end: 875.28}
+  - {text: "Mind to try our insurance company in downtown Los Angeles.", start: 875.56, end: 878.14}
+  - {text: "It was a, you know, a giant whole floor of secretaries.", start: 878.48, end: 885.34}
+  - {text: "And as soon as you walked in, you saw, oh, all the underlings are female and all the bosses are male.", start: 885.58, end: 893.12}
+  - {text: "There was not one female in an upper level position.", start: 893.12, end: 897.80}
+  - {text: "Patricia spent weeks hanging out with the secretaries, taking them to lunch, listening to their stories.", start: 898.36, end: 903.16}
+  - {text: "And slowly, the characters for the movie begin to emerge.", start: 903.60, end: 907.68}
+  - {text: "One woman in particular kept coming up in all these lunches.", start: 908.08, end: 911.70}
+  - {text: "Everyone was absolutely sure she was sleeping with the boss.", start: 912.16, end: 915.28}
+  - {text: "I was a tiny bit afraid of her.", start: 915.62, end: 917.48}
+  - {text: "And anyway, I took her out to lunch last and got a couple of martinis into her.", start: 917.98, end: 923.24}
+  - {text: "That's when people used to drink at lunch.", start: 923.36, end: 925.40}
+  - {text: "I didn't bring it up.", start: 925.66, end: 926.94}
+  - {text: "I didn't feel comfortable bringing it up.", start: 927.02, end: 928.78}
+  - {text: "But she told me that she knew that everybody thought she was sleeping with the boss.", start: 929.00, end: 935.14}
+  - {text: "And, you know, he was letting them think that, but it was completely untrue.", start: 935.76, end: 940.40}
+  - {text: "And she started to cry.", start: 940.58, end: 942.24}
+  - {text: "And, you know, I had no proof either way, but I absolutely believed her.", start: 943.75, end: 949.17}
+  - {text: "This real -life worker inspired the character played by Dolly Parton.", start: 949.17, end: 953.73}
+  - {text: "So you've been telling everybody I'm sleeping with you, huh?", start: 953.81, end: 956.77}
+  - {text: "No. Well, that explains it.", start: 956.93, end: 958.13}
+  - {text: "That's why these people treat me like some damn store bluesie.", start: 958.17, end: 960.81}
+  - {text: "No, no. They think I'm screwing the boss.", start: 960.83, end: 962.39}
+  - {text: "Dolly Parton's star turn made the idea of sexual harassment a central part of the movie.", start: 962.87, end: 967.95}
+  - {text: "But the phrase basically didn't exist yet.", start: 968.29, end: 970.95}
+  - {text: "Sexual harassment, those words are never used in the movie.", start: 971.07, end: 973.99}
+  - {text: "We didn't even have a term for it because it was just this thing that men did that we didn't like.", start: 974.37, end: 981.81}
+  - {text: "Patricia subtly inserted huge workplace reforms into the script.", start: 982.41, end: 986.41}
+  - {text: "Like, at the very end of the movie, after the women have instituted all these new workplace programs, the boss is boss, the big boss, he shows up like, wow, you've been so productive, Frank.", start: 986.73, end: 998.37}
+  - {text: "Frank Hart, my boy, I would like to shake your hand.", start: 998.85, end: 1001.77}
+  - {text: "You managed to create a very, very splendid environment here.", start: 1002.41, end: 1005.47}
+  - {text: "Like the, you like the job sharing program.", start: 1005.76, end: 1008.44}
+  - {text: "Job sharing. Of course, the boss has been literally tied up in a harness, the whole movie, and didn't do anything, but he takes all the credit.", start: 1009.22, end: 1019.52}
+  - {text: "So you pulled it off, Frank.", start: 1019.76, end: 1021.12}
+  - {text: "Well, I like to think we did anyway.", start: 1021.38, end: 1022.98}
+  - {text: "Good. Like the daycare center.", start: 1023.28, end: 1024.78}
+  - {text: "Daycare center. Our working parents love it.", start: 1025.64, end: 1028.06}
+  - {text: "The cost was minimal.", start: 1028.16, end: 1029.04}
+  - {text: "It's cut down on absenteeism, and we had a wonderful time doing it.", start: 1029.40, end: 1032.84}
+  - {text: "Well, Frank, I got to give you credit.", start: 1033.00, end: 1034.66}
+  - {text: "That equal pay thing, though, that's got to go.", start: 1034.66, end: 1037.26}
+  - {text: "All right. Well, here's an irony.", start: 1037.52, end: 1038.86}
+  - {text: "A director named Colin Higgins gets hired to direct the movie.", start: 1039.18, end: 1042.90}
+  - {text: "Yes, apparently you needed a dude to direct the movie about women.", start: 1043.36, end: 1046.76}
+  - {text: "And this guy, well, he ends up pushing out Patricia Resnick.", start: 1047.20, end: 1050.54}
+  - {text: "He wouldn't let me on the set.", start: 1050.60, end: 1052.18}
+  - {text: "He didn't want me around.", start: 1052.50, end: 1053.86}
+  - {text: "You know, he gave me that every ship has one captain's speech.", start: 1054.86, end: 1058.68}
+  - {text: "So I kind of got nine to five on nine to five.", start: 1060.84, end: 1064.90}
+  - {text: "When you say nine to five done nine to five, there is a plot line in which the man takes credit for other, for the women's work.", start: 1064.96, end: 1072.54}
+  - {text: "That's like a theme.", start: 1072.62, end: 1073.52}
+  - {text: "Correct. A theme in the movie.", start: 1073.82, end: 1075.76}
+  - {text: "Right. And that's exactly what happened to me.", start: 1076.12, end: 1078.86}
+  - {text: "There was a whole documentary about Colin Higgins that talks about nine to five.", start: 1080.59, end: 1085.41}
+  - {text: "Endlessly, I've never mentioned there have been other documentaries more recently.", start: 1085.71, end: 1090.97}
+  - {text: "I've never mentioned. And it's golly, you know.", start: 1091.81, end: 1094.95}
+  - {text: "Is that like a, there's something, I don't know what word you would use for it, but there's some weird poetry in that idea.", start: 1095.79, end: 1106.99}
+  - {text: "Yes, your poetry is my golly.", start: 1109.00, end: 1112.42}
+  - {text: "After the break, we see just how far the influence of Hollywood goes in the real world.", start: 1116.50, end: 1122.26}
+  - {text: "It's not, it's not much.", start: 1122.72, end: 1123.80}
+  - {text: "It's not great. Like almost none.", start: 1124.06, end: 1125.60}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1126.12, end: 1129.54}
+  - {text: "This message comes from Northwestern Mutual.", start: 1130.34, end: 1132.66}
+  - {text: "Life's a lot lately.", start: 1133.08, end: 1134.44}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1134.90, end: 1139.00}
+  - {text: "It all starts with Northwestern Mutual.", start: 1139.36, end: 1141.24}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1141.62, end: 1149.52}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1149.52, end: 1155.12}
+  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 1155.98, end: 1159.12}
+  - {text: "When is the right time to sell a stock?", start: 1159.46, end: 1161.30}
+  - {text: "How do you protect against inflation?", start: 1161.70, end: 1163.36}
+  - {text: "Financial decisions can be tricky, and often your own cognitive and emotional biases can lead you astray.", start: 1163.88, end: 1169.92}
+  - {text: "Financial decoder, an original podcast from Charles Schwab, can help.", start: 1170.26, end: 1174.42}
+  - {text: "Join host Mark Rebe as he offers practical solutions to help overcome the cognitive and emotional biases that may affect your investing decisions.", start: 1174.72, end: 1184.28}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 1184.56, end: 1190.04}
+  - {text: "This message comes from Capella University.", start: 1190.75, end: 1193.29}
+  - {text: "That spark you feel?", start: 1193.69, end: 1194.65}
+  - {text: "That's your drive for more.", start: 1194.95, end: 1196.33}
+  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1196.67, end: 1202.63}
+  - {text: "Learn more at capella .edu.", start: 1203.07, end: 1204.63}
+  - {text: "On December 19th, 1980, Karen Nussbaum, who started 9 to 5 The Organization, goes to a dark theater to watch 9 to 5 The Movie on the big screen.", start: 1204.63, end: 1217.45}
+  - {text: "The opening credits start, the song comes in.", start: 1218.09, end: 1221.07}
+  - {text: "You know the song.", start: 1221.23, end: 1221.77}
+  - {text: "Can you tell me, as someone who's leading 9 to 5, the union, it has to be a crazy moment, the first time you hear...", start: 1222.07, end: 1232.10}
+  - {text: "You hear that song.", start: 1232.10, end: 1232.50}
+  - {text: "That you hear it done, done, done, done.", start: 1232.62, end: 1234.18}
+  - {text: "The song was thrilling.", start: 1234.18, end: 1236.14}
+  - {text: "Karen wasn't sure people would like the movie, but then there was this scene.", start: 1236.46, end: 1240.96}
+  - {text: "The copy machine is shooting papers everywhere.", start: 1242.23, end: 1244.47}
+  - {text: "Jane Fonda's character doesn't know how to stop it.", start: 1244.75, end: 1247.03}
+  - {text: "And a woman far down the row from me stands up and yells, Push the stop button.", start: 1247.77, end: 1254.23}
+  - {text: "You could just feel the electricity in the room because all of the women there are totally in this movie.", start: 1255.25, end: 1263.33}
+  - {text: "They see themselves. 9 to 5 is the second biggest box office hit that year.", start: 1263.33, end: 1268.59}
+  - {text: "Right after Star Wars, the empire strikes back.", start: 1268.77, end: 1271.33}
+  - {text: "Jane and Karen go on a tour with the film, and they're screening the movie in a bunch of theaters, having huge worker rallies, and using", start: 1271.79, end: 1279.19}
+  - {text: "the song especially to promote organizing office workers.", start: 1279.19, end: 1282.97}
+  - {text: "It became a cultural phenomenon far beyond Hollywood.", start: 1283.45, end: 1287.17}
+  - {text: "After the movie, the number of 9 to 5 chapters doubles, and the union expands.", start: 1287.57, end: 1292.09}
+  - {text: "Both groups are still active today.", start: 1292.09, end: 1294.21}
+  - {text: "And both lobbied to pass marquee employment protection laws, like the Family Medical Leave Act and the Lily Ledbetter Fair Pay Act.", start: 1294.65, end: 1302.53}
+  - {text: "But for Karen, there was something more subtle that they all accomplished also.", start: 1302.71, end: 1306.73}
+  - {text: "9 to 5, the movement, was the start of women being perceived differently in the workplace.", start: 1307.29, end: 1313.31}
+  - {text: "They were starting to be treated more as professionals, less likely to be asked to sew up their bosses' pants.", start: 1313.47, end: 1319.61}
+  - {text: "More likely to say no if someone did ask them to do that.", start: 1319.61, end: 1323.25}
+  - {text: "The movement from the 1970s had a massive effect on the way women think of ourselves.", start: 1323.51, end: 1329.37}
+  - {text: "We have built generations of self -confident women who take care of ourselves.", start: 1329.83, end: 1336.15}
+  - {text: "But Karen really thought there would have been more progress made over the last 40 years.", start: 1336.59, end: 1341.77}
+  - {text: "The main issues that 9 to 5 fought for, there's still a problem today.", start: 1342.11, end: 1345.81}
+  - {text: "Childcare, sexual harassment, equal pay.", start: 1346.41, end: 1349.09}
+  - {text: "The pay disparity is largest for women of color.", start: 1349.33, end: 1352.85}
+  - {text: "And I want to acknowledge for a moment that this is a movie about white women.", start: 1353.09, end: 1356.59}
+  - {text: "Shout out to Maria Delgado for holding it down for all the women of color in the entire movie.", start: 1356.95, end: 1362.11}
+  - {text: "Shout out Maria Delgado.", start: 1362.39, end: 1363.57}
+  - {text: "Now, in many ways, Karen says, we've actually gone backwards.", start: 1363.99, end: 1367.71}
+  - {text: "You know, Karen has spent almost 50 years in the labor movement.", start: 1368.33, end: 1371.49}
+  - {text: "She ran the union.", start: 1371.59, end: 1372.29}
+  - {text: "She was in the Department of Labor.", start: 1372.49, end: 1373.69}
+  - {text: "And she says the period right after the movie, the 80s, undid a lot of the progress made in the 70s.", start: 1373.69, end: 1381.57}
+  - {text: "When we started first organizing at 9 to 5, I never expected that we would see fewer people without sick days, that we would see fewer people without paid leave.", start: 1381.73, end: 1392.53}
+  - {text: "I certainly thought we would have paid maternity leave.", start: 1393.31, end: 1397.45}
+  - {text: "Karen blames the decline in labor protections on union participation.", start: 1397.73, end: 1401.73}
+  - {text: "When the movie came out, almost 25 % of U .S.", start: 1401.73, end: 1405.49}
+  - {text: "companies were unionized. Today, it's about 10%.", start: 1405.53, end: 1409.73}
+  - {text: "I think our job now is to make sure that this coming decade is not a repeat of the 1980s.", start: 1410.25, end: 1415.99}
+  - {text: "In 2021, Dolly Parton released an updated version of her original song.", start: 1416.80, end: 1420.98}
+  - {text: "It is called Five to Nine, in ode to all the extra hours women have to work.", start: 1421.12, end: 1427.14}
+  - {text: "She can certainly write a catchy tune, but jeez, it's depressing.", start: 1433.88, end: 1437.68}
+  - {text: "That's sort of the brilliance of this whole 9 to 5 thing.", start: 1438.36, end: 1441.38}
+  - {text: "Like, you're like dancing along, you're enjoying it, and then when you really listen to the lyrics, you're like, wait, this is a little messed up.", start: 1441.54, end: 1447.70}
+  - {text: "Like, why does it have to be this way?", start: 1447.86, end: 1449.54}
+  - {text: "And thus, the greatness of Dolly Parton.", start: 1450.18, end: 1452.90}
+  - {text: "Okay, do not miss our Friday episode about the invention of a new type of tomato and why the produce section at all of our grocery stores is starting to look, I don't know, little fancy,", start: 1462.30, end: 1473.48}
+  - {text: "you know, sungolds and cuties and all that.", start: 1473.74, end: 1475.40}
+  - {text: "We have the story of what it takes to make a new fruit that you can trademark and where the money from that goes.", start: 1475.70, end: 1481.54}
+  - {text: "Scroll down in the Planet Money Beat to find that episode.", start: 1481.98, end: 1484.20}
+  - {text: "Today's bonus show was produced by Nick Fountain and James Snead and edited by Mitra Kaboli.", start: 1484.80, end: 1489.38}
+  - {text: "Cenari Glinton was my co -host.", start: 1489.86, end: 1491.68}
+  - {text: "He has a new book coming out called Blackonomics.", start: 1491.84, end: 1494.72}
+  - {text: "We can find more, including how to pre -order if you Google Blackonomics and Cenari Glinton.", start: 1494.90, end: 1499.44}
+  - {text: "As always, thanks to our NPR Plus supporters to get bonus episodes and sponsor -free listening.", start: 1499.96, end: 1504.80}
+  - {text: "I'm Sarah Gonzalez, this is NPR.", start: 1505.12, end: 1506.76}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1528.18, end: 1531.86}
+  - {text: "Capella University's FlexPath Learning Format lets you earn your degree at your pace without putting life on pause.", start: 1553.24, end: 1559.30}
+  - {text: "Learn more at capella .edu.", start: 1559.60, end: 1561.20}
+---

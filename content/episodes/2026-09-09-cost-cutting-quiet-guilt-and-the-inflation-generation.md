@@ -1,0 +1,385 @@
+---
+layout: single
+title: "Cost-cutting, quiet guilt and the inflation generation"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-09T00:00:00Z
+slug: "2026-09-09-cost-cutting-quiet-guilt-and-the-inflation-generation"
+audioDir: "2026-09-09-cost-cutting-quiet-guilt-and-the-inflation-generation"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-09-cost-cutting-quiet-guilt-and-the-inflation-generation/episode.mp3"
+totalDuration: 1666.1
+sentences:
+  - {text: "This message comes from Capital One Commercial Bank.", start: 0.00, end: 2.52}
+  - {text: "Access comprehensive solutions from a top commercial bank that prioritizes your needs today and goals for tomorrow.", start: 2.76, end: 10.06}
+  - {text: "Learn more at capital .one -slash -commercial, member FDIC.", start: 10.48, end: 14.64}
+  - {text: "This is Planet Money from NPR.", start: 15.99, end: 18.23}
+  - {text: "How are you doing?", start: 20.99, end: 21.73}
+  - {text: "We know what it's like out there.", start: 22.35, end: 23.33}
+  - {text: "We've seen the stats on the economy.", start: 23.45, end: 24.65}
+  - {text: "We also know the stats don't fully capture what you're all dealing with.", start: 25.21, end: 27.99}
+  - {text: "We know this because we asked you to tell us how you've been doing, and we heard back from many of you.", start: 28.29, end: 32.73}
+  - {text: "Hello, Planet Money. I'm Alan Miller from...", start: 32.95, end: 35.25}
+  - {text: "Hey, my name is Lindsay Cole.", start: 35.25, end: 36.01}
+  - {text: "I'm a professor. I'm Rick Schultz.", start: 36.49, end: 38.23}
+  - {text: "I'm retired. My name's Stephen Lloyd.", start: 38.39, end: 40.07}
+  - {text: "I'm 24. My name's Josh Buck.", start: 40.35, end: 42.11}
+  - {text: "I'm a truck driver.", start: 42.37, end: 43.09}
+  - {text: "The economy is treating so many of you, or listeners, very differently right now.", start: 43.29, end: 47.17}
+  - {text: "It is boom times for some, bleak for others.", start: 47.29, end: 49.75}
+  - {text: "It's kind of like the everything all at once economy.", start: 50.09, end: 52.81}
+  - {text: "77 % of Americans say they're stressed about their finances, but if you own assets like stocks or property, you might be feeling good right now.", start: 53.17, end: 60.67}
+  - {text: "Homes have appreciated so much.", start: 61.11, end: 63.07}
+  - {text: "And if you're open to selling your home...", start: 63.23, end: 65.85}
+  - {text: "That was a huge win when I sold it.", start: 65.85, end: 67.29}
+  - {text: "I got quite a nice pocket full of cash.", start: 67.57, end: 70.25}
+  - {text: "Nice. Unemployment is also relatively low overall, but the people who are unemployed right now are unemployed for way longer because turnover is so low right now.", start: 70.63, end: 80.93}
+  - {text: "It's hard to find a job or leave a job.", start: 81.03, end: 83.01}
+  - {text: "It is just absolutely brutal.", start: 83.23, end: 84.67}
+  - {text: "I have so many applications out there that I've just gone absolutely nowhere.", start: 85.01, end: 89.62}
+  - {text: "Wages are up a tiny bit, but not for everyone.", start: 90.08, end: 93.34}
+  - {text: "So my entire paycheck only covers my child care payment and my student loan payments a month.", start: 93.56, end: 97.94}
+  - {text: "That is it. And then it is gone.", start: 98.06, end: 99.64}
+  - {text: "Inflation also down from its peak to 3 .4%, but that still means that prices are 3 .4 % higher than they were this time last year.", start: 100.92, end: 109.52}
+  - {text: "And this is an average, right?", start: 109.88, end: 111.26}
+  - {text: "So the price changes for specific goods can be much less than that or much, much more.", start: 111.38, end: 117.52}
+  - {text: "Two years ago, I could get a two -liter of brand name soda on sale for a dollar.", start: 118.24, end: 124.42}
+  - {text: "Today it's on sale for 350.", start: 124.88, end: 126.12}
+  - {text: "That doesn't feel like three or 4%.", start: 126.68, end: 128.86}
+  - {text: "You know, it feels like eight or 15 or in some cases 100%.", start: 129.50, end: 135.12}
+  - {text: "After hearing from you, a few themes popped up.", start: 135.12, end: 137.68}
+  - {text: "The economy is pushing some people into hyper -priced consciousness and others into the most comfortable period of their lives.", start: 138.02, end: 144.94}
+  - {text: "And then there are those whose entire economic views are being shaped by this moment.", start: 145.22, end: 149.34}
+  - {text: "Like I was just like thrust into a world like that.", start: 149.68, end: 152.44}
+  - {text: "This is 17 -year -old Leo Vamaca who spends so much of his time thinking about.", start: 152.72, end: 157.32}
+  - {text: "Honestly, spending money. How much money I have.", start: 157.66, end: 161.35}
+  - {text: "We're gonna spend a little time with Leo who is part of the newest generation of consumers.", start: 161.71, end: 165.69}
+  - {text: "Leo's a high school senior and he has two jobs.", start: 166.11, end: 168.51}
+  - {text: "I've been working since, well, I guess I've been working since I was 13, but a lot of it was under the table, I would say.", start: 168.51, end: 176.61}
+  - {text: "Uh -huh. You sure you want to tell us that?", start: 176.73, end: 178.69}
+  - {text: "Yeah, yeah, you know, like scorekeeping hockey games and stuff, that was a lot of like what I was doing.", start: 178.91, end: 184.15}
+  - {text: "When Leo started working, making money and spending money, it was four years ago when we had peak inflation.", start: 184.55, end: 191.07}
+  - {text: "Inflation that so many of us had never seen in our lives.", start: 191.27, end: 194.93}
+  - {text: "So much of what he's known is this era of inflation.", start: 194.93, end: 198.05}
+  - {text: "Even as I make more money, I'm like, where is it going?", start: 198.37, end: 201.03}
+  - {text: "Where is it going?", start: 201.19, end: 201.65}
+  - {text: "Because the prices increase, you know.", start: 201.85, end: 203.99}
+  - {text: "Oh, well you know.", start: 204.41, end: 205.53}
+  - {text: "Leo says he and his friends have started doing some old school coupon clipping.", start: 205.87, end: 210.39}
+  - {text: "It definitely caught on this year and has become much more of a thing.", start: 210.73, end: 214.65}
+  - {text: "Are you guys like a coupon crew then?", start: 214.85, end: 216.43}
+  - {text: "Yeah, I mean you could say that.", start: 216.59, end: 217.73}
+  - {text: "We'll go to like the same CVS, right?", start: 217.87, end: 221.13}
+  - {text: "We'll like caravan over there together.", start: 221.25, end: 222.95}
+  - {text: "The latest price conscious inflation generation has entered the economy.", start: 222.95, end: 228.27}
+  - {text: "Hello and welcome to Planet Money.", start: 228.93, end: 230.19}
+  - {text: "I'm Sara Gonzalez and I'm Erica Barris and we are checking in with you, our Planet Money community.", start: 230.37, end: 235.51}
+  - {text: "Because we're all trying to figure out this confusing economic moment.", start: 235.69, end: 239.39}
+  - {text: "Today on the show, we hear about your extreme cost cutting, the quiet guilt you're feeling from your own economic luck and consumer habits forming in the younger generation.", start: 240.03, end: 250.91}
+  - {text: "When you grow up around economic volatility, it can affect your beliefs and your behavior for the rest of your life.", start: 250.91, end: 257.65}
+  - {text: "This message comes from LinkedIn.", start: 295.85, end: 297.89}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 298.33, end: 302.71}
+  - {text: "It's even harder to do it efficiently.", start: 303.05, end: 304.37}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 304.81, end: 308.73}
+  - {text: "With LinkedIn, simplify your sales, marketing and hiring so that you can actually run your small business.", start: 309.03, end: 315.27}
+  - {text: "Learn more at LinkedIn .com slash Planet Money show.", start: 315.67, end: 319.11}
+  - {text: "When we asked the listeners to check in, we did hear from a decent amount of you who said, you're actually doing pretty good in this economy.", start: 319.83, end: 326.81}
+  - {text: "But we also heard from many of you who are struggling.", start: 327.31, end: 330.37}
+  - {text: "You're changing your behavior and consumer habits in big ways.", start: 330.71, end: 334.09}
+  - {text: "I mean, honestly, if I'm being honest, when we read your email unanimously, we were like, wait, a professor's going through all of this and dealing with all of this.", start: 334.43, end: 345.56}
+  - {text: "Yeah. So I think there's a lot of misconceptions around how much money people think professors make.", start: 345.70, end: 352.12}
+  - {text: "This is listener Lindsey Cole who wrote into us.", start: 352.24, end: 354.50}
+  - {text: "And I'm sure, you know, if you worked at an Ivy League, you make decent money.", start: 354.62, end: 358.46}
+  - {text: "But most of us make probably what public school teachers make.", start: 358.54, end: 363.48}
+  - {text: "At least that's what she's been making, teaching forensic psychology at a small liberal arts college in the Northeast.", start: 363.82, end: 369.62}
+  - {text: "Her husband is also a full -time professor at a different university, so dual income, but it's been very tight for their family.", start: 370.04, end: 376.94}
+  - {text: "So I have two boys.", start: 377.34, end: 377.96}
+  - {text: "They have a six -year -old and a four -year -old.", start: 378.38, end: 379.68}
+  - {text: "They're very active boys.", start: 380.18, end: 381.78}
+  - {text: "Currently, they like to stand outside in Spider -Man costumes, hoping cars honk and, you know, kids alone.", start: 382.22, end: 387.50}
+  - {text: "It's expensive. You know, we know things are more expensive.", start: 387.74, end: 391.50}
+  - {text: "Inflation has been sticky.", start: 391.84, end: 393.24}
+  - {text: "I feel it every day.", start: 393.48, end: 394.74}
+  - {text: "But Lindsey in particular stood out to us because what she deals with on a day -to -day basis takes us beyond the numbers and what the stats miss.", start: 395.14, end: 402.92}
+  - {text: "Take wages, for example.", start: 403.28, end: 404.48}
+  - {text: "Technically, nominal wages have gone up, meaning the literal dollar amount on paychecks, but just slightly.", start: 404.86, end: 410.72}
+  - {text: "They're growing at 3 .1%.", start: 411.00, end: 412.52}
+  - {text: "But when you factor in inflation, which is 3 .4 % right now, there is no real wage growth on average.", start: 412.52, end: 419.66}
+  - {text: "We collectively are making less money when you factor in inflation.", start: 419.82, end: 422.94}
+  - {text: "And of course, not everyone's seeing any wage growth at all.", start: 423.50, end: 426.86}
+  - {text: "I haven't gotten even a cost of living adjustment, and I don't know how long, like, and we know how much inflation has been.", start: 426.86, end: 433.78}
+  - {text: "I mean, I haven't gotten...", start: 433.94, end: 435.06}
+  - {text: "We've gotten costs of living adjustments of, like, 2 .5%.", start: 435.06, end: 438.46}
+  - {text: "And you're like, hmm, inflation's more than that.", start: 438.46, end: 442.38}
+  - {text: "Absolutely. And we're not even getting that.", start: 442.40, end: 443.92}
+  - {text: "It's literally just stagnant.", start: 444.08, end: 446.28}
+  - {text: "And actually this summer, she kind of got a pay cut.", start: 446.58, end: 449.78}
+  - {text: "She used to get a flat fee for teaching a summer course, but the college changed the pay structure to a per -student rate.", start: 450.14, end: 456.80}
+  - {text: "$400 for every student she brings in.", start: 457.24, end: 459.38}
+  - {text: "The competitiveness that it's going to create amongst faculty of, you know, coming and you'll basically get an A in my class.", start: 459.62, end: 466.54}
+  - {text: "So there'll be a lot less work.", start: 466.76, end: 468.04}
+  - {text: "Oh, the easy A classes.", start: 468.56, end: 469.52}
+  - {text: "Those ones are going to do great.", start: 469.82, end: 471.36}
+  - {text: "Yeah. So I'm just...", start: 471.66, end: 472.62}
+  - {text: "Just be that professor, Lindsay.", start: 472.62, end: 473.72}
+  - {text: "Well, I mean, you know, you have standards for yourselves then.", start: 473.86, end: 478.22}
+  - {text: "But when it's really digging your livelihood, it's hard not to feel the pull of that.", start: 478.84, end: 485.16}
+  - {text: "Lindsay got paid less this summer for teaching two classes than she got last summer for teaching one class.", start: 485.58, end: 491.04}
+  - {text: "And she was really banking on the full summer pay because she's got this van.", start: 491.24, end: 496.74}
+  - {text: "It is finicky. My kids call it ghost van because it'll turn itself on and off randomly.", start: 497.54, end: 503.86}
+  - {text: "The car turns on and off?", start: 504.50, end: 505.88}
+  - {text: "Oh, yeah. No, no, the car.", start: 505.96, end: 507.40}
+  - {text: "The car turns on and off.", start: 507.62, end: 508.80}
+  - {text: "Sometimes I sit in a parking lot for 10 minutes trying to get the car to just stay on or stay off.", start: 509.12, end: 514.24}
+  - {text: "What a waste of time.", start: 514.40, end: 515.10}
+  - {text: "And then the AC on the van just busted this summer.", start: 515.42, end: 519.16}
+  - {text: "They had plans to finally put a down payment on a new car.", start: 519.54, end: 522.76}
+  - {text: "But when the summer pay structure changed, that went out the window, which is always open now.", start: 522.96, end: 527.78}
+  - {text: "So we're driving around with the windows down.", start: 528.02, end: 530.10}
+  - {text: "We had like a week where it was like 100 degrees outside.", start: 530.26, end: 532.46}
+  - {text: "And when I went to pick up the kids from camp and daycare, I had like packs of cold washcloths for them to hang on their necks", start: 532.46, end: 540.34}
+  - {text: "while we were in the car so they wouldn't get overheated.", start: 540.34, end: 542.52}
+  - {text: "Lindsay says people are often surprised to hear that two full -time college professors can't afford a setback like a busted car or even a simple", start: 542.88, end: 551.98}
+  - {text: "pleasure like a play date for their kids.", start: 551.98, end: 553.96}
+  - {text: "That stings a little bit, right?", start: 554.36, end: 556.26}
+  - {text: "Of like, ah, but working professionals, like I should be able to let my kid go with their friend to the trampoline park like every once in a while.", start: 556.54, end: 565.18}
+  - {text: "Lindsay feels like she and her husband followed all the rules and did everything they were supposed to do.", start: 565.64, end: 571.70}
+  - {text: "We should be on the upswing of the K -shaped economy.", start: 571.90, end: 574.94}
+  - {text: "And we're just not.", start: 575.42, end: 577.12}
+  - {text: "Are you just naturally interested in econ because you've thrown around some econ a couple of times?", start: 577.56, end: 583.06}
+  - {text: "Yeah, I mean, I probably learned it from you guys, to be honest.", start: 583.26, end: 585.78}
+  - {text: "All right, the K -shaped economy, which many economists say we have right now, though there are some skeptics, is basically one economy with two different experiences.", start: 586.38, end: 594.38}
+  - {text: "Some people are spending big, increasing their wealth and on track to continue.", start: 594.82, end: 598.28}
+  - {text: "So they're on the top half of the K with the arm of the K going up, while others have slower spending growth, stagnating or decreasing wages", start: 598.54, end: 606.70}
+  - {text: "and growing debt and are on track to continue that.", start: 606.70, end: 610.18}
+  - {text: "So they're the bottom half of the K with the leg of the K going down.", start: 610.28, end: 613.56}
+  - {text: "Now, Lindsay and her family are not at the very bottom of the K.", start: 613.84, end: 617.30}
+  - {text: "They own a house, they can afford childcare so they can work, but they are struggling.", start: 617.42, end: 621.58}
+  - {text: "I think it's also kind of crazy when you hear people like politicians saying everything is fine because this one group of people is doing amazing and look, they are spending.", start: 622.02, end: 633.20}
+  - {text: "And like, whoa, yeah, good for the overall economy.", start: 633.60, end: 635.60}
+  - {text: "But I'm not taking a shower tonight, right?", start: 636.00, end: 639.46}
+  - {text: "Because I'm trying to keep my water building.", start: 639.62, end: 641.50}
+  - {text: "Yeah, Lindsay and her family, they're not spending big right now.", start: 642.00, end: 645.30}
+  - {text: "They're actually rationing. Rationing the kid's snacks, electricity, the hot water.", start: 645.44, end: 650.76}
+  - {text: "Yeah, so the kids used to take separate baths that now they're forced to take together bath because I'm just like, we have to get through until the gas prices drop because I don't want to pay.", start: 651.12, end: 663.22}
+  - {text: "The hot water in Lindsay's house runs on heating oil and the high price of crude oil right now is also keeping heating oil prices high.", start: 663.66, end: 670.94}
+  - {text: "It costs like $1 ,300 to fill up the tank in her house.", start: 671.30, end: 674.08}
+  - {text: "And I think I told you, I've switched up some of our oven usage too to try to keep the electrical costs down.", start: 674.38, end: 680.90}
+  - {text: "This is what Lindsay wrote to us about, her oven usage.", start: 680.90, end: 685.14}
+  - {text: "And I don't think I'm overstating this.", start: 685.70, end: 687.12}
+  - {text: "Lindsay basically plans her whole life around when she's going to turn on her oven because Lindsay likes good bread, not cheapo sliced bread.", start: 687.70, end: 696.12}
+  - {text: "So she's baking their family's bread and muffins to try to save money.", start: 696.26, end: 700.14}
+  - {text: "And I had rationalized keeping it going because I was like, I'm saving us so much money from not buying that $10 loaf of bread when I go to the grocery store.", start: 700.36, end: 711.04}
+  - {text: "And then somebody said to me, yeah, but it costs so much money to run your oven at like 450, 500 degrees.", start: 711.36, end: 716.56}
+  - {text: "And it kind of clicked.", start: 716.76, end: 717.56}
+  - {text: "I was like, oh, am I even saving us any money by doing this?", start: 717.68, end: 721.38}
+  - {text: "And so I pulled up last year's bill.", start: 721.80, end: 723.70}
+  - {text: "I pulled up this year's bill.", start: 723.86, end: 725.06}
+  - {text: "And then I was paying attention to the actual usage like the kilowatt hours.", start: 725.26, end: 728.34}
+  - {text: "She's tracking their family's kilowatt per hour usage.", start: 728.70, end: 731.98}
+  - {text: "Not because she's like into this stuff because she needs to squeeze out any cost savings she can.", start: 732.34, end: 737.74}
+  - {text: "Or if there's a particularly cooler day coming, like I'll save the baking for that day.", start: 737.74, end: 741.66}
+  - {text: "No, you do not.", start: 742.12, end: 743.46}
+  - {text: "I do. I absolutely do.", start: 743.68, end: 745.14}
+  - {text: "This is, you're doing so many mental gymnastics.", start: 746.20, end: 751.26}
+  - {text: "It's the water usage.", start: 752.04, end: 753.10}
+  - {text: "It's when to use the oven.", start: 753.40, end: 754.58}
+  - {text: "I mean, you know, because you teach psychology.", start: 755.42, end: 757.64}
+  - {text: "But this is what they call the cognitive burden.", start: 758.26, end: 761.56}
+  - {text: "The cognitive load, yeah.", start: 761.58, end: 762.50}
+  - {text: "Yeah, for sure. The cognitive tax for trying to make the finances work for your household.", start: 762.78, end: 768.16}
+  - {text: "It is, yeah. The cognitive tax isn't just about the mental load for Lindsey.", start: 768.64, end: 773.30}
+  - {text: "It's about all the things she's not doing for the larger economy because her brain and time are so tied up trying to save money.", start: 773.60, end: 780.80}
+  - {text: "Like the energy you're expending is taking away from other things that you could be doing.", start: 781.30, end: 787.30}
+  - {text: "Like it's like you are less good at doing your job because you're dealing with all this other stuff.", start: 787.42, end: 794.74}
+  - {text: "Yeah, less good at a lot of things, right?", start: 795.22, end: 796.92}
+  - {text: "But if you could be saving $2 here and $2 there, like I think those drops in the bucket will add up at some point.", start: 796.92, end: 803.20}
+  - {text: "And I do feel this sense of guilt about not making the effort where the effort could be made to make a difference for my family.", start: 803.66, end: 813.14}
+  - {text: "And this is why her email really stood out to us because you have a professor here putting so much mental energy and her analytical research skills towards questions like,", start: 813.58, end: 821.44}
+  - {text: "does it save money to bake bread versus buy it when you factor in electricity costs in the middle of the summer?", start: 821.60, end: 826.52}
+  - {text: "And that cognitive tax, it is worse for people who are much lower income than Lindsey.", start: 827.02, end: 831.52}
+  - {text: "But even for Lindsey, there is kind of a silver lining that this odd economy is offering.", start: 833.14, end: 839.64}
+  - {text: "Like, I know Trump keeps saying, how's your 401k doing?", start: 840.12, end: 843.04}
+  - {text: "I'm like, it's doing great, but what do I do with that?", start: 843.66, end: 846.83}
+  - {text: "Like, I can't use that for another 30 or 40 years.", start: 846.99, end: 849.27}
+  - {text: "So like, yay, my retired self.", start: 849.49, end: 852.15}
+  - {text: "You said your retired self is looking pretty good though.", start: 853.05, end: 855.41}
+  - {text: "Well, I mean, compound interest, right?", start: 855.41, end: 858.79}
+  - {text: "Yeah, and speaking of retirement?", start: 859.15, end: 861.43}
+  - {text: "Yeah, we're very, very, very lucky.", start: 861.91, end: 863.63}
+  - {text: "There are some real winners in this economy, like some people whose retirement accounts are allowing them to live more comfortably than they even like to admit.", start: 863.91, end: 871.93}
+  - {text: "Also, we hear more from 17 -year -old Leo and the potential generational impacts of living through inflation spikes.", start: 872.35, end: 879.93}
+  - {text: "That's after the break.", start: 880.35, end: 881.23}
+  - {text: "This message comes from NPR sponsor Charles Schwab Financial decisions can be tricky.", start: 890.77, end: 896.15}
+  - {text: "Your biases can lead you astray.", start: 896.55, end: 898.43}
+  - {text: "Financial Decoder, an original podcast from Charles Schwab, can help.", start: 898.87, end: 902.71}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 903.01, end: 908.41}
+  - {text: "This message comes from Northwestern Mutual.", start: 909.07, end: 911.37}
+  - {text: "Life's a lot lately.", start: 911.75, end: 913.17}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 913.59, end: 917.69}
+  - {text: "It all starts with Northwestern Mutual.", start: 918.11, end: 919.97}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 920.33, end: 928.27}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 928.75, end: 933.85}
+  - {text: "This message comes from LinkedIn.", start: 934.77, end: 936.19}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 936.65, end: 941.01}
+  - {text: "It's even harder to do it efficiently.", start: 941.31, end: 942.69}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 943.11, end: 947.07}
+  - {text: "With LinkedIn, simplify your sales, marketing, and hiring so that you can actually run your small business.", start: 947.37, end: 953.57}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 953.95, end: 957.43}
+  - {text: "This message comes from Active Campaign.", start: 957.97, end: 959.97}
+  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 960.55, end: 964.99}
+  - {text: "That's Active Intelligence by Active Campaign.", start: 965.33, end: 967.77}
+  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 968.11, end: 973.53}
+  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 973.83, end: 978.33}
+  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 978.33, end: 983.35}
+  - {text: "Start free at ActiveCampaign .com.", start: 983.63, end: 985.93}
+  - {text: "Okay, so some of you who wrote in were more the lenses of the economic moment, you know, really jumping through hoops to make money stretch.", start: 987.42, end: 994.68}
+  - {text: "Others were more of a rick.", start: 995.38, end: 997.24}
+  - {text: "Retired and feeling good.", start: 997.68, end: 999.26}
+  - {text: "You said that a lot of your elderly friends, your words, are in a similar situation financially as you.", start: 999.62, end: 1007.92}
+  - {text: "And then you put, and we do not talk about it much.", start: 1007.92, end: 1010.82}
+  - {text: "Like that's not a conversation.", start: 1011.54, end: 1013.70}
+  - {text: "No. No, no. This is Rick Schultz who said he is very, very, very lucky right now.", start: 1014.04, end: 1019.02}
+  - {text: "Well, yeah, we are.", start: 1019.38, end: 1020.52}
+  - {text: "We're very, very fortunate.", start: 1020.76, end: 1021.88}
+  - {text: "I mean, you emailed us and said, your income exceeds your daily expenditures by nearly $2 ,000 a month.", start: 1022.34, end: 1029.92}
+  - {text: "Yep, we're pleased. On a fixed income, that's pretty good.", start: 1030.28, end: 1033.36}
+  - {text: "Yeah, we're very, very, very lucky.", start: 1033.78, end: 1035.50}
+  - {text: "Rick is not rolling in it.", start: 1035.84, end: 1037.50}
+  - {text: "Okay, he's still paying off his house, paying a mortgage.", start: 1037.50, end: 1040.04}
+  - {text: "He doesn't feel at all stressed about finances, but he notices that prices are high.", start: 1040.50, end: 1045.88}
+  - {text: "Well, eating out, you see that, and you see filling up your daughter's minivan is a lot more expensive.", start: 1046.26, end: 1054.30}
+  - {text: "Do you fill up your daughter's minivans?", start: 1054.80, end: 1056.54}
+  - {text: "Oh, on occasion. That's a good dad.", start: 1057.34, end: 1060.50}
+  - {text: "How old is your daughter?", start: 1061.38, end: 1062.40}
+  - {text: "She is, I'm supposed to know this, aren't I?", start: 1063.08, end: 1066.04}
+  - {text: "I think she's 38.", start: 1066.22, end: 1067.06}
+  - {text: "Now I'm going to get that wrong and I'm going to get in big trouble.", start: 1067.50, end: 1069.72}
+  - {text: "It's okay, we'll correct it.", start: 1069.90, end: 1071.04}
+  - {text: "We'll change it later.", start: 1071.08, end: 1071.78}
+  - {text: "His daughter is 41.", start: 1072.06, end: 1073.48}
+  - {text: "He checked his little sheet of important dates on his phone for that one.", start: 1073.80, end: 1076.88}
+  - {text: "And one of the reasons we wanted to talk to Rick is because he represents a version of the American dream and retirement that is fleeting,", start: 1077.54, end: 1085.86}
+  - {text: "the fulfillment of a kind of economic promise that for younger generations feels broken.", start: 1086.40, end: 1091.28}
+  - {text: "When Rick emailed us, he wrote, quote, One under -reported economic story is the number of older retired people that are living very good economic lives in their old age.", start: 1091.74, end: 1101.46}
+  - {text: "And there are a few reasons for that.", start: 1101.64, end: 1103.48}
+  - {text: "One, real estate. If you own property, your homes have probably gone up in value.", start: 1103.88, end: 1108.24}
+  - {text: "Another is the stock market.", start: 1108.62, end: 1110.06}
+  - {text: "If you have money in there, I mean the stock market over the past several years is on an incredible historic streak.", start: 1110.38, end: 1116.82}
+  - {text: "It is just up, up, up, up, up, up, up.", start: 1116.96, end: 1120.40}
+  - {text: "And if you're retired, like Rick, that's probably where your money is.", start: 1120.48, end: 1125.06}
+  - {text: "IRAs, individual retirement accounts, 401Ks.", start: 1125.74, end: 1128.58}
+  - {text: "Rick has some of that.", start: 1128.92, end: 1129.50}
+  - {text: "But also, he has a pension.", start: 1129.92, end: 1131.62}
+  - {text: "Two, actually. He worked for the state of Kansas and the state of Iowa doing mental health and disability services jobs.", start: 1132.34, end: 1139.10}
+  - {text: "So you have pensions for the rest of your life from both states?", start: 1139.54, end: 1142.38}
+  - {text: "Yes, yes. Rick says there are some trade -offs to working in public service jobs.", start: 1143.16, end: 1148.52}
+  - {text: "It's not a path to riches necessarily, but he says it is a path to security.", start: 1148.64, end: 1154.00}
+  - {text: "The salaries are not that wonderful.", start: 1154.20, end: 1155.72}
+  - {text: "Benefits are great. Rick also invested in a personal retirement account.", start: 1156.58, end: 1161.74}
+  - {text: "He said he and his wife invested early in their mid -30s and quite substantially.", start: 1162.06, end: 1166.52}
+  - {text: "Even when it was difficult for us to do so.", start: 1167.10, end: 1169.16}
+  - {text: "Even when it was a challenge for us financially.", start: 1169.46, end: 1172.22}
+  - {text: "The standard investing advice has always been to put money into a retirement account as early as possible and choose risky investments in the stock market", start: 1172.78, end: 1180.58}
+  - {text: "when you're still years away from retirement than less risky investments like treasuries when retirement is around the corner.", start: 1180.58, end: 1186.38}
+  - {text: "And that is what Rick did.", start: 1186.66, end: 1188.28}
+  - {text: "So a part of him feels like, yeah, he made the sacrifices early.", start: 1188.76, end: 1191.92}
+  - {text: "But also, he kind of just got lucky that he was born and he retired at the right time when the stock market experienced these gigantic booms and his money compounded.", start: 1192.54, end: 1202.76}
+  - {text: "Rick feels a lot of guilt over this actually because he says what he was able to do in his 30s, he doesn't think people in their 30s today can do.", start: 1203.00, end: 1211.26}
+  - {text: "We could figure out how to squeeze the money out of our budget but nowadays the cost of living has gone up so much.", start: 1211.58, end: 1219.62}
+  - {text: "There's so much less flexibility for younger people to do the same kind of investing.", start: 1220.08, end: 1225.96}
+  - {text: "We heard from a lot of you who felt this exact same way.", start: 1226.32, end: 1230.14}
+  - {text: "You said you were doing fine, but your kids are struggling living at home or they want to do some of the big milestones like getting engaged by a house but they're just not there financially.", start: 1230.30, end: 1240.42}
+  - {text: "And when you hear people talk about, well, the younger generation, they just have to pull themselves up from their bootstraps.", start: 1241.32, end: 1247.64}
+  - {text: "Do the math. That's what I like to tell people.", start: 1248.22, end: 1251.34}
+  - {text: "Do the math. It's not the same.", start: 1251.54, end: 1253.46}
+  - {text: "You like to think it's the same, it's not the same.", start: 1254.64, end: 1256.76}
+  - {text: "All you have to do is look at rent and look at what the minimum wage is.", start: 1257.52, end: 1261.82}
+  - {text: "Rick is refreshingly thoughtful about this stuff.", start: 1262.36, end: 1265.16}
+  - {text: "He says he got where he is now not just through smart decisions that he made and pensions and investments, but also because of these programs that he and his wife benefited from.", start: 1265.46, end: 1274.38}
+  - {text: "Like, Rick got a federal first -time homebuyer's tax credit.", start: 1274.90, end: 1278.98}
+  - {text: "Well, I looked it up before I called you and said, did they still have that?", start: 1279.22, end: 1282.78}
+  - {text: "No, they don't have that anymore.", start: 1283.32, end: 1284.62}
+  - {text: "They haven't had it for years.", start: 1284.70, end: 1286.04}
+  - {text: "There are some homebuyer tax credits still, but the one that Rick got doesn't exist anymore.", start: 1286.38, end: 1290.70}
+  - {text: "Another thing, Rick's wife, she got a job that qualified for student loan forgiveness.", start: 1291.04, end: 1295.00}
+  - {text: "People talk about student loan forgiveness as like a sin now, but we had access to that.", start: 1295.00, end: 1300.36}
+  - {text: "I didn't realize. It does feel like it's like a new thing.", start: 1300.60, end: 1303.46}
+  - {text: "I didn't even know you guys took out loans in the 70s that that college was like 100 bucks a month.", start: 1303.74, end: 1307.96}
+  - {text: "Yeah, well, see, that's the other thing.", start: 1308.32, end: 1309.68}
+  - {text: "Higher education was cheap.", start: 1309.90, end: 1310.90}
+  - {text: "There was bad unemployment in 1975 when Rick graduated college.", start: 1311.30, end: 1314.88}
+  - {text: "He could only get a minimum wage job, but he lived and saved.", start: 1315.10, end: 1319.40}
+  - {text: "Just fine with that, he says.", start: 1319.66, end: 1320.96}
+  - {text: "Can you imagine? That would never happen today.", start: 1321.42, end: 1324.28}
+  - {text: "Meaning like you could rent your own apartment and buy your groceries?", start: 1324.82, end: 1328.12}
+  - {text: "Oh yeah, I did when I graduated, and you could make it.", start: 1328.68, end: 1331.92}
+  - {text: "You could find a way to make it.", start: 1332.22, end: 1333.66}
+  - {text: "So much of what was available to Rick has to do with timing.", start: 1333.88, end: 1337.46}
+  - {text: "Yeah, just like what was going on in the economy, what programs existed when he entered the labor market and had all of his big financial milestones.", start: 1337.76, end: 1345.26}
+  - {text: "Think of all the people who entered the labor market in 2008 -2009 during the financial crisis.", start: 1345.78, end: 1351.52}
+  - {text: "As a generation, millennials started working at depressed wages.", start: 1351.52, end: 1355.14}
+  - {text: "It took more than a decade for them to catch up.", start: 1355.28, end: 1357.74}
+  - {text: "And many still haven't caught up.", start: 1357.96, end: 1359.68}
+  - {text: "Literally, your economic fate can come down to just the year you were born, which brings us back to Leo, the 17 -year -old who has only ever known high -price bikes.", start: 1359.80, end: 1370.00}
+  - {text: "For Leo, gas has been the real killer.", start: 1370.44, end: 1372.86}
+  - {text: "Yeah, when gas hit $5 a gallon and I was going to the pump and I was like feeling it like in my...", start: 1373.10, end: 1378.68}
+  - {text: "I was like, no, stop growing up.", start: 1378.68, end: 1380.20}
+  - {text: "Oh, I was waiting for the click and it's like still going up.", start: 1380.20, end: 1383.34}
+  - {text: "Leo lives with his parents, right?", start: 1383.62, end: 1385.88}
+  - {text: "So he doesn't have to pay rent.", start: 1386.00, end: 1387.42}
+  - {text: "He doesn't have bills, but his parents don't pay for everything.", start: 1387.54, end: 1390.02}
+  - {text: "They have drawn a very defined line on we're not paying for any of your food.", start: 1390.34, end: 1395.02}
+  - {text: "If you're getting food outside of the house, it's you're paying for it.", start: 1395.36, end: 1399.18}
+  - {text: "Hence the two jobs and the coupon clipping.", start: 1399.26, end: 1401.54}
+  - {text: "Teenagers got to eat.", start: 1401.90, end: 1402.66}
+  - {text: "And the reason we're talking to Leo is because he's just starting to figure out how to be a savvy consumer, how to budget, find deals.", start: 1403.16, end: 1409.94}
+  - {text: "But he's only ever done that in this era of volatile prices and bouncing inflation.", start: 1410.34, end: 1414.98}
+  - {text: "His whole life has been achieved by this.", start: 1415.42, end: 1417.08}
+  - {text: "He sees it everywhere, his extracurricular activities.", start: 1417.18, end: 1419.58}
+  - {text: "Leo's a boy scout.", start: 1420.08, end: 1420.86}
+  - {text: "He's one of the grub masters for his troop, which is the person who has to do the grocery shopping for their camping trips.", start: 1421.18, end: 1427.26}
+  - {text: "We actually cooked a full, like suckling pig and presented it for a contest.", start: 1427.56, end: 1434.08}
+  - {text: "Yes, we carried it on a skewer.", start: 1435.14, end: 1435.80}
+  - {text: "Oh, so you're really cooking.", start: 1435.82, end: 1436.68}
+  - {text: "You're cooking like real food.", start: 1436.68, end: 1438.08}
+  - {text: "Oh yeah, yeah. We've got some very good chefs in our troop.", start: 1438.62, end: 1442.24}
+  - {text: "And a lot of what goes into cooking is buying good ingredients.", start: 1442.62, end: 1444.88}
+  - {text: "Leo with his troop leaders and fellow boy scouts has to budget how many dollars they can spend on ingredients per boy scout.", start: 1445.32, end: 1452.48}
+  - {text: "So what it is is per boy, per meal, breakfast is three, lunch is four, dinner is five.", start: 1452.94, end: 1459.72}
+  - {text: "And we had to raise it to four, five, six per meal, respectively, because of the price changes.", start: 1459.94, end: 1466.72}
+  - {text: "Leo is trying to find deals for like nine households worth of people, looking for the best deals on butter, on 30 pounds of potatoes, on sausages, peaches at age 17.", start: 1467.12, end: 1477.36}
+  - {text: "And like any good budgeter, he's putting some limits on the boys.", start: 1477.72, end: 1481.22}
+  - {text: "It's the only way to run a household.", start: 1481.46, end: 1482.46}
+  - {text: "We've been going a little lighter on the lemonade.", start: 1484.50, end: 1486.32}
+  - {text: "People used to put like bigger scoops in their bottles and then we've like started watching a little more.", start: 1486.54, end: 1492.44}
+  - {text: "We're like, you get one scoop.", start: 1492.56, end: 1493.50}
+  - {text: "One scoop? That's barely lemonade.", start: 1493.50, end: 1495.72}
+  - {text: "Unless they want to bring a lemon themselves from home.", start: 1496.22, end: 1498.74}
+  - {text: "And even small penny pinching measures like this, they can shape you.", start: 1499.14, end: 1502.76}
+  - {text: "Plenty of studies have found that living through economic shocks can rewire your brain, make you more price sensitive, change your relationship with risk.", start: 1502.98, end: 1511.18}
+  - {text: "It can even change your expectations of inflation itself, make you feel like inflation can always be around the corner.", start: 1511.26, end: 1518.34}
+  - {text: "And as we've covered before, when people expect inflation, it can lead people to behave in ways that contribute to inflation.", start: 1518.80, end: 1525.60}
+  - {text: "For now, Leo's mainly just buying teenager things.", start: 1526.40, end: 1529.52}
+  - {text: "Like he just ordered Busta Rhymes and MF Doom CDs.", start: 1529.80, end: 1532.72}
+  - {text: "But I think I'm paying full price for those ones.", start: 1533.18, end: 1534.90}
+  - {text: "So yeah, not everything in his life is about thrift.", start: 1535.36, end: 1538.18}
+  - {text: "It can be hard to talk about personal finances, but these are things we're all thinking about and experiencing.", start: 1547.00, end: 1554.16}
+  - {text: "And so we're grateful to all of you who wrote in and shared your stories with us.", start: 1554.38, end: 1557.56}
+  - {text: "And if you have an economic experience that we didn't capture, let us know.", start: 1557.66, end: 1560.86}
+  - {text: "We read every email and Spotify and social media comment.", start: 1561.02, end: 1564.68}
+  - {text: "Even if we cannot reply, they really shape how we think about what stories we do.", start: 1564.88, end: 1568.36}
+  - {text: "So please keep on keeping in touch, planetmoneyatmpr .org or at Planet Money on basically all the social platforms.", start: 1568.60, end: 1576.72}
+  - {text: "And as always, super extra special thanks to our NPR Plus supporters who get sponsor -free listening and bonus episodes and occasional live shows where you can ask us questions.", start: 1577.16, end: 1586.36}
+  - {text: "You can sign up to be an NPR Plus supporter also at plus .npr .org.", start: 1586.74, end: 1591.10}
+  - {text: "This episode of Planet Money was produced by Emma Peasley and edited by Alex Goldmark with reporting help from Charlotte Isidore.", start: 1591.50, end: 1599.92}
+  - {text: "It was back -checked by Sierra Juarez and engineered by Robert Rodriguez.", start: 1600.28, end: 1604.18}
+  - {text: "I'm Sarah Gonzalez. And I'm Erica Barris.", start: 1604.82, end: 1606.86}
+  - {text: "This is NPR. Thanks for listening.", start: 1607.06, end: 1608.52}
+  - {text: "This message comes from NPR sponsor Charles Schwab.", start: 1630.51, end: 1634.45}
+  - {text: "When is the right time to sell a stock?", start: 1634.81, end: 1636.63}
+  - {text: "How do you protect against inflation?", start: 1637.01, end: 1638.71}
+  - {text: "Financial decisions can be tricky, and often your own cognitive and emotional biases can lead you astray.", start: 1639.19, end: 1645.25}
+  - {text: "Financial decoder, an original podcast from Charles Schwab, can help.", start: 1645.57, end: 1649.75}
+  - {text: "Join host Mark Rebe as he offers practical solutions to help overcome the cognitive and emotional biases that may affect your investing decisions.", start: 1650.01, end: 1659.59}
+  - {text: "Download the latest episode and subscribe at Schwab .com slash Financial Decoder.", start: 1659.87, end: 1665.41}
+---

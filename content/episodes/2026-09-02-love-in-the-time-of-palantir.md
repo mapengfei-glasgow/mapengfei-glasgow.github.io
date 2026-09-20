@@ -1,0 +1,369 @@
+---
+layout: single
+title: "Love in the time of Palantir"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-02T00:00:00Z
+slug: "2026-09-02-love-in-the-time-of-palantir"
+audioDir: "2026-09-02-love-in-the-time-of-palantir"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-02-love-in-the-time-of-palantir/episode.mp3"
+totalDuration: 1725.2
+sentences:
+  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16}
+  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.52, end: 8.52}
+  - {text: "There, build your own family meal, feeds four for just $35.", start: 8.88, end: 12.62}
+  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30}
+  - {text: "This is Planet Money from NPR.", start: 16.86, end: 19.22}
+  - {text: "A few weeks ago, there was an ad on Instagram for an event in New York called Singles Dating Matching Using Palantir Data.", start: 22.02, end: 29.36}
+  - {text: "The ad went on to explain that if you bought a ticket, you could come, maybe find, love using the same technology that tracked down Osama bin Laden.", start: 29.36, end: 38.54}
+  - {text: "The evening promised data analysis and pattern -matching exclamation mark.", start: 39.18, end: 43.66}
+  - {text: "To be clear, Palantir is a company known for working with ICE in the Department of Defense and it is rumored to have helped track down bin Laden, although that has never been confirmed.", start: 44.28, end: 54.86}
+  - {text: "Needless to say, Palantir not known for making love matches.", start: 55.46, end: 59.12}
+  - {text: "Now look, this event is clearly at least a little bit of a joke, but we wanted to see who would show up.", start: 59.80, end: 65.86}
+  - {text: "Can I ask why you guys came tonight?", start: 66.16, end: 67.42}
+  - {text: "We both work in tech and we're critical of tech but also wanted to see how we might be optimized for love.", start: 67.86, end: 76.94}
+  - {text: "Are you actually looking to meet anybody?", start: 77.32, end: 78.92}
+  - {text: "I mean, if it happens, it happens.", start: 79.64, end: 80.78}
+  - {text: "Are you nervous? Like on a one to ten, maybe like a four?", start: 81.26, end: 86.25}
+  - {text: "Zaza Swong, Alejandro Ojeda Olarte and Lina Rojas were some of the 60 or so people who had bought a $20 ticket to this event.", start: 86.71, end: 93.75}
+  - {text: "Most had given the organizer their name and their phone number.", start: 94.27, end: 97.63}
+  - {text: "So the question was, what data could be pulled about them with just that info?", start: 98.17, end: 103.63}
+  - {text: "Zach Young and Latifa Alibi weren't sure.", start: 104.17, end: 106.73}
+  - {text: "I want to see what my file holds.", start: 107.11, end: 109.51}
+  - {text: "And I was maybe teased that they found a lot about me.", start: 110.07, end: 114.25}
+  - {text: "I really don't have a ton to hide or I'm scared of.", start: 114.91, end: 118.07}
+  - {text: "Famous last words, I guess.", start: 118.39, end: 119.43}
+  - {text: "Palantir is a company that makes software in order to analyze data.", start: 120.09, end: 123.97}
+  - {text: "And there is this public perception of Palantir as a monolithic panopticon company watching all of us all the time.", start: 124.51, end: 132.39}
+  - {text: "And so a lot of people came to this event just trying to figure out what is the truth about Palantir, including Latifa.", start: 132.97, end: 139.91}
+  - {text: "They're really going to show the data Palantir and like plot cameras have.", start: 140.27, end: 144.22}
+  - {text: "It's also a good like privacy awareness event, right?", start: 144.28, end: 147.24}
+  - {text: "Like you shouldn't know what everybody else knows about you.", start: 147.44, end: 150.38}
+  - {text: "Another attendee, Jeannie Chan.", start: 150.80, end: 152.44}
+  - {text: "She was concerned about her secrets being found in all the data.", start: 152.98, end: 155.84}
+  - {text: "But she had also found a way to maintain some privacy.", start: 156.04, end: 159.02}
+  - {text: "What data are you worried about them knowing about you?", start: 159.42, end: 162.68}
+  - {text: "Oh, that's a good one.", start: 164.82, end: 165.98}
+  - {text: "I'm afraid to say.", start: 166.98, end: 167.84}
+  - {text: "But there's something on the Internet that you're like, I don't know if they don't find that.", start: 168.34, end: 170.78}
+  - {text: "I'm sure there is, yes.", start: 170.86, end: 172.14}
+  - {text: "How much faith do you have in their accuracy?", start: 173.28, end: 175.18}
+  - {text: "I hope not great, but also my name is pretty common as well.", start: 176.24, end: 179.72}
+  - {text: "So when you search your name, you'll find like a whole bunch of different people.", start: 179.84, end: 182.12}
+  - {text: "A bunch, a lot, yes.", start: 182.38, end: 183.04}
+  - {text: "I actually even have a doppelganger who does my job, my role living in New York.", start: 183.24, end: 187.06}
+  - {text: "So I hope they find that one.", start: 187.34, end: 188.50}
+  - {text: "Talking to the people here, everyone's got a lot of questions about data surveillance these days.", start: 188.50, end: 194.06}
+  - {text: "And it is clear that Palantir is this company that looms large in our collective psyche.", start: 194.52, end: 199.50}
+  - {text: "But most people don't have a real sense of what they're actually doing.", start: 200.00, end: 203.48}
+  - {text: "So the event organizer wanted to show the power of what is possible.", start: 204.24, end: 208.60}
+  - {text: "He combed the data out there, polled info about the attendees and compiled dating profiles and some potential matches.", start: 209.18, end: 216.78}
+  - {text: "We are just about ready to get started and give you your match.", start: 216.78, end: 219.94}
+  - {text: "You're not going to find it, we're going to give it to you.", start: 220.06, end: 221.70}
+  - {text: "So step on over this way, down the hall to the right.", start: 221.78, end: 225.14}
+  - {text: "Your match awaits, come on in.", start: 225.40, end: 226.88}
+  - {text: "Hello and welcome to Planet Money.", start: 231.88, end: 233.24}
+  - {text: "I'm Amanda Aronchik. Today on the show, we're taking you to a singles event to learn about the company.", start: 233.52, end: 239.00}
+  - {text: "Palantir, of course. What better way to a lot of people?", start: 239.54, end: 243.66}
+  - {text: "Palantir is a mystery.", start: 244.24, end: 245.38}
+  - {text: "What do they know?", start: 245.80, end: 246.66}
+  - {text: "What data do they have?", start: 246.96, end: 247.98}
+  - {text: "What do they do with it all?", start: 248.50, end: 249.80}
+  - {text: "We will dig into that mystery and our event goers attempt to find love in the data.", start: 249.80, end: 255.24}
+  - {text: "This message comes from Capital One.", start: 261.82, end: 264.04}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 264.24, end: 268.04}
+  - {text: "What's in your wallet?", start: 268.14, end: 269.06}
+  - {text: "Terms apply. See capitalone .com slash bank guy for details.", start: 269.36, end: 273.44}
+  - {text: "Capital One NA member FDIC.", start: 273.86, end: 276.08}
+  - {text: "This message comes from Schwab.", start: 276.78, end: 278.68}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place, no matter your investing goal, life stage, amount to invest,", start: 279.16, end: 289.28}
+  - {text: "or know how, you can invest your way with Schwab.", start: 289.58, end: 292.80}
+  - {text: "This message comes from Odoo, the all -in -one business management software platform.", start: 293.86, end: 298.18}
+  - {text: "Whether you're a small or large business, Odoo gives you one flexible platform built to grow with you.", start: 298.72, end: 304.28}
+  - {text: "Try today for free at odoo .com slash Planet Money.", start: 304.62, end: 308.18}
+  - {text: "James Steinberg, the organizer of this Palantir -inspired dating night, has put together a bunch of random tech events over the years.", start: 309.80, end: 317.02}
+  - {text: "A lot of my events start with the pun or the joke.", start: 317.54, end: 320.20}
+  - {text: "Like the upcoming build a happy little robot that draws or re -home a crypto bro where people can pitch hobbies to bros who are trying to move on from crypto.", start: 320.54, end: 330.02}
+  - {text: "I'm a tech guy throwing weird tech events that are somewhat comedic, somewhat tech, somewhat always a little weird.", start: 330.44, end: 336.30}
+  - {text: "James is a real actual tech guy who has founded some startups and spent time working as a cybersecurity CTO.", start: 336.70, end: 343.48}
+  - {text: "So he does know a lot about online privacy.", start: 343.94, end: 346.44}
+  - {text: "Several months ago, he came up with this idea.", start: 346.86, end: 349.26}
+  - {text: "This was too perfect.", start: 349.52, end: 350.34}
+  - {text: "Palantir dating is too perfect.", start: 350.62, end: 351.94}
+  - {text: "Now we should say James is not using quote -unquote data from Palantir.", start: 352.36, end: 357.50}
+  - {text: "He's not using anything from Palantir.", start: 357.82, end: 360.02}
+  - {text: "For James, this event is more of a dark joke, which initially no one thought was very funny.", start: 360.38, end: 366.18}
+  - {text: "I talked to a lot of venues and as soon as I said they were Palantir, they just were like, no.", start: 366.68, end: 370.98}
+  - {text: "And I was like, but you realize I'm not this is like a joke.", start: 371.38, end: 373.60}
+  - {text: "It's satire. They're like, nope.", start: 373.74, end: 375.26}
+  - {text: "So I was like, oh, maybe this is too too much.", start: 375.86, end: 378.68}
+  - {text: "Palantir has been in the news because of its contracts with ICE, because some of the things co -founders Alex Karp and Peter Thiel have said publicly,", start: 379.46, end: 386.56}
+  - {text: "and also because it has been used in the wars in Gaza, Ukraine and Iran.", start: 386.84, end: 390.88}
+  - {text: "It is known for shortening the kill chain.", start: 391.16, end: 394.28}
+  - {text: "So the military has been using Palantir's tools to more quickly identify people it intends to kill.", start: 394.50, end: 400.68}
+  - {text: "So it is not all that surprising that an event about Palantir and dating scared off a few venues, maybe some event goers as well.", start: 401.56, end: 410.44}
+  - {text: "But recently something has changed.", start: 411.14, end: 413.64}
+  - {text: "People want to better understand what exactly Palantir is doing and what data they might have.", start: 413.98, end: 419.42}
+  - {text: "I think when people hear the word Palantir, they think this is a company that owns all of the data.", start: 419.86, end: 425.40}
+  - {text: "So do they own the data?", start: 425.40, end: 427.34}
+  - {text: "Do they buy the data?", start: 427.48, end: 428.32}
+  - {text: "Do they sell the data?", start: 428.42, end: 429.22}
+  - {text: "They do not own the data.", start: 430.10, end: 431.10}
+  - {text: "They do not buy the data, and they definitely don't sell the data.", start: 431.24, end: 434.08}
+  - {text: "This is Mike Steinberger.", start: 434.42, end: 435.66}
+  - {text: "He writes for The New York Times magazine and he recently published a book about Palantir.", start: 435.94, end: 439.70}
+  - {text: "Mike started reporting on a company about seven years ago.", start: 439.94, end: 442.42}
+  - {text: "Mike says that Palantir's mission was to work with government agencies like the CIA.", start: 443.12, end: 448.14}
+  - {text: "They have succeeded, and they've worked with the Department of Homeland Security and ICE, the Department of Defense, the FBI, the IRS, the Department of Justice,", start: 448.68, end: 456.40}
+  - {text: "as well as foreign governments and countless businesses.", start: 456.78, end: 459.22}
+  - {text: "And while there are times when one of Palantir's forward -deployed engineers, yes, that's what they call employees who go out in the field to work with clients,", start: 459.90, end: 467.70}
+  - {text: "when these engineers are working closely with a government agency or a company, then they can see that organization's data.", start: 468.26, end: 474.40}
+  - {text: "But yeah, apart from those instances, Palantir does not actually have access to the data.", start: 474.72, end: 481.34}
+  - {text: "It is simply providing a tool that enables organizations to make better, faster use of their own data.", start: 481.34, end: 488.90}
+  - {text: "Palantir makes software. They don't keep any data, and that is an intentional choice.", start: 489.24, end: 494.36}
+  - {text: "They say that they care a lot about privacy, so much so that they have built in guardrails.", start: 494.82, end: 499.80}
+  - {text: "Like every time an action is performed on Palantir's platform, it is logged and there's a record of it.", start: 500.08, end: 505.22}
+  - {text: "So what does this software that Palantir developed actually do?", start: 505.76, end: 509.64}
+  - {text: "It basically takes messy data sets from all over an organization and makes them legible and useful.", start: 509.64, end: 515.68}
+  - {text: "Here's an example. About 10 years ago, Palantir started working with the manufacturer Airbus.", start: 516.18, end: 520.92}
+  - {text: "The relationship began because Airbus was having some production glitches with its A350 airplane.", start: 521.34, end: 527.50}
+  - {text: "It was costing the company a lot of money because if you don't deliver planes on time, you're paying penalties to the airlines that have purchased them.", start: 527.70, end: 533.82}
+  - {text: "A real problem. Palantir was brought in and the software was able to identify where things were breaking down very quickly.", start: 534.42, end: 542.38}
+  - {text: "At times, Mike says, Airbus was missing their deadline to deliver a plane and was taking them nearly a month to just figure out when and where something had gone wrong.", start: 542.72, end: 551.20}
+  - {text: "They couldn't see the entire production line at once and Airbus's planes were being assembled in eight different plants over four different countries.", start: 551.86, end: 559.42}
+  - {text: "So they called in Palantir.", start: 559.98, end: 561.06}
+  - {text: "Palantir just merged just a very large amount of data very quickly and found the needles in the haystack where things were breaking down.", start: 561.06, end: 570.54}
+  - {text: "Palantir software created a visual representation of the entire A350 production line for Airbus.", start: 570.80, end: 576.52}
+  - {text: "It's kind of like a digital twin where the data gets updated in real time.", start: 576.90, end: 581.10}
+  - {text: "Before Airbus started using Palantir software, it took almost a month to find and fix production glitches.", start: 581.68, end: 587.74}
+  - {text: "After, they were able to cut that time down by a week.", start: 587.74, end: 590.96}
+  - {text: "In some ways, what Palantir does is kind of work a day, maybe even boring, but basically the big idea is that the answer to your company's thorniest issues can be found in the data if only you could see it.", start: 591.58, end: 606.16}
+  - {text: "I want to ask you a question that I'm sure you get asked all the time, which is like, is Palantir software good for making love matches?", start: 606.40, end: 614.18}
+  - {text: "I mean, it's possible.", start: 616.22, end: 618.04}
+  - {text: "It is very, it is, you know, one of the distinguishing features of their software is that it is very flexible, very malleable.", start: 618.28, end: 625.06}
+  - {text: "It can be put to all sorts of purposes and I suppose with their very talented engineers, they could make it a very useful way of trying to find a suitable life partner.", start: 625.22, end: 637.26}
+  - {text: "Which brings us back to the main event, Dating Night.", start: 637.60, end: 641.78}
+  - {text: "James, the event organizer, is now on stage, addressing a crowd of about 60 people.", start: 641.78, end: 647.16}
+  - {text: "Are you here for dating?", start: 647.28, end: 648.78}
+  - {text: "Are you here for Palantir?", start: 649.26, end: 652.23}
+  - {text: "Big data? Big dating?", start: 652.65, end: 653.87}
+  - {text: "James is tall, blondish with a beard.", start: 655.66, end: 658.42}
+  - {text: "He is wearing meta glasses to record the event.", start: 658.70, end: 661.18}
+  - {text: "He's kind of giving nerdy host.", start: 661.58, end: 663.26}
+  - {text: "He tells the crowd, no, he does not, nor has he ever worked for Palantir.", start: 663.74, end: 669.06}
+  - {text: "Yes, he has some friends who work there and he's tried out the platform before, so he's familiar with it, but he is not in any way,", start: 669.36, end: 675.74}
+  - {text: "shape or form actually using Palantir's software tonight.", start: 675.76, end: 679.28}
+  - {text: "And no, they did not endorse this event.", start: 679.88, end: 682.88}
+  - {text: "I don't know if you know, Palantir actually sent me an email to say, don't use the word Palantir and stop doing this type of thing.", start: 682.88, end: 688.78}
+  - {text: "But yeah, they, at the moment, they're just saying me cease and desist, but it was a very good chance they could sue me.", start: 689.90, end: 695.28}
+  - {text: "I could lose everything.", start: 695.40, end: 696.78}
+  - {text: "There is a lot at stake, but it would all be worth it if at least two people here have a spark.", start: 697.28, end: 702.00}
+  - {text: "So no pressure. No pressure, everybody, just find your soulmate.", start: 703.12, end: 707.78}
+  - {text: "James had spent the previous 50 hours taking everyone's phone number and their name and using methodologies inspired by Palantir to put together dating profiles on the people in the crowd.", start: 708.36, end: 719.20}
+  - {text: "He's used data enrichment, basically taking one piece of data and enriching it with more data.", start: 719.68, end: 725.16}
+  - {text: "He's used facial recognition software, reverse phone number lookup, bounty hunter databases.", start: 725.54, end: 731.40}
+  - {text: "He's a licensed bounty hunter.", start: 731.80, end: 733.38}
+  - {text: "Also court records, leaked data that's ended up on the dark web.", start: 733.88, end: 737.52}
+  - {text: "You know, these are a bunch of tricks that he learned while he was working in cybersecurity.", start: 738.10, end: 741.34}
+  - {text: "I've prepared some unusually specific facts about the audience.", start: 741.66, end: 745.44}
+  - {text: "Is Becca here? Becca.", start: 746.18, end: 748.70}
+  - {text: "Yeah. Earlier this year, Becca, you went to Cleveland to see Jake and Jamie's beautiful wedding, right?", start: 749.14, end: 754.12}
+  - {text: "Yeah. Becca gave part of a speech at a wedding.", start: 754.46, end: 757.06}
+  - {text: "Do you think there was maybe too many Taylor Swift references?", start: 757.06, end: 759.90}
+  - {text: "Becca says, though, that is not her fault.", start: 761.08, end: 763.48}
+  - {text: "She didn't write it.", start: 763.76, end: 764.46}
+  - {text: "The crowd is somewhat impressed, although these details are probably Google -able.", start: 764.84, end: 770.18}
+  - {text: "There's also a more traditional dating event segment.", start: 770.74, end: 773.66}
+  - {text: "Based on everyone's dating profiles, James has given everyone a number and a color.", start: 774.26, end: 778.48}
+  - {text: "And James's co -host, comedian Neil Patel, calls up the first potential couple.", start: 778.82, end: 783.64}
+  - {text: "I do want to call up a blue 17 and entity blue 80.", start: 783.64, end: 787.40}
+  - {text: "Are you guys here?", start: 787.58, end: 788.10}
+  - {text: "Two people, number 17 and number 80, stand up and approach the stage.", start: 788.36, end: 792.04}
+  - {text: "All right, coming up.", start: 792.32, end: 793.46}
+  - {text: "Okay, cool. Oh, yes.", start: 793.60, end: 796.55}
+  - {text: "As they make their way, I imagine they are filled with that very specific kind of dread that comes from being pulled on stage at a live event.", start: 797.47, end: 804.43}
+  - {text: "So far, they appear to be game.", start: 805.05, end: 806.51}
+  - {text: "They sit down beside each other on stage, and there is a big screen behind them.", start: 806.77, end: 811.45}
+  - {text: "Comedian Pete Bomber takes the mic.", start: 811.45, end: 813.45}
+  - {text: "Let's give it up for Zach and Jeannie.", start: 813.57, end: 815.11}
+  - {text: "They're doing a weird thing.", start: 817.41, end: 819.23}
+  - {text: "Zach, what is something that you look for in a significant honor?", start: 820.39, end: 825.59}
+  - {text: "It's a bit hard to hear, but Zach says, I like people who read.", start: 825.63, end: 829.33}
+  - {text: "Jeannie, you're reading much these days?", start: 829.88, end: 832.16}
+  - {text: "Nope. All right. Let's just all go home.", start: 832.82, end: 836.82}
+  - {text: "This is the way to go.", start: 837.12, end: 837.94}
+  - {text: "I can see the conversations a little stilted.", start: 837.94, end: 840.32}
+  - {text: "At this point, James decides to take control and starts to use the dating profiles that he's put together.", start: 840.32, end: 845.02}
+  - {text: "He's madly typing on his phone, and random pieces of information about Jeannie start popping up on the screen.", start: 845.50, end: 852.14}
+  - {text: "The first data point says, Jeannie did something with the Ministry of Agriculture in Indonesia.", start: 852.70, end: 857.72}
+  - {text: "Tell us about your experience in agriculture.", start: 858.04, end: 860.06}
+  - {text: "Are you sure that's me?", start: 860.62, end: 861.58}
+  - {text: "Jeannie turns out has never done anything with the Ministry of Agriculture in Indonesia.", start: 863.52, end: 867.84}
+  - {text: "There may be mistakes.", start: 867.84, end: 869.96}
+  - {text: "This wasn't the event description.", start: 870.10, end: 871.36}
+  - {text: "Also, maybe Palantir knows something that you don't about yourself.", start: 871.88, end: 875.14}
+  - {text: "Maybe one day you will do something with the Ministry of Agriculture in Indonesia.", start: 875.34, end: 879.20}
+  - {text: "They then put up a couple of photos of Jeannie.", start: 879.96, end: 881.80}
+  - {text: "Is that a real image?", start: 882.24, end: 883.00}
+  - {text: "Jeannie looks over her shoulder to see.", start: 883.14, end: 884.64}
+  - {text: "I'm absolutely offended. Neither of those people are me.", start: 885.74, end: 888.80}
+  - {text: "Oh, never mind. Sorry.", start: 889.06, end: 890.46}
+  - {text: "Why did you do that, man?", start: 890.78, end: 891.64}
+  - {text: "Jeannie, who I spoke with before the show, did say that there is a woman with the same name as her and the same job who also lives in New York.", start: 892.20, end: 899.92}
+  - {text: "So the real Jeannie was going to be hard to find, but also facial recognition software is notoriously bad at recognizing people of color.", start: 900.34, end: 909.88}
+  - {text: "So that leads regularly to misidentifying people also seems kind of racist.", start: 910.34, end: 915.50}
+  - {text: "The upshot is that Jeannie has succeeded at keeping her privacy.", start: 916.30, end: 919.70}
+  - {text: "James and the facial recognition software he used had an easier time with Zach, a tall white man with a beard and glasses.", start: 920.36, end: 927.58}
+  - {text: "The hosts start reading from Zach's dossier.", start: 928.32, end: 930.66}
+  - {text: "The dossier was created, again, with Palantir -inspired techniques, taking different data sources and connecting them to find surprising details.", start: 931.22, end: 939.68}
+  - {text: "They project some of those details up on the big screen.", start: 940.56, end: 943.36}
+  - {text: "Is Zach a machine learning engineer?", start: 943.88, end: 946.32}
+  - {text: "Oh, are you a machine learning engineer?", start: 946.50, end: 947.98}
+  - {text: "Uh, yeah. Yes, yes.", start: 948.40, end: 950.08}
+  - {text: "Did he work for Nike?", start: 950.74, end: 951.52}
+  - {text: "Yep. They start with the easy stuff, almost definitely on his LinkedIn profile, but then the info gets more specific.", start: 951.52, end: 959.90}
+  - {text: "Zach keeps looking over his shoulder at the screen behind him.", start: 960.58, end: 962.96}
+  - {text: "Did Zach build an online tool for the Bernie Sanders 2020 campaign?", start: 964.00, end: 967.44}
+  - {text: "Yeah. Did Zach march in an anti -ice demonstration?", start: 967.68, end: 971.38}
+  - {text: "Yeah, yeah, he did.", start: 972.32, end: 973.42}
+  - {text: "Did you do a week in Goa?", start: 973.94, end: 975.38}
+  - {text: "I did do a week in Goa.", start: 975.94, end: 977.14}
+  - {text: "Yeah, how was that?", start: 977.14, end: 978.02}
+  - {text: "Zach told me he never posted anything about going to Goa or that anti -ice protest.", start: 978.48, end: 984.42}
+  - {text: "So he was really thrown that James had found that out.", start: 984.92, end: 987.84}
+  - {text: "And then James started sharing photos of Zach on the big screen.", start: 988.38, end: 992.24}
+  - {text: "And this was when Zach got really unnerved.", start: 992.48, end: 995.00}
+  - {text: "I called him up later to ask about the photos.", start: 995.78, end: 997.80}
+  - {text: "Um, there's a photo of me at a protest that was, you know, from just someone taking a photo of the crowd.", start: 998.30, end: 1005.98}
+  - {text: "And there was a photo of me.", start: 1006.46, end: 1007.96}
+  - {text: "What looks like it was, it was at a concert, I think by the band.", start: 1008.14, end: 1012.54}
+  - {text: "And you could see me in like the third row back at the concert.", start: 1012.98, end: 1016.96}
+  - {text: "Wait, by the band, what do you mean?", start: 1017.42, end: 1019.10}
+  - {text: "The photo was taken from on the stage.", start: 1019.70, end: 1021.54}
+  - {text: "Did you not know that those have been taken at all?", start: 1022.20, end: 1024.20}
+  - {text: "At all. At all.", start: 1024.90, end: 1026.04}
+  - {text: "Zach did not realize that just walking around in the world and being photographed was growing his digital footprint.", start: 1026.42, end: 1032.82}
+  - {text: "And that all of these details were so findable, especially with facial recognition technology.", start: 1033.30, end: 1039.00}
+  - {text: "Everything put together created an eerily accurate picture of his life.", start: 1039.00, end: 1044.08}
+  - {text: "I never thought of myself as like consenting to being searchable by my face.", start: 1044.22, end: 1049.42}
+  - {text: "And like, oh, any photo that gets taken at me here is like part of my public record now.", start: 1049.64, end: 1054.46}
+  - {text: "I think that's, um, I can't imagine it would be a very popular technology if more people knew that this was possible.", start: 1054.96, end: 1062.54}
+  - {text: "Even though Zach works in AI, he hadn't known what was possible.", start: 1062.98, end: 1067.14}
+  - {text: "The rest of the Palantir dating evening involved more potential couples getting pulled on stage and more dating profiles, which were hit or miss.", start: 1067.14, end: 1075.84}
+  - {text: "Then when it was over, everyone headed to the bar down the hall to mingle, flirt, and unpack what they'd just been through.", start: 1076.42, end: 1084.34}
+  - {text: "After the break, we will dig in more to how Palantir is creating tools that the government can use to assemble files on millions of people.", start: 1086.21, end: 1094.35}
+  - {text: "And did Palantir dating actually make any matches?", start: 1094.35, end: 1098.51}
+  - {text: "Was there love to be found in the data?", start: 1099.03, end: 1101.17}
+  - {text: "That's coming up. Stay tuned for the following announcements and messages from our sponsors.", start: 1101.69, end: 1114.99}
+  - {text: "This message comes from Schwab.", start: 1115.65, end: 1117.21}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place, no matter your investing goal, life stage, amount to invest,", start: 1117.69, end: 1127.79}
+  - {text: "or know how, you can invest your way with Schwab.", start: 1128.07, end: 1131.35}
+  - {text: "This message comes from Odoo, the all -in -one business management software platform.", start: 1131.57, end: 1136.67}
+  - {text: "Whether you're a small or large business, Odoo gives you one flexible platform built to grow with you.", start: 1137.27, end: 1142.77}
+  - {text: "Try today for free at odoo .com slash PlanetMoney.", start: 1143.17, end: 1146.73}
+  - {text: "This message comes from Northwestern Mutual.", start: 1147.30, end: 1149.94}
+  - {text: "Life's a lot lately.", start: 1150.30, end: 1151.72}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1152.14, end: 1156.26}
+  - {text: "It all starts with Northwestern Mutual.", start: 1156.56, end: 1158.52}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1158.52, end: 1166.80}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1167.30, end: 1172.38}
+  - {text: "Now, I spoke with many of the people who came out for this weird dating event.", start: 1173.87, end: 1177.85}
+  - {text: "And one of the reasons they gave for coming was that they did want to know more about Palantir.", start: 1178.25, end: 1182.93}
+  - {text: "In particular, people wanted to know, what does the government know about individuals do they have files on Americans, and how is Palantir helping them?", start: 1183.63, end: 1193.37}
+  - {text: "Mike Steinberger, the author of the book on Palantir, says yes.", start: 1194.07, end: 1197.39}
+  - {text: "Palantir tools have been helping the government organize their data and make files on people.", start: 1197.81, end: 1202.93}
+  - {text: "This was a company that was founded in the aftermath of 9 -11.", start: 1203.31, end: 1207.07}
+  - {text: "At that time, the CIA and the FBI were dealing with the failure of not stopping 9 -11, even though there had been a lot of intel warning them.", start: 1207.53, end: 1215.15}
+  - {text: "Palantir's pitch to the CIA was that if data could be pulled from both agencies brought together, it might have been evident what was going to happen.", start: 1215.15, end: 1224.33}
+  - {text: "Maybe they could help prevent future attacks.", start: 1224.67, end: 1226.91}
+  - {text: "Around 2005, Palantir gets a contract with the CIA and embeds with some other analysts.", start: 1227.98, end: 1233.20}
+  - {text: "And they're building software that helps track and create files about people suspected of being involved with terrorism.", start: 1233.62, end: 1239.38}
+  - {text: "In the past, the government's digital systems were perhaps lacking.", start: 1239.38, end: 1244.76}
+  - {text: "Also, data was often intentionally siloed.", start: 1245.28, end: 1248.26}
+  - {text: "And there were firewalls between government agencies to keep them from sharing too much data.", start: 1248.54, end: 1253.32}
+  - {text: "This is largely because of some dark chapters in U .S.", start: 1254.02, end: 1257.24}
+  - {text: "history. I think the 1940s, when the U .S.", start: 1257.26, end: 1260.52}
+  - {text: "Census Bureau gave over its data to the War Department so they could round up Japanese Americans and imprison them.", start: 1260.64, end: 1266.34}
+  - {text: "Or during the Watergate scandal in the 1970s when President Nixon used FBI data to target his enemies.", start: 1266.34, end: 1273.10}
+  - {text: "It was recognized that while this might have resulted in inefficiencies, what we didn't want was a master database of personal information on Americans because that was a scary prospect.", start: 1273.56, end: 1286.40}
+  - {text: "The fear of a master database led to the Privacy Act of 1974, which basically said, if the government is collecting data for one reason, like for filing taxes,", start: 1286.94, end: 1297.98}
+  - {text: "it was not allowed to give that data to another government agency that wanted to use it for some other reason.", start: 1298.36, end: 1304.72}
+  - {text: "Not without consent. But last year, President Trump signed an executive order called Stopping Waste Fraud and Abuse by Eliminating Information Siloes.", start: 1305.16, end: 1315.04}
+  - {text: "This attempted to remove some of those firewalls.", start: 1315.46, end: 1318.98}
+  - {text: "There was also a memo of understanding between ICE and the IRS because ICE was trying to get taxpayer info.", start: 1318.98, end: 1325.12}
+  - {text: "Things like that have made it possible for ICE to now access 30 to 40 different data sets.", start: 1325.70, end: 1332.06}
+  - {text: "This is where Palantir Software becomes very useful to the government.", start: 1332.74, end: 1336.88}
+  - {text: "The government can use the software to enrich disparate data sets, find patterns and connections, and create much more detailed files about individual people and the networks that they're a part of.", start: 1337.16, end: 1348.82}
+  - {text: "It appears that Palantir has been the technological backbone for a vast surveillance apparatus that ICE has been constructing.", start: 1349.06, end: 1360.06}
+  - {text: "So does this mean, and this is why many of these people came to this dating night, they were like, I believe that Palantir has created some dossier about me, and it's got my driver's license,", start: 1360.74, end: 1371.52}
+  - {text: "and it's got my license plate, and it's got my tax filing, my cell phone number, my location, my search habits, my buying things.", start: 1371.84, end: 1377.42}
+  - {text: "Like, does that now exist?", start: 1377.56, end: 1379.60}
+  - {text: "Well, it appears that ICE is collecting much more extensive information about some parts of the population that it has in the past.", start: 1380.45, end: 1389.67}
+  - {text: "And it's not Palantir that has the information, but Palantir is making ICE's job easier.", start: 1389.99, end: 1395.55}
+  - {text: "It used to take ICE hours to locate people, and they only got the person they were looking for a quarter of the time.", start: 1395.55, end: 1402.29}
+  - {text: "But now, according to an article from 404 Media, with the help of Palantir's software, ICE can locate people in minutes.", start: 1402.81, end: 1409.75}
+  - {text: "And this database apparently has 20 million names in it.", start: 1410.13, end: 1413.67}
+  - {text: "That is substantially more than the estimated number of undocumented people currently living in the US.", start: 1413.95, end: 1418.97}
+  - {text: "Which means ICE, presumably, has files on people who are here legally, or who are American citizens.", start: 1418.97, end: 1426.69}
+  - {text: "People can sit here and say, well, you know, they're going after people who are here illegally, people who've been earmarked for deportation.", start: 1427.27, end: 1434.50}
+  - {text: "Right, right. You know, they're not going to bother me, and maybe that's true, but a lot of information is being pulled in.", start: 1434.60, end: 1440.56}
+  - {text: "And, you know, I don't share the confidence that this won't be turned on other segments of the population.", start: 1440.98, end: 1447.76}
+  - {text: "In some ways, this is the moment for Palantir's software.", start: 1447.76, end: 1452.50}
+  - {text: "If an organization wants some data, that organization can scrape the whole internet.", start: 1453.00, end: 1458.28}
+  - {text: "Plus, the government is desiloing some of their data.", start: 1458.82, end: 1461.74}
+  - {text: "And Palantir's software is very good at connecting these disparate sets of data and making sense of them.", start: 1462.28, end: 1467.42}
+  - {text: "We reached out to Palantir, and they declined to be interviewed.", start: 1468.16, end: 1471.10}
+  - {text: "But in response to critics in the past, they've said they are not working on any master surveillance database for the government.", start: 1471.10, end: 1478.00}
+  - {text: "Although Mike says Palantir might not know what the government is doing with their software.", start: 1478.56, end: 1483.68}
+  - {text: "Well, the problem has always been that Palantir doesn't ultimately control what its customers do with the technology.", start: 1484.08, end: 1494.00}
+  - {text: "It does not exercise that level of oversight.", start: 1494.58, end: 1497.22}
+  - {text: "We also reached out to ICE, and we didn't hear back.", start: 1497.52, end: 1500.46}
+  - {text: "As of right now, September 2026, Palantir has not sued James or anyone involved in the Palantir dating event.", start: 1505.39, end: 1513.27}
+  - {text: "So, James went ahead, booked two more of these for the coming months.", start: 1513.85, end: 1517.63}
+  - {text: "Zack, the guy who got on stage, for his part, he signed up because he thought it would be a funny way to spend a Friday night.", start: 1518.31, end: 1525.07}
+  - {text: "And he says it was.", start: 1525.49, end: 1526.83}
+  - {text: "He was also open to the possibility of matchmaking.", start: 1527.31, end: 1530.31}
+  - {text: "I hope you don't mind me asking.", start: 1530.31, end: 1531.81}
+  - {text: "It has been a week.", start: 1532.05, end: 1532.87}
+  - {text: "Did you meet anyone you were at all interested in seeing again?", start: 1533.19, end: 1536.25}
+  - {text: "Yes. No kidding. No kidding.", start: 1537.80, end: 1540.68}
+  - {text: "That's exciting. Zack was a little shy about the details.", start: 1541.16, end: 1544.20}
+  - {text: "I didn't want to pry too much.", start: 1544.40, end: 1545.80}
+  - {text: "When are you guys going to get drinks?", start: 1546.46, end: 1548.04}
+  - {text: "Tonight. Tonight? Yeah. Well, so this Palantir dating event did in fact create some, I don't want to say love, that's a little strong, but at least some dating matches.", start: 1548.90, end: 1562.52}
+  - {text: "Yeah. I mean, again, like it was definitely a bit stressful, but uncomfortable.", start: 1563.36, end: 1568.68}
+  - {text: "But having, you know, basically my resume read off on stage was kind of an advantage because people who were interested in me could just come up after.", start: 1569.20, end: 1579.93}
+  - {text: "Right. Right. I hadn't thought, like you had a bit of an advantage, which was you were put up for display along with your resume.", start: 1581.66, end: 1589.52}
+  - {text: "A little bit. Okay.", start: 1590.22, end: 1591.74}
+  - {text: "Well, do me a favor.", start: 1591.82, end: 1592.58}
+  - {text: "If tonight's date goes extremely well and like six months, a year passes, you're still together.", start: 1592.88, end: 1597.74}
+  - {text: "Check in and let us know.", start: 1598.24, end: 1599.68}
+  - {text: "Okay. Cause that would be incredible.", start: 1599.84, end: 1601.80}
+  - {text: "We want to know.", start: 1602.20, end: 1602.70}
+  - {text: "Okay. I can do.", start: 1603.24, end: 1604.38}
+  - {text: "According to event organizer James, at least six phone numbers were exchanged that night, four dates were made, and one couple even began their date immediately after the event ended.", start: 1604.38, end: 1616.18}
+  - {text: "Thank you as always to our NPR Plus subscribers.", start: 1619.24, end: 1622.04}
+  - {text: "Your regular support helps us be more ambitious.", start: 1622.60, end: 1625.42}
+  - {text: "If you want to support Planet Money and the reporting we do, sign up at plus .npr .org.", start: 1626.20, end: 1631.58}
+  - {text: "That's plus .npr .org.", start: 1632.00, end: 1634.42}
+  - {text: "And thank you. Today's episode was produced by Sam Yellowhorse Kessler and was edited by Jess Jang.", start: 1634.98, end: 1641.10}
+  - {text: "It was engineered by Sina LaFredo and Maggie Luther and fact checked by Sarah Juarez.", start: 1641.62, end: 1646.22}
+  - {text: "Alex Goldmark is our executive producer.", start: 1646.86, end: 1648.80}
+  - {text: "Mike Steinberger's book is titled The Philosopher in the Valley, Alex Karp, Palantir and the Rise of the Surveillance State.", start: 1649.36, end: 1656.24}
+  - {text: "I'm Amanda Oronchik. This is NPR.", start: 1656.68, end: 1659.12}
+  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1659.70, end: 1675.85}
+  - {text: "This message comes from Capital One.", start: 1676.57, end: 1678.63}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 1678.91, end: 1682.61}
+  - {text: "What's in your wallet?", start: 1682.71, end: 1683.65}
+  - {text: "Terms apply. See Capital One dot com slash bank guy for details.", start: 1683.95, end: 1688.01}
+  - {text: "Capital One N .A.", start: 1688.51, end: 1689.65}
+  - {text: "member FDIC. This message comes from Capella University.", start: 1689.93, end: 1693.49}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1694.01, end: 1698.53}
+  - {text: "That's your own drive pushing you towards what's next.", start: 1698.79, end: 1702.15}
+  - {text: "Capella University gets that.", start: 1702.51, end: 1704.27}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 1704.27, end: 1710.69}
+  - {text: "You've built experience and know what you're capable of.", start: 1711.07, end: 1714.13}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 1714.51, end: 1718.53}
+  - {text: "The only real question is, what can't you do?", start: 1718.89, end: 1721.89}
+  - {text: "Learn more at capella .edu.", start: 1722.25, end: 1724.29}
+---

@@ -1,0 +1,376 @@
+---
+layout: single
+title: "Trump drinks Venezuela’s milkshake"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-05T00:00:00Z
+slug: "2026-09-05-trump-drinks-venezuelas-milkshake"
+audioDir: "2026-09-05-trump-drinks-venezuelas-milkshake"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-05-trump-drinks-venezuelas-milkshake/episode.mp3"
+totalDuration: 1699.9
+sentences:
+  - {text: "This message comes from IXL.", start: 0.53, end: 2.85}
+  - {text: "IXL's level -up diagnostic gives immediate benchmark results along with personalized action plans that link directly to IXL's skill practice.", start: 3.25, end: 11.41}
+  - {text: "More at IXL .com slash NPR.", start: 11.71, end: 14.57}
+  - {text: "This is Planet Money from NPR.", start: 16.16, end: 18.50}
+  - {text: "It's been one week since President Trump got on Truth Social and announced that the United States of America had just entered into an agreement with", start: 21.44, end: 31.32}
+  - {text: "the country of Venezuela on the biggest oil deal in world history.", start: 31.32, end: 36.50}
+  - {text: "All caps. This announcement was a little vague on the details, but more have come out since.", start: 37.08, end: 43.28}
+  - {text: "According to the White House, the U .S.", start: 43.62, end: 45.12}
+  - {text: "government through the Pentagon might be buying a stake in a Venezuelan oil company.", start: 45.28, end: 49.64}
+  - {text: "The Venezuelan government is going to give that company the exclusive right for 100 years to extract oil from 17 of its oil fields.", start: 50.12, end: 58.50}
+  - {text: "And the U .S.", start: 58.86, end: 59.62}
+  - {text: "will get a bunch of that oil for cheap.", start: 59.66, end: 61.46}
+  - {text: "So, yeah. Eight months after Trump ordered the capture of the leader of Venezuela and told oil execs, we're going to be extracting numbers in terms of oil like few people have seen.", start: 61.46, end: 73.84}
+  - {text: "The U .S. government is apparently in the oil biz.", start: 74.88, end: 78.66}
+  - {text: "We didn't know what to make of this.", start: 79.97, end: 81.33}
+  - {text: "Venezuela, as we've talked about on the show before, has been blessed with one of the biggest reserves of oil in the world.", start: 82.22, end: 88.74}
+  - {text: "Despite that, it is a poor country.", start: 89.34, end: 92.14}
+  - {text: "And its oil industry is just barely sputtering along right now.", start: 92.84, end: 96.42}
+  - {text: "Part of that has to do with politics from American meddling to corrupt leadership.", start: 96.94, end: 101.66}
+  - {text: "And part of it has to do with an idea we've covered before.", start: 102.12, end: 105.44}
+  - {text: "The paradox of plenty.", start: 106.08, end: 107.58}
+  - {text: "What happens when a country's whole economy is based on riches from one resource?", start: 108.24, end: 112.92}
+  - {text: "But part of it, the part we're going to focus on today because it's relevant to Trump's announcement, has to do with foreigners.", start: 113.32, end: 120.64}
+  - {text: "Who gets to tap into the country's massive oil reserves?", start: 121.14, end: 124.76}
+  - {text: "Because for the last century, Venezuela has been wrestling with this other paradox.", start: 125.22, end: 130.12}
+  - {text: "We're going to call it the can't live with them, can't live without them paradox.", start: 130.90, end: 134.52}
+  - {text: "You know how sometimes you need help, but you don't like it when you get it?", start: 135.36, end: 139.06}
+  - {text: "That has been the story of Venezuela's oil industry and outsiders.", start: 139.60, end: 143.96}
+  - {text: "They have this long history of opening up to foreign investment and then shutting down again, opening up and shutting down again.", start: 144.50, end: 151.46}
+  - {text: "Earlier this week, I called up a guy who witnessed this back and forth from the inside.", start: 151.82, end: 156.24}
+  - {text: "Hello. Hi. His name?", start: 156.52, end: 158.26}
+  - {text: "José Ángel Pereira Rembeck.", start: 158.62, end: 160.68}
+  - {text: "His oil pedigree? Strong.", start: 160.84, end: 162.46}
+  - {text: "I am the third generation.", start: 162.76, end: 164.14}
+  - {text: "His grandparents worked in Venezuela's oil industry at its founding when foreigners all but ran the show.", start: 164.62, end: 169.54}
+  - {text: "His parents were part of its nationalization.", start: 170.08, end: 172.52}
+  - {text: "José himself found his true love because of Venezuelan oil.", start: 172.52, end: 177.66}
+  - {text: "He and his wife, Mervis, were in a chorus run by the state oil company.", start: 177.98, end: 182.06}
+  - {text: "She was a mesosoprano, I was a baritone.", start: 182.32, end: 185.56}
+  - {text: "And we met there?", start: 186.16, end: 186.92}
+  - {text: "Young kids. You met in the state oil company's chorus?", start: 187.58, end: 190.40}
+  - {text: "Yes. Yes. Yes. Give me a song.", start: 190.94, end: 195.65}
+  - {text: "Give me a few notes.", start: 195.89, end: 196.87}
+  - {text: "Ferrella ca, Ferrella ca from there.", start: 197.81, end: 200.73}
+  - {text: "And as José has been following the news out of Venezuela this week, he has been thinking about the lessons he and his family have learned.", start: 200.73, end: 208.19}
+  - {text: "As they've watched Venezuela open its fast reserves of oil to foreigners and then decide to shut them out.", start: 208.53, end: 214.27}
+  - {text: "In particular, José himself had a front row seat to one moment in the 90s when, just like now, Venezuela's oil industry was faltering.", start: 214.73, end: 225.97}
+  - {text: "And just like now, they opened up their previously nationalized oil industry to foreigners.", start: 225.97, end: 231.99}
+  - {text: "It was called, well, I'm going to need some help.", start: 232.91, end: 235.52}
+  - {text: "Apertura petrolera. Opening. Apertura like the aperture of a camera?", start: 235.98, end: 240.60}
+  - {text: "Apertura is opening, yes.", start: 240.76, end: 242.18}
+  - {text: "José kind of led the charge of the Apertura.", start: 242.52, end: 245.34}
+  - {text: "The last time Venezuela opened its doors to foreign investments in their oil sector.", start: 245.80, end: 251.30}
+  - {text: "Me and my wife.", start: 251.70, end: 252.56}
+  - {text: "You and your wife worked for the first project of the Apertura?", start: 252.56, end: 257.60}
+  - {text: "The very first. The very first project, yes.", start: 258.04, end: 260.30}
+  - {text: "So you're the perfect person to talk to about this?", start: 260.48, end: 262.62}
+  - {text: "I was the guy that started all of this.", start: 263.96, end: 267.12}
+  - {text: "A little work to put in money.", start: 269.36, end: 270.42}
+  - {text: "I'm Nick Fountain. And I'm Erica Barris.", start: 270.66, end: 272.80}
+  - {text: "There's been a lot of coverage of this evolving deal between the U .S.", start: 273.12, end: 276.24}
+  - {text: "and Venezuela. Some great stuff from our colleagues here at NPR about what the U .S.", start: 276.28, end: 279.82}
+  - {text: "hopes to get from this and whether it'll work, the climate impacts.", start: 279.84, end: 282.60}
+  - {text: "Today on the show, what does this mean for Venezuela?", start: 282.60, end: 285.76}
+  - {text: "We're going to hear one take.", start: 286.42, end: 288.26}
+  - {text: "The take of a Venezuelan oilman who's been through all this before.", start: 288.72, end: 292.22}
+  - {text: "Everybody's saying this deal is probably terrible for the Venezuelan people.", start: 292.62, end: 297.48}
+  - {text: "Do you agree with that?", start: 297.86, end: 299.04}
+  - {text: "No, let me tell you.", start: 299.74, end: 301.20}
+  - {text: "I'm an oil and gas guy that knows the industry inside.", start: 301.38, end: 304.90}
+  - {text: "Yeah, José, he's both optimistic and wary.", start: 305.34, end: 309.54}
+  - {text: "Because he's seen it all.", start: 309.98, end: 311.18}
+  - {text: "When Venezuela invited foreigners in, he was there to greet them.", start: 311.18, end: 315.14}
+  - {text: "And when Venezuela wanted them out, well, that's how he ended up in a jail cell.", start: 315.62, end: 320.62}
+  - {text: "This message comes from Odoo.", start: 324.72, end: 326.32}
+  - {text: "If your business runs on five different apps, 12 browser tabs, and one spreadsheet that everyone's afraid to touch, it's probably time for Odoo.", start: 326.82, end: 335.50}
+  - {text: "Odoo is an all -in -one business management software platform.", start: 335.86, end: 339.26}
+  - {text: "Instead of wasting time switching between systems, your business works together in real time.", start: 339.50, end: 344.20}
+  - {text: "Odoo gives you one flexible platform built to grow with you.", start: 344.58, end: 347.86}
+  - {text: "Try for free today at Odoo .com slash Planet Money.", start: 348.30, end: 351.40}
+  - {text: "That's Odoo .com slash Planet Money.", start: 351.64, end: 355.12}
+  - {text: "This message comes from IXL.", start: 356.32, end: 358.24}
+  - {text: "IXL provides personalized learning and powerful insights that help teachers boost achievement and understand student progress in real time.", start: 358.46, end: 366.04}
+  - {text: "Learn more at IXL .com slash NPR.", start: 366.40, end: 369.76}
+  - {text: "All right, so what does Jose think about this news coming out of Venezuela?", start: 369.76, end: 375.81}
+  - {text: "In a bit, we're going to hear his take.", start: 376.35, end: 377.91}
+  - {text: "Why he thinks this deal between the U .S., this private Venezuelan company, and the Venezuelan government could help a lot of people and where he thinks this all might go wrong, based on his experiences.", start: 378.09, end: 391.65}
+  - {text: "His generational experiences. Remember, he's a third -generation Venezuelan oilman, and from each of those generations, you can get these picture -perfect little snapshots of the long, drama -filled history of Venezuela's oil.", start: 392.33, end: 406.01}
+  - {text: "From a time when foreigners reigned to the nationalization, and back and forth again.", start: 406.43, end: 411.57}
+  - {text: "Snapshot number one a century ago.", start: 411.91, end: 414.21}
+  - {text: "His grandparents meet cute.", start: 414.57, end: 416.25}
+  - {text: "His grandpa, a Dutch drilling engineer, part of the original wave of foreign investment and exploitation of Venezuela's oil.", start: 416.71, end: 424.67}
+  - {text: "His grandma, a Venezuelan nurse in a hospital run by an oil company.", start: 425.05, end: 429.75}
+  - {text: "How they met is that he got in an accident, and they put him in the ER, and she saw, you know, a blonde blue -eyed guy, very cute.", start: 430.07, end: 439.47}
+  - {text: "And they got connected.", start: 441.63, end: 443.31}
+  - {text: "This, of course, was the first era of Venezuelan oil, foreign control, which eventually Venezuelans got tired of, because too little money from their labor and their resources were going to them.", start: 443.95, end: 456.87}
+  - {text: "Right, which brings us to snapshot number two.", start: 456.87, end: 460.17}
+  - {text: "Now it's 1967, and this photo is of Jose's parents, both oil workers, with suitcases.", start: 460.75, end: 466.57}
+  - {text: "They're moving to Tulsa, Oklahoma, with cute little five -year -old Jose and his two sisters.", start: 467.03, end: 472.19}
+  - {text: "As part of a bigger plan.", start: 472.67, end: 474.45}
+  - {text: "Before Venezuela could nationalize their oil industry, they needed trained up Venezuelan oil engineers.", start: 475.25, end: 480.41}
+  - {text: "So he says Venezuela's oil minister sent Jose's family and a bunch of others to train at the University of Tulsa to study at their world -class petroleum engineering program.", start: 480.99, end: 492.71}
+  - {text: "Ten Venezuelan families in the 60s in the U .S.", start: 493.11, end: 497.37}
+  - {text: "was very, very uncommon, let me tell you.", start: 497.49, end: 500.35}
+  - {text: "My best friend was in America, where we played cowboys and Indians, and can you imagine who played the Indians?", start: 500.61, end: 506.77}
+  - {text: "Yeah. Seven years later, snapshot number three.", start: 507.05, end: 511.05}
+  - {text: "It's Jose and his family again, but he's a teenager now.", start: 511.45, end: 514.37}
+  - {text: "It's the late 70s and they're back in Venezuela.", start: 514.37, end: 517.01}
+  - {text: "His parents are working for a new nationalized oil company.", start: 517.63, end: 521.67}
+  - {text: "Actually, everyone is. Venezuela has taken control of the oil, and eventually creates one state -run company to own everything, but Torrios de Venezuela, or Bedevesa.", start: 522.09, end: 532.99}
+  - {text: "Though there are still tons of American workers around.", start: 533.39, end: 536.39}
+  - {text: "In fact, Jose and his family are living in this weird company town that looks like Texas.", start: 536.83, end: 542.05}
+  - {text: "Picture it. It's Texas, but in the middle of nowhere.", start: 542.05, end: 545.31}
+  - {text: "An oil field in Venezuela.", start: 545.85, end: 547.15}
+  - {text: "That was like a copy -paste of the U .S.", start: 547.57, end: 549.81}
+  - {text: "We have gold cores.", start: 549.85, end: 550.91}
+  - {text: "We have bowling. We have pools, theaters.", start: 551.39, end: 554.71}
+  - {text: "You know, we celebrated four of July.", start: 555.35, end: 556.89}
+  - {text: "We celebrated Thanksgiving. We did Halloween.", start: 557.23, end: 561.61}
+  - {text: "We did many American things.", start: 562.13, end: 563.71}
+  - {text: "A decade later, Jose and that meso -soprano he married from the youth chorus, they're grown.", start: 564.29, end: 569.21}
+  - {text: "They have their own jobs with a nationalized oil company, and for them, everything is great.", start: 569.21, end: 574.23}
+  - {text: "Except after years of high oil prices and ballooning budgets and payrolls, the price of oil has dropped.", start: 574.93, end: 581.27}
+  - {text: "Venezuela is starting to neglect its oil fields.", start: 581.77, end: 584.61}
+  - {text: "Yeah, so maybe another snapshot, idle drilling rigs and pump jacks.", start: 584.99, end: 589.39}
+  - {text: "Jose says he was there to see it.", start: 589.59, end: 591.23}
+  - {text: "And from it, he took a very important lesson.", start: 591.59, end: 594.19}
+  - {text: "The oil and gas industry, where you always have to be investing.", start: 594.63, end: 599.15}
+  - {text: "Always be investing, ABI.", start: 599.57, end: 602.03}
+  - {text: "If you don't, he says your oil fields stop being as productive.", start: 603.13, end: 606.79}
+  - {text: "Any oil field can have around 10 % to 11 % yearly that they decline.", start: 607.23, end: 614.47}
+  - {text: "So if you don't do nothing, in 10 years, your production is zero.", start: 615.51, end: 619.49}
+  - {text: "So, Venezuela didn't have money to do that.", start: 620.35, end: 622.33}
+  - {text: "And that's why the genius guys of that time created the apertura because they said, okay, let's do something.", start: 622.33, end: 629.25}
+  - {text: "Let's bring international players so they can bring money.", start: 629.89, end: 634.19}
+  - {text: "And that's how the apertura came.", start: 634.65, end: 636.55}
+  - {text: "This is the moment we wanted to talk with Jose about the most.", start: 636.95, end: 640.09}
+  - {text: "The apertura, the opening.", start: 640.37, end: 642.23}
+  - {text: "Because if you squint at least, it is analogous to what's happening now.", start: 642.89, end: 648.83}
+  - {text: "A rusty heap of an oil industry and an opening for foreigners to plow money into the economy.", start: 648.83, end: 654.71}
+  - {text: "Jose, if you couldn't tell from his genius comment, is a fan of that earlier apertura.", start: 655.01, end: 660.93}
+  - {text: "He says he saw firsthand how letting in both money and expertise from outside of the country could benefit Venezuelans.", start: 661.31, end: 668.93}
+  - {text: "Yeah, as we mentioned before, he says he worked for the very first project of the apertura.", start: 669.29, end: 673.65}
+  - {text: "Way back in 1992, he got himself hired by one of those foreign investors, a Japanese company, which was exciting.", start: 673.93, end: 681.39}
+  - {text: "Had you ever met a Japanese person before?", start: 681.69, end: 683.37}
+  - {text: "No, I had to buy a book, How to Deal with Japanese.", start: 683.65, end: 685.61}
+  - {text: "They sent him to Tokyo for months to get trained and Señor Pereira got schooled in Japanese business culture.", start: 686.77, end: 693.41}
+  - {text: "Well, for example, I became Pereira -san.", start: 693.81, end: 696.33}
+  - {text: "Hey, Pereira -san. Pereira -san, yeah, yeah, yeah.", start: 696.73, end: 699.61}
+  - {text: "He picked up new business principles, like the one where you try to get some consensus before making big changes, and it can be crazy.", start: 699.81, end: 706.99}
+  - {text: "But if you are having a team of 20 people, you need all that 20 people are in consensus.", start: 707.47, end: 714.61}
+  - {text: "It takes time to put them together.", start: 715.25, end: 717.17}
+  - {text: "Is that how the oil industry usually works?", start: 717.17, end: 719.21}
+  - {text: "No, I came with the American culture that is like this.", start: 719.73, end: 724.25}
+  - {text: "You know, and if you're the boss, you make a decision.", start: 724.85, end: 727.05}
+  - {text: "He worked for a few years for the Japanese company building up oil field infrastructure and then jumped over to an American company, majority owned by Conoco and Chevron, also part of the Apeltura.", start: 727.57, end: 737.27}
+  - {text: "Jose says those two companies brought new technology that Venezuela had needed for years.", start: 737.49, end: 742.73}
+  - {text: "For example, a lot of Venezuela's reserves of oil are this kind of sticky icky tar -like stuff.", start: 743.31, end: 749.51}
+  - {text: "Bad stuff. So we needed to have a way to produce that.", start: 749.95, end: 753.89}
+  - {text: "Venezuela didn't have that technology.", start: 754.13, end: 755.81}
+  - {text: "And these companies had figured out how to deal with the sticky icky stuff.", start: 756.29, end: 760.17}
+  - {text: "Essentially, they diluted it, made a smoothie of it so it could be transported in a pipeline.", start: 760.17, end: 765.23}
+  - {text: "That was a technology that was brought by Chevron, by Conoco, these companies.", start: 765.75, end: 771.59}
+  - {text: "Yeah, they brought tons of new technology and also tons of money, just enormous amounts of investment.", start: 772.09, end: 779.09}
+  - {text: "So do you think that the Apeltura worked?", start: 779.57, end: 783.85}
+  - {text: "The first years, the first decade worked very good.", start: 785.22, end: 788.26}
+  - {text: "Yeah, Jose says for the industry and for many, though not all, Venezuelans, it worked very well.", start: 788.26, end: 795.52}
+  - {text: "Foreign companies brought new oil fields online, fixed up the old ones, oil production nearly doubled.", start: 795.98, end: 801.58}
+  - {text: "And all that investment meant lots of jobs for Venezuelans.", start: 802.14, end: 806.22}
+  - {text: "So Jose says he's been thinking a lot about the Apeltura as he's seen the news trickle out of Venezuela about this new deal with the United States.", start: 806.50, end: 814.46}
+  - {text: "This is going to be like Apeltura 2 .0.", start: 814.78, end: 817.14}
+  - {text: "So the thing we did in the 90s...", start: 817.14, end: 820.20}
+  - {text: "Yes, it's going to be like Apeltura 2 .0, yes.", start: 821.18, end: 823.80}
+  - {text: "The White House said the company they're doing business with is going to invest $100 billion in new oil production.", start: 824.16, end: 830.64}
+  - {text: "And this week, Chevron said they're going to spend more than $7 billion over the next five years.", start: 830.96, end: 836.24}
+  - {text: "Yeah, lots of cash.", start: 836.48, end: 837.46}
+  - {text: "And remember the motto, always be investing?", start: 838.12, end: 840.18}
+  - {text: "Jose says that investment...", start: 840.90, end: 842.26}
+  - {text: "You don't put it in Mars, you put it in Venezuelans because you have to drill the wells.", start: 843.20, end: 847.94}
+  - {text: "So to drill the wells, you have to have that truck driver.", start: 848.58, end: 851.38}
+  - {text: "You need the chauffeur, you need that empanada lady that prepares the breakfast.", start: 851.78, end: 856.46}
+  - {text: "She's very important. She might be the most important person.", start: 856.88, end: 859.44}
+  - {text: "I'm not kidding, you will need everything.", start: 860.88, end: 862.64}
+  - {text: "So the people can have a better life.", start: 862.98, end: 865.02}
+  - {text: "But when Jose looks at the Apeltura, he helps beerhead back in the 90s.", start: 865.80, end: 870.80}
+  - {text: "He says it also includes a cautionary tale, which is when you open up Venezuela to foreign investment and the foreigners seem to have the upper hand, things can go sour.", start: 871.14, end: 883.24}
+  - {text: "Right, because here's how the Apeltura 1 .0 ended.", start: 883.68, end: 887.34}
+  - {text: "As foreigners started reaping the benefits of their investments, a brash red beret wearing populace named Hugo Chávez, el comandante, was gaining popularity.", start: 887.94, end: 898.92}
+  - {text: "In 1998, he'd run for president and win partially on the promise of sharing the oil wealth, lifting people out of poverty, and dethroning the oil elite.", start: 899.42, end: 910.36}
+  - {text: "Chávez criticized Bedevesa, the state oil company, calling it a state within a state.", start: 910.88, end: 916.08}
+  - {text: "And Jose says, on that point, he wasn't exactly wrong.", start: 916.52, end: 919.84}
+  - {text: "The problem that was happening with Bedevesa, that those guys that began to work with my dad, these guys became like kings.", start: 920.12, end: 929.02}
+  - {text: "They were intouchable. They became very, you know, it was like a theocracy, you know.", start: 930.04, end: 937.28}
+  - {text: "Yeah, theocracy and oligopoly.", start: 937.82, end: 939.70}
+  - {text: "And they weren't just going to let Chávez take their power.", start: 940.20, end: 943.46}
+  - {text: "These guys didn't like Chávez, and they did kind of a plot to take Chávez and that created the national strike.", start: 943.90, end: 953.98}
+  - {text: "In late 2002, oil workers, their management, walked off the job.", start: 954.46, end: 958.70}
+  - {text: "It was a standoff between Chávez and the oil elite.", start: 959.22, end: 962.26}
+  - {text: "There was violence in the street.", start: 962.92, end: 964.02}
+  - {text: "Oil production dropped too close to zero.", start: 964.44, end: 966.76}
+  - {text: "Venezuela was starved of its oil money.", start: 967.22, end: 969.64}
+  - {text: "They were thinking that if they do that national strike and they squeeze Chávez, he will resign.", start: 970.00, end: 975.98}
+  - {text: "That was their idea.", start: 976.52, end: 977.50}
+  - {text: "That's what they thought.", start: 978.10, end: 979.04}
+  - {text: "And look what Chávez did.", start: 979.90, end: 981.18}
+  - {text: "He fired 20 ,000 people.", start: 981.36, end: 982.96}
+  - {text: "20 ,000. Including everyone you knew.", start: 982.96, end: 986.72}
+  - {text: "Everyone I knew, yes.", start: 987.20, end: 988.74}
+  - {text: "Not him. He was in the private sector by then.", start: 989.10, end: 991.28}
+  - {text: "Can you imagine all my former colleagues being fired?", start: 991.46, end: 994.74}
+  - {text: "I have neighbors. Neighbors that live beside my house that were fired.", start: 995.56, end: 1000.32}
+  - {text: "In the mid -2000s, Chávez made good on his promise to try to redistribute the oil wealth.", start: 1000.76, end: 1005.18}
+  - {text: "He tore up the contracts the foreign companies had with Bedevesa.", start: 1005.36, end: 1008.66}
+  - {text: "Said they were unfair.", start: 1008.94, end: 1009.64}
+  - {text: "He was a little bit right.", start: 1009.64, end: 1011.72}
+  - {text: "But if you see the things in what happened after, he took a bad decision.", start: 1012.36, end: 1018.76}
+  - {text: "For José, though, everything worked out okay.", start: 1019.20, end: 1021.78}
+  - {text: "Because all those formally foreign -owned companies...", start: 1022.18, end: 1024.90}
+  - {text: "I became the manager.", start: 1025.58, end: 1026.46}
+  - {text: "You became the manager of...", start: 1026.66, end: 1027.74}
+  - {text: "And all those companies...", start: 1027.74, end: 1029.04}
+  - {text: "You became the manager of all the nationalized oil companies?", start: 1029.04, end: 1032.08}
+  - {text: "44 companies, yes. Wow.", start: 1032.38, end: 1034.90}
+  - {text: "44 companies. Which means, José had a front -row seat as foreigners made their slow retreat out of the country.", start: 1035.95, end: 1042.65}
+  - {text: "The only major American oil company to stay was Chevron.", start: 1043.05, end: 1046.07}
+  - {text: "Under a new contract that gave majority control to Bedevesa.", start: 1046.71, end: 1050.25}
+  - {text: "Meanwhile, Bedevesa was taken over by Chávez loyalists.", start: 1050.87, end: 1055.49}
+  - {text: "Some of whom couldn't tell a pump jack from a nodding donkey.", start: 1055.99, end: 1059.59}
+  - {text: "Just kidding, that's the same thing.", start: 1059.95, end: 1061.15}
+  - {text: "It took years, but at the end they destroyed it.", start: 1061.85, end: 1064.83}
+  - {text: "He lost two -thirds of the production capacity.", start: 1064.83, end: 1068.31}
+  - {text: "But at the same time, Bedevesa became bloated.", start: 1068.93, end: 1071.75}
+  - {text: "They hired an enormous number of employees.", start: 1072.15, end: 1074.71}
+  - {text: "Like five times that we had in the past, yes.", start: 1075.15, end: 1078.13}
+  - {text: "They are only being paid because it's like a political party.", start: 1078.93, end: 1081.97}
+  - {text: "So that is the cautionary tale of the Apeltura.", start: 1082.41, end: 1084.77}
+  - {text: "If you let foreign investors in, it can be good.", start: 1085.13, end: 1088.11}
+  - {text: "It can revitalize the oil sector.", start: 1088.45, end: 1090.29}
+  - {text: "A lot of people can reap the rewards.", start: 1090.63, end: 1092.57}
+  - {text: "But beware because things can change.", start: 1092.57, end: 1096.49}
+  - {text: "If Venezuelans get the sense that they're being taken advantage of, they might take everything back.", start: 1097.01, end: 1101.83}
+  - {text: "Now this new Venezuelan oil deal just announced by Trump, it's a weird one.", start: 1102.35, end: 1108.41}
+  - {text: "Even though the Venezuelan constitution says that oil deposits are owned by the Venezuelan people and can't be transferred to a private company or country, this", start: 1109.05, end: 1117.59}
+  - {text: "deal gives the rights to 17 oil fields in Venezuela to a private company which might be partially owned by the U .S.", start: 1117.59, end: 1125.89}
+  - {text: "Of course it's not the best deal.", start: 1126.09, end: 1127.51}
+  - {text: "I would never negotiate that.", start: 1127.75, end: 1128.97}
+  - {text: "But of course not.", start: 1129.41, end: 1131.09}
+  - {text: "If they didn't have a chance to negotiate, that wasn't imposed.", start: 1131.37, end: 1134.45}
+  - {text: "Okay? Yeah. Remember the U .S.", start: 1134.97, end: 1137.61}
+  - {text: "military bombed Venezuela, removed its former president, put him on an airplane, and is holding him at a jail in New York.", start: 1137.67, end: 1143.81}
+  - {text: "The current U .S.", start: 1144.31, end: 1145.29}
+  - {text: "backed president seems basically at the beck and call of the White House.", start: 1145.49, end: 1149.21}
+  - {text: "Not exactly a negotiation.", start: 1149.21, end: 1150.81}
+  - {text: "But despite all that, and despite the climate impacts and how the oil wealth might not be shared equitably, Jose thinks anything to jumpstart Venezuela's oil", start: 1151.69, end: 1162.43}
+  - {text: "economy has the potential to be good for Venezuelans.", start: 1162.43, end: 1166.03}
+  - {text: "He's not out. Wow.", start: 1166.47, end: 1168.17}
+  - {text: "Are you going to come out of retirement to do this?", start: 1168.95, end: 1170.87}
+  - {text: "I can be advising that from here from the U .S.", start: 1171.81, end: 1174.77}
+  - {text: "I'm not planning to go back to Venezuela.", start: 1174.81, end: 1176.61}
+  - {text: "Oh, yeah. Because there's one more thing that happened to Jose in Venezuela that we haven't told you about yet.", start: 1176.61, end: 1184.11}
+  - {text: "Yeah, it might be the most cautionary epilogue to this cautionary tale, especially for any oil execs trying to get in on this deal.", start: 1185.05, end: 1194.77}
+  - {text: "Here's a little image, a preview.", start: 1195.31, end: 1196.57}
+  - {text: "Can you imagine 20 guys with skeleton masks and rifles?", start: 1197.15, end: 1200.43}
+  - {text: "That's after the break.", start: 1200.79, end: 1201.61}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1208.66, end: 1212.26}
+  - {text: "This message comes from Schwab.", start: 1213.47, end: 1214.97}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place, no matter your investing goal, life stage, amount to invest,", start: 1215.41, end: 1225.57}
+  - {text: "or know how, you can invest your way with Schwab.", start: 1225.85, end: 1229.09}
+  - {text: "This message comes from Northwestern Mutual.", start: 1229.53, end: 1232.13}
+  - {text: "Life's a lot lately.", start: 1232.49, end: 1233.89}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1234.29, end: 1238.45}
+  - {text: "It all starts with Northwestern Mutual.", start: 1238.77, end: 1240.73}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1240.73, end: 1248.99}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1249.45, end: 1254.55}
+  - {text: "This message comes from Active Campaign.", start: 1255.45, end: 1257.41}
+  - {text: "What if your next marketing campaign was already built before you even opened your laptop?", start: 1257.99, end: 1262.43}
+  - {text: "That's Active Intelligence by Active Campaign.", start: 1262.77, end: 1265.23}
+  - {text: "It knows your audience, your history, your voice, and it moves on that without you having to ask.", start: 1265.57, end: 1270.99}
+  - {text: "More than marketing automation, a platform that's actually on your wavelength.", start: 1271.33, end: 1275.85}
+  - {text: "Customers using Active Intelligence see 75 % higher email engagement.", start: 1276.39, end: 1280.81}
+  - {text: "Start free at ActiveCampaign .com.", start: 1281.03, end: 1283.41}
+  - {text: "You know, I don't really think that any oil exec who is thinking of going into business in Venezuela right now has the time to listen to the show,", start: 1285.45, end: 1292.05}
+  - {text: "but if you are, you're going to want to hear this part.", start: 1292.11, end: 1294.71}
+  - {text: "This story is about just how bad things can get when an oil exec gets caught in a geopolitical struggle.", start: 1295.05, end: 1300.91}
+  - {text: "In the 2010s, Jose Pereira got a pretty sweet job.", start: 1301.29, end: 1304.93}
+  - {text: "He became president and CEO of Sicko, which is an oil company owned by Venezuela and selling Venezuelan oil, but based in the United States.", start: 1305.23, end: 1314.31}
+  - {text: "So we moved up to Houston, was living the oil executive's life.", start: 1314.69, end: 1317.85}
+  - {text: "We have all the toys.", start: 1318.19, end: 1319.65}
+  - {text: "I flew in helicopters all over.", start: 1320.45, end: 1322.67}
+  - {text: "I have a plane that I could travel all over, but it was a tough situation politically.", start: 1322.83, end: 1330.17}
+  - {text: "Jose was a Venezuelan kind of raised in Oklahoma running a Venezuelan oil company in Texas?", start: 1330.71, end: 1337.87}
+  - {text: "Yeah. The Americans thought he was just a chavista, and the Venezuelans, well, eventually they didn't trust him either.", start: 1338.37, end: 1345.11}
+  - {text: "And that got worse in 2017 when President Trump and the successor to Chavez, Nicolás Maduro, really started going at it.", start: 1345.55, end: 1352.65}
+  - {text: "Sanctions from Trump, harsh words from Maduro.", start: 1353.13, end: 1355.31}
+  - {text: "Jose says being stuck in the middle was exhausting.", start: 1355.31, end: 1358.09}
+  - {text: "He was ready to call it quits, getting ready to retire.", start: 1358.69, end: 1361.61}
+  - {text: "And then just before Thanksgiving, he was at the movies with his wife, Justice League, when he got a call.", start: 1362.25, end: 1368.09}
+  - {text: "It was Venezuela's petroleum minister.", start: 1368.43, end: 1370.95}
+  - {text: "They wanted him to come to Caracas to give an update about a refinery project.", start: 1371.53, end: 1375.69}
+  - {text: "So it was like a short notice.", start: 1376.11, end: 1377.79}
+  - {text: "Come tomorrow. Come tomorrow.", start: 1378.27, end: 1379.45}
+  - {text: "Tomorrow, yes. So I quit the movie.", start: 1379.69, end: 1381.83}
+  - {text: "I told my wife, we see the movie when I come back.", start: 1382.15, end: 1384.93}
+  - {text: "Next morning, he and five other executives fly to Caracas.", start: 1384.93, end: 1388.69}
+  - {text: "They give their presentation.", start: 1389.09, end: 1389.99}
+  - {text: "It goes well. I had the plane waiting for me in the airport, and when I was going to go to the airport, they opened the doors, and it came like 20 guards with masks, skeleton masks.", start: 1390.59, end: 1404.44}
+  - {text: "Can you imagine 20 guys with skeleton masks and rifles?", start: 1404.62, end: 1407.64}
+  - {text: "He says they were from Maduro's counterintelligence unit, the folks who rounded up Maduro's political prisoners.", start: 1408.08, end: 1414.38}
+  - {text: "One of them approached him.", start: 1414.38, end: 1416.40}
+  - {text: "And said, who is Jose Pereira here?", start: 1416.58, end: 1418.50}
+  - {text: "So I said, I'm Jose Pereira.", start: 1419.10, end: 1421.38}
+  - {text: "Okay, you had to come with me.", start: 1422.06, end: 1423.34}
+  - {text: "And then we went to a small room.", start: 1423.54, end: 1426.90}
+  - {text: "It came inside a general, and he announced that we were accused to be American spies, had committed treason to the country, and we're going to go to jail.", start: 1428.00, end: 1438.00}
+  - {text: "They put us handcuffs, and the next time I went out to see the sky, it was 10 months after.", start: 1438.32, end: 1444.04}
+  - {text: "So I stayed in solitary confinement for the next 10 months.", start: 1444.04, end: 1447.96}
+  - {text: "10 months in solitaire, accused of treason, corruption, and embezzlement, all of which he says he didn't do.", start: 1448.56, end: 1456.20}
+  - {text: "The US government agreed.", start: 1456.94, end: 1458.02}
+  - {text: "They said he was wrongfully detained.", start: 1458.18, end: 1459.82}
+  - {text: "But he was stuck.", start: 1460.56, end: 1461.20}
+  - {text: "This is the last snapshot of our story.", start: 1461.76, end: 1463.36}
+  - {text: "Jose, alone in a cell, the starkest of contrast with the expense account life he'd been living before.", start: 1463.66, end: 1469.08}
+  - {text: "He lost 100 pounds.", start: 1469.50, end: 1470.48}
+  - {text: "400 pounds, yes. You lost 100 pounds?", start: 1471.02, end: 1475.03}
+  - {text: "100 pounds in one year.", start: 1475.17, end: 1476.95}
+  - {text: "Yeah. So no diet.", start: 1477.23, end: 1478.61}
+  - {text: "Starving. Oh. Yeah. Eventually, he got out of solitary.", start: 1479.13, end: 1483.49}
+  - {text: "His family figured out how to get him food, and he was reunited with his sick go colleagues.", start: 1483.91, end: 1488.79}
+  - {text: "Oh, wow, my friend.", start: 1489.31, end: 1490.45}
+  - {text: "We hugged all of us.", start: 1491.05, end: 1492.63}
+  - {text: "We began to cry.", start: 1492.97, end: 1494.07}
+  - {text: "He says they kind of saved each other.", start: 1494.47, end: 1496.57}
+  - {text: "In detention, they became workout buddies, Bible study buddies, dominoes buddies.", start: 1497.15, end: 1501.71}
+  - {text: "It was like when he worked for the Japanese company.", start: 1501.71, end: 1504.69}
+  - {text: "Every decision they made, they made together and discussed at great length.", start: 1505.01, end: 1509.93}
+  - {text: "Well, let me tell you, we create like a boardroom.", start: 1510.29, end: 1513.13}
+  - {text: "No, no, no. Literally, we did like a boardroom.", start: 1513.49, end: 1516.87}
+  - {text: "We were in the six in a round table and taken decision how we will survive.", start: 1517.05, end: 1523.09}
+  - {text: "Eventually, after nearly five years of imprisonment, two cases of scabies, two of COVID, a case of bronchitis, and a heart attack.", start: 1523.59, end: 1531.65}
+  - {text: "Jose, the rest of his sick go colleagues, and two other prisoners were swapped for two Venezuelans, nephews of then president Maduro.", start: 1532.09, end: 1540.07}
+  - {text: "What's a good deal?", start: 1540.51, end: 1541.33}
+  - {text: "What's a good deal?", start: 1542.11, end: 1543.13}
+  - {text: "So that explains why he doesn't want to go back and why his son, who also works in oil, four generations, says no way.", start: 1543.63, end: 1552.49}
+  - {text: "And it might also explain why kick starting foreign investment in Venezuela has been so hard for President Trump.", start: 1553.22, end: 1560.84}
+  - {text: "Why most of the big oil companies haven't jumped back into Venezuela so far.", start: 1561.18, end: 1565.00}
+  - {text: "Apertura 2 .0, it is not exactly happening on the best of terms.", start: 1565.66, end: 1570.94}
+  - {text: "It is one country, the U .S., pretty much dictating the terms with gun boats and helicopters.", start: 1571.70, end: 1578.00}
+  - {text: "Jose and a lot of other people do not want to be in the middle of that.", start: 1579.04, end: 1583.66}
+  - {text: "A quick word before we go.", start: 1592.41, end: 1593.93}
+  - {text: "We are working on a new bonus episode about a topic we've been asked to tackle a bunch of times over the years, the economics of podcasting.", start: 1593.93, end: 1602.31}
+  - {text: "We are pulling back the curtain on NPR Plus, the sponsor messages you hear, or maybe don't hear, the dollars and cents of it all.", start: 1602.57, end: 1611.11}
+  - {text: "If you're curious about how any of that works, and have a question, drop us an email, planetmoneyatnpr .org.", start: 1611.39, end: 1617.59}
+  - {text: "This episode of Planet Money was produced by Emma Peasley and Samuel Horst Kessler.", start: 1617.85, end: 1622.31}
+  - {text: "It was edited by Mary Ann McKeown.", start: 1622.31, end: 1624.23}
+  - {text: "It was fact -checked by Emma and Sierra Juarez.", start: 1624.37, end: 1626.85}
+  - {text: "It was engineered by Josephine Neonai with help from Jimmy Keely.", start: 1627.15, end: 1631.03}
+  - {text: "Our school mark is Planet Money's executive producer.", start: 1631.35, end: 1633.61}
+  - {text: "Special thanks to longtime Planet Money producer Willa Rubin, who is currently covering energy for NPR.", start: 1634.05, end: 1641.47}
+  - {text: "You got to check out her coverage.", start: 1641.67, end: 1642.55}
+  - {text: "It's really great. I'm Nick Fountain.", start: 1642.81, end: 1644.47}
+  - {text: "I'm Erica Barris. This is NPR.", start: 1645.13, end: 1646.65}
+  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1647.05, end: 1667.35}
+  - {text: "Taxes and fees extra.", start: 1696.10, end: 1697.26}
+  - {text: "See Mint Mobile for details.", start: 1697.54, end: 1698.72}
+---

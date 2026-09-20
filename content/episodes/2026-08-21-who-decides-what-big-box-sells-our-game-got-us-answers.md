@@ -1,0 +1,556 @@
+---
+layout: single
+title: "Who decides what big box sells? Our GAME got us answers"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-08-21T00:00:00Z
+slug: "2026-08-21-who-decides-what-big-box-sells-our-game-got-us-answers"
+audioDir: "2026-08-21-who-decides-what-big-box-sells-our-game-got-us-answers"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-08-21-who-decides-what-big-box-sells-our-game-got-us-answers/episode.mp3"
+totalDuration: 2462.5
+sentences:
+  - {text: "This message comes from Whole Foods Market.", start: 0.00, end: 2.16}
+  - {text: "Their September stock -up event makes it easy to load your pantry and freezer with flavorful, nourishing food.", start: 2.50, end: 8.52}
+  - {text: "There, build your own family meal, feed to four for just $35.", start: 8.88, end: 12.60}
+  - {text: "Stock -up at Whole Foods Market.", start: 13.28, end: 15.30}
+  - {text: "This is Planet Money from NPR.", start: 16.64, end: 18.96}
+  - {text: "I have never heard my Planet Money co -host, Erica Beres, this nervous before.", start: 21.86, end: 27.30}
+  - {text: "Hello, Erica. I'm in the car.", start: 27.82, end: 30.24}
+  - {text: "Okay, can everyone in your car hear me?", start: 30.78, end: 32.52}
+  - {text: "No, this is between you and me.", start: 32.52, end: 34.62}
+  - {text: "Erica had essentially dropped everything to fly to Los Angeles because there was a chance she might get inside the room, inside the system, maybe even participate in the system,", start: 35.06, end: 44.86}
+  - {text: "where a relatively tiny group of people decide what products we all get to see and choose from when we walk into the country's biggest stores.", start: 45.10, end: 53.68}
+  - {text: "All right, so where are you right now?", start: 54.08, end: 56.16}
+  - {text: "I am in my hotel room about two miles from the Exploding Kittens office.", start: 56.42, end: 60.78}
+  - {text: "Exploding Kittens is the company we've been working with to create the Planet Money board game.", start: 60.78, end: 67.64}
+  - {text: "If you're new to this whole project, well, cue the recap.", start: 67.94, end: 70.98}
+  - {text: "We are making a game, me and you all listening at home, and Erica Beres, too.", start: 71.54, end: 77.04}
+  - {text: "Erica, come help me with this recap, yes?", start: 77.26, end: 79.48}
+  - {text: "Yes, gladly. In previous episodes, we've told you the story of how we partnered with the game company, Exploding Kittens, to try and design a game inspired by the Nobel Prize -winning economics paper, The Market for Lemons.", start: 79.74, end: 91.82}
+  - {text: "That paper is literally about asymmetric information in the market for used cars.", start: 92.12, end: 97.50}
+  - {text: "But, broadly, it's about how making deals when one side knows more than the other side causes chaos, distrust, and ultimately destroys a market.", start: 97.80, end: 105.60}
+  - {text: "Our game version of that is not about used cars.", start: 105.90, end: 108.56}
+  - {text: "We decided it should be about monsters, and we chose a name.", start: 108.72, end: 111.88}
+  - {text: "It's called Sell Me a Sasquatch.", start: 112.10, end: 113.94}
+  - {text: "Sell Me a Sasquatch.", start: 114.20, end: 115.34}
+  - {text: "Now, you, listeners, you helped us refine this game.", start: 115.34, end: 118.34}
+  - {text: "And in it, our players have hands of cards with cute little mythical creatures on them, and then the players offer deals to each other, trying to get the best creatures,", start: 118.62, end: 127.50}
+  - {text: "but also maybe trying to trick their friends into accepting terrible creature cards, because asymmetric information you only ever have to show part of the deal.", start: 127.76, end: 137.76}
+  - {text: "One of the reasons we decided to make this game in the first place is so it could be our Trojan horse to report inside a world", start: 138.00, end: 144.14}
+  - {text: "that no other Planet Money project has entered.", start: 144.14, end: 146.30}
+  - {text: "The real shelves at real big box retail stores.", start: 146.80, end: 149.98}
+  - {text: "And we think making an Exploding Kittens party game gives us the best chance of sneaking into that world.", start: 150.34, end: 156.06}
+  - {text: "So, yes, that's the deal.", start: 156.60, end: 159.18}
+  - {text: "And that is why Erika was at Exploding Kittens headquarters in Los Angeles.", start: 159.42, end: 164.30}
+  - {text: "It's why they had told her essentially to drop everything, because two representatives from a humongous big box company were on their way to visit the Kittens office.", start: 164.48, end: 173.38}
+  - {text: "Those representatives are board game experts traveling the country, sifting through hundreds of new games to decide which handful of new games will get space on their company's shelves.", start: 173.72, end: 183.34}
+  - {text: "This is the moment if we want to get the Planet Money board game into big box retail.", start: 183.68, end: 189.22}
+  - {text: "So, I'm doing this call with you and then I'm heading over there.", start: 189.70, end: 193.44}
+  - {text: "Okay. And are you going to get in the room for the pitch?", start: 193.66, end: 196.38}
+  - {text: "Like, where did this land?", start: 196.38, end: 197.82}
+  - {text: "It landed. They emailed me last night and he said that confirmation that you can be in the room for the pitch.", start: 198.52, end: 203.58}
+  - {text: "So, I know part of me was like, maybe I don't have to do this.", start: 204.34, end: 208.62}
+  - {text: "But, uh, yeah, Erika was not just going to be in the room.", start: 210.10, end: 214.54}
+  - {text: "She was going to have to do the pitch for the Planet Money game.", start: 214.80, end: 219.90}
+  - {text: "This is a pretty big deal.", start: 220.24, end: 221.72}
+  - {text: "I'm trying not to think how much of a big deal it is and how much work has gone into.", start: 222.16, end: 226.54}
+  - {text: "It's really big. Is it helpful if I remind you how big it is?", start: 226.74, end: 229.32}
+  - {text: "It's sort of the whole thing.", start: 229.76, end: 230.86}
+  - {text: "It's not. I have a pitch, though.", start: 231.14, end: 232.42}
+  - {text: "I, like, talked myself through it a few times.", start: 232.62, end: 235.12}
+  - {text: "I was sitting on the airplane, like, kind of mumbling to myself being like, and the thing you got to know is how devoted I was just like, yeah, I got this.", start: 235.36, end: 242.82}
+  - {text: "I got this. I have, I have arm movements that are going to happen.", start: 242.90, end: 245.86}
+  - {text: "So, uh, okay. You got this, Erika.", start: 246.24, end: 248.84}
+  - {text: "You got this. All right.", start: 248.98, end: 249.92}
+  - {text: "Bye. Hello and welcome to Planet Money.", start: 250.22, end: 253.74}
+  - {text: "I'm Kenny Malone. And I'm Erika Barris.", start: 254.04, end: 256.40}
+  - {text: "And today on the show, we are going inside the secret room that could make or break our Planet Money game.", start: 256.54, end: 262.92}
+  - {text: "And inside the minds of the people who decide what gets to be in big box stores.", start: 263.36, end: 269.60}
+  - {text: "We get a once -in -a -lifetime front row seat for the shark tankway that essentially all the store shelves get filled at...", start: 270.00, end: 277.84}
+  - {text: "Oh, right. Also, we will explain why we cannot say which specific big box retail company we got unusual access to.", start: 278.64, end: 287.02}
+  - {text: "Stay tuned. This message comes from Schwab.", start: 287.26, end: 302.92}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management all in one place.", start: 303.42, end: 309.66}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 310.06, end: 317.06}
+  - {text: "This message comes from Northwestern Mutual.", start: 317.56, end: 320.08}
+  - {text: "Life's a lot lately.", start: 320.08, end: 321.84}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 322.32, end: 326.40}
+  - {text: "It all starts with Northwestern Mutual.", start: 326.82, end: 328.66}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 329.04, end: 336.96}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 337.42, end: 342.54}
+  - {text: "This message comes from Capital One.", start: 343.42, end: 345.40}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 345.64, end: 349.38}
+  - {text: "What's in your wallet?", start: 349.38, end: 350.42}
+  - {text: "Terms apply. See capitalone .com slash bank guy for details.", start: 350.72, end: 354.80}
+  - {text: "Capital One NA member FDIC.", start: 355.30, end: 357.46}
+  - {text: "I was somewhat stunned to learn that in the United States, 81 % of our retail buying is still happening at brick and mortar locations.", start: 358.36, end: 368.04}
+  - {text: "Like four out of every $5 we spend on retail purchases is at a physical store according to a report from Capital One.", start: 368.22, end: 375.74}
+  - {text: "Walmart and Kroger and Costco and Home Depot and Target are still huge parts of our economy and our lives.", start: 375.74, end: 383.12}
+  - {text: "And the secretive world of Big Box has been a place we've never gotten an inside look at.", start: 383.34, end: 390.90}
+  - {text: "You know, when the Planet Money team made a t -shirt from scratch, we did not sell it through Walmart.", start: 391.14, end: 395.86}
+  - {text: "When we launched a record label, the vinyl record for the inflation song was not on shelves at Target.", start: 396.00, end: 402.48}
+  - {text: "And when we rescued a forgotten superhero who was then licensed for a cheese product, sadly Costco did not offer to carry five pound blocks of microface aged Gouda.", start: 402.48, end: 412.18}
+  - {text: "But seriously, Big Box is still this hugely important corner of American life that we just haven't had the chance to understand.", start: 412.88, end: 420.06}
+  - {text: "No, not until now, hopefully.", start: 420.52, end: 422.98}
+  - {text: "The Planet Money board game project is the first serious chance we've had to try and follow a product into the real world, into Big Box in this way.", start: 423.50, end: 431.54}
+  - {text: "And it's part of why we decided to make a game in the first place.", start: 431.54, end: 434.54}
+  - {text: "And before any of that can happen, Erika was going to have to convince a Big Box company to take our game.", start: 434.80, end: 442.00}
+  - {text: "Okay, so I'm here.", start: 442.48, end: 445.44}
+  - {text: "It is six hours before Erika's big pitch meeting.", start: 446.06, end: 449.24}
+  - {text: "Yeah, I arrived extra, extra, extra early at the exploding kittens headquarters near West Hollywood.", start: 449.46, end: 455.08}
+  - {text: "Hey Thor, nice to meet you here.", start: 455.62, end: 457.50}
+  - {text: "I can put my mic down for two seconds.", start: 457.68, end: 459.24}
+  - {text: "That is Thor Ritz, you hear there?", start: 459.24, end: 461.32}
+  - {text: "He has been helping us for over a year to make our game.", start: 461.46, end: 464.38}
+  - {text: "And the moment he walks me into their big open floor office space, you can tell everyone is heads down, preparing for this hugely important meeting.", start: 464.60, end: 473.32}
+  - {text: "Any luck, Steve? Hi.", start: 473.58, end: 474.98}
+  - {text: "Will those work? They might.", start: 475.12, end: 476.32}
+  - {text: "These are the bean bags for the game you just did.", start: 476.74, end: 478.44}
+  - {text: "Oh. Thor and I walked past a team huddled over a new dice game?", start: 478.66, end: 483.18}
+  - {text: "That's top secret. It's one of the games that we're pitching lightning dice.", start: 483.38, end: 487.64}
+  - {text: "There's a small team doing last second experimenting with a new plastic material that sort of explodes in this fun, surprising way.", start: 487.64, end: 495.96}
+  - {text: "So then I just sort of pop it down?", start: 496.12, end: 497.52}
+  - {text: "Yeah. All right. Yeah, the office is full of people putting the final touches on game prototypes.", start: 497.60, end: 504.48}
+  - {text: "Ours is one of 13 prototype games that Exploding Kittens is planning to pitch to the representatives from.", start: 505.14, end: 511.08}
+  - {text: "Ah, yes, we have arrived at the situation.", start: 511.99, end: 515.29}
+  - {text: "So we are not saying the name of the big box store coming to the office today because Exploding Kittens told us who they're talking to, the deals they're making.", start: 515.29, end: 524.21}
+  - {text: "This is the kind of stuff that, you know, makes or breaks their business.", start: 524.53, end: 528.37}
+  - {text: "And so we agreed to not record the actual pitch meeting and to not reveal the actual name of the big box store in that meeting.", start: 528.55, end: 536.77}
+  - {text: "But suffice it to say Exploding Kittens was taking this company's visit very seriously.", start: 537.05, end: 543.31}
+  - {text: "Yeah, let's go through seating where we're going to sit.", start: 543.31, end: 546.65}
+  - {text: "It is now T minus one hour until the meeting.", start: 547.37, end: 550.45}
+  - {text: "And Thor and I jump onto an emergency pitch prep call.", start: 550.61, end: 554.13}
+  - {text: "How's everyone doing? Yeah, no, I'm good.", start: 554.35, end: 556.19}
+  - {text: "Okay. I do have a lot of notes.", start: 556.61, end: 559.09}
+  - {text: "Elon Lee is the co -founder of Exploding Kittens.", start: 559.97, end: 563.31}
+  - {text: "He has become our friend, our co -pilot, our general sage through the Planet Money board game project.", start: 563.47, end: 569.23}
+  - {text: "Should I be nervous?", start: 569.57, end: 570.25}
+  - {text: "Oh no. You know, they're actually, they're really good guys.", start: 572.20, end: 577.17}
+  - {text: "However, they've seen the best games in the world fail without proper marketing support.", start: 577.61, end: 583.13}
+  - {text: "So our goal today is to say, okay, we all love this game.", start: 583.65, end: 586.77}
+  - {text: "Everyone who plays this game loves this game.", start: 586.85, end: 588.27}
+  - {text: "Now we're going to tell you why it's also going to be the best selling game of all time.", start: 588.57, end: 593.63}
+  - {text: "Yeah, big box companies have small armies of buyers in charge of finding and buying the things for their sections of the store.", start: 593.63, end: 602.79}
+  - {text: "There are baby aisle buyers and cosmetics buyers and food buyers.", start: 603.09, end: 607.25}
+  - {text: "And today the Exploding Kittens office is going to be visited by the board game buyers from the big box store that shall not be named.", start: 607.55, end: 615.51}
+  - {text: "This whole song and dance is part of something called line review as in a seasonal review of product lines.", start: 615.77, end: 622.85}
+  - {text: "Retail buyers have to regularly look at what's on the shelves in their sections of their big box stores and decide what to keep, what to get rid of.", start: 622.85, end: 631.27}
+  - {text: "And most importantly for us, what new products to add for the upcoming season.", start: 631.55, end: 636.69}
+  - {text: "But here's the thing, this line review, this only happens twice a year.", start: 637.03, end: 641.81}
+  - {text: "This really is our one chance to get a prototype of our game in front of the big box stores and then ask them, do you", start: 642.05, end: 649.27}
+  - {text: "want to pay us to make tens of thousands of these things for you?", start: 649.27, end: 652.49}
+  - {text: "And Thor tells Erika, she's going to have very little time to make that case to the big box store.", start: 652.95, end: 658.91}
+  - {text: "We're probably talking between three and five minutes of...", start: 659.13, end: 662.65}
+  - {text: "You're saying do not bring this entire notebook.", start: 663.23, end: 665.15}
+  - {text: "Yeah, I think you can aim for the upper end of that like closer to five minutes.", start: 665.43, end: 669.27}
+  - {text: "So Alon explains that the plan is he'll be on a big screen in the room and do the setup.", start: 669.71, end: 675.45}
+  - {text: "He's built a lot of trust with the buyers at this point.", start: 675.45, end: 678.13}
+  - {text: "He's not worried about convincing them that the game is good.", start: 678.27, end: 681.53}
+  - {text: "What he cannot do though is be beloved co -host of one of the most listen to podcasts in the country, Erika Barris.", start: 681.73, end: 690.45}
+  - {text: "Stop, stop, stop, go on.", start: 691.23, end: 693.45}
+  - {text: "For real though, this is kind of the whole ballgame right here.", start: 693.61, end: 697.11}
+  - {text: "We partnered with Exploding Kittens in part to optimize our chance of getting into big box.", start: 697.21, end: 702.85}
+  - {text: "But they partnered with us in part because the big box board game world is getting more and more competitive.", start: 702.85, end: 709.09}
+  - {text: "So Erika's job is to tell these buyers about our advantage about planet money, our incredible audience, our history with projects, and frankly, just to keep their attention.", start: 709.33, end: 720.61}
+  - {text: "Do they have tells like they touch their nose or like success?", start: 721.13, end: 723.69}
+  - {text: "Keep going, keep going.", start: 724.07, end: 724.69}
+  - {text: "I've certainly have seen them do things that mean they're definitely not going to buy it, which is like if they start checking their phones halfway through.", start: 725.23, end: 735.13}
+  - {text: "Oh my God, that's so terrible.", start: 735.81, end: 736.63}
+  - {text: "Yeah, yeah, we've seen all of that.", start: 737.71, end: 739.61}
+  - {text: "They take countless of these.", start: 739.93, end: 740.91}
+  - {text: "We are just one of many people that they do the same sort of meeting with.", start: 741.75, end: 744.99}
+  - {text: "Yeah. Like this is it, right?", start: 745.45, end: 748.03}
+  - {text: "We have like seven more minutes before and then that's it.", start: 748.11, end: 750.55}
+  - {text: "Whatever we figure out now, that's what we need for the room.", start: 750.63, end: 753.43}
+  - {text: "So what else should I know?", start: 753.63, end: 754.59}
+  - {text: "Don't be nervous. Smile.", start: 755.61, end: 757.39}
+  - {text: "They have a very, very difficult job because they're trying to tell the future and that's not possible.", start: 757.81, end: 763.35}
+  - {text: "So a lot of times what the best tool they have is to bet on the person instead of the game.", start: 764.13, end: 771.41}
+  - {text: "And so they want to see this person is going to devote themselves to make it successful because ultimately that's really all they can bet on.", start: 771.85, end: 779.47}
+  - {text: "This is going to go great.", start: 779.79, end: 780.69}
+  - {text: "Don't worry about it.", start: 780.95, end: 781.61}
+  - {text: "Yeah, right. Don't worry about it.", start: 781.83, end: 783.33}
+  - {text: "Don't worry about it.", start: 783.49, end: 783.87}
+  - {text: "Thanks a lot. I'll talk to you both soon.", start: 783.95, end: 785.31}
+  - {text: "All right. See you soon.", start: 785.31, end: 786.45}
+  - {text: "And with that, I go find an empty little room.", start: 786.99, end: 790.13}
+  - {text: "Our podcast is, of course, the big part.", start: 790.19, end: 794.21}
+  - {text: "And over my notes, our listeners are the best of us, which is a great thing that Kenny said earlier until they called me in.", start: 794.33, end: 800.65}
+  - {text: "Okay. Is it time?", start: 801.23, end: 802.27}
+  - {text: "Yeah. And I turned off my recorder.", start: 802.63, end: 803.95}
+  - {text: "Here we go. Erica.", start: 804.94, end: 811.87}
+  - {text: "Yes. Tell me everything.", start: 812.74, end: 814.64}
+  - {text: "How did it go?", start: 814.90, end: 815.44}
+  - {text: "I'm so, I'm so excited.", start: 815.60, end: 817.70}
+  - {text: "Okay. I'm going to walk you through the whole thing.", start: 817.70, end: 819.78}
+  - {text: "Immediately afterwards, while Exploding Kittens was pitching its other games, I called Kenny to tell him everything.", start: 820.32, end: 826.46}
+  - {text: "What are the first things that someone says in the room?", start: 827.00, end: 829.62}
+  - {text: "Erica, sit down. What's the first thing I heard?", start: 830.96, end: 833.86}
+  - {text: "Wait, were you like standing too long or something?", start: 834.64, end: 836.28}
+  - {text: "Did you forget to say?", start: 836.54, end: 837.24}
+  - {text: "I was standing there.", start: 837.30, end: 838.00}
+  - {text: "I was like, do I stand for my presentation?", start: 838.12, end: 840.08}
+  - {text: "And I was like, what is this?", start: 840.40, end: 841.86}
+  - {text: "Like, I'm ready to go, you know?", start: 842.10, end: 843.92}
+  - {text: "So I walk in, I sit down, eventually.", start: 844.80, end: 847.96}
+  - {text: "Ilan is up on the screen.", start: 849.66, end: 850.96}
+  - {text: "And he's like, this collaboration is the thing he's most excited about and so on and so forth.", start: 851.54, end: 855.56}
+  - {text: "And he's like, and Erica's here.", start: 855.64, end: 856.60}
+  - {text: "And I was like, that's me, you know.", start: 856.68, end: 858.26}
+  - {text: "And I don't even know what happened.", start: 860.10, end: 861.66}
+  - {text: "I was just talking.", start: 861.82, end: 862.54}
+  - {text: "I just was blah, blah, blah, microface, blah, blah, blah, planet money, blah, blah, blah, devoted audience.", start: 862.74, end: 866.54}
+  - {text: "So, yeah. So what did they seem to respond to?", start: 867.24, end: 870.44}
+  - {text: "So this is, this is interesting.", start: 870.64, end: 872.28}
+  - {text: "They did not respond to anything to do with the actual game or planet money for that matter.", start: 872.28, end: 879.64}
+  - {text: "Like they just took that for granted and they just kind of nodded and smiled, but they had concerns.", start: 879.82, end: 884.16}
+  - {text: "Erica explained they seemed a little worried about who the game was for exactly kids, teens, adults, and also the number of players.", start: 884.66, end: 893.92}
+  - {text: "Is there a two player version?", start: 894.12, end: 895.50}
+  - {text: "But it seemed like the primary concern was about money, the price of the game.", start: 895.74, end: 901.94}
+  - {text: "They were like, it kind of almost feels like it should be one of those $9 .99 card games.", start: 902.28, end: 907.20}
+  - {text: "Oh, that's too cheap.", start: 907.48, end: 908.26}
+  - {text: "Yeah, it's tricky. So they're like, it's not a $10 game, but it doesn't seem like a $20 game.", start: 909.00, end: 913.82}
+  - {text: "Like that did not seem great to you and me, Erica.", start: 914.08, end: 917.48}
+  - {text: "No, like it almost sounded like they did not know what to do with our game or like how to place it exactly.", start: 917.80, end: 924.86}
+  - {text: "Right. But the next day, hello, can you hear me?", start: 925.54, end: 928.52}
+  - {text: "Hey, yeah, I can hear you.", start: 928.70, end: 929.78}
+  - {text: "I called Alon, who had heard that price stuff very differently than the way we did.", start: 929.78, end: 935.08}
+  - {text: "They did ask one question and I think it was very telling.", start: 935.24, end: 940.32}
+  - {text: "They said, how set are you on the price point?", start: 941.12, end: 944.68}
+  - {text: "And that, for me, that's when like little confetti bombs started going off in my head, because that was like, oh, they're not asking about whether or not they should sell this thing.", start: 945.82, end: 956.40}
+  - {text: "They are now asking about the best way to sell it.", start: 956.40, end: 960.28}
+  - {text: "Alon explained that if you think about a board game, our board game, there is a huge range of possibilities for what the final product would", start: 960.50, end: 969.30}
+  - {text: "or could actually look like on a shelf.", start: 969.30, end: 971.32}
+  - {text: "You know, we've just got a prototype for now.", start: 971.52, end: 973.06}
+  - {text: "And at its core, our game is really just a deck of special cards.", start: 973.44, end: 977.74}
+  - {text: "So there's an incredibly cheap version of that game, I suppose.", start: 977.86, end: 980.68}
+  - {text: "It's just like, I don't know, here's a little deck of cards like Uno.", start: 980.92, end: 983.34}
+  - {text: "On the other end of the spectrum, it's way more fun if we could afford to include a little figurine of like a Sasquatch to help keep track of turns.", start: 983.34, end: 991.20}
+  - {text: "Little vinyl guy, I love that.", start: 991.98, end: 993.40}
+  - {text: "Why not? Tokens for points and maybe like...", start: 993.50, end: 996.38}
+  - {text: "Little metal tokens, like little clinky clanky, I love it.", start: 996.38, end: 999.10}
+  - {text: "And maybe like a bigger, nicer box to hold all of that stuff.", start: 999.22, end: 1003.32}
+  - {text: "Right now, the game is still a prototype.", start: 1003.70, end: 1006.36}
+  - {text: "So this pricing decision, it will ultimately determine all of that stuff.", start: 1006.58, end: 1011.30}
+  - {text: "We will, to some extent, change our per unit production cost to meet the price point we choose right now.", start: 1011.30, end: 1018.94}
+  - {text: "Yeah. I mean, what it all comes down to is once you set your price, it is very hard to change.", start: 1019.20, end: 1025.32}
+  - {text: "Yeah. Like once the product is on the shelf, it's very hard to change a price.", start: 1025.76, end: 1029.64}
+  - {text: "Because if you raise your price, that's suicide.", start: 1029.82, end: 1032.22}
+  - {text: "And if you lower your price, then suddenly it looks like you're discounting it.", start: 1032.88, end: 1037.64}
+  - {text: "Like suddenly you're just trying to get rid of a cheap net.", start: 1037.82, end: 1039.80}
+  - {text: "So it's so important to nail it the first time.", start: 1039.80, end: 1043.44}
+  - {text: "We're really setting the stage for the entire global market for that product by picking one price one time.", start: 1043.64, end: 1051.70}
+  - {text: "What is the next step actually?", start: 1052.16, end: 1053.14}
+  - {text: "Let me ask you that.", start: 1053.30, end: 1053.76}
+  - {text: "What is the next step?", start: 1053.86, end: 1054.52}
+  - {text: "Oh, next steps, unfortunately, are waiting.", start: 1054.78, end: 1057.76}
+  - {text: "Now we wait. I never think of anything as a done deal until we get the paperwork, which means that as enthusiastic as they are and as excited as they are,", start: 1058.24, end: 1069.28}
+  - {text: "who knows, maybe the next meeting will present 20 gains and every single one of them is AAA and we just get knocked away.", start: 1069.48, end: 1076.46}
+  - {text: "So all of that's possible.", start: 1077.06, end: 1078.66}
+  - {text: "And now we wait.", start: 1078.84, end: 1080.52}
+  - {text: "And that wait, it did give us some time to do some reporting because, you know, sure, we'd been inside the room with the buyers, but we wanted to know what was inside the mind of those buyers when Erika was pitching.", start: 1081.08, end: 1093.28}
+  - {text: "So we made some phone calls.", start: 1093.28, end: 1095.52}
+  - {text: "Okay, so you essentially have sat on the other side of that table.", start: 1095.84, end: 1100.48}
+  - {text: "Like, I come, I give a pitch, you're the one who sits on the other side.", start: 1100.88, end: 1105.12}
+  - {text: "Yes, correct. That was me.", start: 1105.36, end: 1107.18}
+  - {text: "Okay, it wasn't literally him.", start: 1107.56, end: 1109.12}
+  - {text: "No, that is Matt Adelman, but his job was exactly like those people I sat across from.", start: 1109.34, end: 1114.50}
+  - {text: "Specifically, Matt was a big box buyer.", start: 1114.94, end: 1117.70}
+  - {text: "Yeah, Matt worked for Target and he sat through hundreds of these types of line review meetings.", start: 1118.12, end: 1122.46}
+  - {text: "And you know, for Erika, she was a nervous wreck.", start: 1122.46, end: 1124.54}
+  - {text: "We asked Matt, what is this moment like from your perspective, from a buyer's perspective?", start: 1124.90, end: 1129.06}
+  - {text: "What are you thinking?", start: 1129.36, end: 1130.18}
+  - {text: "I don't know. I'm like, here we go again.", start: 1131.04, end: 1132.36}
+  - {text: "Where is this conversation going to go?", start: 1132.74, end: 1134.08}
+  - {text: "It's very routine. If there's 100 line review submissions, about 30 of them actually get a line review meeting.", start: 1134.58, end: 1140.30}
+  - {text: "Of the 30 that get a line review meeting, three to six of those brands ultimately get on the shelf.", start: 1140.68, end: 1146.58}
+  - {text: "That's it. It's tough.", start: 1147.02, end: 1148.56}
+  - {text: "Wow. Now, Matt was not a board game buyer specifically.", start: 1149.20, end: 1153.16}
+  - {text: "When he worked at Target, he was in charge of deciding what to buy for the deli and prepared foods aisles.", start: 1153.42, end: 1158.78}
+  - {text: "Hummus, charcuterie, potato salad, regular salads.", start: 1159.02, end: 1161.80}
+  - {text: "But he told us, honestly, when it comes to big box, hummus, board games, it's all the same.", start: 1162.20, end: 1168.60}
+  - {text: "It's the same process.", start: 1168.92, end: 1169.82}
+  - {text: "Like it's putting a box on a shelf, whether that's food, whether that's beauty, whether that's a game, like the same thoughts go into it, the same analysis goes into it.", start: 1170.24, end: 1179.10}
+  - {text: "The same, is this going to work or not?", start: 1179.70, end: 1181.46}
+  - {text: "The same financials on the back end, right?", start: 1181.62, end: 1184.10}
+  - {text: "Like how many dollars did you generate?", start: 1184.26, end: 1185.80}
+  - {text: "How much margin did you return?", start: 1186.08, end: 1187.54}
+  - {text: "Is it working or not working?", start: 1187.96, end: 1189.16}
+  - {text: "It's all the same.", start: 1189.40, end: 1190.18}
+  - {text: "So our question for Matt was, in a pitch meeting like Erica's pitching a brand new game, what would the buyers on the other side of the table be thinking?", start: 1190.64, end: 1200.02}
+  - {text: "At the end of the day, what am I really thinking?", start: 1200.32, end: 1202.28}
+  - {text: "Is this going to sell?", start: 1202.54, end: 1203.46}
+  - {text: "If I bring this in, I have to replace something, right?", start: 1203.46, end: 1207.14}
+  - {text: "You're going to take a spot on the shelf at the expense of somebody.", start: 1207.22, end: 1209.90}
+  - {text: "Are you going to do better than that thing that I take out and put you in for?", start: 1210.60, end: 1214.60}
+  - {text: "And there is a set amount of space in a store for this category.", start: 1214.98, end: 1219.10}
+  - {text: "And I need to make that space as productive as I possibly can.", start: 1219.70, end: 1223.48}
+  - {text: "Big box retailers will use these like blueprints of store shelves called planograms.", start: 1223.84, end: 1229.86}
+  - {text: "And Matt says that's one of the things in his mind during line review pitches.", start: 1229.86, end: 1234.00}
+  - {text: "He's kind of mentally playing retail Tetris.", start: 1234.36, end: 1236.78}
+  - {text: "And then when the meeting's over, yeah, we are waiting, but this is when the buyers like Matt have to really get to work.", start: 1237.16, end: 1243.62}
+  - {text: "If they like something, if they like our pitch, they still have to then make a pitch to their bosses.", start: 1243.72, end: 1249.26}
+  - {text: "Remember the nerves you had, I'm sure, sitting in the line review pitch into the buyer?", start: 1249.64, end: 1253.24}
+  - {text: "Oh, yeah. Well, now the buyers get to go to their VPs or their SVPs.", start: 1253.62, end: 1257.88}
+  - {text: "I'm gonna say, here's my planogram.", start: 1257.88, end: 1260.04}
+  - {text: "Here's what I want to do.", start: 1260.26, end: 1261.02}
+  - {text: "And now the VPs and all the senior leaders get to go, what about this?", start: 1261.60, end: 1264.80}
+  - {text: "And they challenge you like crazy.", start: 1264.86, end: 1266.18}
+  - {text: "And so now I need to pitch my stuff to them just like you had to pitch to me.", start: 1266.80, end: 1271.06}
+  - {text: "And there's tons of pushback and there's tons of, I don't know, I don't agree.", start: 1271.72, end: 1275.78}
+  - {text: "What about this? What about that?", start: 1275.96, end: 1277.26}
+  - {text: "That you have to defend as a merchant.", start: 1277.86, end: 1279.98}
+  - {text: "And if you can't defend it, you better go fix it.", start: 1280.20, end: 1282.72}
+  - {text: "So just to recap the path to a big box shelf.", start: 1283.78, end: 1286.56}
+  - {text: "There are like 5 ,000 new board games every year.", start: 1286.56, end: 1289.04}
+  - {text: "A tiny, tiny fraction will actually get to be part of a line review pitch.", start: 1289.32, end: 1292.42}
+  - {text: "An even tinier fraction will get the buyer's attention.", start: 1292.62, end: 1295.12}
+  - {text: "And those still have to go into planograms that get pitched to VPs and SVPs before games actually get ordered for the real shelves.", start: 1295.66, end: 1302.80}
+  - {text: "But, but none of those games had Erica Barris in the room for their line review.", start: 1303.18, end: 1310.98}
+  - {text: "How often do you have like somebody who is not in the industry like say a podcast host pitching the retailers on an item?", start: 1311.52, end: 1319.98}
+  - {text: "Yeah. 10 years ago, not very often in today's world.", start: 1320.54, end: 1323.90}
+  - {text: "If you think about all of the creators and all of the influencers and all the people that have built a following, you know, it's a lot of them are spinning up products.", start: 1324.02, end: 1333.12}
+  - {text: "And they show up.", start: 1333.60, end: 1334.28}
+  - {text: "They show up. Okay.", start: 1334.30, end: 1335.34}
+  - {text: "Okay. Maybe not as special as we were hoping.", start: 1335.86, end: 1338.90}
+  - {text: "Anyway, all of that, that is why getting into big box is a very serious business.", start: 1339.40, end: 1344.62}
+  - {text: "And apparently we have to wait so long to hear anything about how our pitch meeting went.", start: 1344.62, end: 1350.60}
+  - {text: "It was months and months and months of nothing.", start: 1350.90, end: 1354.24}
+  - {text: "During that time, Exploding Kittens did do a similar line review pitch process with other big box retailers.", start: 1354.76, end: 1360.44}
+  - {text: "You know, more pitches, better chance someone picks us up and tells us, you know, go forth, make a bunch of games for us.", start: 1360.82, end: 1366.22}
+  - {text: "And then nearly five months after I'd been in LA, pitching the buyers along from Exploding Kittens got in touch and said, we have to meet.", start: 1366.64, end: 1376.10}
+  - {text: "We have so much stuff to talk about.", start: 1376.76, end: 1378.32}
+  - {text: "We have some updates maybe from retailers if you want to start there.", start: 1378.52, end: 1383.76}
+  - {text: "Okay. That is Stephanie Pesta, Senior Creative Operations Manager at Exploding Kittens.", start: 1384.10, end: 1388.76}
+  - {text: "Erica and I and our boss, Alex Goldmark also on the call.", start: 1389.04, end: 1391.74}
+  - {text: "We all start to lean into our Zoom screens and Exploding Kittens cuts straight to the chase.", start: 1392.00, end: 1397.42}
+  - {text: "The exciting retailer news is that for the two big retailers in the U .S., the Planet Money Game, sell me a Sasquatch, has been accepted full chain throughout North America.", start: 1397.42, end: 1412.20}
+  - {text: "Holy moly. That sounds big.", start: 1412.68, end: 1415.66}
+  - {text: "What? Is that big?", start: 1415.72, end: 1416.70}
+  - {text: "It's literally as big as a thing could be, yes.", start: 1416.88, end: 1420.36}
+  - {text: "Both retailers. Both, yes.", start: 1420.82, end: 1423.14}
+  - {text: "Two of the biggest big box retailers in the country, both placed orders to buy and carry sell me a Sasquatch on their shelves.", start: 1423.14, end: 1432.88}
+  - {text: "Did they say how important it was that Erica did the greatest presentation of all time?", start: 1433.24, end: 1438.66}
+  - {text: "I don't think they're used to that.", start: 1439.58, end: 1443.48}
+  - {text: "I think that was brand new for them.", start: 1443.66, end: 1445.34}
+  - {text: "I think those meetings are normally so dry and so boring.", start: 1445.92, end: 1450.56}
+  - {text: "It's the same people having the same discussions over and over.", start: 1450.56, end: 1454.34}
+  - {text: "We had a celebrity in the room.", start: 1454.48, end: 1456.92}
+  - {text: "All right. Who? It was you, Erica.", start: 1457.08, end: 1459.52}
+  - {text: "When we talked to the former buyer, Matt, he had told us that having a special person with a special product was getting more and more common.", start: 1460.06, end: 1468.78}
+  - {text: "It turns out that that's way more true in the food and cosmetic space.", start: 1469.34, end: 1473.48}
+  - {text: "Think Rihanna's makeup line or Mr.", start: 1473.66, end: 1476.22}
+  - {text: "Beast's chocolate bars. Apparently, for board games, though, it was still genuinely novel and exciting to have the one and only Erica Barris from Planet Money in the room.", start: 1476.54, end: 1488.46}
+  - {text: "Erica pitched her little heart out.", start: 1490.20, end: 1492.40}
+  - {text: "They were amazed. I think they walked away from that just thinking, wow, this is new.", start: 1492.82, end: 1499.48}
+  - {text: "Nobody's doing this. This isn't the same meeting we've had 20 times before.", start: 1499.66, end: 1503.14}
+  - {text: "I have no memory of anything that happened in that room.", start: 1503.48, end: 1506.36}
+  - {text: "So, okay. All told, Exploding Kittens got a first round of orders for about 100 ,000 units of our game.", start: 1506.36, end: 1516.80}
+  - {text: "Anyway, it is now official, like absolutely official done deal.", start: 1517.08, end: 1522.00}
+  - {text: "The orders have been placed.", start: 1522.76, end: 1523.90}
+  - {text: "I had confetti. I'm going to blow this mic out if I'm not careful.", start: 1524.58, end: 1527.58}
+  - {text: "This is so exciting.", start: 1527.78, end: 1528.74}
+  - {text: "Yeah, there's all kinds of things that come next.", start: 1529.38, end: 1533.64}
+  - {text: "But none of those happen until those boats get on the water.", start: 1533.64, end: 1538.82}
+  - {text: "Oh, we still have to actually make and get the games to and.", start: 1539.54, end: 1546.30}
+  - {text: "After the break, a whole new clock starts ticking.", start: 1547.46, end: 1551.44}
+  - {text: "Plus where you can buy the game, how much it costs and why we really, really hope that you appreciate our purple box.", start: 1551.82, end: 1560.64}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1560.64, end: 1571.59}
+  - {text: "This message comes from Schwab.", start: 1572.83, end: 1574.31}
+  - {text: "At Schwab, you can get everything from self -directed investing to full service wealth management, all in one place.", start: 1574.73, end: 1580.97}
+  - {text: "No matter your investing goal, life stage, amount to invest, or know how, you can invest your way with Schwab.", start: 1581.43, end: 1588.45}
+  - {text: "This message comes from Northwestern Mutual.", start: 1588.83, end: 1591.47}
+  - {text: "Life's a lot lately.", start: 1591.87, end: 1593.23}
+  - {text: "Some things you can't control, but you can control your money with a plan.", start: 1593.65, end: 1597.79}
+  - {text: "It all starts with Northwestern Mutual.", start: 1598.21, end: 1600.05}
+  - {text: "For nearly 170 years, they've helped clients succeed in every type of economic environment, providing stability and times of uncertainty.", start: 1600.43, end: 1608.31}
+  - {text: "Get started at nm .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 1608.81, end: 1613.91}
+  - {text: "This message comes from LinkedIn.", start: 1614.85, end: 1616.33}
+  - {text: "As a small business owner, you wear many hats.", start: 1616.79, end: 1619.07}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1619.39, end: 1622.29}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 1622.29, end: 1631.77}
+  - {text: "So, while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1632.19, end: 1637.13}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1637.51, end: 1640.93}
+  - {text: "One month after learning the great big box news, Kenny and I were both summoned to exploding kittens' headquarters.", start: 1641.66, end: 1649.30}
+  - {text: "All right, Elan, where are we going?", start: 1649.90, end: 1650.76}
+  - {text: "Let's go in here.", start: 1650.76, end: 1652.51}
+  - {text: "Welcome to the Planet Money Conference Room.", start: 1652.75, end: 1656.47}
+  - {text: "Wait, the Planet Money Conference Room?", start: 1657.11, end: 1659.21}
+  - {text: "The whole room is devoted to the Planet Money game.", start: 1659.27, end: 1663.29}
+  - {text: "Covering the biggest conference table you've ever seen, cards showing all kinds of mythical monsters and boxes with our Sasquatch and our game logo, and, oh my goodness, so many versions of instruction booklets.", start: 1663.41, end: 1676.85}
+  - {text: "These are very nearly the final prototypes, but, apparently, we still have a gazillion small decisions to make.", start: 1676.85, end: 1685.53}
+  - {text: "And, like, at the end of today, that's it?", start: 1685.71, end: 1687.87}
+  - {text: "That's it. We're locked.", start: 1688.01, end: 1688.81}
+  - {text: "We're locked. We have to be locked, actually.", start: 1688.97, end: 1690.75}
+  - {text: "We need to send files to the factory tomorrow.", start: 1691.19, end: 1693.75}
+  - {text: "Oh! So, this is a Speak Now or Forever Hold Your Peace moment.", start: 1694.19, end: 1697.51}
+  - {text: "Oh, okay, tomorrow. Why the rush?", start: 1697.87, end: 1699.79}
+  - {text: "Well, Chinese New Year is a big reason, apparently.", start: 1700.21, end: 1703.57}
+  - {text: "Right. So, the day we got the news that the two big box retailers wanted our game was Monday, January 12th.", start: 1703.95, end: 1711.29}
+  - {text: "Exactly 36 days before the start of the Chinese Lunar New Year.", start: 1712.17, end: 1717.37}
+  - {text: "Lunar New Year is a massive event for the global economy.", start: 1717.61, end: 1721.55}
+  - {text: "Chinese factories often shut down for two or three weeks, and leading up to the shutdown, factories start to slow production for even more weeks.", start: 1721.73, end: 1730.05}
+  - {text: "And then following the shutdown, it's even more weeks until all workers are back and factories are running full force.", start: 1730.33, end: 1737.51}
+  - {text: "Exploding Kittens told us if we wanted our game to be done and in stores in time for the holidays, we needed to be ready to go for that post -lunar New Year factory restart.", start: 1737.69, end: 1748.97}
+  - {text: "And Exploding Kittens had a spot in the factory queue, and we needed to make sure we did not miss it.", start: 1749.43, end: 1754.53}
+  - {text: "We had the narrowest window.", start: 1754.81, end: 1757.19}
+  - {text: "And so, began. One of the most frantic home stretches of a project I can remember, 24 hours to get the game files to China and", start: 1757.69, end: 1767.33}
+  - {text: "a mad dash to handle a bunch of other tasks.", start: 1767.33, end: 1770.73}
+  - {text: "Which is why we have brought into the studio here, this here, egg timer, just to give you all listening at home a sense of stress and the chaos and also the learning about taking a product to market that we experienced", start: 1771.09, end: 1786.03}
+  - {text: "as a clock, a time bomb really, tick, tick, ticking towards our due date.", start: 1786.65, end: 1791.93}
+  - {text: "So many tasks. We still have to get done.", start: 1792.27, end: 1794.83}
+  - {text: "Here we go. Task one.", start: 1795.15, end: 1797.15}
+  - {text: "Shall we look at a spreadsheet?", start: 1797.63, end: 1799.29}
+  - {text: "The answer is always yes, we want to look at a spreadsheet.", start: 1799.85, end: 1802.25}
+  - {text: "Contracts. Like, how much money will MPR slash Planet Money make off this thing?", start: 1802.37, end: 1806.03}
+  - {text: "The thing that we will eventually negotiate is this number here that you're looking at, royalty, but before...", start: 1806.31, end: 1811.77}
+  - {text: "Royalty deals. Licensing deals.", start: 1811.77, end: 1813.55}
+  - {text: "For board games, that tends to be like three to seven percent of something called net revenue.", start: 1813.87, end: 1817.93}
+  - {text: "After months and months of negotiating, we landed right square in that industry standard.", start: 1817.93, end: 1823.95}
+  - {text: "With though a couple of sweeteners, I will say.", start: 1824.07, end: 1826.13}
+  - {text: "Yeah, yeah. For one, we get a small guaranteed upfront fee.", start: 1826.41, end: 1829.51}
+  - {text: "But more importantly, our royalty percentage goes way up if our game is a runaway hit.", start: 1829.99, end: 1835.27}
+  - {text: "If when we hit 200 ,000 units sold with your help, of course, our royalty nearly doubles.", start: 1835.63, end: 1841.77}
+  - {text: "Yeah, we built in that incentive so that the more we sell the bigger cut to Exploding Kittens gives to MPR.", start: 1842.19, end: 1847.83}
+  - {text: "Now, if three, five, seven percent sound like small percentages, it's because Exploding Kittens takes virtually all the risk in this deal.", start: 1848.37, end: 1855.27}
+  - {text: "They are eating the cost of development and prototyping and manufacturing of this game.", start: 1855.65, end: 1860.23}
+  - {text: "They're starting in the hole for all that money.", start: 1860.57, end: 1862.89}
+  - {text: "Yeah, when the big boxes and other companies actually start paying Exploding Kittens for games, then we get to scoop our cup into that sweet, sweet stream of money", start: 1863.23, end: 1873.05}
+  - {text: "and take our percentage minus a relatively narrow set of expenses that have to do with the selling of our specific game, basically.", start: 1873.05, end: 1880.07}
+  - {text: "Yeah, like maybe we offer customers a rebate at some point, or maybe we end up paying for a fancy display in the end cap, you know, at the end of the aisle.", start: 1880.37, end: 1888.31}
+  - {text: "It's your paying rent.", start: 1888.77, end: 1890.01}
+  - {text: "Like they literally charge rent for those placements.", start: 1890.29, end: 1893.19}
+  - {text: "So this is shell payment.", start: 1893.19, end: 1893.35}
+  - {text: "Exactly. Okay, task two, game price.", start: 1893.91, end: 1897.89}
+  - {text: "We were worried that Big Box was seeing us as a cheap 9 .99 card game.", start: 1898.45, end: 1903.47}
+  - {text: "Apparently, Exploding Kittens had also been worried about this.", start: 1903.47, end: 1907.47}
+  - {text: "We fought that fight fiercely.", start: 1907.81, end: 1909.31}
+  - {text: "Definitely. That's Kelly Voeblek, VP of Creative Operations Exploding Kittens, by the way.", start: 1909.51, end: 1912.91}
+  - {text: "We're looking at a, it's a $20 price point and that screams multi -generational family party game.", start: 1913.31, end: 1919.73}
+  - {text: "In the end, Exploding Kittens got Big Box to agree to an MSRP, a manufacturer's suggested retail price of $19 .99.", start: 1919.99, end: 1927.79}
+  - {text: "Does that result in more profit for us, or it is possible for that to result in more profit for us, but we opted to spend that money on the product?", start: 1928.25, end: 1936.15}
+  - {text: "I mean, I would have done the same thing.", start: 1936.45, end: 1937.63}
+  - {text: "Yeah, we poured all of that increased price into making a nicer version of the game.", start: 1937.95, end: 1942.75}
+  - {text: "We splurged on a high quality material for the cards that Elan loves.", start: 1942.99, end: 1947.41}
+  - {text: "We upgraded to a higher quality box that signals, you know, this is a game that requires a little time and it's worth it.", start: 1947.59, end: 1954.63}
+  - {text: "And it meant we could afford to make our box the Pantone Purple, not just everyday purple.", start: 1954.79, end: 1959.87}
+  - {text: "The Pantone Purple. This is kind of getting in the weeds of like art, but this is printing CMYK 4C.", start: 1959.87, end: 1965.42}
+  - {text: "And when we tested it like in the office, it was just kind of dull and not bright and looking really muddy.", start: 1965.92, end: 1970.66}
+  - {text: "So we made the decision to like go forward with the Pantone a little bit more expensive, but like you can see how much impact it has.", start: 1970.86, end: 1977.44}
+  - {text: "It's glorious. Pantone is a whole color system where you pay extra because the colors can be perfectly reproduced by anyone in the Pantone world.", start: 1977.74, end: 1985.48}
+  - {text: "Check out our Planet Money episode about this.", start: 1985.78, end: 1987.36}
+  - {text: "So that purple, it was gonna cost like three cents extra per unit, but I would have paid so much more after seeing it during task three.", start: 1987.58, end: 1995.46}
+  - {text: "So a little time.", start: 1995.84, end: 1996.62}
+  - {text: "Task three, the real world shelf test.", start: 1996.74, end: 1999.40}
+  - {text: "Feels like we're about to do something bad.", start: 2000.33, end: 2001.77}
+  - {text: "It does. It feels like clandestine somehow, but...", start: 2002.61, end: 2005.77}
+  - {text: "I think it kind of is.", start: 2005.77, end: 2006.51}
+  - {text: "Yeah, I guess so.", start: 2006.65, end: 2007.25}
+  - {text: "You're about to hijack some very valuable store shelf.", start: 2007.25, end: 2009.83}
+  - {text: "Before Exploding Kittens starts printing any game, they, off in a lawn, will sneak into a big box store.", start: 2010.81, end: 2017.95}
+  - {text: "Oh, wow. Okay, you just put it up there.", start: 2017.95, end: 2020.95}
+  - {text: "And just put their game on the shelf to just see.", start: 2021.09, end: 2024.51}
+  - {text: "Okay. Does it stand out enough?", start: 2024.87, end: 2026.57}
+  - {text: "Too much? Does it read well from far away?", start: 2026.91, end: 2029.63}
+  - {text: "Does it look okay when it inevitably gets knocked over?", start: 2029.81, end: 2032.87}
+  - {text: "Or gets shoved back into the shadows of the shelves?", start: 2033.05, end: 2035.91}
+  - {text: "I would argue that still stands up in shadow, like, which is a tough position to be in.", start: 2036.25, end: 2041.65}
+  - {text: "The lighter colors on there still pop right out.", start: 2042.67, end: 2045.39}
+  - {text: "Do you see anything else that's our Bantone purple?", start: 2045.39, end: 2048.09}
+  - {text: "Nothing. That's really interesting.", start: 2048.39, end: 2050.15}
+  - {text: "Is that good or bad?", start: 2050.39, end: 2051.03}
+  - {text: "Really good. Really good.", start: 2051.11, end: 2052.47}
+  - {text: "Like, it is very hard to go through this process and get a definitive, yes, we're doing it right?", start: 2052.67, end: 2057.71}
+  - {text: "Right. I think at the very least, we can definitively say, this is not broken.", start: 2057.87, end: 2063.03}
+  - {text: "Ah, okay, okay, we're running out of time here.", start: 2064.21, end: 2065.71}
+  - {text: "Speed round, Erica. Task four, box finish.", start: 2065.79, end: 2068.35}
+  - {text: "We decided to switch the box from glossy finish to matte finish to signal grown -up game.", start: 2068.75, end: 2075.21}
+  - {text: "Apparently, kids' games have been using glossy finishes as a fancy cover -up for the fact that they skimped on cardboard quality and spent on expensive plastic toy things for the game.", start: 2075.21, end: 2085.93}
+  - {text: "Ah, so much to do.", start: 2086.21, end: 2087.33}
+  - {text: "Task five, what's on the back of the box?", start: 2087.43, end: 2089.05}
+  - {text: "At the 11th hour, we land on a comic strip format.", start: 2089.55, end: 2092.73}
+  - {text: "I think we need a speech bubble here.", start: 2093.29, end: 2095.37}
+  - {text: "Back of the box just has to explain enough about the game to give people the feel of the game.", start: 2095.67, end: 2101.19}
+  - {text: "Task six, seven, eight, nine, ten.", start: 2101.81, end: 2103.67}
+  - {text: "Tweaks to the instructions.", start: 2103.67, end: 2105.39}
+  - {text: "A QR code to send people to our board game podcast series.", start: 2105.95, end: 2108.75}
+  - {text: "A different QR code that sends people to a video.", start: 2108.85, end: 2111.27}
+  - {text: "Ah, it sends you to a video of the game.", start: 2111.53, end: 2114.31}
+  - {text: "And we didn't even tell you about the long discussion over punctuation on the front of the box.", start: 2114.61, end: 2118.33}
+  - {text: "It was a long discussion.", start: 2118.67, end: 2119.53}
+  - {text: "I do think that period has to go inside the parenthesis stylistically.", start: 2119.93, end: 2124.45}
+  - {text: "We have this argument every single day here.", start: 2124.83, end: 2127.67}
+  - {text: "After all of this was done, Alon and the Exploding Kittens walked us over to a gigantic bell in the middle of their offices.", start: 2128.47, end: 2136.53}
+  - {text: "This is the bell that they ring when they finish and ship a game.", start: 2136.85, end: 2140.85}
+  - {text: "And they felt like it was our time.", start: 2140.99, end: 2143.43}
+  - {text: "All right, do I say anything?", start: 2143.91, end: 2145.03}
+  - {text: "Is it like a blowing out a birthday handle?", start: 2145.63, end: 2147.53}
+  - {text: "We did it. We did it!", start: 2147.69, end: 2152.06}
+  - {text: "The source files for our game, Sell Me a Sasquatch, were sent off to the factory in China and very soon after that.", start: 2152.56, end: 2162.72}
+  - {text: "Oh my gosh. It's all there, Tori.", start: 2163.38, end: 2168.26}
+  - {text: "So Kenny, this is the machine I was telling you about.", start: 2168.34, end: 2172.72}
+  - {text: "I was FaceTiming with Exploding Kittens Global Sourcing Person, Tori Welch, from the floor of the factory in Shanghai.", start: 2172.96, end: 2180.40}
+  - {text: "And all of that noise, like that is the sound of thousands and thousands of our game coming off of the printing press.", start: 2180.44, end: 2186.48}
+  - {text: "You know, cards and boxes and she is specifically showing me the tool that the factory has for quality control to make sure that our Pantone Purple is exactly right.", start: 2186.62, end: 2197.48}
+  - {text: "It's gonna scan and tell you whether or not it's the perfect purple.", start: 2197.94, end: 2202.14}
+  - {text: "Oh my gosh, it's the purple meter.", start: 2202.48, end: 2204.34}
+  - {text: "Can you show me?", start: 2204.56, end: 2205.46}
+  - {text: "Can you do this?", start: 2205.74, end: 2206.46}
+  - {text: "I'm sorry, I blew it.", start: 2206.94, end: 2208.22}
+  - {text: "My god, this is so exciting.", start: 2208.26, end: 2209.48}
+  - {text: "Oh my gosh. It's so loud.", start: 2210.80, end: 2213.80}
+  - {text: "It's so loud. Oh, they've got the swatches.", start: 2214.00, end: 2217.30}
+  - {text: "There's the Pantone swatches.", start: 2217.68, end: 2219.44}
+  - {text: "Oh my gosh. Okay, so they're pointing at the Pantone.", start: 2219.52, end: 2223.70}
+  - {text: "And look, maybe it was the fact that it was like 2 a .m.", start: 2223.70, end: 2227.18}
+  - {text: "my time, but seeing this tiny portal to the other side of the world to our game choked me up a little bit.", start: 2227.24, end: 2234.74}
+  - {text: "Four months later, wait, where are the board games?", start: 2235.68, end: 2238.86}
+  - {text: "I walked into a big box retailer with my six -year -old daughter.", start: 2239.16, end: 2242.44}
+  - {text: "Oh my goodness, sorry.", start: 2242.44, end: 2246.35}
+  - {text: "There it is. Here, turn around and look up at it.", start: 2246.99, end: 2251.50}
+  - {text: "Point to it. Oh yeah, that's the game.", start: 2252.02, end: 2253.66}
+  - {text: "The game that everyone at your school wants.", start: 2253.88, end: 2255.24}
+  - {text: "No, you gotta say yes.", start: 2255.76, end: 2257.38}
+  - {text: "Yeah. And listen, we still cannot say exactly which big box retailer I got into the room with.", start: 2258.41, end: 2267.05}
+  - {text: "But what we can't tell you is the Planet Money Exploding Kittens game Sell Me A Sasquatch is now available on shelves at Target and Walmart and lots of other places that sell board games, including the NPR shop.", start: 2267.07, end: 2282.83}
+  - {text: "Oh, wait. We saved the best news for last, Erika.", start: 2283.15, end: 2286.01}
+  - {text: "That's right. You, listeners, you are in this game.", start: 2286.33, end: 2290.75}
+  - {text: "Not only did you spend hundreds and hundreds of hours testing prototypes of this game.", start: 2290.91, end: 2296.29}
+  - {text: "And sending us your incredibly useful and thoughtful feedback.", start: 2296.63, end: 2299.71}
+  - {text: "But you also sent us more than a thousand amazing ideas for what mythical creatures we should include in this game.", start: 2299.71, end: 2308.81}
+  - {text: "We love them so much.", start: 2309.05, end: 2310.43}
+  - {text: "The local cryptids you told us about, the deep cut econ cryptids you invented.", start: 2310.77, end: 2315.45}
+  - {text: "And here is a sampling of what successfully we convinced Exploding Kittens to include in the actual game.", start: 2315.91, end: 2322.89}
+  - {text: "You're gonna find the Veblen, the Bull Bear, the Laffer, if you know, you know.", start: 2323.19, end: 2328.99}
+  - {text: "The Ogopogo. Send me notes about pronunciation.", start: 2328.99, end: 2331.95}
+  - {text: "I totally accept them.", start: 2332.43, end: 2333.37}
+  - {text: "I'm sorry. And Australia, you came out preposterously strong for this challenge.", start: 2333.45, end: 2340.99}
+  - {text: "And we have seen you, and we have included the Drop Bear, which is a very real thing that you should be scared of in Australia.", start: 2341.49, end: 2348.03}
+  - {text: "When you buy the game and look at the cards, you will see that Exploding Kittens included a little symbol on those cards so you can see which ones came from you.", start: 2348.39, end: 2358.23}
+  - {text: "We are so, so proud of this.", start: 2358.23, end: 2361.79}
+  - {text: "If you still want to help out on this project, there's gonna be a lot of opportunities.", start: 2367.10, end: 2370.62}
+  - {text: "But right now, the most important thing to do is honestly rate and review the game.", start: 2370.80, end: 2375.42}
+  - {text: "Verified purchases matter a lot more in the rating and reviewing system.", start: 2376.60, end: 2380.68}
+  - {text: "And so if you buy the game, review it where you bought it, and post a game night, tell your friends about it, be a smug econ person and trick them into learning the econ,", start: 2381.38, end: 2389.32}
+  - {text: "and then you can produce the paper, the market for lemons, and then read from it to them.", start: 2389.40, end: 2392.76}
+  - {text: "It'll be a blast.", start: 2392.88, end: 2394.10}
+  - {text: "And, you know, send us an email.", start: 2394.80, end: 2395.86}
+  - {text: "Maybe we'll zoom into your game night.", start: 2396.00, end: 2397.04}
+  - {text: "Who knows? This episode was produced by Emma Peasley.", start: 2397.14, end: 2400.70}
+  - {text: "It was edited by Marianne McKeown.", start: 2400.84, end: 2402.00}
+  - {text: "It was fact -checked by Sierra Juarez.", start: 2402.28, end: 2403.50}
+  - {text: "It was engineered by Robert Rodriguez.", start: 2403.66, end: 2404.86}
+  - {text: "Planet Money's executive producer is Alex Goldmark.", start: 2405.30, end: 2408.96}
+  - {text: "By the way, you can get our game and lots of other merch at theNPRShopAtShopNPR .org.", start: 2409.36, end: 2415.20}
+  - {text: "I'm Erica Bares. I'm Kenny Malone.", start: 2415.70, end: 2417.70}
+  - {text: "This is NPR. And I have purchased a Sasquatch costume.", start: 2418.24, end: 2422.26}
+  - {text: "So, watch the socials.", start: 2422.74, end: 2424.48}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 2425.15, end: 2429.09}
+  - {text: "This message comes from Mint Mobile.", start: 2429.69, end: 2431.65}
+  - {text: "If you're tired of spending hundreds on big wireless bills, bogus fees, and free perks, Mint Mobile is for you.", start: 2432.13, end: 2439.25}
+  - {text: "Shop plans at mintmobile .com slash switch.", start: 2439.61, end: 2442.41}
+  - {text: "Taxes and fees extra.", start: 2442.83, end: 2443.79}
+  - {text: "See Mint Mobile for details.", start: 2444.17, end: 2445.29}
+  - {text: "This message comes from Northwestern Mutual for nearly 170 years.", start: 2446.13, end: 2450.85}
+  - {text: "They've helped clients succeed with strategies to help grow and protect their money.", start: 2451.27, end: 2455.93}
+  - {text: "Get started at NM .com, the Northwestern Mutual Life Insurance Company, Milwaukee, Wisconsin.", start: 2456.29, end: 2461.61}
+---
