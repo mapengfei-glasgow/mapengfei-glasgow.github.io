@@ -69,6 +69,25 @@ bbc_reachable() {
     curl -sf -o /dev/null --max-time 40 "$BBC_FEED"
 }
 
+# --- stage 0b: make sure the BBC has a usable exit --------------------------
+# `自动选择` health-checks against Google's generate_204, so it sits on whatever
+# node is fastest *for Google* — which is not the same as being able to reach
+# the BBC. On 2026-09-20 it had settled on a node where every bbc.co.uk and
+# bbci.co.uk URL returned 503 while Google answered in 59 ms, and this pipeline
+# could not download anything. tools/mihomo_bbc_route.py adds a BBC-specific
+# url-test group; a subscription refresh rewrites config.yaml and drops it, so
+# it is re-applied on every run. Non-fatal: if it cannot be confirmed, the
+# reachability retry below still gets its say.
+ensure_bbc_route() {
+    local out
+    if out="$("$PY" "$ROOT/tools/mihomo_bbc_route.py" 2>&1)"; then
+        log "bbc route: $out"
+    else
+        warn "bbc route: could not confirm — $out"
+    fi
+    return 0
+}
+
 # --- stage 0: proxy --------------------------------------------------------
 ensure_proxy() {
     if curl -sf -o /dev/null --max-time 10 -x "$PROXY" \
@@ -201,8 +220,9 @@ log "=== daily BBC pipeline start (show=$SHOW) ==="
 sync_site
 
 ensure_proxy || fail "proxy unavailable — cannot reach the BBC"
-# Liveness via Google only proves the tunnel is up; the BBC is a separate
-# (and occasionally rate-limited) hop, so check the actual feed too.
+ensure_bbc_route
+# Liveness via Google only proves the tunnel is up; the BBC is a separate hop
+# with its own per-node blocks, so check the actual feed too.
 retry 4 45 "BBC reachability" bbc_reachable \
     || fail "BBC unreachable through the proxy after 4 attempts"
 

@@ -43,6 +43,7 @@ tools/qwen_explain.py     # writes the 💡 A2 notes and the 🀄 Chinese notes 
 tools/merge_explain.py    # merge both note kinds into the sentence frontmatter
 tools/phrase_notes.tsv    # set-phrase table used by the flagger
 tools/daily_bbc_pipeline.sh      # the whole daily chain (systemd calls this)
+tools/mihomo_bbc_route.py # point the BBC at a proxy exit that can reach it
 tools/r2-portal/          # Cloudflare Worker behind the /files/ page (+ its test)
 tools/systemd/*.service|timer    # bbc-daily (+ the older bbc_gnp/bbc_iot units)
 tools/test_charts.mjs     # test for the chart shortcode (see below)
@@ -111,14 +112,20 @@ One systemd **user** timer runs the whole chain — no root needed:
 - `~/.config/systemd/user/bbc-daily.timer` — 18:00 daily (10:00 UTC), runs
   `tools/daily_bbc_pipeline.sh`, which does
 
-  1. make sure the local Mihomo proxy (`mihomo.service`) is up,
+  1. make sure the local Mihomo proxy (`mihomo.service`) is up **and that the BBC
+     has a usable exit** — `tools/mihomo_bbc_route.py` re-applies a
+     BBC-specific proxy group, because the subscription's auto-select group
+     health-checks against Google and will happily sit on a node where every BBC
+     URL returns 503. A subscription refresh overwrites `config.yaml`, so this
+     runs every time rather than once,
   2. download the day's episode (`tools/bbc_backfill.py`, a rolling 3-day
      window, one episode per day),
   3. transcribe → build the page → upload to R2 → commit → push
      (`tools/bbc_publish.py`),
-  4. flag the sentences beyond CEFR A2, write the plain-English notes with the
-     local Qwen server (`tools/qwen_explain.py`) and merge them
-     (`tools/merge_explain.py`), then commit and push again.
+  4. write the 💡 English notes for the hard sentences and the 🀄 Chinese note
+     for **every** sentence with the local Qwen server
+     (`tools/qwen_explain.py`), merge them (`tools/merge_explain.py`), then
+     commit and push again.
 
   Every stage is idempotent, so a failed run can be repeated with
   `systemctl --user start bbc-daily.service`.
