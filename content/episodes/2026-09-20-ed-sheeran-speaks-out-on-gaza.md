@@ -1,0 +1,189 @@
+---
+layout: single
+title: "Ed Sheeran speaks out on Gaza"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-20T00:00:00Z
+slug: "2026-09-20-ed-sheeran-speaks-out-on-gaza"
+audioDir: "2026-09-20-ed-sheeran-speaks-out-on-gaza"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-20-ed-sheeran-speaks-out-on-gaza/episode.mp3"
+totalDuration: 1748.7
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.14}
+  - {text: "I'm Celia Hatton and in the early hours of Sunday, the 20th of September, these are our main stories.", start: 5.00, end: 11.28}
+  - {text: "Ed Sheeran calls the situation in Gaza catastrophic at his first concert since the rapper Macklemore was dropped from Ed Sheeran's tour over pro -Palestinian comments.", start: 11.94, end: 22.22}
+  - {text: "Children in Gaza return to damaged schools for their first formal schooling after nearly three years of war.", start: 23.00, end: 29.06}
+  - {text: "And the Houthis in Yemen say they've launched missiles and drones at targets in Saudi Arabia, including Riyadh.", start: 29.72, end: 35.46}
+  - {text: "Also in this podcast, how missing white chromosomes could be an early warning sign of cancer and it becomes a larger meditation, I hope, about time", start: 38.30, end: 48.48}
+  - {text: "and the mysteries of being alive and faith.", start: 48.48, end: 51.34}
+  - {text: "A documentary filmmaker interviews the world's oldest people.", start: 51.94, end: 55.30}
+  - {text: "Ed Sheeran's been in the spotlight since the rapper Macklemore was dropped from his tour after making pro -Palestinian remarks.", start: 60.15, end: 66.97}
+  - {text: "All of the British singer's supporting acts, including his band, withdrew from the tour in solidarity and ticket prices fell dramatically.", start: 67.77, end: 74.93}
+  - {text: "But Ed Sheeran pushed ahead and at a solo concert in Philadelphia, he addressed the controversy for the first time.", start: 75.61, end: 81.87}
+  - {text: "I have tried in my career not to be a political commentator of any kind, because I want my music and shows to be about unity, not division, about humanity, not politics.", start: 82.53, end: 92.99}
+  - {text: "This is a humanitarian issue and I cannot hide how I feel about it anymore.", start: 97.74, end: 102.52}
+  - {text: "What happened in Israel and ever no music festival on October 7th was horrific and compounded centuries of Jewish pain.", start: 103.45, end: 110.39}
+  - {text: "What is happening in Gaza is catastrophic and unjustifiable and disproportionate.", start: 111.34, end: 118.26}
+  - {text: "My heart has been broken by the scale of devastation and loss of civilians' lives, of children's lives.", start: 118.76, end: 125.38}
+  - {text: "At the systemic injustice we're seeing unfold in the West Bank cannot be overlooked.", start: 126.91, end: 131.01}
+  - {text: "I am already speaking to people across the spectrum to work out how to make a contribution that helps victims of these terrible times and listening", start: 131.88, end: 139.78}
+  - {text: "and learning because I do not know enough.", start: 139.78, end: 142.64}
+  - {text: "There was a notable police presence at the stadium in Philadelphia as dozens of pro -Palestinian protesters gathered outside.", start: 143.10, end: 150.50}
+  - {text: "We need more people like Macklemore and like other artists who have a voice, who have a public platform to be able to speak on behalf of the Palestinian people and their struggle for liberation.", start: 150.92, end: 160.84}
+  - {text: "I am in solidarity with the Palestinian people.", start: 161.02, end: 163.20}
+  - {text: "I certainly know as a black man in America how it feels to be oppressed and genocide is wrong and people have to have the courage from all walks of life to stand up and speak out against it.", start: 163.40, end: 173.82}
+  - {text: "Our correspondent Carl Nassman spoke to me from outside the venue.", start: 173.82, end: 177.26}
+  - {text: "We were in some of the first rows of the concert tonight and everybody was waiting to hear how Ed Sheeran, weather Ed Sheeran, would address the controversy of the past few days", start: 177.60, end: 188.16}
+  - {text: "and weeks on his tour and it was really the first thing he did.", start: 188.16, end: 191.78}
+  - {text: "He walked out on stage by himself and he starts to you know talk everyone through what he's been thinking and you could hear the room in silent,", start: 191.84, end: 200.04}
+  - {text: "the stadium was really wrapped and paying attention to every word he said and it seemed to go down very well.", start: 200.24, end: 206.14}
+  - {text: "I think a lot of people were believed that he came out, spoke what would have been on his mind and especially you know addressing the situation in the Middle East,", start: 206.30, end: 214.40}
+  - {text: "addressing the situation with the rapper Macklemore being dropped from his tour and I should say you know the biggest I think applause and reaction to this speech was", start: 214.42, end: 223.32}
+  - {text: "when he said that he was determined to continue his tour.", start: 223.32, end: 226.40}
+  - {text: "He wanted to come tonight and play for all these fans even though he said you know he had no backing band he had no warm -up backs", start: 226.56, end: 232.94}
+  - {text: "but he was committed to continuing this tour because he said you know he was there really to perform for his tens of thousands of fans tonight.", start: 232.94, end: 239.92}
+  - {text: "So Ed Sheeran was standing alone on stage we were expecting a very stripped back show what was it like?", start: 240.52, end: 246.84}
+  - {text: "Yeah it was I think one of those kinds of shows that really demonstrates how talented Ed Sheeran is as an artist.", start: 247.91, end: 255.33}
+  - {text: "He was just there with him and his guitar and he was using one of these loop machines where he can play a few chords, record that play another few chords,", start: 255.73, end: 264.37}
+  - {text: "record a bit of vocalization and he loops it and he loops it and he's able to make that into this rich amazing backing track that he then would perform I think maybe his first five", start: 264.85, end: 274.43}
+  - {text: "or six songs that way and then in the middle of the concert there was a bit of a surprise he said you know he had about three days to come up with a backing band", start: 274.43, end: 281.49}
+  - {text: "that could make it to Philadelphia that could learn the songs he wanted to perform because he really emphasized you know he didn't want this concert to change too much for the people", start: 281.49, end: 289.37}
+  - {text: "that paid to get into the venue and he was able to dig up some friends of his that could play the drums, play the fiddle,", start: 289.37, end: 296.81}
+  - {text: "play the guitar and really be there to create this amazing atmosphere so it was really a fun night and there was actually this one emotional moment midway through the concert", start: 296.91, end: 306.85}
+  - {text: "where he said hey I don't know if you've been looking recently at social media but there's been a lot of chatter about me and about this concert I was worried he said about the way", start: 306.85, end: 316.49}
+  - {text: "that I might be received here by you and that was when the entire stadium erupted into applause for you know really to support Ed Sheeran in", start: 316.49, end: 325.35}
+  - {text: "that moment and I think that kind of shows you I think there have been some doubts about Ed Sheeran maybe you know the way that he handled this", start: 325.35, end: 331.95}
+  - {text: "and he admitted that he made mistakes but clearly he really had the support of that stadium tonight.", start: 331.95, end: 336.83}
+  - {text: "So Carl what's your sense of this now will this statement on stage have made any difference will this issue go away for Ed Sheeran?", start: 336.83, end: 344.93}
+  - {text: "I think we'll have to see how it plays out especially next week because he will be performing in Gillette Stadium the owner of which Robert", start: 345.47, end: 354.45}
+  - {text: "Kraft was reportedly one of the biggest factors in trying to get Macklemore dropped from this tour so I think it will be interesting to see next week how he's received there", start: 354.45, end: 363.71}
+  - {text: "which is the stadium just outside of Boston but overall this may have put some of the doubts to bed he I think he might have", start: 363.71, end: 370.45}
+  - {text: "said just enough to keep himself kind of above the issue of the war in Gaza but I think those comments probably strong enough for those", start: 370.45, end: 378.91}
+  - {text: "who might have wanted him to come out with a stronger stance when this whole controversy first started.", start: 378.91, end: 385.21}
+  - {text: "Carl Nassman in Philadelphia let's focus now on what's happening inside Gaza for the first time since the Hamas attacks on Israel sparked the devastating war", start: 385.57, end: 395.63}
+  - {text: "half a million children in Gaza are returning to formal education with the start of the academic school year that's happening even though the UN says 97 % of schools in the Palestinian territory are damaged or destroyed.", start: 395.63, end: 409.65}
+  - {text: "Jacob Evans reports. The first day back at school can be a nerve -wracking moment for young Muayyad Abu Mustafa it's a feeling of excitement instead", start: 410.01, end: 421.04}
+  - {text: "the last time I've been to schools three years ago now we're starting the school year it's a year for joy happiness and success.", start: 421.04, end: 431.44}
+  - {text: "Gaza's health ministry says 22 ,000 children have been killed by Israel since the war began countless more have been injured and traumatized children like Muayyad", start: 431.86, end: 440.98}
+  - {text: "we've lost our friends during the war we are here alone we don't have good clothes we have nothing not even good shoes the stationary before the war was cheap now it's expensive we don't have notebooks", start: 440.98, end: 452.30}
+  - {text: "or pencils and despite all this we will learn we will learn even in a tent.", start: 452.30, end: 456.96}
+  - {text: "There have been some temporary learning spaces run by various agencies in the last few years but now by working alongside the UN the education ministry has been able to open about 700 education facilities across Gaza", start: 457.30, end: 469.48}
+  - {text: "as part of the plan to get formal schooling back underway pictures online show children sat on bare floors inside tents others show people sat in", start: 469.48, end: 477.62}
+  - {text: "the remnants of schools chalkboards peppered with gunfire however despite the ceasefire being implemented last year the fighting in Gaza is not over Om Jibril Hamida", start: 477.62, end: 487.18}
+  - {text: "fears for her kids we want our children to live like the other children in the world it's a long way to school and in the past we had transport", start: 487.18, end: 496.98}
+  - {text: "but now there is none to ensure my son's safety when he leaves I ask God to keep him safe I'm afraid because the war is not over yet", start: 496.98, end: 505.04}
+  - {text: "and there are still people being targeted which means my son and daughter can be hit by shrapnel on their way to school her fears are", start: 505.04, end: 512.76}
+  - {text: "not without precedent on saturday at least three people were reportedly killed in the latest Israeli attacks including a 10 -year -old girl who was shot", start: 512.76, end: 520.30}
+  - {text: "there's been no reply from Israel Jacob Evans Saudi Arabia is one of the richest and most powerful countries in the middle east and yet on", start: 520.30, end: 528.52}
+  - {text: "saturday an area near the capitol's international airport was hit in a drone strike images from riyadh showed a black tower of smoke rising into the", start: 528.52, end: 538.84}
+  - {text: "sky after an oil depot appeared to have been targeted other strikes hit the Saudi red sea city of Yen Bo Yemen's Houthi rebels have already", start: 538.84, end: 548.32}
+  - {text: "claimed responsibility for those attacks marking a major uptick in the Houthi pressure on the Saudis the Houthis are already blockading a key red sea shipping route for Saudi oil and hitting Saudi oil facilities with drones and missiles", start: 548.32, end: 562.98}
+  - {text: "globally the Houthis growing assertiveness could have an impact on the prices we all pay for oil and gas and inside Saudi Arabia the conflict is being felt too saturday's strikes marked the first time since the recent escalation", start: 563.74, end: 577.78}
+  - {text: "that the city's residents have received an alert on their phones urging them to stay indoors james kamar asami heard more from aziz al -gashian from", start: 577.78, end: 587.26}
+  - {text: "the gulf international forum he's in riyadh i think there was a an attempt by the Houthis to really strike at the airport and you know many people have been discussing", start: 587.26, end: 596.52}
+  - {text: "that there were alarms going off on their phones and that's something that's happening here and basically these alarms are to make sure that we have", start: 596.52, end: 604.70}
+  - {text: "to take some safe refuge i think for the people in the south of Saudi and places that we would call abha khamis mashaik and asir", start: 604.70, end: 613.20}
+  - {text: "and najran these are the places that are really close to the Yemeni border close to the Houthi stronghold they receive it far more there however i think for riyadh the last time something like this happened was actually", start: 613.20, end: 626.62}
+  - {text: "when the iran us war was still in its full swing and so that was a few months ago that was maybe in april i remember it very vividly in march uh", start: 626.62, end: 637.46}
+  - {text: "and ramadan when the phones were going off but you know it's rare i think for Saudis to have it and people here living in riyadh it was concerning a sort of wake -up call", start: 637.46, end: 647.02}
+  - {text: "or for the people of riyadh that things are going in potentially in a bad direction before the ceasefire that happened that took place in 2022 in 2021 i remember vividly also hearing loud explosions but you know since then", start: 647.02, end: 662.74}
+  - {text: "i think the Saudi authorities took it upon themselves to say we have to really install alarms and early warning systems for citizens and people living", start: 663.34, end: 673.38}
+  - {text: "here i would say the wake -up call is literally a wake -up call because it did wake us up around three four in the morning", start: 673.38, end: 679.46}
+  - {text: "and it just reminds everyone that there is a situation that's happening it's also worth noting that riyadh is actually very very big you know it is a huge city", start: 679.46, end: 688.28}
+  - {text: "so while people may hear it in one place they may not hear the explosions and and see the remnants of these explosions in other places", start: 688.28, end: 698.66}
+  - {text: "so the Saudi social media the official accounts keep indicating time and again that you know giving these warnings and saying hey there are these warnings", start: 698.66, end: 707.88}
+  - {text: "that are happening so i have to say there are these reminders but it's a reminder that there is a simmering situation situation is under control", start: 707.88, end: 715.62}
+  - {text: "that's what they're trying to communicate you're about to take a flight how do you feel about taking a flight from riyadh international airport i feel confident", start: 715.62, end: 723.96}
+  - {text: "because i i think you know if i was closer to the border i would be more concerned moreover i think because i am a a traveler and a researcher and so i think being", start: 723.96, end: 735.34}
+  - {text: "stuck in airports due to um conflicts you know something i'm kind of a little bit used to so i think i'm a little bit apprehensive", start: 735.90, end: 744.92}
+  - {text: "and hopefully that this won't be something more than just a delay but in my opinion right now i think because we are in riyadh we", start: 744.92, end: 751.96}
+  - {text: "are really literally in the heart of Saudi Arabia i'm feeling more confident than apprehensive what about diplomacy in the region are the Saudi authorities speaking directly to the Iranians", start: 751.96, end: 763.04}
+  - {text: "who back the Houthis and telling them to to back off you know telling them this is unacceptable they are and that's why the Saudi diplomatic channels", start: 763.04, end: 773.34}
+  - {text: "and the bilateral relationship has not been severed during the war while we have our diplomatic channels with them we are also using and trying to leverage the diplomatic channels", start: 773.34, end: 785.34}
+  - {text: "that we have with both China and Pakistan our new ally in order for them to begin to influence upon or encourage Iran to rain down", start: 785.34, end: 796.56}
+  - {text: "the Houthis aziz algashian staying with this story these latest attacks are likely to increase pressure on the united states to intervene more directly against the", start: 796.56, end: 806.89}
+  - {text: "Houthis john svaki anakis is chief economist at the gulf research center in riyadh he says the current escalation is clearly destabilizing the region well it is damaging for everybody", start: 806.89, end: 818.81}
+  - {text: "and nobody is spared from this the UAE in the past was attacked Qatar we've seen Kuwait and of course Saudi Arabia now and of course something has to be done", start: 818.81, end: 828.97}
+  - {text: "and here we need to have both the Gulf countries supporting Saudi Arabia but also the US needs to step in and needs to take a more active role", start: 828.97, end: 838.45}
+  - {text: "as it has distanced itself because it's critical for oil prices and the freedom of navigation which is so important now we have both straits under some kind of closure", start: 838.45, end: 851.17}
+  - {text: "and it's quite difficult to get product oil out that is quite critical because it is four to five percent of global oil that we're seeing being taken off", start: 851.17, end: 861.49}
+  - {text: "and there is no additional five percent or five million barrels being taken back in by any of the countries and oil is at 103 104 dollars a barrel it could easily go 130 140", start: 861.49, end: 874.63}
+  - {text: "if it is not addressed the US has to step in john svaki anakis in riyadh as men get older many of them start seeing a", start: 874.63, end: 884.49}
+  - {text: "gradual loss of the y chromosome in some of their body tissue until a few years ago it was thought that this was a harmless side effect of aging", start: 884.49, end: 892.83}
+  - {text: "but new research suggests that this process can increase the risk of cancer american scientists have found evidence that y chromosome loss was greatest in the areas around tumors", start: 892.83, end: 904.67}
+  - {text: "mark jobling as professor of genetics at england's lester university he told us more about the study the y chromosome is sex determining so what that means is when an embryo is developing", start: 905.33, end: 916.81}
+  - {text: "if it has a y chromosome then it will become a male and if it doesn't then it will become a female when cells divide they", start: 917.33, end: 925.55}
+  - {text: "have to carry out a kind of complex dance of the chromosomes to make sure that the two daughter cells inherit the right numbers of chromosomes", start: 925.55, end: 934.39}
+  - {text: "and sometimes that goes wrong and it goes increasingly wrong as we age the y chromosomes actually the smallest chromosome we have that may make it more vulnerable to this kind of problem", start: 934.39, end: 946.21}
+  - {text: "so in the general population about 40 percent of men over 70 show this phenomenon and it's not all the cells in the body that lose the y chromosome it's a proportion and that proportion will vary", start: 946.37, end: 958.89}
+  - {text: "that loss is associated with a wide range of cancers not just male specific cancers but these are cancers that affect both men and women it seems that men who have loss of y chromosome their tumors may be differently sensitive to certain chemotherapeutic drugs", start: 959.55, end: 979.31}
+  - {text: "and to radiotherapy so it could be in the future that if a man has loss of y chromosome then he may be treated slightly differently it's rather early days in that though professor mark jobling still", start: 979.83, end: 992.73}
+  - {text: "to come in this podcast it essentially used publicly available information to kind of guess at credentials including in one case a password google's gemini becomes the latest ai model to go on an autonomous hacking spree this", start: 994.91, end: 1011.57}
+  - {text: "is the global news podcast south africans have taken to the streets protesters are calling on the police to do more to deal with the country's staggering levels of femicides following the murders of nine women in eastern johannesburg", start: 1017.17, end: 1044.52}
+  - {text: "and recent mums one of the women elizabeth moselle homo was killed while out for a run runners organized an event to honor her and defend the right of women to run freely in a country", start: 1044.52, end: 1056.28}
+  - {text: "that has one of the highest rates of violence in the world these people explained why they were taking part i'm scared for my life my", start: 1056.28, end: 1063.36}
+  - {text: "mother scared my granny everyone every woman in our lives they all thinking of this anxiousness of why are we even here we need active policing we need patrolling we need visibility with police i think", start: 1063.36, end: 1077.12}
+  - {text: "as men across the country let's call it out when we see it let's do our part and what i call country duty let's not condone these type of things", start: 1077.12, end: 1086.46}
+  - {text: "and think that it doesn't affect us it does janet jaleel spoke to our correspondent in johannesburg pumza falani some of the sentiments that you heard expressed there in fact i've heard repeated over the last few days in various communities", start: 1086.46, end: 1100.64}
+  - {text: "that are visited the main thing that people are calling for they're saying that it cannot be business as usual in south africa all too often they say we are in these heightened moments", start: 1101.06, end: 1110.98}
+  - {text: "where there are spades of killings and there seems to be an upsurge of interest and soon that then fizzles away and very little happens in terms of prostitution", start: 1110.98, end: 1120.22}
+  - {text: "and even arrests and they're saying that that needs to change saying that this is perhaps another moment where south africans can rally and increase their demands on the government", start: 1120.22, end: 1130.38}
+  - {text: "and to the pressure that they put on officials to make sure that something changes this time and how have the authorities been responding well they've", start: 1130.38, end: 1138.90}
+  - {text: "said our president sir aram up also in reaction to the discoveries of these bodies has assembled a specialized team that includes ministers he's committed that those ministers will make sure", start: 1138.90, end: 1149.90}
+  - {text: "that these murders are treated as a high priority issue that all the resources that are needed are channeled towards this investigation that could be investigating officers", start: 1149.90, end: 1159.78}
+  - {text: "and possibly finding prostitutes that will take on these cases when it eventually gets to that stage but some people are skeptical they're saying we've been here before", start: 1159.78, end: 1170.78}
+  - {text: "that it's not a matter of policies that the policies exist just last year alone this was declared a national disaster saying that the government says all the right things", start: 1170.78, end: 1180.02}
+  - {text: "but it's the implementation that's a problem they're saying also on the sidelines of that these are now the gender campaigners they're saying another thing that needs to be addressed", start: 1180.02, end: 1188.54}
+  - {text: "and it can only be led at government level are the harmful attitudes that some men in south africa hold towards women and they're saying that the manifestation of", start: 1188.54, end: 1199.58}
+  - {text: "that violence is what we are seeing here and repeatedly whenever there are cases of sexual violence against women and in worst cases murder punta felani", start: 1199.58, end: 1209.44}
+  - {text: "germany is holding two state elections this weekend normally such votes don't generate much interest outside the country's borders but that's not the case this time this is part of the reason why that", start: 1209.63, end: 1223.63}
+  - {text: "was the scene two weeks ago in the eastern german state of saxony and halts where the far right alternative for deutschland or afd party recorded its best ever result", start: 1228.21, end: 1239.61}
+  - {text: "but without winning an absolute majority now all eyes are on the afd to see if it can continue its political rise in this weekend's elections", start: 1239.61, end: 1248.21}
+  - {text: "and that could further increase the pressure on germany's highly unpopular leader fridrich mertz to stand aside for someone who can revive the fortunes of his once dominant cdu party especially", start: 1248.21, end: 1261.97}
+  - {text: "if the cdu fails to reach the minimum five percent threshold in one of the states jessica parker is our berlin correspondent chance of fridrich mertz has canceled a trip to the un general assembly in new york", start: 1261.97, end: 1276.45}
+  - {text: "that was due to happen early next week and that's widely being read as a signal of how seriously him and his team is taking it although they didn't say exactly why he canceled it except to say", start: 1276.45, end: 1287.17}
+  - {text: "that his presence was required in berlin we have seen over the last couple of days eight state premiers from the cdu come out in support of chance of fridrich mertz although some felt the letter", start: 1287.17, end: 1299.29}
+  - {text: "that they issued was rather lukewarm but there is these endless rumors swirling and they have been for months but they've really ratcheted up of this idea of a chance to swap", start: 1299.29, end: 1309.31}
+  - {text: "because fridrich mertz increasingly has been seen as something of an electoral liability for the cdu he is certainly not being put front and center for the campaigns in berlin", start: 1309.31, end: 1318.69}
+  - {text: "and mecklenburg for poman fridrich mertz talked about trying to take the fight to alternative for deutschland with good competent government famously once upon a time", start: 1318.69, end: 1328.83}
+  - {text: "a long time ago he talked about even halving their vote the opposite has happened and the afd is surging in support that's seen as big problem", start: 1328.83, end: 1336.53}
+  - {text: "that he's failed to take on alternative for deutschland seen as big problem within his own party his communication style often comes under a lot of scrutiny", start: 1336.53, end: 1344.65}
+  - {text: "as well people see him as abrasive somewhat gaff prone and look i have met plenty of people in germany who are none too fond of fridrich mertz", start: 1344.65, end: 1352.99}
+  - {text: "and his personal approval rating ratings are very low he's also trying to push forward with a bunch of reforms some of which are very unpopular", start: 1352.99, end: 1359.99}
+  - {text: "or have been criticized around for example pensions he himself has kind of seemed to concede that his government needs to communicate better with people but he is a man now", start: 1359.99, end: 1372.97}
+  - {text: "who i think it's being seen that this weekend is potentially somewhat make or break for him jessica parker in berlin google has confirmed that its artificial intelligence system gemini broke out of a testing environment", start: 1372.97, end: 1386.03}
+  - {text: "and hacked into three companies in may it's the latest such incident raising concerns that ai organizations may not be able to keep their systems under", start: 1386.03, end: 1395.17}
+  - {text: "control our business correspondent meghan owen is following developments this happened back in may when gemini was undergoing cyber security testing by an independent company and", start: 1395.17, end: 1406.39}
+  - {text: "according to google it essentially used publicly available information to kind of guess at credentials including in one case a password to hack into some websites", start: 1406.39, end: 1418.99}
+  - {text: "that it thought were part of the testing but they actually weren't now google says it did stop it's informed the companies that they were hacked during this testing", start: 1418.99, end: 1429.45}
+  - {text: "and it's now working to kind of change its training in accordance but it also says that this highlights the importance of training ai and its", start: 1429.45, end: 1438.37}
+  - {text: "models to operate responsibly in the past few months we've seen similar incidents for example back in july anthropics claude said that it kind of broken out of its test environment by somehow connecting to the internet", start: 1438.37, end: 1451.81}
+  - {text: "when it was meant to be in a kind of isolated situation at a similar time open ai said that one of its models during a test had carried out cyber attacks against several publicly available companies", start: 1451.81, end: 1463.45}
+  - {text: "and what's interesting is the company said that it had operated in a kind of superhuman way so it was making mistakes and decisions that no", start: 1463.45, end: 1471.43}
+  - {text: "human hacker would have been able to make megan owen we end with a new documentary called the oldest person in the world which explores aging longevity", start: 1471.43, end: 1482.70}
+  - {text: "and mortality it follows the journey of sam green a new york -based filmmaker and his decade -long journey as he meets various people bestowed with", start: 1482.70, end: 1492.92}
+  - {text: "the oldest living person title the bbc's tom brook went to meet him i know this might sound weird but i've been obsessed with the oldest", start: 1492.92, end: 1503.16}
+  - {text: "person in the world for years meet adventurous brooklyn -based oscanom -nated filmmaker sam green since 2015 he's been traveling the world chronicling the forever changing", start: 1503.16, end: 1515.32}
+  - {text: "holders of the title of oldest person in the world his survey has included kaneitonaka in japan who held the title for four years and then there's the oldest person ever france's jean calment", start: 1515.32, end: 1527.58}
+  - {text: "who when she died in 1997 was 122 years old in her later year she recorded a rap album sam greens investigation of these very senior citizens has become a lifelong project a documentary based on his survey", start: 1527.58, end: 1542.00}
+  - {text: "so far has just been released his long been fascinated by why the news media and the public are so interested in the title holder of", start: 1542.00, end: 1550.86}
+  - {text: "the oldest person in the world to this day i still don't fully understand it is this a fear of death is this a fear of fate", start: 1550.86, end: 1559.42}
+  - {text: "or uh you know one of those things like what the car crash where you can't look away but you don't want to look at it", start: 1559.42, end: 1567.16}
+  - {text: "in making his documentary sam green found there was nearly always a desire on the part of others to find out if there's a secret to", start: 1567.16, end: 1574.54}
+  - {text: "longevity the elderly people he observed had all kinds of answers for why they'd led a long life one woman stated she'd live for a long time", start: 1574.54, end: 1583.34}
+  - {text: "because she's stayed away from men she also said her secret was eating three raw eggs a day too you know so it's like the media descends on these people everybody asks them what their secret is", start: 1583.34, end: 1594.66}
+  - {text: "and they say something and everybody runs with that this documentary often shows that other people the outside world is often much more intrigued by the oldest person in the world than the subjects", start: 1594.66, end: 1605.88}
+  - {text: "who hold that title but this film isn't just about the very old it's also about life and death and events and the filmmakers own life the birth of a son", start: 1605.88, end: 1615.36}
+  - {text: "and his own confrontation with a life threatening illness these things started to creep into the movie so over time it becomes a larger meditation i hope about time", start: 1615.36, end: 1626.12}
+  - {text: "and the mysteries of being alive and fate and all these big questions that we we ask ourselves the last person i interviewed a spanish woman", start: 1626.12, end: 1636.68}
+  - {text: "named maria bronyas she was very funny she even was making fun of me which i love but in at a moment in the interview she said you are young", start: 1636.68, end: 1646.16}
+  - {text: "now is the time to do good works what she was saying is you're young and you have time so use it and i think that's", start: 1647.72, end: 1657.02}
+  - {text: "a beautiful thing to appreciate over the last 10 years sam green has met many of those who've held the title of oldest person in the world", start: 1657.02, end: 1666.32}
+  - {text: "but there's been one holdout the current title holder 117 year old ethyl caterham who lives in surrey just outside london she was born in edwardian times she is the first person in 10 years", start: 1666.32, end: 1679.78}
+  - {text: "who has rebuffed my overtures but she did let king charles visit her didn't she i saw a video of her and king charles and i thought charles not me you know", start: 1679.78, end: 1693.22}
+  - {text: "she is british she's the last edwardian so i guess she feels some allegiance to the king but you know come on i've been doing this for 10 years even though this documentary focuses on the very old", start: 1693.78, end: 1705.43}
+  - {text: "and very fragile it makes the point that there is much to learn from observing them and from the filmmaker himself about what it means to live a thoughtful life it is an unexpectedly life affirming film tom brook", start: 1705.43, end: 1719.69}
+  - {text: "and that's all from us for now if you want to get in touch you can email us at globalpodcast at bbc .co .uk you can", start: 1721.26, end: 1729.90}
+  - {text: "also find us on x at bbc world service use the hashtag global news pod this edition was mixed by chris ablakwa and the producer was", start: 1729.90, end: 1738.56}
+  - {text: "steven jensen the editor is karen martin i'm cilia hatton until next time goodbye", start: 1738.56, end: 1743.24}
+---
