@@ -9,461 +9,461 @@ audioDir: "2026-05-21-indian-indentured-labour"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-05-21-indian-indentured-labour/episode.mp3"
 totalDuration: 3095.5
 sentences:
-  - {text: "This is In Our Time from BBC Radio 4, and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 0.14, end: 9.20}
-  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 9.98, end: 14.82}
-  - {text: "I hope you enjoy the programme.", start: 15.38, end: 16.78}
-  - {text: "Hello. When the British Empire abolished slavery in 1833, plantation owners turned to Indian indentured labour, taking more than a million people to colonies from Guyana to Mauritius, to the Caribbean, and beyond.", start: 18.36, end: 33.50}
-  - {text: "Critics, Gandhi amongst them later on, said this was little more than slavery in disguise, and argued for abolition, which happened, but not until 1917, and there could be deception and abuse, especially in the early decades.", start: 34.40, end: 49.94}
-  - {text: "But since many, especially from disadvantaged castes, chose to stay rather than return to India when their contracts expired, then questions about the experience of different peoples in different colonies became more nuanced.", start: 50.90, end: 66.40}
-  - {text: "Well, with me to discuss this period of Indian indentured labour, are Purba Hussein, lecturer in modern history at the University of York, Neha Hui, associate professor in economics at the University of Reading,", start: 67.34, end: 81.00}
-  - {text: "and Clem Cicharan, emeritus professor of history at London Metropolitan University.", start: 81.58, end: 87.60}
-  - {text: "And, Clem, it's to you I turn to first.", start: 87.96, end: 90.24}
-  - {text: "In 1833, give us a sense of how entwined slavery, sugar, and the British Empire were.", start: 90.96, end: 98.98}
-  - {text: "Well, it was a very long history of that, and some scholars have referred to it as the sugar slave plantation complex.", start: 99.91, end: 109.23}
-  - {text: "Certainly in the Caribbean, the sugar industry with slave labour was the dominant factor in the economic development of the Caribbean islands.", start: 110.27, end: 121.61}
-  - {text: "So it was crucial.", start: 122.27, end: 124.01}
-  - {text: "In fact, when you think of sugar in the Caribbean, you think of sugar and slavery, and very often the expression bitter sugar crops up because I think it summarizes the experience on the slavery as well as to an extent,", start: 124.65, end: 144.05}
-  - {text: "certainly in the early stages of indentureship which came after the enslavement of Africans.", start: 144.37, end: 151.07}
-  - {text: "So what happened to the former enslaved people?", start: 151.63, end: 155.75}
-  - {text: "What did they do?", start: 156.49, end: 157.25}
-  - {text: "It varied, Misha, in some islands like Antigua, for instance, where the possibility of acquiring land was virtually impossible.", start: 157.57, end: 168.67}
-  - {text: "So very difficult indeed.", start: 169.21, end: 170.45}
-  - {text: "You didn't even have the so -called apprenticeship system which existed on other islands or in other colonies in the Caribbean, because the planters knew that the freed people,", start: 171.05, end: 184.45}
-  - {text: "the former slaves, the former enslaved, had very few options, very few alternatives, so that their labour was still accessible to the planters.", start: 185.15, end: 194.65}
-  - {text: "But in places like Trinidad and British Guyana and Suriname, in the southern Caribbean, there was a considerable amount of unoccupied land, land that did not belong to the plantations", start: 194.95, end: 211.71}
-  - {text: "or land that was not used by the plantations.", start: 211.71, end: 214.79}
-  - {text: "And in those places, the freed people had options to acquire land, as they did in British Guyana as well as in Trinidad.", start: 215.49, end: 223.73}
-  - {text: "And it was to those places where people had options and therefore were inclined to leave the plantations after emancipation.", start: 224.71, end: 233.51}
-  - {text: "It is to those places where that vacuum was left, where Indian indentured labourers, in fact, other forms of indentured labourers, including Madeira and Portuguese indentured labourer and Chinese indentured labourer.", start: 233.95, end: 247.81}
-  - {text: "So tell us a little bit about the compensation.", start: 247.81, end: 251.29}
-  - {text: "Who was compensated for the abolition of slavery?", start: 251.77, end: 254.71}
-  - {text: "But certainly not the enslaved or the freed people.", start: 255.03, end: 257.89}
-  - {text: "The compensation, ironically, was referred to those who owned the enslaved Africans.", start: 258.35, end: 265.33}
-  - {text: "And they were being compensated for their property.", start: 266.25, end: 269.15}
-  - {text: "And enslaved people were not human beings.", start: 269.71, end: 272.43}
-  - {text: "They were property in the same way, the oxen and the mules.", start: 272.85, end: 276.95}
-  - {text: "And it was huge sums of money, as I understand.", start: 277.39, end: 279.59}
-  - {text: "Well, it was over 20 million pangs.", start: 279.83, end: 282.27}
-  - {text: "It's certainly for Caribbean planters.", start: 282.45, end: 284.11}
-  - {text: "And that was a vast amount of money in its time.", start: 284.17, end: 286.85}
-  - {text: "So Neha, Hui, tell us a little bit about this man, John Gladstone, and what problem he perceived he had once slavery was abolished?", start: 287.81, end: 297.51}
-  - {text: "John Gladstone was a Scottish merchant, member of Parliament, and the father of future Prime Minister William Gladstone.", start: 298.03, end: 306.01}
-  - {text: "He was also a slave owner.", start: 306.57, end: 308.29}
-  - {text: "He had more than 2500 slaves across nine plantations.", start: 308.59, end: 312.75}
-  - {text: "And he was one of those people who got the compensation that you were talking about a minute ago.", start: 313.15, end: 317.03}
-  - {text: "He got over 100 ,000 pounds in compensation, which was close to 83 million pounds in current money.", start: 317.51, end: 326.39}
-  - {text: "So as was mentioned, as Clem mentioned, it isn't like plantation owners like Gladstone lost complete control.", start: 326.77, end: 333.43}
-  - {text: "So right after slavery was abolished, a transitional period of apprenticeship was instated, where former slaves were required to continue working for their slave owners for a period of up to eight years.", start: 333.73, end: 346.85}
-  - {text: "However, Gladstone was looking beyond that.", start: 347.25, end: 349.59}
-  - {text: "He wanted access to a reliable labour force.", start: 349.87, end: 354.49}
-  - {text: "Just if I can put in there, how much were the former enslaved workers being paid during these apprenticeships?", start: 354.89, end: 364.15}
-  - {text: "So during the apprenticeships, they were required to provide unpaid labour for up to 45 hours a week.", start: 364.55, end: 372.05}
-  - {text: "And yes, so it's not quite the abolition of slavery that we thought it was.", start: 372.63, end: 377.87}
-  - {text: "No, no, definitely, at least not in the initial years.", start: 378.05, end: 380.65}
-  - {text: "So yeah, so going back to Gladstone, so Gladstone was very keen to continue having the supply of reliable labour.", start: 381.19, end: 388.21}
-  - {text: "And so he knew that Mauritius had already started getting a supply of Indian workers from 1834.", start: 388.65, end: 395.59}
-  - {text: "And he started lobbying the parliament.", start: 396.15, end: 398.95}
-  - {text: "Yes. So what arguments was he making?", start: 399.49, end: 402.25}
-  - {text: "And who did he need to persuade in order to introduce this system of indentured labour?", start: 402.47, end: 407.55}
-  - {text: "There were a couple of things, couple of concerns that the plantation owners felt would reduce their profitability.", start: 407.81, end: 414.95}
-  - {text: "One was, of course, the Slavery Abolition Act.", start: 415.65, end: 418.25}
-  - {text: "But then there was another act which was being debated around the same time as indentured labour in the parliament.", start: 418.47, end: 424.09}
-  - {text: "That was the Sugar Equalisation Act, which Sugar Equalisation Bill, which became an act in 1846.", start: 424.65, end: 430.51}
-  - {text: "That act would remove the preferential treatment that British Caribbean sugar had in Great Britain.", start: 431.05, end: 436.59}
-  - {text: "And they would face competition from slave produced sugar from Brazil and Cuba.", start: 437.01, end: 441.09}
-  - {text: "The kind of argument that people like Gladstone was making was they were concerned that these newly freed former slaves would have increased bargaining power.", start: 441.73, end: 451.41}
-  - {text: "And then they were also concerned, as Clem mentioned, because there was abundance of fertile land, these workers would be contained with bounties of nature was the term that was used.", start: 451.91, end: 462.65}
-  - {text: "So he argued for a flow of workers from India.", start: 463.05, end: 466.73}
-  - {text: "So part of what I was saying, the legislation goes through relatively swiftly.", start: 466.99, end: 471.43}
-  - {text: "The indentured system is set up and it begins with the Atlas voyage going from Calcutta to Mauritius in 1834.", start: 471.85, end: 481.55}
-  - {text: "Why does it begin in Calcutta?", start: 482.29, end: 484.11}
-  - {text: "So Calcutta in 1833, if you take the year that the Slavery Abolition Act is passed in the British Parliament, Calcutta is a very, very important city already in South Asia.", start: 484.41, end: 494.03}
-  - {text: "It is a port city.", start: 494.29, end: 495.19}
-  - {text: "It is a really quite massive port traffic connecting East Asia, China on the one hand, all the way up to Europe.", start: 495.53, end: 501.59}
-  - {text: "In the 19th century, Calcutta is the capital under the East India Company later under the British Crown.", start: 501.89, end: 507.11}
-  - {text: "But also there are multiple important shipping companies and merchant companies based in Calcutta.", start: 507.73, end: 512.69}
-  - {text: "And in fact, when Gladstone in 1836 writes to Calcutta based merchant company where his cousin works to ask if Indian labour is a possible way of bringing labour into the Caribbean", start: 513.19, end: 525.21}
-  - {text: "and a way of ensuring that sugar production is not stalled.", start: 525.21, end: 529.23}
-  - {text: "They had this conversation that is very focused on what Calcutta can provide.", start: 529.69, end: 533.83}
-  - {text: "The idea is that the merchant companies based in Calcutta can kind of run the operations at the port city side, but there would be labour recruiters going into different parts of Eastern India into villages and towns and cities,", start: 534.67, end: 547.77}
-  - {text: "entice people in, in some cases as we know now, kidnap people and bring them to the port.", start: 548.51, end: 553.37}
-  - {text: "So what were the voyages like?", start: 553.93, end: 555.77}
-  - {text: "What were the conditions that the indenture workers were kept in?", start: 555.99, end: 559.63}
-  - {text: "So the voyages were actually an extremely important part of the indenture experience.", start: 559.93, end: 564.95}
-  - {text: "And maybe I'll start with the caveat that this changes quite a lot in the 1830s and 40s.", start: 565.47, end: 570.17}
-  - {text: "We see really long voyages with the coming of steel ships and much improved steamship engineering in the 1880s and 90s.", start: 570.21, end: 577.91}
-  - {text: "It does change quite a bit.", start: 577.91, end: 579.53}
-  - {text: "And presumably it's a lot quicker once you've got steams.", start: 579.79, end: 582.15}
-  - {text: "It is a lot quicker once you get to the end of the 19th century.", start: 582.15, end: 585.65}
-  - {text: "Yes. But surprisingly, people's understanding of the ships and the voyages does not change as a complete overhaul.", start: 586.07, end: 594.29}
-  - {text: "For context, in the 1830s, 40s and 50s, if you go from Calcutta to Mauritius, it takes about one and a half months.", start: 594.77, end: 601.05}
-  - {text: "If you go to Fiji, it takes about four months.", start: 601.65, end: 603.63}
-  - {text: "If you go to Jamaica, it can take up to five months.", start: 603.79, end: 605.93}
-  - {text: "It depends on the time of the year and all those other geographical concerns as well.", start: 606.11, end: 610.19}
-  - {text: "That a large part of becoming an indentured migrant and becoming used to the system of having an overseer, becoming one laborer amongst many, and following very particular kind of almost the synchronized system of waking up at a particular time,", start: 610.99, end: 627.79}
-  - {text: "being allowed on deck at a particular time, living with other indentured migrants.", start: 628.29, end: 631.99}
-  - {text: "Most of the indentured men, women and children were living under the decks.", start: 632.65, end: 636.07}
-  - {text: "They were allowed upon decks for certain times.", start: 636.31, end: 638.31}
-  - {text: "There were real concerns with spread of disease because they were living very, very closely together.", start: 638.85, end: 643.59}
-  - {text: "There were other issues such as sexual harassment of women that was really quite rampant on these ships.", start: 644.15, end: 649.35}
-  - {text: "So, Clem, let's focus a bit on Guyana, which became one of the main destinations after Mauritius.", start: 650.09, end: 655.97}
-  - {text: "What were conditions like for indentured laborers at first when they arrived in Guyana?", start: 656.55, end: 661.57}
-  - {text: "It's some gradation here in terms of the treatment of indentured laborers.", start: 661.97, end: 667.19}
-  - {text: "It's not a uniform thing.", start: 667.31, end: 668.73}
-  - {text: "And the first indentured laborers who were taking to British Guyana arrived there on the 5th of May, 1838, even before the final day of the formal end of slavery.", start: 668.73, end: 681.43}
-  - {text: "So, we're dealing here with a society that was still a slave society.", start: 681.95, end: 687.21}
-  - {text: "And obviously, the attitudes of planters, in spite of the fact that they were facing this potential loss of labor, the attitude of planters was still the attitude shaped by being slave masters.", start: 687.63, end: 702.37}
-  - {text: "So, I think the initial experience was quite awful.", start: 703.13, end: 707.93}
-  - {text: "And it was primarily because of that experience in British Guyana with the first two ships that arrived there in 1838 that the system was suspended for a number of years.", start: 708.39, end: 721.61}
-  - {text: "And it wasn't restarted again in the Caribbean until...", start: 722.01, end: 725.43}
-  - {text: "But suspended because the conditions were still awful.", start: 725.43, end: 727.73}
-  - {text: "Because the conditions were so awful and there was a high mortality rate among the first batch of indentured laborers.", start: 727.73, end: 736.19}
-  - {text: "And it was restarted again in 1845.", start: 736.31, end: 739.57}
-  - {text: "But what is interesting to note here, Misha, is that those freed people of African descent, the former slaves, they understood their bargaining position because British", start: 740.29, end: 754.95}
-  - {text: "Guyana was not a developed slave society like Jamaica.", start: 754.95, end: 759.33}
-  - {text: "Trinidad was not a developed slave society like Jamaica or Barbados.", start: 759.77, end: 764.23}
-  - {text: "So, there was considerable amount of land.", start: 765.13, end: 767.43}
-  - {text: "And the freed people realized that they had a bargaining strength, a bargaining advantage because of their access to land.", start: 768.19, end: 778.73}
-  - {text: "And they started to buy land and to acquire small villages and so on on the periphery of these plantations.", start: 778.73, end: 785.51}
-  - {text: "But they were very conscious that they could bargain with the planters.", start: 786.05, end: 790.57}
-  - {text: "In fact, they went on strike in 1842 in British Guyana.", start: 790.73, end: 794.03}
-  - {text: "And they were able to get an increase in wages.", start: 794.27, end: 796.67}
-  - {text: "But when those same freed African people went on strike in 1848, by then indentureship had started again.", start: 797.23, end: 805.39}
-  - {text: "And therefore, those Portuguese and Indian indentured laborers were able to undercut the bargaining position of the freed people.", start: 806.07, end: 815.13}
-  - {text: "Yeah, of course, the Indian indentured labor was not the only indentured labor system that emerged in the 19th century.", start: 815.55, end: 822.29}
-  - {text: "We saw this particular with Chinese workers as well.", start: 822.37, end: 825.35}
-  - {text: "And Neha, you mentioned before about the lifting of the sugar monopoly in the 1840s.", start: 826.15, end: 832.37}
-  - {text: "So, we've got a tension between the colonialist planters and the free traders in Britain at the time.", start: 832.69, end: 842.07}
-  - {text: "What role does the idea about free labor, how does that fit into this?", start: 842.43, end: 848.21}
-  - {text: "So, liberal thinkers of that time saw in Indian indentured labor as an uneasy compromise between slavery and free labor.", start: 848.85, end: 856.87}
-  - {text: "So, say for example, the Indian indentured workers did have sort of macro freedom to travel from one part of British colony India to other parts.", start: 857.33, end: 865.71}
-  - {text: "However, of course, mobility was restricted within the plantation.", start: 866.11, end: 869.83}
-  - {text: "There were other things that made indentured workers superior.", start: 870.23, end: 873.19}
-  - {text: "Say for example, a right to a passage back home.", start: 873.65, end: 877.01}
-  - {text: "Recruitment was at least theoretically free and people were signing a contract to get into the system.", start: 877.59, end: 883.93}
-  - {text: "Of course, there was a lot of evidence of abuse and coercion there.", start: 884.31, end: 888.47}
-  - {text: "In indentured workers were paid a wage.", start: 888.89, end: 890.89}
-  - {text: "It was less than free wage, but they were paid a wage.", start: 891.01, end: 893.41}
-  - {text: "So, it was a bit of a compromise.", start: 893.97, end: 895.47}
-  - {text: "The political economists of that time were uneasy about this, but they didn't explicitly talk about indentured labor.", start: 896.01, end: 903.23}
-  - {text: "Adam Smith, who of course predated indentured labor, was unambiguously opposed to unfreedom.", start: 903.65, end: 910.47}
-  - {text: "So, in his work, Theory of Moral Sentiment, he calls states that had slavery the vilest of all states.", start: 910.93, end: 916.97}
-  - {text: "And then in Wealth of Nation, he said that unfree labor was inefficient because workers just did not have the incentive to work more.", start: 917.39, end: 925.45}
-  - {text: "J .S. Mill also opposed unfree labor on a very deep philosophical ground in his work on liberty.", start: 926.03, end: 931.79}
-  - {text: "He argued that indentured labor, because it resulted in loss of freedom, actually made contracts meaningless.", start: 932.27, end: 938.55}
-  - {text: "Well, talking about those contracts which they were signing, put about back in India, who was doing the recruiting, and how much did the indentured workers know what they were signing up for?", start: 939.11, end: 952.07}
-  - {text: "Labor recruiting was done by quite a wide range of people.", start: 952.47, end: 955.47}
-  - {text: "Back in India, the general idea was that plantation owners in different parts of the British Empire, including British Caribbean, would write to the merchants in Calcutta, some merchant companies,", start: 956.09, end: 966.79}
-  - {text: "and say, we need this many people at this time.", start: 967.19, end: 969.71}
-  - {text: "The merchant companies would recruit local Indian men, mostly men, to go into the hinterlands of India.", start: 970.33, end: 976.67}
-  - {text: "We've talked about Calcutta, but that was not the only port.", start: 977.19, end: 979.55}
-  - {text: "There were two big ports in southern India as well, Madras and Bombay.", start: 979.75, end: 983.63}
-  - {text: "So the idea being labor recruiters go into villages and towns and cities in the hinterland and try to argue that indentured system is a really good alternative,", start: 983.85, end: 993.39}
-  - {text: "especially for people who were already quite used to agricultural labor.", start: 993.39, end: 997.13}
-  - {text: "That is not actually how it happened.", start: 997.53, end: 999.15}
-  - {text: "There were people coming back from the Caribbean who had been an indentured migrant, and they would then have the job of trying to then entice other people to join the indentured migration.", start: 999.65, end: 1010.13}
-  - {text: "Their contracts lasted for about five years, is that right?", start: 1010.17, end: 1013.51}
-  - {text: "Five years, yes. Five years was the standard contract.", start: 1013.53, end: 1016.29}
-  - {text: "And were they generally, after five years, free to choose what to do next?", start: 1016.37, end: 1021.21}
-  - {text: "On paper, yes. Actually, no.", start: 1021.49, end: 1023.77}
-  - {text: "Sometimes it really depended on whether they had been paid their wages up on time, on whether their wages had been cut because of being ill, for instance, where you couldn't work on certain days.", start: 1024.09, end: 1034.47}
-  - {text: "Various plantation colonies used the double cut in wages.", start: 1034.99, end: 1037.91}
-  - {text: "So if you miss one day, you get two days wages cut.", start: 1038.31, end: 1040.93}
-  - {text: "They were supposed to be paid for the voyage back to their port of origin.", start: 1041.41, end: 1045.47}
-  - {text: "Many weren't paid that.", start: 1045.69, end: 1046.63}
-  - {text: "Generally, we do know of multiple indentured migrants who did, after they have gone to the Caribbean, to Fiji, to Mauritius, who did take the opportunity of the end of the contract to try to get some of that agency back.", start: 1047.19, end: 1060.29}
-  - {text: "We know of multiple people who put in applications to move to a different colony or to a different estate because they heard from other indentured migrants", start: 1060.85, end: 1068.87}
-  - {text: "that that was slightly better for them or move to colonies would be easier to kind of settle down a bit.", start: 1068.87, end: 1074.49}
-  - {text: "But we know so many indentured migrants who had absolutely no idea what they were signing on for.", start: 1074.83, end: 1080.43}
-  - {text: "We know of people in the 1830s who was told that they were going to be going on a five day journey.", start: 1080.75, end: 1087.65}
-  - {text: "They ended up going on a two months journey who were told they were going to be abroad for six months.", start: 1087.85, end: 1092.59}
-  - {text: "They were abroad for, well, five years in the plantation and then the travel time.", start: 1092.81, end: 1096.33}
-  - {text: "As late as 1898, we know of people who thought that land would be visible throughout the journey.", start: 1096.73, end: 1102.55}
-  - {text: "Many of these people from the hinterlands have never been on the oceans.", start: 1102.89, end: 1105.87}
-  - {text: "So many of them we know were expecting really a river journey to somewhere in or near India.", start: 1106.43, end: 1111.41}
-  - {text: "So, Clem, back to Guyana, you've mentioned the fact that the agency of the freed enslaved population was initially considerable, but then weakened by the introduction of indentured Indian labour.", start: 1112.21, end: 1127.21}
-  - {text: "Did that result in ever any coming together of the two communities or were they at daggers drawn as it were over the years?", start: 1127.83, end: 1137.43}
-  - {text: "Yes, primarily because the indentured labourers had access to a considerable amount of land on the Guyana coast, because as I said earlier, it wasn't a mature slave society in the way Jamaica and Barbados were,", start: 1137.77, end: 1156.09}
-  - {text: "some of the islands and the Leeward Islands and the Windward Islands.", start: 1156.25, end: 1159.49}
-  - {text: "So after 1817 in particular, because conditions started to improve, there were reforms.", start: 1160.01, end: 1166.29}
-  - {text: "The system that Purba is discussing from the 1830s and the 1840s had undergone some reforms from the 1870s to the 1880s.", start: 1167.31, end: 1178.47}
-  - {text: "So increasingly, people were able to or some people were able to move out of the plantations.", start: 1178.67, end: 1185.21}
-  - {text: "So you had an interesting relationship where Indian villages were being created on the Guyana coast, on the periphery of the sugar plantations, in the same way that African villages were created.", start: 1185.67, end: 1199.19}
-  - {text: "But in many cases, the Indian villages were substantially more successful because this is a place that's below sea level, tends to be very swampy during the heavy rains.", start: 1199.53, end: 1213.77}
-  - {text: "And what happened there was that many people, many indentured laborers who came from agricultural cast or people who were forced into agriculture because of the penetration of the economies of Eastern Uttar Pradesh and Western Bihar,", start: 1214.49, end: 1231.13}
-  - {text: "where many of the caste professions had become defunct.", start: 1231.43, end: 1235.33}
-  - {text: "So virtually everybody was thrown onto the land.", start: 1235.61, end: 1238.61}
-  - {text: "So even the lowest of caste, people like the Chamars and the Domes and the Dussads who today I presume consider Dalits over the time were seen as untouchables,", start: 1238.95, end: 1250.57}
-  - {text: "even those people had considerable experience as cultivators, renting land, of course, not owning land, but also as agricultural laborers.", start: 1251.17, end: 1263.17}
-  - {text: "So the people who were taking most of the indentured laborers who were taking to British Guyana and Trinidad and Surinam and so on, had considerable agricultural experience and they were able to maximize the advantages that were thrown up on the Guyana coast on these swampy lands,", start: 1263.55, end: 1282.41}
-  - {text: "because these swampy lands were ideal for the wet rice culture.", start: 1282.79, end: 1286.51}
-  - {text: "Whereas in many cases that militated against the kind of crops that African villagers were cultivating.", start: 1286.83, end: 1293.71}
-  - {text: "So there was already a conflict there which had started with the inflow of indentured laborers and that was magnified by the fact that Indian villages", start: 1294.27, end: 1306.19}
-  - {text: "after the 1870s to 1880s were emerging all along the coast to the point where when some African villages or bits of land owned by Africans could not be profitably cultivated.", start: 1306.19, end: 1318.49}
-  - {text: "Some of these lands were bought over by Indians, which exacerbated that discordance that had already emerged.", start: 1318.99, end: 1325.83}
-  - {text: "Neha, Clem just mentioned there about the caste system and the fact that I presume most of the indentured laborers were Dalits or untouchables as they're often referred to.", start: 1326.35, end: 1339.49}
-  - {text: "Can you tell us a bit more about what happened to the caste system as people went away and who was signing up for this?", start: 1340.01, end: 1347.79}
-  - {text: "Just to clarify, it's not that most people were from the backgrounds, but then a significant number one.", start: 1348.03, end: 1353.77}
-  - {text: "I think about a third that came out from my research.", start: 1353.83, end: 1356.81}
-  - {text: "There were people from other castes as well.", start: 1357.01, end: 1358.71}
-  - {text: "There were people who were from agricultural caste.", start: 1358.77, end: 1360.43}
-  - {text: "There were people from a high caste as well.", start: 1360.55, end: 1361.97}
-  - {text: "Now, no matter where they were in the caste hierarchy, in India, their lives would have been structured very much by gender and caste norms.", start: 1362.61, end: 1372.41}
-  - {text: "So just to tell the listeners a little bit about what we mean by the caste system, in India, when the indentured workers came, the system of caste hierarchy would be a very structured system that would deem some people or groups,", start: 1372.81, end: 1387.65}
-  - {text: "one nose superior to others and people who were at the bottom of the caste hierarchy, they would live really difficult lives of material deprivation, having no access to educational institutions locked in really bad quality, unskilled labour.", start: 1387.89, end: 1406.23}
-  - {text: "People of lower caste were considered so polluting that anyone who, if someone of the higher caste saw them, let alone touched them, they would be defiled.", start: 1406.67, end: 1415.71}
-  - {text: "So people lived lives of physical segregation.", start: 1416.17, end: 1418.19}
-  - {text: "Interdining was not allowed.", start: 1419.25, end: 1420.77}
-  - {text: "Intermarriage was not allowed.", start: 1421.49, end: 1423.07}
-  - {text: "And the gender norms were particularly difficult for women of higher caste.", start: 1423.65, end: 1427.81}
-  - {text: "But then for most people, the caste structure was very strong and prohibitive.", start: 1427.89, end: 1432.51}
-  - {text: "In the plantation colonies, not that caste completely disappeared, but it didn't exist in the same way.", start: 1433.23, end: 1439.37}
-  - {text: "All the workers were working similar jobs.", start: 1439.75, end: 1441.77}
-  - {text: "The hierarchy based on occupation couldn't exist anymore.", start: 1442.21, end: 1445.45}
-  - {text: "It's not that there was no hierarchy, but the hierarchy was more on racial lines rather than caste lines.", start: 1445.89, end: 1450.53}
-  - {text: "Also, you know, coming together in the ships, living together in the sleeping quarters, eating together meant that these prohibitions on interdining or these physical segregation could not be continued.", start: 1450.91, end: 1462.41}
-  - {text: "Sex ratio was skewed, which meant that intermarriage cohabitation was quite common.", start: 1462.83, end: 1467.87}
-  - {text: "In fact, in some instances, people of lower caste were considered better options by plantation management because they were less trouble.", start: 1468.43, end: 1476.19}
-  - {text: "They're able to stand up for their for their rights and less, less, less confident.", start: 1476.55, end: 1481.55}
-  - {text: "Clem, you wanted to go in there.", start: 1481.85, end: 1482.91}
-  - {text: "I just want to add to what Nia is saying there, because I think that the whole process as Nia was saying that it's not just people from the lowest caste.", start: 1482.95, end: 1493.15}
-  - {text: "You had people from a broad cross -section of caste, including some minority of Brahmins and Shatryas who were upper caste people.", start: 1493.59, end: 1504.01}
-  - {text: "But you also had a significant amount of people from agricultural castes.", start: 1504.19, end: 1510.05}
-  - {text: "If you go to Eastern UP today or Western Bihar, what is known as the Bhojpur area, Bhojpur is speaking area.", start: 1510.05, end: 1517.01}
-  - {text: "That Bhojpur culture, the agricultural castes like the Kurmese and the Ahirs and the Khoris and so on.", start: 1517.47, end: 1527.13}
-  - {text: "These people were among the best agriculturalists in 19th century, late 19th century Eastern UP and Western Bihar.", start: 1527.83, end: 1537.25}
-  - {text: "And many contemporary writers spoke about the great agricultural skills of the men, even more so of the women.", start: 1537.47, end: 1545.13}
-  - {text: "But what was interesting about the here is that these people, although they were the best agriculturalists, they own very little of the land.", start: 1545.61, end: 1554.89}
-  - {text: "So when they went to a place like British Guyana or Trinidad or Suriname and found that although they were from the lowest caste and they now had the means to acquire some land, even small parcels of land,", start: 1555.35, end: 1569.63}
-  - {text: "that was magical for them because in spite of their agricultural skills in many of these places, there was absolutely no way they could acquire land.", start: 1570.11, end: 1579.85}
-  - {text: "Acquiring land was magic.", start: 1580.29, end: 1581.75}
-  - {text: "And that explains why, or to a great extent, that explains why it's a place like British Guyana.", start: 1582.37, end: 1588.79}
-  - {text: "Only about 28, 29 percent of the people returned.", start: 1589.11, end: 1593.51}
-  - {text: "I think in Trinidad it was less.", start: 1594.03, end: 1595.51}
-  - {text: "They stayed on after their conscience.", start: 1595.89, end: 1597.87}
-  - {text: "Because they were recreating a world.", start: 1598.31, end: 1600.67}
-  - {text: "But not just recreating a world.", start: 1601.11, end: 1602.79}
-  - {text: "They actually had certain advantages which didn't exist in India.", start: 1602.91, end: 1606.83}
-  - {text: "Of course. And they were able to exploit a variety of niches in the village environments on the periphery of these plantations.", start: 1606.95, end: 1616.87}
-  - {text: "So you had a kind of symbiotic relationship between the villages where people were pursuing their particular skills and developing village communities.", start: 1617.39, end: 1627.93}
-  - {text: "But at the same time, during the harvest season, because they had recreated the Indian families, a kind of corporate economic unit, some members would be sent out to the plantations to earn cash during the harvest season and the plantations.", start: 1628.31, end: 1643.35}
-  - {text: "Neha. We've not spoken very much about the experience of women.", start: 1644.03, end: 1647.35}
-  - {text: "Yes. And that is actually quite interesting because on the one hand, yes, there was a lot of sexual harassment, coercion, and so on, right from the time of recruitment.", start: 1647.95, end: 1658.21}
-  - {text: "However, there is also evidence that many of the women who went were women who were, you know, widowed, who were destitutes.", start: 1658.73, end: 1666.41}
-  - {text: "Many of the recruitments were from pilgrimage areas where women and men were recruited from often under false sprittance.", start: 1666.49, end: 1675.11}
-  - {text: "But then many of these women were in the pilgrimage sites because they were widowed and they were sent away by their families at the death of their husbands.", start: 1675.45, end: 1683.57}
-  - {text: "And they lived under extreme conditions of austerity with very little financial support.", start: 1684.13, end: 1690.35}
-  - {text: "So for some of them, this signing of contract was also an act of agency given the very limited and a real real opportunity.", start: 1690.81, end: 1698.55}
-  - {text: "Clem, you are coming on that.", start: 1699.23, end: 1701.11}
-  - {text: "Yes, just to add to what Neha is saying here, my maternal great -grandmother came from a low caste Pasi, which would be a Dalit caste.", start: 1701.57, end: 1713.13}
-  - {text: "And she came from the district of Gonda, which is on the border with Nepal.", start: 1713.61, end: 1718.27}
-  - {text: "And she was 20 years old, when she was taken to British Guyana in 1909, unaccompanied by anybody.", start: 1718.53, end: 1728.17}
-  - {text: "And from Brijlal's study of Fiji, the late great Professor Brijlal, an Indo -Fijian historian, we can extrapolate from that to say that the overwhelming majority", start: 1728.77, end: 1741.83}
-  - {text: "of women who were taking under indentureship, certainly to Fiji and possibly to the Caribbean, were not accompanied by anybody at all, which was a clear indication of what Neha has been talking about,", start: 1742.69, end: 1757.85}
-  - {text: "that for some of these women, their husbands had probably died.", start: 1758.37, end: 1763.25}
-  - {text: "There were many. They were married at 14.", start: 1763.77, end: 1766.55}
-  - {text: "Ninety percent of the girls in this area in Eastern, European, Western Bihar were married at the age of 14.", start: 1767.35, end: 1775.45}
-  - {text: "So many of them would have been widows.", start: 1775.85, end: 1778.05}
-  - {text: "Some of them would have been deserted.", start: 1778.73, end: 1780.55}
-  - {text: "But what we have to understand also is that there was a culture of migration which had been opened up in the context of the expansion of the British colonialism.", start: 1781.41, end: 1790.85}
-  - {text: "Put it back, let's pull out a bit now towards the end of the 19th century.", start: 1791.41, end: 1795.51}
-  - {text: "We started seeing more and more voices arguing against the indentured system.", start: 1795.73, end: 1800.91}
-  - {text: "And perhaps some of the most important voices came out of South Africa.", start: 1801.19, end: 1805.49}
-  - {text: "Can you tell us about what happened in South Africa and why that was so important?", start: 1805.49, end: 1810.69}
-  - {text: "South Africa was one of the parts of the British Empire that also saw the use of Indian indentured labour.", start: 1811.33, end: 1817.61}
-  - {text: "I believe from the middle of the 19th century, Indian labourers were also moving as indentured migrants to South Africa, working not just on the field, but in a variety of jobs.", start: 1817.99, end: 1828.19}
-  - {text: "One of the reasons why South Africa becomes so important to the voices against indenture is because of Gandhi, who, you know, before he started becoming really involved in the Indian independence movement with a lawyer educated in London, for instance,", start: 1828.61, end: 1844.21}
-  - {text: "and then based in South Africa, where he realised that there were multiple groups of Indian origin or Indians living in South Africa at the time.", start: 1844.49, end: 1853.47}
-  - {text: "People like him who were professionals, people who were labourers and people who had specifically gone under the indentured system to work in the particular part of South Africa known as Natal.", start: 1853.75, end: 1863.19}
-  - {text: "And Gandhi became very involved in the rights of Indians, and in that case, the rights of Indians, of course, included the rights of indentured migrants and the descendants of indentured migrants.", start: 1863.75, end: 1873.59}
-  - {text: "The South African voice then really comes in as part of the discussion of indentured migrants as part of a wider Indian diaspora and thinking particularly about how prejudice against people of Indian origin in South Africa, as in many other colonies across the British Empire,", start: 1874.01, end: 1890.13}
-  - {text: "prejudice against Indian indentured migrants became part of the prejudice against Indians as a whole.", start: 1891.09, end: 1895.93}
-  - {text: "So when Gandhi is back in India in the beginning of the 20th century, very end of the 19th century, this entire discourse and this entire experience he had in South Africa became part of the wider discourse that was coming up out of India at this time,", start: 1896.75, end: 1910.87}
-  - {text: "which was that the British imperial system that existed in India needed a complete overhaul, moving later to the asking for complete independence.", start: 1911.15, end: 1920.81}
-  - {text: "So, Clem, if we look at what happens as the movement to abolish the indentured system develops, what happens to the communities afterwards?", start: 1921.83, end: 1934.99}
-  - {text: "They are now really part of the local countries that they've moved to.", start: 1935.45, end: 1940.91}
-  - {text: "How do they respond to the end of the system?", start: 1941.49, end: 1944.39}
-  - {text: "The British Guyana case is especially interesting because when indentureship was abolished, the last indentures were cancelled in April of 1920.", start: 1944.39, end: 1957.15}
-  - {text: "Some middle -class Indians in British Guyana launched something called the colonization scheme.", start: 1957.85, end: 1964.09}
-  - {text: "It was headed by two very distinguished Indians, a lawyer and a legislator, a man named J .A.", start: 1964.57, end: 1971.05}
-  - {text: "Lockhoo and a man named Dr.", start: 1971.13, end: 1974.39}
-  - {text: "William Hewley -Warton, who was actually Indian, who was the first Indian in the Caribbean to graduate in medicine, studied at the University of Edinburgh, and they thought that the Indian population was stuck at something like 42 or 43 percent,", start: 1974.61, end: 1990.75}
-  - {text: "precisely at the time when no more indentured laborers would be taken into the colony.", start: 1990.99, end: 1996.51}
-  - {text: "And they felt that that left them very vulnerable because unlike Mauritius, and they were citing the case of Mauritius, where the Indian population was already well over 60, maybe 70 percent,", start: 1996.77, end: 2008.65}
-  - {text: "the Mauritian Indians had the instruments to begin to fight for greater political rights.", start: 2009.33, end: 2016.99}
-  - {text: "But that in British Guyana, they didn't have that numerical strength to be able to fight in the same way.", start: 2017.35, end: 2025.11}
-  - {text: "You mean to fight for them with the British authorities?", start: 2025.39, end: 2029.71}
-  - {text: "Yes, with the British authorities.", start: 2029.71, end: 2031.23}
-  - {text: "Or the other peoples of British Guyana?", start: 2031.61, end: 2034.03}
-  - {text: "Well, with the British authorities, but that any kind of political battle of that nature inevitably acquired an ethnic dimension because the Africans were not in", start: 2034.07, end: 2045.89}
-  - {text: "favor of the continuation of Indian indentured laborers.", start: 2045.89, end: 2049.61}
-  - {text: "In fact, they were trying to get more Africans to come in from West Indian islands and from West Africa because they thought that their position in the future,", start: 2049.67, end: 2060.27}
-  - {text: "their political and economic position in the future, would be gravely undermined if the Indian population was further increased.", start: 2060.57, end: 2069.59}
-  - {text: "So that created a big battle there already between the two of them.", start: 2069.87, end: 2074.35}
-  - {text: "Sir Neha, you have these populations in places as far away as Fiji, British Guyana, Mauritius, South Africa, these Indian populations who remained there after the end of the system, how do they view India itself?", start: 2074.49, end: 2090.35}
-  - {text: "I mean, do they feel detached from it or what is their relationship with India?", start: 2090.87, end: 2095.37}
-  - {text: "The Indian diaspora in the different colonies have a very distinct identity in themselves, which is, of course, influenced by India, but then it is distinct.", start: 2095.65, end: 2106.79}
-  - {text: "Say, for example, in Trinidad and Suriname and British Guyana, there is a very strong Indo -Caribbean identity.", start: 2107.31, end: 2114.75}
-  - {text: "And during the time of decolonization, these people of Indian background played extremely important roles in every sphere of life, in politics, in literature, and I'm sure Clem will tell you in sports.", start: 2115.21, end: 2129.73}
-  - {text: "It's a... Of course.", start: 2130.91, end: 2132.19}
-  - {text: "Of course. It's a distinct identity did exist, but then it was influenced by their background in India.", start: 2132.83, end: 2140.81}
-  - {text: "There are traces of Indianness in different aspects of their life.", start: 2141.27, end: 2145.01}
-  - {text: "For example, maybe the caste system didn't continue to exist in the same way, but then festivals got transferred.", start: 2145.57, end: 2152.25}
-  - {text: "So people of Indian origin in the Caribbean celebrate festivals like Pagwa, which is the Spring Festival of Color, which is also known as Holy in India,", start: 2152.59, end: 2162.47}
-  - {text: "as well as Diwali, which is the Autumn Festival of Lights.", start: 2162.83, end: 2166.67}
-  - {text: "Food has got a very rich influence from India, but then it is unique and their own.", start: 2166.67, end: 2173.43}
-  - {text: "So, yes, the culture did come in, but it's a very distinct identity.", start: 2173.81, end: 2178.77}
-  - {text: "And Portoba, how would you sum up the legacy of the Indian indentured system?", start: 2179.47, end: 2184.75}
-  - {text: "It kind of touches upon everything, economy, politics, culture.", start: 2185.13, end: 2189.17}
-  - {text: "This is about eight decades of Indians moving to different parts of the world, as you say, feeding the South Pacific all the way to Caribbean.", start: 2189.57, end: 2197.87}
-  - {text: "One of the biggest legacies, of course, is the creation of these new identities that Neha just told us about and these new aspects of the Indian diaspora that many of whom remain quite Indian in their culture,", start: 2198.63, end: 2211.41}
-  - {text: "but as you say, also have created their own distinct identities into Mauritians, as into Caribbean.", start: 2211.55, end: 2217.63}
-  - {text: "Neha has talked about the population and cultural legacies.", start: 2218.19, end: 2220.89}
-  - {text: "To me, one of the bigger legacies, of course, as a historian thinking about what's happening in India at the time, is considering how the abolition of indenture", start: 2221.55, end: 2230.73}
-  - {text: "and the discussion and discourse that came out of that snowballed into a very important part of the Indian independence movement and the mass mobilization politics", start: 2230.73, end: 2240.15}
-  - {text: "that we know about the Indian independence movement today.", start: 2240.15, end: 2242.87}
-  - {text: "Many of it started with people like Gandhi who were based in India, but also ex -indentured migrants, a very important person being Totharam Sanathya, who was an Indo -Fijian man who came back to India this time, as many did as part of the repatriation process,", start: 2243.37, end: 2259.37}
-  - {text: "who would go on and giving lectures around different parts of the country in India to try to show his experience of the indenture trade and use", start: 2259.99, end: 2269.29}
-  - {text: "that as a way to rile people up to speak against the indenture system.", start: 2269.29, end: 2272.97}
-  - {text: "And, Clem, how about you?", start: 2273.29, end: 2274.85}
-  - {text: "What do you think the primary legacies of the system are?", start: 2274.97, end: 2278.91}
-  - {text: "Well, I think, Misha, I've called it a social revolution.", start: 2278.91, end: 2282.27}
-  - {text: "And in this respect, I think I was greatly influenced by Professor Brijlal, who had a great impact on me.", start: 2282.89, end: 2290.37}
-  - {text: "One of the most important things here was that the cast, notions of caste were largely incompatible with the capitalist rationale, the capitalist ethos of the sugar plantations.", start: 2290.73, end: 2305.79}
-  - {text: "But the whole process, from the depots in Calcutta, the proverb writes about in a very fine book, that from there, onto the ships, onto the plantations, into the loges,", start: 2306.11, end: 2318.23}
-  - {text: "the barracks, there was no recognition of one's caste background.", start: 2318.95, end: 2323.95}
-  - {text: "And therefore, people of necessity started to integrate and to create a new identity.", start: 2324.29, end: 2330.65}
-  - {text: "In fact, those who travel on the same ship, whether they were Brahmins or Shatriyas or Kourmys or Chamars, or people who were seen as being from a very low caste,", start: 2331.33, end: 2343.21}
-  - {text: "they had to integrate, they had to work within this framework.", start: 2343.75, end: 2346.75}
-  - {text: "And that is why, I'd say, the social revolution began there and it continued onto the plantations.", start: 2346.99, end: 2352.73}
-  - {text: "In fact, men and women who travel on the same ship saw themselves as Jihadis or Jihadins, ship brothers and ship sisters.", start: 2352.99, end: 2363.75}
-  - {text: "And that relationship became so strong that it was almost forbidden for such people's family to intermarry.", start: 2364.29, end: 2371.97}
-  - {text: "And I think that that process was magnified by the fact that people were able to retain Islam as well as Hinduism in the Caribbean.", start: 2372.19, end: 2381.39}
-  - {text: "Because Muslim people, Brahmins, lower caste people, all were literally in the same boat and on the same plantations.", start: 2381.83, end: 2390.03}
-  - {text: "Neha. Clem has mentioned a lot about what the bull factors, what kept workers back in British Ghana or other colonies.", start: 2390.79, end: 2399.53}
-  - {text: "One thing that stopped many people from going back was the notion of Kalapani.", start: 2400.09, end: 2405.97}
-  - {text: "So Hinduism imposes caste expulsion on people who have crossed the sea in a process called Kalapani, which translates to black water.", start: 2406.31, end: 2414.67}
-  - {text: "And then that process can only be reversed through an expensive ceremony called Shuddhi.", start: 2415.21, end: 2421.55}
-  - {text: "And people of lower caste did not often have the means or the motive to go back.", start: 2422.17, end: 2427.09}
-  - {text: "I was going to say, why would they?", start: 2427.15, end: 2428.21}
-  - {text: "Yes, just to confirm the fact that they were a Dalit.", start: 2428.71, end: 2432.09}
-  - {text: "Exactly. And just one final point, Misha.", start: 2432.55, end: 2435.29}
-  - {text: "I do not know how orthodox Hinduism, for instance, which is still very strong there, Sanat and Herm, how that could have been maintained if it hadn't been for the minority of Brahmins who were taken to the Caribbean,", start: 2435.79, end: 2450.39}
-  - {text: "because they themselves were conscious participants in this process, because they started in order to counteract, to make a living, but also to counteract the Christian proselytizers", start: 2450.93, end: 2464.29}
-  - {text: "who had come in because they had a whole set of heathens there as they saw them.", start: 2464.83, end: 2469.27}
-  - {text: "But those Brahmins soon started not only to minister in the homes of people who were known to be a very low caste, with whom they would never have associated with in India,", start: 2469.59, end: 2482.79}
-  - {text: "not only did they go to their homes to do the poojas and to do all the religious work and to recognize these people as human beings,", start: 2483.31, end: 2491.37}
-  - {text: "but they also start to take cooked food from these people.", start: 2491.77, end: 2495.39}
-  - {text: "And for me to take cooked food from you, if you're known as a Dalit or an untouchable, that itself was a social revolution of great significance.", start: 2495.57, end: 2505.57}
-  - {text: "And for me, that is what epitomizes this new identity that was being shaped.", start: 2506.13, end: 2510.95}
-  - {text: "My thanks to Purbao Hussain, Clem Sicharan and Neha Hui.", start: 2511.91, end: 2516.39}
-  - {text: "Next week, the Origins of Cybernetics.", start: 2516.91, end: 2520.03}
-  - {text: "Thank you for listening.", start: 2520.47, end: 2521.53}
-  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2522.21, end: 2528.81}
-  - {text: "Are you keeping this bit or not?", start: 2530.15, end: 2532.01}
-  - {text: "Yeah, we keep this, but we keep this bit.", start: 2532.01, end: 2533.85}
-  - {text: "So there are a couple of things that really struck me.", start: 2534.11, end: 2537.47}
-  - {text: "First of all, we didn't talk about Uganda.", start: 2537.59, end: 2540.45}
-  - {text: "We didn't talk about what the long -term impact has been in politically in places like Uganda and Fiji, in particular, where there's been real tension", start: 2541.45, end: 2553.69}
-  - {text: "in the past 50 years or so and how that emerged.", start: 2554.31, end: 2557.21}
-  - {text: "And the other thing that strikes me is that this is so reminiscent of something else that I've done some work on, which is the effectively indentured labor of Bengalis and Nepalese in particular, but also Filipinos into the Gulf states.", start: 2557.51, end: 2575.45}
-  - {text: "It seems to me to be a very similar system.", start: 2575.59, end: 2579.17}
-  - {text: "I mean, when you signed up for the indentured labor, did you, well, I mean, obviously you didn't have passports, but did you get any cash for it?", start: 2579.63, end: 2589.75}
-  - {text: "Were there tangible benefits straight away for these people?", start: 2589.89, end: 2593.13}
-  - {text: "On paper, every indentured migrant who signed up to join the trade got six months wage advance.", start: 2593.51, end: 2599.37}
-  - {text: "Multiple people who came back and spoke to multiple investigative committees said that they never received that wage advance or they received it from the labor recruiters", start: 2599.85, end: 2611.11}
-  - {text: "and then some of it was taken away as sort of fee.", start: 2611.11, end: 2614.47}
-  - {text: "Some middle manhood. Yes, exactly.", start: 2614.67, end: 2617.23}
-  - {text: "But there was the idea that you could just get cash in hand immediately.", start: 2617.73, end: 2620.61}
-  - {text: "Right, so and did any of them take the money and run?", start: 2621.17, end: 2624.51}
-  - {text: "Most indentured migrants were under quite severe surveillance before they moved onto the ships.", start: 2624.89, end: 2630.81}
-  - {text: "They were kept in these warehouse kind of spaces on the ports known as depots.", start: 2631.09, end: 2636.65}
-  - {text: "In Calcutta and in Mumbai.", start: 2636.97, end: 2639.29}
-  - {text: "In Calcutta and in Mumbai and Madras and all of that.", start: 2639.29, end: 2642.75}
-  - {text: "So and how long would they stay in these warehouses?", start: 2643.03, end: 2645.59}
-  - {text: "Five to six months, up to sometimes three months.", start: 2646.07, end: 2648.99}
-  - {text: "So there's been quite a bit of debate amongst researchers and scholars and presumably also descendants of indentured laborers about the balance here.", start: 2650.85, end: 2661.91}
-  - {text: "You know, was this a replacement for slavery or was this actually something which facilitated opportunities for people?", start: 2662.19, end: 2671.33}
-  - {text: "I mean, is that a live debate amongst scholars?", start: 2671.51, end: 2674.35}
-  - {text: "Well, I think a lot of people hold on to these ideas that this was a new system of slavery.", start: 2674.93, end: 2681.49}
-  - {text: "I think the early period you discussed in your book, certainly, you know, there was slave -like conditions and slave -like practices and the plantations.", start: 2682.17, end: 2692.57}
-  - {text: "But you can't extrapolate from that and paint the whole thing in that sense.", start: 2693.09, end: 2698.15}
-  - {text: "Yes, because it lasted a hundred years.", start: 2698.47, end: 2699.91}
-  - {text: "Yes, it lasted 75 to 80 years.", start: 2699.91, end: 2702.95}
-  - {text: "And people were very enlightened.", start: 2703.59, end: 2705.93}
-  - {text: "People understood. People were returning.", start: 2706.31, end: 2708.23}
-  - {text: "Some who had returned went back to the Caribbean or went back to Fiji.", start: 2708.61, end: 2713.47}
-  - {text: "Now, we knew little about this.", start: 2714.01, end: 2716.21}
-  - {text: "As a descendant of indentured laborers, I had no idea until I was probably in my 30s as to where, what part of India these people came from.", start: 2716.81, end: 2726.29}
-  - {text: "It was a closed book.", start: 2726.87, end: 2728.19}
-  - {text: "As V .S. Naipal said, apart from the fact, as he put it memorably, is that the poverty of these people, and if you go to India today,", start: 2728.89, end: 2738.84}
-  - {text: "these still remain to the most deprived parts of India.", start: 2738.94, end: 2741.80}
-  - {text: "Their poverty was immemorial.", start: 2742.58, end: 2744.40}
-  - {text: "It went back many, many centuries.", start: 2745.14, end: 2746.98}
-  - {text: "And here you had people, many of whom, certainly in the latest stages of indenture, were making a conscious effort to find a new life.", start: 2747.64, end: 2758.26}
-  - {text: "But this was never discovered in families anywhere in the Caribbean.", start: 2758.64, end: 2763.38}
-  - {text: "Sir, how did people go about finding what their heritage was?", start: 2763.72, end: 2768.70}
-  - {text: "What is the sort of record system?", start: 2768.92, end: 2770.64}
-  - {text: "Is there an excellent system of records of who was moving and why?", start: 2771.38, end: 2775.38}
-  - {text: "Yes, so there are multiple times in the indentured system itself where people's names were recorded.", start: 2775.94, end: 2781.94}
-  - {text: "So the first time is when people are brought to the port cities.", start: 2782.56, end: 2785.44}
-  - {text: "There are government officials, colonial officials, who take down things like name and where they come from, their village name or geographical space.", start: 2786.00, end: 2794.16}
-  - {text: "For women, they often take down whether they're married or not.", start: 2794.72, end: 2797.60}
-  - {text: "As Neha pointed out, there are multiple women who are actually travelling by herself.", start: 2797.86, end: 2802.20}
-  - {text: "Many pregnant, often given birth on ships, often giving birth when they arrived.", start: 2802.44, end: 2806.62}
-  - {text: "And as you say, many of them unaccompanied.", start: 2807.38, end: 2809.54}
-  - {text: "So a lot of records were taken down or were supposed to be at least taken down at the port of origin.", start: 2810.04, end: 2817.22}
-  - {text: "And then when you go to Mauritius, Guyana, they're supposed to also kind of check that those are the people who arrived because there were many deaths on passage as well.", start: 2817.46, end: 2826.40}
-  - {text: "So, Clem, how did you track down your maternal grandmother?", start: 2826.62, end: 2829.58}
-  - {text: "Well, in fact, most of my relatives because on their transport for the land that they owned in Guyana, their names would be listed, but it would say X -Avon 1884,", start: 2830.58, end: 2846.58}
-  - {text: "which means that it came on the ship, Avon in 1884.", start: 2847.30, end: 2851.52}
-  - {text: "And if you go into the National Archives in Guyana, in Georgetown, Guyana, Neha's been there, I think.", start: 2852.20, end: 2859.14}
-  - {text: "If you go there, you will see these volumes, which state the name of the ship in the year, certainly from 1865, not the early stages, but from 1865 to 1917.", start: 2860.42, end: 2874.56}
-  - {text: "So once I had that information from the land transport documents, I was able to go straight to the ship's registers, which would state their names, the village from which they came,", start: 2875.06, end: 2888.72}
-  - {text: "what district, yes, their caste background, whether they were...", start: 2889.32, end: 2893.88}
-  - {text: "They registered the caste background as well?", start: 2893.88, end: 2895.22}
-  - {text: "Yes, they did. Absolutely.", start: 2895.22, end: 2896.16}
-  - {text: "They did. Wow. And it would state where they came from, it would state who they were accompanied by, and then it would be penciled in,", start: 2896.48, end: 2904.14}
-  - {text: "Rose Hall, Port Morant, wherever they were sent to, that would be penciled in.", start: 2904.80, end: 2909.92}
-  - {text: "Also, whether they were re -adventured, whether they went back, what should they do?", start: 2910.77, end: 2915.69}
-  - {text: "Right, so you could track their career, pretty much.", start: 2916.43, end: 2920.81}
-  - {text: "So there's some advantage to that bureaucratization of the colonial system.", start: 2921.09, end: 2925.85}
-  - {text: "It's there. I mean, I would never have known, because this thing wasn't discussed, you see, for two reasons.", start: 2927.35, end: 2933.31}
-  - {text: "One, the idea that you were all kidnapped in a way handled this feeling of animosity that Africans had, that these people had come in to swamp us and to,", start: 2934.23, end: 2945.51}
-  - {text: "as they used to put it, took the bread out of our mouths.", start: 2945.95, end: 2949.41}
-  - {text: "When we were about to embark on our freedom, these people came in as cab labor, and we paid, because one third of the funding of it came from colonial budgets.", start: 2949.89, end: 2962.55}
-  - {text: "So they said, we paid to bring these people in to undercut us.", start: 2963.37, end: 2966.59}
-  - {text: "So if you were going there in the ensured labor, you say, well, look, I didn't come to undercut you.", start: 2967.55, end: 2972.29}
-  - {text: "I was kidnapped, I was tricked, I was fooled.", start: 2972.59, end: 2975.07}
-  - {text: "So you sustained that.", start: 2975.43, end: 2976.55}
-  - {text: "So that becomes the narrative that everyone was kidnapped.", start: 2976.55, end: 2980.23}
-  - {text: "One final point to that.", start: 2980.23, end: 2982.39}
-  - {text: "That within the family itself, we knew nothing.", start: 2982.69, end: 2985.59}
-  - {text: "As Naipaul said, I didn't know my great -great -grandmother was pregnant on this boat, and she came here alone to Trinidad.", start: 2986.31, end: 2993.73}
-  - {text: "They weren't going to discuss that past.", start: 2994.53, end: 2996.77}
-  - {text: "That past was an area of darkness.", start: 2997.03, end: 3000.21}
-  - {text: "It was never discussed, because there were too many things hidden in that past.", start: 3000.99, end: 3005.71}
-  - {text: "Personal reasons for leaving, conditions within the family, and for women, two -thirds of whom went on their own.", start: 3006.39, end: 3013.75}
-  - {text: "And these were women large among them between 20 and 30.", start: 3014.51, end: 3018.01}
-  - {text: "They would have been married.", start: 3018.53, end: 3019.55}
-  - {text: "They would have had all kinds of family connections, but to revisit that was far too painful.", start: 3020.23, end: 3024.89}
-  - {text: "So it was a cultivated area of darkness.", start: 3025.57, end: 3027.87}
-  - {text: "Well, thank you very much.", start: 3028.65, end: 3030.01}
-  - {text: "I think you've all deserved a cup of tea or coffee, indeed, if that's what you want.", start: 3030.07, end: 3034.67}
-  - {text: "And I think Simon is going to be making his...", start: 3034.67, end: 3037.03}
-  - {text: "A shot of Guyana Rom.", start: 3037.03, end: 3038.61}
-  - {text: "A shot of Guyana Rom.", start: 3038.99, end: 3040.25}
-  - {text: "They make a very good rum.", start: 3040.57, end: 3042.77}
-  - {text: "I'm sure they do.", start: 3042.81, end: 3043.61}
-  - {text: "If you've got any hand, you're clean.", start: 3043.67, end: 3044.73}
-  - {text: "Very good. They make a very good rum.", start: 3044.73, end: 3047.39}
-  - {text: "Thanks very much. Who would anyone want to your coffee, or you've got to go, Misha.", start: 3048.21, end: 3050.67}
-  - {text: "I've got to go, unfortunately.", start: 3050.67, end: 3052.09}
-  - {text: "In Our Time with Misha Glenny is produced by Simon Tilletson, and it's a BBC Studios production.", start: 3052.93, end: 3058.61}
-  - {text: "Hello, I'm Johnny Diamond, and I'm the presenter of the Radio 4 series How Did We Get Here?", start: 3059.35, end: 3064.01}
-  - {text: "Israel and the Palestinians We explore the complicated back story of that Middle East conflict as the region endures another wider war.", start: 3064.17, end: 3073.51}
-  - {text: "Through conversations with experts with a variety of perspectives, we travel back through the centuries to examine the history of the land that's now so contested between Arabs and Israelis.", start: 3073.83, end: 3086.31}
-  - {text: "And we try and understand the past that's brought us to such a present.", start: 3086.57, end: 3090.89}
-  - {text: "How Did We Get Here?", start: 3091.23, end: 3092.15}
-  - {text: "Israel and the Palestinians Listen on BBC Sounds.", start: 3092.29, end: 3095.19}
+  - {text: "This is In Our Time from BBC Radio 4, and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 0.14, end: 9.20, zh: "这是BBC Radio 4的《In Our Time》节目，这是您可以在该节目档案库中找到的超过一千集内容中的一集。（In Our Time 节目名称；archive 档案库）"}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 9.98, end: 14.82, zh: "本期节目的阅读书单可以在您收听节目的平台描述中找到。（reading list 阅读书单；edition 本期）"}
+  - {text: "I hope you enjoy the programme.", start: 15.38, end: 16.78, zh: "希望您喜欢这期节目。"}
+  - {text: "Hello. When the British Empire abolished slavery in 1833, plantation owners turned to Indian indentured labour, taking more than a million people to colonies from Guyana to Mauritius, to the Caribbean, and beyond.", start: 18.36, end: 33.50, zh: "你好。1833年，当大英帝国废除奴隶制时，种植园主转而使用印度契约劳工，将超过一百万人从圭亚那到毛里求斯，再到加勒比海地区及更远的殖民地。（abolished 废除；indentured labour 契约劳工；plantation 种植园）"}
+  - {text: "Critics, Gandhi amongst them later on, said this was little more than slavery in disguise, and argued for abolition, which happened, but not until 1917, and there could be deception and abuse, especially in the early decades.", start: 34.40, end: 49.94, zh: "批评者，包括后来的甘地，称这不过是变相的奴隶制，并主张废除，虽然最终在1917年得以废除，但在早期几十年里，欺骗和虐待现象屡见不鲜。（in disguise 变相的；abolition 废除；deception 欺骗）"}
+  - {text: "But since many, especially from disadvantaged castes, chose to stay rather than return to India when their contracts expired, then questions about the experience of different peoples in different colonies became more nuanced.", start: 50.90, end: 66.40, zh: "但由于许多人，尤其是来自弱势种姓的人，在合同到期后选择留在当地而不是返回印度，因此关于不同殖民地里不同人群经历的问题变得更加复杂。（disadvantaged castes 弱势种姓；expired 到期；nuanced 复杂的，细致的）"}
+  - {text: "Well, with me to discuss this period of Indian indentured labour, are Purba Hussein, lecturer in modern history at the University of York, Neha Hui, associate professor in economics at the University of Reading,", start: 67.34, end: 81.00, zh: "今天，与我一起讨论印度契约劳工这一历史时期的嘉宾有：约克大学现代历史讲师普巴·侯赛因，雷丁大学经济学副教授内哈·胡伊，（lecturer 讲师；associate professor 副教授）"}
+  - {text: "and Clem Cicharan, emeritus professor of history at London Metropolitan University.", start: 81.58, end: 87.60, zh: "以及伦敦城市大学历史学荣休教授克莱姆·奇查兰。（emeritus professor 荣休教授；London Metropolitan University 伦敦城市大学）"}
+  - {text: "And, Clem, it's to you I turn to first.", start: 87.96, end: 90.24, zh: "克莱姆，我想先请您来谈谈。"}
+  - {text: "In 1833, give us a sense of how entwined slavery, sugar, and the British Empire were.", start: 90.96, end: 98.98, zh: "1833年，请帮我们了解一下奴隶制、糖业和大英帝国之间是如何紧密交织在一起的。（entwined 交织的；sugar 糖业）"}
+  - {text: "Well, it was a very long history of that, and some scholars have referred to it as the sugar slave plantation complex.", start: 99.91, end: 109.23, zh: "这段历史非常漫长，一些学者将其称为“糖料奴隶种植园复合体”。（sugar slave plantation complex 糖料奴隶种植园复合体，指依赖奴隶劳动生产糖料的农业经济体系）"}
+  - {text: "Certainly in the Caribbean, the sugar industry with slave labour was the dominant factor in the economic development of the Caribbean islands.", start: 110.27, end: 121.61, zh: "特别是在加勒比地区，依靠奴隶劳动的制糖业是加勒比岛屿经济发展的主导因素。（Caribbean 加勒比地区；dominant factor 主导因素）"}
+  - {text: "So it was crucial.", start: 122.27, end: 124.01, zh: "所以这至关重要。（crucial 至关重要的）"}
+  - {text: "In fact, when you think of sugar in the Caribbean, you think of sugar and slavery, and very often the expression bitter sugar crops up because I think it summarizes the experience on the slavery as well as to an extent,", start: 124.65, end: 144.05, zh: "事实上，当你想到加勒比地区的糖，就会想到糖与奴隶制，而且经常会出现“苦涩的糖”这个说法，因为我认为它很好地概括了奴隶制的经历，在一定程度上……（bitter sugar 苦涩的糖，隐喻奴隶制带来的痛苦；slavery 奴隶制）"}
+  - {text: "certainly in the early stages of indentureship which came after the enslavement of Africans.", start: 144.37, end: 151.07, zh: "……尤其是在契约劳工制（indentureship）的早期阶段，这一制度是在非洲人被奴役之后出现的。（indentureship 契约劳工制，一种通过合同规定工作期限和条件的劳动制度）"}
+  - {text: "So what happened to the former enslaved people?", start: 151.63, end: 155.75, zh: "那么，那些曾经被奴役的人后来怎么样了？（former enslaved people 前奴隶，指获得自由的前奴隶）"}
+  - {text: "What did they do?", start: 156.49, end: 157.25, zh: "他们做了什么？"}
+  - {text: "It varied, Misha, in some islands like Antigua, for instance, where the possibility of acquiring land was virtually impossible.", start: 157.57, end: 168.67, zh: "情况各异，米莎，比如在安提瓜岛，获得土地的可能性几乎为零。（Antigua 安提瓜，加勒比海岛屿；acquiring land 获得土地）"}
+  - {text: "So very difficult indeed.", start: 169.21, end: 170.45, zh: "所以确实非常困难。（virtually 几乎，实际上）"}
+  - {text: "You didn't even have the so -called apprenticeship system which existed on other islands or in other colonies in the Caribbean, because the planters knew that the freed people,", start: 171.05, end: 184.45, zh: "你甚至没有在其他加勒比岛屿或殖民地存在的所谓学徒制，因为种植园主知道那些获得自由的人……（apprenticeship system 学徒制，废奴后的一种过渡性劳动安排；planters 种植园主）"}
+  - {text: "the former slaves, the former enslaved, had very few options, very few alternatives, so that their labour was still accessible to the planters.", start: 185.15, end: 194.65, zh: "前奴隶们几乎没有其他选择，因此他们的劳动力依然可以被种植园主获取。（former slaves 前奴隶；planters 种植园主）"}
+  - {text: "But in places like Trinidad and British Guyana and Suriname, in the southern Caribbean, there was a considerable amount of unoccupied land, land that did not belong to the plantations", start: 194.95, end: 211.71, zh: "但在特立尼达、英属圭亚那和苏里南等加勒比海南部地区，有大量未被占用的土地，这些土地不属于种植园。（Trinidad 特立尼达；British Guyana 英属圭亚那；Suriname 苏里南）"}
+  - {text: "or land that was not used by the plantations.", start: 211.71, end: 214.79, zh: "或者说是种植园没有使用的土地。"}
+  - {text: "And in those places, the freed people had options to acquire land, as they did in British Guyana as well as in Trinidad.", start: 215.49, end: 223.73, zh: "在这些地方，获得自由的人有购买土地的选择，正如他们在英属圭亚那和特立尼达所做的那样。（acquire 获取，取得）"}
+  - {text: "And it was to those places where people had options and therefore were inclined to leave the plantations after emancipation.", start: 224.71, end: 233.51, zh: "正是因为在这些地方人们有选择，所以他们在解放后倾向于离开种植园。（emancipation 解放，废除奴隶制）"}
+  - {text: "It is to those places where that vacuum was left, where Indian indentured labourers, in fact, other forms of indentured labourers, including Madeira and Portuguese indentured labourer and Chinese indentured labourer.", start: 233.95, end: 247.81, zh: "正是这些留下劳动力真空的地方，吸引了印度契约劳工，事实上还有其他形式的契约劳工，包括马德拉和葡萄牙契约劳工以及中国契约劳工。（indentured labourers 契约劳工；vacuum 真空，空缺）"}
+  - {text: "So tell us a little bit about the compensation.", start: 247.81, end: 251.29, zh: "请告诉我们一些关于赔偿的事情。（compensation 赔偿，补偿）"}
+  - {text: "Who was compensated for the abolition of slavery?", start: 251.77, end: 254.71, zh: "谁因为废除奴隶制而获得了赔偿？（abolition 废除）"}
+  - {text: "But certainly not the enslaved or the freed people.", start: 255.03, end: 257.89, zh: "但肯定不是被奴役者或获得自由的人。（enslaved 被奴役的）"}
+  - {text: "The compensation, ironically, was referred to those who owned the enslaved Africans.", start: 258.35, end: 265.33, zh: "讽刺的是，赔偿金是发给那些拥有非洲奴隶的人的。（ironically 讽刺地）"}
+  - {text: "And they were being compensated for their property.", start: 266.25, end: 269.15, zh: "而且他们因为自己的财产获得了赔偿。（compensated 赔偿；property 财产）"}
+  - {text: "And enslaved people were not human beings.", start: 269.71, end: 272.43, zh: "而被奴役的人不被视为人类。（enslaved 被奴役的）"}
+  - {text: "They were property in the same way, the oxen and the mules.", start: 272.85, end: 276.95, zh: "他们和牛、骡子一样，都是财产。（oxen 公牛；mules 骡子）"}
+  - {text: "And it was huge sums of money, as I understand.", start: 277.39, end: 279.59, zh: "据我了解，那是一笔巨款。（huge sums 巨额资金）"}
+  - {text: "Well, it was over 20 million pangs.", start: 279.83, end: 282.27, zh: "嗯，那是超过两千万英镑。（pangs 此处应为 pounds 英镑的转录错误）"}
+  - {text: "It's certainly for Caribbean planters.", start: 282.45, end: 284.11, zh: "这肯定是给加勒比海种植园主的。（Caribbean 加勒比海；planters 种植园主）"}
+  - {text: "And that was a vast amount of money in its time.", start: 284.17, end: 286.85, zh: "在那个年代，那是一笔巨款。（vast amount 大量；in its time 在当时）"}
+  - {text: "So Neha, Hui, tell us a little bit about this man, John Gladstone, and what problem he perceived he had once slavery was abolished?", start: 287.81, end: 297.51, zh: "所以内哈、慧，请告诉我们一些关于约翰·格莱斯顿这个人的情况，以及他认为废奴后自己面临了什么困境？（perceived 感知到；abolished 废除）"}
+  - {text: "John Gladstone was a Scottish merchant, member of Parliament, and the father of future Prime Minister William Gladstone.", start: 298.03, end: 306.01, zh: "约翰·格莱斯顿是一位苏格兰商人、国会议员，也是未来首相威廉·格莱斯顿的父亲。（merchant 商人；member of Parliament 国会议员）"}
+  - {text: "He was also a slave owner.", start: 306.57, end: 308.29, zh: "他也是一名奴隶主。（slave owner 奴隶主）"}
+  - {text: "He had more than 2500 slaves across nine plantations.", start: 308.59, end: 312.75, zh: "他在九座种植园里拥有超过两千五百名奴隶。（slaves 奴隶；plantations 种植园）"}
+  - {text: "And he was one of those people who got the compensation that you were talking about a minute ago.", start: 313.15, end: 317.03, zh: "而且他是那些获得刚才提到的赔偿金的人之一。（compensation 赔偿金）"}
+  - {text: "He got over 100 ,000 pounds in compensation, which was close to 83 million pounds in current money.", start: 317.51, end: 326.39, zh: "他获得了超过十万英镑的赔偿金，按现在的货币计算，这接近八千三百万英镑。（pounds 英镑）"}
+  - {text: "So as was mentioned, as Clem mentioned, it isn't like plantation owners like Gladstone lost complete control.", start: 326.77, end: 333.43, zh: "正如克莱姆刚才提到的，像格莱斯顿这样的种植园主并没有完全失去控制权。（plantation owners 种植园主；Gladstone 格莱斯顿，英国前首相）"}
+  - {text: "So right after slavery was abolished, a transitional period of apprenticeship was instated, where former slaves were required to continue working for their slave owners for a period of up to eight years.", start: 333.73, end: 346.85, zh: "所以在废除奴隶制后，立即实施了一个为期八年的学徒制过渡期，前奴隶被要求继续为原主人工作。（apprenticeship 学徒制；abolished 废除）"}
+  - {text: "However, Gladstone was looking beyond that.", start: 347.25, end: 349.59, zh: "然而，格莱斯顿的目光投向了更远的地方。（beyond 超越，更远的地方）"}
+  - {text: "He wanted access to a reliable labour force.", start: 349.87, end: 354.49, zh: "他想要获得一支可靠的劳动力队伍。（labour force 劳动力）"}
+  - {text: "Just if I can put in there, how much were the former enslaved workers being paid during these apprenticeships?", start: 354.89, end: 364.15, zh: "我想在这里插一句，在这些学徒期间，前奴隶工人能拿到多少工资？（apprenticeships 学徒期；enslaved 被奴役的）"}
+  - {text: "So during the apprenticeships, they were required to provide unpaid labour for up to 45 hours a week.", start: 364.55, end: 372.05, zh: "所以在学徒期间，他们每周被要求提供多达四十五小时的无偿劳动。（unpaid labour 无偿劳动）"}
+  - {text: "And yes, so it's not quite the abolition of slavery that we thought it was.", start: 372.63, end: 377.87, zh: "是的，所以这并不完全是我们以为的那种奴隶制废除。（abolition 废除）"}
+  - {text: "No, no, definitely, at least not in the initial years.", start: 378.05, end: 380.65, zh: "不，不，绝对不是，至少在前几年不是。"}
+  - {text: "So yeah, so going back to Gladstone, so Gladstone was very keen to continue having the supply of reliable labour.", start: 381.19, end: 388.21, zh: "是的，回到格莱斯顿的话题，他非常希望继续获得可靠的劳动力供应。（Gladstone 格莱斯顿，英国前首相）"}
+  - {text: "And so he knew that Mauritius had already started getting a supply of Indian workers from 1834.", start: 388.65, end: 395.59, zh: "他知道毛里求斯早在1834年就已经开始接收来自印度的工人了。（Mauritius 毛里求斯）"}
+  - {text: "And he started lobbying the parliament.", start: 396.15, end: 398.95, zh: "于是他开始向议会游说。（lobbying 游说，争取支持）"}
+  - {text: "Yes. So what arguments was he making?", start: 399.49, end: 402.25, zh: "是的。那么他提出了哪些论点呢？"}
+  - {text: "And who did he need to persuade in order to introduce this system of indentured labour?", start: 402.47, end: 407.55, zh: "为了引入这种契约劳工制度，他需要说服谁？（indentured labour 契约劳工，指受合同约束的劳工）"}
+  - {text: "There were a couple of things, couple of concerns that the plantation owners felt would reduce their profitability.", start: 407.81, end: 414.95, zh: "种植园主有几个担忧，认为这些因素会降低他们的盈利能力。（plantation owners 种植园主）"}
+  - {text: "One was, of course, the Slavery Abolition Act.", start: 415.65, end: 418.25, zh: "其中之一当然是《废除奴隶制法案》。（Slavery Abolition Act 废除奴隶制法案）"}
+  - {text: "But then there was another act which was being debated around the same time as indentured labour in the parliament.", start: 418.47, end: 424.09, zh: "但当时议会还在讨论另一项法案，与契约劳工制度几乎同时。（indentured labour 契约劳工）"}
+  - {text: "That was the Sugar Equalisation Act, which Sugar Equalisation Bill, which became an act in 1846.", start: 424.65, end: 430.51, zh: "那就是《糖业平等法案》，或者说《糖业平等法案草案》，它在1846年成为正式法案。（Sugar Equalisation Act 糖业平等法案）"}
+  - {text: "That act would remove the preferential treatment that British Caribbean sugar had in Great Britain.", start: 431.05, end: 436.59, zh: "这项法案将取消英国加勒比海地区蔗糖在大英帝国享有的优惠待遇。（preferential treatment 优惠待遇；British Caribbean 英国加勒比海地区）"}
+  - {text: "And they would face competition from slave produced sugar from Brazil and Cuba.", start: 437.01, end: 441.09, zh: "他们还将面临来自巴西和古巴的奴隶制生产蔗糖的竞争。（slave produced sugar 奴隶制生产的蔗糖）"}
+  - {text: "The kind of argument that people like Gladstone was making was they were concerned that these newly freed former slaves would have increased bargaining power.", start: 441.73, end: 451.41, zh: "像格莱斯顿这样的人提出的论点是，他们担心这些新获自由的 former slaves 会拥有更强的议价能力。（Gladstone 格莱斯顿，英国前首相；bargaining power 议价能力）"}
+  - {text: "And then they were also concerned, as Clem mentioned, because there was abundance of fertile land, these workers would be contained with bounties of nature was the term that was used.", start: 451.91, end: 462.65, zh: "正如克莱姆提到的，他们还担心，由于肥沃土地丰富，这些工人会被自然的慷慨所束缚，当时使用的术语是这样说的。（abundance 丰富；fertile land 肥沃土地）"}
+  - {text: "So he argued for a flow of workers from India.", start: 463.05, end: 466.73, zh: "因此，他主张从印度引进工人。（flow of workers 工人流动）"}
+  - {text: "So part of what I was saying, the legislation goes through relatively swiftly.", start: 466.99, end: 471.43, zh: "所以我刚才说的部分，立法过程相对迅速。（legislation 立法；swiftly 迅速地）"}
+  - {text: "The indentured system is set up and it begins with the Atlas voyage going from Calcutta to Mauritius in 1834.", start: 471.85, end: 481.55, zh: "契约劳工制度随之建立，始于1834年从加尔各答前往毛里求斯的“阿特拉斯”号航行。（indentured system 契约劳工制度；Mauritius 毛里求斯）"}
+  - {text: "Why does it begin in Calcutta?", start: 482.29, end: 484.11, zh: "为什么是从加尔各答开始的？（Calcutta 加尔各答，印度城市）"}
+  - {text: "So Calcutta in 1833, if you take the year that the Slavery Abolition Act is passed in the British Parliament, Calcutta is a very, very important city already in South Asia.", start: 484.41, end: 494.03, zh: "1833年的加尔各答，也就是英国议会通过《废奴法案》的那一年，加尔各答在南亚已经是一座非常重要的城市。（Slavery Abolition Act 废奴法案；South Asia 南亚）"}
+  - {text: "It is a port city.", start: 494.29, end: 495.19, zh: "它是一座港口城市。（port city 港口城市）"}
+  - {text: "It is a really quite massive port traffic connecting East Asia, China on the one hand, all the way up to Europe.", start: 495.53, end: 501.59, zh: "这是一条非常庞大的港口交通线，连接着东亚、中国，一直延伸到欧洲。（port traffic 港口交通；East Asia 东亚）"}
+  - {text: "In the 19th century, Calcutta is the capital under the East India Company later under the British Crown.", start: 501.89, end: 507.11, zh: "在19世纪，加尔各答是东印度公司统治下的首府，后来成为英国王室直辖下的首府。（Calcutta 加尔各答；East India Company 东印度公司；British Crown 英国王室）"}
+  - {text: "But also there are multiple important shipping companies and merchant companies based in Calcutta.", start: 507.73, end: 512.69, zh: "此外，还有许多重要的航运公司和贸易公司总部设在加尔各答。（shipping companies 航运公司；merchant companies 贸易公司）"}
+  - {text: "And in fact, when Gladstone in 1836 writes to Calcutta based merchant company where his cousin works to ask if Indian labour is a possible way of bringing labour into the Caribbean", start: 513.19, end: 525.21, zh: "事实上，1836年格莱斯顿给一家总部在加尔各答、其表亲在那里工作的贸易公司写信，询问印度劳工是否是向加勒比地区输送劳动力的可行途径……（Gladstone 格莱斯顿；Caribbean 加勒比地区）"}
+  - {text: "and a way of ensuring that sugar production is not stalled.", start: 525.21, end: 529.23, zh: "以及确保糖业生产不会停滞的一种手段。（sugar production 糖业生产；stalled 停滞）"}
+  - {text: "They had this conversation that is very focused on what Calcutta can provide.", start: 529.69, end: 533.83, zh: "他们进行了一场非常聚焦于加尔各答能提供什么的对话。（focused on 聚焦于）"}
+  - {text: "The idea is that the merchant companies based in Calcutta can kind of run the operations at the port city side, but there would be labour recruiters going into different parts of Eastern India into villages and towns and cities,", start: 534.67, end: 547.77, zh: "这个想法是，总部在加尔各答的贸易公司可以负责港口城市一侧的运营，但会有劳工招募者深入印度东部的不同地区，包括村庄、城镇和城市，（labour recruiters 劳工招募者；Eastern India 印度东部）"}
+  - {text: "entice people in, in some cases as we know now, kidnap people and bring them to the port.", start: 548.51, end: 553.37, zh: "诱骗人们上船，在某些情况下，正如我们现在所知，是绑架人们并将他们带到港口。（entice 诱骗；kidnap 绑架）"}
+  - {text: "So what were the voyages like?", start: 553.93, end: 555.77, zh: "那么这些航程是怎样的？（voyages 航程）"}
+  - {text: "What were the conditions that the indenture workers were kept in?", start: 555.99, end: 559.63, zh: "契约工被关押在什么样的条件下？（indenture workers 契约工；conditions 条件）"}
+  - {text: "So the voyages were actually an extremely important part of the indenture experience.", start: 559.93, end: 564.95, zh: "所以，航行实际上是契约劳工经历中极其重要的一部分。（indenture 契约，指受雇于特定期限的劳工制度）"}
+  - {text: "And maybe I'll start with the caveat that this changes quite a lot in the 1830s and 40s.", start: 565.47, end: 570.17, zh: "也许我得先提个前提，这种情况在19世纪30年代和40年代发生了很大的变化。（caveat 前提，注意事项）"}
+  - {text: "We see really long voyages with the coming of steel ships and much improved steamship engineering in the 1880s and 90s.", start: 570.21, end: 577.91, zh: "随着19世纪80年代和90年代钢制船只的出现以及蒸汽船工程的极大改进，我们看到了航程变得非常漫长。（steamship 蒸汽船）"}
+  - {text: "It does change quite a bit.", start: 577.91, end: 579.53, zh: "这确实改变了很多。"}
+  - {text: "And presumably it's a lot quicker once you've got steams.", start: 579.79, end: 582.15, zh: "而且可以想象，一旦有了蒸汽动力，速度会快得多。（steams 蒸汽动力，此处指蒸汽船）"}
+  - {text: "It is a lot quicker once you get to the end of the 19th century.", start: 582.15, end: 585.65, zh: "到了19世纪末，速度确实快了很多。"}
+  - {text: "Yes. But surprisingly, people's understanding of the ships and the voyages does not change as a complete overhaul.", start: 586.07, end: 594.29, zh: "是的。但令人惊讶的是，人们对船只和航行的理解并没有发生彻底的颠覆。（overhaul 彻底改革，全面翻新）"}
+  - {text: "For context, in the 1830s, 40s and 50s, if you go from Calcutta to Mauritius, it takes about one and a half months.", start: 594.77, end: 601.05, zh: "作为背景，在19世纪30、40和50年代，如果你从加尔各答去毛里求斯，大约需要半个月。（Calcutta 加尔各答，印度城市；Mauritius 毛里求斯，印度洋岛国）"}
+  - {text: "If you go to Fiji, it takes about four months.", start: 601.65, end: 603.63, zh: "如果你去斐济，大约需要四个月。（Fiji 斐济，太平洋岛国）"}
+  - {text: "If you go to Jamaica, it can take up to five months.", start: 603.79, end: 605.93, zh: "如果你去牙买加，可能需要长达五个月。（Jamaica 牙买加，加勒比海岛屿）"}
+  - {text: "It depends on the time of the year and all those other geographical concerns as well.", start: 606.11, end: 610.19, zh: "这取决于季节以及其他的地理因素。（geographical concerns 地理因素）"}
+  - {text: "That a large part of becoming an indentured migrant and becoming used to the system of having an overseer, becoming one laborer amongst many, and following very particular kind of almost the synchronized system of waking up at a particular time,", start: 610.99, end: 627.79, zh: "成为契约移民并适应这套体系，意味着要习惯有监工管理，成为众多劳工中的一员，并遵循一套近乎同步的作息系统，比如必须在特定时间起床……（indentured migrant 契约移民；overseer 监工）"}
+  - {text: "being allowed on deck at a particular time, living with other indentured migrants.", start: 628.29, end: 631.99, zh: "在特定时间被允许上甲板，与其他契约移民共同生活。（deck 甲板）"}
+  - {text: "Most of the indentured men, women and children were living under the decks.", start: 632.65, end: 636.07, zh: "大多数契约劳工，包括男女和儿童，都住在甲板下面。（decks 甲板）"}
+  - {text: "They were allowed upon decks for certain times.", start: 636.31, end: 638.31, zh: "他们只在特定时间被允许上甲板。（decks 甲板）"}
+  - {text: "There were real concerns with spread of disease because they were living very, very closely together.", start: 638.85, end: 643.59, zh: "由于他们居住得非常拥挤，疾病传播是一个真实存在的担忧。（spread of disease 疾病传播）"}
+  - {text: "There were other issues such as sexual harassment of women that was really quite rampant on these ships.", start: 644.15, end: 649.35, zh: "还有其他问题，比如船上对女性的性骚扰非常猖獗。（sexual harassment 性骚扰；rampant 猖獗的）"}
+  - {text: "So, Clem, let's focus a bit on Guyana, which became one of the main destinations after Mauritius.", start: 650.09, end: 655.97, zh: "所以，克莱姆，让我们把重点稍微放在圭亚那，它在毛里求斯之后成为了主要目的地之一。（Guyana 圭亚那；Mauritius 毛里求斯）"}
+  - {text: "What were conditions like for indentured laborers at first when they arrived in Guyana?", start: 656.55, end: 661.57, zh: "契约劳工刚到达圭亚那时，最初的条件是怎样的？（indentured laborers 契约劳工）"}
+  - {text: "It's some gradation here in terms of the treatment of indentured laborers.", start: 661.97, end: 667.19, zh: "在对待契约劳工的方式上，这里存在一些程度上的差异。（gradation 程度差异）"}
+  - {text: "It's not a uniform thing.", start: 667.31, end: 668.73, zh: "这并不是一成不变的。（uniform 统一的，一致的）"}
+  - {text: "And the first indentured laborers who were taking to British Guyana arrived there on the 5th of May, 1838, even before the final day of the formal end of slavery.", start: 668.73, end: 681.43, zh: "首批被运往英属圭亚那的契约劳工于1838年5月5日抵达，甚至早于奴隶制正式废除的最后一天。（indentured laborers 契约劳工；British Guyana 英属圭亚那）"}
+  - {text: "So, we're dealing here with a society that was still a slave society.", start: 681.95, end: 687.21, zh: "所以，我们这里讨论的是一个当时仍属于奴隶制的社会。（slave society 奴隶制社会）"}
+  - {text: "And obviously, the attitudes of planters, in spite of the fact that they were facing this potential loss of labor, the attitude of planters was still the attitude shaped by being slave masters.", start: 687.63, end: 702.37, zh: "显然，尽管种植园主们面临着劳动力流失的潜在风险，但他们的态度依然深受其作为奴隶主身份的影响。（planters 种植园主）"}
+  - {text: "So, I think the initial experience was quite awful.", start: 703.13, end: 707.93, zh: "因此，我认为最初的经历非常糟糕。（initial 最初的，起初的）"}
+  - {text: "And it was primarily because of that experience in British Guyana with the first two ships that arrived there in 1838 that the system was suspended for a number of years.", start: 708.39, end: 721.61, zh: "正是因为1838年抵达英属圭亚那的前两艘船上的劳工经历了那种糟糕的状况，导致这一制度暂停了好几年。（suspended 暂停，中止）"}
+  - {text: "And it wasn't restarted again in the Caribbean until...", start: 722.01, end: 725.43, zh: "而在加勒比地区，该制度直到……才再次重启。（Caribbean 加勒比地区）"}
+  - {text: "But suspended because the conditions were still awful.", start: 725.43, end: 727.73, zh: "之所以暂停，是因为当时的状况依然非常恶劣。（conditions 状况，条件）"}
+  - {text: "Because the conditions were so awful and there was a high mortality rate among the first batch of indentured laborers.", start: 727.73, end: 736.19, zh: "因为状况极其恶劣，首批契约劳工中的死亡率很高。（mortality rate 死亡率）"}
+  - {text: "And it was restarted again in 1845.", start: 736.31, end: 739.57, zh: "该制度在1845年再次重启。（restarted 重启，重新开始）"}
+  - {text: "But what is interesting to note here, Misha, is that those freed people of African descent, the former slaves, they understood their bargaining position because British", start: 740.29, end: 754.95, zh: "但这里有个值得注意的地方，米沙，就是那些获得自由的非洲裔前奴隶，他们很清楚自己的谈判地位，因为英国……（bargaining position 谈判地位；African descent 非洲裔）"}
+  - {text: "Guyana was not a developed slave society like Jamaica.", start: 754.95, end: 759.33, zh: "英属圭亚那并不是像牙买加那样成熟的奴隶制社会。（slave society 奴隶制社会；Jamaica 牙买加）"}
+  - {text: "Trinidad was not a developed slave society like Jamaica or Barbados.", start: 759.77, end: 764.23, zh: "特立尼达也不是像牙买加或巴巴多斯那样成熟的奴隶制社会。（Trinidad 特立尼达；Barbados 巴巴多斯）"}
+  - {text: "So, there was considerable amount of land.", start: 765.13, end: 767.43, zh: "所以，那里有大量土地。（considerable amount 大量）"}
+  - {text: "And the freed people realized that they had a bargaining strength, a bargaining advantage because of their access to land.", start: 768.19, end: 778.73, zh: "获释者意识到，由于能接触到土地，他们拥有谈判实力和优势。（bargaining strength 谈判实力；access to 接触，获取）"}
+  - {text: "And they started to buy land and to acquire small villages and so on on the periphery of these plantations.", start: 778.73, end: 785.51, zh: "于是他们开始购买土地，在种植园周边获取小村庄等。（periphery 周边，边缘；plantations 种植园）"}
+  - {text: "But they were very conscious that they could bargain with the planters.", start: 786.05, end: 790.57, zh: "但他们非常清楚，自己可以和种植园主进行谈判。（planters 种植园主）"}
+  - {text: "In fact, they went on strike in 1842 in British Guyana.", start: 790.73, end: 794.03, zh: "事实上，他们在1842年于英属圭亚那发动了罢工。（strike 罢工）"}
+  - {text: "And they were able to get an increase in wages.", start: 794.27, end: 796.67, zh: "他们成功争取到了工资上涨。（wages 工资）"}
+  - {text: "But when those same freed African people went on strike in 1848, by then indentureship had started again.", start: 797.23, end: 805.39, zh: "但当这些获释的非洲人在1848年再次罢工的时候，契约劳工制度已经重新开始了。（indentureship 契约劳工制度）"}
+  - {text: "And therefore, those Portuguese and Indian indentured laborers were able to undercut the bargaining position of the freed people.", start: 806.07, end: 815.13, zh: "因此，这些葡萄牙和印度的契约劳工能够压低获释人员的议价能力。（indentured laborers 契约劳工；undercut 压低，削弱；bargaining position 议价地位）"}
+  - {text: "Yeah, of course, the Indian indentured labor was not the only indentured labor system that emerged in the 19th century.", start: 815.55, end: 822.29, zh: "是的，当然，印度契约劳工制度并不是十九世纪出现的唯一一种契约劳工体系。（indentured labor 契约劳工；emerged 出现，兴起）"}
+  - {text: "We saw this particular with Chinese workers as well.", start: 822.37, end: 825.35, zh: "我们在华工身上也看到了类似的情况。（Chinese workers 华工；particular 特定情况，此处指类似情形）"}
+  - {text: "And Neha, you mentioned before about the lifting of the sugar monopoly in the 1840s.", start: 826.15, end: 832.37, zh: "内哈，你之前提到过19世纪40年代废除糖业垄断的事。（Neha 内哈，人名；sugar monopoly 糖业垄断；lifting 解除，废除）"}
+  - {text: "So, we've got a tension between the colonialist planters and the free traders in Britain at the time.", start: 832.69, end: 842.07, zh: "所以，当时殖民地的种植园主和英国的自由贸易者之间存在一种紧张关系。（colonialist planters 殖民地种植园主；free traders 自由贸易者；tension 紧张关系）"}
+  - {text: "What role does the idea about free labor, how does that fit into this?", start: 842.43, end: 848.21, zh: "关于“自由劳动”这个概念，它在这个背景下扮演了什么角色？（free labor 自由劳动；fit into 融入，契合）"}
+  - {text: "So, liberal thinkers of that time saw in Indian indentured labor as an uneasy compromise between slavery and free labor.", start: 848.85, end: 856.87, zh: "当时的自由派思想家认为，印度契约劳工制度是奴隶制和自由劳动之间一种令人不安的妥协。（liberal thinkers 自由派思想家；uneasy compromise 令人不安的妥协；slavery 奴隶制）"}
+  - {text: "So, say for example, the Indian indentured workers did have sort of macro freedom to travel from one part of British colony India to other parts.", start: 857.33, end: 865.71, zh: "比如说，印度契约劳工确实拥有一种宏观层面的自由，可以在英属印度殖民地的不同地区之间流动。（macro freedom 宏观自由；British colony India 英属印度殖民地；travel 流动，旅行）"}
+  - {text: "However, of course, mobility was restricted within the plantation.", start: 866.11, end: 869.83, zh: "然而，当然，在种植园内部的行动自由是受到限制的。（mobility 行动自由，流动性；restricted 受限的；plantation 种植园）"}
+  - {text: "There were other things that made indentured workers superior.", start: 870.23, end: 873.19, zh: "还有其他一些因素使得契约劳工的地位更优越。（indentured workers 契约劳工；superior 优越的，地位更高的）"}
+  - {text: "Say for example, a right to a passage back home.", start: 873.65, end: 877.01, zh: "比如说，拥有返回家乡的通行权。（passage 通行权，此处指船票或旅程）"}
+  - {text: "Recruitment was at least theoretically free and people were signing a contract to get into the system.", start: 877.59, end: 883.93, zh: "至少在理论上，招募是自由的，人们通过签署合同进入这个体系。（theoretically 理论上；contract 合同）"}
+  - {text: "Of course, there was a lot of evidence of abuse and coercion there.", start: 884.31, end: 888.47, zh: "当然，那里存在大量关于虐待和胁迫的证据。（abuse 虐待；coercion 胁迫）"}
+  - {text: "In indentured workers were paid a wage.", start: 888.89, end: 890.89, zh: "契约劳工是领取工资的。（indentured workers 契约劳工；wage 工资）"}
+  - {text: "It was less than free wage, but they were paid a wage.", start: 891.01, end: 893.41, zh: "虽然比自由劳工的工资少，但他们确实拿到了工资。（free wage 自由劳工的工资）"}
+  - {text: "So, it was a bit of a compromise.", start: 893.97, end: 895.47, zh: "所以，这算是某种妥协。（compromise 妥协）"}
+  - {text: "The political economists of that time were uneasy about this, but they didn't explicitly talk about indentured labor.", start: 896.01, end: 903.23, zh: "当时的政治经济学家对此感到不安，但他们没有明确讨论契约劳动。（political economists 政治经济学家；indentured labor 契约劳动）"}
+  - {text: "Adam Smith, who of course predated indentured labor, was unambiguously opposed to unfreedom.", start: 903.65, end: 910.47, zh: "亚当·斯密，当然他生活在契约劳动出现之前，明确反对不自由。（Adam Smith 亚当·斯密；unfreedom 不自由）"}
+  - {text: "So, in his work, Theory of Moral Sentiment, he calls states that had slavery the vilest of all states.", start: 910.93, end: 916.97, zh: "因此，在他的著作《道德情操论》中，他将实行奴隶制的国家称为最卑劣的国家。（Theory of Moral Sentiment 《道德情操论》；vilest 最卑劣的）"}
+  - {text: "And then in Wealth of Nation, he said that unfree labor was inefficient because workers just did not have the incentive to work more.", start: 917.39, end: 925.45, zh: "然后在《国富论》中，他说非自由劳动效率低下，因为工人缺乏多工作的动力。（Wealth of Nation 《国富论》；incentive 动力，激励）"}
+  - {text: "J .S. Mill also opposed unfree labor on a very deep philosophical ground in his work on liberty.", start: 926.03, end: 931.79, zh: "约翰·斯图亚特·密尔也在其关于自由的著作中，从深刻的哲学层面反对非自由劳动。（J.S. Mill 约翰·斯图亚特·密尔，英国哲学家；unfree labor 非自由劳动）"}
+  - {text: "He argued that indentured labor, because it resulted in loss of freedom, actually made contracts meaningless.", start: 932.27, end: 938.55, zh: "他认为，契约劳工制因为导致自由丧失，实际上让契约变得毫无意义。（indentured labor 契约劳工制；contracts 契约）"}
+  - {text: "Well, talking about those contracts which they were signing, put about back in India, who was doing the recruiting, and how much did the indentured workers know what they were signing up for?", start: 939.11, end: 952.07, zh: "说到他们签署的那些契约，回到印度那边，是谁在负责招募，以及这些契约工人对签署的内容究竟了解多少？（recruiting 招募；indentured workers 契约工人）"}
+  - {text: "Labor recruiting was done by quite a wide range of people.", start: 952.47, end: 955.47, zh: "劳工招募工作是由相当广泛的人群来完成的。（Labor recruiting 劳工招募）"}
+  - {text: "Back in India, the general idea was that plantation owners in different parts of the British Empire, including British Caribbean, would write to the merchants in Calcutta, some merchant companies,", start: 956.09, end: 966.79, zh: "在印度，通常的做法是，英帝国各地（包括英属加勒比地区）的种植园主会写信给加尔各答的商人或一些贸易公司，（hinterlands 内陆地区；Calcutta 加尔各答）"}
+  - {text: "and say, we need this many people at this time.", start: 967.19, end: 969.71, zh: "告诉他们，我们需要在这个时间点招募这么多的人。（recruit 招募）"}
+  - {text: "The merchant companies would recruit local Indian men, mostly men, to go into the hinterlands of India.", start: 970.33, end: 976.67, zh: "这些贸易公司会招募当地的印度男性，主要是男性，前往印度内陆地区。（hinterlands 内陆地区；recruit 招募）"}
+  - {text: "We've talked about Calcutta, but that was not the only port.", start: 977.19, end: 979.55, zh: "我们之前提到了加尔各答，但那并不是唯一的港口。（Calcutta 加尔各答）"}
+  - {text: "There were two big ports in southern India as well, Madras and Bombay.", start: 979.75, end: 983.63, zh: "在南印度还有两个大港口，分别是马德拉斯和孟买。（Madras 马德拉斯，现称金奈；Bombay 孟买）"}
+  - {text: "So the idea being labor recruiters go into villages and towns and cities in the hinterland and try to argue that indentured system is a really good alternative,", start: 983.85, end: 993.39, zh: "也就是说，劳工招募者深入内陆的村庄、城镇和城市，试图论证契约制度是一个非常好的替代方案。（indentured system 契约制度；hinterland 内陆地区）"}
+  - {text: "especially for people who were already quite used to agricultural labor.", start: 993.39, end: 997.13, zh: "尤其是对于那些已经习惯了农业劳动的人来说。（agricultural labor 农业劳动）"}
+  - {text: "That is not actually how it happened.", start: 997.53, end: 999.15, zh: "事情实际上并不是这样发生的。"}
+  - {text: "There were people coming back from the Caribbean who had been an indentured migrant, and they would then have the job of trying to then entice other people to join the indentured migration.", start: 999.65, end: 1010.13, zh: "有些从加勒比海地区回来的人曾做过契约移民，他们随后会负责劝说其他人加入契约移民行列。（indentured migrant 契约移民；Caribbean 加勒比海地区）"}
+  - {text: "Their contracts lasted for about five years, is that right?", start: 1010.17, end: 1013.51, zh: "他们的合同期限大约是五年，对吗？"}
+  - {text: "Five years, yes. Five years was the standard contract.", start: 1013.53, end: 1016.29, zh: "是的，五年。五年是标准的合同期限。"}
+  - {text: "And were they generally, after five years, free to choose what to do next?", start: 1016.37, end: 1021.21, zh: "那么一般来说，五年期满后，他们是否可以自由决定下一步做什么？"}
+  - {text: "On paper, yes. Actually, no.", start: 1021.49, end: 1023.77, zh: "在纸面上是这样，但实际上不是。"}
+  - {text: "Sometimes it really depended on whether they had been paid their wages up on time, on whether their wages had been cut because of being ill, for instance, where you couldn't work on certain days.", start: 1024.09, end: 1034.47, zh: "有时候这真的取决于他们是否按时拿到了工资，或者因为生病等原因导致工资被扣，比如在某些日子无法工作。（wages 工资）"}
+  - {text: "Various plantation colonies used the double cut in wages.", start: 1034.99, end: 1037.91, zh: "许多种植园殖民地采用了双倍扣薪的做法。（plantation colonies 种植园殖民地；double cut 双倍扣除）"}
+  - {text: "So if you miss one day, you get two days wages cut.", start: 1038.31, end: 1040.93, zh: "也就是说，如果你缺勤一天，就会被扣除两天的工资。"}
+  - {text: "They were supposed to be paid for the voyage back to their port of origin.", start: 1041.41, end: 1045.47, zh: "他们本应获得从原籍港口返回的航程报酬。（port of origin 原籍港口）"}
+  - {text: "Many weren't paid that.", start: 1045.69, end: 1046.63, zh: "很多人并没有拿到这笔钱。（weren't paid 未获支付）"}
+  - {text: "Generally, we do know of multiple indentured migrants who did, after they have gone to the Caribbean, to Fiji, to Mauritius, who did take the opportunity of the end of the contract to try to get some of that agency back.", start: 1047.19, end: 1060.29, zh: "通常我们知道，许多契约移民在前往加勒比海、斐济或毛里求斯后，确实利用合同结束的机会，试图重新夺回一些自主权。（indentured migrants 契约移民；agency 自主权）"}
+  - {text: "We know of multiple people who put in applications to move to a different colony or to a different estate because they heard from other indentured migrants", start: 1060.85, end: 1068.87, zh: "我们知道许多人申请移居到其他殖民地或种植园，因为他们从其他契约移民那里听说……（colony 殖民地；estate 种植园）"}
+  - {text: "that that was slightly better for them or move to colonies would be easier to kind of settle down a bit.", start: 1068.87, end: 1074.49, zh: "……那里对他们来说稍微好一些，或者移居到某些殖民地会更容易安定下来。（settle down 定居，安定）"}
+  - {text: "But we know so many indentured migrants who had absolutely no idea what they were signing on for.", start: 1074.83, end: 1080.43, zh: "但我们知道，许多契约移民完全不知道自己在签什么。（signing on for 签约，签署协议）"}
+  - {text: "We know of people in the 1830s who was told that they were going to be going on a five day journey.", start: 1080.75, end: 1087.65, zh: "我们知道在19世纪30年代，有人被告知他们只需进行五天的旅程。（journey 旅程）"}
+  - {text: "They ended up going on a two months journey who were told they were going to be abroad for six months.", start: 1087.85, end: 1092.59, zh: "结果他们却经历了两个月的旅程，而此前被告知在国外只待六个月。（abroad 在国外）"}
+  - {text: "They were abroad for, well, five years in the plantation and then the travel time.", start: 1092.81, end: 1096.33, zh: "他们实际上在国外待了五年，包括在种植园的时间以及旅途时间。（plantation 种植园）"}
+  - {text: "As late as 1898, we know of people who thought that land would be visible throughout the journey.", start: 1096.73, end: 1102.55, zh: "直到1898年，我们仍知道有人以为在整个旅程中都能看见陆地。（visible 可见的）"}
+  - {text: "Many of these people from the hinterlands have never been on the oceans.", start: 1102.89, end: 1105.87, zh: "这些来自内陆腹地的人中，很多人从未见过大海。（hinterlands 内陆腹地；oceans 大海）"}
+  - {text: "So many of them we know were expecting really a river journey to somewhere in or near India.", start: 1106.43, end: 1111.41, zh: "所以我们知道，他们中的许多人原本以为这只是一趟通往印度境内或附近某地的河流旅程。（river journey 河流旅程）"}
+  - {text: "So, Clem, back to Guyana, you've mentioned the fact that the agency of the freed enslaved population was initially considerable, but then weakened by the introduction of indentured Indian labour.", start: 1112.21, end: 1127.21, zh: "克莱姆，回到圭亚那的话题，你提到获释奴隶群体最初拥有相当大的自主权，但随着印度契约劳工的引入，这种权力被削弱了。（agency 自主权；indentured Indian labour 印度契约劳工）"}
+  - {text: "Did that result in ever any coming together of the two communities or were they at daggers drawn as it were over the years?", start: 1127.83, end: 1137.43, zh: "这是否导致了这两个社区之间的某种融合，还是说多年来他们一直势同水火？（at daggers drawn 势同水火，关系紧张）"}
+  - {text: "Yes, primarily because the indentured labourers had access to a considerable amount of land on the Guyana coast, because as I said earlier, it wasn't a mature slave society in the way Jamaica and Barbados were,", start: 1137.77, end: 1156.09, zh: "是的，主要是因为契约劳工在圭亚那海岸获得了大量土地，正如我之前所说，它不像牙买加和巴巴多斯那样是一个成熟的奴隶社会，（indentured labourers 契约劳工；mature slave society 成熟的奴隶社会）"}
+  - {text: "some of the islands and the Leeward Islands and the Windward Islands.", start: 1156.25, end: 1159.49, zh: "也不像一些小岛以及背风群岛和迎风群岛那样。（Leeward Islands 背风群岛；Windward Islands 迎风群岛）"}
+  - {text: "So after 1817 in particular, because conditions started to improve, there were reforms.", start: 1160.01, end: 1166.29, zh: "特别是在1817年之后，因为状况开始改善，进行了一些改革。（reforms 改革）"}
+  - {text: "The system that Purba is discussing from the 1830s and the 1840s had undergone some reforms from the 1870s to the 1880s.", start: 1167.31, end: 1178.47, zh: "普尔巴讨论的19世纪30年代和40年代的制度，在1870年代到1880年代期间已经经历了一些改革。（reforms 改革）"}
+  - {text: "So increasingly, people were able to or some people were able to move out of the plantations.", start: 1178.67, end: 1185.21, zh: "因此，越来越多的人，或者说一些人，能够离开种植园。（plantations 种植园）"}
+  - {text: "So you had an interesting relationship where Indian villages were being created on the Guyana coast, on the periphery of the sugar plantations, in the same way that African villages were created.", start: 1185.67, end: 1199.19, zh: "因此，你看到了一种有趣的关系，印度村庄在圭亚那海岸建立起来，位于糖料种植园的边缘，就像非洲村庄被建立起来一样。（periphery 边缘；sugar plantations 糖料种植园）"}
+  - {text: "But in many cases, the Indian villages were substantially more successful because this is a place that's below sea level, tends to be very swampy during the heavy rains.", start: 1199.53, end: 1213.77, zh: "但在许多情况下，印度村庄的发展要成功得多，因为这里地势低于海平面，在大雨期间往往非常潮湿泥泞。（below sea level 低于海平面；swampy 沼泽的，多湿地的）"}
+  - {text: "And what happened there was that many people, many indentured laborers who came from agricultural cast or people who were forced into agriculture because of the penetration of the economies of Eastern Uttar Pradesh and Western Bihar,", start: 1214.49, end: 1231.13, zh: "在那里发生的情况是，许多来自农业种姓的契约劳工，或者那些因东部北阿坎德邦和西部比哈尔邦经济渗透而被迫从事农业的人，（indentured laborers 契约劳工；caste 种姓；Eastern Uttar Pradesh 东部北阿坎德邦）"}
+  - {text: "where many of the caste professions had become defunct.", start: 1231.43, end: 1235.33, zh: "在这些地方，许多基于种姓的职业已经消亡。（defunct 已失效的，已消亡的）"}
+  - {text: "So virtually everybody was thrown onto the land.", start: 1235.61, end: 1238.61, zh: "所以几乎所有人都被推向了土地。（thrown onto the land 被迫务农）"}
+  - {text: "So even the lowest of caste, people like the Chamars and the Domes and the Dussads who today I presume consider Dalits over the time were seen as untouchables,", start: 1238.95, end: 1250.57, zh: "所以即使是最低种姓的人，比如查玛尔人、多梅斯人和杜萨德人，这些人如今我推测被视为达利特人，在过去很长一段时间里被视为不可接触者，（Chamars 查玛尔人，印度低种姓群体；Domes 多梅斯人，印度低种姓群体；untouchables 不可接触者）"}
+  - {text: "even those people had considerable experience as cultivators, renting land, of course, not owning land, but also as agricultural laborers.", start: 1251.17, end: 1263.17, zh: "即使是这些人，作为耕作者也有相当丰富的经验，他们当然只是租用土地，并不拥有土地，但也作为农业劳工工作过。（cultivators 耕作者；renting land 租用土地）"}
+  - {text: "So the people who were taking most of the indentured laborers who were taking to British Guyana and Trinidad and Surinam and so on, had considerable agricultural experience and they were able to maximize the advantages that were thrown up on the Guyana coast on these swampy lands,", start: 1263.55, end: 1282.41, zh: "所以那些将大多数契约劳工带到英属圭亚那、特立尼达和多巴哥以及苏里南等地的人，拥有相当丰富的农业经验，他们能够最大化利用圭亚那海岸这些沼泽土地带来的优势，（Trinidad 特立尼达；Surinam 苏里南；maximize 最大化）"}
+  - {text: "because these swampy lands were ideal for the wet rice culture.", start: 1282.79, end: 1286.51, zh: "因为这些沼泽土地非常适合种植湿季水稻。（wet rice culture 湿季水稻种植，即水田种植）"}
+  - {text: "Whereas in many cases that militated against the kind of crops that African villagers were cultivating.", start: 1286.83, end: 1293.71, zh: "而在许多情况下，这种环境反而不利于非洲村民所种植的那类作物。（militated against 不利于，阻碍）"}
+  - {text: "So there was already a conflict there which had started with the inflow of indentured laborers and that was magnified by the fact that Indian villages", start: 1294.27, end: 1306.19, zh: "所以早在契约劳工涌入时，那里就已经存在冲突，而印度村庄的存在进一步加剧了这种冲突。（inflow 流入；magnified 加剧，放大）"}
+  - {text: "after the 1870s to 1880s were emerging all along the coast to the point where when some African villages or bits of land owned by Africans could not be profitably cultivated.", start: 1306.19, end: 1318.49, zh: "在19世纪70年代到80年代，沿海地区涌现出许多新事物，导致一些非洲村庄或非洲人拥有的土地无法被有效耕作。（emerging 出现，涌现；cultivated 耕作，耕种）"}
+  - {text: "Some of these lands were bought over by Indians, which exacerbated that discordance that had already emerged.", start: 1318.99, end: 1325.83, zh: "其中一些土地被印度人买走，这加剧了原本就已存在的矛盾。（exacerbated 加剧，恶化；discordance 矛盾，不和）"}
+  - {text: "Neha, Clem just mentioned there about the caste system and the fact that I presume most of the indentured laborers were Dalits or untouchables as they're often referred to.", start: 1326.35, end: 1339.49, zh: "内哈，克莱姆刚才提到了种姓制度，我推测大多数契约劳工都是达利特，也就是通常所说的不可接触者。（caste system 种姓制度；Dalits 达利特，印度种姓制度中最底层的群体；untouchables 不可接触者）"}
+  - {text: "Can you tell us a bit more about what happened to the caste system as people went away and who was signing up for this?", start: 1340.01, end: 1347.79, zh: "你能多讲讲当人们离开印度后，种姓制度发生了什么变化，以及是谁在签署这些契约吗？（signing up 签署，报名）"}
+  - {text: "Just to clarify, it's not that most people were from the backgrounds, but then a significant number one.", start: 1348.03, end: 1353.77, zh: "澄清一下，并不是说大多数人来自那个阶层，但确实有相当多的人是这样。（clarify 澄清，说明；significant number 相当多的数量）"}
+  - {text: "I think about a third that came out from my research.", start: 1353.83, end: 1356.81, zh: "根据我的研究，我认为大约三分之一的人是这样。（research 研究）"}
+  - {text: "There were people from other castes as well.", start: 1357.01, end: 1358.71, zh: "也有来自其他种姓的人。（castes 种姓）"}
+  - {text: "There were people who were from agricultural caste.", start: 1358.77, end: 1360.43, zh: "有来自农业种姓的人。（agricultural 农业的）"}
+  - {text: "There were people from a high caste as well.", start: 1360.55, end: 1361.97, zh: "也有来自高种姓的人。（high caste 高种姓）"}
+  - {text: "Now, no matter where they were in the caste hierarchy, in India, their lives would have been structured very much by gender and caste norms.", start: 1362.61, end: 1372.41, zh: "无论他们在印度的种姓等级中处于什么位置，他们的生活都会受到性别和种姓规范的严格约束。（hierarchy 等级制度；norms 规范，准则）"}
+  - {text: "So just to tell the listeners a little bit about what we mean by the caste system, in India, when the indentured workers came, the system of caste hierarchy would be a very structured system that would deem some people or groups,", start: 1372.81, end: 1387.65, zh: "为了向听众解释一下我们在印度语境下所说的种姓制度，当契约劳工到来时，种姓等级体系是一个结构非常严密的系统，它认为某些人或群体……（caste system 种姓制度；indentured workers 契约劳工）"}
+  - {text: "one nose superior to others and people who were at the bottom of the caste hierarchy, they would live really difficult lives of material deprivation, having no access to educational institutions locked in really bad quality, unskilled labour.", start: 1387.89, end: 1406.23, zh: "……比其他人优越，而处于种姓等级底层的人，他们的生活极其艰难，物质极度匮乏，无法接受教育，只能从事质量极差的非技术劳动。（material deprivation 物质匮乏；unskilled labour 非技术劳动）"}
+  - {text: "People of lower caste were considered so polluting that anyone who, if someone of the higher caste saw them, let alone touched them, they would be defiled.", start: 1406.67, end: 1415.71, zh: "低种姓的人被认为具有极强的污染性，以至于如果高种姓的人看到他们，更不用说接触他们，都会感到被玷污。（polluting 具有污染性的；defiled 被玷污，被弄脏）"}
+  - {text: "So people lived lives of physical segregation.", start: 1416.17, end: 1418.19, zh: "因此，人们生活在物理隔离的状态中。（physical segregation 物理隔离，空间上的分隔）"}
+  - {text: "Interdining was not allowed.", start: 1419.25, end: 1420.77, zh: "不同种姓之间不允许一起吃饭。（Interdining 共餐，混合用餐）"}
+  - {text: "Intermarriage was not allowed.", start: 1421.49, end: 1423.07, zh: "不同种姓之间也不允许通婚。（Intermarriage 通婚，跨群体婚姻）"}
+  - {text: "And the gender norms were particularly difficult for women of higher caste.", start: 1423.65, end: 1427.81, zh: "而且性别规范对高种姓女性来说尤为严苛。（gender norms 性别规范）"}
+  - {text: "But then for most people, the caste structure was very strong and prohibitive.", start: 1427.89, end: 1432.51, zh: "但对大多数人来说，种姓结构非常强大且具有禁止性。（prohibitive 禁止性的，限制性的）"}
+  - {text: "In the plantation colonies, not that caste completely disappeared, but it didn't exist in the same way.", start: 1433.23, end: 1439.37, zh: "在种植园殖民地，种姓制度并没有完全消失，但它的存在形式已经不同了。（plantation colonies 种植园殖民地）"}
+  - {text: "All the workers were working similar jobs.", start: 1439.75, end: 1441.77, zh: "所有工人都从事着相似的工作。"}
+  - {text: "The hierarchy based on occupation couldn't exist anymore.", start: 1442.21, end: 1445.45, zh: "基于职业的等级制度已经无法存在了。（hierarchy 等级制度；occupation 职业）"}
+  - {text: "It's not that there was no hierarchy, but the hierarchy was more on racial lines rather than caste lines.", start: 1445.89, end: 1450.53, zh: "并不是说没有等级制度，而是这种等级更多是沿着种族界限划分的，而不是种姓界限。（racial lines 种族界限；caste lines 种姓界限）"}
+  - {text: "Also, you know, coming together in the ships, living together in the sleeping quarters, eating together meant that these prohibitions on interdining or these physical segregation could not be continued.", start: 1450.91, end: 1462.41, zh: "而且，你知道，在船上聚在一起，在宿舍里一起生活，一起吃饭，意味着那些关于禁止共餐或身体隔离的禁令无法继续维持。（interdining 共餐；segregation 隔离）"}
+  - {text: "Sex ratio was skewed, which meant that intermarriage cohabitation was quite common.", start: 1462.83, end: 1467.87, zh: "性别比例失衡，这意味着通婚和同居非常普遍。（sex ratio 性别比例；skewed 失衡；cohabitation 同居）"}
+  - {text: "In fact, in some instances, people of lower caste were considered better options by plantation management because they were less trouble.", start: 1468.43, end: 1476.19, zh: "事实上，在某些情况下，种植园管理层认为低种姓的人其实是更好的选择，因为他们惹的麻烦更少。（lower caste 低种姓；plantation management 种植园管理层）"}
+  - {text: "They're able to stand up for their for their rights and less, less, less confident.", start: 1476.55, end: 1481.55, zh: "他们能够站出来维护自己的权利，而（另一群人）则不那么自信。（stand up for 站出来支持；rights 权利）"}
+  - {text: "Clem, you wanted to go in there.", start: 1481.85, end: 1482.91, zh: "克莱姆，你想插话。（Clem 克莱姆，人名）"}
+  - {text: "I just want to add to what Nia is saying there, because I think that the whole process as Nia was saying that it's not just people from the lowest caste.", start: 1482.95, end: 1493.15, zh: "我只想补充一下尼亚刚才说的，因为我认为正如尼亚所说，这不仅仅是来自最低种姓的人。（Nia 尼亚，人名；add to 补充）"}
+  - {text: "You had people from a broad cross -section of caste, including some minority of Brahmins and Shatryas who were upper caste people.", start: 1493.59, end: 1504.01, zh: "你拥有来自广泛种姓阶层的人群，包括少数作为高种姓人群的婆罗门和刹帝利。（cross-section 横截面，此处指广泛群体；Brahmins 婆罗门；Shatryas 刹帝利）"}
+  - {text: "But you also had a significant amount of people from agricultural castes.", start: 1504.19, end: 1510.05, zh: "但你也拥有大量来自农业种姓的人。（agricultural castes 农业种姓）"}
+  - {text: "If you go to Eastern UP today or Western Bihar, what is known as the Bhojpur area, Bhojpur is speaking area.", start: 1510.05, end: 1517.01, zh: "如果你今天去东部的北方邦或西部的比哈尔邦，也就是所谓的博杰普尔地区，那里的人说博杰普尔语。（Eastern UP 东部北方邦；Western Bihar 西部比哈尔邦；Bhojpur 博杰普尔，一种印度语言）"}
+  - {text: "That Bhojpur culture, the agricultural castes like the Kurmese and the Ahirs and the Khoris and so on.", start: 1517.47, end: 1527.13, zh: "这种博杰普尔文化中的农业种姓，比如库尔米、阿希尔和科里等。（agricultural castes 农业种姓；Kurmese 库尔米，印度种姓；Ahirs 阿希尔，印度种姓）"}
+  - {text: "These people were among the best agriculturalists in 19th century, late 19th century Eastern UP and Western Bihar.", start: 1527.83, end: 1537.25, zh: "在19世纪，特别是19世纪晚期，这些人是东部北方邦和西部比哈尔邦最优秀的农民。（agriculturalists 农民；19th century 19世纪）"}
+  - {text: "And many contemporary writers spoke about the great agricultural skills of the men, even more so of the women.", start: 1537.47, end: 1545.13, zh: "许多当时的作家都提到了这些男性卓越的农业技能，而女性的技能甚至更为出色。（contemporary writers 当时的作家；agricultural skills 农业技能）"}
+  - {text: "But what was interesting about the here is that these people, although they were the best agriculturalists, they own very little of the land.", start: 1545.61, end: 1554.89, zh: "但这里有趣的一点是，尽管这些人是最优秀的农民，他们却拥有很少的土地。（agriculturalists 农民；land 土地）"}
+  - {text: "So when they went to a place like British Guyana or Trinidad or Suriname and found that although they were from the lowest caste and they now had the means to acquire some land, even small parcels of land,", start: 1555.35, end: 1569.63, zh: "所以当他们去像英属圭亚那、特立尼达或苏里南这样的地方，发现虽然自己来自最低种姓，但现在却有能力获得一些土地，哪怕只是小块土地，（British Guyana 英属圭亚那；Trinidad 特立尼达；Suriname 苏里南）"}
+  - {text: "that was magical for them because in spite of their agricultural skills in many of these places, there was absolutely no way they could acquire land.", start: 1570.11, end: 1579.85, zh: "这对他们来说简直是魔法般的奇迹，因为尽管他们在这些地方拥有高超的农业技能，却完全无法获得土地。（magical 神奇的，魔法般的；acquire 获得）"}
+  - {text: "Acquiring land was magic.", start: 1580.29, end: 1581.75, zh: "获得土地就像变魔术一样。（Acquiring land 获得土地）"}
+  - {text: "And that explains why, or to a great extent, that explains why it's a place like British Guyana.", start: 1582.37, end: 1588.79, zh: "这在很大程度上解释了为什么像英属圭亚那这样的地方……（British Guyana 英属圭亚那）"}
+  - {text: "Only about 28, 29 percent of the people returned.", start: 1589.11, end: 1593.51, zh: "只有大约28%到29%的人返回了。（returned 返回）"}
+  - {text: "I think in Trinidad it was less.", start: 1594.03, end: 1595.51, zh: "我觉得在特立尼达的情况要少一些。（Trinidad 特立尼达，加勒比海地区国家）"}
+  - {text: "They stayed on after their conscience.", start: 1595.89, end: 1597.87, zh: "他们在服完刑期后留了下来。（conscience 此处疑为转录错误，结合语境应指 contract 契约或 sentence 刑期）"}
+  - {text: "Because they were recreating a world.", start: 1598.31, end: 1600.67, zh: "因为他们正在重建一个世界。（recreating 重建，重新创造）"}
+  - {text: "But not just recreating a world.", start: 1601.11, end: 1602.79, zh: "但这不仅仅是重建一个世界。"}
+  - {text: "They actually had certain advantages which didn't exist in India.", start: 1602.91, end: 1606.83, zh: "他们实际上拥有某些在印度并不存在的优势。（advantages 优势，有利条件）"}
+  - {text: "Of course. And they were able to exploit a variety of niches in the village environments on the periphery of these plantations.", start: 1606.95, end: 1616.87, zh: "当然，他们能够利用这些种植园周边村庄环境中的各种生态位。（exploit 利用，开发；niches 生态位，此处指特定的生存空间或职业领域）"}
+  - {text: "So you had a kind of symbiotic relationship between the villages where people were pursuing their particular skills and developing village communities.", start: 1617.39, end: 1627.93, zh: "因此，在人们发挥各自技能并建立村庄社区的地方，形成了一种共生关系。（symbiotic 共生的，相互依存的）"}
+  - {text: "But at the same time, during the harvest season, because they had recreated the Indian families, a kind of corporate economic unit, some members would be sent out to the plantations to earn cash during the harvest season and the plantations.", start: 1628.31, end: 1643.35, zh: "但与此同时，在收获季节，由于他们重建了印度式的家庭，这种家庭成为一种经济共同体，部分成员会被派往种植园，在收获季和种植园里赚取现金。（corporate 公司的，集体的；harvest season 收获季节）"}
+  - {text: "Neha. We've not spoken very much about the experience of women.", start: 1644.03, end: 1647.35, zh: "妮哈。我们很少谈论女性的经历。（Neha 妮哈，人名）"}
+  - {text: "Yes. And that is actually quite interesting because on the one hand, yes, there was a lot of sexual harassment, coercion, and so on, right from the time of recruitment.", start: 1647.95, end: 1658.21, zh: "是的。这其实很有趣，因为一方面，确实存在大量的性骚扰、胁迫等行为，从招募阶段就开始了。（coercion 胁迫，强迫）"}
+  - {text: "However, there is also evidence that many of the women who went were women who were, you know, widowed, who were destitutes.", start: 1658.73, end: 1666.41, zh: "不过也有证据表明，许多前往的女性是寡妇或赤贫者。（destitute 赤贫者，极度贫困）"}
+  - {text: "Many of the recruitments were from pilgrimage areas where women and men were recruited from often under false sprittance.", start: 1666.49, end: 1675.11, zh: "许多招募工作是在朝圣区进行的，男女往往是在被欺骗的情况下被招募的。（pilgrimage 朝圣；recruitment 招募）"}
+  - {text: "But then many of these women were in the pilgrimage sites because they were widowed and they were sent away by their families at the death of their husbands.", start: 1675.45, end: 1683.57, zh: "但许多女性之所以出现在朝圣地，是因为她们成了寡妇，并在丈夫去世后遭到家族驱逐。（widowed 成为寡妇；pilgrimage sites 朝圣地）"}
+  - {text: "And they lived under extreme conditions of austerity with very little financial support.", start: 1684.13, end: 1690.35, zh: "她们生活在极度简朴的条件下，几乎没有经济支持。（austerity 简朴，紧缩）"}
+  - {text: "So for some of them, this signing of contract was also an act of agency given the very limited and a real real opportunity.", start: 1690.81, end: 1698.55, zh: "因此，对于其中一些人来说，签署合同也是一种行使自主权的行为，因为机会非常有限且真实存在。（agency 自主权，能动性）"}
+  - {text: "Clem, you are coming on that.", start: 1699.23, end: 1701.11, zh: "克莱姆，你接着说。（Clem 克莱姆，人名）"}
+  - {text: "Yes, just to add to what Neha is saying here, my maternal great -grandmother came from a low caste Pasi, which would be a Dalit caste.", start: 1701.57, end: 1713.13, zh: "是的，补充一下尼哈刚才说的，我的外曾祖母来自低种姓帕西族，也就是达利特种姓。（caste 种姓；Dalit 达利特，印度不可接触者）"}
+  - {text: "And she came from the district of Gonda, which is on the border with Nepal.", start: 1713.61, end: 1718.27, zh: "她来自贡达区，那里与尼泊尔接壤。（Gonda 贡达，印度北方邦地区）"}
+  - {text: "And she was 20 years old, when she was taken to British Guyana in 1909, unaccompanied by anybody.", start: 1718.53, end: 1728.17, zh: "1909年，她20岁时被带到英属圭亚那，身边没有任何人陪同。（unaccompanied 无人陪同）"}
+  - {text: "And from Brijlal's study of Fiji, the late great Professor Brijlal, an Indo -Fijian historian, we can extrapolate from that to say that the overwhelming majority", start: 1728.77, end: 1741.83, zh: "根据已故著名学者布里杰拉尔对斐济的研究，我们可以推断出绝大多数……（extrapolate 推断，外推；Brijlal 布里杰拉尔，人名）"}
+  - {text: "of women who were taking under indentureship, certainly to Fiji and possibly to the Caribbean, were not accompanied by anybody at all, which was a clear indication of what Neha has been talking about,", start: 1742.69, end: 1757.85, zh: "那些在契约制下前往斐济，可能还有加勒比地区的女性，完全没有任何人陪同，这清楚地印证了尼哈刚才提到的观点。（indentureship 契约劳工制；Fiji 斐济；Caribbean 加勒比地区）"}
+  - {text: "that for some of these women, their husbands had probably died.", start: 1758.37, end: 1763.25, zh: "也就是说，对于其中一些女性来说，她们的丈夫很可能已经去世了。"}
+  - {text: "There were many. They were married at 14.", start: 1763.77, end: 1766.55, zh: "这种情况很普遍，她们十四岁就结婚了。"}
+  - {text: "Ninety percent of the girls in this area in Eastern, European, Western Bihar were married at the age of 14.", start: 1767.35, end: 1775.45, zh: "在比哈尔邦东部、欧洲西部和西部地区的这个区域，百分之九十的女孩在十四岁时就结婚了。（Bihar 比哈尔邦，印度邦名）"}
+  - {text: "So many of them would have been widows.", start: 1775.85, end: 1778.05, zh: "所以她们中的很多人都会成为寡妇。"}
+  - {text: "Some of them would have been deserted.", start: 1778.73, end: 1780.55, zh: "其中一些人可能已经被丈夫抛弃了。"}
+  - {text: "But what we have to understand also is that there was a culture of migration which had been opened up in the context of the expansion of the British colonialism.", start: 1781.41, end: 1790.85, zh: "但我们也要理解，在英帝国殖民扩张的背景下，已经形成了一种移民文化。"}
+  - {text: "Put it back, let's pull out a bit now towards the end of the 19th century.", start: 1791.41, end: 1795.51, zh: "让我们把时间拉回到十九世纪末。"}
+  - {text: "We started seeing more and more voices arguing against the indentured system.", start: 1795.73, end: 1800.91, zh: "我们开始看到越来越多的声音反对契约劳工制度。"}
+  - {text: "And perhaps some of the most important voices came out of South Africa.", start: 1801.19, end: 1805.49, zh: "也许其中一些最重要的声音来自南非。"}
+  - {text: "Can you tell us about what happened in South Africa and why that was so important?", start: 1805.49, end: 1810.69, zh: "你能跟我们讲讲在南非发生了什么，以及为什么那件事如此重要吗？"}
+  - {text: "South Africa was one of the parts of the British Empire that also saw the use of Indian indentured labour.", start: 1811.33, end: 1817.61, zh: "南非是英帝国的一部分，那里也使用了印度契约劳工。（indentured labour 契约劳工）"}
+  - {text: "I believe from the middle of the 19th century, Indian labourers were also moving as indentured migrants to South Africa, working not just on the field, but in a variety of jobs.", start: 1817.99, end: 1828.19, zh: "我相信从19世纪中叶开始，印度劳工也作为契约移民前往南非，他们不仅在地里干活，还从事各种各样的工作。（indentured migrants 契约移民）"}
+  - {text: "One of the reasons why South Africa becomes so important to the voices against indenture is because of Gandhi, who, you know, before he started becoming really involved in the Indian independence movement with a lawyer educated in London, for instance,", start: 1828.61, end: 1844.21, zh: "南非之所以对反对契约制的那些声音变得如此重要，是因为甘地。你知道，在他真正投身于印度独立运动之前，他是一位在伦敦受过教育的律师，例如……（Gandhi 甘地；Indian independence movement 印度独立运动）"}
+  - {text: "and then based in South Africa, where he realised that there were multiple groups of Indian origin or Indians living in South Africa at the time.", start: 1844.49, end: 1853.47, zh: "然后他定居在南非，在那里他意识到当时有来自印度或居住在南非的多个印度群体。（based in 定居在；Indian origin 印度裔）"}
+  - {text: "People like him who were professionals, people who were labourers and people who had specifically gone under the indentured system to work in the particular part of South Africa known as Natal.", start: 1853.75, end: 1863.19, zh: "像他这样的专业人士，还有那些劳工，以及那些专门通过契约制度去南非被称为纳塔尔的那个特定地区工作的人。（Natal 纳塔尔，南非省份）"}
+  - {text: "And Gandhi became very involved in the rights of Indians, and in that case, the rights of Indians, of course, included the rights of indentured migrants and the descendants of indentured migrants.", start: 1863.75, end: 1873.59, zh: "甘地非常关注印度人的权利，而在这种情况下，印度人的权利当然包括契约移民及其后代的权利。（descendants 后代）"}
+  - {text: "The South African voice then really comes in as part of the discussion of indentured migrants as part of a wider Indian diaspora and thinking particularly about how prejudice against people of Indian origin in South Africa, as in many other colonies across the British Empire,", start: 1874.01, end: 1890.13, zh: "因此，南非的声音真正作为更广泛的印度侨民讨论的一部分出现，特别是思考在南非以及英帝国许多其他殖民地中，对印度裔人士的偏见……（diaspora 侨民；prejudice 偏见）"}
+  - {text: "prejudice against Indian indentured migrants became part of the prejudice against Indians as a whole.", start: 1891.09, end: 1895.93, zh: "对印度契约移民的偏见成为了对整个印度人群体偏见的一部分。（indentured migrants 契约移民）"}
+  - {text: "So when Gandhi is back in India in the beginning of the 20th century, very end of the 19th century, this entire discourse and this entire experience he had in South Africa became part of the wider discourse that was coming up out of India at this time,", start: 1896.75, end: 1910.87, zh: "所以，当甘地在20世纪初，也就是19世纪末回到印度时，他在南非的整个经历和这段对话成为了当时从印度兴起的更广泛讨论的一部分。（discourse 话语，讨论）"}
+  - {text: "which was that the British imperial system that existed in India needed a complete overhaul, moving later to the asking for complete independence.", start: 1911.15, end: 1920.81, zh: "当时的情况是，英国在印度的殖民体系需要彻底改革，后来演变为要求完全独立。（imperial system 帝国体系；overhaul 彻底改革）"}
+  - {text: "So, Clem, if we look at what happens as the movement to abolish the indentured system develops, what happens to the communities afterwards?", start: 1921.83, end: 1934.99, zh: "克莱姆，如果我们看看废除契约劳工制度的运动发展过程中发生了什么，这些社区后来怎么样了？（indentured system 契约劳工制度；abolish 废除）"}
+  - {text: "They are now really part of the local countries that they've moved to.", start: 1935.45, end: 1940.91, zh: "他们现在已经成为所移居国家的当地社会真正的一部分了。"}
+  - {text: "How do they respond to the end of the system?", start: 1941.49, end: 1944.39, zh: "他们是如何应对这一制度终结的？"}
+  - {text: "The British Guyana case is especially interesting because when indentureship was abolished, the last indentures were cancelled in April of 1920.", start: 1944.39, end: 1957.15, zh: "英属圭亚那的情况特别有趣，因为当契约劳工制被废除时，最后一批契约是在1920年4月取消的。（indentureship 契约劳工制；abolished 废除）"}
+  - {text: "Some middle -class Indians in British Guyana launched something called the colonization scheme.", start: 1957.85, end: 1964.09, zh: "英属圭亚那的一些中产阶级印度人发起了一项被称为“殖民计划”的活动。（colonization scheme 殖民计划；launched 发起）"}
+  - {text: "It was headed by two very distinguished Indians, a lawyer and a legislator, a man named J .A.", start: 1964.57, end: 1971.05, zh: "该计划由两位非常杰出的印度人领导，一位是律师，一位是立法者，名叫J.A.……（legislator 立法者；headed by 由……领导）"}
+  - {text: "Lockhoo and a man named Dr.", start: 1971.13, end: 1974.39, zh: "洛克胡和一位名叫威廉·休利-沃顿博士的男士……"}
+  - {text: "William Hewley -Warton, who was actually Indian, who was the first Indian in the Caribbean to graduate in medicine, studied at the University of Edinburgh, and they thought that the Indian population was stuck at something like 42 or 43 percent,", start: 1974.61, end: 1990.75, zh: "威廉·休利-沃顿博士实际上是印度人，他是加勒比地区第一位获得医学学位的印度人，曾在爱丁堡大学学习，他们认为印度人口比例停滞在42%或43%左右……（graduate in medicine 获得医学学位；stuck at 停滞在）"}
+  - {text: "precisely at the time when no more indentured laborers would be taken into the colony.", start: 1990.99, end: 1996.51, zh: "正是在不再接收契约劳工进入该殖民地的关键时刻。（indentured laborers 契约劳工；colony 殖民地）"}
+  - {text: "And they felt that that left them very vulnerable because unlike Mauritius, and they were citing the case of Mauritius, where the Indian population was already well over 60, maybe 70 percent,", start: 1996.77, end: 2008.65, zh: "他们觉得这让自己非常脆弱，因为与毛里求斯不同——他们引用了毛里求斯的例子，那里印度裔人口占比已超过60%，甚至可能达到70%——（vulnerable 脆弱的；Mauritius 毛里求斯）"}
+  - {text: "the Mauritian Indians had the instruments to begin to fight for greater political rights.", start: 2009.33, end: 2016.99, zh: "毛里求斯的印度裔群体拥有争取更大政治权利的工具。（instruments 手段，工具）"}
+  - {text: "But that in British Guyana, they didn't have that numerical strength to be able to fight in the same way.", start: 2017.35, end: 2025.11, zh: "但在英属圭亚那，他们没有那种人口数量上的优势，无法以同样的方式抗争。（numerical strength 人口数量优势）"}
+  - {text: "You mean to fight for them with the British authorities?", start: 2025.39, end: 2029.71, zh: "你是说与英国当局抗争以争取权益？"}
+  - {text: "Yes, with the British authorities.", start: 2029.71, end: 2031.23, zh: "是的，与英国当局抗争。"}
+  - {text: "Or the other peoples of British Guyana?", start: 2031.61, end: 2034.03, zh: "还是与英属圭亚那的其他族群抗争？"}
+  - {text: "Well, with the British authorities, but that any kind of political battle of that nature inevitably acquired an ethnic dimension because the Africans were not in", start: 2034.07, end: 2045.89, zh: "嗯，主要是与英国当局抗争，但任何此类政治斗争不可避免地带有种族色彩，因为非洲裔群体并不……（ethnic dimension 种族维度）"}
+  - {text: "favor of the continuation of Indian indentured laborers.", start: 2045.89, end: 2049.61, zh: "……支持继续引进印度契约劳工。（indentured laborers 契约劳工）"}
+  - {text: "In fact, they were trying to get more Africans to come in from West Indian islands and from West Africa because they thought that their position in the future,", start: 2049.67, end: 2060.27, zh: "事实上，他们正试图从西印度群岛和西非引入更多非洲裔人口，因为他们认为，如果印度裔人口进一步增加，他们未来的……（West Indian islands 西印度群岛）"}
+  - {text: "their political and economic position in the future, would be gravely undermined if the Indian population was further increased.", start: 2060.57, end: 2069.59, zh: "……政治和经济地位将受到严重削弱。（undermined 削弱，破坏）"}
+  - {text: "So that created a big battle there already between the two of them.", start: 2069.87, end: 2074.35, zh: "所以这在他们两人之间已经引发了一场激烈的冲突。（battle 冲突，争斗）"}
+  - {text: "Sir Neha, you have these populations in places as far away as Fiji, British Guyana, Mauritius, South Africa, these Indian populations who remained there after the end of the system, how do they view India itself?", start: 2074.49, end: 2090.35, zh: "尼哈女士，在斐济、英属圭亚那、毛里求斯、南非等遥远地方，都有印度裔人口在制度结束后留了下来，他们如何看待印度本身？（Fiji 斐济；British Guyana 英属圭亚那；Mauritius 毛里求斯）"}
+  - {text: "I mean, do they feel detached from it or what is their relationship with India?", start: 2090.87, end: 2095.37, zh: "我是说，他们是否感到与印度疏离，或者他们与印度的关系是怎样的？（detached 疏离的，脱离的）"}
+  - {text: "The Indian diaspora in the different colonies have a very distinct identity in themselves, which is, of course, influenced by India, but then it is distinct.", start: 2095.65, end: 2106.79, zh: "不同殖民地中的印度侨民拥有非常独特的身份认同，这当然受到印度的影响，但它是独特的。（diaspora 侨民，离散族群；identity 身份认同）"}
+  - {text: "Say, for example, in Trinidad and Suriname and British Guyana, there is a very strong Indo -Caribbean identity.", start: 2107.31, end: 2114.75, zh: "比如说，在特立尼达和多巴哥、苏里南和英属圭亚那，存在着非常强烈的印度裔加勒比身份认同。（Trinidad 特立尼达；Suriname 苏里南；Indo-Caribbean 印度裔加勒比）"}
+  - {text: "And during the time of decolonization, these people of Indian background played extremely important roles in every sphere of life, in politics, in literature, and I'm sure Clem will tell you in sports.", start: 2115.21, end: 2129.73, zh: "在去殖民化时期，这些印度背景的人在生活的各个领域，包括政治、文学，我相信克莱姆会告诉你，还有体育方面，都发挥了极其重要的作用。（decolonization 去殖民化；sphere 领域，范围）"}
+  - {text: "It's a... Of course.", start: 2130.91, end: 2132.19, zh: "这是……当然。"}
+  - {text: "Of course. It's a distinct identity did exist, but then it was influenced by their background in India.", start: 2132.83, end: 2140.81, zh: "当然。确实存在一种独特的身份认同，但它受到了他们在印度背景的影响。（distinct 独特的，明显的）"}
+  - {text: "There are traces of Indianness in different aspects of their life.", start: 2141.27, end: 2145.01, zh: "他们生活的不同方面都有印度性的痕迹。（traces 痕迹；Indianness 印度性，印度特征）"}
+  - {text: "For example, maybe the caste system didn't continue to exist in the same way, but then festivals got transferred.", start: 2145.57, end: 2152.25, zh: "例如，种姓制度可能没有以同样的方式延续下来，但节日被传承了下来。（caste system 种姓制度；transferred 转移，传承）"}
+  - {text: "So people of Indian origin in the Caribbean celebrate festivals like Pagwa, which is the Spring Festival of Color, which is also known as Holy in India,", start: 2152.59, end: 2162.47, zh: "所以加勒比地区的印度裔人群会庆祝像 Pagwa 这样的节日，这是色彩节，在印度也被称为圣节……（Pagwa 色彩节，加勒比地区印度裔庆祝的节日；Holy 圣节，此处指印度节日名称）"}
+  - {text: "as well as Diwali, which is the Autumn Festival of Lights.", start: 2162.83, end: 2166.67, zh: "还有排灯节，那是秋天的灯光节。（Diwali 排灯节，印度主要节日之一）"}
+  - {text: "Food has got a very rich influence from India, but then it is unique and their own.", start: 2166.67, end: 2173.43, zh: "食物受到了印度非常丰富的影响，但同时也形成了独特且属于他们自己的风格。（unique 独特的；distinct 有区别的）"}
+  - {text: "So, yes, the culture did come in, but it's a very distinct identity.", start: 2173.81, end: 2178.77, zh: "所以，是的，文化确实传过来了，但这是一种非常鲜明的身份认同。（distinct identity 鲜明的身份认同）"}
+  - {text: "And Portoba, how would you sum up the legacy of the Indian indentured system?", start: 2179.47, end: 2184.75, zh: "那么 Portoba，你会如何总结印度契约劳工制度的遗产？（legacy 遗产，遗留影响；indentured system 契约劳工制度）"}
+  - {text: "It kind of touches upon everything, economy, politics, culture.", start: 2185.13, end: 2189.17, zh: "它几乎触及了方方面面，包括经济、政治和文化。（touches upon 涉及，触及）"}
+  - {text: "This is about eight decades of Indians moving to different parts of the world, as you say, feeding the South Pacific all the way to Caribbean.", start: 2189.57, end: 2197.87, zh: "正如你所说，这关乎长达八个世纪的印度人移居世界不同地区，从南太平洋一直延伸到加勒比海。（decades 十年；此处指数十年；feeding 滋养，供给）"}
+  - {text: "One of the biggest legacies, of course, is the creation of these new identities that Neha just told us about and these new aspects of the Indian diaspora that many of whom remain quite Indian in their culture,", start: 2198.63, end: 2211.41, zh: "当然，最大的遗产之一，就是内哈刚才提到的这些新身份的形成，以及印度侨民中许多人在文化上仍保持印度特色……（diaspora 侨民，离散族群）"}
+  - {text: "but as you say, also have created their own distinct identities into Mauritians, as into Caribbean.", start: 2211.55, end: 2217.63, zh: "但正如你所说，他们也创造了属于自己的独特身份，比如毛里求斯人，以及加勒比人。（Mauritians 毛里求斯人；Caribbean 加勒比人）"}
+  - {text: "Neha has talked about the population and cultural legacies.", start: 2218.19, end: 2220.89, zh: "内哈谈到了人口和文化方面的遗产。（legacies 遗产，遗留影响）"}
+  - {text: "To me, one of the bigger legacies, of course, as a historian thinking about what's happening in India at the time, is considering how the abolition of indenture", start: 2221.55, end: 2230.73, zh: "对我而言，作为一个思考当时印度局势的历史学家，其中一项更大的遗产在于，我们要审视废除契约劳工制……（legacies 遗产，影响；abolition 废除；indenture 契约劳工制）"}
+  - {text: "and the discussion and discourse that came out of that snowballed into a very important part of the Indian independence movement and the mass mobilization politics", start: 2230.73, end: 2240.15, zh: "以及由此引发的讨论和话语，像滚雪球一样，演变成了印度独立运动及大规模动员政治中至关重要的一部分。（discourse 话语，论述；snowballed 滚雪球般发展；mobilization 动员）"}
+  - {text: "that we know about the Indian independence movement today.", start: 2240.15, end: 2242.87, zh: "也就是我们今天所熟知的印度独立运动中的那些政治活动。（independence movement 独立运动；mass mobilization 大规模动员）"}
+  - {text: "Many of it started with people like Gandhi who were based in India, but also ex -indentured migrants, a very important person being Totharam Sanathya, who was an Indo -Fijian man who came back to India this time, as many did as part of the repatriation process,", start: 2243.37, end: 2259.37, zh: "其中许多始于像甘地这样扎根于印度的人，但也包括前契约劳工移民，其中一位非常重要的人物是托塔拉姆·萨纳提亚，他是一名印裔斐济人，当时像许多人一样，作为遣返过程的一部分回到了印度。（ex-indentured migrants 前契约劳工移民；Totharam Sanathya 托塔拉姆·萨纳提亚；repatriation 遣返）"}
+  - {text: "who would go on and giving lectures around different parts of the country in India to try to show his experience of the indenture trade and use", start: 2259.99, end: 2269.29, zh: "他随后在印度各地发表演讲，试图展示他在契约贸易中的经历，并利用……（indenture trade 契约贸易；experience 经历）"}
+  - {text: "that as a way to rile people up to speak against the indenture system.", start: 2269.29, end: 2272.97, zh: "以此作为手段，激起人们的愤怒，让他们起来反对契约劳工制度。（rile people up 激起人们的愤怒；indenture system 契约劳工制度）"}
+  - {text: "And, Clem, how about you?", start: 2273.29, end: 2274.85, zh: "克莱姆，你觉得呢？（Clem 克莱姆，人名）"}
+  - {text: "What do you think the primary legacies of the system are?", start: 2274.97, end: 2278.91, zh: "你认为这个制度最主要的遗产是什么？（primary legacies 主要遗产）"}
+  - {text: "Well, I think, Misha, I've called it a social revolution.", start: 2278.91, end: 2282.27, zh: "嗯，我想，米沙，我将其称为一场社会革命。（Misha 米沙，人名；social revolution 社会革命）"}
+  - {text: "And in this respect, I think I was greatly influenced by Professor Brijlal, who had a great impact on me.", start: 2282.89, end: 2290.37, zh: "在这方面，我认为我深受布里贾尔教授的影响，他对我产生了巨大的影响。（Brijlal 布里贾尔，人名；influence 影响）"}
+  - {text: "One of the most important things here was that the cast, notions of caste were largely incompatible with the capitalist rationale, the capitalist ethos of the sugar plantations.", start: 2290.73, end: 2305.79, zh: "这里最关键的一点是，种姓观念与资本主义的逻辑和甘蔗种植园的资本主义精神在很大程度上是不相容的。（caste 种姓；capitalist rationale 资本主义逻辑；ethos 精神，风气）"}
+  - {text: "But the whole process, from the depots in Calcutta, the proverb writes about in a very fine book, that from there, onto the ships, onto the plantations, into the loges,", start: 2306.11, end: 2318.23, zh: "但整个过程，从加尔各答的收容所开始，正如某位学者在一本精彩的书中所写的那样，从那里登上船只，再到种植园，进入工棚……（depots 收容所，集散地；Calcutta 加尔各答；loges 工棚，简陋住所）"}
+  - {text: "the barracks, there was no recognition of one's caste background.", start: 2318.95, end: 2323.95, zh: "在那些工棚里，没有人会承认或在意你的种姓背景。（barracks 工棚，营房）"}
+  - {text: "And therefore, people of necessity started to integrate and to create a new identity.", start: 2324.29, end: 2330.65, zh: "因此，人们出于生存的需要开始融合，并创造了一种新的身份。（necessity 必要性，出于必要；integrate 融合，整合）"}
+  - {text: "In fact, those who travel on the same ship, whether they were Brahmins or Shatriyas or Kourmys or Chamars, or people who were seen as being from a very low caste,", start: 2331.33, end: 2343.21, zh: "事实上，那些同船旅行的人，无论是婆罗门、刹帝利、苦力还是首陀罗，或者是被视为低种姓的人……（Brahmins 婆罗门，最高种姓；Shatriyas 刹帝利，武士种姓；Chamars 首陀罗，低种姓）"}
+  - {text: "they had to integrate, they had to work within this framework.", start: 2343.75, end: 2346.75, zh: "他们必须融合，必须在这个框架内共同生活和工作。（framework 框架，体系）"}
+  - {text: "And that is why, I'd say, the social revolution began there and it continued onto the plantations.", start: 2346.99, end: 2352.73, zh: "正因如此，我认为社会变革始于那里，并延续到了种植园。（social revolution 社会变革；plantations 种植园）"}
+  - {text: "In fact, men and women who travel on the same ship saw themselves as Jihadis or Jihadins, ship brothers and ship sisters.", start: 2352.99, end: 2363.75, zh: "事实上，同船旅行的男女将自己视为“吉哈迪”或“吉哈丁”，即船上的兄弟和姐妹。（Jihadis 同船兄弟，源自阿拉伯语；Jihadins 同船姐妹）"}
+  - {text: "And that relationship became so strong that it was almost forbidden for such people's family to intermarry.", start: 2364.29, end: 2371.97, zh: "这种关系变得如此牢固，以至于几乎禁止这些人的家庭之间通婚。（intermarry 通婚，异族通婚）"}
+  - {text: "And I think that that process was magnified by the fact that people were able to retain Islam as well as Hinduism in the Caribbean.", start: 2372.19, end: 2381.39, zh: "我认为，人们能够在加勒比地区同时保留伊斯兰教和印度教，这一事实放大了这一过程。（magnified 放大，增强；Caribbean 加勒比地区）"}
+  - {text: "Because Muslim people, Brahmins, lower caste people, all were literally in the same boat and on the same plantations.", start: 2381.83, end: 2390.03, zh: "因为穆斯林、婆罗门、低种姓的人，大家实际上都在同一条船上，在同样的种植园里。（Brahmins 婆罗门，印度教最高种姓；lower caste 低种姓）"}
+  - {text: "Neha. Clem has mentioned a lot about what the bull factors, what kept workers back in British Ghana or other colonies.", start: 2390.79, end: 2399.53, zh: "内哈。克莱姆刚才提到了很多关于那些让工人留在英属加纳或其他殖民地的因素。（bull factors 应为 pull factors，拉力因素，指吸引或留住人的因素）"}
+  - {text: "One thing that stopped many people from going back was the notion of Kalapani.", start: 2400.09, end: 2405.97, zh: "阻止许多人回去的一个原因是“卡拉帕尼”这一观念。（Kalapani 卡拉帕尼，指跨越海洋后种姓被剥夺的状态）"}
+  - {text: "So Hinduism imposes caste expulsion on people who have crossed the sea in a process called Kalapani, which translates to black water.", start: 2406.31, end: 2414.67, zh: "所以，印度教会对那些通过被称为“卡拉帕尼”的过程跨越海洋的人实施种姓驱逐，这个词翻译过来就是“黑水”。（Kalapani 卡拉帕尼；caste expulsion 种姓驱逐）"}
+  - {text: "And then that process can only be reversed through an expensive ceremony called Shuddhi.", start: 2415.21, end: 2421.55, zh: "然后，这个过程只能通过一种昂贵的仪式来逆转，叫做“舒提”。（Shuddhi 舒提，净化仪式，用于恢复种姓地位）"}
+  - {text: "And people of lower caste did not often have the means or the motive to go back.", start: 2422.17, end: 2427.09, zh: "而且低种姓的人通常没有财力或动机回去。（lower caste 低种姓）"}
+  - {text: "I was going to say, why would they?", start: 2427.15, end: 2428.21, zh: "我本来想说，他们为什么要回去呢？"}
+  - {text: "Yes, just to confirm the fact that they were a Dalit.", start: 2428.71, end: 2432.09, zh: "是的，只是为了确认他们自己是达利特。（Dalit 达利特，指印度种姓制度中的“不可接触者”）"}
+  - {text: "Exactly. And just one final point, Misha.", start: 2432.55, end: 2435.29, zh: "没错。最后一点，米沙。"}
+  - {text: "I do not know how orthodox Hinduism, for instance, which is still very strong there, Sanat and Herm, how that could have been maintained if it hadn't been for the minority of Brahmins who were taken to the Caribbean,", start: 2435.79, end: 2450.39, zh: "我不知道正统印度教，比如在那里依然非常强大的萨纳坦·赫姆，如果没有那些被带到加勒比海的少数婆罗门，它是如何得以维持的……（orthodox Hinduism 正统印度教；Sanat and Herm 应为 Sanatana Dharma，萨纳坦·达摩，印度教的另一种称呼；Brahmins 婆罗门）"}
+  - {text: "because they themselves were conscious participants in this process, because they started in order to counteract, to make a living, but also to counteract the Christian proselytizers", start: 2450.93, end: 2464.29, zh: "因为他们自身也是这一过程的自觉参与者，他们起初是为了谋生，也是为了对抗那些基督教传教士。（conscious participants 自觉参与者；counteract 对抗，抵消；proselytizers 传教士，皈依者）"}
+  - {text: "who had come in because they had a whole set of heathens there as they saw them.", start: 2464.83, end: 2469.27, zh: "这些传教士之所以到来，是因为在他们眼中，那里有一大群异教徒。（heathens 异教徒，不信教者）"}
+  - {text: "But those Brahmins soon started not only to minister in the homes of people who were known to be a very low caste, with whom they would never have associated with in India,", start: 2469.59, end: 2482.79, zh: "但那些婆罗门很快开始不仅为那些已知属于极低种姓的人服务，这些人他们在印度是绝不会与之交往的。（Brahmins 婆罗门，印度最高种姓；caste 种姓）"}
+  - {text: "not only did they go to their homes to do the poojas and to do all the religious work and to recognize these people as human beings,", start: 2483.31, end: 2491.37, zh: "他们不仅去这些人家里做祭祀和所有宗教工作，还承认这些人是人。（poojas 祭祀，祈祷仪式）"}
+  - {text: "but they also start to take cooked food from these people.", start: 2491.77, end: 2495.39, zh: "而且他们也开始吃这些人的熟食。（cooked food 熟食）"}
+  - {text: "And for me to take cooked food from you, if you're known as a Dalit or an untouchable, that itself was a social revolution of great significance.", start: 2495.57, end: 2505.57, zh: "对我来说，如果我吃了你的熟食，而你是已知的达利特或不可接触者，这本身就是一场意义重大的社会革命。（Dalit 达利特，旧称不可接触者；untouchable 不可接触者）"}
+  - {text: "And for me, that is what epitomizes this new identity that was being shaped.", start: 2506.13, end: 2510.95, zh: "对我来说，这正是正在形成的新身份的缩影。（epitomizes 是……的缩影，典型代表）"}
+  - {text: "My thanks to Purbao Hussain, Clem Sicharan and Neha Hui.", start: 2511.91, end: 2516.39, zh: "感谢普尔包·侯赛因、克莱姆·西查兰和尼哈·胡伊。（Purbao Hussain 普尔包·侯赛因；Clem Sicharan 克莱姆·西查兰；Neha Hui 尼哈·胡伊）"}
+  - {text: "Next week, the Origins of Cybernetics.", start: 2516.91, end: 2520.03, zh: "下周，我们将探讨控制论的起源。（Cybernetics 控制论，信息论）"}
+  - {text: "Thank you for listening.", start: 2520.47, end: 2521.53, zh: "感谢收听。"}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2522.21, end: 2528.81, zh: "现在《In Our Time》播客将额外提供几分钟由米沙和他的嘉宾带来的补充内容。（In Our Time 我们的时间，BBC播客节目名；bonus material 补充材料）"}
+  - {text: "Are you keeping this bit or not?", start: 2530.15, end: 2532.01, zh: "这部分内容是保留还是删掉？（bit 片段，部分）"}
+  - {text: "Yeah, we keep this, but we keep this bit.", start: 2532.01, end: 2533.85, zh: "是的，我们保留这部分，但只保留这一段。（keep 保留）"}
+  - {text: "So there are a couple of things that really struck me.", start: 2534.11, end: 2537.47, zh: "有几件事真的让我印象深刻。（struck me 让我印象深刻）"}
+  - {text: "First of all, we didn't talk about Uganda.", start: 2537.59, end: 2540.45, zh: "首先，我们没有谈论乌干达。（Uganda 乌干达）"}
+  - {text: "We didn't talk about what the long -term impact has been in politically in places like Uganda and Fiji, in particular, where there's been real tension", start: 2541.45, end: 2553.69, zh: "我们没有讨论在乌干达和斐济等地，特别是那些过去存在真正紧张局势的地方，长期的政治影响是什么。（Fiji 斐济；tension 紧张局势）"}
+  - {text: "in the past 50 years or so and how that emerged.", start: 2554.31, end: 2557.21, zh: "以及这种局势是如何形成的。（emerged 出现，形成）"}
+  - {text: "And the other thing that strikes me is that this is so reminiscent of something else that I've done some work on, which is the effectively indentured labor of Bengalis and Nepalese in particular, but also Filipinos into the Gulf states.", start: 2557.51, end: 2575.45, zh: "另一件让我印象深刻的是，这让人联想到我研究过的另一件事，即孟加拉人和尼泊尔人，特别是菲律宾人，实际上是被迫劳动到海湾国家的经历。（indentured labor 契约劳工；Gulf states 海湾国家）"}
+  - {text: "It seems to me to be a very similar system.", start: 2575.59, end: 2579.17, zh: "在我看来，这是一个非常相似的制度。（reminiscent 令人想起的）"}
+  - {text: "I mean, when you signed up for the indentured labor, did you, well, I mean, obviously you didn't have passports, but did you get any cash for it?", start: 2579.63, end: 2589.75, zh: "我是说，当你签署契约劳工协议时，你……嗯，显然你没有护照，但你得到过现金吗？（passports 护照）"}
+  - {text: "Were there tangible benefits straight away for these people?", start: 2589.89, end: 2593.13, zh: "这些人是否立刻获得了实实在在的好处？（tangible 有形的，实际的；straight away 立刻，马上）"}
+  - {text: "On paper, every indentured migrant who signed up to join the trade got six months wage advance.", start: 2593.51, end: 2599.37, zh: "在纸面上，每个签署合同加入贸易的契约移民都能拿到六个月的预支工资。（indentured migrant 契约移民；wage advance 预支工资）"}
+  - {text: "Multiple people who came back and spoke to multiple investigative committees said that they never received that wage advance or they received it from the labor recruiters", start: 2599.85, end: 2611.11, zh: "许多回来的人向多个调查委员会作证说，他们从未收到这笔预支工资，或者说是从劳工招募者那里收到的。（investigative committees 调查委员会；labor recruiters 劳工招募者）"}
+  - {text: "and then some of it was taken away as sort of fee.", start: 2611.11, end: 2614.47, zh: "然后其中一部分被当作某种费用扣掉了。（fee 费用）"}
+  - {text: "Some middle manhood. Yes, exactly.", start: 2614.67, end: 2617.23, zh: "也就是中间商赚差价。是的，完全正确。（middle manhood 中间商角色，中介）"}
+  - {text: "But there was the idea that you could just get cash in hand immediately.", start: 2617.73, end: 2620.61, zh: "但当时有一种说法，你可以立刻拿到现金。（cash in hand 现金到手）"}
+  - {text: "Right, so and did any of them take the money and run?", start: 2621.17, end: 2624.51, zh: "对，那么有没有人拿了钱就跑路？（take the money and run 卷款潜逃）"}
+  - {text: "Most indentured migrants were under quite severe surveillance before they moved onto the ships.", start: 2624.89, end: 2630.81, zh: "大多数契约移民在登上船之前都受到了相当严格的监控。（severe surveillance 严格的监控）"}
+  - {text: "They were kept in these warehouse kind of spaces on the ports known as depots.", start: 2631.09, end: 2636.65, zh: "他们被关在港口那些类似仓库的空间里，这些地方被称为集散站。（warehouse 仓库；depots 集散站，临时安置点）"}
+  - {text: "In Calcutta and in Mumbai.", start: 2636.97, end: 2639.29, zh: "就在加尔各答和孟买。（Calcutta 加尔各答；Mumbai 孟买）"}
+  - {text: "In Calcutta and in Mumbai and Madras and all of that.", start: 2639.29, end: 2642.75, zh: "在加尔各答、孟买、马德拉斯以及所有这些地方。（Calcutta 加尔各答；Mumbai 孟买；Madras 马德拉斯，即今金奈）"}
+  - {text: "So and how long would they stay in these warehouses?", start: 2643.03, end: 2645.59, zh: "那么，他们在这些仓库里要待多久？（warehouses 仓库，此处指等待登船的收容所）"}
+  - {text: "Five to six months, up to sometimes three months.", start: 2646.07, end: 2648.99, zh: "五到六个月，有时甚至长达三个月。（up to 多达，最高）"}
+  - {text: "So there's been quite a bit of debate amongst researchers and scholars and presumably also descendants of indentured laborers about the balance here.", start: 2650.85, end: 2661.91, zh: "因此，研究人员、学者，以及 presumably 契约劳工的后代，对于这里的平衡问题存在相当大的争论。（presumably 推测，大概；indentured laborers 契约劳工）"}
+  - {text: "You know, was this a replacement for slavery or was this actually something which facilitated opportunities for people?", start: 2662.19, end: 2671.33, zh: "也就是说，这究竟是奴隶制的替代品，还是实际上为人们提供了机会？（facilitated 促进，便利）"}
+  - {text: "I mean, is that a live debate amongst scholars?", start: 2671.51, end: 2674.35, zh: "我是说，这在学者之间是一个正在进行的争论吗？（live debate 激烈的、当下的争论）"}
+  - {text: "Well, I think a lot of people hold on to these ideas that this was a new system of slavery.", start: 2674.93, end: 2681.49, zh: "嗯，我认为很多人坚持认为这是一种新的奴隶制度。（hold on to 坚持，保留）"}
+  - {text: "I think the early period you discussed in your book, certainly, you know, there was slave -like conditions and slave -like practices and the plantations.", start: 2682.17, end: 2692.57, zh: "我认为你在书中讨论的早期阶段，确实存在类似奴隶制的条件和做法，特别是在种植园里。（slave-like 像奴隶一样的；plantations 种植园）"}
+  - {text: "But you can't extrapolate from that and paint the whole thing in that sense.", start: 2693.09, end: 2698.15, zh: "但你不能据此推断，并把整个过程都描绘成那样。（extrapolate 推断，外推；paint 描绘，形容）"}
+  - {text: "Yes, because it lasted a hundred years.", start: 2698.47, end: 2699.91, zh: "是的，因为它持续了一百年。（lasted 持续，延续）"}
+  - {text: "Yes, it lasted 75 to 80 years.", start: 2699.91, end: 2702.95, zh: "是的，这段历史持续了七十五到八十年。"}
+  - {text: "And people were very enlightened.", start: 2703.59, end: 2705.93, zh: "当时的人们思想非常开明。（enlightened 开明的，思想进步的）"}
+  - {text: "People understood. People were returning.", start: 2706.31, end: 2708.23, zh: "大家心里都明白，人们正在陆续回国。"}
+  - {text: "Some who had returned went back to the Caribbean or went back to Fiji.", start: 2708.61, end: 2713.47, zh: "有些回国的人后来又去了加勒比地区，或者去了斐济。（Caribbean 加勒比地区；Fiji 斐济）"}
+  - {text: "Now, we knew little about this.", start: 2714.01, end: 2716.21, zh: "我们对这段历史知之甚少。"}
+  - {text: "As a descendant of indentured laborers, I had no idea until I was probably in my 30s as to where, what part of India these people came from.", start: 2716.81, end: 2726.29, zh: "作为契约劳工的后代，直到我大概三十多岁时，我都不知道这些人具体来自印度的哪个地区。（indentured laborers 契约劳工）"}
+  - {text: "It was a closed book.", start: 2726.87, end: 2728.19, zh: "这简直是一本合上的书，毫无头绪。（closed book 难以理解的事物，谜团）"}
+  - {text: "As V .S. Naipal said, apart from the fact, as he put it memorably, is that the poverty of these people, and if you go to India today,", start: 2728.89, end: 2738.84, zh: "正如V.S.奈保尔所说，除了他令人难忘地指出的事实外，那就是这些人的贫穷，如果你今天去印度……（V.S. Naipal V.S.奈保尔，著名作家）"}
+  - {text: "these still remain to the most deprived parts of India.", start: 2738.94, end: 2741.80, zh: "这些地方至今仍是印度最贫困的地区。"}
+  - {text: "Their poverty was immemorial.", start: 2742.58, end: 2744.40, zh: "他们的贫穷是亘古不变的。（immemorial 远古的，无法追溯的）"}
+  - {text: "It went back many, many centuries.", start: 2745.14, end: 2746.98, zh: "这段历史可以追溯到许多许多个世纪以前。（centuries 世纪）"}
+  - {text: "And here you had people, many of whom, certainly in the latest stages of indenture, were making a conscious effort to find a new life.", start: 2747.64, end: 2758.26, zh: "在这里，许多人，尤其是在契约劳动的最后阶段，都在有意识地努力寻找新的生活。（indenture 契约劳动；conscious effort 有意识的努力）"}
+  - {text: "But this was never discovered in families anywhere in the Caribbean.", start: 2758.64, end: 2763.38, zh: "但在加勒比地区的任何地方，这从未在家庭中被发现过。（Caribbean 加勒比地区）"}
+  - {text: "Sir, how did people go about finding what their heritage was?", start: 2763.72, end: 2768.70, zh: "先生，人们是如何去探寻自己的传承的？（heritage 传承，遗产）"}
+  - {text: "What is the sort of record system?", start: 2768.92, end: 2770.64, zh: "是什么样的记录系统？（record system 记录系统）"}
+  - {text: "Is there an excellent system of records of who was moving and why?", start: 2771.38, end: 2775.38, zh: "是否有一套完善的记录系统，记载了谁在迁移以及原因？（excellent system 完善的系统）"}
+  - {text: "Yes, so there are multiple times in the indentured system itself where people's names were recorded.", start: 2775.94, end: 2781.94, zh: "是的，在契约制度本身中，有多个时间点会记录人们的姓名。（indentured system 契约制度）"}
+  - {text: "So the first time is when people are brought to the port cities.", start: 2782.56, end: 2785.44, zh: "第一次是当人们被带到港口城市的时候。（port cities 港口城市）"}
+  - {text: "There are government officials, colonial officials, who take down things like name and where they come from, their village name or geographical space.", start: 2786.00, end: 2794.16, zh: "有政府官员和殖民官员，他们会记录姓名、来源地、村庄名称或地理区域等信息。（colonial officials 殖民官员；geographical space 地理区域）"}
+  - {text: "For women, they often take down whether they're married or not.", start: 2794.72, end: 2797.60, zh: "对于女性，他们通常会记录她们是否已婚。（married 已婚）"}
+  - {text: "As Neha pointed out, there are multiple women who are actually travelling by herself.", start: 2797.86, end: 2802.20, zh: "正如尼哈指出的，实际上有很多女性是独自旅行的。（Neha 尼哈，嘉宾名字；travelling by herself 独自旅行）"}
+  - {text: "Many pregnant, often given birth on ships, often giving birth when they arrived.", start: 2802.44, end: 2806.62, zh: "其中许多人都怀孕了，经常是在船上分娩，或者在抵达目的地时生孩子。（pregnant 怀孕；on ships 在船上）"}
+  - {text: "And as you say, many of them unaccompanied.", start: 2807.38, end: 2809.54, zh: "就像你刚才说的，她们中的许多人都是无人陪伴的。（unaccompanied 无人陪伴的，独自的）"}
+  - {text: "So a lot of records were taken down or were supposed to be at least taken down at the port of origin.", start: 2810.04, end: 2817.22, zh: "因此，许多记录是在出发港口被登记下来的，或者至少应该是这样做的。（records 记录；port of origin 出发港口）"}
+  - {text: "And then when you go to Mauritius, Guyana, they're supposed to also kind of check that those are the people who arrived because there were many deaths on passage as well.", start: 2817.46, end: 2826.40, zh: "然后当你去毛里求斯或圭亚那时，他们应该也会核对一下，确认到达的人就是那些记录中的人，因为旅途中也有很多人死亡。（Mauritius 毛里求斯；Guyana 圭亚那；on passage 在旅途中）"}
+  - {text: "So, Clem, how did you track down your maternal grandmother?", start: 2826.62, end: 2829.58, zh: "所以，克莱姆，你是如何找到你的外祖母的？（Clem 克莱姆，嘉宾名字；maternal grandmother 外祖母）"}
+  - {text: "Well, in fact, most of my relatives because on their transport for the land that they owned in Guyana, their names would be listed, but it would say X -Avon 1884,", start: 2830.58, end: 2846.58, zh: "嗯，实际上是我的大多数亲戚，因为他们在前往他们在圭亚那拥有的土地时，名字会被列在名单上，但会写着“X -Avon 1884”，（Guyana 圭亚那；transport 运输，此处指运送劳工的过程）"}
+  - {text: "which means that it came on the ship, Avon in 1884.", start: 2847.30, end: 2851.52, zh: "这意味着他们是1884年乘坐“Avon”号船来的。（Avon 阿冯，船名）"}
+  - {text: "And if you go into the National Archives in Guyana, in Georgetown, Guyana, Neha's been there, I think.", start: 2852.20, end: 2859.14, zh: "如果你去圭亚那乔治敦的国家档案馆，尼哈去过那里，我想。（National Archives 国家档案馆；Georgetown 乔治敦，圭亚那首都）"}
+  - {text: "If you go there, you will see these volumes, which state the name of the ship in the year, certainly from 1865, not the early stages, but from 1865 to 1917.", start: 2860.42, end: 2874.56, zh: "如果你去那里，你会看到这些卷宗，上面写着船名和年份，肯定是从1865年开始的，不是早期阶段，而是从1865年到1917年。（volumes 卷宗，档案册；1865 1865年）"}
+  - {text: "So once I had that information from the land transport documents, I was able to go straight to the ship's registers, which would state their names, the village from which they came,", start: 2875.06, end: 2888.72, zh: "所以一旦我从陆路运输文件中获取了这些信息，我就能直接查阅船舶登记簿，上面会记载他们的姓名、来自哪个村庄……（land transport documents 陆路运输文件；ship's registers 船舶登记簿）"}
+  - {text: "what district, yes, their caste background, whether they were...", start: 2889.32, end: 2893.88, zh: "来自哪个区，是的，他们的种姓背景，以及他们是否……（district 区；caste background 种姓背景）"}
+  - {text: "They registered the caste background as well?", start: 2893.88, end: 2895.22, zh: "他们也登记了种姓背景吗？（caste background 种姓背景）"}
+  - {text: "Yes, they did. Absolutely.", start: 2895.22, end: 2896.16, zh: "是的，确实如此。绝对是这样。（Absolutely 绝对，确实）"}
+  - {text: "They did. Wow. And it would state where they came from, it would state who they were accompanied by, and then it would be penciled in,", start: 2896.48, end: 2904.14, zh: "确实如此。天哪。上面还会记载他们来自哪里，由谁陪同，然后用铅笔写上……（penciled in 用铅笔写上）"}
+  - {text: "Rose Hall, Port Morant, wherever they were sent to, that would be penciled in.", start: 2904.80, end: 2909.92, zh: "罗斯霍尔、莫兰特港，无论他们被派往哪里，都会用铅笔标注出来。（Rose Hall 罗斯霍尔；Port Morant 莫兰特港）"}
+  - {text: "Also, whether they were re -adventured, whether they went back, what should they do?", start: 2910.77, end: 2915.69, zh: "还有，他们是否重新冒险，是否返回，他们应该做什么？（re-adventured 重新冒险，指再次前往海外）"}
+  - {text: "Right, so you could track their career, pretty much.", start: 2916.43, end: 2920.81, zh: "没错，所以你基本上可以追踪他们的职业生涯。（career 职业生涯）"}
+  - {text: "So there's some advantage to that bureaucratization of the colonial system.", start: 2921.09, end: 2925.85, zh: "所以殖民体系的官僚化带来了一些好处。（bureaucratization 官僚化）"}
+  - {text: "It's there. I mean, I would never have known, because this thing wasn't discussed, you see, for two reasons.", start: 2927.35, end: 2933.31, zh: "确实如此。我是说，我本来永远不会知道，因为这件事从未被讨论过，原因有二。（discussed 讨论）"}
+  - {text: "One, the idea that you were all kidnapped in a way handled this feeling of animosity that Africans had, that these people had come in to swamp us and to,", start: 2934.23, end: 2945.51, zh: "第一，这种认为大家某种程度上是被绑架来的想法，助长了非洲人对这些人的敌意，觉得他们是来淹没我们，并且……（animosity 敌意；swamp 淹没，此处指人数过多导致被淹没）"}
+  - {text: "as they used to put it, took the bread out of our mouths.", start: 2945.95, end: 2949.41, zh: "正如他们常说的，这些人抢走了我们的饭碗。（took the bread out of our mouths 抢走我们的生计/饭碗）"}
+  - {text: "When we were about to embark on our freedom, these people came in as cab labor, and we paid, because one third of the funding of it came from colonial budgets.", start: 2949.89, end: 2962.55, zh: "就在我们即将获得自由的时候，这些人作为契约劳工进来了，而且是我们出钱请来的，因为其中三分之一的资金来自殖民政府的预算。（embark on 开始，着手；indentured labor 契约劳工）"}
+  - {text: "So they said, we paid to bring these people in to undercut us.", start: 2963.37, end: 2966.59, zh: "所以他们说，是我们花钱把这些人来抢我们的饭碗。（undercut 压低价格，此处指压低工资或抢走工作机会）"}
+  - {text: "So if you were going there in the ensured labor, you say, well, look, I didn't come to undercut you.", start: 2967.55, end: 2972.29, zh: "所以如果你是以契约劳工的身份去的，你可能会说，你看，我可不是来抢你们饭碗的。（indentured labor 契约劳工；undercut 压低价格，此处指抢走工作机会）"}
+  - {text: "I was kidnapped, I was tricked, I was fooled.", start: 2972.59, end: 2975.07, zh: "我是被绑架的，我是被骗的，我是被愚弄的。（tricked 欺骗；fooled 愚弄）"}
+  - {text: "So you sustained that.", start: 2975.43, end: 2976.55, zh: "所以你维持着这种说法。（sustained 维持，坚持）"}
+  - {text: "So that becomes the narrative that everyone was kidnapped.", start: 2976.55, end: 2980.23, zh: "于是这就成了大家公认的说法：每个人都是被绑架来的。（narrative 叙事，说法）"}
+  - {text: "One final point to that.", start: 2980.23, end: 2982.39, zh: "关于这一点，最后再补充一点。（final point 最后一点）"}
+  - {text: "That within the family itself, we knew nothing.", start: 2982.69, end: 2985.59, zh: "在家庭内部，我们对此一无所知。（within the family 在家庭内部）"}
+  - {text: "As Naipaul said, I didn't know my great -great -grandmother was pregnant on this boat, and she came here alone to Trinidad.", start: 2986.31, end: 2993.73, zh: "正如奈保尔所说，我甚至不知道我的曾曾祖母当时怀着孕，独自乘船来到了特立尼达。（Naipaul 奈保尔，著名作家；Trinidad 特立尼达，加勒比海国家）"}
+  - {text: "They weren't going to discuss that past.", start: 2994.53, end: 2996.77, zh: "他们不愿谈论那段过去。（past 过去，往事）"}
+  - {text: "That past was an area of darkness.", start: 2997.03, end: 3000.21, zh: "那段过去是一片黑暗。（darkness 黑暗，隐喻未知或痛苦的记忆）"}
+  - {text: "It was never discussed, because there were too many things hidden in that past.", start: 3000.99, end: 3005.71, zh: "从来没人讨论过，因为那段过去里隐藏着太多东西。（hidden 隐藏，隐瞒）"}
+  - {text: "Personal reasons for leaving, conditions within the family, and for women, two -thirds of whom went on their own.", start: 3006.39, end: 3013.75, zh: "离开的个人原因、家庭内部状况，以及女性，其中三分之二是独自前往的。（conditions 状况，境况）"}
+  - {text: "And these were women large among them between 20 and 30.", start: 3014.51, end: 3018.01, zh: "这些女性中，很大一部分年龄在20到30岁之间。（among them 其中）"}
+  - {text: "They would have been married.", start: 3018.53, end: 3019.55, zh: "她们当时应该都已婚。（married 已婚）"}
+  - {text: "They would have had all kinds of family connections, but to revisit that was far too painful.", start: 3020.23, end: 3024.89, zh: "她们有着各种各样的家庭关系，但回首往事实在太痛苦了。（revisit 回顾，重提）"}
+  - {text: "So it was a cultivated area of darkness.", start: 3025.57, end: 3027.87, zh: "所以那是一段被刻意回避的黑暗地带。（cultivated 刻意培养的，此处指刻意维持的）"}
+  - {text: "Well, thank you very much.", start: 3028.65, end: 3030.01, zh: "好的，非常感谢。"}
+  - {text: "I think you've all deserved a cup of tea or coffee, indeed, if that's what you want.", start: 3030.07, end: 3034.67, zh: "我觉得大家该来杯茶或咖啡了，当然，如果你想要的话。（indeed 确实，当然）"}
+  - {text: "And I think Simon is going to be making his...", start: 3034.67, end: 3037.03, zh: "我想西蒙要开始做他的……（Simon 西蒙，节目嘉宾或主持人）"}
+  - {text: "A shot of Guyana Rom.", start: 3037.03, end: 3038.61, zh: "来一杯圭亚那朗姆酒。（Guyana 圭亚南；Rom 朗姆酒，此处为转录错误，应为Rum）"}
+  - {text: "A shot of Guyana Rom.", start: 3038.99, end: 3040.25, zh: "来一杯圭亚那朗姆酒。（Guyana 圭亚南；Rom 朗姆酒，此处为转录错误，应为Rum）"}
+  - {text: "They make a very good rum.", start: 3040.57, end: 3042.77, zh: "他们酿的朗姆酒非常好喝。（rum 朗姆酒）"}
+  - {text: "I'm sure they do.", start: 3042.81, end: 3043.61, zh: "我确信是这样。（sure 确信，肯定）"}
+  - {text: "If you've got any hand, you're clean.", start: 3043.67, end: 3044.73, zh: "如果你手上有东西，那就干净了。（hand 手，此处语境模糊，可能指手持物品或手势）"}
+  - {text: "Very good. They make a very good rum.", start: 3044.73, end: 3047.39, zh: "非常好。他们酿的朗姆酒确实很棒。（rum 朗姆酒）"}
+  - {text: "Thanks very much. Who would anyone want to your coffee, or you've got to go, Misha.", start: 3048.21, end: 3050.67, zh: "非常感谢。谁想喝点咖啡，或者米沙，你得走了。（Misha 米沙，人名）"}
+  - {text: "I've got to go, unfortunately.", start: 3050.67, end: 3052.09, zh: "不幸的是，我得走了。（unfortunately 不幸地，遗憾地）"}
+  - {text: "In Our Time with Misha Glenny is produced by Simon Tilletson, and it's a BBC Studios production.", start: 3052.93, end: 3058.61, zh: "《In Our Time》由米沙·格伦尼主持，西蒙·蒂勒森制作，是BBC Studios出品的节目。（Misha Glenny 米沙·格伦尼；Simon Tilletson 西蒙·蒂勒森；BBC Studios BBC工作室）"}
+  - {text: "Hello, I'm Johnny Diamond, and I'm the presenter of the Radio 4 series How Did We Get Here?", start: 3059.35, end: 3064.01, zh: "大家好，我是约翰尼·戴蒙德，我是BBC Radio 4系列节目《我们是如何走到今天的？》的主持人。（Johnny Diamond 约翰尼·戴蒙德；Radio 4 第四台；How Did We Get Here? 我们是如何走到今天的？）"}
+  - {text: "Israel and the Palestinians We explore the complicated back story of that Middle East conflict as the region endures another wider war.", start: 3064.17, end: 3073.51, zh: "以色列与巴勒斯坦。在中东地区又一场更大规模的战争持续期间，我们将深入探讨这场冲突背后错综复杂的背景故事。（Israel 以色列；Palestinians 巴勒斯坦人；Middle East 中东）"}
+  - {text: "Through conversations with experts with a variety of perspectives, we travel back through the centuries to examine the history of the land that's now so contested between Arabs and Israelis.", start: 3073.83, end: 3086.31, zh: "通过与拥有不同观点的专家对话，我们回溯几个世纪的历史，审视这片如今在阿拉伯人和以色列人之间备受争夺的土地的历史。（perspectives 观点；contested 有争议的；Arabs 阿拉伯人）"}
+  - {text: "And we try and understand the past that's brought us to such a present.", start: 3086.57, end: 3090.89, zh: "我们试图理解那段将我们带到如今这般境地的过去。（present 现状；past 过去）"}
+  - {text: "How Did We Get Here?", start: 3091.23, end: 3092.15, zh: "《我们是如何走到今天的？》"}
+  - {text: "Israel and the Palestinians Listen on BBC Sounds.", start: 3092.29, end: 3095.19, zh: "以色列与巴勒斯坦。请在BBC Sounds收听。（BBC Sounds BBC声音平台）"}
 ---

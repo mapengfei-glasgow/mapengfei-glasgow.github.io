@@ -9,451 +9,451 @@ audioDir: "2026-05-28-cybernetics"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-05-28-cybernetics/episode.mp3"
 totalDuration: 3193.0
 sentences:
-  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.20, end: 14.24}
-  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08}
-  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different.", start: 21.26, end: 26.58}
-  - {text: "I think I have one of the best jobs in broadcasting.", start: 27.06, end: 29.56}
-  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.34, end: 32.92}
-  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 34.74, end: 43.56}
-  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 44.40, end: 49.28}
-  - {text: "I hope you enjoy the program.", start: 49.84, end: 51.20}
-  - {text: "Hello. Before cybercrime, cyber security and cyberpunk there was cybernetics.", start: 51.92, end: 58.16}
-  - {text: "The writer William Gibson first used the term cyberspace in the 1980s and the prefix cyber has become a way to denote anything which relates to digital technology and the internet.", start: 58.66, end: 69.74}
-  - {text: "But cyber originated even earlier in the 1940s with cybernetics, the study of communication and control in animals and machines.", start: 70.46, end: 80.14}
-  - {text: "Cybernetics had taken its name from the ancient Greek word for steersman, the person who stands at the helm of a ship to steer or govern its course.", start: 81.24, end: 89.38}
-  - {text: "In cybernetics, everything could be seen as a system which used so -called feedback loops to adjust its own course of action, from thermostats to the human brain.", start: 90.14, end: 100.26}
-  - {text: "Well, with me to discuss cybernetics are Jacob Ward, historian of science and technology at Maastricht University, John Agar, professor of science and technology studies at University College London,", start: 100.96, end: 113.00}
-  - {text: "and Arete Halpin, lighthouse professor and chair of digital cultures at the Technische Universität in Dresden.", start: 113.70, end: 120.88}
-  - {text: "Arete, I'd like to come to you first.", start: 121.76, end: 124.36}
-  - {text: "Cybernetics emerges after the Second World War.", start: 125.48, end: 128.92}
-  - {text: "So can you tell us what it was about that conflict in particular that was such a challenge both for the military and for scientists?", start: 129.26, end: 137.14}
-  - {text: "Well, Blitzkrieg, Total War, when we think of World War II, it comes under these very totalizing terms that imply the fact that there were entirely new kind of groupings of technology", start: 137.82, end: 151.44}
-  - {text: "and media coming together to battle this war.", start: 151.44, end: 154.28}
-  - {text: "And we had indeed a new scale and speed of warfare, Blitzkrieg, aerial warfare, but also a new media, radio, for example, had put Hitler on power, cinema, propaganda.", start: 155.26, end: 169.58}
-  - {text: "So you have an entirely new combination of things that people had to deal with and contend with and scientists and engineers had to.", start: 170.64, end: 177.56}
-  - {text: "And in the face of the kind of speed of battle in the Blitzkrieg, a new level and size of scientific endeavor emerged as the United States and Great Britain mobilized.", start: 177.78, end: 190.54}
-  - {text: "They recruited scientists, engineers, but not just scientists and engineers, also psychologists, anthropologists, sociologists.", start: 190.88, end: 197.54}
-  - {text: "This was Total War.", start: 197.72, end: 198.56}
-  - {text: "And like I said, it mattered as much how we influenced people's brains and minds and propaganda as the actual technologies and kind of material structures of the war.", start: 198.88, end: 209.40}
-  - {text: "And so under this condition, particularly during the Battle of Britain, at MIT, people started being concerned about war happening at speeds beyond the ability of human beings to process.", start: 210.06, end: 221.90}
-  - {text: "MIT being the Massachusetts Institute of Technology.", start: 222.34, end: 226.04}
-  - {text: "And at MIT, they were working on a particular issue that really kind of, I think, identified this war, which was a new idea that information and communication,", start: 226.84, end: 236.88}
-  - {text: "in some sense, is power and that you have to manage and control them to win the battle.", start: 237.30, end: 241.96}
-  - {text: "And at MIT, they were working on radar, which is basically how do you see the enemy before they see you, right?", start: 242.60, end: 248.88}
-  - {text: "And along with the radar, they were also working on a certain question of basically how do you shoot a plane down, which isn't that easy because it's moving pretty fast,", start: 249.46, end: 257.98}
-  - {text: "and how do you process signals, which it sounds pretty simple to see a plane, but really telling a plane from a flock of birds is not", start: 258.24, end: 265.18}
-  - {text: "that easy when you're trying to figure out how radio waves are changing.", start: 265.18, end: 268.02}
-  - {text: "And basically, you need to predict where the machine will be.", start: 268.50, end: 271.60}
-  - {text: "So people were preoccupied with signal processing, but they're also preoccupying with where the plane will be.", start: 272.06, end: 276.98}
-  - {text: "And under these conditions, bringing together mathematicians and engineers together, certain people, Norbert Wiener, a mathematician at MIT, being one of them, started thinking that maybe people act repeatedly, repetitively or mathematically or algorithmically under stress.", start: 277.14, end: 294.62}
-  - {text: "That is to say that pilots, for example, might veer left or right at systematic and regular basis.", start: 294.82, end: 300.94}
-  - {text: "So the fundamental innovation here was to, A, try to mathematically calculate human behavior and to make it seem mechanical, basically, so making machines and humans equivalent.", start: 301.71, end: 312.78}
-  - {text: "And secondly, to basically attempt to understand the whole world in terms of information or communication.", start: 313.30, end: 319.58}
-  - {text: "Let me just drill down a little bit on that issue of humans and machines that you raise.", start: 320.04, end: 327.06}
-  - {text: "So researchers are trying to create models around the world to tackle this issue of total war.", start: 327.06, end: 334.72}
-  - {text: "But what was new about the models in terms of that relationship between humans and machines?", start: 335.16, end: 340.96}
-  - {text: "One of the key features, especially in cybernetics, was the idea of feedback.", start: 341.70, end: 346.16}
-  - {text: "There's a relationship going on, in this case, between the gun and the plane, not a very friendly one, but nonetheless, a relationship.", start: 347.14, end: 355.18}
-  - {text: "They're in some sense talking to each other in the mathematical modes of communication that what the plane does gets the gun to change its behavior", start: 357.06, end: 367.98}
-  - {text: "and what the gun does impacts what the plane is doing.", start: 367.98, end: 371.70}
-  - {text: "And so people started to think about things not as separate objects, but as always relational or communicating objects and trying to turn that communication into something they could mathematically represent or compute.", start: 372.28, end: 388.08}
-  - {text: "Okay, so in 1948, three years after the end of the war, Norbert Wiener, who you just mentioned, Erite, publishes a book called Cybernetics.", start: 389.00, end: 401.08}
-  - {text: "John Agar, can you tell us about that book and something about Norbert Wiener as well?", start: 401.88, end: 408.08}
-  - {text: "Yeah, because as I've always just been saying, Cybernetics is born from this very specific moment of warfare, of an anti -aircraft gun trying to track an oncoming aircraft or bomber.", start: 408.66, end: 424.30}
-  - {text: "Very, very specific, also very, very secret.", start: 425.00, end: 427.44}
-  - {text: "But within a few years, it's going to be a science that is known to tens of thousands of people.", start: 428.08, end: 435.74}
-  - {text: "And it's also given a name, which is Cybernetics.", start: 436.76, end: 438.78}
-  - {text: "Now, why that happens is because of one of the mathematicians that was at the heart of the work being done on anti -aircraft prediction at Massachusetts Institute of Technology.", start: 439.70, end: 451.72}
-  - {text: "That mathematician was Norbert Wiener.", start: 452.28, end: 454.44}
-  - {text: "Now Norbert Wiener is a really interesting figure.", start: 455.28, end: 458.02}
-  - {text: "He was a child prodigy.", start: 458.70, end: 460.94}
-  - {text: "He was born at the end of the 19th century.", start: 461.26, end: 463.80}
-  - {text: "He, the child prodigy in a sense that he was reading at the age of four.", start: 464.72, end: 469.18}
-  - {text: "He did his undergraduate degree in his teens.", start: 469.62, end: 471.94}
-  - {text: "He had his PhD done by the age of 18.", start: 472.24, end: 474.82}
-  - {text: "He was homeschooled, fearsomely homeschooled by his father, Leo Wiener, who had his own ideas about education.", start: 475.78, end: 484.38}
-  - {text: "So he went through this very unusual upbringing and became in some sense known as a prodigy, as this young, incredibly bright person who for a", start: 485.14, end: 497.02}
-  - {text: "while was trying to find out what he was good at.", start: 497.02, end: 498.82}
-  - {text: "But it turns out he was extremely good at mathematics.", start: 499.26, end: 501.40}
-  - {text: "And the war work he was doing there was turning that mathematics onto understanding aircraft predictors.", start: 502.12, end: 508.94}
-  - {text: "And as he was doing that he was talking to people who understand the mind and brain and talking to engineers.", start: 509.54, end: 515.54}
-  - {text: "And from that is born this idea that there could be a whole new science, a whole new way of understanding almost everything from machines to the mind to society to language.", start: 516.36, end: 528.76}
-  - {text: "So out of that is born this incredibly ambitious scientific program.", start: 529.28, end: 532.58}
-  - {text: "Now he wants to tell the world about that.", start: 533.14, end: 535.00}
-  - {text: "And it appears in a book called Cybernetics.", start: 535.68, end: 539.40}
-  - {text: "And it's given that term by Norbert Wiener.", start: 540.16, end: 543.52}
-  - {text: "He wanted the term that captures something about self -regulation and how things change and adapt through feedback.", start: 544.28, end: 551.20}
-  - {text: "And he remembered this Greek word kybonites, which means steersman of a ship in Greek.", start: 551.76, end: 558.14}
-  - {text: "It's also got overtones of being a governor of a state.", start: 558.88, end: 562.94}
-  - {text: "So it has a sort of ambitious character as well.", start: 563.22, end: 566.76}
-  - {text: "And he writes this up in a book.", start: 567.50, end: 568.66}
-  - {text: "It appears in 1948.", start: 569.56, end: 570.82}
-  - {text: "It's a very odd book.", start: 571.18, end: 572.46}
-  - {text: "It's full of mathematical equations.", start: 573.18, end: 575.02}
-  - {text: "It starts with a essay on the nature of time.", start: 575.86, end: 579.10}
-  - {text: "It ends with a reflection on how do you get machines to learn how to play chess and covers an awful lot in between.", start: 579.40, end: 586.66}
-  - {text: "And I have to say I attempted to read Cybernetics and I fell very early on at one of the first hurdles.", start: 587.56, end: 596.14}
-  - {text: "But he does point out that he wrote another book called The Human Use of Human Beings, which I've got a copy here, which he sort of describes in the introduction as as Cybernetics for dummies.", start: 596.30, end: 608.44}
-  - {text: "So can you define in as pithier way as possible what Cybernetics is?", start: 609.12, end: 616.52}
-  - {text: "So the subtitle of Cybernetics the book is Control and Communication in Animal and Machine.", start: 617.10, end: 621.90}
-  - {text: "So it's this science which claims it can through understanding feedback processes, which is about communication and therefore about information, about the movement of information in and out of a system.", start: 622.88, end: 637.74}
-  - {text: "Through that, you have this way of understanding how machines can produce purposeful behavior, how minds might work, perhaps how societies change.", start: 638.40, end: 648.98}
-  - {text: "So it's a science of feedback and communication and information.", start: 649.62, end: 653.88}
-  - {text: "Thank you very much.", start: 654.76, end: 656.28}
-  - {text: "Jacob Ward, can you give us a better idea of these feedback loops, which seem to be so central to Cybernetics and also the idea of circular causality?", start: 656.44, end: 668.48}
-  - {text: "Yeah, so I'll start with the example that I introduced of the anti -aircraft gun trying to shoot down the enemy plane.", start: 669.34, end: 675.86}
-  - {text: "And the Norbert Wiener and his team at MIT were working on a device called a predictor that you would attach to the anti -aircraft gun", start: 676.82, end: 682.54}
-  - {text: "that would predict where the plane was going to be.", start: 682.54, end: 685.24}
-  - {text: "It would use statistics to figure out the general predictable directions that the plane would take, use radar to detect where the plane had been, and move the anti -aircraft gun", start: 685.38, end: 694.40}
-  - {text: "so the gun could try and shoot down the plane.", start: 694.40, end: 697.26}
-  - {text: "And crucially, as part of this kind of model of feedback and of Cybernetics, is that the predictor using radar could then detect whether or not it had shot down the plane.", start: 698.06, end: 706.92}
-  - {text: "And if it had missed the plane, had moved the gun too far in one direction, for example, it could recalculate and move the gun again,", start: 707.28, end: 714.04}
-  - {text: "kind of taking into account what it had just calculated.", start: 714.34, end: 716.60}
-  - {text: "So the kind of key idea there is that this isn't a linear form of causality, it's not just the predictor moves the gun, the gun shoots down the plane, it's not x causes y,", start: 717.14, end: 727.94}
-  - {text: "but it's that the predictor moves the gun, the gun shoots down the plane, or not, and then recalculates.", start: 728.08, end: 734.10}
-  - {text: "So it's x causes y, y feeds back into x, and you just rinse and repeat until, hopefully, from the point of the anti -aircraft gun, you shoot down the plane.", start: 734.20, end: 743.18}
-  - {text: "So this is this idea that in these systems, causality is not linear, but circular.", start: 743.76, end: 748.24}
-  - {text: "It has a goal, right?", start: 748.96, end: 750.04}
-  - {text: "This is not just a circular system that exists with no purpose, it has a goal.", start: 750.12, end: 754.22}
-  - {text: "So these are circular systems that are goal seeking.", start: 754.60, end: 758.10}
-  - {text: "And they're always going through these circular causal loops of feedback in order to achieve their goal, whether or not that's shooting down a plane, or", start: 758.44, end: 766.24}
-  - {text: "whatever an animal does to survive in its environment.", start: 766.24, end: 768.20}
-  - {text: "So there's a purpose to cybernetics?", start: 768.20, end: 770.42}
-  - {text: "Absolutely. Norbert Wiener isn't, of course, the only figure in the story of cybernetics.", start: 770.52, end: 776.70}
-  - {text: "Can you tell us a bit about Claude Shannon and how he comes into all of this?", start: 777.21, end: 781.13}
-  - {text: "So Claude Shannon, like Wiener, is another fascinating individual, anthropics AI model Claude, is actually named after Claude Shannon.", start: 781.99, end: 789.09}
-  - {text: "And he is, he's a mathematician and electrical engineer who works at Bell Telephone Laboratories in the USA.", start: 791.67, end: 798.97}
-  - {text: "And we've talked a lot about these systems as a kind of form of control, controlling the anti -aircraft gun, or controlling the animal, how the mind controls the animal.", start: 799.41, end: 808.95}
-  - {text: "But the other crucial part of that is information, right?", start: 809.09, end: 811.53}
-  - {text: "If you're going to have these feedback loops, you want to make sure that there's a really clear signal of information being transmitted as part of that feedback.", start: 811.61, end: 819.05}
-  - {text: "And both Shannon and Wiener, actually as part of their work during World War II, come up with mathematical theories that define what information is.", start: 820.03, end: 828.31}
-  - {text: "They're both trying to figure out, can you calculate mathematically how much information a message has?", start: 828.59, end: 833.91}
-  - {text: "Wiener is part of his anti -aircraft gunnery research.", start: 834.73, end: 837.37}
-  - {text: "For Shannon, it's part of his encryption and cryptography research.", start: 837.95, end: 841.81}
-  - {text: "And so the interesting thing about their theories is they're almost exactly identical, except Shannon's definition of information is the opposite of Wiener's.", start: 842.53, end: 850.93}
-  - {text: "So Wiener says, well, you know, the more predictable, the more clear a message is, the more information it has, which seems completely logical.", start: 851.07, end: 857.31}
-  - {text: "Shannon says, the less predictable, the more chaotic and messy and disordered a message is, the more information it has, which seems completely unintuitive.", start: 857.79, end: 865.71}
-  - {text: "But if you think about it from the perspective of code breaking, Shannon was working on a system called Sigsley, also known as the mysterious Project X.", start: 866.09, end: 873.71}
-  - {text: "He was working on it with people like Alan Turing, and it was to have an encrypted communications line between the allies.", start: 874.17, end: 879.75}
-  - {text: "It was used by people like Roosevelt and Churchill and Eisenhower.", start: 880.17, end: 883.97}
-  - {text: "And if you think about information from a code breaking perspective, if you can perfectly predict a message, if you know what Churchill is going to send to Eisenhower,", start: 884.41, end: 892.33}
-  - {text: "you don't need to spend any effort on breaking it.", start: 892.83, end: 894.89}
-  - {text: "You don't get any new information by breaking the code.", start: 895.05, end: 897.25}
-  - {text: "But if the message, the encrypted message, appears completely random, then you can't predict what they're saying.", start: 897.67, end: 902.33}
-  - {text: "It's very hard to break the code.", start: 902.41, end: 903.89}
-  - {text: "And if you do break the code, you get a lot more information.", start: 904.03, end: 906.67}
-  - {text: "So that's this completely unintuitive definition of information that he has.", start: 907.29, end: 910.23}
-  - {text: "Thank you, Jacob. There are two other characters in this early stage of cybernetics who I'm interested in.", start: 910.65, end: 917.39}
-  - {text: "One is Warren Sturgis McCulloch, and the other is Walter Pitz.", start: 917.69, end: 921.41}
-  - {text: "Can you tell us about them and how they influenced the way cybernetics developed?", start: 921.41, end: 926.19}
-  - {text: "Warren McCulloch was a psychiatrist, and actually had been in World War I on ships, wondering a little bit about signals and messages, but also as a psychiatrist,", start: 927.03, end: 940.83}
-  - {text: "he also worked with a lot of people who'd undergone war trauma and things like that.", start: 940.93, end: 945.11}
-  - {text: "And so he was really interested in these questions about hallucination, why people have traumatic experiences, how phantom limb, these kind of things that seem both very material and yet very imagined.", start: 945.29, end: 959.97}
-  - {text: "And so he was really interested in this mind -body thing.", start: 960.51, end: 963.43}
-  - {text: "And Walter Pitz was another kind of mathematical genius who came out of a really impoverished background.", start: 964.19, end: 972.07}
-  - {text: "Didn't have really a formal education, but walked into the Detroit library, for example, at age 13 and picked up the Principale Mathematica, corrected it, apparently, wrote to Bertrand Russell, and got invited to Cambridge, but he was 13, so he couldn't go and also impoverished,", start: 972.33, end: 987.79}
-  - {text: "but managed to get picked up by Norbert Wiener and this group of cyber neticians as a potential prodigy and brought into this circle at MIT that was working on cybernetics.", start: 988.29, end: 1001.31}
-  - {text: "And you have to remember that at this period of time, people didn't know what a machine was or what a brain was.", start: 1002.25, end: 1008.49}
-  - {text: "We didn't have FMRIs and we didn't have digital computers.", start: 1008.61, end: 1012.37}
-  - {text: "We didn't have these kind of things.", start: 1012.71, end: 1013.99}
-  - {text: "And in fact, if we could start modeling human behavior mathematically and computationally, how would we rethink what people are and what machines are?", start: 1014.71, end: 1024.97}
-  - {text: "And Warren McCullough and Walter Pitz under the influence of all these people modeling brains and modeling machines during the war started to ask, what is a man that he may know a number", start: 1024.97, end: 1039.79}
-  - {text: "and a number that it may be known by man?", start: 1040.27, end: 1042.39}
-  - {text: "Now this sounds like the kind of like obscure sort of like esoteric philosophical thing that none of us would care about, which maybe it is, but actually no.", start: 1042.51, end: 1052.07}
-  - {text: "It's actually the foundation of AI today.", start: 1052.27, end: 1054.63}
-  - {text: "And essentially it was a reframing of then shydenk's problem, which was a question of what's the limit of computation, what's the limit of what we can represent logically in the world.", start: 1055.53, end: 1065.81}
-  - {text: "And their answer to that wasn't an intuitive one.", start: 1066.87, end: 1070.53}
-  - {text: "It was to build a new form of experiment.", start: 1070.75, end: 1073.13}
-  - {text: "McCullough called these epistemological experiments.", start: 1073.93, end: 1076.69}
-  - {text: "Why? Because they would test what we thought we knew about computing and what we thought we knew about thinking.", start: 1077.19, end: 1083.91}
-  - {text: "And the experiment went something like this.", start: 1084.89, end: 1087.41}
-  - {text: "Imagine you have a neuron, which we do.", start: 1087.95, end: 1090.51}
-  - {text: "Imagine that the neuron fires on or off, which it does more or less a little more complexly.", start: 1090.97, end: 1098.29}
-  - {text: "Imagine that that on off is the equivalent of a logic statement.", start: 1098.29, end: 1102.89}
-  - {text: "True, false, right, wrong, yes, no.", start: 1103.37, end: 1107.45}
-  - {text: "If you imagine all these things, then we've just broken the entire brain body split.", start: 1108.03, end: 1113.97}
-  - {text: "We've shown that there's actually a material grounding to the brain and to thought, to higher level thinking.", start: 1114.53, end: 1122.65}
-  - {text: "And not only that, we've reframed both what a computer can be, because these are logical statements being made by supposedly a biological entity.", start: 1123.21, end: 1131.53}
-  - {text: "And we've rethought what a brain could be because it's built up from these little units.", start: 1132.15, end: 1137.51}
-  - {text: "Okay, let me take that on with you, Jacob, because as you pointed out, this is really the early history of artificial intelligence that they were beginning to explore.", start: 1138.72, end: 1150.26}
-  - {text: "Can you tell us, Jacob, what the difference between brain modeling is and mind modeling?", start: 1150.84, end: 1157.38}
-  - {text: "And I really want you to be as simple as possible here, because I've been struggling with this.", start: 1157.90, end: 1163.20}
-  - {text: "Sure. So what I read has just been telling us about is the brain modeling side of artificial intelligence.", start: 1164.30, end: 1170.60}
-  - {text: "So this idea that if you can represent the nervous system, the brain, as a series of logical statements, and Claude Shannon had shown that you can also represent logical statements through electrical circuits, right?", start: 1171.04, end: 1184.78}
-  - {text: "It presumably follows that you can then use electrical circuits to recreate a nervous system that produces a kind of logical pattern of thought.", start: 1185.20, end: 1194.26}
-  - {text: "That's, simplistically, the brain modeling side of things.", start: 1195.14, end: 1198.04}
-  - {text: "Let's build electrical circuits that kind of recreate logical systems that are modeled on the nervous system.", start: 1198.22, end: 1203.82}
-  - {text: "And that sets up a whole direction of AI research that still lives on today in things like neural networks, for example.", start: 1204.38, end: 1210.74}
-  - {text: "So there's a researcher, Frank Rosenblatt at Cornell in the USA who builds a machine called a perceptron, which is a neural network that can learn to recognize shapes using electrical circuits.", start: 1210.94, end: 1222.12}
-  - {text: "The other side of early AI research at this time is mind modeling.", start: 1223.31, end: 1227.53}
-  - {text: "And effectively, let's not worry about trying to physically build a brain in electric circuits.", start: 1228.03, end: 1234.66}
-  - {text: "Let's not worry about how you can actually represent the nervous architecture of the brain in a computer or in electronics.", start: 1234.86, end: 1241.48}
-  - {text: "Instead, let's worry about simulating how a human reasons, right?", start: 1242.00, end: 1246.48}
-  - {text: "How do humans think and can we use a digital computer to simulate that?", start: 1247.10, end: 1250.82}
-  - {text: "So if they get about the brain, think about the mind instead, try to simulate how a human mind works.", start: 1251.12, end: 1255.18}
-  - {text: "So John Agar, let me go on to you about how they went about building these machines and putting this into practice.", start: 1255.72, end: 1264.28}
-  - {text: "And perhaps you can start by telling us about Elmer and Elsie, the tortoises.", start: 1264.48, end: 1269.14}
-  - {text: "What were they? Yeah.", start: 1269.62, end: 1270.76}
-  - {text: "So we're going to jump over the Atlantic.", start: 1270.98, end: 1274.14}
-  - {text: "We're going to come to Britain because there were cybernetics and cyberneticians very active in Britain, as well as the United States, as a world elsewhere in the world.", start: 1274.38, end: 1285.72}
-  - {text: "Let me tell you to 1951.", start: 1286.28, end: 1288.18}
-  - {text: "1951 was the year of the Festival of Britain.", start: 1289.28, end: 1291.38}
-  - {text: "And millions of people went to see exhibitions that was meant to be a tonic to the nation and cheer us all up after austerity and things like that.", start: 1292.51, end: 1302.18}
-  - {text: "What they would have seen there were pairs of little robots.", start: 1302.64, end: 1308.58}
-  - {text: "These were robot tortoises that were made by a neurologist called Greywater.", start: 1309.40, end: 1316.86}
-  - {text: "Greywater worked at a mental hospital just outside Bristol, but he had this intense interest in building mechanical things that seemed, and he thought actually did, produce lifelike behavior.", start: 1317.24, end: 1332.86}
-  - {text: "So just as we just heard about brain building, Greywater put what he thought was equivalent of a couple of neurons at the centre of these mechanical robot tortoises.", start: 1333.74, end: 1345.08}
-  - {text: "And these tortoises also could respond to light, they could respond to touch, and with simple feedback mechanisms, they could respond to each other.", start: 1345.88, end: 1355.82}
-  - {text: "So they would respond to each other's lights.", start: 1355.96, end: 1357.68}
-  - {text: "They would see their own light in a mirror and they would move towards it.", start: 1357.78, end: 1362.26}
-  - {text: "They bumped into something, they would recoil.", start: 1362.70, end: 1365.20}
-  - {text: "And Greywater thought that these little mechanical robot tortoises with the equivalent of a couple of neurons as electrical circuits were beginning to show absolutely mechanical lifelike living", start: 1365.96, end: 1382.22}
-  - {text: "phenomena like attraction, like self -awareness, like movement and responding to what each other are doing.", start: 1382.94, end: 1390.74}
-  - {text: "And people saw that, saw these tortoises, one was called Elmer, one was called Elsie, they're acronyms that essentially stand for electronic machines of various kinds, and they were deeply popular.", start: 1391.88, end: 1405.86}
-  - {text: "But you mentioned the word self -awareness there, and of course there's a lot of discussion these days about artificial intelligence and artificial general intelligence about machines becoming self -aware.", start: 1406.26, end: 1418.40}
-  - {text: "But this constant comparison between machines and animals in cybernetics where they seem to assume that animals and machines function in the same way, isn't there something specific about the human brain,", start: 1418.64, end: 1436.25}
-  - {text: "which is it's not entirely rational, it doesn't follow logical patterns.", start: 1436.25, end: 1440.29}
-  - {text: "So the cyberneticians would say absolutely, we are giving you a science that describes living and non -living thinking, non -thinking entities all in the same framework.", start: 1441.45, end: 1452.59}
-  - {text: "So they were really deeply interested in breaking down those boundaries between thinking and non -thinking, living and non -living.", start: 1455.93, end: 1463.59}
-  - {text: "And of course this upset people.", start: 1464.11, end: 1465.41}
-  - {text: "There are people in the 1940s and 50s, same time as when Turing was working, when Grey Walter was displaying his tortoises, when Norbert Wiener was publishing cybernetics,", start: 1466.19, end: 1477.92}
-  - {text: "who were deeply, deeply upset by this idea there might be something troubling because it was suggesting that there wasn't anything unique about the human mind,", start: 1478.38, end: 1490.62}
-  - {text: "that you could recreate the human mind in machines and that seemed deeply, deeply threatening.", start: 1490.80, end: 1499.72}
-  - {text: "So even something like the friendly tortoises would provoke actually quite disquiet and denunciation even on the BBC.", start: 1500.12, end: 1510.46}
-  - {text: "Heaven forbid. Grey Walter gave talks on the BBC and very heavyweight respondents came in and said you're talking nonsense.", start: 1511.71, end: 1520.15}
-  - {text: "I would say pessimistic optimism might be the right term, and that might be the right term for the age.", start: 1520.86, end: 1526.23}
-  - {text: "Contemporary thinkers in science technology studies that are critically thinking don't want to be technophobic and want to be more technopositive, shall we say, are saying there's a silver lining behind this whole de -centering, making humans equivalent to machines and animals and everything else,", start: 1527.25, end: 1549.89}
-  - {text: "and that is that indeed we, that might actually reconfigure how we think about ourselves and there might actually be an opportunity, new opportunities to work with our technologies, that they may have possibilities to break certain ideas about say biological determinism or", start: 1550.37, end: 1569.93}
-  - {text: "or sort of social order as it was beforehand.", start: 1570.83, end: 1575.61}
-  - {text: "And obviously these are very challenging technologies, but cyber netizens themselves, I would totally agree with John.", start: 1576.05, end: 1583.55}
-  - {text: "Like they, you know, at one point Warren McCullough says to another very famous mathematician, John Von Neumann, who kind of constructed the digital computer and did all the math for the bomb and in a kind of conversation about whether machines could become autonomous,", start: 1583.87, end: 1601.65}
-  - {text: "kind of pre a conversation about artificial general intelligence, if you will.", start: 1602.45, end: 1606.51}
-  - {text: "McCullough said about the neural net, he said, I think what we did and did fairly well is build a brain if only it were to go psychotic.", start: 1607.35, end: 1615.11}
-  - {text: "And this is a quote, okay, I'm just quoting pretty much.", start: 1615.55, end: 1618.99}
-  - {text: "What did he mean by psychotic in this case?", start: 1619.13, end: 1621.55}
-  - {text: "And it's a fundamental problem for computing actually in general and for neural networks is we all know they have a problem with causality.", start: 1622.05, end: 1630.45}
-  - {text: "We know that large language models, for example, can't really assign how they learned.", start: 1631.43, end: 1636.61}
-  - {text: "They just kind of replicate or create an end point, but we don't, we don't, they have a problem with time and space in short machines can't tell, for example,", start: 1637.49, end: 1646.23}
-  - {text: "if the data is new or if it's retrieved from memory.", start: 1646.27, end: 1649.41}
-  - {text: "And in order to get the math and the logic of the neural net to work, you basically had to evacuate time.", start: 1649.87, end: 1657.99}
-  - {text: "And this is an ongoing issue.", start: 1658.99, end: 1660.87}
-  - {text: "But aside from the theory of it, I also want to mention that a very big part of cybernetics and things like game theory was the idea that human beings don't make good decisions.", start: 1661.25, end: 1671.83}
-  - {text: "And therefore they need computers, they need mathematical and rational tools because we're not rational.", start: 1672.27, end: 1678.57}
-  - {text: "But when you talk about the psychosis, is that, and you've mentioned large language models, is that the same as what we now understand to be hallucinations of large language models?", start: 1679.13, end: 1692.49}
-  - {text: "It can be sometimes.", start: 1693.41, end: 1694.91}
-  - {text: "I mean, a lot of times what we call hallucination might also just be sycophany, the machine generating response it thinks you want.", start: 1695.65, end: 1702.87}
-  - {text: "But hallucination is also is a key feature of this problem, where machines are feeding back on the same data to a point where they're no longer capable of generating,", start: 1703.39, end: 1715.85}
-  - {text: "let's say, an answer that fits the real world for lack of a better word.", start: 1716.57, end: 1721.07}
-  - {text: "So cybernetics during the 1950s and early 60s seems to turn up everywhere.", start: 1721.31, end: 1727.55}
-  - {text: "It's not just in matters military, it's in sociology, it's in anthropology and so on.", start: 1728.19, end: 1734.43}
-  - {text: "Jacob, how do we then get from the issue of the anti -aircraft gun, for example, to the sort of bureaucratic cybernetics of the post office?", start: 1734.49, end: 1745.49}
-  - {text: "Tell us about the post office and why cybernetics was important to it.", start: 1746.51, end: 1750.29}
-  - {text: "Yeah, so cybernetics isn't even just in science, right?", start: 1750.91, end: 1753.69}
-  - {text: "It goes beyond science to business to organizations to governments, because a lot of the people working with cybernetics, they're not necessarily working on cutting edge science, innovations, AI,", start: 1753.77, end: 1764.51}
-  - {text: "military research, they're working in more prosaic settings like large organizations.", start: 1765.19, end: 1769.73}
-  - {text: "There's a foundational conference for artificial intelligence that happens in Teddington, here in London, at the National Physical Laboratory in 1958, called Mechanization of Thought Processes.", start: 1770.65, end: 1780.07}
-  - {text: "But one of the interesting papers given there is a paper called, To What Extent Can Administration Be Mechanized?", start: 1780.81, end: 1787.39}
-  - {text: "And that's given by a British electrical engineer, James Merriman, who goes on to become the chief engineer of the post office.", start: 1787.65, end: 1795.15}
-  - {text: "And the post office at the time ran Britain's telecommunications infrastructure.", start: 1795.79, end: 1800.43}
-  - {text: "And Merriman and his engineers paid close attention to cybernetics.", start: 1800.83, end: 1805.21}
-  - {text: "Merriman was at these conferences, his engineers went to symposia on cybernetics and information theory at Imperial College in London.", start: 1805.31, end: 1811.49}
-  - {text: "And they were trying to think about how can you apply cybernetics to a large organization like the post office, which at the time was one of Britain's largest employers,", start: 1812.15, end: 1821.17}
-  - {text: "but also had a big complex electrical network of telecom lines that sent telephone messages, telegraph messages and so on.", start: 1821.59, end: 1830.19}
-  - {text: "And they arrive at this vision of what they call a self -healing, self -governing network, that you could use cybernetics and kind of cybernetic theories to think about how you could embed computers into the network to control", start: 1830.94, end: 1845.72}
-  - {text: "and organize all of the messages that are sent around the network, but to also organize all of the people that work for that network, tell them where to go, what they need to repair,", start: 1845.72, end: 1854.42}
-  - {text: "where they're going to be working each day, and so on.", start: 1855.08, end: 1857.10}
-  - {text: "And it leads to this statement that Merriman makes, and he says information and control, which is a reference to cybernetics, it's one of the leading cybernetics journals at the time,", start: 1857.28, end: 1865.74}
-  - {text: "he says information and control is fundamental to the management of any large organization.", start: 1865.80, end: 1870.32}
-  - {text: "So a lot of people at the time, they're not just thinking about cybernetics in these cutting edge applications, they're also thinking about how it can be applied to large bureaucratic organizations.", start: 1870.86, end: 1878.36}
-  - {text: "So when they're looking at the telephone exchange, what do they see?", start: 1879.14, end: 1883.50}
-  - {text: "So at this point in time, a lot of telephone exchanges, which are what, you know, roots your call from one place to another, right?", start: 1884.51, end: 1890.11}
-  - {text: "If you're in London and you're calling Edinburgh, it's not just a direct line, it has to go through various telephone exchanges to root the call from London to Edinburgh.", start: 1890.17, end: 1897.05}
-  - {text: "And this is also the time where they're thinking about, okay, how can we computerize these telephone exchanges?", start: 1897.33, end: 1901.81}
-  - {text: "How can we put computers in them to root all the traffic for us?", start: 1901.97, end: 1905.33}
-  - {text: "And this lends itself to this idea of this self -governing, self -healing network, because if one communications link, you know, becomes disused or breaks down or something,", start: 1905.77, end: 1915.35}
-  - {text: "the computers can reroute the call via another set of telephone exchanges.", start: 1915.35, end: 1920.45}
-  - {text: "So it's, again, this kind of responsive system of feedback, thinking that, okay, that route isn't working, so we will update and regulate the system so we can find another route using these, yeah, cybernetic computerized telephone exchanges.", start: 1920.73, end: 1933.41}
-  - {text: "So there was another example of this, quite a memorable one, John, in Chile.", start: 1934.03, end: 1938.59}
-  - {text: "Tell us about Project Cyber Sin and what happened to it.", start: 1939.13, end: 1942.85}
-  - {text: "So there's another British cybernetician called Stafford Beer, who is another very interesting, slightly eccentric figure, slightly an outsider figure who has an epiphany when he reads Norbert Wiener's Cybernetics,", start: 1943.84, end: 1960.98}
-  - {text: "thinks this is a clue to how to understand organizations.", start: 1961.36, end: 1966.12}
-  - {text: "Briefly, he's employed by United Steel in Sheffield.", start: 1967.20, end: 1970.66}
-  - {text: "He proposes to reinvent the steel industry on cybernetics terms.", start: 1971.36, end: 1977.34}
-  - {text: "They show him the door.", start: 1978.02, end: 1979.28}
-  - {text: "He then does management consultancy for a bit, and then he gets a call from Chile.", start: 1980.00, end: 1984.54}
-  - {text: "And Chile, which had a long history of democratic government, had recently elected Salvador Olende, a socialist who had nationalized parts of the Chilean economy and wanted to think about how to manage all these new big organizations", start: 1985.46, end: 2003.02}
-  - {text: "that the Chilean state now had to look after.", start: 2003.02, end: 2006.90}
-  - {text: "And they'd heard of cybernetics and they'd heard of Stafford Beer, who had published on management cybernetics, and said, come to Chile.", start: 2007.90, end: 2017.26}
-  - {text: "You can rearrange the state for us.", start: 2018.04, end: 2020.60}
-  - {text: "And he joined this Chilean team.", start: 2021.66, end: 2024.56}
-  - {text: "And together, they produced this extraordinary plan, partly implemented, which would gather information from telex lines from around the country, gathering them together at a central control room.", start: 2025.28, end: 2040.48}
-  - {text: "And this control room, I do encourage people to have a look it up online.", start: 2040.72, end: 2044.66}
-  - {text: "Project CyberSyn stands for cybernetic synergy.", start: 2045.06, end: 2049.46}
-  - {text: "The control room looks a little bit like the bridge on Star Trek on the USS Enterprise.", start: 2050.26, end: 2056.18}
-  - {text: "It does a lot.", start: 2056.34, end: 2057.20}
-  - {text: "It has these extraordinary chairs.", start: 2057.36, end: 2059.90}
-  - {text: "You're surrounded by panels and flashing lights.", start: 2060.32, end: 2063.58}
-  - {text: "But essentially, this was meant to be machines and humans working together, going back and forth, interacting with each other in order to make better decisions", start: 2064.16, end: 2075.28}
-  - {text: "at the center of a new cybernetic socialist country.", start: 2075.28, end: 2080.64}
-  - {text: "So there's real ambition to cybernetics.", start: 2081.08, end: 2085.16}
-  - {text: "Eritz, can you tell us about smart cities, which people are talking about smart cities now all the time.", start: 2085.62, end: 2093.00}
-  - {text: "Can you tell us about cybernetics and smart cities?", start: 2093.18, end: 2095.84}
-  - {text: "Yeah, cybernetics, as everyone here has already suggested, was a really compelling idea.", start: 2096.34, end: 2102.72}
-  - {text: "And it spread like, I don't know, a good meme.", start: 2103.02, end: 2105.36}
-  - {text: "It was very popular.", start: 2106.52, end: 2107.78}
-  - {text: "And I think part of the popularity was the kind of new way of imagining organizational management at scale.", start: 2108.48, end: 2116.34}
-  - {text: "And it was countries, as we've just suggested, but it was also cities at MIT, which had a huge urban planning department.", start: 2117.06, end: 2124.04}
-  - {text: "A lot of people there, particularly a couple planners, one of them named Kevin Lynch, were really influenced by these ideas.", start: 2124.62, end: 2132.20}
-  - {text: "But it also had a huge influence on people in ecology and ecosystems management.", start: 2132.56, end: 2138.06}
-  - {text: "So individuals like the Odom Brothers, who had been working with the atomic tests in the Marshall Islands, started tracing, for example, radiation moving through the ecosystem in the little fish and all the stuff,", start: 2138.60, end: 2152.98}
-  - {text: "because radiation makes a really good visualization tool.", start: 2153.12, end: 2157.00}
-  - {text: "You can really trace it, the nitrogen and carbon cycles.", start: 2157.34, end: 2160.94}
-  - {text: "And they started thinking about these nitrogen and carbon cycles as feedback loops and in terms of information and communication too, which goes to show you", start: 2161.48, end: 2169.00}
-  - {text: "how widely these ideas were kind of interpreted.", start: 2169.00, end: 2172.52}
-  - {text: "And the reason I'm bringing ecology is because there was a close integration to how people were thinking about urban systems and environmental systems.", start: 2173.04, end: 2180.38}
-  - {text: "And the fact that you could manage an environment and an urban system with the same tools, the same idea, if you could map all the kind of feedback loops and you could turn everything into a flow chart, you could plan better.", start: 2180.62, end: 2196.46}
-  - {text: "You could manage the ecosystem better or the city.", start: 2196.68, end: 2199.94}
-  - {text: "And so there was a lot of interchange between the two.", start: 2200.40, end: 2203.04}
-  - {text: "And people like Buckminster Fuller, who's a really prominent kind of technologist and futurist, started imagining cities like New York City as sort of these metabolic systems.", start: 2203.34, end: 2214.60}
-  - {text: "And eventually, this went all the way up to the planet in a famous report called Limits to Growth in the 1970s that started the contemporary environmental movement and was an effort to computationally model all the world systems,", start: 2215.00, end: 2229.44}
-  - {text: "its environmental one and human ones, and try to understand the impact of human behavior on the planet.", start: 2229.92, end: 2235.82}
-  - {text: "So again, incredibly ambitious.", start: 2236.14, end: 2237.86}
-  - {text: "And tell us a bit more, Jacob, about how it's used in climate theory later on, particularly here in Britain.", start: 2238.26, end: 2244.04}
-  - {text: "So as Areitz mentioned, cybernetics influences ecological theory, a somewhat controversial ecological theory that influences is the Gaia hypothesis.", start: 2244.97, end: 2253.73}
-  - {text: "And that's promoted by a British scientist, James Lovelock, and an American microbiologist, Lynn Margulis.", start: 2254.23, end: 2259.55}
-  - {text: "And the Gaia hypothesis states that all of the organisms on the planet kind of exist in this network of feedback loops that exist to kind of keep the earth at a stable kind of habitable condition, right?", start: 2260.17, end: 2273.83}
-  - {text: "So they maintain the temperature, the humidity, the oxygen levels, and so on in a kind of habitable zone.", start: 2273.97, end: 2279.21}
-  - {text: "So in other words, life maintains the earth so that the earth can sustain life.", start: 2279.49, end: 2284.29}
-  - {text: "And that's controversial, A, because it's kind of too grand to prove, but B, because some people have used it to kind of claim that perhaps the earth could resist climate change, right?", start: 2284.81, end: 2295.13}
-  - {text: "It'll stay in a habitable zone.", start: 2295.35, end: 2297.01}
-  - {text: "Now when Lovelock first thinks about Gaia theory, he's not thinking about climate change.", start: 2297.75, end: 2302.27}
-  - {text: "He's thinking about cybernetics.", start: 2302.55, end: 2303.89}
-  - {text: "He speculates about a biological cybernetics system that will exist to keep an entire planet's physical and chemical kind of systems in a habitable zone.", start: 2304.09, end: 2313.67}
-  - {text: "But one of the interesting things, and I think this also touches on how and why cybernetics begins to disappear, is Lovelock and Gaia theory become", start: 2314.13, end: 2323.23}
-  - {text: "quite popular amongst more countercultural theorists of the environment.", start: 2323.23, end: 2327.15}
-  - {text: "So Lovelock joins an association called the Lindisfarne Association, which is a New Age utopian group where he meets other theorists of energy and ecology and", start: 2327.85, end: 2338.31}
-  - {text: "come up with all of these cybernetic utopian theories of kind of self stabilizing planetary systems.", start: 2338.31, end: 2343.87}
-  - {text: "And he publishes in about Gaia in a countercultural journal called Co -Evolution Quarterly, which is read by many other cyberneticians, the anthropologist Gregory Bateson, for example, also popular amongst the counterculture.", start: 2344.47, end: 2355.31}
-  - {text: "And these countercultural cyberneticians who are reading about Gaia theory really use themselves as a platform to elevate Gaia into this new ecological theory.", start: 2355.97, end: 2365.23}
-  - {text: "But at the same time, it becomes tinged with this countercultural kind of vibe that begins to sap its kind of scientific legitimacy amongst the self perceived serious scientists", start: 2365.45, end: 2375.73}
-  - {text: "who want cybernetics to become a serious field.", start: 2375.73, end: 2377.47}
-  - {text: "John, these days we don't hear much talk about cybernetics.", start: 2377.97, end: 2382.01}
-  - {text: "It seems to have dissipated.", start: 2382.61, end: 2385.49}
-  - {text: "But what are its main legacies?", start: 2386.01, end: 2388.33}
-  - {text: "What's important about cybernetics today?", start: 2388.65, end: 2390.81}
-  - {text: "So I think it's fair to say that throughout the history of cybernetics there's been opposition.", start: 2392.24, end: 2398.60}
-  - {text: "It's claimed too much.", start: 2399.12, end: 2400.58}
-  - {text: "It claims that humans, animals, machines, all equivalent, this upsets people.", start: 2401.44, end: 2407.48}
-  - {text: "And when it gets associated with radical politics and countercultural ideas for some people, this is too much.", start: 2408.20, end: 2416.28}
-  - {text: "So it's true to say that cybernetics, as a branch of science, I think dwindles in many areas.", start: 2416.54, end: 2423.24}
-  - {text: "But there are legacies.", start: 2423.92, end: 2425.66}
-  - {text: "In a way, it's gone from deep secrecy, from the war to everywhere within years.", start: 2426.26, end: 2431.70}
-  - {text: "That's from in the 1940s.", start: 2432.02, end: 2433.52}
-  - {text: "Now it's almost apparently nowhere.", start: 2434.38, end: 2437.56}
-  - {text: "We don't hear this term cybernetics.", start: 2437.82, end: 2439.66}
-  - {text: "But in fact, it is everywhere.", start: 2439.86, end: 2441.80}
-  - {text: "It's everywhere in the way we talk about AI, for example, just as Norbert Wiener in the book Human Use of Human Beings warns against the automatic factory", start: 2442.28, end: 2453.42}
-  - {text: "and says it's going to lead to mass automation and unemployment and devastating consequences for society.", start: 2453.42, end: 2460.30}
-  - {text: "Yet it has these fantastic opportunities if only we adopt the tool properly.", start: 2460.54, end: 2464.24}
-  - {text: "Do you recognize that kind of way of talking?", start: 2464.88, end: 2467.00}
-  - {text: "It's our way of talking about AI, the talk about whether or not it's conscious or not, the LLMs and the idea that we might be releasing machine consciousnesses into the world.", start: 2467.24, end: 2480.94}
-  - {text: "This is precisely the language of Norbert Wiener and the warnings.", start: 2481.84, end: 2486.22}
-  - {text: "So the whole way we've ended up talking about information and information in society and big organizations and the dangers of science and technology.", start: 2486.60, end: 2496.08}
-  - {text: "This comes out of this language about AI from the 1940s, a way of talking about technology.", start: 2496.62, end: 2503.04}
-  - {text: "So one of its legacies is, in some ways, a rather unhelpful way of talking about technology that only has these extremes of abundance and a world of leisure", start: 2503.54, end: 2517.22}
-  - {text: "or world destruction and mass unemployment and worse.", start: 2517.22, end: 2522.82}
-  - {text: "And we're trapped into ways of talking about machines being conscious in a way that is frankly unhelpful.", start: 2523.28, end: 2529.02}
-  - {text: "So one of the legacies, unfortunately, is I think a style of talking about technology.", start: 2529.54, end: 2533.76}
-  - {text: "My thanks to Jacob Ward, John Agar and Areet Halpen.", start: 2534.42, end: 2538.22}
-  - {text: "Next week, Fall In for the Redetzky March.", start: 2539.06, end: 2541.86}
-  - {text: "That's the life and works of Josef Rot, a master of Central European literature.", start: 2542.24, end: 2547.36}
-  - {text: "Thank you for listening.", start: 2548.02, end: 2549.30}
-  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2550.04, end: 2556.70}
-  - {text: "Okay, so now we can do the podcast bit where we relax a little.", start: 2557.52, end: 2563.10}
-  - {text: "Um, first of all, there's one thing that I wanted to ask when I was reading about this, when you were talking about this, there was one person I kept thinking about, and that was Marshall McLuhan.", start: 2564.42, end: 2573.98}
-  - {text: "So do any of you have any thoughts about how important this was for McLuhan's work, the sociologist and communications theorist?", start: 2574.94, end: 2585.62}
-  - {text: "And in particular, the medium is the message, which seems to somehow be intrinsic to cybernetics.", start: 2586.02, end: 2592.68}
-  - {text: "Areet? I mean, I can say that it was extremely influential because I think people have to remember that at the time, cybernetics was the kind of language for computing.", start: 2593.28, end: 2604.84}
-  - {text: "I think John already mentioned that it really established a way of thinking about media and thinking about technology.", start: 2605.78, end: 2611.44}
-  - {text: "It was also incredibly influential to many of the artistic and avant -garde kind of milieus that McLuhan often engaged with.", start: 2611.72, end: 2622.26}
-  - {text: "And also because cybernetics was so invested in making it not just about computers.", start: 2622.76, end: 2630.32}
-  - {text: "You know, one of the most remarkable things about this movement is the way it moves into modeling social systems, brains, humans that really very quickly established", start: 2631.14, end: 2642.98}
-  - {text: "that idea that the medium is indeed the message because the medium is anything.", start: 2642.98, end: 2647.38}
-  - {text: "It doesn't just have to be digital.", start: 2647.76, end: 2649.74}
-  - {text: "McLuhan's also got this idea of media technology to be extensions of the human.", start: 2650.22, end: 2655.50}
-  - {text: "Yeah. Right. So there's a sort of seamlessness back and forth between the machine and the human in McLuhan's way of talking, which I think has", start: 2655.92, end: 2664.74}
-  - {text: "got a cybernetic feel about it for sure.", start: 2664.74, end: 2667.26}
-  - {text: "The other thing is I think like a lot of cyberneticians, Marshall McLuhan is at that sort of edge of intellectual disrespectability and is also extremely exciting, right?", start: 2668.12, end: 2678.06}
-  - {text: "There's something in common with a lot of the cyberneticians and someone like Marshall McLuhan as these intellectual figures who are constantly surprising and challenging and going where you don't think you should go,", start: 2678.66, end: 2692.58}
-  - {text: "which is both exciting but also slightly upsetting.", start: 2693.14, end: 2695.58}
-  - {text: "And I think that just also points to again, one of the reasons cybernetics begins to fracture a little bit.", start: 2695.94, end: 2700.82}
-  - {text: "You know, for example, when it comes to information, right, one of the key debates in cybernetics is do we think of information as purely kind of something that can be mathematically calculated or are we thinking about semantics, how much meaning information has,", start: 2701.02, end: 2711.34}
-  - {text: "which is very interesting to linguists, for example, but people like Claude Shannon don't want it to go in that direction.", start: 2711.36, end: 2717.90}
-  - {text: "And so when you have characters like McLuhan or in another direction, Gregory Bateson, the anthropologist, for example, who really wants to push cybernetics into a completely kind of different direction thinking about the relationship between the human mind and nature and ecology,", start: 2718.16, end: 2732.06}
-  - {text: "that again, these figures like McLuhan, like Bateson who are pushing cybernetics further and further, then the center cannot hold.", start: 2732.74, end: 2740.18}
-  - {text: "I do also want to mention the Cold War elements.", start: 2740.42, end: 2743.52}
-  - {text: "Cybernetics in many accounts also began losing its luster because of its appeal to socialist and communist causes, not just the cyber scene example, which is", start: 2744.24, end: 2755.96}
-  - {text: "actually a potent example of an alternative visions of cybernetics.", start: 2755.96, end: 2759.16}
-  - {text: "There was also a Soviet cybernetics.", start: 2759.38, end: 2761.44}
-  - {text: "And in fact, the very use of the term artificial intelligence came up to get American military funding outside of the rubric of cybernetics.", start: 2762.10, end: 2771.44}
-  - {text: "And some of it is said to be that Marvin Minsky didn't like Norbert Wiener, but outside of that was probably a more sinister problem that cybernetics did actually have these possibilities of social management and planning a possibly socialist bent.", start: 2771.56, end: 2791.04}
-  - {text: "Just on that to follow up, was there something identifiably specific about Soviet cybernetics that was different from Western cybernetics?", start: 2791.42, end: 2800.94}
-  - {text: "In the Soviet Union, attitudes of cybernetics undergo a complete reversal.", start: 2801.40, end: 2807.42}
-  - {text: "So during the sort of Stalinist years, so when cybernetics is published, cybernetics is defined in a Soviet encyclopedia as a reactionary Western pseudoscience that is all about the control of the worker and to make it in, make the worker into an instrument of war, right, and therefore should be rejected.", start: 2808.36, end: 2826.98}
-  - {text: "After Kristjof says Stalin was a bit of a mistake, as a cult of personality, we should maybe think about something different.", start: 2827.80, end: 2835.12}
-  - {text: "This opens the door to scientists in in Soviet institutes, research institutes, and suddenly cybernetics and for a few years as well.", start: 2835.66, end: 2851.84}
-  - {text: "So it really does mean different things in different countries and at different times.", start: 2852.32, end: 2856.56}
-  - {text: "So Jacob, if I understood rightly what you were saying, cybernetics falls into obscurity because of its own success, because it's taken up by so many disciplines", start: 2857.16, end: 2871.18}
-  - {text: "that it no longer has that clear identity that it had at the beginning.", start: 2871.18, end: 2876.74}
-  - {text: "Would that roughly be right?", start: 2877.00, end: 2878.34}
-  - {text: "I mean, that's one element, certainly that you have biologists and social scientists who are involved in this cybernetic milieu in the 1950s, and eventually the kind of common ground disappears", start: 2878.34, end: 2889.60}
-  - {text: "and they just go back to their own disciplines and integrate cybernetic concepts into their work without explicitly calling it cybernetics.", start: 2889.60, end: 2896.22}
-  - {text: "But there are still people who try to champion the cause of cybernetics and kind of reinvent it for new applications, and that continues in in things like systems,", start: 2896.66, end: 2905.00}
-  - {text: "science, you know, there's societies for systems research that still talk about cybernetics, and that's been called first order cybernetics.", start: 2905.26, end: 2911.82}
-  - {text: "So the cybernetics of the closed system where you're trying to engineer and optimize a system.", start: 2912.00, end: 2915.74}
-  - {text: "And then there's people who talk about second order cybernetics or second order science.", start: 2916.44, end: 2920.00}
-  - {text: "And that's this idea that you have to be aware of your own role as a scientist, as a researcher, as an observer in a cybernetic system.", start: 2920.34, end: 2927.44}
-  - {text: "So it's not just the system is closed with its own feedback loops, there's feedback loops between you and the system.", start: 2927.54, end: 2932.90}
-  - {text: "So if you change the system changes, if the system changes, you change.", start: 2933.26, end: 2936.86}
-  - {text: "And this leads to all of these slightly kind of wacky ideas about consciousness transformation.", start: 2937.18, end: 2940.96}
-  - {text: "But that continues also to the present day in societies and academics looking at, you know, again, nature and ecology and consciousness and what are the relationship between these things.", start: 2941.66, end: 2951.44}
-  - {text: "Reid, anything else you think we've missed out in the discussion that's critical?", start: 2952.18, end: 2957.34}
-  - {text: "I think that it's really interesting to also contemplate the place cybernetics has in in amending or augmenting flawed human capacities and that kind of imaginary that was really pretty potent.", start: 2958.63, end: 2973.39}
-  - {text: "It comes out in the telephone exchange.", start: 2973.57, end: 2975.13}
-  - {text: "It comes out in the idea of game theory, which is like a related science, which is that like, what if people are too emotional and blow up the world?", start: 2975.71, end: 2983.77}
-  - {text: "And so we need computers to step in and kind of make better decisions.", start: 2984.11, end: 2988.17}
-  - {text: "And it comes out a lot in smart cities in our present as people in the 60s like Buckminster Fuller, but also people at Rand, which was an Air Force funded research institute in Santa Monica", start: 2988.31, end: 3003.99}
-  - {text: "started switching from warfare to welfare and started taking over things like urban management.", start: 3004.59, end: 3010.71}
-  - {text: "They increasingly turn to dealing with political problems by saying, let's have a technological solution.", start: 3011.44, end: 3017.87}
-  - {text: "Let's quantify. Let's let's have data driven decision making.", start: 3018.19, end: 3022.21}
-  - {text: "Let's add this machinery.", start: 3022.79, end: 3024.53}
-  - {text: "And that continues to really inform our attitude to the world maybe today, where a lot of times political decision making is getting replaced or transformed by computational decision making.", start: 3024.83, end: 3037.97}
-  - {text: "And that sits there at that government question of cybernetics and what the implications of governance are from technology.", start: 3037.97, end: 3045.59}
-  - {text: "Jacob, you wanted to come in there.", start: 3046.23, end: 3047.67}
-  - {text: "Yeah, I think this point about cybernetics as a decision making tool is really key.", start: 3047.95, end: 3052.07}
-  - {text: "And it's something that you see come up in many other things at the time at Rand and elsewhere, looking at cybernetics as a way to", start: 3052.19, end: 3057.47}
-  - {text: "think about how can we make decisions better?", start: 3057.47, end: 3059.03}
-  - {text: "How can we optimize systems?", start: 3059.19, end: 3060.39}
-  - {text: "There's an overlap with another field, another post war science that dies away, which is the science of futurology.", start: 3061.15, end: 3067.43}
-  - {text: "How can you predict the future using different techniques?", start: 3067.63, end: 3070.57}
-  - {text: "And for example, Daniel Bell, the famous American sociologist, he chairs a commission on the year 2000 in the 1960s in the USA.", start: 3071.27, end: 3077.81}
-  - {text: "And in his book, The End of Ideology, he talks about how cybernetics is one of these decision sciences, which can help build through rational decision making, help us build a utopia.", start: 3078.43, end: 3089.55}
-  - {text: "So there's this really this kind of utopia through automated decision tools and cybernetic decision tools and decision sciences.", start: 3089.89, end: 3095.79}
-  - {text: "So finally, there's been a lot of literary speculation about machines and humans and and cyborgs.", start: 3096.41, end: 3105.47}
-  - {text: "Are we getting to a stage where all of that dystopian vision is actually possibly becoming a reality?", start: 3105.87, end: 3113.01}
-  - {text: "John? So in 1952, Kurt Vonnegut published his first novel, Player Piano, in which it's a dystopia all about the terrible effects of automation.", start: 3113.59, end: 3125.98}
-  - {text: "And the sort of leader of the whole terrible system is a character called Wiener.", start: 3126.92, end: 3133.42}
-  - {text: "So right if you're talking fiction, and Kurt Vonnegut is one of the very best of the the pessimistic thinkers about our world, about war, about destruction", start: 3135.02, end: 3147.46}
-  - {text: "and about science and technology in the future.", start: 3147.46, end: 3150.34}
-  - {text: "Right from the very start of his work, we have Norbert Wiener and Cybernetics.", start: 3151.60, end: 3157.16}
-  - {text: "I think Martha's coming in with an offer of...", start: 3157.84, end: 3160.96}
-  - {text: "Tea or coffee? I'll take a tea.", start: 3160.96, end: 3162.44}
-  - {text: "Love a cup of tea.", start: 3162.78, end: 3163.42}
-  - {text: "In our time with Misha Glen, he was produced by Martha Owen.", start: 3164.58, end: 3168.97}
-  - {text: "It's a BBC Studios production for Radio 4.", start: 3169.41, end: 3171.93}
-  - {text: "If you've got a scrolling problem, then this is the podcast for you.", start: 3172.53, end: 3175.31}
-  - {text: "It's called Top Comment with Me Matt Shea and Me Marianna Spring.", start: 3175.67, end: 3178.59}
-  - {text: "We both investigate social media for a living, whether it's disinformation, conspiracy theories, internet culture, memes.", start: 3178.81, end: 3185.11}
-  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3185.67, end: 3189.33}
-  - {text: "That's Top Comment on BBC Sounds.", start: 3189.77, end: 3191.79}
+  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.20, end: 14.24, zh: "在《Woman's Hour》节目里，没有我们不会报道的故事，核心就是这件事对女性来说为什么相关且重要。（Woman's Hour BBC Radio 4 的知名女性话题节目；relevant 相关的）"}
+  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08, zh: "我能和许多了不起的女性交谈，听她们的故事，和她们一起笑、一起哭。（incredible 极好的，了不起的）"}
+  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different.", start: 21.26, end: 26.58, zh: "人们信任节目里的对话，我觉得他们知道能听到一些与众不同的内容。（conversations 对话；different 不同的）"}
+  - {text: "I think I have one of the best jobs in broadcasting.", start: 27.06, end: 29.56, zh: "我觉得我拥有广播界最好的工作之一。（broadcasting 广播业）"}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.34, end: 32.92, zh: "《Woman's Hour》，请在 BBC Sounds 收听。（BBC Sounds BBC 的音频流媒体平台）"}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 34.74, end: 43.56, zh: "这是 BBC Radio 4 的《In Our Time》节目，这是你可以在《In Our Time》档案库中找到的超过一千集节目中的一集。（In Our Time BBC Radio 4 的知识类播客；archive 档案库）"}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 44.40, end: 49.28, zh: "本期的阅读列表可以在你收听节目的任何平台的节目描述中找到。（reading list 阅读列表；description 描述）"}
+  - {text: "I hope you enjoy the program.", start: 49.84, end: 51.20, zh: "希望您喜欢这期节目。（enjoy 享受，喜欢）"}
+  - {text: "Hello. Before cybercrime, cyber security and cyberpunk there was cybernetics.", start: 51.92, end: 58.16, zh: "你好。在网络安全、网络犯罪和网络朋克之前，先有控制论。（cybercrime 网络犯罪；cyber security 网络安全；cyberpunk 网络朋克）"}
+  - {text: "The writer William Gibson first used the term cyberspace in the 1980s and the prefix cyber has become a way to denote anything which relates to digital technology and the internet.", start: 58.66, end: 69.74, zh: "作家威廉·吉布森在 20 世纪 80 年代首次使用“赛博空间”一词，前缀 cyber 已成为指代任何与数字技术和互联网相关事物的方式。（William Gibson 威廉·吉布森，科幻作家；cyberspace 赛博空间；prefix 前缀）"}
+  - {text: "But cyber originated even earlier in the 1940s with cybernetics, the study of communication and control in animals and machines.", start: 70.46, end: 80.14, zh: "但“cyber”这个词的起源更早，可以追溯到20世纪40年代的“控制论”，即研究动物和机器中通信与控制机制的学科。（cyber 赛博，源自控制论；cybernetics 控制论）"}
+  - {text: "Cybernetics had taken its name from the ancient Greek word for steersman, the person who stands at the helm of a ship to steer or govern its course.", start: 81.24, end: 89.38, zh: "控制论这个名字源自古希腊语中“舵手”一词，指站在船舵前掌舵或指挥航向的人。（steersman 舵手；helm 船舵）"}
+  - {text: "In cybernetics, everything could be seen as a system which used so -called feedback loops to adjust its own course of action, from thermostats to the human brain.", start: 90.14, end: 100.26, zh: "在控制论中，一切都可以被视为一个系统，利用所谓的“反馈回路”来调整自身的行动轨迹，从恒温器到大脑都是如此。（feedback loops 反馈回路；thermostats 恒温器）"}
+  - {text: "Well, with me to discuss cybernetics are Jacob Ward, historian of science and technology at Maastricht University, John Agar, professor of science and technology studies at University College London,", start: 100.96, end: 113.00, zh: "今天和我一起探讨控制论的嘉宾有：马斯特里赫特大学的科技史学家雅各布·沃德，伦敦大学学院的科技研究教授约翰·阿加，（Maastricht University 马斯特里赫特大学；University College London 伦敦大学学院）"}
+  - {text: "and Arete Halpin, lighthouse professor and chair of digital cultures at the Technische Universität in Dresden.", start: 113.70, end: 120.88, zh: "以及德累斯顿工业大学数字文化领域的灯塔教授兼系主任阿瑞特·哈尔平。（Technische Universität 工业大学；lighthouse professor 灯塔教授，指顶尖学者）"}
+  - {text: "Arete, I'd like to come to you first.", start: 121.76, end: 124.36, zh: "阿瑞特，我想先请你来说说。"}
+  - {text: "Cybernetics emerges after the Second World War.", start: 125.48, end: 128.92, zh: "控制论诞生于第二次世界大战之后。"}
+  - {text: "So can you tell us what it was about that conflict in particular that was such a challenge both for the military and for scientists?", start: 129.26, end: 137.14, zh: "那么你能告诉我们，这场冲突中有什么特别之处，使得它对军方和科学家都构成了巨大的挑战吗？"}
+  - {text: "Well, Blitzkrieg, Total War, when we think of World War II, it comes under these very totalizing terms that imply the fact that there were entirely new kind of groupings of technology", start: 137.82, end: 151.44, zh: "嗯，闪电战、总体战，当我们想到二战时，脑海中浮现的是这些极具概括性的词汇，它们暗示了当时出现了全新的技术组合，（Blitzkrieg 闪电战；Total War 总体战）"}
+  - {text: "and media coming together to battle this war.", start: 151.44, end: 154.28, zh: "以及媒体与技术的结合，共同投入这场战争。"}
+  - {text: "And we had indeed a new scale and speed of warfare, Blitzkrieg, aerial warfare, but also a new media, radio, for example, had put Hitler on power, cinema, propaganda.", start: 155.26, end: 169.58, zh: "我们确实面临了战争规模和速度的全新变化，比如闪电战、空中作战，还有像广播这样的新媒介，它帮助希特勒上台，以及电影和宣传。（Blitzkrieg 闪电战；propaganda 宣传）"}
+  - {text: "So you have an entirely new combination of things that people had to deal with and contend with and scientists and engineers had to.", start: 170.64, end: 177.56, zh: "因此，人们不得不应对和应对一系列全新的组合，科学家和工程师也是如此。（contend with 应对，处理）"}
+  - {text: "And in the face of the kind of speed of battle in the Blitzkrieg, a new level and size of scientific endeavor emerged as the United States and Great Britain mobilized.", start: 177.78, end: 190.54, zh: "面对闪电战那种战斗速度，随着美国和英国动员起来，一种新层次和规模的科学事业应运而生。（mobilized 动员；endeavor 事业，努力）"}
+  - {text: "They recruited scientists, engineers, but not just scientists and engineers, also psychologists, anthropologists, sociologists.", start: 190.88, end: 197.54, zh: "他们招募了科学家、工程师，但不止于此，还有心理学家、人类学家和社会学家。（anthropologists 人类学家；sociologists 社会学家）"}
+  - {text: "This was Total War.", start: 197.72, end: 198.56, zh: "这就是总体战。（Total War 总体战）"}
+  - {text: "And like I said, it mattered as much how we influenced people's brains and minds and propaganda as the actual technologies and kind of material structures of the war.", start: 198.88, end: 209.40, zh: "正如我所说的，影响人们大脑和思想的宣传，与战争的实际技术和物质结构同样重要。（propaganda 宣传）"}
+  - {text: "And so under this condition, particularly during the Battle of Britain, at MIT, people started being concerned about war happening at speeds beyond the ability of human beings to process.", start: 210.06, end: 221.90, zh: "在这种条件下，特别是在不列颠之战期间，麻省理工学院的人们开始担心战争速度超出了人类处理的能力。（Battle of Britain 不列颠之战；MIT 麻省理工学院）"}
+  - {text: "MIT being the Massachusetts Institute of Technology.", start: 222.34, end: 226.04, zh: "麻省理工学院即马萨诸塞理工学院。（MIT 麻省理工学院）"}
+  - {text: "And at MIT, they were working on a particular issue that really kind of, I think, identified this war, which was a new idea that information and communication,", start: 226.84, end: 236.88, zh: "在麻省理工学院，他们正在研究一个特定问题，我认为这真正定义了这场战争，那就是信息和通信……（information 信息；communication 通信）"}
+  - {text: "in some sense, is power and that you have to manage and control them to win the battle.", start: 237.30, end: 241.96, zh: "在某种意义上，信息和通信就是权力，你必须管理和控制它们才能赢得战斗。（power 权力，力量）"}
+  - {text: "And at MIT, they were working on radar, which is basically how do you see the enemy before they see you, right?", start: 242.60, end: 248.88, zh: "在麻省理工学院，他们正在研究雷达，这基本上就是如何在敌人发现你之前先发现他们，对吧？（MIT 麻省理工学院；radar 雷达）"}
+  - {text: "And along with the radar, they were also working on a certain question of basically how do you shoot a plane down, which isn't that easy because it's moving pretty fast,", start: 249.46, end: 257.98, zh: "除了雷达，他们还在研究如何击落飞机，这并不容易，因为飞机移动速度很快，"}
+  - {text: "and how do you process signals, which it sounds pretty simple to see a plane, but really telling a plane from a flock of birds is not", start: 258.24, end: 265.18, zh: "以及如何处理信号，听起来看飞机挺简单的，但要把飞机和一群鸟区分开来其实并不……"}
+  - {text: "that easy when you're trying to figure out how radio waves are changing.", start: 265.18, end: 268.02, zh: "容易，尤其是在试图弄清楚无线电波是如何变化的时候。（signals 信号；radio waves 无线电波）"}
+  - {text: "And basically, you need to predict where the machine will be.", start: 268.50, end: 271.60, zh: "基本上，你需要预测那架飞机将会出现在哪里。"}
+  - {text: "So people were preoccupied with signal processing, but they're also preoccupying with where the plane will be.", start: 272.06, end: 276.98, zh: "所以人们专注于信号处理，同时也关注飞机将会出现在哪里。"}
+  - {text: "And under these conditions, bringing together mathematicians and engineers together, certain people, Norbert Wiener, a mathematician at MIT, being one of them, started thinking that maybe people act repeatedly, repetitively or mathematically or algorithmically under stress.", start: 277.14, end: 294.62, zh: "在这种条件下，数学家和工程师聚集在一起，其中一些人，比如麻省理工学院的数学家诺伯特·维纳，开始思考也许人们在压力下会重复、有规律地或按数学/算法方式行动。（Norbert Wiener 诺伯特·维纳；algorithmically 按算法方式）"}
+  - {text: "That is to say that pilots, for example, might veer left or right at systematic and regular basis.", start: 294.82, end: 300.94, zh: "也就是说，例如飞行员可能会以系统且规律的方式向左或向右偏转。（veer 偏转，转向）"}
+  - {text: "So the fundamental innovation here was to, A, try to mathematically calculate human behavior and to make it seem mechanical, basically, so making machines and humans equivalent.", start: 301.71, end: 312.78, zh: "因此，这里的基本创新是，A，尝试用数学计算人类行为，使其看起来像是机械的，基本上就是让机器和人类等同起来。"}
+  - {text: "And secondly, to basically attempt to understand the whole world in terms of information or communication.", start: 313.30, end: 319.58, zh: "其次，就是尝试从信息或通信的角度来理解整个世界。"}
+  - {text: "Let me just drill down a little bit on that issue of humans and machines that you raise.", start: 320.04, end: 327.06, zh: "让我就你提出的这个人与机器的问题深入探讨一下。（drill down 深入挖掘，详细探讨）"}
+  - {text: "So researchers are trying to create models around the world to tackle this issue of total war.", start: 327.06, end: 334.72, zh: "因此，研究人员正在全球范围内建立模型，以应对全面战争这一议题。（tackle 解决，应对；total war 全面战争）"}
+  - {text: "But what was new about the models in terms of that relationship between humans and machines?", start: 335.16, end: 340.96, zh: "但在人与机器的关系方面，这些模型有什么新特点呢？"}
+  - {text: "One of the key features, especially in cybernetics, was the idea of feedback.", start: 341.70, end: 346.16, zh: "其中一个关键特征，尤其是在控制论中，就是反馈的概念。（cybernetics 控制论；feedback 反馈）"}
+  - {text: "There's a relationship going on, in this case, between the gun and the plane, not a very friendly one, but nonetheless, a relationship.", start: 347.14, end: 355.18, zh: "这里存在一种关系，具体来说是炮和飞机之间的关系，虽然不太友好，但毕竟是一种关系。（nonetheless 尽管如此，然而）"}
+  - {text: "They're in some sense talking to each other in the mathematical modes of communication that what the plane does gets the gun to change its behavior", start: 357.06, end: 367.98, zh: "从某种意义上说，它们在进行数学层面的交流，飞机的动作会促使炮改变行为，（mathematical modes 数学模式；behavior 行为）"}
+  - {text: "and what the gun does impacts what the plane is doing.", start: 367.98, end: 371.70, zh: "而炮的动作也会影响飞机的行动。（impacts 影响）"}
+  - {text: "And so people started to think about things not as separate objects, but as always relational or communicating objects and trying to turn that communication into something they could mathematically represent or compute.", start: 372.28, end: 388.08, zh: "于是人们开始不再把事物看作独立的个体，而是视为始终处于关系或交流中的对象，并试图将这种交流转化为可以用数学表示或计算的东西。（relational 关系的；compute 计算）"}
+  - {text: "Okay, so in 1948, three years after the end of the war, Norbert Wiener, who you just mentioned, Erite, publishes a book called Cybernetics.", start: 389.00, end: 401.08, zh: "好的，1948年，也就是战争结束三年后，你刚才提到的诺伯特·维纳出版了一本名为《控制论》的书。（Norbert Wiener 诺伯特·维纳，控制论创始人；Cybernetics 控制论）"}
+  - {text: "John Agar, can you tell us about that book and something about Norbert Wiener as well?", start: 401.88, end: 408.08, zh: "约翰·阿加，你能介绍一下那本书以及诺伯特·维纳这个人吗？（John Agar 约翰·阿加，嘉宾名）"}
+  - {text: "Yeah, because as I've always just been saying, Cybernetics is born from this very specific moment of warfare, of an anti -aircraft gun trying to track an oncoming aircraft or bomber.", start: 408.66, end: 424.30, zh: "是的，因为正如我一直所说，控制论诞生于一个非常具体的战争时刻，即高射炮试图追踪来袭飞机或轰炸机的时候。（Cybernetics 控制论；anti-aircraft gun 高射炮）"}
+  - {text: "Very, very specific, also very, very secret.", start: 425.00, end: 427.44, zh: "非常、非常具体，而且也非常、非常机密。（secret 机密的，保密的）"}
+  - {text: "But within a few years, it's going to be a science that is known to tens of thousands of people.", start: 428.08, end: 435.74, zh: "但在短短几年内，它就变成了一门被数万人所熟知的科学。（tens of thousands 数以万计）"}
+  - {text: "And it's also given a name, which is Cybernetics.", start: 436.76, end: 438.78, zh: "它也被赋予了名字，也就是控制论。（Cybernetics 控制论）"}
+  - {text: "Now, why that happens is because of one of the mathematicians that was at the heart of the work being done on anti -aircraft prediction at Massachusetts Institute of Technology.", start: 439.70, end: 451.72, zh: "之所以会发生这种情况，是因为麻省理工学院有一位数学家处于反飞机预测工作的核心。（Massachusetts Institute of Technology 麻省理工学院；anti-aircraft prediction 反飞机预测）"}
+  - {text: "That mathematician was Norbert Wiener.", start: 452.28, end: 454.44, zh: "这位数学家就是诺伯特·维纳。（Norbert Wiener 诺伯特·维纳，控制论创始人）"}
+  - {text: "Now Norbert Wiener is a really interesting figure.", start: 455.28, end: 458.02, zh: "诺伯特·维纳是一个非常有意思的人物。（figure 人物，角色）"}
+  - {text: "He was a child prodigy.", start: 458.70, end: 460.94, zh: "他是个神童。（child prodigy 神童，天才儿童）"}
+  - {text: "He was born at the end of the 19th century.", start: 461.26, end: 463.80, zh: "他出生于19世纪末。（19th century 19世纪）"}
+  - {text: "He, the child prodigy in a sense that he was reading at the age of four.", start: 464.72, end: 469.18, zh: "作为神童，他四岁时就已经在阅读了。（prodigy 神童；reading 阅读）"}
+  - {text: "He did his undergraduate degree in his teens.", start: 469.62, end: 471.94, zh: "他在十几岁的时候就完成了本科学位。（undergraduate degree 本科学位）"}
+  - {text: "He had his PhD done by the age of 18.", start: 472.24, end: 474.82, zh: "他在18岁时就拿到了博士学位。（PhD 博士学位）"}
+  - {text: "He was homeschooled, fearsomely homeschooled by his father, Leo Wiener, who had his own ideas about education.", start: 475.78, end: 484.38, zh: "他是被父亲利奥·维纳在家教育的，而且教得非常严格，因为利奥对教育有着自己独到的见解。（homeschooled 在家教育；Leo Wiener 利奥·维纳，数学家）"}
+  - {text: "So he went through this very unusual upbringing and became in some sense known as a prodigy, as this young, incredibly bright person who for a", start: 485.14, end: 497.02, zh: "所以他经历了一种非常不寻常的成长过程，在某种程度上被称为神童，也就是一个非常年轻且极其聪明的人，当时他正……（upbringing 成长环境；prodigy 神童）"}
+  - {text: "while was trying to find out what he was good at.", start: 497.02, end: 498.82, zh: "……试图弄清楚自己擅长什么。（good at 擅长）"}
+  - {text: "But it turns out he was extremely good at mathematics.", start: 499.26, end: 501.40, zh: "但事实证明，他在数学方面极其出色。（mathematics 数学）"}
+  - {text: "And the war work he was doing there was turning that mathematics onto understanding aircraft predictors.", start: 502.12, end: 508.94, zh: "他在那里从事的战争相关工作，是将数学应用到了对飞机飞行轨迹的预测上。（aircraft predictors 飞机飞行轨迹预测器）"}
+  - {text: "And as he was doing that he was talking to people who understand the mind and brain and talking to engineers.", start: 509.54, end: 515.54, zh: "在做这些研究的同时，他也在与那些了解心智和大脑的人以及工程师们进行交流。（mind and brain 心智和大脑）"}
+  - {text: "And from that is born this idea that there could be a whole new science, a whole new way of understanding almost everything from machines to the mind to society to language.", start: 516.36, end: 528.76, zh: "由此诞生了这样一个理念：可能存在一门全新的科学，一种理解从机器到心智、从社会到语言等几乎所有事物的全新方式。（science 科学）"}
+  - {text: "So out of that is born this incredibly ambitious scientific program.", start: 529.28, end: 532.58, zh: "因此，这一极具雄心的科学计划便应运而生。（ambitious 雄心勃勃的；scientific program 科学计划）"}
+  - {text: "Now he wants to tell the world about that.", start: 533.14, end: 535.00, zh: "现在他想把这件事告诉全世界。"}
+  - {text: "And it appears in a book called Cybernetics.", start: 535.68, end: 539.40, zh: "它出现在一本名为《控制论》的书里。（Cybernetics 控制论）"}
+  - {text: "And it's given that term by Norbert Wiener.", start: 540.16, end: 543.52, zh: "这个术语是由诺伯特·维纳提出的。（Norbert Wiener 诺伯特·维纳，控制论创始人）"}
+  - {text: "He wanted the term that captures something about self -regulation and how things change and adapt through feedback.", start: 544.28, end: 551.20, zh: "他想要一个能体现自我调节、事物如何通过反馈机制改变和适应的术语。（self-regulation 自我调节；feedback 反馈）"}
+  - {text: "And he remembered this Greek word kybonites, which means steersman of a ship in Greek.", start: 551.76, end: 558.14, zh: "他记起了希腊语单词 kybonites，意思是船的舵手。（kybonites 舵手，希腊语词根）"}
+  - {text: "It's also got overtones of being a governor of a state.", start: 558.88, end: 562.94, zh: "这个词还带有治理国家统治者的意味。（governor 统治者，治理者）"}
+  - {text: "So it has a sort of ambitious character as well.", start: 563.22, end: 566.76, zh: "所以它具有一种宏大的特质。（ambitious 宏大的，有雄心的）"}
+  - {text: "And he writes this up in a book.", start: 567.50, end: 568.66, zh: "他把这些内容写成了一本书。"}
+  - {text: "It appears in 1948.", start: 569.56, end: 570.82, zh: "这本书出版于1948年。"}
+  - {text: "It's a very odd book.", start: 571.18, end: 572.46, zh: "这是一本非常奇特的书。"}
+  - {text: "It's full of mathematical equations.", start: 573.18, end: 575.02, zh: "里面充满了数学方程。（equations 方程）"}
+  - {text: "It starts with a essay on the nature of time.", start: 575.86, end: 579.10, zh: "它开篇是一篇关于时间本质的论文。（essay 论文；nature 本质）"}
+  - {text: "It ends with a reflection on how do you get machines to learn how to play chess and covers an awful lot in between.", start: 579.40, end: 586.66, zh: "结尾则是对如何让机器学会下棋的反思，中间涵盖了大量内容。（reflection 反思；covers 涵盖）"}
+  - {text: "And I have to say I attempted to read Cybernetics and I fell very early on at one of the first hurdles.", start: 587.56, end: 596.14, zh: "我得说，我尝试读过《控制论》，但很快就在一开始的一个难点上卡住了。（hurdles 障碍，难点）"}
+  - {text: "But he does point out that he wrote another book called The Human Use of Human Beings, which I've got a copy here, which he sort of describes in the introduction as as Cybernetics for dummies.", start: 596.30, end: 608.44, zh: "但他确实提到他写过另一本书叫《人类对人类的利用》，我手头有一本，他在序言里把它描述为某种“傻瓜版”的《控制论》。（Human Use of Human Beings 《人类对人类的利用》；dummies 傻瓜，外行）"}
+  - {text: "So can you define in as pithier way as possible what Cybernetics is?", start: 609.12, end: 616.52, zh: "那么你能尽可能简练地定义一下什么是《控制论》吗？（pithier 更简练的，更精炼的）"}
+  - {text: "So the subtitle of Cybernetics the book is Control and Communication in Animal and Machine.", start: 617.10, end: 621.90, zh: "所以《控制论》这本书的副标题是“动物和机器中的控制与通信”。（subtitle 副标题；Control and Communication 控制与通信）"}
+  - {text: "So it's this science which claims it can through understanding feedback processes, which is about communication and therefore about information, about the movement of information in and out of a system.", start: 622.88, end: 637.74, zh: "这是一门声称能通过理解反馈过程——即关于通信，进而关于信息，关于信息在系统内外的流动——来达成目标的科学。（feedback processes 反馈过程；information 信息）"}
+  - {text: "Through that, you have this way of understanding how machines can produce purposeful behavior, how minds might work, perhaps how societies change.", start: 638.40, end: 648.98, zh: "通过这种方式，你可以理解机器如何产生有目的的行为，心智可能如何运作，甚至社会如何变迁。（purposeful behavior 有目的的行为；societies 社会）"}
+  - {text: "So it's a science of feedback and communication and information.", start: 649.62, end: 653.88, zh: "所以，这是一门关于反馈、通信和信息的科学。（feedback 反馈；communication 通信）"}
+  - {text: "Thank you very much.", start: 654.76, end: 656.28, zh: "非常感谢。"}
+  - {text: "Jacob Ward, can you give us a better idea of these feedback loops, which seem to be so central to Cybernetics and also the idea of circular causality?", start: 656.44, end: 668.48, zh: "Jacob Ward，你能让我们更清楚地理解这些反馈回路吗？它们似乎对控制论至关重要，同时也涉及循环因果的概念。（feedback loops 反馈回路；Cybernetics 控制论；circular causality 循环因果）"}
+  - {text: "Yeah, so I'll start with the example that I introduced of the anti -aircraft gun trying to shoot down the enemy plane.", start: 669.34, end: 675.86, zh: "好的，我先从我之前提到的例子说起，就是高射炮试图击落敌机的情况。（anti-aircraft gun 高射炮）"}
+  - {text: "And the Norbert Wiener and his team at MIT were working on a device called a predictor that you would attach to the anti -aircraft gun", start: 676.82, end: 682.54, zh: "诺伯特·维纳和他在麻省理工学院的团队当时正在研发一种叫作“预测器”的装置，它会被安装在高射炮上。（Norbert Wiener 诺伯特·维纳；MIT 麻省理工学院；predictor 预测器）"}
+  - {text: "that would predict where the plane was going to be.", start: 682.54, end: 685.24, zh: "这个装置能预测飞机将会飞到哪里。"}
+  - {text: "It would use statistics to figure out the general predictable directions that the plane would take, use radar to detect where the plane had been, and move the anti -aircraft gun", start: 685.38, end: 694.40, zh: "它会利用统计学找出飞机可能采取的一般可预测方向，用雷达探测飞机之前所在的位置，并移动高射炮。（statistics 统计学；radar 雷达）"}
+  - {text: "so the gun could try and shoot down the plane.", start: 694.40, end: 697.26, zh: "这样高射炮就能尝试击落飞机。"}
+  - {text: "And crucially, as part of this kind of model of feedback and of Cybernetics, is that the predictor using radar could then detect whether or not it had shot down the plane.", start: 698.06, end: 706.92, zh: "关键在于，作为这种反馈和控制论模型的一部分，预测器可以利用雷达检测出是否已经击落了飞机。（Cybernetics 控制论）"}
+  - {text: "And if it had missed the plane, had moved the gun too far in one direction, for example, it could recalculate and move the gun again,", start: 707.28, end: 714.04, zh: "如果它没打中飞机，比如把炮移得离目标太远了，它就可以重新计算并再次移动高射炮。"}
+  - {text: "kind of taking into account what it had just calculated.", start: 714.34, end: 716.60, zh: "这相当于在考虑它刚刚计算出的结果。"}
+  - {text: "So the kind of key idea there is that this isn't a linear form of causality, it's not just the predictor moves the gun, the gun shoots down the plane, it's not x causes y,", start: 717.14, end: 727.94, zh: "所以这里的关键理念是，这并非线性的因果关系，不是预测器移动炮台，炮台击落飞机，简单的X导致Y。（linear 线性的；causality 因果关系）"}
+  - {text: "but it's that the predictor moves the gun, the gun shoots down the plane, or not, and then recalculates.", start: 728.08, end: 734.10, zh: "而是预测器移动炮台，炮台击落飞机或者没击落，然后重新计算。（recalculates 重新计算）"}
+  - {text: "So it's x causes y, y feeds back into x, and you just rinse and repeat until, hopefully, from the point of the anti -aircraft gun, you shoot down the plane.", start: 734.20, end: 743.18, zh: "所以是X导致Y，Y反馈给X，你只需反复循环，直到，希望从防空炮的角度，你击落了飞机。（feedback 反馈；anti-aircraft gun 防空炮）"}
+  - {text: "So this is this idea that in these systems, causality is not linear, but circular.", start: 743.76, end: 748.24, zh: "所以这就是在这些系统中，因果关系不是线性的，而是循环的。（circular 循环的）"}
+  - {text: "It has a goal, right?", start: 748.96, end: 750.04, zh: "它有一个目标，对吧？（goal 目标）"}
+  - {text: "This is not just a circular system that exists with no purpose, it has a goal.", start: 750.12, end: 754.22, zh: "这不仅仅是一个没有目的而存在的循环系统，它有一个目标。（purpose 目的）"}
+  - {text: "So these are circular systems that are goal seeking.", start: 754.60, end: 758.10, zh: "所以这些是追求目标的循环系统。（goal seeking 追求目标的）"}
+  - {text: "And they're always going through these circular causal loops of feedback in order to achieve their goal, whether or not that's shooting down a plane, or", start: 758.44, end: 766.24, zh: "它们总是通过这些循环的因果反馈回路来实现目标，无论那是击落飞机，还是……（loops 回路；feedback 反馈）"}
+  - {text: "whatever an animal does to survive in its environment.", start: 766.24, end: 768.20, zh: "或者动物为了在环境中生存所做的任何事。（survive 生存）"}
+  - {text: "So there's a purpose to cybernetics?", start: 768.20, end: 770.42, zh: "所以控制论是有目的的？（cybernetics 控制论）"}
+  - {text: "Absolutely. Norbert Wiener isn't, of course, the only figure in the story of cybernetics.", start: 770.52, end: 776.70, zh: "确实如此。诺伯特·维纳当然不是控制论故事中唯一的代表人物。（Norbert Wiener 诺伯特·维纳，控制论创始人；cybernetics 控制论）"}
+  - {text: "Can you tell us a bit about Claude Shannon and how he comes into all of this?", start: 777.21, end: 781.13, zh: "你能给我们讲讲克劳德·香农，以及他是如何卷入这一切的吗？（Claude Shannon 克劳德·香农，信息论之父）"}
+  - {text: "So Claude Shannon, like Wiener, is another fascinating individual, anthropics AI model Claude, is actually named after Claude Shannon.", start: 781.99, end: 789.09, zh: "克劳德·香农和维纳一样，也是一位非常迷人的人物，Anthropic公司的AI模型Claude实际上就是以克劳德·香农命名的。（anthropics AI model Claude Anthropic公司的AI模型Claude；named after 以……命名）"}
+  - {text: "And he is, he's a mathematician and electrical engineer who works at Bell Telephone Laboratories in the USA.", start: 791.67, end: 798.97, zh: "他是一位数学家和电气工程师，在美国贝尔电话实验室工作。（Bell Telephone Laboratories 贝尔电话实验室）"}
+  - {text: "And we've talked a lot about these systems as a kind of form of control, controlling the anti -aircraft gun, or controlling the animal, how the mind controls the animal.", start: 799.41, end: 808.95, zh: "我们之前讨论了很多关于这些系统作为某种控制形式的内容，比如控制高射炮，或者控制动物，即心灵如何控制动物。（anti-aircraft gun 高射炮；feedback loops 反馈回路）"}
+  - {text: "But the other crucial part of that is information, right?", start: 809.09, end: 811.53, zh: "但其中另一个关键部分是信息，对吧？（information 信息）"}
+  - {text: "If you're going to have these feedback loops, you want to make sure that there's a really clear signal of information being transmitted as part of that feedback.", start: 811.61, end: 819.05, zh: "如果你要建立这些反馈回路，你需要确保作为反馈一部分的信息信号传输非常清晰。（feedback loops 反馈回路；signal 信号）"}
+  - {text: "And both Shannon and Wiener, actually as part of their work during World War II, come up with mathematical theories that define what information is.", start: 820.03, end: 828.31, zh: "实际上，香农和维纳在二战期间的工作中，都提出了定义什么是信息的数学理论。（World War II 第二次世界大战；mathematical theories 数学理论）"}
+  - {text: "They're both trying to figure out, can you calculate mathematically how much information a message has?", start: 828.59, end: 833.91, zh: "他们都在试图弄清楚，能否用数学方法计算出一条消息包含多少信息。（calculate 计算；mathematically 用数学方法）"}
+  - {text: "Wiener is part of his anti -aircraft gunnery research.", start: 834.73, end: 837.37, zh: "维纳的这部分工作属于他的高射炮研究。（anti-aircraft gunnery 高射炮术；research 研究）"}
+  - {text: "For Shannon, it's part of his encryption and cryptography research.", start: 837.95, end: 841.81, zh: "对香农来说，这是他加密与密码学研究的一部分。（encryption 加密；cryptography 密码学）"}
+  - {text: "And so the interesting thing about their theories is they're almost exactly identical, except Shannon's definition of information is the opposite of Wiener's.", start: 842.53, end: 850.93, zh: "他们理论中有趣的地方在于，两者几乎完全相同，除了香农对信息的定义与维纳的正好相反。（identical 完全相同；Wiener 维纳，控制论创始人）"}
+  - {text: "So Wiener says, well, you know, the more predictable, the more clear a message is, the more information it has, which seems completely logical.", start: 851.07, end: 857.31, zh: "维纳认为，消息越可预测、越清晰，包含的信息量就越大，这听起来完全合乎逻辑。（predictable 可预测的）"}
+  - {text: "Shannon says, the less predictable, the more chaotic and messy and disordered a message is, the more information it has, which seems completely unintuitive.", start: 857.79, end: 865.71, zh: "香农则认为，消息越不可预测、越混乱无序，包含的信息量就越大，这听起来完全反直觉。（chaotic 混乱的；unintuitive 反直觉的）"}
+  - {text: "But if you think about it from the perspective of code breaking, Shannon was working on a system called Sigsley, also known as the mysterious Project X.", start: 866.09, end: 873.71, zh: "但如果从破译密码的角度思考，香农当时正在研究一个名为Sigsley的系统，也被称为神秘的X项目。（code breaking 破译密码；Sigsley 西格利，二战时期美国密码破译系统）"}
+  - {text: "He was working on it with people like Alan Turing, and it was to have an encrypted communications line between the allies.", start: 874.17, end: 879.75, zh: "他和艾伦·图灵等人一起工作，旨在为盟军建立一条加密通信线路。（Alan Turing 艾伦·图灵，计算机科学家；encrypted 加密的）"}
+  - {text: "It was used by people like Roosevelt and Churchill and Eisenhower.", start: 880.17, end: 883.97, zh: "罗斯福、丘吉尔和艾森豪威尔等人都使用过它。（Roosevelt 罗斯福，美国总统；Churchill 丘吉尔，英国首相）"}
+  - {text: "And if you think about information from a code breaking perspective, if you can perfectly predict a message, if you know what Churchill is going to send to Eisenhower,", start: 884.41, end: 892.33, zh: "如果你从破译的角度看信息，如果你能完美预测一条消息，比如你知道丘吉尔会给艾森豪威尔发什么……"}
+  - {text: "you don't need to spend any effort on breaking it.", start: 892.83, end: 894.89, zh: "你就不需要花任何精力去破译它。（effort 精力，努力）"}
+  - {text: "You don't get any new information by breaking the code.", start: 895.05, end: 897.25, zh: "通过破译密码，你得不到任何新信息。（breaking the code 破译密码）"}
+  - {text: "But if the message, the encrypted message, appears completely random, then you can't predict what they're saying.", start: 897.67, end: 902.33, zh: "但如果这条加密信息看起来完全随机，那你就无法预测他们到底在说什么。（encrypted 加密的；random 随机的）"}
+  - {text: "It's very hard to break the code.", start: 902.41, end: 903.89, zh: "破解这种密码非常困难。（break the code 破解密码）"}
+  - {text: "And if you do break the code, you get a lot more information.", start: 904.03, end: 906.67, zh: "而如果你真的破解了密码，你获得的信息量会大得多。（break the code 破解密码）"}
+  - {text: "So that's this completely unintuitive definition of information that he has.", start: 907.29, end: 910.23, zh: "这就是他提出的那个完全违背直觉的信息定义。（unintuitive 违背直觉的）"}
+  - {text: "Thank you, Jacob. There are two other characters in this early stage of cybernetics who I'm interested in.", start: 910.65, end: 917.39, zh: "谢谢你，雅各布。在控制论的早期阶段，还有另外两位人物是我感兴趣的。（cybernetics 控制论）"}
+  - {text: "One is Warren Sturgis McCulloch, and the other is Walter Pitz.", start: 917.69, end: 921.41, zh: "一位是沃伦·斯特吉斯·麦卡洛克，另一位是沃尔特·皮茨。（Warren Sturgis McCulloch 沃伦·斯特吉斯·麦卡洛克；Walter Pitz 沃尔特·皮茨）"}
+  - {text: "Can you tell us about them and how they influenced the way cybernetics developed?", start: 921.41, end: 926.19, zh: "你能告诉我们关于他们的情况，以及他们是如何影响控制论发展的吗？（cybernetics 控制论）"}
+  - {text: "Warren McCulloch was a psychiatrist, and actually had been in World War I on ships, wondering a little bit about signals and messages, but also as a psychiatrist,", start: 927.03, end: 940.83, zh: "沃伦·麦卡洛克是一名精神科医生，他实际上曾在一战期间在船上服役，对信号和信息有些好奇，但作为一名精神科医生……（psychiatrist 精神科医生；signals 信号）"}
+  - {text: "he also worked with a lot of people who'd undergone war trauma and things like that.", start: 940.93, end: 945.11, zh: "他也治疗了许多遭受过战争创伤的人。（trauma 创伤）"}
+  - {text: "And so he was really interested in these questions about hallucination, why people have traumatic experiences, how phantom limb, these kind of things that seem both very material and yet very imagined.", start: 945.29, end: 959.97, zh: "因此他对幻听、人们为何会有创伤性体验、幻肢痛这类问题非常感兴趣，这些现象既显得非常物质化，又非常虚幻。（hallucination 幻听；phantom limb 幻肢痛）"}
+  - {text: "And so he was really interested in this mind -body thing.", start: 960.51, end: 963.43, zh: "因此，他确实对身心关系这一话题非常感兴趣。（mind-body thing 身心关系）"}
+  - {text: "And Walter Pitz was another kind of mathematical genius who came out of a really impoverished background.", start: 964.19, end: 972.07, zh: "沃尔特·皮茨是另一位数学天才，出身于极其贫困的家庭。（Walter Pitz 沃尔特·皮茨，数学家；impoverished 贫困的）"}
+  - {text: "Didn't have really a formal education, but walked into the Detroit library, for example, at age 13 and picked up the Principale Mathematica, corrected it, apparently, wrote to Bertrand Russell, and got invited to Cambridge, but he was 13, so he couldn't go and also impoverished,", start: 972.33, end: 987.79, zh: "他几乎没有受过正规教育，但13岁时走进底特律图书馆，例如，拿起《数学原理》并指出了其中的错误，显然他写信给伯特兰·罗素，并受邀前往剑桥，但他才13岁，而且家境贫寒，所以无法成行。（Principale Mathematica 《数学原理》；Bertrand Russell 伯特兰·罗素，哲学家；Cambridge 剑桥）"}
+  - {text: "but managed to get picked up by Norbert Wiener and this group of cyber neticians as a potential prodigy and brought into this circle at MIT that was working on cybernetics.", start: 988.29, end: 1001.31, zh: "但他被诺伯特·维纳和这群控制论学者发掘，被视为潜在的天才，并由此进入了麻省理工学院那个研究控制论的圈子。（Norbert Wiener 诺伯特·维纳，控制论创始人；cyber neticians 控制论学者；MIT 麻省理工学院）"}
+  - {text: "And you have to remember that at this period of time, people didn't know what a machine was or what a brain was.", start: 1002.25, end: 1008.49, zh: "你必须记住，在那个时期，人们并不清楚机器是什么，也不清楚大脑是什么。（period of time 时期）"}
+  - {text: "We didn't have FMRIs and we didn't have digital computers.", start: 1008.61, end: 1012.37, zh: "那时我们既没有功能性磁共振成像，也没有数字计算机。（FMRIs 功能性磁共振成像；digital computers 数字计算机）"}
+  - {text: "We didn't have these kind of things.", start: 1012.71, end: 1013.99, zh: "我们当时没有这类技术。（these kind of things 这类事物/技术）"}
+  - {text: "And in fact, if we could start modeling human behavior mathematically and computationally, how would we rethink what people are and what machines are?", start: 1014.71, end: 1024.97, zh: "事实上，如果我们能用数学和计算的方式对人类行为进行建模，我们会如何重新思考人与机器的本质？（modeling 建模；computationally 计算上）"}
+  - {text: "And Warren McCullough and Walter Pitz under the influence of all these people modeling brains and modeling machines during the war started to ask, what is a man that he may know a number", start: 1024.97, end: 1039.79, zh: "沃伦·麦卡洛克和沃尔特·皮茨在战争期间受这些研究大脑和机器建模的人的影响，开始思考：人是什么，以至于他能认识一个数？（Warren McCullough 沃伦·麦卡洛克，神经科学家；Walter Pitz 沃尔特·皮茨；modeling 建模）"}
+  - {text: "and a number that it may be known by man?", start: 1040.27, end: 1042.39, zh: "以及一个数是什么，以至于它能被人所认识？（a number that it may be known by man 一个能被人类认识的数）"}
+  - {text: "Now this sounds like the kind of like obscure sort of like esoteric philosophical thing that none of us would care about, which maybe it is, but actually no.", start: 1042.51, end: 1052.07, zh: "听起来这好像是个晦涩难懂、只有哲学家才关心的冷门话题，可能确实如此，但其实不然。（obscure 晦涩的，难懂的；esoteric 深奥的，专门的）"}
+  - {text: "It's actually the foundation of AI today.", start: 1052.27, end: 1054.63, zh: "它其实是当今人工智能的基础。（foundation 基础，根基）"}
+  - {text: "And essentially it was a reframing of then shydenk's problem, which was a question of what's the limit of computation, what's the limit of what we can represent logically in the world.", start: 1055.53, end: 1065.81, zh: "本质上，这是对当时希尔伯特问题的重新审视，该问题探讨的是计算的极限，以及我们在逻辑上能表征世界的边界。（reframing 重新构建，重新定义；computation 计算；represent 表征，表示）"}
+  - {text: "And their answer to that wasn't an intuitive one.", start: 1066.87, end: 1070.53, zh: "而他们对这个问题的回答并非直觉性的。（intuitive 直觉的，凭直觉的）"}
+  - {text: "It was to build a new form of experiment.", start: 1070.75, end: 1073.13, zh: "而是构建了一种新的实验形式。（form 形式，形态）"}
+  - {text: "McCullough called these epistemological experiments.", start: 1073.93, end: 1076.69, zh: "麦卡洛克将这些称为认识论实验。（epistemological 认识论的，关于知识本质的）"}
+  - {text: "Why? Because they would test what we thought we knew about computing and what we thought we knew about thinking.", start: 1077.19, end: 1083.91, zh: "为什么？因为这些实验旨在检验我们对计算和思维既有认知的准确性。（test 检验，测试；computing 计算；thinking 思维）"}
+  - {text: "And the experiment went something like this.", start: 1084.89, end: 1087.41, zh: "这个实验大致是这样的。（something like 大致，类似于）"}
+  - {text: "Imagine you have a neuron, which we do.", start: 1087.95, end: 1090.51, zh: "想象你有一个神经元，我们确实有。（neuron 神经元）"}
+  - {text: "Imagine that the neuron fires on or off, which it does more or less a little more complexly.", start: 1090.97, end: 1098.29, zh: "想象这个神经元要么开火要么关闭，虽然实际情况稍微复杂一点，但大体如此。（fires 发射，激活；more or less 大致，差不多）"}
+  - {text: "Imagine that that on off is the equivalent of a logic statement.", start: 1098.29, end: 1102.89, zh: "想象一下，那个开和关的状态，就相当于一个逻辑陈述。（logic statement 逻辑陈述）"}
+  - {text: "True, false, right, wrong, yes, no.", start: 1103.37, end: 1107.45, zh: "也就是真、假，对、错，是、否。（true, false 真，假）"}
+  - {text: "If you imagine all these things, then we've just broken the entire brain body split.", start: 1108.03, end: 1113.97, zh: "如果你把这些都联系起来，那么我们就刚刚打破了整个脑与身的二元对立。（brain body split 脑身二元论，指心智与身体分离的观点）"}
+  - {text: "We've shown that there's actually a material grounding to the brain and to thought, to higher level thinking.", start: 1114.53, end: 1122.65, zh: "我们证明了大脑和思维，特别是高阶思维，实际上是有物质基础的。（material grounding 物质基础）"}
+  - {text: "And not only that, we've reframed both what a computer can be, because these are logical statements being made by supposedly a biological entity.", start: 1123.21, end: 1131.53, zh: "不仅如此，我们还重新定义了计算机可以是什么，因为这些是由所谓的生物体做出的逻辑陈述。（reframed 重新定义，重新构建框架）"}
+  - {text: "And we've rethought what a brain could be because it's built up from these little units.", start: 1132.15, end: 1137.51, zh: "我们也重新思考了大脑可能是什么，因为它是由这些微小单元构建起来的。（built up from 由……构建而成）"}
+  - {text: "Okay, let me take that on with you, Jacob, because as you pointed out, this is really the early history of artificial intelligence that they were beginning to explore.", start: 1138.72, end: 1150.26, zh: "好的，让我回应一下你，雅各布，因为正如你指出的，这确实是人工智能的早期历史，他们当时开始探索这个领域。（artificial intelligence 人工智能）"}
+  - {text: "Can you tell us, Jacob, what the difference between brain modeling is and mind modeling?", start: 1150.84, end: 1157.38, zh: "雅各布，你能告诉我们，大脑建模和心智建模有什么区别吗？（brain modeling 大脑建模；mind modeling 心智建模）"}
+  - {text: "And I really want you to be as simple as possible here, because I've been struggling with this.", start: 1157.90, end: 1163.20, zh: "我真的希望你这里说得尽可能简单，因为我在这一点上一直感到困惑。（struggling with 在……上挣扎，感到困难）"}
+  - {text: "Sure. So what I read has just been telling us about is the brain modeling side of artificial intelligence.", start: 1164.30, end: 1170.60, zh: "当然。所以我读到的内容，刚才一直在向我们介绍的是人工智能中关于大脑建模的那一面。（brain modeling 大脑建模）"}
+  - {text: "So this idea that if you can represent the nervous system, the brain, as a series of logical statements, and Claude Shannon had shown that you can also represent logical statements through electrical circuits, right?", start: 1171.04, end: 1184.78, zh: "所以这个想法是，如果你能把神经系统或大脑表示为一系列逻辑语句，而克劳德·香农已经证明逻辑语句也可以通过电路来表示，对吧？（nervous system 神经系统；Claude Shannon 克劳德·香农，信息论之父；logical statements 逻辑语句）"}
+  - {text: "It presumably follows that you can then use electrical circuits to recreate a nervous system that produces a kind of logical pattern of thought.", start: 1185.20, end: 1194.26, zh: "由此可以推断，你可以利用电路来重建一个能产生某种逻辑思维模式的神经系统。（presumably 大概，可能；recreate 重建，重现）"}
+  - {text: "That's, simplistically, the brain modeling side of things.", start: 1195.14, end: 1198.04, zh: "简单来说，这就是大脑建模这一方面的内容。（simplistically 简化地，粗略地说；modeling 建模）"}
+  - {text: "Let's build electrical circuits that kind of recreate logical systems that are modeled on the nervous system.", start: 1198.22, end: 1203.82, zh: "让我们构建电路，以某种方式重现基于神经系统模型建立的逻辑系统。（recreate 重建，重现；modeled on 以……为模型）"}
+  - {text: "And that sets up a whole direction of AI research that still lives on today in things like neural networks, for example.", start: 1204.38, end: 1210.74, zh: "这就确立了一个AI研究方向，它至今仍然存在，例如在神经网络中。（neural networks 神经网络；lives on 延续，存在）"}
+  - {text: "So there's a researcher, Frank Rosenblatt at Cornell in the USA who builds a machine called a perceptron, which is a neural network that can learn to recognize shapes using electrical circuits.", start: 1210.94, end: 1222.12, zh: "有一位名叫弗兰克·罗森布拉特的研究者，他在美国康奈尔大学构建了一台名为感知机的机器，这是一种能利用电路学习识别形状的神经网络。（Frank Rosenblatt 弗兰克·罗森布拉特；perceptron 感知机；neural network 神经网络）"}
+  - {text: "The other side of early AI research at this time is mind modeling.", start: 1223.31, end: 1227.53, zh: "当时早期AI研究的另一个方面是心智建模。（mind modeling 心智建模）"}
+  - {text: "And effectively, let's not worry about trying to physically build a brain in electric circuits.", start: 1228.03, end: 1234.66, zh: "实际上，我们不必担心试图用电路在物理上构建一个大脑。（effectively 实际上，实质上）"}
+  - {text: "Let's not worry about how you can actually represent the nervous architecture of the brain in a computer or in electronics.", start: 1234.86, end: 1241.48, zh: "我们不必担心如何在计算机或电子设备中实际表示大脑的神经架构。（nervous architecture 神经架构；electronics 电子设备）"}
+  - {text: "Instead, let's worry about simulating how a human reasons, right?", start: 1242.00, end: 1246.48, zh: "相反，让我们关注模拟人类是如何进行推理的，对吧？（simulating 模拟；reasons 推理）"}
+  - {text: "How do humans think and can we use a digital computer to simulate that?", start: 1247.10, end: 1250.82, zh: "人类是如何思考的，我们能用数字计算机来模拟这一过程吗？（simulate 模拟）"}
+  - {text: "So if they get about the brain, think about the mind instead, try to simulate how a human mind works.", start: 1251.12, end: 1255.18, zh: "所以如果他们对大脑感到困惑，就转而思考心智，尝试模拟人类心智的运作方式。（mind 心智，心灵）"}
+  - {text: "So John Agar, let me go on to you about how they went about building these machines and putting this into practice.", start: 1255.72, end: 1264.28, zh: "那么约翰·阿加，让我把话题交给你，讲讲他们是如何构建这些机器并将理论付诸实践的。（putting into practice 付诸实践）"}
+  - {text: "And perhaps you can start by telling us about Elmer and Elsie, the tortoises.", start: 1264.48, end: 1269.14, zh: "也许你可以先给我们讲讲埃尔默和艾尔西，那两只乌龟。（tortoises 陆龟）"}
+  - {text: "What were they? Yeah.", start: 1269.62, end: 1270.76, zh: "它们是什么？是的。"}
+  - {text: "So we're going to jump over the Atlantic.", start: 1270.98, end: 1274.14, zh: "所以我们要跨越大西洋。（Atlantic 大西洋）"}
+  - {text: "We're going to come to Britain because there were cybernetics and cyberneticians very active in Britain, as well as the United States, as a world elsewhere in the world.", start: 1274.38, end: 1285.72, zh: "我们要来到英国，因为除了美国，英国也是控制论和控制论学者非常活跃的地方，就像世界上的其他地方一样。（cybernetics 控制论；cyberneticians 控制论学者）"}
+  - {text: "Let me tell you to 1951.", start: 1286.28, end: 1288.18, zh: "让我把时间拉回到1951年。"}
+  - {text: "1951 was the year of the Festival of Britain.", start: 1289.28, end: 1291.38, zh: "1951年是英国节的一年。（Festival of Britain 英国节，1951年在伦敦举办的庆典）"}
+  - {text: "And millions of people went to see exhibitions that was meant to be a tonic to the nation and cheer us all up after austerity and things like that.", start: 1292.51, end: 1302.18, zh: "数百万人前往参观展览，这些展览旨在提振国民精神，在经历了紧缩时期后让我们大家都开心起来。（tonic 提神剂，振奋剂；austerity 紧缩，节约）"}
+  - {text: "What they would have seen there were pairs of little robots.", start: 1302.64, end: 1308.58, zh: "他们在那里看到的是一对对小型机器人。（robots 机器人）"}
+  - {text: "These were robot tortoises that were made by a neurologist called Greywater.", start: 1309.40, end: 1316.86, zh: "这些是由一位名叫格雷沃特的神经学家制造的机器乌龟。（tortoises 乌龟；neurologist 神经学家）"}
+  - {text: "Greywater worked at a mental hospital just outside Bristol, but he had this intense interest in building mechanical things that seemed, and he thought actually did, produce lifelike behavior.", start: 1317.24, end: 1332.86, zh: "格雷沃特在布里斯托尔郊外的一家精神病院工作，但他对制造看似能产生、且他认为确实能产生类生命行为的机械装置有着浓厚的兴趣。（Bristol 布里斯托尔，英国城市；lifelike 类生命的，逼真的）"}
+  - {text: "So just as we just heard about brain building, Greywater put what he thought was equivalent of a couple of neurons at the centre of these mechanical robot tortoises.", start: 1333.74, end: 1345.08, zh: "正如我们刚才听到的关于大脑构建的内容，格雷沃特在他认为相当于几个神经元的装置中，将其置于这些机械机器乌龟的中心。（neurons 神经元；equivalent 等价物，相当于）"}
+  - {text: "And these tortoises also could respond to light, they could respond to touch, and with simple feedback mechanisms, they could respond to each other.", start: 1345.88, end: 1355.82, zh: "这些乌龟还能对光和触觉做出反应，并通过简单的反馈机制相互回应。（feedback mechanisms 反馈机制）"}
+  - {text: "So they would respond to each other's lights.", start: 1355.96, end: 1357.68, zh: "所以它们会对彼此的光做出反应。"}
+  - {text: "They would see their own light in a mirror and they would move towards it.", start: 1357.78, end: 1362.26, zh: "它们会在镜子里看到自己的光，然后向它移动。"}
+  - {text: "They bumped into something, they would recoil.", start: 1362.70, end: 1365.20, zh: "当它们撞到什么东西时，会退缩。（recoil 退缩，后退）"}
+  - {text: "And Greywater thought that these little mechanical robot tortoises with the equivalent of a couple of neurons as electrical circuits were beginning to show absolutely mechanical lifelike living", start: 1365.96, end: 1382.22, zh: "格雷沃特认为，这些拥有相当于几个神经元作为电路的小型机械机器乌龟，开始展现出纯粹的机械类生命现象……（circuits 电路；lifelike 类生命的）"}
+  - {text: "phenomena like attraction, like self -awareness, like movement and responding to what each other are doing.", start: 1382.94, end: 1390.74, zh: "比如吸引力、自我意识、运动以及对彼此行为的反应。（self-awareness 自我意识；attraction 吸引力）"}
+  - {text: "And people saw that, saw these tortoises, one was called Elmer, one was called Elsie, they're acronyms that essentially stand for electronic machines of various kinds, and they were deeply popular.", start: 1391.88, end: 1405.86, zh: "人们看到了这些乌龟，一只叫Elmer，一只叫Elsie，它们其实是各种电子机器的首字母缩写，而且当时非常受欢迎。（tortoises 陆龟；acronyms 首字母缩写词）"}
+  - {text: "But you mentioned the word self -awareness there, and of course there's a lot of discussion these days about artificial intelligence and artificial general intelligence about machines becoming self -aware.", start: 1406.26, end: 1418.40, zh: "但你刚才提到了“自我意识”这个词，当然，现在关于人工智能和通用人工智能有很多讨论，特别是关于机器如何变得具有自我意识。（self-awareness 自我意识；artificial general intelligence 通用人工智能）"}
+  - {text: "But this constant comparison between machines and animals in cybernetics where they seem to assume that animals and machines function in the same way, isn't there something specific about the human brain,", start: 1418.64, end: 1436.25, zh: "但在控制论中，人们总是把机器和动物进行对比，似乎假设动物和机器以相同的方式运作，难道人类大脑没有某些独特之处吗？（cybernetics 控制论）"}
+  - {text: "which is it's not entirely rational, it doesn't follow logical patterns.", start: 1436.25, end: 1440.29, zh: "也就是说，它并不完全理性，也不遵循逻辑模式。（rational 理性的；logical patterns 逻辑模式）"}
+  - {text: "So the cyberneticians would say absolutely, we are giving you a science that describes living and non -living thinking, non -thinking entities all in the same framework.", start: 1441.45, end: 1452.59, zh: "所以控制论学者会说，没错，我们提供的是一门科学，它在同一个框架内描述了有生命和无生命的、有思维和无思维的实体。（cyberneticians 控制论学者；framework 框架）"}
+  - {text: "So they were really deeply interested in breaking down those boundaries between thinking and non -thinking, living and non -living.", start: 1455.93, end: 1463.59, zh: "因此，他们真的对打破思维与非思维、生命与非生命之间的界限非常感兴趣。（boundaries 界限）"}
+  - {text: "And of course this upset people.", start: 1464.11, end: 1465.41, zh: "当然，这让人们感到不安。（upset 使不安，使烦恼）"}
+  - {text: "There are people in the 1940s and 50s, same time as when Turing was working, when Grey Walter was displaying his tortoises, when Norbert Wiener was publishing cybernetics,", start: 1466.19, end: 1477.92, zh: "在20世纪40年代和50年代，也就是图灵在研究、格雷·沃尔特展示他的乌龟、诺伯特·维纳发表控制论著作的那个时期，"}
+  - {text: "who were deeply, deeply upset by this idea there might be something troubling because it was suggesting that there wasn't anything unique about the human mind,", start: 1478.38, end: 1490.62, zh: "有些人对此感到极度不安，因为这种观点暗示人类心灵并没有任何独特之处，"}
+  - {text: "that you could recreate the human mind in machines and that seemed deeply, deeply threatening.", start: 1490.80, end: 1499.72, zh: "你可以在机器中重现人类心灵，这看起来极具威胁性。（recreate 重现；threatening 有威胁的）"}
+  - {text: "So even something like the friendly tortoises would provoke actually quite disquiet and denunciation even on the BBC.", start: 1500.12, end: 1510.46, zh: "所以即使是像友好的乌龟机器人这样温和的东西，实际上也会引发相当大的不安和谴责，甚至在BBC内部也是如此。（disquiet 不安；denunciation 谴责）"}
+  - {text: "Heaven forbid. Grey Walter gave talks on the BBC and very heavyweight respondents came in and said you're talking nonsense.", start: 1511.71, end: 1520.15, zh: "天哪，千万别。格雷·沃尔特曾在BBC做过演讲，结果一些非常有分量的嘉宾上台就说他在胡说八道。（Heaven forbid 天哪，千万别；respondents 回应者，嘉宾）"}
+  - {text: "I would say pessimistic optimism might be the right term, and that might be the right term for the age.", start: 1520.86, end: 1526.23, zh: "我想“悲观的乐观主义”可能是个恰当的术语，这或许也是这个时代的恰当写照。（pessimistic optimism 悲观的乐观主义）"}
+  - {text: "Contemporary thinkers in science technology studies that are critically thinking don't want to be technophobic and want to be more technopositive, shall we say, are saying there's a silver lining behind this whole de -centering, making humans equivalent to machines and animals and everything else,", start: 1527.25, end: 1549.89, zh: "当代科学技术研究领域的思想家们，那些进行批判性思考的人，不想成为技术恐惧者，而想更倾向于技术积极主义，他们认为在这种去中心化、将人类与机器和动物等同视之的过程中，其实有一线希望。（technophobic 技术恐惧者；technopositive 技术积极主义者；silver lining 一线希望）"}
+  - {text: "and that is that indeed we, that might actually reconfigure how we think about ourselves and there might actually be an opportunity, new opportunities to work with our technologies, that they may have possibilities to break certain ideas about say biological determinism or", start: 1550.37, end: 1569.93, zh: "也就是说，这确实可能会重塑我们对自我的认知，并且可能真的出现新的机会来与技术合作，它们或许能打破某些关于生物决定论的想法，或者……（reconfigure 重塑；biological determinism 生物决定论）"}
+  - {text: "or sort of social order as it was beforehand.", start: 1570.83, end: 1575.61, zh: "或者打破之前那种社会秩序。（social order 社会秩序）"}
+  - {text: "And obviously these are very challenging technologies, but cyber netizens themselves, I would totally agree with John.", start: 1576.05, end: 1583.55, zh: "显然这些是非常具有挑战性的技术，但关于赛博空间居民本身，我完全同意约翰的观点。（cyber netizens 赛博空间居民，网民）"}
+  - {text: "Like they, you know, at one point Warren McCullough says to another very famous mathematician, John Von Neumann, who kind of constructed the digital computer and did all the math for the bomb and in a kind of conversation about whether machines could become autonomous,", start: 1583.87, end: 1601.65, zh: "就像你知道的，在某个时刻，沃伦·麦卡洛克对另一位非常著名的数学家约翰·冯·诺依曼说，冯·诺依曼构建了数字计算机并为原子弹做了所有数学工作，他们在讨论机器是否能变得自主时……（autonomous 自主的）"}
+  - {text: "kind of pre a conversation about artificial general intelligence, if you will.", start: 1602.45, end: 1606.51, zh: "这算是关于通用人工智能的一种预演对话，如果你愿意这么说的话。（artificial general intelligence 通用人工智能）"}
+  - {text: "McCullough said about the neural net, he said, I think what we did and did fairly well is build a brain if only it were to go psychotic.", start: 1607.35, end: 1615.11, zh: "麦卡洛克谈到神经网络时说，我认为我们做得相当好，我们构建了一个大脑，只要它不会发疯就好了。（neural net 神经网络；psychotic 精神病的，发疯的）"}
+  - {text: "And this is a quote, okay, I'm just quoting pretty much.", start: 1615.55, end: 1618.99, zh: "这是一句引用，好吧，我基本上只是在引述。（quote 引用；quoting 引述）"}
+  - {text: "What did he mean by psychotic in this case?", start: 1619.13, end: 1621.55, zh: "在这种情况下，他所说的“精神病”是什么意思？（psychotic 精神病的，精神异常的）"}
+  - {text: "And it's a fundamental problem for computing actually in general and for neural networks is we all know they have a problem with causality.", start: 1622.05, end: 1630.45, zh: "这实际上对于广义的计算以及神经网络来说都是一个根本性问题，我们都知道它们在处理因果关系方面存在缺陷。（fundamental 根本的；causality 因果关系）"}
+  - {text: "We know that large language models, for example, can't really assign how they learned.", start: 1631.43, end: 1636.61, zh: "我们知道，例如大型语言模型，其实无法真正解释它们是如何学习的。（large language models 大型语言模型；assign 分配，此处指归因或解释）"}
+  - {text: "They just kind of replicate or create an end point, but we don't, we don't, they have a problem with time and space in short machines can't tell, for example,", start: 1637.49, end: 1646.23, zh: "它们只是复制内容或生成一个终点，但我们无法……它们在处理时间和空间方面存在问题，简而言之，机器无法分辨，例如……（replicate 复制；end point 终点）"}
+  - {text: "if the data is new or if it's retrieved from memory.", start: 1646.27, end: 1649.41, zh: "数据是新的，还是从记忆中检索出来的。（retrieved 检索的；memory 记忆，此处指存储）"}
+  - {text: "And in order to get the math and the logic of the neural net to work, you basically had to evacuate time.", start: 1649.87, end: 1657.99, zh: "为了让神经网络的数学和逻辑能够运行，你基本上必须将时间排除在外。（evacuate 撤离，此处指排除或移除）"}
+  - {text: "And this is an ongoing issue.", start: 1658.99, end: 1660.87, zh: "这是一个持续存在的问题。（ongoing 持续进行的，未解决的）"}
+  - {text: "But aside from the theory of it, I also want to mention that a very big part of cybernetics and things like game theory was the idea that human beings don't make good decisions.", start: 1661.25, end: 1671.83, zh: "但除了理论之外，我还想提到，控制论和博弈论等的一个重要观点是，人类并不善于做决策。（cybernetics 控制论；game theory 博弈论）"}
+  - {text: "And therefore they need computers, they need mathematical and rational tools because we're not rational.", start: 1672.27, end: 1678.57, zh: "因此他们需要计算机，需要数学和理性的工具，因为我们并不理性。（rational 理性的）"}
+  - {text: "But when you talk about the psychosis, is that, and you've mentioned large language models, is that the same as what we now understand to be hallucinations of large language models?", start: 1679.13, end: 1692.49, zh: "但当你提到精神错乱时，这和你之前提到的大语言模型是同一回事吗？也就是我们现在所说的大语言模型幻觉？（psychosis 精神错乱；large language models 大语言模型；hallucinations 幻觉，指模型生成虚假或无根据的信息）"}
+  - {text: "It can be sometimes.", start: 1693.41, end: 1694.91, zh: "有时候确实如此。"}
+  - {text: "I mean, a lot of times what we call hallucination might also just be sycophany, the machine generating response it thinks you want.", start: 1695.65, end: 1702.87, zh: "我的意思是，很多时候我们所谓的幻觉，其实可能只是谄媚，也就是机器生成它认为你想要的回答。（sycophany 谄媚，指机器迎合用户期望而非提供真实信息）"}
+  - {text: "But hallucination is also is a key feature of this problem, where machines are feeding back on the same data to a point where they're no longer capable of generating,", start: 1703.39, end: 1715.85, zh: "但幻觉也是这个问题的关键特征，机器反复使用相同的数据，直到它们不再能够生成……"}
+  - {text: "let's say, an answer that fits the real world for lack of a better word.", start: 1716.57, end: 1721.07, zh: "用句通俗的话说，就是生成符合现实世界的答案。（for lack of a better word 找不到更合适的词，意为“姑且这么说”）"}
+  - {text: "So cybernetics during the 1950s and early 60s seems to turn up everywhere.", start: 1721.31, end: 1727.55, zh: "所以，20世纪50年代和60年代初的控制论似乎无处不在。（cybernetics 控制论，研究系统控制与通信的学科）"}
+  - {text: "It's not just in matters military, it's in sociology, it's in anthropology and so on.", start: 1728.19, end: 1734.43, zh: "它不仅出现在军事领域，还涉及社会学、人类学等领域。"}
+  - {text: "Jacob, how do we then get from the issue of the anti -aircraft gun, for example, to the sort of bureaucratic cybernetics of the post office?", start: 1734.49, end: 1745.49, zh: "雅各布，那么我们从防空炮的问题，比如，是如何过渡到邮局那种官僚体系控制论的？（anti-aircraft gun 防空炮；bureaucratic 官僚体系的）"}
+  - {text: "Tell us about the post office and why cybernetics was important to it.", start: 1746.51, end: 1750.29, zh: "请告诉我们关于邮局的情况，以及为什么控制论对它很重要。"}
+  - {text: "Yeah, so cybernetics isn't even just in science, right?", start: 1750.91, end: 1753.69, zh: "是的，控制论不仅仅存在于科学领域，对吧？"}
+  - {text: "It goes beyond science to business to organizations to governments, because a lot of the people working with cybernetics, they're not necessarily working on cutting edge science, innovations, AI,", start: 1753.77, end: 1764.51, zh: "它超越了科学范畴，延伸至商业、组织和政府领域，因为许多从事控制论工作的人，并不一定是在从事前沿科学、创新或人工智能……（cybernetics 控制论；cutting edge 前沿的）"}
+  - {text: "military research, they're working in more prosaic settings like large organizations.", start: 1765.19, end: 1769.73, zh: "或军事研究，他们更多是在像大型组织这样更平凡的环境中工作。（prosaic 平凡的，普通的）"}
+  - {text: "There's a foundational conference for artificial intelligence that happens in Teddington, here in London, at the National Physical Laboratory in 1958, called Mechanization of Thought Processes.", start: 1770.65, end: 1780.07, zh: "1958年，在伦敦泰丁顿的国家物理实验室，举办了一场名为“思维过程机械化”的人工智能奠基性会议。（Teddington 泰丁顿，伦敦地名；National Physical Laboratory 国家物理实验室）"}
+  - {text: "But one of the interesting papers given there is a paper called, To What Extent Can Administration Be Mechanized?", start: 1780.81, end: 1787.39, zh: "但在那里发表的一篇有趣论文题为《行政工作能在多大程度上实现机械化？》。（Administration 行政，管理）"}
+  - {text: "And that's given by a British electrical engineer, James Merriman, who goes on to become the chief engineer of the post office.", start: 1787.65, end: 1795.15, zh: "这篇论文由英国电气工程师詹姆斯·梅里曼撰写，他后来成为了邮政局的首席工程师。（electrical engineer 电气工程师）"}
+  - {text: "And the post office at the time ran Britain's telecommunications infrastructure.", start: 1795.79, end: 1800.43, zh: "当时的邮政局负责运营英国的电信基础设施。（telecommunications infrastructure 电信基础设施）"}
+  - {text: "And Merriman and his engineers paid close attention to cybernetics.", start: 1800.83, end: 1805.21, zh: "梅里曼和他的工程师们密切关注控制论。（cybernetics 控制论）"}
+  - {text: "Merriman was at these conferences, his engineers went to symposia on cybernetics and information theory at Imperial College in London.", start: 1805.31, end: 1811.49, zh: "梅里曼参加了这些会议，他的工程师们则前往伦敦帝国理工学院参加关于控制论和信息论的研讨会。（symposia 研讨会；information theory 信息论）"}
+  - {text: "And they were trying to think about how can you apply cybernetics to a large organization like the post office, which at the time was one of Britain's largest employers,", start: 1812.15, end: 1821.17, zh: "他们试图思考如何将控制论应用于像邮政局这样的大型组织，当时它是英国最大的雇主之一……（cybernetics 控制论）"}
+  - {text: "but also had a big complex electrical network of telecom lines that sent telephone messages, telegraph messages and so on.", start: 1821.59, end: 1830.19, zh: "同时，它还拥有一个庞大且复杂的电信线路网络，用于传输电话和电报等信息。（telecom lines 电信线路；telegraph 电报）"}
+  - {text: "And they arrive at this vision of what they call a self -healing, self -governing network, that you could use cybernetics and kind of cybernetic theories to think about how you could embed computers into the network to control", start: 1830.94, end: 1845.72, zh: "他们构想出一种所谓的自愈、自治网络愿景，认为可以利用控制论及其理论，思考如何将计算机嵌入网络以进行控制……（cybernetics 控制论；self-healing 自愈；self-governing 自治）"}
+  - {text: "and organize all of the messages that are sent around the network, but to also organize all of the people that work for that network, tell them where to go, what they need to repair,", start: 1845.72, end: 1854.42, zh: "不仅要组织和整理网络中传输的所有信息，还要管理为该网络工作的人员，告诉他们去哪里、需要修复什么……"}
+  - {text: "where they're going to be working each day, and so on.", start: 1855.08, end: 1857.10, zh: "以及他们每天将在哪里工作等等。"}
+  - {text: "And it leads to this statement that Merriman makes, and he says information and control, which is a reference to cybernetics, it's one of the leading cybernetics journals at the time,", start: 1857.28, end: 1865.74, zh: "这引出了梅里曼的一句陈述，他提到“信息与控制”，这是对控制论的引用，当时它是该领域领先的期刊之一……（Merriman 梅里曼；Information and Control 信息与控制，期刊名）"}
+  - {text: "he says information and control is fundamental to the management of any large organization.", start: 1865.80, end: 1870.32, zh: "他说，信息与控制对于任何大型组织的管理都是根本性的。"}
+  - {text: "So a lot of people at the time, they're not just thinking about cybernetics in these cutting edge applications, they're also thinking about how it can be applied to large bureaucratic organizations.", start: 1870.86, end: 1878.36, zh: "当时很多人不仅将控制论应用于尖端领域，还在思考如何将其应用于大型官僚机构。（bureaucratic 官僚的）"}
+  - {text: "So when they're looking at the telephone exchange, what do they see?", start: 1879.14, end: 1883.50, zh: "那么当他们审视电话交换台时，看到了什么？（telephone exchange 电话交换台）"}
+  - {text: "So at this point in time, a lot of telephone exchanges, which are what, you know, roots your call from one place to another, right?", start: 1884.51, end: 1890.11, zh: "在那个时候，许多电话交换台，也就是将你的通话从一个地方路由到另一个地方的设备，对吧？（roots 路由，此处指电话转接）"}
+  - {text: "If you're in London and you're calling Edinburgh, it's not just a direct line, it has to go through various telephone exchanges to root the call from London to Edinburgh.", start: 1890.17, end: 1897.05, zh: "如果你在伦敦给爱丁堡打电话，并不是直接连线，必须经过各个电话交换台，将通话从伦敦路由到爱丁堡。（Edinburgh 爱丁堡）"}
+  - {text: "And this is also the time where they're thinking about, okay, how can we computerize these telephone exchanges?", start: 1897.33, end: 1901.81, zh: "这也是他们开始思考如何将这些电话交换台计算机化的时期。（computerize 计算机化）"}
+  - {text: "How can we put computers in them to root all the traffic for us?", start: 1901.97, end: 1905.33, zh: "我们怎么能在里面植入计算机，让它们替我们处理所有的交通流量？（root 此处指路由或引导；traffic 流量，此处指数据或交通流）"}
+  - {text: "And this lends itself to this idea of this self -governing, self -healing network, because if one communications link, you know, becomes disused or breaks down or something,", start: 1905.77, end: 1915.35, zh: "这就引出了这种自我治理、自我修复网络的概念，因为如果某条通信链路，你知道的，变得闲置或者故障了……（self-governing 自我治理；self-healing 自我修复；communications link 通信链路）"}
+  - {text: "the computers can reroute the call via another set of telephone exchanges.", start: 1915.35, end: 1920.45, zh: "计算机可以通过另一组电话交换中心重新路由呼叫。（reroute 重新路由；telephone exchanges 电话交换中心）"}
+  - {text: "So it's, again, this kind of responsive system of feedback, thinking that, okay, that route isn't working, so we will update and regulate the system so we can find another route using these, yeah, cybernetic computerized telephone exchanges.", start: 1920.73, end: 1933.41, zh: "所以，这又是那种反馈式的响应系统，它会思考：好吧，那条路不通，所以我们要更新并调节系统，以便利用这些基于控制论的计算机化电话交换中心找到另一条路。（feedback 反馈；cybernetic 控制论的；computerized 计算机化的）"}
+  - {text: "So there was another example of this, quite a memorable one, John, in Chile.", start: 1934.03, end: 1938.59, zh: "约翰，还有另一个例子，相当令人难忘，发生在智利。（memorable 难忘的；Chile 智利）"}
+  - {text: "Tell us about Project Cyber Sin and what happened to it.", start: 1939.13, end: 1942.85, zh: "给我们讲讲“赛博辛”项目以及它的结局吧。（Project Cyber Sin 赛博辛项目；Cyber Sin 赛博辛，指智利的Cybersyn系统）"}
+  - {text: "So there's another British cybernetician called Stafford Beer, who is another very interesting, slightly eccentric figure, slightly an outsider figure who has an epiphany when he reads Norbert Wiener's Cybernetics,", start: 1943.84, end: 1960.98, zh: "还有一位英国控制论学家叫斯塔福德·比耶，他也是一位非常有趣、略显古怪且有些边缘化的人物，当他读到诺伯特·维纳的《控制论》时，他有了顿悟……（cybernetician 控制论学家；Stafford Beer 斯塔福德·比耶；epiphany 顿悟）"}
+  - {text: "thinks this is a clue to how to understand organizations.", start: 1961.36, end: 1966.12, zh: "他认为这是理解组织运作的一个线索。（clue 线索；organizations 组织）"}
+  - {text: "Briefly, he's employed by United Steel in Sheffield.", start: 1967.20, end: 1970.66, zh: "简而言之，他受雇于谢菲尔德的联合钢铁公司。（United Steel 联合钢铁公司；Sheffield 谢菲尔德，英国城市）"}
+  - {text: "He proposes to reinvent the steel industry on cybernetics terms.", start: 1971.36, end: 1977.34, zh: "他提议从控制论的角度重新发明钢铁工业。（reinvent 重新发明；cybernetics terms 控制论的角度）"}
+  - {text: "They show him the door.", start: 1978.02, end: 1979.28, zh: "他们把他赶了出去。（show someone the door 委婉地表示解雇或驱逐某人）"}
+  - {text: "He then does management consultancy for a bit, and then he gets a call from Chile.", start: 1980.00, end: 1984.54, zh: "随后他做了一段时间的管理咨询，然后接到了来自智利的电话。（management consultancy 管理咨询；Chile 智利）"}
+  - {text: "And Chile, which had a long history of democratic government, had recently elected Salvador Olende, a socialist who had nationalized parts of the Chilean economy and wanted to think about how to manage all these new big organizations", start: 1985.46, end: 2003.02, zh: "智利有着悠久的民主政府历史，最近选举了社会主义者萨尔瓦多·阿连德，他国有化了智利经济的一部分，并想要思考如何管理这些新的大型组织（Salvador Allende 萨尔瓦多·阿连德，智利前总统；nationalized 国有化）"}
+  - {text: "that the Chilean state now had to look after.", start: 2003.02, end: 2006.90, zh: "也就是智利国家现在必须照管的那些组织。"}
+  - {text: "And they'd heard of cybernetics and they'd heard of Stafford Beer, who had published on management cybernetics, and said, come to Chile.", start: 2007.90, end: 2017.26, zh: "他们听说过控制论，也听说过斯塔福德·比尔，他发表过关于管理控制论的文章，于是他们邀请他来到智利。（cybernetics 控制论；Stafford Beer 斯塔福德·比尔，控制论专家）"}
+  - {text: "You can rearrange the state for us.", start: 2018.04, end: 2020.60, zh: "请帮我们要重新安排国家的架构。"}
+  - {text: "And he joined this Chilean team.", start: 2021.66, end: 2024.56, zh: "他加入了这个智利团队。"}
+  - {text: "And together, they produced this extraordinary plan, partly implemented, which would gather information from telex lines from around the country, gathering them together at a central control room.", start: 2025.28, end: 2040.48, zh: "他们共同制定了一项非凡的计划，部分得以实施，该计划将从全国各地的电传线路收集信息，并在一个中央控制室进行汇总。（telex lines 电传线路；central control room 中央控制室）"}
+  - {text: "And this control room, I do encourage people to have a look it up online.", start: 2040.72, end: 2044.66, zh: "关于这个控制室，我鼓励大家上网查一下。"}
+  - {text: "Project CyberSyn stands for cybernetic synergy.", start: 2045.06, end: 2049.46, zh: "CyberSyn 项目代表的是控制论协同效应。（CyberSyn 赛博辛，智利政府管理项目；cybernetic synergy 控制论协同效应）"}
+  - {text: "The control room looks a little bit like the bridge on Star Trek on the USS Enterprise.", start: 2050.26, end: 2056.18, zh: "控制室看起来有点像《星际迷航》中企业号的舰桥。（bridge 舰桥；Star Trek 《星际迷航》；USS Enterprise 企业号）"}
+  - {text: "It does a lot.", start: 2056.34, end: 2057.20, zh: "它确实作用很大。（a lot 很多，大量）"}
+  - {text: "It has these extraordinary chairs.", start: 2057.36, end: 2059.90, zh: "那里有这些非同寻常的椅子。（extraordinary 非凡的，特别的）"}
+  - {text: "You're surrounded by panels and flashing lights.", start: 2060.32, end: 2063.58, zh: "你被各种面板和闪烁的灯光包围着。（panels 面板；flashing lights 闪烁的灯光）"}
+  - {text: "But essentially, this was meant to be machines and humans working together, going back and forth, interacting with each other in order to make better decisions", start: 2064.16, end: 2075.28, zh: "但本质上，这是为了让机器和人类协同工作，来回互动，从而做出更好的决策。（essentially 本质上；interacting 互动）"}
+  - {text: "at the center of a new cybernetic socialist country.", start: 2075.28, end: 2080.64, zh: "在一个新型控制论社会主义国家的中心。（cybernetic 控制论的；socialist 社会主义的）"}
+  - {text: "So there's real ambition to cybernetics.", start: 2081.08, end: 2085.16, zh: "所以控制论有着真正的雄心。（ambition 雄心，抱负）"}
+  - {text: "Eritz, can you tell us about smart cities, which people are talking about smart cities now all the time.", start: 2085.62, end: 2093.00, zh: "Eritz，你能给我们讲讲智慧城市吗？现在人们一直在谈论智慧城市。（smart cities 智慧城市）"}
+  - {text: "Can you tell us about cybernetics and smart cities?", start: 2093.18, end: 2095.84, zh: "你能给我们讲讲控制论和智慧城市吗？（cybernetics 控制论；smart cities 智慧城市）"}
+  - {text: "Yeah, cybernetics, as everyone here has already suggested, was a really compelling idea.", start: 2096.34, end: 2102.72, zh: "是的，正如这里大家已经提到的，控制论是一个非常有吸引力的概念。（compelling 有吸引力的，令人信服的）"}
+  - {text: "And it spread like, I don't know, a good meme.", start: 2103.02, end: 2105.36, zh: "它的传播速度就像，我不知道，一个很火的梗。（meme 梗，网络流行文化）"}
+  - {text: "It was very popular.", start: 2106.52, end: 2107.78, zh: "它非常受欢迎。"}
+  - {text: "And I think part of the popularity was the kind of new way of imagining organizational management at scale.", start: 2108.48, end: 2116.34, zh: "我认为它受欢迎的一部分原因，在于它提供了一种想象大规模组织管理的新方式。（at scale 大规模地）"}
+  - {text: "And it was countries, as we've just suggested, but it was also cities at MIT, which had a huge urban planning department.", start: 2117.06, end: 2124.04, zh: "正如我们刚才提到的，这涉及国家层面，但也涉及麻省理工学院的城市，那里有一个庞大的城市规划部门。（MIT 麻省理工学院）"}
+  - {text: "A lot of people there, particularly a couple planners, one of them named Kevin Lynch, were really influenced by these ideas.", start: 2124.62, end: 2132.20, zh: "那里很多人，特别是几位规划师，其中一位叫凯文·林奇，深受这些理念的影响。（planners 规划师；Kevin Lynch 凯文·林奇，城市设计理论家）"}
+  - {text: "But it also had a huge influence on people in ecology and ecosystems management.", start: 2132.56, end: 2138.06, zh: "但它也对生态学和生态系统管理领域的人产生了巨大影响。（ecosystems 生态系统）"}
+  - {text: "So individuals like the Odom Brothers, who had been working with the atomic tests in the Marshall Islands, started tracing, for example, radiation moving through the ecosystem in the little fish and all the stuff,", start: 2138.60, end: 2152.98, zh: "比如奥多姆兄弟，他们曾参与马绍尔群岛的原子弹试验，开始追踪例如辐射在生态系统中通过小鱼等生物流动的过程。（Odom Brothers 奥多姆兄弟；Marshall Islands 马绍尔群岛）"}
+  - {text: "because radiation makes a really good visualization tool.", start: 2153.12, end: 2157.00, zh: "因为辐射是一个非常好的可视化工具。（visualization 可视化）"}
+  - {text: "You can really trace it, the nitrogen and carbon cycles.", start: 2157.34, end: 2160.94, zh: "你可以清晰地追踪氮循环和碳循环。（nitrogen 氮；carbon 碳）"}
+  - {text: "And they started thinking about these nitrogen and carbon cycles as feedback loops and in terms of information and communication too, which goes to show you", start: 2161.48, end: 2169.00, zh: "他们开始将这些氮循环和碳循环视为反馈回路，并从信息和沟通的角度去思考，这足以证明……（feedback loops 反馈回路）"}
+  - {text: "how widely these ideas were kind of interpreted.", start: 2169.00, end: 2172.52, zh: "这些思想当时被解读得有多广泛。（interpreted 解读，诠释）"}
+  - {text: "And the reason I'm bringing ecology is because there was a close integration to how people were thinking about urban systems and environmental systems.", start: 2173.04, end: 2180.38, zh: "我之所以提到生态学，是因为当时人们对城市系统和环境系统的思考有着紧密的结合。（integration 结合，整合；urban systems 城市系统）"}
+  - {text: "And the fact that you could manage an environment and an urban system with the same tools, the same idea, if you could map all the kind of feedback loops and you could turn everything into a flow chart, you could plan better.", start: 2180.62, end: 2196.46, zh: "事实是，如果你能绘制出所有的反馈回路，并将一切转化为流程图，你就可以用同样的工具和理念来管理环境和城市系统，从而进行更好的规划。（feedback loops 反馈回路；flow chart 流程图）"}
+  - {text: "You could manage the ecosystem better or the city.", start: 2196.68, end: 2199.94, zh: "你可以更好地管理生态系统或城市。（ecosystem 生态系统）"}
+  - {text: "And so there was a lot of interchange between the two.", start: 2200.40, end: 2203.04, zh: "因此，这两者之间有很多交流。（interchange 交流，互换）"}
+  - {text: "And people like Buckminster Fuller, who's a really prominent kind of technologist and futurist, started imagining cities like New York City as sort of these metabolic systems.", start: 2203.34, end: 2214.60, zh: "像巴克敏斯特·富勒这样非常著名的技术专家和未来主义者，开始将纽约市这样的城市想象成一种代谢系统。（Buckminster Fuller 巴克敏斯特·富勒；metabolic systems 代谢系统）"}
+  - {text: "And eventually, this went all the way up to the planet in a famous report called Limits to Growth in the 1970s that started the contemporary environmental movement and was an effort to computationally model all the world systems,", start: 2215.00, end: 2229.44, zh: "最终，这种思路一直延伸到了整个星球，在20世纪70年代一份名为《增长的极限》的著名报告中，该报告开启了当代环保运动，并试图通过计算模型模拟所有全球系统，（Limits to Growth 《增长的极限》；computationally 通过计算地）"}
+  - {text: "its environmental one and human ones, and try to understand the impact of human behavior on the planet.", start: 2229.92, end: 2235.82, zh: "包括环境系统和人类系统，并试图理解人类行为对地球的影响。（computationally 通过计算地）"}
+  - {text: "So again, incredibly ambitious.", start: 2236.14, end: 2237.86, zh: "所以，这再次体现了其极具雄心的特点。（ambitious 有雄心的，宏大的）"}
+  - {text: "And tell us a bit more, Jacob, about how it's used in climate theory later on, particularly here in Britain.", start: 2238.26, end: 2244.04, zh: "雅各布，请多告诉我们一些关于它后来在气候理论中的应用，特别是在英国。（Jacob 雅各布，人名；climate theory 气候理论）"}
+  - {text: "So as Areitz mentioned, cybernetics influences ecological theory, a somewhat controversial ecological theory that influences is the Gaia hypothesis.", start: 2244.97, end: 2253.73, zh: "正如阿雷茨提到的，控制论影响了生态学理论，其中颇具争议的一个就是盖亚假说。（cybernetics 控制论；Gaia hypothesis 盖亚假说）"}
+  - {text: "And that's promoted by a British scientist, James Lovelock, and an American microbiologist, Lynn Margulis.", start: 2254.23, end: 2259.55, zh: "这一假说由英国科学家詹姆斯·洛夫洛克和美国微生物学家林恩·马古利斯提出。（James Lovelock 詹姆斯·洛夫洛克；Lynn Margulis 林恩·马古利斯）"}
+  - {text: "And the Gaia hypothesis states that all of the organisms on the planet kind of exist in this network of feedback loops that exist to kind of keep the earth at a stable kind of habitable condition, right?", start: 2260.17, end: 2273.83, zh: "盖亚假说认为，地球上所有生物都存在于一种反馈回路网络中，旨在维持地球处于稳定的宜居状态，对吗？（feedback loops 反馈回路；habitable 宜居的）"}
+  - {text: "So they maintain the temperature, the humidity, the oxygen levels, and so on in a kind of habitable zone.", start: 2273.97, end: 2279.21, zh: "也就是说，它们将温度、湿度、氧气含量等维持在宜居区间内。（humidity 湿度；oxygen levels 氧气含量）"}
+  - {text: "So in other words, life maintains the earth so that the earth can sustain life.", start: 2279.49, end: 2284.29, zh: "换句话说，生命维持着地球，以便地球能继续孕育生命。（sustain 维持，支撑）"}
+  - {text: "And that's controversial, A, because it's kind of too grand to prove, but B, because some people have used it to kind of claim that perhaps the earth could resist climate change, right?", start: 2284.81, end: 2295.13, zh: "这很有争议，原因A是它过于宏大难以证明，原因B是有人借此声称地球或许能抵抗气候变化，对吗？（controversial 有争议的；climate change 气候变化）"}
+  - {text: "It'll stay in a habitable zone.", start: 2295.35, end: 2297.01, zh: "它会保持在宜居区间内。（habitable zone 宜居区间）"}
+  - {text: "Now when Lovelock first thinks about Gaia theory, he's not thinking about climate change.", start: 2297.75, end: 2302.27, zh: "当洛夫洛克最初构想盖亚理论时，他并没有考虑气候变化。（Lovelock 洛夫洛克；Gaia theory 盖亚理论）"}
+  - {text: "He's thinking about cybernetics.", start: 2302.55, end: 2303.89, zh: "他思考的是控制论。（cybernetics 控制论）"}
+  - {text: "He speculates about a biological cybernetics system that will exist to keep an entire planet's physical and chemical kind of systems in a habitable zone.", start: 2304.09, end: 2313.67, zh: "他推测存在一种生物控制论系统，旨在将整个星球的物理和化学系统维持在宜居区间。（speculates 推测；cybernetics 控制论）"}
+  - {text: "But one of the interesting things, and I think this also touches on how and why cybernetics begins to disappear, is Lovelock and Gaia theory become", start: 2314.13, end: 2323.23, zh: "但其中一件有趣的事，我认为这也触及了控制论为何开始消失的原因，是拉夫洛克和盖亚理论变得……（Lovelock 拉夫洛克，英国科学家；Gaia theory 盖亚理论）"}
+  - {text: "quite popular amongst more countercultural theorists of the environment.", start: 2323.23, end: 2327.15, zh: "在更多反主流文化的环境理论家当中相当流行。（countercultural 反主流文化的）"}
+  - {text: "So Lovelock joins an association called the Lindisfarne Association, which is a New Age utopian group where he meets other theorists of energy and ecology and", start: 2327.85, end: 2338.31, zh: "于是拉夫洛克加入了一个叫林迪斯法恩协会的团体，这是一个新时代乌托邦组织，在那里他遇到了其他能源和生态学理论家，并……（Lindisfarne Association 林迪斯法恩协会；New Age 新时代，指一种精神运动）"}
+  - {text: "come up with all of these cybernetic utopian theories of kind of self stabilizing planetary systems.", start: 2338.31, end: 2343.87, zh: "提出了各种关于自我稳定行星系统的控制论乌托邦理论。（cybernetic 控制论的；self stabilizing 自我稳定的）"}
+  - {text: "And he publishes in about Gaia in a countercultural journal called Co -Evolution Quarterly, which is read by many other cyberneticians, the anthropologist Gregory Bateson, for example, also popular amongst the counterculture.", start: 2344.47, end: 2355.31, zh: "他在一份名为《共同演化季刊》的反主流文化期刊上发表了关于盖亚的文章，该期刊被许多其他控制论学者阅读，例如人类学家格雷戈里·贝特森，他在反主流文化圈中也颇受欢迎。（Co-Evolution Quarterly 《共同演化季刊》；Gregory Bateson 格雷戈里·贝特森，人类学家）"}
+  - {text: "And these countercultural cyberneticians who are reading about Gaia theory really use themselves as a platform to elevate Gaia into this new ecological theory.", start: 2355.97, end: 2365.23, zh: "这些阅读盖亚理论的反主流文化控制论学者，确实利用自身作为平台，将盖亚提升为一种新的生态学理论。（platform 平台；elevate 提升）"}
+  - {text: "But at the same time, it becomes tinged with this countercultural kind of vibe that begins to sap its kind of scientific legitimacy amongst the self perceived serious scientists", start: 2365.45, end: 2375.73, zh: "但与此同时，它染上了这种反主流文化的气息，开始削弱其在自认为严肃的科学家眼中的科学合法性……（tinged 染上……色彩；legitimacy 合法性）"}
+  - {text: "who want cybernetics to become a serious field.", start: 2375.73, end: 2377.47, zh: "这些科学家希望控制论成为一个严肃的领域。（cybernetics 控制论）"}
+  - {text: "John, these days we don't hear much talk about cybernetics.", start: 2377.97, end: 2382.01, zh: "约翰，如今我们很少听到关于控制论的讨论了。（cybernetics 控制论）"}
+  - {text: "It seems to have dissipated.", start: 2382.61, end: 2385.49, zh: "它似乎已经消散了。（dissipated 消散，消失）"}
+  - {text: "But what are its main legacies?", start: 2386.01, end: 2388.33, zh: "但它的主要遗产是什么？（legacies 遗产，遗留影响）"}
+  - {text: "What's important about cybernetics today?", start: 2388.65, end: 2390.81, zh: "控制论在今天有什么重要意义？（cybernetics 控制论）"}
+  - {text: "So I think it's fair to say that throughout the history of cybernetics there's been opposition.", start: 2392.24, end: 2398.60, zh: "所以我认为可以说，在控制论的历史中一直存在反对声音。（opposition 反对，抵制）"}
+  - {text: "It's claimed too much.", start: 2399.12, end: 2400.58, zh: "人们认为它夸大了自己的作用。（claimed too much 声称过多，夸大其词）"}
+  - {text: "It claims that humans, animals, machines, all equivalent, this upsets people.", start: 2401.44, end: 2407.48, zh: "它声称人类、动物和机器都是等同的，这让人们感到不安。（equivalent 等同的，等价的）"}
+  - {text: "And when it gets associated with radical politics and countercultural ideas for some people, this is too much.", start: 2408.20, end: 2416.28, zh: "当它与激进政治和反文化思想联系在一起时，对某些人来说这就太过分了。（countercultural 反文化的）"}
+  - {text: "So it's true to say that cybernetics, as a branch of science, I think dwindles in many areas.", start: 2416.54, end: 2423.24, zh: "所以可以说，作为科学的一个分支，我认为控制论在许多领域都在萎缩。（dwindles 萎缩，减少）"}
+  - {text: "But there are legacies.", start: 2423.92, end: 2425.66, zh: "但确实留下了遗产。（legacies 遗产，遗留影响）"}
+  - {text: "In a way, it's gone from deep secrecy, from the war to everywhere within years.", start: 2426.26, end: 2431.70, zh: "从某种意义上说，它在短短几年内就从战时的深度机密变成了无处不在。（secrecy 机密，秘密）"}
+  - {text: "That's from in the 1940s.", start: 2432.02, end: 2433.52, zh: "那是从20世纪40年代开始的。"}
+  - {text: "Now it's almost apparently nowhere.", start: 2434.38, end: 2437.56, zh: "现在它似乎几乎消失了。（nowhere 无处，不存在）"}
+  - {text: "We don't hear this term cybernetics.", start: 2437.82, end: 2439.66, zh: "我们很少听到“控制论”这个词了。（cybernetics 控制论）"}
+  - {text: "But in fact, it is everywhere.", start: 2439.86, end: 2441.80, zh: "但事实上，它无处不在。（in fact 事实上）"}
+  - {text: "It's everywhere in the way we talk about AI, for example, just as Norbert Wiener in the book Human Use of Human Beings warns against the automatic factory", start: 2442.28, end: 2453.42, zh: "它无处不在，比如在我们谈论人工智能时，正如诺伯特·维纳在《人的使用》一书中警告自动化工厂那样。（AI 人工智能；Norbert Wiener 诺伯特·维纳，控制论创始人；Human Use of Human Beings 《人的使用》，维纳著作）"}
+  - {text: "and says it's going to lead to mass automation and unemployment and devastating consequences for society.", start: 2453.42, end: 2460.30, zh: "他说这将导致大规模自动化和失业，对社会造成毁灭性后果。（mass automation 大规模自动化；devastating consequences 毁灭性后果）"}
+  - {text: "Yet it has these fantastic opportunities if only we adopt the tool properly.", start: 2460.54, end: 2464.24, zh: "然而，如果我们能正确采用这些工具，它们其实拥有绝佳的机会。（adopt 采用，采纳）"}
+  - {text: "Do you recognize that kind of way of talking?", start: 2464.88, end: 2467.00, zh: "你认得出这种说话方式吗？（recognize 认出，识别）"}
+  - {text: "It's our way of talking about AI, the talk about whether or not it's conscious or not, the LLMs and the idea that we might be releasing machine consciousnesses into the world.", start: 2467.24, end: 2480.94, zh: "这就是我们谈论人工智能的方式，关于它是否有意识，关于大语言模型，以及我们可能正在向世界释放机器意识的想法。（LLMs 大语言模型；machine consciousnesses 机器意识）"}
+  - {text: "This is precisely the language of Norbert Wiener and the warnings.", start: 2481.84, end: 2486.22, zh: "这恰恰是诺伯特·维纳的语言和警告。（precisely 恰恰，正是）"}
+  - {text: "So the whole way we've ended up talking about information and information in society and big organizations and the dangers of science and technology.", start: 2486.60, end: 2496.08, zh: "因此，我们最终谈论信息、社会中的信息、大型组织以及科技危险的方式，都是如此。（big organizations 大型组织）"}
+  - {text: "This comes out of this language about AI from the 1940s, a way of talking about technology.", start: 2496.62, end: 2503.04, zh: "这源于20世纪40年代关于人工智能的语言，是一种谈论技术的方式。（AI 人工智能；1940s 20世纪40年代）"}
+  - {text: "So one of its legacies is, in some ways, a rather unhelpful way of talking about technology that only has these extremes of abundance and a world of leisure", start: 2503.54, end: 2517.22, zh: "因此，它的一个遗产是，在某种程度上，形成了一种不太有用的技术话语方式，只强调物质极大丰富和休闲世界这两个极端。（legacies 遗产，遗留影响；abundance 丰富，充裕）"}
+  - {text: "or world destruction and mass unemployment and worse.", start: 2517.22, end: 2522.82, zh: "或者是世界毁灭和大规模失业等更糟糕的情况。（mass unemployment 大规模失业）"}
+  - {text: "And we're trapped into ways of talking about machines being conscious in a way that is frankly unhelpful.", start: 2523.28, end: 2529.02, zh: "我们被困在一种谈论机器具有意识的话语模式中，坦率地说，这毫无助益。（conscious 有意识的，有知觉的）"}
+  - {text: "So one of the legacies, unfortunately, is I think a style of talking about technology.", start: 2529.54, end: 2533.76, zh: "所以，不幸的是，其中一个遗产是我认为的一种谈论技术的风格。（legacies 遗产，遗留影响）"}
+  - {text: "My thanks to Jacob Ward, John Agar and Areet Halpen.", start: 2534.42, end: 2538.22, zh: "感谢Jacob Ward、John Agar和Areet Halpen。（Jacob Ward 人名；John Agar 人名；Areet Halpen 人名）"}
+  - {text: "Next week, Fall In for the Redetzky March.", start: 2539.06, end: 2541.86, zh: "下周，我们将探讨《拉德茨基进行曲》。（Redetzky March 拉德茨基进行曲，著名军乐）"}
+  - {text: "That's the life and works of Josef Rot, a master of Central European literature.", start: 2542.24, end: 2547.36, zh: "那是约瑟夫·罗特，一位中欧文学大师的生平与作品。（Josef Rot 约瑟夫·罗特，奥地利作家；Central European 中欧的）"}
+  - {text: "Thank you for listening.", start: 2548.02, end: 2549.30, zh: "感谢收听。"}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2550.04, end: 2556.70, zh: "现在，《In Our Time》播客将增加一些额外时间，带来米沙和他的嘉宾几分钟的额外内容。（bonus material 额外材料，加餐内容）"}
+  - {text: "Okay, so now we can do the podcast bit where we relax a little.", start: 2557.52, end: 2563.10, zh: "好的，现在我们可以进入播客环节，稍微放松一下。（podcast bit 播客环节）"}
+  - {text: "Um, first of all, there's one thing that I wanted to ask when I was reading about this, when you were talking about this, there was one person I kept thinking about, and that was Marshall McLuhan.", start: 2564.42, end: 2573.98, zh: "嗯，首先，我在阅读和听你们讨论这个话题时，一直想到一个人，那就是马歇尔·麦克卢汉。（Marshall McLuhan 马歇尔·麦克卢汉，加拿大传播理论家）"}
+  - {text: "So do any of you have any thoughts about how important this was for McLuhan's work, the sociologist and communications theorist?", start: 2574.94, end: 2585.62, zh: "那么，你们觉得这对麦克卢汉这位社会学家和传播理论家的作品有多重要？（communications theorist 传播理论家）"}
+  - {text: "And in particular, the medium is the message, which seems to somehow be intrinsic to cybernetics.", start: 2586.02, end: 2592.68, zh: "特别是“媒介即讯息”这一观点，它似乎与赛博内学有着内在联系。（the medium is the message 媒介即讯息；cybernetics 赛博内学，控制论）"}
+  - {text: "Areet? I mean, I can say that it was extremely influential because I think people have to remember that at the time, cybernetics was the kind of language for computing.", start: 2593.28, end: 2604.84, zh: "呃，我想说它极具影响力，因为人们必须记住，在当时，赛博内学就是计算领域的通用语言。（cybernetics 赛博内学，控制论）"}
+  - {text: "I think John already mentioned that it really established a way of thinking about media and thinking about technology.", start: 2605.78, end: 2611.44, zh: "我认为约翰已经提到，它确实确立了一种思考媒体和技术的方式。（media 媒体）"}
+  - {text: "It was also incredibly influential to many of the artistic and avant -garde kind of milieus that McLuhan often engaged with.", start: 2611.72, end: 2622.26, zh: "它对麦克卢汉经常接触的许多艺术和先锋派圈子也产生了巨大的影响。（avant-garde 先锋派；milieus 圈子，环境）"}
+  - {text: "And also because cybernetics was so invested in making it not just about computers.", start: 2622.76, end: 2630.32, zh: "而且，因为赛博内学致力于让讨论不仅仅局限于计算机。（cybernetics 赛博内学，控制论）"}
+  - {text: "You know, one of the most remarkable things about this movement is the way it moves into modeling social systems, brains, humans that really very quickly established", start: 2631.14, end: 2642.98, zh: "你知道，这个运动最引人注目的地方在于它迅速将模型应用到了社会系统、大脑和人类身上，从而很快确立了……（modeling 建模，建立模型）"}
+  - {text: "that idea that the medium is indeed the message because the medium is anything.", start: 2642.98, end: 2647.38, zh: "……“媒介即讯息”这一理念，因为媒介可以是任何东西。（the medium is indeed the message 媒介确实是讯息）"}
+  - {text: "It doesn't just have to be digital.", start: 2647.76, end: 2649.74, zh: "它不一定要是数字化的。（digital 数字的，数字化的）"}
+  - {text: "McLuhan's also got this idea of media technology to be extensions of the human.", start: 2650.22, end: 2655.50, zh: "麦克卢汉还有一个观点，认为媒体技术是人类的延伸。（McLuhan 麦克卢汉，加拿大传播理论家；extensions 延伸，扩展）"}
+  - {text: "Yeah. Right. So there's a sort of seamlessness back and forth between the machine and the human in McLuhan's way of talking, which I think has", start: 2655.92, end: 2664.74, zh: "是的，没错。所以在麦克卢汉的表述中，机器和人类之间有一种无缝的互动，我觉得这……（seamlessness 无缝衔接，流畅性）"}
+  - {text: "got a cybernetic feel about it for sure.", start: 2664.74, end: 2667.26, zh: "……肯定带有一种控制论的味道。（cybernetic 控制论的，关于控制论的）"}
+  - {text: "The other thing is I think like a lot of cyberneticians, Marshall McLuhan is at that sort of edge of intellectual disrespectability and is also extremely exciting, right?", start: 2668.12, end: 2678.06, zh: "还有一点，我觉得像很多控制论学者一样，马歇尔·麦克卢汉处于一种学术上不被尊重却又极其令人兴奋的边缘，对吧？（cyberneticians 控制论学者；disrespectability 不被尊重，缺乏学术地位）"}
+  - {text: "There's something in common with a lot of the cyberneticians and someone like Marshall McLuhan as these intellectual figures who are constantly surprising and challenging and going where you don't think you should go,", start: 2678.66, end: 2692.58, zh: "很多控制论学者和马歇尔·麦克卢汉这样的知识分子有共同点，他们总是出人意料、充满挑战，去往你意想不到的地方，"}
+  - {text: "which is both exciting but also slightly upsetting.", start: 2693.14, end: 2695.58, zh: "这既令人兴奋，又让人有点不安。（upsetting 令人不安的，令人沮丧的）"}
+  - {text: "And I think that just also points to again, one of the reasons cybernetics begins to fracture a little bit.", start: 2695.94, end: 2700.82, zh: "我认为这也再次指出了控制论开始出现裂痕的原因之一。（fracture 破裂，分裂）"}
+  - {text: "You know, for example, when it comes to information, right, one of the key debates in cybernetics is do we think of information as purely kind of something that can be mathematically calculated or are we thinking about semantics, how much meaning information has,", start: 2701.02, end: 2711.34, zh: "比如说到信息，控制论中的一个关键辩论是：我们是把信息看作纯粹可以数学计算的东西，还是我们在思考语义，即信息包含多少意义，（semantics 语义学，语义；meaning 意义，含义）"}
+  - {text: "which is very interesting to linguists, for example, but people like Claude Shannon don't want it to go in that direction.", start: 2711.36, end: 2717.90, zh: "这对语言学家来说非常有趣，但像克劳德·香农这样的人不希望朝那个方向发展。（Claude Shannon 克劳德·香农，信息论之父）"}
+  - {text: "And so when you have characters like McLuhan or in another direction, Gregory Bateson, the anthropologist, for example, who really wants to push cybernetics into a completely kind of different direction thinking about the relationship between the human mind and nature and ecology,", start: 2718.16, end: 2732.06, zh: "所以当出现像麦克卢汉，或者在另一个方向上像人类学家格雷戈里·贝特森这样的人物时，他们真的想把控制论推向一个完全不同的方向，去思考人类心智与自然、生态之间的关系。（McLuhan 麦克卢汉，媒介理论家；Gregory Bateson 格雷戈里·贝特森，人类学家；cybernetics 控制论）"}
+  - {text: "that again, these figures like McLuhan, like Bateson who are pushing cybernetics further and further, then the center cannot hold.", start: 2732.74, end: 2740.18, zh: "正是这些像麦克卢汉、贝特森这样不断将控制论推向更深处的人物，导致核心概念无法维持稳定。（the center cannot hold 核心无法维持，指概念体系崩溃）"}
+  - {text: "I do also want to mention the Cold War elements.", start: 2740.42, end: 2743.52, zh: "我也想提一下冷战的因素。（Cold War 冷战）"}
+  - {text: "Cybernetics in many accounts also began losing its luster because of its appeal to socialist and communist causes, not just the cyber scene example, which is", start: 2744.24, end: 2755.96, zh: "在许多记载中，控制论之所以失去光彩，部分原因是它吸引了社会主义和共产主义阵营的关注，不仅仅是赛博场景的例子，那是……（luster 光彩，魅力；socialist 社会主义的；cyber scene 赛博场景）"}
+  - {text: "actually a potent example of an alternative visions of cybernetics.", start: 2755.96, end: 2759.16, zh: "实际上，这是控制论另一种愿景的有力例证。（potent 有力的，显著的；alternative visions 替代愿景，不同的看法）"}
+  - {text: "There was also a Soviet cybernetics.", start: 2759.38, end: 2761.44, zh: "苏联也有自己的控制论。（Soviet 苏联的）"}
+  - {text: "And in fact, the very use of the term artificial intelligence came up to get American military funding outside of the rubric of cybernetics.", start: 2762.10, end: 2771.44, zh: "事实上，‘人工智能’这个术语的出现，是为了在控制论的框架之外获取美国军事资金。（artificial intelligence 人工智能；rubric 框架，范畴）"}
+  - {text: "And some of it is said to be that Marvin Minsky didn't like Norbert Wiener, but outside of that was probably a more sinister problem that cybernetics did actually have these possibilities of social management and planning a possibly socialist bent.", start: 2771.56, end: 2791.04, zh: "据说部分原因是马文·明斯基不喜欢诺伯特·维纳，但除此之外，可能还有一个更阴暗的问题，即控制论确实具有社会管理和规划的可能性，甚至带有社会主义倾向。（Marvin Minsky 马文·明斯基，AI先驱；Norbert Wiener 诺伯特·维纳，控制论之父；sinister 阴暗的，不怀好意的）"}
+  - {text: "Just on that to follow up, was there something identifiably specific about Soviet cybernetics that was different from Western cybernetics?", start: 2791.42, end: 2800.94, zh: "就这一点追问一下，苏联控制论有什么具体可辨的特征，使其与西方控制论不同？（identifiably specific 具体可辨的；Soviet 苏联的）"}
+  - {text: "In the Soviet Union, attitudes of cybernetics undergo a complete reversal.", start: 2801.40, end: 2807.42, zh: "在苏联，对控制论的态度发生了彻底的逆转。（reversal 逆转，反转）"}
+  - {text: "So during the sort of Stalinist years, so when cybernetics is published, cybernetics is defined in a Soviet encyclopedia as a reactionary Western pseudoscience that is all about the control of the worker and to make it in, make the worker into an instrument of war, right, and therefore should be rejected.", start: 2808.36, end: 2826.98, zh: "所以在斯大林时期，也就是《控制论》出版的时候，苏联百科全书将控制论定义为一种反动的西方伪科学，其核心在于控制工人，把工人变成战争的工具，因此应当被拒绝。（Stalinist years 斯大林时期；reactionary 反动的；pseudoscience 伪科学）"}
+  - {text: "After Kristjof says Stalin was a bit of a mistake, as a cult of personality, we should maybe think about something different.", start: 2827.80, end: 2835.12, zh: "克里斯托夫说斯大林主义有点是个错误，特别是那种个人崇拜，我们也许应该考虑一些不同的东西。（cult of personality 个人崇拜）"}
+  - {text: "This opens the door to scientists in in Soviet institutes, research institutes, and suddenly cybernetics and for a few years as well.", start: 2835.66, end: 2851.84, zh: "这为苏联研究所和科研机构的科学家们打开了大门，突然间，控制论在随后的几年里也……（institutes 研究所；research institutes 科研机构）"}
+  - {text: "So it really does mean different things in different countries and at different times.", start: 2852.32, end: 2856.56, zh: "所以它确实意味着在不同国家和不同时期有着不同的含义。（identity 身份，特性）"}
+  - {text: "So Jacob, if I understood rightly what you were saying, cybernetics falls into obscurity because of its own success, because it's taken up by so many disciplines", start: 2857.16, end: 2871.18, zh: "那么雅各布，如果我理解得没错，控制论之所以变得晦涩难懂，是因为它太成功了，因为它被如此多的学科所采用……（obscurity 晦涩，默默无闻；disciplines 学科）"}
+  - {text: "that it no longer has that clear identity that it had at the beginning.", start: 2871.18, end: 2876.74, zh: "以至于它不再拥有最初那种清晰的身份特征。（identity 身份，特性）"}
+  - {text: "Would that roughly be right?", start: 2877.00, end: 2878.34, zh: "这大概说得对吗？（roughly 大致上）"}
+  - {text: "I mean, that's one element, certainly that you have biologists and social scientists who are involved in this cybernetic milieu in the 1950s, and eventually the kind of common ground disappears", start: 2878.34, end: 2889.60, zh: "我的意思是，这确实是其中一个因素，毕竟在20世纪50年代，生物学家和社会科学家都参与到了这个控制论圈子中，最终那种共同的基础消失了……（milieu 圈子，环境；common ground 共同基础）"}
+  - {text: "and they just go back to their own disciplines and integrate cybernetic concepts into their work without explicitly calling it cybernetics.", start: 2889.60, end: 2896.22, zh: "他们只是回到自己的学科，将控制论概念整合到工作中，而不再明确称之为控制论。（integrate 整合；explicitly 明确地）"}
+  - {text: "But there are still people who try to champion the cause of cybernetics and kind of reinvent it for new applications, and that continues in in things like systems,", start: 2896.66, end: 2905.00, zh: "但仍有试图为控制论辩护并为其新应用重新发明它的人，这在系统等领域中持续存在……（champion 捍卫，支持；systems 系统）"}
+  - {text: "science, you know, there's societies for systems research that still talk about cybernetics, and that's been called first order cybernetics.", start: 2905.26, end: 2911.82, zh: "在科学领域，你知道，有一些系统研究学会至今仍在讨论控制论，这被称为第一阶控制论。（cybernetics 控制论；first order cybernetics 第一阶控制论）"}
+  - {text: "So the cybernetics of the closed system where you're trying to engineer and optimize a system.", start: 2912.00, end: 2915.74, zh: "也就是针对封闭系统的控制论，旨在对系统进行工程设计和优化。（closed system 封闭系统；optimize 优化）"}
+  - {text: "And then there's people who talk about second order cybernetics or second order science.", start: 2916.44, end: 2920.00, zh: "然后还有人在谈论第二阶控制论或第二阶科学。（second order cybernetics 第二阶控制论；second order science 第二阶科学）"}
+  - {text: "And that's this idea that you have to be aware of your own role as a scientist, as a researcher, as an observer in a cybernetic system.", start: 2920.34, end: 2927.44, zh: "其核心观点是，你必须意识到自己作为科学家、研究人员或观察者在控制论系统中的角色。（observer 观察者；cybernetic system 控制论系统）"}
+  - {text: "So it's not just the system is closed with its own feedback loops, there's feedback loops between you and the system.", start: 2927.54, end: 2932.90, zh: "所以不仅仅是系统自身拥有反馈回路，你和系统之间也存在反馈回路。（feedback loops 反馈回路）"}
+  - {text: "So if you change the system changes, if the system changes, you change.", start: 2933.26, end: 2936.86, zh: "因此，如果你改变了，系统就会改变；如果系统改变了，你也会随之改变。"}
+  - {text: "And this leads to all of these slightly kind of wacky ideas about consciousness transformation.", start: 2937.18, end: 2940.96, zh: "这导致了一系列关于意识转化的、略显古怪的想法。（consciousness transformation 意识转化）"}
+  - {text: "But that continues also to the present day in societies and academics looking at, you know, again, nature and ecology and consciousness and what are the relationship between these things.", start: 2941.66, end: 2951.44, zh: "但这一趋势延续至今，学术界和学会仍在探讨自然、生态、意识以及它们之间的关系。（ecology 生态学；consciousness 意识）"}
+  - {text: "Reid, anything else you think we've missed out in the discussion that's critical?", start: 2952.18, end: 2957.34, zh: "里德，你觉得我们在讨论中是否遗漏了什么关键内容？（Reid 里德，嘉宾姓名）"}
+  - {text: "I think that it's really interesting to also contemplate the place cybernetics has in in amending or augmenting flawed human capacities and that kind of imaginary that was really pretty potent.", start: 2958.63, end: 2973.39, zh: "我认为，思考控制论在修正或增强人类有缺陷的能力方面所扮演的角色，以及这种极具影响力的想象，也非常有趣。（augmenting 增强；flawed 有缺陷的）"}
+  - {text: "It comes out in the telephone exchange.", start: 2973.57, end: 2975.13, zh: "它体现在电话交换系统中。（exchange 交换系统，指电话或数据交换设备）"}
+  - {text: "It comes out in the idea of game theory, which is like a related science, which is that like, what if people are too emotional and blow up the world?", start: 2975.71, end: 2983.77, zh: "它也体现在博弈论中，这是一门相关的学科，探讨的是如果人们情绪失控并搞砸了世界该怎么办。（game theory 博弈论；blow up 搞砸，破坏）"}
+  - {text: "And so we need computers to step in and kind of make better decisions.", start: 2984.11, end: 2988.17, zh: "因此我们需要计算机介入，以便做出更好的决策。（step in 介入，插手）"}
+  - {text: "And it comes out a lot in smart cities in our present as people in the 60s like Buckminster Fuller, but also people at Rand, which was an Air Force funded research institute in Santa Monica", start: 2988.31, end: 3003.99, zh: "这在当今的智能城市中非常常见，就像60年代的巴克敏斯特·富勒，以及位于圣莫尼卡的兰德公司，那是一家由美国空军资助的研究机构。（smart cities 智能城市；Buckminster Fuller 巴克敏斯特·富勒；Rand 兰德公司）"}
+  - {text: "started switching from warfare to welfare and started taking over things like urban management.", start: 3004.59, end: 3010.71, zh: "他们开始从关注战争转向关注福利，并开始接管城市管理等领域。（welfare 福利；urban management 城市管理）"}
+  - {text: "They increasingly turn to dealing with political problems by saying, let's have a technological solution.", start: 3011.44, end: 3017.87, zh: "他们越来越多地通过提出“让我们用技术解决方案”来处理政治问题。（technological solution 技术解决方案）"}
+  - {text: "Let's quantify. Let's let's have data driven decision making.", start: 3018.19, end: 3022.21, zh: "让我们量化，让我们进行数据驱动的决策。（quantify 量化；data driven 数据驱动的）"}
+  - {text: "Let's add this machinery.", start: 3022.79, end: 3024.53, zh: "让我们引入这些机器。（machinery 机器，机械装置）"}
+  - {text: "And that continues to really inform our attitude to the world maybe today, where a lot of times political decision making is getting replaced or transformed by computational decision making.", start: 3024.83, end: 3037.97, zh: "这持续影响着我们对世界的态度，也许直到今天，很多时候政治决策正在被计算决策所取代或转化。（computational decision making 计算决策）"}
+  - {text: "And that sits there at that government question of cybernetics and what the implications of governance are from technology.", start: 3037.97, end: 3045.59, zh: "这关乎控制论在政府层面的问题，以及技术对治理的影响。（cybernetics 控制论；governance 治理）"}
+  - {text: "Jacob, you wanted to come in there.", start: 3046.23, end: 3047.67, zh: "雅各布，你刚才想插话。"}
+  - {text: "Yeah, I think this point about cybernetics as a decision making tool is really key.", start: 3047.95, end: 3052.07, zh: "是的，我认为关于控制论作为决策工具这一点非常关键。（cybernetics 控制论；decision making 决策）"}
+  - {text: "And it's something that you see come up in many other things at the time at Rand and elsewhere, looking at cybernetics as a way to", start: 3052.19, end: 3057.47, zh: "这在兰德公司及其他地方的许多其他事物中都能看到，当时人们将控制论视为一种……（Rand 兰德公司；cybernetics 控制论）"}
+  - {text: "think about how can we make decisions better?", start: 3057.47, end: 3059.03, zh: "思考我们如何能做出更好的决策？"}
+  - {text: "How can we optimize systems?", start: 3059.19, end: 3060.39, zh: "我们如何能优化系统？（optimize 优化）"}
+  - {text: "There's an overlap with another field, another post war science that dies away, which is the science of futurology.", start: 3061.15, end: 3067.43, zh: "这与另一个战后兴起但后来消亡的学科有重叠，那就是未来学。（futurology 未来学）"}
+  - {text: "How can you predict the future using different techniques?", start: 3067.63, end: 3070.57, zh: "如何利用不同的技术来预测未来？"}
+  - {text: "And for example, Daniel Bell, the famous American sociologist, he chairs a commission on the year 2000 in the 1960s in the USA.", start: 3071.27, end: 3077.81, zh: "例如，著名美国社会学家丹尼尔·贝尔，他在20世纪60年代在美国主持了一个关于2000年的委员会。（Daniel Bell 丹尼尔·贝尔；sociologist 社会学家）"}
+  - {text: "And in his book, The End of Ideology, he talks about how cybernetics is one of these decision sciences, which can help build through rational decision making, help us build a utopia.", start: 3078.43, end: 3089.55, zh: "在他的著作《意识形态的终结》中，他谈到控制论是这些决策科学之一，可以通过理性决策帮助我们构建乌托邦。（The End of Ideology 《意识形态的终结》；utopia 乌托邦）"}
+  - {text: "So there's this really this kind of utopia through automated decision tools and cybernetic decision tools and decision sciences.", start: 3089.89, end: 3095.79, zh: "所以，这里存在一种通过自动化决策工具、控制论决策工具和决策科学来实现乌托邦的理念。（utopia 乌托邦；cybernetic 控制论的）"}
+  - {text: "So finally, there's been a lot of literary speculation about machines and humans and and cyborgs.", start: 3096.41, end: 3105.47, zh: "最后，关于机器、人类和半机械人的文学想象有很多。（speculation 推测，想象；cyborgs 半机械人）"}
+  - {text: "Are we getting to a stage where all of that dystopian vision is actually possibly becoming a reality?", start: 3105.87, end: 3113.01, zh: "我们是否正进入一个阶段，那些反乌托邦的愿景实际上有可能变成现实？（dystopian 反乌托邦的）"}
+  - {text: "John? So in 1952, Kurt Vonnegut published his first novel, Player Piano, in which it's a dystopia all about the terrible effects of automation.", start: 3113.59, end: 3125.98, zh: "约翰？1952年，库尔特·冯内古特出版了他的第一部小说《大玩家钢琴》，那是一个关于自动化可怕后果的反乌托邦故事。（Kurt Vonnegut 库尔特·冯内古特，美国作家；Player Piano 《大玩家钢琴》，冯内古特的小说；automation 自动化）"}
+  - {text: "And the sort of leader of the whole terrible system is a character called Wiener.", start: 3126.92, end: 3133.42, zh: "那个可怕体系的首领是一个叫维纳的角色。（Wiener 维纳，这里指小说中的角色，影射控制论创始人诺伯特·维纳）"}
+  - {text: "So right if you're talking fiction, and Kurt Vonnegut is one of the very best of the the pessimistic thinkers about our world, about war, about destruction", start: 3135.02, end: 3147.46, zh: "没错，如果你谈论小说，库尔特·冯内古特是关于我们世界、战争、毁灭……（pessimistic 悲观的）"}
+  - {text: "and about science and technology in the future.", start: 3147.46, end: 3150.34, zh: "……以及未来科学技术的极少数最杰出的悲观思想家之一。"}
+  - {text: "Right from the very start of his work, we have Norbert Wiener and Cybernetics.", start: 3151.60, end: 3157.16, zh: "从他作品的最开始，我们就有了诺伯特·维纳和控制论。（Norbert Wiener 诺伯特·维纳，控制论创始人；Cybernetics 控制论）"}
+  - {text: "I think Martha's coming in with an offer of...", start: 3157.84, end: 3160.96, zh: "我想玛莎正在进来，提议……（Martha 玛莎，人名）"}
+  - {text: "Tea or coffee? I'll take a tea.", start: 3160.96, end: 3162.44, zh: "茶还是咖啡？我要一杯茶。"}
+  - {text: "Love a cup of tea.", start: 3162.78, end: 3163.42, zh: "我很想喝杯茶。"}
+  - {text: "In our time with Misha Glen, he was produced by Martha Owen.", start: 3164.58, end: 3168.97, zh: "本期《In Our Time》由米莎·格林主持，玛莎·欧文制作。（In Our Time 我们的时代，BBC Radio 4 的学术访谈节目；Misha Glen 米莎·格林；Martha Owen 玛莎·欧文）"}
+  - {text: "It's a BBC Studios production for Radio 4.", start: 3169.41, end: 3171.93, zh: "这是 BBC Studios 为第四台制作的节目。（BBC Studios BBC 工作室；Radio 4 第四台，BBC 的电台频道）"}
+  - {text: "If you've got a scrolling problem, then this is the podcast for you.", start: 3172.53, end: 3175.31, zh: "如果你受够了无休止的刷屏，那这个播客就是为你准备的。（scrolling problem 刷屏问题，指过度浏览社交媒体）"}
+  - {text: "It's called Top Comment with Me Matt Shea and Me Marianna Spring.", start: 3175.67, end: 3178.59, zh: "节目叫《Top Comment》，由我和玛丽安娜·斯普林主持。（Top Comment 顶级评论；Me Matt Shea 马特·希亚；Me Marianna Spring 玛丽安娜·斯普林）"}
+  - {text: "We both investigate social media for a living, whether it's disinformation, conspiracy theories, internet culture, memes.", start: 3178.81, end: 3185.11, zh: "我们俩都以调查社交媒体为生，无论是虚假信息、阴谋论、网络文化还是梗图。（disinformation 虚假信息；conspiracy theories 阴谋论；memes 梗图，网络流行文化符号）"}
+  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3185.67, end: 3189.33, zh: "在这个播客里，我们将深入剖析那些出现在你信息流里的内容。（feed 信息流，社交媒体上自动推送的内容列表）"}
+  - {text: "That's Top Comment on BBC Sounds.", start: 3189.77, end: 3191.79, zh: "这就是在 BBC Sounds 上收听《Top Comment》。（BBC Sounds BBC 声音，BBC 的音频流媒体平台）"}
 ---

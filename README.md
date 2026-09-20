@@ -39,8 +39,8 @@ tools/r2_client.py        # shared R2 signing/upload code (stdlib only)
 tools/r2_upload.py        # R2 CLI (also used from make_episode.py)
 tools/make_og.py          # Open Graph image for an episode
 tools/flag_a2.py          # A2-level sentence flagging (uses tools/phrase_notes.tsv)
-tools/qwen_explain.py     # writes the A2 notes with a local Qwen server
-tools/merge_explain.py    # merge the plain-English sentence notes
+tools/qwen_explain.py     # writes the 💡 A2 notes and the 🀄 Chinese notes (local Qwen)
+tools/merge_explain.py    # merge both note kinds into the sentence frontmatter
 tools/phrase_notes.tsv    # set-phrase table used by the flagger
 tools/daily_bbc_pipeline.sh      # the whole daily chain (systemd calls this)
 tools/r2-portal/          # Cloudflare Worker behind the /files/ page (+ its test)
@@ -137,28 +137,60 @@ The older `bbc_gnp` / `bbc_iot` / `bbc-publish` units are superseded by
 install them as they are. To add In Our Time, copy `bbc-daily.service` and set
 `Environment=SHOW=in-our-time DL_DIR=downloads/In Our Time`.
 
-### The A2 notes
+### The A2 notes and the Chinese notes
 
-`tools/qwen_explain.py` talks to the local SGLang server (`sglang-qwen.service`,
-`Qwen3.8-27B-FP8` on `127.0.0.1:30000`). The daily pipeline starts it if it is
-not already running:
+Every sentence can carry two generated notes, both written by a local Qwen
+(`sglang-qwen.service`, `Qwen3.8-27B-FP8` on `127.0.0.1:30000`; the daily
+pipeline starts it if it is not already running):
+
+| field | what it is | which sentences |
+|---|---|---|
+| `explain` | 💡 plain-English note on the words above CEFR A2 | only the sentences `flag_a2.py` flags as containing something beyond A2 |
+| `zh` | 🀄 the sentence in Simplified Chinese, followed by the Chinese meanings of the hard terms in full-width parentheses | **every** sentence |
+
+The two differ in coverage on purpose. `explain` marks what is *hard*; `zh` is a
+translation, and a translation with holes is useless — ordinary sentences like
+"It's a huge deal in and of itself." are never flagged, yet a reader following
+along still needs them. So `zh` is generated from the episode frontmatter
+directly and covers all 11k+ sentences:
 
 ```bash
-./venv/bin/python tools/qwen_explain.py --dry-run          # check the endpoint
-./venv/bin/python tools/qwen_explain.py --slug <episode>   # one episode
-./venv/bin/python tools/qwen_explain.py --force            # regenerate all
+./venv/bin/python tools/qwen_explain.py --dry-run              # check the endpoint
+./venv/bin/python tools/qwen_explain.py --slug <episode>       # 💡 one episode
+./venv/bin/python tools/qwen_explain.py --all-sentences        # 🀄 every episode
+./venv/bin/python tools/qwen_explain.py --all-sentences --slug <episode>
+./venv/bin/python tools/merge_explain.py [slug]                # into frontmatter
 ```
+
+Results are split by job, because they answer different questions:
+
+```
+tools/a2_chunks/results/<slug>_cNN.json   💡 explain, per flagged chunk
+tools/a2_chunks/results/<slug>_zh.json    🀄 zh, one file per episode, all sentences
+```
+
+`merge_explain.py` reads both (globbing `<slug>_*.json`, so `_zh.json` sorts last
+and wins for Chinese) and is additive per field: re-merging never drops a field
+the results do not carry. It also leaves a file untouched when nothing changed.
+
+On the page both notes are hidden until the sentence is playing; the **中文**
+button in the bottom player bar additionally shows every Chinese note at once, so
+the translation can be read before or after listening. That preference is stored
+in `localStorage` like Auto-continue, and applied through `<html data-zh="on">`.
+
+Not yet wired: the **vocabulary book** (AppWrite) still stores only `text` and
+`explain`, because its collection has no `zh` attribute. Adding one in the
+AppWrite console plus a few lines in `assets/js/appwrite.js` would let saved
+sentences show their Chinese too.
 
 The daily pipeline only annotates the episodes **it published in that run**, so
 the timer can never quietly rewrite a hundred older pages. Older episodes that
-have no notes yet (the In Our Time run, and the Global News episodes from
-2026-09-09 to 2026-09-12) are a deliberate backfill; generate them in bounded
-batches and merge:
+have no notes yet (the In Our Time run) are a deliberate backfill; run the two
+commands above for the slugs you want, then commit:
 
 ```bash
 ./venv/bin/python tools/qwen_explain.py --limit 20         # 20 chunks this pass
 ./venv/bin/python tools/merge_explain.py                   # merge into frontmatter
-./venv/bin/python tools/bbc_publish.py --dry-run           # (nothing to publish)
 git -C . add content/episodes && git commit -m "A2 notes" && git push
 ```
 

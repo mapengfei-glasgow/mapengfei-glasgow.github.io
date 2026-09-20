@@ -146,8 +146,14 @@ run_notes() {
     "$PY" tools/flag_a2.py || return 1
     local slug
     for slug in "$@"; do
+        # 💡 English notes: only for the sentences that contain something
+        # beyond A2 (that is what flag_a2.py hands over).
         log "notes: generating explanations for $slug"
         "$PY" tools/qwen_explain.py --slug "$slug" || return 1
+        # 🀄 Chinese: every sentence, because a reader following along needs the
+        # ordinary sentences translated too — those are never flagged.
+        log "notes: translating every sentence of $slug"
+        "$PY" tools/qwen_explain.py --all-sentences --slug "$slug" || return 1
     done
     log "notes: merging explanations into frontmatter"
     "$PY" tools/merge_explain.py || return 1

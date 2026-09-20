@@ -9,596 +9,596 @@ audioDir: "2026-06-04-joseph-roth"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-06-04-joseph-roth/episode.mp3"
 totalDuration: 3386.6
 sentences:
-  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.24, end: 14.24}
-  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08}
-  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different.", start: 21.28, end: 26.58}
-  - {text: "I think I have one of the best jobs in broadcasting.", start: 27.06, end: 29.56}
-  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.18, end: 32.92}
-  - {text: "Hi, this is Misha Glany.", start: 34.23, end: 35.97}
-  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.69, end: 40.89}
-  - {text: "But if you can't wait, head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.61, end: 49.49}
-  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 50.19, end: 58.99}
-  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.66, end: 64.71}
-  - {text: "I hope you enjoy the programme.", start: 65.25, end: 66.67}
-  - {text: "Hello. Joseph Roth, 1894 to 1939 was one of the great writers on the dying of the old order in Central Europe after the First World War,", start: 68.62, end: 79.28}
-  - {text: "the loss of homeland and the horror of what was to come.", start: 79.86, end: 83.50}
-  - {text: "Most English speakers incidentally refer to him as Joseph Roth.", start: 84.12, end: 87.48}
-  - {text: "In his journalism and in works such as Rudetsky March, Job, Rebellion and Flight Without End, Roth explored the impact of the Austro -Hungarian Empire's collapse on the world around him,", start: 88.08, end: 100.72}
-  - {text: "and as a German speaking Jew from the northeastern edge of that empire, whose books the Nazis burned, Roth was to spend his life drifting westwards without ever finding a settled home.", start: 101.18, end: 113.30}
-  - {text: "With me to discuss Joseph Roth or Roth are Helen Chambers, Emeritus Professor of German at the University of St Andrews, Deborah Holmes, Associate Professor of Modern German Literature at the University of Salzburg,", start: 114.00, end: 127.60}
-  - {text: "and John Hughes, Reader in German and Cultural Studies at Royal Holloway University of London.", start: 128.06, end: 134.00}
-  - {text: "And John, it's to you I want to come first.", start: 134.48, end: 136.58}
-  - {text: "Can you tell us a bit about Roth's childhood in Brody, then in the Austro -Hungarian Empire, of course, but it's now on the very edge of Ukraine?", start: 136.94, end: 146.78}
-  - {text: "Yes, indeed, yeah. So, I mean, many listeners, if they know Roth at all, they will probably think of him as an Austrian author, but his origins were far from Austria, as we know it today.", start: 147.26, end: 157.54}
-  - {text: "As you said, born in Brody, which at the time of his birth was in Galicia, which was the largest, the northernmost province in Austria -Hungary, the Habsburg Empire.", start: 157.62, end: 168.22}
-  - {text: "Galicia, as you mentioned, occupies a fairly large area, which is now, falls now within southeast Poland and the west of Ukraine.", start: 169.20, end: 177.70}
-  - {text: "And if you look up Brody on the map today, you'll see it's there in the west of Ukraine, maybe 100 kilometres or so east of Lviv or Lemberg,", start: 178.08, end: 187.56}
-  - {text: "as it was known in Roth's time in German.", start: 187.82, end: 189.92}
-  - {text: "But in the year of Roth's birth, 1894, Brody was very much a border town.", start: 190.52, end: 195.14}
-  - {text: "It was right on the edge of the Austro -Hungarian Empire, close to the border with Russia.", start: 195.14, end: 201.24}
-  - {text: "And because of that, it had flourished as a sort of trading centre for the previous century or so.", start: 202.60, end: 207.24}
-  - {text: "And, you know, perhaps as a consequence of that, it was quite a mixed community, multi -ethnic, multi -lingual, multicultural.", start: 207.88, end: 215.30}
-  - {text: "Roth himself was born to a German speaking Jewish family and so grew up speaking one of the languages of empire, high German, but he would have been very familiar with the sound of Polish, Yiddish, Ukrainian, Russian also during his childhood.", start: 216.36, end: 233.56}
-  - {text: "And I think he also had a working knowledge of all of those languages.", start: 233.68, end: 237.28}
-  - {text: "Despite that, I think he had felt that Brody was quite a provincial place.", start: 237.96, end: 241.88}
-  - {text: "He spent his childhood often wishing he could get away, even though later in life it became so important to him and in his work.", start: 242.38, end: 248.94}
-  - {text: "He was brought up by a single mother who, by all accounts, was quite protective, overprotective even.", start: 249.41, end: 255.58}
-  - {text: "He never knew his father who had abandoned the family when Roth was quite young.", start: 256.10, end: 260.88}
-  - {text: "In later life, Roth tended to fabricate fantastical stories about this absent father.", start: 261.50, end: 266.60}
-  - {text: "He often sort of claimed, for example, that the father had been some sort of high ranking military officer.", start: 266.80, end: 272.38}
-  - {text: "But in truth, he was a Jewish businessman, a failed businessman, really, who later became mentally ill and was institutionalized and never really came to terms with that.", start: 272.54, end: 284.34}
-  - {text: "It was not a detail which he confided really to anyone in his lifetime.", start: 284.42, end: 287.98}
-  - {text: "At any rate, he did get away from Brody eventually.", start: 288.80, end: 290.94}
-  - {text: "He studied first in Leviv and then transferred to Vienna before his studies were interrupted by the First World War, the outbreak of war.", start: 291.40, end: 299.88}
-  - {text: "And he was a very intelligent young boy.", start: 300.08, end: 302.72}
-  - {text: "He did well at school.", start: 303.04, end: 304.08}
-  - {text: "Yes, he attended the gymnasium.", start: 304.08, end: 306.54}
-  - {text: "So the sort of grammar school in Brody excelled really academically, although by all accounts was something of a loner from an early age.", start: 306.90, end: 314.94}
-  - {text: "Enjoyed literature, German literature in particular.", start: 315.04, end: 317.90}
-  - {text: "This was at the tail end of when German was one of the teaching languages actually in Brody.", start: 318.34, end: 322.48}
-  - {text: "And shortly after he completed his secondary education, I think the language of instruction switched almost entirely to Polish.", start: 322.70, end: 328.86}
-  - {text: "So it was a change.", start: 329.32, end: 330.38}
-  - {text: "It was changing really during his lifetime.", start: 330.50, end: 332.18}
-  - {text: "So he moves to Vienna, the imperial capital on the very eve of the First World War, with the defeat of the Central Powers in 1918, the empire collapses too.", start: 332.18, end: 347.26}
-  - {text: "How abrupt were the changes which he experienced after 1918?", start: 347.82, end: 352.08}
-  - {text: "He'd served in the war, although not on the front line.", start: 352.72, end: 355.76}
-  - {text: "We don't think he served in frontline combat, although he again, it's something he claimed various things to the contrary later in life.", start: 356.26, end: 363.14}
-  - {text: "So he finished the war, demobbed really from from the army, returning to Vienna.", start: 363.94, end: 368.14}
-  - {text: "Brody, his hometown from 1919, became part of the new Polish Republic.", start: 368.68, end: 374.16}
-  - {text: "And so really was not really recognisable as the place in which he'd grown up and with which he had identified.", start: 374.64, end: 380.72}
-  - {text: "German was no longer one of the languages spoken there, not a recognised one.", start: 380.98, end: 384.76}
-  - {text: "For a time, I think then he he was ready to embrace the post -war world.", start: 385.22, end: 390.16}
-  - {text: "He was quite open to the opportunities that might be offered by the new democracies that were emerging.", start: 390.24, end: 395.82}
-  - {text: "But that gradually started to change during the course of the next decade or so.", start: 396.20, end: 401.22}
-  - {text: "Well, let me follow on with Helen Chambers.", start: 401.64, end: 404.46}
-  - {text: "Helen, he stays in Vienna and starts work as a journalist.", start: 404.86, end: 410.42}
-  - {text: "What were the opportunities there like?", start: 411.10, end: 412.98}
-  - {text: "Because there must have been some stiff competition.", start: 412.98, end: 415.02}
-  - {text: "I mean, the Austrian capital boasted a rich array of novelists and commentators at the time.", start: 415.26, end: 420.50}
-  - {text: "Yes, it's quite hard to know how he got into it, except that there are reports from editors in the offices that he turned up at.", start: 420.74, end: 429.04}
-  - {text: "And the report that this young man appeared very skinny in a ragged military shirt, very proud and handed over his short texts, which were then received and indeed published.", start: 429.40, end: 444.04}
-  - {text: "And he had a quite remarkable output and success.", start: 444.68, end: 448.46}
-  - {text: "And in that first year, 1919, when he'd filled in his registration card with Occupation Journalist, which he wasn't really.", start: 448.80, end: 456.98}
-  - {text: "He then published 178 articles in 1919 as a 24 year old and already in these articles.", start: 457.86, end: 465.58}
-  - {text: "And you ask me why and how he succeeded.", start: 465.70, end: 467.72}
-  - {text: "And perhaps you're bloody minded, but also the quality of his work is absolutely clear from the outset.", start: 469.08, end: 477.06}
-  - {text: "I mean, not every article as a gem, but very many of them do all the things that he was later to do in his novels.", start: 477.52, end: 484.82}
-  - {text: "And one of the things that characterizes that that journalism is he has an eye for the for the underdog.", start: 485.16, end: 491.34}
-  - {text: "Details that at first glance appear insignificant, but actually perhaps something that really matters.", start: 491.56, end: 498.28}
-  - {text: "Yes, I mean, he was very concerned with injustice, with the underdog, with the veterans coming back with nowhere to go, unemployed, no income.", start: 498.88, end: 510.66}
-  - {text: "And he watched them and he saw them and he went to military hospital and he saw people whose faces had been shot away, jaws shot away.", start: 511.06, end: 520.88}
-  - {text: "And they weren't allowed to look in the mirror and they weren't allowed to see plaster casts of themselves, although these existed and wrote wrote a", start: 520.98, end: 530.00}
-  - {text: "really hard hitting piece saying they should show these photographs before the newsreels.", start: 530.00, end: 535.90}
-  - {text: "They should put them on the advertising pillars and people wouldn't fight wars again.", start: 536.08, end: 541.50}
-  - {text: "Was I mean, he didn't say explicitly people wouldn't fight wars again.", start: 541.50, end: 545.52}
-  - {text: "But that was very much what he, you know, he could see that these people were suffering dreadful injustice.", start: 545.52, end: 551.80}
-  - {text: "Deborah Holmes, let me ask you about Rott as a Foyeton writer.", start: 552.62, end: 557.26}
-  - {text: "So can you explain what a Foyeton is very important in Austrian and German culture and why they were so important?", start: 557.78, end: 565.78}
-  - {text: "Certainly, yes. I mean, I think one of the reasons why you're Ziffer Rott, even at this very, very dynamic period in cultural history, was able to be such an immediate success.", start: 566.24, end: 576.66}
-  - {text: "I think it's fair to say is that we're in despite the end of the war and shortage of paper and a shortage of healthy manpower.", start: 576.84, end: 585.08}
-  - {text: "We're still in a period that's a golden age of print media and the daily papers, there were, you know, scores of daily papers in each big city, each big German speaking city.", start: 585.56, end: 594.58}
-  - {text: "And they had two and three editions a day.", start: 594.92, end: 596.94}
-  - {text: "I mean, that's that's a lot of newspaper to fill.", start: 597.10, end: 598.96}
-  - {text: "And the Foyeton was both a part of the newspaper.", start: 599.64, end: 602.02}
-  - {text: "It was the cultural arts section of the newspaper, but the word Foyeton was also used to describe short texts that could be subjective, descriptive, narrative,", start: 602.02, end: 612.46}
-  - {text: "question mark, they could be purely descriptive, but that Foytonists, so thought of himself as a journalist, but as a Foytonist, they would churn them out day on day about anything", start: 613.06, end: 622.68}
-  - {text: "and everything that they saw walking around the city.", start: 622.68, end: 624.58}
-  - {text: "And the idea was or the tradition was is that the style could or should be subjective.", start: 625.26, end: 629.92}
-  - {text: "And it was in the newspaper partly as a commentary on current affairs and on politics and business and other daily news, but also as a part of the newspaper that would outlive current affairs.", start: 629.94, end: 641.94}
-  - {text: "So the original Foyeton was published under a thick black line on the bottom third of the page.", start: 642.26, end: 647.40}
-  - {text: "And the idea was that you cut off that bit of the page and kept it because although this writing was subjective and personal, it was going to be what outlived the daily news,", start: 647.48, end: 656.62}
-  - {text: "these little perceptions and descriptions of daily life.", start: 656.86, end: 659.78}
-  - {text: "Sounds a bit like in our time.", start: 659.90, end: 661.36}
-  - {text: "He before long started experimenting with novels as well.", start: 663.16, end: 668.32}
-  - {text: "And one of the early ones is called Rebellion, and it encapsulates quite a lot of Rod's outlook on life.", start: 668.50, end: 675.22}
-  - {text: "Can you tell us about that?", start: 675.40, end: 676.48}
-  - {text: "Certainly, yeah, it's a fabulous novel.", start: 677.04, end: 679.28}
-  - {text: "It's of his earlier novels.", start: 679.52, end: 681.18}
-  - {text: "So we're talking 1924.", start: 681.56, end: 683.14}
-  - {text: "In 1923, 24, he actually wrote and published three novels, which is also quite a considerable feat.", start: 684.04, end: 690.28}
-  - {text: "When you consider that he's, as we've said, he's churning out journalism the whole time as well.", start: 690.28, end: 695.04}
-  - {text: "So Rebellion, Rebellion, is actually based on a true story.", start: 695.66, end: 700.00}
-  - {text: "It was based on a court case from 1923 that Kai Kraus, a famous Viennese satirist and commentator, talks about in his one man periodical defacus of the torch,", start: 700.10, end: 711.64}
-  - {text: "which saw itself as a sort of antidote to the daily press and takes up this story.", start: 712.20, end: 717.22}
-  - {text: "It's about a veteran who returns from the front and he's lost a leg, but he feels totally content.", start: 717.34, end: 723.08}
-  - {text: "He feels that the government must know what it's doing.", start: 723.44, end: 725.62}
-  - {text: "He's going to get a prosthetic leg.", start: 726.14, end: 727.82}
-  - {text: "He's going to get some way of supporting himself.", start: 727.96, end: 729.78}
-  - {text: "It's all fine. And he did his duty.", start: 730.10, end: 731.74}
-  - {text: "And the story basically takes that mindset apart.", start: 732.28, end: 735.84}
-  - {text: "And there's one disaster after another that happens to this poor man.", start: 736.16, end: 739.32}
-  - {text: "So the story from the actual sort of true story that it's based on was of an invalid who gets back from the war and is", start: 739.74, end: 745.22}
-  - {text: "given a license to play a barrel organ on the street to earn money.", start: 745.22, end: 748.94}
-  - {text: "And that's what happens in the novel as well.", start: 748.94, end: 750.42}
-  - {text: "But then the barrel organ owner is confronted with someone who thinks that they are just pretending to be an invalid, that they are playing the system", start: 750.76, end: 759.32}
-  - {text: "and an argument ensues and the police are involved and the barrel organ license gets taken away from the invalid.", start: 759.32, end: 766.46}
-  - {text: "And that happens in the novel as well.", start: 766.58, end: 768.26}
-  - {text: "And then he loses his wife, loses his family, loses his source of income.", start: 768.62, end: 773.02}
-  - {text: "And by the end of the novel is left railing at God and at Providence and from the beginning of the novel where he's quite happy to fit in with the with the existing order to the end of the novel where he's saying, I want to go to hell.", start: 773.02, end: 785.36}
-  - {text: "I'm, you know, but the typical road.", start: 785.64, end: 788.04}
-  - {text: "We have this sort of scene that seems to be taking place in the afterlife.", start: 788.34, end: 791.42}
-  - {text: "But the last that we hear about the war invalid is he wasn't sure whether he was in heaven or hell, but the rebellion itself is the point of the novel.", start: 791.92, end: 800.00}
-  - {text: "This realization that actually maybe it wasn't enough to do your duty or it wasn't the government's not actually doesn't actually know what it's doing.", start: 800.16, end: 807.00}
-  - {text: "You know, maybe the war was senseless.", start: 807.42, end: 809.32}
-  - {text: "So, John, he has this experience of Vienna of decline, disappointment decides fairly quickly to move to Berlin.", start: 809.88, end: 817.76}
-  - {text: "What is it about Berlin that attracts him?", start: 818.22, end: 820.26}
-  - {text: "Well, I think he moves to Berlin in 1920.", start: 820.50, end: 823.20}
-  - {text: "So, as you say, fairly quickly.", start: 823.58, end: 825.54}
-  - {text: "He's hugely productive in Vienna, but he moves to Berlin.", start: 826.02, end: 829.48}
-  - {text: "I think primarily as a sort of economic migrant, he goes there because he thinks there'll be better opportunities for him and a better chance that he will establish himself as a writer there.", start: 829.98, end: 839.94}
-  - {text: "And Berlin in this period is becoming something of a mecca or a cultural magnet, I think, for people from all around German speaking Europe and beyond.", start: 840.58, end: 848.90}
-  - {text: "It's growing very quickly.", start: 849.10, end: 850.20}
-  - {text: "I think by the end of the 20s, there's more than four million people living in Berlin, which means it was bigger then that it is today.", start: 850.46, end: 856.14}
-  - {text: "It has an incredibly productive and thriving newspaper and publishing industry, even more so than was the case in Vienna.", start: 856.64, end: 865.82}
-  - {text: "Dozens of daily newspapers in multiple editions, as Deborah said, as well as weekly magazines.", start: 866.24, end: 871.78}
-  - {text: "So there are plenty of opportunities for fraud in a place like Berlin.", start: 872.18, end: 875.38}
-  - {text: "Of course, there's also the arts scene there, theatre, music, cabaret, the emerging film industry in Weimar Germany as well.", start: 875.72, end: 882.76}
-  - {text: "So there's a lot happening in Berlin, but it's also a place of extremes as well, political, cultural, social.", start: 882.82, end: 888.76}
-  - {text: "And he's very sensitive to those extremes as well.", start: 888.86, end: 891.64}
-  - {text: "And he gets he gets good work.", start: 891.64, end: 893.66}
-  - {text: "He starts working for the Frankfurter Zeitung, the forerunner of the Frankfurter Algemene Zeitung, which is as good as it gets at that time.", start: 893.82, end: 902.54}
-  - {text: "Yeah, I mean, it was the Frankfurter Zeitung where he eventually becomes one of the key names publishing regularly in the Freudian section.", start: 902.62, end: 909.80}
-  - {text: "It was one of the prestige titles in the Weimar Republic, headquartered in in Frankfurt and Main.", start: 910.32, end: 916.90}
-  - {text: "But he he was the sort of Berlin cultural correspondent for a time.", start: 917.48, end: 921.16}
-  - {text: "And he was correspondingly well paid.", start: 921.64, end: 923.28}
-  - {text: "He was a prominent figure by the middle of the 1920s.", start: 923.34, end: 926.18}
-  - {text: "So Berlin gives him the chance to establish himself first as a journalist and then building on that as an author of fiction from 1923.", start: 926.32, end: 933.90}
-  - {text: "Thank you, John. So Helen Chambers, he's doing rather well in Berlin, but he's moving around a lot.", start: 934.12, end: 941.70}
-  - {text: "Seems to be a bit of a restless soul.", start: 942.18, end: 944.88}
-  - {text: "His writing is also quite unpredictable.", start: 945.90, end: 948.10}
-  - {text: "It goes off in different directions.", start: 948.48, end: 950.06}
-  - {text: "Is that right? Up to a point.", start: 950.22, end: 952.56}
-  - {text: "I mean, he was just to perhaps go on from what John was saying.", start: 952.78, end: 955.96}
-  - {text: "He was at one time the best paid journalist on the Frankfurter Zeitung.", start: 956.06, end: 960.36}
-  - {text: "And he wrote his articles exactly the same size as the column inches in the paper.", start: 960.56, end: 965.78}
-  - {text: "And he earned a mark, a line.", start: 966.00, end: 968.24}
-  - {text: "So he he was earning a lot of money, but he said that Berlin was like waiting room in a big station.", start: 968.70, end: 975.42}
-  - {text: "And he was he was what did he mean by that?", start: 976.04, end: 979.24}
-  - {text: "Well, he meant he was waiting.", start: 979.24, end: 980.70}
-  - {text: "He didn't like Berlin very much.", start: 980.74, end: 982.50}
-  - {text: "And well, I mean, it got worse and worse, of course, with the Nazi violence and with what was going on in the courts, which he saw very early on.", start: 983.16, end: 989.90}
-  - {text: "But he he said it was like this waiting room.", start: 990.58, end: 993.74}
-  - {text: "It was a kind of no man's land.", start: 993.86, end: 995.50}
-  - {text: "And I think he said I'm trading in books and newspapers to get the money to get my ticket out of here.", start: 995.80, end: 1001.82}
-  - {text: "And you're quite right.", start: 1002.00, end: 1002.88}
-  - {text: "I mean, he traveled a lot.", start: 1002.98, end: 1004.10}
-  - {text: "He wanted to be the Paris correspondent for the Frankfurter Zeitung.", start: 1004.46, end: 1008.08}
-  - {text: "But they gave it to another guy for reasons that we won't go into and wrote it, I think, or two to say about that.", start: 1008.08, end: 1013.84}
-  - {text: "But to kind of compensate for that, they sent him to Russia to report on Soviet Russia on the new Russia for four months in 1926.", start: 1014.00, end: 1024.88}
-  - {text: "So he did travel a lot.", start: 1026.48, end: 1027.88}
-  - {text: "But he also did other trips for the Frankfurter Zeitung.", start: 1028.02, end: 1032.58}
-  - {text: "And that was the kind of thing they published in the press.", start: 1032.62, end: 1034.86}
-  - {text: "You know, I've traveled to Gillespie or to the Roorkebeat or wherever it happened to be.", start: 1034.86, end: 1039.28}
-  - {text: "After a summer of lounging and listening to BBC podcasts, you might need help readjusting to the rhythm of normal life.", start: 1040.88, end: 1047.50}
-  - {text: "So listen to a breakfast show live on BBC Sounds.", start: 1048.39, end: 1051.51}
-  - {text: "Good morning. Get up and at it with Greg James on Radio One.", start: 1051.79, end: 1056.39}
-  - {text: "You are the Ooling.", start: 1056.55, end: 1057.59}
-  - {text: "Me cocks it, it'll do.", start: 1057.65, end: 1058.61}
-  - {text: "Have a laugh with Sarah Cox on Radio Two.", start: 1058.83, end: 1061.09}
-  - {text: "We'll calm it all down with Tom McKinney on Radio Three.", start: 1061.57, end: 1064.91}
-  - {text: "Enjoy the rest of your day.", start: 1065.07, end: 1065.91}
-  - {text: "Breakfast packed with personality.", start: 1066.59, end: 1068.71}
-  - {text: "Listen on BBC Sounds.", start: 1069.05, end: 1070.25}
-  - {text: "Deborah, he is in literary terms a master of the poignant.", start: 1070.93, end: 1075.95}
-  - {text: "Would you agree? Yes, although it's very difficult to pin down how he does it.", start: 1076.33, end: 1082.05}
-  - {text: "It's quite often been said that he writes simply, but that's deceptively simple somehow.", start: 1082.57, end: 1089.69}
-  - {text: "I mean, we've said that he, you know, he, he champions the underdog.", start: 1089.93, end: 1092.93}
-  - {text: "He looks at the small details every day life.", start: 1092.93, end: 1096.41}
-  - {text: "So it's partly that, but he's not afraid to combine small details with with very big ideas.", start: 1096.99, end: 1104.69}
-  - {text: "So he's looking for the universal.", start: 1104.91, end: 1106.33}
-  - {text: "He's looking for he can be quite not exactly kitschy, but he can be quite sentimental.", start: 1106.61, end: 1110.75}
-  - {text: "He I'm thinking of a passage in rebellion in rebellion that we've just been talking about where the main character, Andreas Pum, has to sell his donkey.", start: 1110.83, end: 1120.05}
-  - {text: "And it's a very, very sad scene.", start: 1120.63, end: 1122.79}
-  - {text: "And the donkey is described as having gray fur and a human soul.", start: 1123.23, end: 1126.93}
-  - {text: "And that, you know, poignant, sentimental bit of bit of both.", start: 1127.45, end: 1131.31}
-  - {text: "But in the context of the novel as a whole, it really works.", start: 1131.47, end: 1134.05}
-  - {text: "It works for me anyway.", start: 1134.11, end: 1134.93}
-  - {text: "So it is it's often he's very good at children on childlike figures.", start: 1135.59, end: 1140.93}
-  - {text: "And he's also, I think what makes it poignant to me is that he manages to make these figures convincing you're invested in them.", start: 1141.37, end: 1148.37}
-  - {text: "But they're not they're not made into heroes in any way.", start: 1148.37, end: 1151.53}
-  - {text: "And they don't become sort of unrealistically perceptive or they remain ordinary people.", start: 1151.65, end: 1157.51}
-  - {text: "No, I would say there's an absence of clear heroes in in the words work, which brings us on, John, to his major work, the one that he's best known for, Redetzky March,", start: 1157.69, end: 1169.49}
-  - {text: "a fun farewell to life in the in the empire.", start: 1170.37, end: 1174.25}
-  - {text: "What's it? What's he up to here?", start: 1174.51, end: 1176.05}
-  - {text: "Yeah, well, Redetzky March or the Redetzky March, as I think it's been translated into English, it's certainly his longest novel.", start: 1176.69, end: 1183.59}
-  - {text: "It's the one which is most acclaimed and for which he's probably best remembered.", start: 1183.89, end: 1188.85}
-  - {text: "It's the one which established him as the great chronicler of the end of empire.", start: 1189.17, end: 1193.05}
-  - {text: "It's actually quite different to many of his previous novels, certainly the ones he published in the 1920s, many of which with a partial exception of rebellion, actually have quite a quite fragmentary, quite open endings.", start: 1193.53, end: 1206.09}
-  - {text: "A good example would be Flight Without End from 1927, which includes with a protagonist feeling completely lost, alive, but not knowing what to do with his life.", start: 1206.61, end: 1216.55}
-  - {text: "And we don't know what happens next.", start: 1216.67, end: 1218.09}
-  - {text: "The Redetzky March, by contrast, has a great a real sense of finality in its conclusion.", start: 1218.89, end: 1223.75}
-  - {text: "It concludes with the deaths of its main characters, but also with the end of the empire that has shaped them.", start: 1224.09, end: 1229.79}
-  - {text: "And the two are sort of intertwined in the novel.", start: 1229.79, end: 1233.13}
-  - {text: "So as you say, it's the moments in his career that he really firmly looks back and tries to take stock of what happened at the end of empire and why it mattered to him.", start: 1233.53, end: 1242.39}
-  - {text: "So it's a generational novel in which the story of a single family somehow stands as a metaphor for the decline of the empire as a whole under the leadership of the aging Kaiser, Franz Josef,", start: 1242.55, end: 1256.79}
-  - {text: "who actually appears several times as a character in the novel.", start: 1256.81, end: 1260.03}
-  - {text: "The story is focused on three male members of the Fontrota family.", start: 1260.57, end: 1265.59}
-  - {text: "It begins with a grandfather figure who, as a young man, saves the life of the emperor at the Battle of Solferino, which took place in 1859,", start: 1266.33, end: 1276.99}
-  - {text: "which makes him a sort of hero of the empire but also elevates the family into the aristocracy.", start: 1277.87, end: 1283.33}
-  - {text: "We meet his son, who is a sort of patrician, bureaucrat, very, very conservative and controlling.", start: 1284.01, end: 1290.43}
-  - {text: "And finally, his son, Carl Josef, who is the last in the line, if you like.", start: 1290.91, end: 1296.23}
-  - {text: "And Carl Josef is characterised as somehow sort of paralysed by life, doesn't really know what to do with himself or seems incapable often of making decisions for himself.", start: 1296.63, end: 1305.85}
-  - {text: "He, in particular, he's intimidated by the idea of living up to the memory of that heroic grandfather.", start: 1306.57, end: 1312.17}
-  - {text: "He grows up looking at the portrait of this grandfather, so literally having to try and live up to the image of the grandfather and failing to do that mainly.", start: 1312.17, end: 1320.31}
-  - {text: "He becomes a career soldier but seems wholly unsuitable for that role or unsuited for that role.", start: 1320.83, end: 1326.11}
-  - {text: "And he seems also incapable of making any lasting relationships in his life.", start: 1326.57, end: 1330.91}
-  - {text: "So there were some quite negative or almost morbid themes that run through the novel, which, and it also plays with the musical motif of the title,", start: 1331.05, end: 1340.05}
-  - {text: "which is, of course, a reference to Johann Strauss, senior's famous Victory March.", start: 1340.05, end: 1345.41}
-  - {text: "But in the novel, it functions almost an ironic accompaniment to the terminal decline of the empire.", start: 1345.97, end: 1351.55}
-  - {text: "So Helen Chambers, what do you ascribe the success of the novel and do you see in it the work of a genius?", start: 1352.11, end: 1361.75}
-  - {text: "Yes, I do. And I mean, I think it's got great humanity.", start: 1362.49, end: 1366.15}
-  - {text: "It's also very funny, despite what John has said.", start: 1366.69, end: 1371.01}
-  - {text: "I mean, it's morbid, but there is this conflict between officialdom and the army, which trains people to obey.", start: 1371.55, end: 1381.11}
-  - {text: "And then these characters, and you usually, and this is part of Rote's magic really, you usually see the characters from their own perspective.", start: 1381.75, end: 1389.43}
-  - {text: "So you know what they're thinking.", start: 1389.43, end: 1391.05}
-  - {text: "And young Carol Joseph, the third one along, he's a 16 -year -old who is seduced by the local sergeant's wife, the beautiful Frau Slamma.", start: 1391.57, end: 1401.83}
-  - {text: "And she unbuttons his uniform, and he's sitting there thinking, don't think there's anything at the cadet school that told me what to do in this situation.", start: 1402.31, end: 1411.09}
-  - {text: "So there are things like that happen, and the emperor is indeed in it.", start: 1411.83, end: 1415.89}
-  - {text: "And he's, well, he kind of misses the battles in a way because he's an old soldier.", start: 1416.65, end: 1421.83}
-  - {text: "So he thinks I'll have some maneuvers out in the eastern borderlands, and he draws them all up, and he's sitting there in his horse, and everybody's gaping", start: 1422.37, end: 1432.05}
-  - {text: "because there's a drip on the end of his nose.", start: 1432.05, end: 1434.73}
-  - {text: "So Rote's showing you the frailty of this old man, and that he doesn't know what's going on, and he's a human being.", start: 1435.43, end: 1442.19}
-  - {text: "And that's part of, I think, Rote's great art, that he shows you human beings, he takes you close to their noses, their nostrils, their ears, their eyes, the back of their mouth.", start: 1442.53, end: 1453.75}
-  - {text: "I mean, there's a great concrete precision about these things.", start: 1454.01, end: 1457.63}
-  - {text: "And would you say that it's a nostalgic novel?", start: 1458.27, end: 1461.77}
-  - {text: "Well, I mean, Rote himself said, I'm looking back, but not uncritically, so it's kind of nostalgic because he misses this multinational land.", start: 1463.04, end: 1474.32}
-  - {text: "Yes, you do get a sense.", start: 1474.80, end: 1476.00}
-  - {text: "I mean, Austria hungry towards its end was often described as the prison of nations, and you get a sense that he's trying to modify that view of the Austro -Hungarian Empire.", start: 1476.24, end: 1487.54}
-  - {text: "Well, he would like it not to have been thus, but he knew it was thus, and he does show the decadence of the frailty and what the terrible officers get up to.", start: 1487.94, end: 1498.24}
-  - {text: "I mean, fiddling with his own burns has got nothing on Joseph Road, so, yeah.", start: 1498.42, end: 1503.32}
-  - {text: "John, you wanted to come in?", start: 1503.92, end: 1505.18}
-  - {text: "Yeah, just briefly, I mean, on what makes the novel great, what I enjoy really about it, despite those negative themes, it's the evocation of a lost world, really.", start: 1505.18, end: 1518.10}
-  - {text: "It's those incredibly detailed descriptions of formal occasions, of the sort of rituals of empire and the military, we get descriptions of uniforms, parades, duels, formal dinners, drunken parties,", start: 1518.32, end: 1534.30}
-  - {text: "but also a sense of place as well, so Vienna in its sort of imperial pomp, and also Brody as well.", start: 1534.76, end: 1541.90}
-  - {text: "I mean, the second half of the novel is essentially set in a Galician border town that draws on all of those memories of Hort's childhood.", start: 1542.14, end: 1548.64}
-  - {text: "Helen, what's extraordinary is his ability to write clear, clean copy.", start: 1549.20, end: 1557.26}
-  - {text: "And I mean, for his novels as well, he's not a writer who is endlessly revising his work.", start: 1557.66, end: 1563.56}
-  - {text: "No, that's fairly remarkable, although there may be things that were lost.", start: 1564.40, end: 1568.72}
-  - {text: "I should perhaps say about his writing practices that when he was writing Radecki March, and he's drinking quite a lot, he left chapter four in a taxi, and he never got it back.", start: 1569.04, end: 1581.17}
-  - {text: "So he had to write it again, and it's an extremely good chapter.", start: 1581.95, end: 1586.23}
-  - {text: "I mean, all of the chapters are good, but that is also remarkable in its way in terms of his working practice.", start: 1586.89, end: 1593.35}
-  - {text: "But he kind of held court.", start: 1594.69, end: 1596.15}
-  - {text: "You know, people gathered round him, and they would not want to interrupt him, and he was saying, oh, on you go, on you go.", start: 1596.39, end: 1602.63}
-  - {text: "And then sometimes he would just join the conversation, but he'd be writing the rest of the time, yeah.", start: 1602.85, end: 1608.39}
-  - {text: "Deborah, I'm going to move us on from Radecki March onto a very important subject.", start: 1609.05, end: 1613.93}
-  - {text: "What about women in Hort's novels, and also in his life?", start: 1614.53, end: 1619.21}
-  - {text: "Because we haven't mentioned it, but fairly early on he married in Vienna, and that was a very, very important part of his narrative.", start: 1619.57, end: 1627.17}
-  - {text: "Yes, although it's surprisingly often not commented on, or commented on far too much in the wrong way.", start: 1628.08, end: 1634.04}
-  - {text: "I mean, it's a difficult topic.", start: 1634.14, end: 1636.20}
-  - {text: "I mean, Helen has already referred to Frau Slamer in the novels, women are never major characters.", start: 1636.38, end: 1642.14}
-  - {text: "There are no main female characters in Hort, but they quite often play quite a decisive role.", start: 1642.14, end: 1648.00}
-  - {text: "The power dynamics are always uneven.", start: 1648.54, end: 1650.88}
-  - {text: "There are no balanced gender relations in Hort.", start: 1651.18, end: 1653.46}
-  - {text: "There are no colleagues or comrades of different sexes.", start: 1653.82, end: 1657.70}
-  - {text: "Either the women are much more powerful than the men somehow, or they are a long way below them, and they're either protecting the men, or they need protecting.", start: 1658.06, end: 1665.44}
-  - {text: "There's nothing, there's no balance in between.", start: 1665.62, end: 1667.08}
-  - {text: "And it's an obvious temptation to equate these literary figures with the women in Hort's life.", start: 1667.62, end: 1673.26}
-  - {text: "If I can lump them together like that.", start: 1673.26, end: 1675.38}
-  - {text: "So his wife, Friedl, whom he married in 1922, was an acquaintance from a coffee house in Vienna, very typically for Hort.", start: 1676.00, end: 1684.54}
-  - {text: "We haven't talked about bars or coffee houses yet, but...", start: 1684.58, end: 1688.44}
-  - {text: "Well, that's where he seemed to spend most of his life.", start: 1688.44, end: 1690.34}
-  - {text: "He spent most of his life and where he did a lot of his writing as well, of course, and he learned Friedl from one cafe table to the next.", start: 1690.34, end: 1697.04}
-  - {text: "She was the daughter of a shopkeeper in Vienna's Jewish district, very pretty, as we can see from the photos.", start: 1697.50, end: 1703.56}
-  - {text: "And they married when they were both still very young.", start: 1704.42, end: 1706.60}
-  - {text: "She was six years younger than him.", start: 1706.72, end: 1707.88}
-  - {text: "And he does not prevent the marriage, doesn't let the marriage prevent him from living the life that he wishes to lead as a traveling journalist.", start: 1708.54, end: 1718.40}
-  - {text: "The two of them basically live out of a suitcase, as far as it...", start: 1718.62, end: 1721.28}
-  - {text: "Yes and no, it quite often is said of Hort that he never had a flat, that he never had a home, that he never settled.", start: 1721.28, end: 1727.66}
-  - {text: "I think that he twice shared a flat with once with Friedl and once with a later partner, Andrea Mangabelle, in Berlin.", start: 1728.14, end: 1736.12}
-  - {text: "So he did, there were attempts at domesticity, but they never lasted for long and they were always very strained.", start: 1736.38, end: 1740.96}
-  - {text: "And what happens to Friedl in the end?", start: 1741.60, end: 1743.66}
-  - {text: "Because I think this is quite important.", start: 1743.80, end: 1745.12}
-  - {text: "It's an extremely sad story and it must have been very, very, very stressful and tragic for Hort himself.", start: 1745.14, end: 1750.76}
-  - {text: "Friedl becomes increasingly, at first he thinks, increasingly unable to cope with the life traveling around, with moving so often, with living out of a suitcase.", start: 1751.20, end: 1760.34}
-  - {text: "And then it becomes clear that she is mentally unstable and she is taking into psychiatric care, I think already from 1925, 26 onwards.", start: 1761.06, end: 1771.32}
-  - {text: "I think she's not in care at that point, but at the end of the 20s, yes.", start: 1771.84, end: 1776.02}
-  - {text: "And repeatedly ill and then is taken into full -time psychiatric care or is living at home but with a full -time nurse, is not really verbalizing anymore, is not really eating.", start: 1776.14, end: 1787.40}
-  - {text: "And she then remains in care until the end of her life, although care becomes a misnomer.", start: 1788.15, end: 1794.26}
-  - {text: "As under the Nazis in 1940, she is then murdered as a long -term psychiatric patient at one of the, in hard time in upper Austria in one of the parts of the Nazis,", start: 1794.38, end: 1805.86}
-  - {text: "so -called T4 program to kill psychiatric patients and the mentally unfit.", start: 1806.26, end: 1813.38}
-  - {text: "And Röth is, refers to Friedel and her illness in some of his work.", start: 1813.90, end: 1821.18}
-  - {text: "In some of his, I'm not sure if that's a good, I'm not sure about the work, certainly repeatedly in the letters, I'm not sure to what extent she...", start: 1821.64, end: 1829.10}
-  - {text: "Well, let me take it on to John Hughes in that case and talk about Job, the story of a simple man, which is what I think where he maybe does reference Friedel.", start: 1829.10, end: 1839.18}
-  - {text: "Can you tell us about this novel?", start: 1839.28, end: 1841.98}
-  - {text: "Because, as I understand it, Marlene Dietrich thought it was fabulous.", start: 1841.98, end: 1845.62}
-  - {text: "She did. I mean, it was actually the novel that preceded Redetzky March as it happens and could be said to have been this artistic turning point for him, the one that allowed him to,", start: 1846.06, end: 1856.78}
-  - {text: "getting the confidence, I think, to write the Redetzky March.", start: 1857.20, end: 1859.46}
-  - {text: "So it was published in 1930.", start: 1859.94, end: 1861.46}
-  - {text: "Before Redetzky March. Came before Redetzky March, although we've already discussed perhaps the most famous novel.", start: 1862.14, end: 1866.84}
-  - {text: "But Job is perhaps a close second, certainly looking at his reputation around the world.", start: 1867.00, end: 1872.46}
-  - {text: "It's a very widely read, translated, much loved novel.", start: 1872.74, end: 1876.24}
-  - {text: "It gives it its full title.", start: 1876.92, end: 1878.24}
-  - {text: "It's Job, the story or the novel of a simple man.", start: 1878.44, end: 1881.78}
-  - {text: "And in a way, it reprises some of the things that made Rebellion a great novel.", start: 1882.50, end: 1887.06}
-  - {text: "It has a sort of simplicity about it, a sort of fable -like structure.", start: 1887.52, end: 1890.62}
-  - {text: "It plays loosely with the story of the book of Job.", start: 1891.30, end: 1894.98}
-  - {text: "But unlike Rebellion, it's firmly set in the past.", start: 1895.64, end: 1898.62}
-  - {text: "It's the first novel in which he sets the story firmly in the pre -war world, in the central Europe in which he'd grown up.", start: 1898.62, end: 1907.84}
-  - {text: "And it's also unusually, amongst Hort's works, it's firmly set in a Jewish milieu, which is not something he did that often.", start: 1908.16, end: 1915.96}
-  - {text: "So the main character, Mendel Singer, the simple man of the title, is an embodiment of the Hasidic Eastern Jews, the Ostewiden.", start: 1916.72, end: 1925.46}
-  - {text: "And he's presented as a pious man, as a village teacher who lives just on the other side of the border with the Russian Empire, so", start: 1926.10, end: 1935.48}
-  - {text: "just outside of the geographical limits of Galicia.", start: 1935.48, end: 1938.24}
-  - {text: "And in the course of the story, he suffers misfortune after misfortune, both him personally and his family, starting with the birth of a son with disabilities, Menuchim.", start: 1938.76, end: 1949.80}
-  - {text: "He then becomes alienated from his older sons, and then loses them during the war.", start: 1950.34, end: 1955.46}
-  - {text: "His wife, Deborah, dies, and his oldest daughter, Miriam, becomes mentally ill.", start: 1955.96, end: 1961.28}
-  - {text: "And the description of Miriam's sort of mental collapse and institutionalization, writing in 1930, shortly after the same thing had happened to Friedl, is indeed, you know, very as a tough read.", start: 1961.84, end: 1972.30}
-  - {text: "It's based on personal experience in the novel.", start: 1972.80, end: 1976.08}
-  - {text: "So the novel ends with the other, I should say that the other thing that haunts the character is the fact that he's abandoned the disabled son when they family moved to America,", start: 1976.68, end: 1986.94}
-  - {text: "all of which results in him essentially turning his back on his Jewish identity, his faith.", start: 1987.64, end: 1992.22}
-  - {text: "He rages at the garden whom he's always believed at the end of the novel, but unusually fraught and different to rebellion.", start: 1992.88, end: 1999.84}
-  - {text: "He gives us a twist, a happy ending, a rather sentimental turn of events at the end.", start: 2000.24, end: 2005.54}
-  - {text: "So the abandoned son, Menuchim, turns out has miraculously recovered from his disabilities, has grown up to become a successful composer and musician, and he's on tour in America.", start: 2005.82, end: 2016.80}
-  - {text: "And so the novel ends up with the two men being reunited and gives us this happy ending.", start: 2017.48, end: 2022.12}
-  - {text: "Rott, I think had some doubts about that sentiment.", start: 2022.72, end: 2024.76}
-  - {text: "I was going to say it's so unorthy.", start: 2025.10, end: 2026.80}
-  - {text: "It is very, very, and he didn't quite disown the novel, but he was a bit reluctant to sort of praise it.", start: 2026.80, end: 2032.78}
-  - {text: "But he was happy that it was a success because the ending was a winner for readers.", start: 2033.26, end: 2037.08}
-  - {text: "And as you mentioned, Marlene Dietrich in an interview in 1931, I think, with an American film magazine, she was asked for her favorite novel, and she named Job,", start: 2037.08, end: 2046.90}
-  - {text: "which had just appeared in English translation, and Rott was so delighted he wrote to her to thank her.", start: 2047.36, end: 2052.14}
-  - {text: "And so that's a nice little story.", start: 2052.50, end: 2054.40}
-  - {text: "Helen Chambers, we've heard how he had a rather stellar career in the 1920s, certainly in the first half, but with the 1930s onwards, after the illness of his wife, his health starts to decline.", start: 2055.14, end: 2071.60}
-  - {text: "He has an unreliable stream of income, no fixed abode, really, yet he remains very prolific.", start: 2071.82, end: 2078.72}
-  - {text: "How does he sustain all this?", start: 2079.20, end: 2080.88}
-  - {text: "Well, should we say that he left Germany in 1933 and went into exile?", start: 2081.60, end: 2087.24}
-  - {text: "For obvious reasons. Because his books were being burnt, but I mean, how did he live?", start: 2088.08, end: 2093.84}
-  - {text: "Well, he borrowed money.", start: 2094.00, end: 2095.06}
-  - {text: "He bought in 1927, Stefan Zweig, who was a great bestseller, major literary figure, pots of money, wrote to Josef Rott and said, I've just read your Wandering Jews.", start: 2095.36, end: 2107.78}
-  - {text: "It's wonderful. Those are his essays about the Eastern Jews, the Osteolin.", start: 2108.04, end: 2112.90}
-  - {text: "And Rott got back to him and sort of sponged off for the rest of his life, although Zweig didn't manage to pay for all that Rott needed,", start: 2113.42, end: 2122.76}
-  - {text: "although he did put him up quite often in South of France or sometimes they were in Austria, I think sometimes they were in Ostend.", start: 2122.88, end: 2130.14}
-  - {text: "But Rott, he needed the money.", start: 2130.76, end: 2133.10}
-  - {text: "He got big advances, but he often didn't deliver in time.", start: 2133.56, end: 2137.04}
-  - {text: "He commanded a lot of money, but he spent a lot of money and he didn't just spend it on himself.", start: 2137.22, end: 2142.72}
-  - {text: "He was always giving money away, giving it away to people who were worse off than him.", start: 2143.16, end: 2148.54}
-  - {text: "Exiles, emigres, refugees. And he also, when he had money, he would live in smart hotels.", start: 2149.18, end: 2155.56}
-  - {text: "He liked the smart hotels.", start: 2155.82, end: 2157.02}
-  - {text: "He liked the Hotel Bristol in Vienna.", start: 2157.24, end: 2159.04}
-  - {text: "He liked the Hotel Foyaux, where he ended up, well, didn't end up in Paris because, and this is part of Rott's fate, that his worlds were destroyed one after the other.", start: 2159.32, end: 2169.28}
-  - {text: "And this included the Hotel Foyaux, where he had a room, which is just opposite the Giardin de Luxembourg, a fine hotel.", start: 2169.44, end: 2176.62}
-  - {text: "Anyway, it turned out that it was not fit for purpose and it was demolished.", start: 2177.22, end: 2183.84}
-  - {text: "So where he'd been living for years, was demolished before his very eyes.", start: 2184.44, end: 2189.76}
-  - {text: "He sat in the cafe across the road, but he worked.", start: 2189.84, end: 2193.56}
-  - {text: "I don't know if I've answered.", start: 2193.86, end: 2194.60}
-  - {text: "I mean, he drank all day and he needed to drink in order to work and he did work at cafe tables and he needed people around him to work.", start: 2194.84, end: 2203.36}
-  - {text: "He couldn't work without the people around him.", start: 2203.96, end: 2206.84}
-  - {text: "Yeah, so I mean, he was drinking very heavily and nonetheless, writing at the same time.", start: 2207.28, end: 2214.82}
-  - {text: "I don't know about all of you, but the experience of trying to write when you've had a drink is really, I mean, for me, it just doesn't work.", start: 2215.24, end: 2222.32}
-  - {text: "But he appeared to be inspired by it.", start: 2222.44, end: 2224.82}
-  - {text: "Deborah, by the late 30s, he was drinking himself to death.", start: 2225.16, end: 2229.26}
-  - {text: "What were the ghosts he was struggling with?", start: 2229.66, end: 2232.56}
-  - {text: "Well, I mean, he was, as we said, a highly functional alcoholic, but very definitely a sort of terminal alcoholic and that had been clear for a long time.", start: 2233.10, end: 2242.02}
-  - {text: "I mean, I sometimes wonder whether it stemmed from the war years, from the First World War, because I mean, as we know, on both sides of the front,", start: 2242.22, end: 2251.80}
-  - {text: "soldiers were being plied with alcohol to make the war possible at all.", start: 2252.02, end: 2256.40}
-  - {text: "I mean, that might well be part of the roots of his heavy drinking.", start: 2256.56, end: 2260.44}
-  - {text: "Then later on, I think it's partly because of the lifestyle.", start: 2260.98, end: 2263.52}
-  - {text: "He's having to keep deadlines.", start: 2264.10, end: 2265.56}
-  - {text: "He's up late at night.", start: 2265.86, end: 2266.60}
-  - {text: "He's living in hotels and bars.", start: 2266.76, end: 2268.08}
-  - {text: "Drink is readily available.", start: 2268.66, end: 2269.88}
-  - {text: "It's also part of the sort of journalistic camaraderie, inviting people for drinks.", start: 2270.18, end: 2274.62}
-  - {text: "And then comes Friedel and the marriage and the problems and the feelings of guilt and having to earn also to support Friedel and her care.", start: 2275.14, end: 2283.40}
-  - {text: "And I think that sort of underlines or cements this sort of turning to alcohol to find relief for that.", start: 2284.02, end: 2291.24}
-  - {text: "And then comes National Socialism, which Rolt had very early on seen coming with a clear -sightedness that's very interesting compared to others of his generation", start: 2291.56, end: 2301.78}
-  - {text: "who were hoping that it wouldn't be as bad as all that.", start: 2301.78, end: 2304.00}
-  - {text: "You know, it's kind of altogether it's enough to make anyone turn to drink, perhaps.", start: 2304.74, end: 2307.42}
-  - {text: "And towards the end, of course, the Nazis invade Austria.", start: 2308.16, end: 2312.22}
-  - {text: "So he loses Austria.", start: 2313.06, end: 2314.94}
-  - {text: "Is there a sense of abandonment running through his work?", start: 2315.48, end: 2320.42}
-  - {text: "I mean, perhaps starting with his father, I don't want to over...", start: 2320.82, end: 2325.28}
-  - {text: "As a theme in the work, I think probably, yes.", start: 2325.28, end: 2328.50}
-  - {text: "And certainly in terms of his personal life and his view of the world.", start: 2328.80, end: 2333.56}
-  - {text: "Yes, I mean, I think in the later years he starts to think of the old empire in near -utopian terms at times.", start: 2334.58, end: 2344.10}
-  - {text: "And it's a way, I think, of compensating for the world that was collapsing around him.", start: 2344.10, end: 2348.26}
-  - {text: "The idea that they may once have been a place, a supranational place where national identities were somehow less important than some sort of collective identity.", start: 2348.62, end: 2357.72}
-  - {text: "Because he does see nationalism as a fundamental evil.", start: 2357.88, end: 2360.08}
-  - {text: "Nationalism is something he totally rejected in all its forms.", start: 2360.12, end: 2362.86}
-  - {text: "He rejected Zionism as well, incidentally.", start: 2363.16, end: 2366.14}
-  - {text: "He saw it as a form of nationalism.", start: 2366.76, end: 2368.08}
-  - {text: "So no matter what the motivation was, he rejects nationalism and sees it as pernicious.", start: 2368.30, end: 2375.06}
-  - {text: "So two final questions for you all.", start: 2375.44, end: 2378.56}
-  - {text: "But Helen, let me start with you.", start: 2378.76, end: 2380.50}
-  - {text: "How appropriate is it that his final work was the legend of the holy drinker?", start: 2381.56, end: 2387.42}
-  - {text: "And what was that about?", start: 2387.64, end: 2388.92}
-  - {text: "Was that basically him saying, this is me?", start: 2389.18, end: 2392.56}
-  - {text: "Yes, and he did say as much.", start: 2393.08, end: 2395.76}
-  - {text: "I mean, one's reluctant to look at biographical sort of reasons for text, but he said this.", start: 2396.06, end: 2402.86}
-  - {text: "And I mean, it's the story of a a tramp in Paris who was originally a coal miner in Silesia and came to Paris for work.", start: 2403.04, end: 2412.22}
-  - {text: "And that's quite typical in economic traveller, migrant, if you like.", start: 2412.38, end: 2416.26}
-  - {text: "And the tramp ends up sleeping under the bridges in Paris.", start: 2416.78, end: 2420.16}
-  - {text: "But one day a well -dressed gentleman, and some people say that might have been modelled on Stefan Zweig, arrives and gives him 200 francs and", start: 2420.42, end: 2431.20}
-  - {text: "says it's in gratitude at his finding conversion to the church.", start: 2431.20, end: 2435.76}
-  - {text: "And the tramp takes it and says, thank you very much.", start: 2436.56, end: 2440.52}
-  - {text: "I'll pay it back to you.", start: 2440.70, end: 2442.28}
-  - {text: "And there are several attempts in the course of this short narrative.", start: 2442.64, end: 2446.34}
-  - {text: "Well, he drinks the money.", start: 2447.14, end: 2449.26}
-  - {text: "He loses the money.", start: 2449.42, end: 2450.34}
-  - {text: "People make him part with the money.", start: 2450.60, end: 2452.16}
-  - {text: "And he always gets it back again.", start: 2452.26, end: 2454.16}
-  - {text: "And he's always saying, I'm going to, and how he's going to pay it back is to give it to the church in Batinol where Saint Thérèse is there.", start: 2454.50, end: 2464.08}
-  - {text: "And she was a very modest saint with a humble life, an unsholy sort of person, but in a Catholic church.", start: 2464.56, end: 2470.42}
-  - {text: "And at the very end, oh, I don't know that I want to spoil the end, but at the very end...", start: 2471.68, end: 2477.22}
-  - {text: "Spoiler alert. The drunkard who, again, well, he's in a very bad state physically.", start: 2477.22, end: 2485.62}
-  - {text: "But he dies and he thinks that the little saint has taken the money and he's paid it back and it's all grace has descended upon him.", start: 2486.66, end: 2496.30}
-  - {text: "And he says, God, give all of us drinkers such a good and easy death.", start: 2496.60, end: 2503.58}
-  - {text: "And so in the story, the man finds grace, the drinker.", start: 2504.12, end: 2509.46}
-  - {text: "But of course, Joseph wrote, in his own life, had a terrible death, did not have what he wished for himself, but he collapsed, faced down on the table in the cafe.", start: 2509.66, end: 2522.88}
-  - {text: "He was, he had lots of friends who didn't have money, but looked after him, took him to hospital.", start: 2523.90, end: 2528.72}
-  - {text: "They didn't diagnose it properly.", start: 2529.38, end: 2531.66}
-  - {text: "He got, they withdrew alcohol completely and he had terrible delirium.", start: 2532.04, end: 2537.40}
-  - {text: "He had to be strapped to the bed and indeed died the very opposite kind of death from his own literary creation.", start: 2537.68, end: 2546.06}
-  - {text: "Well, on that sad note, a quick -fire last round, literally in half a sentence each, how well do Roth's works stand the test of time?", start: 2547.52, end: 2560.24}
-  - {text: "Deborah. Surprisingly well. It's about the human cost of war and it's about individual dignity.", start: 2560.64, end: 2565.68}
-  - {text: "John? Yeah, I would agree.", start: 2566.32, end: 2568.44}
-  - {text: "There's something he says in one of his early Foytan articles, Going for a Walk, where he says it's the minutiae, it's only the minutiae in life", start: 2569.04, end: 2576.40}
-  - {text: "that counts and it's the little details that he's captured and made permanent in his work that makes it still sort of sing today, I would say.", start: 2576.40, end: 2585.34}
-  - {text: "Helen? Well, it's the human condition in bright, beautiful colors in quite short works and I think they're wonderful.", start: 2585.64, end: 2593.22}
-  - {text: "My thanks to Deborah Holmes, Helen Chambers and John Hughes.", start: 2594.44, end: 2598.32}
-  - {text: "Next week, the African civilization on the edge of the Roman Empire.", start: 2598.94, end: 2603.84}
-  - {text: "That's the Garamantes. Thank you for listening.", start: 2604.50, end: 2607.32}
-  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2608.53, end: 2615.15}
-  - {text: "And now, the podcast bit, where we can relax slightly.", start: 2616.10, end: 2620.48}
-  - {text: "So let me, the first thing I ask is, what did we miss out?", start: 2620.70, end: 2625.68}
-  - {text: "Perhaps we could say a little bit more about Roth's own Jewishness.", start: 2626.24, end: 2630.78}
-  - {text: "I mean, he had a somewhat, perhaps it's no surprise, but he had a slightly sort of contradictory sense of himself as a Jew.", start: 2631.40, end: 2637.98}
-  - {text: "As Helen mentioned, he did write quite extensively about the Jewish community and the lives of the Eastern Jews in the 1920s and the collection of", start: 2638.52, end: 2647.28}
-  - {text: "essays The Wandering Jews was published in 1927.", start: 2647.28, end: 2649.80}
-  - {text: "But what's interesting about it, or one of the things that's interesting about it is that he never identifies himself as a Jew.", start: 2650.16, end: 2656.34}
-  - {text: "He observes the community almost as an anthropologist might, without actually mentioning that he'd grown up pretty much within that community in Galicia.", start: 2656.86, end: 2666.72}
-  - {text: "As I mentioned, in our main discussion, he rejected Zionism, for example.", start: 2667.34, end: 2672.12}
-  - {text: "He was also quite critical of Jews who had assimilated and Westernized themselves, even though he himself was very much a Westernized assimilated Jew.", start: 2672.66, end: 2682.92}
-  - {text: "So it was quite contradictory.", start: 2682.92, end: 2684.40}
-  - {text: "What did he say?", start: 2685.12, end: 2685.74}
-  - {text: "He said he was a sort of an Eastern Jew with a Catholic brain and there were two sides to his personality.", start: 2685.92, end: 2691.22}
-  - {text: "And did he not actually, at one point, if not join the Catholic Church then?", start: 2691.58, end: 2696.48}
-  - {text: "He also said he was a Frenchman from the East.", start: 2696.66, end: 2698.62}
-  - {text: "Yes, he had various ways of characterizing himself.", start: 2698.68, end: 2701.62}
-  - {text: "I mean, I might say something about his funeral.", start: 2701.64, end: 2703.94}
-  - {text: "Can I say something about that?", start: 2704.30, end: 2705.40}
-  - {text: "So he was buried in this cemetery, which is in the south of Paris because nobody had enough money to put him in Père Lachaise, where Heine was, and he really should have belonged.", start: 2707.24, end: 2718.28}
-  - {text: "But at the grave site, he was never baptized, but he went to the Catholic Church in Paris, the Austrian Catholic Church.", start: 2718.98, end: 2726.38}
-  - {text: "So there was a Catholic priest officiating and there were a lot of Eastern Jewish friends there at the grave site.", start: 2726.68, end: 2734.70}
-  - {text: "And then there was Aegon Irving, and Kish, the great communist, who turned up with his red communist banner and his red carnations.", start: 2735.10, end: 2742.72}
-  - {text: "And then there was also a Talmudic scholar, Gottforshtein, who wrote, spent a lot of time with him in Paris, and he was prepared to pronounce the Cádiz and some people wanted the Cádiz.", start: 2743.34, end: 2755.36}
-  - {text: "Oh, and I've missed out the Austrian, legitimate monarchist, because Otto von Habsburg had sent a wreath, which would have had the yellow and black ribbons on it", start: 2755.52, end: 2764.80}
-  - {text: "because he wanted to restore the monarchy and he actually had fairly concrete plans to do that before things got really bad.", start: 2764.80, end: 2772.92}
-  - {text: "So there were monarchist, communist, Eastern Jews and Catholics at the grave site, and they were kind of, I mean, it nearly came to ugly scenes.", start: 2773.58, end: 2782.04}
-  - {text: "And then the chap that was going to say Cádiz was with his friend Soma Morgenstern, also an Eastern Jew.", start: 2782.52, end: 2788.78}
-  - {text: "And they said, no, we won't do this here now, we'll just let it be.", start: 2789.18, end: 2793.34}
-  - {text: "How dedicated was he to the Habsburg bulls?", start: 2793.34, end: 2796.98}
-  - {text: "He was very dedicated to the Habsburg cause and he met Otto von Habsburg, who was the heir to the throne that had kind of gone.", start: 2797.04, end: 2804.50}
-  - {text: "He met him in his court in Exile in Belgium and he got together with these Austrian legitimists and they had a, well, they had a plan to smuggle Otto von Habsburg back into Vienna in a coffin", start: 2804.64, end: 2819.76}
-  - {text: "and they had to find a dead Austrian in order to do that.", start: 2819.76, end: 2822.96}
-  - {text: "And Roth thought, well, in any case, I'm going to Vienna to talk to, well, he wanted to talk to Schuschnik, who was head of the government at the time and explain -", start: 2823.52, end: 2834.64}
-  - {text: "The Austrian fascist dictator of, the dictator of Austrofascism.", start: 2834.64, end: 2839.50}
-  - {text: "So this was - It was after, it was after the death of - Schuschnik was a chance before 13.", start: 2839.86, end: 2845.20}
-  - {text: "It was just before the answer.", start: 2845.20, end: 2846.84}
-  - {text: "Yeah, Schuschnik is in charge, he's certainly - Schuschnik's in charge, but was there already a Gauleiter there?", start: 2847.14, end: 2853.80}
-  - {text: "No, no, no, no, no, no.", start: 2854.02, end: 2855.30}
-  - {text: "But that was just after.", start: 2855.32, end: 2856.50}
-  - {text: "That comes after. So he went in just before the Anschluss and wanted to talk to Schuschnik and say, we'll get Otto von Habsburg back and", start: 2856.64, end: 2865.78}
-  - {text: "this is how we're going to do it.", start: 2865.78, end: 2867.22}
-  - {text: "And he had the blessing of the Habsburg monarchists.", start: 2867.22, end: 2870.54}
-  - {text: "And he went to Vienna, which was very dangerous thing for him to do.", start: 2870.68, end: 2874.56}
-  - {text: "And he never got to see the highest instance.", start: 2874.80, end: 2877.90}
-  - {text: "And so he did get to see a chief of police, I think, and the chief of police said, you better get out of here fast.", start: 2877.90, end: 2883.72}
-  - {text: "And he did get out of here fast, but he was very hands -on.", start: 2884.10, end: 2888.68}
-  - {text: "I mean, he wanted to, and he thought the reason he wanted to do this was he could see this as the only solution to getting rid of the Nazis.", start: 2889.06, end: 2897.38}
-  - {text: "Sounds like a pretty hair -brained scheme, though.", start: 2897.84, end: 2899.76}
-  - {text: "Hair -brained is indeed the word for it.", start: 2899.84, end: 2902.50}
-  - {text: "Not entirely realistic. One of the things that really interests me is the parallels between Stefan Zweig and Josef Roth.", start: 2902.72, end: 2911.58}
-  - {text: "So they sort of run alongside each other.", start: 2912.26, end: 2916.64}
-  - {text: "They're very aware of each other.", start: 2916.80, end: 2918.52}
-  - {text: "As you said, Zweig gave Roth quite a lot of money.", start: 2918.78, end: 2922.60}
-  - {text: "But who is the better writer?", start: 2923.12, end: 2925.42}
-  - {text: "Well, Josef Roth is definitely the better writer.", start: 2925.86, end: 2928.74}
-  - {text: "I think there's no dispute.", start: 2928.96, end: 2930.04}
-  - {text: "Well, I don't know, you might want to dispute with me.", start: 2930.22, end: 2932.34}
-  - {text: "Stefan Zweig also agreed that Roth was the better writer.", start: 2933.28, end: 2937.46}
-  - {text: "He always was quite willing to admit he was.", start: 2937.68, end: 2940.00}
-  - {text: "I think the differences are very interesting.", start: 2940.12, end: 2941.88}
-  - {text: "I think it's a very fruitful comparison for the literature of the time.", start: 2942.10, end: 2944.90}
-  - {text: "One of the things that Zweig does, that Roth doesn't, as we said, is that Zweig has heroes.", start: 2945.04, end: 2949.46}
-  - {text: "Zweig has goodies and baddies, and Zweig has heroes and hero -worships.", start: 2950.10, end: 2954.16}
-  - {text: "And that's not something that Roth does at all.", start: 2954.72, end: 2956.66}
-  - {text: "Roth is much, much more...", start: 2956.80, end: 2959.42}
-  - {text: "He's ironic in a way that Stefan Zweig seemingly can't or doesn't want to achieve.", start: 2959.42, end: 2965.38}
-  - {text: "And that, of course, made Zweig a best -selling author, in a way which, well, what did sell books, but he never earned the big books like Stefan Zweig?", start: 2965.78, end: 2975.14}
-  - {text: "Roth's timing was unfortunate, wasn't it?", start: 2975.16, end: 2977.20}
-  - {text: "I mean, in a typically kind of Eroltian fashion, it's to do with chance and contingency.", start: 2977.28, end: 2982.70}
-  - {text: "And Radecky Marsh could have been an immense success, but it came out just before the National Socialists took over, wasn't it?", start: 2982.98, end: 2989.86}
-  - {text: "In fact, it was published in 32, so just at the point the royalties were coming in, in early 1933, Hitler's already taken over.", start: 2989.94, end: 2998.50}
-  - {text: "Hortz in Paris in exile.", start: 2999.12, end: 3000.68}
-  - {text: "He never really seized the money that he was due.", start: 3000.86, end: 3003.44}
-  - {text: "And he was one of those few people.", start: 3004.48, end: 3007.78}
-  - {text: "I think his first novel, Spin and Nets, The Spider's Web.", start: 3007.90, end: 3013.56}
-  - {text: "Actually engages with Hitler himself, even though this is in 1923, 1924.", start: 3015.36, end: 3021.70}
-  - {text: "1923. The extraordinary prescience.", start: 3022.92, end: 3025.44}
-  - {text: "Yes, it came out just before the Hitler pooch, and it's a novel about...", start: 3025.70, end: 3030.26}
-  - {text: "The Beer Hall pooch.", start: 3030.26, end: 3031.46}
-  - {text: "The Beer Hall pooch, that's right, when Hitler was put in prison and they actually finished publishing the last part of it in the newspaper days before that happened and in Hortz's novel, there's a terrorist attempt planned", start: 3031.66, end: 3047.38}
-  - {text: "so that he saw very clearly what was going on from a very early time.", start: 3048.02, end: 3052.60}
-  - {text: "I think it's the novel with the first explicit reference to Hitler.", start: 3052.84, end: 3056.14}
-  - {text: "There isn't another work of literary fiction, an earlier work of literary fiction that names Hitler.", start: 3056.94, end: 3062.56}
-  - {text: "Deborah, tell us a bit about the coffeehouse culture that we skipped over, because he did spend a lot of time which, to be fair, he did,", start: 3063.18, end: 3075.84}
-  - {text: "but many, many other newspaper men and women of the time did.", start: 3075.92, end: 3080.16}
-  - {text: "You know, it was a lot...", start: 3081.08, end: 3082.70}
-  - {text: "They still do in mind, yes.", start: 3082.70, end: 3084.26}
-  - {text: "Yes, let's put that in a different tense.", start: 3084.54, end: 3087.04}
-  - {text: "Yeah, but it was very much, it's partly to do with the problems of the time it was difficult to heat your house at home in the immediate post -war period.", start: 3087.76, end: 3096.00}
-  - {text: "It was a place to go where you could be sure of being warm enough to sort of move a pen on paper.", start: 3096.44, end: 3101.04}
-  - {text: "And it was also where you could meet and mix and keep up to date and have all of the daily newspapers at your disposal, because,", start: 3101.04, end: 3108.42}
-  - {text: "you know, a Viennese coffeehouse also today typically has a fine array of newspapers, international, national newspapers.", start: 3108.60, end: 3116.28}
-  - {text: "And I think it's worth pointing out that in 1918, 1919, Vienna was in a terrible state.", start: 3116.96, end: 3122.86}
-  - {text: "Yeah, Vienna was literally starving.", start: 3123.10, end: 3124.90}
-  - {text: "There was a survey done by a children's doctor at the time that over 90 % of Viennese children were suffering malnutrition after World War I.", start: 3125.34, end: 3132.94}
-  - {text: "Yeah, I mean, a lot of the same applies to Berlin, of course, where he continues the same habits.", start: 3134.24, end: 3139.54}
-  - {text: "And the coffeehouses and the bars were also places to network.", start: 3140.40, end: 3143.00}
-  - {text: "So there were good career reasons for spending time, you know, a place like the Romanisches Café in Berlin, where he was an habitual customer.", start: 3143.66, end: 3152.10}
-  - {text: "It was the place to be seen.", start: 3152.76, end: 3154.10}
-  - {text: "It was well known that the prominent people there were prominent people would be there.", start: 3154.16, end: 3158.46}
-  - {text: "And so it wasn't just a place to work.", start: 3158.84, end: 3160.70}
-  - {text: "It was a place to see and be seen.", start: 3160.80, end: 3162.58}
-  - {text: "And, yeah, Kish was often there.", start: 3163.26, end: 3165.12}
-  - {text: "And a place where someone was going to pick you up off the floor if you felt like you're stooling a drunken stupor.", start: 3165.60, end: 3170.28}
-  - {text: "And you mentioned that Rodetzky March was unique, but he did then write a sequel, The Emperor's Tomb.", start: 3170.40, end: 3177.48}
-  - {text: "Yeah, in 1988. What was, why did he do that?", start: 3177.82, end: 3182.30}
-  - {text: "Well, I think he did it, you know, for commercial reasons.", start: 3182.44, end: 3184.96}
-  - {text: "He wanted to build on the success of Rodetzky March.", start: 3184.96, end: 3188.26}
-  - {text: "But after 1933, he writes quite a lot of novels and novellas.", start: 3188.48, end: 3194.04}
-  - {text: "But in difficult circumstances, not only is his lifestyle, you know, working against him, but he's working to tight deadlines.", start: 3194.68, end: 3201.86}
-  - {text: "He's never quite sure, you know, where, you know, he's working with different publishing houses in all based in exile.", start: 3202.50, end: 3208.68}
-  - {text: "Now, many of them in the Netherlands.", start: 3208.68, end: 3210.28}
-  - {text: "And he's desperate, really, to just make ends meet.", start: 3210.90, end: 3213.80}
-  - {text: "So the sequel, The Emperor's Tomb, The Kapitzenegroft, it follows a sort of a separate branch of the Fontotta family and tries to bring the story", start: 3214.31, end: 3222.18}
-  - {text: "up to the point of the Anschluss of Austria to Nazi Germany in 1938.", start: 3222.18, end: 3227.24}
-  - {text: "And it's an interesting read and anyone that's enjoyed Rodetzky March should probably read it, but it isn't the same.", start: 3227.92, end: 3234.82}
-  - {text: "It is not. It isn't of the same quality.", start: 3234.98, end: 3236.74}
-  - {text: "It's not. It's written in the first person as well, isn't it?", start: 3237.02, end: 3239.30}
-  - {text: "Which is not so common amongst his novels.", start: 3239.40, end: 3242.20}
-  - {text: "It was he sort of rushed it as well in 1938 as events were happening in Austria.", start: 3242.20, end: 3247.98}
-  - {text: "He thought, I'd better get this out quickly as well.", start: 3247.98, end: 3250.24}
-  - {text: "And I think it's looked to by students of German as a kind of set text because it's got all this history.", start: 3250.68, end: 3257.38}
-  - {text: "And but actually wrote a far better a novel in 1937 called Weights and Measures in English, which picks up a lot of the characters from Rodetzky March.", start: 3257.50, end: 3268.28}
-  - {text: "And indeed, Mendel Singer from Heopops up in it as well.", start: 3268.40, end: 3271.80}
-  - {text: "The name does. And it's a it's a story about a move from west to to east.", start: 3272.20, end: 3280.02}
-  - {text: "And an inspector of Weights and Measures, an honest man who's been forced to leave the army and get out of his uniform by his wife", start: 3280.22, end: 3288.36}
-  - {text: "and he's lost when he gets out of his uniform.", start: 3288.36, end: 3290.70}
-  - {text: "And he he has a kind of slide into.", start: 3291.30, end: 3295.26}
-  - {text: "Well, maybe it's sin and maybe it's grace.", start: 3296.52, end: 3299.10}
-  - {text: "It's a bit hard to tell.", start: 3299.32, end: 3300.56}
-  - {text: "But it's a it's a beautiful novel that picks up a lot of his other themes and and evokes the landscape back in the east again.", start: 3301.24, end: 3311.14}
-  - {text: "And we haven't mentioned the larks and the sky and the frogs and the swamp and the crickets chirping.", start: 3311.20, end: 3317.20}
-  - {text: "But he opens up this this huge space that's full of life and full of animals and human beings responding to them.", start: 3317.20, end: 3325.26}
-  - {text: "But I would recommend Weights and Measures as a better composed novel than than the Emperor's Tomb, which is historically perhaps more interesting.", start: 3325.32, end: 3335.84}
-  - {text: "So, well, thank you very much.", start: 3336.78, end: 3339.54}
-  - {text: "I think not only are we going to be offered tea, but Martha baked me a lemon drizzle cake for my birthday.", start: 3339.62, end: 3348.30}
-  - {text: "And so we also have exceptionally lemon drizzle cake.", start: 3348.92, end: 3352.42}
-  - {text: "Simon, to go with your coffee, tea, I'll have a coffee, please.", start: 3352.64, end: 3356.98}
-  - {text: "Coffee, please, tea, please.", start: 3356.98, end: 3359.02}
-  - {text: "In our time with Misha Glenny is produced by Simon Tilletson and it's a BBC Studios production.", start: 3359.68, end: 3364.94}
-  - {text: "If you've got a scrolling problem, then this is the podcast for you.", start: 3365.99, end: 3368.97}
-  - {text: "It's called Top Comment with Meemat Shea and Meemariana Spring.", start: 3369.33, end: 3372.25}
-  - {text: "We both investigate social media for a living, whether it's disinformation, conspiracy theories, internet culture, memes.", start: 3372.51, end: 3378.77}
-  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3379.31, end: 3383.01}
-  - {text: "That's Top Comment on BBC Sounds.", start: 3383.45, end: 3385.49}
+  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.24, end: 14.24, zh: "在《Woman's Hour》节目中，没有我们不会报道的故事，核心在于这件事对女性为何相关且重要。（Woman's Hour BBC Radio 4 的女性话题节目；relevant 相关的）"}
+  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08, zh: "我能与一些了不起的女性交谈，聆听她们的故事，并随着她们一起欢笑和哭泣。（incredible 极好的，了不起的）"}
+  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different.", start: 21.28, end: 26.58, zh: "人们信任这里发生的对话，我认为他们知道能听到一些与众不同的内容。（conversations 对话；different 不同的）"}
+  - {text: "I think I have one of the best jobs in broadcasting.", start: 27.06, end: 29.56, zh: "我觉得我拥有广播界最好的工作之一。（broadcasting 广播业）"}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.18, end: 32.92, zh: "《Woman's Hour》，请在 BBC Sounds 收听。（BBC Sounds BBC 的音频流媒体平台）"}
+  - {text: "Hi, this is Misha Glany.", start: 34.23, end: 35.97, zh: "嗨，我是米沙·格拉尼。（Misha Glany 主持人名字）"}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.69, end: 40.89, zh: "《In Our Time》的剧集每周都会在你获取播客的任何平台发布。（In Our Time BBC Radio 4 的文化历史播客；released 发布）"}
+  - {text: "But if you can't wait, head over to BBC Sounds where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.61, end: 49.49, zh: "但如果你等不及，可以去 BBC Sounds，在那里你可以比在其他任何地方提前一个月收听最新剧集。（head over to 前往；earlier 更早）"}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 50.19, end: 58.99, zh: "这是来自 BBC Radio 4 的《In Our Time》，这是你可以在《In Our Time》档案库中找到的超过一千集节目之一。（archive 档案库，资料库）"}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.66, end: 64.71, zh: "本期的阅读书单可以在你收听节目的平台上的剧集描述中找到。（reading list 阅读书单；description 描述）"}
+  - {text: "I hope you enjoy the programme.", start: 65.25, end: 66.67, zh: "希望大家喜欢这期节目。"}
+  - {text: "Hello. Joseph Roth, 1894 to 1939 was one of the great writers on the dying of the old order in Central Europe after the First World War,", start: 68.62, end: 79.28, zh: "大家好。约瑟夫·罗特，生于1894年，卒于1939年，是描写第一次世界大战后中欧旧秩序衰亡的伟大作家之一，（dying 衰亡；old order 旧秩序）"}
+  - {text: "the loss of homeland and the horror of what was to come.", start: 79.86, end: 83.50, zh: "以及故土的丧失和即将到来的恐怖。"}
+  - {text: "Most English speakers incidentally refer to him as Joseph Roth.", start: 84.12, end: 87.48, zh: "顺便提一下，大多数英语使用者称他为约瑟夫·罗特。"}
+  - {text: "In his journalism and in works such as Rudetsky March, Job, Rebellion and Flight Without End, Roth explored the impact of the Austro -Hungarian Empire's collapse on the world around him,", start: 88.08, end: 100.72, zh: "在他的新闻报道以及《鲁德茨基进行曲》、《约伯》、《叛乱》和《无尽的逃亡》等作品中，罗特探讨了奥匈帝国崩溃对周围世界的影响，（Rudetsky March 《鲁德茨基进行曲》；Flight Without End 《无尽的逃亡》）"}
+  - {text: "and as a German speaking Jew from the northeastern edge of that empire, whose books the Nazis burned, Roth was to spend his life drifting westwards without ever finding a settled home.", start: 101.18, end: 113.30, zh: "作为一名来自该帝国东北边缘的德语犹太人，他的书曾被纳粹焚烧，罗特一生都在向西漂泊，从未找到安身之所。（drifting 漂泊；settled home 安身之所）"}
+  - {text: "With me to discuss Joseph Roth or Roth are Helen Chambers, Emeritus Professor of German at the University of St Andrews, Deborah Holmes, Associate Professor of Modern German Literature at the University of Salzburg,", start: 114.00, end: 127.60, zh: "与我一起讨论约瑟夫·罗特或罗特的是圣安德鲁斯大学德语荣休教授海伦·钱伯斯，萨尔茨堡大学现代德语文学副教授黛博拉·霍姆斯，（Emeritus Professor 荣休教授；Associate Professor 副教授）"}
+  - {text: "and John Hughes, Reader in German and Cultural Studies at Royal Holloway University of London.", start: 128.06, end: 134.00, zh: "以及伦敦大学皇家霍洛威学院德语与文化研究高级讲师约翰·休斯。（Reader 高级讲师）"}
+  - {text: "And John, it's to you I want to come first.", start: 134.48, end: 136.58, zh: "约翰，我想先请你来谈谈。"}
+  - {text: "Can you tell us a bit about Roth's childhood in Brody, then in the Austro -Hungarian Empire, of course, but it's now on the very edge of Ukraine?", start: 136.94, end: 146.78, zh: "你能给我们讲讲罗特在布罗迪的童年吗？那里当时当然属于奥匈帝国，但现在位于乌克兰的最边缘。（Brody 布罗迪；Ukraine 乌克兰）"}
+  - {text: "Yes, indeed, yeah. So, I mean, many listeners, if they know Roth at all, they will probably think of him as an Austrian author, but his origins were far from Austria, as we know it today.", start: 147.26, end: 157.54, zh: "是的，确实如此。我的意思是，很多听众如果知道罗斯的话，可能会认为他是一位奥地利作家，但正如我们所知，他的出身与今天的奥地利相去甚远。（origins 出身，根源）"}
+  - {text: "As you said, born in Brody, which at the time of his birth was in Galicia, which was the largest, the northernmost province in Austria -Hungary, the Habsburg Empire.", start: 157.62, end: 168.22, zh: "正如你所说，他出生在布罗迪，当时那里属于加利西亚，这是奥匈帝国，也就是哈布斯堡帝国最大、最北的省份。（Galicia 加利西亚；Austria-Hungary 奥匈帝国；Habsburg Empire 哈布斯堡帝国）"}
+  - {text: "Galicia, as you mentioned, occupies a fairly large area, which is now, falls now within southeast Poland and the west of Ukraine.", start: 169.20, end: 177.70, zh: "加利西亚，正如你提到的，占据相当大的面积，现在位于波兰东南部和乌克兰西部。（Galicia 加利西亚）"}
+  - {text: "And if you look up Brody on the map today, you'll see it's there in the west of Ukraine, maybe 100 kilometres or so east of Lviv or Lemberg,", start: 178.08, end: 187.56, zh: "如果你在今天的地图上查找布罗迪，你会发现它位于乌克兰西部，可能在利沃夫或莱姆贝格以东一百公里左右。（Brody 布罗迪；Lviv 利沃夫；Lemberg 莱姆贝格，利沃夫的德语旧称）"}
+  - {text: "as it was known in Roth's time in German.", start: 187.82, end: 189.92, zh: "在罗斯的时代，这个地方用德语被称为莱姆贝格。（Lemberg 莱姆贝格，利沃夫的德语旧称）"}
+  - {text: "But in the year of Roth's birth, 1894, Brody was very much a border town.", start: 190.52, end: 195.14, zh: "但在罗斯出生的那一年，也就是1894年，布罗迪是一个典型的边境城镇。（border town 边境城镇）"}
+  - {text: "It was right on the edge of the Austro -Hungarian Empire, close to the border with Russia.", start: 195.14, end: 201.24, zh: "它正好位于奥匈帝国的边缘，靠近与俄罗斯的边界。（Austro-Hungarian Empire 奥匈帝国）"}
+  - {text: "And because of that, it had flourished as a sort of trading centre for the previous century or so.", start: 202.60, end: 207.24, zh: "正因为如此，在过去的一个世纪左右，它作为一个贸易中心繁荣发展。（flourished 繁荣，兴旺；trading centre 贸易中心）"}
+  - {text: "And, you know, perhaps as a consequence of that, it was quite a mixed community, multi -ethnic, multi -lingual, multicultural.", start: 207.88, end: 215.30, zh: "而且，你知道，也许正因如此，那里是一个相当多元的社区，多民族、多语言、多元文化。（multi-ethnic 多民族的；multi-lingual 多语言的；multicultural 多元文化的）"}
+  - {text: "Roth himself was born to a German speaking Jewish family and so grew up speaking one of the languages of empire, high German, but he would have been very familiar with the sound of Polish, Yiddish, Ukrainian, Russian also during his childhood.", start: 216.36, end: 233.56, zh: "罗斯本人出生在一个说德语的犹太家庭，因此他从小说着帝国的一种语言——高德语长大，但在他的童年时期，他也非常熟悉波兰语、意第绪语、乌克兰语和俄语的声音。（high German 高德语，标准德语；Yiddish 意第绪语）"}
+  - {text: "And I think he also had a working knowledge of all of those languages.", start: 233.68, end: 237.28, zh: "而且我认为他对所有这些语言都有相当实用的掌握。（working knowledge 实用知识，能实际运用的程度）"}
+  - {text: "Despite that, I think he had felt that Brody was quite a provincial place.", start: 237.96, end: 241.88, zh: "尽管如此，我觉得他始终觉得布罗德是个相当闭塞的小地方。（provincial 闭塞的，乡下气重的）"}
+  - {text: "He spent his childhood often wishing he could get away, even though later in life it became so important to him and in his work.", start: 242.38, end: 248.94, zh: "他小时候经常希望能逃离那里，尽管后来这个地方对他和他的作品变得至关重要。"}
+  - {text: "He was brought up by a single mother who, by all accounts, was quite protective, overprotective even.", start: 249.41, end: 255.58, zh: "他由单身母亲抚养长大，据大家所说，这位母亲非常保护他，甚至可以说是过度保护。（by all accounts 据大家所说；overprotective 过度保护的）"}
+  - {text: "He never knew his father who had abandoned the family when Roth was quite young.", start: 256.10, end: 260.88, zh: "他从未见过自己的父亲，因为罗特很小的时候父亲就抛弃了家庭。"}
+  - {text: "In later life, Roth tended to fabricate fantastical stories about this absent father.", start: 261.50, end: 266.60, zh: "在晚年，罗特倾向于编造关于这位缺席父亲的奇幻故事。（fabricate 编造；fantastical 奇幻的，荒诞的）"}
+  - {text: "He often sort of claimed, for example, that the father had been some sort of high ranking military officer.", start: 266.80, end: 272.38, zh: "例如，他经常声称父亲是某种高级军事军官。（high ranking 高级别的）"}
+  - {text: "But in truth, he was a Jewish businessman, a failed businessman, really, who later became mentally ill and was institutionalized and never really came to terms with that.", start: 272.54, end: 284.34, zh: "但事实上，他是一位犹太商人，其实是个失败的商人，后来精神失常被送进了精神病院，并且始终无法接受这一事实。（institutionalized 被送入机构，此处指精神病院；come to terms with 接受，和解）"}
+  - {text: "It was not a detail which he confided really to anyone in his lifetime.", start: 284.42, end: 287.98, zh: "他生前并没有真正向任何人透露过这个细节。（confide 倾诉，透露）"}
+  - {text: "At any rate, he did get away from Brody eventually.", start: 288.80, end: 290.94, zh: "总之，他最终还是离开了布罗德。"}
+  - {text: "He studied first in Leviv and then transferred to Vienna before his studies were interrupted by the First World War, the outbreak of war.", start: 291.40, end: 299.88, zh: "他先在利沃夫学习，后来转学到维也纳，但在一战爆发时学业中断了。（Leviv 利沃夫，乌克兰城市；Vienna 维也纳；First World War 第一次世界大战）"}
+  - {text: "And he was a very intelligent young boy.", start: 300.08, end: 302.72, zh: "他当时是个非常聪明的少年。"}
+  - {text: "He did well at school.", start: 303.04, end: 304.08, zh: "他在学校表现很好。"}
+  - {text: "Yes, he attended the gymnasium.", start: 304.08, end: 306.54, zh: "是的，他读的是文科中学。（gymnasium 文科中学，欧洲传统的高级中学）"}
+  - {text: "So the sort of grammar school in Brody excelled really academically, although by all accounts was something of a loner from an early age.", start: 306.90, end: 314.94, zh: "所以在布罗德的那所中学里，他学业成绩确实很出色，尽管据大家说，他从小就是个有点孤僻的人。（Brody 布罗德，乌克兰城市；loner 孤僻的人）"}
+  - {text: "Enjoyed literature, German literature in particular.", start: 315.04, end: 317.90, zh: "他喜欢文学，尤其是德国文学。"}
+  - {text: "This was at the tail end of when German was one of the teaching languages actually in Brody.", start: 318.34, end: 322.48, zh: "那是在德语作为布罗德教学语言之一的时期末尾。（Brody 布罗德；teaching languages 教学语言）"}
+  - {text: "And shortly after he completed his secondary education, I think the language of instruction switched almost entirely to Polish.", start: 322.70, end: 328.86, zh: "在他完成中学教育后不久，我认为教学语言几乎完全切换成了波兰语。（secondary education 中学教育；Polish 波兰语）"}
+  - {text: "So it was a change.", start: 329.32, end: 330.38, zh: "所以这确实是一个变化。"}
+  - {text: "It was changing really during his lifetime.", start: 330.50, end: 332.18, zh: "这种变化其实就发生在他的一生之中。"}
+  - {text: "So he moves to Vienna, the imperial capital on the very eve of the First World War, with the defeat of the Central Powers in 1918, the empire collapses too.", start: 332.18, end: 347.26, zh: "于是他搬到了维也纳，就在第一次世界大战爆发前夕，这座帝国首都随着1918年同盟国的战败而一同崩塌。（imperial capital 帝国首都；Central Powers 同盟国）"}
+  - {text: "How abrupt were the changes which he experienced after 1918?", start: 347.82, end: 352.08, zh: "1918年之后，他所经历的变迁有多剧烈？（abrupt 突然的，剧烈的）"}
+  - {text: "He'd served in the war, although not on the front line.", start: 352.72, end: 355.76, zh: "他曾在战争中服役，但并未上前线。（front line 前线）"}
+  - {text: "We don't think he served in frontline combat, although he again, it's something he claimed various things to the contrary later in life.", start: 356.26, end: 363.14, zh: "我们认为他没有参加前线战斗，尽管他后来在余生中多次声称事实并非如此。（claimed 声称，主张）"}
+  - {text: "So he finished the war, demobbed really from from the army, returning to Vienna.", start: 363.94, end: 368.14, zh: "所以战争结束后，他实际上从军队退役，回到了维也纳。（demobbed 退役，复员）"}
+  - {text: "Brody, his hometown from 1919, became part of the new Polish Republic.", start: 368.68, end: 374.16, zh: "布罗德，他1919年时的家乡，成为了新成立的波兰共和国的一部分。（Polish Republic 波兰共和国）"}
+  - {text: "And so really was not really recognisable as the place in which he'd grown up and with which he had identified.", start: 374.64, end: 380.72, zh: "因此，那里几乎认不出是他成长并认同的那个地方了。（identified 认同，归属感）"}
+  - {text: "German was no longer one of the languages spoken there, not a recognised one.", start: 380.98, end: 384.76, zh: "德语不再是那里使用的语言之一，也不再被官方认可。（recognised 被认可的，被承认的）"}
+  - {text: "For a time, I think then he he was ready to embrace the post -war world.", start: 385.22, end: 390.16, zh: "有一段时间，我想他当时是准备好拥抱战后的世界了。（embrace 拥抱，欣然接受）"}
+  - {text: "He was quite open to the opportunities that might be offered by the new democracies that were emerging.", start: 390.24, end: 395.82, zh: "他对新兴民主国家可能带来的机遇持相当开放的态度。（emerging 新兴的，正在形成的）"}
+  - {text: "But that gradually started to change during the course of the next decade or so.", start: 396.20, end: 401.22, zh: "但这种情况在接下来的十年左右的时间里逐渐开始改变。（course of the next decade 接下来的十年；gradually 逐渐地）"}
+  - {text: "Well, let me follow on with Helen Chambers.", start: 401.64, end: 404.46, zh: "好的，让我接着海伦·钱伯斯的话题继续说。（follow on with 接着……的话题；Helen Chambers 海伦·钱伯斯，嘉宾）"}
+  - {text: "Helen, he stays in Vienna and starts work as a journalist.", start: 404.86, end: 410.42, zh: "海伦，他留在了维也纳，并开始从事记者工作。（Vienna 维也纳；journalist 记者）"}
+  - {text: "What were the opportunities there like?", start: 411.10, end: 412.98, zh: "那里的机会怎么样？（opportunities 机会；like 怎么样）"}
+  - {text: "Because there must have been some stiff competition.", start: 412.98, end: 415.02, zh: "因为那里肯定竞争激烈。（stiff competition 激烈的竞争）"}
+  - {text: "I mean, the Austrian capital boasted a rich array of novelists and commentators at the time.", start: 415.26, end: 420.50, zh: "我的意思是，当时奥地利首都拥有众多小说家和评论家。（boasted 拥有，以……为傲；array 一系列，大量；commentators 评论家）"}
+  - {text: "Yes, it's quite hard to know how he got into it, except that there are reports from editors in the offices that he turned up at.", start: 420.74, end: 429.04, zh: "是的，很难知道他是怎么入行的，除了那些在他去过的报社里，编辑们留下的报道。（reports 报道；editors 编辑；offices 办公室）"}
+  - {text: "And the report that this young man appeared very skinny in a ragged military shirt, very proud and handed over his short texts, which were then received and indeed published.", start: 429.40, end: 444.04, zh: "报道说这个年轻人看起来非常瘦，穿着一件破旧的军装衬衫，神情非常自豪，交出了他的短文，这些文章随后被接收并发表了。（ragged 破旧的；proud 自豪的；published 发表）"}
+  - {text: "And he had a quite remarkable output and success.", start: 444.68, end: 448.46, zh: "而且他的产出和成功都相当惊人。（remarkable 惊人的；output 产出，作品量）"}
+  - {text: "And in that first year, 1919, when he'd filled in his registration card with Occupation Journalist, which he wasn't really.", start: 448.80, end: 456.98, zh: "在1919年那第一年，他在登记表上填写的职业是记者，尽管他其实并不是。（registration card 登记表；Occupation 职业；Journalist 记者）"}
+  - {text: "He then published 178 articles in 1919 as a 24 year old and already in these articles.", start: 457.86, end: 465.58, zh: "他在1919年时年仅24岁，就发表了178篇文章，而且在这些文章里……（published 发表；underdog 弱者，处于劣势的一方）"}
+  - {text: "And you ask me why and how he succeeded.", start: 465.70, end: 467.72, zh: "你会问我，他为什么能成功，又是怎样成功的。"}
+  - {text: "And perhaps you're bloody minded, but also the quality of his work is absolutely clear from the outset.", start: 469.08, end: 477.06, zh: "也许你有点固执己见，但他作品的质量从一开始就绝对清晰可见。（bloody minded 固执的，倔强的；outset 开端，起初）"}
+  - {text: "I mean, not every article as a gem, but very many of them do all the things that he was later to do in his novels.", start: 477.52, end: 484.82, zh: "我的意思是，并非每篇文章都是杰作，但其中很多篇都做到了他后来在小说中才实现的那些事情。（gem 杰作，珍品）"}
+  - {text: "And one of the things that characterizes that that journalism is he has an eye for the for the underdog.", start: 485.16, end: 491.34, zh: "这种新闻写作的一个显著特点是，他有一双善于发现弱势群体的眼睛。（characterizes 是……的特征；underdog 弱者，处于劣势的一方）"}
+  - {text: "Details that at first glance appear insignificant, but actually perhaps something that really matters.", start: 491.56, end: 498.28, zh: "那些乍看之下似乎微不足道的细节，实际上可能才是真正重要的东西。（insignificant 不重要的，微不足道的）"}
+  - {text: "Yes, I mean, he was very concerned with injustice, with the underdog, with the veterans coming back with nowhere to go, unemployed, no income.", start: 498.88, end: 510.66, zh: "是的，他非常关注不公，关注弱势群体，关注那些退伍后无处可去、失业且没有收入的退伍军人。（injustice 不公正；veterans 退伍军人）"}
+  - {text: "And he watched them and he saw them and he went to military hospital and he saw people whose faces had been shot away, jaws shot away.", start: 511.06, end: 520.88, zh: "他观察他们，看见他们，他去了军事医院，看到那些脸被炸掉、下巴被炸掉的人。（military hospital 军事医院；jaws 下巴，颌骨）"}
+  - {text: "And they weren't allowed to look in the mirror and they weren't allowed to see plaster casts of themselves, although these existed and wrote wrote a", start: 520.98, end: 530.00, zh: "他们不被允许照镜子，也不被允许看自己的石膏模型，尽管这些模型确实存在，他写了一篇……（plaster casts 石膏模型；although 尽管，虽然）"}
+  - {text: "really hard hitting piece saying they should show these photographs before the newsreels.", start: 530.00, end: 535.90, zh: "一篇非常有力的文章，主张应该在放映新闻片之前展示这些照片。（hard hitting 有力的，直击要害的；newsreels 新闻片，早期新闻短片）"}
+  - {text: "They should put them on the advertising pillars and people wouldn't fight wars again.", start: 536.08, end: 541.50, zh: "他们应该把这些东西印在广告柱上，这样人们就不会再打仗了。（advertising pillars 广告柱；fight wars 打仗）"}
+  - {text: "Was I mean, he didn't say explicitly people wouldn't fight wars again.", start: 541.50, end: 545.52, zh: "我是说，他并没有明确说人们就不会再打仗了。（explicitly 明确地，公开地）"}
+  - {text: "But that was very much what he, you know, he could see that these people were suffering dreadful injustice.", start: 545.52, end: 551.80, zh: "但这确实是他所看到的，你知道，他能看到这些人正在遭受可怕的冤屈。（dreadful injustice 可怕的冤屈，极大的不公）"}
+  - {text: "Deborah Holmes, let me ask you about Rott as a Foyeton writer.", start: 552.62, end: 557.26, zh: "黛博拉·霍姆斯，我想问问你关于罗斯作为feuilleton作家的情况。（Deborah Holmes 黛博拉·霍姆斯；feuilleton feuilleton，指报纸上的文艺副刊或随笔栏目）"}
+  - {text: "So can you explain what a Foyeton is very important in Austrian and German culture and why they were so important?", start: 557.78, end: 565.78, zh: "那么你能解释一下什么是feuilleton吗？它在奥地利和德国文化中非常重要，为什么它们如此重要？（feuilleton feuilleton，指报纸上的文艺副刊或随笔栏目）"}
+  - {text: "Certainly, yes. I mean, I think one of the reasons why you're Ziffer Rott, even at this very, very dynamic period in cultural history, was able to be such an immediate success.", start: 566.24, end: 576.66, zh: "当然可以。我是说，我认为其中一个原因，为什么像约瑟夫·罗斯这样的人物，即便在那个文化史上非常动态的时期，也能如此迅速获得成功。（Joseph Roth 约瑟夫·罗斯；dynamic period 动态时期，变化剧烈的时期）"}
+  - {text: "I think it's fair to say is that we're in despite the end of the war and shortage of paper and a shortage of healthy manpower.", start: 576.84, end: 585.08, zh: "我认为可以说的是，尽管战争结束了，纸张短缺，健康劳动力也短缺。（shortage of paper 纸张短缺；healthy manpower 健康劳动力）"}
+  - {text: "We're still in a period that's a golden age of print media and the daily papers, there were, you know, scores of daily papers in each big city, each big German speaking city.", start: 585.56, end: 594.58, zh: "我们仍然处于印刷媒体的黄金时代，日报方面，你知道，每个大城市，每个大的德语城市，都有几十家日报。（golden age of print media 印刷媒体的黄金时代；German speaking city 德语城市）"}
+  - {text: "And they had two and three editions a day.", start: 594.92, end: 596.94, zh: "而且它们每天有两到三个版本。（editions 版本，版次）"}
+  - {text: "I mean, that's that's a lot of newspaper to fill.", start: 597.10, end: 598.96, zh: "我是说，那需要填充大量的报纸内容。（fill 填充，填满）"}
+  - {text: "And the Foyeton was both a part of the newspaper.", start: 599.64, end: 602.02, zh: "而且《小报》（Feuilleton）既是报纸的一部分。"}
+  - {text: "It was the cultural arts section of the newspaper, but the word Foyeton was also used to describe short texts that could be subjective, descriptive, narrative,", start: 602.02, end: 612.46, zh: "它是报纸的文化艺术版块，但“小报”这个词也被用来描述那些可以主观、描写性、叙事性的短文本，"}
+  - {text: "question mark, they could be purely descriptive, but that Foytonists, so thought of himself as a journalist, but as a Foytonist, they would churn them out day on day about anything", start: 613.06, end: 622.68, zh: "带有问号，它们可以纯粹是描写性的，但那些“小报作家”（Feuilletonists），他们把自己视为记者，但更是小报作家，他们会日复一日地撰写关于任何"}
+  - {text: "and everything that they saw walking around the city.", start: 622.68, end: 624.58, zh: "以及他们在城市里四处走动时看到的一切。"}
+  - {text: "And the idea was or the tradition was is that the style could or should be subjective.", start: 625.26, end: 629.92, zh: "其理念或传统是，风格可以是或应该是主观的。"}
+  - {text: "And it was in the newspaper partly as a commentary on current affairs and on politics and business and other daily news, but also as a part of the newspaper that would outlive current affairs.", start: 629.94, end: 641.94, zh: "它在报纸中部分作为对时事、政治、商业和其他日常新闻的评论，但也是报纸中能够超越时事、长久留存的一部分。"}
+  - {text: "So the original Foyeton was published under a thick black line on the bottom third of the page.", start: 642.26, end: 647.40, zh: "因此，最初的小报文章发表在页面下三分之一处的一条粗黑线下方。"}
+  - {text: "And the idea was that you cut off that bit of the page and kept it because although this writing was subjective and personal, it was going to be what outlived the daily news,", start: 647.48, end: 656.62, zh: "其理念是，你可以剪下那部分页面并保留它，因为虽然这些写作是主观和个人的，但它将成为超越日常新闻、长久留存的东西，"}
+  - {text: "these little perceptions and descriptions of daily life.", start: 656.86, end: 659.78, zh: "这些关于日常生活的微小感知和描写。"}
+  - {text: "Sounds a bit like in our time.", start: 659.90, end: 661.36, zh: "听起来有点像我们的《此时此刻》节目。"}
+  - {text: "He before long started experimenting with novels as well.", start: 663.16, end: 668.32, zh: "没过多久，他也开始尝试写小说了。（experimenting 尝试，试验）"}
+  - {text: "And one of the early ones is called Rebellion, and it encapsulates quite a lot of Rod's outlook on life.", start: 668.50, end: 675.22, zh: "其中早期的一部叫《反叛》，它很好地概括了罗斯对生活的看法。（encapsulates 概括，浓缩；outlook 观点，看法）"}
+  - {text: "Can you tell us about that?", start: 675.40, end: 676.48, zh: "你能给我们讲讲那本书吗？"}
+  - {text: "Certainly, yeah, it's a fabulous novel.", start: 677.04, end: 679.28, zh: "当然可以，那是一部非常精彩的小说。（fabulous 极好的，精彩的）"}
+  - {text: "It's of his earlier novels.", start: 679.52, end: 681.18, zh: "这是他的早期小说之一。（earlier 早期的）"}
+  - {text: "So we're talking 1924.", start: 681.56, end: 683.14, zh: "所以我们说的是1924年。"}
+  - {text: "In 1923, 24, he actually wrote and published three novels, which is also quite a considerable feat.", start: 684.04, end: 690.28, zh: "在1923到24年间，他实际上写并出版了三本小说，这也是一项相当了不起的成就。（considerable 相当大的，可观的；feat 壮举，成就）"}
+  - {text: "When you consider that he's, as we've said, he's churning out journalism the whole time as well.", start: 690.28, end: 695.04, zh: "考虑到正如我们所说，他一直在同时撰写新闻报道。（churning out 大量生产，快速产出）"}
+  - {text: "So Rebellion, Rebellion, is actually based on a true story.", start: 695.66, end: 700.00, zh: "所以《反叛》实际上是根据一个真实故事改编的。（based on 基于，根据）"}
+  - {text: "It was based on a court case from 1923 that Kai Kraus, a famous Viennese satirist and commentator, talks about in his one man periodical defacus of the torch,", start: 700.10, end: 711.64, zh: "它取材于1923年的一起法庭案件，著名的维也纳讽刺作家和评论家卡伊·克劳斯在他的单人刊物《火炬上的火焰》中谈到了这件事。（satirist 讽刺作家；periodical 期刊，刊物）"}
+  - {text: "which saw itself as a sort of antidote to the daily press and takes up this story.", start: 712.20, end: 717.22, zh: "它自视为每日新闻的一种解药，并以此为背景展开了这个故事。（antidote 解药，对策；daily press 每日报刊）"}
+  - {text: "It's about a veteran who returns from the front and he's lost a leg, but he feels totally content.", start: 717.34, end: 723.08, zh: "故事讲的是一个老兵从前线回来，他失去了一条腿，但内心却感到无比满足。（veteran 老兵；front 前线）"}
+  - {text: "He feels that the government must know what it's doing.", start: 723.44, end: 725.62, zh: "他觉得政府一定知道自己在做什么。（government 政府）"}
+  - {text: "He's going to get a prosthetic leg.", start: 726.14, end: 727.82, zh: "他会得到一条假肢。（prosthetic leg 假肢）"}
+  - {text: "He's going to get some way of supporting himself.", start: 727.96, end: 729.78, zh: "他会找到某种维持生计的方式。（supporting himself 养活自己，维持生计）"}
+  - {text: "It's all fine. And he did his duty.", start: 730.10, end: 731.74, zh: "一切都好，而且他尽到了自己的职责。（duty 职责，义务）"}
+  - {text: "And the story basically takes that mindset apart.", start: 732.28, end: 735.84, zh: "这个故事基本上是对这种心态的解构。（mindset 心态，思维模式）"}
+  - {text: "And there's one disaster after another that happens to this poor man.", start: 736.16, end: 739.32, zh: "接着，这位可怜的人遭遇了一场又一场灾难。（disaster 灾难，不幸）"}
+  - {text: "So the story from the actual sort of true story that it's based on was of an invalid who gets back from the war and is", start: 739.74, end: 745.22, zh: "所以，这个故事源自一个真实的原型，讲的是一名伤残军人从战争中归来，然后……（invalid 伤残者，病人；based on 基于，源自）"}
+  - {text: "given a license to play a barrel organ on the street to earn money.", start: 745.22, end: 748.94, zh: "他获得了一张许可证，可以在街头演奏手风琴来赚钱。（barrel organ 手风琴，风琴；license 许可证）"}
+  - {text: "And that's what happens in the novel as well.", start: 748.94, end: 750.42, zh: "小说里也是这么发展的。"}
+  - {text: "But then the barrel organ owner is confronted with someone who thinks that they are just pretending to be an invalid, that they are playing the system", start: 750.76, end: 759.32, zh: "但随后，手摇风琴的主人遇到了一个认为他只是在装残疾、是在钻空子的人。（barrel organ 手摇风琴；invalid 残疾人；playing the system 钻空子，利用规则漏洞）"}
+  - {text: "and an argument ensues and the police are involved and the barrel organ license gets taken away from the invalid.", start: 759.32, end: 766.46, zh: "两人发生争执，警察介入，残疾人的手摇风琴执照被吊销了。（ensues 发生，随之而来；license 执照，许可证）"}
+  - {text: "And that happens in the novel as well.", start: 766.58, end: 768.26, zh: "小说里也发生了同样的事。"}
+  - {text: "And then he loses his wife, loses his family, loses his source of income.", start: 768.62, end: 773.02, zh: "接着他失去了妻子，失去了家庭，也失去了收入来源。"}
+  - {text: "And by the end of the novel is left railing at God and at Providence and from the beginning of the novel where he's quite happy to fit in with the with the existing order to the end of the novel where he's saying, I want to go to hell.", start: 773.02, end: 785.36, zh: "到了小说结尾，他只剩下对上帝和天意的咆哮，从开头他乐于顺应现有秩序，到结尾他说想去地狱。（Providence 天意，上帝的旨意；railing 咆哮，大声抱怨）"}
+  - {text: "I'm, you know, but the typical road.", start: 785.64, end: 788.04, zh: "嗯，你知道，这是典型的道路。"}
+  - {text: "We have this sort of scene that seems to be taking place in the afterlife.", start: 788.34, end: 791.42, zh: "我们有一个场景，似乎发生在来世。（afterlife 来世，死后世界）"}
+  - {text: "But the last that we hear about the war invalid is he wasn't sure whether he was in heaven or hell, but the rebellion itself is the point of the novel.", start: 791.92, end: 800.00, zh: "但关于这位战争残疾人的最后消息是，他不确定自己是在天堂还是地狱，但反叛本身才是小说的重点。（rebellion 反叛，反抗）"}
+  - {text: "This realization that actually maybe it wasn't enough to do your duty or it wasn't the government's not actually doesn't actually know what it's doing.", start: 800.16, end: 807.00, zh: "这种意识觉醒，即也许仅仅尽本分是不够的，或者政府其实并不真正知道自己在做什么。"}
+  - {text: "You know, maybe the war was senseless.", start: 807.42, end: 809.32, zh: "你知道，也许那场战争毫无意义。（senseless 毫无意义的，荒谬的）"}
+  - {text: "So, John, he has this experience of Vienna of decline, disappointment decides fairly quickly to move to Berlin.", start: 809.88, end: 817.76, zh: "所以，约翰，他在维也纳经历了衰落和失望，很快就决定搬去柏林。（decline 衰落；disappointment 失望）"}
+  - {text: "What is it about Berlin that attracts him?", start: 818.22, end: 820.26, zh: "柏林有什么地方吸引他呢？"}
+  - {text: "Well, I think he moves to Berlin in 1920.", start: 820.50, end: 823.20, zh: "嗯，我认为他是在1920年搬去柏林的。"}
+  - {text: "So, as you say, fairly quickly.", start: 823.58, end: 825.54, zh: "所以，正如你所说，相当快。"}
+  - {text: "He's hugely productive in Vienna, but he moves to Berlin.", start: 826.02, end: 829.48, zh: "他在维也纳非常高产，但还是搬去了柏林。（productive 高产的，多产的）"}
+  - {text: "I think primarily as a sort of economic migrant, he goes there because he thinks there'll be better opportunities for him and a better chance that he will establish himself as a writer there.", start: 829.98, end: 839.94, zh: "我认为他主要是作为一种经济移民，去那里是因为他觉得那里有更好的机会，能更好地确立自己作为作家的地位。（economic migrant 经济移民；establish 确立，建立）"}
+  - {text: "And Berlin in this period is becoming something of a mecca or a cultural magnet, I think, for people from all around German speaking Europe and beyond.", start: 840.58, end: 848.90, zh: "而这一时期的柏林正在成为某种圣地或文化磁石，吸引着来自德语欧洲各地甚至更远地方的人。（mecca 圣地，麦加；magnet 磁石，吸引力）"}
+  - {text: "It's growing very quickly.", start: 849.10, end: 850.20, zh: "它发展得非常迅速。"}
+  - {text: "I think by the end of the 20s, there's more than four million people living in Berlin, which means it was bigger then that it is today.", start: 850.46, end: 856.14, zh: "我认为到20年代末，柏林居住着超过四百万人，这意味着当时的柏林比现在更大。（bigger 更大）"}
+  - {text: "It has an incredibly productive and thriving newspaper and publishing industry, even more so than was the case in Vienna.", start: 856.64, end: 865.82, zh: "那里的报纸和出版业极其繁荣且富有生产力，甚至比维也纳还要发达。（productive 富有生产力的；thriving 繁荣的）"}
+  - {text: "Dozens of daily newspapers in multiple editions, as Deborah said, as well as weekly magazines.", start: 866.24, end: 871.78, zh: "正如黛博拉所说，那里有数十种日报，且有多版发行，还有周刊杂志。（editions 版本，版次；weekly 每周的）"}
+  - {text: "So there are plenty of opportunities for fraud in a place like Berlin.", start: 872.18, end: 875.38, zh: "所以在柏林这样的地方，欺诈的机会非常多。（fraud 欺诈，诈骗）"}
+  - {text: "Of course, there's also the arts scene there, theatre, music, cabaret, the emerging film industry in Weimar Germany as well.", start: 875.72, end: 882.76, zh: "当然，那里还有艺术场景，包括戏剧、音乐、歌舞杂耍，以及魏玛德国新兴的电影产业。（cabaret 歌舞杂耍；emerging 新兴的）"}
+  - {text: "So there's a lot happening in Berlin, but it's also a place of extremes as well, political, cultural, social.", start: 882.82, end: 888.76, zh: "柏林有很多事情在发生，但它也是一个充满极端的地方，无论是政治、文化还是社会方面。（extremes 极端，极端情况）"}
+  - {text: "And he's very sensitive to those extremes as well.", start: 888.86, end: 891.64, zh: "他对这些极端情况也非常敏感。（sensitive 敏感的）"}
+  - {text: "And he gets he gets good work.", start: 891.64, end: 893.66, zh: "他获得了很好的工作机会。（good work 好工作，好的工作机会）"}
+  - {text: "He starts working for the Frankfurter Zeitung, the forerunner of the Frankfurter Algemene Zeitung, which is as good as it gets at that time.", start: 893.82, end: 902.54, zh: "他开始为《法兰克福报》工作，这是《法兰克福总报》的前身，那是当时最好的报纸之一。（forerunner 前身；Frankfurter Algemene Zeitung 法兰克福总报）"}
+  - {text: "Yeah, I mean, it was the Frankfurter Zeitung where he eventually becomes one of the key names publishing regularly in the Freudian section.", start: 902.62, end: 909.80, zh: "是的，正是在《法兰克福报》，他最终成为定期在弗洛伊德专栏发表文章的关键人物之一。（key names 关键人物；Freudian 弗洛伊德的，精神分析学的）"}
+  - {text: "It was one of the prestige titles in the Weimar Republic, headquartered in in Frankfurt and Main.", start: 910.32, end: 916.90, zh: "它是魏玛共和国的知名刊物之一，总部位于美因河畔法兰克福。（prestige titles 知名刊物，享有声望的标题；headquartered 总部设在）"}
+  - {text: "But he he was the sort of Berlin cultural correspondent for a time.", start: 917.48, end: 921.16, zh: "但他曾有一段时间担任柏林的文化记者。（correspondent 记者；Berlin 柏林）"}
+  - {text: "And he was correspondingly well paid.", start: 921.64, end: 923.28, zh: "因此他的薪水也相当可观。（correspondingly 相应地；well paid 高薪）"}
+  - {text: "He was a prominent figure by the middle of the 1920s.", start: 923.34, end: 926.18, zh: "到了二十年代中期，他已经成为一位知名人物。（prominent 著名的；figure 人物）"}
+  - {text: "So Berlin gives him the chance to establish himself first as a journalist and then building on that as an author of fiction from 1923.", start: 926.32, end: 933.90, zh: "柏林给了他机会，让他先确立记者身份，然后从1923年起在此基础上发展成为一名小说家。（establish 确立；fiction 小说）"}
+  - {text: "Thank you, John. So Helen Chambers, he's doing rather well in Berlin, but he's moving around a lot.", start: 934.12, end: 941.70, zh: "谢谢你，约翰。海伦·钱伯斯，他在柏林混得不错，但总是四处奔波。（Helen Chambers 海伦·钱伯斯，嘉宾名；moving around 四处走动）"}
+  - {text: "Seems to be a bit of a restless soul.", start: 942.18, end: 944.88, zh: "他似乎是个坐不住的人。（restless 不安分的；soul 灵魂，指人）"}
+  - {text: "His writing is also quite unpredictable.", start: 945.90, end: 948.10, zh: "他的写作风格也很难以预测。（unpredictable 难以预测的）"}
+  - {text: "It goes off in different directions.", start: 948.48, end: 950.06, zh: "他的创作方向总是变幻莫测。（directions 方向）"}
+  - {text: "Is that right? Up to a point.", start: 950.22, end: 952.56, zh: "是这样吗？在某种程度上是的。（Up to a point 在某种程度上）"}
+  - {text: "I mean, he was just to perhaps go on from what John was saying.", start: 952.78, end: 955.96, zh: "我是说，我想接着约翰刚才的话继续说。（go on 继续）"}
+  - {text: "He was at one time the best paid journalist on the Frankfurter Zeitung.", start: 956.06, end: 960.36, zh: "他曾是《法兰克福报》薪水最高的记者。（Frankfurter Zeitung 《法兰克福报》，德国历史报纸）"}
+  - {text: "And he wrote his articles exactly the same size as the column inches in the paper.", start: 960.56, end: 965.78, zh: "他写文章时，篇幅正好对应报纸上的栏宽。（column inches 栏宽，报纸排版术语）"}
+  - {text: "And he earned a mark, a line.", start: 966.00, end: 968.24, zh: "他每行字能赚一个马克。（mark 马克，旧德国货币单位）"}
+  - {text: "So he he was earning a lot of money, but he said that Berlin was like waiting room in a big station.", start: 968.70, end: 975.42, zh: "所以他赚了很多钱，但他说柏林就像大火车站的候车室。"}
+  - {text: "And he was he was what did he mean by that?", start: 976.04, end: 979.24, zh: "他是……他这话是什么意思？"}
+  - {text: "Well, he meant he was waiting.", start: 979.24, end: 980.70, zh: "嗯，他的意思是他一直在等待。"}
+  - {text: "He didn't like Berlin very much.", start: 980.74, end: 982.50, zh: "他不太喜欢柏林。"}
+  - {text: "And well, I mean, it got worse and worse, of course, with the Nazi violence and with what was going on in the courts, which he saw very early on.", start: 983.16, end: 989.90, zh: "而且，随着纳粹暴行和法庭上发生的事，情况当然越来越糟，他很早就看出来了。（Nazi 纳粹；courts 法庭）"}
+  - {text: "But he he said it was like this waiting room.", start: 990.58, end: 993.74, zh: "但他说过，那就像个候车室。"}
+  - {text: "It was a kind of no man's land.", start: 993.86, end: 995.50, zh: "那是一种无人区。（no man's land 无人区，指无主或无管辖之地）"}
+  - {text: "And I think he said I'm trading in books and newspapers to get the money to get my ticket out of here.", start: 995.80, end: 1001.82, zh: "我记得他说，他靠卖书和报纸来筹钱买票离开这里。（trading in 买卖，交易）"}
+  - {text: "And you're quite right.", start: 1002.00, end: 1002.88, zh: "你说得完全正确。（quite right 完全正确）"}
+  - {text: "I mean, he traveled a lot.", start: 1002.98, end: 1004.10, zh: "我的意思是，他经常四处旅行。（traveled a lot 经常旅行）"}
+  - {text: "He wanted to be the Paris correspondent for the Frankfurter Zeitung.", start: 1004.46, end: 1008.08, zh: "他想成为《法兰克福报》驻巴黎的记者。（correspondent 驻外记者；Frankfurter Zeitung 《法兰克福报》）"}
+  - {text: "But they gave it to another guy for reasons that we won't go into and wrote it, I think, or two to say about that.", start: 1008.08, end: 1013.84, zh: "但那个职位给了别人，原因我们就不细说了，我想他们对此只字未提。（go into 深入探讨；wrote it 此处指未提及或记录此事）"}
+  - {text: "But to kind of compensate for that, they sent him to Russia to report on Soviet Russia on the new Russia for four months in 1926.", start: 1014.00, end: 1024.88, zh: "但为了弥补这一点，他们派他去苏联，在1926年花四个月时间报道新生的苏联。（compensate for 弥补；Soviet Russia 苏联）"}
+  - {text: "So he did travel a lot.", start: 1026.48, end: 1027.88, zh: "所以他确实经常旅行。（did travel a lot 确实经常旅行）"}
+  - {text: "But he also did other trips for the Frankfurter Zeitung.", start: 1028.02, end: 1032.58, zh: "但他也为《法兰克福报》做过其他旅行报道。（Frankfurter Zeitung 《法兰克福报》）"}
+  - {text: "And that was the kind of thing they published in the press.", start: 1032.62, end: 1034.86, zh: "这就是当时媒体上刊登的那类内容。（published 出版，刊登）"}
+  - {text: "You know, I've traveled to Gillespie or to the Roorkebeat or wherever it happened to be.", start: 1034.86, end: 1039.28, zh: "你知道，我去过吉尔斯皮，或者鲁克比，或者任何碰巧发生事情的地方。（Gillespie 吉尔斯皮，地名；Roorkebeat 鲁克比，地名）"}
+  - {text: "After a summer of lounging and listening to BBC podcasts, you might need help readjusting to the rhythm of normal life.", start: 1040.88, end: 1047.50, zh: "经过一个夏天在BBC播客中悠闲度日，你可能需要调整一下节奏，重新适应正常的生活。（lounging 悠闲地躺着或闲逛；readjusting 重新调整）"}
+  - {text: "So listen to a breakfast show live on BBC Sounds.", start: 1048.39, end: 1051.51, zh: "那就去BBC Sounds上收听一场直播的早间节目吧。（breakfast show 早间节目；BBC Sounds BBC音频平台）"}
+  - {text: "Good morning. Get up and at it with Greg James on Radio One.", start: 1051.79, end: 1056.39, zh: "早上好，和Greg James一起在Radio One开启充满活力的一天。（Greg James 主持人名字；Radio One 英国广播公司第一台）"}
+  - {text: "You are the Ooling.", start: 1056.55, end: 1057.59, zh: "你是Ooling。（Ooling 可能是转写错误，原意不明）"}
+  - {text: "Me cocks it, it'll do.", start: 1057.65, end: 1058.61, zh: "它一叫，事情就办成了。（cocks it 可能是转写错误，原意不明）"}
+  - {text: "Have a laugh with Sarah Cox on Radio Two.", start: 1058.83, end: 1061.09, zh: "在Radio Two和Sarah Cox一起开怀大笑吧。（Sarah Cox 主持人名字；Radio Two 英国广播公司第二台）"}
+  - {text: "We'll calm it all down with Tom McKinney on Radio Three.", start: 1061.57, end: 1064.91, zh: "在Radio Three和Tom McKinney一起让一切平静下来。（Tom McKinney 主持人名字；Radio Three 英国广播公司第三台）"}
+  - {text: "Enjoy the rest of your day.", start: 1065.07, end: 1065.91, zh: "祝你度过愉快的一天。（rest of your day 你这一天的剩余时间）"}
+  - {text: "Breakfast packed with personality.", start: 1066.59, end: 1068.71, zh: "早间节目充满了个性。（packed with 充满；personality 个性）"}
+  - {text: "Listen on BBC Sounds.", start: 1069.05, end: 1070.25, zh: "在BBC Sounds上收听。（BBC Sounds BBC音频平台）"}
+  - {text: "Deborah, he is in literary terms a master of the poignant.", start: 1070.93, end: 1075.95, zh: "黛博拉，从文学角度来看，他是擅长描写凄美情感的大家。（poignant 凄美的，令人感伤的）"}
+  - {text: "Would you agree? Yes, although it's very difficult to pin down how he does it.", start: 1076.33, end: 1082.05, zh: "你同意吗？是的，虽然很难确切指出他是如何做到的。（pin down 确切指出，确定）"}
+  - {text: "It's quite often been said that he writes simply, but that's deceptively simple somehow.", start: 1082.57, end: 1089.69, zh: "人们常说他的写作很简洁，但那种简洁其实具有欺骗性。（deceptively 具有欺骗性地，表面看似……实则不然）"}
+  - {text: "I mean, we've said that he, you know, he, he champions the underdog.", start: 1089.93, end: 1092.93, zh: "我是说，正如我们所说，他……他支持处于劣势的一方。（underdog 处于劣势的一方，弱者）"}
+  - {text: "He looks at the small details every day life.", start: 1092.93, end: 1096.41, zh: "他关注日常生活中的细微之处。（details 细节）"}
+  - {text: "So it's partly that, but he's not afraid to combine small details with with very big ideas.", start: 1096.99, end: 1104.69, zh: "所以部分原因在此，但他并不害怕将细微细节与宏大思想相结合。（combine 结合）"}
+  - {text: "So he's looking for the universal.", start: 1104.91, end: 1106.33, zh: "他在寻找普遍性。（universal 普遍性，共性）"}
+  - {text: "He's looking for he can be quite not exactly kitschy, but he can be quite sentimental.", start: 1106.61, end: 1110.75, zh: "他寻找……他可能算不上俗气，但确实有些感伤。（kitschy 俗气的，庸俗的；sentimental 感伤的，多愁善感的）"}
+  - {text: "He I'm thinking of a passage in rebellion in rebellion that we've just been talking about where the main character, Andreas Pum, has to sell his donkey.", start: 1110.83, end: 1120.05, zh: "我想到了《反抗》中我们刚才讨论的一段，主角安德烈亚斯·普姆不得不卖掉他的驴子。（rebellion 反抗；Andreas Pum 安德烈亚斯·普姆，小说主角）"}
+  - {text: "And it's a very, very sad scene.", start: 1120.63, end: 1122.79, zh: "那是一个非常、非常悲伤的场景。（scene 场景）"}
+  - {text: "And the donkey is described as having gray fur and a human soul.", start: 1123.23, end: 1126.93, zh: "书中描写这头驴子长着灰色的皮毛，却拥有一颗人类般的灵魂。（gray fur 灰色皮毛；human soul 人类灵魂）"}
+  - {text: "And that, you know, poignant, sentimental bit of bit of both.", start: 1127.45, end: 1131.31, zh: "而且，你知道，那部分既感人又充满感伤色彩。（poignant 令人感伤的；sentimental 感伤的，多愁善感的）"}
+  - {text: "But in the context of the novel as a whole, it really works.", start: 1131.47, end: 1134.05, zh: "但放在整部小说的大背景下看，这一处理确实很有效。（in the context of 在……背景下；as a whole 整体而言）"}
+  - {text: "It works for me anyway.", start: 1134.11, end: 1134.93, zh: "至少对我来说是这样。（for me 对我来说；anyway 无论如何，反正）"}
+  - {text: "So it is it's often he's very good at children on childlike figures.", start: 1135.59, end: 1140.93, zh: "所以，他非常擅长刻画儿童或具有童真特质的人物。（childlike figures 具有童真特质的人物）"}
+  - {text: "And he's also, I think what makes it poignant to me is that he manages to make these figures convincing you're invested in them.", start: 1141.37, end: 1148.37, zh: "我认为，让我觉得感动的地方在于，他能让这些人物变得真实可信，让你对他们产生情感投入。（convincing 令人信服的；invested in 对……有投入感，关心）"}
+  - {text: "But they're not they're not made into heroes in any way.", start: 1148.37, end: 1151.53, zh: "但他们并没有被塑造成任何意义上的英雄。（made into heroes 被塑造成英雄）"}
+  - {text: "And they don't become sort of unrealistically perceptive or they remain ordinary people.", start: 1151.65, end: 1157.51, zh: "他们也不会变得那种不切实际地洞察世事，而是保持着普通人的状态。（unrealistically perceptive 不切实际地敏锐；remain ordinary 保持普通）"}
+  - {text: "No, I would say there's an absence of clear heroes in in the words work, which brings us on, John, to his major work, the one that he's best known for, Redetzky March,", start: 1157.69, end: 1169.49, zh: "不，我会说，在他的作品中缺乏明确的英雄形象，这就引出了约翰提到的他的代表作，也就是他最为人熟知的《列特兹基进行曲》。（absence of 缺乏；Redetzky March 《列特兹基进行曲》）"}
+  - {text: "a fun farewell to life in the in the empire.", start: 1170.37, end: 1174.25, zh: "这是一首对帝国时期生活的有趣告别曲。（farewell to 对……的告别；empire 帝国）"}
+  - {text: "What's it? What's he up to here?", start: 1174.51, end: 1176.05, zh: "那是哪首曲子？他在这里演奏什么？（up to 正在做，正在搞什么）"}
+  - {text: "Yeah, well, Redetzky March or the Redetzky March, as I think it's been translated into English, it's certainly his longest novel.", start: 1176.69, end: 1183.59, zh: "嗯，应该是《拉德茨基进行曲》，我认为英文译名就是这个，这无疑是罗特最长的小说。（Redetzky March 拉德茨基进行曲；novel 长篇小说）"}
+  - {text: "It's the one which is most acclaimed and for which he's probably best remembered.", start: 1183.89, end: 1188.85, zh: "这部作品最受赞誉，也是他最为人所知的代表作。（acclaimed 备受赞誉的；best remembered 最被铭记的）"}
+  - {text: "It's the one which established him as the great chronicler of the end of empire.", start: 1189.17, end: 1193.05, zh: "正是这部作品确立了他作为帝国终结时期伟大编年史家的地位。（chronicler 编年史家，记录历史的人；empire 帝国）"}
+  - {text: "It's actually quite different to many of his previous novels, certainly the ones he published in the 1920s, many of which with a partial exception of rebellion, actually have quite a quite fragmentary, quite open endings.", start: 1193.53, end: 1206.09, zh: "它与他之前的许多小说截然不同，尤其是他在1920年代出版的那些作品，除了少数例外，大多有着相当碎片化且开放式的结局。（fragmentary 碎片化的；open endings 开放式结局）"}
+  - {text: "A good example would be Flight Without End from 1927, which includes with a protagonist feeling completely lost, alive, but not knowing what to do with his life.", start: 1206.61, end: 1216.55, zh: "一个很好的例子是1927年的《无尽逃亡》，书中主角感到完全迷失，虽然活着，却不知该如何度过余生。（Flight Without End 《无尽逃亡》，罗特的小说；protagonist 主角）"}
+  - {text: "And we don't know what happens next.", start: 1216.67, end: 1218.09, zh: "我们不知道接下来会发生什么。"}
+  - {text: "The Redetzky March, by contrast, has a great a real sense of finality in its conclusion.", start: 1218.89, end: 1223.75, zh: "相比之下，《拉德茨基进行曲》的结尾具有强烈的终结感。（finality 终结感，结束的感觉）"}
+  - {text: "It concludes with the deaths of its main characters, but also with the end of the empire that has shaped them.", start: 1224.09, end: 1229.79, zh: "小说以主要人物的死亡告终，同时也标志着塑造了他们的帝国的终结。（concludes 结束；empire 帝国）"}
+  - {text: "And the two are sort of intertwined in the novel.", start: 1229.79, end: 1233.13, zh: "在小说中，这两者是交织在一起的。（intertwined 交织的，纠缠在一起的）"}
+  - {text: "So as you say, it's the moments in his career that he really firmly looks back and tries to take stock of what happened at the end of empire and why it mattered to him.", start: 1233.53, end: 1242.39, zh: "正如你所说，是他职业生涯中那些时刻，让他真正回望过去，试图审视帝国末期发生了什么，以及这对他为何重要。（take stock of 审视，盘点；empire 帝国）"}
+  - {text: "So it's a generational novel in which the story of a single family somehow stands as a metaphor for the decline of the empire as a whole under the leadership of the aging Kaiser, Franz Josef,", start: 1242.55, end: 1256.79, zh: "这是一部世代小说，一个家庭的故事在某种程度上成为了整个帝国在年迈的弗朗茨·约瑟夫皇帝领导下衰落的隐喻。（generational novel 世代小说；metaphor 隐喻；Kaiser 皇帝，德语称谓）"}
+  - {text: "who actually appears several times as a character in the novel.", start: 1256.81, end: 1260.03, zh: "这位皇帝实际上在小说中多次作为角色出现。（character 角色）"}
+  - {text: "The story is focused on three male members of the Fontrota family.", start: 1260.57, end: 1265.59, zh: "故事聚焦于冯特罗塔家族的三位男性成员。（Fontrota 冯特罗塔，小说中的家族姓氏）"}
+  - {text: "It begins with a grandfather figure who, as a young man, saves the life of the emperor at the Battle of Solferino, which took place in 1859,", start: 1266.33, end: 1276.99, zh: "故事始于一位祖父形象，他年轻时在1859年的索尔费里诺战役中救了皇帝的命。（Battle of Solferino 索尔费里诺战役；emperor 皇帝）"}
+  - {text: "which makes him a sort of hero of the empire but also elevates the family into the aristocracy.", start: 1277.87, end: 1283.33, zh: "这使他成为帝国的英雄，同时也让家族跻身贵族行列。（aristocracy 贵族阶层）"}
+  - {text: "We meet his son, who is a sort of patrician, bureaucrat, very, very conservative and controlling.", start: 1284.01, end: 1290.43, zh: "我们见到了他的儿子，他是个典型的贵族官僚，非常保守且控制欲强。（patrician 贵族，元老；bureaucrat 官僚）"}
+  - {text: "And finally, his son, Carl Josef, who is the last in the line, if you like.", start: 1290.91, end: 1296.23, zh: "最后是他的儿子卡尔·约瑟夫，可以说是这一脉的最后一人。（Carl Josef 卡尔·约瑟夫，小说主角）"}
+  - {text: "And Carl Josef is characterised as somehow sort of paralysed by life, doesn't really know what to do with himself or seems incapable often of making decisions for himself.", start: 1296.63, end: 1305.85, zh: "卡尔·约瑟夫被刻画为被生活所瘫痪，不知道该如何自处，或者经常似乎无法为自己做决定。（paralysed 瘫痪，此处指陷入停滞或无力行动）"}
+  - {text: "He, in particular, he's intimidated by the idea of living up to the memory of that heroic grandfather.", start: 1306.57, end: 1312.17, zh: "尤其是他，他被那位英雄祖父的回忆所震慑，感到难以企及。（intimidated 感到畏惧，被震慑；memory 回忆）"}
+  - {text: "He grows up looking at the portrait of this grandfather, so literally having to try and live up to the image of the grandfather and failing to do that mainly.", start: 1312.17, end: 1320.31, zh: "他在成长过程中一直看着祖父的画像，因此不得不努力活出祖父的形象，但主要结果却是失败了。（portrait 画像；live up to 达到……的标准，不辜负）"}
+  - {text: "He becomes a career soldier but seems wholly unsuitable for that role or unsuited for that role.", start: 1320.83, end: 1326.11, zh: "他成为了一名职业军人，但似乎完全不适合这个角色。（career soldier 职业军人；wholly 完全地）"}
+  - {text: "And he seems also incapable of making any lasting relationships in his life.", start: 1326.57, end: 1330.91, zh: "而且他似乎也无法在生活中建立任何持久的关系。（incapable of 无法做某事；lasting relationships 持久的关系）"}
+  - {text: "So there were some quite negative or almost morbid themes that run through the novel, which, and it also plays with the musical motif of the title,", start: 1331.05, end: 1340.05, zh: "所以小说中贯穿着一些相当消极甚至近乎病态的主题，同时它也运用了标题中的音乐动机，（morbid 病态的，阴郁的；motif 动机，主题）"}
+  - {text: "which is, of course, a reference to Johann Strauss, senior's famous Victory March.", start: 1340.05, end: 1345.41, zh: "这当然指的是老约翰·施特劳斯著名的《胜利进行曲》。（Johann Strauss 约翰·施特劳斯；Victory March 胜利进行曲）"}
+  - {text: "But in the novel, it functions almost an ironic accompaniment to the terminal decline of the empire.", start: 1345.97, end: 1351.55, zh: "但在小说中，它几乎成了帝国最终衰亡的一种讽刺性伴奏。（ironic 讽刺的；terminal decline 最终的衰亡）"}
+  - {text: "So Helen Chambers, what do you ascribe the success of the novel and do you see in it the work of a genius?", start: 1352.11, end: 1361.75, zh: "那么海伦·钱伯斯，你认为这部小说的成功归因于什么？你从中看到了天才的作品吗？（ascribe 归因于；genius 天才）"}
+  - {text: "Yes, I do. And I mean, I think it's got great humanity.", start: 1362.49, end: 1366.15, zh: "是的，我确实这么认为。我是说，我觉得它充满了伟大的人性。（humanity 人性，人道主义）"}
+  - {text: "It's also very funny, despite what John has said.", start: 1366.69, end: 1371.01, zh: "尽管约翰刚才说了那些，但它也非常幽默。（funny 幽默的，有趣的）"}
+  - {text: "I mean, it's morbid, but there is this conflict between officialdom and the army, which trains people to obey.", start: 1371.55, end: 1381.11, zh: "我是说，它确实有些阴郁，但存在着官僚体系与军队之间的冲突，而军队训练人们去服从。（officialdom 官僚体系；obey 服从）"}
+  - {text: "And then these characters, and you usually, and this is part of Rote's magic really, you usually see the characters from their own perspective.", start: 1381.75, end: 1389.43, zh: "然后是这些角色，通常，这其实是罗特魔力的一部分，你通常是从角色自己的视角来看他们的。（perspective 视角；magic 魔力，魅力）"}
+  - {text: "So you know what they're thinking.", start: 1389.43, end: 1391.05, zh: "所以你知道他们在想什么。"}
+  - {text: "And young Carol Joseph, the third one along, he's a 16 -year -old who is seduced by the local sergeant's wife, the beautiful Frau Slamma.", start: 1391.57, end: 1401.83, zh: "还有年轻的约瑟夫·卡罗尔，第三个出场的那个，他是个16岁的少年，被当地中士的妻子、美丽的弗劳·斯拉玛勾引了。（seduced 勾引，诱惑；sergeant 中士）"}
+  - {text: "And she unbuttons his uniform, and he's sitting there thinking, don't think there's anything at the cadet school that told me what to do in this situation.", start: 1402.31, end: 1411.09, zh: "她解开他的制服扣子，他坐在那里想，军校里没教过我在这种情况该怎么做。（uniform 制服；cadet school 军校）"}
+  - {text: "So there are things like that happen, and the emperor is indeed in it.", start: 1411.83, end: 1415.89, zh: "所以会有这样的事发生，而且皇帝确实在其中。（emperor 皇帝）"}
+  - {text: "And he's, well, he kind of misses the battles in a way because he's an old soldier.", start: 1416.65, end: 1421.83, zh: "他，嗯，他有点想念那些战斗，因为他是个老军人了。（maneuvers 演习，机动）"}
+  - {text: "So he thinks I'll have some maneuvers out in the eastern borderlands, and he draws them all up, and he's sitting there in his horse, and everybody's gaping", start: 1422.37, end: 1432.05, zh: "所以他想着要在东部边境搞点演习，他把所有计划都画好了，他坐在马上，大家都张着嘴（gaping 目瞪口呆，张口结舌；borderlands 边境地区）"}
+  - {text: "because there's a drip on the end of his nose.", start: 1432.05, end: 1434.73, zh: "因为他鼻子尖上有一滴鼻涕。（drip 滴落物，这里指鼻涕）"}
+  - {text: "So Rote's showing you the frailty of this old man, and that he doesn't know what's going on, and he's a human being.", start: 1435.43, end: 1442.19, zh: "所以罗特向你展示了这个老人的脆弱，他不知道发生了什么，他也是个普通人。（frailty 脆弱；human being 普通人，人）"}
+  - {text: "And that's part of, I think, Rote's great art, that he shows you human beings, he takes you close to their noses, their nostrils, their ears, their eyes, the back of their mouth.", start: 1442.53, end: 1453.75, zh: "我认为这是罗特伟大艺术的一部分，他向你展示真实的人，让你贴近他们的鼻子、鼻孔、耳朵、眼睛和口腔后部。（nostrils 鼻孔；art 艺术）"}
+  - {text: "I mean, there's a great concrete precision about these things.", start: 1454.01, end: 1457.63, zh: "我的意思是，这些描写有着非常具体且精确的细节。（concrete precision 具体精确）"}
+  - {text: "And would you say that it's a nostalgic novel?", start: 1458.27, end: 1461.77, zh: "你会说这是一部怀旧的小说吗？（nostalgic 怀旧的）"}
+  - {text: "Well, I mean, Rote himself said, I'm looking back, but not uncritically, so it's kind of nostalgic because he misses this multinational land.", start: 1463.04, end: 1474.32, zh: "嗯，罗特自己说过，我在回望过去，但并非不加批判地回望，所以它带有一种怀旧色彩，因为他怀念那片多民族共存的土地。（uncritically 不加批判地；multinational 多民族的）"}
+  - {text: "Yes, you do get a sense.", start: 1474.80, end: 1476.00, zh: "是的，你确实能感受到这一点。"}
+  - {text: "I mean, Austria hungry towards its end was often described as the prison of nations, and you get a sense that he's trying to modify that view of the Austro -Hungarian Empire.", start: 1476.24, end: 1487.54, zh: "我的意思是，奥匈帝国在走向终结时，常被称为“民族监狱”，你能感觉到他试图修正这种对奥匈帝国的看法。（prison of nations 民族监狱；Austro-Hungarian Empire 奥匈帝国）"}
+  - {text: "Well, he would like it not to have been thus, but he knew it was thus, and he does show the decadence of the frailty and what the terrible officers get up to.", start: 1487.94, end: 1498.24, zh: "嗯，他希望事情不是这样，但他知道事实如此，他也展示了那种衰败、脆弱以及那些可怕的军官们干出的勾当。（decadence 衰败；frailty 脆弱）"}
+  - {text: "I mean, fiddling with his own burns has got nothing on Joseph Road, so, yeah.", start: 1498.42, end: 1503.32, zh: "我的意思是，跟约瑟夫·罗特相比，摆弄自己的烧伤根本不算什么，所以，是的。（fiddling 摆弄，捣鼓）"}
+  - {text: "John, you wanted to come in?", start: 1503.92, end: 1505.18, zh: "约翰，你想插话吗？"}
+  - {text: "Yeah, just briefly, I mean, on what makes the novel great, what I enjoy really about it, despite those negative themes, it's the evocation of a lost world, really.", start: 1505.18, end: 1518.10, zh: "是的，简单说一下，关于这部小说为何伟大，我真正喜欢它的地方，尽管有那些负面主题，但它唤起了一个失落的世界。（evocation 唤起，重现）"}
+  - {text: "It's those incredibly detailed descriptions of formal occasions, of the sort of rituals of empire and the military, we get descriptions of uniforms, parades, duels, formal dinners, drunken parties,", start: 1518.32, end: 1534.30, zh: "就是那些对正式场合极其细致的描写，对帝国和军事仪式的描写，我们看到了制服、游行、决斗、正式晚宴、醉酒聚会的描写。（rituals 仪式；duels 决斗）"}
+  - {text: "but also a sense of place as well, so Vienna in its sort of imperial pomp, and also Brody as well.", start: 1534.76, end: 1541.90, zh: "同时也有一种场所感，比如维也纳那种帝国式的辉煌，还有布罗德这个城市。（imperial pomp 帝国的辉煌/排场；Brody 布罗德，波兰东部城市）"}
+  - {text: "I mean, the second half of the novel is essentially set in a Galician border town that draws on all of those memories of Hort's childhood.", start: 1542.14, end: 1548.64, zh: "我是说，小说的后半部分基本上设定在一个加利西亚边境小镇，那里承载了罗斯童年所有的记忆。（Galician 加利西亚的；Hort's 罗斯的，此处为转录错误，应为Roth's）"}
+  - {text: "Helen, what's extraordinary is his ability to write clear, clean copy.", start: 1549.20, end: 1557.26, zh: "海伦，他最非凡的能力在于能写出清晰、干净的文字。（copy 文稿/文字）"}
+  - {text: "And I mean, for his novels as well, he's not a writer who is endlessly revising his work.", start: 1557.66, end: 1563.56, zh: "我是说，就他的小说而言，他并不是那种会没完没了地修改作品的人。（revising 修改/润色）"}
+  - {text: "No, that's fairly remarkable, although there may be things that were lost.", start: 1564.40, end: 1568.72, zh: "不，这确实相当了不起，尽管可能有些东西已经遗失了。（remarkable 了不起的/显著的）"}
+  - {text: "I should perhaps say about his writing practices that when he was writing Radecki March, and he's drinking quite a lot, he left chapter four in a taxi, and he never got it back.", start: 1569.04, end: 1581.17, zh: "关于他的写作习惯，我或许该提一下，当他写《拉德茨基进行曲》时，他喝了很多酒，结果把第四章留在了出租车里，后来也没能拿回来。（Radecki March 《拉德茨基进行曲》，约瑟夫·罗斯的小说）"}
+  - {text: "So he had to write it again, and it's an extremely good chapter.", start: 1581.95, end: 1586.23, zh: "所以他不得不重写，而这一章写得极好。（extremely 极其/非常）"}
+  - {text: "I mean, all of the chapters are good, but that is also remarkable in its way in terms of his working practice.", start: 1586.89, end: 1593.35, zh: "我是说，所有章节都写得不错，但从他的工作习惯来看，这一点也很特别。（working practice 工作习惯/创作方式）"}
+  - {text: "But he kind of held court.", start: 1594.69, end: 1596.15, zh: "但他确实像个权威人物一样掌控着局面。（held court 掌控局面/像君主一样发号施令）"}
+  - {text: "You know, people gathered round him, and they would not want to interrupt him, and he was saying, oh, on you go, on you go.", start: 1596.39, end: 1602.63, zh: "你知道，人们围在他身边，没人想打断他，他就说，哦，请继续，请继续。（on you go 请继续/请说下去）"}
+  - {text: "And then sometimes he would just join the conversation, but he'd be writing the rest of the time, yeah.", start: 1602.85, end: 1608.39, zh: "然后有时候他会加入谈话，但其余时间他都在写作。（join the conversation 加入谈话；writing 写作）"}
+  - {text: "Deborah, I'm going to move us on from Radecki March onto a very important subject.", start: 1609.05, end: 1613.93, zh: "德博拉，我要把话题从拉德茨基进行曲转到一个非常重要的主题上。（move us on 转换话题；Radecki March 拉德茨基进行曲，奥地利著名军乐）"}
+  - {text: "What about women in Hort's novels, and also in his life?", start: 1614.53, end: 1619.21, zh: "关于罗特小说中的女性，以及他生活中的女性，大家怎么看？（Hort 罗特，Joseph Roth 的误听；novels 小说）"}
+  - {text: "Because we haven't mentioned it, but fairly early on he married in Vienna, and that was a very, very important part of his narrative.", start: 1619.57, end: 1627.17, zh: "因为我们还没提到，但他很早就在维也纳结婚了，这是他叙事中非常重要的一部分。（Vienna 维也纳；narrative 叙事，生平故事）"}
+  - {text: "Yes, although it's surprisingly often not commented on, or commented on far too much in the wrong way.", start: 1628.08, end: 1634.04, zh: "是的，虽然这一点很少被评论，或者被以错误的方式过度评论。（commented on 被评论；surprisingly 令人惊讶地）"}
+  - {text: "I mean, it's a difficult topic.", start: 1634.14, end: 1636.20, zh: "我的意思是，这是一个很难的话题。（difficult topic 困难的话题）"}
+  - {text: "I mean, Helen has already referred to Frau Slamer in the novels, women are never major characters.", start: 1636.38, end: 1642.14, zh: "我是说，海伦已经提到了小说中的施拉默夫人，女性从来都不是主要角色。（Frau Slamer 施拉默夫人；major characters 主要角色）"}
+  - {text: "There are no main female characters in Hort, but they quite often play quite a decisive role.", start: 1642.14, end: 1648.00, zh: "罗特的作品里没有主要的女性角色，但她们往往起着相当决定性的作用。（Hort 罗特；decisive role 决定性的作用）"}
+  - {text: "The power dynamics are always uneven.", start: 1648.54, end: 1650.88, zh: "权力动态总是不平衡的。（power dynamics 权力动态；uneven 不平衡的）"}
+  - {text: "There are no balanced gender relations in Hort.", start: 1651.18, end: 1653.46, zh: "罗特的作品里没有平衡的性别关系。（Hort 罗特；gender relations 性别关系）"}
+  - {text: "There are no colleagues or comrades of different sexes.", start: 1653.82, end: 1657.70, zh: "那里没有不同性别的同事或同志。（colleagues 同事；comrades 同志，此处指志同道合者）"}
+  - {text: "Either the women are much more powerful than the men somehow, or they are a long way below them, and they're either protecting the men, or they need protecting.", start: 1658.06, end: 1665.44, zh: "要么女性在某些方面比男性强大得多，要么她们地位远低于男性，她们要么在保护男性，要么需要被保护。（powerful 强大的；below 低于，地位较低）"}
+  - {text: "There's nothing, there's no balance in between.", start: 1665.62, end: 1667.08, zh: "中间没有任何平衡点。（balance 平衡）"}
+  - {text: "And it's an obvious temptation to equate these literary figures with the women in Hort's life.", start: 1667.62, end: 1673.26, zh: "很明显，人们容易把这些文学人物与霍特生活中的女性画上等号。（equate 等同，视为相同；literary figures 文学人物）"}
+  - {text: "If I can lump them together like that.", start: 1673.26, end: 1675.38, zh: "如果我能像那样把它们混为一谈的话。（lump together 混为一谈，归为一类）"}
+  - {text: "So his wife, Friedl, whom he married in 1922, was an acquaintance from a coffee house in Vienna, very typically for Hort.", start: 1676.00, end: 1684.54, zh: "所以他的妻子弗里德尔，他1922年娶了她，是他在维也纳一家咖啡馆认识的人，这非常符合霍特的典型风格。（acquaintance 熟人；typically 典型地）"}
+  - {text: "We haven't talked about bars or coffee houses yet, but...", start: 1684.58, end: 1688.44, zh: "我们还没聊过酒吧或咖啡馆，但是……（coffee houses 咖啡馆）"}
+  - {text: "Well, that's where he seemed to spend most of his life.", start: 1688.44, end: 1690.34, zh: "嗯，他似乎大半辈子都花在了那里。（spend 度过，花费时间）"}
+  - {text: "He spent most of his life and where he did a lot of his writing as well, of course, and he learned Friedl from one cafe table to the next.", start: 1690.34, end: 1697.04, zh: "他大半辈子都在那里度过，当然，他在那里也写了很多作品，他从一个咖啡馆的桌子到下一个，认识了弗里德尔。（cafe 咖啡馆；writing 写作，作品）"}
+  - {text: "She was the daughter of a shopkeeper in Vienna's Jewish district, very pretty, as we can see from the photos.", start: 1697.50, end: 1703.56, zh: "她是维也纳犹太区一位店主的千金，正如照片所示，非常漂亮。（shopkeeper 店主；Jewish district 犹太区）"}
+  - {text: "And they married when they were both still very young.", start: 1704.42, end: 1706.60, zh: "而且他们结婚时年纪都还非常小。"}
+  - {text: "She was six years younger than him.", start: 1706.72, end: 1707.88, zh: "她比他小六岁。"}
+  - {text: "And he does not prevent the marriage, doesn't let the marriage prevent him from living the life that he wishes to lead as a traveling journalist.", start: 1708.54, end: 1718.40, zh: "他并没有因为婚姻而阻碍自己，也没有让婚姻妨碍他过自己想过的旅行记者生活。（prevent 阻碍，妨碍；traveling journalist 旅行记者）"}
+  - {text: "The two of them basically live out of a suitcase, as far as it...", start: 1718.62, end: 1721.28, zh: "他们俩基本上就靠一个行李箱生活，就……（live out of a suitcase 靠行李箱生活，形容居无定所）"}
+  - {text: "Yes and no, it quite often is said of Hort that he never had a flat, that he never had a home, that he never settled.", start: 1721.28, end: 1727.66, zh: "是的，也不是，人们常说霍尔特从未有过公寓，从未有过家，从未安定下来。（Hort 霍尔特，约瑟夫·罗特的昵称；settled 定居，安定）"}
+  - {text: "I think that he twice shared a flat with once with Friedl and once with a later partner, Andrea Mangabelle, in Berlin.", start: 1728.14, end: 1736.12, zh: "我觉得他两次与人合租过公寓，一次是和弗里德尔，一次是在柏林和后来的伴侣安德烈亚·曼加贝勒。（Friedl 弗里德尔；Andrea Mangabelle 安德烈亚·曼加贝勒）"}
+  - {text: "So he did, there were attempts at domesticity, but they never lasted for long and they were always very strained.", start: 1736.38, end: 1740.96, zh: "所以他确实尝试过家庭生活，但从未持续太久，而且总是非常紧张。（domesticity 家庭生活；strained 紧张的，吃力的）"}
+  - {text: "And what happens to Friedl in the end?", start: 1741.60, end: 1743.66, zh: "那弗里德尔最后怎么样了？"}
+  - {text: "Because I think this is quite important.", start: 1743.80, end: 1745.12, zh: "因为我觉得这一点相当重要。"}
+  - {text: "It's an extremely sad story and it must have been very, very, very stressful and tragic for Hort himself.", start: 1745.14, end: 1750.76, zh: "这是一个极其悲伤的故事，对霍尔特本人来说一定非常、非常、非常具有压力且充满悲剧色彩。（stressful 有压力的；tragic 悲剧性的）"}
+  - {text: "Friedl becomes increasingly, at first he thinks, increasingly unable to cope with the life traveling around, with moving so often, with living out of a suitcase.", start: 1751.20, end: 1760.34, zh: "弗里德尔起初看起来越来越无法应对这种四处奔波、频繁搬家、靠行李箱生活的日子。（cope with 应对，处理；traveling around 四处奔波）"}
+  - {text: "And then it becomes clear that she is mentally unstable and she is taking into psychiatric care, I think already from 1925, 26 onwards.", start: 1761.06, end: 1771.32, zh: "后来大家发现她精神不稳定，我认为从1925或1926年起，她就接受了精神科护理。（mentally unstable 精神不稳定；psychiatric care 精神科护理）"}
+  - {text: "I think she's not in care at that point, but at the end of the 20s, yes.", start: 1771.84, end: 1776.02, zh: "我觉得那时候她还没在接受护理，但到了20年代末，是的，她在接受护理。（in care 在接受护理；at the end of the 20s 20年代末）"}
+  - {text: "And repeatedly ill and then is taken into full -time psychiatric care or is living at home but with a full -time nurse, is not really verbalizing anymore, is not really eating.", start: 1776.14, end: 1787.40, zh: "她反复生病，后来要么接受全日制的精神科护理，要么住在家但配有全职护士，她几乎不再说话，也不怎么吃东西。（full-time 全职的；verbalizing 用语言表达）"}
+  - {text: "And she then remains in care until the end of her life, although care becomes a misnomer.", start: 1788.15, end: 1794.26, zh: "她一直接受护理直到去世，尽管“护理”这个词已经名不副实了。（misnomer 名不副实的称呼；remains in care 持续接受护理）"}
+  - {text: "As under the Nazis in 1940, she is then murdered as a long -term psychiatric patient at one of the, in hard time in upper Austria in one of the parts of the Nazis,", start: 1794.38, end: 1805.86, zh: "在1940年的纳粹统治下，作为长期精神病患者，她在上奥地利某处被纳粹杀害……（under the Nazis 在纳粹统治下；long-term psychiatric patient 长期精神病患者）"}
+  - {text: "so -called T4 program to kill psychiatric patients and the mentally unfit.", start: 1806.26, end: 1813.38, zh: "这是纳粹所谓的T4计划的一部分，旨在杀害精神病患者和精神不健全者。（T4 program T4计划；mentally unfit 精神不健全）"}
+  - {text: "And Röth is, refers to Friedel and her illness in some of his work.", start: 1813.90, end: 1821.18, zh: "罗斯在部分作品中提到了弗里德尔和她的病情。（refers to 提及；illness 病情）"}
+  - {text: "In some of his, I'm not sure if that's a good, I'm not sure about the work, certainly repeatedly in the letters, I'm not sure to what extent she...", start: 1821.64, end: 1829.10, zh: "在部分作品中……我不确定这是否恰当，我不确定具体是哪部作品，肯定是在信件中多次提到，我不确定她在多大程度上……（letters 信件；to what extent 在多大程度上）"}
+  - {text: "Well, let me take it on to John Hughes in that case and talk about Job, the story of a simple man, which is what I think where he maybe does reference Friedel.", start: 1829.10, end: 1839.18, zh: "好吧，那就让约翰·休斯来谈谈《约伯记》，这是一个关于普通人的故事，我认为他可能在那里提到了弗里德尔。（Job 约伯；reference 提及）"}
+  - {text: "Can you tell us about this novel?", start: 1839.28, end: 1841.98, zh: "你能给我们讲讲这本小说吗？"}
+  - {text: "Because, as I understand it, Marlene Dietrich thought it was fabulous.", start: 1841.98, end: 1845.62, zh: "因为据我了解，玛琳·黛德丽觉得它非常精彩。（Marlene Dietrich 玛琳·黛德丽，著名演员；fabulous 极好的，精彩的）"}
+  - {text: "She did. I mean, it was actually the novel that preceded Redetzky March as it happens and could be said to have been this artistic turning point for him, the one that allowed him to,", start: 1846.06, end: 1856.78, zh: "确实如此。其实，这本书恰好是《列特茨基进行曲》之前的作品，可以说对他而言是一个艺术转折点，正是它让他……（Redetzky March 《列特茨基进行曲》，约瑟夫·罗特小说；turning point 转折点）"}
+  - {text: "getting the confidence, I think, to write the Redetzky March.", start: 1857.20, end: 1859.46, zh: "获得了信心，我想，去写《列特茨基进行曲》。（confidence 信心；Redetzky March 《列特茨基进行曲》）"}
+  - {text: "So it was published in 1930.", start: 1859.94, end: 1861.46, zh: "所以它出版于1930年。"}
+  - {text: "Before Redetzky March. Came before Redetzky March, although we've already discussed perhaps the most famous novel.", start: 1862.14, end: 1866.84, zh: "在《列特茨基进行曲》之前。它确实排在《列特茨基进行曲》前面，尽管我们之前可能已经讨论过他最著名的那部小说了。（Redetzky March 《列特茨基进行曲》）"}
+  - {text: "But Job is perhaps a close second, certainly looking at his reputation around the world.", start: 1867.00, end: 1872.46, zh: "但《约伯》或许紧随其后，至少从他在世界范围内的声誉来看是这样。（Job 《约伯》，约瑟夫·罗特小说；reputation 声誉）"}
+  - {text: "It's a very widely read, translated, much loved novel.", start: 1872.74, end: 1876.24, zh: "这是一部被广泛阅读、翻译且深受喜爱的小说。（translated 被翻译的；much loved 深受喜爱的）"}
+  - {text: "It gives it its full title.", start: 1876.92, end: 1878.24, zh: "它的全名是这样的。"}
+  - {text: "It's Job, the story or the novel of a simple man.", start: 1878.44, end: 1881.78, zh: "它是《约伯》，一个普通人的故事或小说。（Job 《约伯》；simple man 普通人）"}
+  - {text: "And in a way, it reprises some of the things that made Rebellion a great novel.", start: 1882.50, end: 1887.06, zh: "从某种意义上说，它重现了让《反叛》成为伟大小说的那些特质。（reprises 重现，回顾；Rebellion 反叛，指罗特的小说《反叛》）"}
+  - {text: "It has a sort of simplicity about it, a sort of fable -like structure.", start: 1887.52, end: 1890.62, zh: "它具有一种简洁的特质，一种类似寓言的结构。（simplicity 简洁；fable 寓言）"}
+  - {text: "It plays loosely with the story of the book of Job.", start: 1891.30, end: 1894.98, zh: "它松散地借用了《约伯记》的故事。（book of Job 约伯记，圣经中的一卷）"}
+  - {text: "But unlike Rebellion, it's firmly set in the past.", start: 1895.64, end: 1898.62, zh: "但与《反叛》不同，它坚定地设定在过去。（Rebellion 反叛，指罗特的小说《反叛》）"}
+  - {text: "It's the first novel in which he sets the story firmly in the pre -war world, in the central Europe in which he'd grown up.", start: 1898.62, end: 1907.84, zh: "这是他第一部将故事明确设定在战前世界、设定在他成长的那个中欧背景下的小说。（pre-war 战前；central Europe 中欧）"}
+  - {text: "And it's also unusually, amongst Hort's works, it's firmly set in a Jewish milieu, which is not something he did that often.", start: 1908.16, end: 1915.96, zh: "而且在他（注：此处转录误为Hort，实为Roth）的作品中，它异常地明确设定在犹太社群环境中，这并非他常做的事。（milieu 环境，圈子；Jewish 犹太的）"}
+  - {text: "So the main character, Mendel Singer, the simple man of the title, is an embodiment of the Hasidic Eastern Jews, the Ostewiden.", start: 1916.72, end: 1925.46, zh: "所以主角门德尔·辛格，即标题中的“简单人”，是哈西德派东欧犹太人，即“东方犹太人”的化身。（Mendel Singer 门德尔·辛格，小说主角；Hasidic 哈西德派，犹太教的一个分支；Ostewiden 东方犹太人，指东欧犹太人）"}
+  - {text: "And he's presented as a pious man, as a village teacher who lives just on the other side of the border with the Russian Empire, so", start: 1926.10, end: 1935.48, zh: "他被描绘成一个虔诚的人，一个村庄教师，就住在与俄罗斯帝国接壤的边境另一边，所以……（pious 虔诚的；Russian Empire 俄罗斯帝国）"}
+  - {text: "just outside of the geographical limits of Galicia.", start: 1935.48, end: 1938.24, zh: "就在加利西亚地理范围的边界之外。（Galicia 加利西亚，历史上中欧的一个地区）"}
+  - {text: "And in the course of the story, he suffers misfortune after misfortune, both him personally and his family, starting with the birth of a son with disabilities, Menuchim.", start: 1938.76, end: 1949.80, zh: "在故事进程中，他遭受了一场又一场的不幸，无论是他个人还是他的家庭，从生下一个有残疾的儿子门努希姆开始。（misfortune 不幸；Menuchim 门努希姆，主角的儿子）"}
+  - {text: "He then becomes alienated from his older sons, and then loses them during the war.", start: 1950.34, end: 1955.46, zh: "随后他与大儿子们疏远，并在战争期间失去了他们。（alienated 疏远，关系疏远）"}
+  - {text: "His wife, Deborah, dies, and his oldest daughter, Miriam, becomes mentally ill.", start: 1955.96, end: 1961.28, zh: "他的妻子德博拉去世，他的大女儿米里亚姆患上了精神疾病。（mentally ill 精神疾病）"}
+  - {text: "And the description of Miriam's sort of mental collapse and institutionalization, writing in 1930, shortly after the same thing had happened to Friedl, is indeed, you know, very as a tough read.", start: 1961.84, end: 1972.30, zh: "书中描写米里亚姆精神崩溃并被送进疗养院的情节，写于1930年，就在弗里德尔遭遇同样事情后不久，读起来确实非常沉重。（institutionalization 制度化，此处指被送入机构如医院或疗养院；tough read 难读，指内容沉重或令人不适）"}
+  - {text: "It's based on personal experience in the novel.", start: 1972.80, end: 1976.08, zh: "这部小说是基于个人经历创作的。（personal experience 个人经历）"}
+  - {text: "So the novel ends with the other, I should say that the other thing that haunts the character is the fact that he's abandoned the disabled son when they family moved to America,", start: 1976.68, end: 1986.94, zh: "小说的结尾，我想补充一点，萦绕在角色心头的另一件事是，当全家搬去美国时，他抛弃了残疾的儿子。（haunts 萦绕，挥之不去；abandoned 抛弃，遗弃）"}
+  - {text: "all of which results in him essentially turning his back on his Jewish identity, his faith.", start: 1987.64, end: 1992.22, zh: "这一切导致他基本上背弃了自己的犹太身份和信仰。（turning his back on 背弃，抛弃；Jewish identity 犹太身份）"}
+  - {text: "He rages at the garden whom he's always believed at the end of the novel, but unusually fraught and different to rebellion.", start: 1992.88, end: 1999.84, zh: "在小说结尾，他对自己一直信仰的上帝大发雷霆，但这种愤怒与普通的反叛不同，显得格外紧张和复杂。（fraught 充满紧张或危险的；rebellion 反叛，反抗）"}
+  - {text: "He gives us a twist, a happy ending, a rather sentimental turn of events at the end.", start: 2000.24, end: 2005.54, zh: "他给了我们一个转折，一个幸福的结局，结尾处情节变得相当感伤。（sentimental 感伤的，多愁善感的）"}
+  - {text: "So the abandoned son, Menuchim, turns out has miraculously recovered from his disabilities, has grown up to become a successful composer and musician, and he's on tour in America.", start: 2005.82, end: 2016.80, zh: "那个被抛弃的儿子梅努希姆，奇迹般地康复了，长大后成为了一名成功的作曲家和音乐家，当时正在美国巡演。（miraculously 奇迹般地；composer 作曲家）"}
+  - {text: "And so the novel ends up with the two men being reunited and gives us this happy ending.", start: 2017.48, end: 2022.12, zh: "于是小说以两人重逢告终，给了我们一个幸福的结局。（reunited 重逢，重聚）"}
+  - {text: "Rott, I think had some doubts about that sentiment.", start: 2022.72, end: 2024.76, zh: "我觉得罗斯特对那种情绪有些怀疑。（Rott 罗斯特，即约瑟夫·罗斯特；sentiment 情绪，情感）"}
+  - {text: "I was going to say it's so unorthy.", start: 2025.10, end: 2026.80, zh: "我本来想说这太不配了。（unorthy 不配，不匹配，此处指不匹配或不够格）"}
+  - {text: "It is very, very, and he didn't quite disown the novel, but he was a bit reluctant to sort of praise it.", start: 2026.80, end: 2032.78, zh: "这非常、非常……他并没有完全否认这部小说，但他有点不太愿意去称赞它。（disown 否认，撇清关系；reluctant 不情愿的）"}
+  - {text: "But he was happy that it was a success because the ending was a winner for readers.", start: 2033.26, end: 2037.08, zh: "但他很高兴它很成功，因为结局对读者来说很吸引人。（winner 赢家，此处指成功之处或亮点）"}
+  - {text: "And as you mentioned, Marlene Dietrich in an interview in 1931, I think, with an American film magazine, she was asked for her favorite novel, and she named Job,", start: 2037.08, end: 2046.90, zh: "正如你提到的，玛琳·黛德丽在1931年接受一家美国电影杂志采访时，被问到最喜欢的小说，她提到了《约伯》。（Marlene Dietrich 玛琳·黛德丽；Job 约伯，圣经人物，此处指小说名）"}
+  - {text: "which had just appeared in English translation, and Rott was so delighted he wrote to her to thank her.", start: 2047.36, end: 2052.14, zh: "这部小说刚刚出了英译本，罗斯特非常高兴，写信向她表示感谢。（delighted 高兴的，欣喜的）"}
+  - {text: "And so that's a nice little story.", start: 2052.50, end: 2054.40, zh: "所以这是个挺温馨的小故事。（nice 美好的，温馨的）"}
+  - {text: "Helen Chambers, we've heard how he had a rather stellar career in the 1920s, certainly in the first half, but with the 1930s onwards, after the illness of his wife, his health starts to decline.", start: 2055.14, end: 2071.60, zh: "海伦·钱伯斯，我们听到他在20世纪20年代，尤其是前半段，有着相当辉煌的职业生涯，但从30年代开始，在他妻子生病后，他的健康状况开始下滑。（stellar 明星般的，辉煌的；abode 住所）"}
+  - {text: "He has an unreliable stream of income, no fixed abode, really, yet he remains very prolific.", start: 2071.82, end: 2078.72, zh: "他的收入来源不稳定，实际上没有固定的住所，但他依然非常多产。（prolific 多产的，高产的）"}
+  - {text: "How does he sustain all this?", start: 2079.20, end: 2080.88, zh: "他是如何维持这一切的？（sustain 维持，支撑）"}
+  - {text: "Well, should we say that he left Germany in 1933 and went into exile?", start: 2081.60, end: 2087.24, zh: "那么，我们是否可以说他在1933年离开了德国，流亡海外？（exile 流亡）"}
+  - {text: "For obvious reasons. Because his books were being burnt, but I mean, how did he live?", start: 2088.08, end: 2093.84, zh: "原因显而易见，因为他的书正在被焚烧，但我是说，他是靠什么生活的？"}
+  - {text: "Well, he borrowed money.", start: 2094.00, end: 2095.06, zh: "嗯，他借了钱。"}
+  - {text: "He bought in 1927, Stefan Zweig, who was a great bestseller, major literary figure, pots of money, wrote to Josef Rott and said, I've just read your Wandering Jews.", start: 2095.36, end: 2107.78, zh: "1927年，斯蒂芬·茨威格，这位伟大的畅销书作家、主要文学人物，赚了很多钱，给约瑟夫·罗特写信说，我刚读了你的《流浪的犹太人》。（Stefan Zweig 斯蒂芬·茨威格；bestseller 畅销书）"}
+  - {text: "It's wonderful. Those are his essays about the Eastern Jews, the Osteolin.", start: 2108.04, end: 2112.90, zh: "太精彩了。那是他关于东欧犹太人的随笔，也就是Ostjude。（Osteolin 此处指Ostjude，东欧犹太人）"}
+  - {text: "And Rott got back to him and sort of sponged off for the rest of his life, although Zweig didn't manage to pay for all that Rott needed,", start: 2113.42, end: 2122.76, zh: "罗特回复了他，并在余生中一直向他索取资助，尽管茨威格没能支付罗特所需的全部费用，（sponged off 索取，蹭）"}
+  - {text: "although he did put him up quite often in South of France or sometimes they were in Austria, I think sometimes they were in Ostend.", start: 2122.88, end: 2130.14, zh: "尽管他确实经常让罗特住在法国南部，或者有时在奥地利，我想有时是在奥斯坦德。（Ostend 奥斯坦德，比利时城市）"}
+  - {text: "But Rott, he needed the money.", start: 2130.76, end: 2133.10, zh: "但罗特，他需要钱。"}
+  - {text: "He got big advances, but he often didn't deliver in time.", start: 2133.56, end: 2137.04, zh: "他拿到了大额的预付金，但他经常不能按时交稿。（advances 预付金）"}
+  - {text: "He commanded a lot of money, but he spent a lot of money and he didn't just spend it on himself.", start: 2137.22, end: 2142.72, zh: "他赚了很多钱，但他花了很多钱，而且他花的钱并不全是为了自己。"}
+  - {text: "He was always giving money away, giving it away to people who were worse off than him.", start: 2143.16, end: 2148.54, zh: "他总是把钱送人，送给那些比他更穷困的人。（giving money away 散财，把钱送人；worse off 境况更差，更穷困）"}
+  - {text: "Exiles, emigres, refugees. And he also, when he had money, he would live in smart hotels.", start: 2149.18, end: 2155.56, zh: "流亡者、移民、难民。而且只要手头宽裕，他就会住高档酒店。（Exiles 流亡者；emigres 移民，通常指因政治原因离乡者；smart hotels 高档酒店，时髦的旅馆）"}
+  - {text: "He liked the smart hotels.", start: 2155.82, end: 2157.02, zh: "他喜欢住高档酒店。（smart hotels 高档酒店）"}
+  - {text: "He liked the Hotel Bristol in Vienna.", start: 2157.24, end: 2159.04, zh: "他喜欢维也纳的布里斯托尔酒店。（Hotel Bristol 布里斯托尔酒店；Vienna 维也纳）"}
+  - {text: "He liked the Hotel Foyaux, where he ended up, well, didn't end up in Paris because, and this is part of Rott's fate, that his worlds were destroyed one after the other.", start: 2159.32, end: 2169.28, zh: "他喜欢福伊奥酒店，他最终落脚在巴黎，但并没有真正定居下来，因为这是罗斯命运的一部分，他的世界一个接一个地被摧毁了。（Hotel Foyaux 福伊奥酒店；Rott's fate 罗斯的命运，此处指约瑟夫·罗斯；destroyed 被摧毁）"}
+  - {text: "And this included the Hotel Foyaux, where he had a room, which is just opposite the Giardin de Luxembourg, a fine hotel.", start: 2169.44, end: 2176.62, zh: "总之，这家酒店位于卢森堡花园正对面，他在那里有一间房，那是一家很棒的酒店。（Giardin de Luxembourg 卢森堡花园，此处指巴黎的卢森堡公园；fit for purpose 适合用途，此处指酒店状况良好）"}
+  - {text: "Anyway, it turned out that it was not fit for purpose and it was demolished.", start: 2177.22, end: 2183.84, zh: "结果发现它不适合居住，于是被拆除了。（fit for purpose 适合用途，此处指适合居住；demolished 被拆除）"}
+  - {text: "So where he'd been living for years, was demolished before his very eyes.", start: 2184.44, end: 2189.76, zh: "所以他住了好几年的地方，就在他眼前被拆掉了。（demolished 被拆除；before his very eyes 就在他眼前）"}
+  - {text: "He sat in the cafe across the road, but he worked.", start: 2189.84, end: 2193.56, zh: "他坐在马路对面的咖啡馆里，但他还在工作。（cafe 咖啡馆；worked 工作，此处指写作或处理事务）"}
+  - {text: "I don't know if I've answered.", start: 2193.86, end: 2194.60, zh: "我不知道我是否已经回答了。（answered 回答了，回应了）"}
+  - {text: "I mean, he drank all day and he needed to drink in order to work and he did work at cafe tables and he needed people around him to work.", start: 2194.84, end: 2203.36, zh: "我的意思是，他整天都在喝酒，而且必须喝酒才能工作，他常在咖啡馆的桌边写作，并且需要周围有人陪伴才能动笔。（drank 喝酒；cafe tables 咖啡馆桌边）"}
+  - {text: "He couldn't work without the people around him.", start: 2203.96, end: 2206.84, zh: "如果没有周围人的陪伴，他就无法工作。（without 没有）"}
+  - {text: "Yeah, so I mean, he was drinking very heavily and nonetheless, writing at the same time.", start: 2207.28, end: 2214.82, zh: "是的，我的意思是，他酗酒非常严重，但与此同时还在写作。（nonetheless 尽管如此；writing 写作）"}
+  - {text: "I don't know about all of you, but the experience of trying to write when you've had a drink is really, I mean, for me, it just doesn't work.", start: 2215.24, end: 2222.32, zh: "我不知道各位怎么样，但对我来说，喝过酒后试图写作这种体验，真的行不通。（experience 体验；had a drink 喝过酒）"}
+  - {text: "But he appeared to be inspired by it.", start: 2222.44, end: 2224.82, zh: "但他似乎从中获得了灵感。（inspired 受启发；by it 由此）"}
+  - {text: "Deborah, by the late 30s, he was drinking himself to death.", start: 2225.16, end: 2229.26, zh: "黛博拉，到了三十年代末，他已经在用酒精自杀了。（by the late 30s 到三十年代末；drinking himself to death 酗酒致死）"}
+  - {text: "What were the ghosts he was struggling with?", start: 2229.66, end: 2232.56, zh: "他在与哪些心魔作斗争？（ghosts 心魔，内心的困扰；struggling with 与……作斗争）"}
+  - {text: "Well, I mean, he was, as we said, a highly functional alcoholic, but very definitely a sort of terminal alcoholic and that had been clear for a long time.", start: 2233.10, end: 2242.02, zh: "嗯，正如我们所说，他是个功能良好的酗酒者，但绝对属于那种终末期酗酒者，这一点早已很明显。（functional alcoholic 功能良好的酗酒者；terminal alcoholic 终末期酗酒者）"}
+  - {text: "I mean, I sometimes wonder whether it stemmed from the war years, from the First World War, because I mean, as we know, on both sides of the front,", start: 2242.22, end: 2251.80, zh: "我有时在想，这是否源于战争年代，源于第一次世界大战，因为正如我们所知，在战线的双方……（stemmed from 源于；First World War 第一次世界大战）"}
+  - {text: "soldiers were being plied with alcohol to make the war possible at all.", start: 2252.02, end: 2256.40, zh: "士兵们被强迫大量饮酒，以维持战争的持续。（plied with alcohol 被强迫饮酒；front 前线）"}
+  - {text: "I mean, that might well be part of the roots of his heavy drinking.", start: 2256.56, end: 2260.44, zh: "我的意思是，这可能正是他酗酒问题的根源之一。（heavy drinking 酗酒；roots 根源）"}
+  - {text: "Then later on, I think it's partly because of the lifestyle.", start: 2260.98, end: 2263.52, zh: "后来，我认为部分原因是因为他的生活方式。（lifestyle 生活方式）"}
+  - {text: "He's having to keep deadlines.", start: 2264.10, end: 2265.56, zh: "他不得不赶截稿日期。（deadlines 截稿日期）"}
+  - {text: "He's up late at night.", start: 2265.86, end: 2266.60, zh: "他经常熬夜。（up late 熬夜）"}
+  - {text: "He's living in hotels and bars.", start: 2266.76, end: 2268.08, zh: "他住在酒店和酒吧里。（hotels 酒店；bars 酒吧）"}
+  - {text: "Drink is readily available.", start: 2268.66, end: 2269.88, zh: "酒很容易就能买到。（readily available 容易获得）"}
+  - {text: "It's also part of the sort of journalistic camaraderie, inviting people for drinks.", start: 2270.18, end: 2274.62, zh: "这也是新闻界的一种同事情谊，比如邀请别人一起喝酒。（camaraderie 情谊，同志情谊）"}
+  - {text: "And then comes Friedel and the marriage and the problems and the feelings of guilt and having to earn also to support Friedel and her care.", start: 2275.14, end: 2283.40, zh: "接着是弗里德尔、婚姻、各种问题、愧疚感，以及为了养活弗里德尔和支付她的护理费用而必须赚钱。（Friedel 弗里德尔，罗特的妻子；guilt 愧疚）"}
+  - {text: "And I think that sort of underlines or cements this sort of turning to alcohol to find relief for that.", start: 2284.02, end: 2291.24, zh: "我认为这进一步加深或巩固了他转向酒精寻求解脱的这种倾向。（cements 巩固，加深；relief 解脱）"}
+  - {text: "And then comes National Socialism, which Rolt had very early on seen coming with a clear -sightedness that's very interesting compared to others of his generation", start: 2291.56, end: 2301.78, zh: "然后是民族社会主义的兴起，罗特很早就以非常敏锐的洞察力看到了这一点，这与他那一代其他人相比非常有趣。（National Socialism 民族社会主义，即纳粹主义；clear-sightedness 洞察力）"}
+  - {text: "who were hoping that it wouldn't be as bad as all that.", start: 2301.78, end: 2304.00, zh: "他们原本希望情况不会那么糟糕。"}
+  - {text: "You know, it's kind of altogether it's enough to make anyone turn to drink, perhaps.", start: 2304.74, end: 2307.42, zh: "你知道，这一切简直足以让任何人借酒浇愁。（turn to drink 借酒浇愁，酗酒）"}
+  - {text: "And towards the end, of course, the Nazis invade Austria.", start: 2308.16, end: 2312.22, zh: "当然，到了最后，纳粹入侵了奥地利。（Nazis 纳粹；Austria 奥地利）"}
+  - {text: "So he loses Austria.", start: 2313.06, end: 2314.94, zh: "所以他失去了奥地利。"}
+  - {text: "Is there a sense of abandonment running through his work?", start: 2315.48, end: 2320.42, zh: "他的作品里是否贯穿着一种被抛弃的感觉？（abandonment 被抛弃，遗弃）"}
+  - {text: "I mean, perhaps starting with his father, I don't want to over...", start: 2320.82, end: 2325.28, zh: "我的意思是，也许从他的父亲开始，我不想过度……"}
+  - {text: "As a theme in the work, I think probably, yes.", start: 2325.28, end: 2328.50, zh: "作为作品中的一个主题，我想大概是有的。（theme 主题）"}
+  - {text: "And certainly in terms of his personal life and his view of the world.", start: 2328.80, end: 2333.56, zh: "当然，就他的个人生活和世界观而言，确实如此。"}
+  - {text: "Yes, I mean, I think in the later years he starts to think of the old empire in near -utopian terms at times.", start: 2334.58, end: 2344.10, zh: "是的，我想在晚年，他有时会用近乎乌托邦的视角来审视旧帝国。（utopian 乌托邦的，理想化的）"}
+  - {text: "And it's a way, I think, of compensating for the world that was collapsing around him.", start: 2344.10, end: 2348.26, zh: "我认为，这是一种对周围正在崩塌的世界的补偿方式。（compensating 补偿，弥补）"}
+  - {text: "The idea that they may once have been a place, a supranational place where national identities were somehow less important than some sort of collective identity.", start: 2348.62, end: 2357.72, zh: "这种观点认为，那里曾经是一个超国家的地方，在那里，民族身份的重要性在某种程度上低于某种集体身份。（supranational 超国家的；collective identity 集体身份）"}
+  - {text: "Because he does see nationalism as a fundamental evil.", start: 2357.88, end: 2360.08, zh: "因为他确实将民族主义视为一种根本性的邪恶。（nationalism 民族主义）"}
+  - {text: "Nationalism is something he totally rejected in all its forms.", start: 2360.12, end: 2362.86, zh: "他完全拒绝了所有形式的民族主义。（rejected 拒绝；forms 形式）"}
+  - {text: "He rejected Zionism as well, incidentally.", start: 2363.16, end: 2366.14, zh: "顺便提一下，他也拒绝了犹太复国主义。（Zionism 犹太复国主义；incidentally 顺便提一下）"}
+  - {text: "He saw it as a form of nationalism.", start: 2366.76, end: 2368.08, zh: "他将其视为一种民族主义的形式。（saw it as 将其视为）"}
+  - {text: "So no matter what the motivation was, he rejects nationalism and sees it as pernicious.", start: 2368.30, end: 2375.06, zh: "所以无论动机是什么，他都拒绝民族主义，并视其为有害的。（pernicious 有害的；动机 动机）"}
+  - {text: "So two final questions for you all.", start: 2375.44, end: 2378.56, zh: "所以最后有两个问题要问大家。（final 最后的）"}
+  - {text: "But Helen, let me start with you.", start: 2378.76, end: 2380.50, zh: "海伦，让我先从你开始。（start with 从……开始）"}
+  - {text: "How appropriate is it that his final work was the legend of the holy drinker?", start: 2381.56, end: 2387.42, zh: "他的最后一部作品是《圣饮者传说》，这有多恰当？（appropriate 恰当的；legend 传说）"}
+  - {text: "And what was that about?", start: 2387.64, end: 2388.92, zh: "那部作品是关于什么的？（about 关于）"}
+  - {text: "Was that basically him saying, this is me?", start: 2389.18, end: 2392.56, zh: "这基本上就是他在说，这就是我本人吗？（basically 基本上；saying 说，表达）"}
+  - {text: "Yes, and he did say as much.", start: 2393.08, end: 2395.76, zh: "是的，他确实也这么说过。（as much 同样，如此；did say 确实说过）"}
+  - {text: "I mean, one's reluctant to look at biographical sort of reasons for text, but he said this.", start: 2396.06, end: 2402.86, zh: "我是说，人们通常不太愿意从传记角度去解读文本，但他确实说了这些。（reluctant 不情愿的；biographical 传记的；text 文本）"}
+  - {text: "And I mean, it's the story of a a tramp in Paris who was originally a coal miner in Silesia and came to Paris for work.", start: 2403.04, end: 2412.22, zh: "而且我是说，这是一个流浪汉的故事，他原本是西里西亚的矿工，后来来巴黎找工作。（tramp 流浪汉；Silesia 西里西亚，欧洲地区；coal miner 矿工）"}
+  - {text: "And that's quite typical in economic traveller, migrant, if you like.", start: 2412.38, end: 2416.26, zh: "这在经济移民或流动人口中其实很典型。（typical 典型的；migrant 移民，流动人口）"}
+  - {text: "And the tramp ends up sleeping under the bridges in Paris.", start: 2416.78, end: 2420.16, zh: "这个流浪汉最后在巴黎的桥下睡觉。（tramp 流浪汉；sleeping under the bridges 睡在桥下）"}
+  - {text: "But one day a well -dressed gentleman, and some people say that might have been modelled on Stefan Zweig, arrives and gives him 200 francs and", start: 2420.42, end: 2431.20, zh: "但有一天，一位衣着考究的绅士来了，有些人说这可能是以斯蒂芬·茨威格为原型，他给了流浪汉200法郎，（well-dressed 衣着考究的；Stefan Zweig 斯蒂芬·茨威格，奥地利作家；francs 法郎）"}
+  - {text: "says it's in gratitude at his finding conversion to the church.", start: 2431.20, end: 2435.76, zh: "并说这是为了感谢他皈依教会。（gratitude 感激；conversion 皈依，转变；church 教会）"}
+  - {text: "And the tramp takes it and says, thank you very much.", start: 2436.56, end: 2440.52, zh: "流浪汉接过钱说，非常感谢。（tramp 流浪汉；takes it 接过它）"}
+  - {text: "I'll pay it back to you.", start: 2440.70, end: 2442.28, zh: "我会还给你的。（pay it back 还回去；to you 给你）"}
+  - {text: "And there are several attempts in the course of this short narrative.", start: 2442.64, end: 2446.34, zh: "在这部篇幅不长的叙事中，有好几次这样的尝试。（narrative 叙事，叙述）"}
+  - {text: "Well, he drinks the money.", start: 2447.14, end: 2449.26, zh: "嗯，他把钱喝光了。（drinks the money 把钱喝光，指在酒上挥霍）"}
+  - {text: "He loses the money.", start: 2449.42, end: 2450.34, zh: "他把钱弄丢了。（loses the money 弄丢钱）"}
+  - {text: "People make him part with the money.", start: 2450.60, end: 2452.16, zh: "别人让他把钱交出来。（part with 交出，放弃）"}
+  - {text: "And he always gets it back again.", start: 2452.26, end: 2454.16, zh: "而他总是又能把钱找回来。（gets it back 找回，取回）"}
+  - {text: "And he's always saying, I'm going to, and how he's going to pay it back is to give it to the church in Batinol where Saint Thérèse is there.", start: 2454.50, end: 2464.08, zh: "他总是说他要怎么做，他打算还钱的方式就是把它捐给巴蒂诺尔教堂，那里供奉着圣女特蕾莎。（Batinol 巴蒂诺尔；Saint Thérèse 圣女特蕾莎）"}
+  - {text: "And she was a very modest saint with a humble life, an unsholy sort of person, but in a Catholic church.", start: 2464.56, end: 2470.42, zh: "她是一位非常谦逊的圣人，过着简朴的生活，是个不显山露水的普通人，但在天主教堂里。（modest 谦逊的；humble 简朴的，谦逊的）"}
+  - {text: "And at the very end, oh, I don't know that I want to spoil the end, but at the very end...", start: 2471.68, end: 2477.22, zh: "而在结尾处，哦，我不知道我是否想剧透结局，但在结尾处……（spoil 剧透，泄露结局）"}
+  - {text: "Spoiler alert. The drunkard who, again, well, he's in a very bad state physically.", start: 2477.22, end: 2485.62, zh: "剧透预警。那个酒鬼，再次强调，嗯，他身体状况非常糟糕。（Spoiler alert 剧透预警；drunkard 酒鬼）"}
+  - {text: "But he dies and he thinks that the little saint has taken the money and he's paid it back and it's all grace has descended upon him.", start: 2486.66, end: 2496.30, zh: "但他去世了，他以为小圣人拿走了钱，他已经还清了债务，恩典降临在他身上。（grace 恩典，神恩）"}
+  - {text: "And he says, God, give all of us drinkers such a good and easy death.", start: 2496.60, end: 2503.58, zh: "他说，上帝啊，请赐予我们这些酒鬼一个美好而轻松的死。（drinkers 酗酒者；death 死亡）"}
+  - {text: "And so in the story, the man finds grace, the drinker.", start: 2504.12, end: 2509.46, zh: "于是，在故事中，那个酗酒者找到了宽恕。（grace 宽恕，恩典）"}
+  - {text: "But of course, Joseph wrote, in his own life, had a terrible death, did not have what he wished for himself, but he collapsed, faced down on the table in the cafe.", start: 2509.66, end: 2522.88, zh: "但当然，约瑟夫·罗特在现实生活中死得很惨，并没有得到他为自己祈求的那种结局，他倒在咖啡馆的桌子上，脸朝下。（collapsed 倒下，瘫倒；cafe 咖啡馆）"}
+  - {text: "He was, he had lots of friends who didn't have money, but looked after him, took him to hospital.", start: 2523.90, end: 2528.72, zh: "他有很多没钱的但照顾他的朋友，他们把他送进了医院。（diagnose 诊断；hospital 医院）"}
+  - {text: "They didn't diagnose it properly.", start: 2529.38, end: 2531.66, zh: "他们没有正确诊断出他的病情。（diagnose 诊断）"}
+  - {text: "He got, they withdrew alcohol completely and he had terrible delirium.", start: 2532.04, end: 2537.40, zh: "他们完全戒除了酒精，结果他出现了严重的谵妄。（withdrew alcohol 戒酒；delirium 谵妄，神志不清）"}
+  - {text: "He had to be strapped to the bed and indeed died the very opposite kind of death from his own literary creation.", start: 2537.68, end: 2546.06, zh: "他不得不被绑在床上，最终死得与他笔下创造的那种死亡截然相反。（strapped to the bed 被绑在床上；literary creation 文学创作）"}
+  - {text: "Well, on that sad note, a quick -fire last round, literally in half a sentence each, how well do Roth's works stand the test of time?", start: 2547.52, end: 2560.24, zh: "好吧，在这个悲伤的基调上，我们来快速进行最后一轮问答，每人只用半句话，罗特的作品经得起时间的考验吗？（quick-fire 快速问答；stand the test of time 经得起时间考验）"}
+  - {text: "Deborah. Surprisingly well. It's about the human cost of war and it's about individual dignity.", start: 2560.64, end: 2565.68, zh: "德博拉。出乎意料地好。它关乎战争的人性代价，也关乎个人的尊严。（human cost 人性代价；dignity 尊严）"}
+  - {text: "John? Yeah, I would agree.", start: 2566.32, end: 2568.44, zh: "约翰？是的，我同意。（agree 同意）"}
+  - {text: "There's something he says in one of his early Foytan articles, Going for a Walk, where he says it's the minutiae, it's only the minutiae in life", start: 2569.04, end: 2576.40, zh: "他在早期一篇名为《去散步》的文章里说过，生活中真正重要的是那些细枝末节。（minutiae 细枝末节；Going for a Walk 去散步，文章名）"}
+  - {text: "that counts and it's the little details that he's captured and made permanent in his work that makes it still sort of sing today, I would say.", start: 2576.40, end: 2585.34, zh: "正是他捕捉并永久保留在作品中的那些微小细节，让他的文字至今读起来依然生动悦耳。（captured 捕捉；permanent 永久的；sing 生动悦耳，此处指文字富有感染力）"}
+  - {text: "Helen? Well, it's the human condition in bright, beautiful colors in quite short works and I think they're wonderful.", start: 2585.64, end: 2593.22, zh: "海伦？我觉得是用明亮绚丽的色彩，在篇幅很短的作品中描绘了人类的生存状态，这非常棒。（human condition 人类生存状态；bright, beautiful colors 明亮绚丽的色彩，此处指文学风格）"}
+  - {text: "My thanks to Deborah Holmes, Helen Chambers and John Hughes.", start: 2594.44, end: 2598.32, zh: "感谢德博拉·霍姆斯、海伦·钱伯斯和约翰·休斯。"}
+  - {text: "Next week, the African civilization on the edge of the Roman Empire.", start: 2598.94, end: 2603.84, zh: "下周，我们将探讨位于罗马帝国边缘的非洲文明。"}
+  - {text: "That's the Garamantes. Thank you for listening.", start: 2604.50, end: 2607.32, zh: "那就是加拉曼特人。感谢收听。（Garamantes 加拉曼特人，古代北非民族）"}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2608.53, end: 2615.15, zh: "接下来，《我们的时代》播客将提供几分钟的额外时间，包含米沙和他的嘉宾的一些补充材料。（bonus material 补充材料；In Our Time 我们的时代，节目名）"}
+  - {text: "And now, the podcast bit, where we can relax slightly.", start: 2616.10, end: 2620.48, zh: "现在进入播客环节，我们可以稍微放松一下。（bit 环节；relax slightly 稍微放松）"}
+  - {text: "So let me, the first thing I ask is, what did we miss out?", start: 2620.70, end: 2625.68, zh: "所以，我要问的第一个问题是，我们遗漏了什么？（miss out 遗漏；what did we miss out 我们错过了什么）"}
+  - {text: "Perhaps we could say a little bit more about Roth's own Jewishness.", start: 2626.24, end: 2630.78, zh: "也许我们可以多谈谈罗特自身的犹太身份。（Jewishness 犹太身份；Roth 罗特，作家约瑟夫·罗特）"}
+  - {text: "I mean, he had a somewhat, perhaps it's no surprise, but he had a slightly sort of contradictory sense of himself as a Jew.", start: 2631.40, end: 2637.98, zh: "我是说，他对自己作为犹太人的身份有一种略显矛盾的感觉，这或许并不令人意外。（contradictory 矛盾的）"}
+  - {text: "As Helen mentioned, he did write quite extensively about the Jewish community and the lives of the Eastern Jews in the 1920s and the collection of", start: 2638.52, end: 2647.28, zh: "正如海伦提到的，他确实广泛地书写了犹太社区以及20年代东欧犹太人的生活，那部名为……（extensively 广泛地；Eastern Jews 东欧犹太人）"}
+  - {text: "essays The Wandering Jews was published in 1927.", start: 2647.28, end: 2649.80, zh: "……的随笔集《流浪的犹太人》于1927年出版。（The Wandering Jews 《流浪的犹太人》，罗思的随笔集）"}
+  - {text: "But what's interesting about it, or one of the things that's interesting about it is that he never identifies himself as a Jew.", start: 2650.16, end: 2656.34, zh: "但其中有趣的一点，或者说其中一个有趣之处在于，他从未将自己认定为犹太人。（identifies 认定，确认身份）"}
+  - {text: "He observes the community almost as an anthropologist might, without actually mentioning that he'd grown up pretty much within that community in Galicia.", start: 2656.86, end: 2666.72, zh: "他观察这个社区时几乎像一位人类学家，尽管他实际上是在加利西亚那个社区中长大的，却从未提及这一点。（anthropologist 人类学家；Galicia 加利西亚，历史地区）"}
+  - {text: "As I mentioned, in our main discussion, he rejected Zionism, for example.", start: 2667.34, end: 2672.12, zh: "正如我在主要讨论中提到的，例如他拒绝了犹太复国主义。（Zionism 犹太复国主义）"}
+  - {text: "He was also quite critical of Jews who had assimilated and Westernized themselves, even though he himself was very much a Westernized assimilated Jew.", start: 2672.66, end: 2682.92, zh: "他对那些已经同化并西化的犹太人也很批评，尽管他自己就是一个非常西化、同化的犹太人。（assimilated 同化的；Westernized 西化的）"}
+  - {text: "So it was quite contradictory.", start: 2682.92, end: 2684.40, zh: "所以这非常矛盾。（contradictory 矛盾的）"}
+  - {text: "What did he say?", start: 2685.12, end: 2685.74, zh: "他是怎么说的？"}
+  - {text: "He said he was a sort of an Eastern Jew with a Catholic brain and there were two sides to his personality.", start: 2685.92, end: 2691.22, zh: "他说自己是一个有着天主教头脑的东欧犹太人，他的性格有两面。（Catholic 天主教的）"}
+  - {text: "And did he not actually, at one point, if not join the Catholic Church then?", start: 2691.58, end: 2696.48, zh: "而且他是不是真的在某个时刻，即使没加入天主教会，也……（Catholic Church 天主教会）"}
+  - {text: "He also said he was a Frenchman from the East.", start: 2696.66, end: 2698.62, zh: "他还说过自己是来自东方的法国人。（Frenchman 法国人；from the East 来自东方）"}
+  - {text: "Yes, he had various ways of characterizing himself.", start: 2698.68, end: 2701.62, zh: "是的，他有很多不同的方式来描述自己。（characterizing 描述，刻画）"}
+  - {text: "I mean, I might say something about his funeral.", start: 2701.64, end: 2703.94, zh: "我是说，我或许可以谈谈他的葬礼。（funeral 葬礼）"}
+  - {text: "Can I say something about that?", start: 2704.30, end: 2705.40, zh: "我能说点关于那件事的吗？"}
+  - {text: "So he was buried in this cemetery, which is in the south of Paris because nobody had enough money to put him in Père Lachaise, where Heine was, and he really should have belonged.", start: 2707.24, end: 2718.28, zh: "所以他被安葬在巴黎南部的一个墓园，因为没人有足够的钱把他葬在拉雪兹神父公墓，那里葬着海涅，他本应该属于那里的。（cemetery 墓园；Père Lachaise 拉雪兹神父公墓；Heine 海涅，德国诗人）"}
+  - {text: "But at the grave site, he was never baptized, but he went to the Catholic Church in Paris, the Austrian Catholic Church.", start: 2718.98, end: 2726.38, zh: "但在墓地里，他从未受洗，但他去了巴黎的天主教堂，奥地利天主教堂。（baptized 受洗；Catholic Church 天主教堂）"}
+  - {text: "So there was a Catholic priest officiating and there were a lot of Eastern Jewish friends there at the grave site.", start: 2726.68, end: 2734.70, zh: "所以有一位天主教神父主持仪式，墓地里还有许多东欧犹太朋友。（officiating 主持仪式；Eastern Jewish 东欧犹太）"}
+  - {text: "And then there was Aegon Irving, and Kish, the great communist, who turned up with his red communist banner and his red carnations.", start: 2735.10, end: 2742.72, zh: "然后还有埃贡·伊罗宁和基什，那位伟大的共产主义者，他带着红色的共产主义旗帜和红色的康乃馨出现了。（Aegon Irving 埃贡·伊罗宁；Kish 基什；communist 共产主义者）"}
+  - {text: "And then there was also a Talmudic scholar, Gottforshtein, who wrote, spent a lot of time with him in Paris, and he was prepared to pronounce the Cádiz and some people wanted the Cádiz.", start: 2743.34, end: 2755.36, zh: "还有一位拉比学者戈特福施泰因，他在巴黎与他共度了大量时光，他准备好诵读卡迪斯祷文，有些人希望诵读卡迪斯祷文。（Talmudic scholar 拉比学者；Gottforshtein 戈特福施泰因；Cádiz 卡迪斯祷文，犹太教哀悼祷文）"}
+  - {text: "Oh, and I've missed out the Austrian, legitimate monarchist, because Otto von Habsburg had sent a wreath, which would have had the yellow and black ribbons on it", start: 2755.52, end: 2764.80, zh: "哦，我漏掉了正统的奥地利君主主义者，因为奥托·冯·哈布斯堡送了一个花圈，上面系着黄黑相间的丝带。（legitimate 正统的；wreath 花圈；ribbons 丝带）"}
+  - {text: "because he wanted to restore the monarchy and he actually had fairly concrete plans to do that before things got really bad.", start: 2764.80, end: 2772.92, zh: "因为他想恢复君主制，而且在局势真正恶化之前，他其实有相当具体的计划。（restore 恢复；monarchy 君主制；concrete 具体的）"}
+  - {text: "So there were monarchist, communist, Eastern Jews and Catholics at the grave site, and they were kind of, I mean, it nearly came to ugly scenes.", start: 2773.58, end: 2782.04, zh: "所以墓地里聚集了君主主义者、共产主义者、东欧犹太人和天主教徒，气氛有点紧张，差点就闹出乱子。（monarchist 君主主义者；communist 共产主义者；ugly scenes 混乱场面）"}
+  - {text: "And then the chap that was going to say Cádiz was with his friend Soma Morgenstern, also an Eastern Jew.", start: 2782.52, end: 2788.78, zh: "然后那个要去念《卡迪斯》的人正和他的朋友索玛·莫根施泰恩在一起，他也是一位东欧犹太人。（Cádiz 卡迪斯，此处指作品名；Soma Morgenstern 索玛·莫根施泰恩，作家）"}
+  - {text: "And they said, no, we won't do this here now, we'll just let it be.", start: 2789.18, end: 2793.34, zh: "他们说，不，我们现在不在这儿做这件事，就让它过去吧。（let it be 随它去吧，不再追究）"}
+  - {text: "How dedicated was he to the Habsburg bulls?", start: 2793.34, end: 2796.98, zh: "他对哈布斯堡家族有多忠诚？（dedicated 忠诚的，投入的；Habsburg 哈布斯堡）"}
+  - {text: "He was very dedicated to the Habsburg cause and he met Otto von Habsburg, who was the heir to the throne that had kind of gone.", start: 2797.04, end: 2804.50, zh: "他对哈布斯堡的事业非常投入，他还见过奥托·冯·哈布斯堡，他是那个已经名存实亡的王位的继承人。（heir 继承人；throne 王位；gone 消失，不复存在）"}
+  - {text: "He met him in his court in Exile in Belgium and he got together with these Austrian legitimists and they had a, well, they had a plan to smuggle Otto von Habsburg back into Vienna in a coffin", start: 2804.64, end: 2819.76, zh: "他在比利时流亡的宫廷里见过他，并与这些奥地利正统派人士聚在一起，他们有一个计划，要把奥托·冯·哈布斯堡装进棺材偷运回维也纳。（Exile 流亡；legitimists 正统派；smuggle 偷运，走私）"}
+  - {text: "and they had to find a dead Austrian in order to do that.", start: 2819.76, end: 2822.96, zh: "为了做到这一点，他们必须找到一具奥地利人的尸体。（coffin 棺材；dead 死者，尸体）"}
+  - {text: "And Roth thought, well, in any case, I'm going to Vienna to talk to, well, he wanted to talk to Schuschnik, who was head of the government at the time and explain -", start: 2823.52, end: 2834.64, zh: "罗思心想，反正我要去维也纳，他想跟当时的政府首脑舒斯尼克谈谈，解释一下……（Schuschnik 舒斯尼克，奥地利政治家；head of the government 政府首脑）"}
+  - {text: "The Austrian fascist dictator of, the dictator of Austrofascism.", start: 2834.64, end: 2839.50, zh: "奥地利法西斯独裁者，也就是奥地利法西斯主义的独裁者。（Austrofascism 奥地利法西斯主义）"}
+  - {text: "So this was - It was after, it was after the death of - Schuschnik was a chance before 13.", start: 2839.86, end: 2845.20, zh: "所以这是……这是在舒施尼克的死之后，舒施尼克是在1933年之前掌权的。（Schuschnik 舒施尼克，奥地利前总理；13 指1933年）"}
+  - {text: "It was just before the answer.", start: 2845.20, end: 2846.84, zh: "那是在回答之前的事。"}
+  - {text: "Yeah, Schuschnik is in charge, he's certainly - Schuschnik's in charge, but was there already a Gauleiter there?", start: 2847.14, end: 2853.80, zh: "是的，舒施尼克掌权，他肯定……舒施尼克掌权，但当时那里已经有党区领袖了吗？（Gauleiter 纳粹党区领袖）"}
+  - {text: "No, no, no, no, no, no.", start: 2854.02, end: 2855.30, zh: "不，不，不，不，不，不。"}
+  - {text: "But that was just after.", start: 2855.32, end: 2856.50, zh: "但那是在之后才发生的。"}
+  - {text: "That comes after. So he went in just before the Anschluss and wanted to talk to Schuschnik and say, we'll get Otto von Habsburg back and", start: 2856.64, end: 2865.78, zh: "那是后来的事。所以他是在德奥合并前夕去的，想见舒施尼克，说我们要把奥托·冯·哈布斯堡带回来，（Anschluss 德奥合并；Otto von Habsburg 奥托·冯·哈布斯堡，哈布斯堡家族末代皇帝卡尔一世的儿子）"}
+  - {text: "this is how we're going to do it.", start: 2865.78, end: 2867.22, zh: "这就是我们要做的计划。"}
+  - {text: "And he had the blessing of the Habsburg monarchists.", start: 2867.22, end: 2870.54, zh: "他得到了哈布斯堡君主派的支持。（monarchists 君主主义者）"}
+  - {text: "And he went to Vienna, which was very dangerous thing for him to do.", start: 2870.68, end: 2874.56, zh: "他去了维也纳，这对他说是一件非常危险的事。"}
+  - {text: "And he never got to see the highest instance.", start: 2874.80, end: 2877.90, zh: "但他没能看到最高级别的行动。（instance 实例，此处指最高层级或阶段）"}
+  - {text: "And so he did get to see a chief of police, I think, and the chief of police said, you better get out of here fast.", start: 2877.90, end: 2883.72, zh: "我记得他确实见过一位警察局长，局长对他说，你最好赶紧离开这里。（chief of police 警察局长）"}
+  - {text: "And he did get out of here fast, but he was very hands -on.", start: 2884.10, end: 2888.68, zh: "他确实很快离开了，但他非常亲力亲为。（hands-on 亲力亲为的，直接参与的）"}
+  - {text: "I mean, he wanted to, and he thought the reason he wanted to do this was he could see this as the only solution to getting rid of the Nazis.", start: 2889.06, end: 2897.38, zh: "我是说，他很想这么做，他认为自己这么做的理由是，他能看到这是摆脱纳粹的唯一解决方案。（solution 解决方案）"}
+  - {text: "Sounds like a pretty hair -brained scheme, though.", start: 2897.84, end: 2899.76, zh: "不过听起来这还是个相当愚蠢的计划。（hair-brained 愚蠢的，不切实际的）"}
+  - {text: "Hair -brained is indeed the word for it.", start: 2899.84, end: 2902.50, zh: "确实，用“愚蠢”这个词来形容它再合适不过了。（indeed 确实，的确）"}
+  - {text: "Not entirely realistic. One of the things that really interests me is the parallels between Stefan Zweig and Josef Roth.", start: 2902.72, end: 2911.58, zh: "并不完全现实。真正让我感兴趣的一点是斯蒂芬·茨威格和约瑟夫·罗斯之间的相似之处。（parallels 相似之处，平行关系）"}
+  - {text: "So they sort of run alongside each other.", start: 2912.26, end: 2916.64, zh: "所以他们俩算是并行发展的。（alongside 在旁边，与……一起）"}
+  - {text: "They're very aware of each other.", start: 2916.80, end: 2918.52, zh: "他们彼此非常了解。（aware 意识到的，知晓的）"}
+  - {text: "As you said, Zweig gave Roth quite a lot of money.", start: 2918.78, end: 2922.60, zh: "正如你所说，茨威格给了罗斯很多钱。（quite a lot 相当多）"}
+  - {text: "But who is the better writer?", start: 2923.12, end: 2925.42, zh: "但谁才是更优秀的作家？"}
+  - {text: "Well, Josef Roth is definitely the better writer.", start: 2925.86, end: 2928.74, zh: "嗯，约瑟夫·罗斯绝对是更优秀的作家。"}
+  - {text: "I think there's no dispute.", start: 2928.96, end: 2930.04, zh: "我觉得这一点毫无争议。（dispute 争议，争论）"}
+  - {text: "Well, I don't know, you might want to dispute with me.", start: 2930.22, end: 2932.34, zh: "嗯，我不确定，你或许会想跟我争辩一下。（dispute 争辩，反驳）"}
+  - {text: "Stefan Zweig also agreed that Roth was the better writer.", start: 2933.28, end: 2937.46, zh: "斯蒂芬·茨威格也同意罗斯是更优秀的作家。"}
+  - {text: "He always was quite willing to admit he was.", start: 2937.68, end: 2940.00, zh: "他总是很乐意承认这一点。"}
+  - {text: "I think the differences are very interesting.", start: 2940.12, end: 2941.88, zh: "我觉得这些差异非常有意思。"}
+  - {text: "I think it's a very fruitful comparison for the literature of the time.", start: 2942.10, end: 2944.90, zh: "我认为这对研究当时的文学来说，是一个非常有成效的比较。（fruitful 富有成果的，有成效的）"}
+  - {text: "One of the things that Zweig does, that Roth doesn't, as we said, is that Zweig has heroes.", start: 2945.04, end: 2949.46, zh: "正如我们所说，茨威格做而罗斯没做的一件事，是茨威格笔下有英雄。（heroes 英雄，杰出人物）"}
+  - {text: "Zweig has goodies and baddies, and Zweig has heroes and hero -worships.", start: 2950.10, end: 2954.16, zh: "茨威格笔下有正派人和坏人，还有英雄以及对英雄的崇拜。（goodies 好人，正派人；baddies 坏人，反派；hero-worships 英雄崇拜）"}
+  - {text: "And that's not something that Roth does at all.", start: 2954.72, end: 2956.66, zh: "而罗特完全不会这样做。（Roth 罗特，奥地利作家）"}
+  - {text: "Roth is much, much more...", start: 2956.80, end: 2959.42, zh: "罗特要……（Roth 罗特，奥地利作家）"}
+  - {text: "He's ironic in a way that Stefan Zweig seemingly can't or doesn't want to achieve.", start: 2959.42, end: 2965.38, zh: "他以一种斯蒂芬·茨威格似乎无法或不愿达到的方式充满讽刺。（ironic 讽刺的；Stefan Zweig 斯蒂芬·茨威格，奥地利作家）"}
+  - {text: "And that, of course, made Zweig a best -selling author, in a way which, well, what did sell books, but he never earned the big books like Stefan Zweig?", start: 2965.78, end: 2975.14, zh: "当然，这使得茨威格成为畅销书作家，而罗特虽然也卖书，但从未像茨威格那样写出大部头经典。（best-selling 畅销的；Zweig 茨威格）"}
+  - {text: "Roth's timing was unfortunate, wasn't it?", start: 2975.16, end: 2977.20, zh: "罗特的时机很不巧，不是吗？（Roth 罗特，奥地利作家）"}
+  - {text: "I mean, in a typically kind of Eroltian fashion, it's to do with chance and contingency.", start: 2977.28, end: 2982.70, zh: "我是说，以一种典型的厄尔式风格，这关乎运气和偶然性。（Eroltian 厄尔式的，指厄尔·派格特；chance 运气；contingency 偶然性）"}
+  - {text: "And Radecky Marsh could have been an immense success, but it came out just before the National Socialists took over, wasn't it?", start: 2982.98, end: 2989.86, zh: "《拉德茨基进行曲》本可以大获成功，但它出版时正值纳粹上台前夕，不是吗？（Radecky Marsh 拉德茨基进行曲，罗特的小说；National Socialists 纳粹）"}
+  - {text: "In fact, it was published in 32, so just at the point the royalties were coming in, in early 1933, Hitler's already taken over.", start: 2989.94, end: 2998.50, zh: "事实上，它出版于1932年，就在版税开始进账的1933年初，希特勒已经掌权了。（royalties 版税；Hitler 希特勒）"}
+  - {text: "Hortz in Paris in exile.", start: 2999.12, end: 3000.68, zh: "罗特流亡巴黎。（Hortz 罗特，此处为转录错误，应为Roth；exile 流亡）"}
+  - {text: "He never really seized the money that he was due.", start: 3000.86, end: 3003.44, zh: "他从未真正拿到他应得的钱。（seized 拿到，获得；due 应得的）"}
+  - {text: "And he was one of those few people.", start: 3004.48, end: 3007.78, zh: "他是少数能看清局势的人之一。"}
+  - {text: "I think his first novel, Spin and Nets, The Spider's Web.", start: 3007.90, end: 3013.56, zh: "我觉得他的第一部小说是《蜘蛛网》。（Spin and Nets 蜘蛛网，罗特小说名）"}
+  - {text: "Actually engages with Hitler himself, even though this is in 1923, 1924.", start: 3015.36, end: 3021.70, zh: "实际上它直接涉及希特勒本人，尽管那是1923或1924年的事。（engages with 涉及，关联）"}
+  - {text: "1923. The extraordinary prescience.", start: 3022.92, end: 3025.44, zh: "1923年，这种非凡的预见性。（prescience 预见性，先见之明）"}
+  - {text: "Yes, it came out just before the Hitler pooch, and it's a novel about...", start: 3025.70, end: 3030.26, zh: "是的，它出版于希特勒政变前夕，这是一部关于……（pooch 政变，此处指啤酒馆政变）"}
+  - {text: "The Beer Hall pooch.", start: 3030.26, end: 3031.46, zh: "啤酒馆政变。（Beer Hall 啤酒馆，指慕尼黑啤酒馆）"}
+  - {text: "The Beer Hall pooch, that's right, when Hitler was put in prison and they actually finished publishing the last part of it in the newspaper days before that happened and in Hortz's novel, there's a terrorist attempt planned", start: 3031.66, end: 3047.38, zh: "啤酒馆政变，没错，当时希特勒入狱，而小说最后一部分在事件发生前几天刚在报纸上连载完，在霍茨的小说里，有一起恐怖袭击计划……（Hortz 霍茨，此处指约瑟夫·罗特；terrorist attempt 恐怖袭击）"}
+  - {text: "so that he saw very clearly what was going on from a very early time.", start: 3048.02, end: 3052.60, zh: "所以他很早就非常清楚地看到了正在发生什么。"}
+  - {text: "I think it's the novel with the first explicit reference to Hitler.", start: 3052.84, end: 3056.14, zh: "我认为这是第一部明确提到希特勒的小说。（explicit reference 明确提及）"}
+  - {text: "There isn't another work of literary fiction, an earlier work of literary fiction that names Hitler.", start: 3056.94, end: 3062.56, zh: "没有其他更早的文学作品点名提到希特勒。（literary fiction 文学小说）"}
+  - {text: "Deborah, tell us a bit about the coffeehouse culture that we skipped over, because he did spend a lot of time which, to be fair, he did,", start: 3063.18, end: 3075.84, zh: "Deborah，请跟我们聊聊我们之前略过的咖啡馆文化，因为他确实花了很多时间在那里，说实话，他确实是这样。（coffeehouse 咖啡馆）"}
+  - {text: "but many, many other newspaper men and women of the time did.", start: 3075.92, end: 3080.16, zh: "但当时许多许多其他男性和女性报纸从业者也是如此。（newspaper men and women 报纸从业者）"}
+  - {text: "You know, it was a lot...", start: 3081.08, end: 3082.70, zh: "你知道，那真是……"}
+  - {text: "They still do in mind, yes.", start: 3082.70, end: 3084.26, zh: "他们在心里仍然如此，是的。（in mind 在心里，脑海中）"}
+  - {text: "Yes, let's put that in a different tense.", start: 3084.54, end: 3087.04, zh: "是的，让我们换个时态来说。（tense 时态）"}
+  - {text: "Yeah, but it was very much, it's partly to do with the problems of the time it was difficult to heat your house at home in the immediate post -war period.", start: 3087.76, end: 3096.00, zh: "是的，但这很大程度上与当时的问题有关，在战后初期，在家里给房子供暖很困难。（post-war period 战后时期）"}
+  - {text: "It was a place to go where you could be sure of being warm enough to sort of move a pen on paper.", start: 3096.44, end: 3101.04, zh: "那是一个你可以去的地方，在那里你可以确保足够暖和，从而能在纸上动笔写作。（move a pen 动笔，写作）"}
+  - {text: "And it was also where you could meet and mix and keep up to date and have all of the daily newspapers at your disposal, because,", start: 3101.04, end: 3108.42, zh: "而且那里也是你可以相遇、交流、了解最新动态的地方，因为你可以随时使用所有的日报，因为……（keep up to date 了解最新动态）"}
+  - {text: "you know, a Viennese coffeehouse also today typically has a fine array of newspapers, international, national newspapers.", start: 3108.60, end: 3116.28, zh: "你知道，维也纳的咖啡馆今天通常也有一系列精美的报纸，包括国际和国内报纸。（array 系列，陈列）"}
+  - {text: "And I think it's worth pointing out that in 1918, 1919, Vienna was in a terrible state.", start: 3116.96, end: 3122.86, zh: "我认为值得指出的是，在1918年和1919年，维也纳处于一种糟糕的状态。（in a terrible state 处于糟糕的状态）"}
+  - {text: "Yeah, Vienna was literally starving.", start: 3123.10, end: 3124.90, zh: "是的，维也纳当时简直是在挨饿。（literally 简直，实际上）"}
+  - {text: "There was a survey done by a children's doctor at the time that over 90 % of Viennese children were suffering malnutrition after World War I.", start: 3125.34, end: 3132.94, zh: "当时有一位儿科医生做过调查，发现一战后超过90%的维也纳儿童都患有营养不良。（malnutrition 营养不良）"}
+  - {text: "Yeah, I mean, a lot of the same applies to Berlin, of course, where he continues the same habits.", start: 3134.24, end: 3139.54, zh: "嗯，我的意思是，柏林的情况当然也差不多，他在那里继续着同样的习惯。（habits 习惯）"}
+  - {text: "And the coffeehouses and the bars were also places to network.", start: 3140.40, end: 3143.00, zh: "咖啡馆和酒吧也是社交的场所。（network 社交，建立人脉）"}
+  - {text: "So there were good career reasons for spending time, you know, a place like the Romanisches Café in Berlin, where he was an habitual customer.", start: 3143.66, end: 3152.10, zh: "所以在那里消磨时间有很好的职业理由，比如柏林的罗马咖啡馆，他是那里的常客。（habitual 惯常的，经常的）"}
+  - {text: "It was the place to be seen.", start: 3152.76, end: 3154.10, zh: "那是个必须去露脸的地方。（be seen 被看见，露脸）"}
+  - {text: "It was well known that the prominent people there were prominent people would be there.", start: 3154.16, end: 3158.46, zh: "众所周知，那些名流都会在那里出现。（prominent 著名的，显赫的）"}
+  - {text: "And so it wasn't just a place to work.", start: 3158.84, end: 3160.70, zh: "所以那里不仅仅是一个工作的地方。"}
+  - {text: "It was a place to see and be seen.", start: 3160.80, end: 3162.58, zh: "那是一个既要看别人，也要被别人看到的地方。（be seen 被看见，露脸）"}
+  - {text: "And, yeah, Kish was often there.", start: 3163.26, end: 3165.12, zh: "而且，是的，基什经常在那里。（Kish 基什，奥地利作家）"}
+  - {text: "And a place where someone was going to pick you up off the floor if you felt like you're stooling a drunken stupor.", start: 3165.60, end: 3170.28, zh: "而且那里有个地方，如果你觉得自己像喝醉了一样瘫软在地板上，会有人把你扶起来。（pick you up off the floor 把你从地上扶起来；drunken stupor 醉得神志不清）"}
+  - {text: "And you mentioned that Rodetzky March was unique, but he did then write a sequel, The Emperor's Tomb.", start: 3170.40, end: 3177.48, zh: "你提到拉德茨基进行曲是独一无二的，但他后来确实写了一部续集，叫《皇帝的坟墓》。（Rodetzky March 《拉德茨基进行曲》，罗思的小说；sequel 续集）"}
+  - {text: "Yeah, in 1988. What was, why did he do that?", start: 3177.82, end: 3182.30, zh: "是的，在1988年。那是为什么，他为什么要这么做？"}
+  - {text: "Well, I think he did it, you know, for commercial reasons.", start: 3182.44, end: 3184.96, zh: "嗯，我觉得他这么做，你知道，是出于商业原因。（commercial reasons 商业原因）"}
+  - {text: "He wanted to build on the success of Rodetzky March.", start: 3184.96, end: 3188.26, zh: "他想在《拉德茨基进行曲》成功的基础上继续发展。（build on the success of 在……成功的基础上）"}
+  - {text: "But after 1933, he writes quite a lot of novels and novellas.", start: 3188.48, end: 3194.04, zh: "但在1933年之后，他写了很多小说和中篇小说。（novellas 中篇小说）"}
+  - {text: "But in difficult circumstances, not only is his lifestyle, you know, working against him, but he's working to tight deadlines.", start: 3194.68, end: 3201.86, zh: "但情况很艰难，不仅他的生活方式，你知道，对他不利，而且他还要赶很紧的截稿日期。（tight deadlines 紧迫的截稿日期）"}
+  - {text: "He's never quite sure, you know, where, you know, he's working with different publishing houses in all based in exile.", start: 3202.50, end: 3208.68, zh: "他从来不太确定，你知道，自己在哪，因为他与多家出版社合作，这些出版社都位于流亡地。（publishing houses 出版社；exile 流亡）"}
+  - {text: "Now, many of them in the Netherlands.", start: 3208.68, end: 3210.28, zh: "其中很多在荷兰。（Netherlands 荷兰）"}
+  - {text: "And he's desperate, really, to just make ends meet.", start: 3210.90, end: 3213.80, zh: "他真的很绝望，只想勉强维持生计。（make ends meet 收支平衡，维持生计）"}
+  - {text: "So the sequel, The Emperor's Tomb, The Kapitzenegroft, it follows a sort of a separate branch of the Fontotta family and tries to bring the story", start: 3214.31, end: 3222.18, zh: "所以续集《皇帝的坟墓》（德语原名 Kaputzengruft）跟随冯托塔家族的一个分支，试图将故事……（sequel 续集；Emperor's Tomb 皇帝的坟墓）"}
+  - {text: "up to the point of the Anschluss of Austria to Nazi Germany in 1938.", start: 3222.18, end: 3227.24, zh: "一直讲到1938年奥地利并入纳粹德国的时刻。（Anschluss 并入，指奥地利被德国吞并）"}
+  - {text: "And it's an interesting read and anyone that's enjoyed Rodetzky March should probably read it, but it isn't the same.", start: 3227.92, end: 3234.82, zh: "这是一本有趣的书，喜欢《拉德茨基进行曲》的人应该读读，但它并不一样。（Rodetzky March 拉德茨基进行曲，约瑟夫·罗特的小说）"}
+  - {text: "It is not. It isn't of the same quality.", start: 3234.98, end: 3236.74, zh: "确实如此，它的品质并不相同。（quality 质量，品质）"}
+  - {text: "It's not. It's written in the first person as well, isn't it?", start: 3237.02, end: 3239.30, zh: "没错，它也是用第一人称写的，不是吗？（first person 第一人称）"}
+  - {text: "Which is not so common amongst his novels.", start: 3239.40, end: 3242.20, zh: "这在他的小说中并不常见。（amongst 在……之中）"}
+  - {text: "It was he sort of rushed it as well in 1938 as events were happening in Austria.", start: 3242.20, end: 3247.98, zh: "他在1938年也是匆忙赶写的，当时奥地利正发生着大事。（rushed 匆忙赶工）"}
+  - {text: "He thought, I'd better get this out quickly as well.", start: 3247.98, end: 3250.24, zh: "他觉得，最好赶紧把它写出来。（get this out 把作品发表出来）"}
+  - {text: "And I think it's looked to by students of German as a kind of set text because it's got all this history.", start: 3250.68, end: 3257.38, zh: "我认为德语专业的学生把它当作一种标准文本，因为它包含了大量历史。（set text 指定阅读文本）"}
+  - {text: "And but actually wrote a far better a novel in 1937 called Weights and Measures in English, which picks up a lot of the characters from Rodetzky March.", start: 3257.50, end: 3268.28, zh: "但他实际上在1937年写了一部更好的小说，英文名为《度量衡》，其中承接了《拉德茨基进行曲》的许多角色。（Weights and Measures 度量衡，约瑟夫·罗特的小说）"}
+  - {text: "And indeed, Mendel Singer from Heopops up in it as well.", start: 3268.40, end: 3271.80, zh: "确实，来自赫奥普斯的门德尔·辛格也出现在了书中。（Mendel Singer 门德尔·辛格，小说主角；Heopops 赫奥普斯，音译地名）"}
+  - {text: "The name does. And it's a it's a story about a move from west to to east.", start: 3272.20, end: 3280.02, zh: "名字确实如此。这是一个关于从西向东移动的故事。（move 移动，迁移）"}
+  - {text: "And an inspector of Weights and Measures, an honest man who's been forced to leave the army and get out of his uniform by his wife", start: 3280.22, end: 3288.36, zh: "还有一个度量衡检查员，一个诚实的人，被妻子逼着离开了军队，脱下了军装。（Weights and Measures 度量衡；inspector 检查员）"}
+  - {text: "and he's lost when he gets out of his uniform.", start: 3288.36, end: 3290.70, zh: "当他脱下军装后，他感到迷失了方向。（lost 迷失，不知所措）"}
+  - {text: "And he he has a kind of slide into.", start: 3291.30, end: 3295.26, zh: "他经历了一种……的滑坡。（slide 滑坡，下滑）"}
+  - {text: "Well, maybe it's sin and maybe it's grace.", start: 3296.52, end: 3299.10, zh: "嗯，也许那是罪恶，也许那是恩典。（sin 罪恶；grace 恩典，宽恕）"}
+  - {text: "It's a bit hard to tell.", start: 3299.32, end: 3300.56, zh: ": 这有点难以分辨。（tell 分辨，判断）"}
+  - {text: "But it's a it's a beautiful novel that picks up a lot of his other themes and and evokes the landscape back in the east again.", start: 3301.24, end: 3311.14, zh: "但这是一部美丽的小说，承接了他许多其他主题，并再次唤起了东方的风景。（evokes 唤起，引起；landscape 风景，地貌）"}
+  - {text: "And we haven't mentioned the larks and the sky and the frogs and the swamp and the crickets chirping.", start: 3311.20, end: 3317.20, zh: "我们还没提到云雀、天空、青蛙、沼泽和蟋蟀的鸣叫。（larks 云雀；swamp 沼泽；crickets 蟋蟀）"}
+  - {text: "But he opens up this this huge space that's full of life and full of animals and human beings responding to them.", start: 3317.20, end: 3325.26, zh: "但他打开了一个巨大的空间，那里充满了生命，充满了动物和人类对它们的回应。（responding to 回应，对……作出反应）"}
+  - {text: "But I would recommend Weights and Measures as a better composed novel than than the Emperor's Tomb, which is historically perhaps more interesting.", start: 3325.32, end: 3335.84, zh: "但我更推荐《度量衡》，因为它的结构比《皇帝的坟墓》更严谨，尽管后者在历史上可能更有趣。（Weights and Measures 度量衡，罗思的小说；Emperor's Tomb 皇帝的坟墓，罗思的小说）"}
+  - {text: "So, well, thank you very much.", start: 3336.78, end: 3339.54, zh: "那么，非常感谢大家。"}
+  - {text: "I think not only are we going to be offered tea, but Martha baked me a lemon drizzle cake for my birthday.", start: 3339.62, end: 3348.30, zh: "我想我们不仅能喝到茶，玛莎还为我生日烤了一个柠檬淋面蛋糕。（lemon drizzle cake 柠檬淋面蛋糕）"}
+  - {text: "And so we also have exceptionally lemon drizzle cake.", start: 3348.92, end: 3352.42, zh: "所以我们也特别准备了柠檬淋面蛋糕。（lemon drizzle cake 柠檬淋面蛋糕）"}
+  - {text: "Simon, to go with your coffee, tea, I'll have a coffee, please.", start: 3352.64, end: 3356.98, zh: "西蒙，配你的咖啡或茶，我要一杯咖啡，谢谢。"}
+  - {text: "Coffee, please, tea, please.", start: 3356.98, end: 3359.02, zh: "咖啡请，茶请。"}
+  - {text: "In our time with Misha Glenny is produced by Simon Tilletson and it's a BBC Studios production.", start: 3359.68, end: 3364.94, zh: "本期《我们的时代》由米沙·格伦尼主持，西蒙·蒂勒森制作，是BBC Studios的作品。（Misha Glenny 米沙·格伦尼，作家；Simon Tilletson 西蒙·蒂勒森，制作人）"}
+  - {text: "If you've got a scrolling problem, then this is the podcast for you.", start: 3365.99, end: 3368.97, zh: "如果你有刷屏成瘾的问题，那这个播客就是为你准备的。（scrolling problem 刷屏问题，指过度浏览社交媒体）"}
+  - {text: "It's called Top Comment with Meemat Shea and Meemariana Spring.", start: 3369.33, end: 3372.25, zh: "它叫《顶级评论》，由米玛特·谢和米玛里亚娜·斯普林主持。（Top Comment 顶级评论，节目名；Meemat Shea 米玛特·谢；Meemariana Spring 米玛里亚娜·斯普林）"}
+  - {text: "We both investigate social media for a living, whether it's disinformation, conspiracy theories, internet culture, memes.", start: 3372.51, end: 3378.77, zh: "我们俩都以调查社交媒体为生，无论是虚假信息、阴谋论、网络文化还是梗。（disinformation 虚假信息；conspiracy theories 阴谋论；memes 梗，网络流行语）"}
+  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3379.31, end: 3383.01, zh: "在这档播客里，我们将深入挖掘那些在你信息流中频繁出现的内容。（feed 信息流；popping up 频繁出现）"}
+  - {text: "That's Top Comment on BBC Sounds.", start: 3383.45, end: 3385.49, zh: "这就是BBC Sounds上的《热门评论》。（Top Comment 热门评论）"}
 ---

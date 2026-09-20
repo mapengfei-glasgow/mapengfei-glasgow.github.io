@@ -9,568 +9,568 @@ audioDir: "2026-07-02-the-evolution-of-trees"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-07-02-the-evolution-of-trees/episode.mp3"
 totalDuration: 3333.3
 sentences:
-  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.20, end: 14.24}
-  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08}
-  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different, I think I have one of the best jobs in broadcasting.", start: 21.26, end: 29.58}
-  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.20, end: 32.94}
-  - {text: "Hi, this is Misha Gleney.", start: 34.41, end: 36.41}
-  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts, but if you can't wait, head over to BBC Sounds where you can", start: 36.73, end: 45.37}
-  - {text: "listen to the latest episodes a month earlier than anywhere else.", start: 45.37, end: 49.49}
-  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 50.17, end: 58.99}
-  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.65, end: 64.71}
-  - {text: "I hope you enjoy the programme.", start: 65.27, end: 66.67}
-  - {text: "Hello. We might take them for granted in parks, in our streets and in forests, yet trees play a crucial role in regulating our climate and providing the air we breathe.", start: 67.95, end: 79.67}
-  - {text: "We build with them, rely on them for food and shelter, use them for paper, clothing, medicine and energy.", start: 80.27, end: 87.57}
-  - {text: "But trees aren't simply a backdrop to human life.", start: 88.30, end: 91.56}
-  - {text: "They're the product of a deep evolutionary history that transformed our planet.", start: 91.78, end: 96.56}
-  - {text: "When they first appeared, they reshaped our ecosystems, altered the atmosphere and created entirely new environments on land.", start: 97.26, end: 105.66}
-  - {text: "Well, with me to discuss the evolution of trees are Jenny McElwain, the 1711 Chair of Botany at Trinity College Dublin and Director of Trinity Botanic Gardens,", start: 106.30, end: 117.12}
-  - {text: "Christopher Berry, Senior Lecturer in Earth and Environmental Sciences at Cardiff University and Bill Baker, Senior Researcher at the Royal Botanic Gardens in Kew.", start: 117.74, end: 129.14}
-  - {text: "Welcome to In Our Time and Jenny, let me start with you.", start: 129.72, end: 133.66}
-  - {text: "I think like most of the listeners, I can say that I recognise a tree when I see one.", start: 133.90, end: 139.44}
-  - {text: "But what is a tree?", start: 139.90, end: 141.28}
-  - {text: "Yeah, that's actually such a hard question.", start: 142.04, end: 144.74}
-  - {text: "Because we have to define a tree without using the word tree.", start: 145.38, end: 148.30}
-  - {text: "So there is actually, there's a lot of arguments and discussion among plant scientists about what a tree is.", start: 149.10, end: 154.50}
-  - {text: "But what we can say is that it has to have a trunk, so a main stem, and it has to have a canopy.", start: 154.60, end: 161.10}
-  - {text: "And the canopy we think usually has leaves today, but not necessarily.", start: 161.78, end: 165.54}
-  - {text: "So it is a canopy of branches.", start: 166.02, end: 168.76}
-  - {text: "That trunk has to not die back.", start: 169.58, end: 172.46}
-  - {text: "So we have structures that look like trees, but they're actually flowers.", start: 172.46, end: 175.86}
-  - {text: "So what do we mean by die back?", start: 176.42, end: 178.10}
-  - {text: "So it means that it's a perennial structure so that it will last for many, many years and not just die after one or two years.", start: 178.36, end: 187.50}
-  - {text: "And then to be a tree, the trunk and the crown have to be self supporting.", start: 187.94, end: 192.16}
-  - {text: "So what that means is that this beautiful organism can't rely on leaning on a wall or before walls leaning on another tree or leaning on other vegetation.", start: 192.70, end: 203.02}
-  - {text: "And then other people use a definition of a particular height and a particular width.", start: 203.98, end: 209.06}
-  - {text: "So there's loads of arguments about that.", start: 209.36, end: 211.42}
-  - {text: "But I think a good definition is a tree has to be above three meters.", start: 211.66, end: 215.80}
-  - {text: "And then if you took your hand and a chest height measured the width of the trunk, it has to be wider than your hand to classify as a tree.", start: 216.34, end: 225.50}
-  - {text: "And then the big controversy comes with wood.", start: 225.74, end: 228.08}
-  - {text: "Yes. Tell us, tell us what is wood exactly?", start: 228.68, end: 231.70}
-  - {text: "And can you have trees without wood?", start: 232.20, end: 233.94}
-  - {text: "Yes, we absolutely can have trees without wood.", start: 234.38, end: 236.80}
-  - {text: "Some botanists are really strict and they say you can't be a tree unless you have wood.", start: 237.32, end: 241.06}
-  - {text: "But I think that's far too strict.", start: 241.20, end: 243.88}
-  - {text: "And if you think of a tree, it can be woodless.", start: 244.28, end: 247.50}
-  - {text: "It can have wood.", start: 247.70, end: 248.42}
-  - {text: "Trees have worked out many ways of becoming a tree.", start: 248.96, end: 251.16}
-  - {text: "So what is wood?", start: 251.72, end: 252.62}
-  - {text: "Wood is a tissue made up of lots of cells.", start: 253.18, end: 256.82}
-  - {text: "And those cells are really complex and they are hollowed out.", start: 256.82, end: 260.98}
-  - {text: "And they really look like straws in their simplest form.", start: 261.34, end: 264.40}
-  - {text: "So they have a hollow center and then the cell wall of the straw is thickened with a polymer that is called lignin.", start: 265.02, end: 271.40}
-  - {text: "And lignin enables that tree to self support and not fall down and not rely on other structures to lean on.", start: 271.94, end: 279.54}
-  - {text: "So if the tree has lignin, we call it wood.", start: 280.18, end: 284.16}
-  - {text: "Actually, the Greek for wood is called xylem.", start: 284.16, end: 287.76}
-  - {text: "And that's what those cells are called wood cells are called xylem.", start: 287.86, end: 290.42}
-  - {text: "And before trees came along, what was happening with plants on earth?", start: 290.46, end: 295.30}
-  - {text: "Yeah, so we kind of always think trees are ubiquitous today.", start: 295.62, end: 299.56}
-  - {text: "So we kind of think they've always been here.", start: 299.62, end: 301.10}
-  - {text: "But if you look deep into evolutionary time using fossil plants between about 460 million years ago and 390 million years ago, the world was treeless.", start: 301.16, end: 311.68}
-  - {text: "And in actual fact, plants are just coming onto the earth's surface out of water and photosynthesizing.", start: 312.06, end: 319.54}
-  - {text: "So they're green. So if you could imagine, you would be walking in a world where you'd see lots of bear rock, very little soil.", start: 319.58, end: 326.72}
-  - {text: "And the plants are leafless.", start: 327.36, end: 329.90}
-  - {text: "They are rootless and there are no trees.", start: 330.22, end: 333.16}
-  - {text: "So the highest plants are kind of brushing your ankle, touching your knee.", start: 333.52, end: 338.06}
-  - {text: "But there's no massive tree structures on the earth before the advent of trees.", start: 338.10, end: 342.52}
-  - {text: "So if they're if they're rootless, that means they're sort of like mosses or some or something.", start: 342.96, end: 348.04}
-  - {text: "Yeah, that's right. So evolutionary groups that have evolved in the earliest phase of the earth are mosses, liverworts.", start: 348.30, end: 357.40}
-  - {text: "There's also ferns. So these plants will reproduce by spores in the early record.", start: 357.72, end: 362.18}
-  - {text: "They're rootless, but they evolve roots.", start: 362.32, end: 364.16}
-  - {text: "And in the early record, they have no leaves, but they evolve leaves.", start: 364.44, end: 367.44}
-  - {text: "OK, so Chris Berry, when did the first trees then arrive out of presumably out of this vegetation?", start: 368.04, end: 375.66}
-  - {text: "And what did they look like?", start: 376.16, end: 377.34}
-  - {text: "So the oldest trees I've seen are about three hundred and ninety three million years old from the beginning of the Middle Devonian period.", start: 377.76, end: 385.84}
-  - {text: "And I suspect that a few million years before that, there's other types of simple tree leading up to these first trees that we know about.", start: 386.30, end: 394.30}
-  - {text: "And the first tree we have is a cladozolopsid tree, and it's called calamophyton, and it's an extinct type of organism.", start: 394.82, end: 401.72}
-  - {text: "So just the definition of those two words.", start: 402.08, end: 405.58}
-  - {text: "Cladozolopsid simply means that the wood is branched.", start: 406.52, end: 409.84}
-  - {text: "So inside the tree, there's lots of sort of a network of wood rather than a solid cylinder of wood that you might expect in an oak tree or something today.", start: 410.18, end: 418.36}
-  - {text: "Got it. And the name of the tree is calamophyton.", start: 418.72, end: 421.34}
-  - {text: "So that's a strange word, which is, I think, a combination of a Greek word for reed and phyton, which means plant.", start: 421.50, end: 428.78}
-  - {text: "It was considered very simple when they first found small parts of it.", start: 429.04, end: 433.24}
-  - {text: "So these are the first trees that we know of?", start: 433.48, end: 435.54}
-  - {text: "Yes, they are. Now that we've been able to assemble the different bits that we've known about into one organism, which is a tree.", start: 435.72, end: 443.10}
-  - {text: "So it's a tree called calamophyton.", start: 443.62, end: 446.20}
-  - {text: "It's probably about two meters tall, consists of a trunk.", start: 446.82, end: 451.50}
-  - {text: "It has simple, but many roots at the bottom.", start: 451.94, end: 455.16}
-  - {text: "And from the sides and particularly the top of the growing apex of the tree would be lots of branches.", start: 456.08, end: 462.18}
-  - {text: "Those branches look a bit like, I'd say, maybe monkey arms with very long fingers and attached to those fingers would be tiny little twiggy things which weren't leaves, but were probably photosynthesizing.", start: 462.68, end: 474.94}
-  - {text: "And this thing would have just grown upwards to probably about maybe two and a half meters.", start: 475.44, end: 479.40}
-  - {text: "So Jenny wouldn't call it a tree, which is fine by me, actually.", start: 480.04, end: 483.62}
-  - {text: "But would you call it a tree then?", start: 484.22, end: 486.44}
-  - {text: "In its time it was a tree, but we might not call it a tree now.", start: 486.86, end: 490.88}
-  - {text: "It was definitely something that we'd look up to if we were a small arthropod crawling around on the ground back in the middle Devonian.", start: 491.02, end: 498.92}
-  - {text: "So Jenny, not a tree?", start: 499.36, end: 500.90}
-  - {text: "I would call it a tree.", start: 501.10, end: 502.10}
-  - {text: "I have a broad definition of a tree.", start: 502.32, end: 504.04}
-  - {text: "I just gave the strict one.", start: 504.22, end: 505.32}
-  - {text: "OK, so we know about this because of the fossil record.", start: 506.10, end: 510.36}
-  - {text: "Sticking with that, Chris, what do those fossil records tell us about the first forest?", start: 511.00, end: 516.82}
-  - {text: "The first forests I look at is occurring over the next period of about 10 million years.", start: 517.36, end: 524.56}
-  - {text: "So we find probably four really good examples of what these very primitive forests were like.", start: 524.82, end: 531.18}
-  - {text: "If we look at the first one that was known about the famous Gilboa fossil forest in upstate New York, we find these cladozolopsid trees like Callum fighton,", start: 531.80, end: 540.30}
-  - {text: "except by 10 million years later, they're actually about a meter in diameter at the base, maybe 10, 12 meters tall.", start: 540.34, end: 546.76}
-  - {text: "So really substantial trees.", start: 547.42, end: 549.16}
-  - {text: "Yeah, we find in the sandstone quarry in upstate New York where this forest occurs, between meandering between those tree bases, we find a woody trunk, but which is lying along the ground.", start: 549.68, end: 561.84}
-  - {text: "It's a new type of plant called a neurophyte, very simple leaf -like twigs, again, on little branches.", start: 562.32, end: 570.28}
-  - {text: "If we go back maybe two million years before that, go down the hills, out of the Catskill Mountains, down into the Hudson Valley, there's another place called Kero.", start: 571.02, end: 581.06}
-  - {text: "And there's another sandstone quarry there on the base of that quarry.", start: 581.50, end: 585.56}
-  - {text: "There are huge, great rooting systems.", start: 585.82, end: 587.90}
-  - {text: "And that is the base of another woody tree.", start: 588.28, end: 591.08}
-  - {text: "But this type of tree has learned to grow upright.", start: 591.30, end: 593.92}
-  - {text: "And you've been to the four major sites of the earliest fossilized trees that we know.", start: 594.52, end: 602.40}
-  - {text: "Where are the other two?", start: 602.78, end: 603.88}
-  - {text: "The other one, which is of a similar age to the two I've just described, is in Spitzbergen, about nearly 80 degrees north.", start: 604.20, end: 611.70}
-  - {text: "Though when that forest was alive, it was on the equator.", start: 612.44, end: 614.52}
-  - {text: "And there we see Lycopod trees growing, which is a third type of tree.", start: 615.00, end: 620.98}
-  - {text: "And that tree has a little bulbous base.", start: 621.30, end: 623.56}
-  - {text: "And then a trunk, which is just a column, which would have been covered in little leaves.", start: 623.92, end: 627.78}
-  - {text: "And when it got to a certain height, about three metres, it would then branch, start dividing into two and two and two and two and", start: 628.32, end: 636.00}
-  - {text: "form probably an upright crown at the top of it.", start: 636.00, end: 638.88}
-  - {text: "These trees are still excellent today in the form of little herbaceous plants.", start: 639.44, end: 643.28}
-  - {text: "And then the last and the oldest fossil forest and was found by a couple of Cambridge sedimentologists, Neil Davis and Will McMahon, down on the coast of Somerset.", start: 643.82, end: 654.22}
-  - {text: "And they sent me some pictures of some trees and they look a bit like a tire mark from a bicycle going across the sandstone.", start: 654.52, end: 661.62}
-  - {text: "And I recognised immediately the pattern of branches that are found in Calamifiedon, which is the oldest tree.", start: 662.22, end: 669.40}
-  - {text: "It's from about 390 million years.", start: 670.06, end: 672.46}
-  - {text: "Thanks very much, Chris.", start: 672.96, end: 674.64}
-  - {text: "Bill Baker, from physical trees, early physical trees to trees as a metaphor, you've called the Tree of Life, Biology's periodic table.", start: 674.96, end: 685.62}
-  - {text: "Can you explain what you mean by that?", start: 686.14, end: 687.96}
-  - {text: "Well, metaphorical, the idea of the metaphorical tree of life has been around for thousands of years in religious, mythological, cultural contexts.", start: 688.54, end: 700.72}
-  - {text: "Think of the Tree of Life in the Garden of Eden or this great tree, Yggdrasil, that connected the nine realms of Norse mythology.", start: 701.10, end: 711.34}
-  - {text: "But what I'm talking about today is the evolutionary Tree of Life, so the genealogy of everything that lives and has lived.", start: 711.90, end: 719.70}
-  - {text: "And I liken it to the periodic table because the Tree of Life helps us understand the properties of living things, just like the periodic table helps us understand", start: 720.26, end: 733.66}
-  - {text: "the relationships and properties of the chemical elements.", start: 734.24, end: 737.64}
-  - {text: "So if you are looking to find your way through the complexity of biodiversity, the Tree of Life is like a roadmap.", start: 738.54, end: 746.66}
-  - {text: "It kind of cuts your workload down because, you know, you don't have to, if you're interested, for example, in a group of plants that might produce chemicals", start: 747.12, end: 754.92}
-  - {text: "that could have medicinal value and you want to explore those plants for their medicinal properties.", start: 754.92, end: 760.68}
-  - {text: "You don't have to look at every plant.", start: 760.96, end: 762.84}
-  - {text: "You can use the Tree of Life and what we call its predictive power to direct your next sampling for a.", start: 762.84, end: 771.02}
-  - {text: "So it's really central.", start: 771.56, end: 772.64}
-  - {text: "It's the foundation of biology in many respects and indeed the kinds of things that Jenny and Chris have been talking about are all underpinned by concepts of the Tree of Life.", start: 773.26, end: 782.88}
-  - {text: "And you've been involved in the building of a complex Tree of Life at Q.", start: 783.02, end: 788.30}
-  - {text: "Can you explain to us how you go about doing that?", start: 789.02, end: 791.20}
-  - {text: "And what does it tell us specifically about the evolution of trees?", start: 791.20, end: 794.40}
-  - {text: "In a perfect world, we'd be able to reconstruct the Tree of Life from what we see written in the rocks.", start: 795.28, end: 802.06}
-  - {text: "The fossil record would tell us how everything is connected.", start: 802.30, end: 805.48}
-  - {text: "But as Chris has just described very clearly, actually, the fossil record is very incomplete and it's difficult to piece together.", start: 805.92, end: 814.14}
-  - {text: "But there there is another kind of fossil record.", start: 814.26, end: 817.00}
-  - {text: "There's the molecular fossil record, which is effectively the changes in DNA that accumulate over time.", start: 817.38, end: 824.60}
-  - {text: "All of us ourselves have DNA.", start: 824.72, end: 826.86}
-  - {text: "That is what encodes our properties and functions and over time DNA mutates.", start: 827.68, end: 833.10}
-  - {text: "Now, if you can pull together DNA code, DNA sequence, as we call it, from different species, but for the same parts of the genome and line those up, you're able to run it through a complex algorithm", start: 833.80, end: 847.36}
-  - {text: "and infer a tree or recover a tree.", start: 847.88, end: 850.96}
-  - {text: "We often talk about recovering as if it's a form of excavation, almost.", start: 851.06, end: 855.42}
-  - {text: "We know that there is a tree out there, but that we have to somehow get to it through our molecular genetic shenanigans.", start: 856.06, end: 863.22}
-  - {text: "I mean, building the Tree of Life is a huge global endeavour.", start: 864.06, end: 866.82}
-  - {text: "There are many, many researchers involved in this.", start: 866.90, end: 869.10}
-  - {text: "And at Q, it's been our bread and butter for decades.", start: 869.26, end: 871.86}
-  - {text: "For the last decade, I've led a programme called the Plant and Fungal Trees programme at Q.", start: 872.50, end: 877.72}
-  - {text: "And we have recently, it sounds rather glib, we have recently completed the flowering plant, Tree of Life, by which I mean we have sequenced one representative of every genus of flowering plant.", start: 877.96, end: 889.30}
-  - {text: "Now, the flowering plants make up 90 % of the plants that grow on Earth today.", start: 889.78, end: 895.06}
-  - {text: "Chris has not talked about flowering plants yet.", start: 895.82, end: 897.74}
-  - {text: "He's talked about things that come long before flowering plants, but there are 350 ,000 of them.", start: 897.84, end: 902.48}
-  - {text: "We've sequenced about 90 % of the genera.", start: 902.48, end: 905.94}
-  - {text: "That represents about 98 % of the total diversity.", start: 906.04, end: 908.84}
-  - {text: "And we've done that using Q's amazing collections and really novel genomic methods.", start: 909.22, end: 915.06}
-  - {text: "And I think the thing we're most proud about is that everything that we have done is in the public domain and free for other people to use.", start: 915.30, end: 922.02}
-  - {text: "And it's been a really wonderful springboard for other people's research.", start: 922.16, end: 925.96}
-  - {text: "And are trees included in that?", start: 926.24, end: 928.40}
-  - {text: "Because some of them are flowering and some of them aren't.", start: 928.74, end: 930.66}
-  - {text: "Yes, so there are many tens of thousands of the 350 ,000 species of flowering plants are trees.", start: 930.66, end: 938.26}
-  - {text: "And what our Angiosperm Tree of Life shows us is that...", start: 938.52, end: 943.58}
-  - {text: "Angiosperm? Sorry, flowering plant.", start: 943.58, end: 945.44}
-  - {text: "Angiosperm is a synonym for flowering plants.", start: 945.60, end: 947.72}
-  - {text: "Plants that produce flowers and produce true fruit.", start: 948.12, end: 952.02}
-  - {text: "And so our flowering plant Tree of Life shows us very clearly that trees are not a group that they have originated repeatedly across this enormous group.", start: 952.64, end: 962.76}
-  - {text: "We see a wonderful pattern in the way the flowering plants diversified very early on in their origin about 150 million years ago.", start: 963.02, end: 971.56}
-  - {text: "There was this enormous surge in diversification.", start: 971.70, end: 974.02}
-  - {text: "All the major lineages, what we call the orders of flowering plants appearing.", start: 974.46, end: 978.86}
-  - {text: "But we don't think that they were trees at that time.", start: 979.20, end: 982.40}
-  - {text: "The first groups that popped off were flimsy shrubs and climbers.", start: 983.04, end: 988.20}
-  - {text: "Or the water lilies, for example, they can't even make wood in their aquatics.", start: 988.20, end: 991.84}
-  - {text: "There's a lack of clarity about exactly what the sequence was of diversification.", start: 992.46, end: 997.22}
-  - {text: "But we know that trees were probably not there in the earlier stages.", start: 997.80, end: 1001.84}
-  - {text: "But by the end of the Cretaceous, they were very, very much present.", start: 1002.00, end: 1005.34}
-  - {text: "OK, so as we've established, they've arrived around 380, 390 million years ago.", start: 1005.94, end: 1014.02}
-  - {text: "Jenny McElwain, how did they start to change the environment?", start: 1014.02, end: 1018.56}
-  - {text: "Yeah, so I think we mostly think of trees.", start: 1019.26, end: 1021.90}
-  - {text: "We use the term ecosystem engineer.", start: 1022.36, end: 1024.26}
-  - {text: "So they just build this structural complexity.", start: 1024.86, end: 1029.66}
-  - {text: "So if you imagine you've got 20 herbs, you know, they're not trees.", start: 1030.10, end: 1034.18}
-  - {text: "They're small in a space and now swap that with 20 trees.", start: 1034.34, end: 1038.02}
-  - {text: "So the trees will increase the volume of complexity.", start: 1038.40, end: 1041.80}
-  - {text: "So as soon as you have trees, you begin to have layers of habitats.", start: 1041.80, end: 1047.08}
-  - {text: "So let's say you go hiking on a hot day.", start: 1047.84, end: 1050.46}
-  - {text: "It's really hot. It's really drying, but you walk into a cool forest.", start: 1051.08, end: 1054.98}
-  - {text: "You can feel the moisture increase.", start: 1055.18, end: 1056.92}
-  - {text: "You can feel the shade and the cool.", start: 1057.12, end: 1058.82}
-  - {text: "So what trees do in a space is they create microclimates.", start: 1059.52, end: 1064.70}
-  - {text: "They change the light.", start: 1065.38, end: 1067.28}
-  - {text: "So you now have understory plants.", start: 1067.58, end: 1069.28}
-  - {text: "You have middle story plants and you have canopy plants.", start: 1069.28, end: 1071.94}
-  - {text: "They change the humidity.", start: 1072.48, end: 1073.94}
-  - {text: "They change the complexity of how everything interacts.", start: 1074.30, end: 1077.28}
-  - {text: "And they and this is just above ground, below ground.", start: 1078.40, end: 1082.42}
-  - {text: "They're doing the same.", start: 1082.74, end: 1083.70}
-  - {text: "So they're extracting elements from rocks, building soil, building relationships with fungi.", start: 1083.86, end: 1088.72}
-  - {text: "So per unit space, trees add complexity and they engineer space and climate and resources for other plants to come in and other animals and fungi, other groups to come in.", start: 1089.28, end: 1101.62}
-  - {text: "So very fundamental really in terms of how life evolves.", start: 1102.22, end: 1106.22}
-  - {text: "Chris, are trees from 390 million years ago recognizable to us?", start: 1107.18, end: 1113.22}
-  - {text: "Or are today's trees very, very different from what first emerged?", start: 1113.42, end: 1118.66}
-  - {text: "And if so, where do those differences lie?", start: 1119.08, end: 1121.10}
-  - {text: "So if we look at the archaeoptery, the one with the big roots that we saw at Cairo in the forest, this would be a recognizable form to us because it's got big, sturdy roots.", start: 1121.10, end: 1132.64}
-  - {text: "It's got a woody trunk with some sort of bark on the outside of it.", start: 1132.82, end: 1136.78}
-  - {text: "It may have branches, but it definitely has leafy, frond -like branches attached to it.", start: 1137.42, end: 1143.54}
-  - {text: "So it would have nice green leaves and so it probably reached a height of maybe at that time, 20 meters or so.", start: 1143.56, end: 1149.38}
-  - {text: "So does it look like something like a pine tree?", start: 1149.38, end: 1152.14}
-  - {text: "Yes, to a certain extent, that would be the basic thing that you might recognize as sort of leafy pine tree, if you could imagine such a thing.", start: 1153.38, end: 1161.52}
-  - {text: "The lycopods, such as we saw in Spitzburg and were quite different, I think, to anything that we really see today because they would grow up as a leafy trunk from the ground", start: 1162.20, end: 1172.30}
-  - {text: "and they would grow up to this time three meters, maybe, and then start branching and have this branching crown of leafy, smaller branches at the top, which would then terminate in a cone.", start: 1172.98, end: 1186.38}
-  - {text: "That would be where the reproductive part was.", start: 1186.62, end: 1188.52}
-  - {text: "And I don't really know of anything that looks particularly like that today.", start: 1188.88, end: 1193.24}
-  - {text: "There's some cactuses and things which maybe do a little something a little bit similar, but the claddysylopsids are really fairly unique because the way that", start: 1193.52, end: 1203.26}
-  - {text: "they support themselves is with this very much divided woody structure.", start: 1203.26, end: 1207.18}
-  - {text: "Around a hollow interior, it's a bit like the Eiffel Tower inside the plant, holding it up.", start: 1207.18, end: 1213.62}
-  - {text: "And then with these monkey -armed branches on the side of them, which then dropping off as the apex grows upwards, it's a form that we might recognize from a palm.", start: 1213.94, end: 1223.90}
-  - {text: "I'm sure Bill might talk about this or a tree fern, but without actually having any leaves.", start: 1224.06, end: 1230.04}
-  - {text: "So a quite unusual type of structure, but quite distinctive.", start: 1230.38, end: 1234.70}
-  - {text: "So when do things like oaks and ashes and birches that we know today?", start: 1234.70, end: 1239.58}
-  - {text: "When do they start evolving or do we not know?", start: 1239.78, end: 1241.76}
-  - {text: "This will not be till probably about 200, 250 million years later.", start: 1241.78, end: 1246.26}
-  - {text: "So these early Devonian forests are really quite distinct.", start: 1246.70, end: 1250.42}
-  - {text: "And one thing you should perhaps recognize is that there's no seeds there.", start: 1250.78, end: 1254.30}
-  - {text: "There's no flowers. There's almost no insects, maybe just millipedes, no birds.", start: 1254.40, end: 1260.16}
-  - {text: "Very low diversity, not this tropical ecosystem that we think of today as being a tropical forest.", start: 1260.82, end: 1267.58}
-  - {text: "This is really something very distinctive and without the level of interactions that Jenny's talked about, perhaps apart from the fungi in the soil, which might be quite interesting.", start: 1267.96, end: 1277.74}
-  - {text: "Well, you mentioned tropical forests, rain forests.", start: 1277.94, end: 1281.48}
-  - {text: "Bill, you've done quite a lot of work on palms.", start: 1282.44, end: 1285.32}
-  - {text: "What can you tell us about palms and rainforests?", start: 1285.86, end: 1289.06}
-  - {text: "Rain forests obviously are iconic places for trees.", start: 1289.06, end: 1293.06}
-  - {text: "They're also really important for biodiversity.", start: 1293.38, end: 1295.38}
-  - {text: "We think maybe half of all plant species occur in rainforests, which take up just seven percent of the world's land surface area.", start: 1296.30, end: 1302.68}
-  - {text: "So they're really important.", start: 1302.74, end: 1303.58}
-  - {text: "And that idea begs the question, well, how on earth did that come about?", start: 1304.28, end: 1308.40}
-  - {text: "So the palms are a fruitful, provided fruitful line of inquiry on this subject, because palms are found all over the tropics.", start: 1309.24, end: 1318.70}
-  - {text: "They're widespread, two and a half thousand species, but they are mechanically kind of bound to the tropics.", start: 1318.70, end: 1325.50}
-  - {text: "They can't cope with freezing on the whole.", start: 1325.62, end: 1328.28}
-  - {text: "There are a few exceptions.", start: 1328.40, end: 1329.14}
-  - {text: "Don't write in on the whole palms can't cope with freezing because freezing causes catastrophic embolism of their plumbing.", start: 1329.72, end: 1339.08}
-  - {text: "Basically, you get a bubble and it can't function anymore.", start: 1339.26, end: 1341.88}
-  - {text: "So this makes them what we call niche conserve.", start: 1342.42, end: 1345.16}
-  - {text: "They are bound to a certain environment.", start: 1345.16, end: 1348.32}
-  - {text: "And as you can tell already, I love building the tree of life.", start: 1349.02, end: 1352.04}
-  - {text: "And my early days were spent frenetically building a palm tree of life.", start: 1352.24, end: 1355.74}
-  - {text: "And we have used that tree to try to see what that might tell us about the rainforest by combining it with fossils to turn this branching diagram actually into a proper chronology,", start: 1356.10, end: 1369.44}
-  - {text: "if you like, so that the individual splits in this tree fit to a time.", start: 1369.56, end: 1373.88}
-  - {text: "We've related on to that tree, the environments in which the modern species occur and reconstructed what the original, the ancestral condition might be.", start: 1373.88, end: 1384.30}
-  - {text: "And that tree told us that analysis published in 2011 told us that palms appear to have evolved in the rainforest 100 million years ago, somewhere in the northern hemisphere.", start: 1384.40, end: 1394.74}
-  - {text: "This caused a bit of a drama because, in fact, from a paleo perspective, the fossil evidence for rainforest doesn't exist at that time.", start: 1395.44, end: 1404.72}
-  - {text: "The earliest fossil assemblages that look like they characterize a rainforest don't come till after the meteor impact and the extinction of dinosaurs around 60, 65 million years ago.", start: 1405.00, end: 1417.08}
-  - {text: "So what's happening there if the evidence is so contradictory?", start: 1417.44, end: 1421.98}
-  - {text: "Well, we, of course, what is science for, if not for revisiting later?", start: 1422.60, end: 1428.18}
-  - {text: "So the update to all of this is that we have managed to build an even bigger tree of life for palms with 80 percent of the two and a half thousand species in it now that gives us a more nuanced insight", start: 1428.18, end: 1439.42}
-  - {text: "that shows us that palms are even older, perhaps 120 million years, but that it appears now that they have old in a non rainforest environment", start: 1440.20, end: 1449.46}
-  - {text: "but quickly moved into them around 60 million years.", start: 1449.46, end: 1452.32}
-  - {text: "So by doing more work, we finally get a close match that I hope will cause less controversy among my paleo friends.", start: 1452.52, end: 1459.70}
-  - {text: "Thanks for that clarification, Bill.", start: 1459.98, end: 1461.88}
-  - {text: "Jenny, we heard from Bill that palms exist in rainforests, or I think it was you that they can't exist in different temperatures.", start: 1462.74, end: 1472.28}
-  - {text: "So what makes some trees resilient and other trees not resilient?", start: 1472.84, end: 1477.16}
-  - {text: "Yeah, that's that's such a great question.", start: 1477.88, end: 1479.86}
-  - {text: "And I actually think nobody can answer it.", start: 1479.98, end: 1482.60}
-  - {text: "Yes. So I think this is really an active area of research for plant scientists in all disciplines.", start: 1482.60, end: 1489.22}
-  - {text: "And we really need to know which trees are going to be resilient in the face of climate change in the future.", start: 1489.84, end: 1497.02}
-  - {text: "And there's lots of ways of answering those questions.", start: 1497.34, end: 1499.64}
-  - {text: "You can come from lots of different disciplines and answer in different ways.", start: 1499.82, end: 1502.74}
-  - {text: "But I suppose thinking of my own research area, we know from looking back at the fossil record at times of natural global warming in the past.", start: 1502.86, end: 1512.92}
-  - {text: "So this would be caused by volcanism, that if you push the climate too far and too warm, we know that trees have limits.", start: 1513.16, end: 1522.28}
-  - {text: "So you push the climate beyond their niche or their adapted envelope.", start: 1522.68, end: 1529.12}
-  - {text: "And they suddenly disappear.", start: 1529.80, end: 1532.16}
-  - {text: "And we don't see them as fossils anymore.", start: 1532.58, end: 1534.92}
-  - {text: "And instead we see the really ancient plants thrive, like ferns and those mosses that we talked about in the early phase of the earth.", start: 1535.12, end: 1543.06}
-  - {text: "So what we do know is that trees, all trees have limits.", start: 1543.84, end: 1546.76}
-  - {text: "We see this if you go to the Arctic today or the Antarctic, there are no trees.", start: 1547.34, end: 1550.78}
-  - {text: "It's a treeless landscape.", start: 1550.98, end: 1552.50}
-  - {text: "It's because it's too cold.", start: 1552.92, end: 1553.84}
-  - {text: "And then you see it in a desert.", start: 1554.38, end: 1555.58}
-  - {text: "In the most extreme deserts, it's too hot.", start: 1556.62, end: 1558.84}
-  - {text: "So I kind of think we can't be complacent.", start: 1559.32, end: 1562.12}
-  - {text: "We know trees, we love trees, but we absolutely can't be complacent.", start: 1562.74, end: 1566.68}
-  - {text: "And we've set up a project in Trinity College Botanic Garden called the Witness Tree Project.", start: 1567.16, end: 1573.62}
-  - {text: "And the idea is that all trees are sensors and they're witnesses of climate change.", start: 1574.40, end: 1580.64}
-  - {text: "And because they're long -lived organisms, you know, many live for thousands of years.", start: 1580.86, end: 1584.78}
-  - {text: "Most live for hundreds of years or certainly decades.", start: 1585.00, end: 1588.48}
-  - {text: "We are tracking 21 trees.", start: 1589.30, end: 1592.60}
-  - {text: "And it was very difficult to choose which ones.", start: 1592.86, end: 1594.54}
-  - {text: "21 trees every year over time to answer the question you posed, which trees are most resilient?", start: 1595.10, end: 1602.16}
-  - {text: "And we're trying to understand, it's called a common garden experiment because we have trees from all over the world growing in the same botanic garden.", start: 1602.52, end: 1611.46}
-  - {text: "So we have trees from the subtropics, trees from cold environments, trees from very warm environments.", start: 1612.10, end: 1619.30}
-  - {text: "And we're trying to understand fundamentally, what is it about their traits that enable some to be resilient and others to not withstand a change in climate?", start: 1619.56, end: 1630.26}
-  - {text: "So Chris Berry, in that case, presumably even resilient trees would find it difficult to adapt year on year.", start: 1631.00, end: 1639.04}
-  - {text: "So you're looking at tree resilience over millions of years, hundreds of millions of years.", start: 1639.40, end: 1646.34}
-  - {text: "Do you, are you able to say, ah, yes, this tree faded away, but became an oak tree or something like that?", start: 1647.12, end: 1655.38}
-  - {text: "Or do you see hard cutoff points?", start: 1655.60, end: 1658.70}
-  - {text: "One of the interesting things about how trees grows is where the growth occurs, where the primary growth occurs.", start: 1659.95, end: 1667.07}
-  - {text: "And for my very old trees, this tends to be the actual apex of the trunk.", start: 1667.35, end: 1671.49}
-  - {text: "So at the apex of the trunk, there's a thing called a meristem, which is producing new cells, which become part of the trunk.", start: 1671.97, end: 1679.13}
-  - {text: "And in these ancient types of trees, then pretty much the whole body plan of the tree was organized from there.", start: 1679.13, end: 1688.03}
-  - {text: "So it would be given instructions as to where the branches would grow when they grow in geometric patterns coming back from the meristem.", start: 1688.15, end: 1695.33}
-  - {text: "Problem with this is that that's extremely vulnerable because if you take out the meristem, if you have frost or something, or this big bulbous thing on the top of the trunk, then it can easily be destroyed.", start: 1696.15, end: 1707.21}
-  - {text: "And it's the same for the lycopod trees as well.", start: 1707.21, end: 1709.43}
-  - {text: "I think archaeopterists, the big tall woody tree that we see at Cairo in upstate New York is a really interesting thing because with my PhD student Amy Wyatt,", start: 1710.07, end: 1721.19}
-  - {text: "we've been in Spitzburg and collecting what we think are trunks of these archaeopterist trees.", start: 1721.27, end: 1725.43}
-  - {text: "And up to a certain size, they seem to have very geometric insertion of the leafy branches that they had, which seems to fit in with this model.", start: 1726.01, end: 1737.01}
-  - {text: "It's all coming from the apex.", start: 1737.01, end: 1738.23}
-  - {text: "But work by American, particularly French colleagues, looking at the anatomy of some of these trees, shows that there's a new type of branching which can develop in archaeopterists.", start: 1739.13, end: 1749.33}
-  - {text: "And that's to say that it starts growing new branches from essentially the surface of the wood.", start: 1749.63, end: 1755.25}
-  - {text: "So it can produce a new branch anywhere on the trunk.", start: 1755.67, end: 1759.33}
-  - {text: "And that can grow into a big branch, a long live branch with fronds on it itself, or even into a new trunk.", start: 1759.73, end: 1767.15}
-  - {text: "So that sort of development gives the plant much more resilience because you can lop off the top, you can have wind damage, other sorts of damage.", start: 1768.23, end: 1777.29}
-  - {text: "Another tree can fall down and take half of it away.", start: 1778.09, end: 1780.63}
-  - {text: "It could still grow.", start: 1780.73, end: 1781.37}
-  - {text: "So I think basically within archaeopterists, at some point it changed from one type of branching to the other and became more resilient and lasted for 25 million years as a genus.", start: 1781.97, end: 1793.61}
-  - {text: "And I think you can also add seeds to that.", start: 1793.61, end: 1796.17}
-  - {text: "If you add seeds to a plant, then it's also become more resilient.", start: 1796.47, end: 1800.07}
-  - {text: "When do seeds come in as it were for trees?", start: 1800.15, end: 1803.39}
-  - {text: "For the trees, not totally sure, but seeds appear in the fossil record towards the end of the Devonian, but within shrubby plants rather than within trees.", start: 1804.07, end: 1814.21}
-  - {text: "So the first seeds are probably in plants which will later become trees rather than in the earliest trees.", start: 1814.81, end: 1821.81}
-  - {text: "Bill, why do so many plants end up looking like trees?", start: 1822.69, end: 1827.43}
-  - {text: "Is there something about the tree structure which makes it particularly efficient or adaptable?", start: 1827.63, end: 1834.97}
-  - {text: "Well, being a tree has a lot of benefits.", start: 1835.43, end: 1837.51}
-  - {text: "It gives you more access to light, probably more photosynthetic efficiency.", start: 1837.89, end: 1845.13}
-  - {text: "It gives you longevity, perhaps makes it easier for you to disperse your pollen or seeds.", start: 1845.41, end: 1851.95}
-  - {text: "And because these pressures exist in many different places, this leads to what we call convergent evolution, the independent origination of traits in unrelated lineages.", start: 1852.63, end: 1866.67}
-  - {text: "I mean, there is, of course, selection to not be a tree in some places.", start: 1867.35, end: 1870.85}
-  - {text: "There are no trees up beyond the treeline in the mountains because it's actually better to be able to die back to a perennial rootstock and in the desert it's better to be an annual and live fast,", start: 1870.85, end: 1882.65}
-  - {text: "die young in an environment where there is not much water.", start: 1882.93, end: 1887.63}
-  - {text: "But as a result, we see in the flowering plants, at least we see many instances of plant families that have both tree and non -tree members.", start: 1888.55, end: 1898.47}
-  - {text: "So we all know the apple, cherry, plum, for example.", start: 1898.97, end: 1904.47}
-  - {text: "They're all members of the Rose AC, the Rose family, but so is the strawberry, and everyone knows that strawberries don't grow on trees.", start: 1904.59, end: 1911.19}
-  - {text: "The same with mint, for example.", start: 1912.19, end: 1914.71}
-  - {text: "One of the relatives of mint, our little sappy herb, is the great teak tree, one of the most valuable timbers on the planet.", start: 1915.15, end: 1922.71}
-  - {text: "And palms really take the biscuit because they can't make proper wood.", start: 1923.51, end: 1927.25}
-  - {text: "They grow a bit like Chris was describing earlier from a big fat bud on the top.", start: 1927.63, end: 1932.79}
-  - {text: "They're embedded in the monocots, which is a group that includes cereals, rice, as well as orchids, lilies, normally floppy things, sappy things that can't make proper wood.", start: 1933.73, end: 1944.81}
-  - {text: "And yet, palms have escaped this constraint to produce trees that can be as tall as 60 metres.", start: 1945.57, end: 1953.51}
-  - {text: "And in the Amazon, six of the 10 commonest trees are palms.", start: 1954.11, end: 1959.95}
-  - {text: "So that means the commonest tree, and one of the Asa 'i species, Utterpi Precatoria, there are five billion individuals of that thing, which is kind", start: 1960.55, end: 1969.63}
-  - {text: "of just pretending to be a proper tree.", start: 1969.63, end: 1971.61}
-  - {text: "Jenny, I want to concentrate a bit on what the evolution of trees can tell us about the environment.", start: 1972.65, end: 1980.37}
-  - {text: "Presumably before trees came along, the earth was still pretty hot and humid, I would have thought.", start: 1980.85, end: 1987.21}
-  - {text: "What do trees do to change the environment?", start: 1987.49, end: 1990.37}
-  - {text: "Yeah, so trees are sensors of their environment, so we can actually use them in the fossil record because we have beautiful fossils that Chris has spoken about.", start: 1991.13, end: 2001.47}
-  - {text: "We have fossil leaves.", start: 2001.93, end: 2002.97}
-  - {text: "We can use those fossils of trees through time to reconstruct how the environment has changed.", start: 2003.29, end: 2010.41}
-  - {text: "So we've been able to reconstruct how the atmosphere has changed in terms of how much carbon dioxide there was in the past, how much oxygen there was in the past,", start: 2011.17, end: 2021.21}
-  - {text: "and also then if you've got greenhouse gases, you can plug that into a climate model, work with your climate colleagues, and you can reconstruct how climate has changed through time.", start: 2021.59, end: 2030.65}
-  - {text: "So when trees first start appearing, do they begin to oxygenate the atmosphere?", start: 2030.79, end: 2036.53}
-  - {text: "Yeah, so I think that there's a long transition, but the net effect of going from a treeless world to a world of forests and woody organisms and trees is that those trees sequestered, so they pulled carbon out of the atmosphere,", start: 2036.97, end: 2054.79}
-  - {text: "and then many of them, like the lycopods that Chris was talking about, rather than fungi breaking those trunks down and releasing the carbon back, that carbon was trapped in swamps and peats,", start: 2055.53, end: 2070.72}
-  - {text: "and the net effect over time, millions of years, is that carbon dioxide levels dropped from really high levels, really hot earth to a cool climate, and oxygen levels were increased.", start: 2070.72, end: 2082.98}
-  - {text: "So about 300 million years ago, we had this peak in oxygen.", start: 2083.52, end: 2087.60}
-  - {text: "It could have been higher than 25 % oxygen, but even 30 % oxygen, so much higher than today.", start: 2087.82, end: 2094.00}
-  - {text: "So does that mean that the methane, for example, that's being released from peat bogs and from permafrost and so on as the earth warms, is that those gases which trees originally stored?", start: 2094.62, end: 2111.48}
-  - {text: "So partly, I think any of the carbon in our fossil fuels, so coal, oil, is the remnants of photosynthesis from millions of years ago.", start: 2112.70, end: 2125.48}
-  - {text: "Yeah, so we're burning carbon that was stored millions of years ago and took millions of years to store, and we're releasing it rapidly into the atmosphere.", start: 2125.48, end: 2135.56}
-  - {text: "In a very short space of time, obviously.", start: 2135.60, end: 2137.88}
-  - {text: "Chris, as well as cooling the planet, trees also contributed to warming the planet.", start: 2138.92, end: 2146.04}
-  - {text: "Is that right? That's right.", start: 2146.24, end: 2147.96}
-  - {text: "I mean, I'm massively impressed by how much carbon can be sucked out of the atmosphere by trees.", start: 2148.20, end: 2152.78}
-  - {text: "It's amazing. If we look at the newer graphs of carbon dioxide changing over the year, in the northern hemisphere summer, we can pull out 1", start: 2152.96, end: 2160.48}
-  - {text: "% of the carbon dioxide in the atmosphere in one year.", start: 2160.48, end: 2164.40}
-  - {text: "It then gets released back again as the leaves sort of decay.", start: 2164.76, end: 2167.32}
-  - {text: "But so over millions of years, this has got to be a really serious thing.", start: 2167.54, end: 2170.98}
-  - {text: "So you can model that, as Jenny says.", start: 2171.82, end: 2174.24}
-  - {text: "And one interesting thing that I think out of all the papers I've read.", start: 2174.80, end: 2179.58}
-  - {text: "I've been down to South Africa, which was about 70 degrees south, back in the late Devonian.", start: 2180.74, end: 2186.38}
-  - {text: "And there's archaeoptery trees there.", start: 2186.98, end: 2188.66}
-  - {text: "And that's more near the pole than Reykjavik.", start: 2189.64, end: 2193.60}
-  - {text: "Why were there in the late Devonian trees there?", start: 2194.14, end: 2196.80}
-  - {text: "Because Jenny said that all this carbon dioxide being pulled out of the atmosphere, you'd expect that the planet would just get cooler and cooler and cooler.", start: 2196.86, end: 2204.48}
-  - {text: "But the models of my French colleagues actually suggest that the temperature stayed the same as all this carbon dioxide get pulled out of the atmosphere.", start: 2205.08, end: 2213.54}
-  - {text: "And in their model, which is a conceptual model, it's not real life, in their model, the growth and spread of the forests changes the way in which the Earth reflects sunlight.", start: 2214.14, end: 2224.58}
-  - {text: "So instead of the sunlight bouncing off bear rock and so on, and back into the space, that heat comes in, it hits the plants.", start: 2225.30, end: 2235.42}
-  - {text: "And as you know, tropical forests are very warm.", start: 2235.86, end: 2237.68}
-  - {text: "It absorbs heat and moisture and all the things that we've talked about.", start: 2237.68, end: 2241.22}
-  - {text: "And so the reverse effect of the forest spreading actually delayed the cooling of the planet.", start: 2241.68, end: 2248.12}
-  - {text: "And it wasn't till the very end of the Devonian that it sort of caught up.", start: 2248.40, end: 2251.48}
-  - {text: "And then we descend into an ice age in the early Carboniferous.", start: 2251.76, end: 2255.06}
-  - {text: "Bill Baker, we've heard how ancient trees evolved over millions of years.", start: 2256.29, end: 2263.75}
-  - {text: "Are trees still evolving now?", start: 2264.19, end: 2266.31}
-  - {text: "And do we know how they're evolving?", start: 2266.31, end: 2268.61}
-  - {text: "Absolutely, they are. It's a bit hard for us to see on our kind of human time scales.", start: 2269.05, end: 2274.71}
-  - {text: "But on evolutionary time scales, we know that there's still a lot going on.", start: 2274.85, end: 2279.69}
-  - {text: "So for example, we know that some groups are radiating really rapidly.", start: 2279.83, end: 2284.33}
-  - {text: "The Inga trees, for example, in the Amazon, really important trees to people and to the forest.", start: 2284.83, end: 2290.97}
-  - {text: "The Inga trees have produced 300 species in the last 10 million years, which is an astonishing rate of diversification.", start: 2291.97, end: 2298.93}
-  - {text: "We also know from islands, from weird things that happen on islands that trees are evolving.", start: 2299.59, end: 2305.63}
-  - {text: "Islands, there's a thing called island syndrome where you get, for example, gigantism.", start: 2306.35, end: 2312.45}
-  - {text: "Think of a giant tortoise on the Galapagos or flightlessness in birds like the dodo, the now extinct dodo.", start: 2312.63, end: 2321.37}
-  - {text: "Well, in plants, we get what we call insular woodiness.", start: 2321.79, end: 2325.03}
-  - {text: "Which is when formerly herbaceous lineages become woody, not necessarily trees, but they become woody.", start: 2326.43, end: 2332.65}
-  - {text: "So for example, in the Canary Islands, there are 41 independent lineages that have done that.", start: 2332.81, end: 2338.93}
-  - {text: "So you get sort of thistles that are now quite, you know, well, they're stumpy trees.", start: 2340.67, end: 2344.57}
-  - {text: "My favorite is one that I've been lucky enough to see on Lord Howe Island, which is a little flake of a remnant volcano two hours flight east of Sydney.", start: 2344.97, end: 2354.75}
-  - {text: "And there you can find a relative of the African violet, which many listeners will grow on their windowsill, a little mushy houseplant.", start: 2354.75, end: 2363.91}
-  - {text: "But it's a great big tree.", start: 2364.39, end: 2366.97}
-  - {text: "And it's a bizarre experience as a botanist to see something you really associate with the forest understory there, with its sort of spectacular waxy orange flowers.", start: 2368.61, end: 2380.89}
-  - {text: "They call it the pumpkin tree, I think because of the colour of the flowers.", start: 2381.07, end: 2384.87}
-  - {text: "And which one of you spoke about cabbages, which might be turning into trees?", start: 2385.45, end: 2390.13}
-  - {text: "Yes, that's the case.", start: 2390.15, end: 2391.05}
-  - {text: "That's the case in the Canary Islands.", start: 2391.97, end: 2393.57}
-  - {text: "What is a wooden cabbage, tell me.", start: 2393.65, end: 2396.13}
-  - {text: "Not especially handsome, but nor particularly tasty, I suspect.", start: 2397.59, end: 2402.45}
-  - {text: "But you see this happening on different islands, so it's really important in Hawaii as well.", start: 2402.91, end: 2406.95}
-  - {text: "And it can also happen on what we call sky islands.", start: 2408.35, end: 2412.67}
-  - {text: "So if you like seeing mountains as island in a terrestrial landscape.", start: 2413.13, end: 2419.43}
-  - {text: "So, for example, in the Andes, in the last two million years, the lupins have turned into shrubs and trees, producing 80 different species.", start: 2419.59, end: 2428.83}
-  - {text: "It's completely mind boggling.", start: 2429.27, end: 2430.55}
-  - {text: "Jenny, tell us towards the end now whether you can predict which trees will, I mean, given the project you're involved in, which trees are going to survive?", start: 2431.13, end: 2443.91}
-  - {text: "Can you model the trees against the trajectory of climate change?", start: 2444.13, end: 2448.37}
-  - {text: "We can do that, but I don't think we can give you the answer, yes.", start: 2448.99, end: 2452.33}
-  - {text: "And I don't really, I think everybody's trying, but we're not there, yes.", start: 2452.49, end: 2456.67}
-  - {text: "But I think we have to, as scientists, use all the tools possible.", start: 2457.07, end: 2461.49}
-  - {text: "So, again, going back to Peleobotany, what we can do is, I think we can look at the rich fossil history of Britain and Ireland and look at what trees, what species were growing", start: 2461.75, end: 2474.41}
-  - {text: "two million years ago or 25 million years ago when we know the climate was similar to our climate future.", start: 2475.09, end: 2482.45}
-  - {text: "So, we're kind of going back, we're going, I can't even think where we're going, but we're going into our futures more similar to the warm climates of the past.", start: 2482.97, end: 2492.33}
-  - {text: "For example, in Ireland, the west coast of Ireland, Connemara, two million years ago, we had pecans, we had Japanese umbrella pine that's today only found in Japan.", start: 2492.83, end: 2504.79}
-  - {text: "And then if you go further back, 25 million years ago, the whole of Northern Ireland, Northern Britain was covered in swamp cypress and these trees are,", start: 2505.53, end: 2514.57}
-  - {text: "you find them today in Alabama and the bays of America and they're extinct from Europe today.", start: 2514.79, end: 2523.14}
-  - {text: "So, presumably that means that the soil that exists in Ireland is good enough or adaptable enough to once again host trees like that.", start: 2523.52, end: 2534.64}
-  - {text: "Yeah, I suppose it gives me a lot of hope that they're, you know, I kind of said, well, we don't know what's resilient, but we know that biology is incredibly resilient.", start: 2535.32, end: 2546.10}
-  - {text: "Bill's given us wonderful examples and it's amazing how rapidly things can adapt to their environments.", start: 2546.28, end: 2553.68}
-  - {text: "Well, on that note of optimism, I'd like to thank my guests, Bill Baker, Chris Berry and Jenny McElwain.", start: 2554.62, end: 2561.48}
-  - {text: "Next week, we'll be discussing Machado de Assis, the grandson of freed slaves and the towering figure of Brazilian 19th century literature.", start: 2562.22, end: 2571.22}
-  - {text: "Thank you for listening.", start: 2571.84, end: 2572.96}
-  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2574.00, end: 2580.64}
-  - {text: "I sometimes start off by saying, is there anything else you want to add?", start: 2581.36, end: 2586.06}
-  - {text: "But I wanted to ask a question first of all and that is the relationship symbiotic or otherwise between animal life forms and trees as they evolve.", start: 2586.48, end: 2599.18}
-  - {text: "How do animals impact on trees?", start: 2599.48, end: 2602.06}
-  - {text: "Who wants to go?", start: 2602.42, end: 2603.22}
-  - {text: "I guess it might be easier to try to address that in the flowering plants because in a sense a lot of the evidence is still there and the experience of seeing", start: 2604.60, end: 2615.02}
-  - {text: "birds pollinating and insects doing their thing is around us all the time and leads us to suspect that, for example, you know, okay, it's not a tree,", start: 2615.70, end: 2625.78}
-  - {text: "but the fact that there are 25, 30 ,000 species of orchid is probably to do with their pollination interactions.", start: 2625.86, end: 2632.10}
-  - {text: "And it's worth saying, I mentioned earlier, that when we look at how the flowering plants have diversified over time, we see this big rush at the beginning.", start: 2632.88, end: 2641.54}
-  - {text: "But there's actually also a sort of follow -up rush that is observable in the sort of 40 million year kind of area.", start: 2642.02, end: 2650.02}
-  - {text: "And we struggle to work out what that might be.", start: 2650.14, end: 2652.54}
-  - {text: "But one of the reasons for that could be positive feedbacks from the growth of importance, the evolution of important animal lineages that then lead plants to diversify.", start: 2652.66, end: 2662.22}
-  - {text: "I haven't given you a tree specific answer because that's a bit harder to tackle.", start: 2662.72, end: 2667.26}
-  - {text: "But I mean, presumably, I mean, trees are mentioned in the introduction about trees being used by human beings in a variety of ways.", start: 2667.64, end: 2676.42}
-  - {text: "But clearly they provide shelter and cooler environment for animal species.", start: 2676.80, end: 2682.22}
-  - {text: "I mean, if you look at the rain forest, it's teeming with animal life because of the trees, so they couldn't exist without those trees.", start: 2682.50, end: 2689.90}
-  - {text: "You can see you've hit us.", start: 2690.20, end: 2691.80}
-  - {text: "We're not zoologists. We've gone very quiet.", start: 2692.12, end: 2695.78}
-  - {text: "One of my favorite examples of this would be from the carboniferous, so the carboniferous forest.", start: 2697.74, end: 2704.74}
-  - {text: "Probably worth saying that if people want to go and see fossil forest in Britain, then head to Victoria Park in Glasgow or to the Brumbo fossil forest near Wrexham.", start: 2705.70, end: 2716.22}
-  - {text: "You can see big fossil lycopod trees in the ground.", start: 2716.72, end: 2720.20}
-  - {text: "There's even a beach in Wales, which a bit of a secret at the moment, but where you can see similar things.", start: 2720.30, end: 2725.16}
-  - {text: "And in Nova Scotia on joggins, there is a fantastic place called a joggins fossil forest where you can see the bases of these lycopod trees, just like it as in Britain.", start: 2725.98, end: 2737.16}
-  - {text: "But a hundred or more years ago, it was found that there were reptiles actually in the trees and that they were living or falling into the bases of these rotting trees.", start: 2737.74, end: 2749.78}
-  - {text: "And some of our best evidence of what early reptilian life was like comes from inside these trees.", start: 2750.38, end: 2756.94}
-  - {text: "So that's quite remarkable.", start: 2757.26, end: 2758.36}
-  - {text: "And I think also even if you don't have a good fossil record of the animals or the insects, we have trace fossils.", start: 2759.34, end: 2769.70}
-  - {text: "So we have the indirect evidence.", start: 2770.02, end: 2771.54}
-  - {text: "So often we will look at the fossil leaves and we can see very diagnostic feeding behaviour.", start: 2771.84, end: 2776.66}
-  - {text: "So we see mining and margin feeding and hole feeding.", start: 2777.08, end: 2782.30}
-  - {text: "And in some cases, colleagues and pennybuttons have been able to identify the first occurrence of a beetle or the first occurrence of a bee, not based on the body fossil of the animal, but on its diagnostic feeding behaviour.", start: 2782.30, end: 2795.90}
-  - {text: "On the leaf. Yeah, preserved on the leaves.", start: 2796.46, end: 2799.06}
-  - {text: "And what about, Bill, you mentioned gigantism.", start: 2799.44, end: 2802.40}
-  - {text: "What about in trees, things like the sequoia, the redwood forests in, I mean, you know, I've seen, I haven't seen the big fat ones, but I've been in San Francisco to see these unbelievably tall trees.", start: 2802.90, end: 2818.20}
-  - {text: "How did they emerge?", start: 2818.46, end: 2819.32}
-  - {text: "So we know that the tallest living tree recorded is about 116 metres tall.", start: 2819.72, end: 2826.66}
-  - {text: "And I was looking at a good analogy.", start: 2827.46, end: 2829.32}
-  - {text: "I think Big Ben is around 80, 90 metres.", start: 2829.94, end: 2832.66}
-  - {text: "So it's taller than Big Ben.", start: 2833.16, end: 2834.46}
-  - {text: "Wow. And there's a group of physicists mainly and plant scientists in Berkeley, and they actually did a really nice theory paper and they asked, what is the limit of tree height?", start: 2834.46, end: 2846.52}
-  - {text: "And they determined it's about 140 metres.", start: 2846.74, end: 2848.92}
-  - {text: "And what limits a tree from ever getting taller than that is that wood, those xylem cells, suck water up under tension and negative pressure.", start: 2849.50, end: 2860.26}
-  - {text: "And the water has to get from the roots all the way up to the leaves at 130 metres tall of the tree.", start: 2860.62, end: 2867.14}
-  - {text: "And you break that flow of water.", start: 2867.14, end: 2870.88}
-  - {text: "Bill mentioned it in his palm.", start: 2871.34, end: 2873.14}
-  - {text: "So you break the flow.", start: 2873.32, end: 2874.42}
-  - {text: "And the leaves at the top of the tallest tree are actually almost living in a desert.", start: 2875.18, end: 2879.86}
-  - {text: "They're so water starved that a tree cannot get taller because they would no longer be able to photosynthesize because they need water to exchange for carbon.", start: 2880.18, end: 2888.16}
-  - {text: "So the limit of tree height is a hard line.", start: 2888.98, end: 2892.88}
-  - {text: "It's about 135 metres.", start: 2893.04, end: 2894.50}
-  - {text: "Nothing is ever can get taller or has got taller that we know of.", start: 2894.50, end: 2898.46}
-  - {text: "And this may be a stupid follow -up question, but in somewhere like the Amazon where you have these monumental rainfalls, the flying, the so -called flying river,", start: 2898.54, end: 2909.64}
-  - {text: "is there any way that the canopy can extract water other than sucking it up from the ground?", start: 2910.10, end: 2916.18}
-  - {text: "I don't think so.", start: 2916.74, end: 2917.78}
-  - {text: "Is there? You're nodding.", start: 2917.88, end: 2918.70}
-  - {text: "I'm out of my depth here.", start: 2920.06, end: 2921.36}
-  - {text: "So I suppose fog.", start: 2921.36, end: 2923.18}
-  - {text: "So you can get deposition of fog onto a leaf surface.", start: 2923.46, end: 2926.92}
-  - {text: "And most of the water supply is up from the roots, but plants, they actually can take up a certain amount of moisture through their cuticle, but it's a tiny, tiny amount.", start: 2927.62, end: 2938.86}
-  - {text: "What else did we miss out in the programme?", start: 2940.02, end: 2942.68}
-  - {text: "I just wanted to make another plug for the palm family, if I may.", start: 2942.94, end: 2945.48}
-  - {text: "Please do. That, yeah, the 100 -something metre sequoia is totally awesome, but the palms still beat that in terms of total stem length, not in a tree form,", start: 2946.38, end: 2959.68}
-  - {text: "but there is a whole group of palms that have evolved from trees to become climbers, the so -called ratans of the cane furniture industry and the longest stem", start: 2959.68, end: 2969.90}
-  - {text: "that doesn't sort of root along its length.", start: 2969.90, end: 2972.60}
-  - {text: "It was reported to be something like 200 metres long.", start: 2972.74, end: 2976.22}
-  - {text: "I think there was said to be a longer one, but an elephant chewed it up before it could be measured, but it isn't, it's a pretty poor point to score there, Jenny,", start: 2976.22, end: 2987.44}
-  - {text: "because of course the ratan is constantly slipping out of the canopy and it's not 200 metres in vertical height.", start: 2987.62, end: 2995.78}
-  - {text: "It's producing coils of stem on the floor, which so it's not having to deal with that tug of war against gravitational pull.", start: 2995.78, end: 3004.20}
-  - {text: "And tell me, Chris, in terms of those trees which grew along the ground, the first trees, do they exist any more anywhere?", start: 3004.20, end: 3015.30}
-  - {text: "So not in the, it's an extinct group of plants, but if you do go into tropical forests, you can see all sorts of plants which have very, very similar habits,", start: 3016.52, end: 3026.32}
-  - {text: "usually using trees, upright trees as a sort of prop, and sometimes with little prop roots and things.", start: 3027.30, end: 3034.04}
-  - {text: "And when we had to reconstruct what this plant looked like, we did go into a botanical garden and go round and look at some things which might have a similar sort of reason for being and so on and look for a model, which is what I quite often do.", start: 3034.42, end: 3051.02}
-  - {text: "I go, because I, anybody listening to this who's a botanist would be going, Chris, he's not a botanist.", start: 3051.16, end: 3056.20}
-  - {text: "I think it's quite obvious that I'm the geologist here, but I do like going into botanical gardens and looking at the plants and trying to work out how they grow, why they grow,", start: 3056.46, end: 3066.48}
-  - {text: "and what are the analogies to these really ancient plants.", start: 3066.66, end: 3069.74}
-  - {text: "And so that there are analogous things, but there's not the same thing.", start: 3070.16, end: 3073.62}
-  - {text: "And can someone tell me about the Wallamy Pine and what the Wallamy Pine is and why it's important?", start: 3074.06, end: 3079.42}
-  - {text: "So the Wallamy Pine is a beautiful tree, which three of my colleagues have in their gardens growing at various different heights.", start: 3080.62, end: 3089.18}
-  - {text: "So it's one of an example like the Dawn Redwood and various other things of a plant which has a morphology, which you can sort of see in the past.", start: 3089.46, end: 3098.68}
-  - {text: "It's related to agathists and to Arakari and various other types of coniferous tree.", start: 3098.86, end: 3104.58}
-  - {text: "For my point of view, it was discovered in Australia relatively recently and has been cultivated and spread around the world.", start: 3105.32, end: 3113.72}
-  - {text: "From my point of view, I like it because it's an example.", start: 3114.00, end: 3118.36}
-  - {text: "I've been looking for years and years using this analogy example for a vertical upright trunk, which just has small leafy branches coming off it to see how far a tree can get that just has small leafy branches.", start: 3118.48, end: 3132.46}
-  - {text: "And it does that, it produces small leafy branches and I had a photograph of one from the parking card if on my phone.", start: 3133.20, end: 3139.76}
-  - {text: "And I thought, I've got to go back and see that because it was about two meters tall when I took the photograph.", start: 3139.88, end: 3144.36}
-  - {text: "I just went back to see it and it's now eight meters tall.", start: 3144.72, end: 3147.12}
-  - {text: "It's absolutely gorgeous. With these leafy branches, eventually some of those branches will start turning into subsidiary trunks and growing upright and it'll do all sorts of interesting things.", start: 3147.28, end: 3158.34}
-  - {text: "But at the moment, it's a really nice analogy for the sort of early Archaeoptery's trees that we have from 370 million years ago.", start: 3158.70, end: 3167.86}
-  - {text: "Yeah, so they came from Australia, right?", start: 3167.88, end: 3169.14}
-  - {text: "Correct, yes, from one of me.", start: 3169.18, end: 3170.86}
-  - {text: "And thought, they were thought to be extinct, is that right?", start: 3171.92, end: 3175.48}
-  - {text: "Yeah, so I think it's really remarkable that a tree was discovered, not known to science and it was, I think it was climbers or abseilers and they went down into a gorge outside Sydney,", start: 3175.88, end: 3188.62}
-  - {text: "very inhospitable, you know, people don't go there and found this grove of trees.", start: 3189.20, end: 3194.14}
-  - {text: "So for conservation purposes, Botanic Gardens all over the world now host Wallamy Pines but also genetic variants of them and this is, it's called a conservation horticulture collection.", start: 3194.90, end: 3208.36}
-  - {text: "So it's a way of ensuring the longevity of that incredible tree into the future by kind of sending it to other places to look after, kind of like plant zoos.", start: 3208.66, end: 3219.54}
-  - {text: "We actually have included it in our witness tree projects.", start: 3220.02, end: 3223.30}
-  - {text: "So it is one of our trees that we're monitoring every year to see how it responds to climate change and also to see how it takes up atmospheric pollution in the city environment.", start: 3223.44, end: 3232.32}
-  - {text: "Yeah, because it wasn't in city environments at all, was it?", start: 3232.32, end: 3236.92}
-  - {text: "No, not at all.", start: 3237.02, end: 3237.62}
-  - {text: "But it seems to be tough as old boots.", start: 3237.72, end: 3239.02}
-  - {text: "I mean, it's growing like the clappers at Kew and yeah, really interesting.", start: 3239.24, end: 3243.88}
-  - {text: "You've got a Wallamy too.", start: 3243.90, end: 3244.94}
-  - {text: "We've got quite a few, yeah.", start: 3245.18, end: 3246.54}
-  - {text: "Well, I think I shall be visiting Kew once again fairly soon and if I may, when I next go to Dublin, Jenny, I will come and see the Trinity Botanic Gardens.", start: 3248.40, end: 3259.88}
-  - {text: "Please do. You're welcome.", start: 3260.18, end: 3261.38}
-  - {text: "Well, thank you very much.", start: 3261.38, end: 3263.04}
-  - {text: "I think we all deserve a cup of tea or a cup of coffee.", start: 3263.14, end: 3265.60}
-  - {text: "That would be good.", start: 3265.82, end: 3266.30}
-  - {text: "Oh, here he comes.", start: 3266.72, end: 3267.54}
-  - {text: "Tea or coffee? Coffee.", start: 3268.18, end: 3269.32}
-  - {text: "I can let myself have a coffee now because it doesn't matter if I speak too quickly.", start: 3269.50, end: 3273.60}
-  - {text: "A coffee would be gorgeous.", start: 3274.34, end: 3275.54}
-  - {text: "Thank you. Tea please.", start: 3275.86, end: 3276.86}
-  - {text: "There are plenty of coffee's.", start: 3277.38, end: 3278.78}
-  - {text: "Coffee is a tree.", start: 3278.80, end: 3279.62}
-  - {text: "And chocolate is a tree.", start: 3279.94, end: 3281.30}
-  - {text: "And tea is really, if you let it go, if you weren't permanently removing it to make tea.", start: 3281.76, end: 3286.08}
-  - {text: "In our time with Misha Glenny is produced by Simon Tillitson and it's a BBC Studios production.", start: 3287.72, end: 3293.32}
-  - {text: "This is a nightmare.", start: 3295.42, end: 3296.24}
-  - {text: "I need to get out of here because I do not want them to see me.", start: 3296.96, end: 3299.32}
-  - {text: "A search across borders in some tricky situations.", start: 3299.78, end: 3303.36}
-  - {text: "Shoot, there's a boat in the back of that car.", start: 3303.82, end: 3305.28}
-  - {text: "Yeah, there is. No, no, no, don't get out.", start: 3305.74, end: 3307.12}
-  - {text: "Watching smugglers who bring thousands of people to the UK.", start: 3307.54, end: 3311.24}
-  - {text: "They have gone, they have knives.", start: 3311.54, end: 3312.94}
-  - {text: "They have no sheen.", start: 3313.54, end: 3314.90}
-  - {text: "And at the top, a man who keeps his identity well hidden.", start: 3315.06, end: 3318.72}
-  - {text: "If they know I'm talking about them, they come tonight, they will kill me.", start: 3318.72, end: 3322.62}
-  - {text: "Can we find out who he is?", start: 3323.52, end: 3325.82}
-  - {text: "From Radio 4, this is Intrigue to Catch a King.", start: 3326.56, end: 3329.56}
-  - {text: "Listen first on BBC Sounds.", start: 3330.52, end: 3332.64}
+  - {text: "There's not a story that we won't cover on Woman's Hour, it's basically why is this relevant and important to women.", start: 7.20, end: 14.24, zh: "在《女人时间》节目里，没有我们不会报道的故事，关键在于这件事对女性来说为什么相关且重要。（Woman's Hour 《女人时间》，BBC广播4台的一档女性话题节目；relevant 相关的，切题的）"}
+  - {text: "I get to speak to some incredible women, I get to hear their stories, I get to laugh and cry along with them.", start: 14.54, end: 21.08, zh: "我有机会与一些了不起的女性交谈，聆听她们的故事，与她们同喜同悲。（incredible 难以置信的，极好的；along with 和……一起）"}
+  - {text: "People trust the conversations that take place, I think they know that they're going to get something that's a little bit different, I think I have one of the best jobs in broadcasting.", start: 21.26, end: 29.58, zh: "人们信任这里发生的对话，我觉得他们知道能听到一些与众不同的内容，我认为我拥有广播界最好的工作之一。（broadcasting 广播业，广播电视行业）"}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 30.20, end: 32.94, zh: "《女人时间》，请在BBC Sounds收听。（BBC Sounds BBC的音频流媒体平台）"}
+  - {text: "Hi, this is Misha Gleney.", start: 34.41, end: 36.41, zh: "大家好，我是米莎·格伦尼。（Misha Gleney 米莎·格伦尼，BBC记者）"}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts, but if you can't wait, head over to BBC Sounds where you can", start: 36.73, end: 45.37, zh: "《我们的时代》节目每周会在你获取播客的地方更新，但如果你等不及，可以去BBC Sounds，在那里你可以……（In Our Time 《我们的时代》，BBC Radio 4的知识类播客；archive 档案，资料库）"}
+  - {text: "listen to the latest episodes a month earlier than anywhere else.", start: 45.37, end: 49.49, zh: "比其他任何地方提前一个月收听最新剧集。（a month earlier 提前一个月；anywhere else 其他任何地方）"}
+  - {text: "This is In Our Time from BBC Radio 4 and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 50.17, end: 58.99, zh: "这是来自BBC Radio 4的《我们的时代》，这是你可以在《我们的时代》档案库中找到的超过一千集节目之一。（BBC Radio 4 BBC第四电台；archive 档案，资料库）"}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 59.65, end: 64.71, zh: "本期节目的阅读书单可以在你收听节目的任何平台的剧集描述中找到。（reading list 阅读书单；episode description 剧集描述，节目简介）"}
+  - {text: "I hope you enjoy the programme.", start: 65.27, end: 66.67, zh: "希望你喜欢这档节目。（programme 节目，广播节目）"}
+  - {text: "Hello. We might take them for granted in parks, in our streets and in forests, yet trees play a crucial role in regulating our climate and providing the air we breathe.", start: 67.95, end: 79.67, zh: "大家好。我们可能在公园、街道和森林里对树木习以为常，但它们在调节气候和提供我们呼吸的空气方面起着至关重要的作用。（take for granted 视为理所当然；crucial 关键的，至关重要的）"}
+  - {text: "We build with them, rely on them for food and shelter, use them for paper, clothing, medicine and energy.", start: 80.27, end: 87.57, zh: "我们用树木建造房屋，依赖它们获取食物和庇护，还利用它们生产纸张、衣物、药品和能源。（rely on 依赖，依靠；shelter 庇护所，住所）"}
+  - {text: "But trees aren't simply a backdrop to human life.", start: 88.30, end: 91.56, zh: "但树木不仅仅是人类生活的背景。（backdrop 背景，衬托）"}
+  - {text: "They're the product of a deep evolutionary history that transformed our planet.", start: 91.78, end: 96.56, zh: "它们是漫长进化历史的产物，这段历史改变了我们的星球。（evolutionary 进化的，演化的）"}
+  - {text: "When they first appeared, they reshaped our ecosystems, altered the atmosphere and created entirely new environments on land.", start: 97.26, end: 105.66, zh: "当它们最初出现时，重塑了我们的生态系统，改变了大气层，并在陆地上创造了全新的环境。（ecosystems 生态系统；atmosphere 大气层）"}
+  - {text: "Well, with me to discuss the evolution of trees are Jenny McElwain, the 1711 Chair of Botany at Trinity College Dublin and Director of Trinity Botanic Gardens,", start: 106.30, end: 117.12, zh: "今天和我一起讨论树木进化的是三一学院植物学1711讲席教授兼三一植物园园长珍妮·麦克尔维恩，（Botany 植物学；Trinity College Dublin 都柏林圣三一大学）"}
+  - {text: "Christopher Berry, Senior Lecturer in Earth and Environmental Sciences at Cardiff University and Bill Baker, Senior Researcher at the Royal Botanic Gardens in Kew.", start: 117.74, end: 129.14, zh: "卡迪夫大学地球与环境科学高级讲师克里斯托弗·贝里，以及邱园高级研究员比尔·贝克。（Cardiff University 卡迪夫大学；Kew 邱园，位于伦敦的皇家植物园）"}
+  - {text: "Welcome to In Our Time and Jenny, let me start with you.", start: 129.72, end: 133.66, zh: "欢迎收听《我们的时代》，珍妮，我想先从你开始。（In Our Time 我们的时代，BBC Radio 4 的一档科学文化节目）"}
+  - {text: "I think like most of the listeners, I can say that I recognise a tree when I see one.", start: 133.90, end: 139.44, zh: "我想和大多数听众一样，我可以说，我一眼就能认出树。（recognise 认出，识别）"}
+  - {text: "But what is a tree?", start: 139.90, end: 141.28, zh: "但树到底是什么？（what is a tree 树是什么，这里指树的定义）"}
+  - {text: "Yeah, that's actually such a hard question.", start: 142.04, end: 144.74, zh: "是的，这其实是个非常难回答的问题。（hard question 难题，棘手的问题）"}
+  - {text: "Because we have to define a tree without using the word tree.", start: 145.38, end: 148.30, zh: "因为我们必须在定义“树”的时候，不能直接使用“树”这个词。（define 定义；without 没有，不）"}
+  - {text: "So there is actually, there's a lot of arguments and discussion among plant scientists about what a tree is.", start: 149.10, end: 154.50, zh: "所以实际上，植物学家们对于什么才算是一棵树，存在很多争论和讨论。（arguments 争论，辩论；plant scientists 植物学家）"}
+  - {text: "But what we can say is that it has to have a trunk, so a main stem, and it has to have a canopy.", start: 154.60, end: 161.10, zh: "但我们可以说，它必须有一个树干，也就是主茎，并且必须有一个树冠。（trunk 树干；main stem 主茎；canopy 树冠）"}
+  - {text: "And the canopy we think usually has leaves today, but not necessarily.", start: 161.78, end: 165.54, zh: "我们认为树冠通常长有叶子，但也不一定。（canopy 树冠；necessarily 必然地，一定）"}
+  - {text: "So it is a canopy of branches.", start: 166.02, end: 168.76, zh: "所以它是由树枝组成的树冠。（canopy 树冠；branches 树枝）"}
+  - {text: "That trunk has to not die back.", start: 169.58, end: 172.46, zh: "那个树干不能枯萎死亡。（die back 枯萎，凋谢，指植物部分死亡）"}
+  - {text: "So we have structures that look like trees, but they're actually flowers.", start: 172.46, end: 175.86, zh: "所以有些结构看起来像树，但实际上它们是花。（structures 结构；flowers 花）"}
+  - {text: "So what do we mean by die back?", start: 176.42, end: 178.10, zh: "那么“枯萎死亡”具体是什么意思呢？（die back 枯萎，凋谢）"}
+  - {text: "So it means that it's a perennial structure so that it will last for many, many years and not just die after one or two years.", start: 178.36, end: 187.50, zh: "这意味着它是一种多年生结构，可以持续很多很多年，而不是在一两年后就死亡。（perennial 多年生的；structure 结构）"}
+  - {text: "And then to be a tree, the trunk and the crown have to be self supporting.", start: 187.94, end: 192.16, zh: "而且要想成为一棵树，树干和树冠必须能够自我支撑。（crown 树冠；self supporting 自我支撑）"}
+  - {text: "So what that means is that this beautiful organism can't rely on leaning on a wall or before walls leaning on another tree or leaning on other vegetation.", start: 192.70, end: 203.02, zh: "这意味着这种美丽的生物不能依靠靠在墙上，或者在墙出现之前依靠其他树木或植被来支撑。（rely on 依靠；vegetation 植被）"}
+  - {text: "And then other people use a definition of a particular height and a particular width.", start: 203.98, end: 209.06, zh: "然后其他人会使用特定的高度和宽度来定义树。（definition 定义）"}
+  - {text: "So there's loads of arguments about that.", start: 209.36, end: 211.42, zh: "所以关于这一点有很多争论。（arguments 争论）"}
+  - {text: "But I think a good definition is a tree has to be above three meters.", start: 211.66, end: 215.80, zh: "但我认为一个好的定义是树必须高于三米。（meters 米）"}
+  - {text: "And then if you took your hand and a chest height measured the width of the trunk, it has to be wider than your hand to classify as a tree.", start: 216.34, end: 225.50, zh: "然后如果你用手在胸部高度测量树干的宽度，它必须比你的手宽才能被归类为树。（classify 归类）"}
+  - {text: "And then the big controversy comes with wood.", start: 225.74, end: 228.08, zh: "然后关于木材的大争议就来了。（controversy 争议）"}
+  - {text: "Yes. Tell us, tell us what is wood exactly?", start: 228.68, end: 231.70, zh: "是的。告诉我们，告诉我们木材到底是什么？（wood 木材）"}
+  - {text: "And can you have trees without wood?", start: 232.20, end: 233.94, zh: "而且你可以有没有木材的树吗？（wood 木材）"}
+  - {text: "Yes, we absolutely can have trees without wood.", start: 234.38, end: 236.80, zh: "是的，我们绝对可以有没有木材的树。（wood 木材）"}
+  - {text: "Some botanists are really strict and they say you can't be a tree unless you have wood.", start: 237.32, end: 241.06, zh: "有些植物学家非常严格，他们认为如果没有木质部就不能称为树。（botanists 植物学家；wood 木材，木质部）"}
+  - {text: "But I think that's far too strict.", start: 241.20, end: 243.88, zh: "但我觉得这标准定得太苛刻了。（strict 严格的，苛刻的）"}
+  - {text: "And if you think of a tree, it can be woodless.", start: 244.28, end: 247.50, zh: "如果你想到树，它其实可以没有木质部。（woodless 无木质部的）"}
+  - {text: "It can have wood.", start: 247.70, end: 248.42, zh: "它也可以有木质部。（wood 木材，木质部）"}
+  - {text: "Trees have worked out many ways of becoming a tree.", start: 248.96, end: 251.16, zh: "树木已经演化出许多成为树的方式。（worked out 想出，演化出）"}
+  - {text: "So what is wood?", start: 251.72, end: 252.62, zh: "那么，什么是木材呢？（wood 木材，木质部）"}
+  - {text: "Wood is a tissue made up of lots of cells.", start: 253.18, end: 256.82, zh: "木材是由许多细胞组成的组织。（tissue 组织；cells 细胞）"}
+  - {text: "And those cells are really complex and they are hollowed out.", start: 256.82, end: 260.98, zh: "这些细胞结构非常复杂，而且内部是中空的。（hollowed out 中空的）"}
+  - {text: "And they really look like straws in their simplest form.", start: 261.34, end: 264.40, zh: "在最简单的形态下，它们看起来就像吸管一样。（straws 吸管）"}
+  - {text: "So they have a hollow center and then the cell wall of the straw is thickened with a polymer that is called lignin.", start: 265.02, end: 271.40, zh: "它们有一个中空的中心，然后像吸管壁一样，细胞壁被一种叫做木质素的聚合物加厚了。（lignin 木质素；polymer 聚合物）"}
+  - {text: "And lignin enables that tree to self support and not fall down and not rely on other structures to lean on.", start: 271.94, end: 279.54, zh: "木质素让树木能够自我支撑，不会倒下，也不需要依靠其他结构来支撑。（lignin 木质素；self support 自我支撑）"}
+  - {text: "So if the tree has lignin, we call it wood.", start: 280.18, end: 284.16, zh: "所以如果树含有木质素，我们就称之为木材。（lignin 木质素）"}
+  - {text: "Actually, the Greek for wood is called xylem.", start: 284.16, end: 287.76, zh: "实际上，木材在希腊语中被称为木质部。（xylem 木质部）"}
+  - {text: "And that's what those cells are called wood cells are called xylem.", start: 287.86, end: 290.42, zh: "这些细胞被称为木材细胞，也就是木质部。（xylem 木质部）"}
+  - {text: "And before trees came along, what was happening with plants on earth?", start: 290.46, end: 295.30, zh: "在树木出现之前，地球上的植物状况如何？"}
+  - {text: "Yeah, so we kind of always think trees are ubiquitous today.", start: 295.62, end: 299.56, zh: "是的，我们通常认为如今树木无处不在。（ubiquitous 无处不在的）"}
+  - {text: "So we kind of think they've always been here.", start: 299.62, end: 301.10, zh: "所以我们总觉得它们一直存在于此。"}
+  - {text: "But if you look deep into evolutionary time using fossil plants between about 460 million years ago and 390 million years ago, the world was treeless.", start: 301.16, end: 311.68, zh: "但如果你深入演化时间，观察大约4.6亿年前到3.9亿年前的化石植物，会发现当时世界没有树木。（fossil 化石）"}
+  - {text: "And in actual fact, plants are just coming onto the earth's surface out of water and photosynthesizing.", start: 312.06, end: 319.54, zh: "事实上，植物刚刚从水中来到地球表面进行光合作用。（photosynthesizing 光合作用）"}
+  - {text: "So they're green. So if you could imagine, you would be walking in a world where you'd see lots of bear rock, very little soil.", start: 319.58, end: 326.72, zh: "所以它们是绿色的。想象一下，你行走在这样一个世界里，看到很多裸岩，几乎没有土壤。（bear rock 裸岩，此处指裸露的岩石）"}
+  - {text: "And the plants are leafless.", start: 327.36, end: 329.90, zh: "而且这些植物没有叶子。（leafless 无叶的）"}
+  - {text: "They are rootless and there are no trees.", start: 330.22, end: 333.16, zh: "它们没有根，也没有树。（rootless 无根的）"}
+  - {text: "So the highest plants are kind of brushing your ankle, touching your knee.", start: 333.52, end: 338.06, zh: "所以最高的植物大概只能扫到你的脚踝，或者碰到你的膝盖。（brushing 扫过，拂过）"}
+  - {text: "But there's no massive tree structures on the earth before the advent of trees.", start: 338.10, end: 342.52, zh: "在树木出现之前，地球上没有巨大的树木结构。（advent 出现，到来）"}
+  - {text: "So if they're if they're rootless, that means they're sort of like mosses or some or something.", start: 342.96, end: 348.04, zh: "如果它们没有根，那意味着它们有点像苔藓或者什么东西。（mosses 苔藓）"}
+  - {text: "Yeah, that's right. So evolutionary groups that have evolved in the earliest phase of the earth are mosses, liverworts.", start: 348.30, end: 357.40, zh: "没错。所以在地球最早期进化阶段出现的进化群体是苔藓和地钱。（liverworts 地钱，一种低等植物）"}
+  - {text: "There's also ferns. So these plants will reproduce by spores in the early record.", start: 357.72, end: 362.18, zh: "还有蕨类植物。所以在早期记录中，这些植物是通过孢子繁殖的。（spores 孢子）"}
+  - {text: "They're rootless, but they evolve roots.", start: 362.32, end: 364.16, zh: "它们起初没有根，但后来进化出了根。（evolve 进化，演化）"}
+  - {text: "And in the early record, they have no leaves, but they evolve leaves.", start: 364.44, end: 367.44, zh: "在早期记录中，它们没有叶子，但后来进化出了叶子。（early record 早期记录，指地质记录）"}
+  - {text: "OK, so Chris Berry, when did the first trees then arrive out of presumably out of this vegetation?", start: 368.04, end: 375.66, zh: "好的，克里斯·贝里，那么第一棵树是什么时候从这种植被中出现的呢？（presumably 大概，可能）"}
+  - {text: "And what did they look like?", start: 376.16, end: 377.34, zh: "它们当时长什么样？"}
+  - {text: "So the oldest trees I've seen are about three hundred and ninety three million years old from the beginning of the Middle Devonian period.", start: 377.76, end: 385.84, zh: "我见过的最古老的树大约有3.93亿年历史，来自中泥盆纪初期。（Middle Devonian period 中泥盆纪）"}
+  - {text: "And I suspect that a few million years before that, there's other types of simple tree leading up to these first trees that we know about.", start: 386.30, end: 394.30, zh: "我推测在那之前几百万年，还有其他类型的简单树木，逐渐演化成了我们已知的那些最早的树。"}
+  - {text: "And the first tree we have is a cladozolopsid tree, and it's called calamophyton, and it's an extinct type of organism.", start: 394.82, end: 401.72, zh: "我们已知的第一棵树是楔叶树，名叫Calamophyton，是一种已灭绝的生物。（cladozolopsid 楔叶树；calamophyton 楔叶树的一种）"}
+  - {text: "So just the definition of those two words.", start: 402.08, end: 405.58, zh: "所以先解释一下这两个词的定义。"}
+  - {text: "Cladozolopsid simply means that the wood is branched.", start: 406.52, end: 409.84, zh: "楔叶树的意思很简单，就是木材是分枝的。（Cladozolopsid 楔叶树）"}
+  - {text: "So inside the tree, there's lots of sort of a network of wood rather than a solid cylinder of wood that you might expect in an oak tree or something today.", start: 410.18, end: 418.36, zh: "所以树内部不是像今天的橡树那样实心的木质圆柱，而是由许多木质部分组成的网络结构。"}
+  - {text: "Got it. And the name of the tree is calamophyton.", start: 418.72, end: 421.34, zh: "明白了。这棵树的名字叫Calamophyton。（calamophyton 楔叶树的一种）"}
+  - {text: "So that's a strange word, which is, I think, a combination of a Greek word for reed and phyton, which means plant.", start: 421.50, end: 428.78, zh: "这是个奇怪的词，我认为它是希腊语中“芦苇”和“植物”（phyton）的组合。（phyton 植物）"}
+  - {text: "It was considered very simple when they first found small parts of it.", start: 429.04, end: 433.24, zh: "最初发现它的小部分时，人们认为它非常原始。"}
+  - {text: "So these are the first trees that we know of?", start: 433.48, end: 435.54, zh: "所以这些是我们已知的第一批树吗？"}
+  - {text: "Yes, they are. Now that we've been able to assemble the different bits that we've known about into one organism, which is a tree.", start: 435.72, end: 443.10, zh: "是的。现在我们已经能够把已知的不同部分拼凑成一个完整的生物体，也就是一棵树。（assemble 拼凑；organism 生物体）"}
+  - {text: "So it's a tree called calamophyton.", start: 443.62, end: 446.20, zh: "所以这是一种叫 Calamophyton 的树。（Calamophyton 拟蕨，一种早期植物）"}
+  - {text: "It's probably about two meters tall, consists of a trunk.", start: 446.82, end: 451.50, zh: "它大概有两米高，由树干组成。（trunk 树干）"}
+  - {text: "It has simple, but many roots at the bottom.", start: 451.94, end: 455.16, zh: "它的底部有许多简单但数量众多的根。"}
+  - {text: "And from the sides and particularly the top of the growing apex of the tree would be lots of branches.", start: 456.08, end: 462.18, zh: "从树的侧面，特别是生长点顶部，会长出许多树枝。（apex 顶端，生长点）"}
+  - {text: "Those branches look a bit like, I'd say, maybe monkey arms with very long fingers and attached to those fingers would be tiny little twiggy things which weren't leaves, but were probably photosynthesizing.", start: 462.68, end: 474.94, zh: "这些树枝看起来有点像，我想说，也许是长手指的猴子手臂，手指上附着细小的枝状物，它们不是叶子，但可能在进行光合作用。（photosynthesizing 光合作用）"}
+  - {text: "And this thing would have just grown upwards to probably about maybe two and a half meters.", start: 475.44, end: 479.40, zh: "这个东西只会向上生长，大概长到两米半左右。"}
+  - {text: "So Jenny wouldn't call it a tree, which is fine by me, actually.", start: 480.04, end: 483.62, zh: "所以珍妮不会称它为树，其实我也觉得没问题。"}
+  - {text: "But would you call it a tree then?", start: 484.22, end: 486.44, zh: "但你会称它为树吗？"}
+  - {text: "In its time it was a tree, but we might not call it a tree now.", start: 486.86, end: 490.88, zh: "在它存在的年代，它确实是一棵树，但按现在的标准我们可能不会这么叫它。（in its time 在它存在的年代）"}
+  - {text: "It was definitely something that we'd look up to if we were a small arthropod crawling around on the ground back in the middle Devonian.", start: 491.02, end: 498.92, zh: "如果我们在中泥盆纪是一只在地面爬行的小型节肢动物，那它绝对是我们会仰望的东西。（arthropod 节肢动物；Devonian 泥盆纪）"}
+  - {text: "So Jenny, not a tree?", start: 499.36, end: 500.90, zh: "所以珍妮，它不算树吗？"}
+  - {text: "I would call it a tree.", start: 501.10, end: 502.10, zh: "我会把它称为树。"}
+  - {text: "I have a broad definition of a tree.", start: 502.32, end: 504.04, zh: "我对树的定义比较宽泛。（broad definition 宽泛的定义）"}
+  - {text: "I just gave the strict one.", start: 504.22, end: 505.32, zh: "我刚才给的是严格定义。（strict one 严格的那个）"}
+  - {text: "OK, so we know about this because of the fossil record.", start: 506.10, end: 510.36, zh: "好的，我们知道这些是因为有化石记录。（fossil record 化石记录）"}
+  - {text: "Sticking with that, Chris, what do those fossil records tell us about the first forest?", start: 511.00, end: 516.82, zh: "顺着这个话题，克里斯，这些化石记录告诉了我们关于第一片森林的什么信息？"}
+  - {text: "The first forests I look at is occurring over the next period of about 10 million years.", start: 517.36, end: 524.56, zh: "我研究的第一片森林出现在随后大约一千万年的时期里。（occurring 出现，发生）"}
+  - {text: "So we find probably four really good examples of what these very primitive forests were like.", start: 524.82, end: 531.18, zh: "所以我们可能找到了四个非常好的例子，展示了这些原始森林的样子。（primitive 原始的）"}
+  - {text: "If we look at the first one that was known about the famous Gilboa fossil forest in upstate New York, we find these cladozolopsid trees like Callum fighton,", start: 531.80, end: 540.30, zh: "如果我们看最早被发现的、位于纽约州北部著名的吉尔博化石森林，我们会发现像卡卢姆·菲顿这样的克拉多索洛普西达类树木……（Gilboa 吉尔博；cladozolopsid 克拉多索洛普西达类，一种早期植物；Callum fighton 卡卢姆·菲顿，可能是人名或物种名误听）"}
+  - {text: "except by 10 million years later, they're actually about a meter in diameter at the base, maybe 10, 12 meters tall.", start: 540.34, end: 546.76, zh: "不过在一千万年后，它们的基部直径实际上达到了一米左右，高度可能在十到十二米之间。（diameter 直径；base 基部，底部）"}
+  - {text: "So really substantial trees.", start: 547.42, end: 549.16, zh: "所以真的是相当结实的树木。（substantial 结实的，相当大的）"}
+  - {text: "Yeah, we find in the sandstone quarry in upstate New York where this forest occurs, between meandering between those tree bases, we find a woody trunk, but which is lying along the ground.", start: 549.68, end: 561.84, zh: "是的，在纽约州北部这片森林所在的砂岩采石场里，在那些树干基部蜿蜒交错之间，我们发现了一段木质树干，但它横躺在地面上。（sandstone 砂岩；quarry 采石场；meandering 蜿蜒的，曲折的）"}
+  - {text: "It's a new type of plant called a neurophyte, very simple leaf -like twigs, again, on little branches.", start: 562.32, end: 570.28, zh: "这是一种叫神经叶植物的新型植物，有着非常简单的叶状小枝，同样长在细小的枝条上。（neurophyte 神经叶植物；twigs 小枝，细枝）"}
+  - {text: "If we go back maybe two million years before that, go down the hills, out of the Catskill Mountains, down into the Hudson Valley, there's another place called Kero.", start: 571.02, end: 581.06, zh: "如果我们往前回溯大约两百万年，从卡茨基尔山脉的山丘往下走，进入哈德逊河谷，那里有一个叫克罗的地方。（Catskill Mountains 卡茨基尔山脉；Hudson Valley 哈德逊河谷；Kero 克罗，地名）"}
+  - {text: "And there's another sandstone quarry there on the base of that quarry.", start: 581.50, end: 585.56, zh: "那里还有另一个砂岩采石场，在那个采石场的底部……（sandstone 砂岩；quarry 采石场）"}
+  - {text: "There are huge, great rooting systems.", start: 585.82, end: 587.90, zh: "那里有巨大的、庞大的根系系统。（rooting systems 根系系统）"}
+  - {text: "And that is the base of another woody tree.", start: 588.28, end: 591.08, zh: "那是另一棵木质树木的基部。（woody 木质的；base 基部）"}
+  - {text: "But this type of tree has learned to grow upright.", start: 591.30, end: 593.92, zh: "但这种树已经学会了直立生长。（upright 直立的）"}
+  - {text: "And you've been to the four major sites of the earliest fossilized trees that we know.", start: 594.52, end: 602.40, zh: "你去过我们已知的最早化石树木的四个主要遗址。（fossilized 化石化的；sites 遗址）"}
+  - {text: "Where are the other two?", start: 602.78, end: 603.88, zh: "另外两个在哪里？"}
+  - {text: "The other one, which is of a similar age to the two I've just described, is in Spitzbergen, about nearly 80 degrees north.", start: 604.20, end: 611.70, zh: "另一个与我刚才描述的两个年代相近的遗址位于斯瓦尔巴群岛，大约在北纬80度。（Spitzbergen 斯瓦尔巴群岛；equator 赤道）"}
+  - {text: "Though when that forest was alive, it was on the equator.", start: 612.44, end: 614.52, zh: "不过当那片森林还活着的时候，它位于赤道上。（equator 赤道）"}
+  - {text: "And there we see Lycopod trees growing, which is a third type of tree.", start: 615.00, end: 620.98, zh: "在那里我们可以看到石松树在生长，这是第三种类型的树。（Lycopod 石松）"}
+  - {text: "And that tree has a little bulbous base.", start: 621.30, end: 623.56, zh: "这种树有一个小小的球状基部。（bulbous 球状的）"}
+  - {text: "And then a trunk, which is just a column, which would have been covered in little leaves.", start: 623.92, end: 627.78, zh: "然后是一根树干，它只是一根柱子，上面会覆盖着许多小叶子。"}
+  - {text: "And when it got to a certain height, about three metres, it would then branch, start dividing into two and two and two and two and", start: 628.32, end: 636.00, zh: "当它长到一定高度，大约三米时，它就开始分枝，开始分成两个、两个、两个、两个……"}
+  - {text: "form probably an upright crown at the top of it.", start: 636.00, end: 638.88, zh: "在顶部形成一个直立的树冠。（crown 树冠）"}
+  - {text: "These trees are still excellent today in the form of little herbaceous plants.", start: 639.44, end: 643.28, zh: "这些树今天依然很优秀，以小型草本植物的形式存在。（herbaceous 草本的）"}
+  - {text: "And then the last and the oldest fossil forest and was found by a couple of Cambridge sedimentologists, Neil Davis and Will McMahon, down on the coast of Somerset.", start: 643.82, end: 654.22, zh: "最后也是最古老的化石森林，是由剑桥大学的两位沉积学家尼尔·戴维斯和威尔·麦克马洪在萨默塞特海岸发现的。（sedimentologists 沉积学家；Somerset 萨默塞特，英格兰西南部地区）"}
+  - {text: "And they sent me some pictures of some trees and they look a bit like a tire mark from a bicycle going across the sandstone.", start: 654.52, end: 661.62, zh: "他们给我发了一些树木的照片，看起来有点像自行车轮胎在砂岩上留下的痕迹。（sandstone 砂岩）"}
+  - {text: "And I recognised immediately the pattern of branches that are found in Calamifiedon, which is the oldest tree.", start: 662.22, end: 669.40, zh: "我立刻认出了那种分支模式，它存在于Calamifiedon中，那是最古老的树。（Calamifiedon 鳞木，一种史前植物）"}
+  - {text: "It's from about 390 million years.", start: 670.06, end: 672.46, zh: "它距今约3.9亿年。"}
+  - {text: "Thanks very much, Chris.", start: 672.96, end: 674.64, zh: "非常感谢你，克里斯。"}
+  - {text: "Bill Baker, from physical trees, early physical trees to trees as a metaphor, you've called the Tree of Life, Biology's periodic table.", start: 674.96, end: 685.62, zh: "比尔·贝克，从物理树木到早期物理树木，再到将树木作为隐喻，你曾称生命树为生物学的元素周期表。（metaphor 隐喻；periodic table 元素周期表）"}
+  - {text: "Can you explain what you mean by that?", start: 686.14, end: 687.96, zh: "你能解释一下这是什么意思吗？"}
+  - {text: "Well, metaphorical, the idea of the metaphorical tree of life has been around for thousands of years in religious, mythological, cultural contexts.", start: 688.54, end: 700.72, zh: "嗯，作为隐喻，生命树的概念在宗教、神话和文化背景中已经流传了数千年。（metaphorical 隐喻的）"}
+  - {text: "Think of the Tree of Life in the Garden of Eden or this great tree, Yggdrasil, that connected the nine realms of Norse mythology.", start: 701.10, end: 711.34, zh: "想想伊甸园里的生命树，或者北欧神话中连接九个世界的巨大世界树尤克特拉希尔。（Yggdrasil 尤克特拉希尔，北欧神话中的世界树）"}
+  - {text: "But what I'm talking about today is the evolutionary Tree of Life, so the genealogy of everything that lives and has lived.", start: 711.90, end: 719.70, zh: "但我今天谈论的是进化意义上的生命树，即所有现存和曾存在生命的谱系。（genealogy 谱系，家谱）"}
+  - {text: "And I liken it to the periodic table because the Tree of Life helps us understand the properties of living things, just like the periodic table helps us understand", start: 720.26, end: 733.66, zh: "我把它比作元素周期表，因为生命之树能帮助我们理解生物的特性，就像元素周期表帮助我们理解……（liken 比作；periodic table 元素周期表）"}
+  - {text: "the relationships and properties of the chemical elements.", start: 734.24, end: 737.64, zh: "……化学元素之间的关系和特性。（chemical elements 化学元素）"}
+  - {text: "So if you are looking to find your way through the complexity of biodiversity, the Tree of Life is like a roadmap.", start: 738.54, end: 746.66, zh: "所以，如果你想理清生物多样性的复杂性，生命之树就像一张路线图。（biodiversity 生物多样性；roadmap 路线图）"}
+  - {text: "It kind of cuts your workload down because, you know, you don't have to, if you're interested, for example, in a group of plants that might produce chemicals", start: 747.12, end: 754.92, zh: "它在一定程度上减轻了你的工作量，因为，比如说，如果你感兴趣的是某类可能产生……（cuts your workload down 减轻工作量）"}
+  - {text: "that could have medicinal value and you want to explore those plants for their medicinal properties.", start: 754.92, end: 760.68, zh: "……具有药用价值的化学物质，并且你想探索这些植物的药用特性。（medicinal value 药用价值）"}
+  - {text: "You don't have to look at every plant.", start: 760.96, end: 762.84, zh: "你不需要去查看每一株植物。"}
+  - {text: "You can use the Tree of Life and what we call its predictive power to direct your next sampling for a.", start: 762.84, end: 771.02, zh: "你可以利用生命之树及其所谓的预测能力，来指导你下一步的采样。（predictive power 预测能力；sampling 采样）"}
+  - {text: "So it's really central.", start: 771.56, end: 772.64, zh: "所以它真的处于核心地位。（central 核心的）"}
+  - {text: "It's the foundation of biology in many respects and indeed the kinds of things that Jenny and Chris have been talking about are all underpinned by concepts of the Tree of Life.", start: 773.26, end: 782.88, zh: "在很多方面，它是生物学的基础，而且珍妮和克里斯所谈论的那些内容，其实都建立在生命之树的概念之上。（foundation 基础；underpinned 支撑，基于）"}
+  - {text: "And you've been involved in the building of a complex Tree of Life at Q.", start: 783.02, end: 788.30, zh: "而你曾参与在Q……构建一棵复杂的生命之树。（building 构建）"}
+  - {text: "Can you explain to us how you go about doing that?", start: 789.02, end: 791.20, zh: "你能跟我们解释一下你是怎么做这件事的吗？（go about doing 着手做，进行）"}
+  - {text: "And what does it tell us specifically about the evolution of trees?", start: 791.20, end: 794.40, zh: "这具体能告诉我们关于树木进化的什么信息？（specifically 具体地；evolution 进化）"}
+  - {text: "In a perfect world, we'd be able to reconstruct the Tree of Life from what we see written in the rocks.", start: 795.28, end: 802.06, zh: "在理想情况下，我们本可以根据岩石中留下的记录重建生命之树。（reconstruct 重建；Tree of Life 生命之树，指生物进化谱系）"}
+  - {text: "The fossil record would tell us how everything is connected.", start: 802.30, end: 805.48, zh: "化石记录本应告诉我们所有事物之间是如何关联的。（fossil record 化石记录）"}
+  - {text: "But as Chris has just described very clearly, actually, the fossil record is very incomplete and it's difficult to piece together.", start: 805.92, end: 814.14, zh: "但正如克里斯刚才非常清楚地描述的那样，实际上化石记录非常不完整，很难拼凑起来。（incomplete 不完整的；piece together 拼凑，整合）"}
+  - {text: "But there there is another kind of fossil record.", start: 814.26, end: 817.00, zh: "但是，还有另一种类型的化石记录。（fossil record 化石记录）"}
+  - {text: "There's the molecular fossil record, which is effectively the changes in DNA that accumulate over time.", start: 817.38, end: 824.60, zh: "那就是分子化石记录，它实际上就是随时间推移在DNA中积累的变异。（molecular 分子的；accumulate 积累）"}
+  - {text: "All of us ourselves have DNA.", start: 824.72, end: 826.86, zh: "我们所有人自身都拥有DNA。（DNA 脱氧核糖核酸，遗传物质）"}
+  - {text: "That is what encodes our properties and functions and over time DNA mutates.", start: 827.68, end: 833.10, zh: "正是它编码了我们的性状和功能，而DNA会随时间发生突变。（encodes 编码；mutates 突变）"}
+  - {text: "Now, if you can pull together DNA code, DNA sequence, as we call it, from different species, but for the same parts of the genome and line those up, you're able to run it through a complex algorithm", start: 833.80, end: 847.36, zh: "现在，如果你能从不同物种中收集DNA序列——我们称之为DNA代码——针对基因组的相同部分，并将它们排列对齐，你就能将其输入一个复杂的算法中……（sequence 序列；genome 基因组；algorithm 算法）"}
+  - {text: "and infer a tree or recover a tree.", start: 847.88, end: 850.96, zh: "并推断出一棵树或恢复出一棵树。（infer 推断；recover 恢复，此处指重建谱系）"}
+  - {text: "We often talk about recovering as if it's a form of excavation, almost.", start: 851.06, end: 855.42, zh: "我们常把“恢复”说得好像是一种挖掘工作，差不多就是那样。（excavation 挖掘，发掘）"}
+  - {text: "We know that there is a tree out there, but that we have to somehow get to it through our molecular genetic shenanigans.", start: 856.06, end: 863.22, zh: "我们知道那里有一棵树，但我们必须通过分子遗传学的各种花招才能找到它。（shenanigans 花招，诡计，此处指复杂的技术手段）"}
+  - {text: "I mean, building the Tree of Life is a huge global endeavour.", start: 864.06, end: 866.82, zh: "我是说，构建生命之树是一项巨大的全球性事业。（endeavour 事业，努力）"}
+  - {text: "There are many, many researchers involved in this.", start: 866.90, end: 869.10, zh: "有许多许多研究人员参与其中。"}
+  - {text: "And at Q, it's been our bread and butter for decades.", start: 869.26, end: 871.86, zh: "在Q，这几十年来一直是我们的核心业务。（bread and butter 核心业务，生计来源）"}
+  - {text: "For the last decade, I've led a programme called the Plant and Fungal Trees programme at Q.", start: 872.50, end: 877.72, zh: "在过去十年里，我在Q领导了一个名为“植物和真菌之树”的项目。"}
+  - {text: "And we have recently, it sounds rather glib, we have recently completed the flowering plant, Tree of Life, by which I mean we have sequenced one representative of every genus of flowering plant.", start: 877.96, end: 889.30, zh: "最近，听起来有点轻描淡写，我们刚刚完成了开花植物的生命之树，意思是我们对每一种开花植物的属都测序了一个代表。（glib 轻描淡写的；genus 属，生物分类单位）"}
+  - {text: "Now, the flowering plants make up 90 % of the plants that grow on Earth today.", start: 889.78, end: 895.06, zh: "如今，开花植物占地球上生长植物的90%。"}
+  - {text: "Chris has not talked about flowering plants yet.", start: 895.82, end: 897.74, zh: "克里斯还没谈到开花植物呢。"}
+  - {text: "He's talked about things that come long before flowering plants, but there are 350 ,000 of them.", start: 897.84, end: 902.48, zh: "他谈到了比开花植物更古老的事物，但开花植物有35万种。（flowering plants 开花植物）"}
+  - {text: "We've sequenced about 90 % of the genera.", start: 902.48, end: 905.94, zh: "我们已经对大约90%的属进行了测序。（sequenced 测序；genera 属，生物分类单位）"}
+  - {text: "That represents about 98 % of the total diversity.", start: 906.04, end: 908.84, zh: "这代表了约98%的总多样性。（diversity 多样性）"}
+  - {text: "And we've done that using Q's amazing collections and really novel genomic methods.", start: 909.22, end: 915.06, zh: "我们利用Q令人惊叹的收藏和真正新颖的基因组方法做到了这一点。（genomic methods 基因组方法）"}
+  - {text: "And I think the thing we're most proud about is that everything that we have done is in the public domain and free for other people to use.", start: 915.30, end: 922.02, zh: "我认为我们最自豪的是，我们所做的一切都在公共领域，供其他人免费使用。（public domain 公共领域，指不受版权保护的内容）"}
+  - {text: "And it's been a really wonderful springboard for other people's research.", start: 922.16, end: 925.96, zh: "它已成为其他人研究的绝佳跳板。（springboard 跳板，比喻基础或起点）"}
+  - {text: "And are trees included in that?", start: 926.24, end: 928.40, zh: "树包含在其中吗？"}
+  - {text: "Because some of them are flowering and some of them aren't.", start: 928.74, end: 930.66, zh: "因为有些是开花的，有些不是。（flowering 开花的）"}
+  - {text: "Yes, so there are many tens of thousands of the 350 ,000 species of flowering plants are trees.", start: 930.66, end: 938.26, zh: "是的，在35万种开花植物中，有数万种是树。（species 物种）"}
+  - {text: "And what our Angiosperm Tree of Life shows us is that...", start: 938.52, end: 943.58, zh: "我们的被子植物生命之树向我们展示的是……（Angiosperm Tree of Life 被子植物生命之树；Angiosperm 被子植物）"}
+  - {text: "Angiosperm? Sorry, flowering plant.", start: 943.58, end: 945.44, zh: "被子植物？抱歉，就是开花植物。（Angiosperm 被子植物）"}
+  - {text: "Angiosperm is a synonym for flowering plants.", start: 945.60, end: 947.72, zh: "被子植物是开花植物的同义词。（synonym 同义词）"}
+  - {text: "Plants that produce flowers and produce true fruit.", start: 948.12, end: 952.02, zh: "这类植物会开花并结出真正的果实。（true fruit 真果）"}
+  - {text: "And so our flowering plant Tree of Life shows us very clearly that trees are not a group that they have originated repeatedly across this enormous group.", start: 952.64, end: 962.76, zh: "因此，我们的开花植物生命之树清晰地表明，树木并不是一个单一的类群，它们是在这个庞大的类群中多次独立起源的。（originated repeatedly 多次独立起源）"}
+  - {text: "We see a wonderful pattern in the way the flowering plants diversified very early on in their origin about 150 million years ago.", start: 963.02, end: 971.56, zh: "我们看到一个美妙的模式，开花植物在大约1.5亿年前起源之初就迅速多样化了。（diversified 多样化）"}
+  - {text: "There was this enormous surge in diversification.", start: 971.70, end: 974.02, zh: "当时发生了一次巨大的多样化激增。（surge 激增）"}
+  - {text: "All the major lineages, what we call the orders of flowering plants appearing.", start: 974.46, end: 978.86, zh: "所有主要的谱系，也就是我们所说的开花植物目，都出现了。（lineages 谱系；orders 目）"}
+  - {text: "But we don't think that they were trees at that time.", start: 979.20, end: 982.40, zh: "但我们认为当时它们还不是树木。（trees 树木）"}
+  - {text: "The first groups that popped off were flimsy shrubs and climbers.", start: 983.04, end: 988.20, zh: "最先分化出来的群体是脆弱的灌木和攀援植物。（flimsy 脆弱的；climbers 攀援植物）"}
+  - {text: "Or the water lilies, for example, they can't even make wood in their aquatics.", start: 988.20, end: 991.84, zh: "比如睡莲，它们作为水生植物甚至无法形成木质。（water lilies 睡莲；aquatics 水生植物）"}
+  - {text: "There's a lack of clarity about exactly what the sequence was of diversification.", start: 992.46, end: 997.22, zh: "关于物种多样化的具体顺序，目前还缺乏清晰的定论。（clarity 清晰度；diversification 多样化）"}
+  - {text: "But we know that trees were probably not there in the earlier stages.", start: 997.80, end: 1001.84, zh: "但我们要知道，在早期阶段，树木可能并不存在。（earlier stages 早期阶段）"}
+  - {text: "But by the end of the Cretaceous, they were very, very much present.", start: 1002.00, end: 1005.34, zh: "但到了白垩纪末期，它们已经非常普遍了。（Cretaceous 白垩纪；present 存在，普遍）"}
+  - {text: "OK, so as we've established, they've arrived around 380, 390 million years ago.", start: 1005.94, end: 1014.02, zh: "好的，正如我们之前确认的，它们大约在3.8亿到3.9亿年前出现。（established 确认；sequence 顺序，此处指时间线）"}
+  - {text: "Jenny McElwain, how did they start to change the environment?", start: 1014.02, end: 1018.56, zh: "珍妮·麦克尔文，它们是如何开始改变环境的？（Jenny McElwain 珍妮·麦克尔文，植物学家）"}
+  - {text: "Yeah, so I think we mostly think of trees.", start: 1019.26, end: 1021.90, zh: "是的，我认为我们主要把树木看作……（mostly 主要地）"}
+  - {text: "We use the term ecosystem engineer.", start: 1022.36, end: 1024.26, zh: "我们使用“生态系统工程师”这个术语。（ecosystem engineer 生态系统工程师）"}
+  - {text: "So they just build this structural complexity.", start: 1024.86, end: 1029.66, zh: "它们构建了这种结构上的复杂性。（structural complexity 结构复杂性）"}
+  - {text: "So if you imagine you've got 20 herbs, you know, they're not trees.", start: 1030.10, end: 1034.18, zh: "想象一下，如果你那里有20种草本植物，你知道，它们不是树。（herbs 草本植物）"}
+  - {text: "They're small in a space and now swap that with 20 trees.", start: 1034.34, end: 1038.02, zh: "它们在空间中很小，现在把这些换成20棵树。（swap 交换，替换）"}
+  - {text: "So the trees will increase the volume of complexity.", start: 1038.40, end: 1041.80, zh: "所以树木会增加复杂性的体量。（volume 体量，规模；complexity 复杂性）"}
+  - {text: "So as soon as you have trees, you begin to have layers of habitats.", start: 1041.80, end: 1047.08, zh: "因此，一旦有了树木，你就开始拥有分层的栖息地。（layers 层，分层；habitats 栖息地）"}
+  - {text: "So let's say you go hiking on a hot day.", start: 1047.84, end: 1050.46, zh: "比如说，你在一个炎热的日子去徒步。（hiking 徒步旅行）"}
+  - {text: "It's really hot. It's really drying, but you walk into a cool forest.", start: 1051.08, end: 1054.98, zh: "天气非常热，非常干燥，但你走进了一片凉爽的森林。"}
+  - {text: "You can feel the moisture increase.", start: 1055.18, end: 1056.92, zh: "你能感觉到湿度的增加。（moisture 湿度，水分）"}
+  - {text: "You can feel the shade and the cool.", start: 1057.12, end: 1058.82, zh: "你能感受到树荫和凉意。（shade 树荫，阴凉处）"}
+  - {text: "So what trees do in a space is they create microclimates.", start: 1059.52, end: 1064.70, zh: "所以树木在空间中创造的是微气候。（microclimates 微气候）"}
+  - {text: "They change the light.", start: 1065.38, end: 1067.28, zh: "它们改变了光照。"}
+  - {text: "So you now have understory plants.", start: 1067.58, end: 1069.28, zh: "于是你就有了林下植物。（understory 林下层，林下植物）"}
+  - {text: "You have middle story plants and you have canopy plants.", start: 1069.28, end: 1071.94, zh: "你有中层植物，还有树冠层植物。（canopy 树冠，树冠层）"}
+  - {text: "They change the humidity.", start: 1072.48, end: 1073.94, zh: "它们改变了湿度。"}
+  - {text: "They change the complexity of how everything interacts.", start: 1074.30, end: 1077.28, zh: "它们改变了万物相互作用的复杂程度。（complexity 复杂性）"}
+  - {text: "And they and this is just above ground, below ground.", start: 1078.40, end: 1082.42, zh: "而且它们不仅在地表以上，在地表以下也是如此……"}
+  - {text: "They're doing the same.", start: 1082.74, end: 1083.70, zh: "它们在做着同样的事情。"}
+  - {text: "So they're extracting elements from rocks, building soil, building relationships with fungi.", start: 1083.86, end: 1088.72, zh: "它们从岩石中提取元素，构建土壤，并与真菌建立关系。（extracting 提取；fungi 真菌）"}
+  - {text: "So per unit space, trees add complexity and they engineer space and climate and resources for other plants to come in and other animals and fungi, other groups to come in.", start: 1089.28, end: 1101.62, zh: "因此，在单位空间内，树木增加了复杂性，并为其他植物、动物、真菌及其他生物群落的进入改造了空间、气候和资源。（per unit space 单位空间；engineer 改造，构建）"}
+  - {text: "So very fundamental really in terms of how life evolves.", start: 1102.22, end: 1106.22, zh: "因此，就生命如何演化而言，这真的非常根本。（fundamental 根本的，基础的）"}
+  - {text: "Chris, are trees from 390 million years ago recognizable to us?", start: 1107.18, end: 1113.22, zh: "克里斯，三亿九千万年前的树木对我们来说还认得出来吗？"}
+  - {text: "Or are today's trees very, very different from what first emerged?", start: 1113.42, end: 1118.66, zh: "还是说今天的树木与最初出现的树木截然不同？"}
+  - {text: "And if so, where do those differences lie?", start: 1119.08, end: 1121.10, zh: "如果是这样，那些差异体现在哪里？"}
+  - {text: "So if we look at the archaeoptery, the one with the big roots that we saw at Cairo in the forest, this would be a recognizable form to us because it's got big, sturdy roots.", start: 1121.10, end: 1132.64, zh: "如果我们看看在开罗森林中见到的那种有着巨大根系的原始蕨类植物，我们会觉得它很眼熟，因为它长着粗壮的大根。（archaeoptery 原始蕨类，一种早期陆生植物；Cairo 开罗，埃及首都）"}
+  - {text: "It's got a woody trunk with some sort of bark on the outside of it.", start: 1132.82, end: 1136.78, zh: "它有着木质的树干，外面还包着一层树皮。（woody trunk 木质树干；bark 树皮）"}
+  - {text: "It may have branches, but it definitely has leafy, frond -like branches attached to it.", start: 1137.42, end: 1143.54, zh: "它可能长有树枝，但肯定长着像蕨叶一样的羽状分枝。（frond 蕨叶，蕨类植物的叶片；branches 树枝）"}
+  - {text: "So it would have nice green leaves and so it probably reached a height of maybe at that time, 20 meters or so.", start: 1143.56, end: 1149.38, zh: "所以它会有漂亮的绿叶，在那个时期，它的高度可能达到了二十米左右。（height 高度；meters 米）"}
+  - {text: "So does it look like something like a pine tree?", start: 1149.38, end: 1152.14, zh: "那它看起来像松树吗？（pine tree 松树）"}
+  - {text: "Yes, to a certain extent, that would be the basic thing that you might recognize as sort of leafy pine tree, if you could imagine such a thing.", start: 1153.38, end: 1161.52, zh: "是的，在某种程度上，你可以把它想象成一种长着叶子的松树，尽管现实中可能没有完全一样的。（to a certain extent 在某种程度上；recognize 认出，识别）"}
+  - {text: "The lycopods, such as we saw in Spitzburg and were quite different, I think, to anything that we really see today because they would grow up as a leafy trunk from the ground", start: 1162.20, end: 1172.30, zh: "我们在斯匹次卑尔根看到的石松类植物，我认为它们和今天任何植物都大不相同，因为它们会从地面长出带叶的树干。（lycopods 石松类植物；Spitzburg 斯匹次卑尔根，挪威群岛）"}
+  - {text: "and they would grow up to this time three meters, maybe, and then start branching and have this branching crown of leafy, smaller branches at the top, which would then terminate in a cone.", start: 1172.98, end: 1186.38, zh: "它们会长到大约三米高，然后开始分枝，顶部形成由较小带叶分枝组成的树冠，最后顶端会长出球果。（branching crown 分枝树冠；cone 球果，裸子植物的繁殖结构）"}
+  - {text: "That would be where the reproductive part was.", start: 1186.62, end: 1188.52, zh: "球果就是它的生殖部分所在。（reproductive part 生殖部分）"}
+  - {text: "And I don't really know of anything that looks particularly like that today.", start: 1188.88, end: 1193.24, zh: "我真的不知道今天有什么植物长得特别像它。（particularly 特别，尤其）"}
+  - {text: "There's some cactuses and things which maybe do a little something a little bit similar, but the claddysylopsids are really fairly unique because the way that", start: 1193.52, end: 1203.26, zh: "有一些仙人掌之类的植物可能做了一些类似的事情，但克拉克西洛普斯确实相当独特，因为它们的……（cactuses 仙人掌；claddysylopsids 克拉克西洛普斯，一种史前植物）"}
+  - {text: "they support themselves is with this very much divided woody structure.", start: 1203.26, end: 1207.18, zh: "它们支撑自身的方式是依靠这种高度分化的木质结构。（woody structure 木质结构）"}
+  - {text: "Around a hollow interior, it's a bit like the Eiffel Tower inside the plant, holding it up.", start: 1207.18, end: 1213.62, zh: "围绕着一个空心的内部，有点像植物体内的埃菲尔铁塔，支撑着它。（hollow interior 空心内部；Eiffel Tower 埃菲尔铁塔）"}
+  - {text: "And then with these monkey -armed branches on the side of them, which then dropping off as the apex grows upwards, it's a form that we might recognize from a palm.", start: 1213.94, end: 1223.90, zh: "然后侧面有这些像猴子手臂一样的树枝，随着顶端向上生长而脱落，这是一种我们可能从棕榈树身上认识到的形态。（monkey-armed branches 像猴子手臂一样的树枝；apex 顶端；palm 棕榈树）"}
+  - {text: "I'm sure Bill might talk about this or a tree fern, but without actually having any leaves.", start: 1224.06, end: 1230.04, zh: "我相信比尔可能会谈到这一点，或者树蕨，但实际上并没有叶子。（tree fern 树蕨）"}
+  - {text: "So a quite unusual type of structure, but quite distinctive.", start: 1230.38, end: 1234.70, zh: "所以这是一种相当不寻常的结构，但非常有特色。（distinctive 有特色的，独特的）"}
+  - {text: "So when do things like oaks and ashes and birches that we know today?", start: 1234.70, end: 1239.58, zh: "那么像我们今天所知道的橡树、白蜡树和桦树这类植物是什么时候出现的？（oaks 橡树；ashes 白蜡树；birches 桦树）"}
+  - {text: "When do they start evolving or do we not know?", start: 1239.78, end: 1241.76, zh: "它们是什么时候开始进化的，还是我们不知道？（evolving 进化）"}
+  - {text: "This will not be till probably about 200, 250 million years later.", start: 1241.78, end: 1246.26, zh: "这可能要等到大约两亿到两亿五千万年之后。（million years 百万年）"}
+  - {text: "So these early Devonian forests are really quite distinct.", start: 1246.70, end: 1250.42, zh: "所以这些早期的泥盆纪森林确实非常独特。（Devonian 泥盆纪，地质年代）"}
+  - {text: "And one thing you should perhaps recognize is that there's no seeds there.", start: 1250.78, end: 1254.30, zh: "还有一点大家或许应该意识到，就是那里没有种子。（recognize 意识到；seeds 种子）"}
+  - {text: "There's no flowers. There's almost no insects, maybe just millipedes, no birds.", start: 1254.40, end: 1260.16, zh: "那里没有花，几乎没有昆虫，也许只有马陆，也没有鸟类。（insects 昆虫；millipedes 马陆，一种多足节肢动物）"}
+  - {text: "Very low diversity, not this tropical ecosystem that we think of today as being a tropical forest.", start: 1260.82, end: 1267.58, zh: "生物多样性非常低，并不是我们今天所认为的那种热带森林生态系统。（diversity 多样性；tropical ecosystem 热带生态系统）"}
+  - {text: "This is really something very distinctive and without the level of interactions that Jenny's talked about, perhaps apart from the fungi in the soil, which might be quite interesting.", start: 1267.96, end: 1277.74, zh: "这其实是非常独特的，除了土壤中的真菌可能有点意思之外，缺乏珍妮刚才提到的那种互动水平。（distinctive 独特的；interactions 互动；fungi 真菌）"}
+  - {text: "Well, you mentioned tropical forests, rain forests.", start: 1277.94, end: 1281.48, zh: "嗯，你提到了热带森林和雨林。（tropical forests 热带森林；rain forests 雨林）"}
+  - {text: "Bill, you've done quite a lot of work on palms.", start: 1282.44, end: 1285.32, zh: "比尔，你做了很多关于棕榈树的研究。（palms 棕榈树）"}
+  - {text: "What can you tell us about palms and rainforests?", start: 1285.86, end: 1289.06, zh: "你能告诉我们关于棕榈树和雨林的什么信息吗？（palms 棕榈树；rainforests 雨林）"}
+  - {text: "Rain forests obviously are iconic places for trees.", start: 1289.06, end: 1293.06, zh: "雨林显然是树木的标志性场所。（iconic 标志性的；obviously 显然）"}
+  - {text: "They're also really important for biodiversity.", start: 1293.38, end: 1295.38, zh: "它们对生物多样性也至关重要。（biodiversity 生物多样性）"}
+  - {text: "We think maybe half of all plant species occur in rainforests, which take up just seven percent of the world's land surface area.", start: 1296.30, end: 1302.68, zh: "我们认为可能有一半的植物物种都分布在雨林中，而雨林仅占全球陆地面积的百分之七。（species 物种；land surface area 陆地表面积）"}
+  - {text: "So they're really important.", start: 1302.74, end: 1303.58, zh: "所以它们真的非常重要。"}
+  - {text: "And that idea begs the question, well, how on earth did that come about?", start: 1304.28, end: 1308.40, zh: "这个想法让人不禁好奇，这到底是怎么发生的？（begs the question 引发疑问；how on earth 究竟，到底）"}
+  - {text: "So the palms are a fruitful, provided fruitful line of inquiry on this subject, because palms are found all over the tropics.", start: 1309.24, end: 1318.70, zh: "因此，棕榈树在这个课题上是一条富有成果的研究线索，因为棕榈树遍布整个热带地区。（fruitful 富有成果的；line of inquiry 研究线索；tropics 热带地区）"}
+  - {text: "They're widespread, two and a half thousand species, but they are mechanically kind of bound to the tropics.", start: 1318.70, end: 1325.50, zh: "它们分布广泛，有两千五百个物种，但在机械结构上受限于热带环境。（mechanically 机械结构上；bound to 受限于，局限于）"}
+  - {text: "They can't cope with freezing on the whole.", start: 1325.62, end: 1328.28, zh: "总的来说，它们无法应对冰冻。（cope with 应对，处理；on the whole 总的来说）"}
+  - {text: "There are a few exceptions.", start: 1328.40, end: 1329.14, zh: "也有少数例外。"}
+  - {text: "Don't write in on the whole palms can't cope with freezing because freezing causes catastrophic embolism of their plumbing.", start: 1329.72, end: 1339.08, zh: "别写信来问为什么棕榈树通常无法应对冰冻，因为冰冻会导致其输水系统发生灾难性的气栓。（embolism 气栓，栓塞；plumbing 输水系统，管道）"}
+  - {text: "Basically, you get a bubble and it can't function anymore.", start: 1339.26, end: 1341.88, zh: "基本上，会出现气泡，导致其无法再正常工作。（bubble 气泡；function 功能，运作）"}
+  - {text: "So this makes them what we call niche conserve.", start: 1342.42, end: 1345.16, zh: "这使得它们成为我们所说的生态位保守者。（niche conserve 生态位保守者，指物种长期占据特定生态位且变化缓慢）"}
+  - {text: "They are bound to a certain environment.", start: 1345.16, end: 1348.32, zh: "它们被束缚在特定的环境中。（bound to 受限于，局限于）"}
+  - {text: "And as you can tell already, I love building the tree of life.", start: 1349.02, end: 1352.04, zh: "正如大家已经感受到的，我热爱构建生命之树。（tree of life 生命之树，指展示物种演化关系的树状图）"}
+  - {text: "And my early days were spent frenetically building a palm tree of life.", start: 1352.24, end: 1355.74, zh: "我早期的工作就是疯狂地构建棕榈树的生命之树。（frenetically 疯狂地，极度忙碌地；palm tree 棕榈树）"}
+  - {text: "And we have used that tree to try to see what that might tell us about the rainforest by combining it with fossils to turn this branching diagram actually into a proper chronology,", start: 1356.10, end: 1369.44, zh: "我们利用这棵树，结合化石证据，试图了解它能为我们揭示关于雨林的什么信息，将这个分支图转化为真正的时间序列，（chronology 时间序列，按时间顺序排列的事件）"}
+  - {text: "if you like, so that the individual splits in this tree fit to a time.", start: 1369.56, end: 1373.88, zh: "换句话说，让这棵树上的每一个分支分裂都对应到一个具体的时间点。（splits 分裂，指演化树上的分支点）"}
+  - {text: "We've related on to that tree, the environments in which the modern species occur and reconstructed what the original, the ancestral condition might be.", start: 1373.88, end: 1384.30, zh: "我们将现代物种所处的环境关联到这棵树上，并重建了祖先状态可能是什么样的。（ancestral condition 祖先状态，指演化早期祖先的特征）"}
+  - {text: "And that tree told us that analysis published in 2011 told us that palms appear to have evolved in the rainforest 100 million years ago, somewhere in the northern hemisphere.", start: 1384.40, end: 1394.74, zh: "这棵树告诉了我们，2011年发表的分析表明，棕榈树似乎是在一亿年前在北半球的某处雨林中演化出来的。（hemisphere 半球，地球的一半）"}
+  - {text: "This caused a bit of a drama because, in fact, from a paleo perspective, the fossil evidence for rainforest doesn't exist at that time.", start: 1395.44, end: 1404.72, zh: "这引起了一点争议，因为从古生物学角度来看，那个时期并不存在雨林的化石证据。（paleo 古生物学的，指研究化石的学科）"}
+  - {text: "The earliest fossil assemblages that look like they characterize a rainforest don't come till after the meteor impact and the extinction of dinosaurs around 60, 65 million years ago.", start: 1405.00, end: 1417.08, zh: "最早看起来像雨林特征的化石组合，直到小行星撞击和恐龙灭绝之后，也就是大约六千五百万年前才出现。（assemblages 组合，指一组共同出现的化石或物种）"}
+  - {text: "So what's happening there if the evidence is so contradictory?", start: 1417.44, end: 1421.98, zh: "那么，如果证据如此矛盾，那里到底发生了什么？（contradictory 矛盾的，相互冲突的）"}
+  - {text: "Well, we, of course, what is science for, if not for revisiting later?", start: 1422.60, end: 1428.18, zh: "嗯，我们当然……科学不就是用来重新审视的吗？（revisiting 重新审视，再次考察）"}
+  - {text: "So the update to all of this is that we have managed to build an even bigger tree of life for palms with 80 percent of the two and a half thousand species in it now that gives us a more nuanced insight", start: 1428.18, end: 1439.42, zh: "所以最新的进展是，我们构建了一棵更大的棕榈树生命之树，现在包含了2500个物种中的80%，这让我们获得了更细致的见解。（tree of life 生命之树，指生物演化关系图；nuanced 细致的，微妙的）"}
+  - {text: "that shows us that palms are even older, perhaps 120 million years, but that it appears now that they have old in a non rainforest environment", start: 1440.20, end: 1449.46, zh: "这表明棕榈树可能更古老，约有1.2亿年历史，而且现在看起来它们最初是在非雨林环境中出现的。（rainforest 雨林）"}
+  - {text: "but quickly moved into them around 60 million years.", start: 1449.46, end: 1452.32, zh: "但在大约6000万年前，它们迅速进入了雨林环境。"}
+  - {text: "So by doing more work, we finally get a close match that I hope will cause less controversy among my paleo friends.", start: 1452.52, end: 1459.70, zh: "所以通过做更多的工作，我们最终得出了一个非常吻合的结果，我希望这能减少我那些古生物学家朋友之间的争议。（paleo 古生物的，指古生物学）"}
+  - {text: "Thanks for that clarification, Bill.", start: 1459.98, end: 1461.88, zh: "谢谢你的澄清，比尔。（clarification 澄清，解释清楚）"}
+  - {text: "Jenny, we heard from Bill that palms exist in rainforests, or I think it was you that they can't exist in different temperatures.", start: 1462.74, end: 1472.28, zh: "珍妮，我们听到比尔说棕榈树存在于雨林中，或者我想是你说它们无法在不同的温度下生存。"}
+  - {text: "So what makes some trees resilient and other trees not resilient?", start: 1472.84, end: 1477.16, zh: "那么是什么让一些树木具有韧性，而另一些树木没有？（resilient 有韧性的，能恢复的）"}
+  - {text: "Yeah, that's that's such a great question.", start: 1477.88, end: 1479.86, zh: "是的，这是一个非常好的问题。"}
+  - {text: "And I actually think nobody can answer it.", start: 1479.98, end: 1482.60, zh: "我其实认为没人能回答这个问题。"}
+  - {text: "Yes. So I think this is really an active area of research for plant scientists in all disciplines.", start: 1482.60, end: 1489.22, zh: "是的。我认为这真的是植物科学家在所有学科中一个非常活跃的研究领域。（active area 活跃领域，指研究热点）"}
+  - {text: "And we really need to know which trees are going to be resilient in the face of climate change in the future.", start: 1489.84, end: 1497.02, zh: "我们真的需要弄清楚，在未来面对气候变化时，哪些树木能够保持韧性。（resilient 有韧性的，能恢复的；climate change 气候变化）"}
+  - {text: "And there's lots of ways of answering those questions.", start: 1497.34, end: 1499.64, zh: "回答这些问题有很多不同的方法。"}
+  - {text: "You can come from lots of different disciplines and answer in different ways.", start: 1499.82, end: 1502.74, zh: "你可以从许多不同的学科领域入手，用不同的方式来解答。（disciplines 学科，领域）"}
+  - {text: "But I suppose thinking of my own research area, we know from looking back at the fossil record at times of natural global warming in the past.", start: 1502.86, end: 1512.92, zh: "不过就我自己的研究领域而言，通过回顾化石记录中过去自然全球变暖的时期，我们知道……（fossil record 化石记录；global warming 全球变暖）"}
+  - {text: "So this would be caused by volcanism, that if you push the climate too far and too warm, we know that trees have limits.", start: 1513.16, end: 1522.28, zh: "这种变暖通常由火山活动引起，如果气候被推得过热、过暖，我们知道树木是有限度的。（volcanism 火山活动）"}
+  - {text: "So you push the climate beyond their niche or their adapted envelope.", start: 1522.68, end: 1529.12, zh: "也就是说，当气候超出了它们的生态位或适应范围。（niche 生态位；adapted envelope 适应范围）"}
+  - {text: "And they suddenly disappear.", start: 1529.80, end: 1532.16, zh: "它们就会突然消失。"}
+  - {text: "And we don't see them as fossils anymore.", start: 1532.58, end: 1534.92, zh: "我们再也看不到它们的化石了。"}
+  - {text: "And instead we see the really ancient plants thrive, like ferns and those mosses that we talked about in the early phase of the earth.", start: 1535.12, end: 1543.06, zh: "相反，我们看到的是那些非常古老的植物繁盛起来，比如蕨类植物，以及我们在地球早期阶段讨论过的那些苔藓。（ferns 蕨类植物；mosses 苔藓）"}
+  - {text: "So what we do know is that trees, all trees have limits.", start: 1543.84, end: 1546.76, zh: "所以我们要知道的是，树木，所有的树木都是有限度的。"}
+  - {text: "We see this if you go to the Arctic today or the Antarctic, there are no trees.", start: 1547.34, end: 1550.78, zh: "如果你现在去北极或南极，就会发现那里没有树木。（Arctic 北极；Antarctic 南极）"}
+  - {text: "It's a treeless landscape.", start: 1550.98, end: 1552.50, zh: "那里是一片没有树木的景观。（treeless 无树的）"}
+  - {text: "It's because it's too cold.", start: 1552.92, end: 1553.84, zh: "这是因为那里太冷了。"}
+  - {text: "And then you see it in a desert.", start: 1554.38, end: 1555.58, zh: "在沙漠里你也能看到这种情况。"}
+  - {text: "In the most extreme deserts, it's too hot.", start: 1556.62, end: 1558.84, zh: "在最极端的沙漠里，温度太高了。"}
+  - {text: "So I kind of think we can't be complacent.", start: 1559.32, end: 1562.12, zh: "所以我觉得我们不能掉以轻心。（complacent 自满的，掉以轻心的）"}
+  - {text: "We know trees, we love trees, but we absolutely can't be complacent.", start: 1562.74, end: 1566.68, zh: "我们了解树木，我们热爱树木，但我们绝对不能掉以轻心。（complacent 自满的，掉以轻心的）"}
+  - {text: "And we've set up a project in Trinity College Botanic Garden called the Witness Tree Project.", start: 1567.16, end: 1573.62, zh: "我们在三一学院植物园设立了一个名为“见证树计划”的项目。（Trinity College 三一学院；Botanic Garden 植物园）"}
+  - {text: "And the idea is that all trees are sensors and they're witnesses of climate change.", start: 1574.40, end: 1580.64, zh: "这个理念是，所有的树都是传感器，也是气候变化的见证者。（sensors 传感器）"}
+  - {text: "And because they're long -lived organisms, you know, many live for thousands of years.", start: 1580.86, end: 1584.78, zh: "因为它们是长寿的生物，你知道，许多树能活几千年。（long-lived 长寿的）"}
+  - {text: "Most live for hundreds of years or certainly decades.", start: 1585.00, end: 1588.48, zh: "大多数树能活几百年，或者至少能活几十年。（decades 几十年）"}
+  - {text: "We are tracking 21 trees.", start: 1589.30, end: 1592.60, zh: "我们正在追踪21棵树。（tracking 追踪，监测）"}
+  - {text: "And it was very difficult to choose which ones.", start: 1592.86, end: 1594.54, zh: "而且很难决定选哪几棵。（choose 选择）"}
+  - {text: "21 trees every year over time to answer the question you posed, which trees are most resilient?", start: 1595.10, end: 1602.16, zh: "每年追踪21棵树，随着时间推移来回答你提出的那个问题：哪些树最具韧性？（resilient 有韧性的，能恢复的）"}
+  - {text: "And we're trying to understand, it's called a common garden experiment because we have trees from all over the world growing in the same botanic garden.", start: 1602.52, end: 1611.46, zh: "我们试图理解这一点，这被称为共同花园实验，因为我们有来自世界各地的树，都种在同一个植物园里。（common garden experiment 共同花园实验，指将不同来源的物种种在同一环境对比的实验）"}
+  - {text: "So we have trees from the subtropics, trees from cold environments, trees from very warm environments.", start: 1612.10, end: 1619.30, zh: "所以我们有来自亚热带的树，来自寒冷环境的树，还有来自非常温暖环境的树。（subtropics 亚热带）"}
+  - {text: "And we're trying to understand fundamentally, what is it about their traits that enable some to be resilient and others to not withstand a change in climate?", start: 1619.56, end: 1630.26, zh: "我们试图从根本上理解，是什么特征让一些树具有韧性，而另一些树无法承受气候变化？（traits 特征，性状）"}
+  - {text: "So Chris Berry, in that case, presumably even resilient trees would find it difficult to adapt year on year.", start: 1631.00, end: 1639.04, zh: "所以克里斯·贝里，在这种情况下，即使是很有韧性的树，逐年适应也会很困难吧。（presumably 推测，大概）"}
+  - {text: "So you're looking at tree resilience over millions of years, hundreds of millions of years.", start: 1639.40, end: 1646.34, zh: "所以你在看的是数百万年，甚至数亿年尺度上的树木韧性。（millions of years 数百万年）"}
+  - {text: "Do you, are you able to say, ah, yes, this tree faded away, but became an oak tree or something like that?", start: 1647.12, end: 1655.38, zh: "你能说，啊，是的，这棵树消失了，但变成了橡树或类似的东西吗？（faded away 消失，灭绝）"}
+  - {text: "Or do you see hard cutoff points?", start: 1655.60, end: 1658.70, zh: "还是说你认为存在明确的界限？（cutoff points 界限，分界线）"}
+  - {text: "One of the interesting things about how trees grows is where the growth occurs, where the primary growth occurs.", start: 1659.95, end: 1667.07, zh: "关于树木生长，一个有趣的地方在于生长发生的位置，特别是初生生长发生在哪里。（primary growth 初生生长，指茎尖或根尖的生长）"}
+  - {text: "And for my very old trees, this tends to be the actual apex of the trunk.", start: 1667.35, end: 1671.49, zh: "对于我研究的这些非常古老的树木来说，这通常就是树干的顶端。（apex 顶端，顶点）"}
+  - {text: "So at the apex of the trunk, there's a thing called a meristem, which is producing new cells, which become part of the trunk.", start: 1671.97, end: 1679.13, zh: "所以在树干顶端，有一个叫做分生组织的结构，它产生新细胞，这些细胞成为树干的一部分。（meristem 分生组织，植物中负责细胞分裂和生长的组织）"}
+  - {text: "And in these ancient types of trees, then pretty much the whole body plan of the tree was organized from there.", start: 1679.13, end: 1688.03, zh: "对于这类古老的树木，整棵树的形态结构基本上都是从那里组织起来的。（body plan 形态结构，生物体的整体构造）"}
+  - {text: "So it would be given instructions as to where the branches would grow when they grow in geometric patterns coming back from the meristem.", start: 1688.15, end: 1695.33, zh: "所以它会收到指令，知道树枝在哪里生长，当它们从分生组织以几何图案向外生长时。（geometric patterns 几何图案，规则的形状排列）"}
+  - {text: "Problem with this is that that's extremely vulnerable because if you take out the meristem, if you have frost or something, or this big bulbous thing on the top of the trunk, then it can easily be destroyed.", start: 1696.15, end: 1707.21, zh: "这个问题在于这极其脆弱，因为如果你破坏了分生组织，比如遇到霜冻，或者树干顶部那个巨大的球状物被摧毁，它很容易受损。（vulnerable 脆弱的，易受伤害的）"}
+  - {text: "And it's the same for the lycopod trees as well.", start: 1707.21, end: 1709.43, zh: "对于石松类树木也是如此。（lycopod 石松，一类古老的维管植物）"}
+  - {text: "I think archaeopterists, the big tall woody tree that we see at Cairo in upstate New York is a really interesting thing because with my PhD student Amy Wyatt,", start: 1710.07, end: 1721.19, zh: "我认为，我们在纽约州北部看到的这种高大木本植物——古蕨，是非常有趣的东西，因为我和我的博士生艾米·怀亚特……（archaeopterists 古蕨，一种已灭绝的早期木本植物；upstate New York 纽约州北部）"}
+  - {text: "we've been in Spitzburg and collecting what we think are trunks of these archaeopterist trees.", start: 1721.27, end: 1725.43, zh: "我们一直在斯匹次卑尔根收集我们认为属于这些古蕨的树干。（Spitzburg 斯匹次卑尔根，挪威北部岛屿，此处可能指代古生物产地或特定研究地点，需注意拼写可能为Spitsbergen）"}
+  - {text: "And up to a certain size, they seem to have very geometric insertion of the leafy branches that they had, which seems to fit in with this model.", start: 1726.01, end: 1737.01, zh: "在达到一定尺寸之前，它们的枝叶分支呈现出非常几何化的排列方式，这似乎符合该模型。（geometric 几何的；insertion 插入，此处指分支位置）"}
+  - {text: "It's all coming from the apex.", start: 1737.01, end: 1738.23, zh: "这一切都源自顶端。（apex 顶端，顶点）"}
+  - {text: "But work by American, particularly French colleagues, looking at the anatomy of some of these trees, shows that there's a new type of branching which can develop in archaeopterists.", start: 1739.13, end: 1749.33, zh: "但美国，尤其是法国同事对其中一些树木解剖结构的研究表明，在原始蕨类植物中存在一种新的分枝类型。（anatomy 解剖结构；archaeopterists 原始蕨类植物，一种史前植物）"}
+  - {text: "And that's to say that it starts growing new branches from essentially the surface of the wood.", start: 1749.63, end: 1755.25, zh: "也就是说，它基本上是从木质部的表面开始生长新枝条的。（essentially 基本上，本质上；wood 木质部，木材）"}
+  - {text: "So it can produce a new branch anywhere on the trunk.", start: 1755.67, end: 1759.33, zh: "因此，它可以在树干上的任何位置长出新枝条。（trunk 树干）"}
+  - {text: "And that can grow into a big branch, a long live branch with fronds on it itself, or even into a new trunk.", start: 1759.73, end: 1767.15, zh: "这种新枝条可以长成粗大的树枝，成为带有羽状复叶的长存枝，甚至长成新的树干。（fronds 羽状复叶，蕨类植物的叶片）"}
+  - {text: "So that sort of development gives the plant much more resilience because you can lop off the top, you can have wind damage, other sorts of damage.", start: 1768.23, end: 1777.29, zh: "这种发育方式赋予了植物更强的韧性，因为你可以砍掉顶部，或者遭受风灾等其他类型的损伤。（resilience 韧性，恢复力；lop off 砍掉，切断）"}
+  - {text: "Another tree can fall down and take half of it away.", start: 1778.09, end: 1780.63, zh: "即使另一棵树倒下并带走它的一半，它也能继续生长。（take away 带走，移除）"}
+  - {text: "It could still grow.", start: 1780.73, end: 1781.37, zh: "它仍然能够生长。（still 仍然，依旧）"}
+  - {text: "So I think basically within archaeopterists, at some point it changed from one type of branching to the other and became more resilient and lasted for 25 million years as a genus.", start: 1781.97, end: 1793.61, zh: "所以我认为，基本上在原始蕨类植物中，在某个时间点，它从一种分枝方式转变为另一种，变得更加坚韧，并作为一个属延续了2500万年。（genus 属，生物分类单位）"}
+  - {text: "And I think you can also add seeds to that.", start: 1793.61, end: 1796.17, zh: "我认为还可以把种子也加进去。（seeds 种子）"}
+  - {text: "If you add seeds to a plant, then it's also become more resilient.", start: 1796.47, end: 1800.07, zh: "如果给植物加上种子，它的生存能力也会更强。（resilient 有韧性的，能恢复的）"}
+  - {text: "When do seeds come in as it were for trees?", start: 1800.15, end: 1803.39, zh: "那么对于树木来说，种子大概是什么时候出现的呢？（as it were 可以说，从某种意义上说）"}
+  - {text: "For the trees, not totally sure, but seeds appear in the fossil record towards the end of the Devonian, but within shrubby plants rather than within trees.", start: 1804.07, end: 1814.21, zh: "对于树木具体何时出现种子我不太确定，但化石记录显示种子出现在泥盆纪晚期，不过当时是在灌木状植物中，而不是在树木中。（fossil record 化石记录；Devonian 泥盆纪）"}
+  - {text: "So the first seeds are probably in plants which will later become trees rather than in the earliest trees.", start: 1814.81, end: 1821.81, zh: "所以最早的种子可能出现在后来演变成树木的植物上，而不是在最早期的树木上。（probably 可能，大概）"}
+  - {text: "Bill, why do so many plants end up looking like trees?", start: 1822.69, end: 1827.43, zh: "比尔，为什么这么多植物最终都长得像树一样？（Bill 比尔，嘉宾名字）"}
+  - {text: "Is there something about the tree structure which makes it particularly efficient or adaptable?", start: 1827.63, end: 1834.97, zh: "是不是树这种结构特别高效或适应性强？（adaptable 适应性强的）"}
+  - {text: "Well, being a tree has a lot of benefits.", start: 1835.43, end: 1837.51, zh: "嗯，长成树有很多好处。（benefits 好处，益处）"}
+  - {text: "It gives you more access to light, probably more photosynthetic efficiency.", start: 1837.89, end: 1845.13, zh: "它能让你获得更多光照，可能光合作用效率也更高。（photosynthetic efficiency 光合作用效率）"}
+  - {text: "It gives you longevity, perhaps makes it easier for you to disperse your pollen or seeds.", start: 1845.41, end: 1851.95, zh: "它能让你寿命更长，也许也更容易传播花粉或种子。（longevity 长寿，寿命；disperse 传播，散布）"}
+  - {text: "And because these pressures exist in many different places, this leads to what we call convergent evolution, the independent origination of traits in unrelated lineages.", start: 1852.63, end: 1866.67, zh: "由于这些压力存在于许多不同的地方，这就导致了所谓的趋同进化，即不相关的谱系独立演化出相同的特征。（convergent evolution 趋同进化；lineages 谱系，演化支）"}
+  - {text: "I mean, there is, of course, selection to not be a tree in some places.", start: 1867.35, end: 1870.85, zh: "我的意思是，在某些地方，当然存在一种选择压力，使得植物不适合长成树。（selection 自然选择；pressure 压力）"}
+  - {text: "There are no trees up beyond the treeline in the mountains because it's actually better to be able to die back to a perennial rootstock and in the desert it's better to be an annual and live fast,", start: 1870.85, end: 1882.65, zh: "在高山树线以上没有树木，因为在那里，能够回缩到多年生根茎上其实更有利；而在沙漠里，作为一年生植物快速生长、快速死亡则更好。（treeline 树线；perennial rootstock 多年生根茎；annual 一年生植物）"}
+  - {text: "die young in an environment where there is not much water.", start: 1882.93, end: 1887.63, zh: "在缺水的环境中，早生早死是更好的策略。（die young 早死，短命）"}
+  - {text: "But as a result, we see in the flowering plants, at least we see many instances of plant families that have both tree and non -tree members.", start: 1888.55, end: 1898.47, zh: "因此，我们在开花植物中观察到，至少有许多植物科既包含树木成员，也包含非树木成员。（flowering plants 开花植物；instances 实例）"}
+  - {text: "So we all know the apple, cherry, plum, for example.", start: 1898.97, end: 1904.47, zh: "比如，我们都知道苹果、樱桃和李子。（plum 李子）"}
+  - {text: "They're all members of the Rose AC, the Rose family, but so is the strawberry, and everyone knows that strawberries don't grow on trees.", start: 1904.59, end: 1911.19, zh: "它们都是蔷薇科（Rose family）的成员，草莓也是，而大家都知道草莓不是长在树上的。（Rose family 蔷薇科；strawberry 草莓）"}
+  - {text: "The same with mint, for example.", start: 1912.19, end: 1914.71, zh: "薄荷也是同样的情况。（mint 薄荷）"}
+  - {text: "One of the relatives of mint, our little sappy herb, is the great teak tree, one of the most valuable timbers on the planet.", start: 1915.15, end: 1922.71, zh: "薄荷的一个亲戚，我们这种多汁的小草本植物，就是巨大的柚木树，它是地球上最有价值的木材之一。（sappy herb 多汁草本；teak tree 柚木树）"}
+  - {text: "And palms really take the biscuit because they can't make proper wood.", start: 1923.51, end: 1927.25, zh: "棕榈树更是如此，因为它们无法形成真正的木材。（palms 棕榈树；take the biscuit 最为典型，最突出）"}
+  - {text: "They grow a bit like Chris was describing earlier from a big fat bud on the top.", start: 1927.63, end: 1932.79, zh: "它们长得有点像克里斯刚才描述的那样，是从顶端一个又大又胖的芽里长出来的。（bud 芽；fat 胖的，这里指粗壮的）"}
+  - {text: "They're embedded in the monocots, which is a group that includes cereals, rice, as well as orchids, lilies, normally floppy things, sappy things that can't make proper wood.", start: 1933.73, end: 1944.81, zh: "它们嵌在单子叶植物中，这是一类包括谷物、水稻，以及兰花、百合的植物，通常是软塌塌的、多汁的，无法形成真正的木材。（monocots 单子叶植物；cereals 谷物；sappy 多汁的，易折断的）"}
+  - {text: "And yet, palms have escaped this constraint to produce trees that can be as tall as 60 metres.", start: 1945.57, end: 1953.51, zh: "然而，棕榈树打破了这一限制，能长到高达60米的树。（constraint 限制；palms 棕榈树）"}
+  - {text: "And in the Amazon, six of the 10 commonest trees are palms.", start: 1954.11, end: 1959.95, zh: "在亚马逊，最常见的十种树里有六种是棕榈树。（commonest 最常见的）"}
+  - {text: "So that means the commonest tree, and one of the Asa 'i species, Utterpi Precatoria, there are five billion individuals of that thing, which is kind", start: 1960.55, end: 1969.63, zh: "这意味着最常见的树，也就是某种阿萨伊物种，有五十亿株个体，这有点……（Asa 'i 阿萨伊，一种棕榈；species 物种）"}
+  - {text: "of just pretending to be a proper tree.", start: 1969.63, end: 1971.61, zh: "……就像是在假装自己是一棵正经的树。（pretending to be 假装是）"}
+  - {text: "Jenny, I want to concentrate a bit on what the evolution of trees can tell us about the environment.", start: 1972.65, end: 1980.37, zh: "珍妮，我想稍微集中讲讲树的进化能告诉我们关于环境的什么。（concentrate on 集中于；evolution 进化）"}
+  - {text: "Presumably before trees came along, the earth was still pretty hot and humid, I would have thought.", start: 1980.85, end: 1987.21, zh: "我猜在树出现之前，地球应该还是很热很潮湿的。（presumably 大概，推测；humid 潮湿的）"}
+  - {text: "What do trees do to change the environment?", start: 1987.49, end: 1990.37, zh: "树是如何改变环境的？（change 改变）"}
+  - {text: "Yeah, so trees are sensors of their environment, so we can actually use them in the fossil record because we have beautiful fossils that Chris has spoken about.", start: 1991.13, end: 2001.47, zh: "是的，树是环境的传感器，所以我们可以利用它们在化石记录中的信息，因为我们有克里斯提到的那些美丽的化石。（sensors 传感器；fossil record 化石记录）"}
+  - {text: "We have fossil leaves.", start: 2001.93, end: 2002.97, zh: "我们有化石叶片。（fossil 化石）"}
+  - {text: "We can use those fossils of trees through time to reconstruct how the environment has changed.", start: 2003.29, end: 2010.41, zh: "我们可以利用不同时期的树木化石来重建环境变化的过程。（reconstruct 重建；environment 环境）"}
+  - {text: "So we've been able to reconstruct how the atmosphere has changed in terms of how much carbon dioxide there was in the past, how much oxygen there was in the past,", start: 2011.17, end: 2021.21, zh: "因此，我们得以重建大气层的变化，包括过去二氧化碳和氧气的含量。（atmosphere 大气层；carbon dioxide 二氧化碳）"}
+  - {text: "and also then if you've got greenhouse gases, you can plug that into a climate model, work with your climate colleagues, and you can reconstruct how climate has changed through time.", start: 2021.59, end: 2030.65, zh: "此外，如果你掌握了温室气体数据，可以将其输入气候模型，与气候领域的同事合作，从而重建气候随时间的变化。（greenhouse gases 温室气体；climate model 气候模型）"}
+  - {text: "So when trees first start appearing, do they begin to oxygenate the atmosphere?", start: 2030.79, end: 2036.53, zh: "那么当树木最初出现时，它们开始向大气中释放氧气吗？（oxygenate 使……含氧；atmosphere 大气层）"}
+  - {text: "Yeah, so I think that there's a long transition, but the net effect of going from a treeless world to a world of forests and woody organisms and trees is that those trees sequestered, so they pulled carbon out of the atmosphere,", start: 2036.97, end: 2054.79, zh: "是的，我认为这是一个漫长的过渡过程，但从无树世界转变为森林和木质生物遍布的世界，其净效应是树木封存了碳，即从大气中吸收了碳。（sequestered 封存；net effect 净效应）"}
+  - {text: "and then many of them, like the lycopods that Chris was talking about, rather than fungi breaking those trunks down and releasing the carbon back, that carbon was trapped in swamps and peats,", start: 2055.53, end: 2070.72, zh: "随后，像克里斯提到的石松类植物，它们的树干没有被真菌分解并释放回碳，而是碳被困在沼泽和泥炭中。（lycopods 石松类植物；peats 泥炭）"}
+  - {text: "and the net effect over time, millions of years, is that carbon dioxide levels dropped from really high levels, really hot earth to a cool climate, and oxygen levels were increased.", start: 2070.72, end: 2082.98, zh: "从数百万年的长期来看，净效应是二氧化碳水平从极高值下降，地球从炎热变得凉爽，而氧气水平则上升。（carbon dioxide 二氧化碳；oxygen 氧气）"}
+  - {text: "So about 300 million years ago, we had this peak in oxygen.", start: 2083.52, end: 2087.60, zh: "所以大约在3亿年前，我们经历了一个氧气含量的峰值。（peak 峰值；oxygen 氧气）"}
+  - {text: "It could have been higher than 25 % oxygen, but even 30 % oxygen, so much higher than today.", start: 2087.82, end: 2094.00, zh: "氧气含量可能超过25%，甚至达到30%，远高于今天的水平。（oxygen 氧气）"}
+  - {text: "So does that mean that the methane, for example, that's being released from peat bogs and from permafrost and so on as the earth warms, is that those gases which trees originally stored?", start: 2094.62, end: 2111.48, zh: "那么，随着地球变暖，从泥炭沼泽和永久冻土中释放出的甲烷等气体，是不是就是树木最初储存的那些气体？（peat bogs 泥炭沼泽；permafrost 永久冻土）"}
+  - {text: "So partly, I think any of the carbon in our fossil fuels, so coal, oil, is the remnants of photosynthesis from millions of years ago.", start: 2112.70, end: 2125.48, zh: "部分是这样，我认为我们化石燃料中的碳，比如煤和石油，都是数百万年前光合作用的残留物。（fossil fuels 化石燃料；photosynthesis 光合作用）"}
+  - {text: "Yeah, so we're burning carbon that was stored millions of years ago and took millions of years to store, and we're releasing it rapidly into the atmosphere.", start: 2125.48, end: 2135.56, zh: "是的，我们燃烧的是数百万年前储存的碳，这些碳花了数百万年才积累起来，而我们现在正迅速将其释放到大气中。（atmosphere 大气层）"}
+  - {text: "In a very short space of time, obviously.", start: 2135.60, end: 2137.88, zh: "显然，是在非常短的时间内。"}
+  - {text: "Chris, as well as cooling the planet, trees also contributed to warming the planet.", start: 2138.92, end: 2146.04, zh: "克里斯，除了冷却地球，树木也对地球变暖做出了贡献。"}
+  - {text: "Is that right? That's right.", start: 2146.24, end: 2147.96, zh: "是这样吗？没错。"}
+  - {text: "I mean, I'm massively impressed by how much carbon can be sucked out of the atmosphere by trees.", start: 2148.20, end: 2152.78, zh: "我是说，树木能从大气中吸收如此多的碳，这让我印象深刻。（sucked out 吸收，抽出）"}
+  - {text: "It's amazing. If we look at the newer graphs of carbon dioxide changing over the year, in the northern hemisphere summer, we can pull out 1", start: 2152.96, end: 2160.48, zh: "太神奇了。如果我们看近年来二氧化碳随季节变化的图表，在北半球夏季，我们可以在一年内吸收掉大气中1……（northern hemisphere 北半球）"}
+  - {text: "% of the carbon dioxide in the atmosphere in one year.", start: 2160.48, end: 2164.40, zh: "%的二氧化碳。"}
+  - {text: "It then gets released back again as the leaves sort of decay.", start: 2164.76, end: 2167.32, zh: "随着树叶腐烂，这些碳随后又被释放回大气中。（decay 腐烂，分解）"}
+  - {text: "But so over millions of years, this has got to be a really serious thing.", start: 2167.54, end: 2170.98, zh: "但在数百万年的漫长岁月中，这绝对是一件非常严肃的事情。"}
+  - {text: "So you can model that, as Jenny says.", start: 2171.82, end: 2174.24, zh: "所以正如珍妮所说，你可以对此进行建模。（model 建模，模拟）"}
+  - {text: "And one interesting thing that I think out of all the papers I've read.", start: 2174.80, end: 2179.58, zh: "我认为在我读过的所有论文中，有一件特别有趣的事情。"}
+  - {text: "I've been down to South Africa, which was about 70 degrees south, back in the late Devonian.", start: 2180.74, end: 2186.38, zh: "我曾在晚泥盆纪时期去过南非，当时那里的纬度大约是南纬70度。（Devonian 泥盆纪，地质年代）"}
+  - {text: "And there's archaeoptery trees there.", start: 2186.98, end: 2188.66, zh: "那里有始蕨树。（archaeoptery 始蕨，一种早期陆生植物）"}
+  - {text: "And that's more near the pole than Reykjavik.", start: 2189.64, end: 2193.60, zh: "这比雷克雅未克更靠近极点。（Reykjavik 雷克雅未克，冰岛首都）"}
+  - {text: "Why were there in the late Devonian trees there?", start: 2194.14, end: 2196.80, zh: "为什么晚泥盆纪时期那里会有树木？"}
+  - {text: "Because Jenny said that all this carbon dioxide being pulled out of the atmosphere, you'd expect that the planet would just get cooler and cooler and cooler.", start: 2196.86, end: 2204.48, zh: "因为珍妮说，随着二氧化碳从大气中被大量吸收，我们原本预期地球会变得越来越冷。"}
+  - {text: "But the models of my French colleagues actually suggest that the temperature stayed the same as all this carbon dioxide get pulled out of the atmosphere.", start: 2205.08, end: 2213.54, zh: "但我法国同事的模型实际上表明，尽管二氧化碳被从大气中移除，温度却保持不变。"}
+  - {text: "And in their model, which is a conceptual model, it's not real life, in their model, the growth and spread of the forests changes the way in which the Earth reflects sunlight.", start: 2214.14, end: 2224.58, zh: "在他们的概念模型中，虽然这并非真实情况，但森林的生长和扩散改变了地球反射阳光的方式。（conceptual model 概念模型）"}
+  - {text: "So instead of the sunlight bouncing off bear rock and so on, and back into the space, that heat comes in, it hits the plants.", start: 2225.30, end: 2235.42, zh: "所以，阳光不再像以前那样从岩石上反射回太空，而是直接照射到植物上，热量就这样进入了生态系统。（bouncing off 反射；bear rock 可能是转写错误，指岩石）"}
+  - {text: "And as you know, tropical forests are very warm.", start: 2235.86, end: 2237.68, zh: "大家都知道，热带森林非常温暖。（tropical forests 热带森林）"}
+  - {text: "It absorbs heat and moisture and all the things that we've talked about.", start: 2237.68, end: 2241.22, zh: "它吸收了热量、水分以及我们之前讨论过的所有东西。（absorbs 吸收；moisture 水分）"}
+  - {text: "And so the reverse effect of the forest spreading actually delayed the cooling of the planet.", start: 2241.68, end: 2248.12, zh: "因此，森林扩张产生的反向效应实际上延缓了地球的冷却过程。（reverse effect 反向效应；delayed 延缓）"}
+  - {text: "And it wasn't till the very end of the Devonian that it sort of caught up.", start: 2248.40, end: 2251.48, zh: "直到泥盆纪末期，地球才逐渐追上了冷却的节奏。（Devonian 泥盆纪；caught up 追上，赶上）"}
+  - {text: "And then we descend into an ice age in the early Carboniferous.", start: 2251.76, end: 2255.06, zh: "随后，我们在早石炭纪进入了一个冰河时期。（descend into 进入；Carboniferous 石炭纪）"}
+  - {text: "Bill Baker, we've heard how ancient trees evolved over millions of years.", start: 2256.29, end: 2263.75, zh: "比尔·贝克，我们听到了古树在数百万年间是如何演化的。（Bill Baker 比尔·贝克，嘉宾名；evolved 演化）"}
+  - {text: "Are trees still evolving now?", start: 2264.19, end: 2266.31, zh: "树木现在还在演化吗？（evolving 演化）"}
+  - {text: "And do we know how they're evolving?", start: 2266.31, end: 2268.61, zh: "我们知道它们是如何演化的吗？（evolving 演化）"}
+  - {text: "Absolutely, they are. It's a bit hard for us to see on our kind of human time scales.", start: 2269.05, end: 2274.71, zh: "当然，它们还在演化。只是在我们人类的时间尺度上，这有点难以察觉。（time scales 时间尺度）"}
+  - {text: "But on evolutionary time scales, we know that there's still a lot going on.", start: 2274.85, end: 2279.69, zh: "但在进化的时间尺度上，我们知道还有很多事情正在发生。（evolutionary time scales 进化时间尺度）"}
+  - {text: "So for example, we know that some groups are radiating really rapidly.", start: 2279.83, end: 2284.33, zh: "举个例子，我们知道有些类群正在以极快的速度进行辐射演化。（radiating 辐射演化，指物种快速分化）"}
+  - {text: "The Inga trees, for example, in the Amazon, really important trees to people and to the forest.", start: 2284.83, end: 2290.97, zh: "比如亚马逊雨林里的英加树，对当地居民和森林生态系统都非常重要。（Inga trees 英加树；Amazon 亚马逊）"}
+  - {text: "The Inga trees have produced 300 species in the last 10 million years, which is an astonishing rate of diversification.", start: 2291.97, end: 2298.93, zh: "英加树在过去一千万年里产生了300个物种，这是一个令人惊叹的多样化速率。（diversification 多样化，指物种分化）"}
+  - {text: "We also know from islands, from weird things that happen on islands that trees are evolving.", start: 2299.59, end: 2305.63, zh: "我们还从岛屿上知道，由于岛上发生的一些奇特现象，树木也在进化。（islands 岛屿）"}
+  - {text: "Islands, there's a thing called island syndrome where you get, for example, gigantism.", start: 2306.35, end: 2312.45, zh: "在岛屿上，有一种现象叫“岛屿综合征”，例如会出现巨型化现象。（island syndrome 岛屿综合征；gigantism 巨型化）"}
+  - {text: "Think of a giant tortoise on the Galapagos or flightlessness in birds like the dodo, the now extinct dodo.", start: 2312.63, end: 2321.37, zh: "想想加拉帕戈斯群岛上的巨龟，或者像渡渡鸟那样失去飞行能力的鸟类，渡渡鸟现在已经灭绝了。（Galapagos 加拉帕戈斯群岛；dodo 渡渡鸟）"}
+  - {text: "Well, in plants, we get what we call insular woodiness.", start: 2321.79, end: 2325.03, zh: "而在植物中，我们称之为“岛屿木质化”。（insular woodiness 岛屿木质化）"}
+  - {text: "Which is when formerly herbaceous lineages become woody, not necessarily trees, but they become woody.", start: 2326.43, end: 2332.65, zh: "这指的是原本草本的类群变成了木本植物，不一定是树，但变成了木质的。（herbaceous 草本的；woody 木本的）"}
+  - {text: "So for example, in the Canary Islands, there are 41 independent lineages that have done that.", start: 2332.81, end: 2338.93, zh: "例如，在加那利群岛，有41个独立的类群发生了这种变化。（Canary Islands 加那利群岛；lineages 类群）"}
+  - {text: "So you get sort of thistles that are now quite, you know, well, they're stumpy trees.", start: 2340.67, end: 2344.57, zh: "所以你会看到一些类似蓟的植物，现在它们其实已经变成了矮小的树。（thistles 蓟；stumpy 矮小的，粗短的）"}
+  - {text: "My favorite is one that I've been lucky enough to see on Lord Howe Island, which is a little flake of a remnant volcano two hours flight east of Sydney.", start: 2344.97, end: 2354.75, zh: "我最喜欢的一种是我有幸在豪勋爵岛见过的，那是位于悉尼以东两小时航程处的一小块火山残留地。（Lord Howe Island 豪勋爵岛；remnant volcano 火山残留地）"}
+  - {text: "And there you can find a relative of the African violet, which many listeners will grow on their windowsill, a little mushy houseplant.", start: 2354.75, end: 2363.91, zh: "在那里你可以找到非洲紫罗兰的亲戚，很多听众会在窗台上养这种软乎乎的小盆栽。（African violet 非洲紫罗兰；windowsill 窗台）"}
+  - {text: "But it's a great big tree.", start: 2364.39, end: 2366.97, zh: "但它却是一棵巨大的树。"}
+  - {text: "And it's a bizarre experience as a botanist to see something you really associate with the forest understory there, with its sort of spectacular waxy orange flowers.", start: 2368.61, end: 2380.89, zh: "作为一名植物学家，看到这种你通常只会在森林下层见到的植物，在那里开着令人惊叹的蜡质橙色花朵，是一种奇异的体验。（botanist 植物学家；understory 林下植被，森林下层）"}
+  - {text: "They call it the pumpkin tree, I think because of the colour of the flowers.", start: 2381.07, end: 2384.87, zh: "他们叫它南瓜树，我想是因为花朵的颜色。（pumpkin tree 南瓜树）"}
+  - {text: "And which one of you spoke about cabbages, which might be turning into trees?", start: 2385.45, end: 2390.13, zh: "刚才哪位提到了卷心菜，说它可能会变成树？（cabbages 卷心菜）"}
+  - {text: "Yes, that's the case.", start: 2390.15, end: 2391.05, zh: "是的，情况确实如此。"}
+  - {text: "That's the case in the Canary Islands.", start: 2391.97, end: 2393.57, zh: "在加那利群岛确实如此。（Canary Islands 加那利群岛）"}
+  - {text: "What is a wooden cabbage, tell me.", start: 2393.65, end: 2396.13, zh: "木制的卷心菜是什么，告诉我。（wooden cabbage 木制卷心菜，指树状植物）"}
+  - {text: "Not especially handsome, but nor particularly tasty, I suspect.", start: 2397.59, end: 2402.45, zh: "长得并不特别好看，我猜味道也不怎么样。（handsome 好看的；tasty 美味的）"}
+  - {text: "But you see this happening on different islands, so it's really important in Hawaii as well.", start: 2402.91, end: 2406.95, zh: "但你在不同的岛屿上都能看到这种现象，所以在夏威夷这也非常重要。（islands 岛屿；Hawaii 夏威夷）"}
+  - {text: "And it can also happen on what we call sky islands.", start: 2408.35, end: 2412.67, zh: "这种现象也会发生在我们所说的“天空岛屿”上。（sky islands 天空岛屿，指被低地包围的高地）"}
+  - {text: "So if you like seeing mountains as island in a terrestrial landscape.", start: 2413.13, end: 2419.43, zh: "如果你喜欢把山脉看作陆地景观中的岛屿的话。（terrestrial 陆地的）"}
+  - {text: "So, for example, in the Andes, in the last two million years, the lupins have turned into shrubs and trees, producing 80 different species.", start: 2419.59, end: 2428.83, zh: "例如在安第斯山脉，过去两百万年里，羽扇豆变成了灌木和乔木，产生了80个不同的物种。（Andes 安第斯山脉；lupins 羽扇豆）"}
+  - {text: "It's completely mind boggling.", start: 2429.27, end: 2430.55, zh: "这完全令人难以置信。（mind boggling 令人难以置信的，令人震惊的）"}
+  - {text: "Jenny, tell us towards the end now whether you can predict which trees will, I mean, given the project you're involved in, which trees are going to survive?", start: 2431.13, end: 2443.91, zh: "珍妮，现在到了结尾部分，鉴于你参与的项目，你能预测哪些树木会存活下来吗？（predict 预测；survive 存活）"}
+  - {text: "Can you model the trees against the trajectory of climate change?", start: 2444.13, end: 2448.37, zh: "你能根据气候变化轨迹对树木进行建模吗？（model 建模，模拟；trajectory 轨迹）"}
+  - {text: "We can do that, but I don't think we can give you the answer, yes.", start: 2448.99, end: 2452.33, zh: "我们可以做到，但我想我们无法给出确切的答案，是的。（answer 答案）"}
+  - {text: "And I don't really, I think everybody's trying, but we're not there, yes.", start: 2452.49, end: 2456.67, zh: "我其实……我觉得大家都在努力，但我们还没达到那个阶段，是的。（trying 努力；not there 还没达到那个阶段）"}
+  - {text: "But I think we have to, as scientists, use all the tools possible.", start: 2457.07, end: 2461.49, zh: "但我认为，作为科学家，我们必须利用一切可能的工具。"}
+  - {text: "So, again, going back to Peleobotany, what we can do is, I think we can look at the rich fossil history of Britain and Ireland and look at what trees, what species were growing", start: 2461.75, end: 2474.41, zh: "所以，再次回到古植物学，我认为我们可以考察英国和爱尔兰丰富的化石历史，看看当时生长着哪些树木和物种。（Peleobotany 古植物学；fossil 化石）"}
+  - {text: "two million years ago or 25 million years ago when we know the climate was similar to our climate future.", start: 2475.09, end: 2482.45, zh: "也就是两百万年前或两千五百万年前，那时我们知道气候与我们未来的气候相似。"}
+  - {text: "So, we're kind of going back, we're going, I can't even think where we're going, but we're going into our futures more similar to the warm climates of the past.", start: 2482.97, end: 2492.33, zh: "所以，我们其实是在回溯，我甚至不知道我们要去哪里，但我们是在走向更像过去温暖气候的未来。"}
+  - {text: "For example, in Ireland, the west coast of Ireland, Connemara, two million years ago, we had pecans, we had Japanese umbrella pine that's today only found in Japan.", start: 2492.83, end: 2504.79, zh: "例如，在爱尔兰西海岸的康尼马拉，两百万年前，那里有山核桃，还有日本五针松，这种树如今只在日本发现。（Connemara 康尼马拉，爱尔兰地区；pecans 山核桃；Japanese umbrella pine 日本五针松）"}
+  - {text: "And then if you go further back, 25 million years ago, the whole of Northern Ireland, Northern Britain was covered in swamp cypress and these trees are,", start: 2505.53, end: 2514.57, zh: "再往前追溯到两千五百万年前，整个北爱尔兰和北不列颠都被落羽杉覆盖，这些树木……（swamp cypress 落羽杉）"}
+  - {text: "you find them today in Alabama and the bays of America and they're extinct from Europe today.", start: 2514.79, end: 2523.14, zh: "如今你在阿拉巴马州和美国的海湾地区能找到它们，它们在今天的欧洲已经灭绝了。（Alabama 阿拉巴马州）"}
+  - {text: "So, presumably that means that the soil that exists in Ireland is good enough or adaptable enough to once again host trees like that.", start: 2523.52, end: 2534.64, zh: "所以，据推测，这意味着爱尔兰现有的土壤足够好，或者具有足够的适应性，能够再次容纳像这样的树木。"}
+  - {text: "Yeah, I suppose it gives me a lot of hope that they're, you know, I kind of said, well, we don't know what's resilient, but we know that biology is incredibly resilient.", start: 2535.32, end: 2546.10, zh: "是的，我想这给了我很多希望，你知道，我刚才说，我们不知道什么是具有韧性的，但我们知道生物学具有惊人的韧性。（resilient 有韧性的，能恢复的）"}
+  - {text: "Bill's given us wonderful examples and it's amazing how rapidly things can adapt to their environments.", start: 2546.28, end: 2553.68, zh: "比尔给了我们绝佳的例子，生物适应环境的速度之快令人惊叹。（adapt 适应）"}
+  - {text: "Well, on that note of optimism, I'd like to thank my guests, Bill Baker, Chris Berry and Jenny McElwain.", start: 2554.62, end: 2561.48, zh: "带着这份乐观，我想感谢我的嘉宾：比尔·贝克、克里斯·贝里和珍妮·麦克尔维恩。（on that note 就这个话题而言；optimism 乐观）"}
+  - {text: "Next week, we'll be discussing Machado de Assis, the grandson of freed slaves and the towering figure of Brazilian 19th century literature.", start: 2562.22, end: 2571.22, zh: "下周，我们将讨论马查多·德·阿西斯，他是获释奴隶的孙子，也是十九世纪巴西文学的巨匠。（Machado de Assis 马查多·德·阿西斯，巴西作家；towering figure 杰出人物；freed slaves 获释奴隶）"}
+  - {text: "Thank you for listening.", start: 2571.84, end: 2572.96, zh: "感谢收听。"}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2574.00, end: 2580.64, zh: "现在，《我们的时代》播客将提供几分钟的额外时间，带来米沙和他的嘉宾的独家幕后花絮。（bonus material 额外素材；Misha 米沙，主持人）"}
+  - {text: "I sometimes start off by saying, is there anything else you want to add?", start: 2581.36, end: 2586.06, zh: "我有时会以问大家“还有什么想补充的吗”来开始。"}
+  - {text: "But I wanted to ask a question first of all and that is the relationship symbiotic or otherwise between animal life forms and trees as they evolve.", start: 2586.48, end: 2599.18, zh: "但我想先问一个问题，那就是在树木进化的过程中，动物生命形式与树木之间是共生关系还是其他关系。（symbiotic 共生的；life forms 生命形式）"}
+  - {text: "How do animals impact on trees?", start: 2599.48, end: 2602.06, zh: "动物如何影响树木？"}
+  - {text: "Who wants to go?", start: 2602.42, end: 2603.22, zh: "谁想先回答？"}
+  - {text: "I guess it might be easier to try to address that in the flowering plants because in a sense a lot of the evidence is still there and the experience of seeing", start: 2604.60, end: 2615.02, zh: "我想从开花植物入手可能更容易，因为从某种意义上说，很多证据依然存在，而且我们随时都能看到……（flowering plants 开花植物；evidence 证据）"}
+  - {text: "birds pollinating and insects doing their thing is around us all the time and leads us to suspect that, for example, you know, okay, it's not a tree,", start: 2615.70, end: 2625.78, zh: "……鸟儿授粉、昆虫忙碌的场景随处可见，这让我们怀疑，比如，好吧，虽然它不是一棵树，……（pollinating 授粉；suspect 怀疑）"}
+  - {text: "but the fact that there are 25, 30 ,000 species of orchid is probably to do with their pollination interactions.", start: 2625.86, end: 2632.10, zh: "但兰花拥有两到三万个物种这一事实，可能与它们的授粉互动有关。（orchid 兰花；pollination 授粉）"}
+  - {text: "And it's worth saying, I mentioned earlier, that when we look at how the flowering plants have diversified over time, we see this big rush at the beginning.", start: 2632.88, end: 2641.54, zh: "值得一提的是，正如我早些时候提到的，当我们观察开花植物随时间的多样化过程时，会发现初期有一个巨大的爆发期。（diversified 多样化；flowering plants 开花植物）"}
+  - {text: "But there's actually also a sort of follow -up rush that is observable in the sort of 40 million year kind of area.", start: 2642.02, end: 2650.02, zh: "但实际上，在大约四千万年前左右，还能观察到一种后续的快速爆发。（follow-up 后续；rush 爆发，激增）"}
+  - {text: "And we struggle to work out what that might be.", start: 2650.14, end: 2652.54, zh: "我们很难弄清楚那可能是什么。"}
+  - {text: "But one of the reasons for that could be positive feedbacks from the growth of importance, the evolution of important animal lineages that then lead plants to diversify.", start: 2652.66, end: 2662.22, zh: "但其中一个原因可能是正反馈作用，即重要动物谱系的演化变得重要，进而导致植物多样化。（positive feedbacks 正反馈；lineages 谱系，演化支）"}
+  - {text: "I haven't given you a tree specific answer because that's a bit harder to tackle.", start: 2662.72, end: 2667.26, zh: "我没有给出一个专门针对树木的答案，因为那比较难处理。（tackle 处理，应对）"}
+  - {text: "But I mean, presumably, I mean, trees are mentioned in the introduction about trees being used by human beings in a variety of ways.", start: 2667.64, end: 2676.42, zh: "但我是说，大概，我是说，在关于树木的引言中提到了树木被人类以多种方式使用。（presumably 大概，可能）"}
+  - {text: "But clearly they provide shelter and cooler environment for animal species.", start: 2676.80, end: 2682.22, zh: "但显然，它们为动物物种提供了庇护所和更凉爽的环境。（shelter 庇护所，遮蔽处）"}
+  - {text: "I mean, if you look at the rain forest, it's teeming with animal life because of the trees, so they couldn't exist without those trees.", start: 2682.50, end: 2689.90, zh: "我是说，如果你看看雨林，那里因为树木而充满了动物生命，所以如果没有那些树木，它们就无法存在。（teeming 充满，熙熙攘攘）"}
+  - {text: "You can see you've hit us.", start: 2690.20, end: 2691.80, zh: "你可以看到你已经打中我们了。（hit 击中，打中）"}
+  - {text: "We're not zoologists. We've gone very quiet.", start: 2692.12, end: 2695.78, zh: "我们不是动物学家。我们变得非常安静。（zoologists 动物学家）"}
+  - {text: "One of my favorite examples of this would be from the carboniferous, so the carboniferous forest.", start: 2697.74, end: 2704.74, zh: "我喜欢的一个例子来自石炭纪，也就是石炭纪森林。（carboniferous 石炭纪，地质年代）"}
+  - {text: "Probably worth saying that if people want to go and see fossil forest in Britain, then head to Victoria Park in Glasgow or to the Brumbo fossil forest near Wrexham.", start: 2705.70, end: 2716.22, zh: "顺便提一下，如果人们想去英国看化石森林，可以去格拉斯哥的维多利亚公园，或者雷克斯汉姆附近的布兰博化石森林。（fossil 化石；Victoria Park 维多利亚公园；Wrexham 雷克斯汉姆，威尔士城市）"}
+  - {text: "You can see big fossil lycopod trees in the ground.", start: 2716.72, end: 2720.20, zh: "你可以看到地面上巨大的化石石松树。（lycopod 石松，一类古代植物）"}
+  - {text: "There's even a beach in Wales, which a bit of a secret at the moment, but where you can see similar things.", start: 2720.30, end: 2725.16, zh: "威尔士甚至有一个海滩，目前还是个秘密，但在那里你可以看到类似的东西。（Wales 威尔士）"}
+  - {text: "And in Nova Scotia on joggins, there is a fantastic place called a joggins fossil forest where you can see the bases of these lycopod trees, just like it as in Britain.", start: 2725.98, end: 2737.16, zh: "在新斯科舍省的乔金斯，有一个很棒的地方叫乔金斯化石森林，你可以看到这些石松树的基部，就像在英国一样。（Nova Scotia 新斯科舍省，加拿大省份；joggins 乔金斯）"}
+  - {text: "But a hundred or more years ago, it was found that there were reptiles actually in the trees and that they were living or falling into the bases of these rotting trees.", start: 2737.74, end: 2749.78, zh: "但在一百多年前，人们发现实际上有爬行动物在树上，它们生活在这些腐烂树木的基部或掉进去。（reptiles 爬行动物）"}
+  - {text: "And some of our best evidence of what early reptilian life was like comes from inside these trees.", start: 2750.38, end: 2756.94, zh: "我们关于早期爬行动物生活状况的最佳证据之一就来自这些树木内部。（reptilian 爬行动物的）"}
+  - {text: "So that's quite remarkable.", start: 2757.26, end: 2758.36, zh: "这相当了不起。（remarkable 了不起的，显著的）"}
+  - {text: "And I think also even if you don't have a good fossil record of the animals or the insects, we have trace fossils.", start: 2759.34, end: 2769.70, zh: "我认为，即使没有动物或昆虫的良好化石记录，我们也有遗迹化石。（trace fossils 遗迹化石，生物活动留下的痕迹）"}
+  - {text: "So we have the indirect evidence.", start: 2770.02, end: 2771.54, zh: "所以我们有间接证据。（indirect evidence 间接证据）"}
+  - {text: "So often we will look at the fossil leaves and we can see very diagnostic feeding behaviour.", start: 2771.84, end: 2776.66, zh: "我们经常观察化石叶片，可以看到非常具有诊断性的取食行为。（diagnostic 具有诊断性的，特征明显的；feeding behaviour 取食行为）"}
+  - {text: "So we see mining and margin feeding and hole feeding.", start: 2777.08, end: 2782.30, zh: "我们能看到矿食、边缘取食和孔食。（mining 矿食，指昆虫在叶片内部挖掘隧道；margin feeding 边缘取食；hole feeding 孔食，指在叶片上咬出孔洞）"}
+  - {text: "And in some cases, colleagues and pennybuttons have been able to identify the first occurrence of a beetle or the first occurrence of a bee, not based on the body fossil of the animal, but on its diagnostic feeding behaviour.", start: 2782.30, end: 2795.90, zh: "在某些情况下，同事和 pennybuttons 能够识别出甲虫或蜜蜂的首次出现，这并非基于动物的身体化石，而是基于其具有诊断性的取食行为。（pennybuttons 可能是转录错误，指代某位研究者或特定术语；diagnostic 具有诊断性的）"}
+  - {text: "On the leaf. Yeah, preserved on the leaves.", start: 2796.46, end: 2799.06, zh: "在叶片上。是的，保存在叶片上。（preserved 保存，保留）"}
+  - {text: "And what about, Bill, you mentioned gigantism.", start: 2799.44, end: 2802.40, zh: "那么关于你提到的巨型化现象呢，比尔？（gigantism 巨型化，指生物体型异常巨大）"}
+  - {text: "What about in trees, things like the sequoia, the redwood forests in, I mean, you know, I've seen, I haven't seen the big fat ones, but I've been in San Francisco to see these unbelievably tall trees.", start: 2802.90, end: 2818.20, zh: "在树木方面，比如红杉，加州的红杉林，我是说，你知道，我没见过那些特别粗壮巨大的，但我曾去旧金山见过那些高得令人难以置信的树。（sequoia 红杉；redwood 红杉木，常指海岸红杉）"}
+  - {text: "How did they emerge?", start: 2818.46, end: 2819.32, zh: "它们是如何出现的？（emerge 出现，涌现）"}
+  - {text: "So we know that the tallest living tree recorded is about 116 metres tall.", start: 2819.72, end: 2826.66, zh: "我们知道，有记录以来最高的现存树木大约高 116 米。（tallest living tree 最高的现存树木）"}
+  - {text: "And I was looking at a good analogy.", start: 2827.46, end: 2829.32, zh: "我在寻找一个很好的类比。（analogy 类比，比喻）"}
+  - {text: "I think Big Ben is around 80, 90 metres.", start: 2829.94, end: 2832.66, zh: "我觉得大本钟大概有八十到九十米高。（Big Ben 大本钟，伦敦地标）"}
+  - {text: "So it's taller than Big Ben.", start: 2833.16, end: 2834.46, zh: "所以它比大本钟还要高。"}
+  - {text: "Wow. And there's a group of physicists mainly and plant scientists in Berkeley, and they actually did a really nice theory paper and they asked, what is the limit of tree height?", start: 2834.46, end: 2846.52, zh: "哇。在伯克利有一群主要是物理学家和植物学家组成的团队，他们发表了一篇非常精彩的理论论文，探讨了树高的极限是多少。（Berkeley 伯克利，美国加州大学所在地；theory paper 理论论文）"}
+  - {text: "And they determined it's about 140 metres.", start: 2846.74, end: 2848.92, zh: "他们得出的结论是大约一百四十米。"}
+  - {text: "And what limits a tree from ever getting taller than that is that wood, those xylem cells, suck water up under tension and negative pressure.", start: 2849.50, end: 2860.26, zh: "限制树木长得比这更高的原因是，木材中的那些木质部细胞是在张力和负压下吸水上升的。（xylem cells 木质部细胞；tension 张力；negative pressure 负压）"}
+  - {text: "And the water has to get from the roots all the way up to the leaves at 130 metres tall of the tree.", start: 2860.62, end: 2867.14, zh: "水必须从根部一直输送到高达一百三十米的树顶叶片。"}
+  - {text: "And you break that flow of water.", start: 2867.14, end: 2870.88, zh: "一旦这种水流被阻断……"}
+  - {text: "Bill mentioned it in his palm.", start: 2871.34, end: 2873.14, zh: "比尔在他的棕榈树例子中提到了这一点。（palm 棕榈树）"}
+  - {text: "So you break the flow.", start: 2873.32, end: 2874.42, zh: "所以水流就断了。"}
+  - {text: "And the leaves at the top of the tallest tree are actually almost living in a desert.", start: 2875.18, end: 2879.86, zh: "实际上，最高树木顶端的叶片几乎生活在沙漠环境中。（desert 沙漠）"}
+  - {text: "They're so water starved that a tree cannot get taller because they would no longer be able to photosynthesize because they need water to exchange for carbon.", start: 2880.18, end: 2888.16, zh: "它们极度缺水，导致树木无法长得更高，因为缺水就无法进行光合作用，而光合作用需要用水来交换碳。（water starved 极度缺水；photosynthesize 光合作用）"}
+  - {text: "So the limit of tree height is a hard line.", start: 2888.98, end: 2892.88, zh: "所以树高的极限是一条硬性红线。（limit 极限；hard line 硬性界限）"}
+  - {text: "It's about 135 metres.", start: 2893.04, end: 2894.50, zh: "大约是135米。"}
+  - {text: "Nothing is ever can get taller or has got taller that we know of.", start: 2894.50, end: 2898.46, zh: "据我们所知，没有任何东西能长到比这更高，也没有长到这么高的。（get taller 长高）"}
+  - {text: "And this may be a stupid follow -up question, but in somewhere like the Amazon where you have these monumental rainfalls, the flying, the so -called flying river,", start: 2898.54, end: 2909.64, zh: "这也许是个愚蠢的追问，但在亚马逊这种拥有巨大降雨量、也就是所谓的“飞行河流”的地方……（follow-up question 追问；Amazon 亚马逊；flying river 飞行河流，指亚马逊雨林蒸腾产生的水汽）"}
+  - {text: "is there any way that the canopy can extract water other than sucking it up from the ground?", start: 2910.10, end: 2916.18, zh: "树冠有没有可能通过从地面吸水以外的方式获取水分？（canopy 树冠；extract 提取，获取）"}
+  - {text: "I don't think so.", start: 2916.74, end: 2917.78, zh: "我不觉得有。（I don't think so 我不这么认为）"}
+  - {text: "Is there? You're nodding.", start: 2917.88, end: 2918.70, zh: "是吗？你在点头。（nodding 点头）"}
+  - {text: "I'm out of my depth here.", start: 2920.06, end: 2921.36, zh: "我对此不太懂。（out of my depth 超出我的能力范围，不懂）"}
+  - {text: "So I suppose fog.", start: 2921.36, end: 2923.18, zh: "所以我想应该是雾。（fog 雾）"}
+  - {text: "So you can get deposition of fog onto a leaf surface.", start: 2923.46, end: 2926.92, zh: "所以你可以看到雾气会在叶片表面凝结。（deposition 沉积，凝结；fog 雾）"}
+  - {text: "And most of the water supply is up from the roots, but plants, they actually can take up a certain amount of moisture through their cuticle, but it's a tiny, tiny amount.", start: 2927.62, end: 2938.86, zh: "大部分水分是从根部向上输送的，但植物其实也能通过角质层吸收一定量水分，不过量非常少。（cuticle 角质层；moisture 水分）"}
+  - {text: "What else did we miss out in the programme?", start: 2940.02, end: 2942.68, zh: "我们在节目里还遗漏了什么内容吗？（miss out 遗漏，错过）"}
+  - {text: "I just wanted to make another plug for the palm family, if I may.", start: 2942.94, end: 2945.48, zh: "如果方便的话，我想再为棕榈科植物打一下广告。（plug 宣传，推广；palm family 棕榈科）"}
+  - {text: "Please do. That, yeah, the 100 -something metre sequoia is totally awesome, but the palms still beat that in terms of total stem length, not in a tree form,", start: 2946.38, end: 2959.68, zh: "请说。是的，那棵一百多米的红杉确实很壮观，但就茎的总长度而言，棕榈树还是胜过它，虽然它不是典型的树形。（sequoia 红杉；stem 茎）"}
+  - {text: "but there is a whole group of palms that have evolved from trees to become climbers, the so -called ratans of the cane furniture industry and the longest stem", start: 2959.68, end: 2969.90, zh: "但有一类棕榈树从树形演化成了攀援植物，也就是藤条家具行业所说的藤条，它们拥有最长的茎……（climbers 攀援植物；ratans 藤条）"}
+  - {text: "that doesn't sort of root along its length.", start: 2969.90, end: 2972.60, zh: "而且这种茎在生长过程中不会生根。（root 生根；along its length 沿着其长度）"}
+  - {text: "It was reported to be something like 200 metres long.", start: 2972.74, end: 2976.22, zh: "据报告，它的长度大约有两百米。（reported 据报告；metres 米）"}
+  - {text: "I think there was said to be a longer one, but an elephant chewed it up before it could be measured, but it isn't, it's a pretty poor point to score there, Jenny,", start: 2976.22, end: 2987.44, zh: "我记得据说有一棵更长的，但在测量之前被大象啃掉了，不过这算不了什么，珍妮，因为……（chewed 啃食；score 得分，占便宜）"}
+  - {text: "because of course the ratan is constantly slipping out of the canopy and it's not 200 metres in vertical height.", start: 2987.62, end: 2995.78, zh: "因为藤条实际上一直在从树冠中滑出，所以它并不是垂直高度达到两百米。（canopy 树冠；vertical height 垂直高度）"}
+  - {text: "It's producing coils of stem on the floor, which so it's not having to deal with that tug of war against gravitational pull.", start: 2995.78, end: 3004.20, zh: "它在地面上生长出盘绕的茎，因此不需要应对与重力拉扯的对抗。（coils 盘绕；tug of war 拔河，比喻对抗；gravitational pull 重力）"}
+  - {text: "And tell me, Chris, in terms of those trees which grew along the ground, the first trees, do they exist any more anywhere?", start: 3004.20, end: 3015.30, zh: "克里斯，请告诉我，那些沿地面生长的最初树木，现在地球上还有吗？（in terms of 就……而言）"}
+  - {text: "So not in the, it's an extinct group of plants, but if you do go into tropical forests, you can see all sorts of plants which have very, very similar habits,", start: 3016.52, end: 3026.32, zh: "所以它们并不存在，这是一个已经灭绝的植物类群，但如果你去热带森林，可以看到各种具有非常相似习性的植物。（extinct 灭绝的；habits 习性）"}
+  - {text: "usually using trees, upright trees as a sort of prop, and sometimes with little prop roots and things.", start: 3027.30, end: 3034.04, zh: "它们通常利用直立的树木作为支撑，有时还会长出细小的支柱根。（prop 支撑；prop roots 支柱根）"}
+  - {text: "And when we had to reconstruct what this plant looked like, we did go into a botanical garden and go round and look at some things which might have a similar sort of reason for being and so on and look for a model, which is what I quite often do.", start: 3034.42, end: 3051.02, zh: "当我们试图重建这种植物的外观时，我们确实去了植物园，四处寻找可能具有类似存在理由的事物，以此作为模型，这是我经常做的事。（reconstruct 重建；botanical garden 植物园）"}
+  - {text: "I go, because I, anybody listening to this who's a botanist would be going, Chris, he's not a botanist.", start: 3051.16, end: 3056.20, zh: "我去那里，因为任何听这个节目的植物学家都会说：克里斯，他可不是植物学家。（botanist 植物学家）"}
+  - {text: "I think it's quite obvious that I'm the geologist here, but I do like going into botanical gardens and looking at the plants and trying to work out how they grow, why they grow,", start: 3056.46, end: 3066.48, zh: "我认为很明显我是这里的地质学家，但我确实喜欢去植物园观察植物，试图弄清楚它们如何生长、为何生长。（geologist 地质学家）"}
+  - {text: "and what are the analogies to these really ancient plants.", start: 3066.66, end: 3069.74, zh: "以及这些极其古老的植物有哪些类比物。（analogies 类比物，类似物）"}
+  - {text: "And so that there are analogous things, but there's not the same thing.", start: 3070.16, end: 3073.62, zh: "所以确实存在类似的事物，但并非完全相同的东西。（analogous 类似的）"}
+  - {text: "And can someone tell me about the Wallamy Pine and what the Wallamy Pine is and why it's important?", start: 3074.06, end: 3079.42, zh: "谁能告诉我关于瓦拉米松的事，瓦拉米松是什么，以及它为什么重要？（Wallamy Pine 瓦拉米松，一种已灭绝的早期树木）"}
+  - {text: "So the Wallamy Pine is a beautiful tree, which three of my colleagues have in their gardens growing at various different heights.", start: 3080.62, end: 3089.18, zh: "所以，这棵松树非常漂亮，我的三位同事都在自家花园里种了它，而且长得高矮不一。（Wallamy Pine 沃拉米松，一种松树；colleagues 同事）"}
+  - {text: "So it's one of an example like the Dawn Redwood and various other things of a plant which has a morphology, which you can sort of see in the past.", start: 3089.46, end: 3098.68, zh: "它就像黎明红杉和其他一些植物一样，其形态特征让我们能窥见过去的样子。（Dawn Redwood 黎明红杉；morphology 形态）"}
+  - {text: "It's related to agathists and to Arakari and various other types of coniferous tree.", start: 3098.86, end: 3104.58, zh: "它与南洋杉属、阿拉卡里松以及各种其他类型的针叶树有亲缘关系。（agathists 南洋杉属；Arakari 阿拉卡里松；coniferous 针叶的）"}
+  - {text: "For my point of view, it was discovered in Australia relatively recently and has been cultivated and spread around the world.", start: 3105.32, end: 3113.72, zh: "在我看来，它是在澳大利亚相对较近的时候被发现的，随后被人工培育并传播到世界各地。（cultivated 人工培育；spread 传播）"}
+  - {text: "From my point of view, I like it because it's an example.", start: 3114.00, end: 3118.36, zh: "就我而言，我喜欢它，因为它是一个典型的例子。（point of view 观点；example 例子）"}
+  - {text: "I've been looking for years and years using this analogy example for a vertical upright trunk, which just has small leafy branches coming off it to see how far a tree can get that just has small leafy branches.", start: 3118.48, end: 3132.46, zh: "多年来，我一直用这个垂直主干、只长出细小枝叶的树作为类比，想看看这种树能长到多高。（analogy 类比；upright 直立的）"}
+  - {text: "And it does that, it produces small leafy branches and I had a photograph of one from the parking card if on my phone.", start: 3133.20, end: 3139.76, zh: "它确实做到了，长出了细小的枝叶，我手机里还有一张在停车场拍的照片。（parking card 停车场；leafy branches 枝叶）"}
+  - {text: "And I thought, I've got to go back and see that because it was about two meters tall when I took the photograph.", start: 3139.88, end: 3144.36, zh: "我想，我得回去看看那棵树，因为拍照时它才两米高。（photograph 照片；meters 米）"}
+  - {text: "I just went back to see it and it's now eight meters tall.", start: 3144.72, end: 3147.12, zh: "我回去一看，它现在已经有八米高了。（meters 米；tall 高）"}
+  - {text: "It's absolutely gorgeous. With these leafy branches, eventually some of those branches will start turning into subsidiary trunks and growing upright and it'll do all sorts of interesting things.", start: 3147.28, end: 3158.34, zh: "它美得令人惊叹。随着这些枝叶的生长，其中一些最终会变成副干并向上生长，它会做出各种有趣的变化。（subsidiary trunks 副干；gorgeous 极美的）"}
+  - {text: "But at the moment, it's a really nice analogy for the sort of early Archaeoptery's trees that we have from 370 million years ago.", start: 3158.70, end: 3167.86, zh: "但就目前而言，这是一个非常贴切的类比，用来形容我们拥有的那些距今3.7亿年的早期始祖鸟状树木。（analogy 类比；Archaeoptery's 始祖鸟，这里指类似始祖鸟的早期树木）"}
+  - {text: "Yeah, so they came from Australia, right?", start: 3167.88, end: 3169.14, zh: "是的，所以它们来自澳大利亚，对吗？"}
+  - {text: "Correct, yes, from one of me.", start: 3169.18, end: 3170.86, zh: "没错，是的，来自我的……"}
+  - {text: "And thought, they were thought to be extinct, is that right?", start: 3171.92, end: 3175.48, zh: "而且，据信它们已经灭绝了，是这样吗？（extinct 灭绝）"}
+  - {text: "Yeah, so I think it's really remarkable that a tree was discovered, not known to science and it was, I think it was climbers or abseilers and they went down into a gorge outside Sydney,", start: 3175.88, end: 3188.62, zh: "是的，我认为非常不可思议的是，一棵树被发现了，科学界此前并不知晓，我想是攀岩者或速降者，他们进入了悉尼郊外的一条峡谷，（abseilers 速降者；gorge 峡谷）"}
+  - {text: "very inhospitable, you know, people don't go there and found this grove of trees.", start: 3189.20, end: 3194.14, zh: "那里环境非常恶劣，你知道的，人们不会去那里，却发现了这片树林。（inhospitable 环境恶劣的；grove 树林）"}
+  - {text: "So for conservation purposes, Botanic Gardens all over the world now host Wallamy Pines but also genetic variants of them and this is, it's called a conservation horticulture collection.", start: 3194.90, end: 3208.36, zh: "出于保护目的，现在世界各地的植物园都种植了沃拉米松，以及它们的遗传变异体，这被称为保护园艺收藏。（conservation 保护；genetic variants 遗传变异体）"}
+  - {text: "So it's a way of ensuring the longevity of that incredible tree into the future by kind of sending it to other places to look after, kind of like plant zoos.", start: 3208.66, end: 3219.54, zh: "所以这是一种确保这种不可思议的树木在未来长久生存的方式，通过将其送到其他地方进行照料，有点像植物动物园。（longevity 长寿，长久生存）"}
+  - {text: "We actually have included it in our witness tree projects.", start: 3220.02, end: 3223.30, zh: "我们实际上已经将其纳入了我们的见证树项目。（witness tree 见证树，指具有历史或生态意义的树木）"}
+  - {text: "So it is one of our trees that we're monitoring every year to see how it responds to climate change and also to see how it takes up atmospheric pollution in the city environment.", start: 3223.44, end: 3232.32, zh: "所以它是我们要每年监测的树木之一，以观察它如何应对气候变化，以及在城市环境中如何吸收大气污染。（atmospheric pollution 大气污染）"}
+  - {text: "Yeah, because it wasn't in city environments at all, was it?", start: 3232.32, end: 3236.92, zh: "是啊，因为它根本不在城市环境里，对吧？"}
+  - {text: "No, not at all.", start: 3237.02, end: 3237.62, zh: "不，完全不是。"}
+  - {text: "But it seems to be tough as old boots.", start: 3237.72, end: 3239.02, zh: "但它看起来生命力极强。（tough as old boots 非常坚韧，生命力强）"}
+  - {text: "I mean, it's growing like the clappers at Kew and yeah, really interesting.", start: 3239.24, end: 3243.88, zh: "我是说，它在邱园长得飞快，真的很有趣。（like the clappers 飞快地，迅速；Kew 邱园，伦敦皇家植物园）"}
+  - {text: "You've got a Wallamy too.", start: 3243.90, end: 3244.94, zh: "你们那里也有紫杉。（Wallamy 可能是 Walramy 或某种植物的误听，此处按语境推测为紫杉或类似树种，但原文拼写有误，暂译为紫杉）"}
+  - {text: "We've got quite a few, yeah.", start: 3245.18, end: 3246.54, zh: "我们有不少，是的。"}
+  - {text: "Well, I think I shall be visiting Kew once again fairly soon and if I may, when I next go to Dublin, Jenny, I will come and see the Trinity Botanic Gardens.", start: 3248.40, end: 3259.88, zh: "我想我很快会再去一次邱园，如果方便的话，下次我去都柏林时，珍妮，我会去参观三一学院植物园。（Trinity Botanic Gardens 三一学院植物园，位于都柏林）"}
+  - {text: "Please do. You're welcome.", start: 3260.18, end: 3261.38, zh: "请一定来。随时欢迎。"}
+  - {text: "Well, thank you very much.", start: 3261.38, end: 3263.04, zh: "非常感谢。"}
+  - {text: "I think we all deserve a cup of tea or a cup of coffee.", start: 3263.14, end: 3265.60, zh: "我觉得我们都该喝杯茶或咖啡了。"}
+  - {text: "That would be good.", start: 3265.82, end: 3266.30, zh: "那会很好。"}
+  - {text: "Oh, here he comes.", start: 3266.72, end: 3267.54, zh: "噢，他来了。"}
+  - {text: "Tea or coffee? Coffee.", start: 3268.18, end: 3269.32, zh: "喝茶还是咖啡？咖啡。"}
+  - {text: "I can let myself have a coffee now because it doesn't matter if I speak too quickly.", start: 3269.50, end: 3273.60, zh: "我现在可以喝咖啡了，因为说得太快也没关系。（let myself have 允许自己享用）"}
+  - {text: "A coffee would be gorgeous.", start: 3274.34, end: 3275.54, zh: "来杯咖啡太棒了。（gorgeous 极好的，美妙的）"}
+  - {text: "Thank you. Tea please.", start: 3275.86, end: 3276.86, zh: "谢谢。请给我茶。"}
+  - {text: "There are plenty of coffee's.", start: 3277.38, end: 3278.78, zh: "咖啡有很多。（plenty of 许多，大量）"}
+  - {text: "Coffee is a tree.", start: 3278.80, end: 3279.62, zh: "咖啡树是一棵树。"}
+  - {text: "And chocolate is a tree.", start: 3279.94, end: 3281.30, zh: "巧克力（可可）也是一棵树。"}
+  - {text: "And tea is really, if you let it go, if you weren't permanently removing it to make tea.", start: 3281.76, end: 3286.08, zh: "而茶，如果你任由它生长，不为了制茶而不断采摘它的话……（permanently removing 永久移除，此处指持续采摘）"}
+  - {text: "In our time with Misha Glenny is produced by Simon Tillitson and it's a BBC Studios production.", start: 3287.72, end: 3293.32, zh: "本期《我们的时代》由米沙·格伦尼主持，西蒙·蒂尔森制作，是BBC Studios的作品。（Misha Glenny 米沙·格伦尼，作家；Simon Tillitson 西蒙·蒂尔森，制作人）"}
+  - {text: "This is a nightmare.", start: 3295.42, end: 3296.24, zh: "这简直是一场噩梦。（nightmare 噩梦）"}
+  - {text: "I need to get out of here because I do not want them to see me.", start: 3296.96, end: 3299.32, zh: "我得赶紧离开这里，因为我不想让他们看到我。"}
+  - {text: "A search across borders in some tricky situations.", start: 3299.78, end: 3303.36, zh: "在边境进行搜寻，有些情况非常棘手。（tricky 棘手的，困难的）"}
+  - {text: "Shoot, there's a boat in the back of that car.", start: 3303.82, end: 3305.28, zh: "天哪，那辆车的后备箱里有一艘船。（shoot 天哪，哎呀，表示惊讶）"}
+  - {text: "Yeah, there is. No, no, no, don't get out.", start: 3305.74, end: 3307.12, zh: "是的，有。不，不，不，别下车。"}
+  - {text: "Watching smugglers who bring thousands of people to the UK.", start: 3307.54, end: 3311.24, zh: "监视那些将成千上万的人偷运到英国的走私者。（smugglers 走私者）"}
+  - {text: "They have gone, they have knives.", start: 3311.54, end: 3312.94, zh: "他们走了，他们拿着刀。"}
+  - {text: "They have no sheen.", start: 3313.54, end: 3314.90, zh: "他们身上没有光泽。（sheen 光泽，通常指表面反光，此处可能为转录错误，原意可能是指“没有伪装”或“没有掩护”，但按字面翻译为光泽）"}
+  - {text: "And at the top, a man who keeps his identity well hidden.", start: 3315.06, end: 3318.72, zh: "而在最顶端，是一个极力隐藏自己身份的人。（identity 身份）"}
+  - {text: "If they know I'm talking about them, they come tonight, they will kill me.", start: 3318.72, end: 3322.62, zh: "如果他们知道我今晚在谈论他们，他们就会杀了我。（kill 杀害）"}
+  - {text: "Can we find out who he is?", start: 3323.52, end: 3325.82, zh: "我们能查出他是谁吗？（find out 查明，弄清）"}
+  - {text: "From Radio 4, this is Intrigue to Catch a King.", start: 3326.56, end: 3329.56, zh: "来自BBC Radio 4，这是《Intrigue to Catch a King》。（Intrigue 阴谋，诡计；Catch 抓捕）"}
+  - {text: "Listen first on BBC Sounds.", start: 3330.52, end: 3332.64, zh: "请在BBC Sounds上抢先收听。（Listen first 抢先听，优先收听）"}
 ---

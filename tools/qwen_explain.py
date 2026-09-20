@@ -15,7 +15,12 @@ Flow (unchanged around this script):
     tools/merge_explain.py  merges those into the episode frontmatter
 
 The output format is exactly what merge_explain.py expects: a JSON array of
-`{"id": <sentence id>, "explain": "<text>"}`, ids matching the chunk file.
+`{"id": <sentence id>, "explain": "<English note>", "zh": "<Chinese note>"}`,
+ids matching the chunk file. `zh` is the same sentence rendered for a Chinese
+learner — a natural Simplified-Chinese translation followed by the Chinese
+meanings of the hard terms in full-width parentheses. A sentence counts as done
+only when both languages came back, so a reply that drops the Chinese is retried
+rather than published as English-only.
 
 The prompt is anchored with real examples taken from already-published
 episodes so the generated notes keep the site's existing voice.
@@ -40,9 +45,13 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
+import yaml
+
 TOOLS = Path(__file__).resolve().parent
+REPO = TOOLS.parent
 CHUNKS = TOOLS / "a2_chunks"
 RESULTS = CHUNKS / "results"
+CONTENT = REPO / "english-site" / "content" / "episodes"
 DEFAULT_ENDPOINT = "http://127.0.0.1:30000/v1/chat/completions"
 DEFAULT_MODEL = "Qwen3.8-27B-FP8"
 API_KEY_FILE = Path.home() / ".sglang_api_key"
@@ -74,8 +83,26 @@ Rules:
 - If the sentence is a station ident, an advert or a trailer, say that it is.
 - Never mention that you are an AI and never add extra commentary.
 
+You ALSO write a Chinese note for the same sentence, for the same learner:
+
+1. Translate the whole sentence into natural spoken Simplified Chinese, the way a
+   Chinese news podcast would phrase it. Translate the meaning, not word for word.
+2. Then add one pair of full-width parentheses listing the hard terms you chose:
+   （term 中文；term2 中文2）
+   Keep each English term as written in the sentence, give a short Chinese
+   meaning, separate the pairs with a full-width semicolon. At most three terms.
+   If the sentence has no hard term at all, omit the parentheses.
+
+Rules for the Chinese note:
+- Simplified Chinese only, one single line (no newlines).
+- Keep people, place and organisation names in their usual Chinese form; leave
+  BBC, NATO and similar as they are rather than inventing a translation.
+- The transcript may be broken or oddly spaced; translate the intended meaning.
+  For a cut-off fragment, end with …… to show it continues.
+- No grammar talk, no commentary, and never mention being an AI.
+
 Return ONLY a JSON array, with one object per input sentence, in the same order:
-[{"id": <the id you were given>, "explain": "<your note>"}]
+[{"id": <id>, "explain": "<English note>", "zh": "<Chinese note>"}]
 No markdown fences, no text before or after the array.
 
 Two real published examples of the house style:
@@ -84,7 +111,45 @@ Input:
 [{"id": 15, "text": "Our correspondent in Nablus has"}, {"id": 10, "text": "And the baby is as well"}]
 
 Output:
-[{"id": 15, "explain": "A \\"correspondent\\" is a reporter who reports news from a particular place. \\"Nablus\\" is a city in the West Bank. The presenter says the details will come soon, but first takes you to a village south of Nablus. The sentence breaks off at \\"has\\" and continues in the next one."}, {"id": 10, "explain": "\\"As well\\" means also, too. This short sentence says that the baby is actually with the parents too, at the place where this part of the show is being recorded."}]
+[{"id": 15, "explain": "A \\"correspondent\\" is a reporter who reports news from a particular place. \\"Nablus\\" is a city in the West Bank. The presenter says the details will come soon, but first takes you to a village south of Nablus. The sentence breaks off at \\"has\\" and continues in the next one.", "zh": "我们驻纳布卢斯的记者……（correspondent 记者；Nablus 纳布卢斯，约旦河西岸城市）"}, {"id": 10, "explain": "\\"As well\\" means also, too. This short sentence says that the baby is actually with the parents too, at the place where this part of the show is being recorded.", "zh": "宝宝也在场。（as well 也，同样）"}]
+"""
+
+SYSTEM_PROMPT_ZH = """\
+You write the Chinese note that helps a Chinese learner of English follow a BBC
+podcast transcript. You are given English sentences from an automatic
+transcript; return a Chinese note for each one.
+
+The note has two parts, on one single line:
+1. The whole sentence translated into natural spoken Simplified Chinese, phrased
+   the way a Chinese news podcast would say it. Translate the meaning, not word
+   for word.
+2. Then one pair of full-width parentheses listing the terms that are hard for a
+   learner: （term 中文；term2 中文2）
+   Keep each English term as written in the sentence, give a short Chinese
+   meaning, and separate the pairs with a full-width semicolon. At most three
+   terms. If nothing in the sentence is hard, omit the parentheses.
+
+Rules:
+- Simplified Chinese only, one single line, no newlines.
+- Keep people, place and organisation names in their usual Chinese form; leave
+  BBC, NATO and similar as they are rather than inventing a translation.
+- The transcript may be broken or oddly spaced ("o 'clock", "women -free zone").
+  Translate the intended meaning; never comment on the spacing.
+- For a cut-off fragment, end with …… to show it continues in the next sentence.
+- For a station ident, an advert or a trailer, just translate it plainly.
+- No grammar talk, no commentary, and never mention being an AI.
+
+Return ONLY a JSON array, with one object per input sentence, in the same order:
+[{"id": <id>, "zh": "<Chinese note>"}]
+No markdown fences, no text before or after the array.
+
+Example:
+
+Input:
+[{"id": 15, "text": "Our correspondent in Nablus has"}, {"id": 10, "text": "And the baby is as well"}]
+
+Output:
+[{"id": 15, "zh": "我们驻纳布卢斯的记者……（correspondent 记者；Nablus 纳布卢斯，约旦河西岸城市）"}, {"id": 10, "zh": "宝宝也在场。（as well 也，同样）"}]
 """
 
 _thread_local = threading.local()
@@ -152,58 +217,89 @@ def parse_explanations(text: str) -> list[dict]:
         if not isinstance(item, dict) or "id" not in item:
             continue
         explain = str(item.get("explain", "")).strip()
-        if explain:
-            out.append({"id": int(item["id"]), "explain": explain})
+        zh = " ".join(str(item.get("zh", "")).split())
+        if explain or zh:          # zh-only replies carry no "explain"
+            out.append({"id": int(item["id"]), "explain": explain, "zh": zh})
     if not out:
-        raise ValueError("reply array held no usable explanations")
+        raise ValueError("reply array held no usable notes")
     return out
 
 
 def explain_batch(sentences: list[dict], meta: dict, *, endpoint: str, model: str,
-                  key: str, timeout: int, retries: int = 3) -> dict[int, str]:
-    """Explanations for one batch of sentences; missing ids are retried alone."""
+                  key: str, timeout: int, retries: int = 3,
+                  zh_only: bool = False) -> dict[int, dict]:
+    """Notes for one batch; ids missing a language are retried alone.
+
+    Returns {id: {"explain": ..., "zh": ...}}. In the default (both) mode a
+    sentence counts as done only when both languages came back, so a reply that
+    quietly drops the Chinese is retried rather than published as English-only.
+    With zh_only=True the 💡 English notes are left untouched and only the
+    Chinese is requested — that is how the already-published notes were kept
+    while Chinese was added.
+    """
+    system = SYSTEM_PROMPT_ZH if zh_only else SYSTEM_PROMPT
     context = (f"Episode: {meta.get('title', '')}\n"
                f"Show: {meta.get('show', '')}   Date: {meta.get('date', '')}")
     user = (context + "\n\nExplain these transcript sentences:\n"
             + json.dumps([{"id": s["id"], "text": s["text"]} for s in sentences],
                          ensure_ascii=False))
-    messages = [{"role": "system", "content": SYSTEM_PROMPT},
+    messages = [{"role": "system", "content": system},
                 {"role": "user", "content": user}]
 
-    # ~90 tokens of note per sentence, with headroom.
-    max_tokens = min(8192, 200 + 110 * len(sentences))
-    got: dict[int, str] = {}
+    # Chinese needs ~80 tokens a sentence; the English note ~90 on top of that.
+    per_sentence = 130 if zh_only else 210
+    max_tokens = min(16384, 300 + per_sentence * len(sentences))
+    got: dict[int, dict] = {}
+
+    def complete() -> bool:
+        for s in sentences:
+            g = got.get(s["id"], {})
+            if not g.get("zh"):
+                return False
+            if not zh_only and not g.get("explain"):
+                return False
+        return True
+
     last: Exception | None = None
     for attempt in range(retries):
         try:
             reply = chat(messages, endpoint=endpoint, model=model, key=key,
                          max_tokens=max_tokens, timeout=timeout)
             for item in parse_explanations(reply):
-                got[item["id"]] = item["explain"]
-            if all(s["id"] in got for s in sentences):
+                cur = got.setdefault(item["id"], {})
+                if item["explain"]:
+                    cur["explain"] = item["explain"]
+                if item["zh"]:
+                    cur["zh"] = item["zh"]
+            if complete():
                 return got
-            last = ValueError("reply omitted some ids")
+            last = ValueError("reply omitted some ids or Chinese notes")
             break
         except (urllib.error.URLError, ValueError, KeyError, TimeoutError) as exc:
             last = exc
             if attempt + 1 < retries:
                 continue
 
-    # Fall back to one sentence per request for whatever is still missing.
+    # Fall back to one sentence per request for whatever is still incomplete.
     for s in sentences:
-        if s["id"] in got:
+        have = got.get(s["id"], {})
+        if have.get("zh") and (zh_only or have.get("explain")):
             continue
         try:
-            reply = chat([{"role": "system", "content": SYSTEM_PROMPT},
+            reply = chat([{"role": "system", "content": system},
                           {"role": "user", "content":
                            context + "\n\nExplain this transcript sentence:\n"
                            + json.dumps([{"id": s["id"], "text": s["text"]}],
                                         ensure_ascii=False)}],
                          endpoint=endpoint, model=model, key=key,
-                         max_tokens=600, timeout=timeout)
+                         max_tokens=1200, timeout=timeout)
             for item in parse_explanations(reply):
                 if item["id"] == s["id"]:
-                    got[s["id"]] = item["explain"]
+                    cur = got.setdefault(item["id"], {})
+                    if item["explain"]:
+                        cur["explain"] = item["explain"]
+                    if item["zh"]:
+                        cur["zh"] = item["zh"]
         except Exception as exc:  # keep going; report at the end
             last = exc
     if not got and last:
@@ -211,32 +307,124 @@ def explain_batch(sentences: list[dict], meta: dict, *, endpoint: str, model: st
     return got
 
 
+def process_episode_zh(md: Path, args) -> tuple[str, int, int]:
+    """Chinese note for EVERY sentence of one episode -> results/<slug>_zh.json.
+
+    The A2 chunks only carry sentences that contain something beyond A2, so a
+    translation built from them has holes: ordinary sentences such as "It's a
+    huge deal in and of itself." are never flagged, yet a reader following along
+    still needs them translated. This pass therefore walks the episode
+    frontmatter directly and covers every sentence.
+    """
+    slug = md.stem
+    fm = yaml.safe_load(md.read_text(encoding="utf-8").split("---\n", 2)[1]) or {}
+    sentences = fm.get("sentences") or []
+    out_path = RESULTS / f"{slug}_zh.json"
+    if not sentences:
+        return f"skip (no sentences) {slug}", 0, 0
+
+    existing: dict[int, str] = {}
+    if out_path.exists():
+        try:
+            existing = {int(e["id"]): e["zh"]
+                        for e in json.loads(out_path.read_text(encoding="utf-8"))
+                        if e.get("zh")}
+        except (OSError, ValueError, KeyError, TypeError):
+            existing = {}
+
+    todo = [{"id": i, "text": s["text"]}
+            for i, s in enumerate(sentences) if i not in existing]
+    if not todo and not args.force:
+        return f"skip (zh done) {slug}", 0, 0
+    if args.force:
+        todo = [{"id": i, "text": s["text"]} for i, s in enumerate(sentences)]
+
+    meta = {"title": fm.get("title", ""), "show": fm.get("show", ""),
+            "date": str(fm.get("date", ""))[:10]}
+    got: dict[int, dict] = {}
+    batch = max(1, args.batch)
+    for start in range(0, len(todo), batch):
+        part = todo[start:start + batch]
+        got.update(explain_batch(part, meta, endpoint=args.endpoint,
+                                 model=args.model, key=args.key,
+                                 timeout=args.timeout, zh_only=True))
+
+    zh = dict(existing)
+    for item in todo:
+        z = got.get(item["id"], {}).get("zh")
+        if z:
+            zh[item["id"]] = z
+    if args.dry_run:
+        return (f"dry-run {slug}: {len(zh)}/{len(sentences)} sentences"), 0, 0
+    RESULTS.mkdir(parents=True, exist_ok=True)
+    payload = [{"id": i, "zh": zh[i]} for i in sorted(zh)]
+    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=1),
+                        encoding="utf-8")
+    missing = len(sentences) - len(zh)
+    msg = f"wrote {out_path.name}: {len(zh)}/{len(sentences)} sentences"
+    if missing:
+        msg += f" — {missing} WITHOUT zh"
+    return msg, len(zh), len(sentences)
+
+
 def process_chunk(path: Path, args) -> tuple[str, int, int]:
     payload = json.loads(path.read_text(encoding="utf-8"))
     sentences = payload.get("sentences") or []
     meta = {k: payload.get(k, "") for k in ("episode", "title", "show", "date")}
     out_path = RESULTS / path.name
-    if out_path.exists() and not args.force:
-        return f"skip (exists) {path.name}", 0, 0
 
-    got: dict[int, str] = {}
+    existing: dict[int, dict] = {}
+    if out_path.exists():
+        try:
+            existing = {int(e["id"]): e
+                        for e in json.loads(out_path.read_text(encoding="utf-8"))}
+        except (OSError, ValueError, KeyError, TypeError):
+            existing = {}
+
+    if out_path.exists() and not args.force:
+        if not args.zh_only:
+            return f"skip (exists) {path.name}", 0, 0
+        if all(existing.get(s["id"], {}).get("zh") for s in sentences):
+            return f"skip (zh done) {path.name}", 0, 0
+
+    got: dict[int, dict] = {}
     batch = max(1, args.batch)
     for start in range(0, len(sentences), batch):
         part = sentences[start:start + batch]
         got.update(explain_batch(part, meta, endpoint=args.endpoint,
                                  model=args.model, key=args.key,
-                                 timeout=args.timeout))
-    ordered = [{"id": s["id"], "explain": got[s["id"]]}
-               for s in sentences if s["id"] in got]
+                                 timeout=args.timeout, zh_only=args.zh_only))
+
+    # Anything the run did not produce falls back to what the chunk already had,
+    # so `--zh-only` adds Chinese without dropping the published English notes.
+    ordered, no_zh = [], 0
+    for s in sentences:
+        g = got.get(s["id"], {})
+        prev = existing.get(s["id"], {})
+        explain = g.get("explain") or prev.get("explain")
+        zh = g.get("zh") or prev.get("zh")
+        if not explain and not zh:
+            continue
+        entry = {"id": s["id"]}
+        if explain:
+            entry["explain"] = explain
+        if zh:
+            entry["zh"] = zh
+        else:
+            no_zh += 1
+        ordered.append(entry)
     if not ordered:
         raise RuntimeError("no explanations produced")
     if args.dry_run:
-        return f"dry-run {path.name}: {len(ordered)}/{len(sentences)}", 0, 0
+        note = f"dry-run {path.name}: {len(ordered)}/{len(sentences)}"
+        return (note + (f" ({no_zh} missing zh)" if no_zh else "")), 0, 0
     RESULTS.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(ordered, ensure_ascii=False, indent=1),
                         encoding="utf-8")
-    return (f"wrote {out_path.name}: {len(ordered)}/{len(sentences)} notes",
-            len(ordered), len(sentences))
+    msg = f"wrote {out_path.name}: {len(ordered)}/{len(sentences)} notes"
+    if no_zh:
+        msg += f" — {no_zh} WITHOUT zh"
+    return msg, len(ordered), len(sentences)
 
 
 def main() -> int:
@@ -253,9 +441,44 @@ def main() -> int:
     ap.add_argument("--slug", default=None, help="only this episode slug")
     ap.add_argument("--limit", type=int, default=0, help="at most N chunks (0 = all)")
     ap.add_argument("--force", action="store_true", help="regenerate existing results")
+    ap.add_argument("--zh-only", dest="zh_only", action="store_true",
+                    help="only write the Chinese notes, keeping the existing "
+                         "💡 English ones (used to add Chinese to episodes that "
+                         "were published before it existed)")
+    ap.add_argument("--all-sentences", dest="all_sentences", action="store_true",
+                    help="translate EVERY sentence of each episode into "
+                         "results/<slug>_zh.json instead of working from the A2 "
+                         "chunks (which only hold sentences that contain "
+                         "something beyond A2, leaving holes in the Chinese)")
     ap.add_argument("--dry-run", action="store_true", help="do not write results")
     args = ap.parse_args()
     args.key = api_key()
+
+    if args.all_sentences:
+        episodes = sorted(p for p in CONTENT.glob("*.md") if p.name != "_index.md")
+        if args.slug:
+            episodes = [p for p in episodes if p.stem == args.slug]
+        if not episodes:
+            print("no episode pages to translate")
+            return 0
+        if not args.dry_run:
+            try:
+                chat([{"role": "user", "content": "hi"}], endpoint=args.endpoint,
+                     model=args.model, key=args.key, max_tokens=8, timeout=60)
+            except Exception as exc:
+                print(f"cannot reach Qwen at {args.endpoint}: {exc}", file=sys.stderr)
+                return 2
+        print(f"{len(episodes)} episode(s) · every sentence · model {args.model} "
+              f"· batch {args.batch} · workers {args.workers}")
+        failures = done = 0
+        with ThreadPoolExecutor(max_workers=max(1, args.workers)) as pool:
+            for msg, n_ok, _ in pool.map(lambda p: _safe_ep(p, args), episodes):
+                if msg.startswith("!"):
+                    failures += 1
+                done += n_ok
+                print("  " + msg, flush=True)
+        print(f"total: {done} sentences translated · {failures} failed episode(s)")
+        return 1 if failures else 0
 
     chunks = sorted(p for p in CHUNKS.glob("*.json") if p.name != "manifest.json")
     if args.slug:
@@ -291,6 +514,13 @@ def main() -> int:
 def _safe(path: Path, args) -> tuple[str, int, int]:
     try:
         return process_chunk(path, args)
+    except Exception as exc:
+        return f"! {path.name}: {type(exc).__name__}: {exc}", 0, 0
+
+
+def _safe_ep(path: Path, args) -> tuple[str, int, int]:
+    try:
+        return process_episode_zh(path, args)
     except Exception as exc:
         return f"! {path.name}: {type(exc).__name__}: {exc}", 0, 0
 

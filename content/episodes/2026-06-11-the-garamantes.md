@@ -9,540 +9,540 @@ audioDir: "2026-06-11-the-garamantes"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-06-11-the-garamantes/episode.mp3"
 totalDuration: 3543.1
 sentences:
-  - {text: "BBC Sounds Music Radio Podcasts.", start: 1.10, end: 5.02}
-  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 7.42, end: 12.72}
-  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 13.00, end: 17.90}
-  - {text: "Guests often surprise me by being just so generous with their stories.", start: 18.38, end: 22.80}
-  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 23.26, end: 27.72}
-  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 27.72, end: 33.34}
-  - {text: "Woman's Hour, listen on BBC Sounds.", start: 33.84, end: 36.56}
-  - {text: "There's one of more than a thousand episodes you can find in the In Our Time archive.", start: 57.72, end: 62.12}
-  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 62.84, end: 67.72}
-  - {text: "I hope you enjoy the programme.", start: 68.28, end: 69.68}
-  - {text: "Hello. The Sahara Desert might not seem like the most hospitable place to live, with extreme swings of temperature and limited water on the surface.", start: 70.56, end: 80.08}
-  - {text: "Though around 2000 years ago an ancient people were thriving there, known to us as the Garamantes.", start: 80.90, end: 87.70}
-  - {text: "The Garamantes are mentioned by Roman and Greek authors.", start: 88.36, end: 91.36}
-  - {text: "Since then they've often been seen as little more than tribal barbarians on the periphery of the Mediterranean world.", start: 91.94, end: 98.64}
-  - {text: "But in recent decades archaeology has revealed something rather different.", start: 99.14, end: 103.46}
-  - {text: "A society with flourishing towns and cities, complex underground irrigation systems and a key role in trade routes across the Sahara.", start: 104.04, end: 112.84}
-  - {text: "Well, with me to discuss the Garamantes are David Mattingly, Emeritus Professor of Roman Archaeology at the University of Leicester, Fares Musa, Visiting Fellow at the University of Southampton and Cultural Heritage Consultant and Josephine Quinn,", start: 113.46, end: 129.30}
-  - {text: "Professor of Ancient History and Fellow of St.", start: 129.76, end: 132.34}
-  - {text: "John's College at the University of Cambridge.", start: 132.48, end: 135.14}
-  - {text: "Welcome to all of you, but Josephine, I'd like to come to you first.", start: 135.74, end: 139.96}
-  - {text: "Can you situate the Garamantes for us?", start: 139.96, end: 142.90}
-  - {text: "When are we talking about and where exactly?", start: 143.46, end: 146.56}
-  - {text: "So, yes, as you say, about 2000 years ago, more specifically from about 1000 BC to about 600 or so CEs over a long period of time,", start: 147.40, end: 160.08}
-  - {text: "we're looking at a very large area across the Sahara from what's now Southern Libya, across to Southern Algeria and we're looking at this network of oasis settlements", start: 160.14, end: 176.42}
-  - {text: "and the people who live there have learned to farm the desert.", start: 176.42, end: 181.74}
-  - {text: "They are also traders who've made a kind of crossroads of the Sahara between North and South, East and West, but this is a very complex society.", start: 182.42, end: 193.78}
-  - {text: "So these are people who have cities and temples.", start: 193.78, end: 198.42}
-  - {text: "They forge metals, they make glass, they have monumental tombs for their dead and we're talking about a really vast scale here as well.", start: 199.18, end: 210.12}
-  - {text: "So there are hundreds of sites that we should at least call, say, village -sized in modern terms.", start: 210.34, end: 218.22}
-  - {text: "Some of them are a lot larger than that and there are hundreds of thousands of tombs.", start: 218.36, end: 223.64}
-  - {text: "So why are they called the Garamantes and is that what they call themselves?", start: 224.16, end: 228.10}
-  - {text: "That's a good question.", start: 228.74, end: 229.72}
-  - {text: "So the meaning of the word seems to change over time.", start: 230.30, end: 235.16}
-  - {text: "So all of our testimonies of this word are external.", start: 235.28, end: 239.50}
-  - {text: "You start off with Greek authors who seem to use the word to refer to a single oasis, a single large powerful oasis.", start: 240.16, end: 248.16}
-  - {text: "Later you get Roman authors who explain that by their period at least there's a Garamantean kingdom based in a sort of capital oasis of Garama.", start: 248.16, end: 259.90}
-  - {text: "But then other authors just sort of use the word in a fairly general way to talk about the peoples of the central Sahara in their era", start: 260.40, end: 268.70}
-  - {text: "and that's really how it's also used in a lot of modern scholarship.", start: 268.70, end: 273.68}
-  - {text: "But the truth of the matter is that we don't know what any of these people called themselves, we don't know how big that Garamantean kingdom was", start: 273.68, end: 283.68}
-  - {text: "or how much that changed over time and we don't know whether the people who seem to us to be living in similar kinds of places", start: 283.68, end: 293.18}
-  - {text: "in similar kinds of ways over this really vast area actually considered themselves a single people on any level.", start: 293.18, end: 302.04}
-  - {text: "But fundamentally the name derives from Garama, the settlement, the town.", start: 302.04, end: 308.00}
-  - {text: "Yes. Farah Smusa, let me go on to you.", start: 308.30, end: 311.16}
-  - {text: "The Sahara obviously a pretty hostile environment.", start: 311.70, end: 315.52}
-  - {text: "How did the Garamanteans end up living there?", start: 316.34, end: 318.46}
-  - {text: "Yes, good question. And I think we probably need to rewind about 12 ,000 years to get a bit of context.", start: 318.92, end: 327.14}
-  - {text: "Don't worry, I'm not going to go through it step by step.", start: 327.40, end: 330.30}
-  - {text: "So we need to go to the end of the last Ice Age.", start: 330.30, end: 334.28}
-  - {text: "Okay, at that point what seems to happen is that the Sahara desert becomes this very, very fertile, savannah -like environment.", start: 334.80, end: 341.90}
-  - {text: "So you have to imagine lots of flora and fauna and it's very abundant with springs and rivers and lakes.", start: 342.34, end: 348.32}
-  - {text: "A very abundant place where people also gathered following the flora and the fauna.", start: 348.90, end: 355.74}
-  - {text: "From about 6 ,500 years ago you start to get this aridification, a gradual process which brings us to about 3 ,000 years ago when it brings us more or less to the kind of almost the level of hyperaridity", start: 355.74, end: 368.82}
-  - {text: "that we now know in the Sahara desert.", start: 369.34, end: 371.24}
-  - {text: "And so during that process, during that time, people shrink from the various zones of the Sahara into those sorts of pockets which still remain relatively humid like the Fezzan area or the Wadi al -Jal,", start: 371.80, end: 385.72}
-  - {text: "as we call it, this area where the Garamantes ended up.", start: 385.80, end: 389.36}
-  - {text: "Kind of a broad, sort of dried out riverbed.", start: 389.78, end: 393.18}
-  - {text: "To the north of that you have a large sand sea and to the south of that you have this high escarpment, sandstone escarpment, which rises quickly about 300 metres.", start: 393.96, end: 402.98}
-  - {text: "So it's a kind of a process of, if you like, refugia or people getting condensed into niches throughout the Sahara region.", start: 403.84, end: 412.66}
-  - {text: "And the Garamantes end up in this particular zone, about 200 kilometres in length east to west.", start: 413.32, end: 420.50}
-  - {text: "So you and David, Mattingly, you've both done a lot of archaeological work on the Garamantes.", start: 420.84, end: 426.22}
-  - {text: "Can you tell us what type of work that is and what sort of evidence you were turning up?", start: 426.76, end: 432.56}
-  - {text: "Well, as you can imagine, doing archaeology in such a hostile environment, even today, presents its own challenges.", start: 432.96, end: 439.40}
-  - {text: "Once we're there, we normally have an idea about areas we want to target.", start: 439.40, end: 443.68}
-  - {text: "And after having done some remote sensing, using satellite images or whatever about areas we want to target, we will normally do surveys on the ground.", start: 444.82, end: 456.66}
-  - {text: "And that it's a pretty basic and straightforward activity insofar as that you're essentially walking through specified zones that you want to target and you're looking for stuff, right?", start: 456.88, end: 468.30}
-  - {text: "So whether you're looking for rock art along the base of this escapement I described to you, or whether you're looking for burials, or whether you're looking for irrigation systems,", start: 468.30, end: 479.78}
-  - {text: "you first have to literally walk through and do systematic records of it.", start: 480.00, end: 484.18}
-  - {text: "Because there is so much of it, you stop every few minutes to record something and then you make a systematic record.", start: 484.60, end: 493.14}
-  - {text: "You take photographs, you make drawings, you take GPS coordinates.", start: 493.26, end: 497.34}
-  - {text: "So that's one level.", start: 497.34, end: 498.86}
-  - {text: "If you want to go in in a bit more detail, for example, if you want to go in and have a look at a burial and the contents of the burial, then you'll conduct systematic excavations.", start: 499.32, end: 508.50}
-  - {text: "And you asked, what do we find?", start: 508.80, end: 510.46}
-  - {text: "Lots of stuff. And of course, different levels of preservation.", start: 511.10, end: 515.16}
-  - {text: "A lot of burials were looted in antiquity.", start: 515.46, end: 519.58}
-  - {text: "So soon after the burials were made, somebody has come along and taken stuff out of them.", start: 520.20, end: 525.90}
-  - {text: "So obviously they knew there were valuables in there.", start: 525.90, end: 528.32}
-  - {text: "So they beat us to it, essentially.", start: 528.70, end: 530.64}
-  - {text: "But depending on the level of preservation, we find obviously skeletal remains, in some cases, desiccated bodies.", start: 531.32, end: 538.92}
-  - {text: "So bodies which are quite well preserved.", start: 539.26, end: 540.64}
-  - {text: "Ceramics, cloth, leather. We've even found in the most recent excavations, we found a bronze bell.", start: 541.72, end: 549.26}
-  - {text: "We found some fragments of gold leaf.", start: 549.56, end: 551.82}
-  - {text: "So really very sophisticated society this reveals.", start: 551.82, end: 556.26}
-  - {text: "David Mattingly, they're living in the Sahara Desert.", start: 556.80, end: 559.94}
-  - {text: "Can you tell us a bit more about what kind of settlements have been found there?", start: 560.26, end: 564.86}
-  - {text: "And indeed, how many?", start: 565.24, end: 566.42}
-  - {text: "How extensive was this community?", start: 566.58, end: 568.84}
-  - {text: "Well, we've heard that there were hundreds of thousands of Garamantian burials known.", start: 569.74, end: 573.98}
-  - {text: "But up to the 1990s, there were very few settlement sites that had been identified.", start: 574.48, end: 580.26}
-  - {text: "And in a way, this played into the older view that the Garamantes must be nomadic, because we had all these burials and nowhere for them to live.", start: 580.26, end: 589.62}
-  - {text: "Well, subsequently, the survey work that we and others have done, there was an earlier British archaeologist called Charles Daniels who did some pioneering work.", start: 590.28, end: 599.20}
-  - {text: "We've now started to identify in vast numbers the settlement sites that go with those cemeteries.", start: 599.66, end: 607.28}
-  - {text: "In the early Garamantian period, that's around about 1 ,000 BCE.", start: 607.28, end: 611.56}
-  - {text: "They're living in effectively what are hill forts, fortified sites up on the escarpment that marks the southern edge of the valley.", start: 612.40, end: 620.58}
-  - {text: "From about 400 BCE, they seem to move down or mass into the plain the centre of this valley where the oasis grows.", start: 621.26, end: 629.78}
-  - {text: "And there they're living in open village settlements which they constructed in Mudbrick.", start: 630.18, end: 635.54}
-  - {text: "But the houses there, they're multi -roomed, rectilinear, quite complex architecture.", start: 635.54, end: 642.54}
-  - {text: "At Garama, the Garamantian capital, we get some even more sophisticated aspects including stone architecture for some monumental buildings.", start: 643.46, end: 652.84}
-  - {text: "And then from about 300 CE, we see increasingly the introduction of defensive architecture at their settlement sites with the appearance of castle -like buildings with projecting towers on their outer walls.", start: 653.82, end: 670.26}
-  - {text: "So a very different sort of picture emerged about the nature of Garamantian society and from the beginning it's clearly tied to the oasis' cultivation.", start: 671.04, end: 680.08}
-  - {text: "Before we get into the details of Garamantian society, let's try and understand what the Greeks and Romans who I believe are first sources about the Garamantes,", start: 680.78, end: 692.44}
-  - {text: "what do the Greeks and Romans say about them?", start: 692.92, end: 694.92}
-  - {text: "Well, I think it's important to understand the sort of conventions in which Greek and Roman sources wrote about peoples on the periphery or beyond the periphery of the Mediterranean world.", start: 695.65, end: 707.83}
-  - {text: "And I have an idea which I call progressive barbarisation and that is that Mediterranean peoples, Greek and Roman, took a very Mediterranean -centric view of the world in", start: 708.31, end: 722.21}
-  - {text: "which everything about the Mediterranean was civilised and everything that lay beyond was very primitive and it's a deliberately schematic way of looking at the world.", start: 722.21, end: 733.69}
-  - {text: "So Greek and Roman sources, when they write about these neighbouring peoples, they're not writing in an anthropological or ethnographic way, they're as much as anything bringing out these sort of stereotypes", start: 734.15, end: 746.31}
-  - {text: "that are designed to demonstrate the primitiveness and otherness of these outline peoples.", start: 746.31, end: 752.63}
-  - {text: "So just to give you an example, peoples that lived close to the Mediterranean, both in North Africa and in Europe, they're generally recognised as being agricultural,", start: 753.25, end: 764.03}
-  - {text: "urban living, state -level organisation of society, societies with complex bulls and conducts of behaviour that mark out their civility.", start: 764.85, end: 775.17}
-  - {text: "But if you move out of that Mediterranean zone, they're pastoral or nomadic, they're living in huts and tents.", start: 775.63, end: 782.49}
-  - {text: "Even further out than that, then you find people whose lifestyle is essentially a hunter -gatherer lifestyle.", start: 783.01, end: 788.75}
-  - {text: "They speak unintelligible languages, they're living and sleeping in the open or in caves, and then even beyond that, we get into an imagined world.", start: 789.37, end: 800.95}
-  - {text: "A sort of mythical world where there are people with no heads and eyes on their chests and interestingly, those are still appearing on early modern maps of Africa, echoing this sort of schematic view.", start: 801.07, end: 813.93}
-  - {text: "Joe, let me take that on with you about the Garamantes themselves.", start: 814.75, end: 818.97}
-  - {text: "Are they seen as barbarians or how are they depicted?", start: 819.75, end: 823.97}
-  - {text: "What's so interesting, so picking up from what David's saying about progressive barbarisation, what you see with the Garamantes is not only quite a bit of this idea that the further away people are, the stranger they are,", start: 823.97, end: 836.79}
-  - {text: "you also get a progressive barbarisation or primitivisation over time.", start: 837.07, end: 842.67}
-  - {text: "So the very first references to the Garamantes are in the 5th century B .C., so in the era of the Persian Wars, classical Athens, that kind of thing.", start: 843.19, end: 853.15}
-  - {text: "And a historian called Herodotus, who's writing in Greek in this period, describes a trade route across the Sahara, from the Nile to the Niger, and he talks about the different peoples who live in Oasis every 10 days.", start: 853.15, end: 868.37}
-  - {text: "So basically the caravan stops on this Oasis route.", start: 868.51, end: 871.65}
-  - {text: "Is this in his book, The History?", start: 871.75, end: 873.19}
-  - {text: "Exactly, in his book The History, yes.", start: 873.45, end: 875.15}
-  - {text: "And he picks out the Oasis of Garamantes, he says they are a great and mighty people.", start: 875.53, end: 881.85}
-  - {text: "He says that they farm, which obviously it's very difficult to farm, you know, often even in Oasis, but he says they do it by layering earth on top of the salty ground,", start: 881.85, end: 892.91}
-  - {text: "because it's very kind of salty water there.", start: 893.21, end: 894.93}
-  - {text: "And he also says that they herd animals, but they herd these, not just kind of normal animals, they herd these very special cows who have horns", start: 895.21, end: 903.63}
-  - {text: "that are so long that the cows have to walk backwards.", start: 903.63, end: 907.75}
-  - {text: "And I think this is sometimes seen as being kind of a very primitive idea and so on, but actually I think it's like these are very fancy cows.", start: 908.21, end: 914.91}
-  - {text: "These are cows so cool that they have to look after them especially.", start: 915.41, end: 919.33}
-  - {text: "But that's also sort of drifting into the mythologisation that David was referring to.", start: 919.81, end: 923.65}
-  - {text: "Exactly, exactly. But then what happens is that, so you get this picture in Herodotus of quite a sophisticated people who are farming, who are herding,", start: 923.91, end: 932.49}
-  - {text: "who are also quite high up in the local hierarchy, because he also says that they are hunting the Ethiopians, the cave -dwelling Ethiopians, he says.", start: 932.87, end: 942.61}
-  - {text: "And these Garamantes are hunting with chariots.", start: 943.19, end: 945.85}
-  - {text: "They've got horses and chariots that are hunting the Ethiopians to enslave them essentially.", start: 946.03, end: 949.81}
-  - {text: "So you've got this kind of strange picture, but other people who are quite complex and quite high up and who are also involved in trade.", start: 950.53, end: 959.25}
-  - {text: "And then by the Roman period, so 500 years later, I was going to the Roman Empire.", start: 959.81, end: 964.25}
-  - {text: "And this is a period when there is regular trading contact between Rome and the Garamantes.", start: 964.89, end: 970.59}
-  - {text: "There are Roman generals go down there.", start: 971.03, end: 973.41}
-  - {text: "They even go on expeditions with the king of the Garamantes.", start: 973.53, end: 976.87}
-  - {text: "This is really quite a well -known place to real -life Romans.", start: 977.19, end: 981.23}
-  - {text: "What you get in the descriptive sources of the Garamantes are two things.", start: 981.95, end: 986.01}
-  - {text: "Either people just copy what Herodotus had said 500 years earlier, when no one had gone there.", start: 986.65, end: 992.17}
-  - {text: "It's basically literally copy it outward for word.", start: 992.27, end: 994.51}
-  - {text: "Or you get sources that make them even stranger, that say they live in tents.", start: 994.99, end: 1000.15}
-  - {text: "They only hunt. Even the very sober Roman historian Tacitus calls them wild.", start: 1000.49, end: 1007.21}
-  - {text: "But this is in a period when plenty of people that Tacitus is writing about in Rome had been to Garama, had seen the city, had seen the stone temples.", start: 1007.93, end: 1016.93}
-  - {text: "And they're trading all the time.", start: 1016.95, end: 1019.51}
-  - {text: "So it's the most peculiar progressive barbarisation in time as well as space.", start: 1019.51, end: 1024.17}
-  - {text: "Farris, can you tell us about the Garamantes' religious beliefs?", start: 1024.49, end: 1028.87}
-  - {text: "What do we know about that?", start: 1029.07, end: 1030.19}
-  - {text: "I mean, the most frequent motif, I suppose, which occurs in the text, is referenced to the association of the Garamantes with a god called Amon.", start: 1030.69, end: 1042.23}
-  - {text: "Most people be aware of in relation to the Egyptian Amon, who then becomes Amon Ra and Amon Min in later forms.", start: 1042.73, end: 1049.93}
-  - {text: "And Amon is perceived as this invisible god who protects people in their travels.", start: 1050.67, end: 1057.13}
-  - {text: "One of the attributes of the Amon god is the ram's horns.", start: 1057.85, end: 1062.59}
-  - {text: "He manifests in the wind.", start: 1063.29, end: 1065.67}
-  - {text: "So you can sort of see, if indeed Amon is associated with the Garamantes, how it could fit in with that world of the Sahara desert,", start: 1066.25, end: 1075.31}
-  - {text: "where they are indeed moving around a lot, and so they need protection, presumably, in their travels in such a hostile environment.", start: 1075.31, end: 1083.31}
-  - {text: "In terms of how the archaeology backs that up, it's very little.", start: 1083.77, end: 1088.09}
-  - {text: "There was a temple -type structure, which was excavated early on in the centre of Garamah, and a bronze mask or head of Selenus was discovered.", start: 1089.95, end: 1103.17}
-  - {text: "Now there's a sort of a tenuous connection there with Dionysus, because of course in Greece, Amon became associated with Zeus and Dionysus.", start: 1103.17, end: 1112.51}
-  - {text: "So there is a very, again, very tenuous link.", start: 1112.93, end: 1115.71}
-  - {text: "But we do, of course, have burials, which is, of course, one of the best ways that we can understand something about their ideas and beliefs.", start: 1115.81, end: 1122.77}
-  - {text: "And there's been a lot of surveying, excavation of those cemeteries and burials.", start: 1123.97, end: 1128.93}
-  - {text: "You have many different types of burial.", start: 1130.09, end: 1133.23}
-  - {text: "You have mudbrick -built small pyramid structures.", start: 1133.55, end: 1137.17}
-  - {text: "You have cobbled cairns.", start: 1137.55, end: 1139.31}
-  - {text: "And they are organised in discrete cemeteries, normally at the base of the escarpment.", start: 1139.79, end: 1145.01}
-  - {text: "They are dawned with funerary furniture.", start: 1145.45, end: 1147.79}
-  - {text: "So they have stelae, which are carved in the kind of a forefinger sort of motif.", start: 1147.79, end: 1152.83}
-  - {text: "They have offering tables.", start: 1153.43, end: 1155.43}
-  - {text: "If you can imagine your airplane food tray and all the slots in it, it's a little bit like that, the funerary table.", start: 1156.29, end: 1164.81}
-  - {text: "And the evidence of possible animal remains that have been deposited in those.", start: 1165.31, end: 1169.33}
-  - {text: "Inside the burials, we have crouched burials.", start: 1170.13, end: 1174.59}
-  - {text: "So the deceased have been laid on their side in the fetal position.", start: 1174.97, end: 1179.09}
-  - {text: "They're normally wrapped in cloth.", start: 1179.69, end: 1182.47}
-  - {text: "And we found in recently, in some cases in leather, doused in some cases in this really dark red ochre, completely doused in red ochre, which is fascinating.", start: 1182.47, end: 1195.07}
-  - {text: "What is that? Is that about fertility?", start: 1195.75, end: 1197.69}
-  - {text: "Is that about the life, the colour of blood and life?", start: 1198.25, end: 1201.31}
-  - {text: "So continuity in the afterlife.", start: 1201.91, end: 1203.39}
-  - {text: "There's all sorts of ideas that you can extrapolate from that.", start: 1204.01, end: 1207.05}
-  - {text: "You get a lot of that in further north in Africa as well, which is really interesting.", start: 1207.81, end: 1212.27}
-  - {text: "So it's suggesting there's some kind of shared beliefs or ideas about death.", start: 1212.49, end: 1217.45}
-  - {text: "So in Tunisia, Algeria, further north in Algeria, the same kind of red ochre.", start: 1217.79, end: 1223.91}
-  - {text: "Herodotus mentions ancestor worship in relation to Saharan peoples.", start: 1224.39, end: 1229.29}
-  - {text: "And I think when Pharisees is describing these burials with these offering structures outside them, it does emphasise how important the dead are to the living.", start: 1230.15, end: 1239.07}
-  - {text: "There is an element of daily interaction or regular interaction between living connections and the ancestors.", start: 1239.65, end: 1245.49}
-  - {text: "The ancestors sort of there in the guise of minor gods, really.", start: 1245.95, end: 1249.47}
-  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 1252.76, end: 1257.32}
-  - {text: "Why do weekends even exist?", start: 1257.62, end: 1259.24}
-  - {text: "And how did we become so obsessed with football?", start: 1259.70, end: 1261.98}
-  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 1262.30, end: 1264.40}
-  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 1264.80, end: 1270.40}
-  - {text: "Like why has the pub become so important?", start: 1270.52, end: 1272.50}
-  - {text: "That's an excellent question, Ben.", start: 1272.84, end: 1274.56}
-  - {text: "Here for the history.", start: 1274.90, end: 1275.62}
-  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 1275.94, end: 1278.28}
-  - {text: "I wanted to carry on, David, with something which is more specifically associated with the Garamantes, which is the Garamantes as oasis cultivators.", start: 1279.06, end: 1288.70}
-  - {text: "What does oasis cultivators actually mean in practice?", start: 1289.14, end: 1292.28}
-  - {text: "So our best evidence for this comes from the botanical analyses that we've done on samples from our various excavations.", start: 1293.24, end: 1300.42}
-  - {text: "And we can say pretty conclusively that agriculture arrives with our first sense of Garamantean settlements around about 1 ,000 BCE, and there's an established package, which is the date palm,", start: 1301.38, end: 1314.94}
-  - {text: "its wheat and barley, the grapevine and the fig tree.", start: 1315.52, end: 1318.92}
-  - {text: "That's what they start growing and it's clearly come from somewhere, probably from originating from the oases that are first emerging in the western Egyptian desert.", start: 1320.10, end: 1330.62}
-  - {text: "And that package of crops gradually gets passed along as oases get established out into the central Saharan region.", start: 1330.88, end: 1338.14}
-  - {text: "Around about 400 BCE, we get some interesting changes, though.", start: 1338.92, end: 1343.30}
-  - {text: "There are three additional crops appear, cotton, sorghum and pearl millet.", start: 1343.66, end: 1348.50}
-  - {text: "Now those are sub -Saharan crops.", start: 1348.98, end: 1350.72}
-  - {text: "So some additional crops are being brought in from a different direction.", start: 1350.72, end: 1354.90}
-  - {text: "But something like cotton, if I remember rightly, uses a lot of water.", start: 1355.20, end: 1359.46}
-  - {text: "So how are they growing cotton in the Sahara?", start: 1359.88, end: 1362.90}
-  - {text: "Well, exactly. Water is the key for any oasis cultivation.", start: 1363.28, end: 1368.20}
-  - {text: "In the initial stages, the Garamantees are perhaps using one or two relic spring lines still active from that wet phase, but gradually drying out, probably", start: 1369.04, end: 1379.70}
-  - {text: "in the course of the first millennium BCE.", start: 1379.70, end: 1381.56}
-  - {text: "But around 400 CE, exactly at the same time that those sub -Saharan crops arrive, we've got a dated adoption of a new irrigation technology.", start: 1382.34, end: 1392.30}
-  - {text: "And this is the Foghra.", start: 1392.86, end: 1393.68}
-  - {text: "Now the Foghra... Can you tell us about the Foghra?", start: 1394.36, end: 1396.90}
-  - {text: "The Foghra is the North African version of a technology that we also know in Iran and in Arabia, where it's known as the Kanat or the Falash.", start: 1397.28, end: 1408.84}
-  - {text: "And this is an underground irrigation channel that leads running water out to the area of gardens in the centre of the valley.", start: 1409.42, end: 1420.12}
-  - {text: "So, hold it, let me just get this straight about how this is constructed.", start: 1420.42, end: 1423.44}
-  - {text: "You have a sort of central well.", start: 1423.90, end: 1425.70}
-  - {text: "Well, there's a mother well at the distant end of these underground canals.", start: 1426.12, end: 1430.04}
-  - {text: "And these may be 40 metres deep.", start: 1430.30, end: 1431.90}
-  - {text: "And they're dug generally into the foot of the escarpment at the southern end of the valley.", start: 1431.90, end: 1438.08}
-  - {text: "So you dig down till you hit water.", start: 1438.58, end: 1440.08}
-  - {text: "And as long as that water is at a level above the level of your gardens in the centre of the valley, then you can construct a Foghra using that water.", start: 1440.62, end: 1449.56}
-  - {text: "And so you dig a series, a long series of shafts.", start: 1449.94, end: 1453.02}
-  - {text: "They're spaced only every 5 or 10 metres.", start: 1453.68, end: 1456.00}
-  - {text: "So it's an awful lot of shafts that you have to dig.", start: 1456.12, end: 1459.26}
-  - {text: "But gradually getting nearer to the surface until the water actually emerges at the surface.", start: 1459.26, end: 1465.56}
-  - {text: "Because you connect the shafts at the bottom with short tunnel sections.", start: 1465.68, end: 1468.70}
-  - {text: "It's obviously a lot easier to tunnel if you're only tunneling 5 metres to the bottom of the next shaft.", start: 1469.00, end: 1474.28}
-  - {text: "Even so, Joe Quinn, that sounds like an incredible amount of work.", start: 1474.54, end: 1479.54}
-  - {text: "So the sheer scale of the Foghra, how did they build it?", start: 1479.74, end: 1483.68}
-  - {text: "It's terrifying to think about.", start: 1484.50, end: 1486.34}
-  - {text: "I mean, these shafts that David's been describing, some of these are 40 metres deep.", start: 1486.34, end: 1492.10}
-  - {text: "They're very narrow. They are being dug down in a world where the daytime temperatures can reach 55 degrees.", start: 1492.30, end: 1502.36}
-  - {text: "There's less than a centimetre of rain a day.", start: 1503.28, end: 1506.50}
-  - {text: "And there are thousands of these things.", start: 1507.02, end: 1509.96}
-  - {text: "And each one of them has these access shafts every 5 or 10 metres, as David said.", start: 1510.06, end: 1514.94}
-  - {text: "Can I just jump in?", start: 1515.80, end: 1517.62}
-  - {text: "We did an estimate of the labour needs to construct the Foghra systems that we know about in the game of Antion Heartlands.", start: 1517.78, end: 1525.60}
-  - {text: "It's 72 ,000 man years.", start: 1525.80, end: 1528.26}
-  - {text: "I mean, put that another way.", start: 1528.68, end: 1530.90}
-  - {text: "If you had a team of 100 people doing nothing apart from all their lives, constructing Foghra's, it would take them 720 years to create that system.", start: 1531.16, end: 1543.76}
-  - {text: "But this is quite...", start: 1543.76, end: 1545.62}
-  - {text: "I mean, they didn't have diggers, industrial diggers or anything like that.", start: 1545.62, end: 1548.54}
-  - {text: "It's all done by hand.", start: 1548.62, end: 1549.52}
-  - {text: "It's all done by hand.", start: 1549.62, end: 1550.18}
-  - {text: "So one thing that I think it must mean is they have iron bags.", start: 1550.18, end: 1553.36}
-  - {text: "You can't dig this with literally by hand or by stone.", start: 1553.66, end: 1557.34}
-  - {text: "So they're already using some kind of iron.", start: 1557.46, end: 1559.22}
-  - {text: "But this is all human labour, essentially.", start: 1559.56, end: 1561.40}
-  - {text: "There is no way that people are going to volunteer to do this kind of work.", start: 1562.04, end: 1566.62}
-  - {text: "I can't imagine a king so powerful that he could require his subjects to do this for 720 man years.", start: 1567.02, end: 1578.02}
-  - {text: "720 years. So actually, he's drawing them out of time.", start: 1578.44, end: 1581.90}
-  - {text: "And so we must be looking at enslaved labour here.", start: 1582.24, end: 1586.12}
-  - {text: "We know that there are...", start: 1586.72, end: 1588.82}
-  - {text: "Or at least we're told by Greek sources that these Garamantes are slavers.", start: 1588.82, end: 1593.80}
-  - {text: "It's an obvious trade for the salt that they're also producing with this water irrigation.", start: 1594.34, end: 1599.90}
-  - {text: "So on the one hand, I think what we learn from this is that it's very likely that there's a significant use of enslaved labour in these OACs from further south.", start: 1601.04, end: 1610.96}
-  - {text: "And you also mentioned earlier about the Ethiopians being...", start: 1611.32, end: 1614.48}
-  - {text: "Exactly. There's these stories about them hunting in chariots, these cave -dwelling Ethiopians who Herodotus says, and this is another of this progressive barbarisation, these are people", start: 1614.48, end: 1625.58}
-  - {text: "who are even further south than the Garamantes.", start: 1625.58, end: 1627.64}
-  - {text: "And Herodotus says they squeak instead of speaking.", start: 1628.20, end: 1631.16}
-  - {text: "So today they're kind of in this mythical world.", start: 1631.50, end: 1633.34}
-  - {text: "But he does... You know, there's a story there you also get.", start: 1633.74, end: 1636.44}
-  - {text: "And this is, I think, extraordinary.", start: 1636.54, end: 1637.86}
-  - {text: "There are cave -art from these regions where the people would be hunting and they show people with horses and chariots.", start: 1638.42, end: 1647.42}
-  - {text: "So these are perhaps the victims showing these people who come after them.", start: 1647.48, end: 1651.30}
-  - {text: "But there's also going to be, certainly by the Roman period, a lot of slave trading, as well as just kind of catching other people.", start: 1651.64, end: 1660.34}
-  - {text: "And so that's one major factor in what's going on here, what's happening with the Garamantes, both using a lot of enslaved people, but also trading them perhaps to the Roman properties.", start: 1660.70, end: 1670.68}
-  - {text: "I want to come on to the trading.", start: 1670.68, end: 1671.92}
-  - {text: "Faris, from what we've heard so far, it sounds as though the Garamantes were very sophisticated traders.", start: 1672.14, end: 1678.72}
-  - {text: "What do we know about their trade?", start: 1679.44, end: 1680.96}
-  - {text: "So, you know, around the same time, around 1000 BC, that we start to see this formation of a Garamantian proto kind of state.", start: 1680.96, end: 1691.74}
-  - {text: "You also get in the coast of North Africa, the arrival of Phoenician trading colonies.", start: 1691.96, end: 1698.32}
-  - {text: "You get in 814 BC, the foundation of Carthage.", start: 1698.90, end: 1702.00}
-  - {text: "Now, as far as we can tell, they were traders and they were not expansionists or colonists, per se.", start: 1702.64, end: 1708.34}
-  - {text: "So, they needed to be able to establish connections with other entities in the hinterland of the coast to be able to move goods around.", start: 1708.34, end: 1720.32}
-  - {text: "So, in many ways, you can sort of see this picture of these traders on the coast wanting stuff that is in the central Sahara or even in sub -Saharan Africa that the Garamantes can provide.", start: 1720.92, end: 1737.34}
-  - {text: "And it's not a kind of passive situation where the Carthaginians are coming to them and they're just acting as a middleman.", start: 1737.34, end: 1744.34}
-  - {text: "They're clearly moving distances to trade.", start: 1744.52, end: 1750.02}
-  - {text: "You also have this incredible opportunity at the end of the Second Punic War when Carthage's influence in North Africa is diminished a lot.", start: 1750.42, end: 1761.36}
-  - {text: "Remind me when the Second Punic War is.", start: 1761.70, end: 1763.54}
-  - {text: "Yes, it was to 1802 BC between the Romans and the Carthaginians and at the end of that, with Hannibal's infamous defeat at the Battle of Zama,", start: 1763.54, end: 1775.08}
-  - {text: "you have this moment of about 200 years where Carthage's influence is diminished.", start: 1775.76, end: 1783.34}
-  - {text: "And at this time, you see this kind of explosion, if you like, of these various indigenous kingdoms, including others like the Numidians, presumably also the Garamantes where they are filling this kind of void, if you like, this vacuum", start: 1784.20, end: 1799.98}
-  - {text: "and no doubt are doing so through trade.", start: 1800.82, end: 1803.68}
-  - {text: "So David Mattingly, do we know what they were trading?", start: 1804.22, end: 1807.90}
-  - {text: "Was it just agricultural product or was it manufactured product as well?", start: 1808.08, end: 1811.64}
-  - {text: "In traditional Trans -Saharan trading, the key commodities of trade have been gold, enslaved people and salt.", start: 1812.14, end: 1820.00}
-  - {text: "And at one level, the Garamantes plug into that sort of network.", start: 1821.60, end: 1826.44}
-  - {text: "Gold is being sourced in Sub -Saharan Africa, particularly in West Africa, enslaved people obviously can be taken at various points within the Sahara but from the Sub -Saharan lands as well.", start: 1826.94, end: 1841.04}
-  - {text: "Onto that, of course, the Garamantes are producing Oasis products, dates, for instance, have a market in the Mediterranean world for sure.", start: 1841.60, end: 1850.12}
-  - {text: "But, and I think this is the crucial thing about the Garamantes, because sometimes they've been perceived as rather passive middlemen in trade that's dominated from the Mediterranean", start: 1851.17, end: 1859.89}
-  - {text: "but what we actually see from the archaeological evidence is that the Garamantes are quite discerning consumers.", start: 1859.89, end: 1865.85}
-  - {text: "They have a penchant for Roman tableware and glassware, particularly really large open forms of bowls which are incredibly fragile.", start: 1866.41, end: 1875.37}
-  - {text: "So you can imagine how overjoyed the merchants are to have to carry those sorts of goods on the Saharan trails.", start: 1875.81, end: 1881.39}
-  - {text: "We've got lots and lots of amphorae that transport jars for wine and olive oil and fish sauce.", start: 1882.01, end: 1887.61}
-  - {text: "I mean, what's interesting is we've got evidence of masses of that material being consumed in the Garamantean heartlands but it barely moves south and southwest of the Garamantean heartlands.", start: 1888.23, end: 1898.83}
-  - {text: "In other words, the Garamantes preferentially consume those Mediterranean goods in their own society and, you know, we can estimate there are hundreds of thousands of amphorae", start: 1899.09, end: 1909.43}
-  - {text: "and hundreds of thousands of tableware vessels imported into the Garamantean.", start: 1909.99, end: 1914.85}
-  - {text: "So this isn't small -scale trade.", start: 1914.91, end: 1916.83}
-  - {text: "This is large -scale trade but the Garamantes are also manufacturing.", start: 1916.95, end: 1921.73}
-  - {text: "They build up capacity for metalwork producing little metal barring gots which are perfect for carrying on Saharan trade caravans.", start: 1922.05, end: 1931.75}
-  - {text: "We know there are expert textile producers and garment producers and cotton is a very new crop in the Sahara, in the Mediterranean world at this time.", start: 1932.19, end: 1941.81}
-  - {text: "That has to have a high value in trade.", start: 1942.11, end: 1945.13}
-  - {text: "They're producing masses of beads in glass, in semi -precious stones, in ostrich eggshell and again, beads historically have been currency in Saharan trade.", start: 1945.43, end: 1957.63}
-  - {text: "Thank you very much, David.", start: 1957.63, end: 1959.11}
-  - {text: "Joe, why does the city of Garama in particular become the centre of this trading operation?", start: 1959.49, end: 1966.81}
-  - {text: "Do we know? Well, I think one of the things that's really interesting about looking at the growth of cities in general is that very often what seems to produce", start: 1967.27, end: 1978.13}
-  - {text: "that kind of scale and density that we call cities in different periods is when lines of communication or trade cross through them.", start: 1978.13, end: 1988.67}
-  - {text: "So I think what we're getting with the Garamante is that it's so interesting is you have this early sort of trade route that's going from the Nile to the Niger", start: 1989.11, end: 1997.15}
-  - {text: "where there are all these OACs along it.", start: 1997.15, end: 2000.35}
-  - {text: "I would see those OAC settlements as a kind of secondary phenomenon that's not necessarily passive.", start: 2000.95, end: 2007.27}
-  - {text: "Absolutely, people who are coming to profit from the existence of a trade route.", start: 2007.43, end: 2012.83}
-  - {text: "But the actual push factors are kind of coming from one end or the other or both.", start: 2013.49, end: 2020.19}
-  - {text: "But when you get these North -South connections, Sofaras has talked about potentially connections with the Carthaginians.", start: 2020.69, end: 2028.51}
-  - {text: "We have lots of evidence for connections north with Rome later on.", start: 2028.73, end: 2032.71}
-  - {text: "And then there's this amazing thing where the cotton and so on is arriving from further south.", start: 2033.01, end: 2037.69}
-  - {text: "So it's when you get this North -South route that cross that East -West route, that I think is when everything kind of entangles and knots up and becomes this city.", start: 2038.11, end: 2050.05}
-  - {text: "So that's, I would say, where you get the city of Garam are really becoming important and powerful.", start: 2050.37, end: 2055.51}
-  - {text: "That may be the origins of the kingdom we later hear about.", start: 2055.95, end: 2058.87}
-  - {text: "But it's also really turbocharges the trade in the Sahara, putting those two directions together.", start: 2059.61, end: 2065.49}
-  - {text: "Faris, what sort of relationship did the Garamantes have with other polities in North Africa?", start: 2066.11, end: 2070.89}
-  - {text: "So among them, so for example, I mentioned earlier the Numidias, they do have a kingdom and they have a very clear lineage and that's been well -attested.", start: 2071.63, end: 2079.45}
-  - {text: "And so yes, the relationship with them is very interesting because I suppose the texts that we have suggest that the Garamantes are not actually as far away from the coast as we think or know they are.", start: 2080.09, end: 2098.83}
-  - {text: "We know that their heartland was that far away what is now Southwest Libya's Central Sahara.", start: 2098.89, end: 2103.23}
-  - {text: "But you get often references to, for example, King Massenissa, who is the king of the Numidians at one point in the first...", start: 2103.61, end: 2111.55}
-  - {text: "The Numidia is closer to it.", start: 2111.55, end: 2112.97}
-  - {text: "It's just sort of on the edge of the south of the Roman border in North Africa.", start: 2113.03, end: 2117.67}
-  - {text: "So it's a kind of north of the Sahara.", start: 2117.97, end: 2120.35}
-  - {text: "Exactly. And at some point he seeks refuge in the first...", start: 2120.63, end: 2124.57}
-  - {text: "Would that be modern -day Tunisia?", start: 2124.57, end: 2125.93}
-  - {text: "Or is it still...", start: 2126.49, end: 2127.13}
-  - {text: "Tunisia, Algeria, yeah. So he seeks refuge in the first century BC in an area within or close to the Garamantian territory.", start: 2127.13, end: 2135.69}
-  - {text: "So if that's what he's doing, then you're not having to go too far to get into what is perceived as Garamantian territory.", start: 2135.99, end: 2143.39}
-  - {text: "So what that suggests is that the Garamantes somehow have territories or have influence north of their centre quite far and quite near to the Mediterranean.", start: 2143.65, end: 2159.03}
-  - {text: "But also what's interesting about that is they don't feature in a lot of dramas, do they?", start: 2159.31, end: 2164.41}
-  - {text: "You don't see a lot of texts kind of talking about them getting into big kind of conflicts with various entities, which is interesting in itself.", start: 2164.47, end: 2175.99}
-  - {text: "Yet there is one thing I can think of that might be relevant to this, which is that there are some revolts against Rome in North Africa.", start: 2175.99, end: 2183.65}
-  - {text: "There's a guy called Takfarinas who's a rebel North African who's rebelling against Rome in their provinces in North Africa, the Mediterranean provinces across Tunisia, Algeria, Morocco and so on.", start: 2184.03, end: 2198.21}
-  - {text: "And just a couple of times there are references to the King of the Garamantes helping these rebels even coming up to the coast once.", start: 2198.75, end: 2206.61}
-  - {text: "You're going a really long way to the coast of Libya to help the rebels against the Romans.", start: 2206.67, end: 2210.81}
-  - {text: "So there is, again, that sort of sense that they're kind of just one remove from the kingdoms that are in very regular political and military kind of contact and conflict.", start: 2211.51, end: 2223.65}
-  - {text: "But nonetheless with a military capacity of sorts as far as we understand.", start: 2223.65, end: 2227.65}
-  - {text: "Some kind of military capacity.", start: 2227.65, end: 2228.71}
-  - {text: "David Mattingly, this community, this kingdom, this people lived for a very long time as far as we can see.", start: 2229.11, end: 2239.15}
-  - {text: "When and why did they start to decline as a civilization?", start: 2239.65, end: 2243.15}
-  - {text: "Well, I think it's no surprise that a long -established kingdom will eventually start to run out of steam.", start: 2243.83, end: 2250.11}
-  - {text: "So perhaps, you know, almost the more important question is how is it they endure so long?", start: 2250.27, end: 2254.51}
-  - {text: "And I think, you know, the key to that is that they are clearly early adopters of Oasis agriculture.", start: 2254.59, end: 2260.77}
-  - {text: "They are early adopters of the horse, which is a transformative technology in the Sahara, in the first millennium BCE.", start: 2260.77, end: 2269.03}
-  - {text: "And through those two things, they build a powerful society.", start: 2269.83, end: 2274.03}
-  - {text: "And then through that, they establish control over far -flung regions and a monopoly position on in this Saharan trade.", start: 2274.41, end: 2283.71}
-  - {text: "That's a very powerful position.", start: 2284.11, end: 2285.49}
-  - {text: "But of course, it's not going to go unchallenged.", start: 2285.57, end: 2288.01}
-  - {text: "Firstly, you might think about challenges from inside Garamantean society.", start: 2288.01, end: 2292.83}
-  - {text: "So is that kingly power always, you know, unchallenged by other groups to rise in defensive architecture at Garamantean settlements in the late times?", start: 2293.43, end: 2301.83}
-  - {text: "That might suggest that actually that sort of competition within Garamantean society is growing.", start: 2302.05, end: 2307.63}
-  - {text: "Another factor, those incredible phogora systems that are so key to the success of the Garamantees, you know, it's like having a million taps turned on permanently on a non -minuable water table.", start: 2308.15, end: 2323.49}
-  - {text: "So maybe the very success of the Garamantees through their irrigation systems is also part of their downfall.", start: 2323.87, end: 2329.63}
-  - {text: "And they simply ran out of water.", start: 2329.65, end: 2330.85}
-  - {text: "You start to reduce the level of the water table.", start: 2330.85, end: 2333.63}
-  - {text: "Farris, let me just ask you, as we come to a close, the Garamantees, are they seen as the predecessors of a particular people?", start: 2333.95, end: 2343.83}
-  - {text: "I mean, are they part of a historical culture today?", start: 2343.83, end: 2347.71}
-  - {text: "Does anyone heart back to the Garamantees?", start: 2348.31, end: 2350.69}
-  - {text: "Well, that's interesting. I think you can quite safely say that there's a disconnect between those people that we're talking about in the past and people who live in the region now.", start: 2351.11, end: 2363.43}
-  - {text: "But I think as we have started to learn a bit more about the Garamantees, people have started to obviously take an interest in that heritage specifically within that region.", start: 2363.91, end: 2375.41}
-  - {text: "I think though what that kind of feeds into is a broader phenomenon, which I think that we are beginning to witness in North Africa.", start: 2375.97, end: 2387.31}
-  - {text: "And this is all arisen with the ability to have genetic tests and to know your mitochondrial DNA kind of profile, which we haven't had in the past.", start: 2387.79, end: 2400.07}
-  - {text: "And people now are beginning to realise, who live in North Africa, that they are not necessarily Arab genetically in the way that people in the Arabian region might be identified.", start: 2400.07, end: 2411.49}
-  - {text: "And so that's for some people, and it's certainly a phenomenon among some young people in countries like Tunisia and Algeria, there was a revision about what their identity is.", start: 2411.97, end: 2423.11}
-  - {text: "And there's a much more of a reversion, or if you like an adoption of an identity which is more indigenous.", start: 2423.37, end: 2431.35}
-  - {text: "And so people are now actively looking for those connections.", start: 2432.37, end: 2437.17}
-  - {text: "And, you know, there are various tribal entities throughout the ancient, you know, North Africa.", start: 2437.63, end: 2444.97}
-  - {text: "And the Garamantees are one of those.", start: 2445.45, end: 2446.97}
-  - {text: "And I suspect that they are going to become more and more relevant as this phenomenon that's kind of fermenting is going to grow.", start: 2447.07, end: 2455.03}
-  - {text: "Quick fire round at the end.", start: 2455.39, end: 2457.49}
-  - {text: "How do the Garamantees, and I want you to keep this snappy, how do the Garamantees change our understanding of this period of history overall, Joe?", start: 2457.49, end: 2466.47}
-  - {text: "OK, so number one, it's not all about Rome.", start: 2467.05, end: 2469.73}
-  - {text: "There are other places to talk about, not just Rome and China either.", start: 2470.01, end: 2473.17}
-  - {text: "Number two, deserts are really interesting and deserts are experienced very differently by the people inside them who know how to get around, how to exploit them from the people outside who see them as terrifying and dangerous places, quite rightly.", start: 2474.59, end: 2491.35}
-  - {text: "And three, that trade and travel and exchange are a driving force in ancient history.", start: 2492.19, end: 2501.07}
-  - {text: "And these, the connections extend much further than people normally realise.", start: 2501.25, end: 2505.49}
-  - {text: "David, your take on how it's transformed our understanding of this period?", start: 2505.91, end: 2510.93}
-  - {text: "Well, I think we are just at the beginning of proper knowledge about these people.", start: 2511.33, end: 2515.57}
-  - {text: "You know, before 30 years ago, as we say, we had a very different view about the Garamantees.", start: 2516.41, end: 2522.15}
-  - {text: "There are hundreds of other pre -Islamic, Iron Age populations across North Africa and the Sahara who we know virtually nothing about in archaeological terms and we desperately need,", start: 2522.47, end: 2533.85}
-  - {text: "and I hope very much, that in the next generation, many archaeologists will emulate the sort of work we've done on the Garamantees on those other peoples.", start: 2533.99, end: 2542.59}
-  - {text: "Ferres, final word? Yes, well, I think, you know, it really would want to echo what Joe and David already said, but I think it is really important for scholarship and then how that impacts beyond scholarship in terms of our perceptions,", start: 2543.17, end: 2556.25}
-  - {text: "which have been for a long time perhaps quite Eurocentric about the flow of influence and the flow of power and culture in ancient times up to the present day.", start: 2556.81, end: 2568.51}
-  - {text: "And we start to realise when you start to uncover these civilisations that actually there's a lot going on around Europe and close to Europe, which is pretty powerful,", start: 2568.51, end: 2580.11}
-  - {text: "pretty significant and actually would have been very influential in the wider polity.", start: 2580.47, end: 2584.73}
-  - {text: "My thanks to Ferres Musa, David Mattingly and Josephine Quinn.", start: 2585.31, end: 2589.53}
-  - {text: "Next week, do not doff your hat and do not kneel.", start: 2590.29, end: 2594.87}
-  - {text: "We'll be discussing some of the radical politics that emerged during the English Civil War.", start: 2595.25, end: 2600.09}
-  - {text: "That's the levelers. Thank you for listening.", start: 2600.55, end: 2603.03}
-  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2603.71, end: 2610.29}
-  - {text: "Great, so now the podcast extra.", start: 2611.09, end: 2613.97}
-  - {text: "Before I ask what did we miss out, let me ask the question, how come none of us have ever heard of the Garamantees?", start: 2614.63, end: 2623.21}
-  - {text: "I'm astonished by this, to see the depth of the work that you've done and the sophistication of this society, and we don't know about it.", start: 2625.21, end: 2634.61}
-  - {text: "Why is that? I don't know.", start: 2634.71, end: 2636.87}
-  - {text: "I've done my best.", start: 2636.93, end: 2637.55}
-  - {text: "I don't doubt it for a minute, David.", start: 2643.37, end: 2645.67}
-  - {text: "I don't doubt it for a minute.", start: 2645.87, end: 2647.11}
-  - {text: "I suspect it's a sort of a drip down process, isn't it, with research that, you know, it takes a long time, because of course the first time that we're really properly researching the Garamantees would have been in the 1960s, a little bit earlier,", start: 2647.35, end: 2662.51}
-  - {text: "and so that's not a long time that people have been studying it, and it does take a long time for that to feed through into broader literature and popular culture.", start: 2663.17, end: 2672.91}
-  - {text: "I think we still have a version of my progressive barbarisation model operating in our own minds today about desert peoples, and there's a tendency to default,", start: 2673.59, end: 2685.95}
-  - {text: "to kind of negative, even people who've read my work and are writing, let's say primarily from the point of view of the literary sources, they tend to immediately slip back into describing them as just kind of pastoral nomadic,", start: 2686.87, end: 2701.39}
-  - {text: "you know, and of course there were pastoralists within that broader Garamantean world, but what's really special about them is the scale of that oasis agriculture", start: 2702.41, end: 2711.81}
-  - {text: "alongside pastoral groups that, you know, make this very powerful.", start: 2712.91, end: 2715.91}
-  - {text: "I was also interested, David, in what you said about cotton and the manufacture of cotton, because the products were incredibly sophisticated, comfortable, kind of clothes that we wear today almost.", start: 2716.09, end: 2728.49}
-  - {text: "Yeah, well the textiles that we found, the cotton tends to be not terribly well preserved, but we'd certainly have it, we can see.", start: 2728.73, end: 2735.29}
-  - {text: "And it's incredibly finely woven, you know, finer than the shirt that I'm wearing today, if you look at the thread counts and the fineness of the fibres.", start: 2735.59, end: 2743.53}
-  - {text: "That must have done a roaring trade with the Romans, I would have thought.", start: 2743.81, end: 2747.39}
-  - {text: "Personally, I think that textiles was the number one commodity of Saharan trade in terms of bulk.", start: 2747.83, end: 2755.11}
-  - {text: "You know, gold you can carry relatively small amounts, enslaved people walk themselves to the coast, those that survive.", start: 2756.11, end: 2762.41}
-  - {text: "You know, salt is mostly going down to Sub -Saharan Africa.", start: 2763.31, end: 2768.13}
-  - {text: "Textiles move in every direction in bulk quantities, I'm sure, because everyone needs textiles, and particularly if you're, you know, producing high quality and dyed textiles, which we know the Garamantes are doing.", start: 2769.11, end: 2781.63}
-  - {text: "They could dye as well.", start: 2781.67, end: 2782.61}
-  - {text: "Yeah, yeah, we've found some brightly coloured textile fragments.", start: 2782.63, end: 2785.25}
-  - {text: "So there's a kind of comparative case in Anatolia in the 19th century BCE.", start: 2786.01, end: 2791.79}
-  - {text: "There's an incredible archive of traders who are from Asher, from the capital of Assyria, which is in those days a trading state.", start: 2792.65, end: 2800.13}
-  - {text: "And this archive records in incredible detail, a kind of detail we'd love to have for the Garamantes, what they're actually doing, like amounts of metals, textiles, that kind of thing.", start: 2800.97, end: 2811.33}
-  - {text: "And one thing that's fascinating is that basically people are bringing from Asher to Anatolia tin and textiles, and they're swapping them for silver coming back down.", start: 2811.69, end: 2821.11}
-  - {text: "That's the way that trade works.", start: 2821.33, end: 2822.59}
-  - {text: "But the amount of textiles and the value of the textiles is very similar to that of the tin.", start: 2823.15, end: 2828.81}
-  - {text: "Its textiles aren't just a kind of extra, you throw a few in on top of the metal cargo.", start: 2829.23, end: 2835.27}
-  - {text: "They are a really hugely important trade good across antiquity.", start: 2835.81, end: 2840.29}
-  - {text: "And the textiles are probably the key to how you manage to transport safely into huge glass bowls.", start: 2840.51, end: 2846.23}
-  - {text: "You wrap them in bundles of cloth.", start: 2847.05, end: 2848.31}
-  - {text: "Any evidence of writing?", start: 2849.15, end: 2850.79}
-  - {text: "Writing is, I mean in many ways, you know, it's our big gap.", start: 2851.55, end: 2855.49}
-  - {text: "We don't have written sources by the Garamantes themselves about their society.", start: 2856.21, end: 2861.83}
-  - {text: "We just have these rather brief external views and then often subject to these prejudices and biases and stereotypes.", start: 2862.17, end: 2870.31}
-  - {text: "But we know that the Garamantes had a written language because we have found inscriptions.", start: 2870.95, end: 2875.79}
-  - {text: "Oh, they did have a written language.", start: 2877.23, end: 2878.57}
-  - {text: "But the sort of inscriptions we found tend to be very short, you know, single name on a funerary steely.", start: 2878.59, end: 2885.23}
-  - {text: "We found a small clay tablet in a stratified layer at Garama, which had a few characters in this Libyan script.", start: 2885.87, end: 2893.73}
-  - {text: "So we know that they had writing.", start: 2894.43, end: 2896.25}
-  - {text: "What we haven't got is an archive of state documents or something like that that would really help us get a better view of Garamantes' society.", start: 2897.05, end: 2904.89}
-  - {text: "Now, that's partly because the sites we've excavated, the settlement sites that we've excavated to this point have been in the oasis itself where the water table is very high beneath the oasis.", start: 2905.29, end: 2918.41}
-  - {text: "So broadly, we don't get very good organic preservation in those sites.", start: 2918.73, end: 2922.29}
-  - {text: "In the tombs on the edge of the valley, yes, we do find textiles and organics and so on, but that's not where you'd keep your archives.", start: 2922.85, end: 2930.07}
-  - {text: "So I live in hope that someday somebody may find a cache of Garamantean documents that would really blow this open.", start: 2930.07, end: 2938.43}
-  - {text: "And of course, there is also this extraordinary corpus of texts of what's called proto -Tifanac.", start: 2939.07, end: 2945.35}
-  - {text: "So Tifanac is the written language of broadly what we might call Amazigh people, what people often refer to commonly as burburs.", start: 2945.71, end: 2954.57}
-  - {text: "It's problematic because, of course, historically and today, they are all different people and they're different entities throughout North Africa, but there is a language in common", start: 2954.91, end: 2965.79}
-  - {text: "and various variants of that language across North Africa and we see early forms of that.", start: 2965.79, end: 2970.79}
-  - {text: "This is not Arabic.", start: 2971.05, end: 2971.97}
-  - {text: "Not Arabic. We see early forms of that in the rock art, which we see along the Wadi An -Al -Jal.", start: 2972.57, end: 2979.41}
-  - {text: "The problem with that is dating it and associating it with the Garamantean.", start: 2979.85, end: 2985.83}
-  - {text: "So it's nearby, but exactly how it relates to the Garamantean if it is directly related to them or not is the difficulty that we have because these are rock engravings rather than rock pictures drawn with paint,", start: 2985.83, end: 2998.23}
-  - {text: "so it's a very difficult medium to take.", start: 2998.41, end: 3000.57}
-  - {text: "Do we know were they affected by Christianity and the growth of Christianity at all?", start: 3000.73, end: 3005.17}
-  - {text: "Can I jump in on that?", start: 3005.29, end: 3006.39}
-  - {text: "There are one or two source references that suggest that they accept Christianity.", start: 3006.57, end: 3010.33}
-  - {text: "We found no archaeological evidence to confirm that and I suspect that's a standard clause in every Byzantine peace treaty with so -called barbarian peoples that you will accept Christianity.", start: 3010.55, end: 3022.95}
-  - {text: "One thing I would like to say about the Garamantean is that they don't disappear at any point.", start: 3023.83, end: 3029.05}
-  - {text: "They just become less significant.", start: 3029.25, end: 3031.03}
-  - {text: "In the 7th century, when the first Arab cavalry columns go down into the Sahara, they encounter a king at Garamah still.", start: 3031.59, end: 3039.49}
-  - {text: "But he's clearly a petty ruler now, amongst many other petty rulers.", start: 3040.11, end: 3044.19}
-  - {text: "And even when we were doing field work down there, as it happens, one of our cooks was Muhammad Koromant.", start: 3044.69, end: 3051.31}
-  - {text: "So the name survived right through to modern times.", start: 3051.65, end: 3054.19}
-  - {text: "How difficult has it been to research and do archaeological digs since 2011 when you had the overthrow of Gaddafi and then the chaos in Libya?", start: 3054.65, end: 3064.95}
-  - {text: "Well, I've had a wish for the future.", start: 3065.31, end: 3067.81}
-  - {text: "It's just that, well, archaeological research in the Garamantean heartlands could start again.", start: 3068.37, end: 3072.77}
-  - {text: "Probably too late for me, but it would be great to see that work picked up again because there's so much to do.", start: 3073.35, end: 3079.77}
-  - {text: "You know, what we discussed is a remarkable advance on what was known 30 years ago, but we're still so near the beginning of our understanding of this people.", start: 3080.33, end: 3091.53}
-  - {text: "There's so many questions.", start: 3091.63, end: 3093.21}
-  - {text: "A bit like, you know, writing about the British Iron Age on the basis of the state of knowledge 150 years ago, a handful of sites excavated", start: 3093.67, end: 3103.29}
-  - {text: "and what sort of picture are you going to produce?", start: 3103.29, end: 3105.95}
-  - {text: "Joe. Well, one thing I'd love to hear from David is that after archaeological work in Libya stopped, he went to work in Morocco and did all this incredible new stuff in this other part of North Africa,", start: 3106.63, end: 3117.37}
-  - {text: "and I'd just love to know what does the work that you've done in the last 10, 15 years in Morocco, how has that changed your ideas about the Garamantes, if at all?", start: 3117.37, end: 3127.45}
-  - {text: "Well, I think it's reinforced my sense of how important the Garamantes are.", start: 3127.45, end: 3132.11}
-  - {text: "I mean, I think the Garamantes are, undoubtedly, a powerful state.", start: 3132.37, end: 3136.19}
-  - {text: "What we found in southern Morocco is very similar processes, the importance of the horse, the importance of the beginnings of Oasis agriculture, more complex societies,", start: 3136.75, end: 3146.27}
-  - {text: "but they're not as organised or as far along as the Garamantes, and it's happening a little bit later there as well.", start: 3146.75, end: 3154.43}
-  - {text: "But, you know, between those extremes, there are, you know, literally hundreds of Saharan peoples and Oasis locations where similar sorts of stories were happening in antiquity.", start: 3154.75, end: 3167.25}
-  - {text: "And, Faris, where have you been working since 2011 on sites anyway?", start: 3167.95, end: 3172.03}
-  - {text: "Mainly outside North Africa.", start: 3172.69, end: 3174.23}
-  - {text: "Right. Yes, so not directly related to the work that we've been doing on the Garamantes.", start: 3174.89, end: 3182.49}
-  - {text: "I did want to pick up a little bit on what we were talking about earlier with the religion, and you started to talk, David, about some of the ancestral worship,", start: 3183.17, end: 3192.95}
-  - {text: "which I thought was an area we didn't explore enough.", start: 3193.11, end: 3196.19}
-  - {text: "There's this really interesting relationship between the sites, the location of the cemeteries, and then what appear to be separate little villages, if you like, within the Oasis.", start: 3196.37, end: 3210.67}
-  - {text: "So it's almost like the villages are connecting to cemeteries a little bit further south from them in the escarpment.", start: 3210.97, end: 3218.17}
-  - {text: "And you mentioned about ancient practices, and one of those that we know a lot about with who Herodotus refers to is this idea of incubation,", start: 3218.43, end: 3229.31}
-  - {text: "where we see this idea that if you can sleep with the ancestors or in a place, in an enclosure close to your ancestors at the tomb,", start: 3229.71, end: 3240.55}
-  - {text: "then you can divine or solve problems, for example.", start: 3240.55, end: 3244.99}
-  - {text: "And these are kinds of enclosures that we do find associated with some of these burials.", start: 3245.21, end: 3250.49}
-  - {text: "And there are these sorts of practices right up until the present day, very much present throughout North Africa, of holy men shrines ancestral shrines where people go and divine,", start: 3251.05, end: 3267.77}
-  - {text: "and indeed practice incubation right until the present day.", start: 3267.77, end: 3271.29}
-  - {text: "Just coming off the back of that, Faris, we've heard about the exchange with Egypt and with the Romans and the Greeks.", start: 3271.51, end: 3279.37}
-  - {text: "You've all mentioned that there was trade with sub -Saharan Africa as well.", start: 3280.25, end: 3284.35}
-  - {text: "Is there any evidence of cultural exchange between the Garamantes and sub -Saharan Africa as opposed to the Mediterranean?", start: 3284.97, end: 3291.41}
-  - {text: "There are certainly elements in sub -Saharan Africa that I think we can say are pointing towards trade with Garamantes.", start: 3292.09, end: 3300.57}
-  - {text: "So some of the distinctive styles of Carnelian beads that the Garamantes are manufacturing look extremely close to Carnelian beads that are turning up on sub -Saharan sites.", start: 3301.05, end: 3312.19}
-  - {text: "We need to develop better methods of testing the provenance of the Carnelian sources.", start: 3313.01, end: 3319.31}
-  - {text: "But I'd be very surprised if we can't demonstrate those sort of links as time goes on.", start: 3319.73, end: 3324.61}
-  - {text: "But we've also got finds of copper alloys in the sub -Saharan zone which are effectively Mediterranean copper alloys.", start: 3324.61, end: 3334.73}
-  - {text: "And the only way that they can be reaching the sub -Saharan zone is through trans -Saharan trade and that's going to be the Garamantes plus potentially other Oasis peoples as well.", start: 3335.63, end: 3346.67}
-  - {text: "One of the things that's so interesting about this kind of thing is that trade of course is a very personal thing in antiquity and especially the exchange of technology.", start: 3347.03, end: 3357.51}
-  - {text: "So if you're talking about cotton coming up from the sub -Saharan zone to the Garamantes and the Sahara or them transmitting copper technology and alloy recipes", start: 3357.75, end: 3367.63}
-  - {text: "and so on that's not just something somebody writes on the back of an envelope and gives with your packet of seeds.", start: 3367.63, end: 3372.91}
-  - {text: "You actually have to learn how to grow and then make cotton.", start: 3373.13, end: 3377.13}
-  - {text: "You have to learn how to manufacture copper in this particular way.", start: 3377.13, end: 3382.07}
-  - {text: "So that must involve people spending a lot of time together at least for certain periods.", start: 3382.19, end: 3388.91}
-  - {text: "Of course the transit.", start: 3389.25, end: 3390.79}
-  - {text: "I mean the actual, you know, getting it from say Garamah to the Mediterranean coast you must require protection as well presumably.", start: 3391.11, end: 3399.51}
-  - {text: "I mean it's a thousand kilometers more or less from Garamah up to the Mediterranean.", start: 3400.15, end: 3404.89}
-  - {text: "In fact, particularly during the Lockerbie years when internal flights in Libya were quite a risk we tended to drive that route.", start: 3404.89, end: 3413.87}
-  - {text: "So I've driven that route many, many times.", start: 3414.07, end: 3416.89}
-  - {text: "And it's today a really challenging journey still but doing it with caravans of camels and donkeys and horses is another level of difficulty where you're dependent on these scattered wells to keep that.", start: 3417.55, end: 3433.93}
-  - {text: "I mean that's another thing isn't it that we haven't talked about camels.", start: 3434.05, end: 3438.19}
-  - {text: "So camels arrive among the Garamante sort of second century CE.", start: 3438.55, end: 3443.17}
-  - {text: "I think they're there before then.", start: 3443.67, end: 3444.79}
-  - {text: "There's a certain point where they sort of they just have horses start off with and then the camels arrive and that must change things a lot.", start: 3445.53, end: 3451.79}
-  - {text: "They become more important over time and you know again that may be one of the factors that changes the balance of power in the desert is", start: 3451.79, end: 3459.51}
-  - {text: "that you get specialised camel raising pastoral groups whose power actually grows over time.", start: 3459.51, end: 3465.55}
-  - {text: "So in the early modern period it's the camel raising nomads who are the most powerful people in the Sahara.", start: 3466.21, end: 3474.33}
-  - {text: "A lot of the Oasis communities are subservient.", start: 3474.69, end: 3477.59}
-  - {text: "The evidence in the Garamante suggests that the balance of power is still with the Oasis cultivators.", start: 3478.09, end: 3483.93}
-  - {text: "You know that's where the big tombs are that's where we can see the big consumption going on rather than with pastoral groups but the pastoral groups are always going to be important because if you're doing trade if you're conducting raiding and warfare", start: 3484.33, end: 3496.15}
-  - {text: "in the Sahara you need people who are good desert navigators who really know how to survive.", start: 3496.61, end: 3501.21}
-  - {text: "And that's going to be the pastoral people.", start: 3502.21, end: 3503.67}
-  - {text: "Absolutely. Martha. Tea, coffee.", start: 3504.09, end: 3506.83}
-  - {text: "Coffee, please. Coffee, coffee please.", start: 3507.43, end: 3509.85}
-  - {text: "I think I'll have tea for a change.", start: 3510.21, end: 3511.51}
-  - {text: "Coffee, coffee, tea. Thank you.", start: 3511.77, end: 3512.51}
-  - {text: "Tea. Two teas, two coffees, two coffees.", start: 3512.55, end: 3514.47}
-  - {text: "Thank you. In our time with Misha Glenny was produced by Martha Owen it's a BBC Studios production for Radio 4.", start: 3514.47, end: 3522.34}
-  - {text: "If you've got a scrolling problem then this is the podcast for you.", start: 3522.68, end: 3525.48}
-  - {text: "It's called Top Comment with me Matt Shea and me Marianna Spring.", start: 3525.82, end: 3528.78}
-  - {text: "We both investigate social media for a living.", start: 3529.00, end: 3530.84}
-  - {text: "Whether it's disinformation, conspiracy theories internet culture, memes.", start: 3531.30, end: 3535.32}
-  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3535.76, end: 3539.48}
-  - {text: "That's Top Comment on BBC Sounds.", start: 3539.94, end: 3542.00}
+  - {text: "BBC Sounds Music Radio Podcasts.", start: 1.10, end: 5.02, zh: "BBC Sounds 音乐、广播和播客。"}
+  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 7.42, end: 12.72, zh: "《Woman's Hour》是一档将女性声音置于核心位置的节目。（Woman's Hour 女性时刻，BBC 一档长期播出的女性话题节目）"}
+  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 13.00, end: 17.90, zh: "我们通过女性的视角，探讨生活中的各种议题。（perspective 视角，观点）"}
+  - {text: "Guests often surprise me by being just so generous with their stories.", start: 18.38, end: 22.80, zh: "嘉宾们常常让我惊讶，因为他们分享故事时如此慷慨大方。（generous 慷慨的，大方的）"}
+  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 23.26, end: 27.72, zh: "我们需要逃避现实和欢乐，而每一天都有取之不尽的欢乐。（escapism 逃避现实，寻求慰藉；abundance 丰富，大量）"}
+  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 27.72, end: 33.34, zh: "《Woman's Hour》承载了八十年来的女性故事，但我们依然没有听完所有故事。"}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 33.84, end: 36.56, zh: "《Woman's Hour》，请在 BBC Sounds 收听。"}
+  - {text: "There's one of more than a thousand episodes you can find in the In Our Time archive.", start: 57.72, end: 62.12, zh: "这是《In Our Time》档案库中一千多集节目中的一集。（In Our Time 我们的时代，BBC 一档历史与文化播客；archive 档案库，资料库）"}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 62.84, end: 67.72, zh: "本期的阅读书单可以在您收听节目的平台上的节目简介中找到。（edition 期数，版本）"}
+  - {text: "I hope you enjoy the programme.", start: 68.28, end: 69.68, zh: "希望您喜欢这档节目。"}
+  - {text: "Hello. The Sahara Desert might not seem like the most hospitable place to live, with extreme swings of temperature and limited water on the surface.", start: 70.56, end: 80.08, zh: "大家好。撒哈拉沙漠看起来可能不是最适宜居住的地方，那里昼夜温差极大，地表水资源也非常有限。（Sahara Desert 撒哈拉沙漠；hospitable 宜人的，适宜居住的）"}
+  - {text: "Though around 2000 years ago an ancient people were thriving there, known to us as the Garamantes.", start: 80.90, end: 87.70, zh: "不过大约两千年前，一个古老的民族曾在那里繁衍生息，我们称他们为加拉曼特人。（thriving 繁荣的，兴旺的；Garamantes 加拉曼特人，古代利比亚民族）"}
+  - {text: "The Garamantes are mentioned by Roman and Greek authors.", start: 88.36, end: 91.36, zh: "加拉曼特人在罗马和希腊作家的著作中都有记载。（authors 作家，著作者）"}
+  - {text: "Since then they've often been seen as little more than tribal barbarians on the periphery of the Mediterranean world.", start: 91.94, end: 98.64, zh: "从那以后，他们常被视为地中海世界边缘的一群部落野蛮人，没什么特别之处。（periphery 边缘，外围；barbarians 野蛮人）"}
+  - {text: "But in recent decades archaeology has revealed something rather different.", start: 99.14, end: 103.46, zh: "但近几十年来，考古学揭示了一个截然不同的图景。（archaeology 考古学）"}
+  - {text: "A society with flourishing towns and cities, complex underground irrigation systems and a key role in trade routes across the Sahara.", start: 104.04, end: 112.84, zh: "这是一个拥有繁荣城镇、复杂的地下灌溉系统，并在横跨撒哈拉的贸易路线中扮演关键角色的社会。（irrigation 灌溉；flourishing 繁荣的，兴旺的）"}
+  - {text: "Well, with me to discuss the Garamantes are David Mattingly, Emeritus Professor of Roman Archaeology at the University of Leicester, Fares Musa, Visiting Fellow at the University of Southampton and Cultural Heritage Consultant and Josephine Quinn,", start: 113.46, end: 129.30, zh: "今天和我讨论加拉曼特人的嘉宾有：莱斯特大学罗马考古学荣休教授大卫·马廷利，南安普顿大学访问学者兼文化遗产顾问法雷斯·穆萨，以及约瑟芬·奎因……（Emeritus Professor 荣休教授；Cultural Heritage Consultant 文化遗产顾问）"}
+  - {text: "Professor of Ancient History and Fellow of St.", start: 129.76, end: 132.34, zh: "她是剑桥大学圣约翰学院古代史教授兼研究员。（Fellow 研究员，学院成员）"}
+  - {text: "John's College at the University of Cambridge.", start: 132.48, end: 135.14, zh: "……约翰学院。（St. John's College 圣约翰学院，剑桥大学学院之一）"}
+  - {text: "Welcome to all of you, but Josephine, I'd like to come to you first.", start: 135.74, end: 139.96, zh: "欢迎大家，不过约瑟芬，我想先请你来说说。（come to you 转向你，请你说）"}
+  - {text: "Can you situate the Garamantes for us?", start: 139.96, end: 142.90, zh: "你能帮我们介绍一下加拉曼特人的情况吗？（situate 定位，介绍背景；Garamantes 加拉曼特人，古代撒哈拉民族）"}
+  - {text: "When are we talking about and where exactly?", start: 143.46, end: 146.56, zh: "所以你要一直往下挖，直到挖到水为止。"}
+  - {text: "So, yes, as you say, about 2000 years ago, more specifically from about 1000 BC to about 600 or so CEs over a long period of time,", start: 147.40, end: 160.08, zh: "是的，正如你所说，大约两千年前，更具体地说，是从公元前1000年左右到公元600年左右，跨越了很长一段时间，"}
+  - {text: "we're looking at a very large area across the Sahara from what's now Southern Libya, across to Southern Algeria and we're looking at this network of oasis settlements", start: 160.14, end: 176.42, zh: "我们关注的是横跨撒哈拉的一片广阔区域，从今天的利比亚南部一直延伸到阿尔及利亚南部，我们考察的是这片绿洲定居点网络"}
+  - {text: "and the people who live there have learned to farm the desert.", start: 176.42, end: 181.74, zh: "生活在那里的人们已经学会了在沙漠中耕种。（farm 耕种，从事农业）"}
+  - {text: "They are also traders who've made a kind of crossroads of the Sahara between North and South, East and West, but this is a very complex society.", start: 182.42, end: 193.78, zh: "他们也是商人，在撒哈拉的南北、东西之间建立了一种十字路口般的贸易网络，但这是一种非常复杂的社会。（crossroads 十字路口，交汇点）"}
+  - {text: "So these are people who have cities and temples.", start: 193.78, end: 198.42, zh: "所以，这些人是拥有城市和神庙的群体。"}
+  - {text: "They forge metals, they make glass, they have monumental tombs for their dead and we're talking about a really vast scale here as well.", start: 199.18, end: 210.12, zh: "他们锻造金属，制作玻璃，为逝者建造宏伟的陵墓，而且我们谈论的规模真的非常庞大。（forge 锻造；monumental 宏伟的，巨大的）"}
+  - {text: "So there are hundreds of sites that we should at least call, say, village -sized in modern terms.", start: 210.34, end: 218.22, zh: "所以，至少有数百个遗址，用现代标准来说，可以称为村庄规模的定居点。（sites 遗址，地点）"}
+  - {text: "Some of them are a lot larger than that and there are hundreds of thousands of tombs.", start: 218.36, end: 223.64, zh: "其中一些比那大得多，而且有数十万座坟墓。"}
+  - {text: "So why are they called the Garamantes and is that what they call themselves?", start: 224.16, end: 228.10, zh: "那么，他们为什么被称为加拉曼特人？这是他们对自己的称呼吗？（Garamantes 加拉曼特人，古代撒哈拉地区的民族）"}
+  - {text: "That's a good question.", start: 228.74, end: 229.72, zh: "这是个很好的问题。"}
+  - {text: "So the meaning of the word seems to change over time.", start: 230.30, end: 235.16, zh: "这个词的含义似乎随着时间推移发生了变化。"}
+  - {text: "So all of our testimonies of this word are external.", start: 235.28, end: 239.50, zh: "我们关于这个词的所有记录都来自外部。（testimonies 记录，见证；external 外部的）"}
+  - {text: "You start off with Greek authors who seem to use the word to refer to a single oasis, a single large powerful oasis.", start: 240.16, end: 248.16, zh: "最早是希腊作家，他们似乎用这个词来指代一个单一的、强大而巨大的绿洲。"}
+  - {text: "Later you get Roman authors who explain that by their period at least there's a Garamantean kingdom based in a sort of capital oasis of Garama.", start: 248.16, end: 259.90, zh: "后来，罗马作家解释说，至少在他们那个时期，存在一个以加拉马绿洲为首都的加拉曼特王国。（Garamantean kingdom 加拉曼特王国；Garama 加拉马，绿洲名称）"}
+  - {text: "But then other authors just sort of use the word in a fairly general way to talk about the peoples of the central Sahara in their era", start: 260.40, end: 268.70, zh: "但其他作者只是比较笼统地用这个词来指代他们那个时代撒哈拉中部地区的居民。（Sahara 撒哈拉沙漠）"}
+  - {text: "and that's really how it's also used in a lot of modern scholarship.", start: 268.70, end: 273.68, zh: "现代学术界也大多这样使用这个词。"}
+  - {text: "But the truth of the matter is that we don't know what any of these people called themselves, we don't know how big that Garamantean kingdom was", start: 273.68, end: 283.68, zh: "但事实是，我们不知道这些人如何称呼自己，也不知道加拉曼特王国有多大（Garamantean kingdom 加拉曼特王国）"}
+  - {text: "or how much that changed over time and we don't know whether the people who seem to us to be living in similar kinds of places", start: 283.68, end: 293.18, zh: "或者它随时间发生了多少变化，我们也不知道那些看起来生活在类似环境中的……"}
+  - {text: "in similar kinds of ways over this really vast area actually considered themselves a single people on any level.", start: 293.18, end: 302.04, zh: "实际上，在这片广阔的区域里，他们以相似的方式生活，并在某种程度上自视为一个整体。（vast 广阔的；single people 单一民族或整体）"}
+  - {text: "But fundamentally the name derives from Garama, the settlement, the town.", start: 302.04, end: 308.00, zh: "但从根本上说，这个名字源自加拉马，即那个定居点或城镇。（derives from 源自；settlement 定居点）"}
+  - {text: "Yes. Farah Smusa, let me go on to you.", start: 308.30, end: 311.16, zh: "是的。法拉·斯穆萨，让我把话题交给你。（go on to 转向，交给）"}
+  - {text: "The Sahara obviously a pretty hostile environment.", start: 311.70, end: 315.52, zh: "撒哈拉显然是一个相当恶劣的环境。（hostile 恶劣的，不友好的）"}
+  - {text: "How did the Garamanteans end up living there?", start: 316.34, end: 318.46, zh: "加拉曼特人是如何最终在那里定居的？（end up 最终，结果是）"}
+  - {text: "Yes, good question. And I think we probably need to rewind about 12 ,000 years to get a bit of context.", start: 318.92, end: 327.14, zh: "是的，好问题。我想我们需要回溯大约一万两千年，才能了解一些背景。（rewind 回溯；context 背景）"}
+  - {text: "Don't worry, I'm not going to go through it step by step.", start: 327.40, end: 330.30, zh: "别担心，我不会一步步详细讲解。（step by step 一步步地）"}
+  - {text: "So we need to go to the end of the last Ice Age.", start: 330.30, end: 334.28, zh: "所以我们需要回到上一个冰河时期的末尾。（Ice Age 冰河时期）"}
+  - {text: "Okay, at that point what seems to happen is that the Sahara desert becomes this very, very fertile, savannah -like environment.", start: 334.80, end: 341.90, zh: "好的，在那时，撒哈拉沙漠似乎变成了一个非常肥沃的、类似稀树草原的环境。（fertile 肥沃的；savannah 稀树草原）"}
+  - {text: "So you have to imagine lots of flora and fauna and it's very abundant with springs and rivers and lakes.", start: 342.34, end: 348.32, zh: "所以你得想象那里有大量的动植物，而且泉水、河流和湖泊非常丰富。（flora and fauna 动植物；abundant 丰富的）"}
+  - {text: "A very abundant place where people also gathered following the flora and the fauna.", start: 348.90, end: 355.74, zh: "那里资源非常丰富，人们也会聚集在那里，追随那里的植物和动物。（flora 植物；fauna 动物）"}
+  - {text: "From about 6 ,500 years ago you start to get this aridification, a gradual process which brings us to about 3 ,000 years ago when it brings us more or less to the kind of almost the level of hyperaridity", start: 355.74, end: 368.82, zh: "大约从6500年前开始，这里逐渐变得干旱，这是一个渐进的过程，直到大约3000年前，气候变得极其干燥，几乎达到了我们现在在撒哈拉沙漠所知的超干旱水平。（aridification 干旱化；hyperaridity 超干旱）"}
+  - {text: "that we now know in the Sahara desert.", start: 369.34, end: 371.24, zh: "也就是我们现在在撒哈拉沙漠所熟知的那种状态。"}
+  - {text: "And so during that process, during that time, people shrink from the various zones of the Sahara into those sorts of pockets which still remain relatively humid like the Fezzan area or the Wadi al -Jal,", start: 371.80, end: 385.72, zh: "因此，在这个过程中，人们从撒哈拉各地的不同区域退缩到那些仍然相对湿润的角落，比如费赞地区或瓦迪阿尔贾尔，"}
+  - {text: "as we call it, this area where the Garamantes ended up.", start: 385.80, end: 389.36, zh: "也就是我们所说的加拉曼特人最终定居的那个区域。"}
+  - {text: "Kind of a broad, sort of dried out riverbed.", start: 389.78, end: 393.18, zh: "那是一条宽阔的、干涸的河床。"}
+  - {text: "To the north of that you have a large sand sea and to the south of that you have this high escarpment, sandstone escarpment, which rises quickly about 300 metres.", start: 393.96, end: 402.98, zh: "在那条河床的北面是一片巨大的沙海，南面则是一道陡峭的砂岩断崖，海拔迅速上升约300米。（escarpment 断崖；sandstone 砂岩）"}
+  - {text: "So it's a kind of a process of, if you like, refugia or people getting condensed into niches throughout the Sahara region.", start: 403.84, end: 412.66, zh: "所以，这可以看作是一个避难所的过程，或者说是人们在整个撒哈拉地区被压缩进一个个生态利基中。（refugia 避难所；niches 生态利基）"}
+  - {text: "And the Garamantes end up in this particular zone, about 200 kilometres in length east to west.", start: 413.32, end: 420.50, zh: "加拉曼特人最终定居在这个特定的区域，东西长约200公里。"}
+  - {text: "So you and David, Mattingly, you've both done a lot of archaeological work on the Garamantes.", start: 420.84, end: 426.22, zh: "所以，你和戴维·马特林利，你们俩都在加拉曼特人身上做了大量的考古工作。（Mattingly 马特林利，考古学家）"}
+  - {text: "Can you tell us what type of work that is and what sort of evidence you were turning up?", start: 426.76, end: 432.56, zh: "你能告诉我们那是什么样的工作，以及你们发现了什么类型的证据吗？（evidence 证据；turning up 发现，出现）"}
+  - {text: "Well, as you can imagine, doing archaeology in such a hostile environment, even today, presents its own challenges.", start: 432.96, end: 439.40, zh: "正如你可以想象的那样，在如此恶劣的环境中做考古，即使在今天也面临着独特的挑战。（hostile environment 恶劣环境；presents its own challenges 带来独特的挑战）"}
+  - {text: "Once we're there, we normally have an idea about areas we want to target.", start: 439.40, end: 443.68, zh: "一旦我们到达那里，通常会对想要重点考察的区域有一个大致的想法。（target 目标，重点考察）"}
+  - {text: "And after having done some remote sensing, using satellite images or whatever about areas we want to target, we will normally do surveys on the ground.", start: 444.82, end: 456.66, zh: "在对想要重点考察的区域进行了一些遥感探测，比如使用卫星图像等手段之后，我们通常会在实地进行考察。（remote sensing 遥感；surveys on the ground 实地考察）"}
+  - {text: "And that it's a pretty basic and straightforward activity insofar as that you're essentially walking through specified zones that you want to target and you're looking for stuff, right?", start: 456.88, end: 468.30, zh: "这其实是一项相当基础且直接的活动，因为你基本上就是在你想考察的指定区域内行走，寻找各种东西，对吧？（straightforward 直接的，简单的；insofar as 就……而言）"}
+  - {text: "So whether you're looking for rock art along the base of this escapement I described to you, or whether you're looking for burials, or whether you're looking for irrigation systems,", start: 468.30, end: 479.78, zh: "所以，无论是寻找我刚才描述的那种地貌边缘的岩画，还是寻找墓葬，或者是灌溉系统……（rock art 岩画；escapement 此处指地貌边缘或陡坡；burials 墓葬）"}
+  - {text: "you first have to literally walk through and do systematic records of it.", start: 480.00, end: 484.18, zh: "你首先必须字面意义上地走进去，并对这些发现进行系统性的记录。（systematic records 系统性记录）"}
+  - {text: "Because there is so much of it, you stop every few minutes to record something and then you make a systematic record.", start: 484.60, end: 493.14, zh: "因为那里的东西太多了，你每隔几分钟就要停下来记录一些东西，然后做出系统性的记录。（systematic record 系统性记录）"}
+  - {text: "You take photographs, you make drawings, you take GPS coordinates.", start: 493.26, end: 497.34, zh: "你会拍照，画图，并记录GPS坐标。（GPS coordinates GPS坐标）"}
+  - {text: "So that's one level.", start: 497.34, end: 498.86, zh: "所以这是其中一个层面。（level 层面，层次）"}
+  - {text: "If you want to go in in a bit more detail, for example, if you want to go in and have a look at a burial and the contents of the burial, then you'll conduct systematic excavations.", start: 499.32, end: 508.50, zh: "如果你想深入挖掘细节，比如查看墓葬及其内部物品，那么你需要进行系统性的发掘。（systematic excavations 系统性发掘）"}
+  - {text: "And you asked, what do we find?", start: 508.80, end: 510.46, zh: "你刚才问，我们发现了什么？"}
+  - {text: "Lots of stuff. And of course, different levels of preservation.", start: 511.10, end: 515.16, zh: "很多东西，当然，保存程度各不相同。（preservation 保存状况）"}
+  - {text: "A lot of burials were looted in antiquity.", start: 515.46, end: 519.58, zh: "许多墓葬在古代就被盗掘了。（looted 被盗掘；antiquity 古代）"}
+  - {text: "So soon after the burials were made, somebody has come along and taken stuff out of them.", start: 520.20, end: 525.90, zh: "所以在墓葬刚建好后不久，就有人来把里面的东西拿走了。"}
+  - {text: "So obviously they knew there were valuables in there.", start: 525.90, end: 528.32, zh: "显然他们知道里面有值钱的东西。（valuables 贵重物品）"}
+  - {text: "So they beat us to it, essentially.", start: 528.70, end: 530.64, zh: "所以本质上，他们抢在我们前面了。"}
+  - {text: "But depending on the level of preservation, we find obviously skeletal remains, in some cases, desiccated bodies.", start: 531.32, end: 538.92, zh: "但根据保存程度不同，我们当然会找到骨骼遗骸，在某些情况下甚至是干尸。（skeletal remains 骨骼遗骸；desiccated bodies 干尸）"}
+  - {text: "So bodies which are quite well preserved.", start: 539.26, end: 540.64, zh: "也就是保存相当完好的遗体。"}
+  - {text: "Ceramics, cloth, leather. We've even found in the most recent excavations, we found a bronze bell.", start: 541.72, end: 549.26, zh: "陶器、织物、皮革。在最近的发掘中，我们甚至发现了一个青铜铃。（ceramics 陶器；bronze bell 青铜铃）"}
+  - {text: "We found some fragments of gold leaf.", start: 549.56, end: 551.82, zh: "我们发现了一些金箔碎片。（fragments 碎片；gold leaf 金箔）"}
+  - {text: "So really very sophisticated society this reveals.", start: 551.82, end: 556.26, zh: "这揭示了一个非常复杂的社会。（sophisticated 复杂的，精密的）"}
+  - {text: "David Mattingly, they're living in the Sahara Desert.", start: 556.80, end: 559.94, zh: "大卫·马特林，他们生活在撒哈拉沙漠。（Sahara Desert 撒哈拉沙漠）"}
+  - {text: "Can you tell us a bit more about what kind of settlements have been found there?", start: 560.26, end: 564.86, zh: "你能多告诉我们一些关于那里发现的定居点类型吗？（settlements 定居点）"}
+  - {text: "And indeed, how many?", start: 565.24, end: 566.42, zh: "以及具体有多少个？"}
+  - {text: "How extensive was this community?", start: 566.58, end: 568.84, zh: "这个社区的范围有多广？（extensive 广阔的，广泛的）"}
+  - {text: "Well, we've heard that there were hundreds of thousands of Garamantian burials known.", start: 569.74, end: 573.98, zh: "我们听说已知有数十万处加拉曼特人的墓葬。（Garamantian 加拉曼特人的，指古代利比亚民族；burials 墓葬）"}
+  - {text: "But up to the 1990s, there were very few settlement sites that had been identified.", start: 574.48, end: 580.26, zh: "但直到20世纪90年代，被确认的定居点遗址非常少。（identified 被确认的，被识别的）"}
+  - {text: "And in a way, this played into the older view that the Garamantes must be nomadic, because we had all these burials and nowhere for them to live.", start: 580.26, end: 589.62, zh: "在某种程度上，这印证了早期认为加拉曼特人是游牧民族的看法，因为我们发现了大量墓葬，却找不到他们居住的地方。（nomadic 游牧的）"}
+  - {text: "Well, subsequently, the survey work that we and others have done, there was an earlier British archaeologist called Charles Daniels who did some pioneering work.", start: 590.28, end: 599.20, zh: "后来，我们和其他人进行的调查工作，还有一位早期的英国考古学家查尔斯·丹尼尔斯，他做了一些开创性的工作。（pioneering 开创性的，先驱的）"}
+  - {text: "We've now started to identify in vast numbers the settlement sites that go with those cemeteries.", start: 599.66, end: 607.28, zh: "我们现在已经识别出大量与那些墓地相对应的定居点遗址。（settlement sites 定居点遗址；cemeteries 墓地）"}
+  - {text: "In the early Garamantian period, that's around about 1 ,000 BCE.", start: 607.28, end: 611.56, zh: "在加兰特人的早期阶段，那大约是公元前1000年左右。（Garamantian 加兰特人，北非古代民族；BCE 公元前）"}
+  - {text: "They're living in effectively what are hill forts, fortified sites up on the escarpment that marks the southern edge of the valley.", start: 612.40, end: 620.58, zh: "他们实际上居住在山丘堡垒中，这些设防的地点位于标记山谷南缘的陡崖上。（hill forts 山丘堡垒；escarpment 陡崖，陡峭的山坡）"}
+  - {text: "From about 400 BCE, they seem to move down or mass into the plain the centre of this valley where the oasis grows.", start: 621.26, end: 629.78, zh: "大约从公元前400年开始，他们似乎向下迁移或聚集到山谷中心有绿洲生长的平原上。（plain 平原；oasis 绿洲）"}
+  - {text: "And there they're living in open village settlements which they constructed in Mudbrick.", start: 630.18, end: 635.54, zh: "在那里，他们居住在用泥砖建造的开放式村庄定居点中。（open village settlements 开放式村庄定居点；Mudbrick 泥砖）"}
+  - {text: "But the houses there, they're multi -roomed, rectilinear, quite complex architecture.", start: 635.54, end: 642.54, zh: "但那里的房屋是多房间、矩形且相当复杂的建筑结构。（multi-roomed 多房间的；rectilinear 矩形的，直线的）"}
+  - {text: "At Garama, the Garamantian capital, we get some even more sophisticated aspects including stone architecture for some monumental buildings.", start: 643.46, end: 652.84, zh: "在加兰特人的首都加拉马，我们看到了一些更复杂的方面，包括一些纪念性建筑的石质结构。（Garama 加拉马，加兰特人首都；monumental buildings 纪念性建筑）"}
+  - {text: "And then from about 300 CE, we see increasingly the introduction of defensive architecture at their settlement sites with the appearance of castle -like buildings with projecting towers on their outer walls.", start: 653.82, end: 670.26, zh: "然后从公元300年左右，我们越来越看到防御性建筑出现在他们的定居点中，表现为外墙上带有突出塔楼的城堡式建筑。（defensive architecture 防御性建筑；projecting towers 突出塔楼）"}
+  - {text: "So a very different sort of picture emerged about the nature of Garamantian society and from the beginning it's clearly tied to the oasis' cultivation.", start: 671.04, end: 680.08, zh: "因此，关于加兰特社会性质的图景呈现出非常不同的面貌，从一开始就明显与绿洲的耕作紧密相连。（cultivation 耕作，种植）"}
+  - {text: "Before we get into the details of Garamantian society, let's try and understand what the Greeks and Romans who I believe are first sources about the Garamantes,", start: 680.78, end: 692.44, zh: "在深入加兰特社会的细节之前，让我们试着理解一下希腊人和罗马人，我相信他们是关于加兰特人的最早来源……（Garamantes 加兰特人；sources 来源，史料）"}
+  - {text: "what do the Greeks and Romans say about them?", start: 692.92, end: 694.92, zh: "希腊人和罗马人是怎么评价他们的？"}
+  - {text: "Well, I think it's important to understand the sort of conventions in which Greek and Roman sources wrote about peoples on the periphery or beyond the periphery of the Mediterranean world.", start: 695.65, end: 707.83, zh: "我认为理解希腊和罗马史料在描述地中海世界边缘或更外围地区民族时所使用的惯例非常重要。（conventions 惯例；periphery 边缘，外围）"}
+  - {text: "And I have an idea which I call progressive barbarisation and that is that Mediterranean peoples, Greek and Roman, took a very Mediterranean -centric view of the world in", start: 708.31, end: 722.21, zh: "我有一个观点，我称之为“渐进式野蛮化”，即地中海地区的希腊人和罗马人持有一种以地中海为中心的世界观，认为……（progressive barbarisation 渐进式野蛮化；Mediterranean-centric 以地中海为中心的）"}
+  - {text: "which everything about the Mediterranean was civilised and everything that lay beyond was very primitive and it's a deliberately schematic way of looking at the world.", start: 722.21, end: 733.69, zh: "地中海的一切都是文明的，而超出这一范围的一切都极其原始，这是一种刻意简化的世界观。（schematic 简化的，模式化的）"}
+  - {text: "So Greek and Roman sources, when they write about these neighbouring peoples, they're not writing in an anthropological or ethnographic way, they're as much as anything bringing out these sort of stereotypes", start: 734.15, end: 746.31, zh: "因此，当希腊和罗马史料描写这些邻近民族时，他们并非以人类学或民族志的方式写作，而是在很大程度上突出这些刻板印象（anthropological 人类学的；ethnographic 民族志的）"}
+  - {text: "that are designed to demonstrate the primitiveness and otherness of these outline peoples.", start: 746.31, end: 752.63, zh: "这些刻板印象旨在展示这些边缘民族的原始性和异质性。（otherness 异质性，他者性）"}
+  - {text: "So just to give you an example, peoples that lived close to the Mediterranean, both in North Africa and in Europe, they're generally recognised as being agricultural,", start: 753.25, end: 764.03, zh: "举个例，居住在靠近地中海的地区，无论是北非还是欧洲，通常被认为从事农业，"}
+  - {text: "urban living, state -level organisation of society, societies with complex bulls and conducts of behaviour that mark out their civility.", start: 764.85, end: 775.17, zh: "过着城市生活，拥有国家层面的社会组织，以及复杂的礼仪和行为准则，这些都标志着他们的文明程度。（bulls 此处应为 rituals 礼仪；conducts 行为准则）"}
+  - {text: "But if you move out of that Mediterranean zone, they're pastoral or nomadic, they're living in huts and tents.", start: 775.63, end: 782.49, zh: "但如果你走出地中海区域，他们就是游牧或半游牧的，住在棚屋和帐篷里。（pastoral 牧养的，游牧的；nomadic 游牧的）"}
+  - {text: "Even further out than that, then you find people whose lifestyle is essentially a hunter -gatherer lifestyle.", start: 783.01, end: 788.75, zh: "再往外走，你会发现那些生活方式本质上属于狩猎采集的人群。（hunter-gatherer 狩猎采集者）"}
+  - {text: "They speak unintelligible languages, they're living and sleeping in the open or in caves, and then even beyond that, we get into an imagined world.", start: 789.37, end: 800.95, zh: "他们说着听不懂的语言，露宿在野外或洞穴里，甚至在那之后，我们就进入了一个想象的世界。（unintelligible 难以理解的；caves 洞穴）"}
+  - {text: "A sort of mythical world where there are people with no heads and eyes on their chests and interestingly, those are still appearing on early modern maps of Africa, echoing this sort of schematic view.", start: 801.07, end: 813.93, zh: "这是一种神话般的世界，里面有人没有头，眼睛长在胸口，有趣的是，这些形象至今仍出现在早期现代非洲地图上，呼应着这种简化的视角。（mythical 神话的；schematic 简化的，示意性的）"}
+  - {text: "Joe, let me take that on with you about the Garamantes themselves.", start: 814.75, end: 818.97, zh: "乔，让我接着你的话谈谈加拉曼特人本身。（Garamantes 加拉曼特人，古代利比亚游牧民族）"}
+  - {text: "Are they seen as barbarians or how are they depicted?", start: 819.75, end: 823.97, zh: "他们是被视为野蛮人，还是被如何描绘的？（barbarians 野蛮人；depicted 描绘，刻画）"}
+  - {text: "What's so interesting, so picking up from what David's saying about progressive barbarisation, what you see with the Garamantes is not only quite a bit of this idea that the further away people are, the stranger they are,", start: 823.97, end: 836.79, zh: "有趣的是，承接大卫刚才关于“渐进式野蛮化”的说法，你在加拉曼特人身上看到的不仅是这种观念：人们离得越远，就越显得陌生，"}
+  - {text: "you also get a progressive barbarisation or primitivisation over time.", start: 837.07, end: 842.67, zh: "你还看到了一种随时间推移而发生的渐进式野蛮化或原始化。（progressive 渐进的；primitivisation 原始化）"}
+  - {text: "So the very first references to the Garamantes are in the 5th century B .C., so in the era of the Persian Wars, classical Athens, that kind of thing.", start: 843.19, end: 853.15, zh: "最早关于加拉曼特人的记载出现在公元前5世纪，也就是波斯战争、古典雅典那个时期。（Herodotus 希罗多德，古希腊历史学家；Persian Wars 波斯战争）"}
+  - {text: "And a historian called Herodotus, who's writing in Greek in this period, describes a trade route across the Sahara, from the Nile to the Niger, and he talks about the different peoples who live in Oasis every 10 days.", start: 853.15, end: 868.37, zh: "一位名叫希罗多德的历史学家，用希腊语写于这一时期，描述了一条横跨撒哈拉的贸易路线，从尼罗河到尼日尔河，他谈到了每隔10天就有一个绿洲居住着不同的民族。（Sahara 撒哈拉沙漠；Niger 尼日尔河）"}
+  - {text: "So basically the caravan stops on this Oasis route.", start: 868.51, end: 871.65, zh: "基本上，商队在这条绿洲路线上停留。（caravan 商队；Oasis 绿洲）"}
+  - {text: "Is this in his book, The History?", start: 871.75, end: 873.19, zh: "这是在他的著作《历史》里吗？（The History 希罗多德的著作《历史》）"}
+  - {text: "Exactly, in his book The History, yes.", start: 873.45, end: 875.15, zh: "没错，是在他的著作《历史》里，是的。（The History 《历史》，希罗多德的著作）"}
+  - {text: "And he picks out the Oasis of Garamantes, he says they are a great and mighty people.", start: 875.53, end: 881.85, zh: "他特别提到了加拉曼特绿洲，说那里的人是一个伟大而强大的民族。（Oasis 绿洲；Garamantes 加拉曼特，古利比亚民族）"}
+  - {text: "He says that they farm, which obviously it's very difficult to farm, you know, often even in Oasis, but he says they do it by layering earth on top of the salty ground,", start: 881.85, end: 892.91, zh: "他说他们从事农业，这显然很难，你知道，即使在绿洲里，但他说是通过在盐碱地上覆盖一层土壤来实现的。（farm 耕种；salty ground 盐碱地）"}
+  - {text: "because it's very kind of salty water there.", start: 893.21, end: 894.93, zh: "因为那里的水非常咸。（salty 咸的）"}
+  - {text: "And he also says that they herd animals, but they herd these, not just kind of normal animals, they herd these very special cows who have horns", start: 895.21, end: 903.63, zh: "他还说他们放牧牲畜，但不是普通的动物，而是放牧一种长着角的非常特殊的牛（herd 放牧；cows 牛）"}
+  - {text: "that are so long that the cows have to walk backwards.", start: 903.63, end: 907.75, zh: "角长得太长，以至于牛不得不倒着走。（backwards 倒着）"}
+  - {text: "And I think this is sometimes seen as being kind of a very primitive idea and so on, but actually I think it's like these are very fancy cows.", start: 908.21, end: 914.91, zh: "我觉得这有时被视为一种非常原始的想法等等，但实际上我认为这些是非常高级的牛。（primitive 原始的；fancy 高级的，精致的）"}
+  - {text: "These are cows so cool that they have to look after them especially.", start: 915.41, end: 919.33, zh: "这些牛太酷了，以至于必须特别照顾它们。（cool 酷的，出色的）"}
+  - {text: "But that's also sort of drifting into the mythologisation that David was referring to.", start: 919.81, end: 923.65, zh: "但这也有点陷入了大卫所提到的神话化倾向。（mythologisation 神话化，将事物传奇化）"}
+  - {text: "Exactly, exactly. But then what happens is that, so you get this picture in Herodotus of quite a sophisticated people who are farming, who are herding,", start: 923.91, end: 932.49, zh: "完全正确。但接下来发生的是，你在希罗多德笔下看到了这样一个画面：一个相当先进的民族，他们耕种，他们放牧……（Herodotus 希罗多德，古希腊历史学家；sophisticated 复杂的，先进的）"}
+  - {text: "who are also quite high up in the local hierarchy, because he also says that they are hunting the Ethiopians, the cave -dwelling Ethiopians, he says.", start: 932.87, end: 942.61, zh: "他们在当地等级体系中地位也很高，因为他还提到他们在猎杀埃塞俄比亚人，也就是那些住在洞穴里的埃塞俄比亚人。（hierarchy 等级体系；Ethiopians 埃塞俄比亚人，此处指古代努比亚地区居民）"}
+  - {text: "And these Garamantes are hunting with chariots.", start: 943.19, end: 945.85, zh: "而这些加拉曼特人是用战车进行狩猎的。（Garamantes 加拉曼特人，古代利比亚游牧民族；chariots 战车）"}
+  - {text: "They've got horses and chariots that are hunting the Ethiopians to enslave them essentially.", start: 946.03, end: 949.81, zh: "他们拥有马匹和战车，猎杀埃塞俄比亚人，本质上是为了奴役他们。（enslave 奴役；essentially 本质上）"}
+  - {text: "So you've got this kind of strange picture, but other people who are quite complex and quite high up and who are also involved in trade.", start: 950.53, end: 959.25, zh: "所以你看到的是这样一幅奇怪的图景，这些人其实相当复杂，地位很高，同时也参与贸易。（complex 复杂的；trade 贸易）"}
+  - {text: "And then by the Roman period, so 500 years later, I was going to the Roman Empire.", start: 959.81, end: 964.25, zh: "然后到了罗马时期，也就是五百年后，我想说的是罗马帝国。（Roman period 罗马时期；Roman Empire 罗马帝国）"}
+  - {text: "And this is a period when there is regular trading contact between Rome and the Garamantes.", start: 964.89, end: 970.59, zh: "这是一个罗马与加拉曼特人之间有定期贸易往来的时期。（trading contact 贸易往来；Garamantes 加拉曼特人）"}
+  - {text: "There are Roman generals go down there.", start: 971.03, end: 973.41, zh: "有罗马将军前往那里。（generals 将军；expeditions 远征）"}
+  - {text: "They even go on expeditions with the king of the Garamantes.", start: 973.53, end: 976.87, zh: "他们甚至与加拉曼特国王一起进行远征。（expeditions 远征；Garamantes 加拉曼特人）"}
+  - {text: "This is really quite a well -known place to real -life Romans.", start: 977.19, end: 981.23, zh: "对于现实生活中的罗马人来说，这是一个相当著名的地方。（well-known 著名的；real-life 现实生活中的）"}
+  - {text: "What you get in the descriptive sources of the Garamantes are two things.", start: 981.95, end: 986.01, zh: "关于加拉曼特人的描述性史料中，主要包含两件事。（descriptive sources 描述性史料；Garamantes 加拉曼特人）"}
+  - {text: "Either people just copy what Herodotus had said 500 years earlier, when no one had gone there.", start: 986.65, end: 992.17, zh: "要么就是人们只是照搬希罗多德五百年前的说法，而当时根本没人去过那里。（Herodotus 希罗多德，古希腊历史学家）"}
+  - {text: "It's basically literally copy it outward for word.", start: 992.27, end: 994.51, zh: "基本上就是逐字逐句地照抄。（literally 字面地，逐字地）"}
+  - {text: "Or you get sources that make them even stranger, that say they live in tents.", start: 994.99, end: 1000.15, zh: "或者你遇到一些来源，它们让情况显得更加奇怪，比如说他们住在帐篷里。（tents 帐篷）"}
+  - {text: "They only hunt. Even the very sober Roman historian Tacitus calls them wild.", start: 1000.49, end: 1007.21, zh: "他们只靠狩猎为生。甚至连非常严谨的罗马历史学家塔西佗都称他们为野蛮人。（Tacitus 塔西佗，古罗马历史学家；sober 严谨的，冷静的）"}
+  - {text: "But this is in a period when plenty of people that Tacitus is writing about in Rome had been to Garama, had seen the city, had seen the stone temples.", start: 1007.93, end: 1016.93, zh: "但在那个时期，塔西佗笔下许多在罗马的人其实去过加拉马，见过那座城，也见过石庙。（Garama 加拉马，古利比亚地区名；stone temples 石庙）"}
+  - {text: "And they're trading all the time.", start: 1016.95, end: 1019.51, zh: "而且他们一直在进行贸易。（trading 贸易，交易）"}
+  - {text: "So it's the most peculiar progressive barbarisation in time as well as space.", start: 1019.51, end: 1024.17, zh: "所以无论是在时间上还是空间上，这都是最奇怪的、逐渐被描绘成野蛮人的过程。（barbarisation 野蛮化，被视为野蛮的过程；peculiar 奇怪的，独特的）"}
+  - {text: "Farris, can you tell us about the Garamantes' religious beliefs?", start: 1024.49, end: 1028.87, zh: "法里斯，你能告诉我们加拉曼特人的宗教信仰吗？（Farris 法里斯，嘉宾姓名；Garamantes 加拉曼特人，古利比亚民族）"}
+  - {text: "What do we know about that?", start: 1029.07, end: 1030.19, zh: "我们对这方面了解多少？"}
+  - {text: "I mean, the most frequent motif, I suppose, which occurs in the text, is referenced to the association of the Garamantes with a god called Amon.", start: 1030.69, end: 1042.23, zh: "我的意思是，文本中最常见的主题，我想，就是提到加拉曼特人与一位名叫阿蒙的神的关联。（Amon 阿蒙，古埃及/利比亚神名；motif 主题，母题）"}
+  - {text: "Most people be aware of in relation to the Egyptian Amon, who then becomes Amon Ra and Amon Min in later forms.", start: 1042.73, end: 1049.93, zh: "大多数人了解的是埃及的阿蒙神，后来演变为阿蒙-拉和阿蒙-明等形态。（Amon 阿蒙，埃及神；Amon Ra 阿蒙-拉；Amon Min 阿蒙-明）"}
+  - {text: "And Amon is perceived as this invisible god who protects people in their travels.", start: 1050.67, end: 1057.13, zh: "阿蒙被视为一位无形的神，保护人们在旅途中的安全。（invisible 无形的；perceived 被视为）"}
+  - {text: "One of the attributes of the Amon god is the ram's horns.", start: 1057.85, end: 1062.59, zh: "阿蒙神的一个特征是公羊角。（attributes 特征；ram's horns 公羊角）"}
+  - {text: "He manifests in the wind.", start: 1063.29, end: 1065.67, zh: "他显现于风中。（manifests 显现；wind 风）"}
+  - {text: "So you can sort of see, if indeed Amon is associated with the Garamantes, how it could fit in with that world of the Sahara desert,", start: 1066.25, end: 1075.31, zh: "所以你可以想象，如果阿蒙确实与加拉曼特人有关，它如何能融入撒哈拉沙漠的那个世界，（Garamantes 加拉曼特人；Sahara desert 撒哈拉沙漠）"}
+  - {text: "where they are indeed moving around a lot, and so they need protection, presumably, in their travels in such a hostile environment.", start: 1075.31, end: 1083.31, zh: "在那里他们确实四处移动，因此在这种恶劣环境中旅行时，他们大概需要保护。（hostile 恶劣的；presumably 大概）"}
+  - {text: "In terms of how the archaeology backs that up, it's very little.", start: 1083.77, end: 1088.09, zh: "就考古学证据而言，支持这一观点的材料非常少。（archaeology 考古学；backs up 支持）"}
+  - {text: "There was a temple -type structure, which was excavated early on in the centre of Garamah, and a bronze mask or head of Selenus was discovered.", start: 1089.95, end: 1103.17, zh: "在加拉马中心早期发掘出一座神庙式建筑，并发现了一尊塞勒努斯的青铜面具或头像。（Garamah 加拉马；Selenus 塞勒努斯）"}
+  - {text: "Now there's a sort of a tenuous connection there with Dionysus, because of course in Greece, Amon became associated with Zeus and Dionysus.", start: 1103.17, end: 1112.51, zh: "这里与狄俄尼索斯有一种微弱的联系，因为在希腊，阿蒙后来与宙斯和狄俄尼索斯联系在一起。（tenuous 微弱的；Dionysus 狄俄尼索斯）"}
+  - {text: "So there is a very, again, very tenuous link.", start: 1112.93, end: 1115.71, zh: "所以确实存在一种非常、非常微弱的联系。（tenuous 微弱的；link 联系）"}
+  - {text: "But we do, of course, have burials, which is, of course, one of the best ways that we can understand something about their ideas and beliefs.", start: 1115.81, end: 1122.77, zh: "当然，我们确实拥有墓葬，这无疑是了解他们思想和信仰的最佳途径之一。（burials 墓葬；beliefs 信仰）"}
+  - {text: "And there's been a lot of surveying, excavation of those cemeteries and burials.", start: 1123.97, end: 1128.93, zh: "人们对这些墓地和墓葬进行了大量的勘测和发掘。（surveying 勘测；excavation 发掘）"}
+  - {text: "You have many different types of burial.", start: 1130.09, end: 1133.23, zh: "这里有多种不同类型的墓葬。（burial 墓葬）"}
+  - {text: "You have mudbrick -built small pyramid structures.", start: 1133.55, end: 1137.17, zh: "有泥砖建造的小型金字塔结构。（mudbrick 泥砖；pyramid 金字塔）"}
+  - {text: "You have cobbled cairns.", start: 1137.55, end: 1139.31, zh: "还有鹅卵石堆砌的坟冢。（cobbled 鹅卵石铺砌的；cairns 石堆，坟冢）"}
+  - {text: "And they are organised in discrete cemeteries, normally at the base of the escarpment.", start: 1139.79, end: 1145.01, zh: "它们被组织在独立的墓地里，通常位于断崖的底部。（discrete 独立的；escarpment 断崖，陡坡）"}
+  - {text: "They are dawned with funerary furniture.", start: 1145.45, end: 1147.79, zh: "墓中随葬有丧葬用品。（dawned 随葬的，此处为transcribed错误，应为adorned或endowed；funerary furniture 丧葬用品，随葬品）"}
+  - {text: "So they have stelae, which are carved in the kind of a forefinger sort of motif.", start: 1147.79, end: 1152.83, zh: "他们有石碑，上面雕刻着类似食指形状的图案。（stelae 石碑；motif 图案，纹样）"}
+  - {text: "They have offering tables.", start: 1153.43, end: 1155.43, zh: "他们还有供桌。（offering tables 供桌，祭台）"}
+  - {text: "If you can imagine your airplane food tray and all the slots in it, it's a little bit like that, the funerary table.", start: 1156.29, end: 1164.81, zh: "如果你想象一下飞机餐盘及其上的所有凹槽，丧葬供桌就有点像那样。（airplane food tray 飞机餐盘；slots 凹槽，隔间）"}
+  - {text: "And the evidence of possible animal remains that have been deposited in those.", start: 1165.31, end: 1169.33, zh: "而且，在这些遗迹中发现了可能存在的动物遗骸。（deposited 沉积，埋藏；remains 遗骸，残留物）"}
+  - {text: "Inside the burials, we have crouched burials.", start: 1170.13, end: 1174.59, zh: "在墓葬内部，我们发现了屈肢葬。（burials 墓葬；crouched 蜷曲的，指屈肢葬）"}
+  - {text: "So the deceased have been laid on their side in the fetal position.", start: 1174.97, end: 1179.09, zh: "也就是说，逝者被侧身放置，呈胎儿姿势。（deceased 逝者；fetal position 胎儿姿势，即蜷缩状）"}
+  - {text: "They're normally wrapped in cloth.", start: 1179.69, end: 1182.47, zh: "他们通常会被布料包裹。（wrapped 包裹；cloth 布料）"}
+  - {text: "And we found in recently, in some cases in leather, doused in some cases in this really dark red ochre, completely doused in red ochre, which is fascinating.", start: 1182.47, end: 1195.07, zh: "最近我们发现，有些情况下是用皮革包裹，有的甚至全身涂满了这种深红色的赭石，这非常迷人。（leather 皮革；ochre 赭石，一种红色颜料；doused 浸透，涂满）"}
+  - {text: "What is that? Is that about fertility?", start: 1195.75, end: 1197.69, zh: "那是怎么回事？这与生育能力有关吗？（fertility 生育能力，繁衍）"}
+  - {text: "Is that about the life, the colour of blood and life?", start: 1198.25, end: 1201.31, zh: "还是说这与生命、血液和生命的颜色有关？（colour 颜色；blood 血液）"}
+  - {text: "So continuity in the afterlife.", start: 1201.91, end: 1203.39, zh: "所以这是关于来世生命的延续。（continuity 延续；afterlife 来世，死后世界）"}
+  - {text: "There's all sorts of ideas that you can extrapolate from that.", start: 1204.01, end: 1207.05, zh: "你可以从中引申出各种各样的想法。（extrapolate 推断，引申；ideas 想法，观念）"}
+  - {text: "You get a lot of that in further north in Africa as well, which is really interesting.", start: 1207.81, end: 1212.27, zh: "在非洲更北的地区也能看到很多类似的现象，这真的很有趣。（further north 更北的地方；Africa 非洲）"}
+  - {text: "So it's suggesting there's some kind of shared beliefs or ideas about death.", start: 1212.49, end: 1217.45, zh: "这表明人们对死亡有着某种共同的信仰或观念。（shared beliefs 共同的信仰；ideas 观念）"}
+  - {text: "So in Tunisia, Algeria, further north in Algeria, the same kind of red ochre.", start: 1217.79, end: 1223.91, zh: "在突尼斯、阿尔及利亚以及阿尔及利亚更北的地区，都发现了同样类型的红赭石。（Tunisia 突尼斯；Algeria 阿尔及利亚；red ochre 红赭石，一种红色颜料）"}
+  - {text: "Herodotus mentions ancestor worship in relation to Saharan peoples.", start: 1224.39, end: 1229.29, zh: "希罗多德曾提到撒哈拉地区居民有祖先崇拜。（Herodotus 希罗多德，古希腊历史学家；ancestor worship 祖先崇拜；Saharan 撒哈拉的）"}
+  - {text: "And I think when Pharisees is describing these burials with these offering structures outside them, it does emphasise how important the dead are to the living.", start: 1230.15, end: 1239.07, zh: "我认为，当法利赛人描述这些墓葬及其外部的供奉结构时，确实强调了死者对生者的重要性。（Pharisees 法利赛人，此处疑为转写错误，可能指某位学者或特定群体；burials 墓葬；offering structures 供奉结构）"}
+  - {text: "There is an element of daily interaction or regular interaction between living connections and the ancestors.", start: 1239.65, end: 1245.49, zh: "生者与祖先之间存在某种日常或定期的互动。（daily interaction 日常互动；ancestors 祖先）"}
+  - {text: "The ancestors sort of there in the guise of minor gods, really.", start: 1245.95, end: 1249.47, zh: "祖先实际上是以小神的形式存在的。（guise 形式，外表；minor gods 小神，次要的神祇）"}
+  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 1252.76, end: 1257.32, zh: "一个滴酒不沾的人和一位军事独裁者是如何共同促成包价旅游的？（teetotaler 滴酒不沾者；military dictator 军事独裁者；package holiday 包价旅游）"}
+  - {text: "Why do weekends even exist?", start: 1257.62, end: 1259.24, zh: "周末为什么存在？（weekends 周末）"}
+  - {text: "And how did we become so obsessed with football?", start: 1259.70, end: 1261.98, zh: "我们又是如何变得如此痴迷于足球的？（obsessed 痴迷的；football 足球）"}
+  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 1262.30, end: 1264.40, zh: "我是爱丽丝·洛克斯顿，我是本·亨德森。（Alice Lockston 爱丽丝·洛克斯顿；Ben Henderson 本·亨德森）"}
+  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 1264.80, end: 1270.40, zh: "在我们全新的视频播客中，我们将探索日常生活中普通事物背后的原因。（video podcast 视频播客；uncover 揭示，探索）"}
+  - {text: "Like why has the pub become so important?", start: 1270.52, end: 1272.50, zh: "比如，为什么酒吧变得如此重要？（pub 酒吧）"}
+  - {text: "That's an excellent question, Ben.", start: 1272.84, end: 1274.56, zh: "本，这是一个非常好的问题。"}
+  - {text: "Here for the history.", start: 1274.90, end: 1275.62, zh: "这里是为了讲述历史。（Here for the history 这里是为了讲述历史）"}
+  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 1275.94, end: 1278.28, zh: "在iPlayer观看，在BBC Sounds收听。"}
+  - {text: "I wanted to carry on, David, with something which is more specifically associated with the Garamantes, which is the Garamantes as oasis cultivators.", start: 1279.06, end: 1288.70, zh: "大卫，我想继续探讨一个与加拉曼特人更紧密相关的话题，即加拉曼特人作为绿洲耕作者的角色。（Garamantes 加拉曼特人，北非古代民族；oasis cultivators 绿洲耕作者）"}
+  - {text: "What does oasis cultivators actually mean in practice?", start: 1289.14, end: 1292.28, zh: "“绿洲耕作者”在实际操作中具体意味着什么？（oasis cultivators 绿洲耕作者；in practice 在实践中）"}
+  - {text: "So our best evidence for this comes from the botanical analyses that we've done on samples from our various excavations.", start: 1293.24, end: 1300.42, zh: "我们最好的证据来自我们对各个发掘点样本进行的植物学分析。（botanical analyses 植物学分析；excavations 发掘）"}
+  - {text: "And we can say pretty conclusively that agriculture arrives with our first sense of Garamantean settlements around about 1 ,000 BCE, and there's an established package, which is the date palm,", start: 1301.38, end: 1314.94, zh: "我们可以相当肯定地说，农业随着我们对加拉曼特人定居点的最早认知而到来，大约在公元前1000年左右，并且已经形成了一套固定的作物组合，包括椰枣树、（conclusively 肯定地；BCE 公元前；date palm 椰枣树）"}
+  - {text: "its wheat and barley, the grapevine and the fig tree.", start: 1315.52, end: 1318.92, zh: "小麦和大麦，葡萄藤和无花果树。（wheat 小麦；barley 大麦；grapevine 葡萄藤）"}
+  - {text: "That's what they start growing and it's clearly come from somewhere, probably from originating from the oases that are first emerging in the western Egyptian desert.", start: 1320.10, end: 1330.62, zh: "他们开始种植这些作物，显然它们来自某个地方，很可能起源于埃及西部沙漠中最早出现的绿洲。（oases 绿洲；western Egyptian desert 埃及西部沙漠）"}
+  - {text: "And that package of crops gradually gets passed along as oases get established out into the central Saharan region.", start: 1330.88, end: 1338.14, zh: "随着绿洲逐渐向撒哈拉中部地区延伸，这套作物组合也随之传播开来。（package of crops 作物组合；central Saharan region 撒哈拉中部地区）"}
+  - {text: "Around about 400 BCE, we get some interesting changes, though.", start: 1338.92, end: 1343.30, zh: "不过，在大约公元前400年左右，出现了一些有趣的变化。（BCE 公元前）"}
+  - {text: "There are three additional crops appear, cotton, sorghum and pearl millet.", start: 1343.66, end: 1348.50, zh: "出现了三种额外的作物：棉花、高粱和珍珠粟。（sorghum 高粱；pearl millet 珍珠粟）"}
+  - {text: "Now those are sub -Saharan crops.", start: 1348.98, end: 1350.72, zh: "这些都属于撒哈拉以南地区的作物。（sub-Saharan 撒哈拉以南的）"}
+  - {text: "So some additional crops are being brought in from a different direction.", start: 1350.72, end: 1354.90, zh: "所以，一些额外的作物是从另一个方向引入的。（direction 方向）"}
+  - {text: "But something like cotton, if I remember rightly, uses a lot of water.", start: 1355.20, end: 1359.46, zh: "但据我记忆，像棉花这样的作物耗水量很大。（cotton 棉花）"}
+  - {text: "So how are they growing cotton in the Sahara?", start: 1359.88, end: 1362.90, zh: "那他们是怎么在撒哈拉种植棉花的？（Sahara 撒哈拉沙漠）"}
+  - {text: "Well, exactly. Water is the key for any oasis cultivation.", start: 1363.28, end: 1368.20, zh: "没错，水对于任何绿洲农业来说都是关键。（cultivation 耕作，种植）"}
+  - {text: "In the initial stages, the Garamantees are perhaps using one or two relic spring lines still active from that wet phase, but gradually drying out, probably", start: 1369.04, end: 1379.70, zh: "在初期，加拉曼特人可能还在利用一两条源自潮湿时期、目前仍活跃但正在逐渐干涸的残留泉线，大概……（Garamantees 加拉曼特人；relic spring lines 残留泉线）"}
+  - {text: "in the course of the first millennium BCE.", start: 1379.70, end: 1381.56, zh: "在前一千年的进程中。（first millennium BCE 公元前第一个千年）"}
+  - {text: "But around 400 CE, exactly at the same time that those sub -Saharan crops arrive, we've got a dated adoption of a new irrigation technology.", start: 1382.34, end: 1392.30, zh: "但在公元400年左右，就在那些撒哈拉以南的作物传入的同时，我们发现有记录显示一种新的灌溉技术被采用了。（sub-Saharan 撒哈拉以南的；irrigation 灌溉）"}
+  - {text: "And this is the Foghra.", start: 1392.86, end: 1393.68, zh: "这就是福格拉。（Foghra 福格拉，一种地下灌溉系统）"}
+  - {text: "Now the Foghra... Can you tell us about the Foghra?", start: 1394.36, end: 1396.90, zh: "那么关于福格拉……你能给我们讲讲福格拉吗？（Foghra 福格拉，一种地下灌溉系统）"}
+  - {text: "The Foghra is the North African version of a technology that we also know in Iran and in Arabia, where it's known as the Kanat or the Falash.", start: 1397.28, end: 1408.84, zh: "福格拉是北非版本的一种技术，我们在伊朗和阿拉伯地区也了解这种技术，在那里它被称为卡纳特或法拉什。（Kanat 卡纳特，一种地下引水渠；Falash 法拉什，一种地下引水渠）"}
+  - {text: "And this is an underground irrigation channel that leads running water out to the area of gardens in the centre of the valley.", start: 1409.42, end: 1420.12, zh: "这是一种地下灌溉渠道，将流动的水引到山谷中心的菜园区域。（irrigation channel 灌溉渠道）"}
+  - {text: "So, hold it, let me just get this straight about how this is constructed.", start: 1420.42, end: 1423.44, zh: "所以，等一下，让我理清一下这个是如何建造的。（hold it 等一下，稍候）"}
+  - {text: "You have a sort of central well.", start: 1423.90, end: 1425.70, zh: "你有一个类似中央井的东西。（well 井）"}
+  - {text: "Well, there's a mother well at the distant end of these underground canals.", start: 1426.12, end: 1430.04, zh: "嗯，在这些地下运河的远端有一个母井。（mother well 母井，即主井）"}
+  - {text: "And these may be 40 metres deep.", start: 1430.30, end: 1431.90, zh: "这些井可能深达40米。（metres 米）"}
+  - {text: "And they're dug generally into the foot of the escarpment at the southern end of the valley.", start: 1431.90, end: 1438.08, zh: "它们通常开凿在峡谷南端悬崖的脚下。（escarpment 陡峭的悬崖或断崖；valley 山谷）"}
+  - {text: "So you dig down till you hit water.", start: 1438.58, end: 1440.08, zh: "所以你得一直往下挖，直到挖到水为止。"}
+  - {text: "And as long as that water is at a level above the level of your gardens in the centre of the valley, then you can construct a Foghra using that water.", start: 1440.62, end: 1449.56, zh: "只要水位高于峡谷中心花园的地面，你就可以利用这些水来修建福格拉灌溉渠。（Foghra 一种古老的地下灌溉系统）"}
+  - {text: "And so you dig a series, a long series of shafts.", start: 1449.94, end: 1453.02, zh: "因此你需要挖掘一系列竖井，而且是很长的一串。"}
+  - {text: "They're spaced only every 5 or 10 metres.", start: 1453.68, end: 1456.00, zh: "它们之间的间距只有五到十米。"}
+  - {text: "So it's an awful lot of shafts that you have to dig.", start: 1456.12, end: 1459.26, zh: "所以你需要挖掘的竖井数量非常惊人。"}
+  - {text: "But gradually getting nearer to the surface until the water actually emerges at the surface.", start: 1459.26, end: 1465.56, zh: "但竖井会逐渐靠近地表，直到水最终涌出地面。"}
+  - {text: "Because you connect the shafts at the bottom with short tunnel sections.", start: 1465.68, end: 1468.70, zh: "因为你在底部用短的隧道段将各个竖井连接起来。"}
+  - {text: "It's obviously a lot easier to tunnel if you're only tunneling 5 metres to the bottom of the next shaft.", start: 1469.00, end: 1474.28, zh: "显然，如果你只需要挖五米就能到达下一个竖井的底部，那么开凿隧道会容易得多。"}
+  - {text: "Even so, Joe Quinn, that sounds like an incredible amount of work.", start: 1474.54, end: 1479.54, zh: "即便如此，乔·奎因，这听起来工作量也是难以置信的巨大。"}
+  - {text: "So the sheer scale of the Foghra, how did they build it?", start: 1479.74, end: 1483.68, zh: "那么，Foghra 的规模如此之大，他们是如何建造它的呢？（Foghra 古加玛特人的地下引水渠系统）"}
+  - {text: "It's terrifying to think about.", start: 1484.50, end: 1486.34, zh: "想想就让人不寒而栗。（terrifying 令人恐惧的，可怕的）"}
+  - {text: "I mean, these shafts that David's been describing, some of these are 40 metres deep.", start: 1486.34, end: 1492.10, zh: "我是说，大卫刚才描述的那些竖井，有些深达 40 米。（shafts 竖井，垂直通道）"}
+  - {text: "They're very narrow. They are being dug down in a world where the daytime temperatures can reach 55 degrees.", start: 1492.30, end: 1502.36, zh: "它们非常狭窄。而且是在白天温度可达 55 摄氏度的环境下向下挖掘的。（narrow 狭窄的）"}
+  - {text: "There's less than a centimetre of rain a day.", start: 1503.28, end: 1506.50, zh: "那里的日降雨量不到一厘米。（rain 降雨量）"}
+  - {text: "And there are thousands of these things.", start: 1507.02, end: 1509.96, zh: "而且这样的竖井有成千上万个。（thousands 成千上万）"}
+  - {text: "And each one of them has these access shafts every 5 or 10 metres, as David said.", start: 1510.06, end: 1514.94, zh: "正如大卫所说，每一个竖井每隔 5 到 10 米就有一个检修井。（access shafts 检修井，用于进入地下通道的垂直开口）"}
+  - {text: "Can I just jump in?", start: 1515.80, end: 1517.62, zh: "我可以插一句吗？（jump in 插话，参与讨论）"}
+  - {text: "We did an estimate of the labour needs to construct the Foghra systems that we know about in the game of Antion Heartlands.", start: 1517.78, end: 1525.60, zh: "我们估算了建造我们在加玛特心腹地所知的 Foghra 系统所需的人力。（labour needs 人力需求；Antion Heartlands 此处指加玛特核心区域，原文可能有误）"}
+  - {text: "It's 72 ,000 man years.", start: 1525.80, end: 1528.26, zh: "需要 72,000 个工年。（man years 工年，一个人工作一年的工作量）"}
+  - {text: "I mean, put that another way.", start: 1528.68, end: 1530.90, zh: "我的意思是，换个说法来说。"}
+  - {text: "If you had a team of 100 people doing nothing apart from all their lives, constructing Foghra's, it would take them 720 years to create that system.", start: 1531.16, end: 1543.76, zh: "如果你有一百个人，除了吃饭睡觉之外，一辈子都在建造福格拉，他们需要七百二十年才能建成这套系统。（Foghra 福格拉，利比亚古城遗址）"}
+  - {text: "But this is quite...", start: 1543.76, end: 1545.62, zh: "但这相当……"}
+  - {text: "I mean, they didn't have diggers, industrial diggers or anything like that.", start: 1545.62, end: 1548.54, zh: "我的意思是，他们没有挖掘机，没有工业级挖掘机或类似的东西。（diggers 挖掘机）"}
+  - {text: "It's all done by hand.", start: 1548.62, end: 1549.52, zh: "全靠手工完成。"}
+  - {text: "It's all done by hand.", start: 1549.62, end: 1550.18, zh: "全靠手工完成。"}
+  - {text: "So one thing that I think it must mean is they have iron bags.", start: 1550.18, end: 1553.36, zh: "所以我认为这意味着他们拥有铁制工具。（iron bags 铁制工具，此处为转录错误，原意应为 iron tools）"}
+  - {text: "You can't dig this with literally by hand or by stone.", start: 1553.66, end: 1557.34, zh: "你不可能仅靠双手或石器挖出这样的工程。"}
+  - {text: "So they're already using some kind of iron.", start: 1557.46, end: 1559.22, zh: "所以他们已经在某种程度使用铁了。"}
+  - {text: "But this is all human labour, essentially.", start: 1559.56, end: 1561.40, zh: "但这本质上还是人力劳动。（labour 劳动）"}
+  - {text: "There is no way that people are going to volunteer to do this kind of work.", start: 1562.04, end: 1566.62, zh: "没人会自愿去做这种工作。"}
+  - {text: "I can't imagine a king so powerful that he could require his subjects to do this for 720 man years.", start: 1567.02, end: 1578.02, zh: "我无法想象有一位国王强大到能要求他的臣民为此付出720个人年。（man years 人年，衡量劳动投入的单位）"}
+  - {text: "720 years. So actually, he's drawing them out of time.", start: 1578.44, end: 1581.90, zh: "也就是720年。所以实际上，他是从时间中抽取劳动力。"}
+  - {text: "And so we must be looking at enslaved labour here.", start: 1582.24, end: 1586.12, zh: "因此，我们在这里看到的必须是奴隶劳动。（enslaved labour 奴隶劳动）"}
+  - {text: "We know that there are...", start: 1586.72, end: 1588.82, zh: "我们知道……"}
+  - {text: "Or at least we're told by Greek sources that these Garamantes are slavers.", start: 1588.82, end: 1593.80, zh: "或者至少希腊史料告诉我们，这些加拉曼特人是奴隶贩子。（Garamantes 加拉曼特人，古代利比亚游牧民族；slavers 奴隶贩子）"}
+  - {text: "It's an obvious trade for the salt that they're also producing with this water irrigation.", start: 1594.34, end: 1599.90, zh: "用这种灌溉水生产盐，显然是一项有利可图的贸易。（irrigation 灌溉）"}
+  - {text: "So on the one hand, I think what we learn from this is that it's very likely that there's a significant use of enslaved labour in these OACs from further south.", start: 1601.04, end: 1610.96, zh: "所以一方面，我认为我们从中得知，这些来自更南方的OAC很可能大量使用了奴隶劳动。（OACs 绿洲农业社区，指代特定农业定居点）"}
+  - {text: "And you also mentioned earlier about the Ethiopians being...", start: 1611.32, end: 1614.48, zh: "你之前也提到过埃塞俄比亚人……（Ethiopians 埃塞俄比亚人，此处指代古代努比亚或埃塞俄比亚地区居民）"}
+  - {text: "Exactly. There's these stories about them hunting in chariots, these cave -dwelling Ethiopians who Herodotus says, and this is another of this progressive barbarisation, these are people", start: 1614.48, end: 1625.58, zh: "没错。赫罗多德记载了这些住在洞穴里的埃塞俄比亚人驾驶战车狩猎的故事，这又是那种逐渐野蛮化的叙事，这些人……（Herodotus 赫罗多德，古希腊历史学家；progressive barbarisation 逐渐野蛮化，指文明程度随距离增加而降低的观念）"}
+  - {text: "who are even further south than the Garamantes.", start: 1625.58, end: 1627.64, zh: "他们甚至比加拉曼特人更靠南。（Garamantes 加拉曼特人，北非古代游牧民族）"}
+  - {text: "And Herodotus says they squeak instead of speaking.", start: 1628.20, end: 1631.16, zh: "希罗多德说他们说话时发出吱吱声，而不是正常交谈。（Herodotus 希罗多德，古希腊历史学家；squeak 吱吱叫，拟声词）"}
+  - {text: "So today they're kind of in this mythical world.", start: 1631.50, end: 1633.34, zh: "所以如今他们仿佛存在于一个神话世界之中。（mythical 神话的，传说中的）"}
+  - {text: "But he does... You know, there's a story there you also get.", start: 1633.74, end: 1636.44, zh: "但他确实……你知道，那里也有一个流传的故事。（story 故事，传说）"}
+  - {text: "And this is, I think, extraordinary.", start: 1636.54, end: 1637.86, zh: "我认为这非常不可思议。（extraordinary 非凡的，不可思议的）"}
+  - {text: "There are cave -art from these regions where the people would be hunting and they show people with horses and chariots.", start: 1638.42, end: 1647.42, zh: "这些地区有岩画，描绘了人们狩猎的场景，其中有人骑着马，驾着战车。（cave-art 岩画；chariots 战车）"}
+  - {text: "So these are perhaps the victims showing these people who come after them.", start: 1647.48, end: 1651.30, zh: "所以这些可能是受害者，展示着那些追赶他们的人。（victims 受害者）"}
+  - {text: "But there's also going to be, certainly by the Roman period, a lot of slave trading, as well as just kind of catching other people.", start: 1651.64, end: 1660.34, zh: "但到了罗马时期，肯定会有大量的奴隶贸易，以及抓捕其他人的行为。（slave trading 奴隶贸易）"}
+  - {text: "And so that's one major factor in what's going on here, what's happening with the Garamantes, both using a lot of enslaved people, but also trading them perhaps to the Roman properties.", start: 1660.70, end: 1670.68, zh: "因此，这是这里发生情况的一个主要因素，加拉曼特人不仅大量使用奴隶，还可能将他们交易给罗马地产。（enslaved people 被奴役的人；Roman properties 罗马地产）"}
+  - {text: "I want to come on to the trading.", start: 1670.68, end: 1671.92, zh: "我想谈谈贸易方面。（trading 贸易，交易）"}
+  - {text: "Faris, from what we've heard so far, it sounds as though the Garamantes were very sophisticated traders.", start: 1672.14, end: 1678.72, zh: "法里斯，根据我们目前听到的内容，加拉曼特人似乎是非常精明的商人。（Garamantes 加拉曼特人，古代撒哈拉地区民族；sophisticated 精明的，复杂的）"}
+  - {text: "What do we know about their trade?", start: 1679.44, end: 1680.96, zh: "我们知道关于他们贸易的哪些情况？"}
+  - {text: "So, you know, around the same time, around 1000 BC, that we start to see this formation of a Garamantian proto kind of state.", start: 1680.96, end: 1691.74, zh: "也就是说，大约在公元前1000年左右，我们开始看到加拉曼特原初国家的雏形。（proto 原初的，早期的；formation 形成，建立）"}
+  - {text: "You also get in the coast of North Africa, the arrival of Phoenician trading colonies.", start: 1691.96, end: 1698.32, zh: "与此同时，在北非海岸，腓尼基人的贸易殖民地也到达了那里。（Phoenician 腓尼基的，古代地中海民族；colonies 殖民地）"}
+  - {text: "You get in 814 BC, the foundation of Carthage.", start: 1698.90, end: 1702.00, zh: "公元前814年，迦太基城建立了。（Carthage 迦太基，古代北非城市）"}
+  - {text: "Now, as far as we can tell, they were traders and they were not expansionists or colonists, per se.", start: 1702.64, end: 1708.34, zh: "据我们所知，他们是商人，而不是扩张主义者或殖民者，至少从严格意义上说不是。（expansionists 扩张主义者；per se 本身，本质上）"}
+  - {text: "So, they needed to be able to establish connections with other entities in the hinterland of the coast to be able to move goods around.", start: 1708.34, end: 1720.32, zh: "因此，他们需要与沿海地区内陆的其他实体建立联系，以便运输货物。（hinterland 内陆，腹地；entities 实体，组织）"}
+  - {text: "So, in many ways, you can sort of see this picture of these traders on the coast wanting stuff that is in the central Sahara or even in sub -Saharan Africa that the Garamantes can provide.", start: 1720.92, end: 1737.34, zh: "所以在很多方面，你可以看到这样一幅图景：沿海的商人想要撒哈拉中部甚至撒哈拉以南非洲的东西，而加拉曼特人可以提供这些。（sub-Saharan 撒哈拉以南的；Sahara 撒哈拉沙漠）"}
+  - {text: "And it's not a kind of passive situation where the Carthaginians are coming to them and they're just acting as a middleman.", start: 1737.34, end: 1744.34, zh: "这并不是一种被动的局面，即迦太基人来到他们那里，他们只是充当中间人。（passive 被动的；middleman 中间人，中介）"}
+  - {text: "They're clearly moving distances to trade.", start: 1744.52, end: 1750.02, zh: "他们显然是在长距离移动以进行贸易。（distances 距离，此处指长距离）"}
+  - {text: "You also have this incredible opportunity at the end of the Second Punic War when Carthage's influence in North Africa is diminished a lot.", start: 1750.42, end: 1761.36, zh: "在第二次布匿战争结束时，迦太基在北非的影响力大幅削弱，这其实是一个绝佳的机会。（Second Punic War 第二次布匿战争；Carthage 迦太基）"}
+  - {text: "Remind me when the Second Punic War is.", start: 1761.70, end: 1763.54, zh: "提醒我一下，第二次布匿战争是什么时候？（Second Punic War 第二次布匿战争）"}
+  - {text: "Yes, it was to 1802 BC between the Romans and the Carthaginians and at the end of that, with Hannibal's infamous defeat at the Battle of Zama,", start: 1763.54, end: 1775.08, zh: "是的，那是公元前218年到公元前201年，罗马人和迦太基人之间的战争，在那场战争结束时，汉尼拔在扎马战役中惨败……（Hannibal 汉尼拔；Battle of Zama 扎马战役）"}
+  - {text: "you have this moment of about 200 years where Carthage's influence is diminished.", start: 1775.76, end: 1783.34, zh: "随后出现了大约两百年的时期，迦太基的影响力在此期间被削弱了。（diminished 削弱，减少）"}
+  - {text: "And at this time, you see this kind of explosion, if you like, of these various indigenous kingdoms, including others like the Numidians, presumably also the Garamantes where they are filling this kind of void, if you like, this vacuum", start: 1784.20, end: 1799.98, zh: "就在这一时期，你看到这些本土王国，包括努米底亚人，可能还有加拉曼特人，出现了一种爆发式的增长，他们似乎在填补这种真空。（Numidians 努米底亚人；Garamantes 加拉曼特人；vacuum 真空，空白）"}
+  - {text: "and no doubt are doing so through trade.", start: 1800.82, end: 1803.68, zh: "毫无疑问，他们是通过贸易来做到这一点的。（trade 贸易）"}
+  - {text: "So David Mattingly, do we know what they were trading?", start: 1804.22, end: 1807.90, zh: "那么大卫·马特林利，我们知道他们交易的是什么吗？（David Mattingly 大卫·马特林利，历史学家）"}
+  - {text: "Was it just agricultural product or was it manufactured product as well?", start: 1808.08, end: 1811.64, zh: "是只有农产品，还是也有制成品？（manufactured product 制成品，工业产品）"}
+  - {text: "In traditional Trans -Saharan trading, the key commodities of trade have been gold, enslaved people and salt.", start: 1812.14, end: 1820.00, zh: "在传统的跨撒哈拉贸易中，主要的贸易商品是黄金、奴隶和盐。（Trans-Saharan 跨撒哈拉的；commodities 商品，物资）"}
+  - {text: "And at one level, the Garamantes plug into that sort of network.", start: 1821.60, end: 1826.44, zh: "在某种程度上，加拉曼特人融入了这种网络。（Garamantes 加拉曼特人；plug into 融入，接入）"}
+  - {text: "Gold is being sourced in Sub -Saharan Africa, particularly in West Africa, enslaved people obviously can be taken at various points within the Sahara but from the Sub -Saharan lands as well.", start: 1826.94, end: 1841.04, zh: "黄金主要来自撒哈拉以南非洲，尤其是西非地区，被奴役的人显然可以在撒哈拉内部的各个节点被带走，也可以从撒哈拉以南地区被运出。（Sub-Saharan Africa 撒哈拉以南非洲；enslaved people 被奴役的人）"}
+  - {text: "Onto that, of course, the Garamantes are producing Oasis products, dates, for instance, have a market in the Mediterranean world for sure.", start: 1841.60, end: 1850.12, zh: "在此基础上，加拉曼特人生产绿洲产品，比如椰枣，这些产品在 Mediterranean 世界肯定是有市场的。（Oasis 绿洲；Mediterranean 地中海）"}
+  - {text: "But, and I think this is the crucial thing about the Garamantes, because sometimes they've been perceived as rather passive middlemen in trade that's dominated from the Mediterranean", start: 1851.17, end: 1859.89, zh: "但我觉得关于加拉曼特人最关键的一点是，因为他们有时被视为由地中海主导的贸易中相当被动的中间人……（passive 被动的；middlemen 中间人）"}
+  - {text: "but what we actually see from the archaeological evidence is that the Garamantes are quite discerning consumers.", start: 1859.89, end: 1865.85, zh: "但从考古证据来看，加拉曼特人实际上是相当挑剔的消费者。（archaeological 考古的；discerning 挑剔的，有鉴赏力的）"}
+  - {text: "They have a penchant for Roman tableware and glassware, particularly really large open forms of bowls which are incredibly fragile.", start: 1866.41, end: 1875.37, zh: "他们偏爱罗马的餐具和玻璃器皿，特别是那些非常大且开口宽阔的碗，这些碗极其脆弱。（penchant 偏爱；tableware 餐具）"}
+  - {text: "So you can imagine how overjoyed the merchants are to have to carry those sorts of goods on the Saharan trails.", start: 1875.81, end: 1881.39, zh: "所以你可以想象，商人们不得不把这些易碎品沿着撒哈拉的小路运输，他们该有多高兴。（overjoyed 欣喜若狂；trails 小径，路径）"}
+  - {text: "We've got lots and lots of amphorae that transport jars for wine and olive oil and fish sauce.", start: 1882.01, end: 1887.61, zh: "我们发现了大量用于运输葡萄酒、橄榄油和鱼酱的陶罐。（amphorae 双耳陶罐；fish sauce 鱼酱）"}
+  - {text: "I mean, what's interesting is we've got evidence of masses of that material being consumed in the Garamantean heartlands but it barely moves south and southwest of the Garamantean heartlands.", start: 1888.23, end: 1898.83, zh: "我的意思是，有趣的是，我们有证据表明大量此类材料在加拉曼特核心地区被消耗，但几乎不会向南或西南方向移动。（heartlands 核心地区；barely 几乎不）"}
+  - {text: "In other words, the Garamantes preferentially consume those Mediterranean goods in their own society and, you know, we can estimate there are hundreds of thousands of amphorae", start: 1899.09, end: 1909.43, zh: "换句话说，加拉曼特人优先在自己的社会中消费这些地中海商品，而且我们可以估计有数十万个陶罐……（preferentially 优先地；estimate 估计）"}
+  - {text: "and hundreds of thousands of tableware vessels imported into the Garamantean.", start: 1909.99, end: 1914.85, zh: "以及数十万个进口到加拉曼特地区的餐具。（vessels 容器，器皿；imported 进口的）"}
+  - {text: "So this isn't small -scale trade.", start: 1914.91, end: 1916.83, zh: "所以这可不是小规模的贸易。"}
+  - {text: "This is large -scale trade but the Garamantes are also manufacturing.", start: 1916.95, end: 1921.73, zh: "这是大规模的贸易，而且加拉曼特人也在从事制造业。（Garamantes 加拉曼特人，古代利比亚游牧民族）"}
+  - {text: "They build up capacity for metalwork producing little metal barring gots which are perfect for carrying on Saharan trade caravans.", start: 1922.05, end: 1931.75, zh: "他们提升了金属加工产能，生产小型金属锭，这些非常适合在撒哈拉贸易商队中携带。（metalwork 金属加工；barring gots 金属锭，此处指小型金属块；caravans 商队）"}
+  - {text: "We know there are expert textile producers and garment producers and cotton is a very new crop in the Sahara, in the Mediterranean world at this time.", start: 1932.19, end: 1941.81, zh: "我们知道那里有熟练的纺织和服装生产者，而棉花在当时是撒哈拉和地中海世界非常新的作物。（textile 纺织品；garment 服装；crop 作物）"}
+  - {text: "That has to have a high value in trade.", start: 1942.11, end: 1945.13, zh: "这在贸易中肯定价值很高。"}
+  - {text: "They're producing masses of beads in glass, in semi -precious stones, in ostrich eggshell and again, beads historically have been currency in Saharan trade.", start: 1945.43, end: 1957.63, zh: "他们生产大量珠子，材质包括玻璃、半宝石和鸵鸟蛋壳，而且历史上珠子在撒哈拉贸易中一直充当货币。（beads 珠子；semi-precious stones 半宝石；ostrich eggshell 鸵鸟蛋壳）"}
+  - {text: "Thank you very much, David.", start: 1957.63, end: 1959.11, zh: "非常感谢你，大卫。"}
+  - {text: "Joe, why does the city of Garama in particular become the centre of this trading operation?", start: 1959.49, end: 1966.81, zh: "乔，为什么特别是加拉马城会成为这一贸易活动的中心？（Garama 加拉马，加拉曼特人的主要城市）"}
+  - {text: "Do we know? Well, I think one of the things that's really interesting about looking at the growth of cities in general is that very often what seems to produce", start: 1967.27, end: 1978.13, zh: "我们知道原因吗？嗯，我认为关于城市增长的一个非常有趣的现象是，往往是什么导致了……"}
+  - {text: "that kind of scale and density that we call cities in different periods is when lines of communication or trade cross through them.", start: 1978.13, end: 1988.67, zh: "我们在不同时期所称的城市的那种规模和密度，通常是因为通讯或贸易路线穿过它们。（density 密度；lines of communication 通讯线路，此处指交通或贸易路线）"}
+  - {text: "So I think what we're getting with the Garamante is that it's so interesting is you have this early sort of trade route that's going from the Nile to the Niger", start: 1989.11, end: 1997.15, zh: "我认为加拉曼特人之所以如此有趣，是因为存在一条从尼罗河延伸到尼日尔河的早期贸易路线。（Garamante 加拉曼特人；Nile 尼罗河；Niger 尼日尔河）"}
+  - {text: "where there are all these OACs along it.", start: 1997.15, end: 2000.35, zh: "沿途分布着许多开放聚落。（OACs 开放聚落，Open Air Communities）"}
+  - {text: "I would see those OAC settlements as a kind of secondary phenomenon that's not necessarily passive.", start: 2000.95, end: 2007.27, zh: "我会把这些开放聚落视为一种次生现象，它们并非完全被动。（secondary phenomenon 次生现象；passive 被动的）"}
+  - {text: "Absolutely, people who are coming to profit from the existence of a trade route.", start: 2007.43, end: 2012.83, zh: "没错，这些人是为了从贸易路线的存在中获利而来。（profit from 从……中获利）"}
+  - {text: "But the actual push factors are kind of coming from one end or the other or both.", start: 2013.49, end: 2020.19, zh: "但实际的推动力来自一端、另一端或两者兼有。（push factors 推动力）"}
+  - {text: "But when you get these North -South connections, Sofaras has talked about potentially connections with the Carthaginians.", start: 2020.69, end: 2028.51, zh: "当出现这种南北联系时，Sofaras 曾提到可能与迦太基人有联系。（Sofaras 索法拉斯，学者名；Carthaginians 迦太基人）"}
+  - {text: "We have lots of evidence for connections north with Rome later on.", start: 2028.73, end: 2032.71, zh: "后来我们与北方罗马的联系也有大量证据。（Rome 罗马）"}
+  - {text: "And then there's this amazing thing where the cotton and so on is arriving from further south.", start: 2033.01, end: 2037.69, zh: "然后还有件奇妙的事，棉花等物品是从更南方运来的。（cotton 棉花）"}
+  - {text: "So it's when you get this North -South route that cross that East -West route, that I think is when everything kind of entangles and knots up and becomes this city.", start: 2038.11, end: 2050.05, zh: "我认为当这条南北路线与东西路线交叉时，一切开始交织纠缠，最终形成了这座城市。（entangles 纠缠；knots up 打结，此处指复杂化）"}
+  - {text: "So that's, I would say, where you get the city of Garam are really becoming important and powerful.", start: 2050.37, end: 2055.51, zh: "所以我认为，加拉曼特城正是在此时真正变得重要且强大。（Garam are 加拉曼特，Garamantes 的误写）"}
+  - {text: "That may be the origins of the kingdom we later hear about.", start: 2055.95, end: 2058.87, zh: "这可能就是后来我们听到的那个王国的起源。"}
+  - {text: "But it's also really turbocharges the trade in the Sahara, putting those two directions together.", start: 2059.61, end: 2065.49, zh: "但这同时也极大地加速了撒哈拉地区的贸易，将这两个方向连接了起来。（turbocharges 极大地加速；Sahara 撒哈拉沙漠）"}
+  - {text: "Faris, what sort of relationship did the Garamantes have with other polities in North Africa?", start: 2066.11, end: 2070.89, zh: "法里斯，加拉曼特人与北非其他政治实体之间是什么样的关系？（Garamantes 加拉曼特人，古代利比亚游牧民族；polities 政治实体）"}
+  - {text: "So among them, so for example, I mentioned earlier the Numidias, they do have a kingdom and they have a very clear lineage and that's been well -attested.", start: 2071.63, end: 2079.45, zh: "在这些实体中，比如我之前提到的努米底亚，他们有一个王国，并且有着非常清晰的世系，这一点已被充分证实。（Numidias 努米底亚，古北非王国；lineage 世系；attested 被证实的）"}
+  - {text: "And so yes, the relationship with them is very interesting because I suppose the texts that we have suggest that the Garamantes are not actually as far away from the coast as we think or know they are.", start: 2080.09, end: 2098.83, zh: "所以是的，他们与努米底亚的关系非常有趣，因为我认为我们现有的文本表明，加拉曼特人实际上并不像我们认为或知道的那样远离海岸。"}
+  - {text: "We know that their heartland was that far away what is now Southwest Libya's Central Sahara.", start: 2098.89, end: 2103.23, zh: "我们知道他们的核心区域位于现在利比亚西南部，也就是撒哈拉中部那么远的地方。（heartland 核心区域；Southwest Libya 利比亚西南部）"}
+  - {text: "But you get often references to, for example, King Massenissa, who is the king of the Numidians at one point in the first...", start: 2103.61, end: 2111.55, zh: "但你经常能看到对例如马塞尼萨国王的提及，他是某个时期努米底亚的国王，在第一个……（Massenissa 马塞尼萨，努米底亚国王；Numidians 努米底亚人）"}
+  - {text: "The Numidia is closer to it.", start: 2111.55, end: 2112.97, zh: "努米底亚离那里更近。"}
+  - {text: "It's just sort of on the edge of the south of the Roman border in North Africa.", start: 2113.03, end: 2117.67, zh: "它只是位于北非罗马边境南端的边缘地带。（Roman border 罗马边境）"}
+  - {text: "So it's a kind of north of the Sahara.", start: 2117.97, end: 2120.35, zh: "所以它算是撒哈拉以北的一个区域。"}
+  - {text: "Exactly. And at some point he seeks refuge in the first...", start: 2120.63, end: 2124.57, zh: "没错。在某个时刻，他寻求庇护于第一个……（seeks refuge 寻求庇护）"}
+  - {text: "Would that be modern -day Tunisia?", start: 2124.57, end: 2125.93, zh: "那是指现代突尼斯吗？（modern-day 现代的）"}
+  - {text: "Or is it still...", start: 2126.49, end: 2127.13, zh: "还是说它仍然是……"}
+  - {text: "Tunisia, Algeria, yeah. So he seeks refuge in the first century BC in an area within or close to the Garamantian territory.", start: 2127.13, end: 2135.69, zh: "突尼斯、阿尔及利亚，是的。所以他在公元前1世纪寻求庇护于加拉曼特人领土内部或邻近的一个地区。（Garamantian 加拉曼特人的，指北非古代柏柏尔人部落）"}
+  - {text: "So if that's what he's doing, then you're not having to go too far to get into what is perceived as Garamantian territory.", start: 2135.99, end: 2143.39, zh: "所以如果他在做这件事，那你不需要走太远就能进入被认为是加拉曼特人领土的地方。（perceived as 被视为，被认为是）"}
+  - {text: "So what that suggests is that the Garamantes somehow have territories or have influence north of their centre quite far and quite near to the Mediterranean.", start: 2143.65, end: 2159.03, zh: "所以这表明加拉曼特人在其中心以北相当远且靠近地中海的地方拥有领土或影响力。（influence 影响力）"}
+  - {text: "But also what's interesting about that is they don't feature in a lot of dramas, do they?", start: 2159.31, end: 2164.41, zh: "但同样有趣的是，他们在很多戏剧中并没有出现，对吧？（feature 出现，扮演重要角色）"}
+  - {text: "You don't see a lot of texts kind of talking about them getting into big kind of conflicts with various entities, which is interesting in itself.", start: 2164.47, end: 2175.99, zh: "你很少看到文本谈论他们与各种实体发生大的冲突，这本身就很有趣。（entities 实体，这里指政治或军事力量）"}
+  - {text: "Yet there is one thing I can think of that might be relevant to this, which is that there are some revolts against Rome in North Africa.", start: 2175.99, end: 2183.65, zh: "不过我能想到一件可能与这相关的事情，那就是北非有一些针对罗马的叛乱。（revolts 叛乱，起义）"}
+  - {text: "There's a guy called Takfarinas who's a rebel North African who's rebelling against Rome in their provinces in North Africa, the Mediterranean provinces across Tunisia, Algeria, Morocco and so on.", start: 2184.03, end: 2198.21, zh: "有一个叫塔卡法里纳斯的人，他是北非叛乱者，正在反抗罗马在北非的省份，即横跨突尼斯、阿尔及利亚、摩洛哥等地中海省份。（provinces 省份，行省）"}
+  - {text: "And just a couple of times there are references to the King of the Garamantes helping these rebels even coming up to the coast once.", start: 2198.75, end: 2206.61, zh: "而且只有寥寥几次提到加拉曼特国王帮助这些叛军，甚至有一次还亲自到了海岸。（Garamantes 加拉曼特，北非古代柏柏尔人部落；rebels 叛军）"}
+  - {text: "You're going a really long way to the coast of Libya to help the rebels against the Romans.", start: 2206.67, end: 2210.81, zh: "为了帮助叛军对抗罗马人，你可是从很远的地方跑到利比亚海岸去了。（Libya 利比亚；Romans 罗马人）"}
+  - {text: "So there is, again, that sort of sense that they're kind of just one remove from the kingdoms that are in very regular political and military kind of contact and conflict.", start: 2211.51, end: 2223.65, zh: "所以，再次体现出一种感觉，他们与那些经常进行政治和军事接触及冲突的王国之间，只有一步之遥。（one remove 一步之遥，指关系很近；capacity 能力，实力）"}
+  - {text: "But nonetheless with a military capacity of sorts as far as we understand.", start: 2223.65, end: 2227.65, zh: "但尽管如此，据我们所知，他们还是具备某种程度的军事能力。（nonetheless 尽管如此；military capacity 军事能力）"}
+  - {text: "Some kind of military capacity.", start: 2227.65, end: 2228.71, zh: "某种程度的军事能力。（military capacity 军事能力）"}
+  - {text: "David Mattingly, this community, this kingdom, this people lived for a very long time as far as we can see.", start: 2229.11, end: 2239.15, zh: "大卫·马廷利，这个社区、这个王国、这个民族，据我们所见，已经存在了非常漫长的时间。（David Mattingly 大卫·马廷利，考古学家；civilization 文明）"}
+  - {text: "When and why did they start to decline as a civilization?", start: 2239.65, end: 2243.15, zh: "他们作为文明，是从什么时候、因为什么原因开始衰落的？（decline 衰落；civilization 文明）"}
+  - {text: "Well, I think it's no surprise that a long -established kingdom will eventually start to run out of steam.", start: 2243.83, end: 2250.11, zh: "嗯，我想一个长期建立的王国最终开始失去动力，这并不令人惊讶。（run out of steam 失去动力，衰退）"}
+  - {text: "So perhaps, you know, almost the more important question is how is it they endure so long?", start: 2250.27, end: 2254.51, zh: "所以，也许更重要的问题是，他们为何能存续这么久？（endure 存续，坚持）"}
+  - {text: "And I think, you know, the key to that is that they are clearly early adopters of Oasis agriculture.", start: 2254.59, end: 2260.77, zh: "我认为，关键在于他们显然是绿洲农业的早期采用者。（Oasis agriculture 绿洲农业；early adopters 早期采用者）"}
+  - {text: "They are early adopters of the horse, which is a transformative technology in the Sahara, in the first millennium BCE.", start: 2260.77, end: 2269.03, zh: "他们是萨赫拉地区最早驯化马匹的人群之一，在公元前第一个千年，马匹这项变革性技术彻底改变了那里。（early adopters 早期采用者；transformative technology 变革性技术；Sahara 撒哈拉沙漠）"}
+  - {text: "And through those two things, they build a powerful society.", start: 2269.83, end: 2274.03, zh: "凭借这两点，他们建立了一个强大的社会。（build a powerful society 建立强大的社会）"}
+  - {text: "And then through that, they establish control over far -flung regions and a monopoly position on in this Saharan trade.", start: 2274.41, end: 2283.71, zh: "进而，他们控制着遥远地区，并在撒哈拉贸易中占据垄断地位。（far-flung regions 遥远地区；monopoly position 垄断地位；Saharan trade 撒哈拉贸易）"}
+  - {text: "That's a very powerful position.", start: 2284.11, end: 2285.49, zh: "这是一个非常强大的地位。（powerful position 强大的地位）"}
+  - {text: "But of course, it's not going to go unchallenged.", start: 2285.57, end: 2288.01, zh: "但当然，这种地位不会无人挑战。（unchallenged 未受挑战的）"}
+  - {text: "Firstly, you might think about challenges from inside Garamantean society.", start: 2288.01, end: 2292.83, zh: "首先，你可以考虑加拉曼特社会内部可能面临的挑战。（Garamantean society 加拉曼特社会）"}
+  - {text: "So is that kingly power always, you know, unchallenged by other groups to rise in defensive architecture at Garamantean settlements in the late times?", start: 2293.43, end: 2301.83, zh: "那么，这种王权在晚期加拉曼特定居点的防御建筑中，是否一直未受其他试图崛起的群体的挑战？（defensive architecture 防御建筑；Garamantean settlements 加拉曼特定居点）"}
+  - {text: "That might suggest that actually that sort of competition within Garamantean society is growing.", start: 2302.05, end: 2307.63, zh: "这可能表明加拉曼特社会内部的竞争实际上正在加剧。（competition 竞争；Garamantean society 加拉曼特社会）"}
+  - {text: "Another factor, those incredible phogora systems that are so key to the success of the Garamantees, you know, it's like having a million taps turned on permanently on a non -minuable water table.", start: 2308.15, end: 2323.49, zh: "另一个因素是那些令人难以置信的富戈拉系统，它们对加拉曼特人的成功至关重要，这就像在不可再生的地下水位上永久开启了一百万个水龙头。（phogora systems 富戈拉灌溉系统；non-minuable water table 不可再生的地下水位）"}
+  - {text: "So maybe the very success of the Garamantees through their irrigation systems is also part of their downfall.", start: 2323.87, end: 2329.63, zh: "因此，加拉曼特人通过灌溉系统取得的巨大成功，可能也是其衰落的一部分。（irrigation systems 灌溉系统；downfall 衰落）"}
+  - {text: "And they simply ran out of water.", start: 2329.65, end: 2330.85, zh: "他们只是彻底没水了。"}
+  - {text: "You start to reduce the level of the water table.", start: 2330.85, end: 2333.63, zh: "你开始降低地下水位。（water table 地下水位）"}
+  - {text: "Farris, let me just ask you, as we come to a close, the Garamantees, are they seen as the predecessors of a particular people?", start: 2333.95, end: 2343.83, zh: "法里斯，最后我想问你一下，加拉曼特人是否被视为某个特定民族的先驱？（predecessors 先驱，前身）"}
+  - {text: "I mean, are they part of a historical culture today?", start: 2343.83, end: 2347.71, zh: "我是说，他们是否属于当今的某种历史文化？"}
+  - {text: "Does anyone heart back to the Garamantees?", start: 2348.31, end: 2350.69, zh: "现在还有人会追溯到加拉曼特人吗？"}
+  - {text: "Well, that's interesting. I think you can quite safely say that there's a disconnect between those people that we're talking about in the past and people who live in the region now.", start: 2351.11, end: 2363.43, zh: "嗯，这很有意思。我认为可以很肯定地说，我们讨论的过去那些人与现在生活在该地区的人之间存在断层。（disconnect 断层，脱节）"}
+  - {text: "But I think as we have started to learn a bit more about the Garamantees, people have started to obviously take an interest in that heritage specifically within that region.", start: 2363.91, end: 2375.41, zh: "但我想，随着我们对加拉曼特人了解得稍微多了一些，人们显然开始对这一地区的这一特定遗产产生兴趣。（heritage 遗产，传统）"}
+  - {text: "I think though what that kind of feeds into is a broader phenomenon, which I think that we are beginning to witness in North Africa.", start: 2375.97, end: 2387.31, zh: "不过我认为，这反映的是一种更广泛的现象，我觉得我们开始在北非见证到这一点。"}
+  - {text: "And this is all arisen with the ability to have genetic tests and to know your mitochondrial DNA kind of profile, which we haven't had in the past.", start: 2387.79, end: 2400.07, zh: "这一切都源于现在可以进行基因检测，了解你的线粒体DNA谱系，而过去我们做不到这一点。（mitochondrial DNA 线粒体DNA）"}
+  - {text: "And people now are beginning to realise, who live in North Africa, that they are not necessarily Arab genetically in the way that people in the Arabian region might be identified.", start: 2400.07, end: 2411.49, zh: "现在生活在北非的人开始意识到，从基因上讲，他们并不一定是阿拉伯人，不像阿拉伯地区的人那样被识别。（genetically 从基因上；Arab 阿拉伯人）"}
+  - {text: "And so that's for some people, and it's certainly a phenomenon among some young people in countries like Tunisia and Algeria, there was a revision about what their identity is.", start: 2411.97, end: 2423.11, zh: "所以，对于一些人来说，尤其是在突尼斯和阿尔及利亚等国家的年轻人中，确实出现了一种现象，他们开始重新审视自己的身份认同。（revision 重新审视；identity 身份认同）"}
+  - {text: "And there's a much more of a reversion, or if you like an adoption of an identity which is more indigenous.", start: 2423.37, end: 2431.35, zh: "而且，人们更倾向于回归，或者说采纳一种更具本土特色的身份认同。（reversion 回归；indigenous 本土的）"}
+  - {text: "And so people are now actively looking for those connections.", start: 2432.37, end: 2437.17, zh: "因此，人们现在正在积极寻找这些联系。"}
+  - {text: "And, you know, there are various tribal entities throughout the ancient, you know, North Africa.", start: 2437.63, end: 2444.97, zh: "你知道，在古代北非各地存在着各种部落实体。（tribal entities 部落实体）"}
+  - {text: "And the Garamantees are one of those.", start: 2445.45, end: 2446.97, zh: "加拉曼特人就是其中之一。"}
+  - {text: "And I suspect that they are going to become more and more relevant as this phenomenon that's kind of fermenting is going to grow.", start: 2447.07, end: 2455.03, zh: "我怀疑，随着这种正在酝酿的现象日益壮大，加拉曼特人将会变得越来越重要。（fermenting 酝酿；relevant 相关的，重要的）"}
+  - {text: "Quick fire round at the end.", start: 2455.39, end: 2457.49, zh: "最后来一轮快问快答。（Quick fire round 快问快答环节）"}
+  - {text: "How do the Garamantees, and I want you to keep this snappy, how do the Garamantees change our understanding of this period of history overall, Joe?", start: 2457.49, end: 2466.47, zh: "加拉曼特人如何改变我们对这段历史时期的整体理解？乔，请回答得简洁一点。（snappy 简洁的，利落的）"}
+  - {text: "OK, so number one, it's not all about Rome.", start: 2467.05, end: 2469.73, zh: "好的，第一点，历史并不只关乎罗马。"}
+  - {text: "There are other places to talk about, not just Rome and China either.", start: 2470.01, end: 2473.17, zh: "还有其他地方值得探讨，不仅仅是罗马和中国。"}
+  - {text: "Number two, deserts are really interesting and deserts are experienced very differently by the people inside them who know how to get around, how to exploit them from the people outside who see them as terrifying and dangerous places, quite rightly.", start: 2474.59, end: 2491.35, zh: "第二，沙漠其实非常有趣，生活在其中、懂得如何穿行和利用沙漠的人，与那些视其为恐怖危险之地的人，对沙漠的感受截然不同，后者这种看法其实是有道理的。（exploit 利用；quite rightly 完全有道理）"}
+  - {text: "And three, that trade and travel and exchange are a driving force in ancient history.", start: 2492.19, end: 2501.07, zh: "第三，贸易、旅行和交流是古代历史的重要驱动力。（driving force 驱动力）"}
+  - {text: "And these, the connections extend much further than people normally realise.", start: 2501.25, end: 2505.49, zh: "而且，这些联系比人们通常意识到的要深远得多。（connections 联系；extend 延伸）"}
+  - {text: "David, your take on how it's transformed our understanding of this period?", start: 2505.91, end: 2510.93, zh: "大卫，你如何看待这一发现改变了我们对这一时期的认知？（take 看法；transformed 改变）"}
+  - {text: "Well, I think we are just at the beginning of proper knowledge about these people.", start: 2511.33, end: 2515.57, zh: "嗯，我认为我们才刚刚开始真正了解这些人。（proper knowledge 真正的知识）"}
+  - {text: "You know, before 30 years ago, as we say, we had a very different view about the Garamantees.", start: 2516.41, end: 2522.15, zh: "要知道，就在三十年前，正如我们常说的，我们对加拉曼特人的看法完全不同。（Garamantees 加拉曼特人）"}
+  - {text: "There are hundreds of other pre -Islamic, Iron Age populations across North Africa and the Sahara who we know virtually nothing about in archaeological terms and we desperately need,", start: 2522.47, end: 2533.85, zh: "在北非和撒哈拉地区，还有数百个伊斯兰教之前的铁器时代族群，我们在考古学上对他们几乎一无所知，而我们需要……（pre-Islamic 伊斯兰教之前的；Iron Age 铁器时代）"}
+  - {text: "and I hope very much, that in the next generation, many archaeologists will emulate the sort of work we've done on the Garamantees on those other peoples.", start: 2533.99, end: 2542.59, zh: "我非常希望，在下一代人中，许多考古学家能效仿我们在加拉曼特人身上所做的工作，去研究那些其他族群。（emulate 效仿；Garamantees 加拉曼特人）"}
+  - {text: "Ferres, final word? Yes, well, I think, you know, it really would want to echo what Joe and David already said, but I think it is really important for scholarship and then how that impacts beyond scholarship in terms of our perceptions,", start: 2543.17, end: 2556.25, zh: "费雷斯，最后说两句？是的，我想，你知道，我确实想呼应乔和大卫刚才说的，但我认为这对学术研究以及它如何影响学术之外的认知至关重要……（scholarship 学术研究；perceptions 认知）"}
+  - {text: "which have been for a long time perhaps quite Eurocentric about the flow of influence and the flow of power and culture in ancient times up to the present day.", start: 2556.81, end: 2568.51, zh: "长期以来，我们关于古代直至现在影响力、权力和文化流向的看法，可能相当以欧洲为中心。（Eurocentric 以欧洲为中心的；flow 流向）"}
+  - {text: "And we start to realise when you start to uncover these civilisations that actually there's a lot going on around Europe and close to Europe, which is pretty powerful,", start: 2568.51, end: 2580.11, zh: "当我们开始挖掘这些文明时，我们会意识到，其实欧洲周边乃至欧洲内部正在发生许多非常有力量的事情，"}
+  - {text: "pretty significant and actually would have been very influential in the wider polity.", start: 2580.47, end: 2584.73, zh: "这些事件相当重要，实际上对更广泛的政治格局产生了深远影响。（polity 政治体制；政治格局）"}
+  - {text: "My thanks to Ferres Musa, David Mattingly and Josephine Quinn.", start: 2585.31, end: 2589.53, zh: "感谢费雷斯·穆萨、大卫·马廷利和约瑟芬·昆恩。"}
+  - {text: "Next week, do not doff your hat and do not kneel.", start: 2590.29, end: 2594.87, zh: "下周，请不要脱帽致敬，也不要跪下。（doff your hat 脱帽致敬；kneel 跪下）"}
+  - {text: "We'll be discussing some of the radical politics that emerged during the English Civil War.", start: 2595.25, end: 2600.09, zh: "我们将讨论英国内战期间出现的一些激进政治运动。"}
+  - {text: "That's the levelers. Thank you for listening.", start: 2600.55, end: 2603.03, zh: "那就是平等派。感谢收听。（levelers 平等派，英国内战时期的激进政治团体）"}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Misha and his guests.", start: 2603.71, end: 2610.29, zh: "《我们的时代》播客现在增加了一些额外时间，包含米沙和他的嘉宾几分钟的补充内容。"}
+  - {text: "Great, so now the podcast extra.", start: 2611.09, end: 2613.97, zh: "好的，现在进入播客额外环节。"}
+  - {text: "Before I ask what did we miss out, let me ask the question, how come none of us have ever heard of the Garamantees?", start: 2614.63, end: 2623.21, zh: "在我问我们遗漏了什么之前，让我先问一个问题，为什么我们从未听说过加拉曼特人？（Garamantees 加拉曼特人，古代北非游牧民族）"}
+  - {text: "I'm astonished by this, to see the depth of the work that you've done and the sophistication of this society, and we don't know about it.", start: 2625.21, end: 2634.61, zh: "对此我感到震惊，看到你们所做工作的深度以及这个社会的复杂程度，而我们对此却一无所知。（sophistication 复杂程度；精致程度）"}
+  - {text: "Why is that? I don't know.", start: 2634.71, end: 2636.87, zh: "那是为什么呢？我不知道。"}
+  - {text: "I've done my best.", start: 2636.93, end: 2637.55, zh: "我已经尽力了。"}
+  - {text: "I don't doubt it for a minute, David.", start: 2643.37, end: 2645.67, zh: "大卫，我完全相信这一点。（doubt 怀疑；for a minute 片刻，此处表示完全）"}
+  - {text: "I don't doubt it for a minute.", start: 2645.87, end: 2647.11, zh: "我完全相信这一点。（doubt 怀疑；for a minute 片刻，此处表示完全）"}
+  - {text: "I suspect it's a sort of a drip down process, isn't it, with research that, you know, it takes a long time, because of course the first time that we're really properly researching the Garamantees would have been in the 1960s, a little bit earlier,", start: 2647.35, end: 2662.51, zh: "我怀疑这是一种层层渗透的过程，对吧？因为研究需要很长时间，毕竟我们真正开始系统研究加拉曼特人的时间也就是在1960年代，甚至更早一点。（drip down 层层渗透，自上而下；Garamantees 加拉曼特人，北非古代民族）"}
+  - {text: "and so that's not a long time that people have been studying it, and it does take a long time for that to feed through into broader literature and popular culture.", start: 2663.17, end: 2672.91, zh: "所以人们研究它的时间并不长，而且这些研究成果要进入更广泛的文献和流行文化确实需要很长时间。（feed through 渗透，传导；broader literature 更广泛的文献）"}
+  - {text: "I think we still have a version of my progressive barbarisation model operating in our own minds today about desert peoples, and there's a tendency to default,", start: 2673.59, end: 2685.95, zh: "我认为，我们今天心中仍然保留着某种“渐进野蛮化”模型，用来看待沙漠民族，而且有一种倾向是默认……（progressive barbarisation 渐进野蛮化；default 默认，默认设置）"}
+  - {text: "to kind of negative, even people who've read my work and are writing, let's say primarily from the point of view of the literary sources, they tend to immediately slip back into describing them as just kind of pastoral nomadic,", start: 2686.87, end: 2701.39, zh: "……倾向于持负面看法，即使是读过我著作、主要从文学史料角度写作的人，也往往会立刻滑回将他们描述为仅仅是游牧的牧民。（pastoral 牧养的，游牧的；nomadic 游牧的）"}
+  - {text: "you know, and of course there were pastoralists within that broader Garamantean world, but what's really special about them is the scale of that oasis agriculture", start: 2702.41, end: 2711.81, zh: "你知道，当然在更广泛的加拉曼特世界中确实存在牧民，但他们真正特别之处在于其绿洲农业的规模。（oasis 绿洲；agriculture 农业）"}
+  - {text: "alongside pastoral groups that, you know, make this very powerful.", start: 2712.91, end: 2715.91, zh: "这种绿洲农业与游牧群体并存，使得这个文明非常强大。（pastoral groups 游牧群体）"}
+  - {text: "I was also interested, David, in what you said about cotton and the manufacture of cotton, because the products were incredibly sophisticated, comfortable, kind of clothes that we wear today almost.", start: 2716.09, end: 2728.49, zh: "大卫，我也很感兴趣你刚才提到的棉花和棉纺织业，因为那些产品非常精致，穿着舒适，几乎就像我们今天穿的衣服一样。（sophisticated 精致，复杂；manufacture 制造，生产）"}
+  - {text: "Yeah, well the textiles that we found, the cotton tends to be not terribly well preserved, but we'd certainly have it, we can see.", start: 2728.73, end: 2735.29, zh: "是的，我们发现的纺织品中，棉花通常保存得不太好，但我们确实能确认它的存在。（preserved 保存；textiles 纺织品）"}
+  - {text: "And it's incredibly finely woven, you know, finer than the shirt that I'm wearing today, if you look at the thread counts and the fineness of the fibres.", start: 2735.59, end: 2743.53, zh: "而且织得非常精细，你知道，比我今天穿的衬衫还要细，如果你看线数和纤维的细度就知道了。（woven 编织；thread counts 线数，密度）"}
+  - {text: "That must have done a roaring trade with the Romans, I would have thought.", start: 2743.81, end: 2747.39, zh: "我想这肯定和罗马人做了很大的生意。（roaring trade 兴旺的贸易；Romans 罗马人）"}
+  - {text: "Personally, I think that textiles was the number one commodity of Saharan trade in terms of bulk.", start: 2747.83, end: 2755.11, zh: "就我个人而言，我认为纺织品是撒哈拉贸易中数量最大的头号商品。（commodity 商品；Saharan 撒哈拉的）"}
+  - {text: "You know, gold you can carry relatively small amounts, enslaved people walk themselves to the coast, those that survive.", start: 2756.11, end: 2762.41, zh: "你知道，黄金可以携带相对少量的，被奴役的人自己走到海岸，只要他们能活下来。（enslaved 被奴役的；coast 海岸）"}
+  - {text: "You know, salt is mostly going down to Sub -Saharan Africa.", start: 2763.31, end: 2768.13, zh: "你知道，盐主要是运往撒哈拉以南非洲。（Sub-Saharan 撒哈拉以南的）"}
+  - {text: "Textiles move in every direction in bulk quantities, I'm sure, because everyone needs textiles, and particularly if you're, you know, producing high quality and dyed textiles, which we know the Garamantes are doing.", start: 2769.11, end: 2781.63, zh: "我相信纺织品是大量地向各个方向流动的，因为每个人都需要纺织品，特别是如果你知道生产高质量和染色的纺织品，我们知道加拉曼特人就是这么做的。（bulk quantities 大量；dyed 染色的）"}
+  - {text: "They could dye as well.", start: 2781.67, end: 2782.61, zh: "他们也会染色。（dye 染色）"}
+  - {text: "Yeah, yeah, we've found some brightly coloured textile fragments.", start: 2782.63, end: 2785.25, zh: "是的，是的，我们发现了一些颜色鲜艳的纺织品碎片。（fragments 碎片；brightly coloured 颜色鲜艳的）"}
+  - {text: "So there's a kind of comparative case in Anatolia in the 19th century BCE.", start: 2786.01, end: 2791.79, zh: "所以在公元前19世纪的安纳托利亚，有一个类似的案例可以对比。（comparative case 对比案例；Anatolia 安纳托利亚，即小亚细亚地区）"}
+  - {text: "There's an incredible archive of traders who are from Asher, from the capital of Assyria, which is in those days a trading state.", start: 2792.65, end: 2800.13, zh: "那里有一份令人难以置信的档案，记录的是来自阿舒尔——当时亚述的首都，也是一个贸易国家——的商人。（archive 档案；Asher 阿舒尔，亚述首都；Assyria 亚述）"}
+  - {text: "And this archive records in incredible detail, a kind of detail we'd love to have for the Garamantes, what they're actually doing, like amounts of metals, textiles, that kind of thing.", start: 2800.97, end: 2811.33, zh: "这份档案以惊人的细节记录了他们实际在做什么，比如金属和纺织品的数量，这正是我们希望能了解加拉曼特人的信息。（archive 档案；Garamantes 加拉曼特人，北非古代民族）"}
+  - {text: "And one thing that's fascinating is that basically people are bringing from Asher to Anatolia tin and textiles, and they're swapping them for silver coming back down.", start: 2811.69, end: 2821.11, zh: "其中一件非常迷人的事情是，基本上人们从阿舒尔向安纳托利亚运送锡和纺织品，然后换回银带回去。（Asher 阿舒尔；Anatolia 安纳托利亚；tin 锡）"}
+  - {text: "That's the way that trade works.", start: 2821.33, end: 2822.59, zh: "这就是贸易运作的模式。（trade 贸易）"}
+  - {text: "But the amount of textiles and the value of the textiles is very similar to that of the tin.", start: 2823.15, end: 2828.81, zh: "但纺织品的数量和价值与锡非常接近。（textiles 纺织品）"}
+  - {text: "Its textiles aren't just a kind of extra, you throw a few in on top of the metal cargo.", start: 2829.23, end: 2835.27, zh: "纺织品不仅仅是某种额外的东西，不是往金属货物上随便扔几件。（textiles 纺织品；cargo 货物）"}
+  - {text: "They are a really hugely important trade good across antiquity.", start: 2835.81, end: 2840.29, zh: "在整个古代，纺织品其实是一种极其重要的贸易商品。（antiquity 古代；trade good 贸易商品）"}
+  - {text: "And the textiles are probably the key to how you manage to transport safely into huge glass bowls.", start: 2840.51, end: 2846.23, zh: "而纺织品可能是你如何安全运输巨大玻璃碗的关键。（textiles 纺织品；glass bowls 玻璃碗）"}
+  - {text: "You wrap them in bundles of cloth.", start: 2847.05, end: 2848.31, zh: "你用布把它们包裹成捆。（bundles 捆；cloth 布）"}
+  - {text: "Any evidence of writing?", start: 2849.15, end: 2850.79, zh: "有文字方面的证据吗？"}
+  - {text: "Writing is, I mean in many ways, you know, it's our big gap.", start: 2851.55, end: 2855.49, zh: "文字方面，从很多角度来看，这确实是我们最大的知识空白。（gap 空白，缺口）"}
+  - {text: "We don't have written sources by the Garamantes themselves about their society.", start: 2856.21, end: 2861.83, zh: "我们没有加曼特人自己关于其社会状况的文字记载。（Garamantes 加曼特人，古代利比亚游牧民族）"}
+  - {text: "We just have these rather brief external views and then often subject to these prejudices and biases and stereotypes.", start: 2862.17, end: 2870.31, zh: "我们只有一些简短的外部视角，而且这些观点往往带有偏见、成见和刻板印象。（prejudices 偏见；stereotypes 刻板印象）"}
+  - {text: "But we know that the Garamantes had a written language because we have found inscriptions.", start: 2870.95, end: 2875.79, zh: "但我们知道加曼特人有文字，因为我们发现了铭文。（inscriptions 铭文，刻在石头或金属上的文字）"}
+  - {text: "Oh, they did have a written language.", start: 2877.23, end: 2878.57, zh: "哦，他们确实有文字。"}
+  - {text: "But the sort of inscriptions we found tend to be very short, you know, single name on a funerary steely.", start: 2878.59, end: 2885.23, zh: "但我们发现的铭文通常非常短，比如墓碑上只有一个名字。（funerary stele 墓碑；stele 碑，此处指墓碑）"}
+  - {text: "We found a small clay tablet in a stratified layer at Garama, which had a few characters in this Libyan script.", start: 2885.87, end: 2893.73, zh: "我们在加马遗址的一个地层中发现了一个小泥板，上面有一些利比亚文字。（stratified layer 地层；Libyan script 利比亚文字）"}
+  - {text: "So we know that they had writing.", start: 2894.43, end: 2896.25, zh: "所以我们知道他们有文字。"}
+  - {text: "What we haven't got is an archive of state documents or something like that that would really help us get a better view of Garamantes' society.", start: 2897.05, end: 2904.89, zh: "但我们没有国家档案之类的文件，如果有这些，我们就能更清楚地了解加曼特人的社会。（archive 档案；state documents 国家文件）"}
+  - {text: "Now, that's partly because the sites we've excavated, the settlement sites that we've excavated to this point have been in the oasis itself where the water table is very high beneath the oasis.", start: 2905.29, end: 2918.41, zh: "这主要是因为到目前为止我们发掘的定居点遗址都位于绿洲内部，那里的地下水位非常高。（excavated 发掘；oasis 绿洲；water table 地下水位）"}
+  - {text: "So broadly, we don't get very good organic preservation in those sites.", start: 2918.73, end: 2922.29, zh: "因此，总体而言，我们在这些遗址中很难找到保存完好的有机质。（organic preservation 有机质保存）"}
+  - {text: "In the tombs on the edge of the valley, yes, we do find textiles and organics and so on, but that's not where you'd keep your archives.", start: 2922.85, end: 2930.07, zh: "在峡谷边缘的墓葬中，我们确实发现了纺织品和有机材料等，但那里并不是存放档案的地方。（tombs 墓葬；textiles 纺织品；archives 档案）"}
+  - {text: "So I live in hope that someday somebody may find a cache of Garamantean documents that would really blow this open.", start: 2930.07, end: 2938.43, zh: "所以我一直抱有希望，总有一天有人能发现一批加兰特人的文献，那将彻底揭开这段历史。（cache 藏匿物；Garamantean 加兰特人的；blow this open 彻底揭示）"}
+  - {text: "And of course, there is also this extraordinary corpus of texts of what's called proto -Tifanac.", start: 2939.07, end: 2945.35, zh: "当然，还有一批被称为“原始提菲纳格文”的非凡文本语料。（corpus 语料库；proto-Tifinagh 原始提菲纳格文）"}
+  - {text: "So Tifanac is the written language of broadly what we might call Amazigh people, what people often refer to commonly as burburs.", start: 2945.71, end: 2954.57, zh: "提菲纳格文大致上是我们所说的阿马齐格人（常被称为柏柏尔人）的书面语言。（Tifinagh 提菲纳格文；Amazigh 阿马齐格人；Berbers 柏柏尔人）"}
+  - {text: "It's problematic because, of course, historically and today, they are all different people and they're different entities throughout North Africa, but there is a language in common", start: 2954.91, end: 2965.79, zh: "这有点棘手，因为从历史上看直到今天，他们其实是不同的群体，遍布北非各地，但他们共用一种语言。（problematic 棘手的；entities 实体/群体）"}
+  - {text: "and various variants of that language across North Africa and we see early forms of that.", start: 2965.79, end: 2970.79, zh: "这种语言在北非各地有多种变体，而我们在早期形式中看到了这些。（variants 变体）"}
+  - {text: "This is not Arabic.", start: 2971.05, end: 2971.97, zh: "这不是阿拉伯语。（Arabic 阿拉伯语）"}
+  - {text: "Not Arabic. We see early forms of that in the rock art, which we see along the Wadi An -Al -Jal.", start: 2972.57, end: 2979.41, zh: "不是阿拉伯语。我们在瓦迪安-阿尔-贾勒沿线的岩画中看到了这种语言的早期形式。（rock art 岩画；Wadi An-Al-Jal 瓦迪安-阿尔-贾勒，一条干河谷）"}
+  - {text: "The problem with that is dating it and associating it with the Garamantean.", start: 2979.85, end: 2985.83, zh: "其中的难点在于如何确定其年代，并将其与加拉曼特人联系起来。（dating 确定年代；Garamantean 加拉曼特人）"}
+  - {text: "So it's nearby, but exactly how it relates to the Garamantean if it is directly related to them or not is the difficulty that we have because these are rock engravings rather than rock pictures drawn with paint,", start: 2985.83, end: 2998.23, zh: "虽然地理位置邻近，但它与加拉曼特人究竟是否有直接关联，这是我们面临的难题，因为这是岩石雕刻，而非用颜料绘制的岩画。（rock engravings 岩石雕刻；rock pictures 岩画）"}
+  - {text: "so it's a very difficult medium to take.", start: 2998.41, end: 3000.57, zh: "因此，这是一种非常难以解读的媒介。（medium 媒介，载体）"}
+  - {text: "Do we know were they affected by Christianity and the growth of Christianity at all?", start: 3000.73, end: 3005.17, zh: "我们知道他们是否受到基督教及其扩张的影响吗？（Christianity 基督教）"}
+  - {text: "Can I jump in on that?", start: 3005.29, end: 3006.39, zh: "我可以插话谈谈这一点吗？（jump in 插话，参与讨论）"}
+  - {text: "There are one or two source references that suggest that they accept Christianity.", start: 3006.57, end: 3010.33, zh: "有一两个史料来源表明他们接受了基督教。（source references 史料来源；accept 接受）"}
+  - {text: "We found no archaeological evidence to confirm that and I suspect that's a standard clause in every Byzantine peace treaty with so -called barbarian peoples that you will accept Christianity.", start: 3010.55, end: 3022.95, zh: "我们没有发现考古证据来证实这一点，我怀疑这是拜占庭帝国与所谓蛮族签订的每一份和平条约中的标准条款，即要求对方接受基督教。（archaeological evidence 考古证据；Byzantine 拜占庭；barbarian 蛮族）"}
+  - {text: "One thing I would like to say about the Garamantean is that they don't disappear at any point.", start: 3023.83, end: 3029.05, zh: "关于加拉曼特人，我想说的一点是，他们在任何时期都没有消失。（Garamantean 加拉曼特人；disappear 消失）"}
+  - {text: "They just become less significant.", start: 3029.25, end: 3031.03, zh: "他们只是变得不那么重要了。（significant 重要的，显著的）"}
+  - {text: "In the 7th century, when the first Arab cavalry columns go down into the Sahara, they encounter a king at Garamah still.", start: 3031.59, end: 3039.49, zh: "在7世纪，当第一批阿拉伯骑兵纵队进入撒哈拉时，他们仍然在加拉马遇到了国王。（cavalry columns 骑兵纵队；Sahara 撒哈拉；Garamah 加拉马，古地名）"}
+  - {text: "But he's clearly a petty ruler now, amongst many other petty rulers.", start: 3040.11, end: 3044.19, zh: "但他现在显然只是个地方小诸侯，周围还有很多其他小诸侯。（petty ruler 小诸侯，地方统治者）"}
+  - {text: "And even when we were doing field work down there, as it happens, one of our cooks was Muhammad Koromant.", start: 3044.69, end: 3051.31, zh: "而且碰巧的是，当我们在那里进行实地工作时，我们的厨师之一就是穆罕默德·科罗曼特。（field work 实地工作；Muhammad Koromant 穆罕默德·科罗曼特，人名）"}
+  - {text: "So the name survived right through to modern times.", start: 3051.65, end: 3054.19, zh: "所以这个名字一直延续到了现代。（survived 幸存，延续）"}
+  - {text: "How difficult has it been to research and do archaeological digs since 2011 when you had the overthrow of Gaddafi and then the chaos in Libya?", start: 3054.65, end: 3064.95, zh: "自2011年卡扎菲被推翻、利比亚陷入混乱以来，进行研究和考古挖掘有多难？（overthrow 推翻；Gaddafi 卡扎菲，利比亚前领导人）"}
+  - {text: "Well, I've had a wish for the future.", start: 3065.31, end: 3067.81, zh: "嗯，我对未来有一个愿望。（wish 愿望）"}
+  - {text: "It's just that, well, archaeological research in the Garamantean heartlands could start again.", start: 3068.37, end: 3072.77, zh: "只是说，嗯，在加拉曼特核心地区的考古研究可以重新开始。（Garamantean heartlands 加拉曼特核心地区；heartlands 核心地区）"}
+  - {text: "Probably too late for me, but it would be great to see that work picked up again because there's so much to do.", start: 3073.35, end: 3079.77, zh: "对我来说可能太晚了，但看到这项工作重新启动会非常棒，因为还有很多事要做。（picked up 重新开始，恢复）"}
+  - {text: "You know, what we discussed is a remarkable advance on what was known 30 years ago, but we're still so near the beginning of our understanding of this people.", start: 3080.33, end: 3091.53, zh: "你知道，我们讨论的内容相比30年前的认知有了显著进步，但我们对于理解这个民族来说，仍处于起步阶段。（remarkable advance 显著进步）"}
+  - {text: "There's so many questions.", start: 3091.63, end: 3093.21, zh: "有很多问题。（questions 问题）"}
+  - {text: "A bit like, you know, writing about the British Iron Age on the basis of the state of knowledge 150 years ago, a handful of sites excavated", start: 3093.67, end: 3103.29, zh: "有点像，你知道，基于150年前的知识水平来写英国铁器时代，只有少数几个遗址被发掘过。（British Iron Age 英国铁器时代；excavated 发掘）"}
+  - {text: "and what sort of picture are you going to produce?", start: 3103.29, end: 3105.95, zh: "以及你打算呈现出怎样的图景？（picture 图景，画面）"}
+  - {text: "Joe. Well, one thing I'd love to hear from David is that after archaeological work in Libya stopped, he went to work in Morocco and did all this incredible new stuff in this other part of North Africa,", start: 3106.63, end: 3117.37, zh: "乔。嗯，我很想听听大卫说，在利比亚的考古工作停止后，他转战摩洛哥，在非洲北部的另一个区域做了许多令人惊叹的新发现。（archaeological 考古的；Morocco 摩洛哥）"}
+  - {text: "and I'd just love to know what does the work that you've done in the last 10, 15 years in Morocco, how has that changed your ideas about the Garamantes, if at all?", start: 3117.37, end: 3127.45, zh: "我特别想知道，你在过去十到十五年里在摩洛哥做的那些工作，是否改变了你对加拉曼特人的看法，哪怕只是一点点？（Garamantes 加拉曼特人，古代撒哈拉民族）"}
+  - {text: "Well, I think it's reinforced my sense of how important the Garamantes are.", start: 3127.45, end: 3132.11, zh: "嗯，我认为这强化了我对加拉曼特人重要性的认识。（reinforced 强化，加强）"}
+  - {text: "I mean, I think the Garamantes are, undoubtedly, a powerful state.", start: 3132.37, end: 3136.19, zh: "我的意思是，我认为加拉曼特人无疑是一个强大的国家。（undoubtedly 无疑地，毫无疑问）"}
+  - {text: "What we found in southern Morocco is very similar processes, the importance of the horse, the importance of the beginnings of Oasis agriculture, more complex societies,", start: 3136.75, end: 3146.27, zh: "我们在摩洛哥南部发现的非常相似的过程，包括马匹的重要性、绿洲农业的起源以及更复杂的社会结构。（Oasis 绿洲；agriculture 农业）"}
+  - {text: "but they're not as organised or as far along as the Garamantes, and it's happening a little bit later there as well.", start: 3146.75, end: 3154.43, zh: "但那里的组织程度和发达程度都不如加拉曼特人，而且发生的时间也稍晚一些。（organised 有组织的，有序的）"}
+  - {text: "But, you know, between those extremes, there are, you know, literally hundreds of Saharan peoples and Oasis locations where similar sorts of stories were happening in antiquity.", start: 3154.75, end: 3167.25, zh: "但是，你知道，在这些极端情况之间，实际上有成百上千个撒哈拉民族和绿洲地点，在古代都发生过类似的故事。（Saharan 撒哈拉的；antiquity 古代）"}
+  - {text: "And, Faris, where have you been working since 2011 on sites anyway?", start: 3167.95, end: 3172.03, zh: "法里斯，自2011年以来，你一直在哪些遗址工作？（sites 遗址，地点）"}
+  - {text: "Mainly outside North Africa.", start: 3172.69, end: 3174.23, zh: "主要是在北非以外的地方。（outside 在……外面，以外）"}
+  - {text: "Right. Yes, so not directly related to the work that we've been doing on the Garamantes.", start: 3174.89, end: 3182.49, zh: "好的，是的，所以这与我们之前关于加拉曼特人的研究没有直接关系。（Garamantes 加拉曼特人，古代利比亚游牧民族）"}
+  - {text: "I did want to pick up a little bit on what we were talking about earlier with the religion, and you started to talk, David, about some of the ancestral worship,", start: 3183.17, end: 3192.95, zh: "我想稍微展开一下我们之前讨论的宗教话题，大卫，你刚才开始谈到一些祖先崇拜，（ancestral worship 祖先崇拜）"}
+  - {text: "which I thought was an area we didn't explore enough.", start: 3193.11, end: 3196.19, zh: "我觉得这是我们之前探讨得不够深入的一个领域。（explore 探索，深入探讨）"}
+  - {text: "There's this really interesting relationship between the sites, the location of the cemeteries, and then what appear to be separate little villages, if you like, within the Oasis.", start: 3196.37, end: 3210.67, zh: "遗址之间存在着一种非常有趣的关系，包括墓地的位置，以及绿洲内那些看似独立的小村庄。（Oasis 绿洲）"}
+  - {text: "So it's almost like the villages are connecting to cemeteries a little bit further south from them in the escarpment.", start: 3210.97, end: 3218.17, zh: "这就好像这些村庄与位于其南侧稍远处、在悬崖峭壁上的墓地有着某种联系。（escarpment 陡崖，悬崖）"}
+  - {text: "And you mentioned about ancient practices, and one of those that we know a lot about with who Herodotus refers to is this idea of incubation,", start: 3218.43, end: 3229.31, zh: "你提到了古代习俗，其中赫罗多德曾提及且我们了解较多的一种是“梦兆占卜”，（Herodotus 希罗多德，古希腊历史学家；incubation 梦兆占卜，即在神庙过夜以求神谕）"}
+  - {text: "where we see this idea that if you can sleep with the ancestors or in a place, in an enclosure close to your ancestors at the tomb,", start: 3229.71, end: 3240.55, zh: "这种观念认为，如果你能睡在祖先身边，或者在靠近祖先坟墓的围栏区域内，（enclosure 围栏，围起来的区域）"}
+  - {text: "then you can divine or solve problems, for example.", start: 3240.55, end: 3244.99, zh: "那么你就可以通过占卜或解决某些问题。（divine 占卜，预测）"}
+  - {text: "And these are kinds of enclosures that we do find associated with some of these burials.", start: 3245.21, end: 3250.49, zh: "我们确实在一些墓葬附近发现了这类围栏结构。（burials 墓葬，埋葬）"}
+  - {text: "And there are these sorts of practices right up until the present day, very much present throughout North Africa, of holy men shrines ancestral shrines where people go and divine,", start: 3251.05, end: 3267.77, zh: "直到今天，在北非各地仍然广泛存在这类习俗，比如圣人的神龛或祖先神龛，人们会去那里进行占卜。（shrines 神龛，供奉神像或圣物的小建筑）"}
+  - {text: "and indeed practice incubation right until the present day.", start: 3267.77, end: 3271.29, zh: "而且直到今天，他们实际上仍在进行孵化。（incubation 孵化）"}
+  - {text: "Just coming off the back of that, Faris, we've heard about the exchange with Egypt and with the Romans and the Greeks.", start: 3271.51, end: 3279.37, zh: "紧接着这个话题，法里斯，我们听到了关于与埃及、罗马人以及希腊人的交流。（coming off the back of 紧接着；exchange 交流）"}
+  - {text: "You've all mentioned that there was trade with sub -Saharan Africa as well.", start: 3280.25, end: 3284.35, zh: "你们也都提到，他们与撒哈拉以南的非洲也有贸易往来。（sub-Saharan Africa 撒哈拉以南非洲）"}
+  - {text: "Is there any evidence of cultural exchange between the Garamantes and sub -Saharan Africa as opposed to the Mediterranean?", start: 3284.97, end: 3291.41, zh: "有没有证据表明加拉曼特人与撒哈拉以南非洲之间存在文化交流，而不仅仅是与地中海地区？（Garamantes 加拉曼特人；as opposed to 与……相对）"}
+  - {text: "There are certainly elements in sub -Saharan Africa that I think we can say are pointing towards trade with Garamantes.", start: 3292.09, end: 3300.57, zh: "撒哈拉以南非洲确实有一些元素，我认为这表明他们与加拉曼特人进行了贸易。（elements 元素；pointing towards 指向）"}
+  - {text: "So some of the distinctive styles of Carnelian beads that the Garamantes are manufacturing look extremely close to Carnelian beads that are turning up on sub -Saharan sites.", start: 3301.05, end: 3312.19, zh: "加拉曼特人制造的一些独特风格的红玉髓珠子，与在撒哈拉以南遗址出土的红玉髓珠子非常相似。（Carnelian beads 红玉髓珠子；distinctive 独特的）"}
+  - {text: "We need to develop better methods of testing the provenance of the Carnelian sources.", start: 3313.01, end: 3319.31, zh: "我们需要开发更好的方法来检测红玉髓来源地。（provenance 来源地；Carnelian 红玉髓）"}
+  - {text: "But I'd be very surprised if we can't demonstrate those sort of links as time goes on.", start: 3319.73, end: 3324.61, zh: "但随着时间推移，如果我们无法证明这类联系，我会感到非常惊讶。（demonstrate 证明；links 联系）"}
+  - {text: "But we've also got finds of copper alloys in the sub -Saharan zone which are effectively Mediterranean copper alloys.", start: 3324.61, end: 3334.73, zh: "此外，我们在撒哈拉以南地区还发现了铜合金，这些实际上是地中海的铜合金。（copper alloys 铜合金；effectively 实际上）"}
+  - {text: "And the only way that they can be reaching the sub -Saharan zone is through trans -Saharan trade and that's going to be the Garamantes plus potentially other Oasis peoples as well.", start: 3335.63, end: 3346.67, zh: "它们到达撒哈拉以南地区的唯一途径是通过跨撒哈拉贸易，这涉及加拉曼特人，可能还有其他绿洲民族。（trans-Saharan trade 跨撒哈拉贸易；Oasis peoples 绿洲民族）"}
+  - {text: "One of the things that's so interesting about this kind of thing is that trade of course is a very personal thing in antiquity and especially the exchange of technology.", start: 3347.03, end: 3357.51, zh: "这类事情非常有趣的一点是，在古代，贸易当然是一件非常个人化的事情，尤其是技术的交流。（antiquity 古代；exchange 交流，交换）"}
+  - {text: "So if you're talking about cotton coming up from the sub -Saharan zone to the Garamantes and the Sahara or them transmitting copper technology and alloy recipes", start: 3357.75, end: 3367.63, zh: "所以，如果你说的是棉花从撒哈拉以南地区传到加拉曼特人那里，或者他们传播铜技术和合金配方……（sub-Saharan 撒哈拉以南的；alloy 合金）"}
+  - {text: "and so on that's not just something somebody writes on the back of an envelope and gives with your packet of seeds.", start: 3367.63, end: 3372.91, zh: "等等，这可不是在信封背面写写画画，然后随着一包种子就递给你那么简单。（envelope 信封；seeds 种子）"}
+  - {text: "You actually have to learn how to grow and then make cotton.", start: 3373.13, end: 3377.13, zh: "你实际上得学会怎么种植，然后怎么制作棉花。（manufacture 制造，生产）"}
+  - {text: "You have to learn how to manufacture copper in this particular way.", start: 3377.13, end: 3382.07, zh: "你得学会用这种特定方式制造铜。（particular 特定的）"}
+  - {text: "So that must involve people spending a lot of time together at least for certain periods.", start: 3382.19, end: 3388.91, zh: "所以，这肯定意味着人们至少在某些时期要一起度过大量时间。（involve 涉及，意味着）"}
+  - {text: "Of course the transit.", start: 3389.25, end: 3390.79, zh: "当然，还有运输的问题。（transit 运输，过境）"}
+  - {text: "I mean the actual, you know, getting it from say Garamah to the Mediterranean coast you must require protection as well presumably.", start: 3391.11, end: 3399.51, zh: "我是说，实际上，你知道，把东西从比如加拉马运到地中海沿岸，肯定也需要保护，大概是这样。（presumably 大概，推测）"}
+  - {text: "I mean it's a thousand kilometers more or less from Garamah up to the Mediterranean.", start: 3400.15, end: 3404.89, zh: "我是说，从加拉马到地中海大约有1000公里。（more or less 大约，左右）"}
+  - {text: "In fact, particularly during the Lockerbie years when internal flights in Libya were quite a risk we tended to drive that route.", start: 3404.89, end: 3413.87, zh: "事实上，特别是在洛克比事件期间，利比亚国内航班风险很大，我们倾向于走那条陆路。（Lockerbie 洛克比，指1988年洛克比空难；tended to 倾向于）"}
+  - {text: "So I've driven that route many, many times.", start: 3414.07, end: 3416.89, zh: "所以那条路线我跑过很多很多次了。"}
+  - {text: "And it's today a really challenging journey still but doing it with caravans of camels and donkeys and horses is another level of difficulty where you're dependent on these scattered wells to keep that.", start: 3417.55, end: 3433.93, zh: "如今这依然是一段极具挑战性的旅程，但若是骑着骆驼、驴和马组成的商队前行，难度更是上了一个台阶，因为你们得依赖那些零散的水井来维持行程。（caravans 商队；challenging 具有挑战性的）"}
+  - {text: "I mean that's another thing isn't it that we haven't talked about camels.", start: 3434.05, end: 3438.19, zh: "我是说，这其实是另一回事，对吧？我们还没聊过骆驼呢。"}
+  - {text: "So camels arrive among the Garamante sort of second century CE.", start: 3438.55, end: 3443.17, zh: "骆驼大约是在公元二世纪才出现在加拉曼特地区的。（Garamante 加拉曼特，古代利比亚沙漠民族；CE 公元）"}
+  - {text: "I think they're there before then.", start: 3443.67, end: 3444.79, zh: "我觉得在那之前它们就已经存在了。"}
+  - {text: "There's a certain point where they sort of they just have horses start off with and then the camels arrive and that must change things a lot.", start: 3445.53, end: 3451.79, zh: "到了某个阶段，他们起初只用马，后来骆驼出现了，这肯定会让情况发生巨大变化。"}
+  - {text: "They become more important over time and you know again that may be one of the factors that changes the balance of power in the desert is", start: 3451.79, end: 3459.51, zh: "随着时间推移，骆驼变得越来越重要，你知道，这可能也是改变沙漠权力平衡的因素之一，那就是……（balance of power 权力平衡）"}
+  - {text: "that you get specialised camel raising pastoral groups whose power actually grows over time.", start: 3459.51, end: 3465.55, zh: "出现了专门饲养骆驼的游牧群体，他们的实力实际上在不断增强。（pastoral 游牧的；specialised 专门的）"}
+  - {text: "So in the early modern period it's the camel raising nomads who are the most powerful people in the Sahara.", start: 3466.21, end: 3474.33, zh: "所以在近代早期，饲养骆驼的游牧民族是撒哈拉地区最强大的群体。（Sahara 撒哈拉沙漠；early modern period 近代早期）"}
+  - {text: "A lot of the Oasis communities are subservient.", start: 3474.69, end: 3477.59, zh: "许多绿洲社区都处于从属地位。（Oasis 绿洲；subservient 从属的，顺从的）"}
+  - {text: "The evidence in the Garamante suggests that the balance of power is still with the Oasis cultivators.", start: 3478.09, end: 3483.93, zh: "加拉曼特地区的证据表明，权力平衡仍然掌握在绿洲种植者手中。（Garamante 加拉曼特，古代撒哈拉文明；Oasis cultivators 绿洲种植者）"}
+  - {text: "You know that's where the big tombs are that's where we can see the big consumption going on rather than with pastoral groups but the pastoral groups are always going to be important because if you're doing trade if you're conducting raiding and warfare", start: 3484.33, end: 3496.15, zh: "你知道，那些大型墓葬就在那里，我们可以看到那里有大量的消费活动，而不是在游牧群体中，但游牧群体始终很重要，因为如果你要进行贸易、掠夺或战争……（pastoral groups 游牧群体；raiding 掠夺）"}
+  - {text: "in the Sahara you need people who are good desert navigators who really know how to survive.", start: 3496.61, end: 3501.21, zh: "在撒哈拉沙漠，你需要那些擅长沙漠导航、真正懂得如何生存的人。（Sahara 撒哈拉沙漠；navigators 导航者）"}
+  - {text: "And that's going to be the pastoral people.", start: 3502.21, end: 3503.67, zh: "而那正是游牧民族所擅长的。（pastoral people 游牧民族）"}
+  - {text: "Absolutely. Martha. Tea, coffee.", start: 3504.09, end: 3506.83, zh: "完全同意。玛莎，茶还是咖啡？（Martha 玛莎，人名）"}
+  - {text: "Coffee, please. Coffee, coffee please.", start: 3507.43, end: 3509.85, zh: "咖啡，请。咖啡，咖啡，请。（coffee 咖啡）"}
+  - {text: "I think I'll have tea for a change.", start: 3510.21, end: 3511.51, zh: "我想这次换个口味，喝点茶。（for a change 换个花样，为了改变）"}
+  - {text: "Coffee, coffee, tea. Thank you.", start: 3511.77, end: 3512.51, zh: "咖啡，咖啡，茶。谢谢。（tea 茶）"}
+  - {text: "Tea. Two teas, two coffees, two coffees.", start: 3512.55, end: 3514.47, zh: "茶。两杯茶，两杯咖啡，两杯咖啡。（teas 茶，复数；coffees 咖啡，复数）"}
+  - {text: "Thank you. In our time with Misha Glenny was produced by Martha Owen it's a BBC Studios production for Radio 4.", start: 3514.47, end: 3522.34, zh: "谢谢。由玛莎·欧文制作的《我们的时代》与米沙·格伦尼的对话，是BBC Studios为第四台制作的作品。（In Our Time 我们的时代，BBC节目名；Misha Glenny 米沙·格伦尼，作家；Martha Owen 玛莎·欧文，制作人）"}
+  - {text: "If you've got a scrolling problem then this is the podcast for you.", start: 3522.68, end: 3525.48, zh: "如果你受够了无休止的刷屏，那这档播客就是为你准备的。（scrolling 刷屏，不断滑动屏幕浏览内容）"}
+  - {text: "It's called Top Comment with me Matt Shea and me Marianna Spring.", start: 3525.82, end: 3528.78, zh: "节目叫《顶级评论》，由我和玛丽莎·斯普林主持。（Top Comment 顶级评论，节目名；Marianna Spring 玛丽莎·斯普林，主持人）"}
+  - {text: "We both investigate social media for a living.", start: 3529.00, end: 3530.84, zh: "我们俩的职业就是调查社交媒体。（social media 社交媒体）"}
+  - {text: "Whether it's disinformation, conspiracy theories internet culture, memes.", start: 3531.30, end: 3535.32, zh: "无论是虚假信息、阴谋论、网络文化还是表情包。（disinformation 虚假信息；conspiracy theories 阴谋论；memes 表情包，网络梗图）"}
+  - {text: "We're going to be getting behind the stuff that is popping up on your feed on this podcast.", start: 3535.76, end: 3539.48, zh: "在这档播客里，我们将深入剖析那些出现在你信息流里的各种内容。（feed 信息流，社交媒体上的动态列表）"}
+  - {text: "That's Top Comment on BBC Sounds.", start: 3539.94, end: 3542.00, zh: "这就是在 BBC Sounds 上播出的《顶级评论》。（BBC Sounds BBC 音频平台）"}
 ---
