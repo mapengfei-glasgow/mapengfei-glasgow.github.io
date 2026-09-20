@@ -5,7 +5,7 @@ any sentence jumps playback to that exact moment. The episode audio stays loaded
 in a persistent bottom player bar, and navigating between pages never interrupts it —
 built for close listening and shadowing.
 
-Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme + AppWrite (vocabulary book).
+Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme + AppWrite (vocabulary book) + giscus (comments, backed by this repo's GitHub Discussions).
 
 ## Layout
 
@@ -17,6 +17,7 @@ static/audio/<slug>/ # LOCAL ONLY while building: the episode MP3 is uploaded to
 static/css/          # main.css — styles for our own components only
 assets/js/           # player.js (bottom bar + episode page wiring)
                      # appwrite.js (vocabulary book)
+                     # comments.js (mounts the giscus comment box)
 layouts/             # index.html (home: intro + cards), episodes/single.html,
                      # words/list.html, partials/ overrides
 themes/PaperMod/     # theme (git submodule)
@@ -276,6 +277,62 @@ sends (created by the site's own sign-in) and only then serves `/api/list`,
 variable to restrict those to particular accounts (empty = any signed-in one);
 the page prints your account id next to "Signed in" so it can be copied into that
 variable. Deploy notes: `tools/r2-portal/README.md`.
+
+## Comments (`/episodes/<slug>/` and `/posts/<slug>/`)
+
+The comment box is [giscus](https://giscus.app): the widget is a third-party
+iframe, and **the backend is this repo's Discussions tab** — there is no server of
+ours and nothing about comments is stored in git.
+
+- **Moderating** — open the repo's *Discussions* tab and work there:
+  **Hide** (keeps the comment but greys it out for everyone but its author — the
+  right tool for spam), **Delete** (permanent), **Edit**, **Lock**, or delete the
+  whole discussion. Whatever you do shows up on the site on the next page load.
+  The category is `Announcements` on purpose: only maintainers can start a thread,
+  so nobody can post outside a page's thread.
+- **Where it appears** — every episode page (through
+  `layouts/episodes/single.html`) and every post. The posts section opts in once,
+  in `content/posts/_index.md` (`cascade: comments: true`); add `comments: true`
+  to any other page's front matter to give it a thread too. `/words/`, `/files/`,
+  `/afsi/` and the list pages are deliberately without comments.
+- **One thread per page path** (`mapping = "pathname"`), so a thread's title is
+  the page URL; renaming a page's slug starts a fresh thread.
+- **Prerequisite: the giscus app must be installed on the repo**
+  ([github.com/apps/giscus](https://github.com/apps/giscus) → Install →
+  `mapengfei-glasgow.github.io`). Without it the widget renders an error card
+  instead of a comment box. This one-liner is the check — the answer must not be
+  `giscus is not installed on this repository`:
+
+  ```bash
+  curl -s "https://giscus.app/api/discussions?repo=mapengfei-glasgow%2Fmapengfei-glasgow.github.io&repoId=R_kgDOUPDByw&categoryId=DIC_kwDOUPDBy84DGCmo&term=/x/" | head -c 120
+  ```
+
+The config lives in `hugo.toml`; the ids come from the picker on giscus.app and
+must be re-read there if the repo or the category ever changes:
+
+```toml
+[params.giscus]
+  repo = "mapengfei-glasgow/mapengfei-glasgow.github.io"
+  repoId = "R_kgDOUPDByw"
+  category = "Announcements"
+  categoryId = "DIC_kwDOUPDBy84DGCmo"
+  mapping = "pathname"
+  lang = "en"          # "zh-CN" switches the widget to Chinese
+  loading = "lazy"     # the iframe is only fetched when scrolled into view
+```
+
+`layouts/partials/comments.html` renders the frame (title, "the discussion runs on
+GitHub" note, `<noscript>` fallback) and carries the config as data attributes;
+`assets/js/comments.js` turns that into the giscus `<script>` on every page
+appearance (`turbo:load`), and re-themes the iframe when the site's dark/light
+toggle is used. It is a no-op on pages without a comment box.
+
+Trade-off to remember: a commenter needs a **GitHub account**, and anonymous
+comments are impossible — that is what buys the zero-backend, zero-cost,
+delete-from-the-backend setup. If open anonymous comments are ever wanted, the
+alternative is Waline/Twikoo behind a Worker (the site already runs the
+`r2-portal` Worker and could hold the database in Cloudflare D1), at the price of
+a moderation queue to maintain.
 
 ## Figures written as data (`chart` shortcode)
 

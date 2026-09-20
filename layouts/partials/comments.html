@@ -1,0 +1,37 @@
+{{- /* Comments (giscus → GitHub Discussions).
+
+       Rendered by papermod's single.html for pages that opt in with
+       `comments: true` (the /posts/ section does it through a cascade), and by
+       layouts/episodes/single.html for every episode page.
+
+       The giscus <script> is deliberately NOT written here: on a Turbo
+       navigation the scripts inside a freshly swapped <body> never execute, so
+       assets/js/comments.js mounts the widget on every page appearance and
+       re-reads the configuration from this element's data attributes.
+       Moderation happens on GitHub — see [params.giscus] in hugo.toml. */ -}}
+{{- with site.Params.giscus -}}
+{{- if and .repo .repoId .categoryId -}}
+<section class="comments" aria-label="Comments">
+  <h2 class="comments-title">Comments</h2>
+  <p class="comments-note">
+    The discussion runs on GitHub — sign in there to post or reply, and it shows
+    up in this site's
+    <a href="https://github.com/{{ .repo }}/discussions" rel="noopener" target="_blank">Discussions</a>.
+  </p>
+  <div class="comments-host"
+       id="giscus-host"
+       data-repo="{{ .repo }}"
+       data-repo-id="{{ .repoId }}"
+       data-category="{{ .category | default "General" }}"
+       data-category-id="{{ .categoryId }}"
+       data-mapping="{{ .mapping | default "pathname" }}"
+       data-reactions-enabled="{{ .reactionsEnabled | default "1" }}"
+       data-input-position="{{ .inputPosition | default "top" }}"
+       data-lang="{{ .lang | default "en" }}"
+       data-loading="{{ .loading | default "lazy" }}"></div>
+  <noscript>
+    <p class="comments-note">The comment box needs JavaScript (and a GitHub account).</p>
+  </noscript>
+</section>
+{{- end -}}
+{{- end -}}

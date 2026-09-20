@@ -54,4 +54,8 @@
     the bottom bar shows every Chinese note at once.
   </p>
 </article>
+
+{{- /* Every episode page carries a comment thread (keyed by its path); silent
+       when [params.giscus] is not configured. */ -}}
+{{- partial "comments.html" . }}
 {{ end }}

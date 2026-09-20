@@ -49,3 +49,6 @@
 
 <script src="{{ (resources.Get "js/player.js" | fingerprint).RelPermalink }}" defer></script>
 <script src="{{ (resources.Get "js/appwrite.js" | fingerprint).RelPermalink }}" defer></script>
+{{- /* Mounts the giscus comment box on the pages that render comments.html;
+       a no-op everywhere else. */ -}}
+<script src="{{ (resources.Get "js/comments.js" | fingerprint).RelPermalink }}" defer></script>

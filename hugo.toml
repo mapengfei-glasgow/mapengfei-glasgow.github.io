@@ -53,6 +53,27 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   # Episode audio lives in Cloudflare R2 (the repo keeps pages only).
   audioBase = "https://bucket.r2.mapengfei.cn/audio"
 
+  # Comments: giscus, backed by this repo's GitHub Discussions.
+  # A page that opts in (front matter `comments: true`) gets one discussion
+  # thread, keyed by its path. Nothing is stored here and there is no server:
+  # the *backend* is the repo's Discussions tab — open it to read, edit, hide,
+  # lock or delete any comment. A deleted/hidden comment is gone from the site
+  # on the next page load. Requires the giscus app installed on the repo
+  # (https://github.com/apps/giscus → Install → mapengfei-glasgow.github.io);
+  # without it the widget renders an error card instead of the comment box.
+  # The ids below are giscus's, not GitHub's URLs — re-read them from
+  # https://giscus.app (repo + category picker) if the repo or category changes.
+  [params.giscus]
+    repo = "mapengfei-glasgow/mapengfei-glasgow.github.io"
+    repoId = "R_kgDOUPDByw"
+    category = "Announcements"    # announcement category: only maintainers open threads
+    categoryId = "DIC_kwDOUPDBy84DGCmo"
+    mapping = "pathname"          # one thread per page path
+    reactionsEnabled = "1"
+    inputPosition = "top"
+    lang = "en"                   # "zh-CN" for a Chinese comment box
+    loading = "lazy"              # load the iframe only when it is scrolled to
+
   [params.footer]
     text = "Built with Hugo + faster-whisper · Tap any sentence to play from that moment"
 
