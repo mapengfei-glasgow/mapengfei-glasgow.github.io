@@ -50,6 +50,10 @@ MIN_AUDIO_BYTES = 100 * 1024        # guard against error pages
 DEFAULT_MIN_EPISODE_BYTES = 5 * 1024 * 1024  # anything smaller is a trailer
 
 # Known shows: name -> (feed URL, default download directory name)
+#
+# Not only the BBC: any feed works (a raw URL can be passed as SHOW too). The
+# Akamai→CloudFront fallback below is BBC-specific, but it is simply inert for
+# feeds that do not carry a vpid.
 SHOWS: dict[str, tuple[str, str]] = {
     "global-news": (
         "https://podcasts.files.bbci.co.uk/p02nq0gn.rss",
@@ -58,6 +62,13 @@ SHOWS: dict[str, tuple[str, str]] = {
     "in-our-time": (
         "https://podcasts.files.bbci.co.uk/b006qykl.rss",
         "In Our Time",
+    ),
+    # NPR. The enclosure URLs hop through tracking.swap.fm and
+    # play.podtrac.com before landing on npr.simplecastaudio.com, which serves
+    # plain MP3 — urllib follows the redirects, so nothing extra is needed.
+    "planet-money": (
+        "https://feeds.npr.org/510289/podcast.xml",
+        "Planet Money",
     ),
 }
 

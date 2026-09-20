@@ -1,4 +1,5 @@
 # Show metadata: key = the urlized category name (must match the categories value in content)
 "global-news-podcast" = { icon = "🌍", description = "The BBC's daily world news, one episode a day: the day's big stories in about half an hour, with fast, information-dense news English." }
 "in-our-time" = { icon = "🏛️", description = "BBC panel discussions: a few scholars talk one history, science or philosophy topic all the way through. Slower speech, deeper vocabulary." }
+"planet-money" = { icon = "💰", description = "NPR's economics show: one idea from the world of money per episode, told as a story with real people in it. Natural American English and plenty of everyday business vocabulary." }
 "why-oh-why" = { icon = "❓", description = "A grab bag of interesting independent podcasts, picked up one episode at a time: relationships, mysteries, and general curiosities." }

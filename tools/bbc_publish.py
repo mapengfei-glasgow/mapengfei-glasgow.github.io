@@ -43,6 +43,8 @@ SHOWS: dict[str, list[Path]] = {
                             Path.home() / "Downloads" / "BBC Global News Podcast"],
     "In Our Time": [ROOT / "downloads" / "In Our Time",
                     Path.home() / "Downloads" / "In Our Time"],
+    "Planet Money": [ROOT / "downloads" / "Planet Money",
+                     Path.home() / "Downloads" / "Planet Money"],
     "Why Oh Why": [ROOT / "downloads" / "Why Oh Why",
                    Path.home() / "Downloads" / "Why Oh Why"],
 }
