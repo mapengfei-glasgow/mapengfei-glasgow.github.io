@@ -363,6 +363,31 @@ http_proxy=http://127.0.0.1:7891 https_proxy=http://127.0.0.1:7891 \
 Add `--dry-run` first to see the selection. It is idempotent (downloaded guids
 are recorded in `.last_episode.json`).
 
+`bbc_podcast.py --limit N` is the right tool for a show with no "one a day"
+meaning — use it for Planet Money, for example:
+
+```bash
+http_proxy=http://127.0.0.1:7891 https_proxy=http://127.0.0.1:7891 \
+  ./venv/bin/python work/run_download.py planet-money "downloads/Planet Money" --limit 10
+./venv/bin/python tools/bbc_publish.py --dry-run     # check titles and slugs first
+./venv/bin/python tools/bbc_publish.py               # transcribe → R2 → push
+```
+
+### Adding a show
+
+Three small edits, then download and publish as above:
+
+1. `tools/bbc_podcast.py` — add `"<name>": ("<feed url>", "<download dir name>")`
+   to `SHOWS`. Any RSS feed with `<enclosure url=…>` works; a raw feed URL can
+   also be passed as the show argument without editing anything.
+2. `tools/bbc_publish.py` — add `"<Show Name>": [<repo>/downloads/<dir name>]`
+   to `SHOWS`. The key must match the show name written into the pages.
+3. `data/shows.toml` — add the urlized name with an icon and a description; that
+   drives the show's card on the home page and its category page.
+
+`make_episode.py --show "<Show Name>"` writes that name into `categories`, so the
+category page and the card appear on the next build with no further wiring.
+
 - `bbc_podcast.py` skips trailers (< 5 MB), items belonging to other programmes,
   and keeps a `.downloaded.json` title index next to the MP3s (so real feed titles
   like `Archive: Coffee` are preserved).
@@ -370,7 +395,8 @@ are recorded in `.last_episode.json`).
 - Transcription runs at roughly 4–5 minutes per 50-minute episode on this machine.
 - On networks where the BBC's Akamai edge answers 403, both downloaders retry the
   episode through the other CDN connections the mediaset API lists (CloudFront
-  works); see `work/HOST-NOTES.md`.
+  works); see `work/HOST-NOTES.md`. That path is BBC-specific and simply inert
+  for other feeds.
 
 ### Where the audio lives (Cloudflare R2)
 
