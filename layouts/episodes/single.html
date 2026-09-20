@@ -36,6 +36,9 @@
       {{ with $s.explain }}
       <div class="explain">{{ . }}</div>
       {{ end }}
+      {{ with $s.zh }}
+      <div class="zh">{{ . }}</div>
+      {{ end }}
     </li>
     {{ end }}
   </ol>
@@ -46,7 +49,9 @@
     Playback lives in the bottom bar: ⏮/⏭ jump by sentence, drag the progress
     bar to seek, and switching pages never interrupts the audio.
     Keyboard: ↑/↓ for previous/next sentence, Space to play/pause (works site-wide).
-    Sentences above A2 level come with a 💡 plain-English note.
+    Sentences above A2 level come with a 💡 plain-English note and a 🀄 Chinese
+    translation; both follow the sentence being played, and the 中文 button in
+    the bottom bar shows every Chinese note at once.
   </p>
 </article>
 {{ end }}

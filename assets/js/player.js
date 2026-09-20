@@ -29,6 +29,7 @@
   var btnPrev = document.getElementById("player-prev");
   var btnNext = document.getElementById("player-next");
   var btnAuto = document.getElementById("player-autonext");
+  var btnZh = document.getElementById("player-zh");
   var btnClose = document.getElementById("player-close");
   var elProgress = document.getElementById("player-progress");
   var elTime = document.getElementById("player-time");
@@ -41,6 +42,7 @@
   var idx = -1;         // current sentence index (-1 = not positioned)
   var mode = "off";     // "follow" (play on) | "single" (stop after this sentence) | "off"
   var autoNext = true;  // default auto-continue toggle (the button in the bottom bar)
+  var zhNotes = false;  // 「中文」 toggle: show the Chinese note under every sentence
   var rafId = 0;
   var uiTime = 0;       // displayed playhead (may come from a localStorage restore)
   var uiDuration = 0;   // displayed duration (page value until audio metadata arrives)
@@ -72,6 +74,7 @@
     if (!ep || !ep.audioSrc) return;
     var store = loadStore();
     store.autoNext = autoNext;
+    store.zh = zhNotes;
     store.bySlug = store.bySlug || {};
     store.bySlug[ep.slug] = {
       title: ep.title,
@@ -147,6 +150,30 @@
   function updateAutoBtn() {
     btnAuto.setAttribute("aria-pressed", String(autoNext));
     btnAuto.textContent = autoNext ? "Auto-continue ●" : "Auto-continue ○";
+  }
+
+  /* 「中文」: on = every sentence shows its Chinese note at once, so it can be
+     read before or after listening. Off = Chinese still appears for the
+     sentence being played, exactly like the 💡 English note. The flag is kept
+     on <html data-zh> because that element survives Turbo navigations. */
+  function updateZhBtn() {
+    if (!btnZh) return;
+    btnZh.setAttribute("aria-pressed", String(zhNotes));
+    btnZh.textContent = zhNotes ? "中文 ●" : "中文 ○";
+    btnZh.title = zhNotes
+      ? "Hide the Chinese notes (they still follow playback)"
+      : "Show the Chinese note under every sentence";
+  }
+
+  function applyZh() {
+    document.documentElement.dataset.zh = zhNotes ? "on" : "off";
+    updateZhBtn();
+  }
+
+  /* Persisted across episodes and pages, like autoNext. */
+  function restoreZh() {
+    zhNotes = !!loadStore().zh;
+    applyZh();
   }
 
   function setBarIdentity() {
@@ -519,6 +546,14 @@
     saveNow();
   });
 
+  if (btnZh) {
+    btnZh.addEventListener("click", function () {
+      zhNotes = !zhNotes;
+      applyZh();
+      saveNow();
+    });
+  }
+
   elProgress.addEventListener("input", function () {
     seeking = true;
     var d = realDuration() || uiDuration;
@@ -622,6 +657,7 @@
   document.addEventListener("turbo:load", function () {
     wireEpisodePage();
     syncBar();
+    restoreZh();
   });
 
   // fallback without Turbo (PaperMod does full page loads): wire on first load too
@@ -629,6 +665,7 @@
     document.addEventListener("DOMContentLoaded", function () {
       wireEpisodePage();
       syncBar();
+      restoreZh();
     });
   }
 

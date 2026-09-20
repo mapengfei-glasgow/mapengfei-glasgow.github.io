@@ -7,6 +7,7 @@
 {{- $eps := where site.RegularPages "Section" "episodes" }}
 {{- $sentences := 0 }}{{ range $eps }}{{ $sentences = add $sentences (len .Params.sentences) }}{{ end }}
 {{- $explains := 0 }}{{ range $eps }}{{ range .Params.sentences }}{{ with .explain }}{{ $explains = add $explains 1 }}{{ end }}{{ end }}{{ end }}
+{{- $zhs := 0 }}{{ range $eps }}{{ range .Params.sentences }}{{ with .zh }}{{ $zhs = add $zhs 1 }}{{ end }}{{ end }}{{ end }}
 
 <section class="home-block">
   <h2 class="home-block-title">Start here</h2>
@@ -34,7 +35,7 @@
       <div class="entry-content">
         <p>Sentences you saved, with their plain-English notes — click one to hear it again.</p>
       </div>
-      <footer class="entry-footer">{{ $explains }} notes written so far</footer>
+      <footer class="entry-footer">{{ $explains }} plain-English notes · {{ $zhs }} 条中文翻译</footer>
       <a class="entry-link" aria-label="Vocabulary book" href="{{ "words/" | relURL }}"></a>
     </article>
   </div>

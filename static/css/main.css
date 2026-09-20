@@ -141,6 +141,37 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
   white-space: nowrap;
 }
 .sentence.show-explain .explain { display: block; }
+
+/* Chinese note: same box as .explain, but the 中文 toggle can reveal every
+   sentence at once (html[data-zh="on"], set by player.js and persisted). */
+.zh {
+  grid-column: 2;
+  display: none;
+  margin-top: 0.45em;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  padding: 0.55em 0.8em;
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: var(--fg);
+  /* CJK-first stack so the Chinese renders with proper glyphs and spacing
+     instead of falling back to the theme's Latin serif */
+  font-family: "Noto Sans SC", "Source Han Sans SC", "PingFang SC",
+               "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
+}
+.zh::before {
+  content: "🀄 中文 — ";
+  font-size: 0.98em;
+  color: var(--accent);
+  white-space: nowrap;
+}
+/* follows playback, exactly like the 💡 note */
+.sentence.show-explain .zh { display: block; }
+/* ...and the toggle shows them all, so they can be read before/after listening */
+html[data-zh="on"] .sentence .zh { display: block; }
+
 .sentence .star {
   grid-column: 1;
   grid-row: 2;
