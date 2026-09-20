@@ -21,6 +21,8 @@ layouts/             # index.html (home: intro + cards), episodes/single.html,
                      # words/list.html, partials/ overrides
 themes/PaperMod/     # theme (git submodule)
 tools/               # the pipeline (see tools/ below)
+android/             # installable app: a Trusted Web Activity around the site
+                     # (see android/README.md — paths, toolchain, how to build)
 ```
 
 `tools/` is committed; a few large or machine-local pieces are not, and are
@@ -163,6 +165,28 @@ git -C . add content/episodes && git commit -m "A2 notes" && git push
 `flag_a2.py` also flags sentences for every episode, so `tools/a2_chunks/` grows
 regardless of which episodes you annotate; `qwen_explain.py` skips any chunk that
 already has a result file.
+
+## Android app
+
+`android/` builds an installable APK that opens the site **full screen with no
+address bar**. It is a Trusted Web Activity, so Chrome on the phone renders the
+live site — new episodes appear without rebuilding anything.
+
+```bash
+export http_proxy=http://127.0.0.1:7891 https_proxy=http://127.0.0.1:7891
+./android/toolchain-setup.sh                 # once: JDK 17 + Android SDK + Gradle
+export JAVA_HOME=/home/deepseek-harness/android-build/jdk17
+export ANDROID_HOME=/home/deepseek-harness/android-build/sdk
+cd android && /home/deepseek-harness/android-build/gradle/gradle-8.7/bin/gradle assembleRelease
+```
+
+Build output is gitignored; the source is committed. Full details — every path,
+the toolchain versions, how to verify the APK without a device, the signing key,
+and how `assetlinks.json` enables full screen — are in **`android/README.md`**.
+
+The site is also installable *without* the APK: `static/manifest.json` plus the
+icons in `static/icons/` let Chrome's "Add to Home screen" produce the same
+standalone, no-address-bar experience on Android and iOS.
 
 ## Uploading files to Cloudflare R2
 
