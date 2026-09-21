@@ -9,8 +9,13 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Listening">
 {{- /* Custom styles: player, sentence list, vocabulary book, auth modal
-       (loaded after PaperMod's own stylesheets). */ -}}
-<link rel="stylesheet" href="{{ "css/main.css" | absURL }}">
+       (loaded after PaperMod's own stylesheets).
+       The ?v= is a content hash: GitHub Pages serves static files with
+       max-age=600, so without it a stylesheet change takes up to ten minutes to
+       reach a phone — and the installed app keeps the old layout until then.
+       (assets/ files get this for free through Hugo's fingerprint pipe; this one
+       lives in static/.) */ -}}
+<link rel="stylesheet" href="{{ "css/main.css" | absURL }}?v={{ substr (sha256 (readFile "static/css/main.css")) 0 10 }}">
 {{- if .HasShortcode "chart" }}
 {{- /* Interactive figures written as data in the Markdown body: Chart.js is
        self-hosted (like MathJax below), and both assets load only on pages
