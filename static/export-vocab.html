@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!--
+  One-time tool: export the vocabulary book out of AppWrite.
+
+  The site no longer uses AppWrite (its free plan pauses a project after 7 days
+  without console activity, which took the vocabulary book and /files/ down), so
+  this page exists only to pull the old saved sentences out of the collection.
+  Sign in, download the JSON, then import it on /words/ with "Import JSON".
+
+  If the AppWrite project is paused, restore it first in the AppWrite Console
+  (projects are paused, never deleted — the data is still there).
+
+  Delete this file (and the AppWrite project) once the import is done.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Export the AppWrite vocabulary book</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0 auto; padding: 2rem 1.25rem 4rem; max-width: 40rem; background: #1d1e20; color: #e8e8e8;
+         font: 16px/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  h1 { font-size: 1.4rem; margin: 0 0 0.35rem; }
+  p { color: #9b9b9b; font-size: 0.9rem; }
+  form { display: flex; flex-direction: column; gap: 0.7rem; margin: 1.4rem 0; }
+  input { font: inherit; font-size: 0.9rem; padding: 0.6em 0.8em; color: #e8e8e8; background: #222;
+          border: 1px solid #3b3b3b; border-radius: 8px; }
+  input:focus { outline: none; border-color: #7dd3fc; }
+  button { font: inherit; font-weight: 700; padding: 0.6em 1.2em; color: #fff; background: #7dd3fc;
+           border: none; border-radius: 999px; cursor: pointer; }
+  button.secondary { background: none; border: 1px solid #3b3b3b; color: #e8e8e8; font-weight: 500; }
+  button:disabled { opacity: 0.6; cursor: default; }
+  #status { min-height: 1.3em; font-size: 0.9rem; color: #7dd3fc; }
+  #error { min-height: 1.3em; font-size: 0.85rem; color: #ff66a3; }
+  pre { background: #222; border: 1px solid #3b3b3b; border-radius: 8px; padding: 0.8rem;
+        overflow: auto; max-height: 18rem; font-size: 0.78rem; }
+  .row { display: flex; gap: 0.6rem; flex-wrap: wrap; }
+  code { background: #2a2b2e; border-radius: 4px; padding: 0.05em 0.35em; font-size: 0.85em; }
+</style>
+</head>
+<body>
+<h1>Export the AppWrite vocabulary book</h1>
+<p>
+  Sign in with the account that owns the saved sentences. Nothing is sent
+  anywhere: the documents are fetched straight from AppWrite into this page, and
+  the download is built in your browser. Afterwards, open <code>/words/</code>,
+  enter your new sync code and use <strong>Import JSON</strong>.
+</p>
+<p>
+  AppWrite paused? Restore the project in the AppWrite Console first — pausing
+  never deletes data.
+</p>
+
+<form id="form">
+  <input type="email" id="email" placeholder="AppWrite account email" required autocomplete="email">
+  <input type="password" id="password" placeholder="Password" required autocomplete="current-password">
+  <button type="submit" id="submit">Sign in &amp; fetch</button>
+</form>
+
+<p id="status"></p>
+<p id="error" role="alert"></p>
+
+<div id="result" hidden>
+  <p id="count"></p>
+  <div class="row">
+    <button type="button" id="download">Download vocab.json</button>
+    <button type="button" class="secondary" id="copy">Copy JSON</button>
+  </div>
+  <pre id="preview"></pre>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/appwrite@26.2.0/dist/iife/sdk.js"></script>
+<script>
+(function () {
+  "use strict";
+  // The AppWrite deployment the site used before the migration.
+  var CONFIG = {
+    endpoint: "https://fra.cloud.appwrite.io/v1",
+    projectId: "6a9d0e7c002b1fabe1e9",
+    db: "site",
+    collection: "vocab"
+  };
+
+  var el = function (id) { return document.getElementById(id); };
+  var say = function (msg) { el("status").textContent = msg || ""; };
+  var fail = function (msg) { el("error").textContent = msg || ""; };
+  var payload = null;
+
+  function toItems(documents) {
+    return (documents || []).map(function (d) {
+      return {
+        slug: d.slug,
+        idx: d.idx,
+        show: d.show || "",
+        title: d.title || "",
+        text: d.text || "",
+        explain: d.explain || "",
+        savedAt: d.$createdAt || ""
+      };
+    }).filter(function (it) { return it.slug && typeof it.idx === "number"; });
+  }
+
+  el("form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    fail("");
+    say("Signing in…");
+    el("submit").disabled = true;
+
+    var AW = window.Appwrite;
+    if (!AW) { fail("The AppWrite SDK did not load (offline?)."); el("submit").disabled = false; return; }
+    var client = new AW.Client().setEndpoint(CONFIG.endpoint).setProject(CONFIG.projectId);
+    var account = new AW.Account(client);
+    var databases = new AW.Databases(client);
+
+    account.createEmailPasswordSession(el("email").value.trim(), el("password").value)
+      .then(function () {
+        say("Signed in — fetching saved sentences…");
+        return databases.listDocuments(CONFIG.db, CONFIG.collection, [AW.Query.limit(500)]);
+      })
+      .then(function (res) {
+        var items = toItems(res.documents);
+        payload = { source: "appwrite", exported: new Date().toISOString(), items: items };
+        el("count").textContent = items.length + " saved sentence" + (items.length === 1 ? "" : "s") +
+          " fetched" + (res.total > items.length ? " (of " + res.total + " — raise the limit if needed)" : "") + ".";
+        el("preview").textContent = JSON.stringify(items.slice(0, 3), null, 2) +
+          (items.length > 3 ? "\n… " + (items.length - 3) + " more" : "");
+        el("result").hidden = false;
+        say("Download it, then import it on /words/.");
+      })
+      .catch(function (err) {
+        var m = (err && err.message) || String(err);
+        if (/paused|not found|project/i.test(m)) m += "  (is the AppWrite project paused? restore it in the console)";
+        fail("Export failed: " + m);
+        say("");
+      })
+      .then(function () { el("submit").disabled = false; });
+  });
+
+  el("download").addEventListener("click", function () {
+    if (!payload) return;
+    var blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "vocab.json";
+    a.click();
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+  });
+
+  el("copy").addEventListener("click", function () {
+    if (!payload) return;
+    navigator.clipboard.writeText(JSON.stringify(payload, null, 2))
+      .then(function () { say("Copied to the clipboard."); })
+      .catch(function () { fail("Could not copy — use the download button."); });
+  });
+})();
+</script>
+</body>
+</html>

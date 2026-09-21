@@ -37,6 +37,24 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   ShowCodeCopyButtons = false
   disableScrollToTop = false
 
+  # Site API Worker (tools/site-api/) — the backend for /files/ (bucket browser)
+  # AND for the vocabulary book (/words/ and every ☆ button). Deployed at
+  # https://r2-portal.mpf-npu.workers.dev, under the Worker name it was created
+  # with; its bindings are BUCKET → aorta-data and PRIVATE → a private bucket,
+  # and its secret SITE_TOKEN is the "sync code" the pages ask for.
+  # Leave empty to hide the vocabulary UI and fall back to the static files.json
+  # manifest on /files/.
+  apiBase = "https://r2-portal.mpf-npu.workers.dev"
+
+  # Episode audio lives in Cloudflare R2 (the repo keeps pages only).
+  audioBase = "https://bucket.r2.mapengfei.cn/audio"
+
+  # Careful: a TOML table header claims every key after it, so anything that has
+  # to stay a direct child of [params] must be written ABOVE the first nested
+  # table below. Adding a [params.x] block higher up silently swallows them —
+  # that is how apiBase/audioBase ended up inside [params.assets], which left
+  # /files/ without a backend (data-api=none) and killed the audioBase fallback.
+
   # Android status-bar colour for the installed app / TWA, and the browser's
   # theme-color. This is PaperMod's dark background (theme-vars.css
   # --theme: rgb(29, 30, 32)); PaperMod's own default (#2e2e33) does not match
@@ -44,14 +62,6 @@ description = "Learn English with podcasts — tap any sentence to play from tha
   # because the first one wins.
   [params.assets]
     theme_color = "#1d1e20"
-
-  # Files page backend: the R2 portal Worker (tools/r2-portal/).
-  # Deployed at https://r2-portal.mpf-npu.workers.dev (R2 binding BUCKET → aorta-data);
-  # leave empty to fall back to the static files.json manifest.
-  portalApi = "https://r2-portal.mpf-npu.workers.dev"
-
-  # Episode audio lives in Cloudflare R2 (the repo keeps pages only).
-  audioBase = "https://bucket.r2.mapengfei.cn/audio"
 
   # Comments: giscus, backed by this repo's GitHub Discussions.
   # A page that opts in (front matter `comments: true`) gets one discussion

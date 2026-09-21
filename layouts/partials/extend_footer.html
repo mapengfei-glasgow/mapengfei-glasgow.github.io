@@ -1,6 +1,6 @@
 {{- /* Site enhancements, injected at the very end of <body> (after PaperMod's
-       footer): the global bottom player bar, the sign-in / sign-up modal, and
-       the player + vocabulary scripts. */ -}}
+       footer): the global bottom player bar, the sync-code dialog, and the
+       player + vocabulary + comments scripts. */ -}}
 <div id="player-bar" class="player-bar" hidden>
   <audio id="player-audio" preload="none"></audio>
   <div class="player-inner">
@@ -27,28 +27,25 @@
   </div>
 </div>
 
-<div id="auth-modal" class="auth-modal" hidden>
+{{- /* The sync-code dialog. There are no accounts any more: one shared secret
+       (the Worker's SITE_TOKEN) is typed once per device and kept in
+       localStorage, and it is also what unlocks /files/. data-api tells
+       assets/js/vocab.js where the Worker lives. */ -}}
+<div id="auth-modal" class="auth-modal" data-api="{{ with site.Params.apiBase }}{{ . }}{{ else }}none{{ end }}" hidden>
   <div class="auth-box" role="dialog" aria-modal="true" aria-labelledby="auth-title">
     <button id="auth-close" class="auth-close" type="button" aria-label="Close">×</button>
-    <h3 id="auth-title">Sign in</h3>
-    <p class="auth-sub">Sign in or create an account to sync the sentences you save (☆) across your devices.</p>
-    <div class="auth-tabs" id="auth-tabs">
-      <button class="auth-tab active" data-mode="login" type="button">Sign in</button>
-      <button class="auth-tab" data-mode="signup" type="button">Sign up</button>
-    </div>
+    <h3 id="auth-title">Sync code</h3>
+    <p class="auth-sub">Paste your sync code to load and save the sentences you ☆. It is stored in this browser only — the same code on another device gives you the same vocabulary book.</p>
     <form id="auth-form">
-      <input type="text" id="auth-uid" placeholder="Username (4–36 letters/digits; becomes your account ID)" maxlength="36" hidden autocomplete="username">
-      <input type="email" id="auth-email" placeholder="Email" required autocomplete="email">
-      <input type="password" id="auth-password" placeholder="Password (at least 8 characters)" required minlength="8" autocomplete="current-password">
-      <input type="text" id="auth-name" placeholder="Display name (optional)" maxlength="64" hidden>
-      <button class="cta primary auth-submit" type="submit">Sign in</button>
+      <input type="password" id="auth-token" placeholder="Sync code" autocomplete="current-password" spellcheck="false" autocapitalize="off">
+      <button class="cta primary auth-submit" type="submit">Sync this device</button>
     </form>
     <p class="auth-err" id="auth-err" role="alert"></p>
   </div>
 </div>
 
 <script src="{{ (resources.Get "js/player.js" | fingerprint).RelPermalink }}" defer></script>
-<script src="{{ (resources.Get "js/appwrite.js" | fingerprint).RelPermalink }}" defer></script>
+<script src="{{ (resources.Get "js/vocab.js" | fingerprint).RelPermalink }}" defer></script>
 {{- /* Mounts the giscus comment box on the pages that render comments.html;
        a no-op everywhere else. */ -}}
 <script src="{{ (resources.Get "js/comments.js" | fingerprint).RelPermalink }}" defer></script>

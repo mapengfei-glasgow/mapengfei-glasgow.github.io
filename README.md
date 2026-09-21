@@ -5,7 +5,7 @@ any sentence jumps playback to that exact moment. The episode audio stays loaded
 in a persistent bottom player bar, and navigating between pages never interrupts it —
 built for close listening and shadowing.
 
-Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme + AppWrite (vocabulary book) + giscus (comments, backed by this repo's GitHub Discussions).
+Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme + a Cloudflare Worker (files + vocabulary) + giscus (comments, backed by this repo's GitHub Discussions).
 
 ## Layout
 
@@ -16,7 +16,7 @@ static/audio/<slug>/ # LOCAL ONLY while building: the episode MP3 is uploaded to
                      # R2 and then removed, so the repo keeps pages only
 static/css/          # main.css — styles for our own components only
 assets/js/           # player.js (bottom bar + episode page wiring)
-                     # appwrite.js (vocabulary book)
+                     # vocab.js (sync code + vocabulary book)
                      # comments.js (mounts the giscus comment box)
 layouts/             # index.html (home: intro + cards), episodes/single.html,
                      # words/list.html, partials/ overrides
@@ -45,7 +45,8 @@ tools/merge_explain.py    # merge both note kinds into the sentence frontmatter
 tools/phrase_notes.tsv    # set-phrase table used by the flagger
 tools/daily_bbc_pipeline.sh      # the whole daily chain (systemd calls this)
 tools/mihomo_bbc_route.py # point the BBC at a proxy exit that can reach it
-tools/r2-portal/          # Cloudflare Worker behind the /files/ page (+ its test)
+tools/site-api/           # Cloudflare Worker behind /files/ AND the vocabulary
+                          # book (sync-code auth, vocab in a private bucket)
 tools/systemd/*.service|timer    # bbc-daily (+ the older bbc_gnp/bbc_iot units)
 tools/test_charts.mjs     # test for the chart shortcode (see below)
 
@@ -186,10 +187,11 @@ button in the bottom player bar additionally shows every Chinese note at once, s
 the translation can be read before or after listening. That preference is stored
 in `localStorage` like Auto-continue, and applied through `<html data-zh="on">`.
 
-Not yet wired: the **vocabulary book** (AppWrite) still stores only `text` and
-`explain`, because its collection has no `zh` attribute. Adding one in the
-AppWrite console plus a few lines in `assets/js/appwrite.js` would let saved
-sentences show their Chinese too.
+Not yet wired: the **vocabulary book** stores only `text` and `explain`, so a
+saved sentence shows its English note but not its 🀄 Chinese one. The storage is
+ours now (`tools/site-api/worker.js`, a JSON document in a private R2 bucket), so
+this is a small change on both sides whenever it is wanted: keep `zh` in
+`cleanItem()` and render it in `assets/js/vocab.js`.
 
 The daily pipeline only annotates the episodes **it published in that run**, so
 the timer can never quietly rewrite a hundred older pages. Older episodes that
@@ -255,28 +257,60 @@ proxies also dislike `HEAD`, so the check uses a ranged GET.
 
 ## Files page (`/files/`)
 
-A folder-tree browser for the R2 bucket, gated by the site's AppWrite sign-in:
+A folder-tree browser for the R2 bucket, gated by the same **sync code** the
+vocabulary book uses:
 
-- **Sign in** with an account (the same one the vocabulary book uses) to list the
-  bucket, upload (drag & drop, with progress) and delete.
+- **Enter your sync code** (the header's *Sign in*, or the prompt on the page) to
+  list the bucket, upload (drag & drop, with progress) and delete.
 - Every file row has **Copy link** (public download URL) and the folders expand
   and collapse; expansion state is remembered per browser.
-- Anonymous visitors only see the sign-in prompt — the file list itself is not
-  public any more.
+- Without the code the file list itself is not shown, and `/api/list`,
+  `/api/upload` and `/api/delete` all answer 401.
 
-`hugo.toml` points the page at the portal Worker:
+`hugo.toml` points both this page and the vocabulary book at the Worker:
 
 ```toml
 [params]
-  portalApi = "https://r2-portal.mpf-npu.workers.dev"
+  apiBase = "https://r2-portal.mpf-npu.workers.dev"
 ```
 
-The Worker (`tools/r2-portal/worker.js`) verifies the AppWrite JWT that the page
-sends (created by the site's own sign-in) and only then serves `/api/list`,
-`/api/upload` and `/api/delete` — no shared token. Set its `ALLOWED_USERS`
-variable to restrict those to particular accounts (empty = any signed-in one);
-the page prints your account id next to "Signed in" so it can be copied into that
-variable. Deploy notes: `tools/r2-portal/README.md`.
+`tools/site-api/worker.js` compares the `Authorization: Bearer …` token against
+its `SITE_TOKEN` secret (constant time, and 401 for everyone when it is unset) and
+only then serves the routes. The Worker also serves the vocabulary book, and its
+deploy notes — including how to create the private bucket and the secret — are in
+`tools/site-api/README.md`.
+
+> Keep an eye on `hugo.toml`'s shape: a TOML table header claims **every** key
+> after it, so `apiBase`/`audioBase` must stay above the first `[params.x]` block.
+> They spent a while nested inside `[params.assets]`, where `site.Params.apiBase`
+> is empty — which is exactly how `/files/` quietly lost its backend
+> (`data-api=none`) and the audio `audioBase` fallback stopped working.
+
+## The vocabulary book (`/words/`, the ☆ buttons)
+
+One shared secret and one JSON document, both in Cloudflare:
+
+- Tap ☆ on a sentence and it is stored through the Worker as
+  `{ slug, idx, show, title, text, explain }`; the bottom player can play any
+  saved sentence straight from its moment.
+- The code is typed once per device and kept in `localStorage`; the same code on
+  another device gives you the same book.
+- Storage is a single object, `vocab/v1.json`, in the **private** R2 bucket bound
+  as `PRIVATE` (never the public `aorta-data`, which the world can read through
+  `bucket.r2.mapengfei.cn`). R2 is read-after-write consistent, so a star you just
+  tapped is still there on the next page load.
+- **Migrating the old AppWrite book**: restore the AppWrite project if it is
+  paused, open `/export-vocab.html`, sign in with the old account, download
+  `vocab.json`, then use **Import JSON** on `/words/`. Afterwards delete
+  `static/export-vocab.html` and the AppWrite project.
+
+Why it moved off AppWrite: its free plan pauses a project after 7 days without
+*development activity in the Console*, and (per [their announcement](https://appwrite.io/changelog/entry/2026-02-20-1)
+and [the community thread](https://appwrite.io/threads/1481574986136158322)) API
+traffic, SDK calls and visitor traffic do not count — no cron keep-alive helps,
+and the detection is deliberately undocumented. An idle week therefore took the
+vocabulary book and `/files/` down together. Nothing in the site talks to AppWrite
+now.
 
 ## Comments (`/episodes/<slug>/` and `/posts/<slug>/`)
 
@@ -331,7 +365,7 @@ Trade-off to remember: a commenter needs a **GitHub account**, and anonymous
 comments are impossible — that is what buys the zero-backend, zero-cost,
 delete-from-the-backend setup. If open anonymous comments are ever wanted, the
 alternative is Waline/Twikoo behind a Worker (the site already runs the
-`r2-portal` Worker and could hold the database in Cloudflare D1), at the price of
+`site-api` Worker could hold the database in Cloudflare D1), at the price of
 a moderation queue to maintain.
 
 ## Figures written as data (`chart` shortcode)

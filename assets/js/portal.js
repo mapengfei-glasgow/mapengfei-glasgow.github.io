@@ -1,9 +1,9 @@
 /* ------------------------------------------------------------------
    Files page: browse the R2 bucket as a folder tree, upload, copy links.
 
-   Auth: the page reuses the site's AppWrite sign-in (window.SiteAuth from
-   appwrite.js). Every Worker request carries an AppWrite JWT, which the Worker
-   verifies before listing/uploading/deleting — there is no shared token.
+   Auth: the page reuses the site's sync code (window.SiteAuth from vocab.js).
+   Every Worker request carries it as a Bearer token, and the Worker compares it
+   against its SITE_TOKEN secret before listing/uploading/deleting.
 
    Listing is paginated (the Worker returns up to 1000 keys plus a cursor).
  ------------------------------------------------------------------ */
@@ -385,7 +385,7 @@
 
   function refresh() {
     if (!API) {
-      setStatus("No portal backend configured (params.portalApi is empty).", "warn");
+      setStatus("No portal backend configured (params.apiBase is empty).", "warn");
       show(el.filesCard, false);
       show(el.uploadCard, false);
       return Promise.resolve();
@@ -455,7 +455,7 @@
     if (e.dataTransfer && e.dataTransfer.files) upload(e.dataTransfer.files);
   });
 
-  /* appwrite.js defines window.SiteAuth and loads after this file (defer order),
+  /* vocab.js defines window.SiteAuth and loads after this file (defer order),
      so give it a moment before deciding that sign-in support is missing. */
   (function startWhenAuthReady() {
     if (window.SiteAuth) { wireSession(); return; }

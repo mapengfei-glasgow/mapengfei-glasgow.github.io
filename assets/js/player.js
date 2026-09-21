@@ -641,7 +641,7 @@
 
     items.forEach(function (li, i) {
       li.addEventListener("click", function (e) {
-        // clicking the ☆ save button must not start playback (appwrite.js handles it)
+        // clicking the ☆ save button must not start playback (vocab.js handles it)
         if (e.target && e.target.closest && e.target.closest(".star")) return;
         var st = EP.state();
         if (st.playing && st.idx === i) EP.pause();   // tapping the sentence that is playing pauses it

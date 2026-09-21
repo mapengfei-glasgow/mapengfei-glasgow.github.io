@@ -409,6 +409,8 @@ body.player-open { padding-bottom: 118px; }
    squeeze the "Vocabulary" label into a mid-word wrap (width:100% from .auth-anon). */
 .vocab-head-row .auth-anon { width: auto; flex: 0 0 auto; margin-top: 0; }
 .vocab-head-row .section-label { flex: 0 0 auto; white-space: nowrap; }
+.vocab-head-actions { display: inline-flex; align-items: center; gap: 0.9rem; flex: 0 0 auto; }
+.vocab-status { margin: 0 0 0.9rem; font-size: 0.85rem; color: var(--muted); }
 .auth-err { min-height: 1.2em; margin: 0.8em 0 0; font-size: 0.8rem; color: var(--accent); }
 body.modal-open { overflow: hidden; }
 

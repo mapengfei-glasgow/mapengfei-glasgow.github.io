@@ -1,13 +1,14 @@
 {{ define "main" }}
 <div class="portal" id="portal"
      {{/* a sentinel keeps the attribute in the minified HTML when unset */}}
-     data-api="{{ with site.Params.portalApi }}{{ . }}{{ else }}none{{ end }}">
+     data-api="{{ with site.Params.apiBase }}{{ . }}{{ else }}none{{ end }}">
 
   <header class="portal-head">
     <h1>Files</h1>
     <p class="portal-lead">
       Everything in the <code>aorta-data</code> bucket, grouped into folders.
-      Sign in to list, upload and delete; the download links work for anyone.
+      Enter your sync code to list, upload and delete; the download links work
+      for anyone.
     </p>
   </header>
 
