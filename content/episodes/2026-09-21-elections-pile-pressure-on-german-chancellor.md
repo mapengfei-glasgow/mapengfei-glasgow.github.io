@@ -1,0 +1,263 @@
+---
+layout: single
+title: "Elections pile pressure on German Chancellor"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-21T00:00:00Z
+slug: "2026-09-21-elections-pile-pressure-on-german-chancellor"
+audioDir: "2026-09-21-elections-pile-pressure-on-german-chancellor"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-21-elections-pile-pressure-on-german-chancellor/episode.mp3"
+totalDuration: 1587.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.96}
+  - {text: "I'm Pete Ross and in the early hours of Monday 21st September, these are our main stories.", start: 4.08, end: 9.58}
+  - {text: "Germany's Chancellor Friedrich Merz has described the results of a state election as a disaster for his party, as the far -right AFD continues to make gains.", start: 10.36, end: 19.58}
+  - {text: "US officials say 18 suspects in the assassination of the Haitian president, Juvenel Moïse, five years ago have been flown from Haiti to Florida for trial.", start: 20.16, end: 28.66}
+  - {text: "Also in this podcast, there's an outcry in Barcelona over plans to expand the airport.", start: 29.65, end: 34.49}
+  - {text: "The quality of the air and the quality of the water of our natural area has decreased and decreased and decreased.", start: 34.75, end: 42.17}
+  - {text: "And Donald Trump reveals more details about his controversial plans to build a triumphal arch in Washington DC.", start: 42.53, end: 48.97}
+  - {text: "We begin in Germany, where the embattled Chancellor Friedrich Merz is fighting for his political survival.", start: 51.80, end: 57.86}
+  - {text: "As you record this podcast, preliminary results from two state elections on Sunday suggest damaging defeats for his centre -right Christian Democratic Union Party.", start: 58.52, end: 68.02}
+  - {text: "In one of them, in the northeastern state of Mecklenburg, western Pomerania, the CDU may have dipped below the threshold needed to stay in parliament.", start: 68.58, end: 76.60}
+  - {text: "The far -right Alternative für Deutschland or AFD is on track to win the most votes there.", start: 77.30, end: 83.30}
+  - {text: "Not long ago, the party was on the fringes of German politics, but its anti -immigration agenda has proved popular and it's fast emerging as a major force.", start: 83.94, end: 92.98}
+  - {text: "Mr Merz admitted that the result was hugely damaging for his party, but is vowed to stay in office.", start: 93.74, end: 99.22}
+  - {text: "Today, we've seen two elections with very different results.", start: 99.58, end: 106.84}
+  - {text: "We can't sugarcoat the results in Mecklenburg, west Pomerania.", start: 107.44, end: 110.96}
+  - {text: "It's a disaster. The CDU fought, but ultimately got squeezed between the SPD and the AFD.", start: 110.96, end: 118.34}
+  - {text: "Lee Ferric Holm is the AFD candidate for Premier in the state.", start: 118.86, end: 122.68}
+  - {text: "We've seen that people want change.", start: 124.24, end: 126.60}
+  - {text: "That too is clearly reflected in the numbers.", start: 127.44, end: 129.72}
+  - {text: "We're in the lead, and of course we want to remain in the lead by the end of the evening.", start: 130.48, end: 134.46}
+  - {text: "We want to become the strongest force.", start: 134.84, end: 137.02}
+  - {text: "We have the mandate to govern here in Mecklenburg, western Pomerania.", start: 137.02, end: 141.78}
+  - {text: "The other state election was in Berlin, where the CDU also performed poorly.", start: 142.86, end: 147.36}
+  - {text: "Our Berlin correspondent, Jessica Parker, spoke to us from the capital there as results were coming in.", start: 147.80, end: 153.38}
+  - {text: "The initial exit poll drops showed a delinquent, the left party coming out ahead in Berlin, therefore potentially squeezing a second place Conservative CDU party out of a future coalition.", start: 153.58, end: 165.64}
+  - {text: "Talks will obviously now need to happen, as is per usual in German politics.", start: 165.64, end: 170.74}
+  - {text: "In Mecklenburg or Pomerania, as we've been hearing, no one expected the CDU to do well.", start: 171.66, end: 176.10}
+  - {text: "It's not a strong state for them, but being around that 5 % threshold, where if you fall below it, you don't even get into the state parliament,", start: 176.26, end: 183.20}
+  - {text: "that's pretty disastrous for the CDU and a record low result.", start: 183.74, end: 187.60}
+  - {text: "I think the one that Friedrich Mertz has basically described as a disaster for them.", start: 188.08, end: 193.26}
+  - {text: "A lot of people are saying he needs to answer this as the leader of his party.", start: 193.26, end: 197.64}
+  - {text: "One CDU official I spoke to earlier in the week said he thought it was a tricky situation, but maybe Friedrich Mertz did need to go,", start: 198.20, end: 205.28}
+  - {text: "and this idea of a Kanzler -Tausch, a chancellor swap, where someone else within the CDU could maybe take Friedrich Mertz's place.", start: 205.56, end: 212.40}
+  - {text: "I put basically the same question to a man called Berghard Degger, the member of the CDU in Berlin, and asked him if Mertz should stay.", start: 212.94, end: 219.60}
+  - {text: "Yeah, of course he should.", start: 220.16, end: 221.22}
+  - {text: "He has a lot of work to do and we don't have time to waste, to form new government in the federal level, so let him continue his job.", start: 222.20, end: 231.96}
+  - {text: "It's very important. I trust in him that he will be able to do the necessary forms, which are necessary to bring Germany again in the lead in Europe.", start: 232.12, end: 241.04}
+  - {text: "Aren't you worried that he is personally so unpopular and he has failed to do what he wanted to do, which was to counter the rise of alternative for Deutschland?", start: 241.94, end: 252.38}
+  - {text: "Yeah, I think the germs are very impatient at the moment.", start: 253.45, end: 258.60}
+  - {text: "The chancellor is in office for a little bit more than one year and it's not realistic to expect that every issue has been solved within one year.", start: 259.24, end: 270.76}
+  - {text: "He has got four years and we have to give him the four years and I'm very confident that they will deliver with the necessary reforms.", start: 270.88, end: 279.04}
+  - {text: "That was the CDU politician, Berghard Degger, ending that interview with Jessica Parker in Berlin.", start: 279.46, end: 284.92}
+  - {text: "Well, two weeks ago, many analysts talked about a watershed moment for Germany, when the AFD won a stunning victory in a state election in Saxony and Holt.", start: 285.90, end: 295.02}
+  - {text: "So, how did that compare with its performance on Sunday in Mecklenburg, western Pomerania?", start: 295.62, end: 300.72}
+  - {text: "Here's Jessica Parker once more.", start: 300.72, end: 302.70}
+  - {text: "Pretty different, actually, in the sense that in Saxony and Holt, they were streets ahead and nearly scored a parliamentary majority, which is a remarkable feat in German politics.", start: 302.94, end: 311.22}
+  - {text: "However, they have now chalked up.", start: 311.76, end: 313.24}
+  - {text: "It looks like their third state win by taking the most votes, according to those initial exit polls in Mecklenburg for Poman.", start: 313.46, end: 320.58}
+  - {text: "So, they will be delighted by that.", start: 320.82, end: 322.58}
+  - {text: "There was a bit of a catch -up campaign by the centre -left SPD.", start: 322.68, end: 325.80}
+  - {text: "They're obviously unlikely to actually take power in Mecklenburg for Poman, because most other parties won't work with the AFD, which is something the AFD says is deeply undemocratic.", start: 326.36, end: 336.14}
+  - {text: "Jessica Parker in Berlin.", start: 336.68, end: 338.02}
+  - {text: "It's more than five years since the assassination of the president of Haiti, Jovenel Moïse.", start: 339.56, end: 344.04}
+  - {text: "He was shot at his home in the capital, Port -au -Prince, allegedly by a group of mainly Colombian mercenaries.", start: 344.46, end: 350.60}
+  - {text: "Now, 18 people have been extradited from Haiti to Florida and are set to stand trial for their alleged involvement in the assassination.", start: 351.30, end: 358.12}
+  - {text: "Previous Haitian investigations into the killing were stalled because of the lawlessness in the country.", start: 358.96, end: 363.58}
+  - {text: "Our Central America correspondent Will Grant told me more about President Moïse's assassination.", start: 364.36, end: 369.04}
+  - {text: "Well, it was a truly shocking moment when Jovenel Moïse was killed in his residence.", start: 369.68, end: 375.80}
+  - {text: "His wife was injured in the attack, which was carried out by gunmen who simply seem to walk in.", start: 376.02, end: 382.16}
+  - {text: "And I think that was the bit that really shocked Haitians, the apparent ease with which the president was killed.", start: 382.26, end: 389.36}
+  - {text: "Now, of course, he was an important politician and businessman in Haiti before he became president.", start: 389.50, end: 397.78}
+  - {text: "He'd had a pretty successful business career and had basically become the presidential candidate of a party that he'd founded.", start: 399.06, end: 408.72}
+  - {text: "Now, you know as well as anybody that Haitian politics is very fractured, very, very violent.", start: 408.98, end: 415.16}
+  - {text: "There is a lot of political violence on the beleaguered Caribbean nation.", start: 415.36, end: 419.64}
+  - {text: "And this was really its most definitive expression in sort of recent history.", start: 420.32, end: 425.02}
+  - {text: "And 18 suspects arrested.", start: 425.60, end: 428.58}
+  - {text: "What more do we know about the operation that took place in order to do this?", start: 429.38, end: 433.88}
+  - {text: "Well, we know that some 30 people have been indicted in the United States.", start: 434.28, end: 438.04}
+  - {text: "It's believed that the murder of Jovenel Moïse was basically masterminded in the Dominican Republic and in Miami.", start: 438.16, end: 446.12}
+  - {text: "And it is, you know, no coincidence that these men are on their way to Florida or have been extradited to Florida where they'll be facing charges.", start: 446.64, end: 453.90}
+  - {text: "Now, there's 17 former Colombian soldiers among the group and one man, Joseph Badillo, who was a former Ministry of Justice employee.", start: 454.28, end: 464.40}
+  - {text: "He was involved in an anti -corruption unit there.", start: 464.64, end: 467.00}
+  - {text: "Now, the men from Colombia say they had to sign documents.", start: 467.40, end: 471.06}
+  - {text: "They don't understand that they were laboring under the belief that they were mercenaries working towards a coup, but that they had no intention of murdering the president,", start: 471.22, end: 479.90}
+  - {text: "being part of a plot to murder the president.", start: 480.08, end: 481.94}
+  - {text: "Nevertheless, US prosecutors are celebrating the extradition saying that it is the next major phase in our pursuit of accountability over the presidential assassination.", start: 482.44, end: 492.08}
+  - {text: "And before the assassination, you know, the country was pretty volatile.", start: 492.68, end: 496.92}
+  - {text: "What's the situation like there now?", start: 497.18, end: 498.88}
+  - {text: "Well, since the murder, it has gotten significantly worse.", start: 499.16, end: 502.88}
+  - {text: "The gang violence in Haiti is now spread well beyond the capital Port -au -Prince.", start: 503.40, end: 509.14}
+  - {text: "It's still believed that upwards of 80 % of the territory of the capital is in the control of major criminal gangs and sort of coalitions of criminal gangs.", start: 509.48, end: 521.38}
+  - {text: "Very high numbers of casual treaties still.", start: 522.08, end: 524.82}
+  - {text: "And then the humanitarian impact is not something we should fail to mention.", start: 525.24, end: 528.04}
+  - {text: "It's believed that one and a half million people are internally displaced within Haiti.", start: 528.32, end: 533.50}
+  - {text: "And of course, the need in terms of acute hunger in the nation is almost 6 million people, many, many of whom are children.", start: 533.98, end: 541.76}
+  - {text: "Will Grant. The sister of Pakistan's imprisoned former Prime Minister Imram Khan has been arrested ahead of planned protests about his continued detention.", start: 542.18, end: 551.52}
+  - {text: "Mr Khan's political party, PTI, said that attention of Alima Khanum was illegal and called for her immediate release.", start: 552.24, end: 559.32}
+  - {text: "Mr Khan was jailed three years ago on corruption charges, which his supporters say were politically motivated.", start: 559.68, end: 565.78}
+  - {text: "Here's our Pakistan correspondent, Caroline Davis.", start: 566.32, end: 568.60}
+  - {text: "A police official in Lahore confirmed the arrest to the BBC.", start: 569.04, end: 571.74}
+  - {text: "The order for her arrest was made by the deputy commissioner of Lahore under the maintenance of public order ordinance.", start: 572.52, end: 577.68}
+  - {text: "The order alleges that Ms Khanum is mobilising Imram Khan supporters on social media and public meetings to create a law and order situation.", start: 578.30, end: 586.14}
+  - {text: "It states that she will be detained for 30 days.", start: 586.74, end: 589.26}
+  - {text: "Alima Khanum has been a vocal critic of her brother's detention, regularly speaking to supporters and media over the last three years.", start: 590.02, end: 596.18}
+  - {text: "Many are connecting her arrest to protests organised across the country to march to Pakistan's capital Islamabad next Sunday.", start: 596.82, end: 604.04}
+  - {text: "In the city, streets are already lined with shipping containers ready to secure the city's government buildings.", start: 604.76, end: 609.98}
+  - {text: "Local media has reported Pakistan's Interior Minister saying that the protests harm the country and that the government will do everything they can to stop them.", start: 610.62, end: 618.88}
+  - {text: "Caroline Davis. It was invented by the ancient Romans to celebrate military victories.", start: 618.88, end: 624.56}
+  - {text: "Many cities around the world have one, and perhaps the most famous example is the Arc de Triomphe in Paris.", start: 624.94, end: 631.00}
+  - {text: "And if Donald Trump gets his way, Washington DC will be the next city to have a triumphal arch.", start: 631.68, end: 637.26}
+  - {text: "However, the president's plans to build the 76 -metre -high structure are facing growing criticism.", start: 638.00, end: 643.56}
+  - {text: "This is how the White House press secretary Caroline Levitt announced the plans in April.", start: 644.26, end: 649.18}
+  - {text: "We celebrate America's 250th birthday.", start: 649.50, end: 652.30}
+  - {text: "In honour of this historic occasion, President Trump and the Department of Interior will submit plans for the United States triumphal arch, which will be an", start: 652.90, end: 661.36}
+  - {text: "architectural masterpiece to celebrate our history right here in Washington DC.", start: 661.36, end: 666.02}
+  - {text: "Now President Trump has said the plans have been updated at the request of the U .S.", start: 666.50, end: 670.84}
+  - {text: "military for national security purposes.", start: 670.92, end: 673.28}
+  - {text: "In a social media post, he speaks about plans for a top -grade military complex and arch, which will have the ability to use large numbers of drones and hold large quantities of sniper ammunition.", start: 673.78, end: 685.56}
+  - {text: "James Menendez has been speaking to the historian Kevin Levin.", start: 686.40, end: 689.70}
+  - {text: "What's his reaction? This is obviously new news.", start: 690.32, end: 693.64}
+  - {text: "Just announced this morning.", start: 693.84, end: 694.86}
+  - {text: "I think part of this is an attempt to anticipate the challenges in the courts.", start: 695.40, end: 699.88}
+  - {text: "And so when you look at the construction of the ballroom on the White House grounds, he has used the argument that this is a matter of national security", start: 700.14, end: 707.56}
+  - {text: "as a way to buttress his claim in the courts.", start: 707.56, end: 710.14}
+  - {text: "And I suspect that this is along the same lines that he's anticipating additional challenges to the construction of the arch, and this will allow the process to go through much more quickly.", start: 710.28, end: 722.12}
+  - {text: "Do you think it will get final approval?", start: 722.50, end: 724.82}
+  - {text: "It's difficult to anticipate and make predictions at this point.", start: 725.58, end: 729.94}
+  - {text: "I tend to think that it will.", start: 730.22, end: 731.86}
+  - {text: "Whether it's completed before his second term is up, I think that's an interesting question.", start: 732.20, end: 737.68}
+  - {text: "But certainly he is pushing as quickly as he can.", start: 737.90, end: 741.04}
+  - {text: "He understands that the country, the public opinion is against this, and I think he's just trying to steamroll it through.", start: 741.22, end: 747.82}
+  - {text: "Kevin Levin. Still to come in this podcast, a BBC investigation in Indonesia reveals a jailed teacher convicted of sexually assaulting a student at an Islamic boarding school has been released early.", start: 748.24, end: 760.40}
+  - {text: "He feels as if he has won and I've lost.", start: 760.74, end: 765.52}
+  - {text: "It makes a complete mockery of the law.", start: 766.76, end: 769.30}
+  - {text: "This is the Global News podcast.", start: 775.71, end: 777.51}
+  - {text: "The brother of the late Princess Diana, Charles Spencer, has told the BBC that the media's treatment of her son Prince Harry and his wife Meghan", start: 778.53, end: 785.45}
+  - {text: "has echoes of what happened to his sister before she died in a car crash nearly 30 years ago.", start: 785.45, end: 791.33}
+  - {text: "If you look at an article in a tabloid about Diana or Harry and Meghan, they can be really, really unpleasant.", start: 791.33, end: 798.95}
+  - {text: "And I think it would be really beholden on people to learn from Diana's example.", start: 799.59, end: 803.73}
+  - {text: "I'm not here to speak for Harry and Meghan, but for anyone who's being destroyed in this way daily, it must be such a cancerous influence in their life.", start: 804.21, end: 813.85}
+  - {text: "I saw it with Diana.", start: 814.45, end: 815.31}
+  - {text: "I saw Diana. I mentioned it in the eulogy, her tears of despair.", start: 815.61, end: 818.53}
+  - {text: "One of the problems with Diana was she was very, very sensitive to criticism.", start: 819.33, end: 823.33}
+  - {text: "And of course, I'm sure most of your viewers now think, oh, she had this splendid life and it was all amazing and she didn't, she was", start: 824.43, end: 830.53}
+  - {text: "so privileged and so perfect in so many ways.", start: 830.53, end: 832.67}
+  - {text: "But she was really brought low by all that criticism.", start: 833.25, end: 836.21}
+  - {text: "And yeah, I suppose it's a pity when I see echoes of that now.", start: 836.57, end: 840.35}
+  - {text: "Earl Spencer has stood by his claims after Princess Diana's death.", start: 840.79, end: 844.73}
+  - {text: "Her ex -husband, King Charles, then a prince, sounded, quote, giddily elated, like a lottery winner, and said she would be forgotten soon enough.", start: 845.07, end: 853.33}
+  - {text: "His book about his sister Diana is due to be published in the coming days and has caused a huge stir here in the UK.", start: 854.13, end: 860.81}
+  - {text: "Buckingham Palace has strongly denied his claims about King Charles.", start: 861.61, end: 865.13}
+  - {text: "Our royal correspondent, Daniela Relf, has more.", start: 865.59, end: 868.07}
+  - {text: "The BBC interview is a pretty complete picture of the story that Earl Spencer wants to tell.", start: 868.41, end: 874.51}
+  - {text: "He's also a bit clearer, I think, in the interviews and perhaps in the book extracts that we've seen, that he does recognise that this is his interpretation of events.", start: 874.51, end: 883.47}
+  - {text: "He's also described this as his swan song, that he's not going to say anything more on the matter publicly, but that doesn't mean he's going to go quietly this week.", start: 883.93, end: 891.67}
+  - {text: "The book is published on Tuesday.", start: 891.85, end: 893.89}
+  - {text: "That's likely to prompt more interviews and comment.", start: 894.41, end: 897.45}
+  - {text: "We know that an interview that he's done with a major American broadcaster is going to be aired.", start: 897.65, end: 901.81}
+  - {text: "Now, that won't be music to the ears of Buckingham Palace, but after that statement that they made last week, they've made it clear they're not going to say anything further.", start: 902.13, end: 909.59}
+  - {text: "It is the same story for princes William and Harry.", start: 910.11, end: 912.59}
+  - {text: "There is no comment from their teams, but it has been a really unsettling time for Buckingham Palace and they will really want to shift the focus now to a series of royal engagements scattered across the country that are being undertaken this week.", start: 912.77, end: 926.17}
+  - {text: "Daniela Relf. In Indonesia, the BBC has uncovered a years -long cover -up at a prominent Islamic boarding school involving allegations of sexual crimes by the son of its founder.", start: 926.53, end: 937.47}
+  - {text: "Known as Budji, he was jailed in 2022 for sexually assaulting a student at the school, but a BBCI investigation has found he's a free man after serving less than half his sentence.", start: 937.97, end: 949.13}
+  - {text: "An investigation has also uncovered further allegations against Budji and evidence the school tried to suppress them.", start: 949.85, end: 956.35}
+  - {text: "Indonesia's National Commission on Violence Against Women says sexual abuse in Islamic boarding schools known as Basantrin has reached an emergency level.", start: 956.79, end: 965.69}
+  - {text: "Rebecca Hensky reports. It's July 2022.", start: 966.13, end: 972.52}
+  - {text: "Hundreds of students and followers gather behind the iron gates of the Siddiqia Islamic boarding school in East Java.", start: 973.48, end: 981.20}
+  - {text: "Their fists raised. They chant that they're prepared to defend the school with body and soul.", start: 982.12, end: 987.72}
+  - {text: "Outside the gates, a riot police.", start: 990.64, end: 993.10}
+  - {text: "They're here to arrest Bikki, but the school's supporters are not going to let them in.", start: 993.56, end: 999.55}
+  - {text: "It takes nearly a thousand officers and a 15 -hour siege before Bikki is finally arrested.", start: 1001.92, end: 1008.84}
+  - {text: "Put on trial for the rape of one student, he was found guilty of the lesser charge of sexual assault and sentenced to seven years in prison.", start: 1011.09, end: 1020.63}
+  - {text: "The BBCI can now reveal the allegations against him go much further.", start: 1021.47, end: 1026.99}
+  - {text: "Bikki grabbed me by my hair, but what I can never forget was he said while raping me again, don't you realize you're just my slave.", start: 1028.61, end: 1037.83}
+  - {text: "Former student Ira Puspitasari says she was raped by Bikki for years, beginning when she was just 15.", start: 1040.07, end: 1047.37}
+  - {text: "She's speaking publicly for the first time.", start: 1048.09, end: 1050.47}
+  - {text: "I cried every day.", start: 1050.69, end: 1052.95}
+  - {text: "I felt my body was dirty and acceptable.", start: 1053.51, end: 1056.87}
+  - {text: "In 2018, after leaving the school, she reported Bikki to the police.", start: 1057.41, end: 1061.99}
+  - {text: "When the school found out, she says she came under intense pressure.", start: 1062.61, end: 1066.21}
+  - {text: "My house was constantly watched by Bikki's people.", start: 1066.79, end: 1070.43}
+  - {text: "I didn't have a safe place.", start: 1070.87, end: 1072.13}
+  - {text: "I was terrified. Ira says she and her father were then summoned to a meeting where she met Bikki's mother.", start: 1072.83, end: 1079.61}
+  - {text: "She secretly recorded their conversation.", start: 1080.35, end: 1082.37}
+  - {text: "You can hear Bikki's mother telling Ira that her son perhaps made mistakes and apologizes.", start: 1083.31, end: 1090.27}
+  - {text: "But then she demands Ira withdraw her police report.", start: 1091.17, end: 1094.37}
+  - {text: "Fearing for her safety, Ira signed a statement retracting her allegations.", start: 1095.05, end: 1099.41}
+  - {text: "And now the BBC has heard that he's been secretly released early, after serving less than half his sentence.", start: 1100.57, end: 1108.36}
+  - {text: "I, undercover reporters posing as loyal followers, went to his house on Eid.", start: 1110.28, end: 1115.52}
+  - {text: "In a side room he was blessing people.", start: 1116.18, end: 1118.26}
+  - {text: "Approaching on their knees like others in the room, they came face to face with him.", start: 1119.42, end: 1124.08}
+  - {text: "Indonesia's Ministry for Immigration and Corrections told the BBC he was given early parole due to legal sentence reductions.", start: 1126.46, end: 1135.60}
+  - {text: "Ira watched in shock the footage of Bikki greeting supporters.", start: 1136.40, end: 1141.02}
+  - {text: "Now he's free. It's like nothing ever happened.", start: 1142.66, end: 1149.04}
+  - {text: "He feels as if he has won.", start: 1152.07, end: 1153.83}
+  - {text: "And I've lost. It makes a complete mockery of the law.", start: 1153.83, end: 1160.84}
+  - {text: "The BBC put the allegations to Bikki and his mother.", start: 1161.78, end: 1164.96}
+  - {text: "They did not respond.", start: 1165.40, end: 1166.22}
+  - {text: "Ira has rebuilt her life with a family of her own.", start: 1167.42, end: 1171.50}
+  - {text: "I was always told, if you do this to Bikki, your life will be ruined.", start: 1172.45, end: 1177.33}
+  - {text: "But I'm going to prove that my life won't be ruined.", start: 1177.77, end: 1181.03}
+  - {text: "I'll be more successful and I'll come back stronger.", start: 1181.63, end: 1183.85}
+  - {text: "That was Rebecca Hensky.", start: 1184.93, end: 1186.11}
+  - {text: "And for the full investigation, search for World of Secrets wherever you get your BBC podcasts.", start: 1186.43, end: 1191.29}
+  - {text: "Or you can watch it on World Service YouTube.", start: 1191.59, end: 1194.31}
+  - {text: "Over tourism is a growing global issue.", start: 1195.21, end: 1197.21}
+  - {text: "It's a big concern in the Spanish city of Barcelona, but according to some figures, annual visitors outnumber locals by 10 to 1.", start: 1197.51, end: 1205.13}
+  - {text: "And that's one of the reasons why thousands took to the streets of the city on Sunday to protest against plans to expand the city's airport.", start: 1205.51, end: 1212.91}
+  - {text: "They're worried about a rise in visitor numbers and the environmental impact of more flights.", start: 1213.43, end: 1218.35}
+  - {text: "Alba Borreorda is the mayor of a municipality which borders the airport.", start: 1218.85, end: 1223.23}
+  - {text: "She explains to James Menendez why she's opposed to the expansion plans.", start: 1223.67, end: 1227.25}
+  - {text: "We have the second biggest airport in Spain.", start: 1227.77, end: 1231.51}
+  - {text: "And it is located in the middle of a natural area.", start: 1232.05, end: 1235.97}
+  - {text: "And in 1999, this airport, the airport of Barcelona began the latest enlargement and the construction of the third runway in the airport.", start: 1235.97, end: 1246.07}
+  - {text: "This third runway is located in the middle of a natural area.", start: 1246.29, end: 1250.21}
+  - {text: "And since then, we have not been compensated.", start: 1250.77, end: 1254.15}
+  - {text: "As the government said, we have supposed to be.", start: 1254.35, end: 1257.13}
+  - {text: "And the quality of the air and the quality of the water of our natural area has decreased and decreased and decreased.", start: 1257.75, end: 1265.73}
+  - {text: "So we don't understand our Catalan government and our Spanish government to support another expansion before compensating our city, our natural area since 1999.", start: 1266.21, end: 1280.45}
+  - {text: "So we are opposing another enlargement of this runway because it definitely killed the natural area of Aldelda Allorad.", start: 1281.17, end: 1291.43}
+  - {text: "The government says that this expansion of the airport will not mean, for example, more flights in the area.", start: 1291.69, end: 1300.35}
+  - {text: "I mean, what do you say to that?", start: 1300.51, end: 1302.33}
+  - {text: "Well, the expansion of the airport and the construction of the third runway means more flights by any year.", start: 1303.21, end: 1309.53}
+  - {text: "So if we have 7 ,000 of flights increasing, for me, it's obvious the air quality and the noise of our region will increase.", start: 1309.87, end: 1320.63}
+  - {text: "So that's exactly what we don't want.", start: 1321.01, end: 1323.97}
+  - {text: "And after all, Barcelona and the area of the metropolitan area of Barcelona doesn't need for our economy.", start: 1324.31, end: 1331.49}
+  - {text: "We doesn't need more flights or also more problems of housing because more flights means exactly more tourists, more tourism, and more tourism means more problems to housing access for Catalan and that's opposite what we want.", start: 1331.73, end: 1348.55}
+  - {text: "Why does more tourists, I mean, why is that not good for the economy?", start: 1348.97, end: 1352.57}
+  - {text: "Does that not bring more money in and that mean more jobs for the people who live in your area?", start: 1352.75, end: 1357.03}
+  - {text: "Well, it's not the kind of jobs and it's not the kind of economy we are supporting because when a government built the third runway, they said, oh,", start: 1357.65, end: 1367.27}
+  - {text: "that will mean more economy, more jobs, but the jobs that they created, it's jobs no well paid.", start: 1367.33, end: 1373.55}
+  - {text: "And of course, when tourists come to Barcelona, this means more services for the tourists.", start: 1374.17, end: 1379.01}
+  - {text: "But we want for Catalonia and also for Spain, we want another kind of economy, not just for waiters and not just for people who works in the hotels.", start: 1379.33, end: 1389.39}
+  - {text: "We want a more modern economy and that we are asking for.", start: 1389.85, end: 1394.77}
+  - {text: "It's not often that tram drivers get to bask in the limelight, but one competition is allowing them to do just that.", start: 1396.36, end: 1404.16}
+  - {text: "The European tram driver championship has been taking place in the Polish capital Warsaw.", start: 1404.78, end: 1409.44}
+  - {text: "26 teams competed across various challenges, but it was the team from the Czech capital Prague that was the runaway winner.", start: 1410.14, end: 1417.48}
+  - {text: "Helena Burke reports. You may have tried 10 -pin bowling before, but what about knocking over giant bowling pins with a tram?", start: 1418.00, end: 1426.22}
+  - {text: "That's one of many challenges that participants have to complete at the European tram driver championship.", start: 1432.42, end: 1438.72}
+  - {text: "To determine the smoothest driver, bowls of water are attached to the front of the tram with points deducted for every drop spilled.", start: 1439.32, end: 1446.62}
+  - {text: "Next comes a measure of driver dexterity that sees competitors throwing balls into a basketball hoop while operating their vehicle.", start: 1447.26, end: 1454.36}
+  - {text: "The European tram driver championship has been running annually since 2012 and every year the event is growing in popularity.", start: 1462.12, end: 1470.12}
+  - {text: "We're pretty big tram fans and so far we've traveled from Leipzig to every European and world championship.", start: 1472.98, end: 1479.58}
+  - {text: "There's always a great atmosphere and it's a lot of fun.", start: 1479.92, end: 1483.02}
+  - {text: "This year's competition in Warsaw saw 25 cities across Europe participate plus the Australian city of Melbourne which was allowed to enter because it has the largest tram network in the world, but bigger isn't always better.", start: 1484.88, end: 1497.74}
+  - {text: "Melbourne came second last finishing ahead of only London.", start: 1498.14, end: 1501.96}
+  - {text: "The top performer across the eight challenges was the team from Czech capital Prague, thanks to the skilled manoeuvring of drivers Vendula Temejova and Zdeniek Liktak.", start: 1502.54, end: 1512.60}
+  - {text: "We didn't expect it.", start: 1515.42, end: 1516.86}
+  - {text: "Until the very end of the competition we didn't think we could win.", start: 1517.26, end: 1520.06}
+  - {text: "We're a new team and this is our first time taking part in a competition like this.", start: 1520.52, end: 1524.36}
+  - {text: "We wanted to finish at least in the top 10 so I guess we did well.", start: 1524.82, end: 1528.16}
+  - {text: "I made a mistake in the bowling event and thought that's bad, but it wasn't and it all worked out.", start: 1530.04, end: 1535.62}
+  - {text: "Tram lines were a cornerstone of public transport in cities across Europe and around the globe throughout the 19th century.", start: 1536.00, end: 1542.66}
+  - {text: "After the Second World War many networks were ripped up in favour of supposedly more modern alternatives, but as cities look for cleaner and more sustainable", start: 1543.16, end: 1551.34}
+  - {text: "ways to move people the electric powered tram is making a major comeback.", start: 1551.34, end: 1556.10}
+  - {text: "And that's all from us for now.", start: 1556.64, end: 1559.58}
+  - {text: "If you want to get in touch you can email us at globalpodcast .bbc .co .uk.", start: 1559.92, end: 1564.64}
+  - {text: "You can also find us on X at BBC World Service use the hashtag globalnewspod.", start: 1565.06, end: 1570.56}
+  - {text: "This edition of the global news podcast was mixed by Chris Murphy and the producer was Muzafir Shakir.", start: 1571.37, end: 1577.07}
+  - {text: "The editor is Karen Martin.", start: 1577.53, end: 1578.89}
+  - {text: "I'm Pete Ross. Until next time, goodbye.", start: 1579.15, end: 1582.29}
+---
