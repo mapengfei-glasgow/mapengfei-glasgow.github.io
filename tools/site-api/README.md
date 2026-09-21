@@ -76,15 +76,17 @@ The Worker keeps the name it was created with (`r2-portal`), so the URL in
 > `npx wrangler secret put SITE_TOKEN` sets the secret, and the bucket bindings come
 > from `wrangler.toml` — create `site-private` first.
 
-## Migrating the old AppWrite vocabulary
+## Restoring a backup (the old AppWrite book was abandoned)
 
-1. Restore the AppWrite project if it is paused (console → *Restore*; pausing never
-   deletes data), then open **`/export-vocab.html`** on the site, sign in with the
-   old account and download `vocab.json`.
-2. On `/words/`, with your sync code entered, press **Import JSON** and pick that
-   file. It merges by `slug:idx`, so importing twice is harmless.
-3. Then delete `static/export-vocab.html` and the AppWrite project — nothing in the
-   site points at AppWrite any more.
+The AppWrite vocabulary was dropped rather than migrated, and no export tool ships
+with the site. `POST /api/vocab/import` stays as the way back in: it accepts a bare
+array, `{ items }` or `{ documents }`, merges by `slug:idx` and reports how many it
+added, so importing twice is harmless.
+
+```bash
+curl -H "Authorization: Bearer $SITE_TOKEN" -H 'content-type: application/json' \
+     --data @vocab.json https://<worker>.workers.dev/api/vocab/import
+```
 
 ## Rotating the sync code
 

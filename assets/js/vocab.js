@@ -15,7 +15,7 @@
  *   #auth-chip                 header button: "Sign in" ⇄ "📖 Vocabulary"
  *   .episode[data-slug]        an episode page: ☆ buttons live in its sentences
  *   #vocab-list                the /words/ page: one .vocab-item per saved line
- *   #vocab-logout / #vocab-import  its sign-out and import controls
+ *   #vocab-logout              its sign-out control
  *   window.SiteAuth            what portal.js (/files/) calls
  */
 (function () {
@@ -340,52 +340,18 @@
     return b.charAt(b.length - 1) === "/" ? b : b + "/";
   }
 
-  function importFile(input) {
-    var file = input.files && input.files[0];
-    if (!file) return;
-    var status = document.getElementById("vocab-status");
-    var say = function (msg) {
-      if (!status) return;
-      status.textContent = msg;
-      status.hidden = !msg;
-    };
-    say("Importing " + file.name + "…");
-    file.text().then(function (text) {
-      var parsed;
-      try { parsed = JSON.parse(text); } catch (e) { throw new Error("that file is not JSON"); }
-      return api("POST", "/api/vocab/import", parsed);
-    }).then(function (res) {
-      docCache = null;
-      docLoad = null;
-      say("Imported " + res.added + " new sentence" + (res.added === 1 ? "" : "s") +
-          (res.skipped ? " (" + res.skipped + " already saved)" : "") +
-          " — " + res.count + " in the book.");
-      renderVocab();
-    }).catch(function (err) {
-      say("Import failed: " + ((err && err.message) || err));
-    }).then(function () {
-      input.value = "";
-    });
-  }
-
   function wireVocabPage() {
     var box = document.getElementById("vocab-list");
     if (!box || box.dataset.wired === "1") return;
     box.dataset.wired = "1";
     var empty = document.getElementById("vocab-empty");
     var logout = document.getElementById("vocab-logout");
-    var importBtn = document.getElementById("vocab-import-btn");
-    var importInput = document.getElementById("vocab-import");
 
     renderVocab();
 
     if (logout) logout.addEventListener("click", function () {
       signOut().then(renderVocab);
     });
-    if (importBtn && importInput) {
-      importBtn.addEventListener("click", function () { importInput.click(); });
-    }
-    if (importInput) importInput.addEventListener("change", function () { importFile(importInput); });
 
     /* Play a saved sentence: load that episode into the bottom player, then play
        from this sentence's index. The timestamps come from the episode page the
@@ -447,7 +413,6 @@
     });
 
     function renderVocab() {
-      if (importBtn) importBtn.hidden = !loggedIn();
       if (logout) logout.hidden = !loggedIn();
       if (!loggedIn()) {
         box.innerHTML = "";

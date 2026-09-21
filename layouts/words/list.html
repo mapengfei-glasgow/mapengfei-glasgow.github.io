@@ -2,14 +2,9 @@
 <div class="vocab">
   <div class="vocab-head-row">
     <p class="section-label">Vocabulary</p>
-    <span class="vocab-head-actions">
-      <button id="vocab-import-btn" class="auth-anon" type="button" title="Import a JSON export of the old AppWrite vocabulary book" hidden>Import JSON</button>
-      <button id="vocab-logout" class="auth-anon" type="button" hidden>Sign out</button>
-    </span>
-    <input id="vocab-import" type="file" accept="application/json,.json" hidden>
+    <button id="vocab-logout" class="auth-anon" type="button" hidden>Sign out</button>
   </div>
   <p class="cc-desc">Tap ☆ on any sentence in an episode and it lands here with its plain-English note. Click a saved sentence to play it straight from that moment. Enter your sync code to share the book across your devices.</p>
-  <p id="vocab-status" class="vocab-status" hidden></p>
   <p id="vocab-empty" class="vocab-empty" hidden>Nothing saved yet. Head to <a href="{{ "episodes/" | relURL }}">Listening</a> and tap ☆ on a sentence.</p>
   <ol id="vocab-list" class="vocab-list" data-episodes-base="{{ "episodes/" | relURL }}"></ol>
 </div>

@@ -299,10 +299,14 @@ One shared secret and one JSON document, both in Cloudflare:
   as `PRIVATE` (never the public `aorta-data`, which the world can read through
   `bucket.r2.mapengfei.cn`). R2 is read-after-write consistent, so a star you just
   tapped is still there on the next page load.
-- **Migrating the old AppWrite book**: restore the AppWrite project if it is
-  paused, open `/export-vocab.html`, sign in with the old account, download
-  `vocab.json`, then use **Import JSON** on `/words/`. Afterwards delete
-  `static/export-vocab.html` and the AppWrite project.
+- The old AppWrite book was abandoned rather than migrated, so no export tool
+  lives in the repo. The Worker keeps `POST /api/vocab/import` (it merges by
+  `slug:idx`) as the way back in if a JSON backup is ever wanted:
+
+  ```bash
+  curl -H "Authorization: Bearer $CODE" -H 'content-type: application/json' \
+       --data @vocab.json https://r2-portal.mpf-npu.workers.dev/api/vocab/import
+  ```
 
 Why it moved off AppWrite: its free plan pauses a project after 7 days without
 *development activity in the Console*, and (per [their announcement](https://appwrite.io/changelog/entry/2026-02-20-1)
