@@ -273,7 +273,11 @@
       btn.className = "star";
       btn.textContent = "☆";
       btn.setAttribute("aria-label", "Save this sentence");
-      li.appendChild(btn);
+      // FIRST child, not last: .star floats right, and a float only rises to the
+      // top-right corner of the sentence when nothing has been laid out before
+      // it (see the .sentence rules in static/css/main.css). insertBefore keeps
+      // this ES5-friendly, like the rest of the file.
+      li.insertBefore(btn, li.firstChild);
     }
     return btn;
   }

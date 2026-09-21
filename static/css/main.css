@@ -97,12 +97,15 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
 
 /* ---------- Sentence list ---------- */
 .sentences { list-style: none; margin: 0; padding: 0; }
+/* One block, no side padding: the sentence text starts at the page's left edge
+   (the old 2-column grid spent 2.4em + gap + padding on a number gutter, which
+   on a phone was most of the left margin). The ordinal is inline instead and
+   the ☆ floats into the top-right corner. */
 .sentence {
   position: relative;
-  display: grid;
-  grid-template-columns: 2.4em 1fr;
-  gap: 0.3em 0.7em;
-  padding: 0.55em 0.8em 0.85em;
+  overflow: hidden;            /* contain the floated ☆ (an empty sentence would
+                                  otherwise let it spill into the next row) */
+  padding: 0.55em 0 0.9em;
   border-radius: 8px;
   cursor: pointer;
   transition: background 0.12s ease;
@@ -113,44 +116,37 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
   font-family: var(--font-family-mono, var(--font-family, monospace));
   font-size: 0.72rem;
   color: var(--faint);
-  text-align: right;
-  padding-top: 0.45em;
+  padding-right: 0.5em;
   font-variant-numeric: tabular-nums;
 }
 .sentence .text { font-size: 1.125rem; line-height: 1.75; }
 .sentence.playing .idx { color: var(--primary); font-weight: 700; }
 .sentence.playing .idx::before { content: "▶ "; font-size: 0.75em; }
 .sentence.done .text { color: var(--muted); }
+/* The notes are plain boxes now: no coloured left bar, no "Plain English" /
+   "中文" label in front — the language of the text says which one it is. */
 .explain {
-  grid-column: 2;
   display: none;
-  margin-top: 0.45em;
+  clear: both;                 /* never sit beside the floated ☆ */
+  margin-top: 0.5em;
   background: var(--bg-soft);
   border: 1px solid var(--border);
-  border-left: 3px solid var(--primary);
   border-radius: 8px;
   padding: 0.55em 0.8em;
   font-size: 0.9rem;
   line-height: 1.65;
   color: var(--fg);
 }
-.explain::before {
-  content: "💡 Plain English — ";
-  font-size: 0.98em;
-  color: var(--accent);
-  white-space: nowrap;
-}
 .sentence.show-explain .explain { display: block; }
 
 /* Chinese note: same box as .explain, but the 中文 toggle can reveal every
    sentence at once (html[data-zh="on"], set by player.js and persisted). */
 .zh {
-  grid-column: 2;
   display: none;
-  margin-top: 0.45em;
+  clear: both;
+  margin-top: 0.5em;
   background: var(--bg-soft);
   border: 1px solid var(--border);
-  border-left: 3px solid var(--accent);
   border-radius: 8px;
   padding: 0.55em 0.8em;
   font-size: 0.9rem;
@@ -161,22 +157,15 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
   font-family: "Noto Sans SC", "Source Han Sans SC", "PingFang SC",
                "Hiragino Sans GB", "Microsoft YaHei", system-ui, sans-serif;
 }
-.zh::before {
-  content: "🀄 中文 — ";
-  font-size: 0.98em;
-  color: var(--accent);
-  white-space: nowrap;
-}
 /* follows playback, exactly like the 💡 note */
 .sentence.show-explain .zh { display: block; }
 /* ...and the toggle shows them all, so they can be read before/after listening */
 html[data-zh="on"] .sentence .zh { display: block; }
 
 .sentence .star {
-  grid-column: 1;
-  grid-row: 2;
-  justify-self: start;
-  align-self: center;
+  float: right;                /* top-right corner of the sentence: the text
+                                  wraps around it instead of being indented */
+  margin: 0.15em 0 0.4em 0.6em;
   width: 2em;
   height: 1.9em;
   display: grid;
