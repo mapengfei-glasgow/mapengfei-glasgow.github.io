@@ -1,0 +1,267 @@
+---
+layout: single
+title: "US media outlets take legal action after White House ban"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-22T00:00:00Z
+slug: "2026-09-22-us-media-outlets-take-legal-action-after-white-house-ban"
+audioDir: "2026-09-22-us-media-outlets-take-legal-action-after-white-house-ban"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-22-us-media-outlets-take-legal-action-after-white-house-ban/episode.mp3"
+totalDuration: 1620.6
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.92}
+  - {text: "I'm Alex Retson and in the early hours of Tuesday, September 22nd, these are our main stories.", start: 5.39, end: 12.33}
+  - {text: "America's major TV networks jointly suspend their pooled coverage of events at the White House in response to Donald Trump's banning of three major outlets.", start: 12.89, end: 22.69}
+  - {text: "Thousands flee Yemen as the war between the Iranian -backed Houthis and Saudi -backed forces escalates.", start: 23.39, end: 29.57}
+  - {text: "We have a special report and there's a new attempt by FIFA President Gianni Infantino to win back support for his leadership of global football.", start: 29.57, end: 38.73}
+  - {text: "Also in this podcast.", start: 40.30, end: 42.10}
+  - {text: "In case we're attacked, we will not surrender.", start: 42.48, end: 45.92}
+  - {text: "There are plans prepared for evacuation.", start: 46.46, end: 48.94}
+  - {text: "The Lithuanian Prime Minister tells the BBC local people feel they're under constant threat of a Russian attack and the row involving teenage dart sensation Luke Littler and booing crowds.", start: 49.54, end: 62.06}
+  - {text: "We begin in the United States where television networks have been staging an extraordinary collective revolt by effectively boycotting their shared coverage of President Donald Trump.", start: 64.75, end: 76.39}
+  - {text: "They're acting in protest at his decision to ban three news outlets from the White House.", start: 76.83, end: 81.49}
+  - {text: "Those outlets, CNN, MS Now and Politico, have filed a lawsuit against the administration.", start: 81.49, end: 88.31}
+  - {text: "Mr Trump, who's in New York ahead of his speech at the UN General Assembly, spoke about the boycott after he met the city's mayor, Zoran Mamdani.", start: 88.95, end: 97.75}
+  - {text: "It's interesting because they said they were going to boycott me, but they never boycott me.", start: 98.25, end: 103.67}
+  - {text: "So I wasn't very worried about that.", start: 104.03, end: 105.71}
+  - {text: "Look at all that press and I think I have an obligation not to let fake news.", start: 105.79, end: 110.13}
+  - {text: "They're very bad for the country, very bad for national security, so I have that obligation.", start: 110.13, end: 114.93}
+  - {text: "So we'll see how it works out.", start: 115.19, end: 116.27}
+  - {text: "By Monday evening the White House had launched a streaming channel in response saying Trump TV would stream top videos, major remarks and must -see highlights 24 -7.", start: 116.71, end: 128.57}
+  - {text: "On Monday it was CNN's turn to film White House proceedings, but because of the row, major networks kept their cameras away as President Trump opened his new helipad.", start: 129.21, end: 139.59}
+  - {text: "Perhaps not what Donald Trump intended to happen.", start: 139.59, end: 143.37}
+  - {text: "I got more from our North America editor Sarah Smith.", start: 143.75, end: 146.59}
+  - {text: "No, I don't think this is what he intended at all because we know how much Donald Trump relishes being on TV and dominating the media even more than your average politician does.", start: 147.21, end: 156.79}
+  - {text: "And yet we've got a situation where there is no network television coverage of him at all, so no pictures of him boarding Marine One, the helicopter as he was leaving the White House,", start: 156.97, end: 167.61}
+  - {text: "no images of him arriving in New York or any of the events he's taking part in.", start: 167.61, end: 172.75}
+  - {text: "And not only is there not any moving footage, there aren't even any still photographs because all the photographers at the White House have also agreed", start: 172.95, end: 181.11}
+  - {text: "not to put out their images in protest at the ban.", start: 181.11, end: 184.25}
+  - {text: "Because it was on Friday that he picked three media outlets, CNN, MSNOW and Politico, and said they were no longer going to be allowed into the White House to cover events there", start: 184.71, end: 195.23}
+  - {text: "because he said that they put out fake news and lies.", start: 195.23, end: 198.49}
+  - {text: "And it just so happened that it was CNN who were supposed to be the pool or shared TV crew covering the president and the White House took them off that pool rotor.", start: 199.05, end: 208.89}
+  - {text: "So the other four major television networks all said they were going to refuse to put a replacement crew in in protest at this ban on CNN.", start: 209.67, end: 217.91}
+  - {text: "Extraordinary level of solidarity from the other TV networks, including Fox News, is this game to continue though because it's fine making the gesture but in the long term they're not going to have coverage of things they want, are they?", start: 218.49, end: 234.39}
+  - {text: "It's definitely going to continue any day that CNN was down to be the shared pool TV crew.", start: 234.85, end: 241.15}
+  - {text: "It's less clear what's going to happen on the days when the other major networks who have not been banned were supposed to be providing the coverage of Donald Trump.", start: 241.27, end: 248.33}
+  - {text: "But what is obvious is that the media are pretty united in their condemnation of this ban.", start: 248.33, end: 254.91}
+  - {text: "The three prohibited outlets have also launched a legal challenge that will be heard later this week.", start: 255.35, end: 260.89}
+  - {text: "They say that banning them from the White House is not only an assault on the freedom of the press which is constitutionally protected in the United States,", start: 261.07, end: 269.13}
+  - {text: "but it also interferes with the public's right to independent journalism free from government interference.", start: 269.13, end: 274.43}
+  - {text: "And how much does President Trump need this coverage?", start: 274.43, end: 278.59}
+  - {text: "I understand he's already looking at ways of creating essentially his own pool coverage of his movements.", start: 278.71, end: 285.01}
+  - {text: "Well, there was an attempt at that today.", start: 285.67, end: 288.69}
+  - {text: "So on the White House YouTube channel and on the new White House mobile phone app they put out some pictures of a ribbon -cutting ceremony.", start: 288.85, end: 296.79}
+  - {text: "Donald Trump was opening the new helipad that he's had installed on the south lawn of the White House.", start: 296.93, end: 302.43}
+  - {text: "But it was utterly inaudible.", start: 302.43, end: 304.37}
+  - {text: "You could barely see him.", start: 304.73, end: 305.93}
+  - {text: "The camera seemed to be kept very, very far away from him.", start: 306.03, end: 308.31}
+  - {text: "It was an example of the way in which actually you need professional television crews to provide decent coverage.", start: 308.41, end: 314.13}
+  - {text: "But also all the major networks including the BBC have said they're not going to air any of that footage supplied by the White House and", start: 314.29, end: 321.41}
+  - {text: "if people are filming things on their mobile phone or some of the other TV outlets were to provide some pictures, the major networks will not be using them on any day.", start: 321.41, end: 329.15}
+  - {text: "We've withdrawn network TV coverage.", start: 329.15, end: 331.65}
+  - {text: "Of course the President has other ways of reaching people.", start: 331.83, end: 335.07}
+  - {text: "He can boast on truth social.", start: 335.27, end: 336.81}
+  - {text: "He can put out a video on social media channels.", start: 337.05, end: 339.83}
+  - {text: "You know, think even if he does have other ways of getting his message out he will miss being on television.", start: 340.09, end: 344.81}
+  - {text: "Our North America editor Sarah Smith.", start: 345.17, end: 347.53}
+  - {text: "Presidents, Prime Ministers and the world's top diplomats are coming together in New York for the UN General Assembly.", start: 348.83, end: 356.09}
+  - {text: "But with the backdrop of wars in the Middle East and the ongoing conflict between Russia and Ukraine there will no doubt be some tense exchanges.", start: 356.09, end: 365.01}
+  - {text: "Iran is reportedly sending a delegation to the Assembly but there's no word on whether talks with President Trump are scheduled to take place on the sidelines.", start: 365.55, end: 375.21}
+  - {text: "Our State Department correspondent Tom Bateman said there's a lot of ground to cover.", start: 375.75, end: 380.67}
+  - {text: "One of the things we've done here is to check out the escalators.", start: 381.19, end: 385.07}
+  - {text: "They are working inside.", start: 385.07, end: 386.91}
+  - {text: "Because remember it was last year that President Trump when he came to make his big speech here got stuck on the escalator on the way in with the first lady Melania Trump", start: 387.49, end: 395.27}
+  - {text: "and used that really in his view as a symbol of what he saw as the UN's dysfunction.", start: 395.27, end: 401.39}
+  - {text: "Then proceeded a year ago to rail against countries here and the organisation itself particularly over the issue of immigration saying that countries were in his words going to hell.", start: 401.91, end: 413.27}
+  - {text: "Now will we get a similar kind of sense from Mr Trump probably but also there's some really important diplomacy happening here again.", start: 413.27, end: 421.43}
+  - {text: "He will meet President Zelensky of Ukraine.", start: 421.87, end: 424.31}
+  - {text: "He desperately needs some kind of resolution on the issue of both Russian Ukraine targeting each other's energy targets.", start: 424.77, end: 432.03}
+  - {text: "That's causing further problems when it comes to diesel and the cost of that in the United States.", start: 432.45, end: 436.91}
+  - {text: "Political problem for him.", start: 437.25, end: 438.37}
+  - {text: "He will also meet Gulf leaders as again he desperately needs some kind of resolution over oil exports via the Strait of Hormuz and elsewhere in the Middle East.", start: 438.67, end: 447.33}
+  - {text: "And then he will have that meeting with Prime Minister Andy Burnham.", start: 447.61, end: 450.97}
+  - {text: "A question about how much these behind the scenes meetings will actually even be seen because of his current huge escalating dispute with the media in the United States.", start: 451.31, end: 461.31}
+  - {text: "Our State Department correspondent Tom Bateman.", start: 461.79, end: 464.63}
+  - {text: "We've reported recently on the rapid advance made by Iran backed Houthis in Yemen to the country's Red Sea coast.", start: 464.63, end: 472.76}
+  - {text: "It's marked an escalation in their war with Saudi backed forces and placed the Houthis in a position to control the Bab Al -Mandeb Strait, a crucial shipping route.", start: 473.30, end: 483.76}
+  - {text: "Now the British Prime Minister Andy Burnham has said the UK will provide support to Saudi Arabia in response to attacks the country has faced from the Houthis.", start: 484.06, end: 493.86}
+  - {text: "Mr Burnham said the UK would provide what he called defensive air to air refuelling.", start: 493.86, end: 499.72}
+  - {text: "Here's our political correspondent Chris Mason.", start: 500.08, end: 502.42}
+  - {text: "It's understood this refuelling support will begin in the coming days and will involve a single British aircraft or voyager based out of RAF Akratiri and Cyprus government officials say the offer is time limited", start: 503.06, end: 516.78}
+  - {text: "and likely in the first instance the last four weeks.", start: 516.78, end: 520.22}
+  - {text: "What is described as defensive support is seen as aiding Saudi Air Force jets attempting to shoot down incoming Houthi missiles and drones.", start: 520.22, end: 528.98}
+  - {text: "In recent days Houthi militants in Yemen said they have carried out attacks on the Saudi capital of Riyadh as well as energy sites on the country's Red Sea coast.", start: 529.82, end: 538.58}
+  - {text: "Meanwhile more than 3000 Yemenis have fled across the Red Sea to Djibouti to escape the fighting between the Houthis and the Saudi backed forces and", start: 539.22, end: 548.80}
+  - {text: "many more are likely to follow their lead.", start: 548.80, end: 551.22}
+  - {text: "The BBC's Frank Gardner visited a refugee camp in Obok, a small port town where officials are preparing for the arrival of up to 10 ,000 refugees.", start: 551.56, end: 561.94}
+  - {text: "I'm inside a warehouse here at the place called Obok which is on the Djibouti that's the African side of the Babel Mandir Strait that separates Africa from the Arabian peninsula and this warehouse is full of families,", start: 567.20, end: 581.70}
+  - {text: "hundreds of people here actually all together more than 3000 Yemenis who've come across in boats in the last few days fleeing the fighting in Yemen.", start: 581.92, end: 591.34}
+  - {text: "There's sand and tarpaulins on the floor, goats feeding amongst everybody but people are at least getting food.", start: 591.86, end: 598.04}
+  - {text: "They fled hungry and literally the clothes they're standing up in and the thing that they're terrified of most are the airstrikes the bombs that fall on their houses, on their children, on their families.", start: 598.50, end: 610.86}
+  - {text: "One of those I met here is Qasim Ibrahim Abzib, a former fisherman, he's old and frail in fact his ID card says he was born", start: 614.08, end: 621.78}
+  - {text: "a hundred years ago I found him sitting on a tarpaulin having arrived last Friday and he was eager to talk.", start: 621.78, end: 628.34}
+  - {text: "I asked him what brought him to this place.", start: 628.84, end: 630.88}
+  - {text: "I came here to this camp What led us to come here?", start: 631.42, end: 637.62}
+  - {text: "It was the plane, the sound of the planes, whom?", start: 638.32, end: 641.68}
+  - {text: "Sitting next to him is his wife Aisha Abu Qadir.", start: 642.86, end: 645.82}
+  - {text: "She's apparently the same age and yet despite her all deal she hasn't given up on going back to Yemen and the life they had before.", start: 646.28, end: 653.30}
+  - {text: "We are willing to go back if there's peace and we are praying to God that peace does return.", start: 658.36, end: 663.50}
+  - {text: "All we need is peace even for our children's future.", start: 664.16, end: 666.40}
+  - {text: "They get safety first, then food, water and an education.", start: 666.72, end: 670.76}
+  - {text: "As you see we just fled with our clothes and left everything behind because there is no peace.", start: 671.68, end: 676.38}
+  - {text: "Not all the refugees here in this camp are new arrivals.", start: 679.74, end: 682.68}
+  - {text: "Just under 3000 Yemenis were already here having fled when fighting first fled up between the Houthis and the Saudi -backed coalition in 2015.", start: 683.02, end: 691.72}
+  - {text: "Mohammed Abdul Karim has been here in this camp ever since.", start: 692.40, end: 695.96}
+  - {text: "Most of the people here are in the worst condition.", start: 699.02, end: 701.84}
+  - {text: "Inside the tents here, I'm very touched.", start: 702.16, end: 704.58}
+  - {text: "I'm crying for these people, for my people, for their suffering.", start: 705.00, end: 708.18}
+  - {text: "I want our voices to be heard by the NGOs and the Djibouti government and I'm thankful to them for accepting us.", start: 709.00, end: 714.60}
+  - {text: "I'm thankful to these people.", start: 714.60, end: 715.50}
+  - {text: "Mohammed breaks off, turning his face away.", start: 719.27, end: 722.15}
+  - {text: "I can see he's choking back tears.", start: 722.95, end: 724.81}
+  - {text: "This country, Yemen, was once called Arabia Felix by the Romans.", start: 725.81, end: 729.29}
+  - {text: "Happy Arabia. Today it's anything but.", start: 729.93, end: 733.05}
+  - {text: "Frank Gardner in Djibouti.", start: 734.27, end: 736.47}
+  - {text: "The FIFA president, Shiani Infantino, sparked an international outcry earlier this year with his proposal to privatise the football world camp.", start: 737.08, end: 745.76}
+  - {text: "Now he's following up on that by saying he's open to reforms at football's governing body.", start: 745.78, end: 751.56}
+  - {text: "In a letter sent to all member associations, he suggested an external review of how FIFA makes its decisions and who should have a say.", start: 752.10, end: 760.60}
+  - {text: "Our sports correspondent, Ben Croucher, has been telling me more.", start: 761.06, end: 764.76}
+  - {text: "I think there's three interesting things to come out of this letter.", start: 765.36, end: 768.66}
+  - {text: "One, the confirmation, if we really needed it, that the proposals to sell off stakes in major tournaments would not proceed.", start: 768.66, end: 775.76}
+  - {text: "He insisted that FIFA's democratic processes and independence and sporting authority were never for sale.", start: 776.10, end: 781.84}
+  - {text: "He added, I recognise without the full context it had caused concern and created the impression that decisions had already been taken.", start: 781.96, end: 787.78}
+  - {text: "They had not. Couple of other things that are particularly interesting.", start: 788.36, end: 792.10}
+  - {text: "One, he's proposing to create an independent external review into a way that FIFA is run.", start: 792.32, end: 798.76}
+  - {text: "And perhaps the most crucial for football associations around the world is proposed direct consultation with the Confederations themselves, member associations, i .e.", start: 798.76, end: 808.34}
+  - {text: "the different countries football associations and stakeholders in FIFA's decision -making processes.", start: 808.52, end: 814.18}
+  - {text: "Now this letter has been sent to all 211 member associations ahead of a FIFA council meeting on October 15th next month.", start: 814.40, end: 821.52}
+  - {text: "He nearly lost his job over the last proposals that you just talked about there.", start: 821.72, end: 828.10}
+  - {text: "Is this enough? Is he back in the fold?", start: 828.10, end: 830.30}
+  - {text: "Has there been any response yet?", start: 830.76, end: 832.34}
+  - {text: "So there's been no response just yet.", start: 832.54, end: 834.52}
+  - {text: "The key response I think that we're all looking out for is the way that European football's governing body, UEFA, responds to this.", start: 834.74, end: 840.58}
+  - {text: "They were probably Infantino's most harsh critic over this.", start: 840.68, end: 844.66}
+  - {text: "They united all of their members, essentially slamming the initial proposals and especially the way that Infantino conducted himself.", start: 844.78, end: 851.62}
+  - {text: "The important subtext to all of this is that Infantino is running for re -election as FIFA president next March.", start: 852.12, end: 860.56}
+  - {text: "Now this letter, it appears to be a slight softening of his stance.", start: 861.16, end: 864.44}
+  - {text: "He's admitted to causing concern.", start: 864.60, end: 866.34}
+  - {text: "He says it was only a proposal, it wasn't set in stone, but given the level of animosity that there was for Infantino in the way he handled the initial proposals,", start: 866.50, end: 874.18}
+  - {text: "it's going to be really interesting now to see how the Confederations line themselves up, especially given the fact that the deadline to nominate oneself for", start: 874.78, end: 883.62}
+  - {text: "the FIFA presidency doesn't come too far away in the middle of November.", start: 883.62, end: 887.92}
+  - {text: "Would these proposals make real changes to the world of football, or if he did get re -elected, would we be just back to business as usual?", start: 888.48, end: 897.90}
+  - {text: "I think the general assumption around FIFA at the moment is what Infantino wants and Infantino gets.", start: 898.62, end: 904.84}
+  - {text: "We saw the way that the World Cup was run and the difficulty that FIFA got into over their ticketing policies and how their pricing was structured", start: 904.98, end: 912.30}
+  - {text: "and the amount of money that they were generating and was that necessarily good for fans, whereas actually by allowing the Confederations and the football associations to have a greater say,", start: 912.30, end: 922.84}
+  - {text: "the idea is that those fans of those particular football associations and bear in mind that the English FA and the Spanish FA may have completely different priorities to say the Jamaican FA", start: 923.42, end: 932.90}
+  - {text: "or the New Zealand FA or some of the much smaller FIFA nations.", start: 932.90, end: 937.58}
+  - {text: "So by giving all of them a little bit more of a voice, the idea is that it should become a little bit more democratic, whether that works in practice, only time will tell.", start: 937.86, end: 947.70}
+  - {text: "Our sports correspondent, Ben Croucher.", start: 948.04, end: 950.94}
+  - {text: "Still to come in this podcast.", start: 952.53, end: 954.63}
+  - {text: "I want to be clear about something right up front.", start: 955.05, end: 958.66}
+  - {text: "This settlement is not a vote of support for this merger.", start: 959.74, end: 964.70}
+  - {text: "It is not a blessing of the broader merger.", start: 965.22, end: 968.54}
+  - {text: "Paramount Skydance finally cuts a deal to unlock its $110 billion merger with Warner Brothers Discovery.", start: 969.14, end: 976.86}
+  - {text: "This is the Global News Podcast.", start: 984.14, end: 986.02}
+  - {text: "More than three decades after the Rwanda genocide, a doctor in Britain has become the first person to be charged in the UK in connection with the killing of around 800 ,000 ethnic Tutsis and politically moderate Hutus.", start: 987.06, end: 1002.22}
+  - {text: "Vincent Brown is from the Rwandan capital Kigali where he is alleged to have directed and incited people to murder members of the Tutsi ethnic group.", start: 1002.76, end: 1013.20}
+  - {text: "He was charged after a lengthy investigation by London's Metropolitan Police.", start: 1013.52, end: 1018.06}
+  - {text: "Tom Simons has more.", start: 1018.54, end: 1019.76}
+  - {text: "The 1994 killings in Rwanda lasted 100 days, during which Hutu extremists carried out a campaign of slaughter against Tutsis and other moderate Hutus.", start: 1020.40, end: 1032.12}
+  - {text: "It followed a three -year civil war.", start: 1032.70, end: 1034.90}
+  - {text: "The Metropolitan Police war crimes team has been investigating since 2019 at the request of the government of Rwanda.", start: 1034.90, end: 1042.44}
+  - {text: "It has focused on genocide in the Regenge district of Kigali in April 1994.", start: 1043.00, end: 1048.30}
+  - {text: "Dr Vincent Brown from Islington in North London, formerly Dr Vincent Virginia, has been charged with one offence of conduct ancillary to genocide and six offences of conduct ancillary to murder", start: 1049.56, end: 1062.72}
+  - {text: "as a crime against humanity under international law.", start: 1062.72, end: 1066.24}
+  - {text: "Senior police officers have previously stressed the UK should not be a safe haven for alleged war criminals.", start: 1066.72, end: 1073.42}
+  - {text: "Investigators have been trained in international war crimes legislation and inquiries continue into other alleged genocide offences in Rwanda.", start: 1074.08, end: 1083.38}
+  - {text: "Tom Simons reporting. European leaders are warning of the possibility that Russia might attack NATO territory with drones or missiles in the coming months.", start: 1083.78, end: 1094.60}
+  - {text: "One country that's seen as a possible target is Lithuania.", start: 1095.14, end: 1098.16}
+  - {text: "It borders Kaliningrad region, the heavily militarized westernmost exclave of Russia, and just last week NATO fighter pilot shot down a drone that entered its airspace.", start: 1098.70, end: 1110.96}
+  - {text: "Now the Lithuanian prime minister says his country has made evacuation plans in the face of military threats from Russia.", start: 1111.42, end: 1119.60}
+  - {text: "Mengdagas Sinkavuchis was speaking in a BBC interview.", start: 1119.60, end: 1124.42}
+  - {text: "We're threatened, constantly threatened, not just by drones entering our airspace, but also there's attempts previously with meteorological balloons and smuggling cigarettes, but also threats on our civil aviation.", start: 1124.98, end: 1138.88}
+  - {text: "If a drone flies in and enters Lithuania in airspace, people in the area receive either yellow or red alarm to go to the shelter.", start: 1139.68, end: 1149.40}
+  - {text: "So it's a alarming thing.", start: 1149.96, end: 1151.28}
+  - {text: "In the middle of the night you receive an alarm that's not a good emotional situation.", start: 1151.62, end: 1157.46}
+  - {text: "In case we're attacked, we will not surrender.", start: 1157.88, end: 1161.54}
+  - {text: "There are plans prepared for evacuation.", start: 1162.02, end: 1164.40}
+  - {text: "There will be groups of people handicapped, elderly people that will be priority, that will be needed to be assisted and there will be routes that we're thinking over because, of course, the evacuation starts from a major city.", start: 1165.28, end: 1180.64}
+  - {text: "In the worst case scenario, we'll have to think it over how we will proceed and how we will make it smoothly, not be stuck in a traffic jam, not moving anywhere.", start: 1180.92, end: 1190.56}
+  - {text: "So we're thinking about a variety of scenarios.", start: 1190.74, end: 1193.42}
+  - {text: "Not all of them are being discussed publicly.", start: 1193.68, end: 1195.66}
+  - {text: "We face concrete threats, not on a daily basis, but it's a true reality for us.", start: 1196.24, end: 1201.30}
+  - {text: "Drones flying in with 10 kilos of explosives and we have to counter -fight it.", start: 1201.64, end: 1207.34}
+  - {text: "We have jets that attack it and hit the drone.", start: 1207.54, end: 1209.82}
+  - {text: "So that's a real threat.", start: 1210.28, end: 1211.82}
+  - {text: "That was the Lithuanian Prime Minister Mindagas Sinkavutis talking to the BBC's Newsnight programme.", start: 1212.90, end: 1219.30}
+  - {text: "After months of legal wrangling, the media giant Paramount Skydance has reached a settlement with a California -led group of U .S.", start: 1220.52, end: 1228.50}
+  - {text: "states and a Hollywood Writers' Union.", start: 1228.64, end: 1231.00}
+  - {text: "They were suing it in order to block its proposed $110 billion merger with Warner Brothers Discovery.", start: 1231.28, end: 1237.84}
+  - {text: "Announcing the agreement, the California Attorney General, Rob Bonta, said he still had misgivings.", start: 1238.28, end: 1244.52}
+  - {text: "I want to be clear about something right up front.", start: 1245.06, end: 1248.77}
+  - {text: "This settlement is not a vote of support for this merger.", start: 1249.85, end: 1254.81}
+  - {text: "It is not a blessing of the broader merger.", start: 1255.45, end: 1258.63}
+  - {text: "But opponents of the settlement have accused Rob Bonta of caving in to wealthy interests.", start: 1259.25, end: 1264.67}
+  - {text: "Irony Wells reports on the background to the dispute and what this settlement deal will mean.", start: 1265.17, end: 1270.43}
+  - {text: "So these 12 U .S.", start: 1271.03, end: 1272.59}
+  - {text: "states were unhappy about the idea of a merger between Paramount and Warner Brothers Discovery, essentially arguing that it would impact competition and also film production as well.", start: 1272.67, end: 1285.05}
+  - {text: "The states were pretty clear that this deal that's been reached now doesn't mean that they endorse the merger.", start: 1285.77, end: 1291.57}
+  - {text: "They would still rather the merger didn't take place.", start: 1291.67, end: 1294.27}
+  - {text: "But it has met certain criteria for them that will now pave the way, essentially, for this merger to continue.", start: 1294.61, end: 1302.15}
+  - {text: "Some of what Paramount has agreed to includes meeting certain minimum thresholds of film production to try and make sure that a minimum amount of film production is kept within the United States,", start: 1302.69, end: 1314.33}
+  - {text: "but also that a minimum number of films are produced.", start: 1314.47, end: 1317.51}
+  - {text: "And this includes committing to producing at least 30 films in the first two years of the deal and 32 films for the next three years.", start: 1317.51, end: 1325.87}
+  - {text: "A certain percentage of those will have to be independent films, a certain percentage also blockbusters.", start: 1326.37, end: 1331.31}
+  - {text: "Now another aspect that was a concern for these U .S.", start: 1331.87, end: 1334.61}
+  - {text: "states was about editorial independence for some of the news brands, notably CBS News and CNN.", start: 1334.69, end: 1341.53}
+  - {text: "So another part of this deal is that Paramount have agreed to essentially establish an independent editorial board to ensure that those two newsrooms retain their editorial independence", start: 1341.93, end: 1354.73}
+  - {text: "and can still report impartially on the news.", start: 1354.73, end: 1357.91}
+  - {text: "I Only Worlds. As most professional athletes will know, dealing with hostile crowds is a big part of the job.", start: 1358.57, end: 1366.62}
+  - {text: "But when does booing stop being part of the fun and crossover into unacceptable abuse?", start: 1366.88, end: 1373.32}
+  - {text: "It's a question being asked in the World of Darts right now after comments from the World Champion, Britain's Luke Littler.", start: 1373.32, end: 1381.84}
+  - {text: "Will Chalk told me more about him.", start: 1382.42, end: 1384.42}
+  - {text: "If you're not a darts fan, I'd say here in the UK, actually, he's bordering on being a household name.", start: 1385.10, end: 1390.92}
+  - {text: "I think if you went into a pub where people were watching sports on a Saturday, most people would have heard of Luke Littler, which is slightly unusual for someone in the kind of relatively niche sport of darts, but then he is an unusual athlete.", start: 1390.96, end: 1403.64}
+  - {text: "I mean, he turned pro at 16 on the PDC World Championship at 17, that's the youngest anyone has ever done that, is now still just 19 years old", start: 1403.92, end: 1413.58}
+  - {text: "and has won almost every major darts trophy there is.", start: 1413.58, end: 1417.16}
+  - {text: "If you want a sense of how well he's thought of in the world of darts, this is from a trailer from a BBC documentary about him.", start: 1417.40, end: 1424.06}
+  - {text: "There is certainly nothing that's ever been seen like it in darts before.", start: 1424.52, end: 1427.68}
+  - {text: "What have you made of Luke's journey so far?", start: 1427.86, end: 1429.50}
+  - {text: "I'm sick of talking about it.", start: 1429.50, end: 1430.76}
+  - {text: "Every 17 years a star gets born and he's one of them.", start: 1431.70, end: 1435.00}
+  - {text: "He has taken darts into the stratosphere.", start: 1435.30, end: 1438.76}
+  - {text: "It's a lot of massive praise there, but he is also a controversial figure in some circles, and over the weekend he was once again targeted by booze", start: 1439.54, end: 1449.04}
+  - {text: "and whistles when he was playing at the World Series of Darts in Amsterdam.", start: 1449.04, end: 1453.48}
+  - {text: "It got so bad that the ref had to stop at one point and tell the crowd to calm down.", start: 1453.78, end: 1458.28}
+  - {text: "He eventually got knocked out of the tournament, but crucially he's now said that he might not ever play in the Netherlands again.", start: 1458.28, end: 1465.26}
+  - {text: "Now you might be thinking, empty threat.", start: 1466.00, end: 1467.84}
+  - {text: "Well, maybe not because he's got previous for this.", start: 1468.42, end: 1471.10}
+  - {text: "So after being booed in Germany earlier this year, he pulled out of some European tour events there.", start: 1471.28, end: 1476.68}
+  - {text: "So, crazy as it might sound for someone at the start of their career, there are some now questioning whether this will seriously impact his future.", start: 1477.02, end: 1484.46}
+  - {text: "One of them is Samuel Gill, who is the editor of DartNews .com.", start: 1484.78, end: 1489.16}
+  - {text: "I think there's a real fear that within a few years he won't...", start: 1489.90, end: 1493.04}
+  - {text: "he'll just turn around and walk away from the sport, really.", start: 1493.04, end: 1495.62}
+  - {text: "Especially in nowadays given you get like a million pounds for winning the World Championship.", start: 1496.46, end: 1500.48}
+  - {text: "So he could be set up by the time he's 25 and then just decide I'm not doing this anymore.", start: 1500.76, end: 1505.06}
+  - {text: "So will it, it all sounds horrible, but why?", start: 1505.78, end: 1508.78}
+  - {text: "Why are the fans booing him?", start: 1508.98, end: 1510.60}
+  - {text: "I mean, it's not very journalistic of me, Alex, but the short answer is you would have to ask the fans themselves.", start: 1511.38, end: 1516.44}
+  - {text: "There's no way I can look inside the head of a booing fan at the Darts.", start: 1516.44, end: 1520.12}
+  - {text: "I can offer some possible explanations.", start: 1520.30, end: 1522.56}
+  - {text: "I mean, number one is that Darts is known for its raucous atmosphere and people also quite like to have a beer or two or three or four, perhaps, when they go to the Darts.", start: 1523.62, end: 1533.10}
+  - {text: "So booing is nothing unusual in that type of atmosphere.", start: 1533.32, end: 1536.30}
+  - {text: "Luke Little though clearly thinks he has been unfairly targeted, but that actually might be playing into this as well, because he's made comments about the booing before.", start: 1537.10, end: 1545.96}
+  - {text: "So there could be an argument that he's put a bit of a target on his back because the fans now know it gets to him, so they're doing it even more.", start: 1545.96, end: 1552.84}
+  - {text: "I can tell you from the comments we got on the BBC Sport website as well that there are people who think he's perhaps guilty of being a bit cocky at times.", start: 1553.38, end: 1560.62}
+  - {text: "He is still 19 years old though.", start: 1561.16, end: 1562.94}
+  - {text: "It's a loss of pressure he's taken on and lots of people who know him think the problem is that he's simply too good, he wins too much and that annoys people.", start: 1563.02, end: 1569.84}
+  - {text: "Never put a target on your back if you're a Darts player.", start: 1570.56, end: 1573.62}
+  - {text: "Will Chalk reporting. And that's all from us for now.", start: 1573.62, end: 1579.40}
+  - {text: "If you want to get in touch you can email us at globalpodcast .bbc .co .uk.", start: 1579.78, end: 1585.74}
+  - {text: "You can also find us on X at BBC World Service.", start: 1586.36, end: 1589.40}
+  - {text: "Use the hashtag Global NewsPod.", start: 1589.66, end: 1592.12}
+  - {text: "And don't forget our sibling podcast, The Global Story, which goes in -depth and beyond the headlines on one big story.", start: 1592.44, end: 1601.42}
+  - {text: "This edition of the Global News Podcast was mixed by Pat Sissons and produced by Steven Jensen and Wendy Urquhart.", start: 1601.42, end: 1609.82}
+  - {text: "The editor is Karen Martin.", start: 1610.06, end: 1612.06}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1612.50, end: 1614.96}
+---
