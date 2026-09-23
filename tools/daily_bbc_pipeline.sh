@@ -16,6 +16,12 @@
 #   DL_DIR    download directory        (default "downloads/BBC Global News Podcast")
 #   SKIP_NOTES=1   skip the Qwen A2-notes stage
 #
+# Qwen lifecycle: the notes stage needs sglang-qwen.service on 127.0.0.1:30000.
+# If it is not already serving, this script starts it and — unlike the manual
+# sequence in work/HOST-NOTES.md — stops it again when the run ends, so the
+# ~9 GB of resident model memory is not held for the remaining ~23.9 h of the
+# day. If it was already serving (a human started it), it is left alone.
+#
 # Logs: journal (`journalctl --user -u bbc-daily`) and work/logs/bbc-daily-*.log
 # ---------------------------------------------------------------------------
 set -uo pipefail
@@ -136,6 +142,11 @@ run_publish() {
 }
 
 # --- stage 3: A2 notes via Qwen -------------------------------------------
+# Set to 1 only when *this run* is what brought the service up. A daily timer
+# has no business leaving an inference server resident all day: on 2026-09-22
+# it started Qwen at 18:05 and the process was still holding ~9 GB at 19:45.
+QWEN_STARTED_BY_US=0
+
 ensure_qwen() {
     if curl -sf -o /dev/null --max-time 8 "$QWEN_HEALTH"; then
         log "qwen: already serving"
@@ -143,6 +154,9 @@ ensure_qwen() {
     fi
     log "qwen: starting sglang-qwen.service (model load takes ~2 min)"
     systemctl --user start sglang-qwen.service 2>&1 || warn "could not start sglang-qwen.service"
+    # Recorded before the readiness poll: even if the model never becomes
+    # healthy, we are still the ones who started the unit and must not leak it.
+    QWEN_STARTED_BY_US=1
     local i
     for i in $(seq 1 60); do
         sleep 10
@@ -152,6 +166,23 @@ ensure_qwen() {
         fi
     done
     return 1
+}
+
+# Undo ensure_qwen, but only if ensure_qwen is what started it. Registered as an
+# EXIT trap so every path is covered: the notes stage failing, a later `fail`,
+# or an interrupted run all put Qwen back the way we found it.
+release_qwen() {
+    [ "$QWEN_STARTED_BY_US" = "1" ] || return 0
+    QWEN_STARTED_BY_US=0
+    log "qwen: stopping sglang-qwen.service (started by this run; notes are done)"
+    if ! systemctl --user stop sglang-qwen.service 2>&1; then
+        warn "could not stop sglang-qwen.service — stop it manually"
+        return 0
+    fi
+    # SGLang's shutdown does not always answer the TERM in time, and systemd
+    # then records the unit as failed/killed. Clear that so the next run (and
+    # `systemctl --user status`) starts from a clean slate.
+    systemctl --user reset-failed sglang-qwen.service 2>/dev/null || true
 }
 
 run_notes() {
@@ -216,6 +247,9 @@ commit_notes() {
 }
 
 # --- main ------------------------------------------------------------------
+# Registered before any stage can start Qwen, so no exit path can skip it.
+trap release_qwen EXIT
+
 log "=== daily BBC pipeline start (show=$SHOW) ==="
 sync_site
 

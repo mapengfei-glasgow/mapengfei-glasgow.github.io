@@ -1,0 +1,265 @@
+---
+layout: single
+title: "US and Iran hold talks on sidelines of UN General Assembly"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-23T00:00:00Z
+slug: "2026-09-23-us-and-iran-hold-talks-on-sidelines-of-un-general-assembly"
+audioDir: "2026-09-23-us-and-iran-hold-talks-on-sidelines-of-un-general-assembly"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-23-us-and-iran-hold-talks-on-sidelines-of-un-general-assembly/episode.mp3"
+totalDuration: 1647.6
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.94}
+  - {text: "I'm Alex Ritzen and in the early hours of Wednesday, the 23rd of September, these are our main stories.", start: 5.91, end: 12.89}
+  - {text: "Donald Trump hails what he calls a productive meeting with Iranian officials on the sidelines of the UN General Assembly.", start: 13.37, end: 20.43}
+  - {text: "Meanwhile, the US introduces global sanctions that could ground most Iranian aircraft.", start: 20.95, end: 26.37}
+  - {text: "An organised crime group shuts down parts of Colombia's Caribbean coast, prompting the president to send in the army.", start: 26.37, end: 34.01}
+  - {text: "Also in this podcast, how an entrepreneur in Ghana turns waste plastic packaging into school desks.", start: 36.94, end: 44.28}
+  - {text: "And... The longer this book is on sale, the more egregious the damage from the defamation becomes.", start: 44.74, end: 50.76}
+  - {text: "A call for El Spencer's book about Princess Diana to be pulped because of a factual error.", start: 51.06, end: 56.78}
+  - {text: "The war in Iran was always going to dominate this year's United Nations General Assembly.", start: 61.13, end: 66.61}
+  - {text: "The annual gathering of leaders and officials from around the world is an opportunity for diplomacy and on Tuesday there were direct talks between the US", start: 67.01, end: 75.81}
+  - {text: "and Iran for the first time in months.", start: 75.81, end: 78.03}
+  - {text: "But it's also an occasion for fiery speeches and rhetoric.", start: 78.39, end: 81.65}
+  - {text: "And when President Trump addressed the assembly, he included a threat of extreme action against Iran.", start: 82.03, end: 88.35}
+  - {text: "I have a big decision to make.", start: 88.35, end: 90.37}
+  - {text: "Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?", start: 91.92, end: 101.20}
+  - {text: "Maybe one of the greatest in the Middle East or even the world?", start: 102.08, end: 105.44}
+  - {text: "Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again?", start: 106.30, end: 116.52}
+  - {text: "Do I drive them into hell with no chance of survival and no hope of future greatness or generations?", start: 116.52, end: 124.02}
+  - {text: "But I believe we'll make a deal right after the election.", start: 125.04, end: 128.52}
+  - {text: "Meanwhile, on the sidelines of the General Assembly, Mr Trump's chief envoys, Steve Witkoff and Jared Kushner, spent three hours in talks with Iran's Foreign Minister Abbas Aragchi.", start: 129.02, end: 140.30}
+  - {text: "Mr Trump said afterwards the talks had been productive, while Iranian state media said the main reason for the discussions had been to convey Tehran's conditions for reopening the Strait of Hormuz.", start: 140.66, end: 151.52}
+  - {text: "I asked our State Department correspondent Tom Bateman what else had come out of that meeting.", start: 152.04, end: 157.18}
+  - {text: "It was a three -hour meeting, so clearly it covered a lot of ground.", start: 157.62, end: 162.40}
+  - {text: "I think it is almost certain that the fate of the Strait of Hormuz was a key part of that.", start: 162.98, end: 167.42}
+  - {text: "Now, there is a sense from at least one Iranian official of a preparedness to lower the demands on the Iranian side with the Americans.", start: 167.42, end: 177.56}
+  - {text: "Now, that may be a result of the punishing economic blockade that the Americans have in place, which is continuing to put this massive pressure on the regime.", start: 177.78, end: 185.94}
+  - {text: "This Iranian official is saying basically that they would be prepared to reopen the Strait of Hormuz within a week if the Americans remove their naval", start: 186.52, end: 194.14}
+  - {text: "blockade of Iranian ports plus some other measures.", start: 194.14, end: 197.28}
+  - {text: "But these are not the same extensive list of demands that the Iranians had previously in order to reopen the Strait of Hormuz.", start: 197.60, end: 204.76}
+  - {text: "So there is a feeling of the potential for progress.", start: 205.02, end: 207.50}
+  - {text: "Although Donald Trump seems to be foreclosing the idea there won't be a deal before the midterm elections in the US, which aren't until early November.", start: 207.68, end: 214.84}
+  - {text: "Having said that, I was standing outside the UN building here when Steve Wykoff walked out with his sunglasses on.", start: 215.56, end: 222.38}
+  - {text: "My colleague, Nedotofiq, shouted to him to ask how the meeting with the Iranians had gone.", start: 222.38, end: 227.04}
+  - {text: "He gave us a big thumbs up and he has certainly been briefing out that in his view the meeting went very well.", start: 227.14, end: 232.22}
+  - {text: "He does tend to put a positive spin on things even if that isn't absolutely the case.", start: 232.42, end: 236.10}
+  - {text: "This meeting is significant because there hasn't been a meeting at that level between the Iranians and the Americans since about June and that was when the Vice President,", start: 236.48, end: 245.20}
+  - {text: "JD Vance, was meeting the Iranians in Pakistan.", start: 245.28, end: 247.80}
+  - {text: "So, perhaps it looks like a potential for dialogue is back open, but we have been here many times before where it has felt like the potential for progress is there and it simply hasn't materialised.", start: 248.40, end: 259.24}
+  - {text: "And on the other hand, you have Mr Trump repeating the threat to annihilate quotes and drive into hell Iran.", start: 259.52, end: 266.16}
+  - {text: "Now, he's made those threats on social media before he's done it in the Oval Office.", start: 266.36, end: 269.70}
+  - {text: "Here he's doing it in front of more than 190 countries of the world, the body that was meant to be around getting peace and security through dialogue and diplomacy.", start: 269.86, end: 277.02}
+  - {text: "So, it tells you something about where we are and also, frankly, how kind of normalised some of these threats have become now.", start: 277.02, end: 282.80}
+  - {text: "But having said all that, it does feel like potentially the door opening on some diplomacy again.", start: 283.28, end: 289.20}
+  - {text: "Mr Trump also held talks with President Zelensky on the sidelines of the United Nations General Assembly.", start: 289.79, end: 298.99}
+  - {text: "Do we know what they discussed?", start: 299.23, end: 300.83}
+  - {text: "How the Ukraine war is playing into Donald Trump's thoughts?", start: 301.05, end: 303.93}
+  - {text: "Well, I think it's almost certain that President Trump will have repeated his strong desire that Ukrainian long -range drone and missile strikes against Russian energy facilities are brought to an end.", start: 304.54, end: 317.76}
+  - {text: "But the framework for that is now accepted to have to be some kind of arrangement or agreement between the Russians and the Ukrainians.", start: 318.12, end: 326.06}
+  - {text: "You know, Mr Trump had said a couple of weeks ago that Russia and Ukraine had reached an agreement on not striking each other's energy targets.", start: 326.16, end: 333.62}
+  - {text: "That just simply did not materialise, it just wasn't the case.", start: 334.18, end: 337.12}
+  - {text: "But there's obviously pressure there from the Americans.", start: 337.24, end: 338.82}
+  - {text: "And the reason for that, of course, is because Ukraine's been hitting energy targets.", start: 339.24, end: 342.88}
+  - {text: "The Russians have been firing, as ever, at both civilian and energy targets and the power grid in Ukraine.", start: 343.06, end: 349.56}
+  - {text: "The reason Mr Trump is particularly concerned at the moment is because Russia has, for some time, stopped exporting diesel.", start: 350.34, end: 356.44}
+  - {text: "It's the second biggest export in the world after the United States.", start: 357.18, end: 360.20}
+  - {text: "The cost of diesel here in the US is at record levels.", start: 360.20, end: 363.66}
+  - {text: "That's affecting the haulage industry and farming.", start: 363.90, end: 367.16}
+  - {text: "And that is a political nightmare for Mr Trump because it's simply making worse this cost of living issue for Americans, which, according to the poll link,", start: 367.58, end: 375.46}
+  - {text: "his party stands set to be punished for at the coming midterm elections in November.", start: 375.68, end: 380.24}
+  - {text: "So that is a key political priority for Mr Trump.", start: 380.60, end: 383.32}
+  - {text: "And beyond the ongoing aspiration to get an end to the war between Russia and Ukraine, you know, stopping those strikes will have been a key part of those discussions.", start: 383.62, end: 392.78}
+  - {text: "Our State Department correspondent, Tom Bateman.", start: 393.22, end: 396.32}
+  - {text: "Some of the last remaining international flights out of Iran were cancelled overnight as the latest US sanctions came into force, targeting anyone providing services to Iranian airlines.", start: 397.34, end: 408.50}
+  - {text: "It's all part of a switch in tactics from Washington.", start: 408.98, end: 411.66}
+  - {text: "I asked our Middle East analyst, Sebastian Ascher, what this means and whether the US has the right to do it.", start: 412.08, end: 419.00}
+  - {text: "Well, you could ask what right did the US have to invade Iran in the first place?", start: 419.24, end: 423.36}
+  - {text: "I mean, this is essentially an extension of that.", start: 423.54, end: 425.40}
+  - {text: "The military firepower hasn't achieved what President Trump wanted it to, what the Israeli Prime Minister Benjamin Netanyahu wanted it to.", start: 425.52, end: 432.06}
+  - {text: "So there's been a switch to rather military action to economic pressure and that in the long term could probably work because, as everyone knows, Iran was in dire economic straits before the war started and even more so now.", start: 432.34, end: 447.38}
+  - {text: "What Scott Besant said was that this will close down Iranian airlines.", start: 447.64, end: 451.32}
+  - {text: "Now, economically, that may not have that huge an effect, but on the Iranian people, it's going to make it more difficult for people to get in and out.", start: 451.96, end: 460.40}
+  - {text: "Will the rest of the world, though, comply?", start: 460.98, end: 463.74}
+  - {text: "Well, these are sanctions, actually, which are not on the Iranian airlines.", start: 464.46, end: 468.54}
+  - {text: "They're on anyone who provides services to the Iranian airlines.", start: 468.54, end: 471.70}
+  - {text: "So in that sense, yes, because if you are providing services to Iranian airlines, what the US has a right to do, which is it can cut you off from the US financial system, that's what the threat is.", start: 471.94, end: 486.28}
+  - {text: "And the most important of those is Iraq.", start: 486.60, end: 488.64}
+  - {text: "I mean, the flights from Iran to Baghdad to Najaf, these are probably the biggest international routes that Iranian airways still are able to run.", start: 489.08, end: 499.86}
+  - {text: "And those from midnight Iranian local time have been closed down.", start: 500.30, end: 506.00}
+  - {text: "What about countries like Russia, China?", start: 506.22, end: 508.68}
+  - {text: "I mean, a key element of what the US has been trying to do economically, not really bothering too much about Russia seeing that perhaps as a lost cause,", start: 509.14, end: 518.18}
+  - {text: "but definitely trying to bring China on board.", start: 518.18, end: 519.92}
+  - {text: "And that's been the case with the oil blockade.", start: 520.08, end: 523.48}
+  - {text: "The fact that China is still the biggest market perhaps for Iranian oil has really got under the skin of the US, because that has given Iran still some kind of economic leeway,", start: 524.16, end: 537.04}
+  - {text: "a very little, it has to be said.", start: 537.14, end: 538.50}
+  - {text: "So yes, there would be, I guess, a hope from the US, but it would close down all the routes.", start: 538.96, end: 545.88}
+  - {text: "But yeah, in the case of Russia and China, that probably won't be the case.", start: 545.88, end: 548.78}
+  - {text: "But I think all the other routes pretty much that Iranian airways were still able to run routes to, I think they will be closed down.", start: 548.84, end: 557.30}
+  - {text: "It sounds like these could be pretty effective on top of all the other sanctions that we've already had.", start: 557.86, end: 562.96}
+  - {text: "At what point is it going to make a difference?", start: 563.02, end: 564.98}
+  - {text: "Well, essentially, the equation here is that the Iranian regime itself is able to soak up a lot of that, because the predicament of its people is not necessarily its most important priority, but they'll reach a point when that will become so bad again,", start: 565.34, end: 585.30}
+  - {text: "as we saw back in January, that people may come back onto the streets and the challenges will re -emerge from the people themselves.", start: 585.76, end: 593.70}
+  - {text: "Sebastian Asher. Sri Lanka's High Court has given long prison sentences to 15 men charged with plotting the Easter Sunday bomb attacks in 2019.", start: 594.20, end: 604.33}
+  - {text: "The coordinated blasts at churches and luxury hotels killed 270 people and injured more than 500.", start: 605.03, end: 612.03}
+  - {text: "Our global affairs correspondent and Barasan Etirajan told Valerie Sanderson what happened on the day of the attack.", start: 612.61, end: 619.59}
+  - {text: "These nine suicide bombers, they belonged to one of the homegrown Islamist groups.", start: 619.93, end: 624.75}
+  - {text: "They carried out these attacks.", start: 624.87, end: 626.39}
+  - {text: "There was a sense of shock and disbelief in Sri Lanka because this was after the end of the Civil War when Sri Lanka was more peaceful", start: 626.39, end: 634.09}
+  - {text: "and it became one of the popular tourist destinations.", start: 634.09, end: 636.89}
+  - {text: "All of a sudden, this attack happened.", start: 637.55, end: 639.57}
+  - {text: "It was well coordinated and well planned because they were targeting foreigners in these five -star hotels.", start: 639.67, end: 644.49}
+  - {text: "And also, the Sunday Mass was going on Easter Sunday Mass and that is when they targeted these worshipers.", start: 645.19, end: 650.41}
+  - {text: "And 45 foreigners were among those killed.", start: 651.13, end: 654.01}
+  - {text: "And then the government went after these groupings.", start: 654.01, end: 658.49}
+  - {text: "In fact, the then President, Maitri Palasari Sena, was accused of security lapse.", start: 658.65, end: 663.71}
+  - {text: "They did not follow up on intelligence provided by India.", start: 663.81, end: 666.39}
+  - {text: "In fact, two senior officials were sentenced to death for criminal negligence last month.", start: 666.91, end: 671.71}
+  - {text: "Now here comes this verdict.", start: 672.17, end: 673.43}
+  - {text: "This is the first direct court case involving those accused of supporting this Islamist group.", start: 673.57, end: 680.45}
+  - {text: "And tell us more about the men who've been convicted.", start: 680.45, end: 684.07}
+  - {text: "Now, one of the main persons here is Naufur Mawlawi.", start: 684.76, end: 690.06}
+  - {text: "The prosecutors accuse him of being the ringleader of this group.", start: 690.24, end: 693.64}
+  - {text: "And he was also charged with providing support to these suicide bombers who carried out these attacks.", start: 694.08, end: 701.18}
+  - {text: "And nine were found not guilty.", start: 701.76, end: 703.54}
+  - {text: "They were released and one person died in custody.", start: 703.76, end: 706.54}
+  - {text: "Of course, during the trial process, all of them denied any involvement.", start: 706.72, end: 710.92}
+  - {text: "But they belonged to the Sri Lanka's minority Muslim community and the communities was under intense scrutiny.", start: 711.60, end: 717.58}
+  - {text: "There were also lots of hate attacks after this incident happened.", start: 717.82, end: 721.26}
+  - {text: "But it also put the highlights on how far the Sri Lankan intelligence was prepared to listen to the warnings that these attacks could happen.", start: 721.72, end: 730.58}
+  - {text: "Is it admitted now it was a big lapse?", start: 730.80, end: 732.52}
+  - {text: "They did admit. And that is why two of the senior officials, one was the former police chief and the other was the defence secretary.", start: 733.00, end: 739.38}
+  - {text: "They were found guilty of criminal negligence and that's why they were given the death sentence.", start: 739.56, end: 744.26}
+  - {text: "And Barassan Atirajan. The British broadcaster Piers Morgan has called for a newly released book by Earl Spencer about Princess Diana to be pulled from the shelves because of a factual error.", start: 744.66, end: 757.57}
+  - {text: "Earl Spencer, who's Diana's brother, has apologized to Mr Morgan after wrongly describing him in the book as being editor of a British tabloid when it", start: 757.93, end: 767.33}
+  - {text: "published covert photos of Diana in the gym in 1993.", start: 767.33, end: 771.87}
+  - {text: "Mr Morgan has threatened to sue for what he called fabricated inaccuracies.", start: 772.83, end: 777.39}
+  - {text: "Royal correspondent Sean Cocklin reports.", start: 777.83, end: 780.49}
+  - {text: "Earl Spencer's controversial memoir has created some awkward headlines for the royal family and on a visit Prince William had to brush past questions.", start: 780.85, end: 788.99}
+  - {text: "So how do you feel about your uncle's book?", start: 789.57, end: 791.33}
+  - {text: "We love you. Have you read it?", start: 792.15, end: 793.41}
+  - {text: "But it was the author Earl Spencer who has faced more awkward questions as he's had to make an embarrassing apology to Piers Morgan for a factual error in the book.", start: 793.41, end: 802.73}
+  - {text: "In his account, Earl Spencer describes how he personally rang tabloid newspaper editors to withdraw the invitations to Diana's funeral in 1997.", start: 803.43, end: 812.29}
+  - {text: "This included Piers Morgan who the book blames for a mirror newspaper story that intruded on Diana's privacy with pictures of her exercising in a gym.", start: 813.37, end: 822.73}
+  - {text: "Except that Piers Morgan wasn't the paper's editor at the time and he's calling for the publication to be stopped.", start: 823.70, end: 830.30}
+  - {text: "He's apologised this afternoon for getting it completely wrong.", start: 830.60, end: 834.66}
+  - {text: "Again, describes himself as an historian and says it's his duty to correct the record.", start: 835.06, end: 839.84}
+  - {text: "But in that case, I am asking for the book to be withdrawn.", start: 840.38, end: 844.08}
+  - {text: "In a statement, the Earl said his account of his conversation with Mr Morgan was accurate but he wished to apologise that his assumption concerning his role of the mirror was wrong.", start: 844.48, end: 854.06}
+  - {text: "It's understood the publishers, Penguin, are planning to make a correction in future editions.", start: 854.86, end: 859.60}
+  - {text: "On motorcycle setting fire to trucks in the northern city of Santa Marta.", start: 889.45, end: 894.21}
+  - {text: "There's said to be members of a group calling itself the ACSN or the Conquering Self -Defense Forces of Sierra Nevada which controls cocaine trafficking routes.", start: 894.53, end: 904.91}
+  - {text: "In response, the Colombian President, Abolado de la Espría, has sent troops to the city.", start: 905.47, end: 910.89}
+  - {text: "We're going to fortify Santa Marta and defend it to show the bandits that when the state is determined it never loses.", start: 912.59, end: 919.97}
+  - {text: "Any bandit who refuses to surrender will be neutralized as the law requires.", start: 920.75, end: 925.17}
+  - {text: "We stand firm for our country.", start: 925.77, end: 927.29}
+  - {text: "Our Latin America expert from BBC monitoring Luis Fajardo told me more about what happened in Santa Marta.", start: 927.83, end: 935.47}
+  - {text: "Alex, these are really disturbing images for many Colombians who have been seeing these things happening in Santa Marta which is a fairly important tourist resort and provincial capital.", start: 935.65, end: 946.72}
+  - {text: "So not in the periphery but a rather important city in Colombia.", start: 947.42, end: 951.38}
+  - {text: "They have seen scenes of violence and intimidation throughout the day.", start: 951.74, end: 955.78}
+  - {text: "This criminal group announced what it called a paro armado, a armed strike which meant that they were basically ordering the city to shut down.", start: 956.30, end: 965.00}
+  - {text: "They were intimidating people in little shops, in buses.", start: 965.54, end: 969.58}
+  - {text: "They have burned a few vehicles and they have threatened people with violence if they did not accept their order to basically disrupt activities in the city.", start: 970.28, end: 979.74}
+  - {text: "This as a result of the killing of a couple of leaders of this criminal organization.", start: 979.92, end: 984.16}
+  - {text: "So a substantial spike of violence in this city and as the new government of Abelardo El Aspella has promised to intensify the combat against these illegal armed groups.", start: 984.70, end: 995.14}
+  - {text: "What do we know about this group and its aims?", start: 995.42, end: 998.68}
+  - {text: "The so -called conquistadores de la Sierra Conquerors of the Sierra operates as a regional criminal gang.", start: 999.24, end: 1005.32}
+  - {text: "It is not the most powerful criminal organization in Colombia.", start: 1005.68, end: 1008.96}
+  - {text: "It is one of many criminal groups that have organized regional control in many parts of the country using their armed force, their intimidation methods to advance in their illegal businesses, in this case drug trafficking.", start: 1009.20, end: 1023.56}
+  - {text: "So again not the most powerful of the criminal gangs but certainly a gang that has been very influential in this area in Santa Marta also near the Venezuelan border in the northeastern part of the country", start: 1023.80, end: 1034.72}
+  - {text: "and they have been active and the government has launched several attacks against them which they are now retaliating against.", start: 1034.72, end: 1041.60}
+  - {text: "And this despite there being a new right -wing president in charge who is a friend of Donald Trump?", start: 1041.62, end: 1046.24}
+  - {text: "Yes certainly Abelardo El Aspella who became Colombian president on August the 7th.", start: 1046.70, end: 1051.64}
+  - {text: "He is replacing a left -wing administration which had tried to conduct peace talks with many of these criminal organizations.", start: 1051.68, end: 1058.72}
+  - {text: "El Aspella instead he calls himself the tiger and he has promised a very strong military crackdown.", start: 1059.38, end: 1065.66}
+  - {text: "He has the armed forces have indeed started killing several of the leaders of this and many other organizations but it is clear from this action what is happening in Santa Marta in the last few hours", start: 1065.94, end: 1076.42}
+  - {text: "that these groups remain powerful and they remain capable of disrupting activities in large parts of Colombia.", start: 1076.42, end: 1082.70}
+  - {text: "Luis El Niño weather pattern in the Pacific Ocean is still a few weeks from its peak but it's already breaking records with far -reaching impacts likely around the world.", start: 1086.52, end: 1096.50}
+  - {text: "The UK's Met Office says it's now the strongest event in the observational record.", start: 1097.02, end: 1101.50}
+  - {text: "Here's our environment correspondent Matt McGraw.", start: 1102.00, end: 1105.00}
+  - {text: "The way that you measure El Niño is it once the temperatures of the waters in the center of the Pacific go about a half a", start: 1105.34, end: 1110.70}
+  - {text: "degree above the long -term average that's the start of an El Niño.", start: 1110.70, end: 1113.30}
+  - {text: "Once they get above one degree you're starting to get into more serious territory above two degrees then it's called a very strong El Niño.", start: 1113.66, end: 1120.32}
+  - {text: "Now we had the two degree mark go past a few months ago it's been a strong El Niño for the last couple of months.", start: 1120.42, end: 1126.68}
+  - {text: "The latest data show that it's around three degrees warmer than the long -term average but how much precisely it is above the long -term average we're not quite sure as yet.", start: 1126.92, end: 1135.40}
+  - {text: "The fear I guess from scientists is that this will continue and that projections would show that somewhere between three and four degrees above average.", start: 1135.76, end: 1143.42}
+  - {text: "Now that is a phenomenal amount of heat and a phenomenal impact on the world.", start: 1143.54, end: 1147.62}
+  - {text: "We've never really seen anything like that before and what the impacts will be across the world we're still not sure.", start: 1147.80, end: 1153.20}
+  - {text: "We're obviously seeing some of those signals just yet but it'll be later this year and definitely in the middle of next year and we'll see the impact of all that heat much more clearly.", start: 1153.44, end: 1162.12}
+  - {text: "We're already seeing in some places in the monsoon areas perhaps less rain than normal in other places in parts of California they're preparing for greater deluges we're likely to see greater floods and downpours.", start: 1162.44, end: 1174.54}
+  - {text: "We've seen the Panama Canal not at its peak or restricting traffic because of lower water levels so all around the world there'll be different impacts on food production impacts on droughts on heats", start: 1175.00, end: 1184.42}
+  - {text: "and on floods but by middle next year we'll see probably the bigger impact which is on overall global temperatures which will be expected to break records by some distance.", start: 1184.42, end: 1193.16}
+  - {text: "Matt McGraw. Natagana where an entrepreneur has worked out a way to solve two problems at once by turning waste plastic packaging into school desks.", start: 1193.48, end: 1204.17}
+  - {text: "Our reporter Justice Baidu met Makafui Auku in his workshop in the capital city Acra.", start: 1204.59, end: 1211.87}
+  - {text: "Well so this is Makin Touch Africa welcome to Makin Touch Africa so let's walk around and let me show you some of them.", start: 1212.39, end: 1218.27}
+  - {text: "A big guy with a big smile.", start: 1218.98, end: 1221.88}
+  - {text: "Makafui Auku has an infectious passion for recycling plastic he shows me his current stockpile.", start: 1222.78, end: 1230.20}
+  - {text: "So it's a huge heap of plastic bottles sachet rubbers that have been collected together how much how much plastics do we have here?", start: 1230.36, end: 1239.52}
+  - {text: "So what you see here looks like about 400 kilograms.", start: 1239.94, end: 1242.52}
+  - {text: "Wow that's a lot.", start: 1243.79, end: 1244.95}
+  - {text: "We generate about 1 .1 million metric tons of plastic waste in Ghana every year.", start: 1245.41, end: 1252.43}
+  - {text: "In Ghana it is thought that just around 5 % of plastic is collected for recycling.", start: 1252.85, end: 1258.27}
+  - {text: "Makafui's latest project addresses another problem here in Ghana a shortage of school desks.", start: 1258.75, end: 1264.85}
+  - {text: "We have a lot of dex deficits in our schools we have a dex deficit of course too many.", start: 1265.03, end: 1269.87}
+  - {text: "Makafui makes desktops from the plastic sachets that are commonly used for drinking water here in Ghana.", start: 1270.29, end: 1276.79}
+  - {text: "He has 300 drop -off points for the sachets around the country and he supplements these by buying more that have been gathered by waste pickers.", start: 1277.05, end: 1286.37}
+  - {text: "So when the dry shreds come here we have this heat transfer equipment and then we have hydraulic press that we used to press it.", start: 1286.81, end: 1297.81}
+  - {text: "Okay so we set it and then we wait.", start: 1301.03, end: 1304.53}
+  - {text: "So this looks to me like a big sandwich -making machine but instead of sandwich this is plastic materials that have been put into this machine and then being pressed together.", start: 1306.21, end: 1317.23}
+  - {text: "Yes that's close enough.", start: 1317.31, end: 1318.33}
+  - {text: "These sandwich machines can create a range of materials from a leather -like fabric to these desk boards that are just like plywood.", start: 1320.37, end: 1328.31}
+  - {text: "They are sanded and drilled to the desk frames.", start: 1331.15, end: 1338.25}
+  - {text: "So far Makafui has supplied 600 desks to 12 schools around the country.", start: 1339.11, end: 1344.37}
+  - {text: "They cost about 60 US dollars each but they are not paid for by the schools but with grants and corporate donations.", start: 1345.05, end: 1352.95}
+  - {text: "I travel to a nearby school to see them for myself.", start: 1354.71, end: 1357.77}
+  - {text: "So this is a classroom of about 60 pupils and as I enter here I can see Makafui's desk lined up with the students sitting on them and using them.", start: 1358.67, end: 1368.27}
+  - {text: "I'm just gonna go have a chat.", start: 1368.31, end: 1369.55}
+  - {text: "When we are writing exams, you know the wooden desks, they are not that smooth for the pupils so when we are writing, the writing don't look smooth but the fun is good for us.", start: 1370.43, end: 1379.61}
+  - {text: "It's really helpful. The wooden desks, they break easily but these plastic desks, they don't need key and they don't break easily.", start: 1379.67, end: 1387.31}
+  - {text: "They are very hard.", start: 1387.63, end: 1388.33}
+  - {text: "Well I can't resist asking the students to test the strength of the desks.", start: 1388.95, end: 1393.48}
+  - {text: "Okay so 3, 2, 1, go.", start: 1393.74, end: 1396.52}
+  - {text: "Thank you. Justice Baidu reporting from Akra.", start: 1399.93, end: 1405.68}
+  - {text: "Now this. That's the clicking sound of a Rubik's cube being speedily solved by a six -year -old.", start: 1406.26, end: 1416.26}
+  - {text: "Lian Yunxi from China took just over four seconds setting a woman's world record.", start: 1416.68, end: 1422.80}
+  - {text: "Her mother said Lian was first introduced to the Rubik's cube as one of various extracurricular activities alongside dance and music lessons.", start: 1423.22, end: 1431.94}
+  - {text: "But how could she do it so quickly at such a young age?", start: 1432.30, end: 1435.54}
+  - {text: "Professor Jessica Friedrich is considered one of the pioneers of what's known as speed cubing and many cubers have adopted a method she devised for solving it.", start: 1436.08, end: 1445.62}
+  - {text: "She gave her reaction to Lian Yunxi's record beating time to the BBC's Rebecca Kesby.", start: 1445.98, end: 1451.76}
+  - {text: "It's absolutely mind -boggling, it's unbelievable.", start: 1452.04, end: 1454.98}
+  - {text: "If you look at the top six cubers, they're all from China, they are all very young.", start: 1455.34, end: 1459.78}
+  - {text: "So it's a trend and it's unbelievable that a six -year -old girl can do it in 4 .27 seconds on average.", start: 1460.02, end: 1467.56}
+  - {text: "That is nothing short of a miracle basically.", start: 1468.38, end: 1470.94}
+  - {text: "I mean apparently she does spend two to three hours a day training on the Rubik's cube.", start: 1471.40, end: 1477.04}
+  - {text: "Is that something that's normal for a cube as you call them?", start: 1477.36, end: 1481.12}
+  - {text: "I think she spends a lot more than that.", start: 1481.62, end: 1483.66}
+  - {text: "Tell me why? Because you become a great speed cuber only if you get possessed by the cube.", start: 1483.84, end: 1489.54}
+  - {text: "If it spells the magic all over you and you can't do anything else basically.", start: 1489.88, end: 1494.82}
+  - {text: "So I think two to three hours is an understatement.", start: 1495.62, end: 1498.14}
+  - {text: "So what is your advice then?", start: 1498.70, end: 1500.38}
+  - {text: "Would there be a trick to it or a system maybe that works?", start: 1500.72, end: 1504.16}
+  - {text: "There is no trick to it.", start: 1504.68, end: 1506.06}
+  - {text: "It's a lot of work, an incredible memorization that you have to be willing to undertake, to memorize probably over thousand of algorithms to be able to be this fast.", start: 1506.38, end: 1519.90}
+  - {text: "It's like a magician.", start: 1520.38, end: 1521.22}
+  - {text: "When you see a sleight of hand, when you see a magician manipulate cards, they are doing tricks, they are amazing you.", start: 1521.64, end: 1529.70}
+  - {text: "Your mind is completely blown because you have no explanation for what's happening.", start: 1530.06, end: 1534.92}
+  - {text: "It looks natural but it took years and years to practice.", start: 1535.24, end: 1538.50}
+  - {text: "Apparently there are Cuban conventions as well as all these competitions as well.", start: 1538.92, end: 1542.58}
+  - {text: "Has it changed much over the years?", start: 1542.82, end: 1544.90}
+  - {text: "Because I mentioned this is a kind of classic 1980s toy but it was actually invented in the 70s wasn't it?", start: 1545.04, end: 1551.26}
+  - {text: "It was invented in the 70s and it took off right around 1980.", start: 1551.52, end: 1556.70}
+  - {text: "1982 was the first world championship in Rubik's group in Budapest in Europe.", start: 1557.56, end: 1562.64}
+  - {text: "I was representing Czechoslovakia at that time.", start: 1562.84, end: 1565.04}
+  - {text: "The cube is completely different.", start: 1565.50, end: 1566.92}
+  - {text: "Nowadays they are made in a way that allows a certain type of twisting to cube, certain type of handling that you would not be able to do back in 1980s", start: 1567.18, end: 1576.50}
+  - {text: "or 1970s because those cubes were hard to turn.", start: 1576.50, end: 1579.82}
+  - {text: "The difference between a speed cube today and back in 1970s, 80s let's say, is that there was no internet at that time and every cube had to also invent their own system", start: 1580.34, end: 1593.06}
+  - {text: "or their own version of a system to solve and to be fast.", start: 1593.06, end: 1597.60}
+  - {text: "Professor Jessica Friedrich and that's all from us for now.", start: 1597.82, end: 1604.89}
+  - {text: "If you want to get in touch you can email us at globalpodcast .bbc .co .uk.", start: 1605.37, end: 1611.25}
+  - {text: "You can also find us on x at BBC World Service.", start: 1611.25, end: 1614.77}
+  - {text: "Use the hashtag Global News Pod and don't forget our sibling podcast, The Global Story, which goes in depth and beyond the headlines on one big story.", start: 1614.97, end: 1626.93}
+  - {text: "This edition of the Global News Podcast was mixed by Chris Ablakwa and the producer was Marion Straughan.", start: 1627.37, end: 1635.65}
+  - {text: "The editor is Karen Martin.", start: 1636.01, end: 1637.71}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1638.27, end: 1641.13}
+---
