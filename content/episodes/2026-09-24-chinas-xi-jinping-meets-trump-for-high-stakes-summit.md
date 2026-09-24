@@ -1,0 +1,208 @@
+---
+layout: single
+title: "China's Xi Jinping meets Trump for high-stakes summit"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-24T00:00:00Z
+slug: "2026-09-24-chinas-xi-jinping-meets-trump-for-high-stakes-summit"
+audioDir: "2026-09-24-chinas-xi-jinping-meets-trump-for-high-stakes-summit"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-24-chinas-xi-jinping-meets-trump-for-high-stakes-summit/episode.mp3"
+totalDuration: 1555.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.80}
+  - {text: "I'm Alex Ritzen and in the early hours of Thursday, the 24th of September, these are our main stories.", start: 5.42, end: 12.26}
+  - {text: "Donald Trump welcomes China's President Xi Jinping on his first US state visit in a decade.", start: 12.90, end: 18.60}
+  - {text: "A Gaza reconstruction plan is announced, but it's unclear how it would be implemented.", start: 19.20, end: 24.06}
+  - {text: "And Britain gains speed in the Space Arms race, while there are calls for the AI race to slow down.", start: 24.97, end: 32.32}
+  - {text: "Also in this podcast, archaeologists discover a wall that shows what Paris may have looked like before the Romans arrived.", start: 34.57, end: 42.75}
+  - {text: "It's the first time we've found traces of the Gallic people of Ritesia as potentially described by Julius Caesar.", start: 43.31, end: 50.13}
+  - {text: "And France clamps down on Montblanc hikers.", start: 50.65, end: 53.33}
+  - {text: "We start with the two most powerful men in the world coming face to face.", start: 53.33, end: 63.76}
+  - {text: "China's President Xi Jinping has touched down on American soil for the first time in a decade.", start: 64.10, end: 69.30}
+  - {text: "In a sign of respect, Donald Trump was on the tarmac of the joint base Andrews in Maryland to greet him as he stepped off the plane onto the red carpet", start: 69.84, end: 78.16}
+  - {text: "and was met by an Air Force band.", start: 78.16, end: 80.40}
+  - {text: "This marks the start of a three -day visit where the heads of the two global superpowers, are expected to discuss issues of significant consequence to the rest of the world, including AI, Taiwan and the Iran War.", start: 91.77, end: 105.95}
+  - {text: "The two nations have already announced an extension to the truce in their trade tariff war from November to January.", start: 106.41, end: 113.15}
+  - {text: "For more on what Xi Jinping is looking to get out of the visit, I spoke to our China correspondent Laura Bicker.", start: 113.65, end: 119.59}
+  - {text: "He'll feel far more confident than he did during their first meeting back in 2017.", start: 120.01, end: 124.53}
+  - {text: "He may even feel that he is at the helm of a country that has been completely transformed.", start: 124.53, end: 129.68}
+  - {text: "Now, remember, China has weathered Donald Trump's trade tariffs.", start: 130.51, end: 134.07}
+  - {text: "It's no longer completely reliant on the United States for trade.", start: 134.17, end: 138.23}
+  - {text: "China has also closed the technology gap.", start: 138.55, end: 141.05}
+  - {text: "And of course, we are seeing China portraying President Xi as a stable global leader.", start: 141.55, end: 147.07}
+  - {text: "It believes it's gaining influence in comparison to an unpredictable Donald Trump.", start: 147.29, end: 152.15}
+  - {text: "So what does President Xi want?", start: 152.15, end: 154.21}
+  - {text: "He believes he'll have a strong hand as he goes into these negotiations and he'll be pushing perhaps to make sure that there's no recurrence of that trade war.", start: 154.39, end: 163.01}
+  - {text: "Secondly, I think there'll be a bit of a push to try to get access to currently high -end computer chips that come from the U .S.", start: 163.59, end: 171.09}
+  - {text: "that are restricted. He'll want those restrictions lifted.", start: 171.13, end: 174.01}
+  - {text: "And then Beijing's priority, as always, is to push for an end to arms sales to Taiwan.", start: 174.51, end: 180.81}
+  - {text: "The self -governing island that China claims as its own.", start: 180.81, end: 184.63}
+  - {text: "So I think those will be his key priorities.", start: 184.75, end: 187.19}
+  - {text: "But of course, the pressure is on both countries around the debate on artificial intelligence.", start: 187.37, end: 193.07}
+  - {text: "China has pushed back on any idea of a slowdown saying that that is a notion to contain China.", start: 193.31, end: 200.25}
+  - {text: "Instead, President Xi is likely to push for the likes of global governance, global rules.", start: 200.49, end: 205.91}
+  - {text: "So China doesn't just want to kind of lead the world when it comes to AI technology.", start: 206.05, end: 209.81}
+  - {text: "It also wants to write the real book.", start: 209.81, end: 211.79}
+  - {text: "So how is that going to fit in with Donald Trump's wish list?", start: 212.23, end: 216.73}
+  - {text: "I think there is a general consensus that neither want those trade tariffs to start soaring again.", start: 217.21, end: 222.15}
+  - {text: "And I think when it comes to Donald Trump's voting base, remember those vast farmlands right across middle America is part of that.", start: 222.63, end: 229.85}
+  - {text: "So he will want to be able to give them something ahead of the midterms.", start: 229.91, end: 232.87}
+  - {text: "By turning around and saying, look, I've got to win.", start: 233.07, end: 235.19}
+  - {text: "China's going to buy all of these agricultural products.", start: 235.55, end: 237.83}
+  - {text: "Then that is something that perhaps the two sides can agree on.", start: 237.83, end: 241.53}
+  - {text: "Rare Earths is something else that China has a chokehold over.", start: 242.03, end: 245.47}
+  - {text: "Remember, these rare earth metals are needed for everything to put in your Bluetooth headphones to your smartphones all the way up to weapons and wind turbines.", start: 245.57, end: 252.49}
+  - {text: "So when it comes to these rare earth metals, China controls 90 % of processing.", start: 253.19, end: 257.25}
+  - {text: "The US wants more access to that so China can ask for something in return.", start: 257.71, end: 261.95}
+  - {text: "Now, when it comes to those arms sales to Taiwan, we are hearing and I can only just stress this is only reports at this stage", start: 262.47, end: 269.91}
+  - {text: "that when it comes to those negotiations, China may push for an end to those arms sales in Taiwan.", start: 270.45, end: 275.69}
+  - {text: "But in return, say, look, we have influence over Iran.", start: 275.71, end: 279.93}
+  - {text: "Remember, China buys 80 % of Iran's oil.", start: 280.31, end: 284.37}
+  - {text: "So it will may say, look, we have a friend, we have a partner in Iran.", start: 284.69, end: 287.69}
+  - {text: "We can lean on to Iran to come to negotiations if you continue to stall arms sales to Taiwan.", start: 287.87, end: 292.85}
+  - {text: "So I think those are some of the main issues that the two leaders will get into.", start: 292.85, end: 296.55}
+  - {text: "Laura Bicca. President Trump's Board of Peace, which was set up following the ceasefire agreement in Gaza, has announced a $2 .45 billion partial recovery plan for the Palestinian territory.", start: 297.21, end: 309.87}
+  - {text: "The announcement of a meeting in New York coincides with increased criticism of Israel's continuing airstrikes in the Strip and the worsening humanitarian situation.", start: 310.43, end: 320.09}
+  - {text: "Michael Eisenberg is an Israeli businessman and advisor to Benjamin Netanyahu and a member of the Board of Peace.", start: 320.09, end: 327.77}
+  - {text: "The Board of Peace presented a plan for a variety of sectors of life, sanitation, hygiene, and of course some future building plans, all of which is predicated on the full disarmament and demilitarization of the Gaza Strip.", start: 328.19, end: 341.57}
+  - {text: "And so there's a lot of ambitious plans as soon as Hamas decides to give up their weapons.", start: 341.99, end: 346.57}
+  - {text: "The plan faces significant challenges including securing funding, providing security for those operating in Gaza and finding consensus between Israeli and Palestinian officials on the ground.", start: 346.57, end: 358.77}
+  - {text: "Jonathan Kottub is a Palestinian lawyer and a former international negotiator.", start: 359.25, end: 364.27}
+  - {text: "This Board is not going to have any actual authority.", start: 364.77, end: 368.91}
+  - {text: "Right now Israel is preventing even allowing toilet seats, wheelchairs, basic equipment to be brought in.", start: 368.91, end: 379.11}
+  - {text: "So how is this Board going to operate if it doesn't have the freedom to allow the materials in to carry out its function?", start: 379.35, end: 388.19}
+  - {text: "So when might we see the start of reconstruction in Gaza?", start: 388.91, end: 392.79}
+  - {text: "I asked our Global Affairs reporter, Sebastian Usher.", start: 393.25, end: 395.99}
+  - {text: "There's no sense that things have settled down to any level that there can be real movement in terms of reconstruction.", start: 395.99, end: 402.99}
+  - {text: "You hear that from both the people that have just been speaking.", start: 403.45, end: 406.13}
+  - {text: "From the Board of Peace, the sense that the blame is with Hamas because they haven't committed to disarmament from the Palestinian side.", start: 406.63, end: 414.65}
+  - {text: "It is that Israel has not begun to withdraw from positions that it took.", start: 414.81, end: 418.17}
+  - {text: "So that stalemate exists and that means that whatever plans there are in place and it was really a call for countries to put their money", start: 418.31, end: 428.39}
+  - {text: "where their mouth is and actually start this process in a pretty limited way that even that probably isn't going to get much traction.", start: 428.39, end: 435.75}
+  - {text: "$2 .45 billion. It sounds like a lot of money.", start: 436.15, end: 439.99}
+  - {text: "But actually when 80 % of the buildings in Gaza are damaged or destroyed, it goes nowhere, does it?", start: 440.21, end: 446.35}
+  - {text: "No, absolutely. I mean it's about trying to get some kind of infrastructure in place again and to have better quality temporary housing.", start: 446.41, end: 454.33}
+  - {text: "Most gardens at the moment are living in tents but we had a terrible incident just a week ago when a house collapsed.", start: 454.81, end: 460.25}
+  - {text: "More than 20 people were killed.", start: 460.73, end: 462.33}
+  - {text: "So I mean it hasn't even scratched the surface so far and this would be the start of that.", start: 463.07, end: 466.93}
+  - {text: "I mean the estimate that the Board of Peace put out at this meeting that they held was that over a decade more than $70 billion is needed for full reconstruction.", start: 467.09, end: 475.47}
+  - {text: "I've seen figures which are much higher than that.", start: 475.69, end: 477.37}
+  - {text: "We heard that clip there of Jonathan Kutab, a Palestinian lawyer.", start: 477.37, end: 481.53}
+  - {text: "The point he makes in reality is true on the ground in that he says they have no authority and if they can't get buy -in", start: 482.05, end: 489.81}
+  - {text: "from people like him from the Palestinians on the ground this will go nowhere.", start: 489.81, end: 493.59}
+  - {text: "I mean there's nothing to govern at the moment but if there were there are technocrats, there are Palestinians who've had nothing to do with Hamas", start: 494.34, end: 501.32}
+  - {text: "but they would manage the day -to -day running of Gaza.", start: 501.32, end: 505.70}
+  - {text: "That exists, they're in place but they have no authority at the moment to do anything.", start: 505.70, end: 510.98}
+  - {text: "Hamas is in control in the 30 % or so of Gaza where they are and where the vast majority of Palestinians are and the Israelis of course are in control of the 70 %", start: 511.10, end: 521.16}
+  - {text: "that they are in but there's just total stalemate that just isn't moving anywhere.", start: 521.16, end: 525.94}
+  - {text: "So even this as you said $2 .5 billion does sound like a lot of money but in terms of what is necessary and it's made", start: 526.62, end: 534.36}
+  - {text: "clear in what the Board of Peace is saying this is just a starting point and it would be over six months.", start: 534.36, end: 539.16}
+  - {text: "If that got going then a momentum would build.", start: 540.04, end: 542.80}
+  - {text: "The trouble is there is no momentum at the moment towards any progress on the ground in Gaza.", start: 543.06, end: 548.92}
+  - {text: "Sebastian Usher. It's emerged that an AI agent developed by OpenAI hacked Australia's government health website earlier this year without the company's knowledge.", start: 549.66, end: 560.50}
+  - {text: "It's believed patient records were not compromised and an investigation is underway but this is the latest in a worrying trend of autonomous breaches.", start: 560.50, end: 569.36}
+  - {text: "As fears swirl over the rapid development of artificial intelligence the heads of leading AI firms have been talking about the future of the technology at the UN.", start: 569.84, end: 579.94}
+  - {text: "Here's the bosses of OpenAI and Anthropic.", start: 580.38, end: 583.26}
+  - {text: "As AI systems become more capable and more autonomous they can move faster than our institutions, concentrate power in too few hands or make decisions that people no longer understand or control.", start: 583.84, end: 595.70}
+  - {text: "We will slow down as much as necessary in order to make sure that every successive AI technology that we release is actually safe.", start: 596.08, end: 604.96}
+  - {text: "Our technology editor Zoe Kleinman has this assessment.", start: 605.34, end: 608.56}
+  - {text: "It's an unusual display of unity from those two.", start: 609.12, end: 612.76}
+  - {text: "They are usually fierce and quite bitter rivals but they are singing from the same hymn sheet at the UN Security Council.", start: 613.88, end: 621.38}
+  - {text: "They both want international regulation for the technology.", start: 621.78, end: 624.88}
+  - {text: "They both want AI development to slow down and they are talking about the importance of making sure that AI remains under human control developed by humans for the benefit of humanity.", start: 625.22, end: 636.78}
+  - {text: "Now if you wanted to be cynical about this you might say these are both companies that have burned through enormous amounts of money and could do with buying a bit of time to inject some more cash", start: 637.52, end: 645.64}
+  - {text: "and you could also say if they get regulation done internationally then it takes some of the responsibility off them.", start: 645.64, end: 652.14}
+  - {text: "But the fact is that there is a race on not only between these two companies but also among the rest of the world, China in particularly", start: 652.38, end: 660.04}
+  - {text: "and with the tech evolving so quickly perhaps now really is a moment to pause and slow down.", start: 660.04, end: 665.56}
+  - {text: "We're already seeing it's on the cusp of being able to train and improve itself.", start: 665.66, end: 670.00}
+  - {text: "That's called recursive AI.", start: 670.68, end: 671.94}
+  - {text: "The bosses say that's just around the corner and we're also seeing aren't we?", start: 672.46, end: 676.26}
+  - {text: "Increasingly unpredictable activity coming from these frontier models the very most advanced ones that are out there and perhaps it is definitely a moment but it'll only work", start: 676.36, end: 686.24}
+  - {text: "if the whole world agrees for everyone to take a pause and calm down.", start: 686.24, end: 689.90}
+  - {text: "Zoe Kleinman. Metas AI powered smart glasses with a tiny camera have been controversial and referred to by some as spy glasses or pervert glasses.", start: 690.24, end: 702.21}
+  - {text: "It's now released a new version but without the camera.", start: 702.83, end: 705.51}
+  - {text: "The tech giant denies that these glasses have been rushed out in response to public anger saying they've been in development for two years and trying", start: 705.99, end: 714.17}
+  - {text: "on the Ray -Ban style frames at the unveiling Metas head Mark Zuckerberg was keen to highlight the advantages of the new version.", start: 714.17, end: 721.87}
+  - {text: "Without cameras this opens up a lot of new design possibilities.", start: 721.87, end: 728.97}
+  - {text: "They can look like any other glasses.", start: 729.39, end: 732.47}
+  - {text: "You can make them much lighter and slimmer.", start: 733.13, end: 735.59}
+  - {text: "They have the longest battery of any of our glasses.", start: 736.11, end: 739.37}
+  - {text: "They're going to last for a full day of use whether that's using Muse throughout the day or listening to music or making calls.", start: 739.89, end: 746.15}
+  - {text: "But some critics argue this is a desperate attempt to fix Metas PR image as the company has continued to struggle with privacy concerns for years.", start: 746.79, end: 755.83}
+  - {text: "Our North America technology correspondent Lily Jamali spoke to me from Meta HQ.", start: 756.41, end: 761.57}
+  - {text: "The Ray -Ban Meta audio glasses are the headliner here.", start: 762.33, end: 766.51}
+  - {text: "These are audio only as you laid out so no ability to videotape or photograph.", start: 766.67, end: 771.79}
+  - {text: "And you know obviously there is a link to privacy concerns that have marred the more traditional video capable glasses that Meta released about two, three years ago.", start: 773.11, end: 785.19}
+  - {text: "We've seen cases of users for example tampering with them, putting tape over them to obscure the light that indicates that either a photo is being taken or video is being captured.", start: 785.71, end: 797.47}
+  - {text: "Metas as it has addressed those issues to the extent possible they've taken it seriously sent out software updates to basically remove that functionality from those glasses.", start: 798.13, end: 808.65}
+  - {text: "But this is a lighter option.", start: 808.91, end: 811.33}
+  - {text: "It weighs less. It has longer battery life.", start: 811.49, end: 813.77}
+  - {text: "So those are some features.", start: 813.83, end: 814.77}
+  - {text: "It's really for people who are fine with just using these smart glasses to make phone calls, to listen to music and also people who are privacy conscious not just for themselves but want to be considerate of others.", start: 814.95, end: 826.51}
+  - {text: "Yeah so make phone calls, listen to music but I mean if they don't have a camera what do they do?", start: 826.77, end: 832.45}
+  - {text: "Yeah I mean those two things are actually pretty useful functions.", start: 833.09, end: 837.29}
+  - {text: "So I'm a podcast addict myself so I pretty much always have a podcast on when I'm by myself streaming them through either AirPods or just off of my phone if I'm by myself.", start: 837.73, end: 849.29}
+  - {text: "So I think there's plenty for people to do with these new smart glasses and I think you know in general Meta has had this issue", start: 849.65, end: 858.75}
+  - {text: "with privacy with what they do with user data for example how they monetize that that's a huge part of their business model what I heard", start: 858.75, end: 866.47}
+  - {text: "from Mark Zuckerberg on stage today here in Menlo Park was a real nod to privacy talking about for example also their Muse AI agent that is just been released in the last couple of days how secure", start: 866.47, end: 880.53}
+  - {text: "that is how you know it's so secure that even Meta won't be able to see the information that is being exchanged there they say so they really want to highlight", start: 880.53, end: 891.49}
+  - {text: "that after years of getting negative press on that particular issue.", start: 891.49, end: 895.25}
+  - {text: "Briefly will this be enough for the critics?", start: 895.53, end: 897.23}
+  - {text: "We'll see I mean I think what Meta at this point is most interested in is not the critics but the consumer and if they can", start: 897.89, end: 905.29}
+  - {text: "win the day with consumers I think the executives here will be very happy this pair of glasses will retail for $349 goes on sale in the US,", start: 905.29, end: 914.97}
+  - {text: "the UK in mid -October and a number of other countries as well.", start: 915.15, end: 918.65}
+  - {text: "Still to come in this podcast Imagine how nitpicky you have to be to have an issue with me bringing an iced coffee to an interview.", start: 922.57, end: 929.57}
+  - {text: "The viral debate that's about more than just coffee.", start: 929.89, end: 933.79}
+  - {text: "This is the Global News Podcast Britain has expanded its defence into space with the Defence Minister West Street in calling it the next battleground he", start: 939.78, end: 950.60}
+  - {text: "was speaking at a conference alongside the head of the Air Force Harve Smythe both men warned of hostile threats from adversaries in orbit.", start: 950.60, end: 959.04}
+  - {text: "The RAF has formed a space squadron to protect satellites and the BBC understands it's also jamming some signals from Earth our defence correspondent Jonathan Beale has this report.", start: 959.62, end: 971.30}
+  - {text: "The world's increasingly reliant on space from the internet to bank transfers and GPS and space has become a new front line for the military too with warnings of devastating consequences if our satellites were attacked.", start: 971.82, end: 988.32}
+  - {text: "Sat nav systems would fail congestion on the roads would create havoc our emergency services would take much much longer to reach those in need so make no mistake", start: 988.82, end: 1000.44}
+  - {text: "the satellite services you may have taken for granted now face unprecedented threat.", start: 1001.00, end: 1007.48}
+  - {text: "The British military is already taking steps to protect itself in space I've been told it's already using a gram base system to jam signals from satellites operated by hostile states the defence source said we've already used it to deter our adversaries he described this gram base", start: 1008.04, end: 1027.76}
+  - {text: "electronic warfare system as world leading as to why well blocking satellite signals could for example stop Russia from tracking the movement of Britain's nuclear -armed submarines or help hide the deployment of British troops and military jets", start: 1028.24, end: 1044.74}
+  - {text: "UK military personnel are already embedded with the US space force the world's most powerful America's now deployed a weapon in orbit the UK hasn't yet", start: 1046.10, end: 1058.28}
+  - {text: "but there are warnings of an arms race in space the defence secretary said Britain was standing up a new unit to protect its own interests in space it will have the ability to conduct offensive", start: 1058.28, end: 1071.64}
+  - {text: "and defensive operations to strengthen deterrence reduce opportunities for coercion and enhance the resilience of our space capabilities the US, China and Russia can also block signals in space", start: 1071.64, end: 1086.78}
+  - {text: "Britain with its handful of military satellites is still a minor player but Russia's been trying to jam them every single week the UK doesn't want", start: 1087.58, end: 1097.54}
+  - {text: "to be left behind in the space race all left defenceless in what it calls this new war fighting domain Jonathan Beale Back down to the ground now", start: 1097.54, end: 1108.60}
+  - {text: "and French archaeologists have discovered an ancient wall beneath a Paris hotel that could confirm the capital's origins the charred 2000 year old wall a stone throw from Notre Dame is thought to be a fragment of Lutitia,", start: 1108.60, end: 1123.22}
+  - {text: "the city's first ever settlement Paul Henley spoke to Lucy Altenberg who's been involved in the dig for the first time ever we've been able to dig down to 6 -7 meters therefore finding a layer", start: 1123.42, end: 1137.04}
+  - {text: "that predates Roman occupation of the city of Lutitia during which we found a wall the type of wall is indicative of a Gallic wall and", start: 1137.04, end: 1147.44}
+  - {text: "so that's very exciting for us because that would mean it's the first time we found traces of the Gallic people of Lutitia as potentially described by Julius Caesar in his Gallic Wars text", start: 1147.44, end: 1158.14}
+  - {text: "Because he said in 52 BC I believe that Lutitia was a town situated on an island in the River Seine he also mentions that the town had been set on fire when the Romans were approaching Burnt Timber was one of your finds, wasn't it?", start: 1158.14, end: 1174.08}
+  - {text: "That's right, so we found Burnt Timbers that probably had collapsed onto Burnt Grain so directly into the floor and one of the details of Gallic Walls is", start: 1174.20, end: 1185.34}
+  - {text: "that they are built with stone and wood in this case we found wooden structure completely carbonized so we have deduced that there's been quite a violent fire", start: 1185.34, end: 1194.72}
+  - {text: "that took place around the wall Any other artifacts?", start: 1194.72, end: 1197.24}
+  - {text: "Yes, so one of my favorite is an iron spearhead which has been pretty positively identified as being a Gallic spearhead, not a Roman one and we found a couple Gallic coins to sort of date the layer", start: 1197.72, end: 1210.10}
+  - {text: "and a few pieces of ceramic that seem to be amphora How significant is all this and why?", start: 1210.10, end: 1215.84}
+  - {text: "This is extremely significant not just for us as archaeologists but for the history of the city of Paris because for a long time there has been some debate", start: 1216.16, end: 1224.56}
+  - {text: "as to what was this island that Julius Caesar was describing and we had no evidence of Gallic occupation in Lille de la Cité you're literally in the beating heart of historical Paris on Lille de la Cité the center of Paris", start: 1224.56, end: 1241.37}
+  - {text: "and we're now saying that we have found traces of occupation that predates the Romans French archaeologist Lucy Altenberg Montblanc is Western Europe's highest mountain and", start: 1241.62, end: 1255.10}
+  - {text: "as a result attracts a huge amount of attention from skiers in the winter and hikers in the summer but the French authorities are so worried it's attracting what many see", start: 1255.10, end: 1266.20}
+  - {text: "as the wrong type of hiker that they've imposed restrictions on those planning to use the Montblanc Trail Rachel Wright has the details The photographs advertising", start: 1266.20, end: 1277.50}
+  - {text: "the 170 kilometer hiking trail show vast expanses of immaculate scenery in one of the world's most beautiful mountain ranges in reality however the French authorities", start: 1277.50, end: 1288.80}
+  - {text: "say the areas around Montblanc the highest mountain in the Alps is tainted by toilet paper under every stone and SUVs transporting luggage from one stop to another the numbers of people completing the tour which usually takes at least a week and includes walking through France,", start: 1289.00, end: 1306.70}
+  - {text: "Italy and Switzerland has jumped from 60 ,000 in 2022 to 90 ,000 this summer Jean -Marc Payex chairman of the federation of districts of Montblanc country says the mountain has become a magnet for those with a desire to return to nature after the pandemic", start: 1306.84, end: 1325.24}
+  - {text: "he says people are boasting to their friends about doing the Montblanc Trail when in reality they have only done a small part of it he says the huge numbers of trekkers on the mountain mean", start: 1325.76, end: 1337.12}
+  - {text: "that most people are just looking at the backside of the person in front of them in the Montblanc tour there are people who believe that they are doing the tour there are also people", start: 1337.12, end: 1347.68}
+  - {text: "who pretend they are doing the tour but do half of it by taxi that too is a practice that I think must come to an end", start: 1347.68, end: 1355.90}
+  - {text: "there are people who have their suitcases transported by 4x4 taxis that climb the mountain to carry the little pink rolling suitcases of those doing a few stages", start: 1356.42, end: 1365.38}
+  - {text: "so that also needs to be regulated the federation says overuse of the paths is having disastrous consequences for landowners the environment and safety so new", start: 1366.06, end: 1377.36}
+  - {text: "rules have now been announced to allow only those trekkers with hotel bookings carrying trekking backpacks to complete the week long trail a so called green brigade of officials will be able to implement fines but not everyone in the valley is in favour of the changes", start: 1377.36, end: 1393.86}
+  - {text: "some local mayors are worried about the effects of restricting numbers on the local economy and there's no indication that Swiss and Italian councils on the route will sign up to the plan Rachel right", start: 1394.36, end: 1408.02}
+  - {text: "and finally is bringing an iced coffee to a job interview acceptable or unprofessional that's the question that's divided the internet after a recruiter advised Gen Z candidates not to walk in with a cold brew 23 year old Eirachan's report begins with the recruiter's video", start: 1408.02, end: 1429.59}
+  - {text: "it is perceived from my opinion my hiring standpoint that when you show up with an iced coffee or an iced latte that this interview is", start: 1430.20, end: 1439.27}
+  - {text: "just like a stop on your list of errands for the day it looks a little too casual to me recruiter Caitlin with her review that", start: 1439.27, end: 1448.09}
+  - {text: "showing up to a job interview at a big company with a cup of iced coffee suggests that you didn't have time to drink it beforehand", start: 1448.09, end: 1454.89}
+  - {text: "and it could end up costing you the drop not surprisingly Caitlin has gotten a lot of pushback online from Gen Zers like this user Savannah", start: 1454.89, end: 1463.29}
+  - {text: "imagine how nitpicky you have to be to have an issue with me bringing an iced coffee to an interview when I showed up 15 minutes", start: 1463.29, end: 1470.17}
+  - {text: "early I'm dressed professionally I have my resume in hand it looks amazing I'm able to answer all of your questions incredibly well my qualifications are outstanding yet you are upset", start: 1470.17, end: 1480.17}
+  - {text: "because I walked in with an iced coffee another comment on the post which had almost half a million views on TikTok asked the question do you guys want employees", start: 1480.17, end: 1490.15}
+  - {text: "or not and some people added that iced coffee a drink that has become synonymous with young people was the same as bringing water to an interview what the debate has really highlighted is", start: 1490.15, end: 1501.11}
+  - {text: "that there is a big difference in culture between people who are already in the workplace and Gen Z who are trying to get on the employment ladder", start: 1501.11, end: 1508.65}
+  - {text: "priorities have changed for this new generation with a shift towards hybrid working the use of artificial intelligence and more importance being placed on having a work -life balance", start: 1509.41, end: 1519.07}
+  - {text: "and that's all from us for now if you want to get in touch with comments about the podcast or the iced coffee debate you can", start: 1519.07, end: 1531.84}
+  - {text: "email us at globalpodcast at bbc .co .uk you can also find us on X at BBC World Service use the hashtag global news pod this", start: 1531.84, end: 1543.12}
+  - {text: "edition was mixed by Jancis Haycox the editor is Karen Martin I'm Alex Ritzen until next time goodbye", start: 1543.12, end: 1551.10}
+---
