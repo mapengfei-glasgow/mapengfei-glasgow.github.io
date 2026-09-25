@@ -1,0 +1,248 @@
+---
+layout: single
+title: "Trump hosts President Xi at state banquet"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-25T00:00:00Z
+slug: "2026-09-25-trump-hosts-president-xi-at-state-banquet"
+audioDir: "2026-09-25-trump-hosts-president-xi-at-state-banquet"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-25-trump-hosts-president-xi-at-state-banquet/episode.mp3"
+totalDuration: 1702.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.90}
+  - {text: "I'm Alex Ritzen and in the early hours of Friday, the 25th of September, these are our main stories.", start: 4.60, end: 11.40}
+  - {text: "Donald Trump welcomes China's Xi Jinping and some of the most powerful business leaders in the world to the White House for a banquet.", start: 12.06, end: 19.16}
+  - {text: "Amas walk out at the UN as Benjamin Netanyahu gives a robust defence of Israel's actions in Gaza.", start: 19.80, end: 26.22}
+  - {text: "While the Palestinian leader Mahmoud Abbas said Israel threatened the very existence of his people, Italy's parliament bans girls wearing the burqa and nikab in schools.", start: 26.50, end: 37.62}
+  - {text: "Also in this podcast.", start: 40.43, end: 41.89}
+  - {text: "This is an example for speech shaping the brain of a non -human animal.", start: 42.41, end: 47.69}
+  - {text: "Animals that don't have such complex linguistic abilities can get there.", start: 48.21, end: 52.47}
+  - {text: "Forget walkies, new evidence dogs can tell the difference between consonants and vowels.", start: 52.79, end: 58.61}
+  - {text: "Some of the most powerful men in the world have been meeting at a banquet in Washington.", start: 62.72, end: 67.50}
+  - {text: "Donald Trump and Chinese President Xi Jinping shared a three -course meal in the White House with some of the biggest names in the tech world like open AIs Sam Altman", start: 68.00, end: 77.70}
+  - {text: "and Elon Musk at a time when the calls for something to be urgently done to protect the world from the dangers of AI have never been louder.", start: 77.70, end: 86.88}
+  - {text: "And despite long running disputes between the US and China over trade tariffs and national security, standing before the dining room holding a champagne flute, Donald Trump said the relationship between him and Mr.", start: 87.28, end: 100.70}
+  - {text: "Xi had never been better.", start: 100.72, end: 102.58}
+  - {text: "As the leaders of our two nations, President Xi and I both understand that we represent different systems, but the ties between our people endure and we've never gotten along better.", start: 103.16, end: 115.78}
+  - {text: "Together we can continue to build a relationship that promotes prosperity and security for future generations.", start: 116.60, end: 124.64}
+  - {text: "The state dinner wrapped up the first full day of Xi Jinping's visit to the US, the Chinese President's first trip to the country in over a decade.", start: 125.32, end: 133.96}
+  - {text: "Donald Trump said they had a great meeting and that tremendous progress is being made.", start: 134.44, end: 139.22}
+  - {text: "But speaking earlier in the day, Xi Jinping said the two nations must do more to collaborate on regulating AI.", start: 139.68, end: 146.26}
+  - {text: "Both China and the United States are leading nations in artificial intelligence.", start: 152.18, end: 158.16}
+  - {text: "We have both the capability and responsibility to develop and manage AI for good and ensure that the development of AI is always under human control", start: 158.68, end: 170.36}
+  - {text: "and serves the well -being of the people.", start: 170.36, end: 173.04}
+  - {text: "For his analysis of the visit so far, I spoke to our China correspondent Stephen MacDonald.", start: 173.04, end: 179.12}
+  - {text: "The minimum expectation from China's side was that the trade war, détente, would continue and that's continuing.", start: 179.60, end: 187.76}
+  - {text: "But obviously what's quite important for the Chinese government is to do something on AI.", start: 188.40, end: 193.96}
+  - {text: "And we're still waiting to see if there's been anything concrete that they've agreed on.", start: 194.58, end: 199.40}
+  - {text: "Now the reason I say this is because I'm looking at the propaganda as delivered here through state -controlled media.", start: 199.70, end: 206.36}
+  - {text: "Now take the global times this morning.", start: 206.90, end: 209.12}
+  - {text: "There is a piece and it's all about AI.", start: 209.70, end: 211.36}
+  - {text: "It's all about the two of their meeting in terms of the new challenges of AI.", start: 211.74, end: 216.64}
+  - {text: "And I mean says it pretty clearly in this piece, this meeting is expected to provide new guidance for exploring a model in which competition and", start: 217.72, end: 226.86}
+  - {text: "cooperation can coexist in these emerging technological fields.", start: 226.86, end: 231.86}
+  - {text: "Now they could say something like, well we're exploring a model.", start: 232.10, end: 236.32}
+  - {text: "You don't need to say anything that solid.", start: 236.56, end: 238.46}
+  - {text: "It may well be in the coming hours we do get some information that says we've laid the groundwork for the means in which we can further discuss this.", start: 238.76, end: 245.90}
+  - {text: "But in this same piece from the global times, it is warning that AI is not like any other industry.", start: 246.42, end: 253.32}
+  - {text: "And the wording is beyond the scope of conventional technological industries.", start: 253.74, end: 258.40}
+  - {text: "And I think most people would agree with that.", start: 259.00, end: 260.72}
+  - {text: "I mean certainly these are massive new challenges.", start: 260.88, end: 264.26}
+  - {text: "Not only the global superpowers but that everyone has to deal with.", start: 265.02, end: 268.70}
+  - {text: "And I think from the Chinese side they would hope that they can actually say to their people, Xi Jinping, and say look we're at least doing something about this because I think people here,", start: 268.90, end: 277.80}
+  - {text: "like in other countries, are worried about AI.", start: 278.06, end: 279.86}
+  - {text: "Yeah and there has been words said that suggest that Xi Jinping appears to take the risks rather more seriously than Donald Trump.", start: 280.42, end: 288.60}
+  - {text: "I think that's a pretty fair analysis.", start: 289.04, end: 290.84}
+  - {text: "It's certainly the way it's felt here.", start: 291.10, end: 292.72}
+  - {text: "When you consider that the Chinese government's saying look we need more regulation of this and Donald Trump who thinks that AI is going to somehow catapult his country ahead of China and maintain its position in the world as an economic leader,", start: 293.12, end: 308.58}
+  - {text: "well he thinks if you do anything to reign it back in any way then it can hamper these US companies which are developing AI.", start: 308.94, end: 316.38}
+  - {text: "But following that huge story we had yesterday that the Australian government has claimed that AI has hacked a major government department, the one responsible for all the health insurance of Australians.", start: 316.60, end: 330.36}
+  - {text: "I mean it's huge that an AI program would do this.", start: 330.72, end: 335.46}
+  - {text: "It just shows how dangerous it can be and you imagine what else it's capable of.", start: 335.52, end: 339.66}
+  - {text: "So I think around the world the pressure is going to be coming on the US to do something about putting in much stronger guardrails on AI.", start: 339.86, end: 348.30}
+  - {text: "Stephen MacDonald. In New York reports that around 100 protesters have been detained after gathering en masse ahead of Benjamin Netanyahu's appearance before the UN General Assembly.", start: 349.12, end: 361.01}
+  - {text: "Hollywood stars including Susan Sarandon were taken away by police after chanting for Mr Netanyahu's arrest outside the UN headquarters.", start: 368.54, end: 377.62}
+  - {text: "Inside protests too for the second year in a row with delegations streaming out of the chambers as the Israeli Prime Minister took to the stage.", start: 378.20, end: 387.50}
+  - {text: "Ordering the hall please.", start: 388.81, end: 390.29}
+  - {text: "Thank you. If there are any other moral cowards who haven't yet left this hall please do so now.", start: 395.66, end: 403.18}
+  - {text: "Benjamin Netanyahu responding there.", start: 403.96, end: 406.12}
+  - {text: "He went on to give a robust defence of his actions in Gaza and elsewhere in the Middle East.", start: 406.28, end: 411.80}
+  - {text: "Our Middle East analyst Sebastian Usher was watching.", start: 412.20, end: 414.92}
+  - {text: "That was a big walk out.", start: 415.30, end: 416.88}
+  - {text: "A lot of delegations more than 70 but he used it to his advantage.", start: 417.04, end: 420.98}
+  - {text: "I think you could say Mr Netanyahu, I mean he's very adept at this.", start: 421.20, end: 424.38}
+  - {text: "It's his ability to articulate.", start: 424.66, end: 426.64}
+  - {text: "It's his power as a presenter which has made him so dominant in Israeli politics and such a forceful spokesman for Israel for so many years.", start: 427.16, end: 435.58}
+  - {text: "So he as we heard they call them moral cowards saying that they were the one to essentially are on the wrong side of history but Israel is on the right side of history", start: 435.86, end: 443.66}
+  - {text: "and that the moral failure that they're showing is something that Israel and his leadership has shown up that he had choices to make and that they were the right choices.", start: 443.66, end: 456.58}
+  - {text: "These are points that he's made many times before that for Israel it has no choice but to win a war like this.", start: 456.86, end: 465.36}
+  - {text: "He's got nowhere else to go.", start: 465.42, end: 466.88}
+  - {text: "He praised the Israeli people for the sacrifices they've made.", start: 467.22, end: 471.14}
+  - {text: "I pledge a sacred vow.", start: 471.14, end: 473.34}
+  - {text: "Your sacrifice will not be in vain.", start: 474.29, end: 476.65}
+  - {text: "We will continue to defend our state.", start: 477.39, end: 479.89}
+  - {text: "We will continue to win because we have no other choice.", start: 480.31, end: 486.17}
+  - {text: "He talked about the seven wars that Israel's fighting and the eighth being about information and the truth and accusing those who say that Israel's committed genocide of telling a terrible lie of being hypocrites because they don't protest against Iran,", start: 486.89, end: 502.05}
+  - {text: "they don't protest against other conflicts but that's kind of exasperation in a way and even that I think is more directed to a domestic Israeli audience instead of uniting around this sense.", start: 502.17, end: 514.35}
+  - {text: "It's a double -edged sword.", start: 514.83, end: 516.07}
+  - {text: "The isolation that Israel is now experiencing diplomatically in terms of public opinion across the world is pretty much unprecedented and Mr.", start: 516.23, end: 524.81}
+  - {text: "Netanyahu could be held and is held by a large number of people in Israel responsible for that but at the same time playing that card", start: 524.87, end: 532.69}
+  - {text: "is also a way of unifying Israel saying the world is turning against us and this all in the end revolves around the word genocide.", start: 532.69, end: 539.97}
+  - {text: "He used that answering the gathering number of people who defining what Israel has been doing in Gaza as genocide saying that that's the biggest lie of all", start: 539.97, end: 549.75}
+  - {text: "and that in fact what Israel did on October the 7th was to defeat a genocidal attempt by Hamas.", start: 549.75, end: 557.17}
+  - {text: "Sebastian Asher. Hours before that speech Palestinian President Mahmoud Abbas told the UN that Israeli policies in particular the illegal expansion of Jewish settlements in the occupied West Bank threatened the very life", start: 557.61, end: 572.21}
+  - {text: "and existence of the Palestinian people on their homeland.", start: 572.21, end: 575.63}
+  - {text: "He was speaking in a recorded message after being denied a US visa.", start: 576.09, end: 580.19}
+  - {text: "Our State Department correspondent Tom Bateman sent this report from the UN in New York.", start: 580.81, end: 586.27}
+  - {text: "Sitting in his office in Ramallah Mahmoud Abbas said the American ban on his travel to the UN was unlawful and punitive.", start: 586.91, end: 593.67}
+  - {text: "He argued it punished the Palestinian people for seeking accountability against an occupying force at the international courts.", start: 594.09, end: 600.41}
+  - {text: "He described Israel's actions in Gaza as a genocidal war and suggested along with settler attacks in the West Bank Palestinians were now at risk of", start: 601.03, end: 608.93}
+  - {text: "the greatest wave of expulsions from their land since 1948.", start: 608.93, end: 612.57}
+  - {text: "We will not leave our homeland.", start: 613.59, end: 615.57}
+  - {text: "We will not accept displacement and we will not allow anyone to decide our future on our behalf.", start: 616.65, end: 623.96}
+  - {text: "We decide for ourselves.", start: 624.38, end: 625.94}
+  - {text: "We will extend our hands to a peace based on international legitimacy so that our freedom and independence can be achieved.", start: 627.02, end: 634.16}
+  - {text: "But the 90 year old leader now 21 years into his elected four year term heads an organisation facing a crisis of legitimacy among Palestinians themselves", start: 634.50, end: 644.18}
+  - {text: "who see it as powerless to deliver self -determination.", start: 644.18, end: 647.36}
+  - {text: "Tom Bateman, the Italian government has approved a ban on the Burkha and Nicab in schools along with a limit on the number of pupils who speak little Italian in any one class.", start: 647.70, end: 659.20}
+  - {text: "The Prime Minister, Giorgio Maloney said the rules were tools of common sense that do not divide but truly help to integrate.", start: 659.70, end: 666.80}
+  - {text: "The leader of the opposition accused the government of a witch hunt at the expense of children.", start: 667.38, end: 672.22}
+  - {text: "Stephanie Prentice reports. Italy's Prime Minister, Giorgio Maloney, taking to the stage a palazzo key G to announce the latest move to settle an integration debate that's been intensifying in Italian politics.", start: 672.60, end: 687.53}
+  - {text: "For us, anyone who comes to Italy and wants to build their future here must learn our language, understand our culture and respect our rules.", start: 690.19, end: 697.93}
+  - {text: "It is the only serious way to welcome them.", start: 698.91, end: 700.93}
+  - {text: "How to manage a multi -ethnic school system and whether to allow Islamic face coverings has long been a source of political tension for the coalition government.", start: 701.94, end: 710.96}
+  - {text: "This measure introduces a requirement to learn Italian for parents of foreign students with serious difficulties integrating into the school system and it bans the burqa and the niqab in schools.", start: 712.04, end: 722.34}
+  - {text: "Along with new rules on languages and children arriving at school without face coverings, a 30 % cap will be imposed on pupils without Italian citizenship", start: 723.30, end: 733.18}
+  - {text: "or with poor knowledge of the Italian language.", start: 733.18, end: 735.96}
+  - {text: "Opinion on this was divided between parents at Di Donato Elementary School in Rome with some calling the plans common sense.", start: 737.91, end: 748.05}
+  - {text: "Others questioning where children are supposed to be educated if their local school reaches the new limits on foreign students.", start: 749.37, end: 757.21}
+  - {text: "Giorgio Maloney has offered reassurance the thresholds will primarily affect new arrivals and her government say the plans will improve educational outcomes and promote integration.", start: 758.53, end: 770.09}
+  - {text: "Opposition politicians and children's charities fear they'll broaden divisions.", start: 770.85, end: 775.41}
+  - {text: "What the public think more broadly could play out when they go to the polls in Italy's general election in 2027 with immigration set to be a significant campaign issue.", start: 776.37, end: 787.31}
+  - {text: "Stephanie Prentiss still to come in this podcast.", start: 787.79, end: 793.31}
+  - {text: "They are inhuman. You can't make somebody live for seven years as I have done with a machete at my throat.", start: 796.77, end: 803.19}
+  - {text: "How a corporation kicking an 87 -year -old woman out of her home in Madrid revealed a systemic problem in Spain.", start: 803.75, end: 811.61}
+  - {text: "This is the Global News podcast.", start: 819.76, end: 821.68}
+  - {text: "To Venezuela's capital now where hundreds of people have taken to the streets demanding the return of the exiled opposition figure Maria Carina Machado.", start: 822.68, end: 832.32}
+  - {text: "Come back, we are waiting for you.", start: 836.24, end: 838.76}
+  - {text: "One of the messages echoing through the streets of Caracas.", start: 839.08, end: 842.28}
+  - {text: "On Wednesday, Machado's team said she had tried three times over the course of the day to enter the country by both sea and air.", start: 842.98, end: 850.48}
+  - {text: "Her boat was cancelled and neither of her flights were permitted to land.", start: 850.88, end: 854.50}
+  - {text: "This comes as the country's acting president, Delcey Rodriguez met President Trump in what she described as a historic encounter.", start: 854.96, end: 862.76}
+  - {text: "It was their first meeting since US forces deposed her former boss, Nicolas Maduro, who's being held in a prison cell a few kilometers away.", start: 863.28, end: 871.40}
+  - {text: "They were meeting at the UN General Assembly where Delcey Rodriguez announced that Venezuelan elections would go ahead.", start: 871.90, end: 879.32}
+  - {text: "It's not clear when and this Venezuelan called for a date to be set.", start: 879.82, end: 883.94}
+  - {text: "She said there will be elections in Venezuela, but when?", start: 886.28, end: 889.68}
+  - {text: "When will those elections take place?", start: 890.06, end: 891.80}
+  - {text: "How long do they plan to wait before holding elections?", start: 891.98, end: 894.66}
+  - {text: "We demand elections now immediate elections.", start: 895.06, end: 898.08}
+  - {text: "Maria Carina Machado smuggled her way out of the country in what was an extraordinary top secret mission.", start: 898.66, end: 905.16}
+  - {text: "Could she smuggle herself back in?", start: 905.58, end: 907.70}
+  - {text: "I've been getting the views of BBC monitoring's Luis Fajardo.", start: 908.14, end: 911.16}
+  - {text: "What she has been trying to do of course was very risky at great personal danger for herself when she left Venezuela in an operation which from what we understand was had the active cooperation of US authorities", start: 911.54, end: 924.08}
+  - {text: "and she has been exploring multiple options to return to Venezuela.", start: 924.08, end: 928.26}
+  - {text: "It would seem that the government of Delcey Rodriguez would be hostile in principle to her return.", start: 928.56, end: 934.28}
+  - {text: "Of course, she is still by far the biggest figure of the Venezuelan opposition and of course, Delcey Rodriguez right now is basking in what will have been seen by many", start: 934.46, end: 945.06}
+  - {text: "as a political triumph for her appearance at the United Nations and of course, her appearance with President Trump.", start: 945.06, end: 952.44}
+  - {text: "Certainly the Venezuelan government would not be happy in a circumstance in which she returned to Venezuela right now, particularly in this moment after she has obtained the recognition she wanted in some form or another from President Trump,", start: 952.78, end: 967.74}
+  - {text: "agreeing to meet with her and of course, her appearance in the United Nations.", start: 967.80, end: 970.80}
+  - {text: "But again, there is so much speculation about what is going on in Venezuela that it is hard to know the actual facts about what is going on.", start: 971.38, end: 978.70}
+  - {text: "Certainly there is a lot of demand among many sectors in Venezuela for a political change that is the political change so many people expected after the US intervention", start: 978.94, end: 988.46}
+  - {text: "and they've been growing louder in their demands for elections soon and Maria Corina Machado would presumably be a big part of that.", start: 988.46, end: 996.60}
+  - {text: "So there is understandably a lot of anticipation in Venezuela to what could be her next move.", start: 996.86, end: 1002.44}
+  - {text: "So anticipation, Interim President Delcey Rodriguez has promised elections but really how likely are they?", start: 1002.44, end: 1011.08}
+  - {text: "A lot of members of the Venezuelan opposition are growing very upset with the situation.", start: 1011.60, end: 1017.18}
+  - {text: "They had great expectations of what could happen with after Nicolás Maduro was taken to the US and they expected a move soon into full democracy for Venezuela.", start: 1017.52, end: 1029.40}
+  - {text: "What we have been seeing in their comments recently is that they are growing a lot more skeptical about what the US could be thinking about this whole process.", start: 1029.78, end: 1040.92}
+  - {text: "Of course, the United States has said that the end process of this would be elections but they have been notoriously ambiguous about any possible date, any possible calendar.", start: 1041.06, end: 1050.92}
+  - {text: "And of course, some people are pointing to, for example, President Trump's latest statement about his intentions regarding Venezuelan oil.", start: 1051.38, end: 1058.90}
+  - {text: "His phrase about saying that to the Victor Goh, the spoils of this situation, suggesting that his government gives a lot more priority to the situation with the oil and obtaining control of natural resources in Venezuela and that in that sense,", start: 1059.02, end: 1072.88}
+  - {text: "establishing elections and full democracy in Venezuela would not be much of a priority for them.", start: 1072.98, end: 1077.82}
+  - {text: "Once again, the US government insists that the end result of this will be democracy but people certainly want to know, or a lot of people in Venezuela certainly want to know,", start: 1078.10, end: 1086.88}
+  - {text: "when this democracy will be fully operative, when these elections will occur and they have been growing louder in their demands for a much more specific calendar of return to democracy, of return to elections in Venezuela.", start: 1087.20, end: 1098.94}
+  - {text: "Marie Carmen is an 87 -year -old woman with mobility issues who has lived in her home in an affluent part of Madrid since she was a child,", start: 1101.08, end: 1110.40}
+  - {text: "taking the rental contract over from her parents.", start: 1110.78, end: 1113.64}
+  - {text: "But this week, she was dramatically evicted, taken out on a stretcher amid crowds of supporters who'd gathered outside.", start: 1113.90, end: 1121.88}
+  - {text: "Three previous attempts to evict her were blocked by the courts and the case has received increasing media attention and become emblematic of a broader problem across Spain.", start: 1122.30, end: 1132.88}
+  - {text: "Guy Hedgeko reports from Madrid.", start: 1133.28, end: 1135.14}
+  - {text: "The moment that Marie Carmen was evicted from her flat in central Madrid, the home she had lived in for seven decades.", start: 1141.82, end: 1149.98}
+  - {text: "Hundreds of supporters turned out to protest against the eviction.", start: 1151.27, end: 1155.01}
+  - {text: "Marie Carmen had been paying rent of 500 euros per month, but when a property company bought the flat a few years ago, it raised the rent to five times that amount.", start: 1156.44, end: 1167.51}
+  - {text: "It eventually settled on 1 ,650 euros, still way beyond her means.", start: 1168.33, end: 1174.07}
+  - {text: "The 87 -year -old spoke just before her eviction.", start: 1175.80, end: 1178.74}
+  - {text: "They are inhuman. You can't make somebody live for seven years as I have done with a machete at throat.", start: 1185.88, end: 1192.77}
+  - {text: "And then they cut my throat, and all just to make money at other people's expense.", start: 1193.90, end: 1198.02}
+  - {text: "In the hours after the eviction, protesters took to the streets of Madrid and other cities, clashing with police who fired rubber bullets in the air.", start: 1204.10, end: 1213.26}
+  - {text: "These people were angry, not just at the plight of this elderly woman, but at a housing market in which rental costs have soared in recent years,", start: 1214.65, end: 1223.37}
+  - {text: "leaving millions of Spaniards struggling to get by.", start: 1223.37, end: 1226.61}
+  - {text: "Economist Javier Díaz Jiménez says a lack of supply of housing is at the root of the problem.", start: 1228.52, end: 1234.40}
+  - {text: "Clearly, there's an excess demand for housing in the city centers.", start: 1235.55, end: 1241.07}
+  - {text: "Lots of Spaniards, they own their houses.", start: 1241.61, end: 1244.25}
+  - {text: "So this is a problem that affects especially young people.", start: 1244.97, end: 1249.17}
+  - {text: "The socialist -led government says it sympathizes with those who are struggling.", start: 1249.65, end: 1253.95}
+  - {text: "But many want to see it take drastic action.", start: 1254.55, end: 1257.29}
+  - {text: "As the crisis has worsened, more and more people, particularly youngsters, have become involved in activism.", start: 1258.56, end: 1264.50}
+  - {text: "This week, Madrid is hosting an international conference on tenants' rights.", start: 1270.97, end: 1275.41}
+  - {text: "One of the organizers is Miriam Bué of the Local Tenants Union.", start: 1276.46, end: 1280.40}
+  - {text: "She protested outside Marie Carmen's flat before her eviction, and she warns that anger is building.", start: 1281.16, end: 1287.70}
+  - {text: "If this continues like this, the momentum is going to grow and this is going to become a civil problem in the streets, because we believe the laws are not legit anymore.", start: 1288.10, end: 1297.86}
+  - {text: "We are in a moment where not even a full salary is able to give you a space to live.", start: 1298.38, end: 1302.78}
+  - {text: "If this is not solved soon enough, we promise you we are going to organize for this rebellion to happen.", start: 1303.26, end: 1310.22}
+  - {text: "I'm outside the building where Marie Carmen lived for seven decades, and it's very quiet now, following the drama and tension that was seen here during her eviction.", start: 1310.98, end: 1322.08}
+  - {text: "So the big question now is whether this particular case, which has moved so many Spaniards and triggered so much debate, whether it will have a broader impact on the country's housing crisis.", start: 1323.09, end: 1335.43}
+  - {text: "Guy Hedgeko reporting from Madrid.", start: 1337.06, end: 1339.38}
+  - {text: "More details have been emerging on the extent of the cyber attack on the FBI earlier this week.", start: 1340.35, end: 1346.25}
+  - {text: "It seems that hackers have stolen the personal information of every member of staff that works for the Federal Bureau of Investigation in the US.", start: 1346.69, end: 1355.83}
+  - {text: "That's around 38 ,000 people, phone numbers, home addresses, photo IDs, all in the hands of a cyber crime gang.", start: 1356.05, end: 1363.67}
+  - {text: "In a statement on social media, FBI officials say they are actively and aggressively investigating the matter.", start: 1364.15, end: 1371.29}
+  - {text: "Rebecca Kesby spoke to the technology journalist Chris Stockle Walker and asked him what do we know about the group Shiny Hunters that's thought to be behind the hack?", start: 1371.77, end: 1382.29}
+  - {text: "A decent amount, although not everything that we would perhaps like to know, Rebecca.", start: 1383.06, end: 1387.14}
+  - {text: "So there were a loose international cyber crime group really specializing in data extortion, so taking information and then either extorting a ransom or extorting some sort of change from their victims.", start: 1387.36, end: 1399.64}
+  - {text: "They've been active for nearly a decade now, since around about 2019 or so, and their modus operandi is effectively breaking into organizations, exfiltrating that data,", start: 1400.08, end: 1409.74}
+  - {text: "then using the threat of publishing that or putting it up for sale to try and put victims under pressure.", start: 1410.16, end: 1415.06}
+  - {text: "Yeah, now it doesn't seem as if they want cash for this particular hack, they want something else.", start: 1415.26, end: 1419.98}
+  - {text: "Can you explain? They want effectively a retraction from the FBI.", start: 1420.18, end: 1424.28}
+  - {text: "It is a really notable incident this one.", start: 1424.62, end: 1427.04}
+  - {text: "They, alongside taking this data, managed to hack into the FBI website and put up a statement in place of what was originally on that website,", start: 1427.24, end: 1435.44}
+  - {text: "saying that they give the FBI a week or so to either correct or remove so -called false allegations that had been made earlier this year,", start: 1435.44, end: 1443.32}
+  - {text: "which described shiny hunters as a cyber criminal group specializing in large -scale data breaches and extortion.", start: 1443.36, end: 1449.20}
+  - {text: "They dispute that and obviously say they want that to be changed.", start: 1449.38, end: 1452.44}
+  - {text: "You would have thought that the FBI in particular had particularly strong cybersecurity.", start: 1453.10, end: 1458.56}
+  - {text: "How did they manage to do this?", start: 1459.70, end: 1461.12}
+  - {text: "It's not entirely clear.", start: 1462.01, end: 1463.39}
+  - {text: "The organization themselves, shiny hunters, they say that they had managed to exploit what's called a zero -day exploit, which means a previously unknown issue with a database", start: 1463.59, end: 1474.25}
+  - {text: "that is used by the FBI to try and store this information.", start: 1474.25, end: 1478.47}
+  - {text: "Although with these sorts of things and cyber criminals, you also have to be very wary of how they actually describe what they've done.", start: 1478.93, end: 1484.63}
+  - {text: "They like to cover their tracks and perhaps mislead somewhat.", start: 1484.87, end: 1487.95}
+  - {text: "So it may well have been the case that that has happened, but likewise, what they tend to do and what they have done in previous instances,", start: 1488.19, end: 1494.75}
+  - {text: "to use social engineering to mimic or replicate trusted processes and trusted individuals to convince people to hand over effectively the keys to the kingdom.", start: 1495.23, end: 1504.51}
+  - {text: "What is the fear that they might do with this hacked information?", start: 1504.83, end: 1507.81}
+  - {text: "The 38 ,000 odd details that are available there have intensely personal information.", start: 1508.59, end: 1512.77}
+  - {text: "Obviously, these agents operate often in the utmost secrecy.", start: 1513.03, end: 1516.23}
+  - {text: "So the concern, I think, is that it gets spared widely both within cyber criminal networks and also beyond.", start: 1516.41, end: 1521.49}
+  - {text: "Technology journalist Chris Stockle -Walker.", start: 1522.28, end: 1525.18}
+  - {text: "If you've ever wondered whether your dog actually understands what you're saying, scientists think they may be listening more closely than you realize.", start: 1526.27, end: 1534.35}
+  - {text: "Researchers in Hungary have found similarities in the way dogs and humans process spoken words after comparing the brain activity of 20 people and 20 of our canine friends.", start: 1534.91, end: 1546.71}
+  - {text: "Here's our health reporter, Philippa Roxby.", start: 1547.13, end: 1549.27}
+  - {text: "Dogs usually understand a few crucial words, mostly relating to food, walks and balls, even if they don't always respond to them.", start: 1549.79, end: 1558.61}
+  - {text: "But what's going on in their brains when they're listening to our commands?", start: 1559.17, end: 1562.33}
+  - {text: "This research suggests striking similarities in the way dog brains and human brains decode the rhythm of words in speech.", start: 1562.95, end: 1569.89}
+  - {text: "From the age of about one, humans use consonants to break up speech into manageable chunks, something called consonant bias.", start: 1570.53, end: 1578.03}
+  - {text: "No other species, even closely related primates, have been found to have this trait.", start: 1578.79, end: 1583.83}
+  - {text: "But the Hungarian study authors say they found the first evidence of consonant bias in dogs.", start: 1584.41, end: 1589.43}
+  - {text: "Attila Andic is lead author and brain researcher from Elta University in Budapest.", start: 1590.29, end: 1595.31}
+  - {text: "The interesting thing is that this is an example for speech shaping the brain of a non -human animal.", start: 1595.63, end: 1602.25}
+  - {text: "Human speech shapes brain functions of a non -human animal.", start: 1602.51, end: 1605.75}
+  - {text: "And so this shows that to have a language tuned, a speech tuned brain does not require complex linguistic abilities, because also animals that don't have such complex linguistic abilities can get there.", start: 1606.47, end: 1619.25}
+  - {text: "For the study, dogs and humans were played a continuous stream of speech -like sounds, and the pattern of their brain activity was analyzed.", start: 1619.57, end: 1626.95}
+  - {text: "When consonant sounds dominated, the frequency of the pattern in dog brains was similar to humans.", start: 1627.61, end: 1633.07}
+  - {text: "Even dogs which hadn't been family pets from birth or hadn't been exposed to human speech early in life showed the same trait.", start: 1633.79, end: 1640.87}
+  - {text: "Not all languages are consonant heavy, like Hungarian and English, however.", start: 1641.67, end: 1645.75}
+  - {text: "The researchers say they would now love to carry out the same experiment in dogs used to hearing languages like Danish or Mandarin.", start: 1646.33, end: 1653.83}
+  - {text: "globalpodcast at bbc .co .uk You can also find us on X at BBC World Service.", start: 1664.45, end: 1671.85}
+  - {text: "Use the hashtag globalnewspod.", start: 1672.01, end: 1674.57}
+  - {text: "And don't forget our sibling podcast, The Global Story, which goes in depth and beyond the headlines on one big story.", start: 1675.17, end: 1684.05}
+  - {text: "This edition of the Global News podcast was mixed by Martin Baker and the producer was Charles Sanctuary.", start: 1684.31, end: 1691.29}
+  - {text: "The editor is Karen Martin.", start: 1691.63, end: 1693.07}
+  - {text: "I'm Alex Ritzen, until next time, goodbye.", start: 1693.53, end: 1696.03}
+---
