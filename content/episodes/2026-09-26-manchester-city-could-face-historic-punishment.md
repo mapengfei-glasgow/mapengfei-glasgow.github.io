@@ -1,0 +1,273 @@
+---
+layout: single
+title: "Manchester City could face historic punishment"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-26T00:00:00Z
+slug: "2026-09-26-manchester-city-could-face-historic-punishment"
+audioDir: "2026-09-26-manchester-city-could-face-historic-punishment"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-26-manchester-city-could-face-historic-punishment/episode.mp3"
+totalDuration: 1549.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC, World Service.", start: 0.00, end: 2.62}
+  - {text: "Hello, I'm Uncle Desai and in the early hours of Saturday, the 26th of September, these are our main stories.", start: 5.31, end: 11.19}
+  - {text: "One of the world's richest football clubs, Manchester City, has found guilty of dozens of breaches of financial rules.", start: 11.89, end: 17.35}
+  - {text: "Iran offers a deal to the US to reopen the Strait of Hormuz within seven days, linked to an end to all fighting in the region.", start: 18.07, end: 25.65}
+  - {text: "And the UN says there has been a sharp increase of Sudanese refugees fleeing the country's civil war for neighbouring Chad.", start: 26.19, end: 32.05}
+  - {text: "Also in this podcast, FBI agents tell the BBC of their shock, fear and anger following a hack that threatens to expose highly sensitive personal data.", start: 35.22, end: 44.16}
+  - {text: "And we're in Paris for day one of four of a state visit by Pope Leo, who warns followers against the dangers of artificial intelligence.", start: 44.68, end: 56.25}
+  - {text: "We start the podcast with the bombshell verdict that has rocked the world of English football.", start: 60.64, end: 65.70}
+  - {text: "The team that lit up television screens and dominated the Premier League for 10 years under Pep Guardiola, Manchester City has been found guilty of repeatedly breaking financial rules.", start: 66.04, end: 76.76}
+  - {text: "It marks the biggest disciplinary case in the history of the sport, with the club found guilty on almost all of the 115 charges against it.", start: 77.30, end: 86.28}
+  - {text: "With more, here's our sports editor, Dan Rowan.", start: 86.70, end: 88.94}
+  - {text: "Over the past decade, Manchester City have enjoyed an era of unprecedented success.", start: 90.00, end: 94.82}
+  - {text: "The only English club in history to have won the top division title four times in a row.", start: 94.82, end: 99.72}
+  - {text: "But for years now, a cloud has hung above the Etihad.", start: 100.24, end: 102.80}
+  - {text: "City accused of a catalogue of financial rule violations by the very competition they dominated for so long.", start: 103.22, end: 109.04}
+  - {text: "And today finally came seismic news.", start: 110.00, end: 112.42}
+  - {text: "City found guilty of the majority of 115 charges.", start: 112.86, end: 116.02}
+  - {text: "In a statement, the club said the Premier League process remains ongoing with significant elements to be completed.", start: 116.96, end: 122.94}
+  - {text: "The club has diligently respected due process for eight years on the basis that the Premier League board and executive would behave as an independent, impartial and fair -minded regulator, free from partisan influence.", start: 122.94, end: 134.50}
+  - {text: "This the reaction of fans outside the Etihad.", start: 135.28, end: 137.94}
+  - {text: "Regardless of what happens, the City found first and foremost, do I agree with the rules?", start: 138.38, end: 142.80}
+  - {text: "No, if they've brought the rules, then they've brought the rules.", start: 143.04, end: 145.02}
+  - {text: "I don't want to say something's been tainted when we're not at the bottom of this.", start: 145.20, end: 149.60}
+  - {text: "There's still, you know, things to go on in the background.", start: 149.60, end: 152.68}
+  - {text: "It's a big club.", start: 153.00, end: 153.42}
+  - {text: "They've got the infrastructure to fight.", start: 153.72, end: 154.78}
+  - {text: "They've got the money.", start: 155.00, end: 156.22}
+  - {text: "I think it'll be all right.", start: 156.66, end: 157.28}
+  - {text: "So how did we get here?", start: 157.74, end: 159.06}
+  - {text: "In February 2023, City faced a catalogue of alleged breaches of the Premier League rulebook.", start: 159.50, end: 165.02}
+  - {text: "54 charges over a failure to provide accurate financial information across nine seasons and 14 more over a failure to provide accurate details for player and manager payments over the same period.", start: 165.34, end: 177.10}
+  - {text: "They were also accused of 12 counts of failing to comply with both UEFA and Premier League financial rules and 35 charges of failing to cooperate with the Premier League's investigation.", start: 177.50, end: 187.48}
+  - {text: "The saga began back in 2008 when City's fortunes were transformed after it was bought by Sheikh Mansour, a billionaire member of Abu Dhabi's ruling family.", start: 188.00, end: 197.02}
+  - {text: "His wealth secured some of the world's best players and a first Premier League title in 2012.", start: 197.48, end: 202.12}
+  - {text: "Finally, football appears to have one of its biggest ever results, but with no news of a sanction and City set to appeal, the saga is far from over.", start: 203.94, end: 212.30}
+  - {text: "So what next for Manchester City and what could be the wider consequences for the English Premier League?", start: 212.74, end: 218.38}
+  - {text: "I asked our football correspondent, Dale Johnson.", start: 218.82, end: 220.84}
+  - {text: "So this is going to be a severe punishment is an absolutely seismic case.", start: 221.30, end: 225.22}
+  - {text: "It goes across nine years of continual misconduct if it is indeed proven and they don't win an appeal.", start: 225.54, end: 231.88}
+  - {text: "So there are a few things that are open to the disciplinary panel.", start: 232.28, end: 235.48}
+  - {text: "It's a points deduction, financial penalties or removal from the Premier League.", start: 235.48, end: 239.70}
+  - {text: "Now removal from the Premier League sounds unlikely, but a points deduction because of the gravity of this and because that they have failed to comply throughout,", start: 239.74, end: 248.02}
+  - {text: "it seems highly likely there will be a heavy points deduction that will be meted out from the disciplinary commission.", start: 248.64, end: 254.02}
+  - {text: "And Dale, I guess the domino effect could be that once the formal process is done, there could be wider implications with other clubs wanting to,", start: 254.42, end: 260.92}
+  - {text: "I guess, settle some scores they might feel as though they've missed out on titles or income if they didn't qualify for Europe or maybe loss of money because they got relegated into another division.", start: 261.20, end: 270.76}
+  - {text: "Plug gates could essentially open.", start: 271.10, end: 272.48}
+  - {text: "Yeah, this is going to be absolutely massive because if you look at two years ago, several Premier League clubs said that they would reserve the", start: 272.90, end: 280.62}
+  - {text: "right to take action to get financial compensation should Manchester City be found guilty.", start: 280.62, end: 286.22}
+  - {text: "Now, we're not just talking here about Manchester United and Liverpool who missed out on the Premier League title in the three years at Manchester City won it in this period.", start: 286.88, end: 295.46}
+  - {text: "It's about the teams that finished just outside the Champions League places, the teams that missed out on Europe.", start: 295.82, end: 300.64}
+  - {text: "And as you mentioned, the teams that were relegated, there are so many implications here.", start: 300.86, end: 305.18}
+  - {text: "And when you consider that early this year, Burnley rewarded 35 million pounds from Everton because they got relegated in one year when Everton had a PSR breach.", start: 305.36, end: 315.32}
+  - {text: "And that was just a few points and that's one team.", start: 315.62, end: 318.66}
+  - {text: "Can you imagine the potential size of compensation?", start: 318.66, end: 321.54}
+  - {text: "Manchester City might have to pay out if this does turn out as it seems to be with them being found guilty and having to face these claims for compensation.", start: 322.28, end: 330.68}
+  - {text: "Our football correspondent, Dale Johnson, Iran's foreign minister says his country has proposed a deal to the US to reopen the street of Hormuz within seven days if certain conditions are met.", start: 331.12, end: 343.39}
+  - {text: "The closure of the waterway has caused oil and gas prices to soar, causing hardship for millions of people around the world.", start: 343.99, end: 350.73}
+  - {text: "Abbas Araqi, speaking at the UN in New York, said the choice now rests with the United States.", start: 351.25, end: 356.33}
+  - {text: "Iran has conveyed to the United States through Qatar a concrete seven day plan.", start: 356.81, end: 363.65}
+  - {text: "If the necessary conditions are met, the street can be reopened.", start: 365.07, end: 369.50}
+  - {text: "A normal maritime passage restored within seven days.", start: 370.04, end: 374.20}
+  - {text: "The choice now rests with the United States.", start: 375.49, end: 378.21}
+  - {text: "Iran does not accept coercion, threat or intimidation.", start: 379.12, end: 382.96}
+  - {text: "And Iran will not surrender its sovereign rights under pressure.", start: 383.88, end: 388.12}
+  - {text: "We got more on the plan from our UN correspondent, Nedotofiq.", start: 388.66, end: 392.24}
+  - {text: "To cap off this busy week of diplomacy, Iran's Foreign Minister Abbas Araqi delivered a statement to the press saying that Iran had delivered a concrete", start: 392.60, end: 402.32}
+  - {text: "plan through Qatari mediators to the United States to get the Strait of Hormuz open within seven days.", start: 402.32, end: 408.72}
+  - {text: "And he said if the U .S.", start: 408.72, end: 410.24}
+  - {text: "was serious about diplomacy, that everything was now prepared.", start: 410.24, end: 414.14}
+  - {text: "Now, in reality, it's not much different than the original memorandum of understanding that was reached between Iran and the U .S.", start: 414.68, end: 422.16}
+  - {text: "before that initial ceasefire broke down.", start: 422.24, end: 424.52}
+  - {text: "Iran says that if their assets are unfrozen, if the naval blockade in the Strait is lifted and if a ceasefire includes Lebanon, that they are", start: 424.90, end: 435.08}
+  - {text: "ready to open the Strait of Hormuz from their end.", start: 435.08, end: 437.98}
+  - {text: "But this deal would now just shorten that timeline to seven days.", start: 437.98, end: 441.96}
+  - {text: "It's unclear at the moment how the United States will respond to this for the Iranian delegation.", start: 442.40, end: 448.04}
+  - {text: "They are hoping that the upterm upcoming midterm elections will provide an incentive for Donald Trump to declare some kind of deal and victory.", start: 448.42, end: 456.66}
+  - {text: "But President Trump has already told this assembly that he won't be swayed by the election.", start: 457.06, end: 461.60}
+  - {text: "And he still believes that kind of that crippling economic pressure will ultimately help the U .S.", start: 461.88, end: 467.46}
+  - {text: "with leverage. Neda Tulfik, almost all refugees going to America are now white Africanas from South Africa.", start: 467.48, end: 475.16}
+  - {text: "The U .S. State Department says more than 17 ,000 could be admitted next year.", start: 475.78, end: 480.28}
+  - {text: "It comes as a result of Donald Trump creating a refugee scheme for white Africanas after claiming there is a genocide against them in South Africa.", start: 480.76, end: 489.10}
+  - {text: "But South Africa's new ambassador to Washington says there is no genocide against white Africanas like himself and is pushing for the scheme to be scrapped.", start: 489.64, end: 498.34}
+  - {text: "And North America correspondent Ioni Wells sent this report.", start: 498.76, end: 501.58}
+  - {text: "In St Helena Bay on South Africa's West Coast, the houses have an enviable view of long sand beaches, blue skies, a gentle swell of waves.", start: 504.66, end: 512.94}
+  - {text: "But this resident, S.", start: 516.44, end: 518.20}
+  - {text: "U. Divanaha wants to pack it all up and in his words, flee.", start: 518.28, end: 521.60}
+  - {text: "South Africa is a terrible country to live in for everybody at this stage, not just the Africanas, but the reality is that there's a political drive towards killing white people and killing the farmers on the farms.", start: 522.24, end: 537.90}
+  - {text: "And that movement is a political driven agenda to wipe us out.", start: 538.72, end: 543.98}
+  - {text: "Data shows most victims of farm violence in the country are black, not white.", start: 544.16, end: 547.74}
+  - {text: "And farm attacks while they do exist only make up a small fraction of murders and these are people that are officials and they're saying that killed the white farmer and take their land.", start: 548.16, end: 558.48}
+  - {text: "The data hasn't stopped U.", start: 558.58, end: 559.66}
+  - {text: "S. President Donald Trump seizing on this narrative and claiming white South Africans are victims of genocide.", start: 559.70, end: 564.36}
+  - {text: "He made this accusation to South Africa's president, Cyril Ramaphosa, at the White House last year and created a refugee scheme for white South Africans.", start: 564.94, end: 572.14}
+  - {text: "We had three times, three separate occasions where people came into the house.", start: 572.78, end: 578.78}
+  - {text: "Lili, not her real name, moved her family to Texas through the scheme a year ago, leaving their farm and lives behind in South Africa.", start: 579.48, end: 586.22}
+  - {text: "Nothing was stolen. We went home, but there is friends of my husband, people that lived around us that were not fortunate not to be home.", start: 586.38, end: 598.10}
+  - {text: "They were brutally attacked with pangas and hammers and that was very close to us.", start: 598.28, end: 603.60}
+  - {text: "In the last 10 months, nearly 13 ,000 refugees were admitted to the U.", start: 604.90, end: 609.28}
+  - {text: "S. All but three of them were South African to qualify for the U.", start: 609.30, end: 613.26}
+  - {text: "S. Programme. Larry Bartlett, the former director of the U.", start: 613.28, end: 616.20}
+  - {text: "S. Refugee Admissions Programme fears they're taking refugee places reserved for those fleeing persecution.", start: 616.22, end: 621.98}
+  - {text: "It frankly would be laughable, except for the fact that we are now denying legitimate refugees an opportunity to come to the United States.", start: 622.62, end: 633.91}
+  - {text: "And instead, what the Trump administration has chosen to do is to focus on a population of white people who, frankly, under U.", start: 634.73, end: 644.87}
+  - {text: "S. Law, unlikely qualify for refugee status.", start: 644.91, end: 648.83}
+  - {text: "And they're taking scarce and precious places for people who have a real need to relocate for people who have fled war, for people who fled ethnic cleansing is wrong, and I think it's probably unlawful.", start: 649.15, end: 664.43}
+  - {text: "From my perspective, South Africa's new ambassador in Washington, Ralph Mayer, negotiated an end to apartheid on behalf of the party responsible for it.", start: 664.97, end: 673.37}
+  - {text: "Now he wants to negotiate an end to this scheme.", start: 673.97, end: 676.25}
+  - {text: "The notion of a mass attack on the Afrikaner was misrepresented by those that might have conveyed the message.", start: 676.67, end: 689.20}
+  - {text: "I mean, I'm an Afrikaner from South Africa myself.", start: 689.76, end: 692.48}
+  - {text: "I can say that I've never experienced something of that kind.", start: 693.24, end: 696.58}
+  - {text: "So the source is misrepresented, unfortunately, something that just doesn't exist.", start: 697.02, end: 703.56}
+  - {text: "I made the point several times publicly that I would like to see the executive order being lifted.", start: 703.94, end: 709.82}
+  - {text: "But here in Washington, D .C.", start: 710.16, end: 711.64}
+  - {text: "pressure on the South African government is increasing.", start: 711.84, end: 713.90}
+  - {text: "The U .S. has announced visa restrictions targeting people it accuses of discriminating against South Africa's white minority.", start: 714.32, end: 719.94}
+  - {text: "The number of those arriving here keeps growing with some like Lili, encouraging more to join her.", start: 720.74, end: 725.52}
+  - {text: "My entire life's changed.", start: 725.68, end: 726.80}
+  - {text: "What I call the American dream, OK, is we both have jobs.", start: 728.27, end: 733.05}
+  - {text: "We live in a safe neighborhood.", start: 733.49, end: 734.95}
+  - {text: "This is home for me now.", start: 735.55, end: 736.73}
+  - {text: "This is home for my family.", start: 737.15, end: 738.27}
+  - {text: "Lili has no desire to go back, but it's not clear if a future government after Donald Trump would continue to recognize her status here.", start: 738.59, end: 746.03}
+  - {text: "That report from Ioni Wells.", start: 746.03, end: 747.63}
+  - {text: "The United Nations says there has been a sharp increase this week in the number of Sudanese refugees fleeing the country's civil war for neighbouring Chad.", start: 748.57, end: 756.05}
+  - {text: "It's at the number of people crossing the border.", start: 756.67, end: 758.41}
+  - {text: "It's around 20 times the usual rate.", start: 758.71, end: 760.63}
+  - {text: "And that eventually could mean more refugees trying to get to Europe.", start: 761.07, end: 764.61}
+  - {text: "Here's a global affairs reporter, Jacob Evans.", start: 765.09, end: 767.11}
+  - {text: "At the Dusty and Dry Processing Centre in Adre, desperate refugees keep arriving from the Sudan border just a few kilometres to the east.", start: 771.20, end: 778.56}
+  - {text: "For the last few years of the grueling civil war, almost a million Sudanese refugees have fled here for a chance of safety.", start: 778.56, end: 784.90}
+  - {text: "But the UN's refugee agency says this week has seen a marked rise in arrivals.", start: 786.24, end: 790.38}
+  - {text: "Around 400 people are crossing the border every day.", start: 790.94, end: 793.50}
+  - {text: "People who have witnessed and lived through countless atrocities.", start: 794.04, end: 796.50}
+  - {text: "Mamadou Deann Balde is the UN's refugee coordinator for the region.", start: 797.36, end: 800.64}
+  - {text: "I was able to witness the arrival of new refugees, people who tell us that they flee the conflict, they flee the aerial bombardment, they flee the drone attacks, they flee the persecution, they flee the violence.", start: 800.98, end: 818.00}
+  - {text: "And people who are also getting more vulnerable because of the impact of climate shocks.", start: 818.92, end: 824.26}
+  - {text: "The ongoing power struggle between the Sudanese armed forces and the paramilitary rapid support forces is into its fourth year.", start: 824.60, end: 830.82}
+  - {text: "It's left millions dead and injured.", start: 831.36, end: 832.80}
+  - {text: "The UN estimates more than 33 million people in Sudan need humanitarian assistance, coupled with at least three and a half million Sudanese refugees living in neighbouring countries.", start: 833.16, end: 842.32}
+  - {text: "However, Mr Balde says the necessary aid is not available.", start: 843.10, end: 846.14}
+  - {text: "The international community have given them around 20 percent of the needs that are required, but it means less food.", start: 846.54, end: 854.22}
+  - {text: "It means less capacities for people to be relocated to safer areas.", start: 854.72, end: 859.44}
+  - {text: "It means less capacities to shelter themselves.", start: 859.86, end: 862.44}
+  - {text: "And it also means people who remain in very dire and vulnerable situations.", start: 862.80, end: 868.80}
+  - {text: "The consequences of declining support extend beyond the immediate region.", start: 869.28, end: 872.76}
+  - {text: "Latest analysis shows the overall number of refugees travelling to North Africa's Mediterranean coast to try and reach Europe has decreased.", start: 873.30, end: 879.98}
+  - {text: "But the number of Sudanese arrivals by sea has risen significantly.", start: 880.60, end: 883.66}
+  - {text: "Over 14 ,000 were recorded in 2025, more than treble the previous year.", start: 884.32, end: 888.98}
+  - {text: "Many of these new arrivals in Chad have a difficult dilemma.", start: 889.54, end: 892.22}
+  - {text: "Do they stay in small, overrun camps, tried to return to war -ravaged Sudan?", start: 892.80, end: 897.04}
+  - {text: "Or do they attempt the perilous journey to Europe?", start: 897.70, end: 899.50}
+  - {text: "Jacob Evans still to come in this podcast.", start: 900.10, end: 905.16}
+  - {text: "The boss of the BBC says artificial intelligence could be used to create and present programs in the future.", start: 905.56, end: 911.00}
+  - {text: "We want to experiment with this technology and understand what it can and can't do.", start: 911.36, end: 915.56}
+  - {text: "I don't think anything we do should be replaced by AI.", start: 915.84, end: 918.10}
+  - {text: "I think there are lots of places where AI can help us to make Blacksense Figo further, but also help us in our decision making and in our creativity, but it's not a substitute for humans.", start: 918.36, end: 928.48}
+  - {text: "This is the Global News podcast.", start: 935.88, end: 937.86}
+  - {text: "Current and former FBI agents have spoken to BBC News of their shock, fear and anger following a hack on Monday that appears to have exposed the private", start: 938.86, end: 948.64}
+  - {text: "and personal information of the agency's entire workforce.", start: 948.64, end: 952.04}
+  - {text: "The cyber criminals are now threatening to publish an enormous tranche of personal, private and sensitive data if their demands are not met.", start: 952.72, end: 960.78}
+  - {text: "Our cyber correspondent, Joe Tidy, has been speaking to concerned staff.", start: 961.26, end: 964.86}
+  - {text: "So far, the FBI has said very little about this potentially dangerous hack.", start: 965.34, end: 969.44}
+  - {text: "It's refusing to respond to reporters, instead issuing a short statement online saying it is aggressively investigating.", start: 969.86, end: 976.34}
+  - {text: "But inside the FBI community, there is a loud chorus of shock, anger and fear.", start: 977.00, end: 981.56}
+  - {text: "Former and current agents I've spoken to are extremely concerned about this highly sensitive data set to be published on the dark net for any criminal with a grudge to download.", start: 982.10, end: 992.16}
+  - {text: "That is likely to happen in four days time as the hackers, shiny hunters have been threatening.", start: 992.68, end: 997.66}
+  - {text: "We are particularly worried about our undercover agents, one insider told me.", start: 998.38, end: 1002.34}
+  - {text: "The stolen tranche contains not only the personal contact details of tens of thousands of agents, but also thousands of documents showing medical exams and test results of a private nature.", start: 1002.62, end: 1012.80}
+  - {text: "How did this happen and why wasn't this information better protected?", start: 1012.80, end: 1016.78}
+  - {text: "Is a feeling many agents expressed anger at the agency for not having better cyber defences.", start: 1017.20, end: 1022.78}
+  - {text: "But inside the FBI, there is a concerted effort to find and arrest this prolific hacking group.", start: 1023.14, end: 1028.78}
+  - {text: "The bureau will make these criminals suffer was a warning I heard repeatedly.", start: 1029.24, end: 1033.26}
+  - {text: "Joe Tidy, the boss of the BBC says artificial intelligence could be used to create and present programs in the future.", start: 1034.00, end: 1042.18}
+  - {text: "Matt Britten, a former executive at Google, took up the role of director general of the BBC in May.", start: 1042.78, end: 1048.50}
+  - {text: "Now he's been speaking to the BBC's Laura Kuhnsberg about AI and how the corporation could be better placed to deal with its potential.", start: 1049.12, end: 1056.14}
+  - {text: "She asked Mr. Britten if he would allow a BBC programme to be made by AI.", start: 1056.80, end: 1060.98}
+  - {text: "I would do within guardrails.", start: 1061.56, end: 1063.40}
+  - {text: "And I think what we want to do is we want to experiment with this technology and understand what it can and can't do.", start: 1063.72, end: 1069.28}
+  - {text: "But I think I'm here because I believe in human creativity.", start: 1069.28, end: 1072.34}
+  - {text: "I don't think anything we do should be replaced by AI.", start: 1072.84, end: 1075.20}
+  - {text: "I think there are lots of places where AI can help us to make license fee go further, but also help us in our decision making and in our creativity, but it's not a substitute for humans.", start: 1075.40, end: 1085.72}
+  - {text: "The BBC and our apps and services should be the antidote to the algorithm.", start: 1086.14, end: 1090.10}
+  - {text: "Everywhere else you go is driven by some commercial interest.", start: 1090.46, end: 1094.20}
+  - {text: "You know, watch more shows, sell more advertising or take your data and give it to somebody who's building other things.", start: 1094.54, end: 1099.76}
+  - {text: "And we're also in this moment where AI is in takeoff.", start: 1100.58, end: 1103.58}
+  - {text: "So I think there's a danger that six companies will control access to information in future and the creation of information and misinformation.", start: 1103.96, end: 1111.66}
+  - {text: "Six companies, none of them European, let alone British.", start: 1112.20, end: 1114.74}
+  - {text: "In that world, here's the BBC.", start: 1115.40, end: 1117.12}
+  - {text: "It's the most trusted organisation.", start: 1117.58, end: 1118.72}
+  - {text: "So you want the BBC to be a rival to those other big platforms, but also the BBC content is going on to those platforms.", start: 1119.18, end: 1125.40}
+  - {text: "Do you trust the other big tech platforms?", start: 1125.40, end: 1128.00}
+  - {text: "I think what I'd say is we have to be where the audiences are.", start: 1128.64, end: 1131.20}
+  - {text: "So I was responsible for YouTube.", start: 1131.42, end: 1132.40}
+  - {text: "That's not the question.", start: 1132.64, end: 1133.20}
+  - {text: "Do you trust them?", start: 1133.56, end: 1134.22}
+  - {text: "There's a lot of platforms out there, so I wouldn't trust any platform innately.", start: 1134.34, end: 1137.48}
+  - {text: "And I think what you do is you keep under review how those things were and whether your content can show up in the right place and fulfill its mission.", start: 1138.02, end: 1145.48}
+  - {text: "Matt Britain. Pope Leo has finished day one of his four day state visit to France, speaking to thousands of young Catholics at an evening service.", start: 1146.16, end: 1155.30}
+  - {text: "At earlier engagements in Paris, he was advocating for their future, warning against the dangers of artificial intelligence and the risks of losing our humanity amid a paradise of machines.", start: 1161.46, end: 1173.08}
+  - {text: "Our religion editor, Aline McBall reports.", start: 1173.74, end: 1175.62}
+  - {text: "The bells of churches across France rang out in concert to signal the arrival of Pope Leo, a striking welcome for a man visiting the country with a stark message.", start: 1177.47, end: 1190.88}
+  - {text: "Greeted by Emmanuel and Brigitte Macron, he started his four day trip with a short visit to the Elysee Palace.", start: 1191.76, end: 1198.22}
+  - {text: "His next stop, the headquarters of UNESCO, the visit of an American pope, a boost for the UN agency at a time when the American president", start: 1201.10, end: 1210.58}
+  - {text: "has pulled the US out of the organization.", start: 1210.58, end: 1213.26}
+  - {text: "His keynote speech there filled with warnings about the dangers of AI.", start: 1214.44, end: 1219.60}
+  - {text: "While intelligence is attributed to computational systems, we struggle to recognize the inalienable dignity of human persons whose lives are judged according to the criterion of efficiency.", start: 1221.34, end: 1234.90}
+  - {text: "And when deemed no longer productive, they're rejected and discarded.", start: 1235.60, end: 1240.16}
+  - {text: "He's long talked of the threats posed by AI, including in the significant teaching document he published this year.", start: 1241.14, end: 1248.36}
+  - {text: "In it, he warns of AI enslaving humanity through algorithms that commodifiers, of it putting huge amounts of power in the hands of very few and", start: 1248.36, end: 1259.00}
+  - {text: "of reducing war to something like a video game.", start: 1259.00, end: 1261.94}
+  - {text: "He's brought those messages to France, reminding people what it means to be human, to interact, to come together.", start: 1264.65, end: 1272.03}
+  - {text: "He visited Notre Dame Cathedral.", start: 1273.20, end: 1274.98}
+  - {text: "It's rebuilding after devastating fire a celebration of human endeavor.", start: 1275.56, end: 1280.20}
+  - {text: "The result, he said, was a place that felt like it was where heaven and earth met.", start: 1280.20, end: 1286.02}
+  - {text: "Alim MacBull reporting. The Chinese president Xi Jinping has ended his first visit to the U .S.", start: 1289.04, end: 1296.09}
+  - {text: "in more than a decade, despite little in terms of concrete policy announcements.", start: 1296.11, end: 1300.71}
+  - {text: "There was a visible friendly atmosphere between him and Donald Trump on his three day visit that featured a series of lavish events.", start: 1301.11, end: 1308.33}
+  - {text: "One of them was a private tea party that Trump's hosted for President Xi and his wife, Pung Leone.", start: 1308.83, end: 1314.99}
+  - {text: "Until recently, it wasn't common for a Chinese leader to be accompanied by a spouse.", start: 1315.63, end: 1320.13}
+  - {text: "And some have described Pung Leone or Mrs.", start: 1320.51, end: 1323.59}
+  - {text: "Xi as China's secret soft power weapon.", start: 1323.83, end: 1326.73}
+  - {text: "She's a well -known singer in her own right.", start: 1327.41, end: 1329.17}
+  - {text: "Here she is singing the song Everest at the annual Chinese New Year Gala back in 1997.", start: 1329.53, end: 1335.15}
+  - {text: "So is Pung Leone a soft power superweapon?", start: 1344.94, end: 1349.22}
+  - {text: "Jane Pellez is former Beijing bureau chief for the New York Times, and she's been speaking to Rebecca Kasby.", start: 1349.84, end: 1355.76}
+  - {text: "Well, I don't know about superweapon.", start: 1356.18, end: 1358.24}
+  - {text: "I think she's quite a power.", start: 1358.80, end: 1360.42}
+  - {text: "She's a wonderful singer.", start: 1360.56, end: 1361.48}
+  - {text: "She's recognized all across China as an amazing voice and presence because she's appeared on practically every New Year television gala for the last decades.", start: 1361.58, end: 1373.90}
+  - {text: "So she's a recognizable figure with a great voice.", start: 1374.52, end: 1377.62}
+  - {text: "And now she's accompanying Xi Jinping on his trips abroad, which is quite unusual, as you mentioned, for Chinese leaders to take their wives before Xi Jinping, they were not seen and not heard, except occasionally from Mao's wife,", start: 1377.90, end: 1391.78}
+  - {text: "who was quite rambunctious and not something that you'd really want to take abroad.", start: 1391.98, end: 1394.84}
+  - {text: "Well, he didn't go abroad anyway, but Pung Leone is really exceptional in that sense.", start: 1395.02, end: 1399.12}
+  - {text: "She's also fluent in English, too, isn't she?", start: 1399.12, end: 1401.98}
+  - {text: "Well, I haven't spoken to her, so I can't testify to that.", start: 1402.26, end: 1405.02}
+  - {text: "But the Chinese press was all gaga because she said a few words in English without a translator when she got off the plane, when she spoke to Melania Trump.", start: 1405.44, end: 1415.64}
+  - {text: "I think she speaks relatively good English, but how much practice she gets, I don't know.", start: 1415.78, end: 1419.66}
+  - {text: "So as you say, she's played a role in this meeting that we've had over the past few days.", start: 1420.04, end: 1425.30}
+  - {text: "I mean, it's all been smiles and, you know, nice words from both sides.", start: 1425.30, end: 1430.02}
+  - {text: "But what has come out of this state visit, do you think?", start: 1430.12, end: 1432.72}
+  - {text: "Not very much. That's why a lot, particularly the Chinese media, is focusing on her because not a lot has been accomplished.", start: 1433.16, end: 1442.14}
+  - {text: "Nothing on AI that we know of, nothing on Iran, a very feeble two -month extension of a trade truce, Taiwan not mentioned.", start: 1442.60, end: 1452.82}
+  - {text: "We really don't know what, if anything, went on.", start: 1453.34, end: 1455.82}
+  - {text: "But it seems pretty clear that there was nothing substantial.", start: 1455.98, end: 1458.16}
+  - {text: "So that gave the Chinese a good chance to showcase the First Lady.", start: 1458.38, end: 1463.76}
+  - {text: "She and the Trumps and, of course, Xi Jinping went on two museum visits, not just one.", start: 1464.44, end: 1470.84}
+  - {text: "They had a tea together this morning at the White House.", start: 1471.38, end: 1474.80}
+  - {text: "And interestingly, they went to the National Archives, and I think they looked at the Declaration of Independence.", start: 1475.52, end: 1480.88}
+  - {text: "But whether they looked at documents about human rights or individual rights, I'm not quite sure about that.", start: 1480.88, end: 1487.08}
+  - {text: "And briefly, will both sides actually be quite happy with that?", start: 1487.54, end: 1491.42}
+  - {text: "Well, I think President Trump is quite happy with it, but I'm not sure that even many of his senior officials are that happy with it.", start: 1491.86, end: 1499.26}
+  - {text: "And I think a lot of people who care and know about China are not very happy about it because it means that there's been very little progress on extremely tendentious issues that affect us all.", start: 1499.28, end: 1510.82}
+  - {text: "Jane Perles, former Beijing bureau chief for The New York Times.", start: 1511.06, end: 1514.54}
+  - {text: "And that's all from us for now.", start: 1516.84, end: 1518.34}
+  - {text: "If you want to get in touch, you can email us at globalpodcastatbbc .co .uk.", start: 1518.46, end: 1522.56}
+  - {text: "You can also find us on X at BBC World Service.", start: 1522.94, end: 1525.48}
+  - {text: "Use the hashtag Global News Pod.", start: 1525.86, end: 1527.68}
+  - {text: "And don't forget, ask us to podcast the global story, which goes in depth and beyond the headlines on one big story.", start: 1528.18, end: 1533.56}
+  - {text: "This edition of the Global News Podcast was mixed by Derek Clark and the producers were Alfie Habishan and Ruby Gleason.", start: 1534.02, end: 1540.24}
+  - {text: "The editor is Karen Martin and I'm Uncle Desai.", start: 1540.24, end: 1542.64}
+  - {text: "Until next time, goodbye.", start: 1542.88, end: 1544.14}
+---
