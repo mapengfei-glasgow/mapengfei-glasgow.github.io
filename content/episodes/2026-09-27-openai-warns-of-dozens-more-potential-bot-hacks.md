@@ -1,0 +1,298 @@
+---
+layout: single
+title: "OpenAI warns of dozens more potential bot hacks"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-27T00:00:00Z
+slug: "2026-09-27-openai-warns-of-dozens-more-potential-bot-hacks"
+audioDir: "2026-09-27-openai-warns-of-dozens-more-potential-bot-hacks"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-27-openai-warns-of-dozens-more-potential-bot-hacks/episode.mp3"
+totalDuration: 1727.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.96}
+  - {text: "I'm Nick Miles and in the early hours of Sunday the 27th of September these are our main stories.", start: 4.58, end: 10.16}
+  - {text: "OpenAI informs dozens of global institutions that their website may have been accessed improperly by its artificial intelligence agents that went rogue.", start: 10.86, end: 21.02}
+  - {text: "President Trump rejects an Iranian proposal to fully reopen the vital street of Hormuz.", start: 21.68, end: 27.14}
+  - {text: "We hear what's blocking progress and a contentious march in Northern Ireland looks set to take place in the latest twist in a court battle that's seen sectarian tensions rise.", start: 27.14, end: 38.56}
+  - {text: "Also in this podcast, Bangladesh launches a nationwide vaccination campaign to combat its worst ever measles outbreak and it's trying to basically mimic the ritual that we enjoy from shopping the satisfaction", start: 40.42, end: 53.62}
+  - {text: "and the rush we get after we place an order without us actually having to pay for it.", start: 53.62, end: 58.06}
+  - {text: "A fake purchase but a real dopamine hit.", start: 58.28, end: 60.94}
+  - {text: "Once again the alarming activities of artificial intelligence agents, bots, which can act autonomously are dominating the headlines.", start: 64.30, end: 73.20}
+  - {text: "OpenAI says it's warned dozens of organisations around the world including government bodies that its software may have interfered with their websites without its knowledge.", start: 73.66, end: 83.46}
+  - {text: "This announcement comes days after the Australian Prime Minister, Anthony Albanese, said that OpenAI agents had hacked into his government's healthcare system.", start: 84.06, end: 93.60}
+  - {text: "With more on these latest developments, his on North America technology correspondent, Lily Jamali.", start: 94.02, end: 99.32}
+  - {text: "OpenAI is saying that its AI agents meddled with a whole host of websites that belong to governments, universities and public agencies along with other institutions around the world here in the US.", start: 99.70, end: 112.32}
+  - {text: "Some of the websites that were included here were those operated by the US Securities and Exchange Commission, which is our main securities regulator, the Department of Education.", start: 112.62, end: 122.90}
+  - {text: "And what's interesting here is that the meddling sometimes involved the agents using pretty extreme methods.", start: 123.62, end: 129.78}
+  - {text: "So they cited an example of one autonomously retrieving US census data using online credentials that it found on its own.", start: 129.78, end: 139.22}
+  - {text: "We're just hearing one incident after the next.", start: 139.22, end: 141.80}
+  - {text: "I mean, just today there were sort of three major stories in this vein just involving OpenAI.", start: 141.94, end: 147.00}
+  - {text: "And it just feels like this is snowballing in a way that is making a lot of regulators very uncomfortable, making a lot of members of the public ask, what's going on here?", start: 147.68, end: 157.28}
+  - {text: "Does OpenAI have this under control?", start: 157.46, end: 159.38}
+  - {text: "You know, sometimes we talk about these rogue agents, but these things are programmed by people at a company.", start: 159.94, end: 165.40}
+  - {text: "And so I think that's where the concern lies is, how are these things being programmed?", start: 166.10, end: 170.28}
+  - {text: "And why does this continue to happen even after we learned about hugging face in that breach you mentioned in Australia?", start: 170.48, end: 176.28}
+  - {text: "I'm not sure how proactive some of these revelations really were.", start: 177.02, end: 181.06}
+  - {text: "Some of it was the result of, I think, reporting by journalists that pressured them to some degree.", start: 181.32, end: 186.26}
+  - {text: "Something we haven't even gotten to is the fact that OpenAI said agents leaked a couple dozen images from users of its flagship product, chat GPT", start: 186.62, end: 195.34}
+  - {text: "in the latest example of this kind of behavior.", start: 195.34, end: 198.32}
+  - {text: "But, you know, we heard from the Australian Prime Minister this week saying they should have come forward more quickly.", start: 198.92, end: 204.58}
+  - {text: "Sam Altman, the boss over at OpenAI said today on social media that company hasn't disclosed incidents as fast as they would have liked.", start: 205.08, end: 213.50}
+  - {text: "He's the boss of the company.", start: 213.64, end: 214.96}
+  - {text: "So if he wants something to happen, it will happen.", start: 215.10, end: 217.20}
+  - {text: "Lily Jamali in San Francisco.", start: 217.20, end: 219.44}
+  - {text: "So how do these attacks happen and just how dangerous are they?", start: 219.84, end: 223.28}
+  - {text: "One of the first breaches to make headlines, which Lily mentioned, was when an OpenAI bought autonomously hacked the company hugging face.", start: 223.90, end: 232.18}
+  - {text: "Meta, which stands for model evaluation and threat research, is a California -based group that's been investigating that incident.", start: 232.94, end: 240.60}
+  - {text: "It found that hundreds of AI agents had organized and named themselves and were speaking to each other in a chat room.", start: 240.92, end: 247.84}
+  - {text: "Meta's president, Chris Painter, told Rebecca Kesby about the research.", start: 248.40, end: 251.96}
+  - {text: "I would characterize these as loss of control incidents.", start: 252.64, end: 255.70}
+  - {text: "It is very alarming to see the signs of AI systems trying to figure out how to hide their tracks.", start: 256.04, end: 261.44}
+  - {text: "And I think you are, like, right to worry that as they get more capable, they will get better at hiding their tracks.", start: 261.66, end: 267.92}
+  - {text: "Our investigators depended a lot on this fact that when you went in to do the investigation, you could see what's called the chain of thought, right?", start: 268.40, end: 277.22}
+  - {text: "Where the AI systems kind of think to themselves on a scratch pad about what action they're going to take next.", start: 277.30, end: 283.34}
+  - {text: "One thing that I think is an additional worry here is even that could become less faithful or informative about what AI agents are thinking.", start: 283.76, end: 291.84}
+  - {text: "There's this idea inside of the industry that it's possible that soon we could have AI systems where to make them more capable, they move from", start: 292.32, end: 301.04}
+  - {text: "reasoning in words to reasoning in numbers entirely.", start: 301.04, end: 304.12}
+  - {text: "And then when we send investigators in in the future to look at these incidents, when we say, okay, what was the AI agent thinking in this case?", start: 304.58, end: 311.38}
+  - {text: "We'll find just a whole big room of numbers and no words about its reasoning process.", start: 311.58, end: 316.28}
+  - {text: "I sometimes describe it as a gun that you can't aim.", start: 316.60, end: 319.40}
+  - {text: "It's becoming more and more powerful, but you also are getting worse at aiming it.", start: 319.76, end: 323.62}
+  - {text: "That sounds really dangerous, a gun that you can't aim.", start: 323.74, end: 326.62}
+  - {text: "I think it's going to be difficult at least today for there to be something where you say like, we did testing and this model is certified safe.", start: 326.62, end: 334.10}
+  - {text: "My goal is trying to make sure that there's at least one institution that has the technical capacity to do this kind of testing.", start: 334.50, end: 341.10}
+  - {text: "Yeah, I think having more actors that can do this kind of evaluation and inform the public debate, I think is really valuable.", start: 341.40, end: 348.02}
+  - {text: "People listening to this, they'll be aware of our impending doom, potentially within the next 10 years.", start: 348.36, end: 354.40}
+  - {text: "As a result of uncontrollable AI, if the time is not now for regulation, we're going to lose it, aren't we?", start: 354.64, end: 361.98}
+  - {text: "10 years in some ways even sounds kind of far out.", start: 362.24, end: 364.72}
+  - {text: "It's common to talk about the idea that we might soon speed up AI research by having AI systems do the research itself.", start: 365.06, end: 373.02}
+  - {text: "That could mean that very quickly we could have it be that the AI systems are doing a lot of the work improving themselves.", start: 373.24, end: 379.60}
+  - {text: "If AI systems are then doing a lot of actions in the economy for us, it could be that soon we have like robots that they can interface with or actuate in the real world.", start: 380.12, end: 389.34}
+  - {text: "And then the question is kind of if we have defective training processes, when we have AI systems that are running large parts of the real world,", start: 389.64, end: 397.76}
+  - {text: "they're running a lot of our cyber operations, you know, actuating robots and cars or whatever in the real world, then the stakes for losing control of the systems could be much higher.", start: 397.84, end: 408.16}
+  - {text: "And I think a world where were that level of reliant on AI systems could come very quickly on the order of single digit years.", start: 408.42, end: 415.98}
+  - {text: "That was the AI expert, Chris Painter.", start: 416.38, end: 418.20}
+  - {text: "There's been another full start in the US -Iran peace process.", start: 419.28, end: 422.58}
+  - {text: "Donald Trump has rejected an Iranian proposal to reopen the Strait of Hormuz within a week.", start: 423.18, end: 428.04}
+  - {text: "Speaking outside the White House, President Trump had this to say to reporters.", start: 428.72, end: 431.96}
+  - {text: "While I'm rejecting their deal, they want to make a deal where they open the Strait immediately because they're losing so badly.", start: 432.60, end: 437.98}
+  - {text: "You know, you don't read that or you don't see that in the fake news.", start: 438.28, end: 441.14}
+  - {text: "But we're winning tremendously.", start: 441.42, end: 443.38}
+  - {text: "We have total control of the Hormuz Strait.", start: 443.76, end: 446.16}
+  - {text: "Massive amounts of oil are coming out of the Hormuz Strait.", start: 446.86, end: 449.94}
+  - {text: "Last night, we had 29 ships come out.", start: 450.12, end: 452.34}
+  - {text: "They want to make a deal.", start: 452.72, end: 453.56}
+  - {text: "And I think that's fine.", start: 453.64, end: 454.52}
+  - {text: "I like making a deal, too.", start: 454.66, end: 455.84}
+  - {text: "Responding to that, the Iranian Foreign Minister Abbas Araqi said only a negotiated solution can get America out of this deadlock.", start: 456.32, end: 463.68}
+  - {text: "So what was in Tehran's proposal?", start: 464.26, end: 466.26}
+  - {text: "John Donelson is our correspondent in Jerusalem.", start: 466.96, end: 469.16}
+  - {text: "We think it was very similar, in many of its aspects, to the memorandum of understanding that was done between Iran and the United States earlier in the year,", start: 469.84, end: 478.78}
+  - {text: "which quickly broke down with a resumption of violence.", start: 479.24, end: 482.12}
+  - {text: "So included in this proposal from the Iranians was a end to sanctions on Iranian oil, the lifting of frozen assets, giving the Iranians access to that, a lifting of the U .S.", start: 482.38, end: 495.20}
+  - {text: "naval blockade. And in this deal, they were proposing a seven -week cessation of all hostilities from the U .S.", start: 495.26, end: 503.76}
+  - {text: "and Israel in the Middle East, including Lebanon.", start: 503.80, end: 506.88}
+  - {text: "Now, when this proposal was put forward by the Iranian Foreign Minister last night, it might have sounded like a bit of a breakthrough.", start: 507.14, end: 513.44}
+  - {text: "But really, I think we've not really moved any further forward.", start: 513.64, end: 516.88}
+  - {text: "It's very quickly been rejected pretty clearly by President Trump just in the last few hours.", start: 517.38, end: 521.96}
+  - {text: "And it's good that discussions are taking place.", start: 522.54, end: 525.04}
+  - {text: "We know that the Iranian Foreign Minister was talking to the U .S.", start: 525.12, end: 528.02}
+  - {text: "Special Envoy Steve Wyckoff in New York in the last few days.", start: 528.08, end: 531.20}
+  - {text: "But I'm not sure how much progress has been made.", start: 531.38, end: 534.10}
+  - {text: "So why, if the content of Iran's proposed deal was so close to one President Trump agreed to back in June, has he now rejected it?", start: 534.44, end: 543.66}
+  - {text: "Rob Malley was a U .S.", start: 544.04, end: 545.32}
+  - {text: "Special Envoy for Iran under President Biden.", start: 545.36, end: 548.04}
+  - {text: "I think the rejection was preordained.", start: 548.66, end: 550.32}
+  - {text: "I mean, the minute I heard of the plan, I think it was pretty obvious that the U .S.", start: 550.66, end: 554.20}
+  - {text: "would reject it for several reasons.", start: 554.22, end: 555.40}
+  - {text: "First, he didn't particularly like the MOU, which had collapsed the framework on which this is based.", start: 555.56, end: 560.62}
+  - {text: "And this one, if anything, was slightly even more favorable to Iran because they wanted to see the economic benefits upfront.", start: 561.08, end: 567.98}
+  - {text: "So it was in some ways worse than a deal that President Trump has decided he didn't like.", start: 568.68, end: 573.34}
+  - {text: "Added to that is the fact that the circumstances have changed since then.", start: 573.84, end: 577.20}
+  - {text: "The U .S.'s blockade has proven to be quite effective in terms of really strangulating Iran's economy.", start: 577.52, end: 582.80}
+  - {text: "Other sanctions have been added.", start: 583.10, end: 584.34}
+  - {text: "You now have basically an air blockade as well, more or less.", start: 584.84, end: 588.24}
+  - {text: "And the U .S.", start: 588.46, end: 589.06}
+  - {text: "has managed and other countries have managed to get more oil through the Strait of Hormuz, which is not to say that things are back to normal.", start: 589.10, end: 594.92}
+  - {text: "There are a lot of very essential products, critical products that are not getting through the Strait of Hormuz.", start: 595.08, end: 599.48}
+  - {text: "But from a U .S.", start: 599.84, end: 600.56}
+  - {text: "perspective, the importance of reopening the Strait of Hormuz has lessened and the economic pressure they've put on Iran has increased.", start: 600.68, end: 607.66}
+  - {text: "The U .S. feels it's in a stronger position, which means it's certainly not going to accept something that is worse from their point of view than what they agreed two months ago.", start: 608.08, end: 614.86}
+  - {text: "And almost certainly they're going to ask for more.", start: 615.24, end: 616.92}
+  - {text: "And everything we're hearing, and the Iranians, I think, have heard this directly or indirectly from the Americans, is that the U .S.", start: 617.14, end: 623.02}
+  - {text: "position now is that what they want upfront is a nuclear concession by Iran.", start: 623.02, end: 627.80}
+  - {text: "And that's something that right now the Islamic Republic is dead set against offering.", start: 628.12, end: 632.24}
+  - {text: "They're not prepared to give in.", start: 632.50, end: 634.10}
+  - {text: "And certainly not now when they feel like they have zero trust in the Trump administration and the administration that has assassinated its leadership and that", start: 634.20, end: 642.08}
+  - {text: "twice in the middle of talks went to all with Iran.", start: 642.08, end: 644.86}
+  - {text: "So they will be prepared to endure enormous pain, particularly because most of the pain is being felt by ordinary citizens, not by the leadership.", start: 645.04, end: 652.46}
+  - {text: "I was Rob Malley.", start: 652.74, end: 653.58}
+  - {text: "From 2022 -2022, a civil war in Ethiopia's northern Tigray region left at least 100 ,000 people dead, either from the violence or from famine.", start: 654.82, end: 664.38}
+  - {text: "Now it looks like the area may well be falling back into a full -scale conflict.", start: 664.84, end: 669.42}
+  - {text: "Fighting has erupted between the Ethiopian government and the Tigray People's Liberation Front Party.", start: 669.80, end: 675.20}
+  - {text: "There are reports of panic buying and many internet phone and banking services are down.", start: 675.64, end: 680.46}
+  - {text: "The Ethiopian journalist Zacarias Zillaman has been following developments from Canada.", start: 681.12, end: 686.54}
+  - {text: "There's been Tigray -wide communications outages that have made it incredibly difficult to corroborate the claims and counterclaims by the warring factions of battleground victories, of advances.", start: 687.22, end: 698.80}
+  - {text: "The war broke out on Tuesday and I've been unable to reach most of my sources since Thursday.", start: 699.48, end: 704.28}
+  - {text: "The telecommunications provider, Ethiopia Telecom, that has severed its services region -wide.", start: 704.56, end: 709.32}
+  - {text: "Unfortunately, it's in many ways a repeat of the tragic scenario six years ago now.", start: 709.84, end: 715.70}
+  - {text: "A litany of horrific abuses were carried out by all of the warring factions and it was incredibly difficult to document them in real time.", start: 716.24, end: 723.12}
+  - {text: "One could argue that the country's already plunged into a civil war.", start: 723.52, end: 726.38}
+  - {text: "Of course, there's been lots of new realignments.", start: 726.66, end: 728.80}
+  - {text: "There's a new rebel alliance.", start: 729.08, end: 730.30}
+  - {text: "The Tigray rebels are now fighting alongside rebels in the Amhara region and they are widely believed to be backed by Eritrea.", start: 730.80, end: 737.00}
+  - {text: "It's just been a continuation of three years of deteriorating ties.", start: 737.54, end: 740.74}
+  - {text: "So the breakout war and civil war didn't catch anyone off guard and we're hearing reports of hundreds of deaths.", start: 741.14, end: 747.92}
+  - {text: "Fighting is limited really to Tigray's frontier areas bordering the neighboring regions of Amhara and Afar.", start: 748.42, end: 754.62}
+  - {text: "Unfortunately, all signs point to the fighting being set to spread Tigray -wide.", start: 755.30, end: 760.42}
+  - {text: "That's something that may mimic what we saw for six years ago.", start: 760.66, end: 764.22}
+  - {text: "Despite observers pleading with the international community to intervene, you could say that a lot of them were too preoccupied with Iran or Ukraine.", start: 764.74, end: 771.98}
+  - {text: "So a deterioration of the situation on the ground is imminent.", start: 772.34, end: 774.78}
+  - {text: "Zukria Zilahem then. To France now, where Pope Leo has celebrated mass in central Paris at a giant open -air service.", start: 775.38, end: 784.11}
+  - {text: "He made special mention of young people and praised their enthusiasm and commitment within the Christian community.", start: 784.11, end: 790.69}
+  - {text: "Our religion editor Ali McBull was there and sent this report.", start: 791.37, end: 794.79}
+  - {text: "Everywhere he's gone during his visit to France, Pope Leo's been greeted by enthusiastic crowds.", start: 800.17, end: 805.95}
+  - {text: "Today, a large area of central Paris was in effect turned into a vast open -air cathedral.", start: 806.53, end: 813.49}
+  - {text: "At the Place de la Concorde, a towering stage and altar had been built, surrounded by a seated congregation.", start: 813.49, end: 820.55}
+  - {text: "But beyond that, with big screens set up along the Champs Elysees, hundreds of thousands more participated in the papal mass.", start: 821.19, end: 829.05}
+  - {text: "France has had a complex relationship with the Catholic Church, from early adopter of Roman Catholicism to pioneer of strict secularism.", start: 831.36, end: 839.74}
+  - {text: "In his homily, the Pope told Catholics in modern France, where regular church going has long been on the decline, to be confident in expressing their faith.", start: 839.74, end: 848.86}
+  - {text: "You long to rediscover a horizon filled with light and to build a renewed nation upon roots nourished by faith.", start: 852.46, end: 858.68}
+  - {text: "Do not keep this faith in Jesus Christ yourselves.", start: 859.06, end: 861.46}
+  - {text: "You are called to bring hope wherever discouragement and spiritual dryness prevail.", start: 861.86, end: 866.50}
+  - {text: "The Pope also had a broader message about the restlessness of modern life and talked of an inner emptiness people seek to fill with distractions and more possessions.", start: 867.22, end: 877.88}
+  - {text: "Ali McBull, still to come in this podcast.", start: 878.68, end: 882.91}
+  - {text: "I wanted to tell a different side of the story.", start: 885.32, end: 889.06}
+  - {text: "He'd always been a supporting character as opposed to the hero of that narrative.", start: 889.46, end: 893.20}
+  - {text: "The unsung hero of the first Ascent of Everest brought to the big screen.", start: 893.50, end: 897.12}
+  - {text: "This is the Global News podcast.", start: 904.09, end: 905.41}
+  - {text: "It is almost 30 years since a peace process brought relative calm to Northern Ireland after decades of violent conflict.", start: 906.68, end: 913.18}
+  - {text: "But tensions between many Catholics and Protestants living there remain.", start: 913.64, end: 917.22}
+  - {text: "And those tensions are particularly acute at the moment because a march by a Protestant group through a Catholic area in the town of Porter Down", start: 917.82, end: 925.42}
+  - {text: "is due to take place just a few hours after we record this podcast.", start: 925.42, end: 929.56}
+  - {text: "It'll be the first such march there in decades.", start: 930.10, end: 932.24}
+  - {text: "An application to block it was dismissed by judges who sat late into the night to make their ruling.", start: 932.84, end: 937.64}
+  - {text: "Our correspondent Chris Page told me more from Belfast.", start: 938.10, end: 940.66}
+  - {text: "The latest ruling means that one of the most contentious marches in Northern Ireland can go ahead at eight o 'clock on Sunday morning.", start: 941.24, end: 950.10}
+  - {text: "During the night a large crowd gathered on the Gavaki Road and including some men wearing masks, it's understood that 200 extra police officers have come", start: 950.10, end: 961.26}
+  - {text: "to Northern Ireland from Scotland to help with the contingency planning.", start: 961.26, end: 965.30}
+  - {text: "And really there was a sense of tensions rising.", start: 965.76, end: 968.88}
+  - {text: "There have been appeals from calm from the British government in London, from the Irish government in Dublin, also from politicians in Northern Ireland, though also the political reaction here has been strong.", start: 969.06, end: 982.58}
+  - {text: "Sinn Fein, which is the biggest Irish nationalist party here, have described the decision to allow the march to go ahead as a disgrace.", start: 982.82, end: 990.08}
+  - {text: "The leader of that party, Merrily MacDonald, has said the march is steeped in a history of hate, sectarian violence and murder.", start: 990.42, end: 997.22}
+  - {text: "Unionist politicians though have welcomed the outcome of the court process.", start: 997.98, end: 1003.96}
+  - {text: "The local MP for Porta Dine, Carla Lockhart of the Democratic Unionist Party has said it's been a seismic evening for the rule of law.", start: 1004.20, end: 1014.28}
+  - {text: "So this is one of these issues in Northern Ireland, whether deep divisions, political divisions have been laid bare and it's possible that the police could have a very difficult day ahead.", start: 1014.40, end: 1025.18}
+  - {text: "So how does the tension over this particular march reflect wider ongoing divisions between some Catholics and Protestants in Northern Ireland?", start: 1025.76, end: 1034.82}
+  - {text: "Well the history of conflict here has left a very long and difficult legacy.", start: 1035.37, end: 1041.85}
+  - {text: "There were more than 3 ,000 people killed during the conflict known as the Troubles, which lasted from the late 1960s until the late 1990s.", start: 1042.53, end: 1051.29}
+  - {text: "There was a complex conflict where various elements to it and every now and again whenever a historical issue rears its head you will find people looking back to the past, talking about the past and the violence", start: 1051.29, end: 1064.77}
+  - {text: "that happened and the drum creeper raid is one example of it.", start: 1065.37, end: 1069.61}
+  - {text: "It's being discussed and debated on social media as well of course, drawing lots of comment.", start: 1069.91, end: 1075.87}
+  - {text: "Well it has created a new sense of divisions.", start: 1076.29, end: 1079.21}
+  - {text: "That said, most people in Northern Ireland very much mindful of the fact that this is a very different place to what it was 30 years ago.", start: 1079.51, end: 1086.65}
+  - {text: "The peace process has been largely successful and the peace has largely held but nonetheless those divisions are still a reality and the possibility of street violence is always something that is being considered by the police,", start: 1086.71, end: 1100.45}
+  - {text: "by politicians and also by the governments in London and Dublin.", start: 1100.79, end: 1104.99}
+  - {text: "Chris Page. Bangladesh is in the middle of its worst ever measles outbreak.", start: 1105.73, end: 1111.24}
+  - {text: "The highly contagious disease has killed more than a thousand people this year, most of them children.", start: 1111.62, end: 1115.96}
+  - {text: "Now the government has launched a nationwide measles rubella vaccination campaign.", start: 1115.96, end: 1120.58}
+  - {text: "Amrassan Etirajan told us how it's being targeted in communities across the country.", start: 1120.86, end: 1125.48}
+  - {text: "This campaign particularly is very important because for the first time now they have reduced the vaccination age for children from nine months to six months.", start: 1125.98, end: 1135.60}
+  - {text: "Usually measles it's a two -dose vaccine and this campaign aims to inoculate about 3 .4 million children.", start: 1136.10, end: 1144.80}
+  - {text: "So it's going to be a month long campaign and a lot of logistics involved transporting these vaccine around the country.", start: 1145.34, end: 1151.74}
+  - {text: "Now what are the symptoms of measles?", start: 1152.28, end: 1153.82}
+  - {text: "It includes high fever, rashes and also breathing difficulties and it was previously given from nine months up to five years for the children.", start: 1153.98, end: 1162.18}
+  - {text: "Now Bangladesh this year had a major outbreak since the beginning of this year.", start: 1162.66, end: 1167.00}
+  - {text: "The experts are attributing various reasons.", start: 1167.00, end: 1169.74}
+  - {text: "So one is first one is during the COVID period.", start: 1170.04, end: 1172.70}
+  - {text: "Many parents did not take their children to vaccination centers because of the transport everything was shut down and it requires 95 % of the children's population to be vaccinated.", start: 1172.96, end: 1181.98}
+  - {text: "And then Bangladesh also witnessed a political upheaval in August 2024 when the then Prime Minister Sheikh Hasina was overthrown following a student led uprising and", start: 1182.54, end: 1193.60}
+  - {text: "there was a lot of uncertainty chaos in the during the interim government period and the UN officials were saying the government that then interim government", start: 1193.60, end: 1201.56}
+  - {text: "did not procure vaccines at the right time.", start: 1201.56, end: 1204.22}
+  - {text: "And also because of the political violence many health centers were closed, their parents were not taking the children.", start: 1204.58, end: 1210.66}
+  - {text: "That was one of the reasons why because there is a huge gap and it is highly contagious and even if what the experts are pointing out", start: 1211.14, end: 1218.30}
+  - {text: "if one child is not vaccinated that could mean another hundred could get it and that is why they're insisting they want to have a watertight situation", start: 1218.30, end: 1227.74}
+  - {text: "but that will take time because of this gap they are now trying to fill that gap.", start: 1227.74, end: 1233.02}
+  - {text: "Ambras Aneterarjun. Now a few hours ago I typed list of unsung heroes into a search engine and right at the very top came the name Tenzing Norge.", start: 1233.44, end: 1244.52}
+  - {text: "The Sherpa mountaineer who made the first ascent of Everest in 1953 is better known now but for decades he was overshadowed by his climbing partner the New Zealander Edmund Hillary.", start: 1245.24, end: 1255.56}
+  - {text: "Now a film doing the rounds of festivals around the world is highlighting Tenzing Norge's unique part in conquering a peak that Nepal is known as the goddess of the sky.", start: 1256.34, end: 1266.04}
+  - {text: "From Canada, Tom Brooke reports.", start: 1266.46, end: 1268.10}
+  - {text: "The Toronto Film Festival.", start: 1270.52, end: 1272.22}
+  - {text: "One of the stops for the historical drama Tenzing which is being shown at several major festivals in the run -up to its release next month.", start: 1272.76, end: 1280.04}
+  - {text: "This is Tenzing the man we've all been waiting for.", start: 1280.54, end: 1284.20}
+  - {text: "The film tells of the triumphant 1953 British Mount Everest expedition in which New Zealander Edmund Hillary and Sherpa mountaineer Tenzing Norge became the first men to reach the peak of Everest.", start: 1284.38, end: 1296.26}
+  - {text: "In Britain news of the feat came through on the eve of coronation day in 1953 and it was perceived as a great British achievement.", start: 1298.23, end: 1306.39}
+  - {text: "Perhaps we should join forces.", start: 1307.01, end: 1308.37}
+  - {text: "In the film Tom Hiddleston portrays Edmund Hillary and Tibetan actor Jindan Penso plays Tenzing.", start: 1308.67, end: 1314.01}
+  - {text: "The cast has been promoting this picture along with Australian director Jennifer Pedum who with the film is making her first narrative feature.", start: 1317.09, end: 1324.89}
+  - {text: "In this film the story of the British Everest expedition puts the emphasis on Sherpa Tenzing Norge.", start: 1325.45, end: 1331.23}
+  - {text: "I wanted to tell a different side of the story.", start: 1331.65, end: 1334.65}
+  - {text: "Tenzing Norge was one of the people that helped achieve that feat for the British and he'd always been a supporting character.", start: 1335.11, end: 1342.35}
+  - {text: "He'd always been with his Sherpa guide Tenzing Norge as opposed to the hero of that narrative.", start: 1342.61, end: 1347.13}
+  - {text: "It just felt to me time to redress that balance or just to look at that story from a different point of view and what it meant for him.", start: 1347.47, end: 1353.87}
+  - {text: "I am on the climbing team.", start: 1354.19, end: 1355.25}
+  - {text: "The movie conveys the difference in approach between how British members of the expedition viewed Everest as a mountain to be conquered whereas Tenzing and the Himalayan Sherpa community revered Everest as sacred.", start: 1355.25, end: 1367.43}
+  - {text: "For those people in that community those mountains and those landscapes are the living embodiment of their gods for Westerners it's in a symbol of achievement", start: 1367.75, end: 1376.67}
+  - {text: "and so I mean there's various scenes in the film that the Sherpas describe the mountains as the bones and them as the blood.", start: 1376.67, end: 1383.33}
+  - {text: "It's a different relationship to landscape that we possibly don't understand.", start: 1383.89, end: 1387.53}
+  - {text: "This was an opportunity to explore that idea.", start: 1388.15, end: 1390.39}
+  - {text: "Tenzing had its Canadian premiere here at the Toronto International Film Festival and it took place less than a month after the huge devastation brought by landslides", start: 1391.68, end: 1402.26}
+  - {text: "and flash floods in the Nepal -Tibet region not far from where this Mount Everest epic was set but it is seen as providing audiences with a positive", start: 1402.26, end: 1412.58}
+  - {text: "and respectful portrait of not just Tenzing Norge and Edmund Hillary but also the local population who live in the region.", start: 1412.58, end: 1420.48}
+  - {text: "One of the film's producers Ian Canning acknowledges the film is landing in the wake of a tragedy.", start: 1420.90, end: 1426.16}
+  - {text: "I think the film can play some part in bringing that part of the world's culture to the screen and to audiences all around the world", start: 1426.54, end: 1434.96}
+  - {text: "and I think hopefully some sort of feeling of how turbulent and unpredictable the environment and landscape can be and I think that Tenzing in its small way also tells that story.", start: 1434.96, end: 1445.46}
+  - {text: "The film's cinematography is striking.", start: 1446.56, end: 1448.84}
+  - {text: "The mountain climbing sequences shot in Nepal and New Zealand come across as authentic and so does the story of the subspoken Tenzing a man who contributed mightily to what was perceived", start: 1449.26, end: 1460.14}
+  - {text: "as a great British triumph but who may through this film get people to understand his perspective and view mountains and mother nature in a rather different way.", start: 1460.14, end: 1470.02}
+  - {text: "Tom Brooke reporting. Now many of us have probably made a few impulse buys on the internet over the years and immediately regretted it.", start: 1472.42, end: 1480.60}
+  - {text: "So how about getting the excitement of buying something without spending any money?", start: 1481.00, end: 1484.82}
+  - {text: "You can it seems thanks to so -called dopamine websites.", start: 1485.28, end: 1488.50}
+  - {text: "They took off in South Korea some time ago but now they can be accessed around the world.", start: 1489.02, end: 1493.22}
+  - {text: "So what are these popular fake experience websites and how do they work?", start: 1493.42, end: 1497.70}
+  - {text: "Celia Hatton asked our reporter Ira Khan.", start: 1498.00, end: 1500.38}
+  - {text: "These sites mimic the ritual of buying something without you actually paying for it.", start: 1500.80, end: 1505.82}
+  - {text: "There's fake delivery sites, fake shopping sites you can even get a fake holiday.", start: 1506.16, end: 1510.90}
+  - {text: "For example one of the sites is called Food Never Comes in India.", start: 1511.32, end: 1514.76}
+  - {text: "What you do you open the site there's a real life menu with actual prices.", start: 1515.38, end: 1519.88}
+  - {text: "You even get a call from the delivery driver telling you when he's outside and it's actually an AI generated delivery driver.", start: 1520.32, end: 1527.42}
+  - {text: "The creators of this site say it's attracted almost 3 million visitors since June.", start: 1527.76, end: 1532.44}
+  - {text: "It's trying to basically mimic the ritual that we enjoy from shopping.", start: 1533.14, end: 1536.52}
+  - {text: "The satisfaction and the rush we get off to replace an order without us actually having to pay for it.", start: 1536.90, end: 1542.04}
+  - {text: "How many times have you ordered something at night when you get the sort of delivery notification you're like did I really even want that?", start: 1542.26, end: 1548.52}
+  - {text: "That's very true. Can you show me one of these sites?", start: 1549.02, end: 1551.38}
+  - {text: "I want to see what one looks like.", start: 1551.46, end: 1552.64}
+  - {text: "So this site is called Dopamine Shop.", start: 1552.82, end: 1555.08}
+  - {text: "Can you show me the kinds of things that we might be able to choose from on Dopamine Shop?", start: 1555.08, end: 1559.40}
+  - {text: "Oh okay I see a fancy luxury watch, a very expensive looking handbag.", start: 1560.08, end: 1565.92}
+  - {text: "Oh I'm seeing my personal favorite which is some water bottles.", start: 1566.34, end: 1568.98}
+  - {text: "So say you click on one of these items then what happens?", start: 1569.54, end: 1572.18}
+  - {text: "I'm personally really feeling this water bottle so I'm going to add it to my cart and then I'm going to press the shopping icon just as you would on a regular site.", start: 1572.64, end: 1580.46}
+  - {text: "It even shows you what the prices are.", start: 1580.46, end: 1582.70}
+  - {text: "So I've got a gaming console in my cart and this water bottle that I actually really do want to buy and the total is $744.", start: 1582.86, end: 1590.42}
+  - {text: "So then presumably you would just click through.", start: 1591.18, end: 1593.24}
+  - {text: "I'm going to press check out and let's see what happens.", start: 1593.66, end: 1595.60}
+  - {text: "Now it's going to continue to shipping.", start: 1596.00, end: 1597.42}
+  - {text: "We've managed to get free shipping Celia which is good.", start: 1597.84, end: 1600.20}
+  - {text: "Hey we are spending a lot of fake money.", start: 1600.32, end: 1602.12}
+  - {text: "Yes now I'm going to review my order and place order.", start: 1602.30, end: 1605.96}
+  - {text: "Okay. I've got an order number and they're saying the confirmation has been shared to my email.", start: 1606.48, end: 1612.22}
+  - {text: "And there's even little confetti explosions across the screen like a celebration as if you've actually bought something.", start: 1612.46, end: 1618.70}
+  - {text: "Yes I'm really starting to feel excited as if this is actually coming to my home.", start: 1618.82, end: 1623.76}
+  - {text: "So Ira we've just gone through the process here it took just a couple of seconds.", start: 1624.24, end: 1628.30}
+  - {text: "Do these websites really work on a bigger scale?", start: 1628.86, end: 1631.56}
+  - {text: "What these websites are basically suggesting is when we want to go on a holiday or we want to order food we're not actually craving the thing itself.", start: 1631.94, end: 1639.94}
+  - {text: "We're mostly craving the rush that comes with it.", start: 1640.54, end: 1643.32}
+  - {text: "You want to still experience that dopamine hit which has become sort of a constant now in life without the downside which is actually paying a lot of money.", start: 1643.64, end: 1651.58}
+  - {text: "Although we aren't spending money right now buying these products the websites themselves they're making money through the ads that they put on their websites they're also sharing data about consumer spending", start: 1651.86, end: 1663.82}
+  - {text: "and what products are doing well with people.", start: 1663.82, end: 1666.32}
+  - {text: "Ira Kahn speaking to Celia Hatton and just before we go in our last edition of the Global News podcast we said that Xi Jinping's recent visit to the US was his first in a decade but we meant his first state visit.", start: 1666.76, end: 1681.06}
+  - {text: "The Chinese president was previously in California in 2023 and Mar -a -Lago in 2017.", start: 1681.58, end: 1688.54}
+  - {text: "And that's all from us for now.", start: 1691.48, end: 1693.36}
+  - {text: "If you want to get in touch you can email us at globalpodcast at bbc .co .uk.", start: 1693.54, end: 1698.82}
+  - {text: "You can also find us on x at bbcworldservice use the hashtag globalnewspot.", start: 1699.26, end: 1704.68}
+  - {text: "And don't forget our sister podcast The Global Story which goes in depth and beyond the headlines on one big story.", start: 1705.24, end: 1712.40}
+  - {text: "This edition of the Global News podcast was mixed by Chris Hansen and the producer was Emma Joseph.", start: 1713.10, end: 1717.90}
+  - {text: "The editor is Karen Martin.", start: 1718.48, end: 1719.68}
+  - {text: "I'm Nick Mars and until next time goodbye.", start: 1720.14, end: 1722.12}
+---
