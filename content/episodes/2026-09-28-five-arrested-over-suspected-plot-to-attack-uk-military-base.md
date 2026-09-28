@@ -1,0 +1,202 @@
+---
+layout: single
+title: "Five arrested over suspected plot to attack UK military base"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-28T00:00:00Z
+slug: "2026-09-28-five-arrested-over-suspected-plot-to-attack-uk-military-base"
+audioDir: "2026-09-28-five-arrested-over-suspected-plot-to-attack-uk-military-base"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-28-five-arrested-over-suspected-plot-to-attack-uk-military-base/episode.mp3"
+totalDuration: 1739.0
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.96}
+  - {text: "I'm Nick Miles and in the early hours of Monday, the 28th of September, these are our main stories.", start: 5.77, end: 11.07}
+  - {text: "Five men are arrested in Britain on suspicion of explosives and terrorism offensive.", start: 11.85, end: 16.89}
+  - {text: "After suspicious vehicles were reported near an air base used by the US military.", start: 17.43, end: 22.21}
+  - {text: "We have an exclusive report from Yemen where fighting is intensifying as Iranian -backed Houthis continue to advance on the key city of Taiz and politics", start: 22.85, end: 32.61}
+  - {text: "and sport collide as Ireland's football team beats Israel in a match overshadowed by the Gaza conflict.", start: 32.61, end: 39.29}
+  - {text: "Also in this podcast, Venezuelans take to the streets demanding the return of the opposition leader Maria Corina Machado.", start: 42.11, end: 49.39}
+  - {text: "Will she ever be allowed back in?", start: 49.75, end: 51.95}
+  - {text: "And the early days of Route 66 are not a fun story.", start: 52.39, end: 56.51}
+  - {text: "Where people really want to talk about it is that post -war that open road represented freedom and Route 66 it just kept reinventing itself.", start: 56.63, end: 65.37}
+  - {text: "As the famous road celebrates its centenary, we take a ride down memory lane.", start: 65.89, end: 70.41}
+  - {text: "Speculation is growing over who was behind an attempted attack on an air force base here in the UK which is also used by the US military.", start: 74.81, end: 83.19}
+  - {text: "Five men have been arrested on suspicion of explosives and terrorism offenses after suspicious vehicles were reported near the base in rural England.", start: 83.65, end: 92.49}
+  - {text: "Earlier this year, the British government gave US warplanes permission to use RAF Fairford as a staging post for strikes on Iran.", start: 93.21, end: 100.69}
+  - {text: "Donald Trump praised British police for arresting the five men.", start: 101.33, end: 104.61}
+  - {text: "Working with Britain it was an amazing job.", start: 105.09, end: 107.55}
+  - {text: "We had them under investigation.", start: 107.63, end: 108.85}
+  - {text: "They were looking to do big damage to our port and working with the British worked out great.", start: 109.95, end: 117.02}
+  - {text: "It may have been Scotland Yard, I don't know, we worked with a lot of them.", start: 117.70, end: 121.58}
+  - {text: "We had them under view for a long time and we got them.", start: 122.14, end: 124.88}
+  - {text: "Well despite President Trump's claims that the men were under view for a long time, local police have said the arrests occurred after a member of the public contacted them.", start: 125.40, end: 134.70}
+  - {text: "Our diplomatic correspondent James Lander told us more about how this story unfolded.", start: 135.06, end: 139.46}
+  - {text: "Well it began with a telephone call to the local police in the early hours of the morning from a driver passing by who saw these three vans parked in a strange way", start: 139.74, end: 151.20}
+  - {text: "and alerting the authorities and then it followed from there.", start: 151.20, end: 154.36}
+  - {text: "It is a global story simply because this kind of threat against military infrastructure across Europe is now something that is is forming a pattern.", start: 154.74, end: 164.22}
+  - {text: "The idea of hostile activity spilling out of conflicts around the world back to European capitals and countries back to you know even to the United States.", start: 164.62, end: 175.24}
+  - {text: "So the interesting question will be what was the threat where did these men come from because at the moment there's an awful lot of information we don't know.", start: 175.56, end: 181.56}
+  - {text: "We know that the Iranians have directly threatened the British authorities for allowing the Americans to use the base.", start: 181.70, end: 188.06}
+  - {text: "There was a formal statement by the Ministry of Foreign Affairs in Tehran in July making that threat.", start: 188.44, end: 193.52}
+  - {text: "We also know that in the last few days the UK Foreign Secretary Ed Miliband met the Iranian Foreign Minister Mr.", start: 194.04, end: 200.52}
+  - {text: "Aragchi and explicitly warned him against the hostile activity of foreign states in the UK and reinforcing UK resolve against such threats.", start: 200.60, end: 212.48}
+  - {text: "So you know the idea of Iran being a potential line of inquiry for this investigation is clear and it's obvious.", start: 213.00, end: 218.72}
+  - {text: "Some people are looking to Moscow.", start: 219.12, end: 220.36}
+  - {text: "We know that Russia has been threatening to step up its hybrid activity and attacks against NATO countries.", start: 220.98, end: 227.34}
+  - {text: "The Danish intelligence warned about that only a few days ago.", start: 227.80, end: 230.86}
+  - {text: "Germany has now formally blamed Russia for a drone attack against Leipzig Airport and we know that the Russian embassy in London over the summer formally warned the UK of an increasingly higher price", start: 231.28, end: 246.84}
+  - {text: "that it would pay for its support for Ukraine.", start: 246.84, end: 248.94}
+  - {text: "So that might be line of inquiry too.", start: 249.56, end: 251.16}
+  - {text: "James Landau. Earlier this month Houthi fighters made dramatic advances against government forces taking control of hundreds of kilometres of Yemen's coastline close to the Bab Al -Mandeb Strait declaring", start: 251.48, end: 264.12}
+  - {text: "as it did so a naval blockade for Saudi shipping.", start: 264.12, end: 267.68}
+  - {text: "That's a huge concern around the world because the Houthi advances mean they can threaten the millions of barrels of oil that flow through the Strait every day.", start: 268.32, end: 276.26}
+  - {text: "Yemeni government forces are now pushing back.", start: 276.80, end: 279.44}
+  - {text: "Biting is intensifying around the city of Taiz.", start: 279.92, end: 283.00}
+  - {text: "Our senior international investigations correspondent Nawal Al -Maghafi and her team are the first international news organisation to reach Taiz since those Houthi advances.", start: 283.62, end: 293.36}
+  - {text: "She travelled with government forces to one of the closest positions to the Houthis.", start: 293.92, end: 297.80}
+  - {text: "Locked and loaded, the Yemeni troops are heading for battle unsure of whether they'll return.", start: 300.80, end: 306.72}
+  - {text: "They're taking us with them through the valleys of Taiz.", start: 307.42, end: 310.02}
+  - {text: "It's not long before we're confronted with the reality of this war.", start: 310.70, end: 314.18}
+  - {text: "The sound of artillery echoes from afar but the threat is very close.", start: 315.87, end: 320.27}
+  - {text: "Hit the deck. Hit the deck.", start: 321.19, end: 322.59}
+  - {text: "Go, go, go. We can hear a drone above and we've been told that it's a Houthi drone so we're just taking cover.", start: 323.67, end: 330.45}
+  - {text: "Go up the pathway there and come straight down to the road to the cause.", start: 332.74, end: 335.30}
+  - {text: "As we're leaving we came across Ali who's chosen to stay.", start: 343.55, end: 347.51}
+  - {text: "He fears what would happen if the Houthis take over and they're getting close.", start: 348.43, end: 352.37}
+  - {text: "It's terrifying but we can't afford to leave our home.", start: 355.27, end: 358.75}
+  - {text: "Have they ever bombed close to your home?", start: 360.39, end: 362.87}
+  - {text: "Yes, the shells fell here down the valley behind the school.", start: 364.45, end: 367.97}
+  - {text: "Aren't you afraid that any day they might take this area while you're here?", start: 368.45, end: 373.93}
+  - {text: "It's in God's hands.", start: 375.27, end: 376.65}
+  - {text: "Nestled in these mountains, the Houthis lie in wait.", start: 377.37, end: 380.35}
+  - {text: "Their recent capture of Mokka and the Berbilmendev Strait has transformed this battle.", start: 381.13, end: 385.67}
+  - {text: "Now they're pushing inland towards Taiz.", start: 386.39, end: 388.51}
+  - {text: "If this city falls, their grip on the western coast will be much harder to reverse and this war will be felt far beyond Yemen.", start: 389.07, end: 396.85}
+  - {text: "The latest fighting has displaced more than 100 ,000 people to places like the El Mune camp around 20 kilometers from the front line.", start: 397.59, end: 406.03}
+  - {text: "In just 10 days 200 families arrived.", start: 406.84, end: 410.04}
+  - {text: "Most of them have been displaced before.", start: 411.28, end: 413.38}
+  - {text: "It took Fatima two days to get here from Mokka.", start: 414.48, end: 417.20}
+  - {text: "As the fighting closed in, her sons were forced to make an impossible decision leaving her behind to save their children.", start: 417.64, end: 424.88}
+  - {text: "I lost my sons.", start: 427.12, end: 428.96}
+  - {text: "I don't know where they are and now I'm alone out here in the cold.", start: 429.54, end: 432.94}
+  - {text: "The human cost doesn't end there.", start: 435.52, end: 437.80}
+  - {text: "Racing towards the city, one ambulance after another, 24 casualties within 24 hours to this hospital alone.", start: 438.42, end: 446.36}
+  - {text: "We've just been told that a 12 year old girl was brought here two hours ago because she was hit by shrapnel.", start: 447.30, end: 452.32}
+  - {text: "This war is costing lives and it's not just militants, it's civilians too.", start: 453.30, end: 457.24}
+  - {text: "Rana lies here alone.", start: 459.26, end: 460.72}
+  - {text: "She was at home when the mortar hit.", start: 461.56, end: 463.64}
+  - {text: "But TMM's battlefield doesn't have boundaries and this war has a way of finding those who never chose to be a part of it.", start: 464.20, end: 471.50}
+  - {text: "Now our Almagafi reporting.", start: 471.80, end: 473.80}
+  - {text: "Ireland has beaten Israel 3 -0 in a hugely controversial UEFA Nations League match that took place in Hungary.", start: 475.14, end: 483.76}
+  - {text: "The game almost didn't go ahead because of opposition to Israel's war in Gaza but after days of intense discussions most of the Irish football squad agreed to take part.", start: 484.85, end: 494.11}
+  - {text: "The goalkeeper Gavin Bazunu refused to play and the rest of the team wore black armbands in honour of the tens of thousands of mainly Palestinians who've been killed in the conflict.", start: 494.63, end: 503.81}
+  - {text: "Before the match the Israeli Football Association insisted that politics and sport should remain separate.", start: 504.37, end: 510.25}
+  - {text: "Our sports correspondent Kevin Sharkey was at the match and he told me more about the drama in the build -up to the game.", start: 510.89, end: 516.71}
+  - {text: "The lead -up to this match was shrouded in controversy.", start: 517.21, end: 521.21}
+  - {text: "There was a clamour back home in Ireland for the footballers of the Republic of Ireland not to participate in this match for weeks and indeed", start: 521.21, end: 528.47}
+  - {text: "months beforehand ever since the two sides were pitted together in this tournament.", start: 528.47, end: 533.87}
+  - {text: "Came to Ireland Saturday when the Republic of Ireland delayed a press conference and delayed training as the players deliberated they ultimately decided to play the match and it wasn't an easy decision.", start: 534.47, end: 545.19}
+  - {text: "A vote had to be taken among players.", start: 545.33, end: 547.03}
+  - {text: "One player left the squad because of the controversy and the Republic of Ireland players came they gave an emphatic performance and they won 3 -0", start: 547.03, end: 557.97}
+  - {text: "so perhaps from their point of view there will at least be some vindication in their decision to go ahead and play the match but not withstanding", start: 557.97, end: 566.89}
+  - {text: "that the controversy leading up to this match will not have gone away because there are still very many fans of the Republic of Ireland who", start: 566.89, end: 575.55}
+  - {text: "believe they should not be playing Israel under any circumstances.", start: 575.55, end: 579.15}
+  - {text: "Kevin tell us how the match actually went was it tense at times?", start: 579.69, end: 584.01}
+  - {text: "That was what was particularly noteworthy about the match there was none of the tension we had leading up to the match in the actual match", start: 584.29, end: 593.09}
+  - {text: "itself on the field of play it was very much a normal football match played in good spirits there was one particular flash point but it was over almost before it began", start: 593.09, end: 603.57}
+  - {text: "and from a footballing point of view it was a competitive match notwithstanding the fact that the Republic won by 3 goals to nil it was played in a good spirit", start: 604.13, end: 614.61}
+  - {text: "but of course there were matters before the match where some traditional protocols were not adhered to the Irish camp bowed their head during the playing", start: 614.61, end: 624.13}
+  - {text: "of the Israeli national anthem there were no handshakes between the captains before the match and there were no traditional penance exchanged before the match so it was clear", start: 624.13, end: 634.41}
+  - {text: "that the Irish players having decided to play the match they still wanted to register their protests before the match and before kickoff and they did", start: 634.41, end: 642.61}
+  - {text: "and Kevin the the ground itself was relatively empty was that perhaps due to the controversy surrounding the match?", start: 642.61, end: 648.91}
+  - {text: "Well the football association of Ireland had decided not to sell any tickets for the match so that ruled out Republic of Ireland supporters Israel had sold about 150 tickets", start: 649.15, end: 659.79}
+  - {text: "but bizarrely there were also at least a couple of dozen Republic of Ireland fans who somehow found the wherewithal to find tickets and it was quite remarkable because the stands were by and large empty", start: 659.79, end: 673.61}
+  - {text: "but for the 150 Israeli fans in one small section and then a couple of dozen of Irish fans 50 meters or so apart and the small number of Irish fans were making quite a noise", start: 674.10, end: 687.09}
+  - {text: "but also the Israeli fans they were very vociferous in terms of supporting their team Kevin Sharkey Israel and Ireland are set to have a rematch next week", start: 687.09, end: 698.97}
+  - {text: "A month on from catastrophic floods in Nepal 12 climbers and support staff are missing after an avalanche hit a Himalayan mountain on Sunday morning blanketing", start: 699.88, end: 710.42}
+  - {text: "the base camp of Him Lung Himal near Nepal's border with Tibet Our global affairs reporter Ambrasan Etta Rajan has the details A foreign team is expected to come in the first week of October", start: 710.42, end: 722.28}
+  - {text: "so this team was sent all of the Nepali nationals to prepare the base camp maintain the route and also fix the rope all the way up to the peak there was a huge avalanche", start: 722.84, end: 733.86}
+  - {text: "that basically you know blanket of thick snow fell on this base camp and according to several expedition teams up to 14 people are said to be missing the rescue team was rushed from the Kathmandu immediately", start: 733.86, end: 748.76}
+  - {text: "and now what we understand according to various Nepali media reports that they had recovered some bodies but the condition of other missing climbers and support", start: 748.76, end: 757.70}
+  - {text: "staff it's not very clear at the same time some of the rescue team members contacted the teams in Kathmandu saying probably four to five meters of snow in parts of the base camp they could see", start: 757.70, end: 769.06}
+  - {text: "so the rescue effort will continue on Monday morning this is the annual monsoon season heavy rains are not uncommon but it came after this flash floods", start: 769.06, end: 779.28}
+  - {text: "that swept through villages and towns about a month ago killing at least 1400 confirmed dead and nearly 6000 missing and again on the Chinese side on the Tibetan side about 200 to 300 people are still missing", start: 779.28, end: 795.80}
+  - {text: "and following that the monsoon rain started even in the past few days several houses were damaged at least seven to ten people are reported to have been killed in these latest round off rains I'm Brasai Netirajan", start: 796.46, end: 810.94}
+  - {text: "still to come in this podcast there's a very long history continuing up to the present of people who are being politically repressed by the government", start: 813.24, end: 821.70}
+  - {text: "moving deeper into the forest in order to evade political control how a book about trees in Russia has picked up a special literary award this is the global news podcast protests have been held in Caracas", start: 821.70, end: 842.47}
+  - {text: "and other parts of Venezuela demanding the return of Venezuela's exiled opposition leader Maria Corina Machado well that is the sound of dozens of motorbikes and cars full of demonstrators waving giant flags", start: 842.47, end: 858.76}
+  - {text: "and banners in support of Ms Machado she left Venezuela secretly nine months ago to accept her Nobel Peace Prize award her supporters say she's tried seven times to return since then", start: 858.76, end: 870.32}
+  - {text: "but not been allowed back into the country so with elections promised by the country's interim president Delcey Rodriguez how much broad support is there for", start: 870.32, end: 879.78}
+  - {text: "Ms Machado to come home a question I put to our Latin America correspondent Will Grant protests like this one tell us about two key elements of the complaints of the demonstrators the first is", start: 879.78, end: 892.32}
+  - {text: "as you say the support that still exists Maria Corina Machado the hopes of the opposition supporters in Venezuela are really pretty much solely pinned on her", start: 892.32, end: 902.30}
+  - {text: "as an individual that she seems like the person who would be president and they want to see that happen we've known that she has support", start: 902.30, end: 910.56}
+  - {text: "and that support remains and I think that's what that demonstration does it shows that it is still there but of course the other thing that it does is show the rejection of Delcey Rodriguez the interim president", start: 910.56, end: 920.94}
+  - {text: "and her burgeoning relationship with Donald Trump was no coincidence that Delcey Rodriguez was meeting with Donald Trump as Maria Corina Machado was unable to return to Venezuela for what we understand were the fifth sixth", start: 920.94, end: 934.94}
+  - {text: "and seventh attempts this year so she's been attempting via sea via air she's constantly turned back one thinks given the key control that Washington continues to exert over Delcey Rodriguez her administration", start: 934.94, end: 950.86}
+  - {text: "and Venezuela as our whole there's clearly resistance coming from Washington as well as Caracas and I think that that is partly what these protesters were", start: 950.86, end: 959.40}
+  - {text: "saying you know not only do we want Maria Corina Machado to come home to Venezuela we want an end to this relationship which they see", start: 959.40, end: 967.38}
+  - {text: "as simply the remnants of the Maduro regime in bed now with the Trump administration having said that there must be people in Venezuela will who see the relative economic stability returning to Venezuela", start: 967.38, end: 980.24}
+  - {text: "under this relationship between Delcey Rodriguez and President Trump and say well this is the situation we don't want to rock the boat now I think you're right I think the problem is though", start: 980.80, end: 991.00}
+  - {text: "that that pragmatism perhaps comes from a sense of stability not necessarily economic stability because the country's economy is still in difficulties it's not fixed yet", start: 991.00, end: 1002.64}
+  - {text: "but there is more calm in the international relationship with the most powerful nation in the hemisphere that things feel more stable less prone to some of these shocking moments", start: 1002.64, end: 1013.44}
+  - {text: "that Venezuelans have been through this year now several days ago in New York at the United Nations Delcey Rodriguez promised elections she didn't say when they would take place what is your assessment", start: 1013.44, end: 1025.16}
+  - {text: "as to when and if that will happen it's hard to read that one isn't it my feeling is that this is simply something that the Trump administration needs to now be bringing to bear on Delcey Rodriguez", start: 1025.16, end: 1036.58}
+  - {text: "and her administration that they can't simply continue to work with her with absolutely no movement towards free and fair elections as pushed for by the diaspora community in Florida", start: 1036.58, end: 1047.96}
+  - {text: "which are so influential in terms of Donald Trump's support in that state and more broadly the Trump administration has sent in troops to remove Nicholas Maduro from power", start: 1047.96, end: 1057.30}
+  - {text: "and seems so comfortable working with his vice president that only gets them so far I think and Marco Rubio the secretary of state has been quite clear about", start: 1057.30, end: 1065.50}
+  - {text: "that they've basically said look they don't consider Venezuela to be ready yet as Donald Trump put it ultimately Delcey Rodriguez the Trump administration have to get it to a point eventually", start: 1065.50, end: 1076.70}
+  - {text: "that those elections will take place we don't yet know whether Delcey Rodriguez would be a candidate in those we don't know if Maria Corina Machado will be able to get back for them", start: 1076.70, end: 1085.84}
+  - {text: "and be a candidate but I think we've seen all of the context around this is the huge energy deal between Washington and Venezuela to the tune of 65 billion barrels of oil", start: 1085.84, end: 1098.60}
+  - {text: "so of course the Trump administration continues to be quite comfortable working with Delcey Rodriguez under those terms but Venezuelans are beginning to really clamor for now the opportunity to choose their own country's leadership Wilgrond two mass shootings in South Africa have left 27 people dead", start: 1098.60, end: 1116.73}
+  - {text: "17 were killed when eight gunmen stormed a bar close to Johannesburg on Saturday night then in the early hours of Sunday 10 people died in", start: 1117.33, end: 1125.21}
+  - {text: "another shooting outside an entertainment venue near Cape Town dozens more were wounded in the two shootings the motive is not yet known but South Africa has a huge problem with gang -related gun violence", start: 1125.21, end: 1137.47}
+  - {text: "and a very high murder rate the BBC's Thomas Macquana gave us more details about these shootings the one in Johannesburg occurred in a tavern and it said", start: 1137.47, end: 1146.59}
+  - {text: "that eight gunmen in two vehicles came out and shot at people outside the venue and then also entered and shot people inside and after taking the cell phones", start: 1146.59, end: 1157.01}
+  - {text: "that they had and then escaping in those two unidentified vehicles then in Cape Town there was an entertainment event happening and they entered the venue", start: 1157.01, end: 1165.59}
+  - {text: "and a similar shooting occurred killing 10 and injuring many more South Africa has one of the highest murder rates in the world just between April", start: 1165.59, end: 1174.41}
+  - {text: "and June this year South African police said over 5 ,400 people have been murdered been murdered out of malicious intent and then it compounds when you realize", start: 1174.41, end: 1185.41}
+  - {text: "that the murder rates and the conviction rates for investigations are much lower so the investigations that lead to actual conviction for people who are murdered are much lower", start: 1185.41, end: 1195.45}
+  - {text: "that means basically justice isn't served to the victims of such shootings and South Africa is awash with illegal weapons and gun activity that the police there have found hard to end", start: 1195.45, end: 1206.37}
+  - {text: "Thomas Macquana a book about the centrality of the forest in Russian culture has won a prestigious British Literary Award the Pushkin House Book Prize was given to Sophie Pinkham's book The Oak", start: 1206.97, end: 1221.60}
+  - {text: "and the Large a forest history of Russia and its empires there are lots of references to trees in Russian literature from the gnarled oak in Tolstoy's War", start: 1221.60, end: 1231.28}
+  - {text: "and Peace to Pushkin's Reflections on Pines but this prize is for the best non -fiction writing on Russia in the English language Owen Bennett -Jones asked Sophie Pinkham why she found the theme of Russian forests", start: 1231.28, end: 1245.46}
+  - {text: "so interesting that she wanted to write a book about them well I am a specialist in Russia some example Ukraine and the former Soviet Union former Russian imperial territory", start: 1245.46, end: 1256.70}
+  - {text: "and I started thinking back to all of the ways that forests appear in Russian literature so I'm primarily a specialist in literature and film and", start: 1256.70, end: 1266.02}
+  - {text: "I began to realize how absolutely central the forest was not only to Russia's historical development and political development but also to its we could say national imagination sort of standing for fear but also a sense of home and protection", start: 1266.02, end: 1282.76}
+  - {text: "for nourishment and riches and also as a place from which a Russian culture had arisen the way that I structured my book The Oak and the Large was", start: 1283.40, end: 1293.48}
+  - {text: "as a kind of an alternative history of Russia before there even was a Russia so when you say it's a source of protection what do you mean by", start: 1293.48, end: 1302.10}
+  - {text: "that well over the centuries the forests of Russia which are of course immensely immensely large even now and many of them very remote have often been a place of refuge", start: 1302.10, end: 1313.76}
+  - {text: "so sometimes they provided a place of refuge from the steppe invaders so many centuries ago later on they served as a very important place of escape from political repression", start: 1313.76, end: 1325.04}
+  - {text: "so there's a very long history continuing up to the present of people who are being politically repressed by the government moving deeper into the forest in order to evade political control I think it's fair to say", start: 1325.04, end: 1336.66}
+  - {text: "that the communist Soviet period there was a policy of conquering nature to some extent did that extend to the forests were the Soviets big on deforestation absolutely there was a moment under Stalin when they even declared a war on the forest really", start: 1336.66, end: 1351.88}
+  - {text: "yeah and the Soviet attitude towards nature was indeed as you say that it had to be completely subjugated to human ends and this is not a uniquely Soviet idea it's something", start: 1352.38, end: 1361.86}
+  - {text: "that appears already in the book of Genesis man is tasked with subjugating nature but the Soviets as was their want took it to a really extraordinary extreme rerouting rivers for example draining seas", start: 1361.86, end: 1374.74}
+  - {text: "and also deforestation very intensely the idea was that any part of nature that wasn't serving the Soviet project so the industrialization was lazy and useless yeah", start: 1374.74, end: 1386.00}
+  - {text: "but when Stalin said we've got to get rid of the forest did people see that at the time I mean they probably didn't dare say", start: 1386.00, end: 1391.84}
+  - {text: "so but would they have seen it as an attack on the Russian soul or something like that yes they did see that and actually they did say it", start: 1391.84, end: 1398.66}
+  - {text: "and it's quite remarkable because although Stalin was so repressive there were a lot of people over the decades who stood up to him some of them were foresters actually", start: 1398.66, end: 1407.86}
+  - {text: "who opposed his practices and in fact risked their lives in order to try to protect forests I should add also that under Stalin there was a sort of a strange duality to it", start: 1407.86, end: 1419.10}
+  - {text: "because late in his life Stalin developed this bizarre plan called Stalin's Great Plan for the Transformation of Nature sort of typical Stalinist grandiosity and part of", start: 1419.10, end: 1429.16}
+  - {text: "that plan was in fact to plant large numbers of trees in order to protect Russian land from what were imagined as the uncivilized Central Asian step winds", start: 1429.16, end: 1441.34}
+  - {text: "and therefore thereby help agriculture but there too there was a very strange ideological element to it because at that point they were relying on this bogus biological idea that you could even indoctrinate acorns to sort of build these communist walls of trees Sophie Pinkham", start: 1441.34, end: 1462.72}
+  - {text: "to the United States now where the famous route 66 turns 100 this year the highway weaves its way through towns all the way from Chicago to Los Angeles and helped create the classic American roadside economy with all its diners,", start: 1463.48, end: 1478.66}
+  - {text: "neon signs and quirky motels but a century after it first captured our imagination does the ultimate American road trip which is also known as the", start: 1478.82, end: 1487.98}
+  - {text: "Mother Road still have the same pull Victoria Craig headed west across the United States to discover whether nostalgia is still drawing tourists and their dollars to towns along the route", start: 1487.98, end: 1499.46}
+  - {text: "Route 66 is a 2 ,500 mile stretch of concrete and pavement that runs from the bustling metropolis of Chicago Illinois all the way to the sandy west coast shores of Santa Monica, California our first stop is in Cuba, Missouri and the wagon wheel hotel", start: 1501.12, end: 1517.96}
+  - {text: "it's been operating here for more than 90 years it's where we meet Roman Rich Dinkala a lifelong Route 66 enthusiast he bought this historic Mother Road property", start: 1519.67, end: 1530.47}
+  - {text: "which is his second in April this year this place represents so much you've got the Ozark stone cottages and people can come here they can get a glimpse of what it was like in the 30s", start: 1530.47, end: 1542.47}
+  - {text: "and 40s do you worry if there isn't more awareness raised particularly for younger generations who will eventually be the ones staying in this motel and others I've been extremely worried about the centennial", start: 1542.47, end: 1554.33}
+  - {text: "that we're going to see a lot of bad decisions and we have several hours west in Clinton, Oklahoma there's been a boom in visitors to the city's Route 66 museum", start: 1554.33, end: 1565.76}
+  - {text: "the centennial gives us an opportunity to put our story back into a national conversation that's museum director Cory Cart sales in our gift shop are up over 300 percent we're also celebrating America's 250th", start: 1566.26, end: 1582.76}
+  - {text: "and that is giving us a chance to tell the story to audiences that before have never considered Route 66 indeed, Oklahoma's relationship to the Mother Road runs deep", start: 1582.76, end: 1593.48}
+  - {text: "during the depths of the Great Depression in the 1930s an environmental disaster known as the dust bowl swept through America's southern plains tenant farmers pushed deep into poverty by severe drought", start: 1598.20, end: 1616.29}
+  - {text: "and rapid agricultural modernization were forced off their land many of them went west along Route 66 searching for a better life in California but they faced bitter class prejudice", start: 1616.29, end: 1628.55}
+  - {text: "and hostility every step of the way the early days of Route 66 are not a fun story where people really want to talk about it is", start: 1628.55, end: 1637.71}
+  - {text: "that post -war that open road represented freedom and Route 66 it just kept reinventing itself so how important now is Route 66 to Clinton's economy would you say", start: 1637.71, end: 1648.83}
+  - {text: "if you look at the amount of restaurants and gift shops and things here in town that are either named after Route 66 or sell Route 66 souvenirs it is a huge part of it", start: 1649.29, end: 1659.41}
+  - {text: "Pixar's 2006 animated hit Cars captured the nostalgia of the 1950s -era road trip culture for a new generation research from the national travel center organization shows the power of heritage tourism it found", start: 1664.42, end: 1679.82}
+  - {text: "that secondary roads like Route 66 if promoted can drive up to $450 ,000 in visitor spending per mile each year that's around $280 ,000 per kilometer though for remote stretches of road capturing even a fraction of that is still a constant battle Victoria Craig", start: 1679.82, end: 1701.22}
+  - {text: "and that's all from us for now if you want to get in touch you can email us at globalpodcast at bbc .co .uk you can also find us on x at bbcworldservice use the hashtag globalnewspod", start: 1704.03, end: 1716.81}
+  - {text: "and don't forget our sister podcast the global story which goes in depth and beyond the headlines on one big story this edition of the global news podcast was mixed by Derek Clark", start: 1716.81, end: 1727.55}
+  - {text: "and produced by Emma Joseph the editor is Karen Martin I'm Nick Mars and until next time goodbye", start: 1727.55, end: 1733.77}
+---
