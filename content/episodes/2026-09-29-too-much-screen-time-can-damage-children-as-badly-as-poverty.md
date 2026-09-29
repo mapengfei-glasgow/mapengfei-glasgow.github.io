@@ -1,0 +1,323 @@
+---
+layout: single
+title: "Too much screen time 'can damage children as badly as poverty'"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-29T00:00:00Z
+slug: "2026-09-29-too-much-screen-time-can-damage-children-as-badly-as-poverty"
+audioDir: "2026-09-29-too-much-screen-time-can-damage-children-as-badly-as-poverty"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-29-too-much-screen-time-can-damage-children-as-badly-as-poverty/episode.mp3"
+totalDuration: 1799.6
+sentences:
+  - {text: "This is the Global News Podcast from the BBC, Wild Service.", start: 0.00, end: 2.94}
+  - {text: "Hi, I'm Uncle Desai, and in the early hours of Tuesday, the 29th of September, these are our main stories.", start: 5.31, end: 11.13}
+  - {text: "A large -scale study of screen use by children finds that prolonged exposure can damage their well -being as much as poverty, premature birth or bad parenting.", start: 11.93, end: 21.13}
+  - {text: "Ukraine's National Academy of Science in the heart of Kyiv is hit by a drone strike as Russia increasingly focuses its tax on the city.", start: 22.04, end: 29.92}
+  - {text: "And the US prosecutors reopen the case of an alleged gang rape at Cornell, one of the country's most prestigious universities.", start: 30.48, end: 36.84}
+  - {text: "Also in this podcast, why communities around the world are pushing back against AI data centres being built in the local area.", start: 39.52, end: 47.18}
+  - {text: "And we have the new Queen of Chess.", start: 47.76, end: 49.74}
+  - {text: "I'm happy to do it, but I want to keep going and keep making history as well instead of just stop here.", start: 50.31, end: 57.65}
+  - {text: "Meet the youngest ever woman grandmaster.", start: 58.09, end: 60.61}
+  - {text: "Kids aged six to 18 who spend too much time on social media, gaming or streaming are in danger of suffering the same kind of damage to their well -being that's caused by poverty, bad parenting or being born prematurely.", start: 66.21, end: 80.05}
+  - {text: "The results of a new study also link excessive screen time to poor academic achievement and language development, obesity, high blood pressure, diabetes and even heart problems.", start: 80.55, end: 90.49}
+  - {text: "Researchers at the University of Calgary in Canada analyse the use of smartphones, televisions and social media by millions of children all over the world.", start: 91.09, end: 100.13}
+  - {text: "And what's being held is one of the biggest ever studies of its kind.", start: 100.67, end: 103.51}
+  - {text: "Critics say the findings are not insignificant, but insist that screen time is not the only reason teenagers become emotionally distressed or fail to reach their academic goals.", start: 104.11, end: 113.83}
+  - {text: "Dr. Sherry Madigan is the senior author of the review.", start: 114.37, end: 117.19}
+  - {text: "This was what we call an umbrella review, which is essentially a review of all the reviews that have been done in the world.", start: 117.75, end: 123.55}
+  - {text: "It gives us a real bird's eye view of the evidence so far that's really accumulated on children's screen times and the children's developmental outcomes.", start: 123.55, end: 132.27}
+  - {text: "Instead of asking what one study found, we're really able to step back and ask what the evidence tells us as a whole.", start: 132.47, end: 139.21}
+  - {text: "And what we found is that overall greater screen use was associated with poor outcomes across several domains of children's development.", start: 139.85, end: 147.95}
+  - {text: "In particular, we saw associations with language and academic outcomes as well as mental health outcomes and peer difficulties.", start: 148.23, end: 154.97}
+  - {text: "But we actually didn't see significant associations with every outcome we examined, which I think is a really important part of the story, too.", start: 155.49, end: 161.85}
+  - {text: "And we need to also draw down on the ages, right?", start: 162.19, end: 164.71}
+  - {text: "Does excessive screen time have an impact on children's of all ages, differing ages, and is there an acceptable amount of screen time per age group, maybe?", start: 164.89, end: 172.31}
+  - {text: "We actually found that screen time across all ages was associated to some degree with these developmental outcomes.", start: 172.97, end: 179.51}
+  - {text: "But we found even stronger associations among older children.", start: 179.51, end: 183.83}
+  - {text: "We can't say from this study exactly why that might be the case, but we can sort of speculate that as children are older, they're actually on devices for longer periods of time.", start: 184.33, end: 194.15}
+  - {text: "And they also start to operate more independently on devices.", start: 194.37, end: 197.73}
+  - {text: "And they start to explore different device types so they get into platforms like social media, they start to do more gaming.", start: 198.17, end: 205.13}
+  - {text: "And when you go on those types of platforms, the digital media becomes more interactive and the content actually becomes more personalized.", start: 205.69, end: 212.89}
+  - {text: "So I think that what we can say is that as they get older, they get more independent and they get more curious and they actually just spend more time on devices", start: 213.31, end: 221.17}
+  - {text: "and we might see a stronger effect in the older kids as a result.", start: 221.17, end: 224.29}
+  - {text: "I'm sure some critics have downplayed the results saying that the only reason teenagers become emotionally distressed or fail to reach their academic goals can't only be pinned down to screen time.", start: 224.71, end: 232.61}
+  - {text: "Yeah, I think this is a really fair point and we don't want to overstate the findings.", start: 233.23, end: 236.83}
+  - {text: "But I think it's also equally important not to dismiss them.", start: 236.83, end: 239.79}
+  - {text: "So what this study is saying is that screen time plays a role in children's development.", start: 240.07, end: 244.73}
+  - {text: "But in reality, children's development is also shaped by many influences.", start: 245.23, end: 248.89}
+  - {text: "And I think we have to keep that in mind.", start: 249.11, end: 250.97}
+  - {text: "One of the important things to consider here is that screen time is nearly universal.", start: 251.47, end: 256.17}
+  - {text: "So every child, everyone probably knows listening in has one of these devices.", start: 256.89, end: 262.33}
+  - {text: "And so when there is such a large number of the population who are using these devices, I think we really have to think critically about", start: 262.57, end: 269.89}
+  - {text: "how we support them in really developing healthy digital habits.", start: 269.89, end: 273.27}
+  - {text: "And just finally, then, the advice for parents like myself, of young children, what sort of conclusions have come out of this study and what advice is there?", start: 273.57, end: 279.79}
+  - {text: "Yeah, I think it's important to just think critically about how screen times are used in your home.", start: 280.53, end: 285.13}
+  - {text: "We're not saying don't use screen times.", start: 285.17, end: 287.05}
+  - {text: "We're really just saying think thoughtfully and meaningfully about how they're used in the home, try to moderate their use.", start: 287.11, end: 293.57}
+  - {text: "Like we do many other things in children's development like sugar, for example.", start: 293.57, end: 297.63}
+  - {text: "We always say use in moderation and make sure that screen time isn't crowding out these other really important aspects of children's development like their sleep, their physical activity,", start: 297.91, end: 308.57}
+  - {text: "and especially their time with peers and their parents and these really important social interactions that happen face to face.", start: 308.61, end: 314.75}
+  - {text: "Dr. Sherry Madigan. Loud explosions are being reported in Kiev in the early hours of the morning with several buildings damaged as Russian strikes on Ukraine continue to intensify.", start: 315.17, end: 326.69}
+  - {text: "President Zelensky has said nine people have been killed and more than 80 injured in Ukraine as a country endured another day of Russian drone and missile strikes on Monday.", start: 327.29, end: 336.71}
+  - {text: "He's promised a response and said that greater international pressure could have prevented Russian attacks.", start: 337.35, end: 342.55}
+  - {text: "In Kiev, the National Academy of Science was hit, sparking a huge fire.", start: 343.23, end: 347.39}
+  - {text: "Our diplomatic correspondent, Paul Adams, is in the capital and witness the attacks.", start: 347.93, end: 352.23}
+  - {text: "Frantic scenes outside Kiev's revered National Academy of Sciences.", start: 352.93, end: 356.75}
+  - {text: "Staff escaping from upper floor windows as plumes of thick black smoke billow all around the emergency teams on the roof, working furiously to put out the fire", start: 357.25, end: 365.67}
+  - {text: "and assault in broad daylight in the center of the city.", start: 365.67, end: 368.65}
+  - {text: "Kiev's mayor Vitaly Klitschko on the scene, condemning the latest in a seemingly endless series of drone attacks.", start: 369.05, end: 375.23}
+  - {text: "The target is every Ukrainian.", start: 375.49, end: 377.11}
+  - {text: "The Russians tried to bring the whole society to depressive mood to destabilize situation in Ukraine.", start: 377.59, end: 382.79}
+  - {text: "And that's why the Kiev, the main target for Russians.", start: 383.33, end: 386.11}
+  - {text: "Within two hours, another attack.", start: 389.37, end: 391.31}
+  - {text: "This time on a medical center, on a busy street, the building is on fire, flaming debris falls to the ground.", start: 391.63, end: 397.71}
+  - {text: "There's glass everywhere, a bus with a shattered window.", start: 398.67, end: 401.79}
+  - {text: "Rescue workers carrying an elderly woman away for treatment.", start: 402.21, end: 405.09}
+  - {text: "But there's still danger.", start: 406.27, end: 407.21}
+  - {text: "Drones are in the air with shell -shocked locals.", start: 408.17, end: 410.69}
+  - {text: "We take cover under an archway.", start: 411.19, end: 412.61}
+  - {text: "There's another explosion. And we also can hear a little bit of air defense going off.", start: 413.13, end: 418.23}
+  - {text: "OK, that wasn't far away.", start: 418.85, end: 422.95}
+  - {text: "Some of the firemen sheltering with us look exhausted.", start: 423.63, end: 425.99}
+  - {text: "They've been working flat out for a month.", start: 426.63, end: 428.61}
+  - {text: "Russia's attacks are clearly designed to weaken and demoralize the city.", start: 429.76, end: 433.32}
+  - {text: "But as Lyubov watches the flames raging close to her apartment, she's quietly defiant.", start: 433.74, end: 438.82}
+  - {text: "I never left Kiev.", start: 439.08, end: 440.14}
+  - {text: "I stayed here when Russian arrived.", start: 440.30, end: 442.20}
+  - {text: "I stayed here through that occupation time.", start: 442.42, end: 444.72}
+  - {text: "It just made me see that I was born here.", start: 445.06, end: 446.64}
+  - {text: "By early evening, Kiev has been under alert for a total of 10 hours.", start: 447.18, end: 450.44}
+  - {text: "The disruption to work, education and daily life is enormous.", start: 450.94, end: 454.26}
+  - {text: "But the people of this city are used to danger.", start: 454.78, end: 456.90}
+  - {text: "And so once again, they adjust.", start: 457.32, end: 459.36}
+  - {text: "Paul Adams. Young men's behavior at sometimes wild fraternity parties on American college campuses is once again under the spotlight.", start: 459.84, end: 469.35}
+  - {text: "This, after a district attorney in New York reopened an investigation into an alleged crime from October 2024, when men belonging to a fraternity chapter were accused of drugging", start: 470.03, end: 482.31}
+  - {text: "and raping a 20 year old female student.", start: 482.31, end: 485.11}
+  - {text: "The woman referred to as Jane Doe in court documents says that seven men sexually assaulted her while she was intoxicated and that no consent was given.", start: 485.71, end: 495.31}
+  - {text: "A correspondent in New York, Neda Taufik, told Celia Hatton more about the woman's case.", start: 495.95, end: 500.93}
+  - {text: "She said that she ended up going to the frat house to see a friend, but that when she arrived, she was visibly intoxicated.", start: 501.45, end: 508.37}
+  - {text: "And there, according to the lawsuit, two of the fraternity members pressured her into snorting ketamine and piled her with other drugs and alcohol and then sexually assaulted her.", start: 509.09, end: 521.29}
+  - {text: "And at one point, the complaint even alleges that one of the men sent out a vulgar message to the fraternity's Snapchat group saying that she was available upstairs for sex.", start: 521.43, end: 534.67}
+  - {text: "So this has obviously sparked a lot of concern because this happened two years ago, and the background to this is that Cornell University says, you know,", start: 535.57, end: 546.85}
+  - {text: "they have to under federal law investigate any cases of sexual assault.", start: 546.89, end: 550.57}
+  - {text: "They say that they did that, that they referred it to the district attorney to see whether criminal charges should be filed.", start: 550.57, end: 558.19}
+  - {text: "The district attorney at the time did not think that this warranted criminal charges.", start: 558.75, end: 563.51}
+  - {text: "It's also worth pointing out that outside police never investigated this, and so questions are now being asked about why that is.", start: 563.91, end: 573.87}
+  - {text: "What did the district attorney say about why the case was reopened?", start: 574.09, end: 578.15}
+  - {text: "Well, the district attorney has been quite defensive.", start: 578.15, end: 580.79}
+  - {text: "He says that for the last two weeks, many people have called his office, left voicemails, sent emails.", start: 581.07, end: 586.55}
+  - {text: "Some have even threatened his office and his staff.", start: 587.25, end: 589.93}
+  - {text: "And so he said he wanted to make it clear that the facts in this lawsuit were very different, he alleges, than the six page statement", start: 590.21, end: 598.35}
+  - {text: "that Jane Doe gave to Cornell University at the time.", start: 598.35, end: 602.63}
+  - {text: "And he actually has published her statement and he characterizes her statement as not alleging that she was drugged against her will or gang raped.", start: 602.73, end: 611.51}
+  - {text: "And he says that she described the sexual conduct as voluntary, conscious and consensual.", start: 611.97, end: 617.75}
+  - {text: "Now, her lawyer says she was intoxicated.", start: 618.01, end: 621.23}
+  - {text: "She was in no state to give consent at any point.", start: 621.47, end: 624.19}
+  - {text: "The university held hearings and they suspended two students.", start: 624.83, end: 629.41}
+  - {text: "But the others, her lawyer claims, only got lesser kind of punishment by writing essays because of the pressure.", start: 629.63, end: 636.75}
+  - {text: "The district attorney is now going to present this case to a grand jury.", start: 637.03, end: 640.99}
+  - {text: "As you mentioned before, Cornell is an Ivy League school.", start: 641.29, end: 645.01}
+  - {text: "It's a very prestigious university in the United States.", start: 645.19, end: 648.29}
+  - {text: "Can you reflect on that and also that this alleged crime apparently took place at a fraternity house?", start: 648.57, end: 655.81}
+  - {text: "There are several instances in Jane Doe's complaint where she reflects on just the responsibility that Cornell University has and also the fraternities have to make sure", start: 656.11, end: 669.55}
+  - {text: "that the campus is a safe place for students.", start: 669.55, end: 672.75}
+  - {text: "Jane Doe talks about coming from a small town and only dreaming of being able to go to Cornell University.", start: 673.21, end: 678.89}
+  - {text: "She ended up dropping out of the university.", start: 679.33, end: 681.91}
+  - {text: "Cornell University has said any suggestion that they didn't dole out harsh enough punishment just isn't true.", start: 682.47, end: 688.93}
+  - {text: "This has gotten so much attention partly because Cornell University is an Ivy League school and because the issue of campus sexual assault has long been a problem here in the United States.", start: 689.45, end: 702.21}
+  - {text: "And yet this case kind of underlines some of the gaps, perhaps, that are still there.", start: 702.49, end: 707.19}
+  - {text: "And that's why so many people have been outraged at this case.", start: 707.41, end: 710.69}
+  - {text: "Neda Taufiq reporting. SpaceX's Starship rocket has successfully orbited Earth after liftoff from Texas, despite one of its engines shutting down unexpectedly.", start: 711.21, end: 721.82}
+  - {text: "The mission was originally supposed to travel around the Earth six times over 10 hours, but returned early because of the problem.", start: 722.76, end: 730.40}
+  - {text: "Our science editor, Rebecca Morrell, followed its journey.", start: 730.94, end: 733.34}
+  - {text: "Three, two, one. The start of a critical test for the biggest and most powerful rocket ever built, a SpaceX's Starship blasted off.", start: 734.21, end: 747.14}
+  - {text: "All right, little more than 35 seconds into the flight, 33 out of 33 engines lit.", start: 747.14, end: 753.04}
+  - {text: "Its aim was to get into orbit around the Earth for the very first time.", start: 753.34, end: 757.18}
+  - {text: "A few minutes into the flight, the lower part of the rocket separated.", start: 757.88, end: 761.38}
+  - {text: "The upper section, called the ship, continued, providing a bird's eye view of the Earth far below one of its engines, though, had failed.", start: 762.06, end: 770.58}
+  - {text: "But SpaceX decided to push on to meet its main mission objective.", start: 771.08, end: 774.50}
+  - {text: "Successful orbital insertion burn Starship is in orbit.", start: 775.38, end: 779.88}
+  - {text: "It meant the 26 satellites on board could be deployed in another first for the SpaceX team.", start: 780.36, end: 785.76}
+  - {text: "But 90 minutes into the planned 10 hour flight, SpaceX announced they were cutting the mission short.", start: 786.08, end: 791.12}
+  - {text: "The spacecraft eventually landed in the Pacific Ocean with a big explosion as it hit the waves.", start: 791.66, end: 797.02}
+  - {text: "So was this flight a success or a failure?", start: 797.70, end: 800.24}
+  - {text: "Professor Malcolm McDonald is the president of the Royal Aeronautical Society.", start: 800.90, end: 804.94}
+  - {text: "I'd be inclined to say it's a success.", start: 805.64, end: 807.34}
+  - {text: "I mean, they've achieved a lot of what they were trying to do.", start: 807.68, end: 809.54}
+  - {text: "They got to orbit, which is a big thing.", start: 809.62, end: 811.46}
+  - {text: "They got the Starlink satellites deployed, which again is a big thing for them.", start: 811.96, end: 815.36}
+  - {text: "Yeah, OK, they've cut it short.", start: 815.96, end: 817.26}
+  - {text: "They've not got this full number of orbits they're hoping for.", start: 817.38, end: 819.84}
+  - {text: "But I think they've still achieved an awful lot in this flight.", start: 819.92, end: 822.14}
+  - {text: "So it's hard to see it.", start: 822.22, end: 823.08}
+  - {text: "Maybe it's not 100 percent success, but it's pretty close to that.", start: 823.08, end: 826.28}
+  - {text: "This was the 14th test flight for Starship.", start: 826.48, end: 828.88}
+  - {text: "And NASA is keeping a close eye on its progress.", start: 828.88, end: 831.68}
+  - {text: "The Starship rocket is providing a vital role in the US Space Agency's Artemis program and its plans to put astronauts back on the moon by 2028.", start: 832.32, end: 840.62}
+  - {text: "They're still a long way to go.", start: 841.28, end: 842.80}
+  - {text: "Science editor Rebecca Murrell still to come in this podcast.", start: 843.48, end: 849.73}
+  - {text: "Climate crisis in a lot of countries is a thing of the future.", start: 850.31, end: 853.77}
+  - {text: "But here in Nepal, it is a thing of now.", start: 854.13, end: 856.87}
+  - {text: "It is reality and it's a national emergency.", start: 857.37, end: 859.79}
+  - {text: "A special report about the impact of last month's deadly floods in Nepal.", start: 860.23, end: 864.35}
+  - {text: "This is the Global News podcast.", start: 873.85, end: 875.55}
+  - {text: "The growing threat of kidnapping for ransom is a serious problem in parts of Nigeria, and it appears to be spreading increasingly people in or near schools,", start: 876.94, end: 886.38}
+  - {text: "mosques and those in rural communities are targeted by armed gangs.", start: 886.92, end: 890.88}
+  - {text: "Over the weekend, more than 80 people were reported to have been seized in two separate kidnappings in two different states in the north of the country.", start: 891.54, end: 899.90}
+  - {text: "And police have also found bones of at least 20 people they believe may be victims of earlier abductions.", start: 900.50, end: 906.70}
+  - {text: "The BBC's Makoji Okafor is in Lagos.", start: 907.32, end: 910.04}
+  - {text: "I have spoken to the police in Niger state at the north central region and also to police in Zanfara, which is neighboring Niger in the upper northern parts.", start: 910.54, end: 920.50}
+  - {text: "The police said more than 20 people were taken in Niger state.", start: 920.84, end: 925.26}
+  - {text: "Didn't give a specific number.", start: 925.36, end: 926.70}
+  - {text: "And that's because they say they're still searching the villages where this attack happened.", start: 926.86, end: 931.20}
+  - {text: "But local media and residents reports have said in Niger state over 40 people were taken.", start: 931.60, end: 938.44}
+  - {text: "And very similarly in Zanfara state over 40 people were taken.", start: 939.04, end: 943.72}
+  - {text: "I'll give you a bit of context.", start: 943.84, end: 944.82}
+  - {text: "It's quite normal. So much of news, you know, hearing about kidnapped in northern part of Nigeria, but we're seeing a spread of these kidnappings going not just from the northern parts into the central and now down south.", start: 945.18, end: 958.82}
+  - {text: "And a few weeks ago in Niger state, which has a central part of Nigeria, reports say over 500 people were taken in villages near Moscow.", start: 959.30, end: 967.82}
+  - {text: "Now, the police hasn't confirmed this, but residency.", start: 968.04, end: 970.30}
+  - {text: "Many people were taken while the police confirmed an attack didn't happen.", start: 970.84, end: 974.44}
+  - {text: "They couldn't give a number.", start: 974.60, end: 975.38}
+  - {text: "So it kind of paints a picture how this is spreading.", start: 975.58, end: 978.36}
+  - {text: "There's been palpable fear.", start: 978.36, end: 980.46}
+  - {text: "You know, most people can't even travel by road anymore because they are very worried.", start: 981.00, end: 985.24}
+  - {text: "And those who can afford to fly and people who live in rural areas are kind of left with you know, whatever they see, they will take farmers are being adopted on their way to farm, people are adopted in the marketplace.", start: 985.30, end: 998.46}
+  - {text: "Authorities say they've stepped up efforts to calm down on insurgency and these kidnappings, but it's still happening across many parts of the country.", start: 998.86, end: 1007.34}
+  - {text: "Makochi Okafor in Lagos.", start: 1007.90, end: 1010.02}
+  - {text: "Google Earth has updated its satellite imagery of Gaza, giving a striking new view of the scale of destruction after almost three years of war.", start: 1010.66, end: 1019.30}
+  - {text: "Before and after images show inside neighborhoods that have been heavily damaged or destroyed since the conflict began in October 2023, while tent encampments have appeared around Khan Unis as people have been repeatedly displaced.", start: 1019.98, end: 1034.44}
+  - {text: "Benjamin Netanyahu's Israeli government has not allowed foreign journalists or independent investigators into the strip.", start: 1035.20, end: 1041.52}
+  - {text: "So what can satellite imagery tell us about how Gaza has changed and what can we establish from these images?", start: 1042.20, end: 1048.18}
+  - {text: "Oli Balinger is a lecturer in geocomputation at University College London.", start: 1048.84, end: 1053.08}
+  - {text: "He spoke to the BBC's Claire McDonald.", start: 1053.54, end: 1055.20}
+  - {text: "One of the most important things to note is that over 55 percent of the buildings in Gaza were already destroyed in the first year of the conflict.", start: 1055.92, end: 1065.02}
+  - {text: "So what we're seeing is Google updating its imagery and making that visible to the general public.", start: 1065.36, end: 1071.04}
+  - {text: "But there have been ways to measure this damage using different satellites, for example, that has been a collective effort among many people for the past three years", start: 1071.04, end: 1081.18}
+  - {text: "and the conditions that we are seeing now on Google Maps are actually the conditions that have existed on the ground for years.", start: 1081.18, end: 1088.80}
+  - {text: "Google does not take the imagery itself.", start: 1088.80, end: 1091.22}
+  - {text: "Google buys or acquires imagery from commercial satellite imagery providers.", start: 1091.50, end: 1096.02}
+  - {text: "So there are private companies that take pictures of the earth and Google buys imagery from them and periodically updates the base map that you see there.", start: 1096.18, end: 1103.14}
+  - {text: "So the imagery that Google included in its new base map for Gaza is probably at least a few months old, if not older, but we have had analyses from the UN and from academics, such as myself, tracking damage in Gaza.", start: 1103.68, end: 1119.76}
+  - {text: "And those numbers have plateaued around 80, 82 percent we're at now of buildings in Gaza being damaged or destroyed.", start: 1120.36, end: 1128.48}
+  - {text: "And that's been the case for quite some time.", start: 1128.64, end: 1130.70}
+  - {text: "So there's actually been relatively little new damage in the past year, but it is just us being able to observe this damage publicly.", start: 1130.82, end: 1138.90}
+  - {text: "If you split the screen and you see the before and after in many cases and suburbs in Rafa, there is literally nothing there.", start: 1139.62, end: 1146.86}
+  - {text: "You can see the homes before and then you're kind of looking at a wasteland afterwards.", start: 1147.10, end: 1151.50}
+  - {text: "I mean, how much detail can you go into when you examine these kind of images as to what has been lost?", start: 1152.00, end: 1156.90}
+  - {text: "You can see that 82 percent of the buildings have been damaged or destroyed, but those are just the buildings that you can see as rubble of the remaining 15", start: 1157.50, end: 1166.00}
+  - {text: "or so percent that we can't determine have been destroyed from the top down.", start: 1166.00, end: 1170.98}
+  - {text: "Those are likely to be severely damaged.", start: 1171.32, end: 1173.46}
+  - {text: "In fact, two weeks ago, 21 Palestinians were killed when a building that they were living in collapsed.", start: 1173.46, end: 1178.60}
+  - {text: "Many of the buildings that are still standing, which we would probably count as undamaged from the satellite view, are actually still extremely unsafe to inhabit", start: 1179.16, end: 1187.20}
+  - {text: "and still cause deaths routinely from Gazans trying to shelter within them.", start: 1187.20, end: 1192.94}
+  - {text: "About 94 percent of the population of Gaza needs shelter assistance.", start: 1193.30, end: 1197.58}
+  - {text: "Oli Ballinger. Since last month's devastating floods in Nepal, there have been stark warnings about the impact of climate change on the Himalayas as glaciers melt and the landscape becomes increasingly unstable.", start: 1198.18, end: 1211.50}
+  - {text: "Antonio Bollingbrook Kent reports from a thousand year old Himalayan village that now faces an existential threat from a melting glacier.", start: 1212.16, end: 1220.12}
+  - {text: "In a thousand year old Buddhist monastery in the remote village of Halji, high in the Himalayas, a monk recites prayers to protect the community.", start: 1222.56, end: 1230.24}
+  - {text: "It takes hours and is done daily.", start: 1230.80, end: 1233.10}
+  - {text: "And in recent years, those prayers have been needed.", start: 1233.62, end: 1236.26}
+  - {text: "There's three things that could happen at any time.", start: 1238.54, end: 1240.84}
+  - {text: "There are these massive boulders, which you see there in the valley.", start: 1241.26, end: 1243.96}
+  - {text: "They fall from this side of the mountain, then over there to the south.", start: 1244.66, end: 1248.32}
+  - {text: "There's been recent landslides just beyond the school and the Kanali River.", start: 1248.86, end: 1252.74}
+  - {text: "If one comes down and blocks the river, it will flood the valley.", start: 1253.28, end: 1256.70}
+  - {text: "There is the threat from these glacial lakes in the mountains that might cause a flood at any time.", start: 1257.20, end: 1262.28}
+  - {text: "So to live here is, in a way, to live in a state of constant fear.", start: 1262.28, end: 1266.68}
+  - {text: "Paljure is the headman of Halji, a village of seventy stone houses at the mouth of a green valley.", start: 1267.24, end: 1272.74}
+  - {text: "High above, glaciers have melted, creating glacial lakes.", start: 1273.67, end: 1277.41}
+  - {text: "When they burst, they can send a torrent of water and rock down the river valley.", start: 1277.95, end: 1281.67}
+  - {text: "In 2011, parts of the village were swept away.", start: 1282.55, end: 1285.29}
+  - {text: "And last year, a neighbouring community got hit.", start: 1285.77, end: 1287.89}
+  - {text: "They've seen the footage of the recent devastating floods in central Nepal and know something similar could happen here.", start: 1288.33, end: 1294.23}
+  - {text: "Given all these dangers, why do you stay?", start: 1294.51, end: 1297.29}
+  - {text: "What keeps you in Halji?", start: 1297.47, end: 1298.69}
+  - {text: "One is that we don't have the financial resources to move.", start: 1300.23, end: 1303.63}
+  - {text: "And the second is the monastery.", start: 1304.17, end: 1305.49}
+  - {text: "We rely on it because we don't get a lot of support from the state around here.", start: 1306.07, end: 1309.95}
+  - {text: "If people get sick, need help, or even when there is a natural disaster, people just go and pray at the monastery.", start: 1310.17, end: 1316.13}
+  - {text: "We believe that will save us.", start: 1316.59, end: 1318.09}
+  - {text: "If you look at those mountain corridors, Halji or Limibali, none of them are safe now.", start: 1318.09, end: 1325.61}
+  - {text: "Arun Shrestha is one of Nepal's top glaciologists.", start: 1325.85, end: 1328.81}
+  - {text: "He says that as temperatures rise, the Himalayan landscape is changing and becoming more unstable.", start: 1329.57, end: 1335.31}
+  - {text: "The recent Rasua floods, which killed thousands, are an example of what can happen.", start: 1336.15, end: 1340.75}
+  - {text: "And it's not an isolated incident.", start: 1341.23, end: 1343.15}
+  - {text: "Because of rapid melting, reduced cryosphere can also create disasters like glacier -like outburst flood, rock ice collapse, avalanches of ice and snow, landslides.", start: 1343.53, end: 1356.53}
+  - {text: "The frequency, magnitude of hazards are increasing.", start: 1357.11, end: 1360.49}
+  - {text: "It's not just Rasua, it's almost everywhere.", start: 1360.77, end: 1363.47}
+  - {text: "As a result, the government in Nepal says it wants reparations for the impacts of climate change.", start: 1364.07, end: 1369.01}
+  - {text: "Tashi Lozom is a 26 -year -old climate activist who's now a prominent member of the governing party in Nepal.", start: 1369.63, end: 1375.11}
+  - {text: "And she's from Halji.", start: 1375.67, end: 1376.95}
+  - {text: "The floods are becoming recurring issues in the Himalayas and now people distrust the landscape that they love so much.", start: 1377.29, end: 1384.19}
+  - {text: "You never know when you're going to get hit.", start: 1384.57, end: 1386.19}
+  - {text: "Everything that you know of gets gone, just like that.", start: 1386.37, end: 1389.31}
+  - {text: "Like you never exist.", start: 1389.51, end: 1390.37}
+  - {text: "Back in Halji, the villagers know the dangers.", start: 1392.26, end: 1394.74}
+  - {text: "But to leave is not just to give up a house.", start: 1395.22, end: 1397.60}
+  - {text: "They're among the last speakers of the Limike language, an archaic form of Tibetan.", start: 1398.06, end: 1402.78}
+  - {text: "For some, like 65 -year -old Chiring, leaving means abandoning a faith and a culture they've protected for a thousand years.", start: 1403.36, end: 1411.44}
+  - {text: "We've all been talking about the floods.", start: 1413.08, end: 1414.92}
+  - {text: "We grandmothers have decided that we will never leave.", start: 1415.60, end: 1418.62}
+  - {text: "So the only thing we can do is to try and be a better person than we were yesterday and pray at the monastery.", start: 1418.82, end: 1425.08}
+  - {text: "But we know that one day there will be a big flood, a big landslide, and that is how it will end for us.", start: 1425.58, end: 1432.68}
+  - {text: "Antonia Bollingbrook Kent. And you can hear more of her documentary, Nepal and the Shadow of Eglacia on Assignment and the documentary podcast from the BBC World Service.", start: 1433.42, end: 1444.46}
+  - {text: "Here's a question for you.", start: 1445.20, end: 1446.06}
+  - {text: "How would you feel about a data centre being built near your home?", start: 1446.36, end: 1449.94}
+  - {text: "Well, according to the polling company Gallup, 71 % of people in the United States are opposed to the construction of AI data centres in their local area.", start: 1450.54, end: 1459.84}
+  - {text: "And it seems that sentiment is shared by many people in other parts of the world.", start: 1459.84, end: 1464.42}
+  - {text: "Plans to build a data centre in the Australian city of Sydney have just been scrapped following intense pushback by local residents.", start: 1464.96, end: 1472.52}
+  - {text: "Our reporter Helene Burke told me what happened.", start: 1473.08, end: 1475.30}
+  - {text: "Last year, a property developer submitted an application to build a large data centre in the suburb of Lane Cove, which is a residential area of Sydney where a lot of families live.", start: 1475.86, end: 1485.48}
+  - {text: "This caused huge uproar in the local community as the data centre was proposed to be located only about 20 metres from the nearest house and just around the corner from a school.", start: 1485.96, end: 1495.42}
+  - {text: "Residents spent months campaigning against this with many raising concerns about the environmental and community impacts of having such a large data centre in a densely populated area.", start: 1496.00, end: 1506.02}
+  - {text: "That one data centre alone will use up to 10 % to 15 % of the whole of the Lane Cove local government area's water supply.", start: 1506.42, end: 1514.54}
+  - {text: "It will use more electricity than the entire Lane Cove local government area.", start: 1515.02, end: 1519.60}
+  - {text: "I understand we have a need for data centres.", start: 1519.92, end: 1522.08}
+  - {text: "I agree they have got to be built somewhere, but the somewhere should not be so close to suburban homes and a primary school.", start: 1522.40, end: 1529.20}
+  - {text: "This pushback from locals appears to have paid off because the developer has just announced it's withdrawing its plans, citing changes in regulation along with community feedback.", start: 1529.60, end: 1540.24}
+  - {text: "And Helene, the success of community pushbacks against constructions of data centres, isn't just limited to this one that you mentioned in Sydney, is it?", start: 1540.58, end: 1547.72}
+  - {text: "It's certainly not. The country with by far the largest number of data centres is the US.", start: 1547.84, end: 1552.12}
+  - {text: "There are more than 4 ,000 already built there.", start: 1552.40, end: 1554.60}
+  - {text: "So that really is the hotbed of community resistance.", start: 1554.80, end: 1557.32}
+  - {text: "According to the research group Data Centre Watch, at least 75 data centre projects in the US were blocked or delayed due to community pushback just in the first quarter of this year.", start: 1557.94, end: 1569.28}
+  - {text: "And even when these AI companies try and sweeten the deal a bit for locals, resistance appears to still remain strong.", start: 1569.28, end: 1575.62}
+  - {text: "There's this ongoing case in a town in Pennsylvania where a company that wants to build a handful of data centres has offered every local family", start: 1576.02, end: 1583.48}
+  - {text: "$10 ,000 to get on board with the plan.", start: 1583.48, end: 1586.36}
+  - {text: "But reportedly most residents are refusing to take the money.", start: 1586.70, end: 1589.94}
+  - {text: "Why are people so opposed to having data centres built near their homes?", start: 1590.20, end: 1593.44}
+  - {text: "Well, data centres are actually nothing new.", start: 1593.76, end: 1595.52}
+  - {text: "They've been around for decades and they kind of like giant hard drives.", start: 1595.60, end: 1599.26}
+  - {text: "They hold servers to keep the internet running, along with essential services like hospitals and banks.", start: 1599.28, end: 1604.80}
+  - {text: "A lot of the backlash we're seeing recently is to AI data centres specifically.", start: 1605.30, end: 1609.66}
+  - {text: "And that's because they tend to use a lot more power and water.", start: 1610.28, end: 1613.24}
+  - {text: "Along with the environmental impact, people are also concerned about noise.", start: 1613.82, end: 1617.34}
+  - {text: "Because of all the cooling systems, ventilation and backup generators within data centres, the buildings emit this constant low frequency humming sound that some people find extremely disruptive.", start: 1617.78, end: 1629.32}
+  - {text: "Proponents of AI data centres argue that they create jobs in the local community.", start: 1630.02, end: 1634.58}
+  - {text: "But not everyone is convinced that this is the case.", start: 1635.02, end: 1637.46}
+  - {text: "This is Karen Ferridan, who's helping lead the push back to the proposed data centres in that town in Pennsylvania that I mentioned earlier.", start: 1637.98, end: 1644.76}
+  - {text: "Data centres themselves don't employ a lot of people.", start: 1645.30, end: 1648.44}
+  - {text: "And everything we're learning about generative AI is that it stands to take away more jobs than it creates.", start: 1648.78, end: 1655.16}
+  - {text: "And so people are seeing it as a negative.", start: 1655.16, end: 1657.58}
+  - {text: "Because people are so opposed to data centres being built near their houses, the obvious question becomes, well, why don't we just put them in really remote areas where no one lives?", start: 1658.40, end: 1666.10}
+  - {text: "But the companies that run these data centres say that that's too difficult and too expensive as the buildings need reliable power, fast internet and workers nearby.", start: 1666.56, end: 1675.14}
+  - {text: "Helena Burke reporting. Let's finish this podcast with a record breaking child chest prodigy.", start: 1675.78, end: 1682.30}
+  - {text: "An 11 year old British girl has become the youngest chest player in history to earn the Woman Grand Master title.", start: 1682.30, end: 1688.70}
+  - {text: "Bodana Sivanandan from London secured the title while representing England at the 46th Chess Olympiad in Uzbekistan.", start: 1689.38, end: 1697.02}
+  - {text: "Ellie Price reports. Bodana Sivanandan was already the UK's youngest woman's chest champion and the youngest person to represent England internationally in any sport.", start: 1697.46, end: 1708.12}
+  - {text: "But this weekend was her woman's Grand Master flash.", start: 1708.60, end: 1711.30}
+  - {text: "She played all 11 rounds on England's top board.", start: 1711.86, end: 1714.76}
+  - {text: "That's the position assigned to the team's best player and finished the tournament with eight points.", start: 1715.16, end: 1719.88}
+  - {text: "She spoke to the International Chess Federation afterwards.", start: 1720.54, end: 1723.02}
+  - {text: "I'm happy to do it, but I want to keep going and keep making history as well instead of just stop here.", start: 1723.46, end: 1730.70}
+  - {text: "Bodana first started playing chess when she was five during lockdown.", start: 1730.98, end: 1734.32}
+  - {text: "By the time she was eight, she became the youngest person to draw against the Grand Master at a European championship.", start: 1735.00, end: 1740.58}
+  - {text: "A year later, the youngest female player to defeat one.", start: 1741.12, end: 1743.76}
+  - {text: "Now at the ripe old age of 11, she's grown in stature, in reputation, clearly in centimetres, a few.", start: 1744.32, end: 1751.04}
+  - {text: "But Bodana still needs to sit on a car booster seat at competitions so she can see the board properly.", start: 1751.64, end: 1757.00}
+  - {text: "Woman Grand Master is the highest woman only title a female player can attain and the rank is held for life.", start: 1757.70, end: 1763.46}
+  - {text: "But such an achievement doesn't mean she won't be back to play in her local chess club's annual tournament this Thursday on her way to her next target, International Master.", start: 1763.80, end: 1772.84}
+  - {text: "Ellie Price. And that's all from us for now.", start: 1773.62, end: 1778.31}
+  - {text: "If you want to get in touch, you can email us at globalpodcastatbbc .co .uk.", start: 1778.55, end: 1783.17}
+  - {text: "This edition of the Global News Podcast was mixed by Tom Bartlett and the producer was Emma Joseph.", start: 1783.81, end: 1789.17}
+  - {text: "The editor is Karen Martin and I'm Uncle Desai.", start: 1789.83, end: 1792.49}
+  - {text: "Until next time, goodbye.", start: 1792.71, end: 1794.03}
+---
