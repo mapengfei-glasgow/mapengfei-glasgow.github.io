@@ -8,9 +8,10 @@ academic: true
 
 ## 1. Introduction
 
-This demo is called from {{< cite "li2025local" "author" >}} ( **4.3.1 Slanted Channel Flow** ) and the most original from {{< cite "gruninger2024benchmarking" "author" >}} (**4.1. Oldroyd-B flow through an inclined channel**), but that is for viscoelastic flow.
 
-We have extended the type of boundary condition combinations: the original one is the **velocity Dirichlet** driving — the analytical steady solution, Eq. (48), is imposed on the inlet and outlet cross-sections (ramped from rest) — for which the pressure field is kept unique with a **pin point** (one pressure degree of freedom fixed to zero inside the inlet opening); what we added is the **pressure Dirichlet** driving — the analytical opening pressure $p=-(\Delta p/L)\,(x\cos\theta+y\sin\theta)$ is imposed on both cross-sections and the velocity there is left free. In the incremental pressure-correction solver this requires the opening pressure-traction term to be added explicitly to the predictor (`ds_p`/`p_traction`, as in demo_424). The two slanted plates are held stationary with the tethering (penalty-spring) method, stiffness $\beta=8\times10^3$; all other boundary segments are no-slip.
+This demo is called from {{< cite "li2025local" "author" >}} ( **4.3.1 Slanted Channel Flow** ) and the most original from {{< cite "gruninger2024benchmarking" "author" >}} (**4.1. Oldroyd-B flow through an inclined channel**), but that is for viscoelastic flow. We are using the fully Finite Element method version of Noal Immersed Boundary Finite Element method {{< cite "wells2023nodal" "author" >}}
+
+We have extended the type of boundary condition combinations: the original one is the **velocity Dirichlet** driving — the analytical steady solution, Eq. (48), is imposed on the inlet and outlet cross-sections (ramped from rest) — for which the pressure field is kept unique with a **pin point** (one pressure dof fixed to zero inside the inlet opening); what we added is the **pressure Dirichlet** driving — the analytical opening pressure $p=-(\Delta p/L)\,(x\cos\theta+y\sin\theta)$ is imposed on both cross-sections and the velocity there is left free. The two slanted plates are held stationary with the tethering (penalty-spring) method, stiffness $\beta=8\times10^3$; all other boundary segments are no-slip.
 
 Errors at $t=2$ ($N=32$, $\Delta t=0.15\Delta x$, 427 steps), measured inside the channel against the analytical solution:
 
@@ -28,6 +29,8 @@ The gap is intrinsic to the oblique ($30^\circ$) openings: the predictor's remai
 {{< figure src="https://githubimages.pengfeima.cn/images/202609301825491.png" title="FIGURE 2: Pressure" >}}
 
 {{< figure src="https://githubimages.pengfeima.cn/images/202609301842510.png" title="FIGURE 3: Velocity" >}}
+
+{{< figure src="https://githubimages.pengfeima.cn/images/202609301848736.png" title="FIGURE 4: Displacement" >}}
 
 {{< references >}}
 
