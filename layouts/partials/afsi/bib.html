@@ -1,0 +1,79 @@
+{{- /* afsi/bib.html — parse assets/afsi/bib.tex (BibTeX) into a slice of entry
+       maps, in file order. This is the single source of truth shared by the
+       `cite` and `references` shortcodes; it renders nothing itself.
+
+       Why parse in a template instead of running a converter in the pipeline:
+       bib.tex stays the only copy of the bibliography, and every `hugo` run
+       (local or CI) reads the file exactly as it is — there is no generated
+       data file that can go stale because someone forgot to re-run a script.
+
+       The parser is small on purpose and expects well-behaved BibTeX — the
+       shape tools like Google Scholar, INSPIRE and Zotero export:
+
+         - one entry per block: `@type{key,` … with the closing `}` on its
+           own line;
+         - fields written as `name = {value}`, one per line, values plain
+           UTF-8 text. Values are printed as written, so no nested `{..}`
+           inside a value and no LaTeX accent commands (`\"{u}`) — write the
+           character itself or an HTML entity (`&amp;`) instead. A value not
+           wrapped in braces is skipped with a warning;
+         - a `%` at the start of a line comments that line out;
+         - blocks are told apart by a *line-starting* `@`, so a value may
+           contain `@` (a URL, an email) but no line inside a value may start
+           with `@`.
+
+       Go's regexp engine (RE2) has no lookahead, so the entries are separated
+       first: every line-starting `@` is marked with a private-use character
+       that cannot occur in the text, and the file is split on that mark. Each
+       block is then parsed by two anchored regexes — the entry one leans on
+       the closing `}` being the last brace of the block, which is what the
+       "one entry per `@`" rule above guarantees.
+
+       Every entry gets synthetic keys on top of its fields:
+         key     the BibTeX key
+         type    the entry type (article, book, …)
+         index   1-based position in the file — this is the [n] of `cite` */ -}}
+
+{{- $bib := resources.Get "afsi/bib.tex" -}}
+{{- if not $bib -}}
+  {{- errorf "afsi/bib.html: assets/afsi/bib.tex not found — `cite` and `references` need it (resources.Get searches assets/ and theme assets/ only)" -}}
+{{- end -}}
+
+{{- $sep := "\ue000" -}}
+{{- $src := replaceRE `(?m)^[ \t]*%.*$` "" $bib.Content -}}
+{{- $src = replaceRE `(?m)^@` (printf "%s@" $sep) $src -}}
+
+{{- $entries := slice -}}
+{{- range $chunk := split $src $sep -}}
+  {{- /* Everything before the first entry (blank lines left by stripped
+         comments) is whitespace and falls through this test. */ -}}
+  {{- if not (findRE `^\s*$` $chunk) -}}
+    {{- $m := findRESubmatch `(?s)^@(\w+)\s*\{\s*([^,]+?)\s*,(.*)\}\s*$` $chunk -}}
+    {{- if not $m -}}
+      {{- errorf "afsi/bib.html: cannot parse the entry that starts %q — braces must balance and the closing `}` must sit on its own line" (printf "%.120s" $chunk) -}}
+    {{- end -}}
+    {{- $g := index $m 0 -}}
+    {{- $type := index $g 1 -}}
+    {{- $key := trim (index $g 2) " \t\r\n{}" -}}
+    {{- $body := index $g 3 -}}
+    {{- if findRE `=[ \t]*[^\s{]` $body -}}
+      {{- warnf "afsi/bib.html: entry %q has a field whose value is not wrapped in {braces}; that field is ignored" $key -}}
+    {{- end -}}
+    {{- $fields := dict -}}
+    {{- range $f := findRESubmatch `([\w-]+)\s*=\s*\{([^{}]*)\}` $body -}}
+      {{- $name := lower (index $f 1) -}}
+      {{- $value := trim (index $f 2) " \t\r\n" -}}
+      {{- if eq $name "pages" -}}
+        {{- $value = replace $value "--" "–" -}}
+      {{- end -}}
+      {{- $fields = merge $fields (dict $name $value) -}}
+    {{- end -}}
+    {{- $fields = merge $fields (dict "key" $key "type" $type "index" (add (len $entries) 1)) -}}
+    {{- $entries = $entries | append $fields -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if eq (len $entries) 0 -}}
+  {{- warnf "afsi/bib.html: no BibTeX entries parsed from assets/afsi/bib.tex" -}}
+{{- end -}}
+{{- return $entries -}}

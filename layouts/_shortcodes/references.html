@@ -1,0 +1,102 @@
+{{- /* references: the numbered bibliography of the entries this page actually
+       cited with `cite`. Put it where the list belongs — normally the end of
+       the page, at column zero like any other shortcode:
+
+         ## 8. Summary
+         …
+         {{< references >}}
+
+       Only cited entries are listed, but their numbers are their positions
+       in assets/afsi/bib.tex (see cite.html for why numbering is per file,
+       not per page) — the <li value> attribute keeps the list numbers equal
+       to the [n] marks when the page cites a subset of the bibliography.
+
+       Entries are printed in the site's reference style
+
+         Authors. <Title.> Journal volume (year) pages.
+
+       using author / title / journal (or booktitle) / volume / number /
+       year / pages / note from bib.tex; `doi` or `url` turn the title into
+       a link. See layouts/partials/afsi/bib.html for what the parser
+       expects. Pass an argument to rename the heading: {{< references
+       "Works cited" >}}. */ -}}
+
+{{- $heading := .Get 0 | default "References" -}}
+{{- $cited := .Page.Store.Get "afsi-cites" | default slice -}}
+{{- $shown := slice -}}
+{{- range $e := partial "afsi/bib.html" . -}}
+  {{- if in $cited $e.key -}}{{- $shown = $shown | append $e -}}{{- end -}}
+{{- end -}}
+
+{{- if $shown -}}
+<div class="references">
+<p><strong>{{ $heading }}</strong></p>
+<ol>
+{{- range $e := $shown }}
+  {{- /* Author list: "Li, Lianxia and Gruninger, Cole" → "L. Li, C. Gruninger";
+         a name without a comma is kept verbatim. */ -}}
+  {{- $authors := slice -}}
+  {{- range $name := split ($e.author | default "") " and " -}}
+    {{- $n := trim $name " \t\r\n" -}}
+    {{- if ne $n "" -}}
+      {{- if in $n "," -}}
+        {{- $parts := split $n "," -}}
+        {{- $family := trim (index $parts 0) " \t\r\n{}" -}}
+        {{- $initials := slice -}}
+        {{- if gt (len $parts) 1 -}}
+          {{- range $given := split (trim (index $parts 1) " \t\r\n{}") " " -}}
+            {{- $g := trim $given " \t\r\n." -}}
+            {{- if ne $g "" -}}
+              {{- $initials = $initials | append (printf "%s." (substr $g 0 1)) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $authors = $authors | append (trim (printf "%s %s" (delimit $initials " ") $family) " ") -}}
+      {{- else -}}
+        {{- $authors = $authors | append $n -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $authorStr := delimit $authors ", " -}}
+  {{- /* Title, linked to the DOI (or URL) when the entry has one. Text that
+         goes *into* an HTML fragment is escaped by hand: shortcode output
+         passes through Hugo's HTML auto-escaper, so a variable holding
+         "<em>…</em>" would arrive as &lt;em&gt; — the fragment is made safe
+         here and marked safeHTML when printed instead. */ -}}
+  {{- $titlePart := "" -}}
+  {{- with $e.title -}}
+    {{- $t := htmlEscape . -}}
+    {{- $href := "" -}}
+    {{- if $e.doi -}}
+      {{- $href = printf "https://doi.org/%s" (htmlEscape $e.doi) -}}
+    {{- else -}}
+      {{- with $e.url -}}{{- $href = htmlEscape . -}}{{- end -}}
+    {{- end -}}
+    {{- if $href -}}
+      {{- $t = printf `<a href="%s">%s</a>` $href $t -}}
+    {{- end -}}
+    {{- $titlePart = printf "<em>%s</em>." $t -}}
+  {{- end -}}
+  {{- /* Journal, volume (year) pages — the order the manual entries in
+         demo-423/demo-424 use. */ -}}
+  {{- $tail := slice -}}
+  {{- with $e.journal -}}{{- $tail = $tail | append (printf "<em>%s</em>" (htmlEscape .)) -}}{{- end -}}
+  {{- if not $e.journal -}}
+    {{- with $e.booktitle -}}{{- $tail = $tail | append (printf "In <em>%s</em>" (htmlEscape .)) -}}{{- end -}}
+  {{- end -}}
+  {{- /* Volume and number travel as one token: 22(3), not 22 (3). */ -}}
+  {{- $volPart := "" -}}
+  {{- with $e.volume -}}{{- $volPart = htmlEscape . -}}{{- end -}}
+  {{- with $e.number -}}
+    {{- if $volPart -}}{{- $volPart = printf "%s(%s)" $volPart (htmlEscape .) -}}
+    {{- else -}}{{- $volPart = printf "(%s)" (htmlEscape .) -}}{{- end -}}
+  {{- end -}}
+  {{- if $volPart -}}{{- $tail = $tail | append $volPart -}}{{- end -}}
+  {{- with $e.year -}}{{- $tail = $tail | append (printf "(%s)" (htmlEscape .)) -}}{{- end -}}
+  {{- with $e.pages -}}{{- $tail = $tail | append (htmlEscape .) -}}{{- end -}}
+  {{- $tailStr := delimit $tail " " -}}
+<li id="ref-{{ $e.key }}" value="{{ $e.index }}">{{ with $authorStr }}{{ . }}. {{ end }}{{ $titlePart | safeHTML }}{{ with $tailStr }} {{ . | safeHTML }}.{{ end }}{{ with $e.note }} {{ . }}{{ end }}</li>
+{{- end }}
+</ol>
+</div>
+{{- end -}}

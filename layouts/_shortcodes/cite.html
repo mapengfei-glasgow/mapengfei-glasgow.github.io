@@ -1,0 +1,70 @@
+{{- /* cite: a citation mark for an entry in assets/afsi/bib.tex (the shared
+       bibliography of the AFSI pages; see layouts/partials/afsi/bib.html).
+
+       Usage — the key must exist, otherwise the build fails with the page's
+       path so a typo surfaces immediately:
+
+         …the composite B-spline method of {{< cite "li2025local" >}}   → [1]
+         …as {{< cite "li2025local" "author" >}} shows                  → Li et al. (2025)
+
+       The default style `num` prints the entry's position in bib.tex, not
+       the order of first mention on this page. Position is what keeps the
+       [n] marks and the `references` list consistent across every render the
+       page goes through: a section list page renders each demo's summary
+       (a truncated prefix of the body) before or after the full page, the
+       RSS output renders .Content again, and `hugo server` re-renders single
+       pages on their own. First-use numbering would silently disagree
+       between those passes; file position cannot.
+
+       The mark links to id="ref-<key>", which the `references` shortcode
+       emits — put that at the end of the page. `author` falls back to [n]
+       when the entry has no author field. */ -}}
+
+{{- $key := .Get 0 | default "" | string -}}
+{{- if eq $key "" -}}
+  {{- errorf "cite: missing BibTeX key (page %s), usage {{< cite \"li2025local\" >}}" .Page.Path -}}
+{{- end -}}
+{{- $style := .Get 1 | default "num" -}}
+{{- if and (ne $style "num") (ne $style "author") -}}
+  {{- warnf "cite: unknown style %q on page %s (expected \"num\" or \"author\"); using num" $style .Page.Path -}}
+{{- end -}}
+
+{{- $entry := false -}}
+{{- range $e := partial "afsi/bib.html" . -}}
+  {{- if eq $e.key $key -}}{{- $entry = $e -}}{{- end -}}
+{{- end -}}
+{{- if not $entry -}}
+  {{- errorf "cite: %q is not an entry in assets/afsi/bib.tex — add the entry or fix the key (page %s)" $key .Page.Path -}}
+{{- else -}}
+  {{- /* Record the key on the page so `references` knows what to list. The
+         set only grows, and members are added regardless of which render got
+         there first, so the recorded set is the same in every pass. */ -}}
+  {{- $cited := .Page.Store.Get "afsi-cites" | default slice -}}
+  {{- if not (in $cited $key) -}}
+    {{- .Page.Store.Set "afsi-cites" ($cited | append $key) -}}
+  {{- end -}}
+
+  {{- $text := printf "[%v]" $entry.index -}}
+  {{- if eq $style "author" -}}
+    {{- $family := "" -}}
+    {{- $names := split ($entry.author | default "") " and " -}}
+    {{- $first := trim (index $names 0) " \t\r\n{}" -}}
+    {{- if in $first "," -}}
+      {{- $family = trim (index (split $first ",") 0) " \t\r\n{}" -}}
+    {{- else -}}
+      {{- $words := split (trim $first " \t\r\n") " " -}}
+      {{- if gt (len $words) 1 -}}
+        {{- $family = index $words (sub (len $words) 1) -}}
+      {{- else -}}
+        {{- $family = $first -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if ne $family "" -}}
+      {{- $suffix := "" -}}
+      {{- if gt (len $names) 1 -}}{{- $suffix = " et al." -}}{{- end -}}
+      {{- $text = printf "%s%s" $family $suffix -}}
+      {{- with $entry.year -}}{{- $text = printf "%s (%v)" $text . -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+  <a class="cite" href="#ref-{{ $key }}">{{ $text }}</a>
+{{- end -}}
