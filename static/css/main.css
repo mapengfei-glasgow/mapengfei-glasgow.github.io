@@ -27,6 +27,13 @@
   --bg-soft: #222;
   --track: #3a3a3a;
   --shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
+
+  /* Inline mark-up colours for the `color` shortcode (demo-note red/green/
+     orange/blue marks); the light-theme values are overridden below. */
+  --text-red: #ff8080;
+  --text-orange: #ffb454;
+  --text-green: #6fcf7a;
+  --text-blue: #7dc4ff;
 }
 
 /* Light-theme overrides */
@@ -41,6 +48,10 @@
   --accent-soft: rgba(230, 0, 103, 0.10);
   --sky-blue: #2563eb;
   --shadow: 0 10px 26px rgba(30, 60, 90, 0.12);
+  --text-red: #d1242f;
+  --text-orange: #bc4c00;
+  --text-green: #1a7f37;
+  --text-blue: #0969da;
 }
 
 * { box-sizing: border-box; }
@@ -534,6 +545,15 @@ body.modal-open { overflow: hidden; }
 /* ---------- AFSI section (solver documentation pages) ---------- */
 .post-content figure img { border-radius: var(--radius); }
 .post-content figure figcaption { color: var(--secondary); font-size: 0.85rem; }
+
+/* ---------- Inline text colours (`color` shortcode) ---------- */
+/* {{< color "red" >}}…{{< /color >}} — see layouts/_shortcodes/color.html.
+   Scoped to .post-content so the classes cannot leak into PaperMod's own
+   markup; the variables above flip with the theme. */
+.post-content .c-red { color: var(--text-red); }
+.post-content .c-orange { color: var(--text-orange); }
+.post-content .c-green { color: var(--text-green); }
+.post-content .c-blue { color: var(--text-blue); }
 
 /* ---------- Comments (giscus → GitHub Discussions) ---------- */
 /* The widget itself is giscus's iframe; only the frame around it is ours. */

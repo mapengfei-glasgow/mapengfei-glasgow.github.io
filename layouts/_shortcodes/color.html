@@ -1,0 +1,25 @@
+{{- /* color: colour a run of text — for marking things up while writing the
+       demo notes (a doubt or a discrepancy in red, a verified result in
+       green, …).
+
+       Usage (inline; it can wrap part of a sentence):
+
+         {{< color "red" >}}There is something wrong about the configurations.{{< /color >}}
+
+       Four named colours: red | orange | green | blue. Each is a CSS variable
+       in static/css/main.css with a light-theme override, so the mark stays
+       legible in both themes — add a fifth colour there and to the list below
+       if you need one. A missing or unknown colour fails the build.
+
+       The inner text is put into the <span> as written: it is NOT re-parsed
+       as Markdown, so *emphasis* or **bold** written in there stays literal.
+       `$…$` maths inside is left alone and still reaches MathJax. */ -}}
+
+{{- $name := .Get 0 | default "" | string -}}
+{{- if not (in (slice "red" "orange" "green" "blue") $name) -}}
+  {{- errorf "color: %q is not one of red, orange, green, blue (page %s) — add a colour in static/css/main.css if you need more" $name .Page.Path -}}
+{{- end -}}
+{{- /* trim is trim(STRING, CUTSET), so it must be called directly: piping
+       (… | trim " x") would append the value as the *last* argument and
+       silently trim the cutset instead of the text. */ -}}
+<span class="c-{{ $name }}">{{ trim .Inner " \t\r\n" }}</span>
