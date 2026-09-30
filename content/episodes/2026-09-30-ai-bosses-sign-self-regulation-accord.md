@@ -1,0 +1,284 @@
+---
+layout: single
+title: "AI bosses sign self-regulation accord"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-09-30T00:00:00Z
+slug: "2026-09-30-ai-bosses-sign-self-regulation-accord"
+audioDir: "2026-09-30-ai-bosses-sign-self-regulation-accord"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-30-ai-bosses-sign-self-regulation-accord/episode.mp3"
+totalDuration: 1671.4
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.08}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Wednesday, the 30th of September, these are our main stories.", start: 5.14, end: 11.24}
+  - {text: "As warnings continue over the risks artificial intelligence may pose to humanity, Donald Trump says U .S.-based AI bosses have signed an accord on self -regulation that he's called morally binding.", start: 11.84, end: 24.94}
+  - {text: "South Africa's President, Sir Will Ramaphosa, addresses the nation amid growing alarm about violence against women.", start: 25.40, end: 32.30}
+  - {text: "And the English Premier League confirms Manchester City have been found guilty of serious breaches of financial rules.", start: 32.80, end: 40.24}
+  - {text: "Also in this podcast, the UK's Prime Minister, Andy Burnham, sets out an ambitious agenda in a major speech to his party.", start: 41.60, end: 49.08}
+  - {text: "And... This is one of the last great masterpieces by him remaining in private hands and it's a view of Rome.", start: 60.58, end: 67.40}
+  - {text: "A rare painting by the renowned artist Turner returns to the Eternal City.", start: 67.94, end: 73.50}
+  - {text: "The Chinese AI company Moonshot is conducting an internal review after researchers said they persuaded its technology to discuss making chemical and biological weapons and how to kill people.", start: 77.48, end: 91.18}
+  - {text: "It was only a few weeks ago that a U .S.", start: 91.78, end: 94.08}
+  - {text: "AI expert said the technology was advancing so quickly he believed there was more than a 10 % chance it could kill all humans within the next decade.", start: 94.24, end: 104.68}
+  - {text: "But now President Trump has said tech companies developing AI can regulate themselves.", start: 105.18, end: 109.94}
+  - {text: "He was speaking after talks with industry leaders at the White House.", start: 110.50, end: 113.54}
+  - {text: "Mr Trump said the tech leaders had signed what he called a morally binding accord on AI regulation.", start: 114.06, end: 120.32}
+  - {text: "I think I'm seeing tremendous self -policing.", start: 120.80, end: 123.56}
+  - {text: "These models are very complex.", start: 124.02, end: 125.56}
+  - {text: "And again, I believe they're going to be used for the good and when they're not, we're going to be able to nab them.", start: 126.24, end: 130.62}
+  - {text: "We're also thinking about forming a committee of sorts where we put maybe 10 people on that committee.", start: 130.84, end: 136.18}
+  - {text: "It could be from that group.", start: 136.36, end: 137.28}
+  - {text: "So the committee can watch over the whole enterprise.", start: 137.56, end: 140.38}
+  - {text: "We're looking at this for good.", start: 140.74, end: 141.88}
+  - {text: "It's also maybe the biggest industry.", start: 141.88, end: 144.84}
+  - {text: "They say bigger than the Industrial Revolution.", start: 145.16, end: 147.56}
+  - {text: "Among those attending the White House meeting were the anthropic boss, Dario Amade, open AIs Greg Brockman, Nvidia's Jensen Huang and even Elon Musk.", start: 148.22, end: 159.28}
+  - {text: "Apparently back on good terms with Donald Trump after that very public fallout.", start: 159.48, end: 164.30}
+  - {text: "Here's Meta's founder, Mark Zuckerberg.", start: 164.74, end: 167.00}
+  - {text: "I think what we can all agree on is that the American public and our customers want to know that what we're building is working in the way that we all intend.", start: 167.52, end: 175.04}
+  - {text: "So we drafted a set of principles and commitments around building robust internal controls and detecting if there are any issues with the technology coupled with multiple layers of auditing", start: 175.64, end: 188.26}
+  - {text: "and controls and agreeing that we're going to have all of our boards of directors independently review the reports that come from the auditors was sort of a historic conversation.", start: 188.26, end: 197.76}
+  - {text: "I don't think anything like this has come before.", start: 197.92, end: 199.62}
+  - {text: "And I think this is a meaningful step forward.", start: 200.08, end: 202.12}
+  - {text: "So what exactly is in the accord?", start: 202.56, end: 204.76}
+  - {text: "But Debuseman is our White House correspondent.", start: 205.16, end: 207.46}
+  - {text: "This accord is essentially a set of responsibilities, not quite regulations, but things that the industry internally and collectively needs to address as far as some of these safety concerns that have come with AI.", start: 208.58, end: 221.36}
+  - {text: "Now, President Trump was asked directly whether this would be in any way a legally binding agreement, and he said, no, it's a morally binding agreement.", start: 221.36, end: 229.42}
+  - {text: "So I think to many of the people that are concerned about the future of AI and what it could mean for society, that'll raise some eyebrows because at the end of the day,", start: 229.58, end: 236.88}
+  - {text: "there's really nothing other than the word of these tech CEOs that were here at the White House that enforces that mechanism.", start: 237.10, end: 244.62}
+  - {text: "It's really just a collective agreement to keep an eye on those responsibilities in the future.", start: 244.88, end: 249.76}
+  - {text: "President Trump very much does not want any sort of top -down government regulation on artificial intelligence because he thinks that'll put the US at a disadvantage with regards to China", start: 249.76, end: 260.16}
+  - {text: "and stifle what he thinks could be a huge engine of economic growth in the United States in the future.", start: 260.16, end: 264.76}
+  - {text: "Some people are going to be really cynical about this, given that these are business people, they want to make money.", start: 265.14, end: 271.22}
+  - {text: "And you think of the number of court cases that are happening at the moment involving tech companies and then allegedly failing in their responsibilities.", start: 271.76, end: 280.04}
+  - {text: "And I think that's one of the reason that President Trump and these tech leaders had this event to show that they're all on the same page with regards to that.", start: 281.00, end: 289.04}
+  - {text: "Now, today comes as polls show that a majority of Americans are concerned about the future of AI and as a related issue, AI data centers", start: 289.12, end: 297.42}
+  - {text: "that are being set up in communities across the country.", start: 297.42, end: 299.74}
+  - {text: "And President Trump really wanted to address those concerns head on to make the case that in the White House's view, this is something that could benefit Americans by creating jobs and high paying jobs in the future.", start: 299.84, end: 312.24}
+  - {text: "And also that these companies would reinvest in the communities that they're building data centers in for the AI infrastructure.", start: 312.52, end: 320.14}
+  - {text: "And I think that's really a politically important point for President Trump to downplay the concerns about what this means for the future and try assure Americans", start: 320.54, end: 329.70}
+  - {text: "that these for profit companies ultimately will do the right thing and keep these guardrails in place.", start: 329.70, end: 335.38}
+  - {text: "And it's interesting because obviously he hosted the Chinese leader Xi Jinping recently and he has been more in favor of having guardrails than President Trump.", start: 336.06, end: 344.54}
+  - {text: "Hasn't he? And President Trump was asked about this as well.", start: 344.62, end: 347.66}
+  - {text: "In his view, the only country that would benefit from guardrails is China because according to President Trump's assessment, the U .S.", start: 347.96, end: 355.46}
+  - {text: "is ahead of China already in AI and any sort of guardrails would allow them to catch up and challenge what he sees as American dominance in the technologies.", start: 355.50, end: 364.54}
+  - {text: "While he thinks there should be de -confliction to prevent misunderstandings with China with regards to security issues and AI, he made very clear today he in no way wants a joint venture with them in any kind", start: 364.54, end: 375.64}
+  - {text: "that would allow them to gain an understanding of American AI technology.", start: 375.64, end: 380.54}
+  - {text: "In his words, the secrets that the U .S.", start: 381.02, end: 382.92}
+  - {text: "has with regards to that technology.", start: 383.00, end: 385.14}
+  - {text: "And today as well, there was also the launch of America .gov, this new website that is going to be AI powered.", start: 385.48, end: 391.96}
+  - {text: "It is essentially what America .gov is an AI powered chatbot of sorts that helps Americans find different government services that would have otherwise been spread out across a huge number of websites.", start: 392.40, end: 405.36}
+  - {text: "Now, President Trump and other officials earlier pointed to that as an example of the benefits that AI could have for Americans, just making their life simpler by having them avoid go to various different government websites and painstakingly find forms.", start: 405.60, end: 420.26}
+  - {text: "For example, for passports or for other documentation name changes, for example, that the AI would point them in the right direction.", start: 420.26, end: 427.32}
+  - {text: "And this is all part of that same message that President Trump really wants to get to Americans, is that in his view, this is something that benefits all Americans,", start: 427.40, end: 435.18}
+  - {text: "not necessarily just those who are involved directly in the technology.", start: 435.38, end: 439.46}
+  - {text: "He sees this as a growth engine for all Americans, full stop.", start: 439.68, end: 443.12}
+  - {text: "Burnt debasement in Washington.", start: 443.54, end: 445.24}
+  - {text: "In the last few months, 12 women have been murdered in just one district near the South African city of Johannesburg.", start: 446.04, end: 453.76}
+  - {text: "The discoveries have caused widespread alarm and come against the backdrop of longstanding concerns about high levels of violence against women.", start: 454.46, end: 462.98}
+  - {text: "Now, the president, Sirorama Poser, has been addressing the nation on the government's plans to tackle gender based violence.", start: 463.68, end: 469.96}
+  - {text: "He said the men and boys of South Africa had a responsibility to take women's safety seriously.", start: 470.54, end: 476.30}
+  - {text: "For too long, gender based violence has been treated as a woman's problem to solve.", start: 477.23, end: 484.29}
+  - {text: "Women march, the women of our country organize, they speak out, they protest and they comfort survivors.", start: 484.79, end: 493.69}
+  - {text: "Women change their roots home, avoid going out at night and warn one another about dangerous places and dangerous men.", start: 494.39, end: 504.01}
+  - {text: "We have placed the burden of male violence on women.", start: 504.01, end: 508.43}
+  - {text: "That must change. That was Cyril Ramposa.", start: 508.95, end: 511.81}
+  - {text: "Pete Ross heard more from our correspondent in Johannesburg, Pumsafalani.", start: 512.47, end: 516.45}
+  - {text: "One of the key things, the key takeaways that South Africans would have been looking out for here is what the next steps are.", start: 516.87, end: 523.59}
+  - {text: "And he identified four areas where he will be concentrating specific timelines of things that need to be done.", start: 523.91, end: 530.51}
+  - {text: "So one of them is he has given a directive for unresolved cases that are linked to gender based violence to be prioritized and reported on within 60 days.", start: 530.51, end: 541.67}
+  - {text: "He's also called for an audit of municipalities to be done where public spaces are checked and cleaned up.", start: 541.81, end: 550.51}
+  - {text: "This is in instances where some areas are overgrown or there aren't any street lights areas where women that are walking home or back and forth between home and work", start: 550.73, end: 559.37}
+  - {text: "would be particularly vulnerable that this is because of previous cases where we've seen where women are targeted in this form where they're trying to get between home and work in specific communities.", start: 559.89, end: 571.11}
+  - {text: "So that's one of the things he said he needs looked at within that 90 day period and identified with the intention of these repairs being done where they needed.", start: 571.35, end: 580.67}
+  - {text: "And do we have any indication as to how this speech has gone down in South Africa?", start: 581.23, end: 585.09}
+  - {text: "Will the president's comments help reassure people these murders and women's safety in general is being taken seriously?", start: 585.29, end: 590.85}
+  - {text: "It's difficult to imagine that many women would agree or feel that it has gone far enough in part because of what the president himself acknowledged when he was addressing the nation,", start: 591.47, end: 601.69}
+  - {text: "saying he spoke to the nation seven years ago this month precisely when there was a spate of killings and made a range of promises of things that would be done.", start: 601.89, end: 612.09}
+  - {text: "He acknowledged tonight that not enough had been done to turn things around.", start: 612.19, end: 616.69}
+  - {text: "So a lot of women would probably walk away feeling that they were looking for more concrete solutions on what will be done one around those harmful attitudes about women", start: 616.69, end: 626.73}
+  - {text: "that are held by so many men in the country.", start: 626.73, end: 629.15}
+  - {text: "But two, what's going to be done in communities where there is poor policing or minimal visible policing and what's going to be done about speeding up the prosecution of cases", start: 629.25, end: 640.05}
+  - {text: "where women do go and report crimes and those crimes take ages to go through the courts.", start: 640.05, end: 645.11}
+  - {text: "Where are we with the current investigation into the murders that have been taking place in Johannesburg?", start: 645.11, end: 649.69}
+  - {text: "What the president shared this evening was that there was speculation that a serial killer may be involved.", start: 649.91, end: 654.63}
+  - {text: "He said that the police have no indication that that's the case or even that the cases are linked.", start: 654.77, end: 660.59}
+  - {text: "They are still following all possible leads.", start: 660.77, end: 663.17}
+  - {text: "And he promised that those cases are receiving a high priority with the intention of solving them once.", start: 663.35, end: 670.65}
+  - {text: "So the family's fears are alleged, but also the broader community.", start: 670.95, end: 674.59}
+  - {text: "Next to an update on a significant story from the world of football that we first heard about on Friday, the Premier League in England has officially confirmed the findings of an independent commission,", start: 676.23, end: 688.39}
+  - {text: "which has been looking at Manchester City's alleged violations of financial rules.", start: 688.81, end: 693.45}
+  - {text: "It's found the club guilty of all charges related to serious breaches of the league's financial rules.", start: 694.07, end: 700.55}
+  - {text: "This fan summed up the emotions of many.", start: 700.97, end: 703.67}
+  - {text: "The people, the fans, they'll never have the same trust in their owners and the club again.", start: 704.29, end: 709.41}
+  - {text: "There's the true fans that will stay with the club through thick and thin, but obviously they'll lose quite a few.", start: 710.07, end: 715.67}
+  - {text: "So what exactly did the commission find?", start: 716.43, end: 718.95}
+  - {text: "Our sports editor, Dan Rowan, is in Copenhagen, where the European Football Clubs Association has been meeting.", start: 719.49, end: 725.45}
+  - {text: "It says that City were guilty of all charges related to the breaches of financial rules over a nine -year period between 2009 and 2018 and", start: 726.03, end: 736.99}
+  - {text: "the majority of rules relating to a failure to cooperate with the Premier League's investigation.", start: 736.99, end: 743.13}
+  - {text: "It refers to sham commercial deals, which were designed, it says, to artificially inflate the club's revenues and reduce costs by around £900 million in order to comply with financial rules.", start: 743.33, end: 756.21}
+  - {text: "It also says that the club had made concerted efforts to stop and frustrate the investigation, referencing egregious acts of non -cooperation and dishonest statements.", start: 756.31, end: 765.97}
+  - {text: "Now, the Premier League have said that the club systematically broke their rules for nearly a decade, and a short while before this publication, I was able to catch up with the Manchester City Chief Executive, Ferran Soriano, who's a delegate here.", start: 766.69, end: 780.75}
+  - {text: "Mr Soriano, hello, sir.", start: 781.37, end: 782.57}
+  - {text: "Can I just ask about the guilty charges?", start: 782.79, end: 784.59}
+  - {text: "How do you feel about that?", start: 784.81, end: 785.65}
+  - {text: "Can you have any message for your fans who are concerned about the club being called cheats?", start: 786.45, end: 790.07}
+  - {text: "How long do you think this will take, sir?", start: 790.98, end: 792.60}
+  - {text: "Can you give me any idea why you're confident that you can prove you're innocent to the club at all?", start: 795.35, end: 799.93}
+  - {text: "Any message for the fans who are concerned?", start: 800.75, end: 801.97}
+  - {text: "Thank you. Are you concerned about a points deduction or relegation, expulsion?", start: 802.33, end: 806.96}
+  - {text: "No comment then from City's Chief Executive when I tried, but subsequently, they've released a statement referencing how disappointed and surprised they are by this ruling,", start: 807.94, end: 816.66}
+  - {text: "reiterating that the club is innocent and saying that they will appeal.", start: 817.18, end: 820.28}
+  - {text: "They have until Friday to do so, and the next stage of this saga is a sanctions hearing when we will discover how exactly the league intend to punish this club.", start: 820.28, end: 829.44}
+  - {text: "Dan Rowan, a renowned painting has returned to the city that inspired it almost two centuries ago.", start: 830.18, end: 836.44}
+  - {text: "A particularly well -preserved painting of Rome by the British artist, JMW Turner, will be on display for three days.", start: 836.96, end: 844.32}
+  - {text: "Dating back to the 19th century, the painting was based on sketches made in the Italian capital, and Sarah Rainsford went to take a look for us.", start: 844.84, end: 853.36}
+  - {text: "It's been called Turner's Great Love Letter to Rome, a dreamy, golden -colored landscape of the city viewed from the hills.", start: 853.76, end: 861.00}
+  - {text: "Now, the oil painting that the artist began here in the 1820s has been returned to Rome and put on public display for the first time.", start: 861.52, end: 868.70}
+  - {text: "The masterpiece was brought here by Southern Bysauction House, ahead of a sale later this year, and according to specialist Julian Gascoigne, it is an extraordinary work of art.", start: 869.46, end: 878.78}
+  - {text: "Turner is regarded as one of the most important and influential landscape painters in the Western tradition, and this is one of the last great masterpieces by him remaining in private hands.", start: 878.92, end: 889.88}
+  - {text: "It's one of the best preserved pictures by the artist to survive, and it's a view of Rome, a subject that was extremely dear to his heart", start: 890.20, end: 897.04}
+  - {text: "and a subject that inspired him throughout his career.", start: 897.04, end: 899.44}
+  - {text: "The painting, Rome from Mount Aventine, also contains important clues to the artist's technique, very unusually, it's not lined on the back and it's thought it has never been restored,", start: 899.74, end: 910.38}
+  - {text: "which means that much of Turner's original working is still clear to see.", start: 910.72, end: 914.64}
+  - {text: "You can see this very wet application of paint, which is almost sort of dribbling down the canvas.", start: 914.76, end: 919.12}
+  - {text: "Equally in the clouds up here, these sort of clumps of paint at the end where the knife has stopped, and it's this rich surface that is one of the things that makes this painting so special.", start: 919.42, end: 930.34}
+  - {text: "There's also a sense of the artist himself.", start: 930.72, end: 932.80}
+  - {text: "Beneath the original frame are his fingerprints left in paint where he held his canvas.", start: 932.80, end: 938.22}
+  - {text: "The work last sold over a decade ago for £30 million, but it's expected to reach £50 million at auction, smashing new records.", start: 939.06, end: 947.20}
+  - {text: "At least for the next three days, though, it is free to see here in the city that first inspired it.", start: 947.76, end: 953.54}
+  - {text: "Sarah Rainsford reporting from Rome.", start: 954.08, end: 956.28}
+  - {text: "Still to come in this podcast.", start: 958.03, end: 959.81}
+  - {text: "It was really electric.", start: 960.35, end: 961.87}
+  - {text: "You know, there are lots of dance steps that I see on TikTok and Instagram.", start: 961.87, end: 965.23}
+  - {text: "He was doing them on stage.", start: 965.65, end: 966.63}
+  - {text: "And it was fun.", start: 967.63, end: 968.69}
+  - {text: "A week -long dance -a -thon in Nigeria.", start: 969.09, end: 972.11}
+  - {text: "This is the Global News podcast.", start: 978.21, end: 980.37}
+  - {text: "A man who spent 41 years on death row in the US for murder has been released on bail after newly analysed DNA evidence didn't link him to the crime.", start: 981.46, end: 991.74}
+  - {text: "Douglas Stewart Carter, who's now 71, was convicted for the killing of Eva Olson in Utah in 1985.", start: 992.28, end: 998.70}
+  - {text: "He always maintained his innocence, saying his confession was coerced.", start: 999.52, end: 1004.06}
+  - {text: "His son, Tyler Angel, spoke to reporters outside the prison as he waited for his father's conditional release.", start: 1004.56, end: 1010.98}
+  - {text: "Hopefully he doesn't get too jittery because it's been a while.", start: 1011.86, end: 1014.64}
+  - {text: "I want him to see the stars.", start: 1015.12, end: 1017.12}
+  - {text: "I'd like for him to just get a life that we all get to live.", start: 1018.06, end: 1022.29}
+  - {text: "None of us understand what this guy's going through and how crazy it's gonna be to step out here.", start: 1022.85, end: 1029.12}
+  - {text: "His lawyer, Neil Hamilton, was also there as his client walked out of jail.", start: 1029.84, end: 1034.36}
+  - {text: "He spoke to the BBC's Rebecca Kesby.", start: 1034.82, end: 1036.96}
+  - {text: "When he came out of the doors of the jail, he had the biggest smile I've ever seen on his face.", start: 1037.63, end: 1045.51}
+  - {text: "It was surreal. It was wonderful and aggravating at the same time.", start: 1046.25, end: 1051.05}
+  - {text: "He went home to his family.", start: 1051.43, end: 1052.73}
+  - {text: "He hasn't seen them ever.", start: 1053.39, end: 1055.01}
+  - {text: "This was his first time even shaking his son's hand or giving him a hug.", start: 1055.61, end: 1059.65}
+  - {text: "It's aggravating because this didn't need to be.", start: 1060.17, end: 1063.61}
+  - {text: "The state of Utah stole 41 years from Doug Carter, but the theft wasn't enough.", start: 1064.23, end: 1069.23}
+  - {text: "They then put him on death row.", start: 1069.53, end: 1071.11}
+  - {text: "All the things we take for granted, choosing what to eat, choosing to open a door, turning your lights on, seeing the stars, breathing fresh air.", start: 1071.69, end: 1079.25}
+  - {text: "This is the first time he's done that in 41 years and it is a lot.", start: 1079.75, end: 1083.31}
+  - {text: "The world he has entered into is not the world that he was taken from.", start: 1083.93, end: 1088.17}
+  - {text: "He was innocent. They framed an innocent young black man.", start: 1088.63, end: 1091.75}
+  - {text: "Right, well, obviously this is a legal case and other lawyers may disagree with your analysis of the situation, but it does seem as if he has been released because they've re -analyzed DNA evidence taken at the scene", start: 1092.11, end: 1109.41}
+  - {text: "and as far as we understand it, they cannot link Mr.", start: 1109.99, end: 1113.35}
+  - {text: "Carter with that DNA.", start: 1113.41, end: 1115.05}
+  - {text: "Can you explain this?", start: 1115.33, end: 1116.43}
+  - {text: "Love to. When Eva was murdered, the person, the man who killed her, stabbed her 10 times.", start: 1116.83, end: 1122.91}
+  - {text: "He used a knife that had a low profile blade and then the knife didn't have a good grip.", start: 1123.39, end: 1128.35}
+  - {text: "There is affirmative evidence that the killer sliced his hand open.", start: 1128.79, end: 1132.85}
+  - {text: "When Eva was fatally shot, the killer used a pillow to muffle the sound of the gunshot.", start: 1133.27, end: 1138.21}
+  - {text: "There's blood on the handle, there's blood on the pillow, there's blood on the back door.", start: 1138.59, end: 1141.79}
+  - {text: "These are all instances where we can definitively point to and say that's the killer's blood.", start: 1142.25, end: 1147.21}
+  - {text: "That is what was tested and Doug has now been affirmatively excluded.", start: 1147.81, end: 1151.31}
+  - {text: "So it also seems, though, that the witness testimonies that were key to the conviction are also now under review.", start: 1151.95, end: 1159.67}
+  - {text: "Well, that's the reason why we're here.", start: 1160.07, end: 1161.95}
+  - {text: "In 2012, the federal public defender of Arizona, the Capitol habeas unit, they filed a petition in state court to overturn Doug's conviction.", start: 1162.19, end: 1174.05}
+  - {text: "They learned the year previously that these key witnesses had been threatened, coerced and bribed and then instructed to purge of themselves.", start: 1174.67, end: 1183.91}
+  - {text: "We're simply, in getting Doug released, we're standing on the backs of giants here.", start: 1184.55, end: 1188.11}
+  - {text: "I think there has to be a retrial now, doesn't there?", start: 1188.25, end: 1191.09}
+  - {text: "And I understand that there are members of Eva Oleson's family who didn't want Doug to be released.", start: 1191.13, end: 1197.23}
+  - {text: "Yes, they have been very clear about that.", start: 1197.23, end: 1199.69}
+  - {text: "And we have nothing but love and sympathy and grace for them.", start: 1199.97, end: 1205.13}
+  - {text: "They've been lied to for 41 years.", start: 1205.65, end: 1207.87}
+  - {text: "They've lost their loved one and they've been told from people that they should be able to trust that Doug did it.", start: 1208.29, end: 1214.05}
+  - {text: "And now they're facing the realization that not only might it not be Doug, but also their loved one's murder remains unsolved.", start: 1214.39, end: 1221.17}
+  - {text: "That was Neil Hamilton.", start: 1221.57, end: 1222.75}
+  - {text: "The president of the hard -right National Rally Party in France, Jordan Bardella, has issued a furious response to allegations that he made anti -Semitic comments as a young activist.", start: 1223.51, end: 1235.03}
+  - {text: "The 31 -year -old is tipped to be the successor to Marine Le Pen.", start: 1235.55, end: 1238.99}
+  - {text: "He says the allegations are politically motivated and an attempt to damage his party ahead of elections next year.", start: 1239.51, end: 1245.99}
+  - {text: "He says he plans to sue for libel.", start: 1246.41, end: 1248.55}
+  - {text: "Mr Bardella's lawyer, Davide Dacela Dest, said the messages were fake.", start: 1249.01, end: 1253.49}
+  - {text: "He denies, with the utmost vigor, the greatest firmness and in the most categorical manner possible, ever having made such remarks.", start: 1256.93, end: 1263.17}
+  - {text: "It is utterly disgraceful to attribute such publications to him.", start: 1263.69, end: 1266.79}
+  - {text: "Back in 2013, he never published anything of the sort, nor did he ever say or express anything of the kind.", start: 1267.05, end: 1273.11}
+  - {text: "It is quite obviously a crude forgery.", start: 1273.37, end: 1275.47}
+  - {text: "De toute évidence, un faux grossier.", start: 1275.57, end: 1277.43}
+  - {text: "The accusations have been published by the website Media Part.", start: 1277.83, end: 1281.33}
+  - {text: "Its chief executive, Karine Fruteau, outlined the comments Mr Bardella is alleged to have made.", start: 1281.81, end: 1287.15}
+  - {text: "We had these comments.", start: 1287.55, end: 1288.73}
+  - {text: "All the banks are owned by Jews.", start: 1289.01, end: 1291.25}
+  - {text: "It also lamented in this exchange that the Jew most dominated all the people, crushed them and robbed them as a Zionist is necessarily a profound Jewish.", start: 1291.67, end: 1303.73}
+  - {text: "Our investigation is based on numerous private conversation and backed up with witnesses' accounts.", start: 1304.25, end: 1312.49}
+  - {text: "We did our job as investigative journalists, verifying, cross -checking, documenting.", start: 1312.97, end: 1318.81}
+  - {text: "So it means that we have documents, mails and messages from 2013 to 2015.", start: 1319.23, end: 1325.61}
+  - {text: "It was very young coming into politics.", start: 1326.17, end: 1328.37}
+  - {text: "It's true, but it's not it's defense.", start: 1328.85, end: 1330.77}
+  - {text: "It's defense is that everything is false, which we can prove is not true.", start: 1331.07, end: 1336.19}
+  - {text: "Jordan Bardella and Marine Le Pen, that's what they say, that they will put us in court.", start: 1336.85, end: 1341.97}
+  - {text: "We will see. Unfortunately, we are very used of far right threats.", start: 1342.69, end: 1347.89}
+  - {text: "We condemn them, but after all, if they want to sue us under the law of free press in France, which is very old and also very protective to free press, we are very ready to go there, defending our information,", start: 1348.61, end: 1363.95}
+  - {text: "which are of public interest and will serve the public.", start: 1363.95, end: 1367.97}
+  - {text: "Kareem Fruteau. The UK's new Prime Minister, Andy Burnham, has given an emotional first speech to his Labour Party's annual conference.", start: 1368.51, end: 1376.77}
+  - {text: "He promised greater public control over essential services and vowed to reverse decades of privatisation, as well as establish free social care.", start: 1377.25, end: 1386.73}
+  - {text: "Britain, he said, had been on the wrong path for a long time.", start: 1387.19, end: 1391.31}
+  - {text: "Deindustrialisation, deregulation, privatisation, austerity, Brexit, and what has it given us?", start: 1393.52, end: 1399.70}
+  - {text: "A country run for vested interests, not in the public interest, with power held in too few hands and too many places left to drift.", start: 1400.56, end: 1409.86}
+  - {text: "I am ready to do things my predecessors wouldn't.", start: 1410.83, end: 1414.29}
+  - {text: "I will make a break with the direction of the past 40 years and put Britain on a new path, build a new economy and a new politics.", start: 1415.07, end: 1425.41}
+  - {text: "That is the case I make to you today.", start: 1425.91, end: 1429.03}
+  - {text: "Our UK political correspondent, Rob Watson, was watching the speech.", start: 1433.10, end: 1437.08}
+  - {text: "What stood out for me was what you just heard there, which was an ideological case, clearly and emotionally put, that Britain has been on the wrong track since the 1980s,", start: 1437.76, end: 1447.98}
+  - {text: "and that the solution is more state intervention in the economy and to take a more, I think I would call it, a communitarian or left -wing approach to life in the UK,", start: 1448.42, end: 1456.74}
+  - {text: "to recapture what Andy Burnham, at any rate, sees as the sort of social solidarity that existed post -Second World War years.", start: 1456.92, end: 1464.84}
+  - {text: "And then, on top of that, if you like, overarching critique, there were some genuinely radical proposals, such as changing Britain's voting system, something that, if it went ahead, might end.", start: 1465.04, end: 1474.78}
+  - {text: "The centuries -old tradition that we have of governments with clear majorities, so boring it was not.", start: 1475.20, end: 1480.26}
+  - {text: "And he made an awful lot of promises.", start: 1480.78, end: 1482.88}
+  - {text: "But can Britain afford to make such big economic changes now?", start: 1483.24, end: 1487.34}
+  - {text: "Well, that is the big question, Pete, particularly given that the UK has been stuck and is forecast to be stuck in a pattern of very low growth,", start: 1487.82, end: 1495.28}
+  - {text: "and it has already highly indebted, and I think that was why Andy Burnham was slightly cautious about what he promised.", start: 1495.40, end: 1500.96}
+  - {text: "So, despite that critique that we heard, a sort of left -wing -sounding critique, he was not suggesting mass renationalisation of huge swathes of the economy, more public control.", start: 1501.30, end: 1511.62}
+  - {text: "So, I guess the answer to your question is, we'll wait and see what he actually delivers in policy terms.", start: 1511.82, end: 1517.48}
+  - {text: "Not just now, but of course, if he wins the next election, because a lot of this speech was about a radical plan, not for now, but for three years hence.", start: 1517.58, end: 1525.22}
+  - {text: "And there are lots of domestic policies in that speech there.", start: 1525.60, end: 1529.02}
+  - {text: "But his promise of a new long -term relationship with the EU, that is likely to raise eyebrows both at home and abroad.", start: 1529.36, end: 1535.80}
+  - {text: "It is indeed, but if you think about it and you go back to the clip that we heard at the beginning, Andy Burnham is someone", start: 1536.30, end: 1541.48}
+  - {text: "who says very clearly that Brexit was a mistake.", start: 1541.48, end: 1544.06}
+  - {text: "It has not turned out well, and that there needs to be a big national debate about the relationship that the UK has with the European Union for the century ahead.", start: 1544.28, end: 1554.44}
+  - {text: "So, he thinks that's the debate that difficult, though it might be, needs to be had.", start: 1554.64, end: 1558.46}
+  - {text: "That was Rob Watson speaking to Pete Ross.", start: 1558.94, end: 1561.34}
+  - {text: "Finally, a Nigerian man has completed a 168 -hour dance marathon in a bid to set a new world record.", start: 1561.88, end: 1571.16}
+  - {text: "Officials have to verify the evidence before they can confirm the record.", start: 1571.62, end: 1575.46}
+  - {text: "The attempt was live -streamed on social media.", start: 1575.88, end: 1578.44}
+  - {text: "And our reporter in Lagos, Mokwachi Okafor, went along to watch.", start: 1578.82, end: 1582.74}
+  - {text: "It was really electric.", start: 1583.32, end: 1584.96}
+  - {text: "You see, lots of young people supporting, cheering.", start: 1585.28, end: 1588.68}
+  - {text: "He, the dancer, which is Ben Daniel Gibral, he was dancing.", start: 1588.98, end: 1593.34}
+  - {text: "There are a lot of dancers that I see on TikTok and on Instagram.", start: 1593.34, end: 1597.04}
+  - {text: "He was doing them on stage.", start: 1597.50, end: 1598.48}
+  - {text: "And it was fun.", start: 1599.98, end: 1600.54}
+  - {text: "There were a lot of Afro beats, which is a very popular music genre here in Nigeria.", start: 1601.20, end: 1604.76}
+  - {text: "It is very high -power, very energetic.", start: 1604.96, end: 1606.90}
+  - {text: "And now he has, according to him, crossed the 168 -hour mark.", start: 1607.50, end: 1611.94}
+  - {text: "Officially, he crossed that mark at 3 a .m.", start: 1612.46, end: 1615.34}
+  - {text: "local time today. But he continued dancing until 12 noon.", start: 1615.42, end: 1619.24}
+  - {text: "I was following the stream on his Instagram, the live stream.", start: 1619.40, end: 1623.42}
+  - {text: "But now he's done dancing and he's gone to hospital for check -ups because he's been dancing for seven days.", start: 1624.20, end: 1628.92}
+  - {text: "But guess what? He's actually going to be back for an after -party this evening to continue dancing with his friends.", start: 1629.58, end: 1634.64}
+  - {text: "I'm sorry, if someone has danced for 168 hours, can you imagine them going, do you know what?", start: 1635.12, end: 1639.78}
+  - {text: "I'm going to do a bit more dancing.", start: 1639.92, end: 1641.72}
+  - {text: "That was Mokwachi Okafor.", start: 1642.14, end: 1644.02}
+  - {text: "And that's all from us for now.", start: 1646.94, end: 1648.42}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk and don't forget our sister podcast, The Global Story.", start: 1648.70, end: 1656.22}
+  - {text: "This edition of the Global News Podcast was mixed by Pete Wise and the producer was Nikki Furiko.", start: 1656.72, end: 1661.76}
+  - {text: "The editor is Karen Martin.", start: 1662.20, end: 1663.56}
+  - {text: "And I'm Charlotte Gallagher.", start: 1663.84, end: 1664.82}
+  - {text: "Until next time, goodbye.", start: 1664.98, end: 1666.00}
+---
