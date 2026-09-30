@@ -1,79 +1,127 @@
 ---
 title: "Griffith 2009 耦合速度-压力求解器移植与 Chorin 对比"
-description: "把 Griffith 耦合鞍点求解器移植进 fdm-3d-v1，并在同一个 tethered tube partition 算例中比较 Chorin 与 Griffith：求解器本身差多少、对流格式影响多大、XSPPM7 为什么能算。附 400 步时间曲线、采样数据和 PyVista 三维图。"
+description: "It is a draft manuscript preparing for JFM."
 date: 2026-09-16
 academic: true
 ShowToc: true
 TocOpen: false
+Repository: CardioPhysX/mv-turbulance
 ---
 
 ## 0. 结论先写在前面
 
-这次做了两件事：
+Since I've been working on the IBFE program up to now, I find myself puzzling over two things. The first is how to know whether the results I compute are correct, and the second is how to know whether my computational speed has reached the limit of the GPU device. I have prepared two test cases. In the first case, a pipe is placed in the center of a box with both ends reaching the boundary, and pressure is applied at both ends of the pipe to simulate the flow when the valve fully opens. In the second case, a baffle is placed in the middle of the pipe to simulate the flow after the valve fully closes. 
 
-1. 从参考实现中抽出 **Griffith 2009 耦合速度-压力求解器**，移植进 `fdm-3d-v1`；
-2. 在同一个 `tethered_tube_partition` demo 里同时运行原 `ChorinStokesSolver` 和新移植的
-   `fdm3d::griffith::NavierStokes`，逐项比较。
+Currently, for my solver, what is certainly correct is the issue of the velocity Dirichlet boundary condition, where the pressure satisfies a homogeneous Neumann boundary condition. The internal solve is certainly correct as well. Problems can only arise in these three places: the first is the pressure boundary condition, that is, the so-called traction boundary condition; the second is the treatment of the convective term; and the third is whether the force distribution needs to be corrected when a Lagrangian marker appears on the boundary of the domain. This paper will use these two test cases to study the following test cases one by one.
 
-在最接近“纯求解器差异”的 `--convection off` 模式下：
+There are two solvers. One is the implementation from "Griffith 2009," which couples the pressure and velocity by encapsulating the projection method within an FGMRES solver. The second is the original Chorin solver, which is simply the splitting method, known for its issues with boundary layers. There are **four** implementations of the convective term. The worst is the central difference method, which would not be used in any production environment. The second is the semi-Lagrangian method, which was used in my PhD thesis; it is very fast and stable, but not very effective at capturing the turbulence that appears during the simulation. The third is the second-order upwind scheme, and the final one is the XSPPM7 scheme implemented in "Griffith 2009."
 
-> **两个求解器本身实际上非常接近。**
->
-> - plate 最终位移差约 **0.40%**
-> - marker 配对最大距离差约 **0.0053 mm**
-> - 速度/压力场 RMS 相对差约 **0.02%–0.42%**
+Let me briefly summarize the results. In the `--convection off` mode, which comes closest to isolating the difference between the solvers themselves, the two solvers are in fact very close to each other: the final displacement difference of the plate is about 0.40%, the maximum distance difference in marker pairing is about 0.0053 mm, and the RMS relative difference in the velocity and pressure fields is about 0.02%–0.42%. In contrast, under their respective default convection schemes, `--convection native`, where Chorin uses second-order upwind and the Griffith method uses XSPPM7, the final displacement difference of the plate is about 2.61%, the maximum distance difference in marker pairing is about 0.406 mm, and the field differences reach 21%–67%. This larger discrepancy, however, mainly comes from the difference in convective discretization between `SecondUpwind` and `XSPPM7`, rather than from the velocity–pressure coupling approach. Using the uniformly low-order `--convection central` scheme is not a good choice: the Griffith path becomes unstable at around `t = 0.068–0.070 s` (steps 270–280), so it should simply be ignored in the future.
 
-而在各自默认对流格式 `--convection native` 下：
+# 1. Problem Settings
 
-> - plate 最终位移差约 **2.61%**
-> - marker 配对最大距离差约 **0.406 mm**
-> - 场量差异达到 **21%–67%**，但这主要来自
->   `SecondUpwind` 与 `XSPPM7` 的对流离散差异，而不是速度-压力耦合方式。
+The present study considers a series of numerical examples. The first example focuses on a zero-thickness tube model based on the immersed boundary method (IBM). This model differs from the three-dimensional solid tube mesh contained in the `geometry` repository. Both the tube wall and the internal disk are represented by a single layer of Lagrangian points, without three-dimensional solid or shell elements. Consequently, neither structure possesses a geometric thickness, bending stiffness, or in-plane elastic stiffness.
 
-统一低阶 `--convection central` 则不是一个好选择：Griffith 路径在约
-`t = 0.068–0.070 s`（step 270–280）失稳。
+The computational domain has dimensions of 300 mm×75 mm×75 mm. The tube is aligned with the x-direction, with a length of approximately 300 mm, a radius of 15 mm, and a lumen diameter of 30 mm. The region outside the tube is also filled with fluid. A circular disk with a diameter of 30 mm is placed at x=150 mm, and its reference configuration spans the entire cross-section of the tube lumen. Since the tube wall is represented as a zero-thickness surface, no independent outer diameter is defined. If the inner and outer surfaces are regarded as coincident, both the inner and outer diameters are 30 mm, corresponding to a wall thickness of zero.
 
----
+The physical density of the fluid is 1060 kg/m3, and the dynamic viscosity is 0.004 Pa⋅s, i.e., 4 cP, corresponding to a kinematic viscosity of approximately 3.7736×10−6 m2/s. When the dimensional momentum equation is divided by the fluid density, the coefficient of the viscous term becomes the kinematic viscosity, and the immersed-boundary body-force density is correspondingly divided by the fluid density. If a nondimensional formulation is further adopted, both the viscosity and force terms must be rescaled according to the selected characteristic scales. The current numerical viscosity parameter is 5.03145×10−5; its correspondence with the physical kinematic viscosity therefore depends on the adopted nondimensionalization scales and should be verified accordingly. The physical time step is 0.00025 s. A total of 400 time steps are performed, corresponding to a total physical simulation time of 0.1 s.
 
-## 1. 移植了什么
+The Lagrangian points representing both the tube wall and the disk are allowed to move with the surrounding fluid and are constrained to remain close to their respective reference positions through tether penalty forces. The circular disk is discretized using concentric rings of Lagrangian points. Each point is assigned an area quadrature weight, and the sum of all area weights is equal to πR2. The same nondimensional tether penalty coefficient, κ=6400, is used for both the tube wall and the disk. Under a consistent nondimensional formulation, the restoring force associated with the i-th Lagrangian point is given by
 
-新增到 `fdm-3d-v1/src/fdm/`：
+Fi∗=−κAi∗(xi∗−xi,ref∗),
 
-| 文件 | 内容 |
-|---|---|
-| `fgmres.h` | restarted、right-preconditioned flexible GMRES |
-| `griffith_stokes.h` | `CoupledStokes` 耦合速度-压力块 |
-| `griffith_ns.h` | `NavierStokes` 时间推进（CN 粘性 + 固定点中点对流） |
-| `xsppm7.h` | 从 IBAMR 改编的 xsPPM7 重构 |
+where the superscript ∗ denotes a nondimensional quantity, Ai∗ is the corresponding area quadrature weight, and xi∗ and xi,ref∗ denote the current and reference positions, respectively. The penalty coefficient controls the extent to which the Lagrangian points are allowed to deviate from their reference positions and should not be interpreted as a Young's modulus. In addition, the markers located at both ends of the tube are fixed.
 
-核心离散形式是 Griffith 2009 的耦合块：
+When the tether penalty coefficient of the circular disk is set to zero and no other fluid-structure interaction force or constraint is applied to the disk, the disk points behave only as passive markers advected by the fluid and no longer affect the flow. From a fluid-dynamic perspective, the model then becomes equivalent to a straight-tube case without an internal disk. The point forces associated with the tube wall and the disk are spread to the face-centered velocity grid of the MAC discretization using one-sided corrected IB4 coupling weights, thereby forming the body-force density entering the fluid momentum equation. The same set of coupling weights is used for velocity interpolation and force spreading, with the appropriate quadrature weights incorporated in each operation.
+
+The flow is driven by traction boundary conditions imposed at the two ends of the computational domain in the x-direction. Traction conditions are prescribed over the entire end surfaces. On the left boundary, a pressure load of 100 mmHg, approximately 13332.2 Pa, is applied over the circular region corresponding to the tube lumen and is gradually introduced through a temporal ramp function, ramp(t). Zero traction is imposed on the remainder of the left boundary and over the entire right boundary. The value 13332.2 Pa therefore represents the prescribed pressure loading difference at the boundaries of the computational domain. Its relation to the actual pressure difference between the physical inlet and outlet of the tube depends on the locations of the tube openings relative to the boundaries of the computational domain.
+
+The above boundary treatment differs from the local boundary treatment used in Griffith's `CircularTractionPatch`, in which only the normal traction degree of freedom is retained within the circular opening, while velocity boundary conditions are imposed outside the opening. Following the configuration adopted in `partition_case`, no volumetric damping is applied to the fluid region outside the tube in the present example.
+
+In the second example, the zero-thickness representation is replaced by a tube with a finite wall thickness within the framework of the nodal immersed boundary method. Both the tube wall and the internal disk are assigned a thickness of 5 mm. This configuration enables the structural components to be represented as finite-thickness immersed solids, allowing their deformation and fluid-structure interaction response to be investigated beyond the idealized zero-thickness approximation.
+
+# 2. Some tricks
+
+1. feedback force on the input and output.
+2. Fix layers of points near the input and output.
+3. appropriate boundary conditions to ensure no flows outside the tube but no drag force 
+4. appropriate $\kappa$
+5. appropriate discretization for the convective terms
+
+# 3. Some results
+
+What are the results I desire? 
+
+1. no leakage on the wall for the tube and no leakage on the disc for the tube with a disc
+2. Static fluid for the tube with a disc
+3. tube flow obeys the Poiseuille law
+
+
+
+## Which parameters will influence the leakage
+
+![fig_leak_scaling](https://githubimages.pengfeima.cn/images/202609201520722.png)
+
+
+
+![fig5_psi_k25600](/Users/pengfei/Documents/GitHub/fdm-3d-v1-workspace/output/figs_tethered_tube_stream/fig5_psi_k25600.png)
+
+![fig3_psi_N32](/Users/pengfei/Documents/GitHub/fdm-3d-v1-workspace/output/figs_tethered_tube_stream/fig3_psi_N32.png)
+
+![fig4_psi_long](https://githubimages.pengfeima.cn/images/202609201520676.png)
+
+![fig2_stream_long](/Users/pengfei/Documents/GitHub/fdm-3d-v1-workspace/output/figs_tethered_tube_stream/fig2_stream_long.png)
+
+![fig1_stream_N32](https://githubimages.pengfeima.cn/images/202609201520683.png)
+
+## Adding damping to the force seems improve little but adds instabilities.
 
 $$
-K=\begin{bmatrix} A & G \\ -D & 0 \end{bmatrix},\qquad
-A=\frac{\rho}{\Delta t}I-\frac{\mu}{2}L
+\mathbf{F}=-\kappa A \int \mathbf{u} \, \mathrm{d}t - \beta A \mathbf{u}
 $$
 
-其中：
 
-- 粘性用 Crank–Nicolson；
-- 压力与速度联立求解，而不是 Chorin 那种分裂投影；
-- 速度面、速度分量可逐面独立设置 `Velocity` 或 `Traction`；
-- 法向 traction 的 DOF 保留在鞍点系统中；
-- 压力 ghost 与速度导数耦合；
-- FGMRES 允许内层 Helmholtz/Poisson 预条件器不精确。
 
-namespace 保留为 `fdm3d::griffith`，避免和原有
-`fdm3d::ChorinStokesSolver` 混淆。
+![fig2_damping_flux](https://githubimages.pengfeima.cn/images/202609201516271.png)
 
-移植分支和 commit：
 
-```text
-fdm-3d-v1        feat/griffith-coupled-stokes  cc68a6c
-fdm-3d-v1-demo   feat/griffith-coupled-stokes  6efa600
-workspace root   feat/griffith-coupled-stokes  c8055ca
-```
 
----
+![a](https://githubimages.pengfeima.cn/images/202609201510254.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image-20260922152404915](https://githubimages.pengfeima.cn/images/202609221524094.png)
+
+
+
+
+
+![image-20260922152346821](https://githubimages.pengfeima.cn/images/202609221523080.png)
+
+
+
+
+
+
+
+
+
+
+
 
 ## 2. 同一个 demo 里同时运行两个求解器
 
