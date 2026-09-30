@@ -8,479 +8,479 @@ slug: "2026-08-13-archive-coffee"
 audioDir: "2026-08-13-archive-coffee"
 totalDuration: 3493.6
 sentences:
-  - {text: "BBC Sounds. Music, radio, podcasts.", start: 1.10, end: 4.26}
-  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 8.08, end: 12.38}
-  - {text: "Why do weekends even exist?", start: 12.74, end: 14.48}
-  - {text: "And how did we become so obsessed with football?", start: 14.82, end: 17.10}
-  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 17.44, end: 19.50}
-  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 19.94, end: 25.52}
-  - {text: "Like why has the pub become so important?", start: 25.62, end: 27.62}
-  - {text: "That's an excellent question, Ben.", start: 27.90, end: 29.68}
-  - {text: "Here for the history.", start: 30.02, end: 30.72}
-  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 31.06, end: 33.40}
-  - {text: "Hi, this is me, Shaglenny.", start: 33.40, end: 35.54}
-  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.18, end: 40.34}
-  - {text: "But if you can't wait, head over to BBC Sounds, where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.12, end: 48.96}
-  - {text: "This is In Our Time from BBC Radio 4, and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 49.64, end: 58.40}
-  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 58.40, end: 64.16}
-  - {text: "I hope you enjoy the programme.", start: 64.72, end: 66.12}
-  - {text: "Hello, and welcome to the latest episode of our In Our Time Summer Classics.", start: 66.78, end: 72.08}
-  - {text: "As the BBC Central Europe correspondent in the late 1980s, I would go to the Breunerhof Café in Vienna's city centre and order myself a Grosse Braune, a sort of large macchiato.", start: 72.70, end: 85.54}
-  - {text: "More often than not, over in the corner sat Thomas Bernhardt, the enfant terrible of post -war Austrian theatre, always at the same table with the same cup of coffee and a newspaper.", start: 85.54, end: 98.30}
-  - {text: "Austrians have been enjoying their coffee thanks to their enemies, the Ottomans, for 500 years.", start: 99.46, end: 105.18}
-  - {text: "The Turks have been enjoying it even longer thanks to the Ethiopians and the Yemenis.", start: 105.90, end: 111.24}
-  - {text: "And we are all now addicted to the stuff.", start: 111.70, end: 114.06}
-  - {text: "We may think of it as just a morning pick -me -up, but coffee changed the intellectual culture in countries around the world as caffeinated customers stayed awake for longer,", start: 114.12, end: 124.96}
-  - {text: "becoming more animated and spreading ideas which weren't always to the liking of the government of the day.", start: 125.44, end: 131.48}
-  - {text: "But coffee also changed the economies of entire continents.", start: 132.46, end: 136.28}
-  - {text: "In this episode, Melvin and his guests explore how and why coffee became a fix we can't do without.", start: 137.16, end: 143.48}
-  - {text: "Oh, and if you're buying, mine's a flat white.", start: 143.48, end: 146.34}
-  - {text: "Enjoy listening. Hello, in 1652 the first coffee house opened in London, not so much a house as a shed, selling to passers -by.", start: 146.96, end: 155.16}
-  - {text: "The taste, it's thought, was unspeakable.", start: 155.70, end: 157.84}
-  - {text: "But people liked the effect it had, both from them and all those around them in these new coffee houses.", start: 158.32, end: 163.42}
-  - {text: "They were more talkative, brighter, awake for longer and sharing news and ideas.", start: 163.90, end: 167.90}
-  - {text: "It changed society. And coffee growing spread across the world's colonies, too, to meet European and American demand, changing lives from Java to Brazil, calling for more and more slaves to tend the crop.", start: 168.32, end: 179.48}
-  - {text: "We're going to discuss the history of coffee at Jonathan Morris, Professor in Modern History at the University of Hertfordshire, Markman Ellis, Professor of 18th Century Studies at Queen Mary University of London,", start: 180.06, end: 189.80}
-  - {text: "and Judith Hawley, Professor of 18th Century Literature at Royal Holloway University of London.", start: 190.26, end: 195.10}
-  - {text: "Judith, how did coffee become a drink, according to legend first?", start: 195.64, end: 199.48}
-  - {text: "Well, first of all, it wasn't a drink, but a kind of snack.", start: 200.30, end: 203.46}
-  - {text: "There's a very strange story that emerged in probably the 17th century about how there was a goat herder, who was sometimes described as a goat herder, sometimes as a camel herder in Ethiopia or possibly Egypt,", start: 204.18, end: 218.24}
-  - {text: "who observed that his goats, once they'd eaten the berries of this particular bush, would become very, very frisky and uncontrollable.", start: 218.24, end: 226.26}
-  - {text: "And so this herder decided that he would try them, too, and he started to dance around and to frisk.", start: 227.12, end: 233.98}
-  - {text: "And somebody came upon him, somebody who's described sometimes as a monk, sometimes as an iman, and noticed the effect that eating these beans was having on these people.", start: 234.98, end: 244.74}
-  - {text: "And the religious man tried them out himself and he found it amazing that they kept him awake and he's able to pray all night.", start: 244.74, end: 252.08}
-  - {text: "So the first time coffee was consumed, it was as the fresh berry or cherry of the bush.", start: 252.46, end: 259.68}
-  - {text: "And then how did it spread?", start: 260.44, end: 261.86}
-  - {text: "Let's take the legend for granted and rest on it, because it's as good an explanation as we're going to get, isn't it?", start: 262.04, end: 267.16}
-  - {text: "Yes, so it's possible that religious people, whether Christian but almost certainly Muslim, started to make a kind of infusion of the whole cherry with the red husk as well.", start: 267.16, end: 282.50}
-  - {text: "They didn't start roasting it for some time afterwards, but they would have made it as an infusion.", start: 283.06, end: 287.10}
-  - {text: "Well, they also sometimes consumed it as sort of ground into a paste and mixed with fat, a butter or oil, rather like those high protein snacks that people drink nowadays.", start: 287.10, end: 298.00}
-  - {text: "And it's sort of partly medicinal, but also is very much associated with prayer, that it allowed you to stay alert during the long nights of prayer.", start: 298.44, end: 307.70}
-  - {text: "And this was particularly important for the Sufis, the very mystic strand of Islam.", start: 308.08, end: 314.32}
-  - {text: "And a lot of Sufis were working during the day.", start: 314.32, end: 317.32}
-  - {text: "They weren't sort of full -time holy men.", start: 317.42, end: 319.80}
-  - {text: "And then they would pray during the evening, they'd enter their devotions at night and they use this.", start: 320.44, end: 325.96}
-  - {text: "So coffee is what made the dervishes whirl.", start: 326.50, end: 328.84}
-  - {text: "So by what time and with what effect had coffee spread into the Ottoman Empire?", start: 330.36, end: 335.38}
-  - {text: "It probably spread there.", start: 336.10, end: 337.26}
-  - {text: "It's sort of hard to say.", start: 337.74, end: 338.90}
-  - {text: "Recently, some coffee beans were found in the Horn of Africa in what's now the United Arab Emirates.", start: 340.00, end: 346.02}
-  - {text: "And they probably came from Yemen, and that might have been as early as the 12th century.", start: 346.42, end: 350.78}
-  - {text: "But trade in coffee was conducted across the Red Sea and the Port of Mokka, which is what gives us one of the names for coffee, was a vital trade route.", start: 351.68, end: 362.18}
-  - {text: "And then it spread to further through into what was known as the Levant, round about, let's say, probably the 16th century or possibly even earlier.", start: 362.18, end: 373.82}
-  - {text: "And it just for general trading people heard of it and wanted it.", start: 374.44, end: 377.56}
-  - {text: "Yes, it's a mixture of merchants.", start: 377.88, end: 379.74}
-  - {text: "The ports were very, very important.", start: 380.80, end: 382.54}
-  - {text: "But also people on the pilgrimage to Mekka.", start: 383.02, end: 385.42}
-  - {text: "It was spreading along prayer routes as well as trading routes.", start: 385.72, end: 389.04}
-  - {text: "Can you give us some idea when this trade got a bit of traction?", start: 389.04, end: 392.20}
-  - {text: "It seems to develop rather slowly.", start: 392.44, end: 394.32}
-  - {text: "It did. I think it was a niche drink and there were specialised places where it was consumed.", start: 394.78, end: 401.48}
-  - {text: "So it wasn't in every household.", start: 401.90, end: 403.42}
-  - {text: "So it wasn't a sort of a mass product.", start: 403.86, end: 405.64}
-  - {text: "That slowed down the spread of it.", start: 405.92, end: 407.88}
-  - {text: "But you've talked about the Yemen and moving up.", start: 408.06, end: 410.26}
-  - {text: "Yeah. About when? Which century?", start: 410.46, end: 412.44}
-  - {text: "Probably the, I think we should say about the 16th century it reached Constantinople.", start: 412.44, end: 418.54}
-  - {text: "And from there, maybe in periods of about 50 years at a time, it moved its way around the Mediterranean and eventually across continental Europe.", start: 419.22, end: 427.94}
-  - {text: "Did the Ottoman Empire take it as its drink quite soon?", start: 428.46, end: 432.90}
-  - {text: "Or did that again take a bit of time?", start: 433.02, end: 434.52}
-  - {text: "That took a bit of time.", start: 434.82, end: 436.62}
-  - {text: "But it was very much a part of habits of hospitality in the Ottoman Empire.", start: 436.62, end: 443.08}
-  - {text: "So it's not just a religious drink by then.", start: 443.22, end: 446.04}
-  - {text: "So coffee houses developed in the Ottoman Empire.", start: 446.18, end: 449.08}
-  - {text: "And they were places for men to gather to conduct conversation, to relax.", start: 449.42, end: 455.88}
-  - {text: "It's sort of often a place where you'd go in the afternoon to relax some stresses and strains, but also to meet people.", start: 456.40, end: 462.04}
-  - {text: "So there's quite a ritual of buying coffee, making and serving coffee to people that was part of its spread and consumption.", start: 462.04, end: 469.42}
-  - {text: "So not just the beverage or the commodity, but the way of consuming and sharing it.", start: 469.78, end: 475.52}
-  - {text: "Jonathan Morris, how did coffee start to spread west from the Ottoman Empire?", start: 476.10, end: 480.04}
-  - {text: "Well, it was often merchants themselves who spread it west.", start: 480.54, end: 483.22}
-  - {text: "They were obviously communicating into the rest of Europe.", start: 483.44, end: 486.78}
-  - {text: "The first record that we really have of coffee in Western Europe is in Venice.", start: 486.78, end: 492.90}
-  - {text: "And we know this because we have the death of an Ottoman merchant in 1575 in Venice.", start: 493.70, end: 499.10}
-  - {text: "And as part of the investigation, they made a listing of all of his effects.", start: 499.60, end: 505.08}
-  - {text: "And this included sort of coffee making paraphernalia.", start: 505.38, end: 507.96}
-  - {text: "But we know more generally, I suppose, that those who were called Armenians, that's to say the Christians who were living within the Ottoman Empire frequently became emigres into Western Europe.", start: 508.54, end: 519.18}
-  - {text: "And we tend to find that those are the people who established the first sort of coffee houses, the first coffee routes into European society.", start: 519.74, end: 526.84}
-  - {text: "How important was it that coffee was non -alcoholic?", start: 527.18, end: 529.72}
-  - {text: "It was very important, although of course even more important back in the Ottoman Empire and Arabia.", start: 530.52, end: 536.44}
-  - {text: "It was important because until that point, really in terms of sociable drinking, that would all have to be conducted over some form of alcohol.", start: 536.86, end: 544.32}
-  - {text: "So once there was a drink that was actually doing the wakeful as opposed to the sleeping, that obviously enabled it to be used in settings such as work practices,", start: 545.02, end: 555.10}
-  - {text: "such as places where people were negotiating, trading and so forth.", start: 555.24, end: 558.86}
-  - {text: "And that becomes the basis really of the early coffee houses.", start: 558.90, end: 562.58}
-  - {text: "And how did it begin to spread west from the Ottoman Empire?", start: 562.98, end: 565.72}
-  - {text: "So there's an interesting sort of disconnect, if you like.", start: 567.22, end: 571.86}
-  - {text: "So we know that coffee, as we said, spreads first into Italy and into probably into those Eastern European lands.", start: 572.06, end: 580.12}
-  - {text: "But it's used very much as a medicine, a medicinal thing, and it's sort of confined to...", start: 580.44, end: 585.46}
-  - {text: "What was it supposed to cure?", start: 585.46, end: 586.72}
-  - {text: "Pretty much anything that you wanted it to cure would be the answer.", start: 587.84, end: 591.64}
-  - {text: "So gout would be one thing, for example.", start: 592.84, end: 594.86}
-  - {text: "But there would be lots of sort of promises that this would cure things.", start: 594.86, end: 598.44}
-  - {text: "Was there any record kept of its effect?", start: 598.92, end: 602.04}
-  - {text: "No record that I think could be described as anything other than marketing.", start: 604.22, end: 607.82}
-  - {text: "So the way that it would be used would be by apocrates prescribing it.", start: 609.18, end: 613.92}
-  - {text: "And that creates the odd situation that, in fact, the first sort of social coffee house, as you alluded to, sort of opens in England, which", start: 615.80, end: 623.98}
-  - {text: "is actually quite late in terms of seeing the first coffee.", start: 623.98, end: 627.08}
-  - {text: "So there's that kind of disconnect for that reason.", start: 627.92, end: 630.12}
-  - {text: "Use the term marketing.", start: 630.48, end: 631.64}
-  - {text: "How was it marketed in the West?", start: 632.08, end: 633.50}
-  - {text: "So it flows out of the Ottoman Empire and they can say, well, this keeps you awake.", start: 633.70, end: 637.16}
-  - {text: "Alcohol will send you to sleep.", start: 637.52, end: 638.24}
-  - {text: "We're against alcohol anyway, so take this and you'll be able to pray more.", start: 638.34, end: 641.46}
-  - {text: "And that'll be good for us and good for you and so on.", start: 641.76, end: 644.42}
-  - {text: "How did they sell it when it moved across into Europe?", start: 645.62, end: 648.88}
-  - {text: "Well, I mean, there are most famously a sort of a hand bill that comes out, which is produced, we think, by Rose's own people, in which it refers to being able to cure wind,", start: 648.88, end: 659.60}
-  - {text: "being able to cure gout, being able to remove stones and so forth.", start: 659.78, end: 663.92}
-  - {text: "So it is advertised as having all these properties.", start: 664.04, end: 666.92}
-  - {text: "The first hand bill is, in fact, actually made available to other people.", start: 668.10, end: 672.76}
-  - {text: "So within the context of marketing within England and London, people, each coffee house is writing out the same hand bill, but substituting in their own name for all the things that they can deliver through it.", start: 672.96, end: 683.70}
-  - {text: "How similar, have we any idea how similar it was to the coffee we drink today?", start: 684.00, end: 687.98}
-  - {text: "Just similar, we hope.", start: 688.60, end: 689.82}
-  - {text: "We would imagine that that coffee would, well, first of all, it would be made by effectively a sort of a, what you might call a lesser version of what we now think of as Turkish coffee.", start: 691.02, end: 702.90}
-  - {text: "So it would be made by boiling.", start: 703.10, end: 704.32}
-  - {text: "It would be made by direct boiling of the grounds with the powder.", start: 704.32, end: 708.52}
-  - {text: "The powder itself would almost certainly have come from the Java or from Mocha.", start: 709.18, end: 715.74}
-  - {text: "It would be stale, extremely stale.", start: 715.88, end: 719.12}
-  - {text: "And shipping coffee at that time would have been done.", start: 719.40, end: 722.40}
-  - {text: "The coffee would have been exposed.", start: 722.56, end: 723.54}
-  - {text: "So the coffee would have taken on quite a lot of other characteristics.", start: 723.86, end: 726.36}
-  - {text: "Do we have any evidence of what it tasted like?", start: 726.66, end: 728.80}
-  - {text: "Well, we have people describing how they felt about it.", start: 729.80, end: 733.32}
-  - {text: "Most of what they describe is really about the effect that they believe that it has on them.", start: 733.32, end: 738.28}
-  - {text: "So it is this kind of reviving effect.", start: 738.44, end: 740.78}
-  - {text: "It is sort of the effect of keeping them up and so forth.", start: 741.02, end: 743.42}
-  - {text: "There are other people who are fairly unhappy about it.", start: 744.10, end: 748.60}
-  - {text: "But then we have the great innovation, of course, which is when milk is added to coffee.", start: 748.66, end: 751.90}
-  - {text: "Ah, that's a marker, isn't it?", start: 752.32, end: 754.24}
-  - {text: "Yes, so let's move on.", start: 754.32, end: 755.36}
-  - {text: "To Mark, how did it move from being an exotic drink to something sold to the public?", start: 756.50, end: 761.74}
-  - {text: "Coffee by the mid 17th century becomes more widely available in northern Europe, mainly through traders.", start: 761.74, end: 770.08}
-  - {text: "So in Britain it was the Levant company that traded, especially with Turkey and the Ottoman Empire.", start: 770.80, end: 775.88}
-  - {text: "And by the 1630s there are individuals associated with the Levant company who have accessed the coffee in Britain and are drinking it.", start: 776.84, end: 785.16}
-  - {text: "One of them is William Harvey, whose brothers were both the describer of circulation of the blood.", start: 785.20, end: 790.68}
-  - {text: "His brothers were both Levant merchants and he records drinking coffee and its effect on him.", start: 790.68, end: 796.90}
-  - {text: "And we're moving towards the first coffee house.", start: 797.20, end: 799.04}
-  - {text: "Yes, so the first coffee house opens in London in probably 1652.", start: 799.48, end: 804.04}
-  - {text: "It was opened by a servant of a Levant merchant called Daniel Edwards and the servant was called Pascal Rose.", start: 804.58, end: 812.80}
-  - {text: "And from his name that strongly suggests he was a Greek Christian.", start: 813.12, end: 816.52}
-  - {text: "He came from Ragoza, Dubrovnik.", start: 816.68, end: 818.64}
-  - {text: "And he had expertise in making coffee and had been trained in that way in Smerna, which is where Daniel Edwards traded for his family company.", start: 818.64, end: 830.80}
-  - {text: "And when Daniel Edwards came back to London, he got sick of entertaining all his friends in his house to coffee in the morning.", start: 831.52, end: 838.88}
-  - {text: "And so set up a servant, Pascal Rose, in, as you said, a shed basically in the churchyard of St.", start: 839.34, end: 844.90}
-  - {text: "Michael's Cornhill right by the Royal Exchange.", start: 844.98, end: 847.70}
-  - {text: "And where all the merchants in London gathered every day.", start: 847.70, end: 850.36}
-  - {text: "And quite quickly a large concourse of people, as they say, gathered every morning at Rose's shed.", start: 851.18, end: 857.40}
-  - {text: "And within a year or two he had made enough money to move across the alley into a proper building.", start: 858.06, end: 862.40}
-  - {text: "He'd taken on a partner and Pascal Rose's, the coffee house, Pascal Rose's head became the first most well -known coffee house in London.", start: 863.56, end: 873.68}
-  - {text: "When the city authorities did a census of coffee houses only ten years later, just in the city of London alone there were 83 coffee houses.", start: 874.52, end: 883.94}
-  - {text: "So it points to the extremely rapid expansion of the number of coffee houses.", start: 884.30, end: 889.84}
-  - {text: "What's your theory as to why it was so extreme?", start: 891.12, end: 893.24}
-  - {text: "I mean, 10 to 83 is a heck of a jump, isn't it?", start: 893.44, end: 895.74}
-  - {text: "It is. In such a short time.", start: 895.88, end: 898.30}
-  - {text: "Well, the conditions were good.", start: 898.30, end: 900.34}
-  - {text: "It was in the middle of, you know, the Republican government and they were hostile to being a Puritan government, hostile to excessive alcohol drinking and tried to license the number of taverns", start: 900.78, end: 913.82}
-  - {text: "and public houses that were in the city.", start: 913.82, end: 915.80}
-  - {text: "And coffee was not intoxicating.", start: 916.28, end: 918.44}
-  - {text: "So it found easy acceptance from the authorities.", start: 918.82, end: 927.46}
-  - {text: "It's also an extremely addictive drug.", start: 927.46, end: 930.78}
-  - {text: "So once you're used to drinking it for whatever reason, you want to keep drinking it.", start: 930.94, end: 935.50}
-  - {text: "And it's association with the trading practices of the Levant merchants meant that if you wanted to get on with the Levant company, you needed to drink coffee", start: 935.78, end: 944.16}
-  - {text: "and then coffee takes you over and you have to keep drinking coffee.", start: 944.16, end: 947.88}
-  - {text: "Thank you, Judith Hawley.", start: 949.24, end: 950.58}
-  - {text: "How did those sheds, those coffee houses, develop into the coffee houses that we know about which they developed into clubs, what was the big development?", start: 950.58, end: 962.71}
-  - {text: "What was that great rush of development?", start: 963.35, end: 965.03}
-  - {text: "Was that just to do with businessmen wanting to do business with businessmen and scholars with scholars and so on?", start: 965.31, end: 969.59}
-  - {text: "What was going on?", start: 969.69, end: 970.27}
-  - {text: "Yeah, so Markman's described the move of Pascal Rose from a shed which had been like one of the German Christmas market type sheds into premises", start: 970.69, end: 978.53}
-  - {text: "and one of the big appeals of the premise was that the coffee house became a place where you'd go and meet people and talk.", start: 978.53, end: 985.93}
-  - {text: "You'd go and meet and talk to strangers.", start: 986.47, end: 988.13}
-  - {text: "And when Markman mentioned the 83 coffee houses that were there within a decade they're usually located in particular areas of the city which already had an association say with printers", start: 988.73, end: 1000.07}
-  - {text: "or with lawyers or with merchants of a particular type or near Gresham College.", start: 1000.07, end: 1005.75}
-  - {text: "So people from those establishments could step out of their places of work and go to a place where they could meet each other and talk.", start: 1005.75, end: 1015.11}
-  - {text: "Why do they sideline Taverns?", start: 1016.05, end: 1019.03}
-  - {text: "Taverns had a mixture of associations.", start: 1021.21, end: 1025.11}
-  - {text: "They were certainly more upper class than an ale house but they were places of alcohol consumption.", start: 1025.41, end: 1031.71}
-  - {text: "They were mixed so women could go into taverns.", start: 1031.71, end: 1035.69}
-  - {text: "Coffee houses were pretty much exclusively male establishments apart from the women who might own them or serve the coffee there.", start: 1035.91, end: 1043.95}
-  - {text: "So I think there was a desire for men to talk business whether their business was law or trade or the new science.", start: 1044.57, end: 1051.27}
-  - {text: "They wanted to talk business with their fellow businessmen.", start: 1051.79, end: 1054.15}
-  - {text: "And coffee houses provided a number of things that Taverns didn't do and I think this is crucial.", start: 1054.71, end: 1058.85}
-  - {text: "There are two aspects to this.", start: 1059.07, end: 1060.79}
-  - {text: "One is the layout of the coffee house.", start: 1060.79, end: 1063.87}
-  - {text: "There's almost always a long table in the middle of the coffee house and you'd go in and you'd pay a penny for your cup of coffee and you'd take whatever seat was available.", start: 1064.01, end: 1073.17}
-  - {text: "So you'd sit and talk to whoever was there.", start: 1073.43, end: 1076.35}
-  - {text: "So this model of sociability.", start: 1076.61, end: 1078.35}
-  - {text: "Did that come from the Ottomans?", start: 1079.17, end: 1080.61}
-  - {text: "Yes, I think that did except the Ottomans often had you could take people to a private corner or sort of a bench, an elevated bench.", start: 1080.95, end: 1088.61}
-  - {text: "But this sort of come all who can and you mingle and meet made it a discursive space.", start: 1089.07, end: 1095.69}
-  - {text: "And the other thing was that they provided newspapers, pamphlets, printed material, reading material of all kinds.", start: 1095.87, end: 1101.89}
-  - {text: "So people would go in in order to get the latest news in terms of the gossip and conversation.", start: 1102.23, end: 1106.77}
-  - {text: "John Arbuthnot wrote a wonderful poem called The Quidnunks.", start: 1108.07, end: 1110.77}
-  - {text: "The What Now? You come and say, what's happening in the news?", start: 1111.25, end: 1114.45}
-  - {text: "Or you might get the latest poem if you went into wills or buttons where the wits met or you'd get to hear what was happening in Parliament", start: 1115.49, end: 1124.79}
-  - {text: "if you went to the coffee houses in St.", start: 1124.79, end: 1126.49}
-  - {text: "James. So is that mixture of news, reading, discussion, sharing of ideas which I think is absolutely crucial to the rapid spread of the coffee house", start: 1126.61, end: 1137.13}
-  - {text: "during a period of the rapid rise of knowledge?", start: 1137.13, end: 1139.69}
-  - {text: "We're talking about in the second half of the 17th century.", start: 1140.07, end: 1143.51}
-  - {text: "I know one says he's threatened because they got too lively and they were spreading ideas having forbid in this country and he, and it was threatened with closed.", start: 1144.05, end: 1151.37}
-  - {text: "They were threatened with closed.", start: 1151.55, end: 1152.15}
-  - {text: "Yes, 1676 Charles II tried to close them down because one of the chief ideas which was being discussed was the king, you know, what was the fate of the stewards.", start: 1152.25, end: 1162.17}
-  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 1163.99, end: 1169.05}
-  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 1169.29, end: 1174.25}
-  - {text: "Guests often surprise me by being just so generous with their stories.", start: 1174.69, end: 1179.15}
-  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 1179.63, end: 1184.07}
-  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 1184.45, end: 1189.67}
-  - {text: "Woman's Hour, listen on BBC Sounds.", start: 1190.35, end: 1192.93}
-  - {text: "Excession. Jonathan Morris, let's bring in how it's developing as a trade.", start: 1193.59, end: 1201.44}
-  - {text: "The Dutch East India Company, very powerful, takes its part in this.", start: 1202.26, end: 1207.82}
-  - {text: "Amsterdam becomes one of the great centres of the coffee trade.", start: 1207.88, end: 1210.86}
-  - {text: "Can you develop that?", start: 1211.00, end: 1211.70}
-  - {text: "Yeah, sure. Basically, obviously up until about the 1700s, all of the coffee that's coming on to the market comes from Mokka, from that sort of original cultivation which is going on in Yemen.", start: 1212.30, end: 1224.08}
-  - {text: "So the Dutch East India Company is seeing an expansion in demand and at the same time, in the early 1700s, the Ottoman Empire is increasing the restrictions upon the trade.", start: 1224.96, end: 1235.70}
-  - {text: "The Governor of one of the Governors of Dutch East India...", start: 1236.74, end: 1239.48}
-  - {text: "Is that because they wanted to make more money or because they wanted to control it for other reasons?", start: 1239.48, end: 1242.80}
-  - {text: "I think primarily it's because of making money.", start: 1243.52, end: 1245.68}
-  - {text: "But what happens, therefore, is I think that there are difficult relations with those East India companies, if you like, and the Ottoman authorities.", start: 1247.54, end: 1255.68}
-  - {text: "And as a result, one of the Governors of the Dutch East India Company, a man called Nicholas de Vitsen, decides to try and plant coffee in one of the colonies, in this case Java.", start: 1255.68, end: 1266.82}
-  - {text: "He takes his coffee from actually Malabar in India where we believe that that coffee had probably got by legend, by somebody making the pilgrimage, probably in reality by merchants, Indian merchants,", start: 1267.60, end: 1281.88}
-  - {text: "trying to set up somewhere else to grow coffee.", start: 1282.24, end: 1284.42}
-  - {text: "Anyway, he takes that coffee, he plants it in Java.", start: 1284.42, end: 1287.36}
-  - {text: "It's a slow process, but by around 1711 they are shipping coffee back into Amsterdam.", start: 1288.50, end: 1295.88}
-  - {text: "Amsterdam develops its own coffee exchange and by the end of the 1720s, about 90 % of the coffee that is going through the Amsterdam exchange is now from Java, rather than from Mocha.", start: 1296.38, end: 1309.22}
-  - {text: "Mark Van Alice, how was at that time coffee changing in the way we did business, for instance?", start: 1310.70, end: 1317.06}
-  - {text: "Judith pointed it out or alluded to the fact that it changed the interplay of ideas.", start: 1317.32, end: 1322.60}
-  - {text: "It was outside the university system.", start: 1322.92, end: 1324.72}
-  - {text: "The university system was mainly classics, you went into the law or you went into the church and the great practical scientific development of our country came from dissenters or people outside the universities and these clubs, these coffee houses were part of that.", start: 1324.84, end: 1341.68}
-  - {text: "Yeah, so coffee houses offered an alternative place for meeting, for sociability, and it was particularly appropriate for businessmen because unlike a tavern, you didn't become", start: 1342.22, end: 1353.96}
-  - {text: "intoxicated by being there for a long time.", start: 1353.96, end: 1356.38}
-  - {text: "Which is not to say that taverns didn't continue to have an important social role, but during the daytime, for example, you might find more people", start: 1356.78, end: 1365.22}
-  - {text: "moving from the Royal Exchange to a coffee house than to a tavern.", start: 1365.22, end: 1371.08}
-  - {text: "And because of that, I mean, around a place like the Royal Exchange, the centre of trade in London, there were numerous coffee houses, one on every corner kind of idea.", start: 1372.18, end: 1385.32}
-  - {text: "And some of them began to attract particular kinds of businessmen.", start: 1385.84, end: 1390.00}
-  - {text: "Sometimes they were even named after the kind of business that they wanted to attract.", start: 1390.16, end: 1393.48}
-  - {text: "So the Virginia coffee house, for example, traded with merchants who traded with Virginia might assemble there or the Baltic coffee house for Eastland company merchants who traded with Russia and the Baltic.", start: 1393.48, end: 1404.34}
-  - {text: "And then other ones, like Johnson and Garroway's, seemed to attract stockbrokers and stock -jobbers and one, Edward Lloyd, who set up a coffee house in the 1690s, specialised in marine insurance.", start: 1405.22, end: 1419.58}
-  - {text: "And once you start getting a group of businessmen coming together, there's a kind of a group advantage.", start: 1419.58, end: 1427.54}
-  - {text: "So they are gathering information from each other.", start: 1428.04, end: 1431.14}
-  - {text: "They're sort of crowdsourcing through gossip and information, stuff which actually has commercial value.", start: 1431.34, end: 1437.86}
-  - {text: "So Lloyd started printing a list of shipping movements, for example, which becomes Lloyd's list, which still exists today.", start: 1438.48, end: 1447.28}
-  - {text: "And if you got access to Lloyd's list first thing in the morning and it was read out, Lloyd's in the morning, you had a couple", start: 1447.28, end: 1456.20}
-  - {text: "of hours fresh information before the information was released to the rest of the world.", start: 1456.20, end: 1460.72}
-  - {text: "So coming back to the coffee house time after time gave you a commercial advantage.", start: 1460.94, end: 1464.92}
-  - {text: "So quite quickly, going to the right coffee house for that kind of business meant that you had a commercial advantage.", start: 1465.28, end: 1471.78}
-  - {text: "And then by the end of the 18th century, some of these places are also realising that that information is valuable and that by excluding just anyone who walks in off the street,", start: 1472.22, end: 1481.42}
-  - {text: "they could make the information even more valuable.", start: 1481.68, end: 1484.76}
-  - {text: "So the Stockbrokers who met at Jonathan's Coffee House reformed themselves into a new Jonathan's which becomes known as the Stock Exchange in the 1760s and Lloyd's becomes closed to daytrippers,", start: 1485.04, end: 1502.56}
-  - {text: "as it were, in the 1770s because they realised that only by subscription and allowing only the members into the coffee room they can then make full use of the commercial information that they're gathering.", start: 1502.62, end: 1516.18}
-  - {text: "Jude, if you were keen to stress the variety and number of coffee houses, and we've had one or two there, was there a general sense in", start: 1516.78, end: 1523.50}
-  - {text: "which the drinking of coffee in this coffee house changed what was being said and changed the game in London and elsewhere?", start: 1523.50, end: 1530.80}
-  - {text: "Yes, I think it was.", start: 1531.38, end: 1532.52}
-  - {text: "Coffee houses did develop in the major ports and towns around Britain, Norwich, Bristol, York and so forth.", start: 1532.88, end: 1539.42}
-  - {text: "I think this idea that reading and writing went on in coffee houses is important, that people went there in order to read things and they also started writing things in and about the coffee houses.", start: 1540.48, end: 1551.56}
-  - {text: "Jonathan's talked about some of the handbills.", start: 1552.10, end: 1553.96}
-  - {text: "So some of the stuff that was written about the coffee houses in the early days was satire on it or promotion of the coffee house.", start: 1554.20, end: 1561.36}
-  - {text: "There's a famous pamphlet in which the women were invading against the men for attending coffee houses and becoming feminised.", start: 1561.56, end: 1569.54}
-  - {text: "They gossiped like women and then when they came home they're like shot and herring and no good for anything.", start: 1569.64, end: 1574.48}
-  - {text: "They're impotent. They're impotent, yes.", start: 1574.72, end: 1576.30}
-  - {text: "Coffee houses made them impotent.", start: 1576.30, end: 1577.34}
-  - {text: "Coffee houses made men impotent.", start: 1577.36, end: 1579.04}
-  - {text: "But they also sharpened men's wits.", start: 1579.34, end: 1581.78}
-  - {text: "So the coffee houses associated with particular wits like the great dramatist and poet John Dryden held court in Will's Coffee House in Covent Garden and then Richard Steele", start: 1582.16, end: 1593.68}
-  - {text: "and Joseph Addison who kind of invented a genre which puts the coffee house on paper.", start: 1593.68, end: 1600.44}
-  - {text: "They invented a thing called periodical literature.", start: 1600.86, end: 1603.30}
-  - {text: "So the thrice weekly or regular, not quite newspaper, but journal which has an essay about an important issue or raises the standard of debate that it makes conversation better informed, more civil.", start: 1603.98, end: 1621.16}
-  - {text: "We're talking about politeness.", start: 1621.40, end: 1622.46}
-  - {text: "And we're talking about the spectator.", start: 1623.00, end: 1624.28}
-  - {text: "We're talking about the tatler and the spectator, both of which in their first issues of the Tatler in 1709 and the spectator in 1711.", start: 1624.44, end: 1632.18}
-  - {text: "The very first issues of them made the link between the coffee house and the periodical explicit that the personae of the Tatler and the spectator were gathering news from the coffee houses.", start: 1632.94, end: 1645.62}
-  - {text: "And this was the buzz.", start: 1646.30, end: 1648.46}
-  - {text: "We're sticking to London at the moment.", start: 1648.62, end: 1649.76}
-  - {text: "There's lots more to say about other countries.", start: 1649.86, end: 1651.12}
-  - {text: "But to stay here, this was the news of the town.", start: 1651.30, end: 1654.18}
-  - {text: "This is where you got your news.", start: 1654.68, end: 1655.84}
-  - {text: "This is where things developed in a way they had not developed before.", start: 1656.00, end: 1660.26}
-  - {text: "They really hadn't developed in this way before because political news was largely concentrated and distributed in a kind of need -to -know basis.", start: 1660.66, end: 1668.64}
-  - {text: "So it was people...", start: 1669.56, end: 1670.54}
-  - {text: "And one of the reasons why Charles II wanted to shut down the coffee houses is because people who weren't cautious and politicians were discussing politics.", start: 1670.54, end: 1678.14}
-  - {text: "How dare they enter into political debate and think that they could have something to say about the future of the country?", start: 1678.30, end: 1684.22}
-  - {text: "Jonathan Morris, what's happening with the production of coffee and how is it produced and how much labour is involved and what do you have to say about that?", start: 1685.28, end: 1695.36}
-  - {text: "Right. Well, I think what we need to think about is that at this point, as coffee spreads into more general use in Europe, so virtually all of those imperial countries start creating colonies", start: 1696.00, end: 1708.50}
-  - {text: "or start planting into their colonies coffee and creating plantations to cultivate it.", start: 1708.50, end: 1713.82}
-  - {text: "Probably the largest coffee suppliers are the French.", start: 1714.54, end: 1719.92}
-  - {text: "The French take coffee to the Caribbean.", start: 1720.24, end: 1722.64}
-  - {text: "They take it to Martinique, but most of all they plant in what is then called San Domingue, what we now refer to as Haiti.", start: 1723.24, end: 1730.74}
-  - {text: "By the 1760s, 1770s, that has well over half of the world's coffee is being produced there.", start: 1731.42, end: 1738.30}
-  - {text: "All of that production is carried out using slave production.", start: 1739.10, end: 1743.40}
-  - {text: "Is that okay? Or is there a ripple beginning to turn to a flood that that's not okay?", start: 1743.78, end: 1747.74}
-  - {text: "So what happens particularly in San Domingue is that with the outbreak, as it were, the development of Enlightenment ideas and the outbreak of the French Revolution in Paris itself,", start: 1748.74, end: 1759.74}
-  - {text: "that those ideas also penetrate into San Domingue.", start: 1760.18, end: 1762.74}
-  - {text: "And they begin to agitate for their rights.", start: 1763.24, end: 1766.44}
-  - {text: "This ultimately coincides in the creation of what becomes the Haitian Revolution in which both as it were Jean de Colleur pushing for the emancipation of slaves and the slaves themselves become involved.", start: 1766.64, end: 1780.68}
-  - {text: "That ultimately leads to, as we know, the creation of the First Black Republic in Haiti, which unfortunately also leads to pretty much the destruction of the coffee system in Haiti.", start: 1780.68, end: 1792.84}
-  - {text: "So about a thousand plantations are destroyed.", start: 1793.02, end: 1795.38}
-  - {text: "Interesting, quite a few of the leaders of the revolution, not least Toussaint Louverture himself, were in some way coffee producers.", start: 1796.20, end: 1805.42}
-  - {text: "So we have this kind of very confused situation, but the end of it, what we end up with is the destruction of first the coffee industry in Haiti", start: 1806.06, end: 1814.36}
-  - {text: "and then once the Haitian Republic is established its inability to re -enter into the trade because of the refusal of many of the rest of", start: 1814.36, end: 1822.82}
-  - {text: "the world to do business with the Black Republic.", start: 1822.82, end: 1824.88}
-  - {text: "Mark Minnellis, what criticisms were of the new coffee culture, both the slavery side and the idea of these rampaging associations in London, that sort of thing?", start: 1825.28, end: 1834.74}
-  - {text: "So coffee had always had its detractors from when it first arrived, this strange black, hot, bitter drink.", start: 1835.06, end: 1842.20}
-  - {text: "So it was an obvious sort of subject for satirical attacks and criticism.", start: 1842.86, end: 1847.02}
-  - {text: "It had critics of its physiological effects as well that we've been hearing about.", start: 1847.64, end: 1852.46}
-  - {text: "I mean medically, people accused it of being both an intoxicant and an aphrodisiac, but also causing impotence and obstructing the bowels and things like that.", start: 1852.62, end: 1862.96}
-  - {text: "And then people also accused it of wasting people's time hanging around in coffee houses talking to each other, keeping talking because that's the effect that coffee has long into the night when people should have been working.", start: 1863.10, end: 1876.14}
-  - {text: "So apprentices and law students are particularly accused of spending far too much time in the coffee house.", start: 1876.42, end: 1881.40}
-  - {text: "People also accused it of being an exotic luxury, wasting the nation's hard currency for a product which has no nutritional value.", start: 1882.10, end: 1893.98}
-  - {text: "And so there's sort of connection between physiological fear of the effects that coffee was having on British masculinity as it were on British men and the social effects", start: 1896.33, end: 1913.24}
-  - {text: "that coffee having becomes a sort of vector for hostility to coffee and to coffee houses.", start: 1913.24, end: 1917.84}
-  - {text: "Judith, Judith Hawley, coffee drinking, coffee trade declined in the 90th century, how was that?", start: 1918.60, end: 1925.56}
-  - {text: "A number of reasons, I think cultural, commercial, geographical changes happened over the course of about 50 years.", start: 1926.00, end: 1934.04}
-  - {text: "In the middle of the 18th century the royal family took to tea drinking and coffee was no longer quite such the buzzy drink.", start: 1934.46, end: 1942.70}
-  - {text: "Tea became more refined.", start: 1943.24, end: 1944.80}
-  - {text: "Tea was also something that you could drink at home so it could be more widespread.", start: 1945.18, end: 1948.72}
-  - {text: "Coffee was something you drank in a coffee house, all men.", start: 1948.72, end: 1951.82}
-  - {text: "You could drink at home, the lady at the house could preside over the tea table.", start: 1952.16, end: 1955.84}
-  - {text: "Also because of the Dutch East India Company doing so well with coffee trade, the British East India Company I think put more of its effort into tea drinking.", start: 1956.68, end: 1967.20}
-  - {text: "So there's a big commercial pressure to keep producing tea and making tea more saleable.", start: 1967.42, end: 1973.12}
-  - {text: "And Markman's also described how the coffee houses became kind of clubs and closed shops.", start: 1973.78, end: 1979.10}
-  - {text: "Some of them commercially shut themselves off to new members.", start: 1979.88, end: 1983.34}
-  - {text: "Some of the more fashionable ones around St James's like Whites became members -only clubs.", start: 1983.86, end: 1989.48}
-  - {text: "They became elite institution and became associated with gambling.", start: 1989.58, end: 1993.70}
-  - {text: "Also when city merchants started to move out of the city of London and didn't live there anymore these premises couldn't really keep going because if", start: 1994.92, end: 2004.12}
-  - {text: "all the merchants were living above the shop they could go to the coffee house several times a day and peeps describes going to a coffee house three or four times a day.", start: 2004.12, end: 2011.16}
-  - {text: "But once you're no longer living in the city it became more of a working -class drink in the 19th century.", start: 2011.52, end: 2016.72}
-  - {text: "So there were coffee shacks and carts like the sort of street carts that you get still in London you get all over New York that", start: 2017.30, end: 2023.04}
-  - {text: "is a cheap quick drink to perk you up.", start: 2023.04, end: 2025.18}
-  - {text: "And the temperance movement sponsored coffee taverns to try to wean working men off going to the pub for lunch.", start: 2025.90, end: 2032.90}
-  - {text: "So it moved it declined seriously and has never fully recovered even in the current coffee boom.", start: 2033.68, end: 2039.98}
-  - {text: "Jonathan Morris how did coffee become so very popular in America?", start: 2041.32, end: 2046.96}
-  - {text: "Well America is really the first mass market for coffee and what we see is obviously a gradual increase over the 19th century but we see a big growth immediately after the Civil War", start: 2047.86, end: 2058.38}
-  - {text: "and that's probably because in terms of the armies of the Civil War the Confederate army consumed a large amount of coffee coffee obviously has psychoactive properties", start: 2058.38, end: 2068.04}
-  - {text: "which we've discussed that was seen as a good thing by the generals to keep their soldiers alert their soldiers became very keen on coffee and were drinking coffee", start: 2068.04, end: 2075.72}
-  - {text: "as they put it between meals with meals after meals on every route march we have to have coffee before we start and so forth.", start: 2075.72, end: 2082.46}
-  - {text: "So the coffee ration that was actually given to each soldier probably would have supported about making 10 cups of coffee a day.", start: 2082.60, end: 2089.48}
-  - {text: "Obviously once those people are demobilized that's quite a latent demand for coffee and that they're also then demobilized into the society at the time of", start: 2090.20, end: 2099.78}
-  - {text: "the Great Expansion of moving out westwards moving out on the ranches the cowboys etc and that creates a further demand for coffee to support that and we see that being then addressed through technological discoveries.", start: 2099.78, end: 2116.16}
-  - {text: "Most of all through the creation of an industrial coffee roasting plant and industrial coffee roasting as a business.", start: 2116.36, end: 2123.26}
-  - {text: "So by 1873 we have the first branded coffee that's called Ariosa very much marketed at people making that restored move and marketed by a company called Arbuckles in Philadelphia", start: 2124.00, end: 2136.48}
-  - {text: "and from there that we see by 1913 that basically about 85 % of American consumption is of branded coffee so there has been the creation of this market for an industrial commodity.", start: 2136.48, end: 2152.00}
-  - {text: "Thank you. Markman Ellis let's turn to Brazil which at one stage was the biggest producer is it still anyway the biggest producer of coffee in the world 70 % I think of the world's coffee produced in Brazil", start: 2152.82, end: 2164.20}
-  - {text: "80 % of the 70 % went to America can you tell us how that happened?", start: 2164.78, end: 2168.54}
-  - {text: "Yeah so the demand which Jonathan has just been describing that grows in America in the 19th century had to come from somewhere and it wasn't America", start: 2169.20, end: 2175.86}
-  - {text: "and Brazil grows in importance in the coffee trade.", start: 2176.68, end: 2181.18}
-  - {text: "So coffee had been first been taken to Brazil in 1727 in the beginning of the 18th century but it's not really till the beginning of the 19th century that the plantations really take off.", start: 2181.50, end: 2191.22}
-  - {text: "In Brazil they're particularly on the Atlantic seaboard around Rio de Janeiro and Sao Paulo they're they expand in size coffee plantations in Brazil are massive compared to other places", start: 2191.64, end: 2205.88}
-  - {text: "the labor that's used on them is slave labor far later than anywhere else from inside Brazil or?", start: 2206.86, end: 2214.48}
-  - {text: "Again from Africa and imported from Africa and the slave trade wasn't abolished in Brazil until 1850 and the slavery itself wasn't abolished until 1888 which is a long time after anywhere else", start: 2214.68, end: 2227.98}
-  - {text: "so that these are big industrialised slave driven coffee plantations in a fertile country using forms of quite destructive agriculture which used which you know deforested it has said deforested the Atlantic seaboard of Brazil and produced large quantities of coffee relatively cheaply", start: 2228.54, end: 2253.42}
-  - {text: "so the demand in America is growing and in Europe and Brazil was able to supply cheap but also relatively high quality coffee in huge quantity so that by the from the period from", start: 2254.42, end: 2265.80}
-  - {text: "1870 through to 1950 Brazil supplied more than 50 % some years up to 70 % of the world's global supply of coffee and it's still by far the largest producer I think about you know somewhere between a third and a half of the global production", start: 2266.60, end: 2281.74}
-  - {text: "is Brazil given the slaves have gone how does it produce it now?", start: 2282.44, end: 2286.46}
-  - {text: "so after slavery was abolished and the people who had previously been slaves were unwilling to work on the plantations as you can imagine they tried indentured labour especially from southern Europe and from Japan which accounts for the large,", start: 2287.26, end: 2302.56}
-  - {text: "partly accounts for the large populations of Japanese and Italian immigrants in Brazil and they mechanized more of the production so that it didn't require as much labour", start: 2302.86, end: 2315.96}
-  - {text: "when slave labour is not available then the next step is steam driven how big was this trade compared to other trades that were going on cotton and all the rest of it?", start: 2315.96, end: 2326.64}
-  - {text: "was this a big deal?", start: 2326.64, end: 2327.88}
-  - {text: "well in terms of Brazil it's the biggest deal without a doubt so for Brazil that's the number one agricultural commodity at that time so the Brazilian economy is based on that right up until really the middle of the 20th century", start: 2328.44, end: 2341.04}
-  - {text: "Judith do we know that the taste of coffee, the making of coffee has changed has it changed, how radical has it changed are we drinking the same stuff they don't?", start: 2341.90, end: 2352.38}
-  - {text: "I think we're drinking very different stuff Mark when actually has a very good phrase for this I think because it's the ugo of sir reverence it has the goo the taste, the ugo of sir reverence which means excrement", start: 2352.64, end: 2364.60}
-  - {text: "the introduction of milk the gradual control of the roasting process so you could roast coffee beans to at different temperatures in a more stable way the removal of impurities", start: 2365.66, end: 2382.16}
-  - {text: "that all improved coffee but at the same time some much worse coffee was coming on the market so in the late 19th century there was a terrible disease of the coffee plant", start: 2382.16, end: 2393.36}
-  - {text: "that wiped out over the course of about 30 years most of the coffee plantations in the West Indies the Dutch managed to source a different type of coffee called Robusta in the Congo", start: 2393.36, end: 2405.90}
-  - {text: "and Robusta is the coffee which now is produced a lot of it is produced in Brazil but also in Vietnam and it's a cheaper, nastier burnt rubber sort of taste", start: 2405.90, end: 2418.32}
-  - {text: "so therefore we're talking about addiction if people are going to keep swallowing this is that right?", start: 2418.32, end: 2422.74}
-  - {text: "so the caffeine theory of coffee's victory over our taste buds would suggest that it is the addictiveness which keeps us drinking but I think that coffee has a complicated array of effects", start: 2423.30, end: 2436.60}
-  - {text: "and the idea that it's a sort of social drug a thinking drug is also really important in the way we approach coffee do you have evidence for that?", start: 2436.60, end: 2446.14}
-  - {text: "that's a thinking drug only my own experience you've got your own experience that's useful, what does it do to you?", start: 2449.06, end: 2457.30}
-  - {text: "the morning doesn't work until I've had my coffee same for Voltaire, same for Balzac Voltaire wrote the Enlightenment on 40 cups of coffee a day Balzac kind of invented France in a way, he invented Paris in his amazing novels by drinking coffee all night", start: 2457.66, end: 2474.64}
-  - {text: "well that's a bit of good enough for Voltaire, what do you say?", start: 2475.85, end: 2478.31}
-  - {text: "good enough for Balzac?", start: 2478.45, end: 2479.83}
-  - {text: "it's good enough for Balzac, that was probably well 50 cups of coffee a day strikes me as a little bit excessive but I would say coffee it's addictive", start: 2480.35, end: 2489.13}
-  - {text: "but that addiction is quite a mild addiction and in fact coffee is very much like alcohol really we process we each process our coffee in different ways", start: 2489.13, end: 2499.09}
-  - {text: "as a half -life in our body we can probably take a certain amount of coffee without becoming addicted to craving the next cup of coffee", start: 2499.09, end: 2506.33}
-  - {text: "to go around the table how in your view has coffee changed society?", start: 2506.33, end: 2511.55}
-  - {text: "it's a small question to ask you starting with you well I think coffee I think places puts people in a place where they can be more sociable be together more often", start: 2511.81, end: 2526.69}
-  - {text: "in a way which is reflective and philosophical and maybe sociable and discursive so it adds to the way in which we suffer each other when we live closely together in cities thank you", start: 2527.45, end: 2540.81}
-  - {text: "that was Mark Amalis I didn't introduce him at the beginning of my question now Judith I think if we look at the way coffee consumption is going today", start: 2540.81, end: 2548.47}
-  - {text: "it seems to me to set out two quite radical alternatives for the world one is the world of corporate coffee the coffee chains existing on", start: 2548.91, end: 2558.11}
-  - {text: "a low wage economy so you have that kind of mass coffee market on the one hand on the other hand you have these micro lotter states fair trade coffee the sort of hipster coffee", start: 2558.72, end: 2571.83}
-  - {text: "which is as varied and as interesting as fine wines and it's made in an artisanal way and designed to be consumed by a kind of small self -selecting perhaps", start: 2571.83, end: 2586.57}
-  - {text: "but it's a very different model of how to live and Jonathan I'm going to start by disagreeing a little bit because the corporate chains that you're referring to actually created", start: 2587.45, end: 2598.29}
-  - {text: "that market for the specialty coffee and in fact I think the big division we have to think about is really the division between coffee being drunk", start: 2598.29, end: 2605.89}
-  - {text: "as coffee in the coffee shop and the kind of mass coffee that we have as coffee products most of which is drunk in the home or used in other ways in the home and that actually reflects back into the coffee market", start: 2605.89, end: 2617.47}
-  - {text: "because if I was going to make a difference it would be between the kind of mechanised large scale farming that Markman's been talking about in Brazil", start: 2618.07, end: 2625.87}
-  - {text: "and the vast majority of coffee in the world which is grown by small holders across Africa and Asia where they have very small amounts of land and are growing as a subsistence crop", start: 2625.87, end: 2635.67}
-  - {text: "and the problem that we have and if you like the problem coming out of history is that because labour has always been historically very lowly compensated in the coffee industry the price", start: 2636.15, end: 2647.87}
-  - {text: "that goes back and gets back to those small holders is very very low and consequently very frequently does not actually reflect the labour that they put in to the point", start: 2647.87, end: 2659.79}
-  - {text: "that they may actually if this is priced out correctly be losing money by growing coffee for us to consume.", start: 2659.79, end: 2666.57}
-  - {text: "Well that's a rather bleak ending but none the worse for that, thank you very much thank you very much Jonathan Morris, Markman Ellis and Judith Hawley.", start: 2667.55, end: 2676.03}
-  - {text: "Next week stop all the clocks, cut off the telephone as we'll be discussing WH Orden and his poetry from the dark days of the 1930s thank you very much for listening.", start: 2676.11, end: 2685.91}
-  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Melvin and his guests.", start: 2686.75, end: 2693.11}
-  - {text: "I came across two very interesting facts about coffee recently when Jonathan was talking about the importance of coffee to American soldiers I came across a fact", start: 2693.71, end: 2706.63}
-  - {text: "which sort of tallies with that that as the Swiss government stockpiles essential food stocks in case of nuclear wars and I presume and rather hope", start: 2706.63, end: 2716.51}
-  - {text: "that other governments do too and they have a huge stockpile of tons and tons of coffee and they thought this isn't really an essential and it's taking out room that could be taken up with lithium ion batteries or whatever they thought was more essential", start: 2716.51, end: 2727.65}
-  - {text: "sardines or soya or whatever but the Swiss people rose up and said no we must coffee is an essential, we've got to keep it the other thing I came across recently which", start: 2728.43, end: 2739.81}
-  - {text: "surprised me a lot and somehow brings together the two ends of our history the kind of the Arabian oriental history and the modern European history and that is that in Algeria", start: 2740.33, end: 2753.75}
-  - {text: "in the 19th and 20th centuries when the French colonised Algeria there was a thriving Algerian coffee culture which is very like the oriental culture men drinking in the afternoon chatting along tonight drinking", start: 2754.53, end: 2766.79}
-  - {text: "that kind of coffee the French brought coffee with them as a colonising force and they couldn't really understand they rather look down on this local coffee culture they thought", start: 2766.79, end: 2777.45}
-  - {text: "that these people were as Markman was talking about the gossip and the idleness they're wasting their time sitting around gossiping whereas the French were drinking", start: 2777.45, end: 2786.15}
-  - {text: "their kind of coffee at the right time to the day first thing in the morning and after dinner were able to be fit, alert, intelligent", start: 2786.15, end: 2793.93}
-  - {text: "and efficient whereas these natives were drinking coffee in a way which rendered them luxurious and idle an interesting reflection on that is that actually coffee growing", start: 2793.93, end: 2804.65}
-  - {text: "and coffee growing countries which is generally as we said drink very little coffee and part of the reason for that is that actually their own governments", start: 2804.65, end: 2812.03}
-  - {text: "or their own rulers have prevented them from so doing not least for example say Kenya had a rule that you couldn't roast coffee in the country and that was in place up until the 2000s", start: 2812.03, end: 2821.95}
-  - {text: "what we do see is actually that where coffee is consumed in those economies it is standard instant style coffee so we have the irony that these coffee growing countries are drinking coffee in ways", start: 2822.65, end: 2836.49}
-  - {text: "that are very much the ways that we have developed to actually sort of compress and frankly reduce the quality of the coffee and the time", start: 2836.49, end: 2847.53}
-  - {text: "that goes into it given that it was early thought that coffee kept the workers awake to do the real work of that time which was prayer", start: 2847.53, end: 2855.51}
-  - {text: "why didn't they think coffee kept workers awake to do the essential work which is picking coffee beans that's an interesting question I think that the answer would probably be A", start: 2856.27, end: 2867.48}
-  - {text: "because of the time that it takes to prepare from scratch because you'd have to roast your own beans on the site to start doing that", start: 2867.48, end: 2873.78}
-  - {text: "and also because tea is the usual drink there and tea obviously your leaves are right there so you can take the tea leaves and create an infusion straight away to do", start: 2874.90, end: 2885.22}
-  - {text: "that coffee is very much an urban drink and we're beginning to see the growth of coffee in as it were non -traditional markets precisely as they urbanize so", start: 2885.22, end: 2895.54}
-  - {text: "including markets like say China Asia including now markets like Africa South and a little bit like South America so as we see increased urbanization we actually see people leaving the coffee fields going into the cities and taking up the coffee habit what about Italy,", start: 2896.58, end: 2913.62}
-  - {text: "we missed out Italy I'm going to claim it because that really is my thing I'm going to claim Italy what would you like to know about it everything you have on mind", start: 2913.78, end: 2923.02}
-  - {text: "but briefly succinctly fine okay well Italy has obviously is very proud of its coffee culture really that coffee culture although if we said Italy is the entry point for coffee into Europe it really becomes developed with the distinctiveness of espresso", start: 2924.08, end: 2940.34}
-  - {text: "espresso is a way of basically preparing coffee and the essence of it is using pressure to speed up the time of extraction beginning of the", start: 2941.32, end: 2951.76}
-  - {text: "century you see these first wonderful big huge vertical coffee machines with big steam boilers making things that they call espresso because they're making coffee expressly", start: 2951.76, end: 2961.76}
-  - {text: "for each individual customer they're making it by expressing using a certain amount of steam pressure water through the coffee and they're making it much quicker though for", start: 2961.76, end: 2972.46}
-  - {text: "that period it's about 40 seconds when we start thinking about espresso is really with the revolution that comes immediately after the Second World War with a Keeley Gadger", start: 2972.46, end: 2983.74}
-  - {text: "who produced the lever machine which actually is kind of a spring coiled machine and consequently using that piston is able to push water through at much higher pressure it's about sort of 9 to 12 bars once", start: 2983.74, end: 2997.74}
-  - {text: "that standardize with the application of electricity and so forth and Italy at that time again is urbanizing very rapidly and also venerating electricity we have the development of the Italian coffee bar fast coffee short shots delivered quickly", start: 2997.74, end: 3012.46}
-  - {text: "and we also have the Italian coffee culture standing up drinking the coffee going in, going out very quickly part of that is because the Italians had a law", start: 3012.46, end: 3022.52}
-  - {text: "that enabled them to put a maximum price on coffee but it was a cup of coffee served without service if that makes sense so it had to be a cup of coffee just passed across the bar and as a result", start: 3022.52, end: 3034.10}
-  - {text: "that coffee price has kept very low everyone takes their coffee standing up one of the reasons why only now do we have in the last couple of years Starbucks opening in Italy is", start: 3034.66, end: 3046.26}
-  - {text: "because there was no market for that because basically the prices would have been far too high to generate any real demand amongst the Italian people", start: 3046.26, end: 3054.36}
-  - {text: "and this is why this is the Italian seminar we're going to this is the Italian seminar yes, Mormon has survived I think Britain had become a tea drinking nation by the 1820s", start: 3055.04, end: 3066.36}
-  - {text: "and most of the the British Empire was tea drinking through the 19th and 20th century and it's through post war the Italian coffee making method but also the idea of the Italian cafe that coffee recolonizes", start: 3066.36, end: 3081.50}
-  - {text: "Britain and Australia and New Zealand for example so now we have in Britain many many more coffee shops than we do tea shops and people go out for coffee they might drink tea but they go out for coffee", start: 3082.46, end: 3099.76}
-  - {text: "and so the coffee has come back in Britain on the back of the Italian invention of reinventing the sociable space of drinking coffee but there's another aspect to the Italian coffee culture", start: 3100.78, end: 3112.98}
-  - {text: "which I think of as a kind of fascistic which has fascistic elements to it and that's the introduction of the mocha stovetop coffee machine which became very popular in the 1930s was favoured by fascism", start: 3112.98, end: 3127.66}
-  - {text: "and partly because the machines these devices which you screwed the two halves together you put it on your stove the made of aluminium which was this modernist efficient", start: 3127.66, end: 3137.90}
-  - {text: "metal but also it was shrunk in the home you're bringing modernity into the domestic space and it's a wonderful combination some of the biggest machines were modelled on steam engines this little stovetop machine takes this inspiration from a washing machine so it's kind of domestic", start: 3138.92, end: 3156.36}
-  - {text: "and it's machine made it's external and it's internal all at the same time it's definitely true that the Bialetti is created in the 30s and the reason", start: 3157.08, end: 3166.68}
-  - {text: "as you say the use of aluminium is very important there is a sort of austerity metal really but the same austerity means that actually the", start: 3166.68, end: 3174.12}
-  - {text: "fascists don't really approve of coffee coffee imports kind of decline during the whole of fascism because they regard it exactly as what Markman was saying it's a drink", start: 3174.12, end: 3184.70}
-  - {text: "that is a luxury because it's imported so as early as 1926 espresso machines the installation of espresso machines is temporarily outlawed in fascist Italy in order to stop people drinking luxurious coffee", start: 3184.70, end: 3198.18}
-  - {text: "so the real takeoff of that machine it's really in the 50s the Bialetti that's when it kind of spreads across the whole household I think the other just to go back to Markman's point about the spread of Italian style coffee houses", start: 3198.18, end: 3212.32}
-  - {text: "is also that of course those are all based on those milkified drinks so that we have that kind of again a weird thing whereby Italy drinks 80 % black coffee and we drink 90 % white coffee but it's Italian style coffee", start: 3213.06, end: 3229.66}
-  - {text: "but there are all those connotations again of class and to some extent gender so the class one the whole notion of the latte liberal is a huge thing in the spread of the chain", start: 3230.48, end: 3241.92}
-  - {text: "if you look at the spread of Starbucks and mapped it against states that are red states and states that are blue states everything will be blue states for the first sort of 20 years", start: 3241.92, end: 3251.84}
-  - {text: "and it's only much later that it really begins to penetrate into those American heartland type states and the same discourse you would still find today in the British press if you want a quick a quick designation for guardian reading liberal it will be latte sipping", start: 3251.84, end: 3269.02}
-  - {text: "sat over there cappuccino we know what's actually implied when we hear that can you do all these photos like that I couldn't have a go for that", start: 3269.92, end: 3277.64}
-  - {text: "but I think it's something rather infantilizing about this spread of latte more than any other drink the quantity of milk in that cup the way in which people are drinking these", start: 3278.46, end: 3289.46}
-  - {text: "disposable cups these sort of sucky cups they look like baby cups and they're walking slowly down the streets sucking on their milky drinks it's very different from standing at the bar", start: 3290.72, end: 3302.04}
-  - {text: "and having your shot of manly espresso and then rushing off to do some important business and the milk is largely unexamined only very recently have people started worrying about whether", start: 3302.04, end: 3312.22}
-  - {text: "or not the milk is organic and where it's sourced from with soy milk so there's huge quantities of milk which are being consumed and there's usually in coffee", start: 3312.22, end: 3323.06}
-  - {text: "houses very little talk of the milk it's all about the romance of coffee even though the coffee is a vanishingly small percentage of the actual drink where did the cognac go in your talk I think for a while", start: 3323.56, end: 3337.04}
-  - {text: "when I was 17 and a half worked in Paris with the Abbe Pierre and we went round in the morning collecting stuff from back of big houses", start: 3337.78, end: 3345.86}
-  - {text: "and such on these great lorries and the guys stopped and you nipped into a bar and they had coffee and cognac it was a very startling way for a northern lad to start the day", start: 3345.86, end: 3355.96}
-  - {text: "it was probably that the French cafe cultures are rather different partly because of the licensing laws so when cafes were first opened in Paris, I think I'm right about this the Vintners", start: 3358.58, end: 3370.02}
-  - {text: "had a greater dominance in the era and so the coffee was only sold in licensed premises so coffee was always sold alongside alcohol now 18th century British coffee houses sometimes served alcohol but they weren't primarily wine bars restaurants", start: 3370.54, end: 3385.42}
-  - {text: "taverns and inns they were designated coffee shops I mean I think this is the big thing is that the continental café starts from that sort of guild restriction or rather the way that the coffee is assigned to a guild and it's assigned to the", start: 3386.60, end: 3401.16}
-  - {text: "stillers guild and they are given the license to serve distills at table I think that your taste is about to be tested as the producer comes in", start: 3401.94, end: 3411.72}
-  - {text: "just curious do you want tea or is it all coffee coffee coffee I'm going to have to try your coffee yeah BTC coffee it's another", start: 3412.60, end: 3426.60}
-  - {text: "category entirely Zandi happy anniversary what are you talking about have I missed something?", start: 3426.60, end: 3432.92}
-  - {text: "we are over a year into making whatsapp docs you didn't even get me a card is it really over a year?", start: 3433.20, end: 3440.12}
-  - {text: "it is, think of all the episodes we've done how to look after our feet our shoulders, our hips, our teeth we've explored snoring, cholesterol the immune system,", start: 3440.24, end: 3448.18}
-  - {text: "endometriosis all with the help of expert guests I think it's fair to say we have plundered the world of health and well -being equipping ourselves and our listeners with the best information out there on how to look after our minds our bodies,", start: 3448.34, end: 3461.86}
-  - {text: "our souls even and we're not stopping are we Chris?", start: 3462.32, end: 3464.62}
-  - {text: "we're most certainly not son, we have a lot of new topics coming up from tinnitus to acne crying, male fertility we are holding steadfast in our mission to sort facts from fiction,", start: 3464.80, end: 3475.84}
-  - {text: "debunking wellness myths along the way and you can find all of our previous episodes of whatsapp docs in the feed on BBC sounds and don't forget to subscribe on BBC sounds", start: 3476.26, end: 3485.58}
-  - {text: "and turn on the notifications so you don't miss any of these upcoming episodes", start: 3485.58, end: 3489.66}
+  - {text: "BBC Sounds. Music, radio, podcasts.", start: 1.10, end: 4.26, zh: "BBC Sounds，提供音乐、广播和播客。"}
+  - {text: "How did a teetotaler and the military dictator help to create the package holiday?", start: 8.08, end: 12.38, zh: "一个滴酒不沾的人和一位军事独裁者是如何共同促成包价旅游诞生的？（teetotaler 滴酒不沾者；military dictator 军事独裁者；package holiday 包价旅游）"}
+  - {text: "Why do weekends even exist?", start: 12.74, end: 14.48, zh: "周末为什么存在？"}
+  - {text: "And how did we become so obsessed with football?", start: 14.82, end: 17.10, zh: "我们又是如何变得如此痴迷于足球的？（obsessed with 痴迷于）"}
+  - {text: "I'm Alice Lockston. And I'm Ben Henderson.", start: 17.44, end: 19.50, zh: "我是爱丽丝·洛克斯顿，我是本·亨德森。"}
+  - {text: "And in our brand new video podcast, we uncover the whys behind ordinary things in our daily lives.", start: 19.94, end: 25.52, zh: "在我们全新的视频播客中，我们将揭开日常生活中普通事物背后的原因。"}
+  - {text: "Like why has the pub become so important?", start: 25.62, end: 27.62, zh: "比如，为什么酒吧变得如此重要？（pub 酒吧）"}
+  - {text: "That's an excellent question, Ben.", start: 27.90, end: 29.68, zh: "本，这是个绝佳的问题。"}
+  - {text: "Here for the history.", start: 30.02, end: 30.72, zh: "这里是为了讲述历史。"}
+  - {text: "Watch on iPlayer. Listen on BBC Sounds.", start: 31.06, end: 33.40, zh: "在iPlayer观看，在BBC Sounds收听。"}
+  - {text: "Hi, this is me, Shaglenny.", start: 33.40, end: 35.54, zh: "嗨，我是Shaglenny。"}
+  - {text: "Episodes of In Our Time are released weekly wherever you get your podcasts.", start: 36.18, end: 40.34, zh: "《In Our Time》的节目每周都会在你收听播客的平台上更新。"}
+  - {text: "But if you can't wait, head over to BBC Sounds, where you can listen to the latest episodes a month earlier than anywhere else.", start: 41.12, end: 48.96, zh: "但如果你等不及，可以去BBC Sounds，那里比其他任何地方早一个月收听最新节目。（BBC Sounds 英国广播公司的音频流媒体平台）"}
+  - {text: "This is In Our Time from BBC Radio 4, and this is one of more than a thousand episodes you can find in the In Our Time archive.", start: 49.64, end: 58.40, zh: "这是BBC Radio 4的《In Our Time》，这是该节目档案库中一千多集节目中的一集。（BBC Radio 4 英国广播公司第四台）"}
+  - {text: "A reading list for this edition can be found in the episode description wherever you're listening.", start: 58.40, end: 64.16, zh: "本期的阅读列表可以在你收听节目的平台上的节目简介中找到。"}
+  - {text: "I hope you enjoy the programme.", start: 64.72, end: 66.12, zh: "希望你喜欢这期节目。"}
+  - {text: "Hello, and welcome to the latest episode of our In Our Time Summer Classics.", start: 66.78, end: 72.08, zh: "大家好，欢迎收听《In Our Time》夏季经典系列最新一期。（Summer Classics 夏季经典系列）"}
+  - {text: "As the BBC Central Europe correspondent in the late 1980s, I would go to the Breunerhof Café in Vienna's city centre and order myself a Grosse Braune, a sort of large macchiato.", start: 72.70, end: 85.54, zh: "上世纪80年代末，当我担任BBC驻中东欧记者时，我会去维也纳市中心的Breunerhof咖啡馆，点一杯Grosse Braune，一种类似大杯玛奇朵的咖啡。（Breunerhof Café 维也纳著名的历史咖啡馆；Grosse Braune 一种维也纳传统的大杯咖啡）"}
+  - {text: "More often than not, over in the corner sat Thomas Bernhardt, the enfant terrible of post -war Austrian theatre, always at the same table with the same cup of coffee and a newspaper.", start: 85.54, end: 98.30, zh: "大多数时候，托马斯·伯恩哈特都坐在角落里，他是二战后奥地利剧坛的叛逆天才，总是坐在同一张桌子旁，面前放着同样的咖啡和报纸。（Thomas Bernhardt 奥地利著名剧作家；enfant terrible 叛逆天才，指在艺术领域特立独行且极具影响力的人物）"}
+  - {text: "Austrians have been enjoying their coffee thanks to their enemies, the Ottomans, for 500 years.", start: 99.46, end: 105.18, zh: "奥地利人享受咖啡已有500年，这要归功于他们的敌人奥斯曼人。（Ottomans 奥斯曼帝国，历史上统治中东和东南欧的帝国）"}
+  - {text: "The Turks have been enjoying it even longer thanks to the Ethiopians and the Yemenis.", start: 105.90, end: 111.24, zh: "多亏了埃塞俄比亚人和也门人，土耳其人享受咖啡的历史甚至更悠久。（Ethiopians 埃塞俄比亚人；Yemenis 也门人）"}
+  - {text: "And we are all now addicted to the stuff.", start: 111.70, end: 114.06, zh: "如今我们都对这东西上瘾了。（addicted 上瘾的，沉迷的）"}
+  - {text: "We may think of it as just a morning pick -me -up, but coffee changed the intellectual culture in countries around the world as caffeinated customers stayed awake for longer,", start: 114.12, end: 124.96, zh: "我们可能觉得它只是早上的提神饮料，但咖啡改变了世界各地的智识文化，因为摄入咖啡因的顾客能保持更长时间的清醒，（pick-me-up 提神的东西；intellectual culture 智识文化；caffeinated 含咖啡因的）"}
+  - {text: "becoming more animated and spreading ideas which weren't always to the liking of the government of the day.", start: 125.44, end: 131.48, zh: "他们变得更加活跃，传播着那些当时政府并不喜欢的思想。（animated 活跃的，生动的；government of the day 当时的政府）"}
+  - {text: "But coffee also changed the economies of entire continents.", start: 132.46, end: 136.28, zh: "但咖啡也改变了整个大陆的经济。（economies 经济；continents 大陆）"}
+  - {text: "In this episode, Melvin and his guests explore how and why coffee became a fix we can't do without.", start: 137.16, end: 143.48, zh: "在本期节目中，梅尔文和他的嘉宾们将探讨咖啡是如何以及为何成为我们离不开的依赖。（explore 探索，探讨；fix 依赖，瘾）"}
+  - {text: "Oh, and if you're buying, mine's a flat white.", start: 143.48, end: 146.34, zh: "哦，如果你要买咖啡的话，我要一杯澳白。（flat white 澳白，一种咖啡饮品）"}
+  - {text: "Enjoy listening. Hello, in 1652 the first coffee house opened in London, not so much a house as a shed, selling to passers -by.", start: 146.96, end: 155.16, zh: "享受收听。你好，1652年伦敦第一家咖啡馆开业了，与其说是房子，不如说是一个棚屋，向路人售卖。（passers-by 路人；shed 棚屋）"}
+  - {text: "The taste, it's thought, was unspeakable.", start: 155.70, end: 157.84, zh: "据说那味道简直难以形容。（unspeakable 难以言喻的，极差的）"}
+  - {text: "But people liked the effect it had, both from them and all those around them in these new coffee houses.", start: 158.32, end: 163.42, zh: "但人们喜欢它带来的效果，无论是自己还是这些新咖啡馆里周围的人。（effect 效果，影响）"}
+  - {text: "They were more talkative, brighter, awake for longer and sharing news and ideas.", start: 163.90, end: 167.90, zh: "他们变得更健谈、更精神，醒着的时间更长，并且乐于分享新闻和想法。（talkative 健谈的；brighter 更精神，更活跃）"}
+  - {text: "It changed society. And coffee growing spread across the world's colonies, too, to meet European and American demand, changing lives from Java to Brazil, calling for more and more slaves to tend the crop.", start: 168.32, end: 179.48, zh: "这改变了社会。为了迎合欧美市场的需求，咖啡种植也蔓延到了世界各地的殖民地，从爪哇到巴西，无数人的命运因此改变，越来越多的奴隶被驱使去照料这种作物。（colonies 殖民地；Java 爪哇，印度尼西亚岛屿；tend 照料，看护）"}
+  - {text: "We're going to discuss the history of coffee at Jonathan Morris, Professor in Modern History at the University of Hertfordshire, Markman Ellis, Professor of 18th Century Studies at Queen Mary University of London,", start: 180.06, end: 189.80, zh: "我们将讨论咖啡的历史，嘉宾包括赫特福德郡大学现代史教授乔纳森·莫里斯、伦敦玛丽女王大学18世纪研究教授马克曼·埃利斯……（Jonathan Morris 乔纳森·莫里斯；University of Hertfordshire 赫特福德郡大学）"}
+  - {text: "and Judith Hawley, Professor of 18th Century Literature at Royal Holloway University of London.", start: 190.26, end: 195.10, zh: "以及伦敦皇家霍洛威大学18世纪文学教授朱迪思·霍利。（Judith Hawley 朱迪思·霍利；Royal Holloway University of London 伦敦皇家霍洛威大学）"}
+  - {text: "Judith, how did coffee become a drink, according to legend first?", start: 195.64, end: 199.48, zh: "朱迪思，根据传说，咖啡最初是如何成为一种饮品的？（legend 传说；according to 根据）"}
+  - {text: "Well, first of all, it wasn't a drink, but a kind of snack.", start: 200.30, end: 203.46, zh: "首先，它最初并不是饮品，而是一种零食。（snack 零食）"}
+  - {text: "There's a very strange story that emerged in probably the 17th century about how there was a goat herder, who was sometimes described as a goat herder, sometimes as a camel herder in Ethiopia or possibly Egypt,", start: 204.18, end: 218.24, zh: "有一个非常奇怪的故事，可能起源于17世纪，讲述了一位牧羊人——有时被称为山羊牧人，有时被称为骆驼牧人——在埃塞俄比亚或可能是埃及……（goat herder 山羊牧人；camel herder 骆驼牧人；Ethiopia 埃塞俄比亚）"}
+  - {text: "who observed that his goats, once they'd eaten the berries of this particular bush, would become very, very frisky and uncontrollable.", start: 218.24, end: 226.26, zh: "他观察到，他的山羊一旦吃了这种特定灌木的浆果，就会变得非常兴奋且难以控制。（berries 浆果；bush 灌木；frisky 活泼好动的，兴奋的）"}
+  - {text: "And so this herder decided that he would try them, too, and he started to dance around and to frisk.", start: 227.12, end: 233.98, zh: "于是这位牧人决定自己也试试，结果他开始手舞足蹈，变得异常兴奋。（herder 牧人；dance around 手舞足蹈；frisk 嬉戏，兴奋）"}
+  - {text: "And somebody came upon him, somebody who's described sometimes as a monk, sometimes as an iman, and noticed the effect that eating these beans was having on these people.", start: 234.98, end: 244.74, zh: "后来有人发现了这一幕，这个人有时被描述为僧侣，有时被描述为伊玛目，他注意到了吃这些豆子对这些人产生的影响。（monk 僧侣；iman 伊玛目，伊斯兰教宗教领袖；effect 影响，效果）"}
+  - {text: "And the religious man tried them out himself and he found it amazing that they kept him awake and he's able to pray all night.", start: 244.74, end: 252.08, zh: "那位宗教人士亲自尝试后，惊讶地发现它能让人保持清醒，从而能够整夜祈祷。（pray 祈祷；all night 整夜）"}
+  - {text: "So the first time coffee was consumed, it was as the fresh berry or cherry of the bush.", start: 252.46, end: 259.68, zh: "所以咖啡最初被食用时，是以灌木上新鲜浆果或樱桃的形式。（cherry 樱桃，此处指咖啡果实）"}
+  - {text: "And then how did it spread?", start: 260.44, end: 261.86, zh: "那么它是如何传播开来的呢？"}
+  - {text: "Let's take the legend for granted and rest on it, because it's as good an explanation as we're going to get, isn't it?", start: 262.04, end: 267.16, zh: "我们就姑且采信这个传说并以此为基础，毕竟这是我们能找到的最好解释，不是吗？（legend 传说；for granted 视为理所当然）"}
+  - {text: "Yes, so it's possible that religious people, whether Christian but almost certainly Muslim, started to make a kind of infusion of the whole cherry with the red husk as well.", start: 267.16, end: 282.50, zh: "是的，所以有可能宗教人士，无论是基督徒还是几乎可以肯定是穆斯林，开始用整颗樱桃连同红色果皮一起制作一种浸出液。（infusion 浸出液，冲泡物；husk 果皮，外壳）"}
+  - {text: "They didn't start roasting it for some time afterwards, but they would have made it as an infusion.", start: 283.06, end: 287.10, zh: "他们在很长一段时间内都没有开始烘焙，但会将其制成浸出液。（roasting 烘焙；infusion 浸出液）"}
+  - {text: "Well, they also sometimes consumed it as sort of ground into a paste and mixed with fat, a butter or oil, rather like those high protein snacks that people drink nowadays.", start: 287.10, end: 298.00, zh: "他们有时也会将其磨成糊状，与脂肪如黄油或油混合，有点像现在人们喝的那些高蛋白零食。（paste 糊状物；high protein 高蛋白）"}
+  - {text: "And it's sort of partly medicinal, but also is very much associated with prayer, that it allowed you to stay alert during the long nights of prayer.", start: 298.44, end: 307.70, zh: "它在某种程度上具有药用价值，但与祈祷紧密相关，因为它能让你在漫长的夜间祈祷中保持警觉。（medicinal 药用的；alert 警觉，清醒）"}
+  - {text: "And this was particularly important for the Sufis, the very mystic strand of Islam.", start: 308.08, end: 314.32, zh: "这对苏菲派尤为重要，他们是伊斯兰教中极具神秘主义色彩的分支。（Sufis 苏菲派；mystic 神秘的）"}
+  - {text: "And a lot of Sufis were working during the day.", start: 314.32, end: 317.32, zh: "许多苏菲派人士白天都在工作。（Sufis 苏菲派）"}
+  - {text: "They weren't sort of full -time holy men.", start: 317.42, end: 319.80, zh: "他们并不是那种专职的圣徒。（holy men 圣徒，宗教人士）"}
+  - {text: "And then they would pray during the evening, they'd enter their devotions at night and they use this.", start: 320.44, end: 325.96, zh: "然后他们在晚上祈祷，夜间进行礼拜，并使用了咖啡。（devotions 礼拜，祈祷仪式）"}
+  - {text: "So coffee is what made the dervishes whirl.", start: 326.50, end: 328.84, zh: "所以正是咖啡让旋转苦行僧得以旋转。（dervishes 苦行僧，此处指旋转苦行僧；whirl 旋转）"}
+  - {text: "So by what time and with what effect had coffee spread into the Ottoman Empire?", start: 330.36, end: 335.38, zh: "那么咖啡是在什么时间、以何种效果传播到奥斯曼帝国的？（Ottoman Empire 奥斯曼帝国）"}
+  - {text: "It probably spread there.", start: 336.10, end: 337.26, zh: "它很可能在那里传播开来。"}
+  - {text: "It's sort of hard to say.", start: 337.74, end: 338.90, zh: "这很难说清楚。"}
+  - {text: "Recently, some coffee beans were found in the Horn of Africa in what's now the United Arab Emirates.", start: 340.00, end: 346.02, zh: "最近，在非洲之角、也就是现在的阿联酋境内发现了一些咖啡豆。（Horn of Africa 非洲之角；United Arab Emirates 阿联酋）"}
+  - {text: "And they probably came from Yemen, and that might have been as early as the 12th century.", start: 346.42, end: 350.78, zh: "它们可能来自也门，时间可能早至12世纪。（Yemen 也门）"}
+  - {text: "But trade in coffee was conducted across the Red Sea and the Port of Mokka, which is what gives us one of the names for coffee, was a vital trade route.", start: 351.68, end: 362.18, zh: "咖啡贸易横跨红海，而摩卡港——咖啡名称的由来之一——是一条至关重要的贸易路线。（Red Sea 红海；Port of Mokka 摩卡港）"}
+  - {text: "And then it spread to further through into what was known as the Levant, round about, let's say, probably the 16th century or possibly even earlier.", start: 362.18, end: 373.82, zh: "随后它进一步传播到被称为黎凡特地区的其他地方，大约是在16世纪，甚至可能更早。（Levant 黎凡特，地中海东岸地区）"}
+  - {text: "And it just for general trading people heard of it and wanted it.", start: 374.44, end: 377.56, zh: "而且它只是用于一般的贸易，人们听说过它并且想要它。（general trading 一般贸易）"}
+  - {text: "Yes, it's a mixture of merchants.", start: 377.88, end: 379.74, zh: "是的，它是各种商人的混合体。（mixture 混合；merchants 商人）"}
+  - {text: "The ports were very, very important.", start: 380.80, end: 382.54, zh: "港口非常重要，非常重要。（ports 港口）"}
+  - {text: "But also people on the pilgrimage to Mekka.", start: 383.02, end: 385.42, zh: "但还有前往麦加朝圣的人们。（pilgrimage 朝圣；Mekka 麦加）"}
+  - {text: "It was spreading along prayer routes as well as trading routes.", start: 385.72, end: 389.04, zh: "它不仅在贸易路线上，也在朝圣路线上蔓延。（spreading 蔓延；prayer routes 朝圣路线；trading routes 贸易路线）"}
+  - {text: "Can you give us some idea when this trade got a bit of traction?", start: 389.04, end: 392.20, zh: "你能给我们一些概念，这项贸易是什么时候开始起势的吗？（traction 势头，起势）"}
+  - {text: "It seems to develop rather slowly.", start: 392.44, end: 394.32, zh: "它似乎发展得相当缓慢。（develop 发展）"}
+  - {text: "It did. I think it was a niche drink and there were specialised places where it was consumed.", start: 394.78, end: 401.48, zh: "确实如此。我认为它当时是一种小众饮品，有专门的地方供人饮用。（niche 小众的；specialised 专门的）"}
+  - {text: "So it wasn't in every household.", start: 401.90, end: 403.42, zh: "所以它并不是每家每户都有。（household 家庭）"}
+  - {text: "So it wasn't a sort of a mass product.", start: 403.86, end: 405.64, zh: "所以它不是一种大众产品。（mass product 大众产品）"}
+  - {text: "That slowed down the spread of it.", start: 405.92, end: 407.88, zh: "这减缓了它的传播。"}
+  - {text: "But you've talked about the Yemen and moving up.", start: 408.06, end: 410.26, zh: "但你之前提到过也门，以及它向北扩散的过程。（Yemen 也门）"}
+  - {text: "Yeah. About when? Which century?", start: 410.46, end: 412.44, zh: "是的。大概是什么时候？哪个世纪？"}
+  - {text: "Probably the, I think we should say about the 16th century it reached Constantinople.", start: 412.44, end: 418.54, zh: "大概是16世纪，我认为我们应该说它在那时到达了君士坦丁堡。（Constantinople 君士坦丁堡，即今伊斯坦布尔）"}
+  - {text: "And from there, maybe in periods of about 50 years at a time, it moved its way around the Mediterranean and eventually across continental Europe.", start: 419.22, end: 427.94, zh: "然后从那里开始，大约每50年为一个阶段，它逐渐传遍地中海地区，最终跨越整个欧洲大陆。（Mediterranean 地中海）"}
+  - {text: "Did the Ottoman Empire take it as its drink quite soon?", start: 428.46, end: 432.90, zh: "奥斯曼帝国很快就把它当作主要饮品了吗？（Ottoman Empire 奥斯曼帝国）"}
+  - {text: "Or did that again take a bit of time?", start: 433.02, end: 434.52, zh: "还是说这也花了一些时间？"}
+  - {text: "That took a bit of time.", start: 434.82, end: 436.62, zh: "那确实花了一些时间。"}
+  - {text: "But it was very much a part of habits of hospitality in the Ottoman Empire.", start: 436.62, end: 443.08, zh: "但它在奥斯曼帝国中非常深入地融入了待客的习惯。（hospitality 好客，待客之道）"}
+  - {text: "So it's not just a religious drink by then.", start: 443.22, end: 446.04, zh: "所以到那时，它已经不仅仅是一种宗教饮品了。"}
+  - {text: "So coffee houses developed in the Ottoman Empire.", start: 446.18, end: 449.08, zh: "于是，咖啡馆在奥斯曼帝国发展起来。（Ottoman Empire 奥斯曼帝国）"}
+  - {text: "And they were places for men to gather to conduct conversation, to relax.", start: 449.42, end: 455.88, zh: "那里是男士们聚会聊天、放松身心的地方。（gather 聚集，聚会）"}
+  - {text: "It's sort of often a place where you'd go in the afternoon to relax some stresses and strains, but also to meet people.", start: 456.40, end: 462.04, zh: "这通常是一个下午去缓解压力、同时也见见朋友的地方。（stresses and strains 压力与紧张）"}
+  - {text: "So there's quite a ritual of buying coffee, making and serving coffee to people that was part of its spread and consumption.", start: 462.04, end: 469.42, zh: "购买、制作和提供咖啡有一套相当讲究的仪式，这也是咖啡传播和消费的一部分。（ritual 仪式，惯例）"}
+  - {text: "So not just the beverage or the commodity, but the way of consuming and sharing it.", start: 469.78, end: 475.52, zh: "所以不仅是这种饮品或商品本身，还包括消费和分享它的方式。（commodity 商品）"}
+  - {text: "Jonathan Morris, how did coffee start to spread west from the Ottoman Empire?", start: 476.10, end: 480.04, zh: "乔纳森·莫里斯，咖啡是如何从奥斯曼帝国向西传播的？（Jonathan Morris 乔纳森·莫里斯，嘉宾名）"}
+  - {text: "Well, it was often merchants themselves who spread it west.", start: 480.54, end: 483.22, zh: "嗯，往往是商人自己把它传向西方的。（merchants 商人）"}
+  - {text: "They were obviously communicating into the rest of Europe.", start: 483.44, end: 486.78, zh: "他们显然与欧洲其他地区保持着沟通。（communicating 交流，沟通）"}
+  - {text: "The first record that we really have of coffee in Western Europe is in Venice.", start: 486.78, end: 492.90, zh: "我们在西欧拥有的关于咖啡的最早记录是在威尼斯。（Venice 威尼斯，意大利城市）"}
+  - {text: "And we know this because we have the death of an Ottoman merchant in 1575 in Venice.", start: 493.70, end: 499.10, zh: "我们知道这一点，是因为有一位奥斯曼商人于1575年在威尼斯去世。（record 记录，记载）"}
+  - {text: "And as part of the investigation, they made a listing of all of his effects.", start: 499.60, end: 505.08, zh: "作为调查的一部分，他们列出了他所有遗物的清单。（effects 遗物，个人物品）"}
+  - {text: "And this included sort of coffee making paraphernalia.", start: 505.38, end: 507.96, zh: "其中还包括一些制作咖啡的器具。（paraphernalia 器具，装备）"}
+  - {text: "But we know more generally, I suppose, that those who were called Armenians, that's to say the Christians who were living within the Ottoman Empire frequently became emigres into Western Europe.", start: 508.54, end: 519.18, zh: "但更普遍地讲，我们知道那些被称为亚美尼亚人的人，也就是生活在奥斯曼帝国境内的基督徒，经常成为移居西欧的移民。（emigres 移民，移居者）"}
+  - {text: "And we tend to find that those are the people who established the first sort of coffee houses, the first coffee routes into European society.", start: 519.74, end: 526.84, zh: "我们发现，正是这些人建立了第一批咖啡馆，将咖啡引入欧洲社会。（coffee houses 咖啡馆）"}
+  - {text: "How important was it that coffee was non -alcoholic?", start: 527.18, end: 529.72, zh: "咖啡不含酒精这一点有多重要？（non-alcoholic 不含酒精的）"}
+  - {text: "It was very important, although of course even more important back in the Ottoman Empire and Arabia.", start: 530.52, end: 536.44, zh: "这一点非常重要，当然在奥斯曼帝国和阿拉伯地区更为重要。（Ottoman Empire 奥斯曼帝国）"}
+  - {text: "It was important because until that point, really in terms of sociable drinking, that would all have to be conducted over some form of alcohol.", start: 536.86, end: 544.32, zh: "之所以重要，是因为在此之前，社交饮酒实际上都必须通过某种酒精饮料来进行。（sociable drinking 社交饮酒）"}
+  - {text: "So once there was a drink that was actually doing the wakeful as opposed to the sleeping, that obviously enabled it to be used in settings such as work practices,", start: 545.02, end: 555.10, zh: "因此，一旦有一种饮料能起到提神而非助眠的作用，显然就可以将其用于工作场所等场景，（wakeful 提神的，清醒的）"}
+  - {text: "such as places where people were negotiating, trading and so forth.", start: 555.24, end: 558.86, zh: "比如人们进行谈判、交易的地方。（negotiating 谈判）"}
+  - {text: "And that becomes the basis really of the early coffee houses.", start: 558.90, end: 562.58, zh: "这实际上成为了早期咖啡馆的基础。（basis 基础）"}
+  - {text: "And how did it begin to spread west from the Ottoman Empire?", start: 562.98, end: 565.72, zh: "它是如何开始从奥斯曼帝国向西传播的？（Ottoman Empire 奥斯曼帝国）"}
+  - {text: "So there's an interesting sort of disconnect, if you like.", start: 567.22, end: 571.86, zh: "所以，如果你愿意这么说的话，这里存在一种有趣的脱节。（disconnect 脱节，不一致）"}
+  - {text: "So we know that coffee, as we said, spreads first into Italy and into probably into those Eastern European lands.", start: 572.06, end: 580.12, zh: "正如我们所说，我们知道咖啡首先传播到了意大利，可能还有那些东欧地区。（Eastern European 东欧的）"}
+  - {text: "But it's used very much as a medicine, a medicinal thing, and it's sort of confined to...", start: 580.44, end: 585.46, zh: "但它主要被当作一种药物使用，也就是具有药用价值的东西，而且它的使用范围似乎局限于……（medicinal 药用的）"}
+  - {text: "What was it supposed to cure?", start: 585.46, end: 586.72, zh: "它据称能治愈什么病？"}
+  - {text: "Pretty much anything that you wanted it to cure would be the answer.", start: 587.84, end: 591.64, zh: "答案大概是，你想让它治什么病，它就能治什么病。"}
+  - {text: "So gout would be one thing, for example.", start: 592.84, end: 594.86, zh: "比如痛风就是其中一种。（gout 痛风）"}
+  - {text: "But there would be lots of sort of promises that this would cure things.", start: 594.86, end: 598.44, zh: "但有很多关于它能治愈各种疾病的承诺。"}
+  - {text: "Was there any record kept of its effect?", start: 598.92, end: 602.04, zh: "有没有关于其疗效的记录？"}
+  - {text: "No record that I think could be described as anything other than marketing.", start: 604.22, end: 607.82, zh: "我认为没有任何记录，除了营销宣传之外，其他方面都无从谈起。（marketing 营销，推销）"}
+  - {text: "So the way that it would be used would be by apocrates prescribing it.", start: 609.18, end: 613.92, zh: "所以它的使用方式是由阿波克拉斯来开具处方。（apocrates 阿波克拉斯，此处指古代医生或药剂师）"}
+  - {text: "And that creates the odd situation that, in fact, the first sort of social coffee house, as you alluded to, sort of opens in England, which", start: 615.80, end: 623.98, zh: "这就造成了一种奇怪的情况，正如你提到的，第一家真正意义上的社会性咖啡馆其实是在英国开设的，这……（social coffee house 社会性咖啡馆；alluded to 提及，暗示）"}
+  - {text: "is actually quite late in terms of seeing the first coffee.", start: 623.98, end: 627.08, zh: "实际上，就见到第一杯咖啡的时间点而言，这算是相当晚了。（disconnect 脱节，不一致）"}
+  - {text: "So there's that kind of disconnect for that reason.", start: 627.92, end: 630.12, zh: "因此，出于这个原因，两者之间存在某种脱节。（disconnect 脱节，不一致）"}
+  - {text: "Use the term marketing.", start: 630.48, end: 631.64, zh: "使用“营销”这个术语。（marketing 营销，市场推广）"}
+  - {text: "How was it marketed in the West?", start: 632.08, end: 633.50, zh: "它在西方是如何进行营销的？（marketed 营销，推广）"}
+  - {text: "So it flows out of the Ottoman Empire and they can say, well, this keeps you awake.", start: 633.70, end: 637.16, zh: "所以它从奥斯曼帝国流传出来，他们可以说，嗯，这能让你保持清醒。（Ottoman Empire 奥斯曼帝国）"}
+  - {text: "Alcohol will send you to sleep.", start: 637.52, end: 638.24, zh: "酒精会让你昏昏欲睡。（alcohol 酒精）"}
+  - {text: "We're against alcohol anyway, so take this and you'll be able to pray more.", start: 638.34, end: 641.46, zh: "反正我们反对酒精，所以喝这个，你就能更好地祈祷。（pray 祈祷）"}
+  - {text: "And that'll be good for us and good for you and so on.", start: 641.76, end: 644.42, zh: "这对我们和你都有好处，诸如此类。（so on 等等，诸如此类）"}
+  - {text: "How did they sell it when it moved across into Europe?", start: 645.62, end: 648.88, zh: "当它传入欧洲时，他们是如何推销它的？"}
+  - {text: "Well, I mean, there are most famously a sort of a hand bill that comes out, which is produced, we think, by Rose's own people, in which it refers to being able to cure wind,", start: 648.88, end: 659.60, zh: "嗯，我的意思是，最著名的是有一张传单，据信是由罗斯本人的人制作的，其中提到它能治愈胀气。（hand bill 传单；wind 胀气，指肠道气体）"}
+  - {text: "being able to cure gout, being able to remove stones and so forth.", start: 659.78, end: 663.92, zh: "能治愈痛风，能排出结石等等。（gout 痛风；stones 结石）"}
+  - {text: "So it is advertised as having all these properties.", start: 664.04, end: 666.92, zh: "所以它被宣传具有所有这些功效。"}
+  - {text: "The first hand bill is, in fact, actually made available to other people.", start: 668.10, end: 672.76, zh: "第一张传单实际上也被提供给其他人使用。"}
+  - {text: "So within the context of marketing within England and London, people, each coffee house is writing out the same hand bill, but substituting in their own name for all the things that they can deliver through it.", start: 672.96, end: 683.70, zh: "所以在英格兰和伦敦的营销背景下，每家咖啡馆都抄写同样的传单，但把他们的名字替换进去，以宣传他们能提供的各种服务。（substituting 替换；deliver 提供）"}
+  - {text: "How similar, have we any idea how similar it was to the coffee we drink today?", start: 684.00, end: 687.98, zh: "它和我们今天喝的咖啡有多相似？我们有这方面的了解吗？"}
+  - {text: "Just similar, we hope.", start: 688.60, end: 689.82, zh: "只是相似，我们希望如此。"}
+  - {text: "We would imagine that that coffee would, well, first of all, it would be made by effectively a sort of a, what you might call a lesser version of what we now think of as Turkish coffee.", start: 691.02, end: 702.90, zh: "我们推测那种咖啡，首先，它实际上是由一种类似于我们现在认为的土耳其咖啡的简化版本制作的。（lesser version 简化版；Turkish coffee 土耳其咖啡）"}
+  - {text: "So it would be made by boiling.", start: 703.10, end: 704.32, zh: "所以它是通过煮沸制作的。"}
+  - {text: "It would be made by direct boiling of the grounds with the powder.", start: 704.32, end: 708.52, zh: "它是通过将咖啡粉直接加水煮沸制成的。（grounds 咖啡渣；powder 粉末）"}
+  - {text: "The powder itself would almost certainly have come from the Java or from Mocha.", start: 709.18, end: 715.74, zh: "这种粉末几乎肯定来自爪哇或摩卡。（Java 爪哇；Mocha 摩卡）"}
+  - {text: "It would be stale, extremely stale.", start: 715.88, end: 719.12, zh: "它肯定是陈旧的，非常陈旧。（stale 陈旧的，不新鲜的）"}
+  - {text: "And shipping coffee at that time would have been done.", start: 719.40, end: 722.40, zh: "而在那个时候，咖啡的运输方式……（shipping 运输）"}
+  - {text: "The coffee would have been exposed.", start: 722.56, end: 723.54, zh: "咖啡会暴露在外界环境中。（exposed 暴露的）"}
+  - {text: "So the coffee would have taken on quite a lot of other characteristics.", start: 723.86, end: 726.36, zh: "所以咖啡会沾染上很多其他特征。（characteristics 特征，特性）"}
+  - {text: "Do we have any evidence of what it tasted like?", start: 726.66, end: 728.80, zh: "我们有什么证据能说明它尝起来是什么味道吗？（evidence 证据）"}
+  - {text: "Well, we have people describing how they felt about it.", start: 729.80, end: 733.32, zh: "嗯，我们有描述过他们对咖啡感受的人。（describing 描述）"}
+  - {text: "Most of what they describe is really about the effect that they believe that it has on them.", start: 733.32, end: 738.28, zh: "他们描述的大多是关于他们认为咖啡对自己产生的影响。（effect 影响，效果）"}
+  - {text: "So it is this kind of reviving effect.", start: 738.44, end: 740.78, zh: "所以这是一种让人恢复精力的效果。（reviving 恢复精力的，振奋的）"}
+  - {text: "It is sort of the effect of keeping them up and so forth.", start: 741.02, end: 743.42, zh: "这大概是因为让他们保持清醒之类的效果。（keeping them up 让他们保持清醒；so forth 等等）"}
+  - {text: "There are other people who are fairly unhappy about it.", start: 744.10, end: 748.60, zh: "也有其他人对此相当不满。（unhappy 不满的，不高兴的）"}
+  - {text: "But then we have the great innovation, of course, which is when milk is added to coffee.", start: 748.66, end: 751.90, zh: "但随后当然出现了一个伟大的创新，那就是在咖啡里加牛奶。（innovation 创新；added 添加）"}
+  - {text: "Ah, that's a marker, isn't it?", start: 752.32, end: 754.24, zh: "啊，这是一个标志，不是吗？（marker 标志，标记）"}
+  - {text: "Yes, so let's move on.", start: 754.32, end: 755.36, zh: "是的，那我们继续往下讲。（move on 继续，进行下一步）"}
+  - {text: "To Mark, how did it move from being an exotic drink to something sold to the public?", start: 756.50, end: 761.74, zh: "马克，咖啡是如何从一种异域饮品变成向公众销售的商品的？（exotic 异域的，奇异的；public 公众）"}
+  - {text: "Coffee by the mid 17th century becomes more widely available in northern Europe, mainly through traders.", start: 761.74, end: 770.08, zh: "到17世纪中叶，咖啡通过贸易商在北欧变得更加普及。（mid 17th century 17世纪中叶；available 可获得的，普及的）"}
+  - {text: "So in Britain it was the Levant company that traded, especially with Turkey and the Ottoman Empire.", start: 770.80, end: 775.88, zh: "在英国，是黎凡特公司进行贸易，特别是与土耳其和奥斯曼帝国。（Levant company 黎凡特公司；Ottoman Empire 奥斯曼帝国）"}
+  - {text: "And by the 1630s there are individuals associated with the Levant company who have accessed the coffee in Britain and are drinking it.", start: 776.84, end: 785.16, zh: "到了1630年代，一些与黎凡特公司有关联的人已经在英国接触到了咖啡并开始饮用。（associated 有关联的；accessed 接触到，获取）"}
+  - {text: "One of them is William Harvey, whose brothers were both the describer of circulation of the blood.", start: 785.20, end: 790.68, zh: "其中一人是威廉·哈维，他的兄弟俩都是血液循环的发现者。（William Harvey 威廉·哈维；circulation of the blood 血液循环）"}
+  - {text: "His brothers were both Levant merchants and he records drinking coffee and its effect on him.", start: 790.68, end: 796.90, zh: "他的兄弟俩都是黎凡特商人，他在日记中记录了喝咖啡的经历以及咖啡对他产生的影响。（Levant 黎凡特，指地中海东岸地区；merchants 商人）"}
+  - {text: "And we're moving towards the first coffee house.", start: 797.20, end: 799.04, zh: "接下来我们要讲到第一家咖啡馆的诞生。（coffee house 咖啡馆）"}
+  - {text: "Yes, so the first coffee house opens in London in probably 1652.", start: 799.48, end: 804.04, zh: "是的，第一家咖啡馆大约是在1652年在伦敦开业的。（coffee house 咖啡馆）"}
+  - {text: "It was opened by a servant of a Levant merchant called Daniel Edwards and the servant was called Pascal Rose.", start: 804.58, end: 812.80, zh: "它是由一位名叫丹尼尔·爱德华兹的黎凡特商人的仆人开设的，这位仆人叫帕斯卡尔·罗斯。（Levant 黎凡特；servant 仆人）"}
+  - {text: "And from his name that strongly suggests he was a Greek Christian.", start: 813.12, end: 816.52, zh: "从他的名字来看，强烈暗示他是一名希腊基督徒。（Greek Christian 希腊基督徒）"}
+  - {text: "He came from Ragoza, Dubrovnik.", start: 816.68, end: 818.64, zh: "他来自罗扎戈，也就是现在的杜布罗夫尼克。（Ragoza 罗扎戈，杜布罗夫尼克的旧称；Dubrovnik 杜布罗夫尼克，克罗地亚城市）"}
+  - {text: "And he had expertise in making coffee and had been trained in that way in Smerna, which is where Daniel Edwards traded for his family company.", start: 818.64, end: 830.80, zh: "他精通咖啡制作，曾在士麦那接受过这方面的训练，那里是丹尼尔·爱德华兹为家族公司进行贸易的地方。（Smerna 士麦那，今土耳其伊兹密尔；expertise 专长，专业知识）"}
+  - {text: "And when Daniel Edwards came back to London, he got sick of entertaining all his friends in his house to coffee in the morning.", start: 831.52, end: 838.88, zh: "当丹尼尔·爱德华兹回到伦敦后，他厌倦了每天早上在家里招待所有朋友喝咖啡。（entertaining 招待，款待）"}
+  - {text: "And so set up a servant, Pascal Rose, in, as you said, a shed basically in the churchyard of St.", start: 839.34, end: 844.90, zh: "于是，正如你所说，他让仆人帕斯卡尔·罗斯在圣米迦勒教堂墓地里一个基本上就是棚屋的地方安顿下来。（churchyard 教堂墓地；shed 棚屋，简易建筑）"}
+  - {text: "Michael's Cornhill right by the Royal Exchange.", start: 844.98, end: 847.70, zh: "就在皇家交易所旁边。（Royal Exchange 皇家交易所，伦敦早期的贸易中心）"}
+  - {text: "And where all the merchants in London gathered every day.", start: 847.70, end: 850.36, zh: "那里是伦敦所有商人每天聚集的地方。（merchants 商人）"}
+  - {text: "And quite quickly a large concourse of people, as they say, gathered every morning at Rose's shed.", start: 851.18, end: 857.40, zh: "很快，正如人们所说，每天早上都有大量人群聚集在罗斯的小棚子里。（concourse 聚集的人群；shed 棚屋，简陋的小屋）"}
+  - {text: "And within a year or two he had made enough money to move across the alley into a proper building.", start: 858.06, end: 862.40, zh: "在一两年内，他就赚了足够的钱，搬过那条小巷，进入了一栋像样的建筑。（alley 小巷；proper building 像样的建筑，正式的房屋）"}
+  - {text: "He'd taken on a partner and Pascal Rose's, the coffee house, Pascal Rose's head became the first most well -known coffee house in London.", start: 863.56, end: 873.68, zh: "他找了一位合伙人，帕斯卡尔·罗斯的咖啡馆，也就是帕斯卡尔·罗斯的店，成了伦敦第一家最著名的咖啡馆。（partner 合伙人；Pascal Rose 帕斯卡尔·罗斯，人名）"}
+  - {text: "When the city authorities did a census of coffee houses only ten years later, just in the city of London alone there were 83 coffee houses.", start: 874.52, end: 883.94, zh: "当城市当局在仅仅十年后对咖啡馆进行普查时，仅在伦敦市内就有83家咖啡馆。（census 普查；authorities 当局）"}
+  - {text: "So it points to the extremely rapid expansion of the number of coffee houses.", start: 884.30, end: 889.84, zh: "这表明咖啡馆的数量在极短时间内迅速扩张。（expansion 扩张，增长）"}
+  - {text: "What's your theory as to why it was so extreme?", start: 891.12, end: 893.24, zh: "你对此有何理论，为什么增长如此剧烈？（theory 理论，观点）"}
+  - {text: "I mean, 10 to 83 is a heck of a jump, isn't it?", start: 893.44, end: 895.74, zh: "我是说，从10家到83家，这跳跃幅度可真大，不是吗？（jump 跳跃，激增）"}
+  - {text: "It is. In such a short time.", start: 895.88, end: 898.30, zh: "是的。在这么短的时间内。（short time 短时间）"}
+  - {text: "Well, the conditions were good.", start: 898.30, end: 900.34, zh: "嗯，当时的条件很好。（conditions 条件，环境）"}
+  - {text: "It was in the middle of, you know, the Republican government and they were hostile to being a Puritan government, hostile to excessive alcohol drinking and tried to license the number of taverns", start: 900.78, end: 913.82, zh: "那是在共和政府时期，他们持清教徒立场，反对过度饮酒，并试图限制城市里酒馆的数量。（Republican government 共和政府；Puritan 清教徒；taverns 酒馆）"}
+  - {text: "and public houses that were in the city.", start: 913.82, end: 915.80, zh: "以及城市里的公共酒馆。（public houses 公共酒馆，即酒吧）"}
+  - {text: "And coffee was not intoxicating.", start: 916.28, end: 918.44, zh: "而咖啡不会让人醉酒。（intoxicating 致醉的）"}
+  - {text: "So it found easy acceptance from the authorities.", start: 918.82, end: 927.46, zh: "因此它很容易获得当局的认可。（acceptance 接受，认可）"}
+  - {text: "It's also an extremely addictive drug.", start: 927.46, end: 930.78, zh: "它也是一种极易上瘾的药物。（addictive 令人上瘾的）"}
+  - {text: "So once you're used to drinking it for whatever reason, you want to keep drinking it.", start: 930.94, end: 935.50, zh: "所以一旦你习惯了喝它，出于任何原因，你就会想继续喝下去。（used to 习惯于）"}
+  - {text: "And it's association with the trading practices of the Levant merchants meant that if you wanted to get on with the Levant company, you needed to drink coffee", start: 935.78, end: 944.16, zh: "而且它与黎凡特商人的贸易习俗有关，这意味着如果你想融入黎凡特公司，你就得喝咖啡。（Levant 黎凡特，指地中海东岸地区；association 关联，联系）"}
+  - {text: "and then coffee takes you over and you have to keep drinking coffee.", start: 944.16, end: 947.88, zh: "然后咖啡就会占据你的身心，你不得不继续喝咖啡。（takes you over 占据，控制）"}
+  - {text: "Thank you, Judith Hawley.", start: 949.24, end: 950.58, zh: "谢谢你，朱迪思·霍利。（Judith Hawley 朱迪思·霍利，嘉宾名）"}
+  - {text: "How did those sheds, those coffee houses, develop into the coffee houses that we know about which they developed into clubs, what was the big development?", start: 950.58, end: 962.71, zh: "那些小屋，那些咖啡馆，是如何发展成我们现在所熟知的咖啡馆的？它们后来变成了俱乐部，最大的发展变化是什么？（sheds 简陋的小屋，棚屋；developed into 发展成）"}
+  - {text: "What was that great rush of development?", start: 963.35, end: 965.03, zh: "那波巨大的发展浪潮究竟是怎么回事？（rush 热潮，激增）"}
+  - {text: "Was that just to do with businessmen wanting to do business with businessmen and scholars with scholars and so on?", start: 965.31, end: 969.59, zh: "那是不是仅仅因为商人们想和商人做生意，学者们想和学者交流，以此类推？（businessmen 商人；scholars 学者）"}
+  - {text: "What was going on?", start: 969.69, end: 970.27, zh: "当时到底发生了什么？"}
+  - {text: "Yeah, so Markman's described the move of Pascal Rose from a shed which had been like one of the German Christmas market type sheds into premises", start: 970.69, end: 978.53, zh: "是的，Markman 描述了 Pascal Rose 从一个类似德国圣诞集市那种棚屋搬到了新的场所……（Pascal Rose 帕斯卡尔·罗斯，咖啡馆名；premises 场所，建筑物）"}
+  - {text: "and one of the big appeals of the premise was that the coffee house became a place where you'd go and meet people and talk.", start: 978.53, end: 985.93, zh: "这个新场所的一大吸引力在于，咖啡馆成了人们去那里见面、交谈的地方。（appeals 吸引力；premise 场所，此处指咖啡馆）"}
+  - {text: "You'd go and meet and talk to strangers.", start: 986.47, end: 988.13, zh: "你会去那里和陌生人见面、聊天。（strangers 陌生人）"}
+  - {text: "And when Markman mentioned the 83 coffee houses that were there within a decade they're usually located in particular areas of the city which already had an association say with printers", start: 988.73, end: 1000.07, zh: "当 Markman 提到十年内那里出现了 83 家咖啡馆时，它们通常位于城市中特定的区域，这些区域原本就与某些行业有关联，比如印刷商……（decade 十年；printers 印刷商）"}
+  - {text: "or with lawyers or with merchants of a particular type or near Gresham College.", start: 1000.07, end: 1005.75, zh: "或者与律师、特定类型的商人有关，或者靠近格雷沙姆学院。（lawyers 律师；Gresham College 格雷沙姆学院，伦敦的一所学府）"}
+  - {text: "So people from those establishments could step out of their places of work and go to a place where they could meet each other and talk.", start: 1005.75, end: 1015.11, zh: "所以来自这些机构的人可以走出工作地点，去一个能互相见面、交谈的地方。（establishments 机构，此处指工作场所）"}
+  - {text: "Why do they sideline Taverns?", start: 1016.05, end: 1019.03, zh: "为什么他们要冷落酒馆？（sideline 冷落，忽视；Taverns 酒馆）"}
+  - {text: "Taverns had a mixture of associations.", start: 1021.21, end: 1025.11, zh: "酒馆给人的联想是复杂的。（taverns 酒馆；associations 联想，关联）"}
+  - {text: "They were certainly more upper class than an ale house but they were places of alcohol consumption.", start: 1025.41, end: 1031.71, zh: "它们肯定比啤酒屋更上流，但本质上还是喝酒的地方。（ale house 啤酒屋；alcohol consumption 饮酒）"}
+  - {text: "They were mixed so women could go into taverns.", start: 1031.71, end: 1035.69, zh: "那里是男女混合的，所以女性也可以进酒馆。（mixed 男女混合的）"}
+  - {text: "Coffee houses were pretty much exclusively male establishments apart from the women who might own them or serve the coffee there.", start: 1035.91, end: 1043.95, zh: "咖啡馆基本上完全是男性的场所，除了那些可能拥有咖啡馆或在那里提供咖啡服务的女性。（exclusively 排他地，完全地；establishments 场所，机构）"}
+  - {text: "So I think there was a desire for men to talk business whether their business was law or trade or the new science.", start: 1044.57, end: 1051.27, zh: "所以我认为男性有一种渴望，想要谈论生意，无论是法律、贸易还是新兴科学。（whether 无论；trade 贸易）"}
+  - {text: "They wanted to talk business with their fellow businessmen.", start: 1051.79, end: 1054.15, zh: "他们想和同行商人一起谈生意。（fellow 同类的，同行的）"}
+  - {text: "And coffee houses provided a number of things that Taverns didn't do and I think this is crucial.", start: 1054.71, end: 1058.85, zh: "咖啡馆提供了一些酒馆没有的东西，我认为这很关键。（crucial 关键的）"}
+  - {text: "There are two aspects to this.", start: 1059.07, end: 1060.79, zh: "这有两方面。（aspects 方面）"}
+  - {text: "One is the layout of the coffee house.", start: 1060.79, end: 1063.87, zh: "一是咖啡馆的布局。（layout 布局）"}
+  - {text: "There's almost always a long table in the middle of the coffee house and you'd go in and you'd pay a penny for your cup of coffee and you'd take whatever seat was available.", start: 1064.01, end: 1073.17, zh: "咖啡馆中间几乎总有一张长桌，你进去后付一便士买杯咖啡，然后随便找个空位坐下。（penny 便士，货币单位）"}
+  - {text: "So you'd sit and talk to whoever was there.", start: 1073.43, end: 1076.35, zh: "所以你坐在那里，跟当时在场的人聊天。（whoever 任何人；there 那里）"}
+  - {text: "So this model of sociability.", start: 1076.61, end: 1078.35, zh: "所以这种社交模式……（model 模式；sociability 社交性）"}
+  - {text: "Did that come from the Ottomans?", start: 1079.17, end: 1080.61, zh: "这是从奥斯曼帝国传过来的吗？（Ottomans 奥斯曼帝国）"}
+  - {text: "Yes, I think that did except the Ottomans often had you could take people to a private corner or sort of a bench, an elevated bench.", start: 1080.95, end: 1088.61, zh: "是的，我觉得是，不过奥斯曼人通常会把人带到私人角落或某种高起的长凳上。（Ottomans 奥斯曼帝国；elevated 高起的）"}
+  - {text: "But this sort of come all who can and you mingle and meet made it a discursive space.", start: 1089.07, end: 1095.69, zh: "但这种谁都可以来、大家混在一起交流的模式，使它成为了一个讨论空间。（mingle 混合，交往；discursive 讨论的，论述的）"}
+  - {text: "And the other thing was that they provided newspapers, pamphlets, printed material, reading material of all kinds.", start: 1095.87, end: 1101.89, zh: "另一件事是他们提供报纸、小册子、印刷品以及各种阅读材料。（pamphlets 小册子；printed material 印刷材料）"}
+  - {text: "So people would go in in order to get the latest news in terms of the gossip and conversation.", start: 1102.23, end: 1106.77, zh: "所以人们进去是为了获取最新的新闻，也就是八卦和谈话内容。（gossip 八卦；conversation 谈话）"}
+  - {text: "John Arbuthnot wrote a wonderful poem called The Quidnunks.", start: 1108.07, end: 1110.77, zh: "约翰·阿瑟伯顿写了一首很棒的诗，叫《Quidnunks》。（Arbuthnot 阿瑟伯顿；Quidnunks 一种指代好奇打听新闻的人的词，源自拉丁语）"}
+  - {text: "The What Now? You come and say, what's happening in the news?", start: 1111.25, end: 1114.45, zh: "“现在怎么样？”你过来问，新闻里发生了什么？（What Now? 现在怎么样；happening 发生）"}
+  - {text: "Or you might get the latest poem if you went into wills or buttons where the wits met or you'd get to hear what was happening in Parliament", start: 1115.49, end: 1124.79, zh: "或者如果你去威尔斯或巴顿斯那里，那里是才子们聚会的地方，你就能听到议会里正在发生什么。（wits 才子，聪明人；Parliament 议会）"}
+  - {text: "if you went to the coffee houses in St.", start: 1124.79, end: 1126.49, zh: "如果你去圣……（St. 圣，通常指圣詹姆斯广场或相关地点）"}
+  - {text: "James. So is that mixture of news, reading, discussion, sharing of ideas which I think is absolutely crucial to the rapid spread of the coffee house", start: 1126.61, end: 1137.13, zh: "詹姆斯。所以这种新闻、阅读、讨论和思想交流的结合，我认为对于咖啡馆的快速普及至关重要。（crucial 至关重要的；rapid 快速的）"}
+  - {text: "during a period of the rapid rise of knowledge?", start: 1137.13, end: 1139.69, zh: "是在知识迅速增长的时期吗？（rapid rise 迅速增长；knowledge 知识）"}
+  - {text: "We're talking about in the second half of the 17th century.", start: 1140.07, end: 1143.51, zh: "我们说的是17世纪下半叶。（second half 下半叶；17th century 17世纪）"}
+  - {text: "I know one says he's threatened because they got too lively and they were spreading ideas having forbid in this country and he, and it was threatened with closed.", start: 1144.05, end: 1151.37, zh: "我知道有人说他感到受到威胁，因为那里变得太活跃了，而且传播着在这个国家被禁止的思想，他……并且面临被关闭的威胁。（threatened 受到威胁；forbid 禁止）"}
+  - {text: "They were threatened with closed.", start: 1151.55, end: 1152.15, zh: "它们面临被关闭的威胁。（threatened 受到威胁；closed 关闭）"}
+  - {text: "Yes, 1676 Charles II tried to close them down because one of the chief ideas which was being discussed was the king, you know, what was the fate of the stewards.", start: 1152.25, end: 1162.17, zh: "是的，1676年查理二世试图关闭它们，因为其中一个主要讨论的话题是国王，你知道，管家们的命运如何。（Charles II 查理二世；stewards 管家，此处可能指代特定政治人物或角色）"}
+  - {text: "Woman's Hour is a programme where we put women's voices at the heart of it.", start: 1163.99, end: 1169.05, zh: "《Woman's Hour》是一个将女性声音置于核心位置的节目。（Woman's Hour 女性时刻，BBC节目名）"}
+  - {text: "We explore all the issues that we have in our lives through a woman's perspective.", start: 1169.29, end: 1174.25, zh: "我们通过女性的视角探讨我们生活中的所有问题。（perspective 视角；explore 探讨）"}
+  - {text: "Guests often surprise me by being just so generous with their stories.", start: 1174.69, end: 1179.15, zh: "客人们常常让我惊讶，因为他们分享故事时非常慷慨。（generous 慷慨的；surprise 惊讶）"}
+  - {text: "We need escapism and joy and there is an abundance of that every day.", start: 1179.63, end: 1184.07, zh: "我们需要逃避现实的乐趣和喜悦，而每一天都有取之不尽的快乐。（escapism 逃避现实；abundance 丰富，大量）"}
+  - {text: "Woman's Hour is 80 years of women's stories and we still haven't heard them all.", start: 1184.45, end: 1189.67, zh: "《女人时刻》节目讲述了80年的女性故事，但我们还没有听完所有的故事。（Woman's Hour 女人时刻，BBC广播节目）"}
+  - {text: "Woman's Hour, listen on BBC Sounds.", start: 1190.35, end: 1192.93, zh: "《女人时刻》，请在BBC Sounds收听。（BBC Sounds 英国广播公司音频平台）"}
+  - {text: "Excession. Jonathan Morris, let's bring in how it's developing as a trade.", start: 1193.59, end: 1201.44, zh: "咖啡贸易。乔纳森·莫里斯，请谈谈它作为一门贸易是如何发展的。（Excession 此处应为Coffee Trade的误听；trade 贸易）"}
+  - {text: "The Dutch East India Company, very powerful, takes its part in this.", start: 1202.26, end: 1207.82, zh: "非常强大的荷兰东印度公司也参与其中。（Dutch East India Company 荷兰东印度公司）"}
+  - {text: "Amsterdam becomes one of the great centres of the coffee trade.", start: 1207.88, end: 1210.86, zh: "阿姆斯特丹成为咖啡贸易的重要中心之一。（centres 中心；coffee trade 咖啡贸易）"}
+  - {text: "Can you develop that?", start: 1211.00, end: 1211.70, zh: "你能展开说说吗？（develop 展开，详述）"}
+  - {text: "Yeah, sure. Basically, obviously up until about the 1700s, all of the coffee that's coming on to the market comes from Mokka, from that sort of original cultivation which is going on in Yemen.", start: 1212.30, end: 1224.08, zh: "是的，当然。基本上，显然直到18世纪左右，市场上所有的咖啡都来自摩卡，也就是也门最初种植的那种。（Mokka 摩卡，也门港口；cultivation 种植）"}
+  - {text: "So the Dutch East India Company is seeing an expansion in demand and at the same time, in the early 1700s, the Ottoman Empire is increasing the restrictions upon the trade.", start: 1224.96, end: 1235.70, zh: "所以荷兰东印度公司看到了需求的增长，与此同时，在18世纪初，奥斯曼帝国加强了对贸易的限制。（Ottoman Empire 奥斯曼帝国；restrictions 限制）"}
+  - {text: "The Governor of one of the Governors of Dutch East India...", start: 1236.74, end: 1239.48, zh: "荷兰东印度公司的一位总督……（Governor 总督；Dutch East India 荷兰东印度公司）"}
+  - {text: "Is that because they wanted to make more money or because they wanted to control it for other reasons?", start: 1239.48, end: 1242.80, zh: "这是因为他们想赚更多的钱，还是因为出于其他原因想要控制它？（primarily 主要地）"}
+  - {text: "I think primarily it's because of making money.", start: 1243.52, end: 1245.68, zh: "我认为主要是为了赚钱。（primarily 主要地）"}
+  - {text: "But what happens, therefore, is I think that there are difficult relations with those East India companies, if you like, and the Ottoman authorities.", start: 1247.54, end: 1255.68, zh: "因此，我认为与那些东印度公司以及奥斯曼当局之间存在着复杂的关系。（East India companies 东印度公司；Ottoman authorities 奥斯曼当局）"}
+  - {text: "And as a result, one of the Governors of the Dutch East India Company, a man called Nicholas de Vitsen, decides to try and plant coffee in one of the colonies, in this case Java.", start: 1255.68, end: 1266.82, zh: "结果，荷兰东印度公司的一位总督，名叫尼古拉斯·德·维茨的人，决定尝试在一个殖民地种植咖啡，具体来说是爪哇。（Governor 总督；Java 爪哇）"}
+  - {text: "He takes his coffee from actually Malabar in India where we believe that that coffee had probably got by legend, by somebody making the pilgrimage, probably in reality by merchants, Indian merchants,", start: 1267.60, end: 1281.88, zh: "他的咖啡实际上来自印度的马拉巴尔，我们认为那里的咖啡可能是通过传说，比如有人朝圣，或者实际上是通过商人，印度商人……（Malabar 马拉巴尔，印度地区；pilgrimage 朝圣）"}
+  - {text: "trying to set up somewhere else to grow coffee.", start: 1282.24, end: 1284.42, zh: "试图在别处建立种植咖啡的地方。（set up 建立，设立）"}
+  - {text: "Anyway, he takes that coffee, he plants it in Java.", start: 1284.42, end: 1287.36, zh: "总之，他带着那种咖啡，把它种在了爪哇。（Anyway 总之，不管怎样）"}
+  - {text: "It's a slow process, but by around 1711 they are shipping coffee back into Amsterdam.", start: 1288.50, end: 1295.88, zh: "这是一个缓慢的过程，但到1711年左右，他们开始将咖啡运回阿姆斯特丹。（shipping 运输，运送）"}
+  - {text: "Amsterdam develops its own coffee exchange and by the end of the 1720s, about 90 % of the coffee that is going through the Amsterdam exchange is now from Java, rather than from Mocha.", start: 1296.38, end: 1309.22, zh: "阿姆斯特丹发展出了自己的咖啡交易所，到1720年代末，通过阿姆斯特丹交易所的咖啡中，大约90%来自爪哇，而不是摩卡。（exchange 交易所；Mocha 摩卡，也指咖啡产地）"}
+  - {text: "Mark Van Alice, how was at that time coffee changing in the way we did business, for instance?", start: 1310.70, end: 1317.06, zh: "马克·范·爱丽丝，当时咖啡是如何改变我们的商业方式的，例如？（Mark Van Alice 马克·范·爱丽丝，人名）"}
+  - {text: "Judith pointed it out or alluded to the fact that it changed the interplay of ideas.", start: 1317.32, end: 1322.60, zh: "朱迪丝指出或暗示了这一点，即它改变了思想之间的互动方式。（alluded to 暗示；interplay 互动，相互作用）"}
+  - {text: "It was outside the university system.", start: 1322.92, end: 1324.72, zh: "它是在大学体系之外的。（outside 在……之外）"}
+  - {text: "The university system was mainly classics, you went into the law or you went into the church and the great practical scientific development of our country came from dissenters or people outside the universities and these clubs, these coffee houses were part of that.", start: 1324.84, end: 1341.68, zh: "当时的大学体系主要研究古典文学，你要么去学法律，要么去教会，而我们国家伟大的实用科学发展来自非国教徒或大学之外的人，这些俱乐部，这些咖啡馆就是其中的一部分。（classics 古典文学；dissenters 非国教徒，英国宗教改革中脱离国教的人）"}
+  - {text: "Yeah, so coffee houses offered an alternative place for meeting, for sociability, and it was particularly appropriate for businessmen because unlike a tavern, you didn't become", start: 1342.22, end: 1353.96, zh: "是的，所以咖啡馆提供了一个替代的聚会场所，用于社交，这对商人来说特别合适，因为不像酒馆那样，你在那里待久了不会……（tavern 酒馆；sociability 社交性）"}
+  - {text: "intoxicated by being there for a long time.", start: 1353.96, end: 1356.38, zh: "……变得醉醺醺的。（intoxicated 醉酒的，神志不清的）"}
+  - {text: "Which is not to say that taverns didn't continue to have an important social role, but during the daytime, for example, you might find more people", start: 1356.78, end: 1365.22, zh: "这并不是说酒馆没有继续发挥重要的社会作用，但在白天，例如，你可能会发现更多人……（taverns 酒馆；social role 社会角色）"}
+  - {text: "moving from the Royal Exchange to a coffee house than to a tavern.", start: 1365.22, end: 1371.08, zh: "……从皇家交易所去咖啡馆，而不是去酒馆。（Royal Exchange 皇家交易所，伦敦早期的贸易中心）"}
+  - {text: "And because of that, I mean, around a place like the Royal Exchange, the centre of trade in London, there were numerous coffee houses, one on every corner kind of idea.", start: 1372.18, end: 1385.32, zh: "正因为如此，我是说，在像皇家交易所这样的地方，伦敦贸易的中心，有无数家咖啡馆，几乎每个角落都有一家。（numerous 众多的；corner 角落）"}
+  - {text: "And some of them began to attract particular kinds of businessmen.", start: 1385.84, end: 1390.00, zh: "其中一些开始吸引特定类型的商人。（attract 吸引）"}
+  - {text: "Sometimes they were even named after the kind of business that they wanted to attract.", start: 1390.16, end: 1393.48, zh: "有时它们甚至以它们想要吸引的那种生意类型来命名。（named after 以……命名）"}
+  - {text: "So the Virginia coffee house, for example, traded with merchants who traded with Virginia might assemble there or the Baltic coffee house for Eastland company merchants who traded with Russia and the Baltic.", start: 1393.48, end: 1404.34, zh: "比如弗吉尼亚咖啡馆，那里聚集的是与弗吉尼亚进行贸易的商人；或者波罗的海咖啡馆，那里则是与俄罗斯和波罗的海地区贸易的东印度公司商人。（Virginia 弗吉尼亚；Baltic 波罗的海；Eastland company 东印度公司）"}
+  - {text: "And then other ones, like Johnson and Garroway's, seemed to attract stockbrokers and stock -jobbers and one, Edward Lloyd, who set up a coffee house in the 1690s, specialised in marine insurance.", start: 1405.22, end: 1419.58, zh: "还有其他一些咖啡馆，比如约翰逊和加洛韦的，似乎吸引了股票经纪人和股票投机商；还有一位叫爱德华·劳埃德的人，他在1690年代开设了一家咖啡馆，专门从事海上保险。（stockbrokers 股票经纪人；stock-jobbers 股票投机商；marine insurance 海上保险）"}
+  - {text: "And once you start getting a group of businessmen coming together, there's a kind of a group advantage.", start: 1419.58, end: 1427.54, zh: "一旦一群商人开始聚集在一起，就会产生一种群体优势。（group advantage 群体优势）"}
+  - {text: "So they are gathering information from each other.", start: 1428.04, end: 1431.14, zh: "他们彼此之间交换信息。"}
+  - {text: "They're sort of crowdsourcing through gossip and information, stuff which actually has commercial value.", start: 1431.34, end: 1437.86, zh: "他们通过八卦和信息进行某种众包，这些内容实际上具有商业价值。（crowdsourcing 众包）"}
+  - {text: "So Lloyd started printing a list of shipping movements, for example, which becomes Lloyd's list, which still exists today.", start: 1438.48, end: 1447.28, zh: "例如，劳埃德开始印刷一份航运动态清单，这就是劳埃德清单，它至今仍然存在。（Lloyd's list 劳埃德清单）"}
+  - {text: "And if you got access to Lloyd's list first thing in the morning and it was read out, Lloyd's in the morning, you had a couple", start: 1447.28, end: 1456.20, zh: "如果你早上第一时间获取并听到劳埃德清单的朗读，你就拥有了……（Lloyd's list 劳埃德清单）"}
+  - {text: "of hours fresh information before the information was released to the rest of the world.", start: 1456.20, end: 1460.72, zh: "在信息向全世界发布之前，你有几个小时的最新信息优势。（fresh information 最新信息）"}
+  - {text: "So coming back to the coffee house time after time gave you a commercial advantage.", start: 1460.94, end: 1464.92, zh: "所以，一次又一次地回到咖啡馆，能给你带来商业优势。（commercial advantage 商业优势）"}
+  - {text: "So quite quickly, going to the right coffee house for that kind of business meant that you had a commercial advantage.", start: 1465.28, end: 1471.78, zh: "因此，很快地，去正确的咖啡馆进行这类业务，意味着你拥有商业优势。（commercial advantage 商业优势）"}
+  - {text: "And then by the end of the 18th century, some of these places are also realising that that information is valuable and that by excluding just anyone who walks in off the street,", start: 1472.22, end: 1481.42, zh: "到了18世纪末，这些地方也意识到这些信息很有价值，并且通过不让任何路人随意进入……（realising 意识到；excluding 排除，不让进入）"}
+  - {text: "they could make the information even more valuable.", start: 1481.68, end: 1484.76, zh: "他们就能让这些信息变得更加有价值。（valuable 有价值的）"}
+  - {text: "So the Stockbrokers who met at Jonathan's Coffee House reformed themselves into a new Jonathan's which becomes known as the Stock Exchange in the 1760s and Lloyd's becomes closed to daytrippers,", start: 1485.04, end: 1502.56, zh: "所以在乔纳森咖啡馆聚会的那些股票经纪人重组了乔纳森咖啡馆，它在1760年代变成了著名的证券交易所，而劳埃德咖啡馆则在1770年代对临时访客关闭了大门，（Stockbrokers 股票经纪人；reformed 重组；Lloyd's 劳埃德，著名的保险市场）"}
+  - {text: "as it were, in the 1770s because they realised that only by subscription and allowing only the members into the coffee room they can then make full use of the commercial information that they're gathering.", start: 1502.62, end: 1516.18, zh: "因为他们意识到，只有通过订阅制并只允许会员进入咖啡室，他们才能充分利用所收集的商业信息。（subscription 订阅制；members 会员）"}
+  - {text: "Jude, if you were keen to stress the variety and number of coffee houses, and we've had one or two there, was there a general sense in", start: 1516.78, end: 1523.50, zh: "裘德，如果你特别想强调咖啡馆的种类和数量，而且我们在那里待过一两次，那么当时是否有一种普遍的感觉，（Jude 裘德，嘉宾名字；stress 强调）"}
+  - {text: "which the drinking of coffee in this coffee house changed what was being said and changed the game in London and elsewhere?", start: 1523.50, end: 1530.80, zh: "即在咖啡馆里喝咖啡改变了人们谈论的内容，并改变了伦敦和其他地方的游戏规则？（changed the game 改变了游戏规则，意为改变了局面）"}
+  - {text: "Yes, I think it was.", start: 1531.38, end: 1532.52, zh: "是的，我认为是这样。（keen 热衷的，此处指如果很在意）"}
+  - {text: "Coffee houses did develop in the major ports and towns around Britain, Norwich, Bristol, York and so forth.", start: 1532.88, end: 1539.42, zh: "咖啡馆确实在英国各大港口和城镇发展起来，比如诺里奇、布里斯托尔和约克等地。（Norwich 诺里奇；Bristol 布里斯托尔；York 约克）"}
+  - {text: "I think this idea that reading and writing went on in coffee houses is important, that people went there in order to read things and they also started writing things in and about the coffee houses.", start: 1540.48, end: 1551.56, zh: "我认为咖啡馆里进行阅读和写作这一观念很重要，人们去那里是为了阅读，他们也开始在咖啡馆里或关于咖啡馆进行写作。（reading and writing 阅读和写作）"}
+  - {text: "Jonathan's talked about some of the handbills.", start: 1552.10, end: 1553.96, zh: "乔纳森咖啡馆提到了一些传单。（handbills 传单，单页印刷品）"}
+  - {text: "So some of the stuff that was written about the coffee houses in the early days was satire on it or promotion of the coffee house.", start: 1554.20, end: 1561.36, zh: "所以早期关于咖啡馆的一些文字，要么是讽刺，要么是宣传。（satire 讽刺；promotion 宣传）"}
+  - {text: "There's a famous pamphlet in which the women were invading against the men for attending coffee houses and becoming feminised.", start: 1561.56, end: 1569.54, zh: "有一本著名的小册子，里面说女性正在入侵，因为男性去咖啡馆导致变得女性化。（pamphlet 小册子；feminised 女性化）"}
+  - {text: "They gossiped like women and then when they came home they're like shot and herring and no good for anything.", start: 1569.64, end: 1574.48, zh: "他们像女人一样八卦，回家后就变得像鳕鱼和鲱鱼一样，毫无用处。（gossiped 八卦；shot and herring 鳕鱼和鲱鱼，此处指软弱无用）"}
+  - {text: "They're impotent. They're impotent, yes.", start: 1574.72, end: 1576.30, zh: "他们变得性无能了。是的，性无能。（impotent 性无能）"}
+  - {text: "Coffee houses made them impotent.", start: 1576.30, end: 1577.34, zh: "咖啡馆让他们变得性无能。（impotent 性无能）"}
+  - {text: "Coffee houses made men impotent.", start: 1577.36, end: 1579.04, zh: "咖啡馆让男人变得性无能。（impotent 性无能）"}
+  - {text: "But they also sharpened men's wits.", start: 1579.34, end: 1581.78, zh: "但咖啡馆也磨练了男人的智慧。（wits 智慧，才智）"}
+  - {text: "So the coffee houses associated with particular wits like the great dramatist and poet John Dryden held court in Will's Coffee House in Covent Garden and then Richard Steele", start: 1582.16, end: 1593.68, zh: "所以咖啡馆与特定的智者联系在一起，比如伟大的剧作家和诗人约翰·德莱顿，他在考文特花园的威尔咖啡馆主持沙龙，还有理查德·斯蒂尔……（dramatist 剧作家；held court 主持沙龙，聚集）"}
+  - {text: "and Joseph Addison who kind of invented a genre which puts the coffee house on paper.", start: 1593.68, end: 1600.44, zh: "以及约瑟夫·艾迪生，他们几乎发明了一种将咖啡馆生活记录在纸上的体裁。（genre 体裁）"}
+  - {text: "They invented a thing called periodical literature.", start: 1600.86, end: 1603.30, zh: "他们发明了一种叫做期刊文学的东西。（periodical literature 期刊文学）"}
+  - {text: "So the thrice weekly or regular, not quite newspaper, but journal which has an essay about an important issue or raises the standard of debate that it makes conversation better informed, more civil.", start: 1603.98, end: 1621.16, zh: "所以，那种每周出版三次或定期的刊物，虽然算不上报纸，但更像是一种期刊，里面有关于重要议题的随笔，或者能提升辩论水准，让对话变得更知情、更文明。（thrice weekly 每周三次；journal 期刊；civil 文明的，有教养的）"}
+  - {text: "We're talking about politeness.", start: 1621.40, end: 1622.46, zh: "我们在谈论的是礼貌。（politeness 礼貌）"}
+  - {text: "And we're talking about the spectator.", start: 1623.00, end: 1624.28, zh: "我们也在谈论《旁观者》。（spectator 旁观者，此处指刊物名）"}
+  - {text: "We're talking about the tatler and the spectator, both of which in their first issues of the Tatler in 1709 and the spectator in 1711.", start: 1624.44, end: 1632.18, zh: "我们说的是《闲谈者》和《旁观者》，这两本刊物在1709年《闲谈者》和1711年《旁观者》的首期……（Tatler 《闲谈者》；Spectator 《旁观者》）"}
+  - {text: "The very first issues of them made the link between the coffee house and the periodical explicit that the personae of the Tatler and the spectator were gathering news from the coffee houses.", start: 1632.94, end: 1645.62, zh: "它们最早几期明确建立了咖啡馆与期刊之间的联系，指出《闲谈者》和《旁观者》中的人物形象是从咖啡馆里收集新闻的。（explicit 明确的；personae 人物形象；periodical 期刊）"}
+  - {text: "And this was the buzz.", start: 1646.30, end: 1648.46, zh: "这就是当时的热门话题。（buzz 热门话题，热议）"}
+  - {text: "We're sticking to London at the moment.", start: 1648.62, end: 1649.76, zh: "目前我们只聚焦于伦敦。（sticking to 坚持，聚焦于）"}
+  - {text: "There's lots more to say about other countries.", start: 1649.86, end: 1651.12, zh: "关于其他国家还有很多可说的。（lots more 更多）"}
+  - {text: "But to stay here, this was the news of the town.", start: 1651.30, end: 1654.18, zh: "但就留在这里说，这就是城里的新闻。（news of the town 城里的新闻）"}
+  - {text: "This is where you got your news.", start: 1654.68, end: 1655.84, zh: "这就是你获取新闻的地方。（got your news 获取你的新闻）"}
+  - {text: "This is where things developed in a way they had not developed before.", start: 1656.00, end: 1660.26, zh: "正是在这里，事情的发展出现了前所未有的变化。"}
+  - {text: "They really hadn't developed in this way before because political news was largely concentrated and distributed in a kind of need -to -know basis.", start: 1660.66, end: 1668.64, zh: "此前事情从未这样发展过，因为政治新闻主要是在一种“需知”的基础上集中和分发的。（need-to-know basis 需知原则，即只让必要的人知道）"}
+  - {text: "So it was people...", start: 1669.56, end: 1670.54, zh: "所以那是……"}
+  - {text: "And one of the reasons why Charles II wanted to shut down the coffee houses is because people who weren't cautious and politicians were discussing politics.", start: 1670.54, end: 1678.14, zh: "查理二世想要关闭咖啡馆的原因之一，是因为那些非谨慎人士和政治家们正在讨论政治。（cautious 谨慎的，此处指非官方或不受约束的）"}
+  - {text: "How dare they enter into political debate and think that they could have something to say about the future of the country?", start: 1678.30, end: 1684.22, zh: "他们竟敢参与政治辩论，并认为自己对国家的未来有话可说？"}
+  - {text: "Jonathan Morris, what's happening with the production of coffee and how is it produced and how much labour is involved and what do you have to say about that?", start: 1685.28, end: 1695.36, zh: "乔纳森·莫里斯，咖啡的生产情况如何？它是如何生产的？涉及多少劳动力？对此你有什么看法？"}
+  - {text: "Right. Well, I think what we need to think about is that at this point, as coffee spreads into more general use in Europe, so virtually all of those imperial countries start creating colonies", start: 1696.00, end: 1708.50, zh: "好的。我认为我们需要思考的是，在这个阶段，随着咖啡在欧洲的普及，几乎所有那些帝国国家都开始建立殖民地（imperial countries 帝国国家；colonies 殖民地）"}
+  - {text: "or start planting into their colonies coffee and creating plantations to cultivate it.", start: 1708.50, end: 1713.82, zh: "或者开始在殖民地种植咖啡，并建立种植园来培育它。（plantations 种植园）"}
+  - {text: "Probably the largest coffee suppliers are the French.", start: 1714.54, end: 1719.92, zh: "最大的咖啡供应国可能是法国。（suppliers 供应者，此处指供应国）"}
+  - {text: "The French take coffee to the Caribbean.", start: 1720.24, end: 1722.64, zh: "法国人将咖啡带到了加勒比地区。（Caribbean 加勒比地区）"}
+  - {text: "They take it to Martinique, but most of all they plant in what is then called San Domingue, what we now refer to as Haiti.", start: 1723.24, end: 1730.74, zh: "他们把它带到了马提尼克，但主要是在当时被称为圣多明各的地方种植，也就是我们现在所说的海地。（Martinique 马提尼克；San Domingue 圣多明各，海地旧称）"}
+  - {text: "By the 1760s, 1770s, that has well over half of the world's coffee is being produced there.", start: 1731.42, end: 1738.30, zh: "到了1760年代和1770年代，那里生产的咖啡已经占全球总产量的一半以上。（By the 1760s 到1760年代；well over 远远超过）"}
+  - {text: "All of that production is carried out using slave production.", start: 1739.10, end: 1743.40, zh: "所有的这些生产都是依靠奴隶劳动完成的。（slave production 奴隶劳动；carried out 执行，进行）"}
+  - {text: "Is that okay? Or is there a ripple beginning to turn to a flood that that's not okay?", start: 1743.78, end: 1747.74, zh: "这可以接受吗？还是说涟漪开始变成洪水，意味着这不可接受？（ripple 涟漪；flood 洪水）"}
+  - {text: "So what happens particularly in San Domingue is that with the outbreak, as it were, the development of Enlightenment ideas and the outbreak of the French Revolution in Paris itself,", start: 1748.74, end: 1759.74, zh: "特别是在圣多明各，随着启蒙思想的发展以及巴黎法国大革命的爆发，"}
+  - {text: "that those ideas also penetrate into San Domingue.", start: 1760.18, end: 1762.74, zh: "这些思想也渗透到了圣多明各。（penetrate 渗透；San Domingue 圣多明各）"}
+  - {text: "And they begin to agitate for their rights.", start: 1763.24, end: 1766.44, zh: "他们开始争取自己的权利。（agitate for 为……而鼓动，争取）"}
+  - {text: "This ultimately coincides in the creation of what becomes the Haitian Revolution in which both as it were Jean de Colleur pushing for the emancipation of slaves and the slaves themselves become involved.", start: 1766.64, end: 1780.68, zh: "这最终与海地革命的爆发相吻合，在这场革命中，无论是主张废除奴隶制的让·德·科勒，还是奴隶们自己，都参与其中。（Haitian Revolution 海地革命；emancipation 解放；Jean de Colleur 让·德·科勒，此处可能指代相关历史人物或口误）"}
+  - {text: "That ultimately leads to, as we know, the creation of the First Black Republic in Haiti, which unfortunately also leads to pretty much the destruction of the coffee system in Haiti.", start: 1780.68, end: 1792.84, zh: "这最终导致了我们在海地看到的第一个黑人共和国的建立，但不幸的是，这也导致了海地咖啡体系的几乎彻底毁灭。（First Black Republic 第一个黑人共和国；destruction 毁灭）"}
+  - {text: "So about a thousand plantations are destroyed.", start: 1793.02, end: 1795.38, zh: "大约有1000个种植园被摧毁。（plantations 种植园）"}
+  - {text: "Interesting, quite a few of the leaders of the revolution, not least Toussaint Louverture himself, were in some way coffee producers.", start: 1796.20, end: 1805.42, zh: "很有意思，革命领袖中相当多的人，尤其是杜桑·卢维杜尔本人，都以某种方式从事咖啡生产。（Toussaint Louverture 杜桑·卢维杜尔，海地革命领袖）"}
+  - {text: "So we have this kind of very confused situation, but the end of it, what we end up with is the destruction of first the coffee industry in Haiti", start: 1806.06, end: 1814.36, zh: "所以我们面临一种非常混乱的局面，但最终的结果是海地的咖啡产业首先被摧毁了。（Haiti 海地）"}
+  - {text: "and then once the Haitian Republic is established its inability to re -enter into the trade because of the refusal of many of the rest of", start: 1814.36, end: 1822.82, zh: "随后，随着海地共和国的建立，由于世界上许多其他国家拒绝……（Haitian Republic 海地共和国）"}
+  - {text: "the world to do business with the Black Republic.", start: 1822.82, end: 1824.88, zh: "与这个黑人共和国进行贸易，导致海地无法重新进入贸易市场。（Black Republic 黑人共和国，指海地）"}
+  - {text: "Mark Minnellis, what criticisms were of the new coffee culture, both the slavery side and the idea of these rampaging associations in London, that sort of thing?", start: 1825.28, end: 1834.74, zh: "马克·米内利斯，关于新的咖啡文化，无论是奴隶制方面，还是伦敦那些喧闹的协会之类，当时有哪些批评声音？（Mark Minnellis 马克·米内利斯，嘉宾名）"}
+  - {text: "So coffee had always had its detractors from when it first arrived, this strange black, hot, bitter drink.", start: 1835.06, end: 1842.20, zh: "咖啡从最初传入起就一直有反对者，毕竟这是一种奇怪的、黑色的、热且苦的饮料。（detractors 反对者，批评者）"}
+  - {text: "So it was an obvious sort of subject for satirical attacks and criticism.", start: 1842.86, end: 1847.02, zh: "因此，它自然而然地成为了讽刺攻击和批评的明显对象。（satirical 讽刺的）"}
+  - {text: "It had critics of its physiological effects as well that we've been hearing about.", start: 1847.64, end: 1852.46, zh: "正如我们之前听到的，也有人批评它对生理的影响。（physiological 生理的）"}
+  - {text: "I mean medically, people accused it of being both an intoxicant and an aphrodisiac, but also causing impotence and obstructing the bowels and things like that.", start: 1852.62, end: 1862.96, zh: "从医学角度看，人们指责它既是致醉物又是催情剂，但同时还会导致阳痿和便秘等问题。（intoxicant 致醉物；aphrodisiac 催情剂）"}
+  - {text: "And then people also accused it of wasting people's time hanging around in coffee houses talking to each other, keeping talking because that's the effect that coffee has long into the night when people should have been working.", start: 1863.10, end: 1876.14, zh: "此外，人们还指责咖啡让人在咖啡馆里闲聊浪费时间，因为咖啡会让人彻夜长谈，而那时人们本该在工作。（coffee houses 咖啡馆）"}
+  - {text: "So apprentices and law students are particularly accused of spending far too much time in the coffee house.", start: 1876.42, end: 1881.40, zh: "因此，学徒和法学院学生尤其被指责在咖啡馆里消磨了太多时间。（apprentices 学徒；law students 法学院学生）"}
+  - {text: "People also accused it of being an exotic luxury, wasting the nation's hard currency for a product which has no nutritional value.", start: 1882.10, end: 1893.98, zh: "人们还指责咖啡是一种异国情调的奢侈品，为了这种没有营养价值的产品而浪费国家的硬通货。（exotic luxury 异国情调的奢侈品；hard currency 硬通货，可自由兑换的货币）"}
+  - {text: "And so there's sort of connection between physiological fear of the effects that coffee was having on British masculinity as it were on British men and the social effects", start: 1896.33, end: 1913.24, zh: "因此，在某种程度上，存在着一种联系，即对咖啡对英国男性气质（或者说对英国男性）产生生理影响的恐惧，与咖啡的社会影响之间……（physiological 生理的；masculinity 男性气质）"}
+  - {text: "that coffee having becomes a sort of vector for hostility to coffee and to coffee houses.", start: 1913.24, end: 1917.84, zh: "……咖啡成为了针对咖啡和咖啡馆的敌意的一种载体。（vector 载体，传播媒介）"}
+  - {text: "Judith, Judith Hawley, coffee drinking, coffee trade declined in the 90th century, how was that?", start: 1918.60, end: 1925.56, zh: "朱迪丝，朱迪丝·霍利，在19世纪，咖啡饮用和咖啡贸易衰退了，这是怎么回事？（Judith Hawley 朱迪丝·霍利，嘉宾姓名；90th century 19世纪，此处指1800s）"}
+  - {text: "A number of reasons, I think cultural, commercial, geographical changes happened over the course of about 50 years.", start: 1926.00, end: 1934.04, zh: "我认为有很多原因，在大约50年的时间里，发生了文化、商业和地理上的变化。（cultural, commercial, geographical 文化、商业、地理的）"}
+  - {text: "In the middle of the 18th century the royal family took to tea drinking and coffee was no longer quite such the buzzy drink.", start: 1934.46, end: 1942.70, zh: "在18世纪中叶，王室开始流行喝茶，咖啡不再那么时髦了。（buzzy 时髦的，流行的）"}
+  - {text: "Tea became more refined.", start: 1943.24, end: 1944.80, zh: "茶变得更加精致了。（refined 精致的，高雅的）"}
+  - {text: "Tea was also something that you could drink at home so it could be more widespread.", start: 1945.18, end: 1948.72, zh: "茶也是可以在家喝的，所以它可以更普及。（widespread 普及的，广泛的）"}
+  - {text: "Coffee was something you drank in a coffee house, all men.", start: 1948.72, end: 1951.82, zh: "咖啡则是在咖啡馆里喝的，而且全是男性。（coffee house 咖啡馆）"}
+  - {text: "You could drink at home, the lady at the house could preside over the tea table.", start: 1952.16, end: 1955.84, zh: "你可以在家里喝，家里的夫人可以主持茶桌。（preside over 主持，负责；tea table 茶桌，喝茶的地方）"}
+  - {text: "Also because of the Dutch East India Company doing so well with coffee trade, the British East India Company I think put more of its effort into tea drinking.", start: 1956.68, end: 1967.20, zh: "另外，由于荷兰东印度公司在咖啡贸易上做得很好，我认为英国东印度公司将更多精力投入到了喝茶上。（Dutch East India Company 荷兰东印度公司；British East India Company 英国东印度公司）"}
+  - {text: "So there's a big commercial pressure to keep producing tea and making tea more saleable.", start: 1967.42, end: 1973.12, zh: "因此，存在着巨大的商业压力，要求继续生产茶叶并让茶叶更易于销售。（commercial pressure 商业压力；saleable 可销售的，好卖的）"}
+  - {text: "And Markman's also described how the coffee houses became kind of clubs and closed shops.", start: 1973.78, end: 1979.10, zh: "马克曼还描述了咖啡屋如何变成了某种俱乐部和封闭的小圈子。（Markman 马克曼，人名；closed shops 封闭的小圈子，不对外开放的场所）"}
+  - {text: "Some of them commercially shut themselves off to new members.", start: 1979.88, end: 1983.34, zh: "其中一些在商业上对新会员关闭了大门。（commercially 在商业上；shut themselves off 封闭，拒绝进入）"}
+  - {text: "Some of the more fashionable ones around St James's like Whites became members -only clubs.", start: 1983.86, end: 1989.48, zh: "圣詹姆斯附近一些更时尚的咖啡馆，比如怀特咖啡馆，变成了仅限会员进入的俱乐部。（St James's 圣詹姆斯，伦敦地名；Whites 怀特咖啡馆，伦敦著名咖啡馆；members-only 仅限会员的）"}
+  - {text: "They became elite institution and became associated with gambling.", start: 1989.58, end: 1993.70, zh: "它们变成了精英机构，并与赌博联系在一起。（elite institution 精英机构；associated with 与……有关）"}
+  - {text: "Also when city merchants started to move out of the city of London and didn't live there anymore these premises couldn't really keep going because if", start: 1994.92, end: 2004.12, zh: "此外，当城市商人开始搬出伦敦市区，不再住在那里时，这些场所真的难以维持下去了，因为……（city merchants 城市商人；premises 场所，建筑物）"}
+  - {text: "all the merchants were living above the shop they could go to the coffee house several times a day and peeps describes going to a coffee house three or four times a day.", start: 2004.12, end: 2011.16, zh: "如果所有商人都住在店铺楼上，他们一天可以去好几次咖啡屋，有人描述说一天去三到四次。（peeps 人们，口语用法；describes 描述）"}
+  - {text: "But once you're no longer living in the city it became more of a working -class drink in the 19th century.", start: 2011.52, end: 2016.72, zh: "但一旦你不再住在城里，在19世纪，咖啡就变成了更多是工人阶级的饮品。（working-class 工人阶级的；19th century 19世纪）"}
+  - {text: "So there were coffee shacks and carts like the sort of street carts that you get still in London you get all over New York that", start: 2017.30, end: 2023.04, zh: "当时有很多咖啡摊和手推车，就像你在伦敦街头或者纽约随处可见的那种。（shacks 简陋的小屋或摊位；carts 手推车）"}
+  - {text: "is a cheap quick drink to perk you up.", start: 2023.04, end: 2025.18, zh: "这是一种便宜又快捷的提神饮品。（perk you up 让你精神起来，提神）"}
+  - {text: "And the temperance movement sponsored coffee taverns to try to wean working men off going to the pub for lunch.", start: 2025.90, end: 2032.90, zh: "禁酒运动支持开设咖啡馆，试图让工人们不再去酒吧吃午饭。（temperance movement 禁酒运动；sponsored 赞助，支持；wean 使逐渐戒除，使摆脱）"}
+  - {text: "So it moved it declined seriously and has never fully recovered even in the current coffee boom.", start: 2033.68, end: 2039.98, zh: "所以它衰退了，严重下滑，即使在当前的咖啡热潮中也从未完全恢复。（declined 衰退，下降；recovered 恢复）"}
+  - {text: "Jonathan Morris how did coffee become so very popular in America?", start: 2041.32, end: 2046.96, zh: "乔纳森·莫里斯，咖啡是如何在美国变得如此受欢迎的？（Jonathan Morris 乔纳森·莫里斯，嘉宾）"}
+  - {text: "Well America is really the first mass market for coffee and what we see is obviously a gradual increase over the 19th century but we see a big growth immediately after the Civil War", start: 2047.86, end: 2058.38, zh: "美国其实是咖啡的第一个大众市场，我们显然看到十九世纪逐渐增长，但在内战结束后立即出现了大幅增长。（mass market 大众市场；Civil War 内战）"}
+  - {text: "and that's probably because in terms of the armies of the Civil War the Confederate army consumed a large amount of coffee coffee obviously has psychoactive properties", start: 2058.38, end: 2068.04, zh: "这可能是因为在内战军队中，邦联军队消耗了大量咖啡，咖啡显然具有精神活性特性。（Confederate army 邦联军队，即南方军队；psychoactive properties 精神活性特性，指影响大脑功能的特性）"}
+  - {text: "which we've discussed that was seen as a good thing by the generals to keep their soldiers alert their soldiers became very keen on coffee and were drinking coffee", start: 2068.04, end: 2075.72, zh: "正如我们讨论过的，将军们认为这是好事，可以保持士兵警觉，士兵们也非常热衷于喝咖啡。（alert 警觉的，清醒的；keen on 热衷于，喜欢）"}
+  - {text: "as they put it between meals with meals after meals on every route march we have to have coffee before we start and so forth.", start: 2075.72, end: 2082.46, zh: "正如他们所说，饭前、饭后、每段行军路上都要喝咖啡，出发前必须喝咖啡等等。（route march 行军路线，行军；so forth 等等）"}
+  - {text: "So the coffee ration that was actually given to each soldier probably would have supported about making 10 cups of coffee a day.", start: 2082.60, end: 2089.48, zh: "所以实际上发给每个士兵的咖啡配给量，大概只够每天做大约十杯咖啡。（ration 配给量，定量）"}
+  - {text: "Obviously once those people are demobilized that's quite a latent demand for coffee and that they're also then demobilized into the society at the time of", start: 2090.20, end: 2099.78, zh: "显然，一旦这些人复员，就会产生对咖啡的潜在巨大需求，而且他们复员后回归社会时……（demobilized 复员；latent demand 潜在需求）"}
+  - {text: "the Great Expansion of moving out westwards moving out on the ranches the cowboys etc and that creates a further demand for coffee to support that and we see that being then addressed through technological discoveries.", start: 2099.78, end: 2116.16, zh: "……正值西部大开发时期，人们向西迁移，去牧场做牛仔等，这进一步刺激了咖啡需求，而这一需求随后通过技术发现得到满足。（Great Expansion 西部大开发；ranches 牧场）"}
+  - {text: "Most of all through the creation of an industrial coffee roasting plant and industrial coffee roasting as a business.", start: 2116.36, end: 2123.26, zh: "尤其是通过建立工业化的咖啡烘焙工厂，以及将工业咖啡烘焙作为一项商业业务。（roasting 烘焙）"}
+  - {text: "So by 1873 we have the first branded coffee that's called Ariosa very much marketed at people making that restored move and marketed by a company called Arbuckles in Philadelphia", start: 2124.00, end: 2136.48, zh: "因此到1873年，我们有了第一款品牌咖啡，名为Ariosa，主要面向那些进行西部迁移的人群，由费城一家名为Arbuckles的公司推广。（branded coffee 品牌咖啡；Ariosa 咖啡品牌名；Arbuckles 公司名）"}
+  - {text: "and from there that we see by 1913 that basically about 85 % of American consumption is of branded coffee so there has been the creation of this market for an industrial commodity.", start: 2136.48, end: 2152.00, zh: "从那时起，我们看到到1913年，美国大约85%的咖啡消费都是品牌咖啡，这意味着一个工业商品市场已经形成。（commodity 商品）"}
+  - {text: "Thank you. Markman Ellis let's turn to Brazil which at one stage was the biggest producer is it still anyway the biggest producer of coffee in the world 70 % I think of the world's coffee produced in Brazil", start: 2152.82, end: 2164.20, zh: "谢谢。Markman Ellis，让我们转向巴西，它在某个阶段是最大的生产国，它现在还是吗？我认为巴西生产了全球70%的咖啡。（producer 生产者）"}
+  - {text: "80 % of the 70 % went to America can you tell us how that happened?", start: 2164.78, end: 2168.54, zh: "这70%中有80%出口到了美国，你能告诉我们这是怎么发生的吗？"}
+  - {text: "Yeah so the demand which Jonathan has just been describing that grows in America in the 19th century had to come from somewhere and it wasn't America", start: 2169.20, end: 2175.86, zh: "是的，Jonathan刚才描述的19世纪美国不断增长的需求，必然来自其他地方，而那个地方不是美国。（demand 需求）"}
+  - {text: "and Brazil grows in importance in the coffee trade.", start: 2176.68, end: 2181.18, zh: "巴西在咖啡贸易中的重要性日益提升。"}
+  - {text: "So coffee had been first been taken to Brazil in 1727 in the beginning of the 18th century but it's not really till the beginning of the 19th century that the plantations really take off.", start: 2181.50, end: 2191.22, zh: "咖啡最早于1727年，即18世纪初被引入巴西，但直到19世纪初，种植园才真正开始大规模发展。（plantations 种植园）"}
+  - {text: "In Brazil they're particularly on the Atlantic seaboard around Rio de Janeiro and Sao Paulo they're they expand in size coffee plantations in Brazil are massive compared to other places", start: 2191.64, end: 2205.88, zh: "在巴西，特别是里约热内卢和圣保罗附近的沿海地区，咖啡种植园规模巨大，远超其他地区。（seaboard 海岸线；Rio de Janeiro 里约热内卢；Sao Paulo 圣保罗）"}
+  - {text: "the labor that's used on them is slave labor far later than anywhere else from inside Brazil or?", start: 2206.86, end: 2214.48, zh: "这些种植园使用的劳动力是奴隶，而且比世界上其他地方废除奴隶制的时间都要晚得多，这些奴隶是从巴西内部还是……（slave labor 奴隶劳动）"}
+  - {text: "Again from Africa and imported from Africa and the slave trade wasn't abolished in Brazil until 1850 and the slavery itself wasn't abolished until 1888 which is a long time after anywhere else", start: 2214.68, end: 2227.98, zh: "再次强调，是从非洲进口的，巴西直到1850年才废除奴隶贸易，而奴隶制度本身直到1888年才废除，这比世界上其他地方都要晚很久。（slave trade 奴隶贸易；abolished 废除）"}
+  - {text: "so that these are big industrialised slave driven coffee plantations in a fertile country using forms of quite destructive agriculture which used which you know deforested it has said deforested the Atlantic seaboard of Brazil and produced large quantities of coffee relatively cheaply", start: 2228.54, end: 2253.42, zh: "因此，这些是大型工业化、由奴隶驱动的咖啡种植园，位于一个肥沃的国家，采用了相当具有破坏性的农业形式，导致巴西沿海地区森林被砍伐，以相对较低的成本生产了大量咖啡。（deforested 砍伐森林；destructive agriculture 破坏性农业）"}
+  - {text: "so the demand in America is growing and in Europe and Brazil was able to supply cheap but also relatively high quality coffee in huge quantity so that by the from the period from", start: 2254.42, end: 2265.80, zh: "所以，美国和欧洲的需求在增长，而巴西能够以低廉的价格供应大量相对高质量的咖啡，因此从……（demand 需求）"}
+  - {text: "1870 through to 1950 Brazil supplied more than 50 % some years up to 70 % of the world's global supply of coffee and it's still by far the largest producer I think about you know somewhere between a third and a half of the global production", start: 2266.60, end: 2281.74, zh: "1870年到1950年期间，巴西供应了全球超过50%的咖啡，有些年份甚至高达70%，它仍然是目前最大的生产国，我认为占全球产量的三分之一到一半左右。（global supply 全球供应量）"}
+  - {text: "is Brazil given the slaves have gone how does it produce it now?", start: 2282.44, end: 2286.46, zh: "既然奴隶已经消失，巴西现在是如何生产咖啡的？"}
+  - {text: "so after slavery was abolished and the people who had previously been slaves were unwilling to work on the plantations as you can imagine they tried indentured labour especially from southern Europe and from Japan which accounts for the large,", start: 2287.26, end: 2302.56, zh: "所以在奴隶制被废除后，前奴隶们显然不愿意在种植园工作，他们尝试使用契约劳工，特别是来自南欧和日本，这解释了巴西大量的……（indentured labour 契约劳工）"}
+  - {text: "partly accounts for the large populations of Japanese and Italian immigrants in Brazil and they mechanized more of the production so that it didn't require as much labour", start: 2302.86, end: 2315.96, zh: "部分解释了巴西大量的日本和意大利移民人口，并且他们使生产过程的机械化程度更高，从而减少了对劳动力的需求。（mechanized 机械化）"}
+  - {text: "when slave labour is not available then the next step is steam driven how big was this trade compared to other trades that were going on cotton and all the rest of it?", start: 2315.96, end: 2326.64, zh: "当没有奴隶劳动力时，下一步就是蒸汽动力，与棉花等其他贸易相比，这项贸易规模有多大？（steam driven 蒸汽驱动）"}
+  - {text: "was this a big deal?", start: 2326.64, end: 2327.88, zh: "这算是一桩大事吗？（big deal 大事，重要的事）"}
+  - {text: "well in terms of Brazil it's the biggest deal without a doubt so for Brazil that's the number one agricultural commodity at that time so the Brazilian economy is based on that right up until really the middle of the 20th century", start: 2328.44, end: 2341.04, zh: "就巴西而言，这绝对是头等大事。当时咖啡是巴西第一大农产品，直到20世纪中叶，巴西的经济都建立在咖啡之上。（commodity 商品，货物）"}
+  - {text: "Judith do we know that the taste of coffee, the making of coffee has changed has it changed, how radical has it changed are we drinking the same stuff they don't?", start: 2341.90, end: 2352.38, zh: "朱迪丝，我们知道咖啡的味道和制作工艺发生了变化吗？变化有多大？我们喝的是和以前一样的东西吗？（radical 剧烈的，根本的）"}
+  - {text: "I think we're drinking very different stuff Mark when actually has a very good phrase for this I think because it's the ugo of sir reverence it has the goo the taste, the ugo of sir reverence which means excrement", start: 2352.64, end: 2364.60, zh: "我觉得我们喝的东西已经大不相同了。马克有个很贴切的说法，我想是因为它带有“ugo of sir reverence”的味道，也就是粪便味。（excrement 排泄物，粪便）"}
+  - {text: "the introduction of milk the gradual control of the roasting process so you could roast coffee beans to at different temperatures in a more stable way the removal of impurities", start: 2365.66, end: 2382.16, zh: "牛奶的加入，烘焙过程的逐渐可控，使得咖啡豆能以不同温度更稳定地烘焙，以及杂质的去除。（roasting 烘焙，焙烤）"}
+  - {text: "that all improved coffee but at the same time some much worse coffee was coming on the market so in the late 19th century there was a terrible disease of the coffee plant", start: 2382.16, end: 2393.36, zh: "这些都改善了咖啡，但与此同时，市场上也出现了更劣质的咖啡。19世纪末，咖啡树爆发了一场可怕的病害。（impurities 杂质，污染物）"}
+  - {text: "that wiped out over the course of about 30 years most of the coffee plantations in the West Indies the Dutch managed to source a different type of coffee called Robusta in the Congo", start: 2393.36, end: 2405.90, zh: "这场病害在大约30年间摧毁了西印度群岛大部分咖啡种植园。荷兰人在刚果找到了一种名为罗布斯塔的不同类型咖啡。（Robusta 罗布斯塔咖啡，一种咖啡品种）"}
+  - {text: "and Robusta is the coffee which now is produced a lot of it is produced in Brazil but also in Vietnam and it's a cheaper, nastier burnt rubber sort of taste", start: 2405.90, end: 2418.32, zh: "罗布斯塔咖啡现在产量很大，主要产自巴西，也有越南，它更便宜，味道更差，有一种烧焦橡胶般的口感。（nastier 更糟糕的，更难喝的）"}
+  - {text: "so therefore we're talking about addiction if people are going to keep swallowing this is that right?", start: 2418.32, end: 2422.74, zh: "所以我们在谈论成瘾，如果人们还要继续吞下这东西，是这样吗？（addiction 成瘾，上瘾）"}
+  - {text: "so the caffeine theory of coffee's victory over our taste buds would suggest that it is the addictiveness which keeps us drinking but I think that coffee has a complicated array of effects", start: 2423.30, end: 2436.60, zh: "所以，关于咖啡征服我们味蕾的咖啡因理论认为，是成瘾性让我们一直喝下去，但我认为咖啡有着复杂多样的影响。（taste buds 味蕾）"}
+  - {text: "and the idea that it's a sort of social drug a thinking drug is also really important in the way we approach coffee do you have evidence for that?", start: 2436.60, end: 2446.14, zh: "而且咖啡作为一种社交性药物或思维助剂的观念，对我们看待咖啡的方式也至关重要，你有这方面的证据吗？（social drug 社交性药物；thinking drug 思维助剂）"}
+  - {text: "that's a thinking drug only my own experience you've got your own experience that's useful, what does it do to you?", start: 2449.06, end: 2457.30, zh: "说是思维助剂？只有你自己的经验？你有自己的经验，这很有用，它对你有什么影响？（experience 经验）"}
+  - {text: "the morning doesn't work until I've had my coffee same for Voltaire, same for Balzac Voltaire wrote the Enlightenment on 40 cups of coffee a day Balzac kind of invented France in a way, he invented Paris in his amazing novels by drinking coffee all night", start: 2457.66, end: 2474.64, zh: "没喝咖啡早晨就不灵，伏尔泰和巴尔扎克也是如此，伏尔泰每天喝40杯咖啡写出了启蒙运动著作，巴尔扎克某种程度上创造了法国，他整夜喝咖啡在惊人的小说中发明了巴黎。（Voltaire 伏尔泰；Balzac 巴尔扎克；Enlightenment 启蒙运动）"}
+  - {text: "well that's a bit of good enough for Voltaire, what do you say?", start: 2475.85, end: 2478.31, zh: "嗯，这对伏尔泰来说算是个不错的说法，你怎么看？（good enough 足够好，尚可）"}
+  - {text: "good enough for Balzac?", start: 2478.45, end: 2479.83, zh: "对巴尔扎克来说也足够好了吗？（good enough 足够好，尚可）"}
+  - {text: "it's good enough for Balzac, that was probably well 50 cups of coffee a day strikes me as a little bit excessive but I would say coffee it's addictive", start: 2480.35, end: 2489.13, zh: "对巴尔扎克来说足够好了，那大概每天50杯咖啡吧，我觉得有点过火了，但我会说咖啡是让人上瘾的。（excessive 过火的，过度的；addictive 令人上瘾的）"}
+  - {text: "but that addiction is quite a mild addiction and in fact coffee is very much like alcohol really we process we each process our coffee in different ways", start: 2489.13, end: 2499.09, zh: "但这种上瘾其实很轻微，事实上咖啡和酒精非常相似，我们各自处理咖啡的方式不同。（mild 轻微的；process 处理，代谢）"}
+  - {text: "as a half -life in our body we can probably take a certain amount of coffee without becoming addicted to craving the next cup of coffee", start: 2499.09, end: 2506.33, zh: "它在体内的半衰期意味着，我们可能摄入一定量咖啡而不会上瘾或渴望下一杯。（half-life 半衰期；craving 渴望）"}
+  - {text: "to go around the table how in your view has coffee changed society?", start: 2506.33, end: 2511.55, zh: "让我们围坐一圈，在你看来咖啡如何改变了社会？（go around the table 轮流发言）"}
+  - {text: "it's a small question to ask you starting with you well I think coffee I think places puts people in a place where they can be more sociable be together more often", start: 2511.81, end: 2526.69, zh: "这是个简单的问题，先从你开始，我认为咖啡把人们带到一个更社交、更常相聚的地方。（sociable 爱社交的；places 场所，地点）"}
+  - {text: "in a way which is reflective and philosophical and maybe sociable and discursive so it adds to the way in which we suffer each other when we live closely together in cities thank you", start: 2527.45, end: 2540.81, zh: "这种方式具有反思性和哲理性，可能还带有社交性和漫谈性质，它丰富了我们在城市中紧密生活时相互忍受彼此的方式，谢谢。（reflective 反思的；discursive 漫谈的，散漫的）"}
+  - {text: "that was Mark Amalis I didn't introduce him at the beginning of my question now Judith I think if we look at the way coffee consumption is going today", start: 2540.81, end: 2548.47, zh: "刚才发言的是马克·阿米利斯，我在提问开始时忘了介绍他。现在朱迪思，我认为如果我们看看今天咖啡消费的趋势……（consumption 消费；going 趋势，走向）"}
+  - {text: "it seems to me to set out two quite radical alternatives for the world one is the world of corporate coffee the coffee chains existing on", start: 2548.91, end: 2558.11, zh: "在我看来，这为世界设定了两种截然不同的激进选择，一种是企业咖啡的世界，即那些依靠……存在的咖啡连锁店。（radical 激进的，根本性的；corporate 企业的，公司的）"}
+  - {text: "a low wage economy so you have that kind of mass coffee market on the one hand on the other hand you have these micro lotter states fair trade coffee the sort of hipster coffee", start: 2558.72, end: 2571.83, zh: "低工资经济，所以一方面是有这种大众咖啡市场，另一方面则是这些微型庄园、公平贸易咖啡，也就是那种极客风咖啡。（micro lot 微型庄园，小批量咖啡；fair trade 公平贸易；hipster 极客，文艺青年）"}
+  - {text: "which is as varied and as interesting as fine wines and it's made in an artisanal way and designed to be consumed by a kind of small self -selecting perhaps", start: 2571.83, end: 2586.57, zh: "这种咖啡像葡萄酒一样多样且有趣，采用手工方式制作，旨在被一种自我选择的小众群体消费……（varied 多样的；artisanal 手工的；self-selecting 自我选择的）"}
+  - {text: "but it's a very different model of how to live and Jonathan I'm going to start by disagreeing a little bit because the corporate chains that you're referring to actually created", start: 2587.45, end: 2598.29, zh: "但它是一种完全不同的生活模式。乔纳森，我想先稍微反驳一下，因为你所指的那些企业连锁实际上创造了精品咖啡市场。（disagreeing 不同意，反驳；specialty coffee 精品咖啡）"}
+  - {text: "that market for the specialty coffee and in fact I think the big division we have to think about is really the division between coffee being drunk", start: 2598.29, end: 2605.89, zh: "事实上，我认为我们必须思考的真正分野，是咖啡作为咖啡在咖啡馆饮用，与作为咖啡产品的大众咖啡之间的区别。（division 分野，区别；drunk 饮用，喝）"}
+  - {text: "as coffee in the coffee shop and the kind of mass coffee that we have as coffee products most of which is drunk in the home or used in other ways in the home and that actually reflects back into the coffee market", start: 2605.89, end: 2617.47, zh: "大多数大众咖啡是在家中饮用或以其他方式使用，这实际上反映到了咖啡市场上。（mass coffee 大众咖啡；reflects back 反映回，回馈）"}
+  - {text: "because if I was going to make a difference it would be between the kind of mechanised large scale farming that Markman's been talking about in Brazil", start: 2618.07, end: 2625.87, zh: "因为如果我要做出区分，那将是马克曼提到的巴西那种机械化大规模种植，与世界上绝大多数由小农户种植的咖啡之间的区别。（mechanised 机械化的；large scale 大规模的）"}
+  - {text: "and the vast majority of coffee in the world which is grown by small holders across Africa and Asia where they have very small amounts of land and are growing as a subsistence crop", start: 2625.87, end: 2635.67, zh: "这些咖啡主要种植在非洲和亚洲，那里的农户拥有非常少的土地，将其作为自给自足的作物种植。（small holders 小农户；subsistence crop 自给自足作物）"}
+  - {text: "and the problem that we have and if you like the problem coming out of history is that because labour has always been historically very lowly compensated in the coffee industry the price", start: 2636.15, end: 2647.87, zh: "我们面临的问题，或者说从历史中浮现出的问题是，由于咖啡行业中的劳动力历来报酬极低，价格……（compensated 补偿，报酬；small holders 小农户）"}
+  - {text: "that goes back and gets back to those small holders is very very low and consequently very frequently does not actually reflect the labour that they put in to the point", start: 2647.87, end: 2659.79, zh: "回流到那些小农户手中的价格非常非常低，因此往往无法真正反映他们付出的劳动，以至于……（consequently 因此，结果）"}
+  - {text: "that they may actually if this is priced out correctly be losing money by growing coffee for us to consume.", start: 2659.79, end: 2666.57, zh: "如果定价合理，他们种植咖啡供我们消费实际上可能是在亏本。（priced out 定价，核算成本）"}
+  - {text: "Well that's a rather bleak ending but none the worse for that, thank you very much thank you very much Jonathan Morris, Markman Ellis and Judith Hawley.", start: 2667.55, end: 2676.03, zh: "这确实是个相当黯淡的结尾，但无伤大雅，非常感谢，非常感谢乔纳森·莫里斯、马克曼·埃利斯和朱迪思·霍利。（bleak 黯淡的，阴郁的）"}
+  - {text: "Next week stop all the clocks, cut off the telephone as we'll be discussing WH Orden and his poetry from the dark days of the 1930s thank you very much for listening.", start: 2676.11, end: 2685.91, zh: "下周我们将暂停一切时钟，切断电话，因为我们要讨论W.H.奥登及其在1930年代黑暗时期的诗歌，非常感谢收听。（W.H. Auden W.H.奥登，英国诗人）"}
+  - {text: "And the In Our Time podcast gets some extra time now with a few minutes of bonus material from Melvin and his guests.", start: 2686.75, end: 2693.11, zh: "现在，《我们的时代》播客将额外增加几分钟时间，带来梅尔文和他的嘉宾的一些额外素材。（bonus material 额外素材，加餐内容）"}
+  - {text: "I came across two very interesting facts about coffee recently when Jonathan was talking about the importance of coffee to American soldiers I came across a fact", start: 2693.71, end: 2706.63, zh: "最近我发现了两个关于咖啡的有趣事实，当乔纳森谈到咖啡对美国士兵的重要性时，我发现了一个事实……（tallies with 与……相符，一致）"}
+  - {text: "which sort of tallies with that that as the Swiss government stockpiles essential food stocks in case of nuclear wars and I presume and rather hope", start: 2706.63, end: 2716.51, zh: "这与那个事实相符，即瑞士政府会储备必要的食物以防核战，我推测并相当希望……（stockpiles 储备，囤积）"}
+  - {text: "that other governments do too and they have a huge stockpile of tons and tons of coffee and they thought this isn't really an essential and it's taking out room that could be taken up with lithium ion batteries or whatever they thought was more essential", start: 2716.51, end: 2727.65, zh: "其他政府也这样做，他们拥有大量的咖啡储备，吨数惊人，他们认为这并非必需品，占用了本可以存放锂离子电池或其他他们认为更必需品的空间……（lithium ion batteries 锂离子电池）"}
+  - {text: "sardines or soya or whatever but the Swiss people rose up and said no we must coffee is an essential, we've got to keep it the other thing I came across recently which", start: 2728.43, end: 2739.81, zh: "比如沙丁鱼或大豆之类，但瑞士人民奋起反抗说：不，咖啡是必需品，我们必须保留它。我最近发现的另一件事是……（rose up 奋起，起来反抗）"}
+  - {text: "surprised me a lot and somehow brings together the two ends of our history the kind of the Arabian oriental history and the modern European history and that is that in Algeria", start: 2740.33, end: 2753.75, zh: "这让我非常惊讶，它似乎将我们历史的两端联系在了一起，即阿拉伯东方历史和现代欧洲历史，这一点在阿尔及利亚体现得尤为明显。"}
+  - {text: "in the 19th and 20th centuries when the French colonised Algeria there was a thriving Algerian coffee culture which is very like the oriental culture men drinking in the afternoon chatting along tonight drinking", start: 2754.53, end: 2766.79, zh: "在十九和二十世纪，当法国殖民阿尔及利亚时，那里有着繁荣的阿尔及利亚咖啡文化，这与东方文化非常相似，男人们在下午聚在一起聊天，然后晚上一起喝酒。（colonised 殖民；thriving 繁荣的）"}
+  - {text: "that kind of coffee the French brought coffee with them as a colonising force and they couldn't really understand they rather look down on this local coffee culture they thought", start: 2766.79, end: 2777.45, zh: "法国人作为殖民力量带来了他们那种咖啡，他们其实无法理解，甚至有点瞧不起这种当地的咖啡文化，他们认为……（look down on 瞧不起，轻视）"}
+  - {text: "that these people were as Markman was talking about the gossip and the idleness they're wasting their time sitting around gossiping whereas the French were drinking", start: 2777.45, end: 2786.15, zh: "正如马克曼所说，这些人只是在闲聊和无所事事，他们坐着闲扯是在浪费时间，而法国人则是在……（gossip 闲聊，八卦；idleness 懒惰，无所事事）"}
+  - {text: "their kind of coffee at the right time to the day first thing in the morning and after dinner were able to be fit, alert, intelligent", start: 2786.15, end: 2793.93, zh: "在一天中合适的时间喝咖啡，比如早晨第一件事和晚餐后，这样他们就能保持健康、警觉、聪明……（alert 警觉的，敏锐的）"}
+  - {text: "and efficient whereas these natives were drinking coffee in a way which rendered them luxurious and idle an interesting reflection on that is that actually coffee growing", start: 2793.93, end: 2804.65, zh: "并且高效，而这些当地人喝咖啡的方式让他们变得奢侈和懒散，对此有一个有趣的反思是，实际上咖啡种植国……（efficient 高效的；rendered 使，导致）"}
+  - {text: "and coffee growing countries which is generally as we said drink very little coffee and part of the reason for that is that actually their own governments", start: 2804.65, end: 2812.03, zh: "也就是咖啡种植国，正如我们之前所说，通常喝很少的咖啡，部分原因是实际上他们自己的政府……（growing countries 种植国）"}
+  - {text: "or their own rulers have prevented them from so doing not least for example say Kenya had a rule that you couldn't roast coffee in the country and that was in place up until the 2000s", start: 2812.03, end: 2821.95, zh: "或统治者阻止他们这样做，例如肯尼亚曾有一条规定，禁止在境内烘焙咖啡，这一规定一直持续到2000年代。（roast 烘焙，烘烤）"}
+  - {text: "what we do see is actually that where coffee is consumed in those economies it is standard instant style coffee so we have the irony that these coffee growing countries are drinking coffee in ways", start: 2822.65, end: 2836.49, zh: "我们实际上看到的是，在这些经济体中，咖啡的消费形式通常是速溶咖啡，因此存在一种讽刺现象，这些咖啡种植国喝咖啡的方式……（instant style 速溶式；irony 讽刺，反讽）"}
+  - {text: "that are very much the ways that we have developed to actually sort of compress and frankly reduce the quality of the coffee and the time", start: 2836.49, end: 2847.53, zh: "正是我们发展出来的那种实际上压缩并坦率地说降低了咖啡品质和时间的消费方式。（compress 压缩；reduce 降低，减少）"}
+  - {text: "that goes into it given that it was early thought that coffee kept the workers awake to do the real work of that time which was prayer", start: 2847.53, end: 2855.51, zh: "考虑到早期人们认为咖啡能让工人保持清醒，从而完成当时最重要的工作，也就是祈祷，所以咖啡被加进了其中。（prayer 祈祷）"}
+  - {text: "why didn't they think coffee kept workers awake to do the essential work which is picking coffee beans that's an interesting question I think that the answer would probably be A", start: 2856.27, end: 2867.48, zh: "为什么他们没觉得咖啡能让工人保持清醒去做那项至关重要的工作，也就是采摘咖啡豆？这是个有趣的问题，我觉得答案大概是A。（picking 采摘）"}
+  - {text: "because of the time that it takes to prepare from scratch because you'd have to roast your own beans on the site to start doing that", start: 2867.48, end: 2873.78, zh: "因为从零开始准备咖啡需要时间，你得先在原地自己烘焙咖啡豆才能开始。（from scratch 从零开始；roast 烘焙）"}
+  - {text: "and also because tea is the usual drink there and tea obviously your leaves are right there so you can take the tea leaves and create an infusion straight away to do", start: 2874.90, end: 2885.22, zh: "而且茶是那里的常规饮品，茶叶就在那儿，你可以直接取茶叶泡出茶汤来喝。（infusion 浸泡液，茶汤）"}
+  - {text: "that coffee is very much an urban drink and we're beginning to see the growth of coffee in as it were non -traditional markets precisely as they urbanize so", start: 2885.22, end: 2895.54, zh: "咖啡其实是一种城市饮品，我们开始看到咖啡在所谓非传统市场的增长，正是随着这些地方的城市化进程。（urbanize 城市化）"}
+  - {text: "including markets like say China Asia including now markets like Africa South and a little bit like South America so as we see increased urbanization we actually see people leaving the coffee fields going into the cities and taking up the coffee habit what about Italy,", start: 2896.58, end: 2913.62, zh: "包括像中国、亚洲，现在还有非洲南部以及南美部分地区这样的市场。随着城市化程度提高，我们实际上看到人们离开咖啡田进入城市，并开始养成喝咖啡的习惯。那意大利呢？（urbanization 城市化）"}
+  - {text: "we missed out Italy I'm going to claim it because that really is my thing I'm going to claim Italy what would you like to know about it everything you have on mind", start: 2913.78, end: 2923.02, zh: "我们漏掉了意大利，我要认领这个话题，因为这真的是我的专长。我要认领意大利。你想了解关于它的什么？你脑子里有什么想法？（claim 认领，主张）"}
+  - {text: "but briefly succinctly fine okay well Italy has obviously is very proud of its coffee culture really that coffee culture although if we said Italy is the entry point for coffee into Europe it really becomes developed with the distinctiveness of espresso", start: 2924.08, end: 2940.34, zh: "但简明扼要地说，好吧。意大利显然非常自豪于其咖啡文化，虽然如果说意大利是咖啡进入欧洲的入口，但真正发展出独特性的是浓缩咖啡。（espresso 浓缩咖啡）"}
+  - {text: "espresso is a way of basically preparing coffee and the essence of it is using pressure to speed up the time of extraction beginning of the", start: 2941.32, end: 2951.76, zh: "浓缩咖啡基本上是一种制作咖啡的方式，其核心是利用压力来加快萃取时间。（extraction 萃取）"}
+  - {text: "century you see these first wonderful big huge vertical coffee machines with big steam boilers making things that they call espresso because they're making coffee expressly", start: 2951.76, end: 2961.76, zh: "在世纪初，你看到了这些最初宏伟巨大的垂直咖啡机，带有大型蒸汽锅炉，制作出他们所谓的浓缩咖啡，因为他们是在专门制作咖啡。（vertical 垂直的；steam boilers 蒸汽锅炉）"}
+  - {text: "for each individual customer they're making it by expressing using a certain amount of steam pressure water through the coffee and they're making it much quicker though for", start: 2961.76, end: 2972.46, zh: "针对每一位顾客，他们通过用特定压力的蒸汽水穿过咖啡粉来制作，而且速度要快得多，不过……（steam pressure 蒸汽压力）"}
+  - {text: "that period it's about 40 seconds when we start thinking about espresso is really with the revolution that comes immediately after the Second World War with a Keeley Gadger", start: 2972.46, end: 2983.74, zh: "在那个时期，制作时间大约是40秒。当我们真正开始思考浓缩咖啡时，其实是在二战后紧接着的那场革命中，由一位叫Keeley Gadger的人……（espresso 浓缩咖啡；Second World War 第二次世界大战）"}
+  - {text: "who produced the lever machine which actually is kind of a spring coiled machine and consequently using that piston is able to push water through at much higher pressure it's about sort of 9 to 12 bars once", start: 2983.74, end: 2997.74, zh: "他发明了杠杆式机器，这实际上是一种弹簧卷绕式机器，因此利用那个活塞能以高得多的压力推水通过，大约是9到12个大气压，一旦……（lever machine 杠杆式机器；piston 活塞；bars 大气压，压力单位）"}
+  - {text: "that standardize with the application of electricity and so forth and Italy at that time again is urbanizing very rapidly and also venerating electricity we have the development of the Italian coffee bar fast coffee short shots delivered quickly", start: 2997.74, end: 3012.46, zh: "随着电力等应用使得标准得以统一，当时的意大利正在快速城市化，并且非常推崇电力，于是意大利咖啡吧发展起来，提供快速、短时间的咖啡，迅速送达。（urbanizing 城市化；venerating 推崇，崇拜）"}
+  - {text: "and we also have the Italian coffee culture standing up drinking the coffee going in, going out very quickly part of that is because the Italians had a law", start: 3012.46, end: 3022.52, zh: "我们也形成了意大利咖啡文化，站着喝咖啡，进去很快，出来也很快。其中一部分原因是因为意大利有一项法律……（coffee culture 咖啡文化）"}
+  - {text: "that enabled them to put a maximum price on coffee but it was a cup of coffee served without service if that makes sense so it had to be a cup of coffee just passed across the bar and as a result", start: 3022.52, end: 3034.10, zh: "这项法律允许他们对咖啡设定最高价格，但前提是提供一杯没有服务的咖啡，如果这能说得通的话，也就是说必须是一杯直接递过吧台的咖啡，结果……（maximum price 最高价格；served without service 无服务，指不提供座位或额外服务）"}
+  - {text: "that coffee price has kept very low everyone takes their coffee standing up one of the reasons why only now do we have in the last couple of years Starbucks opening in Italy is", start: 3034.66, end: 3046.26, zh: "因此咖啡价格一直保持在非常低的水平，每个人都站着喝咖啡。这也是为什么直到最近几年，星巴克才在意大利开店的原因之一，因为……（standing up 站着）"}
+  - {text: "because there was no market for that because basically the prices would have been far too high to generate any real demand amongst the Italian people", start: 3046.26, end: 3054.36, zh: "因为当时没有那样的市场，基本上价格会太高，无法在意大利民众中产生任何真正的需求。（generate 产生，引发）"}
+  - {text: "and this is why this is the Italian seminar we're going to this is the Italian seminar yes, Mormon has survived I think Britain had become a tea drinking nation by the 1820s", start: 3055.04, end: 3066.36, zh: "这就是为什么，这就是意大利研讨会，我们要去的地方，这就是意大利研讨会，是的，摩门教幸存下来，我认为到1820年代英国已经变成了一个喝茶的国家。（seminar 研讨会；Mormon 摩门教）"}
+  - {text: "and most of the the British Empire was tea drinking through the 19th and 20th century and it's through post war the Italian coffee making method but also the idea of the Italian cafe that coffee recolonizes", start: 3066.36, end: 3081.50, zh: "在19世纪和20世纪，大英帝国的大部分领土都在喝茶。通过战后的意大利咖啡制作方法，以及意大利咖啡馆的理念，咖啡重新殖民了……（recolonizes 重新殖民，指咖啡文化重新占据主导地位）"}
+  - {text: "Britain and Australia and New Zealand for example so now we have in Britain many many more coffee shops than we do tea shops and people go out for coffee they might drink tea but they go out for coffee", start: 3082.46, end: 3099.76, zh: "比如英国、澳大利亚和新西兰，现在英国的咖啡店比茶馆多得多，人们出门是为了喝咖啡，虽然他们可能也喝茶，但出门主要是为了咖啡。（coffee shops 咖啡店；tea shops 茶馆）"}
+  - {text: "and so the coffee has come back in Britain on the back of the Italian invention of reinventing the sociable space of drinking coffee but there's another aspect to the Italian coffee culture", start: 3100.78, end: 3112.98, zh: "因此，咖啡在英国重新流行起来，这得益于意大利人重新定义了喝咖啡这种社交空间，但意大利咖啡文化还有另一个方面。（sociable space 社交空间；Italian coffee culture 意大利咖啡文化）"}
+  - {text: "which I think of as a kind of fascistic which has fascistic elements to it and that's the introduction of the mocha stovetop coffee machine which became very popular in the 1930s was favoured by fascism", start: 3112.98, end: 3127.66, zh: "我认为这带有一种法西斯主义色彩，或者说具有法西斯主义元素，那就是摩卡炉灶咖啡机的引入，这种机器在20世纪30年代非常流行，并受到法西斯主义的青睐。（mocha stovetop coffee machine 摩卡炉灶咖啡机；fascism 法西斯主义）"}
+  - {text: "and partly because the machines these devices which you screwed the two halves together you put it on your stove the made of aluminium which was this modernist efficient", start: 3127.66, end: 3137.90, zh: "部分原因是这些装置——你把两半拧在一起，放在炉子上——是由铝制成的，这是一种现代、高效的……（aluminium 铝；modernist 现代主义的）"}
+  - {text: "metal but also it was shrunk in the home you're bringing modernity into the domestic space and it's a wonderful combination some of the biggest machines were modelled on steam engines this little stovetop machine takes this inspiration from a washing machine so it's kind of domestic", start: 3138.92, end: 3156.36, zh: "金属，而且它缩小了家庭空间，将现代性带入了家庭领域，这是一种绝妙的结合。一些最大的机器是以蒸汽机为模型的，而这种小炉灶机器则从洗衣机中汲取灵感，所以它很居家。（steam engines 蒸汽机；domestic 家庭的，居家的）"}
+  - {text: "and it's machine made it's external and it's internal all at the same time it's definitely true that the Bialetti is created in the 30s and the reason", start: 3157.08, end: 3166.68, zh: "它是机器制造的，既是外部的也是内部的，同时具备这两点。确实，Bialetti 是在30年代创造的，原因是……（Bialetti 比乐蒂，意大利咖啡壶品牌；machine made 机器制造的）"}
+  - {text: "as you say the use of aluminium is very important there is a sort of austerity metal really but the same austerity means that actually the", start: 3166.68, end: 3174.12, zh: "正如你所说，铝的使用非常重要，这确实是一种简朴的金属，但同样的简朴意味着实际上……（austerity 简朴，紧缩；aluminium 铝）"}
+  - {text: "fascists don't really approve of coffee coffee imports kind of decline during the whole of fascism because they regard it exactly as what Markman was saying it's a drink", start: 3174.12, end: 3184.70, zh: "法西斯主义者并不真正批准咖啡，在整个法西斯时期，咖啡进口量实际上下降了，因为他们认为咖啡正如马克曼所说的那样，是一种……（fascists 法西斯主义者；coffee imports 咖啡进口）"}
+  - {text: "that is a luxury because it's imported so as early as 1926 espresso machines the installation of espresso machines is temporarily outlawed in fascist Italy in order to stop people drinking luxurious coffee", start: 3184.70, end: 3198.18, zh: "奢侈品，因为它是进口的。早在1926年，在法西斯意大利，安装浓缩咖啡机曾被暂时禁止，以阻止人们饮用这种奢侈的咖啡。（espresso machines 浓缩咖啡机；outlawed 被禁止的）"}
+  - {text: "so the real takeoff of that machine it's really in the 50s the Bialetti that's when it kind of spreads across the whole household I think the other just to go back to Markman's point about the spread of Italian style coffee houses", start: 3198.18, end: 3212.32, zh: "所以这种机器真正的起飞是在50年代，Bialetti 就是那时开始普及到整个家庭的。我想回到马克曼关于意大利式咖啡馆传播的观点……（takeoff 起飞，普及；Bialetti 比乐蒂）"}
+  - {text: "is also that of course those are all based on those milkified drinks so that we have that kind of again a weird thing whereby Italy drinks 80 % black coffee and we drink 90 % white coffee but it's Italian style coffee", start: 3213.06, end: 3229.66, zh: "当然，这些也都基于那些加了牛奶的饮品，所以又出现了一种奇怪的现象：意大利人喝百分之八十的黑咖啡，而我们喝百分之九十的白咖啡，但喝的却是意式咖啡。（milkified 加了牛奶的；black coffee 黑咖啡；white coffee 白咖啡，指加奶咖啡）"}
+  - {text: "but there are all those connotations again of class and to some extent gender so the class one the whole notion of the latte liberal is a huge thing in the spread of the chain", start: 3230.48, end: 3241.92, zh: "但这里面又充满了阶级和某种程度上的性别联想，关于阶级的那一点，‘拿铁自由派’这个概念在连锁咖啡店的扩张中是个很大的话题。（connotations 联想；latte liberal 拿铁自由派，指喝拿铁的中产阶级自由派人士）"}
+  - {text: "if you look at the spread of Starbucks and mapped it against states that are red states and states that are blue states everything will be blue states for the first sort of 20 years", start: 3241.92, end: 3251.84, zh: "如果你看看星巴克的扩张版图，把它和美国的红州和蓝州对照一下，你会发现前二十年它基本上只出现在蓝州。（red states 红州，指倾向共和党的州；blue states 蓝州，指倾向民主党的州）"}
+  - {text: "and it's only much later that it really begins to penetrate into those American heartland type states and the same discourse you would still find today in the British press if you want a quick a quick designation for guardian reading liberal it will be latte sipping", start: 3251.84, end: 3269.02, zh: "直到很久之后，它才真正开始渗透进那些美国腹地类型的州，这种话语你在今天的英国媒体中依然能听到，如果你想要一个快速标签来指代读《卫报》的自由派，那就是‘喝拿铁’。（heartland 腹地；designation 标签，称谓）"}
+  - {text: "sat over there cappuccino we know what's actually implied when we hear that can you do all these photos like that I couldn't have a go for that", start: 3269.92, end: 3277.64, zh: "坐在那儿喝卡布奇诺，我们都知道听到这个暗示着什么，你能拍所有这些照片吗？我没法那样尝试一下。（cappuccino 卡布奇诺；implied 暗示）"}
+  - {text: "but I think it's something rather infantilizing about this spread of latte more than any other drink the quantity of milk in that cup the way in which people are drinking these", start: 3278.46, end: 3289.46, zh: "但我认为这种拿铁的普及有一种相当幼稚化的意味，比其他任何饮品都明显，杯子里大量的牛奶，人们喝这些的方式……（infantilizing 幼稚化的；quantity 数量）"}
+  - {text: "disposable cups these sort of sucky cups they look like baby cups and they're walking slowly down the streets sucking on their milky drinks it's very different from standing at the bar", start: 3290.72, end: 3302.04, zh: "这些一次性杯子，这种吸着喝的杯子，看起来像婴儿杯，人们慢慢地走在街上，吸着他们奶味十足的饮料，这和站在吧台前……（disposable cups 一次性杯子；sucky cups 吸着喝的杯子）"}
+  - {text: "and having your shot of manly espresso and then rushing off to do some important business and the milk is largely unexamined only very recently have people started worrying about whether", start: 3302.04, end: 3312.22, zh: "……喝一口充满男子气概的浓缩咖啡，然后匆匆忙忙去办重要的事，这种反差很大，牛奶长期以来很少被审视，直到最近人们才开始担心……（espresso 浓缩咖啡；unexamined 未被审视的）"}
+  - {text: "or not the milk is organic and where it's sourced from with soy milk so there's huge quantities of milk which are being consumed and there's usually in coffee", start: 3312.22, end: 3323.06, zh: "……牛奶是否有机，来源是哪里，还有大豆奶，所以有大量的牛奶被消耗，而在咖啡店里……（organic 有机的；soy milk 大豆奶）"}
+  - {text: "houses very little talk of the milk it's all about the romance of coffee even though the coffee is a vanishingly small percentage of the actual drink where did the cognac go in your talk I think for a while", start: 3323.56, end: 3337.04, zh: "……关于牛奶的讨论很少，大家只关注咖啡的浪漫情怀，尽管咖啡在实际饮品中占比微乎其微，你谈话中提到的白兰地去哪了？我想有一段时间……（vanishingly small 微乎其微的；cognac 白兰地）"}
+  - {text: "when I was 17 and a half worked in Paris with the Abbe Pierre and we went round in the morning collecting stuff from back of big houses", start: 3337.78, end: 3345.86, zh: "我十七岁半时在巴黎与皮埃尔神父共事，我们早上会去大房子后面收集物品。（Abbe Pierre 皮埃尔神父，法国社会活动家；collecting stuff 收集物品）"}
+  - {text: "and such on these great lorries and the guys stopped and you nipped into a bar and they had coffee and cognac it was a very startling way for a northern lad to start the day", start: 3345.86, end: 3355.96, zh: "还有那些大卡车，司机们停下来，你溜进一家酒吧，里面既有咖啡又有白兰地，对于一个北方小伙子来说，这样开始一天真是让人瞠目结舌。（lorries 大卡车；cognac 白兰地；northern lad 北方小伙子）"}
+  - {text: "it was probably that the French cafe cultures are rather different partly because of the licensing laws so when cafes were first opened in Paris, I think I'm right about this the Vintners", start: 3358.58, end: 3370.02, zh: "这可能是因为法国的咖啡馆文化相当不同，部分原因在于酒类许可法，所以当初巴黎的咖啡馆刚开业时，我想我没错，那些酿酒商……（licensing laws 酒类许可法；Vintners 酿酒商）"}
+  - {text: "had a greater dominance in the era and so the coffee was only sold in licensed premises so coffee was always sold alongside alcohol now 18th century British coffee houses sometimes served alcohol but they weren't primarily wine bars restaurants", start: 3370.54, end: 3385.42, zh: "在那个时代，（酒精饮料）占据主导地位，因此咖啡只能在持牌场所销售，所以咖啡总是和酒精饮料一起卖。不过，18世纪的英国咖啡馆有时也会提供酒精饮料，但它们主要并不是酒吧或餐厅。（dominance 主导地位；licensed premises 持牌场所，指有执照可以卖酒的地方）"}
+  - {text: "taverns and inns they were designated coffee shops I mean I think this is the big thing is that the continental café starts from that sort of guild restriction or rather the way that the coffee is assigned to a guild and it's assigned to the", start: 3386.60, end: 3401.16, zh: "酒馆和客栈被指定为咖啡店，我认为关键在于，欧洲大陆式的咖啡馆起源于那种行会限制，或者更准确地说，是咖啡被分配给某个行会，并且被分配给……（taverns 酒馆；inns 客栈；guild 行会）"}
+  - {text: "stillers guild and they are given the license to serve distills at table I think that your taste is about to be tested as the producer comes in", start: 3401.94, end: 3411.72, zh: "调酒师公会，他们获得在桌上提供蒸馏酒的许可，我想你的味蕾即将受到考验，因为调酒师进来了。（stillers guild 调酒师公会；distills 蒸馏酒；producer 调酒师）"}
+  - {text: "just curious do you want tea or is it all coffee coffee coffee I'm going to have to try your coffee yeah BTC coffee it's another", start: 3412.60, end: 3426.60, zh: "只是好奇，你想喝茶还是只喝咖啡？咖啡咖啡咖啡，我得尝尝你们的咖啡，对，BTC咖啡，那是另一种……（BTC 某品牌或机构缩写）"}
+  - {text: "category entirely Zandi happy anniversary what are you talking about have I missed something?", start: 3426.60, end: 3432.92, zh: "完全是另一个类别，赞迪，周年快乐，你在说什么？我是不是错过了什么？（category 类别；Zandi 赞迪，人名；anniversary 周年纪念日）"}
+  - {text: "we are over a year into making whatsapp docs you didn't even get me a card is it really over a year?", start: 3433.20, end: 3440.12, zh: "我们做 WhatsApp 文档都超过一年了，你连张卡片都没给我，真的超过一年了吗？（whatsapp docs WhatsApp 文档；over a year 超过一年）"}
+  - {text: "it is, think of all the episodes we've done how to look after our feet our shoulders, our hips, our teeth we've explored snoring, cholesterol the immune system,", start: 3440.24, end: 3448.18, zh: "想想我们做过的所有节目，比如怎么护理双脚、肩膀、髋部和牙齿，我们还探讨过打鼾、胆固醇和免疫系统。（hips 髋部；cholesterol 胆固醇；immune system 免疫系统）"}
+  - {text: "endometriosis all with the help of expert guests I think it's fair to say we have plundered the world of health and well -being equipping ourselves and our listeners with the best information out there on how to look after our minds our bodies,", start: 3448.34, end: 3461.86, zh: "子宫内膜异位症，这一切都得益于专家嘉宾的帮助。我想可以说，我们挖掘了健康与福祉领域的宝藏，为我们自己和听众提供了关于如何照顾身心最好的信息。（endometriosis 子宫内膜异位症；plundered 挖掘，搜寻；well-being 福祉，身心健康）"}
+  - {text: "our souls even and we're not stopping are we Chris?", start: 3462.32, end: 3464.62, zh: "甚至我们的灵魂也是，而且我们不会停下脚步，对吧，克里斯？（souls 灵魂；are we 反问，表示确认）"}
+  - {text: "we're most certainly not son, we have a lot of new topics coming up from tinnitus to acne crying, male fertility we are holding steadfast in our mission to sort facts from fiction,", start: 3464.80, end: 3475.84, zh: "我们绝对没有停下，孩子。我们有很多新话题即将推出，从耳鸣到痤疮、哭泣、男性生育能力，我们将坚定不移地履行使命，区分事实与虚构。（tinnitus 耳鸣；acne 痤疮；fertility 生育能力）"}
+  - {text: "debunking wellness myths along the way and you can find all of our previous episodes of whatsapp docs in the feed on BBC sounds and don't forget to subscribe on BBC sounds", start: 3476.26, end: 3485.58, zh: "并在过程中破除健康迷思。你可以在BBC Sounds的节目源中找到我们所有往期《WhatsApp Docs》剧集，别忘了在BBC Sounds上订阅。（debunking 破除，揭穿；myths 迷思，谬误；feed 节目源，订阅列表）"}
+  - {text: "and turn on the notifications so you don't miss any of these upcoming episodes", start: 3485.58, end: 3489.66, zh: "并开启通知，这样你就不会错过这些即将播出的剧集了。（notifications 通知；miss 错过）"}
 ---

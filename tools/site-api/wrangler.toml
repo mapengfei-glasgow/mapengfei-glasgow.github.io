@@ -1,0 +1,28 @@
+# The Worker keeps the name it was created with, so the URL in hugo.toml
+# (params.apiBase) and the /files/ page do not change when you deploy this.
+name = "r2-portal"
+main = "worker.js"
+compatibility_date = "2025-09-01"
+
+# The bucket the /files/ page browses (binding name must be BUCKET)
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "aorta-data"
+
+# The vocabulary book lives here, as one object: vocab/v1.json.
+# A SEPARATE, PRIVATE bucket on purpose — aorta-data is served to the world
+# through bucket.r2.mapengfei.cn, and the saved sentences should not be.
+[[r2_buckets]]
+binding = "PRIVATE"
+bucket_name = "site-private"
+
+[vars]
+PUBLIC_BASE = "https://bucket.r2.mapengfei.cn"
+ALLOWED_ORIGIN = "https://mapengfei-glasgow.github.io"
+UPLOAD_PREFIX = "uploads"
+
+# SITE_TOKEN is the shared "sync code". It is a SECRET, not a var, so it never
+# lands in this file:
+#   npx wrangler secret put SITE_TOKEN
+# or dashboard → the Worker → Settings → Variables and Secrets → add → Secret.
+# With it unset the Worker answers 401 to everything but /api/health (fail closed).

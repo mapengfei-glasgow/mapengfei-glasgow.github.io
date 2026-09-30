@@ -11,3 +11,10 @@ static/audio/
 tools/ecdict.csv
 tools/a2_chunks/
 tools/__pycache__/
+
+# Android app (android/): the source is committed, build output and the
+# machine-specific SDK path are not.
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties

@@ -1,0 +1,21 @@
+[Unit]
+Description=Daily BBC podcast pipeline (download -> publish -> Qwen A2 notes)
+Documentation=file:///home/deepseek-harness/mapengfei-glasgow.github.io/.migration/work/HOST-NOTES.md
+# The proxy is not a hard dependency (mihomo.service may already be running from
+# a previous boot and the script can restart it), but ordering it first avoids
+# a pointless retry loop on a cold boot.
+After=network-online.target mihomo.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/deepseek-harness/mapengfei-glasgow.github.io/.migration/tools/daily_bbc_pipeline.sh
+WorkingDirectory=/home/deepseek-harness/mapengfei-glasgow.github.io/.migration
+# A full run is download + 6 min of whisper + Qwen notes; allow up to 2 h.
+TimeoutStartSec=7200
+# The script writes its own log to work/logs/bbc-daily-*.log as well.
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target
