@@ -19,6 +19,39 @@ hand-written element routines.
 
 **Cite:** Ma, P., Cai, L., Wang, X., Gao, H. *AFSI: Automated Fluid-Structure Interaction Solver Development for Nonlinear Solid Mechanics.* arXiv:2509.00014 (2025).
 
+## Note: isotropic kernels and the divergence-free condition
+
+The reference study this site compares against (Li et al. 2025,
+arXiv:2412.15408) rests on a known property of regularized delta functions:
+**isotropic kernels (IB, BS) do not generally produce continuously
+divergence-free interpolants**, even from discretely divergence-free velocity
+fields, so an immersed structure can lose its incompressibility — most
+visibly for closed, pressurised membranes. The paper's remedies are
+
+* the **composite B-spline (CBS) kernels** — divergence-free interpolation by
+  construction, no treatment needed — and
+* for isotropic kernels, **volumetric stabilization**: a volumetric energy
+  $U(J)$ modulated by a numerical Poisson ratio $\nu_S$, with
+  $\kappa_S = 2G(1+\nu_S)/(3(1-2\nu_S))$ ($\nu_S = -1$ recovers $\kappa_S = 0$,
+  i.e. no stabilization), together with modified invariants of the
+  Cauchy–Green tensor.
+
+The paper describes the stabilization as "consistency terms that vanish under
+grid refinement" which "reduce spurious volume changes … while maintaining the
+convergence properties of the underlying formulation"; without it,
+"unphysical and sometimes extreme contractions of the immersed structure" can
+occur. It also lists the costs, which this solver reproduces: volumetric
+penalties "impose more severe time step restrictions for explicit timestepping
+schemes", and the modifications "introduce additional isotropic stresses that
+alter the pressure response".
+
+In the AFSI demos here the fluid is a finite-element
+($\mathbb{P}_2/\mathbb{P}_1$) solver coupled with the $\mathrm{IB}_4$ kernel
+only: the discrete divergence-free property is **not** available, so the
+effective incompressibility is carried by the material's volumetric term —
+see the calibration in demo_443 §3 and the cross-check in demo_441 §4.3, and
+the no-slip-box caveat of demo_442.
+
 ## The demo notes
 
 One page per demo, all in the same paper-style layout — **setup → numerics →
