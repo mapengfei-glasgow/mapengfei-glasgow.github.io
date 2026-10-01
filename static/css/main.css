@@ -6,15 +6,20 @@
    --tertiary/--primary/--border/--radius) so both themes stay consistent.
  ------------------------------------------------------------------- */
 
-/* Map the variables our components use onto PaperMod, with safe fallbacks */
+/* Map the variables our components use onto PaperMod, with safe fallbacks.
+
+   Only alias with a DIFFERENT name on the left (--fg: var(--content), …).
+   Never redeclare a PaperMod variable as `--x: var(--x, <fallback>)`: a custom
+   property that references itself is a CSS cycle and resolves to the empty
+   value, which blanks out every `var(--x)` downstream. That is why
+   --border/--primary/--radius were empty and the list pagination rendered as
+   white text with no pill background (and every card lost its border-radius).
+   PaperMod defines --border/--primary/--radius in both themes; leave them. */
 :root {
   --fg: var(--content, #e8e8e8);
   --muted: var(--secondary, #9b9b9b);
   --faint: var(--tertiary, #7a7a7a);
-  --border: var(--border, #3b3b3b);
   --card: var(--entry, #272727);
-  --primary: var(--primary, #7dd3fc);
-  --radius: var(--radius, 6px);
 
   /* Extra colours PaperMod does not define */
   --accent: #ff66a3;
