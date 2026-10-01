@@ -176,7 +176,11 @@ incompressibility of the reference, and both the displacement and the
 volume-conservation metric fall into place. The calibration cannot be carried
 to finer Lagrangian meshes in this setup — the stiffer bulk loses the explicit
 stability of the punch corner there (§3 and §5) — so the reference's own
-$M$-insensitivity is mirrored by a single representative mesh here.
+$M$-insensitivity is mirrored by a single representative mesh here. The same
+calibration applied to demo_441 shows that the mechanism does not reconcile
+every benchmark in one stroke: for the bending-dominated Cook's membrane the
+volume-matched run overshoots that reference band slightly — see demo_441,
+§4.3.
 
 <p class="tcaption">Table 2. Probe displacement and Jacobian range against the reference (KAPPA_MULT = 10).</p>
 

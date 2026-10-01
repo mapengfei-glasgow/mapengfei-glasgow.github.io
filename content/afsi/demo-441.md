@@ -104,7 +104,11 @@ in the reference.
 
 The modulus pair corresponds to Poisson ratio $\nu = 0.4$
 ($\kappa = 2G(1+\nu)/(3(1-2\nu)) = 388.889$), and the total load is
-$6.25 \times 1.6 = 10\,\mathrm{dyn}$.
+$6.25 \times 1.6 = 10\,\mathrm{dyn}$. As in demo_443, the reference's
+effective response is incompressible — its discrete divergence-free coupling
+holds $J$ within $[0.966, 1.010]$ — while our FE-coupled variant carries the
+volume constraint in the material; the calibration check below quantifies what
+that means for this case.
 
 ## 3. Numerical setup
 
@@ -126,6 +130,18 @@ paper-protocol plateau (0.626 vs 0.625 cm). At $M = 16$ the shortened ramp
 leaves the membrane ringing (the value is still $0.80\,\mathrm{cm}$ at
 $t = 20\,\mathrm{s}$, relaxing toward the settled 0.655 cm), so the paper
 protocol is used for all reported $M = 8, 16$ values.
+
+A bulk-modulus calibration check ($\kappa \to 10\kappa$, the setting that
+reproduces the reference's volume behaviour on demo_443) was also run at both
+meshes with the paper protocol. Unlike the compression case, the two
+calibrations bracket the reference: the raw constant leaves the volume looser
+than the reference ($J$ down to $0.82$) and puts the corner displacement
+inside the published band, while $10\kappa$ pins the volume to the
+reference's range but raises the displacement above the band (Table 4).
+Both results are reported; no unit conversion is hidden in this choice — all
+quantities are in CGS and the two cases require opposite volume adjustments,
+so a global factor (such as a Pa $\leftrightarrow$ dyn/cm² slip) cannot
+explain them.
 
 ## 4. Results
 
@@ -197,19 +213,21 @@ t, M=8 (N=13), M=16 (N=25), paper plateau (0.60-0.68, mid)
 The two meshes settle on close plateaus,
 $\Delta Y = 0.625\,\mathrm{cm}$ ($M = 8$) and $0.655\,\mathrm{cm}$ ($M = 16$),
 against the reference plateau band $0.59$–$0.68\,\mathrm{cm}$ computed at
-$M = 32$ (non-stabilised $\mathrm{IB}_3$ at the bottom, the stabilised group at
-the top; the CBS43 kernels sit near $0.60\,\mathrm{cm}$). The agreement is
-within $2.3\,\%$ of the band centre at $M = 16$, without any volumetric
-stabilisation: for this moderately compressible material
-($\nu = 0.4$) the isotropic loss of the $\mathrm{IB}_4$ kernel does not
-recreate the reference's need for modified invariants.
+$M = 32$ for the raw paper constants, i.e. before any bulk calibration: the
+agreement is within $2.3\,\%$ of the band centre at $M = 16$. As the
+calibration check in §4.3 shows, part of this agreement is a compensation of
+two effects with opposite trends, so the comparison is quoted for both
+calibrations there.
 
-<p class="tcaption">Table 2. Probe displacement and Jacobian range against the reference.</p>
+<p class="tcaption">Table 2. Probe displacement and Jacobian range against the reference (raw paper constants, $\kappa$).</p>
 
 | Quantity | AFSI ($M=16$) | Reference | rel. err. |
 | --- | --- | --- | --- |
 | $\Delta Y$ at $(8.05, 9.5)\,\mathrm{cm}$ | $0.655\,\mathrm{cm}$ | $0.59$–$0.68\,\mathrm{cm}$ (band) | $+2.3\,\%$ vs band centre |
-| $\min J$ / $\max J$ at $t = 50\,\mathrm{s}$ | $0.821$ / $1.121$ | $\lvert J-1\rvert \lesssim 0.2$ (stab. $\mathrm{IB}$, $M=32$) | same order |
+| $J$ range at $t = 50\,\mathrm{s}$ | $[0.821, 1.121]$ | $[0.966, 1.010]$ (stab. $\mathrm{IB}_3$, $M=32$) | ours looser |
+
+The reference's stabilised Jacobian range is read from its $M = 32$ figure; the
+$0.59$–$0.68\,\mathrm{cm}$ band spans its stabilised and unstabilised variants.
 
 ### 4.3 Convergence study
 
@@ -232,6 +250,29 @@ resolution was still relaxing when the run budget ended, so it is not quoted.
 We did not re-run the full $\mathrm{MFAC}$ sweep; at $\mathrm{MFAC} = 1.0$ the
 kernel support ($4h$, with markers every $h$) is commensurate with the membrane
 edge resolution used in the reference.
+
+<p class="tcaption">Table 4. Bulk-modulus calibration check (paper protocol, t = 50 s).</p>
+
+| bulk | $M=8$: $\Delta Y$ / $J$ range | $M=16$: $\Delta Y$ / $J$ range |
+| --- | --- | --- |
+| $\kappa$ (raw) | $0.625\,\mathrm{cm}$ / $[0.833, 1.012]$ | $0.655\,\mathrm{cm}$ / $[0.821, 1.121]$ |
+| $10\kappa$ | $0.745\,\mathrm{cm}$ / $[0.990, 1.025]$ | $0.750\,\mathrm{cm}$ / $[0.990, 1.020]$ |
+| reference (stab., $M=32$) | $\approx 0.66\,\mathrm{cm}$ / $[0.966, 1.010]$ (both) | — |
+
+The two effects move in opposite directions: the stiffer bulk pins the
+volume to the reference's range and the displacement is mesh-converged
+($0.745 \to 0.750$ from $M = 8$ to $16$), but it then overshoots the
+reference band by $\approx 0.09\,\mathrm{cm}$; the raw bulk leaves the volume
+looser than the reference yet its displacement sits inside the band. The
+mechanism matching demo_443 — where the calibrated bulk *does* reconcile
+everything — is therefore only half the story here: for the bending-dominated
+Cook's membrane there remains a residual difference between the two schemes
+at matched volume behaviour, most plausibly tied to the different Lagrangian
+discretisations (our $\mathbb{Q}^2$ mesh and penalty clamp versus the
+reference's $\mathbb{Q}^1$ mesh with its combined elastic + viscous tether).
+We report the raw-constant result as the primary comparison and the calibrated
+result as the volume-matched one, rather than selecting whichever number falls
+inside the band.
 
 ### 4.4 Flow and deformation fields
 
@@ -264,6 +305,14 @@ protocol ($T_{\mathrm{l}} = 20\,\mathrm{s}$, $T_{\mathrm{f}} = 50\,\mathrm{s}$).
   Lagrangian mesh, so they are not pointwise comparable with the reference's
   $\mathbb{Q}^1$ Jacobian maps; the range and the location of the largest
   errors are.
+* As in demo_443, the effective incompressibility of the reference is carried
+  by the material bulk in this FE-coupled variant. The calibration check
+  (§4.3) shows the Cook's corner displacement is sensitive to it in the same
+  direction as the reference's own stabilisation treatment (its stabilised
+  curves sit high, its unstabilised low), and that at matched volume
+  behaviour a residual $\approx 0.09\,\mathrm{cm}$ remains. All quantities
+  here are CGS and the compression case required the opposite volume
+  adjustment, so no global unit factor can account for either observation.
 
 ## References
 
