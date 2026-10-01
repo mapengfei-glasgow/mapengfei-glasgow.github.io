@@ -1,8 +1,8 @@
 ---
-title: "demo_336 — disc carried by a lid-driven cavity"
-description: "demo_336: a 2-D disc in a lid-driven cavity, run three ways — immersed-boundary finite elements, rigid multi-direct forcing, and an inertial elastic solid."
+title: "336: Disc carried by a lid-driven cavity"
+description: ""
 date: 2026-09-12
-weight: 336
+weight: 1
 academic: true
 ---
 

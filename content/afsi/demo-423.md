@@ -1,5 +1,5 @@
 ---
-title: "Static equilibrium of an immersed anisotropic annular solid"
+title: "401: Static equilibrium of an immersed anisotropic annular solid"
 description: "demo_423: verification of the immersed-boundary coupling against the closed-form pressure field of a fibre-reinforced ring in a driven cavity."
 date: 2026-09-12
 weight: 1
