@@ -263,7 +263,9 @@ margin for marker spacings below $2h$ — see §5.
   $\Delta t = 0.002\,h$ and $0.001\,h$), so the calibrated configuration is
   reported on the one mesh that stays inside the window ($M = 8$, $N = 32$).
   The feasibility window of this variant is narrower than the reference's
-  adaptive-grid solver.
+  adaptive-grid solver — a documented cost of the stabilised formulation,
+  which the paper's introduction lists as “more severe time step restrictions
+  for explicit timestepping schemes” (see also the note on the index page).
 * The fluid grid is four times finer than the reference's at the smallest
   $M$; this study does not claim a fluid-grid convergence statement of its own.
 
