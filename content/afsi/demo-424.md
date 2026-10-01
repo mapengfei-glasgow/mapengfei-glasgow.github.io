@@ -61,11 +61,15 @@ immersed-boundary coupling terms (see the symbol table page).{{< /color >}}
 The solid carries no constitutive law: it is held in place by a volumetric spring
 (tether) alone, with the law
 
-$$\mathbf{f} = \beta\,(\mathbf{X}_{\text{ref}} - \mathbf{X}) ,$$
+$$
+\mathbf{f} = \beta\,(\mathbf{X}_{\text{ref}} - \mathbf{X}) ,
+$$
 
 and the membrane displacement follows the one-dimensional tether balance
 
-$$\delta = \frac{\Delta p}{\beta\,t_{\text{wall}}} , \tag{1}$$
+$$
+\delta = \frac{\Delta p}{\beta\,t_{\text{wall}}} , \tag{1}
+$$
 
 which is $1.3\times10^{-4}\,\mathrm{m}$ at $0.02\,\mathrm{mmHg}$ — a hundred times
 smaller than a grid cell — but $1.3\times10^{-3}\,\mathrm{m}$ at
@@ -266,18 +270,22 @@ Multiplying the strong form
 $\rho\,\mathrm{D}\mathbf{u}/\mathrm{D}t + \nabla p - \mu\nabla^2\mathbf{u} - \mathbf{f} = 0$
 by a test function and integrating over the domain gives
 
-$$\int \rho\,\frac{\mathrm{D}\mathbf{u}}{\mathrm{D}t}\cdot\mathbf{v} -
+$$
+\int \rho\,\frac{\mathrm{D}\mathbf{u}}{\mathrm{D}t}\cdot\mathbf{v} -
 \int p\,\mathrm{div}\,\mathbf{v} +
 \int \mu\,\nabla\mathbf{u} : \nabla\mathbf{v} -
 \int \mathbf{f}\cdot\mathbf{v} +
 \int_{\Gamma} \left[ p\,(\mathbf{v}\cdot\mathbf{n}) -
-\mu\,(\nabla\mathbf{u}\cdot\mathbf{n})\cdot\mathbf{v} \right] = 0 . \tag{2}$$
+\mu\,(\nabla\mathbf{u}\cdot\mathbf{n})\cdot\mathbf{v} \right] = 0 . \tag{2}
+$$
 
 IPCS retains the volume terms and **drops the entire boundary integral**.
 Doing so is equivalent to imposing the natural condition
 
-$$\mu\,\nabla\mathbf{u}\cdot\mathbf{n} = p\,\mathbf{n} ,
-\qquad \text{i.e. zero total traction } \sigma\cdot\mathbf{n} = 0 \tag{3}$$
+$$
+\mu\,\nabla\mathbf{u}\cdot\mathbf{n} = p\,\mathbf{n} ,
+\qquad \text{i.e. zero total traction } \sigma\cdot\mathbf{n} = 0 \tag{3}
+$$
 
 on every boundary where no velocity is prescribed. At the outlet the pressure
 Dirichlet is $p = 0$, so zero traction is exactly right. At the inlet the pressure

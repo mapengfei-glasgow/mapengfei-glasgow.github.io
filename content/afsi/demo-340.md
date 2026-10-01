@@ -45,9 +45,9 @@ $$
 The fluid satisfies
 
 $$
-\rho\left(\frac{\partial \mathbf u}{\partial t}
-+ (\mathbf u\cdot\nabla)\mathbf u\right) = -\nabla p + \mu\nabla^2\mathbf u
-+ \mathbf f_{\mathrm{IB}},
+\rho\left(\frac{\partial \mathbf u}{\partial t} +
+(\mathbf u\cdot\nabla)\mathbf u\right) = -\nabla p + \mu\nabla^2\mathbf u +
+\mathbf f_{\mathrm{IB}},
 \qquad \nabla\cdot\mathbf u = 0
 $$
 
@@ -60,9 +60,9 @@ tensor $\bar{\mathbf C} = J^{-2/3}\mathbf F^{\mathsf T}\mathbf F$, the strain-en
 density is
 
 $$
-\Psi = \frac{C_0}{2}\bigl(\bar I_1 - 3\bigr)
-+ C_1\bigl(e^{\bar I_4 - 1} - \bar I_4\bigr)
-+ \frac{\kappa}{4}\bigl(J^2 - 1\bigr) - \frac{\kappa}{2}\ln J,
+\Psi = \frac{C_0}{2}\bigl(\bar I_1 - 3\bigr) +
+C_1\bigl(e^{\bar I_4 - 1} - \bar I_4\bigr) +
+\frac{\kappa}{4}\bigl(J^2 - 1\bigr) - \frac{\kappa}{2}\ln J,
 $$
 
 where $\bar I_1 = \operatorname{tr}\bar{\mathbf C}$,
@@ -152,8 +152,8 @@ formulation as the standard immersed-boundary method for elastic boundaries.
 $$
 \mathbf f_{ij} = \sum_l \delta_h(\mathbf x_{ij} - \mathbf X_l)\,
 \mathbf F_l , \qquad
-\mathbf F_l = -\int_{\Omega_s}\mathbf P(\mathbf F):\nabla_{\!X}\delta\mathbf v_l\,\mathrm{d}X
-- \beta\,(\mathbf X_l - \mathbf X_{0,l})\big|_{\Gamma_4\cup\Gamma_{15}} .
+\mathbf F_l = -\int_{\Omega_s}\mathbf P(\mathbf F):\nabla_{\!X}\delta\mathbf v_l\,\mathrm{d}X -
+\beta\,(\mathbf X_l - \mathbf X_{0,l})\big|_{\Gamma_4\cup\Gamma_{15}} .
 $$
 
 Because step 1 already used $\mathbf f^n_{\mathrm{IB}}$ when it advanced the fluid,
@@ -176,7 +176,7 @@ step.
 The quantity the case is built around is the **leaflet-tip displacement** as a
 function of time at the free tips (both components), compared against the
 published reference curves and across fibre angles. Secondary quantities are the
-whole-leaflet $\max\vert u_s\vert$, the opening of the free gap between the tips,
+whole-leaflet $\max\lvert u_s\rvert$, the opening of the free gap between the tips,
 the peak velocity in the field, and the run-to-run agreement measures (maximum
 difference against the archived series, cycle-to-cycle repeat).
 
@@ -229,7 +229,7 @@ $5(\sin 2\pi t + 1.1)\,y\,(L_y - y)$.
 | Resolution / steps | $128 \times 32$, $\Delta t = 1/16\,000$, $48\,000$ steps |
 | Tip $x$-displacement | ranges $0.00015 \to 0.6015$; peak at $t \approx 1.25$ s |
 | Tip $y$-displacement | ranges $0.000 \to 0.4476$; peak at $t \approx 1.25$ s |
-| Whole-leaflet $\max \vert u_s \vert$ | $0.7515$ m, against a leaflet length of $0.7$ |
+| Whole-leaflet $\max\lvert u_s\rvert$ | $0.7515$ m, against a leaflet length of $0.7$ |
 | Agreement with the archived AFSI $45^\circ$ series | $\max$ difference $3.7\times10^{-4}$ on a $0.6014$ signal (0.06 %) — the archived series is reproducible |
 | Cycle-to-cycle repeat | $x$ at $t = 0.25$ s vs $t = 2.25$ s: $0.5942$ vs $0.6013$ (1.2 %), i.e. still creeping toward the periodic state |
 | Versus the literature band | this run sits $\sim 8$ % above Ryan M2/M3 and Kamensky in $x$ and up to $\sim 18$ % in $y$ — the same offset the archived AFSI series shows |

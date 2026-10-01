@@ -115,9 +115,9 @@ marker models (boundary ring / filled disc), iteration counts
 ($n_{iter} = 2, 10, 20$) and a cylinder-free control. Each run reaches
 $t = 6\,\mathrm{s}$, i.e. $4\,\mathrm{s}$ past the end of the inlet ramp.
 
-The volume-force integral *decreases* under refinement — $0.439 \to 0.268 \to
-0.157$ at $110\times21$, $220\times41$, $440\times82$, against a reference $0.292$
-— and the refinement study recommends a control-volume momentum balance instead.
+The volume-force integral *decreases* under refinement — $0.439 \to 0.268 \to 0.157$
+at $110\times21$, $220\times41$, $440\times82$, against a reference $0.292$ — and
+the refinement study recommends a control-volume momentum balance instead.
 
 {{< figure src="/afsi/demo339-cd.png" title="Figure 2. The drag coefficient from the force integral shrinks with refinement (archived numbers)." >}}
 

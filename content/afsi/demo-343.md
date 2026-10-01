@@ -79,8 +79,8 @@ also selects the two result sets.
 
 The quantities of interest are the valve opening (leaflet-tip separation and bend
 from $t \approx 40$ ms), the disc transport downstream, the solid displacement
-$\max\vert u_s\vert$ (discs against leaflets), the fluid energy norm $u_{L2}$ and
-field maximum $\max\vert u\vert$, and the centre-line $u_x$ profiles at the two
+$\max\lvert u_s\rvert$ (discs against leaflets), the fluid energy norm $u_{L2}$ and
+field maximum $\max\lvert u\rvert$, and the centre-line $u_x$ profiles at the two
 disc heights with and without the disc force.
 
 ### 4.2 Comparison with reference

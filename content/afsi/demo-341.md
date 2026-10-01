@@ -105,7 +105,7 @@ $N = 16$ was run; no refinement study exists.{{< /color >}}
 
 A run was made at $N = 16$ for $200$ steps ($t = 1$ s).
 
-{{< figure src="/afsi/demo341-3d-scene.png" title="Figure 3. The $t = 1$ s state. Top left: the cavity boundary coloured by speed — the lid at $y = 1$ carries $|u| = 1$, the four side walls the return flow and the floor none. Top right: the octant mesh and the immersed sphere, which spans a quarter of the cavity. Bottom left: streamlines seeded on a disc just upstream of the sphere; they wrap round its shoulder and rejoin the primary vortex. Bottom right: the tetrahedral sphere coloured by nodal displacement." >}}
+{{< figure src="/afsi/demo341-3d-scene.png" title="Figure 3. The $t = 1$ s state. Top left: the cavity boundary coloured by speed — the lid at $y = 1$ carries $\lvert u\rvert = 1$, the four side walls the return flow and the floor none. Top right: the octant mesh and the immersed sphere, which spans a quarter of the cavity. Bottom left: streamlines seeded on a disc just upstream of the sphere; they wrap round its shoulder and rejoin the primary vortex. Bottom right: the tetrahedral sphere coloured by nodal displacement." >}}
 
 {{< figure src="/afsi/demo341-trajectory.png" title="Figure 4. The sphere over the run. It starts at $(0.6, 0.5, 0.5)$ and drifts to $(0.528, 0.492, 0.500)$ — 0.073 m, or 0.37 radii — while its nodes move up to $0.107$, more than half a radius, so the sphere is being carried and deformed rather than simply translated. The drift is in $-x$, opposite the lid motion, which is the return branch of the primary vortex." >}}
 

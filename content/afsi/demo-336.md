@@ -169,13 +169,13 @@ coefficients and the disc's translational and angular speed, is in Figure 6.
 
 {{< figure src="/afsi/demo336-history.png" title="Figure 6. Rigid run: disc-centre trajectory (dotted circle = initial position), the direct-forcing force coefficients $C_x$, $C_y$, $C_m$, and the rigid-body speeds. The coefficients are order-of-magnitude references only — the marker volume sums to $\Delta s \cdot h \propto h$, so $\int f_{\mathrm{IB}}\,\mathrm{d}V$ does not converge under refinement (see §5)." >}}
 
-{{< figure src="/afsi/demo336-solid-disc-0-10s.png" title="Figure 7. Rigid run: solid displacement $u_s$ on the deformed grid, true scale, initial disc dashed. The disc travels further than its own radius (max $\vert u_s \vert = 0.51$ against $r = 0.2$), so the field is contoured on the deformed mesh — at the reference positions only the small overlap with the current pose would show. The displacement is a rigid-body translation plus rotation about the initial centre, so the disc stays a circle and its radius is invariant (mean radius 0.1244 at every plotted time). The centroid reconstructed this way agrees with the traced disc centre to 5e-7." >}}
+{{< figure src="/afsi/demo336-solid-disc-0-10s.png" title="Figure 7. Rigid run: solid displacement $u_s$ on the deformed grid, true scale, initial disc dashed. The disc travels further than its own radius (max $\lvert u_s\rvert = 0.51$ against $r = 0.2$), so the field is contoured on the deformed mesh — at the reference positions only the small overlap with the current pose would show. The displacement is a rigid-body translation plus rotation about the initial centre, so the disc stays a circle and its radius is invariant (mean radius 0.1244 at every plotted time). The centroid reconstructed this way agrees with the traced disc centre to 5e-7." >}}
 
 For contrast, the elastic variant of the same case — an inertial neo-Hookean disc with
 Kelvin–Voigt damping ($\mu_s = 0.2$, $\rho_s = 1$, `mu_s_visc` $= 0.01$) — deforms
 strongly instead of translating rigidly:
 
-{{< figure src="/afsi/demo336-elastic-solid-0-10s.png" title="Figure 8. Elastic run, 64x64, 4000 steps, $T = 10$ s. Top: $|u_s|$ on the reference mesh. Bottom: the deformed mesh itself, which shows the stretch and shear the soft disc accumulates in the cavity vortex. The dashed circle is the initial disc. $|u_s|$ peaks at 0.71 in the P1 output field (0.82 on the P2 solid space), and $\min \det \mathbf{F}$ stays above 0.70, so no element inverts." >}}
+{{< figure src="/afsi/demo336-elastic-solid-0-10s.png" title="Figure 8. Elastic run, 64x64, 4000 steps, $T = 10$ s. Top: $\lvert u_s\rvert$ on the reference mesh. Bottom: the deformed mesh itself, which shows the stretch and shear the soft disc accumulates in the cavity vortex. The dashed circle is the initial disc. $\lvert u_s\rvert$ peaks at 0.71 in the P1 output field (0.82 on the P2 solid space), and $\min \det \mathbf{F}$ stays above 0.70, so no element inverts." >}}
 
 Both runs completed 4000 steps at $\Delta t = 0.0025$ s with no NaN and no wall
 contact; the elastic run's solid stays well clear of inverting
@@ -276,10 +276,10 @@ The re-runs behind Figures 5–8 add:
 
 | Quantity | Value |
 |---|---|
-| Rigid disc, $T = 10$ s | centroid path $(0.600,0.500) \to (0.395,0.514) \to (0.276,0.750) \to (0.568,0.760) \to (0.541,0.518) \to (0.326,0.621)$; $|\mathbf{V}_c|_{\max} = 0.251$, $|\omega|_{\max} = 0.295$ rad/s, total rotation $1.055$ rad |
-| Rigid disc, $T = 10$ s | $\max \vert u_s \vert = 0.509$ over the run; trajectories stay inside $x \in [0.273, 0.663]$, $y \in [0.484, 0.769]$; no wall contact |
-| Rigid run fluid | $u_{L2}$ grows $0 \to 0.0529$; $\vert C_x \vert \le 1.07$, $\vert C_y \vert \le 2.04$ |
-| Elastic disc, $T = 10$ s | $\max \vert u_s \vert = 0.820$ on the P2 solid space ($0.71$ in the P1 output field at the plotted times); peak at $t \approx 4$ s then partial rebound ($0.71 \to 0.61 \to 0.31 \to 0.44$); $\min \det \mathbf{F} = 0.7038 \ge 0.70$; volume $0.12566 \to 0.1274$; final centroid $(0.282, 0.732)$ |
+| Rigid disc, $T = 10$ s | centroid path $(0.600,0.500) \to (0.395,0.514) \to (0.276,0.750) \to (0.568,0.760) \to (0.541,0.518) \to (0.326,0.621)$; $\lvert\mathbf{V}_c\rvert_{\max} = 0.251$, $\lvert\omega\rvert_{\max} = 0.295$ rad/s, total rotation $1.055$ rad |
+| Rigid disc, $T = 10$ s | $\max\lvert u_s\rvert = 0.509$ over the run; trajectories stay inside $x \in [0.273, 0.663]$, $y \in [0.484, 0.769]$; no wall contact |
+| Rigid run fluid | $u_{L2}$ grows $0 \to 0.0529$; $\lvert C_x\rvert \le 1.07$, $\lvert C_y\rvert \le 2.04$ |
+| Elastic disc, $T = 10$ s | $\max\lvert u_s\rvert = 0.820$ on the P2 solid space ($0.71$ in the P1 output field at the plotted times); peak at $t \approx 4$ s then partial rebound ($0.71 \to 0.61 \to 0.31 \to 0.44$); $\min \det \mathbf{F} = 0.7038 \ge 0.70$; volume $0.12566 \to 0.1274$; final centroid $(0.282, 0.732)$ |
 | Elastic run fluid | $u_{L2} \to 0.0623$, i.e. above the rigid run's $0.0529$ and above the 1.5 s no-solid reference $0.0612$ |
 
 ## 5. Discussion and limitations

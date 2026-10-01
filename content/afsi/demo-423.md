@@ -39,20 +39,26 @@ $R$, width $w$, outer radius $R + w$ and centre $(0.5,\, 0.5)$.
 
 The solid carries a single circumferential fibre family,
 
-$$S^{s} = \mu_s\,\hat{e}_\theta \otimes \hat{e}_\theta , \tag{1}$$
+$$
+S^{s} = \mu_s\,\hat{e}_\theta \otimes \hat{e}_\theta , \tag{1}
+$$
 
 With $l = 1$ the domain side, $\mathbf{v} = \mathbf{0}$ everywhere, and the
 constant
 
-$$C = \frac{\pi\,\mu_s\left[(R+w)^2 - R^2\right]}{2\,l^2} , \tag{2}$$
+$$
+C = \frac{\pi\,\mu_s\left[(R+w)^2 - R^2\right]}{2\,l^2} , \tag{2}
+$$
 
 the exact pressure is the piecewise function
 
-$$p(r) = \begin{cases}
+$$
+p(r) = \begin{cases}
 \mu_s \ln\!\left(1 + \dfrac{w}{R}\right) - C , & r \le R ,\\[4pt]
 \mu_s \ln\!\left(\dfrac{R + w}{r}\right) - C , & R < r < R + w ,\\[4pt]
 -C , & r \ge R + w .
-\end{cases} \tag{3}$$
+\end{cases} \tag{3}
+$$
 
 For the parameters of Table 1 the far-field level is $C = 0.055228\,\mathrm{Pa}$,
 the inner plateau is $p(0) = 0.167920\,\mathrm{Pa}$, and the entire variation of
