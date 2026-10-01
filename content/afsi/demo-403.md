@@ -1,32 +1,58 @@
 ---
-title: "demo_403 — elastic plate in cross flow (3-D)"
-description: "demo_403: a 3-D beam in cross flow (Tuković et al. §4.5) with a ramped parabolic inlet, a Neo-Hookean plate clamped at its base and immersed-boundary coupling."
+title: "403: Elastic Plate in Cross Flow"
+description: "A 3-D elastic plate in cross flow, from the Tuković et al. beam benchmark."
 date: 2026-09-12
 weight: 403
 academic: true
+demo_id: demo_403
+category: Benchmark
+dimension: 3D
+solid_model: "Neo-Hookean plate, massless, explicit Euler; clamped base by penalty"
+coupling: "immersed boundary (`IBMesh3D`), serial only"
+reference: "Tuković et al. (2018) §4.5"
+status: Partial
 ---
 
-## 1. What it is
+## 1. Introduction
 
-Channel flow over a thick elastic plate clamped at its base — the 3-D beam-in-cross-flow
-case of Tuković et al. (2018) §4.5, at $\mathrm{Re} = 40$. A hexahedral fluid box
-is coupled to a tetrahedral plate mesh through `IBMesh3D`; the plate is a
-Neo-Hookean solid fixed on its bottom face by a penalty and carries no inertia
-(the solid velocity is interpolated from the fluid and the position advanced by
-explicit Euler).
+A hexahedral fluid box is coupled to a tetrahedral plate mesh through `IBMesh3D`.
+The original benchmark uses a Saint Venant–Kirchhoff material; here the plate is
+Neo-Hookean (see §5), and the readme also quotes a "modified form" that is **not**
+what `main.py` runs.
+
+## 2. Problem description
+
+### 2.1 Geometry
 
 {{< figure src="/afsi/demo403-setup.png" title="Figure 1. The channel and the clamped plate." >}}
 
-## 2. Configuration
+The fluid box is $150 \times 40 \times 40\,\mathrm{cm}$ with a plate spanning
+$x \in [45, 55]$, $y \in [0, 20]$, $z \in [0, 20]\,\mathrm{cm}$; the plate is
+clamped along its bottom face (facet marker $10$).
+
+### 2.2 Governing equations
+
+{{< color "red" >}}TODO: governing equations — incompressible Navier–Stokes, the
+plate constitution (Neo-Hookean; the benchmark's Saint Venant–Kirchhoff form
+differs), and the IB coupling terms (see the symbol table page).{{< /color >}}
+
+### 2.3 Boundary and initial conditions
+
+The inlet carries a ramped parabolic profile
+$U_m(1-\cos(\pi t/t_{ramp}))/2$ with $t_{ramp} = 4.0\,\mathrm{s}$, then held;
+the outlet (marker $2$) is at $p = 0$, markers $3$ and $5$ are no-slip, markers
+$4$ and $6$ are symmetry planes (enforced only by *not* constraining the
+transverse components — see §5). The plate is fixed on its bottom face by the
+penalty $\beta$.
+
+### 2.4 Physical parameters
 
 <p class="tcaption">Table 1. Parameters. Lengths and material constants are in CGS, as in the source; the readme also quotes the SI equivalents.</p>
 
 | Quantity | Code name | Value |
 |---|---|---|
 | Fluid box | `Lx`, `Ly`, `Lz` | $150 \times 40 \times 40\,\mathrm{cm}$ |
-| Fluid cells | `Nx`, `Ny`, `Nz` | $150 \times 40 \times 40$ hexahedra |
 | Plate extent | `plate_x0` … `plate_z1` | $x \in [45, 55]$, $y \in [0, 20]$, $z \in [0, 20]\,\mathrm{cm}$ |
-| Plate mesh cells | `nx`, `ny`, `nz` | $5 \times 8 \times 8$ (tets) |
 | Density / viscosity | `rho`, `mu` | $1.0\,\mathrm{g\,cm^{-3}}$ / $10.0\,\mathrm{dyn\,s\,cm^{-2}}$ |
 | Peak inlet velocity | `Um` | $20.0\,\mathrm{cm\,s^{-1}}$ (SI: $0.2\,\mathrm{m\,s^{-1}}$) |
 | Inlet ramp | `ramp_time` | $4.0\,\mathrm{s}$, $U_m(1-\cos(\pi t/t_{ramp}))/2$, then held |
@@ -36,31 +62,43 @@ explicit Euler).
 | Derived Lamé constants | `mu_s`, `lambda_s` | $5.0\times10^{6}$ / $2.0\times10^{7}$ |
 | Base penalty | `beta` | $1\times10^{8}$ on facet marker $10$ |
 | Boundary markers | `marker_inlet` … | $1$ inlet, $2$ outlet ($p=0$), $3$ no-slip, $4$ symmetry, $5$ no-slip, $6$ symmetry |
-| Time step / end time | `dt`, `T` | $0.001\,\mathrm{s}$ / $6.0\,\mathrm{s}$ ($6000$ steps) |
-| Solver | `ChorinSolver` | $\mathrm{P2}$ / $\mathrm{P1}$, force $\mathrm{P2}$ |
 
-There are **no environment overrides** in this demo.
+{{< color "red" >}}TODO: the dimensionless groups of the benchmark (plate-height
+Reynolds number is given; check the benchmark's stiffness parameterisation).{{< /color >}}
 
-## 3. Files
+## 3. Numerical setup
 
-| File | Role |
-|---|---|
-| `configuration.py` | All parameters for `main.py`; computes `mu_s`, `lambda_s`, step count, output path |
-| `main.py` | Main 3-D driver: fluid, ramped inlet, plate, penalty fixation, IB coupling |
-| `generate_mesh.py` | Plate mesh → `plate_mesh.xdmf` (required by `main.py`) |
-| `NeoHookean.py`, `FRH.py` | Constitutive classes (imported only by the leftover 2-D script) |
-| `fsi_paralell.py`, `generate_mesh-0.py`, `generate_mesh-1.py`, `plot/` | Leftovers from the 2-D ideal-valve work — see the notes |
-| `readme.md` | Case description, CGS/SI parameter table, run commands |
+The fluid runs on $150 \times 40 \times 40$ hexahedra with `ChorinSolver`
+($\mathrm{P2}$ / $\mathrm{P1}$, force $\mathrm{P2}$), $\Delta t = 0.001\,\mathrm{s}$
+to $T = 6.0\,\mathrm{s}$ ($6000$ steps); the plate mesh (`nx`, `ny`, `nz`
+$= 5 \times 8 \times 8$ tets) is generated by `generate_mesh.py` and required by
+`main.py`. There are **no environment overrides** in this demo.
 
-## 4. Running it
+## 4. Results
 
-```bash
-cd afsic/demo/demo_403
-python generate_mesh.py     # solid plate mesh first
-python main.py              # or: mpirun -n 4 python main.py
-```
+### 4.1 Quantities of interest
 
-## 5. Results and notes
+The quantity of interest is the **beam-tip displacement time history**, compared
+against the digitised Tuković et al. curves (the readme's benchmark target).
+
+### 4.2 Comparison with reference
+
+{{< color "red" >}}TODO: the beam-tip displacement time history against Tuković et
+al. §4.5 — no run reaches the deflected regime yet, so the comparison is empty.{{< /color >}}
+
+{{< color "red" >}}TODO: figure placeholder — beam-tip displacement against the
+published curve.{{< /color >}}
+
+| Quantity | AFSI | Reference (Tuković et al.) | rel. err. |
+| --- | --- | --- | --- |
+| Beam-tip displacement (steady) |  |  |  |
+| Plate period / damping |  |  |  |
+
+### 4.3 Convergence study
+
+{{< color "red" >}}TODO: grid and time-step sensitivity — none exists.{{< /color >}}
+
+### 4.4 Flow and deformation fields
 
 {{< figure src="/afsi/demo403-results.png" title="Figure 2. A 100-step run at $40 \times 16 \times 16$ with the inlet ramp switched off: the plate picks up a displacement of up to $\approx 3$ mm over $0.05$ s (largest away from the clamped base), and the inflow has only reached $x \approx 20$ cm. The published deflection needs seconds of simulated time, which is out of reach at this resolution." >}}
 
@@ -80,7 +118,7 @@ the end of those series is $\approx 0.58\,\mathrm{cm}$ in $x$ and
 $\approx 0.42\,\mathrm{cm}$ in $y$ — see [demo_340](/afsi/demo_340/) for the
 curves that do belong to that case.
 
-Caveats:
+## 5. Discussion and limitations
 
 * The original benchmark uses a Saint Venant–Kirchhoff material; here the plate is
   Neo-Hookean, which the readme notes is only valid for small strains. The
@@ -98,3 +136,27 @@ Caveats:
   $z = 0$).
 * `main.py` carries a hard-coded SwanLab key and requires an HTTPS call to build
   the experiment name, so it does not run offline unchanged.
+
+## 6. Reproducibility
+
+<p class="tcaption">Table 2. Files in the demo.</p>
+
+| File | Role |
+|---|---|
+| `configuration.py` | All parameters for `main.py`; computes `mu_s`, `lambda_s`, step count, output path |
+| `main.py` | Main 3-D driver: fluid, ramped inlet, plate, penalty fixation, IB coupling |
+| `generate_mesh.py` | Plate mesh → `plate_mesh.xdmf` (required by `main.py`) |
+| `NeoHookean.py`, `FRH.py` | Constitutive classes (imported only by the leftover 2-D script) |
+| `fsi_paralell.py`, `generate_mesh-0.py`, `generate_mesh-1.py`, `plot/` | Leftovers from the 2-D ideal-valve work — see §4.4 and §5 |
+| `readme.md` | Case description, CGS/SI parameter table, run commands |
+
+```bash
+cd afsic/demo/demo_403
+python generate_mesh.py     # solid plate mesh first
+python main.py              # or: mpirun -n 4 python main.py
+```
+
+## References
+
+{{< color "red" >}}TODO: references — add Tuković et al. (2018) §4.5 and the
+original benchmark source of the beam case.{{< /color >}}

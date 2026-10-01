@@ -1,6 +1,6 @@
 ---
 title: "426: Slanted Channel Flow"
-description: ""
+description: "Slanted-channel flow with velocity- and pressure-Dirichlet driving, against the analytic solution."
 date: 2026-09-30
 weight: 2
 academic: true

@@ -546,6 +546,17 @@ body.modal-open { overflow: hidden; }
 .post-content figure img { border-radius: var(--radius); }
 .post-content figure figcaption { color: var(--secondary); font-size: 0.85rem; }
 
+/* ---------- AFSI section list (/afsi/) ---------- */
+/* layouts/afsi/list.html prints the front-matter description under the entry
+   title instead of the auto summary (which would be the page Abstract); clamp
+   it to two lines so every entry stays one glance tall. */
+.post-entry .entry-description p {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 /* ---------- Inline text colours (`color` shortcode) ---------- */
 /* {{< color "red" >}}…{{< /color >}} — see layouts/_shortcodes/color.html.
    Scoped to .post-content so the classes cannot leak into PaperMod's own

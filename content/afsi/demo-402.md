@@ -1,6 +1,6 @@
 ---
-title: "402: Turek FSI2 benchmark (2D)"
-description: ""
+title: "402: Turek FSI2 Benchmark"
+description: "An elastic flag behind a cylinder in channel flow: the classic FSI2 benchmark."
 date: 2026-09-12
 weight: 2
 academic: true
