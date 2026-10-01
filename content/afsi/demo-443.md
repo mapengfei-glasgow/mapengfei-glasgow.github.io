@@ -288,7 +288,8 @@ margin for marker spacings below $2h$ — see §5.
   variant is thus two-sided in $\kappa$ and narrower than the reference's
   adaptive-grid solver — a documented cost of the stabilised formulation,
   which the paper's introduction lists as “more severe time step restrictions
-  for explicit timestepping schemes” (see also the note on the index page).
+  for explicit timestepping schemes” (see also the
+  [dedicated note](/afsi/0-incompressibility-divergence-free-volume-penalty/)).
 * The fluid grid is four times finer than the reference's at the smallest
   $M$; this study does not claim a fluid-grid convergence statement of its own.
 
