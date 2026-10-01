@@ -17,9 +17,9 @@ status: Verified
 
 Two thin leaflets sit in a straight channel driven by a pulsatile inlet profile;
 they are fibre-reinforced hyperelastic (FRH) solids coupled to the fluid through
-the immersed boundary. The demo has two axes: a comparison of the AFSI tip
-displacement against published reference curves (Ryan et al. M2/M3, Kamensky et
-al.), and a fibre-angle study at $45^\circ$, $60^\circ$ and $75^\circ$.
+the immersed boundary. The case has two axes: a comparison of the tip displacement
+against published reference curves (Ryan et al. M2/M3, Kamensky et al.), and a
+fibre-angle study at $45^\circ$, $60^\circ$ and $75^\circ$.
 
 {{< figure src="/afsi/demo340-setup.png" title="Figure 1. The channel and the two fibre-reinforced leaflets, with the pulsatile inlet and the clamped edges." >}}
 
@@ -72,8 +72,7 @@ stiffness $C_1 = 1\times10^6$ and the bulk modulus $\kappa = 4\times10^5$. The
 exponential fibre term is what makes the leaflets nearly inextensible along
 $\mathbf f_1$: a $45^\circ$ layup for each leaflet, mirrored between the two so the
 pair opens symmetrically. The first Piola–Kirchhoff stress is the derivative
-$\mathbf P = \partial\Psi/\partial\mathbf F$; the driver lets UFL differentiate the
-energy instead of writing $\mathbf P$ out by hand.
+$\mathbf P = \partial\Psi/\partial\mathbf F$.
 
 The solid is advanced by a weak statement of the internal force only — there is no
 solid mass term:
@@ -86,19 +85,9 @@ $$
 $$
 
 where the second term is a penalty that pins the wall-attached leaflet edges
-($\beta = 10^8$), and $e = 4$ and $e = 15$ are the facet tags of the lower and upper
-leaflets respectively. $\mathbf X$ are the *current* solid node coordinates, so the
+($\beta = 10^8$); $\mathbf X$ are the *current* solid node coordinates, so the
 form is assembled from the Lagrangian coordinates themselves rather than from a
-displacement field.
-
-The code assembles exactly this quantity, with the opposite overall sign — the
-driver's `L_hat` carries a leading minus and is used directly as the residual
-vector. For a Galerkin residual that sign is a convention, but it matters for how the
-resulting vector enters the fluid: the C++ spreading kernel
-(`IBInterpolation::solid_to_fluid`) sets every node weight to $w_l = 1$ and sums,
-$\mathbf f_{ij} = \sum_l \delta_h(\mathbf x_{ij}-\mathbf X_l)\,\mathbf F_l$, with no
-further scaling. So the discrete object that drives the fluid is the assembled
-leaflet stress residual, spread with unit weights.
+displacement field, and no separate displacement variable appears.
 
 ### 2.3 Boundary and initial conditions
 
@@ -117,29 +106,29 @@ and the outlet carries $p = 0$. The channel starts from rest.
 
 <p class="tcaption">Table 1. Channel, leaflets and material. The fluid grid and the leaflet mesh are fixed; the fibre angle is the only parameter that changes between runs.</p>
 
-| Quantity | Code name | Value |
+| Quantity | Symbol / code name | Value |
 |---|---|---|
-| Channel | `Lx` × `Ly` (`main.py:39-40`) | $8.0 \times 1.61$ |
+| Channel | `Lx` × `Ly` | $8.0 \times 1.61$ |
 | Density / viscosity | `rho`, `mu` | $1.0$ / $0.1$ |
-| Inlet profile | literal (`main.py:123`) | $5\,(\sin 2\pi t + 1.1)\,y\,(1.61 - y)$ |
-| Outlet | — | $p = 0$ on the right edge |
 | Leaflets | `lx`, `ly` | $0.0212 \times 0.7$, at $x \approx 1.9894$, $y = 0$ and $y = 0.91$ |
 | Clamped edges | `dss(4)`, `dss(15)` | wall-attached edges, penalty `beta` $= 1\times10^{8}$ |
 | Material | `FRHMaterial` | `C0` $= 2\times10^{5}$, `C1` $= 1\times10^{6}$, `kappa` $= 4\times10^{5}$ |
-| Fibre vectors | `f1_d`, `f1_u` | $45^\circ$: $(0.7071, \pm0.7071)$; $60^\circ$ and $75^\circ$ are commented out in `main.py` |
+| Fibre vectors | `f1_d`, `f1_u` | $45^\circ$: $(0.7071, \pm0.7071)$; the $60^\circ$ and $75^\circ$ layups differ only in this vector |
 
-{{< color "red" >}}TODO: dimensionless numbers ($\mathrm{Re}$, solid-to-fluid stiffness ratios) if the case is to be reported dimensionless.{{< /color >}}
+{{< color "red" >}}TODO: dimensionless numbers ($\mathrm{Re}$, solid-to-fluid
+stiffness ratios) if the case is to be reported dimensionless.{{< /color >}}
 
 ## 3. Numerical setup
 
 The fluid and the solid live on different meshes and are coupled only through
 interpolation with a regularised delta function. Let $\{\mathbf X_l\}$ be the solid
-nodes and $\{\mathbf x_{ij}\}$ the fluid grid nodes. Each time step does four things.
+nodes and $\{\mathbf x_{ij}\}$ the fluid grid nodes. Each time step does four
+things.
 
-**1. Advance the fluid one step without the solid.** `ChorinSolver` performs a
-standard projection step: a tentative velocity, a pressure Poisson solve with
-$p = 0$ on the outlet, then an $L^2$ projection back onto the divergence-free space
-with the boundary conditions re-imposed.
+**1. Advance the fluid one step without the solid.** A Chorin projection step: a
+tentative velocity, a pressure Poisson solve with $p = 0$ on the outlet, then an
+$L^2$ projection back onto the divergence-free space with the boundary conditions
+re-imposed.
 
 **2. Interpolate the fluid velocity onto the solid nodes**,
 
@@ -153,7 +142,7 @@ $$
 \mathbf X^{\,n+1}_l = \mathbf X^{\,n}_l + \Delta t\,\mathbf U_l .
 $$
 
-This is the defining choice of this demo: the leaflets are **massless** and purely
+This is the defining choice of the case: the leaflets are **massless** and purely
 kinematic. They move exactly as the fluid at their location moves, and their
 elasticity enters only through the force they push back in step 4 — the same
 formulation as the standard immersed-boundary method for elastic boundaries.
@@ -173,101 +162,19 @@ step.
 
 <p class="tcaption">Table 2. Numerical setup.</p>
 
-| Quantity | Code name | Value |
-|---|---|---|
-| Fluid cells | `Nx`, `Ny` | $128 \times 32$ (cell $0.0625 \times 0.0503$) |
-| Solid mesh size | Gmsh | $0.01$ |
-| Time step / end time | `dt`, `T` | $1/16000$ / $3.0$ ($48\,000$ steps) |
-| Solver | `ChorinSolver` | $\mathrm{P2}$ velocity, $\mathrm{P1}$ pressure, force $\mathrm{P2}$ |
-| Output cadence | `fps` | $100$, i.e. one frame per $160$ steps |
-
-### 3.1 The implementation
-
-The driver is `main.py`; the material lives in `materials.py`. The parts that carry
-the mathematics:
-
-**Material.** The strain energy is written once and differentiated symbolically:
-
-```python
-class FRHMaterial:
-    def strain_energy(self, domain, F):
-        J = ufl.det(F)
-        C = F.T * F
-        F_bar = J ** (-1/2) * F
-        C_bar = F_bar.T * F_bar
-        I1_bar = ufl.tr(C_bar)
-        I4_bar = ufl.dot(params["f1"], C_bar * params["f1"])
-        psi = (0.5 * params["C0"] * (I1_bar - 3)
-               + params["C1"] * (ufl.exp(I4_bar - 1) - I4_bar)
-               + 0.5 * params["kappa_s"] * (0.5 * (J * J - 1) - ufl.ln(J)))
-        return psi
-
-    def first_piola_kirchhoff_stress_v1(self, domain, coords):
-        F = ufl.variable(ufl.grad(coords))
-        return ufl.diff(self.strain_energy(domain, F), F)
-```
-
-Note that `coords` are the current coordinates, so `grad(coords)` *is*
-$\mathbf F$ — the form is written in the current configuration and integrated over
-the reference domain, which is why no displacement field appears.
-
-**Fibre directions.** Each leaflet gets its own mirrored unit vector:
-
-```python
-f1_u = ufl.as_vector((0.7071067811865475, -0.7071067811865475))  # upper, 45 deg
-f1_d = ufl.as_vector((0.7071067811865475,  0.7071067811865475))  # lower, 45 deg
-
-material_up = FRHMaterial(C0=config["C0"], C1=config["C1"],
-                          kappa_s=config["kappa"], f1=f1_u)
-material_down = FRHMaterial(C0=config["C0"], C1=config["C1"],
-                            kappa_s=config["kappa"], f1=f1_d)
-```
-
-**Internal force and fixation.** One form, restricted to the two cell tags, plus the
-penalty on the pinned edges:
-
-```python
-PK1_up = material_up.first_piola_kirchhoff_stress_v1(structure, solid_coords)
-PK1_down = material_down.first_piola_kirchhoff_stress_v1(structure, solid_coords)
-
-L_hat = -inner(PK1_up, grad(dVs)) * dxx(11)          # upper leaflet (cell tag 11)
-L_hat -= inner(PK1_down, grad(dVs)) * dxx(1)         # lower leaflet (cell tag 1)
-L_hat -= config["beta"] * ufl.inner(circum_constraint, dVs) * dss(4)   # lower edge
-L_hat -= config["beta"] * ufl.inner(circum_constraint, dVs) * dss(15)  # upper edge
-L_hat = form(L_hat)
-```
-
-**The time loop**, in full, is the four steps above:
-
-```python
-for step in range(config["num_steps"]):
-    inlet_velocity.t = step * config["dt"]
-    u_inlet.interpolate(inlet_velocity)          # 1. pulsatile inlet
-    ns_solver.solve_one_step()                   #    fluid step (Chorin)
-    ib_interpolation.fluid_to_solid(ns_solver.u_._cpp_object,
-                                    solid_velocity._cpp_object)   # 2. u -> U_l
-    solid_coords.x.array[:] += solid_velocity.x.array[:] * config["dt"]  # 3. advect
-    solid_coords.x.scatter_forward()
-
-    ib_interpolation.evaluate_current_points(solid_coords._cpp_object)
-    assemble_vector(b1, L_hat)                   # 4. elastic force on solid nodes
-    ...
-    ib_interpolation.solid_to_fluid(ns_solver.f._cpp_object,
-                                    solid_force._cpp_object)      #    spread to grid
-    ns_solver.f.x.scatter_forward()
-```
-
-The interpolation and spreading kernels (`IBMesh`, `IBInterpolation`,
-`fluid_to_solid`, `solid_to_fluid`) are compiled C++ inside the `afsic` package, so
-this demo configures them rather than reimplements them; `evaluate_current_points`
-is what rebuilds the node-to-cell map each step, because the leaflet nodes move.
+| Quantity | Value |
+|---|---|
+| Fluid grid | $128 \times 32$ (cell $0.0625 \times 0.0503$) |
+| Solid mesh size | $0.01$ |
+| Time step / end time | $1/16000$ / $3.0$ ($48\,000$ steps) |
+| Solver | Chorin, $\mathrm{P2}$ velocity, $\mathrm{P1}$ pressure, force $\mathrm{P2}$ |
 
 ## 4. Results
 
 ### 4.1 Quantities of interest
 
-The quantity the demo is built around is the **leaflet-tip displacement** as a
-function of time, at the free tips (both components), compared against the
+The quantity the case is built around is the **leaflet-tip displacement** as a
+function of time at the free tips (both components), compared against the
 published reference curves and across fibre angles. Secondary quantities are the
 whole-leaflet $\max\vert u_s\vert$, the opening of the free gap between the tips,
 the peak velocity in the field, and the run-to-run agreement measures (maximum
@@ -292,22 +199,26 @@ The archived probe series ends at $t = 2.9999\,\mathrm{s}$:
 
 The angle trend is the expected one — the stiffer $75^\circ$ layup deflects least —
 but all three AFSI runs sit above the reference band ($+8\,\%$ in $x$, up to
-$+18\,\%$ in $y$ for $45^\circ$), which is worth keeping in mind when reading the
-comparison figures. That offset is a property of the model as configured, not
-scatter, and it is worth carrying when reading any comparison figure here.
+$+18\,\%$ in $y$ for $45^\circ$). That offset is systematic, not scatter, and it
+is worth carrying when reading any comparison figure here.
+
+{{< color "red" >}}TODO: the mapping from archived column to fibre angle is
+unverified — the series headers are run ids, and the $45^\circ/60^\circ/75^\circ$
+ordering lives only in a comment.{{< /color >}}
 
 ### 4.3 Convergence study
 
-{{< color "red" >}}TODO: grid and time-step sensitivity — the archived runs used a single resolution ($128 \times 32$, $\Delta t = 1/16\,000$) and no refinement study was performed.{{< /color >}}
+{{< color "red" >}}TODO: grid and time-step sensitivity — the archived runs used a
+single resolution ($128 \times 32$, $\Delta t = 1/16\,000$) and no refinement
+study was performed.{{< /color >}}
 
-### 4.4 Flow and deformation fields, and a full $T = 3$ s run
+### 4.4 Flow and deformation fields
 
-The archived series was regenerated end to end: `generate_mesh.py` (572 nodes, 848
-triangles, tag offsets 0 and 10) followed by the full $48\,000$ steps at
-$\Delta t = 1/16\,000$ s, driven by the pulsatile inlet
+A full $T = 3$ s run was made at the default resolution ($48\,000$ steps at
+$\Delta t = 1/16\,000$), driven by the pulsatile inlet
 $5(\sin 2\pi t + 1.1)\,y\,(L_y - y)$.
 
-{{< figure src="/afsi/demo340-valve-3s.png" title="Figure 3. The re-run at 0, 0.25, 0.5, 0.75, 1, 1.25, 1.5, 2 and 3 s. Top: the whole 8 x 1.61 channel (dashed box = the zoom below). Middle: the valve region with streamlines — the leaflets are shaded by their own displacement. Bottom: the two leaflets alone, dotted lines marking the undeformed positions. The leaflets are pushed downstream as the inlet rises and spring back as it falls." >}}
+{{< figure src="/afsi/demo340-valve-3s.png" title="Figure 3. The run at 0, 0.25, 0.5, 0.75, 1, 1.25, 1.5, 2 and 3 s. Top: the whole 8 x 1.61 channel (dashed box = the zoom below). Middle: the valve region with streamlines — the leaflets are shaded by their own displacement. Bottom: the two leaflets alone, dotted lines marking the undeformed positions. The leaflets are pushed downstream as the inlet rises and spring back as it falls." >}}
 
 {{< figure src="/afsi/demo340-history.png" title="Figure 4. Leaflet-tip displacement against the published curves: Ryan et al. M2/M3, Kamensky et al., the archived AFSI 45-degree series (thick grey) and this run (thin red), plus the inlet waveform with the snapshot times marked. This run is indistinguishable from the archive at this scale." >}}
 
@@ -315,16 +226,13 @@ $5(\sin 2\pi t + 1.1)\,y\,(L_y - y)$.
 
 | Quantity | Value |
 |---|---|
-| Steps / wall time | $48\,000$ steps, $707$ s on 8 MPI ranks |
+| Resolution / steps | $128 \times 32$, $\Delta t = 1/16\,000$, $48\,000$ steps |
 | Tip $x$-displacement | ranges $0.00015 \to 0.6015$; peak at $t \approx 1.25$ s |
 | Tip $y$-displacement | ranges $0.000 \to 0.4476$; peak at $t \approx 1.25$ s |
 | Whole-leaflet $\max \vert u_s \vert$ | $0.7515$ m, against a leaflet length of $0.7$ |
-| Agreement with the archived AFSI $45^\circ$ series | $\max$ difference $3.7\times10^{-4}$ on a $0.6014$ signal (0.06 %) |
+| Agreement with the archived AFSI $45^\circ$ series | $\max$ difference $3.7\times10^{-4}$ on a $0.6014$ signal (0.06 %) — the archived series is reproducible |
 | Cycle-to-cycle repeat | $x$ at $t = 0.25$ s vs $t = 2.25$ s: $0.5942$ vs $0.6013$ (1.2 %), i.e. still creeping toward the periodic state |
 | Versus the literature band | this run sits $\sim 8$ % above Ryan M2/M3 and Kamensky in $x$ and up to $\sim 18$ % in $y$ — the same offset the archived AFSI series shows |
-
-Raw per-step probe trace: `static/afsi/demo340-run/probe45-tip-displacement.csv.gz`
-($48\,000$ rows), figures from `static/afsi/demo340-make_valve_figures.py`.
 
 The deflection is **quasi-steady**: the tip tracks the inlet waveform with no
 visible phase lag, peaking as the inlet peaks ($t \approx 0.25$ s into each
@@ -337,77 +245,19 @@ $x \approx 2.7$, just downstream of the leaflets, rather than at the inlet.
 
 ## 5. Discussion and limitations
 
-**Which verification numbers are reproducible, and which are not.** The archived
-probe series was written by the AFSI maintainers and re-running the $45^\circ$
-case reproduces it to $3.7\times10^{-4}$ on a $0.6014$ signal (§4.4), so the
-archived series is trustworthy as a record of *this code*. What cannot be
-reconstructed is the mapping from column to angle: the CSV headers are AFSI run
-ids (`demo-340-000092/91/90`), and the claim that they are
-$45^\circ/60^\circ/75^\circ$ in that order lives only in a comment. Treat the
-angle ordering as unverified.
-
 **Why the AFSI curves sit above the literature band** ($+8\,\%$ in $x$, up to
 $+18\,\%$ in $y$) is an open question — the offset is systematic across the three
 fibre angles and across the archived and re-run series.
 
-{{< color "red" >}}TODO: discuss the cause of the offset against Ryan et al. / Kamensky et al. — boundary-condition treatment, penalty choice, or the massless kinematic leaflet model.{{< /color >}}
+{{< color "red" >}}TODO: discuss the cause of the offset against Ryan et al. /
+Kamensky et al. — boundary-condition treatment, penalty choice, or the massless
+kinematic leaflet model.{{< /color >}}
 
-Three properties of the shipped code are worth knowing because they silently change
-results or block a run:
-
-* **The facet-tag contract is hard-coded** — `find(15)` upper, `find(4)` lower,
-  `dxx(11)` / `dxx(1)` for the two leaflet cell tags. Regenerating the mesh with a
-  different tag offset misassigns the two materials without any error.
-* **`main.py` calls SwanLab unconditionally** at import time, so an offline run needs
-  the two entry points stubbed (or the API key/network present); the solve itself does
-  not depend on it.
-* **`generate_mesh.py` never calls `gmsh.finalize()`**, and several config keys
-  (`Nl`, `E_s`, `nu_s`, `pressure_order`) are never read. A commented-out block at the
-  end of `main.py` refers to `data/ideal_middle_wall.txt`, which is not in the repo.
-
-## 6. Reproducibility
-
-<p class="tcaption">Table 5. Files in the demo.</p>
-
-| File | Role |
-|---|---|
-| `main.py` | Driver: fluid, FRH leaflets, penalty fixation, IB coupling, time loop |
-| `materials.py` | `FRHMaterial` (used) and `NeoHookeanMaterial` (fallback, unused here) |
-| `generate_mesh.py` | Gmsh leaflets → `plot/mesh-340.xdmf` (tag offsets $0$ and $10$) |
-| `plot/plot_1.py` | AFSI against Ryan M2/M3 and Kamensky → `smoothed_x.png`, `smoothed_y.png` |
-| `plot/plot_2.py` | Fibre-angle comparison → `Anisotropic_x_displacement.png`, `Anisotropic_y_displacement.png` |
-| `plot/data/ani_{t,x,y}.csv` | Archived AFSI probe series ($302$ rows) for $45^\circ/60^\circ/75^\circ$ |
-| `plot/{X_M2,X_FSI,x_dis_ALE,Y_FSI,y_M2,Y_ALE}.csv` | Digitised reference curves |
-
-```bash
-conda activate afsi-dolfinx
-cd afsic/demo/demo_340
-python generate_mesh.py          # first run only (needs gmsh / python-gmsh)
-mpirun -n 8 python main.py       # full T = 3 s; ~12 min on 8 ranks, ~7 h serial
-
-cd plot && python plot_1.py      # comparison figure
-python plot_2.py                 # fibre-angle figure
-```
-
-Switching the fibre angle means editing the active `f1_*` / material lines in
-`main.py` (the $60^\circ$ and $75^\circ$ vectors are present but commented out).
-Environment overrides: `STEPS` (it sets both the step count and
-$T = \text{STEPS}\cdot\Delta t$; `STEPS=20` is the documented smoke test), plus
-`OUTPUT_PATH` and `PROBE_TRACE` added for this write-up (the former so a run does
-not have to write into the demo tree, the latter to dump the probe trace to CSV per
-step — the archived comparison needs the trace at every step rather than at the
-`fps = 100` output rate).
-
-What it costs and what to know before repeating it:
-
-| | |
-|---|---|
-| Steps to $T = 3$ s | $48\,000$ at $\Delta t = 1/16\,000$ |
-| Cost | $707$ s on 8 MPI ranks; $\approx 7$ h serial |
-| Speed-up from MPI | the fluid solve dominates, and it parallelises cleanly — unlike the 2-D immersed-boundary demos (`demo_339`, `demo_343`, `demo_421`), whose marker map is not MPI-safe, this one was written to run under `mpirun` |
-| Output cadence | `fps = 100`, i.e. one frame per $160$ steps |
-| Mesh | `generate_mesh.py` needs `gmsh` (`python-gmsh`); it writes `plot/mesh-340.xdmf`, which `main.py` reads unconditionally |
+{{< color "red" >}}TODO: which archived series corresponds to which fibre angle —
+confirm before using Figure 2 quantitatively.{{< /color >}}
 
 ## References
 
-{{< color "red" >}}TODO: references — add Ryan et al. (M2/M3), Kamensky et al. and the AFSI paper; the digitised curves in `plot/` are the data source for the comparison.{{< /color >}}
+{{< color "red" >}}TODO: references — add Ryan et al. (M2/M3), Kamensky et al. and
+the AFSI paper; the digitised curves in the repository are the data source for the
+comparison.{{< /color >}}

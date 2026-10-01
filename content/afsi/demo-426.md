@@ -35,7 +35,7 @@ The gap is intrinsic to the oblique ($30^\circ$) openings: the predictor's remai
 {{< references >}}
 
 
-## Apendix 1: Digest from {{< cite "li2025local" "author" >}} 
+## Apendix 1: Digest from {{% cite "li2025local" "author" %}} 
 
 {{< color "red" >}}It should be noted that parameter D it the veritical space between two walls.{{< /color >}}
 

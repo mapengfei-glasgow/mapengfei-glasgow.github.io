@@ -18,15 +18,15 @@ status: Partial
 A closed square cavity with a sliding lid carries a circular disc around its
 primary vortex. The same case is implemented with three different couplings:
 
-| Variant | Directory | Solid |
-|---|---|---|
-| Immersed-boundary finite elements | `fsi_paralell.py` | elastic disc, $\mathbf{P} = \mu_s(\mathbf{F} - \mathbf{F}^{-\mathrm{T}})$ |
-| Rigid multi-direct forcing | `multi-direct-frocing/` | rigid disc, iterated direct forcing, no constitutive law |
-| Elastic multi-direct forcing | `multi-direct-frocing-elastic/` | inertial disc, neo-Hookean + Kelvin–Voigt, added-mass term |
+| Variant | Solid |
+|---|---|
+| Immersed-boundary finite elements | elastic disc, $\mathbf{P} = \mu_s(\mathbf{F} - \mathbf{F}^{-\mathrm{T}})$ |
+| Rigid multi-direct forcing | rigid disc, iterated direct forcing, no constitutive law |
+| Elastic multi-direct forcing | inertial disc, neo-Hookean + Kelvin–Voigt, added-mass term |
 
-The point of the pair in `multi-direct-frocing*` is the back-effect question: a
-light, soft body carried by the flow produces almost no reaction force on the
-fluid, and the demonstration quantifies that against a solid-free reference.
+The pair of direct-forcing variants addresses the back-effect question: a light,
+soft body carried by the flow produces almost no reaction force on the fluid, and
+the case quantifies that against a solid-free reference.
 
 ## 2. Problem description
 
@@ -39,20 +39,22 @@ The cavity is the unit square with a sliding lid; the disc of radius $r = 0.2$
 
 ### 2.2 Governing equations
 
-{{< color "red" >}}TODO: governing equations — incompressible Navier–Stokes, the penalty (IB-FE) and direct-forcing formulations, and the solid constitution
-$\mathbf P = \mu_s(\mathbf F - \mathbf F^{-\mathrm T})$ / neo-Hookean + Kelvin–Voigt (see the symbol table page).{{< /color >}}
+{{< color "red" >}}TODO: governing equations — incompressible Navier–Stokes, the
+penalty (IB-FE) and direct-forcing formulations, and the solid constitution
+$\mathbf P = \mu_s(\mathbf F - \mathbf F^{-\mathrm T})$ / neo-Hookean + Kelvin–Voigt
+(see the symbol table page).{{< /color >}}
 
 ### 2.3 Boundary and initial conditions
 
 The lid slides at $U_{lid} = 1.0$ and the cavity walls are no-slip. The initial
-condition is quiescent: the re-runs behind the figures below were not restarted from
-an interpolated state; $t = 0$ is at rest.
+condition is quiescent: the re-runs behind the figures below were not restarted
+from an interpolated state; $t = 0$ is at rest.
 
 ### 2.4 Physical parameters
 
 <p class="tcaption">Table 1. Common configuration.</p>
 
-| Quantity | Code name | Value |
+| Quantity | Symbol / code name | Value |
 |---|---|---|
 | Cavity | `Lx`, `Ly` | $1.0 \times 1.0$ |
 | Lid velocity | `U_lid` | $1.0$ |
@@ -65,57 +67,48 @@ an interpolated state; $t = 0$ is at rest.
 
 ## 3. Numerical setup
 
-The direct-forcing variants use a hand-written AB2 fractional step
-($1.5/0.5$ convection, $n_{iter} = 10$ forcing iterations,
-$\nabla^2 p = \frac{2}{3\Delta t}\nabla\cdot\mathbf{u}$, then
-$\mathbf{u} \leftarrow \mathbf{u} - 1.5\Delta t\nabla p$) instead of
-`ChorinSolver`, with velocity / force / pressure spaces
+The direct-forcing variants use an AB2 fractional step ($1.5/0.5$ convection,
+$n_{iter} = 10$ forcing iterations, a pressure Poisson solve followed by the
+velocity projection) with velocity / force / pressure spaces
 $\mathrm{P2}$ / $\mathrm{P2}$ / $\mathrm{P1}$. The elastic variant adds an implicit
-added-mass term $\rho_f V_{node}$ to a lumped solid mass $M = \rho_s \pi r^2$
-(row-sum lumping of the consistent mass gives near-zero or negative vertex masses,
-hence the HRZ lumping). The IB-FE variant holds the disc with a penalty
-$\beta = 1 \times 10^{8}$. The cavity must start at the origin (see §5).
+added-mass term $\rho_f V_{node}$ to a lumped solid mass $M = \rho_s \pi r^2$ (HRZ
+lumping; row-sum lumping gives near-zero or negative vertex masses). The IB-FE
+variant holds the disc with a penalty $\beta = 1 \times 10^{8}$. The solver
+requires the cavity to start at the origin (see §5).
 
 <p class="tcaption">Table 2. What differs between the three runs.</p>
 
 | Variant | Fluid grid | $\Delta t$ | $T$ | Steps | Solid parameters |
 |---|---|---|---|---|---|
-| `fsi_paralell.py` | $64 \times 64$ | $1/200$ | $10.0$ | $2000$ | `mu_s` $= 0.1$, external mesh |
-| `multi-direct-frocing` | $128 \times 128$ | $0.0025$ | $10.0$ | $4000$ | rigid, displacement field imposed |
-| `multi-direct-frocing-elastic` | $128 \times 128$ | $0.0025$ | $1.0$ | $400$ | `mu_s` $= 0.05$, $\lambda_s = 0.5$, `mu_s_visc` $= 0.01$, `rho_s` $= 1.0$ |
-
-Environment overrides: `STEPS`, `NX`, `NY`, `DISK_MOTION` (`free`/`fixed`),
-`MARKER_MODE` (`disk`/`boundary`) for `multi-direct-frocing`; `STEPS`, `DT`,
-`NX`, `NY`, `RHO_S`, `MU_S`, `MU_S_VISC`, `LAMBDA_S`, `SOLID_ACTIVE`,
-`OUTPUT_PATH` for the elastic variant; `T` for `run_ib_compare.py`.
+| IB-FE elastic disc | $64 \times 64$ | $1/200$ | $10.0$ | $2000$ | `mu_s` $= 0.1$ |
+| Rigid direct forcing | $128 \times 128$ | $0.0025$ | $10.0$ | $4000$ | rigid, displacement field imposed |
+| Elastic direct forcing | $128 \times 128$ | $0.0025$ | $1.0$ | $400$ | `mu_s` $= 0.05$, $\lambda_s = 0.5$, `mu_s_visc` $= 0.01$, `rho_s` $= 1.0$ |
 
 ## 4. Results
 
 ### 4.1 Quantities of interest
 
-The quantities of interest are the disc-centre trajectory (ranges, net displacement,
-path length, swept angle), the solid health measures ($\max\lvert u_s\rvert$,
-$\min\det\mathbf F$, volume ratio), the fluid energy norm $u_{L2}$ — which does not
-depend on the force integralisation and is therefore the cleanest cross-run
-comparison — and the direct-forcing force coefficients $C_x$, $C_y$, $C_m$, which
-are order-of-magnitude references only (see §5).
+The quantities of interest are the disc-centre trajectory (ranges, net
+displacement, path length, swept angle), the solid health measures
+($\max\lvert u_s\rvert$, $\min\det\mathbf F$, volume ratio), the fluid energy norm
+$u_{L2}$ — which does not depend on the force integralisation and is therefore the
+cleanest cross-run comparison — and the direct-forcing force coefficients $C_x$,
+$C_y$, $C_m$, which are order-of-magnitude references only (see §5).
 
 ### 4.2 Comparison with the solid-free reference
 
-{{< figure src="/afsi/demo336-results.png" title="Figure 2. Smoke run at $48^2$ for 2 000 steps: the centroid path (barely moved at $t = 0.5$ s) and the drag coefficient; panel (c) is the back-effect table recorded in the readme." >}}
+{{< figure src="/afsi/demo336-results.png" title="Figure 2. Short run at $48^2$: the centroid path (barely moved at $t = 0.5$ s) and the drag coefficient; panel (c) is the back-effect comparison." >}}
 
-{{< figure src="/afsi/demo336-ib-vs-df.png" title="Figure 3. Archived comparison from `multi-direct-frocing-elastic/plot/compare_ib_df64.png`: centroid path, centroid $y(t)$ and top-edge $y(t)$ for the IB run and the direct-forcing runs at two resolutions." >}}
+{{< figure src="/afsi/demo336-ib-vs-df.png" title="Figure 3. Archived comparison: centroid path, centroid $y(t)$ and top-edge $y(t)$ for the IB run and the direct-forcing runs at two resolutions." >}}
 
-Numbers archived in the readmes rather than in result files:
+<p class="tcaption">Table 3. Archived comparisons.</p>
 
-<p class="tcaption">Table 3. Archived comparisons from the readmes.</p>
-
-| Quantity | Value | Source |
-|---|---|---|
-| Back-effect, no solid / soft ($\rho_s = 1$) / heavy ($\rho_s = 50$) | $u_{L2} = 0.0612$ / $0.0588$ / $0.0484$ at $t = 1.5$ s | `multi-direct-frocing-elastic/readme.md:112-116` |
-| 10 s run, $64\times64$, $\mu_s = 0.2$ | full clockwise orbit, period $\approx 5$ s, top edge $0.993$, $\min \det\mathbf{F} > 0.7$ | `multi-direct-frocing-elastic/readme.md:103-106` |
-| Solid viscosity comparison ($\rho_s = 1$, $\mu_s = 0.2$) | DF@128 without viscosity diverges at $t = 4.89$ s; with `mu_s_visc` $= 0.01$ top edge $0.993$ at $5$ s; IB@64 reaches only $0.980$ | `multi-direct-frocing-elastic/readme.md:143-148` |
-| Rigid disc, $128\times128$, $t = 1.25$ s | centroid $(0.6,0.5) \to (0.48,0.485)$; $C_x \approx -0.78$ fixed vs $\approx -0.03$ free | `multi-direct-frocing/readme.md:88-94` |
+| Quantity | Value |
+|---|---|
+| Back-effect, no solid / soft ($\rho_s = 1$) / heavy ($\rho_s = 50$) | $u_{L2} = 0.0612$ / $0.0588$ / $0.0484$ at $t = 1.5$ s |
+| 10 s run, $64\times64$, $\mu_s = 0.2$ | full clockwise orbit, period $\approx 5$ s, top edge $0.993$, $\min \det\mathbf{F} > 0.7$ |
+| Solid viscosity comparison ($\rho_s = 1$, $\mu_s = 0.2$) | DF@128 without viscosity diverges at $t = 4.89$ s; with `mu_s_visc` $= 0.01$ top edge $0.993$ at $5$ s; IB@64 reaches only $0.980$ |
+| Rigid disc, $128\times128$, $t = 1.25$ s | centroid $(0.6,0.5) \to (0.48,0.485)$; $C_x \approx -0.78$ fixed vs $\approx -0.03$ free |
 
 ### 4.3 Convergence and grid sensitivity
 
@@ -131,19 +124,18 @@ Numbers archived in the readmes rather than in result files:
 
 $64^2$ and $128^2$ agree to every digit reported; $32^2$ matches the centroid to
 $0.002$ and the extreme displacements to $0.4\,\%$ but **does not reproduce the
-orbit**: it covers one loop instead of two. So the field quantities are
-grid-converged at $64^2$, while the long-time orbital phase is not resolved there —
-that is the practical resolution requirement for this case.
+orbit**: it covers one loop instead of two. The field quantities are therefore
+grid-converged at $64^2$, while the long-time orbital phase is not resolved
+there — that is the practical resolution requirement for this case.
 
 ### 4.4 Flow and deformation fields
 
-Case 336 is the one worth pushing hardest, so it was run as a small study rather
-than a single case: six physical configurations, three grid resolutions, and every
-step logged. All runs are $T = 10\,\mathrm{s}$, $\Delta t = 0.0025\,\mathrm{s}$
-($4000$ steps), and share the same cavity and disc; they differ in the solid model
-and its parameters:
+The case was studied with a nine-run matrix — six physical configurations and
+three grid resolutions, all at $T = 10\,\mathrm{s}$,
+$\Delta t = 0.0025\,\mathrm{s}$ ($4000$ steps), sharing the same cavity and disc
+and differing in the solid model and its parameters:
 
-<p class="tcaption">Table 5. The run matrix. "Elastic" is the inertial neo-Hookean disc of §1 (the `multi-direct-frocing-elastic` driver) with Kelvin–Voigt damping; "rigid" is the iterated direct-forcing disc of §1.</p>
+<p class="tcaption">Table 5. The run matrix. "Elastic" is the inertial neo-Hookean disc of §1 (with Kelvin–Voigt damping); "rigid" is the iterated direct-forcing disc of §1.</p>
 
 | Run | Solid model | Parameters | Steps done |
 |---|---|---|---|
@@ -156,17 +148,15 @@ and its parameters:
 | `rigid_fixed` | rigid | held fixed | $4000$ |
 | `elastic_32` / `elastic_128` | elastic | as `elastic_base`, at $32^2$ / $128^2$ | $4000$ |
 
-† the heavy disc reached the wall at $t = 5.595\,\mathrm{s}$ and the driver stopped
-gracefully, as designed (`clamp_solid = False`). The clamped variant exists to get a
-full ten seconds out of that parameter set; its clamp is a modelling artefact, not
-physics.
+† the heavy disc reached the wall at $t = 5.595\,\mathrm{s}$, where the run
+stopped. The clamped variant exists to get a full ten seconds out of that
+parameter set; its clamp is a modelling artefact, not physics.
 
-**Snapshots at $t = 0, 2, 4, 6, 8, 10$ s.** Both direct-forcing variants were
-re-run for the full $T = 10$ s on the $64^2$ grid (the readme documents $64^2$ and
-$128^2$ as equivalent for the disc trajectory) and the XDMF/HDF5 time series
-rendered with PyVista.
+**Snapshots at $t = 0, 2, 4, 6, 8, 10$ s.** Both direct-forcing variants were run
+for the full $T = 10$ s on the $64^2$ grid, where the disc trajectory is
+grid-converged (§4.3).
 
-{{< figure src="/afsi/demo336-flow-pressure-0-10s.png" title="Figure 5. Rigid multi-direct forcing, 64x64. Top row: velocity magnitude with streamlines; bottom row: pressure with the time-averaged level removed (symlog colour scale, since the lid makes the corner values about ten times the interior signal). The disc interior is masked out; its outline is the deformed `disk.xdmf` geometry, reconstructed as reference circle plus displacement." >}}
+{{< figure src="/afsi/demo336-flow-pressure-0-10s.png" title="Figure 5. Rigid multi-direct forcing, 64x64. Top row: velocity magnitude with streamlines; bottom row: pressure with the time-averaged level removed (symlog colour scale, since the lid makes the corner values about ten times the interior signal). The disc interior is masked out; its outline is the deformed disc geometry, reconstructed as reference circle plus displacement." >}}
 
 At $t = 0$ the fluid is at rest and the pressure is still a smooth lid-corner field. By
 $t = 2$ s the primary vortex is established and the disc — which started at $(0.6, 0.5)$ —
@@ -179,25 +169,22 @@ coefficients and the disc's translational and angular speed, is in Figure 6.
 
 {{< figure src="/afsi/demo336-history.png" title="Figure 6. Rigid run: disc-centre trajectory (dotted circle = initial position), the direct-forcing force coefficients $C_x$, $C_y$, $C_m$, and the rigid-body speeds. The coefficients are order-of-magnitude references only — the marker volume sums to $\Delta s \cdot h \propto h$, so $\int f_{\mathrm{IB}}\,\mathrm{d}V$ does not converge under refinement (see §5)." >}}
 
-{{< figure src="/afsi/demo336-solid-disc-0-10s.png" title="Figure 7. Rigid run: solid displacement $u_s$ on the deformed grid, true scale, initial disc dashed. The disc travels further than its own radius (max $\vert u_s \vert = 0.51$ against $r = 0.2$), so the field is contoured on the deformed mesh — at the reference positions only the small overlap with the current pose would show. The displacement is a rigid-body translation plus rotation about the initial centre, so the disc stays a circle and its radius is invariant (mean radius 0.1244 at every plotted time). The centroid reconstructed this way agrees with `disk_trace.csv` to 5e-7." >}}
+{{< figure src="/afsi/demo336-solid-disc-0-10s.png" title="Figure 7. Rigid run: solid displacement $u_s$ on the deformed grid, true scale, initial disc dashed. The disc travels further than its own radius (max $\vert u_s \vert = 0.51$ against $r = 0.2$), so the field is contoured on the deformed mesh — at the reference positions only the small overlap with the current pose would show. The displacement is a rigid-body translation plus rotation about the initial centre, so the disc stays a circle and its radius is invariant (mean radius 0.1244 at every plotted time). The centroid reconstructed this way agrees with the traced disc centre to 5e-7." >}}
 
 For contrast, the elastic variant of the same case — an inertial neo-Hookean disc with
-Kelvin–Voigt damping ($\mu_s = 0.2$, $\rho_s = 1$, `mu_s_visc` $= 0.01$, the parameter set
-the readme documents for a 10 s run) — deforms strongly instead of translating rigidly:
+Kelvin–Voigt damping ($\mu_s = 0.2$, $\rho_s = 1$, `mu_s_visc` $= 0.01$) — deforms
+strongly instead of translating rigidly:
 
 {{< figure src="/afsi/demo336-elastic-solid-0-10s.png" title="Figure 8. Elastic run, 64x64, 4000 steps, $T = 10$ s. Top: $|u_s|$ on the reference mesh. Bottom: the deformed mesh itself, which shows the stretch and shear the soft disc accumulates in the cavity vortex. The dashed circle is the initial disc. $|u_s|$ peaks at 0.71 in the P1 output field (0.82 on the P2 solid space), and $\min \det \mathbf{F}$ stays above 0.70, so no element inverts." >}}
 
-Both runs completed 4000 steps at $\Delta t = 0.0025$ s with no NaN and no wall contact;
-the elastic run's solid stays well clear of inverting ($\min \det \mathbf{F} \ge 0.70$ over
-the whole run).
+Both runs completed 4000 steps at $\Delta t = 0.0025$ s with no NaN and no wall
+contact; the elastic run's solid stays well clear of inverting
+($\min \det \mathbf{F} \ge 0.70$ over the whole run).
 
-**Trajectories.** The disc-centre paths for all six configurations, and the centroids
-against time:
+**Trajectories.** The paths are all closed loops in the upper-left quadrant of the
+cavity, and they all run clockwise — the direction of the primary vortex:
 
 {{< figure src="/afsi/demo336-study-trajectories.png" title="Figure 9. Disc-centre paths for all six configurations (left, coloured by time) and the centroid coordinates against time (right; solid = $x$, dotted = $y$). Every run loops through the same upper-left region; the elastic discs reach further into the corner and start their second loop by $t = 8$ s, while the fixed disc does not move at all." >}}
-
-The paths are all closed loops in the upper-left quadrant of the cavity, and they
-all run clockwise — the direction of the primary vortex:
 
 <p class="tcaption">Table 6. Trajectory summary for the six configurations.</p>
 
@@ -225,8 +212,8 @@ not about a heavy disc.
 headline: the disc starts with a radius of $0.2$ and its nodes move up to $0.82$ —
 **four radii**. This is not a slightly wobbling disc; the baseline run is a
 strongly deforming soft body being stretched around the vortex, and the RMS
-displacement ($0.40$) says the deformation is distributed over the body rather than
-localised.
+displacement ($0.40$) says the deformation is distributed over the body rather
+than localised.
 
 {{< figure src="/afsi/demo336-study-deformation.png" title="Figure 11. Solid mesh health (left), area change (middle) and RMS deformation (right) for the elastic runs. The dashed line at $\det\mathbf F = 1$ is the undeformed state and the shaded band is where elements would invert; every run stays clear of it, but the heavy disc gets to $0.603$ and the baseline to $0.704$." >}}
 
@@ -240,15 +227,15 @@ localised.
 | `elastic_heavy_clamp` | $0.881$ | $0.655$ | $1.076$ | $1.037$ |
 
 The area change deserves a note, because it is easy to misread. The configuration
-sets $\lambda_s = 0.5$, i.e. a very compressible neo-Hookean solid, so $J$ is
-allowed to grow. The baseline run's area increases by $10.7\,\%$ over the ten
-seconds, which is a genuine feature of the chosen material parameters rather than a
-conservation failure — a nearly incompressible solid would need a much larger
-$\lambda_s$, and then P2 elements lock (see the elastic variant's notes).
+sets $\lambda_s = 0.5$, i.e. a very compressible neo-Hookean solid, so $J$ may
+grow. The baseline run's area increases by $10.7\,\%$ over the ten seconds — a
+genuine feature of the chosen material parameters rather than a conservation
+failure; a nearly incompressible solid would need a much larger $\lambda_s$, and
+then P2 elements lock.
 
-$\min\det\mathbf F$ is the quantity that decides whether the run survives at all: the
-explicit coupling inverts an element once it crosses zero. All four elastic runs end
-above $0.6$, and the baseline's minimum, $0.7038$, is reached late in the run.
+$\min\det\mathbf F$ decides whether the run survives at all: the explicit coupling
+inverts an element once it crosses zero. All four elastic runs end above $0.6$,
+and the baseline's minimum, $0.7038$, is reached late in the run.
 
 **Energy and forces.** The fluid energy norm is the cleanest way to compare the
 runs, because it does not depend on the force integralisation:
@@ -266,15 +253,14 @@ runs, because it does not depend on the force integralisation:
 | `rigid_free` | $0.0529$ | $-21.2\,\%$ | $0.0900$ |
 
 The elastic discs take only a few per cent of energy out of the cavity at the
-baseline parameters, and the softer one takes more than the baseline — which is the
-back-effect conclusion already recorded in the readme, now with numbers: a light,
-soft body carried by the flow pushes back very little, and making it softer still
-does not make it a better obstacle. What does change the budget is mass: the
-clamped heavy disc removes $23\,\%$, as much as the rigid one removes through its
-no-slip constraint. Note also that the *peak* $u_{L2}$ is high early in every
-solid run ($0.085$–$0.090$ against a monotone $0.067$ for the empty cavity) — the
-disc perturbs the flow strongly while it is being accelerated, even when the
-late-time energy is lower.
+baseline parameters, and the softer one takes more than the baseline — the
+back-effect conclusion, now with numbers: a light, soft body carried by the flow
+pushes back very little, and making it softer still does not make it a better
+obstacle. What does change the budget is mass: the clamped heavy disc removes
+$23\,\%$, as much as the rigid one removes through its no-slip constraint. Note
+also that the *peak* $u_{L2}$ is high early in every solid run ($0.085$–$0.090$
+against a monotone $0.067$ for the empty cavity) — the disc perturbs the flow
+strongly while it is being accelerated, even when the late-time energy is lower.
 
 **Instantaneous fields.** {{< figure src="/afsi/demo336-study-fields.png" title="Figure 13. The rigid-disc run at $t = 0, 2, 4, 6, 8, 10$ s: velocity magnitude (top), vorticity (middle) and pressure (bottom), with the disc outline drawn from its own displacement field. The cavity vortex forms by $t=2$ s, the disc is squeezed through the top-left corner between $t = 4$ and $6$ s where the velocity and pressure gradients are largest, and the flow is close to periodic afterwards." >}}
 
@@ -284,8 +270,7 @@ that is exactly where the deformation peaks and where $\det\mathbf F$ falls
 fastest. After $t = 6$ s the disc rides the vortex core and the field returns to a
 state close to its $t = 2$ s shape, consistent with the nearly periodic orbit.
 
-The re-runs behind Figures 5–8 add ($64 \times 64$, $\Delta t = 0.0025$ s,
-4000 steps):
+The re-runs behind Figures 5–8 add:
 
 <p class="tcaption">Table 9. Re-run numbers.</p>
 
@@ -299,72 +284,20 @@ The re-runs behind Figures 5–8 add ($64 \times 64$, $\Delta t = 0.0025$ s,
 
 ## 5. Discussion and limitations
 
-Caveats worth carrying:
+* Both direct-forcing variants are single-process only, and their drag/lift
+  integrals are order-of-magnitude references only: the marker volumes sum to
+  $\Delta s \cdot h \propto h$, so $\int \mathbf{f}_{\mathrm{IB}}\,\mathrm{d}V$
+  does not converge under refinement.
+* The solver requires the cavity to start at the origin: the IBM kernel computes
+  its base node as $X/h$ without subtracting a domain offset.
+* The clamped heavy-disc run is a modelling artefact (§4.4): conclusions from it
+  are about the clamp, not about a heavy disc.
 
-* `fsi_paralell.py` reads an external mesh from `~/afsi-data/336-lid-driven-disk/mesh/circle_20.xdmf`, which is not archived, and calls `create_vector(L_hat)`, which is invalid in dolfinx 0.10 — `run_ib_compare.py` patches both. The original IB route therefore does not run as shipped.
-* Both direct-forcing variants are single-process only, require a grid aligned with the origin — the IBM kernel computes its base node as $X/h$ without subtracting a domain offset — and their drag/lift integrals are order-of-magnitude references only: the marker volumes sum to $\Delta s \cdot h \propto h$, so $\int \mathbf{f}_{\mathrm{IB}}\,\mathrm{d}V$ does not converge under refinement.
-* The three drivers log to SwanLab and one queries `counter.pengfeima.cn`; `run_ib_compare.py` exists precisely to run them offline.
-* `compare_ib_df64.png` and `visc_compare.png` are not referenced by any script (`visc_compare.png` also renders its Chinese labels as missing-glyph boxes), so their provenance is unclear — only `df64_10s.png` is cited by the readme.
-* The clamped heavy-disc run is a modelling artefact (§4.4): conclusions from it are about the clamp, not about a heavy disc.
-
-{{< color "red" >}}TODO: what the case shows, in one paragraph — the open question of why the elastic disc orbits faster, and any comparison against a published reference, if one exists.{{< /color >}}
-
-## 6. Reproducibility
-
-<p class="tcaption">Table 10. Files in the demo.</p>
-
-| File | Role |
-|---|---|
-| `fsi_paralell.py` | Immersed-boundary FE driver (`ChorinSolver`, elastic disc) |
-| `multi-direct-frocing/` | Rigid-disc direct forcing: `configuration.py`, `main.py`, readme |
-| `multi-direct-frocing-elastic/` | Inertial elastic disc: configuration, driver, readme, formula sheet (`direct_forcing_formulas.tex/.pdf`) |
-| `run_ib_compare.py` | Offline harness: patches the network calls and the dolfinx-0.10 API break in `fsi_paralell.py`, then re-executes it |
-| `ns.py`, `structral_force.py` | Superseded scratch scripts (no time loop / hard-coded absolute mesh path) |
-
-```bash
-conda activate afsi-dolfinx
-cd afsic/demo/demo_336/multi-direct-frocing
-python main.py                 # 4000 steps, T = 10 s
-DISK_MOTION=fixed python main.py
-
-cd ../multi-direct-frocing-elastic
-python main.py                 # 400 steps, T = 1 s
-RHO_S=50 python main.py        # heavy solid: measurable back-effect
-```
-
-The study matrix is reproduced with the environment overrides of Table 2:
-
-```bash
-cd afsic/demo/demo_336
-# rigid disc, full 10 s
-OUTPUT_PATH=<dir>/ NX=64 NY=64 STEPS=4000 DISK_MOTION=free \
-    python multi-direct-frocing/main.py
-# elastic disc; the parameters of the matrix above
-cd multi-direct-frocing-elastic
-OUTPUT_PATH=<dir>/ NX=64 NY=64 STEPS=4000 MU_S=0.2 RHO_S=1 MU_S_VISC=0.01 python main.py
-```
-
-Every run writes a per-step `metrics.csv`
-(`t,cx,cy,disp_max,disp_rms,det_min,volume,Fx,Fy,p_L2,u_L2` for the elastic driver,
-and `t,cx,cy,theta,Vc_x,Vc_y,omega,u_L2,p_L2,u_max` for the rigid one), which is
-what `static/afsi/demo336-study.py` consumes to build the study figures above. The
-raw logs are archived under `static/afsi/demo336-study/`, and the rigid run's disc
-trace, force coefficients and per-step log under `static/afsi/demo336-run64/`; the
-full $400\,\mathrm{MB}$ XDMF/HDF5 field output is not committed. The snapshots were
-produced by `static/afsi/demo336-make_figures.py`, which reads the `.xdmf`/`.h5`
-pair with `h5py` and `xml.etree` and draws the streamlines with Matplotlib — VTK's
-`XdmfReader` cannot open this 2-D dolfinx output (`XDMF Error ... Can't Open
-Dataset`, and the process then dumps core), and this environment's
-`h5py`/`meshio` reject the HDF5 container as written (`bad object header version
-number`) while the run is in flight, so the plotter reads the finished `.h5` files
-directly.
-
-Two operational notes: the elastic driver runs under MPI (the $128^2$ run took
-$1439\,\mathrm{s}$ serial, the $64^2$ one $521\,\mathrm{s}$) but in this environment
-MPI aborts it with a heap-corruption error, so the whole matrix above is serial; and
-the rigid driver ignores `OUTPUT_PATH` unless patched, writing into the demo tree
-otherwise.
+{{< color "red" >}}TODO: what the case shows, in one paragraph — the open
+question of why the elastic disc orbits faster, and any comparison against a
+published reference, if one exists.{{< /color >}}
 
 ## References
 
-{{< color "red" >}}TODO: references — none cited yet; add a lid-driven-cavity reference (e.g. Ghia et al.) if the flow field is compared against one.{{< /color >}}
+{{< color "red" >}}TODO: references — none cited yet; add a lid-driven-cavity
+reference (e.g. Ghia et al.) if the flow field is compared against one.{{< /color >}}

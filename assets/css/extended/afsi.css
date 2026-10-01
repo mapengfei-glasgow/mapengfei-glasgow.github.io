@@ -1,0 +1,94 @@
+/* AFSI demo pages (layouts/afsi/single.html): sticky table of contents.
+
+   Desktop (≥ 1040 px, browsers with :has()): the article gets a 220 px rail
+   on the LEFT of the 720 px text column, and the centred .main is widened so
+   the rail fits next to the text.  The rail sticks to the viewport while the
+   notes scroll, and scrolls inside itself if it is taller than the screen.
+
+   Everywhere else (narrow screens, no :has(), print): the rail is hidden and
+   the familiar collapsible <details class="toc"> — rendered right below the
+   title by the layout — takes over. */
+
+.afsi-toc {
+    display: none;
+}
+
+.afsi-columns {
+    display: block;
+}
+
+.afsi-toc-title {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--secondary);
+    margin: 0 0 8px;
+}
+
+@media (min-width: 1040px) {
+    @supports selector(:has(*)) {
+
+        /* widen the page so 220 + 24 + 720 fits next to the article */
+        .main:has(.afsi-toc) {
+            max-width: calc(var(--main-width) + 248px + var(--gap) * 2);
+        }
+
+        .afsi-columns:has(.afsi-toc) {
+            display: grid;
+            grid-template-columns: 220px minmax(0, var(--main-width));
+            gap: var(--gap);
+            justify-content: center;
+        }
+
+        .afsi-toc {
+            display: block;
+        }
+
+        .afsi-toc-inner {
+            position: sticky;
+            top: 28px;
+            max-height: calc(100vh - 56px);
+            overflow-y: auto;
+            overscroll-behavior: contain;
+            padding-right: 6px;
+        }
+
+        /* the in-flow collapsible list is only for narrow screens */
+        .afsi-toc-inline {
+            display: none;
+        }
+
+        .afsi-toc-inner #TableOfContents ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .afsi-toc-inner #TableOfContents ul ul {
+            padding-inline-start: 12px;
+        }
+
+        .afsi-toc-inner #TableOfContents a {
+            display: block;
+            padding: 3px 8px;
+            border-left: 2px solid var(--border);
+            color: var(--secondary);
+            font-size: 13px;
+            line-height: 1.45;
+            text-decoration: none;
+        }
+
+        .afsi-toc-inner #TableOfContents a:hover {
+            color: var(--primary);
+            background: var(--code-bg);
+            border-left-color: var(--secondary);
+        }
+    }
+}
+
+@media print {
+    .afsi-toc {
+        display: none;
+    }
+}

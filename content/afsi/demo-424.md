@@ -8,7 +8,7 @@ demo_id: demo_424
 category: Verification
 dimension: 2D
 solid_model: "tether (volumetric spring, no constitutive law) + immersed occlusion membrane"
-coupling: "immersed boundary (`IBMesh` + `IBInterpolation`, four-point Peskin kernel)"
+coupling: "immersed boundary (four-point Peskin kernel)"
 reference: "closed-form Poiseuille solution and the one-dimensional tether balance (this page)"
 status: Verified
 ---
@@ -40,7 +40,7 @@ parallel-plate channel and the wall into two flat strips.
 
 <p class="tcaption">Table 2. Geometry and mesh parameters.</p>
 
-| Quantity | Code name | Value |
+| Quantity | Symbol / code name | Value |
 |---|---|---|
 | Aorta length | `L_AORTA` | $0.1\,\mathrm{m}$ |
 | Lumen half-height | `A_LUMEN` | $0.015\,\mathrm{m}$ |
@@ -51,14 +51,12 @@ parallel-plate channel and the wall into two flat strips.
 | Membrane thickness | `DISC_T` | $0.002\,\mathrm{m}$, spanning the lumen at mid-length |
 | Fluid cells | `NX` × `NY` | $101 \times 45$, $201 \times 90$ |
 | Cell size | $h$ = `BOX_W`/`NY` | $1.0\,\mathrm{mm}$, $0.5\,\mathrm{mm}$ |
-| Solid cell | `SOLID_DIV` $= 2$ | $h/2$ |
-| Coupling | — | `IBMesh` + `IBInterpolation`, four-point Peskin kernel |
-
-{{< color "red" >}}TODO: figure placeholder — dimensioned wall/lumen geometry (if a detail sketch is needed next to Figure 1).{{< /color >}}
+| Coupling | — | immersed boundary, four-point Peskin kernel |
 
 ### 2.2 Governing equations
 
-{{< color "red" >}}TODO: governing equations — incompressible Navier–Stokes and the immersed-boundary coupling terms (see the symbol table page).{{< /color >}}
+{{< color "red" >}}TODO: governing equations — incompressible Navier–Stokes and the
+immersed-boundary coupling terms (see the symbol table page).{{< /color >}}
 
 The solid carries no constitutive law: it is held in place by a volumetric spring
 (tether) alone, with the law
@@ -92,15 +90,14 @@ Prescribing pressure on a boundary is an essential (Dirichlet) condition on the
 pressure Poisson problem rather than a traction condition in the usual sense.
 Combined with the natural zero-traction condition of the momentum predictor it is
 the projection-method realisation of a prescribed-normal-traction
-(pressure-driven) open boundary; in this code it is exactly the `bcp` argument of
-the solver. Because both ends carry Dirichlet data the pressure null space is fixed
-and no gauge point is required.
+(pressure-driven) open boundary. Because both ends carry Dirichlet data the
+pressure null space is fixed and no gauge point is required.
 
 ### 2.4 Physical parameters
 
 <p class="tcaption">Table 3. Material and driving parameters. The solid carries no constitutive law: it is held in place by a volumetric spring (tether) alone.</p>
 
-| Quantity | Code name | Value |
+| Quantity | Symbol / code name | Value |
 |---|---|---|
 | Fluid density (normalised) | `RHO` | $\rho = 1.0$ |
 | Fluid dynamic viscosity | `MU` | $\mu = 3.5\times10^{-3}\,\mathrm{Pa\,s}$ |
@@ -124,17 +121,14 @@ comparisons.
 
 ## 3. Numerical setup
 
-The explicit projection solver `ChorinSolver` is used throughout. The incremental
-pressure-correction solver `IPCSSolver` is available in AFSI but is unsuitable for
-this configuration as shipped; the reason, the evidence and a verified remedy are
-given in §5. All results use $\Delta t = 2\times10^{-4}\,\mathrm{s}$ up to
-$T = 0.4\,\mathrm{s}$, with the linear pressure ramp of Table 3.
-
-The grid is square, which constrains the usable resolutions: with
-$W_{\text{box}} = 0.045\,\mathrm{m}$ and $L_{\text{aorta}}/W_{\text{box}} = 20/9$,
-$N_y$ must be a multiple of $9$, so $N_y \in \{45, 90, 180\}$ gives
-$N_x \in \{101, 201, 401\}$. Because $L_{\text{box}} = L_{\text{aorta}} + h$, the
-imposed gradient $\Delta p / L_{\text{box}}$ depends slightly on the resolution —
+The explicit projection solver of Chorin is used throughout; the incremental
+pressure-correction solver (IPCS) is unsuitable for this configuration, for the
+reason analysed in §5. The grid is square, which constrains the
+usable resolutions: with $W_{\text{box}} = 0.045\,\mathrm{m}$ and
+$L_{\text{aorta}}/W_{\text{box}} = 20/9$, $N_y$ must be a multiple of $9$, so
+$N_y \in \{45, 90, 180\}$ gives $N_x \in \{101, 201, 401\}$. Because
+$L_{\text{box}} = L_{\text{aorta}} + h$, the imposed gradient
+$\Delta p / L_{\text{box}}$ depends slightly on the resolution —
 $26.4005\,\mathrm{Pa\,m^{-1}}$ at $N_y = 45$ and $26.5318\,\mathrm{Pa\,m^{-1}}$ at
 $N_y = 90$. Each row of the results tables is compared against its own level's
 value.
@@ -178,8 +172,8 @@ $0.75\,L$ — but the velocity is systematically about $5\,\%$ low. The deficit 
 attributable to immersed-boundary smearing: the four-point Peskin kernel spreads
 the $2\,\mathrm{mm}$ wall over a band of $\pm 2h$, so the effective no-slip surface
 is displaced outward and the channel carries less flux. The pointwise error peaks
-next to the wall and is small in the core, which is the signature of an
-interpolation error rather than a solver error.
+next to the wall and is small in the core — the signature of an interpolation
+error rather than a solver error.
 
 {{< figure src="/afsi/demo424-closed-fields.png" title="Figure 3. Occluded configuration at $N_y = 45$. The pressure is uniform at approximately $26.6\,\mathrm{Pa}$ upstream and approximately $0$ downstream, with a jump at the membrane; the velocity magnitude shows the bypass flow in the two outer gaps and the nearly stagnant lumen chambers. Right: pressure along both channel centrelines." >}}
 
@@ -226,8 +220,8 @@ whereas the patent case converges monotonically.
 
 ### 4.3 Convergence study
 
-Refining $h$ from $1.0\,\mathrm{mm}$ to $0.5\,\mathrm{mm}$ gives the dollar-free
-convergence orders $p = \log_2(e_{45}/e_{90})$ listed below.
+Refining $h$ from $1.0\,\mathrm{mm}$ to $0.5\,\mathrm{mm}$ gives the observed
+orders $p = \log_2(e_{45}/e_{90})$ listed below.
 
 <p class="tcaption">Table 6. Patent configuration: observed convergence orders between $N_y = 45$ and $N_y = 90$.</p>
 
@@ -279,7 +273,7 @@ $$\int \rho\,\frac{\mathrm{D}\mathbf{u}}{\mathrm{D}t}\cdot\mathbf{v} -
 \int_{\Gamma} \left[ p\,(\mathbf{v}\cdot\mathbf{n}) -
 \mu\,(\nabla\mathbf{u}\cdot\mathbf{n})\cdot\mathbf{v} \right] = 0 . \tag{2}$$
 
-`IPCSSolver` retains the volume terms and **drops the entire boundary integral**.
+IPCS retains the volume terms and **drops the entire boundary integral**.
 Doing so is equivalent to imposing the natural condition
 
 $$\mu\,\nabla\mathbf{u}\cdot\mathbf{n} = p\,\mathbf{n} ,
@@ -291,22 +285,21 @@ Dirichlet is $p = \Delta p$, so zero traction is wrong by $\Delta p$: the moment
 predictor then attempts to build a viscous stress of order $\Delta p$ inside a
 one-cell layer and produces a large spurious $\mathrm{div}\,\mathbf{u}^{*}$ there.
 
-On its own this is a boundary-layer artefact. It becomes fatal because `IPCS`
-**accumulates** the pressure ($p\_ \mathrel{+}= \phi$): the spurious divergence
-feeds directly into $\phi$, and once the flow settles
+On its own this is a boundary-layer artefact. It becomes fatal because IPCS
+**accumulates** the pressure increment into the pressure field: the spurious
+divergence feeds directly into $\phi$, and once the flow settles
 ($\mathrm{div}\,\mathbf{u}^{*} \to 0$, hence $\phi \to 0$) the corrupted pressure
 is frozen in place with nothing left to correct it.
 
-`ChorinSolver` carries no $p$ in its momentum predictor, so its natural condition
+Chorin carries no $p$ in its momentum predictor, so its natural condition
 is the homogeneous $\mu\nabla\mathbf{u}\cdot\mathbf{n} = 0$ — exactly the physical
 interface condition for a boundary whose exterior only supplies pressure. That is
 why Chorin reproduces the exact profile and IPCS does not.
 
 ### 5.2 Evidence
 
-A solid-free plane channel at $N_y = 9$ with a ramp $0 \to 2.666\,\mathrm{Pa}$
-(`test_ipcs.py`), re-run for this page on 2026-09-13 at $2$–$3\,\mathrm{s}$ per
-variant:
+A solid-free plane channel at $N_y = 9$ with a ramp $0 \to 2.666\,\mathrm{Pa}$,
+run in three variants:
 
 <p class="tcaption">Table 8. Solid-free plane channel, $N_y = 9$: fitted pressure gradient and velocity error per solver variant.</p>
 
@@ -314,55 +307,42 @@ variant:
 |---|---|---|---|
 | Exact | $25.3947$ | $0$ | $0$ |
 | Chorin | $25.3949$ | $2.08\times10^{-5}\,\mathrm{Pa}$ | $-5.14\,\%$ |
-| IPCS, as shipped | $7.4107$ | $2.95\,\mathrm{Pa}$ | $-88.15\,\%$ |
+| IPCS, as configured | $7.4107$ | $2.95\,\mathrm{Pa}$ | $-88.15\,\%$ |
 | IPCS with restored traction term | $\mathbf{25.3944}$ | $\mathbf{7.43\times10^{-5}\,\mathrm{Pa}}$ | $-5.35\,\%$ |
 
 Imposing the full $\Delta p$ in a single step instead of ramping it yields the same
 broken result ($G = 7.40\,\mathrm{Pa\,m^{-1}}$, $2.95\,\mathrm{Pa}$), which rules
 out the explanation that the ramp increment is too small to be resolved.
 
-The instrumented pressure increment along the centreline shows the collapse
-directly; only the fixed version propagates the boundary datum into the interior.
-
-```text
-phi (as shipped) = [1.067e-2, -1.18e-3,  2.07e-3,  1.14e-3,  7.90e-4,  4.31e-4, 0]
-phi (fixed)      = [1.067e-2,  1.017e-2, 9.66e-3,  8.13e-3,  5.59e-3,  3.05e-3, 0]
-```
+The pressure increment along the centreline shows the collapse directly. In the
+defective case it decays immediately from the inlet datum ($1.07\times10^{-2}$,
+$-1.18\times10^{-3}$, $2.07\times10^{-3}$, $1.14\times10^{-3}$,
+$7.90\times10^{-4}$, $4.31\times10^{-4}$, $0$ from inlet to outlet), while with
+the restored traction term it carries the datum into the interior
+($1.07\times10^{-2}$, $1.02\times10^{-2}$, $9.66\times10^{-3}$,
+$8.13\times10^{-3}$, $5.59\times10^{-3}$, $3.05\times10^{-3}$, $0$).
 
 ### 5.3 Remedy
 
 Treating the pressure on the Dirichlet-pressure facets as known data and retaining
-its boundary term explicitly,
-
-```python
-F1 += dot(p_D * n, v) * ds(inlet_facets)      # n = FacetNormal(mesh)
-```
-
-leaves $\mu\nabla\mathbf{u}\cdot\mathbf{n} = 0$ as the only naturally imposed
-condition — the correct interface condition for a boundary loaded by an external
-pressure $p_D$. `ipcs_traction.py` implements this as `IPCSSolverTraction`, a
-subclass of `IPCSSolver`, so the shared solver is left untouched:
-
-```python
-solver = IPCSSolverTraction(V, Q, bcu, bcp, dt, rho, mu, ds_inlet, p_const)
-solver.p_traction.value = p_inlet(t)          # update every time step
-```
+its boundary term explicitly leaves $\mu\nabla\mathbf{u}\cdot\mathbf{n} = 0$ as the
+only naturally imposed condition — the correct interface condition for a boundary
+loaded by an external pressure $p_D$. The verified implementation restores the
+exact gradient (Table 8).
 
 Two cheaper alternatives should be noted.
 
-1. **Use Chorin** (the default of this demo). No code change is required and the
+1. **Use Chorin** (the default of this page). No change is required and the
    pressure field is already exact; the only cost is Chorin's
    $O(\Delta t)$ steady-state pressure error when an immersed body force is present
    (see [demo_423](/afsi/demo-423/)).
 2. **Drive with a body force** $\mathbf{f} = G\,\mathbf{e}_x$ and impose the
    pressure Dirichlet only at the outlet. This is well posed for either solver, but
-   $p\_$ then holds only the incompressibility part of the pressure; the physical
-   pressure is $p_{\text{phys}} = -Gx + p\_ + \text{const}$.
+   the accumulated pressure then holds only the incompressibility part; the
+   physical pressure is $-Gx$ plus the accumulated field plus a constant.
 
-Finally, a separate and independent defect in `IPCSSolver` is worth fixing: its
-velocity update (`A3 = assemble_matrix(a3)`) is assembled **without** `bcu`, and
-`set_bc` is never called, so the corrected velocity does not re-satisfy no-slip at
-the walls. `ChorinSolver` does apply `bcu` in the corresponding step.
+A second, independent defect: the corrected IPCS velocity does not re-satisfy the
+wall boundary conditions (Chorin's does).
 
 ### 5.4 Summary and open items
 
@@ -379,39 +359,18 @@ remedy restores the exact gradient.
 Open items:
 
 * $N_y = 180$ (wall eight cells thick) would establish whether $Q_{\text{gap}}$
-  also begins to converge; at roughly four times the cost of $N_y = 90$ this is an
-  approximately four-hour run.
+  also begins to converge.
 * The occluded case needs a longer $T$, or a steady-state solver, to settle; it
   oscillates at both resolutions.
 * The solid meshes at $N_y = 45$ and $N_y = 90$ place the inner wall surfaces at
   cell centres ($7.5h$) and on grid lines ($15h$) respectively. An immersed method
   does not require alignment, but the two levels are not geometrically identical in
   this respect.
-* The $N_y = 90$ field snapshots were not retained on this machine (only their
-  verification summaries), so the field figures are the $N_y = 45$ runs.
+* The $N_y = 90$ field snapshots are missing, so the field figures are the
+  $N_y = 45$ runs.
 
-## 6. Reproducibility
-
-```bash
-conda activate afsi-dolfinx
-cd afsic/demo/demo_424
-
-CASE=open   NY=45 python generate_mesh.py && CASE=open   NY=45 python main.py
-CASE=closed NY=45 python generate_mesh.py && CASE=closed NY=45 python main.py
-
-# solid-free control: isolates the open-boundary treatment from the IB coupling
-CASE=open NY=45 T_END=0.2 python test_channel.py
-
-# the IPCS diagnosis and its remedy
-SOLVER=chorin   NY=9 T_END=0.2 python test_ipcs.py
-SOLVER=ipcs     NY=9 T_END=0.2 python test_ipcs.py
-SOLVER=ipcs_fix NY=9 T_END=0.2 python test_ipcs.py
-```
-
-The environment variables `CASE`, `NY`, `SOLID_DIV`, `DT`, `T_END`, `RAMP_T`,
-`SOLVER`, `DP_MMHG`, `BETA` and `DIAG` override the values of Tables 2 and 3. The
-wall-clock cost of a single run on the machine used here was $26.1\,\mathrm{min}$
-($N_y = 45$) and $54.4\,\mathrm{min}$ ($N_y = 90$) per configuration.
+{{< color "red" >}}TODO: supply the $N_y = 90$ field snapshots (or mark the
+figures as coarse-grid only in their captions).{{< /color >}}
 
 ## References
 
@@ -422,7 +381,5 @@ wall-clock cost of a single run on the machine used here was $26.1\,\mathrm{min}
 2. Chorin, A. J. *Numerical solution of the Navier–Stokes equations.* Mathematics
    of Computation 22 (1968) 745–762.
 3. Peskin, C. S. *The immersed boundary method.* Acta Numerica 11 (2002) 479–517.
-4. AFSI source `afsic/demo/demo_424` (`configuration.py`, `generate_mesh.py`,
-   `main.py`, `verify.py`, `test_channel.py`, `test_ipcs.py`, `ipcs_traction.py`).
 
 </div>

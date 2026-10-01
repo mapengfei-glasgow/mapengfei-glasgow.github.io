@@ -1,24 +1,18 @@
 /* ---------------------------------------------------------------------------
-   Note pages (the AFSI demo write-ups), styled after https://ipc-sim.github.io
+   Note pages (the AFSI demo write-ups).
 
-   The reference site carries all of its CSS inline in the page <head>; the
-   rules below are that sheet, mapped onto this theme's markup:
+   On screen the notes get comfortable documentation typography — 16 px body,
+   1.7 line height, an 820 px column, left-aligned, coloured links — the
+   reading feel of the docs this material is compared with
+   (theme-next.js.org/docs, jsdokken.com/dolfinx-tutorial).
 
-     p { font: 10pt Arial }                       → body copy, sans, justified
-     .text  { font-family:'Open Sans'; 11pt; text-align:justify; margin:0 20px }
-     .heading     { font-family:'Open Sans'; font-size: 20pt }        (title)
-     .regularHeader { font: 16pt Playfair Display; margin-top:20px }  (h2)
-     .main { width:1000px; background:white; margin:auto; border-radius:10px }
-     img { box-shadow: 1px 1px 3px 3px rgba(0,0,0,.2); border-radius:6px }
-     td { padding-top:5px; padding-bottom:5px }
-     a { color:black; text-decoration:none }
-     a:hover { color:green; text-decoration:underline }
+   `@media print` still uses the old ipc-sim.github.io paper sheet (justified
+   11 pt body, three-line tables, figure shadows), so a printed note keeps
+   looking like the article it is.
 
-   Open Sans is self-hosted (the reference pulls it from Google Fonts, which is
-   unreliable here and is blocked by mixed content on their own https page).
-   The sheet is loaded only on pages that set `academic: true`, so the rest of
-   the site is untouched. Tables keep the three-line style: the reference site
-   has no tables, and these notes are mostly tables.
+   Open Sans is self-hosted (the reference pulls it from Google Fonts, which
+   is unreliable here).  The sheet is loaded only on pages that set
+   `academic: true`, so the rest of the site is untouched.
    --------------------------------------------------------------------------- */
 
 @font-face {
@@ -39,9 +33,12 @@
     src: url('/fonts/opensans/opensans-latin-italic.woff2') format('woff2');
 }
 
-/* .main { width: 1000px } — one wide, centred column for the notes. */
+/* .main — one centred column for the notes.  The old 1000 px matched the
+   print-style reference; on screen it made ~140-character lines.  820 px
+   keeps wide tables usable while staying near the reference docs' measure
+   (dolfinx-tutorial ≈ 790 px at 16 px). */
 :root {
-    --main-width: 1000px;
+    --main-width: 820px;
 }
 
 /* --------------------------------------------------------------- typography */
@@ -59,7 +56,7 @@
 .post-single .post-title,
 .page-header h1 {
     font-size: 20pt;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 1.35;
     text-align: center;
     margin-bottom: 0.4rem;
@@ -71,47 +68,49 @@
     text-align: center;
 }
 
-/* .text — 11 pt, justified */
+/* body copy — screen typography: 16 px, relaxed leading, left-aligned */
 .post-content {
-    font-size: 11pt;
-    line-height: 1.5;
-    text-align: justify;
-    hyphens: auto;
+    font-size: 16px;
+    line-height: 1.7;
+    text-align: left;
+    hyphens: manual;
+    color: var(--content);
 }
 
-/* .regularHeader — 16 pt serif, 20 px above */
+/* headings — large, bold, with clear air above (Playfair was never
+   self-hosted and fell back to Georgia, so both levels use Open Sans) */
 .post-content h2 {
-    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
-    font-size: 16pt;
-    font-weight: 400;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    font-weight: 600;
     line-height: 1.3;
-    margin: 20px 0 8px;
+    margin: 2em 0 0.6em;
     padding: 0;
     border: 0;
 }
 
 .post-content h3 {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-    font-size: 11.5pt;
+    font-size: 1.15em;
     font-weight: 600;
-    margin: 16px 0 6px;
+    margin: 1.6em 0 0.5em;
 }
 
-/* a { color:black; text-decoration:none } / a:hover { color:green; text-decoration:underline } */
+/* coloured links — the scanning anchor the black-link sheet lacked */
 /* The :not(.anchor) form is needed to outrank the theme's
    `.md-content a:not(.anchor) { text-decoration: underline }`. */
 .post-content a,
 .post-content.md-content a:not(.anchor),
 .post-single .post-title a,
 .post-single .post-meta a {
-    color: inherit;
+    color: var(--sky-blue, #2563eb);
     text-decoration: none;
 }
 
 .post-content a:hover,
 .post-content.md-content a:not(.anchor):hover,
 .post-single .post-meta a:hover {
-    color: green;
+    color: var(--sky-blue, #2563eb);
     text-decoration: underline;
 }
 
@@ -119,8 +118,16 @@
 .post-content code {
     font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
     font-size: 0.9em;
-    background: none;
+    background: var(--code-bg);
     border: 0;
+    border-radius: 4px;
+    padding: 0.12em 0.38em;
+}
+
+/* …but code inside a block keeps the theme's own box. */
+.post-content pre code,
+.post-content .highlight code {
+    background: none;
     padding: 0;
 }
 
@@ -186,7 +193,7 @@
 /* Caption above a table. */
 .post-content .tcaption {
     text-align: center;
-    font-size: 10pt;
+    font-size: 0.9em;
     line-height: 1.4;
     margin: 1.4rem 0.5rem 0.3rem;
 }
@@ -210,7 +217,7 @@
 
 .post-content figure figcaption {
     text-align: center;
-    font-size: 10pt;
+    font-size: 0.88em;
     line-height: 1.45;
     margin: 0.7rem 0.5rem 0;
     color: var(--content);
@@ -231,8 +238,8 @@
 /* ---------------------------------------------------------- references */
 
 .post-content .references {
-    font-size: 10pt;
-    line-height: 1.45;
+    font-size: 0.92em;
+    line-height: 1.55;
 }
 
 .post-content .references ol {
@@ -246,11 +253,25 @@
     .footer,
     .top-link,
     .post-header .post-meta,
-    #signin-btn {
+    #signin-btn,
+    .toc {
         display: none !important;
     }
 
     .post-single {
         max-width: none;
+    }
+
+    /* the paper sheet: justified 11 pt, the way these notes print */
+    .post-content {
+        font-size: 11pt;
+        line-height: 1.5;
+        text-align: justify;
+        hyphens: auto;
+    }
+
+    .post-content a {
+        color: inherit;
+        text-decoration: none;
     }
 }

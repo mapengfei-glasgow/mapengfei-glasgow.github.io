@@ -37,7 +37,7 @@ We run the same setup (N = 128, MFAC = 0.5, κ̂ = 1.0, T = 1 s) with both schem
 
 {{< color "red" >}} One more question is that I doubt that they have used ramping preloading, which is not mentioned in the paper.{{< /color >}}
 
-## Appendix: Digest {{< cite "li2025local" "author" >}} 4.3.2 Modified Turek-Hron
+## Appendix: Digest {{% cite "li2025local" "author" %}} 4.3.2 Modified Turek-Hron
 We investigate a modified version of the Turek-Hron fluid-structure interaction (FSI) benchmark,$^{56}$ which simulates flow around a flexible elastic beam attached to a fixed circular cylinder. $^{25}$ While the original benchmark specifies domain dimensions of $L= 2. 5$ and $H=0.41$, we extend the length to $L=2.46=6.0H$ to accommodate square Cartesian grid cells. This modification has a negligible impact on the benchmark results. The computational setup uses a fine-grid Cartesian cell size of $\Delta x=L/N$ with a time step of $\Delta t=0.00164\Delta x$, where $N$ is the grid number along the $\tilde{\text{longest dimension of the fluid domain. The structure consists of a circular cylinder }}($diameter d=0.1) centered at (0.2, 0.2); (2) and an elastic beam (length $l=0.35$, height $h=0.02)$ fixed to the cylinder's rear. A control point $A$ (initial position is (0.6,0.2)) is used for monitoring displacement. Fig. 24 shows the setup schematic.
 
 ![image-20261001021029977](https://githubimages.pengfeima.cn/images/202610010210227.png)
