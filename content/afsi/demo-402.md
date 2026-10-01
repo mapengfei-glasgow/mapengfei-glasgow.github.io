@@ -1,96 +1,76 @@
 ---
-title: "demo_402 — Turek FSI2 benchmark (2-D)"
-description: "demo_402: the Turek FSI2 channel-with-flag benchmark solved with immersed boundaries — configuration, and a careful note on where the shipped parameters differ from the published case."
+title: "402: Turek FSI2 benchmark (2D)"
+description: ""
 date: 2026-09-12
 weight: 402
 academic: true
 ---
 
-## 1. What it is
 
-Channel flow past a circular cylinder that carries a flexible flag — the Turek
-FSI2 benchmark — run through AFSI's immersed-boundary solver rather than a
-body-fitted ALE mesh. The cylinder is not treated as rigid: it is the same
-elastic material as the flag, held in place by a strong penalty. The readme is
-explicit that this is a **qualitative replication, not a precision match**.
+This demo appears in a lot of publications such as  {{< cite "turek2006proposal" "author" >}} and {{< cite "tukovic2018openfoam" "author" >}} , and there also some links for it: 
+1. https://www.solids4foam.com/tutorials/more-tutorials/fluid-solid-interaction/HronTurekFsi3.html
+2. https://kratosmultiphysics.github.io/Examples/fluid_structure_interaction/validation/fsi_turek_FSI2/
+3. https://docs.feelpp.org/toolboxes/latest/fsi/TurekHron/#Sandboge
+4. https://oomph-lib.github.io/oomph-lib/doc/interaction/turek_flag/html/#nested-classes
+    among which I think 1 and 2 are more reliable to reimplement. what we are going to reimplement is the one appears in 
+    {{< cite "li2025local" "author" >}} (**4.3.2 Modified Turek-Hron**) which is a bit different from the original one, but it is more suitable to be compared with.
+    {{< references >}}
 
-{{< figure src="/afsi/demo402-setup.png" title="Figure 1. The Turek FSI2 channel: the penalty-held cylinder and the flexible flag." >}}
 
-## 2. Configuration
 
-<p class="tcaption">Table 1. Parameters as the code actually runs them (`configuration.py`, CGS). The right-hand column records what the readme claims where the two disagree.</p>
+## Results
 
-| Quantity | Code name | Value (code) | Readme claim |
-|---|---|---|---|
-| Channel | `Lx`, `Ly` | $220 \times 41\,\mathrm{cm}$ | $2.5\,\mathrm{m}$ |
-| Fluid cells | `Nx`, `Ny` | $220 \times 41$ (cell $1\,\mathrm{cm}$) | — |
-| Density / viscosity | `rho`, `mu` | $1.0\,\mathrm{g\,cm^{-3}}$ / $10.0\,\mathrm{dyn\,s\,cm^{-2}}$ | $1000\,\mathrm{kg\,m^{-3}}$ / $1.0\,\mathrm{Pa\,s}$ |
-| Mean inlet velocity | `Um` | $200\,\mathrm{cm\,s^{-1}}$ | $1.0\,\mathrm{m\,s^{-1}}$ |
-| Reynolds number | — | $\approx 200$ (derived) | $100$ |
-| Cylinder | `turek.geo` | $R = 0.05\,\mathrm{m}$ at $(0.2, 0.2)\,\mathrm{m}$, scaled $\times100$ in `main.py` | $D = 0.1\,\mathrm{m}$ |
-| Flag | `turek.geo` | $0.35 \times 0.02\,\mathrm{m}$ | same |
-| Solid law | `main.py:219-234` | compressible neo-Hookean, penalty `beta` $= 1\times10^{6}$ on cell tag $1$ | Saint Venant–Kirchhoff |
-| Solid parameters | `mu_s`, `lambda_s`, `nu_s` | $2.0\times10^{7}$ / $8.0\times10^{7}\,\mathrm{dyn\,cm^{-2}}$, $\nu = 0.4$ | $E = 1.4\times10^{6}\,\mathrm{Pa}$, $\mu_s = 5\times10^{5}$ |
-| Inlet ramp | `t_ramp` | $2.0\,\mathrm{s}$, cosine | same |
-| Time step / end time | `dt`, `T` | $5\times10^{-5}\,\mathrm{s}$ / $10\,\mathrm{s}$ ($200\,000$ steps) | — |
-| Solver | `ChorinSolver` | $\mathrm{CG2}$ / $\mathrm{CG1}$, force $\mathrm{CG2}$ | — |
-| Output | `fps=100` | every $200$ steps | — |
+> Same as {{< cite "li2025local" "author" >}}: the Saint Venant-Kirchhoff constitutive law. Different: the IB$_4$ kernel (paper: IB$_3$/BS$_3$/CBS$_{32}$), the Chorin and IPCS schemes, a much softer tether (κ_s = κ̂Δx/Δt² with κ̂ = 1.0 vs the paper's 5.0×10⁴; the simulation already diverges at κ̂ = 2.5 in our explicit IB coupling, so the paper's stiffness cannot be computed), and no volumetric stabilization parameter.
 
-There are **no environment overrides**; the demo has no `os.environ` lookup and
-the solver is hard-coded to `ChorinSolver` regardless of the `nssolver` key.
-`turek.geo` is in SI metres while everything else is in centimetres, and
-`main.py` converts the solid with a two-line $\times100$ scaling — mixing the two
-systems is the easiest way to break this case.
+We run the same setup (N = 128, MFAC = 0.5, κ̂ = 1.0, T = 1 s) with both schemes. The two solvers agree closely: identical flapping frequency (≈ 5.1 Hz), visually indistinguishable wake fields (Figures 2–3) and a median per-frame difference of 0.14% in the flow-energy integral (Figure 1), while the peak tip amplitude differs by 12% (3.35 cm for Chorin vs 2.94 cm for IPCS).
 
-## 3. Files
+{{< figure src="https://githubimages.pengfeima.cn/images/202610011414836.png" title="Figure 1. Point A vertical displacement $\Delta Y(t)$ (top) and the flow-energy integral $\int_\Omega u^2\,\mathrm{d}A$ (bottom) for the two schemes (N = 128, MFAC = 0.5, κ̂ = 1.0, T = 1 s). Both schemes give the same flapping frequency ≈ 5.1 Hz; the peak amplitudes are 3.35 cm (Chorin) and 2.94 cm (IPCS)." >}}
 
-| File | Role |
-|---|---|
-| `configuration.py` | Every parameter in one dict, plus `num_steps`, output path and experiment name |
-| `turek.geo` | gmsh OpenCASCADE geometry: disk + flag, cut and fragmented so ball and tail share one conformal edge |
-| `generate_mesh.py` | `turek.geo` → `turek_mesh.xdmf`/`.h5` with cell tags ($1$ ball, $2$ tail) and facet tag $3$ |
-| `main.py` | IB-FSI driver: fluid, ramped parabolic inlet, neo-Hookean + penalty force, coupling, time loop |
-| `readme.md` | Benchmark description, parameters, known limitations |
+{{< figure src="https://githubimages.pengfeima.cn/images/202610011414450.png" title="Figure 2. Vorticity $\omega_z$ at $t = 1$ s (top: Chorin, bottom: IPCS). The wake, the deflected beam and the cylinder are visually indistinguishable between the two schemes." >}}
 
-## 4. Running it
+{{< figure src="https://githubimages.pengfeima.cn/images/202610011415796.png" title="Figure 3. Figure 2 zoomed on the cylinder, the flexible beam and the near wake." >}}
 
-```bash
-cd afsic/demo/demo_402
-python generate_mesh.py    # turek.geo -> turek_mesh.xdmf/.h5 (not shipped)
-python main.py             # or: mpirun -n <N> python main.py
-```
+{{< color "red" >}} Figures from the paper are obviously much acuter than our results. I think our results are the best we can get given the current mesh resolution. I doubted that the authors of the paper are using much denser background mesh. I also doubted that the parameter kappa in the paper is so large that we can barely use it because of stability. It should be smaller. No other questions currently.{{< /color >}}
 
-## 5. Results and notes
+{{< figure src="https://githubimages.pengfeima.cn/images/202609261742659.png" title="Figure 3. Figure 2 zoomed on the cylinder, the flexible beam and the near wake." >}}
 
-{{< figure src="/afsi/demo402-results.png" title="Figure 2. A 40 000-step run at $88 \times 17$ on the reduced grid, taken to $t = 2$ s (the ramp is complete): the flag tip jumps to a deflected state at $t \approx 0.55$ s and then holds, while the flow is still filling the channel. The published case runs ten times longer on a $220 \times 41$ grid." >}}
+{{< color "red" >}} One more question is that I doubt that they have used ramping preloading, which is not mentioned in the paper.{{< /color >}}
 
-**No results are archived**: the directory holds only the five source files,
-`turek_mesh.xdmf` is not shipped, and the configured output root
-`~/afsi-data/` does not exist here, so nothing from a run is stored. The readme
-reports parameters, not measurements, and warns that a short run should be done
-before committing to the full $200\,000$ steps.
+## Appendix: Digest {{< cite "li2025local" "author" >}} 4.3.2 Modified Turek-Hron
+We investigate a modified version of the Turek-Hron fluid-structure interaction (FSI) benchmark,$^{56}$ which simulates flow around a flexible elastic beam attached to a fixed circular cylinder. $^{25}$ While the original benchmark specifies domain dimensions of $L= 2. 5$ and $H=0.41$, we extend the length to $L=2.46=6.0H$ to accommodate square Cartesian grid cells. This modification has a negligible impact on the benchmark results. The computational setup uses a fine-grid Cartesian cell size of $\Delta x=L/N$ with a time step of $\Delta t=0.00164\Delta x$, where $N$ is the grid number along the $\tilde{\text{longest dimension of the fluid domain. The structure consists of a circular cylinder }}($diameter d=0.1) centered at (0.2, 0.2); (2) and an elastic beam (length $l=0.35$, height $h=0.02)$ fixed to the cylinder's rear. A control point $A$ (initial position is (0.6,0.2)) is used for monitoring displacement. Fig. 24 shows the setup schematic.
 
-Discrepancies to be aware of before quoting anything from this demo:
+![image-20261001021029977](https://githubimages.pengfeima.cn/images/202610010210227.png)
 
-* **Stiffness**: the readme's $E = 1.4\times10^{6}\,\mathrm{Pa}$ with
-  $\mu_s = 5\times10^{5}\,\mathrm{Pa}$ differs from the configured
-  $\mu_s = 2\times10^{7}\,\mathrm{dyn\,cm^{-2}} = 2\times10^{6}\,\mathrm{Pa}$ by
-  a factor of four; the code uses the configuration.
-* **Flow rate**: the readme's $1\,\mathrm{m\,s^{-1}}$ / $\mathrm{Re} = 100$ does
-  not match `Um` $= 2\,\mathrm{m\,s^{-1}}$, which puts the case at
-  $\mathrm{Re} \approx 200$; the parent `demo/readme.md` repeats the stale claim.
-* **Constitutive law**: the readme says Saint Venant–Kirchhoff; the assembled
-  stress is neo-Hookean.
-* **Physics that is not implemented**: the readme's gravity term
-  ($g = 2\,\mathrm{m\,s^2}$ on the flag), its `cyl_stiffness_factor` and its
-  `rho_s` do not appear anywhere in the code — the cylinder is held purely by the
-  `beta` penalty.
-* The logged `solid_force_norm` is $\int \mathbf{X}\cdot\mathbf{X}\,\mathrm{d}x$
-  over the solid coordinates, not a force norm.
-* The cylinder constraint is applied through the volume measure `dxx(1)` while
-  the comments (and the commented-out `dss(3)` line) describe fixing the circle
-  facet.
-* Boundary markers are hard-coded ($14/12/11/13$) rather than taken from the
-  package constants, and `IPCSSolver` is imported but never used.
-* `main.py` needs SwanLab plus a remote counter call on rank $0$ before the
-  simulation starts, so it does not run offline unchanged.
+Figure 24: Schematic of the Turek-Hron benchmark
+
+
+
+
+
+The boundary conditions are specified as follows: at the inlet ($x = 0$), $u(0, y) = 1.5Uy(H - y)/(H/2)^2$, where $U = 2$ is the average velocity; at the outlet ($x = L$), zero normal traction and zero tangential velocity are imposed; and along the top and bottom walls ($y = 0, H$), zero velocity conditions are enforced. The flow parameters yield $Re = \rho Ud/\mu = 200$, with $\rho = 1000$ and $\mu = 1$. The structure is modeled using the Saint Venant-Kirchhoff constitutive law: $\mathbb{S} = \lambda_s \text{tr}(\mathbb{E})\mathbb{I} + 2\mu_s \mathbb{E}$ where $\mathbb{S}$ is the second Piola-Kirchhoff stress tensor, $\mathbb{E}$ is the Green-Lagrange strain tensor, $\mathbb{I}$ is the second-order identity tensor, and material parameters are $\mu_s = 1 \times 10^6$, and $\lambda = 8 \times 10^6$. The cylinder is constrained using a spring tether force with penalty parameter $\kappa_s = 5.0 \times 10^4 \Delta x / \Delta t^2$. We examine three kernels: IB$_3$, BS$_3$, and CBS$_{32}$. The fluid domain uses $N = 128$ grid points along its longest
+
+dimension, providing sufficient resolution to isolate the effects of solid mesh refinement. We investigate MFAC values
+of 0.5,0.75,1.0,1.25, and 1.5.
+Figure 25 presents a representative color map of the vorticity field, highlighting the deformed beam simulated with
+the CBS$_{32}$ kernel and MFAC=0.5.
+Table 4 summarizes the maximum vertical displacements $(\Delta Y)$ at point A (shown in Fig. 24) for each kernel type across different MFAC values. The IB$_3$ kernel exhibits the most stable behavior concerning MFAC variations, while CBS kernels require smaller MFAC values and fail when MFAC exceeds 1, consistent with observations from other benchmarks. Figure 26 illustrates the oscillation histories of the vertical displacement for three MFAC values. The IB and BS kernels yield similar results, with smaller MFAC values generally predicting larger displacements. In contrast, the CBS kernel is less sensitive to the solid mesh resolution. The observed phase shift across different MFAC values is attributed to time step variations.
+
+
+
+![image-20261001022506178](https://githubimages.pengfeima.cn/images/202610010225308.png)
+
+Figure 25: Vorticity field of CBS32 with MFAC=0.5. The gray colormap shows the displacement magnitude.
+
+Table 4: Maximum vertical displacements for different kernel types across MFAC values. Missing data points indicate timestepping instabilities encountered when using a time step size of Δt = 10−6 s.
+
+MFAC 
+
+0.5 0.75 1 1.25 1.5 
+
+ 0.03686 0.03215 0.02794 0.02633 0.03087
+
+
+
+![image-20261001022652397](https://githubimages.pengfeima.cn/images/202610010226530.png)
+
+Figure 26: Vertical displacement of point A (as shown in Fig. 24 under varying MFAC values for different kernels. Right panels show detailed oscillations during t = 6.5–7.0.
