@@ -1,0 +1,292 @@
+---
+layout: single
+title: "FlyDubai passengers recount terrifying ordeal"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-01T00:00:00Z
+slug: "2026-10-01-flydubai-passengers-recount-terrifying-ordeal"
+audioDir: "2026-10-01-flydubai-passengers-recount-terrifying-ordeal"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-01-flydubai-passengers-recount-terrifying-ordeal/episode.mp3"
+totalDuration: 1609.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.40}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Thursday, the 1st of October, these are our main stories.", start: 6.80, end: 13.10}
+  - {text: "Passengers on a flight to Israel describe how they overpowered the co -pilot after he stabbed the pilot and apparently tried to crash the plane.", start: 13.70, end: 22.62}
+  - {text: "And new data shows Switzerland's glaciers lost more than 5 % of their ice this year as a result of climate change.", start: 23.22, end: 31.04}
+  - {text: "Also in this podcast, how adults and children use different senses to perceive emotions and why AI has resurrected the Hollywood actress Greta Garbo.", start: 32.15, end: 45.61}
+  - {text: "Zero fiction, remarkable speed.", start: 46.27, end: 49.11}
+  - {text: "We look at the ethics of so -called ghostploitation.", start: 50.82, end: 54.46}
+  - {text: "Israeli passengers who were caught up in terrifying scenes on a flight from Dubai to Tel Aviv have made an emotional return home to Ben -Gurion Airport.", start: 59.63, end: 68.89}
+  - {text: "A pilot stabbed his co -pilot and apparently attempted to crash the plane, which plummeted 5000 meters in two minutes.", start: 69.47, end: 77.71}
+  - {text: "Passengers then stormed the cockpit to subdue the attacker and the plane was safely diverted to Saudi Arabia by off -duty pilots who were on the flight.", start: 78.31, end: 86.79}
+  - {text: "The pilot who launched the attack has been arrested and is being questioned by Saudi authorities.", start: 87.47, end: 92.41}
+  - {text: "The injured pilot is reported to be in a stable condition in hospital.", start: 92.97, end: 96.25}
+  - {text: "But there are still many unanswered questions.", start: 96.83, end: 99.27}
+  - {text: "No information has been released about the identity of the attacker or how he was able to have access to a weapon on board.", start: 99.75, end: 106.87}
+  - {text: "Our correspondent, Yogatala Mai reports from Tel Aviv.", start: 107.41, end: 110.49}
+  - {text: "In Tel Aviv, families began arriving at the airport once they were told their loved ones were on their way home from Saudi Arabia.", start: 112.69, end: 123.00}
+  - {text: "When the passengers landed, Israel's Prime Minister Benjamin Netanyahu met them.", start: 123.82, end: 128.20}
+  - {text: "Some of them said the pilot who was stabbed managed to open the cockpit door, despite his injuries.", start: 128.84, end: 134.50}
+  - {text: "Israel has identified him as Indian national Smith Machar.", start: 135.12, end: 139.44}
+  - {text: "Finally, late in the evening, the passengers came out of the airport.", start: 140.08, end: 144.76}
+  - {text: "Asaf Rajwan, who tackled the attacker, got a hero's welcome.", start: 151.50, end: 155.34}
+  - {text: "I didn't think about it.", start: 155.76, end: 157.06}
+  - {text: "It's something that you do without just running to save your daughter's life, your family wife and all the people on the plane.", start: 158.40, end: 167.00}
+  - {text: "You don't think. You don't think.", start: 167.36, end: 168.58}
+  - {text: "You just act. Moti Kona, another passenger, described his terrifying experience.", start: 168.72, end: 173.98}
+  - {text: "In my life, I've never seen death pass before my eyes.", start: 174.86, end: 178.40}
+  - {text: "It was a frightening situation.", start: 178.62, end: 180.40}
+  - {text: "The plane was waving from side to side.", start: 180.84, end: 182.88}
+  - {text: "At one stage, there were no pilots.", start: 183.04, end: 185.28}
+  - {text: "One was neutralized and the other was in shock.", start: 185.74, end: 188.84}
+  - {text: "Today, there is much joy and celebration here.", start: 190.26, end: 193.16}
+  - {text: "Tomorrow, a surge for answers must begin.", start: 193.40, end: 196.42}
+  - {text: "The attack has prompted strong political reaction ahead of a hugely consequential election in Israel later this month, as I heard from our Middle East specialist, Sebastian Usher.", start: 197.86, end: 207.56}
+  - {text: "The Israeli Prime Minister Benjamin Netanyahu was on the ropes.", start: 208.26, end: 210.68}
+  - {text: "He'd always presented himself as Mr.", start: 211.18, end: 212.62}
+  - {text: "Security. And of course, on his watch, October the 7th happened, he's not allowed an independent investigation to take place, a lot of pressure from his rivals to do that.", start: 212.76, end: 222.64}
+  - {text: "So he was in a difficult situation.", start: 222.86, end: 224.50}
+  - {text: "I think this makes the situation easier for now, at least obviously it's a diversion.", start: 224.98, end: 229.06}
+  - {text: "It's nothing to do with him that it ended well as far as Israel's concern.", start: 229.80, end: 233.38}
+  - {text: "But I mean, he will benefit from that.", start: 233.54, end: 235.08}
+  - {text: "This could have been a terrible disaster, obviously.", start: 235.22, end: 237.58}
+  - {text: "And I think the messaging that he's trying to get across and his supporters trying to get across came through when he was at the airport,", start: 238.22, end: 244.60}
+  - {text: "he was meeting the Israelis who were on the plane when they came back.", start: 244.78, end: 248.04}
+  - {text: "And one of them, the passenger who says that he was one of those who was able to get into the cockpit and wrestle with the co -pilot,", start: 248.46, end: 258.34}
+  - {text: "he even said he took control of the plane briefly.", start: 258.82, end: 260.92}
+  - {text: "He'd seen how to do it on TV.", start: 261.36, end: 263.46}
+  - {text: "He greeted Mr. Netanyahu and was greeted by Israeli Prime Minister as kind of equals and use the same phraseology that Mr.", start: 264.18, end: 271.78}
+  - {text: "Netanyahu has used a lot, that he rose like a lion essentially to the challenge.", start: 271.90, end: 276.42}
+  - {text: "And this is something that echoes what Mr.", start: 276.78, end: 278.62}
+  - {text: "Netanyahu used just last week at the UN General Assembly and very much in support of his strategy that Israel must not stop its fight until it's defeated its enemies.", start: 278.68, end: 289.20}
+  - {text: "He's received criticism from political rivals but he's making political capital out of this.", start: 289.62, end: 294.24}
+  - {text: "The opposition leader Yahya Lapid said that what happened with this flight had nothing to do with what Mr.", start: 294.72, end: 302.36}
+  - {text: "Netanyahu was warning about just a day ago when he was saying there might be a major attack.", start: 302.44, end: 305.76}
+  - {text: "He was saying you can't use it this way.", start: 305.86, end: 307.36}
+  - {text: "This was something quite different.", start: 307.40, end: 308.44}
+  - {text: "You did not say this was going to happen, so don't try and play up as if it was.", start: 308.54, end: 313.20}
+  - {text: "And they're now talking about more stringent checks for pilots and cabin crew going to Israel because going there as a passenger, you go through a lot of checks", start: 313.70, end: 321.96}
+  - {text: "but presumably now they're going to be tightening up the ones they're carrying out on staff.", start: 321.96, end: 325.90}
+  - {text: "100%. I mean I think we know that if you're traveling on an Israeli airline it's incredibly stringent.", start: 326.68, end: 334.22}
+  - {text: "They have air marshals, they have really the highest security in the world.", start: 334.32, end: 337.34}
+  - {text: "The issue is planes that are carrying Israelis but are not Israeli planes.", start: 337.88, end: 341.84}
+  - {text: "You don't have the stringent security.", start: 342.18, end: 344.34}
+  - {text: "Now obviously Israel does have as much control as it can over that but it doesn't have final say.", start: 344.66, end: 350.18}
+  - {text: "So what has been announced by the Israeli authorities is they're going to try, I don't know quite how they're going to do it, but bring", start: 350.70, end: 356.90}
+  - {text: "that sort of level of control into non -Israeli airlines as well.", start: 356.90, end: 360.98}
+  - {text: "I think that's going to be very difficult because you're not going to be able to put air marshals and things on every plane that goes there.", start: 361.22, end: 365.96}
+  - {text: "And as you say, focusing on the air crew as well, more perhaps than before, but I think across the political divide in Israel, there's unity about praising the passengers on board as great heroes and that security needs to be increased,", start: 366.36, end: 384.74}
+  - {text: "but division over how this is going to play out politically.", start: 385.16, end: 389.26}
+  - {text: "As I say, Netanyahu's political rivals can see that this is doing him good at the moment.", start: 389.90, end: 395.22}
+  - {text: "This could potentially see him over the line.", start: 395.52, end: 398.32}
+  - {text: "I have to see.", start: 398.68, end: 399.20}
+  - {text: "Sebastian Usher. New data reveals Switzerland's glaciers suffered a near record loss of ice this year as intense summer heat waves led to unusually rapid melting.", start: 399.76, end: 411.40}
+  - {text: "The figures from Glacier monitoring Switzerland have been called devastating by experts.", start: 411.76, end: 416.82}
+  - {text: "Our correspondent, Imogen Folks, told us more.", start: 417.32, end: 419.88}
+  - {text: "The key findings for this year are that the glaciers have lost another five and a half percent of their volume.", start: 420.34, end: 427.64}
+  - {text: "That's almost the same.", start: 428.16, end: 429.40}
+  - {text: "We had a record loss in 2022, close to six percent.", start: 429.52, end: 433.64}
+  - {text: "And if you look at the last five years, these glaciers have lost 20 percent, a fifth of their volume.", start: 434.42, end: 442.18}
+  - {text: "And the bigger ones this year, your listeners might know the Rhone, Glacier or the Alec, they this summer with these successive heat waves have lost more than ever.", start: 442.54, end: 453.72}
+  - {text: "Now, some people might be saying, well, why does that really matter?", start: 454.04, end: 458.44}
+  - {text: "Ice on the top of a mountain.", start: 458.72, end: 460.14}
+  - {text: "I've been talking to Matthias Huss, who's the head of Glacier monitoring here in Switzerland.", start: 460.66, end: 465.08}
+  - {text: "The long -term consequences of water shortage, we're not seeing it now because we're still getting out a lot of water from the glaciers during these heat waves.", start: 465.78, end: 474.36}
+  - {text: "But if we repeat the same year 20 years from now, it will be much more critical in terms of water availability for irrigation.", start: 474.82, end: 483.74}
+  - {text: "The food supply, it's also all the transportation chains, also nuclear power plants sometimes needed to close down because there was simply not enough water in the streams.", start: 484.24, end: 494.74}
+  - {text: "So it's really changing the whole situation.", start: 495.02, end: 497.44}
+  - {text: "Imagine the Alps are known for glaciers, but what could the future look like?", start: 498.00, end: 502.26}
+  - {text: "Well, this is actually the thing that everybody in this part of the world is asking themselves.", start: 502.88, end: 509.42}
+  - {text: "I just two weeks ago drove up over the Alps from Italy.", start: 509.82, end: 513.82}
+  - {text: "It's a trip I do almost every year in September.", start: 514.34, end: 517.42}
+  - {text: "And this is the first time I have seen no snow, no ice, everything gray.", start: 518.14, end: 524.32}
+  - {text: "Now, Matthias Huss spends every year from June till September way up in the high Alps measuring the ice.", start: 525.10, end: 534.30}
+  - {text: "This year, he found a really different landscape.", start: 534.92, end: 539.20}
+  - {text: "I've just visited a large plateau that is now completely devoid of ice.", start: 539.64, end: 544.74}
+  - {text: "It's a moon landscape, dry and dead.", start: 545.26, end: 548.16}
+  - {text: "There are some little remnants, some ice blocks still lying around and melting there on the hot rocks.", start: 548.88, end: 554.14}
+  - {text: "And interestingly also, the vegetation is coming back and trying to colonize these deserts.", start: 554.88, end: 561.22}
+  - {text: "So it's a shifting of the elevation boundaries.", start: 561.34, end: 563.86}
+  - {text: "The ice is getting lost and the vegetation is rising.", start: 564.44, end: 567.58}
+  - {text: "There we go. Beautiful views that we all know about in the Alps, but these views are changing.", start: 568.22, end: 574.06}
+  - {text: "And as we heard there from Matthias Huss and from the report published today, the consequences are going to be much more than the postcards we sent home from Holland and the Alps are changing.", start: 574.62, end: 586.16}
+  - {text: "The X2 roller coaster at California's Six Flags Magic Mountain Theme Park has been one of America's most popular rides, but it's now closing for good.", start: 586.90, end: 598.58}
+  - {text: "After more than 100 people came forward, alleging they suffered brain injuries after riding it.", start: 598.84, end: 604.58}
+  - {text: "The park said the roller coaster had passed a range of safety tests, but conceded that visitors had lost confidence in the attraction.", start: 605.04, end: 611.98}
+  - {text: "CNN journalist Kyong La has been investigating.", start: 612.56, end: 615.22}
+  - {text: "What the families or the victims themselves have described is that they have gone into the hospital, they had their skulls cut open, and their lawyers say that it was connected, they believe, to this ride.", start: 615.86, end: 629.02}
+  - {text: "Three people that I saw.", start: 629.50, end: 630.58}
+  - {text: "One was very small and young.", start: 631.02, end: 632.62}
+  - {text: "The other woman was a larger and 10 years older.", start: 633.06, end: 635.94}
+  - {text: "So we have a 25 -year -old, a woman who is 39, and then an older gentleman, probably in about his 60s, and he was quite larger.", start: 636.12, end: 643.04}
+  - {text: "So three very different types of people, different bodies, and different ages.", start: 643.50, end: 647.26}
+  - {text: "On North America correspondent Shyma Khalil told us more about the ride.", start: 647.90, end: 651.38}
+  - {text: "You only have to look at YouTube people filming themselves as they're sitting on those seats that rotate 360 degrees, they've been being pulled backwards in that beginning of the ride,", start: 651.90, end: 661.60}
+  - {text: "and then cut into the, you know, the money shot of them plunging down head first.", start: 662.10, end: 667.12}
+  - {text: "In some cases lawyers have mentioned some needing emergency brain surgery.", start: 667.60, end: 671.90}
+  - {text: "You mentioned the 100 riders alleging brain injuries, but one law firm bringing several cases against the park said it was contacted by over 400 people", start: 672.06, end: 681.88}
+  - {text: "about broader injuries they say is connected to the ride.", start: 681.88, end: 685.74}
+  - {text: "And while the lawyers have said, look, their clients welcome the closure, it has come too late for some of them.", start: 685.88, end: 693.36}
+  - {text: "This has been going on for a while.", start: 693.36, end: 694.86}
+  - {text: "We know of one family of 22 -year -old who died after riding the X2 about two years ago, and they had just only settled a", start: 695.12, end: 703.06}
+  - {text: "wrongful death case with the park only in August.", start: 703.06, end: 705.64}
+  - {text: "So it has been going on for a while.", start: 705.86, end: 708.02}
+  - {text: "These troubles with that very popular ride, the park said, they recognize that trust in that particular ride, popular as it is among riders, that the rider trust has just been dented, it's been affected, and they've taken that very seriously.", start: 708.20, end: 723.16}
+  - {text: "They did reiterate, look, this is a very popular ride, it has passed a range of safety tests.", start: 723.74, end: 728.70}
+  - {text: "I would say, though, that we're talking about permanently closing that ride, it had been under investigation since July.", start: 729.20, end: 735.30}
+  - {text: "So it's been closed since July after reports of two riders suffering brain hemorrhages.", start: 735.50, end: 740.54}
+  - {text: "So the California safety regulatory officials have been investigating that, and that has been ongoing since July.", start: 740.96, end: 747.54}
+  - {text: "The park says that 16 million people have ridden since the X2 was relaunched in 2008.", start: 748.00, end: 754.82}
+  - {text: "So yes, it's very popular.", start: 755.12, end: 757.02}
+  - {text: "Yes, it's a real adrenaline rush, and it's a real favorite among enthusiasts.", start: 757.30, end: 761.30}
+  - {text: "But unfortunately, if you look at what the lawyers are saying of some clients, they had gone in for a thrill.", start: 761.50, end: 766.56}
+  - {text: "But they've suffered catastrophic brain injuries, and these are the things that are still ongoing that have led to the permanent closure.", start: 767.18, end: 772.42}
+  - {text: "Shyamakalil. Next, it's one of the most famous lines in cinema.", start: 773.22, end: 777.62}
+  - {text: "I want to be alone.", start: 778.47, end: 779.75}
+  - {text: "Where have you been?", start: 780.13, end: 780.71}
+  - {text: "I suppose I can cancel the anacondra.", start: 782.98, end: 784.56}
+  - {text: "I just want to be alone.", start: 785.27, end: 786.85}
+  - {text: "You're going to be very much alone, my dear madam.", start: 787.13, end: 788.49}
+  - {text: "This is the end.", start: 788.77, end: 789.27}
+  - {text: "Greta Garbo in the 1932 film Grand Hotel.", start: 790.30, end: 793.88}
+  - {text: "But now the star has gone from the golden age of Hollywood to the new age of artificial intelligence.", start: 794.42, end: 800.58}
+  - {text: "More than a century after her screen debut and decades after her death, an AI version of the actress has starred in advertisement for ball bearings.", start: 801.28, end: 810.62}
+  - {text: "Zero fiction, remarkable speed, and it can be paid for like it's 1919 with your energy savings.", start: 811.24, end: 818.98}
+  - {text: "Now if you don't mind, I want to be alone.", start: 821.53, end: 824.11}
+  - {text: "The rationale behind the ad is that when alive, Garbo featured in a promotional film for the same company.", start: 825.85, end: 832.79}
+  - {text: "But the reappearance of an actress who retired in her 30s and lived much of her life as a recluse has raised eyebrows.", start: 833.35, end: 840.19}
+  - {text: "Other late stars have also been given the AI resurrection treatment, and it's been labelled by some as ghostploitation.", start: 840.95, end: 847.81}
+  - {text: "Dominic Lees is an associate professor of filmmaking at Britain's Reading University, who specializes in the use of generative AI.", start: 848.41, end: 855.91}
+  - {text: "He says it's an ethical dilemma.", start: 856.45, end: 858.39}
+  - {text: "It's in a very murky legal zone.", start: 859.15, end: 862.09}
+  - {text: "The big questions are who controls us after we're dead, and law internationally is to kind of work out those questions.", start: 862.93, end: 870.89}
+  - {text: "Who controls our voice?", start: 871.03, end: 872.95}
+  - {text: "Who controls our faces and our images?", start: 873.15, end: 875.57}
+  - {text: "We've got a new situation in which the estate of a celebrity no longer just handles the financial affairs and so on after their death, but now controls their likeness and can deploy that for financial gain.", start: 876.17, end: 892.67}
+  - {text: "That would not have been something that Greta Garbo was aware of when executives were appointed.", start: 893.41, end: 901.01}
+  - {text: "This is a huge question for the creative industries and for performers.", start: 901.63, end: 905.67}
+  - {text: "We've found that in the UK, voice actors have lost 70 or 80 % of their income in the last couple of years because of the advent of voice cloning,", start: 906.61, end: 916.99}
+  - {text: "and now we're moving on to the point where an actor's likeness can be reproduced visually.", start: 917.47, end: 923.53}
+  - {text: "So this is a new situation we're encountering.", start: 924.03, end: 926.81}
+  - {text: "Dominic Lees. Still to come in this podcast.", start: 927.07, end: 932.37}
+  - {text: "We see a strong, robust face with prominent brow ridges, but many features are remarkably similar to ours.", start: 932.75, end: 941.47}
+  - {text: "Scientists digitally reconstruct the face of a human from more than 300 ,000 years ago.", start: 941.83, end: 948.55}
+  - {text: "This is the Global News podcast.", start: 955.95, end: 957.93}
+  - {text: "Russia's President Vladimir Putin will deliver his annual foreign policy speech today.", start: 958.86, end: 963.88}
+  - {text: "It will be closely watched for any signs and signals from the Kremlin about its war on Ukraine and about escalating tensions between Moscow and Europe.", start: 964.34, end: 974.16}
+  - {text: "Our Russia editor Steve Rosenberg will be there in the hall.", start: 974.56, end: 977.22}
+  - {text: "He says all signals point to the conflict continuing.", start: 977.56, end: 980.94}
+  - {text: "Down at the Russian parliament, the standing ovation for President Putin is expected.", start: 982.69, end: 988.33}
+  - {text: "After an election, his critics say was neither free nor fair.", start: 989.43, end: 993.47}
+  - {text: "His supporters dominate the new Duma.", start: 994.21, end: 997.07}
+  - {text: "But Putin knows that in Russia he's the one who runs the show, not them.", start: 997.55, end: 1003.23}
+  - {text: "So what decisions will he take on Ukraine and on tensions with Europe?", start: 1003.67, end: 1009.21}
+  - {text: "Will there be olive branches or escalation?", start: 1009.75, end: 1012.69}
+  - {text: "This week, I've been searching for clues.", start: 1013.53, end: 1016.11}
+  - {text: "Steve Rosenberg BBC News.", start: 1016.59, end: 1017.91}
+  - {text: "Clue number one. My brief encounter with Russia's foreign minister.", start: 1019.31, end: 1024.13}
+  - {text: "He doesn't sound very conciliatory.", start: 1024.67, end: 1027.01}
+  - {text: "When I ask Sergei Lavrov, is Russia waging a hybrid war on Europe?", start: 1027.63, end: 1032.25}
+  - {text: "He doesn't deny it.", start: 1033.03, end: 1033.97}
+  - {text: "By hybrid war, do you mean Russia destroying drones and missiles that Britain and Europe are supplying Ukraine with?", start: 1034.11, end: 1045.77}
+  - {text: "He says, call it what you want.", start: 1045.99, end: 1048.43}
+  - {text: "This is a war that Europe is waging against us.", start: 1048.81, end: 1051.91}
+  - {text: "No mention that it was Russia that launched a full -scale invasion of Ukraine in 2022.", start: 1054.13, end: 1060.09}
+  - {text: "Mr. Lavrov goes on to accuse the West of using brute force in Venezuela, in Iran.", start: 1060.95, end: 1066.83}
+  - {text: "When I point out that Russia uses brute force every day in Ukraine, he doesn't deny that either.", start: 1068.39, end: 1076.15}
+  - {text: "He says it's to eliminate a direct threat to Russia.", start: 1076.39, end: 1080.59}
+  - {text: "Peace feels a long way away, especially after my next conversation.", start: 1082.75, end: 1088.61}
+  - {text: "We'll finish off Ukraine as a viable state sooner or later.", start: 1088.95, end: 1094.43}
+  - {text: "Sergei Karaganov is a veteran foreign policy strategist.", start: 1094.43, end: 1098.63}
+  - {text: "He's also honorary chairman of Russia's Council for Foreign and Defense Policy.", start: 1098.87, end: 1104.25}
+  - {text: "We'll not argue about all the territory of Ukraine.", start: 1104.55, end: 1107.41}
+  - {text: "We'll create a no -fly and non -military zone, central and western parts of Ukraine.", start: 1107.77, end: 1113.35}
+  - {text: "And if they do not agree, they will suffer.", start: 1113.75, end: 1117.27}
+  - {text: "That's not acceptable to Kiev.", start: 1117.65, end: 1119.37}
+  - {text: "It's not acceptable to Europe, and it seems not acceptable to America.", start: 1119.47, end: 1122.43}
+  - {text: "Well, that's a problem.", start: 1122.87, end: 1124.25}
+  - {text: "Then we'll have to go further.", start: 1124.65, end: 1126.07}
+  - {text: "And according to my scenarios, the first series of blows will be conventional.", start: 1127.21, end: 1132.21}
+  - {text: "But if Europe does not surrender, then unfortunately we'll have to go nuclear.", start: 1132.69, end: 1137.35}
+  - {text: "There will be a little left of some European countries.", start: 1137.79, end: 1140.87}
+  - {text: "We've heard nuclear saber -attling before from Moscow and plenty of it over the last four and a half years.", start: 1141.19, end: 1147.85}
+  - {text: "Much of it has felt like an attempt to scare Europe into scaling back support for Ukraine.", start: 1148.49, end: 1154.49}
+  - {text: "It comes and goes, but never disappears completely.", start: 1155.31, end: 1158.43}
+  - {text: "This week, Russia sent a letter to NATO, threatening to use nuclear weapons if any attempt was made to cut off its Baltic exclave of Kaliningrad.", start: 1159.41, end: 1169.65}
+  - {text: "NATO's response, stop the nuclear threats.", start: 1170.45, end: 1173.71}
+  - {text: "So there is no sign of de -escalation.", start: 1174.41, end: 1177.21}
+  - {text: "And yet so many Russians I speak to about the war and about tensions with Europe seem to want to pretend that none of this is happening.", start: 1177.71, end: 1186.35}
+  - {text: "People like Tatyana. The big part of the nation don't want to think about this situation.", start: 1186.93, end: 1193.91}
+  - {text: "They want to escape these thoughts.", start: 1193.91, end: 1196.73}
+  - {text: "And maybe it's easy way to live because we don't think this horrible time every day.", start: 1197.63, end: 1205.33}
+  - {text: "Back in the Duma, President Putin is about to finish his speech.", start: 1208.57, end: 1212.37}
+  - {text: "His war on Ukraine has not gone to plan.", start: 1213.27, end: 1216.31}
+  - {text: "And yet the Kremlin leader seems confident and in control and determined not to give any ground on any front.", start: 1216.77, end: 1226.35}
+  - {text: "Steve Rosenberg. How do you work out how someone is feeling or if you're in danger?", start: 1229.60, end: 1236.06}
+  - {text: "Research from Durham University in the UK has found that adults and children rely on different senses to judge people and situations.", start: 1236.64, end: 1244.08}
+  - {text: "The study was led by psychology Professor Paddy Ross.", start: 1245.04, end: 1247.82}
+  - {text: "He outlined his findings to Claudia Hammond.", start: 1248.14, end: 1250.48}
+  - {text: "There was a study back in the 70s called the Colovita study in which if you saw a flash you were meant to hit a button", start: 1250.88, end: 1258.22}
+  - {text: "and if you heard a beep you were meant to hit a different button.", start: 1258.22, end: 1260.96}
+  - {text: "But then what the experimenters did was on purpose played them both at the same time and just said to people hit whatever button you fancy.", start: 1261.38, end: 1268.10}
+  - {text: "And what they found was that predominantly adults hit the button for the flash, so the visual stimulus, but they found the reverse in kids, that", start: 1268.56, end: 1276.84}
+  - {text: "the children would primarily hit the button for the beep.", start: 1276.84, end: 1279.56}
+  - {text: "So we wanted to know whether that Colovita effect extended to emotion recognition.", start: 1280.10, end: 1284.40}
+  - {text: "So what we did was we showed kids and adults people moving in emotional ways, so maybe crying in fear or with their fists up in anger.", start: 1284.92, end: 1292.72}
+  - {text: "But we played mismatched auditory stimuli, so someone crying or laughing or shouting.", start: 1293.18, end: 1299.84}
+  - {text: "And what happens is if you show someone for instance, crying in fear, but you hear them laughing and you just say to participants, how's that person feeling?", start: 1300.28, end: 1308.42}
+  - {text: "An adult will tend to say what they see, that that person's fearful, that they're scared.", start: 1308.88, end: 1313.58}
+  - {text: "Whereas for exactly the same stimulus, a child will say that that person's happy if they hear them laughing.", start: 1314.10, end: 1319.60}
+  - {text: "Why could it be?", start: 1319.92, end: 1320.74}
+  - {text: "It seems really surprising.", start: 1320.92, end: 1322.00}
+  - {text: "You think that the most salient obvious thing in front of you would be what someone's looking like.", start: 1322.18, end: 1327.50}
+  - {text: "We know that the auditory system is the first to develop.", start: 1327.50, end: 1331.86}
+  - {text: "There's evidence of people being able to hear in neutral.", start: 1332.20, end: 1335.52}
+  - {text: "So there's some studies where children will attend longer to their mother's voice compared to a stranger's voice, reading the same thing, because they've been exposed to that in the womb.", start: 1336.08, end: 1345.64}
+  - {text: "You know, children are little.", start: 1346.06, end: 1347.40}
+  - {text: "They cannot see as far as someone who is five foot tall.", start: 1347.74, end: 1351.06}
+  - {text: "We as adults can see threat before we hear it.", start: 1351.54, end: 1353.94}
+  - {text: "We can see much further.", start: 1354.16, end: 1355.16}
+  - {text: "We are taller. We have better eyesight than babies can't see more than a few feet in front of their faces.", start: 1355.46, end: 1360.36}
+  - {text: "So I suppose they're exposed to all of this auditory stimuli.", start: 1361.16, end: 1364.36}
+  - {text: "You can't really ignore what you're hearing.", start: 1364.78, end: 1366.70}
+  - {text: "So it could be an experience thing.", start: 1367.26, end: 1369.56}
+  - {text: "That is what they are most experienced at doing is listening compared to seeing.", start: 1369.74, end: 1373.92}
+  - {text: "But it could be a fun evolutionary argument that actually it's much more useful from a survival point of view when you're young to be able", start: 1374.26, end: 1382.24}
+  - {text: "to hear threat before you can see it.", start: 1382.24, end: 1384.08}
+  - {text: "Do we know what's going on in the brain that makes this happen?", start: 1384.26, end: 1386.96}
+  - {text: "There's two schools of thought.", start: 1387.36, end: 1388.56}
+  - {text: "One is that it's a thing called overshadowing, which is where the kids are hearing something and seeing something.", start: 1388.98, end: 1394.82}
+  - {text: "But they're processing that auditory information much, much more so to speak than the visual.", start: 1395.24, end: 1402.24}
+  - {text: "And so when they go to recall what they've seen, they just have access to way more auditory information than visual information.", start: 1402.76, end: 1409.36}
+  - {text: "The other school of thought is something called response competition.", start: 1410.28, end: 1413.06}
+  - {text: "And that's where they process both signals just fine.", start: 1413.86, end: 1416.96}
+  - {text: "But when they get asked them to make a response, they just rely on what they hear for whatever reason.", start: 1417.50, end: 1423.76}
+  - {text: "Maybe it's a more salient emotional cue for them.", start: 1423.94, end: 1426.40}
+  - {text: "Professor Paddy Ross. Finally, scientists have pieced together what one of the world's first humans looked like using fossil fragments to bring them to life in a new digital image.", start: 1426.76, end: 1438.34}
+  - {text: "The male face had been reconstructed after more than 300 ,000 years.", start: 1439.08, end: 1443.68}
+  - {text: "Scientists initially thought the remains, which were discovered in Morocco, belonged to an eanderthal.", start: 1444.24, end: 1448.62}
+  - {text: "But a reappraisal in 2017 showed it was the earliest homo sapien recorded.", start: 1449.00, end: 1454.12}
+  - {text: "Professor Francesco Galassi from Italy's University of Pavia co -authored the groundbreaking study.", start: 1454.84, end: 1460.44}
+  - {text: "I would say that what struck us was how recognizably human the face looked.", start: 1460.96, end: 1466.72}
+  - {text: "We see a strong, robust face with prominent brow ridges, but many features are remarkably similar to ours.", start: 1467.46, end: 1475.98}
+  - {text: "The brain case still has a more archaic shape.", start: 1476.72, end: 1479.84}
+  - {text: "Seeing the face on the screen brought us remarkably close to humans who lived more than 300 ,000 years ago.", start: 1480.64, end: 1488.16}
+  - {text: "Our story begins at Jebel Herude in Morocco, where the first skull was discovered during mining activities in 1961.", start: 1488.70, end: 1497.34}
+  - {text: "Later excavations uncovered more human fossils, stone tools, and above all evidence of fire.", start: 1497.86, end: 1504.84}
+  - {text: "Heated flint tools from the site were dated to around 315 ,000 years ago.", start: 1505.58, end: 1511.70}
+  - {text: "These discoveries revealed a very early stage in the evolution of homo sapiens.", start: 1512.20, end: 1517.42}
+  - {text: "This is particularly important because until a few years ago it was thought that homo sapiens was much more recent than these findings instead appear to point to.", start: 1517.80, end: 1529.76}
+  - {text: "Bringing back to life the face of one of our ancestors is very important, both scientifically and in terms of the popularization of science.", start: 1530.30, end: 1542.32}
+  - {text: "Of course there are some important limitations that we need to consider because we are not reconstructing just one complete individual, ours is a digital skull which is a composite.", start: 1543.16, end: 1554.64}
+  - {text: "So we should not think of this as an exact portrait of one person.", start: 1555.06, end: 1559.28}
+  - {text: "We should call it an anatomically informed approximation of a Jebel Herude individual.", start: 1560.06, end: 1566.36}
+  - {text: "So we are bringing back to life somebody or let's say the anatomy of a potential individual from that site, from that pre -historical period.", start: 1566.76, end: 1575.82}
+  - {text: "Professor Francesco Galassi And that's all from us for now.", start: 1575.82, end: 1582.23}
+  - {text: "If you want to get in touch you can email us at globalpodcast .cdc .co .uk.", start: 1582.47, end: 1586.55}
+  - {text: "You can also find us on X at BBC World Service.", start: 1586.79, end: 1589.85}
+  - {text: "Use the hashtag Global NewsPod.", start: 1590.19, end: 1592.07}
+  - {text: "Don't forget our sister podcast, The Global Story.", start: 1592.65, end: 1595.05}
+  - {text: "This edition of the Global News Podcast was mixed by Rebecca Miller, the editor is Karen Martin and I'm Charlotte Gallagher.", start: 1595.45, end: 1601.71}
+  - {text: "Until next time, goodbye.", start: 1601.71, end: 1603.25}
+---
