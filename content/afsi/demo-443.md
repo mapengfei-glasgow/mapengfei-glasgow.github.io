@@ -200,6 +200,25 @@ The reference value and Jacobian range are read from its $M = 32$, $\mathrm{MFAC
 | $K$ | $-4.80$ | $[0.68, 1.09]$ |
 | $10K$ (used) | $-4.09$ | $[0.88, 1.03]$ |
 | $100K$ | $-3.87$ | $[0.96, 1.01]$ |
+| $1000K$ | locks — see below | inverted |
+
+The window is two-sided. At the top end the bulk over-constrains the
+discrete system at the punch corner: with $1000K$ an element inverts
+($J_{\min} = -0.42$) within the first seconds and the coupled simulation then
+**freezes completely** — from $t \approx 2.5\,\mathrm{s}$ on every diagnostic
+is constant and the fluid velocity is identically zero: the run neither
+converges nor diverges, it locks. $100K$ is the last stable rung on this mesh.
+The same locked state appears in the $10K$ runs with markers at $h$ and below
+(§5), i.e. the cliff is crossed either by raising the bulk or by refining the
+markers relative to $h$; the two paths meet at the explicit-stability ratio of
+the stiffest (and most compressed) solid element in the coupling.
+
+The paper does not discuss a locking-type limit of $\kappa_S$ — no occurrence
+of “locking” in the text — and quotes instead the penalisation's known
+costs: “more severe time step restrictions for explicit timestepping schemes”
+and “additional isotropic stresses that alter the pressure response” (its
+introduction, after Devendran et al. and Vadala-Roth et al.). The frozen state
+observed here is the practical form of those restrictions in this solver.
 
 <p class="tcaption">Table 4. Companion runs (context for the calibration).</p>
 
@@ -207,7 +226,7 @@ The reference value and Jacobian range are read from its $M = 32$, $\mathrm{MFAC
 | --- | --- | --- | --- | --- | --- |
 | 8 | 32 | $10K$ | 100 | $-4.10$ | $[0.881, 1.031]$ |
 | 32 | 32 | $K$ | 50 | $-4.67$ | $[0.53, 1.11]$ |
-| 32 | 32 | $10K$ | unstable at $t \approx 10$ | — | — |
+| 32 | 32 | $10K$ | locks at $t \approx 10$ | — | — |
 
 The two figures of merit move together with the bulk modulus: the softer bulk
 engages the FE-coupling volume leak and deepens the displacement, the harder
@@ -262,7 +281,11 @@ margin for marker spacings below $2h$ — see §5.
   (markers at $h$ or below blow up at $t \approx 10\,\mathrm{s}$ at both
   $\Delta t = 0.002\,h$ and $0.001\,h$), so the calibrated configuration is
   reported on the one mesh that stays inside the window ($M = 8$, $N = 32$).
-  The feasibility window of this variant is narrower than the reference's
+  The failure is a lock, not a blow-up: an element inverts at the load corner
+  and the coupled state then freezes (all diagnostics constant, $u \equiv 0$).
+  Pushed further — $1000K$ at $M = 8$ — the lock happens within the first
+  seconds; $100K$ is the last stable rung. The feasibility window of this
+  variant is thus two-sided in $\kappa$ and narrower than the reference's
   adaptive-grid solver — a documented cost of the stabilised formulation,
   which the paper's introduction lists as “more severe time step restrictions
   for explicit timestepping schemes” (see also the note on the index page).

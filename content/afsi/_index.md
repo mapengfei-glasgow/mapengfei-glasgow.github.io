@@ -50,7 +50,12 @@ In the AFSI demos here the fluid is a finite-element
 only: the discrete divergence-free property is **not** available, so the
 effective incompressibility is carried by the material's volumetric term —
 see the calibration in demo_443 §3 and the cross-check in demo_441 §4.3, and
-the no-slip-box caveat of demo_442.
+the no-slip-box caveat of demo_442. The window on that volumetric term is
+two-sided in this solver: too soft and the volume leak softens the response;
+too stiff and the discrete system locks at sharp load corners (an element
+inverts and the run freezes — demo_443 §4.3). The paper itself does not
+discuss a locking-type limit; it quotes the penalisation's two known costs,
+the time-step restriction and the altered pressure response.
 
 ## The demo notes
 
