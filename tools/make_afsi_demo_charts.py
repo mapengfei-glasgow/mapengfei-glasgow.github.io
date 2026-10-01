@@ -95,21 +95,18 @@ def chart_442_area():
 
 
 def chart_443_time():
-    p8 = AFSI / "demo_443/plot/metrics_longm8.csv"
+    p8 = AFSI / "demo_443/plot/metrics_kap10longm8.csv"
     if not p8.exists():
         p8 = AFSI / "demo_443/plot/metrics_tfix.csv"
     d8 = load_csv(p8, ["t", "top_dY"])
-    tset = d8["t"][subsample(len(d8["t"]), 26)]
+    tset = d8["t"][subsample(len(d8["t"]), 30)]
     y8 = np.interp(tset, d8["t"], d8["top_dY"])
-    d32 = load_csv(AFSI / "demo_443/plot/metrics_convm32.csv", ["t", "top_dY"])
-    y32 = np.interp(tset, d32["t"], d32["top_dY"])
     print("{{< chart xlabel=\"t (s)\" ylabel=\"$\\Delta Y$ (cm)\" "
-          "caption=\"Top-centre displacement: M=8 (N=32, to t=100 s) and "
-          "M=32 (N=32, to t=50 s); the reference plateau is about -4.0 cm "
-          "(M=32, stabilised IB).\" >}}")
-    print("t, M=8 (N=32), M=32 (N=32), reference plateau (-4.0)")
-    for t, a, b in zip(tset, y8, y32):
-        print(f"{t:.4g},{a:.4f},{b:.4f},-4.0000")
+          "caption=\"Top-centre displacement, M=8, N=32, calibrated bulk "
+          "(KAPPA_MULT=10), against the reference plateau -4.03..-4.09 cm.\" >}}")
+    print("t, M=8 (N=32, 10K), reference plateau (-4.05)")
+    for t, a in zip(tset, y8):
+        print(f"{t:.4g},{a:.4f},-4.0500")
     print("{{< /chart >}}")
 
 

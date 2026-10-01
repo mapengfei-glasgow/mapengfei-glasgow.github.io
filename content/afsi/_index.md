@@ -41,7 +41,7 @@ references. The tables below show the state of every demo.
 | [`demo_424`](/afsi/demo-424/) | Tethered aorta, patent and occluded, in a box | **Full verification write-up**: refinement study and an IPCS solver defect |
 | [`demo_441`](/afsi/demo-441/) | Cook's membrane, plane strain, in a modified 13 cm domain | **Runs done**: $\Delta Y = 0.625 \to 0.655$ cm for $M = 8 \to 16$, inside the reference band $0.59$–$0.68$ cm |
 | [`demo_442`](/afsi/demo-442/) | Quasi-static pressurized circular membrane | **Runs done**: pressure jump within $1\,\%$ of $\kappa/R$; area error $\Delta A/A_0 = 1.3\times10^{-2}$ at $t=1$ s, four orders above the reference (FEM fluid background) |
-| [`demo_443`](/afsi/demo-443/) | Compressed block under a central downward traction | **Runs done**: $\Delta Y \approx -4.8$ cm at $M = 8$ against the reference plateau $\approx -4.0$ cm, with a documented punch-collapse trap |
+| [`demo_443`](/afsi/demo-443/) | Compressed block under a central downward traction | **Runs done**: $\Delta Y = -4.10$ cm against the reference $-4.03$…$-4.09$ cm, after calibrating the material bulk modulus to restore the reference's effective incompressibility |
 
 ### Three-dimensional
 
