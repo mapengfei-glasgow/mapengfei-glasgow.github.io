@@ -4,6 +4,7 @@ description: "An elastic flag behind a cylinder in channel flow: the classic FSI
 date: 2026-09-12
 weight: 2
 academic: true
+author: "Pengfei Ma"
 ---
 
 ## 1. Introduction
