@@ -44,6 +44,9 @@ errors, refinement orders and figures.
 | [`demo_421`](/afsi/demo-421/) | Fish swimming around a circular tank (DFIBMFoam port) | IBM kernel origin bug documented; **live $T = 1$ s run** with the shed vortex pair and body path |
 | [`demo_423`](/afsi/demo-423/) | Immersed anisotropic annulus at static equilibrium | **Full verification write-up** against the analytic pressure, now including the **executed refinement study** ($N = 16\ldots128$) |
 | [`demo_424`](/afsi/demo-424/) | Tethered aorta, patent and occluded, in a box | **Full verification write-up**: refinement study and an IPCS solver defect |
+| [`demo_441`](/afsi/demo-441/) | Cook's membrane, plane strain, in a modified 13 cm domain | Configuration only; runs pending |
+| [`demo_442`](/afsi/demo-442/) | Quasi-static pressurized circular membrane | Configuration only; runs pending |
+| [`demo_443`](/afsi/demo-443/) | Compressed block under a central downward traction | Configuration only; runs pending |
 
 ### Three-dimensional
 
