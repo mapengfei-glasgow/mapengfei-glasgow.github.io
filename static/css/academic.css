@@ -62,7 +62,12 @@
     margin-bottom: 0.4rem;
 }
 
-.post-single .post-meta,
+/* the byline (date · author) sits flush with the body text, not centred */
+.post-single .post-meta {
+    font-size: 10pt;
+    text-align: left;
+}
+
 .page-header .post-description {
     font-size: 10pt;
     text-align: center;

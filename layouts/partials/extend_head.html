@@ -27,8 +27,11 @@
 {{- if .Params.academic }}
 {{- /* Paper-style typography for the AFSI demo write-ups: Times New Roman,
        three-line tables, numbered captions. Only pages that opt in with
-       `academic: true` load it, so the rest of the site is unaffected. */}}
-<link rel="stylesheet" href="{{ "css/academic.css" | relURL }}">
+       `academic: true` load it, so the rest of the site is unaffected.
+       Same content-hash query as main.css: GitHub Pages serves static files
+       with max-age=600, so without it a stylesheet fix takes up to ten
+       minutes to reach the browser. */ -}}
+<link rel="stylesheet" href="{{ "css/academic.css" | relURL }}?v={{ substr (sha256 (readFile "static/css/academic.css")) 0 10 }}">
 {{- /* MathJax (self-hosted, SVG output — no CDN dependency and no web fonts,
        so it also prints cleanly). $…$ is inline, $$…$$ is display. */}}
 <script>
