@@ -9,4 +9,4 @@ status: WIP
 ---
 
 The method used in AFSI is basically developed from 
-{{< cite "wells2023nodal" "author" >}}, some modifications are necessary for the use of background solver to be a Finite Element method, for the conservation of energy, which will be kept by using dual interpolation and spreading operators.
+{{< cite "wells2023nodal" "author" >}}, some modifications are necessary for the use of background solver to be a Finite Element method, for the conservation of energy, which will be kept by using dual interpolation and spreading operators — see the [note on operator duality](/afsi/0-duality/).

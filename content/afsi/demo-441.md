@@ -122,7 +122,8 @@ penalty-to-inertia ratios match the paper's $\Delta t = 0.001\,\Delta x$). The
 Eulerian grid is a uniform quadrilateral mesh, the velocity is
 $\mathbb{P}_2$ and the pressure $\mathbb{P}_1$; the Lagrangian force density is
 assembled from the unified weak form and spread with the $\mathrm{IB}_4$
-kernel.
+kernel (spreading and interpolation are discrete adjoints of each other — see
+the [duality note](/afsi/0-duality/)).
 
 For reference, an economical protocol (load ramp shortened to
 $T_{\mathrm{l}} = 2\,\mathrm{s}$) was tested at $M = 8$: it reproduces the
