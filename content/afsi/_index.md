@@ -1,6 +1,6 @@
 ---
 title: "AFSI"
-description: "AFSI — an automated fluid–structure interaction solver on FEniCSx: notes on every demo in the repository, with configurations, run commands, results and caveats."
+description: "AFSI — an automated fluid–structure interaction solver on FEniCSx: notes on every demo in the repository, with configurations, results and caveats."
 date: 2026-09-12
 academic: true
 ---
@@ -21,15 +21,10 @@ hand-written element routines.
 
 ## The demo notes
 
-One page per demo in `afsic/demo`, written from the sources: the parameter set as
-the code actually runs it, the files and their roles, the commands, whatever
-results are archived, and the discrepancies that would otherwise cost an
-afternoon. Where nothing is archived, the page says so rather than quoting the
-readme.
-
-Two demos are worked through in full, against closed-form or published
-references — `demo_423` and `demo_424` below; those pages carry the measured
-errors, refinement orders and figures.
+One page per demo, all in the same paper-style layout — **setup → numerics →
+results → discussion**. Anything still to be verified is marked in **red**;
+`demo_423` and `demo_424` are complete, verified against closed-form or published
+references. The tables below show the state of every demo.
 
 ### Two-dimensional
 
