@@ -1,0 +1,289 @@
+---
+layout: single
+title: "France rocked by student protests"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-02T00:00:00Z
+slug: "2026-10-02-france-rocked-by-student-protests"
+audioDir: "2026-10-02-france-rocked-by-student-protests"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-02-france-rocked-by-student-protests/episode.mp3"
+totalDuration: 1838.0
+sentences:
+  - {text: "This BBC podcast is supported by ads outside the UK.", start: 0.00, end: 3.38}
+  - {text: "You might drink it every day, but did you know that the history of tea is steeped in Skulduggery, colonialism and industrial espionage.", start: 5.60, end: 14.24}
+  - {text: "I'm Greg Jenner, host of You're Dead To Me, with a comedy show that takes history seriously and in our latest episode we spill the tea on tea.", start: 14.70, end: 22.72}
+  - {text: "Join us to unpack the ancient Chinese origins of the drink and find out how it became the national drink of modern Britain.", start: 23.22, end: 29.56}
+  - {text: "Listen on bbc .com or wherever you get your podcasts.", start: 29.56, end: 33.30}
+  - {text: "They were taught to obey.", start: 37.56, end: 39.12}
+  - {text: "People truly deeply respect him, but they learnt to resist.", start: 39.76, end: 43.90}
+  - {text: "Not to stay silent, not to become another victim.", start: 44.30, end: 46.88}
+  - {text: "In the new season of World of Secrets our investigation follows a group of students as they fight to expose a dark secret inside their Islamic boarding school.", start: 47.28, end: 56.80}
+  - {text: "I am not the only one.", start: 57.00, end: 58.52}
+  - {text: "There are other girls too.", start: 58.70, end: 60.08}
+  - {text: "We have to hold him accountable.", start: 60.08, end: 62.54}
+  - {text: "World of Secrets, catching my teacher.", start: 63.06, end: 65.74}
+  - {text: "Listen now, wherever you get your BBC podcast.", start: 66.42, end: 68.92}
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 72.67, end: 77.23}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Friday, the 2nd of October, these are our main stories.", start: 79.66, end: 85.36}
+  - {text: "French police have arrested almost 2 ,000 people during violent student protests that have spread across the country.", start: 85.86, end: 93.10}
+  - {text: "The family of Renee Good, who was shot by a US immigration agent in Minneapolis, is suing the Trump administration.", start: 93.10, end: 100.50}
+  - {text: "The American death rowing mate, Krista Pike, is reported to be receiving life -saving medical care after surviving a botched execution.", start: 101.56, end: 109.96}
+  - {text: "Also in this podcast, Vladimir Putin repeats his warning that Russia is prepared to use nuclear weapons if it finds itself at war with Europe and...", start: 112.78, end: 123.48}
+  - {text: "I'm glad that our show sort of helped him stay calm and if anything, not make the situation worse.", start: 123.48, end: 130.34}
+  - {text: "Delighted that we played a very, very small role in this event.", start: 130.72, end: 134.98}
+  - {text: "The makers of an air disaster TV show respond after a fly -do -by passenger said the program taught him how to stop the plane from crashing.", start: 135.44, end: 144.56}
+  - {text: "For more than a week now, pupils across France have been protesting outside secondary schools.", start: 150.35, end: 155.37}
+  - {text: "About an education system, they say, is failing them.", start: 155.81, end: 159.13}
+  - {text: "They're frustrated about a shortage of teachers, overcrowded classrooms and run -down buildings.", start: 166.27, end: 171.91}
+  - {text: "But on Thursday, demonstrations took a more violent turn, with clashes between police and protesters at schools across the country.", start: 172.51, end: 179.45}
+  - {text: "Almost 2 ,000 people were arrested and 300 police officers injured.", start: 179.93, end: 184.63}
+  - {text: "At least two high schools were set on fire and one reported that a head teacher was doused in petrol.", start: 185.27, end: 191.59}
+  - {text: "The government has accused hard -left politicians of encouraging the unrest to create tension ahead of next year's presidential elections.", start: 192.31, end: 199.59}
+  - {text: "But students see it very differently.", start: 200.03, end: 201.65}
+  - {text: "The buildings are falling apart.", start: 202.43, end: 204.55}
+  - {text: "There's no nurse. There's no teacher.", start: 205.19, end: 208.71}
+  - {text: "We need money. This is also with the rise of the far right and the election, which are coming soon.", start: 209.17, end: 216.85}
+  - {text: "And if we cannot vote, the only way to make everybody hear us is to do this.", start: 217.25, end: 222.23}
+  - {text: "We heard more about how the demonstrations have escalated from Lisa Louie, a freelance journalist in Paris.", start: 222.99, end: 229.15}
+  - {text: "They started off as mostly very peaceful protests.", start: 229.81, end: 233.63}
+  - {text: "And then police were deployed and then clashes happened across France.", start: 236.19, end: 241.59}
+  - {text: "Hundreds of schools are now hit by these blockades or demonstrations.", start: 242.05, end: 246.49}
+  - {text: "And then the protests would get quite violent in certain areas.", start: 246.99, end: 250.73}
+  - {text: "I was at one school where there's a blockade going on just north of Paris in Agnès -Sorcent secondary school.", start: 254.46, end: 262.50}
+  - {text: "And the pupils there were telling me that they were sitting basically peacefully in front of their school.", start: 262.82, end: 268.88}
+  - {text: "And then the police arrived and used tear gas and arrested one pupil there.", start: 269.14, end: 275.42}
+  - {text: "So, you know, it's very difficult to figure out what happened exactly where.", start: 275.74, end: 279.68}
+  - {text: "But it seems like clashes are now multiplying.", start: 280.00, end: 282.44}
+  - {text: "When you look at the pictures that are being broadcast on TV here in France today, there's lots of fire, you know, burning waste bins across France, clashes between protesters and the police.", start: 282.66, end: 294.44}
+  - {text: "And their protests really seem to get more violent.", start: 294.80, end: 297.26}
+  - {text: "A far -left party, France Unbowed, under Jean -Luc Mélenchon, they've been showing pictures of themselves with the students in front of the secondary schools saying basically they need to defend and fight for their rights.", start: 297.66, end: 311.38}
+  - {text: "And the police should be non -violence towards them.", start: 311.68, end: 315.88}
+  - {text: "And then we heard also Bali Baga, a Yoko, who's the mayor of Saint -Denis, one of the Paris suburbs.", start: 316.14, end: 321.58}
+  - {text: "He was saying basically in certain cases violence was justified.", start: 322.16, end: 326.76}
+  - {text: "And that really caused an uproar throughout the political class.", start: 327.06, end: 330.44}
+  - {text: "Other politicians then came out and said, you know, no violence is not justified in any case.", start: 330.90, end: 336.64}
+  - {text: "And LFE, the France Unbowed Party, had to backpedal.", start: 337.16, end: 340.42}
+  - {text: "Lisa Louie in Paris.", start: 340.88, end: 342.66}
+  - {text: "When Renee Good was killed in January by an ICE agent in the city of Minneapolis, it sparked protests across the United States.", start: 343.50, end: 351.24}
+  - {text: "A video showed the officer firing several shots into her car.", start: 351.78, end: 355.14}
+  - {text: "An action the agency later claimed was in self -defense.", start: 355.72, end: 358.82}
+  - {text: "It led to calls for the Trump administration to rein in ICE agents deployed in cities around the country.", start: 359.28, end: 365.08}
+  - {text: "Now Renee Good's family are launching legal proceedings against the government and the agent responsible for her death.", start: 365.80, end: 371.90}
+  - {text: "The family's lawyer told a news conference, our government has become a grave and mortal threat to its own citizens.", start: 372.56, end: 379.06}
+  - {text: "Renee Good's brother Brent Ganger spoke to journalists.", start: 379.84, end: 382.52}
+  - {text: "What happened to Renee was completely senseless and the fact that there's been no accountability, no investigation, no expression of condolence, no change in policy is completely mind -blowing.", start: 383.16, end: 395.05}
+  - {text: "What happened to America?", start: 395.87, end: 397.13}
+  - {text: "Something must change now.", start: 398.25, end: 399.61}
+  - {text: "Our correspondent, Tom Bateman, has been telling us more.", start: 400.41, end: 403.23}
+  - {text: "These are civil lawsuits that have been brought by the family of Renee Good.", start: 403.73, end: 407.53}
+  - {text: "These are civil cases, so they're not criminal cases.", start: 408.13, end: 411.03}
+  - {text: "One of the things that came out of the press conference that was held by the lawyers was their complaint really was because these are federal agencies,", start: 411.59, end: 418.43}
+  - {text: "it's a lot harder than if it was state or local law enforcement to lodge these kind of complaints.", start: 418.57, end: 424.01}
+  - {text: "But they have done so and there are two civil lawsuits, the first of which asserts wrongful death through, it says, battery assault, false imprisonment, intentional infliction of emotional distress and negligence.", start: 424.51, end: 435.59}
+  - {text: "And then there is a second lawsuit which alleges a conspiracy to interfere with civil rights.", start: 436.07, end: 442.03}
+  - {text: "And what the lawyers have said here basically is they argue that the federal government, the Trump administration and these agencies, including the agent who shot Renee Good,", start: 442.35, end: 451.51}
+  - {text: "were involved in effect in a conspiracy to try to suppress the rights both of Hispanic and Somali communities that were being rounded up.", start: 451.63, end: 459.47}
+  - {text: "But also they said to silence those who were trying to protest against it.", start: 459.55, end: 463.75}
+  - {text: "So it's a pretty broad ranging kind of a lawsuit.", start: 464.09, end: 467.19}
+  - {text: "I mean this second one, names Christie Nome who was the Homeland Security Secretary at the time, it names Stephen Miller, President Trump's Deputy Chief of Staff,", start: 467.39, end: 475.45}
+  - {text: "it names Jonathan Ross, the agent involved in this.", start: 475.97, end: 478.93}
+  - {text: "So, you know, this is a pretty broad attempt to try to bring damages.", start: 479.41, end: 484.11}
+  - {text: "The Trump administration has responded to that and has said it will vigorously defend what it says are baseless civil lawsuits.", start: 484.69, end: 491.33}
+  - {text: "It then goes on to give a comment from President Trump himself, saying that he believed that Renee Good was a very solid, wonderful person under normal circumstances, but says her actions were pretty tough.", start: 491.97, end: 505.29}
+  - {text: "When you look at the way the car pulled away, there are a couple of versions of the tape that are very, very bad.", start: 505.43, end: 510.11}
+  - {text: "So it seems the administration very much sticking to its position that it believes that she was a threat to the agent involved.", start: 510.53, end: 517.47}
+  - {text: "Tom Bateman, in a grim irony, it's understood Krista Pike, the American death row inmate who survived two lethal injections, is now receiving life -saving medical care.", start: 517.89, end: 531.03}
+  - {text: "It's still not clear what led to her botched execution.", start: 531.61, end: 534.39}
+  - {text: "The mother of Pike's victim, Colleen Slammer, described it as a mess.", start: 535.11, end: 538.97}
+  - {text: "Prison officials say they followed protocol, but the governor of Tennessee, Bill Lee, has temporarily halted all executions and ordered an investigation.", start: 539.55, end: 548.87}
+  - {text: "And the people of Tennessee have determined that capital punishment is the appropriate sentence for the most heinous of crimes.", start: 549.75, end: 555.35}
+  - {text: "The people of Tennessee expect that those sentences will be carried out in a manner that's not only legal and constitutional, but effective.", start: 556.42, end: 565.83}
+  - {text: "And that didn't happen.", start: 566.51, end: 567.43}
+  - {text: "Pike's lawyers have called for her death sentence to be commuted.", start: 568.29, end: 571.61}
+  - {text: "Randy Spivey said they'd previously argued her small veins and blood disorder would cause unnecessary suffering.", start: 572.21, end: 578.77}
+  - {text: "Last night was not just inefficient, it was cruel, and it was torturous.", start: 579.49, end: 584.15}
+  - {text: "It was also predictable.", start: 584.43, end: 585.77}
+  - {text: "Krista's legal team told the state of Tennessee and the court that her medical conditions would cause her to suffer an agonizing death.", start: 586.49, end: 593.55}
+  - {text: "The state and the court dismiss Krista's concerns.", start: 594.15, end: 597.41}
+  - {text: "After having endured solitary confinement for more than 20 years and a full attempt to kill her by lethal injection, Krista has endured punishment greater than", start: 598.15, end: 608.19}
+  - {text: "any other person in the history of the American death penalty.", start: 608.19, end: 611.25}
+  - {text: "Krista Pike is now in hospital.", start: 611.85, end: 613.91}
+  - {text: "Our correspondent, Iany Wells, has been telling us more.", start: 614.33, end: 617.35}
+  - {text: "The last that we heard from her lawyer was that she was in a critical condition and that they didn't know how much damage or not had been done to her brain, but her medical information is all confidential.", start: 617.81, end: 627.39}
+  - {text: "So we don't even know for definite which hospital she is being treated at.", start: 627.83, end: 631.89}
+  - {text: "They were also unclear whether or not she'll actually remember if she comes around what happened.", start: 633.09, end: 638.53}
+  - {text: "And that is still a hugely open question because witnesses who were at that attempted execution recall this moment where the curtain across it was closed for about 20 to 30 minutes and then an ambulance arrived.", start: 638.95, end: 651.25}
+  - {text: "And no one knows what exactly went wrong.", start: 651.87, end: 654.17}
+  - {text: "If she received any kind of care at the scene before she was rushed to hospital, there are various theories as to why it didn't work.", start: 654.63, end: 662.25}
+  - {text: "And one of them is that perhaps the drug was degraded, was perhaps out of date, although this is all unconfirmed.", start: 662.71, end: 667.95}
+  - {text: "This is all being investigated at the moment.", start: 668.07, end: 669.69}
+  - {text: "Another is that the drip which was feeding the drug to her wasn't attached to her vein properly.", start: 670.27, end: 676.19}
+  - {text: "Another is simply that she didn't receive enough of the drug in her bloodstream to trigger a cardiac arrest.", start: 676.85, end: 682.03}
+  - {text: "Another theory is that simply people's bodies do react differently to drug overdoses.", start: 682.47, end: 687.17}
+  - {text: "Some people survive different levels of drugs to others.", start: 687.71, end: 690.53}
+  - {text: "And there have been cases before I only where the state has tried to execute someone, it hasn't worked, they've recovered, but then they've been put to death.", start: 691.07, end: 699.27}
+  - {text: "Yeah, that's right. This isn't the first botched execution that's taken place in Tennessee and that's been hugely contentious here.", start: 700.01, end: 707.31}
+  - {text: "People are frustrated that this has happened again.", start: 707.47, end: 710.01}
+  - {text: "It isn't clear at this stage what the next steps for her will be if she survives this and there is still an if about that.", start: 710.35, end: 717.29}
+  - {text: "We don't know if the state would try to execute her again.", start: 717.79, end: 720.67}
+  - {text: "At the moment all we know is that the governor's called off all executions for the rest of the year so it's unlikely that if she", start: 721.41, end: 727.31}
+  - {text: "were to face it again in future it would happen anytime soon.", start: 727.31, end: 730.51}
+  - {text: "I knew Wells in Nashville.", start: 731.09, end: 732.63}
+  - {text: "More prisoners are executed in the US than any other country in the Western world.", start: 733.25, end: 738.25}
+  - {text: "BBC Verifies Jake Horton has been looking into the figures.", start: 738.77, end: 741.97}
+  - {text: "The death penalty is legally enforced in about half of US states.", start: 742.69, end: 746.03}
+  - {text: "It's something that President Trump has repeatedly advocated.", start: 746.61, end: 749.09}
+  - {text: "On the first day of his return to office he signed an order reinstating it for severe federal crimes.", start: 749.63, end: 754.73}
+  - {text: "And last year the number of executions in the US almost doubled from the year before.", start: 755.23, end: 759.15}
+  - {text: "There were 47 in total according to Amnesty International which says only China, Iran, Saudi Arabia and Yemen executed more people in 2025.", start: 759.95, end: 768.81}
+  - {text: "Lethal injection is the most common method in the US followed by electrocution but firing squads have also been used in recent years.", start: 769.57, end: 776.71}
+  - {text: "South Carolina executed three people using that method last year.", start: 777.29, end: 780.89}
+  - {text: "Using poisonous gas like cyanide is also permitted in several states but that hasn't been used for decades.", start: 781.57, end: 786.93}
+  - {text: "So far this year there have been 29 executions mostly using a lethal injection as was attempted with pike.", start: 787.69, end: 794.21}
+  - {text: "There aren't exact figures for how many attempts fail but there have been a number of other occasions in recent years.", start: 794.91, end: 799.89}
+  - {text: "Jake Horton. We've already got a vaccine which can prevent cancers caused by the HPV infection and this summer a trial of a vaccine given in", start: 800.49, end: 809.83}
+  - {text: "combination with another drug was said to stop skin cancer returning in patients.", start: 809.83, end: 813.99}
+  - {text: "Now a clinical trial is being launched in the UK for a vaccine to protect against a type of lung cancer which kills tens of thousands of people every year.", start: 814.71, end: 822.91}
+  - {text: "Oxford University oncologist Professor Sarah Blagdon founded the project which has led to the trial.", start: 822.91, end: 828.85}
+  - {text: "She's been speaking to Sarah Montague.", start: 829.35, end: 831.29}
+  - {text: "We know that there are studies ongoing looking at vaccines to treat cancer and some of these have had really positive results but what we feel is", start: 831.93, end: 841.43}
+  - {text: "that actually if you get in earlier before the cancer becomes established a vaccine probably has more likelihood of working.", start: 841.43, end: 849.57}
+  - {text: "People will be familiar with the HPV vaccine which is already widely used and has been phenomenally successful.", start: 850.05, end: 858.87}
+  - {text: "Absolutely I mean we're releasing for once that a cancer might be completely eradicated which is so exciting and what that vaccine does is it basically prevents people from getting HPV", start: 859.25, end: 871.79}
+  - {text: "which is the virus that causes cervical and other cancers actually as well but unfortunately not all cancers are actually sparked by a virus so we have to have a different approach", start: 871.79, end: 883.07}
+  - {text: "and that is to really understand the early changes that happen in cells before they become a full -blown cancer and whether we can vaccinate against those early changes", start: 883.07, end: 893.09}
+  - {text: "and that's really the principle that we've been operating with in Oxford.", start: 893.09, end: 896.43}
+  - {text: "Without somebody actually getting the cancer how can you know that they're the ones that should have the vaccine?", start: 896.97, end: 902.13}
+  - {text: "That's the million dollar question.", start: 902.63, end: 904.41}
+  - {text: "If you go into a high -risk group you know that they have a high chance so you're already looking at a high -risk population.", start: 904.73, end: 911.65}
+  - {text: "You can statistically design a study that if you don't see cancers in those high -risk groups then there's a high chance the vaccine is working.", start: 912.23, end: 918.35}
+  - {text: "And for lungs that would be smokers?", start: 918.69, end: 920.31}
+  - {text: "Yes so for example in the lung vaccine study we're looking at people who've had a small lung cancer resected.", start: 920.73, end: 926.07}
+  - {text: "We know they're at risk of new cancers as well as recurrent disease so that's a good population to test in because their risk is quite high", start: 926.57, end: 932.97}
+  - {text: "but you know there are other high -risk individuals so the other cohorts of people that will be going into this study are high -risk ex smokers", start: 932.97, end: 940.87}
+  - {text: "who are already in lung cancer screening so we know already that their risk is more than the normal population.", start: 940.87, end: 946.01}
+  - {text: "And ultimately might there be a way of reaching other types of cancers that affect other parts of the body where you can target precancerous cells?", start: 946.41, end: 955.41}
+  - {text: "Definitely we have a project that's being led by Professor David Church which is looking at preventing colorectal and endometrial cancer in people who have Lynch syndrome.", start: 955.81, end: 965.67}
+  - {text: "We have a project looking at protecting women who carry the BRCA gene mutation from getting ovarian cancer and breast cancer and we're also looking at", start: 966.33, end: 975.45}
+  - {text: "a vaccine with a sort of more broad effect against colorectal cancer.", start: 975.45, end: 979.53}
+  - {text: "So we have a pipeline of vaccines and we want to bring in you know more cancer types as we go because we're starting to see sort of general principles can be applied across all of the studies that we're designing.", start: 980.23, end: 989.93}
+  - {text: "Professor Sarah Blackden still to come in this podcast is it the end of Ronaldo's international career as he walks out of the Portugal camp?", start: 990.65, end: 1002.94}
+  - {text: "I don't think that any Portuguese fan is on Ronaldo's side by now because the feeling we have here in Portugal is that the captain left the ship.", start: 1003.44, end: 1011.70}
+  - {text: "You might drink it every day but did you know that the history of tea is steeped in Skulduggery, colonialism and industrial espionage?", start: 1019.02, end: 1027.54}
+  - {text: "I'm Greg Jenner, host of You're Dead To Me with a comedy show that takes history seriously and in our latest episode we spill the tea on tea.", start: 1027.98, end: 1036.00}
+  - {text: "Join us to unpack the ancient Chinese origins of the drink and find out how it became the national drink of modern Britain.", start: 1036.46, end: 1042.82}
+  - {text: "Listen on bbc .com or wherever you get your podcasts.", start: 1043.30, end: 1046.56}
+  - {text: "They were taught to obey.", start: 1050.89, end: 1052.39}
+  - {text: "People truly deeply respect him but they learnt to resist.", start: 1053.03, end: 1057.19}
+  - {text: "Not to stay silent, not to become another victim.", start: 1057.55, end: 1060.13}
+  - {text: "In the new season of World of Secrets our investigation follows a group of students as they fight to expose a dark secret inside their Islamic boarding school.", start: 1060.57, end: 1070.09}
+  - {text: "I am not the only one.", start: 1070.29, end: 1071.79}
+  - {text: "There are other girls too.", start: 1071.97, end: 1073.35}
+  - {text: "We have to hold him accountable.", start: 1073.75, end: 1075.79}
+  - {text: "World of Secrets catching my teacher.", start: 1076.45, end: 1079.03}
+  - {text: "Listen now wherever you get your BBC podcasts.", start: 1079.59, end: 1082.19}
+  - {text: "Welcome to the haunted library.", start: 1087.98, end: 1090.02}
+  - {text: "Have you come in search of a tale?", start: 1091.13, end: 1093.27}
+  - {text: "This podcast invites you to browse the shelves and find stories that will linger long after you've left this place.", start: 1093.83, end: 1101.53}
+  - {text: "From gothic masterpieces to pulpy penny dreadfuls.", start: 1102.17, end: 1105.83}
+  - {text: "Join me, Colin Morgan, with new episodes twice a week.", start: 1105.97, end: 1109.51}
+  - {text: "Find the haunted library wherever you get your podcasts.", start: 1110.15, end: 1113.49}
+  - {text: "Available now on the documentary from the BBC World Service.", start: 1114.53, end: 1118.63}
+  - {text: "She believes in miracles.", start: 1120.12, end: 1122.06}
+  - {text: "Her job is to examine the evidence.", start: 1122.68, end: 1124.64}
+  - {text: "I'm John Lawrenceon visiting Lorde to meet the doctor investigating extraordinary claims of healing.", start: 1125.24, end: 1131.18}
+  - {text: "The miracle doctor of Lorde.", start: 1132.12, end: 1134.00}
+  - {text: "Listen now by searching for the documentary wherever you get your BBC podcasts.", start: 1135.55, end: 1140.31}
+  - {text: "This is the Global News Podcast.", start: 1148.44, end: 1150.62}
+  - {text: "New York's Attorney General Letitia James has been appointed special prosecutor in the investigation of the alleged gang rape at Cornell University.", start: 1151.20, end: 1159.72}
+  - {text: "A former student filed a civil lawsuit two weeks ago saying several members of a fraternity drugged and assaulted her in 2024.", start: 1159.72, end: 1168.16}
+  - {text: "The men deny any wrongdoing.", start: 1169.00, end: 1170.46}
+  - {text: "The case has sparked national outrage and raised questions about how the university and law enforcement initially responded to it.", start: 1170.88, end: 1178.52}
+  - {text: "Our correspondent, Neda Taufik, told us there's a dark cloud hanging over the Ivy League campus.", start: 1178.90, end: 1184.38}
+  - {text: "I've just been inside a public hearing being held here on Cornell's campus for students to speak openly about how they feel about the alleged gang rape that happened here in 2024.", start: 1185.18, end: 1195.40}
+  - {text: "A portion of it was open to the media and a few people who spoke described feeling ashamed by what happened here at their university saying", start: 1195.98, end: 1203.44}
+  - {text: "the greatest failure was not protecting Jane Doe.", start: 1203.44, end: 1206.58}
+  - {text: "One woman said she was a freshman when this all happened and she cried then and she says she is devastated and continues to cry with this message", start: 1206.90, end: 1214.50}
+  - {text: "that she wants Cornell to value safety of students over reputation.", start: 1214.50, end: 1219.06}
+  - {text: "There was even a woman who said that she faced her own sexual assault and investigation by Cornell University.", start: 1219.68, end: 1225.98}
+  - {text: "She said the biggest factor in healing for victims is feeling there is a broader support network there but that the university failed her and Jane Doe.", start: 1226.28, end: 1235.12}
+  - {text: "And there was a mother, 50 -year -old mother who said that she was dealing with rape culture on college campuses when she was younger and can't believe", start: 1235.46, end: 1243.34}
+  - {text: "that this is still an issue that society is grappling with.", start: 1243.34, end: 1246.66}
+  - {text: "But then there was a portion that went off record for this meeting and most of those students expressed feeling disgusted, appalled and disappointed with Cornell.", start: 1247.06, end: 1256.84}
+  - {text: "So emotions running incredibly high throughout this hearing and Cornell University has said that they support presenting a criminal case to a grand jury but they have rejected any claims", start: 1257.54, end: 1270.60}
+  - {text: "that they failed to punish those involved severely enough or that anyone got away with just writing an essay.", start: 1270.60, end: 1277.78}
+  - {text: "But they have also agreed to have their whole process essentially reviewed independently by an investigation.", start: 1278.30, end: 1285.74}
+  - {text: "Netta Taufi, Russia's President Vladimir Putin has warned his country will use any weapons in its arsenal if it found itself at war with Europe.", start: 1286.60, end: 1296.20}
+  - {text: "Adding no one at present has the kind of strike means that Russia has.", start: 1296.52, end: 1300.62}
+  - {text: "He made the comments during a wide -ranging speech in Moscow on Thursday where he also ruled out a long -range strike ceasefire with Ukraine at a time", start: 1301.06, end: 1309.88}
+  - {text: "when Russia has intensified its attacks on Ukrainian infrastructure.", start: 1309.88, end: 1313.86}
+  - {text: "Kiev has called it a deliberate campaign designed to cripple the power grid before winter.", start: 1314.56, end: 1319.64}
+  - {text: "Our Russia editor Steve Rosenberg has this assessment of the Russian president's words.", start: 1320.14, end: 1324.80}
+  - {text: "In the closed world of Russian politics it's not always clear what the Kremlin is thinking, what it's planning.", start: 1325.82, end: 1333.30}
+  - {text: "Will Vladimir Putin escalate in Ukraine?", start: 1334.04, end: 1336.50}
+  - {text: "How will the Kremlin react to growing tensions with Europe?", start: 1337.20, end: 1340.52}
+  - {text: "What clues can we find to what comes next?", start: 1341.30, end: 1344.50}
+  - {text: "Some clues here at a foreign policy forum in Moscow.", start: 1345.68, end: 1349.56}
+  - {text: "From President Putin, no suggestion is about to end the war and a message to European states who are supplying weapons to Ukraine.", start: 1350.12, end: 1359.76}
+  - {text: "I am not saying that we intend to launch strikes tomorrow against the territory or the facilities of countries supplying weapons to Ukraine.", start: 1360.40, end: 1371.50}
+  - {text: "However, it is a threat that we must clearly understand, assess and keep in mind.", start: 1372.46, end: 1378.20}
+  - {text: "Naturally, Russia's armed forces and military intelligence must understand where the threats are coming from.", start: 1379.08, end: 1385.12}
+  - {text: "Western officials accuse Russia of waging a hidden war against Europe through acts of sabotage and violations of airspace.", start: 1386.15, end: 1393.89}
+  - {text: "So what other clues did we pick up from Putin at this event?", start: 1394.53, end: 1398.05}
+  - {text: "Well, the Kremlin leader looked relaxed, looked confident, despite the fact that his so -called special military operation in Ukraine hasn't got a tall to plan.", start: 1398.79, end: 1409.11}
+  - {text: "He also said he was ready for talks, but those had to be based on Russia's national interest and that suggests that Russia's position remains the same,", start: 1410.08, end: 1420.12}
+  - {text: "that any peace settlement should be on Russia's terms.", start: 1420.28, end: 1423.52}
+  - {text: "Foreign policy Sergei Karaganov was at the forum.", start: 1424.86, end: 1428.38}
+  - {text: "He says Russia should be prepared to launch a pre -emptive strike on Europe because of its support for Ukraine.", start: 1429.14, end: 1435.46}
+  - {text: "The first series of blows will be conventional, but if Europe does not surrender, then unfortunately we'll have to go nuclear.", start: 1436.10, end: 1446.22}
+  - {text: "But if Russia goes nuclear, then there'll be a response from Europe and nothing will be left of Russia.", start: 1446.60, end: 1451.22}
+  - {text: "No, there'll be no response from Europe.", start: 1451.38, end: 1454.11}
+  - {text: "Do you agree though that the last four and a half years of this so -called special military operation have been pretty disastrous for Russia?", start: 1454.85, end: 1463.72}
+  - {text: "We lost a lot of people, yes, and I criticized my government for not being rough enough, but now we are getting rough enough in Ukraine.", start: 1464.00, end: 1475.54}
+  - {text: "Another sign that's for now, Russia feels no compulsion to end hostilities.", start: 1476.38, end: 1481.94}
+  - {text: "From here, peace still feels a long way off.", start: 1482.66, end: 1486.40}
+  - {text: "Steve Rosenberg In our previous episode of the podcast, you would have heard of the apparent attempt by a co -pilot to crash a flight from Dubai to Tel Aviv.", start: 1487.85, end: 1497.58}
+  - {text: "The suspect has been questioned in Saudi Arabia where the plane diverted after passengers managed to subdue the alleged attacker in the cockpit.", start: 1498.12, end: 1506.10}
+  - {text: "One of the many surprising details about the incident is how one of the passengers, Yaniv Heyon, then managed to stabilize the plane.", start: 1506.76, end: 1514.74}
+  - {text: "He was asked on TV by the Israeli Prime Minister Benjamin Netanyahu how he knew what to do.", start: 1515.10, end: 1520.56}
+  - {text: "You can hear a surprise Netanyahu there, ask him about pulling the controls backward, to which Heyon replies, I watch air crash investigation, Prime Minister.", start: 1522.32, end: 1536.48}
+  - {text: "Heyon has been hailed as a hero, and was praised by the US President Donald Trump.", start: 1537.06, end: 1543.08}
+  - {text: "Alex Bystrom is executive producer of the long -running Canadian docudrama Air Crash Investigation.", start: 1574.96, end: 1585.16}
+  - {text: "So what did he make of the name check of his series?", start: 1585.68, end: 1588.62}
+  - {text: "Obviously it's great to be recognized and acknowledged that way, and I'm glad that our show sort of helped him stay calm.", start: 1589.34, end: 1597.54}
+  - {text: "And if anything, not make the situation worse.", start: 1598.18, end: 1600.76}
+  - {text: "Our show is focused on aviation safety, and every episode provides lessons on how aviation can be made safer.", start: 1601.46, end: 1609.66}
+  - {text: "So look, delighted that we played a very, very small role in this event, but I don't for a minute think that we affected the outcome.", start: 1610.14, end: 1620.04}
+  - {text: "That's entirely in the hands of the captain of this flight, who really took unbelievable superhuman action to save the lives of everybody on board.", start: 1620.44, end: 1628.66}
+  - {text: "This guy, look, he took the action of going towards the cockpit, which isn't something he learned on our show.", start: 1629.34, end: 1634.54}
+  - {text: "And no, I don't remember doing any episodes where passengers are called upon to help pull the plane out of an absolutely staggering dive like this.", start: 1635.36, end: 1645.92}
+  - {text: "Alex Bystrom, executive producer of Air Crash Investigation.", start: 1646.56, end: 1650.60}
+  - {text: "He's the most famous Portuguese footballer of all time, and one of the biggest names in sport.", start: 1651.28, end: 1656.58}
+  - {text: "But uncertainty surrounds the future of Cristiano Ronaldo after he left the Portuguese national team's training camp on Wednesday.", start: 1657.02, end: 1664.50}
+  - {text: "The five -time Ballon d 'Or winner was an unused substitute in their 2 -1 win over Norway in the Nations League on Sunday.", start: 1665.12, end: 1672.80}
+  - {text: "In a social media post, Ronaldo has promised to reveal the truth about his reason for leaving, but it's led to speculation that the 41 -year -old could retire from international football.", start: 1673.34, end: 1683.72}
+  - {text: "Portuguese football journalist Duarte Monteirou has been following the story.", start: 1684.26, end: 1688.76}
+  - {text: "Over the last five, 10 years, Cristiano Ronaldo gained a lot of power inside of the Portuguese Football Federation.", start: 1689.34, end: 1695.96}
+  - {text: "And I think right now we are facing a situation where political decisions, financial decisions are in play more than necessarily technical aspects of the game.", start: 1696.58, end: 1706.60}
+  - {text: "And this is not new.", start: 1706.76, end: 1707.76}
+  - {text: "If we go back to 2010, there was the very first moment when Cristiano Ronaldo played his power over a national coach.", start: 1708.28, end: 1716.72}
+  - {text: "There was a rift between Keroz and Ronaldo.", start: 1716.84, end: 1719.10}
+  - {text: "If we go a little bit further in time, there was a problem with the national coach.", start: 1719.58, end: 1724.76}
+  - {text: "And after 2022, the World Cup, Fernando Sánchez, who won the Euros with Portugal, had to leave his position because he put Ronaldo on the bench.", start: 1725.02, end: 1735.32}
+  - {text: "And this is the outcome of someone who clearly didn't accept that he's 41, that his role as a player is not the same as it was 10 years ago.", start: 1735.62, end: 1745.98}
+  - {text: "And the decision Ronaldo made by leaving the camp, I think he lost the last ones who standed with him in all of this.", start: 1746.36, end: 1754.40}
+  - {text: "And by now, I don't think that any Portuguese fan is on Ronaldo's side by now because the feeling we have here in Portugal is that the captain left the ship.", start: 1754.86, end: 1763.60}
+  - {text: "And in the absence of Ronaldo, Portugal beat Denmark 4 -2 in their latest Nations League match on Thursday.", start: 1764.32, end: 1771.52}
+  - {text: "And that's all from us for now.", start: 1774.49, end: 1776.07}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1776.27, end: 1780.29}
+  - {text: "You can also find us on X at BBC World Service.", start: 1780.29, end: 1783.69}
+  - {text: "Use the hashtag Global NewsPod.", start: 1784.15, end: 1786.03}
+  - {text: "This edition of the Global News Podcast was mixed by Rebecca Miller and the producers were Stephanie Zacherson and Chantelle Hartle.", start: 1786.43, end: 1793.23}
+  - {text: "The editor is Karen Martin.", start: 1793.53, end: 1794.61}
+  - {text: "I'm Charlotte Gallagher. Until next time, goodbye.", start: 1794.93, end: 1796.85}
+  - {text: "You might drink it every day, but did you know that the history of tea is steeped in Skulduggery, colonialism and industrial espionage?", start: 1804.90, end: 1813.22}
+  - {text: "I'm Greg Jenner, host of You're Dead To Me, with a comedy show that takes history seriously.", start: 1813.70, end: 1817.70}
+  - {text: "And in our latest episode, we spill the tea on tea.", start: 1818.36, end: 1821.72}
+  - {text: "Join us to unpack the ancient Chinese origins of the drink and find out how it became the national drink of modern Britain.", start: 1822.22, end: 1828.58}
+  - {text: "Listen on BBC .com or wherever you get your podcasts.", start: 1829.04, end: 1832.24}
+---
