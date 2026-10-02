@@ -8,6 +8,10 @@ description = "Learn English with podcasts — tap any sentence to play from tha
 
 [taxonomies]
   categories = "categories"
+  # Topic tags for the AFSI demo notes: e.g. `tags: ["IB2d"]` in a page's
+  # front matter collects every IB2d comparison case on one /tags/ib2d/ page
+  # (the tag link is rendered by the afsi single template's post footer).
+  tags = "tags"
 
 [markup]
   [markup.highlight]

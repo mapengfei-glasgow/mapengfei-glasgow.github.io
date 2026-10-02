@@ -22,3 +22,9 @@ android/local.properties
 # tmp
 arXiv-2412.15408v1
 arXiv-2111.09958v2
+
+# Local clone of IB2d (immersed boundary method), not part of the site
+IB2d/
+
+# macOS
+.DS_Store
