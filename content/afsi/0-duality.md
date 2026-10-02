@@ -1,199 +1,263 @@
 ---
-title: "0: Duality of the Coupling Operators — Spreading and Interpolation as Discrete Adjoints"
-description: "Why force spreading and velocity interpolation must be discrete adjoints of each other — the adjointness results of the nodal IFED analysis (Wells et al. 2023) and how AFSI keeps the duality by applying the assembled load vector directly as a source term."
+title: "0: Duality of the Coupling Operators — Direct Loads, IB Kernels, and RT Coupling"
+description: "Discrete power consistency in AFSI: distinguishing force-density coefficients from assembled loads, correcting the IB4 transfer for a finite-element fluid, and extending the same adjoint principle to the single-process RT prototype."
 date: 2026-10-01
+lastmod: 2026-10-02
 weight: 1
 academic: true
 reference: "Wells et al. (2023)"
-status: Complete
+status: "Updated; RT implementation is a validated single-process prototype"
 ---
 
-The immersed-boundary coupling is exactly two operators: **spreading**, which
-carries the Lagrangian force to the Eulerian side, and **interpolation**,
-which carries the Eulerian velocity back to the markers. Whether the coupling
-conserves momentum and energy is decided by how the two relate to each other:
-they must be **discrete adjoints** — *dual* — of one another. The nodal IFED
-analysis of {{< cite "wells2023nodal" "author" >}} gives the precise
-conditions under which this duality holds, and this solver's coupling core is
-built as that paper's *fully nodal* case — with no projection matrix ever
-assembled.
+Immersed coupling transfers fluid velocity to the structure and structural forces back to the fluid. In a finite-element implementation, these transfers must be defined using the correct vector representations: **a force-density coefficient vector is not an assembled load vector**.
 
-## 1. The requirement: discrete adjointness
-
-Discretising both transfer integrals with the same quadrature makes the two
-operators transposes of each other:
-
-> “if we discretize the integrals … with the same quadrature formula then the
-> spreading and interpolation operators are discretely adjoint”
-
-— {{< cite "wells2023nodal" "author" >}}, who point to
-{{< cite "griffith2017hybrid" "author" >}} for the full discussion. The
-duality is what makes a coupling *innocent*; the paper names the two things
-at stake:
-
-* **momentum** — mixing quadratures “is not guaranteed to discretely maintain
-  this equivalence”, and “this correspondence is necessary to avoid the
-  spurious creation or destruction of momentum in the fluid-structure
-  coupling”;
-* **energy** — “although we do not have an identity for the Lagrangian
-  kinetic energy, the adjointness of the coupling operators ensures that
-  energy is not spuriously created or destroyed”.
-
-In a finite-element IFED method the danger is structural: both directions
-project data onto the structural finite-element space, so “evaluating either
-coupling operator requires solving a matrix equation at every time step” —
-the force through a mass matrix $\mathbb{M}\vec{F} = \vec{L}$, the sampled
-velocity through the same kind of matrix, $\mathbb{M}\vec{U} =
-\vec{L}^{\mathrm{IB}}$. If the two directions use matrices that are
-inconsistent with each other (a consistent projection on one side, a lumped
-one on the other), adjointness is silently lost.
-
-## 2. What the nodal analysis proves
-
-The paper's remedy is to use the *same* nodal quadrature for every projection
-and for the coupling itself. Three results matter for us.
-
-**The weights become arbitrary (Theorem 2).** With nodal quadrature the
-velocity projection matrix cancels outright — “the projection of the
-velocity … is exactly the same as interpolating $u$ at the nodes” — and the
-force projection does the same:
-
-> “If, in the IFED method, the force projection, force spreading, and velocity
-> projection operators are all discretized with the same nodal quadrature rule
-> $\mathbb{N}_q$, then the values of $w_q$, which correspond to the diagonal
-> entries of $\mathbb{D}$, can be chosen as arbitrary nonzero values.”
-
-“The entries of the lumped mass exactly cancel out with coupling weights”,
-and the scheme “depends only on the positions of the nodes and not on the
-nodal quadrature weights”. This is what removes the classical obstacle to
-mass lumping for higher-order elements: for many higher-order spaces the
-nodal quadrature has zero or negative weights, and the paper notes that
-“since the fully nodal scheme is independent of $\mathbb{D}$, it may be used
-with finite elements like $\mathbb{P}_2$ that do not normally work with mass
-lumping”.
-
-**The moments do not depend on the weights (Theorem 3).** As long as the same
-rule is used on both sides:
-
-> “the force defined on the Cartesian grid will always satisfy the *same*
-> zeroth and first force moment conditions, *independent* of $\mathbb{Q}_q$.”
-
-Total force and torque therefore reach the fluid exactly as summed on the
-markers — for any admissible rule, because both sides speak the same
-quadrature language.
-
-**It is the classic IB method in disguise.** Integrating the nodal spreading
-expression by parts reduces it to a weighted average of
-$\nabla_X \cdot P$ at the node — in the paper's words, “the fully nodal
-coupling approach described here is essentially the classic IB method”.
-
-## 3. How AFSI adapts this to a finite-element background
-
-AFSI replaces the finite-difference Cartesian grid by the fluid solver's own
-degrees of freedom, keeping the fully nodal structure — these are the
-modifications the
-[nodal method page](/afsi/0-nodal-immersed-boundary-finite-element-method/)
-refers to. Three design decisions carry the duality.
-
-**The coupling lattice is the velocity-dof lattice.** `IBMesh(order)` builds
-a uniform lattice whose spacing matches the dofs of the structured fluid
-mesh (`order = 2` for the $\mathbb{P}_2$ velocity space, so the lattice
-sizing is $h/2$); `build_map` hashes the actual dof coordinates onto it, and
-`extract_dofs` / `assign_dofs` move values between the lattice and the dof
-vector. Both operators evaluate the same four-point kernel
-($\mathrm{IB}_4$) on that same lattice, at the same marker positions — the
-interaction points are the solid mesh's degrees of freedom, the paper's
-“nodal interaction”.
-
-**The force is applied directly as a source term, not projected.** Each step
-the solid's unified weak form is assembled by FEniCSx into a load vector $L$
-— the same weak form that defines the Lagrangian force density $F$ on the
-demo pages, plus the penalty and traction terms — and the marker weights are
-fixed to the constant
+At a fixed structural configuration, let $J$ map fluid velocity coefficients to structural nodal velocities. If $L_s$ is the assembled structural load, the power-consistent fluid load is
 
 $$
-w_k = 1,
+U_s = J u_f,
+\qquad
+\boxed{b_f = J^T L_s.}
 $$
 
-an arbitrary value in the sense of Theorem 2 (literally the
-`array_solid[i].w = 1.0` of `solid_to_fluid`). Spreading then distributes the
-loads onto the velocity dofs,
+This identity applies both to the corrected IB4 coupling and to the new RT nodal coupling. It guarantees matching discrete power across the transfer, not automatic conservation of the fully discrete system's energy or solid volume.
+
+This page describes the supplied AFSI source and the single-process RT extension inspected and tested on 2 October 2026. Defaults are specific to each driver; they should not be inferred from the solver class alone.
+
+## 1. Coefficients, loads, and the power identity
+
+Write the fluid velocity as
 
 $$
-f_j = \frac{1}{\Delta x\,\Delta y}\sum_k w_k\,\delta_h(x_j - X_k)\,L_k,
+u_h(x)=\sum_j u_j\psi_j(x),
 $$
 
-and writes the result straight into the fluid force field. No Lagrangian mass
-matrix is formed anywhere; algebraically this is the nodal IFED route
-$F = \mathbb{D}^{-1}L$ followed by spreading with $\mathbb{D}_{qq}$ — the
-mass-matrix entries cancel, so writing them down would change nothing.
-
-**The velocity is read back by the same machinery.** `fluid_to_solid`
-evaluates
+and denote the fluid mass matrix by
 
 $$
-U_k = \sum_j \delta_h(x_j - X_k)\,u_j
+(M_f)_{ij}=\int_\Omega\psi_j\cdot\psi_i\,dx.
 $$
 
-on the same lattice and writes the result into the solid's dof vector — the
-nodal identity $\vec{U} = \vec{U}^{\mathrm{IB}}$ again, with no projection
-solve. The whole per-step coupling is five lines of the driver (demo_441):
+The relevant vectors are:
 
-```text
-u ← fluid step          # the momentum equation sees f as a source term
-U = fluid_to_solid(u)   # velocity → markers (four-point-kernel sums)
-X += U Δt               # advect the structure
-L = assemble(solid weak form)   # the load vector — no projection
-f = solid_to_fluid(L)   # w = 1, same kernel, same lattice → velocity dofs
+| Symbol | Meaning | Power pairing |
+|---|---|---|
+| $u_f$ | Fluid velocity coefficients | Paired with $b_f$ |
+| $f_f$ | Coefficients of a fluid force-density function | Fluid power is $u_f^T M_f f_f$ |
+| $b_f$ | Assembled fluid load vector | Fluid power is $u_f^T b_f$ |
+| $U_s$ | Structural nodal velocity coefficients | Paired with $L_s$ |
+| $L_s$ | Assembled structural load vector | Structural power is $U_s^T L_s$ |
+
+A structural weak form, including the selected elastic and penalty terms, produces entries such as
+
+$$
+(L_s)_a=-\int_{\Omega_s^0}P:\nabla_X\Phi_a\,dX
++\text{other structural load terms}.
+$$
+
+These entries already include the integration defining the load. They should not subsequently be multiplied by another structural mass matrix or another set of nodal quadrature weights.
+
+For a fixed configuration $\chi$, power consistency requires
+
+$$
+u_f^T b_f=(J(\chi)u_f)^T L_s
+\quad\text{for all }u_f,L_s.
+$$
+
+Consequently, the load-transfer operator is $J(\chi)^T$. If a fluid force-density function is required instead, its coefficients must satisfy
+
+$$
+M_f f_f=J(\chi)^T L_s.
+$$
+
+Equivalently, when structural force density is represented by coefficients $F_s$ with $L_s=M_sF_s$, the density-to-density spreading operator is
+
+$$
+S=M_f^{-1}J^TM_s.
+$$
+
+The different formulas describe different representations of the same transfer. Calling all of them “spreading” without identifying those representations obscures the mass matrices.
+
+These are spatial power identities at the same configuration. With imposed velocity boundary conditions, the statement applies to the appropriate unconstrained velocity variations; boundary reactions and prescribed-boundary work must also be accounted for.
+
+## 2. What the nodal IFED analysis contributes
+
+The nodal IFED analysis of {{< cite "wells2023nodal" "author" >}} shows how consistent use of nodal quadrature in structural projection and coupling permits cancellation of diagonal structural mass weights. This supports efficient coupling using assembled nodal structural loads without separately recovering a force-density function through a consistent structural mass solve.
+
+That result must not be interpreted as permission to omit the **fluid** mass matrix when a spread coefficient vector is inserted into a finite-element volume integral. The original IFED setting uses a Cartesian finite-difference fluid discretization; adapting its transfer to a finite-element fluid requires identifying the actual fluid load pairing.
+
+Similarly, force and torque preservation require the corresponding constant and rotational reproduction or discrete moment properties. They do not follow from transpose symmetry alone.
+
+The broader weak-coupling framework is discussed by {{< cite "griffith2017hybrid" "author" >}}. The matrix identities on this page specify how the current AFSI paths realize the power pairing.
+
+## 3. The IB4 lattice path in AFSI
+
+### Velocity interpolation and raw spreading
+
+The current IB4 implementation uses an auxiliary uniform lattice aligned with the supported structured velocity DOFs. In `demo_402`, the fluid mesh is quadrilateral and the velocity-pressure spaces are **Q2/Q1**, rather than triangular P2/P1. For velocity order two, the lattice spacing is half the corresponding background cell width.
+
+Let
+
+$$
+\Delta V=\Delta x\,\Delta y
+$$
+
+in two dimensions. Use $W_{aj}$ for the **dimensionless tensor-product kernel weight** used by the code. This avoids confusing the code weight with a dimensionally normalized regularized delta function. Component indices are suppressed below.
+
+The velocity operation is
+
+$$
+U_a=\sum_j W_{aj}u_j,
+\qquad J=W.
+$$
+
+With `array_solid[i].w = 1.0`, the raw spreading output is
+
+$$
+f_{\mathrm{raw},j}
+=\frac{1}{\Delta V}\sum_a W_{aj}(L_s)_a
+=\frac{1}{\Delta V}(J^TL_s)_j.
+$$
+
+Thus the kernel operations satisfy the lattice identity
+
+$$
+\Delta V\,u_f^T f_{\mathrm{raw}}=U_s^TL_s.
+$$
+
+The factor $\Delta V$ is the background lattice measure. It is not an arbitrary structural quadrature weight and cannot be dropped when interpreting the raw output as a finite-element load.
+
+### Three ways to use the raw output
+
+| Path | Operation | Actual fluid load | Power-consistent with $U_s=Ju_f$? |
+|---|---|---|---|
+| Legacy body-force path | Store $f_{\mathrm{raw}}$ in a fluid `Function`, then assemble $\int f_h\cdot v_h\,dx$ | $M_f f_{\mathrm{raw}}=\Delta V^{-1}M_fJ^TL_s$ | Not generally |
+| Mass-consistent path | Solve $M_f f_f=\Delta V f_{\mathrm{raw}}$, then assemble the body-force term | $J^TL_s$, up to solve tolerance | Yes |
+| Direct-load path | Add $\Delta V f_{\mathrm{raw}}$ directly to the momentum RHS | $J^TL_s$ | Yes |
+
+In particular, the legacy path still applies a fluid mass matrix even when that matrix is never assembled as a separate named object: it is implicit in the weak-form integration. Q2/P2 consistent mass matrices are not generally $\Delta V I$.
+
+### Current direct-load implementation
+
+In the supplied `demo_402/main.py`, `IB_DIRECT_LOAD` defaults to `1`. It constructs Chorin or IPCS with `ib_body_force=False`, preventing the body-force weak term from being assembled, and computes
+
+```python
+ns_solver.f.x.petsc_vec.copy(result=_b_direct)
+_b_direct.scale(_Vh)
 ```
 
-**The duality is then exact up to one constant.** For a given marker
-configuration both operators evaluate identical kernel values on identical
-lattice points, so
+Here `_Vh` is the auxiliary lattice area. The solver adds the resulting load through
+
+```python
+self.b1.axpy(1.0, self.ib_load)
+```
+
+after the assembled RHS has been lifted and its shared contributions accumulated, and before velocity boundary values are imposed.
+
+The total RHS is still assembled. Only the IB load bypasses the force-density volume integral. Enabling both `ib_body_force=True` and a nonzero `ib_load` would double-count the force.
+
+The solver classes retain `ib_body_force=True` as their default, and other drivers have different `IB_DIRECT_LOAD` defaults. The statement “AFSI always uses direct loads” is therefore incorrect.
+
+The active C++ kernel implementation is in `afsic/src/coupling/main.h`, with Python/MPI bindings in `afsic/src/afsic_ext.cpp`. Older files under `afsic/src/coupling/src/` are not the implementation selected by the current build. The current bindings gather data to the root process for coupling and scatter the results back.
+
+## 4. The single-process RT nodal coupling
+
+The RT extension uses the same assembled structural loads, but replaces the auxiliary kernel lattice with direct evaluation of the fluid finite-element field.
+
+For a structural node at its current physical position $x_a=\chi_a$, define
 
 $$
-\sum_j f_j\,u_j \;=\; \frac{1}{\Delta x\,\Delta y}\sum_k L_k\,U_k
-\qquad \text{for every } L \text{ and } u,
+E_{(a,\alpha),j}=\psi_{j,\alpha}(x_a).
 $$
 
-i.e. $J = \Delta x\,\Delta y\,S^{\top}$ — exact transposes, with a single
-global constant (the lattice cell measure) standing between them, playing the
-role of the arbitrary admissible weight. Summing over the lattice, the zeroth
-and first moments of the spread force reproduce the marker sums
-$\sum_k L_k$ and $\sum_k X_k L_k$ (away from the domain boundaries, where
-the four-point kernel carries precisely the discrete moment conditions of
-Theorem 3).
+The paired operations are
 
-**And the fluid only ever sees a source term.** The Eulerian force enters the
-momentum equation through one weak-form term only,
-$-\int f \cdot v \,\mathrm{d}x$ in the Chorin solver, so it never appears in
-a matrix operator of the fluid solve either. The practical consequence: in
-this solver *there is no coupling mass matrix that could be inconsistent with
-the interpolation operator* — the failure mode of §1 cannot arise, because
-the matrix is never assembled in the first place. The coupling lives in the
-compiled core (`afsic/src/coupling`, exposed as `from afsic import IBMesh,
-IBInterpolation`, with the 3-D twin `IBInterpolation3D`); every demo on this
-site drives it through the same four calls.
+$$
+\boxed{U_s=Eu_{\mathrm{RT}},\qquad b_{\mathrm{RT}}=E^TL_s.}
+$$
 
-| scheme | force to the fluid | velocity to the markers |
-|---|---|---|
-| elemental IFED | solve $\mathbb{M}\vec{F} = \vec{L}$; spread with adaptive quadrature | solve $\mathbb{M}\vec{U} = \vec{L}^{\mathrm{IB}}$ |
-| nodal IFED (Wells et al.) | weights arbitrary (Theorem 2); lumped-mass entries cancel | $\vec{U} = \vec{U}^{\mathrm{IB}}$: projection = interpolation |
-| AFSI (this solver) | spread the assembled load with $w_k = 1$; no matrix | four-point-kernel sums at the markers; no matrix |
+There is no regularized delta kernel, lattice-volume scaling, fluid mass inverse, or additional global RT projection in this transfer. Fluid momentum still requires its normal global solve.
 
-## 4. What the duality does not buy
+RT DOFs represent flux and internal moments, not velocities at point locations. Their geometric association with a face outside the solid does not prevent coupling: a basis function contributes whenever its value at a solid interaction point is nonzero.
 
-Adjointness is a consistency property, not an accuracy one. The nodal
-coupling still needs the markers dense enough for the spread force density to
-leave no gaps on the lattice — otherwise, in the paper's words, “there will
-be gaps in the Cartesian grid representation of the force density and,
-therefore, the potential for catastrophic leaks through the structure”. That
-requirement is what the marker-spacing scans of
-[demo_442](/afsi/demo-442/) (the $\mathrm{MFAC}$ sweep and the $1\,\%$
-pressure-plateau) and the volume checks across these pages measure; the
-duality guarantees that whatever accuracy the discretisation has is not
-spoiled by a momentum or energy leak in the transfer itself.
+The implementation uses DOLFINx point evaluation to include Piola mappings and DOF orientation transformations. A cell-conflict coloring batches independent basis evaluations when constructing the sparse matrix $E$. Force transfer uses exactly its transpose. The matrix must be updated after the structural configuration changes.
+
+A structural point on a fluid element interface uses the trace from the smallest local cell index. Both transfer directions use that same trace. This preserves the algebraic adjoint identity but does not remove RT tangential jumps. Points outside the background mesh are rejected rather than silently ignored.
+
+The new modules are:
+
+- `afsic/src/afsic/euler/RTFluidSolver.py`;
+- `afsic/src/afsic/coupling/RTNodalCoupling.py`;
+- `afsic/demo/demo_rt_serial/main.py`.
+
+The prototype is restricted to real-valued, single-process, two-dimensional runs. The fluid solver uses an RT/discontinuous-pressure mixed discretization, backward Euler, interior-penalty viscosity, and optional upwind convection. It is not the existing Chorin/IPCS algorithm with its space name changed.
+
+## 5. Adjointness and divergence freedom are different properties
+
+The identity $b_f=J^TL_s$ does **not** imply that the driving velocity field is divergence-free. Corrected IB4 coupling can be power-consistent while still producing a velocity interpolant that is not continuously divergence-free.
+
+For the RT solver, the compatible pressure space contains the velocity divergence. Accurately enforcing its continuity equation gives elementwise zero divergence; RT normal continuity supplies the corresponding global flux compatibility. Direct evaluation samples this field without inserting a second kernel interpolation.
+
+Nevertheless, RT tangential velocity may jump across fluid cells. Moreover, structural nodes are advanced numerically and connected by a finite-element geometry. Thus none of the following follows solely from background divergence freedom:
+
+- exact preservation of every solid element's volume;
+- exact conservation of fully discrete energy;
+- smooth particle trajectories across cell interfaces;
+- exact balance of every discretized pressure jump;
+- stability for arbitrary structural stiffness or time step.
+
+Spatial interpolation, structural resolution, force quadrature, time integration, solver tolerance, and boundary treatment must be assessed separately.
+
+## 6. Verification available as of 2 October 2026
+
+The existing `test_duality.py` completed **9 checks with no failures**. It tests the lattice-weighted IB interpolation/spreading identity; it does not by itself certify the legacy finite-element body-force path.
+
+The new `test_rt_serial.py` completed **8 tests with no failures**, including parameterized cases. These cover mapped triangle/quadrilateral point evaluation, transpose power consistency, total force and torque, marker relocation, rejection of out-of-domain points, divergence and normal continuity, gradient-force response, and open-channel flux balance.
+
+A short Turek comparison used the same solid mesh, a $32\times8$ quadrilateral background, $\Delta t=5\times10^{-5}\,\mathrm{s}$, convection enabled, and a deliberately accelerated inlet ramp of $0.02\,\mathrm{s}$. The inlet target mean speed was $200\,\mathrm{cm/s}$ and the dimensionless tether parameter was $\widehat\kappa=0.1$. The diagnostic was
+
+$$
+\|\nabla\cdot u_h\|_{L^2(\Omega)}
+=\left(\int_\Omega(\nabla\cdot u_h)^2\,dx\right)^{1/2}.
+$$
+
+| Time (s) | Chorin Q2/Q1 + direct-load IB4 | RT + nodal evaluation |
+|---:|---:|---:|
+| 0.00005 | $3.52\times10^{-3}$ | $8.48\times10^{-15}$ |
+| 0.00025 | $2.80\times10^{-1}$ | $1.61\times10^{-14}$ |
+| 0.00050 | $1.92$ | $3.41\times10^{-14}$ |
+| 0.00100 | $9.04$ | $8.92\times10^{-14}$ |
+
+These are unnormalized **background fluid** divergence norms, not structural velocity divergence norms. In the two-dimensional CGS calculation their units are cm/s. The two runs use different fluid discretizations and time algorithms; the comparison is not an interpolation-only ablation, an equal-DOF benchmark, or an IPCS comparison.
+
+Over these 20 steps, the maximum normalized power residuals were approximately $6.07\times10^{-15}$ for IB4 and $6.35\times10^{-16}$ for RT, confirming that both tested transfer paths were adjoint despite their very different divergence norms. Here the residual is
+
+$$
+\frac{|u_f^Tb_f-U_s^TL_s|}
+{\max(1,|u_f^Tb_f|,|U_s^TL_s|)}.
+$$
+
+The final relative solid-volume changes were approximately $+3.02\times10^{-6}$ and $-3.25\times10^{-7}$, respectively. These are short-startup observations, not proof of long-time volume conservation.
+
+The RT implementation is currently slower than the small-scale Chorin/IB4 comparison. No performance advantage, full-discrete energy conservation, or validated long-time Turek amplitude/frequency/drag result is claimed.
+
+To reproduce this specific comparison from the `afsic` directory after installation and solid-mesh generation:
+
+```bash
+(cd demo/demo_402 && python generate_mesh.py)
+python demo/demo_rt_serial/main.py --case turek --method ib \
+  --nx 32 --ny 8 --steps 20 --dt 5e-5 --ramp-time .02 --convection \
+  --out results/ib-turek-fast-start
+python demo/demo_rt_serial/main.py --case turek --method rt \
+  --nx 32 --ny 8 --steps 20 --dt 5e-5 --ramp-time .02 --convection \
+  --out results/rt-turek-fast-start
+```
+
+Both runs write `history.csv` and `summary.json`. The RT extension's README documents the remaining implementation restrictions.
 
 ## References
 
 {{< references >}}
+
+- Wells et al., *A nodal immersed finite element-finite difference method*, Journal of Computational Physics 477 (2023), 111890. [DOI](https://doi.org/10.1016/j.jcp.2022.111890); [open-access text](https://pmc.ncbi.nlm.nih.gov/articles/PMC10062120/).
+- FEniCS DOLFINx 0.10.0, [divergence-conforming Navier–Stokes demo](https://github.com/FEniCS/dolfinx/blob/v0.10.0/python/demo/demo_navier-stokes.py), the reference formulation for the new RT fluid prototype.
+- Implementation evidence: the supplied AFSI source, `demo_402/main.py`, the Chorin/IPCS load interfaces, the new RT modules, and the single-process test and startup-run outputs. These implementation observations are distinct from the IFED literature results.
