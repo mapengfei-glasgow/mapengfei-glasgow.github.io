@@ -122,7 +122,7 @@ def chart_424_profile():
         ux[n] = bilinear(U, xs, ys, np.full_like(yq, xm), yq)[:, 0]
     g90 = DP["open"] / (DP["open"] / verify("open_NY90")["G_ideal"])
     uan = g90 / (2 * MU) * (A_LUMEN**2 - (yq - Y_C) ** 2)
-    print('{{< chart xlabel="$y$ (mm)" ylabel="$u_x$ (m/s)" '
+    print('{{< chart xlabel="y (mm)" ylabel="u_x (m/s)" '
           'caption="Figure 4. Lumen velocity profile at mid-length: the two '
           'resolutions against the analytical Poiseuille parabola." >}}')
     print("y (mm), NY=45, NY=90, analytic Poiseuille")
@@ -143,7 +143,7 @@ def chart_424_jump():
         p[n] = (xq - X_OFF[n],
                 bilinear(P, xs, ys, xq, np.full_like(xq, Y_C)),
                 bilinear(P, xs, ys, xq, np.full_like(xq, 0.00275)))
-    print('{{< chart xlabel="$x$ (mm)" ylabel="$p$ (Pa)" '
+    print('{{< chart xlabel="x (mm)" ylabel="p (Pa)" '
           'caption="Figure 8. Pressure along the lumen centre through the '
           'membrane (left chamber → jump → right chamber), with the outer '
           'gap centre as the smooth reference." >}}')
@@ -159,7 +159,7 @@ def chart_424_maxu():
     d = {(c, n): flow(f"{c}_NY{n}")
          for c in ("open", "closed") for n in ("45", "90")}
     t = d[("open", "45")]["t"]
-    print('{{< chart xlabel="t (s)" ylabel="$\\max|u|$ (m/s)" '
+    print('{{< chart xlabel="t (s)" ylabel="max |u| (m/s)" '
           'caption="Figure 9. Peak fluid speed against time. The patent case '
           'converges monotonically; the occluded case keeps swinging by about '
           'a fifth of its peak because nothing dissipates the driving '
@@ -178,7 +178,7 @@ def chart_424_qhist():
     """Closed case: gap flow and wall leakage histories (log scale)."""
     d = {n: flow(f"closed_NY{n}") for n in ("45", "90")}
     t = d["45"]["t"]
-    print('{{< chart xlabel="t (s)" ylabel="$|Q|$ (m$^2$/s)" ylog="true" '
+    print('{{< chart xlabel="t (s)" ylabel="|Q| (m²/s)" ylog="true" '
           'caption="Figure 10. Closed case: bypass flow in the outer gaps '
           'against the leakage through the downstream half of the wall, both '
           'resolutions. The gap flux rises while the leakage falls; neither '
@@ -202,7 +202,7 @@ def chart_424_conv_open():
          for n in ("45", "90")],
         [v[n]["u_relL2_x0.5"] for n in ("45", "90")],
     )
-    print('{{< chart xlog="true" ylog="true" xlabel="$h$ (mm)" '
+    print('{{< chart xlog="true" ylog="true" xlabel="h (mm)" '
           'ylabel="relative error" caption="Figure 12. Patent case: the '
           'error measures fall at first order in the grid size, while the '
           'pressure gradient stays flat." >}}')
@@ -225,7 +225,7 @@ def chart_424_conv_closed():
         [v[n]["Q_leak_4h upstream"] / v[n]["Q_gap_analytic"]
          for n in ("45", "90")],
     )
-    print('{{< chart xlog="true" ylog="true" xlabel="$h$ (mm)" '
+    print('{{< chart xlog="true" ylog="true" xlabel="h (mm)" '
           'ylabel="normalised error" caption="Figure 13. Occluded case: four '
           'dimensionless error measures against the grid size. The held '
           'pressure converges at second order; the wall leakage is the slow '

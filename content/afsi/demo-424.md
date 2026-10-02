@@ -195,7 +195,7 @@ error rather than a solver error.
 
 {{< figure src="/afsi/demo424-open-fields-pv.png" title="Figure 3. The same patent configuration rendered with PyVista at both resolutions: pressure (left) and velocity magnitude (right), $N_y = 45$ above and $N_y = 90$ below. At this colour scale the two rows look alike — the refinement is quantified in Figure 4 and Tables 4–5." >}}
 
-{{< chart xlabel="$y$ (mm)" ylabel="$u_x$ (m/s)" caption="Figure 4. Lumen velocity profile at mid-length: the two resolutions against the analytical Poiseuille parabola." >}}
+{{< chart xlabel="y (mm)" ylabel="u_x (m/s)" caption="Figure 4. Lumen velocity profile at mid-length: the two resolutions against the analytical Poiseuille parabola." >}}
 y (mm), NY=45, NY=90, analytic Poiseuille
 7.50,0.00951,-0.00220,0.00000
 8.50,0.07139,0.09264,0.10992
@@ -278,7 +278,7 @@ Figure 9).
 
 {{< figure src="/afsi/demo424-closed-zoom-pv.png" title="Figure 7. Membrane region ($x = 50 \pm 10\,\mathrm{mm}$): pressure (left) and speed with streamlines (right), $N_y = 45$ above and $N_y = 90$ below. The streamlines show the bypass flow in the outer gaps and the leakage through the downstream half of the immersed wall into the sealed lumen; the jump sharpens, and the leak band thins, with refinement." >}}
 
-{{< chart xlabel="$x$ (mm)" ylabel="$p$ (Pa)" caption="Figure 8. Pressure along the lumen centre through the membrane (left chamber → jump → right chamber), with the outer gap centre as the smooth reference." >}}
+{{< chart xlabel="x (mm)" ylabel="p (Pa)" caption="Figure 8. Pressure along the lumen centre through the membrane (left chamber → jump → right chamber), with the outer gap centre as the smooth reference." >}}
 x (mm), lumen centre NY=45, lumen centre NY=90, outer gap NY=90
 30.00,26.5974,26.6357,22.4485
 31.00,26.5954,26.6349,22.1986
@@ -332,7 +332,7 @@ x (mm), lumen centre NY=45, lumen centre NY=90, outer gap NY=90
 | Membrane displacement (mm) | — | — | $0.249$ | $1.154$ | $1.333$ |
 | Membrane tether force (N/m) | — | — | $0.149$ | $0.693$ | $0.800$ |
 
-{{< chart xlabel="t (s)" ylabel="$\max|u|$ (m/s)" caption="Figure 9. Peak fluid speed against time. The patent case converges monotonically; the occluded case keeps swinging by about a fifth of its peak because nothing dissipates the driving pressure." >}}
+{{< chart xlabel="t (s)" ylabel="max |u| (m/s)" caption="Figure 9. Peak fluid speed against time. The patent case converges monotonically; the occluded case keeps swinging by about a fifth of its peak because nothing dissipates the driving pressure." >}}
 t, open NY=45, open NY=90, closed NY=45, closed NY=90
 0.02,0.0958,0.0964,0.2168,0.1884
 0.04,0.3202,0.3238,0.3841,0.3529
@@ -356,7 +356,7 @@ t, open NY=45, open NY=90, closed NY=45, closed NY=90
 0.40,0.8121,0.8363,0.3952,0.3162
 {{< /chart >}}
 
-{{< chart xlabel="t (s)" ylabel="$|Q|$ (m$^2$/s)" ylog="true" caption="Figure 10. Closed case: bypass flow in the outer gaps against the leakage through the downstream half of the wall, both resolutions. The gap flux rises while the leakage falls; neither has settled at t = 0.4 s." >}}
+{{< chart xlabel="t (s)" ylabel="|Q| (m²/s)" ylog="true" caption="Figure 10. Closed case: bypass flow in the outer gaps against the leakage through the downstream half of the wall, both resolutions. The gap flux rises while the leakage falls; neither has settled at t = 0.4 s." >}}
 t, |Q_gap| NY=45, |Q_leak| NY=45, |Q_gap| NY=90, |Q_leak| NY=90
 0.02,0.001501,0.0018747,0.0014167,0.0011394
 0.04,0.0024836,0.0029994,0.0024889,0.0016891
@@ -421,13 +421,13 @@ orders $p = \log_2(e_{45}/e_{90})$ listed below.
 
 {{< figure src="/afsi/demo424-convergence.png" title="Figure 11. Left: the patent-case error measures fall at first order in $h$ while the pressure gradient remains flat at $0.06\,\%$. Right: occluded-case quantities, normalised so that all four are dimensionless." >}}
 
-{{< chart xlog="true" ylog="true" xlabel="$h$ (mm)" ylabel="relative error" caption="Figure 12. Patent case: the error measures fall at first order in the grid size, while the pressure gradient stays flat." >}}
+{{< chart xlog="true" ylog="true" xlabel="h (mm)" ylabel="relative error" caption="Figure 12. Patent case: the error measures fall at first order in the grid size, while the pressure gradient stays flat." >}}
 h (mm), |u_max| error, |Q_lumen| error, profile rel. L2
 1.0,0.044176,0.065458,0.054313
 0.5,0.019648,0.029627,0.026249
 {{< /chart >}}
 
-{{< chart xlog="true" ylog="true" xlabel="$h$ (mm)" ylabel="normalised error" caption="Figure 13. Occluded case: four dimensionless error measures against the grid size. The held pressure converges at second order; the wall leakage is the slow quantity." >}}
+{{< chart xlog="true" ylog="true" xlabel="h (mm)" ylabel="normalised error" caption="Figure 13. Occluded case: four dimensionless error measures against the grid size. The held pressure converges at second order; the wall leakage is the slow quantity." >}}
 h (mm), |1 - held fraction|, p-std upstream / dp, p-std downstream / dp, leak / Q_gap analytic
 1.0,0.015428,0.00097029,0.029294,0.38135
 0.5,0.0040663,0.00041082,0.010886,0.12147
