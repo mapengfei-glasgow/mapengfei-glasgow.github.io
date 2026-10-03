@@ -1,0 +1,277 @@
+---
+layout: single
+title: "Christa Pike: What next after failed execution?"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-03T00:00:00Z
+slug: "2026-10-03-christa-pike-what-next-after-failed-execution"
+audioDir: "2026-10-03-christa-pike-what-next-after-failed-execution"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-03-christa-pike-what-next-after-failed-execution/episode.mp3"
+totalDuration: 1555.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.28}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Saturday, the 3rd of October, these are our main stories.", start: 6.40, end: 12.24}
+  - {text: "What's next for death row inmate Christa Pike, as her lawyers say she's unconscious after the botched execution attempt?", start: 12.96, end: 20.26}
+  - {text: "G7 Nations will now release up to 100 million barrels of diesel and crude oil in a bid to stop soaring prices.", start: 20.86, end: 29.08}
+  - {text: "We're at Cornell University where rape allegations have sparked outrage among students and beyond.", start: 29.90, end: 35.94}
+  - {text: "Also in this podcast, why you could be able to buy an Argentinian passport and the leadership that she brings to this as an astronaut, as a woman and as a black woman.", start: 39.64, end: 51.56}
+  - {text: "I am so proud.", start: 51.88, end: 52.60}
+  - {text: "We hear about the first black woman to lead a crew to the International Space Station.", start: 53.40, end: 58.42}
+  - {text: "The first details have emerged about the condition of Christa Pike, the American woman who was taken from the execution chamber to a hospital room after surviving two lethal injections.", start: 58.98, end: 74.90}
+  - {text: "Pike was given the death penalty for murdering Colleen Slemmer in 1995.", start: 75.62, end: 79.92}
+  - {text: "Stephen Hale, a criminal justice reporter for the Nashville Banner, was one of seven journalists who witnessed her botched execution in Tennessee.", start: 80.98, end: 88.90}
+  - {text: "He told me what's known about Pike's current condition.", start: 88.90, end: 92.38}
+  - {text: "Her attorney said that as of last night, so Thursday night here in the U .S., that she was unconscious and breathing with the help of a ventilator.", start: 93.10, end: 102.08}
+  - {text: "They said that she was receiving life -preserving care basically.", start: 102.68, end: 107.42}
+  - {text: "So that's the current situation on her condition.", start: 107.84, end: 110.78}
+  - {text: "What are the possible outcomes at this stage if Christa does pull through?", start: 111.48, end: 117.28}
+  - {text: "Because I know there have been situations in the past where they've tried to execute someone it hasn't worked, and then they've done it again.", start: 117.28, end: 123.28}
+  - {text: "Yeah. So in Tennessee earlier this year, for instance, as you might know, we had an execution that was called off because the execution team was struggling", start: 124.10, end: 134.18}
+  - {text: "and was not ever successful at getting IVs placed in the man's arms.", start: 134.72, end: 140.44}
+  - {text: "His name was Tony Carruthers.", start: 140.64, end: 141.70}
+  - {text: "His execution was called off.", start: 141.86, end: 142.92}
+  - {text: "The governor gave him a one -year reprieve, so that just means they won't set an execution date for him for at least a year.", start: 143.00, end: 148.98}
+  - {text: "But presumably at some point, the state may try to execute him again.", start: 149.28, end: 152.56}
+  - {text: "In Christa Pike's case, obviously right now, like I said, she's in the hospital.", start: 152.80, end: 156.26}
+  - {text: "Her legal status is a little unclear at the moment.", start: 156.50, end: 159.40}
+  - {text: "Her attorneys have called on the governor to commute her sentence to life without parole.", start: 159.84, end: 163.94}
+  - {text: "The governor has not done that yet, but he does have the power to do that.", start: 164.70, end: 168.14}
+  - {text: "He's leaving office later this year, and then we'll have an election for a new governor.", start: 168.46, end: 172.18}
+  - {text: "It's still very uncertain what this governor or a future governor would do in her case.", start: 172.78, end: 178.76}
+  - {text: "You actually witnessed this botched execution.", start: 179.42, end: 183.26}
+  - {text: "Can you talk us through what that was like?", start: 183.68, end: 185.58}
+  - {text: "Because for most people that is a totally alien experience.", start: 185.88, end: 189.36}
+  - {text: "Yes, understandably. So the witness room in Tennessee here at the execution chamber is a small room, and there's a large window in that room that looks into the execution chamber.", start: 190.72, end: 200.14}
+  - {text: "So when the execution begins, they pull the curtain open, and when they did that, Christa Pike is in there strapped at the gurney.", start: 200.14, end: 206.84}
+  - {text: "After the drugs have been administered, and if everything was going according to plan, she would have almost appeared to be losing consciousness and then, of course, die.", start: 207.16, end: 215.98}
+  - {text: "And that didn't happen.", start: 216.46, end: 217.12}
+  - {text: "She kept breathing heavily, occasionally lifting off the gurney and kind of with her mouth gaping open.", start: 217.44, end: 223.10}
+  - {text: "They closed the curtain at one point, and we weren't sure what was happening, because we could still hear her.", start: 224.18, end: 230.30}
+  - {text: "So we knew she was still alive, and they opened the curtain, and that's again, and they gave her a second dose of the lethal injection drug.", start: 230.46, end: 236.88}
+  - {text: "And the same thing repeated itself.", start: 237.56, end: 239.68}
+  - {text: "It sounds actually really traumatic to witness that.", start: 240.26, end: 243.84}
+  - {text: "It was disturbing, and I certainly can't pretend or I'd be lying if I said otherwise.", start: 244.36, end: 250.26}
+  - {text: "But at the same time, it's important to me as a journalist that we witness these things so we can report on them.", start: 250.84, end: 255.24}
+  - {text: "As far as traumatizing, I guess in the moment, and in the day since, I've been thinking a lot about Colleen Slemmer's mother and her family who were again there to witness this,", start: 256.14, end: 266.02}
+  - {text: "and whatever anyone thinks of the death penalty as a policy, they have been told that this was justice for their daughter.", start: 266.28, end: 271.62}
+  - {text: "That's what the system told them, and they came to this prison to see this execution carried out.", start: 271.80, end: 275.82}
+  - {text: "And then they had to watch and what I just described as well.", start: 275.90, end: 278.78}
+  - {text: "And that is hard to imagine.", start: 278.92, end: 281.24}
+  - {text: "So yeah, it was disturbing.", start: 281.52, end: 282.68}
+  - {text: "It was a disturbing night all around.", start: 282.84, end: 284.16}
+  - {text: "I know that you've wrote and reported extensively about the death penalty, and it's obviously very polarizing as an issue, but do you think cases like", start: 284.70, end: 292.36}
+  - {text: "this change people's minds about the death penalty?", start: 292.36, end: 295.10}
+  - {text: "I certainly think they can.", start: 296.06, end: 297.62}
+  - {text: "I think a lot of people obviously have a view on the death penalty that's based on sort of their moral view of it.", start: 297.82, end: 303.50}
+  - {text: "Is it right to kill someone as punishment or not?", start: 303.54, end: 305.88}
+  - {text: "But then there are other people who kind of look at it maybe in more practical matters and just say like, okay, maybe in theory, this is okay in the worst circumstances,", start: 306.38, end: 316.52}
+  - {text: "but can we do it in a humane and effective way?", start: 316.52, end: 319.84}
+  - {text: "Obviously this case was an extreme case, but the fact that the death penalty is part of America in some states is taken for granted by a lot of people here.", start: 320.26, end: 329.86}
+  - {text: "And so to get the emails, the phone calls, the interview requests from people in Europe and other places around the world, where it is clearly so shocking,", start: 329.98, end: 338.22}
+  - {text: "it does kind of reframe it for me, and I think for other Americans to go, okay, this is a very sobering thing for us to realize as Americans.", start: 339.14, end: 347.22}
+  - {text: "That was Stephen Hale.", start: 347.92, end: 349.02}
+  - {text: "In the last edition of the podcast, we reported on the deepening global fuel crisis with the White House considering banning diesel exports unless European countries release fuel stocks to counter soaring prices caused by the wars in Ukraine and Iran.", start: 349.70, end: 366.26}
+  - {text: "Now the French President Emmanuel Macron says G7 leaders have agreed to release up to 100 million barrels of diesel and crude reserves over the next four months.", start: 366.90, end: 376.60}
+  - {text: "President Trump said Europe did a great thing and withdrew his threat.", start: 377.00, end: 381.14}
+  - {text: "Here's our Brussels correspondent, Nick Beek.", start: 381.66, end: 383.66}
+  - {text: "This is a crisis that continues.", start: 384.26, end: 386.04}
+  - {text: "The cost of diesel, the cost of fuel, which many consumers right across the world are feeling.", start: 386.70, end: 392.14}
+  - {text: "In terms of its significance today, I think both President Trump can say to his domestic audience that he's got the Europeans to release these reserves of fuel.", start: 392.48, end: 401.58}
+  - {text: "And at the same time, President Macron of France can say he's acting in the best interests of his country and of the European Union.", start: 401.76, end: 409.74}
+  - {text: "And he's managed to get President Trump, it would seem, to take this threat of an export ban of diesel off the table.", start: 409.78, end: 416.94}
+  - {text: "But of course it doesn't solve the fundamental problems that many, many people are facing here.", start: 417.04, end: 422.84}
+  - {text: "I think it's also worth pointing out that back in March, just after the Iran war exploded, there was a decision taken then to release some reserves of fuel.", start: 423.16, end: 434.18}
+  - {text: "And that's not an instant turning on of a tap.", start: 434.50, end: 437.12}
+  - {text: "It's a sign to the markets.", start: 437.12, end: 438.78}
+  - {text: "And in fact, that first sort of trunch, that first decision, that hasn't been completed yet.", start: 439.24, end: 443.90}
+  - {text: "They've still been in the process of releasing these reserves.", start: 444.00, end: 447.58}
+  - {text: "So certainly this is a process that begins.", start: 447.80, end: 449.58}
+  - {text: "They do seem to have reached this agreement for now.", start: 450.08, end: 454.42}
+  - {text: "But we don't know whether President Trump will come back in a few days or weeks down the line and make a similar sort of threat.", start: 454.52, end: 460.72}
+  - {text: "And the Europeans will have to respond to it like they have done today, along with the Canadians and others in the G7.", start: 460.82, end: 465.94}
+  - {text: "Nick Beek, the governor of New York says she will close a legal loophole that allows offenders to avoid rape charges if their victims are willingly intoxicated.", start: 465.94, end: 477.24}
+  - {text: "Cathy Hockel said the case of an alleged gang rape at Cornell University in 2024 highlighted the need for change.", start: 477.80, end: 484.90}
+  - {text: "If someone is too intoxicated to consent, it should not matter whether they chose to use drugs or alcohol.", start: 485.60, end: 491.98}
+  - {text: "Voluntary intoxication is not a license for sexual assault or gang rape, period.", start: 493.71, end: 499.93}
+  - {text: "But at the heart of all this is one young woman and what she deserved from the very beginning.", start: 501.16, end: 506.94}
+  - {text: "The alleged attack came to light after a woman, referred to as Jane Doe, filed a lawsuit saying she was drugged and sexually assaulted by a group inside a fraternity house.", start: 507.46, end: 517.80}
+  - {text: "While two of the alleged attackers were expelled, others faced lesser punishments.", start: 518.38, end: 523.08}
+  - {text: "The details contained in a lawsuit outlining a seven -hour ordeal have ignited fierce debate about the culture on college campuses and New York's Attorney General", start: 523.60, end: 533.96}
+  - {text: "has been appointed special prosecutor to reinvestigate the case.", start: 533.96, end: 537.42}
+  - {text: "At the Ivy League University, students are demanding accountability.", start: 538.04, end: 541.92}
+  - {text: "Our administration needs to change and it needs to change drastically and it needs to change fast.", start: 542.70, end: 547.34}
+  - {text: "This is a disgrace and I feel shame to be here.", start: 547.98, end: 551.96}
+  - {text: "I'm happy that others on this campus share in my feelings of anger, of guilt, of shame for the institution that I have devoted the last three years in my life to.", start: 552.30, end: 565.12}
+  - {text: "On North America correspondent, Netta Taufeek, is that?", start: 565.66, end: 568.64}
+  - {text: "I think this is absolutely a moment that will go down in kind of the books about whether changes came from it or whether it continued", start: 569.22, end: 577.40}
+  - {text: "to fail to put more protections in place for students on campuses.", start: 577.40, end: 580.62}
+  - {text: "I was at a town hall here at Cornell where a 50 -year -old mother spoke after her daughter spoke.", start: 581.06, end: 586.34}
+  - {text: "It was a town hall to hear people's concerns and that mother said that she is still fighting the same fight against gang rape on campuses", start: 586.50, end: 594.98}
+  - {text: "and campus culture as she was when she was a student.", start: 594.98, end: 597.98}
+  - {text: "And New York's Governor Kathy Hockel, you know, she didn't just raise all of the concerns about how this was handled from everyone from campus police to the local district attorney.", start: 598.42, end: 607.10}
+  - {text: "She also brought up a really important point about New York's laws on consent.", start: 607.56, end: 611.96}
+  - {text: "Because while students here on Cornell's campus and other campuses are taught that, you know, unless there is an enthusiastic yes from a partner, that means there is no consent, New York laws state that if somebody voluntarily takes drugs,", start: 612.36, end: 627.30}
+  - {text: "then that is considered that they voluntarily wanted to take those drugs and engage in sexual acts.", start: 627.92, end: 634.94}
+  - {text: "And that doesn't mean that they necessarily couldn't provide consent.", start: 635.22, end: 638.36}
+  - {text: "Netta Taufeek at Cornell University.", start: 639.03, end: 641.55}
+  - {text: "Still to come in this podcast.", start: 644.05, end: 646.15}
+  - {text: "The property is small and abandoned.", start: 646.69, end: 648.61}
+  - {text: "I can even see bottles of homemade sauce left behind by previous owners.", start: 649.23, end: 653.03}
+  - {text: "Natalie tells me it needs new wiring, new plumbing and a new floor.", start: 653.57, end: 657.15}
+  - {text: "Would you buy that house in Italy for one euro?", start: 657.93, end: 661.49}
+  - {text: "This is the Global News podcast.", start: 669.52, end: 671.66}
+  - {text: "Over the past three years in Gaza, the war between Israel and Hamas has taken a heavy toll on children and there's little support for their psychological trauma.", start: 672.67, end: 683.15}
+  - {text: "But a local swimming school, the Tantish Swimming Academy is trying to help.", start: 683.77, end: 688.27}
+  - {text: "It's working with an NGO, Heal Palestine, to offer special classes for children who've lost their limbs or their parents in Israeli attacks.", start: 688.85, end: 697.83}
+  - {text: "The UN says up to 4 ,000 children have had limb amputations and more than 60 ,000 have lost at least one parent.", start: 698.61, end: 707.41}
+  - {text: "Israel doesn't allow international journalists to report from inside Gaza independently.", start: 708.05, end: 713.21}
+  - {text: "Our Middle East correspondent Yola Nel compiled this report from Jerusalem.", start: 713.93, end: 717.69}
+  - {text: "Rebuilding broken lives in Gaza with the healing power of water.", start: 721.30, end: 725.74}
+  - {text: "These swimming lessons cater especially for children who've lost their limbs in Israel's intense bombing campaign.", start: 727.41, end: 733.93}
+  - {text: "Mahmoud Abu Shadak, who's 15, was hit in the leg by shrapnel a year ago.", start: 736.88, end: 741.50}
+  - {text: "He says it's too difficult to go back to school, but he comes to this pool in Khenyounis, which made it through the war intact.", start: 741.88, end: 748.52}
+  - {text: "In the water, I know how to dive, swim, float and do everything.", start: 751.04, end: 755.36}
+  - {text: "But outside the water, I can't do much.", start: 755.58, end: 757.42}
+  - {text: "I just sit around.", start: 757.68, end: 758.42}
+  - {text: "13 -year -old Abdul Rahman Anashash is also becoming more confident.", start: 761.72, end: 765.70}
+  - {text: "He lost his leg in an airstrike while he was looking after a relative's food stall.", start: 766.22, end: 770.46}
+  - {text: "I stopped playing. I stopped moving around.", start: 771.92, end: 775.00}
+  - {text: "I stopped walking. I stopped going out with my friends.", start: 775.34, end: 777.68}
+  - {text: "Swimming gives me freedom and I swim well.", start: 778.22, end: 780.02}
+  - {text: "I swim very well.", start: 780.40, end: 781.24}
+  - {text: "Gaza now has the highest concentration of child amputees relative to its population, the UN says.", start: 785.50, end: 792.02}
+  - {text: "And with the collapse of the medical system and restrictions on aid, those with serious injuries are struggling to get rehabilitation and the supplies they need, from wheelchairs to crutches and prosthetic limbs.", start: 792.44, end: 805.28}
+  - {text: "One coach here knows what that's like first hand.", start: 806.60, end: 809.20}
+  - {text: "Pharmacist Nooradine Kashkash says he was injured while working with a medical team at the start of the war.", start: 809.68, end: 815.16}
+  - {text: "His leg was amputated, but he insists it won't stop him pursuing his goals.", start: 815.54, end: 820.08}
+  - {text: "I'm a living example.", start: 823.55, end: 824.59}
+  - {text: "I was once an ordinary person with two legs.", start: 824.97, end: 827.07}
+  - {text: "Today, I'm the person with one leg.", start: 827.55, end: 829.23}
+  - {text: "I was able to change.", start: 829.81, end: 830.79}
+  - {text: "As long as I can do it, I can help bring about change.", start: 831.17, end: 834.09}
+  - {text: "Other lessons take place on Gaza's sandy beaches.", start: 837.24, end: 840.60}
+  - {text: "There are few swimming pools in Gaza and none of the usual swimming aids.", start: 841.22, end: 845.14}
+  - {text: "Israel tightly restricts what's allowed into the strip.", start: 845.88, end: 848.88}
+  - {text: "It says for security.", start: 848.88, end: 850.36}
+  - {text: "So instructors here make do using sandbags just off the coast to create a safer, shallow area for beginners.", start: 850.86, end: 857.72}
+  - {text: "Amjad Tantish runs the swimming academy.", start: 861.36, end: 864.30}
+  - {text: "So we started with them in the safe seawalls, southern Gaza, and then prepared them to eventually swim in the sea after mastering the basics of swimming and floating.", start: 865.08, end: 877.84}
+  - {text: "The sea became the only escape for children here in Gaza.", start: 878.86, end: 882.92}
+  - {text: "For children who've lost loved ones, this is desperately needed therapy.", start: 884.00, end: 887.52}
+  - {text: "And for many other children displaced in tents on the coast, it's also about safety.", start: 887.96, end: 892.60}
+  - {text: "Alin Alkilani, who's 12, has stopped thinking about the sea as a place of danger.", start: 893.18, end: 897.86}
+  - {text: "I was scared to see it till I learned to swim.", start: 899.56, end: 902.54}
+  - {text: "I want to be a swimming teacher because swimming is wonderful.", start: 903.14, end: 906.90}
+  - {text: "And while there's always a return to Gaza's harsh realities at the end of classes, at least some cares have been washed away.", start: 909.20, end: 918.80}
+  - {text: "Yolan now reporting. Several countries around the world offer so -called golden visas and passports to migrants who donate or invest a large chunk of money in the country.", start: 922.09, end: 934.49}
+  - {text: "And now Argentina has joined them with South America's first citizenship by investment program.", start: 935.11, end: 940.97}
+  - {text: "Our global affairs correspondent Anne Barassan -Ettarajan told me how it will work.", start: 941.67, end: 945.93}
+  - {text: "If you pay $350 ,000 to the national treasury, or if you buy the government bonds worth of $800 ,000, they'll give you a passport of Argentina.", start: 946.47, end: 959.31}
+  - {text: "And also your spouses, if you pay additional $100 ,000 and for children under the age of $18 ,000, $25 ,000.", start: 959.91, end: 966.69}
+  - {text: "Now the government is planning to open this by the end of this year.", start: 967.41, end: 970.33}
+  - {text: "Why now? Because the government is facing a huge financial crisis.", start: 970.79, end: 974.47}
+  - {text: "According to the Economy Ministry, this particular scheme will help to ease the financial situation, number one, to they say that it will also open up the economy.", start: 974.99, end: 985.57}
+  - {text: "Now if you look at the investments, foreign direct investments in some of the major economies in Latin America, Argentina is among the lowest because last year they received just over $3 billion investments,", start: 986.49, end: 999.05}
+  - {text: "whereas Brazil has got 75 plus billion dollars and Mexico 40 billion.", start: 999.27, end: 1004.19}
+  - {text: "So they hope that this will also bring in businessmen who can invest money in Argentina.", start: 1004.35, end: 1009.77}
+  - {text: "And that's why they are issuing now this special passport for those who can afford it.", start: 1010.23, end: 1016.11}
+  - {text: "Other countries have done this before, but critics of these schemes say there are drawbacks as well.", start: 1016.11, end: 1020.85}
+  - {text: "There are critics who warn that in some countries it did not work out because it will allow possible money laundering and also people who want to escape justice from one country to another, they can also make use of that.", start: 1021.29, end: 1034.47}
+  - {text: "And it can also increase housing issues, both rental as well as increasing prices of real estate.", start: 1034.93, end: 1041.87}
+  - {text: "Now if you look at Argentina's case, it allows you to travel around the European Union, China, Russia and more than 140 countries without a visa.", start: 1042.47, end: 1050.25}
+  - {text: "So many people would be interested in getting an Argentinian passport.", start: 1050.49, end: 1054.51}
+  - {text: "There's all coming days after the Supreme Court upheld a government order which allowed foreign investors to buy rural land in Argentina.", start: 1055.05, end: 1063.11}
+  - {text: "That's already creating a lot of storm because many people are saying you're putting Argentina up for sale.", start: 1063.33, end: 1068.89}
+  - {text: "So there is going to be a demonstration in the coming week, but they need money.", start: 1069.03, end: 1073.61}
+  - {text: "They need investment. Now if you don't have hundreds of thousands of dollars to invest in moving to another country, how about one euro?", start: 1074.13, end: 1084.95}
+  - {text: "Because rural Italian cities in need of revitalization offer a scheme that allows foreigners to buy an abandoned house for pocket change if they commit to renovating it.", start: 1085.35, end: 1095.61}
+  - {text: "But what's the real cost of buying a one euro home?", start: 1096.09, end: 1098.83}
+  - {text: "Our reporter Adriana Abano travelled to a small town in Sicily to find out.", start: 1099.39, end: 1104.41}
+  - {text: "I'm in Mussomelli today, a Sicilian town of less than 10 ,000 people, about one hour from the coast.", start: 1107.60, end: 1113.64}
+  - {text: "What you can hear are estate agent Natalie Milazzo Schiis.", start: 1116.14, end: 1120.16}
+  - {text: "She's taken me to see what is left of one of Italy's most successful one euro home schemes.", start: 1120.56, end: 1125.52}
+  - {text: "There are only 10 to 15 one euro homes left.", start: 1127.28, end: 1130.18}
+  - {text: "Today we mainly sell newer properties in better conditions because the one euro homes that are left are in bad shape.", start: 1130.78, end: 1137.14}
+  - {text: "The newer homes need little work and are really affordable.", start: 1137.62, end: 1140.36}
+  - {text: "She's let me in with a massive ancient iron key, twice the size of my hand.", start: 1143.68, end: 1149.76}
+  - {text: "The property is small and abandoned.", start: 1150.14, end: 1152.10}
+  - {text: "I can even see bottles of homemade sauce left behind by previous owners.", start: 1152.70, end: 1156.54}
+  - {text: "Natalie tells me it needs new wiring, new plumbing and a new floor, which should cost around 40 ,000 euros.", start: 1157.24, end: 1163.44}
+  - {text: "That's roughly the same price of a so -called premium property.", start: 1164.06, end: 1166.80}
+  - {text: "George Leung is from the UK.", start: 1167.40, end: 1168.82}
+  - {text: "He has bought four one euro homes in Mussomelli, which is now renovating himself.", start: 1169.30, end: 1173.72}
+  - {text: "He has amassed over 800 ,000 followers on social media where he gives advice to people interested in buying a one euro home in Sicily.", start: 1174.30, end: 1182.42}
+  - {text: "Every single town and municipality has a different rules and restrictions.", start: 1182.42, end: 1185.96}
+  - {text: "You can do all the work yourself as long as it's not structural.", start: 1186.46, end: 1189.10}
+  - {text: "With its rugged countryside and almost two hours away from an airport, Mussomelli isn't always what people think of when they picture Sicily.", start: 1189.44, end: 1197.30}
+  - {text: "But many tell me it's the town's community spirit that sealed the deal, even when the one euro home plan fell through.", start: 1197.90, end: 1205.58}
+  - {text: "Just asked Danny McCubbin.", start: 1206.14, end: 1207.44}
+  - {text: "It's midday on a Sunday and he's handing out food at the Good Kitchen, the charity he opened in Mussomelli, what happened to his one euro project.", start: 1209.46, end: 1217.96}
+  - {text: "So my house was in perfectly good condition, but sadly the houses either sides were crumbling and caused a lot of water damage during the pandemic.", start: 1218.32, end: 1226.62}
+  - {text: "So the costs skyrocketed from I think 14 ,000 it was going to cost to renovate it to 28 ,000.", start: 1227.36, end: 1232.62}
+  - {text: "It just wasn't viable for me to continue with that project.", start: 1233.06, end: 1235.84}
+  - {text: "So what advice does he have for prospective buyers?", start: 1236.18, end: 1238.82}
+  - {text: "My advice always to all the foreigners is to come back in winter when it's rainy as well, because they come in summer, they see these houses and think they're perfectly fine,", start: 1239.38, end: 1247.14}
+  - {text: "come back in winter and there's mold or the roof is leaking.", start: 1247.46, end: 1250.48}
+  - {text: "And also to spend time here, I think that's the key just to really decide whether this town is somewhere where you would like to live", start: 1251.10, end: 1257.38}
+  - {text: "or whether it's just a place to have a second home.", start: 1257.38, end: 1259.22}
+  - {text: "Though many buyers are only here for the summer, their presence is shaping the town.", start: 1259.72, end: 1263.86}
+  - {text: "Laura Jenko is 32 and has lived here her whole life.", start: 1263.86, end: 1267.76}
+  - {text: "She says the one euro home buyers have brought new energy and projects to Mussomelli.", start: 1268.14, end: 1272.58}
+  - {text: "Mussomelli was practically dead.", start: 1274.84, end: 1276.38}
+  - {text: "The situation here has changed a lot and so has people's mindset.", start: 1276.96, end: 1280.54}
+  - {text: "There is more to do and that's especially helpful for teenagers.", start: 1281.18, end: 1283.90}
+  - {text: "I think this could lead to a revolution, really positive change.", start: 1284.84, end: 1288.16}
+  - {text: "Laura Jenko ending that report.", start: 1291.75, end: 1294.21}
+  - {text: "Finally, a SpaceX flight to the International Space Station on Thursday made history several times over.", start: 1294.61, end: 1301.81}
+  - {text: "For one, the vessel took less than eight hours to reach the station, breaking a US speed record.", start: 1302.13, end: 1308.23}
+  - {text: "Hello Houston, hello ISS.", start: 1308.75, end: 1313.35}
+  - {text: "We are so excited to be here.", start: 1314.21, end: 1316.53}
+  - {text: "That was a super quick trip.", start: 1316.67, end: 1318.49}
+  - {text: "It is hard to believe that we're already here, but we are super glad to be here.", start: 1319.23, end: 1323.31}
+  - {text: "We're glad to be here with Expedition 75.", start: 1323.47, end: 1325.95}
+  - {text: "It's amazing and kind of ironic to think that it's such a short trip to get here because the journey to get here has been long.", start: 1327.35, end: 1335.51}
+  - {text: "That's Commander Jessica Watkins, who's become the first black female astronaut to lead a crew to orbit.", start: 1336.27, end: 1343.29}
+  - {text: "Her team will spend the next six months on board the ISS.", start: 1343.89, end: 1346.85}
+  - {text: "Dr Wendy Okolo is a Nigerian -born aerospace research engineer at NASA.", start: 1347.55, end: 1352.59}
+  - {text: "My colleague James Reynolds asked her for her reaction about the new heights reached by Jessica Watkins.", start: 1353.21, end: 1358.49}
+  - {text: "I vividly remember when she was selected to be part of the astronaut corps and I remember the pride and joy I felt at her participation.", start: 1359.08, end: 1367.95}
+  - {text: "Now, let's take that up a notch and it's not just participation in the space, but leadership, right?", start: 1368.81, end: 1374.85}
+  - {text: "And her leadership just demonstrates an absolute milestone and operational excellence showcasing, you know, her own technical precision, but the leadership that she brings to this as an astronaut,", start: 1375.25, end: 1386.87}
+  - {text: "as a woman, and as a black woman.", start: 1386.91, end: 1389.13}
+  - {text: "I am so proud.", start: 1389.49, end: 1390.17}
+  - {text: "As you were younger and wanted to get into space, how did you decide to break into the industry?", start: 1390.93, end: 1396.09}
+  - {text: "I just did my homework.", start: 1396.25, end: 1398.69}
+  - {text: "I did all of the homework that I was assigned.", start: 1399.13, end: 1401.63}
+  - {text: "I liked, I did like physics and further math.", start: 1402.13, end: 1404.91}
+  - {text: "And so for me, it was just due diligence and just doing what is presented before you, whether you're great at it, it doesn't matter.", start: 1405.53, end: 1413.85}
+  - {text: "It's that kind of consistency and discipline and execution, right?", start: 1414.01, end: 1418.09}
+  - {text: "To understand the material.", start: 1418.17, end: 1420.03}
+  - {text: "So what, my getting into NASA, I literally just applied.", start: 1420.47, end: 1424.03}
+  - {text: "I didn't know anyone there.", start: 1424.25, end: 1425.25}
+  - {text: "It wasn't a, you know, I just applied to just put applications out there, go to an interview and applied and got into NASA.", start: 1425.43, end: 1431.39}
+  - {text: "So yeah. Not many people get that far.", start: 1432.49, end: 1434.73}
+  - {text: "You know, sometimes we forget that.", start: 1435.19, end: 1436.43}
+  - {text: "We forget that. But when you see someone like Jessica Watkins and that space, you know, commanding that spacecraft with the men that are around her, you remember that.", start: 1436.71, end: 1446.07}
+  - {text: "Yeah, not many of us get that far.", start: 1446.23, end: 1447.77}
+  - {text: "And in some decades in the 60s, particularly the Space Race Court public imagination, in recent years, exploration has perhaps not excited the public in a way that it did in previous generations.", start: 1448.27, end: 1461.67}
+  - {text: "How do you bring that excitement back?", start: 1461.85, end: 1463.37}
+  - {text: "Simply the representation. I think the Artemis II crew that left and returned in April did such a great job with exciting the public again.", start: 1463.73, end: 1474.73}
+  - {text: "And where I think the world, you know, on a global stage and vision that they could be part of a new space generation.", start: 1475.65, end: 1482.85}
+  - {text: "And so I think it is incumbent of people like us in this space to really just be real, right?", start: 1483.43, end: 1489.85}
+  - {text: "And show that we are normal, regular people outside of the work that we do.", start: 1490.13, end: 1495.33}
+  - {text: "And you don't have to fit into a specific mold, right, to get into aerospace.", start: 1495.47, end: 1500.37}
+  - {text: "Jessica Watkins is a trained U .S.", start: 1501.09, end: 1502.99}
+  - {text: "scientist and geologist. She's not an aerospace engineer by training, but there she is commanding and leading men.", start: 1503.05, end: 1510.73}
+  - {text: "So everything is for everyone.", start: 1511.17, end: 1513.09}
+  - {text: "Get excited, get involved.", start: 1513.47, end: 1514.95}
+  - {text: "That was Dr. Wendy Okolo speaking with James Reynolds.", start: 1515.61, end: 1519.37}
+  - {text: "And that's all from us for now.", start: 1521.89, end: 1523.61}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1523.81, end: 1528.09}
+  - {text: "You can also find us on x at BBC World Service.", start: 1528.47, end: 1531.67}
+  - {text: "Use the hashtag globalnewspod.", start: 1532.17, end: 1534.03}
+  - {text: "And don't forget our sister podcast, The Global Story.", start: 1534.47, end: 1537.17}
+  - {text: "This edition of The Global News Podcast was mixed by Rebecca Miller and the producers were Shephorn Leahy and Stephanie Zakreson.", start: 1537.79, end: 1544.71}
+  - {text: "The editor is Karen Martin.", start: 1545.05, end: 1546.19}
+  - {text: "I'm Charlotte Gallagher. Until next time, goodbye.", start: 1546.57, end: 1548.77}
+---
