@@ -1,0 +1,277 @@
+---
+layout: single
+title: "Failed US execution sparks death penalty debate"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-04T00:00:00Z
+slug: "2026-10-04-failed-us-execution-sparks-death-penalty-debate"
+audioDir: "2026-10-04-failed-us-execution-sparks-death-penalty-debate"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-04-failed-us-execution-sparks-death-penalty-debate/episode.mp3"
+totalDuration: 1680.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC, World Service.", start: 0.00, end: 4.26}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Sunday, the 4th of October, these are our main stories.", start: 6.13, end: 12.25}
+  - {text: "The head of prisons in the US state of Tennessee is quitting, following the failed attempt to execute a woman on death row.", start: 12.79, end: 19.59}
+  - {text: "Ethiopian government troops and their allies take control of the Tigrayan regional capital.", start: 20.23, end: 25.23}
+  - {text: "And tens of thousands of demonstrators in Spanish cities hit the streets to protest about the national housing crisis.", start: 25.77, end: 32.99}
+  - {text: "Also in this podcast, investigators say the co -pilot of the fly Dubai plane attacked his captain with an axe kept inside the cockpit and...", start: 35.71, end: 46.25}
+  - {text: "It's okay to want nice things, who wouldn't?", start: 46.25, end: 48.53}
+  - {text: "But to be corny, love is much more important.", start: 49.53, end: 52.25}
+  - {text: "So I would prioritize it, how about that?", start: 52.57, end: 54.95}
+  - {text: "What new movies are at the New York Film Festival?", start: 55.37, end: 58.35}
+  - {text: "29 prisoners have been executed in the US this year.", start: 63.29, end: 67.57}
+  - {text: "Krista Pike would have been the 30th but survived two lethal injections.", start: 68.11, end: 72.57}
+  - {text: "She's now in hospital in a critical condition.", start: 73.31, end: 75.65}
+  - {text: "Pike's case was already controversial.", start: 76.47, end: 78.45}
+  - {text: "She was 18 when she murdered Kaleen Slemmer and a victim of abuse.", start: 78.89, end: 82.89}
+  - {text: "Her botched execution has made headlines around the world and seemingly led to the resignation of the head of prisons in Tennessee.", start: 83.61, end: 91.01}
+  - {text: "Frank Strada said it was in the best interest of Tennessee that he left the role.", start: 91.83, end: 96.11}
+  - {text: "Pike's lawyer called the resignation justified but said it did nothing to help Krista now.", start: 96.71, end: 101.99}
+  - {text: "For more, I spoke to Nile Stanidge from the Washington -based newspaper, The Hill.", start: 102.65, end: 106.89}
+  - {text: "Whatever one thinks about the death penalty, and of course people have very passionately held views on that.", start: 107.53, end: 113.01}
+  - {text: "To have one state twice attempt to execute people and fail within one calendar year is just a bizarre and pretty gruesome record.", start: 113.27, end: 125.11}
+  - {text: "So Frank Strada is resigning.", start: 125.75, end: 127.99}
+  - {text: "He's stepped down this month, according to the governor of Tennessee, and he himself has said that it is, quote, in the best interests of Tennesseans for him to do so.", start: 128.31, end: 137.17}
+  - {text: "Do we know much more about Krista Pike's condition at this stage and also what will happen if she does survive?", start: 137.17, end: 144.25}
+  - {text: "So apparently she is intubated in hospital.", start: 144.83, end: 148.71}
+  - {text: "She obviously is in a critical condition.", start: 149.17, end: 151.97}
+  - {text: "We don't know a lot about her medium -term prognosis, but it all seems rather grim.", start: 152.43, end: 159.13}
+  - {text: "I mean, reading between the lines, I think it's fairly clear that these purportedly lethal drugs clearly did not kill her, but have obviously caused her to be in the state she's in now,", start: 159.61, end: 171.37}
+  - {text: "which is in quite a dire state in hospital but still living.", start: 171.49, end: 174.95}
+  - {text: "If she does pull through, I mean, it's not unprecedented that the inmates have then been executed.", start: 175.19, end: 179.89}
+  - {text: "Yeah, I mean, this is one of the big questions that hangs over this case.", start: 180.49, end: 183.97}
+  - {text: "Krista Pike's execution has been postponed for the moment by the governor of Tennessee as has incidentally another execution separate from this or the other failed one that we're talking about.", start: 184.33, end: 196.55}
+  - {text: "There was another execution scheduled for what remains of this year and that has been postponed too, but obviously there will now be even greater attention", start: 196.85, end: 205.41}
+  - {text: "on this case than there was before the first botched execution.", start: 205.41, end: 209.95}
+  - {text: "One would think as a matter of general decency to execute a woman who you have failed to execute but badly injured first time around would seem, I think, indecent to many people,", start: 210.17, end: 222.97}
+  - {text: "but that doesn't necessarily mean it won't happen.", start: 223.11, end: 225.03}
+  - {text: "Does the fact that she's a woman shock people more, do you think?", start: 225.25, end: 229.17}
+  - {text: "The reality of it is it probably does make her case more visceral.", start: 229.51, end: 236.07}
+  - {text: "I think it probably gets more attention.", start: 236.23, end: 237.87}
+  - {text: "I mean, before the debacle of the botched execution, there was still quite a lot of focus on this case in part because had the execution been completed,", start: 238.07, end: 247.87}
+  - {text: "she would have been the first woman to be executed by the state of Tennessee in approximately 200 years.", start: 248.21, end: 254.11}
+  - {text: "I mean, I'm not saying that it would be completely different if it was a man, but the previous botched execution this year was a man", start: 254.65, end: 261.39}
+  - {text: "and it didn't become the global news story that this has become.", start: 261.39, end: 264.41}
+  - {text: "And as you said that there's huge international interest in this case, is it affecting the debate on the death penalty?", start: 264.79, end: 271.15}
+  - {text: "So this is a great question and normally I hate sitting on the fence, but I do think it's a little early to tell.", start: 271.61, end: 277.79}
+  - {text: "To make a very long story short, there is still a narrow majority in most polling in favor of the death penalty in the United States.", start: 278.33, end: 286.31}
+  - {text: "Now the margin has been eroded consistently for a couple of decades.", start: 286.75, end: 291.17}
+  - {text: "Back in the mid 1990s, there was a massive majority in favor of the death penalty.", start: 291.71, end: 295.43}
+  - {text: "Now it's about 52 % in Gallup polling, but political change has often been difficult to make at least at the national level, in part because", start: 295.73, end: 305.51}
+  - {text: "politicians are loath to leave themselves open to the charge of being soft on crime.", start: 305.51, end: 311.75}
+  - {text: "And now of course there is a president who is very pro the death penalty.", start: 312.15, end: 315.49}
+  - {text: "There is and in fact that has been connected at least in some people's minds to the fact that in recent years the number of executions has actually gone up.", start: 316.05, end: 326.55}
+  - {text: "I mean in 2021 there were only 11 executions in the United States.", start: 326.79, end: 330.45}
+  - {text: "Last year there were more than 40.", start: 330.85, end: 332.45}
+  - {text: "Part of the increase has been driven by Florida, which is executing many more people than other states.", start: 333.01, end: 339.15}
+  - {text: "Florida executed 19 people last year.", start: 339.43, end: 341.77}
+  - {text: "But it is at least in the minds of I would say perhaps critics of the death penalty and critics of Mr Trump.", start: 342.23, end: 347.93}
+  - {text: "There is sort of a connection in terms of the zeitgeist for want of a better term.", start: 348.07, end: 352.33}
+  - {text: "That is sort of the connective tissue between those two things.", start: 352.63, end: 355.17}
+  - {text: "Nars Danic. In Ethiopia there are fears of a return to an all out civil war after government troops entered the capital of the northern Tigray", start: 355.87, end: 365.05}
+  - {text: "region following more than a week of fighting.", start: 365.05, end: 367.73}
+  - {text: "The rebel Tigray People's Liberation Front or TP LF have withdrawn from the city as the army moves in.", start: 368.23, end: 374.81}
+  - {text: "Our reporter Richard Hamilton has been monitoring the situation.", start: 375.37, end: 378.37}
+  - {text: "What we're hearing is that residents are saying that the rebels have packed up and left in military trucks and that the federal forces have taken over the city.", start: 379.14, end: 390.57}
+  - {text: "There are also reports of widespread looting.", start: 390.91, end: 393.57}
+  - {text: "But the impact is that the rebels will probably now retreat into the mountains as they've done before and conduct guerrilla warfare where they just pick", start: 393.99, end: 404.87}
+  - {text: "off targets rather than conducting a conventional war.", start: 404.87, end: 409.23}
+  - {text: "There'll be this asymmetric warfare where they conduct guerrilla campaign from the mountains.", start: 409.59, end: 415.21}
+  - {text: "And why are they fighting?", start: 415.93, end: 417.47}
+  - {text: "It goes back a long way because decades ago Ethiopia was dominated by the Tigrayans under the Prime Minister Mele Zanawi.", start: 418.25, end: 427.81}
+  - {text: "The TP LF had got rid of the old dictator in Ethiopia but then from then on they dominated Ethiopian politics.", start: 428.41, end: 437.61}
+  - {text: "And the problem is that it's a federation of lots of states with lots of different ethnic groups like the Tigrayans and the Oromo and the Amhara.", start: 438.35, end: 447.49}
+  - {text: "And Ethiopia has never really resolved these internal power struggles between these different ethnic groups.", start: 448.03, end: 454.17}
+  - {text: "The new Prime Minister Abi Ahmed is from the Oromo people and he sort of has always resented this historic power that the Tigrayans had.", start: 454.81, end: 466.05}
+  - {text: "And so there's been this power struggle that erupted in this terrible civil war and the danger is that they're going back to that.", start: 466.63, end: 474.47}
+  - {text: "On top of that, the other complication is that there has been conflicts between Ethiopia, the country, and Eritrea, its neighbor.", start: 474.81, end: 482.87}
+  - {text: "And there's fears that that conflict could erupt again.", start: 483.23, end: 486.23}
+  - {text: "And at the heart of that is Ethiopia, which is a landlocked country, would like to have access to a seaport.", start: 486.49, end: 493.33}
+  - {text: "So if they invaded Eritrea, then they could technically get that.", start: 493.63, end: 497.49}
+  - {text: "I was going to ask that, how are other neighboring countries feeling about all this instability and fighting?", start: 498.01, end: 503.59}
+  - {text: "It's very complicated because different neighboring countries like Egypt, Sudan, Eritrea, at different times have been supporting different factions.", start: 504.17, end: 512.43}
+  - {text: "But the big fear is that there might be a regional conflict sucking in Africa, East Africa does not need another conflict.", start: 512.85, end: 521.29}
+  - {text: "Sudan is in complete turmoil.", start: 521.73, end: 524.17}
+  - {text: "It looks as if South Sudan is also perhaps going back to previous conflicts as well.", start: 524.93, end: 531.19}
+  - {text: "So the last thing East Africa or the Horn of Africa needs is another regional conflict.", start: 531.55, end: 536.21}
+  - {text: "Richard Hamilton. When an 87 -year -old woman was evicted from her rented home in Madrid where she'd lived for decades, it sparked national anger over Spain's housing crisis.", start: 536.61, end: 548.95}
+  - {text: "People have been taking to the streets to demand action.", start: 549.41, end: 552.23}
+  - {text: "Those marching across 50 cities on Saturday carried banners with statements including, I study to have a future, not to have a tiny apartment.", start: 552.63, end: 560.89}
+  - {text: "Guy Hedgeko sent this report from Madrid.", start: 561.55, end: 563.77}
+  - {text: "In Madrid, tens of thousands of people turned out to protest.", start: 569.28, end: 573.22}
+  - {text: "Many of those taking part were calling for a general strike and demanding urgent solutions to the housing crisis which has seen rentals soar in recent years.", start: 574.04, end: 583.10}
+  - {text: "The rents go higher and higher and higher.", start: 583.74, end: 586.76}
+  - {text: "Our salaries are not increasing as much as rent is.", start: 587.60, end: 591.12}
+  - {text: "We are all in our 30s living with roommates and we can't live alone or with our foreigners and establish a family or whatever.", start: 591.12, end: 606.34}
+  - {text: "In Valencia there were violent scenes.", start: 611.92, end: 614.12}
+  - {text: "Five people were arrested and nine police officers injured in clashes.", start: 614.60, end: 618.62}
+  - {text: "Protesters' anger was further fuelled by the fact that on Friday Parliament rejected a series of measures presented by the left -wing coalition of Pedro Sánchez", start: 619.90, end: 629.48}
+  - {text: "aimed at improving conditions for those renting property.", start: 629.48, end: 633.16}
+  - {text: "The legislation included preventing the eviction of vulnerable people, clamping down on the buying of properties by investors and introducing the automatic renewal of rental contracts.", start: 634.32, end: 644.80}
+  - {text: "But parties on the right opposed these policies, warning they would tip the legal balance against landlords, causing them to take their properties off the rental market.", start: 645.66, end: 655.44}
+  - {text: "Since his parliamentary defeat, Mr Sánchez has been considering calling a snap election.", start: 656.67, end: 662.13}
+  - {text: "Guy Hedgeko in Madrid.", start: 662.87, end: 664.35}
+  - {text: "Normally September is the most active month for hurricanes, but not this year.", start: 664.81, end: 669.41}
+  - {text: "For the first time in more than 30 years a hurricane has not formed in the Atlantic Ocean.", start: 669.83, end: 675.29}
+  - {text: "It's thought the biggest reason for this is El Niño, a warming of surface temperatures in the tropical Pacific Ocean.", start: 675.95, end: 682.77}
+  - {text: "This is leading experts to suggest there may not be a single Atlantic hurricane this year.", start: 683.11, end: 688.77}
+  - {text: "Alex Ritzen spoke to Ben Rich from BBC Weather and asked him how remarkable would that be?", start: 689.31, end: 694.69}
+  - {text: "Yeah, it is possible.", start: 695.29, end: 696.37}
+  - {text: "The season for hurricanes in the Atlantic runs through until November and September is normally the peak.", start: 696.59, end: 704.05}
+  - {text: "It's when sea surface temperatures are at their highest.", start: 704.29, end: 707.07}
+  - {text: "It's when we tend to see peak numbers of hurricanes forming.", start: 707.19, end: 710.33}
+  - {text: "The fact we haven't had any so far and we're now past that peak means that there is every chance that we may not get one at all this season in the Atlantic.", start: 710.55, end: 720.95}
+  - {text: "That would be incredibly rare.", start: 721.17, end: 723.73}
+  - {text: "We haven't seen it since we started monitoring hurricanes with satellites.", start: 724.35, end: 729.33}
+  - {text: "Since the satellite era, we were able to see satellite pictures of hurricanes in the Atlantic back in the 1960s.", start: 729.73, end: 735.31}
+  - {text: "Since then, we have not seen a year when we haven't had a hurricane.", start: 735.47, end: 739.31}
+  - {text: "The last year when no Atlantic hurricane was recorded was 1914, but bear in mind that's before we were able to monitor things with satellites.", start: 739.81, end: 747.87}
+  - {text: "Sometimes hurricanes form over ocean.", start: 748.45, end: 750.19}
+  - {text: "They never make landfall.", start: 750.61, end: 751.55}
+  - {text: "It may be that there was one, but they just didn't know about it.", start: 751.95, end: 754.69}
+  - {text: "It is really quite remarkable.", start: 754.87, end: 756.83}
+  - {text: "This is being linked to El Nino, which is the natural warming of the Pacific.", start: 757.05, end: 761.41}
+  - {text: "How does that affect weather patterns in the Atlantic?", start: 761.79, end: 765.63}
+  - {text: "It seems slightly weird, doesn't it?", start: 765.93, end: 767.79}
+  - {text: "We're talking about the Pacific phenomenon of El Nino and Atlantic hurricanes.", start: 767.87, end: 771.65}
+  - {text: "What El Nino does essentially is it's a release of heat into the atmosphere from that part of the tropical Pacific Ocean.", start: 771.91, end: 779.39}
+  - {text: "Now, hot air rises, and what it does is it interferes with weather patterns, and those effects then ripple out across the globe.", start: 780.07, end: 787.51}
+  - {text: "What actually happens is there's a change to wind patterns high up in the atmosphere across the Caribbean and across the Atlantic Ocean.", start: 787.77, end: 795.55}
+  - {text: "The winds blow across each other.", start: 796.07, end: 798.51}
+  - {text: "We get this phenomenon known as wind shear, where the wind blows at different speeds, different directions, at different levels in the atmosphere, and that tears apart the storms", start: 798.57, end: 807.17}
+  - {text: "that spin up into hurricanes before they've had a chance to form.", start: 807.17, end: 810.53}
+  - {text: "It's thought that that's the main reason why we haven't seen any hurricanes so far.", start: 810.61, end: 814.99}
+  - {text: "It is a typical effect of El Nino that we tend to see fewer hurricanes in the Atlantic basin.", start: 815.05, end: 820.13}
+  - {text: "The thing to bear in mind is that we mustn't rest on our laurels.", start: 820.71, end: 824.29}
+  - {text: "We mustn't assume that we're going to go through the season without seeing any hurricanes, because experts in the US say that despite this kind of overwhelming pattern of a quiet season,", start: 824.35, end: 834.35}
+  - {text: "it only takes one powerful storm hitting in the right or the wrong place to cause major weather impacts, because there's still the potential for a hurricane to form somewhere in the Atlantic.", start: 834.57, end: 847.17}
+  - {text: "Ben Rich, still to come in this podcast.", start: 847.45, end: 853.04}
+  - {text: "Plague is still around us.", start: 853.04, end: 855.32}
+  - {text: "It's a disease that is endemic in several countries like Madagascar, Democratic Republic of Congo.", start: 855.84, end: 861.44}
+  - {text: "Panic in Russia after a potential plague case.", start: 862.02, end: 865.80}
+  - {text: "This is the Global News podcast.", start: 874.10, end: 876.42}
+  - {text: "More details are emerging about the attack on a fly -do -buy plane last week.", start: 877.26, end: 881.60}
+  - {text: "UAE investigators have determined what weapon the co -pilot used when he hit the captain and attempted to take control of the aircraft.", start: 881.92, end: 890.12}
+  - {text: "Multiple media reports have also named the attacker.", start: 890.58, end: 893.48}
+  - {text: "Sebastian Usher has the latest.", start: 894.00, end: 895.56}
+  - {text: "One more question of the extraordinary incident on the plane flying from Dubai to Tel Aviv on Wednesday now appears to have been answered.", start: 896.30, end: 902.96}
+  - {text: "The co -pilot did not manage to breach security and bring a knife on board.", start: 903.34, end: 907.08}
+  - {text: "Instead, the UAE says he used what was at hand, a small axe stored as standard in cockpits in case of emergency.", start: 907.44, end: 914.06}
+  - {text: "Emma Henderson is a former airline captain and aviation expert.", start: 914.06, end: 917.96}
+  - {text: "If you've been involved in an incident, for example, where the cockpit door has buckled and for some reason you can't use the emergency escape windows in the cockpit, that's what it's there for.", start: 918.20, end: 927.20}
+  - {text: "I have often questioned whether or not this is a good idea.", start: 928.24, end: 932.80}
+  - {text: "Some of the questions about the co -pilot who carried out the attack are now beginning to be answered too.", start: 933.10, end: 937.20}
+  - {text: "He's been named though not yet officially as Hamam al -Hamami and assertion by the Israeli Prime Minister Benjamin Netanyahu that he'd undergone Islamist radical indoctrination", start: 937.60, end: 947.96}
+  - {text: "now seems borne out to some extent by reports in various media outlets.", start: 947.96, end: 952.08}
+  - {text: "Most significantly, it's been reported that he was barred from flying in Oman over his extremist views.", start: 952.64, end: 958.70}
+  - {text: "That's not being confirmed by Omani or UAE officials, but it's raised new security questions.", start: 959.08, end: 964.40}
+  - {text: "A UAE presidential advisor has said the incident shows that the struggle in the region with extremism persists and that justifying terrorism through hate speech is part of the danger.", start: 965.02, end: 974.03}
+  - {text: "And of course, what's also unclear for now is whether the co -pilot was acting alone or in conjunction with a group or state.", start: 974.73, end: 982.53}
+  - {text: "Spastian Usher. In the Russian region of Irkutsk, nearly 200 people are under medical observation after a lab technician reportedly died from pneumonic plague.", start: 983.37, end: 994.87}
+  - {text: "She was apparently working at the Irkutsk anti -plague research institute of Siberia.", start: 995.47, end: 1000.59}
+  - {text: "Social media has already been flooded with fear mongering fake news.", start: 1001.03, end: 1005.01}
+  - {text: "My colleague Celia Hatton has been speaking to Professor Havia Pizarro Serda from the plague research unit at the Pasteur Institute in Paris.", start: 1005.41, end: 1013.77}
+  - {text: "Bubonic plague has been until now the most common form of plague and we think that it was very prevalent in Europe in medieval time.", start: 1014.37, end: 1022.51}
+  - {text: "But plague is still around us.", start: 1022.85, end: 1024.85}
+  - {text: "It's a disease that is endemic in several countries like Madagascar, Democratic Republic of Congo where still bubonic plague is the most common form but from time to time there are cases of pneumonic plague", start: 1025.13, end: 1037.91}
+  - {text: "when the bacteria reach the lungs of the person.", start: 1037.91, end: 1040.51}
+  - {text: "So it's very rare form of disease but it can happen today in natural settings.", start: 1040.71, end: 1045.69}
+  - {text: "Apparently we have one supposed death in Russia but 200 people under observation.", start: 1045.69, end: 1051.99}
+  - {text: "Would you agree with this response?", start: 1052.43, end: 1054.19}
+  - {text: "Is it proportional? Well plague is a very dangerous disease.", start: 1054.49, end: 1058.75}
+  - {text: "In the case of pneumonic plague we think that there is 100 % of lethality if people are not treated with the right antibiotics early enough.", start: 1059.15, end: 1068.49}
+  - {text: "So I think that it is reasonable to investigate 200 potential contact people because these diseases can be transmitted from person to person like COVID via droplets via aerosols.", start: 1069.03, end: 1080.43}
+  - {text: "We're hearing reports that this was a lab technician, a 28 -year -old lab technician who may have broken a test tube containing the plague pathogen.", start: 1080.71, end: 1090.97}
+  - {text: "Why would a lab have samples of this disease to begin with?", start: 1091.49, end: 1095.19}
+  - {text: "Well I have to say that there are several labs including ours around the world who still work with plague because there are no licensed vaccines universally approved around the world.", start: 1095.63, end: 1106.07}
+  - {text: "There have been vaccines which have been used in the past but today they do not comply with current standards.", start: 1106.45, end: 1111.69}
+  - {text: "So we are several labs working on the development of a new plague vaccine and we are also working on developing more sensitive and more rapid diagnostic tests", start: 1112.11, end: 1123.11}
+  - {text: "so that we can detect the disease very early.", start: 1123.11, end: 1125.63}
+  - {text: "And so what should we be looking for if this plague spreads, if this story continues to grow?", start: 1125.99, end: 1132.31}
+  - {text: "How will we know if this is a real issue?", start: 1132.79, end: 1134.39}
+  - {text: "I don't think that it's going to be a real issue because I don't think that there is a risk of an outbreak, an important outbreak.", start: 1134.67, end: 1140.53}
+  - {text: "So I don't think that there are real reasons to be alarmed.", start: 1140.83, end: 1143.77}
+  - {text: "Professor Javier Pizarro Serde.", start: 1144.59, end: 1146.85}
+  - {text: "October Fest is underway in Munich.", start: 1147.67, end: 1150.05}
+  - {text: "The German festival centred around enjoying beer, Bavarian food, fairground attractions and music.", start: 1150.45, end: 1156.55}
+  - {text: "One traditional ride involves people trying to stay on a giant wheel as it spins but this year one of the organisers has been giving out", start: 1157.27, end: 1166.05}
+  - {text: "shorts to women before they get on after a rise in videos being uploaded online showing women's underwear during the ride.", start: 1166.05, end: 1173.59}
+  - {text: "Our reporter Stephanie Prentice told us more.", start: 1174.01, end: 1176.25}
+  - {text: "The ride you just mentioned is called Toifelsrat or Devil's Wheel and a group of people clamber on its spins and spins quite quickly actually until one person is left.", start: 1176.71, end: 1186.77}
+  - {text: "Now generally at October Fest the men are wearing Lederhosen and the woman a dirndl outfit that has a flowy sort of skirt.", start: 1187.39, end: 1194.25}
+  - {text: "In videos of this ride you can see the women clearly trying to hold the skirts down but now a new report's found more than 30 ,000 videos have been uploaded of the ride on meta alone,", start: 1195.09, end: 1205.69}
+  - {text: "meta platforms and they get a disproportionate amount of views, some of them millions.", start: 1206.09, end: 1212.05}
+  - {text: "Now authorities think that women may be being upskirted, that's the formal name for taking sexually intrusive content without permission up someone's skirt.", start: 1212.77, end: 1220.63}
+  - {text: "There's also some videos that seem to have been altered so that the women look naked.", start: 1221.41, end: 1225.19}
+  - {text: "We can listen to one woman, she wanted to be anonymous and she featured prominently in a video of the ride that ended up online.", start: 1225.91, end: 1232.25}
+  - {text: "In the moment the ride was exciting with lots of adrenaline, big crowds are watching, but then the video was posted online.", start: 1232.81, end: 1241.53}
+  - {text: "So that woman did try to press charges, she didn't get anywhere.", start: 1242.36, end: 1246.22}
+  - {text: "In the rail signs saying filming isn't allowed but it's inside a huge tent and the organiser Elizabeth Palacci has decided enough is enough she's been handing out pairs of cycling shorts", start: 1246.80, end: 1256.76}
+  - {text: "and she told media she wants women to feel safe.", start: 1256.76, end: 1259.34}
+  - {text: "Skirting is illegal in Germany, get two years in prison or fines depending on your income.", start: 1259.86, end: 1265.10}
+  - {text: "When it comes to this ride past investigations have found it really hard to prove that one person was being deliberately targeted.", start: 1265.72, end: 1272.22}
+  - {text: "There has been a police campaign generally directed at the festival warning people not to film these kind of videos.", start: 1273.04, end: 1278.60}
+  - {text: "This are actually one arrest of a man who was filming under woman's skirt.", start: 1279.24, end: 1282.86}
+  - {text: "But you know, Oktoberfest is the largest beer festival in the world, more than six million people there policing a crowd with smartphones just not easy.", start: 1283.60, end: 1291.72}
+  - {text: "Some politicians are urging social media platforms to do more and get these videos taken down.", start: 1292.48, end: 1296.88}
+  - {text: "Protection agencies, they've been asking for the laws to be harsher, but as things stand it would seem the most effective way for women to be protected is a pair of cycling shorts.", start: 1297.46, end: 1308.46}
+  - {text: "Stephanie Prentice. A new species of lizard has been discovered living high up in the Peruvian Andes.", start: 1309.26, end: 1316.38}
+  - {text: "It's around 8 cm long and survives on what you might call a mixed diet, as Paul Moss explains.", start: 1316.94, end: 1323.84}
+  - {text: "You can't fault the determination of some scientists.", start: 1324.73, end: 1327.71}
+  - {text: "5 ,000 meters up in the high Andean Plateau, a team from Peru's San Marcos University found some lizards living under rocks and in mountain tunnels.", start: 1328.23, end: 1337.13}
+  - {text: "Creatures, which perhaps due to their remote location, had until now remained unidentified.", start: 1337.71, end: 1343.05}
+  - {text: "There are already nearly 300 species of lizard known to be living in Peru.", start: 1343.59, end: 1347.89}
+  - {text: "Lylemus occupensis is one more to add to the list.", start: 1348.45, end: 1351.77}
+  - {text: "And it's certainly distinctive, the males have short stripes on their backs, while the females have square shaped spots, making it easy for individuals of the species in search of a mate to work out who's who and avoid embarrassing misunderstandings.", start: 1352.27, end: 1367.19}
+  - {text: "As for their diet, it seems that both genders survive on eating spiders, beetles and insect larvae.", start: 1367.63, end: 1374.01}
+  - {text: "But finding these lizards was just the beginning.", start: 1374.41, end: 1376.71}
+  - {text: "They followed a long and rigorous analysis of their DNA to determine that Lylemus occupensis really does count as a whole new species.", start: 1377.07, end: 1385.41}
+  - {text: "Once that was confirmed, the scientist who led the research said it represented an important advance for biodiversity.", start: 1385.97, end: 1393.05}
+  - {text: "Paul Moss reporting. One of North America's most prestigious cinema events, the annual New York Film Festival is now in full sway.", start: 1393.69, end: 1402.53}
+  - {text: "This year, the lineup is packed with films that touch on real life concerns from the conflict in the Middle East, to perceived threats to the US Constitution, to anxieties over AI.", start: 1403.17, end: 1414.35}
+  - {text: "Tom Brooke reports from New York.", start: 1414.97, end: 1416.85}
+  - {text: "Film festivals waps and wane, but these appear to be good times for the New York Film Festival, which is underway with a rich lineup of films, many of which tap into the zeitgeist.", start: 1418.48, end: 1428.56}
+  - {text: "What is the image of the future that you see?", start: 1429.08, end: 1433.04}
+  - {text: "One of the most eagerly awaited pictures has been artificial, starring Andrew Garfield among others, a comedy drama revolving around Sam Altman's abrupt firing and then reinstatement as CEO of Open AI.", start: 1433.68, end: 1446.44}
+  - {text: "The picture feeds into current anxieties over AI.", start: 1447.34, end: 1450.76}
+  - {text: "Dennis Lim is the artistic director of the New York Film Festival.", start: 1451.26, end: 1454.46}
+  - {text: "It really gets across the idea that this is a critical moment, but it does so with humor and horror in perfect balance.", start: 1454.96, end: 1462.10}
+  - {text: "People waited patiently for one of the festival's more controversial films, NASA, shot in Tel Aviv.", start: 1462.80, end: 1467.98}
+  - {text: "It features anonymous nighttime interviews with Israeli intelligence insiders who recount the alleged targeting of Palestinian civilians in Gaza.", start: 1468.70, end: 1476.86}
+  - {text: "The Israeli military and government have rejected the film's allegations.", start: 1477.76, end: 1481.10}
+  - {text: "In New York, the film's presence in the festival provoked protests from those who took issue with it and those who supported it.", start: 1481.84, end: 1489.16}
+  - {text: "Among the festival's narrative features was Paper Tiger, the opening night film, a New York set crime drama.", start: 1490.05, end: 1495.91}
+  - {text: "It revolves around a close -knit family whose lives are upended after becoming targeted by the Russian mafia.", start: 1500.41, end: 1505.97}
+  - {text: "Adam Driver, Miles Teller and Johansson are its stars.", start: 1506.55, end: 1510.15}
+  - {text: "It's a cautionary tale of sorts from New York filmmaker James Gray, suggesting that bad things may happen if you become too caught up in seeking the material gains of the American Dream.", start: 1514.05, end: 1524.55}
+  - {text: "Well, that's one way to look at it, but I'd say if that's the only thing you want, you're in trouble.", start: 1524.79, end: 1530.11}
+  - {text: "It's okay to want nice things, who wouldn't.", start: 1530.49, end: 1532.65}
+  - {text: "But I would prioritize it.", start: 1537.15, end: 1538.47}
+  - {text: "How about that? I walked in on something they didn't want me to see.", start: 1538.53, end: 1542.37}
+  - {text: "Paper Tiger is quite a traditional film, but that's not to put it down in any way at all.", start: 1542.77, end: 1547.69}
+  - {text: "It's very accomplished, classical filmmaking, something to be savoured.", start: 1548.13, end: 1552.59}
+  - {text: "And director James Gray doesn't get overbearing with his actors.", start: 1552.99, end: 1556.81}
+  - {text: "He gives them room to breathe.", start: 1557.27, end: 1558.51}
+  - {text: "The performances really stand out in this picture.", start: 1558.85, end: 1561.51}
+  - {text: "And in this film, Scarlett Johansson is a revelation with her acting, portraying a wife and mother confronting her family under threat and her own mortality.", start: 1562.13, end: 1571.23}
+  - {text: "She too seizes as a picture about love, the bonds that tie family members together.", start: 1571.89, end: 1576.71}
+  - {text: "When I think about the film, I don't think about the morale of it or I think about the incredible love that these characters have for one another", start: 1577.03, end: 1585.27}
+  - {text: "and what they are willing to sacrifice for one another.", start: 1585.27, end: 1588.41}
+  - {text: "Hello, Pop, you all right?", start: 1588.79, end: 1590.15}
+  - {text: "And a British film making a positive impact in New York was the drama Tender Loving Care.", start: 1590.47, end: 1595.35}
+  - {text: "It comes from the celebrated Mike Lee, one of the eldest statesmen of British social realist cinema.", start: 1595.73, end: 1600.81}
+  - {text: "At age 83, he says this will be his last picture, as he reflects back on a career of making more than 20 films over five decades.", start: 1601.39, end: 1608.99}
+  - {text: "Not only am I amazed that I've made that number of films, but I've made them all on my own terms without any interference from anybody.", start: 1609.39, end: 1617.09}
+  - {text: "And in this climate, these days, it's an extremely tough proposition to make a film without being interfered with by a lot of people, actually.", start: 1617.71, end: 1627.19}
+  - {text: "The festival's centerpiece attraction is Behemoth, the film starring Pedro Pascal, the cellist in a picture seen as a tribute to the power of music.", start: 1628.50, end: 1636.20}
+  - {text: "This year's New York Film Festival is already being judged a success.", start: 1638.41, end: 1642.33}
+  - {text: "Tom Brooke reporting from New York.", start: 1644.45, end: 1646.75}
+  - {text: "And that's all from us for now.", start: 1649.51, end: 1651.17}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1651.35, end: 1655.61}
+  - {text: "You can also find us on X at BBC World Service.", start: 1656.13, end: 1659.39}
+  - {text: "Use the hashtag Global NewsPod.", start: 1659.71, end: 1661.63}
+  - {text: "Don't forget our sister podcast, The Global Story.", start: 1662.21, end: 1664.45}
+  - {text: "This edition of the Global News Podcast was mixed by Louis Griffin and the producer was Emma Joseph.", start: 1664.83, end: 1669.59}
+  - {text: "The editor is Karen Martin and I'm Charlotte Gallagher.", start: 1669.93, end: 1672.85}
+  - {text: "Until next time, goodbye.", start: 1673.01, end: 1674.05}
+---
