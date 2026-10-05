@@ -1,0 +1,291 @@
+---
+layout: single
+title: "Brazil's presidential election goes to runoff"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-05T00:00:00Z
+slug: "2026-10-05-brazils-presidential-election-goes-to-runoff"
+audioDir: "2026-10-05-brazils-presidential-election-goes-to-runoff"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-05-brazils-presidential-election-goes-to-runoff/episode.mp3"
+totalDuration: 1819.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.10}
+  - {text: "I'm Janet Jalil and in the early hours of Monday 5th October, these are our main stories.", start: 5.59, end: 11.37}
+  - {text: "Brazil's election goes to a runoff after the right -wing challenger, Flavio Bolsonaro, wins the first round, beating President Lula, but fails to get more than 50 % of the vote.", start: 12.35, end: 23.21}
+  - {text: "The US removes its bomber planes from an English air base, which was recently alleged to be the target of a terror plot.", start: 24.16, end: 30.98}
+  - {text: "Israel and British Jewish groups condemn the UK's Green Party for voting to define Zionism as a form of racism.", start: 31.70, end: 39.66}
+  - {text: "Also in this podcast, as tickets for Glastonbury sell out in less than an hour, we hear about the bizarre tactics some music fans used to try to jump the line.", start: 42.29, end: 52.59}
+  - {text: "Sending good energy. You know you want to move.", start: 53.99, end: 56.61}
+  - {text: "You're the sexiest green line I've ever seen.", start: 56.73, end: 59.25}
+  - {text: "We begin in Brazil, where a bitter presidential election runoff is set to go ahead later this month after a right -wing challenger, Flavio Bolsonaro, finished ahead of the left -wing incumbent,", start: 62.58, end: 74.20}
+  - {text: "Luiz Inasio Lula da Silva, but fell short of the 50 % needed for an outright victory in the first round.", start: 74.72, end: 82.10}
+  - {text: "Mr Bolsonaro did better than the polls had predicted, gaining about 47 % of the vote, meaning the second round could be his to lose.", start: 82.74, end: 91.52}
+  - {text: "If he does win the runoff in three weeks' time, he would become the latest in a succession of right -wing leaders to come to power in Latin America.", start: 92.18, end: 99.68}
+  - {text: "His father, Jair Bolsonaro, is currently serving a jail term under house arrest for attempting a coup after losing the last election four years ago to Mr Lula.", start: 100.36, end: 110.52}
+  - {text: "This time round, the president, who is 80, said he was surprised he was trailing his much younger challenger.", start: 111.22, end: 118.36}
+  - {text: "The result is often unexpected.", start: 122.91, end: 124.77}
+  - {text: "We never managed to get everything we wanted.", start: 125.51, end: 127.77}
+  - {text: "I confess to you that I was convinced I was going to win the election in the first round, but we have a second round, and the second round is", start: 128.27, end: 136.41}
+  - {text: "when we are really put to the test.", start: 136.41, end: 138.47}
+  - {text: "It's the moment for us to show the true picture of Brazil today and the Brazil we want.", start: 138.91, end: 144.17}
+  - {text: "So, starting tomorrow, we begin a new campaign.", start: 144.59, end: 147.37}
+  - {text: "I heard more from Ioni Wells, who's covered Latin America extensively and is following the elections from Washington.", start: 147.85, end: 154.63}
+  - {text: "The polls leading up to this election certainly suggested that while it was incredibly close, President Lula da Silva was marginally ahead in most of those polls.", start: 155.25, end: 164.65}
+  - {text: "In reality, Flavia Bolsonaro has finished about two points also ahead of President Lula, giving him really the momentum in that second round, not least because", start: 165.37, end: 176.47}
+  - {text: "the other candidates who have been knocked out of this election that picked up a couple of percentages of the vote, some of those were also right -wing alternative candidates,", start: 177.13, end: 186.43}
+  - {text: "and it's expected that some of their supporters could therefore go for Flavia Bolsonaro in a second round.", start: 186.61, end: 192.71}
+  - {text: "I think it's also worth saying that not only has he come ahead in this presidential race, but also there has been this big conservative wave in Congress with his party", start: 193.19, end: 204.73}
+  - {text: "electing so far more senators, deputies, governors than other parties in Brazil, meaning that if he were to win that second round, he would return with a very powerful base, essentially, of lawmakers around the country.", start: 205.27, end: 216.81}
+  - {text: "But at the same time, he's still got to win the second round now, as you say.", start: 217.19, end: 220.21}
+  - {text: "We're talking about two very different men here with two very different visions for Brazil.", start: 220.89, end: 225.73}
+  - {text: "Yes, that's right. Lula and Bolsonaro are two of the biggest names in Brazilian politics, one very firmly on the left, one very firmly on the right.", start: 226.21, end: 234.39}
+  - {text: "That's why this campaign has been incredibly polarizing.", start: 234.77, end: 237.25}
+  - {text: "President Lula has really defined his presidency with large social welfare programs that he introduced in his first term, which have been credited with lifting millions of people out of poverty.", start: 237.73, end: 250.15}
+  - {text: "He's increased the number of universities in Brazil.", start: 250.51, end: 252.99}
+  - {text: "He has reduced the rate of deforestation in the Amazon, but he has struggled at times with voter concerns about things like crime, about the economy, inflation,", start: 253.65, end: 263.75}
+  - {text: "high levels of personal debt, high interest rates, which have all been quite significant headwinds during this campaign.", start: 264.07, end: 270.49}
+  - {text: "Flavia Bolsonaro, for his part, has promised a tough crackdown on crime, including building mega prisons, including designating Brazilian gangs as terrorist organizations, but also a closer alignment with the United States,", start: 271.09, end: 285.09}
+  - {text: "something which President Lula has really been quite hesitant of.", start: 285.25, end: 289.01}
+  - {text: "He's accused the US of trying to interfere repeatedly in Brazilian affairs, whether that be on the economy, with things like the US's tariffs against Brazil,", start: 289.23, end: 297.33}
+  - {text: "or whether it be on issues of security, given Flavia Bolsonaro lobbied the US to designate Brazilian gangs as terrorist organizations earlier this year.", start: 297.41, end: 306.49}
+  - {text: "And President Trump hasn't officially come out for either man, but it's clear that he is supporting Flavia Bolsonaro, hoping that he will continue the right -wing wave that has swept across Latin America.", start: 306.75, end: 320.07}
+  - {text: "Yeah, I think if Flavia Bolsonaro were to win the second round, that would certainly embolden Donald Trump and his administration's actions in the region even more.", start: 320.47, end: 329.79}
+  - {text: "Already the US is taking a much more muscular approach in the region when it comes to things like security.", start: 329.95, end: 334.77}
+  - {text: "It has carried out waves of strikes against alleged narco -trafficking boats, but some joint military operations on land as well in places like Ecuador, which critics have said are not legal that go against international law.", start: 335.37, end: 350.75}
+  - {text: "But he has increasing support from governments in the region because in the last couple of years, we've seen Argentina, Colombia, Peru, we've seen Ecuador all elect right -leaning presidents,", start: 351.23, end: 363.33}
+  - {text: "and Brazil is the biggest economy, the biggest country in the region, so I think would be seen by the Trump administration as the biggest prize were that to also shift to the right.", start: 363.69, end: 372.29}
+  - {text: "I own you, Wales.", start: 372.81, end: 373.57}
+  - {text: "The US has recalled all of its bombers stationed at a military air base in England just days after British police arrested six men in connection", start: 374.65, end: 383.47}
+  - {text: "with a suspected terror plot against the base.", start: 383.47, end: 386.23}
+  - {text: "All six have since been released on bail.", start: 386.73, end: 388.95}
+  - {text: "The US has used the RAF Fairford air base as a hub for launching attacks on Iran during this year's war.", start: 389.81, end: 396.39}
+  - {text: "American officials say the decision to remove all their B -1 bombers to return them to US soil was made because of security concerns.", start: 397.07, end: 405.01}
+  - {text: "The New York Times reported that officials had been told about a fresh threat involving Iran.", start: 405.57, end: 411.03}
+  - {text: "Tehran has denied being behind any plot to attack the base.", start: 411.75, end: 415.63}
+  - {text: "A correspondent, Ellie Price, told me more about what appears to be a sudden unexpected American decision.", start: 416.09, end: 422.55}
+  - {text: "It has felt abrupt.", start: 422.95, end: 424.07}
+  - {text: "Let me give you a bit more on that context that you were talking about there.", start: 424.37, end: 426.79}
+  - {text: "RAF Fairford in England has been used for decades by the Americans.", start: 426.97, end: 430.57}
+  - {text: "Keir Starmer, the then Prime Minister, agreed that the US could use it to launch what he described as defensive strikes on Iran back in the spring.", start: 431.21, end: 438.47}
+  - {text: "It was a fairly controversial decision at the time.", start: 438.63, end: 440.71}
+  - {text: "In fact, I was there at the base when the bombers started to arrive.", start: 441.21, end: 444.13}
+  - {text: "Fast forward to last weekend, a major incident around the base, local residents evacuated as bomb disposal teams were sent in, concerns about three vans in particular.", start: 444.69, end: 453.83}
+  - {text: "Five British men were initially arrested on suspicion of terror offences near the base and subsequently released on police bail.", start: 454.45, end: 461.25}
+  - {text: "A sixth man, a UK -Iranian national, was later arrested and also released on bail.", start: 461.37, end: 466.43}
+  - {text: "As you suggest, both the Prime Minister, Andy Burnham and President Trump have suggested that there could be some Iranian involvement in the alleged plot.", start: 467.17, end: 474.17}
+  - {text: "But no official reason has been given why those aircraft have been pulled out.", start: 474.79, end: 479.07}
+  - {text: "Just that statement from the Pentagon that those aircraft will be redeployed to their home stations in the United States.", start: 479.13, end: 485.43}
+  - {text: "Here in London, the Ministry of Defence has not commented, but government sources have not disputed the decision from Washington that it was in response to that incident at the base last weekend.", start: 485.43, end: 495.59}
+  - {text: "And the BBC has also been told that it was a military rather than a political decision taken at operational level and communicated by the US military to British counterparts.", start: 495.93, end: 505.35}
+  - {text: "I wouldn't be surprised, sir, if we do get a bit more on that diplomatic reaction and indeed reasoning in the coming days.", start: 505.61, end: 511.07}
+  - {text: "And what is the latest on that investigation?", start: 511.45, end: 513.47}
+  - {text: "Because there are still many questions about what this alleged terror plot was on the airbase.", start: 513.71, end: 518.75}
+  - {text: "Yeah. And sort of strange tales of intrigue of exactly how it all unfolded.", start: 519.19, end: 523.31}
+  - {text: "One suggestion that it was one of the five men who were arrested that initially called emergency services and that that's why the police came and a lot of sort of what happened and when.", start: 523.39, end: 531.93}
+  - {text: "And searches have been ongoing.", start: 532.37, end: 534.23}
+  - {text: "The counter -terrorist police here have previously said that this was a hugely complex investigation that specialist teams were interrogating multiple lines of inquiries and that investigation is ongoing.", start: 534.89, end: 544.59}
+  - {text: "Ellie Price. Well, our security correspondent, Frank Gardner, has this assessment of what may have prompted the American decision to move the bombers.", start: 545.09, end: 554.83}
+  - {text: "The unexpected mass withdrawal of America's heavy bombers from RAF Fairford has happened so suddenly it hints at something approaching panic in the Pentagon.", start: 555.49, end: 564.23}
+  - {text: "While here counter -terrorism police are still investigating what some are calling the recent alleged terror plot against the base, there must be concerns in Washington that the U .S.", start: 564.93, end: 574.39}
+  - {text: "cannot risk catastrophic damage to another one of its high -value military aircraft.", start: 574.59, end: 579.07}
+  - {text: "In March, an Iranian strike destroyed a U .S.", start: 579.75, end: 582.61}
+  - {text: "E3 Sentry early warning plane at a Saudi airbase worth around half a billion dollars.", start: 582.67, end: 588.27}
+  - {text: "The B1 Lancer bombers that have been using Fairford to carry out missions on Iranian missile sites this year each cost more than 300 million dollars.", start: 588.77, end: 597.67}
+  - {text: "The U .S. says its bombers can still operate from the continental United States and fears of an Iranian attack on RAF Fairford or other British bases used by the U .S.", start: 598.55, end: 608.31}
+  - {text: "means they may not be back for some time.", start: 608.73, end: 611.31}
+  - {text: "Frank Gardner. The Israeli authorities have barred the leader of a British political party, Zak Polanski, from entering Israel after members of his Green Party voted to define Zionism as a form of racism.", start: 611.83, end: 626.61}
+  - {text: "Zionism is the movement that helped to create Israel as a homeland for the Jews after the Holocaust.", start: 627.37, end: 632.71}
+  - {text: "Senior members of the Green Party have warned that Jewish members will feel scared and unwelcome in the party.", start: 633.51, end: 639.17}
+  - {text: "Jewish groups in Britain have strongly condemned the motion, which also opposes a two -state solution, saying there should just be one Palestinian state for all.", start: 639.75, end: 649.23}
+  - {text: "Here's a statement by the Board of Deputies of British Jews, which has been voiced by one of our producers.", start: 649.87, end: 655.19}
+  - {text: "The motion passed by the Green Party is an attack on the Jewish community.", start: 655.93, end: 660.25}
+  - {text: "It is an anti -Semitic platform.", start: 660.93, end: 663.07}
+  - {text: "Zionism is anti -racism, creating a refuge for Jews in their ancient homeland after millennia of persecution outside it.", start: 663.63, end: 671.55}
+  - {text: "Branding most British Jews and Jewish institutions racist, stokes anti -Jewish hatred after a year in which British Jews have been murdered, attending their synagogue, stabbed in the streets and seen their community buildings fire bombed.", start: 672.21, end: 688.07}
+  - {text: "Israel's President Isaac Herzog has called the Green Party a disgrace.", start: 688.33, end: 692.61}
+  - {text: "Our political correspondent Rob Watson gave us this assessment.", start: 693.27, end: 696.63}
+  - {text: "I would describe it as a watershed moment in British politics, because it would be utterly unthinkable for a party with pretty large -scale supports of past emotion.", start: 697.31, end: 708.07}
+  - {text: "Anything like this, because if you think about it, from the 1940s onwards, Britain and Israel had been pretty close allies.", start: 708.31, end: 716.09}
+  - {text: "And up until fairly recently, I think there was a lot of popular support for what would have been seen of Israel's plight surrounded by hostile Arab states.", start: 716.73, end: 724.19}
+  - {text: "Now the fact that a party could pass such emotion, essentially calling for Israel's destruction, I think suggests how public opinion has changed so much in this country in recent years, particularly since October the 7th.", start: 724.75, end: 742.05}
+  - {text: "But of course critics would say, would also suggest a certain kind of normalization of anti -Semitism and a sense that a criticism of Israel, which", start: 742.07, end: 752.57}
+  - {text: "as the other parties would have it just crosses a line.", start: 752.57, end: 755.63}
+  - {text: "And there has been a furious reaction from Israel and from British Jewish groups.", start: 755.83, end: 761.13}
+  - {text: "Yes, I mean, to take British Jewish groups first, I mean, they sort of essentially see this as a kind of gaslighting that to cause Zionism", start: 761.53, end: 768.91}
+  - {text: "as racism just turns things completely on its head that the whole idea of the Jews having a homeland in their historic land was a reaction", start: 768.91, end: 779.43}
+  - {text: "and a reflection of persecution of the Jews as a people over millennia.", start: 779.43, end: 785.11}
+  - {text: "And again, the Israeli government has taken a similar line and essentially says, look, this crosses a line.", start: 785.39, end: 790.63}
+  - {text: "And that therefore, Zach Polanski, who is the leader of the Green Party is a persona non grata and won't be allowed in Israel.", start: 790.79, end: 798.83}
+  - {text: "And many British Jews are very worried about rising anti -Semitism in the UK that there have been attacks on Jewish targets, including attacking which Jews were killed at a synagogue.", start: 799.25, end: 810.73}
+  - {text: "And they're particularly angry at the Green Party leader, Zach Polanski, who is himself Jewish because he didn't take part in this vote.", start: 811.37, end: 819.77}
+  - {text: "Yes. So this has created two issues, if you like, I mean, with the wider criticism of Zach Polanski, so from non -Jews in Britain, which", start: 820.07, end: 828.65}
+  - {text: "is what kind of a leadership is this?", start: 828.65, end: 831.13}
+  - {text: "What kind of a leader are you not to even show up for something that's controversial?", start: 831.55, end: 834.53}
+  - {text: "But absolutely. I mean, in the Jewish community, which is relatively small in the UK, I think the evidence suggests the majority of opinion is that", start: 835.39, end: 843.47}
+  - {text: "to be this critical of Israel to equate Zionism with racism is simply to invite attacks on Jewish people and on Jewish places of worship and that the sort of, as they would see it, the obsessive attention that the Greens give to this particular conflict, Israel, Gaza,", start: 843.47, end: 863.77}
+  - {text: "as against all other conflicts is just bound to invite trouble and further attacks on Jews.", start: 864.55, end: 871.83}
+  - {text: "Rob Watson. Still to come in this podcast, we hear about the workers in India whose every movement is being recorded to train robots and their", start: 872.25, end: 884.09}
+  - {text: "concerns about what it means for their future.", start: 884.09, end: 886.61}
+  - {text: "I worry about my children as going forward, there will be no work left for them.", start: 887.03, end: 891.69}
+  - {text: "It'll be bad for people like us because we could be unemployed.", start: 893.17, end: 896.35}
+  - {text: "This is the Global News Podcast.", start: 903.80, end: 905.62}
+  - {text: "Let's turn to Ukraine now, where Russia has once again struck one of the key bridges in Kiev.", start: 906.68, end: 912.44}
+  - {text: "Teams are working to repair the damage on the North Bridge.", start: 913.18, end: 916.14}
+  - {text: "The Southern Bridge has also come under sustained attack in the past week, bringing traffic chaos to the city.", start: 916.50, end: 922.32}
+  - {text: "Sunday's attack came shortly after Germany's Chancellor Friedrich Merz pledged his support for Ukraine on a visit to Kiev.", start: 923.12, end: 930.40}
+  - {text: "Mr. Merz called on President Putin to stop the war.", start: 931.04, end: 934.14}
+  - {text: "We could see the futility of this war here in this place with last Monday's attack on the Academy of Sciences in Kiev in the middle", start: 936.40, end: 943.38}
+  - {text: "of the city a few hundred meters from the German embassy.", start: 943.38, end: 946.62}
+  - {text: "On a peaceful Sunday this morning, there was an air alarming Kiev.", start: 947.22, end: 950.44}
+  - {text: "I can only repeat it again from this point.", start: 950.98, end: 953.00}
+  - {text: "Mr. Putin, will you stop this senseless war?", start: 953.54, end: 956.40}
+  - {text: "We're ready to talk.", start: 956.82, end: 957.66}
+  - {text: "We are ready to talk to each other about the end of this war, but these barbaric attacks on the civilian population of Ukraine must stop.", start: 958.10, end: 965.70}
+  - {text: "These are daily war crimes committed here.", start: 965.90, end: 968.32}
+  - {text: "That is the infrastructure.", start: 968.84, end: 969.72}
+  - {text: "The country is preparing for winter.", start: 970.42, end: 972.14}
+  - {text: "I appeal once again to the Russian leadership, to the President of Russia, stop this war.", start: 972.76, end: 978.66}
+  - {text: "President Zelensky said he was astonished by what he called Russia's animalistic desire to constantly escalate.", start: 979.06, end: 986.34}
+  - {text: "Our correspondent in Kiev, Dan Johnson, has been to the city's North Bridge and sent this report.", start: 986.90, end: 991.76}
+  - {text: "Kiev's North Bridge has been hit twice in the past 24 hours, injuring two people crossing the river and threatening a vital link connecting the two sides of this city.", start: 993.18, end: 1003.30}
+  - {text: "The South Bridge has also been struck five times since Thursday in a new Russian tactic apparently designed to divide the capital.", start: 1005.18, end: 1013.14}
+  - {text: "The bridges were damaged but remain standing.", start: 1013.90, end: 1016.10}
+  - {text: "Cycling over the North Bridge today, we met Oleksandr Korsun, who moved to Kiev four years ago to escape the frontline fighting.", start: 1017.07, end: 1023.69}
+  - {text: "How did you feel crossing the bridge today?", start: 1024.42, end: 1026.26}
+  - {text: "I was worried because right now there is an air raid alert for five minutes, then there is a five -minute break, and you don't know what's going to happen next, so there is definitely some anxiety.", start: 1029.26, end: 1040.04}
+  - {text: "Anxiety but also determination.", start: 1040.80, end: 1042.58}
+  - {text: "Danilo Cherremisov was defiantly heading for the bridge.", start: 1043.34, end: 1046.52}
+  - {text: "It won't stop us.", start: 1047.98, end: 1049.90}
+  - {text: "Five years of terror haven't stopped us, so this won't stop us either.", start: 1050.30, end: 1053.80}
+  - {text: "We'll swim, I don't know, use boats, whatever it takes.", start: 1054.44, end: 1057.60}
+  - {text: "Somehow we'll get around.", start: 1058.06, end: 1059.10}
+  - {text: "Russia again warned foreign diplomats to leave Kiev saying if they don't, they'll face mortal danger.", start: 1059.64, end: 1065.40}
+  - {text: "But Germany's Chancellor Friedrich Mertz defied that threat and came here.", start: 1065.82, end: 1069.72}
+  - {text: "He announced a £1 billion package of aid and reiterated German support.", start: 1070.16, end: 1074.76}
+  - {text: "President Zelensky said the Americans aimed to host talks between Russia and Ukraine by the end of this month.", start: 1076.60, end: 1083.32}
+  - {text: "Ukraine is ready to talk, he says, but right now it feels like the Kremlin is trying to make life in Kiev intolerable.", start: 1083.78, end: 1090.66}
+  - {text: "Dan Johnson. In the past couple of days, we've been reporting on the takeover of the capital of Ethiopia's northern Tigray region, Mikeli, by federal forces, with rebel regional forces surrendering control.", start: 1090.98, end: 1103.88}
+  - {text: "Conflict resumed between the Tigray People's Liberation Front and the federal government last month, raising fears of a return to civil war.", start: 1104.64, end: 1112.44}
+  - {text: "An estimated 600 ,000 people died in the three -year conflict.", start: 1112.96, end: 1118.60}
+  - {text: "Rita Kassey lives in Mikeli, she's a researcher and author of In Plain Sight, which includes the testimonies of Tigrayan women subjected to sexual violence as part of that recent war.", start: 1119.38, end: 1131.72}
+  - {text: "Owen Bennett Jones asked her what happened when forces allied to the Ethiopian government came in.", start: 1132.36, end: 1138.18}
+  - {text: "What we witnessed under Communications Blackout was the exit of the Tigray Defence Forces who were here and in charge for the last four years now.", start: 1138.52, end: 1148.32}
+  - {text: "They left in mass and then we had the takeover of the Tigray Peace Forces allied with the Ethiopian federal government forces.", start: 1148.78, end: 1155.40}
+  - {text: "And in the middle of that was a lot of lawlessness with random government raiding government offices and personal property as well.", start: 1155.92, end: 1163.66}
+  - {text: "Gunfire all night and civilians were forced to protect their communities by gathering and organising themselves until the morning.", start: 1163.88, end: 1171.16}
+  - {text: "What's the situation now?", start: 1171.50, end: 1172.72}
+  - {text: "I heard a few gunshots.", start: 1173.06, end: 1174.46}
+  - {text: "Today there was a looting of the police commission we heard yesterday and people who are not members of either forces have claimed some guns and there's still a lot of unrest.", start: 1175.20, end: 1187.18}
+  - {text: "Would you be able to go to a shop to buy food or would you think that's too dangerous just at the moment?", start: 1187.56, end: 1191.62}
+  - {text: "I can go to the shops and buy food but I wouldn't feel 100 % safe.", start: 1191.78, end: 1195.70}
+  - {text: "We are at home as soon as the sun sets.", start: 1196.06, end: 1198.92}
+  - {text: "Telecoms and Internet is back up now and families can finally find out who's alive and check on each other.", start: 1199.38, end: 1205.54}
+  - {text: "So that's a big relief to Grey TV.", start: 1205.86, end: 1207.68}
+  - {text: "Headquarters have been demolished and there has been several airstrikes across the last two weeks so there's a lot of anxiety.", start: 1208.06, end: 1215.56}
+  - {text: "Is there a feeling of welcome for the incoming troops or is there a feeling of fear?", start: 1215.98, end: 1220.66}
+  - {text: "Tigrayans are exhausted by war.", start: 1220.66, end: 1223.20}
+  - {text: "I think what the Tigrayan people want at the moment is peace and for them to return to what it was before November 2020 when the war initially started.", start: 1223.42, end: 1234.22}
+  - {text: "When you say they want to go back to pre -2020 what do you mean?", start: 1234.56, end: 1237.48}
+  - {text: "I mean that a government that was elected by the Tigrayan people was in charge of all of Tigray including Western Tigray.", start: 1237.72, end: 1244.36}
+  - {text: "Western Tigray is and has been occupied for the last six years including the beginning of the conflict but four years since the Pretoria agreement and in Western Tigray ethnic cleansing has continued.", start: 1244.52, end: 1254.62}
+  - {text: "Tigrayans are living in apartheid -like conditions and the Pretoria agreement signed in November 2022 was supposed to return the 1 million plus displaced people to their homes in Western Tigray", start: 1255.04, end: 1268.58}
+  - {text: "and return the land as said by the Ethiopian constitution as said in the Pretoria agreement.", start: 1268.58, end: 1274.56}
+  - {text: "There are wounded soldiers overwhelming the hospitals which makes it even more difficult for civilians to access any healthcare.", start: 1274.98, end: 1280.94}
+  - {text: "Blood supplies are suspended so mothers bleed to death with trial birth.", start: 1281.40, end: 1284.56}
+  - {text: "There are around 4 million if not more people at risk of starvation in Tigray so it's extremely concerning what's going to happen to Tigrayans over the next few months.", start: 1285.12, end: 1293.80}
+  - {text: "Researcher Rita Kassay in the Tigrayan capital Mikaely.", start: 1294.22, end: 1297.96}
+  - {text: "Workers in India from different sectors are being used to train robots of the future recording their daily tasks so that big tech companies can then train humanoids in fine motor skills.", start: 1298.64, end: 1310.58}
+  - {text: "Aruna Day Mukherjee reports on what this means for India and its workforce.", start: 1311.16, end: 1315.16}
+  - {text: "When I first saw pictures on social media of people wearing smartphones on their foreheads recording their routine tasks well I was intrigued.", start: 1317.60, end: 1325.58}
+  - {text: "How does it work?", start: 1326.36, end: 1327.08}
+  - {text: "Is it a good business model?", start: 1327.48, end: 1328.80}
+  - {text: "What does this mean for jobs in a labor intensive economy like India's?", start: 1329.16, end: 1333.34}
+  - {text: "So I got in touch with a data company which is involved in this kind of work and I'm currently traveling about 200 kilometres out of", start: 1333.70, end: 1340.80}
+  - {text: "Delhi to the city of Alwar in the northwestern state of Rajasthan.", start: 1340.80, end: 1344.60}
+  - {text: "I'm told that there's a workshop with only women workers all of whom who might just be potentially training their own replacements.", start: 1344.84, end: 1352.92}
+  - {text: "I've just entered the factory floor which has about 20 to 25 women workers sitting at small desks.", start: 1356.57, end: 1362.75}
+  - {text: "They are making paint brushes.", start: 1363.05, end: 1364.19}
+  - {text: "Now this requires a lot of precision as they bunch together the bristles of the brush using their bare hands and then they put it through a small machine.", start: 1364.89, end: 1372.91}
+  - {text: "Now these workers have iPhones strapped to their foreheads.", start: 1375.93, end: 1379.45}
+  - {text: "I'm not sure how comfortable it is wearing it for hours on their foreheads as they record every hand gesture.", start: 1379.47, end: 1385.89}
+  - {text: "And it's not just the paint brushes that are being exported.", start: 1387.72, end: 1390.52}
+  - {text: "It's the workers muscle memory that's literally being recorded and exported to companies abroad.", start: 1392.77, end: 1398.01}
+  - {text: "It's this data called egocentric data that global tech firms are after and it's worth billions.", start: 1398.31, end: 1403.25}
+  - {text: "The workers here are sorting, sifting, picking out small parts needed to make the brushes.", start: 1404.43, end: 1410.21}
+  - {text: "It's this precise finger work that makes the data they are recording so critical.", start: 1410.87, end: 1415.25}
+  - {text: "Helping robots understand the smallest of movements as engineers try to train machines in fine motor skills.", start: 1415.83, end: 1422.05}
+  - {text: "Even if it means robots could one day replace the same hands that train them.", start: 1425.62, end: 1430.00}
+  - {text: "We all know that AI has come up but...", start: 1430.28, end: 1432.44}
+  - {text: "But the founder of data collection company Vega Solutions as Rajat Chaudhary says, he's focusing on the jobs he is able to create right now.", start: 1432.44, end: 1440.00}
+  - {text: "We are giving chance to the people, whatever work they are doing.", start: 1441.46, end: 1444.34}
+  - {text: "We give them a chance that okay just keep doing it.", start: 1444.90, end: 1447.22}
+  - {text: "We are giving you another opportunity that you can earn as well.", start: 1447.38, end: 1449.52}
+  - {text: "Honestly it's quite a sight.", start: 1450.64, end: 1452.44}
+  - {text: "Watching these women, some young, some older chatting away while doing what might be a mundane routine task for them.", start: 1452.90, end: 1459.86}
+  - {text: "Some are discussing their family problems, some are discussing what they might cook for dinner tonight when they get home.", start: 1460.42, end: 1465.66}
+  - {text: "Some just focused on what they're doing.", start: 1466.22, end: 1467.96}
+  - {text: "The iPhone strapped to their foreheads oddly stands out.", start: 1468.72, end: 1471.78}
+  - {text: "A reminder of how these workers are on the front lines of a global AI race.", start: 1472.48, end: 1477.18}
+  - {text: "India's cheap labour on offer and its 1 .4 billion population make it a fertile ground for data mining companies.", start: 1480.34, end: 1486.50}
+  - {text: "These workers earn a few extra dollars for wearing these headsets.", start: 1487.76, end: 1490.86}
+  - {text: "But it's not always comfortable, says 45 year old Usha.", start: 1491.20, end: 1494.42}
+  - {text: "I can't go fast with this and I don't feel efficient.", start: 1497.19, end: 1500.71}
+  - {text: "It also gives me a hurry.", start: 1501.07, end: 1502.19}
+  - {text: "But the real discomfort is what this could mean for their future, see a majority of the workers.", start: 1503.47, end: 1508.74}
+  - {text: "I worry about my children as going forward there will be no work left for them.", start: 1510.88, end: 1516.00}
+  - {text: "It'll be bad for people like us because we could be unemployed but it might also benefit others in the future.", start: 1516.50, end: 1523.14}
+  - {text: "It's a slightly different story at another factory on the outskirts of Delhi.", start: 1525.74, end: 1529.46}
+  - {text: "Workers here are wearing t -shirts branded with the data collection company's name.", start: 1530.50, end: 1534.28}
+  - {text: "Wearing VR headsets, they have been hired specifically and paid only to record their moves while building computer frames.", start: 1534.84, end: 1541.84}
+  - {text: "Mohit Dube, the co -founder of Vega Solutions, knows how much potential this business has.", start: 1543.84, end: 1548.56}
+  - {text: "This is going to grow a lot because in the future you also know robots.", start: 1549.30, end: 1553.92}
+  - {text: "They are going to capture around 40 to 50 percent of the market of the labourers of the industries and all.", start: 1554.50, end: 1560.16}
+  - {text: "So I know that when the robots are going to capture it we are going to grow.", start: 1560.34, end: 1564.18}
+  - {text: "Mohit's company also hopes to eventually sell the thousands of hours of data they collect to Indian companies.", start: 1565.10, end: 1570.50}
+  - {text: "But that's not going to be easy, says Prashanta Roy, tech policy expert and former vice president of the National Association of Software and Service Companies.", start: 1572.22, end: 1580.94}
+  - {text: "I don't see that happening because this is fundamental with these offshoring contracts that that data is exclusively theirs.", start: 1581.52, end: 1589.20}
+  - {text: "But it would be actually a good thing if that were put in as a rule or a law or something like that, that data sets are retained", start: 1589.36, end: 1596.82}
+  - {text: "so that those data sets can also be accessible to local startups.", start: 1596.82, end: 1601.06}
+  - {text: "For now, AI might be helping create temporary jobs, but the question is, for how long?", start: 1602.50, end: 1607.82}
+  - {text: "That report was by Arunite Mukherjee.", start: 1610.78, end: 1613.30}
+  - {text: "Now, it's one of the most famous music events in the world and tickets for next year's Glastonbury Festival sold out less than three quarters of", start: 1614.02, end: 1621.80}
+  - {text: "an hour after going on sale on Sunday.", start: 1621.80, end: 1623.90}
+  - {text: "Despite being the most expensive ever at more than $500 each, and despite no headliners having yet been announced, Stephanie Prentice reports.", start: 1624.54, end: 1633.64}
+  - {text: "I'm in the queue.", start: 1634.16, end: 1635.00}
+  - {text: "I'm in the queue.", start: 1635.20, end: 1635.74}
+  - {text: "From 9am BST on Sunday, the race was on for desperate Glastonbury fans trying every trick in the book to get a ticket.", start: 1636.04, end: 1644.08}
+  - {text: "Social media videos showing groups of friends from all over the world huddled together with an array of devices to stare at the famous green line that shows progression through the queue.", start: 1645.02, end: 1656.58}
+  - {text: "Three minutes in that has not moved.", start: 1656.82, end: 1659.00}
+  - {text: "Some tried insider tips.", start: 1659.24, end: 1660.88}
+  - {text: "I've read a comment online that if you just refresh as soon as the hour hits the hour, you just jump the queue.", start: 1661.38, end: 1666.40}
+  - {text: "Others, magic. Sending good energy.", start: 1666.84, end: 1670.33}
+  - {text: "You know you want to move.", start: 1670.91, end: 1671.67}
+  - {text: "You're the sexiest green line I've ever seen.", start: 1671.79, end: 1674.35}
+  - {text: "Others, manifestations. I'm going to get tickets this year.", start: 1674.55, end: 1678.09}
+  - {text: "I'm going to get tickets this year.", start: 1678.61, end: 1681.79}
+  - {text: "But just 42 minutes later, millions were left disappointed.", start: 1682.73, end: 1686.95}
+  - {text: "The process of getting a Glastonbury ticket is renowned for being tough, and the top strategy used to be working as a group, with each person logged into every device that could get their hands on.", start: 1687.63, end: 1699.97}
+  - {text: "But this year even that was harder.", start: 1700.41, end: 1702.47}
+  - {text: "Jesse Dimick co -hosts Glastocast, the unofficial podcast for the festival.", start: 1702.95, end: 1707.15}
+  - {text: "She's gotten tickets 14 years in a row, but not this time.", start: 1707.69, end: 1711.65}
+  - {text: "The system changed this year was you can still have a group of you so that you can still get up to six tickets, but you", start: 1711.95, end: 1717.39}
+  - {text: "could only go in with one registration at the time.", start: 1717.39, end: 1719.87}
+  - {text: "So before you could have many devices and it felt a bit more stressful this morning because I was just there with my one laptop, one screen opening, you know, crossing all my fingers.", start: 1720.11, end: 1728.45}
+  - {text: "With the rise of social media and everything, everybody wants a bit of Glastonbury.", start: 1728.87, end: 1732.79}
+  - {text: "The hype is snowballing, if you know what I mean.", start: 1733.09, end: 1734.97}
+  - {text: "Every year it's harder to get tickets.", start: 1735.05, end: 1736.59}
+  - {text: "It's just, I say this all the time, it's the most magical place.", start: 1737.11, end: 1739.93}
+  - {text: "It's the combination of those big incredible moments with the biggest acts on the planet.", start: 1740.37, end: 1745.09}
+  - {text: "But it's a lot about what maybe you don't see on the TV.", start: 1745.55, end: 1748.43}
+  - {text: "It's crazy things that you'll be walking past.", start: 1748.89, end: 1750.89}
+  - {text: "The disappointment has left some fans proposing conspiracy theories.", start: 1751.01, end: 1755.29}
+  - {text: "You cannot sit here and tell me that, oh my God, you just have to have your card details ready.", start: 1755.29, end: 1759.15}
+  - {text: "Like there's no way to actually make your chances better, but you've been four times.", start: 1759.25, end: 1762.27}
+  - {text: "So respectfully give me your IP address.", start: 1762.91, end: 1764.71}
+  - {text: "Let me come to your house and use your laptop to try to get tickets then.", start: 1764.89, end: 1767.79}
+  - {text: "Lads, I genuinely think it's conspiracy.", start: 1767.93, end: 1769.57}
+  - {text: "Why do I feel like if I do get a ticket on the lucky scale live, it's some sort of psychological warfare.", start: 1770.09, end: 1774.07}
+  - {text: "I don't like it.", start: 1774.41, end: 1775.21}
+  - {text: "But for those prepared to brace themselves and go again, resell tickets go on sale in April.", start: 1777.59, end: 1783.93}
+  - {text: "For that final chance to be part of the crowds at Worthy Farm in 2027.", start: 1783.93, end: 1789.03}
+---
