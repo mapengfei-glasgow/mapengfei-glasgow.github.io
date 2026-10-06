@@ -311,7 +311,11 @@
 .ex-modal {
   position: fixed;
   inset: 0;
-  z-index: 60;
+  /* Above PaperMod's fixed .top-link button and this site's player bar (40);
+     same level as the sync-code dialog in main.css (100). Overlays never
+     coexist, and anything lower would leave the "back to top" pill floating on
+     top of the modal. */
+  z-index: 100;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -434,7 +438,7 @@ body.ex-modal-open { overflow: hidden; }
   position: fixed;
   left: 50%;
   bottom: 2rem;
-  z-index: 70;
+  z-index: 110;                 /* above the modals, so its message is readable */
   transform: translate(-50%, 0.75rem);
   max-width: min(92vw, 30rem);
   padding: 0.5rem 0.875rem;
