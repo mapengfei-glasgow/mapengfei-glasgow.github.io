@@ -1,0 +1,237 @@
+---
+layout: single
+title: "Fighting intensifies in Yemen"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-06T00:00:00Z
+slug: "2026-10-06-fighting-intensifies-in-yemen"
+audioDir: "2026-10-06-fighting-intensifies-in-yemen"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-06-fighting-intensifies-in-yemen/episode.mp3"
+totalDuration: 1507.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.98}
+  - {text: "I'm Janet Jalil and in the early hours of Tuesday the 6th of October, these are our main stories, fighting intensifies in Yemen, between Iranian Bat Houthis", start: 4.70, end: 15.36}
+  - {text: "and the Saudi -led coalition supporting the Yemeni government.", start: 15.36, end: 19.02}
+  - {text: "France braces for what could be its biggest day of school protests yet, after a 15 -year -old boy has had his hand blown off during a confrontation with police.", start: 20.01, end: 29.93}
+  - {text: "The Nobel Prize for Medicine is awarded to scientists who have used light to better understand how our brains work.", start: 31.16, end: 37.86}
+  - {text: "Also in this podcast, we look back on the life of British best -selling author and politician Jeffrey Archer, who has died at the age of 86.", start: 39.96, end: 49.24}
+  - {text: "And you have the keyboard in front of you exactly where you'd expect a piano keyboard.", start: 49.90, end: 53.62}
+  - {text: "And then take the strings that are lying horizontally, just make them go straight up.", start: 54.18, end: 59.22}
+  - {text: "We speak to the inventor of a new piano, the Standing Grand.", start: 59.54, end: 63.68}
+  - {text: "We start in Yemen where government forces backed by Saudi aircraft have carried out a wave of attacks on Iranian -backed Houthi fighters in an attempt to rest back control of territory", start: 67.80, end: 79.10}
+  - {text: "that the Houthis seized in a lightning advance last month.", start: 79.10, end: 82.62}
+  - {text: "This includes strategic positions on the Babel Mandab Strait, an important waterway that the Saudis had been using as an alternative to the blockaded Strait of Hormuz.", start: 82.90, end: 93.04}
+  - {text: "The Yemeni military says it's carried out hundreds of strikes and begun an offensive against the capital Sana, which has been held by the Houthis for years.", start: 93.74, end: 102.28}
+  - {text: "For their part, the Houthis say they have again attacked targets in Saudi Arabia, including Riyadh Airport, an oil refinery and a military base.", start: 103.12, end: 111.64}
+  - {text: "Here's a Houthi military spokesperson, Yaya Saria.", start: 112.24, end: 115.48}
+  - {text: "The armed forces carried out three qualitative military operations using a large number of ballistic and cruise missiles and drones.", start: 119.60, end: 128.06}
+  - {text: "The armed forces worn all international airlines using Saudi airspace to seize their flights, as it has become an operations zone for our forces, with the exception of the sacred airspace over Mecca and Medina.", start: 128.62, end: 142.18}
+  - {text: "According to UN figures, the fighting has displaced more than 180 ,000 people in a country that is already in the grip of a humanitarian crisis.", start: 142.18, end: 151.94}
+  - {text: "Shortly before we recorded this podcast, I got this update on the latest clashes from Kesheh Junaidi of BBC Persian.", start: 152.70, end: 159.30}
+  - {text: "It's a very big development when we consider the role the Houthis played in putting pressure on international oil markets in support of the war in Iran.", start: 159.64, end: 168.00}
+  - {text: "The Saudi -backed Yemeni government forces say that they have managed to drive back Houthis from some of the strategically important territories that they had recently captured around the strategic waterway, Babelmandab, including Mecca.", start: 168.42, end: 183.54}
+  - {text: "And by this, they have weakened the Houthis' control over Babelmandab.", start: 184.40, end: 190.32}
+  - {text: "But of course, this doesn't mean that they can't attack international shipping lanes through the Red Sea.", start: 190.50, end: 196.36}
+  - {text: "But they're now in a weakened position.", start: 196.36, end: 198.98}
+  - {text: "The Houthis themselves have started attacking Saudi targets.", start: 199.72, end: 203.58}
+  - {text: "They've attacked airports in Riyadh, and they are warning that they will further escalate their attacks against the Saudis.", start: 203.86, end: 211.24}
+  - {text: "Of course, the forces of the international -recognized government in Yemen, who are fighting against the Houthis, are supported by Saudi air power.", start: 211.74, end: 221.86}
+  - {text: "More than 100 Saudi combat aircrafts have been supporting their operation, as well as they have been also receiving U .S.", start: 222.28, end: 229.78}
+  - {text: "intelligence support during their operations.", start: 229.78, end: 232.28}
+  - {text: "But as you say, the Houthis have managed not only to gain large tracts of territory along the Red Sea in that lightened advance last month,", start: 232.74, end: 241.38}
+  - {text: "but they've also been carrying out attacks on Saudi Arabia.", start: 241.42, end: 243.62}
+  - {text: "And there's no prospect of that ending soon.", start: 243.62, end: 245.72}
+  - {text: "And not at all.", start: 246.02, end: 246.76}
+  - {text: "And of course, there have been discussions here in Washington regarding the military strength and the situation of the Houthis, considering the fact that the Americans have bombarded Houthi strategic points last year,", start: 246.92, end: 259.64}
+  - {text: "and now there is this new understanding here in Washington that probably the American forces were not successful in destroying the Houthi military capability.", start: 260.10, end: 270.28}
+  - {text: "And of course, they'll be receiving support from the Iranian government and they've managed to reconstruct their military power to attack the Saudis.", start: 271.12, end: 279.52}
+  - {text: "Kesha Jenedi to France now.", start: 279.68, end: 281.74}
+  - {text: "That's the sound of more demonstrations against dilapidated and understaffed schools.", start: 286.26, end: 291.44}
+  - {text: "The protests began last month at a high school in a Paris suburb over teacher shortages and rapidly spread to hundreds of schools with many of the demonstrations turning violent as protesters clashed with police.", start: 292.00, end: 304.98}
+  - {text: "Dozens of people, including children, teachers and police officers, have been injured.", start: 305.70, end: 309.92}
+  - {text: "During one confrontation on Monday, a 15 year old boy had his hand blown off, reportedly when he tried to pick up a police stung grenade, although that's been disputed by witnesses.", start: 310.58, end: 321.34}
+  - {text: "In the past week, five thousand people, mainly teenagers, have been arrested.", start: 322.08, end: 326.54}
+  - {text: "And the protest looks set to continue with teachers and public sector workers expected to join a national day of action.", start: 327.12, end: 333.58}
+  - {text: "Our Paris correspondent, Hugh Scofield, spoke to Anchor Desai, starting with the incident involving the 15 year old student.", start: 334.20, end: 341.56}
+  - {text: "It's a story up in Lille, near Lille, Launce is the town.", start: 341.56, end: 345.26}
+  - {text: "At least say there this morning at 11 o 'clock.", start: 345.34, end: 347.00}
+  - {text: "And I imagine that they were experiencing the classic routine of these affairs with, you know, crowd of Lisea protesting, some of whom or a group", start: 347.34, end: 355.76}
+  - {text: "of outsiders attached to whom start causing problems.", start: 355.76, end: 360.04}
+  - {text: "The police feel they're called upon to intervene and will have been using therefore some of their weaponry, which is a kind of crowd dispersal arms, non lethal arms, one of which is kind of grenade thing,", start: 360.34, end: 373.84}
+  - {text: "which explodes on impact on the ground and sends out lots of little rubber fragments with a huge, huge noise, big bang.", start: 373.92, end: 380.60}
+  - {text: "And it's designed just to hurt people lightly on their legs, but to get them to disperse.", start: 381.06, end: 387.32}
+  - {text: "Now, the police version of all of this is that one of these was fired.", start: 387.68, end: 391.10}
+  - {text: "The boy picked it up and intending to throw it back.", start: 391.48, end: 394.04}
+  - {text: "It exploded in his hand, but it's contested.", start: 394.34, end: 396.92}
+  - {text: "The other version is that, no, this projectile hit him in the hand as he was running away and exploded on impact with him.", start: 396.92, end: 404.36}
+  - {text: "And that's how he lost his hand.", start: 404.86, end: 405.94}
+  - {text: "There's no way of knowing which of these two versions is true until the investigation has been carried out.", start: 406.02, end: 410.98}
+  - {text: "So we just have to leave it at that.", start: 411.06, end: 412.40}
+  - {text: "Hugh, just how challenging is this proving to be for the government to contain and especially when young people do generally get a lot of support", start: 412.64, end: 419.50}
+  - {text: "when it comes to these sort of movements?", start: 419.50, end: 421.04}
+  - {text: "As you say that everyone, even the government, concedes that there's justice in what they're asking for.", start: 421.56, end: 427.32}
+  - {text: "They're asking for better buildings, more teachers, all the rest of it.", start: 427.42, end: 430.36}
+  - {text: "Anyone who's sent children through the French state system knows that these problems are real and they're not particularly worse here than in other European countries.", start: 430.52, end: 437.86}
+  - {text: "And we can ask the South why in France and not in other countries.", start: 438.02, end: 440.50}
+  - {text: "But in France, it's part of the tradition to protest against when things aren't perfect or great.", start: 440.58, end: 445.14}
+  - {text: "So everyone kind of agrees with the issue, with the grievance.", start: 445.70, end: 448.88}
+  - {text: "Tuesday said to be a big day.", start: 449.20, end: 450.66}
+  - {text: "It tells us a bit more about what we expect from the protest.", start: 450.86, end: 452.94}
+  - {text: "And just further afield.", start: 452.94, end: 454.36}
+  - {text: "How are these protests being received across France?", start: 454.46, end: 457.28}
+  - {text: "And it could be a very big day of big demonstrations, which sounds like it's an escalation.", start: 457.88, end: 461.76}
+  - {text: "It may be that that is what's needed in order to kind of work through the pain of all of this.", start: 462.26, end: 468.70}
+  - {text: "Often in France, you get these situations where there's just a big blockage of tension in society and a big day of demonstrations where everyone can say,", start: 468.98, end: 476.68}
+  - {text: "look, we were millions on the streets and we did this and we showed how strong we were.", start: 476.72, end: 481.00}
+  - {text: "But that often is the beginning of the end of the protest because something psychological has happened and it begins to diffuse after that.", start: 481.00, end: 487.48}
+  - {text: "I'm not saying that's what's going to happen, but that is certainly the government's hope.", start: 487.72, end: 490.48}
+  - {text: "But if there are more incidents like today's and if the government can't give something, even a token, I mean, it has to give some ground, even though there's no money.", start: 490.84, end: 499.98}
+  - {text: "I mean, everyone knows there's no money in France to address these problems.", start: 500.16, end: 502.88}
+  - {text: "But it has to give some kind of recompense or some kind of token concession to show that it takes all this seriously.", start: 503.24, end: 509.56}
+  - {text: "If that doesn't happen, then it could go on.", start: 509.56, end: 511.92}
+  - {text: "Hugh Scofield. British members of parliament have called for an investigation into the treatment of whistleblowers after a British trader who exposed evidence of Jeffrey Epstein's", start: 512.00, end: 522.34}
+  - {text: "links to powerful figures took his own life.", start: 522.34, end: 525.20}
+  - {text: "The MPs want an independent review of the actions of the UK's financial watchdog, the Financial Conduct Authority.", start: 525.66, end: 532.60}
+  - {text: "Simon Andries exposed evidence of links between Epstein and the man who is now the US Commerce Secretary, Howard Lutnick.", start: 533.48, end: 541.66}
+  - {text: "Andy Verity reports. Simon Andries first got in touch with the Financial Conduct Authority in 2018 about Howard Lutnick's former firm BGC Partners and his business links with Jeffrey Epstein and British Royals.", start: 542.22, end: 555.28}
+  - {text: "This year, he discovered emails supporting his concerns in the Epstein files, indicating Lutnick and Epstein were co -investors in a firm called AdFin and that", start: 555.82, end: 564.62}
+  - {text: "Lutnick's firm planned to go into business with Andrew Mountbatten -Winsor.", start: 564.62, end: 568.28}
+  - {text: "He also said BGC and its lawyers had retaliated against him for his whistleblowing, an allegation they deny, and that inaction by the SCA had put him and his family through absolute hell.", start: 568.94, end: 580.54}
+  - {text: "MPs say his recent death raises deeply troubling questions.", start: 581.24, end: 584.52}
+  - {text: "The SCA said it would appoint a non -executive director to review its own treatment of his whistleblowing claims.", start: 585.22, end: 590.58}
+  - {text: "But MPs and campaigners are demanding an independent investigation.", start: 591.18, end: 595.20}
+  - {text: "Andy Verity. The Nobel Prize in Medicine has been awarded to three scientists for their work in helping to shed light, literally, on the mystery of how our brains work.", start: 595.64, end: 605.42}
+  - {text: "American Karl Dysaroth and Germans Pieter Hagermann and Georg Nagal were honoured for their work in the field of optogenetics, which uses light to control the activity of nerve cells in the brain.", start: 606.18, end: 619.20}
+  - {text: "Here's our medical editor, Fergus Walsh.", start: 619.80, end: 622.02}
+  - {text: "The field of optogenetics was born when Pieter Hagermann and Georg Nagal discovered a protein in a single -celled alga that enabled it to swim towards a light source.", start: 622.26, end: 633.94}
+  - {text: "Karl Dysaroth worked out how to use this light -controlled protein to switch on nerve cells in the brains of mice.", start: 634.54, end: 642.54}
+  - {text: "The Nobel Committee said using light, scientists can now bring memories to life, create feelings and study neurons involved in psychiatric and neurological disorders.", start: 643.20, end: 655.06}
+  - {text: "Professor Abdel El -Manera, a member of the Nobel Assembly, likened the processes the three scientists had investigated to a chess move.", start: 655.82, end: 664.86}
+  - {text: "Consider a chess player evaluating the position of each piece, recalling patterns from past games, anticipating an opponent's response and weighing all the consequences of each possible move.", start: 665.14, end: 679.02}
+  - {text: "Vast networks of neurons in the brain integrate perception, memory, prediction and planning.", start: 679.80, end: 686.26}
+  - {text: "And from all this, a decision emerges.", start: 686.70, end: 689.38}
+  - {text: "Karl Dysaroth gave his reaction to winning the award.", start: 690.30, end: 693.80}
+  - {text: "It's an incredible honour and unexpected, but deeply honoured.", start: 694.22, end: 698.44}
+  - {text: "I've been working on a paper and I had just gone in to lay down and when my call came, so I was not yet asleep being a night owl.", start: 698.72, end: 706.72}
+  - {text: "And now I don't think I'll be able to sleep for quite a while.", start: 707.64, end: 711.10}
+  - {text: "Optogenetics is being used as an experimental medical treatment to try to restore vision in people whose light -sensitive cells in the retina have been destroyed.", start: 711.74, end: 722.24}
+  - {text: "The Nobel Committee said every day was bringing new discoveries and Optogenetics was helping to solve one of humanity's great mysteries, how our incredible brains work.", start: 722.94, end: 734.58}
+  - {text: "Fergus Walsh, still to come in this podcast.", start: 735.02, end: 739.30}
+  - {text: "Come here and sniff out things like fish, sauna, look the wet wool.", start: 739.30, end: 750.55}
+  - {text: "Do I have to go?", start: 750.75, end: 751.73}
+  - {text: "Do you have what it takes to be an official smeller?", start: 752.27, end: 755.75}
+  - {text: "This is the Global News Podcast.", start: 762.57, end: 764.57}
+  - {text: "Russia has been downplaying reports that a lab technician who died last week may have been exposed to pneumonic plague.", start: 765.44, end: 772.70}
+  - {text: "The details of how she died have not yet been established, but it's understood the woman who worked at a plague research centre in Siberia was diagnosed with a pneumonia of unknown origin", start: 773.34, end: 784.12}
+  - {text: "and that several local hospitals have been placed under quarantine.", start: 784.12, end: 788.08}
+  - {text: "The Kremlin spokesman, Dmitry Peskov, urged Russians to stay calm.", start: 788.60, end: 792.96}
+  - {text: "In this case, the main thing is to listen to official statements rather than listening to various rumours, speculations and the like.", start: 793.50, end: 803.76}
+  - {text: "Ross Potrebnetso is the authority and it employs highly qualified professionals in this field.", start: 804.42, end: 810.04}
+  - {text: "But his words have done little to allay fears inside or outside Russia.", start: 810.84, end: 815.30}
+  - {text: "Four Central Asian countries have stepped up health checks on their borders and the US is watching the situation closely.", start: 815.88, end: 823.42}
+  - {text: "BBC Monitoring's Russia editor Vitaly Shevchenko has been following the case.", start: 824.22, end: 828.52}
+  - {text: "It started last week when this 28 -year -old woman died in Irkutsk, which is in Siberia.", start: 828.88, end: 837.18}
+  - {text: "The local media found out that she worked at the local plague institute.", start: 837.68, end: 843.06}
+  - {text: "Now, it's not a military institution.", start: 843.64, end: 845.08}
+  - {text: "It was set up almost a century ago, specifically to contain the spread of the plague in that part of Russia.", start: 845.36, end: 852.76}
+  - {text: "Once they found out that that's where they worked, they made the conclusion that she possibly had broken a test tube and died because of contamination.", start: 853.24, end: 863.34}
+  - {text: "That is as much as we can gather from Russian media reporting.", start: 864.12, end: 869.06}
+  - {text: "The authorities, particularly the Russian health agency, Ross Komnozor, they say they've conducted their own tests and they found no trace of what they say micro -organisms linked to her professional activity in that woman's blood.", start: 869.82, end: 887.08}
+  - {text: "So that suggests that it wasn't the plague.", start: 887.08, end: 890.88}
+  - {text: "Whether or not we believe what the Russian authorities say is a different matter.", start: 891.30, end: 897.06}
+  - {text: "But if it was the plague, and it's a big if at the moment, how bad is it?", start: 897.38, end: 904.22}
+  - {text: "It's not like the plague is making a comeback because that disease still exists.", start: 904.46, end: 909.86}
+  - {text: "In the United States, for example, an average of seven cases are registered every year.", start: 910.14, end: 916.40}
+  - {text: "In Russia, as far as I've been able to find out, this is the first, or would be the first case in 10 years.", start: 916.40, end: 924.76}
+  - {text: "And it's a disease that can be treated reasonably well by antibiotics.", start: 925.18, end: 931.12}
+  - {text: "So nothing to worry about too much.", start: 931.82, end: 934.60}
+  - {text: "Vitaly Shevchenko. Meanwhile, the US is battling its worst measle outbreak in decades.", start: 934.94, end: 941.28}
+  - {text: "New York State has declared an emergency with more than 100 cases reported there this year.", start: 941.82, end: 947.66}
+  - {text: "Netotophic reports. It's been three decades since the United States recorded such high cases of measles and since the state faced such a large outbreak.", start: 948.04, end: 955.84}
+  - {text: "Pennsylvania has so far recorded five measles -associated deaths and more than 1 ,000 cases.", start: 956.28, end: 962.02}
+  - {text: "Since last year, outbreaks have been reported in Texas, Utah and South Carolina.", start: 962.66, end: 967.52}
+  - {text: "With the public health emergency hitting neighboring Pennsylvania hard, Governor Hockel of New York wants to strengthen ongoing efforts to confront the disease by increasing the number of health professionals who can vaccinate and test, especially in under -immunized rural communities.", start: 967.98, end: 984.68}
+  - {text: "Lawmakers say the rise in cases is due to a decrease in childhood vaccines driven by misinformation.", start: 985.34, end: 991.22}
+  - {text: "Netotophic, the best -selling British author and former politician Jeffrey Archer has died at the age of 86.", start: 991.94, end: 999.34}
+  - {text: "He started writing novels in the 1970s to pay off massive debts and ended up selling more than 300 million books worldwide, including blockbusters such as Cane Enable and Not a Penny More, Not a Penny Less.", start: 999.92, end: 1014.26}
+  - {text: "As a prominent conservative politician, he mixed with former prime ministers Margaret Thatcher and John Major, but fell from grace after being jailed for perjury.", start: 1014.88, end: 1023.64}
+  - {text: "In an interview with the BBC just a day before his death, he reflected on how prison had changed him.", start: 1024.18, end: 1030.66}
+  - {text: "Well, certainly the privilege of meeting lots of interesting people, dare I put it that way, meant that I had wonderful plots for books, yes.", start: 1031.02, end: 1041.68}
+  - {text: "What did you learn about the public, people in Britain?", start: 1042.40, end: 1045.10}
+  - {text: "Oh, well, I was told that when I came out, no one would buy any of my books and the book sales went up and up, so I learned that.", start: 1045.52, end: 1053.46}
+  - {text: "Are we forgiving? Are we forgiving people?", start: 1053.72, end: 1055.76}
+  - {text: "Oh, the British are, tremendously so.", start: 1055.76, end: 1058.66}
+  - {text: "And the British like people to fight back.", start: 1059.02, end: 1061.56}
+  - {text: "It's a very British trait.", start: 1062.06, end: 1063.78}
+  - {text: "With more on a life that was as colourful as one of his books, here's Io Newells.", start: 1064.16, end: 1069.36}
+  - {text: "Geoffrey Archer's life had as many plot twists as one of his best -selling novels.", start: 1069.46, end: 1073.20}
+  - {text: "At Tory MP before he was 30, he stood down when a bad investment led to financial ruin.", start: 1073.56, end: 1078.82}
+  - {text: "Unable to find a job, he turned to writing to pay his debts.", start: 1079.10, end: 1082.14}
+  - {text: "It was more out of necessity than anything else because when I left the House of Commons, as I say, with debts of £427 ,727, and I looked for a job,", start: 1082.38, end: 1090.14}
+  - {text: "people don't automatically consider you're the obvious choice as their next financial director.", start: 1090.28, end: 1094.72}
+  - {text: "His books were sneered at by critics, but they sold in their millions.", start: 1094.92, end: 1098.26}
+  - {text: "An important fundraiser for the Conservatives, Margaret Thatcher made him deputy party chairman.", start: 1098.78, end: 1103.38}
+  - {text: "We need the help of every one of you to ensure this great victory.", start: 1103.64, end: 1108.36}
+  - {text: "But in 1986, he resigned over newspaper stories that he'd slept with a sex worker.", start: 1108.80, end: 1113.96}
+  - {text: "Archer sued for libel and won half a million pounds.", start: 1113.96, end: 1117.34}
+  - {text: "He was given a peerage and party members who adored his morale -boosting speeches chose him as their candidate for Mayor of London in 1999.", start: 1117.76, end: 1125.46}
+  - {text: "I'm supported by Margaret Thatcher, the former Prime Minister.", start: 1125.90, end: 1129.48}
+  - {text: "I'm supported by John Major, the former Prime Minister.", start: 1132.28, end: 1136.34}
+  - {text: "And I'm supported by William Hague, the next Prime Minister.", start: 1138.26, end: 1142.50}
+  - {text: "The party leader William Hague had dismissed warnings from some colleagues that he was a risky candidate.", start: 1143.49, end: 1148.47}
+  - {text: "Within weeks, they were proved right.", start: 1148.85, end: 1150.41}
+  - {text: "A former friend revealed that Lord Archer had asked him to provide a false alibi in the original libel case.", start: 1150.73, end: 1156.01}
+  - {text: "He was expelled from the party, charged and convicted of perjury and spent two years in jail.", start: 1156.29, end: 1161.51}
+  - {text: "He later resumed his writing career, but his dreams of a political career never recovered.", start: 1161.85, end: 1166.59}
+  - {text: "I own you well with that look back at the life of Jeffrey Archer, who has died at the age of 86.", start: 1166.97, end: 1172.77}
+  - {text: "For our next item, I'd like you to picture a grand piano.", start: 1173.35, end: 1176.73}
+  - {text: "Now, keep the keyboard exactly where it is, but turn the rest of it vertically so the strings are going straight up and are directly in front of you when you play.", start: 1177.43, end: 1186.33}
+  - {text: "That's the instrument that's been created by a concert pianist who often has to pluck the strings during performances as well as playing the keys.", start: 1186.97, end: 1195.29}
+  - {text: "Sarah Nichols told Katie Razzle why she'd changed the piano's shape.", start: 1196.03, end: 1199.99}
+  - {text: "I was leaning inside the grand piano because the sounds that you can make by plucking the strings or strumming or finding a harmonic are really amazing, but they're very uncomfortable to reach.", start: 1200.27, end: 1213.11}
+  - {text: "Somebody once said it looks like a car mechanic going under the bonnet of a car.", start: 1213.43, end: 1217.31}
+  - {text: "And how common is it, Sarah, as a concert pianist to be doing that, to be playing rather than just playing the keys actually also leaning in to effectively pluck the strings?", start: 1217.61, end: 1227.25}
+  - {text: "Well, you'd be surprised.", start: 1227.63, end: 1228.75}
+  - {text: "I was being asked to do it a lot because I was specialising in contemporary classical music.", start: 1229.71, end: 1234.39}
+  - {text: "It was first written for in 1916 to play inside the piano.", start: 1234.65, end: 1238.83}
+  - {text: "So it's been going on a long time.", start: 1239.27, end: 1240.65}
+  - {text: "People like John Cage have made it very famous.", start: 1240.85, end: 1242.77}
+  - {text: "Lots of people do it now, young composers.", start: 1243.41, end: 1245.17}
+  - {text: "It's got heritage and that was the first problem, but there was another problem as well.", start: 1245.67, end: 1250.31}
+  - {text: "The pianos are heavy.", start: 1251.01, end: 1251.81}
+  - {text: "The piano strings have 20 tonnes of tension and that's the equivalent of two London buses.", start: 1252.17, end: 1258.93}
+  - {text: "It's a lot of tension and it's held with this cast iron, which was patented 200 years ago.", start: 1259.25, end: 1263.89}
+  - {text: "Cars change, buildings change.", start: 1264.51, end: 1266.63}
+  - {text: "Pianos don't change. And so that set me off on a quest to see if I could make a lighter piano.", start: 1267.45, end: 1273.29}
+  - {text: "And what have you made it out of?", start: 1273.69, end: 1274.83}
+  - {text: "What's the ingredients? The main ingredient is carbon fibre, which is light and strong.", start: 1275.15, end: 1281.11}
+  - {text: "We're still testing it and improving it.", start: 1281.71, end: 1283.63}
+  - {text: "What I can play for you today is a few sounds on my earlier prototype, which is actually a hacked piano from 1913.", start: 1283.79, end: 1290.59}
+  - {text: "I experience it as a sort of orchestra of piano, right?", start: 1307.81, end: 1311.93}
+  - {text: "Because you can make so many different colours, but it's really important to say that the piano I'm developing is perfectly well designed to simply play normal repertoire on it.", start: 1312.29, end: 1322.27}
+  - {text: "You can sit down and play Beethoven and that's really fine.", start: 1322.31, end: 1325.45}
+  - {text: "For me what's exciting is making a musical instrument means that I'm giving people a tool to play their own favourite music and that's amazingly exciting.", start: 1326.59, end: 1335.77}
+  - {text: "Do you think it'll catch on?", start: 1336.17, end: 1337.21}
+  - {text: "Because clearly lots of people don't have pianos for cost reasons, but you can get a second -hand one really cheaply now because the main reason I think people don't have them is", start: 1337.41, end: 1344.21}
+  - {text: "because they take up so much room and maybe yours will take up less room.", start: 1344.21, end: 1347.53}
+  - {text: "That's exactly it. It's the sound of a grand in the footprint of an upright and a piano that you can carry up the stairs.", start: 1347.97, end: 1354.13}
+  - {text: "Finally, if you have a good nose for picking up unusual smells, a Nordic country in Europe is perhaps your new calling in life.", start: 1358.25, end: 1366.77}
+  - {text: "An archipelago off the southwestern coast of Finland has launched a global recruitment campaign after declaring itself the best -smelling destination on Earth.", start: 1367.41, end: 1377.77}
+  - {text: "The Turku Archipelago is inviting people to apply to become the region's official smeller.", start: 1378.67, end: 1385.87}
+  - {text: "Danny Abahard picks up the scent.", start: 1386.09, end: 1388.11}
+  - {text: "The Turku Archipelago, comprising some 40 ,000 islands and islets, wants a connoisseur to track down its best smells.", start: 1388.11, end: 1396.37}
+  - {text: "Its tourist agency leads us by the nose with teasers, the sea on an autumn morning, a pine forest after rain, coastal rocks warmed by the sun, wood smoke drifting from a sauna's chimney, fresh dark bread.", start: 1397.13, end: 1412.45}
+  - {text: "Its tongue -in -cheek campaign is fronted by the film actor Lombert Wilson, who's himself possessed of a prominent Gallic nose.", start: 1413.33, end: 1421.11}
+  - {text: "To validate this bizarre claim, the archipelago is recruiting a nose that is a person who has an exceptional sense of smell to come here and sniff out things like fish, sauna, wet wool, wet rope.", start: 1421.65, end: 1444.08}
+  - {text: "Oh, my God. And my favourite, berries.", start: 1445.36, end: 1449.46}
+  - {text: "Applicants have to be 18 or over, but the agency stresses they don't need a diploma from a perfume school, just the confidence to describe the scents they discover on camera", start: 1450.56, end: 1461.82}
+  - {text: "so that others want to smell them too.", start: 1461.82, end: 1464.00}
+  - {text: "The week -long assignment will take place next year and you get paid just over $2 ,200 with your travel to Finland and accommodation costs covered.", start: 1464.72, end: 1475.16}
+  - {text: "Not bad for what the agency's calling a nose job.", start: 1475.90, end: 1479.26}
+  - {text: "That report was by Danny Aperhard.", start: 1479.48, end: 1481.64}
+  - {text: "And that's all from us for now.", start: 1483.27, end: 1484.85}
+  - {text: "If you want to get in touch, you can email us at globalpodcastatbbc .co .uk.", start: 1485.05, end: 1491.03}
+  - {text: "This edition of the Global News Podcast was mixed by Stephen Bailey and the producer was Ariane Cotci.", start: 1491.57, end: 1497.89}
+  - {text: "The editor is Karen Martin.", start: 1498.25, end: 1499.99}
+  - {text: "Until next time, goodbye.", start: 1499.99, end: 1502.65}
+---
