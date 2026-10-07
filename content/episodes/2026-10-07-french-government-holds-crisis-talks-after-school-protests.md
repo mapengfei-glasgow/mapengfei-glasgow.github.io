@@ -1,0 +1,270 @@
+---
+layout: single
+title: "French government holds crisis talks after school protests"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-07T00:00:00Z
+slug: "2026-10-07-french-government-holds-crisis-talks-after-school-protests"
+audioDir: "2026-10-07-french-government-holds-crisis-talks-after-school-protests"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-07-french-government-holds-crisis-talks-after-school-protests/episode.mp3"
+totalDuration: 1625.4
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.80}
+  - {text: "I'm Janet Jolil and in the early hours of Wednesday, the 7th of October, these are our main stories.", start: 5.13, end: 11.01}
+  - {text: "After a quarter of a million French people take part in the biggest day of school protests yet, the government holds crisis talks and condemns those who've clashed with the police.", start: 11.73, end: 20.55}
+  - {text: "The American death row inmate, Christa Pike, regains consciousness after a botched attempt to execute her.", start: 21.45, end: 27.57}
+  - {text: "Leo Nel Messi retires from international football, scoring a penalty on his final appearance for Argentina.", start: 28.46, end: 34.68}
+  - {text: "Also in this podcast, scientists are sending whiskey into space.", start: 37.05, end: 41.31}
+  - {text: "We ask why. We are thinking that it might be able to aid your whiskey faster.", start: 41.81, end: 46.67}
+  - {text: "France's beleaguered government, already struggling with a sluggish economy, political deadlock and ballooning debt, is trying to work out how to contain the country's biggest student protests in decades.", start: 50.30, end: 62.00}
+  - {text: "What started as a demonstration in a run -down school in one of Paris's poorest suburbs last month has snowballed into a nationwide protest that saw", start: 62.70, end: 71.70}
+  - {text: "hundreds of thousands take to the streets on Tuesday.", start: 71.70, end: 74.66}
+  - {text: "The past couple of weeks have seen daily clashes with police firing tear gas and water cannon to try to disperse violent groups on the fringes of the protests.", start: 75.36, end: 84.40}
+  - {text: "Hundreds of people have been injured and thousands arrested since the crisis erupted, and hundreds of schools have been blockaded or forced to close.", start: 85.00, end: 93.44}
+  - {text: "The government has ordered classes to be suspended until the end of the week.", start: 94.08, end: 97.64}
+  - {text: "President Macron chaired a crisis meeting on Tuesday night with ministers, including the Prime Minister, Sebastian Le Corneux, who had earlier condemned the violence.", start: 98.24, end: 106.88}
+  - {text: "Ultraviolence has come knocking at the door of these high schools, and this ultraviolence must be condemned unconditionally.", start: 108.40, end: 119.82}
+  - {text: "In a functioning democracy, we cannot leave any space for violence to be tolerated.", start: 120.66, end: 125.62}
+  - {text: "With more on these latest protests, here's our correspondent in France, Nick Beak.", start: 126.38, end: 130.52}
+  - {text: "Another eruption of violence in France.", start: 131.20, end: 133.78}
+  - {text: "Police on the charge in Paris.", start: 135.10, end: 136.96}
+  - {text: "Peaceful protest over the state of schools descending to this.", start: 138.71, end: 142.81}
+  - {text: "Across the country, other clashes in what is a third week of action, triggered by crumbling buildings and a shortage of teachers.", start: 144.79, end: 152.99}
+  - {text: "Once again, officers accused of being heavy -handed.", start: 153.57, end: 156.69}
+  - {text: "The morning was calmer, relatively.", start: 157.49, end: 159.51}
+  - {text: "Pupils in the northern city of Lille telling us they deserve better.", start: 160.17, end: 163.51}
+  - {text: "Why are people so angry and why are people protesting day after day?", start: 163.93, end: 167.25}
+  - {text: "What's the problem? We have a lack of teachers, we have a lack of money in the establishments, we have like no means, sometimes there's no heat in winter.", start: 167.33, end: 178.25}
+  - {text: "I'm angry and I'm really scared because we saw a student getting his hand cut off because of a bomb, and we shouldn't be scared to be protesting.", start: 178.73, end: 190.19}
+  - {text: "We should be protesting and not be scared.", start: 190.41, end: 192.73}
+  - {text: "Trade unions joined protests, which have been powered by teenagers, but they appear to have support among a fractious and fractured France.", start: 193.45, end: 201.77}
+  - {text: "It's striking just how young some of the children here on the march are.", start: 202.29, end: 206.67}
+  - {text: "They've been joined in some cases by their parents and teachers, and the chance to talk to you about young people suffering here in France, working people too, as well as the elderly.", start: 206.89, end: 216.55}
+  - {text: "There is a wider discontent.", start: 216.89, end: 218.29}
+  - {text: "One concern for teachers, such as Marine, is class sizes.", start: 219.01, end: 222.63}
+  - {text: "She explains how 35 pupils in a room has become the norm, that it's impossible to give everyone the attention they deserve.", start: 224.35, end: 232.07}
+  - {text: "But such arguments risk being overshadowed if the protests continue and grow even bigger.", start: 232.63, end: 238.51}
+  - {text: "Do you think the government will listen to you?", start: 238.99, end: 240.57}
+  - {text: "Will anything change? I feel like the violence for this mobilisation was so intense that it has to make people react and it has to make the government react,", start: 240.63, end: 252.01}
+  - {text: "and we won't stop until the government changes things for us.", start: 252.39, end: 255.87}
+  - {text: "The number of injured pupils, teachers and police now exceeds a thousand, and France's young say they'll keep coming back to the streets until their government listens.", start: 256.31, end: 267.25}
+  - {text: "Nick Beek, well the government has accused the far left France unbowed party of stoking the violence with just months ago until the presidential election next year.", start: 267.75, end: 276.87}
+  - {text: "A charge it denies.", start: 277.15, end: 278.37}
+  - {text: "And President Trump has weighed in, blaming mass migration and Islam, a claim dismissed by French commentators.", start: 278.83, end: 285.25}
+  - {text: "Marseille in the south is a city that has been shaped by centuries of immigration.", start: 286.07, end: 290.15}
+  - {text: "Mark Lowen reports from the protests there.", start: 290.83, end: 292.95}
+  - {text: "We've been in Marseille all day and it's been frankly a bit of a game of cat and mouse, as thousands of protesters have constantly been moving around this city.", start: 293.21, end: 301.21}
+  - {text: "We have followed them up different streets trying to kind of catch them and then the police will come in and disperse them.", start: 301.39, end: 307.77}
+  - {text: "We saw the police firing tear gas earlier as some protesters tried to take bollards and bins to try to erect barricades.", start: 307.95, end: 314.91}
+  - {text: "I could feel the tear gas in my eyes and mouth.", start: 315.33, end: 317.69}
+  - {text: "The CRS as they're known here, the riot police in France, they're at the ready, but you can see they're fairly relaxed.", start: 317.89, end: 323.29}
+  - {text: "It doesn't look as though there is a confrontation that is imminent, but they are there because the violence of these protests has been pretty extreme over the last two and a half weeks.", start: 323.49, end: 333.11}
+  - {text: "There have been schools ransacked and burned.", start: 333.47, end: 335.41}
+  - {text: "There have been dozens of teachers who have been injured.", start: 335.71, end: 338.11}
+  - {text: "There have been a lot of students who have been injured.", start: 338.31, end: 339.85}
+  - {text: "This is the biggest wave of student protests that France has seen in many years and it is coming at a delicate, volatile moment for this country six months before a presidential election that has polarised French politics.", start: 340.27, end: 351.13}
+  - {text: "Mark Lowen. Well, the far right and the far left were already expected to do well in that election even before these protests and Nick Beek says this school's crisis has highlighted what many French people see", start: 351.61, end: 363.79}
+  - {text: "as the failings of President Macron's centrist government.", start: 363.79, end: 367.91}
+  - {text: "Government figures are saying that the far left are to blame for this, that there are agitators who are stirring up trouble and they are a tiny minority who are really stealing the headlines.", start: 368.45, end: 378.43}
+  - {text: "I was struck by how many teachers were there alongside pupils as well as parents.", start: 378.87, end: 383.99}
+  - {text: "It feels that the demands of the young people have really struck a chord with a lot of people and I think the problem for Mr", start: 384.19, end: 390.27}
+  - {text: "Macron is this is not a case of a piece of legislation he can hastily withdraw and sort of try and dampen things down.", start: 390.27, end: 398.41}
+  - {text: "This is something fundamental to the state of schools in this country.", start: 398.97, end: 402.37}
+  - {text: "It's going to cost millions or billions to fix this and France simply doesn't have those sort of funds at the moment and of course the political landscape here is", start: 402.73, end: 410.97}
+  - {text: "so divided there's no common ground on this particular issue and it seems that increasingly people are looking to the extremes to the hard left and", start: 410.97, end: 418.99}
+  - {text: "to the hard right for any sort of solution to France's problems.", start: 418.99, end: 422.61}
+  - {text: "Nick Beek, a US death row inmate, Christophe Pike, whose execution was botched last week has regained consciousness and is speaking according to her lawyers.", start: 423.07, end: 433.33}
+  - {text: "Christophe Pike, who is 50, is continuing to receive critical medical care while remaining handcuffed in hospital.", start: 433.89, end: 440.55}
+  - {text: "She was convicted at the age of 18 of killing her 19 -year -old classmate back in 1995.", start: 440.55, end: 446.19}
+  - {text: "She had been set to be the first woman to be executed in the US state of Tennessee in more than two centuries.", start: 447.07, end: 453.15}
+  - {text: "Our North America correspondent is Gary O'Donohue.", start: 453.67, end: 456.31}
+  - {text: "This is a hugely dramatic development.", start: 456.83, end: 458.65}
+  - {text: "We had no idea what Christophe Pike's condition was other than it was critical for the last few days since she had that botched execution last Wednesday.", start: 458.87, end: 467.53}
+  - {text: "Now her lawyers have said that she is awake and speaking.", start: 468.43, end: 471.29}
+  - {text: "We don't have any words from her at this point in time.", start: 471.85, end: 475.07}
+  - {text: "They say she's still receiving critical care in hospital and, despite they say the injuries that she received to her arm through this botched execution attempt,", start: 475.77, end: 483.27}
+  - {text: "they say she is handcuffed and shackled to the bed.", start: 483.91, end: 486.75}
+  - {text: "Now there are lots of questions still outstanding about what her condition is.", start: 487.39, end: 491.11}
+  - {text: "There were some concerns that this may have, you know, caused permanent damage to her, potentially even brain damage.", start: 491.45, end: 496.89}
+  - {text: "We don't know anything like that at this point.", start: 496.97, end: 498.67}
+  - {text: "But they do say that they think that her recovery will take a long time.", start: 498.99, end: 502.69}
+  - {text: "And is there any prospect of another attempt to execute her?", start: 503.05, end: 507.09}
+  - {text: "Not in the immediate term because Christophe Pike's was not the first failed execution in Tennessee this year.", start: 507.55, end: 514.15}
+  - {text: "Back in May there was another execution that was due to take place.", start: 514.23, end: 517.29}
+  - {text: "It didn't get as far as the injection stage as it did with Christophe Pike because they couldn't find a vein in that death row inmate and that had to be called off.", start: 517.73, end: 526.01}
+  - {text: "So the Governor Bill Lee in Tennessee has paused all executions for the rest of the year so far and he has ordered some sort of", start: 526.19, end: 534.55}
+  - {text: "independent inquiry into what happened to Christophe Pike.", start: 534.55, end: 537.01}
+  - {text: "And she's already spent three decades in prison.", start: 537.33, end: 540.49}
+  - {text: "Her case is not unique as you were saying.", start: 541.07, end: 543.23}
+  - {text: "Is there any prospect perhaps that there could be some leniency shown to her?", start: 543.71, end: 547.65}
+  - {text: "Well there have been attempts to commute her sentence and the lawyers again are asking it to be commuted to life in prison.", start: 548.07, end: 553.97}
+  - {text: "That has been resisted up till now.", start: 554.59, end: 556.77}
+  - {text: "The case for that has been that her defense team in the original trial didn't put the case in terms of the fact of her childhood abuse that she'd suffered.", start: 557.31, end: 566.25}
+  - {text: "She was only just 18 at the time.", start: 566.63, end: 568.25}
+  - {text: "But it's also true to say that this was an incredibly infamous, controversial, horrible case.", start: 568.73, end: 575.17}
+  - {text: "And she doesn't contest the facts that she tortured and killed a classmate in a brutal and horrendous crime, Colleen Slema.", start: 575.53, end: 583.51}
+  - {text: "And certainly Colleen Slema's mother has been very much pro this execution taking place.", start: 584.27, end: 589.85}
+  - {text: "So there are two sides as there always are with this and sometimes the victim of these crimes doesn't get heard too much.", start: 590.05, end: 595.87}
+  - {text: "But there is some pressure now because Tennessee seems to have this problem with carrying out its lawful executions.", start: 595.91, end: 602.03}
+  - {text: "Bear in mind the Constitution protects people from what's called cruel and unusual treatment and certainly lawyers are arguing that doing this to Krista Pike falls into that category.", start: 602.03, end: 612.31}
+  - {text: "And the US is one of the few Western countries that still carries out the death penalty.", start: 612.79, end: 617.87}
+  - {text: "This has really cast a spotlight on the use of it, especially given high number of botched cases.", start: 618.35, end: 623.83}
+  - {text: "Yeah and having fallen for a number of years, the cases of the death penalty being carried out has started to rise again.", start: 624.49, end: 630.43}
+  - {text: "There are two kinds of death penalty.", start: 631.09, end: 632.45}
+  - {text: "You can get a federal death penalty for certain crimes, but generally speaking, most of the death penalties are carried out by individual states and through state law.", start: 632.65, end: 640.35}
+  - {text: "And those cases have been rising in some places.", start: 641.05, end: 643.45}
+  - {text: "Florida for one is executing quite a lot of people at the moment.", start: 643.99, end: 646.77}
+  - {text: "And it's one of those issues that divides people, not necessarily always, but often down party lines.", start: 647.15, end: 652.93}
+  - {text: "But it's not something that's going to go away anytime soon in America.", start: 653.19, end: 655.77}
+  - {text: "Gary O'Donohue in Washington.", start: 655.77, end: 658.31}
+  - {text: "One of football's most acclaimed players, Lionel Messi has brought his glittering international career to an end with a goal against Benin in the Argentine capital Buenos Aires, helping to secure a three -nil victory.", start: 659.01, end: 671.93}
+  - {text: "Fans turned out in force to watch him play his final game for the national team.", start: 672.63, end: 676.69}
+  - {text: "Messi leaves behind an extraordinary legacy, securing many scoring records and winning numerous titles for his teams, including Argentina's World Cup success in 2022.", start: 677.31, end: 687.91}
+  - {text: "These fans described what Messi meant to them.", start: 688.89, end: 691.33}
+  - {text: "I really started following the Argentina national team because of Messi.", start: 692.89, end: 696.81}
+  - {text: "I started following a national team that is not mine because of him, because he is a great athlete, because he is a great person.", start: 697.41, end: 704.39}
+  - {text: "He shows it every day and I feel very sad that he is retiring.", start: 704.87, end: 708.23}
+  - {text: "I think that more than a void, he leaves a lesson for all the young people, that beyond football or not, you have to put your heart into it.", start: 708.23, end: 717.21}
+  - {text: "You have to give everything you have.", start: 717.37, end: 718.61}
+  - {text: "People will always criticise you, but you have to keep moving forward.", start: 718.93, end: 721.69}
+  - {text: "But Messi will still continue to play club football in the US for Inter Miami.", start: 722.31, end: 726.57}
+  - {text: "The BBC's Luis Fajardo watched what turned out to be an emotional game for Messi fans.", start: 727.25, end: 732.37}
+  - {text: "Certainly a very emotional night in the Monumental Stadium, the temple of Argentinian football in Buenos Aires.", start: 733.09, end: 739.85}
+  - {text: "There were 85 ,000 people who, according to Argentinian media, showed up hours before the beginning of the game to pay their respects and to enjoy", start: 740.17, end: 748.95}
+  - {text: "this final night with Lionel Messi in the national football team.", start: 748.95, end: 753.11}
+  - {text: "It has been 22 years since Messi first started appearing with the Argentina team.", start: 753.45, end: 759.11}
+  - {text: "And there was all kinds of celebrations during the game.", start: 759.53, end: 763.93}
+  - {text: "There was this unusual stop at the 10th minute of the game against Benin in which both teams expressed their respects and their admiration for the number 10 for Lionel Messi.", start: 764.15, end: 773.69}
+  - {text: "Of course, there were fireworks, there was a drone show in which Messi's name was painted in the sky in Buenos Aires.", start: 773.95, end: 780.95}
+  - {text: "And what you could call a fairytale ending at the last few minutes of the game, there was a penalty kick and the opportunity for Lionel", start: 781.47, end: 788.55}
+  - {text: "Messi to go away with a final goal for the Argentina team.", start: 788.55, end: 792.03}
+  - {text: "So he really couldn't have asked for much more.", start: 792.13, end: 794.01}
+  - {text: "He did say at the end of the game that playing for Argentina was the most beautiful thing that he could think of and most of Argentina,", start: 794.55, end: 802.45}
+  - {text: "not the entire country expressing their very, very strong feelings of being very grateful for Lionel Messi.", start: 802.63, end: 809.15}
+  - {text: "But he's still going to play club football.", start: 809.49, end: 811.81}
+  - {text: "Yeah, he's going to continue at Miami, the city where I live.", start: 812.53, end: 816.85}
+  - {text: "He's of course the undisputed superstar of Inter Miami and of the league of the US League.", start: 817.03, end: 824.91}
+  - {text: "Of course, Lionel Messi has been a transforming force here in Miami and he's expected to play for around two more years, according to his contract.", start: 825.09, end: 834.83}
+  - {text: "It's going to be of course, the last place where Messi is going to play football professionally.", start: 834.91, end: 840.89}
+  - {text: "So he's certainly going to attract a lot of attention.", start: 841.17, end: 843.47}
+  - {text: "Lionel Messi has been great for the business of the team.", start: 844.27, end: 848.07}
+  - {text: "It is said that the Inter Miami, the value of the team has more than doubled since he arrived in 2023.", start: 848.27, end: 855.03}
+  - {text: "It is also said that he has been a catalyst of economic growth even for the entire city of Miami.", start: 855.67, end: 860.73}
+  - {text: "He has brought so much attention.", start: 860.97, end: 862.31}
+  - {text: "So many tourists who arrive in Miami and one of the first things they want to do is to go to the store and buy the famous pink jersey of Inter Miami and with Messi's name.", start: 862.93, end: 873.67}
+  - {text: "So certainly he's going to continue being an important presence for as long as he decides to play in Inter Miami.", start: 873.81, end: 879.89}
+  - {text: "Luis Fajardo. Still to come in this podcast.", start: 880.23, end: 884.69}
+  - {text: "I think how lucky I am to have been seated here.", start: 884.99, end: 887.07}
+  - {text: "I tipped a steward five dollars to seat you here if you should come in.", start: 887.41, end: 890.55}
+  - {text: "We look back on the life of the Hollywood star Eva Marie Saint who starred opposite Carrie Grant in North by Northwest.", start: 891.22, end: 897.59}
+  - {text: "She has died at the age of 102.", start: 898.37, end: 900.75}
+  - {text: "This is the Global News Podcast.", start: 909.14, end: 910.88}
+  - {text: "Events are being held in Israel to mark the third anniversary of the Hamas -led attacks that triggered the war in Gaza.", start: 911.87, end: 918.37}
+  - {text: "Some 1 ,200 people were killed on October 7, 2023 and of the 251 hostages taken, only 168 came back alive.", start: 919.19, end: 930.85}
+  - {text: "The last survivors returned only in October last year through a US -brokered ceasefire deal.", start: 931.55, end: 936.77}
+  - {text: "Despite the deal, Israeli attacks continue in Gaza where the Hamas -led health ministry says more than 74 ,000 people have been killed in the past three years.", start: 937.41, end: 948.21}
+  - {text: "Two -thirds of them civilians.", start: 948.71, end: 950.03}
+  - {text: "This week the BBC will be reporting about the dire humanitarian situation in Gaza.", start: 950.97, end: 955.77}
+  - {text: "Meanwhile our Middle East correspondent Yolanda Nel has been to visit the kibbutz of near Oz bordering Gaza and one of the community's hardest hit in the 7th of October attacks.", start: 956.73, end: 967.19}
+  - {text: "Time stands still in this burnt out house in near Oz where a couple and their three young children were murdered by Hamas fighters in their bomb shelter.", start: 970.95, end: 980.09}
+  - {text: "Dalid Aharon hiding in her own safe room in another part of the kibbutz got a message from Tamar Simantov.", start: 980.95, end: 987.51}
+  - {text: "She wrote they shoot us and after that she wrote with a lot of mistake we are very injured.", start: 987.85, end: 995.51}
+  - {text: "From what we understand after they touched the house the children were dying from suffocation so all the family was killed.", start: 995.75, end: 1005.75}
+  - {text: "Dalid is showing me around with her husband Ahi.", start: 1006.90, end: 1009.36}
+  - {text: "Do you support some of the houses being left like this so people can understand what happened?", start: 1010.04, end: 1014.30}
+  - {text: "Everybody needs to see and to know what happened should see the destruction pure hatred that happened here.", start: 1014.52, end: 1020.62}
+  - {text: "In the deserted communal dining room birds have made nests in the ceiling.", start: 1021.02, end: 1024.92}
+  - {text: "Dalid points out the coloured stickers on the rows of residents post boxes.", start: 1025.38, end: 1029.28}
+  - {text: "In October 7 we were 400 people.", start: 1029.62, end: 1033.16}
+  - {text: "One of four was either murder or kidnap.", start: 1033.58, end: 1037.12}
+  - {text: "The red stickers are the one that murdered and the black stickers is the one that kidnapped.", start: 1037.54, end: 1044.72}
+  - {text: "Some of them were kidnapped and then murdered there.", start: 1045.10, end: 1049.04}
+  - {text: "Among those killed in Gaza were Shari Bebas and her two ginger haired sons the youngest a baby.", start: 1051.68, end: 1058.14}
+  - {text: "They were seen in a video surrounded by Palestinian gunmen.", start: 1058.44, end: 1062.26}
+  - {text: "This is the hardest house for me because Shari was a very very good friend of mine and she was like a sister.", start: 1065.12, end: 1073.40}
+  - {text: "The pain is too much for some survivors now making new lives elsewhere but Dalid whose parents were founders of the Kibbutz is determined to return", start: 1074.53, end: 1083.27}
+  - {text: "when it's fully rebuilt in two years time.", start: 1083.27, end: 1085.65}
+  - {text: "Welcome back for a memory of Shari's and for all the people that didn't have the chance to live here and for a memory of my parents and to continue our roots.", start: 1086.21, end: 1099.93}
+  - {text: "Dozens of burnt out homes have already been torn down just the bomb shelters made of reinforced concrete still need to be removed.", start: 1102.90, end: 1110.52}
+  - {text: "A few former hostages are back living in Neroz in smart newly built villas.", start: 1110.52, end: 1115.72}
+  - {text: "Emi Palma is director of the rebuilding project.", start: 1116.40, end: 1119.54}
+  - {text: "We started an entire re -planning of the Kibbutz it's trauma -informed design it tries to help you feel at home and yet feel that the place has changed enough", start: 1120.04, end: 1130.86}
+  - {text: "so you're not triggered by every step that you take.", start: 1130.86, end: 1134.20}
+  - {text: "There are still possibilities for the huge security failures is a big issue in Israel's upcoming general election but as Ahi talks up a surfboard at a beach in southern Israel he", start: 1139.92, end: 1151.82}
+  - {text: "and Dalid are focusing on their own healing.", start: 1151.82, end: 1154.20}
+  - {text: "This is the first 7th of October anniversary since all the hostages were returned dead and alive.", start: 1154.86, end: 1160.88}
+  - {text: "Until the hostages came back it was the only thing on our minds and now it's our recovery or some kind of recovery as much as we can.", start: 1161.42, end: 1172.90}
+  - {text: "Ahi was taught to surf by an Israeli therapy organization.", start: 1173.74, end: 1177.42}
+  - {text: "Today Dalid cheers him on from the beach.", start: 1177.94, end: 1180.06}
+  - {text: "The couple still face huge struggles but say they're trying to ride out the waves of their trauma.", start: 1182.44, end: 1187.96}
+  - {text: "And that report was by Yoland Nel.", start: 1189.46, end: 1191.94}
+  - {text: "The former head of Germany's foreign intelligence agency has been arrested on suspicion of espionage and attempting to pass state secrets to another country.", start: 1192.63, end: 1200.63}
+  - {text: "Auguste Hanning who led the BND for seven years until 2005 is alleged to have bought secret information from a former aide who has also been arrested.", start: 1201.25, end: 1210.57}
+  - {text: "Here's our Europe correspondent Bethany Bell.", start: 1211.07, end: 1213.01}
+  - {text: "If the suspicions against Auguste Hanning and his aide are confirmed this would be a scandal of historic proportions.", start: 1213.63, end: 1220.37}
+  - {text: "Federal prosecutors say Mr.", start: 1221.19, end: 1223.11}
+  - {text: "Hanning is strongly suspected of treasonous espionage and passing on state secrets.", start: 1223.23, end: 1228.19}
+  - {text: "They say he was in close contact with the representative of a foreign intelligence service to whom he passed on political information for several years.", start: 1229.01, end: 1237.25}
+  - {text: "He's also accused of drafting what was described as an analysis for an intelligence officer from another country.", start: 1238.09, end: 1243.99}
+  - {text: "Investigators didn't say which foreign powers were involved but German media says the material included sensitive assessments about Iran's nuclear program and the Russian military.", start: 1245.31, end: 1255.97}
+  - {text: "Mr. Hanning is accused of paying his former aide Manfred D.", start: 1257.11, end: 1260.77}
+  - {text: "to obtain the information.", start: 1260.83, end: 1262.09}
+  - {text: "The case came to light as Mr.", start: 1262.93, end: 1264.47}
+  - {text: "Hanning was being investigated in connection with a child abduction trial in Hamburg involving the heiress of a restaurant chain, Christina Block.", start: 1264.57, end: 1272.75}
+  - {text: "She's accused of having her children kidnapped from her estranged husband.", start: 1273.51, end: 1277.25}
+  - {text: "Mr. Hanning's lawyer rejects the allegations.", start: 1278.17, end: 1280.53}
+  - {text: "The authorities say they discovered the evidence of espionage after a search of his premises last year.", start: 1281.53, end: 1287.77}
+  - {text: "Eva Marie St took the Academy Award as best supporting actress for her first film.", start: 1310.25, end: 1326.02}
+  - {text: "The big star of On the Waterfront in 1954 was Marlon Brando but she shone too, opposite Brando as a young woman whose brother has been murdered.", start: 1326.36, end: 1336.84}
+  - {text: "Romance or human kindness in your whole body.", start: 1340.74, end: 1343.20}
+  - {text: "Don't look at me when you say that it wasn't my fault what happened to Joey.", start: 1343.40, end: 1346.60}
+  - {text: "Eva Marie St had been born into a Quaker family in New Jersey.", start: 1346.88, end: 1350.88}
+  - {text: "She'd started acting in New York in the late 40s on TV and radio.", start: 1351.20, end: 1355.98}
+  - {text: "On the Waterfront led to many other film offers but in 1959 in Alfred Hitchcock's North by Northwest St played the other part which always defined her career.", start: 1356.32, end: 1368.66}
+  - {text: "Travelling to Chicago by train, this time opposite Kerry Grant.", start: 1368.66, end: 1373.66}
+  - {text: "Eva Marie St matched exactly the Hitchcock ideal of a seductively intelligent blonde leading lady but she wanted a normal home life too, something her agent found hard to grasp.", start: 1379.28, end: 1396.78}
+  - {text: "There was something to do in Europe, a big movie.", start: 1396.78, end: 1399.32}
+  - {text: "I said I can't do it.", start: 1399.66, end: 1401.30}
+  - {text: "He looked at me and he said well Eva Marie you'll just never be a superstar and I said you know I guess I don't want to be.", start: 1401.72, end: 1408.36}
+  - {text: "The lead roles became less frequent and later the work was mainly on TV but Eva Marie St lived to become the oldest holder of an Academy Award", start: 1408.60, end: 1418.42}
+  - {text: "and Oscar awarded more than six decades earlier at the start of a long career acting on screen.", start: 1418.42, end: 1425.76}
+  - {text: "Vincent Dowd looking back on the life of Eva Marie St.", start: 1425.76, end: 1429.46}
+  - {text: "Now to a novel new way of aging whiskey which scientists say could produce some very bold flavours.", start: 1431.33, end: 1437.57}
+  - {text: "Their plan is to send it into space.", start: 1438.13, end: 1440.51}
+  - {text: "The engineers from Scotland and Japan will examine how the process works in the harsh conditions beyond Earth's atmosphere.", start: 1441.21, end: 1447.89}
+  - {text: "Our reporter Anna Aslam has the details.", start: 1448.41, end: 1450.69}
+  - {text: "Down here on Earth making whiskey is a labour of love.", start: 1451.41, end: 1454.19}
+  - {text: "With a drink aging in oak barrels for years before a single drop can be tasted.", start: 1454.19, end: 1458.65}
+  - {text: "But a team of scientists is hoping a distillery in space could speed things along.", start: 1459.43, end: 1463.43}
+  - {text: "As a rocket orbits Earth every 90 minutes it's hoped the faster day and night cycle and the fluctuating temperatures that come with that will make the drink mature faster.", start: 1464.05, end: 1473.83}
+  - {text: "Dr. Gilles Bouillet from the University of Glasgow is the lead researcher.", start: 1474.41, end: 1477.41}
+  - {text: "So we are hoping that the woods, like on Earth, the wood contracts and expands depending on the temperature of the season.", start: 1477.85, end: 1485.21}
+  - {text: "If it's winter or summer they take 12 months to have one full rotation here.", start: 1485.41, end: 1489.63}
+  - {text: "We are hoping that we'll be able to get this full rotation in 90 minutes.", start: 1489.83, end: 1493.11}
+  - {text: "And so we are hoping that we'll be able to age the whiskey way faster.", start: 1493.69, end: 1496.57}
+  - {text: "Rest assured there won't be a massive oak cask on board.", start: 1496.93, end: 1499.65}
+  - {text: "The team has designed a cube sat container that'll hold 10 millilitres of liquid inside wood chips.", start: 1500.05, end: 1505.63}
+  - {text: "And the whiskey will be monitored by tiny sensors rather than thirsty astronauts.", start: 1506.07, end: 1510.19}
+  - {text: "But it's thought the flavor will be very bold.", start: 1510.69, end: 1513.11}
+  - {text: "And if this opens the door to future production of space -aged whiskey, collectors could look forward to bottles with complex profiles and astronomical prices.", start: 1513.71, end: 1522.27}
+  - {text: "But away from the novelty, this research is also expected to provide insight into how factories in space could one day make things better than those on Earth,", start: 1523.27, end: 1531.97}
+  - {text: "such as semiconductors, fiber optic cables and medicines.", start: 1532.27, end: 1535.09}
+  - {text: "Here's Dr. Bouillet again.", start: 1535.69, end: 1536.91}
+  - {text: "The main aim is not so much to be able to bring back some whiskey.", start: 1536.91, end: 1541.35}
+  - {text: "The aim is to really be able to produce ethanol, which is the base component of whiskey and beer and wine in space, because we really need that for future of drugs.", start: 1541.55, end: 1551.31}
+  - {text: "The whiskey experiment, nicknamed Space Buffin, is scheduled for blast -off in 2028 and will stay in orbit for five years.", start: 1551.89, end: 1559.11}
+  - {text: "That report by Anna Aslan.", start: 1559.61, end: 1561.45}
+  - {text: "And that's all from us for now, but before we go, here's a quick message about a special new podcast.", start: 1563.39, end: 1568.33}
+  - {text: "Hello, I'm Celia Hatton, and we need your help.", start: 1568.83, end: 1571.19}
+  - {text: "Did you know there are nearly 1 ,300 terms and phrases used by election officials in the United States?", start: 1571.61, end: 1577.77}
+  - {text: "So with midterms fast approaching, the Global News podcast is joining forces with Americaast.", start: 1578.17, end: 1583.61}
+  - {text: "Together, we'll be offering you a one -off jargon -busting special, and we want your suggestions, please, for words and phrases that could do with an explanation.", start: 1583.97, end: 1593.29}
+  - {text: "Nothing is too simple.", start: 1593.29, end: 1594.77}
+  - {text: "In our sites already are Senate, Caucus, and gerrymander.", start: 1595.19, end: 1598.51}
+  - {text: "Please let us know what else to add.", start: 1599.05, end: 1600.51}
+  - {text: "It's the usual address, globalpodcastatbbc .co .uk.", start: 1600.81, end: 1605.17}
+  - {text: "We'll be looking forward to hearing from you.", start: 1605.75, end: 1607.19}
+  - {text: "And this edition of the Global News podcast was mixed by Pat Sissons and produced by Ariane Cotci and Wendy Urquhart.", start: 1607.94, end: 1615.24}
+  - {text: "The editor is Karen Martin.", start: 1615.52, end: 1617.06}
+  - {text: "I'm Jeanette Jolil. Until next time, goodbye.", start: 1617.42, end: 1619.34}
+---
