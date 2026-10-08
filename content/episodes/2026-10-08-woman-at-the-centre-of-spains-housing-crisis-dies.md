@@ -1,0 +1,175 @@
+---
+layout: single
+title: "Woman at the centre of Spain's housing crisis dies"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-08T00:00:00Z
+slug: "2026-10-08-woman-at-the-centre-of-spains-housing-crisis-dies"
+audioDir: "2026-10-08-woman-at-the-centre-of-spains-housing-crisis-dies"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-08-woman-at-the-centre-of-spains-housing-crisis-dies/episode.mp3"
+totalDuration: 1595.7
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.82}
+  - {text: "I'm Alex Ridson and in the early hours of Thursday, October the 8th, these are our main stories.", start: 5.23, end: 10.97}
+  - {text: "The evicted 87 -year -old, whose plight became the symbol of Spain's housing crisis and prompted a snap election, has died.", start: 11.69, end: 19.15}
+  - {text: "The US judge has ordered officials in Tennessee to preserve evidence from last week's botched attempt to execute the death row inmate Krista Pike.", start: 19.91, end: 28.77}
+  - {text: "Also in this podcast, this is one of the most rapid warming areas on the planet.", start: 31.07, end: 36.13}
+  - {text: "That's causing krill stocks to contract southwards, so the chainstraps have less to eat.", start: 36.41, end: 41.93}
+  - {text: "Scientists say climate change has led to the population of what was the world's largest penguin colony plummeting by nearly two -thirds.", start: 42.21, end: 50.07}
+  - {text: "An elderly woman in Spain whose eviction sparked protests over the country's housing crisis and a political row that triggered early elections has died.", start: 54.56, end: 63.96}
+  - {text: "Maricamman Abascal, who was 87, was forcibly removed from her apartment last month after she was unable to afford rent increases.", start: 64.42, end: 72.68}
+  - {text: "She'd lived there for more than 70 years.", start: 73.32, end: 75.50}
+  - {text: "The news of her death on Wednesday sparked renewed protests over affordable housing with hundreds gathering near the Parliament building in central Madrid, chanting slogans and lighting candles in her memory.", start: 76.04, end: 87.84}
+  - {text: "Right now I'm crying on the subway and my first reaction is that Maricamman hasn't died.", start: 90.82, end: 97.42}
+  - {text: "She was killed by this capitalist system and I find it shameful that everyone isn't out on the streets protesting to ensure this never happens again.", start: 97.92, end: 108.72}
+  - {text: "A lot of sorrow.", start: 111.22, end: 112.28}
+  - {text: "I think that's what we all share.", start: 112.84, end: 114.12}
+  - {text: "A great deal of sorrow and above all the thought that she is the cause, the head of this whole revolution and that she can't see it.", start: 114.58, end: 121.62}
+  - {text: "It makes me so sad that she won't see if anything comes of it, if there's any result from all that she's fought for.", start: 122.20, end: 128.68}
+  - {text: "Our reporter, Albert Morgarde, was at the protest and she began by telling me about what is known surrounding the circumstances of Maricamman Abascal's death.", start: 129.02, end: 138.94}
+  - {text: "She was admitted to hospital just the day of the eviction.", start: 139.34, end: 142.92}
+  - {text: "You might remember that she was taken on a stretcher.", start: 143.18, end: 145.50}
+  - {text: "Her health condition was really weak.", start: 146.12, end: 148.94}
+  - {text: "She had a 50 % disability recognised due to mobility and media reports and her lawyers had said that all the circumstances around the attempted evictions", start: 149.50, end: 160.72}
+  - {text: "that were several over the last few years had really caused her a lot of stress and a lot of extortion.", start: 160.72, end: 166.78}
+  - {text: "Regarding the circumstances of her death are not yet known but we know that she died in a hospital in Madrid and has caused an absolute outcry in the city and across the country.", start: 167.28, end: 178.96}
+  - {text: "As we can hear behind you I think.", start: 179.20, end: 181.26}
+  - {text: "Exactly. There is a small protest.", start: 182.82, end: 185.00}
+  - {text: "I would say there is a few hundred people, 300, 400, that were in this square in the centre of Madrid where people have come to demand for better solutions on the housing crisis", start: 185.20, end: 197.16}
+  - {text: "and were initiated after the eviction of Maricamman Abascal and they have taken today to the doors of the congress which is just 500 meters away from just to say they are chanting several things but one of the things is that she didn't die, she was killed.", start: 197.16, end: 215.20}
+  - {text: "Again people here are demanding solutions to the housing crisis that has been really affecting people, especially the youth in this country.", start: 215.64, end: 223.08}
+  - {text: "There has been improvised vigil as well with people lighting candles and you can see a lot of banners and little messages in different places of the street just remembering Maricamman Abascal.", start: 223.44, end: 234.10}
+  - {text: "The eviction was arguably a big factor in the calling of the snap election by the Prime Minister Pedro Sánchez.", start: 234.66, end: 243.22}
+  - {text: "How is this pensioner's death going to play into that upcoming poll?", start: 243.74, end: 248.60}
+  - {text: "Well I think this will make people go to the polls.", start: 249.12, end: 252.42}
+  - {text: "The people here want really solutions.", start: 253.18, end: 255.64}
+  - {text: "If that will benefit Pedro Sánchez who is the one who has called his early election thinking that this movement will benefit him we don't know yet", start: 256.24, end: 265.30}
+  - {text: "but I think the death of Maricamman Abascal today and the outcry we're seeing not just in Madrid where I am but across the country and all the tributes", start: 265.30, end: 273.62}
+  - {text: "that have been seen online I think they're going to make people really go into the streets and ask for the vote and ask for solutions", start: 273.62, end: 282.00}
+  - {text: "and different alternatives to the situation that we've been living in Spain for the last few years where people cannot afford to live in the cities", start: 282.00, end: 289.52}
+  - {text: "where they were born like was the case of Maricamman Abascal.", start: 289.52, end: 292.16}
+  - {text: "A judge in the US State of Tennessee has ordered officials to preserve all evidence from the botched execution of Krista Pike last week.", start: 292.70, end: 303.52}
+  - {text: "Lawyers for the convicted murderer who survived two doses of what was supposed to be a lethal injection have said she's angry and confused after waking up in hospital.", start: 303.96, end: 313.98}
+  - {text: "After a hearing the lawyers said the retention of evidence was the first step of a potentially long legal battle.", start: 314.52, end: 321.44}
+  - {text: "Krista Pike has spent three decades on death row for killing Colleen Slema.", start: 321.92, end: 326.62}
+  - {text: "North America correspondent Neda Torfik told me more about the emergency court proceedings in Tennessee.", start: 327.16, end: 333.68}
+  - {text: "The judge ordered the state to retain not just physical evidence like the IVs and syringes and gurneys but any surveillance video any and all communications between officials", start: 334.22, end: 344.76}
+  - {text: "and you know her lawyers also wanted to get access to her more readily you know as she starts to regain full consciousness and even requested", start: 344.76, end: 354.32}
+  - {text: "that her shackles be removed and I think some of the most moving astonishing details actually came when the lawyer spoke to the press after the court hearing", start: 354.32, end: 364.04}
+  - {text: "and gave an update on just how she's doing.", start: 364.04, end: 366.44}
+  - {text: "On Monday night it was our understanding that Krista was brain dead and that life support would be removed the next day but on Tuesday to the shock of everyone including me including her team", start: 366.80, end: 379.12}
+  - {text: "and including the medical team Krista woke up and began talking.", start: 379.12, end: 382.66}
+  - {text: "I do not have an explanation for what happened between Monday night and Tuesday morning.", start: 383.48, end: 389.12}
+  - {text: "They described Krista Pike as currently confused, angry.", start: 389.36, end: 393.28}
+  - {text: "They say that you know she wants to understand better what happened to her but the physical and mental health toll of this is extreme you know they talked about how her arms and hands are severely swollen", start: 393.98, end: 406.86}
+  - {text: "from where she got those two rounds of the lethal what was supposed to be the lethal injection they say she is suffering pneumonia she can't swallow she can't eat", start: 407.40, end: 415.96}
+  - {text: "and so they describe it as a long road to recovery.", start: 415.96, end: 419.90}
+  - {text: "Neda there's a suggestion this case is going to reopen debate across the United States on the death penalty is it I mean she was convicted", start: 420.12, end: 429.04}
+  - {text: "of the most awful awful crime even though what happened to her in the death chamber was was clearly horrible too.", start: 429.04, end: 436.46}
+  - {text: "Yeah we can't forget the family of Colleen Slemmer the victim of Krista Pikes in all of this you know her mother said that she very much supported the death penalty for Krista Pike", start: 436.84, end: 447.68}
+  - {text: "that she wanted justice for her daughter but she feels let down by the state and I think look those who always felt against capital punishment point to the fact", start: 447.68, end: 458.00}
+  - {text: "that the United States is an outlier that 75 % of the world's countries have either gotten rid of the death penalty in law or in practice", start: 458.00, end: 466.24}
+  - {text: "and they see this as further evidence of the kind of cruel and unusual nature of continuing this practice but even those who support the death", start: 466.24, end: 476.40}
+  - {text: "penalty are debating the methods used in this country after what we saw happen with Krista Pike you know these lethal injections pharmaceutical companies you know don't want them used in this way", start: 476.40, end: 489.74}
+  - {text: "and so sourcing these drugs has become increasingly more difficult finding people trained and administering them has become increasingly more difficult and so for example you have one top republican the governor in Tennessee who suggested electric chair should be the method used going forward", start: 489.74, end: 508.12}
+  - {text: "and I think the thing to remember here is her lawyers believe it would just be unimaginable after what she went through to then choose to execute her once again", start: 508.60, end: 518.64}
+  - {text: "and the state hasn't said yet whether they will seek to do that.", start: 518.64, end: 522.30}
+  - {text: "Neda Torfik the United Nations has condemned continued Houthi attacks against Saudi Arabia and has warned of a worsening humanitarian situation in Yemen it follows a", start: 522.40, end: 533.18}
+  - {text: "flurry of attacks on Saudi targets on Wednesday including firing a ballistic missile at Riyadh airport as the Houthis backed by Iran battle for territory in", start: 533.18, end: 542.68}
+  - {text: "Yemen against government forces supported by the kingdom the international organization for migration says more than 180 ,000 people have been displaced by the fighting inside", start: 542.68, end: 553.42}
+  - {text: "Yemen since the 1st of August the UN spokesperson Stefan Dujaric urged all parties to exercise restraint and protect civilians.", start: 553.42, end: 562.52}
+  - {text: "We reiterate once again our condemnation of the continued Houthi cross -border attacks against Saudi Arabia including the recent attacks in Jazan, Najran as well as the attacks reported earlier to date near Riyadh", start: 562.98, end: 576.42}
+  - {text: "and the airport there we remain deeply concerned about the ongoing military escalation in and around Yemen including the intense fighting across multiple front lines we", start: 576.42, end: 587.20}
+  - {text: "call again on all parties to exercise restraint urge them to uphold their obligation under international humanitarian law and to refrain direct attacks on civilian and civilian infrastructure.", start: 587.20, end: 599.48}
+  - {text: "The Houthi movement which controls much of northwest Yemen captured swathes of coastal land from Yemen's pro -government forces last month after the country's civil war", start: 599.82, end: 609.94}
+  - {text: "reignited in July we got more details from Greg Holyoke Middle East specialist with BBC monitoring in the early hours of Wednesday morning Yemen's Houthi rebels announced a fresh wave of drone", start: 609.94, end: 621.78}
+  - {text: "and missile strikes both within Yemen and against neighboring Saudi Arabia to the south the Iran back group said it had targeted the main airport in", start: 621.78, end: 630.68}
+  - {text: "the Saudi back government's temporary capital of Aden to the north they said they had hit a civilian airport and a military airbase near the Saudi", start: 630.68, end: 638.94}
+  - {text: "city of Abha under 100 kilometers from the Yemeni border they also targeted at least three other military bases to the kingdom south perhaps more significant", start: 638.94, end: 648.90}
+  - {text: "is their claim just a few minutes later of firing a series of drones and a ballistic missile at King Khalid international airport in the capital", start: 648.90, end: 657.44}
+  - {text: "Riyadh Saudi media we have been monitoring were keen to focus on claimed advances of their allied forces on the ground in Yemen but some have cited official comments confirming", start: 657.44, end: 668.14}
+  - {text: "that a ballistic missile had been downed to the north of Riyadh where the airport is located just a few days ago a new military alliance", start: 668.14, end: 676.60}
+  - {text: "including Saudi Arabia announced it would implement collective defence measures over previous Houthi attacks it remains to be seen if these latest strikes will draw more international players into the war Greg Holyoke from BBC monitoring", start: 676.60, end: 691.80}
+  - {text: "native to the southern Pacific and Antarctic oceans the chin strap is considered to be the most aggressive and ill -tempered of the penguin species as you're about to hear from", start: 693.06, end: 704.84}
+  - {text: "fierce squabbles over nesting sites to loud head tossing territorial displays chin straps are feisty and aren't afraid to defend their turf but when it comes", start: 710.70, end: 721.08}
+  - {text: "to survival in the wild it appears their numbers are in serious decline a new study by the British Antarctic survey reveals that over half a", start: 721.08, end: 730.12}
+  - {text: "million chin strap penguins have disappeared from their largest colony in the south sandwich islands we heard more from lead researcher Norman Ratcliffe the chin strap penguin is pretty plain black", start: 730.12, end: 742.14}
+  - {text: "and white they have this white chin and this quite distinctive narrow black strap that runs underneath their chin hence the name so the objective of the study was to look at numbers on Zavadosky Island", start: 742.14, end: 753.36}
+  - {text: "which is a very remote location about 4 000 kilometers southeast of the falcons and it's well known for holding the largest penguin colony in the world this was back in 2011 at least", start: 753.36, end: 765.12}
+  - {text: "and it's this volcanic island that just rises up out of the ocean and it's completely fringed almost by penguins so I liken it to a penguin mordor you've got this volcanic cone that's continuously emitting sulfurous gases", start: 765.12, end: 779.12}
+  - {text: "and then this is covered in penguins and our objective was to go and see what the population status of the penguin colony was in December 23", start: 779.12, end: 788.52}
+  - {text: "because no one had been there to count it previously and what we found was have been this precipitous decline in the chin strap penguin population", start: 788.52, end: 795.90}
+  - {text: "so we've lost two -thirds of the numbers there which equates to about half a million breeding birds that's a colossal loss there's a rate of decline of about seven percent per annum", start: 795.90, end: 805.52}
+  - {text: "which is very steep what's happened to them why are they in such decline chin straps are what we call a maritime Antarctic species they like quite cool temperatures in the seas around the colony", start: 805.52, end: 815.68}
+  - {text: "and they feed mostly on krill which they find in this sort of habitat and what we think has happened is that as regional warming has occurred", start: 815.68, end: 824.68}
+  - {text: "so this is one of the most rapid warming areas on the planet you know the whole Scotia Sea Antarctic Peninsula area that's causing krill stocks to contract southwards", start: 824.68, end: 835.78}
+  - {text: "so the chin straps have less to eat and this is causing these population declines and we know that because we put satellite tags on these birds", start: 835.78, end: 843.52}
+  - {text: "as well as counting them using drones so how are we going to try and preserve their species and help them grow again I mean at", start: 843.52, end: 852.20}
+  - {text: "the moment they're just declining in a sort of straight line that's quite concerning and numbers also in the rest of the Scotia Sea are declining", start: 852.20, end: 860.60}
+  - {text: "and if we put those trends together the overall projected rate of decline does meet the IUCN endangered category whereas at the moment they're regarded as least concerned", start: 860.60, end: 872.66}
+  - {text: "because everyone thought these massive populations in the south sandwich islands were stable but we think that we need to revise their conservation status as Zavodowski", start: 872.66, end: 880.72}
+  - {text: "used to be the largest penguin colony in the world it no longer is so it's lost that title to the Cape Adair a daily penguin colony", start: 880.72, end: 888.18}
+  - {text: "which is on the other side of the continent on the edge of the rock sea that now holds half a million total pairs of penguins", start: 888.18, end: 895.72}
+  - {text: "so in terms of world records that's a big change as well as the quite alarming population declines at a more global level for chin strap penguins British Antarctic Survey researcher Norman Ratcliffe speaking to anchor the site", start: 895.72, end: 909.68}
+  - {text: "still to come in this podcast she's lost seven and a half stone she was due a liver transplant that's completely reversed to diabetes without any of that she wouldn't be here", start: 911.56, end: 922.40}
+  - {text: "we look at why childhood obesity numbers are growing globally this is the global news podcast it was back in January that the former Venezuelan president Nicolas Maduro", start: 923.17, end: 940.66}
+  - {text: "and his wife Celia Flores were captured by US forces in Caracas they're currently in prison in New York a waiting trial on drugs and weapons", start: 940.66, end: 949.38}
+  - {text: "charges now US prosecutors are expected to bring new charges against the couple over the alleged torture of American citizens our Latin America correspondent will grant told me more about these charges they relate", start: 949.38, end: 964.06}
+  - {text: "as we understand to the detention of 12 American citizens in Venezuelan jails they include a group of oil executives from sickle they were known as", start: 964.06, end: 973.64}
+  - {text: "the sickle six from 2017 what's called the general directorate of military counterintelligence obviously part of the maduro government held that group for five years their lawyers say they were subjected to torture during", start: 973.64, end: 988.52}
+  - {text: "that time and they were eventually released under a biden administration prisoner swap they were released in part for Celia Flores that's Nicolas Maduro's wife her children her adopted children", start: 988.52, end: 1000.70}
+  - {text: "but another of those who was also expected to be part of this case were two other former prisoners one called Matthew Heath he was a former marine", start: 1000.70, end: 1011.66}
+  - {text: "who was traveling through Venezuela in 2020 and Osman Khan who was visiting his girlfriend both men say they received extreme torture methods including waterboarding threats of sexual assault", start: 1011.66, end: 1025.24}
+  - {text: "and the use of mind -altering drugs mr maduro and his wife have been in jail in new york for some time at what point can we expect a trial well it's scheduled for the middle of next year", start: 1025.24, end: 1040.58}
+  - {text: "and that is when the prosecutors hope that their case will be in place now the idea of introducing new charges at this stage is interesting", start: 1040.58, end: 1049.58}
+  - {text: "because as you said in your introduction they are already facing trial on narcoterrorism cocaine smuggling and weapons charges it makes one wonder if the prosecutors think they have enough on a charge like narcoterrorism", start: 1049.58, end: 1063.74}
+  - {text: "or cocaine smuggling of course mr maduro and his wife have both pleaded not guilty to those charges the idea for the trump administration that he could somehow get off from those charges he could somehow be acquitted", start: 1063.74, end: 1077.28}
+  - {text: "and go free would be a huge political defeat for the trump administration perhaps introducing fresh charges we'll see later this week which are related to", start: 1077.28, end: 1087.22}
+  - {text: "the treatment of u .s citizens feels like it might be a stronger case from the u .s justice department's point of view will grant five former financial traders", start: 1087.22, end: 1097.28}
+  - {text: "who were sentenced to prison in one of the biggest scandals of the global financial crisis have had their convictions overturned by the court of appeal in london the men", start: 1097.28, end: 1107.32}
+  - {text: "who all worked for the british bank barclays were jailed for up to eight years for manipulating libor and urobor which are used to set the interest rates on millions of mortgages", start: 1107.32, end: 1118.10}
+  - {text: "and commercial loans the decision to quash their convictions on the grounds their trials were unfair has amplified calls for an inquiry into the wider rigging", start: 1118.10, end: 1128.94}
+  - {text: "scandal the uk's serious forward office maintains the two remaining convictions are safe our financial investigations correspondent andy verity has followed their cases closely and he", start: 1128.94, end: 1141.52}
+  - {text: "was at the court of appeal for wednesday's judgment for former traders their families and lawyers justice at last after they were falsely tried and wrongly", start: 1141.52, end: 1155.07}
+  - {text: "sentenced to jail following a cover -up at the top of the financial establishment dating back 18 years no senior banker was prosecuted for the 2008 financial crisis", start: 1155.07, end: 1164.73}
+  - {text: "and the recession that followed in july 2012 when barclays was fine for rigging interest rates mp's demanded arrests the chief executive bob diamond had to resign", start: 1164.73, end: 1174.69}
+  - {text: "but it was junior bankers who were prosecuted between 2015 and 2019 19 traders across the uk and us were convicted nine went to jail for the former barclays cash trader collin bermingham", start: 1174.69, end: 1188.27}
+  - {text: "who was sentenced to four years in 2019 it's been a devastating experience my mother passed away when i was in jail so she never lived to see you acquitted no", start: 1188.27, end: 1199.48}
+  - {text: "that must sting it's life isn't it his barclays colleague jonathan matthew was accused by the serious fraud office of supposedly conspiring in a fraud when he was 23 he was jailed in 2016", start: 1199.48, end: 1211.04}
+  - {text: "and it's taken 10 years to be exonerated he's now 45 at the time my first child had just been born so i missed her first birthday", start: 1211.04, end: 1219.60}
+  - {text: "because i was locked in a prison cell i couldn't even make a phone call i sold him every couple of weeks for the first sort", start: 1219.60, end: 1225.14}
+  - {text: "of six months to a year um it's just catastrophic it is it's it's you know someone's just taking a grenade and throwing it into life prison is", start: 1225.14, end: 1232.84}
+  - {text: "so different from any world that i'd ever been to or any world i'd even imagined last year a supreme court ruling in the uk quashed two convictions today's court of appeal decision overturned another five", start: 1232.84, end: 1244.68}
+  - {text: "that all might never have happened but for a cover -up right at the top of the financial establishment of evidence since discovered by the bbc it indicates", start: 1244.68, end: 1253.80}
+  - {text: "that central banks across the world including the bank of england were involved during the financial crisis in rigging benchmark interest rates libor and urebor on", start: 1253.80, end: 1263.24}
+  - {text: "a much greater scale than anything the traders were accused of now 17 of the 19 convictions of traders have been overturned it's clear that the", start: 1263.24, end: 1271.56}
+  - {text: "blame for the interest rate rigging scandal shouldn't have been put on the traders the bank of england has said the interest rate benchmark libor wasn't", start: 1271.56, end: 1279.20}
+  - {text: "regulated in the financial crisis it promised in 2017 to release its records about so -called interest rate rigging nine years later there's still to be released", start: 1279.20, end: 1288.68}
+  - {text: "and the variety the world health organization has warned against using surgery and weight loss drugs to tackle rising obesity rates in children it said that youngsters should focus on healthy eating", start: 1288.68, end: 1300.90}
+  - {text: "and physical activity as well as change their behavior most anti -obesity drugs are only licensed for children over the age of 10 but some doctors prescribed them anyway", start: 1300.90, end: 1311.46}
+  - {text: "and drug companies are already testing them on younger patients ibi struggled with her weight and mental health from the age of eight during covid and", start: 1311.46, end: 1321.08}
+  - {text: "almost took her own life after being bullied at school she was treated successfully with weight loss drugs as some other andrea explains she's lost seven", start: 1321.08, end: 1331.48}
+  - {text: "and a half stone she was due a liver transplant that's completely reversed to diabetes borderline has completely reversed and mental health because they put strategies in with a weight clinic to support us through", start: 1331.48, end: 1344.24}
+  - {text: "that has been amazing without any of that to cut it into a nutshell she wouldn't be here professor erin kelly is a pediatrician at the university of minnesota medical school", start: 1344.24, end: 1355.88}
+  - {text: "and he gave his reaction to the world health organization report they did a good job of summarizing what child that obesity is and what it isn't they talk about it", start: 1355.88, end: 1366.84}
+  - {text: "as being a chronic and relapsing and serious disease which is supported by the evidence they talk about how children and adolescents are often stigmatized bullied", start: 1366.84, end: 1377.52}
+  - {text: "and ostracized for their obesity and they also talk about importantly that kids are at higher risk if they have obesity for mental health problems like depression", start: 1377.52, end: 1386.26}
+  - {text: "and anxiety there are many health care providers that i think underestimate the severity of the disease of obesity and they overestimate the ability of people to be able to have control over their body weight", start: 1386.26, end: 1399.60}
+  - {text: "and a lot of this is controlled biologically and what about the warning not to use surgery and new weight loss drugs to tackle obesity in children does", start: 1399.60, end: 1408.90}
+  - {text: "that make sense to you well in their report they talked about how kids up to nine years old should probably not be going to medications right away except in extreme circumstances", start: 1408.90, end: 1420.74}
+  - {text: "and to be honest there are very few medications that are approved for that age range for for less than 12 years old the only medication", start: 1420.74, end: 1429.22}
+  - {text: "that is approved that i know of is approved in the EMA in europe and that is larygletide which is a glp1 receptor agonist for kids 6 to 12", start: 1429.22, end: 1437.82}
+  - {text: "but if we talk about the recommendation for 12 to 18 year olds or 12 to 19 year olds my understanding of the report is that they are recommending", start: 1437.82, end: 1448.92}
+  - {text: "that there be a requirement of health behavior and lifestyle treatment lifestyle counseling essentially to have produced unsatisfactory results before a teen could be considered for treatment with pharmacotherapy", start: 1448.92, end: 1462.36}
+  - {text: "or medications or even bariatric surgery if we look at the evidence of how the outcomes of health behavior and lifestyle treatment lifestyle counseling on average", start: 1462.36, end: 1471.70}
+  - {text: "and there's a lot of variability this doesn't apply to everyone but for most children and adolescents who engage in lifestyle treatment alone the reductions in body fat", start: 1471.70, end: 1482.70}
+  - {text: "and body weight in body mass index are clinically insignificant so it's not really that the patients themselves fail the treatments it's that the treatment fails them this speaks to the strong biological forces that are at play in combination", start: 1482.70, end: 1499.18}
+  - {text: "with us living in an obesity promoting or obesogenic environment and that's where advance therapies like medicines can be very very helpful professor erin kelly speaking to paul henley before we go hi i'm cilia hatt in one of the presenters of the global news podcast", start: 1499.88, end: 1516.80}
+  - {text: "did you know there are nearly 1300 terms and phrases used by election officials in the united states so with midterms fast approaching the global news", start: 1517.28, end: 1526.82}
+  - {text: "podcast is joining forces with americast together we'll be offering you a one -off jargon busting special and we want your suggestions please for words and phrases", start: 1526.82, end: 1537.36}
+  - {text: "that could do with an explanation nothing is too simple in our sites already are senate caucus and gerrymander please let us know what else to add it's the usual address global podcast at bbc dot co dot uk cilia hatton and", start: 1537.36, end: 1554.30}
+  - {text: "that's all from us for now if you want to get in touch you can email us at global podcast at bbc dot co dot uk", start: 1555.06, end: 1563.76}
+  - {text: "you can also find us on x at bbc world service use the hashtag global news pod and don't forget our sibling podcast the global story", start: 1563.76, end: 1573.96}
+  - {text: "which goes in -depth and beyond the headlines on one big story this edition of the global news podcast was mixed by steven bailey and the", start: 1573.96, end: 1583.58}
+  - {text: "producer was musafa shakir the editor is caron martin i'm alex ritzon until next time goodbye", start: 1583.58, end: 1590.78}
+---
