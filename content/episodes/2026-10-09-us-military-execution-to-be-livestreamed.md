@@ -1,0 +1,275 @@
+---
+layout: single
+title: "US military execution to be livestreamed"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-09T00:00:00Z
+slug: "2026-10-09-us-military-execution-to-be-livestreamed"
+audioDir: "2026-10-09-us-military-execution-to-be-livestreamed"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-09-us-military-execution-to-be-livestreamed/episode.mp3"
+totalDuration: 1852.0
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.02}
+  - {text: "I'm Alex Ritzen, and in the early hours of Friday, the 9th of October, these are our main stories.", start: 5.72, end: 12.02}
+  - {text: "The Pentagon says it will live stream the firing squad execution of a former army officer convicted of a mass shooting on a US military base.", start: 12.70, end: 21.78}
+  - {text: "In South Africa, there have been more violent anti -immigrant protests across the country.", start: 22.34, end: 27.16}
+  - {text: "Britain's former Prince Andrew wins his claim against the police over their raids on his homes.", start: 27.16, end: 33.78}
+  - {text: "The Canadian poet and writer Anne Carson wins the Nobel Prize for Literature, and what can a 194 -year -old tortoise tell us about living a long life?", start: 36.34, end: 56.46}
+  - {text: "Hassan in the United States, which is due to happen in December, was already unprecedented.", start: 62.06, end: 66.74}
+  - {text: "It would be the first military execution by firing squad of a soldier since the end of the Second World War, and the last execution in public in the US was in 1936.", start: 67.56, end: 78.06}
+  - {text: "Now, the US Defence Secretary, Pete Hegseth, has decided to go further by announcing that the execution will be live -streamed.", start: 78.48, end: 86.80}
+  - {text: "Hassan, a former army psychiatrist, shot dead 13 unarmed US soldiers at the Fort Hood military base in Texas in 2009.", start: 86.80, end: 96.12}
+  - {text: "He later said he was retaliating for America's wars in Iraq and Afghanistan.", start: 96.58, end: 101.40}
+  - {text: "Mr. Hegseth explained why the execution would be at Fort Hood.", start: 101.96, end: 106.16}
+  - {text: "I heard more from Daniel Lipman, who is a White House reporter from the website Politico.", start: 129.80, end: 135.54}
+  - {text: "This would be the first live -streamed public execution of anyone in American history.", start: 136.00, end: 142.16}
+  - {text: "Usually these things are behind closed doors, but Hegseth has made a very important, in his view, significant decision to make the military more macho.", start: 142.30, end: 151.98}
+  - {text: "He has said that the justification is that it would be a kind of a deterrent factor where people who would otherwise think to do this", start: 152.24, end: 161.14}
+  - {text: "might get turned off from doing such an act in the future.", start: 161.14, end: 165.32}
+  - {text: "Of course, the logical counterpoint to that would be people who are shooting up army bases with a dozen soldiers that they are killing.", start: 165.46, end: 175.46}
+  - {text: "They are not of sound mind, so they're not making a logical calculation there.", start: 175.92, end: 180.16}
+  - {text: "But Hegseth got this approved by Trump, and I think he is very in tune with the White House to try to please Trump and satisfy his desires.", start: 180.50, end: 191.60}
+  - {text: "The US others are normally critical of other countries which hold public executions.", start: 191.88, end: 198.66}
+  - {text: "Why is this different?", start: 198.66, end: 200.22}
+  - {text: "Trump has actually criticized the Iranian government for public executions even a couple months ago.", start: 200.36, end: 207.24}
+  - {text: "He was urging the Iranian government to not execute any of the protesters.", start: 207.32, end: 212.54}
+  - {text: "Obviously, there's no question that this man committed this heinous act.", start: 213.38, end: 218.34}
+  - {text: "But I should caveat this, that this may not even come to pass in December because Nidal Hassan may appeal this verdict, this decision, and in", start: 218.66, end: 229.26}
+  - {text: "America these court battles last for a very long time.", start: 229.26, end: 232.68}
+  - {text: "And so it could stretch into a future administration which would not want to execute him by firing squad or by live stream.", start: 232.82, end: 240.10}
+  - {text: "What's the American public going to make of this?", start: 240.76, end: 243.60}
+  - {text: "Would it be popular?", start: 243.76, end: 244.34}
+  - {text: "I'm sure that there'd be some people who would want to watch it.", start: 244.72, end: 247.40}
+  - {text: "I don't think the American news channels will carry it live, the CNN and MSNOWs of America.", start: 247.52, end: 254.00}
+  - {text: "But for a lot of Trump's space, it's young men who watch Ultimate Fighting Championship who liked seeing the UFC fight on the White House grounds.", start: 254.48, end: 264.80}
+  - {text: "And so those people are very online, and I'm sure that this would get a good viewing, but kind of satisfy the bloodlust of some Americans.", start: 265.10, end: 274.42}
+  - {text: "But I don't think that's going to win many votes for Trump in November because people who are raw about this, they would be voting for Trump anyway.", start: 274.68, end: 282.84}
+  - {text: "And this might turn off some of his, the more moderate people who would say that this is not proper.", start: 283.24, end: 288.14}
+  - {text: "Last question. Is there an element of just putting out a story like this in order that this becomes top of the news rather than some other things", start: 288.46, end: 296.72}
+  - {text: "which are going on in the United States at present?", start: 296.72, end: 298.98}
+  - {text: "That's definitely one idea where it's better in their view to be talking about this than the economy or gas prices or how the US may strike Iran again after the midterm elections.", start: 299.56, end: 312.14}
+  - {text: "So you have to kind of view the Trump administration as this is almost like a reality show where every day there's a new episode and they want to have a new story that creates more attention.", start: 313.18, end: 324.62}
+  - {text: "And they've been dogged this week by two of their top campaign operatives who went to the Balkans to work for a pro -Russian government, and they did not want that story out there, and so was not helping them.", start: 324.80, end: 336.58}
+  - {text: "So this might change the narrative for a little bit.", start: 336.68, end: 338.78}
+  - {text: "Daniel Lipman from Politico.", start: 339.08, end: 341.06}
+  - {text: "Tensions between South Africans and migrants from other countries have escalated.", start: 341.96, end: 346.44}
+  - {text: "Cars were set on fire in Soweto in Johannesburg and at the port city of Durban where shops owned by foreigners were targeted.", start: 346.92, end: 354.04}
+  - {text: "Similar scenes were also witnessed in Cape Town and the eastern Cape, Richard Hamilton reports.", start: 354.50, end: 360.12}
+  - {text: "More than a dozen cars were set alight in Soweto after protests erupted into violence.", start: 366.07, end: 372.15}
+  - {text: "Police dispersed protesters who'd stormed a refugee centre where hundreds of asylum seekers had gathered to lodge appeals.", start: 372.87, end: 380.27}
+  - {text: "It followed a ruling in July by the constitutional court requiring the government to resume processing asylum applications.", start: 380.91, end: 388.51}
+  - {text: "The clashes follow months of tensions with demonstrators demanding the deportation of foreigners living in South Africa illegally.", start: 389.27, end: 397.75}
+  - {text: "In Durban riot police were deployed to the city centre after reports that shops owned by foreign nationals were looted.", start: 398.59, end: 406.59}
+  - {text: "SEPA and PASULA is a community leader there.", start: 406.59, end: 409.97}
+  - {text: "The disappointment actually it is directed at this government.", start: 409.97, end: 413.59}
+  - {text: "The government that does not listen to its people.", start: 413.95, end: 416.27}
+  - {text: "People have been complaining about the influx of foreigners in the country and the government instead of addressing the problem you know now there was this court judgment", start: 416.75, end: 426.33}
+  - {text: "and you'll remember that there were 600 million that were spent to monitor South Africans instead of addressing the issue of illegal migration.", start: 426.33, end: 435.59}
+  - {text: "But the government said the violence was triggered by people spreading deliberately false information about the court ruling.", start: 435.97, end: 444.07}
+  - {text: "It said the judgment did not automatically grant refugee status or permanent residence to undocumented migrants.", start: 444.59, end: 452.27}
+  - {text: "In South Africa migrants are often blamed for taking jobs, fuelling crime and putting a strain on public services.", start: 452.95, end: 460.85}
+  - {text: "Claims that social scientists say are not supported by evidence.", start: 461.39, end: 465.51}
+  - {text: "Three decades since the end of apartheid the country remains deeply unequal with about a third of the population out of work.", start: 466.39, end: 474.39}
+  - {text: "Despite this it remains Africa's largest economy and continues to attract workers from other parts of the continent.", start: 474.95, end: 483.61}
+  - {text: "Richard Hamilton. British police investigating the king's brother Andrew Mountbatten -Winzer have accepted that the warrants they used to search his homes earlier this year were unlawful.", start: 484.09, end: 495.70}
+  - {text: "He was arrested by officers in February on suspicion of misconduct in public office after which he launched a challenge over the legality of the warrants.", start: 496.18, end: 505.12}
+  - {text: "The investigation in connection with his links to the late sex offender Jeffrey Epstein is ongoing.", start: 505.60, end: 511.20}
+  - {text: "The former prince has always denied any wrongdoing.", start: 511.60, end: 513.98}
+  - {text: "Our correspondent Lucy Manning was in court and has this report.", start: 514.44, end: 518.48}
+  - {text: "On the 19th of February his 66th birthday Andrew Mountbatten -Winzer was arrested very publicly on suspicion of misconduct in public office.", start: 518.95, end: 528.62}
+  - {text: "In the full glare of the media Thames Valley police searched the king's brother's home at Sandringham and his former address the royal lodge at Windsor.", start: 529.26, end: 537.68}
+  - {text: "But at the high court it was revealed that in July Thames Valley police had accepted that the search warrants they had applied for and that", start: 538.53, end: 546.97}
+  - {text: "an old Bailey judge had granted weren't lawful.", start: 546.97, end: 549.65}
+  - {text: "The judge in this hearing Mr Justice Hilliard who wasn't involved in granting the original warrants said a significant error had been made in the application and granting of the warrants.", start: 550.38, end: 561.82}
+  - {text: "They were found to be unlawful because confidential business material may have been gathered during the searches and that wasn't legally covered by the warrants issued.", start: 562.48, end: 572.00}
+  - {text: "Nick Vamos is the former head of Special Crime at the Crown Prosecution Service.", start: 572.75, end: 577.79}
+  - {text: "It's not actually that unusual in these kind of cases.", start: 578.17, end: 581.39}
+  - {text: "The police don't have a great record of applying for search warrants.", start: 581.93, end: 586.11}
+  - {text: "They often make mistakes but this should have gone under so many noses before it went to court that it's really amazing that they still managed to make a basic error.", start: 586.27, end: 594.79}
+  - {text: "The police were reviewed several years ago and they changed their processes and it's embarrassing that they're still getting things wrong.", start: 595.23, end: 602.13}
+  - {text: "Thames Valley police agreed the warrants had been issued incorrectly by the court but they still want to use the evidence gathered and have applied to the court to lawfully do so.", start: 602.55, end: 612.43}
+  - {text: "Andrew Mountbatten -Windsor opposes that.", start: 613.05, end: 615.39}
+  - {text: "In a statement the force said its inquiries into him remain ongoing and Mr Justice Hilliard said the fact that the search warrants had been quashed didn't bring the investigation to an end", start: 615.91, end: 627.81}
+  - {text: "or mean the whole of the investigation was unlawful.", start: 627.81, end: 631.37}
+  - {text: "Joshua Rosenberg is a legal expert and says the police can apply under another part of the law to retain the evidence.", start: 632.34, end: 639.80}
+  - {text: "The investigation continues. The police have not had to give back the material they seized, written material, electronic material, we don't know the details of it.", start: 640.38, end: 649.28}
+  - {text: "The reason for that is they can go back to court and say we should have been able to get this under section nine, we should have been entitled to this material,", start: 649.62, end: 658.92}
+  - {text: "we want to hang on to it until you sort it out, that's going to take some time, in the meantime they hang on to it and the investigation continues.", start: 659.42, end: 666.24}
+  - {text: "Andrew Mountbatten -Windsor has always denied any wrongdoing in relation to Jeffrey Epstein.", start: 666.92, end: 671.80}
+  - {text: "He has won this court victory but his legal battle continues.", start: 672.62, end: 676.40}
+  - {text: "Lucy Manning. The Canadian poet, writer and translator Anne Carson has won this year's Nobel Prize for Literature.", start: 676.86, end: 684.72}
+  - {text: "The 76 year old who's written more than 20 books was praised for her bold and inventive work.", start: 685.12, end: 691.04}
+  - {text: "She's been living in Iceland for several years and on Thursday the country's national broadcaster RUV stopped her on a windy hillside and asked for her reaction to winning the prize.", start: 691.56, end: 702.48}
+  - {text: "Crazy, I think they're all crazy.", start: 703.16, end: 705.28}
+  - {text: "Well you know, it's crazy.", start: 705.76, end: 707.12}
+  - {text: "Did you know beforehand or when did you receive the news yourself?", start: 708.48, end: 712.04}
+  - {text: "Just now, I mean yeah right now.", start: 712.28, end: 714.56}
+  - {text: "You were on a call with the people from the Nobel committee?", start: 715.34, end: 718.74}
+  - {text: "Yes. What was the conversation like?", start: 719.36, end: 722.60}
+  - {text: "Same as this where they're halting, they have yeah the usual questions and I have no answers.", start: 723.26, end: 731.40}
+  - {text: "Do you think this in any way changes your readership?", start: 731.98, end: 734.44}
+  - {text: "Well I guess the publisher hopes so.", start: 735.06, end: 737.46}
+  - {text: "Perhaps her most famous work is the novel Autobiography of Red.", start: 739.38, end: 743.82}
+  - {text: "It precasts the Greek myth of Geryon, the red -winged monster killed by Heracles as the tale of a modern teenage boy dealing with heartbreak and desire.", start: 744.42, end: 753.58}
+  - {text: "Here's an extract read by Simon Russell Beal.", start: 753.94, end: 757.22}
+  - {text: "It was 7 a .m.", start: 757.66, end: 759.00}
+  - {text: "Total agitation possessed him.", start: 760.04, end: 761.86}
+  - {text: "He'd held off phoning Heracles for two days.", start: 762.72, end: 764.98}
+  - {text: "Even now he was not looking at the telephone, which he'd placed in the bottom of his sock drawer.", start: 765.89, end: 770.05}
+  - {text: "He was not thinking about the two of them in their hotel room on the other side of Plaza de Mayo.", start: 771.21, end: 776.13}
+  - {text: "He was not remembering how Heracles liked to make love early in the morning like a sleepy bear taking the lid off a jar of honey.", start: 777.41, end: 784.23}
+  - {text: "To reflect on Anne Carson's body of work and its impact, Jane Hill spoke to Alice Spawls, the co -editor of the London Review of Books,", start: 784.79, end: 794.67}
+  - {text: "which has been publishing her work for the last 25 years.", start: 795.01, end: 798.69}
+  - {text: "We're absolutely delighted. I mean you know these prizes come around every year and it's always exciting to see who the book is favourite is and to see", start: 799.07, end: 806.73}
+  - {text: "who wins but this is one of those years where I think a number of people are extremely happy with the decision.", start: 806.73, end: 811.39}
+  - {text: "And I mean such an extraordinary range and an extraordinary body of work.", start: 811.39, end: 815.79}
+  - {text: "So hard to summarise I guess but you are the person to do it.", start: 815.93, end: 819.43}
+  - {text: "What makes her so special?", start: 819.85, end: 822.63}
+  - {text: "What stands out in her work for you?", start: 822.95, end: 825.57}
+  - {text: "Well where to begin?", start: 826.35, end: 827.13}
+  - {text: "I mean genre defying doesn't really get close to it.", start: 827.33, end: 830.35}
+  - {text: "She's genre destroying. I mean that there are no sort of formal borders in her work.", start: 830.37, end: 834.77}
+  - {text: "There's a lot of recognisable poetry but there's every other sort of form and nearly always you'll find that she's subverting something.", start: 834.93, end: 842.41}
+  - {text: "So any expectations that we bring to an Anne Carson piece, whether it looks like a poem or a play or something else entirely, we're going", start: 842.75, end: 850.75}
+  - {text: "to have them upset at some point for sure.", start: 850.75, end: 852.37}
+  - {text: "I mean she makes the classics hugely accessible doesn't she?", start: 852.91, end: 856.95}
+  - {text: "She does but and that has been her life's work as a classicist and a professor of Greek but she goes beyond that as well because", start: 857.55, end: 865.81}
+  - {text: "I really think she's a reader of world literature.", start: 865.81, end: 868.91}
+  - {text: "She reads Chinese, Japanese, other poetry and translation.", start: 869.23, end: 872.99}
+  - {text: "She's engaged with European philosophy with all sorts of literature.", start: 873.39, end: 876.29}
+  - {text: "So although the classics obviously speak in a very deep way to her and through her I think she's she's kind of universalist in her in her attitude", start: 876.73, end: 884.79}
+  - {text: "and in the same spirit will you know pick up a a scrap of paper with a few words on it that she sees on the street", start: 884.79, end: 891.21}
+  - {text: "and do something magical with that just as she can with Homer.", start: 891.21, end: 893.95}
+  - {text: "Goodness. I mean for anyone who hasn't read her work, do you have recommendations as to a great place to start or perhaps your own personal favourites?", start: 894.57, end: 903.09}
+  - {text: "Well I think one of the great things is you can't really go wrong because there is something so down to earth and unpretentious in everything she's written", start: 903.95, end: 910.79}
+  - {text: "that if you're anxious about engaging with something very complicated and classical you needn't fear but I have a soft spot myself for her sonnets, her Duchamp sonnet", start: 910.79, end: 922.75}
+  - {text: "and her Gertrude Stein sonnet which are just marvellous introductions to her thought and her engagement with the world which can take the high and the low", start: 922.75, end: 930.89}
+  - {text: "and make a place for them in poetry.", start: 930.89, end: 932.57}
+  - {text: "And just the way she responded how she's been telling journalists, oh I was just sweeping the kitchen floor when I found out.", start: 933.11, end: 940.01}
+  - {text: "I mean that that's someone who sounds quite down to earth to me.", start: 940.17, end: 943.41}
+  - {text: "She certainly is and I don't think you know she not necessarily someone who wants the attention of a major prize but for all of those who've been championing", start: 944.35, end: 951.97}
+  - {text: "and admiring her work for so long it's certainly well deserved.", start: 951.97, end: 954.87}
+  - {text: "Alice Spool speaking to Jane Hill.", start: 955.59, end: 957.83}
+  - {text: "Still to come in this podcast.", start: 959.92, end: 961.78}
+  - {text: "This is Rory. Which one thing do movies always get wrong about space?", start: 962.18, end: 965.76}
+  - {text: "Over. Good question Rory.", start: 966.26, end: 968.10}
+  - {text: "I would say how easy everything is.", start: 968.46, end: 970.58}
+  - {text: "Nothing up here is easy.", start: 971.04, end: 972.44}
+  - {text: "Everything is hard. The Scottish children speaking to the astronauts on the International Space Station as they pass overhead.", start: 972.44, end: 980.08}
+  - {text: "This is the Global News Podcast.", start: 987.67, end: 989.99}
+  - {text: "The technology giant Microsoft has become the latest company to be suspended from a key visa program that allows skilled foreign workers to get permanent residence status in America.", start: 990.85, end: 1001.39}
+  - {text: "Announcing the government's decision the US Vice President JD Vance accused Microsoft of abusing the system and giving away American jobs.", start: 1001.89, end: 1010.79}
+  - {text: "Microsoft laid off last year 6 ,000 American workers.", start: 1011.07, end: 1014.85}
+  - {text: "At the same time the company benefited from 6 ,300 H1B visas and almost 3 ,000 green cards.", start: 1015.05, end: 1021.21}
+  - {text: "In other words if you do the math for every worker that Microsoft laid off they replace that worker with one and a half foreign indentured servants.", start: 1021.33, end: 1030.21}
+  - {text: "Now that is a scandalous system that we've allowed in this country for far too long but thanks to the work of this task force and", start: 1030.71, end: 1036.73}
+  - {text: "thanks to the empowerment of the President of the United States we are going to stop it.", start: 1036.73, end: 1039.37}
+  - {text: "We have decided to suspend the PERM program for Microsoft which means they'll no longer be able to take those H1Bs and apply for permanent residence status within the United States of America.", start: 1039.65, end: 1050.35}
+  - {text: "Microsoft says most of the relevant visa applications in the last fiscal year were for existing employees rather than to hire new workers.", start: 1050.77, end: 1059.03}
+  - {text: "Our North America correspondent Daniel Bush told me more.", start: 1059.63, end: 1062.99}
+  - {text: "Vice President JD Vance made the announcement for the Trump administration that Microsoft and other companies are abusing green card programs the H1B visa and J1 visa programs in particular.", start: 1062.99, end: 1074.55}
+  - {text: "These are programs that allow companies to recruit foreign workers and international students for highly specialized fields such as technology, engineering and others.", start: 1075.13, end: 1084.53}
+  - {text: "This is part of a long -standing argument by the Trump administration that these jobs should be going to American workers but supporters of these programs argue that they actually grow the U .S.", start: 1084.99, end: 1095.53}
+  - {text: "economy and allow companies like Microsoft and others to fill these highly skilled jobs.", start: 1095.53, end: 1100.71}
+  - {text: "Yeah because Mr. Vance is suggesting that Microsoft laid off about 6 ,000 U .S.", start: 1101.53, end: 1105.95}
+  - {text: "workers hired a similar number from overseas but as you said highly specialized just because it laid some off.", start: 1105.97, end: 1113.17}
+  - {text: "It doesn't mean that the people it hired are doing exactly the same thing or do exactly the same thing.", start: 1113.23, end: 1118.09}
+  - {text: "That's exactly right and in fact in a statement Microsoft pushed back on the administration said it would provide more information on its H1B visa hires", start: 1118.37, end: 1126.41}
+  - {text: "but the company said that the vast majority of the thousands of employees that hired through this program in the last fiscal year were not new hires.", start: 1126.41, end: 1133.57}
+  - {text: "These were extensions of existing jobs.", start: 1133.69, end: 1135.61}
+  - {text: "This announcement of course came just hours before President Trump awarded a prestigious medal to the Microsoft CEO so awkward politics there and of course it also comes just a month", start: 1136.07, end: 1145.69}
+  - {text: "or so before an election where the administration and Republicans running for Congress are trying to defend their immigration agenda including numerous different restrictions to people trying to enter the United States legally.", start: 1145.69, end: 1156.37}
+  - {text: "Yeah as you've kind of hinted there there's presumably an awful lot of politics going on here with immigration being a very big political issue.", start: 1156.91, end: 1165.05}
+  - {text: "That's right and the administration now has argued for months that these visas are being abused by these companies that they're bad for the American economy", start: 1165.57, end: 1172.87}
+  - {text: "and it fits into the argument by President Trump by JD Vance that this America first agenda is intended to boost the American economy by prioritizing U .S.", start: 1172.87, end: 1181.99}
+  - {text: "workers and by trying to ensure that those jobs do not go to people coming from overseas and remains to be seen whether voters will buy it", start: 1182.01, end: 1189.77}
+  - {text: "and certainly polls show that although some Republicans still remain very supportive of President Trump's immigration agenda it has lost a lot of support with Democrats and with some independent voters as well.", start: 1189.77, end: 1199.57}
+  - {text: "Isn't it enormously expensive for companies to hire workers through these schemes now presumably they don't do it unless they really need to because of the cost.", start: 1199.57, end: 1209.57}
+  - {text: "That's right it's costly it's a time -consuming process these are very highly specialized visa programs intended to recruit specific workers in science technology engineering jobs", start: 1209.81, end: 1219.55}
+  - {text: "that these companies say are difficult to fill with those high skilled workers inside the United States so companies like Microsoft spend years building these programs", start: 1219.55, end: 1227.45}
+  - {text: "up going through the work of the visa application process on behalf of these job recruits so it's something that they invest a lot in and will likely push back", start: 1227.45, end: 1236.41}
+  - {text: "as Microsoft already has in the administration to try and keep these visas in place.", start: 1236.41, end: 1240.11}
+  - {text: "Daniel Bush in Washington.", start: 1240.51, end: 1242.61}
+  - {text: "Formula One is a multi -billion dollar business and nations battle over the right to hold the motorsport races but for the last 33 years there", start: 1243.85, end: 1253.09}
+  - {text: "have been no Formula One races on the African continent at all the last one took place in South Africa in the early 1990s.", start: 1253.09, end: 1261.33}
+  - {text: "Several nations including Nigeria, Morocco and South Africa have been bidding to bring the race back but it looks like it will be Rwanda that joins the Formula One calendar in 2030.", start: 1261.41, end: 1274.47}
+  - {text: "Africa Sports Correspondent Isaiah Akinrimi told Nick Miles what seems to have raised Rwanda's bid above the competition.", start: 1274.91, end: 1283.11}
+  - {text: "It's been confirmed that Rwanda will be hosting a Formula One race and I think the reason why Rwanda was giving the Nord is it looks", start: 1283.49, end: 1291.77}
+  - {text: "like this country fit into a strategy you know it has pursued for years because the Rwandan government have you know been using major international events to change perceptions of the country", start: 1291.77, end: 1304.91}
+  - {text: "and promote Kigali as a destination for tourism so you know they are bringing support into the country you know trying to sell you know the tourism sector bring about international event", start: 1304.91, end: 1315.23}
+  - {text: "and investment and Rwanda hosted the FIA General Assembly and I was in Kigali which is the Sport Africa team yeah yeah yeah the BBC Sport Africa team you know covered in 2024 you know", start: 1315.23, end: 1329.27}
+  - {text: "which shows they are really interested you know in bringing F1 to Rwanda and I think you know that has given them the edge over the", start: 1329.27, end: 1335.95}
+  - {text: "likes of South Africa to be given this Austin ride.", start: 1335.95, end: 1338.63}
+  - {text: "Now Rwanda is a relatively small country particularly compared to South Africa is there confidence do you think that it has the right infrastructure and the clout to host such a prestigious event?", start: 1339.11, end: 1350.69}
+  - {text: "Yes motorsport is really significant for the first time also the world cycling championship came to the continent of Africa last year which Rwanda hosted and", start: 1351.19, end: 1362.39}
+  - {text: "you know we've seen Rwanda trying to build a new track to be able to give them this opportunity to show to the whole world that you know the Kuda hosted the F1", start: 1362.39, end: 1370.75}
+  - {text: "and we've seen the likes of former champion Louis Armitin and Max Verstappen backing the African continent during that award and showing interest that it's time for Africa to host F1 again", start: 1370.75, end: 1381.11}
+  - {text: "and with what you know we've seen with Rwanda they've been able to do with their partnership with big European clubs like Arsenal Paris and German", start: 1381.11, end: 1388.81}
+  - {text: "so you know it shows that you know this country looks ready to bring the circuit back to Africa after more than three decades.", start: 1388.81, end: 1395.01}
+  - {text: "You talked about Rwanda trying to change perceptions about that country many people might see it as sports washing because Rwanda has a controversial reputation accusations of human rights abuses suppression of opposition groups", start: 1395.35, end: 1409.01}
+  - {text: "so this would be a controversial decision for it to host F1.", start: 1409.01, end: 1413.49}
+  - {text: "Of course it's to be controversial the critics have really come out at on Rwanda the last time you know they had sponsorship with Arsenal a", start: 1414.09, end: 1421.09}
+  - {text: "lot of people believe you know this is sports washing you know like you rightly said deflecting the human rights issues that surround the country and", start: 1421.09, end: 1428.39}
+  - {text: "they believe it's an opportunity to deflect these negative remarks.", start: 1428.39, end: 1431.31}
+  - {text: "The BBC's Africa Sports Correspondent Isaiah Akinrimi.", start: 1431.31, end: 1435.33}
+  - {text: "When Jonathan the giant tortoise originally hatched from his egg the naturalist Charles Darwin was still a young man and Britain's future Queen Victoria was a teenager.", start: 1437.08, end: 1448.88}
+  - {text: "Scientists were yet to establish that germs cause diseases and the discovery of the structure of DNA was more than a century away but at the", start: 1449.54, end: 1459.00}
+  - {text: "ripe old age of 194 Jonathan is still plodding along on the lawn of the Governor's House on the remote South Atlantic Island of St Helena.", start: 1459.00, end: 1468.54}
+  - {text: "Researchers now believe the world's oldest living land animal could potentially also help humans to live longer lives.", start: 1469.08, end: 1476.96}
+  - {text: "Here's some archive footage of a BBC radio program about the island in which the resident vet Joe Hollins introduces us to Jonathan.", start: 1477.26, end: 1486.58}
+  - {text: "I'm just walking down through the paddock now beautiful day and sometimes I can't find Jonathan immediately because he tends to tuck himself away and I think this is him down here here he is big old fella", start: 1487.08, end: 1503.27}
+  - {text: "300 pound crusty old reptile I'm very very fond of he's already coming towards me because he knows that I mean food hello there you go it's", start: 1504.92, end: 1519.68}
+  - {text: "tucking into some cabbage here very fleshy almost mammalian tongue and a long reptilian neck very much like a snake.", start: 1521.63, end: 1529.29}
+  - {text: "It's thought that one of the secrets to Jonathan's extreme longevity is what's known as mitochondria that's part of a cell that is responsible for providing living creatures with energy Stephen Clark is the senior researcher on the project", start: 1531.18, end: 1546.00}
+  - {text: "which has been studying Jonathan's DNA he told Owen Bennett Jones first how we know the age of the tortoise.", start: 1546.00, end: 1554.46}
+  - {text: "There was a photograph that was taken back in 1882 that we were been able to validate in that photograph he was fully grown so we've been able to estimate his head state.", start: 1554.74, end: 1563.44}
+  - {text: "See I thought you're going to tell me it was like a tree with rings but it isn't like that it's just very lucky that you got the evidence in this case.", start: 1564.00, end: 1569.38}
+  - {text: "Yeah we're very lucky in that regard because if we didn't have a photograph we wouldn't be able to really place this age for sure.", start: 1569.98, end: 1574.46}
+  - {text: "Okay and you've examined this tortoise's genetic code what did you find?", start: 1574.78, end: 1578.24}
+  - {text: "We found the normal corporates that we expected he had lots of mutations and genes and pathway but the thing that was kind of most surprising", start: 1578.64, end: 1585.18}
+  - {text: "for us is it looks like he's kept his mitochondria the organelles in the cells that produce energy he's kept those really young they're comparable to a five -year -old tortoise.", start: 1585.18, end: 1594.70}
+  - {text: "So he's got brilliant mitochondria and those are the cells that have enabled him to live long so they just haven't degenerated is that we are saying?", start: 1594.86, end: 1601.26}
+  - {text: "That's right when you look at the rest of his genes they look very old but when you look at the mitochondrial genes they're very pristine", start: 1601.82, end: 1607.14}
+  - {text: "and very similar to the five -year -old tortoise we compared him to.", start: 1607.14, end: 1609.80}
+  - {text: "So why would that happen?", start: 1610.06, end: 1611.10}
+  - {text: "That's the million -dollar question right that's part of the next step trying to figure out why.", start: 1611.32, end: 1615.14}
+  - {text: "Are you aware of any other sort of experiment that has discovered that an aged animal including humans has got well preserved mitochondria?", start: 1615.46, end: 1624.64}
+  - {text: "No but we've noticed over time in humans that mitochondrial dysfunction happens so we've known that there's a decline in function of the mitochondria with age in humans.", start: 1625.06, end: 1633.16}
+  - {text: "Good luck to the tortoise of course but the hope will be that this could help humans live longer is that the idea?", start: 1633.54, end: 1638.14}
+  - {text: "That's right so the next part of our nonprofit is to look for targets to go after and in this case go after the mitochondria and see", start: 1638.54, end: 1645.18}
+  - {text: "if we can make human mitochondria you know younger.", start: 1645.18, end: 1647.14}
+  - {text: "Reptile expert Stephen Clark.", start: 1647.48, end: 1649.38}
+  - {text: "In many schools around the world it's common for people with interesting careers to be invited in to tell the kids about what they do but", start: 1650.49, end: 1658.05}
+  - {text: "for one type of job coming in to inspire the kids is not an option.", start: 1658.05, end: 1662.65}
+  - {text: "So astronaut Joshua Kutrick was beamed in from the International Space Station when he was over the town of Wick in the very north of Scotland.", start: 1663.09, end: 1671.93}
+  - {text: "He was within range for just 10 minutes and the children were able to ask him questions as he hurtled at 27 ,500 kilometers an hour above their heads.", start: 1672.39, end: 1683.23}
+  - {text: "Here's some of their conversation.", start: 1683.83, end: 1685.15}
+  - {text: "This is Rory. Which one think do movies always get wrong about space?", start: 1685.95, end: 1689.57}
+  - {text: "Over. Good question Rory.", start: 1690.03, end: 1691.85}
+  - {text: "I would say how easy everything is.", start: 1692.27, end: 1694.37}
+  - {text: "Nothing up here is easy.", start: 1694.87, end: 1696.25}
+  - {text: "Everything is hard. You've been brushing your teeth and they gloss over a lot of the small points.", start: 1696.39, end: 1701.47}
+  - {text: "This is Florence. How does the food taste in space compared to here on earth?", start: 1701.77, end: 1706.93}
+  - {text: "Over. Florence because this is Fergus.", start: 1707.31, end: 1725.23}
+  - {text: "What experiment were you most excited to work on?", start: 1725.65, end: 1729.39}
+  - {text: "Over. I'm working on a lot of experiments that are designed to any astronauts to live in space.", start: 1729.81, end: 1735.62}
+  - {text: "This is Isabella. Do astronauts get space sick like getting car sick?", start: 1746.71, end: 1751.17}
+  - {text: "Over. Isabella great question.", start: 1751.55, end: 1753.17}
+  - {text: "We typically get sick.", start: 1753.37, end: 1754.73}
+  - {text: "Joshua Kutrick getting a gentle grilling from Pupils from Wick High School in Scotland.", start: 1762.56, end: 1768.94}
+  - {text: "Before we go. Hello I'm Celia Hatt in one of the presenters of the Global News podcast and I'm coming to you with a little request.", start: 1769.96, end: 1776.88}
+  - {text: "Next week we're making a special edition of the podcast along with the America's team and we're going to be looking at unusual US election vocabulary.", start: 1777.40, end: 1786.98}
+  - {text: "The words and phrases that seem to pop up around election time.", start: 1787.66, end: 1791.38}
+  - {text: "Terms like purple state or stump speech.", start: 1791.68, end: 1794.32}
+  - {text: "If you have any words or phrases you'd like to add to our list please send them over to us in an email or a voice message.", start: 1794.98, end: 1801.40}
+  - {text: "It's the usual address globalpodcastatbbc .co .uk.", start: 1801.72, end: 1806.10}
+  - {text: "Thanks and bye -bye.", start: 1806.54, end: 1807.50}
+  - {text: "And that's all from us.", start: 1809.24, end: 1811.26}
+  - {text: "For now if you want to get in touch you can email us at globalpodcastatbbc .co .uk.", start: 1811.72, end: 1818.70}
+  - {text: "You can also find us on X at BBC World Service.", start: 1819.36, end: 1822.14}
+  - {text: "Use the hashtag globalnewspod.", start: 1822.30, end: 1824.92}
+  - {text: "And don't forget our sister podcast The Global Story which goes in depth and beyond the headlines on one big story.", start: 1825.36, end: 1833.28}
+  - {text: "This edition of the Global News podcast was mixed by Darcy O 'Bree and the producer was Rebecca Wood.", start: 1833.82, end: 1840.74}
+  - {text: "The editor is Karen Martin.", start: 1840.74, end: 1843.50}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1843.96, end: 1846.30}
+---
