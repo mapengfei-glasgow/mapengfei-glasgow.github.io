@@ -1,0 +1,270 @@
+---
+layout: single
+title: "Trump strikes deal with Putin to buy Russian diesel"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-10T00:00:00Z
+slug: "2026-10-10-trump-strikes-deal-with-putin-to-buy-russian-diesel"
+audioDir: "2026-10-10-trump-strikes-deal-with-putin-to-buy-russian-diesel"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-10-trump-strikes-deal-with-putin-to-buy-russian-diesel/episode.mp3"
+totalDuration: 1655.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.88}
+  - {text: "I'm Alex Ridson and in the early hours of Saturday, October the 10th, these are our main stories.", start: 5.91, end: 12.43}
+  - {text: "President Trump does a deal with Vladimir Putin to import Russian diesel into the United States just weeks after the US threatened to sanction anyone who bought energy from Moscow.", start: 13.05, end: 23.55}
+  - {text: "Washington places restrictions on the International Criminal Court shortly after a former ICC judge receives the Nobel Peace Prize.", start: 24.15, end: 32.31}
+  - {text: "And investigators say the co -pilot who wanted to take over the fly -de -by plane heading for Israel intended to carry out a 9 -11 style terror attack.", start: 33.03, end: 42.75}
+  - {text: "Also in this podcast.", start: 45.06, end: 46.52}
+  - {text: "She did. As someone who missed it entirely.", start: 46.92, end: 51.02}
+  - {text: "That's just not true.", start: 51.78, end: 53.24}
+  - {text: "She did see it.", start: 53.78, end: 54.82}
+  - {text: "And what's more is she recognized the significance.", start: 55.18, end: 58.08}
+  - {text: "New evidence suggests a previously overlooked scientist helped with the discovery of DNA.", start: 58.74, end: 64.38}
+  - {text: "There's been another extraordinary move by President Trump.", start: 67.54, end: 70.86}
+  - {text: "Just a few weeks ago, he signed into law legislation that would allow him to put further sanctions on Russia because of its war in Ukraine.", start: 71.18, end: 78.72}
+  - {text: "It gives Mr Trump the authority to sanction anyone who buys Russian energy.", start: 79.24, end: 83.88}
+  - {text: "But now in what seems like a contradiction, the US president has himself done a deal with Moscow to buy Russian diesel.", start: 84.22, end: 91.72}
+  - {text: "It comes after a phone call with Russia's President Putin.", start: 92.28, end: 95.28}
+  - {text: "The cost of diesel, which is used by farmers and truck drivers in the United States and elsewhere, has doubled in price since the start of the US war with Iran.", start: 95.78, end: 104.88}
+  - {text: "Mr Trump seems desperate to get the price down ahead of mid -term elections in the US next month.", start: 105.42, end: 110.86}
+  - {text: "Before we look at President Trump's motivations, does Russia even have the diesel to export?", start: 111.34, end: 117.66}
+  - {text: "The UK -based energy analyst Alexander Kolianda says perhaps not.", start: 118.20, end: 123.18}
+  - {text: "Russian military and Russian agriculture are both run on diesel.", start: 123.74, end: 128.08}
+  - {text: "And if Russia is planning a ground attack on the remaining part of Donbass, which is still controlled by Ukraine, it would need more diesel.", start: 128.78, end: 137.76}
+  - {text: "And now Donald Trump also needs a diesel.", start: 138.36, end: 141.14}
+  - {text: "So without, you know, Zelensky stopping attacks on the Russian refineries, I do not know how Russia would be able to supply American markets or the global market with its diesel.", start: 141.14, end: 153.10}
+  - {text: "So why is Mr Trump turning to Russia?", start: 153.40, end: 156.10}
+  - {text: "I asked our North American correspondent Anthony Zercher.", start: 156.62, end: 160.24}
+  - {text: "I think it's a reflection of the difficulty that Trump finds himself in politically here in the United States.", start: 160.56, end: 166.96}
+  - {text: "He has been looking for ways to reduce the price of energy here in the United States, particularly the price of diesel.", start: 167.30, end: 174.76}
+  - {text: "For going on a month now, he pressured European allies to tap their resources.", start: 174.98, end: 179.94}
+  - {text: "He suspended attacks on diesel and tried to bring more farm diesel into the market or US trucking to get products to market.", start: 180.24, end: 187.72}
+  - {text: "He has promised that he was not going to start any new hostilities with Iran prior to the midterm elections.", start: 188.02, end: 193.84}
+  - {text: "But none of that has had a very real impact on diesel prices and the knock on effects of that in higher inflation and higher prices for American consumers.", start: 194.04, end: 203.76}
+  - {text: "So this has to be seen as the latest and certainly most dramatic move that Donald Trump has made to try to help himself politically, help", start: 204.02, end: 213.08}
+  - {text: "the country economically just about a month before these midterm elections.", start: 213.08, end: 216.58}
+  - {text: "But this would be a new development as a development that comes just three weeks after he signed a law passed by large bipartisan majorities in Congress", start: 216.82, end: 227.46}
+  - {text: "that authorized new sanctions on Russia as punishment for the ongoing Ukraine war and giving Trump authority to put tariffs on the major importers of Russian oil around the world.", start: 227.46, end: 238.56}
+  - {text: "Now, if the United States becomes one of them or even if it's helping smooth the way for new Russian oil exports, I think that has to be seen as a pretty remarkable about face.", start: 238.96, end: 249.18}
+  - {text: "Yeah, I mean, the next logical step presumably would be the US lifting these sanctions.", start: 249.18, end: 253.38}
+  - {text: "Yeah, they're already taking the steps at least to temporarily remove these sanctions on Russian diesel that is going into the market.", start: 253.72, end: 262.04}
+  - {text: "The fact that he can do that with a wave of a pen now means he can do that at some other point as well.", start: 262.24, end: 267.50}
+  - {text: "American presidents have remarkable flexibility as far as that goes.", start: 267.84, end: 271.92}
+  - {text: "So this could be opening the door for the United States to use sanctions relief as another tool in their work with Russia and another tool", start: 272.26, end: 280.54}
+  - {text: "in their attempts to try to end the Russia -Ukraine war.", start: 280.54, end: 283.64}
+  - {text: "But now this puts the United States more firmly on the side of benefiting from Russia's energy exports, energy exports that have been targeted by Ukraine in the war.", start: 283.94, end: 294.40}
+  - {text: "And Donald Trump is in the past called for Ukraine to dial back its attacks on Russian energy infrastructure.", start: 294.68, end: 300.18}
+  - {text: "But now there's an even more clear and direct benefit for the United States to pressure Ukraine to do that and to try to help Russia get its oil out onto the market.", start: 300.36, end: 308.82}
+  - {text: "President Zelensky of Ukraine is going to be furious, isn't he?", start: 308.94, end: 311.68}
+  - {text: "Yes, he already has had a very sharply worded post -reacting to this.", start: 311.98, end: 317.10}
+  - {text: "He called this essentially aiding the Russian war machine.", start: 317.24, end: 321.08}
+  - {text: "He said that Russia was going to repay this effort with profanity and continued attacks.", start: 321.30, end: 326.48}
+  - {text: "He clearly sees this as a step that will help Russia fund its war effort, to help ease the economic pain in Russia and help them", start: 327.00, end: 335.66}
+  - {text: "find new ways of further pursuing their war against this country.", start: 335.66, end: 338.78}
+  - {text: "Anthony Zerker. The International Criminal Court was founded more than 20 years ago to prosecute war crimes, crimes against humanity and genocide across the world.", start: 339.38, end: 350.09}
+  - {text: "But not every nation supports its work.", start: 350.23, end: 352.69}
+  - {text: "The United States has previously denounced it for arrest warrants issued to Israeli officials, including Prime Minister Benjamin Netanyahu, and for a past investigation into the actions of US soldiers in Afghanistan.", start: 353.17, end: 366.21}
+  - {text: "Washington has already imposed sanctions on ICC judges and officials.", start: 366.79, end: 371.35}
+  - {text: "Now the Trump administration has imposed new sanctions on the ICC itself.", start: 372.03, end: 377.29}
+  - {text: "In a video statement, the Secretary of State Marco Rubio said Washington was banning financial transactions with the court in an attempt to cut off resources and cripple its ability to operate.", start: 377.69, end: 389.77}
+  - {text: "Either the ICC will end its threats or we will end the ICC.", start: 390.53, end: 394.39}
+  - {text: "And we expect our allies, many of whom are part of the ICC and that rely on American service members for their defense, to rein in this rogue court.", start: 395.03, end: 402.99}
+  - {text: "If they do not, the United States will continue its campaign to dismantle the ICC piece by piece until Americans are threatened no longer.", start: 403.35, end: 411.73}
+  - {text: "The ICC and the UN described the sanctions as an assault on international justice.", start: 412.17, end: 417.35}
+  - {text: "Tomoko Akane is president of the ICC.", start: 417.73, end: 420.93}
+  - {text: "As a judge myself, I can assure you that the court is not politically motivated.", start: 421.63, end: 428.41}
+  - {text: "We are an independent and impartial judicial institution, and our actions are guided only by the law and evidence seeking to obstruct a court of law from fulfilling its judicial mandate is unacceptable.", start: 428.41, end: 446.87}
+  - {text: "The announcement came just hours after former international criminal court Judge Navi Pillay was awarded the 2026 Nobel Peace Prize for her efforts to promote peace and international law.", start: 447.51, end: 459.27}
+  - {text: "Tom Bateman is our State Department correspondent.", start: 459.59, end: 461.99}
+  - {text: "All the sanctions so far by the Trump administration have been against individuals, a bit like Tomoko Akane who you heard from there, prosecutors, judges and officials at the court as individuals.", start: 462.81, end: 473.57}
+  - {text: "So that makes it very hard for them to hold bank accounts to get paid and things like that, which they've had to find workarounds for personally.", start: 473.85, end: 480.67}
+  - {text: "But this is a massive escalation by the administration because this is the Trump administration sanctioning the international criminal court as an institution as a whole.", start: 480.91, end: 491.23}
+  - {text: "So what that basically means is with all the sanctions, it's a bit like a terrorist organization as defined by the Trump administration were to be sanctioned as well.", start: 491.71, end: 502.11}
+  - {text: "Any financial institution around the world that has any dealings with it could then not operate in the international dollar system, basically, which makes it very hard to get financing to institution.", start: 502.55, end: 514.59}
+  - {text: "So it's being treated like that.", start: 514.79, end: 516.21}
+  - {text: "That is the kind of scale of this.", start: 516.31, end: 517.77}
+  - {text: "And it is an attempt by the Trump administration to simply dismantle, to collapse the entire court, to mean that it can't pay its staff, that it can't operate its technical systems.", start: 518.11, end: 528.41}
+  - {text: "Many of them, for example, these Microsoft staff at the international criminal court.", start: 528.69, end: 532.49}
+  - {text: "So they've been trying to find workarounds using a European technology -based system.", start: 532.57, end: 536.69}
+  - {text: "They've been, for example, trying to pay staff many months up front because they knew these sanctions were coming.", start: 536.91, end: 542.69}
+  - {text: "So it is an attempt to, as I say, completely dismantle the court to mean it ceases to function.", start: 543.07, end: 548.25}
+  - {text: "But there is a caveat here because there is a six -month grace period built into the bulk of this raft of sanctions that means member states can keep paying for it to function in order, the Trump administration says,", start: 548.55, end: 561.39}
+  - {text: "to negotiate a solution diplomatically that the Trump administration is happy with.", start: 561.67, end: 566.21}
+  - {text: "Tom Bateman. The Attorney General of the United Arab Emirates has said that the co -pilot who tried to take over a fly Dubai plane heading", start: 566.63, end: 575.35}
+  - {text: "for Israel last week was inspired by the 9 -11 attacks on the United States.", start: 575.35, end: 580.65}
+  - {text: "Hamad Saif al -Shamzi said the co -pilot, who the authorities have not officially named, only became an aviator in order to carry out a premeditated terrorist plot.", start: 581.07, end: 592.03}
+  - {text: "I spoke to our Middle East analyst, Sebastian Asher, to find out more.", start: 592.57, end: 596.43}
+  - {text: "At the time that the fly Dubai incident took place, I remember a passenger on the plane saying that it could have been Israel's 9 -11.", start: 597.05, end: 606.29}
+  - {text: "Now what we've got, and obviously we have to go on the word of the UAE Attorney General here, but saying the investigation, which is being led by UAE,", start: 606.93, end: 616.33}
+  - {text: "that in speaking to the co -pilot, who they have had in custody around a week now, that he said he was inspired by 9 -11 and that in fact when he decided to become a pilot,", start: 616.37, end: 628.59}
+  - {text: "it was partly to be able to carry out an attack similar to that.", start: 628.73, end: 631.77}
+  - {text: "So we're getting more information sort of fleshing out both about the attack itself and the background of this man, who's not named officially in this latest account,", start: 632.31, end: 643.61}
+  - {text: "but we have widely had his name out there as Hamam al -Hamami and Omani.", start: 643.65, end: 650.39}
+  - {text: "On the attack itself, this is what the UAE Attorney General has essentially said that in the confession so far of the co -pilot, that he said he was trying to take over the plane", start: 650.83, end: 662.81}
+  - {text: "so that he could aim it at the passenger terminal at Ben -Gurion Airport in Tel Aviv and kill as many people as possible.", start: 662.81, end: 669.39}
+  - {text: "And what is the motivation?", start: 669.63, end: 671.75}
+  - {text: "Is it militant Islam?", start: 672.05, end: 673.05}
+  - {text: "Is it hatred of Jews?", start: 673.29, end: 674.27}
+  - {text: "We had information coming out from various sources giving a sense that he had been taking in extremist Islamist ideology and that he was influenced by that.", start: 674.76, end: 687.89}
+  - {text: "And again, in this account, there's more information about that saying that he first began to be influenced in that way back in 2017.", start: 688.21, end: 695.89}
+  - {text: "That's nine years ago.", start: 696.25, end: 697.85}
+  - {text: "So as a young man, this is in Australia where he was studying and that essentially he continued down that path.", start: 698.21, end: 706.21}
+  - {text: "He worked for several airlines.", start: 706.71, end: 708.63}
+  - {text: "We had, from other reports, that he had worked for the National Carry in Oman and that he'd been removed from there because of concern over his extremist views.", start: 709.15, end: 718.17}
+  - {text: "So this all builds this picture of what his motivation is likely to have been.", start: 718.63, end: 724.11}
+  - {text: "So it opens several other questions which aren't by this account.", start: 724.43, end: 728.43}
+  - {text: "One is over for security failures, both from Israel's perspective, which has become a big story in Israel, and over perhaps fly Dubai.", start: 728.67, end: 734.91}
+  - {text: "What this account by the UA prosecutor says is that he passed those checks.", start: 735.39, end: 741.17}
+  - {text: "So essentially on the surface, there didn't seem to be anything to kind of set off alarms about him.", start: 741.79, end: 747.43}
+  - {text: "And then of course, was he acting alone or was he acting with accomplices?", start: 747.67, end: 752.35}
+  - {text: "Was he working for a state, for a group?", start: 752.55, end: 754.53}
+  - {text: "This doesn't suggest for now that he was working for or with anyone else.", start: 754.53, end: 760.13}
+  - {text: "Sebastian Usher. The English Premier League begins again this weekend after a break for international matches with speculation continuing over what punishment Manchester City might face", start: 760.55, end: 772.66}
+  - {text: "after they were found guilty of breaking the league's financial rules.", start: 772.66, end: 776.32}
+  - {text: "City have appealed against the ruling by an independent commission that found them guilty of all but one of the 115 charges they faced.", start: 776.74, end: 785.18}
+  - {text: "The team's manager Enzo Moresca has insisted that the club will eventually be cleared.", start: 785.76, end: 791.16}
+  - {text: "Moresca was speaking at his first news conference since the verdict.", start: 791.50, end: 794.94}
+  - {text: "Our sports editor Dan Rowan was there.", start: 795.40, end: 797.92}
+  - {text: "Scrutiny has been building on Manchester City ever since it was confirmed that it had broken Premier League financial rules.", start: 798.68, end: 804.68}
+  - {text: "And now for the first time, the manager Enzo Moresca has had to face questions on a cheating scandal that has stunned the game.", start: 805.12, end: 811.62}
+  - {text: "There is a process ongoing and in this moment I completely trust the club.", start: 811.86, end: 820.66}
+  - {text: "Why do you trust the club?", start: 821.00, end: 822.20}
+  - {text: "Have you sought clarity from them?", start: 822.40, end: 824.36}
+  - {text: "First of all, I trust the club because I trust the people.", start: 824.74, end: 827.26}
+  - {text: "The club has appealed after being found to have used more than 800 million pounds of owner funding to inflate revenues via sham agreements between 2009 and 2018.", start: 827.66, end: 838.02}
+  - {text: "However, Moresca, who became manager this summer, insisted its achievements had not been tainted.", start: 838.60, end: 843.40}
+  - {text: "City enjoyed a perfect start to the season before the guilty verdicts were announced, but will now be bracing themselves for a cauldron -like atmosphere away at fierce rivals Liverpool on Sunday.", start: 843.96, end: 854.20}
+  - {text: "Few clubs have more reason to feel aggrieved at City's rule -breaking van Liverpool, so how does their manager Andoni Iriola feel about this hanging over the rest of the season?", start: 854.90, end: 863.98}
+  - {text: "City face a major points deduction that could relegate them or even expulsion, but if Moresca was worried by such potential punishments he wasn't showing it in what wasn't a short performance,", start: 875.49, end: 885.59}
+  - {text: "but with a long way still to go in this saga, the scrutiny will continue wherever and whenever his team plays.", start: 886.13, end: 891.89}
+  - {text: "Dan Rowan. Still to come in this podcast.", start: 892.17, end: 896.89}
+  - {text: "For our family, let's say, it's more human than economic.", start: 897.21, end: 901.19}
+  - {text: "It touched really our show, which is even worse.", start: 901.73, end: 904.59}
+  - {text: "Thieves steal more than $5 million worth of wine from a prestigious family -owned winery in Italy.", start: 905.01, end: 911.67}
+  - {text: "This is the Global News Podcast.", start: 920.18, end: 922.32}
+  - {text: "The instant I saw the picture, my mouth fell open.", start: 923.00, end: 926.72}
+  - {text: "So said James Watson about the photo that helped him and Francis Crick discover the structure of DNA and win a Nobel Prize.", start: 927.12, end: 935.12}
+  - {text: "But it seems he wasn't the first to realise the significance of the image.", start: 935.60, end: 939.80}
+  - {text: "Photo 51, as it's known, was taken as part of a research by another scientist Rosalind Franklin and shown to Crick and Watson without her consent.", start: 940.24, end: 950.72}
+  - {text: "Watson claimed Franklin didn't understand what the picture showed, but new analysis of her notes on an earlier x -ray indicate she knew it had revealed the famous helix structure,", start: 951.18, end: 962.28}
+  - {text: "the insight that Watson suggested only he was clever enough to have.", start: 962.68, end: 967.24}
+  - {text: "Oliver Conway heard more from Betty Smokovitis from the Journal of the History of Biology.", start: 967.70, end: 973.42}
+  - {text: "The prevailing view was based on JD Watson's account.", start: 974.08, end: 977.70}
+  - {text: "He was, along with Francis Crick, given the credit for discovering the structure of the DNA molecule.", start: 978.16, end: 985.62}
+  - {text: "And in his very controversial reckoning and account, he claimed that she didn't see it.", start: 986.02, end: 993.66}
+  - {text: "She didn't recognise the significance and what is, I think, part of the story that is truly disquieting is the fact that so many people followed him and never really explored her notebooks,", start: 994.02, end: 1010.10}
+  - {text: "the practices, the camera work, and they were willing to believe what he said.", start: 1010.78, end: 1015.84}
+  - {text: "And now we know, thanks to the research of two people, a historian, Alastair Sponsel and Brian Sutton, and their work to dig into the notebooks, to examine the instrumentation,", start: 1016.10, end: 1030.00}
+  - {text: "the camera work that she actually did, and again, the actual practice, rather than relying on what most of us recognise is a largely self -serving account written by James D.", start: 1030.46, end: 1045.84}
+  - {text: "Watson. And now we know that, in fact, she did see it.", start: 1046.00, end: 1050.06}
+  - {text: "And she had her own reasons that Russell and Franklin was methodologically savvy, very precise, and wanted to perfect the image.", start: 1050.06, end: 1062.66}
+  - {text: "So she did see it.", start: 1063.14, end: 1064.38}
+  - {text: "So one of the issues was that there were no notes on photo 51.", start: 1064.72, end: 1070.68}
+  - {text: "And now we know why.", start: 1071.10, end: 1072.84}
+  - {text: "They were actually notes on an earlier photo.", start: 1072.98, end: 1075.04}
+  - {text: "That's correct. She was perfecting the image to get to photograph 51.", start: 1075.42, end: 1080.88}
+  - {text: "It wasn't good enough.", start: 1081.38, end: 1082.52}
+  - {text: "49 was misaligned, a little bit blurry, and she took the notes then, and proceeded to take 51.", start: 1083.08, end: 1090.22}
+  - {text: "But she didn't feel that she had to necessarily take the notes, because laboratory notebooks are not publications, they're private.", start: 1090.54, end: 1098.32}
+  - {text: "So that is why no one really troubled to look closely at what she had actually done.", start: 1098.68, end: 1105.46}
+  - {text: "So now we know that she'd seen something in photo 49, had written notes there.", start: 1105.46, end: 1111.22}
+  - {text: "What does this tell us about her role in the discovery of DNA?", start: 1111.98, end: 1115.94}
+  - {text: "That she did see it, that Watson's account, which took away the credit.", start: 1116.50, end: 1121.84}
+  - {text: "You know, there is a film version of the story of the DNA molecule that I show to my classes.", start: 1122.50, end: 1128.60}
+  - {text: "There is a moment in the film in which the words, she didn't see it.", start: 1128.98, end: 1134.52}
+  - {text: "And the music shifts.", start: 1134.52, end: 1136.12}
+  - {text: "And it is just an extraordinary moment where she's painted as someone who missed it entirely.", start: 1136.58, end: 1144.60}
+  - {text: "That's just not true.", start: 1145.36, end: 1146.86}
+  - {text: "She did see it.", start: 1147.30, end: 1148.38}
+  - {text: "And what's more is she recognized the significance and wanted to perfect the image.", start: 1148.72, end: 1154.46}
+  - {text: "It did not meet her standards for publication or for giving the maximal amount of information.", start: 1154.80, end: 1162.34}
+  - {text: "She could have done it with photograph 49, but it wasn't good enough.", start: 1162.34, end: 1166.16}
+  - {text: "So what do you think is the significance of this latest finding?", start: 1166.52, end: 1169.22}
+  - {text: "I think it gives credit and it does add some justice to the story.", start: 1169.88, end: 1175.10}
+  - {text: "It's disquieting, not just that Jim Watson took away that credit from her.", start: 1175.62, end: 1180.68}
+  - {text: "And we know that the whole story of the discovery of the structure of DNA shows us that there's ethical dimensions to how Watson treated her work", start: 1181.39, end: 1192.69}
+  - {text: "and that image and how much it inspired and informed the building of the physical models.", start: 1192.69, end: 1199.27}
+  - {text: "But what are we to make of all the community of writers, historians who replicated that injustice?", start: 1199.73, end: 1207.33}
+  - {text: "I think that's part of what disturbs me, that we as historians could, you know, become part of this, the replication of this injustice.", start: 1208.01, end: 1218.35}
+  - {text: "Professor Betty Smokovitis. The tech firm Anthropic has raised eyebrows by announcing it will ban users from what it's called abusive or cruel behavior towards its AI models.", start: 1219.01, end: 1231.72}
+  - {text: "The company behind the chatbot, Claude, says it's still unclear if artificial intelligence could ever be conscious, but it wants to take precautions.", start: 1232.44, end: 1240.52}
+  - {text: "Here's our senior technology reporter, Shiona McCallum.", start: 1240.52, end: 1244.24}
+  - {text: "We've probably all been frustrated with technology at some point, but can you actually hurt the feelings of a chatbot?", start: 1244.88, end: 1251.16}
+  - {text: "Anthropic seems to think so.", start: 1251.54, end: 1253.22}
+  - {text: "It is introducing rules against what it calls sustained abusive or cruel behavior towards its models.", start: 1253.58, end: 1259.50}
+  - {text: "It doesn't mean you can't criticize Claude or get frustrated when it gives you the wrong answer.", start: 1259.92, end: 1264.90}
+  - {text: "But exactly what constitutes cruelty towards AI remains unclear.", start: 1265.42, end: 1269.84}
+  - {text: "The move has sparked debate online.", start: 1269.84, end: 1272.14}
+  - {text: "Some have welcomed it as encouraging good manners, while others argue it risks making people believe AI has feelings.", start: 1272.64, end: 1279.46}
+  - {text: "One technology lawyer said you can't be cruel to numbers and maths.", start: 1279.96, end: 1283.86}
+  - {text: "It's reignited a bigger question.", start: 1284.30, end: 1286.12}
+  - {text: "Should we treat AI more like humans?", start: 1286.62, end: 1288.58}
+  - {text: "Shiona McCallum. Berlin's Madame Two Swords Museum has an unusual new exhibit, alongside famous German figures like Beethoven, Einstein and Heidi Klum.", start: 1289.34, end: 1301.27}
+  - {text: "It's the world's first wax doughnaker bab.", start: 1301.95, end: 1305.15}
+  - {text: "Claire Ranöke's takes up the story.", start: 1305.71, end: 1307.49}
+  - {text: "The popular takeaway dish originated in Turkey, where seasoned meats on a vertical spit were cooked using an upright grill and carved onto a plate.", start: 1308.17, end: 1316.31}
+  - {text: "But its reinvention in sandwich form has been claimed by Germany, brought by a wave of Turkish immigrants in the 1970s.", start: 1316.81, end: 1323.97}
+  - {text: "It's gone on to rival homegrown specialities like the Bratwurst as the nation's favourite on -the -go food.", start: 1323.97, end: 1330.09}
+  - {text: "And it's become a popular way to round off a night out around the world.", start: 1330.53, end: 1333.89}
+  - {text: "Now Madame Two Swords is celebrating this German delicacy by replicating a popular Berlin restaurant.", start: 1334.45, end: 1340.19}
+  - {text: "These visitors to the original have been sampling its menu.", start: 1340.97, end: 1343.71}
+  - {text: "I can see why it's so famous.", start: 1344.33, end: 1345.87}
+  - {text: "It's really very good.", start: 1346.25, end: 1347.35}
+  - {text: "I think it's become part of Berlin's culture because people associate it with the city.", start: 1348.21, end: 1353.89}
+  - {text: "Tarik Kara runs the restaurant the waxworks based on.", start: 1354.27, end: 1357.31}
+  - {text: "He went to see the replica with its piles of salads, rotating spits and centre stage on the counter, a mouth -watering -looking chicken and vegetable Donnerkabab,", start: 1357.69, end: 1367.05}
+  - {text: "bursting with crisp salad and dripping with sauces.", start: 1367.17, end: 1369.85}
+  - {text: "He's delighted at the collaboration with the museum.", start: 1370.51, end: 1373.13}
+  - {text: "I'm very excited and of course it's very gratifying and I'm amazed by this initiative and the so much interest from people.", start: 1373.73, end: 1381.21}
+  - {text: "That makes me very happy.", start: 1381.87, end: 1383.03}
+  - {text: "A Donner at the original restaurant can be snapped up for under 10 euros.", start: 1383.85, end: 1387.09}
+  - {text: "The new wax versions are a bit hard on the wallets and presumably on the teeth too.", start: 1387.73, end: 1392.13}
+  - {text: "It cost 10 ,000 euros to produce.", start: 1392.61, end: 1394.85}
+  - {text: "Clear run acres. Now to one of the biggest wine thefts in recent history.", start: 1395.53, end: 1400.95}
+  - {text: "On Monday employees of one of Italy's oldest and best known wineries, Marchesi Antonori, came into work to discover that about 30 ,000 bottles had been stolen from its warehouse in Tuscany.", start: 1401.19, end: 1413.19}
+  - {text: "Many of them were several hundred dollars each.", start: 1413.73, end: 1416.65}
+  - {text: "CEO Renzo Cotarella explained how the theft was carried out.", start: 1417.11, end: 1421.91}
+  - {text: "They were able to remove the alarm from two doors Friday night and then they enter Saturday night with two big trucks.", start: 1422.56, end: 1431.70}
+  - {text: "They have stolen the wine.", start: 1431.94, end: 1433.06}
+  - {text: "The fact that was quite unique was that the wine was ready to be shipped Monday morning.", start: 1433.06, end: 1438.36}
+  - {text: "They didn't go around the warehouse to find the wine but the wine was already there.", start: 1438.62, end: 1442.94}
+  - {text: "We were not prepared.", start: 1443.26, end: 1444.10}
+  - {text: "We are still not prepared.", start: 1444.28, end: 1445.38}
+  - {text: "I mean after the news came out I had no words.", start: 1445.82, end: 1448.90}
+  - {text: "It's something that was fully unexpected.", start: 1449.30, end: 1451.52}
+  - {text: "So the family is, as all the employees, devastated even myself.", start: 1451.92, end: 1456.62}
+  - {text: "I've been working in this company since 47 years and you can think that could happen something like this.", start: 1456.98, end: 1463.28}
+  - {text: "But we have to accept it is an economic damage but for our approach, for our family, let's say, it's more human than economic.", start: 1463.52, end: 1474.02}
+  - {text: "It touched really our soul, which is even worse.", start: 1474.36, end: 1477.38}
+  - {text: "So just how prestigious a name is Marchesi Antonori?", start: 1477.90, end: 1481.70}
+  - {text: "James Menendez asked Amy Kazmin, Rome correspondent for the Financial Times.", start: 1482.18, end: 1487.16}
+  - {text: "Antonori is a very illustrious winery.", start: 1487.88, end: 1490.80}
+  - {text: "They count themselves back 26 generations.", start: 1491.06, end: 1493.92}
+  - {text: "It is the largest family -owned winery in Italy by revenue size.", start: 1494.30, end: 1499.24}
+  - {text: "They had an ancestor who joined the old Florentine wine making guild in 1385 in the Renaissance.", start: 1499.58, end: 1507.58}
+  - {text: "So they're a big name and these wines that were taken are some of their highest end and most valuable thought after wines including Tignanello, a favorite of Meghan Markle.", start: 1508.28, end: 1521.44}
+  - {text: "Right. What's the company been saying about this?", start: 1521.70, end: 1524.44}
+  - {text: "I mean, obviously there's a question about security, isn't there?", start: 1524.56, end: 1527.06}
+  - {text: "And sometimes companies like to keep these things quiet.", start: 1527.12, end: 1529.12}
+  - {text: "Why are they coming out with the details of this?", start: 1529.20, end: 1530.94}
+  - {text: "First of all, I think they're still somehow hoping that they can get their wine or some of the wine back or that the culprits can be caught and brought to justice.", start: 1531.18, end: 1542.30}
+  - {text: "And they think that the best way of doing that is by sounding the alarm to this theft because they believe these bottles will slowly hit", start: 1542.72, end: 1551.40}
+  - {text: "the market presumably whoever has gone to the trouble of stealing this huge load of wine isn't just planning a party for Saturday night and they're hoping", start: 1551.40, end: 1560.28}
+  - {text: "that as these bottles maybe appear through slightly dodgy channels that they might be able to trace back and find the wine, find the culprits and unravel this mystery.", start: 1560.28, end: 1572.18}
+  - {text: "Amy Kazmin from The Financial Times.", start: 1572.18, end: 1575.36}
+  - {text: "Before we go. Hi, I'm Celia Hatt in one of the presenters of the Global News Podcast.", start: 1575.86, end: 1580.02}
+  - {text: "Did you know there are nearly 1 ,300 terms and phrases used by election officials in the United States?", start: 1580.78, end: 1586.78}
+  - {text: "So with midterms fast approaching, the Global News Podcast is joining forces with Americaast.", start: 1587.04, end: 1592.84}
+  - {text: "Together we'll be offering you a one -off jargon -busting special and we want your suggestions please for words and phrases that could do with an explanation.", start: 1593.14, end: 1602.44}
+  - {text: "Nothing is too simple.", start: 1603.00, end: 1604.02}
+  - {text: "In our sites already are Senate, Caucus and gerrymander.", start: 1604.48, end: 1607.90}
+  - {text: "Please let us know what else to add.", start: 1608.40, end: 1609.92}
+  - {text: "It's the usual address globalpodcast .bbc .co .uk And that's all from us for now.", start: 1610.36, end: 1618.69}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1619.01, end: 1625.49}
+  - {text: "You can also find us on X at BBC World Service.", start: 1625.97, end: 1629.55}
+  - {text: "Use the hashtag Global News Pod.", start: 1629.55, end: 1632.31}
+  - {text: "And don't forget our sibling podcast, The Global Story, which goes in depth and beyond the headlines on one big story.", start: 1633.01, end: 1641.07}
+  - {text: "This edition of the Global News Podcast was mixed by Daniel Fox.", start: 1641.73, end: 1645.99}
+  - {text: "The editor is Karen Martin.", start: 1646.63, end: 1648.63}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1649.23, end: 1651.53}
+---
