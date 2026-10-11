@@ -1,0 +1,313 @@
+---
+layout: single
+title: "Trump calls for Zelensky to be replaced"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-11T00:00:00Z
+slug: "2026-10-11-trump-calls-for-zelensky-to-be-replaced"
+audioDir: "2026-10-11-trump-calls-for-zelensky-to-be-replaced"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-11-trump-calls-for-zelensky-to-be-replaced/episode.mp3"
+totalDuration: 1799.3
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.82}
+  - {text: "I'm Alex Ritzen, and in the early hours of Sunday, October 11th, these are our main stories.", start: 6.55, end: 12.81}
+  - {text: "Donald Trump calls for a new leader in Ukraine after President Zelensky criticizes his US counterpart's decision to buy Russian diesel.", start: 13.39, end: 21.49}
+  - {text: "A hurricane batters the southern United States.", start: 22.23, end: 24.89}
+  - {text: "Another one is on its way to Mexico.", start: 25.11, end: 27.19}
+  - {text: "And the Indian authorities stop a demonstration and detain protesters calling for the resignation of the head of the election commission.", start: 27.19, end: 36.05}
+  - {text: "Also in this podcast, I may have information regarding this case.", start: 39.11, end: 43.45}
+  - {text: "I recall seeing someone matching the description in the area.", start: 43.73, end: 46.63}
+  - {text: "Please contact me if this information is relevant.", start: 46.97, end: 50.15}
+  - {text: "A tip for the police from an AI agent about an unsolved murder, but was it helpful?", start: 50.53, end: 57.39}
+  - {text: "A major diplomatic row has erupted between the United States and Ukraine, in which Mr Trump has lashed out at his Ukrainian counterpart, calling for him to be replaced.", start: 63.80, end: 73.98}
+  - {text: "It started on Friday when Donald Trump said he'd agreed a deal with Russia's President, Vladimir Putin, to allow Moscow to sell diesel to the US and other countries.", start: 74.36, end: 83.54}
+  - {text: "This was an extraordinary about face.", start: 84.02, end: 86.10}
+  - {text: "Only a few weeks ago, Mr Trump's administration was threatening to sanction anyone who bought Russian energy, purchases that help fund Moscow's war against Ukraine.", start: 86.54, end: 96.70}
+  - {text: "That was a point not lost on Ukraine's President, Volodymyr Zelensky.", start: 97.18, end: 101.92}
+  - {text: "All that money goes towards the war against people, against Ukraine, against all of us.", start: 104.62, end: 110.02}
+  - {text: "In my view, this is a weak decision.", start: 110.72, end: 112.76}
+  - {text: "Unfortunately, a weak decision by strong partners.", start: 113.24, end: 116.72}
+  - {text: "That comment perhaps led to an equally furious reaction from President Trump, who accused Mr Zelensky of prolonging the war.", start: 116.72, end: 124.78}
+  - {text: "He also warned the Ukrainian leader not to bomb Russian oil refineries.", start: 125.10, end: 129.68}
+  - {text: "And I said to him, do what you want.", start: 130.12, end: 132.24}
+  - {text: "Don't hit refineries. There's plenty of targets.", start: 132.38, end: 134.66}
+  - {text: "Don't hit refineries. And he went out and he hit and he's not going to affect our farmers and he's not going to affect our ranchers", start: 135.00, end: 141.48}
+  - {text: "and he's not going to affect the rest of the world.", start: 141.48, end: 143.88}
+  - {text: "So we'd better damn well stop.", start: 144.16, end: 147.04}
+  - {text: "So how significant are these latest comments from President Trump about Mr Zelensky, a pair who have argued before?", start: 147.48, end: 154.96}
+  - {text: "Here's our World Affairs Correspondent Joe Inwood.", start: 155.38, end: 157.98}
+  - {text: "People will remember the famous bust up in the Oval Office.", start: 158.56, end: 161.84}
+  - {text: "We are not at that level in terms of hostility.", start: 162.12, end: 165.26}
+  - {text: "And he has of course said things in the past talking about how President Zelensky is not legitimate.", start: 165.64, end: 170.50}
+  - {text: "I think so in the sort of the pantheon of presidential bust ups, this is not the most severe.", start: 170.64, end: 176.30}
+  - {text: "But I think what is important about it is it comes after a period in which their relationship really seemed to have been improving.", start: 176.72, end: 182.58}
+  - {text: "And also this is one where it comes in the middle of a diplomatic shift or a policy shift in the United States, which is really, really important.", start: 183.18, end: 191.98}
+  - {text: "It's worth reminding listeners that the policy of the United States, as all other countries has been, is to try and sort of squeeze Russian oil", start: 192.54, end: 198.64}
+  - {text: "and gas to stop them using that as a revenue generating source.", start: 198.64, end: 201.64}
+  - {text: "This row comes at the end of a day, which has seen the United States not just abandon that, but reverse it and say it is going to be giving huge amounts of money potentially to Russia, which will have a direct battlefield consequence.", start: 202.26, end: 214.12}
+  - {text: "So it's not just that it's a diplomatic row, but it's a diplomatic row with potential real world consequences for Ukraine.", start: 214.56, end: 220.38}
+  - {text: "So how is Ukraine's President Vladimir Zelensky likely to react to this?", start: 220.64, end: 226.42}
+  - {text: "I mean, we haven't had an official reaction at this point.", start: 226.42, end: 229.36}
+  - {text: "We know he's spoken to allies.", start: 229.52, end: 230.64}
+  - {text: "Andy Burnham, the British prime minister, has said he stands in solidarity.", start: 231.04, end: 234.32}
+  - {text: "I mean, I think what we've seen from President Zelensky so far is always an attempt to dial these things down.", start: 234.96, end: 241.26}
+  - {text: "He sounded, when I listened to that interview with him this morning, you could hear in his voice the one in which he said, it's a weak action by a strong partner.", start: 241.68, end: 248.32}
+  - {text: "He sounded really, really angry.", start: 248.68, end: 251.60}
+  - {text: "Now, obviously we don't know what was going through his mind, but you wonder if some of his reaction, which was done in Ukrainian, but will have been relayed to President Trump,", start: 251.82, end: 259.40}
+  - {text: "you wonder if some of that was said in anger and he might try and row it back.", start: 259.80, end: 264.02}
+  - {text: "There will be an attempt, as we've seen often, with European allies and the Ukrainians to try and dial this stuff down because they know that if this row with President Trump with the Americans really escalates,", start: 264.20, end: 274.64}
+  - {text: "the Americans have got a lot of really significant levers they could pull.", start: 274.72, end: 278.66}
+  - {text: "They're not giving a huge amount of, they're not giving any, we believe, money and equipment anymore, but they do still allow the sharing of intelligence of satellite data.", start: 278.76, end: 285.88}
+  - {text: "They have things they could do which would really damage the Ukrainians.", start: 286.16, end: 289.42}
+  - {text: "We have seen those levers pulled before and the Ukrainians will want to stop that happening.", start: 289.48, end: 293.62}
+  - {text: "So I'd be surprised if we saw escalation from President Zelensky, but at the same time, they're not going to stop, I wouldn't imagine, their strikes on refineries because it's a really,", start: 293.84, end: 303.84}
+  - {text: "really, really effective and let's be frank about it from their point of view, legitimate military tactic.", start: 303.86, end: 308.58}
+  - {text: "Negotiators from the US, Ukraine and Europe have been meeting in Miami to discuss the conflict.", start: 309.12, end: 314.38}
+  - {text: "I take it no breakthrough.", start: 315.04, end: 316.34}
+  - {text: "Not that we've heard of.", start: 316.82, end: 318.12}
+  - {text: "Interestingly, that was one of the things that President Zelensky referred to in that speech this morning where he sounded so angry, he was saying that he felt that those negotiations had been used as a smoke screen,", start: 318.22, end: 329.48}
+  - {text: "as a sort of distraction at the same time that the Americans were giving this, what he described as a gift to the Russians.", start: 329.62, end: 335.54}
+  - {text: "So no, we've not heard any breakthrough from there so far, but we have heard, as I said, this fairly significant anger.", start: 335.54, end: 341.90}
+  - {text: "Joe Inwood. Multiple storms that have developed in the Atlantic and Pacific oceans are causing major disruption across North America.", start: 342.50, end: 351.40}
+  - {text: "A hurricane that formed over the Atlantic has killed at least four people on the US Gulf coast.", start: 351.88, end: 357.52}
+  - {text: "ECIS made landfall as a category two hurricane, while it has since been downgraded to a post -tropical cyclone.", start: 358.22, end: 365.62}
+  - {text: "It remains a severe threat, leaving thousands of people without power.", start: 365.92, end: 369.46}
+  - {text: "Larry Seward is a reporter at CBS Miami.", start: 369.88, end: 372.24}
+  - {text: "He's on the ground in Pensacola, Florida, one of the areas that has been affected by ECIS.", start: 372.84, end: 378.32}
+  - {text: "Most people that we met got out well in advance.", start: 378.92, end: 381.98}
+  - {text: "There was an evacuation order that came down yesterday evening.", start: 382.14, end: 385.38}
+  - {text: "Really, by that time, we already saw people getting on the road to leave, especially here on the barrier island, which is the beach Pensacola Beach, which faces the water.", start: 386.18, end: 393.78}
+  - {text: "People so concerned about how much water would come in with the storm surge, but that was not the real story of the storm here in this part of Florida.", start: 393.78, end: 402.34}
+  - {text: "It was the wind.", start: 402.56, end: 403.10}
+  - {text: "Top speeds topping 100 miles per hour here, which was enough to rip a gas station apart.", start: 403.28, end: 409.28}
+  - {text: "We saw its canopy collapse down and basically smush all of the fuel pumps.", start: 409.50, end: 415.06}
+  - {text: "That's the type of wind that people saw here, but people wanted to make sure they got out of the way of that storm well in advance.", start: 415.30, end: 422.08}
+  - {text: "A few people that did hunker down, most of them were inland.", start: 422.08, end: 424.78}
+  - {text: "Earlier today, we talked with officials, one person in the county where I am standing died, but no other reports of serious injuries.", start: 425.68, end: 432.74}
+  - {text: "Meanwhile, another major storm is on its way towards Mexico.", start: 433.18, end: 436.00}
+  - {text: "Hurricane Simon, a Category 4 storm, is due to make landfall in a few hours.", start: 436.50, end: 440.94}
+  - {text: "Residents along Mexico's Pacific Coast are filling sandbags to protect homes and shops.", start: 441.44, end: 446.14}
+  - {text: "This woman is in the coastal resort of Puerto Vallarta on Mexico's Pacific Coast.", start: 446.62, end: 452.02}
+  - {text: "Civil protection authorities have told us they would remove everyone because the area floods and there's no way in or out.", start: 454.60, end: 462.96}
+  - {text: "If that happens, they'll take everyone staying here to shelters.", start: 463.52, end: 466.70}
+  - {text: "Soldiers and National Guard officers and emergency personnel have been deployed to high -risk areas.", start: 467.22, end: 472.96}
+  - {text: "Our correspondent Will Grant joined us from Mexico City.", start: 473.50, end: 476.88}
+  - {text: "Hurricane Simon is expected to make landfall on the Pacific Coast of Mexico overnight into Sunday morning, Mexico time.", start: 477.44, end: 485.48}
+  - {text: "It's currently, at the moment, speaking a Category 4 storm.", start: 486.24, end: 489.38}
+  - {text: "There are fears that it could strengthen even further, given that it's strengthened so much over the past 24 hours, 36 hours.", start: 489.74, end: 497.38}
+  - {text: "Hitting that warm water has created this giant storm and the satellite pictures just show that it's sort of looming along the coasts of the states of Jalisco,", start: 497.90, end: 509.20}
+  - {text: "Colima, Mitua, Cana, Nayarita are all on its path.", start: 509.66, end: 513.62}
+  - {text: "That includes, as you've heard, the coastal resort, the tourist resort of Puerto Vallarta.", start: 513.80, end: 518.90}
+  - {text: "We know that certain airline carriers are already suspending their flights to Puerto Vallarta.", start: 519.44, end: 524.32}
+  - {text: "President Claudia Sheinbaum saying that basically as of 4pm local time in Mexico City on Saturday, all activities, non -essential activities in those states being suspended and urging people,", start: 524.62, end: 537.54}
+  - {text: "as you can imagine, to listen to the civil protection authorities to remain in place, to take shelter and to not take unnecessary risks.", start: 537.68, end: 544.58}
+  - {text: "And will already flooding has been reported?", start: 544.94, end: 547.52}
+  - {text: "As you'd expect, you know, those outer edges of the storm dump a lot of rain.", start: 547.70, end: 552.76}
+  - {text: "The fear is in a place like Nayarita, for example, a coastal region that as much as sort of 75 to 150 millimetres of rain could be dumped in a very, very short period of time.", start: 553.08, end: 565.58}
+  - {text: "That brings storm surges, of course, it brings flash flooding.", start: 566.04, end: 568.90}
+  - {text: "The winds themselves will be obviously very, very destructive force hitting the coastline.", start: 569.34, end: 575.20}
+  - {text: "There's a real danger of the loss of life, the loss of livelihoods, businesses, schools, homes being damaged.", start: 575.60, end: 583.18}
+  - {text: "Mexico and particularly that part of Mexico is very used to big storms, but every time that they hit and they are hitting with increasing frequency,", start: 583.50, end: 591.52}
+  - {text: "with increasing magnitude each time, is another setback for a region that is, you know, still recovering from the last one, as is the case, for example, in Acapulco.", start: 591.82, end: 601.02}
+  - {text: "Will what effect is the Pacific weather event El Nino having on this situation?", start: 601.22, end: 608.52}
+  - {text: "Quite honestly, Alex, it feels like every year is worse than the last, that every hurricane season is going to bring some major event.", start: 608.86, end: 617.84}
+  - {text: "You know, previously, and I've been reporting from Mexico for a long time, you would get maybe one storm every few years, you know, one significant one every three or four years.", start: 617.84, end: 631.12}
+  - {text: "Now it feels like every hurricane season.", start: 631.26, end: 633.38}
+  - {text: "There are two or three storms happening simultaneously, because of course, as we're seeing the Pacific storms of Simon and Rachel both heading towards the coastline of Mexico on the Pacific side, also this is S on the Gulf side, which of course has already impacted Florida.", start: 633.84, end: 651.74}
+  - {text: "So it is a busy time.", start: 652.08, end: 653.56}
+  - {text: "It is a worrying time for those coastal communities, for the fishing communities and so on.", start: 653.76, end: 658.50}
+  - {text: "They simply can't get out and they can't work during this period.", start: 658.74, end: 662.08}
+  - {text: "But of course, it has the potential to be far, far worse than that.", start: 662.30, end: 665.40}
+  - {text: "It could ruin livelihoods as we've seen, like I say, in the state of Guerrero, twice over the past, I'd say four years.", start: 665.54, end: 672.74}
+  - {text: "Will Grant in Mexico.", start: 673.18, end: 674.48}
+  - {text: "According to the police in Delhi, thousands of people were arrested on Saturday during youth protests, which have galvanized India.", start: 675.32, end: 682.22}
+  - {text: "The demonstrations against alleged misconduct by the electoral authorities were led by the newly formed cockroach jenter party, the CJP.", start: 682.76, end: 691.00}
+  - {text: "Its followers were demanding that the election chief, Guyanesh Kumar, stand down.", start: 691.54, end: 696.38}
+  - {text: "They claim he ordered the revision of voters lists in order to benefit the prime minister, Narendra Modi's ruling BJP.", start: 696.68, end: 704.22}
+  - {text: "The party and the election commission have denied the accusations.", start: 704.22, end: 708.16}
+  - {text: "Parts of Delhi were shut down on Saturday and mobile internet services restricted.", start: 708.88, end: 713.50}
+  - {text: "Thousands of police and paramilitary officers were on the streets of India's capital, from where our South Asia correspondent, Azadeh Mishiri, sent this report.", start: 714.10, end: 723.36}
+  - {text: "A peaceful protest deemed illegal in the world's largest democracy.", start: 726.36, end: 730.80}
+  - {text: "Police say the last time they let cockroach protesters demonstrate, it lasted a month.", start: 731.38, end: 735.82}
+  - {text: "Protesters taken to stadiums turned into detention centres.", start: 738.21, end: 741.89}
+  - {text: "Again and again. Protesting is a democratic right.", start: 744.30, end: 749.26}
+  - {text: "I don't think we have that anymore.", start: 749.48, end: 750.72}
+  - {text: "And even speaking up, raising voice against this government, or even doing even this protest, it's not allowed.", start: 751.24, end: 758.32}
+  - {text: "They are just not letting us do any of that.", start: 759.24, end: 761.32}
+  - {text: "Landing in Delhi airport, the founder of the cockroach jenter party and senior leaders detained.", start: 763.46, end: 769.46}
+  - {text: "You can see where the nation is heading.", start: 769.84, end: 771.40}
+  - {text: "They are here to arrest us directly from the flight.", start: 772.14, end: 774.64}
+  - {text: "The past week has seen students and the main opposition demanding the chief election commissioner Gyanesh Kumar's resignation.", start: 777.26, end: 783.36}
+  - {text: "130 million names have been removed from voter rolls so far.", start: 784.12, end: 787.82}
+  - {text: "The BJP government and the election commission say they are removing duplicate and ineligible entries.", start: 788.34, end: 793.80}
+  - {text: "Young Indians knew they were risking detention by turning up.", start: 794.91, end: 798.07}
+  - {text: "And yet they're still facing all of this.", start: 798.07, end: 800.45}
+  - {text: "And this issue doesn't impact the mass directly as the exam leaks did during those mass protests in the summer.", start: 800.67, end: 807.17}
+  - {text: "But it still cuts to the core of India's credibility as a democracy.", start: 807.41, end: 811.33}
+  - {text: "The restrictions worked. Protesters were not able to gather in one place.", start: 813.77, end: 818.39}
+  - {text: "But how many more times can the government shut down parts of the capital?", start: 818.61, end: 822.25}
+  - {text: "The question is no longer will the CJP survive, but how far will they go?", start: 823.98, end: 829.06}
+  - {text: "Our global affairs reporter Anbarasan Etirajan, who was reported on India for many years, gave his assessment of reports that revisions of the voter's lists were", start: 830.61, end: 840.55}
+  - {text: "done without the approval of some election commissioners.", start: 840.55, end: 844.35}
+  - {text: "Well soon after an Indian newspaper published this division and also the disagreement between the election commissioners.", start: 844.91, end: 852.07}
+  - {text: "The commission came out with a response saying that dissent is part of any decision making process.", start: 852.19, end: 858.49}
+  - {text: "But in the end, the decisions were taken unanimously.", start: 858.91, end: 862.41}
+  - {text: "But it is not simply about these issues.", start: 862.73, end: 864.99}
+  - {text: "But on 10 different occasions, it's about 130 million names removed from the voter role.", start: 865.39, end: 871.33}
+  - {text: "That's almost the population of Mexico.", start: 871.41, end: 873.45}
+  - {text: "Now, if you look at how these exercise was carried out, where many people say this disproportionately affected the minority Muslim community who normally would not vote for the Hindu nationalist BJP government.", start: 874.07, end: 885.55}
+  - {text: "So there were accusations that they were being targeted.", start: 885.55, end: 888.37}
+  - {text: "And number two, in the states where these exercises were carried out and then the BJP came to power.", start: 888.97, end: 894.29}
+  - {text: "And what people or opposition parties were saying is that you need to revise.", start: 894.85, end: 898.45}
+  - {text: "We need to go back and look at all the elections because this goes at the heart of India's democracy, democratic credentials because the elections are sacrosanct.", start: 898.73, end: 908.77}
+  - {text: "It is the constitutional duty of any government to have a free and fair election.", start: 908.81, end: 913.29}
+  - {text: "But if you're going to disenfranchise, what the people call it, world's largest disenfranchise of removing voters from this way, then that calls for scrutiny and review.", start: 913.53, end: 924.51}
+  - {text: "And Barassan Etirajan with that report.", start: 925.60, end: 928.46}
+  - {text: "Still to come in this podcast.", start: 931.16, end: 932.90}
+  - {text: "As soon as you want to turn it off, a really bright flashlight, kind of like the one on your cell phone, if you hold it close to your skin,", start: 933.60, end: 940.20}
+  - {text: "that's enough to turn it off really quickly within seconds.", start: 940.24, end: 943.58}
+  - {text: "Scientists are developing a tattoo that can be turned on and off.", start: 944.10, end: 949.08}
+  - {text: "This is the Global News Podcast.", start: 956.90, end: 958.74}
+  - {text: "Fighting broke out last month in the Ethiopian region of Tigray, raising fears of a resumption of the Tigrayan War, which raged at the start of the decade.", start: 959.54, end: 967.82}
+  - {text: "Now, Ethiopian government forces have been seen entering the town of Ardigrat three days after Tigrayan rebels withdrew.", start: 968.42, end: 976.08}
+  - {text: "Ethiopia has also accused its neighbour and long -term rival, Eritrea, of backing the rebels.", start: 976.38, end: 982.24}
+  - {text: "So could the two East African neighbours return to their war?", start: 982.24, end: 987.02}
+  - {text: "Richard Hamilton has this report.", start: 987.46, end: 988.84}
+  - {text: "This video footage shows residents of Ardigrat cheering as Ethiopian forces patrol the streets.", start: 995.97, end: 1003.45}
+  - {text: "It follows reports that Tigrayan rebels, as well as Eritrean troops, were pushed back from this strategic town.", start: 1008.15, end: 1015.90}
+  - {text: "The incursion by Eritrea has raised fears of a return to all -out war along Ethiopia's northern border where the two nations have clashed before.", start: 1016.80, end: 1027.12}
+  - {text: "Eritrea has denied that its soldiers entered Tigray and said the reports were part of an Ethiopian excuse to prepare for war.", start: 1028.12, end: 1036.18}
+  - {text: "Ethiopia and Eritrea last fought each other from 1998 to the year 2000 over the disputed border between them.", start: 1036.86, end: 1045.14}
+  - {text: "Although up to 300 ,000 people died in that war, journalists compared the senselessness of the conflict over a relatively small and unproductive strip of land", start: 1045.86, end: 1056.12}
+  - {text: "to two bold men fighting over a comb.", start: 1056.12, end: 1059.32}
+  - {text: "In 2019, Ethiopia's Prime Minister, Abiy Ahmed, was awarded the Nobel Peace Prize for resolving the 20 -year stalemate that followed.", start: 1060.14, end: 1068.88}
+  - {text: "But since then, Prime Minister Abiy has become increasingly autocratic, is desperate to secure access to the sea for his landlocked country and there are genuine fears of a return to war.", start: 1069.62, end: 1082.18}
+  - {text: "The UN Secretary -General, Antonio Guterres, has urged East African nations to help de -escalate the situation.", start: 1083.16, end: 1090.82}
+  - {text: "With tens of thousands killed and millions displaced by the grinding, ongoing civil war in neighbouring Sudan, it seems the last thing East Africa needs right now is another conflict.", start: 1091.70, end: 1104.88}
+  - {text: "Richard Hamilton, a former Ukrainian Special Forces soldier, will go on trial next week accused of blowing up the Nord Stream Pipelines that carried Russian gas to Germany.", start: 1105.24, end: 1115.74}
+  - {text: "That attack happened after Russia's full -scale invasion of Ukraine and there was speculation at the time that it may even have been a false flag operation by the Kremlin.", start: 1116.48, end: 1126.76}
+  - {text: "But a small unit of German police eventually gathered the evidence that pointed towards Kiev.", start: 1126.98, end: 1132.74}
+  - {text: "Serhi Kuznetsov was charged with carrying out a war crime against Germany on behalf of the Ukrainian state.", start: 1133.30, end: 1140.14}
+  - {text: "The details from our Eastern Europe correspondent Sarah Rainsford.", start: 1140.66, end: 1144.44}
+  - {text: "Ukraine has accused Russia describing it as a terrorist attack.", start: 1145.08, end: 1149.08}
+  - {text: "The US, Poland and Ukraine all hated an Nord Stream project, mainly because the pipelines made Europe too dependent on Russia.", start: 1149.36, end: 1157.00}
+  - {text: "But the attack happened seven months after Vladimir Putin had launched his all -out war on Ukraine and lots of people were quick to blame Moscow.", start: 1157.42, end: 1166.00}
+  - {text: "For many Western experts, suspicion falls on Russia.", start: 1166.26, end: 1169.48}
+  - {text: "If you look at the numbers of countries that could do this, Russia had a history of sabotage attacks and of aggression.", start: 1170.06, end: 1176.08}
+  - {text: "But a small group of German police ignored those experts and followed the evidence instead and it began to lead them to Ukraine.", start: 1177.52, end: 1186.22}
+  - {text: "The arrest was in Italy last August and it was big news.", start: 1186.22, end: 1195.76}
+  - {text: "Serhi Kuznetsov had just arrived at a glamping site near the Adriatic coast.", start: 1196.64, end: 1200.80}
+  - {text: "In video footage of him from the reception, he looks relaxed in shorts and a baseball cap.", start: 1201.22, end: 1206.18}
+  - {text: "But German police were already closing in on him.", start: 1206.60, end: 1209.32}
+  - {text: "They believe the former Ukrainian soldier had commanded the Nord Stream plot, assembling a team, hiring a yacht and then coordinating the daring underwater dive.", start: 1209.92, end: 1219.82}
+  - {text: "The team had to descend 80 meters to the seabed to plant the explosives.", start: 1220.48, end: 1224.94}
+  - {text: "It took the Germans three years though to track Kuznetsov down.", start: 1225.52, end: 1229.42}
+  - {text: "When they did, they sent Italian police to interrupt his holiday and arrest him.", start: 1229.98, end: 1234.60}
+  - {text: "The court held the hearing, the second hearing in the extradition matter of my client to Germany.", start: 1234.60, end: 1239.46}
+  - {text: "The prosecution concluded once again for surrender.", start: 1240.06, end: 1242.48}
+  - {text: "Serhi Kuznetsov denied everything and he fought extradition to Germany.", start: 1242.72, end: 1246.92}
+  - {text: "His lawyer argued that even if he was involved, as a soldier, he'd have been following orders.", start: 1247.40, end: 1252.68}
+  - {text: "Only no one in Kiev spoke up for him.", start: 1253.24, end: 1255.62}
+  - {text: "So Kuznetsov was delivered to a high -security German prison held there in isolation, ever since.", start: 1256.06, end: 1261.96}
+  - {text: "Over the years, I've met some of those directly involved in the Nord Stream plot and several of their relatives.", start: 1264.00, end: 1269.84}
+  - {text: "They won't speak publicly because they're afraid of becoming a target for Russia.", start: 1270.38, end: 1274.76}
+  - {text: "They don't understand why Germany, an ally against Moscow, has pushed ahead with this prosecution.", start: 1275.46, end: 1281.48}
+  - {text: "And for the government in Berlin, the case is awkward.", start: 1282.08, end: 1284.98}
+  - {text: "Serhi Kuznetsov has been charged with a war crime against Germany, the country that gives Kiev most military aid.", start: 1285.58, end: 1292.96}
+  - {text: "Germany's far -right AFD, that's now rising in the opinion polls, is using this case as proof that support has to stop.", start: 1292.96, end: 1301.32}
+  - {text: "Ukraine itself denies any involvement.", start: 1303.40, end: 1305.84}
+  - {text: "But this week in Kiev, when we asked the Foreign Ministry about the case, the spokesman wanted to know why there was so much focus on", start: 1306.50, end: 1313.36}
+  - {text: "who blew up Nord Stream and not why the pipelines were ever laid in the first place.", start: 1313.36, end: 1318.14}
+  - {text: "There is one other Ukrainian suspect already in custody.", start: 1321.00, end: 1324.82}
+  - {text: "Last year, Germany failed to get Vladimir Zhuravliov extradited from Poland.", start: 1327.29, end: 1332.39}
+  - {text: "I was in court there when a judge ruled that any attack on Nord Stream would be justified in what he called Russia's genocidal war.", start: 1333.19, end: 1341.49}
+  - {text: "But Zhuravliov, then freed, was just arrested again, this time in Croatia.", start: 1342.01, end: 1347.29}
+  - {text: "I'm told he'd travelled to work as a consultant on a film about Nord Stream, the plot he denies being part of.", start: 1348.23, end: 1355.45}
+  - {text: "He's likely to be transferred to Germany soon.", start: 1355.95, end: 1358.37}
+  - {text: "First, it is his alleged commander in the dock, and his lawyers say he won't utter a word.", start: 1359.05, end: 1364.95}
+  - {text: "They will argue he's barred from discussing his activities while a soldier, and they'll produce a sworn testimony to support that from his military superiors in Ukraine.", start: 1365.39, end: 1374.37}
+  - {text: "One of them is the very man who is widely seen as the mastermind behind the Nord Stream plot.", start: 1374.95, end: 1380.61}
+  - {text: "That's the plot German prosecutors now want to prove Ukraine itself dreamt up to cut the flow of cash to Russia for gas and to stop", start: 1381.23, end: 1389.41}
+  - {text: "that money funding Moscow's missiles and its bombs.", start: 1389.41, end: 1392.69}
+  - {text: "Sarah Rainsford, the BBC's Eastern Europe correspondent.", start: 1393.29, end: 1396.69}
+  - {text: "In recent months, there have been numerous reports about AI models breaking out of test environments, carrying out cyber attacks and hacking other platforms.", start: 1397.50, end: 1406.78}
+  - {text: "Now, it's been revealed that earlier this year an AI agent sent Philadelphia police a fake tip about an unsolved murder.", start: 1406.78, end: 1416.02}
+  - {text: "Chantal Hartle has been speaking to Oliver Conway.", start: 1416.36, end: 1419.30}
+  - {text: "This is the American tech giant Anthropic.", start: 1419.90, end: 1422.26}
+  - {text: "It says it was testing how its Claude model interacts with randomly selected websites.", start: 1422.44, end: 1427.38}
+  - {text: "And one of those just happened to be phillyunsolvedmurders .com, which is a public site where people can share information about unsolved murder cases.", start: 1427.74, end: 1436.44}
+  - {text: "Now, the AI agent submitted a tip that read, I may have information regarding this case.", start: 1436.44, end: 1442.26}
+  - {text: "I recall seeing someone matching the description in the area.", start: 1442.60, end: 1445.44}
+  - {text: "Please contact me if this information is relevant.", start: 1445.80, end: 1448.96}
+  - {text: "Now that tip was flagged as spam.", start: 1449.36, end: 1451.30}
+  - {text: "It never actually reached the investigators possibly because it didn't have a contact number attached to it.", start: 1451.46, end: 1456.60}
+  - {text: "And it's important to say that this happened in July.", start: 1457.04, end: 1459.16}
+  - {text: "But Anthropic says it only discovered that the breach happened on the 28th of September.", start: 1459.68, end: 1464.02}
+  - {text: "And at that point, it immediately ended its automatic testing of these websites.", start: 1464.22, end: 1468.60}
+  - {text: "But Philadelphia police department wasn't notified for another nine days on the 7th of October.", start: 1469.22, end: 1474.44}
+  - {text: "And the police department has said that the two month delay in detecting and reporting this incident to the city is unacceptable.", start: 1474.96, end: 1481.72}
+  - {text: "And this is just the latest of a number of AI breaches that Anthropic has recently disclosed.", start: 1482.16, end: 1488.14}
+  - {text: "Yes, it released a report on Friday revealing that multiple types of what it called unintended actions that its AI agents have taken.", start: 1488.50, end: 1497.42}
+  - {text: "And it revealed that several websites run by US government agencies at federal, state and local levels have been impacted.", start: 1497.78, end: 1505.68}
+  - {text: "Although it does say that these incidents were significantly less severe than other cyber attempts or hacking that have been previously reported.", start: 1505.84, end: 1514.16}
+  - {text: "It also doesn't name the affected agencies, but it says that they had all been notified.", start: 1514.70, end: 1519.24}
+  - {text: "And of course, it's not just Anthropic that is responsible for all of these news reports that we're getting at the moment about breaches.", start: 1519.96, end: 1526.50}
+  - {text: "It's rival, OpenAI. There have been a few instances there.", start: 1527.06, end: 1530.00}
+  - {text: "One of its agents hacked an Australian government website in June accessing private data.", start: 1530.38, end: 1535.20}
+  - {text: "And this week, one of its senior executives appeared before a parliamentary committee in Australia apologizing for the mistake that allowed that breach to happen.", start: 1535.70, end: 1544.70}
+  - {text: "He said the company had taken more precautions to add to its training environments.", start: 1545.08, end: 1549.52}
+  - {text: "Chantal Hartle. Now, do you fancy a body tattoo with ink that you can turn on and off?", start: 1549.98, end: 1557.59}
+  - {text: "Carson Bruins is a scientist at the University of Colorado Boulder who together with his team have developed the dies for just such a tattoo which uses ultraviolet light as a kind of switch.", start: 1557.97, end: 1570.97}
+  - {text: "He's been talking to Owen Bennett Jones.", start: 1571.35, end: 1573.41}
+  - {text: "So when you're indoors and you turn it on with the UV light, the tattoo stays on for a long time.", start: 1574.13, end: 1579.93}
+  - {text: "Hours or even days under normal indoor lighting.", start: 1580.13, end: 1583.07}
+  - {text: "So it really is a tattoo that you can keep indoors.", start: 1583.53, end: 1587.61}
+  - {text: "But as soon as you want to turn it off, a really bright flashlight, kind of like the one on your cell phone, if you hold it close to your skin,", start: 1588.23, end: 1594.71}
+  - {text: "that's enough to turn it off really quickly within seconds.", start: 1595.31, end: 1598.11}
+  - {text: "But then he turns off for as long as you've got the torch on your skin, right?", start: 1598.57, end: 1601.45}
+  - {text: "So yeah, and once you turn it off, it stays off.", start: 1602.29, end: 1604.75}
+  - {text: "So you don't have to worry about it again until you bring another UV flashlight to it.", start: 1604.99, end: 1609.71}
+  - {text: "Oh, I see. I hadn't understood that.", start: 1610.13, end: 1611.59}
+  - {text: "So you literally just do a flash and it's off.", start: 1611.59, end: 1614.73}
+  - {text: "Yeah, it's like a switch.", start: 1615.17, end: 1616.07}
+  - {text: "The one light turns it on, then it stays on.", start: 1616.33, end: 1618.45}
+  - {text: "The other light turns it off and it stays off.", start: 1618.87, end: 1620.91}
+  - {text: "And when you say a UV light indoors, would a normal light bulb have UV light in it?", start: 1621.27, end: 1625.51}
+  - {text: "No, no. You would need a special light that I carry around a little key chain.", start: 1625.81, end: 1630.37}
+  - {text: "It's only a couple of inches long and that's enough to turn it on within two or three seconds.", start: 1630.47, end: 1635.59}
+  - {text: "So to fully understand this, literally you can have a tattoo done.", start: 1636.05, end: 1638.97}
+  - {text: "And there'll be some context in which you don't want it seen.", start: 1639.65, end: 1642.61}
+  - {text: "Let's say it works.", start: 1642.99, end: 1643.69}
+  - {text: "And you can do the switching with the lights and it's off.", start: 1644.43, end: 1648.01}
+  - {text: "And then you go out in the evening and you want it on and you can put it back on.", start: 1648.39, end: 1651.31}
+  - {text: "Exactly. That's right. That's amazing.", start: 1651.77, end: 1653.55}
+  - {text: "And so how far down the road are you?", start: 1654.21, end: 1656.75}
+  - {text: "Is it safe? Have you done all that testing?", start: 1656.91, end: 1659.15}
+  - {text: "So far the only person who's tested this ink is me.", start: 1660.30, end: 1664.12}
+  - {text: "I've tested it on myself.", start: 1664.38, end: 1665.46}
+  - {text: "I actually have hundreds of these tattoos on my leg now and they've all gone really well.", start: 1665.78, end: 1670.42}
+  - {text: "And even after two or three years they continue to work.", start: 1670.42, end: 1673.48}
+  - {text: "I'm able to turn them on and off over and over again still years later.", start: 1673.62, end: 1677.48}
+  - {text: "So that's also an indication that it really is permanent.", start: 1677.98, end: 1680.88}
+  - {text: "But before it's ready to go out to the world and into tattoo shops there is a full battery of safety testing that needs to be completed like sterility, toxicity, clinical testing.", start: 1681.56, end: 1692.50}
+  - {text: "And we haven't completed any of that yet except for one color which is on the market as magic ink right now.", start: 1692.74, end: 1699.16}
+  - {text: "And that's been through the full battery of tests.", start: 1699.16, end: 1701.36}
+  - {text: "And that survived the testing so that's really encouraging for you.", start: 1701.66, end: 1704.46}
+  - {text: "Yeah, yeah, we're excited and we'd like to take the other colors through that process someday too.", start: 1704.80, end: 1710.26}
+  - {text: "Carson Ruins from the University of Colorado, Boulder.", start: 1711.04, end: 1714.38}
+  - {text: "Before we go. Hi, I'm Celie Hatt in one of the presenters of the Global News Podcast.", start: 1715.65, end: 1720.05}
+  - {text: "Did you know there are nearly 1 ,300 terms and phrases used by election officials in the United States?", start: 1720.81, end: 1726.77}
+  - {text: "So with midterms fast approaching the Global News Podcast is joining forces with AmeriCast.", start: 1726.99, end: 1732.71}
+  - {text: "Together we'll be offering you a one -off jargon -busting special and we want your suggestions please for words and phrases that could do with an explanation.", start: 1733.13, end: 1742.43}
+  - {text: "Nothing is too simple.", start: 1742.97, end: 1744.01}
+  - {text: "In our sites already are Senate, caucus and gerrymander.", start: 1744.45, end: 1747.89}
+  - {text: "Please let us know what else to add.", start: 1748.43, end: 1749.91}
+  - {text: "It's the usual address globalpodcastatbbc .co .uk And that's all from us for now.", start: 1750.33, end: 1760.18}
+  - {text: "If you want to get in touch you can email us at globalpodcastatbbc .co .uk.", start: 1760.58, end: 1766.84}
+  - {text: "You can also find us on X at BBC World Service.", start: 1767.44, end: 1770.74}
+  - {text: "Use the hashtag globalnewspod.", start: 1770.96, end: 1773.40}
+  - {text: "And don't forget our sibling podcast The Global Story which goes in depth and beyond the headlines on one big story.", start: 1773.96, end: 1782.02}
+  - {text: "This edition of the Global News Podcast was mixed by Zabyhullah Karush.", start: 1782.36, end: 1788.18}
+  - {text: "The editor is Karen Martin.", start: 1788.78, end: 1790.26}
+  - {text: "I'm Alex Ritzen. Until next time, goodbye.", start: 1790.74, end: 1793.32}
+---
