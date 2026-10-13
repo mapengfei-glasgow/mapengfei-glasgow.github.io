@@ -1,0 +1,307 @@
+---
+layout: single
+title: "Houthis attack Saudi airport for third time in four days"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-12T00:00:00Z
+slug: "2026-10-12-houthis-attack-saudi-airport-for-third-time-in-four-days"
+audioDir: "2026-10-12-houthis-attack-saudi-airport-for-third-time-in-four-days"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-12-houthis-attack-saudi-airport-for-third-time-in-four-days/episode.mp3"
+totalDuration: 1635.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.12}
+  - {text: "I'm Pete Ross in the early hours of Monday, the 12th of October.", start: 6.15, end: 9.37}
+  - {text: "The ad airport has struck for the third time in four days as Yemen's Houthi rebels continue to escalate their attacks on Saudi Arabia.", start: 9.71, end: 16.79}
+  - {text: "Russia continues strikes on Ukraine despite Donald Trump declaring a partial ceasefire.", start: 17.51, end: 22.03}
+  - {text: "Also in this podcast...", start: 25.44, end: 26.90}
+  - {text: "It does of course bring some serious effects to those coastal communities dumping large amounts of rain.", start: 26.90, end: 33.10}
+  - {text: "The winds have been suggested they could be as high as 220 kilometres an hour.", start: 33.48, end: 38.96}
+  - {text: "Hurricane Simon batters Mexico's Pacific coast.", start: 39.38, end: 42.22}
+  - {text: "We begin with a fresh escalation to a conflict in the Middle East.", start: 47.56, end: 50.98}
+  - {text: "The Yemen base group known as the Houthis have continued their attacks on Saudi Arabia.", start: 51.34, end: 55.68}
+  - {text: "On Sunday they hit the main international airport in the capital Riyadh for the third time in four days.", start: 56.04, end: 61.86}
+  - {text: "One person was killed.", start: 62.18, end: 63.24}
+  - {text: "A strike there on Saturday killed at least 13 people and injured more than 300.", start: 63.60, end: 68.04}
+  - {text: "The Houthis who are backed by Iran say they're targeting Saudi Arabia over its support for government forces in Yemen's civil war.", start: 68.68, end: 75.72}
+  - {text: "The continuing attacks appear to be undermining Saudi Arabia's reputation as a haven for stability in the region.", start: 76.22, end: 82.42}
+  - {text: "They also have the potential to widen the regional fallout of the US -Iran War and further disrupt the region's economy.", start: 82.92, end: 89.54}
+  - {text: "Our world news correspondent Joe Inwood has this report on the impact of Saturday's attack and the background to the conflict.", start: 90.02, end: 96.78}
+  - {text: "Chaos at one of Saudi Arabia's most important airports.", start: 98.90, end: 102.72}
+  - {text: "Inside the terminal the damage is clear.", start: 103.54, end: 105.88}
+  - {text: "The result of a missile strike.", start: 106.54, end: 107.96}
+  - {text: "More than 300 people injured.", start: 109.03, end: 110.85}
+  - {text: "Emergency services said to be overwhelmed.", start: 111.47, end: 113.73}
+  - {text: "The Houthis have claimed responsibility for this attack as well as one at a state -run gas plant.", start: 114.55, end: 119.87}
+  - {text: "The Iran -backed group control large parts of Yemen, Saudi Arabia's strategically significant southern neighbour.", start: 122.12, end: 128.32}
+  - {text: "For more than a decade the Houthis have been involved in a brutal civil war with the internationally recognised government which has Saudi backing.", start: 129.00, end: 136.48}
+  - {text: "Now for the last couple of years there's been an uneasy truce but that was shattered in recent months.", start: 137.26, end: 142.72}
+  - {text: "The Houthis made lightning advances down the Red Sea coast last month giving them an even greater ability to threaten shipping in the Red Sea.", start: 143.35, end: 151.68}
+  - {text: "Now Saudi Arabia responded with airstrikes and with the government recently retooks some territory.", start: 152.54, end: 157.94}
+  - {text: "The Houthi response to that could be seen at Riyadh airport.", start: 159.08, end: 162.58}
+  - {text: "Last night from the US president condemnation of the attack but no promise of support.", start: 163.21, end: 168.83}
+  - {text: "I think it's terrible.", start: 169.39, end: 170.29}
+  - {text: "Well they're able to defend, look the Saudis are good fighters but I think the attack was a terrible thing.", start: 174.65, end: 180.68}
+  - {text: "This attack was one of the most severe on Saudi soil in over a decade.", start: 181.22, end: 185.08}
+  - {text: "Some of those killed are now being identified.", start: 185.94, end: 188.24}
+  - {text: "One of them, Bethayna Oeda was a mother of four from Syria.", start: 189.06, end: 192.64}
+  - {text: "She was a victim of a conflict she had no part in but that seems to be escalating dangerously.", start: 193.22, end: 199.16}
+  - {text: "Joe Inwood. So what are the implications of these attacks?", start: 199.82, end: 203.02}
+  - {text: "Our senior international correspondent, Urla Geran is in the Yemeni city of Aden.", start: 203.38, end: 207.88}
+  - {text: "The conflicts in this region are intertwined and one of those conflicts is certainly now getting worse.", start: 208.24, end: 213.90}
+  - {text: "The attack on the airport in Riyadh was a major strike by the Houthis.", start: 214.58, end: 218.84}
+  - {text: "They managed to target a building that was not only economically important to Saudi Arabia but also a very politically sensitive site.", start: 219.46, end: 228.58}
+  - {text: "Now since the strike on Saturday the Houthis have struck again.", start: 229.20, end: 232.38}
+  - {text: "We know they have hit a building at the airport.", start: 232.88, end: 234.98}
+  - {text: "The Houthis are saying that Saudi airspace remains a target.", start: 235.52, end: 239.06}
+  - {text: "They are telling airlines to stay away and say that that warning should be heeded.", start: 239.46, end: 244.26}
+  - {text: "Now Saudi Arabia for its part has pledged a decisive retaliation.", start: 244.80, end: 249.56}
+  - {text: "Now we don't know what that will be but people here in the region are certainly bracing for an escalation.", start: 249.78, end: 255.92}
+  - {text: "And then there's the question of what this means for Donald Trump.", start: 256.10, end: 259.00}
+  - {text: "His great ally Saudi Arabia has now been hit hard.", start: 259.54, end: 262.88}
+  - {text: "The Saudis were already asking for more help.", start: 263.34, end: 266.10}
+  - {text: "He was holding back.", start: 266.22, end: 267.16}
+  - {text: "Now he has a dilemma.", start: 267.78, end: 268.92}
+  - {text: "Does he step in to help them with direct military aid or does he risk looking weak?", start: 269.26, end: 274.20}
+  - {text: "And of course he has to think about the midterms which are fast approaching.", start: 274.48, end: 278.52}
+  - {text: "And there is also a dimension to all of this that stretches far beyond the Middle East.", start: 279.00, end: 284.08}
+  - {text: "This renewed increased insecurity is going to drive concerns about the flow of global exports from this region.", start: 284.24, end: 293.88}
+  - {text: "The Houthis have taken control of the strategic strait of Bab al -Manda.", start: 294.46, end: 298.10}
+  - {text: "That's already a problem.", start: 298.38, end: 299.64}
+  - {text: "So all of this will exacerbate concerns about global surprise and fears about prices.", start: 300.16, end: 305.56}
+  - {text: "So the impact will be felt well beyond this region.", start: 305.56, end: 309.10}
+  - {text: "Or Lagerin. Another conflict that's affecting energy prices is, of course, Ukraine.", start: 309.70, end: 314.89}
+  - {text: "Let's have a look at the latest on that.", start: 315.49, end: 317.09}
+  - {text: "Now on Sunday, Donald Trump declared what he called an energy ceasefire between Russia and Ukraine.", start: 317.43, end: 322.47}
+  - {text: "President Vladimir Zelensky said it was news to him.", start: 323.11, end: 325.51}
+  - {text: "And while the Kremlin hasn't commented, according to Ukraine, Russian attacks on Ukrainian energy sites are continuing.", start: 325.71, end: 331.95}
+  - {text: "This report is from our correspondent in Kiev, Dan Johnson.", start: 332.43, end: 335.69}
+  - {text: "On the edge of Harkiv this evening, a reminder, Russia has not stopped attacking Ukraine.", start: 336.35, end: 344.65}
+  - {text: "This woman was filming after the sirens asking where would be hit.", start: 347.04, end: 351.22}
+  - {text: "She was lucky to survive.", start: 353.68, end: 354.84}
+  - {text: "A strike on a shop that killed three people and injured more than 20.", start: 355.10, end: 359.52}
+  - {text: "This just hours after Donald Trump announced his partial truce.", start: 360.53, end: 365.05}
+  - {text: "On Truth Social, he wrote, effective immediately, there is an energy ceasefire in the war between Russia and Ukraine.", start: 365.65, end: 372.89}
+  - {text: "Both parties have agreed to not break it.", start: 373.47, end: 376.91}
+  - {text: "Ukraine's been targeting Russian oil refineries in response to attacks on its own power grid.", start: 379.54, end: 384.52}
+  - {text: "Ukraine said it was ready to cease if Russia did the same.", start: 385.24, end: 388.24}
+  - {text: "But Donald Trump's announcement appeared to come as a surprise to President Zelensky.", start: 388.56, end: 392.80}
+  - {text: "Ukraine is ready to refrain from striking Russia's energy infrastructure.", start: 394.22, end: 398.62}
+  - {text: "And we expect Russia to show the same readiness and honor the agreement reached with the president of the United States.", start: 399.04, end: 406.24}
+  - {text: "He'd better damn well stop.", start: 407.16, end: 408.96}
+  - {text: "It's been a tense weekend of fractured U .S.-Ukraine relations.", start: 409.28, end: 413.32}
+  - {text: "I suggest they get a new leader who can make a deal.", start: 413.76, end: 417.04}
+  - {text: "The rout started when Donald Trump lifted export restrictions on Russian diesel, many believe, to ease fuel prices driven up by the war in Iran.", start: 417.52, end: 426.34}
+  - {text: "In Kiev, the streets have fallen dark and quiet as its power network has been pounded.", start: 429.62, end: 435.44}
+  - {text: "Many people here are without light, heat or water because electricity is needed to pump it.", start: 435.94, end: 441.24}
+  - {text: "Ukrainians are braced for a very difficult few months ahead into the winter.", start: 441.40, end: 445.88}
+  - {text: "Dan Johnson in Kiev.", start: 446.54, end: 447.66}
+  - {text: "As we heard, Mr.", start: 448.00, end: 448.70}
+  - {text: "Trump's claims of an energy ceasefire come just days after he announced a deal to import Russian diesel into the U .S.", start: 448.98, end: 455.26}
+  - {text: "The president is keen to reduce fuel prices.", start: 455.78, end: 458.16}
+  - {text: "Ed Atovic reports from New York.", start: 458.44, end: 460.02}
+  - {text: "Diesel and gasoline prices have more than doubled since President Trump decided to launch a war against Iran earlier this year.", start: 460.42, end: 467.68}
+  - {text: "And if you look at polling, it shows the majority of Americans disapprove of the president's handling of the economy and the war.", start: 468.04, end: 475.12}
+  - {text: "So he is under tremendous pressure to bring prices down with midterm elections just over three weeks away.", start: 475.28, end: 481.90}
+  - {text: "And it looks like Republicans will struggle to maintain their control of Congress in a political environment where cost of living is the dominant concern.", start: 481.90, end: 490.68}
+  - {text: "And there is nothing that Donald Trump hates more than losing.", start: 490.94, end: 494.22}
+  - {text: "He has already implemented a number of small measures to lower fuel costs.", start: 494.46, end: 498.60}
+  - {text: "But the reality is that prices won't come down in a meaningful way unless the current wars affecting prices are solved.", start: 498.98, end: 506.46}
+  - {text: "And President Trump has rejected a deal with Iran, leaving him to focus on Ukraine.", start: 506.56, end: 511.48}
+  - {text: "It seems he is more interested in being able to announce success.", start: 511.90, end: 515.50}
+  - {text: "An energy ceasefire deal, no matter if it is premature and thin on details.", start: 515.90, end: 520.12}
+  - {text: "And on his announcement earlier of a deal to open up Russian diesel fuel to U .S.", start: 520.72, end: 525.38}
+  - {text: "markets, well, a number of lawmakers, including from his own party, have criticized it.", start: 525.42, end: 530.44}
+  - {text: "In fact, a bipartisan group of senators said the deal ran directly counter to a law passed by Congress that banned Russian energy imports to prevent American dollars financing Russia's war.", start: 530.76, end: 542.66}
+  - {text: "And they've urged him to reverse course.", start: 543.04, end: 544.68}
+  - {text: "Nidda Tovok, for the last few days, people along the Pacific coast of Mexico have been preparing themselves for Hurricane Simon.", start: 545.18, end: 551.86}
+  - {text: "In our previous edition, we reported that the category four storm was expected to make landfall on Sunday.", start: 552.58, end: 558.08}
+  - {text: "But at the time of recording, the eye of the storm was skirting the coast.", start: 558.68, end: 561.82}
+  - {text: "Nevertheless, powerful winds and torrential rain are lashing resorts and vulnerable towns.", start: 562.32, end: 566.72}
+  - {text: "So where is it?", start: 567.10, end: 567.80}
+  - {text: "Our correspondent will grant joined us from Mexico City.", start: 568.38, end: 571.22}
+  - {text: "The last update that I saw was that Hurricane Simon is about 70 to 60 kilometres off the coast of the state of the Pacific state of Jalisco.", start: 571.60, end: 582.00}
+  - {text: "And if you like moving parallel to the coastline, moving up the coastline, which, while it hasn't yet made landfall, it does, of course, bring some serious effects to those coastal communities dumping, large amounts of rain.", start: 582.46, end: 596.38}
+  - {text: "The winds have been suggested they could be as high as 220 kilometres.", start: 596.78, end: 601.50}
+  - {text: "And our Claudia Schoenbaum, the president, urging residents of four Pacific states to stay indoors, to avoid any contact with a storm this large and to not underestimate its destructive power.", start: 601.88, end: 616.36}
+  - {text: "What sort of damage has the storm brought?", start: 616.82, end: 619.48}
+  - {text: "As you say, it's not made landfall, which is, of course, a positive thing for those living in land.", start: 619.60, end: 624.26}
+  - {text: "But those coastal communities, can you give us a sense of the kind of populations there quite popular with tourists?", start: 624.26, end: 629.86}
+  - {text: "They are the one that really stands out as Puerto Vallarta.", start: 630.48, end: 633.22}
+  - {text: "That's an important tourist destination in the state of Jalisco.", start: 633.44, end: 637.28}
+  - {text: "I've seen that one of the main national airlines in this country is now not running to Puerto Vallarta or, in fact, a whole number of smaller airports along the coast.", start: 637.64, end: 649.26}
+  - {text: "I think we can expect that to be echoed by pretty much all of the main carriers in Mexico.", start: 649.66, end: 653.92}
+  - {text: "It's just simply far too risky to be trying to land in Puerto Vallarta right now, which makes it obviously uncomfortable for tourists.", start: 654.20, end: 661.42}
+  - {text: "But you're right. Those smaller fishing villages, some of whom are just a few thousands strong, they're very, very vulnerable at a time like this.", start: 661.68, end: 668.98}
+  - {text: "The size of the storm, if those 220 kilometre an hour winds do materialise, and if the thing does actually make landfall could be extremely destructive.", start: 669.14, end: 679.52}
+  - {text: "We've seen that the marines are out in force.", start: 679.52, end: 682.82}
+  - {text: "We've seen that the civil protection authorities are working around the clock.", start: 683.02, end: 687.50}
+  - {text: "And of course, business owners, homeowners, backing down everything they can, boarding up their homes and doing what they can.", start: 687.84, end: 694.48}
+  - {text: "And will you've lived in the region for years?", start: 695.02, end: 697.00}
+  - {text: "Are these types of storms becoming more common?", start: 697.22, end: 699.52}
+  - {text: "They really are. It's been so noticeable in the time that I've lived in Mexico that it's gotten worse and worse.", start: 699.74, end: 705.94}
+  - {text: "I was first here as a correspondent in 2011.", start: 706.06, end: 708.44}
+  - {text: "Just once or twice, you might do a big story every, you know, every couple of years.", start: 708.44, end: 713.26}
+  - {text: "Now, it feels like every single time that hurricane season comes around.", start: 713.60, end: 717.60}
+  - {text: "If it's not here, then it's in the Gulf.", start: 717.96, end: 719.62}
+  - {text: "If it's not Mexico, it's Cuba.", start: 719.90, end: 721.46}
+  - {text: "If it's not Cuba, it's hate, you know what I mean?", start: 721.94, end: 723.88}
+  - {text: "It really is a constant background mood music.", start: 724.06, end: 727.30}
+  - {text: "It's the magnitude on the one hand, but the frequency on the other of the storms because, as we know, it's not just been hurricane Simon this weekend.", start: 727.46, end: 735.76}
+  - {text: "It's also been Hurricane Sias, which has hit into Florida.", start: 735.76, end: 740.48}
+  - {text: "So between all of them, it is pretty bleak and complex picture for the authorities and those communities that we've spoken about.", start: 740.90, end: 747.86}
+  - {text: "We'll grant in Mexico City.", start: 748.58, end: 750.16}
+  - {text: "Still to come in this podcast.", start: 752.80, end: 754.40}
+  - {text: "How many people are in the water?", start: 754.80, end: 756.08}
+  - {text: "How incidents are reported?", start: 756.40, end: 758.02}
+  - {text: "Climate change adds another layer to that.", start: 758.44, end: 760.84}
+  - {text: "As the ocean warms, habitats shift and prey moves.", start: 760.96, end: 764.34}
+  - {text: "What may be driving an increase in shark attacks in Australia?", start: 764.98, end: 768.24}
+  - {text: "This is the Global News podcast.", start: 775.33, end: 777.13}
+  - {text: "BBC Africa, I has revealed that three mourners shot and killed by police at a national farewell for Kenya's former prime minister last year were not involved in the class that sparked a gunfire.", start: 778.28, end: 788.30}
+  - {text: "Forensic analysis by the BBC World Service suggests an elite police unit responsible for protecting the president may have fired the fatal shot in a football stadium packed with thousands who'd come to see the body of Rila Odinga, Runaka Selina reports.", start: 788.92, end: 803.44}
+  - {text: "In death as in life, Rila Odinga had an ability to draw crowds.", start: 807.39, end: 812.33}
+  - {text: "Tens of thousands packed Nairobi streets to see his coffin a year ago as his body returned home from India, where the veteran opposition leader and former prime minister had died.", start: 813.09, end: 823.61}
+  - {text: "The crowds were so large, authorities abandoned the public viewing at Parliament, redirecting his body instead to a stadium on the edge of the city.", start: 825.97, end: 835.05}
+  - {text: "Mourners spilled onto the pitch and into the stands.", start: 837.47, end: 840.39}
+  - {text: "Andrew Kenga was one of them recording videos for TikTok.", start: 841.05, end: 843.91}
+  - {text: "Outside, there was no security.", start: 844.96, end: 846.72}
+  - {text: "Everyone was getting in, whichever entry was open.", start: 847.50, end: 849.86}
+  - {text: "People got impatient of waiting for Rila's body.", start: 850.40, end: 853.00}
+  - {text: "There are some politicians who try to come the crowd down, telling them just chill the bodies on the way.", start: 853.52, end: 860.60}
+  - {text: "Hours of waiting in the heat with no water or official updates turned confusion into anger.", start: 861.04, end: 867.42}
+  - {text: "A scuffle breaks out in a section close to the pitch, reserved for the president and other dignitaries, followed by gunfire.", start: 868.02, end: 875.24}
+  - {text: "36 year old Vincent Ogutu was one of three men killed by a gunshot wound to the chest.", start: 879.64, end: 885.54}
+  - {text: "BBC Africa Eye has spent months analysing hundreds of videos and images.", start: 886.74, end: 892.00}
+  - {text: "We locate Vincent sitting high in the stands, more than 160 metres away from the chaos below.", start: 892.00, end: 898.68}
+  - {text: "His body is carried out and loaded into the back of a truck.", start: 899.48, end: 902.64}
+  - {text: "His father is inconsolable, wailing over the body of his only son.", start: 905.71, end: 910.69}
+  - {text: "An independent investigation is ongoing.", start: 912.14, end: 914.36}
+  - {text: "A year on, his wife Yvonne and three children want to know why he was killed and who was responsible.", start: 915.30, end: 923.28}
+  - {text: "I would just try to be that strong man, very strong.", start: 923.86, end: 927.58}
+  - {text: "But deep inside, there is a hole.", start: 928.26, end: 931.20}
+  - {text: "You know, it is very painful because sometimes you just sit down and you ask yourself, why are there so many people, so many of them?", start: 933.10, end: 944.80}
+  - {text: "Why? Why him? Our ballistic analysis points to the VIP area, where we can see officers aiming as the most likely source of the bullets that killed Vincent.", start: 945.62, end: 958.18}
+  - {text: "These men wear tactical clothing, their faces covered.", start: 960.28, end: 963.82}
+  - {text: "We've identified it as an elite unit responsible for presidential protection.", start: 964.62, end: 968.94}
+  - {text: "The BBC cannot rule out the possibility that other officers also fired.", start: 969.60, end: 973.96}
+  - {text: "Kenya's Interior Minister Kipchumba Murkomen, who was at the stadium that day, told us the investigation's findings would determine what action is taken.", start: 977.92, end: 987.26}
+  - {text: "We continue sending our condolences to the families that lost their loved ones.", start: 987.78, end: 991.50}
+  - {text: "Let me tell you, even if your son or your daughter was culpable of any act or so forth, it's still painful for every family.", start: 991.96, end: 1000.38}
+  - {text: "Our investigation found no evidence that Vincent or the other two victims, Evans Kitche or Jida Burka, were involved in any wrongdoing that day.", start: 1000.92, end: 1011.02}
+  - {text: "We put our findings to Kenya's police.", start: 1011.66, end: 1013.74}
+  - {text: "They acknowledged there were huge lessons to be learned for a better, more professional police response.", start: 1014.42, end: 1020.50}
+  - {text: "Kenya's police watchdog, Aipoa, which is investigating the events, did not respond to our request for comment.", start: 1021.36, end: 1027.68}
+  - {text: "Runaka Selina. And you can watch the full documentary, BBC Africa Eye, Goodbye Rila, on the BBC News Africa YouTube channel.", start: 1028.24, end: 1035.92}
+  - {text: "About carrying hundreds of migrants from Djibouti to Yemen has sunk, leaving almost 140 people dead.", start: 1037.36, end: 1042.90}
+  - {text: "The International Organization for Migration says more than 80 others are still missing and rescue operations are continuing.", start: 1043.58, end: 1050.30}
+  - {text: "Alex Kosak from the IOM said their teams had been on the coast of Djibouti, helping the local authorities.", start: 1051.00, end: 1056.72}
+  - {text: "He described what he had seen.", start: 1057.18, end: 1058.58}
+  - {text: "It's very tragic, very difficult to describe, sorry.", start: 1059.06, end: 1061.78}
+  - {text: "But many, many, many dead bodies that were on the sea that have been pushed on the sea.", start: 1061.78, end: 1066.74}
+  - {text: "So I saw devastation.", start: 1067.12, end: 1068.96}
+  - {text: "Oliver Conway heard more from our global affairs reporter, Richard Kugoi.", start: 1069.36, end: 1072.72}
+  - {text: "In terms of the incident, we knew from what we've had from some of the survivors, they say that the boat was overcrowded.", start: 1073.16, end: 1080.42}
+  - {text: "In fact, they say that just the moment as they were boarding, it started sinking.", start: 1080.54, end: 1084.40}
+  - {text: "So they could tell, actually, there was a problem with the vessel itself.", start: 1085.00, end: 1088.60}
+  - {text: "So far, we know that 84 people are missing.", start: 1089.16, end: 1092.00}
+  - {text: "And as such, in rescue operation is being coordinated by the Djibouti authorities.", start: 1092.50, end: 1097.52}
+  - {text: "And 82 have been rescued.", start: 1098.36, end: 1099.76}
+  - {text: "They are all from Ethiopia.", start: 1100.12, end: 1101.88}
+  - {text: "And they're saying that there's a likelihood that the toll could increase.", start: 1102.66, end: 1106.80}
+  - {text: "So it's just a very difficult operation at the moment.", start: 1107.20, end: 1110.36}
+  - {text: "And it's still ongoing.", start: 1110.46, end: 1111.36}
+  - {text: "And the fact that it's going into the dark, it's likely really going to complicate the exercise itself.", start: 1111.78, end: 1117.24}
+  - {text: "And the boat sank on Saturday night, just shortly after it set off from Djibouti, just near the northern town of Obok.", start: 1117.24, end: 1125.48}
+  - {text: "So they had traveled from Ethiopia.", start: 1125.86, end: 1127.86}
+  - {text: "Do we know why they were heading to Warton, Yemen?", start: 1128.40, end: 1131.48}
+  - {text: "Yes, a majority of those on board.", start: 1132.70, end: 1135.90}
+  - {text: "It's it's, in fact, interesting because I saw that 150 people who are in the boat now, which sank, had actually attempted even the crossing and our turn back and they were just trying, you know, their luck this time around.", start: 1136.10, end: 1148.84}
+  - {text: "So the majority from Ethiopia and also a bit of them are from Somalia.", start: 1149.34, end: 1155.10}
+  - {text: "So they were heading to Yemen because they normally use what is called the eastern route.", start: 1155.54, end: 1161.36}
+  - {text: "So across the Red Sea from Djibouti and then overland in Yemen.", start: 1161.62, end: 1165.94}
+  - {text: "In the attempt perhaps to reach the Gulf states are mostly through the southern border of Saudi Arabia.", start: 1166.20, end: 1172.68}
+  - {text: "And how busy is this migration route?", start: 1172.68, end: 1175.98}
+  - {text: "Well, it's it's busy because if you look at the statistics by the International Organization for Migration just this year alone, about 178 ,000 people have just arrived in Djibouti.", start: 1176.66, end: 1188.92}
+  - {text: "That's between the month of January and October.", start: 1189.00, end: 1191.58}
+  - {text: "And since September the 10th, there about 20 ,000 people who have crossed just from neighboring Ethiopia into Djibouti.", start: 1192.06, end: 1200.08}
+  - {text: "So it's a very busy crossing.", start: 1200.08, end: 1202.68}
+  - {text: "It's about a 20 kilometer separation between Djibouti and Yemen, but also is subjected to rough seas that puts a lot of people traveling using all sorts of boats at risk.", start: 1203.22, end: 1215.12}
+  - {text: "So a majority of them attempt to do that.", start: 1215.54, end: 1217.58}
+  - {text: "And despite the fact that actually there's a war ongoing in Yemen, but they're saying that they're risking it all just to try their luck.", start: 1217.68, end: 1224.14}
+  - {text: "Richard Kugoi in Nairobi.", start: 1224.64, end: 1226.38}
+  - {text: "Pope Leo says he'll have surgery to remove a lump found on his lung during a recent scan.", start: 1227.17, end: 1232.27}
+  - {text: "The Pope, who's 71, made the announcement to a crowd gathered for the traditional Sunday Angelus prayer in the Vatican.", start: 1232.95, end: 1239.03}
+  - {text: "Our correspondent Sarah Rainsford spoke to us from there.", start: 1239.43, end: 1242.33}
+  - {text: "A real surprise, I think, for the Catholics who gathered here as they do every Sunday for that blessing from the balcony by the Pope only to hear him make this announcement.", start: 1242.75, end: 1250.99}
+  - {text: "Now, what he said is that during medical checkups, doctors discovered a nodule on his lung.", start: 1258.87, end: 1264.35}
+  - {text: "Now, he said that was detected as he put it at a very early stage and well localized.", start: 1264.65, end: 1269.47}
+  - {text: "But even so, his doctors had advised him that he should have an operation to have that removed.", start: 1270.01, end: 1274.19}
+  - {text: "So he said he would follow that advice and he's expected to check into hospital in the next few days for that operation.", start: 1274.31, end: 1279.69}
+  - {text: "And the Vatican is saying it'll take him around about a week to recover from that operation.", start: 1279.81, end: 1284.59}
+  - {text: "Now, the Vatican is not giving any more details than that at the moment.", start: 1285.15, end: 1288.59}
+  - {text: "Certainly, we know that nodules like this are relatively common and that they're not normally cancerous, but Catholics will be concerned, particularly because the Pope, as you said,", start: 1288.85, end: 1296.75}
+  - {text: "is relatively young for a Pope he's always been thought of as fit and healthy.", start: 1296.79, end: 1300.43}
+  - {text: "And this is the first health scare of his papacy since he was elected last year.", start: 1300.85, end: 1305.27}
+  - {text: "He was quite serene as he made the announcement from the balcony here, though.", start: 1305.35, end: 1308.73}
+  - {text: "And he did mention a trip he has planned in November to Peru when it does seem that that trip is still planned to go ahead.", start: 1308.97, end: 1315.73}
+  - {text: "Sarah Rainsford. Australia has seen a steady increase in shark attacks over the past three decades.", start: 1316.37, end: 1322.91}
+  - {text: "In January this year, there were four in 48 hours alone.", start: 1323.31, end: 1327.17}
+  - {text: "Last month, the 63 year old man from the western city of Perth was killed by a great white while sunning close to the shore.", start: 1327.87, end: 1334.71}
+  - {text: "The BBC's Ryan Keane has been exploring what might be driving the rise in attacks and the impact on those who survive.", start: 1335.11, end: 1341.39}
+  - {text: "And a warning that some of the details in Ryan's report may be upsetting.", start: 1341.39, end: 1346.15}
+  - {text: "In 2018, Justine Barwick left her home state of Tasmania to travel to the Witsunday Islands, located off Australia's northeastern coast.", start: 1351.22, end: 1359.68}
+  - {text: "Soon after she set off on a yacht with her husband and friends, tragedy unfolded.", start: 1360.42, end: 1365.12}
+  - {text: "I stood on the deck of the boat and I dived in.", start: 1365.38, end: 1369.12}
+  - {text: "As I came back up and my head surfaced the water, that's when the shark attacked me.", start: 1370.99, end: 1376.79}
+  - {text: "Years later, I still don't have the words to fully describe that moment.", start: 1377.13, end: 1382.67}
+  - {text: "Somehow, perhaps fuelled by adrenaline, Justine managed to push herself away from what was likely a tiger shock and swim towards the stern of the yacht.", start: 1383.19, end: 1391.15}
+  - {text: "I tried to get up the swim ladder and I couldn't work out why my right leg wasn't working.", start: 1391.45, end: 1396.59}
+  - {text: "But then when I got into the cockpit of the boat with some help from my husband and one of my friends, I looked down and I saw my thigh.", start: 1397.03, end: 1406.85}
+  - {text: "All of the inside of my right thigh was gone.", start: 1407.17, end: 1409.39}
+  - {text: "My femoral artery wasn't just severed, it was gone.", start: 1410.11, end: 1412.31}
+  - {text: "Her peers called the emergency services who set off to help.", start: 1412.85, end: 1415.79}
+  - {text: "I was then taken to Makai Base Hospital.", start: 1418.26, end: 1422.14}
+  - {text: "While shark attacks are declining across most of the globe, in Australia, they've been increasing over the past 30 years.", start: 1422.74, end: 1428.68}
+  - {text: "In the 1990s, there were roughly eight to ten attacks per year there.", start: 1429.20, end: 1432.70}
+  - {text: "Since the start of the 2020s, the case average has been in the high 20s.", start: 1433.14, end: 1438.12}
+  - {text: "Jodie Rummer, a marine scientist at James Cook University in Queensland, explains why.", start: 1438.24, end: 1443.02}
+  - {text: "Those numbers are influenced by a lot of things.", start: 1443.34, end: 1445.80}
+  - {text: "How many people are in the water?", start: 1446.54, end: 1447.84}
+  - {text: "How incidents are reported?", start: 1448.14, end: 1449.78}
+  - {text: "And of course, where sharks are and where their prey are occurring.", start: 1450.26, end: 1454.56}
+  - {text: "Climate change adds another layer to that.", start: 1456.00, end: 1458.58}
+  - {text: "As the ocean warms, oxygen conditions change.", start: 1459.22, end: 1462.08}
+  - {text: "Habitat shifts and prey moves.", start: 1462.08, end: 1465.16}
+  - {text: "Not only does warmer water all around mean a shark's habitat can expand closer to human activity, but as the sea warms, it acidifies, affecting water visibility.", start: 1466.13, end: 1474.85}
+  - {text: "Since sharks rely heavily on electroreception, the ability to sense the electrical signals of potential prey, it can be harder for them to tell a person apart from a seal or ray in these climatic conditions.", start: 1475.77, end: 1486.07}
+  - {text: "Experts like Jodie also wished to emphasise that it's the environment around Australian sharks that has changed, not necessarily their behaviour.", start: 1486.81, end: 1493.69}
+  - {text: "I think what's really important when we talk about shark bite numbers is not to jump straight into the conclusion that sharks are becoming more aggressive.", start: 1494.25, end: 1502.77}
+  - {text: "Shark bites are still extremely rare.", start: 1503.37, end: 1505.61}
+  - {text: "Justine agrees that we should be more understanding to sharks as she continues to process what happened to her eight years on.", start: 1506.05, end: 1512.53}
+  - {text: "I've undergone several huge operations and the biggest one being an 18 hour surgery where they moved muscle from my tummy to my thigh to reconstruct my leg.", start: 1512.91, end: 1524.71}
+  - {text: "And I'm so grateful to have my leg doesn't work quite the way it used to.", start: 1524.81, end: 1529.09}
+  - {text: "Life will never be the same, but life is also so good.", start: 1529.61, end: 1534.15}
+  - {text: "And for me, even to get back on the boat, it has been a big deal.", start: 1534.51, end: 1539.39}
+  - {text: "I love our natural environments here in Australia.", start: 1539.71, end: 1542.37}
+  - {text: "You know, we go swimming knowing that this is the home of wildlife that keeps our planet healthy.", start: 1542.37, end: 1550.07}
+  - {text: "I have no anger about this shark attack at all.", start: 1550.67, end: 1554.89}
+  - {text: "Justine Borewick, ending that report by Ryan Kinne.", start: 1555.49, end: 1558.71}
+  - {text: "And before we go.", start: 1558.85, end: 1559.91}
+  - {text: "Hi, I'm Celia Hatt in one of the presenters of the Global News podcast.", start: 1560.27, end: 1563.29}
+  - {text: "Did you know there are nearly 1300 terms and phrases used by election officials in the United States?", start: 1564.13, end: 1570.03}
+  - {text: "So with midterms fast approaching, the Global News podcast is joining forces with America's together.", start: 1570.03, end: 1576.23}
+  - {text: "We'll be offering you a one -off jargon busting special.", start: 1576.35, end: 1580.21}
+  - {text: "And we want your suggestions, please, for words and phrases that could do with an explanation.", start: 1580.53, end: 1585.73}
+  - {text: "Nothing is too simple.", start: 1586.17, end: 1587.27}
+  - {text: "In our sites already are Senate caucus and gerrymander.", start: 1587.69, end: 1591.15}
+  - {text: "Please let us know what else to add.", start: 1591.43, end: 1593.17}
+  - {text: "It's the usual address global podcast at bbc .co .uk.", start: 1593.53, end: 1597.79}
+  - {text: "And that's all from us for now.", start: 1601.94, end: 1603.62}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1603.92, end: 1608.54}
+  - {text: "You can also find us on X at BBC World Service.", start: 1608.82, end: 1611.40}
+  - {text: "Use the hashtag Global News Pod.", start: 1612.00, end: 1614.06}
+  - {text: "And don't forget our sister podcast, The Global Story, which goes in -depth and beyond the headlines on one big story.", start: 1614.62, end: 1620.66}
+  - {text: "This edition of the Global News podcast was mixed by Chris Oblakwa.", start: 1621.28, end: 1624.30}
+  - {text: "The editor is Karen Martin.", start: 1624.76, end: 1625.94}
+  - {text: "I'm Pete Ross. Until next time. Goodbye.", start: 1626.34, end: 1628.68}
+---

@@ -1,0 +1,237 @@
+---
+layout: single
+title: "Annual dementia cases could double by 2050"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-13T00:00:00Z
+slug: "2026-10-13-annual-dementia-cases-could-double-by-2050"
+audioDir: "2026-10-13-annual-dementia-cases-could-double-by-2050"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-13-annual-dementia-cases-could-double-by-2050/episode.mp3"
+totalDuration: 1662.3
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.02}
+  - {text: "I'm Nick Miles and in the early hours of Tuesday the 13th of October these are our main stories.", start: 4.99, end: 9.91}
+  - {text: "The number of people diagnosed every year with dementia is predicted to double by 2050, according to a major international study.", start: 10.57, end: 18.21}
+  - {text: "As Houthi strikes continue to hit Saudi Arabia from Yemen, we hear from our correspondent travelling with Yemeni government troops who are trying to push the militants back.", start: 18.99, end: 28.15}
+  - {text: "And the US Democratic Congresswoman Ilhan Omar has accused President Trump of political intimidation after federal immigration agents raided her Washington home.", start: 28.83, end: 38.63}
+  - {text: "Also in this podcast, $276 million in donations since July, we find out what Elon Musk has to gain from bank -rolling Republicans in the US mid -term elections.", start: 41.47, end: 60.95}
+  - {text: "And it's six months since Hungary's nationalist Fidesz party was ousted from power, so what's changed under the new government?", start: 60.98, end: 72.70}
+  - {text: "We begin with an important new study about a condition that is a major cause of deaths around the world.", start: 76.73, end: 82.39}
+  - {text: "Dementia develops slowly, symptoms like a decline in memory and social skills start gradually, but can then spread to areas that control those vital physical functions like breathing and swallowing.", start: 83.05, end: 95.37}
+  - {text: "In many countries around the world the rise of dementia is putting enormous pressure on health care systems.", start: 95.91, end: 101.33}
+  - {text: "Now one of the most comprehensive studies on dementia has warned that by 2050 the number of people being newly diagnosed every year will double to $24 million.", start: 102.15, end: 111.69}
+  - {text: "It suggests that low and middle -income nations where average ages are now on their eyes will show particularly rapid increases in dementia in the coming years.", start: 112.31, end: 121.57}
+  - {text: "Professor Henry Bridati is co -author of the study that was carried out by the Center for Healthy Aging at the University of New South Wales in Australia.", start: 122.23, end: 130.47}
+  - {text: "In countries like the UK and Australia where I'm from, particularly in the UK I think you're already about 20 % of your population over 65, we're at about 17%,", start: 130.95, end: 139.21}
+  - {text: "but in low and middle income countries that aging is just starting to catch up now.", start: 139.21, end: 144.01}
+  - {text: "The rate of dementia doubles every five years after the age of 65, so the more people you have who are older, particularly people who are over 80 or 90,", start: 144.59, end: 153.87}
+  - {text: "then you'll have a much more rapid increase.", start: 154.17, end: 156.45}
+  - {text: "The epidemic's not of dementia, it's of aging.", start: 156.81, end: 158.57}
+  - {text: "But there is also an issue with women being disproportionately vulnerable to this disease.", start: 158.87, end: 164.55}
+  - {text: "Why is that? That's really interesting.", start: 165.13, end: 166.89}
+  - {text: "There may be social environmental reasons as well as biological reasons.", start: 167.23, end: 171.39}
+  - {text: "So the social reasons particularly in years gone by is women had less education, they had less opportunity to be engaged in occupations which were intellectually demanding and therefore build up cognitive reserve.", start: 171.71, end: 182.49}
+  - {text: "They were also more likely to have obesity in midlife and hypertension in midlife which are risk factors for dementia and also more likely to have depression which is also another risk factor.", start: 182.81, end: 192.61}
+  - {text: "On the biological side it may be that hormones have a...", start: 192.95, end: 196.59}
+  - {text: "yeastrogens have a neuroprotective action in the brain that's been postulated and it may be that women have more of the toxic protein called the amyloid beta protein in the brain", start: 196.59, end: 207.63}
+  - {text: "and amyloid beta protein is the main culprit for Alzheimer's disease and the new treatments now available are targeting that protein.", start: 207.63, end: 215.49}
+  - {text: "We know that women have had their ovaries out at a younger age before menopause who then go on to HRT are less likely to get dementia later in life.", start: 215.85, end: 225.93}
+  - {text: "What are the social and financial costs of the overall increase in dementia numbers that we can expect over the next 25 years?", start: 226.23, end: 234.01}
+  - {text: "Currently it's estimated we spend 1 .3 trillion US dollars on dementia worldwide and even by the end of the decade that will be $2 trillion US so dementia is a big ticket item.", start: 234.47, end: 247.47}
+  - {text: "We're all forewarned by reports like this what can be done about it?", start: 247.71, end: 252.19}
+  - {text: "We know that about 45 percent of the risk of dementia are environmentally modifiable factors things that we can do something about individually and also as a society", start: 252.47, end: 262.33}
+  - {text: "so for example we know that people with more education build up more cognitive reserve which is a buffer against the pathology that may build up in the brain as we age.", start: 263.03, end: 272.25}
+  - {text: "People who exercise more are less likely to develop dementia.", start: 273.01, end: 276.77}
+  - {text: "People who don't have hypertension or if they do have high blood pressure have it treated and for every year of treatment that reduces the risk.", start: 277.73, end: 284.15}
+  - {text: "Ditto for high cholesterol or lipids.", start: 284.33, end: 286.35}
+  - {text: "From a societal point of view air pollution has been associated with dementia.", start: 287.05, end: 290.71}
+  - {text: "We know that if people have spaces where they can walk and enjoy green spaces and blue spaces that's protective as well and also if there's spaces", start: 291.13, end: 301.01}
+  - {text: "where they can meet and socialize you know the Italian piazzas would be a nice example of that and for every year we can delay the", start: 301.01, end: 308.29}
+  - {text: "onset we reduce the numbers of new cases by 10 percent.", start: 308.29, end: 311.49}
+  - {text: "Professor Henry Brodati after almost eight months of the US -Iran conflict a resolution seems as far off as ever.", start: 311.57, end: 319.49}
+  - {text: "Polls in the United States suggest that's one of the reasons the Republicans are likely to take a hit in November's mid -term elections so Washington", start: 320.15, end: 328.67}
+  - {text: "is particularly worried about being drawn into another conflict in the Middle East between the Iran -backed Houthis in Yemen and Saudi Arabia but that now is a possibility.", start: 328.67, end: 339.29}
+  - {text: "Houthi attacks on Saudi Arabia's Riyadh airport over the last few days have killed more than a dozen people.", start: 339.45, end: 346.11}
+  - {text: "With President Trump saying he was considering carrying out attacks on Houthi targets in Yemen.", start: 346.43, end: 351.73}
+  - {text: "If that happens it would mean Washington becoming embroiled in a civil war in Yemen between the Houthis and Saudi -backed government forces.", start: 352.31, end: 359.73}
+  - {text: "Those government troops are currently trying to regain large areas in the west of the country taken by the Houthis last month.", start: 360.43, end: 366.71}
+  - {text: "Arsenia international correspondent Ola Gehrin has spent time near the frontline.", start: 367.23, end: 371.55}
+  - {text: "We're speeding through a flat landscape and we're traveling with forces loyal to the internationally recognized government of Yemen.", start: 377.61, end: 386.99}
+  - {text: "They're taking us to frontline positions where they've been battling Houthi forces.", start: 387.29, end: 392.47}
+  - {text: "The area is remote and this is a chance to see what's been happening for ourselves.", start: 393.23, end: 397.89}
+  - {text: "What's taking place on the battlefield here has global implications.", start: 398.53, end: 403.07}
+  - {text: "We're just being shown now bits of a drone the pieces are here on the windy shores of the Arabian Sea fighters cluster around the wreckage of a Houthi drone.", start: 405.85, end: 422.71}
+  - {text: "Did you shoot this down or did it fall?", start: 422.99, end: 424.75}
+  - {text: "The commander Taufiq Al -Haboun says his men shot it down but the Houthis have many more.", start: 426.35, end: 433.21}
+  - {text: "He says the drone was loaded with explosives C -4 and could have killed 10 to 15 people.", start: 436.03, end: 443.37}
+  - {text: "This whole area has just been retaken by pro -government forces.", start: 444.71, end: 449.37}
+  - {text: "They captured it about three days ago until then the Houthis were in control here.", start: 449.99, end: 455.29}
+  - {text: "They've been pushed back and we've been told that there are Houthi fighters in position up in the mountains about 500 of them and since we've", start: 455.83, end: 464.83}
+  - {text: "been here the forces are keeping an eye on the sky just to make sure that there are no more drones coming.", start: 464.83, end: 470.13}
+  - {text: "In recent days this area has been a battlefield.", start: 472.32, end: 475.38}
+  - {text: "Pro -government forces some barefoot have been advancing towards Bab Al -Mandeb the crucial maritime corridor taken by the Houthis last month.", start: 477.55, end: 487.89}
+  - {text: "Commander Qaeda Al -Subehi says the enemy is being pushed out.", start: 488.75, end: 493.43}
+  - {text: "In the battle four days ago we had no losses we took control very easily but the fighting today and yesterday in the mountains around Bab Al -Mandeb it's been difficult.", start: 495.49, end: 505.63}
+  - {text: "God willing it will be fully liberated today or tomorrow at the latest.", start: 508.00, end: 512.80}
+  - {text: "And while the war rages on civilians flee.", start: 514.96, end: 518.38}
+  - {text: "200 ,000 have been displaced and counting.", start: 519.08, end: 522.40}
+  - {text: "We came across families living by the roadside.", start: 522.40, end: 526.12}
+  - {text: "There's a group of women here in front of me with small children about 10 and all.", start: 526.92, end: 533.27}
+  - {text: "The tree that they're sitting under is it's too small to provide proper shelter.", start: 533.81, end: 539.67}
+  - {text: "Can you tell me how long you've been living here like this?", start: 540.84, end: 544.24}
+  - {text: "Aisha tells me she has been here for 30 days with no money, no food and no water.", start: 546.26, end: 553.38}
+  - {text: "Not even a blanket.", start: 554.06, end: 555.34}
+  - {text: "In the end there was no drone this time.", start: 568.81, end: 572.79}
+  - {text: "In operating rooms in the city of Aden night and day doctors are treating wounded fighters.", start: 576.64, end: 583.18}
+  - {text: "When you get a real sense here of how fierce the fighting is this hospital alone has received 51 wounded fighters today.", start: 584.20, end: 592.84}
+  - {text: "Every bed in the intensive care unit is full they've been arriving with gunshot wounds with shrapnel some have had limbs amputated and the casualties keep", start: 593.52, end: 604.20}
+  - {text: "coming we've been told there are three more on the way.", start: 604.20, end: 606.98}
+  - {text: "But even in a hospital bed some like Ahmed Ali Mahmood haven't lost their fighting spirit he wants to return to the front despite his injuries.", start: 609.69, end: 620.70}
+  - {text: "I'm not waiting to fully recover I just want to get back on my feet even my fractures aren't a problem of course I'll go back it's my duty these Houthis have destroyed homes displaced people and taking control of shipping routes.", start: 623.34, end: 636.74}
+  - {text: "What kind of country is this?", start: 637.16, end: 638.38}
+  - {text: "That report was by Ola Garen.", start: 643.43, end: 644.91}
+  - {text: "The Somali -born US congresswoman Ilhan Omar has denounced a raid on her home in Washington by federal agents as political intimidation.", start: 646.12, end: 655.74}
+  - {text: "She said it was an attempt to weaponize law enforcement.", start: 656.12, end: 659.20}
+  - {text: "The Minnesota Democrat is a frequent target of President Trump's insults this was him talking about her just a few days ago.", start: 659.86, end: 666.60}
+  - {text: "She comes from Somalia they don't have a government they don't have police they don't all they have is crime and squalor should never be allowed", start: 666.60, end: 675.14}
+  - {text: "and let's see what happens JD Vance and our people are looking at it very strongly.", start: 675.14, end: 679.80}
+  - {text: "Reports say the investigation against her relates to her immigration status.", start: 680.18, end: 684.50}
+  - {text: "Our North America correspondent Ioni Wells was outside the congresswoman's home and sent this report.", start: 685.14, end: 690.10}
+  - {text: "Well I counted at least a dozen federal agents from the Department of Homeland Security Investigations who were inside and outside Ilhan Omar's house here in Washington.", start: 690.50, end: 701.16}
+  - {text: "It's not clear if anyone was actually home when they arrived early this morning or indeed what exactly they might have seized from this home.", start: 701.80, end: 707.90}
+  - {text: "I did see them carrying what appeared to be cardboard boxes into a van before they drove away.", start: 708.00, end: 712.82}
+  - {text: "Now sources familiar with the investigation say that this was them carrying out a criminal warrant and that it relates to her immigration paperwork.", start: 713.02, end: 722.08}
+  - {text: "We know that she first came to the U .S.", start: 722.64, end: 724.22}
+  - {text: "as a refugee from Somalia with her family in the 1990s before becoming naturalized as a U .S.", start: 724.24, end: 729.26}
+  - {text: "citizen in the year 2000 but the authorities haven't really provided any detail at all about this investigation what evidence they may have.", start: 729.44, end: 736.74}
+  - {text: "She has responded to this saying make no mistake this is an attempt to target political enemies and weaponize federal law enforcement.", start: 737.14, end: 744.84}
+  - {text: "She's also gone on to say that for 10 years Donald Trump has targeted her with what she describes as baseless lies and smear campaigns and", start: 745.00, end: 752.64}
+  - {text: "that this is the latest escalation in his campaign of political intimidation.", start: 752.64, end: 756.50}
+  - {text: "That echoes really concerns that have been raised by other democratic lawmakers as well who have called this an abuse of power by federal authorities.", start: 757.08, end: 764.42}
+  - {text: "There are concerns that this has happened just three weeks before crucial midterm elections where the Republicans will be defending thin majorities in both houses of Congress.", start: 764.90, end: 774.52}
+  - {text: "Donald Trump has repeatedly targeted her made personal insults towards the representative in Hanoma but also accused the Somali American community more widely particularly in Minnesota", start: 775.00, end: 785.42}
+  - {text: "where she's a representative of being a threat to the community something which she and other Democrats have long disputed.", start: 785.42, end: 791.80}
+  - {text: "I only well I only mentioned there the upcoming midterm elections.", start: 791.92, end: 796.02}
+  - {text: "Let's stay with that because it's been revealed that Elon Musk has given what's believed to be a record amount of money to Republican groups ahead of the voting.", start: 796.40, end: 805.04}
+  - {text: "He's made large donations to the Republicans before but this new figure is more than 276 million dollars since July.", start: 805.34, end: 813.02}
+  - {text: "Our correspondent in Washington is Daniel Bush.", start: 813.58, end: 815.78}
+  - {text: "We know from these campaign finance filing reports as detailed first in the New York Times that Mr Musk is spreading this money far and wide", start: 816.20, end: 825.08}
+  - {text: "across the Republican party machine the apparatus that's backing Republicans running for Congress.", start: 825.08, end: 831.06}
+  - {text: "So he is giving money to the PAC that is supporting House Republican candidates to the PAC that's the political action committee supporting Senate Republican candidates", start: 831.24, end: 840.78}
+  - {text: "and he's also we know a singling out specific races.", start: 840.78, end: 843.86}
+  - {text: "He's poured a lot of money into the Senate race in Texas.", start: 843.92, end: 847.28}
+  - {text: "That's the very high profile race that could help determine control of the Senate between the Republican Ken Paxton and the Democrat Talarico.", start: 847.28, end: 855.50}
+  - {text: "That's of course Elon Musk's home state where a lot of his businesses are headquartered.", start: 855.72, end: 860.74}
+  - {text: "That's just some money.", start: 860.82, end: 861.52}
+  - {text: "It's important to note just the money we know he spent because there are also in the United States numerous political entities that don't have to disclose their donors", start: 861.62, end: 870.18}
+  - {text: "and presumably Elon Musk has also made donations to some of those groups as well and that's just money that is impossible to track.", start: 870.18, end: 878.26}
+  - {text: "I mean in the United States billionaires make huge donations political donations in the run -up to elections.", start: 878.26, end: 885.70}
+  - {text: "Where does this put Mr Musk in terms of the all -time largest donors?", start: 886.20, end: 891.50}
+  - {text: "It appears to be at the very least one of the largest single donations by an individual in any campaign cycle if not the largest.", start: 891.98, end: 900.44}
+  - {text: "Again it's impossible to say with 100 % certainty only because in the United States again a lot of these donations can be undisclosed but from", start: 900.70, end: 909.44}
+  - {text: "what we know from public reports it is certainly unprecedented.", start: 909.44, end: 913.58}
+  - {text: "I think it's fair to say for an individual to donate hundreds of millions of dollars in a single election cycle to anyone and so Musk", start: 914.38, end: 923.20}
+  - {text: "is sort of in a world apart with his political spending.", start: 923.20, end: 926.50}
+  - {text: "In the past we have seen individuals going back a decade, decade and a half give millions, tens of millions even Sheldon Allison the late casino magnet comes to mind the Koch brothers before them about 15", start: 926.78, end: 940.70}
+  - {text: "or so years ago but in the last decade or so no one has spent money on the order of Elon Musk was the world's richest person", start: 940.70, end: 948.16}
+  - {text: "and can certainly afford to throw tens and tens of millions of dollars around and that's exactly what he's doing.", start: 948.16, end: 952.76}
+  - {text: "Now Daniel there are plenty of reasons why Mr Musk does not want to see specifically the House of Representatives become Democrat -led in the November elections aren't they?", start: 952.96, end: 963.44}
+  - {text: "That's right. Elon Musk has a number of lucrative businesses which are tied up either with government contracts or potentially oversight by the government and if", start: 963.82, end: 973.42}
+  - {text: "House Democrats retake control the lower chamber we can expect a lot more oversight of the Trump administration in particular is handling last year of cuts to the federal workforce", start: 973.42, end: 985.12}
+  - {text: "and the government spending under the DOGE initiative which was led by Elon Musk before he had a falling out with President Trump they're now back seemingly in good graces", start: 985.12, end: 995.70}
+  - {text: "and then Elon Musk has numerous government contracts related to some of his businesses SpaceX and others so it does stand to reason that a opposition party in power in the House may look after not just Elon Musk", start: 995.70, end: 1011.82}
+  - {text: "but a lot of wealthy business people with connections to Donald Trump.", start: 1011.82, end: 1015.94}
+  - {text: "Daniel Bush still to come in this podcast.", start: 1016.40, end: 1021.33}
+  - {text: "The pilot has heard calling for medical personnel to come to the plane citing a bloody nose as well as some bite marks to the flight attendants.", start: 1021.73, end: 1031.11}
+  - {text: "We hear about an altercation on a passenger plane in the United States involving a Hollywood film star.", start: 1031.41, end: 1037.21}
+  - {text: "This is the Global News podcast.", start: 1042.51, end: 1044.39}
+  - {text: "Six months ago in Hungary Victor Orban's nationalist Fidesz party fell from power in a dramatic election result.", start: 1045.27, end: 1052.39}
+  - {text: "Peter Magyar's centre -right TISA party founded only two years earlier when a landslide victory and a big enough majority in parliament to push through major changes so how are they getting on?", start: 1052.91, end: 1064.99}
+  - {text: "From Budapest Nick Thorpe sent this report.", start: 1065.51, end: 1067.57}
+  - {text: "The Morning News programme on Koshu Radio Hungary's public service radio has a new jingle it belongs to everyone again.", start: 1073.93, end: 1084.17}
+  - {text: "That's a reference to the fact that under the previous government it was largely a propaganda channel faithfully repeating Prime Minister Victor Orban's messages to the people and rarely inviting or quoting critical voices.", start: 1084.79, end: 1098.17}
+  - {text: "Today we have very exciting and balanced and informative public radio.", start: 1098.85, end: 1106.19}
+  - {text: "Agnes Orban is director of a media watchdog organisation called Media Monitor.", start: 1106.73, end: 1112.01}
+  - {text: "I like it very much I have never listened to the public radio in the last 16 years so it is just like a really high", start: 1112.45, end: 1122.77}
+  - {text: "quality morning show in a normal democratic country.", start: 1122.77, end: 1126.39}
+  - {text: "The drastic overhaul of public service media is just part of the change.", start: 1127.30, end: 1131.48}
+  - {text: "Daniel Weiner and Maja Meister are high school students with their own online media called Balzac.", start: 1131.48, end: 1138.26}
+  - {text: "So before the election everything was about politics.", start: 1138.62, end: 1141.02}
+  - {text: "You went out to the streets you saw the propaganda posters.", start: 1141.38, end: 1143.76}
+  - {text: "You went to a bar you speak with your friends you spoke about politics and now not everybody is interested in politics and I think it's the right way.", start: 1144.32, end: 1152.66}
+  - {text: "You are more interested in your hobbies.", start: 1153.00, end: 1155.02}
+  - {text: "Yeah so basically there were loads of billboards where our last government has put out these mostly kind of smear campaign type of advertisements so we had George Shorosh on them we had Zelensky on them", start: 1155.66, end: 1169.94}
+  - {text: "and they were all depicted in a quite negative way.", start: 1169.94, end: 1173.62}
+  - {text: "They were the moviemen.", start: 1173.66, end: 1174.40}
+  - {text: "Yeah. The new government's foreign policy is also rather different.", start: 1174.62, end: 1178.46}
+  - {text: "Georgi Kocish is the former Brussels correspondent of the HVG Weekly.", start: 1178.96, end: 1183.84}
+  - {text: "This year's vote was a vote for rejoining Europe.", start: 1183.84, end: 1188.08}
+  - {text: "I think most people were fed up with being the black sheep.", start: 1188.74, end: 1192.42}
+  - {text: "The black sheep in the European flock that was Hungary under Viktor Orban challenging the whole idea of European values checks and balances and an independent judiciary.", start: 1192.72, end: 1203.66}
+  - {text: "That led the EU to impose so -called conditionality rules under which it decided to withhold the money 16 billion euros which Hungary should have received.", start: 1204.17, end: 1215.59}
+  - {text: "The new government was elected with a promise to bring that money home so as it succeeded.", start: 1216.07, end: 1222.09}
+  - {text: "I think they are quite well on the way.", start: 1222.63, end: 1225.13}
+  - {text: "The new Hungarian parliament has been sitting all through the summer and as far as I know more than 100 legislative pieces have been passed through this parliament up to now.", start: 1225.73, end: 1238.71}
+  - {text: "Viktor Orban's Fidesz party now in opposition is indignant that two of its former government ministers are now in jail awaiting trial on corruption charges and there are more prosecutions to come.", start: 1239.01, end: 1250.63}
+  - {text: "The main 730 evening news on M1 the public service TV.", start: 1252.48, end: 1256.62}
+  - {text: "I notice a big change in both style and content.", start: 1257.20, end: 1260.42}
+  - {text: "Opposition and independent voices challenged the narrative of Hungary's new rulers.", start: 1260.82, end: 1265.90}
+  - {text: "Six months after the election opinion polls suggest the Tissa party still enjoys over 60 % support.", start: 1266.50, end: 1274.12}
+  - {text: "Nick Thorpe. A fire has completely destroyed the oldest surviving covered food market in Paris, the Marché des Enfants Rouge, the market of the red children.", start: 1274.66, end: 1285.00}
+  - {text: "It's a popular spot in the capital's upscale Marais district visited by thousands of tourists and locals every day.", start: 1285.32, end: 1292.08}
+  - {text: "Bernadette Keeho reports. The famous market draws its name from the red outfits worn by children as a nearby orphanage when it was founded in the year 1615.", start: 1292.50, end: 1303.32}
+  - {text: "It's now a listed national monument as well as being renowned as one of the world's best street food venues.", start: 1303.94, end: 1310.30}
+  - {text: "The cause of the fire is not yet known.", start: 1310.98, end: 1313.10}
+  - {text: "The mayor of central Paris, Ariel Vale, expressed his shock.", start: 1313.66, end: 1317.80}
+  - {text: "This is devastating for the Enfants Rouge market.", start: 1320.70, end: 1324.10}
+  - {text: "We're devastated. There are around 20 traders affected.", start: 1324.66, end: 1328.36}
+  - {text: "We can't say how long it will take to rebuild everything.", start: 1329.22, end: 1332.48}
+  - {text: "The structure needs to be fully assessed.", start: 1333.20, end: 1335.44}
+  - {text: "But the worst has been avoided.", start: 1336.00, end: 1337.90}
+  - {text: "The fire didn't spread to any of the neighbouring buildings.", start: 1338.74, end: 1341.62}
+  - {text: "One local resident expressing huge sadness described the market as a gem, a historic place.", start: 1342.31, end: 1348.90}
+  - {text: "Back in the 1980s, the market was facing the threat of demolition under redevelopment plans.", start: 1349.56, end: 1355.12}
+  - {text: "But a determined campaign by local residents backed by intellectuals and artists gathered thousands of signatures in protest and the plans were eventually abandoned.", start: 1355.78, end: 1365.40}
+  - {text: "Now authorities say temporary locations will be found for the businesses so their activities can continue.", start: 1365.94, end: 1372.18}
+  - {text: "The American actor Selma Blair has been in custody after an alleged incident during which flight attendants were injured aboard a commercial flight from Los Angeles to New York.", start: 1372.72, end: 1384.01}
+  - {text: "Ms Blair, who is best known for her roles in Legally Blonde and Hellboy, was taken to hospital for evaluation.", start: 1384.59, end: 1391.11}
+  - {text: "Our correspondent Neda Torfik joined us from New York.", start: 1391.67, end: 1394.17}
+  - {text: "Allegedly Selma Blair was on a Delta flight on Sunday evening from Los Angeles to New York.", start: 1394.17, end: 1401.45}
+  - {text: "And according to airport officials, they say they responded to a physically abusive passenger that she hurt two flight attendants, one of whom was taken to hospital.", start: 1401.61, end: 1415.41}
+  - {text: "And we have a little bit more detail from CBS News that says essentially that the flight crew had to restrain Selma Blair on the flight and they included some air traffic control audio where the pilot has heard calling for medical personnel to come to the plane,", start: 1415.95, end: 1435.71}
+  - {text: "citing a bloody nose as well as some bite marks to the flight attendants.", start: 1436.41, end: 1441.45}
+  - {text: "So that gives you a sense of kind of the extent of some of the alleged injuries.", start: 1441.83, end: 1446.85}
+  - {text: "And we reached out to Delta Airlines and they only confirmed that law enforcement did respond to that flight at JFK airport in New York but said", start: 1447.31, end: 1457.83}
+  - {text: "that the flight didn't have any kind of delays or impacts because of the incident.", start: 1457.83, end: 1462.19}
+  - {text: "And has there been any response from Selma Blair's representatives?", start: 1462.75, end: 1466.29}
+  - {text: "We reached out to her spokesperson and they did respond.", start: 1467.01, end: 1470.39}
+  - {text: "They said that she had experienced a medical emergency and that upon landing she received immediate medical attention and is currently in stable condition.", start: 1470.83, end: 1482.69}
+  - {text: "And I think it is worth pointing out that a similar incident did happen in 2016.", start: 1483.03, end: 1489.27}
+  - {text: "Then she actually put out a public apology because she had a drunken outburst on a flight and they had to actually subdue her on that flight", start: 1489.91, end: 1500.17}
+  - {text: "and give her oxygen and afterward she said that she had accidentally mixed her medication with alcohol and that she blacked out and she deeply regretted her actions on that flight.", start: 1500.17, end: 1511.45}
+  - {text: "And can you tell us more about Selma Blair's medical history?", start: 1511.87, end: 1516.17}
+  - {text: "Yeah well look she struggled with MS for a long time and it actually led to her leaving her career as an actor.", start: 1516.45, end: 1524.63}
+  - {text: "You know many will remember that she was very much in the spotlight certainly in the 90s in the 2000s in the movie with Reese Witherspoon Legally Blonde.", start: 1525.17, end: 1535.83}
+  - {text: "Cruel intentions as well they starred in together.", start: 1536.19, end: 1539.29}
+  - {text: "She was in remission but she has mainly stayed out of acting ever since.", start: 1540.15, end: 1546.35}
+  - {text: "And what we have heard now is that even though she is in a stable condition is that this is being investigated.", start: 1547.07, end: 1554.51}
+  - {text: "And so the FBI which always investigates when there's any issues on planes for the federal government they have issued a summons to Selma Blair essentially accusing her of assault", start: 1554.83, end: 1568.31}
+  - {text: "and she will have to go to kind of petty violation court in Brooklyn at some point in the future to answer to these accusations which", start: 1568.31, end: 1578.53}
+  - {text: "as I say you know she has faced before.", start: 1578.53, end: 1581.15}
+  - {text: "Netatophic. Before we go.", start: 1581.15, end: 1583.57}
+  - {text: "Hi I'm Celia Hatt in one of the presenters of the Global News Podcast.", start: 1583.81, end: 1586.85}
+  - {text: "Did you know there are nearly 1300 terms and phrases used by election officials in the United States?", start: 1587.53, end: 1593.55}
+  - {text: "So with midterms fast approaching the Global News Podcast is joining forces with Americaast.", start: 1593.79, end: 1599.59}
+  - {text: "Together we'll be offering you a one -off jargon busting special and we want your suggestions please for words and phrases that could do with an explanation.", start: 1599.93, end: 1609.23}
+  - {text: "Nothing is too simple.", start: 1609.69, end: 1610.81}
+  - {text: "In our sites already are Senate, Caucus and gerrymander.", start: 1611.25, end: 1614.67}
+  - {text: "Please let us know what else to add.", start: 1615.19, end: 1616.67}
+  - {text: "It's the usual address globalpodcast .bbc .co .uk And that is all from us for now.", start: 1617.11, end: 1625.62}
+  - {text: "If you want to get in touch you can email us at Global Podcast at bbc .co .uk.", start: 1625.80, end: 1631.20}
+  - {text: "You can also find us on X at BBC World Service.", start: 1631.72, end: 1635.42}
+  - {text: "Use the hashtag Global News Pot.", start: 1635.62, end: 1637.82}
+  - {text: "And don't forget our sister podcast the Global Story which goes in depth and beyond the headlines on one big story.", start: 1638.44, end: 1645.06}
+  - {text: "This edition of the Global News Podcast was mixed by Chris Oblacqua and the producer was Emma Joseph.", start: 1645.44, end: 1651.32}
+  - {text: "The editor is Karen Martin.", start: 1651.66, end: 1653.14}
+  - {text: "I'm Nick Miles and until next time goodbye.", start: 1653.70, end: 1655.92}
+---
