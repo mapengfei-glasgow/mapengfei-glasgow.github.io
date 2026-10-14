@@ -124,11 +124,17 @@ One systemd **user** timer runs the whole chain — no root needed:
      BBC-specific proxy group, because the subscription's auto-select group
      health-checks against Google and will happily sit on a node where every BBC
      URL returns 503. A subscription refresh overwrites `config.yaml`, so this
-     runs every time rather than once,
-  2. download the day's episode (`tools/bbc_backfill.py`, a rolling 3-day
-     window, one episode per day),
+     runs every time rather than once. This preflight is skipped when the run
+     downloads no BBC show, and it is no longer fatal: a BBC outage must not cost
+     the day's Planet Money episode,
+  2. download each show in `SHOWS` (default `global-news planet-money`) —
+     `tools/bbc_backfill.py`, one episode per date, over a rolling window: 3 days
+     for the daily BBC feed, 21 for Planet Money, which publishes about twice a
+     week and would otherwise lose an episode after a long weekend with the
+     machine off. Each show has its own download directory and each is attempted
+     even if another fails,
   3. transcribe → build the page → upload to R2 → commit → push
-     (`tools/bbc_publish.py`),
+     (`tools/bbc_publish.py`, which scans every show's directory),
   4. write the 💡 English notes for the hard sentences and the 🀄 Chinese note
      for **every** sentence with the local Qwen server
      (`tools/qwen_explain.py`), merge them (`tools/merge_explain.py`), then
@@ -144,12 +150,15 @@ systemctl --user list-timers bbc-daily.timer
 journalctl --user -u bbc-daily -n 50          # or work/logs/bbc-daily-*.log
 systemctl --user start bbc-daily.service      # run it now
 SKIP_NOTES=1 systemctl --user start bbc-daily.service   # skip the Qwen step
+SHOWS=planet-money SKIP_NOTES=1 tools/daily_bbc_pipeline.sh   # one show only
 ```
 
 The older `bbc_gnp` / `bbc_iot` / `bbc-publish` units are superseded by
 `bbc-daily`; their `ExecStart` still refers to the pre-migration host, so do not
-install them as they are. To add In Our Time, copy `bbc-daily.service` and set
-`Environment=SHOW=in-our-time DL_DIR=downloads/In Our Time`.
+install them as they are. To add In Our Time, set
+`SHOWS="global-news planet-money in-our-time"` (it gets
+`downloads/In Our Time` automatically — only the two shows the timer runs have
+a spelled-out directory) or run the script with `SHOW=in-our-time`.
 
 ### The A2 notes and the Chinese notes
 

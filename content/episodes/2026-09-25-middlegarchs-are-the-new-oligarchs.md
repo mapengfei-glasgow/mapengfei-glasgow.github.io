@@ -1,0 +1,397 @@
+---
+layout: single
+title: "Middlegarchs are the new Oligarchs"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-25T00:00:00Z
+slug: "2026-09-25-middlegarchs-are-the-new-oligarchs"
+audioDir: "2026-09-25-middlegarchs-are-the-new-oligarchs"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-25-middlegarchs-are-the-new-oligarchs/episode.mp3"
+totalDuration: 2021.7
+sentences:
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.66}
+  - {text: "CEOs and CFOs need more than capital.", start: 2.20, end: 4.86}
+  - {text: "They need a financing partner with the scale, flexibility, and certainty to help them execute.", start: 5.26, end: 10.38}
+  - {text: "That's where Apollo comes in.", start: 10.82, end: 12.30}
+  - {text: "Learn more at Apollo .com slash capital.", start: 12.64, end: 15.66}
+  - {text: "This is Planet Money from NPR.", start: 17.03, end: 19.15}
+  - {text: "Billionaires, man, am I right?", start: 22.14, end: 23.84}
+  - {text: "They're having a moment.", start: 24.04, end: 24.76}
+  - {text: "They're launching rockets into space.", start: 25.04, end: 27.10}
+  - {text: "They're controlling algorithms that influence what we see and how we shop.", start: 27.28, end: 31.26}
+  - {text: "Funding elections. And there is this feeling among some, many, that the billionaires have too much power over the US right now.", start: 31.26, end: 38.12}
+  - {text: "Some people are calling them the oligarchs.", start: 38.36, end: 41.16}
+  - {text: "Yeah, but there's another influential group in America, a bigger group that sometimes has more power than the flashy billionaires.", start: 41.34, end: 48.78}
+  - {text: "The stealthy wealthy. The stealthy wealthy.", start: 49.16, end: 50.80}
+  - {text: "We call them the stealthy wealthy because they fly under the radar.", start: 50.92, end: 53.54}
+  - {text: "Eric Swick is an economist at the University of Chicago Booth School of Business.", start: 53.96, end: 58.06}
+  - {text: "He says many of us have a distorted picture of wealth and power in America.", start: 58.06, end: 63.18}
+  - {text: "It's not just the so -called oligarchs.", start: 63.46, end: 65.92}
+  - {text: "So the oligarchs, we're giving them too much credit for, you know, controlling things.", start: 66.26, end: 71.58}
+  - {text: "We're not giving enough credit to the middle garks.", start: 71.90, end: 74.14}
+  - {text: "The middle garks. I mean, middle garky.", start: 74.70, end: 76.60}
+  - {text: "Middle garky is fun.", start: 76.76, end: 77.90}
+  - {text: "It's fun. Eric has spent more than a decade researching who is rich in America and how they got rich.", start: 78.04, end: 82.76}
+  - {text: "And he has a new book out about what he calls the middle garky or the stealthy wealthy.", start: 82.90, end: 87.70}
+  - {text: "It is about this specific group of 3 million multi -millionaires in the U .S.", start: 88.10, end: 93.50}
+  - {text: "who together make the billionaires look like small potatoes.", start: 93.58, end: 96.96}
+  - {text: "Because this group collectively holds more than 13 times the wealth of the Forbes 400 richest billionaires.", start: 97.28, end: 104.78}
+  - {text: "They're way wealthier. But unlike the billionaires who mainly live in the big superstars cities with the tech industries and the finance industries, the stealthy wealthy are not just in Silicon Valley and on Wall Street.", start: 104.94, end: 118.34}
+  - {text: "We call the Main Street millionaires because they're on every Main Street.", start: 118.60, end: 121.76}
+  - {text: "Eric has another name for them.", start: 122.10, end: 124.30}
+  - {text: "The Everywhere Millionaire. It's actually the title of his new book.", start: 124.74, end: 128.22}
+  - {text: "You're into nicknames, it seems like.", start: 128.84, end: 130.92}
+  - {text: "We can go through the appliances in my kitchen and I can tell you what they're all called.", start: 131.14, end: 134.74}
+  - {text: "What's your toaster called?", start: 134.96, end: 135.92}
+  - {text: "Angus MacGyver. No hesitation there.", start: 136.20, end: 140.18}
+  - {text: "Okay, but to be fair to Eric there is a meaning behind each of these nicknames.", start: 140.18, end: 145.48}
+  - {text: "Yeah, Main Street millionaire.", start: 145.70, end: 146.92}
+  - {text: "Everywhere millionaire. This has to do with where these people are.", start: 147.22, end: 150.36}
+  - {text: "And also the kind of like mundane industries that made them millionaires.", start: 150.50, end: 155.30}
+  - {text: "Yeah, like one made their fortune on hamburger buns.", start: 155.58, end: 158.20}
+  - {text: "Another steel garage doors.", start: 158.48, end: 160.10}
+  - {text: "And then the nicknames middle garkey or stealthy wealthy.", start: 160.52, end: 163.72}
+  - {text: "Those have to do with this group's political power and how people aren't paying enough attention.", start: 164.08, end: 169.56}
+  - {text: "At the center of this group's story is a quiet revolution in the American economy.", start: 169.56, end: 174.48}
+  - {text: "The rise of a particular kind of private business.", start: 174.80, end: 177.86}
+  - {text: "Yeah, these millionaires, they are all the owners of what is called a pass -through business.", start: 178.30, end: 183.72}
+  - {text: "And these pass -throughs they are raking in more dough than all traditional corporations combined.", start: 184.10, end: 190.18}
+  - {text: "Move over corporate America.", start: 191.02, end: 192.62}
+  - {text: "Hello and welcome to Pass Through America.", start: 193.24, end: 195.92}
+  - {text: "I'm Greg Grzalski. And I'm Sarah Gonzalez.", start: 196.76, end: 198.58}
+  - {text: "The U .S. has had a giant blind spot when it comes to wealth in America.", start: 198.94, end: 202.34}
+  - {text: "But Eric and his colleagues got their hands on a goldmine of data.", start: 202.98, end: 206.28}
+  - {text: "And they uncovered an epic story of wealth and power in America.", start: 206.62, end: 210.24}
+  - {text: "Today on the show, how 40 years of preferential tax policies have helped propel a stealthy wealthy class of private business owners into the one percent.", start: 210.82, end: 220.22}
+  - {text: "And how today those middle garks are wielding their power to shape how we buy cars.", start: 220.62, end: 226.08}
+  - {text: "Who gets to whiten our teeth?", start: 226.36, end: 228.00}
+  - {text: "Where we get our beer.", start: 228.00, end: 229.28}
+  - {text: "Whether a nurse can diagnose us or it has to be a doctor.", start: 229.58, end: 232.86}
+  - {text: "And how the middle garks also shape who pays what in taxes.", start: 233.30, end: 236.50}
+  - {text: "Are they the protagonists of this story?", start: 238.10, end: 240.00}
+  - {text: "Are they antagonists? Who are these people?", start: 240.14, end: 242.26}
+  - {text: "They are the protagonists, but some of them are protagonists in the same way Tony Soprano is a protagonist of a show.", start: 242.62, end: 248.54}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 252.11, end: 255.91}
+  - {text: "This message comes from Whole Foods Market.", start: 256.59, end: 258.49}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 258.95, end: 262.27}
+  - {text: "No added growth hormones or antibiotics in their meat department means slow braised short ribs are even more satisfying.", start: 262.67, end: 268.45}
+  - {text: "All seafood is wild caught like their vibrant sockeye salmon or verified responsibly farmed.", start: 268.95, end: 273.73}
+  - {text: "And all sweets, including fall themed cookies, are made without high fructose corn syrup.", start: 273.99, end: 278.37}
+  - {text: "Spice up fall at Whole Foods Market.", start: 278.81, end: 280.45}
+  - {text: "This message comes from iXL.", start: 281.77, end: 283.65}
+  - {text: "The iXL level up diagnostic gives you clear just -in -time insight into student learning with benchmark results and real -time updates throughout the year.", start: 284.01, end: 292.25}
+  - {text: "Even better, level up creates a personalized action plan for every student that guides them to what they should practice on iXL to improve.", start: 292.47, end: 299.69}
+  - {text: "Learn more at iXL .com slash NPR.", start: 300.05, end: 303.13}
+  - {text: "For a long time, we did not really know who was rich in America or how they got rich.", start: 305.29, end: 310.73}
+  - {text: "I mean, we knew how much the CEOs of public companies make from SEC filings.", start: 310.97, end: 315.29}
+  - {text: "We knew about the Forbes 400 list or government surveys, but that left us with only a fuzzy picture of the richest Americans.", start: 315.43, end: 323.17}
+  - {text: "Although we did know one big thing about the richest 1%, they were getting a bigger and bigger slice of the nation's income.", start: 323.59, end: 331.03}
+  - {text: "Like take all of our income in the United States or paychecks, business profits, stuff like that.", start: 331.33, end: 335.63}
+  - {text: "The top 1 % share of it, it more than doubled over the last half century.", start: 335.99, end: 340.43}
+  - {text: "This was according to really influential research by these French economists.", start: 340.87, end: 345.49}
+  - {text: "Thomas Piketty and Emmanuel Saez.", start: 347.25, end: 349.55}
+  - {text: "They were the ones who helped inspire the defining slogan of the Occupy Wall Street protests.", start: 349.75, end: 355.57}
+  - {text: "These are the economists who got us talking about all this kind of stuff.", start: 358.90, end: 362.12}
+  - {text: "The 99%, the 1%.", start: 362.54, end: 364.78}
+  - {text: "But their research really just gave us one side of the story.", start: 364.78, end: 368.00}
+  - {text: "We had this big blind spot when it came to private businesses.", start: 368.50, end: 372.72}
+  - {text: "Nobody knew what industries were propelling people to the 1%.", start: 373.28, end: 377.32}
+  - {text: "Surprisingly, there wasn't clear data on which people owned which businesses or what they even sold or created at these businesses.", start: 377.32, end: 385.22}
+  - {text: "We didn't know if a business owner had one business, a bunch of businesses.", start: 385.48, end: 388.90}
+  - {text: "How big the businesses were.", start: 389.36, end: 390.54}
+  - {text: "You didn't know that either.", start: 390.84, end: 391.68}
+  - {text: "Did we know anything else?", start: 391.92, end: 392.88}
+  - {text: "Like how many employees they had?", start: 393.04, end: 394.18}
+  - {text: "Nothing, no. But in 2014, Eric Swick and these two other economists, Owen Zadar and Danny Yegan, they got the assignment of a lifetime.", start: 394.26, end: 402.80}
+  - {text: "One that would ultimately give us an unprecedented look at the income and wealth of private business owners.", start: 403.10, end: 409.26}
+  - {text: "At first, the Treasury Department tasked them with kind of a simple question.", start: 409.88, end: 414.02}
+  - {text: "What are these private business owners paying in taxes?", start: 414.54, end: 417.76}
+  - {text: "I mean, the IRS could audit individual people, you know, one by one and figure that out.", start: 418.50, end: 422.96}
+  - {text: "But as far as like the big picture of what these business owners were paying on average, the answer to that was buried deep in a labyrinth of data.", start: 423.18, end: 432.32}
+  - {text: "Eric, Owen and Danny were fresh out of getting their PhDs, working in the basement of the U .S.", start: 432.58, end: 437.44}
+  - {text: "Treasury on this giant tax data project and they create like a little nickname for themselves.", start: 437.60, end: 443.00}
+  - {text: "Please tell us what that name was.", start: 443.42, end: 445.30}
+  - {text: "Yes, yes. Because we were, you know, children in grown -up bodies, we referred to ourselves as the tax ninjas.", start: 445.64, end: 451.16}
+  - {text: "You and the nicknames.", start: 451.74, end: 453.66}
+  - {text: "And I don't know which of us came up with the idea.", start: 453.96, end: 455.98}
+  - {text: "Oh, I think we have an idea.", start: 456.34, end: 457.82}
+  - {text: "I think we know who.", start: 458.18, end: 459.12}
+  - {text: "So, were you guys fans of that movie back in the day, like the three ninjas?", start: 459.44, end: 463.12}
+  - {text: "Three ninjas is, I think, a pretty good guess.", start: 463.12, end: 466.90}
+  - {text: "They're three kids learning the ways of the ninja.", start: 467.90, end: 471.10}
+  - {text: "Anyway, this data project, it was a huge undertaking.", start: 471.72, end: 474.84}
+  - {text: "The ninjas are like toiling away in the basement of the Treasury.", start: 475.42, end: 478.18}
+  - {text: "They move in together.", start: 478.36, end: 479.22}
+  - {text: "They're roomies now. And like any good ninja tale, they have an arch nemesis.", start: 479.64, end: 484.18}
+  - {text: "There's, it's the tax data at the IRS.", start: 484.66, end: 487.42}
+  - {text: "It was a mess and massive.", start: 487.92, end: 490.46}
+  - {text: "We're talking every company and every taxpayer in America is in this data.", start: 490.64, end: 496.34}
+  - {text: "Sometimes multiple times, but all of it is in like different databases that don't talk to each other.", start: 496.64, end: 502.26}
+  - {text: "The tax ninjas, with help from other treasury economists, were trying to systematically link millions of private businesses to their owners.", start: 502.74, end: 512.14}
+  - {text: "And they did it.", start: 512.68, end: 513.38}
+  - {text: "They did it. The ninjas did it.", start: 513.64, end: 515.86}
+  - {text: "They flipped and they slashed and they crept through the darkness with their statistical nun jugs.", start: 516.00, end: 521.52}
+  - {text: "Great, great. They created a spread.", start: 521.56, end: 524.08}
+  - {text: "Okay, what they found though was that the huge growth in the share of income going to the 1 % that everyone was talking about, even the 0 .1%,", start: 525.94, end: 534.40}
+  - {text: "more than half of it was from this certain type of private business.", start: 534.40, end: 538.72}
+  - {text: "And their spreadsheet allowed them to see clearly and for the first time which industries were launching people into that top 1%.", start: 539.42, end: 547.32}
+  - {text: "They thought the list would be reminiscent of the Gilded Age when rich industrialists made fortunes from big capital intensive industries.", start: 547.32, end: 555.28}
+  - {text: "So like finance and and also tech because it's like, you know, the new technology maybe it was the railroads back then.", start: 555.78, end: 562.48}
+  - {text: "Now it's like, you know, Facebook or something.", start: 562.58, end: 565.18}
+  - {text: "Energy energy or something.", start: 565.32, end: 566.86}
+  - {text: "Yeah, exactly. Instead, they found businesses like this car dealers and you're like, oh, that's not really that's not in the prevailing narrative.", start: 567.04, end: 576.46}
+  - {text: "Car dealers are rolling in it guys.", start: 576.70, end: 578.36}
+  - {text: "Who knew? That's pretty darn surprising.", start: 578.76, end: 581.10}
+  - {text: "Car dealers are number three on this list.", start: 581.50, end: 583.46}
+  - {text: "These are the kinds of businesses that the tax ninjas identified.", start: 583.62, end: 586.14}
+  - {text: "This is a big part of the 1 % Okay, so let's see what else is on this list here.", start: 586.36, end: 591.32}
+  - {text: "Okay, number one and number two on the list.", start: 591.48, end: 593.38}
+  - {text: "It's lawyers and then investors.", start: 593.52, end: 595.34}
+  - {text: "Not a big shock.", start: 595.70, end: 596.24}
+  - {text: "Not a huge shock there.", start: 596.24, end: 597.04}
+  - {text: "Number nine on the list.", start: 597.18, end: 598.08}
+  - {text: "Restaurants. Restaurants. That's pretty surprising.", start: 598.58, end: 600.70}
+  - {text: "Number 13 fabricated metal and miscellaneous manufacturing.", start: 601.78, end: 606.50}
+  - {text: "Okay, but this is the one that came out of left field for me.", start: 606.78, end: 608.90}
+  - {text: "Number 21 on the list here.", start: 608.90, end: 612.36}
+  - {text: "Dentist. Dentist. Multimillionaire stealthy wealthy dentists.", start: 613.24, end: 618.80}
+  - {text: "Yeah, dentist. There's a ton of dentists.", start: 619.06, end: 620.70}
+  - {text: "So dentists earn more income than all of the professional sports leagues combined.", start: 620.80, end: 624.84}
+  - {text: "Wow. Uh, which is like a funny statistic from I think, I mean from a dental lobbying organization that we like talking about.", start: 625.48, end: 632.56}
+  - {text: "Ironically, I'm smiling at that statistic right now.", start: 632.94, end: 635.74}
+  - {text: "Your teeth are great, Greg.", start: 636.26, end: 637.18}
+  - {text: "Oh, so anyways, the road to the 1 % it turned out to be pretty darn diverse.", start: 637.50, end: 643.16}
+  - {text: "It wasn't just like Silicon Valley and Wall Street.", start: 643.48, end: 646.18}
+  - {text: "It's like businesses you see walking down your local Main Street and it's not even just like the owners of those businesses on Main Street that you see either.", start: 646.62, end: 654.92}
+  - {text: "If you're looking at like a random burger joint, for example, the person who distributes their hamburger buns, the business that makes their slice cheese, their toilet paper supplier, a bunch of them are also multimillionaires.", start: 654.98, end: 667.78}
+  - {text: "Yeah, it turned out that there are just like a bunch of ways to get into the 1 % or higher.", start: 667.78, end: 673.88}
+  - {text: "For example, selling frozen mini quiches.", start: 674.52, end: 676.96}
+  - {text: "Hi, nice to meet you.", start: 677.16, end: 678.48}
+  - {text: "Nice to meet you.", start: 678.72, end: 679.84}
+  - {text: "This is Nancy Mueller who made her fortune selling appetizers.", start: 680.20, end: 683.70}
+  - {text: "Quiche Lorraine, spinach quiche.", start: 683.96, end: 686.06}
+  - {text: "We had a mushroom fatique quiche.", start: 686.46, end: 688.44}
+  - {text: "There's also Karen Bentleych.", start: 688.54, end: 690.12}
+  - {text: "I was in the sort of indoor tanning.", start: 690.26, end: 692.10}
+  - {text: "So you became a millionaire off of tanning.", start: 692.14, end: 693.78}
+  - {text: "Yeah, yeah, yeah. And yeah, quiches, tanning, legal services, dental services.", start: 693.88, end: 698.96}
+  - {text: "Obviously, this sprawling class of multimillionaires are doing a lot of different things to get rich.", start: 699.40, end: 705.30}
+  - {text: "But Eric and the other tax ninjas found a lot of these owners had one big thing in common.", start: 705.88, end: 711.10}
+  - {text: "Their businesses are pass -throughs.", start: 711.66, end: 714.04}
+  - {text: "A pass -through business is a particular type of private business where the profits pass through to the business owners kind of like pass those profits right through to me.", start: 714.22, end: 725.18}
+  - {text: "And the owners pay taxes on those profits on their personal income tax returns.", start: 725.18, end: 730.38}
+  - {text: "So this is different from like a traditional C corporation where the company itself pays taxes on its profits.", start: 730.86, end: 737.08}
+  - {text: "The company pays corporate taxes.", start: 737.38, end: 739.36}
+  - {text: "Pass -throughs do not.", start: 739.78, end: 740.90}
+  - {text: "And one of the things that tax ninjas discovered after pulling together all of this data is that these pass -throughs were paying a much lower effective tax rate than traditional corporations.", start: 741.38, end: 751.22}
+  - {text: "Back when they first crunched these numbers in 2016, traditional corporations had an average federal income tax rate of nearly 32%.", start: 751.82, end: 759.04}
+  - {text: "Pass -throughs paid just about 20%.", start: 759.04, end: 762.76}
+  - {text: "You're not saying though that like this group of people got so so rich because they've benefited from this generous tax policy where they get to pay less taxes than a traditional corporation.", start: 762.76, end: 778.04}
+  - {text: "Like that's not why they got this wealthy or are you saying maybe it is?", start: 778.58, end: 783.66}
+  - {text: "Uh, didn't hurt. The tax ninjas traced the explosion of pass -through businesses back to 1986.", start: 783.66, end: 791.67}
+  - {text: "Yeah, so how exciting can I make the 1986 tax reform for your listeners?", start: 792.55, end: 796.49}
+  - {text: "So you've got a movie star who's the president.", start: 797.09, end: 799.87}
+  - {text: "Okay. And you've got a professional basketball player who's now retired who's a senator.", start: 801.17, end: 808.19}
+  - {text: "The movie star? That's President Ronald Reagan.", start: 808.67, end: 810.97}
+  - {text: "The former basketball player.", start: 811.35, end: 812.63}
+  - {text: "That's Bill Bradley. A Democratic senator from New Jersey.", start: 812.89, end: 816.17}
+  - {text: "These two partnered up on this monumental tax reform law that for the first time lowered the top individual income tax rate to below the corporate tax rate.", start: 816.59, end: 826.67}
+  - {text: "So the income tax rate for the richest people was now lower than the rate for corporations.", start: 826.85, end: 832.69}
+  - {text: "Now, all of a sudden there was a huge incentive for private business owners to structure their businesses not as a traditional corporation but as a pass -through.", start: 833.31, end: 842.93}
+  - {text: "Now you could have your profits pass through to you the individual owner and voila you could pay the lower individual rate and not the higher corporate rate.", start: 842.93, end: 853.87}
+  - {text: "And yeah, a bunch of private business owners went this route.", start: 854.07, end: 857.07}
+  - {text: "In 1980 past your businesses generated about one -fifth of all U .S.", start: 857.39, end: 861.87}
+  - {text: "business income by 2011 they generated more than half.", start: 861.95, end: 865.89}
+  - {text: "Oh no, the pastures have stolen corporations thunder.", start: 866.13, end: 869.43}
+  - {text: "This is my heart was breaking.", start: 870.23, end: 872.01}
+  - {text: "Corporate America guys. Wait, but what about McDonald's?", start: 872.01, end: 874.41}
+  - {text: "What about General Motors?", start: 874.43, end: 875.63}
+  - {text: "What about Ford Motor Company?", start: 876.33, end: 878.11}
+  - {text: "Okay, everything the tax ninjas had been looking at up to this point was anonymized.", start: 878.47, end: 883.87}
+  - {text: "They're not seeing the names of rich taxpayers.", start: 884.09, end: 886.73}
+  - {text: "Everyone's just a number in a data set.", start: 887.01, end: 888.45}
+  - {text: "And so when two of the tax ninjas Eric and Owen decided to write a book, they wanted to find the actual people behind these numbers.", start: 888.73, end: 895.57}
+  - {text: "They wanted to talk to them, ask them questions.", start: 896.11, end: 897.97}
+  - {text: "Like, did you inherit these businesses?", start: 898.19, end: 900.31}
+  - {text: "Did you work hard to grow them?", start: 900.31, end: 902.43}
+  - {text: "Can I borrow a little bit of money?", start: 902.89, end: 904.47}
+  - {text: "No, they didn't want that.", start: 905.31, end: 906.89}
+  - {text: "I would ask them that.", start: 907.23, end: 908.47}
+  - {text: "I would ask them.", start: 908.73, end: 909.37}
+  - {text: "So Eric and Owen went looking for millionaires and where do you find millionaires?", start: 909.37, end: 914.57}
+  - {text: "We bought yacht registration data.", start: 914.97, end: 916.95}
+  - {text: "We bought jet registration data for private jets.", start: 917.33, end: 920.67}
+  - {text: "Or you start looking just based on like, okay, where are the 5 ,000 square foot houses?", start: 921.35, end: 925.53}
+  - {text: "Who owns those? And then you go look for that person kind of on the internet.", start: 926.09, end: 930.03}
+  - {text: "Not in the tax data.", start: 930.47, end: 931.63}
+  - {text: "We didn't do that.", start: 931.77, end: 932.37}
+  - {text: "That's not legal. And so we found Nancy in the yacht data.", start: 932.51, end: 937.23}
+  - {text: "I commissioned this gorgeous super yacht.", start: 937.71, end: 942.13}
+  - {text: "Here's the super yacht owner herself, Nancy Mueller.", start: 942.49, end: 944.89}
+  - {text: "Dark blue hull, white superstructure, 143 feet.", start: 945.33, end: 950.21}
+  - {text: "She's the one who made her fortune on quiches.", start: 950.47, end: 952.31}
+  - {text: "She's 83 years old now and says she's been living it up.", start: 952.53, end: 956.09}
+  - {text: "I just got married on August 16th.", start: 956.33, end: 960.07}
+  - {text: "No, you didn't. He's 90 and I'm 83 and we're having a ball.", start: 960.07, end: 965.22}
+  - {text: "Oh, that's great. Part of what Eric and Owen learned was that 75 % of these everywhere millionaires did not inherit their businesses.", start: 965.86, end: 974.96}
+  - {text: "They created them. These were people who were working for their money, earning it, creating products and services that consumers wanted like a mushroom petite quiche.", start: 975.32, end: 984.72}
+  - {text: "When Nancy entered the market with her quiches in the 70s, she says there were not a lot of frozen appetizer options besides like pigs in a blanket.", start: 985.20, end: 993.46}
+  - {text: "Turns out bagel bites invented 1982.", start: 993.66, end: 995.80}
+  - {text: "So checks out. This checks out.", start: 996.56, end: 998.02}
+  - {text: "Okay. Not to insert my opinion here, but like like if some of these some of these appetizers if I had a little soiree, you know, invited some people over.", start: 998.18, end: 1007.20}
+  - {text: "It's like I'd be embarrassed.", start: 1008.50, end: 1010.02}
+  - {text: "I'm not serving pigs in a blanket.", start: 1010.04, end: 1010.66}
+  - {text: "I can't serve pigs in a blanket.", start: 1011.20, end: 1012.70}
+  - {text: "They weren't elegant. You know, the French quiche is elegant.", start: 1013.12, end: 1017.14}
+  - {text: "And there was nothing else like that.", start: 1017.85, end: 1020.43}
+  - {text: "When she started making these incredibly elegant appetizers, it was for Christmas parties and they were hit.", start: 1020.71, end: 1027.29}
+  - {text: "She turned it into a business and that business rose like the Eiffel Tower.", start: 1027.59, end: 1031.69}
+  - {text: "Her quiches, they were in major grocery stores all around the world.", start: 1032.09, end: 1036.25}
+  - {text: "Costco, Sam's Club and BJ's and all throughout the country and into Canada and Mexico and Japan.", start: 1036.47, end: 1044.35}
+  - {text: "I was highly distributed.", start: 1044.93, end: 1047.47}
+  - {text: "And listen, there were a lot of things going on in the world that maybe helped Nancy and other Main Street millionaires like her.", start: 1047.95, end: 1054.71}
+  - {text: "For example, with the rise of globalization, they could get, I don't know, cheaper plastic or cardboard to package their quiches and they could sell those quiches in places like Japan.", start: 1054.83, end: 1066.07}
+  - {text: "So yeah, there were a lot of economic forces that some of these people benefited from but also Nancy created a product that consumers clearly wanted, right?", start: 1066.39, end: 1075.55}
+  - {text: "She saw an opening in the frozen apps market and she jumped in and remember Karen who was in tanning.", start: 1075.69, end: 1080.89}
+  - {text: "She identified tanning as a good business to be in way before it was even popular.", start: 1081.03, end: 1085.81}
+  - {text: "No, it was before the hype, before the hype.", start: 1086.19, end: 1088.19}
+  - {text: "This was before the hype.", start: 1088.19, end: 1089.05}
+  - {text: "Yeah, this is yeah.", start: 1089.07, end: 1089.65}
+  - {text: "Part of the hype.", start: 1089.65, end: 1090.03}
+  - {text: "You created the hype.", start: 1090.15, end: 1090.91}
+  - {text: "She was on the avant -garde of tanning.", start: 1090.99, end: 1093.07}
+  - {text: "Karen had a knack for spotting market trends and capitalizing on them and she knew when to pivot, like when the market for tanning started to fade.", start: 1093.27, end: 1101.89}
+  - {text: "Sarah, did you see what I did there?", start: 1102.55, end: 1104.29}
+  - {text: "Start to fade? Yeah, I got it.", start: 1104.87, end: 1105.87}
+  - {text: "I remember distinctly watching a Yukon basketball game and I looked at the cheerleaders and none of them had even a spray tan.", start: 1106.23, end: 1114.15}
+  - {text: "They were white as could be and I said, okay, our industry is getting screwed right now.", start: 1114.33, end: 1119.55}
+  - {text: "Forget about all the all the, you know, oh, it's bad for you because they've been saying that for years.", start: 1119.75, end: 1123.75}
+  - {text: "I said, it's going out of fashion.", start: 1123.93, end: 1125.27}
+  - {text: "To be tan is going out of style.", start: 1125.73, end: 1127.97}
+  - {text: "It's kind of like, okay, the bottoms are out and straight away.", start: 1128.17, end: 1130.95}
+  - {text: "Some of us are naturally gifted and I would, I would argue that no, it's always like a little in style.", start: 1130.95, end: 1138.17}
+  - {text: "You look great, Sarah.", start: 1138.53, end: 1139.79}
+  - {text: "Thanks. Okay, when tanning fell out of fashion, supposedly Karen pivoted to waxing salons and waxing did way better.", start: 1139.99, end: 1150.60}
+  - {text: "She sold her franchises of European wax centers for 18 million dollars becoming a much more impressive deca millionaire.", start: 1150.76, end: 1160.16}
+  - {text: "That's an over 10 million dollar millionaire.", start: 1160.50, end: 1162.82}
+  - {text: "And Eric says there's something kind of inspiring about many of these stories.", start: 1162.82, end: 1166.92}
+  - {text: "Entrepreneurs who have good ideas work hard and make it.", start: 1167.76, end: 1171.52}
+  - {text: "It feels way more achievable than like, I don't know, raising billions of dollars to create the next Amazon or AI company.", start: 1172.17, end: 1179.55}
+  - {text: "And Eric and Owen found in the research that these entrepreneurs they are often critical to the success of their businesses.", start: 1180.07, end: 1186.57}
+  - {text: "They found that when these business owners die or retire their profits tend to plummet by 75%.", start: 1186.95, end: 1193.47}
+  - {text: "Wait, if we wanted to taste Nancy Mueller's mini quiches and mushroom puffs today.", start: 1193.95, end: 1201.59}
+  - {text: "Can I buy them today somewhere?", start: 1202.33, end: 1204.03}
+  - {text: "No, they're gone. Everything's gone.", start: 1204.65, end: 1207.13}
+  - {text: "Nancy says her original recipes were totally changed once she sold her company.", start: 1207.65, end: 1211.95}
+  - {text: "So no, you cannot find her O .G.", start: 1212.17, end: 1213.77}
+  - {text: "quiches, but selling her company did allow her to take to the sea.", start: 1213.95, end: 1218.55}
+  - {text: "And I cruised on that yacht for 10 years from 2003 to 2013.", start: 1218.91, end: 1226.33}
+  - {text: "Some real quiche. What was the name of your yacht and please tell me I had something to do with quiches.", start: 1226.93, end: 1232.61}
+  - {text: "Well, it for it was actually going to be called a bandanza.", start: 1232.71, end: 1238.63}
+  - {text: "That's an Italian word for excess, but it also means fat lady.", start: 1239.21, end: 1243.91}
+  - {text: "So I decided not to do a bandanza.", start: 1244.39, end: 1247.03}
+  - {text: "And I ended up calling her on the Ammo.", start: 1248.79, end: 1252.83}
+  - {text: "Do you know what that means?", start: 1253.05, end: 1254.43}
+  - {text: "Let's go. All right.", start: 1255.29, end: 1257.27}
+  - {text: "All right. At least she acknowledges this was excessive or me or is there just right?", start: 1257.57, end: 1262.59}
+  - {text: "Just feels just right to you.", start: 1262.81, end: 1263.97}
+  - {text: "Okay. All right. The story of the rise of people like Nancy and the top 1 percent.", start: 1264.05, end: 1269.67}
+  - {text: "It's complicated. On the one hand, it's the story of people growing businesses and creating jobs, growing our economy, succeeding in the free market by delivering goods and services that consumers want.", start: 1269.85, end: 1281.81}
+  - {text: "But on the other hand, the story that Eric and Owen tell, there's a dark side.", start: 1282.31, end: 1287.01}
+  - {text: "Some of these millionaires are using their money and their influence to distort the market to bend public policy in their favor.", start: 1287.55, end: 1294.55}
+  - {text: "After the break, it's the middle garks versus the oligarchs.", start: 1295.48, end: 1299.30}
+  - {text: "It's Goliath versus Goliath.", start: 1299.38, end: 1302.30}
+  - {text: "You may be surprised which Goliath wins.", start: 1302.58, end: 1305.42}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1313.28, end: 1317.02}
+  - {text: "This message comes from Whole Foods Market.", start: 1317.80, end: 1319.62}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 1320.18, end: 1323.38}
+  - {text: "No added growth hormones or antibiotics in their meat department means slow -braised short ribs are even more satisfying.", start: 1323.84, end: 1329.50}
+  - {text: "All seafood is wild caught like their vibrant sockeye salmon or verified responsibly farmed and all sweets, including fall -themed cookies are made without high fructose corn syrup.", start: 1330.06, end: 1339.48}
+  - {text: "Spice up fall at Whole Foods Market.", start: 1339.84, end: 1341.54}
+  - {text: "This message comes from iXL.", start: 1342.73, end: 1344.67}
+  - {text: "iXL provides personalized learning and powerful insights that help teachers boost achievement and understand student progress in real time.", start: 1344.95, end: 1352.49}
+  - {text: "Learn more at iXL .com slash npr.", start: 1352.89, end: 1356.15}
+  - {text: "This message comes from LinkedIn.", start: 1356.83, end: 1358.31}
+  - {text: "As a small business owner, you wear many hats.", start: 1358.79, end: 1361.09}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1361.39, end: 1364.31}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers and find the best team for your small business, all in one place.", start: 1364.61, end: 1373.77}
+  - {text: "So while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1374.21, end: 1379.13}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1379.53, end: 1382.97}
+  - {text: "So the taxing has created this groundbreaking data set that showed that the rise of the 1 % and also the 0 .1 % these pass -through businesses accounted for most of it.", start: 1384.72, end: 1396.14}
+  - {text: "This was a huge finding and they're publishing a bunch of papers on pass -throughs and their owners on the 1 % in inequality.", start: 1396.40, end: 1403.80}
+  - {text: "They're the experts on pass -through businesses now.", start: 1404.14, end: 1406.76}
+  - {text: "And so when Congress and the White House started considering a huge tax cut for businesses in 2017, they needed this young blood.", start: 1407.08, end: 1416.00}
+  - {text: "They needed to call in the tax ninjas.", start: 1416.20, end: 1417.96}
+  - {text: "The federal government was considering a big tax cut for corporations and they wanted to know what to do about these pass -throughs and in meeting after meeting with lawmakers, the tax ninjas had a simple message.", start: 1418.52, end: 1430.04}
+  - {text: "Pass -through businesses and their owners are doing great.", start: 1430.58, end: 1434.74}
+  - {text: "They do not need another tax break.", start: 1434.98, end: 1436.52}
+  - {text: "They're like if you care about tax fairness, if you care about a balanced budget, even if you care about economic growth or inequality, do not lower taxes on pass -throughs.", start: 1436.76, end: 1445.94}
+  - {text: "Congress it doesn't take that advice.", start: 1446.10, end: 1449.06}
+  - {text: "It gives millions and millions of pass -throughs and their owners a fat new tax deduction anyway.", start: 1449.34, end: 1455.06}
+  - {text: "One worth as much as 20 % of their business income.", start: 1455.48, end: 1459.06}
+  - {text: "Give me some of that tax deduction.", start: 1462.85, end: 1465.11}
+  - {text: "And okay, the ninjas I'm going to say a little naive at this point are like wait, why would Congress do that?", start: 1465.53, end: 1472.61}
+  - {text: "I mean, sure they know that businesses lobby Congress to get favorable tax policies that businesses are big donors, big employers all over the country.", start: 1472.91, end: 1479.61}
+  - {text: "But being in Washington, the ninjas realize that rich business owners aren't just influencing politicians.", start: 1479.81, end: 1486.51}
+  - {text: "They often are the politicians.", start: 1487.15, end: 1490.03}
+  - {text: "For example, look at the House Ways and Means Committee.", start: 1490.57, end: 1493.05}
+  - {text: "On the Ways and Means Committee, which is the tax writing committee of the House of Representatives, a quarter or private business owners.", start: 1493.25, end: 1498.89}
+  - {text: "The business owners are in Congress on the committees that determine what our tax policies are.", start: 1499.11, end: 1504.25}
+  - {text: "Indeed. The multi -millionaire business owners.", start: 1504.61, end: 1506.85}
+  - {text: "Indeed. Yeah, only like 3 % of Americans are business owners.", start: 1507.43, end: 1511.21}
+  - {text: "But around that time about 25 % of the members of this committee owned businesses.", start: 1511.51, end: 1516.81}
+  - {text: "These are like private business owners writing our tax code.", start: 1517.43, end: 1520.85}
+  - {text: "So it's not even, you know, middle garky through influence through lobbying.", start: 1520.85, end: 1528.12}
+  - {text: "It's through direct representation.", start: 1528.42, end: 1529.90}
+  - {text: "And listen, a lot of people are overrepresented in Congress, like college -educated people, richer people.", start: 1530.24, end: 1538.10}
+  - {text: "But when it comes to business owners, it's pretty remarkable just how overrepresented they are.", start: 1538.64, end: 1545.12}
+  - {text: "Eric and Owen found decimillionaires worth at least 10 million dollars are more than 10 times as likely to serve in Congress than their share of the population would suggest.", start: 1545.42, end: 1554.30}
+  - {text: "Centimillionaires worth at least 100 million dollars are 62 times as likely.", start: 1555.10, end: 1560.28}
+  - {text: "Yeah, and it gets kind of even weirder if you look at like subgroups of business owners.", start: 1560.50, end: 1564.38}
+  - {text: "Like, take car dealers.", start: 1564.94, end: 1566.38}
+  - {text: "Three of the 43 members of the Ways and Means Committee, they owned car dealerships.", start: 1566.88, end: 1571.52}
+  - {text: "That's like 7 % of the tax writing committee.", start: 1571.84, end: 1574.60}
+  - {text: "And, okay, it's hard to go inside these people's brains and say like, oh, you're a business owner.", start: 1575.16, end: 1580.24}
+  - {text: "So that's the reason why you support this policy or that policy or whatever.", start: 1580.46, end: 1584.32}
+  - {text: "But there's one example for Eric that really shows how being a business owner creates potential conflicts of interest.", start: 1584.70, end: 1592.08}
+  - {text: "In 2017, Eric witnessed how one car dealer member of Congress loudly defended a role that allowed him and other car dealers to deduct interest payments", start: 1592.58, end: 1603.28}
+  - {text: "because that would save them a lot of money and they got this super narrow only applicable to car dealers carve out for themselves and for their car dealer constituents.", start: 1603.28, end: 1614.46}
+  - {text: "It's hard to believe that without a bunch of auto dealers in congressional districts and about a bunch of auto dealers in Congress that you would have had this very specific benefit going to them.", start: 1614.96, end: 1625.30}
+  - {text: "And it is not just about tax policy or even influence at the federal level.", start: 1625.58, end: 1630.02}
+  - {text: "Eric suggests that the power of the middle guards is even bigger at the state level like when they're writing rules and regulations that affect the marketplace.", start: 1630.36, end: 1639.62}
+  - {text: "Yeah, there's this one story Eric tells about middle guard car dealers getting in a head on collision with one of the world's richest people.", start: 1639.96, end: 1647.82}
+  - {text: "So who's the ultimate oligarch in the current day and age?", start: 1648.08, end: 1651.50}
+  - {text: "The trillionaire? The erstwhile trillionaire once a trillionaire Elon Musk.", start: 1651.50, end: 1655.82}
+  - {text: "For years Elon Musk and Tesla have been battling to sell their cars directly to consumers but there are state laws all around the country that restrict car makers from doing that.", start: 1656.22, end: 1664.86}
+  - {text: "If I want to buy a Ford Bronco I cannot buy it directly from Ford.", start: 1665.02, end: 1669.24}
+  - {text: "I have to go through like Sarah Monte Ford and deal with the car salesman.", start: 1669.36, end: 1673.82}
+  - {text: "State laws actually force consumers to go through a car dealership a middleman who gets a cut of the sale.", start: 1674.06, end: 1680.10}
+  - {text: "And those car dealer middlemen they have proven to be formidable opponents in many states.", start: 1680.32, end: 1685.92}
+  - {text: "Like take South Carolina.", start: 1686.56, end: 1688.06}
+  - {text: "Welcome and thank you for being here for our first business and commerce subcommittee hearing when lawmakers were considering changing the law in South Carolina to cut out car dealerships and let a company like Tesla sell cars directly to consumers", start: 1688.28, end: 1702.32}
+  - {text: "Tesla sent their policy guy Zaccon to testify before lawmakers Tesla's created a sales experience completely unlike buying a car in a traditional dealership.", start: 1702.84, end: 1712.78}
+  - {text: "There are no gimmicks no endless negotiation with several trips to speak to their manager or intense pressure to leave with a new car.", start: 1712.80, end: 1719.92}
+  - {text: "Tesla was like selling directly to consumers would be better for consumers but the car dealers of South Carolina showed up too dozens of them and they were like you sure you sure you want to cut us out lawmakers", start: 1720.08, end: 1732.14}
+  - {text: "dealers are a part of every community in the state as my son says like the mailman you know that we're everywhere that's Claude Burns who sells Chevy's Cadillacs and Ford's in South Carolina", start: 1732.67, end: 1744.14}
+  - {text: "we have approximately 17 ,000 direct employees in South Carolina new vehicle dealerships we have about a 1 .15 billion dollar payroll each year car dealerships", start: 1745.33, end: 1759.72}
+  - {text: "they often fund little leagues football games community events they are a hard constituency to ignore in the end the car dealers won at least for now Tesla", start: 1759.72, end: 1769.68}
+  - {text: "and other car makers still cannot sell directly to consumers in South Carolina the dealers are like no no you can't do that and that's like a nice encapsulation", start: 1769.68, end: 1778.90}
+  - {text: "because if you believe that we're a oligarchy the top oligarchy it's got to be Elon or one of them and here he is trying to go around the country like with one of his businesses and sell direct to consumer and there's this direct pushback from", start: 1778.90, end: 1792.70}
+  - {text: "the middle garks or man's street millionaires or or whatever the stealthy wealthy the stealthy wealthy and Eric and a lot of other economists argue that", start: 1793.17, end: 1802.12}
+  - {text: "the car dealer business model you know like having a middleman is bad for consumers it may for example keep car prices higher it may be bad for competition for a dynamic economy", start: 1802.12, end: 1816.32}
+  - {text: "and we have seen the middle garky push for policies that distort the economy in a lot of areas the dentist middle garks they've been lobbying", start: 1816.32, end: 1825.26}
+  - {text: "to have a monopoly on teeth whitening Eric says they don't want anyone any clinic to be able to whiten your teeth except for them so", start: 1825.26, end: 1832.06}
+  - {text: "they they can charge more the doctor middle garks they've been working to prevent nurse practitioners from doing things that doctors have historically done even though research shows", start: 1832.06, end: 1841.78}
+  - {text: "that nurses can do some of this stuff the beer distributor middle garks they've been like car dealers working to stay in the middle between beer maker", start: 1841.78, end: 1849.62}
+  - {text: "and stores so they can keep getting a cut sure there are inspiring stories like Karen and Nancy entrepreneurs who work hard great jobs provide us with delicious mini quiches and allow me to wax my", start: 1849.62, end: 1863.24}
+  - {text: "but for 40 years this class of people has one favorable tax treatment which Eric argues has super charged the rise of inequality today 95 % of all businesses in the United States are pass -throughs", start: 1864.08, end: 1878.06}
+  - {text: "and just last year in the one big beautiful bill they secured a permanent version of the tax cut that the ninjas were already warning against nearly a decade ago even back then Congress's joint committee and taxation", start: 1878.06, end: 1890.72}
+  - {text: "estimated that this tax deduction for pass -throughs amounted to almost 415 billion dollars in lost revenue over a decade so if you care about addressing the federal deficit or like growing inequality if you care about things like healthcare prices or beer prices", start: 1891.26, end: 1912.40}
+  - {text: "maybe it's worth paying more attention to this stealthy wealthy class of multi -millionaires don't sleep on the middle garky guys if you hit the follow button on your podcast app and you follow PlanetMoney here are some things you won't miss out on next time announcements", start: 1913.08, end: 1939.33}
+  - {text: "new merch releases special projects live show dates so please hit follow follow PlanetMoney in your podcast app this episode of PlanetMoney was produced by Emma Peasley Emma thank you so much it was edited by Marianne McEwn thank you Marianne with back checking help by Cierra Juarez", start: 1941.93, end: 1960.21}
+  - {text: "Cierra come on can we thank you enough it was engineered by Quacy Lee it sounds great Quacy our executive producer is Alex Goldmark I'm Sarah Gonzalez and I'm Greg Rizalski this is NPR thank you for listening", start: 1961.03, end: 1975.03}
+  - {text: "stay tuned for the following announcements and messages from our sponsors this message comes from Google Workspace with Gemini one subscription that does it all personalized AI in premium business versions of Gmail Google Docs Drive", start: 1982.74, end: 1996.86}
+  - {text: "and more try it free for 14 days at G -O -O dot G -L -E slash Workspace with Gemini this message comes from NPR sponsor", start: 1996.86, end: 2006.82}
+  - {text: "Charles Schwab financial decisions can be tricky your biases can lead you astray Financial Decoder an original podcast from Charles Schwab can help download the latest episode", start: 2006.82, end: 2017.24}
+  - {text: "and subscribe at Schwab .com slash Financial Decoder", start: 2017.24, end: 2020.72}
+---

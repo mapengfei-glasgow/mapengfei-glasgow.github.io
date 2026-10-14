@@ -1,0 +1,419 @@
+---
+layout: single
+title: "Who’s gonna pay for your Social Security?"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-09-30T00:00:00Z
+slug: "2026-09-30-whos-gonna-pay-for-your-social-security"
+audioDir: "2026-09-30-whos-gonna-pay-for-your-social-security"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-30-whos-gonna-pay-for-your-social-security/episode.mp3"
+totalDuration: 1975.1
+sentences:
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.54}
+  - {text: "Apollo provides access to long duration capital and a broad range of financing capabilities, helping companies drive growth at an efficient cost of capital.", start: 2.02, end: 10.08}
+  - {text: "Learn more at Apollo .com slash capital.", start: 10.40, end: 13.58}
+  - {text: "This is Planet Money from NPR.", start: 14.77, end: 16.91}
+  - {text: "One of the greatest economic experiments in the history of the United States is in for its biggest test yet.", start: 20.04, end: 28.24}
+  - {text: "It's an experiment that started nearly 100 years ago.", start: 28.80, end: 32.12}
+  - {text: "Yeah, picture this. The U .S.", start: 32.12, end: 34.50}
+  - {text: "has rapidly industrialized, millions of people have moved to cities for factory jobs, and all this change is leaving one group of Americans behind.", start: 34.54, end: 43.48}
+  - {text: "Older Americans. By the 1930s, more than half of elderly Americans are living in poverty.", start: 44.12, end: 49.68}
+  - {text: "The problem became particularly acute with the Great Depression.", start: 50.06, end: 54.34}
+  - {text: "People were calling on the government for help, so President Franklin D.", start: 54.92, end: 59.00}
+  - {text: "Roosevelt launched a way to give older Americans money every month until they died.", start: 59.18, end: 63.78}
+  - {text: "Social security. Social security.", start: 64.30, end: 66.84}
+  - {text: "This social security measure gives at least some protection to 30 millions of our citizens.", start: 67.36, end: 76.86}
+  - {text: "This social security experiment, it worked.", start: 77.10, end: 80.02}
+  - {text: "It really, really worked.", start: 80.32, end: 81.32}
+  - {text: "It rescued lots of older people from extreme poverty.", start: 81.56, end: 84.66}
+  - {text: "And to this day, it is one of our most popular government programs.", start: 85.10, end: 88.46}
+  - {text: "You probably know how it works.", start: 88.46, end: 90.52}
+  - {text: "We all have a worker ID for our entire lives, our social security number.", start: 90.64, end: 94.78}
+  - {text: "Every paycheck we pay a tax that goes into the Social Security Trust Fund.", start: 95.10, end: 98.96}
+  - {text: "Then pretty much immediately, that money that we paid in goes out to retired people.", start: 99.26, end: 103.76}
+  - {text: "Social security recipients. And then when we get older and retire, we become those recipients while the younger workers keep paying into the program.", start: 104.32, end: 112.96}
+  - {text: "But for the last half of its life, social security has kind of been in trouble.", start: 113.34, end: 118.50}
+  - {text: "Social security has been running cash deficits for years.", start: 118.80, end: 121.94}
+  - {text: "Academics and think tankers and journalists and government actuaries have been sounding the alarm.", start: 122.40, end: 127.56}
+  - {text: "Still, the alarm bells are being raised about the long -term viability.", start: 127.74, end: 131.68}
+  - {text: "And I know we've been hearing this for years.", start: 131.92, end: 133.48}
+  - {text: "The agency continues to face significant financing issues.", start: 133.84, end: 137.36}
+  - {text: "And if you feel like you've heard this before, this right now is for real, for real troubles.", start: 137.50, end: 142.18}
+  - {text: "Very soon, social security will actually not have enough money to make full payments to retirees.", start: 142.18, end: 148.80}
+  - {text: "And the state of doom?", start: 149.22, end: 150.26}
+  - {text: "It is as soon as 2032, just six years from now.", start: 150.88, end: 154.90}
+  - {text: "And that is largely because of the baby boomers.", start: 155.16, end: 158.76}
+  - {text: "The boomers are retiring, they are collecting their social security payments and facing a much higher life expectancy than the architects of social security imagined nearly a century ago.", start: 159.28, end: 168.36}
+  - {text: "And there are a lot of them.", start: 168.68, end: 170.80}
+  - {text: "One of those retired boomers is Steve Goss, a guy who used to work for the Social Security Administration himself.", start: 170.80, end: 178.16}
+  - {text: "He started when he got out of graduate school.", start: 178.60, end: 180.36}
+  - {text: "He studied math 53 years ago.", start: 180.62, end: 182.60}
+  - {text: "There was a listing for Social Security Administration.", start: 182.94, end: 185.20}
+  - {text: "They said actuary. And I asked the obvious guy, I said, what's an actuary?", start: 185.54, end: 189.18}
+  - {text: "Ah, the same question I asked.", start: 189.32, end: 190.76}
+  - {text: "As it turned out, an actuary was the person who does the math for the administration.", start: 191.00, end: 195.40}
+  - {text: "And Steve ended up doing that math for 52 years.", start: 195.88, end: 198.98}
+  - {text: "The last half of those, he was chief actuary.", start: 198.98, end: 201.94}
+  - {text: "And right now Steve says, the math, it is not mathing.", start: 202.40, end: 206.30}
+  - {text: "Social security is spending more on benefits now than it is taking in in revenue.", start: 206.60, end: 211.84}
+  - {text: "That seems like a problem.", start: 212.10, end: 213.12}
+  - {text: "That is definitely a problem.", start: 213.60, end: 215.58}
+  - {text: "Think of Social Security as like a checking account.", start: 215.84, end: 218.58}
+  - {text: "You need at least as much money going in as going out.", start: 218.98, end: 222.62}
+  - {text: "When there's more money coming in than going out, like from all the money boomers paid in when they were working, that money sits in what's basically a savings account.", start: 222.98, end: 232.46}
+  - {text: "The Social Security Trust Fund to be used if and when we don't have enough to pay retirees.", start: 232.74, end: 238.78}
+  - {text: "The Trust Fund is intended to be a bit of a cushion so that if we do hit a recession, we'll have money to tap into.", start: 239.24, end: 245.84}
+  - {text: "And duh, we did hit a recession.", start: 246.34, end: 248.12}
+  - {text: "So we've been tapping into the Trust Fund Reserve since 2010.", start: 248.62, end: 251.80}
+  - {text: "Oh my goodness, we're on borrowed time.", start: 252.28, end: 254.22}
+  - {text: "We are. So we've got 16 years now.", start: 254.88, end: 257.10}
+  - {text: "We've been tapping in to the Trust Fund Reserve and we've got a few more years available.", start: 257.24, end: 261.38}
+  - {text: "But it's time that we have to really get moving on making changes to adjust the system.", start: 261.72, end: 265.88}
+  - {text: "And if we don't, in six years, payments to retirees could be cut by 22%.", start: 266.50, end: 272.00}
+  - {text: "22%, that is huge.", start: 272.72, end: 274.16}
+  - {text: "These are people who are older, who might not have other income and need to pay for food and medical expenses and housing.", start: 274.36, end: 282.06}
+  - {text: "Luckily, people are thinking of ways to solve this problem.", start: 282.06, end: 285.54}
+  - {text: "There are a lot of proposals out there for how to generate more money for the fund.", start: 285.80, end: 290.44}
+  - {text: "And as a longtime former chief actuary, Steve was the guy Congress would call to crunch the numbers on these proposals.", start: 290.66, end: 299.10}
+  - {text: "Yeah, when it comes to Social Security, its numbers, its history, the demographics, Steve is like an encyclopedia met a calculator.", start: 299.34, end: 308.02}
+  - {text: "And we at Planet Money love a looming deadline, 2032.", start: 308.02, end: 313.16}
+  - {text: "So we thought we could go out into the world of people who are proposing solutions to a Social Security bank account that is running out, collect the big ideas, and then come back to Steve.", start: 313.62, end: 324.16}
+  - {text: "Because for a sober accounting, Steve seems like the perfect person.", start: 324.58, end: 329.00}
+  - {text: "Well, I wouldn't say perfect, but hopefully I'm an adequate okay person.", start: 329.26, end: 334.32}
+  - {text: "Okay, well, you are our adequate okay person for this mission.", start: 334.32, end: 338.30}
+  - {text: "Oh, Erica, I wish you not only luck, Oh boy.", start: 339.36, end: 343.36}
+  - {text: "I wish you skill.", start: 343.54, end: 344.30}
+  - {text: "Hello and welcome to Planet Money.", start: 345.07, end: 346.75}
+  - {text: "I'm Erica Barris. And I'm Jeff Guo.", start: 347.01, end: 348.67}
+  - {text: "Today on the show, this grand economic experiment is in trouble.", start: 349.11, end: 353.25}
+  - {text: "We're going to look at some of the most talked about possible solutions.", start: 353.55, end: 357.31}
+  - {text: "Do they help? Do they hurt?", start: 357.79, end: 359.23}
+  - {text: "And what it will take to refill Social Security's bank account before it all runs out because remember Gen X?", start: 359.67, end: 365.51}
+  - {text: "They're going to be retiring soon and they will need their checks.", start: 367.57, end: 371.95}
+  - {text: "This message comes from Superhuman.", start: 374.40, end: 376.48}
+  - {text: "Have you heard of Superhuman Go?", start: 376.82, end: 378.56}
+  - {text: "Their Go AI chat helps you draft emails and messages and can also summarize long threads and documents.", start: 378.94, end: 384.66}
+  - {text: "It can search across your apps all without leaving the page you're on.", start: 385.00, end: 388.66}
+  - {text: "It collaborates with you where you are, whether it's in a doc you're reading or the email you are writing.", start: 388.92, end: 394.04}
+  - {text: "Try Superhuman Go from the makers of Grammarly.", start: 394.04, end: 397.22}
+  - {text: "Find out more at superhuman .com.", start: 397.46, end: 399.76}
+  - {text: "This message comes from Whole Foods Market.", start: 400.47, end: 402.55}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 403.19, end: 406.33}
+  - {text: "No added growth hormones or antibiotics in their meat department means slow braised short ribs are even more satisfying.", start: 406.73, end: 412.45}
+  - {text: "All seafood is wild caught like their vibrant sockeye salmon or verified responsibly farmed.", start: 412.99, end: 417.79}
+  - {text: "And all sweets including fall themed cookies are made without high fructose corn syrup.", start: 418.05, end: 422.43}
+  - {text: "Spice up fall at Whole Foods Market.", start: 422.43, end: 424.51}
+  - {text: "This message comes from Schwab.", start: 425.67, end: 427.11}
+  - {text: "Investing with Schwab is like a hike with endless trails.", start: 427.71, end: 430.61}
+  - {text: "Go solo with self -directed investing.", start: 431.13, end: 433.11}
+  - {text: "Take stops along the way with trading or choose a guide with full service wealth management.", start: 433.53, end: 438.15}
+  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 438.63, end: 442.07}
+  - {text: "Okay, look. The funny thing about Social Security is that we have known for years that it's gonna be insolvent at some point in the very near future.", start: 443.30, end: 452.66}
+  - {text: "That we need to reform it.", start: 452.66, end: 454.72}
+  - {text: "So why haven't we done anything about it?", start: 454.92, end: 457.94}
+  - {text: "That's because fixing Social Security isn't just a math problem.", start: 458.02, end: 462.40}
+  - {text: "It's like hard math, but soft skills.", start: 462.58, end: 465.44}
+  - {text: "Because every potential fix is a political third rail.", start: 465.74, end: 469.20}
+  - {text: "The big sweeping solutions out there place the burden either on people paying into Social Security now, the workers, or on people who are getting their checks, the retirees.", start: 469.56, end: 481.00}
+  - {text: "Are we more worried about really irritating Social Security beneficiaries with a 22 % cut, or somewhat irritating workers with a payroll tax increase?", start: 481.00, end: 493.74}
+  - {text: "Our Douglas Arnold is retired from teaching at Princeton, and yes, Doug also collects Social Security.", start: 494.16, end: 499.88}
+  - {text: "I am well over 70, thank you.", start: 500.10, end: 501.92}
+  - {text: "I'm six and a half years into it.", start: 502.78, end: 504.76}
+  - {text: "All right, well, congratulations.", start: 504.88, end: 505.88}
+  - {text: "After Doug retired, he wrote a book called Fixing Social Security.", start: 506.80, end: 510.48}
+  - {text: "And Doug's go -to idea for fixing Social Security would definitely put the burden on current workers, not retirees.", start: 510.48, end: 518.02}
+  - {text: "Well, the simplest, most straightforward fit is to simply raise the payroll tax.", start: 518.16, end: 524.44}
+  - {text: "Yeah, yeah, yes, yes, it is obvious.", start: 524.82, end: 527.44}
+  - {text: "Right now, out of every paycheck, most workers pay 6 .2 % to Social Security.", start: 527.82, end: 533.36}
+  - {text: "And our employers on our behalf also pay another 6 .2%.", start: 533.66, end: 537.50}
+  - {text: "If you raised it from 6 .2 % to 8 .4%, that would solve 100 % of the problem over the next 75 years.", start: 537.50, end: 546.46}
+  - {text: "That does not seem simple.", start: 546.68, end: 547.94}
+  - {text: "Well, when I say it's the simplest way, it's not the politically best way.", start: 548.14, end: 552.28}
+  - {text: "Doug says we actually did use to raise the Social Security tax regularly.", start: 552.74, end: 557.22}
+  - {text: "It started off as 1 % back in the 1930s and then kept slowly rising.", start: 557.82, end: 563.18}
+  - {text: "But after we upped it to 6 .2 % in the early 80s, that was it.", start: 563.18, end: 568.90}
+  - {text: "No more increases. We're all still paying the same rate we were paying decades ago.", start: 569.44, end: 574.68}
+  - {text: "And the argument here is that it is in everyone's best interest to raise the Social Security tax rate.", start: 575.10, end: 580.90}
+  - {text: "Even 40 -year -old workers start to think I'd like Social Security to be there for me, too.", start: 581.20, end: 585.76}
+  - {text: "And secondly, their parents and their grandparents are on Social Security.", start: 586.42, end: 590.48}
+  - {text: "So waking up and finding mom and dad just lost nearly a quarter of their Social Security benefits is probably not good news for a 40 -year -old worker.", start: 590.48, end: 601.06}
+  - {text: "Yeah, nobody wants to wake up and find their parents or grandparents saying, I might need to crash on your couch.", start: 601.48, end: 606.90}
+  - {text: "Raising the payroll tax rate is pretty much the only idea we found out there that would fix this whole problem all on its own.", start: 607.72, end: 614.76}
+  - {text: "If we raise the payroll tax enough, our retirees could be golden for at least 75 more years, which is the Social Security administration's goal for these fixes.", start: 614.98, end: 623.90}
+  - {text: "But there are kind of sneakier proposals to raise Social Security taxes on people.", start: 624.46, end: 629.76}
+  - {text: "Tell me why there's a Social Security poster on the wall behind you.", start: 630.12, end: 633.06}
+  - {text: "Sure, happy to. I direct the work on Social Security here at the Center on Budget and Policy Priorities.", start: 633.30, end: 639.40}
+  - {text: "Kathleen Romig told us about a different idea for how to increase the money current workers and their employers are paying into the pot.", start: 639.78, end: 647.34}
+  - {text: "She says Social Security primarily collects taxes through payroll, but increasingly, there is another way workers get paid.", start: 647.34, end: 655.40}
+  - {text: "Nowadays, you know, we get a lot of other stuff.", start: 655.70, end: 657.94}
+  - {text: "I get like a transit benefit at my work or a flexible spending account at my work.", start: 658.18, end: 663.52}
+  - {text: "But those things are not taxed for Social Security.", start: 663.68, end: 666.22}
+  - {text: "So we could apply the payroll tax to things like that, just like we do to our 401k contributions.", start: 666.42, end: 670.70}
+  - {text: "Yeah, all that extra stuff that workers get from their employers, those are called fringe benefits.", start: 671.32, end: 676.30}
+  - {text: "And they're a way to give workers something without giving them literally a bigger paycheck.", start: 676.30, end: 680.84}
+  - {text: "And many of these benefits are untaxed.", start: 681.22, end: 683.50}
+  - {text: "So what if we started taxing them?", start: 683.68, end: 685.66}
+  - {text: "How much would that maybe make us?", start: 685.96, end: 688.20}
+  - {text: "So if the Social Security payroll tax was expanded to include things like flexible spending accounts and transit benefits, that would close 9 % of the gap.", start: 688.46, end: 698.26}
+  - {text: "And that 9 %?", start: 698.68, end: 699.70}
+  - {text: "That's before we even start talking about health care.", start: 700.00, end: 702.48}
+  - {text: "Health care costs have more than doubled in the last few decades.", start: 702.78, end: 705.54}
+  - {text: "And if we started taxing all health care premiums as well, that would bump us up to covering 28 % of the gap.", start: 705.54, end: 712.80}
+  - {text: "So this proposal could get us a significant part of the way there.", start: 713.10, end: 716.64}
+  - {text: "Then there's a proposal out there that also leans on workers to cover the gap, but not by raising taxes.", start: 716.88, end: 723.58}
+  - {text: "Instead, it would make workers work longer.", start: 724.02, end: 727.36}
+  - {text: "For that, we went to Maya McGinnis.", start: 728.04, end: 730.24}
+  - {text: "Do you remember the very first time you learned about Social Security?", start: 730.58, end: 733.72}
+  - {text: "In my very first job, which was working at a bakery until they fired me for eating too much of the fresh meringues.", start: 733.72, end: 740.26}
+  - {text: "I actually was eating their profits.", start: 740.34, end: 741.44}
+  - {text: "But my first job at a bakery, I did see that FICA, and I was indeed shocked.", start: 742.02, end: 745.68}
+  - {text: "Her shock at that payroll tax, good ol' FICA, eventually turned to intellectual curiosity.", start: 746.10, end: 751.58}
+  - {text: "And she has now spent decades thinking about Social Security.", start: 751.94, end: 754.84}
+  - {text: "She's with a group called the Committee for a Responsible Federal Budget.", start: 755.28, end: 758.04}
+  - {text: "I will collect retirement benefits in nine years.", start: 758.26, end: 760.76}
+  - {text: "This is personal for you.", start: 761.08, end: 762.16}
+  - {text: "That's right. It is personal for all of us.", start: 762.80, end: 765.94}
+  - {text: "When our time comes, we all want our Social Security tax.", start: 766.28, end: 769.44}
+  - {text: "Okay, there's nothing I'm looking forward to more.", start: 769.72, end: 771.52}
+  - {text: "I mean, there might be a few things I'm looking forward to.", start: 772.36, end: 775.14}
+  - {text: "But yes, we want our tax.", start: 775.54, end: 776.98}
+  - {text: "I asked Maya, give us one idea that could pump some money into the Social Security Trust Fund.", start: 777.38, end: 783.04}
+  - {text: "So the change that makes absolute sense is to raise the retirement age.", start: 783.40, end: 787.64}
+  - {text: "It's absurd that we are living decades longer and the retirement age has only grown two years since the program started in 1935.", start: 787.82, end: 796.76}
+  - {text: "So when Social Security started, life expectancy was 60 years old.", start: 797.40, end: 801.66}
+  - {text: "And you could start getting your benefits when you were 65.", start: 801.88, end: 804.40}
+  - {text: "Now, life expectancy is 79.", start: 805.08, end: 807.38}
+  - {text: "Woo! But we've only nudged the full retirement age up a couple of years.", start: 807.82, end: 811.56}
+  - {text: "Raising the retirement age would obviously make people work longer and be retired for less time.", start: 811.94, end: 818.08}
+  - {text: "So that's more money in these Social Security coffers.", start: 818.08, end: 821.62}
+  - {text: "Like, if the full retirement age became 69, that change could make up for 15 % or more of the Social Security deficit.", start: 821.76, end: 829.36}
+  - {text: "But Maya says you'd have to phase it in.", start: 830.06, end: 832.00}
+  - {text: "You need to give people time to prepare.", start: 832.28, end: 834.26}
+  - {text: "So you can't say to a 60 -year -old, instead of retiring at 67, you retire at 68.", start: 834.64, end: 839.84}
+  - {text: "Oh, that'd be horrible.", start: 840.22, end: 840.96}
+  - {text: "Right, you can't do that like, psych, it's your birthday, but you've got to work for another year.", start: 841.74, end: 845.48}
+  - {text: "So this is something that you really want to get out ahead of and announce even 10 years before the change starts to go into effect.", start: 845.48, end: 851.88}
+  - {text: "But in addition to making tired workers mad, this would also introduce other problems.", start: 852.06, end: 858.60}
+  - {text: "There are people whose jobs are so much harder and maybe don't want to stay another 10 years doing really grueling construction work.", start: 859.00, end: 866.60}
+  - {text: "And if it is somebody who has a job that is taking a physical toll, it's kind of crazy to think that somebody's going to be able to do", start: 866.82, end: 873.26}
+  - {text: "that or should do that in their late 60s and early 70s.", start: 873.26, end: 875.90}
+  - {text: "So how is that going to work for them?", start: 876.18, end: 877.52}
+  - {text: "This is the hard stuff.", start: 877.86, end: 878.90}
+  - {text: "Also, lower -income workers have a shorter life expectancy.", start: 879.48, end: 883.18}
+  - {text: "And even though they get a bigger share of their income from Social Security when they retire, the odds they get there are much lower.", start: 883.80, end: 890.88}
+  - {text: "So in a lot of ways, Maya says right now, Social Security is kind of like a subsidy for the rich.", start: 891.38, end: 897.00}
+  - {text: "Higher -income workers live longer, so over time, they get more of the money.", start: 897.50, end: 901.78}
+  - {text: "Maya says the solution to not making that problem worse is maybe we can create special provisions.", start: 901.78, end: 908.60}
+  - {text: "Like if you're working a grueling job, then you should be able to get your benefits earlier.", start: 908.98, end: 913.06}
+  - {text: "And there are other ways to kind of redistribute exactly which workers should pay the price of raising money for the Social Security trust fund.", start: 913.42, end: 923.04}
+  - {text: "Like this next proposal would distribute the cost more to the richest workers.", start: 923.44, end: 928.70}
+  - {text: "See, the way Social Security works right now is if you earn more than $184 ,500 a year, you don't have to pay Social Security tax on any earnings above that.", start: 929.02, end: 940.66}
+  - {text: "It's like picture a clock that resets every January first.", start: 941.04, end: 944.86}
+  - {text: "So for example, Doug Arnold, the author of Fixing Social Security, he says some Americans make that money in the first couple days of the year.", start: 945.18, end: 953.90}
+  - {text: "And then the next day, they stop paying into Social Security for the year.", start: 954.26, end: 959.50}
+  - {text: "Their Social Security payment clock just stops.", start: 959.50, end: 963.10}
+  - {text: "For a very rich person, that might come on January 3rd.", start: 963.56, end: 967.06}
+  - {text: "For your pediatrician, it might come on July 1st.", start: 967.30, end: 971.66}
+  - {text: "For somebody who just makes $200 ,000, it comes in November.", start: 971.72, end: 976.80}
+  - {text: "So one proposal is to change that, to tax those people more.", start: 977.30, end: 980.82}
+  - {text: "Doug says if we got rid of that upper limit, if we taxed high earners more without giving them more benefits when they retire, that would solve about two thirds of the deficit.", start: 981.28, end: 991.14}
+  - {text: "And this is a pretty popular proposal.", start: 991.32, end: 993.62}
+  - {text: "Politicians and the internet, they love talking about this.", start: 994.22, end: 997.18}
+  - {text: "And that maxing out number, $184 ,500 all the time.", start: 997.42, end: 1002.34}
+  - {text: "Why would they have picked that number?", start: 1002.72, end: 1005.00}
+  - {text: "Well, of course, they didn't pick that number.", start: 1005.48, end: 1007.18}
+  - {text: "They picked the number $3 ,000.", start: 1007.32, end: 1009.08}
+  - {text: "Oh. Back in the 1930s, rich people were defined as anyone who made more than $3 ,000 a year.", start: 1009.72, end: 1016.74}
+  - {text: "Wow, inflation. That was around 3 % of Americans.", start: 1016.74, end: 1020.74}
+  - {text: "So they made that the maximum taxable wage.", start: 1021.24, end: 1023.68}
+  - {text: "So it started as $3 ,000.", start: 1024.26, end: 1026.22}
+  - {text: "Pulling up all your charts.", start: 1026.48, end: 1027.42}
+  - {text: "I love this. That's right.", start: 1027.54, end: 1028.76}
+  - {text: "Then it went up.", start: 1029.10, end: 1030.36}
+  - {text: "Congress would just periodically say, oh, gee, we should raise that maximum taxable wage base again.", start: 1030.80, end: 1036.32}
+  - {text: "Eventually, in the 70s, they pegged the increases to wage inflation.", start: 1036.72, end: 1040.62}
+  - {text: "But Doug says since then, some people's salaries have grown way more than the average wage has grown.", start: 1040.96, end: 1046.78}
+  - {text: "The amount of salary income that is untaxed by Social Security is now about three times greater than it used to be.", start: 1047.32, end: 1057.40}
+  - {text: "And that's because of wage inequality that basically the rich are richer today.", start: 1057.86, end: 1062.90}
+  - {text: "They're not just rich like they used to be, like they're really, really rich.", start: 1063.28, end: 1067.64}
+  - {text: "The way Social Security works now, the more money you make over your working years, the more Social Security you get in retirement, up to a maximum, a limit.", start: 1068.04, end: 1077.28}
+  - {text: "And there's a minimum too.", start: 1077.70, end: 1078.92}
+  - {text: "So if you didn't make a lot over your working years, you still get that minimum payment.", start: 1079.20, end: 1083.04}
+  - {text: "And Doug says you can play with how much payroll tax you collect from which categories of people.", start: 1083.42, end: 1089.04}
+  - {text: "Or you can lower or reduce benefits for the richer people who are more likely to also have other forms of retirement accounts.", start: 1089.42, end: 1098.02}
+  - {text: "So this fix, which leans on the richest workers, could definitely relieve some of the problem.", start: 1098.38, end: 1103.82}
+  - {text: "How much depends on how you want to strike the balance.", start: 1104.24, end: 1106.94}
+  - {text: "Now, Doug did tell us about one more possible fix.", start: 1107.66, end: 1110.88}
+  - {text: "This is one that wouldn't involve leaning on current workers at all.", start: 1111.20, end: 1115.00}
+  - {text: "In fact, in this fix, the retirees bear the brunt.", start: 1115.42, end: 1118.08}
+  - {text: "Right now, those retired people's Social Security payments are pegged to the Consumer Price Index.", start: 1118.32, end: 1123.78}
+  - {text: "The Consumer Price Index goes out and they check every month what the price of gasoline is in a bunch of different markets.", start: 1124.18, end: 1134.38}
+  - {text: "They do the little basket of goods and it's like, oh, this is how much we think milk costs and this is how much this is.", start: 1134.38, end: 1140.34}
+  - {text: "But there are other indexes out there that could make the Social Security program cheaper for the government.", start: 1140.58, end: 1145.82}
+  - {text: "So why not use those?", start: 1146.10, end: 1147.60}
+  - {text: "Like a Chained Price Index.", start: 1147.88, end: 1149.60}
+  - {text: "That would take more into consideration how seniors actually spend money, like what choices they make.", start: 1150.02, end: 1155.78}
+  - {text: "This Chained Price Index is the solution Republicans have proposed.", start: 1156.02, end: 1159.38}
+  - {text: "Democrats have suggested using another one, the Consumer Price Index for the elderly.", start: 1159.38, end: 1164.20}
+  - {text: "But Doug is like, we could also just create a whole new one.", start: 1164.74, end: 1167.86}
+  - {text: "Why not invent a truly accurate gauge and leave it at that?", start: 1168.14, end: 1173.82}
+  - {text: "One way or another, giving a little less to today's retirees doesn't seem entirely unfair.", start: 1174.18, end: 1179.74}
+  - {text: "Boomers are the richest generation.", start: 1180.42, end: 1182.66}
+  - {text: "Like right now, they hold half of all the household wealth even though they're less than 20 % of the US population.", start: 1183.12, end: 1189.80}
+  - {text: "And they're also much more likely than current workers to have some other cushions in their retirement like pensions, which used to be a lot more common.", start: 1190.46, end: 1199.26}
+  - {text: "But on the flip side, of course, recent numbers show that a lot of retirees really need their Social Security.", start: 1199.80, end: 1205.26}
+  - {text: "Last year, it kept nearly 29 million Americans out of poverty.", start: 1205.60, end: 1208.68}
+  - {text: "After the break, a fix that doesn't reduce payments to retirees but also wouldn't increase taxes on today's American workers.", start: 1209.02, end: 1217.18}
+  - {text: "Plus, we go back to our former chief actuary for a reality check.", start: 1217.86, end: 1221.56}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1226.66, end: 1230.06}
+  - {text: "This message comes from Whole Foods Market.", start: 1231.31, end: 1233.13}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 1233.65, end: 1236.91}
+  - {text: "No added growth hormones or antibiotics in their meat department means slow -braised short ribs are even more satisfying.", start: 1237.31, end: 1243.01}
+  - {text: "All seafood is wild caught, like their vibrant sockeye salmon or verified responsibly farmed.", start: 1243.57, end: 1248.37}
+  - {text: "And all sweets, including fall -themed cookies, are made without high fructose corn syrup.", start: 1248.55, end: 1252.99}
+  - {text: "Spice up fall at Whole Foods Market.", start: 1253.47, end: 1255.07}
+  - {text: "This message comes from Schwab.", start: 1256.26, end: 1257.68}
+  - {text: "Investing with Schwab is like a hike with endless trails.", start: 1258.22, end: 1261.14}
+  - {text: "Go solo with self -directed investing.", start: 1261.68, end: 1263.68}
+  - {text: "Take stops along the way with trading or choose a guide with full service wealth management.", start: 1264.08, end: 1268.74}
+  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 1269.18, end: 1272.64}
+  - {text: "This message comes from LinkedIn.", start: 1273.28, end: 1274.82}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 1274.82, end: 1279.62}
+  - {text: "It's even harder to do it efficiently.", start: 1279.92, end: 1281.34}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 1281.76, end: 1285.68}
+  - {text: "With LinkedIn, simplify your sales, marketing, and hiring so that you can actually run your small business.", start: 1285.98, end: 1292.18}
+  - {text: "Learn more at linkedin .com -planet -money -show.", start: 1292.56, end: 1296.06}
+  - {text: "And that one came from Kathleen Romig.", start: 1305.24, end: 1308.08}
+  - {text: "Kathleen talked to us about a problem we haven't really mentioned yet.", start: 1308.26, end: 1311.22}
+  - {text: "That Americans are having a lot fewer babies.", start: 1311.56, end: 1314.88}
+  - {text: "And the big idea she brought up to fix it is immigration, allowing more of it.", start: 1315.40, end: 1320.38}
+  - {text: "You know, social security is a pay -as -you -go program.", start: 1320.64, end: 1323.46}
+  - {text: "So why not have more workers paying into it?", start: 1323.72, end: 1327.16}
+  - {text: "We're at net zero immigration right now, and that means fewer workers contributing to this really important program than we used to.", start: 1327.50, end: 1334.64}
+  - {text: "So in order to fix social security, more immigration.", start: 1334.64, end: 1338.20}
+  - {text: "Right. So if you look at the Social Security Trustees report just this last year, it showed explicitly that because of lower levels of immigration, the financing gap has gotten bigger.", start: 1338.56, end: 1348.52}
+  - {text: "And the reverse is true.", start: 1349.02, end: 1350.08}
+  - {text: "If we had higher levels of immigration, the financing problem would shrink.", start: 1350.48, end: 1354.20}
+  - {text: "It's just math. The fertility rate in the U .S.", start: 1354.64, end: 1357.62}
+  - {text: "is currently below replacement level.", start: 1357.66, end: 1359.58}
+  - {text: "And even if a baby boom just suddenly magically happened, those babies would be busy being babies.", start: 1359.92, end: 1366.42}
+  - {text: "Goo Goo Gaga. And a couple decades from paying into the program.", start: 1366.70, end: 1369.94}
+  - {text: "So why not allow more working -age people into the country right now who could be paying into Social Security and helping to reduce the deficit?", start: 1370.24, end: 1378.02}
+  - {text: "So when we eventually went back to our former chief actuary, our Social Security Calculator, Steve Goss, we had this long list of ideas to talk with him about.", start: 1378.36, end: 1388.74}
+  - {text: "And every one of them, he's already heard.", start: 1389.04, end: 1391.30}
+  - {text: "Plus some others. Oh my gosh, probably hundreds.", start: 1391.86, end: 1395.08}
+  - {text: "Yeah, these are not just ideas he's heard, but ideas he has seriously considered.", start: 1395.50, end: 1399.86}
+  - {text: "These are all versions of proposals that members of Congress and economists have been talking about, and that Steve has done the actual math on.", start: 1400.24, end: 1408.08}
+  - {text: "Though he wants to make it clear he no longer speaks for the Social Security Administration in any way, he's just a guy who's thought about this a lot.", start: 1408.40, end: 1415.82}
+  - {text: "And his take is, unless Congress dares to adopt a full 2 .2 percentage point tax hike on workers, plus 2 .2 more from employers, which we will add might possibly make them the least popular people of all time,", start: 1416.06, end: 1429.92}
+  - {text: "but would solve the whole problem all at once.", start: 1430.08, end: 1433.26}
+  - {text: "Unless they make that move, the only way we can make up the deficit at this point is through some combination of ideas.", start: 1433.82, end: 1441.32}
+  - {text: "Nothing is off the table.", start: 1441.84, end: 1443.32}
+  - {text: "And Steve is not partial to any one specific idea.", start: 1443.76, end: 1446.34}
+  - {text: "It's more like, yes to everything.", start: 1446.70, end: 1448.46}
+  - {text: "It's up to the American people.", start: 1448.46, end: 1450.02}
+  - {text: "Like, more immigration? He's like, sure.", start: 1450.58, end: 1452.78}
+  - {text: "Yes, historically no question that positive net immigration has been a plus for the United States.", start: 1453.12, end: 1459.60}
+  - {text: "It's almost like having had a higher birth rate 25 or 30 years ago.", start: 1459.68, end: 1463.92}
+  - {text: "And Steve also says, yeah, sure, getting rid of the maximum earnings cap would help.", start: 1464.32, end: 1468.60}
+  - {text: "Everyone, no matter how much you make, could keep paying into Social Security.", start: 1468.90, end: 1472.44}
+  - {text: "Basically around a range of about 60 % of the long -range shortfall could be eliminated by simply eliminating the taxable maximum.", start: 1472.72, end: 1480.28}
+  - {text: "Also Steve says, raising the age at which people can collect full Social Security would help.", start: 1480.68, end: 1486.28}
+  - {text: "This has actually been a proposal that's been put forth, studied, and some would argue makes sense.", start: 1486.42, end: 1491.10}
+  - {text: "It's provision C1 .3.", start: 1491.72, end: 1493.64}
+  - {text: "You are an encyclopedia, I will say.", start: 1494.28, end: 1496.64}
+  - {text: "Steve says, you could also do this in a more equitable way.", start: 1497.98, end: 1501.12}
+  - {text: "You could stagger retirement ages based on how much people earn.", start: 1501.30, end: 1504.40}
+  - {text: "So you could retire earlier maybe if you earn lower wages.", start: 1504.74, end: 1507.86}
+  - {text: "How feasible would it be to actually implement this?", start: 1508.28, end: 1510.76}
+  - {text: "Very feasible. I mean, so sure to your authority, receiving all the information, it needs to be able to affect us if it were enacted.", start: 1511.22, end: 1517.80}
+  - {text: "So basically Steve says yes to any and all the proposals and others we haven't talked about because he already knows from past experience that if you want to fix this Social Security deficit long term, you have to do a lot.", start: 1518.24, end: 1531.94}
+  - {text: "And he knows from past experience, your math has to be solid.", start: 1532.24, end: 1536.00}
+  - {text: "Yeah, you see, back in the 1980s, Congress did make a bunch of changes.", start: 1536.00, end: 1541.22}
+  - {text: "At the time, Social Security was running a deficit and to fix it, among other things, Congress raised the retirement age and the Social Security tax.", start: 1541.56, end: 1549.08}
+  - {text: "Plus, they had already changed the way they calculated the maximum taxable earnings to keep up with increases in average wages.", start: 1549.48, end: 1556.38}
+  - {text: "And they thought that all of these changes would be a long -term fix.", start: 1556.80, end: 1560.82}
+  - {text: "They thought those fixes could keep the program afloat for at least another 75 years.", start: 1561.20, end: 1564.82}
+  - {text: "You were there in 1983.", start: 1564.82, end: 1566.88}
+  - {text: "I was indeed. But Steve says two things happened that nobody anticipated.", start: 1568.28, end: 1572.90}
+  - {text: "One is a labor trend.", start: 1573.36, end: 1575.26}
+  - {text: "As projected, we got richer, we're making mad money, but not as projected.", start: 1575.62, end: 1581.44}
+  - {text: "Some people are making way more than others.", start: 1581.92, end: 1585.56}
+  - {text: "Back in 1983, they didn't expect that some people's salary would grow by so much.", start: 1586.18, end: 1591.64}
+  - {text: "But we had not anticipated there would be this level of shift in earnings.", start: 1591.64, end: 1596.84}
+  - {text: "If Congress had known, they might have figured out a way to raise the maximum taxable salary by a lot more.", start: 1597.46, end: 1602.62}
+  - {text: "Another thing Steve says no one saw coming was the 2008 recession.", start: 1603.26, end: 1607.14}
+  - {text: "If you were expecting the economy would be rolling along, there'd be ups and downs and all kinds of stuff.", start: 1607.54, end: 1612.10}
+  - {text: "And typically, when there's a recession, it's fairly brief and the recovery is fairly brief.", start: 1612.18, end: 1616.34}
+  - {text: "It was a 10 -year recovery for that recession.", start: 1616.90, end: 1619.58}
+  - {text: "So long. Yeah, so long.", start: 1619.84, end: 1621.86}
+  - {text: "Yeah, employment was lower, earnings were depressed, and obviously, that meant less money coming into the Social Security Trust Fund.", start: 1622.14, end: 1630.88}
+  - {text: "And the third thing Steve says they were wrong about was the fertility rate.", start: 1631.18, end: 1635.86}
+  - {text: "They thought couples would continue having about two children on average.", start: 1636.18, end: 1640.02}
+  - {text: "In fact, it did not.", start: 1640.46, end: 1642.12}
+  - {text: "Stay at two were now actually below that level.", start: 1642.56, end: 1645.20}
+  - {text: "Steve says to fix the big social security problem, you have to be willing to keep adjusting your math.", start: 1645.50, end: 1651.68}
+  - {text: "And he says the longer we wait to fix it, the worse this problem will be.", start: 1652.02, end: 1656.24}
+  - {text: "Because this great economic experiment just doesn't have any quick -fix solutions.", start: 1656.50, end: 1661.10}
+  - {text: "We tried a few last -ditch ideas of our own on Steve.", start: 1661.64, end: 1665.92}
+  - {text: "Like, why can't we just grab some cash from the Treasury's funds and put it in the Social Security Pulse?", start: 1666.48, end: 1672.50}
+  - {text: "You know, like a bailout.", start: 1672.80, end: 1673.84}
+  - {text: "Well, unfortunately, the Treasury's vaults are not really so much as having pile of money that are available.", start: 1674.00, end: 1679.88}
+  - {text: "It's sort of the other way around.", start: 1680.14, end: 1681.36}
+  - {text: "It's a little depleted at the moment.", start: 1681.62, end: 1683.40}
+  - {text: "It has debt, yep.", start: 1683.52, end: 1684.92}
+  - {text: "Yeah, but even if the U .S.", start: 1685.24, end: 1687.00}
+  - {text: "government wasn't $40 trillion in debt, we just can't.", start: 1687.08, end: 1691.54}
+  - {text: "Legally, the Social Security Program isn't allowed to borrow from anywhere other than the Disability Trust Fund.", start: 1691.86, end: 1697.84}
+  - {text: "Okay, okay, fine. Laws, whatever.", start: 1698.06, end: 1700.30}
+  - {text: "There is, though, one last idea we wanted to ask Steve about before we accepted his overarching message that the solution is going to be complicated and multifaceted and a bunch of intertwined policies, yada -yada, and not some snap of the fingers.", start: 1700.98, end: 1715.46}
+  - {text: "Our last shot at an easy fix?", start: 1715.90, end: 1718.28}
+  - {text: "If there are still today a couple trillion dollars left in the Trust Fund, why not invest?", start: 1718.90, end: 1723.94}
+  - {text: "Put that money in the stock market.", start: 1724.42, end: 1726.34}
+  - {text: "Watch that Social Security Trust Fund multiply.", start: 1726.60, end: 1729.58}
+  - {text: "Social Security is famously not invested in the market, but if it were, there might be a higher rate of return, right?", start: 1730.18, end: 1737.24}
+  - {text: "Like more money for everyone.", start: 1737.48, end: 1739.62}
+  - {text: "And, okay, Steve was like, this is a pretty great idea.", start: 1740.00, end: 1743.72}
+  - {text: "And even though this would mean the U .S.", start: 1744.00, end: 1745.64}
+  - {text: "would be a majority stakeholder in a lot of private industries, the U .S.", start: 1745.68, end: 1750.18}
+  - {text: "did, in fact, talk about this idea a bunch in the 1990s, but they didn't do it.", start: 1750.34, end: 1756.84}
+  - {text: "And now, if we were to do it, there actually wouldn't be enough benefit because the fund is depleted.", start: 1757.28, end: 1763.14}
+  - {text: "We are spending it down every single day.", start: 1763.14, end: 1765.82}
+  - {text: "We don't have enough money in the Trust Funds to be able to make that difference.", start: 1765.90, end: 1768.90}
+  - {text: "Now, if we had done, for example, what Canada did, Canada back in the 1990s did make this move.", start: 1769.20, end: 1776.30}
+  - {text: "And as it happens, that investment fund has grown since the 1990s to the point now, where I was just talking with the folks in Canada recently,", start: 1777.19, end: 1786.49}
+  - {text: "their Trust Fund that has been built up with equities is now equal in size to 25 % of their gross domestic product.", start: 1787.37, end: 1795.27}
+  - {text: "Wow. So that was a wise move and they have much benefited from it.", start: 1795.73, end: 1801.02}
+  - {text: "In fact, they've recently dropped their payroll tax rate for the Canadian pension plan a little bit because of the good returns in that investment fund.", start: 1801.40, end: 1810.34}
+  - {text: "So yeah, good idea, but too late for us Americans.", start: 1810.80, end: 1814.88}
+  - {text: "But wow, good on you, Canada.", start: 1815.46, end: 1816.94}
+  - {text: "Good on you. Happy for you.", start: 1817.44, end: 1819.10}
+  - {text: "You know, Erica, they say the best time to save for retirement is 25 years ago.", start: 1819.42, end: 1823.22}
+  - {text: "That is literally what they say.", start: 1823.36, end: 1825.34}
+  - {text: "But the next best time is today.", start: 1825.50, end: 1827.46}
+  - {text: "We could start, we could try, but we really can't is the problem.", start: 1827.82, end: 1830.46}
+  - {text: "We really can't. Sorry.", start: 1830.68, end: 1832.44}
+  - {text: "And before we go, a plug for our recent bonus episode for NPR Plus supporters that is all about NPR Plus supporters, where your money goes,", start: 1839.56, end: 1849.38}
+  - {text: "what it means to NPR and planet money, and how our corner of the podcast economy works.", start: 1849.64, end: 1855.10}
+  - {text: "If you've ever wondered about podcast subscriptions, what the finances look like under the hood, or why we ask you so often to join NPR Plus, you'll like this episode.", start: 1855.10, end: 1862.52}
+  - {text: "We're looking at you, Planet Money Subreddit.", start: 1862.74, end: 1864.66}
+  - {text: "And as always, if you have questions, feedback, or ideas for a future bonus episode, get in touch.", start: 1865.18, end: 1871.68}
+  - {text: "Email us at planetmoneyatnpr .org and toss plus in the subject line.", start: 1872.06, end: 1877.50}
+  - {text: "This episode of Planet Money was produced by James Snead and edited by Marianne McCune.", start: 1877.80, end: 1881.96}
+  - {text: "Sarah Juarez is our fact checker and An Lee Huang and Robert Rodriguez engineered the show.", start: 1882.28, end: 1886.74}
+  - {text: "Alex Goldmark is the executive producer of Planet Money.", start: 1887.12, end: 1889.42}
+  - {text: "Big thank you to Nancy Altman and Romina Baccia.", start: 1889.64, end: 1892.62}
+  - {text: "I'm Erica Barris. And I'm Jeff Guo.", start: 1893.10, end: 1894.72}
+  - {text: "This is NPR. Thanks for listening.", start: 1894.96, end: 1896.26}
+  - {text: "Right into the premium versions of Gmail, Google Docs, Sheets and more, no new tools, no extra logins, just one subscription that gives you personalized AI right inside your actual workflow.", start: 1923.10, end: 1934.50}
+  - {text: "Try Google Workspace with Gemini at goo .gle slash workspace with Gemini.", start: 1934.92, end: 1940.34}
+  - {text: "This message comes from Capella University.", start: 1941.10, end: 1943.54}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1943.94, end: 1948.46}
+  - {text: "That's your own drive pushing you towards what's next.", start: 1948.74, end: 1952.10}
+  - {text: "Capella University gets that.", start: 1952.10, end: 1954.20}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 1954.54, end: 1960.62}
+  - {text: "You've built experience and know what you're capable of.", start: 1961.08, end: 1964.06}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 1964.46, end: 1968.48}
+  - {text: "The only real question is, what can't you do?", start: 1968.84, end: 1971.84}
+  - {text: "Learn more at capella .edu.", start: 1972.18, end: 1974.18}
+---

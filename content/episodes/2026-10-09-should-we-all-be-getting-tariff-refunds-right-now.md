@@ -1,0 +1,408 @@
+---
+layout: single
+title: "Should we all be getting tariff refunds right now?"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-09T00:00:00Z
+slug: "2026-10-09-should-we-all-be-getting-tariff-refunds-right-now"
+audioDir: "2026-10-09-should-we-all-be-getting-tariff-refunds-right-now"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-09-should-we-all-be-getting-tariff-refunds-right-now/episode.mp3"
+totalDuration: 2006.6
+sentences:
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.54}
+  - {text: "Apollo provides access to long duration capital and a broad range of financing capabilities, helping companies drive growth at an efficient cost of capital.", start: 2.02, end: 10.08}
+  - {text: "Learn more at apollo .com slash capital.", start: 10.40, end: 13.58}
+  - {text: "This is Planet Money from NPR.", start: 15.07, end: 17.35}
+  - {text: "Shouldn't we all be getting tariff refunds right now?", start: 20.41, end: 23.17}
+  - {text: "Because I have not received one, even though I, and likely you listener, paid more in general for goods as a U .S.", start: 23.55, end: 29.75}
+  - {text: "consumer because the companies selling us those goods had to pay tariffs.", start: 29.91, end: 33.57}
+  - {text: "And now a ton of those tariffs have been struck down by the Supreme Court.", start: 34.09, end: 37.91}
+  - {text: "The U .S. government has started to pay billions in tariff refunds to companies who again passed along tariffs to us.", start: 38.33, end: 45.59}
+  - {text: "So they get the tariff refunds even though they made us pay tariffs.", start: 45.99, end: 50.59}
+  - {text: "Sometimes they made us pay those tariffs indirectly or just partially by baking them into higher prices.", start: 51.11, end: 57.25}
+  - {text: "But sometimes, as is the fateful case at the center of today's episode, companies flat out told us, here's the tariff, you pay it.", start: 57.43, end: 65.77}
+  - {text: "Do you remember where you were at your desk?", start: 66.25, end: 67.75}
+  - {text: "Paint as much a picture of when you go through the process of buying this.", start: 68.13, end: 71.59}
+  - {text: "This is going to be the soap opera part.", start: 71.77, end: 73.61}
+  - {text: "Okay, I was honestly probably in my bed just scrolling.", start: 73.95, end: 78.57}
+  - {text: "This is Planet Money Listener, Amy Choi.", start: 81.30, end: 84.54}
+  - {text: "And okay, being on a phone in bed is not obviously a soap opera scene.", start: 84.88, end: 89.50}
+  - {text: "However, we here at Planet Money would argue that tariffs have turned even the most mundane parts of our lives into a slow burning saga that may happen in small ways,", start: 89.62, end: 100.78}
+  - {text: "but really do add up to an economic drama of historic proportions.", start: 100.82, end: 105.54}
+  - {text: "It's notice them. And that is why, from time to time, we will force the spotlight of a soapy melodrama onto something like Amy Choi, sitting in bed scrolling and scrolling.", start: 108.80, end: 121.46}
+  - {text: "Not necessarily shopping, but then she sees the email.", start: 121.64, end: 126.10}
+  - {text: "The email says that, hey, the playdate is back in stock.", start: 126.75, end: 130.15}
+  - {text: "The playdate is a very small handheld video game console that is not made by any of the famous video game companies.", start: 130.45, end: 136.57}
+  - {text: "I don't want to call it a modern hipster game boy, but it is a small batch, pricey, retro -styled handheld video game device that sells out all the time, until last year at the height of the tariffs, Amy got the email.", start: 136.71, end: 153.01}
+  - {text: "Playdate was back in stock.", start: 153.33, end: 155.03}
+  - {text: "And you think what?", start: 155.33, end: 157.01}
+  - {text: "You know, I'm thinking, hey, you know, I completely forgot that this thing existed, but it's cute.", start: 158.74, end: 165.72}
+  - {text: "There's probably quite a few games on the catalog now.", start: 166.28, end: 169.92}
+  - {text: "Let's give it a shot.", start: 170.48, end: 171.54}
+  - {text: "Amy goes to check out, playdate console, $229, cover that makes it look like a pizza box, $20, tax for California where she lives, $24 .28.", start: 172.00, end: 182.60}
+  - {text: "And I have a line item here for tariffs.", start: 183.56, end: 186.14}
+  - {text: "I 'll pay the tariffs.", start: 190.50, end: 192.10}
+  - {text: "I think as consumers, we sort of, we put a lot of trust in these companies, right?", start: 192.50, end: 197.42}
+  - {text: "When we buy something, we're like, you know what, if they say I owe $14 .02 in tariffs, then I must owe $14 .02 on the tariffs, right?", start: 197.58, end: 205.20}
+  - {text: "Amy didn't know it, but she was about to become a main character in the days of our tariffs.", start: 205.62, end: 211.94}
+  - {text: "Like the sands through the economy, so are the days of our tariffs.", start: 216.28, end: 220.94}
+  - {text: "Hello, and welcome to Planet Money, today's episode, refunds and regrets.", start: 221.52, end: 225.98}
+  - {text: "Could a tiny video game system be the companion Amy Choi had longed for or could it be the beginning of betrayal?", start: 226.66, end: 234.06}
+  - {text: "We will get an unusually intimate look from inside the company that passed their tariff along to Amy and their decision about whether or not to also pass their refund along to her.", start: 234.38, end: 244.76}
+  - {text: "Plus, by applying for your own personal refund is a whole mess, but you may have options, we'll walk you through them after the break.", start: 245.10, end: 253.36}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 261.12, end: 264.92}
+  - {text: "This message comes from Ethos.", start: 265.28, end: 266.84}
+  - {text: "It's easy to put off getting life insurance until something unexpected happens.", start: 267.16, end: 271.40}
+  - {text: "That makes you realize your family needs you covered.", start: 271.68, end: 274.50}
+  - {text: "Ethos makes it easy.", start: 274.80, end: 275.82}
+  - {text: "It's 100 % online, no medical exam, just a few health questions.", start: 276.14, end: 280.00}
+  - {text: "Apply in minutes and get same day coverage up to 3 million.", start: 280.44, end: 283.82}
+  - {text: "Get your free quote today at ethos .com slash money.", start: 284.12, end: 287.66}
+  - {text: "That's ethos .com slash money.", start: 288.02, end: 290.24}
+  - {text: "Application times and rates may vary.", start: 290.46, end: 292.36}
+  - {text: "This message comes from Bombus.", start: 292.84, end: 294.44}
+  - {text: "Whether you're outdoors or just lounging around the house, cool weather calls for cozier footwear.", start: 294.74, end: 300.10}
+  - {text: "Bombus makes the perfect slippers and shoes built with smooth premium suede, plush sherpa, and warm sheepskin shearling, all with layers of cloud -like cushioning.", start: 300.34, end: 310.74}
+  - {text: "Perfect for staying in, stepping out, and keeping things cozy all season long.", start: 310.92, end: 315.56}
+  - {text: "Visit bombas .com slash npr and use code NPR for 20 % off your first purchase.", start: 315.86, end: 323.80}
+  - {text: "If I were in charge of tariff refunds, I would set up an official website with one of those giant fundraising thermometer graphs, and every day it would get a little less", start: 325.19, end: 335.01}
+  - {text: "and less full of red until all the tariff money has been paid back.", start: 335.01, end: 339.21}
+  - {text: "But there isn't that.", start: 339.35, end: 340.63}
+  - {text: "Instead, the US government has to make these occasional filings with the Court of International Trade, which I've been pulling regularly to give me a glimpse into how refunds are going.", start: 340.89, end: 350.63}
+  - {text: "And the last one I could find said that as of early September, $122 billion of tariff refunds had been paid back, to which companies, to how many companies, uh, it doesn't say.", start: 350.73, end: 363.93}
+  - {text: "But what I can say is that about $200 ,000 of refund money is making its way back to the company that makes the PlayDate video game console, not because it was in the filing or anything, because I asked them, how do I say your name,", start: 364.17, end: 379.13}
+  - {text: "Oh, it's Cable, just like a cable guy.", start: 379.69, end: 382.21}
+  - {text: "Cable Sasser is CEO and co -founder of Panic, the company that makes the PlayDate.", start: 383.53, end: 388.61}
+  - {text: "They're based in Portland, Oregon.", start: 388.91, end: 390.15}
+  - {text: "They're tiny, like 25 employees, probably most famous for helping launch a video game called Untitled Goose Game in which you wander around and just be a goose.", start: 390.37, end: 401.61}
+  - {text: "I know it sounds silly, but genuinely it was a big deal and was very fun.", start: 402.09, end: 405.39}
+  - {text: "Anyway, the dramatic part of Panic's story, the one worth soap -oprifying, well that starts about seven years ago.", start: 406.03, end: 412.91}
+  - {text: "Uh, yeah, we just really wanted to try something different and boy did we try something different.", start: 413.11, end: 419.63}
+  - {text: "The Panic company announced that they were going to make a physical video game console, even though they had never made and sold a physical object before.", start: 420.03, end: 428.77}
+  - {text: "The PlayDate was going to look a little like an early iPod, it was going to be TaxiCab Yellow, and uniquely, one of its controls was going to be a built -in crank.", start: 429.37, end: 438.49}
+  - {text: "Imagine like the thing you used to work a fishing rod.", start: 438.61, end: 440.77}
+  - {text: "Now the initial run was only 20 ,000.", start: 441.19, end: 443.53}
+  - {text: "Panic had no real idea what they were doing and decided to work with a consultant who then decided to put them in a factory in Malaysia.", start: 443.85, end: 452.05}
+  - {text: "The consultant we sort of worked with had great experiences making things in Malaysia, specifically working conditions were good.", start: 452.45, end: 461.41}
+  - {text: "He said you don't need to worry about something called Shadow Lions, which is where they make your product and then they make a bootleg of your product.", start: 461.75, end: 470.27}
+  - {text: "I like Shadow Lions.", start: 470.65, end: 471.61}
+  - {text: "Yeah, some really interesting things that we learned through that process.", start: 471.93, end: 474.91}
+  - {text: "The first 20 ,000 PlayDates sold out in 20 minutes.", start: 475.51, end: 478.13}
+  - {text: "Panic made more, those sold out.", start: 478.53, end: 479.99}
+  - {text: "It was a mostly straightforward manufacturing business until Cable starts to hear the rumors in 2025 that President Trump is going to announce some huge tariffs.", start: 480.13, end: 491.81}
+  - {text: "Were you thinking like, please don't pay attention to Malaysia, please don't pay attention to Malaysia?", start: 492.59, end: 496.33}
+  - {text: "For sure. 100 % exactly correct.", start: 496.57, end: 498.97}
+  - {text: "There's a lot of that.", start: 499.05, end: 499.89}
+  - {text: "Maybe there'll be an exception for, I don't know, something yellow game systems like, I don't know, we were just praying.", start: 500.47, end: 507.79}
+  - {text: "Alas, the tariff gods did not answer.", start: 508.21, end: 510.93}
+  - {text: "Yellow video game systems were not spared.", start: 511.09, end: 513.37}
+  - {text: "Malaysia was not spared.", start: 513.53, end: 514.83}
+  - {text: "It costs about $120 to make a PlayDate.", start: 514.91, end: 518.53}
+  - {text: "The tariffs were going to increase that cost by 10 to 20%, Cable said.", start: 518.53, end: 523.39}
+  - {text: "At first, we ate the tariffs for a few months.", start: 523.71, end: 526.59}
+  - {text: "We're just like, I guess this is what everybody is doing.", start: 526.87, end: 529.21}
+  - {text: "I don't know how, you know, we just got to, we just got to suffer.", start: 529.79, end: 533.77}
+  - {text: "But after eating about $100 ,000 in tariffs, they simply couldn't make the finances work anymore.", start: 534.11, end: 539.75}
+  - {text: "We thought this is actually a really bad idea.", start: 540.09, end: 542.39}
+  - {text: "What this is is a tax.", start: 542.75, end: 543.99}
+  - {text: "We should just put it on the checkout as a tax.", start: 544.69, end: 547.11}
+  - {text: "Like really explicitly, pass that tariff along to the customer.", start: 547.59, end: 550.71}
+  - {text: "As in an additional line item at checkout saying, here's how much extra you owe to cover the tariff.", start: 550.83, end: 556.39}
+  - {text: "That line item, that planet money listener, Amy Choi saw.", start: 556.71, end: 560.71}
+  - {text: "Tariffs at $14 .02.", start: 560.91, end: 563.43}
+  - {text: "And next to that tariff charge was a tiny hyperlink, which Amy either actually didn't see or she definitely didn't click on it.", start: 564.15, end: 573.45}
+  - {text: "She didn't click on it.", start: 573.51, end: 574.07}
+  - {text: "No. Okay. So the CEO of Panic had written an explanation for the tariff line.", start: 574.17, end: 580.33}
+  - {text: "Like personally? Yes. It is so long.", start: 580.85, end: 583.67}
+  - {text: "What did it say?", start: 584.01, end: 584.75}
+  - {text: "Okay. I found the original note and let me do a dramatic reading.", start: 585.37, end: 588.49}
+  - {text: "Give me your best soap opera voice.", start: 588.63, end: 590.15}
+  - {text: "Okay. Again, Cable Sassar.", start: 590.17, end: 591.53}
+  - {text: "And here is what PlayDate buyers could have seen at checkout if they clicked on their tariff line item.", start: 591.61, end: 597.61}
+  - {text: "As of right now, United States Customs and Border Patrol is billing us 19 % for every PlayDate we receive at our warehouse in North Las Vegas, Nevada, because PlayDate is manufactured in Malaysia.", start: 599.33, end: 611.49}
+  - {text: "Our margin on PlayDate is already quite low.", start: 612.19, end: 614.89}
+  - {text: "So I'll just jump in here to say the entirety of what Cable wrote would take about two minutes to read out loud.", start: 615.37, end: 620.55}
+  - {text: "But the gist is high -end materials, stainless steel, tariffs, really annoying situation constantly changing, yadda yadda yadda.", start: 620.61, end: 626.31}
+  - {text: "Here is how the note ends.", start: 626.77, end: 627.79}
+  - {text: "Just so you know, we hate this.", start: 628.23, end: 630.25}
+  - {text: "We know money is tight for everyone.", start: 630.63, end: 632.25}
+  - {text: "We thank you for your patience and your kind understanding.", start: 632.53, end: 634.91}
+  - {text: "Our deepest dream is that we can delete this line item and this page someday soon.", start: 635.41, end: 640.63}
+  - {text: "That was a lot.", start: 643.21, end: 643.69}
+  - {text: "It is a lot, but Amy Choi didn't click on it and see any of it.", start: 643.95, end: 648.63}
+  - {text: "All she saw was that Panic was going to charge her for the tariff and it was $14 .02.", start: 648.71, end: 654.63}
+  - {text: "I mean, I think it's business as usual, right?", start: 655.17, end: 657.47}
+  - {text: "Yeah. Is it enough to make you question, to like hover for a second before you hit confirm?", start: 657.91, end: 661.79}
+  - {text: "I am ashamed to say, for me, no.", start: 662.39, end: 664.61}
+  - {text: "Yeah. So Amy buys the PlayDate.", start: 665.83, end: 668.01}
+  - {text: "One week later, shows up.", start: 668.71, end: 670.05}
+  - {text: "Oh, it makes, okay.", start: 670.41, end: 672.19}
+  - {text: "So that's the sound it makes when you unfurl the crank.", start: 672.39, end: 675.31}
+  - {text: "Next thing Amy knows, she's playing Root Bear in which you pour mugs of Root Beer for bears.", start: 675.55, end: 680.93}
+  - {text: "So that's what, that's the sound that it makes when the pour is right at the line.", start: 681.27, end: 685.03}
+  - {text: "Or on lunch break, she finds herself playing a Devil's Inn Space themed pinball game.", start: 685.23, end: 691.49}
+  - {text: "Oh, and I went straight down the middle there.", start: 691.77, end: 695.05}
+  - {text: "Before bed, Amy's running the elevators at a hotel for penguins.", start: 695.19, end: 699.51}
+  - {text: "Now that marks, or is that a good thing?", start: 701.54, end: 703.66}
+  - {text: "I think they're happy, yeah, because they got to the floor that they needed to go on.", start: 704.12, end: 707.68}
+  - {text: "Amy loves video games on PlayStation, on the Steam Deck, but was this, this PlayDate, was this something different?", start: 707.88, end: 715.72}
+  - {text: "It's just, it's a joy to touch and hold.", start: 716.32, end: 718.58}
+  - {text: "And I like the idea of it being there for me, if I need it, even if I don't take it out a lot of the time.", start: 719.96, end: 725.78}
+  - {text: "It comes to my desk with me when I start work for the day.", start: 726.72, end: 729.92}
+  - {text: "And then when I'm back in my bed for the evening, it's on my bedside table.", start: 730.14, end: 734.74}
+  - {text: "Amy wasn't even thinking about the tariff she had paid any more for the PlayDate, but was a tariff betrayal blooming.", start: 734.74, end: 744.52}
+  - {text: "Mr. Chief Justice, and may it please the court.", start: 745.42, end: 747.66}
+  - {text: "November 5th, 2025, the United States Supreme Court.", start: 748.36, end: 751.56}
+  - {text: "This is IEPA, a statute that Congress carefully crafted to grant the president admittedly broad powers to address foreign arising emergencies.", start: 751.90, end: 759.94}
+  - {text: "You may remember this.", start: 759.94, end: 761.12}
+  - {text: "The Supreme Court was asked to rule on the so -called IEPA tariffs.", start: 761.28, end: 764.70}
+  - {text: "The International Emergency Economic Powers Act is a 50 -year -old law that lets the president do some extra kinds of things during national emergencies.", start: 764.96, end: 774.08}
+  - {text: "Now, President Trump had said one of those extra kinds of things was tariffs, and that is why or how he did a lot of the tariffs.", start: 774.22, end: 782.84}
+  - {text: "The Supreme Court then said, no, that is not one of those extra kinds of things.", start: 783.18, end: 787.70}
+  - {text: "And then undid those tariffs.", start: 788.02, end: 789.52}
+  - {text: "And then lots of us said, wait, we've all been paying for these IEPA tariffs.", start: 789.84, end: 794.28}
+  - {text: "Is the government going to give us back all of that tariff money they collected?", start: 794.66, end: 797.76}
+  - {text: "I think everybody was just kind of waiting with bated breath to see what this was going to look like, but with the expectation that it would probably be a mess.", start: 798.24, end: 806.32}
+  - {text: "Maureen Thorson is one of the country's top trade attorneys, and as such is becoming something of a regular on our show at this point.", start: 806.74, end: 813.86}
+  - {text: "And initially, Maureen says no one knew if there was even a plan for what to do with all of that tariff money the government had collected.", start: 814.52, end: 821.98}
+  - {text: "It's somewhere in the $166 to $170 billion range is the figure that the government tends to cite in its own filings.", start: 822.20, end: 831.92}
+  - {text: "And then were we expecting every dollar of that to be eligible for a refund?", start: 832.30, end: 838.48}
+  - {text: "Well, it depends on who you talk to now.", start: 839.00, end: 841.26}
+  - {text: "I'm talking to you, Maureen.", start: 841.94, end: 843.08}
+  - {text: "Yeah. Well, I mean, I don't know that trade lawyers expected anything.", start: 843.10, end: 847.62}
+  - {text: "All of this was so novel and we routinely had clients going, well, how does this usually work?", start: 847.88, end: 854.12}
+  - {text: "And I'm like, there is no usually here.", start: 854.18, end: 856.04}
+  - {text: "Yeah, wildly unusual. And frankly, it's been hard to even track what's been going on as a reporter, which is why we asked you listeners for your own tariff refund stories, experiences, nightmares.", start: 856.32, end: 869.30}
+  - {text: "And a lot of you got in touch with us.", start: 869.90, end: 871.92}
+  - {text: "And I think the takeaway was whether you paid $14 .02 on a tariff for a video game system like Amy Choi, or you paid a $250 tariff on a dress for your sister's wedding, like our dear Sarah Gonzalez did,", start: 871.96, end: 885.56}
+  - {text: "or maybe you paid around $18 ,000 in tariffs, like one listener and small business owner.", start: 885.62, end: 890.80}
+  - {text: "The takeaways that lots and lots of us are not in control of whether or not we will get to see a scent of tariff refunds.", start: 891.22, end: 899.16}
+  - {text: "And that is because generally speaking, we did not directly pay tariffs at the borders.", start: 899.22, end: 904.54}
+  - {text: "Companies paid them and then passed them along to us, which means that it is the companies that are eligible for refunds.", start: 905.14, end: 911.12}
+  - {text: "And then we, well, we are left to hope, pray, litigate for those companies to also pass those refunds to us like they passed the original costs on to us.", start: 911.20, end: 923.18}
+  - {text: "Now, we called Marine Thorsen, trade attorney for some of the nation's biggest companies, because she is seeing this all first hand better than we can.", start: 923.32, end: 931.86}
+  - {text: "And the good news from what she's seeing is that the US government has been shockingly good at getting a tariff refund system up and running for the companies.", start: 932.12, end: 942.44}
+  - {text: "You go into your data portal account with US customs, submit a spreadsheet of all your entries by entry number on which you paid IEPA duties,", start: 942.92, end: 953.56}
+  - {text: "and the agency works its magic on the back end, validates those entries, and then refunds your money.", start: 954.34, end: 960.46}
+  - {text: "It's sort of like filing your expenses at your company.", start: 960.90, end: 963.98}
+  - {text: "It's fairly simple. But again, if you're corporate importer of record, it's fairly simple.", start: 964.20, end: 968.80}
+  - {text: "Sure. What is not simple at all is like, I don't know, what I would call everything else, including how a company might figure out who amongst us should get some of that refund money and how they would refund that money,", start: 969.26, end: 983.84}
+  - {text: "which depends on how they passed along the tariffs in the first place.", start: 983.90, end: 987.16}
+  - {text: "So let's look at the two main ways, Marine says, that companies did pass along tariffs to us consumers.", start: 987.28, end: 993.46}
+  - {text: "Way number one is what we'll call the delivery company situation.", start: 993.96, end: 998.20}
+  - {text: "In this case, you personally ordered something from another country, your package arrived at the border, and someone needed to pay the tariff.", start: 998.82, end: 1007.50}
+  - {text: "And so UPS or FedEx or DHL, they paid the tariffs.", start: 1007.74, end: 1011.50}
+  - {text: "And then the delivery company said to you, we're not delivering this until you pay us back for the tariffs, plus service fees probably.", start: 1011.68, end: 1019.08}
+  - {text: "Now this was exactly the situation, you may recall our beloved producer James Snead ran into during our first episode of Days of Our Tariffs.", start: 1019.60, end: 1028.56}
+  - {text: "I opened the door and immediately he is like, I have this package for you.", start: 1028.84, end: 1033.76}
+  - {text: "I need a check for $60.", start: 1034.12, end: 1035.48}
+  - {text: "The good news for James and possibly you listener is that UPS and FedEx and DHL are all setting up systems to get their tariff refunds back to you customers.", start: 1036.74, end: 1046.80}
+  - {text: "It depends on the carrier, but you may get that refund automatically.", start: 1047.24, end: 1050.48}
+  - {text: "You may have to do a little work.", start: 1050.48, end: 1052.26}
+  - {text: "All right, pressing the button.", start: 1053.02, end: 1056.00}
+  - {text: "Producer James, by the way, went online to check his refund.", start: 1056.46, end: 1059.14}
+  - {text: "Says you're, oh, what happened?", start: 1059.56, end: 1061.10}
+  - {text: "Okay, that was strange.", start: 1061.58, end: 1062.88}
+  - {text: "I got a error message.", start: 1063.52, end: 1065.86}
+  - {text: "Yeah, refunding millions and millions of packages and tariffs is a fairly complicated process, may have some kinks.", start: 1066.48, end: 1073.56}
+  - {text: "But okay, that is the delivery company situation.", start: 1073.92, end: 1076.62}
+  - {text: "What about all the other kinds of situations?", start: 1077.20, end: 1079.02}
+  - {text: "Let's call those the pass -along situations where you have a video game maker or a shirt seller or whatever that imports their products into the US,", start: 1079.02, end: 1088.76}
+  - {text: "paid their tariffs and then charged us more when they sold those things to us, either by raising prices or maybe adding a tariff line item.", start: 1089.06, end: 1098.62}
+  - {text: "Now this is the category I really wanted Marine Thorson, trade attorneys perspective on, should we expect tariff refunds from those companies?", start: 1099.12, end: 1109.46}
+  - {text: "Yeah, well, and it's going to be difficult because companies reacted to the tariffs in a variety of ways.", start: 1110.02, end: 1116.98}
+  - {text: "Some of them raised their prices to cover the entirety of the tariff.", start: 1117.14, end: 1120.68}
+  - {text: "They passed the whole tariff forward.", start: 1120.80, end: 1122.32}
+  - {text: "Some of them ate part of it.", start: 1122.46, end: 1123.78}
+  - {text: "Some of them ate the cost for a little bit, but then eventually couldn't do that anymore.", start: 1124.20, end: 1128.50}
+  - {text: "Marine and I spent about an hour doing some combination of what I might call tariff refund debate and therapy because Marine is very realistic.", start: 1128.94, end: 1137.78}
+  - {text: "She knows how companies think, and I want my money back.", start: 1137.98, end: 1141.52}
+  - {text: "But Marine said, think about it like this.", start: 1142.02, end: 1143.84}
+  - {text: "You go to the store and you buy maybe paper towels, and you notice that the paper towel company is now charging a dollar more.", start: 1143.94, end: 1150.72}
+  - {text: "For a company that's raising its prices, how do you untangle how much of any specific price increase that a consumer might have seen on the", start: 1151.00, end: 1159.90}
+  - {text: "retail shelf was tariffs versus overall supply chain issues versus inflation in the economy?", start: 1159.90, end: 1167.74}
+  - {text: "How do you tell that the price of these paper towels on the store shelf is actually like, hey, these went up by a dollar over the past year,", start: 1168.28, end: 1178.64}
+  - {text: "and precisely one quarter of that is tariffs?", start: 1178.64, end: 1182.12}
+  - {text: "I'm very pro -consumer on this one.", start: 1183.58, end: 1185.80}
+  - {text: "I do understand the logistics problems, I overpaid, and then when that got straightened out, I didn't get any of the overpay money back.", start: 1185.86, end: 1195.16}
+  - {text: "And that's just like, wait a second, but you did get the overpay money back, but I overpaid.", start: 1195.44, end: 1199.38}
+  - {text: "It's just like the money is going to the wrong person.", start: 1199.92, end: 1201.88}
+  - {text: "Yeah, but realistically, what do companies do with money?", start: 1202.22, end: 1205.10}
+  - {text: "They give the money to shareholders, buy backs.", start: 1205.90, end: 1209.86}
+  - {text: "They either pay the money out to their shareholders in the form of dividends, or they use the money to make more things, better things, create more factories for making more things, et cetera.", start: 1210.44, end: 1222.78}
+  - {text: "So they reinvest... And you know who aren't the shareholders, the consumers who bought the items.", start: 1223.30, end: 1226.96}
+  - {text: "Exactly. Yeah. In terms of it being, is it absolutely like physically impossible for them to untangle that?", start: 1227.12, end: 1233.66}
+  - {text: "Maybe not, but it would be, I mean, at what point are you like, well, we spent more money figuring out who we owed $5 to than was worth each person's $5?", start: 1234.18, end: 1245.80}
+  - {text: "Yeah. Yeah, that's true.", start: 1246.42, end: 1247.70}
+  - {text: "That said, you could argue that the best possible conditions for a possible tariff refund is the situation at the center of today's episode with the Playdate video game system,", start: 1248.08, end: 1257.86}
+  - {text: "because they had individually broken tariff charges out on every single order with, of course, just so you know, we hate this, that very long CEO written explanation.", start: 1257.86, end: 1269.78}
+  - {text: "That was a lot.", start: 1270.95, end: 1271.55}
+  - {text: "Panic's customers had paid about $100 ,000 in tariffs that Panic would get in refunds theoretically.", start: 1272.13, end: 1280.41}
+  - {text: "And you know, Cable Sasser, the CEO, says that like that much refund money, I mean, that is so much for his tiny little 25 -person company.", start: 1280.77, end: 1291.55}
+  - {text: "It's something. It's meaningful.", start: 1291.91, end: 1293.55}
+  - {text: "And so, yes, there was the, you know, I'm going to say the little angel and devil cartoon characters on my shoulder and they were like, hey, maybe, maybe people will forget.", start: 1293.93, end: 1302.81}
+  - {text: "Maybe they won't, maybe they won't even know that you charged up a tariff.", start: 1303.15, end: 1306.17}
+  - {text: "And then, you know, I'm like, get out of there.", start: 1306.31, end: 1307.81}
+  - {text: "But also $100 ,000.", start: 1308.07, end: 1310.67}
+  - {text: "That is a salary for someone at Panic.", start: 1311.13, end: 1314.67}
+  - {text: "So on the one shoulder, I got the devil going, hey, maybe you should keep those.", start: 1314.97, end: 1318.89}
+  - {text: "Maybe the people won't even remembers.", start: 1319.37, end: 1321.87}
+  - {text: "Okay, now that's too far.", start: 1322.25, end: 1323.21}
+  - {text: "Okay, maybe gone a little too far.", start: 1323.21, end: 1324.27}
+  - {text: "You can walk. Won'ts?", start: 1324.43, end: 1325.21}
+  - {text: "Yeah. Yeah, won'ts is too far.", start: 1325.33, end: 1326.63}
+  - {text: "After the break, our thrilling conclusion is the devil in the best of us and how the video game industry approach to tariff refunds may explain", start: 1327.01, end: 1340.76}
+  - {text: "the entire mess we're about to get into.", start: 1340.76, end: 1342.84}
+  - {text: "You won't want to miss it.", start: 1343.36, end: 1345.10}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1351.87, end: 1355.73}
+  - {text: "This message comes from Ethos.", start: 1355.73, end: 1357.65}
+  - {text: "It's easy to put off getting life insurance until something unexpected happens.", start: 1357.95, end: 1362.27}
+  - {text: "That makes you realize your family needs you covered.", start: 1362.49, end: 1365.33}
+  - {text: "Ethos makes it easy.", start: 1365.69, end: 1366.63}
+  - {text: "It's 100 % online.", start: 1366.99, end: 1368.13}
+  - {text: "No medical exam, just a few health questions.", start: 1368.53, end: 1370.85}
+  - {text: "Apply in minutes and get same day coverage up to $3 million.", start: 1371.23, end: 1374.65}
+  - {text: "Get your free quote today at ethos .com slash money.", start: 1374.93, end: 1378.51}
+  - {text: "That's ethos .com slash money.", start: 1378.89, end: 1381.05}
+  - {text: "Application times and rates may vary.", start: 1381.27, end: 1383.17}
+  - {text: "This message comes from LinkedIn.", start: 1383.17, end: 1385.17}
+  - {text: "As a small business owner, you wear many hats.", start: 1385.67, end: 1387.91}
+  - {text: "You're the owner, the marketer, the seller, the hirer.", start: 1388.27, end: 1391.13}
+  - {text: "With LinkedIn, you have the tools to help you boost your visibility, find prospective customers, and find the best team for your small business, all in one place.", start: 1391.47, end: 1400.61}
+  - {text: "So while LinkedIn can't hang up all of your hats, it makes it easier to wear them all.", start: 1400.99, end: 1405.97}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1406.33, end: 1409.79}
+  - {text: "This message comes from Capital One.", start: 1410.49, end: 1412.35}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 1412.65, end: 1416.33}
+  - {text: "What's in your wallet?", start: 1416.45, end: 1417.39}
+  - {text: "Terms apply. See CapitalOne .com slash Bank Guy for details.", start: 1417.67, end: 1421.69}
+  - {text: "Capital One NA, member FDIC.", start: 1422.23, end: 1424.41}
+  - {text: "Amy Choi remembers it like it was yesterday, mostly because this was basically yesterday.", start: 1425.59, end: 1430.51}
+  - {text: "It was a Tuesday.", start: 1430.61, end: 1431.07}
+  - {text: "She was at work, kind of working.", start: 1431.63, end: 1433.43}
+  - {text: "Yeah, and I'm probably being distracted by my phone, but I probably saw the email on my phone.", start: 1433.73, end: 1438.43}
+  - {text: "The subject line says play date tariff update.", start: 1438.43, end: 1441.85}
+  - {text: "Were you thinking like, oh no, are they going to shake me down for more tariff money?", start: 1442.21, end: 1446.27}
+  - {text: "No, I wasn't quite thinking that.", start: 1446.43, end: 1447.17}
+  - {text: "I thought it was maybe just like a general announcement.", start: 1447.27, end: 1449.59}
+  - {text: "Amy opens the email.", start: 1450.03, end: 1451.69}
+  - {text: "Okay, so it says, hello.", start: 1452.23, end: 1453.89}
+  - {text: "At some point, you ordered a play date from us.", start: 1454.47, end: 1456.63}
+  - {text: "When you ordered from us, we charged you for the tariff that we were being charged by the US government for every play date manufactured.", start: 1456.93, end: 1463.35}
+  - {text: "As you may know, since then, the tariffs have been ruled illegal by the United States Supreme Court as an overstepping of authority and inappropriate use of the IEEPA.", start: 1464.03, end: 1473.29}
+  - {text: "Finally, those tariffs have just been refunded back to us.", start: 1474.08, end: 1477.10}
+  - {text: "And so we are refunding the tariff back to you.", start: 1477.72, end: 1480.50}
+  - {text: "We have just automatically processed a refund for the tariff amount of $14 .02 back to the original card you used when you ordered.", start: 1481.02, end: 1488.90}
+  - {text: "There is nothing for you to do on your end.", start: 1489.52, end: 1491.58}
+  - {text: "You should see it within a few business days.", start: 1491.88, end: 1493.76}
+  - {text: "We remain grateful for your support of panic and play date.", start: 1494.12, end: 1496.92}
+  - {text: "Best Panic. And what do you think?", start: 1496.92, end: 1500.72}
+  - {text: "You know, I was really touched.", start: 1501.79, end: 1503.99}
+  - {text: "Oh. I'm not saying that to be silly or dramatic here on the air here.", start: 1504.31, end: 1511.43}
+  - {text: "I really, like it made me kind of do a double take.", start: 1511.71, end: 1514.77}
+  - {text: "I was like, wow.", start: 1514.99, end: 1516.27}
+  - {text: "I was not expecting that at all.", start: 1516.87, end: 1519.25}
+  - {text: "I think, you know, as consumers, for a while now, we're sort of being conditioned to expect less and less from companies and businesses, right?", start: 1519.57, end: 1529.09}
+  - {text: "And a great example, by the way, is like you take Sony and Microsoft's approach.", start: 1529.63, end: 1533.75}
+  - {text: "Oh, catching strays, Sony and Microsoft.", start: 1534.05, end: 1536.11}
+  - {text: "But yes, okay, Sony and Microsoft also make gaming consoles, the PlayStation and the Xbox respectively.", start: 1536.61, end: 1542.47}
+  - {text: "And as a gamer, Amy has been carefully watching how these other game companies have been handling their customers during all of this tariff and tariff refund stuff.", start: 1543.19, end: 1551.89}
+  - {text: "And as it's played out, these companies have given us, honestly, a perfect spread of options for what we as consumers are seeing and can expect when it comes to tariff refunds.", start: 1551.89, end: 1563.07}
+  - {text: "So let's start with the best case scenario, the play date with panic.", start: 1563.07, end: 1566.61}
+  - {text: "They are giving all the money back.", start: 1567.07, end: 1568.59}
+  - {text: "And to be fair, it is relatively simple for them to do that as a direct -to -consumer company that had spitefully broken out tariff into its own line item.", start: 1568.77, end: 1578.09}
+  - {text: "And then an employee named Kyle could write some code and make the tariff refunds happen.", start: 1578.09, end: 1583.09}
+  - {text: "On the other end of the spectrum, though, you got Sony and Microsoft.", start: 1583.45, end: 1586.85}
+  - {text: "They both raised prices during the tariffs, but it's not like it was broken out into an easy -to -trace line item.", start: 1587.07, end: 1593.05}
+  - {text: "They sell consoles in all kinds of ways through all kinds of intermediaries, and they said price increases were because of things like a challenging macroeconomic environment,", start: 1593.31, end: 1603.29}
+  - {text: "which has improved to some degree, I would think, with presumably giant tariff refunds in their coffers.", start: 1604.05, end: 1611.97}
+  - {text: "And yet... They've outright come and said, you know, we got those refunds, but we're not going to be giving them back to the people who bought, you know, PlaySations or Xboxes.", start: 1612.51, end: 1622.31}
+  - {text: "No, Sony and Microsoft have even said, like, look, we raised the price.", start: 1622.37, end: 1627.51}
+  - {text: "Consumers bought at that price.", start: 1628.05, end: 1629.73}
+  - {text: "They agreed to a higher price.", start: 1629.73, end: 1631.49}
+  - {text: "Nothing shady here. And if I were a Sony shareholder, which I am not, I would probably agree with that decision.", start: 1631.75, end: 1638.87}
+  - {text: "If I had bought a PlayStation during tariff times, however, which I also did not, I would probably say, but you made me pay extra and now you got a bunch of money that I probably paid.", start: 1639.45, end: 1648.83}
+  - {text: "And then I would probably throw my PlayStation controller across the room.", start: 1649.51, end: 1652.87}
+  - {text: "But, you know, we can contain multitudes on this kind of thing.", start: 1652.93, end: 1655.25}
+  - {text: "And then you also have companies like Nintendo who sort of took, like, a middle approach, right?", start: 1655.79, end: 1661.19}
+  - {text: "They're sort of in between Playdate and Panic and the other guys where they were like, you know, we got the refunds and we're not going", start: 1661.59, end: 1667.35}
+  - {text: "to pass them back to you for buying a Switch.", start: 1667.35, end: 1670.23}
+  - {text: "But instead, here is this customer appreciation sale that we're going to have on our games.", start: 1670.51, end: 1677.37}
+  - {text: "Yes, Nintendo announced a 30 % off sale for two weeks.", start: 1677.61, end: 1681.81}
+  - {text: "And if you're just hearing about this, well, bad news.", start: 1682.29, end: 1684.93}
+  - {text: "It's already over. You missed your chance for a refund by buying more Nintendo stuff.", start: 1684.93, end: 1690.25}
+  - {text: "But again, how realistic would it have been to actually issue direct refunds when Nintendo Switches, for example, are sold through a million channels and come in like 20 different varieties?", start: 1690.37, end: 1701.49}
+  - {text: "It's probably not realistic.", start: 1701.65, end: 1702.75}
+  - {text: "So a 30 % discount for two weeks, like, that is much easier.", start: 1702.85, end: 1706.05}
+  - {text: "This, though, is why Amy and clearly other people in the Playdate video game world felt real feelings when they got that email from Panic.", start: 1706.57, end: 1716.79}
+  - {text: "And when she got that email, Amy immediately hopped on to the Playdate subreddit.", start: 1717.13, end: 1721.81}
+  - {text: "I think people felt really touched, people felt really taken care of.", start: 1722.01, end: 1725.55}
+  - {text: "It was a very overwhelmingly positive reception.", start: 1725.67, end: 1727.97}
+  - {text: "Yeah, for the same...", start: 1727.97, end: 1729.47}
+  - {text: "Well, let me ask you this.", start: 1729.47, end: 1730.43}
+  - {text: "You paid a lot of tariffs over the last whatever year.", start: 1730.63, end: 1733.59}
+  - {text: "How many other refunds did you receive?", start: 1734.81, end: 1736.23}
+  - {text: "I think none. Which makes this so singular and exceptional.", start: 1736.89, end: 1741.91}
+  - {text: "Yeah. And I guess, sorry, one other question, and I don't know if you know the answer to this or not, but like, is it just something", start: 1742.91, end: 1749.25}
+  - {text: "that the team sort of decided collectively it was the right thing to do or is it very much coming from, I forget what you said his name was, the CEO?", start: 1749.25, end: 1756.15}
+  - {text: "Hey, maybe you should keep those.", start: 1756.57, end: 1757.97}
+  - {text: "Yeah, Panic's CEO, Cable Sasser, and he says the devil on his shoulder was very real.", start: 1758.49, end: 1763.31}
+  - {text: "That refund money would have been a huge help.", start: 1763.67, end: 1766.11}
+  - {text: "But on the other side, the angel, I guess, is actually just the company that I work for.", start: 1766.31, end: 1770.05}
+  - {text: "It's all the great people that we work with and we sat down and talked about it and we knew that that that that's the right thing to do.", start: 1770.17, end: 1776.99}
+  - {text: "You got to... I'm not going to do an angel voice.", start: 1777.13, end: 1778.77}
+  - {text: "What would that even sound like?", start: 1778.89, end: 1779.91}
+  - {text: "But after much badgering, I did convince Cable to do an angel voice.", start: 1780.27, end: 1783.93}
+  - {text: "Give them back to the customer.", start: 1784.61, end: 1787.99}
+  - {text: "I loved it, Cable.", start: 1788.95, end: 1789.91}
+  - {text: "But yeah, it was, that was the decision that we made.", start: 1790.01, end: 1792.73}
+  - {text: "Yeah, have you talked to any other companies about this decision?", start: 1793.11, end: 1797.51}
+  - {text: "So unfortunately, that was going to be one of my questions for you.", start: 1798.79, end: 1801.69}
+  - {text: "Which was, are we the only people that have done this?", start: 1801.69, end: 1805.94}
+  - {text: "The answer is, I don't think we know.", start: 1808.74, end: 1810.26}
+  - {text: "Like, no one seems to be keeping track of this.", start: 1810.50, end: 1812.20}
+  - {text: "But here's what I can say.", start: 1812.56, end: 1813.46}
+  - {text: "Like, we did a call out in one of our episodes asking like, have you received a tariff refund?", start: 1813.62, end: 1818.74}
+  - {text: "The only example that we have gotten of someone getting money back from a company is you.", start: 1819.66, end: 1825.76}
+  - {text: "And it was also the example we were aware of before we asked for the call out.", start: 1827.04, end: 1831.62}
+  - {text: "Oh, man. Okay, well, I was afraid to ask that question.", start: 1832.30, end: 1837.05}
+  - {text: "You feel like a sucker?", start: 1837.27, end: 1837.99}
+  - {text: "No. No, I don't feel like a sucker at all.", start: 1840.27, end: 1842.41}
+  - {text: "I'm, I don't. I think, I think we did the right thing.", start: 1842.67, end: 1845.01}
+  - {text: "And I think that we, The devil was right, by the way.", start: 1845.27, end: 1847.39}
+  - {text: "No one, I don't think anyone would have noticed.", start: 1847.57, end: 1849.71}
+  - {text: "No, I know. They waited to notice.", start: 1849.73, end: 1850.99}
+  - {text: "I agree with you.", start: 1851.57, end: 1852.61}
+  - {text: "But this is just how we roll.", start: 1852.77, end: 1853.85}
+  - {text: "This is just who we are.", start: 1854.05, end: 1854.87}
+  - {text: "So yeah. Refunds, regrets, just more grains of sand in the hourglass that is the days of our tariffs.", start: 1855.17, end: 1866.36}
+  - {text: "We should note, Microsoft and UPS are among NPR's financial supporters.", start: 1867.16, end: 1872.58}
+  - {text: "If you find yourself living through a tariff's saga, maybe you are a foreign seller who dropped your prices to help out your American customers who were going to have to pay tariffs.", start: 1873.02, end: 1883.50}
+  - {text: "But now those Americans are getting refunds through UPS and FedEx and you are not.", start: 1883.84, end: 1888.10}
+  - {text: "Oh no, are we?", start: 1888.60, end: 1889.90}
+  - {text: "Sometimes the ones getting the money we shouldn't get.", start: 1890.24, end: 1892.00}
+  - {text: "It's possible, we know, tariff incidents, as the nerds like to call it, can play out in many ways.", start: 1892.00, end: 1896.88}
+  - {text: "So tell us about how it's playing out in your life and you could be the next star of our occasional soap opera series here.", start: 1897.12, end: 1904.42}
+  - {text: "Email us at planetmoneyatnpr .org.", start: 1904.52, end: 1907.60}
+  - {text: "Also, live show alert.", start: 1907.88, end: 1909.66}
+  - {text: "If you live in Ireland and I guess are not waiting for tariff refunds, you can come see us live.", start: 1909.92, end: 1916.22}
+  - {text: "Kenny is coming to kill Kenny, the city.", start: 1916.78, end: 1920.00}
+  - {text: "We're going to be performing at the Kill Economics, Economics and Comedy Festival in early November.", start: 1920.00, end: 1924.98}
+  - {text: "A couple shows, actually.", start: 1925.32, end: 1926.08}
+  - {text: "It's going to be a really good time.", start: 1926.28, end: 1927.50}
+  - {text: "We'll put a link to more details in the show notes for this episode.", start: 1927.60, end: 1930.68}
+  - {text: "This episode was produced by Sam Yellowhorse -Kessler and James Snead.", start: 1931.12, end: 1934.64}
+  - {text: "It was edited by our executive producer, Alex Goldmark.", start: 1934.88, end: 1937.64}
+  - {text: "It was fact -checked by Sierra Juarez and Sam.", start: 1937.94, end: 1940.18}
+  - {text: "It was engineered by Jimmy Keely and Sina Lafredo.", start: 1940.52, end: 1943.20}
+  - {text: "I'm Kenny Malone. This is NPR.", start: 1943.62, end: 1946.02}
+  - {text: "Thanks for listening. This message comes from Google Workspace with Gemini.", start: 1946.74, end: 1960.38}
+  - {text: "One subscription that does it all.", start: 1960.60, end: 1962.28}
+  - {text: "Personalized AI and premium business versions of Gmail, Google Docs, Drive and more.", start: 1962.54, end: 1968.02}
+  - {text: "Try it free for 14 days at goo .gle .com.", start: 1968.32, end: 1972.60}
+  - {text: "This message comes from Bombus.", start: 1974.70, end: 1976.76}
+  - {text: "Whether you're outdoors or just lounging around the house, cool weather calls for cozier footwear.", start: 1977.04, end: 1982.42}
+  - {text: "Bombus makes the perfect slippers and shoes.", start: 1982.66, end: 1985.00}
+  - {text: "Built with smooth, premium suede, plush sherpa, and warm sheepskin shearling, all with layers of cloud -like cushioning.", start: 1985.00, end: 1993.04}
+  - {text: "Perfect for staying in, stepping out, and keeping things cozy all season long.", start: 1993.22, end: 1997.86}
+  - {text: "Visit bombas .com slash npr and use code NPR for 20 % off your first purchase.", start: 1998.16, end: 2006.06}
+---

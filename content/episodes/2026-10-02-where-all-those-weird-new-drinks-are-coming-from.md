@@ -1,0 +1,472 @@
+---
+layout: single
+title: "Where all those weird new drinks are coming from"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-02T00:00:00Z
+slug: "2026-10-02-where-all-those-weird-new-drinks-are-coming-from"
+audioDir: "2026-10-02-where-all-those-weird-new-drinks-are-coming-from"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-02-where-all-those-weird-new-drinks-are-coming-from/episode.mp3"
+totalDuration: 1984.0
+sentences:
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.56}
+  - {text: "Apollo provides access to long duration capital and a broad range of financing capabilities, helping companies drive growth at an efficient cost of capital.", start: 2.02, end: 10.08}
+  - {text: "Learn more at Apollo .com slash capital.", start: 10.42, end: 13.58}
+  - {text: "This is Planet Money from NPR.", start: 15.11, end: 17.35}
+  - {text: "When I was growing up in the 90s, there weren't that many choices about what to buy.", start: 20.57, end: 25.35}
+  - {text: "Most of the time, your options were like two or three giant brands.", start: 25.73, end: 29.55}
+  - {text: "This was the era of Nike versus Reebok, Nintendo versus Sega, Burger King versus McDonald's.", start: 29.89, end: 37.27}
+  - {text: "Most of all, there was Coke versus Pepsi.", start: 37.61, end: 41.55}
+  - {text: "This was the massive economic fault line dividing the beverage aisle, dividing the nation, frankly.", start: 42.23, end: 47.61}
+  - {text: "You either drank Coke or you drank Pepsi.", start: 48.25, end: 50.63}
+  - {text: "Whitney Houston, she drank Coke.", start: 51.19, end: 53.21}
+  - {text: "Michael Jackson, on the other hand, he was Team Pepsi.", start: 58.50, end: 61.52}
+  - {text: "And I was thinking about the Kola Wars recently because the business of beverages just could not be more different now.", start: 66.57, end: 74.33}
+  - {text: "We are way past the days of just Coke or Pepsi.", start: 74.71, end: 77.47}
+  - {text: "The other day, I had my fellow Planet Money host, Kenny Malone meet me at the supermarket.", start: 78.03, end: 81.95}
+  - {text: "We are actually headed to my favorite part of the store.", start: 82.39, end: 84.59}
+  - {text: "We were going on a thrilling safari through the beverage aisle.", start: 84.93, end: 89.21}
+  - {text: "Listen, you can't see Jeff, but he is glowing as we turn left into this aisle.", start: 89.57, end: 94.89}
+  - {text: "This is so exciting.", start: 94.89, end: 95.75}
+  - {text: "I've never, look, I've never seen this.", start: 96.29, end: 97.49}
+  - {text: "I go to the store all the time.", start: 97.61, end: 98.33}
+  - {text: "What is this? Sparkling tea with adaptogens, amazing.", start: 98.45, end: 101.79}
+  - {text: "I'm sorry, adaptogens? I have no idea what it is, but it's probably good for you.", start: 102.23, end: 105.39}
+  - {text: "Sure. The sheer variety of beverage choices that are now competing for our attention, it's almost incomprehensible.", start: 105.63, end: 113.61}
+  - {text: "You know what I'm talking about.", start: 114.09, end: 114.87}
+  - {text: "The rainbow wall of flavored seltzers, the rose of canned latte drinks, next to the cans of latte flavored energy drinks with or without extra protein,", start: 115.25, end: 125.65}
+  - {text: "all the new sodas that supposedly help you focus or help you sleep or maybe help you go to the bathroom.", start: 126.21, end: 133.69}
+  - {text: "What do you call these sodas?", start: 133.93, end: 136.11}
+  - {text: "The functional sodas. Right, do you call them the poopies?", start: 136.27, end: 138.67}
+  - {text: "I think we're not allowed to say that, but yeah.", start: 139.35, end: 140.91}
+  - {text: "There's a Spider -Man one.", start: 141.17, end: 141.89}
+  - {text: "Really? Yeah, Spider -Man Poppy.", start: 142.37, end: 143.81}
+  - {text: "Not to mention all the new flavors that companies are coming out with.", start: 144.31, end: 148.23}
+  - {text: "There's the new Dubai chocolate Pepsi, the creamy coconut Dr.", start: 148.51, end: 153.31}
+  - {text: "Pepper, the Casno Palatin flavored spin drift.", start: 153.41, end: 156.95}
+  - {text: "The thing is, like growing up, we didn't have any of this, right?", start: 157.23, end: 159.81}
+  - {text: "I guess not. We only had our sprites, our ginger ale.", start: 160.07, end: 163.21}
+  - {text: "I guess you're right.", start: 163.45, end: 164.01}
+  - {text: "Now that you mention it, why are there flavors everywhere all of a sudden?", start: 164.15, end: 167.79}
+  - {text: "Yeah, why is this happening?", start: 168.09, end: 169.73}
+  - {text: "Why are there so many?", start: 169.99, end: 171.03}
+  - {text: "Why does it feel like there's a new one every single week?", start: 171.49, end: 173.45}
+  - {text: "Well, because we buy them, because you and I are buying them.", start: 173.59, end: 175.43}
+  - {text: "Yes, but it all comes from somewhere.", start: 175.79, end: 177.29}
+  - {text: "Oh, right, right. Do you know the answer?", start: 177.37, end: 179.77}
+  - {text: "Well, that's what I went out to find out.", start: 179.77, end: 182.07}
+  - {text: "Are you going to tell me?", start: 182.73, end: 183.71}
+  - {text: "I'll tell you. We got to go on a journey first.", start: 184.15, end: 186.03}
+  - {text: "Hello and welcome to Planet Money.", start: 190.16, end: 191.52}
+  - {text: "I'm Jeff Glow. A few months ago, I started looking into why we are seeing so many new kinds of beverages and new beverage flavors.", start: 191.72, end: 199.62}
+  - {text: "What I found is that the economics of the beverage industry have been turned inside out.", start: 200.22, end: 205.34}
+  - {text: "So today on the show, we are going inside Big Beverage.", start: 205.94, end: 209.80}
+  - {text: "We're headed to a top secret laboratory to unravel the mysteries of the soda aisle.", start: 209.80, end: 215.52}
+  - {text: "We're going to see how new flavors get created, how cutting edge bacteria are changing the game, and we ask the experts, what does Planet Money taste like?", start: 216.06, end: 226.76}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 232.10, end: 235.50}
+  - {text: "This message comes from Whole Foods Market.", start: 236.59, end: 238.59}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 239.07, end: 242.35}
+  - {text: "No added growth hormones or antibiotics in their meat department means slow -braised short ribs are even more satisfying.", start: 242.73, end: 248.51}
+  - {text: "All seafood is wild -caught, like their vibrant sockeye salmon or verified responsibly farmed.", start: 249.03, end: 253.79}
+  - {text: "And all sweets, including fall -themed cookies, are made without high -fructose corn syrup.", start: 254.07, end: 258.43}
+  - {text: "Spice up fall at Whole Foods Market.", start: 258.93, end: 260.51}
+  - {text: "This message comes from Schwab.", start: 261.68, end: 263.10}
+  - {text: "Investing with Schwab is like a hike with endless trails.", start: 263.68, end: 266.60}
+  - {text: "Go solo with self -directed investing, take stops along the way with trading, or choose a guide with full -service wealth management.", start: 267.12, end: 274.18}
+  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 274.18, end: 278.08}
+  - {text: "To understand why everything is now coming up, acai, dragon fruit, sparkling protein probiotic, yada yada yada, I called up a bunch of beverage industry insiders.", start: 279.54, end: 291.56}
+  - {text: "And one of them shared with me this kind of industry secret.", start: 291.98, end: 295.50}
+  - {text: "You see, apparently, a lot of the drinks showing up on shelves these days can be traced back to this one company in Kentucky.", start: 296.22, end: 303.80}
+  - {text: "They're called Flavor Man.", start: 303.80, end: 305.50}
+  - {text: "And behind the scenes, they're the ones who have been quietly helping all these other companies come up with the new types of beverages and new beverage flavors.", start: 305.86, end: 314.66}
+  - {text: "Recently, they agreed to let me visit their labs in Louisville.", start: 315.36, end: 319.06}
+  - {text: "Good morning. Hey, good to see you.", start: 319.32, end: 321.84}
+  - {text: "It's good to see you.", start: 322.12, end: 322.94}
+  - {text: "Welcome to Flavor Man.", start: 323.18, end: 324.22}
+  - {text: "The food scientists at Flavor Man specialize in beverage development.", start: 324.48, end: 328.40}
+  - {text: "Big brands like Coke and Pepsi usually have their own in -house food scientists.", start: 329.00, end: 333.34}
+  - {text: "But basically everyone else outsources the work of designing a drink to companies like Flavor Man.", start: 333.34, end: 339.58}
+  - {text: "So most of the work here is super, super hush -hush.", start: 340.06, end: 342.92}
+  - {text: "They are not allowed to talk about it.", start: 343.12, end: 344.84}
+  - {text: "So sometimes we're the dark secret behind some of the very large national brands that you're aware of.", start: 345.00, end: 350.08}
+  - {text: "That's Evan Floyd. He works on the business side here.", start: 350.28, end: 352.64}
+  - {text: "And when we walked in, he asked us to sign a non -disclosure agreement.", start: 352.90, end: 356.82}
+  - {text: "I think technically we're not allowed to sign this because we are going to disclose all the things.", start: 357.22, end: 364.62}
+  - {text: "Is there a way that we can get past it?", start: 365.08, end: 367.58}
+  - {text: "In the end, we did not sign that NDA, of course, but we did promise to be careful about which brands we talked about.", start: 372.22, end: 378.24}
+  - {text: "Publicly, Flavor Man is allowed to say they've done work for companies like Oceanspray and Jones Soda.", start: 378.90, end: 384.54}
+  - {text: "Privately, they have helped launch tens of thousands of new beverages.", start: 385.40, end: 389.58}
+  - {text: "As we walk back to the labs, we saw this trophy wall full of examples, going back 30 years.", start: 390.18, end: 394.90}
+  - {text: "Some of them were pretty famous.", start: 395.40, end: 397.34}
+  - {text: "Some of them were a little bit more niche.", start: 397.82, end: 399.50}
+  - {text: "This is a juice box for cats.", start: 400.06, end: 404.00}
+  - {text: "You're just like, yeah, of course.", start: 406.08, end: 407.20}
+  - {text: "It's salmon flavored. I think that that one specifically was designed for aging cats.", start: 407.58, end: 413.36}
+  - {text: "Now, the real reason we were here, of course, is to understand why the market for beverages has changed so dramatically over the years.", start: 413.88, end: 421.54}
+  - {text: "And we wanted to see firsthand how new drinks get designed and launched and how the industry has changed at every step of the process.", start: 422.02, end: 430.06}
+  - {text: "So our first stop was the Flavor Lab.", start: 430.70, end: 433.62}
+  - {text: "Who let you guys in my lab?", start: 433.90, end: 435.14}
+  - {text: "What is going on here?", start: 435.34, end: 436.34}
+  - {text: "Are we making flavors today?", start: 436.74, end: 437.82}
+  - {text: "I hope so. All right, let's talk.", start: 438.28, end: 440.40}
+  - {text: "Tom Gibson is the chief flavorist at Flavor Man.", start: 441.04, end: 444.42}
+  - {text: "He is responsible for what a new beverage is going to taste like.", start: 444.68, end: 448.28}
+  - {text: "The way it works is a client, usually a beverage company, comes in and maybe they want to launch a line of drinks and they have ideas for a couple new flavors.", start: 448.74, end: 457.44}
+  - {text: "Here in this lab, Tom and his team of flavor scientists invent the recipe for those new flavors.", start: 458.06, end: 463.82}
+  - {text: "He's like the Willy Wonka of sodas.", start: 464.28, end: 466.32}
+  - {text: "Have you ever led a tour of little children through here and maybe disappeared some of them?", start: 466.60, end: 471.80}
+  - {text: "Never, never, never happened.", start: 473.20, end: 475.18}
+  - {text: "Now, Tom says when people talk about flavor, most of the time they are really talking about aroma, the smell that hits your nose when you bite into that nice, fresh strawberry.", start: 475.54, end: 486.52}
+  - {text: "In nature, that strawberry smell is actually made up of hundreds of different aroma chemicals.", start: 487.14, end: 491.98}
+  - {text: "Tom brought us over to a workbench with a set of beakers and pipettes.", start: 492.56, end: 496.04}
+  - {text: "All around us, the shelves were crowded with like thousands of these little amber bottles.", start: 496.40, end: 501.38}
+  - {text: "We're looking at some different essential oils, some different aroma chemicals that are part of all different kinds of flavors.", start: 501.68, end: 507.76}
+  - {text: "So these are the building blocks.", start: 508.18, end: 509.52}
+  - {text: "This is it. The little bitty pieces that come together to make, what's your favorite flavor again?", start: 509.90, end: 514.82}
+  - {text: "Blue. To make blue, all right?", start: 515.36, end: 518.34}
+  - {text: "You're looking at pieces and parts of blue.", start: 519.00, end: 521.06}
+  - {text: "Over the decades, scientists have slowly started to isolate these aroma chemicals.", start: 521.64, end: 526.14}
+  - {text: "They've noticed that some of them seem to show up over and over again in a lot of different fruits.", start: 526.64, end: 531.54}
+  - {text: "For example, Tom dipped a test strip into one of the bottles and held it up for me to smell.", start: 531.54, end: 536.20}
+  - {text: "It's so familiar. It's like on the tip of my tongue.", start: 536.54, end: 539.06}
+  - {text: "It's not berry, it's like a...", start: 541.19, end: 543.75}
+  - {text: "It's kind of everything, right?", start: 543.81, end: 545.37}
+  - {text: "Yeah, what is this?", start: 545.63, end: 546.25}
+  - {text: "So it's a key component of berry, but it's used in 2D fruities.", start: 546.25, end: 549.55}
+  - {text: "It's used in maybe a background note in a cherry.", start: 549.69, end: 552.89}
+  - {text: "It's used in all kinds of different things.", start: 553.21, end: 554.87}
+  - {text: "When Tom's building a flavor, he might mix together dozens of these different aroma chemicals.", start: 555.27, end: 560.09}
+  - {text: "Say you want a cherry flavor.", start: 560.65, end: 561.95}
+  - {text: "Tom's like, okay, what kind of cherry are we talking about?", start: 561.95, end: 564.49}
+  - {text: "A fresh cherry, a ripe cherry?", start: 564.85, end: 566.85}
+  - {text: "Do you want more cherry blossom notes?", start: 567.37, end: 569.11}
+  - {text: "Or do you want more darker caramel notes?", start: 569.49, end: 571.41}
+  - {text: "Tom says some of the tastiest fruit flavors often contain unexpected notes.", start: 571.95, end: 577.75}
+  - {text: "For instance, he opened another bottle for me to smell.", start: 578.17, end: 581.09}
+  - {text: "Oh my God, no!", start: 581.39, end: 582.67}
+  - {text: "Come on, that's not that bad.", start: 583.15, end: 584.73}
+  - {text: "This is so bad.", start: 584.85, end: 585.53}
+  - {text: "That's only, that's level one.", start: 585.53, end: 587.09}
+  - {text: "This is like stinky cheese.", start: 587.33, end: 588.63}
+  - {text: "Is that nice though?", start: 588.89, end: 589.51}
+  - {text: "No, it is not nice.", start: 589.63, end: 590.59}
+  - {text: "What flavor do you think this might go into?", start: 590.59, end: 592.39}
+  - {text: "That would be fantastic.", start: 592.63, end: 593.63}
+  - {text: "Tom says this aroma is a key component in dairy.", start: 594.19, end: 597.29}
+  - {text: "It also shows up in sweat and vomit, but also...", start: 597.79, end: 602.13}
+  - {text: "But you might find it a little bit like, say, a ripe berry.", start: 602.13, end: 605.07}
+  - {text: "When you're eating strawberry in the morning, perhaps you're getting a little bit of that.", start: 605.81, end: 608.85}
+  - {text: "Oh, and so if that weren't there, then the berry flavor might be just be flat.", start: 609.07, end: 614.47}
+  - {text: "Yeah, it's kind of flat.", start: 614.65, end: 615.53}
+  - {text: "Oh, it's like you need a little bit of dissonance.", start: 616.28, end: 618.90}
+  - {text: "Right. Now, Tom has been doing this Willy Wonka flavor work for decades, and from his perspective, one of the biggest changes in the industry has to do with the supply of flavors and flavor components.", start: 619.26, end: 631.30}
+  - {text: "He says, look around, 10, 20 years ago, a lot of the aroma chemicals you see in this lab, they didn't exist on the market.", start: 631.84, end: 639.06}
+  - {text: "So what you're looking at right here, these in our minds are colors.", start: 639.46, end: 643.30}
+  - {text: "In the old days, this either wasn't found, or it was found and no one manufactured it.", start: 643.88, end: 649.28}
+  - {text: "It couldn't be, it wasn't available.", start: 649.28, end: 650.70}
+  - {text: "You're saying you have colors now that you didn't have access to before.", start: 651.18, end: 653.72}
+  - {text: "Oh, yeah, way, way more colors.", start: 653.86, end: 656.06}
+  - {text: "So here is explanation number one for why we're seeing so many new drinks with new exotic flavors.", start: 656.68, end: 663.22}
+  - {text: "It is that flavor science itself has been advancing.", start: 663.82, end: 667.74}
+  - {text: "Every year, scientists are discovering interesting new flavor compounds, new scientific techniques, and new kinds of machines have made the process a lot easier.", start: 668.20, end: 677.06}
+  - {text: "Also, there have been breakthroughs in how we extract flavor compounds from plants.", start: 677.06, end: 682.06}
+  - {text: "We can now isolate delicate flavors that used to get lost in the process.", start: 682.50, end: 686.46}
+  - {text: "And by the way, this is really wild.", start: 686.92, end: 688.54}
+  - {text: "We can now teach bacteria how to help us make some of these flavor compounds so we don't even need to harvest the fruit itself.", start: 688.76, end: 695.34}
+  - {text: "All of this is to say that flavorists like Tom now have exponentially more freedom to have fun.", start: 695.90, end: 702.48}
+  - {text: "One of the trends of the last decade has been to make exaggerated flavors or even to invent completely new fantasy flavors.", start: 703.00, end: 710.10}
+  - {text: "It seems like what you're doing is impressionist painting.", start: 710.60, end: 715.34}
+  - {text: "Maybe it's a Jackson Pollock in some cases, right?", start: 717.84, end: 720.32}
+  - {text: "Maybe that's what a dragon fruit is.", start: 720.66, end: 723.34}
+  - {text: "Just throw it all together and let's see how it comes out.", start: 723.42, end: 725.58}
+  - {text: "And as these new flavor experiments have reached the market, they have been changing the American palette.", start: 725.98, end: 732.04}
+  - {text: "People realize we like these exciting flavors.", start: 732.46, end: 735.24}
+  - {text: "We want more. And so flavor scientists go and try to find weirder flavors to isolate.", start: 735.24, end: 740.74}
+  - {text: "And flavor suppliers invest more in their exotic flavor supply chains.", start: 741.22, end: 744.96}
+  - {text: "It's kind of like this delicious cycle.", start: 745.30, end: 747.80}
+  - {text: "So that is the first explanation for why the beverage aisle has exploded with new choices, which is basically flavor science.", start: 748.46, end: 755.50}
+  - {text: "Now, when we found out that we were gonna get inside the Flavor Man labs, we thought this is an opportunity we cannot pass up.", start: 756.12, end: 764.22}
+  - {text: "So before heading to Louisville, we asked the scientists to indulge us in a little side quest.", start: 764.22, end: 769.50}
+  - {text: "We were like, just as an exercise, would you help us create a beverage that captures the essence of planet money?", start: 769.94, end: 776.56}
+  - {text: "You know, one that tastes like insight and delight that sparks curiosity, maybe.", start: 777.04, end: 782.34}
+  - {text: "Over the past couple of weeks, Tom and his colleagues have been working to figure out what a planet money drink might taste like.", start: 782.90, end: 788.06}
+  - {text: "It's the planet, right?", start: 788.38, end: 789.32}
+  - {text: "So you're thinking of the planet, right?", start: 789.60, end: 791.60}
+  - {text: "Planet money, so it's gotta be something that's global.", start: 791.60, end: 794.02}
+  - {text: "Tom and his team had been tinkering with some very interesting flavors, apparently, that they were eager for us to try.", start: 794.22, end: 800.74}
+  - {text: "But before we get to that, there is a whole another step in the process of designing a beverage.", start: 801.22, end: 807.04}
+  - {text: "This second step involves deciding what type of beverage you're making.", start: 807.52, end: 811.68}
+  - {text: "Because a beverage is more than just a flavor.", start: 812.02, end: 814.30}
+  - {text: "Nowadays, beverages need a concept, like is it an energy drink or a mocktail or an electrolyte recovery drink?", start: 814.60, end: 823.18}
+  - {text: "For this, we headed to see Kristen Webber.", start: 823.68, end: 826.30}
+  - {text: "And so we just came from the flavor lab, which is Tom's domain, and now this is your domain.", start: 826.48, end: 832.40}
+  - {text: "This is my domain, yep.", start: 832.42, end: 833.86}
+  - {text: "Kristen is the chief technical officer at Flavorman.", start: 834.34, end: 836.92}
+  - {text: "She is in charge of developing new types of beverages.", start: 837.22, end: 840.34}
+  - {text: "So whereas Tom's lab had thousands of little brown flavor bottles, Kristen's lab is stacked with ziplock bags full of various white powders.", start: 840.76, end: 850.52}
+  - {text: "Is that pure caffeine?", start: 851.02, end: 852.46}
+  - {text: "It is. That powder?", start: 853.12, end: 854.20}
+  - {text: "Yeah, it is. How much of this would kill me?", start: 854.36, end: 857.22}
+  - {text: "The limit per day, I believe, is 300 milligrams, so.", start: 858.02, end: 862.80}
+  - {text: "The FDA recommends less than 400 milligrams a day.", start: 863.12, end: 865.54}
+  - {text: "So you're saying if I dip my pinky into it and lift it, that would probably be it.", start: 865.72, end: 870.16}
+  - {text: "That would be a serving of caffeine.", start: 870.16, end: 871.20}
+  - {text: "Okay, good to know.", start: 871.38, end: 872.14}
+  - {text: "Here in Kristen's lab, we talked about the second explanation for why there's so many more beverage options now.", start: 872.58, end: 878.20}
+  - {text: "And it has to do with all the new things that people are putting into beverages these days.", start: 878.44, end: 883.00}
+  - {text: "Kristen says, in the beginning, most of Flavorman's clients were trying to make energy drinks, caffeinated energy drinks with a hot new beverage category in the 90s and 2000s.", start: 883.56, end: 893.56}
+  - {text: "My favorite, by the way, was Krunk, three exclamation points.", start: 893.72, end: 896.54}
+  - {text: "But since then, you know, there's been the boom in seltzers, both alcoholic and non -alcoholic.", start: 896.96, end: 902.32}
+  - {text: "And now the hot thing is what the industry calls functional beverages.", start: 902.56, end: 906.18}
+  - {text: "We want drinks that do something for us.", start: 906.90, end: 908.96}
+  - {text: "You know, like the sodas that supposedly help you relax, maybe fall asleep, or the ones that say they support your gut health.", start: 909.36, end: 915.90}
+  - {text: "On one of the lab benches, we spotted a big bag of powder that said gum acacia.", start: 916.48, end: 920.40}
+  - {text: "So prebiotics are really popular.", start: 920.74, end: 922.48}
+  - {text: "Gum acacia is one of the most popular prebiotics for sodas like Olipop.", start: 922.86, end: 926.98}
+  - {text: "These new beverage types have been huge for the industry.", start: 927.40, end: 931.08}
+  - {text: "They are one of the main reasons overall beverage sales have grown over the past decade.", start: 931.30, end: 935.42}
+  - {text: "Think about it this way.", start: 935.98, end: 937.32}
+  - {text: "The human body does not need any of this stuff, for the most part.", start: 937.74, end: 942.00}
+  - {text: "We could all just be drinking water.", start: 942.24, end: 944.14}
+  - {text: "But the beverage industry has figured out that if they invent new kinds of drinks, they can invent new reasons for us to not drink water and spend money on their beverages instead.", start: 944.60, end: 955.54}
+  - {text: "They convinced a lot of people to skip the water fountain at the gym to reach for a Gatorade.", start: 956.08, end: 960.78}
+  - {text: "And now maybe they want to replace the glass of water next to the bed with one of their new sleepy nighttime sodas.", start: 960.78, end: 967.62}
+  - {text: "This is reason number two for all the new beverage choices.", start: 967.92, end: 971.80}
+  - {text: "This strategy of inventing new beverage types has been incredibly profitable.", start: 972.10, end: 976.82}
+  - {text: "People are buying more and drinking more, even if there's not that much evidence that these drinks actually have noticeable health benefits.", start: 977.26, end: 984.28}
+  - {text: "Now, we were curious about the next generation of beverage concepts.", start: 985.16, end: 990.40}
+  - {text: "So, Kristen, let us try some of the projects she and her team had been working on that week.", start: 990.84, end: 994.84}
+  - {text: "There were a bunch of mocktails.", start: 995.44, end: 997.36}
+  - {text: "Those are really big right now.", start: 997.68, end: 998.74}
+  - {text: "One of them tasted exactly like in apparel spritz.", start: 999.32, end: 1002.08}
+  - {text: "Oh, that is delightful.", start: 1003.47, end: 1004.77}
+  - {text: "There was a matcha -flavored liqueur, which is weird, but kind of delicious.", start: 1005.45, end: 1009.77}
+  - {text: "It's alcoholic? Yes. And there were also some more questionable drink concepts.", start: 1010.07, end: 1015.49}
+  - {text: "We tried a non -alcoholic beer with extra protein in it, which tasted like pennies, and maybe the strangest one of all.", start: 1015.95, end: 1023.43}
+  - {text: "This one is a really cool one that we just finished.", start: 1023.81, end: 1029.49}
+  - {text: "It is a hydration broth, a sports broth, right?", start: 1030.07, end: 1035.17}
+  - {text: "The drink was yellow, like Gatorade yellow, maybe a little browner, and of course, we had to try it.", start: 1035.91, end: 1042.59}
+  - {text: "It's, I don't know how to describe this.", start: 1045.61, end: 1048.03}
+  - {text: "It's pineapple -flavored. Tropical, there's beef broth in it.", start: 1048.37, end: 1053.73}
+  - {text: "No, I'm drinking beef broth right now.", start: 1053.93, end: 1056.73}
+  - {text: "Yeah. Pineapple -flavored beef.", start: 1057.01, end: 1058.05}
+  - {text: "It's great that you don't even know, but bone broth has the healing connotation.", start: 1058.05, end: 1065.39}
+  - {text: "It has nutrients and protein.", start: 1066.82, end: 1069.24}
+  - {text: "There's, I don't know how else to say this, there's stuff in it.", start: 1070.36, end: 1073.50}
+  - {text: "What's that? The broth, yeah, bone broth has some insoluble.", start: 1074.36, end: 1079.08}
+  - {text: "Components. This is the bone, this is the bits.", start: 1080.18, end: 1082.52}
+  - {text: "It's not the bone, it's just the bits.", start: 1083.40, end: 1085.66}
+  - {text: "Now, in addition to this pineapple beef bone broth protein drink, Kristen and her colleagues had also been working on the Planet Money beverage.", start: 1086.14, end: 1094.70}
+  - {text: "Their job was to decide what the Planet Money drink would do.", start: 1095.26, end: 1098.70}
+  - {text: "So, do you want to go in the hydration route or the energy route, the sleep route?", start: 1099.00, end: 1105.02}
+  - {text: "I don't know if people use Planet Money as a sleep podcast.", start: 1105.28, end: 1107.82}
+  - {text: "I don't believe it.", start: 1108.00, end: 1108.88}
+  - {text: "After the break, what will the Planet Money drink taste like?", start: 1108.88, end: 1113.36}
+  - {text: "And how do you even launch a new beverage these days?", start: 1113.98, end: 1117.82}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1125.78, end: 1129.60}
+  - {text: "This message comes from LinkedIn.", start: 1130.02, end: 1131.36}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 1131.84, end: 1136.18}
+  - {text: "It's even harder to do it efficiently.", start: 1136.48, end: 1137.86}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 1138.32, end: 1142.20}
+  - {text: "With LinkedIn, simplify your sales, marketing, and hiring.", start: 1142.58, end: 1145.86}
+  - {text: "So that you can actually run your small business.", start: 1145.86, end: 1148.72}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1149.04, end: 1152.58}
+  - {text: "This message comes from Google Workspace with Gemini.", start: 1152.96, end: 1155.94}
+  - {text: "Ever noticed how every new AI tool asks you to explain your business to it all over again?", start: 1156.26, end: 1161.58}
+  - {text: "Google Workspace with Gemini skips that.", start: 1161.96, end: 1164.26}
+  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and more, no new tools, no extra logins, just one subscription", start: 1164.60, end: 1173.50}
+  - {text: "that gives you personalized AI right inside your actual workflow.", start: 1173.50, end: 1177.52}
+  - {text: "Try Google Workspace with Gemini at go .gle slash Workspace with Gemini.", start: 1177.90, end: 1183.34}
+  - {text: "This message comes from Capital One.", start: 1184.34, end: 1186.26}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 1186.54, end: 1190.24}
+  - {text: "What's in your wallet?", start: 1190.32, end: 1191.26}
+  - {text: "Terms apply. See CapitalOne .com slash Bank Guy for details.", start: 1191.56, end: 1195.60}
+  - {text: "Capital One NA, member FDIC.", start: 1196.08, end: 1198.26}
+  - {text: "There is a third and final reason for why there's been an explosion in new types of drinks and new types of drink flavors.", start: 1199.48, end: 1206.88}
+  - {text: "And this is a big one.", start: 1207.30, end: 1208.78}
+  - {text: "It has to do with a major shift in how new drinks get onto the market.", start: 1209.18, end: 1213.40}
+  - {text: "To understand that, we headed upstairs to meet the guy who created Flaverman.", start: 1213.96, end: 1219.28}
+  - {text: "You are the Flaverman.", start: 1219.72, end: 1221.02}
+  - {text: "I'm the Flaverman, Dave Defoe.", start: 1221.26, end: 1222.46}
+  - {text: "Nice to meet you.", start: 1222.68, end: 1223.20}
+  - {text: "Dave Defoe has been in the beverage game for almost 40 years.", start: 1223.52, end: 1226.32}
+  - {text: "He says when he started Flaverman back in the 90s, the beverage industry looked a lot different.", start: 1226.66, end: 1231.44}
+  - {text: "In the old days, as I call it, it was dominated by big companies.", start: 1231.88, end: 1235.36}
+  - {text: "It was really just Coke and Pepsi for soft drinks.", start: 1235.58, end: 1238.66}
+  - {text: "Dave says back then, it was hard for upstarts to compete with the large established drink companies.", start: 1239.18, end: 1244.58}
+  - {text: "They were pretty high barriers to entry for bottling your own soda.", start: 1245.00, end: 1248.96}
+  - {text: "The biggest obstacle? Where were you gonna manufacture it at?", start: 1249.50, end: 1252.42}
+  - {text: "Because all these big companies own their own plants and they did their own manufacturing.", start: 1252.76, end: 1256.50}
+  - {text: "And there were just a few contract manufacturers around the country where you could go as an independent and get your product bottled or canned.", start: 1257.06, end: 1265.10}
+  - {text: "And these bottling or canning lines, they usually had really high minimum orders.", start: 1265.32, end: 1270.06}
+  - {text: "Dave says to get anything started, you usually had to make at least a full truckload.", start: 1270.48, end: 1274.34}
+  - {text: "That's like 12 ,000 cases, more than a quarter million cans of soda.", start: 1274.62, end: 1279.32}
+  - {text: "So say you're a new brand owner.", start: 1279.56, end: 1281.04}
+  - {text: "You can't afford to make 12 ,000 cases of your energy drink.", start: 1281.40, end: 1287.00}
+  - {text: "You're new, you wanna make 1 ,000 cases and see if you can sell them.", start: 1287.40, end: 1291.06}
+  - {text: "But then, around the 2010s, a new trend changed that business model.", start: 1291.06, end: 1295.88}
+  - {text: "All of a sudden, you know, there were all these small breweries popping up all over.", start: 1296.14, end: 1299.78}
+  - {text: "The microbrewery trend. The microbreweries, the brew pubs, all of those things, they were popping up in every city and multiple breweries in every city.", start: 1300.06, end: 1308.80}
+  - {text: "They were everywhere. This boom in craft beer created thousands of little breweries.", start: 1309.20, end: 1314.52}
+  - {text: "Most of them weren't doing their own bottling or canning.", start: 1314.80, end: 1317.50}
+  - {text: "A lot of them had excess capacity.", start: 1317.84, end: 1319.84}
+  - {text: "So they were happy to rent out their canning lines for small jobs.", start: 1319.84, end: 1323.62}
+  - {text: "And in recent years, as people are drinking less and less alcohol, these craft breweries have even more excess capacity.", start: 1324.10, end: 1330.64}
+  - {text: "Dave says there are now plenty of places, not just microbreweries, willing to do a tiny run for a new drink brand.", start: 1331.14, end: 1338.52}
+  - {text: "The barrier to entry has lowered significantly.", start: 1338.84, end: 1341.90}
+  - {text: "We asked Dave to walk us through the math nowadays.", start: 1342.46, end: 1344.94}
+  - {text: "How much are new drink brands paying to manufacture their new beverages?", start: 1345.52, end: 1349.36}
+  - {text: "Start with the ingredients, which usually aren't that expensive.", start: 1349.90, end: 1352.60}
+  - {text: "After all, your typical soda or seltzer or energy drink is mostly water.", start: 1352.92, end: 1356.62}
+  - {text: "Dave says the flavoring and sweeteners and other ingredients might add up to like 20, 30 cents per can.", start: 1357.06, end: 1362.76}
+  - {text: "Then there are the cans themselves.", start: 1363.32, end: 1365.16}
+  - {text: "Back in the day, a reasonable price might have been 10 cents per can.", start: 1365.58, end: 1368.60}
+  - {text: "Now it's more like 20 cents due to inflation in the aluminum tariffs.", start: 1368.90, end: 1372.14}
+  - {text: "Finally, there is the actual manufacturing of the drink where the factory takes your beverage flavor concentrate, mixes it up with carbonated water and other ingredients and puts it in the can.", start: 1372.76, end: 1382.72}
+  - {text: "All that can cost another 20 -ish cents per can.", start: 1383.04, end: 1385.88}
+  - {text: "Dave says a rule of thumb is that they try to aim for a total cost of around 60 cents per can, though there also aren't D", start: 1386.32, end: 1393.22}
+  - {text: "and shipping and other costs on top of that.", start: 1393.22, end: 1394.72}
+  - {text: "Now, what's fun is that nowadays, there are even some canning lines that are willing to do tiny little test runs.", start: 1394.98, end: 1401.96}
+  - {text: "The cost per can goes up, of course, but if you just want a couple thousand cans of your drink, it'll only cost a few thousand dollars.", start: 1402.32, end: 1409.74}
+  - {text: "That sounds, that sounds cheap.", start: 1410.10, end: 1412.60}
+  - {text: "That sounds very easy to do.", start: 1412.98, end: 1416.02}
+  - {text: "It is, but most people don't know they can do it.", start: 1416.76, end: 1418.62}
+  - {text: "This is the final reason why so many new drinks are crowding the beverage aisle these days because the barriers to entry are lower.", start: 1419.04, end: 1427.58}
+  - {text: "It is now easier than ever for anybody to start a beverage brand.", start: 1428.06, end: 1431.82}
+  - {text: "And that has made the beverage game way more competitive.", start: 1432.18, end: 1434.96}
+  - {text: "Now, it's still pretty hard to succeed in the beverage industry.", start: 1435.38, end: 1438.58}
+  - {text: "You need a marketing strategy.", start: 1438.88, end: 1440.34}
+  - {text: "It helps to have a celebrity backer.", start: 1440.60, end: 1442.86}
+  - {text: "You also need to fight for a slot on the grocery store shelves.", start: 1443.08, end: 1446.52}
+  - {text: "But over the past decade, upstart drink brands have managed to take market share away from the Cokes and Pepsi's of the world.", start: 1446.90, end: 1454.10}
+  - {text: "And in this economy, that is kind of unusual.", start: 1454.56, end: 1457.96}
+  - {text: "There are not that many industries where newcomers are finding it easier to challenge the Goliaths.", start: 1458.58, end: 1464.06}
+  - {text: "Another example might be the music industry where over the past 10, 20 years, the barriers to entry have also fallen.", start: 1464.06, end: 1470.76}
+  - {text: "Now anybody, right, can record an album on their laptop, put it on Spotify.", start: 1471.28, end: 1475.30}
+  - {text: "I mean, Planet Money put a song on Spotify.", start: 1475.68, end: 1477.80}
+  - {text: "When barriers to entry fall, what consumers get is variety, more choices.", start: 1478.38, end: 1484.30}
+  - {text: "Economists like to say having more choices increases consumer welfare because it makes people happy to have options that are tailored to our own unique tastes.", start: 1484.94, end: 1494.26}
+  - {text: "Right now, we are getting a lot of new interesting artists and new interesting sodas.", start: 1494.74, end: 1500.62}
+  - {text: "Though whether anyone needs any of these new sodas, who knows?", start: 1501.06, end: 1505.06}
+  - {text: "Speaking of fun new sodas that nobody asked for, it was finally time to try the Planet Money Soda.", start: 1505.88, end: 1513.80}
+  - {text: "So this is it?", start: 1514.30, end: 1515.68}
+  - {text: "This is it. This is where you find out what Planet Money tastes like.", start: 1516.10, end: 1519.34}
+  - {text: "I was in the Flavor Man tasting room with Tom and Kristen and members of their team.", start: 1519.34, end: 1524.42}
+  - {text: "On the table in front of us were a dozen silver cans of the prototype Planet Money beverage.", start: 1524.86, end: 1531.56}
+  - {text: "Here we go. Cheers, guys.", start: 1532.02, end: 1533.60}
+  - {text: "Planet Money. What do you think, refreshing?", start: 1534.92, end: 1538.01}
+  - {text: "Very refreshing, very light.", start: 1538.67, end: 1540.71}
+  - {text: "And it's bright too, it's like a zingy.", start: 1541.97, end: 1543.81}
+  - {text: "That's so good. There was definitely a citrusy note to it, but it wasn't orange, it wasn't a familiar citrus.", start: 1544.11, end: 1551.57}
+  - {text: "Tom says it was yuzu.", start: 1552.05, end: 1553.73}
+  - {text: "Yuzu is a really trendy flavor right now, traditionally used in Japan, a cousin to the orange that is more complex and floral.", start: 1554.15, end: 1562.17}
+  - {text: "So it explodes in a lot of different directions.", start: 1562.45, end: 1564.25}
+  - {text: "You get all different kinds of top notes, it's delicious.", start: 1564.45, end: 1566.17}
+  - {text: "There were also notes of elderberry, which is really popular in Europe.", start: 1566.71, end: 1570.07}
+  - {text: "It's like an earthy blackberry.", start: 1570.39, end: 1571.95}
+  - {text: "Tom said we wanted to give you flavors that were global and exotic, but also approachable.", start: 1572.35, end: 1577.69}
+  - {text: "As for the functional, quote unquote, good for you part of the beverage, Katie Clark, the R &D director, told us, oh, this isn't just a soda,", start: 1578.13, end: 1586.17}
+  - {text: "what you're actually drinking is a yuzu elderberry sparkling coconut water.", start: 1586.57, end: 1592.37}
+  - {text: "So coconut water is really hot right now.", start: 1592.73, end: 1594.37}
+  - {text: "Coconut water is a natural way to bring electrolytes to a beverage.", start: 1594.87, end: 1598.23}
+  - {text: "It mostly contains potassium, but there are some sodium and magnesium in there too.", start: 1598.55, end: 1603.07}
+  - {text: "So this is like every single thing that's hot right now in the world of beverages.", start: 1603.27, end: 1607.27}
+  - {text: "A little bit, yeah.", start: 1607.99, end: 1608.63}
+  - {text: "Couple things, yeah. You gave us the everything bagel soda.", start: 1608.71, end: 1613.17}
+  - {text: "In a beverage, yes.", start: 1613.57, end: 1613.97}
+  - {text: "But then they were like, we have one more thing we want you to try, because you told us planet money is full of surprises, right?", start: 1614.53, end: 1622.43}
+  - {text: "So we have a surprise for you.", start: 1622.89, end: 1624.69}
+  - {text: "Monica Horn, one of the senior beverage designers, brought out a second version of the planet money drink, this one with an extra special secret ingredient.", start: 1625.21, end: 1633.83}
+  - {text: "It might hit you in like 10 seconds after you taste it, so.", start: 1633.83, end: 1637.15}
+  - {text: "Yeah, just let it.", start: 1638.02, end: 1639.46}
+  - {text: "We'll talk about it after you taste it.", start: 1639.48, end: 1640.74}
+  - {text: "Yeah, yeah, yeah, yep.", start: 1640.74, end: 1641.86}
+  - {text: "Don't be scared, it's okay.", start: 1642.08, end: 1643.20}
+  - {text: "Don't be scared is maybe the last thing you wanna hear when someone hands you an experimental beverage, but apparently some people really don't like this taste.", start: 1645.10, end: 1655.72}
+  - {text: "Anyway, I took a sip.", start: 1656.14, end: 1657.24}
+  - {text: "Okay, here we go.", start: 1657.56, end: 1658.20}
+  - {text: "I could feel everyone staring at me.", start: 1660.26, end: 1662.20}
+  - {text: "Lovely flavor. It tastes great, I don't know what you're talking about.", start: 1662.44, end: 1667.36}
+  - {text: "Oh, okay, great. Oh, it was this very strange tingling feeling, like someone had put a tiny little battery in my mouth.", start: 1667.62, end: 1678.62}
+  - {text: "Does it spark curiosity?", start: 1678.88, end: 1680.14}
+  - {text: "Does it make you think, what have I just done?", start: 1681.06, end: 1683.44}
+  - {text: "And this weird tingling feeling, it just kept building.", start: 1683.80, end: 1687.08}
+  - {text: "Oh, I'm really getting it now, yeah.", start: 1687.42, end: 1689.96}
+  - {text: "Wait, why does my tongue feel funny?", start: 1691.02, end: 1692.62}
+  - {text: "It's great, right? What is this?", start: 1693.34, end: 1695.62}
+  - {text: "Do you really wanna know?", start: 1696.06, end: 1697.48}
+  - {text: "What is it? It's jambu.", start: 1697.60, end: 1698.64}
+  - {text: "Jambu? Mm -hmm. Jambu, it is a tropical herb traditionally used to numb the mouth for toothaches.", start: 1699.50, end: 1706.04}
+  - {text: "It's kind of like Sichuan peppercorn, if you've ever had that.", start: 1706.42, end: 1708.48}
+  - {text: "Kristen says jambu extract isn't super common, but it's sometimes used as a background note to make drinks taste more effervescent.", start: 1708.86, end: 1716.38}
+  - {text: "Though you wouldn't know because the way food labeling works in the US, the drinks often just say natural flavors.", start: 1716.80, end: 1722.58}
+  - {text: "Anyway, there you have it.", start: 1723.35, end: 1725.04}
+  - {text: "According to the experts at Flavor Man, the beverage that best represents planet money that is sophisticated yet approachable with a dose of surprise is a", start: 1725.26, end: 1736.36}
+  - {text: "Yuzu elderberry sparkling coconut water with a jambu twist.", start: 1736.36, end: 1741.46}
+  - {text: "We have a money maker on our hands, guys.", start: 1741.78, end: 1743.64}
+  - {text: "All right, how do we sell this?", start: 1744.14, end: 1746.44}
+  - {text: "Let's go. Let's go.", start: 1746.84, end: 1748.88}
+  - {text: "Hey, Kenny. It's Kenny Malone, co -host of Planet Money.", start: 1749.62, end: 1752.38}
+  - {text: "Back again in the studio.", start: 1752.38, end: 1753.64}
+  - {text: "So what do you think?", start: 1753.86, end: 1754.90}
+  - {text: "That was the journey.", start: 1755.08, end: 1755.76}
+  - {text: "I do. I feel like I understand where all the flavors are from, and most importantly, I would like to try the Planet Money flavor.", start: 1755.94, end: 1762.28}
+  - {text: "Oh, I am so sorry.", start: 1762.80, end: 1764.44}
+  - {text: "I didn't bring any back for you.", start: 1764.62, end: 1766.04}
+  - {text: "Oh, what now? I'm sorry?", start: 1766.48, end: 1768.20}
+  - {text: "It's heavy. I couldn't get it through the airport.", start: 1768.88, end: 1771.46}
+  - {text: "No, no, no, I get it.", start: 1771.80, end: 1772.90}
+  - {text: "But what does clearly seem to be true?", start: 1773.02, end: 1775.10}
+  - {text: "Could we not make a bunch of these?", start: 1775.74, end: 1777.58}
+  - {text: "And if we don't want to sell them, that's fine.", start: 1777.80, end: 1779.48}
+  - {text: "I'm not exactly ready to become a beverage company.", start: 1779.72, end: 1781.92}
+  - {text: "But we could, like, host a thing.", start: 1781.92, end: 1783.84}
+  - {text: "I think that's a great idea.", start: 1784.28, end: 1785.60}
+  - {text: "Yes. Yeah. So you and I should do a live event where we invite all the listeners who want to try the soda to come and crack one open with us.", start: 1785.84, end: 1795.76}
+  - {text: "There's no way we can invite all the listeners that want to try it.", start: 1796.00, end: 1798.32}
+  - {text: "But if you're interested in this, let us know.", start: 1798.44, end: 1800.30}
+  - {text: "Send us an email.", start: 1800.48, end: 1800.92}
+  - {text: "And we'll see if we can make a batch, a small batch, of Planet Money the flavor.", start: 1801.34, end: 1806.22}
+  - {text: "Planet Money the flavor.", start: 1807.22, end: 1808.20}
+  - {text: "We got to work on the title.", start: 1808.36, end: 1809.16}
+  - {text: "But yes, that's good.", start: 1809.26, end: 1809.96}
+  - {text: "Yeah. I like it.", start: 1810.40, end: 1811.02}
+  - {text: "Jambu. Thanks, Kenny. And of course.", start: 1811.16, end: 1812.32}
+  - {text: "Hey, everyone, if you could do us a favor and just give a little boop to that follow button on your podcast app.", start: 1820.23, end: 1825.77}
+  - {text: "We want to make sure you get all of our announcements about special projects, live show dates, new merch releases, discounts for the NPR shop, stuff you definitely don't want to miss.", start: 1826.09, end: 1835.49}
+  - {text: "And it helps the show.", start: 1835.79, end: 1837.03}
+  - {text: "It tells the apps that Planet Money is a podcast that other people might want to listen to.", start: 1837.33, end: 1841.83}
+  - {text: "So go ahead, scroll up, and just give it a little boop.", start: 1842.29, end: 1845.99}
+  - {text: "Thanks for the follow.", start: 1847.04, end: 1847.66}
+  - {text: "This episode of Planet Money was produced by James Snead and Sam Yellowforce Kessler.", start: 1848.36, end: 1852.98}
+  - {text: "It was edited by Jess Jang.", start: 1853.40, end: 1854.54}
+  - {text: "Vito Emanuel was our fact checker.", start: 1854.90, end: 1856.42}
+  - {text: "And Quacy Lee engineered the show.", start: 1856.78, end: 1858.30}
+  - {text: "Alex Goldmark is the executive producer of Planet Money.", start: 1858.72, end: 1861.18}
+  - {text: "A special thanks to Dwayne Stanford of Beverage Digest and Jordan Plappert.", start: 1861.84, end: 1865.92}
+  - {text: "And also a special, special shout out to all of you listeners who emailed us about your experiences with the wild new world of beverages.", start: 1866.32, end: 1874.32}
+  - {text: "From Kelsey, who told us how these new seltzers and sodas helped her quit alcohol, to Ryan, who is still puzzling over the sunshine flavor of La Croix.", start: 1874.78, end: 1883.58}
+  - {text: "I have no idea what flavor sunshine is, but it was disgusting.", start: 1883.96, end: 1889.04}
+  - {text: "I have no idea either, Ryan.", start: 1889.48, end: 1890.62}
+  - {text: "Anyway, it was great hearing from all of you.", start: 1891.06, end: 1892.90}
+  - {text: "As always, you can reach us at planetmoney .npr .org.", start: 1893.18, end: 1896.20}
+  - {text: "Send us an email, even better, a voice memo.", start: 1896.46, end: 1898.40}
+  - {text: "I'm Jeff Guo. This is NPR.", start: 1898.90, end: 1900.24}
+  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1900.58, end: 1918.80}
+  - {text: "This message comes from Google Workspace with Gemini.", start: 1918.80, end: 1921.80}
+  - {text: "Ever notice how every new AI tool asks you to explain your business to it all over again?", start: 1922.14, end: 1927.52}
+  - {text: "Google Workspace with Gemini skips that.", start: 1927.88, end: 1930.16}
+  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and More, no new tools, no extra logins, just one subscription", start: 1930.52, end: 1939.40}
+  - {text: "that gives you personalized AI right inside your actual workflow.", start: 1939.40, end: 1943.40}
+  - {text: "Try Google Workspace with Gemini at go .gle .com.", start: 1943.74, end: 1947.80}
+  - {text: "Slash Workspace with Gemini.", start: 1947.80, end: 1949.24}
+  - {text: "This message comes from Capella University.", start: 1950.18, end: 1952.32}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1952.86, end: 1957.36}
+  - {text: "That's your own drive, pushing you towards what's next.", start: 1957.66, end: 1961.00}
+  - {text: "Capella University gets that.", start: 1961.24, end: 1963.10}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 1963.42, end: 1969.54}
+  - {text: "You've built experience and know what you're capable of.", start: 1969.92, end: 1972.96}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 1972.96, end: 1977.40}
+  - {text: "The only real question is, what can't you do?", start: 1977.76, end: 1980.74}
+  - {text: "Learn more at capella .edu.", start: 1981.12, end: 1983.12}
+---

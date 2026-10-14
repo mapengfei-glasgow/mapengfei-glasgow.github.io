@@ -1,0 +1,401 @@
+---
+layout: single
+title: "Charles Ponzi's scheme (plus a new scam)"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-07T00:00:00Z
+slug: "2026-10-07-charles-ponzis-scheme-plus-a-new-scam"
+audioDir: "2026-10-07-charles-ponzis-scheme-plus-a-new-scam"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-07-charles-ponzis-scheme-plus-a-new-scam/episode.mp3"
+totalDuration: 1730.0
+sentences:
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.66}
+  - {text: "CEOs and CFOs need more than capital.", start: 2.22, end: 4.86}
+  - {text: "They need a financing partner with the scale, flexibility, and certainty to help them execute.", start: 5.28, end: 10.38}
+  - {text: "That's where Apollo comes in.", start: 10.84, end: 12.30}
+  - {text: "Learn more at Apollo .com slash capital.", start: 12.66, end: 15.66}
+  - {text: "This is Planet Money from NPR.", start: 17.16, end: 19.44}
+  - {text: "Most of us in this world are destined to be forgotten.", start: 22.38, end: 25.46}
+  - {text: "I know it's sad, but it's true.", start: 26.46, end: 28.86}
+  - {text: "A lucky few will land in the history books.", start: 28.86, end: 31.48}
+  - {text: "Fewer still might have our names put on something.", start: 31.92, end: 34.70}
+  - {text: "A road sign, a stadium, maybe even get a statue or a plaque.", start: 35.48, end: 39.62}
+  - {text: "Probably the least likely scenario is to become so famous or so infamous that our names will live on in language.", start: 40.67, end: 49.37}
+  - {text: "Jerry Mander, the word named after Elbridge Gary, 19th century governor of Massachusetts and early pioneer of the Gary Mander.", start: 50.65, end: 59.39}
+  - {text: "Saxophone named after its inventor, Adolfi Sax.", start: 60.27, end: 63.83}
+  - {text: "And then there's the Ponzi.", start: 64.99, end: 67.07}
+  - {text: "The Ponzi scheme named after one, Charles Ponzi.", start: 67.21, end: 72.09}
+  - {text: "A Ponzi scheme is an investment opportunity that's more of a con.", start: 73.93, end: 78.35}
+  - {text: "The way it works is you have to use or steal money from newer investors to pay back the earlier ones.", start: 79.06, end: 85.84}
+  - {text: "They happen all the time these days.", start: 86.58, end: 89.20}
+  - {text: "In fact, just recently, Travis Kelsey, husband to Taylor Swift, was named by prosecutors as a victim in a $35 million Ponzi scheme.", start: 89.42, end: 98.80}
+  - {text: "But I'm just going to come out and say it.", start: 99.73, end: 100.99}
+  - {text: "Most of the time, these modern day Ponzi's, they're amateur hour compared to the one pulled off by Charles Ponzi.", start: 101.07, end: 108.39}
+  - {text: "An Italian immigrant living in Boston who pulled off his scheme for a brief seven months about a hundred years ago.", start: 108.97, end: 115.19}
+  - {text: "He wasn't the first, he wouldn't be the biggest, but after you hear his story, you'll get it.", start: 115.19, end: 120.05}
+  - {text: "You'll get why he's allowed to live on forever in infamy.", start: 120.35, end: 123.91}
+  - {text: "Hello and welcome to Planet Money.", start: 124.64, end: 125.62}
+  - {text: "I'm Nick Fountain. Today on the show, in honor of the newlyweds, Taylor and Travis, one of my favorite shows from the vault, the story of how Charles Ponzi stole millions of dollars and defrauded tens of thousands of people.", start: 125.94, end: 139.14}
+  - {text: "It's way wilder than you think it involves a system of speculating on worldwide currencies thanks to a loophole in the global mail system, a daring plan to rob a bank, and a very generous pound of flesh.", start: 139.60, end: 153.64}
+  - {text: "And you're going to want to stick around till the end because there is some news.", start: 154.38, end: 158.82}
+  - {text: "Apparently scammers have been impersonating us at Planet Money and other podcasters too.", start: 159.34, end: 165.22}
+  - {text: "We're going to share what we know and how to avoid falling for their traps.", start: 165.64, end: 170.02}
+  - {text: "This message comes from Inspirity because how you HR matters, from payroll and benefits to HR compliance and talent development, helping your business move forward with confidence.", start: 178.90, end: 189.26}
+  - {text: "Learn more at inspirity .com slash HR matters.", start: 189.60, end: 193.08}
+  - {text: "This message comes from Schwab.", start: 193.68, end: 195.44}
+  - {text: "Investing with Schwab is like a hike with endless trails.", start: 196.04, end: 198.94}
+  - {text: "Go solo with self -directed investing.", start: 199.50, end: 201.44}
+  - {text: "Take stops along the way with trading or choose a guide with full service wealth management.", start: 201.88, end: 206.52}
+  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 206.52, end: 210.40}
+  - {text: "This message is from Synchrony Bank, who wants to remind you to stay flexible.", start: 211.78, end: 216.00}
+  - {text: "Not the 10 ,000 steps before breakfast, yoga bending, circus performing, wish I hadn't done that kind of flexible.", start: 216.48, end: 222.66}
+  - {text: "It's about staying financially flexible, like with their high yield savings account.", start: 223.12, end: 226.64}
+  - {text: "You'll earn a great rate without monthly fees or minimums that can slow your progress.", start: 227.00, end: 230.72}
+  - {text: "Go to synchrony .com slash NPR.", start: 231.20, end: 233.36}
+  - {text: "A Ponzi. A word so familiar that it just rolls off the tongue.", start: 237.14, end: 241.86}
+  - {text: "A shorthand for robbing Peter to pay Paul.", start: 242.30, end: 245.14}
+  - {text: "And while his name has become infamous, the story of Charles Ponzi was not that well known.", start: 245.96, end: 251.02}
+  - {text: "That is, until journalist and author Mitch Zuckoff just kind of stumbled upon it.", start: 251.44, end: 255.80}
+  - {text: "I was a banking reporter for a while at the Boston Globe, and I was at a press conference, and the state treasurer just offhandedly said,", start: 256.00, end: 263.66}
+  - {text: "banks haven't failed like this in Boston since Ponzi's day.", start: 263.66, end: 267.46}
+  - {text: "And I did a comic double take of, huh?", start: 268.06, end: 271.44}
+  - {text: "And he said, yeah, you knew Ponzi was based here in Boston.", start: 272.26, end: 274.90}
+  - {text: "And I said, yeah, sure, I knew that.", start: 275.48, end: 277.36}
+  - {text: "I'm a banking reporter.", start: 277.56, end: 278.42}
+  - {text: "Of course I knew that.", start: 278.58, end: 279.28}
+  - {text: "I had no idea.", start: 279.60, end: 280.22}
+  - {text: "Mitch kind of became obsessed with Ponzi and wrote a book about him.", start: 280.60, end: 284.18}
+  - {text: "It's called Ponzi's Scheme, the True Story of a Financial Legend.", start: 284.52, end: 288.28}
+  - {text: "To write the book, Mitch went to Italy and found Ponzi's birth records.", start: 289.06, end: 292.28}
+  - {text: "He read thousands of court documents.", start: 292.28, end: 294.48}
+  - {text: "He found records of every single victim, and he read Ponzi's private letters.", start: 294.66, end: 299.24}
+  - {text: "He also looked through a bunch of photos.", start: 299.84, end: 301.58}
+  - {text: "There aren't many from when Ponzi's young, but in one, he's dressed in this three -piece suit with a tie.", start: 301.84, end: 306.96}
+  - {text: "He has a pretty well -kept mustache, perfectly combed hair, and these big, thick eyebrows.", start: 307.18, end: 312.50}
+  - {text: "And it's also worth mentioning that Ponzi is, uh, he's diminutive.", start: 313.20, end: 317.08}
+  - {text: "You know, he's a guy five, two, five, I think he lied about being five, three, you know?", start: 317.36, end: 321.68}
+  - {text: "Yes. And so if Ponzi was going to make it, he understood he had to do it with his head.", start: 322.36, end: 329.26}
+  - {text: "Uh -huh. Just because he's a little guy.", start: 329.96, end: 331.86}
+  - {text: "He's a little guy.", start: 332.28, end: 333.00}
+  - {text: "Yeah. Maybe it was the height, maybe it was something else, but throughout his life, Ponzi was always looking for the thing that was going to make him rich.", start: 333.32, end: 341.58}
+  - {text: "He was the type to take big swings, big risks that often involved leaps of faith.", start: 342.26, end: 347.28}
+  - {text: "And in 1903, he did what many young Italians in search of riches were doing back then.", start: 347.96, end: 352.68}
+  - {text: "He got on a boat to America.", start: 353.06, end: 354.78}
+  - {text: "For the greater part of the next two decades, Ponzi tried to make his fortune.", start: 355.76, end: 359.46}
+  - {text: "This guy had more jobs that in a more of a varied resume than anybody I've ever heard of.", start: 360.06, end: 367.88}
+  - {text: "Can you just list off some of the jobs?", start: 367.98, end: 369.34}
+  - {text: "Oh boy. He worked in a bank.", start: 370.26, end: 373.32}
+  - {text: "He was a translator.", start: 373.46, end: 374.34}
+  - {text: "He was a mining camp nurse.", start: 374.62, end: 376.28}
+  - {text: "He was a road roller.", start: 376.44, end: 377.68}
+  - {text: "He was a sign painter.", start: 378.10, end: 379.58}
+  - {text: "On and on. Grocery clerk, factory hand, dishwasher, waiter, librarian.", start: 379.58, end: 385.28}
+  - {text: "He was a itinerant immigrant rolling up and down the east coast of the United States looking for work and trying to find his place.", start: 385.82, end: 395.76}
+  - {text: "And Ponzi's big swings, high risk, figure out the details later attitude, it wasn't just about getting rich.", start: 396.32, end: 402.48}
+  - {text: "This one time, Mitch says, Ponzi was working at a mining camp in Appalachia when there was a terrible accident at a hospital.", start: 403.02, end: 410.30}
+  - {text: "A nurse named Pearl was burned when a gas stove burst.", start: 410.78, end: 414.18}
+  - {text: "He's sitting down for a beer with this doctor.", start: 414.68, end: 416.90}
+  - {text: "He knows at the mining camp and he's asks, you know, how's Pearl?", start: 417.20, end: 420.70}
+  - {text: "And the doctor tells him, you know, it's pretty desperate.", start: 421.48, end: 423.64}
+  - {text: "Gangrene is setting in.", start: 423.98, end: 425.20}
+  - {text: "And so Ponzi says, how can you help her?", start: 425.96, end: 428.08}
+  - {text: "And he says, maybe a skin graft.", start: 428.46, end: 429.96}
+  - {text: "And you know, he wanted to try it, but he couldn't find anyone who'd give up their skin to save this woman they didn't know at all.", start: 430.32, end: 437.18}
+  - {text: "And Ponzi didn't really know her either.", start: 437.82, end: 439.98}
+  - {text: "But in the moment, Ponzi said, how much do you need?", start: 440.38, end: 444.86}
+  - {text: "How much skin do you need?", start: 445.16, end: 446.10}
+  - {text: "And he said, well, probably 40 or 50 square inches.", start: 446.24, end: 448.58}
+  - {text: "Ponzi said, you got him.", start: 449.60, end: 450.76}
+  - {text: "I'll give you all the skin you need.", start: 451.10, end: 452.24}
+  - {text: "Ponzi was on an operating table that evening.", start: 452.94, end: 456.08}
+  - {text: "Doctors cut off 72 square inches of skin from his thighs.", start: 456.56, end: 460.08}
+  - {text: "Later, he gave another 50 inches from his back.", start: 460.66, end: 463.12}
+  - {text: "It was a classic Ponzi big swing.", start: 463.60, end: 465.48}
+  - {text: "And it was risky.", start: 465.64, end: 466.32}
+  - {text: "He ended up spending months in the hospital.", start: 466.32, end: 468.80}
+  - {text: "But it paid off.", start: 469.12, end: 470.48}
+  - {text: "The nurse, Pearl, she lived.", start: 470.78, end: 472.74}
+  - {text: "It's an incredible story.", start: 473.54, end: 475.44}
+  - {text: "And it doesn't fit the picture I have of Ponzi.", start: 475.72, end: 480.80}
+  - {text: "I love that. I thought I was going to write about a guy who was just a schemer, who was just a snake.", start: 481.02, end: 486.96}
+  - {text: "And the deeper I went, the more I felt sort of the stirrings of sympathy, the stirrings of empathy.", start: 487.54, end: 497.58}
+  - {text: "And what he did was wrong.", start: 498.36, end: 499.92}
+  - {text: "I'm not confused by that.", start: 500.74, end: 502.72}
+  - {text: "But I kind of understood the motivation of a guy who couldn't stop, as he put it, the snowball once it started rolling downhill and not get rolled over by it.", start: 503.02, end: 515.72}
+  - {text: "This next chapter of Ponzi's story is all about that snowball, how he got the idea that started it rolling, and how he turned this big idea into a big scam that was hard to stop.", start: 516.04, end: 528.00}
+  - {text: "And as his story unfolds, you're going to hear some obvious red flags.", start: 528.68, end: 532.62}
+  - {text: "In part, because I'm going to point them out.", start: 533.02, end: 534.28}
+  - {text: "I'm going to give the red flags these little rhymes.", start: 534.54, end: 537.02}
+  - {text: "Here it goes. By 1919, Ponzi had spent 15 years trying to make it in the U .S.", start: 537.60, end: 543.12}
+  - {text: "He was living in Boston.", start: 543.32, end: 544.24}
+  - {text: "He'd gotten married. He'd rented an office downtown right next to City Hall.", start: 544.52, end: 548.06}
+  - {text: "And then one day in August, he's going through the mail.", start: 548.54, end: 551.10}
+  - {text: "He opens a letter and outflutters this little, it almost looks like a dollar bill, but it's kind of squared.", start: 551.52, end: 557.98}
+  - {text: "And it's an international reply coupon.", start: 558.44, end: 561.20}
+  - {text: "An international reply coupon.", start: 561.64, end: 563.36}
+  - {text: "What's that? An international reply coupon is basically, it's a coupon that enables you to buy a stamp in another country.", start: 563.60, end: 573.82}
+  - {text: "It's actually a pretty clever solution to the problem.", start: 574.24, end: 576.76}
+  - {text: "If you want to send a letter to say you're Nona and Naples, and you want to make it easier for her to respond with news from the motherland, what are you going to do?", start: 576.76, end: 584.94}
+  - {text: "You can't send her U .S.", start: 585.40, end: 586.86}
+  - {text: "stamps. You can't send her nickels.", start: 587.04, end: 589.06}
+  - {text: "You can't send her an Italian lira because you're paid in dollars.", start: 589.22, end: 592.56}
+  - {text: "Instead, you can send her an international reply coupon, which is like a voucher that you can buy at your local U .S.", start: 593.02, end: 600.36}
+  - {text: "post office and she can redeem for an Italian stamp at her local Italian post office.", start: 600.40, end: 606.22}
+  - {text: "It's an easy way to prepay for a reply.", start: 606.22, end: 609.02}
+  - {text: "And what Ponzi realized sitting right there in his office was that these international reply coupons were a magical way to make money through arbitrage.", start: 609.70, end: 618.20}
+  - {text: "That is taking advantage of price differences to make an easy profit.", start: 618.52, end: 622.32}
+  - {text: "He had what can only be described as a Eureka moment.", start: 622.78, end: 626.54}
+  - {text: "And he started doing sort of back -of -the -envelope calculations.", start: 627.08, end: 630.14}
+  - {text: "See, this was just after the Great War and the Great Influenza.", start: 630.88, end: 634.82}
+  - {text: "And the economies of Europe were in a bad place.", start: 634.82, end: 637.72}
+  - {text: "Many of their currencies had been devalued.", start: 638.10, end: 640.14}
+  - {text: "But the organization that set the going rate for these international reply coupons had not adjusted for inflation, how much it cost to buy the coupons in different countries.", start: 640.38, end: 649.30}
+  - {text: "And that meant essentially he could buy these coupons on sale in Europe.", start: 649.94, end: 657.00}
+  - {text: "Yes. So a dollar could buy 20 of these coupons for five cents each in the United States.", start: 657.00, end: 666.04}
+  - {text: "But because the value of the lira had been so devastated by the war.", start: 667.38, end: 673.74}
+  - {text: "The Italian lira, yes.", start: 673.78, end: 674.96}
+  - {text: "The Italian lira, you could buy more than three times as many of those in Italy.", start: 675.20, end: 680.38}
+  - {text: "For the equivalent of a U .S.", start: 681.06, end: 682.60}
+  - {text: "dollar. Correct. And so he realized that after expenses he could make $2 .30 for every dollar's worth of coupons he bought in Italy.", start: 682.66, end: 692.94}
+  - {text: "Amazing profits. Perfect arbitrage opportunity.", start: 693.54, end: 697.12}
+  - {text: "Sign me up. Yes, I won in.", start: 697.42, end: 700.74}
+  - {text: "And it's legal. There are a few minor details that Ponzi can't quite figure out yet.", start: 701.16, end: 709.12}
+  - {text: "For instance, how to sell these coupons or stamps for cash in the U .S.", start: 709.12, end: 713.48}
+  - {text: "But he figures he can sell them in bulk to companies that send a lot of mail.", start: 714.08, end: 717.70}
+  - {text: "There is also the transport problem at scale.", start: 718.20, end: 720.82}
+  - {text: "These might be kind of heavy, but he thinks, you know what?", start: 720.98, end: 723.22}
+  - {text: "It's a good idea.", start: 723.48, end: 724.86}
+  - {text: "I'll figure out the details later.", start: 725.18, end: 726.66}
+  - {text: "Now is the time to take big swings.", start: 727.22, end: 729.18}
+  - {text: "Now is the time to create a company.", start: 729.84, end: 731.94}
+  - {text: "He goes right next door to City Hall and he incorporates a business.", start: 732.34, end: 736.78}
+  - {text: "And he calls it the Securities Exchange Company.", start: 736.78, end: 741.18}
+  - {text: "The SEC. Why not?", start: 741.50, end: 744.10}
+  - {text: "The Securities Exchange Commission won't be around for another decade and a half.", start: 744.50, end: 748.54}
+  - {text: "Ponzi starts calling around the community to find people who will invest in his company.", start: 749.36, end: 753.72}
+  - {text: "He tells them if they give him cash now he'll be able to make a profit by buying and selling these stamp coupons and share a bunch of that profit with them.", start: 754.12, end: 762.68}
+  - {text: "It's hard to pinpoint exactly when Ponzi's scheme turned into a scam, but you could argue that it was during these first few pitches.", start: 763.55, end: 771.21}
+  - {text: "Because Ponzi was soliciting investments without figuring out those pesky details of how he would actually make money.", start: 771.67, end: 778.71}
+  - {text: "Ponzi got around this by giving out just enough information for people to think it was a brilliant idea.", start: 779.15, end: 784.03}
+  - {text: "But when they asked him questions like, hey, how exactly are you going to sell these stamp coupons for cash?", start: 784.57, end: 791.01}
+  - {text: "He didn't tell them, well, I haven't worked that out yet.", start: 791.65, end: 794.57}
+  - {text: "He'd say, well, that's the proprietary sauce.", start: 794.95, end: 797.85}
+  - {text: "I can't tell you that.", start: 798.19, end: 799.09}
+  - {text: "So here it is, red flag number one.", start: 799.81, end: 802.27}
+  - {text: "Is there a secret sauce?", start: 802.97, end: 804.23}
+  - {text: "Maybe get lost. Do not invest in something where you don't understand all the details.", start: 805.01, end: 809.89}
+  - {text: "Ponzi knew that people wouldn't care though.", start: 810.81, end: 812.65}
+  - {text: "He had them in a trance and then he'd lean in for the kill.", start: 812.73, end: 816.49}
+  - {text: "He would say, you know, what are the banks paying you?", start: 816.93, end: 819.11}
+  - {text: "If you put your money in a bank, they're going to give you what?", start: 819.11, end: 821.33}
+  - {text: "2%, maybe 3 % a year?", start: 822.13, end: 824.45}
+  - {text: "I can give you 50 % interest in 90 days.", start: 825.34, end: 829.56}
+  - {text: "In three months, your $100 will be $150.", start: 830.08, end: 832.88}
+  - {text: "And that's the moment he knew that a calculation was happening in his client's head.", start: 834.04, end: 840.13}
+  - {text: "Is this too good to be true or is this too good to miss?", start: 840.87, end: 844.31}
+  - {text: "Too good to be true or too good to miss?", start: 844.99, end: 846.87}
+  - {text: "That's how I see all of this.", start: 847.19, end: 849.13}
+  - {text: "How could he possibly give me 50 % interest in 90 days?", start: 849.13, end: 853.15}
+  - {text: "But if it's true, if this is possible, this is my ship coming in.", start: 853.35, end: 858.17}
+  - {text: "This is red flag number two and maybe the biggest red flag of all.", start: 858.53, end: 862.53}
+  - {text: "Regular returns, you're going to get burned because the world isn't regular.", start: 862.99, end: 868.45}
+  - {text: "Some years are good, some are bad.", start: 868.69, end: 870.15}
+  - {text: "And investments that promise amazing returns every year, they're sketchy.", start: 870.51, end: 874.67}
+  - {text: "But Ponzi's investors didn't pick up on this.", start: 875.23, end: 877.71}
+  - {text: "People started pouring dozens, then thousands, at some point, a million dollars a week into Ponzi's postal coupon fake business.", start: 877.71, end: 885.71}
+  - {text: "And it says to understand how Ponzi conned tens of thousands of people.", start: 886.41, end: 889.85}
+  - {text: "You got to remember, he started his scheme in December of 1919, right on the cusp of the roaring 20s.", start: 889.99, end: 896.81}
+  - {text: "I call it, this is the first roar of the 1920s.", start: 897.15, end: 901.17}
+  - {text: "The idea that anything was possible had permeated not just the upper class, but to the newest immigrant.", start: 901.41, end: 908.79}
+  - {text: "Yes, great riches were available here.", start: 909.39, end: 912.35}
+  - {text: "So people were primed for this.", start: 912.73, end: 914.37}
+  - {text: "They had heard stories of getting rich quick, and so it seemed plausible.", start: 914.73, end: 918.83}
+  - {text: "When I was doing the research on Ponzi, I spent a lot of time just reading what else was in the paper.", start: 920.11, end: 925.97}
+  - {text: "And it was incredible, it was an entire genre of stories of sudden wealth that subconsciously or consciously were playing into Ponzi's hands.", start: 926.39, end: 938.87}
+  - {text: "Like Space Filler, or these were prominently featured?", start: 939.11, end: 942.83}
+  - {text: "Prominently featured. Oh, front page stories again and again about marrying into wealth.", start: 943.61, end: 949.71}
+  - {text: "She rose from chargirl to ground dom.", start: 950.03, end: 955.57}
+  - {text: "And clearly, people wanted to read it.", start: 956.85, end: 960.97}
+  - {text: "This might as well be red flag number three for an investment scheme.", start: 961.45, end: 964.95}
+  - {text: "Beware the unrealistic expectations of quick wealth creation.", start: 965.47, end: 970.85}
+  - {text: "Because this, everyone's getting rich quick, why not me feeling?", start: 971.83, end: 975.77}
+  - {text: "It's not just a 1920s phenomena.", start: 976.25, end: 977.87}
+  - {text: "It pops up whenever the economy is popping off.", start: 978.39, end: 981.37}
+  - {text: "Whenever you see your neighbors getting rich, you get jealous and you want it.", start: 981.83, end: 985.33}
+  - {text: "For Ponzi, business was booming.", start: 986.05, end: 988.07}
+  - {text: "But remember, he never figured out those details.", start: 988.35, end: 990.95}
+  - {text: "He never used investor money to buy postal coupons.", start: 991.45, end: 994.91}
+  - {text: "Instead, when investors came back to his office looking to recoup their investment, he just paid them with the new money from new investors.", start: 995.41, end: 1002.77}
+  - {text: "This robbing Peter to pay Paul scheme is what's now known as a Ponzi.", start: 1003.49, end: 1007.35}
+  - {text: "Sometimes regulators catch on to these schemes.", start: 1008.40, end: 1011.16}
+  - {text: "But oftentimes Ponzi's pop up in areas that are new or not regulated too much, which is red flag number four.", start: 1011.52, end: 1020.32}
+  - {text: "If you're in the sticks, be careful with your picks.", start: 1020.32, end: 1024.40}
+  - {text: "And postal policy was quite the hinterland.", start: 1025.34, end: 1028.52}
+  - {text: "Regulators started poking around Ponzi's business, but they were kind of stumped.", start: 1029.12, end: 1033.12}
+  - {text: "For instance, the first regulator that came around to ask questions was a state bureaucrat.", start: 1033.44, end: 1037.74}
+  - {text: "He explained he was in charge of making sure that loan sharks weren't charging too much interest.", start: 1038.16, end: 1042.98}
+  - {text: "But Ponzi said, no, you have it backwards.", start: 1043.36, end: 1045.54}
+  - {text: "I'm the one who has to pay out these big returns.", start: 1045.86, end: 1047.80}
+  - {text: "I'm the one who's going to pay out 50%.", start: 1047.80, end: 1050.58}
+  - {text: "The bureaucrats like, oh yeah, you're right.", start: 1050.58, end: 1053.28}
+  - {text: "You're not a loan shark.", start: 1053.46, end: 1054.60}
+  - {text: "You're the opposite. I guess, good day, sir.", start: 1054.84, end: 1057.76}
+  - {text: "Basically, he goes back to his little cubby hole at the state house, and he sort of tells the police, well, just keep an eye on this guy.", start: 1058.48, end: 1066.96}
+  - {text: "And he passes the buck, so to speak.", start: 1067.38, end: 1069.34}
+  - {text: "Did the Boston police keep their eye on him?", start: 1069.78, end: 1072.00}
+  - {text: "Mostly to invest. Yeah.", start: 1072.98, end: 1074.80}
+  - {text: "Two -thirds of the Boston police department were investing in Ponzi.", start: 1075.42, end: 1079.82}
+  - {text: "Oh, two -thirds of the Boston police?", start: 1079.82, end: 1083.00}
+  - {text: "Yes. The police weren't going to do anything about it.", start: 1083.30, end: 1085.90}
+  - {text: "Some of them even worked for Ponzi as salesman.", start: 1085.94, end: 1088.46}
+  - {text: "The regulators who probably visited Ponzi's operation the most were the postal inspectors.", start: 1089.02, end: 1094.18}
+  - {text: "But try as they might, they could not figure out how Ponzi was making money on this stamp coupon arbitrage.", start: 1094.62, end: 1100.32}
+  - {text: "Of course, that's because Ponzi hadn't figured that out either.", start: 1100.80, end: 1103.44}
+  - {text: "So Ponzi's scheme got bigger and bigger.", start: 1104.18, end: 1106.54}
+  - {text: "At its peak in July of 1927, months after he started taking investments, Ponzi took in nearly six and a half million dollars from 20 ,000 investors.", start: 1107.16, end: 1116.42}
+  - {text: "In a single month, he had a nice mansion.", start: 1116.78, end: 1119.50}
+  - {text: "He had a limo.", start: 1119.96, end: 1120.64}
+  - {text: "He was on the front page of newspapers after the break, how Ponzi's luck eventually ran out, just like almost every Ponzi ever.", start: 1120.98, end: 1130.02}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1135.10, end: 1138.42}
+  - {text: "This message comes from Whole Foods Market.", start: 1139.71, end: 1141.51}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 1142.09, end: 1145.29}
+  - {text: "No added growth hormones or antibiotics in their meat department means slo -braised short ribs are even more satisfying.", start: 1145.75, end: 1151.41}
+  - {text: "All seafood is wild -caught like their vibrant sockeye salmon or verified responsibly farmed.", start: 1151.99, end: 1156.75}
+  - {text: "And all sweets, including fall -themed cookies, are made without high fructose corn syrup.", start: 1157.01, end: 1161.39}
+  - {text: "Spice up fall at Whole Foods Market.", start: 1161.81, end: 1163.45}
+  - {text: "This message comes from Inspirity.", start: 1164.21, end: 1166.09}
+  - {text: "Because how you HR matters.", start: 1166.45, end: 1168.05}
+  - {text: "From payroll and benefits to HR compliance and talent development, helping your business move forward with confidence.", start: 1168.47, end: 1174.63}
+  - {text: "Learn more at inspirity .com.", start: 1174.99, end: 1176.99}
+  - {text: "This message comes from Ethos.", start: 1177.27, end: 1180.73}
+  - {text: "It's easy to put off getting life insurance until something unexpected happens.", start: 1180.99, end: 1185.27}
+  - {text: "That makes you realize your family needs you covered.", start: 1185.53, end: 1188.37}
+  - {text: "Ethos makes it easy.", start: 1188.67, end: 1189.69}
+  - {text: "It's 100 % online.", start: 1190.01, end: 1191.17}
+  - {text: "No medical exam, just a few health questions.", start: 1191.17, end: 1193.93}
+  - {text: "Applying minutes and get same -day coverage up to $3 million.", start: 1194.31, end: 1197.71}
+  - {text: "Get your free quote today at ethos .com slash money.", start: 1197.99, end: 1201.55}
+  - {text: "That's ethos .com slash money.", start: 1201.91, end: 1204.09}
+  - {text: "Application times and rates may vary.", start: 1204.35, end: 1206.23}
+  - {text: "Remember, to keep up his stamp coupon scheme, Ponzi needed a constant stream of new investors.", start: 1208.83, end: 1214.73}
+  - {text: "In fact, more investors than before.", start: 1215.27, end: 1216.91}
+  - {text: "To pay the earlier investors their profit, that 50%.", start: 1217.35, end: 1219.97}
+  - {text: "Things started to turn when someone sued Ponzi.", start: 1221.30, end: 1224.12}
+  - {text: "They said they were part owner of the company.", start: 1224.64, end: 1226.32}
+  - {text: "Ponzi said, no, you just gave me a loan that I paid off a long time ago.", start: 1226.56, end: 1229.84}
+  - {text: "But in the meantime, a court decided to freeze a bunch of Ponzi's bank accounts while they figured it all out.", start: 1230.00, end: 1235.50}
+  - {text: "And this causes a mini panic.", start: 1236.30, end: 1237.94}
+  - {text: "Mitch says thousands of investors showed up at Ponzi's office.", start: 1238.76, end: 1241.64}
+  - {text: "It's like a scene of a bank run.", start: 1241.86, end: 1243.56}
+  - {text: "They're all demanding their money back.", start: 1243.68, end: 1245.12}
+  - {text: "People are excited and they're anxious and they're afraid and people are pushing and shoving.", start: 1245.64, end: 1250.78}
+  - {text: "And Ponzi wades into the crowd.", start: 1251.66, end: 1253.72}
+  - {text: "And incredibly, it calms them.", start: 1254.56, end: 1256.74}
+  - {text: "And he survives the run.", start: 1257.06, end: 1259.86}
+  - {text: "Things settle down. He pays off everyone who is seeking their return.", start: 1260.20, end: 1264.10}
+  - {text: "But then state and federal regulators decide to take a second look at his business.", start: 1264.50, end: 1268.44}
+  - {text: "Ponzi meets with them and tells them, you know what, I'm above board.", start: 1269.10, end: 1272.28}
+  - {text: "I'm so above board.", start: 1272.40, end: 1273.46}
+  - {text: "I'll let you check my books.", start: 1273.92, end: 1274.88}
+  - {text: "You can even pick the auditor.", start: 1275.38, end: 1276.98}
+  - {text: "This is a stall tactic and it's a problem.", start: 1277.80, end: 1280.80}
+  - {text: "For one, Ponzi has been spending a lot on his new mansion, that limo, but also on stakes in legitimate businesses.", start: 1281.20, end: 1288.02}
+  - {text: "He's even become part owner of multiple banks.", start: 1288.68, end: 1291.30}
+  - {text: "And the second problem is he never figured out how to make money off the stamp thing.", start: 1291.90, end: 1296.34}
+  - {text: "So he can't come up with the money he owes to all his investors.", start: 1296.80, end: 1300.30}
+  - {text: "Ponzi is getting desperate.", start: 1300.94, end: 1302.46}
+  - {text: "He knows that there is going to be this moment.", start: 1302.64, end: 1304.96}
+  - {text: "The auditor will count up all his debts and Ponzi will have to show all the money that he actually has.", start: 1304.96, end: 1310.56}
+  - {text: "This is the show me the money moment when people could realize that he doesn't have all the money to pay his investors back.", start: 1311.18, end: 1318.42}
+  - {text: "And Ponzi, ever the hustler, thinks up a plan that's both daring and pretty extraordinary.", start: 1318.82, end: 1324.28}
+  - {text: "He's going to gather up all his bank books, all his cash, and go from his office.", start: 1324.98, end: 1330.70}
+  - {text: "And he's going to make a stop before he goes over to the auditor's office a few blocks away.", start: 1330.92, end: 1335.98}
+  - {text: "He's going to stop at one of the banks he purchased.", start: 1336.86, end: 1339.36}
+  - {text: "He has this idea that he is going to gain access to the vault of the Hanover Trust Bank.", start: 1339.88, end: 1345.36}
+  - {text: "And he's going to, what should we say, borrow a few million dollars from the vaults, go over to the auditor, show all of this money,", start: 1345.94, end: 1357.02}
+  - {text: "and then return to the bank and take the money.", start: 1357.32, end: 1360.22}
+  - {text: "Temporarily rob his own bank.", start: 1360.22, end: 1362.08}
+  - {text: "That's one way to put it.", start: 1363.19, end: 1364.71}
+  - {text: "That is correct. I'm not saying it's a great plan, Nick, but it's a plan.", start: 1364.91, end: 1369.55}
+  - {text: "The Massachusetts bank regulator, he senses something fishy is up.", start: 1370.09, end: 1373.57}
+  - {text: "He starts asking the banks, hey, how much does Ponzi have in his accounts anyways?", start: 1374.11, end: 1377.91}
+  - {text: "And the bankers tell him, well, not that much actually.", start: 1378.51, end: 1381.17}
+  - {text: "So the regulator arranges a stakeout.", start: 1381.57, end: 1383.99}
+  - {text: "So he starts literally having guys watching the bank that Ponzi is withdrawing money from most aggressively.", start: 1384.41, end: 1391.63}
+  - {text: "And they see that there are Ponzi guys coming to make withdrawals to collect cash.", start: 1392.37, end: 1396.45}
+  - {text: "They realize this is the moment.", start: 1397.23, end: 1399.25}
+  - {text: "They figure there's no way there can be any cash left in that account because there were only a few thousand dollars left.", start: 1399.51, end: 1406.39}
+  - {text: "And so they pounce and they declare him hopelessly insolvent and hopelessly overdrawn.", start: 1406.81, end: 1413.35}
+  - {text: "And this is the end of the road for Ponzi's scheme.", start: 1413.79, end: 1416.17}
+  - {text: "The auditor finally finishes his work.", start: 1416.17, end: 1418.67}
+  - {text: "Ponzi owes about $7 million, probably more, but he only has about $4 million.", start: 1419.43, end: 1424.57}
+  - {text: "The con can't go on any longer.", start: 1425.35, end: 1427.27}
+  - {text: "He turns himself in.", start: 1427.73, end: 1428.65}
+  - {text: "Did he do time?", start: 1429.11, end: 1429.61}
+  - {text: "He did. He spent much of the 1920s in prison, behind bars on various charges, all related to these few, few months of glory.", start: 1430.61, end: 1440.25}
+  - {text: "Charles Ponzi eventually ended up in Brazil.", start: 1440.85, end: 1443.11}
+  - {text: "He died in the charity ward of a hospital with 75 bucks to his name, which went to his burial.", start: 1443.11, end: 1448.73}
+  - {text: "But we all know his name, all because of a brief seven months where he was in the right place at the right frothy economic time with the right pitch.", start: 1449.53, end: 1458.81}
+  - {text: "Why do you think it was that his scheme, his company, his Ponzi grew so fast?", start: 1459.71, end: 1468.00}
+  - {text: "I think there's always a fear of missing out.", start: 1468.18, end: 1471.70}
+  - {text: "FOMO, yeah. FOMO, right.", start: 1471.92, end: 1474.06}
+  - {text: "It's a real thing.", start: 1474.64, end: 1475.48}
+  - {text: "FOMO is real. And so financial FOMO cuts even deeper.", start: 1475.78, end: 1480.74}
+  - {text: "You're not just missing a party.", start: 1480.92, end: 1482.00}
+  - {text: "You're fear of missing out on the ship that was supposed to come in to change your life and to change your family's life.", start: 1482.40, end: 1489.48}
+  - {text: "And so that is part of human nature that Ponzi or people like him exploit.", start: 1490.04, end: 1496.10}
+  - {text: "It's unclear when exactly Ponzi's name became a generic term for the con he pulled off.", start: 1496.76, end: 1502.18}
+  - {text: "But one thing's for sure, it's going to stay that way because Ponzi's keep happening.", start: 1502.72, end: 1507.34}
+  - {text: "It's human nature. FOMO is a new word, but it's a timeless emotion.", start: 1507.90, end: 1512.16}
+  - {text: "So if you'll oblige me, I have one final red flag.", start: 1512.76, end: 1516.02}
+  - {text: "Fear of missing out, don't forget to doubt.", start: 1516.62, end: 1519.94}
+  - {text: "Maybe not. All right, so that was the origin of the Ponzi scam.", start: 1521.70, end: 1527.42}
+  - {text: "But breaking news, 2026, there is a new scam out there.", start: 1527.96, end: 1533.08}
+  - {text: "Involving podcasts of all things.", start: 1533.72, end: 1536.66}
+  - {text: "Yeah, yeah, is there nothing sacred in this world?", start: 1537.30, end: 1540.50}
+  - {text: "Here's what you need to know.", start: 1541.28, end: 1542.34}
+  - {text: "Scammers are impersonating our staff.", start: 1543.16, end: 1545.72}
+  - {text: "Folks from Planet Money and the Indicator.", start: 1546.38, end: 1548.44}
+  - {text: "What we gather is that they're sending out messages to people inviting them to be guests.", start: 1549.12, end: 1553.66}
+  - {text: "Apparently they're often reaching out to folks who are likely to have crypto holdings.", start: 1554.30, end: 1559.00}
+  - {text: "And apparently the fake profiles look quite convincing.", start: 1559.02, end: 1562.18}
+  - {text: "They have fake URLs and social media accounts that they use to corroborate who they are.", start: 1562.18, end: 1566.82}
+  - {text: "Okay, and then this is what we think happens next.", start: 1567.32, end: 1569.56}
+  - {text: "The scammers invite the victims to a video call for the interview.", start: 1569.74, end: 1573.84}
+  - {text: "And then say they need to install some software on the victim's computer to record it.", start: 1574.32, end: 1579.48}
+  - {text: "Then they find some way to distract the person.", start: 1580.06, end: 1582.86}
+  - {text: "Can you go fix the lighting or go put on a sports coat?", start: 1583.16, end: 1586.24}
+  - {text: "You know, look more formal.", start: 1586.46, end: 1587.48}
+  - {text: "And when the person returns to their computer, the scammer has pilfered their crypto holdings.", start: 1587.94, end: 1593.46}
+  - {text: "So it kills me to say this because my job is way easier when people respond to me quickly.", start: 1594.44, end: 1599.10}
+  - {text: "But please be vigilant.", start: 1599.68, end: 1601.74}
+  - {text: "If you ever get a message from us or any other NPR journalist, double check the email address.", start: 1602.90, end: 1608.00}
+  - {text: "Ours will always end with npr .org .org .com.", start: 1608.58, end: 1612.74}
+  - {text: "And this goes without saying, but we'll never ask for remote access to your computer.", start: 1613.36, end: 1617.06}
+  - {text: "We'll never ask for money in exchange for an interview.", start: 1617.38, end: 1619.68}
+  - {text: "And please do us a solid, please share this episode or information with anyone you think who might fall for this.", start: 1619.68, end: 1626.46}
+  - {text: "And if you spot fake social media accounts, please report them to whatever social media platform you see them on and let us know at planetmoney .npr .org.", start: 1626.72, end: 1635.64}
+  - {text: "And please stay safe out there.", start: 1636.16, end: 1638.40}
+  - {text: "As always, thank you to our Planet Money Plus supporters.", start: 1639.05, end: 1641.53}
+  - {text: "They get sponsored for your listening.", start: 1641.83, end: 1642.97}
+  - {text: "They get merch discounts.", start: 1643.07, end: 1644.03}
+  - {text: "They get access to live virtual events and bonus episodes like the most recent one explaining podcast economics from the inside.", start: 1644.55, end: 1652.93}
+  - {text: "Your steadfast support helps us stay independent and ambitious at Planet Money.", start: 1653.94, end: 1658.26}
+  - {text: "You can sign up at plus .npr .org.", start: 1658.82, end: 1662.08}
+  - {text: "That's right. This episode was produced by James Snead.", start: 1662.80, end: 1664.98}
+  - {text: "It was fact -checked by Ceo Juarez, mastered by Natasha Branch, and edited by Jess Jing.", start: 1665.02, end: 1669.20}
+  - {text: "Alex Goldmark is our executive producer.", start: 1669.38, end: 1670.98}
+  - {text: "I'm Nick Fountain. This is NPR.", start: 1671.50, end: 1673.06}
+  - {text: "Thanks for listening. Stay safe.", start: 1673.48, end: 1675.12}
+  - {text: "This message comes from Inspirity, because how you HR matters.", start: 1683.66, end: 1687.86}
+  - {text: "From payroll and benefits to HR compliance and talent development.", start: 1688.24, end: 1691.66}
+  - {text: "Helping your business move forward with confidence.", start: 1691.94, end: 1694.44}
+  - {text: "Learn more at inspirity .com.", start: 1694.80, end: 1696.88}
+  - {text: "This message comes from Google Workspace with Gemini.", start: 1697.12, end: 1701.66}
+  - {text: "Ever notice how every new AI tool asks you to explain your business to it?", start: 1701.98, end: 1706.14}
+  - {text: "All over again? Google Workspace with Gemini skips that.", start: 1706.36, end: 1709.96}
+  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and more.", start: 1709.96, end: 1715.84}
+  - {text: "No new tools. No extra logins.", start: 1716.18, end: 1718.14}
+  - {text: "Just one subscription that gives you personalized AI right inside your actual workflow.", start: 1718.40, end: 1723.22}
+  - {text: "Try Google Workspace with Gemini at go .gele .com. Workspace with Gemini.", start: 1723.64, end: 1729.02}
+---
