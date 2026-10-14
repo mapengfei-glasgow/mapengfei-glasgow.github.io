@@ -31,6 +31,24 @@ $t \approx 0.86$–0.92 s**. The hex runs have two boundary instabilities, at th
 
 ## 1. Introduction
 
+Heart-valve haemodynamics depend on leaflet mechanics, valve geometry and the resulting
+unsteady flow structures. In aortic-valve FSI simulations, Chen and Luo
+{{< cite "chen2020pressure" >}} examined leaflet pressure distributions and showed that
+bending rigidity affects opening, closure and flow resistance. Abbas et al.
+{{< cite "abbas2025closure" >}} compared mechanical and bioprosthetic aortic valves,
+linking differences in closure timing to jet structure and the pressure differences
+that drive leaflet motion.
+
+Valve design and orientation also influence downstream stresses. Haya and Tavoularis
+{{< cite "haya2016effects" >}} measured changes in viscous and turbulent stresses and
+coronary flow with bileaflet mechanical valve orientation. Direct numerical simulations
+by Nitti et al. {{< cite "nitti2022numerical" >}} compared turbulent and fluctuating
+viscous stresses across mechanical aortic-valve configurations, while Sarkar et al.
+{{< cite "sarkar2025direct" >}} investigated how streamlined leaflet edges modify
+vortical structures and reduce downstream turbulence and shear stress. These aortic-valve
+studies motivate examining leaflet dynamics and downstream flow structures together;
+the present work considers a mitral-valve configuration, with different anatomy and loading.
+
 - Motivation: transmitral flow, vortex formation and breakdown downstream of the mitral valve.
 - Reference model: IBAMR SarahNodalMV (nodal IFED, libMesh HEX8 / TET4 mesh, fiber-reinforced HGO leaflets, chordae, tethers) {{< cite "ibamrSarahNodalMV" >}}.
 - Contributions (draft):
