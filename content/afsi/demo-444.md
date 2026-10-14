@@ -32,7 +32,7 @@ RT/DG solver and the two projection schemes (Chorin, IPCS) on the P2/P1 +
 four-point kernel background. All six runs are compared against the
 registered IB2d run; the projection runs double as the leak test of §4.
 
-{{< figure src="/afsi/demo444-shapes.png" title="Figure 1. Rubberband shape at t = 0.10, 0.20, 0.40, 0.80 and 1.50 s (dotted grey: the initial ellipse) — one row per run: IB2d (registered) and the six AFSI runs {fiber, thick} × {RT, Chorin, IPCS}. The fiber (RT) rings like IB2d and settles onto the equal-area circle, while both fiber projections collapse within 0.14 s (rows 3–4). The thick annulus resists collapse under all three solvers; its timescale is set by the solid, not the fluid solver." >}}
+{{< figure src="/afsi/demo444-shapes.png" title="Figure 1. Rubberband shape at t = 0.10, 0.20, 0.40, 0.80 and 1.50 s (dotted grey: the initial ellipse) — one row per run: IB2d (registered) and the six AFSI runs {fiber, thick} × {RT, Chorin, IPCS}. The fiber (RT) rings like IB2d and settles onto the equal-area circle, while both fiber projections collapse within 0.14 s (rows 3–4). The thick annulus (calibrated to ring with IB2d) resists collapse under all three solvers." >}}
 
 ## 2. Setup
 
@@ -45,15 +45,20 @@ $k = 2.5 \times 10^4$, resting length 0, force density
 $f_i = k\,(X_{i+1} + X_{i-1} - 2X_i)$.
 
 AFSI settings: fluid mesh `N = 16` quads whose P2 velocity nodes
-(33 × 33, spacing 1/32) sit exactly on IB2d's grid; same `dt`, `rho`, `mu`;
+(33 × 33, spacing 1/32) sit exactly on IB2d's grid; same `rho` and `mu` (the thick runs use
+$dt = 10^{-4}$ for stability);
 RT/DG velocity–pressure pair (H(div)-conforming, exactly divergence-free
 velocity) with the nodal coupling `E` / `Eᵀ`; the two projection runs
 (`FLUID=chorin`, `FLUID=ipcs`) use the same P2/P1 pair, the same
 four-point-kernel coupling and the same load — only the solver changes.
 The thick band: wall
 thickness 0.05 (stress-free radii 0.2328 / 0.2828), 96 × 2 polar cells,
-neo-Hookean with $\mu_s = 40$, $\kappa_{stab} = 400$, prestrained by the
-affine map that puts its outer edge on the IB2d ellipse. One setup
+neo-Hookean (calibrated $\mu_s = 750$, $\kappa_{stab} = 7500$, ×18.75 from
+the original 40, so that the band rings with IB2d: first $a_x$ swing
+0.106 s / 0.382 vs IB2d 0.10 / 0.382, period 0.23 s vs 0.20 s), prestrained
+by the affine map that puts its outer edge on the IB2d ellipse. The thick
+runs use $dt = 10^{-4}$: the stiff band exceeds the explicit coupling's
+stability limit at $dt = 10^{-3}$. One setup
 difference is kept deliberately: IB2d's box is periodic, AFSI's has no-slip
 walls (the band stays inside $|X-1/2| \le 0.4$).
 
@@ -78,7 +83,7 @@ and doubled the period; the runs here use the verified value.)
 
 ## 4. The enclosed area separates the solvers
 
-{{< figure src="/afsi/demo444-area.png" title="Figure 2. Seven curves per panel: IB2d + the six AFSI runs. Left: enclosed area. Second: relative area error (log). Third/fourth: semi-axes a_x, a_y. Only the RT runs hold the enclosed area (fiber −7 %, thick −0.15 %); both projection flavours leak — the fiber collapses by 0.14 s, the thick annulus loses 4.7 % — and Chorin ≡ IPCS on both shapes (their curves overplot)." >}}
+{{< figure src="/afsi/demo444-area.png" title="Figure 2. Seven curves per panel: IB2d + the six AFSI runs. Left: enclosed area. Second: relative area error (log). Third/fourth: semi-axes a_x, a_y. Only the RT runs hold the enclosed area (fiber −7 %, thick −0.35 %); both projection flavours leak — the fiber collapses by 0.14 s, the thick annulus loses 3.7 % and rings 2.7× slower — and Chorin ≡ IPCS on both shapes (their curves overplot)." >}}
 
 For an incompressible fluid, the enclosed area can only change through the
 velocity sampled **at the markers**. A projection method enforces
@@ -103,8 +108,10 @@ not to the projection flavour or the time step. It is also not a defect of
 the kernel or the force (which was verified against the instrumented IB2d
 run, §3). The same defect runs through both shapes: over the full window
 the unsupported fiber collapses to 5 % of its area by $t = 0.14$ s while
-the thick annulus loses 4.7 % of its enclosed area (Chorin −4.71 %,
-IPCS −4.70 %) against −0.15 % for RT.
+the thick annulus loses 3.7 % of its enclosed area (Chorin −3.66 %,
+IPCS −3.67 %) against −0.35 % for RT — and rings 2.7× slower (0.63 s vs
+0.23 s), as if the weakened pressure feedback also softens the coupling to
+the elastic band.
 
 The RT velocity is divergence-free **by construction**, and the leak is
 two orders of magnitude smaller: −0.56 % at 0.02 s, −7.1 % after the full
@@ -122,18 +129,20 @@ $t \approx 0.3$ s).
 | AFSI fiber (RT) | 0.2235 | 0.3412 | 0.2335 (−7.1 %) | circle $R = 0.279$ |
 | AFSI fiber (Chorin) | 0.018 | 0.014 | 0.000004 (−100 %) | collapsed by $t = 0.14$ s |
 | AFSI fiber (IPCS) | 0.020 | 0.016 | 0.000000 (−100 %) | collapsed by $t = 0.14$ s |
-| AFSI thick (RT) | 0.2452 | 0.3308 | 0.2510 (−0.15 %) | circle $R = 0.283$ |
-| AFSI thick (Chorin) | 0.2217 | 0.3129 | 0.2395 (−4.7 %) | still creeping |
-| AFSI thick (IPCS) | 0.2220 | 0.3131 | 0.2395 (−4.7 %) | still creeping |
+| AFSI thick (RT) | 0.2207 | 0.3457 | 0.2505 (−0.35 %) | ringing toward circle $R = 0.283$ |
+| AFSI thick (Chorin) | 0.3286 | 0.2216 | 0.2421 (−3.7 %) | slow ringing (0.63 s) |
+| AFSI thick (IPCS) | 0.3289 | 0.2212 | 0.2421 (−3.7 %) | slow ringing (0.63 s) |
 
 - **Physics check.** A zero-rest-length band at a fixed enclosed area
   minimises its spring energy $\tfrac{k}{2}\sum s_i^2 \propto$ perimeter²
   when it is the **circle** of that area: $R = \sqrt{A_0/\pi} = 0.2826$.
   The AFSI fiber settles onto $R = 0.279$ — the equal-area circle — through
   a large damped aspect-ratio oscillation (the ellipse's sides bulge out,
-  overshoot, and ring down with a 0.19-s period). The thick annulus
-  settles onto its stress-free circle, $R_{out} = 0.2828$; the two models
-  therefore share the same equilibrium radius family by construction.
+  overshoot, and ring down with a 0.19-s period). The thick annulus rings
+  in the same ~0.2-s family (calibrated $\mu_s$, §2) and relaxes toward
+  its stress-free circle $R_{out} = 0.2828$ (still $\pm 0.01$ at
+  $t = 1.5$ s); the two models share the same equilibrium radius family by
+  construction.
 - **Agreement with IB2d.** With the spreading weight calibrated to IB2d's
   own convention (§3) the two rings oscillate in phase at the same
   ~0.2-s period: first and second $a_x$ peaks at 0.106 s / 0.302 s (AFSI)
@@ -142,16 +151,19 @@ $t \approx 0.3$ s).
   $t = 0.2$ s ($a_x$: 0.224 vs 0.216, $a_y$: 0.341 vs 0.360). The
   late-time divergence is IB2d's own enclosed-area drift: its 27 % loss
   shrinks the band (its period drifts to 0.18 s), while the RT band holds
-  its area to −7.1 %.
+  its area to −7.1 %. The calibrated thick band lands on IB2d's first
+  swing as well ($a_x$ peak 0.106 s / 0.382 vs IB2d 0.10 / 0.382) and
+  rings at 0.23 s, with its area loss at 0.35 %.
 - **The failure mode.** The projection runs are shown for exactly one
   lesson: at this force scale a P2/P1 (Taylor–Hood on quads) velocity
   cannot keep an immersed closed band's area — the defect is in the
   sampled divergence, not in the kernel or the time step. The unsupported
   fiber collapses to 5 % of the initial area by $t = 0.14$ s; the thick
-  annulus cannot collapse (its elasticity holds the ring) but still drains
-  4.7 % of the enclosed area, and Chorin and IPCS agree to 0.01 %.
+  annulus cannot collapse (its elasticity holds the ring) but drains 3.7 %
+  of the enclosed area and rings 2.7× slower than the RT band; Chorin and
+  IPCS agree to 0.01 %.
 
-{{< figure src="/afsi/demo444-velocity.png" title="Figure 3. Maximum marker speed |dX/dt| (finite differences of the dumped marker paths — a kinematic measure comparable across codes) — seven curves. IB2d and the fiber (RT) ring down at the same ~0.2-s period with similar peaks (≈3 m/s); the fiber projections die within 0.15 s; the three thick runs share the elastic time scale and never collapse." >}}
+{{< figure src="/afsi/demo444-velocity.png" title="Figure 3. Maximum marker speed |dX/dt| (finite differences of the dumped marker paths — a kinematic measure comparable across codes) — seven curves. IB2d and the fiber (RT) ring down at the same ~0.2-s period with similar peaks (≈3 m/s); the fiber projections die within 0.15 s; the calibrated thick band rings just behind the fiber (0.23 s) and never collapses, while the two projection thick runs ring 2.7× slower." >}}
 
 ## 6. Caveats
 
