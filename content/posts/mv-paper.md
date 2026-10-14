@@ -100,6 +100,7 @@ Each grid should use the solid level that keeps $\mathrm{MFAC}\approx 0.5\text{�
 |---|---|---|---|---|---|
 | {{< label "mesh" "r0" >}} (`glamv_hex`, = IBAMR mesh) | {{< label "grid" "G-64" >}} | 29,524 | 11,565 | 10,686 | |
 | {{< label "mesh" "r1" >}} (`glamv_hex_r1`) | {{< label "grid" "G-128" >}} | 169,094 | 92,520 | 85,488 | |
+| {{< label "mesh" "r0" >}} as Q2 + P2 (`glamv_hex_q2p2`) *(2026-10-15)* | {{< label "grid" "G-64" >}} | 169,094 | 11,565 (Q2) | 10,686 (P2) | 90.778 |
 | {{< label "mesh" "r2" >}} | {{< label "grid" "G-256" >}} | | | | |
 
 Per component (nodes / cells / median edge length / MFAC on the paired grid):
@@ -224,7 +225,7 @@ boundary methods, see Vadala-Roth et al. {{< cite "vadalaroth2020" >}}.
 | P1 tet | +16.2 % (1.43) | +0.89 % (1.86) | 0.0.3, {{< label "run" "G5" >}}, {{< label "run" "G6" >}} (full cycle) |
 | P2 tet | +1.7 % (0.72) | +0.48 % (0.93) | {{< label "run" "G3" >}} / {{< label "run" "G4" >}}: failed (old non-conforming tet split) |
 | Q1 hex | +5.0 % (1.19) | +1.43 % (1.33) | {{< label "run" "G7" >}}–{{< label "run" "G10" >}}: outlet backflow instability, see §5 |
-| Q2 hex | not implemented | | |
+| Q2 hex (+ P2 tets) | | | *(2026-10-15)* mixed Q2 + P2 on {{< label "mesh" "r0" >}}: G12 NaN at 0.92 s (outlet backflow), G12b full cycle with `--outlet-backflow` (§5.6) |
 
 #### (5) Fluid solver and convection
 
@@ -322,6 +323,8 @@ Measured alone on one RTX PRO 5000 at level D (ms/step):
 | {{< label "run" "G9" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r1" >}} | dispersed | $2 \times 10^{-5}$ | NaN $t \approx 0.92$ | 47.6 | −12.7 | 0.16 |
 | {{< label "run" "G10" >}} | {{< label "grid" "G-128" >}} | {{< label "mesh" "r1" >}} | dispersed | $1 \times 10^{-5}$ | NaN $t \approx 0.78$ (solid degraded: $J_{\min}$ 0.03, $I_{1,\max}$ 152) | 67.3† | −12.9† | 0.03 |
 | **{{< label "run" "G11" >}}** | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} Q1 + P1 | fibre HGO | $2 \times 10^{-5}$ | full cycle in 1 of 4 runs (`--outlet-backflow`; reruns: NaN at 0.86–0.92 s, inlet edge) | 46.5* | −16.4 | 0.36 |
+| G12 *(2026-10-15)* | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} Q2 + P2 | fibre HGO | $2 \times 10^{-5}$ | NaN $t \approx 0.92$ (outlet backflow, §5.6) | 43.2 | −11.4 | 0.14 |
+| G12b *(2026-10-15)* | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} Q2 + P2 | fibre HGO | $2 \times 10^{-5}$ | full cycle (`--outlet-backflow`, §5.6) | 47.3 | −8.2 | 0.16 |
 | | {{< label "grid" "G-256" >}} | {{< label "mesh" "r2" >}} | | | | | | |
 
 \* see §3.3: identical to G7 up to $t = 0.16$ s; the difference is the 0.04 s sampling of the closing spike.
@@ -853,6 +856,79 @@ Next tests for the tet weak point (posterior-leaflet collapse at $t \approx 1.1$
 check) and modified invariants on the leaflets, each compared on $J_{\min}$ against the level-0 rerun (0.14).
 
 ---
+
+### 5.6 Element order on the hybrid mesh: Q1 + P1 vs Q2 + P2 *(2026-10-15)*
+
+The IBAMR hybrid mesh {{< label "mesh" "r0" >}} was also run with second-order elements: every Q1 hex became a 27-node Q2 hex and every P1 tet
+a 10-node P2 tet (`fdm-3d-v1-geometry/scripts/gen_glamv_q2p2_from_hex.py`, from `glamv_hex`; edge nodes shared between
+elements, hex face/centre nodes on the trilinear map, so the geometry is that of {{< label "mesh" "r0" >}}; 3×3×3 Gauss on the hexes,
+4-point rule on the tets). The mesh has 169,094 nodes — the same marker set as {{< label "mesh" "r1" >}} — so the Lagrangian
+spacing is halved (leaflet MFAC ≈ 0.35 on {{< label "grid" "G-64" >}}). Built-in checks: total volume 90.777953 vs 90.777886 cm³ (Q1 + P1),
+reference $\mathbf F = \mathbf I$ at every quadrature point to $10^{-12}$, no inverted points. Everything else is the G7 command
+({{< label "grid" "G-64" >}}, fibre HGO, CBS43, passive rim, gap mask, $\Delta t = 2\times10^{-5}$, level D + FMA, RTX 5070 Laptop);
+G12b adds `--outlet-backflow` as G11 does.
+
+| Run | Elements | Nodes | Outlet stab. | Outcome | Fwd 0.04–0.2 (cm³) | Back 0.2–0.56 (cm³) | Back 0.88–1.24 (cm³) | Plateau 0.10–0.16, inlet (cm³/s) | $Q(0.20)$, $z = 12$ (cm³/s) | $J_{\min}$ (t) | ms/step |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| G7 (Q1 + P1), original *(archive)* | Q1 hex + P1 tet | 29,524 | no | NaN, $t \approx 0.92$ s | 43.2 | −18.5 | — | — | −575 | 0.37 (to 0.92 s) | — |
+| G11 (Q1 + P1, outlet stab.), original *(archive)* | Q1 hex + P1 tet | 29,524 | yes | full cycle (1 of 4 runs) | 46.5 | −16.4 | 2.2 | — | −406 | 0.36 | — |
+| G7 rerun (Q1 + P1) | Q1 hex + P1 tet | 29,524 | no | full cycle | 43.2 | −18.6 | −2.7 | 485 | −575 | 0.32 (0.88 s) | 9.4 |
+| G12 (Q2 + P2) | Q2 hex + P2 tet | 169,094 | no | NaN, $t \approx 0.92$ s | 43.2 | −11.4 | — | 498 | −617 | 0.14 (0.80 s) | 23.7 |
+| G12b (Q2 + P2, outlet stab.) | Q2 hex + P2 tet | 169,094 | yes | full cycle | 47.3 | −8.2 | 10.6 | 498 | −413 | 0.16 (0.76 s) | 23.9 |
+
+{{< chart height="360" xlabel="t (s)" ylabel="Q through the tube lumen, z = 12 cm (cm³/s)" colors="#7a7a7a,#edae49,#d1495b,#00798c,#30638e,#66a182" caption="Figure 6. Element order on the IBAMR hybrid mesh (r0 @ G-64, fibre HGO, CBS43, Δt = 2×10⁻⁵): tube flux at z = 12 cm, fluid frames every 0.04 s. G7 / G11 = Q1 hexes + P1 tets (original runs; G7 rerun of 2026-10-15 on the RTX 5070 Laptop); G12 / G12b = the same mesh as Q2 hexes + P2 tets (169,094 nodes), without and with outlet backflow stabilisation. Curves end where a run failed. IBAMR = inlet flux at the same frames." >}}
+t, IBAMR, G7 (Q1 + P1, original), G11 (Q1 + P1, outlet stab.), G7 rerun (Q1 + P1), G12 (Q2 + P2), G12b (Q2 + P2, outlet stab.)
+0.00, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0
+0.04, 57.0, 55.4, 55.4, 55.4, 55.7, 55.7
+0.08, 309.3, 367.9, 367.9, 367.9, 365.1, 365.1
+0.12, 373.9, 488.5, 488.5, 488.5, 492.1, 492.1
+0.16, 385.0, 482.0, 482.0, 482.0, 504.1, 504.1
+0.20, -488.2, -574.8, -406.1, -574.8, -617.1, -413.2
+0.24, -27.3, -34.7, -68.6, -34.7, -22.2, -47.6
+0.28, -55.5, -46.6, -44.9, -46.6, -18.1, -15.7
+0.32, -19.9, -29.7, -31.6, -29.7, -2.9, -2.7
+0.36, -19.2, -27.7, -26.1, -28.9, 0.0, -0.3
+0.40, -13.7, -23.2, -22.5, -22.9, 4.4, 4.2
+0.44, -11.2, -21.3, -19.6, -21.6, 4.9, 4.9
+0.48, -7.0, -13.2, -13.4, -13.9, 10.4, 10.7
+0.52, 0.8, -3.5, -4.9, -3.2, 17.0, 17.5
+0.56, 15.0, 47.7, 47.8, 47.9, 61.3, 61.9
+0.60, 451.8, 186.0, 189.4, 185.9, 187.2, 186.8
+0.64, 535.5, 616.3, 615.3, 617.5, 588.7, 595.6
+0.68, , 531.8, 520.3, 534.6, 510.2, 518.3
+0.72, , 475.4, 481.6, 469.0, 452.6, 474.2
+0.76, , 428.6, 443.9, 436.6, 421.1, 424.8
+0.80, , 408.4, 428.1, 408.7, 393.7, 411.8
+0.84, , 403.8, 415.0, 381.9, 378.3, 402.0
+0.88, , 375.2, 396.7, 377.2, 355.3, 388.5
+0.92, , , 34.0, -32.1, , 32.6
+0.96, , , 4.5, -41.6, , 44.5
+1.00, , , -47.9, -50.9, , -20.3
+1.04, , , -34.7, -34.2, , -7.8
+1.08, , , -27.9, -25.0, , 1.4
+1.12, , , -26.3, -26.9, , 2.6
+1.16, , , -21.2, -22.9, , 4.4
+1.20, , , -18.9, -17.9, , 6.5
+1.24, , , -10.4, -9.9, , 13.1
+1.28, , , 13.7, 13.7, , 32.4
+1.32, , , 72.2, 71.3, , 76.5
+1.335, , , 119.4, 118.2, , 122.5
+{{< /chart >}}
+
+- **First cycle.** Q2 + P2 gives the same forward volume as Q1 + P1 (43.2 cm³) with a slightly higher plateau (498 vs
+  485 cm³/s) and a stronger closing spike (−617 vs −575 cm³/s), i.e. the element order changes the closure, not the opening.
+  The closed-phase backflow is smaller (−11.4 cm³ against −18.6 for Q1 + P1 and −15.6 for IBAMR).
+- **Failure without stabilisation.** G12 fails at $t \approx 0.92$ s like the original G7, and in the same way: the velocity
+  maximum moves to the outlet face ($z = 16.2$ cm, $r \approx 3$ cm; 208 → 333 → 599 cm/s from 0.80 to 0.88 s) with ≈ 47 % of the
+  outlet lumen flowing back in, while the inlet rim stays at ≈ 35 cm/s. This is the outlet-backflow instability of §5.1,
+  not a problem of the higher-order elements.
+- **With outlet stabilisation** (G12b) the Q2 + P2 mesh completes the cycle. As for G11, the stabilisation weakens the
+  closing spike at the outlet (−413 vs −617 cm³/s), which enters the 0.04–0.2 s trapezoid (47.3 cm³) and the backflow
+  volumes; the second backflow window is positive (net forward flow) as in G11.
+- **Solid.** $J_{\min}$ is lower on Q2 + P2 (0.14–0.16) than on Q1 + P1 (0.32–0.37); where it occurs was not located yet.
+- **Cost.** 23.7–23.9 ms/step against 9.4 for Q1 + P1 (one run on the GPU): 5.7× more markers and 27 quadrature points per hex
+  make the solid assembly (≈ 11.6 ms of the half step) the largest part of the step.
+- Each configuration was run once; second-cycle outcomes vary between runs (§5.4), so G12 / G12b are single samples.
 
 ## 6. Discussion
 
