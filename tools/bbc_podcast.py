@@ -74,6 +74,17 @@ SHOWS: dict[str, tuple[str, str]] = {
 
 log = logging.getLogger("bbc_podcast")
 
+
+def normalise_show(value: str) -> str:
+    """Show names are case-insensitive; a raw feed URL is not.
+
+    Simplecast and Omny feed ids are case-sensitive — lowercasing
+    feeds.simplecast.com/kwWc0lhf turns a working feed into a 404 — so anything
+    that looks like a URL is passed through exactly as typed.
+    """
+    value = value.strip()
+    return value if "://" in value else value.lower()
+
 # The RSS enclosure points at BBC's redirector (…/mediaset/audio-nondrm-download-rss/
 # proto/http/vpid/<vpid>.mp3). Asking the mediaset API for that vpid returns every
 # CDN connection for the episode, which is what the 403 fallback below uses.
@@ -296,7 +307,7 @@ def parse_args(argv: list[str]) -> tuple[str, Path | None, int, bool, int, bool]
 
     if not positional:
         return None
-    show = positional[0].lower()
+    show = normalise_show(positional[0])
     download_dir = Path(positional[1]).expanduser() if len(positional) > 1 else None
     return show, download_dir, max(1, limit), dry_run, min_bytes, include_shorts
 

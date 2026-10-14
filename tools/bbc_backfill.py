@@ -83,7 +83,7 @@ def main() -> int:
     bp.CHUNK_SIZE = 256 * 1024
     min_bytes = int(args.min_mb * 1e6)
 
-    show = args.show.lower()
+    show = bp.normalise_show(args.show)
     if show in bp.SHOWS:
         feed_url, default_dir = bp.SHOWS[show]
     elif show.startswith("http"):
