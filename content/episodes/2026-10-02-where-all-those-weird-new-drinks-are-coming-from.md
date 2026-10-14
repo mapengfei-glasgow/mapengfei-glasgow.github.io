@@ -9,464 +9,464 @@ audioDir: "2026-10-02-where-all-those-weird-new-drinks-are-coming-from"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-02-where-all-those-weird-new-drinks-are-coming-from/episode.mp3"
 totalDuration: 1984.0
 sentences:
-  - {text: "This message comes from Apollo.", start: 0.00, end: 1.56}
-  - {text: "Apollo provides access to long duration capital and a broad range of financing capabilities, helping companies drive growth at an efficient cost of capital.", start: 2.02, end: 10.08}
-  - {text: "Learn more at Apollo .com slash capital.", start: 10.42, end: 13.58}
-  - {text: "This is Planet Money from NPR.", start: 15.11, end: 17.35}
-  - {text: "When I was growing up in the 90s, there weren't that many choices about what to buy.", start: 20.57, end: 25.35}
-  - {text: "Most of the time, your options were like two or three giant brands.", start: 25.73, end: 29.55}
-  - {text: "This was the era of Nike versus Reebok, Nintendo versus Sega, Burger King versus McDonald's.", start: 29.89, end: 37.27}
-  - {text: "Most of all, there was Coke versus Pepsi.", start: 37.61, end: 41.55}
-  - {text: "This was the massive economic fault line dividing the beverage aisle, dividing the nation, frankly.", start: 42.23, end: 47.61}
-  - {text: "You either drank Coke or you drank Pepsi.", start: 48.25, end: 50.63}
-  - {text: "Whitney Houston, she drank Coke.", start: 51.19, end: 53.21}
-  - {text: "Michael Jackson, on the other hand, he was Team Pepsi.", start: 58.50, end: 61.52}
-  - {text: "And I was thinking about the Kola Wars recently because the business of beverages just could not be more different now.", start: 66.57, end: 74.33}
-  - {text: "We are way past the days of just Coke or Pepsi.", start: 74.71, end: 77.47}
-  - {text: "The other day, I had my fellow Planet Money host, Kenny Malone meet me at the supermarket.", start: 78.03, end: 81.95}
-  - {text: "We are actually headed to my favorite part of the store.", start: 82.39, end: 84.59}
-  - {text: "We were going on a thrilling safari through the beverage aisle.", start: 84.93, end: 89.21}
-  - {text: "Listen, you can't see Jeff, but he is glowing as we turn left into this aisle.", start: 89.57, end: 94.89}
-  - {text: "This is so exciting.", start: 94.89, end: 95.75}
-  - {text: "I've never, look, I've never seen this.", start: 96.29, end: 97.49}
-  - {text: "I go to the store all the time.", start: 97.61, end: 98.33}
-  - {text: "What is this? Sparkling tea with adaptogens, amazing.", start: 98.45, end: 101.79}
-  - {text: "I'm sorry, adaptogens? I have no idea what it is, but it's probably good for you.", start: 102.23, end: 105.39}
-  - {text: "Sure. The sheer variety of beverage choices that are now competing for our attention, it's almost incomprehensible.", start: 105.63, end: 113.61}
-  - {text: "You know what I'm talking about.", start: 114.09, end: 114.87}
-  - {text: "The rainbow wall of flavored seltzers, the rose of canned latte drinks, next to the cans of latte flavored energy drinks with or without extra protein,", start: 115.25, end: 125.65}
-  - {text: "all the new sodas that supposedly help you focus or help you sleep or maybe help you go to the bathroom.", start: 126.21, end: 133.69}
-  - {text: "What do you call these sodas?", start: 133.93, end: 136.11}
-  - {text: "The functional sodas. Right, do you call them the poopies?", start: 136.27, end: 138.67}
-  - {text: "I think we're not allowed to say that, but yeah.", start: 139.35, end: 140.91}
-  - {text: "There's a Spider -Man one.", start: 141.17, end: 141.89}
-  - {text: "Really? Yeah, Spider -Man Poppy.", start: 142.37, end: 143.81}
-  - {text: "Not to mention all the new flavors that companies are coming out with.", start: 144.31, end: 148.23}
-  - {text: "There's the new Dubai chocolate Pepsi, the creamy coconut Dr.", start: 148.51, end: 153.31}
-  - {text: "Pepper, the Casno Palatin flavored spin drift.", start: 153.41, end: 156.95}
-  - {text: "The thing is, like growing up, we didn't have any of this, right?", start: 157.23, end: 159.81}
-  - {text: "I guess not. We only had our sprites, our ginger ale.", start: 160.07, end: 163.21}
-  - {text: "I guess you're right.", start: 163.45, end: 164.01}
-  - {text: "Now that you mention it, why are there flavors everywhere all of a sudden?", start: 164.15, end: 167.79}
-  - {text: "Yeah, why is this happening?", start: 168.09, end: 169.73}
-  - {text: "Why are there so many?", start: 169.99, end: 171.03}
-  - {text: "Why does it feel like there's a new one every single week?", start: 171.49, end: 173.45}
-  - {text: "Well, because we buy them, because you and I are buying them.", start: 173.59, end: 175.43}
-  - {text: "Yes, but it all comes from somewhere.", start: 175.79, end: 177.29}
-  - {text: "Oh, right, right. Do you know the answer?", start: 177.37, end: 179.77}
-  - {text: "Well, that's what I went out to find out.", start: 179.77, end: 182.07}
-  - {text: "Are you going to tell me?", start: 182.73, end: 183.71}
-  - {text: "I'll tell you. We got to go on a journey first.", start: 184.15, end: 186.03}
-  - {text: "Hello and welcome to Planet Money.", start: 190.16, end: 191.52}
-  - {text: "I'm Jeff Glow. A few months ago, I started looking into why we are seeing so many new kinds of beverages and new beverage flavors.", start: 191.72, end: 199.62}
-  - {text: "What I found is that the economics of the beverage industry have been turned inside out.", start: 200.22, end: 205.34}
-  - {text: "So today on the show, we are going inside Big Beverage.", start: 205.94, end: 209.80}
-  - {text: "We're headed to a top secret laboratory to unravel the mysteries of the soda aisle.", start: 209.80, end: 215.52}
-  - {text: "We're going to see how new flavors get created, how cutting edge bacteria are changing the game, and we ask the experts, what does Planet Money taste like?", start: 216.06, end: 226.76}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 232.10, end: 235.50}
-  - {text: "This message comes from Whole Foods Market.", start: 236.59, end: 238.59}
-  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 239.07, end: 242.35}
-  - {text: "No added growth hormones or antibiotics in their meat department means slow -braised short ribs are even more satisfying.", start: 242.73, end: 248.51}
-  - {text: "All seafood is wild -caught, like their vibrant sockeye salmon or verified responsibly farmed.", start: 249.03, end: 253.79}
-  - {text: "And all sweets, including fall -themed cookies, are made without high -fructose corn syrup.", start: 254.07, end: 258.43}
-  - {text: "Spice up fall at Whole Foods Market.", start: 258.93, end: 260.51}
-  - {text: "This message comes from Schwab.", start: 261.68, end: 263.10}
-  - {text: "Investing with Schwab is like a hike with endless trails.", start: 263.68, end: 266.60}
-  - {text: "Go solo with self -directed investing, take stops along the way with trading, or choose a guide with full -service wealth management.", start: 267.12, end: 274.18}
-  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 274.18, end: 278.08}
-  - {text: "To understand why everything is now coming up, acai, dragon fruit, sparkling protein probiotic, yada yada yada, I called up a bunch of beverage industry insiders.", start: 279.54, end: 291.56}
-  - {text: "And one of them shared with me this kind of industry secret.", start: 291.98, end: 295.50}
-  - {text: "You see, apparently, a lot of the drinks showing up on shelves these days can be traced back to this one company in Kentucky.", start: 296.22, end: 303.80}
-  - {text: "They're called Flavor Man.", start: 303.80, end: 305.50}
-  - {text: "And behind the scenes, they're the ones who have been quietly helping all these other companies come up with the new types of beverages and new beverage flavors.", start: 305.86, end: 314.66}
-  - {text: "Recently, they agreed to let me visit their labs in Louisville.", start: 315.36, end: 319.06}
-  - {text: "Good morning. Hey, good to see you.", start: 319.32, end: 321.84}
-  - {text: "It's good to see you.", start: 322.12, end: 322.94}
-  - {text: "Welcome to Flavor Man.", start: 323.18, end: 324.22}
-  - {text: "The food scientists at Flavor Man specialize in beverage development.", start: 324.48, end: 328.40}
-  - {text: "Big brands like Coke and Pepsi usually have their own in -house food scientists.", start: 329.00, end: 333.34}
-  - {text: "But basically everyone else outsources the work of designing a drink to companies like Flavor Man.", start: 333.34, end: 339.58}
-  - {text: "So most of the work here is super, super hush -hush.", start: 340.06, end: 342.92}
-  - {text: "They are not allowed to talk about it.", start: 343.12, end: 344.84}
-  - {text: "So sometimes we're the dark secret behind some of the very large national brands that you're aware of.", start: 345.00, end: 350.08}
-  - {text: "That's Evan Floyd. He works on the business side here.", start: 350.28, end: 352.64}
-  - {text: "And when we walked in, he asked us to sign a non -disclosure agreement.", start: 352.90, end: 356.82}
-  - {text: "I think technically we're not allowed to sign this because we are going to disclose all the things.", start: 357.22, end: 364.62}
-  - {text: "Is there a way that we can get past it?", start: 365.08, end: 367.58}
-  - {text: "In the end, we did not sign that NDA, of course, but we did promise to be careful about which brands we talked about.", start: 372.22, end: 378.24}
-  - {text: "Publicly, Flavor Man is allowed to say they've done work for companies like Oceanspray and Jones Soda.", start: 378.90, end: 384.54}
-  - {text: "Privately, they have helped launch tens of thousands of new beverages.", start: 385.40, end: 389.58}
-  - {text: "As we walk back to the labs, we saw this trophy wall full of examples, going back 30 years.", start: 390.18, end: 394.90}
-  - {text: "Some of them were pretty famous.", start: 395.40, end: 397.34}
-  - {text: "Some of them were a little bit more niche.", start: 397.82, end: 399.50}
-  - {text: "This is a juice box for cats.", start: 400.06, end: 404.00}
-  - {text: "You're just like, yeah, of course.", start: 406.08, end: 407.20}
-  - {text: "It's salmon flavored. I think that that one specifically was designed for aging cats.", start: 407.58, end: 413.36}
-  - {text: "Now, the real reason we were here, of course, is to understand why the market for beverages has changed so dramatically over the years.", start: 413.88, end: 421.54}
-  - {text: "And we wanted to see firsthand how new drinks get designed and launched and how the industry has changed at every step of the process.", start: 422.02, end: 430.06}
-  - {text: "So our first stop was the Flavor Lab.", start: 430.70, end: 433.62}
-  - {text: "Who let you guys in my lab?", start: 433.90, end: 435.14}
-  - {text: "What is going on here?", start: 435.34, end: 436.34}
-  - {text: "Are we making flavors today?", start: 436.74, end: 437.82}
-  - {text: "I hope so. All right, let's talk.", start: 438.28, end: 440.40}
-  - {text: "Tom Gibson is the chief flavorist at Flavor Man.", start: 441.04, end: 444.42}
-  - {text: "He is responsible for what a new beverage is going to taste like.", start: 444.68, end: 448.28}
-  - {text: "The way it works is a client, usually a beverage company, comes in and maybe they want to launch a line of drinks and they have ideas for a couple new flavors.", start: 448.74, end: 457.44}
-  - {text: "Here in this lab, Tom and his team of flavor scientists invent the recipe for those new flavors.", start: 458.06, end: 463.82}
-  - {text: "He's like the Willy Wonka of sodas.", start: 464.28, end: 466.32}
-  - {text: "Have you ever led a tour of little children through here and maybe disappeared some of them?", start: 466.60, end: 471.80}
-  - {text: "Never, never, never happened.", start: 473.20, end: 475.18}
-  - {text: "Now, Tom says when people talk about flavor, most of the time they are really talking about aroma, the smell that hits your nose when you bite into that nice, fresh strawberry.", start: 475.54, end: 486.52}
-  - {text: "In nature, that strawberry smell is actually made up of hundreds of different aroma chemicals.", start: 487.14, end: 491.98}
-  - {text: "Tom brought us over to a workbench with a set of beakers and pipettes.", start: 492.56, end: 496.04}
-  - {text: "All around us, the shelves were crowded with like thousands of these little amber bottles.", start: 496.40, end: 501.38}
-  - {text: "We're looking at some different essential oils, some different aroma chemicals that are part of all different kinds of flavors.", start: 501.68, end: 507.76}
-  - {text: "So these are the building blocks.", start: 508.18, end: 509.52}
-  - {text: "This is it. The little bitty pieces that come together to make, what's your favorite flavor again?", start: 509.90, end: 514.82}
-  - {text: "Blue. To make blue, all right?", start: 515.36, end: 518.34}
-  - {text: "You're looking at pieces and parts of blue.", start: 519.00, end: 521.06}
-  - {text: "Over the decades, scientists have slowly started to isolate these aroma chemicals.", start: 521.64, end: 526.14}
-  - {text: "They've noticed that some of them seem to show up over and over again in a lot of different fruits.", start: 526.64, end: 531.54}
-  - {text: "For example, Tom dipped a test strip into one of the bottles and held it up for me to smell.", start: 531.54, end: 536.20}
-  - {text: "It's so familiar. It's like on the tip of my tongue.", start: 536.54, end: 539.06}
-  - {text: "It's not berry, it's like a...", start: 541.19, end: 543.75}
-  - {text: "It's kind of everything, right?", start: 543.81, end: 545.37}
-  - {text: "Yeah, what is this?", start: 545.63, end: 546.25}
-  - {text: "So it's a key component of berry, but it's used in 2D fruities.", start: 546.25, end: 549.55}
-  - {text: "It's used in maybe a background note in a cherry.", start: 549.69, end: 552.89}
-  - {text: "It's used in all kinds of different things.", start: 553.21, end: 554.87}
-  - {text: "When Tom's building a flavor, he might mix together dozens of these different aroma chemicals.", start: 555.27, end: 560.09}
-  - {text: "Say you want a cherry flavor.", start: 560.65, end: 561.95}
-  - {text: "Tom's like, okay, what kind of cherry are we talking about?", start: 561.95, end: 564.49}
-  - {text: "A fresh cherry, a ripe cherry?", start: 564.85, end: 566.85}
-  - {text: "Do you want more cherry blossom notes?", start: 567.37, end: 569.11}
-  - {text: "Or do you want more darker caramel notes?", start: 569.49, end: 571.41}
-  - {text: "Tom says some of the tastiest fruit flavors often contain unexpected notes.", start: 571.95, end: 577.75}
-  - {text: "For instance, he opened another bottle for me to smell.", start: 578.17, end: 581.09}
-  - {text: "Oh my God, no!", start: 581.39, end: 582.67}
-  - {text: "Come on, that's not that bad.", start: 583.15, end: 584.73}
-  - {text: "This is so bad.", start: 584.85, end: 585.53}
-  - {text: "That's only, that's level one.", start: 585.53, end: 587.09}
-  - {text: "This is like stinky cheese.", start: 587.33, end: 588.63}
-  - {text: "Is that nice though?", start: 588.89, end: 589.51}
-  - {text: "No, it is not nice.", start: 589.63, end: 590.59}
-  - {text: "What flavor do you think this might go into?", start: 590.59, end: 592.39}
-  - {text: "That would be fantastic.", start: 592.63, end: 593.63}
-  - {text: "Tom says this aroma is a key component in dairy.", start: 594.19, end: 597.29}
-  - {text: "It also shows up in sweat and vomit, but also...", start: 597.79, end: 602.13}
-  - {text: "But you might find it a little bit like, say, a ripe berry.", start: 602.13, end: 605.07}
-  - {text: "When you're eating strawberry in the morning, perhaps you're getting a little bit of that.", start: 605.81, end: 608.85}
-  - {text: "Oh, and so if that weren't there, then the berry flavor might be just be flat.", start: 609.07, end: 614.47}
-  - {text: "Yeah, it's kind of flat.", start: 614.65, end: 615.53}
-  - {text: "Oh, it's like you need a little bit of dissonance.", start: 616.28, end: 618.90}
-  - {text: "Right. Now, Tom has been doing this Willy Wonka flavor work for decades, and from his perspective, one of the biggest changes in the industry has to do with the supply of flavors and flavor components.", start: 619.26, end: 631.30}
-  - {text: "He says, look around, 10, 20 years ago, a lot of the aroma chemicals you see in this lab, they didn't exist on the market.", start: 631.84, end: 639.06}
-  - {text: "So what you're looking at right here, these in our minds are colors.", start: 639.46, end: 643.30}
-  - {text: "In the old days, this either wasn't found, or it was found and no one manufactured it.", start: 643.88, end: 649.28}
-  - {text: "It couldn't be, it wasn't available.", start: 649.28, end: 650.70}
-  - {text: "You're saying you have colors now that you didn't have access to before.", start: 651.18, end: 653.72}
-  - {text: "Oh, yeah, way, way more colors.", start: 653.86, end: 656.06}
-  - {text: "So here is explanation number one for why we're seeing so many new drinks with new exotic flavors.", start: 656.68, end: 663.22}
-  - {text: "It is that flavor science itself has been advancing.", start: 663.82, end: 667.74}
-  - {text: "Every year, scientists are discovering interesting new flavor compounds, new scientific techniques, and new kinds of machines have made the process a lot easier.", start: 668.20, end: 677.06}
-  - {text: "Also, there have been breakthroughs in how we extract flavor compounds from plants.", start: 677.06, end: 682.06}
-  - {text: "We can now isolate delicate flavors that used to get lost in the process.", start: 682.50, end: 686.46}
-  - {text: "And by the way, this is really wild.", start: 686.92, end: 688.54}
-  - {text: "We can now teach bacteria how to help us make some of these flavor compounds so we don't even need to harvest the fruit itself.", start: 688.76, end: 695.34}
-  - {text: "All of this is to say that flavorists like Tom now have exponentially more freedom to have fun.", start: 695.90, end: 702.48}
-  - {text: "One of the trends of the last decade has been to make exaggerated flavors or even to invent completely new fantasy flavors.", start: 703.00, end: 710.10}
-  - {text: "It seems like what you're doing is impressionist painting.", start: 710.60, end: 715.34}
-  - {text: "Maybe it's a Jackson Pollock in some cases, right?", start: 717.84, end: 720.32}
-  - {text: "Maybe that's what a dragon fruit is.", start: 720.66, end: 723.34}
-  - {text: "Just throw it all together and let's see how it comes out.", start: 723.42, end: 725.58}
-  - {text: "And as these new flavor experiments have reached the market, they have been changing the American palette.", start: 725.98, end: 732.04}
-  - {text: "People realize we like these exciting flavors.", start: 732.46, end: 735.24}
-  - {text: "We want more. And so flavor scientists go and try to find weirder flavors to isolate.", start: 735.24, end: 740.74}
-  - {text: "And flavor suppliers invest more in their exotic flavor supply chains.", start: 741.22, end: 744.96}
-  - {text: "It's kind of like this delicious cycle.", start: 745.30, end: 747.80}
-  - {text: "So that is the first explanation for why the beverage aisle has exploded with new choices, which is basically flavor science.", start: 748.46, end: 755.50}
-  - {text: "Now, when we found out that we were gonna get inside the Flavor Man labs, we thought this is an opportunity we cannot pass up.", start: 756.12, end: 764.22}
-  - {text: "So before heading to Louisville, we asked the scientists to indulge us in a little side quest.", start: 764.22, end: 769.50}
-  - {text: "We were like, just as an exercise, would you help us create a beverage that captures the essence of planet money?", start: 769.94, end: 776.56}
-  - {text: "You know, one that tastes like insight and delight that sparks curiosity, maybe.", start: 777.04, end: 782.34}
-  - {text: "Over the past couple of weeks, Tom and his colleagues have been working to figure out what a planet money drink might taste like.", start: 782.90, end: 788.06}
-  - {text: "It's the planet, right?", start: 788.38, end: 789.32}
-  - {text: "So you're thinking of the planet, right?", start: 789.60, end: 791.60}
-  - {text: "Planet money, so it's gotta be something that's global.", start: 791.60, end: 794.02}
-  - {text: "Tom and his team had been tinkering with some very interesting flavors, apparently, that they were eager for us to try.", start: 794.22, end: 800.74}
-  - {text: "But before we get to that, there is a whole another step in the process of designing a beverage.", start: 801.22, end: 807.04}
-  - {text: "This second step involves deciding what type of beverage you're making.", start: 807.52, end: 811.68}
-  - {text: "Because a beverage is more than just a flavor.", start: 812.02, end: 814.30}
-  - {text: "Nowadays, beverages need a concept, like is it an energy drink or a mocktail or an electrolyte recovery drink?", start: 814.60, end: 823.18}
-  - {text: "For this, we headed to see Kristen Webber.", start: 823.68, end: 826.30}
-  - {text: "And so we just came from the flavor lab, which is Tom's domain, and now this is your domain.", start: 826.48, end: 832.40}
-  - {text: "This is my domain, yep.", start: 832.42, end: 833.86}
-  - {text: "Kristen is the chief technical officer at Flavorman.", start: 834.34, end: 836.92}
-  - {text: "She is in charge of developing new types of beverages.", start: 837.22, end: 840.34}
-  - {text: "So whereas Tom's lab had thousands of little brown flavor bottles, Kristen's lab is stacked with ziplock bags full of various white powders.", start: 840.76, end: 850.52}
-  - {text: "Is that pure caffeine?", start: 851.02, end: 852.46}
-  - {text: "It is. That powder?", start: 853.12, end: 854.20}
-  - {text: "Yeah, it is. How much of this would kill me?", start: 854.36, end: 857.22}
-  - {text: "The limit per day, I believe, is 300 milligrams, so.", start: 858.02, end: 862.80}
-  - {text: "The FDA recommends less than 400 milligrams a day.", start: 863.12, end: 865.54}
-  - {text: "So you're saying if I dip my pinky into it and lift it, that would probably be it.", start: 865.72, end: 870.16}
-  - {text: "That would be a serving of caffeine.", start: 870.16, end: 871.20}
-  - {text: "Okay, good to know.", start: 871.38, end: 872.14}
-  - {text: "Here in Kristen's lab, we talked about the second explanation for why there's so many more beverage options now.", start: 872.58, end: 878.20}
-  - {text: "And it has to do with all the new things that people are putting into beverages these days.", start: 878.44, end: 883.00}
-  - {text: "Kristen says, in the beginning, most of Flavorman's clients were trying to make energy drinks, caffeinated energy drinks with a hot new beverage category in the 90s and 2000s.", start: 883.56, end: 893.56}
-  - {text: "My favorite, by the way, was Krunk, three exclamation points.", start: 893.72, end: 896.54}
-  - {text: "But since then, you know, there's been the boom in seltzers, both alcoholic and non -alcoholic.", start: 896.96, end: 902.32}
-  - {text: "And now the hot thing is what the industry calls functional beverages.", start: 902.56, end: 906.18}
-  - {text: "We want drinks that do something for us.", start: 906.90, end: 908.96}
-  - {text: "You know, like the sodas that supposedly help you relax, maybe fall asleep, or the ones that say they support your gut health.", start: 909.36, end: 915.90}
-  - {text: "On one of the lab benches, we spotted a big bag of powder that said gum acacia.", start: 916.48, end: 920.40}
-  - {text: "So prebiotics are really popular.", start: 920.74, end: 922.48}
-  - {text: "Gum acacia is one of the most popular prebiotics for sodas like Olipop.", start: 922.86, end: 926.98}
-  - {text: "These new beverage types have been huge for the industry.", start: 927.40, end: 931.08}
-  - {text: "They are one of the main reasons overall beverage sales have grown over the past decade.", start: 931.30, end: 935.42}
-  - {text: "Think about it this way.", start: 935.98, end: 937.32}
-  - {text: "The human body does not need any of this stuff, for the most part.", start: 937.74, end: 942.00}
-  - {text: "We could all just be drinking water.", start: 942.24, end: 944.14}
-  - {text: "But the beverage industry has figured out that if they invent new kinds of drinks, they can invent new reasons for us to not drink water and spend money on their beverages instead.", start: 944.60, end: 955.54}
-  - {text: "They convinced a lot of people to skip the water fountain at the gym to reach for a Gatorade.", start: 956.08, end: 960.78}
-  - {text: "And now maybe they want to replace the glass of water next to the bed with one of their new sleepy nighttime sodas.", start: 960.78, end: 967.62}
-  - {text: "This is reason number two for all the new beverage choices.", start: 967.92, end: 971.80}
-  - {text: "This strategy of inventing new beverage types has been incredibly profitable.", start: 972.10, end: 976.82}
-  - {text: "People are buying more and drinking more, even if there's not that much evidence that these drinks actually have noticeable health benefits.", start: 977.26, end: 984.28}
-  - {text: "Now, we were curious about the next generation of beverage concepts.", start: 985.16, end: 990.40}
-  - {text: "So, Kristen, let us try some of the projects she and her team had been working on that week.", start: 990.84, end: 994.84}
-  - {text: "There were a bunch of mocktails.", start: 995.44, end: 997.36}
-  - {text: "Those are really big right now.", start: 997.68, end: 998.74}
-  - {text: "One of them tasted exactly like in apparel spritz.", start: 999.32, end: 1002.08}
-  - {text: "Oh, that is delightful.", start: 1003.47, end: 1004.77}
-  - {text: "There was a matcha -flavored liqueur, which is weird, but kind of delicious.", start: 1005.45, end: 1009.77}
-  - {text: "It's alcoholic? Yes. And there were also some more questionable drink concepts.", start: 1010.07, end: 1015.49}
-  - {text: "We tried a non -alcoholic beer with extra protein in it, which tasted like pennies, and maybe the strangest one of all.", start: 1015.95, end: 1023.43}
-  - {text: "This one is a really cool one that we just finished.", start: 1023.81, end: 1029.49}
-  - {text: "It is a hydration broth, a sports broth, right?", start: 1030.07, end: 1035.17}
-  - {text: "The drink was yellow, like Gatorade yellow, maybe a little browner, and of course, we had to try it.", start: 1035.91, end: 1042.59}
-  - {text: "It's, I don't know how to describe this.", start: 1045.61, end: 1048.03}
-  - {text: "It's pineapple -flavored. Tropical, there's beef broth in it.", start: 1048.37, end: 1053.73}
-  - {text: "No, I'm drinking beef broth right now.", start: 1053.93, end: 1056.73}
-  - {text: "Yeah. Pineapple -flavored beef.", start: 1057.01, end: 1058.05}
-  - {text: "It's great that you don't even know, but bone broth has the healing connotation.", start: 1058.05, end: 1065.39}
-  - {text: "It has nutrients and protein.", start: 1066.82, end: 1069.24}
-  - {text: "There's, I don't know how else to say this, there's stuff in it.", start: 1070.36, end: 1073.50}
-  - {text: "What's that? The broth, yeah, bone broth has some insoluble.", start: 1074.36, end: 1079.08}
-  - {text: "Components. This is the bone, this is the bits.", start: 1080.18, end: 1082.52}
-  - {text: "It's not the bone, it's just the bits.", start: 1083.40, end: 1085.66}
-  - {text: "Now, in addition to this pineapple beef bone broth protein drink, Kristen and her colleagues had also been working on the Planet Money beverage.", start: 1086.14, end: 1094.70}
-  - {text: "Their job was to decide what the Planet Money drink would do.", start: 1095.26, end: 1098.70}
-  - {text: "So, do you want to go in the hydration route or the energy route, the sleep route?", start: 1099.00, end: 1105.02}
-  - {text: "I don't know if people use Planet Money as a sleep podcast.", start: 1105.28, end: 1107.82}
-  - {text: "I don't believe it.", start: 1108.00, end: 1108.88}
-  - {text: "After the break, what will the Planet Money drink taste like?", start: 1108.88, end: 1113.36}
-  - {text: "And how do you even launch a new beverage these days?", start: 1113.98, end: 1117.82}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1125.78, end: 1129.60}
-  - {text: "This message comes from LinkedIn.", start: 1130.02, end: 1131.36}
-  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 1131.84, end: 1136.18}
-  - {text: "It's even harder to do it efficiently.", start: 1136.48, end: 1137.86}
-  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 1138.32, end: 1142.20}
-  - {text: "With LinkedIn, simplify your sales, marketing, and hiring.", start: 1142.58, end: 1145.86}
-  - {text: "So that you can actually run your small business.", start: 1145.86, end: 1148.72}
-  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1149.04, end: 1152.58}
-  - {text: "This message comes from Google Workspace with Gemini.", start: 1152.96, end: 1155.94}
-  - {text: "Ever noticed how every new AI tool asks you to explain your business to it all over again?", start: 1156.26, end: 1161.58}
-  - {text: "Google Workspace with Gemini skips that.", start: 1161.96, end: 1164.26}
-  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and more, no new tools, no extra logins, just one subscription", start: 1164.60, end: 1173.50}
-  - {text: "that gives you personalized AI right inside your actual workflow.", start: 1173.50, end: 1177.52}
-  - {text: "Try Google Workspace with Gemini at go .gle slash Workspace with Gemini.", start: 1177.90, end: 1183.34}
-  - {text: "This message comes from Capital One.", start: 1184.34, end: 1186.26}
-  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 1186.54, end: 1190.24}
-  - {text: "What's in your wallet?", start: 1190.32, end: 1191.26}
-  - {text: "Terms apply. See CapitalOne .com slash Bank Guy for details.", start: 1191.56, end: 1195.60}
-  - {text: "Capital One NA, member FDIC.", start: 1196.08, end: 1198.26}
-  - {text: "There is a third and final reason for why there's been an explosion in new types of drinks and new types of drink flavors.", start: 1199.48, end: 1206.88}
-  - {text: "And this is a big one.", start: 1207.30, end: 1208.78}
-  - {text: "It has to do with a major shift in how new drinks get onto the market.", start: 1209.18, end: 1213.40}
-  - {text: "To understand that, we headed upstairs to meet the guy who created Flaverman.", start: 1213.96, end: 1219.28}
-  - {text: "You are the Flaverman.", start: 1219.72, end: 1221.02}
-  - {text: "I'm the Flaverman, Dave Defoe.", start: 1221.26, end: 1222.46}
-  - {text: "Nice to meet you.", start: 1222.68, end: 1223.20}
-  - {text: "Dave Defoe has been in the beverage game for almost 40 years.", start: 1223.52, end: 1226.32}
-  - {text: "He says when he started Flaverman back in the 90s, the beverage industry looked a lot different.", start: 1226.66, end: 1231.44}
-  - {text: "In the old days, as I call it, it was dominated by big companies.", start: 1231.88, end: 1235.36}
-  - {text: "It was really just Coke and Pepsi for soft drinks.", start: 1235.58, end: 1238.66}
-  - {text: "Dave says back then, it was hard for upstarts to compete with the large established drink companies.", start: 1239.18, end: 1244.58}
-  - {text: "They were pretty high barriers to entry for bottling your own soda.", start: 1245.00, end: 1248.96}
-  - {text: "The biggest obstacle? Where were you gonna manufacture it at?", start: 1249.50, end: 1252.42}
-  - {text: "Because all these big companies own their own plants and they did their own manufacturing.", start: 1252.76, end: 1256.50}
-  - {text: "And there were just a few contract manufacturers around the country where you could go as an independent and get your product bottled or canned.", start: 1257.06, end: 1265.10}
-  - {text: "And these bottling or canning lines, they usually had really high minimum orders.", start: 1265.32, end: 1270.06}
-  - {text: "Dave says to get anything started, you usually had to make at least a full truckload.", start: 1270.48, end: 1274.34}
-  - {text: "That's like 12 ,000 cases, more than a quarter million cans of soda.", start: 1274.62, end: 1279.32}
-  - {text: "So say you're a new brand owner.", start: 1279.56, end: 1281.04}
-  - {text: "You can't afford to make 12 ,000 cases of your energy drink.", start: 1281.40, end: 1287.00}
-  - {text: "You're new, you wanna make 1 ,000 cases and see if you can sell them.", start: 1287.40, end: 1291.06}
-  - {text: "But then, around the 2010s, a new trend changed that business model.", start: 1291.06, end: 1295.88}
-  - {text: "All of a sudden, you know, there were all these small breweries popping up all over.", start: 1296.14, end: 1299.78}
-  - {text: "The microbrewery trend. The microbreweries, the brew pubs, all of those things, they were popping up in every city and multiple breweries in every city.", start: 1300.06, end: 1308.80}
-  - {text: "They were everywhere. This boom in craft beer created thousands of little breweries.", start: 1309.20, end: 1314.52}
-  - {text: "Most of them weren't doing their own bottling or canning.", start: 1314.80, end: 1317.50}
-  - {text: "A lot of them had excess capacity.", start: 1317.84, end: 1319.84}
-  - {text: "So they were happy to rent out their canning lines for small jobs.", start: 1319.84, end: 1323.62}
-  - {text: "And in recent years, as people are drinking less and less alcohol, these craft breweries have even more excess capacity.", start: 1324.10, end: 1330.64}
-  - {text: "Dave says there are now plenty of places, not just microbreweries, willing to do a tiny run for a new drink brand.", start: 1331.14, end: 1338.52}
-  - {text: "The barrier to entry has lowered significantly.", start: 1338.84, end: 1341.90}
-  - {text: "We asked Dave to walk us through the math nowadays.", start: 1342.46, end: 1344.94}
-  - {text: "How much are new drink brands paying to manufacture their new beverages?", start: 1345.52, end: 1349.36}
-  - {text: "Start with the ingredients, which usually aren't that expensive.", start: 1349.90, end: 1352.60}
-  - {text: "After all, your typical soda or seltzer or energy drink is mostly water.", start: 1352.92, end: 1356.62}
-  - {text: "Dave says the flavoring and sweeteners and other ingredients might add up to like 20, 30 cents per can.", start: 1357.06, end: 1362.76}
-  - {text: "Then there are the cans themselves.", start: 1363.32, end: 1365.16}
-  - {text: "Back in the day, a reasonable price might have been 10 cents per can.", start: 1365.58, end: 1368.60}
-  - {text: "Now it's more like 20 cents due to inflation in the aluminum tariffs.", start: 1368.90, end: 1372.14}
-  - {text: "Finally, there is the actual manufacturing of the drink where the factory takes your beverage flavor concentrate, mixes it up with carbonated water and other ingredients and puts it in the can.", start: 1372.76, end: 1382.72}
-  - {text: "All that can cost another 20 -ish cents per can.", start: 1383.04, end: 1385.88}
-  - {text: "Dave says a rule of thumb is that they try to aim for a total cost of around 60 cents per can, though there also aren't D", start: 1386.32, end: 1393.22}
-  - {text: "and shipping and other costs on top of that.", start: 1393.22, end: 1394.72}
-  - {text: "Now, what's fun is that nowadays, there are even some canning lines that are willing to do tiny little test runs.", start: 1394.98, end: 1401.96}
-  - {text: "The cost per can goes up, of course, but if you just want a couple thousand cans of your drink, it'll only cost a few thousand dollars.", start: 1402.32, end: 1409.74}
-  - {text: "That sounds, that sounds cheap.", start: 1410.10, end: 1412.60}
-  - {text: "That sounds very easy to do.", start: 1412.98, end: 1416.02}
-  - {text: "It is, but most people don't know they can do it.", start: 1416.76, end: 1418.62}
-  - {text: "This is the final reason why so many new drinks are crowding the beverage aisle these days because the barriers to entry are lower.", start: 1419.04, end: 1427.58}
-  - {text: "It is now easier than ever for anybody to start a beverage brand.", start: 1428.06, end: 1431.82}
-  - {text: "And that has made the beverage game way more competitive.", start: 1432.18, end: 1434.96}
-  - {text: "Now, it's still pretty hard to succeed in the beverage industry.", start: 1435.38, end: 1438.58}
-  - {text: "You need a marketing strategy.", start: 1438.88, end: 1440.34}
-  - {text: "It helps to have a celebrity backer.", start: 1440.60, end: 1442.86}
-  - {text: "You also need to fight for a slot on the grocery store shelves.", start: 1443.08, end: 1446.52}
-  - {text: "But over the past decade, upstart drink brands have managed to take market share away from the Cokes and Pepsi's of the world.", start: 1446.90, end: 1454.10}
-  - {text: "And in this economy, that is kind of unusual.", start: 1454.56, end: 1457.96}
-  - {text: "There are not that many industries where newcomers are finding it easier to challenge the Goliaths.", start: 1458.58, end: 1464.06}
-  - {text: "Another example might be the music industry where over the past 10, 20 years, the barriers to entry have also fallen.", start: 1464.06, end: 1470.76}
-  - {text: "Now anybody, right, can record an album on their laptop, put it on Spotify.", start: 1471.28, end: 1475.30}
-  - {text: "I mean, Planet Money put a song on Spotify.", start: 1475.68, end: 1477.80}
-  - {text: "When barriers to entry fall, what consumers get is variety, more choices.", start: 1478.38, end: 1484.30}
-  - {text: "Economists like to say having more choices increases consumer welfare because it makes people happy to have options that are tailored to our own unique tastes.", start: 1484.94, end: 1494.26}
-  - {text: "Right now, we are getting a lot of new interesting artists and new interesting sodas.", start: 1494.74, end: 1500.62}
-  - {text: "Though whether anyone needs any of these new sodas, who knows?", start: 1501.06, end: 1505.06}
-  - {text: "Speaking of fun new sodas that nobody asked for, it was finally time to try the Planet Money Soda.", start: 1505.88, end: 1513.80}
-  - {text: "So this is it?", start: 1514.30, end: 1515.68}
-  - {text: "This is it. This is where you find out what Planet Money tastes like.", start: 1516.10, end: 1519.34}
-  - {text: "I was in the Flavor Man tasting room with Tom and Kristen and members of their team.", start: 1519.34, end: 1524.42}
-  - {text: "On the table in front of us were a dozen silver cans of the prototype Planet Money beverage.", start: 1524.86, end: 1531.56}
-  - {text: "Here we go. Cheers, guys.", start: 1532.02, end: 1533.60}
-  - {text: "Planet Money. What do you think, refreshing?", start: 1534.92, end: 1538.01}
-  - {text: "Very refreshing, very light.", start: 1538.67, end: 1540.71}
-  - {text: "And it's bright too, it's like a zingy.", start: 1541.97, end: 1543.81}
-  - {text: "That's so good. There was definitely a citrusy note to it, but it wasn't orange, it wasn't a familiar citrus.", start: 1544.11, end: 1551.57}
-  - {text: "Tom says it was yuzu.", start: 1552.05, end: 1553.73}
-  - {text: "Yuzu is a really trendy flavor right now, traditionally used in Japan, a cousin to the orange that is more complex and floral.", start: 1554.15, end: 1562.17}
-  - {text: "So it explodes in a lot of different directions.", start: 1562.45, end: 1564.25}
-  - {text: "You get all different kinds of top notes, it's delicious.", start: 1564.45, end: 1566.17}
-  - {text: "There were also notes of elderberry, which is really popular in Europe.", start: 1566.71, end: 1570.07}
-  - {text: "It's like an earthy blackberry.", start: 1570.39, end: 1571.95}
-  - {text: "Tom said we wanted to give you flavors that were global and exotic, but also approachable.", start: 1572.35, end: 1577.69}
-  - {text: "As for the functional, quote unquote, good for you part of the beverage, Katie Clark, the R &D director, told us, oh, this isn't just a soda,", start: 1578.13, end: 1586.17}
-  - {text: "what you're actually drinking is a yuzu elderberry sparkling coconut water.", start: 1586.57, end: 1592.37}
-  - {text: "So coconut water is really hot right now.", start: 1592.73, end: 1594.37}
-  - {text: "Coconut water is a natural way to bring electrolytes to a beverage.", start: 1594.87, end: 1598.23}
-  - {text: "It mostly contains potassium, but there are some sodium and magnesium in there too.", start: 1598.55, end: 1603.07}
-  - {text: "So this is like every single thing that's hot right now in the world of beverages.", start: 1603.27, end: 1607.27}
-  - {text: "A little bit, yeah.", start: 1607.99, end: 1608.63}
-  - {text: "Couple things, yeah. You gave us the everything bagel soda.", start: 1608.71, end: 1613.17}
-  - {text: "In a beverage, yes.", start: 1613.57, end: 1613.97}
-  - {text: "But then they were like, we have one more thing we want you to try, because you told us planet money is full of surprises, right?", start: 1614.53, end: 1622.43}
-  - {text: "So we have a surprise for you.", start: 1622.89, end: 1624.69}
-  - {text: "Monica Horn, one of the senior beverage designers, brought out a second version of the planet money drink, this one with an extra special secret ingredient.", start: 1625.21, end: 1633.83}
-  - {text: "It might hit you in like 10 seconds after you taste it, so.", start: 1633.83, end: 1637.15}
-  - {text: "Yeah, just let it.", start: 1638.02, end: 1639.46}
-  - {text: "We'll talk about it after you taste it.", start: 1639.48, end: 1640.74}
-  - {text: "Yeah, yeah, yeah, yep.", start: 1640.74, end: 1641.86}
-  - {text: "Don't be scared, it's okay.", start: 1642.08, end: 1643.20}
-  - {text: "Don't be scared is maybe the last thing you wanna hear when someone hands you an experimental beverage, but apparently some people really don't like this taste.", start: 1645.10, end: 1655.72}
-  - {text: "Anyway, I took a sip.", start: 1656.14, end: 1657.24}
-  - {text: "Okay, here we go.", start: 1657.56, end: 1658.20}
-  - {text: "I could feel everyone staring at me.", start: 1660.26, end: 1662.20}
-  - {text: "Lovely flavor. It tastes great, I don't know what you're talking about.", start: 1662.44, end: 1667.36}
-  - {text: "Oh, okay, great. Oh, it was this very strange tingling feeling, like someone had put a tiny little battery in my mouth.", start: 1667.62, end: 1678.62}
-  - {text: "Does it spark curiosity?", start: 1678.88, end: 1680.14}
-  - {text: "Does it make you think, what have I just done?", start: 1681.06, end: 1683.44}
-  - {text: "And this weird tingling feeling, it just kept building.", start: 1683.80, end: 1687.08}
-  - {text: "Oh, I'm really getting it now, yeah.", start: 1687.42, end: 1689.96}
-  - {text: "Wait, why does my tongue feel funny?", start: 1691.02, end: 1692.62}
-  - {text: "It's great, right? What is this?", start: 1693.34, end: 1695.62}
-  - {text: "Do you really wanna know?", start: 1696.06, end: 1697.48}
-  - {text: "What is it? It's jambu.", start: 1697.60, end: 1698.64}
-  - {text: "Jambu? Mm -hmm. Jambu, it is a tropical herb traditionally used to numb the mouth for toothaches.", start: 1699.50, end: 1706.04}
-  - {text: "It's kind of like Sichuan peppercorn, if you've ever had that.", start: 1706.42, end: 1708.48}
-  - {text: "Kristen says jambu extract isn't super common, but it's sometimes used as a background note to make drinks taste more effervescent.", start: 1708.86, end: 1716.38}
-  - {text: "Though you wouldn't know because the way food labeling works in the US, the drinks often just say natural flavors.", start: 1716.80, end: 1722.58}
-  - {text: "Anyway, there you have it.", start: 1723.35, end: 1725.04}
-  - {text: "According to the experts at Flavor Man, the beverage that best represents planet money that is sophisticated yet approachable with a dose of surprise is a", start: 1725.26, end: 1736.36}
-  - {text: "Yuzu elderberry sparkling coconut water with a jambu twist.", start: 1736.36, end: 1741.46}
-  - {text: "We have a money maker on our hands, guys.", start: 1741.78, end: 1743.64}
-  - {text: "All right, how do we sell this?", start: 1744.14, end: 1746.44}
-  - {text: "Let's go. Let's go.", start: 1746.84, end: 1748.88}
-  - {text: "Hey, Kenny. It's Kenny Malone, co -host of Planet Money.", start: 1749.62, end: 1752.38}
-  - {text: "Back again in the studio.", start: 1752.38, end: 1753.64}
-  - {text: "So what do you think?", start: 1753.86, end: 1754.90}
-  - {text: "That was the journey.", start: 1755.08, end: 1755.76}
-  - {text: "I do. I feel like I understand where all the flavors are from, and most importantly, I would like to try the Planet Money flavor.", start: 1755.94, end: 1762.28}
-  - {text: "Oh, I am so sorry.", start: 1762.80, end: 1764.44}
-  - {text: "I didn't bring any back for you.", start: 1764.62, end: 1766.04}
-  - {text: "Oh, what now? I'm sorry?", start: 1766.48, end: 1768.20}
-  - {text: "It's heavy. I couldn't get it through the airport.", start: 1768.88, end: 1771.46}
-  - {text: "No, no, no, I get it.", start: 1771.80, end: 1772.90}
-  - {text: "But what does clearly seem to be true?", start: 1773.02, end: 1775.10}
-  - {text: "Could we not make a bunch of these?", start: 1775.74, end: 1777.58}
-  - {text: "And if we don't want to sell them, that's fine.", start: 1777.80, end: 1779.48}
-  - {text: "I'm not exactly ready to become a beverage company.", start: 1779.72, end: 1781.92}
-  - {text: "But we could, like, host a thing.", start: 1781.92, end: 1783.84}
-  - {text: "I think that's a great idea.", start: 1784.28, end: 1785.60}
-  - {text: "Yes. Yeah. So you and I should do a live event where we invite all the listeners who want to try the soda to come and crack one open with us.", start: 1785.84, end: 1795.76}
-  - {text: "There's no way we can invite all the listeners that want to try it.", start: 1796.00, end: 1798.32}
-  - {text: "But if you're interested in this, let us know.", start: 1798.44, end: 1800.30}
-  - {text: "Send us an email.", start: 1800.48, end: 1800.92}
-  - {text: "And we'll see if we can make a batch, a small batch, of Planet Money the flavor.", start: 1801.34, end: 1806.22}
-  - {text: "Planet Money the flavor.", start: 1807.22, end: 1808.20}
-  - {text: "We got to work on the title.", start: 1808.36, end: 1809.16}
-  - {text: "But yes, that's good.", start: 1809.26, end: 1809.96}
-  - {text: "Yeah. I like it.", start: 1810.40, end: 1811.02}
-  - {text: "Jambu. Thanks, Kenny. And of course.", start: 1811.16, end: 1812.32}
-  - {text: "Hey, everyone, if you could do us a favor and just give a little boop to that follow button on your podcast app.", start: 1820.23, end: 1825.77}
-  - {text: "We want to make sure you get all of our announcements about special projects, live show dates, new merch releases, discounts for the NPR shop, stuff you definitely don't want to miss.", start: 1826.09, end: 1835.49}
-  - {text: "And it helps the show.", start: 1835.79, end: 1837.03}
-  - {text: "It tells the apps that Planet Money is a podcast that other people might want to listen to.", start: 1837.33, end: 1841.83}
-  - {text: "So go ahead, scroll up, and just give it a little boop.", start: 1842.29, end: 1845.99}
-  - {text: "Thanks for the follow.", start: 1847.04, end: 1847.66}
-  - {text: "This episode of Planet Money was produced by James Snead and Sam Yellowforce Kessler.", start: 1848.36, end: 1852.98}
-  - {text: "It was edited by Jess Jang.", start: 1853.40, end: 1854.54}
-  - {text: "Vito Emanuel was our fact checker.", start: 1854.90, end: 1856.42}
-  - {text: "And Quacy Lee engineered the show.", start: 1856.78, end: 1858.30}
-  - {text: "Alex Goldmark is the executive producer of Planet Money.", start: 1858.72, end: 1861.18}
-  - {text: "A special thanks to Dwayne Stanford of Beverage Digest and Jordan Plappert.", start: 1861.84, end: 1865.92}
-  - {text: "And also a special, special shout out to all of you listeners who emailed us about your experiences with the wild new world of beverages.", start: 1866.32, end: 1874.32}
-  - {text: "From Kelsey, who told us how these new seltzers and sodas helped her quit alcohol, to Ryan, who is still puzzling over the sunshine flavor of La Croix.", start: 1874.78, end: 1883.58}
-  - {text: "I have no idea what flavor sunshine is, but it was disgusting.", start: 1883.96, end: 1889.04}
-  - {text: "I have no idea either, Ryan.", start: 1889.48, end: 1890.62}
-  - {text: "Anyway, it was great hearing from all of you.", start: 1891.06, end: 1892.90}
-  - {text: "As always, you can reach us at planetmoney .npr .org.", start: 1893.18, end: 1896.20}
-  - {text: "Send us an email, even better, a voice memo.", start: 1896.46, end: 1898.40}
-  - {text: "I'm Jeff Guo. This is NPR.", start: 1898.90, end: 1900.24}
-  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1900.58, end: 1918.80}
-  - {text: "This message comes from Google Workspace with Gemini.", start: 1918.80, end: 1921.80}
-  - {text: "Ever notice how every new AI tool asks you to explain your business to it all over again?", start: 1922.14, end: 1927.52}
-  - {text: "Google Workspace with Gemini skips that.", start: 1927.88, end: 1930.16}
-  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and More, no new tools, no extra logins, just one subscription", start: 1930.52, end: 1939.40}
-  - {text: "that gives you personalized AI right inside your actual workflow.", start: 1939.40, end: 1943.40}
-  - {text: "Try Google Workspace with Gemini at go .gle .com.", start: 1943.74, end: 1947.80}
-  - {text: "Slash Workspace with Gemini.", start: 1947.80, end: 1949.24}
-  - {text: "This message comes from Capella University.", start: 1950.18, end: 1952.32}
-  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1952.86, end: 1957.36}
-  - {text: "That's your own drive, pushing you towards what's next.", start: 1957.66, end: 1961.00}
-  - {text: "Capella University gets that.", start: 1961.24, end: 1963.10}
-  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 1963.42, end: 1969.54}
-  - {text: "You've built experience and know what you're capable of.", start: 1969.92, end: 1972.96}
-  - {text: "Now, this is your time to turn that momentum into more.", start: 1972.96, end: 1977.40}
-  - {text: "The only real question is, what can't you do?", start: 1977.76, end: 1980.74}
-  - {text: "Learn more at capella .edu.", start: 1981.12, end: 1983.12}
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.56, explain: "This is an advert. \"Apollo\" is the name of the company paying for the ad.", zh: "这条信息来自阿波罗。"}
+  - {text: "Apollo provides access to long duration capital and a broad range of financing capabilities, helping companies drive growth at an efficient cost of capital.", start: 2.02, end: 10.08, explain: "A \"financing\" is money given to a business to help it work. \"Capital\" is the money a company uses to grow. This sentence says Apollo gives companies money to help them grow without spending too much.", zh: "阿波罗提供长期资本获取渠道及广泛的融资能力，帮助公司以高效的资本成本推动增长。（long duration capital 长期资本；financing capabilities 融资能力）"}
+  - {text: "Learn more at Apollo .com slash capital.", start: 10.42, end: 13.58, explain: "This is part of the advert. It tells you where to go on the internet to learn more.", zh: "请访问 Apollo.com/slash capital 了解更多。"}
+  - {text: "This is Planet Money from NPR.", start: 15.11, end: 17.35, explain: "\"NPR\" is the name of the radio station that makes this show. This is the start of the program.", zh: "这里是 NPR 的《Planet Money》节目。"}
+  - {text: "When I was growing up in the 90s, there weren't that many choices about what to buy.", start: 20.57, end: 25.35, explain: "\"Growing up\" means being a child and becoming an adult. The speaker says there were not many things to buy when they were young in the 1990s.", zh: "我在九十年代长大的时候，买东西的选择并不多。"}
+  - {text: "Most of the time, your options were like two or three giant brands.", start: 25.73, end: 29.55, zh: "大多数时候，你的选项也就是两三个巨型品牌。"}
+  - {text: "This was the era of Nike versus Reebok, Nintendo versus Sega, Burger King versus McDonald's.", start: 29.89, end: 37.27, explain: "This sentence lists famous brands that competed against each other. \"Versus\" means against or compared with.", zh: "那是耐克对锐步、任天堂对世嘉、汉堡王对麦当劳的时代。"}
+  - {text: "Most of all, there was Coke versus Pepsi.", start: 37.61, end: 41.55, explain: "This sentence says the biggest competition was between the two famous soft drink brands, Coca-Cola and Pepsi.", zh: "尤其是，那是可乐对百事可乐的时代。"}
+  - {text: "This was the massive economic fault line dividing the beverage aisle, dividing the nation, frankly.", start: 42.23, end: 47.61, explain: "A \"fault line\" is a line where two things are very different or in conflict. \"Beverage\" means a drink. The speaker says the choice between Coke and Pepsi was a big split in the market and in the country.", zh: "这曾是饮料货架上巨大的经济断层线，甚至可以说，它把整个国家都分成了两半。（fault line 断层线，比喻根本性分歧；beverage aisle 饮料货架）"}
+  - {text: "You either drank Coke or you drank Pepsi.", start: 48.25, end: 50.63, zh: "你要么喝可口可乐，要么喝百事可乐。（Coke 可口可乐；Pepsi 百事可乐）"}
+  - {text: "Whitney Houston, she drank Coke.", start: 51.19, end: 53.21, zh: "惠特尼·休斯顿喝的是可口可乐。（Whitney Houston 惠特尼·休斯顿，美国著名歌手）"}
+  - {text: "Michael Jackson, on the other hand, he was Team Pepsi.", start: 58.50, end: 61.52, explain: "\"On the other hand\" means in contrast, or differently from the person just mentioned. \"Team Pepsi\" means he supported or worked with the Pepsi brand. The sentence says Michael Jackson was a fan of Pepsi, unlike the other person.", zh: "而迈克尔·杰克逊呢，他是百事阵营的。（Michael Jackson 迈克尔·杰克逊，美国流行音乐之王；Team Pepsi 百事阵营，指支持百事可乐的一方）"}
+  - {text: "And I was thinking about the Kola Wars recently because the business of beverages just could not be more different now.", start: 66.57, end: 74.33, explain: "\"Kola Wars\" is a name for the competition between Coca-Cola and Pepsi. \"Beverages\" means drinks. The speaker is thinking about this old competition because the drink business is very different now.", zh: "最近我一直在想“可乐大战”的事，因为现在的饮料生意和以前简直天差地别。（Kola Wars 可乐大战，指可口可乐与百事可乐的市场竞争；beverages 饮料）"}
+  - {text: "We are way past the days of just Coke or Pepsi.", start: 74.71, end: 77.47, zh: "我们早就过了非可乐即百事的年代了。（Coke 可口可乐；Pepsi 百事可乐）"}
+  - {text: "The other day, I had my fellow Planet Money host, Kenny Malone meet me at the supermarket.", start: 78.03, end: 81.95, zh: "前几天，我让《Planet Money》的搭档肯尼·马龙在超市跟我碰面。（Planet Money 行星金钱，BBC旗下经济类播客；Kenny Malone 肯尼·马龙，主持人）"}
+  - {text: "We are actually headed to my favorite part of the store.", start: 82.39, end: 84.59, explain: "\"Headed to\" means going to a place. The speaker is walking toward the part of the shop they like the most.", zh: "我们正要去我最喜欢的超市区域。（headed to 前往，去往）"}
+  - {text: "We were going on a thrilling safari through the beverage aisle.", start: 84.93, end: 89.21, explain: "\"Thrilling\" means very exciting. \"Safari\" is usually a trip to see wild animals, but here it is used for fun to describe walking through the shop. \"Aisle\" is a row of shelves in a store. The speaker is joking that walking through the drink section is like an exciting animal trip.", zh: "我们正要在饮料区来一场激动人心的探险。（safari 探险，远足；beverage aisle 饮料货架区）"}
+  - {text: "Listen, you can't see Jeff, but he is glowing as we turn left into this aisle.", start: 89.57, end: 94.89, explain: "\"Glowing\" means shining with light or looking very happy and excited. The speaker says Jeff is very happy as they turn into the drink section.", zh: "听着，虽然你看不见杰夫，但当我们左转进入这个货架区时，他兴奋得发光。（glowing 兴奋得发光，形容非常开心）"}
+  - {text: "This is so exciting.", start: 94.89, end: 95.75, explain: "This short sentence shows the speaker is very happy and excited about what they are seeing.", zh: "这也太让人兴奋了。"}
+  - {text: "I've never, look, I've never seen this.", start: 96.29, end: 97.49, zh: "天哪，我从来，我是说真的，我从来没见过这个。"}
+  - {text: "I go to the store all the time.", start: 97.61, end: 98.33, zh: "我经常去超市的。"}
+  - {text: "What is this? Sparkling tea with adaptogens, amazing.", start: 98.45, end: 101.79, explain: "\"Sparkling\" means having bubbles, like soda. \"Adaptogens\" are special plants or herbs that people think help the body handle stress. The speaker is surprised to see a tea with these ingredients.", zh: "这是什么？含适应原的 sparkling 茶，太棒了。（Sparkling tea 气泡茶；adaptogens 适应原，一种声称能增强身体抗压能力的草药或补充剂）"}
+  - {text: "I'm sorry, adaptogens? I have no idea what it is, but it's probably good for you.", start: 102.23, end: 105.39, explain: "\"Adaptogens\" are herbs that help the body deal with stress. The speaker does not know what they are, but guesses they are healthy.", zh: "抱歉，适应原？我完全不知道那是什么，但听起来应该对身体好吧。"}
+  - {text: "Sure. The sheer variety of beverage choices that are now competing for our attention, it's almost incomprehensible.", start: 105.63, end: 113.61, explain: "\"Sheer\" means very large or complete. \"Incomprehensible\" means so big or strange that it is hard to understand. The speaker says there are so many different drinks to choose from that it is hard to believe.", zh: "没错。如今争夺我们注意力的饮料种类之多，简直令人难以置信。（incomprehensible 难以理解的，令人难以置信的）"}
+  - {text: "You know what I'm talking about.", start: 114.09, end: 114.87, explain: "This is a common phrase used to check if the other person understands what you mean. It means \"Do you know what I mean?\"", zh: "你知道我在说什么。"}
+  - {text: "The rainbow wall of flavored seltzers, the rose of canned latte drinks, next to the cans of latte flavored energy drinks with or without extra protein,", start: 115.25, end: 125.65, explain: "A \"seltzer\" is a fizzy water drink, often with flavor. \"Latte\" is a coffee drink with milk. \"Protein\" is a food part that helps muscles grow. The speaker lists many types of drinks on the shelf.", zh: "就是那面五颜六色的气泡水墙，还有罐装拿铁饮料，旁边是加了或不加额外蛋白质的拿铁味能量饮料，（seltzers 气泡水；latte 拿铁；protein 蛋白质）"}
+  - {text: "all the new sodas that supposedly help you focus or help you sleep or maybe help you go to the bathroom.", start: 126.21, end: 133.69, explain: "\"Supposedly\" means people say it is true, but it may not be. \"Focus\" means to pay attention well. The speaker talks about new soft drinks that claim to help you think, sleep, or use the toilet.", zh: "还有那些号称能帮你集中注意力、助眠或者甚至帮你上厕所的新款汽水。（sodas 汽水；focus 集中注意力）"}
+  - {text: "What do you call these sodas?", start: 133.93, end: 136.11, explain: "The speaker asks for the name of these special drinks.", zh: "这些汽水叫什么？"}
+  - {text: "The functional sodas. Right, do you call them the poopies?", start: 136.27, end: 138.67, explain: "\"Functional\" means the drink has a special job, like helping you sleep or think. \"Poopies\" is a funny, informal word for using the toilet. The speaker asks if these are called \"functional sodas\" or \"poopies\".", zh: "功能性汽水。对，你们管它们叫“便便水”吗？（functional 功能性的；poopies 便便，此处指通便饮料的戏称）"}
+  - {text: "I think we're not allowed to say that, but yeah.", start: 139.35, end: 140.91, explain: "The speaker says they probably should not use that funny word, but agrees with the idea.", zh: "我觉得我们不能这么说，但确实是这样。"}
+  - {text: "There's a Spider -Man one.", start: 141.17, end: 141.89, zh: "有一款是蜘蛛侠主题的。"}
+  - {text: "Really? Yeah, Spider -Man Poppy.", start: 142.37, end: 143.81, zh: "真的吗？是的，蜘蛛侠通便水。（Spider-Man 蜘蛛侠；Poppy 通便水，对应前文的 poopies）"}
+  - {text: "Not to mention all the new flavors that companies are coming out with.", start: 144.31, end: 148.23, explain: "\"Coming out with\" means making and selling new things. The speaker says there are also many new tastes that companies are selling now.", zh: "更别提那些公司不断推出的新口味了。（flavors 口味；coming out with 推出，发布）"}
+  - {text: "There's the new Dubai chocolate Pepsi, the creamy coconut Dr.", start: 148.51, end: 153.31, explain: "The sentence is cut off and continues in the next one. \"Dubai chocolate\" is a popular sweet treat from the Middle East. \"Creamy\" means smooth and thick, like milk.", zh: "比如新的迪拜巧克力味百事可乐，还有奶油椰子味……（Dubai chocolate 迪拜巧克力，一种流行零食；Pepsi 百事可乐）"}
+  - {text: "Pepper, the Casno Palatin flavored spin drift.", start: 153.41, end: 156.95, explain: "The sentence is cut off and continues from the previous one. \"Pepper\" is a spice. \"Flavored\" means it has a specific taste added to it. \"Spin drift\" is a type of candy that twists.", zh: "……胡椒博士，还有卡萨诺帕拉丁风味的旋转汽水。（Pepper 胡椒博士，一种碳酸饮料；spin drift 旋转汽水，一种混合饮品）"}
+  - {text: "The thing is, like growing up, we didn't have any of this, right?", start: 157.23, end: 159.81, explain: "\"The thing is\" is a phrase used to start a main point. \"Growing up\" means the time when you were a child and became an adult.", zh: "关键是，就像我们小时候那样，当时根本没有这些，对吧？（growing up 成长过程中；didn't have any of this 没有这些）"}
+  - {text: "I guess not. We only had our sprites, our ginger ale.", start: 160.07, end: 163.21, explain: "\"Sprites\" is a brand of lemon-lime soda. \"Ginger ale\" is a fizzy drink that tastes like ginger.", zh: "我想也是。我们当时只有雪碧和姜汁汽水。（sprites 雪碧；ginger ale 姜汁汽水）"}
+  - {text: "I guess you're right.", start: 163.45, end: 164.01, zh: "我想你说得对。（you're right 你说得对）"}
+  - {text: "Now that you mention it, why are there flavors everywhere all of a sudden?", start: 164.15, end: 167.79, zh: "你这么一说，为什么突然到处都是各种口味？（mention 提到；all of a sudden 突然，一下子）"}
+  - {text: "Yeah, why is this happening?", start: 168.09, end: 169.73, explain: "This is a simple question asking for the reason behind the new drinks.", zh: "是啊，这是怎么回事呢？（happening 发生，出现）"}
+  - {text: "Why are there so many?", start: 169.99, end: 171.03, zh: "为什么会有这么多？"}
+  - {text: "Why does it feel like there's a new one every single week?", start: 171.49, end: 173.45, zh: "为什么感觉每周都有新花样？（every single week 每一周，强调频繁）"}
+  - {text: "Well, because we buy them, because you and I are buying them.", start: 173.59, end: 175.43, explain: "The speaker says the reason is simple: people are choosing to buy these new products.", zh: "因为我们在买，因为是你和我在买。"}
+  - {text: "Yes, but it all comes from somewhere.", start: 175.79, end: 177.29, explain: "\"Somewhere\" means an unknown place. The speaker asks where these new ideas come from.", zh: "没错，但这背后总有源头。"}
+  - {text: "Oh, right, right. Do you know the answer?", start: 177.37, end: 179.77, zh: "哦，对对对。你知道答案吗？"}
+  - {text: "Well, that's what I went out to find out.", start: 179.77, end: 182.07, zh: "嗯，这正是我出门去探究的。"}
+  - {text: "Are you going to tell me?", start: 182.73, end: 183.71, zh: "你会告诉我吗？"}
+  - {text: "I'll tell you. We got to go on a journey first.", start: 184.15, end: 186.03, explain: "\"Journey\" means a trip or a long process. The speaker says they need to start a story or explanation first.", zh: "我会告诉你。不过我们得先踏上一段旅程。（journey 旅程，旅途）"}
+  - {text: "Hello and welcome to Planet Money.", start: 190.16, end: 191.52, zh: "大家好，欢迎收听《Planet Money》。"}
+  - {text: "I'm Jeff Glow. A few months ago, I started looking into why we are seeing so many new kinds of beverages and new beverage flavors.", start: 191.72, end: 199.62, explain: "\"Beverages\" means drinks. \"Flavors\" are the different tastes of a drink. Jeff says he is starting to find out why there are so many new types of drinks.", zh: "我是杰夫·格洛。几个月前，我开始研究为什么市面上会出现这么多新种类的饮料和新口味。（beverages 饮料）"}
+  - {text: "What I found is that the economics of the beverage industry have been turned inside out.", start: 200.22, end: 205.34, explain: "\"Economics\" means the money side of business. \"Turned inside out\" means changed completely. He says the money rules of the drink business have changed a lot.", zh: "我发现，饮料行业的经济逻辑已经彻底颠覆了。（inside out 里外翻转，彻底改变）"}
+  - {text: "So today on the show, we are going inside Big Beverage.", start: 205.94, end: 209.80, zh: "所以今天在这档节目里，我们要深入探究大型饮料巨头。（Big Beverage 大型饮料行业或巨头）"}
+  - {text: "We're headed to a top secret laboratory to unravel the mysteries of the soda aisle.", start: 209.80, end: 215.52, explain: "\"Unravel\" means to solve or find the answer to a problem. \"Mysteries\" are things that are hard to understand. They are going to a secret place to find out how soda works.", zh: "我们要去一个绝密实验室，解开汽水货架上的种种谜团。（soda aisle 超市里的汽水货架区）"}
+  - {text: "We're going to see how new flavors get created, how cutting edge bacteria are changing the game, and we ask the experts, what does Planet Money taste like?", start: 216.06, end: 226.76, explain: "\"Cutting edge\" means very new and advanced. \"Changing the game\" means making a big difference. They will see how new tastes are made and how new bacteria help.", zh: "我们将看到新口味是如何诞生的，前沿细菌技术如何改变游戏规则，还要问问专家，《Planet Money》听起来像什么味道？（cutting edge 前沿的，最先进的）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 232.10, end: 235.50, explain: "\"Sponsors\" are companies that pay for the show. This is a short note that ads will come next.", zh: "请留意接下来的赞助商公告和留言。（sponsors 赞助商）"}
+  - {text: "This message comes from Whole Foods Market.", start: 236.59, end: 238.59, explain: "This is an advertisement for a store called Whole Foods Market.", zh: "这条信息来自全食超市。（Whole Foods Market 全食超市，美国连锁有机食品超市）"}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 239.07, end: 242.35, zh: "用Whole Foods Market的优质食材，秋天的味道会更棒。（Whole Foods Market 全食超市，美国连锁有机食品超市）"}
+  - {text: "No added growth hormones or antibiotics in their meat department means slow -braised short ribs are even more satisfying.", start: 242.73, end: 248.51, explain: "\"Braised\" means cooked slowly in liquid. \"Satisfying\" means it makes you feel happy and full. The meat is good because it has no added chemicals.", zh: "他们的肉类部门不添加生长激素或抗生素，这意味着慢炖牛小排吃起来更加令人满足。（antibiotics 抗生素；short ribs 牛小排）"}
+  - {text: "All seafood is wild -caught, like their vibrant sockeye salmon or verified responsibly farmed.", start: 249.03, end: 253.79, explain: "\"Wild-caught\" means the fish were caught in the sea, not raised in a farm. \"Verified\" means checked to be true. The fish are either from the wild or from good farms.", zh: "所有海鲜都是野生捕捞的，比如他们色彩鲜艳的帝王鲑，或者是经过认证、负责任养殖的。（wild-caught 野生捕捞；sockeye salmon 帝王鲑；verified 经过认证的）"}
+  - {text: "And all sweets, including fall -themed cookies, are made without high -fructose corn syrup.", start: 254.07, end: 258.43, explain: "\"High-fructose corn syrup\" is a sweet liquid made from corn. It is often used in food. The sentence says that all sweet foods, like autumn cookies, do not use this sweet liquid.", zh: "而且所有糖果，包括秋季主题的饼干，都不含高果糖玉米糖浆。（high-fructose corn syrup 高果糖玉米糖浆）"}
+  - {text: "Spice up fall at Whole Foods Market.", start: 258.93, end: 260.51, zh: "在Whole Foods Market为秋天增添一番风味。（Spice up 增添趣味或风味；Whole Foods Market 全食超市，美国连锁有机食品超市）"}
+  - {text: "This message comes from Schwab.", start: 261.68, end: 263.10, explain: "This is an advertisement. \"Schwab\" is the name of a company that helps people with money and investments.", zh: "这条信息来自嘉信理财。（Schwab 嘉信理财，美国金融服务公司）"}
+  - {text: "Investing with Schwab is like a hike with endless trails.", start: 263.68, end: 266.60, explain: "This is an advertisement. \"Investing\" means putting money into things to try to make more money. \"Hike\" means a walk in nature. The ad compares investing to a walk with many paths.", zh: "在嘉信理财投资，就像是一场拥有无尽小径的徒步旅行。（Schwab 嘉信理财；hike 徒步旅行）"}
+  - {text: "Go solo with self -directed investing, take stops along the way with trading, or choose a guide with full -service wealth management.", start: 267.12, end: 274.18, explain: "This is an advertisement. \"Self-directed\" means you make all the choices yourself. \"Trading\" means buying and selling stocks. \"Wealth management\" is a service where experts manage your money for you.", zh: "你可以选择自主投资独自前行，通过交易在途中稍作停留，或者选择全方位财富管理服务作为向导。（self-directed investing 自主投资；full-service wealth management 全方位财富管理服务）"}
+  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 274.18, end: 278.08, explain: "This is an advertisement. It says you can choose any path for your money with this company.", zh: "无论您选择哪条投资路径，都可以通过嘉信理财进行投资。（trails 路径，此处指投资方向；Schwab 嘉信理财，美国知名券商）"}
+  - {text: "To understand why everything is now coming up, acai, dragon fruit, sparkling protein probiotic, yada yada yada, I called up a bunch of beverage industry insiders.", start: 279.54, end: 291.56, explain: "\"Acai\" and \"dragon fruit\" are types of fruit. \"Probiotic\" is a type of healthy bacteria. \"Insiders\" are people who work inside a company and know its secrets. The speaker called people who work in the drink business.", zh: "为了搞清楚为什么现在市面上全是巴西莓、火龙果、气泡蛋白益生菌之类的饮品，我联系了一群饮料行业的内部人士。（acai 巴西莓；insiders 内部人士，业内人士）"}
+  - {text: "And one of them shared with me this kind of industry secret.", start: 291.98, end: 295.50, explain: "\"Industry secret\" means a fact that only people in that business know. One person told the speaker a secret about how drinks are made.", zh: "其中一位向我透露了一个行业秘密。（shared 分享，透露）"}
+  - {text: "You see, apparently, a lot of the drinks showing up on shelves these days can be traced back to this one company in Kentucky.", start: 296.22, end: 303.80, explain: "\"Traced back\" means to find the start or source of something. \"Shelves\" are the flat surfaces in a store where goods are put. Many new drinks come from one company in Kentucky.", zh: "你看，显然，如今货架上出现的许多饮品都可以追溯到肯塔基州的这一家公司。（traced back to 追溯到；Kentucky 肯塔基州）"}
+  - {text: "They're called Flavor Man.", start: 303.80, end: 305.50, explain: "\"Flavor Man\" is the name of a company. This sentence tells us what the company is called.", zh: "他们叫“风味先生”。（Flavor Man 风味先生，公司名）"}
+  - {text: "And behind the scenes, they're the ones who have been quietly helping all these other companies come up with the new types of beverages and new beverage flavors.", start: 305.86, end: 314.66, explain: "\"Behind the scenes\" means in a way that people do not see. \"Beverages\" means drinks. The sentence says this company helps other firms make new drinks and new tastes.", zh: "在幕后，正是他们在悄悄帮助其他公司研发新型饮料和新口味。（behind the scenes 在幕后；quietly 悄悄地，低调地）"}
+  - {text: "Recently, they agreed to let me visit their labs in Louisville.", start: 315.36, end: 319.06, explain: "\"Labs\" are rooms where people do science tests. \"Louisville\" is a city in the USA. The speaker says the company let him go to their science rooms in that city.", zh: "最近，他们同意让我参观他们在路易斯维尔的实验室。（Louisville 路易斯维尔，肯塔基州首府）"}
+  - {text: "Good morning. Hey, good to see you.", start: 319.32, end: 321.84, zh: "早上好。嘿，很高兴见到你。（Hey 嘿，口语招呼语）"}
+  - {text: "It's good to see you.", start: 322.12, end: 322.94, zh: "很高兴见到你。"}
+  - {text: "Welcome to Flavor Man.", start: 323.18, end: 324.22, zh: "欢迎来到 Flavor Man。"}
+  - {text: "The food scientists at Flavor Man specialize in beverage development.", start: 324.48, end: 328.40, explain: "\"Specialize\" means to be very good at one specific thing. \"Beverage development\" means making new drinks. The scientists at this company focus on making new drinks.", zh: "Flavor Man 的食品科学家专门从事饮料研发。（specialize in 专门从事；beverage development 饮料研发）"}
+  - {text: "Big brands like Coke and Pepsi usually have their own in -house food scientists.", start: 329.00, end: 333.34, zh: "像可口可乐和百事可乐这样的大品牌，通常都有自己的内部食品科学家。（in-house 内部的，自有的）"}
+  - {text: "But basically everyone else outsources the work of designing a drink to companies like Flavor Man.", start: 333.34, end: 339.58, explain: "\"Outsourcing\" means paying another company to do a job for you. The sentence says most other companies pay Flavor Man to design their drinks.", zh: "但基本上其他所有公司都会把饮料设计工作外包给像 Flavor Man 这样的公司。（outsources 外包；designing a drink 设计饮料）"}
+  - {text: "So most of the work here is super, super hush -hush.", start: 340.06, end: 342.92, explain: "\"Hush-hush\" means very secret. The work done in this place is kept very secret.", zh: "所以这里的大部分工作都是超级、超级保密的。（hush-hush 保密的，秘密的）"}
+  - {text: "They are not allowed to talk about it.", start: 343.12, end: 344.84, explain: "\"Not allowed\" means it is not okay to do something. The workers cannot talk about the secret work.", zh: "他们不允许谈论这些事情。"}
+  - {text: "So sometimes we're the dark secret behind some of the very large national brands that you're aware of.", start: 345.00, end: 350.08, zh: "所以有时候，我们是某些你熟知的大型全国品牌背后的秘密。（dark secret 秘密，隐秘；national brands 全国性品牌）"}
+  - {text: "That's Evan Floyd. He works on the business side here.", start: 350.28, end: 352.64, zh: "这位是埃文·弗洛伊德，他负责这里的商务工作。（Evan Floyd 埃文·弗洛伊德；business side 商务方面）"}
+  - {text: "And when we walked in, he asked us to sign a non -disclosure agreement.", start: 352.90, end: 356.82, explain: "A \"non-disclosure agreement\" is a legal paper that says you must not tell other people what you saw or heard. The speaker says that when they entered the place, the man asked them to sign this paper first.", zh: "当我们走进办公室时，他让我们签署了一份保密协议。（non-disclosure agreement 保密协议，简称NDA）"}
+  - {text: "I think technically we're not allowed to sign this because we are going to disclose all the things.", start: 357.22, end: 364.62, explain: "\"Technically\" means according to the official rules. \"Disclose\" means to tell people secret information. The speaker says they cannot sign the paper because it would make private details public.", zh: "我觉得从技术上讲，我们其实不能签这个，因为我们打算把一切都透露出来。（disclose 披露，透露）"}
+  - {text: "Is there a way that we can get past it?", start: 365.08, end: 367.58, zh: "有没有什么办法能绕过这一关？（get past it 绕过，通过）"}
+  - {text: "In the end, we did not sign that NDA, of course, but we did promise to be careful about which brands we talked about.", start: 372.22, end: 378.24, zh: "最后，我们当然没有签那份保密协议，但我们承诺会对提及哪些品牌保持谨慎。（NDA 保密协议；be careful about 对……保持谨慎）"}
+  - {text: "Publicly, Flavor Man is allowed to say they've done work for companies like Oceanspray and Jones Soda.", start: 378.90, end: 384.54, explain: "\"Publicly\" means in front of other people, not in secret. \"Flavor Man\" is the name of a company. The sentence says that this company can tell people that it has made drinks for other famous brands.", zh: "公开场合下，Flavor Man 可以表示他们曾为 Ocean Spray 和 Jones Soda 等公司做过工作。（Flavor Man 风味先生，一家饮料研发公司；Oceanspray 海洋喷雾，美国知名果汁品牌；Jones Soda 琼斯苏打，美国汽水品牌）"}
+  - {text: "Privately, they have helped launch tens of thousands of new beverages.", start: 385.40, end: 389.58, explain: "\"Privately\" means in secret, not for everyone to see. \"Beverages\" means drinks. The sentence says that, in secret, these people have started making many, many new types of drinks.", zh: "私下里，他们帮助推出了数以万计的新饮料。（launch 推出，发布；beverages 饮料）"}
+  - {text: "As we walk back to the labs, we saw this trophy wall full of examples, going back 30 years.", start: 390.18, end: 394.90, explain: "A \"trophy wall\" is a wall where people show their prizes or awards. The sentence says that while walking back to the labs, they saw a wall with many examples from the last 30 years.", zh: "当我们走回实验室时，看到了一面奖杯墙，上面摆满了过去30年的案例。（trophy wall 奖杯墙，展示成就的墙面；examples 案例，样品）"}
+  - {text: "Some of them were pretty famous.", start: 395.40, end: 397.34, zh: "其中有些还挺有名的。"}
+  - {text: "Some of them were a little bit more niche.", start: 397.82, end: 399.50, explain: "\"Niche\" means for a small group of people, not for everyone. The speaker says that some of the drinks were only for a few specific people.", zh: "有些则稍微小众一点。（niche 小众的，利基的）"}
+  - {text: "This is a juice box for cats.", start: 400.06, end: 404.00, explain: "The speaker is saying that the product is a drink made for cats, not for people. It is a small container, like a box, that holds juice for a pet.", zh: "这是一款给猫喝的果汁盒。"}
+  - {text: "You're just like, yeah, of course.", start: 406.08, end: 407.20, zh: "你只会觉得，嗯，确实如此。（of course 当然，理所当然）"}
+  - {text: "It's salmon flavored. I think that that one specifically was designed for aging cats.", start: 407.58, end: 413.36, explain: "\"Flavored\" means it has the taste of that thing. \"Aging\" means getting older. The speaker says the food tastes like salmon and was made for older cats.", zh: "它是三文鱼口味的。我想那款特别是为老年猫设计的。（salmon 三文鱼；aging cats 老年猫）"}
+  - {text: "Now, the real reason we were here, of course, is to understand why the market for beverages has changed so dramatically over the years.", start: 413.88, end: 421.54, explain: "\"Beverages\" means drinks. \"Dramatically\" means in a very big or noticeable way. The speaker says the main reason for being there is to learn why the drink market has changed a lot.", zh: "当然，我们此行的真正目的是想弄清楚，为什么饮料市场这些年发生了如此巨大的变化。（beverages 饮料；dramatically 剧烈地，显著地）"}
+  - {text: "And we wanted to see firsthand how new drinks get designed and launched and how the industry has changed at every step of the process.", start: 422.02, end: 430.06, explain: "\"Firsthand\" means by seeing or doing it yourself, not just hearing about it. \"Launched\" means started selling to the public. The team wants to see how new drinks are made and sold, and how the industry has changed.", zh: "我们想亲眼看看新饮料是如何被设计和推出的，以及行业在流程的每个环节发生了怎样的变化。（firsthand 亲身地，直接地；launched 推出，发布）"}
+  - {text: "So our first stop was the Flavor Lab.", start: 430.70, end: 433.62, explain: "\"Flavor Lab\" is a place where people create and test the tastes of food and drinks. The speaker says their first place to visit is this lab.", zh: "所以我们的第一站是风味实验室。（Flavor Lab 风味实验室）"}
+  - {text: "Who let you guys in my lab?", start: 433.90, end: 435.14, explain: "This is a short question. The person is angry and asks who allowed the visitors to enter his private room.", zh: "谁让你们进我实验室的？"}
+  - {text: "What is going on here?", start: 435.34, end: 436.34, explain: "This is a short question. The person is confused and asks what is happening in the room.", zh: "这里到底在搞什么？"}
+  - {text: "Are we making flavors today?", start: 436.74, end: 437.82, explain: "\"Flavors\" means the tastes of food or drinks. The speaker asks if they are going to make new tastes today.", zh: "我们今天是在研发口味吗？（flavors 口味，风味）"}
+  - {text: "I hope so. All right, let's talk.", start: 438.28, end: 440.40, zh: "希望如此。好了，我们来聊聊。"}
+  - {text: "Tom Gibson is the chief flavorist at Flavor Man.", start: 441.04, end: 444.42, explain: "\"Chief\" means the main person in charge. \"Flavorist\" is a person whose job is to create tastes for food and drinks. Tom Gibson is the head of the flavor team at a company called Flavor Man.", zh: "汤姆·吉布森是 Flavor Man 公司的主调香师。（chief flavorist 主调香师，首席风味专家；Flavor Man 公司名）"}
+  - {text: "He is responsible for what a new beverage is going to taste like.", start: 444.68, end: 448.28, explain: "\"Responsible for\" means having the duty to do something. He decides how a new drink will taste.", zh: "他负责决定新饮料喝起来是什么味道。"}
+  - {text: "The way it works is a client, usually a beverage company, comes in and maybe they want to launch a line of drinks and they have ideas for a couple new flavors.", start: 448.74, end: 457.44, explain: "A \"client\" is a person or company that pays for a service. \"Launch\" means to start selling a new product. \"Flavors\" are the tastes of food or drinks. The sentence explains that a company comes to the lab to make new types of drinks.", zh: "工作流程是这样的：客户，通常是饮料公司，会过来，他们可能想推出一系列新饮品，并且对几种新口味有一些想法。（launch 推出，发布；line of drinks 一系列饮品）"}
+  - {text: "Here in this lab, Tom and his team of flavor scientists invent the recipe for those new flavors.", start: 458.06, end: 463.82, explain: "\"Flavor scientists\" are people who study and create tastes. \"Invent\" means to create something new. The sentence says Tom and his team make the mix for the new tastes in this lab.", zh: "在这个实验室里，汤姆和他的风味科学家团队会为这些新口味研发配方。（flavor scientists 风味科学家；recipe 配方）"}
+  - {text: "He's like the Willy Wonka of sodas.", start: 464.28, end: 466.32, explain: "\"Willy Wonka\" is a famous fictional character from a movie who makes chocolate. \"Sodas\" are fizzy drinks. The speaker compares Tom to this character because he makes drinks in a magical way.", zh: "他简直就是汽水界的威利·旺卡。（Willy Wonka 威利·旺卡，电影《查理和巧克力工厂》中的角色）"}
+  - {text: "Have you ever led a tour of little children through here and maybe disappeared some of them?", start: 466.60, end: 471.80, explain: "\"Led a tour\" means to show people around a place. \"Disappeared\" means to make someone go away or vanish. This is a joke asking if Tom ever made children vanish while showing them the lab.", zh: "你以前带过一群小孩在这里参观，然后让他们中的几个消失了吗？"}
+  - {text: "Never, never, never happened.", start: 473.20, end: 475.18, zh: "从来没有，绝对没有发生过。"}
+  - {text: "Now, Tom says when people talk about flavor, most of the time they are really talking about aroma, the smell that hits your nose when you bite into that nice, fresh strawberry.", start: 475.54, end: 486.52, explain: "\"Aroma\" is a strong smell, often of food. \"Hits your nose\" means you smell it strongly. The sentence says that when people talk about taste, they usually mean the smell of the food.", zh: "汤姆说，当人们谈论风味时，其实大多是在说香气，也就是你咬下一颗新鲜草莓时扑鼻而来的那种气味。（aroma 香气；flavor 风味）"}
+  - {text: "In nature, that strawberry smell is actually made up of hundreds of different aroma chemicals.", start: 487.14, end: 491.98, explain: "\"Made up of\" means composed of or built from. \"Aroma chemicals\" are the substances that create smells. The sentence says the smell of a strawberry comes from many different chemicals.", zh: "在自然界中，草莓的这种气味实际上是由数百种不同的芳香化学物质组成的。（aroma chemicals 芳香化学物质）"}
+  - {text: "Tom brought us over to a workbench with a set of beakers and pipettes.", start: 492.56, end: 496.04, explain: "A \"workbench\" is a table for working. \"Beakers\" are glass cups used in science. \"Pipettes\" are tools for moving small amounts of liquid. Tom showed them a table with these science tools.", zh: "汤姆带我们来到一张工作台前，上面放着一套烧杯和移液管。（beakers 烧杯；pipettes 移液管）"}
+  - {text: "All around us, the shelves were crowded with like thousands of these little amber bottles.", start: 496.40, end: 501.38, explain: "\"Crowded\" means very full or tight. \"Amber\" is a dark yellow-brown color. The sentence describes shelves that are full of many small brown bottles.", zh: "我们四周的架子上挤满了成千上万个小巧的琥珀色瓶子。（amber 琥珀色）"}
+  - {text: "We're looking at some different essential oils, some different aroma chemicals that are part of all different kinds of flavors.", start: 501.68, end: 507.76, explain: "\"Essential oils\" are strong smells taken from plants. \"Aroma chemicals\" are small parts that make a smell. The speaker is looking at the small parts that make different tastes.", zh: "我们正在看一些不同的精油，以及一些构成各种风味的不同芳香化学物质。（essential oils 精油；aroma chemicals 芳香化学物质）"}
+  - {text: "So these are the building blocks.", start: 508.18, end: 509.52, zh: "这些就是基础原料。（building blocks 基础原料，构成要素）"}
+  - {text: "This is it. The little bitty pieces that come together to make, what's your favorite flavor again?", start: 509.90, end: 514.82, explain: "\"Little bitty pieces\" means very small parts. The speaker asks what the other person's favorite flavor is, while pointing to the small parts that make it.", zh: "就是这些，这些微小的成分组合在一起，构成了你刚才说的那个最爱口味，是什么来着？（bitty 微小的，细小的）"}
+  - {text: "Blue. To make blue, all right?", start: 515.36, end: 518.34, zh: "蓝色。好，我们来制作蓝色。（Blue 蓝色，此处指蓝色口味或颜色）"}
+  - {text: "You're looking at pieces and parts of blue.", start: 519.00, end: 521.06, explain: "\"Pieces and parts\" means small sections or elements. The speaker is looking at the small elements that make up the color blue.", zh: "你眼前看到的都是蓝色的组成部分。（parts 部分，组成部分）"}
+  - {text: "Over the decades, scientists have slowly started to isolate these aroma chemicals.", start: 521.64, end: 526.14, explain: "\"Isolate\" means to separate one thing from a mixture. Over many years, scientists have started to separate these smell-making chemicals.", zh: "几十年来，科学家们逐渐开始分离出这些芳香化学物质。（isolate 分离，隔离；aroma chemicals 芳香化学物质）"}
+  - {text: "They've noticed that some of them seem to show up over and over again in a lot of different fruits.", start: 526.64, end: 531.54, explain: "\"Show up\" means to appear or be found. Scientists have seen that some of these chemicals appear many times in many different fruits.", zh: "他们发现其中一些成分在许多不同的水果中反复出现。（over and over again 反复，一次又一次）"}
+  - {text: "For example, Tom dipped a test strip into one of the bottles and held it up for me to smell.", start: 531.54, end: 536.20, explain: "\"Test strip\" is a small paper used to check a liquid. Tom put a test strip in a bottle and held it up so the speaker could smell it.", zh: "例如，汤姆把一条试纸浸入其中一个瓶子，举起来让我闻。（test strip 试纸）"}
+  - {text: "It's so familiar. It's like on the tip of my tongue.", start: 536.54, end: 539.06, zh: "太熟悉了，就像就在嘴边一样。（on the tip of my tongue 就在嘴边，形容即将想起或说出的话）"}
+  - {text: "It's not berry, it's like a...", start: 541.19, end: 543.75, explain: "\"Berry\" is a type of small fruit, like a strawberry or blueberry. The speaker says the smell is not like a berry, but is something else.", zh: "它不是浆果味，而是像……（berry 浆果）"}
+  - {text: "It's kind of everything, right?", start: 543.81, end: 545.37, zh: "它有点像万能的，对吧？（kind of 有点，某种程度上）"}
+  - {text: "Yeah, what is this?", start: 545.63, end: 546.25, explain: "This is a short question. The speaker is asking what the smell is.", zh: "是啊，这到底是什么？"}
+  - {text: "So it's a key component of berry, but it's used in 2D fruities.", start: 546.25, end: 549.55, explain: "A \"component\" is a part of a whole. \"Fruities\" is a strange word in the transcript; it likely means fruit flavors. The sentence says this chemical is a main part of berry flavors, but it is also used in other fruit tastes.", zh: "所以它是浆果味的关键成分，但也被用于各种水果风味中。（component 成分；fruities 水果风味）"}
+  - {text: "It's used in maybe a background note in a cherry.", start: 549.69, end: 552.89, explain: "A \"background note\" is a small, quiet part of a smell or taste that you notice only after the main flavor. This sentence says the chemical is used in a small amount to make a cherry flavor.", zh: "它可能被用作樱桃味中的背景基调。（background note 背景基调，指不突出的底层风味）"}
+  - {text: "It's used in all kinds of different things.", start: 553.21, end: 554.87, zh: "它被用于各种各样的东西里。"}
+  - {text: "When Tom's building a flavor, he might mix together dozens of these different aroma chemicals.", start: 555.27, end: 560.09, explain: "\"Aroma\" means smell. \"Chemicals\" are substances made in a lab. The sentence means Tom mixes many different smell-making substances to create a new flavor.", zh: "当汤姆在调配一种风味时，他可能会混合几十种不同的芳香化学物质。（aroma chemicals 芳香化学物质）"}
+  - {text: "Say you want a cherry flavor.", start: 560.65, end: 561.95, explain: "This is a short example. It means: imagine you want to make a flavor that tastes like a cherry.", zh: "假设你想要一种樱桃味。（Say 假设，比如说）"}
+  - {text: "Tom's like, okay, what kind of cherry are we talking about?", start: 561.95, end: 564.49, explain: "This sentence shows Tom asking a question. He wants to know exactly what type of cherry the customer wants.", zh: "汤姆问，咱们具体说的是哪种樱桃？（cherry 樱桃）"}
+  - {text: "A fresh cherry, a ripe cherry?", start: 564.85, end: 566.85, explain: "\"Ripe\" means the fruit is fully grown and ready to eat. Tom is asking if the cherry should taste fresh or fully grown.", zh: "是新鲜的樱桃，还是熟透的樱桃？（ripe 成熟的，熟透的）"}
+  - {text: "Do you want more cherry blossom notes?", start: 567.37, end: 569.11, explain: "\"Blossom\" is the flower of a plant. \"Notes\" are small parts of a smell or taste. Tom asks if the flavor should have a smell like cherry flowers.", zh: "你想让樱桃花的香气更明显吗？（cherry blossom 樱花；notes 风味，香气）"}
+  - {text: "Or do you want more darker caramel notes?", start: 569.49, end: 571.41, explain: "\"Caramel\" is a sweet, brown sugar flavor. Tom asks if the flavor should be darker and sweeter, like caramel, instead of like flowers.", zh: "还是想更突出深色的焦糖风味？（caramel 焦糖）"}
+  - {text: "Tom says some of the tastiest fruit flavors often contain unexpected notes.", start: 571.95, end: 577.75, explain: "\"Tastiest\" means the most good to taste. \"Notes\" are small smells or tastes that you can find inside a bigger flavor. Tom says that some of the best fruit tastes have small, surprising smells inside them.", zh: "汤姆说，有些最美味的水果风味往往包含意想不到的香气。（notes 风味，香气）"}
+  - {text: "For instance, he opened another bottle for me to smell.", start: 578.17, end: 581.09, explain: "\"For instance\" means for example. \"Opened\" means he took the top off. Tom took a bottle and took the top off so the speaker could smell it.", zh: "比如，他给我开了一瓶让我闻了闻。"}
+  - {text: "Oh my God, no!", start: 581.39, end: 582.67, zh: "天哪，不行！"}
+  - {text: "Come on, that's not that bad.", start: 583.15, end: 584.73, zh: "别这样，没那么难闻。"}
+  - {text: "This is so bad.", start: 584.85, end: 585.53, explain: "This is a short reaction. The speaker says the smell is very bad.", zh: "这味道太糟糕了。"}
+  - {text: "That's only, that's level one.", start: 585.53, end: 587.09, zh: "那只是，那才是一级。"}
+  - {text: "This is like stinky cheese.", start: 587.33, end: 588.63, explain: "\"Stinky\" means it smells very bad. The speaker says the smell is like old, bad cheese.", zh: "这闻起来像臭奶酪。"}
+  - {text: "Is that nice though?", start: 588.89, end: 589.51, zh: "不过那闻起来挺香的吗？"}
+  - {text: "No, it is not nice.", start: 589.63, end: 590.59, explain: "\"Nice\" here means good or pleasant. The speaker says the smell is not good.", zh: "不，一点也不香。"}
+  - {text: "What flavor do you think this might go into?", start: 590.59, end: 592.39, zh: "你觉得这个味道适合加进什么口味里？"}
+  - {text: "That would be fantastic.", start: 592.63, end: 593.63, explain: "\"Fantastic\" means very good or amazing. The speaker says this would be a great thing.", zh: "那将会非常棒。"}
+  - {text: "Tom says this aroma is a key component in dairy.", start: 594.19, end: 597.29, explain: "\"Aroma\" is a strong smell, usually a good one. \"Component\" is a part of a mix. \"Dairy\" means milk and things made from milk. Tom says this smell is an important part of milk products.", zh: "汤姆说这种香气是乳制品的关键成分。（aroma 香气；component 成分）"}
+  - {text: "It also shows up in sweat and vomit, but also...", start: 597.79, end: 602.13, explain: "\"Shows up\" means appears or is found. \"Vomit\" is what you throw up when you are sick. The smell is also found in sweat and sick stomach stuff, but the sentence stops here.", zh: "它也会出现在汗水和呕吐物中，不过还有……（vomit 呕吐物）"}
+  - {text: "But you might find it a little bit like, say, a ripe berry.", start: 602.13, end: 605.07, explain: "\"Ripe\" means the fruit is fully grown and ready to eat. \"Berry\" is a small, round fruit like a strawberry or blueberry. The speaker compares the taste to a fresh, sweet fruit.", zh: "但你可能觉得它有点像，比如说，一颗熟透的浆果。（ripe 成熟的，熟透的）"}
+  - {text: "When you're eating strawberry in the morning, perhaps you're getting a little bit of that.", start: 605.81, end: 608.85, explain: "\"Strawberry\" is a red fruit with many small seeds on the outside. The speaker says that when you eat this fruit in the morning, you might taste a little bit of the special flavor being discussed.", zh: "当你早上吃草莓时，也许就摄入了一点点这种物质。"}
+  - {text: "Oh, and so if that weren't there, then the berry flavor might be just be flat.", start: 609.07, end: 614.47, explain: "\"Flat\" here means the taste is not strong or interesting; it is boring. The speaker says if the special part is missing, the fruit taste will be dull.", zh: "噢，如果缺少了它，浆果的风味可能就会变得平淡无奇。（flat 平淡的，乏味的）"}
+  - {text: "Yeah, it's kind of flat.", start: 614.65, end: 615.53, zh: "是啊，确实有点平淡。"}
+  - {text: "Oh, it's like you need a little bit of dissonance.", start: 616.28, end: 618.90, explain: "\"Dissonance\" means a mix of sounds or tastes that do not fit together perfectly, but create an interesting effect. The speaker says you need a little bit of this mix to make the flavor work.", zh: "噢，这就好比你需要一点点不和谐感。（dissonance 不和谐，冲突）"}
+  - {text: "Right. Now, Tom has been doing this Willy Wonka flavor work for decades, and from his perspective, one of the biggest changes in the industry has to do with the supply of flavors and flavor components.", start: 619.26, end: 631.30, explain: "\"Decades\" means many ten-year periods, so a very long time. \"Components\" are the small parts that make up a whole thing. The speaker says Tom has worked on flavors for a long time, and one big change is how we get the parts that make flavors.", zh: "没错。汤姆从事这种“威利·旺卡”式的风味研发工作已经几十年了，从他的角度来看，行业最大的变化之一与风味及风味成分的供应有关。（Willy Wonka 威利·旺卡，电影《查理和巧克力工厂》中的角色，此处指代创意风味研发）"}
+  - {text: "He says, look around, 10, 20 years ago, a lot of the aroma chemicals you see in this lab, they didn't exist on the market.", start: 631.84, end: 639.06, explain: "\"Aroma chemicals\" are special substances that give things their smell. The speaker says that many of the smells in the lab did not exist in shops 10 or 20 years ago.", zh: "他说，看看周围，在10到20年前，你在实验室里看到的许多芳香化学物质，在市场上根本不存在。（aroma chemicals 芳香化学物质）"}
+  - {text: "So what you're looking at right here, these in our minds are colors.", start: 639.46, end: 643.30, explain: "\"In our minds\" means in our thoughts or imagination. The speaker is pointing at something and saying that we think of it as a color, but it is actually a chemical or ingredient.", zh: "所以你们现在看到的这些，在我们脑海里其实是颜色。（in our minds 在我们脑海中）"}
+  - {text: "In the old days, this either wasn't found, or it was found and no one manufactured it.", start: 643.88, end: 649.28, explain: "\"In the old days\" means in the past. \"Manufactured\" means made in a factory. The speaker says that in the past, this thing was either not found, or people found it but did not make it into a product.", zh: "在过去，这种味道要么根本不存在，要么虽然存在但没人能生产出来。（manufactured 制造，生产）"}
+  - {text: "It couldn't be, it wasn't available.", start: 649.28, end: 650.70, zh: "它不可能存在，当时根本获取不到。（available 可获得的，可用的）"}
+  - {text: "You're saying you have colors now that you didn't have access to before.", start: 651.18, end: 653.72, explain: "\"Access to\" means the chance to use or get something. The speaker asks if the listener now has colors that they could not use before.", zh: "你的意思是，现在你拥有以前接触不到的颜色了。（access to 获取，接触）"}
+  - {text: "Oh, yeah, way, way more colors.", start: 653.86, end: 656.06, explain: "\"Way, way more\" means much, much more. The speaker agrees strongly that there are many more colors now.", zh: "噢，是的，颜色多得多，多太多了。（way more 多得多，远多于）"}
+  - {text: "So here is explanation number one for why we're seeing so many new drinks with new exotic flavors.", start: 656.68, end: 663.22, explain: "\"Exotic\" means unusual or from a far-away place. The speaker is about to give the first reason why we see so many new drinks with strange flavors.", zh: "这就是为什么我们会看到这么多拥有新奇异国风味的新型饮料的第一个解释。（exotic 异国的，奇异的）"}
+  - {text: "It is that flavor science itself has been advancing.", start: 663.82, end: 667.74, explain: "\"Advancing\" means moving forward or getting better. The speaker says that the science of flavor is getting better.", zh: "原因在于风味科学本身一直在进步。（flavor science 风味科学）"}
+  - {text: "Every year, scientists are discovering interesting new flavor compounds, new scientific techniques, and new kinds of machines have made the process a lot easier.", start: 668.20, end: 677.06, explain: "\"Compounds\" are chemical substances. \"Techniques\" are methods or ways of doing something. Scientists find new chemicals and methods, and new machines make the work easier.", zh: "每年，科学家们都在发现有趣的新风味化合物、新的科学技术和新类型的机器，这让整个过程变得容易多了。（compounds 化合物）"}
+  - {text: "Also, there have been breakthroughs in how we extract flavor compounds from plants.", start: 677.06, end: 682.06, explain: "\"Breakthroughs\" are big new discoveries. \"Extract\" means to take something out of something else. There are new ways to take flavor out of plants.", zh: "此外，我们在从植物中提取风味化合物方面取得了突破。（breakthroughs 突破；extract 提取；flavor compounds 风味化合物）"}
+  - {text: "We can now isolate delicate flavors that used to get lost in the process.", start: 682.50, end: 686.46, explain: "\"Isolate\" means to separate something from other things. \"Delicate\" means very fine or easy to break. We can now keep fine flavors that used to disappear during the process.", zh: "我们现在能够分离出那些以前在加工过程中容易丢失的细腻风味。（isolate 分离；delicate 细腻的，微妙的）"}
+  - {text: "And by the way, this is really wild.", start: 686.92, end: 688.54, explain: "\"Wild\" means very surprising or exciting. The speaker says this fact is very surprising.", zh: "顺便说一句，这真的太不可思议了。（wild 疯狂的，不可思议的）"}
+  - {text: "We can now teach bacteria how to help us make some of these flavor compounds so we don't even need to harvest the fruit itself.", start: 688.76, end: 695.34, explain: "\"Bacteria\" are very small living things, like germs. \"Flavor compounds\" are chemicals that give food its taste. \"Harvest\" means to pick or collect. We can teach small living things to make taste chemicals, so we do not need to pick the fruit.", zh: "我们现在甚至能教会细菌帮我们制造这些风味化合物，连水果本身都不用采摘了。（bacteria 细菌；harvest 采摘，收获）"}
+  - {text: "All of this is to say that flavorists like Tom now have exponentially more freedom to have fun.", start: 695.90, end: 702.48, explain: "\"Flavorists\" are people who make or mix flavors. \"Exponentially\" means much more, growing very fast. People who make flavors have much more freedom to be creative now.", zh: "也就是说，像汤姆这样的调香师现在拥有指数级增长的自由空间去尽情发挥。（flavorists 调香师，风味设计师；exponentially 指数级地）"}
+  - {text: "One of the trends of the last decade has been to make exaggerated flavors or even to invent completely new fantasy flavors.", start: 703.00, end: 710.10, explain: "\"Exaggerated\" means made to look or taste much bigger or stronger than real. \"Fantasy\" means made-up, not real. In the last ten years, people have made flavors that are very strong or completely made-up.", zh: "过去十年的一个趋势是制作夸张的风味，甚至发明全新的幻想风味。（exaggerated 夸张的；fantasy flavors 幻想风味）"}
+  - {text: "It seems like what you're doing is impressionist painting.", start: 710.60, end: 715.34, explain: "\"Impressionist\" is a style of art that shows feelings and colors, not exact details. The speaker compares making flavors to this kind of painting.", zh: "你们所做的似乎就像印象派绘画一样。（impressionist 印象派的）"}
+  - {text: "Maybe it's a Jackson Pollock in some cases, right?", start: 717.84, end: 720.32, zh: "在某些情况下，这简直就像杰克逊·波洛克的作品，对吧？（Jackson Pollock 杰克逊·波洛克，美国抽象表现主义画家）"}
+  - {text: "Maybe that's what a dragon fruit is.", start: 720.66, end: 723.34, explain: "\"Dragon fruit\" is a type of fruit with red skin and white or red flesh. The speaker guesses what the taste of this fruit might be.", zh: "也许火龙果就是这样一种东西。（dragon fruit 火龙果）"}
+  - {text: "Just throw it all together and let's see how it comes out.", start: 723.42, end: 725.58, explain: "\"Throw it all together\" means to mix everything. The speaker suggests mixing everything to see the result.", zh: "把它们全混在一起，看看最后会是什么味道。（throw it all together 全部混合；comes out 呈现出的结果）"}
+  - {text: "And as these new flavor experiments have reached the market, they have been changing the American palette.", start: 725.98, end: 732.04, explain: "\"Palette\" usually means a board for paint, but here it means the range of tastes people like. New flavors are changing what Americans like to taste.", zh: "随着这些新口味实验产品进入市场，它们正在改变美国人的味蕾。（palette 此处指味蕾或口味偏好；experiments 实验）"}
+  - {text: "People realize we like these exciting flavors.", start: 732.46, end: 735.24, zh: "人们意识到我们喜欢这些令人兴奋的口味。（flavors 口味）"}
+  - {text: "We want more. And so flavor scientists go and try to find weirder flavors to isolate.", start: 735.24, end: 740.74, explain: "\"Isolate\" means to separate one thing from a mix so you can study it alone. The sentence says that because people want more new tastes, scientists look for strange flavors to separate and study.", zh: "我们想要更多。于是风味科学家就去尝试寻找并分离出更奇特的风味。（isolate 分离，提取）"}
+  - {text: "And flavor suppliers invest more in their exotic flavor supply chains.", start: 741.22, end: 744.96, explain: "\"Exotic\" means unusual or from a far-away place. \"Supply chains\" are the steps and people needed to get a product to the store. The sentence says that companies that sell flavors spend more money to get these unusual ingredients.", zh: "而风味供应商则加大对奇异风味供应链的投入。（exotic 奇异的，异域的；supply chains 供应链）"}
+  - {text: "It's kind of like this delicious cycle.", start: 745.30, end: 747.80, explain: "\"Cycle\" means a circle of events that keeps repeating. The speaker says this process is like a good loop that keeps going.", zh: "这就像是一个美味又有趣的循环。（cycle 循环）"}
+  - {text: "So that is the first explanation for why the beverage aisle has exploded with new choices, which is basically flavor science.", start: 748.46, end: 755.50, explain: "\"Beverage aisle\" is the part of a shop where you buy drinks. \"Exploded\" here means grew very fast. The sentence says that flavor science is the main reason there are so many new drinks in the shop now.", zh: "所以，这是饮料货架上新品爆发的第一个解释，基本上就是风味科学在起作用。（beverage aisle 饮料货架；exploded 爆发，激增）"}
+  - {text: "Now, when we found out that we were gonna get inside the Flavor Man labs, we thought this is an opportunity we cannot pass up.", start: 756.12, end: 764.22, explain: "\"Pass up\" means to refuse a good chance. The speakers say they were very happy to get into the labs because it was a great chance they did not want to lose.", zh: "当我们得知有机会进入 Flavor Man 的实验室时，我们觉得这是千载难逢的机会，绝不能错过。（Flavor Man 风味先生，一家饮料研发公司；pass up 放弃，错过）"}
+  - {text: "So before heading to Louisville, we asked the scientists to indulge us in a little side quest.", start: 764.22, end: 769.50, explain: "\"Indulge\" means to let someone do something they want, even if it is not the main task. \"Side quest\" is a small task done outside the main job. The speakers asked the scientists to do a small, fun task for them before going to Louisville.", zh: "所以在去路易斯维尔之前，我们请科学家们陪我们玩个小游戏。（indulge 纵容，满足；side quest 支线任务，此处指额外的小任务）"}
+  - {text: "We were like, just as an exercise, would you help us create a beverage that captures the essence of planet money?", start: 769.94, end: 776.56, explain: "\"Essence\" means the main or most important part of something. The speakers asked the scientists to make a drink that shows the true spirit of their show, Planet Money.", zh: "我们说，就当是个练习，你们能帮我们创造一款能体现《Planet Money》精髓的饮料吗？（essence 精髓，核心；Planet Money 星球金钱，NPR 的一档经济类播客节目）"}
+  - {text: "You know, one that tastes like insight and delight that sparks curiosity, maybe.", start: 777.04, end: 782.34, explain: "\"Sparks\" here means starts or causes. \"Curiosity\" is the feeling of wanting to know more. The speaker wants a drink that tastes like smart ideas and makes people want to learn more.", zh: "你知道，那种喝起来能带来洞察和喜悦，还能激发好奇心的味道。（insight 洞察，见解；delight 愉悦，欣喜）"}
+  - {text: "Over the past couple of weeks, Tom and his colleagues have been working to figure out what a planet money drink might taste like.", start: 782.90, end: 788.06, explain: "\"Colleagues\" means people who work with you. \"Figure out\" means to find the answer or understand something. The sentence says that Tom and his work friends have been trying to find out what a Planet Money drink would taste like for the last two weeks.", zh: "过去几周，汤姆和他的同事们一直在研究《Planet Money》的饮料可能是什么味道。（colleagues 同事；figure out 弄清楚，想出）"}
+  - {text: "It's the planet, right?", start: 788.38, end: 789.32, zh: "你是说星球，对吧？（planet 星球，此处指地球或宇宙）"}
+  - {text: "So you're thinking of the planet, right?", start: 789.60, end: 791.60, zh: "所以你在想的是星球，对吧？（thinking of 想着，考虑到）"}
+  - {text: "Planet money, so it's gotta be something that's global.", start: 791.60, end: 794.02, zh: "是《Planet Money》，所以它必须具有全球性。（gotta 必须，得；global 全球的，国际的）"}
+  - {text: "Tom and his team had been tinkering with some very interesting flavors, apparently, that they were eager for us to try.", start: 794.22, end: 800.74, explain: "\"Tinkering\" means trying small changes to see what happens. \"Flavors\" are the tastes of food or drinks. \"Eager\" means very excited or wanting to do something very much. Tom and his team have been trying out some interesting tastes, and they really want the listeners to try them.", zh: "显然，汤姆和他的团队一直在琢磨一些非常有趣的口味，他们很急切地想让我们尝尝。（tinkering 琢磨，尝试；flavors 口味）"}
+  - {text: "But before we get to that, there is a whole another step in the process of designing a beverage.", start: 801.22, end: 807.04, explain: "\"Beverage\" is a word for a drink, usually not alcohol. \"Process\" means the steps you take to make something. Before talking about the taste, the speaker says there is another step in making a drink.", zh: "但在讲到那之前，饮料设计过程中还有另一个完整的步骤。（beverage 饮料）"}
+  - {text: "This second step involves deciding what type of beverage you're making.", start: 807.52, end: 811.68, explain: "\"Involves\" means includes or needs. \"Type\" means kind or category. This second step is about choosing what kind of drink you are making.", zh: "这第二步涉及决定你要制作哪种类型的饮料。（type 类型）"}
+  - {text: "Because a beverage is more than just a flavor.", start: 812.02, end: 814.30, explain: "\"Beverage\" is a drink. \"Flavor\" is the taste. A drink is not only about its taste; it has other parts too.", zh: "因为饮料不仅仅是口味那么简单。（beverage 饮料）"}
+  - {text: "Nowadays, beverages need a concept, like is it an energy drink or a mocktail or an electrolyte recovery drink?", start: 814.60, end: 823.18, explain: "\"Concept\" is an idea or plan. \"Mocktail\" is a drink that looks like a cocktail but has no alcohol. \"Electrolyte\" is a salt in the body that helps with energy. Today, drinks need a specific idea, like being an energy drink or a non-alcoholic cocktail.", zh: "如今，饮料需要一个概念，比如它是能量饮料、无酒精鸡尾酒还是电解质恢复饮料？（concept 概念；mocktail 无酒精鸡尾酒；electrolyte 电解质）"}
+  - {text: "For this, we headed to see Kristen Webber.", start: 823.68, end: 826.30, explain: "\"Headed to see\" means went to meet. The reporters went to meet a person named Kristen Webber.", zh: "为此，我们去拜访了克里斯汀·韦伯。（headed to see 去拜访）"}
+  - {text: "And so we just came from the flavor lab, which is Tom's domain, and now this is your domain.", start: 826.48, end: 832.40, explain: "\"Domain\" means the area where a person works or has control. \"Flavor lab\" is a place where people test tastes. The speaker says they just left Tom's area (the flavor lab) and are now in Kristen's area.", zh: "所以我们刚从汤姆负责的风味实验室出来，现在这里是你的地盘了。（domain 领域，地盘）"}
+  - {text: "This is my domain, yep.", start: 832.42, end: 833.86, explain: "\"Domain\" means an area or subject that a person controls or is in charge of. The speaker is saying that this specific area is her responsibility.", zh: "没错，这是我的地盘。（domain 领域，地盘）"}
+  - {text: "Kristen is the chief technical officer at Flavorman.", start: 834.34, end: 836.92, explain: "A \"chief technical officer\" is the top person in a company who is in charge of all the technical and scientific work. \"Flavorman\" is the name of the company.", zh: "克里斯汀是Flavorman的首席技术官。（chief technical officer 首席技术官；Flavorman 公司名）"}
+  - {text: "She is in charge of developing new types of beverages.", start: 837.22, end: 840.34, explain: "\"Beverages\" means drinks, like water, juice, or soda. The sentence says she makes new kinds of drinks.", zh: "她负责开发各类新型饮品。（beverages 饮料）"}
+  - {text: "So whereas Tom's lab had thousands of little brown flavor bottles, Kristen's lab is stacked with ziplock bags full of various white powders.", start: 840.76, end: 850.52, explain: "\"Whereas\" means while, or on the other hand, used to compare two different things. \"Stacked\" means piled up high. \"Ziplock bags\" are plastic bags that close tight.", zh: "所以，汤姆的实验室里摆着成千上万瓶棕色的小味精，而克里斯汀的实验室里则堆满了装着各种白色粉末的密封袋。（ziplock bags 自封袋；powders 粉末）"}
+  - {text: "Is that pure caffeine?", start: 851.02, end: 852.46, explain: "\"Caffeine\" is the chemical in coffee and tea that makes you feel awake. The speaker asks if the powder is only caffeine.", zh: "那是纯咖啡因吗？（caffeine 咖啡因）"}
+  - {text: "It is. That powder?", start: 853.12, end: 854.20, explain: "This is a short answer confirming that yes, the powder is pure caffeine. It also asks about another powder.", zh: "是的。那粉末呢？"}
+  - {text: "Yeah, it is. How much of this would kill me?", start: 854.36, end: 857.22, explain: "The speaker asks how much of the caffeine powder would be dangerous or fatal for a person.", zh: "对，就是。吃多少会要我的命？"}
+  - {text: "The limit per day, I believe, is 300 milligrams, so.", start: 858.02, end: 862.80, explain: "\"Milligrams\" are a very small unit of weight, used for measuring medicine or chemicals. The speaker says the safe limit is 300 milligrams per day.", zh: "我记得每天的限量是300毫克，所以……（milligrams 毫克）"}
+  - {text: "The FDA recommends less than 400 milligrams a day.", start: 863.12, end: 865.54, zh: "FDA建议每天摄入量少于400毫克。（FDA 美国食品药品监督管理局；milligrams 毫克）"}
+  - {text: "So you're saying if I dip my pinky into it and lift it, that would probably be it.", start: 865.72, end: 870.16, explain: "\"Pinky\" is the smallest finger on your hand. The speaker asks if dipping just that one finger into the liquid would be enough to get a dose of the substance.", zh: "所以你的意思是，如果我把手指伸进去蘸一下再拿出来，那大概就是一杯的量了。（pinky 小指；dip 蘸，浸）"}
+  - {text: "That would be a serving of caffeine.", start: 870.16, end: 871.20, explain: "A \"serving\" is the amount of food or drink you usually eat or drink at one time. The speaker confirms that the small amount mentioned is one standard dose of caffeine.", zh: "那就是一杯咖啡因的摄入量。（serving 一份，一剂；caffeine 咖啡因）"}
+  - {text: "Okay, good to know.", start: 871.38, end: 872.14, zh: "好的，知道了。（good to know 了解这一点很好，知道了）"}
+  - {text: "Here in Kristen's lab, we talked about the second explanation for why there's so many more beverage options now.", start: 872.58, end: 878.20, explain: "A \"lab\" is a room or building where scientific work is done. The speaker says they are in Kristen's lab and discussing the second reason why there are so many new drinks.", zh: "在克里斯汀的实验室里，我们讨论了现在饮品选择如此多的第二个原因。（explanation 解释，原因；beverage 饮料）"}
+  - {text: "And it has to do with all the new things that people are putting into beverages these days.", start: 878.44, end: 883.00, explain: "\"Beverages\" means drinks. The speaker explains that the reason is the new ingredients people are adding to drinks these days.", zh: "这与人们如今往饮料里添加的各种新成分有关。（putting into 加入；beverages 饮料）"}
+  - {text: "Kristen says, in the beginning, most of Flavorman's clients were trying to make energy drinks, caffeinated energy drinks with a hot new beverage category in the 90s and 2000s.", start: 883.56, end: 893.56, explain: "A \"client\" is a person or company that pays for a service. \"Caffeinated\" means containing caffeine. Kristen says that at first, most of Flavorman's customers wanted to make energy drinks with caffeine, which was a popular new type of drink in the 1990s and 2000s.", zh: "克里斯汀说，起初，Flavorman 的大多数客户都在尝试制作能量饮料，也就是九十年代和二十年代那种新兴热门品类的含咖啡因能量饮料。（Flavorman 弗拉沃曼，一家香精香料公司；caffeinated 含咖啡因的）"}
+  - {text: "My favorite, by the way, was Krunk, three exclamation points.", start: 893.72, end: 896.54, explain: "An \"exclamation point\" is the symbol (!). The speaker says their favorite drink was called \"Krunk\" and the logo had three ! symbols.", zh: "顺便说一句，我最喜欢的是 Krunk，名字后面带三个感叹号。（Krunk 克鲁恩，一种能量饮料品牌；exclamation points 感叹号）"}
+  - {text: "But since then, you know, there's been the boom in seltzers, both alcoholic and non -alcoholic.", start: 896.96, end: 902.32, explain: "A \"seltzer\" is a carbonated water drink. \"Alcoholic\" means it has alcohol in it. The speaker says there has been a big increase in the popularity of seltzers, both with and without alcohol.", zh: "但自那以后，你知道的，气泡水迎来了爆发式增长，包括酒精和非酒精两种。（seltzers 气泡水；boom 爆发，激增）"}
+  - {text: "And now the hot thing is what the industry calls functional beverages.", start: 902.56, end: 906.18, explain: "\"Functional\" means the drink has a specific job, like giving you energy or helping your body in a special way. The speaker says the current trend is what the industry calls functional beverages.", zh: "现在最火的是业内所谓的“功能性饮料”。（functional beverages 功能性饮料）"}
+  - {text: "We want drinks that do something for us.", start: 906.90, end: 908.96, zh: "我们希望饮料能对我们产生一些实际作用。"}
+  - {text: "You know, like the sodas that supposedly help you relax, maybe fall asleep, or the ones that say they support your gut health.", start: 909.36, end: 915.90, explain: "\"Sodas\" are sweet, fizzy drinks. \"Gut health\" means keeping the stomach and intestines healthy. The speaker talks about drinks that promise to help you relax, sleep, or keep your stomach healthy.", zh: "比如那些号称能帮你放松、甚至助眠的汽水，或者宣称支持肠道健康的饮品。"}
+  - {text: "On one of the lab benches, we spotted a big bag of powder that said gum acacia.", start: 916.48, end: 920.40, explain: "\"Bench\" is a long table used for work in a lab. \"Gum acacia\" is a type of tree sap used in food. The reporter sees a large bag of this powder on a work table in the lab.", zh: "在其中一个实验台上，我们发现了一大袋标着“阿拉伯胶”的粉末。（gum acacia 阿拉伯胶，一种天然树胶）"}
+  - {text: "So prebiotics are really popular.", start: 920.74, end: 922.48, zh: "所以益生元现在非常流行。（prebiotics 益生元，促进肠道有益菌生长的物质）"}
+  - {text: "Gum acacia is one of the most popular prebiotics for sodas like Olipop.", start: 922.86, end: 926.98, explain: "\"Prebiotics\" are foods that help good bacteria in your gut. \"Olipop\" is a brand of soda. Gum acacia is a common ingredient in healthy sodas like Olipop.", zh: "阿拉伯胶是像Olipop这类汽水中最受欢迎的益生元之一。（Olipop 一种主打益生元的新型汽水品牌）"}
+  - {text: "These new beverage types have been huge for the industry.", start: 927.40, end: 931.08, explain: "\"Beverage\" means any drink. \"Huge\" means very big or successful. These new types of drinks have been very successful for the drink business.", zh: "这些新型饮料对行业来说表现非常强劲。"}
+  - {text: "They are one of the main reasons overall beverage sales have grown over the past decade.", start: 931.30, end: 935.42, explain: "\"Decade\" means ten years. \"Overall\" means in total. These drinks are a main reason why total drink sales went up in the last ten years.", zh: "它们是过去十年整体饮料销售额增长的主要原因之一。"}
+  - {text: "Think about it this way.", start: 935.98, end: 937.32, zh: "你可以这样想。"}
+  - {text: "The human body does not need any of this stuff, for the most part.", start: 937.74, end: 942.00, zh: "从大多数情况来看，人体其实并不需要这些东西。（for the most part 从大多数情况来看）"}
+  - {text: "We could all just be drinking water.", start: 942.24, end: 944.14, explain: "This is a simple statement. It says that we could just drink plain water instead of other drinks.", zh: "我们本来完全可以只喝水。"}
+  - {text: "But the beverage industry has figured out that if they invent new kinds of drinks, they can invent new reasons for us to not drink water and spend money on their beverages instead.", start: 944.60, end: 955.54, explain: "\"Beverage industry\" is the business that makes drinks. \"Invent\" means to create something new. The drink business creates new drinks to make people buy them instead of drinking free water.", zh: "但饮料行业发现，如果他们发明出新种类的饮料，就能找到新的理由让我们不喝水，转而花钱买他们的饮料。（beverage industry 饮料行业）"}
+  - {text: "They convinced a lot of people to skip the water fountain at the gym to reach for a Gatorade.", start: 956.08, end: 960.78, explain: "\"Skip\" means to not use or avoid something. \"Gatorade\" is a famous brand of sports drink. The sentence says that companies made many people choose a sports drink instead of plain water at the gym.", zh: "他们成功说服很多人，在健身房里不去接自来水，而是去拿一瓶佳得乐。（Gatorade 佳得乐，一种运动饮料品牌）"}
+  - {text: "And now maybe they want to replace the glass of water next to the bed with one of their new sleepy nighttime sodas.", start: 960.78, end: 967.62, explain: "\"Sleepy\" means wanting to sleep or feeling tired. \"Soda\" is a sweet, fizzy drink. The sentence suggests people might want to drink a special night-time soda to help them sleep, instead of water.", zh: "现在，他们可能还想用他们新推出的助眠夜间苏打水，来取代床头的那杯白开水。（sodas 苏打水，这里指碳酸饮料）"}
+  - {text: "This is reason number two for all the new beverage choices.", start: 967.92, end: 971.80, explain: "\"Beverage\" means any drink. The speaker says this is the second reason why there are so many new kinds of drinks on the market.", zh: "这就是出现这么多新饮料选择的第二个原因。"}
+  - {text: "This strategy of inventing new beverage types has been incredibly profitable.", start: 972.10, end: 976.82, explain: "\"Profitable\" means making a lot of money. The sentence says that creating new types of drinks has made companies very rich.", zh: "这种发明新饮料类型的策略，带来了极其丰厚的利润。（profitable 有利可图的，赚钱的）"}
+  - {text: "People are buying more and drinking more, even if there's not that much evidence that these drinks actually have noticeable health benefits.", start: 977.26, end: 984.28, explain: "\"Evidence\" means proof or facts that show something is true. \"Noticeable\" means easy to see or feel. The sentence says people are buying more drinks, even though there is not much proof that these drinks are really good for health.", zh: "人们买得更多，喝得也更多，尽管并没有太多证据表明这些饮料真的具有明显的健康益处。（evidence 证据；noticeable 明显的）"}
+  - {text: "Now, we were curious about the next generation of beverage concepts.", start: 985.16, end: 990.40, explain: "\"Curious\" means wanting to know more about something. The speakers say they wanted to learn about the next new ideas for drinks.", zh: "现在，我们对下一代饮料概念感到很好奇。（curious 好奇的；beverage 饮料）"}
+  - {text: "So, Kristen, let us try some of the projects she and her team had been working on that week.", start: 990.84, end: 994.84, zh: "所以，克里斯汀，让我们尝尝她和她团队那周正在做的一些项目吧。（projects 项目；team 团队）"}
+  - {text: "There were a bunch of mocktails.", start: 995.44, end: 997.36, explain: "\"Mocktails\" are drinks that look and taste like cocktails, but do not have alcohol in them. The sentence says there were many of these non-alcoholic drinks.", zh: "那里有一堆无酒精鸡尾酒。（mocktails 无酒精鸡尾酒）"}
+  - {text: "Those are really big right now.", start: 997.68, end: 998.74, zh: "这些现在真的非常流行。（big 流行的，热门的）"}
+  - {text: "One of them tasted exactly like in apparel spritz.", start: 999.32, end: 1002.08, explain: "The word \"apparel\" is likely a mistake in the recording; the speaker probably meant \"aperitif\" (a drink before a meal) or just a type of spritz. \"Spritz\" is a light, bubbly drink. The sentence says one of the drinks tasted exactly like a specific type of spritz.", zh: "其中一款尝起来完全像一款阿佩罗橙光鸡尾酒。（apparel 这里应为 Aperol，一种意大利利口酒；spritz 一种混合了起泡酒和利口酒的鸡尾酒）"}
+  - {text: "Oh, that is delightful.", start: 1003.47, end: 1004.77, explain: "\"Delightful\" means very nice or pleasant. The speaker is saying that something they just heard or tasted is very good.", zh: "哦，那真是太美味了。（delightful 令人愉快的，美味的）"}
+  - {text: "There was a matcha -flavored liqueur, which is weird, but kind of delicious.", start: 1005.45, end: 1009.77, explain: "\"Liqueur\" is a sweet, strong alcoholic drink. The speaker says a matcha-flavored liqueur is strange but tastes good.", zh: "还有一款抹茶风味的利口酒，虽然有点奇怪，但还挺好吃的。（matcha 抹茶；liqueur 利口酒）"}
+  - {text: "It's alcoholic? Yes. And there were also some more questionable drink concepts.", start: 1010.07, end: 1015.49, explain: "\"Questionable\" means you are not sure if it is good or bad. The speaker says there were other drinks that seemed a bit strange or risky to try.", zh: "这是含酒精的？是的。而且还有一些更让人摸不着头脑的饮品概念。（alcoholic 含酒精的；questionable 存疑的，令人怀疑的）"}
+  - {text: "We tried a non -alcoholic beer with extra protein in it, which tasted like pennies, and maybe the strangest one of all.", start: 1015.95, end: 1023.43, explain: "\"Protein\" is a part of food that helps your body grow. \"Pennies\" are small coins. The speaker says the beer tasted like metal coins, which is bad.", zh: "我们试了一款加了额外蛋白质的无酒精啤酒，喝起来像铜钱味，还有可能最奇怪的一款。（non-alcoholic 无酒精的；protein 蛋白质；pennies 铜钱，这里指金属味）"}
+  - {text: "This one is a really cool one that we just finished.", start: 1023.81, end: 1029.49, explain: "\"Cool\" means good or interesting. The speaker says they just finished drinking a very interesting drink.", zh: "这一款真的很酷，我们刚喝完。（cool 酷的，棒的）"}
+  - {text: "It is a hydration broth, a sports broth, right?", start: 1030.07, end: 1035.17, explain: "\"Hydration\" means giving your body water. \"Broth\" is a liquid made by cooking meat or vegetables. The speaker asks if it is a drink for sports that helps you stay hydrated.", zh: "这是一款补水肉汤，也就是运动肉汤，对吧？（hydration 补水；broth 肉汤，清汤）"}
+  - {text: "The drink was yellow, like Gatorade yellow, maybe a little browner, and of course, we had to try it.", start: 1035.91, end: 1042.59, explain: "\"Gatorade\" is a famous brand of sports drink. The speaker says the drink was yellow, like Gatorade, but a bit darker.", zh: "这款饮料是黄色的，像佳得乐那种黄，可能稍微深一点，当然，我们必须尝尝。（Gatorade 佳得乐，运动饮料品牌）"}
+  - {text: "It's, I don't know how to describe this.", start: 1045.61, end: 1048.03, zh: "这个……我不知道该怎么形容。（describe 描述，形容）"}
+  - {text: "It's pineapple -flavored. Tropical, there's beef broth in it.", start: 1048.37, end: 1053.73, explain: "\"Broth\" is a liquid made by cooking meat. The speaker says the drink tastes like pineapple and has beef soup in it.", zh: "它是菠萝味的，热带风味，里面还有牛肉汤。（pineapple-flavored 菠萝味的；Tropical 热带的；beef broth 牛肉汤）"}
+  - {text: "No, I'm drinking beef broth right now.", start: 1053.93, end: 1056.73, explain: "\"Beef broth\" is a soup made by cooking beef bones in water. The speaker says they are drinking this soup right now.", zh: "不，我现在正在喝牛肉汤。（beef broth 牛肉汤）"}
+  - {text: "Yeah. Pineapple -flavored beef.", start: 1057.01, end: 1058.05, zh: "是啊。菠萝味牛肉。"}
+  - {text: "It's great that you don't even know, but bone broth has the healing connotation.", start: 1058.05, end: 1065.39, explain: "\"Bone broth\" is a soup made from animal bones. \"Connotation\" means a feeling or idea that a word suggests. The speaker says people feel that bone broth is good for health.", zh: "你甚至不知道这很好，但骨汤有一种治愈的联想。（connotation 联想，含义）"}
+  - {text: "It has nutrients and protein.", start: 1066.82, end: 1069.24, explain: "\"Nutrients\" are things in food that help your body grow and stay healthy. \"Protein\" is a type of nutrient that helps build muscle. The sentence says the drink has these healthy things.", zh: "它含有营养素和蛋白质。"}
+  - {text: "There's, I don't know how else to say this, there's stuff in it.", start: 1070.36, end: 1073.50, zh: "这……我不知道该怎么说，里面有些东西。"}
+  - {text: "What's that? The broth, yeah, bone broth has some insoluble.", start: 1074.36, end: 1079.08, explain: "\"Insoluble\" means it does not mix or dissolve in liquid. The speaker is talking about parts of the bone that do not dissolve in the soup. The sentence is cut off and continues in the next one.", zh: "那是什么？汤，是的，骨汤里有一些不溶物。（insoluble 不溶的）"}
+  - {text: "Components. This is the bone, this is the bits.", start: 1080.18, end: 1082.52, explain: "\"Components\" are the parts that make up something. The speaker points to the solid pieces of bone in the soup.", zh: "成分。这是骨头，这是碎屑。（Components 成分）"}
+  - {text: "It's not the bone, it's just the bits.", start: 1083.40, end: 1085.66, zh: "不是骨头，只是碎屑。"}
+  - {text: "Now, in addition to this pineapple beef bone broth protein drink, Kristen and her colleagues had also been working on the Planet Money beverage.", start: 1086.14, end: 1094.70, explain: "\"Colleagues\" are people who work with you. \"Beverage\" is a word for a drink. The sentence says Kristen and her work team were also making a special drink for the show.", zh: "现在，除了这款菠萝牛肉骨汤蛋白饮料，克里斯滕和她的同事们还在研发《Planet Money》特饮。（colleagues 同事）"}
+  - {text: "Their job was to decide what the Planet Money drink would do.", start: 1095.26, end: 1098.70, explain: "\"Decide\" means to choose or make a plan. The speaker says their task was to choose what the show's drink would be like.", zh: "他们的工作是决定Planet Money这款饮料要做什么。"}
+  - {text: "So, do you want to go in the hydration route or the energy route, the sleep route?", start: 1099.00, end: 1105.02, explain: "\"Hydration\" means giving the body water. \"Route\" here means a direction or type. The speaker asks if the drink should help with water, energy, or sleep.", zh: "所以，你们是想走补水路线，还是能量路线，或者是助眠路线？（hydration 补水；energy 能量）"}
+  - {text: "I don't know if people use Planet Money as a sleep podcast.", start: 1105.28, end: 1107.82, zh: "我不确定人们会不会把Planet Money当助眠播客来听。"}
+  - {text: "I don't believe it.", start: 1108.00, end: 1108.88, zh: "我简直不敢相信。"}
+  - {text: "After the break, what will the Planet Money drink taste like?", start: 1108.88, end: 1113.36, zh: "广告之后，Planet Money的饮料会是什么味道？"}
+  - {text: "And how do you even launch a new beverage these days?", start: 1113.98, end: 1117.82, explain: "A \"beverage\" is a drink. \"Launch\" means to start selling a new product to the public. The speaker asks how it is possible to start selling a new drink today.", zh: "而且如今你甚至该如何推出一款新饮料呢？（beverage 饮料）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1125.78, end: 1129.60, explain: "\"Stay tuned\" means to keep listening. A \"sponsor\" is a company that pays for the show. This is a standard line before an ad break.", zh: "请留意接下来的赞助商公告和信息。"}
+  - {text: "This message comes from LinkedIn.", start: 1130.02, end: 1131.36, explain: "This is the start of an advertisement for LinkedIn, a social media site for work.", zh: "这条信息来自LinkedIn。"}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 1131.84, end: 1136.18, explain: "\"Juggling\" means doing many different tasks at the same time, like keeping balls in the air. \"Efficiently\" is not in this sentence, but the idea is that running a business is hard. The sentence says that having a small business is difficult because you must manage many things at once.", zh: "经营一家小企业充满挑战，意味着你得同时处理好多事情。（juggling 同时处理，兼顾）"}
+  - {text: "It's even harder to do it efficiently.", start: 1136.48, end: 1137.86, explain: "\"Efficiently\" means doing things well and without wasting time or money. The sentence says it is very hard to run a business in a good, fast way.", zh: "要做到高效更是难上加难。（efficiently 高效地）"}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 1138.32, end: 1142.20, zh: "但有了领英，你所需的所有成长工具都汇聚在一处。（LinkedIn 领英，职业社交网络）"}
+  - {text: "With LinkedIn, simplify your sales, marketing, and hiring.", start: 1142.58, end: 1145.86, explain: "This is part of the ad. It says LinkedIn can make selling, advertising, and finding workers easier.", zh: "通过领英，简化你的销售、营销和招聘流程。（hiring 招聘）"}
+  - {text: "So that you can actually run your small business.", start: 1145.86, end: 1148.72, zh: "这样你才能真正经营好你的小企业。"}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1149.04, end: 1152.58, explain: "This tells listeners where to go on the internet to learn more. \"Slash\" means the forward mark (/) in a web address.", zh: "访问 LinkedIn.com/slash Planet Money Show 了解更多。（slash 斜杠，网址分隔符）"}
+  - {text: "This message comes from Google Workspace with Gemini.", start: 1152.96, end: 1155.94, explain: "This is the start of another advertisement. It is for Google's work tools, which now include an AI called Gemini.", zh: "这条信息来自谷歌办公套件与 Gemini。（Gemini 谷歌的生成式人工智能模型）"}
+  - {text: "Ever noticed how every new AI tool asks you to explain your business to it all over again?", start: 1156.26, end: 1161.58, zh: "你有没有注意到，每个新的人工智能工具都要求你重新向它解释一遍你的业务？（AI 人工智能）"}
+  - {text: "Google Workspace with Gemini skips that.", start: 1161.96, end: 1164.26, explain: "\"Skips that\" means it does not do that thing. This is an ad for a computer program. It says the program does not need extra steps.", zh: "谷歌 Workspace 搭配 Gemini 则跳过了这一步。（Workspace 谷歌办公套件；Gemini 谷歌的生成式人工智能模型）"}
+  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and more, no new tools, no extra logins, just one subscription", start: 1164.60, end: 1173.50, explain: "\"Premium\" means the best or most expensive version. \"Subscription\" is a payment you make every month to use a service. This sentence says the AI is inside the paid versions of Google apps, so you do not need new tools or logins.", zh: "你无需新工具或额外登录，只需一个订阅，就能在 Gmail、Google Docs、Sheets 等高级版本中直接使用谷歌内置的 AI。（premium 高级版；Gmail 谷歌邮箱；Sheets 谷歌表格）"}
+  - {text: "that gives you personalized AI right inside your actual workflow.", start: 1173.50, end: 1177.52, explain: "\"Personalized\" means made just for you. \"Workflow\" is the way you do your daily work. This sentence says the AI helps you in your normal work tasks.", zh: "让你在实际工作流程中直接获得个性化的 AI 服务。（workflow 工作流程；personalized 个性化的）"}
+  - {text: "Try Google Workspace with Gemini at go .gle slash Workspace with Gemini.", start: 1177.90, end: 1183.34, explain: "This is a short ad telling you where to go on the internet to try the product. \"go .gle\" is a short web address.", zh: "请访问 go .gle 斜杠 Workspace with Gemini 试用谷歌 Workspace 搭配 Gemini。（go .gle 谷歌的短链接域名）"}
+  - {text: "This message comes from Capital One.", start: 1184.34, end: 1186.26, explain: "This is an ad break. It tells you who is paying for the ad.", zh: "这条信息来自 Capital One。（Capital One 美国第一资本银行）"}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 1186.54, end: 1190.24, explain: "\"Checking accounts\" are bank accounts for everyday money. \"Fees\" are extra costs. \"Minimums\" are the smallest amount of money you must keep in the account. This sentence says the bank does not charge extra money or require a minimum balance.", zh: "Capital One 提供无手续费且无最低余额要求的支票账户。（checking accounts 支票账户；minimums 最低余额要求）"}
+  - {text: "What's in your wallet?", start: 1190.32, end: 1191.26, zh: "你的钱包里有什么？"}
+  - {text: "Terms apply. See CapitalOne .com slash Bank Guy for details.", start: 1191.56, end: 1195.60, explain: "\"Terms apply\" means there are rules you must follow. This is a legal note for the ad.", zh: "适用条款详见 CapitalOne .com 斜杠 Bank Guy。（Terms apply 适用特定条款；Bank Guy 该广告系列的特定标识或人物）"}
+  - {text: "Capital One NA, member FDIC.", start: 1196.08, end: 1198.26, zh: "Capital One NA，FDIC成员。（Capital One NA 第一资本银行；FDIC 美国联邦存款保险公司）"}
+  - {text: "There is a third and final reason for why there's been an explosion in new types of drinks and new types of drink flavors.", start: 1199.48, end: 1206.88, explain: "\"Explosion\" here means a very fast and big increase. This sentence says there is a third reason why so many new drinks and flavors are appearing now.", zh: "还有一个最终的原因，解释了为什么新饮料类型和新口味会爆发式增长。（explosion 爆发，激增）"}
+  - {text: "And this is a big one.", start: 1207.30, end: 1208.78, explain: "\"Big one\" means a very important thing or a major point. The speaker says this next part is very important.", zh: "这一点非常关键。（big one 大事，关键点）"}
+  - {text: "It has to do with a major shift in how new drinks get onto the market.", start: 1209.18, end: 1213.40, zh: "这与新饮料如何进入市场发生了重大转变有关。（shift 转变，变化）"}
+  - {text: "To understand that, we headed upstairs to meet the guy who created Flaverman.", start: 1213.96, end: 1219.28, explain: "\"Headed\" means went or moved to a place. \"Flaverman\" is the name of a drink company. The team went up to the next floor to talk to the man who started Flaverman.", zh: "为了理解这一点，我们上楼去见了创造Flaverman的人。（Flaverman 风味大师，指该节目中的角色或人物）"}
+  - {text: "You are the Flaverman.", start: 1219.72, end: 1221.02, zh: "你就是Flaverman。（Flaverman 风味大师）"}
+  - {text: "I'm the Flaverman, Dave Defoe.", start: 1221.26, end: 1222.46, zh: "我是Flaverman，Dave Defoe。（Flaverman 风味大师；Dave Defoe 戴夫·德福，人名）"}
+  - {text: "Nice to meet you.", start: 1222.68, end: 1223.20, zh: "很高兴见到你。（Nice to meet you 很高兴见到你）"}
+  - {text: "Dave Defoe has been in the beverage game for almost 40 years.", start: 1223.52, end: 1226.32, explain: "\"Beverage\" means a drink, like water, juice, or soda. \"Game\" here means the business or industry. Dave Defoe has worked in the drink business for almost 40 years.", zh: "戴夫·德福在饮料行业已经干了快四十年了。（beverage 饮料；game 行业，领域）"}
+  - {text: "He says when he started Flaverman back in the 90s, the beverage industry looked a lot different.", start: 1226.66, end: 1231.44, explain: "\"90s\" means the 1990s, a decade in the past. \"Beverage industry\" means the business of making and selling drinks. He says the drink business was very different when he started Flaverman in the 1990s.", zh: "他说，九十年代他创办Flaverman的时候，饮料行业的面貌大不相同。（Flaverman 弗拉弗曼，一家饮料公司；back in the 90s 在九十年代）"}
+  - {text: "In the old days, as I call it, it was dominated by big companies.", start: 1231.88, end: 1235.36, explain: "\"Dominated\" means controlled or had the most power. \"Big companies\" are large businesses. In the past, large businesses controlled the market.", zh: "在我所说的旧时代，这个行业是由大公司主导的。（dominated by 由……主导；big companies 大公司）"}
+  - {text: "It was really just Coke and Pepsi for soft drinks.", start: 1235.58, end: 1238.66, explain: "\"Soft drinks\" means sweet drinks that are not alcohol, like cola. The main sweet drinks were just Coke and Pepsi.", zh: "软饮料基本上就只有可乐和百事。（soft drinks 软饮料，指非酒精饮料；Coke 可乐；Pepsi 百事）"}
+  - {text: "Dave says back then, it was hard for upstarts to compete with the large established drink companies.", start: 1239.18, end: 1244.58, explain: "\"Upstarts\" means new companies or people who are just starting. \"Established\" means old and well-known. It was hard for new companies to fight against the big, old drink companies.", zh: "戴夫说，那时候新创企业很难与那些老牌大型饮料公司竞争。（upstarts 新创企业，初创公司；established 老牌的，既有的）"}
+  - {text: "They were pretty high barriers to entry for bottling your own soda.", start: 1245.00, end: 1248.96, explain: "\"Barriers to entry\" means the hard things that stop new people from starting a business. \"Bottling\" means putting drinks into bottles. It was very hard to start your own soda business because of these high barriers.", zh: "想要自己灌装汽水，入门门槛相当高。（barriers to entry 入门门槛；bottling 灌装，装瓶）"}
+  - {text: "The biggest obstacle? Where were you gonna manufacture it at?", start: 1249.50, end: 1252.42, explain: "An \"obstacle\" is a problem that stops you from doing something. \"Manufacture\" means to make a product in a factory. The speaker asks where a new drink would be made, as this was the main problem.", zh: "最大的障碍是什么？你打算在哪里生产呢？（obstacle 障碍；manufacture 生产，制造）"}
+  - {text: "Because all these big companies own their own plants and they did their own manufacturing.", start: 1252.76, end: 1256.50, zh: "因为所有大公司都拥有自己的工厂，并且自行负责生产。（plants 工厂；manufacturing 生产，制造）"}
+  - {text: "And there were just a few contract manufacturers around the country where you could go as an independent and get your product bottled or canned.", start: 1257.06, end: 1265.10, explain: "A \"contract manufacturer\" is a company that makes products for other companies for a fee. \"Independent\" here means a small business owner who does not work for a big company. The sentence says there were only a few factories where small owners could have their drinks put into bottles or cans.", zh: "当时全国只有少数几家合同制造商，独立品牌商可以去那里把产品装瓶或装罐。（contract manufacturers 合同制造商；independent 独立品牌商）"}
+  - {text: "And these bottling or canning lines, they usually had really high minimum orders.", start: 1265.32, end: 1270.06, explain: "A \"minimum order\" is the smallest amount of product a factory will make for you. The sentence says these factories required you to order a very large amount before they would start work.", zh: "这些装瓶或装罐生产线通常都有很高的最低起订量。（minimum orders 最低起订量）"}
+  - {text: "Dave says to get anything started, you usually had to make at least a full truckload.", start: 1270.48, end: 1274.34, explain: "A \"truckload\" is the amount of goods that fits in one large truck. \"Dave\" is the person speaking. He says you usually had to order enough product to fill a whole truck to start.", zh: "戴夫说，要想开始生产，通常至少得订满一卡车货。（truckload 一卡车货）"}
+  - {text: "That's like 12 ,000 cases, more than a quarter million cans of soda.", start: 1274.62, end: 1279.32, explain: "A \"case\" is a box that holds many cans or bottles. \"Quarter\" means one-fourth. The sentence explains that a full truckload is about 12,000 boxes, which is more than 250,000 cans of soda.", zh: "这大概相当于12,000箱，也就是超过25万罐汽水。（cases 箱，包装单位）"}
+  - {text: "So say you're a new brand owner.", start: 1279.56, end: 1281.04, zh: "假设你是一个新品牌的所有者。（brand owner 品牌所有者）"}
+  - {text: "You can't afford to make 12 ,000 cases of your energy drink.", start: 1281.40, end: 1287.00, zh: "你负担不起生产12,000箱能量饮料的费用。（energy drink 能量饮料）"}
+  - {text: "You're new, you wanna make 1 ,000 cases and see if you can sell them.", start: 1287.40, end: 1291.06, zh: "你是新手，只想先做1,000箱看看能不能卖出去。（cases 箱，包装单位）"}
+  - {text: "But then, around the 2010s, a new trend changed that business model.", start: 1291.06, end: 1295.88, explain: "A \"trend\" is a new way of doing things that many people follow. \"Business model\" means the way a company makes money. The sentence says that in the 2010s, a new trend changed how this industry worked.", zh: "但到了2010年代左右，一种新趋势改变了这种商业模式。（business model 商业模式）"}
+  - {text: "All of a sudden, you know, there were all these small breweries popping up all over.", start: 1296.14, end: 1299.78, explain: "A \"brewery\" is a place where beer is made. \"Popping up\" means appearing quickly in many places. The sentence says that suddenly, many small beer factories opened all over the country.", zh: "突然之间，你知道的，到处都是小型啤酒厂冒了出来。（breweries 啤酒厂；popping up 涌现，突然出现）"}
+  - {text: "The microbrewery trend. The microbreweries, the brew pubs, all of those things, they were popping up in every city and multiple breweries in every city.", start: 1300.06, end: 1308.80, explain: "A \"microbrewery\" is a very small place that makes beer. \"Popping up\" means appearing quickly in many places. This sentence says that small beer places started to appear in many cities.", zh: "就是精酿啤酒这股风潮，那些微型啤酒厂、酿酒酒吧之类的，在每个城市都遍地开花，每个城市都有好几家。（microbrewery 微型啤酒厂；brew pubs 酿酒酒吧）"}
+  - {text: "They were everywhere. This boom in craft beer created thousands of little breweries.", start: 1309.20, end: 1314.52, explain: "A \"boom\" is a time when something grows very fast. This sentence says that the fast growth of special beer made many small beer places.", zh: "它们无处不在。精酿啤酒的繁荣催生了几千家小型啤酒厂。（craft beer 精酿啤酒；boom 繁荣，激增）"}
+  - {text: "Most of them weren't doing their own bottling or canning.", start: 1314.80, end: 1317.50, explain: "\"Bottling\" means putting liquid into glass bottles. \"Canning\" means putting liquid into metal cans. This sentence says that most small places did not pack their beer into bottles or cans themselves.", zh: "其中大多数并没有自己进行装瓶或灌装。（bottling 装瓶；canning 灌装）"}
+  - {text: "A lot of them had excess capacity.", start: 1317.84, end: 1319.84, explain: "\"Excess capacity\" means having more room or machines than you need. This sentence says that many places had extra space or tools that were not being used.", zh: "很多厂都有过剩的产能。（excess capacity 过剩产能）"}
+  - {text: "So they were happy to rent out their canning lines for small jobs.", start: 1319.84, end: 1323.62, explain: "A \"canning line\" is a machine that puts beer into cans. This sentence says that they were glad to let other small groups use their machines for small tasks.", zh: "所以它们很乐意把灌装线租出去，接一些小型订单。（canning lines 灌装线）"}
+  - {text: "And in recent years, as people are drinking less and less alcohol, these craft breweries have even more excess capacity.", start: 1324.10, end: 1330.64, explain: "\"Excess capacity\" means having more room or machines than you need. This sentence says that because people drink less alcohol now, these places have even more unused space.", zh: "近年来，随着人们饮酒量越来越少，这些精酿啤酒厂的过剩产能就更多了。（excess capacity 过剩产能）"}
+  - {text: "Dave says there are now plenty of places, not just microbreweries, willing to do a tiny run for a new drink brand.", start: 1331.14, end: 1338.52, zh: "戴夫说，现在有很多地方，不仅仅是微型啤酒厂，都愿意为新饮料品牌做小批量生产。（tiny run 小批量生产）"}
+  - {text: "The barrier to entry has lowered significantly.", start: 1338.84, end: 1341.90, explain: "The \"barrier to entry\" is how hard it is to start a new business. This sentence says that it is much easier to start a new business now.", zh: "进入门槛已经显著降低了。（barrier to entry 进入门槛；significantly 显著地）"}
+  - {text: "We asked Dave to walk us through the math nowadays.", start: 1342.46, end: 1344.94, explain: "\"Walk us through\" means to explain the steps clearly. This sentence says they asked Dave to explain the numbers and calculations for today.", zh: "我们请戴夫带我们算一算现在的账。（walk us through 带我们了解；math 计算，账目）"}
+  - {text: "How much are new drink brands paying to manufacture their new beverages?", start: 1345.52, end: 1349.36, explain: "\"Manufacture\" means to make a product in a factory. \"Beverages\" means drinks. The speaker asks how much it costs for new drink companies to make their drinks.", zh: "新饮料品牌现在要花多少钱来生产它们的新饮品？（beverages 饮料）"}
+  - {text: "Start with the ingredients, which usually aren't that expensive.", start: 1349.90, end: 1352.60, zh: "先从原料开始，通常这些原料并不贵。（ingredients 原料）"}
+  - {text: "After all, your typical soda or seltzer or energy drink is mostly water.", start: 1352.92, end: 1356.62, explain: "\"Seltzer\" is a type of carbonated water, like sparkling water. \"Energy drink\" is a drink that gives you energy, like Red Bull. The sentence says that most common drinks are just water.", zh: "毕竟，普通的汽水、苏打水或能量饮料大部分都是水。（seltzer 苏打水）"}
+  - {text: "Dave says the flavoring and sweeteners and other ingredients might add up to like 20, 30 cents per can.", start: 1357.06, end: 1362.76, explain: "\"Flavoring\" means things that give a drink a taste. \"Sweeteners\" are things that make a drink sweet. \"Ingredients\" are the parts used to make the drink. Dave says these parts cost about 20 to 30 cents for one can.", zh: "戴夫说，调味剂、甜味剂和其他原料加起来可能每罐只要两到三毛钱。（flavoring 调味剂；sweeteners 甜味剂）"}
+  - {text: "Then there are the cans themselves.", start: 1363.32, end: 1365.16, zh: "然后是罐子本身。（cans 罐子）"}
+  - {text: "Back in the day, a reasonable price might have been 10 cents per can.", start: 1365.58, end: 1368.60, zh: "在过去，每罐的合理价格可能只要一毛钱。（Back in the day 在过去）"}
+  - {text: "Now it's more like 20 cents due to inflation in the aluminum tariffs.", start: 1368.90, end: 1372.14, explain: "\"Inflation\" means that prices go up over time. \"Tariffs\" are taxes on things that are brought into a country. The cost is now about 20 cents because of higher prices and taxes on aluminum.", zh: "由于铝材关税导致通胀，现在的成本已经涨到大约20美分了。（inflation 通货膨胀；aluminum 铝；tariffs 关税）"}
+  - {text: "Finally, there is the actual manufacturing of the drink where the factory takes your beverage flavor concentrate, mixes it up with carbonated water and other ingredients and puts it in the can.", start: 1372.76, end: 1382.72, explain: "\"Manufacturing\" means making the product. \"Concentrate\" is a strong liquid that you mix with water to make the drink. \"Carbonated\" means it has bubbles in it. This part is about the factory mixing the strong liquid with bubbly water and putting it in the can.", zh: "最后是饮料的实际生产环节，工厂会将你的饮料风味浓缩液与碳酸水及其他配料混合，然后灌装进罐中。（manufacturing 制造；beverage 饮料；concentrate 浓缩液；carbonated 碳酸的）"}
+  - {text: "All that can cost another 20 -ish cents per can.", start: 1383.04, end: 1385.88, explain: "\"-ish\" means about or roughly. This part of the process costs about 20 cents per can.", zh: "这些罐装成本每罐大约还要再花20美分左右。（canning 罐装；per can 每罐）"}
+  - {text: "Dave says a rule of thumb is that they try to aim for a total cost of around 60 cents per can, though there also aren't D", start: 1386.32, end: 1393.22, explain: "\"Rule of thumb\" is a simple way to estimate something. \"Aim for\" means to try to reach a goal. Dave says they try to keep the total cost to about 60 cents per can. The sentence is cut off at the end.", zh: "戴夫说，经验法则是他们试图将每罐的总成本控制在60美分左右，不过除此之外还有……（rule of thumb 经验法则；aim for 瞄准，试图达到）"}
+  - {text: "and shipping and other costs on top of that.", start: 1393.22, end: 1394.72, explain: "\"Shipping\" means moving goods from one place to another. There are extra costs for moving the cans and other things on top of the making cost.", zh: "还有运输等其他费用。（shipping 运输）"}
+  - {text: "Now, what's fun is that nowadays, there are even some canning lines that are willing to do tiny little test runs.", start: 1394.98, end: 1401.96, explain: "A \"canning line\" is a machine that puts drinks into cans. A \"test run\" is a small trial to see if the machine works. The speaker says it is good that machines are now ready to make just a few cans to test a new idea.", zh: "有趣的是，如今甚至有一些罐装生产线愿意进行小规模试产。（canning lines 罐装生产线；test runs 试产，试运行）"}
+  - {text: "The cost per can goes up, of course, but if you just want a couple thousand cans of your drink, it'll only cost a few thousand dollars.", start: 1402.32, end: 1409.74, zh: "当然，单罐成本会上升，但如果你只想生产几千罐饮料，花费也就只有几千美元。（per can 每罐）"}
+  - {text: "That sounds, that sounds cheap.", start: 1410.10, end: 1412.60, zh: "听起来，这听起来很便宜。"}
+  - {text: "That sounds very easy to do.", start: 1412.98, end: 1416.02, zh: "听起来这做起来很容易啊。"}
+  - {text: "It is, but most people don't know they can do it.", start: 1416.76, end: 1418.62, explain: "This sentence is a short answer to a question. It means that yes, it is possible, but most people do not know that they can do this thing.", zh: "确实如此，但大多数人不知道他们其实能做到。"}
+  - {text: "This is the final reason why so many new drinks are crowding the beverage aisle these days because the barriers to entry are lower.", start: 1419.04, end: 1427.58, explain: "A \"beverage aisle\" is the part of a shop where drinks are sold. \"Barriers to entry\" are the hard things that stop new people from starting a business. The speaker says new drinks are everywhere because it is easier to start a drink business now.", zh: "这是如今饮料货架上新品层出不穷的最后一个原因，因为进入门槛降低了。（beverage aisle 饮料货架；barriers to entry 进入门槛）"}
+  - {text: "It is now easier than ever for anybody to start a beverage brand.", start: 1428.06, end: 1431.82, explain: "A \"beverage brand\" is a name for a type of drink. The sentence says that it is now very easy for any person to start a new drink company.", zh: "现在，任何人创立一个饮料品牌都比以往任何时候都更容易了。（beverage brand 饮料品牌）"}
+  - {text: "And that has made the beverage game way more competitive.", start: 1432.18, end: 1434.96, explain: "The \"beverage game\" is the business of selling drinks. \"Competitive\" means many companies are trying to win customers. The speaker says the drink business is now much harder because there are so many companies.", zh: "这使得饮料行业的竞争变得异常激烈。（competitive 竞争的）"}
+  - {text: "Now, it's still pretty hard to succeed in the beverage industry.", start: 1435.38, end: 1438.58, explain: "To \"succeed\" means to do well and make money. The speaker says that even though it is easier to start, it is still very hard to make a drink business work well.", zh: "不过，在饮料行业取得成功依然很难。"}
+  - {text: "You need a marketing strategy.", start: 1438.88, end: 1440.34, zh: "你需要一套营销策略。（marketing strategy 营销策略）"}
+  - {text: "It helps to have a celebrity backer.", start: 1440.60, end: 1442.86, explain: "A \"backer\" is a person who gives money or support to a business. A \"celebrity\" is a famous person. The speaker says it is helpful to have a famous person support your drink business.", zh: "如果有名人站台支持会有帮助。（backer 支持者，投资人）"}
+  - {text: "You also need to fight for a slot on the grocery store shelves.", start: 1443.08, end: 1446.52, explain: "A \"slot\" is a specific place on a shelf. You must fight to get your drink put on the shelves in the store.", zh: "你还得争取在超市货架上占个位置。（slot 位置，档期）"}
+  - {text: "But over the past decade, upstart drink brands have managed to take market share away from the Cokes and Pepsi's of the world.", start: 1446.90, end: 1454.10, explain: "\"Upstart\" means a new company that is trying to beat older, bigger companies. \"Market share\" is the part of all the sales that a company gets. The sentence says that new drink companies have sold more drinks than the big old brands like Coke and Pepsi in the last ten years.", zh: "但在过去十年里，新兴饮料品牌成功从可口可乐和百事可乐这类巨头手中抢走了市场份额。（upstart 新兴的，初出茅庐的；market share 市场份额）"}
+  - {text: "And in this economy, that is kind of unusual.", start: 1454.56, end: 1457.96, explain: "\"Economy\" here means the current state of the money system and business. The speaker says that it is not common for new companies to do well in this kind of economic situation.", zh: "而在当前的经济环境下，这种情况其实挺不寻常的。（economy 经济环境）"}
+  - {text: "There are not that many industries where newcomers are finding it easier to challenge the Goliaths.", start: 1458.58, end: 1464.06, explain: "\"Newcomers\" are new people or companies entering a field. \"Goliaths\" are very large and powerful companies. The speaker says that it is rare for new companies to challenge the big ones easily.", zh: "很少有行业能让新进入者更容易地挑战那些巨头。（Goliaths 巨人，指行业巨头）"}
+  - {text: "Another example might be the music industry where over the past 10, 20 years, the barriers to entry have also fallen.", start: 1464.06, end: 1470.76, explain: "\"Barriers to entry\" are the hard things that stop new people from starting a business in a field. The speaker says that in the music industry, it is easier to start now than before.", zh: "另一个例子可能是音乐行业，在过去一二十年里，进入门槛也降低了。（barriers to entry 进入门槛）"}
+  - {text: "Now anybody, right, can record an album on their laptop, put it on Spotify.", start: 1471.28, end: 1475.30, explain: "\"Record\" here means to make a sound file of music. \"Spotify\" is a popular app for listening to music. The sentence means that anyone can make music on a computer and put it on this app.", zh: "现在任何人都可以在笔记本电脑上录制专辑，然后上传到Spotify。（Spotify 斯波蒂法，流媒体音乐平台）"}
+  - {text: "I mean, Planet Money put a song on Spotify.", start: 1475.68, end: 1477.80, zh: "我是说，Planet Money节目组也在Spotify上发过歌。（Planet Money 星球金钱，NPR的一档经济类播客节目）"}
+  - {text: "When barriers to entry fall, what consumers get is variety, more choices.", start: 1478.38, end: 1484.30, explain: "\"Barriers to entry\" are the hard things that stop new people from starting a business. \"Variety\" means many different types of things. The speaker says that when it is easy to start a business, customers get more different choices.", zh: "当进入门槛降低时，消费者得到的是多样性，也就是更多的选择。（variety 多样性，种类）"}
+  - {text: "Economists like to say having more choices increases consumer welfare because it makes people happy to have options that are tailored to our own unique tastes.", start: 1484.94, end: 1494.26, explain: "\"Consumer welfare\" means how happy and well-off customers are. \"Tailored\" means made to fit a specific person's needs. The sentence says that having more choices makes people happier because the choices fit their own tastes.", zh: "经济学家常说，选择越多消费者福利就越高，因为能根据自己的独特口味挑选产品会让人更开心。（consumer welfare 消费者福利；tailored 量身定制的）"}
+  - {text: "Right now, we are getting a lot of new interesting artists and new interesting sodas.", start: 1494.74, end: 1500.62, explain: "\"Sodas\" are sweet fizzy drinks. The speaker says that right now, we are seeing many new musicians and many new types of soda drinks.", zh: "眼下，我们正迎来许多新颖有趣的艺术家和汽水。（sodas 汽水）"}
+  - {text: "Though whether anyone needs any of these new sodas, who knows?", start: 1501.06, end: 1505.06, explain: "\"Sodas\" means sweet fizzy drinks. \"Who knows\" is a phrase used when you do not have an answer. The speaker asks if people really need these new drinks, but admits they do not know the answer.", zh: "不过，到底有没有人需要这些新汽水，谁也不知道呢？"}
+  - {text: "Speaking of fun new sodas that nobody asked for, it was finally time to try the Planet Money Soda.", start: 1505.88, end: 1513.80, explain: "\"Speaking of\" means talking about a topic. \"Nobody asked for\" means people did not want it. The host says it is time to try the special drink made for the show.", zh: "说到那些没人点单却很有趣的新汽水，终于该尝尝 Planet Money 汽水了。（Planet Money 行星金钱，BBC 经济节目名）"}
+  - {text: "So this is it?", start: 1514.30, end: 1515.68, explain: "\"So this is it\" means this is the moment or the thing we were waiting for. The speaker is asking if they are finally ready to taste the drink.", zh: "所以这就是它？"}
+  - {text: "This is it. This is where you find out what Planet Money tastes like.", start: 1516.10, end: 1519.34, explain: "\"This is it\" means this is the main moment. The speaker says this is where you will learn the taste of the show's drink.", zh: "没错，就是它。在这里你就能知道 Planet Money 是什么味道了。（Planet Money 行星金钱，BBC 经济节目名）"}
+  - {text: "I was in the Flavor Man tasting room with Tom and Kristen and members of their team.", start: 1519.34, end: 1524.42, explain: "\"Flavor Man\" is the name of the company. \"Tasting room\" is a place where people try new drinks. The reporter was in that room with the team.", zh: "当时我在 Flavor Man 的品鉴室里，和 Tom、Kristen 以及他们的团队成员在一起。（Flavor Man 风味先生，品牌名；tasting room 品鉴室）"}
+  - {text: "On the table in front of us were a dozen silver cans of the prototype Planet Money beverage.", start: 1524.86, end: 1531.56, explain: "\"A dozen\" means twelve. \"Prototype\" means a first model or test version. \"Beverage\" is a word for a drink. There were twelve test cans on the table.", zh: "我们面前的桌上摆着一打银色的 Planet Money 饮料原型罐。（prototype 原型；beverage 饮料）"}
+  - {text: "Here we go. Cheers, guys.", start: 1532.02, end: 1533.60, explain: "\"Cheers\" is a word we say when we raise a glass to drink together. The speaker is ready to start tasting.", zh: "好了，开始吧。干杯，各位。"}
+  - {text: "Planet Money. What do you think, refreshing?", start: 1534.92, end: 1538.01, explain: "\"Refreshing\" means cool and nice to drink, especially when you are hot or tired. The speaker asks if the drink tastes good and fresh.", zh: "《金钱星球》。你们觉得怎么样，清爽吗？"}
+  - {text: "Very refreshing, very light.", start: 1538.67, end: 1540.71, explain: "\"Refreshing\" means it makes you feel cool and awake. \"Light\" means it is not heavy or strong. The speaker says the drink feels cool and easy to drink.", zh: "非常清爽，口感很轻盈。（light 轻盈，清淡）"}
+  - {text: "And it's bright too, it's like a zingy.", start: 1541.97, end: 1543.81, zh: "而且味道很明亮，有一种清新的感觉。（zingy 清新，有活力）"}
+  - {text: "That's so good. There was definitely a citrusy note to it, but it wasn't orange, it wasn't a familiar citrus.", start: 1544.11, end: 1551.57, explain: "A \"citrusy note\" is a taste or smell like lemons or oranges. \"Familiar\" means you know it well. The speaker tastes a fruit flavor, but it is not a common one like orange.", zh: "太棒了。确实有一种柑橘的香气，但不是橙子，也不是那种常见的柑橘味。（citrusy 柑橘味的）"}
+  - {text: "Tom says it was yuzu.", start: 1552.05, end: 1553.73, explain: "\"Yuzu\" is a type of small, sour citrus fruit. Tom says the flavor in the drink is yuzu.", zh: "汤姆说那是柚子。（yuzu 柚子，一种日本柑橘）"}
+  - {text: "Yuzu is a really trendy flavor right now, traditionally used in Japan, a cousin to the orange that is more complex and floral.", start: 1554.15, end: 1562.17, explain: "\"Trendy\" means many people like it now. \"Floral\" means it smells like flowers. Yuzu is a fruit from Japan that tastes more like flowers than a normal orange.", zh: "柚子现在是非常流行的口味，传统上用于日本料理，它是橙子的近亲，味道更复杂且带有花香。（floral 花香的）"}
+  - {text: "So it explodes in a lot of different directions.", start: 1562.45, end: 1564.25, zh: "所以它的味道会在很多不同的方向上爆发开来。（explodes 爆发，迸发）"}
+  - {text: "You get all different kinds of top notes, it's delicious.", start: 1564.45, end: 1566.17, explain: "\"Top notes\" are the first smells you notice in a drink or perfume. The speaker says the drink has many different first smells and tastes good.", zh: "你能尝到各种各样的前调，味道非常美味。（top notes 前调，指饮品或香水最先闻到的气味）"}
+  - {text: "There were also notes of elderberry, which is really popular in Europe.", start: 1566.71, end: 1570.07, explain: "\"Elderberry\" is a dark fruit used in food and drinks. The speaker says the drink also tastes like elderberry, which many people in Europe like.", zh: "还有接骨木花的香气，这在欧洲非常流行。（notes 风味；elderberry 接骨木花）"}
+  - {text: "It's like an earthy blackberry.", start: 1570.39, end: 1571.95, explain: "\"Earthy\" means it tastes like soil or nature. The speaker compares the taste to a blackberry that smells like the ground.", zh: "它就像一种带有泥土气息的黑莓。（earthy 泥土气息的，形容带有大地或泥土味道的）"}
+  - {text: "Tom said we wanted to give you flavors that were global and exotic, but also approachable.", start: 1572.35, end: 1577.69, explain: "\"Exotic\" means it comes from a far-away place. \"Approachable\" means it is easy to like. Tom says they wanted flavors from around the world that are new but still easy to enjoy.", zh: "汤姆说，我们想给你们带来既具有全球特色又显得异域风情，但同时容易接受的味道。（exotic 异国情调的；approachable 容易接受的，亲切的）"}
+  - {text: "As for the functional, quote unquote, good for you part of the beverage, Katie Clark, the R &D director, told us, oh, this isn't just a soda,", start: 1578.13, end: 1586.17, explain: "\"Functional\" means the drink has a special job, like helping your body. \"Quote unquote\" is a way to say a phrase is used in a funny or not serious way. \"R &D\" means research and development, which is making new things. The sentence is cut off at the end.", zh: "至于这款饮料中所谓“有益健康”的功能性部分，研发总监凯蒂·克拉克告诉我们：“噢，这不仅仅是一瓶汽水，”（functional 功能性的；R&D 研发，Research and Development）"}
+  - {text: "what you're actually drinking is a yuzu elderberry sparkling coconut water.", start: 1586.57, end: 1592.37, explain: "\"Yuzu\" is a type of Japanese citrus fruit. \"Elderberry\" is a dark berry used in health drinks. \"Sparkling\" means it has bubbles, like soda. This sentence lists the many ingredients in the drink.", zh: "你实际喝到的是一瓶柚子接骨木花气泡椰子水。（yuzu 柚子，一种柑橘类水果；elderberry 接骨木花）"}
+  - {text: "So coconut water is really hot right now.", start: 1592.73, end: 1594.37, explain: "\"Hot\" means very popular or fashionable right now. This sentence says that coconut water is very popular at the moment.", zh: "所以现在椰子水非常火。（hot 热门的，流行的）"}
+  - {text: "Coconut water is a natural way to bring electrolytes to a beverage.", start: 1594.87, end: 1598.23, explain: "\"Electrolytes\" are minerals that help your body work, especially when you sweat. This sentence says coconut water is a natural way to add these minerals to a drink.", zh: "椰子水是一种天然的方式，可以为饮料补充电解质。（electrolytes 电解质，维持身体水分平衡的矿物质）"}
+  - {text: "It mostly contains potassium, but there are some sodium and magnesium in there too.", start: 1598.55, end: 1603.07, explain: "\"Potassium\" is a mineral that helps your heart and muscles. \"Sodium\" is the main part of salt. \"Magnesium\" is another mineral for your body. This sentence lists the minerals found in coconut water.", zh: "它主要含有钾，但也含有一些钠和镁。（potassium 钾；sodium 钠；magnesium 镁）"}
+  - {text: "So this is like every single thing that's hot right now in the world of beverages.", start: 1603.27, end: 1607.27, explain: "\"Hot\" means very popular. This sentence says the drink has all the popular trends in the drink world right now.", zh: "所以这就像是当下饮料界所有最热门的东西。（beverages 饮料）"}
+  - {text: "A little bit, yeah.", start: 1607.99, end: 1608.63, zh: "有一点，是的。"}
+  - {text: "Couple things, yeah. You gave us the everything bagel soda.", start: 1608.71, end: 1613.17, explain: "\"Everything bagel\" is a type of bread with many seeds and grains on top. This sentence refers to a soda that tastes like that bread. The speaker is listing things they have discussed.", zh: "有几样东西，是的。你给我们带来了全麦贝果苏打水。（bagel 贝果）"}
+  - {text: "In a beverage, yes.", start: 1613.57, end: 1613.97, explain: "A \"beverage\" is a drink. The speaker confirms that the item is a drink.", zh: "在饮料里，是的。"}
+  - {text: "But then they were like, we have one more thing we want you to try, because you told us planet money is full of surprises, right?", start: 1614.53, end: 1622.43, explain: "The speaker says the people had one more thing to show. \"Planet Money\" is the name of the show. The sentence is a bit long and informal.", zh: "但他们说，还有一样东西想让你尝尝，因为你说过《Planet Money》充满了惊喜，对吧？（Planet Money 节目名《Planet Money》）"}
+  - {text: "So we have a surprise for you.", start: 1622.89, end: 1624.69, zh: "所以我们有一个惊喜给你。"}
+  - {text: "Monica Horn, one of the senior beverage designers, brought out a second version of the planet money drink, this one with an extra special secret ingredient.", start: 1625.21, end: 1633.83, explain: "A \"beverage designer\" is a person who makes new drinks. \"Senior\" means she has a high job level. \"Ingredient\" is a part of the food or drink.", zh: "Monica Horn，一位资深饮料设计师，拿出了《Planet Money》饮料的第二版，这一版里加了一种特别神秘的配料。（senior beverage designers 资深饮料设计师；ingredient 配料）"}
+  - {text: "It might hit you in like 10 seconds after you taste it, so.", start: 1633.83, end: 1637.15, zh: "这种味道可能会在你尝到十秒后突然袭来。（hit you 袭来，突然影响；taste 品尝）"}
+  - {text: "Yeah, just let it.", start: 1638.02, end: 1639.46, zh: "对，就让它那样吧。（let it 顺其自然，不干预）"}
+  - {text: "We'll talk about it after you taste it.", start: 1639.48, end: 1640.74, zh: "等你尝过之后我们再讨论。（taste 品尝）"}
+  - {text: "Yeah, yeah, yeah, yep.", start: 1640.74, end: 1641.86, explain: "This is just a person saying yes many times to show they are listening or agreeing.", zh: "对对对，是的。（yep 是的，口语化的肯定回答）"}
+  - {text: "Don't be scared, it's okay.", start: 1642.08, end: 1643.20, zh: "别害怕，没事的。（scared 害怕的）"}
+  - {text: "Don't be scared is maybe the last thing you wanna hear when someone hands you an experimental beverage, but apparently some people really don't like this taste.", start: 1645.10, end: 1655.72, explain: "\"Experimental\" means new and not tested much. \"Apparently\" means it seems true. The speaker says it is scary to try a new drink, but some people do not like the taste.", zh: "当有人递给你一杯实验性饮品时，听到“别害怕”可能是你最不想听到的话，但显然有些人真的不喜欢这个味道。（experimental 实验性的；beverage 饮料）"}
+  - {text: "Anyway, I took a sip.", start: 1656.14, end: 1657.24, explain: "A \"sip\" is a very small amount of liquid you drink. The speaker drank a little bit.", zh: "总之，我喝了一小口。（sip 啜饮，小口喝）"}
+  - {text: "Okay, here we go.", start: 1657.56, end: 1658.20, zh: "好了，开始了。（here we go 开始了，准备就绪）"}
+  - {text: "I could feel everyone staring at me.", start: 1660.26, end: 1662.20, explain: "\"Staring\" means looking at someone for a long time. The speaker felt people looking at them.", zh: "我能感觉到所有人都在盯着我看。"}
+  - {text: "Lovely flavor. It tastes great, I don't know what you're talking about.", start: 1662.44, end: 1667.36, explain: "\"Flavor\" is the taste of the food or drink. The speaker says the taste is good and acts like nothing is wrong.", zh: "味道很棒，喝起来很赞，我不知道你在说什么。"}
+  - {text: "Oh, okay, great. Oh, it was this very strange tingling feeling, like someone had put a tiny little battery in my mouth.", start: 1667.62, end: 1678.62, explain: "A \"tingling\" feeling is a light, buzzing or shaking sensation, like when a limb falls asleep. The speaker says the drink made their mouth feel strange and buzz, like a small battery was inside.", zh: "哦，好吧，真不错。哦，那是一种非常奇怪的刺痛感，就像有人在我嘴里放了一颗小电池似的。（tingling 刺痛感，酥麻感）"}
+  - {text: "Does it spark curiosity?", start: 1678.88, end: 1680.14, explain: "\"Spark\" here means to start or cause something. The speaker asks if the strange feeling makes you want to know more.", zh: "它是否激发了你的好奇心？（curiosity 好奇心）"}
+  - {text: "Does it make you think, what have I just done?", start: 1681.06, end: 1683.44, explain: "This is a question. The speaker asks if the feeling makes you wonder about your actions.", zh: "它是否让你在想，我刚才到底干了什么？"}
+  - {text: "And this weird tingling feeling, it just kept building.", start: 1683.80, end: 1687.08, explain: "\"Building\" here means getting stronger or bigger. The strange feeling in the mouth did not stop; it got more intense.", zh: "这种奇怪的刺痛感，一直在增强。（building 增强，积聚）"}
+  - {text: "Oh, I'm really getting it now, yeah.", start: 1687.42, end: 1689.96, zh: "哦，我现在真的感觉到它了，是的。"}
+  - {text: "Wait, why does my tongue feel funny?", start: 1691.02, end: 1692.62, zh: "等等，为什么我的舌头感觉怪怪的？"}
+  - {text: "It's great, right? What is this?", start: 1693.34, end: 1695.62, explain: "The speaker is excited and confused. They ask what the drink is because it feels so good but strange.", zh: "感觉很棒，对吧？这到底是什么？"}
+  - {text: "Do you really wanna know?", start: 1696.06, end: 1697.48, zh: "你真的想知道吗？"}
+  - {text: "What is it? It's jambu.", start: 1697.60, end: 1698.64, explain: "\"Jambu\" is the name of a plant used in the drink.", zh: "是什么？是姜布。"}
+  - {text: "Jambu? Mm -hmm. Jambu, it is a tropical herb traditionally used to numb the mouth for toothaches.", start: 1699.50, end: 1706.04, explain: "A \"tropical\" place is hot and wet, near the equator. To \"numb\" means to stop feeling pain or touch. Jambu is a plant that makes the mouth feel dead or insensitive, which helps with tooth pain.", zh: "姜布？嗯。姜布是一种热带草药，传统上用于让口腔麻木以缓解牙痛。（jambu 姜布，一种热带草药；herb 草药；numb 麻木）"}
+  - {text: "It's kind of like Sichuan peppercorn, if you've ever had that.", start: 1706.42, end: 1708.48, explain: "\"Sichuan peppercorn\" is a spice from China that makes your mouth tingle. The speaker compares the new drink to this spice.", zh: "如果你吃过花椒，它有点像花椒。"}
+  - {text: "Kristen says jambu extract isn't super common, but it's sometimes used as a background note to make drinks taste more effervescent.", start: 1708.86, end: 1716.38, explain: "\"Jambu\" is a type of fruit. \"Effervescent\" means having a fizzy or bubbly taste. The speaker says this fruit is not very common, but it can make drinks taste more fizzy.", zh: "克里斯汀说姜布提取物并不常见，但有时会被用作背景风味，让饮料喝起来更有气泡感。（extract 提取物；effervescent 起泡的，有气泡感的）"}
+  - {text: "Though you wouldn't know because the way food labeling works in the US, the drinks often just say natural flavors.", start: 1716.80, end: 1722.58, zh: "不过你根本看不出来，因为在美国的食品标签规定下，饮料通常只标注“天然香料”。（labeling 标签标注；natural flavors 天然香料）"}
+  - {text: "Anyway, there you have it.", start: 1723.35, end: 1725.04, zh: "好了，情况就是这样。"}
+  - {text: "According to the experts at Flavor Man, the beverage that best represents planet money that is sophisticated yet approachable with a dose of surprise is a", start: 1725.26, end: 1736.36, explain: "\"Sophisticated\" means complex and high-quality. \"Approachable\" means easy to like or understand. This sentence is cut off and continues in the next one.", zh: "据Flavor Man的专家说，最能代表《Planet Money》风格——既精致又亲民，还带点惊喜——的饮品是……（Flavor Man 风味大师，虚构或特定的风味专家机构；sophisticated 精致的，老练的）"}
+  - {text: "Yuzu elderberry sparkling coconut water with a jambu twist.", start: 1736.36, end: 1741.46, explain: "\"Yuzu\" is a Japanese citrus fruit. \"Elderberry\" is a dark berry. This is the name of the drink mentioned in the previous sentence.", zh: "是一款柚子接骨木花气泡椰子水，还加了点姜黄风味。（Yuzu 柚子；elderberry 接骨木果；jambu 姜黄，一种香料）"}
+  - {text: "We have a money maker on our hands, guys.", start: 1741.78, end: 1743.64, explain: "\"Money maker\" means something that will make a lot of money. The speaker is joking that this new drink idea is very good for business.", zh: "伙计们，我们手里握着一个赚钱的好东西。（money maker 赚钱的东西，摇钱树）"}
+  - {text: "All right, how do we sell this?", start: 1744.14, end: 1746.44, zh: "好了，我们怎么卖这个？"}
+  - {text: "Let's go. Let's go.", start: 1746.84, end: 1748.88, zh: "走吧，开始吧。"}
+  - {text: "Hey, Kenny. It's Kenny Malone, co -host of Planet Money.", start: 1749.62, end: 1752.38, zh: "嘿，肯尼。我是肯尼·马隆，《Planet Money》的联合主持人。（co-host 联合主持人）"}
+  - {text: "Back again in the studio.", start: 1752.38, end: 1753.64, zh: "又回到演播室了。"}
+  - {text: "So what do you think?", start: 1753.86, end: 1754.90, zh: "那你觉得怎么样？"}
+  - {text: "That was the journey.", start: 1755.08, end: 1755.76, explain: "\"Journey\" means the trip or process they just talked about. The speaker is saying the story is finished.", zh: "这就是这段旅程。"}
+  - {text: "I do. I feel like I understand where all the flavors are from, and most importantly, I would like to try the Planet Money flavor.", start: 1755.94, end: 1762.28, zh: "确实如此。我觉得我已经弄明白这些口味都来自哪里了，最重要的是，我想尝尝《Planet Money》这个口味。（flavors 口味；Planet Money 节目名称）"}
+  - {text: "Oh, I am so sorry.", start: 1762.80, end: 1764.44, explain: "The speaker is apologizing, probably for a mistake or a delay. It is a very common phrase in conversation.", zh: "哦，真抱歉。"}
+  - {text: "I didn't bring any back for you.", start: 1764.62, end: 1766.04, zh: "我没给你带回来一点。"}
+  - {text: "Oh, what now? I'm sorry?", start: 1766.48, end: 1768.20, zh: "哦，怎么回事？抱歉？"}
+  - {text: "It's heavy. I couldn't get it through the airport.", start: 1768.88, end: 1771.46, zh: "太重了，我没法通过机场安检。（airport 机场）"}
+  - {text: "No, no, no, I get it.", start: 1771.80, end: 1772.90, zh: "不不不，我懂了。"}
+  - {text: "But what does clearly seem to be true?", start: 1773.02, end: 1775.10, zh: "但有一点似乎很明显是真的？（clearly 明显地）"}
+  - {text: "Could we not make a bunch of these?", start: 1775.74, end: 1777.58, zh: "我们能不能做一批这样的东西？（a bunch of 一批，许多）"}
+  - {text: "And if we don't want to sell them, that's fine.", start: 1777.80, end: 1779.48, zh: "如果我们不想卖，那也没关系。（fine 没问题，可以）"}
+  - {text: "I'm not exactly ready to become a beverage company.", start: 1779.72, end: 1781.92, explain: "\"Beverage company\" means a business that makes drinks. The speaker says they are not ready to start such a business yet.", zh: "我还没准备好变成一家饮料公司。（beverage company 饮料公司）"}
+  - {text: "But we could, like, host a thing.", start: 1781.92, end: 1783.84, zh: "不过我们可以，比如，举办一个活动。（host a thing 举办一个活动）"}
+  - {text: "I think that's a great idea.", start: 1784.28, end: 1785.60, zh: "我觉得这是个好主意。（great idea 好主意）"}
+  - {text: "Yes. Yeah. So you and I should do a live event where we invite all the listeners who want to try the soda to come and crack one open with us.", start: 1785.84, end: 1795.76, explain: "\"Crack one open\" means to open a bottle or can. The speaker suggests doing a live event where listeners can try the soda together.", zh: "对，是的。所以我们应该办一场直播活动，邀请所有想尝尝这汽水的听众来，和我们一起开瓶喝。（live event 直播活动；crack one open 开瓶，特指开汽水或啤酒）"}
+  - {text: "There's no way we can invite all the listeners that want to try it.", start: 1796.00, end: 1798.32, explain: "\"No way\" means it is impossible. The hosts say they cannot invite every person who wants to try the drink.", zh: "我们不可能邀请所有想尝的听众。（no way 不可能，没门）"}
+  - {text: "But if you're interested in this, let us know.", start: 1798.44, end: 1800.30, zh: "但如果你感兴趣，请告诉我们。（let us know 告诉我们，告知我们）"}
+  - {text: "Send us an email.", start: 1800.48, end: 1800.92, zh: "给我们发封邮件。"}
+  - {text: "And we'll see if we can make a batch, a small batch, of Planet Money the flavor.", start: 1801.34, end: 1806.22, explain: "A \"batch\" is a group of things made at the same time. \"Planet Money the flavor\" is the name of the drink they want to make.", zh: "我们会看看能不能做出一小批“Planet Money”口味的饮料。（batch 批次；small batch 小批量）"}
+  - {text: "Planet Money the flavor.", start: 1807.22, end: 1808.20, zh: "“Planet Money”口味。"}
+  - {text: "We got to work on the title.", start: 1808.36, end: 1809.16, explain: "\"Got to work\" means they started doing the job. They began thinking about the name of the drink.", zh: "我们开始琢磨标题了。"}
+  - {text: "But yes, that's good.", start: 1809.26, end: 1809.96, zh: "不过是的，这主意不错。"}
+  - {text: "Yeah. I like it.", start: 1810.40, end: 1811.02, zh: "对，我喜欢。"}
+  - {text: "Jambu. Thanks, Kenny. And of course.", start: 1811.16, end: 1812.32, zh: "Jambu。谢谢，Kenny。当然……（Jambu 一种热带水果，又称玫瑰苹果）"}
+  - {text: "Hey, everyone, if you could do us a favor and just give a little boop to that follow button on your podcast app.", start: 1820.23, end: 1825.77, explain: "A \"favor\" is a small kind thing you do for someone. A \"boop\" is a light tap. They ask you to tap the follow button.", zh: "嘿，各位，麻烦帮个小忙，在你们的播客应用里点一下那个关注按钮。（boop 轻点，点击；follow button 关注按钮）"}
+  - {text: "We want to make sure you get all of our announcements about special projects, live show dates, new merch releases, discounts for the NPR shop, stuff you definitely don't want to miss.", start: 1826.09, end: 1835.49, explain: "\"Merch\" is short for merchandise, which means products like t-shirts or mugs. They want you to follow so you do not miss news about these products and sales.", zh: "我们希望确保你能收到我们关于特别项目、直播日期、新周边产品发布以及NPR商店折扣的所有公告，这些都是你绝对不想错过的内容。（merch 周边商品；NPR 美国国家公共广播电台）"}
+  - {text: "And it helps the show.", start: 1835.79, end: 1837.03, zh: "而且这对节目也有帮助。（helps 有帮助，有益）"}
+  - {text: "It tells the apps that Planet Money is a podcast that other people might want to listen to.", start: 1837.33, end: 1841.83, explain: "This sentence explains how the follow button works. It helps the app find other people who like this show.", zh: "它告诉应用程序，《Planet Money》是一个其他人可能也想听的播客。（apps 应用程序；Planet Money 行星金钱，NPR的一档经济类播客）"}
+  - {text: "So go ahead, scroll up, and just give it a little boop.", start: 1842.29, end: 1845.99, explain: "\"Scroll up\" means move your finger up on the screen. They ask you to find the button and tap it lightly.", zh: "所以请往上滚动，轻轻点一下关注按钮。（scroll up 向上滚动；boop 轻点，点击）"}
+  - {text: "Thanks for the follow.", start: 1847.04, end: 1847.66, zh: "感谢你的关注。（follow 关注，订阅）"}
+  - {text: "This episode of Planet Money was produced by James Snead and Sam Yellowforce Kessler.", start: 1848.36, end: 1852.98, explain: "\"Produced by\" means these people made the show. James Snead and Sam Yellowforce Kessler are the producers.", zh: "本期《Planet Money》由James Snead和Sam Yellowforce Kessler制作。（produced 制作；Planet Money 行星金钱，NPR的一档经济类播客）"}
+  - {text: "It was edited by Jess Jang.", start: 1853.40, end: 1854.54, explain: "To \"edit\" a show means to cut and fix the recording so it sounds good. \"Jess Jang\" is the name of the person who did this work.", zh: "由Jess Jang负责剪辑。（edited 剪辑，编辑）"}
+  - {text: "Vito Emanuel was our fact checker.", start: 1854.90, end: 1856.42, explain: "A \"fact checker\" is a person who checks if the news is true. \"Vito Emanuel\" is the name of this person.", zh: "Vito Emanuel是我们的事实核查员。（fact checker 事实核查员，负责核实信息准确性的人）"}
+  - {text: "And Quacy Lee engineered the show.", start: 1856.78, end: 1858.30, explain: "To \"engineer\" a show means to manage the sound and music. \"Quacy Lee\" is the name of the person who did this.", zh: "Quacy Lee 负责了节目的制作。（engineered 制作，此处指负责技术或制作流程）"}
+  - {text: "Alex Goldmark is the executive producer of Planet Money.", start: 1858.72, end: 1861.18, explain: "An \"executive producer\" is the main person in charge of making the show. \"Alex Goldmark\" is the name of this person.", zh: "Alex Goldmark 是《Planet Money》的总制片人。（executive producer 总制片人）"}
+  - {text: "A special thanks to Dwayne Stanford of Beverage Digest and Jordan Plappert.", start: 1861.84, end: 1865.92, zh: "特别感谢 Beverage Digest 的 Dwayne Stanford 和 Jordan Plappert。（Beverage Digest 饮料文摘，一家行业杂志）"}
+  - {text: "And also a special, special shout out to all of you listeners who emailed us about your experiences with the wild new world of beverages.", start: 1866.32, end: 1874.32, explain: "A \"shout out\" is a way to say thanks or give credit to someone. \"Beverages\" means drinks.", zh: "还要特别、特别感谢所有给我们发邮件，分享你们在狂野新饮料世界中体验的听众。（shout out 特别提及，致谢）"}
+  - {text: "From Kelsey, who told us how these new seltzers and sodas helped her quit alcohol, to Ryan, who is still puzzling over the sunshine flavor of La Croix.", start: 1874.78, end: 1883.58, explain: "\"Seltzers\" are fizzy drinks with no alcohol. \"Puzzling over\" means thinking hard about something because it is strange.", zh: "从 Kelsey 告诉我们这些新的苏打水和汽水如何帮她戒酒，到 Ryan 还在琢磨 La Croix 的阳光口味。（seltzers 苏打水，一种含气的混合饮料；La Croix 拉克罗瓦，一种气泡水品牌）"}
+  - {text: "I have no idea what flavor sunshine is, but it was disgusting.", start: 1883.96, end: 1889.04, explain: "\"Disgusting\" means very bad and not nice to taste.", zh: "我完全不知道阳光是什么味道，但那玩意儿太难喝了。（disgusting 令人作呕的，难喝的）"}
+  - {text: "I have no idea either, Ryan.", start: 1889.48, end: 1890.62, zh: "我也完全不知道，Ryan。（either 也，用于否定句）"}
+  - {text: "Anyway, it was great hearing from all of you.", start: 1891.06, end: 1892.90, explain: "This sentence means the host is happy to hear from the people who listen to the show.", zh: "总之，很高兴收到你们所有人的来信。（Anyway 总之，不管怎样）"}
+  - {text: "As always, you can reach us at planetmoney .npr .org.", start: 1893.18, end: 1896.20, explain: "\"Reach us\" means to contact us or send a message to us. This sentence tells listeners where to find the show's website.", zh: "一如既往，您可以通过 planetmoney.npr.org 联系我们。"}
+  - {text: "Send us an email, even better, a voice memo.", start: 1896.46, end: 1898.40, explain: "A \"voice memo\" is a short recording of someone speaking. The speaker asks listeners to send a recording instead of just writing a text.", zh: "给我们发封邮件，或者更好的是，发一条语音备忘录。（voice memo 语音备忘录）"}
+  - {text: "I'm Jeff Guo. This is NPR.", start: 1898.90, end: 1900.24, explain: "This is a standard sign-off where the host says their name and the station.", zh: "我是杰夫·郭。这里是 NPR。"}
+  - {text: "Thanks for listening. Stay tuned for the following announcements and messages from our sponsors.", start: 1900.58, end: 1918.80, explain: "\"Stay tuned\" means to keep listening. \"Sponsors\" are companies that pay for the show. This sentence says to keep listening for ads.", zh: "感谢收听。接下来是赞助商的公告和留言。（sponsors 赞助商）"}
+  - {text: "This message comes from Google Workspace with Gemini.", start: 1918.80, end: 1921.80, explain: "This is the start of an advertisement. \"Gemini\" is the name of Google's AI tool.", zh: "这条信息来自 Google Workspace with Gemini。"}
+  - {text: "Ever notice how every new AI tool asks you to explain your business to it all over again?", start: 1922.14, end: 1927.52, zh: "你有没有注意到，每个新的 AI 工具都要求你重新向它解释一遍你的业务？"}
+  - {text: "Google Workspace with Gemini skips that.", start: 1927.88, end: 1930.16, explain: "This sentence is cut off or incomplete. It likely means the product helps you avoid doing boring tasks manually.", zh: "Google Workspace with Gemini 省去了这一步。"}
+  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and More, no new tools, no extra logins, just one subscription", start: 1930.52, end: 1939.40, explain: "\"Premium\" means the paid, high-quality version. \"Subscription\" is a regular payment to use a service. This sentence says the AI is inside the paid apps.", zh: "你可以直接在 Gmail、Google Docs、Sheets 等高级版本中使用谷歌的 AI，无需新工具，无需额外登录，只需一个订阅。（premium 高级版；subscription 订阅）"}
+  - {text: "that gives you personalized AI right inside your actual workflow.", start: 1939.40, end: 1943.40, explain: "\"Workflow\" is the way you do your daily work. \"Personalized\" means made just for you. This sentence says the AI helps you work better.", zh: "这能让你在实际工作流程中直接使用个性化的人工智能。（personalized AI 个性化人工智能；workflow 工作流程）"}
+  - {text: "Try Google Workspace with Gemini at go .gle .com.", start: 1943.74, end: 1947.80, explain: "This is an advertisement. \"Gemini\" is a computer program that helps you write and find things. \"Workspace\" is a set of tools for work.", zh: "试试带有 Gemini 的 Google Workspace，请访问 go .gle .com。（Google Workspace 谷歌办公套件；Gemini 谷歌的生成式AI模型）"}
+  - {text: "Slash Workspace with Gemini.", start: 1947.80, end: 1949.24, zh: "带有 Gemini 的 Workspace。（Workspace 工作区；Gemini 谷歌的生成式AI模型）"}
+  - {text: "This message comes from Capella University.", start: 1950.18, end: 1952.32, explain: "This is the start of an advertisement. \"Capella University\" is the name of a school.", zh: "这条信息来自卡佩拉大学。（Capella University 卡佩拉大学，美国在线大学）"}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 1952.86, end: 1957.36, explain: "\"Spark\" means a small start of a feeling or idea. \"Meant for more\" means you are special and can do big things. This sentence asks if you feel like you can do more than you are doing now.", zh: "你知道那种感觉吗？当你内心燃起火花，意识到自己本该拥有更多时。（spark 火花，灵感；meant for more 注定拥有更多）"}
+  - {text: "That's your own drive, pushing you towards what's next.", start: 1957.66, end: 1961.00, explain: "\"Drive\" means the strong wish to do something. \"What's next\" means the future or your next goal. This sentence says your own wish is pushing you forward.", zh: "那是你内在的动力，推着你走向下一步。（drive 动力，驱动力）"}
+  - {text: "Capella University gets that.", start: 1961.24, end: 1963.10, zh: "卡佩拉大学懂这种感觉。（Capella University 卡佩拉大学）"}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 1963.42, end: 1969.54, explain: "\"Flex path\" means you can choose your own way and time to learn. \"Put life on pause\" means to stop your normal life for a while. This sentence says you can study and live your life at the same time.", zh: "通过他们的灵活学习路径，你可以自己掌控节奏，在不停下生活脚步的情况下获得学位。（flex path 灵活路径；earn your degree 获得学位）"}
+  - {text: "You've built experience and know what you're capable of.", start: 1969.92, end: 1972.96, zh: "你已经积累了经验，也清楚自己具备什么能力。（capable of 有能力的，能胜任的）"}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 1972.96, end: 1977.40, explain: "\"Momentum\" means the power you have to keep moving. This sentence says now is the time to use your power to get more.", zh: "现在，正是你利用这股势头去争取更多成果的时候。（momentum 势头，动力）"}
+  - {text: "The only real question is, what can't you do?", start: 1977.76, end: 1980.74, explain: "This is a question that means you can do almost anything. It asks what is the only thing you cannot do.", zh: "唯一真正的问题是，你做不到什么？"}
+  - {text: "Learn more at capella .edu.", start: 1981.12, end: 1983.12, zh: "请访问 capella.edu 了解更多。（capella.edu 卡佩拉大学官网）"}
 ---

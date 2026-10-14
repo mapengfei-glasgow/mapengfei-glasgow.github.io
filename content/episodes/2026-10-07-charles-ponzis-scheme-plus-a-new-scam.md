@@ -9,393 +9,393 @@ audioDir: "2026-10-07-charles-ponzis-scheme-plus-a-new-scam"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-07-charles-ponzis-scheme-plus-a-new-scam/episode.mp3"
 totalDuration: 1730.0
 sentences:
-  - {text: "This message comes from Apollo.", start: 0.00, end: 1.66}
-  - {text: "CEOs and CFOs need more than capital.", start: 2.22, end: 4.86}
-  - {text: "They need a financing partner with the scale, flexibility, and certainty to help them execute.", start: 5.28, end: 10.38}
-  - {text: "That's where Apollo comes in.", start: 10.84, end: 12.30}
-  - {text: "Learn more at Apollo .com slash capital.", start: 12.66, end: 15.66}
-  - {text: "This is Planet Money from NPR.", start: 17.16, end: 19.44}
-  - {text: "Most of us in this world are destined to be forgotten.", start: 22.38, end: 25.46}
-  - {text: "I know it's sad, but it's true.", start: 26.46, end: 28.86}
-  - {text: "A lucky few will land in the history books.", start: 28.86, end: 31.48}
-  - {text: "Fewer still might have our names put on something.", start: 31.92, end: 34.70}
-  - {text: "A road sign, a stadium, maybe even get a statue or a plaque.", start: 35.48, end: 39.62}
-  - {text: "Probably the least likely scenario is to become so famous or so infamous that our names will live on in language.", start: 40.67, end: 49.37}
-  - {text: "Jerry Mander, the word named after Elbridge Gary, 19th century governor of Massachusetts and early pioneer of the Gary Mander.", start: 50.65, end: 59.39}
-  - {text: "Saxophone named after its inventor, Adolfi Sax.", start: 60.27, end: 63.83}
-  - {text: "And then there's the Ponzi.", start: 64.99, end: 67.07}
-  - {text: "The Ponzi scheme named after one, Charles Ponzi.", start: 67.21, end: 72.09}
-  - {text: "A Ponzi scheme is an investment opportunity that's more of a con.", start: 73.93, end: 78.35}
-  - {text: "The way it works is you have to use or steal money from newer investors to pay back the earlier ones.", start: 79.06, end: 85.84}
-  - {text: "They happen all the time these days.", start: 86.58, end: 89.20}
-  - {text: "In fact, just recently, Travis Kelsey, husband to Taylor Swift, was named by prosecutors as a victim in a $35 million Ponzi scheme.", start: 89.42, end: 98.80}
-  - {text: "But I'm just going to come out and say it.", start: 99.73, end: 100.99}
-  - {text: "Most of the time, these modern day Ponzi's, they're amateur hour compared to the one pulled off by Charles Ponzi.", start: 101.07, end: 108.39}
-  - {text: "An Italian immigrant living in Boston who pulled off his scheme for a brief seven months about a hundred years ago.", start: 108.97, end: 115.19}
-  - {text: "He wasn't the first, he wouldn't be the biggest, but after you hear his story, you'll get it.", start: 115.19, end: 120.05}
-  - {text: "You'll get why he's allowed to live on forever in infamy.", start: 120.35, end: 123.91}
-  - {text: "Hello and welcome to Planet Money.", start: 124.64, end: 125.62}
-  - {text: "I'm Nick Fountain. Today on the show, in honor of the newlyweds, Taylor and Travis, one of my favorite shows from the vault, the story of how Charles Ponzi stole millions of dollars and defrauded tens of thousands of people.", start: 125.94, end: 139.14}
-  - {text: "It's way wilder than you think it involves a system of speculating on worldwide currencies thanks to a loophole in the global mail system, a daring plan to rob a bank, and a very generous pound of flesh.", start: 139.60, end: 153.64}
-  - {text: "And you're going to want to stick around till the end because there is some news.", start: 154.38, end: 158.82}
-  - {text: "Apparently scammers have been impersonating us at Planet Money and other podcasters too.", start: 159.34, end: 165.22}
-  - {text: "We're going to share what we know and how to avoid falling for their traps.", start: 165.64, end: 170.02}
-  - {text: "This message comes from Inspirity because how you HR matters, from payroll and benefits to HR compliance and talent development, helping your business move forward with confidence.", start: 178.90, end: 189.26}
-  - {text: "Learn more at inspirity .com slash HR matters.", start: 189.60, end: 193.08}
-  - {text: "This message comes from Schwab.", start: 193.68, end: 195.44}
-  - {text: "Investing with Schwab is like a hike with endless trails.", start: 196.04, end: 198.94}
-  - {text: "Go solo with self -directed investing.", start: 199.50, end: 201.44}
-  - {text: "Take stops along the way with trading or choose a guide with full service wealth management.", start: 201.88, end: 206.52}
-  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 206.52, end: 210.40}
-  - {text: "This message is from Synchrony Bank, who wants to remind you to stay flexible.", start: 211.78, end: 216.00}
-  - {text: "Not the 10 ,000 steps before breakfast, yoga bending, circus performing, wish I hadn't done that kind of flexible.", start: 216.48, end: 222.66}
-  - {text: "It's about staying financially flexible, like with their high yield savings account.", start: 223.12, end: 226.64}
-  - {text: "You'll earn a great rate without monthly fees or minimums that can slow your progress.", start: 227.00, end: 230.72}
-  - {text: "Go to synchrony .com slash NPR.", start: 231.20, end: 233.36}
-  - {text: "A Ponzi. A word so familiar that it just rolls off the tongue.", start: 237.14, end: 241.86}
-  - {text: "A shorthand for robbing Peter to pay Paul.", start: 242.30, end: 245.14}
-  - {text: "And while his name has become infamous, the story of Charles Ponzi was not that well known.", start: 245.96, end: 251.02}
-  - {text: "That is, until journalist and author Mitch Zuckoff just kind of stumbled upon it.", start: 251.44, end: 255.80}
-  - {text: "I was a banking reporter for a while at the Boston Globe, and I was at a press conference, and the state treasurer just offhandedly said,", start: 256.00, end: 263.66}
-  - {text: "banks haven't failed like this in Boston since Ponzi's day.", start: 263.66, end: 267.46}
-  - {text: "And I did a comic double take of, huh?", start: 268.06, end: 271.44}
-  - {text: "And he said, yeah, you knew Ponzi was based here in Boston.", start: 272.26, end: 274.90}
-  - {text: "And I said, yeah, sure, I knew that.", start: 275.48, end: 277.36}
-  - {text: "I'm a banking reporter.", start: 277.56, end: 278.42}
-  - {text: "Of course I knew that.", start: 278.58, end: 279.28}
-  - {text: "I had no idea.", start: 279.60, end: 280.22}
-  - {text: "Mitch kind of became obsessed with Ponzi and wrote a book about him.", start: 280.60, end: 284.18}
-  - {text: "It's called Ponzi's Scheme, the True Story of a Financial Legend.", start: 284.52, end: 288.28}
-  - {text: "To write the book, Mitch went to Italy and found Ponzi's birth records.", start: 289.06, end: 292.28}
-  - {text: "He read thousands of court documents.", start: 292.28, end: 294.48}
-  - {text: "He found records of every single victim, and he read Ponzi's private letters.", start: 294.66, end: 299.24}
-  - {text: "He also looked through a bunch of photos.", start: 299.84, end: 301.58}
-  - {text: "There aren't many from when Ponzi's young, but in one, he's dressed in this three -piece suit with a tie.", start: 301.84, end: 306.96}
-  - {text: "He has a pretty well -kept mustache, perfectly combed hair, and these big, thick eyebrows.", start: 307.18, end: 312.50}
-  - {text: "And it's also worth mentioning that Ponzi is, uh, he's diminutive.", start: 313.20, end: 317.08}
-  - {text: "You know, he's a guy five, two, five, I think he lied about being five, three, you know?", start: 317.36, end: 321.68}
-  - {text: "Yes. And so if Ponzi was going to make it, he understood he had to do it with his head.", start: 322.36, end: 329.26}
-  - {text: "Uh -huh. Just because he's a little guy.", start: 329.96, end: 331.86}
-  - {text: "He's a little guy.", start: 332.28, end: 333.00}
-  - {text: "Yeah. Maybe it was the height, maybe it was something else, but throughout his life, Ponzi was always looking for the thing that was going to make him rich.", start: 333.32, end: 341.58}
-  - {text: "He was the type to take big swings, big risks that often involved leaps of faith.", start: 342.26, end: 347.28}
-  - {text: "And in 1903, he did what many young Italians in search of riches were doing back then.", start: 347.96, end: 352.68}
-  - {text: "He got on a boat to America.", start: 353.06, end: 354.78}
-  - {text: "For the greater part of the next two decades, Ponzi tried to make his fortune.", start: 355.76, end: 359.46}
-  - {text: "This guy had more jobs that in a more of a varied resume than anybody I've ever heard of.", start: 360.06, end: 367.88}
-  - {text: "Can you just list off some of the jobs?", start: 367.98, end: 369.34}
-  - {text: "Oh boy. He worked in a bank.", start: 370.26, end: 373.32}
-  - {text: "He was a translator.", start: 373.46, end: 374.34}
-  - {text: "He was a mining camp nurse.", start: 374.62, end: 376.28}
-  - {text: "He was a road roller.", start: 376.44, end: 377.68}
-  - {text: "He was a sign painter.", start: 378.10, end: 379.58}
-  - {text: "On and on. Grocery clerk, factory hand, dishwasher, waiter, librarian.", start: 379.58, end: 385.28}
-  - {text: "He was a itinerant immigrant rolling up and down the east coast of the United States looking for work and trying to find his place.", start: 385.82, end: 395.76}
-  - {text: "And Ponzi's big swings, high risk, figure out the details later attitude, it wasn't just about getting rich.", start: 396.32, end: 402.48}
-  - {text: "This one time, Mitch says, Ponzi was working at a mining camp in Appalachia when there was a terrible accident at a hospital.", start: 403.02, end: 410.30}
-  - {text: "A nurse named Pearl was burned when a gas stove burst.", start: 410.78, end: 414.18}
-  - {text: "He's sitting down for a beer with this doctor.", start: 414.68, end: 416.90}
-  - {text: "He knows at the mining camp and he's asks, you know, how's Pearl?", start: 417.20, end: 420.70}
-  - {text: "And the doctor tells him, you know, it's pretty desperate.", start: 421.48, end: 423.64}
-  - {text: "Gangrene is setting in.", start: 423.98, end: 425.20}
-  - {text: "And so Ponzi says, how can you help her?", start: 425.96, end: 428.08}
-  - {text: "And he says, maybe a skin graft.", start: 428.46, end: 429.96}
-  - {text: "And you know, he wanted to try it, but he couldn't find anyone who'd give up their skin to save this woman they didn't know at all.", start: 430.32, end: 437.18}
-  - {text: "And Ponzi didn't really know her either.", start: 437.82, end: 439.98}
-  - {text: "But in the moment, Ponzi said, how much do you need?", start: 440.38, end: 444.86}
-  - {text: "How much skin do you need?", start: 445.16, end: 446.10}
-  - {text: "And he said, well, probably 40 or 50 square inches.", start: 446.24, end: 448.58}
-  - {text: "Ponzi said, you got him.", start: 449.60, end: 450.76}
-  - {text: "I'll give you all the skin you need.", start: 451.10, end: 452.24}
-  - {text: "Ponzi was on an operating table that evening.", start: 452.94, end: 456.08}
-  - {text: "Doctors cut off 72 square inches of skin from his thighs.", start: 456.56, end: 460.08}
-  - {text: "Later, he gave another 50 inches from his back.", start: 460.66, end: 463.12}
-  - {text: "It was a classic Ponzi big swing.", start: 463.60, end: 465.48}
-  - {text: "And it was risky.", start: 465.64, end: 466.32}
-  - {text: "He ended up spending months in the hospital.", start: 466.32, end: 468.80}
-  - {text: "But it paid off.", start: 469.12, end: 470.48}
-  - {text: "The nurse, Pearl, she lived.", start: 470.78, end: 472.74}
-  - {text: "It's an incredible story.", start: 473.54, end: 475.44}
-  - {text: "And it doesn't fit the picture I have of Ponzi.", start: 475.72, end: 480.80}
-  - {text: "I love that. I thought I was going to write about a guy who was just a schemer, who was just a snake.", start: 481.02, end: 486.96}
-  - {text: "And the deeper I went, the more I felt sort of the stirrings of sympathy, the stirrings of empathy.", start: 487.54, end: 497.58}
-  - {text: "And what he did was wrong.", start: 498.36, end: 499.92}
-  - {text: "I'm not confused by that.", start: 500.74, end: 502.72}
-  - {text: "But I kind of understood the motivation of a guy who couldn't stop, as he put it, the snowball once it started rolling downhill and not get rolled over by it.", start: 503.02, end: 515.72}
-  - {text: "This next chapter of Ponzi's story is all about that snowball, how he got the idea that started it rolling, and how he turned this big idea into a big scam that was hard to stop.", start: 516.04, end: 528.00}
-  - {text: "And as his story unfolds, you're going to hear some obvious red flags.", start: 528.68, end: 532.62}
-  - {text: "In part, because I'm going to point them out.", start: 533.02, end: 534.28}
-  - {text: "I'm going to give the red flags these little rhymes.", start: 534.54, end: 537.02}
-  - {text: "Here it goes. By 1919, Ponzi had spent 15 years trying to make it in the U .S.", start: 537.60, end: 543.12}
-  - {text: "He was living in Boston.", start: 543.32, end: 544.24}
-  - {text: "He'd gotten married. He'd rented an office downtown right next to City Hall.", start: 544.52, end: 548.06}
-  - {text: "And then one day in August, he's going through the mail.", start: 548.54, end: 551.10}
-  - {text: "He opens a letter and outflutters this little, it almost looks like a dollar bill, but it's kind of squared.", start: 551.52, end: 557.98}
-  - {text: "And it's an international reply coupon.", start: 558.44, end: 561.20}
-  - {text: "An international reply coupon.", start: 561.64, end: 563.36}
-  - {text: "What's that? An international reply coupon is basically, it's a coupon that enables you to buy a stamp in another country.", start: 563.60, end: 573.82}
-  - {text: "It's actually a pretty clever solution to the problem.", start: 574.24, end: 576.76}
-  - {text: "If you want to send a letter to say you're Nona and Naples, and you want to make it easier for her to respond with news from the motherland, what are you going to do?", start: 576.76, end: 584.94}
-  - {text: "You can't send her U .S.", start: 585.40, end: 586.86}
-  - {text: "stamps. You can't send her nickels.", start: 587.04, end: 589.06}
-  - {text: "You can't send her an Italian lira because you're paid in dollars.", start: 589.22, end: 592.56}
-  - {text: "Instead, you can send her an international reply coupon, which is like a voucher that you can buy at your local U .S.", start: 593.02, end: 600.36}
-  - {text: "post office and she can redeem for an Italian stamp at her local Italian post office.", start: 600.40, end: 606.22}
-  - {text: "It's an easy way to prepay for a reply.", start: 606.22, end: 609.02}
-  - {text: "And what Ponzi realized sitting right there in his office was that these international reply coupons were a magical way to make money through arbitrage.", start: 609.70, end: 618.20}
-  - {text: "That is taking advantage of price differences to make an easy profit.", start: 618.52, end: 622.32}
-  - {text: "He had what can only be described as a Eureka moment.", start: 622.78, end: 626.54}
-  - {text: "And he started doing sort of back -of -the -envelope calculations.", start: 627.08, end: 630.14}
-  - {text: "See, this was just after the Great War and the Great Influenza.", start: 630.88, end: 634.82}
-  - {text: "And the economies of Europe were in a bad place.", start: 634.82, end: 637.72}
-  - {text: "Many of their currencies had been devalued.", start: 638.10, end: 640.14}
-  - {text: "But the organization that set the going rate for these international reply coupons had not adjusted for inflation, how much it cost to buy the coupons in different countries.", start: 640.38, end: 649.30}
-  - {text: "And that meant essentially he could buy these coupons on sale in Europe.", start: 649.94, end: 657.00}
-  - {text: "Yes. So a dollar could buy 20 of these coupons for five cents each in the United States.", start: 657.00, end: 666.04}
-  - {text: "But because the value of the lira had been so devastated by the war.", start: 667.38, end: 673.74}
-  - {text: "The Italian lira, yes.", start: 673.78, end: 674.96}
-  - {text: "The Italian lira, you could buy more than three times as many of those in Italy.", start: 675.20, end: 680.38}
-  - {text: "For the equivalent of a U .S.", start: 681.06, end: 682.60}
-  - {text: "dollar. Correct. And so he realized that after expenses he could make $2 .30 for every dollar's worth of coupons he bought in Italy.", start: 682.66, end: 692.94}
-  - {text: "Amazing profits. Perfect arbitrage opportunity.", start: 693.54, end: 697.12}
-  - {text: "Sign me up. Yes, I won in.", start: 697.42, end: 700.74}
-  - {text: "And it's legal. There are a few minor details that Ponzi can't quite figure out yet.", start: 701.16, end: 709.12}
-  - {text: "For instance, how to sell these coupons or stamps for cash in the U .S.", start: 709.12, end: 713.48}
-  - {text: "But he figures he can sell them in bulk to companies that send a lot of mail.", start: 714.08, end: 717.70}
-  - {text: "There is also the transport problem at scale.", start: 718.20, end: 720.82}
-  - {text: "These might be kind of heavy, but he thinks, you know what?", start: 720.98, end: 723.22}
-  - {text: "It's a good idea.", start: 723.48, end: 724.86}
-  - {text: "I'll figure out the details later.", start: 725.18, end: 726.66}
-  - {text: "Now is the time to take big swings.", start: 727.22, end: 729.18}
-  - {text: "Now is the time to create a company.", start: 729.84, end: 731.94}
-  - {text: "He goes right next door to City Hall and he incorporates a business.", start: 732.34, end: 736.78}
-  - {text: "And he calls it the Securities Exchange Company.", start: 736.78, end: 741.18}
-  - {text: "The SEC. Why not?", start: 741.50, end: 744.10}
-  - {text: "The Securities Exchange Commission won't be around for another decade and a half.", start: 744.50, end: 748.54}
-  - {text: "Ponzi starts calling around the community to find people who will invest in his company.", start: 749.36, end: 753.72}
-  - {text: "He tells them if they give him cash now he'll be able to make a profit by buying and selling these stamp coupons and share a bunch of that profit with them.", start: 754.12, end: 762.68}
-  - {text: "It's hard to pinpoint exactly when Ponzi's scheme turned into a scam, but you could argue that it was during these first few pitches.", start: 763.55, end: 771.21}
-  - {text: "Because Ponzi was soliciting investments without figuring out those pesky details of how he would actually make money.", start: 771.67, end: 778.71}
-  - {text: "Ponzi got around this by giving out just enough information for people to think it was a brilliant idea.", start: 779.15, end: 784.03}
-  - {text: "But when they asked him questions like, hey, how exactly are you going to sell these stamp coupons for cash?", start: 784.57, end: 791.01}
-  - {text: "He didn't tell them, well, I haven't worked that out yet.", start: 791.65, end: 794.57}
-  - {text: "He'd say, well, that's the proprietary sauce.", start: 794.95, end: 797.85}
-  - {text: "I can't tell you that.", start: 798.19, end: 799.09}
-  - {text: "So here it is, red flag number one.", start: 799.81, end: 802.27}
-  - {text: "Is there a secret sauce?", start: 802.97, end: 804.23}
-  - {text: "Maybe get lost. Do not invest in something where you don't understand all the details.", start: 805.01, end: 809.89}
-  - {text: "Ponzi knew that people wouldn't care though.", start: 810.81, end: 812.65}
-  - {text: "He had them in a trance and then he'd lean in for the kill.", start: 812.73, end: 816.49}
-  - {text: "He would say, you know, what are the banks paying you?", start: 816.93, end: 819.11}
-  - {text: "If you put your money in a bank, they're going to give you what?", start: 819.11, end: 821.33}
-  - {text: "2%, maybe 3 % a year?", start: 822.13, end: 824.45}
-  - {text: "I can give you 50 % interest in 90 days.", start: 825.34, end: 829.56}
-  - {text: "In three months, your $100 will be $150.", start: 830.08, end: 832.88}
-  - {text: "And that's the moment he knew that a calculation was happening in his client's head.", start: 834.04, end: 840.13}
-  - {text: "Is this too good to be true or is this too good to miss?", start: 840.87, end: 844.31}
-  - {text: "Too good to be true or too good to miss?", start: 844.99, end: 846.87}
-  - {text: "That's how I see all of this.", start: 847.19, end: 849.13}
-  - {text: "How could he possibly give me 50 % interest in 90 days?", start: 849.13, end: 853.15}
-  - {text: "But if it's true, if this is possible, this is my ship coming in.", start: 853.35, end: 858.17}
-  - {text: "This is red flag number two and maybe the biggest red flag of all.", start: 858.53, end: 862.53}
-  - {text: "Regular returns, you're going to get burned because the world isn't regular.", start: 862.99, end: 868.45}
-  - {text: "Some years are good, some are bad.", start: 868.69, end: 870.15}
-  - {text: "And investments that promise amazing returns every year, they're sketchy.", start: 870.51, end: 874.67}
-  - {text: "But Ponzi's investors didn't pick up on this.", start: 875.23, end: 877.71}
-  - {text: "People started pouring dozens, then thousands, at some point, a million dollars a week into Ponzi's postal coupon fake business.", start: 877.71, end: 885.71}
-  - {text: "And it says to understand how Ponzi conned tens of thousands of people.", start: 886.41, end: 889.85}
-  - {text: "You got to remember, he started his scheme in December of 1919, right on the cusp of the roaring 20s.", start: 889.99, end: 896.81}
-  - {text: "I call it, this is the first roar of the 1920s.", start: 897.15, end: 901.17}
-  - {text: "The idea that anything was possible had permeated not just the upper class, but to the newest immigrant.", start: 901.41, end: 908.79}
-  - {text: "Yes, great riches were available here.", start: 909.39, end: 912.35}
-  - {text: "So people were primed for this.", start: 912.73, end: 914.37}
-  - {text: "They had heard stories of getting rich quick, and so it seemed plausible.", start: 914.73, end: 918.83}
-  - {text: "When I was doing the research on Ponzi, I spent a lot of time just reading what else was in the paper.", start: 920.11, end: 925.97}
-  - {text: "And it was incredible, it was an entire genre of stories of sudden wealth that subconsciously or consciously were playing into Ponzi's hands.", start: 926.39, end: 938.87}
-  - {text: "Like Space Filler, or these were prominently featured?", start: 939.11, end: 942.83}
-  - {text: "Prominently featured. Oh, front page stories again and again about marrying into wealth.", start: 943.61, end: 949.71}
-  - {text: "She rose from chargirl to ground dom.", start: 950.03, end: 955.57}
-  - {text: "And clearly, people wanted to read it.", start: 956.85, end: 960.97}
-  - {text: "This might as well be red flag number three for an investment scheme.", start: 961.45, end: 964.95}
-  - {text: "Beware the unrealistic expectations of quick wealth creation.", start: 965.47, end: 970.85}
-  - {text: "Because this, everyone's getting rich quick, why not me feeling?", start: 971.83, end: 975.77}
-  - {text: "It's not just a 1920s phenomena.", start: 976.25, end: 977.87}
-  - {text: "It pops up whenever the economy is popping off.", start: 978.39, end: 981.37}
-  - {text: "Whenever you see your neighbors getting rich, you get jealous and you want it.", start: 981.83, end: 985.33}
-  - {text: "For Ponzi, business was booming.", start: 986.05, end: 988.07}
-  - {text: "But remember, he never figured out those details.", start: 988.35, end: 990.95}
-  - {text: "He never used investor money to buy postal coupons.", start: 991.45, end: 994.91}
-  - {text: "Instead, when investors came back to his office looking to recoup their investment, he just paid them with the new money from new investors.", start: 995.41, end: 1002.77}
-  - {text: "This robbing Peter to pay Paul scheme is what's now known as a Ponzi.", start: 1003.49, end: 1007.35}
-  - {text: "Sometimes regulators catch on to these schemes.", start: 1008.40, end: 1011.16}
-  - {text: "But oftentimes Ponzi's pop up in areas that are new or not regulated too much, which is red flag number four.", start: 1011.52, end: 1020.32}
-  - {text: "If you're in the sticks, be careful with your picks.", start: 1020.32, end: 1024.40}
-  - {text: "And postal policy was quite the hinterland.", start: 1025.34, end: 1028.52}
-  - {text: "Regulators started poking around Ponzi's business, but they were kind of stumped.", start: 1029.12, end: 1033.12}
-  - {text: "For instance, the first regulator that came around to ask questions was a state bureaucrat.", start: 1033.44, end: 1037.74}
-  - {text: "He explained he was in charge of making sure that loan sharks weren't charging too much interest.", start: 1038.16, end: 1042.98}
-  - {text: "But Ponzi said, no, you have it backwards.", start: 1043.36, end: 1045.54}
-  - {text: "I'm the one who has to pay out these big returns.", start: 1045.86, end: 1047.80}
-  - {text: "I'm the one who's going to pay out 50%.", start: 1047.80, end: 1050.58}
-  - {text: "The bureaucrats like, oh yeah, you're right.", start: 1050.58, end: 1053.28}
-  - {text: "You're not a loan shark.", start: 1053.46, end: 1054.60}
-  - {text: "You're the opposite. I guess, good day, sir.", start: 1054.84, end: 1057.76}
-  - {text: "Basically, he goes back to his little cubby hole at the state house, and he sort of tells the police, well, just keep an eye on this guy.", start: 1058.48, end: 1066.96}
-  - {text: "And he passes the buck, so to speak.", start: 1067.38, end: 1069.34}
-  - {text: "Did the Boston police keep their eye on him?", start: 1069.78, end: 1072.00}
-  - {text: "Mostly to invest. Yeah.", start: 1072.98, end: 1074.80}
-  - {text: "Two -thirds of the Boston police department were investing in Ponzi.", start: 1075.42, end: 1079.82}
-  - {text: "Oh, two -thirds of the Boston police?", start: 1079.82, end: 1083.00}
-  - {text: "Yes. The police weren't going to do anything about it.", start: 1083.30, end: 1085.90}
-  - {text: "Some of them even worked for Ponzi as salesman.", start: 1085.94, end: 1088.46}
-  - {text: "The regulators who probably visited Ponzi's operation the most were the postal inspectors.", start: 1089.02, end: 1094.18}
-  - {text: "But try as they might, they could not figure out how Ponzi was making money on this stamp coupon arbitrage.", start: 1094.62, end: 1100.32}
-  - {text: "Of course, that's because Ponzi hadn't figured that out either.", start: 1100.80, end: 1103.44}
-  - {text: "So Ponzi's scheme got bigger and bigger.", start: 1104.18, end: 1106.54}
-  - {text: "At its peak in July of 1927, months after he started taking investments, Ponzi took in nearly six and a half million dollars from 20 ,000 investors.", start: 1107.16, end: 1116.42}
-  - {text: "In a single month, he had a nice mansion.", start: 1116.78, end: 1119.50}
-  - {text: "He had a limo.", start: 1119.96, end: 1120.64}
-  - {text: "He was on the front page of newspapers after the break, how Ponzi's luck eventually ran out, just like almost every Ponzi ever.", start: 1120.98, end: 1130.02}
-  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1135.10, end: 1138.42}
-  - {text: "This message comes from Whole Foods Market.", start: 1139.71, end: 1141.51}
-  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 1142.09, end: 1145.29}
-  - {text: "No added growth hormones or antibiotics in their meat department means slo -braised short ribs are even more satisfying.", start: 1145.75, end: 1151.41}
-  - {text: "All seafood is wild -caught like their vibrant sockeye salmon or verified responsibly farmed.", start: 1151.99, end: 1156.75}
-  - {text: "And all sweets, including fall -themed cookies, are made without high fructose corn syrup.", start: 1157.01, end: 1161.39}
-  - {text: "Spice up fall at Whole Foods Market.", start: 1161.81, end: 1163.45}
-  - {text: "This message comes from Inspirity.", start: 1164.21, end: 1166.09}
-  - {text: "Because how you HR matters.", start: 1166.45, end: 1168.05}
-  - {text: "From payroll and benefits to HR compliance and talent development, helping your business move forward with confidence.", start: 1168.47, end: 1174.63}
-  - {text: "Learn more at inspirity .com.", start: 1174.99, end: 1176.99}
-  - {text: "This message comes from Ethos.", start: 1177.27, end: 1180.73}
-  - {text: "It's easy to put off getting life insurance until something unexpected happens.", start: 1180.99, end: 1185.27}
-  - {text: "That makes you realize your family needs you covered.", start: 1185.53, end: 1188.37}
-  - {text: "Ethos makes it easy.", start: 1188.67, end: 1189.69}
-  - {text: "It's 100 % online.", start: 1190.01, end: 1191.17}
-  - {text: "No medical exam, just a few health questions.", start: 1191.17, end: 1193.93}
-  - {text: "Applying minutes and get same -day coverage up to $3 million.", start: 1194.31, end: 1197.71}
-  - {text: "Get your free quote today at ethos .com slash money.", start: 1197.99, end: 1201.55}
-  - {text: "That's ethos .com slash money.", start: 1201.91, end: 1204.09}
-  - {text: "Application times and rates may vary.", start: 1204.35, end: 1206.23}
-  - {text: "Remember, to keep up his stamp coupon scheme, Ponzi needed a constant stream of new investors.", start: 1208.83, end: 1214.73}
-  - {text: "In fact, more investors than before.", start: 1215.27, end: 1216.91}
-  - {text: "To pay the earlier investors their profit, that 50%.", start: 1217.35, end: 1219.97}
-  - {text: "Things started to turn when someone sued Ponzi.", start: 1221.30, end: 1224.12}
-  - {text: "They said they were part owner of the company.", start: 1224.64, end: 1226.32}
-  - {text: "Ponzi said, no, you just gave me a loan that I paid off a long time ago.", start: 1226.56, end: 1229.84}
-  - {text: "But in the meantime, a court decided to freeze a bunch of Ponzi's bank accounts while they figured it all out.", start: 1230.00, end: 1235.50}
-  - {text: "And this causes a mini panic.", start: 1236.30, end: 1237.94}
-  - {text: "Mitch says thousands of investors showed up at Ponzi's office.", start: 1238.76, end: 1241.64}
-  - {text: "It's like a scene of a bank run.", start: 1241.86, end: 1243.56}
-  - {text: "They're all demanding their money back.", start: 1243.68, end: 1245.12}
-  - {text: "People are excited and they're anxious and they're afraid and people are pushing and shoving.", start: 1245.64, end: 1250.78}
-  - {text: "And Ponzi wades into the crowd.", start: 1251.66, end: 1253.72}
-  - {text: "And incredibly, it calms them.", start: 1254.56, end: 1256.74}
-  - {text: "And he survives the run.", start: 1257.06, end: 1259.86}
-  - {text: "Things settle down. He pays off everyone who is seeking their return.", start: 1260.20, end: 1264.10}
-  - {text: "But then state and federal regulators decide to take a second look at his business.", start: 1264.50, end: 1268.44}
-  - {text: "Ponzi meets with them and tells them, you know what, I'm above board.", start: 1269.10, end: 1272.28}
-  - {text: "I'm so above board.", start: 1272.40, end: 1273.46}
-  - {text: "I'll let you check my books.", start: 1273.92, end: 1274.88}
-  - {text: "You can even pick the auditor.", start: 1275.38, end: 1276.98}
-  - {text: "This is a stall tactic and it's a problem.", start: 1277.80, end: 1280.80}
-  - {text: "For one, Ponzi has been spending a lot on his new mansion, that limo, but also on stakes in legitimate businesses.", start: 1281.20, end: 1288.02}
-  - {text: "He's even become part owner of multiple banks.", start: 1288.68, end: 1291.30}
-  - {text: "And the second problem is he never figured out how to make money off the stamp thing.", start: 1291.90, end: 1296.34}
-  - {text: "So he can't come up with the money he owes to all his investors.", start: 1296.80, end: 1300.30}
-  - {text: "Ponzi is getting desperate.", start: 1300.94, end: 1302.46}
-  - {text: "He knows that there is going to be this moment.", start: 1302.64, end: 1304.96}
-  - {text: "The auditor will count up all his debts and Ponzi will have to show all the money that he actually has.", start: 1304.96, end: 1310.56}
-  - {text: "This is the show me the money moment when people could realize that he doesn't have all the money to pay his investors back.", start: 1311.18, end: 1318.42}
-  - {text: "And Ponzi, ever the hustler, thinks up a plan that's both daring and pretty extraordinary.", start: 1318.82, end: 1324.28}
-  - {text: "He's going to gather up all his bank books, all his cash, and go from his office.", start: 1324.98, end: 1330.70}
-  - {text: "And he's going to make a stop before he goes over to the auditor's office a few blocks away.", start: 1330.92, end: 1335.98}
-  - {text: "He's going to stop at one of the banks he purchased.", start: 1336.86, end: 1339.36}
-  - {text: "He has this idea that he is going to gain access to the vault of the Hanover Trust Bank.", start: 1339.88, end: 1345.36}
-  - {text: "And he's going to, what should we say, borrow a few million dollars from the vaults, go over to the auditor, show all of this money,", start: 1345.94, end: 1357.02}
-  - {text: "and then return to the bank and take the money.", start: 1357.32, end: 1360.22}
-  - {text: "Temporarily rob his own bank.", start: 1360.22, end: 1362.08}
-  - {text: "That's one way to put it.", start: 1363.19, end: 1364.71}
-  - {text: "That is correct. I'm not saying it's a great plan, Nick, but it's a plan.", start: 1364.91, end: 1369.55}
-  - {text: "The Massachusetts bank regulator, he senses something fishy is up.", start: 1370.09, end: 1373.57}
-  - {text: "He starts asking the banks, hey, how much does Ponzi have in his accounts anyways?", start: 1374.11, end: 1377.91}
-  - {text: "And the bankers tell him, well, not that much actually.", start: 1378.51, end: 1381.17}
-  - {text: "So the regulator arranges a stakeout.", start: 1381.57, end: 1383.99}
-  - {text: "So he starts literally having guys watching the bank that Ponzi is withdrawing money from most aggressively.", start: 1384.41, end: 1391.63}
-  - {text: "And they see that there are Ponzi guys coming to make withdrawals to collect cash.", start: 1392.37, end: 1396.45}
-  - {text: "They realize this is the moment.", start: 1397.23, end: 1399.25}
-  - {text: "They figure there's no way there can be any cash left in that account because there were only a few thousand dollars left.", start: 1399.51, end: 1406.39}
-  - {text: "And so they pounce and they declare him hopelessly insolvent and hopelessly overdrawn.", start: 1406.81, end: 1413.35}
-  - {text: "And this is the end of the road for Ponzi's scheme.", start: 1413.79, end: 1416.17}
-  - {text: "The auditor finally finishes his work.", start: 1416.17, end: 1418.67}
-  - {text: "Ponzi owes about $7 million, probably more, but he only has about $4 million.", start: 1419.43, end: 1424.57}
-  - {text: "The con can't go on any longer.", start: 1425.35, end: 1427.27}
-  - {text: "He turns himself in.", start: 1427.73, end: 1428.65}
-  - {text: "Did he do time?", start: 1429.11, end: 1429.61}
-  - {text: "He did. He spent much of the 1920s in prison, behind bars on various charges, all related to these few, few months of glory.", start: 1430.61, end: 1440.25}
-  - {text: "Charles Ponzi eventually ended up in Brazil.", start: 1440.85, end: 1443.11}
-  - {text: "He died in the charity ward of a hospital with 75 bucks to his name, which went to his burial.", start: 1443.11, end: 1448.73}
-  - {text: "But we all know his name, all because of a brief seven months where he was in the right place at the right frothy economic time with the right pitch.", start: 1449.53, end: 1458.81}
-  - {text: "Why do you think it was that his scheme, his company, his Ponzi grew so fast?", start: 1459.71, end: 1468.00}
-  - {text: "I think there's always a fear of missing out.", start: 1468.18, end: 1471.70}
-  - {text: "FOMO, yeah. FOMO, right.", start: 1471.92, end: 1474.06}
-  - {text: "It's a real thing.", start: 1474.64, end: 1475.48}
-  - {text: "FOMO is real. And so financial FOMO cuts even deeper.", start: 1475.78, end: 1480.74}
-  - {text: "You're not just missing a party.", start: 1480.92, end: 1482.00}
-  - {text: "You're fear of missing out on the ship that was supposed to come in to change your life and to change your family's life.", start: 1482.40, end: 1489.48}
-  - {text: "And so that is part of human nature that Ponzi or people like him exploit.", start: 1490.04, end: 1496.10}
-  - {text: "It's unclear when exactly Ponzi's name became a generic term for the con he pulled off.", start: 1496.76, end: 1502.18}
-  - {text: "But one thing's for sure, it's going to stay that way because Ponzi's keep happening.", start: 1502.72, end: 1507.34}
-  - {text: "It's human nature. FOMO is a new word, but it's a timeless emotion.", start: 1507.90, end: 1512.16}
-  - {text: "So if you'll oblige me, I have one final red flag.", start: 1512.76, end: 1516.02}
-  - {text: "Fear of missing out, don't forget to doubt.", start: 1516.62, end: 1519.94}
-  - {text: "Maybe not. All right, so that was the origin of the Ponzi scam.", start: 1521.70, end: 1527.42}
-  - {text: "But breaking news, 2026, there is a new scam out there.", start: 1527.96, end: 1533.08}
-  - {text: "Involving podcasts of all things.", start: 1533.72, end: 1536.66}
-  - {text: "Yeah, yeah, is there nothing sacred in this world?", start: 1537.30, end: 1540.50}
-  - {text: "Here's what you need to know.", start: 1541.28, end: 1542.34}
-  - {text: "Scammers are impersonating our staff.", start: 1543.16, end: 1545.72}
-  - {text: "Folks from Planet Money and the Indicator.", start: 1546.38, end: 1548.44}
-  - {text: "What we gather is that they're sending out messages to people inviting them to be guests.", start: 1549.12, end: 1553.66}
-  - {text: "Apparently they're often reaching out to folks who are likely to have crypto holdings.", start: 1554.30, end: 1559.00}
-  - {text: "And apparently the fake profiles look quite convincing.", start: 1559.02, end: 1562.18}
-  - {text: "They have fake URLs and social media accounts that they use to corroborate who they are.", start: 1562.18, end: 1566.82}
-  - {text: "Okay, and then this is what we think happens next.", start: 1567.32, end: 1569.56}
-  - {text: "The scammers invite the victims to a video call for the interview.", start: 1569.74, end: 1573.84}
-  - {text: "And then say they need to install some software on the victim's computer to record it.", start: 1574.32, end: 1579.48}
-  - {text: "Then they find some way to distract the person.", start: 1580.06, end: 1582.86}
-  - {text: "Can you go fix the lighting or go put on a sports coat?", start: 1583.16, end: 1586.24}
-  - {text: "You know, look more formal.", start: 1586.46, end: 1587.48}
-  - {text: "And when the person returns to their computer, the scammer has pilfered their crypto holdings.", start: 1587.94, end: 1593.46}
-  - {text: "So it kills me to say this because my job is way easier when people respond to me quickly.", start: 1594.44, end: 1599.10}
-  - {text: "But please be vigilant.", start: 1599.68, end: 1601.74}
-  - {text: "If you ever get a message from us or any other NPR journalist, double check the email address.", start: 1602.90, end: 1608.00}
-  - {text: "Ours will always end with npr .org .org .com.", start: 1608.58, end: 1612.74}
-  - {text: "And this goes without saying, but we'll never ask for remote access to your computer.", start: 1613.36, end: 1617.06}
-  - {text: "We'll never ask for money in exchange for an interview.", start: 1617.38, end: 1619.68}
-  - {text: "And please do us a solid, please share this episode or information with anyone you think who might fall for this.", start: 1619.68, end: 1626.46}
-  - {text: "And if you spot fake social media accounts, please report them to whatever social media platform you see them on and let us know at planetmoney .npr .org.", start: 1626.72, end: 1635.64}
-  - {text: "And please stay safe out there.", start: 1636.16, end: 1638.40}
-  - {text: "As always, thank you to our Planet Money Plus supporters.", start: 1639.05, end: 1641.53}
-  - {text: "They get sponsored for your listening.", start: 1641.83, end: 1642.97}
-  - {text: "They get merch discounts.", start: 1643.07, end: 1644.03}
-  - {text: "They get access to live virtual events and bonus episodes like the most recent one explaining podcast economics from the inside.", start: 1644.55, end: 1652.93}
-  - {text: "Your steadfast support helps us stay independent and ambitious at Planet Money.", start: 1653.94, end: 1658.26}
-  - {text: "You can sign up at plus .npr .org.", start: 1658.82, end: 1662.08}
-  - {text: "That's right. This episode was produced by James Snead.", start: 1662.80, end: 1664.98}
-  - {text: "It was fact -checked by Ceo Juarez, mastered by Natasha Branch, and edited by Jess Jing.", start: 1665.02, end: 1669.20}
-  - {text: "Alex Goldmark is our executive producer.", start: 1669.38, end: 1670.98}
-  - {text: "I'm Nick Fountain. This is NPR.", start: 1671.50, end: 1673.06}
-  - {text: "Thanks for listening. Stay safe.", start: 1673.48, end: 1675.12}
-  - {text: "This message comes from Inspirity, because how you HR matters.", start: 1683.66, end: 1687.86}
-  - {text: "From payroll and benefits to HR compliance and talent development.", start: 1688.24, end: 1691.66}
-  - {text: "Helping your business move forward with confidence.", start: 1691.94, end: 1694.44}
-  - {text: "Learn more at inspirity .com.", start: 1694.80, end: 1696.88}
-  - {text: "This message comes from Google Workspace with Gemini.", start: 1697.12, end: 1701.66}
-  - {text: "Ever notice how every new AI tool asks you to explain your business to it?", start: 1701.98, end: 1706.14}
-  - {text: "All over again? Google Workspace with Gemini skips that.", start: 1706.36, end: 1709.96}
-  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and more.", start: 1709.96, end: 1715.84}
-  - {text: "No new tools. No extra logins.", start: 1716.18, end: 1718.14}
-  - {text: "Just one subscription that gives you personalized AI right inside your actual workflow.", start: 1718.40, end: 1723.22}
-  - {text: "Try Google Workspace with Gemini at go .gele .com. Workspace with Gemini.", start: 1723.64, end: 1729.02}
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.66, explain: "\"Apollo\" is the name of a company that gives money to other businesses. This sentence is the start of an advertisement.", zh: "这条信息来自阿波罗。（Apollo 阿波罗，一家美国私募股权公司）"}
+  - {text: "CEOs and CFOs need more than capital.", start: 2.22, end: 4.86, zh: "首席执行官和首席财务官需要的不仅仅是资金。（CEO 首席执行官；CFO 首席财务官）"}
+  - {text: "They need a financing partner with the scale, flexibility, and certainty to help them execute.", start: 5.28, end: 10.38, explain: "\"Financing partner\" means a company that gives money to help a business grow. \"Scale\" means the size or amount of money available. \"Execute\" means to do a plan or task. This sentence says they need a big and flexible money partner to help them do their work.", zh: "他们需要一家具备规模、灵活性和确定性的融资伙伴，来协助他们执行计划。（financing partner 融资伙伴；execute 执行）"}
+  - {text: "That's where Apollo comes in.", start: 10.84, end: 12.30, explain: "\"That's where\" means that is the situation or place. This sentence says Apollo is the company that can help in this specific way.", zh: "这正是阿波罗发挥作用的地方。"}
+  - {text: "Learn more at Apollo .com slash capital.", start: 12.66, end: 15.66, explain: "\"Learn more\" means to find out more information. This is a call to action in an ad, telling people to visit a website.", zh: "请访问 Apollo.com/slash capital 了解更多。"}
+  - {text: "This is Planet Money from NPR.", start: 17.16, end: 19.44, explain: "\"NPR\" is a radio network in the US. This is the start of the show, Planet Money.", zh: "这里是 NPR 的《Planet Money》节目。（NPR 美国国家公共广播电台）"}
+  - {text: "Most of us in this world are destined to be forgotten.", start: 22.38, end: 25.46, explain: "\"Destined\" means it is written or planned for you to happen. \"Forgotten\" means no one remembers you. This sentence says most people will be forgotten by history.", zh: "在这个世界上，我们大多数人注定会被遗忘。（destined 注定；forgotten 被遗忘）"}
+  - {text: "I know it's sad, but it's true.", start: 26.46, end: 28.86, zh: "我知道这很悲伤，但事实如此。"}
+  - {text: "A lucky few will land in the history books.", start: 28.86, end: 31.48, zh: "只有极少数幸运儿能载入史册。（land in the history books 载入史册）"}
+  - {text: "Fewer still might have our names put on something.", start: 31.92, end: 34.70, zh: "更少的人可能会看到自己的名字被刻在某个东西上。（Fewer still 更少的人）"}
+  - {text: "A road sign, a stadium, maybe even get a statue or a plaque.", start: 35.48, end: 39.62, explain: "\"Stadium\" is a large building for sports. \"Statue\" is a sculpture of a person. \"Plaque\" is a small sign or plate with a name on it. This sentence lists things that might be named after a person.", zh: "比如路牌、体育场，甚至可能立一座雕像或一块纪念牌。（plaque 纪念牌，铭牌）"}
+  - {text: "Probably the least likely scenario is to become so famous or so infamous that our names will live on in language.", start: 40.67, end: 49.37, explain: "\"Infamous\" means famous for bad things. \"Live on\" means to continue to exist. This sentence says it is very rare for a person's name to stay in the language because they were very famous or very bad.", zh: "最不可能发生的情况是，我们变得如此出名或臭名昭著，以至于我们的名字能融入语言中。（infamous 臭名昭著的；live on in language 融入语言，成为常用词）"}
+  - {text: "Jerry Mander, the word named after Elbridge Gary, 19th century governor of Massachusetts and early pioneer of the Gary Mander.", start: 50.65, end: 59.39, explain: "A \"governor\" is the leader of a state. A \"pioneer\" is one of the first people to do something new. The sentence is cut off and the meaning is unclear because the transcript has errors.", zh: "曼德林琴，是以十九世纪马萨诸塞州州长、早期曼德林琴先驱埃尔布里奇·加里的名字命名的。（Mander 曼德林琴；Elbridge Gary 埃尔布里奇·加里；pioneer 先驱）"}
+  - {text: "Saxophone named after its inventor, Adolfi Sax.", start: 60.27, end: 63.83, explain: "A \"saxophone\" is a musical instrument. \"Adolfi Sax\" is the name of the person who made it. The sentence says the instrument is named after its creator.", zh: "萨克斯管是以其发明者阿道夫·萨克斯的名字命名的。（Saxophone 萨克斯管；Adolfi Sax 阿道夫·萨克斯）"}
+  - {text: "And then there's the Ponzi.", start: 64.99, end: 67.07, zh: "然后还有庞氏骗局。（Ponzi 庞氏，指庞氏骗局）"}
+  - {text: "The Ponzi scheme named after one, Charles Ponzi.", start: 67.21, end: 72.09, explain: "A \"Ponzi scheme\" is a type of financial fraud. \"Charles Ponzi\" is the name of the man who started it. The sentence says the scheme is named after him.", zh: "庞氏骗局是以查尔斯·庞兹的名字命名的。（Ponzi scheme 庞氏骗局；Charles Ponzi 查尔斯·庞兹）"}
+  - {text: "A Ponzi scheme is an investment opportunity that's more of a con.", start: 73.93, end: 78.35, explain: "A \"con\" is a trick or a lie used to steal money. The sentence says a Ponzi scheme is not a real investment, but a trick.", zh: "庞氏骗局本质上是一种投资骗局，更像是一场欺诈。（Ponzi scheme 庞氏骗局；con 骗局，欺诈）"}
+  - {text: "The way it works is you have to use or steal money from newer investors to pay back the earlier ones.", start: 79.06, end: 85.84, explain: "\"Investors\" are people who put money into a business to make more money. The sentence says you must take money from new people to pay the old people.", zh: "它的运作方式是用新投资者的钱，甚至偷窃他们的钱，来支付给早期投资者。（investors 投资者；pay back 偿还，回报）"}
+  - {text: "They happen all the time these days.", start: 86.58, end: 89.20, zh: "如今这类事情经常发生。"}
+  - {text: "In fact, just recently, Travis Kelsey, husband to Taylor Swift, was named by prosecutors as a victim in a $35 million Ponzi scheme.", start: 89.42, end: 98.80, explain: "\"Prosecutors\" are officials who bring legal cases against people. \"Victim\" means a person who was hurt or lost money. The sentence says Travis Kelsey was a victim in a big scam.", zh: "事实上，就在最近，泰勒·斯威夫特的丈夫特拉维斯·凯尔西被检察官列为一起三千五百万美元庞氏骗局的受害者。（prosecutors 检察官；victim 受害者）"}
+  - {text: "But I'm just going to come out and say it.", start: 99.73, end: 100.99, zh: "但我得直说了。"}
+  - {text: "Most of the time, these modern day Ponzi's, they're amateur hour compared to the one pulled off by Charles Ponzi.", start: 101.07, end: 108.39, explain: "\"Amateur hour\" means a time when people are not good at what they do. \"Pulled off\" means to successfully do something difficult. The sentence says modern scams are not as good as the original one.", zh: "大多数时候，这些现代版的庞氏骗局，跟查尔斯·庞兹搞的那出比起来，简直是小巫见大巫。（amateur hour 业余水平，拙劣的表现；pulled off 完成，做成）"}
+  - {text: "An Italian immigrant living in Boston who pulled off his scheme for a brief seven months about a hundred years ago.", start: 108.97, end: 115.19, explain: "An \"immigrant\" is a person who moves to a new country to live. The sentence describes Charles Ponzi as an Italian man who lived in Boston and ran his scam for seven months.", zh: "他是一位住在波士顿的意大利移民，大约一百年前，他的骗局只持续了短短七个月。（immigrant 移民；scheme 骗局，计划）"}
+  - {text: "He wasn't the first, he wouldn't be the biggest, but after you hear his story, you'll get it.", start: 115.19, end: 120.05, zh: "他不是第一个，也不会是最大的，但听完他的故事，你就明白了。"}
+  - {text: "You'll get why he's allowed to live on forever in infamy.", start: 120.35, end: 123.91, explain: "\"Infamy\" means being famous for bad things. The speaker says you will understand why this man is remembered as a very bad person for a long time.", zh: "你会明白为什么他能在臭名昭著的历史中永垂不朽。（infamy 恶名，耻辱）"}
+  - {text: "Hello and welcome to Planet Money.", start: 124.64, end: 125.62, zh: "大家好，欢迎收听《Planet Money》。"}
+  - {text: "I'm Nick Fountain. Today on the show, in honor of the newlyweds, Taylor and Travis, one of my favorite shows from the vault, the story of how Charles Ponzi stole millions of dollars and defrauded tens of thousands of people.", start: 125.94, end: 139.14, explain: "\"Newlyweds\" are people who have just gotten married. \"Defrauded\" means to cheat people by taking their money. The host introduces the story of Charles Ponzi, who cheated many people.", zh: "我是Nick Fountain。今天为了祝贺新婚的泰勒和特拉维斯，我们带来了档案库中我最喜欢的节目之一，讲述查尔斯·庞兹如何窃取数百万美元并诈骗数万人。（vault 档案库；defrauded 诈骗）"}
+  - {text: "It's way wilder than you think it involves a system of speculating on worldwide currencies thanks to a loophole in the global mail system, a daring plan to rob a bank, and a very generous pound of flesh.", start: 139.60, end: 153.64, explain: "\"Speculating\" means trying to make money by guessing what will happen in the future. \"Loophole\" is a weak point in the rules that people can use to their advantage. \"Pound of flesh\" means taking a harsh punishment or payment from someone. The story is very exciting and involves cheating the mail system and robbing a bank.", zh: "这比你想的要疯狂得多，涉及利用全球邮件系统的漏洞进行全球货币投机，一个大胆抢银行的计划，以及一笔非常慷慨的“皮肉债”。（loophole 漏洞；speculating 投机）"}
+  - {text: "And you're going to want to stick around till the end because there is some news.", start: 154.38, end: 158.82, explain: "\"Stick around\" means to stay and listen. The host asks you to listen until the end because there is important news to share.", zh: "大家一定要听到最后，因为有一些新闻。（stick around 留下来，坚持听）"}
+  - {text: "Apparently scammers have been impersonating us at Planet Money and other podcasters too.", start: 159.34, end: 165.22, explain: "\"Impersonating\" means pretending to be someone else. Scammers are pretending to be the Planet Money team and other podcasters.", zh: "显然，诈骗者一直在冒充我们《Planet Money》以及其他播客主播。（impersonating 冒充，伪装）"}
+  - {text: "We're going to share what we know and how to avoid falling for their traps.", start: 165.64, end: 170.02, explain: "\"Falling for\" means being tricked or fooled. The team will explain how to avoid being tricked by these scammers.", zh: "我们将分享我们所知道的情况，以及如何避免落入他们的陷阱。（traps 陷阱）"}
+  - {text: "This message comes from Inspirity because how you HR matters, from payroll and benefits to HR compliance and talent development, helping your business move forward with confidence.", start: 178.90, end: 189.26, explain: "This is an advertisement. \"HR\" stands for Human Resources, which is the part of a company that deals with employees. \"Compliance\" means following the laws and rules. The ad says their service helps companies manage their staff and follow the rules.", zh: "这条信息来自Inspirity，因为你的HR（人力资源）管理至关重要，从薪资福利到HR合规和人才发展，帮助你的业务自信前行。（HR 人力资源；compliance 合规）"}
+  - {text: "Learn more at inspirity .com slash HR matters.", start: 189.60, end: 193.08, explain: "This is part of the advertisement. It tells you where to go on the internet to learn more about the service.", zh: "请访问 inspirity.com/slash HR matters 了解更多。"}
+  - {text: "This message comes from Schwab.", start: 193.68, end: 195.44, explain: "\"Schwab\" is the name of a company that helps people save and grow money. This is an ad for that company.", zh: "这条信息来自嘉信理财。"}
+  - {text: "Investing with Schwab is like a hike with endless trails.", start: 196.04, end: 198.94, explain: "\"Investing\" means putting money into things to make more money. \"Endless\" means never stopping. The ad says using Schwab is like a long walk with many paths.", zh: "在嘉信理财投资，就像是一场拥有无尽小径的徒步旅行。"}
+  - {text: "Go solo with self -directed investing.", start: 199.50, end: 201.44, explain: "\"Go solo\" means to do something by yourself. \"Self-directed\" means you make all the choices. The ad says you can manage your money alone.", zh: "你可以选择独自前行，进行自主投资。"}
+  - {text: "Take stops along the way with trading or choose a guide with full service wealth management.", start: 201.88, end: 206.52, zh: "沿途可以停下来进行股票交易，或者选择一位向导，享受全方位的财富管理服务。（self-directed investing 自主投资；full service wealth management 全方位财富管理）"}
+  - {text: "Whatever trails you take, you can invest your way with Schwab.", start: 206.52, end: 210.40, explain: "\"Whatever\" means no matter which. The ad says you can choose any path and invest in your own way with Schwab.", zh: "无论选择哪条小径，你都可以按自己的方式在嘉信理财投资。"}
+  - {text: "This message is from Synchrony Bank, who wants to remind you to stay flexible.", start: 211.78, end: 216.00, explain: "\"Synchrony Bank\" is the name of a bank. \"Remind\" means to help someone remember. The bank wants you to remember to be flexible with money.", zh: "这条信息来自 Synchrony 银行，他们想提醒你保持灵活。"}
+  - {text: "Not the 10 ,000 steps before breakfast, yoga bending, circus performing, wish I hadn't done that kind of flexible.", start: 216.48, end: 222.66, explain: "\"Yoga bending\" is moving your body in yoga. \"Circus performing\" is doing tricks in a circus. The speaker jokes that this is not the kind of flexibility they mean.", zh: "不是指早餐前的一万步、瑜伽拉伸、马戏团表演，或者是那种“我真希望没做那件事”的灵活。（flexible 灵活；circus performing 马戏团表演）"}
+  - {text: "It's about staying financially flexible, like with their high yield savings account.", start: 223.12, end: 226.64, explain: "\"Financially\" means about money. \"High yield\" means you get a lot of extra money back. The bank talks about being flexible with your savings.", zh: "关键在于保持财务上的灵活性，比如使用他们的高息储蓄账户。（financially flexible 财务上灵活；high yield 高收益）"}
+  - {text: "You'll earn a great rate without monthly fees or minimums that can slow your progress.", start: 227.00, end: 230.72, explain: "\"Rate\" is the amount of extra money you get for saving. \"Minimums\" are the smallest amounts of money you must keep. The bank says you do not need to pay extra fees or keep a small amount of money.", zh: "你可以获得很棒的利率，而且没有月费或最低存款要求，这些都会阻碍你的财务进步。（rate 利率；minimums 最低限额）"}
+  - {text: "Go to synchrony .com slash NPR.", start: 231.20, end: 233.36, explain: "\"Synchrony\" is the name of a company that makes credit cards. This is a short ad telling you where to find more information online.", zh: "请访问 synchrony.com 斜杠 NPR。（synchrony 辛卡尼，一家金融服务公司；NPR 美国国家公共广播电台）"}
+  - {text: "A Ponzi. A word so familiar that it just rolls off the tongue.", start: 237.14, end: 241.86, explain: "\"Rolls off the tongue\" means a word is very easy to say. \"Ponzi\" is a word people use to describe a specific type of fraud.", zh: "庞氏骗局。这个词太熟悉了，简直信手拈来。（Ponzi 庞氏，指庞氏骗局；rolls off the tongue 脱口而出，形容很顺口）"}
+  - {text: "A shorthand for robbing Peter to pay Paul.", start: 242.30, end: 245.14, explain: "\"Shorthand\" means a short way of saying something. \"Robbing Peter to pay Paul\" means taking money from one person to give to another, usually in a way that is not fair or sustainable.", zh: "这是“拆东墙补西墙”的代名词。（shorthand 简写，代名词；robbing Peter to pay Paul 拆东墙补西墙，挪用甲的钱去还乙）"}
+  - {text: "And while his name has become infamous, the story of Charles Ponzi was not that well known.", start: 245.96, end: 251.02, explain: "\"Infamous\" means famous for bad reasons. The sentence says that although everyone knows the name, the full story was not well known.", zh: "虽然他的名字已臭名昭著，但查尔斯·庞兹的故事其实并不广为人知。（infamous 臭名昭著的；Charles Ponzi 查尔斯·庞兹，庞氏骗局创始人）"}
+  - {text: "That is, until journalist and author Mitch Zuckoff just kind of stumbled upon it.", start: 251.44, end: 255.80, explain: "\"Stumbled upon\" means to find something by accident. \"Mitch Zuckoff\" is the name of the writer.", zh: "直到记者兼作家米奇·祖科夫偶然发现了这段历史。（Mitch Zuckoff 米奇·祖科夫，记者；stumbled upon 偶然发现）"}
+  - {text: "I was a banking reporter for a while at the Boston Globe, and I was at a press conference, and the state treasurer just offhandedly said,", start: 256.00, end: 263.66, explain: "\"Offhandedly\" means in a casual way, without thinking too much. \"State treasurer\" is a government official who manages money. The speaker is telling a story from his past.", zh: "我在《波士顿环球报》当过一段时间的银行记者，当时我在参加一场新闻发布会，州财政长随口说道……（Boston Globe 《波士顿环球报》；state treasurer 州财政长）"}
+  - {text: "banks haven't failed like this in Boston since Ponzi's day.", start: 263.66, end: 267.46, explain: "\"Failed\" means the banks stopped working or went out of business. This is a quote from the official in the previous sentence.", zh: "自庞氏时代以来，波士顿的银行就没再像这样倒闭过。（Ponzi 庞氏，金融诈骗案发起人；scheme 骗局）"}
+  - {text: "And I did a comic double take of, huh?", start: 268.06, end: 271.44, explain: "\"Double take\" means to look at something again because you are surprised. \"Comic\" means funny. The speaker was surprised by what the official said.", zh: "我当时还滑稽地瞪大了眼睛，心想：嗯？（double take 惊讶地再看一眼；comic 滑稽的）"}
+  - {text: "And he said, yeah, you knew Ponzi was based here in Boston.", start: 272.26, end: 274.90, explain: "\"Based\" means living or working in a specific place. The speaker says that the other person knew that Charles Ponzi lived and worked in Boston.", zh: "他说，是啊，你知道庞氏就是在这里波士顿发迹的。（based 基于，位于；here 这里）"}
+  - {text: "And I said, yeah, sure, I knew that.", start: 275.48, end: 277.36, explain: "\"Sure\" is a casual way to say yes or to agree. The speaker confirms that they knew this fact.", zh: "我说，是啊，当然，我知道这件事。（sure 当然；knew 知道）"}
+  - {text: "I'm a banking reporter.", start: 277.56, end: 278.42, explain: "A \"reporter\" is a person who writes news stories. The speaker says their job is to write news about banks.", zh: "我是一名银行记者。（banking 银行业；reporter 记者）"}
+  - {text: "Of course I knew that.", start: 278.58, end: 279.28, zh: "我当然知道。（Of course 当然；knew 知道）"}
+  - {text: "I had no idea.", start: 279.60, end: 280.22, zh: "我完全没料到。（no idea 没主意，不知道）"}
+  - {text: "Mitch kind of became obsessed with Ponzi and wrote a book about him.", start: 280.60, end: 284.18, explain: "\"Obsessed\" means thinking about something all the time because you like it very much. \"Mitch\" is a person's name. Mitch became very interested in Ponzi and wrote a book about him.", zh: "米奇后来对庞氏非常着迷，还写了一本书关于他。（obsessed 着迷的；wrote 写）"}
+  - {text: "It's called Ponzi's Scheme, the True Story of a Financial Legend.", start: 284.52, end: 288.28, explain: "\"Scheme\" means a plan, often a bad or illegal one. \"Legend\" means a famous person or story. The book is called \"Ponzi's Scheme, the True Story of a Financial Legend\".", zh: "这本书叫《庞氏骗局：一位金融传奇的真实故事》。（Ponzi's Scheme 庞氏骗局；Financial Legend 金融传奇）"}
+  - {text: "To write the book, Mitch went to Italy and found Ponzi's birth records.", start: 289.06, end: 292.28, zh: "为了写这本书，米奇去了意大利，找到了庞齐的出生记录。（birth records 出生记录）"}
+  - {text: "He read thousands of court documents.", start: 292.28, end: 294.48, zh: "他阅读了数千份法庭文件。（court documents 法庭文件）"}
+  - {text: "He found records of every single victim, and he read Ponzi's private letters.", start: 294.66, end: 299.24, zh: "他找到了每一位受害者的记录，还读了庞齐的私人信件。（victim 受害者；private letters 私人信件）"}
+  - {text: "He also looked through a bunch of photos.", start: 299.84, end: 301.58, explain: "\"A bunch of\" means a large number of. He looked at many photos.", zh: "他还翻看了大量照片。（a bunch of 大量的，一堆）"}
+  - {text: "There aren't many from when Ponzi's young, but in one, he's dressed in this three -piece suit with a tie.", start: 301.84, end: 306.96, zh: "庞齐年轻时的照片不多，但有一张里，他穿着三件套西装，打着领带。（three-piece suit 三件套西装）"}
+  - {text: "He has a pretty well -kept mustache, perfectly combed hair, and these big, thick eyebrows.", start: 307.18, end: 312.50, explain: "\"Well-kept\" means clean and neat. \"Combed\" means brushed with a comb. He has a neat mustache, neat hair, and thick eyebrows.", zh: "他留着修剪整齐的胡子，头发梳得一丝不苟，还有浓密的大眉毛。（well-kept 精心打理的；combed 梳过的）"}
+  - {text: "And it's also worth mentioning that Ponzi is, uh, he's diminutive.", start: 313.20, end: 317.08, explain: "\"Diminutive\" means very small in size. The speaker says that Ponzi was a short man.", zh: "还有一点值得一提，就是庞齐个子很矮。（diminutive 矮小的，身材矮的）"}
+  - {text: "You know, he's a guy five, two, five, I think he lied about being five, three, you know?", start: 317.36, end: 321.68, zh: "你知道，他身高五英尺二，我觉得他谎称自己有五英尺三，对吧？（five, two 五英尺二，约157厘米；five, three 五英尺三，约160厘米）"}
+  - {text: "Yes. And so if Ponzi was going to make it, he understood he had to do it with his head.", start: 322.36, end: 329.26, explain: "\"Make it\" means to be successful. \"With his head\" means using his brain and thinking carefully, not just luck. The speaker says Ponzi knew he needed to think smart to succeed.", zh: "是的。所以如果庞氏想要成功，他明白必须靠脑子。（Ponzi 庞氏，金融骗子；make it 成功，出人头地）"}
+  - {text: "Uh -huh. Just because he's a little guy.", start: 329.96, end: 331.86, explain: "\"Little guy\" means a man who is short. The speaker agrees that Ponzi was short.", zh: "嗯哼。就因为他个子矮。（a little guy 个子矮的人）"}
+  - {text: "He's a little guy.", start: 332.28, end: 333.00, zh: "他个子很矮。（a little guy 个子矮的人）"}
+  - {text: "Yeah. Maybe it was the height, maybe it was something else, but throughout his life, Ponzi was always looking for the thing that was going to make him rich.", start: 333.32, end: 341.58, explain: "\"Throughout his life\" means during all the years he lived. \"Looking for\" means trying to find. The sentence says Ponzi always wanted to find a way to become rich.", zh: "是啊。也许是身高，也许是别的什么，但在他的一生中，庞氏总是在寻找能让他致富的东西。（Ponzi 庞氏，金融骗子）"}
+  - {text: "He was the type to take big swings, big risks that often involved leaps of faith.", start: 342.26, end: 347.28, explain: "\"Take big swings\" means to try very hard to win big, even if it is risky. \"Leaps of faith\" means making a choice without being sure it will work. Ponzi liked to take big risks.", zh: "他是那种敢于大赌、承担巨大风险的人，这些风险往往需要极大的信念。（big swings 大赌注，冒险举动；leaps of faith 需要极大信任的举动，孤注一掷）"}
+  - {text: "And in 1903, he did what many young Italians in search of riches were doing back then.", start: 347.96, end: 352.68, explain: "\"In search of riches\" means looking for money and wealth. \"Back then\" means in the past, at that time. In 1903, Ponzi did what many young Italians did to find money.", zh: "1903年，他做了当时许多寻求财富的意大利年轻人都在做的事。（in search of riches 寻求财富）"}
+  - {text: "He got on a boat to America.", start: 353.06, end: 354.78, explain: "\"Got on a boat\" means he boarded a ship. The sentence says he traveled to America by ship.", zh: "他登上了一艘去美国的船。"}
+  - {text: "For the greater part of the next two decades, Ponzi tried to make his fortune.", start: 355.76, end: 359.46, explain: "\"For the greater part\" means for most of the time. \"Make his fortune\" means to become very rich. For most of the next 20 years, Ponzi tried to get rich.", zh: "在接下来的二十年里的大部分时间里，庞齐一直在试图发家致富。（greater part 大部分；decades 十年期）"}
+  - {text: "This guy had more jobs that in a more of a varied resume than anybody I've ever heard of.", start: 360.06, end: 367.88, explain: "A \"resume\" is a list of a person's jobs and education. The speaker says this man had a very long and varied list of jobs, more than anyone else they know.", zh: "这家伙干过的工作比我所知道的任何人的简历都要丰富多样。（varied 多样的；resume 简历）"}
+  - {text: "Can you just list off some of the jobs?", start: 367.98, end: 369.34, zh: "你能列举一些他做过的工作吗？（list off 列举）"}
+  - {text: "Oh boy. He worked in a bank.", start: 370.26, end: 373.32, explain: "\"Oh boy\" is a phrase used to show surprise or strong feeling. The speaker is surprised that the man worked in a bank.", zh: "天哪，他在银行工作过。（bank 银行）"}
+  - {text: "He was a translator.", start: 373.46, end: 374.34, explain: "A \"translator\" is a person who changes words from one language to another.", zh: "他当过翻译。（translator 翻译）"}
+  - {text: "He was a mining camp nurse.", start: 374.62, end: 376.28, explain: "A \"mining camp\" is a place where people live while working in a mine. A \"nurse\" is a person who helps sick people.", zh: "他当过矿区的护士。（mining camp 矿区营地）"}
+  - {text: "He was a road roller.", start: 376.44, end: 377.68, explain: "A \"road roller\" is a heavy machine that flattens roads. Here it means he drove this machine.", zh: "他开过压路机。（road roller 压路机）"}
+  - {text: "He was a sign painter.", start: 378.10, end: 379.58, explain: "A \"sign painter\" is a person who paints words on signs or walls.", zh: "他当过招牌油漆工。（sign painter 招牌油漆工）"}
+  - {text: "On and on. Grocery clerk, factory hand, dishwasher, waiter, librarian.", start: 379.58, end: 385.28, explain: "\"On and on\" means continuing for a long time. A \"grocery clerk\" sells food. A \"factory hand\" works in a factory. A \"librarian\" works in a library.", zh: "就这样一直干下去。超市收银员、工厂工人、洗碗工、服务员、图书管理员。（grocery clerk 杂货店店员；factory hand 工厂工人）"}
+  - {text: "He was a itinerant immigrant rolling up and down the east coast of the United States looking for work and trying to find his place.", start: 385.82, end: 395.76, explain: "An \"itinerant\" person moves from place to place and does not stay in one home. \"Rolling up and down\" means moving back and forth along the coast. \"Finding his place\" means finding where he belongs in life.", zh: "他是个四处漂泊的移民，沿着美国东海岸到处找活儿干，试图找到自己的位置。（itinerant 四处漂泊的；rolling up and down 来回奔波）"}
+  - {text: "And Ponzi's big swings, high risk, figure out the details later attitude, it wasn't just about getting rich.", start: 396.32, end: 402.48, explain: "\"Swings\" here means big changes or moves. \"High risk\" means there is a big chance of losing money. The sentence says that Ponzi's wild and dangerous way of working was not only about making money.", zh: "庞兹那种大开大合、高风险、细节以后再说的态度，不仅仅是为了发财。（big swings 大开大合，指行事风格激进；attitude 态度，作风）"}
+  - {text: "This one time, Mitch says, Ponzi was working at a mining camp in Appalachia when there was a terrible accident at a hospital.", start: 403.02, end: 410.30, explain: "\"Appalachia\" is a mountain area in the US. The sentence is a fragment; it starts a story about a bad accident at a hospital near a mining camp.", zh: "米奇说，有一次庞兹在阿巴拉契亚的一个采矿营地干活时，医院发生了一起可怕的事故。（Appalachia 阿巴拉契亚，美国东部山区；mining camp 采矿营地）"}
+  - {text: "A nurse named Pearl was burned when a gas stove burst.", start: 410.78, end: 414.18, explain: "\"Burst\" means broke open suddenly. A nurse named Pearl got burned when a gas stove broke open.", zh: "一位名叫珀尔的护士被烧伤了，当时一个煤气炉炸开了。（burst 爆裂，炸开）"}
+  - {text: "He's sitting down for a beer with this doctor.", start: 414.68, end: 416.90, explain: "\"Sitting down for a beer\" means sitting and drinking beer together. He is sitting with a doctor and drinking beer.", zh: "他正和一位医生坐在一起喝啤酒。（sitting down for a beer 坐下来喝杯啤酒）"}
+  - {text: "He knows at the mining camp and he's asks, you know, how's Pearl?", start: 417.20, end: 420.70, explain: "\"Knows at the mining camp\" means he knows people there. The sentence has a small mistake; it should say \"he asks\". He asks the doctor how Pearl is doing.", zh: "他在采矿营地认识这位医生，于是问：“珀尔怎么样了？”（asks 问，此处指询问情况）"}
+  - {text: "And the doctor tells him, you know, it's pretty desperate.", start: 421.48, end: 423.64, zh: "医生告诉他，情况很危急。（desperate 危急的，绝望的）"}
+  - {text: "Gangrene is setting in.", start: 423.98, end: 425.20, explain: "\"Gangrene\" is a serious illness where body tissue dies. \"Setting in\" means starting to happen. The doctor says the dead tissue is starting to spread.", zh: "坏疽正在蔓延。（Gangrene 坏疽，指组织坏死）"}
+  - {text: "And so Ponzi says, how can you help her?", start: 425.96, end: 428.08, zh: "于是庞齐问，你能怎么帮她？"}
+  - {text: "And he says, maybe a skin graft.", start: 428.46, end: 429.96, explain: "\"Skin graft\" is a medical operation where healthy skin is moved to a burned area. He suggests trying this operation.", zh: "他说，也许可以做植皮手术。（skin graft 植皮手术）"}
+  - {text: "And you know, he wanted to try it, but he couldn't find anyone who'd give up their skin to save this woman they didn't know at all.", start: 430.32, end: 437.18, explain: "\"Give up their skin\" means donate skin for the operation. He wanted to try the operation, but no one wanted to give their skin to save a stranger.", zh: "你知道，他想试试，但找不到愿意献出皮肤来救这个陌生人的。（skin 皮肤；give up 献出，放弃）"}
+  - {text: "And Ponzi didn't really know her either.", start: 437.82, end: 439.98, zh: "其实庞齐也不真正认识她。"}
+  - {text: "But in the moment, Ponzi said, how much do you need?", start: 440.38, end: 444.86, explain: "\"In the moment\" means at that exact time, while the event is happening. The sentence says that at that time, Ponzi asked how much skin was needed.", zh: "但在那一刻，庞齐问，你需要多少？"}
+  - {text: "How much skin do you need?", start: 445.16, end: 446.10, zh: "你需要多少皮肤？"}
+  - {text: "And he said, well, probably 40 or 50 square inches.", start: 446.24, end: 448.58, explain: "\"Square inches\" is a unit for measuring the size of a flat area. The speaker says the doctor probably needed 40 or 50 of these units of skin.", zh: "他说，大概需要40到50平方英寸。（square inches 平方英寸）"}
+  - {text: "Ponzi said, you got him.", start: 449.60, end: 450.76, explain: "\"You got him\" is a phrase that means you have the person you need or you have caught the person. Here, it means Ponzi had the person who could give the skin.", zh: "庞齐说，你抓到他了。（Ponzi 庞齐，著名金融诈骗犯）"}
+  - {text: "I'll give you all the skin you need.", start: 451.10, end: 452.24, zh: "我会给你们所有需要的皮肤。（skin 皮肤，此处指用于移植的皮瓣）"}
+  - {text: "Ponzi was on an operating table that evening.", start: 452.94, end: 456.08, explain: "An \"operating table\" is a special bed in a hospital where doctors do surgery. The sentence says Ponzi was on this bed that evening.", zh: "那天晚上，庞齐被送上了手术台。（operating table 手术台）"}
+  - {text: "Doctors cut off 72 square inches of skin from his thighs.", start: 456.56, end: 460.08, explain: "\"Thighs\" are the upper parts of the legs, between the hips and the knees. The doctors cut 72 square inches of skin from these parts of his legs.", zh: "医生从他大腿上切下了72平方英寸的皮肤。（thighs 大腿）"}
+  - {text: "Later, he gave another 50 inches from his back.", start: 460.66, end: 463.12, zh: "后来，他又从背部提供了50平方英寸的皮肤。（inches 英寸，长度单位）"}
+  - {text: "It was a classic Ponzi big swing.", start: 463.60, end: 465.48, explain: "A \"big swing\" is a very large and risky action. The sentence says this was a typical big, risky move for Ponzi.", zh: "这是典型的庞齐式的大手笔。（big swing 大手笔，指风险高、赌注大的举动）"}
+  - {text: "And it was risky.", start: 465.64, end: 466.32, explain: "\"Risky\" means there is a chance of something bad happening. The sentence says the action was dangerous.", zh: "而且这很冒险。（risky 冒险的，有风险的）"}
+  - {text: "He ended up spending months in the hospital.", start: 466.32, end: 468.80, explain: "The sentence says he stayed in the hospital for many months.", zh: "他最终在医院住了好几个月。（ended up 最终，结果）"}
+  - {text: "But it paid off.", start: 469.12, end: 470.48, explain: "\"Paid off\" means it worked well and gave a good result. The sentence says that the risky thing they did was successful.", zh: "但结果很值得。（paid off 有回报，值得）"}
+  - {text: "The nurse, Pearl, she lived.", start: 470.78, end: 472.74, zh: "那位名叫珀尔的护士活了下来。（Pearl 珀尔，人名）"}
+  - {text: "It's an incredible story.", start: 473.54, end: 475.44, explain: "\"Incredible\" means very surprising or amazing. The speaker thinks the story is very hard to believe.", zh: "这是一个不可思议的故事。（incredible 不可思议的，难以置信的）"}
+  - {text: "And it doesn't fit the picture I have of Ponzi.", start: 475.72, end: 480.80, zh: "这与我印象中庞兹的形象不符。（Ponzi 庞兹，金融骗子）"}
+  - {text: "I love that. I thought I was going to write about a guy who was just a schemer, who was just a snake.", start: 481.02, end: 486.96, explain: "A \"schemer\" is a person who plans tricks to cheat others. A \"snake\" is a bad word for a person who is not honest and hurts others. The speaker expected the man to be only a bad person.", zh: "我喜欢这一点。我原本以为要写的是一个纯粹搞阴谋的人，一条毒蛇。（schemer 阴谋家；snake 毒蛇，喻指阴险的人）"}
+  - {text: "And the deeper I went, the more I felt sort of the stirrings of sympathy, the stirrings of empathy.", start: 487.54, end: 497.58, explain: "\"Stirrings\" means the first small feelings that start to grow. \"Sympathy\" and \"empathy\" both mean feeling sorry for someone or understanding their feelings. The speaker started to feel sorry for the man.", zh: "随着我深入挖掘，我内心逐渐泛起一丝同情和共情的涟漪。（stirrings 萌芽，微弱的冲动；empathy 共情，同理心）"}
+  - {text: "And what he did was wrong.", start: 498.36, end: 499.92, explain: "This short sentence says that the man did something bad. \"Wrong\" means not right or not good.", zh: "他所做的都是错的。（wrong 错误的，不对的）"}
+  - {text: "I'm not confused by that.", start: 500.74, end: 502.72, zh: "对此我并不感到困惑。（confused 困惑的，迷茫的）"}
+  - {text: "But I kind of understood the motivation of a guy who couldn't stop, as he put it, the snowball once it started rolling downhill and not get rolled over by it.", start: 503.02, end: 515.72, explain: "\"Motivation\" is the reason why a person does something. \"Snowball\" is a metaphor for a problem that gets bigger and harder to stop. The speaker understood why the man could not stop the bad thing from growing.", zh: "但我多少能理解他的动机，用他自己的话说，一旦雪球开始往下滚，他就停不下来，只能眼睁睁看着自己被它碾过。（snowball 雪球，比喻不断扩大的局面；rolled over 被碾过，指被局势吞没）"}
+  - {text: "This next chapter of Ponzi's story is all about that snowball, how he got the idea that started it rolling, and how he turned this big idea into a big scam that was hard to stop.", start: 516.04, end: 528.00, explain: "\"Chapter\" is a part of a story. \"Scam\" is a trick to steal money. The next part of the story explains how the man started this big trick and why it was hard to stop.", zh: "庞氏故事的下一章全都在讲这个雪球，他是如何产生那个让雪球滚起来的点子，又是怎样把这个大点子变成一场难以收场的大骗局的。（scam 骗局；hard to stop 难以停止，指难以控制或收场）"}
+  - {text: "And as his story unfolds, you're going to hear some obvious red flags.", start: 528.68, end: 532.62, explain: "\"Unfolds\" means the story opens up and shows more details. \"Red flags\" are signs that show something is wrong or dangerous. You will hear clear signs that the man was doing something bad.", zh: "随着故事展开，你会听到一些明显的危险信号。（red flags 危险信号，指警示征兆）"}
+  - {text: "In part, because I'm going to point them out.", start: 533.02, end: 534.28, zh: "部分原因是我会特意指出这些信号。（point out 指出，特意说明）"}
+  - {text: "I'm going to give the red flags these little rhymes.", start: 534.54, end: 537.02, explain: "\"Red flags\" are signs that something is wrong or dangerous. A \"rhyme\" is a short poem where the end words sound the same. The speaker says they will make short poems to help people remember the warning signs.", zh: ": 我会给这些危险信号配上简短的顺口溜。（rhymes 顺口溜，押韵的短句）"}
+  - {text: "Here it goes. By 1919, Ponzi had spent 15 years trying to make it in the U .S.", start: 537.60, end: 543.12, explain: "\"Make it\" means to be successful or to achieve your goals. The sentence says that by 1919, Ponzi had spent 15 years trying to be successful in the United States.", zh: "接下来。到1919年，庞氏已经花了15年时间试图在美国站稳脚跟。（make it in 成功立足，指在异地取得成功）"}
+  - {text: "He was living in Boston.", start: 543.32, end: 544.24, explain: "This simple sentence tells us where Ponzi was living at that time. He was in the city of Boston.", zh: "当时他住在波士顿。（Boston 波士顿，美国马萨诸塞州首府）"}
+  - {text: "He'd gotten married. He'd rented an office downtown right next to City Hall.", start: 544.52, end: 548.06, explain: "\"Downtown\" is the main business area of a city. \"City Hall\" is the building where the city government works. He had married and rented an office in the city center, next to the government building.", zh: "他结了婚，还在市中心租了一间办公室，就挨着市政厅。（City Hall 市政厅，市政府所在地）"}
+  - {text: "And then one day in August, he's going through the mail.", start: 548.54, end: 551.10, zh: "然后八月的某一天，他在翻查邮件。（going through 翻查，浏览）"}
+  - {text: "He opens a letter and outflutters this little, it almost looks like a dollar bill, but it's kind of squared.", start: 551.52, end: 557.98, explain: "\"Outflutters\" means it flies out quickly and lightly. The sentence describes a small paper coming out of a letter. It looks like a dollar bill but is square-shaped.", zh: "他打开一封信，里面飘出一张小小的纸片，看起来像美元钞票，但形状有点方。（flutters 飘出，飘动）"}
+  - {text: "And it's an international reply coupon.", start: 558.44, end: 561.20, explain: "This sentence identifies the object. It is a special stamp used for international mail.", zh: "那是一张国际回邮代金券。（international reply coupon 国际回邮代金券）"}
+  - {text: "An international reply coupon.", start: 561.64, end: 563.36, explain: "The speaker repeats the name of the object to make sure the listener understands it.", zh: "国际回邮代金券。（international reply coupon 国际回邮代金券）"}
+  - {text: "What's that? An international reply coupon is basically, it's a coupon that enables you to buy a stamp in another country.", start: 563.60, end: 573.82, explain: "\"Enables\" means allows or makes it possible. An \"international reply coupon\" is a special stamp that lets you buy a regular stamp in another country to send a letter back.", zh: "那是什么？国际回邮代金券基本上就是一种券，让你能在另一个国家买邮票。（coupon 代金券，优惠券；enables 使能够）"}
+  - {text: "It's actually a pretty clever solution to the problem.", start: 574.24, end: 576.76, zh: "这其实是个挺巧妙的解决方案。（solution 解决方案）"}
+  - {text: "If you want to send a letter to say you're Nona and Naples, and you want to make it easier for her to respond with news from the motherland, what are you going to do?", start: 576.76, end: 584.94, explain: "\"Nona\" is an Italian word for grandmother. \"Naples\" is a city in Italy. \"Motherland\" means the country where a person was born. The speaker asks how you can help your grandmother in Italy reply to your letter easily.", zh: "如果你想给住在拿波里的诺娜写信，想让她更容易从祖国回信分享消息，你会怎么做？（Naples 拿波里，意大利城市；motherland 祖国）"}
+  - {text: "You can't send her U .S.", start: 585.40, end: 586.86, zh: "你不能给她寄美国的……（U.S. 美国的）"}
+  - {text: "stamps. You can't send her nickels.", start: 587.04, end: 589.06, explain: "\"Stamps\" are small papers you put on letters to pay for the mail. \"Nickels\" are small coins worth five cents. You cannot send coins to another country to pay for a letter.", zh: "邮票。你不能给她寄五分硬币。（nickels 五分硬币）"}
+  - {text: "You can't send her an Italian lira because you're paid in dollars.", start: 589.22, end: 592.56, explain: "\"Lira\" is the old money of Italy. \"Dollars\" are the money of the USA. You cannot send Italian money because you earn American money.", zh: "你也不能给她寄意大利里拉，因为你的收入是以美元计算的。（lira 里拉，意大利货币）"}
+  - {text: "Instead, you can send her an international reply coupon, which is like a voucher that you can buy at your local U .S.", start: 593.02, end: 600.36, explain: "\"International reply coupon\" is a special paper that helps people in other countries send letters back to you. \"Voucher\" is a ticket or paper that you can use to get something. \"U.S.\" means the United States of America.", zh: "相反，你可以给她寄一张国际回邮券，这是一种你可以在当地美国……（international reply coupon 国际回邮券；voucher 代金券）"}
+  - {text: "post office and she can redeem for an Italian stamp at her local Italian post office.", start: 600.40, end: 606.22, explain: "\"Redeem\" means to use a ticket or paper to get a real thing. The sentence continues from the last one. She can use the coupon to get an Italian stamp at her post office.", zh: "邮局购买的凭证，她可以在当地的意大利邮局兑换成意大利邮票。（redeem 兑换）"}
+  - {text: "It's an easy way to prepay for a reply.", start: 606.22, end: 609.02, zh: "这是一种预付回邮费用的便捷方式。（prepay 预付）"}
+  - {text: "And what Ponzi realized sitting right there in his office was that these international reply coupons were a magical way to make money through arbitrage.", start: 609.70, end: 618.20, explain: "\"Arbitrage\" is a business word. It means buying something cheap in one place and selling it for more in another place to make money. \"Magical\" means very good or surprising.", zh: "庞齐坐在办公室里意识到，这些国际回邮券是通过套利赚钱的神奇途径。（arbitrage 套利）"}
+  - {text: "That is taking advantage of price differences to make an easy profit.", start: 618.52, end: 622.32, explain: "\"Taking advantage\" means using a good chance. \"Price differences\" means the cost is not the same in two places. This sentence explains what arbitrage means in simple words.", zh: "也就是说，利用价格差异轻松获利。（price differences 价格差异）"}
+  - {text: "He had what can only be described as a Eureka moment.", start: 622.78, end: 626.54, explain: "\"Eureka moment\" is a phrase from a story. It means a sudden moment when you have a great idea or find the answer to a problem.", zh: "他经历了一个只能被描述为“尤里卡时刻”的瞬间。（Eureka moment 顿悟时刻，指突然想出好主意的瞬间）"}
+  - {text: "And he started doing sort of back -of -the -envelope calculations.", start: 627.08, end: 630.14, explain: "\"Back-of-the-envelope\" means a quick, rough guess using simple math. The speaker says he began to make these quick calculations.", zh: "他开始做一些粗略的估算。（back-of-the-envelope calculations 粗略估算，指在纸背面进行的快速计算）"}
+  - {text: "See, this was just after the Great War and the Great Influenza.", start: 630.88, end: 634.82, explain: "\"The Great War\" is another name for World War One. \"The Great Influenza\" was a very bad flu that killed many people. This sentence sets the time: it was right after these two big events.", zh: "要知道，那是一战和流感大流行刚结束的时候。（Great War 第一次世界大战；Great Influenza 1918年的流感大流行）"}
+  - {text: "And the economies of Europe were in a bad place.", start: 634.82, end: 637.72, zh: "当时欧洲的经济状况非常糟糕。（in a bad place 处于困境，状况不佳）"}
+  - {text: "Many of their currencies had been devalued.", start: 638.10, end: 640.14, explain: "\"Currencies\" are the money used in different countries. \"Devalued\" means the money became worth less than before. Many countries' money lost value.", zh: "许多国家的货币都贬值了。（devalued 贬值的，指货币价值下降）"}
+  - {text: "But the organization that set the going rate for these international reply coupons had not adjusted for inflation, how much it cost to buy the coupons in different countries.", start: 640.38, end: 649.30, explain: "\"Going rate\" means the current price. \"Adjusted for inflation\" means changing the price to match the fact that things cost more. The group that set the price did not change it, even though money was worth less.", zh: "但负责设定这些国际回邮券汇率的组织，并没有根据通货膨胀来调整在不同国家购买这些券的成本。（going rate 通行价格，此处指官方汇率；international reply coupons 国际回邮券，一种用于国际通信的预付邮资凭证）"}
+  - {text: "And that meant essentially he could buy these coupons on sale in Europe.", start: 649.94, end: 657.00, explain: "\"Essentially\" means basically or in the main way. \"On sale\" means at a lower price. He could basically buy the coupons cheaply in Europe.", zh: "这意味着他基本上可以在欧洲低价买入这些券。（on sale 打折，此处指以低于正常价格出售）"}
+  - {text: "Yes. So a dollar could buy 20 of these coupons for five cents each in the United States.", start: 657.00, end: 666.04, explain: "This sentence gives an example of the price in the US. One dollar could buy 20 coupons, and each one cost five cents.", zh: "没错。在美国，一美元可以买20张这种券，每张只要5美分。（coupons 券，此处指国际回邮券）"}
+  - {text: "But because the value of the lira had been so devastated by the war.", start: 667.38, end: 673.74, explain: "\"Lira\" is the money used in Italy. \"Devastated\" means badly damaged or hurt. The sentence is cut off, but it says the Italian money was hurt badly by the war.", zh: "但里拉的价值因战争而遭受重创。（lira 里拉，意大利货币单位）"}
+  - {text: "The Italian lira, yes.", start: 673.78, end: 674.96, explain: "\"Lira\" is the name of the money used in Italy before the euro. The speaker confirms that the currency is the Italian lira.", zh: "意大利里拉，没错。（lira 里拉，意大利旧货币）"}
+  - {text: "The Italian lira, you could buy more than three times as many of those in Italy.", start: 675.20, end: 680.38, explain: "\"Lira\" is the old money of Italy. \"As many\" refers to the number of items. The speaker says that in Italy, you could buy three times more items with the same amount of money.", zh: "在意大利，用同样的钱能买到三倍以上的这些邮票。（arbitrage 套利，利用价差获利）"}
+  - {text: "For the equivalent of a U .S.", start: 681.06, end: 682.60, zh: "相当于一个美国……"}
+  - {text: "dollar. Correct. And so he realized that after expenses he could make $2 .30 for every dollar's worth of coupons he bought in Italy.", start: 682.66, end: 692.94, explain: "\"Expenses\" means the costs you pay to do something. \"Coupons\" here are postage stamps. The speaker says that after paying costs, he could earn $2.30 for every dollar's worth of stamps he bought in Italy.", zh: "美元。没错。所以他意识到，扣除费用后，他在意大利每买一美元的邮票，能赚2.30美元。（coupons 这里指邮票或凭证；expenses 费用）"}
+  - {text: "Amazing profits. Perfect arbitrage opportunity.", start: 693.54, end: 697.12, explain: "\"Arbitrage\" is a way to make money by buying something cheap in one place and selling it expensive in another. The speaker says the profits are great and it is a perfect chance to make money this way.", zh: "惊人的利润，完美的套利机会。（arbitrage 套利，利用价差获利）"}
+  - {text: "Sign me up. Yes, I won in.", start: 697.42, end: 700.74, zh: "算我一个。是的，我赢了。（sign me up 让我加入；won in 赢了，此处可能为口误或特定语境下的表达）"}
+  - {text: "And it's legal. There are a few minor details that Ponzi can't quite figure out yet.", start: 701.16, end: 709.12, explain: "\"Legal\" means allowed by the law. \"Figure out\" means to understand or solve a problem. The speaker says it is legal, but there are small problems Ponzi has not solved yet.", zh: "而且这是合法的。不过庞兹还有几个小细节没搞清楚。（Ponzi 庞兹，金融诈骗者）"}
+  - {text: "For instance, how to sell these coupons or stamps for cash in the U .S.", start: 709.12, end: 713.48, explain: "\"Coupons\" here are postage stamps. \"Cash\" means money in coins or notes, not checks. The speaker asks how to turn these stamps into real money in the US.", zh: "比如，怎么在美国把这些邮票或凭证换成现金。（coupons 这里指邮票或凭证）"}
+  - {text: "But he figures he can sell them in bulk to companies that send a lot of mail.", start: 714.08, end: 717.70, explain: "\"In bulk\" means in a very large amount at once. The speaker thinks he can sell the stamps to companies that send a lot of letters.", zh: "但他觉得可以批量卖给那些寄信量很大的公司。（in bulk 批量地）"}
+  - {text: "There is also the transport problem at scale.", start: 718.20, end: 720.82, explain: "\"At scale\" means when you do something with a very large amount. The speaker says there is also a problem with moving so many items.", zh: "还有大规模运输的问题。（at scale 大规模地）"}
+  - {text: "These might be kind of heavy, but he thinks, you know what?", start: 720.98, end: 723.22, zh: "这些可能有点重，但他心想，管它呢？"}
+  - {text: "It's a good idea.", start: 723.48, end: 724.86, zh: "这是个不错的主意。"}
+  - {text: "I'll figure out the details later.", start: 725.18, end: 726.66, explain: "\"Figure out\" means to find the answer or solve a problem. The speaker says they will find the small facts later.", zh: "细节以后再想办法。"}
+  - {text: "Now is the time to take big swings.", start: 727.22, end: 729.18, explain: "\"Take big swings\" is a phrase that means to try to do something very big or risky. It comes from sports like baseball. The speaker says now is the time to try big things.", zh: "现在是大胆尝试的时候。（take big swings 大胆尝试，冒大风险）"}
+  - {text: "Now is the time to create a company.", start: 729.84, end: 731.94, explain: "\"Create\" means to make something new. The speaker says now is the time to start a new business.", zh: "现在是创立公司的时候。"}
+  - {text: "He goes right next door to City Hall and he incorporates a business.", start: 732.34, end: 736.78, explain: "\"City Hall\" is the building where the city government works. \"Incorporates\" means to make a business official by following the law. He goes to the government building to make his business official.", zh: "他直接去隔壁的市政厅注册了一家公司。（incorporates 注册公司）"}
+  - {text: "And he calls it the Securities Exchange Company.", start: 736.78, end: 741.18, zh: "他把它称为证券交易公司。（Securities Exchange Company 证券交易公司）"}
+  - {text: "The SEC. Why not?", start: 741.50, end: 744.10, zh: "也就是SEC，为什么不呢？（SEC 美国证券交易委员会）"}
+  - {text: "The Securities Exchange Commission won't be around for another decade and a half.", start: 744.50, end: 748.54, zh: "真正的证券交易委员会还要再过十五年才会成立。（Securities Exchange Commission 证券交易委员会）"}
+  - {text: "Ponzi starts calling around the community to find people who will invest in his company.", start: 749.36, end: 753.72, explain: "\"Invest\" means to give money to a business to make more money later. Ponzi calls people in his town to ask them to give him money.", zh: "庞氏开始在社区里四处打电话，寻找愿意投资他公司的人。（soliciting 此处指寻找或招揽）"}
+  - {text: "He tells them if they give him cash now he'll be able to make a profit by buying and selling these stamp coupons and share a bunch of that profit with them.", start: 754.12, end: 762.68, explain: "\"Profit\" is the money you make after you pay your costs. \"Stamp coupons\" are tickets for sending letters. He says he will make money trading these tickets and share the extra money with them.", zh: "他告诉他们，如果现在给他现金，他就能通过买卖这些邮票优惠券获利，并分给他们一部分利润。（stamp coupons 邮票优惠券）"}
+  - {text: "It's hard to pinpoint exactly when Ponzi's scheme turned into a scam, but you could argue that it was during these first few pitches.", start: 763.55, end: 771.21, explain: "\"Pinpoint\" means to find the exact time or place. \"Scheme\" is a plan. \"Scam\" is a trick to steal money. It is hard to say exactly when his plan became a trick, but it was probably at the start.", zh: "很难确切指出庞氏的计划何时变成了骗局，但你可以认为是在最初几次推销时。（pinpoint 确切指出；scheme 计划，此处指骗局）"}
+  - {text: "Because Ponzi was soliciting investments without figuring out those pesky details of how he would actually make money.", start: 771.67, end: 778.71, explain: "\"Soliciting\" means asking for money. \"Pesky\" means annoying or troublesome. He asked for money without thinking about the hard details of how to make money.", zh: "因为庞氏在招揽投资时，并没有弄清楚那些烦人的细节，即他究竟如何赚钱。（soliciting 招揽，寻求；pesky 烦人的，棘手的）"}
+  - {text: "Ponzi got around this by giving out just enough information for people to think it was a brilliant idea.", start: 779.15, end: 784.03, explain: "\"Got around\" means to find a way to avoid a problem or rule. \"Brilliant\" means very smart or excellent. The sentence says Ponzi avoided the problem by sharing only a little information, which made people believe the plan was very good.", zh: "庞氏通过提供恰到好处的信息来规避这一点，让人们觉得这是一个绝妙的主意。（brilliant 绝妙的，极好的）"}
+  - {text: "But when they asked him questions like, hey, how exactly are you going to sell these stamp coupons for cash?", start: 784.57, end: 791.01, explain: "\"Stamp coupons\" are tickets that you can use to buy stamps. \"Cash\" means money in coins or paper bills, not a check. The sentence says that people asked him how he would turn these tickets into real money.", zh: "但当他们问他，比如，你具体打算怎么把这些邮票优惠券换成现金时……（stamp coupons 邮票优惠券；cash 现金）"}
+  - {text: "He didn't tell them, well, I haven't worked that out yet.", start: 791.65, end: 794.57, explain: "\"Worked out\" means figured out or solved. The speaker says he did not tell them the answer because he has not found it yet.", zh: "他并没有说，嗯，我还没想好具体怎么做。"}
+  - {text: "He'd say, well, that's the proprietary sauce.", start: 794.95, end: 797.85, explain: "\"Proprietary\" means owned by one person or company and kept as a secret. The sentence says he would call the special mix his own secret recipe.", zh: "他会说，那是我们的独家秘方。（proprietary sauce 独家秘方，比喻核心机密）"}
+  - {text: "I can't tell you that.", start: 798.19, end: 799.09, zh: "我不能告诉你。"}
+  - {text: "So here it is, red flag number one.", start: 799.81, end: 802.27, explain: "A \"red flag\" is a sign that something is wrong or dangerous. The speaker is about to explain the first warning sign of the scam.", zh: "所以，这是第一个危险信号。（red flag 危险信号，警示标志）"}
+  - {text: "Is there a secret sauce?", start: 802.97, end: 804.23, zh: "是不是有什么秘密配方？（secret sauce 秘密配方，比喻核心优势或机密）"}
+  - {text: "Maybe get lost. Do not invest in something where you don't understand all the details.", start: 805.01, end: 809.89, zh: "最好别碰。不要投资那些你完全不了解细节的东西。"}
+  - {text: "Ponzi knew that people wouldn't care though.", start: 810.81, end: 812.65, zh: "不过庞氏知道，人们根本不会在意这些。（Ponzi 庞氏，著名金融骗子）"}
+  - {text: "He had them in a trance and then he'd lean in for the kill.", start: 812.73, end: 816.49, explain: "\"In a trance\" means in a deep, sleepy state where you do not think clearly. \"Lean in for the kill\" is a phrase that means to move close to someone to hurt them or take their money. The sentence says he made people feel confused and sleepy, and then he took their money.", zh: "他让人陷入恍惚状态，然后趁虚而入。（trance 恍惚状态；lean in for the kill 趁虚而入，致命一击）"}
+  - {text: "He would say, you know, what are the banks paying you?", start: 816.93, end: 819.11, explain: "\"You know\" is a common phrase people use to start a question or to sound friendly. The sentence is a fragment. It shows what a person would say to ask how much money the banks give you for keeping your money with them.", zh: "他会问，你知道银行给你多少利息吗？"}
+  - {text: "If you put your money in a bank, they're going to give you what?", start: 819.11, end: 821.33, zh: "如果你把钱存进银行，他们会给你多少？"}
+  - {text: "2%, maybe 3 % a year?", start: 822.13, end: 824.45, zh: "百分之二，也许百分之三每年？"}
+  - {text: "I can give you 50 % interest in 90 days.", start: 825.34, end: 829.56, zh: "我可以给你90天内百分之五十的利息。（interest 利息）"}
+  - {text: "In three months, your $100 will be $150.", start: 830.08, end: 832.88, zh: "三个月后，你的100美元就会变成150美元。"}
+  - {text: "And that's the moment he knew that a calculation was happening in his client's head.", start: 834.04, end: 840.13, explain: "A \"calculation\" here means a person is thinking carefully about the numbers and the value of something. The sentence says that this was the moment he realized his client was doing this mental math.", zh: "那一刻他意识到，客户脑子里正在做计算。（calculation 计算）"}
+  - {text: "Is this too good to be true or is this too good to miss?", start: 840.87, end: 844.31, explain: "\"Too good to be true\" means something sounds so perfect that it is probably a lie. \"Too good to miss\" means an opportunity is so good that you should not let it go. The speaker asks if the offer is a lie or a great chance.", zh: "这好得让人难以置信，还是好得让人不敢错过？（too good to be true 好得让人难以置信；too good to miss 好得让人不敢错过）"}
+  - {text: "Too good to be true or too good to miss?", start: 844.99, end: 846.87, zh: "是好事多磨还是好得难以置信？（too good to be true 好得难以置信；too good to miss 好得不容错过）"}
+  - {text: "That's how I see all of this.", start: 847.19, end: 849.13, zh: "我就是这么看待这一切的。"}
+  - {text: "How could he possibly give me 50 % interest in 90 days?", start: 849.13, end: 853.15, zh: "他怎么可能在90天内给我50%的利息？（interest 利息；90 days 90天）"}
+  - {text: "But if it's true, if this is possible, this is my ship coming in.", start: 853.35, end: 858.17, explain: "\"My ship coming in\" is an old phrase that means a big success or a lot of money is arriving. The speaker says that if this is real, it is their chance to get rich.", zh: "但如果这是真的，如果这有可能，那就是我的机会来了。（ship coming in 机会来临，源自“船进港”的比喻）"}
+  - {text: "This is red flag number two and maybe the biggest red flag of all.", start: 858.53, end: 862.53, explain: "A \"red flag\" is a sign that something is wrong or dangerous. The speaker says this is the second warning sign, and maybe the most important one.", zh: "这是第二个危险信号，也许也是最大的一个。（red flag 危险信号，警示标志）"}
+  - {text: "Regular returns, you're going to get burned because the world isn't regular.", start: 862.99, end: 868.45, explain: "\"Returns\" means the money you earn from an investment. \"Get burned\" means to lose money or be tricked. The speaker says you will lose money because the world is not always the same.", zh: "追求稳定的回报，你最终会吃亏，因为世界并不是按部就班的。（regular returns 稳定的回报；get burned 吃亏，遭受损失）"}
+  - {text: "Some years are good, some are bad.", start: 868.69, end: 870.15, zh: "有些年份行情好，有些年份行情差。"}
+  - {text: "And investments that promise amazing returns every year, they're sketchy.", start: 870.51, end: 874.67, explain: "\"Sketchy\" means not safe or not honest. The speaker says investments that promise big money every year are not safe.", zh: "那些承诺每年都有惊人回报的投资，都很可疑。（sketchy 可疑的，不靠谱的）"}
+  - {text: "But Ponzi's investors didn't pick up on this.", start: 875.23, end: 877.71, explain: "\"Pick up on\" means to notice or understand something. The speaker says Ponzi's investors did not notice the danger.", zh: "但庞氏的投资者并没有察觉到这一点。（pick up on 察觉，注意到）"}
+  - {text: "People started pouring dozens, then thousands, at some point, a million dollars a week into Ponzi's postal coupon fake business.", start: 877.71, end: 885.71, explain: "\"Pouring\" here means sending a lot of money quickly. The speaker says people sent thousands, then millions of dollars a week to Ponzi's fake business.", zh: "人们开始涌入，先是几十美元，后来成千上万，甚至每周高达一百万美元，都投进了庞氏那个虚假的邮政优惠券生意。（pouring 投入，涌入；postal coupon 邮政优惠券）"}
+  - {text: "And it says to understand how Ponzi conned tens of thousands of people.", start: 886.41, end: 889.85, explain: "\"Conned\" means to trick or cheat people. The sentence is cut off and continues in the next one. It talks about understanding how Ponzi cheated many people.", zh: "要理解庞氏是如何欺骗了数万人……（conned 欺骗，诈骗）"}
+  - {text: "You got to remember, he started his scheme in December of 1919, right on the cusp of the roaring 20s.", start: 889.99, end: 896.81, explain: "A \"scheme\" here is a plan to trick people for money. \"On the cusp\" means right at the start of a new time. The speaker says Ponzi began his trick in December 1919, just before the 1920s started.", zh: "你得记住，他在1919年12月启动了骗局，正好处于“咆哮的二十年代”的开端。（cusp 边缘，开端；roaring 20s 咆哮的二十年代，指1920年代）"}
+  - {text: "I call it, this is the first roar of the 1920s.", start: 897.15, end: 901.17, explain: "A \"roar\" is a loud, strong sound, like a lion making a noise. Here, it means the start of a loud and exciting time. The speaker says this moment is the first big sound of the 1920s.", zh: "我称之为，这是1920年代的第一声咆哮。（roar 咆哮，轰鸣）"}
+  - {text: "The idea that anything was possible had permeated not just the upper class, but to the newest immigrant.", start: 901.41, end: 908.79, zh: "那种“一切皆有可能”的想法不仅渗透到了上层阶级，也传到了最新移民的耳中。（permeated 渗透，弥漫）"}
+  - {text: "Yes, great riches were available here.", start: 909.39, end: 912.35, explain: "\"Riches\" means a lot of money or valuable things. The speaker says that it was easy to get very rich in this place.", zh: "是的，这里确实有巨大的财富机会。（riches 财富）"}
+  - {text: "So people were primed for this.", start: 912.73, end: 914.37, explain: "\"Primed\" means ready or prepared for something. The sentence says that people were ready for this new scam.", zh: "所以人们已经做好了准备。（primed 准备好的，蓄势待发的）"}
+  - {text: "They had heard stories of getting rich quick, and so it seemed plausible.", start: 914.73, end: 918.83, explain: "\"Getting rich quick\" means becoming very wealthy in a very short time. \"Plausible\" means something that seems possible or believable. The sentence says that people had heard stories about making money fast, so the idea seemed believable to them.", zh: "他们听过一夜暴富的故事，所以这听起来似乎很合理。（plausible 可信的，合理的）"}
+  - {text: "When I was doing the research on Ponzi, I spent a lot of time just reading what else was in the paper.", start: 920.11, end: 925.97, explain: "\"Research\" means looking for facts and information about a topic. \"Ponzi\" is the name of the man who started a famous money trick. The speaker says they read many old newspaper articles to learn more about him.", zh: "我在研究庞氏骗局时，花了大量时间阅读报纸上的其他内容。（research 研究；Ponzi 庞氏，庞氏骗局创始人）"}
+  - {text: "And it was incredible, it was an entire genre of stories of sudden wealth that subconsciously or consciously were playing into Ponzi's hands.", start: 926.39, end: 938.87, explain: "\"Genre\" means a type or group of stories with similar features. \"Subconsciously\" means without thinking about it, in a hidden part of the mind. \"Playing into someone's hands\" means helping that person get what they want, often by accident. The sentence says that many stories about getting rich quickly helped Ponzi, whether people knew it or not.", zh: "这太不可思议了，整整一类关于突然致富的故事，无论是有意识还是无意识地，都在助长庞氏的骗局。（genre 类型，体裁；subconsciously 无意识地）"}
+  - {text: "Like Space Filler, or these were prominently featured?", start: 939.11, end: 942.83, explain: "\"Space Filler\" is a name for a type of content that is not very important. \"Prominently featured\" means shown in a very important or big place. The speaker asks if these stories were just small fillers or if they were very important.", zh: "比如《填充空间》这类文章，或者是这些内容被重点报道了吗？（Space Filler 填充空间，指报纸上用于填补版面的低价值内容；prominently featured 重点报道，显著呈现）"}
+  - {text: "Prominently featured. Oh, front page stories again and again about marrying into wealth.", start: 943.61, end: 949.71, explain: "\"Prominently featured\" means shown in a very important place. \"Marrying into wealth\" means getting married to a very rich person. The speaker says these stories were on the front page many times.", zh: "是的，重点报道。哦，又是关于嫁入豪门的头版新闻，反反复复。（front page 头版；marrying into wealth 嫁入豪门，通过婚姻获得财富）"}
+  - {text: "She rose from chargirl to ground dom.", start: 950.03, end: 955.57, explain: "\"Chargirl\" is a very old word for a servant or maid. \"Ground dom\" is a mistake in the recording; it should be \"grand dame,\" which means a very important and respected woman. The sentence says she went from being a servant to a famous lady.", zh: "她从女佣升到了管家。（chargirl 女佣，负责清洁的女仆；ground dom 管家，负责管理家务的女仆长）"}
+  - {text: "And clearly, people wanted to read it.", start: 956.85, end: 960.97, explain: "\"Clearly\" means it is easy to see or understand. The sentence says that people really wanted to read these stories.", zh: "显然，人们很想读这些故事。（clearly 显然，明显地）"}
+  - {text: "This might as well be red flag number three for an investment scheme.", start: 961.45, end: 964.95, zh: "这完全可以被视为投资骗局中的第三个危险信号。（red flag 危险信号，警示标志）"}
+  - {text: "Beware the unrealistic expectations of quick wealth creation.", start: 965.47, end: 970.85, explain: "\"Beware\" means to be careful or watch out. \"Unrealistic expectations\" are hopes that are not true or possible. The speaker says to be careful about thinking you can get rich very fast.", zh: "要警惕那些关于快速致富的不切实际的期望。（Beware 警惕；unrealistic 不切实际的）"}
+  - {text: "Because this, everyone's getting rich quick, why not me feeling?", start: 971.83, end: 975.77, explain: "\"Getting rich quick\" means becoming rich in a very short time. The speaker talks about the feeling of thinking, \"Everyone else is getting rich, why not me?\"", zh: "因为这种“大家都在快速致富，为什么我不行”的心态……（getting rich quick 快速致富）"}
+  - {text: "It's not just a 1920s phenomena.", start: 976.25, end: 977.87, explain: "\"Phenomena\" is a word for a thing or event that happens. The sentence says this is not just a thing from the 1920s.", zh: "这不仅仅是20世纪20年代的现象。（phenomena 现象）"}
+  - {text: "It pops up whenever the economy is popping off.", start: 978.39, end: 981.37, explain: "\"Pops up\" means appears or happens suddenly. \"Popping off\" is a slang word that means doing very well or growing fast. The sentence says this happens whenever the economy is growing fast.", zh: "每当经济火爆的时候，它就会出现。（popping off 火爆，蓬勃发展）"}
+  - {text: "Whenever you see your neighbors getting rich, you get jealous and you want it.", start: 981.83, end: 985.33, zh: "每当看到邻居们发财，你就会嫉妒，也想要那样。（jealous 嫉妒）"}
+  - {text: "For Ponzi, business was booming.", start: 986.05, end: 988.07, explain: "\"Booming\" means growing very fast and making a lot of money. This sentence says that Ponzi's business was very successful and busy.", zh: "对于庞兹来说，生意非常兴隆。（booming 兴隆，繁荣）"}
+  - {text: "But remember, he never figured out those details.", start: 988.35, end: 990.95, zh: "但请记住，他从未搞清楚那些细节。（figured out 搞清楚，弄明白）"}
+  - {text: "He never used investor money to buy postal coupons.", start: 991.45, end: 994.91, explain: "\"Postal coupons\" are small tickets that people buy to send letters. This sentence says he did not use the money from people to buy these tickets.", zh: "他从未用投资者的钱去购买邮政优惠券。（postal coupons 邮政优惠券）"}
+  - {text: "Instead, when investors came back to his office looking to recoup their investment, he just paid them with the new money from new investors.", start: 995.41, end: 1002.77, explain: "\"Recoup\" means to get your money back. This sentence explains that when old investors wanted their money, he gave it to them using money from new people.", zh: "相反，当投资者回到他的办公室想要收回投资时，他只是用新投资者的钱来支付他们。（recoup 收回，弥补；investment 投资）"}
+  - {text: "This robbing Peter to pay Paul scheme is what's now known as a Ponzi.", start: 1003.49, end: 1007.35, explain: "\"Robbing Peter to pay Paul\" is a saying that means taking money from one person to pay another, which is not fair. This sentence says this trick is now called a Ponzi scheme.", zh: "这种拆东墙补西墙的做法，现在被称为庞氏骗局。（robbing Peter to pay Paul 拆东墙补西墙；Ponzi 庞氏，指庞氏骗局）"}
+  - {text: "Sometimes regulators catch on to these schemes.", start: 1008.40, end: 1011.16, explain: "\"Regulators\" are officials who make rules to stop bad things in business. \"Catch on\" means to understand or notice something. This sentence says that sometimes these officials notice the scams.", zh: "有时候监管机构会识破这些骗局。（regulators 监管机构；catch on to 识破，察觉）"}
+  - {text: "But oftentimes Ponzi's pop up in areas that are new or not regulated too much, which is red flag number four.", start: 1011.52, end: 1020.32, explain: "\"Oftentimes\" means many times or often. A \"red flag\" is a sign that something is wrong or dangerous. This sentence says these scams often happen in places with few rules, which is a warning sign.", zh: "但庞氏骗局往往出现在新兴或监管不力的地区，这是第四个危险信号。（pop up 出现；red flag 危险信号，警示标志）"}
+  - {text: "If you're in the sticks, be careful with your picks.", start: 1020.32, end: 1024.40, zh: "如果你身处偏远地区，挑选投资项目时要小心。（in the sticks 偏远地区；picks 选择，挑选）"}
+  - {text: "And postal policy was quite the hinterland.", start: 1025.34, end: 1028.52, explain: "\"Hinterland\" is a place that is far from the main centers and not very developed or watched. This sentence says the postal system was a place with few rules and little attention.", zh: "而邮政政策领域当时正是一片监管真空。（hinterland 偏远地区，腹地，此处指监管薄弱区）"}
+  - {text: "Regulators started poking around Ponzi's business, but they were kind of stumped.", start: 1029.12, end: 1033.12, explain: "\"Regulators\" are officials who check that businesses follow the law. \"Poking around\" means looking closely for problems. \"Stumped\" means they did not know what to do or how to stop him.", zh: "监管机构开始调查庞兹的生意，但他们有点束手无策。（poking around 调查，打听；stumped 困惑，难倒）"}
+  - {text: "For instance, the first regulator that came around to ask questions was a state bureaucrat.", start: 1033.44, end: 1037.74, explain: "\"Bureaucrat\" is a person who works for the government in an office. \"Came around\" means visited the place.", zh: "例如，第一个来询问情况的监管人员是一名州级官僚。（bureaucrat 官僚，公务员）"}
+  - {text: "He explained he was in charge of making sure that loan sharks weren't charging too much interest.", start: 1038.16, end: 1042.98, explain: "\"Loan sharks\" are people who lend money and charge very high interest. \"Interest\" is the extra money you pay when you borrow.", zh: "他解释说，他的职责是确保放高利贷的人不会收取过高的利息。（loan sharks 放高利贷者；interest 利息）"}
+  - {text: "But Ponzi said, no, you have it backwards.", start: 1043.36, end: 1045.54, explain: "\"Backwards\" means the opposite way. Ponzi said the official had the idea wrong.", zh: "但庞齐说，不，你们搞反了。（backwards 反了，颠倒）"}
+  - {text: "I'm the one who has to pay out these big returns.", start: 1045.86, end: 1047.80, zh: "我才是那个需要支付高额回报的人。（returns 回报，收益）"}
+  - {text: "I'm the one who's going to pay out 50%.", start: 1047.80, end: 1050.58, zh: "我才是那个要支付百分之五十的人。（pay out 支付，付出）"}
+  - {text: "The bureaucrats like, oh yeah, you're right.", start: 1050.58, end: 1053.28, explain: "\"Bureaucrats\" are government workers. \"Like\" is used here to show what they said or thought.", zh: "那些官僚们心想，哦，对，你说得对。（bureaucrats 官僚，公务员）"}
+  - {text: "You're not a loan shark.", start: 1053.46, end: 1054.60, explain: "\"Loan shark\" is a person who lends money with very high costs.", zh: "你不是放高利贷的。（loan shark 放高利贷者）"}
+  - {text: "You're the opposite. I guess, good day, sir.", start: 1054.84, end: 1057.76, zh: "你是相反的情况。我想，祝您愉快，先生。（opposite 相反，对立面）"}
+  - {text: "Basically, he goes back to his little cubby hole at the state house, and he sort of tells the police, well, just keep an eye on this guy.", start: 1058.48, end: 1066.96, explain: "\"Cubby hole\" is a small desk or office space. \"State house\" is the building where the government works. \"Keep an eye on\" means to watch carefully.", zh: "基本上，他回到州议会大厦里他那间小办公室，然后告诉警察，只要盯着这家伙就行了。（cubby hole 小隔间，小办公室；keep an eye on 留意，盯着）"}
+  - {text: "And he passes the buck, so to speak.", start: 1067.38, end: 1069.34, explain: "\"Passes the buck\" means to give the problem to someone else. \"So to speak\" means in a way of speaking.", zh: "可以说，他把责任推了出去。（pass the buck 推卸责任）"}
+  - {text: "Did the Boston police keep their eye on him?", start: 1069.78, end: 1072.00, zh: "波士顿警方一直在盯着他吗？（keep their eye on 密切关注，盯着）"}
+  - {text: "Mostly to invest. Yeah.", start: 1072.98, end: 1074.80, zh: "主要是为了投资。是的。（invest 投资）"}
+  - {text: "Two -thirds of the Boston police department were investing in Ponzi.", start: 1075.42, end: 1079.82, explain: "\"Two-thirds\" means two out of three parts. \"Investing\" means putting money into a business to make more money. The sentence says that most of the police in Boston put their money into Ponzi's company.", zh: "波士顿警局三分之二的警员都在庞氏那里投资。（two-thirds 三分之二；investing 投资）"}
+  - {text: "Oh, two -thirds of the Boston police?", start: 1079.82, end: 1083.00, explain: "This is a short reaction. The speaker is surprised that so many police officers were involved.", zh: "噢，波士顿警局三分之二的人？（two-thirds 三分之二）"}
+  - {text: "Yes. The police weren't going to do anything about it.", start: 1083.30, end: 1085.90, zh: "是的。警方不会对此采取任何行动。（regulators 监管者，此处指警方或相关当局；do anything about it 对此采取措施）"}
+  - {text: "Some of them even worked for Ponzi as salesman.", start: 1085.94, end: 1088.46, explain: "\"Salesman\" is a person who sells things. Some police officers actually worked for Ponzi to sell his products.", zh: "其中一些人甚至为庞氏工作，担任销售员。（salesman 销售员）"}
+  - {text: "The regulators who probably visited Ponzi's operation the most were the postal inspectors.", start: 1089.02, end: 1094.18, explain: "\"Regulators\" are officials who check if businesses follow the rules. \"Postal inspectors\" are police who check mail and packages. These mail police visited Ponzi's office more than anyone else.", zh: "最频繁视察庞氏业务的监管者，可能是邮政检查员。（regulators 监管者；postal inspectors 邮政检查员）"}
+  - {text: "But try as they might, they could not figure out how Ponzi was making money on this stamp coupon arbitrage.", start: 1094.62, end: 1100.32, explain: "\"Figure out\" means to understand or solve a problem. \"Arbitrage\" is a way to make money by buying something cheap in one place and selling it for more in another. The inspectors could not understand how Ponzi made money with this method.", zh: "但他们怎么尝试都搞不懂庞齐是怎么靠这种邮票优惠券套利赚钱的。（arbitrage 套利；stamp coupon 邮票优惠券）"}
+  - {text: "Of course, that's because Ponzi hadn't figured that out either.", start: 1100.80, end: 1103.44, zh: "当然，这是因为庞齐自己也没搞清楚。（figure out 弄清楚，搞明白）"}
+  - {text: "So Ponzi's scheme got bigger and bigger.", start: 1104.18, end: 1106.54, explain: "\"Scheme\" here means a plan, often a bad or dishonest one. Ponzi's plan grew larger and larger.", zh: "于是，庞齐的骗局规模越来越大。（scheme 计划，骗局）"}
+  - {text: "At its peak in July of 1927, months after he started taking investments, Ponzi took in nearly six and a half million dollars from 20 ,000 investors.", start: 1107.16, end: 1116.42, explain: "\"Peak\" means the highest point or best time. \"Investors\" are people who put money in. In July 1927, at the highest point, Ponzi took in a lot of money from many people.", zh: "在1927年7月达到顶峰时，也就是他开始接受投资几个月后，庞齐从两万名投资者那里筹集了近六百五十万美元。（peak 顶峰；investors 投资者）"}
+  - {text: "In a single month, he had a nice mansion.", start: 1116.78, end: 1119.50, explain: "\"Mansion\" is a very big and expensive house. In just one month, he bought a large, nice house.", zh: "仅仅一个月，他就住进了漂亮的豪宅。（mansion 豪宅）"}
+  - {text: "He had a limo.", start: 1119.96, end: 1120.64, explain: "A \"limo\" is a short word for a limousine, which is a very long and expensive car. The sentence says he had this type of car.", zh: "他还有一辆豪华轿车。（limo 豪华轿车）"}
+  - {text: "He was on the front page of newspapers after the break, how Ponzi's luck eventually ran out, just like almost every Ponzi ever.", start: 1120.98, end: 1130.02, explain: "\"Front page\" is the first page of a newspaper, where the most important news is. \"Ran out\" means to finish or stop having something. The sentence says his good luck ended, and newspapers wrote about it.", zh: "他登上了各大报纸的头版，广告之后，我们将讲述庞齐的好运是如何最终耗尽的，就像几乎每一个庞氏骗局一样。（front page 头版；Ponzi 庞齐，指庞氏骗局）"}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1135.10, end: 1138.42, explain: "\"Stay tuned\" means to keep listening to the radio or watching the TV. \"Sponsors\" are companies that pay money to have their ads on the show. This is a standard line before an ad break.", zh: "请留意接下来的赞助商公告和信息。（sponsors 赞助商）"}
+  - {text: "This message comes from Whole Foods Market.", start: 1139.71, end: 1141.51, explain: "This is an advertisement. \"Whole Foods Market\" is the name of a large chain of grocery stores. The speaker is introducing a message from this company.", zh: "这条信息来自全食超市。"}
+  - {text: "Fall tastes better with better ingredients from Whole Foods Market.", start: 1142.09, end: 1145.29, zh: "用全食超市的优质食材，让秋天更美味。"}
+  - {text: "No added growth hormones or antibiotics in their meat department means slo -braised short ribs are even more satisfying.", start: 1145.75, end: 1151.41, explain: "\"Growth hormones\" are chemicals added to animals to make them grow faster. \"Slo-braised\" is a typo in the transcript for \"slow-braised,\" which means cooked very slowly. The note is split by a space in the text.", zh: "肉类部门不含添加的生长激素或抗生素，意味着慢炖牛小排吃起来更令人满足。（slo-braised 慢炖；short ribs 牛小排）"}
+  - {text: "All seafood is wild -caught like their vibrant sockeye salmon or verified responsibly farmed.", start: 1151.99, end: 1156.75, explain: "\"Wild-caught\" means the fish were caught in the ocean, not raised in a farm. \"Sockeye salmon\" is a specific type of red salmon. \"Verified\" means checked and proven to be true.", zh: "所有海鲜均为野生捕捞，如色彩鲜艳的帝王鲑，或经认证为负责任养殖。（wild-caught 野生捕捞；sockeye salmon 帝王鲑）"}
+  - {text: "And all sweets, including fall -themed cookies, are made without high fructose corn syrup.", start: 1157.01, end: 1161.39, explain: "\"High fructose corn syrup\" is a sweet liquid made from corn, often used in processed food. \"Fall-themed\" means the cookies look like autumn. The note is split by a space in the text.", zh: "所有甜点，包括秋季主题饼干，均不使用高果糖玉米糖浆制作。（high fructose corn syrup 高果糖玉米糖浆）"}
+  - {text: "Spice up fall at Whole Foods Market.", start: 1161.81, end: 1163.45, zh: "去全食超市，让秋天更有滋味。"}
+  - {text: "This message comes from Inspirity.", start: 1164.21, end: 1166.09, explain: "This is an advertisement. \"Inspirity\" is the name of a company that makes vitamins and health products. The speaker is introducing a message from this company.", zh: "这条信息来自 Inspirity。"}
+  - {text: "Because how you HR matters.", start: 1166.45, end: 1168.05, zh: "因为你的 HR 方式很重要。（HR 人力资源）"}
+  - {text: "From payroll and benefits to HR compliance and talent development, helping your business move forward with confidence.", start: 1168.47, end: 1174.63, explain: "This is an advertisement. \"Payroll\" means the money a company pays to its workers. \"Compliance\" means following the rules and laws. The sentence says the company helps businesses with these tasks.", zh: "从薪资福利到人力资源合规及人才发展，助力您的企业自信前行。（payroll 薪资；HR compliance 人力资源合规；talent development 人才发展）"}
+  - {text: "Learn more at inspirity .com.", start: 1174.99, end: 1176.99, explain: "This is part of an advertisement. It tells you where to find more information about the company.", zh: "请访问 inspirity.com 了解更多。（inspirity 赞助商名称）"}
+  - {text: "This message comes from Ethos.", start: 1177.27, end: 1180.73, explain: "This is an advertisement. \"Ethos\" is the name of the company paying for this ad.", zh: "本条信息来自 Ethos。（Ethos 赞助商名称）"}
+  - {text: "It's easy to put off getting life insurance until something unexpected happens.", start: 1180.99, end: 1185.27, zh: "人们往往容易拖延购买人寿保险，直到意外发生。（life insurance 人寿保险）"}
+  - {text: "That makes you realize your family needs you covered.", start: 1185.53, end: 1188.37, zh: "那时你才会意识到家人需要你的保障。（covered 有保险保障的）"}
+  - {text: "Ethos makes it easy.", start: 1188.67, end: 1189.69, zh: "Ethos 让这一切变得简单。（Ethos 赞助商名称）"}
+  - {text: "It's 100 % online.", start: 1190.01, end: 1191.17, zh: "全程百分之百在线办理。（online 在线的）"}
+  - {text: "No medical exam, just a few health questions.", start: 1191.17, end: 1193.93, zh: "无需体检，只需回答几个健康问题。（medical exam 体检）"}
+  - {text: "Applying minutes and get same -day coverage up to $3 million.", start: 1194.31, end: 1197.71, explain: "This is an advertisement. \"Coverage\" means insurance protection. \"Same-day\" means on the very same day. The sentence says you can get insurance protection up to three million dollars quickly.", zh: "申请几分钟就能搞定，最高三百万美元的保险当天生效。（same-day coverage 当天生效的保险；$3 million 三百万美元）"}
+  - {text: "Get your free quote today at ethos .com slash money.", start: 1197.99, end: 1201.55, explain: "This is an advertisement. \"Quote\" means a price list or estimate for a service. The sentence tells you how to get a free price estimate.", zh: "今天去 ethos.com/slash money 获取免费报价。（quote 报价；ethos.com slash money 网站地址 ethos.com/money）"}
+  - {text: "That's ethos .com slash money.", start: 1201.91, end: 1204.09, explain: "This is an advertisement. It repeats the website address for the listener.", zh: "网址是 ethos.com/slash money。（ethos.com slash money 网站地址 ethos.com/money）"}
+  - {text: "Application times and rates may vary.", start: 1204.35, end: 1206.23, explain: "This is a small legal note for the advertisement. \"Rates\" means the price you pay for the insurance. It says the time and price can be different for each person.", zh: "申请时间和费率可能有所不同。（rates 费率）"}
+  - {text: "Remember, to keep up his stamp coupon scheme, Ponzi needed a constant stream of new investors.", start: 1208.83, end: 1214.73, explain: "\"Stream\" means a continuous flow or line of people. \"Investors\" are people who put money into a business to make a profit. The sentence says Ponzi needed many new people to give him money all the time.", zh: "为了维持他的邮票优惠券骗局，庞氏需要源源不断的新投资者。（stamp coupon scheme 邮票优惠券骗局；Ponzi 庞氏，金融诈骗术语来源）"}
+  - {text: "In fact, more investors than before.", start: 1215.27, end: 1216.91, explain: "\"Investors\" are people who put money into a business to make more money. The sentence says that more people put money in than before.", zh: "事实上，需要比以前更多的投资者。（investors 投资者）"}
+  - {text: "To pay the earlier investors their profit, that 50%.", start: 1217.35, end: 1219.97, explain: "\"Profit\" is the money you make after you pay your costs. The sentence says this money was used to pay the earlier investors their 50% gain.", zh: "为了向早期投资者支付他们百分之五十的利润。（profit 利润）"}
+  - {text: "Things started to turn when someone sued Ponzi.", start: 1221.30, end: 1224.12, zh: "当有人起诉庞氏时，事情开始变糟了。（sued 起诉）"}
+  - {text: "They said they were part owner of the company.", start: 1224.64, end: 1226.32, explain: "\"Part owner\" means a person who owns a small piece of a company. The sentence says the investors claimed they owned a part of the business.", zh: "他们声称自己是公司的部分股东。（part owner 部分股东）"}
+  - {text: "Ponzi said, no, you just gave me a loan that I paid off a long time ago.", start: 1226.56, end: 1229.84, explain: "\"Loan\" is money you borrow and must pay back. \"Paid off\" means you have finished paying all the money back. Ponzi said the money was just a loan that was already finished.", zh: "庞齐说，不，你只是借给了我一笔钱，而且我早就还清了。（loan 贷款；paid off 还清）"}
+  - {text: "But in the meantime, a court decided to freeze a bunch of Ponzi's bank accounts while they figured it all out.", start: 1230.00, end: 1235.50, explain: "\"Freeze\" means to stop money from moving. \"Figured it all out\" means to understand the whole situation. A court stopped Ponzi's bank accounts from working while they looked into the problem.", zh: "但在此期间，法院决定冻结庞齐的一批银行账户，以便理清所有情况。（freeze 冻结；bunch 一批）"}
+  - {text: "And this causes a mini panic.", start: 1236.30, end: 1237.94, explain: "\"Mini panic\" is a small amount of fear and worry among many people. The sentence says this situation made people a little scared.", zh: "这引发了一场小型恐慌。（mini panic 小型恐慌）"}
+  - {text: "Mitch says thousands of investors showed up at Ponzi's office.", start: 1238.76, end: 1241.64, explain: "\"Showed up\" means to arrive or appear at a place. The sentence says many investors came to Ponzi's office.", zh: "米奇说，成千上万的投资者涌到了庞齐的办公室。（investors 投资者）"}
+  - {text: "It's like a scene of a bank run.", start: 1241.86, end: 1243.56, zh: "就像银行挤兑的场景一样。（bank run 银行挤兑）"}
+  - {text: "They're all demanding their money back.", start: 1243.68, end: 1245.12, explain: "\"Demanding\" means asking for something in a strong way. The sentence says everyone wanted their money back quickly.", zh: "他们都在要求拿回自己的钱。（demanding 要求）"}
+  - {text: "People are excited and they're anxious and they're afraid and people are pushing and shoving.", start: 1245.64, end: 1250.78, explain: "\"Anxious\" means worried or nervous. \"Pushing and shoving\" means people are pushing each other to get in or get out. The sentence says people are feeling many strong emotions and are moving around in a crowd.", zh: "人们既兴奋又焦虑，还感到害怕，大家推推搡搡。（anxious 焦虑的；pushing and shoving 推推搡搡）"}
+  - {text: "And Ponzi wades into the crowd.", start: 1251.66, end: 1253.72, explain: "\"Wades\" means to walk slowly through a thick group of people or deep water. The sentence says that Ponzi walks into the busy crowd.", zh: "庞兹挤进了人群。（wades into 挤进，深入）"}
+  - {text: "And incredibly, it calms them.", start: 1254.56, end: 1256.74, explain: "\"Incredibly\" means in a way that is very surprising. \"Calms\" means makes them feel less worried or angry. The speaker is surprised that this thing makes the people feel better.", zh: "令人难以置信的是，这反而让他们平静了下来。（incredibly 难以置信地）"}
+  - {text: "And he survives the run.", start: 1257.06, end: 1259.86, zh: "他挺过了这次挤兑风波。（survives 挺过，幸存；run 挤兑，银行挤提）"}
+  - {text: "Things settle down. He pays off everyone who is seeking their return.", start: 1260.20, end: 1264.10, explain: "\"Settle down\" means to become calm and quiet. \"Pays off\" means to give money to someone to finish a debt or a deal. \"Seeking\" means asking for. The sentence says that the situation becomes calm, and he gives money to the people who want their money back.", zh: "局势逐渐稳定下来，他付清了所有要求赎回资金的人。（settle down 平息，稳定；seeking their return 寻求赎回，要求退款）"}
+  - {text: "But then state and federal regulators decide to take a second look at his business.", start: 1264.50, end: 1268.44, explain: "\"Regulators\" are officials who make rules to check that businesses follow the law. \"Federal\" means the national government, not just one state. The sentence says that government officials from both the state and the country decided to check his business again.", zh: "但随后，州和联邦监管机构决定对他的生意进行二次审查。（regulators 监管机构；federal 联邦的）"}
+  - {text: "Ponzi meets with them and tells them, you know what, I'm above board.", start: 1269.10, end: 1272.28, zh: "庞兹与他们会面，告诉他们，你们看，我完全合规。（above board 合规的，光明正大的）"}
+  - {text: "I'm so above board.", start: 1272.40, end: 1273.46, zh: "我简直太合规了。（above board 合规的，光明正大的）"}
+  - {text: "I'll let you check my books.", start: 1273.92, end: 1274.88, zh: "我可以让你们查我的账本。（books 账本，财务记录）"}
+  - {text: "You can even pick the auditor.", start: 1275.38, end: 1276.98, explain: "An \"auditor\" is a person who checks a company's money records to see if they are true. The speaker says you have the power to choose this person yourself.", zh: "你甚至还能挑选审计师。（auditor 审计师）"}
+  - {text: "This is a stall tactic and it's a problem.", start: 1277.80, end: 1280.80, explain: "A \"stall tactic\" is a trick to waste time so you do not have to answer a question or do a task. The speaker says this trick is a bad thing. The sentence is a complete thought.", zh: "这是一种拖延战术，而且是个大问题。（stall tactic 拖延战术）"}
+  - {text: "For one, Ponzi has been spending a lot on his new mansion, that limo, but also on stakes in legitimate businesses.", start: 1281.20, end: 1288.02, explain: "A \"mansion\" is a very large and expensive house. \"Limo\" is a short word for a long, black car used for special trips. \"Stakes\" here means money put into a business to own a part of it. The sentence says Ponzi spent a lot of money on a big house, a fancy car, and real businesses.", zh: "首先，庞兹在新豪宅、豪华轿车以及合法企业的股份上花了很多钱。（mansion 豪宅；limo 豪华轿车；stakes 股份）"}
+  - {text: "He's even become part owner of multiple banks.", start: 1288.68, end: 1291.30, explain: "\"Part owner\" means a person who owns a share of a business, not the whole thing. \"Multiple\" means more than one. This sentence says he now owns a part of several different banks.", zh: "他甚至成了多家银行的股东。（part owner 股东）"}
+  - {text: "And the second problem is he never figured out how to make money off the stamp thing.", start: 1291.90, end: 1296.34, explain: "\"Figured out\" means to understand or solve a problem. \"Make money off\" means to earn profit from something. The sentence says he did not learn how to earn real profit from the stamp business.", zh: "第二个问题是，他始终没搞清楚怎么从邮票业务里赚钱。（stamp thing 邮票业务）"}
+  - {text: "So he can't come up with the money he owes to all his investors.", start: 1296.80, end: 1300.30, explain: "\"Come up with\" means to find or provide something, like money. \"Owes\" means he must pay back. He cannot find the money he needs to pay his investors.", zh: "所以他拿不出钱来偿还所有投资者的欠款。（investors 投资者）"}
+  - {text: "Ponzi is getting desperate.", start: 1300.94, end: 1302.46, explain: "\"Desperate\" means very worried and in a bad situation, with no good options. Ponzi is very anxious and worried about his situation.", zh: "庞兹变得走投无路了。（desperate 绝望的，走投无路的）"}
+  - {text: "He knows that there is going to be this moment.", start: 1302.64, end: 1304.96, explain: "\"There is going to be\" means something will happen in the future. He knows a specific moment is coming soon.", zh: "他知道那个时刻终将到来。（moment 时刻，指危机爆发的时刻）"}
+  - {text: "The auditor will count up all his debts and Ponzi will have to show all the money that he actually has.", start: 1304.96, end: 1310.56, explain: "\"Auditor\" is a person who checks the money records of a company. \"Count up\" means to add all the numbers together. The checker will add all his debts, and Ponzi must show the real money he has.", zh: "审计员会统计他所有的债务，庞氏必须展示他实际拥有的所有资金。（auditor 审计员；debts 债务）"}
+  - {text: "This is the show me the money moment when people could realize that he doesn't have all the money to pay his investors back.", start: 1311.18, end: 1318.42, explain: "\"Realize\" means to understand or see the truth. This is the moment when people might see that he does not have enough money to pay everyone back.", zh: "这就是那个“亮出真金白银”的时刻，人们可能会意识到他并没有足够的钱来偿还投资者。（investors 投资者）"}
+  - {text: "And Ponzi, ever the hustler, thinks up a plan that's both daring and pretty extraordinary.", start: 1318.82, end: 1324.28, explain: "\"Hustler\" means a person who works hard to make money, often in a clever or risky way. \"Extraordinary\" means very unusual or surprising. The sentence says Ponzi comes up with a plan that is bold and very unusual.", zh: "而庞氏，作为一个天生的投机者，想出了一个既大胆又相当非凡的计划。（hustler 投机者，精于钻营的人；extraordinary 非凡的，异常的）"}
+  - {text: "He's going to gather up all his bank books, all his cash, and go from his office.", start: 1324.98, end: 1330.70, zh: "他打算收集好所有的存折和现金，然后离开他的办公室。（bank books 存折，银行账本）"}
+  - {text: "And he's going to make a stop before he goes over to the auditor's office a few blocks away.", start: 1330.92, end: 1335.98, explain: "\"Auditor\" means a person who checks the money records of a company or bank. \"A few blocks away\" means a short distance, just a few streets away. He plans to stop somewhere before going to the auditor's office.", zh: "在去几街区外的审计员办公室之前，他打算先停一下。（auditor 审计员）"}
+  - {text: "He's going to stop at one of the banks he purchased.", start: 1336.86, end: 1339.36, explain: "\"Purchased\" means he bought. He is going to stop at a bank that he bought earlier.", zh: "他打算去他收购的一家银行。（purchased 收购，购买）"}
+  - {text: "He has this idea that he is going to gain access to the vault of the Hanover Trust Bank.", start: 1339.88, end: 1345.36, explain: "\"Gain access\" means to get in or get the chance to use something. \"Vault\" is a strong, safe room in a bank where they keep gold and cash. He wants to get into the safe room of the Hanover Trust Bank.", zh: "他有个主意，打算进入汉诺威信托银行的保险库。（vault 保险库；Hanover Trust Bank 汉诺威信托银行）"}
+  - {text: "And he's going to, what should we say, borrow a few million dollars from the vaults, go over to the auditor, show all of this money,", start: 1345.94, end: 1357.02, explain: "\"Borrow\" means to take something with the idea of giving it back later. The speaker says he will take money from the safe, show it to the auditor, and then bring it back.", zh: "他打算从保险库里“借”几百万美元，然后去审计员那里展示这些钱……（vaults 保险库；auditor 审计员）"}
+  - {text: "and then return to the bank and take the money.", start: 1357.32, end: 1360.22, explain: "This sentence finishes the idea from the last one. He will go back to the bank and take the money for himself.", zh: "然后回到银行把钱取出来。"}
+  - {text: "Temporarily rob his own bank.", start: 1360.22, end: 1362.08, zh: "暂时抢劫他自己的银行。（Temporarily 暂时地；rob 抢劫）"}
+  - {text: "That's one way to put it.", start: 1363.19, end: 1364.71, zh: "这么说也没错。（one way to put it 一种说法）"}
+  - {text: "That is correct. I'm not saying it's a great plan, Nick, but it's a plan.", start: 1364.91, end: 1369.55, explain: "The speaker is talking to a person named Nick. He agrees that the plan is not perfect, but it is a plan.", zh: "没错。尼克，我并不是说这是个绝妙的主意，但这确实是个计划。（plan 计划，方案）"}
+  - {text: "The Massachusetts bank regulator, he senses something fishy is up.", start: 1370.09, end: 1373.57, explain: "\"Regulator\" is a person or group that makes rules for banks to follow. \"Senses something fishy\" means he feels something is wrong or not honest. The bank rule-maker feels something is wrong.", zh: "马萨诸塞州的银行监管机构察觉到了不对劲。（regulator 监管者；senses 察觉；fishy 可疑的）"}
+  - {text: "He starts asking the banks, hey, how much does Ponzi have in his accounts anyways?", start: 1374.11, end: 1377.91, explain: "\"Accounts\" are places where people keep their money in a bank. \"Anyways\" is a casual word that means \"in any case\" or \"at all\". The sentence says a man asks the banks how much money Ponzi has in his accounts.", zh: "他开始向银行询问：庞氏的账户里到底有多少钱？（anyways 反正，无论如何）"}
+  - {text: "And the bankers tell him, well, not that much actually.", start: 1378.51, end: 1381.17, explain: "\"Actually\" is used to correct a belief or to state the truth. The bankers say that Ponzi does not have much money in the bank, which is surprising.", zh: "银行家们告诉他，其实没那么多。（actually 实际上）"}
+  - {text: "So the regulator arranges a stakeout.", start: 1381.57, end: 1383.99, explain: "A \"regulator\" is an official who checks if businesses follow the rules. A \"stakeout\" is when people wait and watch a place secretly to see what happens. The official organizes a secret watch of the bank.", zh: "于是监管机构安排了一次蹲守。（stakeout 蹲守，监视）"}
+  - {text: "So he starts literally having guys watching the bank that Ponzi is withdrawing money from most aggressively.", start: 1384.41, end: 1391.63, explain: "\"Literally\" means exactly as the words say, not just as a figure of speech. \"Aggressively\" means very quickly or with a lot of force. He has men physically watch the bank where Ponzi takes out the most money.", zh: "于是他开始派人死死盯着庞齐提款最多的那家银行。（aggressively 激进地，猛烈地）"}
+  - {text: "And they see that there are Ponzi guys coming to make withdrawals to collect cash.", start: 1392.37, end: 1396.45, explain: "\"Withdrawals\" are the act of taking money out of a bank account. \"Collect cash\" means to get physical money, not just a number on a screen. They see Ponzi's men coming to the bank to take out money.", zh: "他们看到庞齐的人正来办理取款，准备提取现金。（withdrawals 取款；collect cash 提取现金）"}
+  - {text: "They realize this is the moment.", start: 1397.23, end: 1399.25, explain: "\"Realize\" means to understand or see something clearly. \"The moment\" refers to the right time to act. They understand that this is the right time to stop Ponzi.", zh: "他们意识到就是现在。（moment 关键时刻）"}
+  - {text: "They figure there's no way there can be any cash left in that account because there were only a few thousand dollars left.", start: 1399.51, end: 1406.39, zh: "他们断定那个账户里不可能还有现金了，因为只剩下几千美元。（figure 认为，断定；account 账户）"}
+  - {text: "And so they pounce and they declare him hopelessly insolvent and hopelessly overdrawn.", start: 1406.81, end: 1413.35, explain: "\"Pounce\" means to jump on someone quickly to catch them. \"Insolvent\" means a person or company cannot pay its debts. \"Overdrawn\" means taking out more money than is in the account. They act quickly and say Ponzi cannot pay his debts and has taken out too much money.", zh: "于是他们果断出手，宣布他彻底资不抵债且严重透支。（pounce 猛扑，果断行动；insolvent 资不抵债；overdrawn 透支）"}
+  - {text: "And this is the end of the road for Ponzi's scheme.", start: 1413.79, end: 1416.17, explain: "\"The end of the road\" is a phrase that means the final point or the end of something. \"Scheme\" means a plan, often a dishonest one. This is the end of Ponzi's plan.", zh: "庞齐的骗局就此终结。（end of the road 尽头，终结）"}
+  - {text: "The auditor finally finishes his work.", start: 1416.17, end: 1418.67, explain: "An \"auditor\" is a person who checks the money records of a company to see if they are correct. The sentence says the person checking the books has finished his job.", zh: "审计师终于完成了工作。（auditor 审计师）"}
+  - {text: "Ponzi owes about $7 million, probably more, but he only has about $4 million.", start: 1419.43, end: 1424.57, explain: "\"Owes\" means he must pay money back to other people. The sentence says Ponzi needs to pay about 7 million dollars, but he only has 4 million dollars.", zh: "庞齐欠了大约700万美元，可能更多，但他手里只有大约400万美元。（owes 欠；has 拥有）"}
+  - {text: "The con can't go on any longer.", start: 1425.35, end: 1427.27, explain: "A \"con\" is a trick or a lie used to steal money. The sentence says the trick cannot continue anymore.", zh: "这场骗局再也维持不下去了。（con 骗局；go on 持续）"}
+  - {text: "He turns himself in.", start: 1427.73, end: 1428.65, zh: "他主动投案自首。（turns himself in 投案自首）"}
+  - {text: "Did he do time?", start: 1429.11, end: 1429.61, zh: "他坐牢了吗？（do time 坐牢，服刑）"}
+  - {text: "He did. He spent much of the 1920s in prison, behind bars on various charges, all related to these few, few months of glory.", start: 1430.61, end: 1440.25, explain: "\"Behind bars\" means in prison. \"Charges\" are the crimes a person is accused of. \"Glory\" means a time when he was very famous and successful. The sentence says he spent many years in prison because of his short time of success.", zh: "是的。他在整个20世纪20年代的大部分时间都在监狱里度过，因各种罪名身陷囹圄，而这些罪名全都源于那短短几个月的风光。（behind bars 身陷囹圄；charges 罪名）"}
+  - {text: "Charles Ponzi eventually ended up in Brazil.", start: 1440.85, end: 1443.11, zh: "查尔斯·庞兹最终流落到了巴西。（ended up 最终，最后）"}
+  - {text: "He died in the charity ward of a hospital with 75 bucks to his name, which went to his burial.", start: 1443.11, end: 1448.73, explain: "A \"charity ward\" is a part of a hospital for poor people who cannot pay. \"Bucks\" is a casual word for dollars. The sentence says he died very poor, with only 75 dollars, which was used for his funeral.", zh: "他死在医院的慈善病房里，名下只有75美元，这笔钱全用来支付了他的丧葬费。（charity ward 慈善病房；burial 丧葬）"}
+  - {text: "But we all know his name, all because of a brief seven months where he was in the right place at the right frothy economic time with the right pitch.", start: 1449.53, end: 1458.81, explain: "\"Frothy\" means the economy was growing very fast and people were spending money easily, often without thinking. \"Pitch\" means the way he explained his idea to people. The sentence says he was famous because he was in the right place at the right time with the right idea.", zh: "但我们都知道他的名字，全是因为那短短七个月，他恰好身处正确的地点，赶上了经济泡沫最狂热的时候，并且有着完美的推销话术。（frothy 泡沫化的，浮华的；pitch 推销话术，提案）"}
+  - {text: "Why do you think it was that his scheme, his company, his Ponzi grew so fast?", start: 1459.71, end: 1468.00, explain: "A \"scheme\" is a plan, often a bad or illegal one. The sentence asks why his plan and company grew so quickly.", zh: "你觉得为什么他的骗局、他的公司，也就是他的庞氏骗局，能扩张得这么快？（scheme 骗局；Ponzi 庞氏骗局）"}
+  - {text: "I think there's always a fear of missing out.", start: 1468.18, end: 1471.70, zh: "我觉得人们总是害怕错过什么。（fear of missing out 害怕错过，即FOMO）"}
+  - {text: "FOMO, yeah. FOMO, right.", start: 1471.92, end: 1474.06, zh: "对，就是FOMO，没错。（FOMO 害怕错过，Fear Of Missing Out的缩写）"}
+  - {text: "It's a real thing.", start: 1474.64, end: 1475.48, zh: "这确实是个真实存在的心理现象。（real thing 真实存在的事物或现象）"}
+  - {text: "FOMO is real. And so financial FOMO cuts even deeper.", start: 1475.78, end: 1480.74, explain: "\"FOMO\" stands for \"Fear of Missing Out.\" It means being afraid of missing a good chance. The sentence says this fear is real, and it hurts more when it is about money.", zh: "FOMO是真实存在的。所以，在金融领域产生的这种错失恐惧感，打击起来更让人心痛。（financial FOMO 金融领域的错失恐惧感；cuts deeper 打击更深，更让人难受）"}
+  - {text: "You're not just missing a party.", start: 1480.92, end: 1482.00, zh: "你错过的不仅仅是一场派对。（missing 错过）"}
+  - {text: "You're fear of missing out on the ship that was supposed to come in to change your life and to change your family's life.", start: 1482.40, end: 1489.48, explain: "\"Fear of missing out\" means being afraid that you will not get a good chance. \"Supposed to\" means that people expected it to happen. The sentence says you are afraid of missing a big chance to make your life and your family's life better.", zh: "你害怕错过的是那艘本该到来、能改变你和你家人生活的船。（ship 船，此处比喻改变命运的机会；change your family's life 改变你家人的生活）"}
+  - {text: "And so that is part of human nature that Ponzi or people like him exploit.", start: 1490.04, end: 1496.10, explain: "\"Exploit\" means to use a weakness to get an advantage. The sentence says that Ponzi and people like him use this natural human feeling to trick others.", zh: "所以，庞氏或者像他这样的人，正是利用了人性中的这一弱点。（exploit 利用，剥削；Ponzi 庞氏，指庞氏骗局）"}
+  - {text: "It's unclear when exactly Ponzi's name became a generic term for the con he pulled off.", start: 1496.76, end: 1502.18, explain: "\"Generic term\" means a common word used for a type of thing. \"Con\" means a trick or a lie to steal money. The sentence says we do not know exactly when \"Ponzi\" became a common word for this kind of money trick.", zh: "目前尚不清楚庞氏这个名字确切是在什么时候变成了这种骗局的通用代名词的。（generic term 通用术语，代名词；con 骗局，欺诈）"}
+  - {text: "But one thing's for sure, it's going to stay that way because Ponzi's keep happening.", start: 1502.72, end: 1507.34, explain: "\"One thing's for sure\" means one fact is certain. The sentence says it is certain that this name will stay because these scams keep happening.", zh: "但有一点是肯定的，这种情况会一直持续下去，因为庞氏骗局总会不断出现。（Ponzi's 庞氏骗局）"}
+  - {text: "It's human nature. FOMO is a new word, but it's a timeless emotion.", start: 1507.90, end: 1512.16, explain: "\"FOMO\" is a short word for \"fear of missing out\". \"Timeless\" means it has existed for a very long time. The sentence says that while the word is new, the feeling is very old.", zh: "这是人性使然。FOMO 是个新词，但它代表的情感却亘古不变。（FOMO 错失恐惧症，即害怕错过好机会的心理）"}
+  - {text: "So if you'll oblige me, I have one final red flag.", start: 1512.76, end: 1516.02, explain: "\"Oblige\" means to do something someone asks for. \"Red flag\" means a sign that something is wrong or dangerous. The speaker asks the listener to listen to one last warning sign.", zh: "所以，请允许我再提最后一个危险信号。（red flag 危险信号，警示标志）"}
+  - {text: "Fear of missing out, don't forget to doubt.", start: 1516.62, end: 1519.94, zh: "害怕错过机会，但别忘了保持怀疑。（doubt 怀疑，质疑）"}
+  - {text: "Maybe not. All right, so that was the origin of the Ponzi scam.", start: 1521.70, end: 1527.42, explain: "\"Origin\" means the beginning or start. The speaker says that was the story of how the Ponzi scam started.", zh: "也许吧。好了，以上就是庞氏骗局的起源。（origin 起源，源头）"}
+  - {text: "But breaking news, 2026, there is a new scam out there.", start: 1527.96, end: 1533.08, explain: "\"Breaking news\" means very new and important news. The speaker says that in 2026, there is a new type of scam.", zh: "但突发新闻，2026年，市面上出现了一种新骗局。（breaking news 突发新闻）"}
+  - {text: "Involving podcasts of all things.", start: 1533.72, end: 1536.66, zh: "竟然涉及播客这种东西。（podcasts 播客）"}
+  - {text: "Yeah, yeah, is there nothing sacred in this world?", start: 1537.30, end: 1540.50, explain: "\"Sacred\" means very special, holy, or important. The speaker is joking that scammers do not respect anything or anyone.", zh: "天哪，天哪，这世上难道就没有什么神圣不可侵犯的吗？（sacred 神圣的，不可侵犯的）"}
+  - {text: "Here's what you need to know.", start: 1541.28, end: 1542.34, zh: "以下是你需要了解的关键信息。"}
+  - {text: "Scammers are impersonating our staff.", start: 1543.16, end: 1545.72, explain: "\"Impersonating\" means pretending to be someone else. The speaker says bad people are pretending to be their team members.", zh: "诈骗分子正在冒充我们的工作人员。（impersonating 冒充；staff 工作人员）"}
+  - {text: "Folks from Planet Money and the Indicator.", start: 1546.38, end: 1548.44, zh: "他们冒充的是《Planet Money》和《The Indicator》节目组的人。（Folks 人们，此处指团队成员；Indicator 指标，NPR的一档经济新闻节目）"}
+  - {text: "What we gather is that they're sending out messages to people inviting them to be guests.", start: 1549.12, end: 1553.66, explain: "\"Gather\" here means to learn or find out information. The speaker says they have learned that the scammers send messages inviting people to be guests.", zh: "据我们了解，他们向人们发送消息，邀请对方作为嘉宾。（gather 获悉，了解；inviting 邀请）"}
+  - {text: "Apparently they're often reaching out to folks who are likely to have crypto holdings.", start: 1554.30, end: 1559.00, explain: "\"Crypto holdings\" means digital money like Bitcoin that people own. The scammers often contact people who likely have this kind of money.", zh: "显然，他们经常联系那些可能持有加密货币的人。（crypto holdings 加密货币持仓；reaching out to 联系，接触）"}
+  - {text: "And apparently the fake profiles look quite convincing.", start: 1559.02, end: 1562.18, explain: "\"Convincing\" means believable or true-looking. The fake profiles look very real and hard to spot as fakes.", zh: "而且这些虚假的个人资料看起来相当有说服力。（convincing 有说服力的，逼真的）"}
+  - {text: "They have fake URLs and social media accounts that they use to corroborate who they are.", start: 1562.18, end: 1566.82, explain: "\"Corroborate\" means to prove or support a fact. The scammers use fake links and accounts to make it look like they are who they say they are.", zh: "他们使用伪造的网址和社交媒体账号来佐证自己的身份。（URLs 网址；corroborate 佐证，证实）"}
+  - {text: "Okay, and then this is what we think happens next.", start: 1567.32, end: 1569.56, explain: "This is a short sentence where the speaker moves the story to the next step. They are about to explain what happens after the invitation.", zh: "好的，接下来是我们推测会发生的事情。"}
+  - {text: "The scammers invite the victims to a video call for the interview.", start: 1569.74, end: 1573.84, explain: "\"Victims\" are the people who are hurt or tricked. The scammers ask these people to join a video call for an interview.", zh: "骗子会邀请受害者进行视频通话面试。（scammers 骗子；victims 受害者）"}
+  - {text: "And then say they need to install some software on the victim's computer to record it.", start: 1574.32, end: 1579.48, explain: "\"Install\" means to put a program onto a computer. \"Victim\" means the person who is hurt or tricked by a crime. The sentence says the scammers ask to put a program on the person's computer to watch what they do.", zh: "然后他们会说需要在受害者的电脑上安装一些软件来录制通话。（install 安装；record 录制）"}
+  - {text: "Then they find some way to distract the person.", start: 1580.06, end: 1582.86, explain: "\"Distract\" means to make someone stop paying attention to what they are doing. The sentence says the scammers find a way to take the person's attention away from the computer.", zh: "接着他们会想办法让受害者分心。（distract 使分心，转移注意力）"}
+  - {text: "Can you go fix the lighting or go put on a sports coat?", start: 1583.16, end: 1586.24, explain: "\"Sports coat\" is a type of jacket for formal or semi-formal wear. This is an example of a task the scammer asks the victim to do to get them away from the computer.", zh: "比如让你去修一下灯光，或者去穿件西装外套。（lighting 灯光；sports coat 西装外套）"}
+  - {text: "You know, look more formal.", start: 1586.46, end: 1587.48, zh: "你知道的，就是让自己看起来更正式一点。（formal 正式的，庄重的）"}
+  - {text: "And when the person returns to their computer, the scammer has pilfered their crypto holdings.", start: 1587.94, end: 1593.46, explain: "\"Pilfered\" means to steal small amounts of things, often secretly. \"Crypto holdings\" means the digital money the person owns. The sentence says that when the person comes back, the scammer has stolen their digital money.", zh: "当受害者回到电脑前时，骗子已经偷走了他们的加密货币资产。（pilfered 偷窃，窃取；crypto holdings 加密货币资产）"}
+  - {text: "So it kills me to say this because my job is way easier when people respond to me quickly.", start: 1594.44, end: 1599.10, explain: "\"Kills me\" is a strong way to say something is very difficult or painful to do. The speaker says it is hard for them to give this advice because they usually want people to answer fast.", zh: "说实话，说这话让我很痛苦，因为如果人们回复得快，我的工作会轻松得多。（kills me 让我很痛苦，很难受；respond 回复，回应）"}
+  - {text: "But please be vigilant.", start: 1599.68, end: 1601.74, explain: "\"Vigilant\" means careful and watchful for danger or mistakes. The speaker asks the listener to be very careful.", zh: "但请务必保持警惕。（vigilant 警惕的，警觉的）"}
+  - {text: "If you ever get a message from us or any other NPR journalist, double check the email address.", start: 1602.90, end: 1608.00, zh: "如果您收到我们或任何其他 NPR 记者的信息，请务必仔细核对发件人的电子邮件地址。（NPR 美国国家公共广播电台；double check 仔细核对）"}
+  - {text: "Ours will always end with npr .org .org .com.", start: 1608.58, end: 1612.74, explain: "This is a station ident or safety notice. The speaker says their website address always ends with specific letters. The transcript repeats \".org\" and \".com\" which might be a mistake in the recording or a specific warning about fake sites.", zh: "我们的邮箱地址永远是以 npr.org 结尾的。（npr.org NPR 的官方域名后缀）"}
+  - {text: "And this goes without saying, but we'll never ask for remote access to your computer.", start: 1613.36, end: 1617.06, explain: "\"Remote access\" means controlling a computer from a far away place. The speaker says they will never ask to control your computer from another location.", zh: "这是不言自明的，但我们绝不会要求获取您电脑的远程访问权限。（remote access 远程访问；goes without saying 不言自明，显而易见）"}
+  - {text: "We'll never ask for money in exchange for an interview.", start: 1617.38, end: 1619.68, zh: "我们也绝不会为了换取采访机会而向您索要钱财。（in exchange for 作为交换，以换取）"}
+  - {text: "And please do us a solid, please share this episode or information with anyone you think who might fall for this.", start: 1619.68, end: 1626.46, explain: "\"Do us a solid\" is a friendly way to ask for a favor. \"Fall for\" means to believe a lie or a trick. The speaker asks you to share the show with people who might be tricked by this scam.", zh: "请帮个忙，把这个节目或相关信息分享给任何您认为可能会上当的人。（do us a solid 帮个忙；fall for 上当，受骗）"}
+  - {text: "And if you spot fake social media accounts, please report them to whatever social media platform you see them on and let us know at planetmoney .npr .org.", start: 1626.72, end: 1635.64, explain: "\"Spot\" means to see or notice something. \"Report\" means to tell the company about a problem. The speaker asks you to tell the social media company about fake accounts and email them at the given address.", zh: "如果您发现虚假的社交媒体账号，请向您看到该账号的平台进行举报，并告知我们，邮箱是 planetmoney.npr.org。（spot 发现，察觉；report 举报）"}
+  - {text: "And please stay safe out there.", start: 1636.16, end: 1638.40, zh: "请务必在外面注意安全。（stay safe 保持安全）"}
+  - {text: "As always, thank you to our Planet Money Plus supporters.", start: 1639.05, end: 1641.53, zh: "一如既往，感谢我们的 Planet Money Plus 支持者。（supporters 支持者，赞助者）"}
+  - {text: "They get sponsored for your listening.", start: 1641.83, end: 1642.97, explain: "\"Sponsored\" means paid for by a company. This sentence says that a company pays for the show because you are listening to it.", zh: "他们获得由赞助方提供的收听支持。（sponsored 赞助的）"}
+  - {text: "They get merch discounts.", start: 1643.07, end: 1644.03, zh: "他们还能享受周边商品的折扣。（merch 周边商品）"}
+  - {text: "They get access to live virtual events and bonus episodes like the most recent one explaining podcast economics from the inside.", start: 1644.55, end: 1652.93, explain: "\"Access\" means the right to use or enter something. \"Economics\" is the study of money and business. This sentence says that members can join live online events and listen to extra episodes about how podcasts make money.", zh: "他们还能参加线上直播活动和收听额外剧集，比如最近一期从内部视角解读播客经济学的节目。（virtual events 线上活动；bonus episodes 额外剧集）"}
+  - {text: "Your steadfast support helps us stay independent and ambitious at Planet Money.", start: 1653.94, end: 1658.26, explain: "\"Steadfast\" means firm and not changing. \"Independent\" means not controlled by other companies. The speaker says your constant support helps them stay free and bold in their work.", zh: "你们坚定的支持让《Planet Money》能够保持独立并富有雄心。（steadfast 坚定的；independent 独立的）"}
+  - {text: "You can sign up at plus .npr .org.", start: 1658.82, end: 1662.08, zh: "你可以在 plus.npr.org 注册。（sign up 注册）"}
+  - {text: "That's right. This episode was produced by James Snead.", start: 1662.80, end: 1664.98, explain: "\"Produced\" means made or created. This sentence confirms that James Snead made this episode of the show.", zh: "没错，本期节目由 James Snead 制作。（produced 制作）"}
+  - {text: "It was fact -checked by Ceo Juarez, mastered by Natasha Branch, and edited by Jess Jing.", start: 1665.02, end: 1669.20, explain: "\"Fact-checked\" means checked to make sure the facts are true. \"Mastered\" means the sound quality was improved for the final recording. This sentence lists the people who checked the facts, fixed the sound, and edited the show.", zh: "由 Ceo Juarez 进行事实核查，Natasha Branch 负责母带处理，Jess Jing 负责剪辑。（fact-checked 事实核查；mastered 母带处理）"}
+  - {text: "Alex Goldmark is our executive producer.", start: 1669.38, end: 1670.98, explain: "An \"executive producer\" is a person who manages the whole show and makes sure it is made well. This sentence tells us who is in charge of making the podcast.", zh: "Alex Goldmark 是我们的执行制片人。（executive producer 执行制片人）"}
+  - {text: "I'm Nick Fountain. This is NPR.", start: 1671.50, end: 1673.06, explain: "\"NPR\" is the name of the radio station. The speaker says his name and where he works.", zh: "我是尼克·福滕，这里是NPR。"}
+  - {text: "Thanks for listening. Stay safe.", start: 1673.48, end: 1675.12, explain: "This is a short goodbye. The speaker says thank you and tells the listener to be careful.", zh: "感谢收听，请保重。"}
+  - {text: "This message comes from Inspirity, because how you HR matters.", start: 1683.66, end: 1687.86, explain: "This is an advertisement. \"HR\" means Human Resources, which is the part of a company that deals with workers. \"Inspirity\" is the name of the company being advertised.", zh: "这条信息来自Inspirity，因为你的HR（人力资源）管理至关重要。（Inspirity 一家提供人力资源服务的公司；HR 人力资源）"}
+  - {text: "From payroll and benefits to HR compliance and talent development.", start: 1688.24, end: 1691.66, explain: "\"Payroll\" is the money a company pays to its workers. \"Benefits\" are extra things like health insurance. \"Compliance\" means following the rules. \"Talent development\" means helping workers learn new skills.", zh: "从薪资福利到HR合规及人才发展。（payroll 薪资；compliance 合规；talent development 人才发展）"}
+  - {text: "Helping your business move forward with confidence.", start: 1691.94, end: 1694.44, zh: "助力您的企业自信前行。"}
+  - {text: "Learn more at inspirity .com.", start: 1694.80, end: 1696.88, explain: "This is the end of the advertisement. It tells you where to find more information on the internet.", zh: "请访问inspirity.com了解更多。"}
+  - {text: "This message comes from Google Workspace with Gemini.", start: 1697.12, end: 1701.66, explain: "This is the start of another advertisement. \"Google Workspace\" is a set of tools for work. \"Gemini\" is a new AI tool from Google.", zh: "这条信息来自带有Gemini的Google Workspace。（Gemini Google的AI模型；Workspace 办公套件）"}
+  - {text: "Ever notice how every new AI tool asks you to explain your business to it?", start: 1701.98, end: 1706.14, zh: "你有没有注意到，每个新的AI工具都要求你先向它解释你的业务？（AI 人工智能）"}
+  - {text: "All over again? Google Workspace with Gemini skips that.", start: 1706.36, end: 1709.96, explain: "This is part of the advertisement. It says that the new tool saves you from doing boring tasks over and over again.", zh: "又要从头再来？带有 Gemini 的 Google Workspace 能帮你跳过这一步。（Gemini 谷歌的大语言模型；Workspace 谷歌办公套件）"}
+  - {text: "You get Google's AI built right into the premium versions of Gmail, Google Docs, Sheets and more.", start: 1709.96, end: 1715.84, explain: "\"Premium\" means a higher level of service that costs more money. \"Built into\" means the AI is already inside the apps, so you do not need to add it. This sentence says that if you pay for the top version of Google apps, you get their AI tool for free.", zh: "你可以直接在 Gmail、Google Docs、Sheets 等高级版本中使用谷歌内置的 AI。（Gmail 谷歌邮箱；Docs 谷歌文档；Sheets 谷歌表格）"}
+  - {text: "No new tools. No extra logins.", start: 1716.18, end: 1718.14, zh: "无需新工具，也不用额外登录。（logins 登录）"}
+  - {text: "Just one subscription that gives you personalized AI right inside your actual workflow.", start: 1718.40, end: 1723.22, explain: "\"Subscription\" is a payment you make every month or year to keep using a service. \"Workflow\" is the way you do your daily work. This sentence says one payment gives you AI help while you are working.", zh: "只需订阅一次，就能在实际工作流程中直接使用个性化的 AI。（workflow 工作流程）"}
+  - {text: "Try Google Workspace with Gemini at go .gele .com. Workspace with Gemini.", start: 1723.64, end: 1729.02, explain: "This is an advertisement for Google's services. \"Gemini\" is the name of Google's AI tool. The speaker gives a website address to try the service.", zh: "请访问 go.gele.com 体验带有 Gemini 的 Google Workspace。（Gemini 谷歌的大语言模型；Workspace 谷歌办公套件）"}
 ---
