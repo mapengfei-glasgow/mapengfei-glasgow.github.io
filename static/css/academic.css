@@ -280,3 +280,20 @@
         text-decoration: none;
     }
 }
+
+/* Shared notation labels for academic articles; translucent in both themes. */
+.post-content .science-label {
+    display: inline;
+    padding: .08em .32em;
+    border-radius: .25em;
+    color: inherit;
+    font-size: .94em;
+    font-weight: 600;
+    white-space: nowrap;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+.science-label-grid { background: rgba(59, 130, 246, .13); }
+.science-label-mesh { background: rgba(139, 92, 246, .13); }
+.science-label-run { background: rgba(16, 185, 129, .13); }
+.science-label-kernel { background: rgba(245, 158, 11, .13); }
