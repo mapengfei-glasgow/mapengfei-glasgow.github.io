@@ -71,7 +71,7 @@ cmake --build fdm-3d-v1-gpu/build --target gla_mv -j
   (plus `-Wl,-rpath,<same dir>` so the binary finds it at run time).
 - Other toolkits / compilers: replace the `nvcc` and `g++` paths; nothing else changes.
 
-## 5. Run (~10–12 min)
+## 5. Run (~10 min)
 
 From `fdm-3d-v1-gpu/`. `--every 500` writes a fluid + solid frame every 0.01 s (135 frames, ≈ 4.9 GB), which gives
 the flow-rate samples of §7; the runbook default `--every 2000` (0.04 s, 35 frames, ≈ 1.3 GB) gives 35.
@@ -108,7 +108,7 @@ DSH_PERF_LEVEL=3 ./build/gla_mv --N 64 --T 1.335 --dt 2e-5 --sarah \
 - Interrupted: Ctrl+C writes the checkpoint; resume with the same command plus `--restart $OUT/checkpoint_latest.bin`.
 - The run stops by itself on NaN or when max|u| exceeds `--max-u`.
 
-This run: 66,750 steps in ≈ 12 min (8.1 ms/step plus frame output), RTX PRO 5000.
+This run: 66,750 steps in ≈ 9 min (8.1 ms/step), RTX PRO 5000.
 
 ## 6. Check the result
 
