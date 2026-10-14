@@ -1,0 +1,315 @@
+---
+layout: single
+title: "Pope has surgery for lung cancer"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-14T00:00:00Z
+slug: "2026-10-14-pope-has-surgery-for-lung-cancer"
+audioDir: "2026-10-14-pope-has-surgery-for-lung-cancer"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-14-pope-has-surgery-for-lung-cancer/episode.mp3"
+totalDuration: 1738.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.56}
+  - {text: "I'm Nick Mars, and in the early hours of Wednesday, the 14th of October, these are our main stories.", start: 4.86, end: 9.86}
+  - {text: "The Vatican says Pope Leo has been treated for lung cancer following an operation to remove a tumour.", start: 10.58, end: 16.30}
+  - {text: "More than three decades after the death of the hip -hop star Tupac Shakur, a former gang leader has been jailed for 40 years for orchestrating the murder.", start: 16.90, end: 25.84}
+  - {text: "And we speak to the makers of a hugely controversial film about the Israeli military's campaign in Gaza, which has killed tens of thousands of people.", start: 26.38, end: 35.22}
+  - {text: "Also in this podcast, the tiny robots piloted by magnets that could help doctors save lives, and...", start: 37.86, end: 45.36}
+  - {text: "It's actually almost a miracle, and I think it's more feasible in some way that it was under some sort of magical barrier and just waiting for me to describe it.", start: 45.36, end: 53.46}
+  - {text: "How even scientists can get rather mystical about discovering a new species of dinosaur.", start: 53.82, end: 58.78}
+  - {text: "We start the programme with the news that Pope Leo has undergone an operation to remove what has now been revealed as a small cancerous tumour on his right lung.", start: 63.09, end: 73.61}
+  - {text: "The Vatican said the procedure, which involved part of the lung being cut away, was successful with no complications.", start: 74.29, end: 80.91}
+  - {text: "A spokesperson said that after the operation, the Pope awoke normally and returned after a brief period of observation to his room.", start: 81.49, end: 89.01}
+  - {text: "The Pope had announced on Sunday that this operation was imminent.", start: 89.01, end: 92.87}
+  - {text: "I heard more from our correspondent, Sarah Rainsford, who's in the Vatican.", start: 93.19, end: 96.61}
+  - {text: "Reading back between the lines of what he said at the time, it's clear that tests had been done and that he knew what he was going in for.", start: 97.11, end: 103.81}
+  - {text: "Of course, nobody else knew the full picture, which we now have.", start: 103.91, end: 107.17}
+  - {text: "We've heard just recently from the Vatican in a briefing to explain the statement that they brought out, and that is to say that doctors did confirm", start: 107.31, end: 115.65}
+  - {text: "that the lump that was found on the Pope's right lung was cancerous.", start: 115.65, end: 119.25}
+  - {text: "They said it was removed, that went well, but they also said, as expected, they had to remove a fairly large section of the Pope's lung,", start: 119.59, end: 127.17}
+  - {text: "the entire lower lobe of his right lung.", start: 127.31, end: 128.97}
+  - {text: "They said that was, in their words, to make the procedure more radical, but when I asked what that meant, it was essentially to ensure that nothing malignant was left behind.", start: 129.43, end: 136.27}
+  - {text: "So I think a serious operation, it took 90 minutes.", start: 136.53, end: 139.53}
+  - {text: "The Pope was in there for three hours in total in the operating theatre.", start: 139.75, end: 143.57}
+  - {text: "He's now back in his room in the hospital.", start: 143.93, end: 146.07}
+  - {text: "We're told he's awake and we've even been told he's asking for his dinner, so he seems to be in relatively normal spirits, considering the ordeal that he's been through.", start: 146.07, end: 153.47}
+  - {text: "And Sarah, what do we know about any further treatment or testing going forward?", start: 153.85, end: 157.65}
+  - {text: "I asked that of the Vatican, the spokesperson who we were just briefed by, and he said that's not in the statement at the moment we don't know.", start: 157.83, end: 164.87}
+  - {text: "Normally, when a tumor like this is found and removed, there would be further tests done of the lymph nodes, for example, to see whether the cancer might have spread.", start: 165.35, end: 173.17}
+  - {text: "When I mentioned that, the Vatican referred me to the Pope's own words, which were to say that the nodule, as he described it at that point, was localised and had been caught early.", start: 173.17, end: 182.59}
+  - {text: "So I think we'll have to wait and see in terms of further testing, in terms of further treatment.", start: 182.97, end: 186.99}
+  - {text: "Again, we asked, would there be chemotherapy?", start: 187.31, end: 188.83}
+  - {text: "Did we know what was going to happen?", start: 189.17, end: 190.35}
+  - {text: "And we were told they don't have the answers at this point from the doctors.", start: 190.71, end: 193.65}
+  - {text: "So I think we'll just have to wait for an update from them.", start: 193.87, end: 196.15}
+  - {text: "But certainly, I think for Catholics all over the world, and here in Rome, where people have been at the hospital praying today for the Pope's health, I think this is worrying news.", start: 196.27, end: 204.89}
+  - {text: "Yeah, you mentioned that.", start: 205.33, end: 206.11}
+  - {text: "The nature of the papacy is that the Popes tend to be relatively elderly, so people expect health conditions to appear during a papacy.", start: 206.15, end: 214.69}
+  - {text: "But nevertheless, a shock for Catholics around the world and a worry.", start: 214.69, end: 218.97}
+  - {text: "Yeah, I think so.", start: 219.19, end: 219.95}
+  - {text: "Because particularly, this is a relatively young Pope.", start: 220.07, end: 222.53}
+  - {text: "He's only 71, and this is the very beginning of his papacy.", start: 222.69, end: 225.81}
+  - {text: "So I think it's worth remembering what it was like here a year and a half ago when he was elected.", start: 226.07, end: 229.69}
+  - {text: "People remembering the long illnesses of Pope Francis and then Pope Benedict before him.", start: 229.69, end: 234.21}
+  - {text: "And of course, Pope John Paul II before that, who all suffered serious ailments.", start: 234.25, end: 238.21}
+  - {text: "Of course, Benedict himself stood down as Pope because of his illness.", start: 238.39, end: 241.59}
+  - {text: "So when Pope Leo was elected at the Conclave, there was quite a lot of talk about, well, he's a young Pope and he's a healthy man.", start: 241.83, end: 248.01}
+  - {text: "He plays Pellis a lot.", start: 248.11, end: 249.17}
+  - {text: "He goes to the gym.", start: 249.27, end: 249.97}
+  - {text: "He's fit. They expected this to be the story of the papacy.", start: 250.13, end: 253.75}
+  - {text: "Now that has changed, I think, today.", start: 253.93, end: 255.73}
+  - {text: "Although, as I say, that Vatican is stressing that the operation was successful.", start: 255.87, end: 259.07}
+  - {text: "And at this point, we don't have any suggestion that the cancer has spread.", start: 259.07, end: 262.63}
+  - {text: "So people are concerned.", start: 262.85, end: 264.17}
+  - {text: "I spoke to a lady up at the Gemelli Hospital today.", start: 264.35, end: 266.39}
+  - {text: "She said, oh, we thought that this was a young and energetic Pope.", start: 266.53, end: 269.29}
+  - {text: "Now we see he's vulnerable.", start: 269.51, end: 270.61}
+  - {text: "And she said she felt awful when she first heard the news that the Pope was having the operation.", start: 270.89, end: 274.83}
+  - {text: "So I think she'll be even more worried tonight.", start: 275.01, end: 276.53}
+  - {text: "Sarah Rainsford. The hugely influential American rapper Tupac Chakur was gunned down in a drive -by shooting in Las Vegas in 1996.", start: 277.03, end: 286.89}
+  - {text: "But it's taken 30 years to get justice for his murder.", start: 286.89, end: 290.99}
+  - {text: "The former gang boss, Dwayne Keithy D.", start: 291.63, end: 294.01}
+  - {text: "Davis, was arrested in 2023.", start: 294.37, end: 296.55}
+  - {text: "He didn't kill Tupac, but in September, he was convicted of orchestrating the murder.", start: 297.15, end: 302.17}
+  - {text: "And now a judge has sentenced him to 40 years in prison.", start: 302.57, end: 305.73}
+  - {text: "You're here by a judge guilty of first -degree murder with use of a deadly weapon, a felony.", start: 306.17, end: 309.97}
+  - {text: "As to the first -degree murder portion, you are sentenced to 20 years to life.", start: 310.75, end: 314.65}
+  - {text: "As to the deadly weapon enhancement, you are sentenced to a mandatory consecutive 20 years to life.", start: 315.21, end: 321.11}
+  - {text: "The aggregate sentence is 40 years to life.", start: 321.35, end: 323.63}
+  - {text: "You're hereby remanded. Our Los Angeles correspondent Shyma Khalil told me more about the shooting and the case.", start: 324.25, end: 329.65}
+  - {text: "Tupac Chakur had just turned 25 when he was killed.", start: 330.25, end: 333.33}
+  - {text: "He was a superstar.", start: 333.47, end: 334.91}
+  - {text: "He was one of the most, if not the most, influential voice in hip -hop at the time.", start: 335.37, end: 339.53}
+  - {text: "He'd sold millions of albums.", start: 339.73, end: 341.15}
+  - {text: "He'd had a couple of platinum records that summer at the time.", start: 341.33, end: 344.75}
+  - {text: "He was really the face and the sound of hip -hop.", start: 345.01, end: 348.59}
+  - {text: "And then the news about his murder in September 1996 and who was there and what happened.", start: 348.93, end: 355.93}
+  - {text: "And that now infamous CCTV footage of him and his entourage attacking who we now know is Dwayne Keifey D.", start: 356.13, end: 363.81}
+  - {text: "Davis, his nephew. And now we know of the role that Keifey D.", start: 364.03, end: 369.03}
+  - {text: "Davis, or Dwayne Davis, has played in that.", start: 369.21, end: 371.69}
+  - {text: "He hasn't been convicted of pulling the trigger, Keifey D., but he has been convicted and found guilty of orchestrating that shooting.", start: 371.69, end: 378.91}
+  - {text: "And most of the crucial evidence has been by him in his own words.", start: 379.35, end: 384.01}
+  - {text: "He had talked to police.", start: 384.15, end: 385.15}
+  - {text: "He had co -written a memoir in which he places himself in the white Cadillac where the shots were fired, in which he says that he handed a gun to the back seat.", start: 385.39, end: 394.41}
+  - {text: "And even though his lawyer has tried to convince the jury that this was all bravado, that it was fiction written to sell books, the jury had found him guilty of first degree murder, of using a deadly weapon.", start: 394.67, end: 406.91}
+  - {text: "And now he's been sentenced.", start: 407.21, end: 408.17}
+  - {text: "He says he plans to appeal, but as it stands, looking at likely spending the rest of his life behind bars.", start: 408.37, end: 414.85}
+  - {text: "And perhaps not surprisingly, because it took 30 years to reach this point, it was emotional particularly for friends and family.", start: 415.13, end: 422.31}
+  - {text: "It was a day of raw emotion for that family.", start: 422.79, end: 425.15}
+  - {text: "And I will say having followed that trial for so long, today was a day where you saw all of that hurt, all of this trauma displayed on Szechwa Shakur's face.", start: 425.23, end: 436.77}
+  - {text: "Tupac Shakur's younger sister, and she was standing in front of the judge, trying to fight back tears and failing.", start: 437.17, end: 443.79}
+  - {text: "As she spoke about losing her big brother, spoke about the responsibilities that fell to Tupac Shakur at a very young age because of how poor the family was.", start: 444.05, end: 452.49}
+  - {text: "But also his activism.", start: 452.73, end: 453.83}
+  - {text: "And then she cried when she spoke about how much she missed her brother.", start: 454.25, end: 457.77}
+  - {text: "I do, I do, I do.", start: 457.77, end: 459.29}
+  - {text: "I miss his skin.", start: 459.39, end: 460.11}
+  - {text: "I miss his scars on his head.", start: 460.53, end: 462.11}
+  - {text: "I miss the way he ate.", start: 462.83, end: 463.95}
+  - {text: "Miss his recipe of barbecue chicken.", start: 464.93, end: 468.22}
+  - {text: "I miss his laugh.", start: 468.90, end: 469.96}
+  - {text: "He laughed so full.", start: 470.50, end: 471.60}
+  - {text: "It's so big. Our whole generation lost something.", start: 472.20, end: 476.20}
+  - {text: "And Shyma Tupac's musical legacy is such that even now this is a huge story, isn't it?", start: 477.58, end: 482.78}
+  - {text: "It is because for many generations, who wouldn't have seen him, they're still influenced by his music.", start: 483.06, end: 488.80}
+  - {text: "His style is very unique.", start: 488.80, end: 490.42}
+  - {text: "He was such a talented orator.", start: 490.58, end: 492.52}
+  - {text: "He was such a talented poet.", start: 492.62, end: 494.56}
+  - {text: "And it all came from a place of truth.", start: 494.82, end: 496.72}
+  - {text: "And I think all of these messages that he has had in his music, the success that he's had at a young age, still resonates to this day.", start: 497.22, end: 504.50}
+  - {text: "Shyma Khalil in Los Angeles.", start: 504.82, end: 506.58}
+  - {text: "The prestigious American University, Cornell, has suspended some parties on its campus for the rest of the academic year in response to a former student's gang rape allegations.", start: 507.69, end: 519.19}
+  - {text: "It's one of a series of new safety measures.", start: 519.85, end: 522.11}
+  - {text: "The alleged rape of a woman by seven men in 2024 took place at a fraternity house, a building where undergraduate members of a male college organization live and socialize.", start: 522.69, end: 533.21}
+  - {text: "Cornell University's president, Michael Kotlikov, says New York State Police will investigate sexual assault claims as part of an independent review of the university's policies.", start: 533.71, end: 544.13}
+  - {text: "With more details, here's our North America correspondent, Neda Tulfik.", start: 544.13, end: 548.25}
+  - {text: "When I was there after the fallout from all of this, students spoke about how those fraternity parties were a key part of the way they socialized", start: 548.65, end: 557.83}
+  - {text: "because there aren't that many other options around Ithaca where Cornell is located.", start: 557.83, end: 563.21}
+  - {text: "But we know that Cornell has really struggled to manage this crisis.", start: 563.69, end: 568.39}
+  - {text: "Students are angry. They have been protesting.", start: 568.87, end: 571.07}
+  - {text: "Even faculty have asked for a vote of no confidence against the administration.", start: 571.07, end: 576.27}
+  - {text: "And so this is just the latest measure.", start: 576.77, end: 579.03}
+  - {text: "The president, in a statement, actually directly apologized to Jane Doe for the harm she suffered and said it is clear that Cornell must meet the moment by acknowledging", start: 579.17, end: 590.75}
+  - {text: "where they have fallen short and take meaningful action.", start: 590.75, end: 594.47}
+  - {text: "And so this decision has come to suspend fraternity parties until they can undergo a thorough review to determine how and when they can resume in a safe manner.", start: 594.73, end: 605.99}
+  - {text: "They say that they are also appointing some crisis advisors to work with Cornell police to handle any further reports of sexual assault and others in their civil rights division", start: 606.43, end: 619.77}
+  - {text: "as well to handle any further accusations or allegations.", start: 619.77, end: 623.67}
+  - {text: "So this is just another measure.", start: 624.35, end: 626.45}
+  - {text: "But let's not forget that Cornell is still facing an independent review of how it handled Jane Doe's case from 2024.", start: 626.45, end: 634.05}
+  - {text: "And New York prosecutors are also looking into whether charges should be levied against some of those men.", start: 634.57, end: 642.37}
+  - {text: "Israel's prime minister Benjamin Netanyahu has instructed the attorney general and the head of the Shin Bet Intelligence Service to reveal the identities of soldiers and officials", start: 644.70, end: 654.86}
+  - {text: "who took part on condition of anonymity in a controversial new Israeli documentary on the war against Hamas in Gaza.", start: 654.86, end: 662.80}
+  - {text: "The film, NASA, won an award and received the longest standing ovation when it premiered at the Venice Film Festival last month.", start: 663.52, end: 671.46}
+  - {text: "In it, 24 soldiers and intelligence officials give testimony about how targets in Gaza were chosen including using AI and the alleged tolerance of collateral damage known as NASA or civilian casualties.", start: 671.98, end: 687.00}
+  - {text: "The film has caused a huge stir in Israel and threats of legal action from the government.", start: 687.82, end: 692.58}
+  - {text: "Rebecca Kesby spoke to the filmmakers Yuval Abraham and Rachel Shaw.", start: 693.24, end: 697.96}
+  - {text: "And I should point out the interview was recorded before Mr.", start: 698.56, end: 701.56}
+  - {text: "Netanyahu demanded that the identities of the contributors be revealed.", start: 701.76, end: 706.18}
+  - {text: "Yuval Abraham began by describing the origins of the documentary.", start: 706.58, end: 710.12}
+  - {text: "Who we are as Israeli citizens who have watched the Netanyahu government destroy the Gaza Strip, kill tens of thousands of civilians.", start: 710.88, end: 720.14}
+  - {text: "I think we felt that by speaking to Israeli soldiers and officers, there are 24 of them who are on camera speaking in the film over 100", start: 720.52, end: 728.72}
+  - {text: "that we've relied on for the investigative work that is the backbone of this film.", start: 728.72, end: 732.74}
+  - {text: "And that by speaking to these soldiers we would be able to get an inner look into the targeting systems, the AI -based systems that are behind the mass killing in Gaza", start: 732.88, end: 742.16}
+  - {text: "and hopefully to contribute to the efforts to stop this killing from going on.", start: 742.16, end: 746.98}
+  - {text: "Rachel, the film focuses really heavily on AI in particular in terms of how the Israelis have chosen targets.", start: 747.14, end: 755.30}
+  - {text: "The film actually focuses on the systems that were used in order to find targets, to calculate how many civilians are going to be killed with them.", start: 755.74, end: 764.80}
+  - {text: "Systems like where is daddy, which alerts the intelligence when the target is entering the home based on surveilling their families and sometimes the kid's phones.", start: 765.06, end: 774.08}
+  - {text: "There is a big part of the film that is showing how there was a use of actual AI systems in order from the beginning to choose", start: 774.58, end: 781.72}
+  - {text: "who are going to be the targets that were considered as Hamas.", start: 781.72, end: 785.66}
+  - {text: "The Israeli military relied on these AI -based systems knowing that they had an error rate.", start: 785.92, end: 790.66}
+  - {text: "So it was a statistical kind of approach.", start: 790.94, end: 793.10}
+  - {text: "Also calculating what they call NASA, which means collateral damage.", start: 793.38, end: 797.86}
+  - {text: "It means men, women and children.", start: 797.86, end: 799.40}
+  - {text: "A soldier says, we never say in the army a strike is going to kill 15 children.", start: 799.58, end: 803.84}
+  - {text: "We say 15 NASA.", start: 804.10, end: 805.74}
+  - {text: "And in the film, you hear about these NASA numbers.", start: 806.12, end: 808.72}
+  - {text: "You hear that there was a widespread authorization to bomb up to 20 civilians, 20 NASA, for these low -ranking targets.", start: 808.92, end: 816.92}
+  - {text: "Some of them marked with AI, as Rachel was saying, in Hamas and NASA numbers in the hundreds when it's more senior ranking members.", start: 817.20, end: 825.00}
+  - {text: "And I think to me what was striking is that it's an algorithm that calculates how many people are going to be bombed in each house.", start: 825.16, end: 832.34}
+  - {text: "And what actually happened after October 7th was that these turned into a mechanism that normalized and allowed for the killing of civilians instead of minimizing it.", start: 832.64, end: 841.26}
+  - {text: "You know, many of these officers and soldiers are actually, they're coming from the elite part of the Israeli society.", start: 841.36, end: 847.22}
+  - {text: "They consider themselves sometimes left -wing.", start: 847.38, end: 849.62}
+  - {text: "A lot of them are either born in Tel Aviv, live there.", start: 849.92, end: 852.68}
+  - {text: "And actually, as you see in the film, also, the main Israeli military headquarters is located in the heart of Tel Aviv.", start: 853.08, end: 859.66}
+  - {text: "So some of these operations, the air strikes, are being operated from there.", start: 859.80, end: 863.90}
+  - {text: "So you've received massive levels of criticism for this film.", start: 864.20, end: 868.74}
+  - {text: "There are some people that are calling for your Israeli citizenship to be revoked, saying that there's a traitorous element to this film.", start: 869.00, end: 877.52}
+  - {text: "And there's also been a furious response from the IDF.", start: 878.00, end: 882.00}
+  - {text: "Did you invite the IDF to take part in this film?", start: 882.00, end: 885.48}
+  - {text: "Many of the revelations in this film that the soldiers are talking about have been corroborated independently by highly respectable media outlets, not only The Guardian, which is producing this film and was involved in the vetting of the identities of the participants,", start: 885.88, end: 899.18}
+  - {text: "but also The New York Times, The Washington Post.", start: 899.70, end: 901.84}
+  - {text: "We've approached the Israeli military, I think, more than 10 times over the course of three years with all the major claims in the film.", start: 902.10, end: 909.04}
+  - {text: "The suggestion that the IDF has made recently that it was unaware of these claims or that it was never approached for comment is just not true.", start: 909.04, end: 917.00}
+  - {text: "And we've reflected, we believe, fairly the position of the Israeli government and the IDF in the film through testimony of Netanyahu himself, which appears and reappears quite frequently in the film.", start: 917.30, end: 928.18}
+  - {text: "We're not haters of Israel.", start: 928.56, end: 929.60}
+  - {text: "We're Israelis ourselves who care about our country.", start: 929.70, end: 931.88}
+  - {text: "Obviously, this film is coming in the backdrop of widespread denial.", start: 932.38, end: 937.54}
+  - {text: "But I think it has also sparked very important conversations in the Israeli society, in the Israeli media, about the military's actions in Gaza.", start: 937.54, end: 947.04}
+  - {text: "Yuval, Abraham, and Rachel Shaw.", start: 947.90, end: 950.28}
+  - {text: "And in response to Prime Minister Netanyahu's demand to reveal the identities of those involved, the filmmakers directed us to this response from their co -producers at The Guardian newspaper,", start: 950.98, end: 962.02}
+  - {text: "which reads, and I quote, these moves are all attempts to distract from the urgent questions the film asks about the mass killings of Palestinian civilians in Gaza.", start: 962.40, end: 972.70}
+  - {text: "Journalists should be free to pursue public interest investigations without threats or harassment.", start: 973.36, end: 979.08}
+  - {text: "Still to come in this podcast.", start: 981.15, end: 982.99}
+  - {text: "We have nine billion a year coming into English football, an extraordinary amount of money, both from media rights, but also from commercial revenue.", start: 983.59, end: 990.79}
+  - {text: "Yet at the same time, football is driven with debt.", start: 991.15, end: 993.83}
+  - {text: "It's driven with risk.", start: 994.09, end: 994.71}
+  - {text: "A report on the state of English football's finances makes some worrying findings.", start: 994.71, end: 1000.01}
+  - {text: "This is the Global News Podcast.", start: 1008.19, end: 1009.63}
+  - {text: "Now, is Europe prepared to deal with what it sees as the Russian threat?", start: 1011.15, end: 1014.77}
+  - {text: "And what needs to be done to enhance its security?", start: 1015.17, end: 1017.17}
+  - {text: "These were the key questions raised at the Warsaw Security Forum in Poland.", start: 1017.83, end: 1022.17}
+  - {text: "Politicians, military officers, and academics came together to share and debate their views on challenges and solutions, with NATO's top commander sharing his theory for victory against Russia.", start: 1022.75, end: 1033.49}
+  - {text: "The BBC's Abdul Jalil Abdul Rasulov sent this report from the forum.", start: 1033.91, end: 1037.93}
+  - {text: "Warsaw Security Forum is an international conference that brings together presidents, prime ministers, ambassadors, military commanders, to discuss the issue of security in Europe.", start: 1041.37, end: 1053.67}
+  - {text: "And the main buzzword of this year's forum is Russian threat.", start: 1054.31, end: 1058.11}
+  - {text: "The war in Ukraine was in the center of almost all discussions.", start: 1059.22, end: 1062.74}
+  - {text: "Few disputed the fact that European security ultimately depends on what happens in Ukraine.", start: 1063.60, end: 1069.52}
+  - {text: "And Germany's foreign minister, Johan Wadafoul, explained what's the only way to force Putin to start negotiating.", start: 1070.16, end: 1077.34}
+  - {text: "We have to look to his assessment, to the elements of his thinking, and change the scenario for him.", start: 1077.88, end: 1086.28}
+  - {text: "And bringing him to the negotiation table, and which is only within reach if he recognizes that prolonging the war is the more risky way for him personally or for his regime.", start: 1086.54, end: 1100.08}
+  - {text: "But what if Russia decides to attack Europe?", start: 1100.56, end: 1102.94}
+  - {text: "NATO's top military commander, General Alexis Grinkiewicz says that the alliance is ready to defend its members and deter Russian aggression.", start: 1103.75, end: 1111.79}
+  - {text: "Should Moscow decide to follow this path?", start: 1112.19, end: 1114.33}
+  - {text: "My theory of victory is simple.", start: 1114.53, end: 1116.25}
+  - {text: "We will block the initial attack.", start: 1116.57, end: 1118.13}
+  - {text: "If the attack persists, we will blunt it and prevent enemy advance.", start: 1118.67, end: 1122.77}
+  - {text: "And if required, we will break the enemy's forces and the operational warfighting system that is arrayed against us.", start: 1123.55, end: 1129.75}
+  - {text: "But how will this be implemented?", start: 1130.27, end: 1131.75}
+  - {text: "General Grinkiewicz gave a rather vague picture, preventing Russian forces from seizing territory and overwhelm their formations.", start: 1132.57, end: 1139.51}
+  - {text: "Should the adversary choose to press the attack or commit his reserves, we will break the warfighting system engaged against us.", start: 1139.87, end: 1146.65}
+  - {text: "This includes not just the attacking force itself, but anything and everything that supports, sustains or controls that force.", start: 1147.13, end: 1155.39}
+  - {text: "This theory may sound good on paper.", start: 1155.91, end: 1158.11}
+  - {text: "In reality, NATO member states are worried.", start: 1158.81, end: 1161.51}
+  - {text: "The US is currently reviewing its military presence in Europe and they may withdraw their planes, ships, weapons and thousands of troops stationed there.", start: 1162.15, end: 1171.33}
+  - {text: "Some states like Poland, however, are hopeful that the US will open a new permanent base in their country.", start: 1172.06, end: 1178.44}
+  - {text: "The decision could be made at the end of the whole process which will end up around December.", start: 1179.18, end: 1189.10}
+  - {text: "But at this moment, the work is already going on.", start: 1189.68, end: 1192.72}
+  - {text: "So the visits from US to look for the potential place for the base has been done.", start: 1193.20, end: 1198.70}
+  - {text: "The special law is prepared in Poland.", start: 1199.16, end: 1201.56}
+  - {text: "So we are working on that.", start: 1201.56, end: 1203.32}
+  - {text: "And I hope to have good messages at the end of the year on this one.", start: 1203.40, end: 1206.66}
+  - {text: "While politicians and military officers sounded upbeat, some questioned whether Europe can defend itself without America.", start: 1207.46, end: 1214.32}
+  - {text: "Donald Trump has asked one of his higher -profile ambassadors to resign, which she then swiftly did.", start: 1214.80, end: 1224.80}
+  - {text: "Kimberly Gilfoyle was the US envoy to Greece, previously engaged to Donald Trump Jr.", start: 1225.20, end: 1230.90}
+  - {text: "before the couple split in December 2024.", start: 1230.90, end: 1233.74}
+  - {text: "Here's what the president had to say on Tuesday to reporters outside the White House.", start: 1234.22, end: 1237.94}
+  - {text: "To what degree, she was doing a good job, but we didn't like what we were reading.", start: 1238.59, end: 1242.69}
+  - {text: "Did you see Kimberly Gilfoyle personally and what did she say to you?", start: 1242.89, end: 1247.09}
+  - {text: "I didn't speak to her now, but she will not be there.", start: 1247.31, end: 1252.26}
+  - {text: "I didn't like what I read.", start: 1252.32, end: 1253.26}
+  - {text: "Gilfoyle was one of the president's first ambassadorial appointments of his second term.", start: 1254.32, end: 1259.20}
+  - {text: "There had been a string of damaging reports about her in recent weeks.", start: 1259.20, end: 1263.18}
+  - {text: "So what exactly was it that prompted the president to call for her to resign?", start: 1263.52, end: 1267.16}
+  - {text: "Daniel Lipperman is the White House and Washington reporter for Politico.", start: 1267.70, end: 1271.84}
+  - {text: "The president doesn't like when people profit off his name.", start: 1272.22, end: 1275.66}
+  - {text: "And so there was a highly critical Wall Street Journal story which revealed that a former Republican congressional candidate had been asked by Gilfoyle to wire", start: 1275.86, end: 1286.16}
+  - {text: "$100 ,000 to pay her American Express bill.", start: 1286.16, end: 1289.66}
+  - {text: "And he believed that it was in exchange for official help getting stuff he needed from the Trump administration.", start: 1290.00, end: 1296.24}
+  - {text: "And she put that all in signal messages.", start: 1296.58, end: 1298.46}
+  - {text: "She has disputed the authenticity of these messages, but the White House has confirmed them and the man now has been doing TV interviews.", start: 1298.98, end: 1306.96}
+  - {text: "It's a look that Trump and Vance were not happy with.", start: 1307.32, end: 1311.06}
+  - {text: "There was another story where she was bringing a private business executive to numerous meetings with European officials.", start: 1311.46, end: 1321.84}
+  - {text: "Some of them mistook the guy for her chief of staff or her aide.", start: 1322.34, end: 1326.30}
+  - {text: "But this was a man who was trying to get some business deals with those governments.", start: 1326.50, end: 1332.12}
+  - {text: "And I think that was not helpful to her cause.", start: 1332.48, end: 1335.26}
+  - {text: "And she was also someone who seemed to really revel in the ceremonial aspects of the job as she defined it, going to fashion shows and kind of living it up.", start: 1335.44, end: 1344.06}
+  - {text: "I think that this is not the type of story they want to be talking about three weeks before the midterm elections.", start: 1344.99, end: 1350.47}
+  - {text: "And so this is a major distraction for them in the moment.", start: 1350.95, end: 1353.95}
+  - {text: "And it's possible that Gilfoyle will be one of many people who are dragged to Capitol Hill if there is a switch up in congressional control.", start: 1354.11, end: 1362.77}
+  - {text: "Daniel Lippmann, a major report by England's football regulator has warned that despite billions of dollars of international investment, the majority of clubs are living on the edge of financial disaster.", start: 1363.29, end: 1374.65}
+  - {text: "The state of the game report found that many clubs are at risk of collapse if their owners were to walk away.", start: 1375.11, end: 1380.25}
+  - {text: "Our sports editor is Dan Rowan.", start: 1380.71, end: 1382.21}
+  - {text: "Now in its 35th year, the global popularity of the Premier League has brought ever -increasing revenues into the English game, but such wealth has not ensured stability throughout the football pyramid.", start: 1382.83, end: 1392.49}
+  - {text: "And today, as he revealed a landmark report on clubs finances, David Kogan, the chairman of the sports independent regulator, issued this warning.", start: 1392.99, end: 1401.19}
+  - {text: "We have nine billion a year coming into English football, an extraordinary amount of money, both from media rights but also from commercial revenue.", start: 1401.47, end: 1408.97}
+  - {text: "Yet at the same time, football is driven with debt and it's driven with risk.", start: 1409.35, end: 1413.17}
+  - {text: "And the further you go down the pyramid with 116 clubs, the more those risks increase.", start: 1413.27, end: 1418.01}
+  - {text: "The regulator found that 94 % of clubs in the top five leagues made a loss last season and more than 60 % of EFL and national league clubs are technically insolvent.", start: 1418.41, end: 1428.55}
+  - {text: "It also found that player wages while high aren't the only problem.", start: 1428.55, end: 1432.53}
+  - {text: "17 lower league clubs would still be making a loss, even if their players played for free.", start: 1433.03, end: 1438.01}
+  - {text: "Among several recommendations, the regulator wants the Premier League and EFL to conclude years of talks and agree a new funding settlement that would see the top flight share more of its wealth.", start: 1438.81, end: 1448.33}
+  - {text: "This all comes after Manchester City were found to have broken Premier League financial rules.", start: 1448.98, end: 1453.20}
+  - {text: "The club has appealed, but if a commission's guilty verdicts are upheld, the regulator could force Dan Rowan.", start: 1453.70, end: 1460.24}
+  - {text: "Now delivering doses of medicine to specific parts of the body with pinpoint accuracy is a tricky task.", start: 1461.00, end: 1467.32}
+  - {text: "But now a study has shown how that could be done far more effectively.", start: 1467.60, end: 1471.32}
+  - {text: "The key it seems is using miniscule robots piloted by magnets.", start: 1471.84, end: 1475.76}
+  - {text: "Axel Krieger, professor of mechanical engineering at Johns Hopkins University in the US was senior author of the study.", start: 1476.40, end: 1483.82}
+  - {text: "He spoke to Tim Franks.", start: 1484.20, end: 1485.18}
+  - {text: "We are helping to treat endocarditis it's a significant health problem affecting about 50 ,000 patients every year in the US alone.", start: 1485.80, end: 1494.54}
+  - {text: "It's a bacterial infection of the heart wall.", start: 1495.02, end: 1497.86}
+  - {text: "It is being treated with intravenous injections of antibiotics and the dose that actually reaches the infection is really small.", start: 1498.12, end: 1507.76}
+  - {text: "So what we are trying to do is really boost the effective dose of antibiotics right at the site of infection through novel milli robots that we can deploy.", start: 1508.26, end: 1518.66}
+  - {text: "So tell me about these very, very small robots.", start: 1518.96, end: 1522.16}
+  - {text: "One is a small little needle robot just the size of maybe your pencil tip under three millimeters in diameter.", start: 1522.60, end: 1529.46}
+  - {text: "It has a little needle and a little barb and we can with AI guidance drive it right to the site of the infection and anchor it into the heart wall.", start: 1529.86, end: 1538.92}
+  - {text: "The second robot is a drug module so we can then bring it to the needle robot.", start: 1539.46, end: 1544.46}
+  - {text: "It releases a high dose of antibiotics and then after the treatment we can bring all of them out all under magnetic actuation.", start: 1544.82, end: 1554.24}
+  - {text: "All that is built into the little milli robots is a small little permanent magnet and then it's driven by electromagnets on the outside of the body.", start: 1554.52, end: 1563.88}
+  - {text: "So there we have changing fields and can steer the milli robot right to the site of the infection.", start: 1564.34, end: 1570.50}
+  - {text: "We tested this in a heart model under a realistic flow condition and verified that we have a success rate of close to 100 % in docking", start: 1570.84, end: 1581.62}
+  - {text: "and undocking and can steer with an accuracy of a few millimeters.", start: 1581.62, end: 1585.84}
+  - {text: "We also tested this in a pick heart from a butcher to just test that we have enough force for anchoring and docking and undocking.", start: 1586.74, end: 1595.64}
+  - {text: "We really need to go from a heart that is from a butcher to a live animal.", start: 1596.00, end: 1601.62}
+  - {text: "So that's a big step and then from our heart model to a live animal will be the next steps before we can attempt first in human studies.", start: 1601.76, end: 1609.88}
+  - {text: "Axl Krieger Now finding a brand new species of animal is the dream of many young researchers.", start: 1610.54, end: 1616.29}
+  - {text: "When that animal is a predatory dinosaur it makes it all the more exciting of course.", start: 1616.79, end: 1621.87}
+  - {text: "Well that's the experience of an academic from Leeds University in the UK.", start: 1622.17, end: 1625.73}
+  - {text: "The fossilized skeleton he'd been studying was actually found more than a century ago and had it seemed been miscategorized Dr Cassius Morrison is the person who set the record straight.", start: 1626.23, end: 1637.07}
+  - {text: "Here he is describing how the moment of realization felt.", start: 1637.53, end: 1640.81}
+  - {text: "In the UK most dinosaur bones have actually been studied at least once and applied multiple techniques.", start: 1641.49, end: 1646.65}
+  - {text: "So it's actually almost a miracle it was left for a hundred years and I think it's more feasible in some way that it was under some sort of magical barrier", start: 1647.15, end: 1656.19}
+  - {text: "and just waiting for me to describe it and name it as a new species.", start: 1656.19, end: 1659.39}
+  - {text: "Well it was clearly an almost mystical experience for him.", start: 1660.03, end: 1662.51}
+  - {text: "Kate Ferrand has more details.", start: 1662.51, end: 1663.99}
+  - {text: "A PhD student was investigating the skulls of dinosaurs when his supervisor gave him a fossil from the Natural History Museum.", start: 1664.65, end: 1671.93}
+  - {text: "He believes it must have been overlooked in a drawer since being bought a hundred years before as part of an amateur paleontology's collection.", start: 1672.67, end: 1680.23}
+  - {text: "The fossil had been found on a beach on the Isle of White Southwest Coast.", start: 1680.97, end: 1684.65}
+  - {text: "The researcher realised it was unique and belonged to an agile and very fierce dinosaur.", start: 1685.15, end: 1689.89}
+  - {text: "It's thought that prehistoric creature would have been the weight of a tiger and looked like an elongated velociraptor with very long arms and large claws.", start: 1690.53, end: 1698.97}
+  - {text: "The Invicti Bellatrix or unconquered female warrior would have eaten baby dinosaurs, small mammals, crocodiles and lizards.", start: 1699.69, end: 1706.81}
+  - {text: "The researcher described its discovery as rather magical.", start: 1707.49, end: 1710.77}
+  - {text: "Kate Ferrand. And that is all from us for now but if you want to get in touch you can email us at globalpodcast at bbc .co .uk", start: 1711.29, end: 1720.84}
+  - {text: "This edition of the Global News Podcast was mixed by Charlotte Hadroy Tozhimska.", start: 1721.38, end: 1726.60}
+  - {text: "The producer was Emma Joseph.", start: 1727.28, end: 1728.70}
+  - {text: "The editor is Karen Martin.", start: 1729.14, end: 1730.30}
+  - {text: "I'm Nick Miles and until next time, goodbye.", start: 1730.72, end: 1732.68}
+---
