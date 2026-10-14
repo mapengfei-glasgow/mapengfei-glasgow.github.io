@@ -1,13 +1,13 @@
 {{ define "main" }}
-<article class="post-single" id="protected-paper">
-<header class="post-header"><h1 class="post-title">{{ .Title }}</h1></header>
-<div id="paper-gate">
-<p>Sign in with your site sync code to read this working paper.</p>
-<button id="paper-signin" type="button">Sign in</button>
+<div id="protected-paper">
+  <div id="paper-gate" class="post-single">
+    <header class="post-header"><h1 class="post-title">{{ .Title }}</h1></header>
+    <p>Sign in with your site sync code to read this working paper.</p>
+    <button id="paper-signin" class="cta primary" type="button">Sign in</button>
+    <noscript><p>Enable JavaScript to sign in and read the paper.</p></noscript>
+  </div>
+  <div id="paper-content" hidden></div>
+  <template id="paper-body">{{ partial "academic-article.html" . }}</template>
 </div>
-<noscript><p>Enable JavaScript to sign in and read the paper.</p></noscript>
-<div class="post-content" id="paper-content" hidden></div>
-<template id="paper-body">{{ .Content }}</template>
-</article>
 <script src="{{ (resources.Get "js/protected-paper.js" | fingerprint).RelPermalink }}" defer></script>
 {{ end }}

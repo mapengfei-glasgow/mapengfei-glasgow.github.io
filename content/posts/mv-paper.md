@@ -1,5 +1,5 @@
 ---
-title: "Mitral-valve FSI on GPUs"
+title: "Mitral-valve FSI on GPUs with a nodal immersed finite element / finite difference method"
 description: "Working paper. Sign in with your site sync code to read."
 date: 2026-10-14
 layout: protected-paper
@@ -9,8 +9,6 @@ searchHidden: true
 build:
   list: never
 ---
-
-# Mitral-valve FSI on GPUs with a nodal immersed finite element / finite difference method
 
 Working draft. Target journal: *Journal of Fluid Mechanics*.
 Status: 2026-10-13. Empty cells are not yet measured. Run labels (G1 … G10) refer to the run register in
