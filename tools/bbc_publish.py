@@ -95,6 +95,57 @@ def audio_size_mb() -> float:
     return total / 1e6
 
 
+def git(*args: str) -> int:
+    """Run a git command in the site checkout; return its exit status."""
+    return subprocess.run(["git", "-C", str(SITE), *args], cwd=str(SITE)).returncode
+
+
+def push(msg: str) -> int:
+    """Commit and push what the transcription just wrote, surviving a race.
+
+    Another workstream (the mitral-valve posts, the daily chain's own note
+    commit) pushes into this same repository, and an episode takes minutes of
+    transcription to produce — so `origin/main` moving during that window is
+    normal, not exceptional. A single `git push` would then fail, and because
+    the pages now exist the *next* run finds nothing to publish and never
+    retries: the episode's audio would sit in R2 forever without a page. So a
+    rejected push is rebased once and retried, exactly like commit_notes in
+    tools/daily_bbc_pipeline.sh.
+    """
+    if git("add", "-A") or git("commit", "-m", msg):
+        print("[WARN] git add/commit failed")
+        return 1
+    if git("push", "origin", "main") == 0:
+        return 0
+    print("[WARN] git push rejected — rebasing onto origin/main and retrying")
+    if git("fetch", "-q", "origin", "main") or git("rebase", "origin/main") \
+            or git("push", "origin", "main"):
+        git("rebase", "--abort")
+        print("[WARN] git push failed; the commit stays local — push it by hand, "
+              "or the next run will not retry it")
+        return 1
+    return 0
+
+
+def push_pending() -> None:
+    """Push commits a previous run left behind.
+
+    `push()` cannot retry forever, and the next run normally has nothing new to
+    publish, so a rejected push would otherwise strand the episode locally.
+    Called on that "nothing new" path.
+    """
+    if subprocess.run(["git", "-C", str(SITE), "rev-list", "--count", "origin/main..HEAD"],
+                      cwd=str(SITE), capture_output=True, text=True).stdout.strip() in ("", "0"):
+        return
+    print("[note] local commits are ahead of origin/main — pushing them")
+    if git("fetch", "-q", "origin", "main") == 0 and git("rebase", "origin/main") == 0 \
+            and git("push", "origin", "main") == 0:
+        print("[note] pushed")
+    else:
+        git("rebase", "--abort")
+        print("[WARN] could not push the pending commits")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -120,6 +171,11 @@ def main() -> int:
           f" · audio {audio_size_mb():.0f} MB")
     if not pending:
         print("nothing new to publish.")
+        # A previous run may have committed episodes and then failed to push
+        # them; this is the only path that would otherwise never notice.
+        # Skipped on --dry-run, which must not touch the remote.
+        if not args.dry_run:
+            push_pending()
         return 0
     print(f"pending: {len(pending)} episode(s)")
     for c in pending:
@@ -148,12 +204,8 @@ def main() -> int:
         return 0
 
     msg = "add episode(s): " + ", ".join(f"{c['show']} {c['date']}" for c in processed)
-    git = ["git", "-C", str(SITE)]
-    for cmd in [["add", "-A"], ["commit", "-m", msg], ["push", "origin", "main"]]:
-        r = subprocess.run(git + cmd, cwd=str(SITE))
-        if r.returncode != 0:
-            print(f"[WARN] git {cmd[0]} failed")
-            return r.returncode
+    if push(msg):
+        return 1
     print(f"published {len(processed)} episode(s) · audio now {audio_size_mb():.0f} MB")
     print(msg)
     return 0
