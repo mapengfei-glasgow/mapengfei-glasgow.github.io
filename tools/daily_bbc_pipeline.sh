@@ -1,8 +1,14 @@
 #!/usr/bin/env bash
 # ---------------------------------------------------------------------------
-# Daily BBC episode pipeline — run by bbc-daily.timer (systemd --user).
+# Daily podcast pipeline — run by bbc-daily.timer (systemd --user).
 #
 #   proxy -> download -> transcribe/publish -> Qwen A2 notes -> push
+#
+# Not only the BBC any more: the download stage walks $SHOWS, which carries
+# BBC Global News Podcast *and* NPR's Planet Money. The rest of the chain was
+# already show-agnostic (bbc_publish.py scans every show's download directory,
+# make_episode.py takes --show as an argument), so only the download stage and
+# the BBC-specific preflight had to learn about the second feed.
 #
 # This is the unattended version of the manual sequence documented in
 # work/HOST-NOTES.md. Every stage is idempotent (the downloader keeps a state
@@ -12,9 +18,13 @@
 #     systemctl --user start bbc-daily.service
 #
 # Environment overrides:
-#   SHOW      BBC show to download      (default global-news)
-#   DL_DIR    download directory        (default "downloads/BBC Global News Podcast")
-#   SKIP_NOTES=1   skip the Qwen A2-notes stage
+#   SHOWS     shows to download, space-separated
+#             (default "global-news planet-money"; SHOW=NAME sets just that one)
+#   DL_DIR    download directory for global-news (default "downloads/BBC Global News Podcast")
+#   WINDOW_DAYS      look-back window for the BBC shows      (default 3)
+#   PM_DL_DIR        Planet Money's download directory       (default "downloads/Planet Money")
+#   PM_WINDOW_DAYS   Planet Money's look-back window         (default 21)
+#   SKIP_NOTES=1     skip the Qwen A2-notes stage
 #
 # Qwen lifecycle: the notes stage needs sglang-qwen.service on 127.0.0.1:30000.
 # If it is not already serving, this script starts it and — unlike the manual
@@ -30,7 +40,9 @@ ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"   # <repo>/.migration
 SITE="$ROOT/english-site"                                 # symlink -> the Pages checkout
 PY="$ROOT/venv/bin/python"
 
-SHOW="${SHOW:-global-news}"
+# SHOW is the single-show spelling this script used to take; it still works and
+# now simply narrows the list (SHOW=global-news runs the old job exactly).
+SHOWS="${SHOWS:-${SHOW:-global-news planet-money}}"
 DL_DIR="${DL_DIR:-downloads/BBC Global News Podcast}"
 SKIP_NOTES="${SKIP_NOTES:-0}"
 
@@ -75,6 +87,17 @@ bbc_reachable() {
     curl -sf -o /dev/null --max-time 40 "$BBC_FEED"
 }
 
+# Only the BBC shows need the BBC-specific preflight below: the proxy node's
+# generic connectivity (health-checked against Google) says nothing about
+# bbci.co.uk, whereas Planet Money comes from feeds.npr.org and downloads fine
+# either way.
+needs_bbc() {
+    case " $SHOWS " in
+        *" global-news "*|*" in-our-time "*) return 0 ;;
+    esac
+    return 1
+}
+
 # --- stage 0b: make sure the BBC has a usable exit --------------------------
 # `自动选择` health-checks against Google's generate_204, so it sits on whatever
 # node is fastest *for Google* — which is not the same as being able to reach
@@ -116,7 +139,7 @@ ensure_proxy() {
 }
 
 # --- stage 1: download -----------------------------------------------------
-# A rolling window instead of `bbc_podcast.py --limit 1`, because the feed
+# A rolling window instead of `bbc_podcast.py --limit 1`, because the BBC feed
 # carries two editions per day plus cross-posted items from other programmes,
 # so "the newest item" is the wrong episode as soon as an afternoon edition or
 # a Happy Pod lands first. bbc_backfill.py takes the earliest item of each date
@@ -124,14 +147,48 @@ ensure_proxy() {
 # day (machine off, BBC posting late) is picked up by the next run.
 WINDOW_DAYS="${WINDOW_DAYS:-3}"
 
+# Per-show download directory. Only the two shows the timer actually runs are
+# spelled out; anything else (a new feed added to bbc_podcast.SHOWS) falls back
+# to "downloads/<show>".
+show_dir() {
+    case "$1" in
+        global-news)  printf '%s' "$DL_DIR" ;;
+        planet-money) printf '%s' "${PM_DL_DIR:-downloads/Planet Money}" ;;
+        *)            printf 'downloads/%s' "$1" ;;
+    esac
+}
+
+# Per-show look-back window. 3 days is right for a daily news podcast; Planet
+# Money publishes about twice a week, so the same window would quietly drop an
+# episode after a long weekend with the machine off. Its feed keeps hundreds of
+# old items and bbc_backfill.py only downloads dates that are not already in
+# .last_episode.json, so a wide window costs nothing.
+show_window() {
+    case "$1" in
+        planet-money) printf '%s' "${PM_WINDOW_DAYS:-21}" ;;
+        *)            printf '%s' "$WINDOW_DAYS" ;;
+    esac
+}
+
+# Every show is attempted even when an earlier one fails — a BBC outage must not
+# cost the day's Planet Money episode (and vice versa). Only a run in which
+# nothing at all downloaded counts as a failed download stage.
 run_download() {
-    local from to
-    from="$(date -d "$WINDOW_DAYS days ago" +%F)"
-    to="$(date +%F)"
-    log "download: earliest edition of each day in $from … $to"
+    local show from to ok=0
     cd "$ROOT" || return 1
-    # bbc_backfill.py raises bbc_podcast.py's timeouts for the proxy itself.
-    "$PY" tools/bbc_backfill.py "$SHOW" --from "$from" --to "$to" --dir "$DL_DIR"
+    for show in $SHOWS; do
+        from="$(date -d "$(show_window "$show") days ago" +%F)"
+        to="$(date +%F)"
+        log "download $show: earliest episode of each date in $from … $to → $(show_dir "$show")"
+        # bbc_backfill.py raises bbc_podcast.py's timeouts for the proxy itself.
+        if "$PY" tools/bbc_backfill.py "$show" \
+                --from "$from" --to "$to" --dir "$(show_dir "$show")"; then
+            ok=$((ok + 1))
+        else
+            warn "download $show failed"
+        fi
+    done
+    [ "$ok" -gt 0 ]
 }
 
 # --- stage 2: transcribe + publish ----------------------------------------
@@ -250,15 +307,21 @@ commit_notes() {
 # Registered before any stage can start Qwen, so no exit path can skip it.
 trap release_qwen EXIT
 
-log "=== daily BBC pipeline start (show=$SHOW) ==="
+log "=== daily pipeline start (shows=$SHOWS) ==="
 sync_site
 
 ensure_proxy || fail "proxy unavailable — cannot reach the BBC"
-ensure_bbc_route
-# Liveness via Google only proves the tunnel is up; the BBC is a separate hop
-# with its own per-node blocks, so check the actual feed too.
-retry 4 45 "BBC reachability" bbc_reachable \
-    || fail "BBC unreachable through the proxy after 4 attempts"
+if needs_bbc; then
+    ensure_bbc_route
+    # Liveness via Google only proves the tunnel is up; the BBC is a separate hop
+    # with its own per-node blocks, so check the actual feed too. Deliberately no
+    # longer fatal: a BBC outage must not stop the shows that do not go through
+    # the BBC, and run_download() reports a BBC that is still down.
+    retry 4 45 "BBC reachability" bbc_reachable \
+        || warn "BBC unreachable through the proxy after 4 attempts"
+else
+    log "bbc route: not needed for shows=$SHOWS"
+fi
 
 # Snapshot the episode pages so the notes stage can tell which episodes this
 # run published (bbc_publish.py does not report the slugs it produced).
