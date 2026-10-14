@@ -23,6 +23,10 @@ android/local.properties
 arXiv-2412.15408v1
 arXiv-2111.09958v2
 
+# Scratch clones (tools/build_exercises.py keeps the upstream exercises-dataset
+# here — 295 MB including media — and commits only the trimmed data file).
+.scratch/
+
 # Local clone of IB2d (immersed boundary method), not part of the site
 IB2d/
 

@@ -1,0 +1,175 @@
+{{ define "main" }}
+{{- /* /exercises/ — the exercise library.
+       Data (static/exercises/exercises.json) is built by tools/build_exercises.py
+       from github.com/hasaneyldrm/exercises-dataset; media stays on jsDelivr
+       (params.exercises.mediaBase) because it is © Gym visual and not ours to
+       re-host. DOM contract lives in assets/js/exercises.js. */ -}}
+<div class="ex" id="ex-app"
+     data-src="{{ "exercises/exercises.json" | relURL }}?v={{ substr (sha256 (readFile "static/exercises/exercises.json")) 0 10 }}"
+     data-media-base="{{ strings.TrimSuffix "/" site.Params.exercises.mediaBase }}"
+     data-attribution="{{ site.Params.exercises.attribution }}"
+     data-upstream="{{ site.Params.exercises.upstream }}">
+
+  <header class="ex-head">
+    <p class="section-label">Fitness</p>
+    <h1>健身动作库</h1>
+    <p class="ex-lead">
+      1,324 个动作，每个都有动画演示和中英双语分步说明。按部位、器械或目标肌群筛选，
+      收藏常练的动作，拼成训练计划后直接用计时模式跟练。收藏和计划只存在这台设备上，不需要登录。
+    </p>
+  </header>
+
+  <nav class="ex-tabs" role="tablist" aria-label="健身">
+    <button class="ex-tab" type="button" role="tab" data-view="lib" aria-selected="true">动作库</button>
+    <button class="ex-tab" type="button" role="tab" data-view="fav" aria-selected="false">收藏 <span class="ex-badge" id="ex-fav-badge" hidden></span></button>
+    <button class="ex-tab" type="button" role="tab" data-view="plan" aria-selected="false">训练计划 <span class="ex-badge" id="ex-plan-badge" hidden></span></button>
+  </nav>
+
+  <p class="ex-note" id="ex-loading">正在载入动作数据…</p>
+  <p class="ex-error" id="ex-error" role="alert" hidden></p>
+
+  <!-- ── 动作库 ─────────────────────────────────────────────────────────── -->
+  <section class="ex-view" id="ex-view-lib" data-view="lib">
+    <div class="ex-controls">
+      <div class="ex-searchrow">
+        <input type="search" id="ex-search" autocomplete="off" spellcheck="false"
+               placeholder="搜索：动作名、目标肌群、器械 —— 例如 bench / 腹肌 / 哑铃"
+               aria-label="搜索动作">
+        <button type="button" class="ex-btn ghost" id="ex-clear" hidden>清空筛选</button>
+      </div>
+
+      <div class="ex-chips" id="ex-cat" role="group" aria-label="按部位筛选"></div>
+
+      <div class="ex-selects">
+        <label>器械
+          <select id="ex-equip"><option value="">全部器械</option></select>
+        </label>
+        <label>目标肌群
+          <select id="ex-target"><option value="">全部肌群</option></select>
+        </label>
+        <label>排序
+          <select id="ex-sort">
+            <option value="name">名称 A→Z</option>
+            <option value="category">按部位</option>
+            <option value="equipment">按器械</option>
+          </select>
+        </label>
+      </div>
+    </div>
+
+    <p class="ex-count" id="ex-count"></p>
+    <div class="ex-grid" id="ex-grid"></div>
+    <p class="ex-note" id="ex-empty" hidden>没有匹配的动作。换个关键词，或点「清空筛选」。</p>
+    <div class="ex-morewrap">
+      <button type="button" class="ex-btn" id="ex-more" hidden>加载更多</button>
+    </div>
+  </section>
+
+  <!-- ── 收藏 ───────────────────────────────────────────────────────────── -->
+  <section class="ex-view" id="ex-view-fav" data-view="fav" hidden>
+    <p class="ex-count" id="ex-fav-count"></p>
+    <p class="ex-note" id="ex-fav-empty" hidden>
+      还没有收藏。在动作卡片上点 ☆，动作就会出现在这里，方便下次直接找。
+    </p>
+    <div class="ex-grid" id="ex-fav-grid"></div>
+    <div class="ex-morewrap">
+      <button type="button" class="ex-btn" id="ex-fav-toplan" hidden>把收藏的动作加进当前计划</button>
+    </div>
+  </section>
+
+  <!-- ── 训练计划 ───────────────────────────────────────────────────────── -->
+  <section class="ex-view" id="ex-view-plan" data-view="plan" hidden>
+    <div class="ex-planbar">
+      <label class="ex-planpick">计划
+        <select id="ex-plan-select" aria-label="选择训练计划"></select>
+      </label>
+      <div class="ex-planbar-btns">
+        <button type="button" class="ex-btn ghost small" id="ex-plan-new">新建</button>
+        <button type="button" class="ex-btn ghost small" id="ex-plan-rename">重命名</button>
+        <button type="button" class="ex-btn ghost small" id="ex-plan-clear">清空</button>
+        <button type="button" class="ex-btn ghost small" id="ex-plan-del">删除</button>
+      </div>
+    </div>
+
+    <p class="ex-note" id="ex-plan-empty" hidden>
+      计划还是空的。去<a href="#ex-view-lib" data-act="golib">动作库</a>挑几个动作，点卡片上的「＋计划」。
+    </p>
+
+    <ol class="ex-planlist" id="ex-plan-list"></ol>
+
+    <div class="ex-planfoot" id="ex-plan-foot" hidden>
+      <p class="ex-count" id="ex-plan-summary"></p>
+      <button type="button" class="ex-btn primary" id="ex-plan-start">开始训练（计时模式）</button>
+    </div>
+
+    <details class="ex-help">
+      <summary>计时模式怎么用</summary>
+      <ul>
+        <li>开始后按计划顺序逐个动作、逐组进行：显示动画演示和当前组数，你可以随时暂停。</li>
+        <li>每组做完点「完成本组」，组间休息自动倒计时，结束时铃声提醒并震动。</li>
+        <li>如果一个动作是按时间做的（平板支撑、开合跳…），把「每组时长」填上秒数，这一组会倒计时自动结束。</li>
+        <li>训练中屏幕会尽量保持常亮；中途锁屏也不会丢进度。</li>
+      </ul>
+    </details>
+  </section>
+
+  <p class="ex-credit">
+    <span id="ex-credit-text"></span>
+  </p>
+</div>
+
+<!-- ── 动作详情 ─────────────────────────────────────────────────────────── -->
+<div class="ex-modal" id="ex-detail" hidden>
+  <div class="ex-detail-box" role="dialog" aria-modal="true" aria-labelledby="ex-detail-name">
+    <button type="button" class="ex-modal-close" id="ex-detail-close" aria-label="关闭">×</button>
+    <div class="ex-detail-media">
+      <img id="ex-detail-gif" alt="" decoding="async">
+    </div>
+    <div class="ex-detail-body">
+      <h2 id="ex-detail-name"></h2>
+      <p class="ex-detail-badges" id="ex-detail-badges"></p>
+      <div class="ex-detail-acts">
+        <button type="button" class="ex-btn ghost small" id="ex-detail-fav">☆ 收藏</button>
+        <button type="button" class="ex-btn small" id="ex-detail-add">＋ 加入计划</button>
+        <span class="ex-langtoggle" role="group" aria-label="说明语言">
+          <button type="button" class="ex-lang" data-lang="zh">中文</button>
+          <button type="button" class="ex-lang" data-lang="en">English</button>
+        </span>
+      </div>
+      <p class="ex-detail-instr" id="ex-detail-instr"></p>
+      <ol class="ex-detail-steps" id="ex-detail-steps"></ol>
+      <p class="ex-detail-muscles" id="ex-detail-muscles"></p>
+      <p class="ex-detail-nav">
+        <button type="button" class="ex-btn ghost small" id="ex-detail-prev">← 上一个</button>
+        <span id="ex-detail-pos" class="ex-detail-pos"></span>
+        <button type="button" class="ex-btn ghost small" id="ex-detail-next">下一个 →</button>
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- ── 计时训练 ─────────────────────────────────────────────────────────── -->
+<div class="ex-modal ex-timer" id="ex-timer" hidden>
+  <div class="ex-timer-box" role="dialog" aria-modal="true" aria-label="计时训练">
+    <header class="ex-timer-head">
+      <span id="ex-timer-progress"></span>
+      <button type="button" class="ex-modal-close" id="ex-timer-close" aria-label="结束训练">×</button>
+    </header>
+    <img id="ex-timer-gif" alt="" decoding="async">
+    <h2 id="ex-timer-name"></h2>
+    <p class="ex-timer-phase" id="ex-timer-phase">准备</p>
+    <p class="ex-timer-clock" id="ex-timer-clock" aria-live="off">0:00</p>
+    <p class="ex-timer-target" id="ex-timer-target"></p>
+    <div class="ex-timer-acts">
+      <button type="button" class="ex-btn primary" id="ex-timer-primary">开始本组</button>
+      <button type="button" class="ex-btn ghost small" id="ex-timer-pause">暂停</button>
+      <button type="button" class="ex-btn ghost small" id="ex-timer-prev">上一组</button>
+      <button type="button" class="ex-btn ghost small" id="ex-timer-next">下一组</button>
+    </div>
+    <p class="ex-timer-nextup" id="ex-timer-nextup"></p>
+  </div>
+</div>
+
+{{- /* Loaded last and deferred: it wires up the two modals above by id. */ -}}
+<script src="{{ (resources.Get "js/exercises.js" | fingerprint).RelPermalink }}" defer></script>
+{{ end }}

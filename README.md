@@ -11,15 +11,19 @@ Stack: Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme +
 
 ```
 content/episodes/    # one .md per episode (front matter holds every sentence + its timestamps)
+content/exercises/   # _index.md for /exercises/ (the 健身 exercise library)
 data/transcripts/    # <slug>.small.json per episode (word-level timestamps)
 static/audio/<slug>/ # LOCAL ONLY while building: the episode MP3 is uploaded to
                      # R2 and then removed, so the repo keeps pages only
+static/exercises/    # exercises.json — built by tools/build_exercises.py
 static/css/          # main.css — styles for our own components only
+assets/css/          # exercises.css — /exercises/ only (fingerprinted)
 assets/js/           # player.js (bottom bar + episode page wiring)
                      # vocab.js (sync code + vocabulary book)
                      # comments.js (mounts the giscus comment box)
+                     # exercises.js (the exercise library + guided sessions)
 layouts/             # index.html (home: intro + cards), episodes/single.html,
-                     # words/list.html, partials/ overrides
+                     # exercises/list.html, words/list.html, partials/ overrides
 themes/PaperMod/     # theme (git submodule)
 tools/               # the pipeline (see tools/ below)
 android/             # installable app: a Trusted Web Activity around the site
@@ -39,6 +43,7 @@ tools/publish_batch.py    # batch helper used by BBC publishing
 tools/r2_client.py        # shared R2 signing/upload code (stdlib only)
 tools/r2_upload.py        # R2 CLI (also used from make_episode.py)
 tools/make_og.py          # Open Graph image for an episode
+tools/build_exercises.py  # rebuild static/exercises/exercises.json from upstream
 tools/flag_a2.py          # A2-level sentence flagging (uses tools/phrase_notes.tsv)
 tools/qwen_explain.py     # writes the 💡 A2 notes and the 🀄 Chinese notes (local Qwen)
 tools/merge_explain.py    # merge both note kinds into the sentence frontmatter
@@ -315,6 +320,61 @@ traffic, SDK calls and visitor traffic do not count — no cron keep-alive helps
 and the detection is deliberately undocumented. An idle week therefore took the
 vocabulary book and `/files/` down together. Nothing in the site talks to AppWrite
 now.
+
+## 健身动作库 / the exercise library (`/exercises/`)
+
+A Chinese-UI exercise library on top of
+[hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset):
+1,324 exercises with an animation GIF, a 180×180 thumbnail, category, body part,
+equipment, target and synergist muscles, and step-by-step instructions in ten
+languages. The page uses **Chinese + English**.
+
+- **动作库** — search (name, translated muscle and equipment names in both
+  languages, all words must match), one-tap body-part chips, equipment and target
+  dropdowns, three sort orders. Thumbnails are lazy and the grid renders 60 cards
+  at a time, auto-filling while the "加载更多" button is on screen.
+- **详情** — the animation GIF, the Chinese/English instructions and numbered
+  steps, the muscles worked, ☆ and ＋计划, and ← → to walk the current result list.
+- **收藏 / 训练计划** — favourites, and named plans whose entries carry 组数、
+  次数、组间休息 and 每组时长. Everything lives in `localStorage`
+  (`exercise-favorites`, `exercise-plans`, `exercise-instr-lang`) on the device:
+  there is no account, no Worker and nothing to sync — unlike the vocabulary book,
+  which is deliberately server-backed.
+- **计时模式** — walks the plan set by set: each set is timed or counts up, rest
+  counts down with a chime and a vibration, ← → jump, pause shifts the deadline.
+  Timing is deadline-based rather than tick-counting, so a throttled background tab
+  or a locked phone comes back with the correct remaining time; the screen wake
+  lock is re-requested on visibility change.
+
+### Data
+
+`static/exercises/exercises.json` (~2.5 MB, ~0.3 MB gzipped) is committed and is
+rebuilt from upstream by:
+
+```bash
+tools/build_exercises.py            # clone the upstream repo into .scratch/ and rebuild
+tools/build_exercises.py --update   # pull upstream first (what "get the latest" means here)
+tools/build_exercises.py --langs zh,en,es
+```
+
+It trims the 17 MB upstream file to the fields the page needs, drops `body_part`
+(identical to `category` in all 1,324 records — asserted, not assumed), and keeps
+only the requested instruction languages. It also fails loudly if upstream
+changes the assumptions the page and the media URLs rest on.
+
+### Media is referenced, not copied
+
+The thumbnails and GIFs (138 MB) are **© [Gym visual](https://gymvisual.com/)**
+and are *not* covered by the dataset's MIT licence — its `NOTICE.md` states that
+cloning the repository grants no rights to the media. So they are not committed
+here: `params.exercises.mediaBase` in `hugo.toml` points at jsDelivr, which serves
+them from the upstream repository (the copy the rights holder authorised), and
+every card and detail view renders the required
+`© Gym visual — https://gymvisual.com/` attribution.
+
+To self-host instead — for instance in the same R2 bucket as the audio — upload
+`images/` and `videos/` with `tools/r2_upload.py` and point `mediaBase` at that
+bucket prefix; no code changes are needed.
 
 ## Comments (`/episodes/<slug>/` and `/posts/<slug>/`)
 

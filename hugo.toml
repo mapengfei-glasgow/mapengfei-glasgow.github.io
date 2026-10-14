@@ -103,6 +103,23 @@ Learn English with podcasts. Every episode is transcribed and **timestamped sent
 Sentences above A2 level come with a short **plain-English note**, and any sentence can be saved to your **vocabulary book**, which syncs across devices.
 """
 
+  # /exercises/ — the exercise library (1,324 exercises). Its data lives in
+  # static/exercises/exercises.json and is rebuilt from the upstream dataset by
+  # tools/build_exercises.py; Hugo itself generates none of it.
+  #
+  # mediaBase is where the thumbnails + animation GIFs come from. That media is
+  # © Gym visual and is NOT covered by the dataset's MIT licence (its NOTICE.md
+  # says plainly that cloning the repo grants no rights to the media), so it is
+  # not committed here: jsDelivr serves it straight out of the upstream
+  # repository, which is the copy the rights holder authorised. Every card and
+  # the detail view render `attribution` for that reason.
+  # To self-host instead, upload images/ + videos/ with tools/r2_upload.py and
+  # point mediaBase at that bucket prefix — no code change needed.
+  [params.exercises]
+    mediaBase = "https://cdn.jsdelivr.net/gh/hasaneyldrm/exercises-dataset@main"
+    attribution = "动作数据 MIT 授权；演示媒体 © Gym visual — https://gymvisual.com/"
+    upstream = "https://github.com/hasaneyldrm/exercises-dataset"
+
 [[menu.main]]
   name = "Listening"
   url = "/episodes/"
@@ -132,3 +149,8 @@ Sentences above A2 level come with a short **plain-English note**, and any sente
   name = "AFSI"
   url = "/afsi/"
   weight = 6
+
+[[menu.main]]
+  name = "健身"
+  url = "/exercises/"
+  weight = 7

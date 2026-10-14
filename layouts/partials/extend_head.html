@@ -16,6 +16,13 @@
        (assets/ files get this for free through Hugo's fingerprint pipe; this one
        lives in static/.) */ -}}
 <link rel="stylesheet" href="{{ "css/main.css" | absURL }}?v={{ substr (sha256 (readFile "static/css/main.css")) 0 10 }}">
+{{- if eq .Section "exercises" }}
+{{- /* Exercise library (/exercises/) only: ~9 KB of styles nothing else uses.
+       Fingerprinted by Hugo, so the filename changes whenever the file does and
+       the max-age=600 that GitHub Pages puts on static assets cannot serve a
+       stale layout to the phone or the Android app. */}}
+<link rel="stylesheet" href="{{ (resources.Get "css/exercises.css" | fingerprint).RelPermalink }}">
+{{- end }}
 {{- if .HasShortcode "chart" }}
 {{- /* Interactive figures written as data in the Markdown body: Chart.js is
        self-hosted (like MathJax below), and both assets load only on pages
