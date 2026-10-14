@@ -22,6 +22,6 @@
     window.SiteAuth.onChange(refresh);
     window.SiteAuth.ready().then(function () { refresh(window.SiteAuth.user()); });
   }
-  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start);
+  if (document.readyState !== "complete") document.addEventListener("DOMContentLoaded", start);
   else start();
 }());
