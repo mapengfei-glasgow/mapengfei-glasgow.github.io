@@ -25,7 +25,7 @@ Status: 2026-10-13. Empty cells are not yet measured. Run labels (G1 … G10) re
 ## 1. Introduction
 
 - Motivation: transmitral flow, vortex formation and breakdown downstream of the mitral valve.
-- Reference model: IBAMR SarahNodalMV (nodal IFED, libMesh HEX8 / TET4 mesh, fiber-reinforced HGO leaflets, chordae, tethers).
+- Reference model: IBAMR SarahNodalMV (nodal IFED, libMesh HEX8 / TET4 mesh, fiber-reinforced HGO leaflets, chordae, tethers) {{< cite "ibamrSarahNodalMV" >}}.
 - Contributions (draft):
   1. a GPU nodal IFED solver that reproduces the IBAMR reference flow;
   2. a resolution study (background grid and solid mesh refined together at fixed MFAC);
@@ -95,6 +95,12 @@ balance along the tube (§5.1).
 
 ### 3.1 Numerical method (summary; details in `fdm-3d-v1-gpu/docs/NUMERICAL_METHODS.md`)
 
+The immersed finite element/finite difference formulation follows Griffith and Luo
+{{< cite "griffith2017hybrid" >}}, with nodal coupling as described by Wells et al.
+{{< cite "wells2023nodal" >}}. The choice of regularised kernels and relative
+Lagrangian–Eulerian mesh spacing is informed by Lee and Griffith
+{{< cite "lee2022coupling" >}}.
+
 | Part | Scheme |
 |---|---|
 | Fluid | staggered MAC grid, incremental pressure projection; viscous term implicit (backward Euler; Crank–Nicolson available in `ifed_bench`); convection central, conservative, AB2 |
@@ -108,6 +114,9 @@ Evidence so far comes from the 3D IFED benchmarks (torsion, Cook, idealised LV; 
 `docs/NUMERICAL_METHODS.md` §9) and from the mitral-valve runs.
 
 #### (1) Kernel: CBS43 or higher order (CBS54, CBS65)
+
+For the local divergence-free IFED method using composite B-splines, see Li et al.
+{{< cite "li2025local" >}}.
 
 | Kernel | Implemented | Max stable dt (torsion, MFAC ≤ 0.72) | Volume error, LV problem 2 (MFAC 0.40) | MV result |
 |---|---|---|---|---|
@@ -130,6 +139,9 @@ they are worse than IB_4. Wider CBS kernels (54, 65) are expected to need smalle
 | deviatoric projection | +15.0 % | +0.52 % | |
 
 #### (3) Volumetric stabilisation κ_s (β_s)
+
+For volumetric stabilisation and stress formulations in hyperelastic immersed
+boundary methods, see Vadala-Roth et al. {{< cite "vadalaroth2020" >}}.
 
 | Case | Without κ_s | With κ_s | Note |
 |---|---|---|---|
@@ -268,11 +280,4 @@ Leakage check (tube flux at z = 3, 5.5, 9, 12 cm; difference between sections):
 
 (to be written)
 
-## References
-
-1. B. E. Griffith, X. Luo, *Hybrid finite difference/finite element immersed boundary method*, IJNMBE 2017.
-2. B. Vadala-Roth et al., *Stabilization approaches for the hyperelastic immersed boundary method*, CMAME 2020.
-3. J. H. Lee, B. E. Griffith, *On the Lagrangian–Eulerian coupling in the IFED method*, JCP 2022.
-4. D. R. Wells et al., *A nodal immersed finite element–finite difference method*, JCP 2023.
-5. L. Li, C. Gruninger, J. H. Lee, B. E. Griffith, *Local divergence-free IFED method using composite B-splines*, arXiv 2412.15408.
-6. IBAMR SarahNodalMV model (mesh `MV_only_hex.xda`, `MechanicsModel.C`, `FeedbackForcer.C`).
+{{< references >}}
