@@ -11,8 +11,12 @@ build:
 ---
 
 Working draft. Target journal: *Journal of Fluid Mechanics*.
-Status: 2026-10-13. Empty cells are not yet measured. Run labels ({{< label "run" "G1" >}} … {{< label "run" "G10" >}}) refer to the run register in
-`GLAMV_STATUS.md` (dev clone, branch `glamv-cbspline`).
+Status: 2026-10-14. Empty cells are not yet measured. Run labels ({{< label "run" "G1" >}} … {{< label "run" "G11" >}}) refer to the run register in
+`GLAMV_STATUS.md` (dev clone, branch `glamv-cbspline`). Code, scripts and derived data: see [Data and code](#data-and-code).
+
+**Latest (2026-10-14):** {{< label "run" "G11" >}} — the IBAMR hybrid hex/tet mesh {{< label "mesh" "r0 @ G-64" >}} with outlet backflow
+stabilisation — is the **first hex run to complete the full cycle** (1.335 s in 10.6 min, $J_{\min} = 0.36$). The failures it
+removes came from the outlet boundary condition, not from the accuracy of the fluid solver (§5.5).
 
 ---
 
@@ -108,6 +112,46 @@ than two hexes (≈ 70 quads at {{< label "mesh" "r0" >}}), and a few poorly sha
 The tube wall MFAC (1.6) is above 1 on both pairs; possible leakage through the wall is checked by the flux
 balance along the tube (§5.1).
 
+**Element types: a hybrid hexahedral / tetrahedral mesh.** The {{< label "mesh" "r0" >}} and {{< label "mesh" "r1" >}} meshes keep the IBAMR element
+types, so one solid mixes trilinear hexahedra (Q1, HEX8) and linear tetrahedra (P1, TET4):
+
+| Structure | Q1 hex ({{< label "mesh" "r0" >}}) | P1 tet ({{< label "mesh" "r0" >}}) |
+|---|---|---|
+| Tube (1) | 8,320 | 0 |
+| Housing disc (42) | 0 | 10,650 |
+| Leaflets + annulus (3–7, 23–25, 4099, 5099) | 1,872 | 36 |
+| Chordae (100/200/300) | 1,343 | 0 |
+| Tether caps (1001–2005) | 30 | 0 |
+| **Total** | **11,565** | **10,686** |
+
+The GPU solid code handles both element types in one array: tets are padded to 8 nodes by repeating node 0, and each
+cell carries its own quadrature data in 8 slots (basis values, physical gradients and $w\lvert\det J\rvert$ per point):
+2×2×2 Gauss for a hex, one centroid point for a tet (slots 1–7 have weight 0). One force-assembly kernel serves both. The pure-tet runs (0.0.3, {{< label "run" "G1" >}}–{{< label "run" "G6" >}}) use the
+same geometry with every hex split into tets (`glamv_ibamr`, `glamv_conf`).
+
+### 2.4 Keeping the fluid outside the tube at rest
+
+The tube is immersed in a box ($8.6 \times 8.6$ cm cross-section), so there is a gap of fluid between the outer
+tube wall ($r \approx 3.73$ cm) and the domain boundary. Nothing in the original model stops flow in that gap: with the
+inlet/outlet pressure prescribed only on the lumen disc, the gap is a bypass around the valve, and the
+transvalvular pressure difference also loads the part of the housing disc that sticks out beyond the tube
+(inlet pressure below it, outlet pressure above it), which tore the disc rim in early runs (glamv-0.0.1). Two measures,
+both absent in IBAMR, hold the gap fluid at rest:
+
+1. **Gap mask** (Eulerian Brinkman damping, `--gap-mask 3.6 --gap-ramp 0.13 --gap-iters -1`). A radial indicator
+   $\chi(r)$ is 0 for $r \le 3.6$ cm, rises linearly to 1 at $r = 3.73$ cm (inside the tube wall) and stays 1 out to the
+   domain boundary, over the full height. Every velocity face with $\chi > 0$ is damped implicitly,
+   $\mathbf u \leftarrow \mathbf u / (1 + \Delta t\,\kappa\chi)$ with $\kappa\Delta t = 1000$, before the pressure projection.
+   Incompressibility then forces the net flux through the wall to (almost) zero. The lumen ($r < 3.5$ cm) is untouched.
+2. **Passive rim** (`--passive-rim 3.73`). The 1,658 housing-disc cells whose reference centroid lies at $r > 3.73$ cm are made
+   force-free ($J_e = 0$ ⇒ no PK1, tether, viscous or volumetric force; spreading and interpolation stay dual), so they only
+   follow the (static) gap fluid and no longer carry the transvalvular load.
+
+Measured effect on the coarsest pair ({{< label "mesh" "r0 @ G-64" >}}, run {{< label "run" "G11" >}}, all 35 frames over 1.335 s): flux through the
+gap $r > 3.8$ cm at most **0.013 cm³/s** (peak lumen flux 615 cm³/s, i.e. $2 \times 10^{-5}$), and $\max\lvert\mathbf u\rvert$ in the layer
+just outside the wall ($3.73 < r < 4.3$ cm) at most **0.074 cm/s**; the lumen flux differs between $z = 3$, 5.5, 9 and 12 cm by
+at most 0.36 % of its peak (Table in §5.1). The same holds for every passive-rim run (Figure 3).
+
 ---
 
 ## 3. Methods
@@ -184,18 +228,22 @@ boundary methods, see Vadala-Roth et al. {{< cite "vadalaroth2020" >}}.
 | Viscous term BE vs CN | CN in `ifed_bench` (`--viscous`) | |
 | Convection central + AB2 | default | |
 | Convection 2nd-order upwind (SOU) | `real_av` only (`--conv-upwind`); not in `gla_mv` | |
-| Outlet backflow stabilisation | `--outlet-backflow` (implemented, not yet tested) | |
+| Outlet backflow stabilisation | `--outlet-backflow`: feedback force $\kappa(0-U_z)$ on the outlet face, only where $U_z<0$, $\kappa = 0.5/\Delta t$ | {{< label "run" "G11" >}}: the {{< label "mesh" "r0" >}} hex run completes the cycle (G7 without it: NaN at $t \approx 0.92$); changes the closing transient (§5.1) |
 
 ### 3.3 Validation against IBAMR
 
-| Quantity | IBAMR | 0.0.3 (P1 tet) | {{< label "run" "G5" >}} (conforming tet) | {{< label "run" "G7" >}} (Q1 hex, IBAMR mesh) |
-|---|---|---|---|---|
-| Forward volume 0–0.2 s (cm³) | 35.2 | 38.5 | 37.8 | 43.2 |
-| Backflow volume 0.2–0.56 s (cm³) | −15.6 | −16.4 | −15.5 | −18.5 |
-| Peak forward flow rate (cm³/s) | | | | |
-| Valve opening time (s) | | | | |
-| Valve closing time (s) | | | | |
-| Completed cycle | 0–0.65 s only | yes | yes | no ($t \approx 0.9$ s) |
+| Quantity | IBAMR | 0.0.3 (P1 tet) | {{< label "run" "G5" >}} (conforming tet) | {{< label "run" "G7" >}} (Q1 hex, IBAMR mesh) | {{< label "run" "G11" >}} (= G7 + outlet backflow stab.) |
+|---|---|---|---|---|---|
+| Forward volume 0–0.2 s (cm³) | 35.2 | 38.5 | 37.8 | 43.2 | 46.5* |
+| Backflow volume 0.2–0.56 s (cm³) | −15.6 | −16.4 | −15.5 | −18.5 | −16.4 |
+| Peak forward flow rate, 1st opening (cm³/s, 0.04 s frames) | 385 | 416 | 412 | 489 | 489 |
+| Closing spike $Q(0.20\,\mathrm{s})$ (cm³/s) | −488 | −473 | −460 | −575 | −406 |
+| Valve opening time (s) | | | | | |
+| Valve closing time (s) | | | | | |
+| Completed cycle | 0–0.65 s only | yes | yes | no ($t \approx 0.9$ s) | yes |
+
+\* G11 equals G7 frame by frame up to $t = 0.16$ s; the larger 0–0.2 s volume comes only from the weaker spike in the
+$t = 0.20$ frame entering the trapezoid. Peak and spike values for IBAMR are its inlet flux sampled at the same 0.04 s frames.
 
 (volumes from REPORT.txt, tube flux at $z = 12$ cm, 0.04 s sampling; IBAMR at the inlet. §3.2 (1) quotes inlet-flux volumes, hence −17.3 vs −16.4 for 0.0.3)
 
@@ -230,6 +278,7 @@ Measured alone on one RTX PRO 5000 at level D (ms/step):
 |---|---|---|---|---|---|---|
 | 0.0.3 config | {{< label "grid" "G-64" >}} / glamv_ibamr (P1) | | | | | 10.1 |
 | {{< label "run" "G7" >}} | {{< label "grid" "G-64" >}} / {{< label "mesh" "r0" >}} (Q1 + P1) | | | | | |
+| {{< label "run" "G11" >}} | {{< label "grid" "G-64" >}} / {{< label "mesh" "r0" >}} (Q1 + P1), alone on the GPU | 7.82 | 0.83 (RK2 midpoint half-step) | 0.29 | 0.56 | 9.51 (full cycle 10.6 min) |
 | {{< label "run" "G9" >}} | {{< label "grid" "G-64" >}} / {{< label "mesh" "r1" >}} | | | | | |
 | {{< label "run" "G10" >}} | {{< label "grid" "G-128" >}} / {{< label "mesh" "r1" >}} | | | | | |
 | | {{< label "grid" "G-256" >}} / {{< label "mesh" "r2" >}} | | | | | |
@@ -245,30 +294,174 @@ Measured alone on one RTX PRO 5000 at level D (ms/step):
 | Run | Grid | Solid mesh | Leaflets | $\Delta t$ | Outcome | Forward 0–0.2 (cm³) | Backflow 0.2–0.56 (cm³) | $J_{\min}$ |
 |---|---|---|---|---|---|---|---|---|
 | 0.0.3 | {{< label "grid" "G-64" >}} | P1 tet (glamv_ibamr) | fibre HGO | $2 \times 10^{-5}$ | full cycle | 38.5 | −16.4 | 0.31 |
+| 0.0.3 rerun, level 0 | {{< label "grid" "G-64" >}} | P1 tet (glamv_ibamr) | fibre HGO | $2 \times 10^{-5}$ | full cycle (near-collapse, $J_{\min}$ 0.14 at 1.16 s) | 38.5 | −16.3 | 0.14 |
+| 0.0.3 rerun, level D | {{< label "grid" "G-64" >}} | P1 tet (glamv_ibamr) | fibre HGO | $2 \times 10^{-5}$ | **NaN $t = 1.2$** (posterior leaflet, §5.4) | 38.5 | −16.4 | 0.21 |
 | {{< label "run" "G1d" >}} | {{< label "grid" "G-64" >}} | P1 tet (glamv_ibamr) | dispersed | $2 \times 10^{-5}$ | full cycle | 40.6 | −19.9 | 0.07 |
 | {{< label "run" "G5" >}} | {{< label "grid" "G-64" >}} | P1 tet, conforming | fibre HGO | $2 \times 10^{-5}$ | full cycle | 37.8 | −15.5 | 0.21 |
 | {{< label "run" "G6" >}} | {{< label "grid" "G-64" >}} | P1 tet, conforming | dispersed | $2 \times 10^{-5}$ | full cycle | 40.3 | −19.2 | 0.41 |
 | {{< label "run" "G7" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} Q1 + P1 | fibre HGO | $2 \times 10^{-5}$ | NaN $t \approx 0.9$ (outlet backflow) | 43.2 | −18.5 | 0.37 |
-| {{< label "run" "G7b" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} | fibre HGO | $1 \times 10^{-5}$ | NaN $t \approx 0.83$ (outlet backflow) | | | |
-| {{< label "run" "G8" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} | dispersed | $2 \times 10^{-5}$ | NaN $t \approx 0.9$ | 47.5 | −21.2 | |
-| {{< label "run" "G9" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r1" >}} | dispersed | $2 \times 10^{-5}$ | NaN $t \approx 0.9$ | | | |
-| {{< label "run" "G10" >}} | {{< label "grid" "G-128" >}} | {{< label "mesh" "r1" >}} | dispersed | $1 \times 10^{-5}$ | NaN $t \approx 0.78$ (outlet backflow) | | | |
+| {{< label "run" "G7b" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} | fibre HGO | $1 \times 10^{-5}$ | NaN $t \approx 0.84$ (outlet backflow) | 43.1 | −19.6 | 0.47 |
+| {{< label "run" "G8" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} | dispersed | $2 \times 10^{-5}$ | NaN $t \approx 0.96$ | 47.5 | −21.2 | 0.45 |
+| {{< label "run" "G9" >}} | {{< label "grid" "G-64" >}} | {{< label "mesh" "r1" >}} | dispersed | $2 \times 10^{-5}$ | NaN $t \approx 0.92$ | 47.6 | −12.7 | 0.16 |
+| {{< label "run" "G10" >}} | {{< label "grid" "G-128" >}} | {{< label "mesh" "r1" >}} | dispersed | $1 \times 10^{-5}$ | NaN $t \approx 0.78$ (solid degraded: $J_{\min}$ 0.03, $I_{1,\max}$ 152) | 67.3† | −12.9† | 0.03 |
+| **{{< label "run" "G11" >}}** | {{< label "grid" "G-64" >}} | {{< label "mesh" "r0" >}} Q1 + P1 | fibre HGO | $2 \times 10^{-5}$ | **full cycle** (`--outlet-backflow`) | 46.5* | −16.4 | 0.36 |
 | | {{< label "grid" "G-256" >}} | {{< label "mesh" "r2" >}} | | | | | | |
 
-Open issue: on the hex meshes the valve opens wider and the jet reaches the outlet with recirculation; about 40 %
-of the outlet lumen flows back in and the backflow grows exponentially. Remedy under test: `--outlet-backflow`.
+\* see §3.3: identical to G7 up to $t = 0.16$ s; the difference is the 0.04 s sampling of the closing spike.
+† G10 writes frames every 0.02 s, so its volumes are not sampled like the others.
 
-Leakage check (tube flux at $z = 3$, 5.5, 9, 12 cm; difference between sections):
+**Outlet backflow on the hex meshes.** On the hex meshes the valve opens wider (first-opening plateau ≈ 485 cm³/s
+against ≈ 410 on the tet meshes, Figure 1) and the jet reaches the outlet with recirculation; without stabilisation
+the backflow through the outlet grows until the run fails ({{< label "run" "G7" >}}–{{< label "run" "G10" >}}). With
+`--outlet-backflow` the coarsest pair ({{< label "run" "G11" >}}, {{< label "mesh" "r0 @ G-64" >}}) runs through the whole 1.335 s with
+$J_{\min} = 0.36$ and $I_{1,\max} = 6.1$:
 
-| Run | $\max\lvert Q(z_1)-Q(z_2)\rvert / \max Q$ |
-|---|---|
-| | |
+- Up to $t = 0.16$ s G11 and G7 agree frame by frame (the term is inactive while the outlet flows out).
+- The term acts on the closing transient: the spike at $t = 0.20$ s drops from −575 (G7) to −406 cm³/s (IBAMR −488), and
+  the backflow volume 0.20–0.56 s moves from −18.5 to −16.4 cm³ (IBAMR −15.6).
+- Second cycle: the forward plateau stays ≈ 20 % above the tet runs (Q ≈ 400–480 vs 310–400 cm³/s), and the
+  second closure is delayed — at $t = 0.92$/0.96 s G11 still has $Q = +34$/+4.5 cm³/s where 0.0.3 and G5 show the closing
+  spike (−89/−100). The closed-phase leak from 1.00 s on (−48 … −10 cm³/s) matches the tet runs.
+- The stabilisation does **not** remove the recirculation itself: one cell below the outlet, 61–84 % of the lumen still
+  has $w<0$ in the first closed phase (0.28–0.52 s; tet runs 51–82 %) and 65–77 % in the second (1.00–1.24 s; tet runs
+  57–64 %, Figure 2). It only stops reverse flow from entering through the outlet face and feeding on itself.
+
+Leakage check (tube flux at $z = 3$, 5.5, 9, 12 cm against $z = 12$ cm, every 0.04 s frame) and the gap outside the tube
+(§2.4):
+
+| Run | $\max\lvert Q(z)-Q(12)\rvert / \max\lvert Q\rvert$ | max gap flux, $r>3.8$ (cm³/s) | max $\lvert\mathbf u\rvert$ outside the wall (cm/s) | frames |
+|---|---|---|---|---|
+| 0.0.3 | 0.38 % | 0.018 | 0.106 | 35 |
+| {{< label "run" "G5" >}} | 0.36 % | 0.017 | 0.118 | 35 |
+| {{< label "run" "G6" >}} | 0.38 % | 0.017 | 0.097 | 35 |
+| {{< label "run" "G7" >}} | 0.43 % | 0.016 | 0.230 (at $t = 0.88$, before NaN) | 23 |
+| {{< label "run" "G8" >}} | 0.40 % | 0.013 | 0.097 | 24 |
+| {{< label "run" "G11" >}} | 0.36 % | 0.013 | 0.074 | 35 |
+
+Flux along the tube is conserved to < 0.5 % in every run, so the tube wall does not leak at MFAC 1.6 on {{< label "grid" "G-64" >}}.
+
+{{< chart height="340" xlabel="t (s)" ylabel="Q through the tube lumen, z = 12 cm (cm³/s)" colors="#d1495b,#edae49,#00798c,#30638e,#7a7a7a" caption="Figure 1. Flow rate through the tube lumen (r < 3.5 cm) at z = 12 cm, fluid frames every 0.04 s. G11 = r0 hex @ G-64 with outlet backflow stabilisation; G7 = same without it (NaN after 0.88 s); G5 = conforming P1 tets; 0.0.3 = glamv_ibamr P1 tets; IBAMR = inlet flux of the reference run (to 0.65 s) sampled at the same frames." >}}
+t, G11 (hex + outlet stab.), G7 (hex), G5 (tet conf.), 0.0.3 (tet), IBAMR
+0.00, 0.0, 0.0, 0.0, 0.0, 0.0
+0.04, 55.4, 55.4, 52.8, 54.2, 57.0
+0.08, 367.9, 367.9, 333.5, 341.0, 309.3
+0.12, 488.5, 488.5, 411.9, 415.6, 373.9
+0.16, 482.0, 482.0, 403.7, 415.3, 385.0
+0.20, -406.1, -574.8, -460.1, -473.2, -488.2
+0.24, -68.6, -34.7, -14.6, -17.7, -27.3
+0.28, -44.9, -46.6, -48.9, -51.8, -55.5
+0.32, -31.6, -29.7, -33.8, -34.2, -19.9
+0.36, -26.1, -27.7, -28.6, -33.2, -19.2
+0.40, -22.5, -23.2, -22.2, -22.9, -13.7
+0.44, -19.6, -21.3, -17.9, -22.6, -11.2
+0.48, -13.4, -13.2, -14.2, -11.1, -7.0
+0.52, -4.9, -3.5, 0.4, -6.3, 0.8
+0.56, 47.8, 47.7, 46.1, 50.8, 15.0
+0.60, 189.4, 186.0, 176.8, 180.6, 451.8
+0.64, 615.3, 616.3, 539.4, 558.3, 535.5
+0.68, 520.3, 531.8, 431.3, 452.6, 
+0.72, 481.6, 475.4, 381.8, 402.7, 
+0.76, 443.9, 428.6, 359.6, 373.7, 
+0.80, 428.1, 408.4, 323.0, 339.7, 
+0.84, 415.0, 403.8, 317.4, 328.1, 
+0.88, 396.7, 375.2, 310.0, 322.0, 
+0.92, 34.0, , -100.2, -88.5, 
+0.96, 4.5, , -89.5, -80.1, 
+1.00, -47.9, , -38.8, -40.6, 
+1.04, -34.7, , -35.6, -35.7, 
+1.08, -27.9, , -30.1, -30.5, 
+1.12, -26.3, , -24.6, -25.7, 
+1.16, -21.2, , -21.2, -23.0, 
+1.20, -18.9, , -13.7, -18.8, 
+1.24, -10.4, , -9.9, -10.8, 
+1.28, 13.7, , 10.8, 13.3, 
+1.32, 72.2, , 67.5, 69.2, 
+1.335, 119.4, , 109.1, 115.7, 
+{{< /chart >}}
+
+{{< chart height="280" xlabel="t (s)" ylabel="lumen fraction with w < 0 (%)" colors="#d1495b,#edae49,#00798c,#30638e" caption="Figure 2. Outlet recirculation: fraction of the tube lumen with downward velocity one cell below the outlet face (z ≈ 16.0 cm). The near-100 % values at t = 0.20 s are the closing spike (the whole column moves back)." >}}
+t, G11 (hex + outlet stab.), G7 (hex), G5 (tet conf.), 0.0.3 (tet)
+0.00, 0.0, 0.0, 0.0, 0.0
+0.04, 0.4, 0.4, 0.4, 0.4
+0.08, 1.3, 1.3, 1.3, 1.3
+0.12, 0.9, 0.9, 0.9, 0.9
+0.16, 0.6, 0.6, 0.6, 0.7
+0.20, 99.1, 98.0, 96.5, 96.8
+0.24, 94.3, 75.1, 68.0, 65.0
+0.28, 83.9, 78.3, 82.3, 79.1
+0.32, 77.0, 63.5, 77.1, 74.1
+0.36, 76.0, 62.6, 72.0, 75.1
+0.40, 74.4, 59.8, 64.4, 68.5
+0.44, 72.4, 59.4, 61.1, 60.7
+0.48, 67.9, 57.2, 55.9, 61.0
+0.52, 61.1, 53.4, 50.7, 57.4
+0.56, 12.2, 15.1, 13.5, 10.3
+0.60, 3.0, 3.3, 3.3, 3.1
+0.64, 2.9, 2.5, 2.7, 2.6
+0.68, 14.0, 14.6, 16.3, 17.8
+0.72, 35.4, 31.7, 34.7, 34.5
+0.76, 56.0, 38.9, 42.0, 40.5
+0.80, 46.8, 50.7, 42.0, 51.2
+0.84, 42.0, 48.0, 49.0, 53.6
+0.88, 43.4, 46.5, 48.2, 50.4
+0.92, 73.9, , 58.6, 60.4
+0.96, 55.3, , 85.3, 82.7
+1.00, 76.5, , 62.0, 64.2
+1.04, 72.1, , 64.2, 63.2
+1.08, 70.2, , 64.1, 62.0
+1.12, 71.6, , 63.3, 62.8
+1.16, 70.5, , 60.7, 60.9
+1.20, 70.1, , 56.6, 59.3
+1.24, 65.1, , 58.1, 57.9
+1.28, 38.0, , 40.6, 38.6
+1.32, 3.0, , 3.1, 3.7
+1.335, 5.1, , 6.0, 6.2
+{{< /chart >}}
+
+{{< chart height="260" xlabel="t (s)" ylabel="max |u| outside the wall (cm/s)" colors="#d1495b,#edae49,#00798c,#30638e" caption="Figure 3. Largest fluid speed in the layer just outside the tube wall (3.73 < r < 4.3 cm, all z): the gap mask and passive rim hold it below 0.12 cm/s (G7: 0.23 cm/s in its last frame before NaN), against lumen speeds of order 100 cm/s." >}}
+t, G11 (hex + outlet stab.), G7 (hex), G5 (tet conf.), 0.0.3 (tet)
+0.00, 0.000, 0.000, 0.000, 0.000
+0.04, 0.000, 0.000, 0.001, 0.001
+0.08, 0.005, 0.005, 0.007, 0.007
+0.12, 0.010, 0.010, 0.012, 0.012
+0.16, 0.009, 0.009, 0.010, 0.010
+0.20, 0.015, 0.022, 0.027, 0.027
+0.24, 0.040, 0.043, 0.056, 0.055
+0.28, 0.054, 0.071, 0.068, 0.106
+0.32, 0.041, 0.059, 0.081, 0.041
+0.36, 0.069, 0.057, 0.078, 0.098
+0.40, 0.072, 0.094, 0.074, 0.068
+0.44, 0.067, 0.076, 0.048, 0.062
+0.48, 0.067, 0.124, 0.100, 0.097
+0.52, 0.060, 0.068, 0.061, 0.052
+0.56, 0.041, 0.049, 0.059, 0.046
+0.60, 0.036, 0.044, 0.047, 0.057
+0.64, 0.037, 0.039, 0.044, 0.035
+0.68, 0.035, 0.029, 0.045, 0.040
+0.72, 0.042, 0.032, 0.032, 0.036
+0.76, 0.016, 0.019, 0.028, 0.029
+0.80, 0.012, 0.016, 0.027, 0.020
+0.84, 0.014, 0.022, 0.022, 0.015
+0.88, 0.020, 0.230, 0.016, 0.012
+0.92, 0.024, , 0.024, 0.013
+0.96, 0.039, , 0.029, 0.043
+1.00, 0.037, , 0.032, 0.071
+1.04, 0.037, , 0.057, 0.063
+1.08, 0.057, , 0.118, 0.061
+1.12, 0.058, , 0.100, 0.067
+1.16, 0.068, , 0.096, 0.053
+1.20, 0.074, , 0.069, 0.087
+1.24, 0.055, , 0.074, 0.076
+1.28, 0.050, , 0.040, 0.058
+1.32, 0.034, , 0.052, 0.042
+1.335, 0.044, , 0.045, 0.057
+{{< /chart >}}
 
 ### 5.2 Fluid
 
 | Analysis | {{< label "grid" "G-64" >}} | {{< label "grid" "G-128" >}} | {{< label "grid" "G-256" >}} | IBAMR |
 |---|---|---|---|---|
-| Flow rate vs time (inlet / tube sections) | | | | |
+| Flow rate vs time (inlet / tube sections) | Figure 1 ({{< label "run" "G11" >}}, G7, G5, 0.0.3) | | | Figure 1 (to 0.65 s) |
 | Streamlines (opening, peak, closure) | | | | |
 | Vorticity (mid-plane, transverse sections) | | | | |
 | Vortex ring formation and breakdown (large → small eddies) | | | | |
@@ -286,9 +479,155 @@ Leakage check (tube flux at $z = 3$, 5.5, 9, 12 cm; difference between sections)
 | Volume change, $J$ range (all cells / leaflets) | | | | |
 | Chordae tension vs time | | | | |
 
+### 5.4 Reproducibility of the reference run and where it fails
+
+The reference configuration (0.0.3: `glamv_ibamr`, i.e. the IBAMR mesh with every hex split into 6 P1 tets,
+80,074 tets on the same 29,524 nodes as {{< label "mesh" "r0" >}}; CBS43, passive rim, gap mask, {{< label "grid" "G-64" >}}, $\Delta t = 2\times10^{-5}$)
+was rerun on 2026-10-14 with the current code and the identical command line, twice:
+
+| Run | GPU path | Outcome | Agreement with the original | $J_{\min}$ over the cycle |
+|---|---|---|---|---|
+| 0.0.3 original (2026-10-10) | pre-optimisation (≈ 54 ms/step) | full cycle | — | 0.31 (at 0.52 s) |
+| rerun, `DSH_PERF_LEVEL=0` | level A (19.6 ms/step) | full cycle | bitwise identical to $t = 0.32$ s, last digits differ afterwards | **0.14** (at 1.16 s) |
+| rerun, `DSH_PERF_LEVEL=3` | level D + FMA (≈ 9.5 ms/step) | **NaN at $t = 1.20$ s** | log values identical to $t = 0.32$ s, differences ~$10^{-8}$ | 0.21 (at 1.16 s, then NaN) |
+
+Findings:
+
+1. **The current code reproduces the original.** At level 0 every logged quantity is bitwise identical up to
+   $t = 0.32$ s. The first differences after that come from summation order (atomic adds in spreading), not from a code
+   change: the run is not bitwise deterministic from step to step on the GPU.
+2. **The flow is robust to these perturbations, the leaflet is not.** All three runs give the same forward (38.5 cm³) and
+   backflow volumes (−16.3 … −16.4 cm³). But in the second closed phase ($t \approx 1.04$–1.24 s) all three pass through a
+   local collapse of the **posterior leaflet (marker 4) next to a chordae insertion**, at $(x, y, z) \approx (5.1$–$5.4,\ 4.6$–$5.0,\ 5.2$–$5.4)$ cm,
+   where the worst chordae cell (marker 100) also sits. Its depth decides the outcome: original $J_{\min} = 0.47$ there,
+   level-0 rerun 0.14 (recovers), level-D rerun 0.21 with 15 cells below $J = 0.5$ and growing → force blow-up
+   (max |f| 1.5e5 → 5.5e5 from 1.04 to 1.16 s), then $\lvert\nabla\cdot\mathbf u\rvert$ jumps to $8\times10^{-4}$ and the run fails.
+3. So the success of 0.0.3 is **marginal**: round-off-level differences decide between finishing and NaN. The
+   performance level is not itself the cause (level 0 and level D give the same flow), it only gives a different
+   perturbation.
+4. **The hex runs fail differently.** {{< label "run" "G7" >}} keeps $J_{\min} = 0.37$ and fails first in the fluid: max |u| stays flat while
+   $\lvert\nabla\cdot\mathbf u\rvert$ rises from $10^{-8}$ to $6\times10^{-4}$ in the last 0.02–0.04 s, driven by inflow through the outlet (§5.1). A restart
+   from $t = 0.8$ s at level 0 fails as well (NaN at 0.91 s), so this is not a level-D effect either. With outlet stabilisation
+   ({{< label "run" "G11" >}}) the hex mesh keeps $J_{\min} \ge 0.36$ through the second cycle and shows **no** posterior-leaflet collapse
+   (Figure 4).
+5. The refined meshes add a third failure mode: {{< label "run" "G10" >}} ({{< label "mesh" "r1 @ G-128" >}}) degrades in the solid ($J_{\min} = 0.03$,
+   $I_{1,\max} = 152$) before failing at 0.78 s.
+
+Where to look next: the posterior-leaflet / chordae-insertion region (element quality of the 6-tet split there,
+chordae–leaflet force transfer, MFAC 0.34 of the chordae); and making the second closure deterministic enough to
+compare (e.g. a fixed-order spreading for verification runs).
+
+{{< chart height="300" xlabel="t (s)" ylabel="J_min (all active cells)" colors="#30638e,#00798c,#d1495b,#edae49" caption="Figure 4. Smallest element volume ratio over the cycle (solid_stats.csv, every 0.04 s). Three runs of the same reference configuration (original, rerun at performance level 0, rerun at level D) agree to t = 0.32 s and then split; in the second closed phase the posterior leaflet collapses locally in both reruns (0.14 and 0.21), and the level-D run fails at t = 1.20 s. G11 (hex mesh, outlet stabilisation) is shown for comparison." >}}
+t, 0.0.3 original, rerun level 0, rerun level D, G11 (hex)
+0.00, 1.000, 1.000, 1.000, 1.000
+0.04, 0.984, 0.984, 0.984, 0.989
+0.08, 0.817, 0.817, 0.817, 0.863
+0.12, 0.764, 0.764, 0.764, 0.685
+0.16, 0.712, 0.712, 0.712, 0.493
+0.20, 0.607, 0.607, 0.607, 0.732
+0.24, 0.665, 0.665, 0.665, 0.653
+0.28, 0.621, 0.621, 0.621, 0.638
+0.32, 0.472, 0.472, 0.472, 0.579
+0.36, 0.389, 0.389, 0.385, 0.555
+0.40, 0.386, 0.386, 0.364, 0.565
+0.44, 0.403, 0.404, 0.355, 0.535
+0.48, 0.455, 0.505, 0.411, 0.566
+0.52, 0.308, 0.357, 0.466, 0.589
+0.56, 0.535, 0.523, 0.494, 0.665
+0.60, 0.646, 0.718, 0.611, 0.712
+0.64, 0.654, 0.637, 0.676, 0.622
+0.68, 0.590, 0.627, 0.553, 0.494
+0.72, 0.588, 0.589, 0.593, 0.467
+0.76, 0.615, 0.540, 0.543, 0.477
+0.80, 0.555, 0.565, 0.555, 0.433
+0.84, 0.590, 0.474, 0.533, 0.357
+0.88, 0.550, 0.507, 0.540, 0.368
+0.92, 0.636, 0.594, 0.624, 0.473
+0.96, 0.571, 0.641, 0.381, 0.519
+1.00, 0.591, 0.584, 0.421, 0.499
+1.04, 0.541, 0.406, 0.404, 0.527
+1.08, 0.469, 0.252, 0.361, 0.498
+1.12, 0.485, 0.153, 0.289, 0.512
+1.16, 0.493, 0.142, 0.210, 0.513
+1.20, 0.506, 0.156, , 0.513
+1.24, 0.476, 0.178, , 0.503
+1.28, 0.532, 0.281, , 0.551
+1.32, 0.583, 0.476, , 0.573
+1.335, 0.580, 0.575, , 0.619
+{{< /chart >}}
+
+### 5.5 G11: a stable full cycle on the hex mesh, and what makes it stable
+
+**Result.** {{< label "run" "G11" >}} ({{< label "mesh" "r0 @ G-64" >}}: IBAMR mesh, 11,565 Q1 hexes + 10,686 P1 tets; fibre HGO leaflets; CBS43;
+$\beta_s = 5\times10^6$; passive rim + gap mask; $\Delta t = 2\times10^{-5}$; `--outlet-backflow`) ran from $t = 0$ to 1.335 s without a
+NaN, at 9.5 ms/step (10.6 min), command in `fdm-3d-v1-gpu/run_hex_bf.sh`. The same configuration without
+`--outlet-backflow` ({{< label "run" "G7" >}}) fails at $t \approx 0.92$ s. Flow, outlet recirculation and $J_{\min}$ of G11 are in Figures 1–4.
+
+**What `--outlet-backflow` does.** On the whole outlet face ($z = 16.2$ cm) it adds the feedback force
+$f_z = \kappa\,(0 - w)$ with $\kappa = 0.5/\Delta t$, **only where $w < 0$** (fluid entering the domain). Outflow and the tangential
+velocities are untouched; incoming normal velocity is halved every step ($\kappa\Delta t = 0.5$, explicit). An open outlet
+lets inflowing fluid carry kinetic energy into the domain with nothing to remove it — the classical backflow
+instability of open boundaries. This is what fails in G7, and the term removes exactly that energy source. It is a
+model change, not only a numerical one: it also weakens the closing spike (−575 → −406 cm³/s) and delays the second
+closure (§5.1).
+
+**Is the failure a fluid-solver accuracy problem? No.** G7 was restarted from its $t = 0.8$ s checkpoint with
+**4× more multigrid V-cycles** per step (32 Poisson / 6 Helmholtz instead of 8 / 2), everything else unchanged:
+
+| G7 restart from $t = 0.8$ s | V-cycles (Poisson / Helmholtz) | $\lvert\nabla\cdot\mathbf u\rvert$ at $t = 0.805$ | $\lvert\nabla\cdot\mathbf u\rvert$ at $t = 0.895$ | Outcome |
+|---|---|---|---|---|
+| level D | 8 / 2 | $2.55\times10^{-8}$ | $3.93\times10^{-6}$ | NaN at $t = 0.905$ s |
+| level 0 | 8 / 2 | | | NaN at $t = 0.91$ s |
+| level D | **32 / 6** | $2.55\times10^{-8}$ | $3.99\times10^{-6}$ | NaN at $t = 0.915$ s |
+| G7b ($\Delta t = 10^{-5}$) restart, level D, no stabilisation | 8 / 2 | | | NaN at $t = 0.835$ s |
+| G7b restart, level D, **`--outlet-backflow`** | 8 / 2 | | $3\times10^{-9}$ (at 0.8275) | passes 0.835 s; test ended at 0.845 s |
+
+The pressure solve is already converged at 8 V-cycles (identical divergence to three digits), and a more accurate
+fluid solve fails at the same time. The cause is the outlet boundary condition. For the tet reference run the fluid is
+likewise accurate ($\lvert\nabla\cdot\mathbf u\rvert \le 7\times10^{-8}$) while the posterior leaflet collapses (§5.4): there the fluid is the victim,
+not the cause. (A tet run with 32/6 V-cycles was interrupted at $t = 0.69$ s; to be resumed from its checkpoint.)
+
+**Which ingredients are needed for a stable run** (evidence from the run register):
+
+| Ingredient | Varied in MV runs? | Evidence | Needed for stability? |
+|---|---|---|---|
+| Passive rim + gap mask | yes (0.0.1 → 0.0.2) | without passive rim: NaN at 0.84–0.88 s, housing-disc rim torn | **yes** |
+| `--outlet-backflow` | yes (G7 → G11) | hex: NaN at 0.92 s without, full cycle with; tet runs finish without | **yes on hex**; not so far on tet |
+| Kernel {{< label "kernel" "CBS43" >}} | yes (0.0.2 → 0.0.3) | {{< label "kernel" "BSPLINE_3" >}} also completes the cycle; CBS43 raises $J_{\min}$ 0.14 → 0.31 and lowers the closed-phase leak; {{< label "kernel" "CBS32" >}} is *less* stable | no — accuracy, not stability |
+| $\kappa_s$ ($\beta_s = 5\times10^6$) | **no** (all runs $5\times10^6$) | with unmodified invariants it is the only volumetric term (torsion benchmark without it: wrong sign, −17 % volume) | must be present; value untested |
+| Stress form (unmodified invariants, as IBAMR) | **no** | benchmarks favour modified invariants / deviatoric projection for accuracy | unknown; not the cause of any failure so far |
+
+Next tests for the tet weak point (posterior-leaflet collapse at $t \approx 1.1$ s): larger $\beta_s$ ($10^7$, $2\times10^7$, with a $\Delta t$
+check) and modified invariants on the leaflets, each compared on $J_{\min}$ against the level-0 rerun (0.14).
+
 ---
 
 ## 6. Discussion
+
+Key findings so far (coarsest pair {{< label "mesh" "r0 @ G-64" >}}, 2026-10-14):
+
+1. **The hybrid hex/tet IBAMR mesh now runs a full cycle on the GPU** once outlet backflow is stabilised
+   ({{< label "run" "G11" >}}: 1.335 s in 10.6 min, 9.5 ms/step, 82 % of it in the fluid solver), with $J_{\min} = 0.36$ — better than
+   the conforming tet run G5 (0.21).
+2. **The fluid outside the tube stays at rest** (gap mask + passive rim): gap flux ≤ 0.013 cm³/s and speeds ≤ 0.074 cm/s
+   outside the wall over the whole cycle, and the lumen flux is conserved along the tube to 0.36 %, despite tube-wall
+   MFAC 1.6.
+3. **Hex leaflets open wider than tet leaflets**: peak forward flow 489 vs 412–416 cm³/s (IBAMR 385, same sampling).
+   With the same geometry and material, the element type alone raises the forward flow by ≈ 18 %, and moves it away
+   from IBAMR, which uses the same HEX8 mesh. Candidates: quadrature rule (ours 2×2×2 Gauss per hex), stress
+   evaluation, or resolution — to be checked against IBAMR's settings and at {{< label "mesh" "r1 @ G-128" >}}.
+4. **Outlet stabilisation changes the closure, not only the stability**: it lowers the closing spike (−406 vs −575 cm³/s;
+   IBAMR −488) and delays the second closure. Regurgitant volumes on hex meshes therefore depend on the outlet
+   treatment; a longer outlet tube (or a pressure–flow outlet) would separate the two effects.
+5. The closing spike lies between two 0.04 s frames, so volumes and peak values from frames are sampling-limited
+   (the G11 vs G7 forward-volume difference is entirely this). Per-step flux output is needed before timing
+   (opening/closing) and regurgitant volumes go into the paper.
+6. **The reference run (0.0.3) is reproducible but only marginally stable** (§5.4): the current code reproduces it
+   bitwise to 0.32 s and finishes at level 0, but a level-D rerun fails at 1.20 s. All reruns show a local collapse of the
+   posterior leaflet at a chordae insertion in the second closed phase; this, not the flow, is the weak point of the
+   tet model. The hex failures are a different mechanism (outlet inflow → divergence growth), which `--outlet-backflow` removes.
+
+Open questions:
 
 - Resolution: does the flow converge between {{< label "grid" "G-64" >}}, {{< label "grid" "G-128" >}}, {{< label "grid" "G-256" >}} at fixed MFAC?
 - Which numerical choice matters most for the valve dynamics (kernel, element, stabilisation)?
@@ -298,5 +637,24 @@ Leakage check (tube flux at $z = 3$, 5.5, 9, 12 cm; difference between sections)
 ## 7. Conclusions
 
 (to be written)
+
+## Data and code
+
+All repositories are private (branch `glamv-cbspline`); links need a signed-in GitHub account with access.
+
+| What | Where |
+|---|---|
+| Run register ({{< label "run" "G1" >}}–{{< label "run" "G11" >}}) | [`GLAMV_STATUS.md`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/blob/cf72ea9/GLAMV_STATUS.md) |
+| Derived data behind §5.1 and Figures 1–3 (per-frame flux CSVs, `summary.csv`, chart tables) | [`glamv_results/`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/tree/cf72ea9/glamv_results) |
+| G11 logs (`sim.log`, `solid_stats.csv`, console) | [`glamv_results/G11_hex_r0_N64_outlet_backflow/`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/tree/cf72ea9/glamv_results/G11_hex_r0_N64_outlet_backflow) |
+| 0.0.3 reruns (§5.4): logs, `solid_stats.csv`, worst-J diagnostics | [`rerun_0.0.3_level0/`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/tree/cf72ea9/glamv_results/rerun_0.0.3_level0), [`rerun_0.0.3_levelD/`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/tree/cf72ea9/glamv_results/rerun_0.0.3_levelD) |
+| Failed hex runs (G7, G7b + restarts incl. the 32/6 V-cycle test, G8, G9, G10): logs, solid stats, flow CSVs | [`failed_hex/`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/tree/cf72ea9/glamv_results/failed_hex) |
+| Analysis scripts | [`diag_worst_J_tet.py`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/blob/cf72ea9/diag_worst_J_tet.py), [`analyse_glamv_flow.py`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/blob/cf72ea9/analyse_glamv_flow.py), [`glamv_chart_tables.py`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/blob/cf72ea9/glamv_chart_tables.py) |
+| IBAMR reference flux | [`MV_flowrate_ibamr.csv`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/blob/cf72ea9/MV_flowrate_ibamr.csv) |
+| G11 run script (exact command line) | [`run_hex_bf.sh`](https://github.com/mapengfei-glasgow/fdm-3d-v1-gpu/blob/80c507f/run_hex_bf.sh) |
+| Solver (`gla_mv`, incl. `--outlet-backflow`, gap mask, passive rim) | [`demo/gla_mv.cu`](https://github.com/mapengfei-glasgow/fdm-3d-v1-gpu/blob/80c507f/demo/gla_mv.cu), commit [`80c507f`](https://github.com/mapengfei-glasgow/fdm-3d-v1-gpu/commit/80c507f) |
+| Base solid mesh (P1 tet, in git) | [`src/ibm/data/glamv_ibamr/`](https://github.com/mapengfei-glasgow/fdm-3d-v1-geometry/tree/glamv-cbspline/src/ibm/data/glamv_ibamr) |
+| Hex mesh generator ({{< label "mesh" "r0" >}}, {{< label "mesh" "r1" >}}) | [`scripts/gen_glamv_hex.py`](https://github.com/mapengfei-glasgow/fdm-3d-v1-geometry/blob/glamv-cbspline/scripts/gen_glamv_hex.py) |
+| Raw outputs (35 × `fluid_*.vti`, `Xc_*.bin`, checkpoint; ≈ 1.3 GB per run) | not uploaded — workstation `fdm-3d-v1-gpu/out_mv_hex_bf_cbs43/` (G11), `out_mv_sarah_pfull_T1335_passiverim_cbs43_rerun20261014{,_L0}/` (reruns), `out_mv_hex*` (failed hex runs); `python3 scripts/run_to_vtu.py <dir>` → ParaView |
 
 {{< references >}}
