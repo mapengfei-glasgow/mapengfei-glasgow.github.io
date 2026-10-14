@@ -205,6 +205,6 @@
         }).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
     }
 
-    /* exposed for the node test (tools/test_charts.mjs) */
-    global.dshCharts = { parseRows: parseRows, buildChart: buildChart, truthy: truthy };
+    /* Public refresh hook for dynamically inserted articles, plus test helpers. */
+    global.dshCharts = { renderAll: renderAll, parseRows: parseRows, buildChart: buildChart, truthy: truthy };
 })(typeof window !== 'undefined' ? window : globalThis);

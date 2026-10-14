@@ -24,6 +24,7 @@ function check(name, ok, extra = '') {
 /* ------------------------------------------------------------- DOM stub -- */
 
 const CONFIGS = [];
+let destroyed = 0;
 
 function makeFigure(csv, attrs) {
     const dataScript = { textContent: JSON.stringify(csv) };
@@ -42,6 +43,7 @@ globalThis.document = {
 };
 globalThis.MutationObserver = class { observe() {} };
 globalThis.Chart = class {
+    destroy() { destroyed++; }
     constructor(ctx, config) {
         CONFIGS.push(config);
         this.data = config.data;
@@ -109,6 +111,11 @@ check('sparse series keeps its points',
 check('title/axis labels carried over',
     line.options.scales.x.title.text === 't' && line.options.scales.y.title.text === 'y');
 
+// Dynamic protected articles call this hook after inserting/removing canvases.
+globalThis.dshCharts.renderAll();
+check('refresh disposes previous chart instances', destroyed === canvases.length);
+check('refresh rebuilds each canvas once', CONFIGS.length === 2 * canvases.length);
+
 /* --------------------------------------------- against the real page too -- */
 
 if (fs.existsSync(page)) {
@@ -118,6 +125,8 @@ if (fs.existsSync(page)) {
     console.log('\n' + path.relative(root, page) + ' — ' + blocks.length + ' data block(s)');
     check('page ships chart data', blocks.length > 0);
     blocks.forEach((b, i) => {
+        check('block ' + i + ' has consistent CSV columns',
+            b.every((row) => row.length === b[0].length));
         const parsed = globalThis.dshCharts.parseRows(b);
         check('block ' + i + ' parses', parsed !== null && parsed.x.length > 0,
             parsed ? parsed.x.length + ' points, ' + parsed.series.length + ' series' : 'unparsable');
@@ -125,8 +134,9 @@ if (fs.existsSync(page)) {
     check('chart assets referenced',
         html.includes('chart.umd.min.js') && /charts\.[0-9a-f]{20,}\.js/.test(html));
 
-    // a dense series (the real AV curves) must drop its markers
-    const canvas = makeFigure(blocks[0], { type: 'line' });
+    // Use the longest series: the first chart may have sparse samples.
+    const longest = blocks.reduce((a, b) => a.length > b.length ? a : b);
+    const canvas = makeFigure(longest, { type: 'line' });
     const dense = globalThis.dshCharts.buildChart(canvas);
     check('dense series hides points', dense.data.datasets[0].pointRadius === 0,
         dense.data.labels.length + ' points → ' + dense.data.datasets[0].pointRadius);

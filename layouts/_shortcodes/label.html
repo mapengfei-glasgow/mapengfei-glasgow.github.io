@@ -1,6 +1,6 @@
-{{/* Reusable, lightly tinted scientific labels: grid, mesh, run, kernel. */}}
+{{/* Reusable, lightly tinted scientific labels: grid, mesh, run, kernel, config. */}}
 {{- $kind := .Get 0 -}}
-{{- if not (in (slice "grid" "mesh" "run" "kernel") $kind) -}}
+{{- if not (in (slice "grid" "mesh" "run" "kernel" "config") $kind) -}}
   {{- errorf "label: unknown category %q on %s" $kind .Page.Path -}}
 {{- end -}}
 <span class="science-label science-label-{{ $kind }}">{{ .Get 1 }}</span>

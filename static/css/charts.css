@@ -1,9 +1,7 @@
 /* charts.css — styling for the `chart` shortcode (Chart.js figures whose data is
  * written inline in the Markdown).  Loaded only on pages that use the shortcode.
  *
- * The caption reuses the academic `.tcaption` class, so on `academic: true`
- * pages (AFSI write-ups) the paper typography wins by specificity; the rules
- * below are the fallback for every other page.
+ * Figure captions share the chart width and use compact, left-aligned text.
  */
 
 .chart-figure {
@@ -21,11 +19,11 @@
     width: 100% !important;
 }
 
-.post-content .chart-caption {
-    text-align: center;
-    font-size: 0.84rem;
-    line-height: 1.45;
-    margin: 0.5rem 0.4rem 0;
+.post-content figure .chart-caption {
+    text-align: left;
+    font-size: 0.88em;
+    line-height: 1.3;
+    margin: 0.6rem 0 0;
     color: var(--secondary);
 }
 

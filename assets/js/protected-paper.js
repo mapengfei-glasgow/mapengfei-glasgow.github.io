@@ -15,6 +15,9 @@
         window.MathJax.typesetPromise([content]).catch(function () {});
       }
     }
+    // The article canvases are inserted after the chart script initialises.
+    // Rebuild on sign-in and dispose detached charts on sign-out.
+    if (window.dshCharts) window.dshCharts.renderAll();
   }
   function start() {
     if (!window.SiteAuth) return;

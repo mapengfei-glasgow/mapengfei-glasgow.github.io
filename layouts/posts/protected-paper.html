@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+{{- if $prod }}
 <div id="protected-paper">
   <div id="paper-gate" class="post-single">
     <header class="post-header"><h1 class="post-title">{{ .Title }}</h1></header>
@@ -10,4 +12,8 @@
   <template id="paper-body">{{ partial "academic-article.html" . }}</template>
 </div>
 <script src="{{ (resources.Get "js/protected-paper.js" | fingerprint).RelPermalink }}" defer></script>
+{{- else }}
+{{/* Local preview (`hugo server`): skip the sign-in gate and show the draft directly. */}}
+{{ partial "academic-article.html" . }}
+{{- end }}
 {{ end }}
