@@ -40,6 +40,17 @@ vortical structures and reduce downstream turbulence and shear stress. These aor
 studies motivate examining leaflet dynamics and downstream flow structures together;
 the present work considers a mitral-valve configuration, with different anatomy and loading.
 
+For mitral-valve flow in a ventricular setting, {{< cite "meschini2018flow" "author" >}}
+used direct numerical simulations coupled to ventricular and valve dynamics, validated
+against companion experiments, to compare natural, biological and mechanical mitral valves.
+They found that valve type affects ventricular flow, with more pronounced differences
+when pumping efficiency is reduced; bileaflet mechanical valves weakened mitral-jet
+penetration and apical recirculation at pathological ejection fractions.
+In a commentary on this study, {{< cite "mittal2018matters" "author" >}} discussed the
+challenge of modelling coupled cardiac and valvular motion and the implications of
+prosthetic-valve choice for ventricular haemodynamics. These findings provide context
+for the present tube-based mitral-valve study, which does not include ventricular-wall motion.
+
 - Motivation: transmitral flow, vortex formation and breakdown downstream of the mitral valve.
 - Reference model: IBAMR SarahNodalMV (nodal IFED, libMesh HEX8 / TET4 mesh, fiber-reinforced HGO leaflets, chordae, tethers) {{< cite "ibamrSarahNodalMV" >}}.
 - Contributions (draft):
@@ -85,6 +96,14 @@ not backflow will be labeled as **NBF**
 | {{< label "config" "G64/R0/Q2+P2/BF" >}} | Q2 hexahedra + P2 tetrahedra |
 
 ### 2.1 Geometry, domain and loading
+
+The original patient-specific mitral-valve geometry comes from
+{{< cite "wang_finite_2013" "author" >}}, who reconstructed the valve from multi-slice
+computed tomography scans, including leaflet thickness, chordal origins and insertion
+points, and papillary muscle locations. The subsequent valve model and chordal structure
+used here are primarily based on {{< cite "feng_chordae_2018" "author" >}}.
+The present simulations use the IBAMR SarahNodalMV implementation of the reference model;
+the mesh conversion is described in §2.3.
 
 
 {{< table-caption "2" "Geometry, loading and material parameters" >}}
@@ -267,6 +286,13 @@ To be tested for the MV case...
 ---
 
 ## 4. GPU acceleration
+
+The GPU computation framework primarily builds on {{< cite "ma_fully_2025" "author" >}},
+which presents a fully GPU-accelerated, matrix-free immersed boundary method for
+fiber-reinforced hyperelastic cardiac models. Its nodal coupling avoids finite-element
+projection operations, while a matrix-free geometric multigrid solver supports the fluid
+projection method. The implementation choices and performance measurements for the present
+mitral-valve solver are described below.
 
 ### 4.1 Performance levels
 
