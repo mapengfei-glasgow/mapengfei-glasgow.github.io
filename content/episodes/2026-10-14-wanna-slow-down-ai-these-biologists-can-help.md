@@ -1,0 +1,407 @@
+---
+layout: single
+title: "Wanna slow down AI? These biologists can help."
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-14T00:00:00Z
+slug: "2026-10-14-wanna-slow-down-ai-these-biologists-can-help"
+audioDir: "2026-10-14-wanna-slow-down-ai-these-biologists-can-help"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-14-wanna-slow-down-ai-these-biologists-can-help/episode.mp3"
+totalDuration: 1946.7
+sentences:
+  - {text: "This episode's sponsor is HubSpot, which offers the following message.", start: 0.11, end: 3.69}
+  - {text: "What if instead of updating your CRM, your CRM updated you?", start: 4.21, end: 8.19}
+  - {text: "HubSpot's self -updating CRM keeps your customer context current, so you can win more deals.", start: 8.67, end: 13.73}
+  - {text: "Learn more at HubSpot .com.", start: 14.31, end: 15.83}
+  - {text: "This is Planet Money from NPR.", start: 17.20, end: 19.52}
+  - {text: "There's a very strange puzzle at the center of the AI debate right now.", start: 22.63, end: 27.93}
+  - {text: "If by strange you mean, like, totally terrifying and apocalyptic.", start: 27.99, end: 30.83}
+  - {text: "All those things. And that is that many of the people in charge of the AI companies are begging for someone, anyone, to be the adult in the room", start: 30.83, end: 42.27}
+  - {text: "that tells them to stop speedrunning the apocalypse.", start: 42.27, end: 45.43}
+  - {text: "Yeah, they're saying, like, given that there's even a tiny chance that the products we're building could lead to the end of human life, seems like", start: 45.79, end: 54.13}
+  - {text: "it might be a good idea for everyone to just pump the brakes a little bit.", start: 54.13, end: 57.47}
+  - {text: "But at the same time, none of them are taking any meaningful individual steps to slow down.", start: 57.47, end: 64.13}
+  - {text: "Probably because unless everyone else agrees to get on the same page, they fear falling behind and losing the race.", start: 64.45, end: 70.37}
+  - {text: "In other words, what we've got on our hands is a collective action problem, where people know they need to come to an agreement, but they don't want to do it", start: 70.75, end: 78.67}
+  - {text: "because of their self -interest and because they worry the other tech bros might defect or won't play by the same rules.", start: 78.67, end: 84.87}
+  - {text: "It's a heady time, and there doesn't really seem to be a way out.", start: 84.87, end: 88.83}
+  - {text: "But sometimes, history offers a way.", start: 89.40, end: 92.52}
+  - {text: "So we headed to the stacks over to the Dewey Decimal section for collective action problem, and we found this kind of wildly analogous story of a time when a new technology promised to transform life as we knew it,", start: 93.14, end: 106.48}
+  - {text: "but also to potentially destroy the world along the way.", start: 106.76, end: 110.14}
+  - {text: "And the people most invested in that technology got together and puzzled through this question.", start: 110.72, end: 116.28}
+  - {text: "Could they collectively find a way to stop this runaway technology before it was too late?", start: 116.84, end: 121.90}
+  - {text: "Or would their fear of missing out make that impossible?", start: 122.40, end: 126.28}
+  - {text: "Hello, and welcome to Planet Money.", start: 130.25, end: 131.53}
+  - {text: "I'm Alexi Horowitz -Gazi.", start: 131.55, end: 132.53}
+  - {text: "And I'm Nick Fountain.", start: 132.83, end: 133.41}
+  - {text: "If the Tex Barrens actually want to meet, actually want to slow things down, may we offer a lesson from biology?", start: 133.83, end: 140.55}
+  - {text: "That's right. The mitochondria is the powerhouse of the...", start: 141.11, end: 144.63}
+  - {text: "No, I'm just kidding.", start: 144.63, end: 145.33}
+  - {text: "Today on the show, we're going to tell the story of the time when scientists, faced with this new technology that they worried could lead to highly contagious diseases, bioweapons, weird eugenics,", start: 145.33, end: 156.49}
+  - {text: "and a whole host of other problems, figured out how to push past a collective action problem.", start: 157.13, end: 162.31}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 169.35, end: 172.85}
+  - {text: "This message comes from Angie.", start: 173.96, end: 175.64}
+  - {text: "Angie has been helping homeowners find skilled pros to get their home projects done well for over 30 years.", start: 176.06, end: 182.54}
+  - {text: "For everything, from minor repairs to major remodels, find reviews, pricing, and booking at Angie .com or on the Angie app.", start: 182.90, end: 191.14}
+  - {text: "This message comes from Mint Mobile.", start: 192.13, end: 193.81}
+  - {text: "While others have been hiking your bill, Mint Mobile has kept their wireless plans starting at $15 a month.", start: 194.31, end: 199.63}
+  - {text: "Switch to Mint Mobile and get three months of premium wireless service for $15 a month.", start: 200.03, end: 204.51}
+  - {text: "Go to mintmobile .com slash switch.", start: 204.81, end: 206.83}
+  - {text: "Upfront payment of $45 for a three month plan required.", start: 206.83, end: 209.99}
+  - {text: "$15 per month equivalent.", start: 210.29, end: 211.41}
+  - {text: "New customer offer first three months only.", start: 211.93, end: 213.65}
+  - {text: "Then full price plan options available.", start: 213.85, end: 215.19}
+  - {text: "Taxes and fees extra.", start: 215.65, end: 216.45}
+  - {text: "What's scary about this moment is that there's this society morphing, world changing, maybe economy wrecking technology, and it's not only the bloodites who are saying let's slow down,", start: 217.38, end: 229.24}
+  - {text: "it's the people who are leading the charge.", start: 229.34, end: 231.26}
+  - {text: "But they aren't slowing down because they know it'll be bad for them, individually.", start: 231.82, end: 236.04}
+  - {text: "And if the story that we're going to tell today is an allegory, they are kind of right.", start: 236.04, end: 240.96}
+  - {text: "This might be bad for them.", start: 241.34, end: 242.58}
+  - {text: "When you solve a collective action problem, someone is likely to get hurt.", start: 243.10, end: 246.86}
+  - {text: "Just ask Janet Mertz.", start: 247.30, end: 249.06}
+  - {text: "As far as I understand it, this whole story starts with you.", start: 249.46, end: 252.98}
+  - {text: "Yeah. Are you bummed about that?", start: 253.74, end: 257.53}
+  - {text: "No. Janet is a big shot biochemist.", start: 258.13, end: 261.35}
+  - {text: "In the 1970s she was a 21 year old getting a PhD at one of the premier programs in the U .S.", start: 261.49, end: 266.53}
+  - {text: "at Stanford University. Working on research that was revealing the very nature of how life worked.", start: 266.77, end: 272.65}
+  - {text: "Did you have ambition of winning a Nobel?", start: 272.95, end: 274.89}
+  - {text: "We were all thinking about that back in that era.", start: 275.39, end: 279.19}
+  - {text: "All right. I'm glad you admitted it.", start: 279.35, end: 281.01}
+  - {text: "And actually two of the other students in my cohort went on to get nobles.", start: 281.07, end: 286.49}
+  - {text: "So it wasn't just my thesis advisor.", start: 287.37, end: 289.77}
+  - {text: "You know three Nobel prize winners personally?", start: 290.21, end: 293.19}
+  - {text: "Oh, I know a lot more than three.", start: 293.19, end: 294.99}
+  - {text: "Now, there is a reason so many people Janet knows personally went on to get the big kahuna.", start: 295.71, end: 301.01}
+  - {text: "And that's because biology and chemistry, they're kind of undergoing a revolution at the time.", start: 301.35, end: 306.67}
+  - {text: "And Janet was at the cutting edge.", start: 306.89, end: 308.85}
+  - {text: "Which was all about cutting.", start: 309.23, end: 311.39}
+  - {text: "Cutting up an organism's DNA and splicing it into another organism's DNA.", start: 311.95, end: 317.15}
+  - {text: "They called this recombinant DNA.", start: 317.71, end: 320.09}
+  - {text: "Prior to that people would make recombinants using natural methods.", start: 320.09, end: 325.37}
+  - {text: "So, you know, nature all the time is taking genes from one organism and getting them into another organism.", start: 326.27, end: 334.83}
+  - {text: "But it required the birds and the bees up until that point.", start: 334.99, end: 338.87}
+  - {text: "Yeah, it used to be through breeding.", start: 339.17, end: 340.85}
+  - {text: "But now all of a sudden there was the possibility of copying a gene from a bird and pasting it into a bee.", start: 341.11, end: 347.63}
+  - {text: "That's right. Yeah. This new technology had enormous promise.", start: 347.83, end: 351.61}
+  - {text: "It could maybe enable the mass production of insulin in the lab which up to this point had to be harvested from animals like pigs or creating new crops that fixed the soil as they grew.", start: 351.97, end: 361.83}
+  - {text: "The possibilities were endless.", start: 362.33, end: 363.47}
+  - {text: "As one scientist put it back then, you could maybe even grow pork chops on trees.", start: 363.83, end: 368.47}
+  - {text: "Weird, but alright. Janet was working on this miracle technology developing an experiment that would push it forward.", start: 369.05, end: 376.19}
+  - {text: "But she wouldn't get to finish this project, in part because of this guy.", start: 376.19, end: 381.15}
+  - {text: "Were you the whistleblower that started this all?", start: 381.49, end: 383.61}
+  - {text: "Yes. How does that feel?", start: 383.75, end: 385.98}
+  - {text: "It defined the rest of my life.", start: 387.27, end: 388.83}
+  - {text: "This is Bob Pollock.", start: 389.31, end: 390.67}
+  - {text: "In the late 60s, he landed a job working for another Nobel winner, the guy who helped discover the double helix, James Watson.", start: 390.93, end: 397.19}
+  - {text: "Watson wanted Bob to help him run a lab in some shingled buildings on the shores of Long Island.", start: 397.87, end: 402.63}
+  - {text: "You were hot stuff.", start: 403.15, end: 404.07}
+  - {text: "I was hot stuff, yes.", start: 404.27, end: 405.31}
+  - {text: "The work was hot.", start: 405.31, end: 406.77}
+  - {text: "The James Watson poached you, head -hunted you.", start: 406.79, end: 410.73}
+  - {text: "Well, let's just say I accepted.", start: 411.07, end: 413.69}
+  - {text: "As part of Bob's job, Bob's job.", start: 414.21, end: 417.55}
+  - {text: "You had to teach a three -week course about animal cell biology that grad students from all over flew in for.", start: 418.33, end: 423.47}
+  - {text: "Janet was a student in this course.", start: 423.71, end: 425.85}
+  - {text: "It was a crash course.", start: 426.19, end: 427.17}
+  - {text: "First day of the course, they're doing introductions.", start: 427.59, end: 429.31}
+  - {text: "Your name, your major, your thesis project.", start: 430.03, end: 432.21}
+  - {text: "It's Janet's turn. Hi, my name's Janet Murth.", start: 432.75, end: 435.73}
+  - {text: "I'm a first -year grad student in the Stanford Biochemistry Department.", start: 435.81, end: 439.59}
+  - {text: "And my thesis project is to...", start: 440.69, end: 443.67}
+  - {text: "Her thesis project is a little jargon -y, but basically, she wanted to better understand how viruses work in primates, including people.", start: 444.33, end: 451.29}
+  - {text: "She was going to try to do that by cloning some recombinant DNA in E.", start: 451.81, end: 454.97}
+  - {text: "coli. And the particular DNA that she was going to clone contained a virus that just so happened to cause tumors in some animals, like hamsters.", start: 454.97, end: 463.67}
+  - {text: "And what happened next?", start: 464.01, end: 464.95}
+  - {text: "Um, the parabolic sort of freaked out.", start: 465.25, end: 468.03}
+  - {text: "Wait a minute, wait a minute.", start: 468.35, end: 469.39}
+  - {text: "This is a dangerous protein.", start: 469.53, end: 470.89}
+  - {text: "What if the now -possibly cancerous E.", start: 471.21, end: 474.05}
+  - {text: "coli escaped Janet's lab and got into human?", start: 474.07, end: 477.79}
+  - {text: "You put in an E.", start: 478.17, end: 478.99}
+  - {text: "coli. You'll forgive the technical term, but you crap out E.", start: 479.07, end: 483.05}
+  - {text: "coli all the time.", start: 483.07, end: 484.03}
+  - {text: "It's in your body.", start: 484.15, end: 484.83}
+  - {text: "The perfect vector. So, so do you want to do that?", start: 486.85, end: 491.17}
+  - {text: "Do you want to put a cancer -causing anything into something that can live in your gut?", start: 491.79, end: 496.85}
+  - {text: "What if it somehow slips into a grad student's gut?", start: 497.37, end: 500.23}
+  - {text: "What if it slips out into the wild?", start: 500.65, end: 501.99}
+  - {text: "You could give the world cancer.", start: 502.33, end: 504.67}
+  - {text: "This scares the hell out of me.", start: 504.95, end: 506.11}
+  - {text: "Now, Bob's freak out.", start: 506.35, end: 507.47}
+  - {text: "It did not end there.", start: 507.69, end: 508.83}
+  - {text: "He was so worried about this that he decided to basically call the principal's office to call Janet's boss, a guy named Paul Berg.", start: 509.09, end: 516.15}
+  - {text: "Give me the exact conversation.", start: 516.15, end: 518.61}
+  - {text: "Ring, ring, ring, ring.", start: 519.25, end: 520.05}
+  - {text: "Hello, it's Dr. Berg.", start: 520.23, end: 521.27}
+  - {text: "Who the f**k are you?", start: 521.53, end: 522.35}
+  - {text: "No, it wasn't that, actually.", start: 522.47, end: 523.69}
+  - {text: "Bob says that's not the right order.", start: 523.95, end: 526.15}
+  - {text: "First, he told Dr.", start: 526.61, end: 527.61}
+  - {text: "Berg how irresponsible he thought Janet's research was, that they hadn't thought through all the implications, and then Dr.", start: 527.75, end: 534.37}
+  - {text: "Berg essentially said, who the heck are you?", start: 534.51, end: 536.49}
+  - {text: "But eventually, Bob kind of convinced Dr.", start: 536.87, end: 538.81}
+  - {text: "Berg to at least call around and see whether people he actually knew and trusted thought he might indeed be opening up Pandora's Petri dish.", start: 538.91, end: 546.85}
+  - {text: "Because our feeling was, we could easily arrange this so that it doesn't escape from the lab.", start: 547.09, end: 553.63}
+  - {text: "But of course, as we know, things occasionally do escape from the lab.", start: 554.31, end: 558.29}
+  - {text: "So it's not like it's...", start: 559.97, end: 562.09}
+  - {text: "Was that a Wuhan reference?", start: 562.09, end: 563.69}
+  - {text: "I think it was.", start: 564.29, end: 565.53}
+  - {text: "Janet is actually on the fence about whether COVID escaped from the lab, but she says lab leaks do happen.", start: 566.25, end: 571.57}
+  - {text: "Back then, Janet says they thought the risk of her research destroying the world was teeny, one in a billion.", start: 571.95, end: 578.43}
+  - {text: "And the potential reward of understanding these viruses better was huge.", start: 579.29, end: 584.41}
+  - {text: "But as Dr. Berg polled his colleagues about whether the reward actually outweighed the risk, he became convinced.", start: 584.85, end: 591.25}
+  - {text: "Bob was right. And so he put the kibosh on Janet's experiment.", start: 591.85, end: 596.11}
+  - {text: "If there was even a small chance that this was going to hurt someone, it wasn't worth it.", start: 596.53, end: 600.55}
+  - {text: "And how did Janet feel about this?", start: 601.05, end: 602.65}
+  - {text: "Well, it's above my pay grade.", start: 602.65, end: 604.87}
+  - {text: "Kind of, but this is also your best shot at the Nobel, right?", start: 605.05, end: 607.49}
+  - {text: "Well, the reality in that era, Nobel's almost never went to women and almost never went to grad students.", start: 609.45, end: 615.75}
+  - {text: "It's your best shot of being a superstar biochemist.", start: 616.21, end: 619.81}
+  - {text: "But anyway. But anyway, it's not like after Janet was told to stand down, biochemistry just stopped.", start: 623.31, end: 629.95}
+  - {text: "In fact, it kind of accelerated.", start: 630.49, end: 632.41}
+  - {text: "There were new advances on the regular, including by Janet.", start: 632.99, end: 636.93}
+  - {text: "She made some advances in cloning and she figured out how to splice DNA way more easily.", start: 637.59, end: 642.59}
+  - {text: "Making recombinant DNA went from being an experiment that at the time very few people in the world could do to something a bright high school student could do it.", start: 642.85, end: 654.91}
+  - {text: "And anybody could make their own chimera.", start: 655.31, end: 657.45}
+  - {text: "Yeah. This rapid spread of this new technology could potentially pose a whole host of new problems.", start: 657.89, end: 663.39}
+  - {text: "Like if they could get the right materials, what was going to stop a terrorist from making some super bug?", start: 663.39, end: 668.45}
+  - {text: "For that matter, what was going to stop some precocious but ultimately incompetent teen from inadvertently creating a super bug?", start: 669.05, end: 675.53}
+  - {text: "Plus, it raised the ethical conundrum of potential designer babies.", start: 675.99, end: 679.29}
+  - {text: "In other words, everyone was now racing towards an outcome that could be dangerous in all sorts of ways.", start: 679.91, end: 685.09}
+  - {text: "It was a collective action problem.", start: 685.53, end: 687.67}
+  - {text: "They knew that if, collectively, they could stop or slow down and make some tweaks, the world would be safer.", start: 688.09, end: 694.35}
+  - {text: "But as individuals for their own livelihoods and careers, the rational thing to do was keep going full steam ahead so they could win the nobles and get the tenured tract positions.", start: 694.99, end: 706.65}
+  - {text: "It only made sense for them to stop if everyone else was going to do it, too.", start: 707.19, end: 711.41}
+  - {text: "Now, there are several ways to try to solve collective action problems.", start: 711.83, end: 715.43}
+  - {text: "You can get the government involved, of course.", start: 715.85, end: 717.57}
+  - {text: "You can try to align the incentives in a way that makes people play nice, and you can self -govern.", start: 717.87, end: 722.51}
+  - {text: "Janet's boss, Dr. Berg, was one of the people who took a first stab at that last option, self -governance.", start: 723.21, end: 728.81}
+  - {text: "Yeah, in 1974, he and a group of the country's top lab heads, basically everyone who had the ability to do this maybe scary research, published a letter in the Top Science Journal saying, okay, this is potentially too dangerous,", start: 729.11, end: 742.17}
+  - {text: "so we're all agreeing to hit pause on our research until we have a chance to meet up and figure out a safe way forward.", start: 742.17, end: 749.29}
+  - {text: "They agreed to a moratorium on research.", start: 749.65, end: 752.83}
+  - {text: "In other words, let's all stop.", start: 753.19, end: 755.17}
+  - {text: "This is Michael Rogers.", start: 755.67, end: 757.03}
+  - {text: "In the mid -70s, he was working as a reporter at Rolling Stone, and he looked the part.", start: 757.53, end: 761.41}
+  - {text: "He had a leather -vast and long hair, but instead of interviewing rock stars, he says his editor forced him to do science stories, and when he read about the moratorium, he knew it was a big deal.", start: 761.53, end: 771.67}
+  - {text: "That was a first, I think, in the history of science.", start: 772.05, end: 774.35}
+  - {text: "A first, good premise for a story.", start: 774.35, end: 776.87}
+  - {text: "And it involved genetically engineered creatures.", start: 777.03, end: 780.23}
+  - {text: "Boo! Now we've got some fun.", start: 781.35, end: 783.09}
+  - {text: "Yeah, it had like a double helical twist.", start: 783.95, end: 787.11}
+  - {text: "Yes, exactly. Which is why, in February of 1975, Michael ended up driving to a rustic conference center not too far outside of Monterey, California called Asilomar.", start: 787.57, end: 800.25}
+  - {text: "To attend the now very relevant Asilomar conference on recombinant DNA.", start: 800.61, end: 806.29}
+  - {text: "This was a room full of nerds.", start: 806.77, end: 808.73}
+  - {text: "It was a four -day conference, and most of the action took place in one big room, a chapel.", start: 808.77, end: 814.13}
+  - {text: "Asilomar used to be a young women's Christian association camp, so they had one.", start: 814.55, end: 818.37}
+  - {text: "Which I always thought was, you know, very meaningful.", start: 818.55, end: 821.07}
+  - {text: "Here we are debating the fundamentals of life in a chapel next to the ocean where life began.", start: 821.91, end: 827.85}
+  - {text: "All right, so now I got a lot of feedback.", start: 828.45, end: 830.61}
+  - {text: "Amazingly, recordings of this meeting still exist.", start: 831.21, end: 833.95}
+  - {text: "Shout out to the National Academy's archives for those.", start: 834.33, end: 836.41}
+  - {text: "And listening to the tapes, it becomes clear that the strongest voices in the room were those of the steering committee.", start: 836.87, end: 842.09}
+  - {text: "The folks who organized the conference, including Dr.", start: 842.81, end: 845.41}
+  - {text: "Berg, Janet's lab head.", start: 845.61, end: 846.75}
+  - {text: "Janet herself did not get the invite.", start: 847.25, end: 849.41}
+  - {text: "No, I was a grad student.", start: 849.91, end: 851.23}
+  - {text: "They weren't inviting grad students.", start: 852.38, end: 853.80}
+  - {text: "Plus of the 140 people who attended, mostly scientists, there were very few women.", start: 854.46, end: 860.04}
+  - {text: "At that point, most everyone there had abided by the temporary moratorium.", start: 860.32, end: 863.94}
+  - {text: "They had stopped or slowed their research out of an abundance of caution.", start: 864.34, end: 867.56}
+  - {text: "And now, seemingly everyone wanted the moratorium lifted.", start: 867.98, end: 871.52}
+  - {text: "But how? Therein lay the debate.", start: 872.04, end: 874.84}
+  - {text: "There were basically two camps.", start: 875.30, end: 876.62}
+  - {text: "Those aligned with the organizers who wanted to walk away in just a few days with a new set of guardrails, a consensus on how to do research safely.", start: 876.92, end: 885.38}
+  - {text: "And those who wanted no restrictions at all on their research.", start: 885.82, end: 889.34}
+  - {text: "Their basic stance was anything that slows us down will be onerous, expensive, and will stifle our academic freedom.", start: 889.72, end: 896.80}
+  - {text: "This camp included big deals like Mr.", start: 897.34, end: 900.00}
+  - {text: "Double Helix himself, James Watson.", start: 900.12, end: 902.16}
+  - {text: "Which side was going to win?", start: 902.50, end: 903.90}
+  - {text: "The fight would play out over these four days, not in an octagonal cage or a petri dish, but behind a lectern up on stage, with some forays from the peanut gallery.", start: 904.48, end: 913.80}
+  - {text: "Good morning. I think.", start: 914.10, end: 915.69}
+  - {text: "But as speaker after speaker came up to that lectern, it became clear that the scientists didn't really want to talk about how to address whatever", start: 916.39, end: 925.07}
+  - {text: "existential risks a humanity their research might pose.", start: 925.07, end: 927.83}
+  - {text: "They wanted to talk about their research.", start: 928.39, end: 930.51}
+  - {text: "I'd like to illustrate for you synthetic cohesive termini.", start: 930.81, end: 934.01}
+  - {text: "On hydroxyapatite. Parainfluenza 2 enzyme.", start: 934.37, end: 937.83}
+  - {text: "Which cleaves DNA at the sequence C, G.", start: 938.57, end: 942.43}
+  - {text: "Alex Capron, a lawyer and an early pioneer in bioethics who was at the conference says as a result the busiest place at the conference was actually the two pay phones because", start: 942.43, end: 951.71}
+  - {text: "between sessions people hurried back to get in line at the phone to call their labs to describe what they had just heard and say as soon as I get back,", start: 952.43, end: 965.27}
+  - {text: "we should try to get ready to do that.", start: 965.27, end: 968.17}
+  - {text: "Nobody called their loved ones to say I miss you.", start: 968.35, end: 970.91}
+  - {text: "They only called their lab assistants to say get this experiment ready for me.", start: 971.29, end: 975.25}
+  - {text: "Michael the Rolling Stone journalist says just the fact that this conference was happening already seemed to be spreading the information potentially all around the world.", start: 975.75, end: 985.83}
+  - {text: "My favorite foreign scientist was a Russian guy who he basically sat in the front row and took pictures of every slide that came up.", start: 986.45, end: 997.43}
+  - {text: "And he was accompanied by a very slick young man who spoke perfect English and who was immediately identified as KGB.", start: 999.64, end: 1008.98}
+  - {text: "That part's unconfirmed, but it was becoming clear to those in the room, like Michael that the more they talked about this cool science that slim with odds were that they'd actually enact any safeguards.", start: 1009.42, end: 1019.98}
+  - {text: "As the days went on, there was more of a leaning toward this is getting too complicated and potentially destructive of the research path.", start: 1020.26, end: 1031.54}
+  - {text: "Maybe this whole thing was going to be a mistake.", start: 1032.16, end: 1035.22}
+  - {text: "We asked Alex Capron the lawyer about this.", start: 1036.02, end: 1038.38}
+  - {text: "It is slightly ironic that this meeting that was convened to sort of slow things down or at least do things safely was going to accelerate the whole thing, right?", start: 1038.72, end: 1048.64}
+  - {text: "Kind of a super spreader event.", start: 1049.04, end: 1050.46}
+  - {text: "Yes, that that was the irony and my job was to bring the meeting back to how do we behave responsibly.", start: 1050.78, end: 1061.92}
+  - {text: "Right. Alex wasn't just some random lawyer invited to the conference.", start: 1062.10, end: 1065.28}
+  - {text: "He was an expert in medical ethics and the law and he was invited with a very specific task in mind.", start: 1065.58, end: 1071.36}
+  - {text: "On the final evening of the conference, the night before organizers planned to hold a vote on how to move forward, he and a couple other lawyers were going to talk about the law and liability.", start: 1071.70, end: 1080.82}
+  - {text: "So you were there to scare the living daylights out of these nerds.", start: 1081.42, end: 1086.30}
+  - {text: "Yeah. Did you say nerds?", start: 1086.38, end: 1089.23}
+  - {text: "I'm not. I don't adopt that phrase.", start: 1090.21, end: 1093.03}
+  - {text: "Don't paraphrase me as saying that.", start: 1094.39, end: 1097.05}
+  - {text: "No. These cutting edge scientists.", start: 1097.81, end: 1100.91}
+  - {text: "Finally, it was Alex's time to shine.", start: 1101.71, end: 1104.35}
+  - {text: "Alex Capron, the next speaker.", start: 1104.71, end: 1106.37}
+  - {text: "The organizers were counting on Alex to shift the tide.", start: 1106.63, end: 1109.39}
+  - {text: "He walked up on to the stage with some pen and paper notes and started talking about the risks.", start: 1109.91, end: 1114.29}
+  - {text: "If and when dangerous vectors escape from control.", start: 1114.67, end: 1118.21}
+  - {text: "But Alex didn't just talk about the health risks to the world or the risks for lab workers.", start: 1118.69, end: 1122.95}
+  - {text: "He and the other lawyers who spoke that evening also highlighted the legal risks for all the people in the room.", start: 1123.43, end: 1129.29}
+  - {text: "The scientists leading those labs.", start: 1129.63, end: 1131.65}
+  - {text: "Freedom of thought does not encompass freedom to cause physical injury to others.", start: 1131.95, end: 1137.33}
+  - {text: "He then moved to regulation.", start: 1137.39, end: 1138.55}
+  - {text: "He said, whether you like it or not, you're going to be regulated.", start: 1139.15, end: 1141.91}
+  - {text: "So decide now. Do you want to make the rules for yourselves?", start: 1142.23, end: 1145.51}
+  - {text: "Or do you want other people to make the rules?", start: 1145.97, end: 1148.11}
+  - {text: "Like congresspeople who can't tell a reticulum from their own rectum.", start: 1148.37, end: 1153.89}
+  - {text: "It is the right of the public through the legislature to reach erroneous decisions.", start: 1154.03, end: 1160.23}
+  - {text: "Alex finished his speech and story goes he and the other lawyers who spoke on that final evening did manage to convince the crowd that this", start: 1160.61, end: 1168.47}
+  - {text: "was in fact not just a collective action problem.", start: 1168.47, end: 1171.99}
+  - {text: "It could also become an individual problem for the people in that room if they were held liable.", start: 1172.39, end: 1177.45}
+  - {text: "Yeah, the conference organizers told them that they were happy.", start: 1177.59, end: 1180.27}
+  - {text: "Thank you. You got their attention.", start: 1180.77, end: 1182.65}
+  - {text: "You succeeded in the mission of scaring the living daylights out of them.", start: 1182.99, end: 1186.97}
+  - {text: "Yeah, so now we face the challenge of coming up with something that we can sell.", start: 1187.05, end: 1193.49}
+  - {text: "Something they could sell meaning guardrails that everyone, including the naysayers, could agree to.", start: 1193.87, end: 1199.65}
+  - {text: "Michael says if the intention of Alex's talk was to put a fire under everyone's reticulum it totally worked.", start: 1200.29, end: 1206.61}
+  - {text: "That night there was several groups of people who stayed up most of the night working on the final rules that would be voted on the next day.", start: 1207.05, end: 1218.73}
+  - {text: "What happened the next day?", start: 1218.73, end: 1220.69}
+  - {text: "And what it can teach us about this current march towards either nirvana or extinction?", start: 1220.91, end: 1226.81}
+  - {text: "That is after the break.", start: 1227.37, end: 1228.81}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1238.66, end: 1242.14}
+  - {text: "This message comes from Jerry.", start: 1243.46, end: 1244.96}
+  - {text: "Noticing your car insurance rate creep up even without tickets or claims?", start: 1245.46, end: 1249.32}
+  - {text: "You're not alone. That's why there's Jerry.", start: 1249.70, end: 1252.02}
+  - {text: "Jerry handles the legwork by comparing quotes side by side from over 50 top insurers so you can confidently hit buy.", start: 1252.50, end: 1259.52}
+  - {text: "No spam calls, no hidden fees.", start: 1259.96, end: 1261.62}
+  - {text: "Jerry even tracks rates and alerts you when it's best to shop.", start: 1262.12, end: 1264.98}
+  - {text: "Drivers who say with Jerry could save over $1 ,300 a year.", start: 1265.34, end: 1268.84}
+  - {text: "Don't overpay. Download the Jerry app or visit jerry .ai This message comes from Angie.", start: 1269.22, end: 1276.60}
+  - {text: "Angie has been helping homeowners find skilled pros to get their home projects done well for over 30 years.", start: 1277.02, end: 1283.52}
+  - {text: "For everything from minor repairs to major remodels, find reviews, pricing and booking at Angie .com or on the Angie app.", start: 1283.78, end: 1292.12}
+  - {text: "This message comes from Mint Mobile.", start: 1292.94, end: 1294.78}
+  - {text: "While others have been hiking your bill Mint Mobile has kept their wireless plans starting at $15 a month.", start: 1295.28, end: 1300.60}
+  - {text: "Switch to Mint Mobile and get 3 months of premium wireless service for $15 a month.", start: 1300.98, end: 1305.50}
+  - {text: "Go to mintmobile .com slash switch.", start: 1305.72, end: 1307.82}
+  - {text: "Upfront payment of $45 for 3 month plan required.", start: 1308.24, end: 1310.98}
+  - {text: "$15 per month equivalent.", start: 1311.28, end: 1312.42}
+  - {text: "New customer offer first 3 months only.", start: 1312.42, end: 1314.62}
+  - {text: "Then full price plan options available.", start: 1314.82, end: 1316.16}
+  - {text: "Taxes and fees extra.", start: 1316.58, end: 1317.42}
+  - {text: "Now, obviously we're talking about the Asilomar let's slow it down conference because there are a lot of similarities to what's happening with AI right now.", start: 1320.56, end: 1329.92}
+  - {text: "People asking is this new technology so dangerous that we need to stop it or slow it down?", start: 1330.30, end: 1335.46}
+  - {text: "And if so what are some guardrails that everyone would agree to and follow?", start: 1335.66, end: 1341.08}
+  - {text: "But there are some fundamental differences between the AI race and the recombinant DNA race.", start: 1341.60, end: 1347.82}
+  - {text: "The biggest one maybe money.", start: 1348.12, end: 1349.84}
+  - {text: "There are trillions of dollars and arguably the entire American economy riding on the AI race.", start: 1350.38, end: 1355.90}
+  - {text: "Slowing that down is a tough pill to swallow.", start: 1356.34, end: 1358.32}
+  - {text: "Another difference the pace things are moving so fast these companies cannot blink so much as pause for fear that they'll get left behind.", start: 1358.76, end: 1367.22}
+  - {text: "Plus it's not just companies in the US it's also China in this race which adds a whole different dimension.", start: 1367.46, end: 1373.24}
+  - {text: "So some huge differences but also maybe hopefully some lessons from how that final day of the conference at Asilomar played out.", start: 1373.78, end: 1383.34}
+  - {text: "Right after that all nighter where the organizing committee hammered out the proposed guardrails there were only a few hours left before everyone got kicked out of the conference center and had to catch their flights.", start: 1383.56, end: 1392.88}
+  - {text: "The hope was that before that they were going to come to a consensus all join hands you know kumbaya but there had been dissent all along I just", start: 1393.34, end: 1403.32}
+  - {text: "think we should use common sense This is Mr.", start: 1404.06, end: 1407.46}
+  - {text: "Double Helix himself James Watson and Watson had agreed to the temporary moratorium before but by the conference he had changed his tune.", start: 1407.52, end: 1416.68}
+  - {text: "Now he was against basically any guardrail.", start: 1417.18, end: 1419.50}
+  - {text: "The dangers that are involved are probably no greater than that faced in any hospital where you just sort of get to live with it and", start: 1419.68, end: 1427.00}
+  - {text: "in this case I think we're going to have to live with it too if we want to be in this field He said yeah if we are stupid we might get sued individually", start: 1427.00, end: 1434.28}
+  - {text: "that's all the policing we need That sounds very negative and right wing but I don't see any other way of proceeding Michael Rogers the journalist", start: 1434.90, end: 1444.08}
+  - {text: "with the Leather Vest says some of the loudest voices in the room agree.", start: 1444.08, end: 1447.64}
+  - {text: "Let us do science uninhibited.", start: 1448.04, end: 1450.06}
+  - {text: "It seemed to me that this might end up doing nothing and that that would be a real disaster in terms of the public.", start: 1450.22, end: 1460.16}
+  - {text: "Bunch of scientists gather together to make rules governing their research and they come home with nothing what would that mean?", start: 1460.40, end: 1469.38}
+  - {text: "That would first of all suggest that science shouldn't self -regulate that if there was enough danger for top researchers to ask for a moratorium then everyone gets together and says oh never mind", start: 1470.60, end: 1486.96}
+  - {text: "that's that really brings into question the whole process.", start: 1487.86, end: 1491.48}
+  - {text: "The organizing committee as mentioned had a document that they'd worked on all night which laid out some guardrails for how to lift the moratorium and move on as safely as possible.", start: 1491.90, end: 1501.12}
+  - {text: "Guardrail number one biosecurity measures they were going to start categorizing experiments based on risk and the risky experiments would have to take place in the most biosecure labs.", start: 1501.54, end: 1513.24}
+  - {text: "Guardrail number two was a plan for biological containment.", start: 1514.10, end: 1518.00}
+  - {text: "For example, rather than using E.", start: 1518.60, end: 1520.20}
+  - {text: "coli that could thrive in any street food eaters gut, scientists would have to use strains that would not survive in the wild.", start: 1520.20, end: 1526.84}
+  - {text: "For a show of hands who now support maybe it was the deadline, maybe everyone wanted to get back to their labs.", start: 1527.12, end: 1533.82}
+  - {text: "Maybe it was the last minute changes they put into appease the critics.", start: 1535.20, end: 1538.36}
+  - {text: "They were a substantial agreement here.", start: 1538.36, end: 1540.90}
+  - {text: "They successfully self -regulated.", start: 1541.00, end: 1543.60}
+  - {text: "It wasn't unanimous, no consensus, but all but a few voted for the guardrails.", start: 1544.24, end: 1548.64}
+  - {text: "And part of the agreement included a plan for enforcement how to make sure everyone would actually comply.", start: 1548.88, end: 1553.90}
+  - {text: "And this may be a key take away for our tech barons of today if you're still out there.", start: 1554.52, end: 1559.24}
+  - {text: "The scientists at Asilomar self -regulated but they did not self -police.", start: 1559.80, end: 1564.80}
+  - {text: "They handed the policing over to the government.", start: 1565.10, end: 1567.00}
+  - {text: "In the U .S.", start: 1567.62, end: 1568.20}
+  - {text: "they gave that power to the National Institutes of Health who importantly controlled a huge portion of research funding in the U .S.", start: 1568.26, end: 1575.06}
+  - {text: "So even the people who weren't in the room when this agreement was made like Janet Mertz whose research started all of this, they had to get on the same page.", start: 1575.54, end: 1583.00}
+  - {text: "And I age could say if you don't follow the guidelines you don't get our funding.", start: 1583.42, end: 1587.90}
+  - {text: "And so out of Asilomar everyone said okay we have a we're on a level playing field.", start: 1588.62, end: 1595.76}
+  - {text: "We can't say that with AI because they're going to do IPOs for funding.", start: 1596.36, end: 1601.46}
+  - {text: "Right. It's a little different.", start: 1601.72, end: 1603.44}
+  - {text: "It's hard to tie anything to money with the AI companies because they don't lack for funding.", start: 1603.62, end: 1608.86}
+  - {text: "They don't need the government's money.", start: 1609.32, end: 1610.80}
+  - {text: "But there are some proposals for how to regulate AI by at least aligning the incentives.", start: 1611.26, end: 1617.42}
+  - {text: "Yeah, there's a camp that says you could impose new taxes on AI companies and that alone would slow things down.", start: 1617.88, end: 1623.80}
+  - {text: "Either tax them according to some unit of work or according to how much human labor they might be replacing.", start: 1624.16, end: 1629.60}
+  - {text: "Basically you make it more expensive to do things that might cause social harm.", start: 1630.14, end: 1633.96}
+  - {text: "There are also technical and governance proposals out there like building kill switches into hardware or letting third party safety auditors look at models before they're released to name a few.", start: 1634.26, end: 1644.70}
+  - {text: "And if the AI bros do want to meet up and talk through all these proposals to try to hash things out, we've come away from our magic school bus bioethics tour with a few more tips", start: 1645.00, end: 1654.56}
+  - {text: "and tricks for how they might run such a summit.", start: 1654.56, end: 1657.18}
+  - {text: "Number one, limit the scope.", start: 1657.70, end: 1659.58}
+  - {text: "At Asilomar they didn't try to solve all the ethical problems their new technology posed like was it even ethical to do gene editing in the first place?", start: 1659.96, end: 1667.62}
+  - {text: "They just focused on safety.", start: 1668.14, end: 1669.90}
+  - {text: "Two, when you're trying to talk about this and come to a consensus keep it in the room.", start: 1670.12, end: 1676.44}
+  - {text: "Michael says the two pay phones they had at the conference, those two lines out of the rest of the world seemed like a danger to their success.", start: 1676.44, end: 1684.20}
+  - {text: "The lack of communication the no tweeting, no blogs that was crucial.", start: 1684.74, end: 1692.26}
+  - {text: "If they'd been tweeting and slacking their CFOs things could have easily gotten derailed.", start: 1692.58, end: 1697.28}
+  - {text: "I think there would have been a lot more confusion and opposition would have risen up very quickly probably during the conference itself.", start: 1697.48, end: 1706.22}
+  - {text: "Lesson three is kind of weird invite the lawyers that's not the lesson.", start: 1706.46, end: 1711.72}
+  - {text: "The lesson is with any collective action problem it helps to remind people of the personal stakes, personal responsibility, personal liability.", start: 1711.76, end: 1720.80}
+  - {text: "That's how you get people to focus.", start: 1721.46, end: 1723.32}
+  - {text: "Final take away and this one is maybe more of a warning there will be losers.", start: 1723.78, end: 1728.58}
+  - {text: "This is the hard to stomach truth about most any solution to a collective action problem.", start: 1729.08, end: 1733.96}
+  - {text: "Some people will inevitably get the short end of the stick.", start: 1734.32, end: 1737.50}
+  - {text: "Just ask Janet Mertz.", start: 1737.98, end: 1739.72}
+  - {text: "Did slowing down this research hurt your career?", start: 1739.96, end: 1742.34}
+  - {text: "It hurt my career enormously.", start: 1744.00, end: 1746.24}
+  - {text: "It hurt lots of people's careers.", start: 1746.60, end: 1747.84}
+  - {text: "I had this huge head start over everybody that I lost I probably a little bit bitter about it.", start: 1748.72, end: 1756.78}
+  - {text: "Yeah. Does it feel like you sort of paid the price for the rest of the field to take this moment and slow things down and figure out whether", start: 1759.14, end: 1770.31}
+  - {text: "or not this kind of path of research was potentially dangerous for the rest of the world?", start: 1770.31, end: 1774.99}
+  - {text: "I might have paid the biggest price if there hadn't been a moratorium I would have been the first one to clone.", start: 1776.67, end: 1784.34}
+  - {text: "Do you feel like it was worth the cost to you?", start: 1785.08, end: 1787.30}
+  - {text: "It would have been nice if I hadn't paid such a big cost but even though I paid a heavy price I felt it was worth it.", start: 1792.20, end: 1800.64}
+  - {text: "For everybody else in the world?", start: 1801.58, end: 1803.08}
+  - {text: "Yeah. So Elon, Dario, Sam.", start: 1804.10, end: 1810.93}
+  - {text: "If you guys are still listening, don't forget Mark.", start: 1811.66, end: 1813.66}
+  - {text: "Oh and Mark, and Mark.", start: 1813.82, end: 1815.10}
+  - {text: "If you're still out there still listening we have a little proposal.", start: 1815.50, end: 1818.02}
+  - {text: "Yeah if you want to meet up in the Monterey Bay talk these things out.", start: 1818.34, end: 1821.82}
+  - {text: "We're happy to help coordinate.", start: 1822.18, end: 1823.66}
+  - {text: "Just let us know.", start: 1824.16, end: 1825.18}
+  - {text: "Call it A .I.", start: 1825.26, end: 1826.12}
+  - {text: "Silamar. Oh ho ho!", start: 1826.34, end: 1827.78}
+  - {text: "While we're on the subject of conferences if you happen to be anywhere in or near Ireland on November 6th through 8th Planet Money is going to be there for the Kilkenomics Comedy and Economics Festival.", start: 1832.63, end: 1844.03}
+  - {text: "We'll be doing a couple live shows.", start: 1844.21, end: 1845.47}
+  - {text: "Find tickets at the link in the show notes or at Kilkenomics .com Just Google it.", start: 1845.83, end: 1850.43}
+  - {text: "It'll auto correct. Today's episode was produced by Vito Emanuel and edited by Marianne McEwn who was engineered by Travis Hagan and fact -checked by Sierra Juarez.", start: 1850.55, end: 1859.09}
+  - {text: "Alex Goldmark is our executive producer.", start: 1859.63, end: 1861.31}
+  - {text: "Special thanks to the great Dan Gurma, David Marcu from the University of Wisconsin Madison and the folks who make the Distillations podcast from the Science History Institute.", start: 1861.63, end: 1872.01}
+  - {text: "They have a great audio dock about a Silamar if you're looking for more depth.", start: 1872.19, end: 1876.17}
+  - {text: "I'm Nick Fountain. I'm Alexi Horowitz -Gazi.", start: 1876.83, end: 1878.69}
+  - {text: "This is NPR. Thanks for listening.", start: 1878.91, end: 1880.85}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1895.02, end: 1898.78}
+  - {text: "This message comes from Easy Cater, making it easy for organizations to order food from meetings and events from favorite restaurants, set up meal programs for their employees,", start: 1898.78, end: 1908.28}
+  - {text: "and manage food spend all in one place at EasyCater .com This message comes from LinkedIn ads.", start: 1908.72, end: 1915.66}
+  - {text: "Ever invested in something that seemed incredible at first but didn't live up to the hype?", start: 1916.22, end: 1920.34}
+  - {text: "For marketers, that's impressions.", start: 1920.56, end: 1922.14}
+  - {text: "When ads don't create revenue, that's a tough conversation with the CFO.", start: 1922.58, end: 1926.66}
+  - {text: "Instead, invest in results your CFO will love.", start: 1926.66, end: 1930.44}
+  - {text: "LinkedIn ads generates the highest ROAS of all major ad networks.", start: 1930.90, end: 1934.90}
+  - {text: "So advertise on LinkedIn.", start: 1935.40, end: 1936.64}
+  - {text: "Spend $250 and get a $250 credit.", start: 1937.16, end: 1940.94}
+  - {text: "Just go to LinkedIn .com slash NPR pod.", start: 1941.34, end: 1944.50}
+  - {text: "Terms and conditions apply.", start: 1944.90, end: 1946.02}
+---

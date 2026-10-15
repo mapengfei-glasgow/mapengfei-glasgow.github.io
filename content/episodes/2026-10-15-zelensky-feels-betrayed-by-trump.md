@@ -1,0 +1,276 @@
+---
+layout: single
+title: "Zelensky feels 'betrayed' by Trump"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-15T00:00:00Z
+slug: "2026-10-15-zelensky-feels-betrayed-by-trump"
+audioDir: "2026-10-15-zelensky-feels-betrayed-by-trump"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-15-zelensky-feels-betrayed-by-trump/episode.mp3"
+totalDuration: 1657.4
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.32}
+  - {text: "I'm Pete Ross and in the early hours of Thursday, the 15th of October, these are our main stories.", start: 5.11, end: 10.59}
+  - {text: "Floremmyr Zelensky has accused Donald Trump of not being on the right side of history over recent events in the war in Ukraine.", start: 11.15, end: 17.47}
+  - {text: "Elon Musk suggests the US government may be behind Kyiv's impaired access to the Starlink internet network, affecting Ukraine's ability to intercept Russian attacks.", start: 18.21, end: 27.79}
+  - {text: "And after more than a decade of waiting, a new bridge between China and North Korea has finally opened.", start: 28.49, end: 33.99}
+  - {text: "Also in this podcast, violent protests in the Albanian capital for a second night amid calls for the Prime Minister to resign and a photograph of", start: 36.42, end: 52.29}
+  - {text: "an elephant carrying a dead calf wins a prestigious prize.", start: 52.29, end: 55.51}
+  - {text: "Floremmyr Zelensky has accused Donald Trump of not acting on the right side of history.", start: 58.32, end: 62.84}
+  - {text: "Speaking in a TV interview, the Ukrainian president said an apparent decision to curb access to Elon Musk's satellite communication system was a boon to Russia.", start: 63.18, end: 73.14}
+  - {text: "On Monday and Tuesday, Russian drones hit targets in the capital Kyiv without Ukraine being able to issue warnings to residents, leading to civilian deaths.", start: 73.86, end: 82.44}
+  - {text: "The Ukrainian leader said it was clear that Elon Musk's satellite system Starlink had been, as he put it, altered in the dead of night.", start: 83.00, end: 90.38}
+  - {text: "Mr Zelensky also said it was painful when President Trump chose one side, not our side, as he put it.", start: 90.98, end: 97.08}
+  - {text: "He was in the UK on Wednesday, meeting the Prime Minister, Andy Burnham, who announced Britain would speed up delivery to Ukraine of lightweight, multi -role missiles.", start: 97.68, end: 106.24}
+  - {text: "He used to bring down Russian drones.", start: 106.72, end: 108.66}
+  - {text: "Our correspondent Joe Inwood was following events.", start: 109.04, end: 111.98}
+  - {text: "Sometimes in diplomacy, actions speak louder than words.", start: 112.56, end: 116.10}
+  - {text: "A guard of honor in Downing Street for Ukraine's president, the message clear.", start: 116.56, end: 120.54}
+  - {text: "Floremmyr Zelensky is amongst friends.", start: 121.02, end: 122.56}
+  - {text: "It's in stark contrast to the message that's been coming from Washington for the past week, with a US deal to buy Russian diesel and calls for President Zelensky to quit.", start: 125.64, end: 135.16}
+  - {text: "That was why, speaking to Piers Morgan, Floremmyr Zelensky said this.", start: 135.62, end: 139.34}
+  - {text: "Do you feel betrayed by what has been happening?", start: 139.34, end: 142.36}
+  - {text: "Really, yes. President Zelensky made it clear that the US has limited intelligent sharing and that a vital communications system, Starlink, has been partly disabled.", start: 142.88, end: 152.54}
+  - {text: "Do you think he has deliberately turned the speed down on Starlink to damage it?", start: 153.16, end: 157.76}
+  - {text: "I'm sure that they knew what they did.", start: 157.86, end: 160.64}
+  - {text: "Absolutely. Because it was one AM, so one at night Starlink was blocked.", start: 160.98, end: 167.92}
+  - {text: "Starlink, made by Elon Musk's SpaceX company, is a vital communication system used right across the Ukrainian military.", start: 168.28, end: 175.36}
+  - {text: "Now it uses a vast array of satellites to provide a signal that the Russians can't jam for ground forces on the sea and crucially for drones.", start: 175.92, end: 184.16}
+  - {text: "Now last night, suddenly, anything moving at more than 100 miles an hour couldn't connect and that meant the Ukraine's drones, which are vital for attacking and defending, were badly affected.", start: 184.84, end: 195.48}
+  - {text: "A key of apartment block struck in the middle of the night.", start: 197.72, end: 200.56}
+  - {text: "Emergency services risking their lives, ordinary people losing theirs.", start: 201.89, end: 207.35}
+  - {text: "We were at home when all of a sudden the windows just blew out.", start: 207.75, end: 211.09}
+  - {text: "There was a flash of light and that was it.", start: 211.29, end: 213.05}
+  - {text: "I immediately called my husband, he rushed home from work and it turned out there had been an attack.", start: 213.73, end: 218.65}
+  - {text: "This is yet another shameful Trump betrayal.", start: 219.31, end: 223.19}
+  - {text: "Now all of this has led to accusations of betrayal, including in the House of Commons today, where the Prime Minister was asked if it was time to stand up to President Trump.", start: 223.61, end: 232.55}
+  - {text: "What I have to do in my role is try and repair bridges so that the support comes back and therefore I should at this moment", start: 232.91, end: 243.24}
+  - {text: "in time be careful in terms of laying the ground to to bring people back together.", start: 243.24, end: 248.90}
+  - {text: "That is the role I intend to play.", start: 249.12, end: 250.90}
+  - {text: "Tonight Elon Musk, who many have blamed for restricting Starlink, put out a statement saying any decision was not his but made by the Department of Defense and ultimately, as so often, by President Trump.", start: 251.24, end: 263.56}
+  - {text: "Joe Inwood Ukraine's former Defense Minister Mikhailov Fedorov said on Wednesday evening that access to Starlink had been partially restored, but added that the next step should be to work on removing all speed restrictions on its military version, StarShield.", start: 264.58, end: 279.48}
+  - {text: "For more on Elon Musk's response to all this, I spoke to our Washington correspondent, Ioni Wells.", start: 280.08, end: 285.42}
+  - {text: "Elon Musk has essentially said that this would be something decided by the U .S.", start: 286.06, end: 290.58}
+  - {text: "military and ultimately, as a result, the President of the United States.", start: 290.60, end: 293.66}
+  - {text: "He was also keen to differentiate between this battlefield communication system, which is known as StarShield, as opposed to the Starlink satellite system which civilians use for connecting to the Internet.", start: 293.94, end: 304.54}
+  - {text: "Both are designed by his company SpaceX, but Starlink, the one used by civilians, isn't allowed to be used for such offensive operations.", start: 304.70, end: 312.60}
+  - {text: "It sounds very much like Elon Musk is putting the ball in Washington's court then for this.", start: 313.04, end: 318.50}
+  - {text: "Has there been any response from the Trump administration?", start: 318.64, end: 320.76}
+  - {text: "Not yet, but I think the reason he's keen to do that is this is a growing concern that Ukrainian officials have raised publicly and privately that the U .S.", start: 321.40, end: 330.12}
+  - {text: "is essentially trying to disrupt some of their capabilities when it comes to both defending and offensive strikes towards Russia.", start: 330.14, end: 337.42}
+  - {text: "President Trump on Tuesday said that the U .S.", start: 337.70, end: 340.44}
+  - {text: "had not stopped sharing intelligence with Ukraine.", start: 340.46, end: 342.68}
+  - {text: "He said, we're helping them, we're sharing intel, we want the war to end, that the U .S.", start: 342.90, end: 347.10}
+  - {text: "was working with both Russia and Ukraine to try and achieve that.", start: 347.10, end: 349.92}
+  - {text: "But then we had quite strong language, both from President Zelensky himself, but also from Ukrainian officials briefing that essentially Americans had told their Ukrainian counterparts that the systems they used to detect Russian missile launches had failed due to bad weather,", start: 350.10, end: 364.64}
+  - {text: "something which the Ukrainians didn't believe is an excuse.", start: 364.92, end: 367.88}
+  - {text: "They thought the U .S.", start: 368.16, end: 368.98}
+  - {text: "was sort of playing with their system.", start: 369.00, end: 370.50}
+  - {text: "I think the repercussions of this are why this matters.", start: 371.46, end: 374.02}
+  - {text: "President Zelensky was pretty clear on Wednesday that hundreds of thousands of people have been left without power.", start: 374.38, end: 378.92}
+  - {text: "Others have been killed in what was a big barrage of Russian ballistic missiles and drone attacks overnight, targeting some key infrastructure in Kiev and in Kharkiv.", start: 378.92, end: 388.32}
+  - {text: "And I think the concern is that if this is being disrupted by a failure to comply on the U .S.'s behalf, then that could have", start: 388.60, end: 395.66}
+  - {text: "serious diplomatic consequences too between the two countries.", start: 395.66, end: 398.30}
+  - {text: "Is the timing of this significant?", start: 398.78, end: 400.10}
+  - {text: "Because, of course, it comes just days after President Trump declared that energy ceasefire between Russia and Kiev.", start: 400.26, end: 406.72}
+  - {text: "Yeah, that's right. And I think after that ceasefire was announced was when we suddenly saw quite a significant ballistic missile barrage particularly aimed at the Capitol Kiev.", start: 406.72, end: 415.28}
+  - {text: "And that's what's caused particular concern that despite that announcement from the U .S., Russian attacks seem to have intensified.", start: 415.66, end: 422.86}
+  - {text: "And now Ukraine is sounding the alarm that, despite what the U .S.", start: 423.22, end: 426.56}
+  - {text: "has been saying, they don't feel like their systems to detect attacks, but also essentially strike back, are working as well as they should be.", start: 426.60, end: 434.20}
+  - {text: "But we have not heard much when it comes to sort of official on -record statements from the U .S.", start: 434.20, end: 439.86}
+  - {text: "at this point in time about whether exactly they are choosing to limit certain communication systems, as both Elon Musk is now suggesting, but also Ukraine has certainly suggested.", start: 439.88, end: 449.86}
+  - {text: "Ioni Wells. U .S.", start: 450.34, end: 452.34}
+  - {text: "Senator Chris Koons, a Democrat and a prominent member of the Senate Foreign Relations Committee, is worried about Donald Trump's changing stance on Ukraine, particularly in", start: 452.46, end: 461.62}
+  - {text: "light of his recent agreement with Vladimir Putin for the U .S.", start: 461.62, end: 465.76}
+  - {text: "to import Russian diesel.", start: 465.78, end: 467.10}
+  - {text: "He spoke to the BBC's James Kumurosami.", start: 467.44, end: 470.14}
+  - {text: "It's urgent that the United States restore intelligent sharing and public support to Volodymyr Zelensky and the brave fighters of Ukraine.", start: 470.58, end: 479.84}
+  - {text: "A dozen of us Republicans and Democrats in the U .S.", start: 480.44, end: 483.80}
+  - {text: "Senate have sent an urgent letter to President Trump calling on him to respect the law, blocking Russian oil and gas exports into the United States.", start: 483.94, end: 493.72}
+  - {text: "Can we dig down a bit into what is happening with these vital Starlink and Starsheel satellites, though?", start: 494.02, end: 499.46}
+  - {text: "They are owned by Elon Musk, but operated, we understand, by the Pentagon.", start: 499.62, end: 504.70}
+  - {text: "Is that how you understand it?", start: 505.32, end: 506.86}
+  - {text: "Does the buck stop at the Pentagon in the short term for this?", start: 507.08, end: 510.26}
+  - {text: "Look, I don't have details that I can share with you about exactly what is happening, whether this is a temporary problem or there was a policy decision to throttle the quality", start: 510.50, end: 521.78}
+  - {text: "and the speed with which Starlink and Starsheel are providing real -time data about incoming Russian diesel.", start: 521.78, end: 529.26}
+  - {text: "So it could be a problem rather than a policy, you think?", start: 529.56, end: 531.82}
+  - {text: "I think that is possible, but the fact that President Zelensky has publicly called out Elon Musk and President Trump for having laid bare their capital key to Russian attacks last night strongly suggests to me", start: 532.04, end: 545.98}
+  - {text: "that they have intelligence that backs up that claim.", start: 545.98, end: 548.24}
+  - {text: "U .S. Senator Chris Coons.", start: 548.96, end: 550.66}
+  - {text: "Thousands of students have been protesting on the streets of Albania's capital, Tirana, for the second night running, demanding the resignation of the Prime Minister.", start: 551.76, end: 559.86}
+  - {text: "The demonstrators are angry about what they say are poor university conditions, dire job prospects and widespread corruption.", start: 560.60, end: 567.78}
+  - {text: "The Interior Minister, Irvan Demo, described the rioting as malicious and said the law would not forget the destructive frenzy.", start: 568.18, end: 575.94}
+  - {text: "Here's our global affairs reporter, Paul Moss.", start: 576.50, end: 578.66}
+  - {text: "Cheers from the crowd as Albania's constitutional court building succumbs to a sustained onslaught, pelted with rocks its doors rammed open and then the building set on fire.", start: 582.94, end: 594.34}
+  - {text: "Police in riot gear advance but then at times appeared to retreat as a sea of protesters spread through the streets of central Tirana, tearing up paving stones to users' missiles,", start: 597.74, end: 608.30}
+  - {text: "pausing at times to destroy bus stops, traffic lights, anything appeared to be a target.", start: 608.80, end: 614.20}
+  - {text: "This was the second night of rioting, but it marks an escalation of protests which began back in May.", start: 616.46, end: 622.56}
+  - {text: "That was when a deal was announced with Donald Trump's daughter Ivanka and her husband Jared Kushner to build a hotel complex on what is currently a nature reserve.", start: 623.04, end: 632.70}
+  - {text: "Claims that the deal lacked transparency have now brought it into more general anger at Albania's government.", start: 633.04, end: 639.36}
+  - {text: "We are here to protest against our most corrupt government ever who is misusing and abusing our environment, our natural resources.", start: 639.68, end: 648.50}
+  - {text: "This is the most corrupt government that our country has ever seen and it needs to go as soon as possible.", start: 649.08, end: 654.67}
+  - {text: "This protest is not only for the students, it's all for the people of Albania.", start: 654.93, end: 659.09}
+  - {text: "Police say they faced constant violence from the protesters, including attacks with Molotov cocktails which have injured several officers.", start: 667.33, end: 675.59}
+  - {text: "But a delegation from the European Union said it noted reports that police themselves had responded with excessive force.", start: 676.21, end: 683.37}
+  - {text: "It called for restraint from all sides.", start: 683.85, end: 685.97}
+  - {text: "So far though, there's little sign of anyone heeding that appeal.", start: 686.45, end: 690.15}
+  - {text: "That's the sound of the last news items broadcast on Halk TV.", start: 697.20, end: 712.57}
+  - {text: "Until Wednesday it was Turkey's main private opposition television channel.", start: 712.97, end: 716.83}
+  - {text: "But it's been raided and shot down by police.", start: 717.35, end: 719.79}
+  - {text: "James Kumurasami heard more about its closure from the journalist Emily Wither in Istanbul.", start: 720.33, end: 725.19}
+  - {text: "This was one of the most popular news TV stations in Turkey.", start: 726.05, end: 731.25}
+  - {text: "It's seen as being more opposition aligned.", start: 731.61, end: 734.29}
+  - {text: "Over 90 % of the media in Turkey now is government controlled.", start: 734.89, end: 739.01}
+  - {text: "Halk TV was not.", start: 739.71, end: 740.87}
+  - {text: "It translates as public TV.", start: 741.15, end: 742.85}
+  - {text: "It was regularly fined.", start: 743.55, end: 745.25}
+  - {text: "It's been briefly shut down in the past.", start: 745.31, end: 747.41}
+  - {text: "For example, it was one of the only channels here that showed the big protests in 2025 after the opposition mayor was arrested here.", start: 747.63, end: 755.23}
+  - {text: "But a court order eventually prevented that coverage.", start: 755.61, end: 758.63}
+  - {text: "So it really was and is a very popular channel and it's now been taken over by a state appointed trustee.", start: 759.21, end: 766.39}
+  - {text: "So it was really quite dramatic.", start: 766.63, end: 767.55}
+  - {text: "There was a dawn raid at 6 .30am and the live broadcast was halted as hundreds of police went into the station.", start: 768.03, end: 775.89}
+  - {text: "They weren't able to arrest the channel's owner because he's out of the country.", start: 776.27, end: 780.43}
+  - {text: "But that's really what this main investigation, the Istanbul Chief Prosecutor's Office says is the target.", start: 780.57, end: 786.95}
+  - {text: "11 people were taken into custody as part of 17 arrest warrants.", start: 787.15, end: 792.05}
+  - {text: "And they've been issued over bribery, tender rigging and laundering of assets derived from crime.", start: 792.27, end: 798.51}
+  - {text: "That's according to the Prosecutor's Office.", start: 798.51, end: 800.79}
+  - {text: "And what is the TV station and its owner saying?", start: 801.09, end: 803.55}
+  - {text: "They are saying that this is an attack on democracy.", start: 803.79, end: 806.97}
+  - {text: "But this is part of a wider crackdown against media critics of the Turkish president Tayyip Erdogan.", start: 807.27, end: 813.33}
+  - {text: "Many journalists who are not towing the government line have also had their social media accounts shut down.", start: 813.57, end: 819.05}
+  - {text: "We've seen what's happened at this channel happen already with several other major broadcasters here where they have been temporarily shut down and then run by a state appointed trustee.", start: 819.43, end: 830.83}
+  - {text: "So this is tried and tested.", start: 830.83, end: 832.01}
+  - {text: "Put this, if you will, into the bigger picture of what is happening to the opposition in Turkey at the moment.", start: 832.41, end: 837.97}
+  - {text: "You mentioned the mayor of Istanbul who was jailed.", start: 838.11, end: 841.37}
+  - {text: "He's meant to or was meant to be starting his defense today.", start: 841.39, end: 845.43}
+  - {text: "Exactly. So that's quite interesting timing.", start: 845.85, end: 848.21}
+  - {text: "When the mayor Ekrem Ememolu was due to start his defense, you know, that would have been covered on this TV channel.", start: 848.45, end: 854.11}
+  - {text: "It's not going to be covered on most of the other TV channels in Turkey.", start: 854.45, end: 858.71}
+  - {text: "This is all part of the government controlling what Turks see and read in the news.", start: 859.23, end: 864.83}
+  - {text: "The appointment of state trustees happens a lot here.", start: 865.33, end: 868.23}
+  - {text: "We've seen the government do it when they've seized companies that they've not been happy with, when they've seized opposition controlled municipalities.", start: 868.49, end: 875.81}
+  - {text: "There are just so many arrests happening in the country now on a near daily basis.", start: 876.71, end: 881.47}
+  - {text: "It's really hard to keep up.", start: 881.97, end: 883.27}
+  - {text: "Emily Wither speaking to James Kumarasami.", start: 883.85, end: 886.23}
+  - {text: "Still to come in this podcast?", start: 888.81, end: 890.01}
+  - {text: "I think over the long haul, number starting to reduce, we've certainly seen it in track.", start: 890.57, end: 896.03}
+  - {text: "There still remain some challenges in the road events.", start: 896.27, end: 898.67}
+  - {text: "The world athletics president arrives in Nairobi amid criticism of the decision to award the Kenyan capital the world championships in 2029 over its stopping record.", start: 899.35, end: 908.57}
+  - {text: "This is the Global News podcast.", start: 915.91, end: 917.85}
+  - {text: "It's been on hold for over a decade, but a four -lane road bridge between China and North Korea has finally opened.", start: 919.20, end: 925.90}
+  - {text: "The new Yellow River Bridge signals improved relations and a renewed push to boost trade despite Pyongyang's wariness of greater economic dependence on its powerful neighbour.", start: 926.54, end: 935.88}
+  - {text: "But why now? I asked our Beijing correspondent, Stephen MacDonald.", start: 936.36, end: 939.78}
+  - {text: "Some would say it's all summed up in one word, which is Russia.", start: 940.54, end: 945.18}
+  - {text: "Now, that might seem strange to many listeners, but if you look at China and its relationship with North Korea officially, they say they're the best of friends, brothers,", start: 945.54, end: 956.44}
+  - {text: "they fought side by side in the Korean War.", start: 956.76, end: 959.50}
+  - {text: "You know, they're always sort of talking up their relationship.", start: 959.94, end: 961.90}
+  - {text: "But in reality, it's been fraught with pressure for decades, partly because of North Korea's buildup of weapons, including nuclear weapons with which China has opposed.", start: 961.90, end: 972.84}
+  - {text: "But in recent times, North Korea has been getting closer to Russia and even sending North Korean troops into the meat grinder of that invasion of Ukraine.", start: 972.84, end: 982.52}
+  - {text: "And so because of the war in Ukraine, increasing closeness of North Korea to Russia, well, China's thought, hang on a second, we need to ramp up our relations again with Pyongyang.", start: 983.06, end: 992.34}
+  - {text: "And so I think what they've done is said, look, you know, this bridge project, time to finish it off.", start: 992.76, end: 997.28}
+  - {text: "And at least it can be like a symbolic image, I guess, that relations are improving.", start: 997.34, end: 1002.30}
+  - {text: "And they probably are to tell the truth.", start: 1002.66, end: 1004.40}
+  - {text: "What about the rule of the US in all of this?", start: 1004.60, end: 1007.32}
+  - {text: "Well, the main role of the US, I guess, is that, again, you look at what does China get from its relationship with North Korea?", start: 1007.70, end: 1014.76}
+  - {text: "It sees it as a country that destabilizes the region.", start: 1015.08, end: 1018.74}
+  - {text: "It's annoyed with their eccentric extreme policies.", start: 1019.08, end: 1021.76}
+  - {text: "And yet really what China gets is a buffer state.", start: 1022.18, end: 1025.18}
+  - {text: "Because if South and North Korea were to ever unite, and if it was to be dominated by the South, well, there's US troops in South Korea, China doesn't want them on the border.", start: 1025.54, end: 1037.00}
+  - {text: "So it's got this fantastic buffer state at the moment.", start: 1037.12, end: 1039.76}
+  - {text: "And so that's the role of the US.", start: 1040.10, end: 1041.76}
+  - {text: "Basically, China puts up with an awful lot of nonsense from North Korea just to have that buffer to keep US troops away from its border.", start: 1041.90, end: 1050.86}
+  - {text: "North Korea's economic fortunes have been on the upturn recently.", start: 1051.22, end: 1054.72}
+  - {text: "This can only add to that, I guess.", start: 1054.92, end: 1056.50}
+  - {text: "Yeah. So the bridge will mostly be used for freight.", start: 1057.00, end: 1060.54}
+  - {text: "I don't think people expect many passenger vehicles crossing that bridge.", start: 1060.72, end: 1064.08}
+  - {text: "And yeah, it's all about trade.", start: 1064.40, end: 1066.06}
+  - {text: "Now, it wouldn't have been hard to improve North Korea's economy given how terrible it was.", start: 1066.18, end: 1071.48}
+  - {text: "But yes, in recent times, people who've come out of that secretive state have said that economic conditions are improving.", start: 1071.84, end: 1078.10}
+  - {text: "And it's partly because of trade between China, Russia and North Korea.", start: 1078.46, end: 1082.86}
+  - {text: "Stephen McDonald. The acclaimed Irish author, Sally Rooney, has said she can no longer sell her books in Britain because of her support for the banned protest group Palestine Action.", start: 1082.86, end: 1093.66}
+  - {text: "The UK government's ban has been widely criticised as a misuse of counterterrorism legislation.", start: 1094.34, end: 1099.76}
+  - {text: "Our arts correspondent, David Silito reports.", start: 1100.44, end: 1102.84}
+  - {text: "Normal people, beautiful world, conversations with friends, books that have brought huge critical acclaim and sales and made the Irish author Sally Rooney one of our best known contemporary novelists.", start: 1103.68, end: 1115.28}
+  - {text: "But her publisher, Faber, in full agreement with the writer, has now decided to suspend publishing in the UK.", start: 1115.56, end: 1121.48}
+  - {text: "The reason? Sally Rooney's support for the direct action group Palestine Action.", start: 1122.02, end: 1126.54}
+  - {text: "It was declared a prescribed organisation last year.", start: 1126.88, end: 1129.90}
+  - {text: "A spokesperson for Faber said, current legislation meant it could not pass on UK earnings to Sally Rooney, adding that to sell a writer's work and", start: 1130.52, end: 1138.36}
+  - {text: "not be able to pass on earnings was an unconscionable situation for a publisher.", start: 1138.36, end: 1142.80}
+  - {text: "Books already in stores will remain on sale, but Faber will not be printing further copies.", start: 1143.34, end: 1147.98}
+  - {text: "There is also a question mark over the screening of TV adaptations of her work.", start: 1148.74, end: 1152.24}
+  - {text: "The author says she's been advised that payments might be a breach of terrorism laws if it was known she was using the royalties to fund Palestine Action.", start: 1152.52, end: 1160.66}
+  - {text: "David Silito. The world athletics president says he hopes holding the 2029 World Championships in Nairobi will create a legacy for Africa.", start: 1160.66, end: 1170.26}
+  - {text: "Sebastian Koh made the comments during a visit to the Kenyan capital.", start: 1171.04, end: 1174.08}
+  - {text: "He said the country is making progress in its fight against doping.", start: 1174.60, end: 1177.78}
+  - {text: "He also insisted that the gene testing system he introduced to regulate female competition beginning with last year's World Championships in Tokyo is working and remains critical to defend women's sport.", start: 1178.40, end: 1190.60}
+  - {text: "Lord Koh spoke to Peter Minungranji beginning with that decision to choose Nairobi as a world championship venue.", start: 1191.20, end: 1198.22}
+  - {text: "We always said that at the right time in the right city, with the right structures, with the right government support, with the right funding in place,", start: 1199.05, end: 1208.21}
+  - {text: "have that opportunity to build our sport to an even higher level in the continent.", start: 1208.75, end: 1213.75}
+  - {text: "And the legacy behind it is important because it's a hard legacy of a new facility, but it's also the softer legacy, the human capital that you build up", start: 1214.05, end: 1224.67}
+  - {text: "because it's really important that countries are able to deliver those championships and more championships going forward.", start: 1224.67, end: 1234.45}
+  - {text: "What is your assessment of what needs to be done by Kenya between now and 2029?", start: 1234.67, end: 1239.19}
+  - {text: "A lot, but I would be saying that at this stage to any host city.", start: 1239.19, end: 1243.65}
+  - {text: "The World Championships is hugely important to world athletics.", start: 1243.99, end: 1247.29}
+  - {text: "It accounts for well over 90 % of our revenues.", start: 1247.63, end: 1250.99}
+  - {text: "And those revenues are critical because it allows us to build our development programs, our competition programs, innovation, certainly to fund as well as we possibly can our member federations.", start: 1251.53, end: 1263.77}
+  - {text: "And the World Championships is complicated.", start: 1263.95, end: 1265.61}
+  - {text: "You know, the 46 different disciplines, it's over nine days, 2 ,000 athletes, and you want the kind of operational integration that gives every opportunity for the athlete to perform as well as they possibly can.", start: 1266.17, end: 1281.55}
+  - {text: "Last week, the president of the World Antidoping Agency, Vital Banker, was here and he said that Kenya must demonstrate that it is clean for those World Championships to be seen as credible.", start: 1281.91, end: 1292.93}
+  - {text: "Now, since 2017, more than 140 Kenyan athletes have been suspended for doping.", start: 1293.21, end: 1299.19}
+  - {text: "Given all of this and some criticism, how worried are you about the credibility of the 2029 World Championships?", start: 1299.47, end: 1306.25}
+  - {text: "Look, I'm always worrying about all issues related to integrity in our sport.", start: 1306.87, end: 1311.69}
+  - {text: "When I became president, the first thing I did was to create the Athletics Integrity Unit.", start: 1311.95, end: 1316.89}
+  - {text: "And at operational level, we work very, very closely with Kenya.", start: 1317.51, end: 1321.51}
+  - {text: "And that's beginning to work.", start: 1321.81, end: 1323.09}
+  - {text: "The challenge, of course, is the more tests you do and the greater levels of funding, and the more sophisticated you become with the technology, the more you're probably going to catch, I think, over the long haul, number starting to reduce.", start: 1323.41, end: 1337.83}
+  - {text: "We've certainly seen it in track.", start: 1338.01, end: 1339.97}
+  - {text: "There still remain some challenges in the road events.", start: 1340.25, end: 1342.63}
+  - {text: "Part of your legacy has been the introduction of the SRY gene testing for the female category.", start: 1342.91, end: 1348.63}
+  - {text: "The new regulations have had a restrictive impact on the ability of certain African athletes to compete.", start: 1349.03, end: 1355.05}
+  - {text: "I wonder how happy you are with the impact of those regulations and do you believe that they have done the job that they were supposed to do?", start: 1355.31, end: 1361.71}
+  - {text: "The implementation of SRY testing is absolutely critical that we defend properly women's sport, our women, our box office, you know, in Kenya, athletes like Faith", start: 1361.85, end: 1373.97}
+  - {text: "Kip Jagan can't walk through city centers in Europe without people wanting to take photographs.", start: 1373.97, end: 1378.69}
+  - {text: "They're very big, big figures.", start: 1378.99, end: 1380.57}
+  - {text: "And the SRY testing was there to make sure that we are able to uphold female eligibility, that we can be absolutely clear about that demarcation.", start: 1380.89, end: 1392.25}
+  - {text: "And also, none of those policies were implemented with anything in mind other than giving some certainty and the foundations of that integrity in all of our six continents.", start: 1392.25, end: 1405.33}
+  - {text: "Samastien Koh speaking to Peter Moonganji.", start: 1405.87, end: 1408.43}
+  - {text: "Now, a bumble bee landing on a flower, storks collecting material for a nest, an octopus peaking from behind kelp.", start: 1408.97, end: 1416.33}
+  - {text: "Those are just some of the winning entries from the wildlife photographer of the year competition, the top prize went to a black and white shot", start: 1416.75, end: 1423.65}
+  - {text: "of a female elephant carrying a dead calf.", start: 1423.65, end: 1425.81}
+  - {text: "Its leg weds between her tusk and trunk.", start: 1426.21, end: 1428.43}
+  - {text: "Federico Veronesi told us how he took the photo after spotting an unusual trail of drag marks in Namibia's Hoab River Valley.", start: 1429.23, end: 1437.05}
+  - {text: "We had seen the elephants the same family the night before, then the next morning, we came across the scene by after following the tracks in the dry river bed.", start: 1437.57, end: 1446.95}
+  - {text: "So it's not something you prepare for.", start: 1446.95, end: 1448.91}
+  - {text: "I grabbed the camera quite rapidly, but actually the situation carried on for quite a long time.", start: 1449.29, end: 1455.09}
+  - {text: "She kept the baby with her for the whole morning.", start: 1455.23, end: 1457.71}
+  - {text: "So I took these few images and then I realized, oh my God, this is so intimate and so personal.", start: 1458.23, end: 1464.35}
+  - {text: "And I felt almost like violating the privacy and the intimacy of this moment and of these elephants.", start: 1464.57, end: 1472.05}
+  - {text: "But eventually I realized how important it was for this story to be told.", start: 1472.39, end: 1478.17}
+  - {text: "And it's an extremely fascinating behavior, not frequently seen, which reveals an incredible depth of feelings and emotions that go through this elephant.", start: 1478.51, end: 1491.71}
+  - {text: "I initially thought I was seeing the mother of the dead baby, but eventually speaking to the researchers, we realized that this was actually not the mother, but this is a female elephant who had miscarriage a couple of years before.", start: 1492.21, end: 1506.29}
+  - {text: "And ever since then she has been actively looking to pick up and carry with her the babies of all the dead babies, if there were any, also from other females.", start: 1506.51, end: 1516.25}
+  - {text: "So it's quite a fascinating and complex behavior.", start: 1516.45, end: 1519.85}
+  - {text: "There's still a lot of people who don't consider animals, ascension, creatures.", start: 1520.49, end: 1524.53}
+  - {text: "They tend to abuse them, consider them totally expendable resources, whereas they're actually, this image shows how deeply connected we can be and how similar our emotions can be with theirs.", start: 1524.79, end: 1539.03}
+  - {text: "That was wildlife photographer of the year, Frederico Veronesi.", start: 1539.83, end: 1543.31}
+  - {text: "And if you'd like to see his photo and some of the other award -winning pictures, head to our website bbc .com forward slash news.", start: 1543.51, end: 1550.39}
+  - {text: "From photographer of the year to animal of the year, a dog that sniffs out invasive sea creatures that damage marine ecosystems has been recognized for her work by UK charity.", start: 1552.22, end: 1562.84}
+  - {text: "Our science correspondent Victoria Gill has been finding out how the Labrador does it.", start: 1563.44, end: 1568.02}
+  - {text: "Here the Marine Ecology Labrador and her owner work at low tide on the west coast of Scotland.", start: 1570.49, end: 1575.81}
+  - {text: "They're searching, or whiskey is concerned, sniffing for a creature called the carpet sea squirt.", start: 1576.47, end: 1581.57}
+  - {text: "It's an invasive species that can smother native wildlife.", start: 1582.09, end: 1584.91}
+  - {text: "If it's not controlled, it can devastate marine environments and economies.", start: 1585.31, end: 1588.75}
+  - {text: "It's also sometimes known as sea vomit because of its rather revolting orange slimy appearance.", start: 1589.53, end: 1594.39}
+  - {text: "Ski has just been named animal of the year for poking her very sensitive nose under the seaweed and searching for the species -specific scent of the carpet sea squirt.", start: 1595.21, end: 1603.73}
+  - {text: "She's trained to freeze and stare when she finds it.", start: 1604.21, end: 1606.89}
+  - {text: "Good girl! While the six -year -old black lab is oblivious to her reward, all this marine conservation work for her is just a game on the beach.", start: 1606.89, end: 1615.45}
+  - {text: "Victoria Gill And that's all from us for now.", start: 1618.53, end: 1623.74}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1623.96, end: 1628.64}
+  - {text: "You can also find us on x at BBC World Service.", start: 1628.96, end: 1631.64}
+  - {text: "Use the hashtag globalnewspod.", start: 1632.06, end: 1634.12}
+  - {text: "And don't forget our sister podcast, The Global Story, which goes in -depth and beyond the headlines on one big story.", start: 1634.58, end: 1641.04}
+  - {text: "This edition of the Global News Podcast was mixed by Pat Sissons and the producer was Emma Joseph.", start: 1641.72, end: 1646.96}
+  - {text: "The editor is Karen Martin.", start: 1647.36, end: 1648.78}
+  - {text: "I'm Pete Ross. Until next time, goodbye.", start: 1649.18, end: 1652.18}
+---
