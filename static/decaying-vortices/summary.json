@@ -1,0 +1,62 @@
+{
+  "initial": {
+    "step": 0,
+    "time": 0.0,
+    "energy": 0.5000000000471131,
+    "enstrophy": 66.8269535365145,
+    "viscous_gradient_estimate": 0.06682697297968287,
+    "interior_enstrophy": 141.19667306531366,
+    "interior_vortex_stretching": -119.1628659932547,
+    "w_rms": 0.3575472442088356,
+    "max_vorticity": 64.49078369140625,
+    "positive_Q_fraction": 0.17780494689941406,
+    "windowed_energy_fraction_k_ge_8": 1.7359269798725798e-07,
+    "windowed_energy_fraction_k_ge_N_over_3": 5.42080475600403e-13
+  },
+  "final": {
+    "step": 6000,
+    "time": 1.5,
+    "energy": 0.1047124959572352,
+    "enstrophy": 108.40044572302416,
+    "viscous_gradient_estimate": 0.1085463174767763,
+    "interior_enstrophy": 120.28766876594476,
+    "interior_vortex_stretching": 520.89143670494,
+    "w_rms": 0.2689589349844892,
+    "max_vorticity": 108.11493682861328,
+    "positive_Q_fraction": 0.34725332260131836,
+    "windowed_energy_fraction_k_ge_8": 0.07183388752165147,
+    "windowed_energy_fraction_k_ge_N_over_3": 8.186855741255772e-06
+  },
+  "peak_enstrophy": {
+    "step": 1950,
+    "time": 0.4875,
+    "energy": 0.387677641477158,
+    "enstrophy": 269.4642913145883,
+    "viscous_gradient_estimate": 0.27000195464383064,
+    "interior_enstrophy": 217.35157231493537,
+    "interior_vortex_stretching": 916.5630831887502,
+    "w_rms": 0.4995728915451292,
+    "max_vorticity": 287.8366394042969,
+    "positive_Q_fraction": 0.28205204010009766,
+    "windowed_energy_fraction_k_ge_8": 0.01821450511623007,
+    "windowed_energy_fraction_k_ge_N_over_3": 8.034898841234583e-07
+  },
+  "max_high_k_fraction": {
+    "step": 4800,
+    "time": 1.2,
+    "energy": 0.15763993860595152,
+    "enstrophy": 165.24423138615492,
+    "viscous_gradient_estimate": 0.16551294641263686,
+    "interior_enstrophy": 180.58041879267304,
+    "interior_vortex_stretching": 950.1261845701861,
+    "w_rms": 0.34222855184509887,
+    "max_vorticity": 145.87168884277344,
+    "positive_Q_fraction": 0.32350873947143555,
+    "windowed_energy_fraction_k_ge_8": 0.07279828886178757,
+    "windowed_energy_fraction_k_ge_N_over_3": 1.135882922707031e-05
+  },
+  "max_logged_divergence": 1.5835809911e-12,
+  "max_logged_CFL": 0.219260617075,
+  "max_logged_normal_wall_velocity": 4.20849410876e-13,
+  "energy_nonincreasing": true
+}
