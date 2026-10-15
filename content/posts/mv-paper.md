@@ -108,78 +108,19 @@ convention. All configurations use {{< label "grid" "G-64" >}} ($64 \times 64 \t
 
 ### 2.2 Background (Eulerian) grids
 
-
-{{< table-caption "3" "Eulerian grid dimensions and time steps" >}}
-
-| Grid | $N_x \times N_y \times N_z$ | Cells | $h_x = h_y$ (cm) | $h_z$ (cm) | $\Delta t$ (s) | Steps / 1.335 s |
-|:---|---:|---:|---:|---:|---:|---:|
-| {{< label "grid" "G-64" >}} | $64 \times 64 \times 96$ | 393,216 | 0.1344 | 0.1688 | $2 \times 10^{-5}$ | 66,750 |
-| {{< label "grid" "G-128" >}} | $128 \times 128 \times 192$ | 3,145,728 | 0.0672 | 0.0844 | $1 \times 10^{-5}$ | 133,500 |
-| {{< label "grid" "G-256" >}} | $256 \times 256 \times 384$ | 25,165,824 | 0.0336 | 0.0422 | | |
-| IBAMR (reference) | $44 \times 44 \times 80$ | 154,880 | 0.195 | 0.2025 | $5 \times 10^{-6}$ | 267,000 |
-
-Multigrid requires $N$ to be a power of two (64, 128, 256).
-> TODO: this is not totally correct. 96 also can be used but the coarest grids are different.
+The study uses G64, G128 and G256 grids in the $8.6 \times 8.6 \times 16.2$ cm domain.
+Exact grid spacings, time-step choices and the IBAMR reference grid are collected in the
+[mesh and refinement note]({{< relref "mv-meshes.md" >}}#2-eulerian-grids).
 
 ### 2.3 Solid (Lagrangian) meshes
 
-Built directly from the IBAMR mesh `MV_only_hex.xda` (11,567 HEX8 + 10,686 TET4; two duplicated elements removed)
-with `fdm-3d-v1-geometry/scripts/gen_glamv_hex.py`;
-
-
-{{< table-caption "4" "Lagrangian mesh inventory" >}}
-
-| Solid mesh | Nodes (IB markers) | Hexes (Q1/Q2) | Tets (P1/P2) | Volume (cm³) |
-|:---|---:|---:|---:|---:|
-| {{< label "mesh" "R0/P1" >}}  | | | | |
-| {{< label "mesh" "R0/P2" >}} | 169,923 | 0 | 80,074 | 90.777675 |
-| {{< label "mesh" "R0/P1+Q1" >}}  | | | | |
-| {{< label "mesh" "R0/Q2+P2" >}}  | | | | |
-| {{< label "mesh" "R1/P1" >}}  | | | | |
-| {{< label "mesh" "R1/P1+Q1" >}} | 169,094 | 92,520 | 85,488 | 90.777924 |
-| {{< label "mesh" "R1/Q2+P2" >}}  | | | | |
-| {{< label "mesh" "R2/P1+Q1" >}} | 1,098,199 | 740,160 | 683,904 | 90.777933 |
-
-{{< label "mesh" "R0/P1+Q1" >}} is IBAMR mesh.
-$\mathrm{MFAC}\approx 0.5\text{–}1$ should be considered for each combination of grid and mesh.
-
-
-Per component (nodes / cells / median edge length / MFAC on the paired grid) (just for {{< label "mesh" "R0/P1+Q1" >}} now):
-
-{{< table-caption "5" "Component mesh sizes and mesh factors" >}}
-
-| Component | {{< label "mesh" "R0/P1+Q1" >}} nodes | {{< label "mesh" "R0/P1+Q1" >}} cells | {{< label "mesh" "R0/P1+Q1" >}} edge (cm) | MFAC {{< label "mesh" "R0/P1+Q1 @ G-64" >}} |
-|:---|---:|---:|---:|---:|
-| Tube (marker 1) | 16,848 | 8,320 hex | 0.218 | 1.62 |
-| Housing disc (42) | 3,773 | 10,650 tet | 0.169 | 1.26 |
-| Leaflets (AML + PML) | 4,004 | 1,872 hex + 36 tet | 0.093 | 0.69 |
-| Chordae (100/200/300) | 5,217 | 1,343 hex | 0.046 | 0.34 |
-| Tether caps (1001–2005) | 220 | 30 hex | 0.040 | 0.30 |
-
-> Known mesh issues inherited from the IBAMR model: chordae branch junctions where one hex face is shared by more
-> than two hexes (≈ 70 quads at {{< label "mesh" "R0/P1+Q1" >}}), and a few poorly shaped chordae hexes (scaled Jacobian down to 0.07).
-> The tube wall MFAC (1.6) is above 1 on both pairs; possible leakage through the wall is checked by the flux
-> balance along the tube (§5.1).
-
-**Element types: a hybrid hexahedral / tetrahedral mesh.** The {{< label "mesh" "R0/P1+Q1" >}} and {{< label "mesh" "r1" >}} meshes keep the IBAMR element
-types, so one solid mixes trilinear hexahedra (Q1, HEX8) and linear tetrahedra (P1, TET4):
-
-
-{{< table-caption "6" "Element counts by anatomical structure" >}}
-
-| Structure | Q1 hex ({{< label "mesh" "R0/P1+Q1" >}}) | P1 tet ({{< label "mesh" "R0/P1+Q1" >}}) |
-|:---|---:|---:|
-| Tube (1) | 8,320 | 0 |
-| Housing disc (42) | 0 | 10,650 |
-| Leaflets + annulus (3–7, 23–25, 4099, 5099) | 1,872 | 36 |
-| Chordae (100/200/300) | 1,343 | 0 |
-| Tether caps (1001–2005) | 30 | 0 |
-| **Total** | **11,565** | **10,686** |
-
-The GPU solid code handles both element types in one array: tets are padded to 8 nodes by repeating node 0, and each
-cell carries its own quadrature data in 8 slots (basis values, physical gradients and $w\lvert\det J\rvert$ per point):
-2×2×2 Gauss for a hex, one centroid point for a tet (slots 1–7 have weight 0). One force-assembly kernel serves both. The pure-tet runs use the
-same geometry with every hex split into tets (`glamv_ibamr`, `glamv_conf`).
+The reference solid uses mixed Q1 hexes and P1 tets. R1 and R2 are successive uniform
+subdivisions; P2/Q2 interpolation-order changes are separate experiments.
+Mesh inventories, anatomical marker groups, refinement/data-transfer rules and known limitations
+are documented in the [mesh and refinement note]({{< relref "mv-meshes.md" >}}).
+Its [MFAC tables]({{< relref "mv-meshes.md" >}}#5-mfac-definition-and-sampling-convention)
+give every G64/G128/G256 × R0/R1/R2 combination by anatomical group, with separate transverse
+and axial grid-spacing ratios.
 
 ### 2.4 Keeping the fluid outside the tube at rest
 
@@ -301,7 +242,7 @@ Mitral-valve case (0.0.3 configuration, {{< label "grid" "G-64" >}}, P1 tets, RT
 
 The {{< label "config" "G64/R2/P1+Q1/BF" >}} run completed 66,750 steps to 1.335 s with the same time step, level-D/FMA settings and solid viscosity as R0. Its signed flow volumes use the z ≈ 12 cm curve at 0.01 s sampling. Reported local volume ratios range from $J_{\min}=0.010$ to $J_{\max}=2.454$, including passive-rim cells. Completion does not establish mesh convergence or acceptable local element deformation.
 
-R2 was generated by subdividing each existing R1 cell into eight children, retaining the legacy hex/tet interface-node rule and inheriting material frames and tethers. Although total reference volume changes little, 58 R1 parent cells have a measurable aggregate child-volume change, with a maximum of 5.32 %. This sequence is therefore an exploratory refinement comparison, rather than a strictly geometry-preserving convergence study. The lowest reported J occurs at t = 0.89 s in a marker-2001 papillary cap ($J \approx 0.00990$), with no nonpositive Jacobians found in that exported frame.
+R2 construction and geometry-preservation limitations are described in the [mesh note]({{< relref "mv-meshes.md" >}}#legacy-hextet-interface-treatment). The lowest reported J occurs at t = 0.89 s in a marker-2001 papillary cap ($J \approx 0.00990$), with no nonpositive Jacobians found in that exported frame.
 
 The {{< label "config" "G64/R1/P1+Q1/BF" >}} run completed 66,750 steps to 1.335 s with the same time step, level-D/FMA settings and solid viscosity as R0. Its signed flow volumes use the z ≈ 12 cm curve at 0.01 s sampling. Reported local volume ratios range from $J_{\min}=0.134$ to $J_{\max}=2.692$, including passive-rim cells. Completion does not establish mesh convergence or acceptable local element deformation.
 
