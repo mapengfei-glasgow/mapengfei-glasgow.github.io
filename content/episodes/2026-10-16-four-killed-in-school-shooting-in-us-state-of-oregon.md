@@ -1,0 +1,250 @@
+---
+layout: single
+title: "Four killed in school shooting in US state of Oregon"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-16T00:00:00Z
+slug: "2026-10-16-four-killed-in-school-shooting-in-us-state-of-oregon"
+audioDir: "2026-10-16-four-killed-in-school-shooting-in-us-state-of-oregon"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-16-four-killed-in-school-shooting-in-us-state-of-oregon/episode.mp3"
+totalDuration: 1613.5
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.88}
+  - {text: "I'm Alex Ritzen, and in the early hours of Friday, the 16th of October, these are our main stories.", start: 5.94, end: 12.62}
+  - {text: "At least three children have been killed in a school shooting in the US state of Oregon.", start: 13.16, end: 17.52}
+  - {text: "Britain's Defence Secretary says he's been reassured by the US that Starlink satellite services used by Ukraine's military have been restored.", start: 18.02, end: 26.02}
+  - {text: "And Houthi rebels strike at the heart of Yemen's government, the Presidential Palace in Aden.", start: 26.02, end: 31.60}
+  - {text: "Also in this podcast, Venezuela's ousted President Nicolas Maduro pleads not guilty to conspiracy to torture in a New York court.", start: 33.26, end: 42.20}
+  - {text: "And... Yesterday we published a new line and a new garbage truck and there were several drivers who were there to enjoy the festive revelation.", start: 42.76, end: 51.00}
+  - {text: "A Dutch city gets international recognition for its tradition of printing poetry on rubbish trucks.", start: 51.00, end: 57.88}
+  - {text: "People in the US are absorbing the news of another school shooting.", start: 60.96, end: 65.20}
+  - {text: "An attacker opened fire at a primary school in the city of Bend in the state of Oregon, killing three children and a teacher.", start: 65.46, end: 72.54}
+  - {text: "The youngest child was just five years old.", start: 73.00, end: 75.00}
+  - {text: "The gunman, a 16 -year -old, was shot dead by a member of the public.", start: 75.32, end: 79.12}
+  - {text: "The Bend chief of police, Mike Krantz, was asked how the attacker got into the classrooms.", start: 79.12, end: 84.94}
+  - {text: "From what the initial investigation is showing is the shooter had forced their way into the school by shooting at locked doors.", start: 85.30, end: 93.96}
+  - {text: "The local school's superintendent, Steve Cook, called it an unthinkable tragedy.", start: 94.68, end: 99.34}
+  - {text: "We are heartbroken. We are horrified.", start: 100.04, end: 102.93}
+  - {text: "This is the kind of thing you hear about in other places and pray that it never happens here.", start: 103.83, end: 107.87}
+  - {text: "And it has happened here.", start: 108.50, end: 109.78}
+  - {text: "Today it happened to our children, to our teachers, and to our families.", start: 112.10, end: 116.52}
+  - {text: "To the families that have had loss tonight, we are with you and we will stay with you.", start: 118.22, end: 123.08}
+  - {text: "To our staff who helped our students and protected our kids today, we thank you.", start: 124.40, end: 129.20}
+  - {text: "You did what no one should ever be asked to do.", start: 129.82, end: 131.76}
+  - {text: "I am so grateful beyond words for your efforts.", start: 133.61, end: 135.97}
+  - {text: "School's superintendent, Steve Cook.", start: 137.82, end: 139.98}
+  - {text: "Our North America correspondent Shyma Khalil told us what else the authorities had been saying.", start: 140.56, end: 145.70}
+  - {text: "Police have now confirmed that the suspect was a 16 -year -old from Bent, from the community.", start: 146.30, end: 151.54}
+  - {text: "They also say that everyone at the school has been evacuated, taken by bus to a nearby church where the families are still being reunited.", start: 151.84, end: 160.30}
+  - {text: "We do not know who killed the gunman.", start: 160.94, end: 163.62}
+  - {text: "They also did not say who the gunman was, what his relationship with the school is, or was.", start: 163.62, end: 171.50}
+  - {text: "We do know that the first call was received one minute before one o 'clock in the afternoon local time, and that was a person in a vehicle calling 911,", start: 171.80, end: 181.34}
+  - {text: "reporting being shot at multiple times by someone carrying a long gun.", start: 181.66, end: 186.22}
+  - {text: "This is how they described the gun.", start: 186.38, end: 188.10}
+  - {text: "They did not elaborate on what kind of gun, how many bullets were fired, but as you've heard there that the gunman then went on to the inside the school shooting through locked doors and opening fire.", start: 188.10, end: 200.88}
+  - {text: "We then understand that someone followed him into the school, pursued him and shot him.", start: 201.30, end: 207.10}
+  - {text: "As it stands, three children aged 5, 8, 11, and a teacher were killed at Silver Rail Elementary School, and we know that a 7 -year -old child", start: 207.58, end: 217.68}
+  - {text: "and a teacher are critically injured and have been taken to a local hospital.", start: 217.68, end: 221.36}
+  - {text: "We are expecting another media conference anticipated tomorrow afternoon local time, but we do know that unsurprisingly all school activities have been suspended.", start: 222.12, end: 232.88}
+  - {text: "There's going to be a vigil, there are going to be support groups for the community, but we also know that the Ben Police are leading this investigation supported by FBI, FBI forces,", start: 233.06, end: 243.22}
+  - {text: "and that there's going to be a large police presence in the school for several days.", start: 243.22, end: 249.26}
+  - {text: "And you could hear it in the voice of the governor, the mayor, the superintendent, how shocked and emotional they are, because they always say you do not expect this to happen to you and then it happens to you.", start: 249.40, end: 265.12}
+  - {text: "It happens in your community the number of times we've heard that from different officials in different communities.", start: 265.18, end: 271.08}
+  - {text: "This is the 149th school shooting in the United States so far just this year.", start: 271.08, end: 279.58}
+  - {text: "Yeah, you don't expect it to happen to you.", start: 279.92, end: 282.06}
+  - {text: "You particularly don't expect it to happen in a primary school.", start: 282.06, end: 285.00}
+  - {text: "That's right, and I think the fact that this is an elementary school is going to weigh heavy.", start: 285.76, end: 290.12}
+  - {text: "These are tiny children, you know, from the casualties so far.", start: 290.18, end: 296.12}
+  - {text: "A five -year -old, an eight -year -old, an 11 -year -old killed, a seven -year -old critically injured.", start: 296.12, end: 302.16}
+  - {text: "And you could also hear it from shocked parents' voices that have spoken to local media and our partners, CBS, the fact that they say we just don't believe that this is happening.", start: 302.64, end: 315.30}
+  - {text: "And of course, many questions are going to be asked why it happened, how this 16 -year -old got their hands on a long gun, what kind of long gun, what is the motive, but yet again,", start: 315.98, end: 326.26}
+  - {text: "prepare for the two words, gun control, prepare for the political argument around all of this.", start: 326.98, end: 334.10}
+  - {text: "The question is why does this keep happening again?", start: 334.20, end: 336.62}
+  - {text: "And it has a lot to do with how people can get their hands on a gun in the United States, how vulnerable schools are, school children are,", start: 336.94, end: 347.06}
+  - {text: "especially as in this case, young school children.", start: 347.16, end: 349.92}
+  - {text: "Shai Makhalil. For three days, Ukraine's President Volodymyr Zelensky stuck by President Trump's request not to attack Russian oil refineries, despite continuing Russian attacks on Ukraine's energy infrastructure.", start: 349.92, end: 364.05}
+  - {text: "But Mr Zelensky's patience seems to have run out, angered by the US appearing to withdraw key elements of its support, including access to the Starlink satellite system and intelligence sharing.", start: 364.73, end: 375.67}
+  - {text: "Ukraine attacked one of Russia's biggest oil refineries south of Moscow on Thursday.", start: 375.67, end: 380.49}
+  - {text: "Ukraine's access to Starlink is now restored as the British Defence Secretary Wes Streeting confirmed after talks with his US counterpart Pete Hegseth.", start: 380.99, end: 390.01}
+  - {text: "Unsurprisingly, we did discuss Starlink.", start: 390.55, end: 393.13}
+  - {text: "It's not yet clear to us in the UK what happened, why the service interruption occurred, but I am reassured and was reassured directly by Secretary Hegseth that the service has been restored.", start: 393.65, end: 408.53}
+  - {text: "Our correspondent Joe Inwood has more.", start: 408.87, end: 411.11}
+  - {text: "If there was ever any doubt, the energy ceasefire is over.", start: 411.57, end: 415.07}
+  - {text: "In truth, the proposal, which neither Ukraine nor Russia say they knew anything about, only ever existed on Donald Trump's social media post.", start: 415.55, end: 423.17}
+  - {text: "Moscow continued to attack Ukrainian targets.", start: 423.17, end: 426.23}
+  - {text: "Ukraine, in a more difficult diplomatic position, said they would stick to it until today.", start: 426.99, end: 432.41}
+  - {text: "How much longer will you maintain the stoppage of attacks on Russian refineries?", start: 432.69, end: 438.15}
+  - {text: "That's it. Block is out.", start: 438.81, end: 440.35}
+  - {text: "I said to my minister, people, after they again killed, after such massive attack, I didn't hear messages from President of the United States.", start: 440.75, end: 449.33}
+  - {text: "Unsurprisingly, there was a very different interpretation from Russia's president.", start: 450.11, end: 453.81}
+  - {text: "They made the first step.", start: 455.75, end: 457.23}
+  - {text: "We responded by striking energy facilities which they are now squealing about, as well as data centers and so on.", start: 457.53, end: 463.37}
+  - {text: "They should have thought properly about the consequences.", start: 463.63, end: 466.15}
+  - {text: "It's not only power plants and data centers where the fighting has spread.", start: 466.89, end: 470.21}
+  - {text: "In recent weeks, a number of cargo ships in the Black Sea have been struck by drones.", start: 470.63, end: 474.83}
+  - {text: "Speaking at a NATO meeting, Romania's president said it was part of a wider Russian strategy.", start: 474.83, end: 480.83}
+  - {text: "Not only against Romania and Bulgaria, but against European countries, especially those on the Eastern flank, to destabilize societies and to reduce support for Ukraine.", start: 481.69, end: 491.51}
+  - {text: "And our response is, we continue to support Ukraine.", start: 492.09, end: 494.97}
+  - {text: "President Zelensky has also been on his travels.", start: 495.69, end: 498.01}
+  - {text: "There is no doubting the support Ukraine still has in Europe.", start: 498.59, end: 501.75}
+  - {text: "But the challenge is getting the US back on side.", start: 501.75, end: 504.87}
+  - {text: "And the ability of its allies to influence Donald Trump is not what it once was.", start: 505.39, end: 510.07}
+  - {text: "Joe Inwood reporting. The Houthis in Yemen have attacked the presidential palace in the port city of Aden, the seat of the internationally recognized government, that", start: 510.67, end: 520.31}
+  - {text: "the Houthis have been fighting for years to overthrow.", start: 520.31, end: 523.15}
+  - {text: "The Iran -backed movement says the palace was being used as an operation center commanded by Saudi officers.", start: 523.73, end: 529.57}
+  - {text: "Saudi Arabia supports the Yemeni government.", start: 529.57, end: 532.23}
+  - {text: "Two people were killed in the attack.", start: 532.75, end: 534.29}
+  - {text: "The BBC's senior international correspondent Ola Gerin is in the city of Aden and sent this report.", start: 534.73, end: 541.05}
+  - {text: "We have some information now, although this is still preliminary, but we have been told by the information minister Muammar al -Aryani that five ballistic missiles struck the Al -Ma 'ashik palace, which,", start: 541.55, end: 556.71}
+  - {text: "as you mentioned, is the seat of the internationally recognized government.", start: 557.11, end: 560.95}
+  - {text: "Now, safe to assume that the target was members of the government, but we have been told that the prime minister himself is on heart and", start: 561.55, end: 570.53}
+  - {text: "that other members of the government are on heart.", start: 570.53, end: 573.11}
+  - {text: "Two security personnel have been killed and were told that there were many injuries at the scene.", start: 573.61, end: 579.79}
+  - {text: "Now there has been no statement of responsibility yet, but certainly all suspicion will fall on the Houthi rebel movement in the north of the country.", start: 580.19, end: 589.57}
+  - {text: "They control the capital Sana 'a.", start: 589.69, end: 591.77}
+  - {text: "They have been engaged in a civil war against the government since 2014.", start: 591.93, end: 595.87}
+  - {text: "That war had calmed down to an extent with a ceasefire in 2022, but in September we saw it flare up again with the Houthis making dramatic advances along the West Sea coast.", start: 596.67, end: 609.47}
+  - {text: "And since then, we have seen the Houthis spreading their attacks to Saudi Arabia using ballistic missiles there too.", start: 609.47, end: 617.67}
+  - {text: "And just last weekend, carrying out a series of deadly attacks on the international airport in Riyadh.", start: 618.13, end: 624.93}
+  - {text: "So they will be assumed to be the people behind this attack.", start: 625.39, end: 629.29}
+  - {text: "Ola Gherin in Yemen.", start: 629.95, end: 631.61}
+  - {text: "People suffering from sight loss say they're being unfairly excluded from public spaces because of a stigma surrounding smart glasses.", start: 632.49, end: 640.53}
+  - {text: "Visually impaired users have described the technology which can be used to record video as game -changing.", start: 640.97, end: 646.77}
+  - {text: "They can help with everyday tasks like navigating public transport or reading street signs.", start: 647.09, end: 652.09}
+  - {text: "However, controversy about secret filming has seen them labelled pervert glasses and led to bans or restrictions in some pubs, theatres and entertainment venues.", start: 652.49, end: 662.85}
+  - {text: "People on both sides of the debate have contacted BBC Your Voice as Stephen Gordon reports.", start: 662.85, end: 669.69}
+  - {text: "Hey Metta, are there any potholes in front of me?", start: 670.90, end: 673.56}
+  - {text: "There is an area of damaged pavement directly in front of you.", start: 673.78, end: 676.26}
+  - {text: "Please step carefully as you continue forward.", start: 676.70, end: 678.62}
+  - {text: "Fraser Fleming began losing his sight in his early 20s.", start: 678.98, end: 682.20}
+  - {text: "He uses smart glasses to help him navigate Glasgow's city centre.", start: 682.56, end: 686.26}
+  - {text: "So what are you asking the glasses here?", start: 686.56, end: 687.96}
+  - {text: "Hey Metta, is there a lot of people in front of me?", start: 688.18, end: 690.66}
+  - {text: "Yes, there are people walking around you.", start: 690.66, end: 693.10}
+  - {text: "Just a moment, I'll describe them more.", start: 693.38, end: 695.16}
+  - {text: "Fraser doesn't rely on what the glasses are telling him but they help him build a more complete picture of his surroundings.", start: 695.62, end: 701.72}
+  - {text: "Can you describe this building to me?", start: 702.16, end: 703.70}
+  - {text: "The building in front of you is a large multi -story structure with distinct Art Deco styling.", start: 703.94, end: 708.34}
+  - {text: "There have though been downsides to the rise in popularity of smart glasses.", start: 708.70, end: 713.10}
+  - {text: "People have taken on the term of calling them pervert glasses.", start: 713.32, end: 716.06}
+  - {text: "The perception and sometimes the reality that people are using them to secretly film others has created problems.", start: 716.34, end: 722.94}
+  - {text: "Quite a lot of people are confronting people that are wearing the Metta glasses for wearing them for recording in public or even just coming up", start: 723.16, end: 729.34}
+  - {text: "and asking them if they're recording in public because I've got enough to worry about when I'm trying to get from A to B.", start: 729.34, end: 734.62}
+  - {text: "So what that means is the stigma means you don't get the benefit at certain times?", start: 734.82, end: 738.82}
+  - {text: "Yeah, you adapt your usage to try and reduce confrontation.", start: 738.96, end: 743.60}
+  - {text: "Metta say a light on the frames makes it clear when the smart glasses are recording.", start: 744.10, end: 748.62}
+  - {text: "The company warns users not to engage in harmful activities but some venues have banned or at least restricted their use.", start: 749.22, end: 756.70}
+  - {text: "One event to tighten its rules is Comic -Con Scotland being held in Edinburgh later this month.", start: 757.28, end: 762.82}
+  - {text: "As a result, visually impaired fan Gordon Brown says he won't be going.", start: 763.36, end: 767.14}
+  - {text: "Even if I was there and put my glasses on quickly just to read a sign or something I wouldn't feel comfortable.", start: 767.42, end: 772.74}
+  - {text: "And I think it's a matter of principle now that the fact that they're not willing to engage.", start: 772.74, end: 777.98}
+  - {text: "Announcing the ban in July, organisers Monopoly Events said it was based on feedback from performers and attendees.", start: 778.46, end: 785.42}
+  - {text: "A cosplay artist who shares her performances online Tia Perne was filmed unknowingly at a Comic -Con.", start: 788.54, end: 795.20}
+  - {text: "Are you single? Make sure she's dressed like that.", start: 795.42, end: 797.76}
+  - {text: "She believes her experience shows why restrictions are needed.", start: 797.94, end: 801.36}
+  - {text: "I felt violated. I think why couldn't you ask me first?", start: 801.36, end: 805.50}
+  - {text: "Because if he had asked me, I would have let him record the interaction but he was purposely trying to provoke me or purposely trying to make strange comments to get a reaction out of me", start: 805.82, end: 817.38}
+  - {text: "so that he could get that perfect clip so that he could post on social media and capitalise off of it.", start: 817.38, end: 823.06}
+  - {text: "Read me the menu.", start: 823.28, end: 824.02}
+  - {text: "Meal comes with chips and a drink.", start: 824.40, end: 825.94}
+  - {text: "This conversation about the use of smart glasses is playing catch -up with the technology.", start: 826.24, end: 831.32}
+  - {text: "Fraser wants to ensure the voices of visually impaired people aren't drowned out.", start: 831.88, end: 836.66}
+  - {text: "Steven Godden. Still to come in this podcast.", start: 837.58, end: 842.82}
+  - {text: "I wasn't frightened because I was so excited and maybe the adrenaline mixing with something else, I don't know.", start: 843.38, end: 850.46}
+  - {text: "Meet the woman who has set a new Guinness World Record for Wing Walking at the age of 99.", start: 850.74, end: 857.20}
+  - {text: "This is the Global News Podcast.", start: 863.98, end: 865.80}
+  - {text: "The former Venezuelan president, Nicolas Maduro and his wife both entered pleas of not guilty to new charges of conspiracy to commit torture when they appeared in court in New York on Thursday.", start: 866.68, end: 878.12}
+  - {text: "The couple have also pleaded not guilty to previous charges of narco -terrorism, drug trafficking and weapons -related offences.", start: 878.68, end: 885.94}
+  - {text: "Our North America correspondent, Neda Torfik, has been following the case.", start: 886.48, end: 890.24}
+  - {text: "This was a short court proceeding, a chance for the former Venezuelan president and his wife to enter a plea to the new charges against them.", start: 890.24, end: 899.52}
+  - {text: "Now prosecutors last week added to the narco -terrorism and drug trafficking charges they faced by also accusing them of personally signing off on a system of repression and torture to silence dissent.", start: 899.92, end: 912.64}
+  - {text: "And they also accused them of torturing three Americans.", start: 912.96, end: 915.72}
+  - {text: "So when Nicolas Maduro was asked how he pleaded, he took that opportunity to launch into a criticism of the formal charges against him.", start: 916.26, end: 924.48}
+  - {text: "He called the testimony against him false and the accusations against him false, and he said that he rejected the document in its entirety.", start: 924.62, end: 933.82}
+  - {text: "The judge at that point cut him off and said that a plea of not guilty would be entered on his behalf.", start: 934.36, end: 939.64}
+  - {text: "When it was Celia Flores' turn, she said that she was completely innocent and not guilty.", start: 940.06, end: 945.82}
+  - {text: "The pair, who were shackled at the feet wearing tan prison uniforms, consulted with their lawyers and looked forward throughout the hearing as both sides discussed", start: 945.82, end: 955.98}
+  - {text: "how the schedule would play out before their trial.", start: 956.34, end: 960.08}
+  - {text: "Their trial has now been pushed back to June 14th, and the pair continue to argue that the charges against them should be dropped entirely because", start: 960.52, end: 969.70}
+  - {text: "they are protected by head -of -state immunity.", start: 969.70, end: 972.88}
+  - {text: "That is an issue that will still be decided by the judge at a later date.", start: 972.88, end: 977.78}
+  - {text: "Neda Torfik in New York.", start: 978.30, end: 979.76}
+  - {text: "The FIFA president Gianni Infantino has apologized to the organization's counsel for his plan to sell stakes in the World Cup.", start: 980.42, end: 988.02}
+  - {text: "The proposal was aborted after a fierce backlash from football associations.", start: 988.48, end: 992.44}
+  - {text: "Mr. Infantino has been told he's not fit to lead FIFA unless he releases all the documents and answers key questions related to the plan.", start: 993.14, end: 1002.04}
+  - {text: "Our sports editor Dan Roan filed this report from Zurich where the council meeting is taking place.", start: 1002.04, end: 1008.00}
+  - {text: "For the past three months, world football has never been so divided.", start: 1008.48, end: 1011.78}
+  - {text: "The emergence of FIFA president Gianni Infantino's failed plan to sell commercial stakes in the World Cup to private investors, sparking a global backlash.", start: 1012.18, end: 1020.14}
+  - {text: "Today in Zurich came a showdown.", start: 1020.70, end: 1022.32}
+  - {text: "Mr. Infantino, coming face -to -face with some of his fiercest critics, has FIFA's counsel met for the first time since the crisis began.", start: 1022.62, end: 1029.88}
+  - {text: "Mr. Infantino has declined interview requests from the BBC and other media.", start: 1029.88, end: 1034.28}
+  - {text: "Instead, after a three -hour meeting, he issued this statement and did not take questions.", start: 1034.54, end: 1038.84}
+  - {text: "I apologized for the mistakes that we made in relation to the communication and consultation process related to the FIFA Forward Enterprise project, which then led to many consequences.", start: 1039.24, end: 1057.24}
+  - {text: "But what is important to remember is that it was a proposal, so in no way a done deal.", start: 1057.24, end: 1067.44}
+  - {text: "FA Chair Debbie Hewitt had written to Mr.", start: 1068.02, end: 1070.34}
+  - {text: "Infantino demanding that he release documents about the World Cup's sell -off plan and told me she was unimpressed.", start: 1070.42, end: 1076.12}
+  - {text: "Did you receive the answers that you were hoping for?", start: 1076.56, end: 1079.02}
+  - {text: "No, that's my biggest disappointment.", start: 1079.24, end: 1080.62}
+  - {text: "I've repeatedly asked for the papers to be shared.", start: 1081.40, end: 1085.06}
+  - {text: "What was shared was that President Infantino had always regretted the fact that he didn't come to counsel.", start: 1085.06, end: 1093.00}
+  - {text: "He apologized for that, in fact.", start: 1093.66, end: 1095.36}
+  - {text: "But for me, if that's what he regrets, he has the opportunity now to put that right and to share that documentation.", start: 1096.12, end: 1104.36}
+  - {text: "You know that we withdrew our letter of support.", start: 1104.70, end: 1107.04}
+  - {text: "Nothing has changed my view that we should change that position.", start: 1107.58, end: 1110.62}
+  - {text: "A proposal by Mr.", start: 1111.26, end: 1112.52}
+  - {text: "Infantino to hand out more than £2 .5 billion from FIFA's financial reserves for football development was approved.", start: 1112.62, end: 1119.12}
+  - {text: "It's little wonder then that, despite so much controversy, he retained significant support around the world.", start: 1119.58, end: 1124.60}
+  - {text: "And with just a month now until a deadline for candidates for next year's presidential election to confirm they are standing, Mr.", start: 1124.98, end: 1131.92}
+  - {text: "Infantino looks set to stand unopposed for a fourth term.", start: 1132.00, end: 1135.46}
+  - {text: "Dan Rowan in Zurich, Switzerland.", start: 1136.04, end: 1138.12}
+  - {text: "Now onto the side of a prehistoric murder mystery.", start: 1138.94, end: 1142.36}
+  - {text: "Archaeologists have found evidence that could suggest Neanderthals experienced more violence while simultaneously demonstrating greater capacity for nurturing behavior than previously understood.", start: 1142.36, end: 1154.40}
+  - {text: "And Neanderthals' remains were found in a cave in Iraqi Kurdistan and show a small hole in one shoulder blade.", start: 1154.90, end: 1161.66}
+  - {text: "They say this could be the earliest evidence of lethal violence involving a sharpened wooden spear and the first of its kind in the prehistoric Middle East.", start: 1161.98, end: 1171.82}
+  - {text: "Our science correspondent, Palab Ghosh, unearthed the details.", start: 1171.82, end: 1175.34}
+  - {text: "From the angle of the wound, the researchers believe the spear entered the person's chest, passed through the body, probably damaging a lung and major blood vessels and exited through the left shoulder blade.", start: 1176.04, end: 1186.32}
+  - {text: "The wounded Neanderthal lived around 75 ,000 years ago and their left shoulder blade, their right hand, three ribs and some of their teeth were unearthed in a cave in Iraqi Kurdistan.", start: 1186.96, end: 1197.84}
+  - {text: "A round hole in the shoulder blade made the earliest evidence of what the lead researcher Dr Emma Pomeroy of the University of Cambridge describes as lethal interpersonal violence using a wooden spear.", start: 1198.65, end: 1210.77}
+  - {text: "What's remarkable is that they seem to have had a major injury to their face, which they had survived but which split one of their teeth", start: 1211.21, end: 1219.29}
+  - {text: "and then they also have what seems to be a stab wound from a wooden spear in their left shoulder which happened around the time they died.", start: 1219.29, end: 1228.35}
+  - {text: "This discovery fits a pattern of an earlier find in the same cave in 1957.", start: 1228.35, end: 1233.33}
+  - {text: "It was the remains of another Neanderthal who lived more recently, around 50 ,000 years ago.", start: 1234.27, end: 1239.51}
+  - {text: "Their ribs had evidence of a partly healed wound which archaeologists believe was probably caused by a stone -tipped spear.", start: 1240.29, end: 1247.23}
+  - {text: "Scientists can't tell for sure whether these Neanderthals were hurt by a companion during a hunt or murdered by a fellow Neanderthal but they join a small", start: 1248.11, end: 1256.71}
+  - {text: "but growing discovery of human remains which are pointing to the possibility that human -on -human violence was more common and goes further back in time than the current scientific consensus would suggest.", start: 1256.71, end: 1268.33}
+  - {text: "For almost 40 years rubbish trucks in the Dutch city of Rotterdam have been adorned with lines of poetry and now the practice has been officially recognised", start: 1268.97, end: 1280.65}
+  - {text: "as being part of the Netherlands' intangible cultural heritage.", start: 1280.65, end: 1284.67}
+  - {text: "The idea was the brainchild of the Poetry International Festival as Tim Franks heard from its director Diana Schienefot.", start: 1285.25, end: 1293.25}
+  - {text: "The initiative started in 1988 so it's been a long time and it was inspired by the Poetry International Festival in Rotterdam because every year the festival brings poetry from all over the world to the city", start: 1293.63, end: 1304.61}
+  - {text: "where they share their work and introduce audience to different voices but when the festival ends the international poets leave Rotterdam and take their poems with them", start: 1304.61, end: 1313.15}
+  - {text: "so the idea behind this project was what if the poetry could stay even after the poets have left?", start: 1313.15, end: 1319.07}
+  - {text: "But putting them on garbage trucks it's wonderfully imaginative, it's obviously caught on but where did that idea come from?", start: 1319.29, end: 1325.13}
+  - {text: "Well actually in Rotterdam we have a lot of poetry in the public space we also have it on buildings and on bridges even but at Poetry International we believe that poetry should not be confined to books or libraries or cultural institutions", start: 1325.97, end: 1338.77}
+  - {text: "by bringing poetry into public space we and the municipality of Rotterdam make it part of everyday life and we make it accessible to everyone including specifically people", start: 1339.33, end: 1348.97}
+  - {text: "who might not normally engage with poetry it can find you when you walk the dog or take out the trash or simply go back your day It works very successfully in London", start: 1348.97, end: 1358.33}
+  - {text: "because there's poetry on the underground but there you're a slightly captive space inside an underground train carriage but on a garbage truck especially because I", start: 1358.33, end: 1366.77}
+  - {text: "guess often they're moving you've only got a very short amount of time sometimes so how do you decide what goes on?", start: 1366.77, end: 1374.89}
+  - {text: "That's why we choose only one line from a poem and we also consider how well a particular line works in the public space so it needs to be concise", start: 1375.19, end: 1382.23}
+  - {text: "and memorable and also powerful enough to touch as many people as possible in just a few seconds So give me one of your favourites if you would Can I cheat and choose two lines?", start: 1382.23, end: 1392.57}
+  - {text: "You may Okay, thank you because then I will choose one line from Simon Armitage a British poet and he said glitz and glitter in the air but blossom neither here or there", start: 1392.57, end: 1404.21}
+  - {text: "it's short but you can interpret it in very different ways the other one is a line from Deric Otte a poet from Rotterdam I'm not a translator", start: 1404.87, end: 1412.43}
+  - {text: "but it means something like stones and bricks make a city rise but it's the people who give it death It's a people who gives it death That's a lovely thought How do the bin men and bin women feel about all this?", start: 1412.43, end: 1427.77}
+  - {text: "Do they like it?", start: 1427.93, end: 1428.83}
+  - {text: "Yes, actually they really do because yesterday we published a new line on a new garbage truck and there were several drivers who were there to enjoy the festive revelation They also drive their own truck", start: 1429.61, end: 1442.05}
+  - {text: "so they also have their own line What I hear from them is that they really love their line that it's really a line of their own the more people can encounter poetry the better I think Diana Schinafott Now,", start: 1442.05, end: 1455.07}
+  - {text: "most of us will be looking forward to putting our feet up if and when we reach our 90s but Helga Duffy is having none of", start: 1455.34, end: 1463.06}
+  - {text: "that She was strapped to the wing of a small plane in the UK to set a brand new Guinness world record for wing walking and", start: 1463.06, end: 1471.02}
+  - {text: "at the age of 99 she is the oldest person ever to do the stunt Wendy Erkut reports Helga Duffy had been looking for a challenge", start: 1471.02, end: 1480.76}
+  - {text: "and after she saw news footage of 97 year old Betty Bramwich setting the previous record for wing walking she thought I could do that and she did", start: 1480.76, end: 1491.34}
+  - {text: "afterwards she told the BBC what it was like to be strapped to the wing of a small plane To be honest the feeling was peculiar I wasn't frightened", start: 1492.12, end: 1502.02}
+  - {text: "because I was so excited and maybe the adrenaline mixing with something else I don't know as Helga took off into the skies over England strapped to a plane", start: 1502.02, end: 1513.45}
+  - {text: "that was just 15 years younger than she is her niece Jackie Rose watched in awe from the ground she says she couldn't be prouder She's wanted to do something different for", start: 1513.45, end: 1525.17}
+  - {text: "so long and I think she just wanted to prove that actually even though she's 99 she's still that lady that she was like years and years", start: 1525.17, end: 1532.77}
+  - {text: "and years ago I'm so over the moon that she's actually managed to get this done so proud of her, absolutely amazing and it's just making me feel so emotional", start: 1532.77, end: 1541.19}
+  - {text: "Well Helga might not be able to hold on to the title for very long Betty Bramwich sent a message of congratulations but warned that she'd be taking the title back when she turns 100", start: 1541.88, end: 1554.63}
+  - {text: "Congratulations I hope you enjoyed it I've done six now I can't wait till I'm 100 and do it again and I'll beat you again Fighting talk there from Betty Bramwich ending that report by the relatively young Wendy Urquhart", start: 1555.65, end: 1570.66}
+  - {text: "and that's all from us for now if you want to get in touch you can email us at globalpodcast at bbc .co .uk you can", start: 1573.08, end: 1582.16}
+  - {text: "also find us on x at BBC World Service use the hashtag global news pod and don't forget our sister podcast the global story which goes in depth", start: 1582.16, end: 1593.38}
+  - {text: "and beyond the headlines on one big story this edition of the global news podcast was mixed by Chris Cousaris and the producer was Emma Joseph", start: 1593.38, end: 1603.68}
+  - {text: "the editor is Karen Martin I'm Alex Ritzen until next time goodbye", start: 1603.97, end: 1608.72}
+---
