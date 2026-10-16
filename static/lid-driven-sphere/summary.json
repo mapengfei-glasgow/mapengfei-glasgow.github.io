@@ -1,0 +1,15 @@
+{
+  "grid": 96,
+  "Re_L": 1000,
+  "final_time": 10.0,
+  "max_speed": 0.923491571667,
+  "max_div_l2": 1.54999229558e-12,
+  "max_core_slip_rms": 0.000955087912906,
+  "final_core_slip_rms": 0.000377413250346,
+  "max_tether_displacement": 0.00565069356664986,
+  "final_centre": [
+    0.50031072965,
+    0.502123395247,
+    0.499999994993
+  ]
+}
