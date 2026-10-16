@@ -1,0 +1,25 @@
+{
+  "grid": [
+    96,
+    96,
+    192
+  ],
+  "Re_D": 1000,
+  "cells_per_D": 16.0,
+  "final_time": 15.0,
+  "max_div_l2": 9.85705522106e-14,
+  "max_speed": 1.39671714042,
+  "max_core_slip_rms": 0.0167215312174,
+  "final_core_slip_rms": 0.00785061780081,
+  "max_tether_displacement": 0.2544137375323311,
+  "relative_flux_error_after_ramp": 0.0,
+  "final_centre": [
+    2.98098726765,
+    2.99999999947,
+    3.07303433515
+  ],
+  "final_wake_transverse_rms": 0.258651217215,
+  "tail_reaction_z_std": 0.042346182296505296,
+  "wake_temporal_vector_rms_after_half_time": 0.17108786929992814,
+  "temporal_samples": 26
+}
