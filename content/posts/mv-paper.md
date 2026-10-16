@@ -190,17 +190,48 @@ For the local divergence-free IFED method using composite B-splines, see {{< cit
 Finding: CBS kernels remove the leak driven by transmural pressure only at small MFAC (≤ 0.5–0.7); at $\mathrm{MFAC}>1$
 they are worse than {{< label "kernel" "IB_4" >}}. Wider CBS kernels (54, 65) are expected to need smaller MFAC and cost more per marker.
 
-#### (2) Stress form: modified invariants, deviatoric projection, or stripping the pressure part
+#### (2) Stress form: why modified invariants may help
 
-To be tested for the MV case...
+**The current CBS43 comparison shows less extreme local compression with modified stress, but does not establish uniformly better volume conservation or a larger stable time step.** Here “modified” means evaluating the shear and fibre energy using the volume-preserving deformation gradient, then differentiating that energy fully. It does not mean simply deleting pressure from the original stress.
 
-#### (3) Volumetric stabilisation $\kappa_s$ ($\beta_s$)
+Let $F$ be the deformation gradient and $J=\det F$ the local volume ratio: $J=1$ preserves volume, while $J=0.01$ means that an element retains only 1% of its reference volume. We split the energy into
 
+$$
+\bar F=J^{-1/3}F,\qquad
+W(F)=W_{\mathrm{iso}}(\bar F)+U(J),\qquad
+U(J)=\beta_s(\ln J)^2.
+$$
 
-For volumetric stabilisation and stress formulations in hyperelastic immersed
-boundary methods, see {{< cite "vadalaroth2020" "author" >}}.
+Because $\det\bar F=1$, uniform dilation is removed from the invariants used by the shear and fibre law. With $\bar P=\partial W_{\mathrm{iso}}/\partial\bar F$, the implemented first Piola–Kirchhoff stress is
 
-To be tested for the MV case...
+$$
+P_{\mathrm{iso}}=J^{-1/3}\bar P
+-\frac{\bar P:\bar F}{3}F^{-T},\qquad
+P_{\mathrm{vol}}=2\beta_s\ln J\,F^{-T}.
+$$
+
+The chain-rule projection gives $P_{\mathrm{iso}}:F=0$, so its Cauchy stress has zero trace. Shape and fibre deformation therefore generate a deviatoric stress, while the separate volumetric term resists changes in $J$. A pure dilation leaves $\bar F$ unchanged; it does not spuriously activate the isochoric fibre response.
+
+**Why this matters for IB.** The Eulerian pressure enforces fluid incompressibility, but interpolation to the solid, the FE representation and time integration can still change solid-element volumes. Once $J$ drifts from one, unmodified invariants also respond to that dilation, mixing the shape response with a pressure-like elastic contribution. Separating these contributions gives the volumetric penalty a clearer role in correcting local volume drift. This mechanism and its benchmark evidence are discussed by {{< cite "vadalaroth2020" "author" >}}. Even with CBS43, the discrete FE deformation and time update do not guarantee $J=1$ in every element.
+
+**MV evidence (2026-10-16).** The following G64/R2 mixed Q1+P1 runs use CBS43, outlet backflow stabilisation, $\Delta t=2\times10^{-5}$ s, $\beta_s=5\times10^6$, solid viscosity `--solid-nu 1000`, and the same geometry, material coefficients and boundary settings. The original-stress result reuses the completed baseline; the modified result uses `--sarah-stress mod`.
+
+| Stress form | End time (s) | Minimum $J$ | Maximum $J$ | Signed flow volume, 0.04–0.20 s (cm³) | Signed flow volume, 0.20–0.56 s (cm³) |
+|:---|---:|---:|---:|---:|---:|
+| Original invariants | 1.335 | 0.009898 | 2.45364 | 47.217 | −3.258 |
+| Modified invariants | 1.335 | 0.167943 | 2.65547 | 47.796 | −3.393 |
+
+The minimum $J$ improves substantially, but 0.168 still represents severe compression, and the maximum $J$ increases. These are global extrema over saved frames and cells, including the passive rim; the worst elements need not be the same in both runs. They do not measure total solid-volume error or establish improvement in every component. The signed flow volumes are integrals of the sampled flow-rate curve, not measurements of solid volume, and their changes alone do not establish greater accuracy.
+
+With IB4 and otherwise matching settings, modified stress fails after the last valid output at 0.66 s; original stress fails after 0.69 s. Thus this experiment does **not** support a general stability advantage for modified stress. No larger time step has yet been demonstrated for the completed CBS43 modified case. [Download the four-run comparison](/data/mv-stress-comparison.csv).
+
+**Separate the four choices.** Modified invariants change the energy through $\bar F$; a deviatoric projection applied directly to the original stress evaluated at $F$ is a different formulation away from $J=1$, and has not been separately tested here. The volumetric term controls volume drift. Solid viscosity damps deformation rates and is held fixed in the table; its effect requires the separate zero/nonzero-viscosity comparison. Modified stress changes the constitutive extension away from incompressibility and cannot repair a poor mesh, boundary instability or an excessive time step by itself.
+
+#### (3) Volumetric stabilisation: parameter naming and limits
+
+The volume penalty above supplements the Eulerian incompressibility constraint; it does not replace the pressure solve. In the convention $U=\frac12\kappa_{\mathrm{vol}}(\ln J)^2$, our $\kappa_{\mathrm{vol}}=2\beta_s$. **The solver option `--kappa-s` instead controls tether strength** (`beta_tether = 100*kappa_s`), so it must not be confused with this volumetric coefficient.
+
+The stress comparison holds $\beta_s$ fixed and therefore is not a bulk-penalty sweep. Increasing the penalty can resist volume changes more strongly but also makes the coupled problem stiffer; it does not automatically permit a larger time step. Solid viscosity (`--solid-nu`) is another independent numerical stabilisation and is distinct from fluid viscosity (`--nu`).
 
 #### (4) Element type: P1, P2, Q1, Q2
 
