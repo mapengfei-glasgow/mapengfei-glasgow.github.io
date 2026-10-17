@@ -1,0 +1,283 @@
+---
+layout: single
+title: "Trump fires press secretary Katie Zacharia"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-17T00:00:00Z
+slug: "2026-10-17-trump-fires-press-secretary-katie-zacharia"
+audioDir: "2026-10-17-trump-fires-press-secretary-katie-zacharia"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-17-trump-fires-press-secretary-katie-zacharia/episode.mp3"
+totalDuration: 1757.6
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.42}
+  - {text: "I'm Charlotte Gallagher, and in the early hours of Saturday, the 18th of October, these are our main stories.", start: 5.92, end: 12.42}
+  - {text: "After just five days in the job, the White House press secretary has been sacked.", start: 13.06, end: 18.12}
+  - {text: "The Swedish crime gang preying on vulnerable teenagers and turning them into violent criminals.", start: 18.78, end: 24.48}
+  - {text: "And we hear how deforestation in the Amazon has hit record lows and why that may not continue.", start: 24.48, end: 31.98}
+  - {text: "Also in this podcast.", start: 34.22, end: 35.86}
+  - {text: "We can see what the drone is doing.", start: 36.30, end: 38.46}
+  - {text: "It's looking for our men.", start: 39.20, end: 40.12}
+  - {text: "It is frightening when the drone flies straight at you.", start: 42.66, end: 46.32}
+  - {text: "We're on the front line in Ukraine where drone warfare is driving territorial gains.", start: 47.09, end: 52.45}
+  - {text: "Katie Zachariah was only just hired as the White House press secretary, but after five days in the job, she's been sacked.", start: 56.54, end: 65.18}
+  - {text: "It would have been a tough role for anyone with the Trump administration facing a number of controversies, including allegations of corruption that forced the resignation of the U .S.", start: 65.80, end: 75.70}
+  - {text: "Ambassador to Greece and the abrupt reversal of plans to livestream an execution.", start: 75.84, end: 81.20}
+  - {text: "And Katie Zachariah, a relative novice, struggled in her first media briefing.", start: 81.20, end: 86.36}
+  - {text: "Here's a clip. In addition to that, there's $54 billion tied to the Alaska LNG pipeline and terminal to service the Pacific Rim and sell fuel to our allies.", start: 86.76, end: 102.16}
+  - {text: "There'd also been questions about her legal background after she admitted she didn't pass the bar exam.", start: 102.66, end: 108.80}
+  - {text: "President Trump spoke to journalists next to the Marine One helicopter.", start: 108.80, end: 112.66}
+  - {text: "President Trump's former communications director, Anthony Scaramucci, who left that role after just 10 days, wrote on social media that records are made to be broken.", start: 130.48, end: 141.44}
+  - {text: "Our North America correspondent, Neda Taufik, told me how the week unfolded.", start: 141.96, end: 146.22}
+  - {text: "She was appointed last week by President Trump, who in a post called her a devoted fan and member of MAGA.", start: 146.58, end: 153.72}
+  - {text: "And before that, she had previously had stints at his social media company.", start: 154.42, end: 158.18}
+  - {text: "She worked two months at the Department of Homeland Security and had been a commentator on conservative shows.", start: 158.40, end: 163.42}
+  - {text: "And so on Tuesday, when she was doing her first press briefing, many people were anxious to throw questions at her.", start: 163.42, end: 173.24}
+  - {text: "There were so many topics to discuss, not just the midterm elections, but Ukraine, the controversy surrounding the Greek ambassador at the time.", start: 173.54, end: 182.20}
+  - {text: "And when she took to the podium, she was very stilted in her delivery.", start: 182.38, end: 187.04}
+  - {text: "She, for eight minutes, read off of a script, which was meant to talk about all of the president's accomplishments and really bolster the message of the administration.", start: 187.34, end: 196.38}
+  - {text: "But her delivery was really lacking, and she stumbled a few times.", start: 196.64, end: 200.18}
+  - {text: "And then she only took three questions and was anxious to kind of cut it short and said that President Trump would take more questions later in the day.", start: 200.70, end: 208.78}
+  - {text: "So that disappointed a lot of people.", start: 208.82, end: 210.82}
+  - {text: "And very quickly after that, there was additional scrutiny around her and people even betting how long she would last in the job.", start: 211.26, end: 219.44}
+  - {text: "Five days, though, what do you think that tells us about President Trump at the moment that he only gave her five days to prove herself?", start: 220.04, end: 227.16}
+  - {text: "Well, look, I think it was numerous stumbles.", start: 227.84, end: 230.56}
+  - {text: "There became questions about her legal qualifications.", start: 231.14, end: 234.04}
+  - {text: "The president had introduced her as an attorney.", start: 234.94, end: 236.76}
+  - {text: "When she was on conservative shows as a commentator, she called herself a lawyer.", start: 237.32, end: 241.14}
+  - {text: "So it was revealed that she never passed the bar exam.", start: 241.44, end: 244.20}
+  - {text: "And so even when she was on very friendly outlets like Fox News, you had Sean Hannity, who is a massive ally of President Trump, giving her a hard time on air.", start: 244.20, end: 255.28}
+  - {text: "And even through that kind of grilling from friendly outlets, she seemed, again, to be uncomfortable, to stumble, to not really find her feet.", start: 255.86, end: 263.86}
+  - {text: "And I think President Trump saw that and quickly lost faith in her because we know he places a lot of value on media presence and, you know, his past press secretary,", start: 264.04, end: 275.40}
+  - {text: "Caroline Levitt, was seen as a real attack dog for the administration.", start: 275.76, end: 279.64}
+  - {text: "And he did like her style.", start: 280.14, end: 281.74}
+  - {text: "So I think President Trump, this close to a midterm election where his approval ratings are at record lows, was starting to see her as perhaps a liability", start: 281.94, end: 291.26}
+  - {text: "and a distraction rather than someone who was meant to help the party.", start: 291.26, end: 295.46}
+  - {text: "I've looked on social media and, of course, there's loads of journalists.", start: 295.92, end: 298.60}
+  - {text: "There's loads of comedians talking about this.", start: 298.94, end: 300.84}
+  - {text: "But is this a story that will cut through to normal voters as well ahead of the midterms?", start: 300.84, end: 305.24}
+  - {text: "Certainly, if you're looking at Republicans and Democrats, there are key issues that they are voting on here.", start: 305.76, end: 311.38}
+  - {text: "But I think if you look at independent voters or just overall perceptions, it does look to some as though the administration didn't do proper vetting", start: 311.58, end: 322.10}
+  - {text: "or it says something about the way the administration is running.", start: 322.10, end: 325.14}
+  - {text: "And so if you're already looking at President Donald Trump and upset that he hasn't fulfilled his promises like bringing down inflation and you're upset that he started a war with Iran when you thought he was going to get America out of the forever wars,", start: 325.60, end: 337.60}
+  - {text: "I think this will add to that perception that this is an administration that perhaps isn't doing things the way you would have hoped.", start: 338.10, end: 346.40}
+  - {text: "We're already seeing reaction from Democrats absolutely eating this up.", start: 346.92, end: 350.62}
+  - {text: "You had Gavin Newsom of California putting out a meme in memoriam to Katie Zachariah with the five days that she lasted.", start: 350.82, end: 358.58}
+  - {text: "Netta Taufik. Deforestation in the Brazilian Amazon has fallen to its lowest level since records began with new government data showing a 41 % drop compared to the previous year,", start: 359.48, end: 372.33}
+  - {text: "as well as a 23 % drop in the Cerrado, the country's Savannah region.", start: 372.55, end: 377.09}
+  - {text: "This has been achieved under President Lula, but his challenger in the current presidential election, Flavio Bolsonaro, has a very different vision for the future of the rainforest.", start: 377.61, end: 387.15}
+  - {text: "Inie Wells has been telling me more.", start: 387.81, end: 389.65}
+  - {text: "This slowing of the deforestation rate has happened under the current President, Lula de Silva.", start: 390.29, end: 394.43}
+  - {text: "He and his environmental minister, Marina Silva, have championed environmental protections for the Amazon.", start: 395.25, end: 401.85}
+  - {text: "They've toughened up enforcement when it comes to environmental rules, introducing more policing security towards those breaking deforestation rules in the Amazon, but also increasing this kind of satellite monitoring of the situation.", start: 402.03, end: 414.75}
+  - {text: "That's a contrast to his predecessor, the right -wing Jair Bolsonaro, under whose presidency the rate of deforestation increased very dramatically, and that was because he argued that more of that land should be used to boost the economy in the area for things like farming and mining,", start: 415.33, end: 431.57}
+  - {text: "and he relaxed a lot of environmental protections as a result.", start: 431.65, end: 434.65}
+  - {text: "Now, he is not on the ballot in this election, but his son, Flavio Bolsonaro, is.", start: 435.29, end: 439.53}
+  - {text: "And the widespread expectation is that he would follow his father's lead and essentially also roll back environmental protections for the same reason to prioritize economic development.", start: 440.05, end: 450.65}
+  - {text: "And it's interesting because the Bolsonaro movement still has a huge groundswell of support in some of those Amazonian states where deforestation is highest, some of which I've been to and seen that the sheer scale of deforestation there,", start: 451.13, end: 466.57}
+  - {text: "but he does enjoy significant support there, particularly among the agricultural community.", start: 466.91, end: 471.49}
+  - {text: "I was going to ask, because obviously you lived in Brazil for many years.", start: 472.09, end: 475.07}
+  - {text: "Are environmental issues a concern for voters?", start: 475.33, end: 478.01}
+  - {text: "Or do things like the cost of living just take over?", start: 478.19, end: 480.13}
+  - {text: "It's really mixed depending on where you go in the country.", start: 480.95, end: 483.83}
+  - {text: "I think, and it tends to fall down quite traditional political lines, the left in Brazil, certainly the environment is a big concern.", start: 484.23, end: 492.41}
+  - {text: "People are worried, particularly when they've seen more extreme weather events in recent years, whether it's been dramatic floods or heat waves in the country.", start: 492.41, end: 499.93}
+  - {text: "They've been concerned about further deforestation in the Amazon, which is such a crucial kind of component of the global weather system.", start: 500.15, end: 507.29}
+  - {text: "And some on the left actually have been quite critical of President Lula's thinking that he's not gone far enough.", start: 508.53, end: 513.33}
+  - {text: "But on the right, and this is again a bit of a generalization, but on the right there has been more support of loosening some of those rules", start: 513.93, end: 521.67}
+  - {text: "and regulations to allow more economic development and grow the economy of interviewed farmers who were based up in the Amazon region.", start: 521.67, end: 529.83}
+  - {text: "And some of them feel like too much land in Brazil in this huge country is protected.", start: 530.23, end: 535.15}
+  - {text: "So that's the argument that we've often heard from the right of Brazilian politics and I think it is still an incredibly divisive issue.", start: 535.45, end: 542.55}
+  - {text: "I knew well. A day after the latest US school shooting, the authorities have released new details about the killings which took place in a special", start: 543.25, end: 552.69}
+  - {text: "needs classroom at a school in the US state of Oregon.", start: 552.69, end: 555.87}
+  - {text: "Three children and a teacher were killed by a former student, Griffin John.", start: 556.61, end: 561.03}
+  - {text: "A parent at the school, Caleb Jamanco, shot the suspect dead.", start: 561.57, end: 564.97}
+  - {text: "He's been called a hero by President Trump.", start: 565.47, end: 567.57}
+  - {text: "Shaima Khalil reports. Caleb Jamanco was on his lunch break when he heard gunfire from inside the school his two daughters attended.", start: 567.97, end: 575.03}
+  - {text: "Police say the 36 -year -old father retrieved what they said was a legally secured pistol from his vehicle and went inside.", start: 575.03, end: 582.11}
+  - {text: "The gunman had shot at locked doors to force his way in.", start: 583.05, end: 585.85}
+  - {text: "The teenager attacked a special needs classroom and was a special needs student himself.", start: 586.27, end: 590.71}
+  - {text: "During the shootings, a teacher had thrown her phone at the alleged gunman and tackled him, trying to take his shotgun.", start: 591.31, end: 597.07}
+  - {text: "Mr. Jamanco shot him dead before the police arrived.", start: 597.93, end: 600.61}
+  - {text: "Bend Police Department's Chief Mike Kranz praised the actions of the teacher and the father.", start: 601.35, end: 606.01}
+  - {text: "I don't think we can underestimate or under -appreciate that courage.", start: 606.37, end: 610.37}
+  - {text: "When someone is willing to risk their own life for others, we recognize that.", start: 612.82, end: 618.30}
+  - {text: "And the quick thinking to observe, to then park and follow someone into the school is incredible and undoubtedly saves people.", start: 618.96, end: 630.58}
+  - {text: "Mr. Jamanco's family said he wasn't seeking recognition, only privacy.", start: 630.92, end: 634.94}
+  - {text: "The authorities named two victims as 5 -year -old Rome Summer and Megan Lambert, a 25 -year -old teacher.", start: 635.74, end: 642.22}
+  - {text: "In a statement read by officials, her family said she was dedicated to the profession.", start: 642.90, end: 647.16}
+  - {text: "Her goal was to be an educator and teach in the school district she loved growing up in.", start: 647.52, end: 652.60}
+  - {text: "She loved Silver Rail.", start: 653.34, end: 654.56}
+  - {text: "This was her dream job.", start: 655.26, end: 656.58}
+  - {text: "Two unnamed boys aged 8 and 11 also died at the scene.", start: 656.92, end: 660.30}
+  - {text: "A 7 -year -old girl is in serious but stable condition.", start: 660.30, end: 663.70}
+  - {text: "Another teacher has non -life -threatening injuries.", start: 664.48, end: 666.88}
+  - {text: "The gunman's motive and how he obtained the shotgun remain under investigation.", start: 667.56, end: 671.42}
+  - {text: "Shymakhalia, Ukraine has been coming under huge pressure recently with heavy Russian missile and drone attacks on Kyiv and other cities.", start: 672.08, end: 680.54}
+  - {text: "Scores of civilians have been killed.", start: 681.22, end: 683.04}
+  - {text: "But on the front line, Ukraine says a successful counter -offensive has seen its soldiers regain more than 270 square kilometres of occupied land.", start: 683.52, end: 693.50}
+  - {text: "It claims there have been thousands of Russian casualties but minimal Ukrainian losses.", start: 694.14, end: 699.06}
+  - {text: "The offensive concluded before the announcement of restrictions on Starlink technology, vital to Ukraine's military.", start: 699.80, end: 706.28}
+  - {text: "Dan Johnson travelled close to the front line in the Donetsk region to meet some of those involved.", start: 706.90, end: 711.46}
+  - {text: "The road out of Izium is full of risks.", start: 711.92, end: 715.12}
+  - {text: "There are nets hanging above us to stop drones but missiles are also a threat.", start: 715.12, end: 720.72}
+  - {text: "We're travelling down this bumpy track to get closer to the front line.", start: 721.18, end: 725.74}
+  - {text: "We're going to see the results of Operation Vivaldi.", start: 726.08, end: 730.38}
+  - {text: "It's called that because it's in four stages or four seasons.", start: 731.02, end: 735.06}
+  - {text: "Go inside. Okay. Go inside, please.", start: 736.64, end: 739.24}
+  - {text: "And sit down. We can't give away the location.", start: 739.86, end: 742.56}
+  - {text: "They obviously want to keep this command centre a secret.", start: 742.56, end: 746.76}
+  - {text: "It's buried underground. But this is one of the places where they're running the operation from, where they're monitoring and supervising everything.", start: 747.06, end: 755.26}
+  - {text: "A handful of soldiers man this bunker.", start: 757.35, end: 759.75}
+  - {text: "They're watching camera feeds from surveillance drones.", start: 759.95, end: 762.93}
+  - {text: "Commandant Phoenix, who we are referring to by his military call sign, heads up the Silver Trinity Unit of the so -called Revenge Brigade.", start: 763.57, end: 773.67}
+  - {text: "The preparation was enormous.", start: 776.59, end: 778.25}
+  - {text: "The men trained for months.", start: 778.91, end: 779.89}
+  - {text: "We had to completely restructure our approach because previously we'd been defending and now we had to go on the offensive.", start: 780.55, end: 786.63}
+  - {text: "They've got men who've been at the front some of the more than three months so they've got to withdraw now so that they can put new soldiers fresh legs in.", start: 790.49, end: 799.05}
+  - {text: "You can see one of the soldiers crossing open ground there.", start: 799.05, end: 804.45}
+  - {text: "It's a dangerous moment and the live feed shows why.", start: 805.15, end: 808.85}
+  - {text: "A Russian reconnaissance drone swooping in, posing a threat.", start: 809.91, end: 814.51}
+  - {text: "We can see what the drone is doing.", start: 815.52, end: 817.72}
+  - {text: "It's looking for our men.", start: 817.94, end: 819.32}
+  - {text: "They've called in another drone with a snare, a net beneath it, and it's hunting down the Russian drone.", start: 819.46, end: 826.48}
+  - {text: "Did they get it?", start: 826.94, end: 828.00}
+  - {text: "Success. They've dropped the net and dragged the Russian drone from the sky, but it's not the only one.", start: 829.83, end: 836.05}
+  - {text: "On an average day, they face 10 of these.", start: 836.41, end: 839.29}
+  - {text: "All this relies on satellite communication.", start: 841.88, end: 845.34}
+  - {text: "Without connectivity, almost nothing can fly.", start: 845.50, end: 848.74}
+  - {text: "The soldiers are safely at their meeting point on the edge of the forest and they're being picked up by an armored car.", start: 852.02, end: 858.60}
+  - {text: "They're returning after 95 days pushing forward at the front and so it's time for an emotional reunion.", start: 858.60, end: 866.70}
+  - {text: "Meral is high. This soldier, callsign Dealer, is happy to be heading home.", start: 870.04, end: 875.34}
+  - {text: "Over those three months, we moved positions four times.", start: 876.54, end: 880.42}
+  - {text: "Has it been frightening?", start: 880.78, end: 881.68}
+  - {text: "I don't know what it's like to feel fear, but it is frightening when a drone flies straight at you.", start: 883.27, end: 888.41}
+  - {text: "When you know where to shoot, it isn't so scary.", start: 889.09, end: 891.15}
+  - {text: "Robots and drones have led this charge, facing down Russian positions and remote -controlled explosive devices have been dropped behind enemy lines at first.", start: 893.58, end: 904.66}
+  - {text: "It's enabled them to regain 16 villages and more than 100 square miles of occupied land.", start: 905.24, end: 911.74}
+  - {text: "Ukraine says its casualties have been minimal, largely down to robots and drones.", start: 912.04, end: 916.70}
+  - {text: "Commanders reckon they can gain more ground with the tactics of Operation Vivaldi, but without US support, intelligence and technology, it's almost impossible to succeed on the battlefield and beyond.", start: 919.57, end: 934.05}
+  - {text: "Dan Johnson reporting from eastern Ukraine.", start: 937.04, end: 940.04}
+  - {text: "Still to come in this podcast.", start: 942.00, end: 944.08}
+  - {text: "In a car, that sense of being connected to a community is perhaps more important than any time, news program or just a traffic report.", start: 944.08, end: 954.62}
+  - {text: "Can the car radio survive the digital age?", start: 954.98, end: 958.48}
+  - {text: "This is the Global News Podcast.", start: 965.50, end: 967.98}
+  - {text: "The Foxtrot Network is a Swedish criminal group that pays young people to carry out violent crimes on behalf of clients, including the Iranian state.", start: 968.80, end: 979.18}
+  - {text: "It's under renewed scrutiny after a Norwegian teenager who travelled to the UK to kill for the group was jailed for 20 years.", start: 979.18, end: 987.36}
+  - {text: "Johannes Nattland was arrested before he could carry out the murder.", start: 987.78, end: 991.32}
+  - {text: "He was caught in a hotel room in the town of Huddersfield in northern England with two guns and 19 rounds of ammunition.", start: 991.82, end: 998.86}
+  - {text: "Our UK correspondent Daniel Sanford reports.", start: 999.54, end: 1001.90}
+  - {text: "Johannes Nattland was recruited by a Swedish organised crime group in Norway.", start: 1002.50, end: 1006.90}
+  - {text: "The group has links to Iran and he was recruited to carry out a hit in the UK.", start: 1006.90, end: 1012.12}
+  - {text: "Mrs Justice Chima Grubb said that she was sure he would have gone through with the hit if counter -terrorism police had not arrested him beforehand in Huddersfield.", start: 1012.72, end: 1021.68}
+  - {text: "You were just 18 years old when you placed yourself in readiness to murder for money.", start: 1022.20, end: 1028.54}
+  - {text: "The commission was for the Foxtrot Network and arranged online through social media platforms.", start: 1029.88, end: 1036.16}
+  - {text: "But the idea of being involved in such an endeavour thrilled your immature personality which was no longer tethered to the strong family and social network", start: 1036.16, end: 1047.61}
+  - {text: "you had grown up in due to teenage drug addiction.", start: 1047.61, end: 1050.85}
+  - {text: "Just two days after being recruited, Nattland flew to Manchester and picked up the guns in Woodland in Huddersfield to carry out the hit.", start: 1051.45, end: 1059.47}
+  - {text: "Counter -terrorism police who arrested him on the eve of the murder have not been able to establish his intended victim or who had paid the Foxtrot Network for the proposed killing.", start: 1059.99, end: 1070.81}
+  - {text: "Daniel Sanford. Now let's take a closer look at the Foxtrot organisation that recruited Johannes Nattland.", start: 1071.51, end: 1078.37}
+  - {text: "Diamant Salahou is a Swedish investigative journalist.", start: 1079.05, end: 1082.45}
+  - {text: "It's a global network where its leader, Raul Majid, is based in Iran.", start: 1083.03, end: 1089.53}
+  - {text: "From there is considered coordinating attacks on gang rivals but also on Israeli targets.", start: 1089.53, end: 1098.39}
+  - {text: "Foxtrot is systematically using children, young adults that are very vulnerable.", start: 1098.95, end: 1106.21}
+  - {text: "They are being offered money, status, but are very cynically being used to commit detonations, killings, extortions and then they want them to get arrested so they don't have to pay a penny.", start: 1106.63, end: 1121.09}
+  - {text: "You mentioned Israeli targets.", start: 1121.39, end: 1123.25}
+  - {text: "Is it ideological or is it just opportunistic?", start: 1123.85, end: 1126.27}
+  - {text: "We don't see any ideological motive behind these attacks because perpetrators are often the children, young adults.", start: 1126.79, end: 1134.29}
+  - {text: "They are not radicalised youth.", start: 1134.77, end: 1136.97}
+  - {text: "They are only radicalised by the gang and they are more opportunistic and used by the regime because in this case the leader is in the custody of the regime", start: 1137.33, end: 1147.77}
+  - {text: "and then he has to use his network to make the regime happy.", start: 1147.77, end: 1152.67}
+  - {text: "You say there are young people being recruited, how young and what kind of people?", start: 1152.95, end: 1156.71}
+  - {text: "We have several examples of 13 year olds being armed, shooting towards people.", start: 1156.95, end: 1162.79}
+  - {text: "We have murders committed by 15 year olds and many times they have just seen a murder add, a recruitment add that has been posted on Telegram, on Instagram, on TikTok.", start: 1163.35, end: 1175.21}
+  - {text: "This group is being targeted by the United States authorities, by Swedish authorities, by Interpol as well.", start: 1175.79, end: 1182.31}
+  - {text: "To what extent are they able to work together to break this gang?", start: 1182.91, end: 1186.61}
+  - {text: "The last two years has been successful because the Swedish authorities have been doing is travelling to countries that has been residing these very violent recruiters and gang leaders.", start: 1186.93, end: 1201.77}
+  - {text: "We have seen arrests in Turkey, arrests in Tunisia, arrests in Morocco, but the leader himself is still free.", start: 1202.29, end: 1209.87}
+  - {text: "This must be extremely worrying for particularly parents around Sweden.", start: 1210.09, end: 1214.49}
+  - {text: "What kind of precautions are they taking to protect their children from being recruited?", start: 1215.07, end: 1218.99}
+  - {text: "We are discussing it since several years and how to protect our children.", start: 1219.43, end: 1223.23}
+  - {text: "How can we avoid them being recruited on social media or while they are in the hands of our social service institutions where they take these vulnerable children to take care of them", start: 1223.23, end: 1235.91}
+  - {text: "but instead they have been recruited even from there.", start: 1235.91, end: 1238.63}
+  - {text: "Through our government we have seen how they are putting more pressure on the social media platforms.", start: 1238.87, end: 1243.97}
+  - {text: "Since this summer it is possible for the Swedish police to demand that the social media companies remove murder ads within one hour or else they might be fined.", start: 1244.29, end: 1255.55}
+  - {text: "But still we see new ads coming up so the problem has not vanished.", start: 1255.79, end: 1260.11}
+  - {text: "Diamant Salahou speaking to Nick Miles.", start: 1260.91, end: 1263.75}
+  - {text: "Next, student led demonstrations have continued in Albania for a fourth day.", start: 1264.43, end: 1269.31}
+  - {text: "Protesters in the capital Tehran and five other cities clashed with police who pushed them back using tear gas and water cannon.", start: 1275.66, end: 1284.00}
+  - {text: "More than 120 people have been arrested and dozens have been injured.", start: 1284.00, end: 1288.42}
+  - {text: "Several hundred protesters gathered near Prime Minister Eddie Rama's office and others marched towards the Ministry of Education in protest at poor education facilities, rising living costs and alleged government corruption.", start: 1288.92, end: 1301.82}
+  - {text: "Eddie Rama has resisted calls to resign.", start: 1302.42, end: 1304.76}
+  - {text: "Nick Thorpe is in Tirana and gave us this update.", start: 1305.32, end: 1307.98}
+  - {text: "The protests here in Tirana have continued for the fourth day and they have been violent.", start: 1308.76, end: 1314.74}
+  - {text: "As darkness fell here in Tirana there have been more clashes with protesters.", start: 1315.42, end: 1320.62}
+  - {text: "Many of them university and high school students throwing stones, firecrackers and sometimes molotov cocktails at the police, guarding government buildings.", start: 1321.12, end: 1332.96}
+  - {text: "Not just here near the Prime Minister's office but in several parts of the city.", start: 1333.36, end: 1338.14}
+  - {text: "The police response has been fierce.", start: 1338.14, end: 1341.36}
+  - {text: "They've head back with water cannon and tear gas.", start: 1341.86, end: 1345.06}
+  - {text: "The Prime Minister Eddie Rama has repeatedly condemned the violence, said he will negotiate with students over legitimate demands about universities and higher education but he has also blamed this violence both on the opposition Democratic Party", start: 1345.70, end: 1364.58}
+  - {text: "and on what he calls foreign actors without specifying who that might be.", start: 1364.58, end: 1369.74}
+  - {text: "More than 100 people have been arrested and the protests have spread to other cities here in Albania.", start: 1370.28, end: 1377.02}
+  - {text: "So with both sides radicalising the government, the police and the protesters on the streets there's no sign of an end to these protests anytime soon.", start: 1377.24, end: 1388.62}
+  - {text: "That was Nick Thorpe.", start: 1389.22, end: 1390.46}
+  - {text: "Italian authorities are investigating a suspected fraud involving penile implant surgeries at a hospital in Sicily.", start: 1391.01, end: 1399.65}
+  - {text: "Investigators say that people receiving implants they don't medically qualify for may have cost Italy's public health service around three and a half million dollars.", start: 1400.43, end: 1410.47}
+  - {text: "Nick Miles spoke to our reporter Carla Conti.", start: 1411.01, end: 1413.31}
+  - {text: "This concerns five doctors at the San Giovanni di Dio Hospital in Agri Gento in the Italian region of Sicily.", start: 1413.75, end: 1419.93}
+  - {text: "The allegation here is that penile implant surgeries were being carried out at the expense of Italy's public health service for patients who weren't actually entitled to have them funded by the state.", start: 1420.35, end: 1431.87}
+  - {text: "Now these implants can be paid for publicly but only under quite specific circumstances and prosecutors suspect that patients outside of these categories were nevertheless receiving these surgeries for free", start: 1432.43, end: 1446.01}
+  - {text: "when they should have effectively been paying for them privately.", start: 1446.01, end: 1448.91}
+  - {text: "So how did investigators find out what allegedly had been happening?", start: 1448.91, end: 1452.63}
+  - {text: "The first alarm appears to have been raised within the health service itself.", start: 1452.85, end: 1457.41}
+  - {text: "The former commissioner of the hospital reportedly noticed an unusually high number of these operations were being performed and we're talking around a hundred of these in the span of five years and he referred the matter to prosecutors.", start: 1457.75, end: 1470.27}
+  - {text: "There were also patients travelling to the town of Agri Gento from other parts of Italy and reports suggest that some had been attracted there through promotion on social media.", start: 1470.87, end: 1479.73}
+  - {text: "And that led to the authorities seizing 112 medical records relating to surgeries carried out between the years 2018 and 2024.", start: 1480.35, end: 1489.75}
+  - {text: "And it is thought that potentially 3 million euros of public money was used here.", start: 1490.27, end: 1496.11}
+  - {text: "How did investigators come up with that figure?", start: 1496.45, end: 1498.51}
+  - {text: "The 3 million euro figure is not an established loss at this stage.", start: 1498.73, end: 1502.29}
+  - {text: "What we do know from reports across Italian media is that the penis implant itself cost around $8 ,000.", start: 1502.59, end: 1509.03}
+  - {text: "But once you include the surgery and the hospital costs each procedure can come to roughly 30 ,000 euros and that's roughly $34 ,000.", start: 1509.77, end: 1519.69}
+  - {text: "So if roughly 100 operations were paid for by the stage when they shouldn't have been you're looking at a possible sum of around $3 .5 million.", start: 1520.39, end: 1528.83}
+  - {text: "And we should also clarify that as for the doctors we still don't know whether they financially benefited from performing these surgeries.", start: 1529.55, end: 1536.69}
+  - {text: "That was Carla Conte speaking to Nick Miles.", start: 1537.57, end: 1539.83}
+  - {text: "This week the French Senate backed a bill that if passed will mean all new cars have to be fitted with a car radio.", start: 1540.55, end: 1547.13}
+  - {text: "Comes as more dashboards become touch screens with some manufacturers leaving out radios altogether.", start: 1547.61, end: 1553.79}
+  - {text: "As Brussels and Washington begin the process of protecting car radios the same question is being asked in the UK should the car radio be a legal requirement.", start: 1554.39, end: 1563.75}
+  - {text: "Gabriel O 'Regan reports.", start: 1564.23, end: 1565.65}
+  - {text: "For almost 12 million of us in the UK the car is the only place we listen to the radio.", start: 1572.18, end: 1577.66}
+  - {text: "Since 2020 if a car comes with a radio then it must receive digital radio stations but nothing says that the next car you buy has to come with a radio at all.", start: 1578.00, end: 1587.40}
+  - {text: "And some car makers appear to be ditching them altogether which has led France and the United States to consider stronger legislation to protect the car radio.", start: 1587.52, end: 1596.24}
+  - {text: "The main argument of campaigners and legislators there to mandate it is one of public safety and resilience.", start: 1596.64, end: 1602.36}
+  - {text: "A massive power cut hits Spain and Portugal.", start: 1603.04, end: 1605.96}
+  - {text: "The blackout caused chaos crippling transport systems, cutting off phone networks and closing shops, offices and restaurants.", start: 1606.44, end: 1613.28}
+  - {text: "The president of Radio France pointing to blackouts in Spain and Portugal last year and the rise of natural disasters and cyber attacks declared a car", start: 1613.72, end: 1622.10}
+  - {text: "without a radio is a blind spot for civil protection.", start: 1622.10, end: 1625.54}
+  - {text: "This is a national programme.", start: 1625.86, end: 1627.00}
+  - {text: "Here is the weather forecast for tomorrow.", start: 1627.80, end: 1629.48}
+  - {text: "The car radio is almost as old as the BBC.", start: 1630.28, end: 1632.42}
+  - {text: "In 1922 the year the BBC began Daimler showed off a Marconi wireless set at the Motor Show at Olympia.", start: 1632.88, end: 1639.16}
+  - {text: "The 1930s saw a company called Motorola build one of the first commercially successful car radios.", start: 1639.44, end: 1645.50}
+  - {text: "A company whose very name is a nod to the motor car.", start: 1645.86, end: 1648.54}
+  - {text: "Sean Street is Emeritus Professor of Radio at the University of Bournemouth.", start: 1649.18, end: 1653.22}
+  - {text: "Growths in car radio came about when the motorways were launched because there were people on long journeys needing to be kept alert.", start: 1653.26, end: 1663.60}
+  - {text: "And while live listening at home has fallen, listening to live radio in the car has grown by more than 50 % in 20 years.", start: 1664.08, end: 1671.34}
+  - {text: "In a car, that sense of being connected to a community is perhaps more important than any time.", start: 1671.64, end: 1678.94}
+  - {text: "News programme or just a traffic report.", start: 1678.94, end: 1681.64}
+  - {text: "16 to 3 in Great Britain, here's Sally Traffic.", start: 1684.68, end: 1686.96}
+  - {text: "Good afternoon, usual busy Friday afternoon.", start: 1687.06, end: 1689.16}
+  - {text: "It's all to do with human contact, isn't it?", start: 1689.42, end: 1692.30}
+  - {text: "Really, I keep saying that people like me are not going to exist for much longer because you can get all of what we do electronically", start: 1692.40, end: 1700.48}
+  - {text: "but I think the difference is I care.", start: 1700.48, end: 1703.88}
+  - {text: "France and America then have taken the first steps towards protecting the car radio.", start: 1704.64, end: 1708.92}
+  - {text: "In Britain, a review of digital radio and audio will be put before ministers by the end of the year and be published early next.", start: 1708.92, end: 1715.64}
+  - {text: "Our love for the car radio appears, for now at least, to be going nowhere.", start: 1716.38, end: 1720.42}
+  - {text: "That was Gabriel O 'Regan.", start: 1720.97, end: 1723.07}
+  - {text: "And that's all from us for now.", start: 1725.05, end: 1726.79}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1727.01, end: 1731.67}
+  - {text: "You can also find us on X at BBC World Service.", start: 1731.97, end: 1735.77}
+  - {text: "Use the hashtag Global NewsPod.", start: 1736.01, end: 1737.73}
+  - {text: "Don't forget our sister podcast, The Global Story.", start: 1737.73, end: 1740.69}
+  - {text: "This edition of the Global News Podcast was mixed by Pat Sissons and the producer was Stephen Jensen.", start: 1741.35, end: 1746.99}
+  - {text: "The editor is Karen Martin and I'm Charlotte Gallagher.", start: 1747.43, end: 1749.95}
+  - {text: "Until next time, goodbye.", start: 1750.19, end: 1751.35}
+---

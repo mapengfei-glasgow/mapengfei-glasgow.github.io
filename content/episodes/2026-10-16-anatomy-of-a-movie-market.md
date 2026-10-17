@@ -1,0 +1,392 @@
+---
+layout: single
+title: "Anatomy of a movie market"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-16T00:00:00Z
+slug: "2026-10-16-anatomy-of-a-movie-market"
+audioDir: "2026-10-16-anatomy-of-a-movie-market"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-16-anatomy-of-a-movie-market/episode.mp3"
+totalDuration: 2146.1
+sentences:
+  - {text: "This message comes from Apollo.", start: 0.00, end: 1.56}
+  - {text: "Apollo provides access to long duration capital and a broad range of financing capabilities helping companies drive growth at an efficient cost of capital.", start: 2.00, end: 10.10}
+  - {text: "Learn more at Apollo .com slash capital.", start: 10.36, end: 13.58}
+  - {text: "This is Planet Money from NPR.", start: 14.73, end: 17.05}
+  - {text: "The other night, I was sitting on my couch scrolling through all the streaming movies on offer like you do, trying to decide between some new indie comedy and a broody documentary.", start: 20.03, end: 29.13}
+  - {text: "And then I started thinking about the actual selection available to me, because I recently got a glimpse into the hidden market behind that menu, the negotiations", start: 30.02, end: 39.46}
+  - {text: "and strategy that determine which movies make it to a screen near you.", start: 39.46, end: 43.64}
+  - {text: "And I learned the story of how any one film gets plucked from obscurity can be just as entertaining as the movies themselves.", start: 44.14, end: 50.84}
+  - {text: "It began one cold bright January morning in a movie theater parking lot in Park City, Utah.", start: 52.57, end: 58.03}
+  - {text: "I'd arrived just before the start of the 2026 Sundance Film Festival to meet up with a guy named John Sloss.", start: 58.63, end: 65.45}
+  - {text: "Has anybody ever called you Mr.", start: 66.01, end: 67.55}
+  - {text: "Sundance? I've been, yeah, King of Sundance.", start: 67.79, end: 72.75}
+  - {text: "Yeah. In 2006, I think I was on page A1 of the New York Times.", start: 73.03, end: 78.71}
+  - {text: "And I think that article referred to me as the King of Sundance, which is not a title people want these days.", start: 79.09, end: 84.91}
+  - {text: "Kings are out of traction.", start: 85.25, end: 86.79}
+  - {text: "That's true. They're parades against that sort of thing these days.", start: 86.79, end: 89.85}
+  - {text: "Exactly. John is the founder of a company called Synetic Media, which does all sorts of things in the world of independent movies, from fundraising to PR.", start: 90.13, end: 98.41}
+  - {text: "But the thing that John is most known for is his work as a sales agent for films.", start: 99.07, end: 103.31}
+  - {text: "John's job is to turn unique pieces of cinematic art into saleable commodities.", start: 103.93, end: 109.09}
+  - {text: "Over the next week or so, his mission will be to get a handful of buyers representing some of the biggest companies in entertainment to see the films in his slate", start: 109.77, end: 117.75}
+  - {text: "and convince them to make a series of multi -million dollar bets.", start: 117.75, end: 121.65}
+  - {text: "John's partner in this endeavor, the sort of hand of the king, is actually his nephew, Eric Sloss.", start: 122.23, end: 127.49}
+  - {text: "The three of us are standing in front of a huge crowd of people lining up for the first screening of the festival.", start: 128.09, end: 132.95}
+  - {text: "It's for a documentary about Mount Neering called The Last First, Winter K2.", start: 133.31, end: 137.65}
+  - {text: "But Eric has his eyes peeled for a very particular handful of people.", start: 138.13, end: 142.33}
+  - {text: "The real audience for our purposes at this festival specifically is very small and that is about 10 people who can buy a documentary at the level that we're interested in.", start: 143.03, end: 151.69}
+  - {text: "It's Netflix, Apple, Amazon, places like that.", start: 151.99, end: 154.93}
+  - {text: "Do you got like butterflies before the festival opens?", start: 155.25, end: 157.19}
+  - {text: "Yeah, it's like the minutes before the big game.", start: 157.49, end: 159.51}
+  - {text: "This is sort of the only wild west environment left in the entertainment industry and that is inherently exciting.", start: 159.99, end: 166.57}
+  - {text: "One big part of John and Eric's job is to push for their films to play at the best possible time and venue.", start: 167.11, end: 172.91}
+  - {text: "For this documentary, they had managed to get a theater with one of the bigger screens and better sound systems in Park City, which is perfect for an epic outdoor film.", start: 173.41, end: 181.67}
+  - {text: "But getting the first time slot of the whole festival, Eric says that was a bit of a tough draw.", start: 182.07, end: 187.11}
+  - {text: "We were really nervous that because it's the first screening in the festival that people wouldn't be in town.", start: 187.39, end: 191.73}
+  - {text: "Were you like looking around and just double checking that the people you wanted to see in the room were here?", start: 191.99, end: 195.71}
+  - {text: "We are tracking buyers as they're coming in.", start: 196.27, end: 198.75}
+  - {text: "Do you know all the buyers by face?", start: 199.13, end: 200.69}
+  - {text: "More or less. We actually have trading cards that we've created.", start: 201.35, end: 203.71}
+  - {text: "Okay, have we got most of them?", start: 204.43, end: 205.91}
+  - {text: "Have we collected them all?", start: 206.01, end: 206.85}
+  - {text: "I think we've done a pretty good job here.", start: 207.11, end: 208.47}
+  - {text: "We've got people from Apple, Amazon, Disney.", start: 208.67, end: 210.83}
+  - {text: "Just then, John waves to a guy with salt and pepper hair and thick black frame glasses.", start: 211.33, end: 215.71}
+  - {text: "Eugene! The first screening.", start: 216.17, end: 217.87}
+  - {text: "Oh, my God. Thanks, buddy boy.", start: 217.87, end: 221.44}
+  - {text: "Eugene Hernandez is the head of the Sundance Film Festival.", start: 222.16, end: 225.06}
+  - {text: "Every year, he and his team winnow down thousands of submissions to just around 100.", start: 225.54, end: 229.74}
+  - {text: "But making it into the festival does not guarantee that a film will actually sell.", start: 230.40, end: 234.76}
+  - {text: "How are we feeling about the market this year?", start: 235.18, end: 237.22}
+  - {text: "I'm always hopeful on the first date.", start: 237.56, end: 239.02}
+  - {text: "It's always hard to predict exactly how the market will respond.", start: 239.14, end: 242.98}
+  - {text: "I see buyers walking up right now.", start: 243.92, end: 245.66}
+  - {text: "Exciting. Head of Acquisitions for Sony Classics right there.", start: 245.92, end: 250.12}
+  - {text: "So, you know, Dylan's got to write a check and then the movie gets out there.", start: 251.04, end: 254.96}
+  - {text: "Before this moment, I don't think I'd fully realized exactly how small and personal the entertainment industry can be.", start: 255.52, end: 261.58}
+  - {text: "This idea that the commercial fate of any given film might ultimately come down to the tastes and calculations of a tiny handful of decision -makers.", start: 262.02, end: 270.14}
+  - {text: "Closer to the middle is close to the middle as you can get.", start: 272.80, end: 275.06}
+  - {text: "Thank you. We take our seats near the front of the theater.", start: 275.20, end: 277.68}
+  - {text: "The house lights start to dim.", start: 277.94, end: 279.30}
+  - {text: "The crowd begins to hush.", start: 279.30, end: 280.84}
+  - {text: "And the first light of the festival illuminates the screen.", start: 281.32, end: 283.90}
+  - {text: "John and Eric sneak glances around the theater because the way this first -ever audience reacts could make the difference between an all -night bidding war", start: 284.54, end: 292.80}
+  - {text: "or being relegated to the dustbin of Sundance history.", start: 292.80, end: 296.98}
+  - {text: "Hello and welcome to Planet Money.", start: 297.48, end: 298.70}
+  - {text: "I'm Alexi Horowitz -Gazi.", start: 298.88, end: 299.88}
+  - {text: "In the world of independent film, getting your movie into a place like Sundance might seem like making it to the top of the filmmaking mountain,", start: 300.36, end: 307.32}
+  - {text: "but it turns out that at least commercially speaking, getting accepted is a little more like getting to base camp.", start: 307.88, end: 314.24}
+  - {text: "To get to the summit, the realm of movie theaters and streaming platforms, you actually need to sell that movie to someone who can put it onto screens around the world.", start: 314.70, end: 323.22}
+  - {text: "Today on the show, the anatomy of a movie market.", start: 323.90, end: 326.52}
+  - {text: "We follow a pair of seasoned sales agents through Sundance, through the gauntlet of exclusive parties, stunt performances, corporate spycraft, and backroom deals.", start: 326.86, end: 336.04}
+  - {text: "We learn how this festival transformed the industry and get a peek into the messy business of turning cinematic art into cold, hard cash.", start: 336.68, end: 345.50}
+  - {text: "This message comes from Superhuman.", start: 354.07, end: 355.91}
+  - {text: "Have you heard of Superhuman Go?", start: 356.23, end: 357.99}
+  - {text: "Their Go AI chat helps you draft emails and messages, and can also summarize long threads and documents.", start: 358.37, end: 364.07}
+  - {text: "It can search across your apps, all without leaving the page you're on.", start: 364.41, end: 368.05}
+  - {text: "It collaborates with you where you are, whether it's in a doc you're reading or the email you are writing.", start: 368.37, end: 373.45}
+  - {text: "Try Superhuman Go from the makers of Grammarly.", start: 373.81, end: 376.63}
+  - {text: "Find out more at superhuman .com.", start: 376.93, end: 379.17}
+  - {text: "Ideas into Action with a graduate program that caters to your professional needs and fits your lifestyle.", start: 396.56, end: 402.26}
+  - {text: "Ranked number one in entrepreneurship by US News and World Report.", start: 402.72, end: 405.86}
+  - {text: "Visit babson .edu slash grad programs.", start: 406.18, end: 409.16}
+  - {text: "This message comes from Capital One.", start: 409.72, end: 412.10}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 412.38, end: 416.08}
+  - {text: "What's in your wallet?", start: 416.18, end: 417.10}
+  - {text: "Terms apply. See Capital One dot com slash bank guy for details.", start: 417.40, end: 421.48}
+  - {text: "Capital One N .A., member FDIC.", start: 421.94, end: 424.12}
+  - {text: "Now, movies can make their way to screens around the world in different ways.", start: 425.78, end: 429.04}
+  - {text: "There is, of course, the big blockbuster fare, the Marvel and Pixar movies produced by Hollywood Studios.", start: 429.42, end: 434.80}
+  - {text: "There are things like Netflix movies made by Netflix to stream on their own platform.", start: 435.44, end: 439.36}
+  - {text: "And then there are what we call the independent movies, the scrappier lower budget films that often show up in places like the Oscars stage.", start: 439.86, end: 447.22}
+  - {text: "Those are the movies that are mostly bought and sold at film festivals like Sundance.", start: 447.86, end: 451.62}
+  - {text: "Sales agent John Sloss, sometimes called the king of Sundance, first started going to the festival back in the mid -1980s.", start: 452.10, end: 458.62}
+  - {text: "It had been founded by movie star Robert Redford as a place to celebrate independent filmmaking and protect it from the market forces of Hollywood.", start: 458.90, end: 466.14}
+  - {text: "But John says the breakout success of one movie in particular quickly transformed how the industry saw the festival.", start: 466.58, end: 473.12}
+  - {text: "The inflection point at Sundance was 1989 when Soderbergh brought Sex Lies and Videotape.", start: 473.12, end: 479.64}
+  - {text: "That changed everything. Steven Soderbergh's Sex Lies and Videotape was this low -budget feature film that took the festival by storm and eventually went on to gross over 36 million dollars.", start: 479.82, end: 489.78}
+  - {text: "And John says that kind of profit margin demonstrated to the whole Hollywood ecosystem that independent art house films could compete with studio blockbusters.", start: 490.34, end: 499.02}
+  - {text: "After that, Hollywood Studios started opening their own specialty divisions dedicated to acquiring and producing independent films.", start: 499.66, end: 506.60}
+  - {text: "And Sundance became one of the biggest markets for all those new indies, teaming with movie stars, up -and -coming directors, corporate buyers, and sales agents like John.", start: 506.90, end: 515.82}
+  - {text: "Now, John says when it comes to the art of actually selling an indie film, you can think of it as sort of a delicate two -step dance.", start: 516.52, end: 522.72}
+  - {text: "Because at the beginning, the most important thing is making sure that potential Hollywood power brokers actually see your movie in the most favorable screening context possible.", start: 522.90, end: 532.26}
+  - {text: "But the second phase, where you begin actually hammering out the details, that can require some hard line negotiating.", start: 532.66, end: 538.72}
+  - {text: "This has always been the inherent conflict because you need to be ingratiating to distributors before you screen the film to get them to come to your film.", start: 539.24, end: 550.20}
+  - {text: "And then once they do, you need to turn into an SOB and optimize the deal.", start: 550.38, end: 555.94}
+  - {text: "And so it's like a Jekyll and Hyde situation.", start: 555.94, end: 558.78}
+  - {text: "John says the way he's tried to handle that tension within his company is to make a sort of division of emotional labor.", start: 559.22, end: 565.06}
+  - {text: "I'm always more comfortable as the bad cop.", start: 565.48, end: 567.46}
+  - {text: "I love negotiating. And I always try to get ingratiating people out in front of me to try and get the distributors to it so that it doesn't seem too odd that I would switch on a dime.", start: 567.76, end: 577.22}
+  - {text: "But that's a big part of it, that kind of transition.", start: 578.16, end: 581.76}
+  - {text: "But the way you tango with potential buyers depends on the kind of movie you're trying to sell.", start: 581.76, end: 586.40}
+  - {text: "I asked John to walk me through some of the biggest deals he's made in his 40 years at the festival and what he's learned.", start: 586.80, end: 592.46}
+  - {text: "First, John told me you might think his job might be to talk up the movie he's selling as loudly as possible.", start: 593.06, end: 598.30}
+  - {text: "But John says there is a real danger in building up too much buzz.", start: 598.68, end: 602.56}
+  - {text: "The roads of Sundance Pass are littered with the bodies of films that got overhyped.", start: 602.98, end: 608.42}
+  - {text: "The hot film coming into Sundance is never the hot film going out of Sundance.", start: 609.00, end: 612.86}
+  - {text: "And so if you have a film that you think can be successful, it may seem counterintuitive, but the best instinct there is to downplay it,", start: 613.24, end: 622.20}
+  - {text: "to create the lowest expectations possible while getting all the necessary people in the theater.", start: 622.28, end: 627.36}
+  - {text: "John says one of the best examples of this strategy came back in 2003.", start: 627.60, end: 631.52}
+  - {text: "His company, Sennetic, came across a low -budget indie feature from a couple of first -time filmmakers ahead of the festival.", start: 631.94, end: 637.78}
+  - {text: "That was a film that sort of came in over the transom.", start: 637.78, end: 640.88}
+  - {text: "It's like a $200 ,000 film that was made by a bunch of Mormon kids in Preston, Idaho, and we flipped out over it.", start: 641.10, end: 648.24}
+  - {text: "John A's colleague signed the filmmakers onto their sales slate for the next Sundance, but he says they decided that the best strategy in this case would be to keep that information a secret.", start: 648.36, end: 658.16}
+  - {text: "They were essentially betting that audiences would find it just as charming as they did, and that the organic momentum of people talking about this sleeper", start: 658.68, end: 666.18}
+  - {text: "gem would help the odds of selling it more than any direct pitch to buyers.", start: 666.18, end: 670.12}
+  - {text: "That movie, by the way, was a kind of bizarre comedy by the name of Napoleon Dynamite.", start: 670.88, end: 679.14}
+  - {text: "It's pretty much my favorite animal.", start: 679.32, end: 680.90}
+  - {text: "It's like a lion and a tiger mixed.", start: 681.58, end: 683.24}
+  - {text: "Bradford's skills of magic.", start: 683.86, end: 685.12}
+  - {text: "The discovery of Napoleon Dynamite was atomic within that film festival, and that's when the market really, you know, matured.", start: 685.52, end: 694.68}
+  - {text: "Napoleon Dynamite was shot for around $200 ,000.", start: 694.68, end: 697.20}
+  - {text: "They sold it for about $5 million, and John says what happened after it hit theaters helps illustrate why studios and distributors were so interested in indie films.", start: 697.72, end: 707.04}
+  - {text: "It grossed $44 million, but with DVD sales, the revenue was, I think, like $170 million on a $200 ,000 film.", start: 707.48, end: 718.18}
+  - {text: "Now, usually John says the job of a sales agent is basically to chase after the buyers in drum -up demand, but he says there are some exceptions to that.", start: 718.58, end: 726.88}
+  - {text: "If you're lucky enough to have a popular film, as far as I'm concerned, that's when things flip.", start: 727.14, end: 731.86}
+  - {text: "That's when we're no longer selling.", start: 732.12, end: 734.12}
+  - {text: "That's when the distributors now have to sell the filmmakers on why they should commit their baby, the thing they've birthed for 18 months, to someone who hasn't had anything to do with it,", start: 734.60, end: 746.26}
+  - {text: "and not only that, has 10 other films to release after it.", start: 746.60, end: 749.44}
+  - {text: "John points to one film a few years after Napoleon Dynamite as a quintessential case study.", start: 749.44, end: 754.86}
+  - {text: "It was a quirky family road trip movie called Little Miss Sunshine.", start: 755.26, end: 758.80}
+  - {text: "John and his colleagues thought they had a crowd pleaser on their hands, but instead of trying to fly under the radar, they leaned a little bit into the hype.", start: 773.78, end: 782.56}
+  - {text: "They convinced the Sundance programmers to schedule their premiere on the first Friday night of the festival in the biggest, grandest theater in town.", start: 782.96, end: 790.04}
+  - {text: "Which is a high school auditorium, but it's a weirdly hot place to screen a movie, meaning that its films play well there.", start: 790.44, end: 798.74}
+  - {text: "Still, as the light dimmed, John says nobody really had any idea how the movie would land with an actual audience, but he says it became clear almost immediately.", start: 798.94, end: 808.46}
+  - {text: "Now, John says this was obviously the dream scenario, but he knew he still needed to play it right, and so in the middle of the screening, he whispers to the filmmakers.", start: 822.92, end: 833.20}
+  - {text: "I said, look, go to where the party is, and I'm going to disappear.", start: 833.62, end: 836.82}
+  - {text: "John and his assistant make a strategic exit from the theater.", start: 837.20, end: 840.52}
+  - {text: "My assistant and I went out on the side door, and we thought we were going to the parking lot.", start: 841.02, end: 845.52}
+  - {text: "We ended up in the middle of the football field at the high school with like two feet of snow, and we had to climb over this fence.", start: 845.54, end: 852.42}
+  - {text: "My assistant ended up cutting his hand and everything, and we just disappeared.", start: 852.54, end: 856.36}
+  - {text: "We went to the interstate, and we went to this place, Ruby Tuesdays, which is famous for their bottomless salad bar, and we sat there, and my phone completely exploded, and I didn't answer a single call,", start: 856.50, end: 869.78}
+  - {text: "and I had said to the filmmakers, when the buyers are going insane and they're looking for me and they come to the party, just say, I don't know where Slaus is.", start: 870.30, end: 881.44}
+  - {text: "I think he's off doing his thing.", start: 881.62, end: 882.90}
+  - {text: "We did the loof air of mystery.", start: 884.28, end: 885.92}
+  - {text: "Yes, and we did that for about three hours, and then we decided to prioritize the buyers and have them come by.", start: 886.52, end: 892.12}
+  - {text: "You see, every year John and his colleagues at Sinatic rent the same Lincoln Logs chalet just outside of town, and that is where he and his team and the Little Miss Sunshine directors retreat in order to begin the next part of the proceeding, the coveted bidding war.", start: 892.58, end: 906.20}
+  - {text: "This is when each of the interested buyers put together their best pitches, and this isn't just about offering the most money.", start: 906.20, end: 912.96}
+  - {text: "Each buyer wants to convince the filmmakers and agents that they would be best positioned to bring the film to the wider world.", start: 913.34, end: 919.96}
+  - {text: "They'll tell you the comparable films they've done, they'll tell you how much commitment they're going to make.", start: 920.22, end: 925.36}
+  - {text: "You try to save how many theaters will you commit to your at the same time you're negotiating the deal.", start: 925.42, end: 930.50}
+  - {text: "John says some filmmakers might prefer to go to a company that can promise a well -funded Oscars campaign.", start: 930.88, end: 936.16}
+  - {text: "If it's a film about a social issue, maybe they'll care most that the film is screened in particular communities, or that it sparks a broader policy conversation.", start: 936.70, end: 944.42}
+  - {text: "But if it's a first -time director, picking the right distributor is also largely about the long game.", start: 945.06, end: 950.52}
+  - {text: "Because there's a good chance that the person you choose is going to be the company that that filmmaker stays in business with even beyond this film.", start: 951.06, end: 960.08}
+  - {text: "You might be arranging a marriage.", start: 960.24, end: 961.54}
+  - {text: "Yeah, in a certain way.", start: 961.54, end: 963.00}
+  - {text: "You're a yenta. In the case of Little Miss Sunshine, John says the filmmakers were eventually swayed by one company's plan to play the film way beyond the Art House Theater Circuit to support an awards campaign and to pay over 10 million dollars.", start: 963.36, end: 977.88}
+  - {text: "And that was a film where we stayed up all night and closed it for a record at that point in the morning.", start: 978.38, end: 983.44}
+  - {text: "So that is how an almost universally well -received movie can end up making it through the sales gauntlet.", start: 983.94, end: 989.30}
+  - {text: "But convincing anyone to buy a film can also be an extremely uphill battle.", start: 989.84, end: 994.28}
+  - {text: "John says if you want to really understand how much strategy and labor and luck can go into selling a movie and getting it to a wider audience,", start: 994.90, end: 1002.24}
+  - {text: "there's perhaps no better example than the story of the film, Precious.", start: 1002.56, end: 1006.60}
+  - {text: "It's a pretty hardcore movie about this overweight African -American girl who just gets abused by everyone.", start: 1006.90, end: 1013.92}
+  - {text: "Nobody loved me. People do love you, Precious.", start: 1014.22, end: 1017.16}
+  - {text: "Your baby loves you.", start: 1017.78, end: 1019.00}
+  - {text: "John says he first heard about Precious in the lead -up to Sundance in January of 2009.", start: 1020.88, end: 1025.60}
+  - {text: "It was from a relatively green director named Lee Daniels.", start: 1026.10, end: 1029.18}
+  - {text: "We saw the film.", start: 1029.38, end: 1030.20}
+  - {text: "We realized it's quality.", start: 1030.34, end: 1032.18}
+  - {text: "But you've got to ask yourself, who's the audience for this film?", start: 1032.72, end: 1035.46}
+  - {text: "Because part of what you're doing when you're selling is making the case to a distributor who the audience is and how big it is.", start: 1035.52, end: 1042.40}
+  - {text: "John tells Lee that he thinks the film is beautiful and that he would like to help him sell it.", start: 1042.62, end: 1046.82}
+  - {text: "But he worries the themes of physical and sexual abuse may make it a difficult sell.", start: 1046.98, end: 1052.04}
+  - {text: "And I said to Lee Daniels, I said, I've been involved in a film like this before.", start: 1052.60, end: 1055.82}
+  - {text: "We did a film called Slam, which was a big phenomenon at Sundance.", start: 1055.94, end: 1059.00}
+  - {text: "And we sold it to Lionsgate.", start: 1059.36, end: 1061.10}
+  - {text: "And then we took the film directly to the Magic Johnson theaters around Compton and did a test screening for an African -American audience.", start: 1061.44, end: 1070.80}
+  - {text: "And the film screened abysmally.", start: 1071.08, end: 1074.10}
+  - {text: "John says Slam was kind of a cautionary tale for buyers.", start: 1074.10, end: 1077.52}
+  - {text: "It revealed that sometimes a film will be a hit with the largely white, relatively affluent audiences at Sundance, but fall flat with audiences of color or vice versa.", start: 1078.00, end: 1087.04}
+  - {text: "Sometimes a film will fall into some uncanny valley between them all.", start: 1087.58, end: 1090.80}
+  - {text: "And John worried Precious might be at risk of doing just that.", start: 1091.16, end: 1094.46}
+  - {text: "And Lee Daniels, to his credit, said, you're wrong.", start: 1094.74, end: 1098.34}
+  - {text: "And here's what I'm going to do.", start: 1098.96, end: 1100.08}
+  - {text: "I'm going to book a test screening at the Magic Johnson Theater on 125th Street in Harlem.", start: 1100.08, end: 1105.46}
+  - {text: "Everyone in that audience will be a person of color.", start: 1106.70, end: 1109.04}
+  - {text: "You come and sit in the audience, and you will see that this film plays completely different for a black audience than it does for the audience at Sundance.", start: 1109.88, end: 1119.28}
+  - {text: "And we did a test screening where you have scores and things like that, because that's also a tool that you can use.", start: 1120.18, end: 1125.28}
+  - {text: "And the film played, and people were falling out of their chairs laughing, and it scored huge.", start: 1126.34, end: 1133.26}
+  - {text: "And so we went to Sundance with the test results, so that when we got this word from distributors that they loved it, but they wouldn't know how a white audience wouldn't go see it, or a black audience wouldn't go see it,", start: 1134.02, end: 1146.38}
+  - {text: "that we could show them the results of this test, that a black audience would love this movie.", start: 1147.02, end: 1150.90}
+  - {text: "And that would be their sort of downside protection.", start: 1151.72, end: 1154.26}
+  - {text: "So John decides to rep the film for sale at the festival, they bring it to Sundance, and do everything they can to get the big buyers into the room to see it.", start: 1154.26, end: 1162.84}
+  - {text: "So we screened the film at that big theater, and Harvey Weinstein comes up to me and says, this is a brilliant movie, but I have no idea how to market it.", start: 1163.10, end: 1172.92}
+  - {text: "I'm like, oh, we're screwed.", start: 1173.52, end: 1174.80}
+  - {text: "But John says he also got word that someone with connections to Tyler Perry had loved the film, and thought they should screen it for Tyler as soon as possible.", start: 1175.26, end: 1183.10}
+  - {text: "The only problem? Tyler Perry is on his way to Washington for the Obama inauguration.", start: 1183.62, end: 1189.34}
+  - {text: "So we got a print to Washington, D .C.", start: 1189.72, end: 1192.34}
+  - {text: "Tyler Perry watched it and flipped out, and just said, what can I possibly do to help with this?", start: 1193.06, end: 1200.38}
+  - {text: "And Lee Daniels, being the candy guy that he is, said, show it to Oprah.", start: 1201.02, end: 1205.90}
+  - {text: "So we arranged to get the film to Oprah.", start: 1206.40, end: 1208.76}
+  - {text: "But by the last couple days of Sundance, John and Lee still haven't heard whether Oprah's seen the film or whether she liked it.", start: 1209.52, end: 1215.42}
+  - {text: "And while the film was doing okay at the festival, audiences seemed generally warm and had gotten some positive reviews.", start: 1215.68, end: 1221.62}
+  - {text: "There still weren't any tangible bites when it came to actually selling it.", start: 1222.04, end: 1225.52}
+  - {text: "And then the awards night comes at Sundance.", start: 1225.70, end: 1227.64}
+  - {text: "So this is like right at the end, and we're sitting there at the awards ceremony, and Lee Daniels' cell phone rings in the audience, and he doesn't recognize the number.", start: 1227.74, end: 1239.45}
+  - {text: "And for some reason, he answered the phone anyway, and it was Oprah.", start: 1239.45, end: 1242.93}
+  - {text: "And Oprah says, your film split me wide open.", start: 1244.25, end: 1248.47}
+  - {text: "I will do anything to help you.", start: 1249.13, end: 1250.97}
+  - {text: "And then the film goes on to win both the audience award and the grand jury prize at Sundance.", start: 1252.00, end: 1256.06}
+  - {text: "So it's anointed. John says after the festival, they sold the film to Lionsgate for about $5 million.", start: 1256.34, end: 1261.60}
+  - {text: "And the film ended up grossing over $50 million.", start: 1262.54, end: 1265.80}
+  - {text: "It played to both black and white audiences.", start: 1266.58, end: 1268.68}
+  - {text: "But it could have very easily have just gone away if this series of events hadn't happened.", start: 1269.70, end: 1275.56}
+  - {text: "You have to lean into your luck or realize things that you didn't anticipate and pivot.", start: 1275.94, end: 1281.28}
+  - {text: "John says the story of Precious is the perfect illustration of the highly contingent way that movies are often bought and sold, and all the surprising deal -making", start: 1281.68, end: 1290.46}
+  - {text: "that can ultimately make the difference between a movie that stays trapped in the festival circuit forever and one that breaks out onto screens across the country.", start: 1290.46, end: 1298.58}
+  - {text: "Now in the years since Precious, the movie business has been through some pretty major twists and turns itself.", start: 1299.27, end: 1304.78}
+  - {text: "It's gone from a seller's market during the so -called streaming wars when sales agents like John could play highly competitive streamers against traditional movie distributors to get better deals,", start: 1305.26, end: 1314.80}
+  - {text: "to a softer market after COVID emptied out movie theaters and a succession of major mergers led to belt tightening in Hollywood.", start: 1315.20, end: 1321.94}
+  - {text: "And so that is the stage for the drama about to unfold on the snowy streets of Park City at this year's Sundance, where John and", start: 1324.02, end: 1331.40}
+  - {text: "Eric will try to find the right buyers for their portfolio of precious filmic art.", start: 1331.40, end: 1336.46}
+  - {text: "It's coming up after the break.", start: 1338.67, end: 1340.47}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1349.76, end: 1353.28}
+  - {text: "This message comes from LinkedIn.", start: 1354.02, end: 1355.54}
+  - {text: "Owning a small business comes with a lot of challenges and means juggling multiple things at once.", start: 1356.02, end: 1360.36}
+  - {text: "It's even harder to do it efficiently.", start: 1360.66, end: 1362.06}
+  - {text: "But with LinkedIn, you get all the tools you need to grow in one place.", start: 1362.50, end: 1366.40}
+  - {text: "With LinkedIn, simplify your sales, marketing and hiring so that you can actually run your small business.", start: 1366.70, end: 1372.88}
+  - {text: "Learn more at LinkedIn .com slash Planet Money Show.", start: 1373.28, end: 1376.76}
+  - {text: "Support for this podcast and the following message come from eTrade from Morgan Stanley.", start: 1377.38, end: 1381.38}
+  - {text: "Simplify your finances and discover the convenience of investing in banking all in one place.", start: 1381.70, end: 1387.04}
+  - {text: "Plus get up to $1 ,500 when you open a brokerage account with a qualifying deposit today.", start: 1387.18, end: 1392.70}
+  - {text: "Learn more at eTrade .com slash offer.", start: 1393.06, end: 1395.96}
+  - {text: "Banking products and services are provided by Morgan Stanley Private Bank, National Association, member FBIC.", start: 1395.96, end: 1402.40}
+  - {text: "Terms and other fees apply.", start: 1402.74, end: 1403.86}
+  - {text: "Investing involves risks. Morgan Stanley, Smith Barney, LLC, member CIPIC.", start: 1404.14, end: 1408.56}
+  - {text: "Okay, so that was our time -traveling journey through some of the biggest deals of Sundances past.", start: 1433.37, end: 1440.52}
+  - {text: "Now we return to this year's festival to see up close what it's like to try to sway film buyers today.", start: 1440.96, end: 1446.64}
+  - {text: "We began our story, you'll recall, at the first screening of the festival, a mountaineering documentary called The Last First, Winter K2, that John and Eric Sloss are selling.", start: 1447.50, end: 1457.06}
+  - {text: "After the screening, I catch up with Eric to hear about what the next week will look like.", start: 1457.80, end: 1461.50}
+  - {text: "The next week is moments of punctuated action with long waits in between.", start: 1461.98, end: 1468.56}
+  - {text: "There's a little purgatorial quality to some of it.", start: 1469.16, end: 1471.66}
+  - {text: "That's right. Yeah, there's a lot of sitting around and waiting for people to go.", start: 1471.74, end: 1475.22}
+  - {text: "The opening of the festival, he says, is like the starting pistol for a race that'll play out over the next five or so days.", start: 1475.58, end: 1481.74}
+  - {text: "Now, a lot of the strategy and competition that'll determine their success or failure, John explains, actually begins way before the festival.", start: 1482.52, end: 1489.62}
+  - {text: "Because in addition to pitching films and fielding offers from buyers, John's job is to select films with potential out of over a thousand they watch every year,", start: 1490.04, end: 1498.28}
+  - {text: "and then to convince filmmakers to let his company represent the movie.", start: 1498.50, end: 1502.00}
+  - {text: "John says in recent years, that part of the work has gotten a lot harder.", start: 1502.52, end: 1505.76}
+  - {text: "Because while Sennetics started out as one of the first big movers in this market, over the past decade or two, a new group of competitors have been encroaching into their territory.", start: 1506.06, end: 1514.46}
+  - {text: "The big Hollywood talent agencies, like William Morris Endeavour, or Creative Artist Agency, represent actors and writers and directors.", start: 1515.02, end: 1521.84}
+  - {text: "They were already putting together the deals to get various projects off the ground, and so John says, they started proposing more and more that when it came time to sell that film,", start: 1522.48, end: 1531.38}
+  - {text: "they should be the ones handling that negotiation too.", start: 1531.62, end: 1534.20}
+  - {text: "So many of the films John and Eric might have otherwise signed onto their sales slate were already spoken for.", start: 1534.94, end: 1539.96}
+  - {text: "And it really cut into our business.", start: 1540.26, end: 1541.74}
+  - {text: "Which is part of the reason, for many years we really had a hard time getting scripted films.", start: 1541.74, end: 1548.44}
+  - {text: "Because we have to survive, we sort of pivoted toward documentaries and worked hard to sort of increase the value of documentaries in the marketplace.", start: 1550.48, end: 1557.12}
+  - {text: "Out of the 10 movies Sennetic is representing at Sundance this year, six of them are documentaries.", start: 1557.48, end: 1562.02}
+  - {text: "So that is the competition John and Eric face in the lead up to the festival.", start: 1562.86, end: 1566.54}
+  - {text: "But once they actually get there, they not only want to get the right buyers in the room, but they also want to fill the room with sympathetic audience members,", start: 1566.94, end: 1574.06}
+  - {text: "maybe get a few film critics or topical influencers to get the buzz ball rolling and hopefully nudge those buyers toward an offer.", start: 1574.58, end: 1581.58}
+  - {text: "I like to call this strategy controlling the narrative, aka inception.", start: 1582.30, end: 1586.92}
+  - {text: "This has always been part of the Sundance sales game, but John says that trying to get the right mixture of reviews at just the right time has become much more difficult", start: 1587.68, end: 1596.02}
+  - {text: "as things like Letterbox and X have democratized the conversation over any given movie.", start: 1596.02, end: 1600.72}
+  - {text: "Yeah, and the first person who writes about a film couldn't be the controlling voice.", start: 1601.38, end: 1605.14}
+  - {text: "And beyond trying to control the narrative around their films, John and Eric need to keep tabs on the competition at Sundance, on how buyers are", start: 1605.56, end: 1613.14}
+  - {text: "reacting to all the movies they are not representing.", start: 1613.14, end: 1615.78}
+  - {text: "And some of what they're doing basically boils down to good old fashioned spy craft.", start: 1616.38, end: 1620.56}
+  - {text: "I mean, we have 14 people here.", start: 1620.92, end: 1622.26}
+  - {text: "They're hardwired into the community.", start: 1622.38, end: 1624.14}
+  - {text: "You just sort of send them out and some of them go to the screenings to use congregating afterwards.", start: 1624.46, end: 1629.10}
+  - {text: "Yeah, it's like a full intelligence kind of operation.", start: 1629.66, end: 1633.30}
+  - {text: "I like to call this one behind frenemy lines because sometimes a bidding war will break out for another company's movie and that could potentially impact John and Eric's sales prospects.", start: 1633.78, end: 1643.74}
+  - {text: "The buyers at this festival, the big theatrical distributors and streaming companies, they only have so much cash to spend on new acquisitions.", start: 1644.48, end: 1651.72}
+  - {text: "So a shiny bright new object that everybody wants could tie up a lot of money and attention.", start: 1652.04, end: 1657.36}
+  - {text: "At least until the winning buyer emerges and all the runners up are freed up again to chase other possible movies.", start: 1657.86, end: 1663.28}
+  - {text: "Now, beyond these kinds of information management and intelligence gathering, Eric tells me they sometimes resort to old fashioned showmanship.", start: 1664.18, end: 1671.78}
+  - {text: "They'll put on a kind of stunt event to hopefully woo buyers.", start: 1672.22, end: 1675.12}
+  - {text: "This year, for example, one of the documentaries on Synthetic Slate is a movie called The Disciple which tells the story of a clandestinely recorded Wu", start: 1675.84, end: 1683.66}
+  - {text: "Tang Clan album with only one copy in the world.", start: 1683.66, end: 1686.88}
+  - {text: "In order to build hype for that film, Eric decided to put together an exclusive listening party at a fancy chalet outside a town.", start: 1686.88, end: 1694.62}
+  - {text: "And that is where I met him a couple days into the festival.", start: 1694.98, end: 1697.68}
+  - {text: "We are down valley from Park City at the chairman of the board of the Sundance Film Festival's house.", start: 1697.96, end: 1704.66}
+  - {text: "And what are we here for?", start: 1705.04, end: 1706.84}
+  - {text: "We are here to listen to, for the first time, five full songs from the Wu Tang Clan album Once Upon a Time in Chalet.", start: 1707.12, end: 1714.40}
+  - {text: "What do you call this type of move?", start: 1714.82, end: 1716.26}
+  - {text: "Uh, Sundance Theater. This is some classic Sundance Theater.", start: 1717.66, end: 1723.11}
+  - {text: "It's its own genre.", start: 1723.47, end: 1724.23}
+  - {text: "Included in this genre, the premiere of the documentary Exit Through the Gift Shop about the street artist Banksy.", start: 1725.31, end: 1731.19}
+  - {text: "That coincided with the mysterious appearance of several new pieces of Banksy's art around Park City.", start: 1731.49, end: 1736.83}
+  - {text: "Or the time influential critics and festival goers were invited to a midnight secret screening with no idea what they were about to see only to", start: 1737.29, end: 1744.81}
+  - {text: "be surprised with the world premiere of Jordan Peele's Get Out.", start: 1744.81, end: 1748.43}
+  - {text: "As for this year's stunt, Eric is betting that an exclusive listening party for an album that has never been publicly released will play on his potential buyer's FOMO.", start: 1749.23, end: 1758.23}
+  - {text: "And I assume I can record, get a snippet of the album, all that.", start: 1758.51, end: 1762.09}
+  - {text: "There is a strict no record policy.", start: 1762.39, end: 1764.83}
+  - {text: "When the album starts, everybody will be required to put their phones in yonder pouches and they'll be secured until after the album is finished.", start: 1765.35, end: 1773.11}
+  - {text: "What do you hope happens in there?", start: 1773.67, end: 1774.83}
+  - {text: "The only goal here is for people to enjoy the experience of watching this.", start: 1774.83, end: 1777.99}
+  - {text: "We don't need like the checkbooks to start coming out mid -party.", start: 1778.19, end: 1781.03}
+  - {text: "If they want to bring them out, that's fine.", start: 1781.37, end: 1782.43}
+  - {text: "The bidding work could start on the dance floor.", start: 1783.59, end: 1785.67}
+  - {text: "We'll set up a table and they can form an order to queue.", start: 1786.07, end: 1787.77}
+  - {text: "Eric and I head inside and for those of you curious about what I heard beyond the doors of that stately home, I can only say that much like Odysseus tied to the mast of his ship as it passed the Isle of the Sirens,", start: 1788.49, end: 1799.99}
+  - {text: "there are some songs that simply cannot be captured by human language.", start: 1800.43, end: 1803.77}
+  - {text: "In any event, over the next few days, I only managed to catch glimpses of John and Eric here and there as they run between various screenings and parties.", start: 1804.63, end: 1812.19}
+  - {text: "Finally, on Monday night, I find myself at the grand finale of their sales gauntlet, the extremely popular synthetic party that celebrates the close of the first weekend of the festival.", start: 1812.89, end: 1823.15}
+  - {text: "When I arrive, there are dozens and dozens of people lined up outside in the 27 -degree cold.", start: 1823.61, end: 1828.71}
+  - {text: "Some had been waiting for over an hour.", start: 1829.11, end: 1830.85}
+  - {text: "Inside, I find Eric in a packed part of the bar.", start: 1831.67, end: 1833.95}
+  - {text: "We're at High West Saloon for what I think is probably one of the oldest parties at Sundance.", start: 1834.53, end: 1840.45}
+  - {text: "Everybody's exhausted enough to come together and just let loose, but also a gathering where lots of deals end up taking place.", start: 1841.01, end: 1848.05}
+  - {text: "How do deals end up happening at a party?", start: 1848.39, end: 1849.99}
+  - {text: "Look, when you're trapped in a room and everybody's drunk, it's easy to have these conversations.", start: 1850.29, end: 1853.55}
+  - {text: "This is how movies really get sold over like an old -fashioned in an old -timey pickaxe -themed mining tavern.", start: 1853.81, end: 1860.73}
+  - {text: "Like I said, it's the Wild West.", start: 1861.05, end: 1862.61}
+  - {text: "What's your drink of choice?", start: 1862.85, end: 1863.79}
+  - {text: "Unfortunately, I don't drink at this party.", start: 1864.21, end: 1865.85}
+  - {text: "That seems smart. It's good to be the only one.", start: 1866.07, end: 1869.07}
+  - {text: "Let's call this strategy Loose Lips Grease Deals.", start: 1870.27, end: 1873.55}
+  - {text: "And while I don't actually happen to spy any deals going down amidst the revelry, I do get a call two days later from Eric and John inviting me to join them at their inner sanctum,", start: 1873.95, end: 1882.75}
+  - {text: "the synthetic Lincoln log mansion where so many sales have been closed over the years.", start: 1883.13, end: 1887.21}
+  - {text: "They pick me up in a strip mall parking lot and whisk me into the mountains.", start: 1887.79, end: 1891.03}
+  - {text: "John, where are we right now?", start: 1891.59, end: 1892.77}
+  - {text: "We are at the condo in Deer Valley that we have rented for the last 24 or 25 years.", start: 1893.33, end: 1899.85}
+  - {text: "Some of the biggest and most consequential deals in the history of the Sundance Film Festival have been consummated where you are sitting.", start: 1900.72, end: 1908.14}
+  - {text: "It's kind of all like a holy space.", start: 1908.64, end: 1910.02}
+  - {text: "It's a holy space.", start: 1910.68, end: 1911.56}
+  - {text: "John points to the place in the room where raps from some of the biggest streamers and studios in the world come to make their appeals.", start: 1911.96, end: 1917.72}
+  - {text: "They'll come in and they'll sit and the filmmakers will sit and we'll do negotiating.", start: 1918.28, end: 1923.28}
+  - {text: "Yeah, it's where commerce happens.", start: 1923.90, end: 1926.78}
+  - {text: "It's where art becomes commerce.", start: 1927.34, end: 1929.06}
+  - {text: "Then John starts filling me in on what happened after that first screening of the festival.", start: 1930.48, end: 1934.86}
+  - {text: "Apparently the head of documentary at one of the big streamers reached out to John and Eric to say they were interested.", start: 1935.34, end: 1940.58}
+  - {text: "But in this era of more limited budgets and corporate bureaucracy, they couldn't actually start negotiating until they had approval from their boss.", start: 1941.04, end: 1948.08}
+  - {text: "So John and the rest of the company spraying into action, setting up a private screening in the basement theater of the Lincoln -Logchalet.", start: 1948.80, end: 1955.54}
+  - {text: "Finally, the big boss arrives.", start: 1956.26, end: 1958.08}
+  - {text: "And then we started the film and made ourselves scarce.", start: 1958.70, end: 1960.78}
+  - {text: "And it could have gone either way.", start: 1961.56, end: 1962.58}
+  - {text: "You know, we knew that the head of documentaries loved the film, but if this guy didn't, an offer probably would not have materialized.", start: 1962.76, end: 1969.64}
+  - {text: "This is like what you need to get the sign off.", start: 1969.88, end: 1971.64}
+  - {text: "In this case, yeah.", start: 1971.98, end: 1972.84}
+  - {text: "I asked John what he means about an offer materializing and he hesitates for a moment.", start: 1973.30, end: 1978.00}
+  - {text: "I don't know when you're going to be on the air, but if you're going to be on the air tomorrow, I can't tell you this.", start: 1978.82, end: 1983.74}
+  - {text: "No, no, no. And like probably in like 10 months or something.", start: 1983.76, end: 1986.02}
+  - {text: "Oh, well, we just closed the first film, which is the last first K2 in winter.", start: 1986.24, end: 1991.90}
+  - {text: "We closed with Apple through the documentary.", start: 1991.92, end: 1994.12}
+  - {text: "Wow. That's the first to hear it.", start: 1994.60, end: 1996.86}
+  - {text: "That's huge news. You people are the last to hear it.", start: 1997.08, end: 1998.94}
+  - {text: "The Alexi are the first to hear it.", start: 1999.38, end: 2001.00}
+  - {text: "All right. Well, this is a time capsule into the future.", start: 2001.34, end: 2003.98}
+  - {text: "Congratulations. That seems like a big deal.", start: 2005.52, end: 2007.18}
+  - {text: "It is a big deal.", start: 2007.48, end: 2008.26}
+  - {text: "And everyone's happy. John tells me the rest of the sales are still in flux, but that'll keep me posted.", start: 2008.26, end: 2014.72}
+  - {text: "For the time being, we have to rush out the door to make it to a screening across town.", start: 2015.24, end: 2018.96}
+  - {text: "We get to the theater just in time, say our goodbyes, and I watch him disappear into the crowd.", start: 2019.54, end: 2024.80}
+  - {text: "And sure enough, now about nine months after my visit to Sundance, when I put some popcorn in the microwave, sink into the couch, and scroll through the latest streaming options on TV,", start: 2025.64, end: 2035.30}
+  - {text: "I see the mountaineering documentary, the last first streaming on Apple, and the Wu -Tang documentary, The Disciple, which just opened on Netflix.", start: 2035.90, end: 2043.54}
+  - {text: "But now, I think not just about all the artistry that went into actually making those films, but also the dealmaking that got them out into the world.", start: 2044.30, end: 2052.34}
+  - {text: "And then of course, I keep on scrolling with no end in sight, because actually choosing what to watch, that, my friends, is the hardest summit of all.", start: 2052.98, end: 2063.17}
+  - {text: "This episode of Planet Money was produced by Emma Peasley, edited by Jess Zhang, fact -checked by Sierra Juarez, and engineered by An Li Huang.", start: 2070.50, end: 2077.60}
+  - {text: "Alex Goldmark is Planet Money's executive producer.", start: 2077.94, end: 2080.24}
+  - {text: "Special thanks to Madison Murray, Bennett Levine, Alexandra Garcia, and Elise Shoreland.", start: 2080.76, end: 2084.96}
+  - {text: "I'm Alexi Horowitz -Gazi.", start: 2085.16, end: 2086.16}
+  - {text: "This is NPR. Thanks for listening.", start: 2086.44, end: 2088.48}
+  - {text: "This message comes from Mint Mobile.", start: 2119.92, end: 2122.52}
+  - {text: "While others have been hiking your bill, Mint Mobile has kept their wireless plans starting at $15 a month.", start: 2123.06, end: 2128.34}
+  - {text: "Switch to Mint Mobile and get three months of premium wireless service for $15 a month.", start: 2128.76, end: 2133.22}
+  - {text: "Go to mintmobile .com slash switch.", start: 2133.54, end: 2135.50}
+  - {text: "Upfront payment of $45 for three month plan required, $15 per month equivalent.", start: 2136.00, end: 2140.14}
+  - {text: "New customer offer first three months only, then full price plan options available.", start: 2140.62, end: 2143.96}
+  - {text: "Taxes and fees extra.", start: 2144.28, end: 2145.14}
+---
