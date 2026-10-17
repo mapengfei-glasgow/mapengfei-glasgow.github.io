@@ -251,6 +251,26 @@ The present evidence supports the following distinctions:
 
 These comparisons hold the volumetric penalty fixed. They do not rank its importance, establish mesh/time-step convergence, or demonstrate that the zero-viscosity case can use a larger time step.
 
+##### Recommended combination from the simulations so far (2026-10-17)
+
+**For the tested G64/R2 mixed Q1+P1 case, the leading candidate is CBS43 + modified invariants + the existing volumetric stabilisation, with zero added solid viscosity.** This is a provisional choice based on full-cycle completion and the least extreme minimum $J$ among the compared cases, rather than a demonstrated accuracy optimum.
+
+| Setting | Current recommendation |
+|:---|:---|
+| Fluid grid / solid mesh | G64 / R2, mixed Q1+P1 |
+| Coupling kernel | `--ib-kernel cbs43` |
+| Constitutive stress | `--sarah --sarah-stress mod` (modified invariants) |
+| Volumetric penalty | `--beta-s 5e6` |
+| Added solid viscosity | `--solid-nu 0`, provisionally |
+| Time step | `--dt 2e-5` s |
+| Outlet treatment | `--outlet-backflow` enabled |
+
+Retain the other settings of the completed comparison: $L_z=16.2$ cm, fluid `--nu 0.04`, tether `--kappa-s 5e6`, `--feedback-kappa 25000`, `--gap-kappa 5e7`, `--gap-mask 3.6`, `--gap-ramp 0.13` and `--passive-rim 3.73`. The `--kappa-s` option here sets tether strength, not the volumetric penalty. GPU level D with FMA was used for these runs.
+
+The recommended case completes to 1.335 s with $J_{\min}=0.211472$, compared with 0.167943 for modified stress with `solid-nu=1000` and 0.009898 for original stress with `solid-nu=1000`. However, its $J_{\max}=2.84226$ is worse than 2.65547 in the modified, viscous case, and $J_{\min}=0.211472$ still represents severe local compression. Keep the `solid-nu=1000` case as a reference: zero viscosity is not a uniformly better deformation result, and its lower backflow is not evidence of greater accuracy without reference data.
+
+This recommendation applies to this tested configuration and time step. A larger stable time step, transfer of the recommendation to G128, and comparison against direct deviatoric projection remain unverified. The volumetric coefficient was held fixed rather than optimised.
+
 #### (3) Volumetric stabilisation: parameter naming and limits
 
 The volume penalty above supplements the Eulerian incompressibility constraint; it does not replace the pressure solve. In the convention $U=\frac12\kappa_{\mathrm{vol}}(\ln J)^2$, our $\kappa_{\mathrm{vol}}=2\beta_s$. **The solver option `--kappa-s` instead controls tether strength** (`beta_tether = 100*kappa_s`), so it must not be confused with this volumetric coefficient.
