@@ -1,0 +1,14 @@
+{{- $notes := dict -}}
+{{- range site.RegularPages -}}
+  {{- $url := .RelPermalink -}}
+  {{- with .File -}}
+    {{- $entry := index (site.Data.word_notes | default dict) .Path -}}
+    {{- if $entry -}}
+      {{- $notes = merge $notes (dict $url $entry) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $resource := resources.FromString "word-notes.json" ($notes | jsonify) | fingerprint -}}
+<meta name="word-notes" content="{{ $resource.RelPermalink }}">
+<link rel="stylesheet" href="{{ (resources.Get "css/word-notes.css" | fingerprint).RelPermalink }}">
+<script defer src="{{ (resources.Get "js/word-notes.js" | fingerprint).RelPermalink }}"></script>

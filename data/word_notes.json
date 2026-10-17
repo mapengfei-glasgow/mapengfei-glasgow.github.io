@@ -1,0 +1,67 @@
+{
+  "posts/vocabulary-preview-demo.md": {
+    "mechanised": {
+      "pronunciation": "/ˈmekənaɪzd/",
+      "part_of_speech": "adjective",
+      "meaning": "机械化的；使用机器进行的",
+      "explanation": "Using machines; here, describing warfare carried out with industrial weapons.",
+      "context": "Thank you very much. So 1915-16, we are, of course, in the middle of World War I, the mechanised mass murder of the Western Front. The war, of course, extends across Central Europe into the Balkans."
+    },
+    "Western Front": {
+      "pronunciation": "/ˌwestən ˈfrʌnt/",
+      "part_of_speech": "proper noun",
+      "meaning": "西线；第一次世界大战中主要位于法国和比利时的战线",
+      "explanation": "The area in western Europe where opposing armies fought during World War I.",
+      "context": "Thank you very much. So 1915-16, we are, of course, in the middle of World War I, the mechanised mass murder of the Western Front. The war, of course, extends across Central Europe into the Balkans."
+    },
+    "Balkans": {
+      "pronunciation": "/ˈbɔːlkənz/",
+      "part_of_speech": "proper noun",
+      "meaning": "巴尔干地区；欧洲东南部的一个地区",
+      "explanation": "A region in southeastern Europe.",
+      "context": "Thank you very much. So 1915-16, we are, of course, in the middle of World War I, the mechanised mass murder of the Western Front. The war, of course, extends across Central Europe into the Balkans."
+    },
+    "Rampant": {
+      "pronunciation": "/ˈræmpənt/",
+      "part_of_speech": "adjective",
+      "meaning": "猖獗的；泛滥的；肆意蔓延的",
+      "explanation": "Spreading widely and without control; here, describing intense nationalism.",
+      "context": "Rampant nationalism is on the rise. The Ottoman Empire is collapsing. Russia is about to go through a revolutionary moment."
+    },
+    "Ottoman Empire": {
+      "pronunciation": "/ˈɒtəmən ˈempaɪə/",
+      "part_of_speech": "proper noun",
+      "meaning": "奥斯曼帝国",
+      "explanation": "An empire centred in what is now Turkey, which once ruled large parts of southeastern Europe, the Middle East, and North Africa.",
+      "context": "Rampant nationalism is on the rise. The Ottoman Empire is collapsing. Russia is about to go through a revolutionary moment."
+    },
+    "aspiring": {
+      "pronunciation": "/əˈspaɪərɪŋ/",
+      "part_of_speech": "adjective",
+      "meaning": "有志于成为……的；怀有抱负的",
+      "explanation": "Hoping and trying to become a particular kind of person, such as a writer or artist.",
+      "context": "So if you’re an aspiring student or an aspiring writer or artist and you don’t want to be brutally murdered in an insane war or in social unrest, then Zurich is a pretty good bet. Switzerland, of course, is neutral."
+    },
+    "brutally": {
+      "pronunciation": "/ˈbruːtəli/",
+      "part_of_speech": "adverb",
+      "meaning": "残忍地；残暴地",
+      "explanation": "In a very cruel or violent way.",
+      "context": "So if you’re an aspiring student or an aspiring writer or artist and you don’t want to be brutally murdered in an insane war or in social unrest, then Zurich is a pretty good bet. Switzerland, of course, is neutral."
+    },
+    "unrest": {
+      "pronunciation": "/ʌnˈrest/",
+      "part_of_speech": "uncountable noun",
+      "meaning": "动荡；骚乱；社会不安",
+      "explanation": "A situation in which people protest or fight because they are unhappy with social or political conditions.",
+      "context": "So if you’re an aspiring student or an aspiring writer or artist and you don’t want to be brutally murdered in an insane war or in social unrest, then Zurich is a pretty good bet. Switzerland, of course, is neutral."
+    },
+    "Switzerland": {
+      "pronunciation": "/ˈswɪtsələnd/",
+      "part_of_speech": "proper noun",
+      "meaning": "瑞士",
+      "explanation": "A country in central Europe; in this passage, a neutral country during World War I.",
+      "context": "So if you’re an aspiring student or an aspiring writer or artist and you don’t want to be brutally murdered in an insane war or in social unrest, then Zurich is a pretty good bet. Switzerland, of course, is neutral."
+    }
+  }
+}
