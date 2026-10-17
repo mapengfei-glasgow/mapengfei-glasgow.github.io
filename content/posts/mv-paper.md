@@ -225,7 +225,31 @@ The minimum $J$ improves substantially, but 0.168 still represents severe compre
 
 With IB4 and otherwise matching settings, modified stress fails after the last valid output at 0.66 s; original stress fails after 0.69 s. Thus this experiment does **not** support a general stability advantage for modified stress. No larger time step has yet been demonstrated for the completed CBS43 modified case. [Download the four-run comparison](/data/mv-stress-comparison.csv).
 
-**Separate the four choices.** Modified invariants change the energy through $\bar F$; a deviatoric projection applied directly to the original stress evaluated at $F$ is a different formulation away from $J=1$, and has not been separately tested here. The volumetric term controls volume drift. Solid viscosity damps deformation rates and is held fixed in the table; its effect requires the separate zero/nonzero-viscosity comparison. Modified stress changes the constitutive extension away from incompressibility and cannot repair a poor mesh, boundary instability or an excessive time step by itself.
+**Separate the four choices.** Modified invariants change the energy through $\bar F$; a deviatoric projection applied directly to the original stress evaluated at $F$ is a different formulation away from $J=1$, and has not been separately tested here. The volumetric term controls volume drift. Solid viscosity damps deformation rates and is held fixed in the stress-form table; its separate zero/nonzero comparison is reported below. Modified stress changes the constitutive extension away from incompressibility and cannot repair a poor mesh, boundary instability or an excessive time step by itself.
+
+##### Completed solid-viscosity comparison and current conclusions (2026-10-17)
+
+The zero-solid-viscosity run has now completed the full 1.335 s cycle. Both runs below use G64/R2 mixed Q1+P1, CBS43, modified invariants, outlet backflow stabilisation and $\Delta t=2\times10^{-5}$ s. Geometry, material coefficients, volumetric penalty, fluid viscosity and boundary settings are held fixed; only `--solid-nu` changes.
+
+| Metric | `solid-nu=1000` | `solid-nu=0` |
+|:---|---:|---:|
+| Completed to 1.335 s | Yes | Yes |
+| Minimum $J$ | 0.167943 | 0.211472 |
+| Maximum $J$ | 2.65547 | 2.84226 |
+| Mean flow rate, 0.10–0.16 s (cm³/s) | 482.59 | 467.37 |
+| Signed flow volume, 0.04–0.20 s (cm³) | 47.796 | 46.119 |
+| Signed flow volume, 0.20–0.56 s (cm³) | −3.393 | −2.501 |
+
+Removing solid viscosity reduces the first signed flow volume by 3.51% and the magnitude of closing backflow by 26.31%. The minimum $J$ is higher, but the maximum $J$ is also higher. Thus solid viscosity is **not required for completion at this tested time step**, yet it has a measurable effect on deformation and flow. Neither completion nor reduced backflow establishes which solution is more accurate. As above, $J$ extrema include the passive rim and are taken across saved frames; flow volumes use the sampled flow-rate curve. [Download the viscosity comparison](/data/mv-viscosity-comparison.csv).
+
+The present evidence supports the following distinctions:
+
+- **Kernel choice has the clearest effect on robustness in these tests.** CBS43 completes with original and modified stress, whereas IB4 fails with both at the same time step and nonzero solid viscosity. This is evidence for the tested MV configuration, not a universal ranking of kernels across meshes, resolutions or time steps.
+- **Modified invariants strongly affect extreme local compression.** At fixed CBS43 and solid viscosity, minimum $J$ rises from 0.009898 to 0.167943, while maximum $J$ becomes slightly worse. Both stress forms complete, so the observed benefit concerns the compression extreme rather than demonstrated completion or accuracy gains.
+- **Direct deviatoric projection remains an open comparison.** Modified invariants already yield a traceless isochoric Cauchy stress through the energy derivative. Projecting the original stress evaluated at $F$ is a separate formulation and has not been independently run here.
+- **Solid viscosity affects the solution but is unnecessary for completion in this case.** It should be judged against deformation, flow and reference data rather than retained or discarded solely because a run completes.
+
+These comparisons hold the volumetric penalty fixed. They do not rank its importance, establish mesh/time-step convergence, or demonstrate that the zero-viscosity case can use a larger time step.
 
 #### (3) Volumetric stabilisation: parameter naming and limits
 
