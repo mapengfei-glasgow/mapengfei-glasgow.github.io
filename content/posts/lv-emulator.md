@@ -2,6 +2,7 @@
 title: "Learning left ventricular contraction and dilation"
 description: "A geometry-aware graph emulator trained on finite-element simulations, with a curriculum from the PCA mean ventricle to a wider shape space."
 date: 2026-10-16
+lastmod: 2026-10-17
 academic: true
 ShowToc: true
 TocOpen: false
@@ -11,9 +12,36 @@ tags: ["Cardiac mechanics", "Graph neural networks", "PCA"]
 
 The aim of this project is to emulate the contraction and dilation of the left ventricle (LV) across different ventricular shapes, material properties, and loading conditions. Finite-element simulations provide displacement trajectories; an augmented MeshGraphNet learns to advance the nodal displacement in time.
 
-**Current phase — 16 October 2026:** the base model is being trained on the **PCA mean geometry**. New simulations are generated in parallel and admitted to training as they complete. Expansion to a broader geometry space is the next stage.
+**Current phase — 17 October 2026:** all **1,000 mean-geometry simulations are complete**. The base model is training with all **760 training cases**, with its latest evaluation recorded at **49,000 of 120,000 iterations**. Expansion to a broader geometry space is the next stage.
 
 [Source repository: lv-gls-bdf2-ho](https://github.com/mapengfei-glasgow/lv-gls-bdf2-ho)
+
+## Current training state
+
+*Snapshot recorded on 17 October 2026. This is a manual update from the training log, not a live dashboard.*
+
+**Training loss is the primary measure of progress.** It is the mean squared error of the normalised, noise-corrected one-step displacement update. The latest evaluation-window average is **0.0351**. The overall trend is downward, with occasional increases between evaluations.
+
+| Iteration | Training loss |
+|---|---:|
+| 10,000 | 0.1309 |
+| 20,000 | 0.0859 |
+| 30,000 | 0.0575 |
+| 40,000 | 0.0450 |
+| 49,000 | **0.0351** |
+
+| Campaign item | State |
+|---|---|
+| Mean-geometry solver simulations | **1,000 / 1,000 complete** |
+| Training cases admitted | **760 / 760** |
+| Planned optimisation iterations | 120,000 |
+| Latest recorded evaluation | **49,000 iterations** |
+| Validation / test split | 120 / 120 cases |
+| Fixed validation cases used during training | 10 |
+
+Rollout error is a **secondary diagnostic**. The latest full-cycle displacement RMSE is **2.10 mm**, averaged over the ten fixed validation cases. The best recorded rollout RMSE is **1.24 mm at iteration 45,000**. Rollout error fluctuates more than training loss: recent evaluations range from 1.24 to 6.42 mm, so these are interim results rather than final accuracy estimates.
+
+The loss uses running normalisation statistics and is dimensionless; it is not a displacement error in millimetres. The current `best.pt` checkpoint is selected by validation rollout RMSE, while training loss remains the primary indicator used to discuss learning progress.
 
 ## Geometry from PCA
 
@@ -64,11 +92,11 @@ The training targets come from the GLS P1/P1 velocity–pressure solver, using H
 
 Eight parameters vary: the material constants $a$, $b$, $a_f$, and $b_f$; active-tension amplitude; diastolic pressure; systolic pressure amplitude; and cycle length.
 
-The mean-geometry campaign contains **1,000 planned parameter samples**, drawn from a scrambled Sobol design. The fixed split is **760 training, 120 validation, and 120 test cases**. Because geometry is fixed at this stage, these held-out cases assess generalisation across parameters.
+The mean-geometry campaign contains **1,000 completed parameter samples**, drawn from a scrambled Sobol design. The fixed split is **760 training, 120 validation, and 120 test cases**. Because geometry is fixed at this stage, these held-out cases assess generalisation across parameters.
 
 ## Incremental training
 
-Training starts with the completed simulations while data generation continues. Every 500 iterations, the trainer checks for new completed training cases. Before admission, each simulation is checked against the intended geometry, topology, material and loading parameters, time-step count, and finite displacement fields.
+Training began with the completed simulations while data generation continued. Every 500 iterations, the trainer checks for new completed training cases; all 760 training cases have now been admitted. Before admission, each simulation is checked against the intended geometry, topology, material and loading parameters, time-step count, and finite displacement fields.
 
 The model predicts a displacement update at each real mesh node:
 
@@ -82,7 +110,7 @@ Adding samples preserves model weights, optimizer state, running normalization s
 
 ## Evaluation and next steps
 
-Evaluation uses full autoregressive rollouts. The quantities of interest are displacement error, cavity-volume curves, pressure–volume loops, and ejection fraction. Full validation and test evaluation follows the completed simulation campaign and training run; final accuracy results are not available yet.
+Evaluation uses full autoregressive rollouts. The quantities of interest are displacement error, cavity-volume curves, pressure–volume loops, and ejection fraction. Simulation generation is complete. Full validation and test evaluation will follow the current training run; final accuracy results are not available yet.
 
 Solver accuracy is assessed separately from emulator accuracy. In particular, local incompressibility errors and sensitivity to mesh resolution and stabilisation need to be considered alongside displacement and cavity-volume errors.
 
