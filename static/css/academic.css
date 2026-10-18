@@ -357,3 +357,15 @@
     overflow: hidden !important;
     clip-path: inset(50%);
 }
+
+/* LV literature proposals: requested dark green, on a pale background in both themes. */
+.post-content .lv-next-steps {
+    color: #006400;
+    background: #f3faf3;
+    padding: 1rem 1.2rem;
+    border-left: 3px solid #006400;
+    border-radius: 4px;
+}
+.post-content .lv-next-steps :is(h3, p, strong, em, a, code) {
+    color: inherit;
+}

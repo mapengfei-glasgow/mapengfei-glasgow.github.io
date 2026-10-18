@@ -235,6 +235,36 @@ The animation renderer writes PNG frames before combining them into GIFs. It use
 Solver accuracy and emulator accuracy are assessed separately. Local incompressibility errors, mesh resolution, and stabilisation sensitivity still matter when interpreting the finite-element targets, even when the emulator matches those targets closely.
 
 
+## Research directions with direct implementation value
+
+<div class="lv-next-steps">
+
+The papers below offer concrete experiments for this repository. Their reported results come from their own benchmarks; improvement on our LV data is a hypothesis to test. The order reflects implementation value for the present model, rather than publication date. Keep the current narrow-geometry run as the baseline and evaluate each change in a separate run.
+
+### 1. Bi-stride pooling: the first architecture experiment
+
+The requested paper, **Bi-Stride Multi-Scale Graph Neural Network for Mesh-Based Physical Simulation** {{< cite "cao2022bistride" >}}, constructs a hierarchy using breadth-first graph distance, selecting alternating frontiers for pooling. This is the 2022 preprint of the work published at [ICML 2023 under a revised title](https://proceedings.mlr.press/v202/cao23a.html). Our model already has multiscale communication, so the experiment is to replace its **k-means/k-nearest-neighbour hierarchy** in `surrogate/graph.py` with topology-based pooling and explicit down/up transfers. Shared tetrahedral connectivity lets us reuse the pooling indices across PCA shapes, while recomputing geometry-dependent edge features. Compare the two hierarchies at matched training budgets and similar parameter counts. This can use the existing trajectories; it requires neither new finite-element solves nor a claim that the baseline lacks a hierarchy.
+
+### 2. Pushforward training: a smaller change to the learning objective
+
+**Message Passing Neural PDE Solvers** {{< cite "brandstetter2022message" >}} addresses the mismatch between solver-state inputs during training and predicted-state inputs during rollout. Its pushforward method feeds predictions back into a later training step, stopping gradients through the preparatory rollout. A related two-step option already exists in this repository’s older `surrogate/train.py`, but is absent from the active curriculum trainer, `surrogate/train_base.py`. A direct experiment is to port a small, gradually introduced pushforward term into a separate curriculum run, preserving the current one-step loss and recording both losses separately. Select the weight using validation data, while keeping one-step training loss the primary learning diagnostic and testing only the final chosen recipe. The paper’s demonstrations concern other PDEs; cardiac benefit remains to be measured.
+
+### 3. X-MeshGraphNet: reduce memory costs before increasing resolution
+
+**X-MeshGraphNet** {{< cite "nabian2024xmeshgraphnet" >}} partitions graphs with overlapping halo regions and aggregates gradients to reproduce full-graph training under its stated setup. This is relevant to our 196,354-edge augmented graph and future finer meshes. First benchmark activation memory, time per optimiser step, and loss/gradient agreement on a small LV graph. Halos must cover the actual message-passing dependencies, halo nodes must not contribute duplicate loss, and normaliser statistics must be consistent across partitions. Our global hierarchy can make ten-hop halos very large, so simply partitioning the augmented graph may provide little saving; separating local fine-grid work from shared coarse processing is an implementation question to resolve. This is a scaling strategy, not evidence that the cardiac prediction error will fall.
+
+### 4. ROBIN: a recent nonlinear-solid-mechanics direction
+
+**Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics** {{< cite "wurth2025diffusion" >}} combines algebraic graph coarsening with rolling diffusion inference. Its solid-mechanics benchmarks make it especially relevant to global ventricular deformation. The smallest useful experiment is to borrow the **algebraic hierarchy** while retaining our deterministic one-step decoder, and compare it with k-means and bi-stride hierarchies before attempting diffusion. A full ROBIN-style model changes the training objective and inference procedure and cannot reuse our weights unchanged. The paper also identifies limitations concerning rotational equivariance and anisotropic materials; an LV implementation must explicitly address fibre/sheet information and validate the anisotropic response. Its reported solid-mechanics gains are not established cardiac results.
+
+### 5. RIGNO: a larger redesign for time and mesh generalisation
+
+**RIGNO** {{< cite "mousavi2025rigno" >}} processes physical points through a regional graph and conditions predictions on time and prediction lead time. It trains on pairs of snapshots at different time separations. A useful first ablation for our data is to add cardiac phase and lead-time conditioning and sample several available time separations, retaining displacement/velocity state and the prescribed loading information. This can reuse the 201 stored snapshots per trajectory. It requires a consistent multi-step target and scaling: the present second-difference target should not simply be reused with an arbitrary lead time. Test temporal generalisation within the stored time grid first; claims about unseen mesh resolutions require additional meshes. Replacing the full model with RIGNO is a longer-term operator-learning experiment, rather than a checkpoint-compatible upgrade.
+
+**Recommended sequence:** compare bi-stride pooling with the existing hierarchy first, then test a modest pushforward-training variant. Pursue X-MeshGraphNet when memory limits the next resolution increase; assess algebraic coarsening before full diffusion, and reserve a RIGNO redesign for explicit time/resolution-generalisation goals. For every comparison, retain the same case splits, sampling seeds and evaluation definitions; report one-step training loss first, then validation loss and rollout/volume errors, and keep the test split out of method selection. None of these proposals changes the currently running baseline.
+
+</div>
+
 ## References
 
 {{< references >}}
