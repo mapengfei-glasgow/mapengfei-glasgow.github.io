@@ -1,0 +1,282 @@
+---
+layout: single
+title: "President Macron vows to punish French rioters"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-18T00:00:00Z
+slug: "2026-10-18-president-macron-vows-to-punish-french-rioters"
+audioDir: "2026-10-18-president-macron-vows-to-punish-french-rioters"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-18-president-macron-vows-to-punish-french-rioters/episode.mp3"
+totalDuration: 1622.1
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.18}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Sunday, the 18th of October, these are our main stories.", start: 6.02, end: 12.32}
+  - {text: "It's been an extraordinary day of violent protests across France as President Macron promises vandals and looters will be punished and the US ambassador to Israel has described a settler attack on an American journalist", start: 13.10, end: 27.20}
+  - {text: "as a despicable act of terror hours after European diplomats were also targeted in the occupied West Bank.", start: 27.20, end: 34.86}
+  - {text: "Also in this podcast, we get reaction to President Trump's reversal on Russian sanctions and It's one of the purest diamond of the world and it's a real treasure", start: 36.40, end: 48.20}
+  - {text: "and the colour is subtle pink with a touch of orange.", start: 48.20, end: 51.40}
+  - {text: "A rare, flawless diamond is going back on public display in France after a century.", start: 52.14, end: 57.90}
+  - {text: "We start in France which is experiencing some of its most destructive and violent unrest in years.", start: 61.93, end: 69.19}
+  - {text: "Clashes erupted between police and protesters across the country.", start: 75.29, end: 79.39}
+  - {text: "Shops have been looted and buildings set on fire.", start: 79.39, end: 82.79}
+  - {text: "In the city of Limoges, the ornate 19th century town hall lies in ruins after being gutted by fire.", start: 83.43, end: 90.29}
+  - {text: "And in St Etienne, a 17 -year -old boy had a hand blown off by a crowd control grenade.", start: 90.87, end: 96.77}
+  - {text: "President Macron has said those who carry out vandalism and attack businesses will be prosecuted and punished.", start: 97.45, end: 104.55}
+  - {text: "The Prime Minister, Sebastian Lacourneux, said 1 ,200 people have been arrested and 150 police officers injured.", start: 105.03, end: 112.25}
+  - {text: "The widespread unrest follows weeks of student protests but they've now widened to include other groups.", start: 112.97, end: 119.09}
+  - {text: "Some appearing intent on violence.", start: 119.63, end: 121.79}
+  - {text: "In Paris, these were some of the views.", start: 122.41, end: 124.51}
+  - {text: "I'm here because my children are here also and they make a democratic manifestation and we have the police who attack us permanently.", start: 125.07, end: 135.43}
+  - {text: "The country is not any more democratic.", start: 136.25, end: 138.85}
+  - {text: "It's gone bad. You try to change something and you're repressed.", start: 139.29, end: 141.91}
+  - {text: "There's so much violence.", start: 142.41, end: 143.27}
+  - {text: "French people cannot live properly.", start: 144.83, end: 146.75}
+  - {text: "Everything concerning cars and the gas oil and stuff, it's so pricey.", start: 148.47, end: 153.57}
+  - {text: "And French people cannot live even with two incomes in one single home.", start: 153.89, end: 157.89}
+  - {text: "The Mayor of Paris says entire streets have been devastated.", start: 158.87, end: 162.71}
+  - {text: "From there, our correspondent, James Waterhouse, gave me the latest.", start: 163.51, end: 166.65}
+  - {text: "It's been utter chaos.", start: 167.45, end: 168.99}
+  - {text: "After the demonstrations sort of ended, wound down in the late afternoon when police used water cannons and tear gas.", start: 169.57, end: 177.05}
+  - {text: "The genuine grievances people had over the future direction of the country, public spending or the state of schools or the cost of living have been eclipsed by,", start: 178.17, end: 188.85}
+  - {text: "in the words of ministers, a minority looking to capitalise on the disorder we are seeing.", start: 189.33, end: 195.01}
+  - {text: "I mean, when the police retreated, we saw in every department or in every district of Paris we were travelling through, there were burning barricades, there were fires,", start: 195.25, end: 205.27}
+  - {text: "there was mass looting, protesters trying to smash through glass, trying to knock down shutters.", start: 205.73, end: 210.61}
+  - {text: "There were mass teenagers walking past with computer units, plasma TVs.", start: 210.87, end: 215.93}
+  - {text: "The atmosphere was, you know, it was menacing.", start: 216.53, end: 218.49}
+  - {text: "The government said, you know, as a country, we won't be intimidated by violence.", start: 219.17, end: 223.01}
+  - {text: "But Paris tonight was an intimidating place.", start: 223.17, end: 226.73}
+  - {text: "Even now there are armed police playing cat and mouse with protesters along the Champs Elysees as they try to vandalise the front of shops.", start: 226.83, end: 235.09}
+  - {text: "These are scenes being replicated across France.", start: 236.03, end: 238.17}
+  - {text: "You know, there's a quite an evocative image in Limoges in southwest France where a town hall built in the late 1800s has been destroyed by fire.", start: 238.39, end: 247.27}
+  - {text: "And you start to wonder what the wider devastation is going to be.", start: 247.67, end: 250.45}
+  - {text: "And looking ahead to the election, when people will look back on this violence, they're presumably not going to remember what some of the causes, what some of the complaints were.", start: 251.05, end: 259.81}
+  - {text: "They're just going to remember seeing buildings on fire and police and protesters marching through the streets.", start: 260.07, end: 266.79}
+  - {text: "And that could play more into the hands of one party than another, couldn't it?", start: 266.99, end: 270.73}
+  - {text: "It could. I mean, if you think of the yellow vest protests in, what, 2017, 18, where that was, I'm told by French colleagues, even more violent, that was over the cost of living.", start: 271.60, end: 282.72}
+  - {text: "It was over a particular fuel tax, which was reversed.", start: 282.86, end: 285.12}
+  - {text: "And I think politically, supporters of those protests see that as a win.", start: 285.38, end: 289.92}
+  - {text: "You know, there is a big kind of union presence here, and there is a big left wing, even far left influence here.", start: 290.18, end: 296.90}
+  - {text: "Yes, the devastation has been condemned, but these are destabilising times for France.", start: 297.64, end: 302.30}
+  - {text: "It does feel like a perilous moment where you have the masses today who resent any kind of austerity cuts to public services.", start: 302.40, end: 311.02}
+  - {text: "They want the rich to be taxed more.", start: 311.02, end: 313.38}
+  - {text: "And then you have the political polar opposite who want slashing in public spending.", start: 313.66, end: 319.54}
+  - {text: "You know, we've got to remember that it is Marine Le Pen, a far right figure who is the current favourite to be the next president.", start: 319.82, end: 326.06}
+  - {text: "And you've got a centrist government.", start: 326.74, end: 327.96}
+  - {text: "You know, if you're Emmanuel Macron, you haven't got a majority.", start: 328.28, end: 331.32}
+  - {text: "Some of the issues here require fundamental reform if he chooses to address them.", start: 332.06, end: 336.28}
+  - {text: "And you need political support to do that.", start: 336.44, end: 338.30}
+  - {text: "He hasn't got that, and he hasn't got much time.", start: 338.78, end: 340.76}
+  - {text: "And do the police look like they're going to be able to get a handle on these protests?", start: 340.92, end: 345.14}
+  - {text: "It's hard. You know, we're in the first day of school holidays.", start: 345.78, end: 348.38}
+  - {text: "You know, the students themselves, their numbers have started to wane.", start: 348.94, end: 351.38}
+  - {text: "Their parents want their kids to go back to school, and even some of the unions have said, look, guys, we've landed our point.", start: 351.52, end: 356.34}
+  - {text: "But in terms of the policing of it, you know, the police give protesters space to protest.", start: 356.50, end: 361.24}
+  - {text: "There is a root agreed.", start: 361.48, end: 362.24}
+  - {text: "But they do antagonise with tear gas, and they go in heavy when they want demonstrations to end.", start: 362.96, end: 368.60}
+  - {text: "But I think it's the spillover we've seen today that have made the scenes across France as extraordinary as they are.", start: 368.74, end: 374.70}
+  - {text: "That was James Waterhouse.", start: 375.30, end: 376.44}
+  - {text: "There have also been protests in Italy, Spain and Albania.", start: 376.88, end: 380.52}
+  - {text: "Many are also angry about the cost of living.", start: 380.70, end: 382.86}
+  - {text: "Our Europe editor is Katja Adler.", start: 383.44, end: 385.14}
+  - {text: "If we look at France, first of all, I mean, is this military power our neighbour across the channel, the second largest economy in the eurozone, really burning?", start: 385.66, end: 395.26}
+  - {text: "I mean, yes, but also no, hundreds of thousands of people demonstrated peacefully today.", start: 395.76, end: 400.36}
+  - {text: "I was in Paris last week with students angry.", start: 400.48, end: 403.30}
+  - {text: "Yes, violent. No, there were definite troublemakers amongst the crowd today.", start: 403.66, end: 407.60}
+  - {text: "So we heard that from James, but also allegations like from the French Prime Minister that there is a manipulation going on of real public anger", start: 407.68, end: 416.26}
+  - {text: "ahead of those very fraught presidential elections this year.", start: 416.26, end: 419.30}
+  - {text: "But yes, it's not just France, Albania.", start: 419.56, end: 421.98}
+  - {text: "I mean, the capital there, Toronto, the fifth day of violence, mainly students.", start: 422.10, end: 425.34}
+  - {text: "But again, it's cost of living.", start: 425.96, end: 427.16}
+  - {text: "There's allegations of corruption, demands for the Prime Minister there to turn down.", start: 427.66, end: 431.10}
+  - {text: "In Italy today, Bologna and Milan, violent demonstrations again, mainly students again.", start: 431.48, end: 436.68}
+  - {text: "Italy heads to a general election next year.", start: 436.96, end: 439.04}
+  - {text: "So to Spain, we saw those demonstrations in Spain earlier this month over the cost of living.", start: 439.48, end: 444.76}
+  - {text: "Again, a general election coming up and similar scenes in Greece and Belgium last week as well.", start: 444.94, end: 450.22}
+  - {text: "So what does this mean?", start: 450.22, end: 451.72}
+  - {text: "It means Europe is divided.", start: 451.86, end: 453.16}
+  - {text: "It looks politically volatile.", start: 453.52, end: 454.76}
+  - {text: "And who's watching Vladimir Putin and detractors like him?", start: 455.14, end: 458.62}
+  - {text: "Delighted that voters and politicians are distracted.", start: 458.98, end: 462.44}
+  - {text: "Whereas Vladimir Zelensky, the president of Ukraine, is praying that all of these domestic words in Europe mean that we won't forget his country.", start: 462.86, end: 470.36}
+  - {text: "Cata Adler, the US ambassador to Israel has called for the prosecution of the Jewish settlers who attacked an American journalist in the occupied West Bank", start: 470.90, end: 480.78}
+  - {text: "as part of a wider assault against Palestinian olive farmers.", start: 480.78, end: 484.74}
+  - {text: "Mike Huckabee's comments came hours after European diplomats were also targeted by settlers.", start: 485.24, end: 490.40}
+  - {text: "Amit Orfali, an Israeli activist, witnessed part of the attack on the diplomats.", start: 491.12, end: 496.22}
+  - {text: "They asked to see our IDs.", start: 496.62, end: 498.14}
+  - {text: "They knocked on the car and tried to break in.", start: 498.40, end: 500.44}
+  - {text: "We managed to escape up another hill.", start: 500.76, end: 503.54}
+  - {text: "And while we escaped, the settlers batted our car with their clubs.", start: 504.52, end: 508.66}
+  - {text: "We encountered two diplomats' cars.", start: 509.10, end: 512.10}
+  - {text: "We recognized that they have already been attacked by settlers because one of the Belgian cars had a smashed window.", start: 512.66, end: 519.56}
+  - {text: "And the settlers then attacked again, asked and the diplomats together.", start: 520.12, end: 523.94}
+  - {text: "They shoved to the floor a French mayor and we were rushed out of there in between the two diplomats' cars.", start: 524.36, end: 531.82}
+  - {text: "And I think that's the only way we were saved out of this mess.", start: 532.00, end: 535.50}
+  - {text: "I'm armed. France and Belgium have condemned the attack on their diplomats and the US Secretary of State, Marco Rubio, has echoed Mike Huckabee, describing the attack on the Washington Post journalist as disturbing and a bad look.", start: 535.86, end: 550.48}
+  - {text: "Our Middle East analyst, Sebastian Usher, told me just how serious the US ambassador's critical remarks were for Israel.", start: 551.12, end: 557.52}
+  - {text: "I think rhetorically, it is very strong.", start: 557.52, end: 560.68}
+  - {text: "He describes the attack on Heidi Levine, the American photo journalist on Friday, as a despicable act of terror carried out by masked cowards.", start: 560.92, end: 569.16}
+  - {text: "And he calls on Israel to prosecute those responsible to the fullest extent of the law.", start: 569.18, end: 574.96}
+  - {text: "So, he's not only rhetorically out there, but he's also calling on the Israeli government to take very strong action.", start: 575.06, end: 581.48}
+  - {text: "It's not the first time that he's come out against extremist settlers.", start: 581.92, end: 585.66}
+  - {text: "I think that's the key, though.", start: 585.96, end: 587.42}
+  - {text: "It's he is making, I mean, he doesn't, in this particular tweet that he does, but his general position has been very similar to the Israeli government,", start: 587.86, end: 597.42}
+  - {text: "which is that there is a problem, but it's confined to a couple of hundred extremists, misguided youths coming down from the hilltops who are causing all the trouble, that the settlements themselves,", start: 597.94, end: 610.90}
+  - {text: "as an enterprise, the vast majority of settlers are not involved in this at all and cannot be held accountable.", start: 611.44, end: 617.56}
+  - {text: "Now, if he changes that position at all, and the US changes that position, that would be a major shift.", start: 618.14, end: 624.44}
+  - {text: "What this does is it does put more pressure on the Israeli government, but they've reached the point, I mean, the Prime Minister mentioned Netanyahu has reached the point", start: 624.96, end: 633.40}
+  - {text: "where I think he isn't really listening to this very much anymore.", start: 633.40, end: 636.56}
+  - {text: "He's thinking about domestically with his election campaign, not doing very well to hold on to the far right elements of his alliance, and he feels", start: 636.72, end: 647.00}
+  - {text: "that he needs to do what he can in order to keep that alive.", start: 647.00, end: 651.56}
+  - {text: "If not, he has no chance in the election, so he is not going to follow anything, which is really going to go against what they're saying at the moment.", start: 651.82, end: 661.28}
+  - {text: "Israel doesn't have a history of prosecuting these settlers anyway, does it?", start: 661.54, end: 665.02}
+  - {text: "I mean, countless attacks have been carried out against Palestinians.", start: 665.22, end: 667.80}
+  - {text: "It's incredibly rare for any of them to ever face call over that.", start: 668.54, end: 672.46}
+  - {text: "That is true. That's what human rights activists, Israeli activists, the Palestinians, journalists, observers, everyone who's really gone to see what happens in most of these circumstances sort of aligns with a view that the settlers can be dispersed,", start: 672.66, end: 691.12}
+  - {text: "they can be rebuked, but in terms of a real concerted action against what is happening at the moment, we haven't seen that.", start: 691.86, end: 700.10}
+  - {text: "There are lots of calls.", start: 700.40, end: 701.32}
+  - {text: "I mean, opposition leaders, the President, Isaac Herzog, denouncing what's going on, but again, as I say, much of that is confined to a sense that it's just a group,", start: 701.66, end: 713.38}
+  - {text: "a relatively confined group who are doing this, and they should be dealt with.", start: 713.74, end: 717.40}
+  - {text: "There is some action taken against them, but even there, it has been very limited so far.", start: 717.90, end: 722.88}
+  - {text: "If Benjamin Netanyahu acted against the settlers, that would endanger his voter base, presumably.", start: 723.18, end: 728.84}
+  - {text: "That is, I think, a major concern from even more so with the election campaign, and it really being on a tightrope at the moment.", start: 729.76, end: 736.72}
+  - {text: "Yes, and one of the few parties that really seems to be gaining a bit of traction within its alliance is the extremist nationalist party under Itamar Ben -Gavir.", start: 737.22, end: 746.58}
+  - {text: "I think the best example of this is the way that Benjamin Netanyahu has reacted to another attack that's happened in the past few hours.", start: 747.60, end: 754.78}
+  - {text: "Several European diplomats, Belgium, French and Polish, went to assess the situation themselves in Taipei, a Palestinian village in the West Bank, and they came under attack.", start: 755.38, end: 766.74}
+  - {text: "But the reaction from the Prime Minister was almost to try to dismiss it, to say that this is a very serious allegation, and serious allegations require serious evidence, and then questioning the evidence.", start: 766.92, end: 781.08}
+  - {text: "So, he's giving various reasons to suggest that all is not as it's being described, and at the same time saying that this has come amid a campaign to smear Israel, not saying that specifically part of it,", start: 781.44, end: 796.86}
+  - {text: "but suggesting that it's all part of the same kind of move, which is unfairly targeting Israel.", start: 797.22, end: 804.96}
+  - {text: "Still to come, it's 60 years since the birth of the Black Panthers.", start: 808.58, end: 813.68}
+  - {text: "We were young Black people doing this and getting support for it, and that was a threat.", start: 814.16, end: 821.10}
+  - {text: "This is the Global News Podcast.", start: 827.54, end: 829.34}
+  - {text: "Three weeks ago, President Trump signed the Graham Act into law, which included a package of severe sanctions against Russia.", start: 830.08, end: 837.32}
+  - {text: "Then late on Friday, he waived those sanctions.", start: 837.92, end: 840.76}
+  - {text: "They would have imposed up to 100 % tariffs on the top five global importers of Russian crude oil, and sanctions against Russia's financial institutions, its defense sector, and its shadow fleet of oil tankers.", start: 841.38, end: 855.42}
+  - {text: "The US Secretary of State, Marco Rubio, was asked about the pause in Russian sanctions.", start: 855.94, end: 860.70}
+  - {text: "The problem is these sanctions were not just sanctions on Russia.", start: 861.22, end: 863.96}
+  - {text: "They include tariffs on a number of countries, India, for example, and others.", start: 864.42, end: 868.40}
+  - {text: "And so I think the president wants to take the 60 day period of time to sort of analyze what imposing both sanctions and tariffs will mean to the global economy and even to the US economy.", start: 868.90, end: 878.68}
+  - {text: "I think when the bill was passed, one of the reasons the waivers were put in there is understanding that they would need some period of time to study this,", start: 879.02, end: 884.42}
+  - {text: "given all the different things that are going on in the world right now, including the pressure on global energy supplies.", start: 884.80, end: 890.16}
+  - {text: "Despite its reliance on US support, Ukraine is not holding back.", start: 891.38, end: 895.94}
+  - {text: "President Zelensky has spoken of a US betrayal.", start: 896.50, end: 899.78}
+  - {text: "Alexander Mureshko is chair of the Foreign Affairs Committee in the Ukrainian Parliament and a member of President Zelensky's servant of the People Party.", start: 900.48, end: 908.94}
+  - {text: "My colleague Celia Hattin asked him for his reaction to the sanctions waiver.", start: 909.38, end: 913.28}
+  - {text: "It's a tragic day, not only for Ukraine, but also for the United States itself, because it undermines its credibility, its reputation in the world.", start: 913.92, end: 922.42}
+  - {text: "And what Mr. Trump is doing, he is supporting Russian genocidal war machine, which is committing genocide against Ukrainians.", start: 922.66, end: 930.62}
+  - {text: "And it will go down in history as a very black page for the United States, unfortunately.", start: 930.96, end: 937.28}
+  - {text: "But many observers say President Zelensky brought this on by refusing to bow to Washington's demands to end drone strikes on Russian oil refineries.", start: 937.64, end: 946.48}
+  - {text: "Well, what Ukraine is doing right now is defending ourselves.", start: 946.68, end: 950.12}
+  - {text: "We are trying to, first of all, destroy Russian war machine, and we cannot do it without destroying oil refineries.", start: 950.48, end: 957.82}
+  - {text: "It's part of Russian war machine.", start: 957.86, end: 959.38}
+  - {text: "And second, we are trying to bring to negotiating table Putin.", start: 959.56, end: 963.28}
+  - {text: "And again, that's the only way how we can do it.", start: 963.80, end: 966.08}
+  - {text: "That was Alexander Moreshko.", start: 966.84, end: 968.40}
+  - {text: "So let's get a take from Moscow now.", start: 969.04, end: 971.20}
+  - {text: "It's been a remarkable week for President Putin.", start: 971.50, end: 974.16}
+  - {text: "And our Russia editor, Steve Rosenberg, has been thinking about what's happened.", start: 974.46, end: 978.72}
+  - {text: "There are 68 shopping days until Christmas.", start: 979.58, end: 982.42}
+  - {text: "And yet this week, President Putin may well be feeling that many of his presents have come early, delivered not by a Russian Santa, but by an American president.", start: 983.10, end: 995.19}
+  - {text: "And by the way, today, Russia agreed to send us millions and millions of barrels of oil.", start: 995.69, end: 1003.89}
+  - {text: "And it's diesel. That's what we really need.", start: 1004.13, end: 1005.93}
+  - {text: "Donald Trump's diesel deal with Vladimir Putin softens sanctions on Russian fuel.", start: 1006.45, end: 1011.69}
+  - {text: "It gives Kremlin coffers a boost and makes relations between Washington and Kiev already bumpy, extremely rocky.", start: 1012.37, end: 1020.77}
+  - {text: "That is something that Moscow is only too happy to exploit.", start: 1021.69, end: 1025.11}
+  - {text: "Now, when Ukrainian drones and missiles strike a Russian oil refinery, the Kremlin will be able to say, look, President Trump, you see, Ukraine is the villain.", start: 1025.95, end: 1037.05}
+  - {text: "Ukraine is undermining our agreement and threatening all those diesel supplies we're promising to help you lower fuel prices at American pumps.", start: 1037.35, end: 1047.77}
+  - {text: "This week, the U .S.", start: 1048.83, end: 1050.31}
+  - {text: "President described the latest Ukrainian strikes on Russian oil facilities as a disgrace, no mention of continuing Russian attacks on Ukraine's energy infrastructure.", start: 1050.33, end: 1062.51}
+  - {text: "And then there are the insults.", start: 1063.23, end: 1065.49}
+  - {text: "Volodymyr Zelensky complained President Trump is not a good guy for us to deal with.", start: 1065.89, end: 1071.39}
+  - {text: "On another occasion, the White House chief said this, it's time for Ukraine to get a new president, sensing that Donald Trump is on their side.", start: 1071.87, end: 1081.37}
+  - {text: "The Russians are not only mocking their opponent, they are increasingly uncompromising.", start: 1081.95, end: 1087.45}
+  - {text: "Last night, Russian state TV showed President Putin in military fatigues, conversing with army chiefs.", start: 1091.19, end: 1098.99}
+  - {text: "He spoke about the buffer zone that Russia says it's establishing inside Ukraine along the border.", start: 1099.23, end: 1105.13}
+  - {text: "And he made it clear that this territory would be non -negotiable in any future talks with Kiev.", start: 1105.83, end: 1112.11}
+  - {text: "There is no sign of Russia ending the fighting.", start: 1116.15, end: 1119.89}
+  - {text: "But there is every sign that Moscow's objective remains unchanged, capitulation by Kiev.", start: 1121.21, end: 1128.53}
+  - {text: "And with winter approaching, Russia sees an opportunity to make that happen.", start: 1129.11, end: 1133.97}
+  - {text: "And yet, for all the confidence the Kremlin has been projecting, reports suggest that on the battlefield, Russia continues to lose large numbers of soldiers.", start: 1135.00, end: 1145.44}
+  - {text: "That was Steve Rosenberg.", start: 1146.08, end: 1147.20}
+  - {text: "It's 60 years this weekend since the birth of the Black Panthers.", start: 1147.86, end: 1152.00}
+  - {text: "The group was a revolutionary organisation for those who were frustrated by what they saw as the slow progress of the non -violent resistance tactics of Martin Luther King", start: 1152.46, end: 1163.16}
+  - {text: "and the wider civil rights movement in the US.", start: 1163.16, end: 1166.18}
+  - {text: "Several key members were accused of serious crimes such as murder.", start: 1166.98, end: 1170.80}
+  - {text: "And in 1969, 27 Black Panthers were shot dead by police.", start: 1171.32, end: 1176.14}
+  - {text: "During that period, the party's story was captured by photographer Stephen Shames.", start: 1176.78, end: 1181.04}
+  - {text: "Both he and Huggins, a member of the Panthers, have been speaking to Sharoma Silva.", start: 1181.52, end: 1186.05}
+  - {text: "Bobby Seal, co -founder of the Black Panther Party, laying out a set of demands.", start: 1197.41, end: 1202.23}
+  - {text: "The Panthers came about in 1966 amid various other civil rights and liberation movements, also fighting for change.", start: 1202.93, end: 1210.29}
+  - {text: "At the time, Stephen Shames, a white Jewish American, was at university in California.", start: 1210.29, end: 1216.03}
+  - {text: "What drew me to the Panthers is that they had the best approach to what we needed to do to get out of the war in Vietnam to bring racial justice and economic justice.", start: 1216.49, end: 1227.87}
+  - {text: "There were all these groups on campus and I would go to meetings and they would talk after the revolution who's going to run the tractor factory type of thing.", start: 1228.23, end: 1236.49}
+  - {text: "And I was like, are you guys serious?", start: 1236.61, end: 1238.81}
+  - {text: "And the Panthers had very specific, concrete things that they were doing.", start: 1238.81, end: 1244.23}
+  - {text: "And the Panthers started to implement an array of community programs, such as free healthcare, ambulance services, and a breakfast program for hungry school children.", start: 1248.33, end: 1258.95}
+  - {text: "I had pictures of happy children.", start: 1259.21, end: 1261.49}
+  - {text: "I have a picture of two little white kids at the Panther breakfast program.", start: 1261.95, end: 1266.19}
+  - {text: "The Panthers just accepted everyone.", start: 1266.43, end: 1269.15}
+  - {text: "According to Erica Huggins, there were calls for these programs to be replicated across the country, including in poor white communities, all of which worried the head of the FBI, J.", start: 1269.43, end: 1279.37}
+  - {text: "Edgar Hoover. Huey Newton, co -founder of the Black Panther Party, asked me to request the Freedom of Information Act files for the Black Panther Party.", start: 1279.53, end: 1289.87}
+  - {text: "And this was in the late 60s.", start: 1290.01, end: 1292.83}
+  - {text: "Boxes and boxes and boxes came.", start: 1293.41, end: 1295.39}
+  - {text: "And one of the documents stood out to me was a letter from J.", start: 1295.75, end: 1300.47}
+  - {text: "Edgar Hoover to his operatives in field offices and informants.", start: 1300.49, end: 1306.23}
+  - {text: "He said, you know, I'm not worried about the Black Panther Party talking about self -defense in its communities.", start: 1306.53, end: 1313.93}
+  - {text: "It's that breakfast program that concerned me.", start: 1314.65, end: 1318.53}
+  - {text: "He was a smart man.", start: 1318.77, end: 1320.01}
+  - {text: "We were young Black people doing this and getting support for it.", start: 1320.51, end: 1325.57}
+  - {text: "And that was a threat.", start: 1325.79, end: 1327.49}
+  - {text: "Los Angeles police, who made three pre -dawn raids in the city, found themselves involved in a gun battle with the occupants of one police.", start: 1327.83, end: 1334.07}
+  - {text: "Police knew it was regarded as a local headquarters for the Panther movement and suspected that illegal weapons were being kept there.", start: 1334.07, end: 1340.15}
+  - {text: "They eventually forced open the door but were met by a hail of gunfire.", start: 1340.53, end: 1343.63}
+  - {text: "This 1969 BBC radio report by Brian Saxton of a police raid resulted in a four and a half hour gun battle.", start: 1344.66, end: 1352.40}
+  - {text: "The charge of excessive violence was often levelled at the Panthers, something I broached with Erica.", start: 1353.16, end: 1358.28}
+  - {text: "If someone kicks your door down, comes in with guns and wants to harm you and whoever lives there of whatever age, it is okay for", start: 1358.60, end: 1372.69}
+  - {text: "you to try at least to defend yourself.", start: 1372.69, end: 1375.23}
+  - {text: "I'm saying that when we respond to violence, we're considered the violence makers.", start: 1375.67, end: 1381.99}
+  - {text: "That was Erica Huggins, ending that report by Sharoma Silver.", start: 1382.47, end: 1385.99}
+  - {text: "A rare flawless pink diamond valued at tens of millions of dollars is going back on public display in France after a century.", start: 1386.99, end: 1395.27}
+  - {text: "It's being shown at the Chateau de Chantilly from where it was stolen exactly a hundred years ago.", start: 1395.85, end: 1401.77}
+  - {text: "It was recovered a couple of months after that theft but hidden from view.", start: 1402.33, end: 1406.51}
+  - {text: "The BBC's Owen Bennett -Jones spoke to Mathieu Del Dijk, the director of the Condé Museum at the Chateau.", start: 1407.23, end: 1413.41}
+  - {text: "It's a real treasure and the collides are very subtle pink with a touch of orange.", start: 1413.85, end: 1419.87}
+  - {text: "So just tell us a bit about it.", start: 1420.71, end: 1422.15}
+  - {text: "It was stolen a hundred years ago.", start: 1422.25, end: 1424.31}
+  - {text: "Let's get that story found in an apple.", start: 1424.57, end: 1427.05}
+  - {text: "Yes, in 1926, the diamond, the pink diamond and other jewels of the Chateau de Chantilly were stolen by two men.", start: 1428.03, end: 1437.79}
+  - {text: "They were rediscovered two months later and brought back to the chateau.", start: 1438.83, end: 1443.51}
+  - {text: "Since that year, so one century now, it's hidden and it's kept in a safe place.", start: 1444.07, end: 1451.03}
+  - {text: "So it's a real event to discover it one century later.", start: 1451.19, end: 1455.91}
+  - {text: "But just to be clear, how come it was found in an apple?", start: 1456.35, end: 1459.33}
+  - {text: "Actually, when they stole the pink diamond, this gem was too famous.", start: 1460.63, end: 1467.25}
+  - {text: "It was published in all the newspaper and so on.", start: 1467.77, end: 1470.55}
+  - {text: "So the two men didn't manage to sell it and they found that way to hide it inside an apple.", start: 1470.77, end: 1482.35}
+  - {text: "And actually, they left the apple in their bedroom in an hotel in Paris and made discover it by eating the apple.", start: 1483.03, end: 1495.79}
+  - {text: "It's a very funny story, but it's a real one.", start: 1496.37, end: 1499.19}
+  - {text: "She decided to have a quick bite of an apple and must have hit a hard diamond.", start: 1499.81, end: 1504.63}
+  - {text: "Well, you say it's on display after a hundred years and it's been hidden away.", start: 1504.83, end: 1508.49}
+  - {text: "So who actually owns it?", start: 1508.59, end: 1509.73}
+  - {text: "How come it's been hidden?", start: 1509.85, end: 1511.21}
+  - {text: "Yes, it's a treasure of the Chateau de Chantilly, so the Museum of the Chateau de Chantilly.", start: 1512.33, end: 1516.93}
+  - {text: "So it's a public French treasure and it's a very exceptionally on display until January the 3rd.", start: 1517.09, end: 1525.35}
+  - {text: "Shouldn't it be on display all the time?", start: 1525.37, end: 1527.19}
+  - {text: "As you know, we are to install and organise a whole security system.", start: 1528.80, end: 1536.42}
+  - {text: "So we managed to do so, but for temporary time.", start: 1536.74, end: 1541.12}
+  - {text: "Absolutely. It's a security issue.", start: 1541.48, end: 1542.66}
+  - {text: "And just one last thought.", start: 1543.14, end: 1544.84}
+  - {text: "Where's it from? Do you know?", start: 1544.98, end: 1546.06}
+  - {text: "Where did it originate?", start: 1546.34, end: 1547.12}
+  - {text: "It could be from India.", start: 1547.47, end: 1550.33}
+  - {text: "It was faceted in London in the early 18th century.", start: 1551.03, end: 1556.87}
+  - {text: "And it's a real historical princely gem, French gem, because it was owned by the Prince de Condes, the cousins of French kings, since the 18th century.", start: 1557.23, end: 1568.11}
+  - {text: "So the whole story is very exceptional and historical.", start: 1568.69, end: 1572.09}
+  - {text: "And according to the gemologists, actually, it's one of the purest diamond of the world.", start: 1572.81, end: 1578.97}
+  - {text: "And the colour is quite unique, this pink colour.", start: 1579.69, end: 1584.99}
+  - {text: "That was Mathieu Daldique, director of the Condé Museum inside the Chateau de Chantilly.", start: 1585.67, end: 1592.13}
+  - {text: "And that's all from us for now.", start: 1594.66, end: 1596.26}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1596.44, end: 1600.98}
+  - {text: "You can also find us on x at bbcworldservice, use the hashtag globalnewspod.", start: 1601.60, end: 1606.74}
+  - {text: "This edition of the Global News Podcast was mixed by Chris Kazaris and the producer was Marianne Straughn.", start: 1607.20, end: 1612.60}
+  - {text: "The editor is Karen Martin.", start: 1612.90, end: 1614.18}
+  - {text: "I'm Charlotte Gallagher. Until next time, goodbye.", start: 1614.54, end: 1616.80}
+---
