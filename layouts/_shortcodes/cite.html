@@ -34,7 +34,7 @@
   {{- if eq $e.key $key -}}{{- $entry = $e -}}{{- end -}}
 {{- end -}}
 {{- if not $entry -}}
-  {{- errorf "cite: %q is not an entry in assets/afsi/bib.tex — add the entry or fix the key (page %s)" $key .Page.Path -}}
+  {{- errorf "cite: %q is not an entry in this page’s bibliography — add the entry or fix the key (page %s)" $key .Page.Path -}}
 {{- else -}}
   {{- /* Record the key on the page so `references` knows what to list. The
          set only grows, and members are added regardless of which render got
