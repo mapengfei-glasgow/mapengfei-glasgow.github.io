@@ -1,0 +1,18 @@
+{
+  "case": "mean_p0012",
+  "frames": 101,
+  "fps": 20,
+  "cycle_duration_s": 1.0001787,
+  "deformation_scale": 1,
+  "displacement_color_max_mm": 21.74839973449707,
+  "error_color_max_mm": 1.7931596040725708,
+  "renderer": "PyVista offscreen VTK",
+  "note": "GIFs slow the first prescribed cycle for inspection; the end state need not equal the initially undeformed state.",
+  "pyvista_version": "0.48.4",
+  "vtk_version": [
+    9,
+    6,
+    2
+  ],
+  "pillow_version": "12.3.0"
+}

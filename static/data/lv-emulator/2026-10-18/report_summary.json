@@ -1,0 +1,150 @@
+{
+  "parameter_space": {
+    "a": {
+      "nominal": 224.487,
+      "low": 149.658,
+      "high": 336.7305,
+      "distribution": "log"
+    },
+    "b": {
+      "nominal": 1.6215,
+      "low": 1.081,
+      "high": 2.43225,
+      "distribution": "log"
+    },
+    "a_f": {
+      "nominal": 2426.7,
+      "low": 1617.8,
+      "high": 3640.0499999999997,
+      "distribution": "log"
+    },
+    "b_f": {
+      "nominal": 1.8268,
+      "low": 1.2178666666666667,
+      "high": 2.7401999999999997,
+      "distribution": "log"
+    },
+    "ta_amp_kPa": {
+      "nominal": 84.26,
+      "low": 60.0,
+      "high": 110.0,
+      "distribution": "lin"
+    },
+    "p_ed_kPa": {
+      "nominal": 1.067,
+      "low": 0.8,
+      "high": 1.6,
+      "distribution": "lin"
+    },
+    "p_amp_kPa": {
+      "nominal": 13.46,
+      "low": 10.0,
+      "high": 16.0,
+      "distribution": "lin"
+    },
+    "period_s": {
+      "nominal": 1.0,
+      "low": 0.75,
+      "high": 1.2,
+      "distribution": "lin"
+    }
+  },
+  "final_history": {
+    "iteration": 120000,
+    "training_loss": 0.007,
+    "validation_rollout_comp_rmse_mm": 0.35,
+    "cumulative_active_hours": 30.043333333333333
+  },
+  "best_monitored_rollout": {
+    "iteration": 111000,
+    "training_loss": 0.0069,
+    "validation_rollout_comp_rmse_mm": 0.34,
+    "cumulative_active_hours": 27.807222222222222
+  },
+  "splits": {
+    "train": {
+      "split": "train",
+      "cases": 40,
+      "checkpoint": "last.pt",
+      "checkpoint_iter": 120000,
+      "selection_seed": 20261018,
+      "requested_limit": 40,
+      "mean_component_rmse_mm": 0.345359729763569,
+      "median_component_rmse_mm": 0.33459040302702353,
+      "mean_vector_rmse_mm": 0.5981805988387588,
+      "mean_relative_l2": 0.04930722142809242,
+      "mean_EF_abs_error_pp": 0.8420290817824803,
+      "seconds": 746.4843542575836,
+      "model_parameters": 1590915,
+      "graph": {
+        "n_real": 11779,
+        "n_total": 15700,
+        "n_edges": 196354
+      },
+      "hparams": {
+        "latent": 128,
+        "mp_steps": 10,
+        "coeff_dim": 0
+      }
+    },
+    "val": {
+      "split": "val",
+      "cases": 120,
+      "checkpoint": "last.pt",
+      "checkpoint_iter": 120000,
+      "selection_seed": 20261018,
+      "requested_limit": 0,
+      "mean_component_rmse_mm": 0.3423406494799623,
+      "median_component_rmse_mm": 0.32615710262092945,
+      "mean_vector_rmse_mm": 0.5929513983954227,
+      "mean_relative_l2": 0.047858502013709225,
+      "mean_EF_abs_error_pp": 0.7997960152479612,
+      "seconds": 1179.6162552833557,
+      "model_parameters": 1590915,
+      "graph": {
+        "n_real": 11779,
+        "n_total": 15700,
+        "n_edges": 196354
+      },
+      "hparams": {
+        "latent": 128,
+        "mp_steps": 10,
+        "coeff_dim": 0
+      },
+      "checkpoint_sha256": "3f4fbb8d369865bfb519e93e14f9723dd462c2111457a830df168daab6d44385",
+      "provenance": "Merged float32 evaluations of final last.pt from euclid-17 and euclid-10",
+      "time_note": "Evaluation was distributed; per-part seconds are not a total wall-clock duration"
+    },
+    "test": {
+      "split": "test",
+      "cases": 120,
+      "checkpoint": "last.pt",
+      "checkpoint_iter": 120000,
+      "selection_seed": 20261018,
+      "requested_limit": 0,
+      "mean_component_rmse_mm": 0.34288086788353045,
+      "median_component_rmse_mm": 0.32631167402753025,
+      "mean_vector_rmse_mm": 0.5938870841175864,
+      "mean_relative_l2": 0.048415663902028484,
+      "mean_EF_abs_error_pp": 0.7627407260389764,
+      "seconds": 1176.4810156822205,
+      "model_parameters": 1590915,
+      "graph": {
+        "n_real": 11779,
+        "n_total": 15700,
+        "n_edges": 196354
+      },
+      "hparams": {
+        "latent": 128,
+        "mp_steps": 10,
+        "coeff_dim": 0
+      },
+      "checkpoint_sha256": "3f4fbb8d369865bfb519e93e14f9723dd462c2111457a830df168daab6d44385",
+      "provenance": "Merged float32 evaluations of final last.pt from euclid-17 and euclid-10",
+      "time_note": "Evaluation was distributed; per-part seconds are not a total wall-clock duration"
+    }
+  },
+  "time_definition": "Sum of active elapsed times from log segments; excludes downtime between resumes",
+  "error_definition": "Component RMSE: sqrt(mean((u_pred-u_solver)^2)) over xyz, nodes and time",
+  "test_evaluation": "Final checkpoint only; no test history used for model selection"
+}
