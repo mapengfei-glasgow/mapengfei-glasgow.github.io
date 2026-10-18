@@ -86,8 +86,8 @@ The first run downloads the Whisper model (cached in `.hf-cache/`, ~460MB, `smal
 
 ```bash
 cd ~/dcgrid/english-site
-../bin/hugo server -n 127.0.0.1 -p 1313      # dev preview (auto reload)
-../bin/hugo --minify                          # build into public/
+../.local/bin/hugo server -n 127.0.0.1 -p 1313      # dev preview (auto reload)
+../.local/bin/hugo --minify                          # build into public/
 ```
 
 ## Publishing to GitHub Pages
