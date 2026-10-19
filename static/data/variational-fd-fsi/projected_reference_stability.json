@@ -1,0 +1,110 @@
+[
+  {
+    "fluid_N": 32,
+    "quad": 3,
+    "projected_gain_squared": 0.8025176870952284,
+    "matrix_asymmetry": 1.834595134689083e-15,
+    "eigen_residual": 1.0937094708428676e-15,
+    "projection_checks": {
+      "relative_divergence": 6.383927371964838e-15,
+      "relative_idempotency_error": 4.2380919188713466e-15,
+      "relative_orthogonality_error": 2.6786194471369504e-16
+    },
+    "energy_checks": {
+      "energy_hessian_relative_errors": [
+        5.072338934150071e-11,
+        5.554478903240615e-11,
+        4.261078544427374e-11
+      ],
+      "bulk_modulus": 93333.33333333333,
+      "support_stiffness": 31250000,
+      "active_stress": 0,
+      "pressure": 0,
+      "penalty_discretization": "P1 nodal lumping as in GPU driver"
+    },
+    "initial_inviscid_omega_max": 14381.40647293139,
+    "initial_inviscid_model_dt_limit": 0.00013906845646595065,
+    "scope": "Reference linearized inviscid model with exact normal-wall MAC projection; excludes viscosity, nonlinear evolution and approximate solver effects"
+  },
+  {
+    "fluid_N": 32,
+    "quad": 5,
+    "projected_gain_squared": 0.7960720558147025,
+    "matrix_asymmetry": 3.8899195927135884e-15,
+    "eigen_residual": 1.191934010785751e-15,
+    "projection_checks": {
+      "relative_divergence": 6.383927371964838e-15,
+      "relative_idempotency_error": 4.2380919188713466e-15,
+      "relative_orthogonality_error": 2.6786194471369504e-16
+    },
+    "energy_checks": {
+      "energy_hessian_relative_errors": [
+        5.072338934150071e-11,
+        5.554478903240615e-11,
+        4.261078544427374e-11
+      ],
+      "bulk_modulus": 93333.33333333333,
+      "support_stiffness": 31250000,
+      "active_stress": 0,
+      "pressure": 0,
+      "penalty_discretization": "P1 nodal lumping as in GPU driver"
+    },
+    "initial_inviscid_omega_max": 14087.264439459514,
+    "initial_inviscid_model_dt_limit": 0.00014197220536286986,
+    "scope": "Reference linearized inviscid model with exact normal-wall MAC projection; excludes viscosity, nonlinear evolution and approximate solver effects"
+  },
+  {
+    "fluid_N": 64,
+    "quad": 3,
+    "projected_gain_squared": 1.2017180243495793,
+    "matrix_asymmetry": 1.3581748470821491e-15,
+    "eigen_residual": 9.429481052597455e-16,
+    "projection_checks": {
+      "relative_divergence": 1.2370172289370384e-14,
+      "relative_idempotency_error": 8.17443824228772e-15,
+      "relative_orthogonality_error": 1.7518339366634555e-17
+    },
+    "energy_checks": {
+      "energy_hessian_relative_errors": [
+        5.072338934150071e-11,
+        5.554478903240615e-11,
+        4.261078544427374e-11
+      ],
+      "bulk_modulus": 93333.33333333333,
+      "support_stiffness": 31250000,
+      "active_stress": 0,
+      "pressure": 0,
+      "penalty_discretization": "P1 nodal lumping as in GPU driver"
+    },
+    "initial_inviscid_omega_max": 21191.892221876802,
+    "initial_inviscid_model_dt_limit": 9.437571591343604e-05,
+    "scope": "Reference linearized inviscid model with exact normal-wall MAC projection; excludes viscosity, nonlinear evolution and approximate solver effects"
+  },
+  {
+    "fluid_N": 64,
+    "quad": 5,
+    "projected_gain_squared": 0.9277399796174255,
+    "matrix_asymmetry": 3.1146701077223244e-15,
+    "eigen_residual": 1.3609766319216343e-15,
+    "projection_checks": {
+      "relative_divergence": 1.2370172289370384e-14,
+      "relative_idempotency_error": 8.17443824228772e-15,
+      "relative_orthogonality_error": 1.7518339366634555e-17
+    },
+    "energy_checks": {
+      "energy_hessian_relative_errors": [
+        5.072338934150071e-11,
+        5.554478903240615e-11,
+        4.261078544427374e-11
+      ],
+      "bulk_modulus": 93333.33333333333,
+      "support_stiffness": 31250000,
+      "active_stress": 0,
+      "pressure": 0,
+      "penalty_discretization": "P1 nodal lumping as in GPU driver"
+    },
+    "initial_inviscid_omega_max": 18180.43995843915,
+    "initial_inviscid_model_dt_limit": 0.00011000833888354958,
+    "scope": "Reference linearized inviscid model with exact normal-wall MAC projection; excludes viscosity, nonlinear evolution and approximate solver effects"
+  }
+]

@@ -1,0 +1,1523 @@
+[
+  {
+    "layers": 1,
+    "fluid_N": 64,
+    "quad": 3,
+    "omega_max": 21191.89222187666,
+    "initial_inviscid_model_dt_limit": 9.437571591343668e-05,
+    "iterations": 64,
+    "converged": true,
+    "actual_relative_K_residual": 6.650189399160451e-08,
+    "K_basis_orthogonality_error": 4.5468469575199955e-15,
+    "projection_checks": {
+      "relative_divergence": 1.2370172289370384e-14,
+      "relative_idempotency_error": 8.17443824228772e-15,
+      "relative_orthogonality_error": 1.7518339366634555e-17
+    },
+    "energy_hessian_relative_errors": [
+      3.0789799580640696e-11,
+      2.2972800341825838e-10
+    ],
+    "history": [
+      {
+        "iteration": 1,
+        "omega": 14531.955711046572,
+        "estimated_relative_residual": 0.694713512387806
+      },
+      {
+        "iteration": 2,
+        "omega": 18927.208245082405,
+        "estimated_relative_residual": 0.23360100864431188
+      },
+      {
+        "iteration": 3,
+        "omega": 20119.627009663254,
+        "estimated_relative_residual": 0.13265283235133343
+      },
+      {
+        "iteration": 4,
+        "omega": 20724.961201138412,
+        "estimated_relative_residual": 0.10159129873021554
+      },
+      {
+        "iteration": 5,
+        "omega": 20989.111125564512,
+        "estimated_relative_residual": 0.06287961304812058
+      },
+      {
+        "iteration": 6,
+        "omega": 21088.68554633196,
+        "estimated_relative_residual": 0.03672380555811629
+      },
+      {
+        "iteration": 7,
+        "omega": 21131.131629375977,
+        "estimated_relative_residual": 0.024337275695565066
+      },
+      {
+        "iteration": 8,
+        "omega": 21147.94790080871,
+        "estimated_relative_residual": 0.017978537710802253
+      },
+      {
+        "iteration": 9,
+        "omega": 21159.71326577879,
+        "estimated_relative_residual": 0.014456129545705014
+      },
+      {
+        "iteration": 10,
+        "omega": 21166.840970976133,
+        "estimated_relative_residual": 0.012515676379773522
+      },
+      {
+        "iteration": 11,
+        "omega": 21173.395227103287,
+        "estimated_relative_residual": 0.011814118976289145
+      },
+      {
+        "iteration": 12,
+        "omega": 21177.852327835655,
+        "estimated_relative_residual": 0.00829502426366978
+      },
+      {
+        "iteration": 13,
+        "omega": 21180.094613951303,
+        "estimated_relative_residual": 0.0064576976770400005
+      },
+      {
+        "iteration": 14,
+        "omega": 21181.685759934357,
+        "estimated_relative_residual": 0.005945765415883041
+      },
+      {
+        "iteration": 15,
+        "omega": 21182.843993105173,
+        "estimated_relative_residual": 0.004418381549020063
+      },
+      {
+        "iteration": 16,
+        "omega": 21183.590581916458,
+        "estimated_relative_residual": 0.0038968437145531516
+      },
+      {
+        "iteration": 17,
+        "omega": 21184.11446551034,
+        "estimated_relative_residual": 0.0031784326617197898
+      },
+      {
+        "iteration": 18,
+        "omega": 21184.408578562834,
+        "estimated_relative_residual": 0.002087224774711061
+      },
+      {
+        "iteration": 19,
+        "omega": 21184.576628098133,
+        "estimated_relative_residual": 0.0017837013040405332
+      },
+      {
+        "iteration": 20,
+        "omega": 21184.678336655663,
+        "estimated_relative_residual": 0.0014418222469985893
+      },
+      {
+        "iteration": 21,
+        "omega": 21184.756802103064,
+        "estimated_relative_residual": 0.0013394711881158758
+      },
+      {
+        "iteration": 22,
+        "omega": 21184.83063515877,
+        "estimated_relative_residual": 0.0012350636722461086
+      },
+      {
+        "iteration": 23,
+        "omega": 21184.896452220364,
+        "estimated_relative_residual": 0.0012413739040663338
+      },
+      {
+        "iteration": 24,
+        "omega": 21184.95823624861,
+        "estimated_relative_residual": 0.0012298169910717168
+      },
+      {
+        "iteration": 25,
+        "omega": 21185.02527394351,
+        "estimated_relative_residual": 0.001402003845898231
+      },
+      {
+        "iteration": 26,
+        "omega": 21185.17141198104,
+        "estimated_relative_residual": 0.0022319900403128326
+      },
+      {
+        "iteration": 27,
+        "omega": 21185.530121548894,
+        "estimated_relative_residual": 0.0037770402515529223
+      },
+      {
+        "iteration": 28,
+        "omega": 21186.38796754627,
+        "estimated_relative_residual": 0.004765290926898375
+      },
+      {
+        "iteration": 29,
+        "omega": 21187.390180612205,
+        "estimated_relative_residual": 0.004470710086534537
+      },
+      {
+        "iteration": 30,
+        "omega": 21188.104238768614,
+        "estimated_relative_residual": 0.003791645250578749
+      },
+      {
+        "iteration": 31,
+        "omega": 21188.58498053797,
+        "estimated_relative_residual": 0.003286699836863345
+      },
+      {
+        "iteration": 32,
+        "omega": 21189.11753234242,
+        "estimated_relative_residual": 0.0034443475070897677
+      },
+      {
+        "iteration": 33,
+        "omega": 21189.583076894363,
+        "estimated_relative_residual": 0.0033594876494585663
+      },
+      {
+        "iteration": 34,
+        "omega": 21190.109611564472,
+        "estimated_relative_residual": 0.0035398559840144443
+      },
+      {
+        "iteration": 35,
+        "omega": 21190.501057215195,
+        "estimated_relative_residual": 0.002331765474218446
+      },
+      {
+        "iteration": 36,
+        "omega": 21190.662087361474,
+        "estimated_relative_residual": 0.0016900469394728176
+      },
+      {
+        "iteration": 37,
+        "omega": 21190.758764836908,
+        "estimated_relative_residual": 0.0012135342132548266
+      },
+      {
+        "iteration": 38,
+        "omega": 21190.81713456125,
+        "estimated_relative_residual": 0.0012905456791961188
+      },
+      {
+        "iteration": 39,
+        "omega": 21190.88628275573,
+        "estimated_relative_residual": 0.0012563396684331753
+      },
+      {
+        "iteration": 40,
+        "omega": 21190.95560583622,
+        "estimated_relative_residual": 0.0011241181026371036
+      },
+      {
+        "iteration": 41,
+        "omega": 21191.01407141399,
+        "estimated_relative_residual": 0.0012584260332370847
+      },
+      {
+        "iteration": 42,
+        "omega": 21191.068367341748,
+        "estimated_relative_residual": 0.0010611708712413054
+      },
+      {
+        "iteration": 43,
+        "omega": 21191.107559477055,
+        "estimated_relative_residual": 0.0007606710158961008
+      },
+      {
+        "iteration": 44,
+        "omega": 21191.13523067103,
+        "estimated_relative_residual": 0.0008618674986682477
+      },
+      {
+        "iteration": 45,
+        "omega": 21191.169047175106,
+        "estimated_relative_residual": 0.0010625280023907637
+      },
+      {
+        "iteration": 46,
+        "omega": 21191.243346082487,
+        "estimated_relative_residual": 0.0016224625806682883
+      },
+      {
+        "iteration": 47,
+        "omega": 21191.446414097038,
+        "estimated_relative_residual": 0.0021761205514579324
+      },
+      {
+        "iteration": 48,
+        "omega": 21191.62663399184,
+        "estimated_relative_residual": 0.002109268913825678
+      },
+      {
+        "iteration": 49,
+        "omega": 21191.790039707746,
+        "estimated_relative_residual": 0.0015891256740965174
+      },
+      {
+        "iteration": 50,
+        "omega": 21191.857798337387,
+        "estimated_relative_residual": 0.00097453033551279
+      },
+      {
+        "iteration": 51,
+        "omega": 21191.88481170478,
+        "estimated_relative_residual": 0.0005091953120141704
+      },
+      {
+        "iteration": 52,
+        "omega": 21191.890499699017,
+        "estimated_relative_residual": 0.00022702558381239424
+      },
+      {
+        "iteration": 53,
+        "omega": 21191.89159610815,
+        "estimated_relative_residual": 0.00011460712490191343
+      },
+      {
+        "iteration": 54,
+        "omega": 21191.89202214428,
+        "estimated_relative_residual": 7.641563122877959e-05
+      },
+      {
+        "iteration": 55,
+        "omega": 21191.892172234962,
+        "estimated_relative_residual": 4.014678136410802e-05
+      },
+      {
+        "iteration": 56,
+        "omega": 21191.8922081215,
+        "estimated_relative_residual": 2.102744513695446e-05
+      },
+      {
+        "iteration": 57,
+        "omega": 21191.892219567755,
+        "estimated_relative_residual": 8.735778461258819e-06
+      },
+      {
+        "iteration": 58,
+        "omega": 21191.892221321206,
+        "estimated_relative_residual": 4.470622875270594e-06
+      },
+      {
+        "iteration": 59,
+        "omega": 21191.89222173104,
+        "estimated_relative_residual": 2.0391504184046736e-06
+      },
+      {
+        "iteration": 60,
+        "omega": 21191.892221843966,
+        "estimated_relative_residual": 9.560137706243755e-07
+      },
+      {
+        "iteration": 61,
+        "omega": 21191.892221866423,
+        "estimated_relative_residual": 5.574373076238539e-07
+      },
+      {
+        "iteration": 62,
+        "omega": 21191.8922218738,
+        "estimated_relative_residual": 3.0197705209657653e-07
+      },
+      {
+        "iteration": 63,
+        "omega": 21191.89222187617,
+        "estimated_relative_residual": 1.4162933003176285e-07
+      },
+      {
+        "iteration": 64,
+        "omega": 21191.89222187666,
+        "estimated_relative_residual": 6.650189396191146e-08
+      }
+    ],
+    "scope": "Reference linearized inviscid model with exact MAC normal-wall projection; not a nonlinear stability guarantee",
+    "relative_difference_from_dense_frequency": 6.661338147750939e-15
+  },
+  {
+    "layers": 2,
+    "fluid_N": 32,
+    "quad": 3,
+    "omega_max": 15198.557749055799,
+    "initial_inviscid_model_dt_limit": 0.00013159143341244,
+    "iterations": 34,
+    "converged": true,
+    "actual_relative_K_residual": 7.94287251862229e-08,
+    "K_basis_orthogonality_error": 2.3737011795255957e-15,
+    "projection_checks": {
+      "relative_divergence": 6.383927371964838e-15,
+      "relative_idempotency_error": 4.2380919188713466e-15,
+      "relative_orthogonality_error": 2.6786194471369504e-16
+    },
+    "energy_hessian_relative_errors": [
+      1.6968036895068525e-10,
+      2.485890128271494e-10
+    ],
+    "history": [
+      {
+        "iteration": 1,
+        "omega": 4864.613350467665,
+        "estimated_relative_residual": 1.8845907674510132
+      },
+      {
+        "iteration": 2,
+        "omega": 11851.779394076213,
+        "estimated_relative_residual": 0.3678317935573873
+      },
+      {
+        "iteration": 3,
+        "omega": 13858.779573590808,
+        "estimated_relative_residual": 0.22803115558843723
+      },
+      {
+        "iteration": 4,
+        "omega": 14704.952325222703,
+        "estimated_relative_residual": 0.12801540846624998
+      },
+      {
+        "iteration": 5,
+        "omega": 14985.473780398415,
+        "estimated_relative_residual": 0.07198476648454234
+      },
+      {
+        "iteration": 6,
+        "omega": 15076.207730855082,
+        "estimated_relative_residual": 0.03561507323757096
+      },
+      {
+        "iteration": 7,
+        "omega": 15098.544192197818,
+        "estimated_relative_residual": 0.021826271438665275
+      },
+      {
+        "iteration": 8,
+        "omega": 15110.810384756443,
+        "estimated_relative_residual": 0.02004949382001378
+      },
+      {
+        "iteration": 9,
+        "omega": 15125.20703637719,
+        "estimated_relative_residual": 0.024601984270522317
+      },
+      {
+        "iteration": 10,
+        "omega": 15149.254295855106,
+        "estimated_relative_residual": 0.03005833002694984
+      },
+      {
+        "iteration": 11,
+        "omega": 15173.87754650445,
+        "estimated_relative_residual": 0.023937465892395343
+      },
+      {
+        "iteration": 12,
+        "omega": 15185.782729037051,
+        "estimated_relative_residual": 0.01660278165003766
+      },
+      {
+        "iteration": 13,
+        "omega": 15191.911735016865,
+        "estimated_relative_residual": 0.011961386727704715
+      },
+      {
+        "iteration": 14,
+        "omega": 15195.370581834319,
+        "estimated_relative_residual": 0.008808973100556724
+      },
+      {
+        "iteration": 15,
+        "omega": 15196.974189214709,
+        "estimated_relative_residual": 0.005789524013232807
+      },
+      {
+        "iteration": 16,
+        "omega": 15197.70263669655,
+        "estimated_relative_residual": 0.004108936548912065
+      },
+      {
+        "iteration": 17,
+        "omega": 15198.112451976463,
+        "estimated_relative_residual": 0.0033264624921119875
+      },
+      {
+        "iteration": 18,
+        "omega": 15198.385635000279,
+        "estimated_relative_residual": 0.002623212270382673
+      },
+      {
+        "iteration": 19,
+        "omega": 15198.52462455645,
+        "estimated_relative_residual": 0.0013534149602667247
+      },
+      {
+        "iteration": 20,
+        "omega": 15198.5518778492,
+        "estimated_relative_residual": 0.0005413529309678364
+      },
+      {
+        "iteration": 21,
+        "omega": 15198.556584744527,
+        "estimated_relative_residual": 0.00024099367225163492
+      },
+      {
+        "iteration": 22,
+        "omega": 15198.55746683943,
+        "estimated_relative_residual": 0.00010723326392602144
+      },
+      {
+        "iteration": 23,
+        "omega": 15198.557661512254,
+        "estimated_relative_residual": 5.394008882157176e-05
+      },
+      {
+        "iteration": 24,
+        "omega": 15198.557715272646,
+        "estimated_relative_residual": 3.173678773293592e-05
+      },
+      {
+        "iteration": 25,
+        "omega": 15198.55773491243,
+        "estimated_relative_residual": 1.862964503737501e-05
+      },
+      {
+        "iteration": 26,
+        "omega": 15198.55774248228,
+        "estimated_relative_residual": 1.4035042334702662e-05
+      },
+      {
+        "iteration": 27,
+        "omega": 15198.557746995379,
+        "estimated_relative_residual": 9.337912024720928e-06
+      },
+      {
+        "iteration": 28,
+        "omega": 15198.55774851887,
+        "estimated_relative_residual": 4.684610259369976e-06
+      },
+      {
+        "iteration": 29,
+        "omega": 15198.55774891302,
+        "estimated_relative_residual": 2.5402766998328357e-06
+      },
+      {
+        "iteration": 30,
+        "omega": 15198.55774902575,
+        "estimated_relative_residual": 1.2193220874852153e-06
+      },
+      {
+        "iteration": 31,
+        "omega": 15198.55774904942,
+        "estimated_relative_residual": 5.358486760954362e-07
+      },
+      {
+        "iteration": 32,
+        "omega": 15198.557749053933,
+        "estimated_relative_residual": 2.696433539567593e-07
+      },
+      {
+        "iteration": 33,
+        "omega": 15198.557749055364,
+        "estimated_relative_residual": 1.559012783854797e-07
+      },
+      {
+        "iteration": 34,
+        "omega": 15198.557749055799,
+        "estimated_relative_residual": 7.942872523575313e-08
+      }
+    ],
+    "scope": "Reference linearized inviscid model with exact MAC normal-wall projection; not a nonlinear stability guarantee"
+  },
+  {
+    "layers": 2,
+    "fluid_N": 32,
+    "quad": 5,
+    "omega_max": 15031.093779976376,
+    "initial_inviscid_model_dt_limit": 0.00013305751592504158,
+    "iterations": 34,
+    "converged": true,
+    "actual_relative_K_residual": 7.810055437595793e-08,
+    "K_basis_orthogonality_error": 2.504703912970934e-15,
+    "projection_checks": {
+      "relative_divergence": 6.383927371964838e-15,
+      "relative_idempotency_error": 4.2380919188713466e-15,
+      "relative_orthogonality_error": 2.6786194471369504e-16
+    },
+    "energy_hessian_relative_errors": [
+      1.6968036895068525e-10,
+      2.485890128271494e-10
+    ],
+    "history": [
+      {
+        "iteration": 1,
+        "omega": 4819.996250205431,
+        "estimated_relative_residual": 1.8858685060355298
+      },
+      {
+        "iteration": 2,
+        "omega": 11728.269666096045,
+        "estimated_relative_residual": 0.36362232741157924
+      },
+      {
+        "iteration": 3,
+        "omega": 13681.839817571325,
+        "estimated_relative_residual": 0.22927095648874238
+      },
+      {
+        "iteration": 4,
+        "omega": 14536.205456273723,
+        "estimated_relative_residual": 0.1297316773402461
+      },
+      {
+        "iteration": 5,
+        "omega": 14816.927057534771,
+        "estimated_relative_residual": 0.07185520467796608
+      },
+      {
+        "iteration": 6,
+        "omega": 14907.081626866868,
+        "estimated_relative_residual": 0.036242318560561204
+      },
+      {
+        "iteration": 7,
+        "omega": 14930.058604816204,
+        "estimated_relative_residual": 0.022085444653768323
+      },
+      {
+        "iteration": 8,
+        "omega": 14942.583038996589,
+        "estimated_relative_residual": 0.020603924090641476
+      },
+      {
+        "iteration": 9,
+        "omega": 14957.700431172074,
+        "estimated_relative_residual": 0.025421354153973154
+      },
+      {
+        "iteration": 10,
+        "omega": 14982.734445734128,
+        "estimated_relative_residual": 0.030320232946547773
+      },
+      {
+        "iteration": 11,
+        "omega": 15006.957453280109,
+        "estimated_relative_residual": 0.02384102435502019
+      },
+      {
+        "iteration": 12,
+        "omega": 15018.903662863242,
+        "estimated_relative_residual": 0.016956728543884754
+      },
+      {
+        "iteration": 13,
+        "omega": 15025.017809700523,
+        "estimated_relative_residual": 0.011521074324220353
+      },
+      {
+        "iteration": 14,
+        "omega": 15028.139773047544,
+        "estimated_relative_residual": 0.008585595639438254
+      },
+      {
+        "iteration": 15,
+        "omega": 15029.658864414001,
+        "estimated_relative_residual": 0.0055741839576374025
+      },
+      {
+        "iteration": 16,
+        "omega": 15030.326372801248,
+        "estimated_relative_residual": 0.0039652275969620865
+      },
+      {
+        "iteration": 17,
+        "omega": 15030.701881687006,
+        "estimated_relative_residual": 0.0032080821596500914
+      },
+      {
+        "iteration": 18,
+        "omega": 15030.947472622967,
+        "estimated_relative_residual": 0.0024285805539803152
+      },
+      {
+        "iteration": 19,
+        "omega": 15031.063958493918,
+        "estimated_relative_residual": 0.0012818188771202843
+      },
+      {
+        "iteration": 20,
+        "omega": 15031.088639192478,
+        "estimated_relative_residual": 0.0005077880781869529
+      },
+      {
+        "iteration": 21,
+        "omega": 15031.092632740289,
+        "estimated_relative_residual": 0.00022664783241654936
+      },
+      {
+        "iteration": 22,
+        "omega": 15031.093442810097,
+        "estimated_relative_residual": 0.00011063613536416582
+      },
+      {
+        "iteration": 23,
+        "omega": 15031.093662446185,
+        "estimated_relative_residual": 6.01167333909475e-05
+      },
+      {
+        "iteration": 24,
+        "omega": 15031.093729404345,
+        "estimated_relative_residual": 3.697209410306312e-05
+      },
+      {
+        "iteration": 25,
+        "omega": 15031.09375900855,
+        "estimated_relative_residual": 2.4911987805212104e-05
+      },
+      {
+        "iteration": 26,
+        "omega": 15031.093771997956,
+        "estimated_relative_residual": 1.6773507134385718e-05
+      },
+      {
+        "iteration": 27,
+        "omega": 15031.093777653796,
+        "estimated_relative_residual": 1.0047870652697459e-05
+      },
+      {
+        "iteration": 28,
+        "omega": 15031.093779362842,
+        "estimated_relative_residual": 4.9917529613015795e-06
+      },
+      {
+        "iteration": 29,
+        "omega": 15031.093779807587,
+        "estimated_relative_residual": 2.7278410627137274e-06
+      },
+      {
+        "iteration": 30,
+        "omega": 15031.093779938366,
+        "estimated_relative_residual": 1.3589993958260844e-06
+      },
+      {
+        "iteration": 31,
+        "omega": 15031.093779967972,
+        "estimated_relative_residual": 6.135988151616458e-07
+      },
+      {
+        "iteration": 32,
+        "omega": 15031.093779973986,
+        "estimated_relative_residual": 3.1655334156585963e-07
+      },
+      {
+        "iteration": 33,
+        "omega": 15031.093779975872,
+        "estimated_relative_residual": 1.726797269148957e-07
+      },
+      {
+        "iteration": 34,
+        "omega": 15031.093779976376,
+        "estimated_relative_residual": 7.810055432311427e-08
+      }
+    ],
+    "scope": "Reference linearized inviscid model with exact MAC normal-wall projection; not a nonlinear stability guarantee"
+  },
+  {
+    "layers": 2,
+    "fluid_N": 64,
+    "quad": 3,
+    "omega_max": 21472.38796379532,
+    "initial_inviscid_model_dt_limit": 9.314287741876721e-05,
+    "iterations": 75,
+    "converged": true,
+    "actual_relative_K_residual": 8.416034009044263e-08,
+    "K_basis_orthogonality_error": 3.9038955671827886e-15,
+    "projection_checks": {
+      "relative_divergence": 1.2370172289370384e-14,
+      "relative_idempotency_error": 8.17443824228772e-15,
+      "relative_orthogonality_error": 1.7518339366634555e-17
+    },
+    "energy_hessian_relative_errors": [
+      1.6968036895068525e-10,
+      2.485890128271494e-10
+    ],
+    "history": [
+      {
+        "iteration": 1,
+        "omega": 9661.312430415226,
+        "estimated_relative_residual": 1.3175470376252416
+      },
+      {
+        "iteration": 2,
+        "omega": 17793.316701703814,
+        "estimated_relative_residual": 0.2700297518244804
+      },
+      {
+        "iteration": 3,
+        "omega": 19362.69892202731,
+        "estimated_relative_residual": 0.1794124866044145
+      },
+      {
+        "iteration": 4,
+        "omega": 20272.357015616224,
+        "estimated_relative_residual": 0.14822424710316884
+      },
+      {
+        "iteration": 5,
+        "omega": 20902.928509652753,
+        "estimated_relative_residual": 0.09183820397513531
+      },
+      {
+        "iteration": 6,
+        "omega": 21102.458173367842,
+        "estimated_relative_residual": 0.050761191716839134
+      },
+      {
+        "iteration": 7,
+        "omega": 21192.52603911772,
+        "estimated_relative_residual": 0.044699962431004915
+      },
+      {
+        "iteration": 8,
+        "omega": 21277.32716296107,
+        "estimated_relative_residual": 0.045791617914924546
+      },
+      {
+        "iteration": 9,
+        "omega": 21353.75069305643,
+        "estimated_relative_residual": 0.03795908997967934
+      },
+      {
+        "iteration": 10,
+        "omega": 21403.1334025078,
+        "estimated_relative_residual": 0.0287221191919549
+      },
+      {
+        "iteration": 11,
+        "omega": 21427.198070187245,
+        "estimated_relative_residual": 0.018503314264427594
+      },
+      {
+        "iteration": 12,
+        "omega": 21438.590381580823,
+        "estimated_relative_residual": 0.01448610767074929
+      },
+      {
+        "iteration": 13,
+        "omega": 21445.023990430484,
+        "estimated_relative_residual": 0.010336345715026491
+      },
+      {
+        "iteration": 14,
+        "omega": 21449.032342799488,
+        "estimated_relative_residual": 0.009123605229270648
+      },
+      {
+        "iteration": 15,
+        "omega": 21452.39128947978,
+        "estimated_relative_residual": 0.008627522082685567
+      },
+      {
+        "iteration": 16,
+        "omega": 21455.14633622376,
+        "estimated_relative_residual": 0.007253566162934525
+      },
+      {
+        "iteration": 17,
+        "omega": 21457.11019217498,
+        "estimated_relative_residual": 0.006231621379179389
+      },
+      {
+        "iteration": 18,
+        "omega": 21458.49465095802,
+        "estimated_relative_residual": 0.0051341036762969595
+      },
+      {
+        "iteration": 19,
+        "omega": 21459.42458201526,
+        "estimated_relative_residual": 0.004279732766387394
+      },
+      {
+        "iteration": 20,
+        "omega": 21460.165824708474,
+        "estimated_relative_residual": 0.003935923041206147
+      },
+      {
+        "iteration": 21,
+        "omega": 21460.726207130185,
+        "estimated_relative_residual": 0.003244520128704141
+      },
+      {
+        "iteration": 22,
+        "omega": 21461.068202639217,
+        "estimated_relative_residual": 0.0023700755684650204
+      },
+      {
+        "iteration": 23,
+        "omega": 21461.25617475977,
+        "estimated_relative_residual": 0.001779154598327741
+      },
+      {
+        "iteration": 24,
+        "omega": 21461.36102512263,
+        "estimated_relative_residual": 0.0014821158593865816
+      },
+      {
+        "iteration": 25,
+        "omega": 21461.452115942615,
+        "estimated_relative_residual": 0.0014101120903467145
+      },
+      {
+        "iteration": 26,
+        "omega": 21461.538470005904,
+        "estimated_relative_residual": 0.001487419024612267
+      },
+      {
+        "iteration": 27,
+        "omega": 21461.64613981459,
+        "estimated_relative_residual": 0.0017473590646237057
+      },
+      {
+        "iteration": 28,
+        "omega": 21461.827104254455,
+        "estimated_relative_residual": 0.0023154000494730567
+      },
+      {
+        "iteration": 29,
+        "omega": 21462.112840972015,
+        "estimated_relative_residual": 0.0028293532933663604
+      },
+      {
+        "iteration": 30,
+        "omega": 21462.485722100766,
+        "estimated_relative_residual": 0.0028479079427105006
+      },
+      {
+        "iteration": 31,
+        "omega": 21462.825062653596,
+        "estimated_relative_residual": 0.002847435087485407
+      },
+      {
+        "iteration": 32,
+        "omega": 21463.158473439493,
+        "estimated_relative_residual": 0.002748301763270984
+      },
+      {
+        "iteration": 33,
+        "omega": 21463.489581647354,
+        "estimated_relative_residual": 0.0028194070835229224
+      },
+      {
+        "iteration": 34,
+        "omega": 21463.848824639932,
+        "estimated_relative_residual": 0.002989028728603683
+      },
+      {
+        "iteration": 35,
+        "omega": 21464.26842838662,
+        "estimated_relative_residual": 0.003181723952003357
+      },
+      {
+        "iteration": 36,
+        "omega": 21464.673751858954,
+        "estimated_relative_residual": 0.002933144889270866
+      },
+      {
+        "iteration": 37,
+        "omega": 21465.017385276617,
+        "estimated_relative_residual": 0.0027039622039884627
+      },
+      {
+        "iteration": 38,
+        "omega": 21465.320483796088,
+        "estimated_relative_residual": 0.002607730619573796
+      },
+      {
+        "iteration": 39,
+        "omega": 21465.582120235016,
+        "estimated_relative_residual": 0.0023422859800344936
+      },
+      {
+        "iteration": 40,
+        "omega": 21465.781629380697,
+        "estimated_relative_residual": 0.0018791834486899114
+      },
+      {
+        "iteration": 41,
+        "omega": 21465.911532750466,
+        "estimated_relative_residual": 0.0016516504971758412
+      },
+      {
+        "iteration": 42,
+        "omega": 21466.014117395916,
+        "estimated_relative_residual": 0.0014455666712229673
+      },
+      {
+        "iteration": 43,
+        "omega": 21466.09533586662,
+        "estimated_relative_residual": 0.001353682601354518
+      },
+      {
+        "iteration": 44,
+        "omega": 21466.175591903935,
+        "estimated_relative_residual": 0.0013286439104308932
+      },
+      {
+        "iteration": 45,
+        "omega": 21466.247140716438,
+        "estimated_relative_residual": 0.0013749885863366495
+      },
+      {
+        "iteration": 46,
+        "omega": 21466.352772282233,
+        "estimated_relative_residual": 0.001718147159779674
+      },
+      {
+        "iteration": 47,
+        "omega": 21466.504589277072,
+        "estimated_relative_residual": 0.00200982133159304
+      },
+      {
+        "iteration": 48,
+        "omega": 21466.70559636847,
+        "estimated_relative_residual": 0.002443995526042548
+      },
+      {
+        "iteration": 49,
+        "omega": 21467.05609076791,
+        "estimated_relative_residual": 0.0032222842007397032
+      },
+      {
+        "iteration": 50,
+        "omega": 21467.66107671931,
+        "estimated_relative_residual": 0.004274651536643633
+      },
+      {
+        "iteration": 51,
+        "omega": 21468.56839491323,
+        "estimated_relative_residual": 0.00464094559680898
+      },
+      {
+        "iteration": 52,
+        "omega": 21469.425057349374,
+        "estimated_relative_residual": 0.003977743645150101
+      },
+      {
+        "iteration": 53,
+        "omega": 21469.93760793223,
+        "estimated_relative_residual": 0.0033126004926231065
+      },
+      {
+        "iteration": 54,
+        "omega": 21470.46254272032,
+        "estimated_relative_residual": 0.003457727240323499
+      },
+      {
+        "iteration": 55,
+        "omega": 21470.911649175156,
+        "estimated_relative_residual": 0.0030330685375879766
+      },
+      {
+        "iteration": 56,
+        "omega": 21471.256103408334,
+        "estimated_relative_residual": 0.0025571197652755266
+      },
+      {
+        "iteration": 57,
+        "omega": 21471.49368637079,
+        "estimated_relative_residual": 0.0022246953643649953
+      },
+      {
+        "iteration": 58,
+        "omega": 21471.692581602256,
+        "estimated_relative_residual": 0.002234665752732075
+      },
+      {
+        "iteration": 59,
+        "omega": 21471.970825974582,
+        "estimated_relative_residual": 0.0025738871652407776
+      },
+      {
+        "iteration": 60,
+        "omega": 21472.201456952454,
+        "estimated_relative_residual": 0.002047868515168821
+      },
+      {
+        "iteration": 61,
+        "omega": 21472.327996225707,
+        "estimated_relative_residual": 0.0012418081117331473
+      },
+      {
+        "iteration": 62,
+        "omega": 21472.37121264411,
+        "estimated_relative_residual": 0.0007427769508779375
+      },
+      {
+        "iteration": 63,
+        "omega": 21472.383945517147,
+        "estimated_relative_residual": 0.0003420256219652971
+      },
+      {
+        "iteration": 64,
+        "omega": 21472.38687739544,
+        "estimated_relative_residual": 0.00017571573667959898
+      },
+      {
+        "iteration": 65,
+        "omega": 21472.387644389135,
+        "estimated_relative_residual": 9.603475779221806e-05
+      },
+      {
+        "iteration": 66,
+        "omega": 21472.387868255086,
+        "estimated_relative_residual": 4.782923851870387e-05
+      },
+      {
+        "iteration": 67,
+        "omega": 21472.387928996413,
+        "estimated_relative_residual": 2.8588810961836642e-05
+      },
+      {
+        "iteration": 68,
+        "omega": 21472.387952051817,
+        "estimated_relative_residual": 1.6999477385619345e-05
+      },
+      {
+        "iteration": 69,
+        "omega": 21472.38795972958,
+        "estimated_relative_residual": 1.0327466435033231e-05
+      },
+      {
+        "iteration": 70,
+        "omega": 21472.387962664474,
+        "estimated_relative_residual": 6.0014719062663576e-06
+      },
+      {
+        "iteration": 71,
+        "omega": 21472.38796359511,
+        "estimated_relative_residual": 2.829066334686459e-06
+      },
+      {
+        "iteration": 72,
+        "omega": 21472.387963759138,
+        "estimated_relative_residual": 1.1339150572189059e-06
+      },
+      {
+        "iteration": 73,
+        "omega": 21472.387963788024,
+        "estimated_relative_residual": 5.304784939822306e-07
+      },
+      {
+        "iteration": 74,
+        "omega": 21472.38796379436,
+        "estimated_relative_residual": 2.1660158585861888e-07
+      },
+      {
+        "iteration": 75,
+        "omega": 21472.38796379532,
+        "estimated_relative_residual": 8.416034015688703e-08
+      }
+    ],
+    "scope": "Reference linearized inviscid model with exact MAC normal-wall projection; not a nonlinear stability guarantee"
+  },
+  {
+    "layers": 2,
+    "fluid_N": 64,
+    "quad": 5,
+    "omega_max": 21098.34802537245,
+    "initial_inviscid_model_dt_limit": 9.479415154185723e-05,
+    "iterations": 74,
+    "converged": true,
+    "actual_relative_K_residual": 4.359723020186198e-08,
+    "K_basis_orthogonality_error": 3.881986061389943e-15,
+    "projection_checks": {
+      "relative_divergence": 1.2370172289370384e-14,
+      "relative_idempotency_error": 8.17443824228772e-15,
+      "relative_orthogonality_error": 1.7518339366634555e-17
+    },
+    "energy_hessian_relative_errors": [
+      1.6968036895068525e-10,
+      2.485890128271494e-10
+    ],
+    "history": [
+      {
+        "iteration": 1,
+        "omega": 9462.381149632667,
+        "estimated_relative_residual": 1.3277975845906462
+      },
+      {
+        "iteration": 2,
+        "omega": 17483.657477262823,
+        "estimated_relative_residual": 0.26769655649022006
+      },
+      {
+        "iteration": 3,
+        "omega": 19004.17930426286,
+        "estimated_relative_residual": 0.17975829752587102
+      },
+      {
+        "iteration": 4,
+        "omega": 19896.10074918906,
+        "estimated_relative_residual": 0.14910585810462684
+      },
+      {
+        "iteration": 5,
+        "omega": 20536.96083968168,
+        "estimated_relative_residual": 0.09245153041415913
+      },
+      {
+        "iteration": 6,
+        "omega": 20733.29865113929,
+        "estimated_relative_residual": 0.05163854305809168
+      },
+      {
+        "iteration": 7,
+        "omega": 20827.84390290697,
+        "estimated_relative_residual": 0.046562273230771424
+      },
+      {
+        "iteration": 8,
+        "omega": 20916.3448035557,
+        "estimated_relative_residual": 0.04614626234951213
+      },
+      {
+        "iteration": 9,
+        "omega": 20990.473068225383,
+        "estimated_relative_residual": 0.037232070514065775
+      },
+      {
+        "iteration": 10,
+        "omega": 21036.225171847156,
+        "estimated_relative_residual": 0.027801468335307465
+      },
+      {
+        "iteration": 11,
+        "omega": 21058.332063146907,
+        "estimated_relative_residual": 0.017867455032819342
+      },
+      {
+        "iteration": 12,
+        "omega": 21069.15298842026,
+        "estimated_relative_residual": 0.014446386276188512
+      },
+      {
+        "iteration": 13,
+        "omega": 21075.368102297434,
+        "estimated_relative_residual": 0.010285511210755318
+      },
+      {
+        "iteration": 14,
+        "omega": 21079.238357407554,
+        "estimated_relative_residual": 0.008672008113701857
+      },
+      {
+        "iteration": 15,
+        "omega": 21082.124632666873,
+        "estimated_relative_residual": 0.007995914673282532
+      },
+      {
+        "iteration": 16,
+        "omega": 21084.26636512934,
+        "estimated_relative_residual": 0.006214293963706969
+      },
+      {
+        "iteration": 17,
+        "omega": 21085.65701948213,
+        "estimated_relative_residual": 0.005098419600647414
+      },
+      {
+        "iteration": 18,
+        "omega": 21086.552680415534,
+        "estimated_relative_residual": 0.0043104085025708234
+      },
+      {
+        "iteration": 19,
+        "omega": 21087.241030783545,
+        "estimated_relative_residual": 0.0038218146182717578
+      },
+      {
+        "iteration": 20,
+        "omega": 21087.81315395161,
+        "estimated_relative_residual": 0.003351722503328374
+      },
+      {
+        "iteration": 21,
+        "omega": 21088.19720847466,
+        "estimated_relative_residual": 0.002607481051955414
+      },
+      {
+        "iteration": 22,
+        "omega": 21088.398513364293,
+        "estimated_relative_residual": 0.0018599726928554276
+      },
+      {
+        "iteration": 23,
+        "omega": 21088.521294661678,
+        "estimated_relative_residual": 0.001476418811860109
+      },
+      {
+        "iteration": 24,
+        "omega": 21088.596281111986,
+        "estimated_relative_residual": 0.0013164203856567895
+      },
+      {
+        "iteration": 25,
+        "omega": 21088.67278430239,
+        "estimated_relative_residual": 0.001401331973430161
+      },
+      {
+        "iteration": 26,
+        "omega": 21088.76886215417,
+        "estimated_relative_residual": 0.0016719608456828754
+      },
+      {
+        "iteration": 27,
+        "omega": 21088.921432902927,
+        "estimated_relative_residual": 0.002119582386993898
+      },
+      {
+        "iteration": 28,
+        "omega": 21089.178735332083,
+        "estimated_relative_residual": 0.002823075936172975
+      },
+      {
+        "iteration": 29,
+        "omega": 21089.584883610823,
+        "estimated_relative_residual": 0.003332044342940357
+      },
+      {
+        "iteration": 30,
+        "omega": 21090.118988658964,
+        "estimated_relative_residual": 0.0036295985541442443
+      },
+      {
+        "iteration": 31,
+        "omega": 21090.704547304966,
+        "estimated_relative_residual": 0.003940106875684203
+      },
+      {
+        "iteration": 32,
+        "omega": 21091.354279951403,
+        "estimated_relative_residual": 0.0036977626655838834
+      },
+      {
+        "iteration": 33,
+        "omega": 21091.9488392134,
+        "estimated_relative_residual": 0.003900663936533752
+      },
+      {
+        "iteration": 34,
+        "omega": 21092.520389430756,
+        "estimated_relative_residual": 0.0034041279820353062
+      },
+      {
+        "iteration": 35,
+        "omega": 21092.958533502082,
+        "estimated_relative_residual": 0.0028927433719214777
+      },
+      {
+        "iteration": 36,
+        "omega": 21093.266296518377,
+        "estimated_relative_residual": 0.0025998080216232816
+      },
+      {
+        "iteration": 37,
+        "omega": 21093.515764618765,
+        "estimated_relative_residual": 0.002260555409897534
+      },
+      {
+        "iteration": 38,
+        "omega": 21093.71422418094,
+        "estimated_relative_residual": 0.0020804062925948033
+      },
+      {
+        "iteration": 39,
+        "omega": 21093.87587678443,
+        "estimated_relative_residual": 0.0018215952932753878
+      },
+      {
+        "iteration": 40,
+        "omega": 21093.99564318409,
+        "estimated_relative_residual": 0.0015054117686440218
+      },
+      {
+        "iteration": 41,
+        "omega": 21094.07836036788,
+        "estimated_relative_residual": 0.0014093294135392974
+      },
+      {
+        "iteration": 42,
+        "omega": 21094.16582293844,
+        "estimated_relative_residual": 0.0013509219683482323
+      },
+      {
+        "iteration": 43,
+        "omega": 21094.23387923303,
+        "estimated_relative_residual": 0.0013419081286318512
+      },
+      {
+        "iteration": 44,
+        "omega": 21094.33174364808,
+        "estimated_relative_residual": 0.001705439547092234
+      },
+      {
+        "iteration": 45,
+        "omega": 21094.50553923319,
+        "estimated_relative_residual": 0.002259188527167352
+      },
+      {
+        "iteration": 46,
+        "omega": 21094.757212073164,
+        "estimated_relative_residual": 0.0028102985533565053
+      },
+      {
+        "iteration": 47,
+        "omega": 21095.210797123596,
+        "estimated_relative_residual": 0.003381419872970728
+      },
+      {
+        "iteration": 48,
+        "omega": 21095.71308076848,
+        "estimated_relative_residual": 0.0037075903128605055
+      },
+      {
+        "iteration": 49,
+        "omega": 21096.410998305233,
+        "estimated_relative_residual": 0.004304653647442438
+      },
+      {
+        "iteration": 50,
+        "omega": 21097.171846424764,
+        "estimated_relative_residual": 0.00390800177553976
+      },
+      {
+        "iteration": 51,
+        "omega": 21097.67646810617,
+        "estimated_relative_residual": 0.003027667836049418
+      },
+      {
+        "iteration": 52,
+        "omega": 21097.98602020616,
+        "estimated_relative_residual": 0.002293446330407473
+      },
+      {
+        "iteration": 53,
+        "omega": 21098.155275448542,
+        "estimated_relative_residual": 0.0017974492958545156
+      },
+      {
+        "iteration": 54,
+        "omega": 21098.265462874915,
+        "estimated_relative_residual": 0.0013640202732757094
+      },
+      {
+        "iteration": 55,
+        "omega": 21098.320516618904,
+        "estimated_relative_residual": 0.0008918215569430779
+      },
+      {
+        "iteration": 56,
+        "omega": 21098.34032605902,
+        "estimated_relative_residual": 0.00043119481452620894
+      },
+      {
+        "iteration": 57,
+        "omega": 21098.344825905035,
+        "estimated_relative_residual": 0.0002245824372679805
+      },
+      {
+        "iteration": 58,
+        "omega": 21098.34601014692,
+        "estimated_relative_residual": 0.0001197816570125003
+      },
+      {
+        "iteration": 59,
+        "omega": 21098.346427390697,
+        "estimated_relative_residual": 8.57306960850408e-05
+      },
+      {
+        "iteration": 60,
+        "omega": 21098.346724907417,
+        "estimated_relative_residual": 8.700217075678536e-05
+      },
+      {
+        "iteration": 61,
+        "omega": 21098.34703848338,
+        "estimated_relative_residual": 8.319877303200265e-05
+      },
+      {
+        "iteration": 62,
+        "omega": 21098.347339843487,
+        "estimated_relative_residual": 8.937565557694977e-05
+      },
+      {
+        "iteration": 63,
+        "omega": 21098.347670871764,
+        "estimated_relative_residual": 7.809156187449902e-05
+      },
+      {
+        "iteration": 64,
+        "omega": 21098.34786677951,
+        "estimated_relative_residual": 5.8624901590437656e-05
+      },
+      {
+        "iteration": 65,
+        "omega": 21098.34797313359,
+        "estimated_relative_residual": 3.770173168659788e-05
+      },
+      {
+        "iteration": 66,
+        "omega": 21098.348008742112,
+        "estimated_relative_residual": 2.066317820168137e-05
+      },
+      {
+        "iteration": 67,
+        "omega": 21098.348019873985,
+        "estimated_relative_residual": 1.211938219352828e-05
+      },
+      {
+        "iteration": 68,
+        "omega": 21098.348023902203,
+        "estimated_relative_residual": 7.130019662265513e-06
+      },
+      {
+        "iteration": 69,
+        "omega": 21098.34802509691,
+        "estimated_relative_residual": 3.196727630686239e-06
+      },
+      {
+        "iteration": 70,
+        "omega": 21098.348025317766,
+        "estimated_relative_residual": 1.4036528948859831e-06
+      },
+      {
+        "iteration": 71,
+        "omega": 21098.3480253613,
+        "estimated_relative_residual": 6.587051144392618e-07
+      },
+      {
+        "iteration": 72,
+        "omega": 21098.348025370884,
+        "estimated_relative_residual": 2.584991593246174e-07
+      },
+      {
+        "iteration": 73,
+        "omega": 21098.34802537222,
+        "estimated_relative_residual": 1.0403663338990835e-07
+      },
+      {
+        "iteration": 74,
+        "omega": 21098.34802537245,
+        "estimated_relative_residual": 4.3597230026384855e-08
+      }
+    ],
+    "scope": "Reference linearized inviscid model with exact MAC normal-wall projection; not a nonlinear stability guarantee"
+  }
+]

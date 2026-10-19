@@ -1,0 +1,31 @@
+[
+  {
+    "h": 1.0,
+    "partition_error": 1.6653345369377348e-16,
+    "max_affine_moment_error": 4.163336342344337e-17,
+    "transpose_work_error": 1.1102230246251565e-16,
+    "statistics": {
+      "leaves": 1,
+      "unresolved_leaves": 0,
+      "exact_cell_leaves": 1,
+      "max_depth": 0,
+      "estimated_absolute_error": 0.0,
+      "evaluated_points": 152
+    },
+    "contained_cell_q5_q9_error": 4.242090603255638e-16
+  },
+  {
+    "h": 0.125,
+    "partition_error": 1.1102230246251565e-16,
+    "max_affine_moment_error": 2.7755575615628914e-17,
+    "transpose_work_error": 4.163336342344337e-17,
+    "statistics": {
+      "leaves": 12,
+      "unresolved_leaves": 0,
+      "exact_cell_leaves": 0,
+      "max_depth": 5,
+      "estimated_absolute_error": 0.006648701599260405,
+      "evaluated_points": 3496
+    }
+  }
+]

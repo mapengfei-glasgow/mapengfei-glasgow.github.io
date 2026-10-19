@@ -13,12 +13,13 @@ Cartesian fluid grid if we use more Gauss points inside each solid element?
 This study tests that idea using an existing finite-difference GPU fluid
 solver and an isolated P1 tetrahedral variational coupling adapter.
 
-**Current result:** more interaction points improve integration, but do not
-replace the solid degrees of freedom needed to resolve deformation. All six
-full Cook pilot runs completed. Their results do not establish superiority
-over the original nodal IB-4 coupling. GPU coupling speedup remains unproven:
-fluid and constitutive kernels run on GPU, while this reference adapter
-assembles coupling and solves the solid mass system on CPU.
+**Current result:** dense interaction quadrature improves transfer integration,
+but cannot replace the solid resolution needed for deformation. Optional CUDA
+transfer and dense mass-inverse implementations now match the CPU reference.
+All eight joint-refinement cases complete at a common stable time step, but
+strong solid-mesh sensitivity remains. The first adaptive quadrature selector
+reduces local stencil error without a consistent cost advantage over uniform
+subdivision. Whole-solver speedup at matched accuracy remains unproven.
 
 ## Method and established prior work
 
@@ -152,16 +153,118 @@ This is an experimental tradeoff, not demonstrated physical superiority.
 
 ![Global and regional volume-control comparison](/images/variational-fd-fsi/comparison.png)
 
-## Research plan
+## GPU implementation and common-step refinement
 
-The next stages are joint fluid/solid refinement, cell-aware quadrature,
-fixed-support temporal studies, full-load torsion/LV validation, and comparison
-with quadrature-based IB methods in addition to the nodal baseline. A scalable
-CUDA coupling implementation needs device assembly/reduction and an appropriate
-sparse mass solve; the current dense host reference is capped at 2000 nodes.
+The isolated coupling adapter now supports device stencil construction and
+optional dense GPU mass actions. All 36 small operator combinations pass
+reference and work checks. Six matched short trajectories for the precomputed
+inverse differ from CPU final coordinates by at most 4.67e-15 cm. This verifies
+implementation agreement, not physical accuracy. Dense storage and the
+2000-node reference cap remain; geometry-dependent volume-constraint
+preparation still runs on CPU.
 
-A publication-level efficiency claim requires repeated warmed timings,
-component costs and memory use at comparable verified accuracy. A JCP paper
-would need a distinct contribution and evidence beyond established dense
-quadrature or adjoint transfer. These results document progress and limitations;
-they are not a claim of publication readiness.
+The active-LV pilot varies solid layers (290 or 1731 nodes), fluid N32/N64 in
+a 4 cm cube, and 27/125 interaction points per tetrahedron. All eight cases
+reach .1 s at dt=.000025 s and pass independent checkpoint audits. Fluid
+walls remain stationary with no slip. The material, .5 s pressure/activation
+ramp and support stiffness are held fixed: rho=1 g/cm³, viscosity=.04
+ g/(cm·s), Guccione C=2e4 dyn/cm², bf=8, bt=2, bfs=4,
+bulk modulus=93333.33 dyn/cm², final active stress=6e5 dyn/cm² and final
+pressure=1.5e5 dyn/cm². The basal surface uses a nodal-lumped penalty with
+physical stiffness 31,250,000 dyn/cm³; it is not an exact clamp. Global volume
+control and the corrected midpoint geometry update are used throughout.
+
+At the endpoint, apex displacement is approximately -.004 cm on the coarse
+solid and +.22 cm on the finer solid. Solid refinement changes geometry and
+fibre representation as well as structural resolution. These are transient
+pilot results, not a converged reference or validated cardiac prediction.
+On the finest 125-point case, half-step versus quarter-step apex displacement
+differs by 2e-8 cm; the large mesh sensitivity persists beyond this time-step
+check. Local J error does not consistently improve with fluid refinement.
+
+![Joint refinement at the same stable time step](/images/variational-fd-fsi/common_dt_refinement.png)
+
+[Exact commands, binary hashes and nine endpoint audits](/data/variational-fd-fsi/common_dt_summary.json).
+
+## Explaining the initial stability failures
+
+At dt=.0001 s, three of the original eight combinations invert. CPU and GPU
+reproduce the same rapid growth. Reducing dt lets all three reach .1 s without
+weakening material or support stiffness.
+
+An independent initial linear model includes the passive elastic tangent,
+actual basal penalty and an exact MAC normal-wall pressure projection. Its
+inviscid oscillator limits classify all eight original outcomes correctly.
+For the coarse solid on N64, it estimates dt limits of 9.44e-5 s with 27
+points and 1.10e-4 s with 125 points, bracketing the tested 1e-4 s step.
+This model excludes viscosity, convection, evolving geometry and load; it is
+not a nonlinear stability guarantee.
+
+Reference mass-whitened transfer gain also reveals quadrature amplification:
+on coarse-solid N64 its squared norm is 1.378 with 27 points and .943 with
+125 points before pressure projection. Gain alone does not determine stable
+dt; stiffness also matters.
+
+![Reference-state squared transfer gain](/images/variational-fd-fsi/coupling_gain.png)
+
+[Dense reference-model checks](/data/variational-fd-fsi/projected_reference_stability.json) ·
+[Residual-verified Lanczos frequencies](/data/variational-fd-fsi/lanczos_reference_frequency.json).
+
+## First adaptive quadrature selector: error improves, cost remains a problem
+
+A field-independent selector integrates the complete local transfer stencil,
+compares 27/125-point rules and bisects the longest tetrahedral edge when
+its estimator is too large. Leaves wholly inside the component interpolation
+cells use polynomial-exact 125-point integration. The depth limit is 12.
+The estimator is not a certified error bound. Selection depends on geometry,
+not the velocity or force right-hand side, so the same matrix can supply
+interpolation and its transpose force map.
+
+Four distributed coarse-LV tetrahedra, two fluid spacings and two translations
+provide 16 configurations. Independent checks verify partition, affine
+moments and transpose work to roundoff. These are local integration tests,
+not coupled simulations with the adaptive rule.
+
+| Rule | Median relative local-stencil error | Evaluated points per tetrahedron |
+| --- | ---: | ---: |
+| Fixed 27 | .2581 | 27 |
+| Fixed 125 | .03851 | 125 |
+| Uniform subdivision level1 | .008413 | 1,000 |
+| Uniform subdivision level2 | .001342 | 8,000 |
+| Uniform subdivision level3 | .0002692 | 64,000 |
+| Adaptive tolerance .01 | .002006 | 1,976–63,384 |
+| Adaptive tolerance .003 | .0003864 | 12,616–398,696 |
+
+Costs count rejected parent evaluations and estimator work. The reference
+uses uniform level4 subdivision with 512,000 points per tetrahedron; its
+maximum disagreement with level3 is 8.06e-4. Some small reported errors fall
+below that disagreement, so their ranking is uncertain. Tolerances are local
+absolute stencil-estimator thresholds normalized by reference volume, not
+relative solution-error tolerances.
+
+![Local stencil error against total evaluated point count](/images/variational-fd-fsi/adaptive_error_cost.png)
+
+The tighter rule hits the depth cap on 440 leaves without satisfying its
+estimator. Neither tolerance demonstrates a consistent cost advantage over
+cheaper uniform rules. This is a useful negative result: the next candidate
+should target MAC grid-plane intersections directly before expensive global
+stability and nonlinear GPU tests.
+
+[Selected measurements](/data/variational-fd-fsi/adaptive_local_stencil_errors.json) ·
+[Summary and source/mesh hashes](/data/variational-fd-fsi/adaptive_summary.json) ·
+[Independent operator checks](/data/variational-fd-fsi/adaptive_operator_checks.json).
+
+## Research and publication status
+
+The next gates are structural/geometry convergence, local incompressibility,
+grid-plane-aware integration and a matched comparison against existing
+quadrature-based immersed coupling. A publication-level efficiency claim
+requires total runtime and memory at comparable verified accuracy, including
+initialization and constraint costs. Component GPU timings cannot substitute
+for that comparison.
+
+Coarse solid meshes with dense interaction points are established prior work.
+The current tensor trilinear hats are also algebraically tensor tent kernels;
+avoiding explicit delta-function notation alone is not a new method. The
+stability diagnosis is promising research evidence, but the results do not
+yet establish JCP submission readiness.
