@@ -1,0 +1,53 @@
+{
+  "updated_at_utc": "2026-10-19T12:34:07.188819+00:00",
+  "updated_at_uk": "19 October 2026, 13:34 BST",
+  "latest_complete_monitoring": {
+    "iteration": 56000,
+    "training_loss": 0.008,
+    "validation_rollout_comp_rmse_mm": 0.56,
+    "cumulative_active_hours": 13.887777777777778
+  },
+  "latest_training_log": {
+    "iteration": 57000,
+    "loss": 0.0077
+  },
+  "planned_iterations": 120000,
+  "best_complete_monitoring_training_window": {
+    "iteration": 53000,
+    "training_loss": 0.0078,
+    "validation_rollout_comp_rmse_mm": 0.64,
+    "cumulative_active_hours": 13.17
+  },
+  "best_logged_validation_rollout": {
+    "iteration": 9000,
+    "training_loss": 0.0128,
+    "validation_rollout_comp_rmse_mm": 0.51,
+    "cumulative_active_hours": 2.348611111111111
+  },
+  "joint_data": {
+    "updated_at_utc": "2026-10-19T12:34:07.188819+00:00",
+    "cases": 600,
+    "states": {
+      "completed": 65,
+      "failed": 1,
+      "running": 24,
+      "pending": 510
+    },
+    "prepared": true,
+    "validated": false,
+    "splits": {
+      "train": 456,
+      "test": 72,
+      "val": 72
+    },
+    "dimensions": 24,
+    "geometry_modes": 16,
+    "geometry_scale_sigma": 0.5
+  },
+  "notes": [
+    "Static snapshot, not a live dashboard",
+    "Training loss is normalised noisy one-step MSE; rollout error is a separate diagnostic",
+    "No test evaluation for the ongoing narrow stage",
+    "Fibre and sheet tensor node inputs are proposed, not implemented in the running model"
+  ]
+}

@@ -2,7 +2,7 @@
 title: "Learning left ventricular contraction and dilation"
 description: "PCA geometry, a staged graph emulator, completed mean-geometry training, and held-out evaluation with PyVista animations."
 date: 2026-10-16
-lastmod: 2026-10-18
+lastmod: 2026-10-19
 academic: true
 bibliography: "bib/left-ventricle-emulator.bib"
 ShowToc: true
@@ -13,7 +13,7 @@ tags: ["Cardiac mechanics", "Graph neural networks", "PCA"]
 
 This project learns an emulator of left ventricular (LV) contraction and dilation across ventricular shapes, material properties, and loading conditions. A finite-element solver provides displacement trajectories, and an augmented MeshGraphNet advances the nodal displacement in time.
 
-**State on 18 October 2026:** the mean-geometry base run has completed **120,000 iterations**, with final training loss **0.0070**. All **1,000 mean-geometry simulations** are complete. All **600 narrow-geometry cases are now complete and validated**, and the narrow-geometry curriculum stage has started in a separate run. The single-geometry models are preserved.
+**State on 19 October 2026, 13:34 BST:** mean-geometry training is complete at 120,000 iterations (final loss **0.0070**). Narrow-geometry training is at approximately **57,000 / 120,000 iterations**, with latest logged training loss **0.0077**. All 600 narrow cases are validated. All 600 wider joint-sampled meshes have passed strict checks, and **65 / 600 joint simulations are complete**. Fibre/sheet tensor inputs remain a proposed experiment; the single-geometry models and running narrow baseline are unchanged.
 
 [Source repository](https://github.com/mapengfei-glasgow/lv-gls-bdf2-ho) · [Report data and model configuration](/data/lv-emulator/2026-10-18/report_summary.json) · [Training history CSV](/data/lv-emulator/2026-10-18/training_history.csv)
 
@@ -31,7 +31,38 @@ The archived manuscript, `GNN_LV/manuscript.tex` in `GNN_LV.zip`, records an ear
 
 The main idea retained from that manuscript is a full-cycle, field-valued autoregressive emulator. The present study adds a reproducible PCA geometry bundle, a mean-to-variable-geometry curriculum, complete held-out parameter evaluation at the mean shape, and a separate narrow-geometry training stage. **The narrow stage is still training; the quantitative results below belong to the completed mean-geometry model.**
 
-## Training progress: loss is the primary measure
+## Current narrow-geometry training and data generation
+
+This is a **static snapshot at 19 October 2026, 13:34 BST**, separate from the completed mean-geometry results below. Training loss is the primary learning diagnostic.
+
+| Narrow training progress | Value |
+|---|---:|
+| Latest logged iteration | 57,000 / 120,000 |
+| Latest logged training-window loss | **0.0077** |
+| Latest complete monitoring/checkpoint iteration | 56,000 |
+| Training loss at that monitoring point | 0.0080 |
+| Validation rollout component RMSE at that point | 0.56 mm |
+| Active elapsed time through that monitoring point | 13.89 hours |
+| Training cases / shapes | 384 / 24 |
+
+![Narrow-geometry training loss and validation rollout error against active elapsed time.](/images/lv-emulator/results-2026-10-19/narrow_training_progress.png)
+
+*Each plotted point is a completed 1,000-iteration monitoring window; the latest training-only log may precede its corresponding rollout evaluation. Training loss has decreased from 0.0154, but validation rollout error fluctuates rather than showing the same sustained decrease. Normalisers continue updating, so these dimensionless losses should not be interpreted as millimetres or directly equated with the fixed-geometry run. No final narrow-stage test result is available yet.*
+
+The wider data stage samples **geometry and physical parameters jointly**: 600 distinct pairs from one 24-dimensional scrambled Sobol design. The first 16 PCA coordinates span ±0.5σ, while the other 24 PCA coefficients remain zero. The eight physical parameter ranges are unchanged. The dataset split is **456 training / 72 validation / 72 testing**. This replaces the cancelled wider crossed design that would have reused the same 20 physical vectors across new shapes; its partial outputs were preserved.
+
+| Joint simulation status at the snapshot | Cases |
+|---|---:|
+| Completed | 65 |
+| Solver status running | 24 |
+| Failed, awaiting the campaign recovery pass | 1 |
+| No solver metadata yet, including queued/preprocessing cases | 510 |
+
+All 600 joint meshes have passed strict mesh/fibre checks. Simulation completion is different from full data validation: the campaign watcher retries solver failures after workers finish, and writes the final readiness marker only after independent validation. No training on the joint dataset has started.
+
+[Snapshot JSON](/data/lv-emulator/2026-10-19/current_state.json) · [Narrow training history CSV](/data/lv-emulator/2026-10-19/narrow_training_history.csv)
+
+## Completed mean-geometry training: loss is the primary measure
 
 The training loss is the mean squared error of the **normalised, noise-corrected one-step displacement update**, averaged over all real mesh nodes and three displacement components. Virtual nodes are excluded; basal mesh nodes are included in the current implementation. It is the primary measure used to assess learning progress. The final 1,000-iteration average is **0.0070**, and the last several evaluation windows are approximately 0.0068–0.0072.
 
@@ -168,6 +199,42 @@ The network output $f_\theta$ is in normalised target units. The graph $\mathcal
 
 The graph hierarchy is built on the mean training shape using k-means clustering, approximately four leaves per root, three nearest-neighbour connections within intermediate virtual layers, and a fully connected final virtual layer. Virtual nodes provide communication over larger spatial scales.
 
+## Fibre directions: from cell fields to graph inputs
+
+Dalton’s data-driven LV emulator explicitly includes three-dimensional fibre directions in the real-node features, alongside boundary indicators and the radial direction (§4.4) {{< cite "dalton2022emulation" >}}. The later physics-informed paper gives node features of the form $(d_i,\mathbf f_i)$ for the relevant anisotropic models (§2.4.5, equation 24) {{< cite "dalton2023physics" >}}. These are neural-network inputs, in addition to the fibre fields used by the constitutive law.
+
+Our finite-element pipeline instead stores fibre and sheet directions at **tetrahedral cell centres**. Our currently trained GNN has 18 node features and **does not receive either direction explicitly**. A cell-centred field can still be supplied to a vertex-based network by defining a cell-to-node projection; matching storage locations is not required.
+
+<div class="lv-next-steps">
+
+### Proposed experiment: volume-weighted structural tensors
+
+For node $i$, let $\mathcal K(i)$ be its incident tetrahedra, $V_K$ their reference volumes, and $\mathbf f_K$ the cell fibre unit vectors. A simple vector projection would average $V_K\mathbf f_K$ and normalise the result. However, $\mathbf f_K$ and $-\mathbf f_K$ describe the same material axis, so direct vector averaging can cancel physically equivalent directions. A near-zero average also makes vector normalisation unstable.
+
+Instead, project the **fibre structural tensor**:
+
+$$
+\mathbf A_i=
+\frac{\displaystyle\sum_{K\in\mathcal K(i)}
+V_K\,\mathbf f_K\otimes\mathbf f_K}
+{\displaystyle\sum_{K\in\mathcal K(i)}V_K}.
+$$
+
+The symmetric tensor can be encoded with six independent components:
+
+$$
+\mathbf a_i=
+\left(A_{xx},A_{yy},A_{zz},A_{xy},A_{xz},A_{yz}\right)_i.
+$$
+
+This representation is unchanged by reversing any cell fibre vector. For unit cell fibres and positive weights, $\mathbf A_i$ is positive semidefinite with trace one. It represents the local mixture of fibre axes and need not be rank one; extracting a single principal direction would discard some of that information. Define the sheet tensor in exactly the same way using $\mathbf s_K\otimes\mathbf s_K$. These are averages of material directions, not predictions of strain or stress.
+
+Appending six fibre and six sheet components would expand the real-node input from **18 to 30 features**. Virtual-node tensor features should be pooled with the same hierarchy using explicitly defined nonnegative weights. The encoder and input normaliser would need a corresponding change. This should be tested as a separate model against the unchanged baseline, using the same cases and training budget, with one-step training loss reported first and rollout/volume errors assessed separately. The running narrow-geometry model has not been modified.
+
+Projection loses cellwise detail, particularly near sharp changes in material direction. A more expressive alternative is a bipartite graph with one node per tetrahedron connected to its four vertices: cell nodes retain the original local fibre/sheet information and exchange messages with displacement nodes. This requires more memory and a larger architectural change. The volume-weighted tensor projection is therefore the recommended first ablation, rather than an already validated improvement.
+
+</div>
+
 ## 课程学习 / geometry curriculum
 
 Training across a broad geometry range from the outset proved difficult in earlier experiments. The curriculum first learns material- and loading-dependent motion on one fixed geometry, then introduces small shape changes, and finally expands the target shape range. This is an application of the curriculum-learning principle of progressively increasing task difficulty {{< cite "bengio2009curriculum" >}}; its benefit here remains to be quantified against training the same geometry family from scratch.
@@ -175,8 +242,9 @@ Training across a broad geometry range from the outset proved difficult in earli
 | Stage | Geometry | Data design | State |
 |---|---|---|---|
 | 1. Mean-geometry base | All 40 standardised PCA coefficients zero | 1,000 parameter samples; 760 train / 120 validation / 120 test | **Training complete** |
-| 2. Narrow variation | First 16 coefficients in **[−0.25, 0.25]σ**; remaining coefficients zero | 30 shapes × 20 parameters; 384 train / 102 validation / 114 test | **600 validated; training started** |
-| 3. Wider geometry family | Broader target PCA range | To be specified | Planned |
+| 2. Narrow variation | First 16 coefficients in **[−0.25, 0.25]σ**; remaining coefficients zero | 30 shapes × 20 parameters; 384 train / 102 validation / 114 test | **600 validated; training at approximately 57,000 iterations** |
+| 3. Wider joint sampling | First 16 coefficients within ±0.5σ; remaining zero | 600 unique geometry/physics pairs; 456 train / 72 validation / 72 test | **Meshes checked; simulations running; no training yet** |
+| 4. Full geometry family | Further PCA-range/mode expansion | To be specified | Planned |
 
 Stage 1 began with fresh weights on the PCA mean, rather than continuing the older geom_0000 model. Completed simulations were added incrementally, while the validation set stayed fixed and optimizer/normaliser state was preserved. Stage 2 starts from the saved base checkpoint at iteration **111,000**, whose recorded training loss is **0.0069**, the lowest among the available saved base snapshots. This is a different checkpoint from the 120,000-iteration model evaluated above. Lower losses logged at unsaved iterations do not provide recoverable weights. The stage retains the network, hierarchy and normalisers, resets Adam and the cosine schedule to $10^{-4}\rightarrow10^{-6}$, and trains for a planned 120,000 further iterations with batch size 4. Outputs are stored separately in `surrogate_runs/geometry_narrow_from_mean_loss/`; `best_loss.pt` tracks minimum 1,000-iteration mean training loss. The original mean-geometry model is left intact.
 
@@ -198,6 +266,8 @@ The narrow stage has 24 training shapes, three validation shapes, and three test
 | $T$ | Cycle length (s) | 1.0 | 0.75–1.2 | Uniform |
 
 **Narrow geometry campaign:** seed **20261017** selects the 20 parameter vectors within their original base splits, then samples 29 nonzero shape offsets uniformly in [−0.25, 0.25] on the first 16 standardised PCs. Shape 0 is the exact mean. Every shape is crossed with the same parameter vectors, allowing comparisons at matched materials and loads. The source parameter IDs, all 40 coefficients, split assignments, and asset hashes are recorded in `design.json`; `shape_coeffs.csv` stores the first 16 standardised coefficients.
+
+**Wider joint geometry/physics campaign:** seed **20261020** generates 24-dimensional scrambled Sobol points. Coordinates 0–15 determine the 16 varied PCA coefficients; coordinates 16–23 determine the eight physical parameters through the same mappings used above. Seed **20261021** shuffles the case split. One geometry is paired with one newly sampled parameter vector, rather than crossing a small fixed parameter set over all shapes. A nonfinite/inverted tetrahedron rejects the entire pair; accepted/rejected Sobol indices, exact unit-cube samples and asset hashes are recorded. As with the mean campaign, truncation and any rejection remove exact power-of-two balance. The current wider bounds do not yet span all 40 PCA modes.
 
 ## Geometry and finite-element targets
 
@@ -228,7 +298,7 @@ python geometry/generate.py --modes 16 --scale 0.25 --seed 42 \
 
 ## Reproduction and interpretation
 
-Report scripts are in `experiments/mean_base/report/`: batched held-out evaluation, training-history parsing, error plots, architecture drawing, and PyVista frame/GIF generation. Validation/test case coverage is checked before their distributed report parts are merged. All figures above use the final 120,000-iteration checkpoint. The separate historical `best.pt` remains selected by monitored validation rollout RMSE; it is not the checkpoint used for these final-checkpoint figures.
+Report scripts are in `experiments/mean_base/report/`: batched held-out evaluation, training-history parsing, error plots, architecture drawing, and PyVista frame/GIF generation. Validation/test case coverage is checked before their distributed report parts are merged. The completed mean-geometry evaluation figures and animations use the final 120,000-iteration checkpoint; the narrow-stage progress plot uses its separate running history. The separate historical `best.pt` remains selected by monitored validation rollout RMSE; it is not the checkpoint used for these final-checkpoint figures.
 
 The animation renderer writes PNG frames before combining them into GIFs. It uses fixed cameras, true-scale displacement, and fixed scalar limits. The report JSON records metric definitions, split counts, graph dimensions, checkpoint iteration, and sampling ranges.
 
