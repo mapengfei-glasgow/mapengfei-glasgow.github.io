@@ -232,6 +232,10 @@ Do not apply a universal 0.5–1 acceptance threshold to all structures, kernels
 
 ## 6. Quality checks and the papillary-cap limitation
 
+The [G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}) adds measured R2 quality and moving-mesh MFAC. R2 has 10 hexes with VTK scaled Jacobian below 0.1 (minimum 0.0404, marker 200); its tetrahedral minimum sqrt(2)|det(H)|/lmax³ is 0.0509 (marker 42). These distinct metrics must not be compared as identical quantities. The edge-balanced tetrahedral candidate reaches 0.00157 by the tet metric. More uniform edge lengths and positive Jacobians do not guarantee good shapes.
+
+The R3-tube/disc + R2-valve test reduced tube/disc median G128 MFAC to 0.406/0.320 but failed at 0.89 s after inlet-wall excursions. This is evidence against refinement alone as a sufficient remedy. The cap remeshing pilots remain local candidates, not a repaired production assembly.
+
 The R2 generator found positive reference hex Jacobians at all integration points and nonzero tet volumes.
 Its minimum cell volume is $4.5351\times10^{-8}$ cm³; the maximum reference $|F-I|$ check is $1.37\times10^{-12}$.
 These checks establish neither good element aspect ratios nor good quality under deformation.

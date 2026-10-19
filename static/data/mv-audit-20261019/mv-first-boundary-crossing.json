@@ -1,0 +1,20 @@
+[
+  {
+    "first_sampled_crossing_time": 0.5900000000000001,
+    "step": 236000,
+    "outside_nodes": 32,
+    "outside_original_R2_nodes": 16,
+    "outside_new_refinement_nodes": 16,
+    "worst_node": 1183070,
+    "reference_point": [
+      6.519420875,
+      7.00438425,
+      0.04969000000000001
+    ],
+    "current_point": [
+      6.514835506910246,
+      6.998293069229781,
+      -0.0025037942355996406
+    ]
+  }
+]

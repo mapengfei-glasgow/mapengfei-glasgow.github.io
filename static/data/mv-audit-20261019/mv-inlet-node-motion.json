@@ -1,0 +1,254 @@
+[
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.2,
+    "inlet_nodes": 82368,
+    "outside_low": 0,
+    "z_min": 0.04943593546606015,
+    "max_displacement": 0.009333960885100724,
+    "max_displacement_ref": [
+      0.8334717499999997,
+      4.77413175,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      0.8396530919217268,
+      4.7737019761054995,
+      0.05667062549137945
+    ]
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.4,
+    "inlet_nodes": 82368,
+    "outside_low": 0,
+    "z_min": 0.024163251304077267,
+    "max_displacement": 0.0296299806115739,
+    "max_displacement_ref": [
+      6.243841,
+      1.39085825,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      6.233739665157223,
+      1.4020065183162707,
+      0.024163251304077267
+    ]
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.6000000000000001,
+    "inlet_nodes": 82368,
+    "outside_low": 48,
+    "z_min": -0.017517193664351907,
+    "max_displacement": 0.06739887420807555,
+    "max_displacement_ref": [
+      3.799741375,
+      7.762551875,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      3.799082906056489,
+      7.757515230985508,
+      -0.017517193664351907
+    ]
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8,
+    "inlet_nodes": 82368,
+    "outside_low": 152,
+    "z_min": -0.12077295294096879,
+    "max_displacement": 0.17073529842928248,
+    "max_displacement_ref": [
+      6.90167375,
+      6.640172124999999,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      6.905581024571259,
+      6.631359803523454,
+      -0.12077295294096879
+    ]
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8400000000000001,
+    "inlet_nodes": 82368,
+    "outside_low": 128,
+    "z_min": -0.12316237559530721,
+    "max_displacement": 0.17314547429873756,
+    "max_displacement_ref": [
+      6.90167375,
+      6.640172124999999,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      6.905896739115562,
+      6.631030030922411,
+      -0.12316237559530721
+    ]
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8600000000000001,
+    "inlet_nodes": 82368,
+    "outside_low": 144,
+    "z_min": -0.11831627208488985,
+    "max_displacement": 0.16833483512721323,
+    "max_displacement_ref": [
+      6.640172124999999,
+      1.69832625,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      6.630780286731071,
+      1.6936036838147253,
+      -0.11831627208488985
+    ]
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8800000000000001,
+    "inlet_nodes": 82368,
+    "outside_low": 170,
+    "z_min": -0.11707071071984296,
+    "max_displacement": 0.16681350182021007,
+    "max_displacement_ref": [
+      1.882855375,
+      6.82921675,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      1.8865574226915511,
+      6.831192754206363,
+      -0.11707071071984296
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.2,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.04873585401790855,
+    "max_displacement": 0.007145179614428738,
+    "max_displacement_ref": [
+      0.9017039999999996,
+      5.137605,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      0.9054248471420113,
+      5.137601357167246,
+      0.05578990778602439
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.4,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.04140728101791459,
+    "max_displacement": 0.020115875972383748,
+    "max_displacement_ref": [
+      2.9123867499999996,
+      1.0881239999999996,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      2.918485079335385,
+      1.101660222403951,
+      0.06326311786157746
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.6000000000000001,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.02744762106446267,
+    "max_displacement": 0.022589132915830513,
+    "max_displacement_ref": [
+      1.39085825,
+      2.356159,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      1.3882093921309129,
+      2.359079454958803,
+      0.02744762106446267
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.03236215743626172,
+    "max_displacement": 0.017831490477553228,
+    "max_displacement_ref": [
+      3.462395,
+      0.9017039999999996,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      3.4628084851754073,
+      0.8975162852595846,
+      0.03236215743626172
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8400000000000001,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.03305876587540983,
+    "max_displacement": 0.0171529049091794,
+    "max_displacement_ref": [
+      3.462395,
+      0.9017039999999996,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      3.4628924148309568,
+      0.8975354538742668,
+      0.03305876587540983
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8600000000000001,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.03341591707483839,
+    "max_displacement": 0.016803230507097183,
+    "max_displacement_ref": [
+      3.462395,
+      0.9017039999999996,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      3.462937697891792,
+      0.897555716087603,
+      0.03341591707483839
+    ]
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8800000000000001,
+    "inlet_nodes": 12480,
+    "outside_low": 0,
+    "z_min": 0.03375922934636079,
+    "max_displacement": 0.016465316854009773,
+    "max_displacement_ref": [
+      3.462395,
+      0.9017039999999996,
+      0.04969000000000001
+    ],
+    "max_displacement_current": [
+      3.462975353872544,
+      0.8975832725318565,
+      0.03375922934636079
+    ]
+  }
+]

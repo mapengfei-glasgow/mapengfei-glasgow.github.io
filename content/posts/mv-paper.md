@@ -844,6 +844,12 @@ t, G11 (historical P1+Q1 BF), G7 (hex), G5 (tet conf.), 0.0.3 (tet), G64/R0/P1/B
 
 ## 6. Discussion
 
+### Updated simulation assessment (19 October 2026)
+
+[G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}) records the completed modified-stress cases, the finer-tube failure, local MFAC, reference-mesh quality and vortex sensitivity. The G128/R2 zero-solid-viscosity runs at dt=2.5e-6 and 5e-6 s completed, but active chordal J ranges approximately from 0.119 to 10.734 across sampled states. Completion and similar flow curves therefore do not establish near-incompressibility or converged vortex topology. Refining tube/disc spacing further did not prevent the inlet-boundary failure at 0.89 s.
+
+### Earlier G64 observations
+
 Key findings so far (coarsest pair {{< label "mesh" "R0/P1+Q1 @ G-64" >}}, 2026-10-14):
 
 1. **The hybrid hex/tet IBAMR mesh can run a full cycle on the GPU, but not reliably** (~~{{< label "run" "G11" >}}~~: 1.335 s in
@@ -865,8 +871,7 @@ Key findings so far (coarsest pair {{< label "mesh" "R0/P1+Q1 @ G-64" >}}, 2026-
 6. **The reference run (0.0.3) is reproducible but only marginally stable** (§5.4): the current code reproduces it
    bitwise to 0.32 s and finishes at level 0, but a level-D rerun fails at 1.20 s. All reruns show a local collapse of the
    posterior leaflet at a chordae insertion in the second closed phase; this, not the flow, is the weak point of the
-   tet model. The hex failures are boundary instabilities instead: at the outlet (cured by `--outlet-backflow`) and at the
-   rim of the inlet disc (not yet treated). In neither case is the fluid solver's accuracy the cause.
+   tet model. Earlier hex failures were associated with outlet/inlet boundary behavior. The newer matched G128 diagnosis identifies an inlet-wall excursion and velocity-growth precursor, but does not establish the exact first nonfinite operation or exclude coupled fluid/solid discretization effects.
 
 Open questions:
 
@@ -877,7 +882,7 @@ Open questions:
 
 ## 7. Conclusions
 
-(to be written)
+The retained runs demonstrate full-cycle GPU execution for selected configurations. They do not yet establish a validated physiological or grid-converged solution: active chordal volume errors, inlet-end transients and instantaneous gradient sensitivity remain substantial. Finer solid spacing alone did not resolve the instability. See the [G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}) for measured evidence and the distinction between observations and proposed remedies.
 
 ## Data and code
 

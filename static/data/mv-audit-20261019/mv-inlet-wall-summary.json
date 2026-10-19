@@ -1,0 +1,674 @@
+[
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8400000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.6716871472833967,
+        "cell": 244802,
+        "marker": 1,
+        "original_element": 3351,
+        "qp": 6,
+        "ref_center": [
+          2.33702413671875,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 2.0234399628001367,
+        "cell": 216786,
+        "marker": 1,
+        "original_element": 3296,
+        "qp": 2,
+        "ref_center": [
+          6.640133433593751,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 33.961729346341606,
+        "cell": 216130,
+        "marker": 1,
+        "original_element": 3295,
+        "qp": 0,
+        "ref_center": [
+          6.9032770234375,
+          6.659455675781249,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.6716871472833967,
+        "cell": 244802,
+        "marker": 1,
+        "original_element": 3351,
+        "qp": 6,
+        "ref_center": [
+          2.33702413671875,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 2.0234399628001367,
+        "cell": 216786,
+        "marker": 1,
+        "original_element": 3296,
+        "qp": 2,
+        "ref_center": [
+          6.640133433593751,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8139906718750005,
+          4.3132620625,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8600000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.6675929398602624,
+        "cell": 244802,
+        "marker": 1,
+        "original_element": 3351,
+        "qp": 6,
+        "ref_center": [
+          2.33702413671875,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 2.1753927914111104,
+        "cell": 229440,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.95986656640625,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 32.83321595749513,
+        "cell": 256720,
+        "marker": 1,
+        "original_element": 3374,
+        "qp": 2,
+        "ref_center": [
+          6.9032770234375,
+          1.94054432421875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.6675929398602624,
+        "cell": 244802,
+        "marker": 1,
+        "original_element": 3351,
+        "qp": 6,
+        "ref_center": [
+          2.33702413671875,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 2.1753927914111104,
+        "cell": 229440,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.95986656640625,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8139906718750005,
+          4.3132620625,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8700000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.6658779219256329,
+        "cell": 254672,
+        "marker": 1,
+        "original_element": 3370,
+        "qp": 4,
+        "ref_center": [
+          6.26297586328125,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 2.235118759398262,
+        "cell": 229440,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.95986656640625,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 32.71800142099732,
+        "cell": 229570,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.86325535546875,
+          6.8305220859375,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.6658779219256329,
+        "cell": 254672,
+        "marker": 1,
+        "original_element": 3370,
+        "qp": 4,
+        "ref_center": [
+          6.26297586328125,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 2.235118759398262,
+        "cell": 229440,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.95986656640625,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8139906718750005,
+          4.3132620625,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8800000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.6644475674097865,
+        "cell": 254672,
+        "marker": 1,
+        "original_element": 3370,
+        "qp": 4,
+        "ref_center": [
+          6.26297586328125,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 2.285247248334894,
+        "cell": 229440,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.95986656640625,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 34.044425175291835,
+        "cell": 229968,
+        "marker": 1,
+        "original_element": 3322,
+        "qp": 2,
+        "ref_center": [
+          1.7694779140625,
+          6.736744644531249,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.6644475674097865,
+        "cell": 254672,
+        "marker": 1,
+        "original_element": 3370,
+        "qp": 4,
+        "ref_center": [
+          6.26297586328125,
+          1.38610026171875,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 2.285247248334894,
+        "cell": 229440,
+        "marker": 1,
+        "original_element": 3321,
+        "qp": 0,
+        "ref_center": [
+          1.95986656640625,
+          6.9214657578125,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8139906718750005,
+          4.3132620625,
+          0.06218999999999997
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8400000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.9534584894609422,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 1.0916236806328254,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 3.292241458830299,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.9534584894609422,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 1.0916236806328254,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8279780625,
+          4.32663275,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8600000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.9536013601581195,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 1.0907663838018473,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 3.2872590818945246,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.9536013601581195,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 1.0907663838018473,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8279780625,
+          4.32663275,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8700000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.9535910668989076,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 1.0905763394348789,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 3.2855126649481456,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.9535910668989076,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 1.0905763394348789,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8279780625,
+          4.32663275,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      }
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8800000000000001,
+    "extremes": {
+      "J_min": {
+        "value": 0.9535606729559198,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 1.090601670320872,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 3.285207462548448,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.9535606729559198,
+        "cell": 212674,
+        "marker": 1,
+        "original_element": 3325,
+        "qp": 2,
+        "ref_center": [
+          1.352467546875,
+          6.237450953124999,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 1.090601670320872,
+        "cell": 214786,
+        "marker": 1,
+        "original_element": 3358,
+        "qp": 2,
+        "ref_center": [
+          3.74294390625,
+          0.8169913906249996,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 0.0,
+        "cell": 209984,
+        "marker": 1,
+        "original_element": 3283,
+        "qp": 0,
+        "ref_center": [
+          7.8279780625,
+          4.32663275,
+          0.07469000000000026
+        ],
+        "passive_rim": false
+      }
+    }
+  }
+]

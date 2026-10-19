@@ -1,0 +1,12 @@
+{
+  "mesh": "glamv_hex_r2",
+  "reference_configuration": true,
+  "method": "VTK vtkMeshQuality hex scaled Jacobian",
+  "hex_cells": 740160,
+  "minimum": 0.04042223951728437,
+  "median": 0.9995438157221919,
+  "below_01": 10,
+  "nonpositive": 0,
+  "worst_cell_zero_based": 136502,
+  "worst_marker": 200
+}

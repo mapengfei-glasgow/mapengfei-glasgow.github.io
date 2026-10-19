@@ -438,3 +438,8 @@ paraview $OUT/fluid.pvd $OUT/vtu/solid.pvd
 | CUDA error at start-up | driver not loaded (`nvidia-smi` fails) |
 | solid data cannot be read | `--data-dir` must point at `…/src/ibm/data/glamv_ibamr/` and end in `/` |
 | ≫ 9 ms/step | built without `-DFDM3D_GPU_FMAD=ON` or run without `DSH_PERF_LEVEL=3`; `[perf]` lines in `$OUT.console.log` give the split |
+
+
+## Saved-state audits (19 October 2026)
+
+[G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}) brings together the retained G128/R2 and refined-tube observations. Compact JSON evidence and diagnosis notes are served under `/data/mv-audit-20261019/`; links to individual datasets are on that page. Large raw runs and multi-gigabyte mesh archives are retained locally and are not uploaded as static website assets.

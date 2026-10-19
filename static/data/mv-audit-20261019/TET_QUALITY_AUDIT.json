@@ -1,0 +1,36 @@
+[
+  {
+    "mesh": "glamv_hex",
+    "tetrahedra": 10686,
+    "quality_definition": "sqrt(2)*abs(det(edge_matrix))/max_edge_length**3; regular tetrahedron=1",
+    "minimum": 0.12262626945745683,
+    "median": 0.4817544399439273,
+    "below_001": 0,
+    "below_005": 0,
+    "worst_cell_zero_based": 3271,
+    "worst_marker": 24,
+    "worst_centroid_cm": [
+      0.993109,
+      1.1681545,
+      -2.2470737499999998
+    ],
+    "below_001_by_marker": {}
+  },
+  {
+    "mesh": "glamv_hex_r2",
+    "tetrahedra": 683904,
+    "quality_definition": "sqrt(2)*abs(det(edge_matrix))/max_edge_length**3; regular tetrahedron=1",
+    "minimum": 0.05085482651714376,
+    "median": 0.4114198121956646,
+    "below_001": 0,
+    "below_005": 0,
+    "worst_cell_zero_based": 1351383,
+    "worst_marker": 42,
+    "worst_centroid_cm": [
+      0.253689125,
+      -2.3511231875000003,
+      -2.9366876875
+    ],
+    "below_001_by_marker": {}
+  }
+]

@@ -1,0 +1,1375 @@
+{
+  "run": "runs/glamv_g128_modstress_20261017/G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+  "fluid_spacing_cm": [
+    0.0671875,
+    0.0671875,
+    0.0838509375
+  ],
+  "definition": "Euclidean cell-edge length / dx; occurrence-weighted statistics; anisotropic metric also reported for worst edges",
+  "rows": [
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "Tube",
+      "all_median": 0.8125606302604256,
+      "all_max": 0.856795451360196,
+      "active_median": 0.8125606302604256,
+      "active_max": 0.856795451360196,
+      "active_edge_percent_above_07": 100.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 210340,
+        "original_element": 3288,
+        "marker": 1,
+        "MFAC_xy": 0.856795451360196,
+        "MFAC_anisotropic": 0.856795451360196,
+        "reference_edge_midpoint": [
+          7.83388125,
+          5.401201125,
+          0.04969000000000001
+        ],
+        "current_edge_midpoint": [
+          7.83388125,
+          5.401201125,
+          0.04969000000000001
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "Housing disc",
+      "all_median": 0.63848898071182,
+      "all_max": 1.5771263718445532,
+      "active_median": 0.6429648591817269,
+      "active_max": 1.5771263718445532,
+      "active_edge_percent_above_07": 31.526809060183087,
+      "active_edge_percent_above_1": 2.518346946097858,
+      "worst_active_edge": {
+        "cell": 903516,
+        "original_element": 14119,
+        "marker": 42,
+        "MFAC_xy": 1.5771263718445532,
+        "MFAC_anisotropic": 1.5695851043472566,
+        "reference_edge_midpoint": [
+          5.1836645,
+          1.1507443749999995,
+          4.88544475
+        ],
+        "current_edge_midpoint": [
+          5.1836645,
+          1.1507443749999995,
+          4.88544475
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "AML",
+      "all_median": 0.3519233634467037,
+      "all_max": 0.811500146473005,
+      "active_median": 0.3519233634467037,
+      "active_max": 0.811500146473005,
+      "active_edge_percent_above_07": 0.06496993127147765,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 208582,
+        "original_element": 3261,
+        "marker": 23,
+        "MFAC_xy": 0.811500146473005,
+        "MFAC_anisotropic": 0.7511338273774292,
+        "reference_edge_midpoint": [
+          4.1720356249999995,
+          3.255153375,
+          6.234104125
+        ],
+        "current_edge_midpoint": [
+          4.1720356249999995,
+          3.255153375,
+          6.234104125
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "PML",
+      "all_median": 0.3347715122826532,
+      "all_max": 0.8479242697778601,
+      "active_median": 0.3347715122826532,
+      "active_max": 0.8479242697778601,
+      "active_edge_percent_above_07": 0.15776827207435573,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 75428,
+        "original_element": 1178,
+        "marker": 4,
+        "MFAC_xy": 0.8479242697778601,
+        "MFAC_anisotropic": 0.8440915777762116,
+        "reference_edge_midpoint": [
+          5.0344245,
+          2.969886625,
+          5.482838375
+        ],
+        "current_edge_midpoint": [
+          5.0344245,
+          2.969886625,
+          5.482838375
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "Annulus",
+      "all_median": 0.37188759903571045,
+      "all_max": 0.7230762993227638,
+      "active_median": 0.37188759903571045,
+      "active_max": 0.7230762993227638,
+      "active_edge_percent_above_07": 0.04373409669211196,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 111585,
+        "original_element": 1743,
+        "marker": 4099,
+        "MFAC_xy": 0.7230762993227638,
+        "MFAC_anisotropic": 0.7117575715199321,
+        "reference_edge_midpoint": [
+          3.14302,
+          6.167197375,
+          4.835463000000001
+        ],
+        "current_edge_midpoint": [
+          3.14302,
+          6.167197375,
+          4.835463000000001
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "Basal chordae",
+      "all_median": 0.17123760460901663,
+      "all_max": 0.6991840338072679,
+      "active_median": 0.17123760460901663,
+      "active_max": 0.6991840338072679,
+      "active_edge_percent_above_07": 0.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 143286,
+        "original_element": 2240,
+        "marker": 100,
+        "MFAC_xy": 0.6991840338072679,
+        "MFAC_anisotropic": 0.6110647358106601,
+        "reference_edge_midpoint": [
+          5.735341125,
+          3.808095875,
+          5.297687874999999
+        ],
+        "current_edge_midpoint": [
+          5.735341125,
+          3.808095875,
+          5.297687874999999
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "Marginal chordae",
+      "all_median": 0.19715969808987532,
+      "all_max": 0.5957819774713982,
+      "active_median": 0.19715969808987532,
+      "active_max": 0.5957819774713982,
+      "active_edge_percent_above_07": 0.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 165797,
+        "original_element": 2592,
+        "marker": 200,
+        "MFAC_xy": 0.5957819774713982,
+        "MFAC_anisotropic": 0.5557837575274925,
+        "reference_edge_midpoint": [
+          4.867010875,
+          4.1074797499999995,
+          6.4785725
+        ],
+        "current_edge_midpoint": [
+          4.867010875,
+          4.1074797499999995,
+          6.4785725
+        ]
+      }
+    },
+    {
+      "time": 0.0,
+      "reference": true,
+      "region": "Papillary caps",
+      "all_median": 0.14948097458216597,
+      "all_max": 0.85918609770678,
+      "active_median": 0.14948097458216597,
+      "active_max": 0.85918609770678,
+      "active_edge_percent_above_07": 1.1111111111111112,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 194368,
+        "original_element": 3039,
+        "marker": 1005,
+        "MFAC_xy": 0.85918609770678,
+        "MFAC_anisotropic": 0.7107497776568081,
+        "reference_edge_midpoint": [
+          5.184233624999999,
+          2.247765625,
+          7.426109125
+        ],
+        "current_edge_midpoint": [
+          5.184233624999999,
+          2.247765625,
+          7.426109125
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "Tube",
+      "all_median": 0.8125620303894834,
+      "all_max": 0.8678800637779814,
+      "active_median": 0.8125620303894834,
+      "active_max": 0.8678800637779814,
+      "active_edge_percent_above_07": 100.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 548801,
+        "original_element": 8577,
+        "marker": 1,
+        "MFAC_xy": 0.8678800637779814,
+        "MFAC_anisotropic": 0.8677944048787786,
+        "reference_edge_midpoint": [
+          7.204131875,
+          2.2954225,
+          10.099689999999999
+        ],
+        "current_edge_midpoint": [
+          7.204033574689941,
+          2.2954656474916524,
+          10.100337198525825
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "Housing disc",
+      "all_median": 0.6385076836526864,
+      "all_max": 1.5779634338223085,
+      "active_median": 0.6430263127618052,
+      "active_max": 1.5779634338223085,
+      "active_edge_percent_above_07": 31.559471580129827,
+      "active_edge_percent_above_1": 2.5135939263363087,
+      "worst_active_edge": {
+        "cell": 903523,
+        "original_element": 14119,
+        "marker": 42,
+        "MFAC_xy": 1.5779634338223085,
+        "MFAC_anisotropic": 1.5704027337935726,
+        "reference_edge_midpoint": [
+          5.12603775,
+          1.187117625,
+          4.8955987499999996
+        ],
+        "current_edge_midpoint": [
+          5.126082268378795,
+          1.1870976140479148,
+          4.895750793594373
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "AML",
+      "all_median": 0.3515781601682937,
+      "all_max": 0.941676392219275,
+      "active_median": 0.3515781601682937,
+      "active_max": 0.941676392219275,
+      "active_edge_percent_above_07": 0.26739690721649484,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 51062,
+        "original_element": 797,
+        "marker": 3,
+        "MFAC_xy": 0.941676392219275,
+        "MFAC_anisotropic": 0.8631490187806715,
+        "reference_edge_midpoint": [
+          3.68497975,
+          2.8025638749999997,
+          5.69207875
+        ],
+        "current_edge_midpoint": [
+          3.6075274276893277,
+          2.79347547724905,
+          5.825245284911119
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "PML",
+      "all_median": 0.3380580344404487,
+      "all_max": 0.9075750536174019,
+      "active_median": 0.3380580344404487,
+      "active_max": 0.9075750536174019,
+      "active_edge_percent_above_07": 0.3114108048162231,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 75428,
+        "original_element": 1178,
+        "marker": 4,
+        "MFAC_xy": 0.9075750536174019,
+        "MFAC_anisotropic": 0.8955020130445627,
+        "reference_edge_midpoint": [
+          5.0344245,
+          2.969886625,
+          5.482838375
+        ],
+        "current_edge_midpoint": [
+          5.186200040020558,
+          2.8644922134172033,
+          5.637515857475506
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "Annulus",
+      "all_median": 0.3710810861185624,
+      "all_max": 0.7905933508405825,
+      "active_median": 0.3710810861185624,
+      "active_max": 0.7905933508405825,
+      "active_edge_percent_above_07": 0.05267970737913486,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 112173,
+        "original_element": 1752,
+        "marker": 5099,
+        "MFAC_xy": 0.7905933508405825,
+        "MFAC_anisotropic": 0.6870298289238542,
+        "reference_edge_midpoint": [
+          2.9031855,
+          3.6575057499999994,
+          5.427549750000001
+        ],
+        "current_edge_midpoint": [
+          2.8958182299172233,
+          3.6713865309247318,
+          5.445751977674828
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "Basal chordae",
+      "all_median": 0.17254512958555346,
+      "all_max": 0.7512314746539279,
+      "active_median": 0.17254512958555346,
+      "active_max": 0.7512314746539279,
+      "active_edge_percent_above_07": 0.0012631366208569119,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 181092,
+        "original_element": 2831,
+        "marker": 100,
+        "MFAC_xy": 0.7512314746539279,
+        "MFAC_anisotropic": 0.6719667353211407,
+        "reference_edge_midpoint": [
+          3.8459428749999995,
+          3.0723002499999996,
+          5.9461056249999995
+        ],
+        "current_edge_midpoint": [
+          3.6510816669652244,
+          3.146293840197722,
+          6.15667462966945
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "Marginal chordae",
+      "all_median": 0.19974282281351396,
+      "all_max": 0.6012994686056881,
+      "active_median": 0.19974282281351396,
+      "active_max": 0.6012994686056881,
+      "active_edge_percent_above_07": 0.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 165734,
+        "original_element": 2591,
+        "marker": 200,
+        "MFAC_xy": 0.6012994686056881,
+        "MFAC_anisotropic": 0.5664841465607249,
+        "reference_edge_midpoint": [
+          4.907392124999999,
+          4.2580335625,
+          6.3674140625
+        ],
+        "current_edge_midpoint": [
+          4.340173769194955,
+          4.497524037929692,
+          7.0659488428264545
+        ]
+      }
+    },
+    {
+      "time": 0.16,
+      "reference": false,
+      "region": "Papillary caps",
+      "all_median": 0.15255066583629384,
+      "all_max": 0.8734145871120945,
+      "active_median": 0.15255066583629384,
+      "active_max": 0.8734145871120945,
+      "active_edge_percent_above_07": 1.128472222222222,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 194395,
+        "original_element": 3039,
+        "marker": 1005,
+        "MFAC_xy": 0.8734145871120945,
+        "MFAC_anisotropic": 0.7240112011018173,
+        "reference_edge_midpoint": [
+          5.20520325,
+          2.180975125,
+          7.589955
+        ],
+        "current_edge_midpoint": [
+          5.205289710061696,
+          2.1780639245175726,
+          7.5892763666773515
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "Tube",
+      "all_median": 0.8125726019760833,
+      "all_max": 0.9696741614365222,
+      "active_median": 0.8125726019760833,
+      "active_max": 0.9696741614365222,
+      "active_edge_percent_above_07": 99.998779296875,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 215570,
+        "original_element": 3370,
+        "marker": 1,
+        "MFAC_xy": 0.9696741614365222,
+        "MFAC_anisotropic": 0.7779915463115962,
+        "reference_edge_midpoint": [
+          6.243841,
+          1.39085825,
+          0.07469000000000037
+        ],
+        "current_edge_midpoint": [
+          6.244270362922174,
+          1.3880841674753706,
+          0.0637844542879206
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "Housing disc",
+      "all_median": 0.6384803267430064,
+      "all_max": 1.5792819145051358,
+      "active_median": 0.6430157107997773,
+      "active_max": 1.5792819145051358,
+      "active_edge_percent_above_07": 31.564021727096677,
+      "active_edge_percent_above_1": 2.511130470972091,
+      "worst_active_edge": {
+        "cell": 903500,
+        "original_element": 14119,
+        "marker": 42,
+        "MFAC_xy": 1.5792819145051358,
+        "MFAC_anisotropic": 1.5717361640022882,
+        "reference_edge_midpoint": [
+          5.1228085,
+          1.253059875,
+          4.90962925
+        ],
+        "current_edge_midpoint": [
+          5.122783106788781,
+          1.252957069822196,
+          4.909845584564057
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "AML",
+      "all_median": 0.35202912939666325,
+      "all_max": 0.9612360933449999,
+      "active_median": 0.35202912939666325,
+      "active_max": 0.9612360933449999,
+      "active_edge_percent_above_07": 0.2879349226804124,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 208610,
+        "original_element": 3261,
+        "marker": 23,
+        "MFAC_xy": 0.9612360933449999,
+        "MFAC_anisotropic": 0.849500309234899,
+        "reference_edge_midpoint": [
+          4.211955124999999,
+          3.2469068749999996,
+          6.244013875
+        ],
+        "current_edge_midpoint": [
+          3.8661714382484043,
+          3.3288703011034477,
+          6.70032702970928
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "PML",
+      "all_median": 0.3378698387509094,
+      "all_max": 0.9465591582970901,
+      "active_median": 0.3378698387509094,
+      "active_max": 0.9465591582970901,
+      "active_edge_percent_above_07": 0.3054697401774398,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 75437,
+        "original_element": 1178,
+        "marker": 4,
+        "MFAC_xy": 0.9465591582970901,
+        "MFAC_anisotropic": 0.9252660974063146,
+        "reference_edge_midpoint": [
+          4.97261475,
+          3.0403642499999997,
+          5.45222025
+        ],
+        "current_edge_midpoint": [
+          5.086928920845282,
+          2.942722429588926,
+          5.587687273699183
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "Annulus",
+      "all_median": 0.37037616198388673,
+      "all_max": 0.8038814943341132,
+      "active_median": 0.37037616198388673,
+      "active_max": 0.8038814943341132,
+      "active_edge_percent_above_07": 0.05168575063613231,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 112173,
+        "original_element": 1752,
+        "marker": 5099,
+        "MFAC_xy": 0.8038814943341132,
+        "MFAC_anisotropic": 0.6942576188422944,
+        "reference_edge_midpoint": [
+          2.9031855,
+          3.6575057499999994,
+          5.427549750000001
+        ],
+        "current_edge_midpoint": [
+          2.8959865039856614,
+          3.6707587411933824,
+          5.4489958822995295
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "Basal chordae",
+      "all_median": 0.1728995413065883,
+      "all_max": 0.7539406580401824,
+      "active_median": 0.1728995413065883,
+      "active_max": 0.7539406580401824,
+      "active_edge_percent_above_07": 0.0019999663163567773,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 143222,
+        "original_element": 2239,
+        "marker": 100,
+        "MFAC_xy": 0.7539406580401824,
+        "MFAC_anisotropic": 0.6726707832054627,
+        "reference_edge_midpoint": [
+          5.754636124999999,
+          3.915984,
+          5.145056875
+        ],
+        "current_edge_midpoint": [
+          5.852665262380359,
+          3.8774461020665845,
+          5.223655368216297
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "Marginal chordae",
+      "all_median": 0.20122838635885698,
+      "all_max": 0.6961742166468377,
+      "active_median": 0.20122838635885698,
+      "active_max": 0.6961742166468377,
+      "active_edge_percent_above_07": 0.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 134226,
+        "original_element": 2097,
+        "marker": 200,
+        "MFAC_xy": 0.6961742166468377,
+        "MFAC_anisotropic": 0.6442053672542597,
+        "reference_edge_midpoint": [
+          4.809699999999999,
+          5.25676925,
+          6.220581875
+        ],
+        "current_edge_midpoint": [
+          3.7613451031502296,
+          5.564400820759742,
+          6.949488950931425
+        ]
+      }
+    },
+    {
+      "time": 0.64,
+      "reference": false,
+      "region": "Papillary caps",
+      "all_median": 0.1530704089745243,
+      "all_max": 0.8971657858109052,
+      "active_median": 0.1530704089745243,
+      "active_max": 0.8971657858109052,
+      "active_edge_percent_above_07": 1.1241319444444444,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 194395,
+        "original_element": 3039,
+        "marker": 1005,
+        "MFAC_xy": 0.8971657858109052,
+        "MFAC_anisotropic": 0.7384912746987152,
+        "reference_edge_midpoint": [
+          5.20520325,
+          2.180975125,
+          7.589955
+        ],
+        "current_edge_midpoint": [
+          5.20880882233608,
+          2.1884031585532453,
+          7.59119635778887
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "Tube",
+      "all_median": 0.8125854932960458,
+      "all_max": 1.1075447389316968,
+      "active_median": 0.8125854932960458,
+      "active_max": 1.1075447389316968,
+      "active_edge_percent_above_07": 99.9921123798077,
+      "active_edge_percent_above_1": 0.0025979066506410255,
+      "worst_active_edge": {
+        "cell": 629779,
+        "original_element": 9842,
+        "marker": 1,
+        "MFAC_xy": 1.1075447389316968,
+        "MFAC_anisotropic": 1.030677226574234,
+        "reference_edge_midpoint": [
+          7.44791053125,
+          5.8919948125,
+          12.69969
+        ],
+        "current_edge_midpoint": [
+          7.447485194982168,
+          5.890918693369834,
+          12.701438611638183
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "Housing disc",
+      "all_median": 0.6385333487408769,
+      "all_max": 1.5784919783657045,
+      "active_median": 0.6430035657341071,
+      "active_max": 1.5784919783657045,
+      "active_edge_percent_above_07": 31.570107910937683,
+      "active_edge_percent_above_1": 2.5146662539654385,
+      "worst_active_edge": {
+        "cell": 903500,
+        "original_element": 14119,
+        "marker": 42,
+        "MFAC_xy": 1.5784919783657045,
+        "MFAC_anisotropic": 1.5709201446004608,
+        "reference_edge_midpoint": [
+          5.1228085,
+          1.253059875,
+          4.90962925
+        ],
+        "current_edge_midpoint": [
+          5.122848677134311,
+          1.2530572178414983,
+          4.909806979572748
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "AML",
+      "all_median": 0.35190903414320773,
+      "all_max": 0.9997406874038519,
+      "active_median": 0.35190903414320773,
+      "active_max": 0.9997406874038519,
+      "active_edge_percent_above_07": 0.27303479381443296,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 208609,
+        "original_element": 3261,
+        "marker": 23,
+        "MFAC_xy": 0.9997406874038519,
+        "MFAC_anisotropic": 0.8565084177504159,
+        "reference_edge_midpoint": [
+          4.214110375,
+          3.2047346249999995,
+          6.209523625
+        ],
+        "current_edge_midpoint": [
+          3.9630977710874284,
+          3.324105934124413,
+          6.519779790765311
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "PML",
+      "all_median": 0.3383334637751221,
+      "all_max": 0.9214394155126768,
+      "active_median": 0.3383334637751221,
+      "active_max": 0.9214394155126768,
+      "active_edge_percent_above_07": 0.23384690536544148,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 62911,
+        "original_element": 982,
+        "marker": 4,
+        "MFAC_xy": 0.9214394155126768,
+        "MFAC_anisotropic": 0.921403312111026,
+        "reference_edge_midpoint": [
+          4.527658499999999,
+          2.8501005,
+          5.720864875
+        ],
+        "current_edge_midpoint": [
+          4.582008231901477,
+          2.828543767549423,
+          5.855064714269407
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "Annulus",
+      "all_median": 0.3712051174168299,
+      "all_max": 0.7866017414056978,
+      "active_median": 0.3712051174168299,
+      "active_max": 0.7866017414056978,
+      "active_edge_percent_above_07": 0.06063136132315522,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 112173,
+        "original_element": 1752,
+        "marker": 5099,
+        "MFAC_xy": 0.7866017414056978,
+        "MFAC_anisotropic": 0.6814478972316935,
+        "reference_edge_midpoint": [
+          2.9031855,
+          3.6575057499999994,
+          5.427549750000001
+        ],
+        "current_edge_midpoint": [
+          2.8967058454053136,
+          3.670981299690604,
+          5.446154711228105
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "Basal chordae",
+      "all_median": 0.17426280386679582,
+      "all_max": 0.7476073651103785,
+      "active_median": 0.17426280386679582,
+      "active_max": 0.7476073651103785,
+      "active_edge_percent_above_07": 0.0012631366208569119,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 181092,
+        "original_element": 2831,
+        "marker": 100,
+        "MFAC_xy": 0.7476073651103785,
+        "MFAC_anisotropic": 0.6827816600601294,
+        "reference_edge_midpoint": [
+          3.8459428749999995,
+          3.0723002499999996,
+          5.9461056249999995
+        ],
+        "current_edge_midpoint": [
+          3.680111402280913,
+          3.151039797597182,
+          6.131761247519272
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "Marginal chordae",
+      "all_median": 0.202747935627158,
+      "all_max": 0.73641240105168,
+      "active_median": 0.202747935627158,
+      "active_max": 0.73641240105168,
+      "active_edge_percent_above_07": 0.0024567610062893085,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 134226,
+        "original_element": 2097,
+        "marker": 200,
+        "MFAC_xy": 0.73641240105168,
+        "MFAC_anisotropic": 0.6420962774680333,
+        "reference_edge_midpoint": [
+          4.809699999999999,
+          5.25676925,
+          6.220581875
+        ],
+        "current_edge_midpoint": [
+          4.334456235722605,
+          5.44840021811363,
+          6.900069744098436
+        ]
+      }
+    },
+    {
+      "time": 0.9,
+      "reference": false,
+      "region": "Papillary caps",
+      "all_median": 0.15546187971793468,
+      "all_max": 0.8928134729412409,
+      "active_median": 0.15546187971793468,
+      "active_max": 0.8928134729412409,
+      "active_edge_percent_above_07": 1.1545138888888888,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 194413,
+        "original_element": 3039,
+        "marker": 1005,
+        "MFAC_xy": 0.8928134729412409,
+        "MFAC_anisotropic": 0.7428818220555429,
+        "reference_edge_midpoint": [
+          5.154438375,
+          2.1555792499999997,
+          7.5728349999999995
+        ],
+        "current_edge_midpoint": [
+          5.152364693048298,
+          2.154444507030033,
+          7.5741194317332905
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "Tube",
+      "all_median": 0.8126090658695349,
+      "all_max": 1.0558414457396395,
+      "active_median": 0.8126090658695349,
+      "active_max": 1.0558414457396395,
+      "active_edge_percent_above_07": 99.97943584735577,
+      "active_edge_percent_above_1": 0.0025666065705128205,
+      "worst_active_edge": {
+        "cell": 215378,
+        "original_element": 3367,
+        "marker": 1,
+        "MFAC_xy": 1.0558414457396395,
+        "MFAC_anisotropic": 1.0510864294022961,
+        "reference_edge_midpoint": [
+          5.69902453125,
+          1.0617105312499997,
+          0.04969000000000001
+        ],
+        "current_edge_midpoint": [
+          5.6962820988756855,
+          1.0686982164700407,
+          0.057119752795455336
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "Housing disc",
+      "all_median": 0.6389197208310219,
+      "all_max": 1.584375592715543,
+      "active_median": 0.6434343196825246,
+      "active_max": 1.584375592715543,
+      "active_edge_percent_above_07": 31.830857415783154,
+      "active_edge_percent_above_1": 2.563181833726617,
+      "worst_active_edge": {
+        "cell": 903522,
+        "original_element": 14119,
+        "marker": 42,
+        "MFAC_xy": 1.584375592715543,
+        "MFAC_anisotropic": 1.5769661318830421,
+        "reference_edge_midpoint": [
+          5.1033795,
+          1.1930873749999997,
+          4.935144
+        ],
+        "current_edge_midpoint": [
+          5.1031040288015115,
+          1.1934766826770389,
+          4.933182749294081
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "AML",
+      "all_median": 0.3540654948702995,
+      "all_max": 1.0199252282985443,
+      "active_median": 0.3540654948702995,
+      "active_max": 1.0199252282985443,
+      "active_edge_percent_above_07": 0.32229918384879724,
+      "active_edge_percent_above_1": 0.0002684707903780069,
+      "worst_active_edge": {
+        "cell": 52763,
+        "original_element": 824,
+        "marker": 3,
+        "MFAC_xy": 1.0199252282985443,
+        "MFAC_anisotropic": 0.9416246807803604,
+        "reference_edge_midpoint": [
+          4.0533928125,
+          5.9322539999999995,
+          5.36595640625
+        ],
+        "current_edge_midpoint": [
+          4.216523242702236,
+          5.742224152106689,
+          4.7361038194193705
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "PML",
+      "all_median": 0.33967411919200524,
+      "all_max": 0.904960431058073,
+      "active_median": 0.33967411919200524,
+      "active_max": 0.904960431058073,
+      "active_edge_percent_above_07": 0.21651880016899028,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 75429,
+        "original_element": 1178,
+        "marker": 4,
+        "MFAC_xy": 0.904960431058073,
+        "MFAC_anisotropic": 0.8807589299657693,
+        "reference_edge_midpoint": [
+          5.0189720625,
+          2.9875060312499997,
+          5.475183843749999
+        ],
+        "current_edge_midpoint": [
+          4.812925529450251,
+          3.1089820490541906,
+          4.844469119067829
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "Annulus",
+      "all_median": 0.37098573659559764,
+      "all_max": 0.9608912931586876,
+      "active_median": 0.37098573659559764,
+      "active_max": 0.9608912931586876,
+      "active_edge_percent_above_07": 0.29619910941475824,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 112164,
+        "original_element": 1752,
+        "marker": 5099,
+        "MFAC_xy": 0.9608912931586876,
+        "MFAC_anisotropic": 0.9015033814803022,
+        "reference_edge_midpoint": [
+          2.8264695,
+          3.6648565,
+          5.5083871250000005
+        ],
+        "current_edge_midpoint": [
+          2.9292650477252553,
+          3.6813388977435144,
+          5.386391471599648
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "Basal chordae",
+      "all_median": 0.17107393499886503,
+      "all_max": 0.7299682031454499,
+      "active_median": 0.17107393499886503,
+      "active_max": 0.7299682031454499,
+      "active_edge_percent_above_07": 0.0010526138507140933,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 181092,
+        "original_element": 2831,
+        "marker": 100,
+        "MFAC_xy": 0.7299682031454499,
+        "MFAC_anisotropic": 0.7295132536061468,
+        "reference_edge_midpoint": [
+          3.8459428749999995,
+          3.0723002499999996,
+          5.9461056249999995
+        ],
+        "current_edge_midpoint": [
+          3.910213860211032,
+          2.934174685878866,
+          5.07619415818086
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "Marginal chordae",
+      "all_median": 0.20159187275688478,
+      "all_max": 1.1851594241305987,
+      "active_median": 0.20159187275688478,
+      "active_max": 1.1851594241305987,
+      "active_edge_percent_above_07": 0.01474056603773585,
+      "active_edge_percent_above_1": 0.006141902515723271,
+      "worst_active_edge": {
+        "cell": 134170,
+        "original_element": 2096,
+        "marker": 200,
+        "MFAC_xy": 1.1851594241305987,
+        "MFAC_anisotropic": 1.180729168768451,
+        "reference_edge_midpoint": [
+          4.7795434375,
+          5.23697575,
+          6.1743436875
+        ],
+        "current_edge_midpoint": [
+          5.038063130343756,
+          4.838967320186264,
+          5.259106773604959
+        ]
+      }
+    },
+    {
+      "time": 1.1,
+      "reference": false,
+      "region": "Papillary caps",
+      "all_median": 0.15333126288508633,
+      "all_max": 1.0269022300919053,
+      "active_median": 0.15333126288508633,
+      "active_max": 1.0269022300919053,
+      "active_edge_percent_above_07": 1.723090277777778,
+      "active_edge_percent_above_1": 0.013020833333333334,
+      "worst_active_edge": {
+        "cell": 194413,
+        "original_element": 3039,
+        "marker": 1005,
+        "MFAC_xy": 1.0269022300919053,
+        "MFAC_anisotropic": 0.83922812466225,
+        "reference_edge_midpoint": [
+          5.154438375,
+          2.1555792499999997,
+          7.5728349999999995
+        ],
+        "current_edge_midpoint": [
+          5.2918384119339645,
+          2.6310773750925414,
+          7.431352681935936
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "Tube",
+      "all_median": 0.8125990865564925,
+      "all_max": 1.0428467133155868,
+      "active_median": 0.8125990865564925,
+      "active_max": 1.0428467133155868,
+      "active_edge_percent_above_07": 99.98400565905449,
+      "active_edge_percent_above_1": 0.001001602564102564,
+      "worst_active_edge": {
+        "cell": 212688,
+        "original_element": 3325,
+        "marker": 1,
+        "MFAC_xy": 1.0428467133155868,
+        "MFAC_anisotropic": 1.040363161937669,
+        "reference_edge_midpoint": [
+          1.3380006875,
+          6.2150754375,
+          0.04969000000000001
+        ],
+        "current_edge_midpoint": [
+          1.3444522826054999,
+          6.210507152651952,
+          0.05876309152938851
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "Housing disc",
+      "all_median": 0.6388228480712603,
+      "all_max": 1.5851986982925665,
+      "active_median": 0.6432484564488921,
+      "active_max": 1.5851986982925665,
+      "active_edge_percent_above_07": 31.769618813611487,
+      "active_edge_percent_above_1": 2.542112044905603,
+      "worst_active_edge": {
+        "cell": 903522,
+        "original_element": 14119,
+        "marker": 42,
+        "MFAC_xy": 1.5851986982925665,
+        "MFAC_anisotropic": 1.5775941651422485,
+        "reference_edge_midpoint": [
+          5.1033795,
+          1.1930873749999997,
+          4.935144
+        ],
+        "current_edge_midpoint": [
+          5.103032793675562,
+          1.1933444785177991,
+          4.933916830563368
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "AML",
+      "all_median": 0.35448475838726806,
+      "all_max": 0.968535362404465,
+      "active_median": 0.35448475838726806,
+      "active_max": 0.968535362404465,
+      "active_edge_percent_above_07": 0.24524806701030927,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 52763,
+        "original_element": 824,
+        "marker": 3,
+        "MFAC_xy": 0.968535362404465,
+        "MFAC_anisotropic": 0.8705996807134696,
+        "reference_edge_midpoint": [
+          4.0533928125,
+          5.9322539999999995,
+          5.36595640625
+        ],
+        "current_edge_midpoint": [
+          4.239673227667133,
+          5.744780845355631,
+          4.900704150938596
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "PML",
+      "all_median": 0.3392450455550032,
+      "all_max": 0.878400677316393,
+      "active_median": 0.3392450455550032,
+      "active_max": 0.878400677316393,
+      "active_edge_percent_above_07": 0.20975258766370936,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 75429,
+        "original_element": 1178,
+        "marker": 4,
+        "MFAC_xy": 0.878400677316393,
+        "MFAC_anisotropic": 0.862994587174536,
+        "reference_edge_midpoint": [
+          5.0189720625,
+          2.9875060312499997,
+          5.475183843749999
+        ],
+        "current_edge_midpoint": [
+          4.8329577778470245,
+          3.117982726499284,
+          5.0310997064037215
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "Annulus",
+      "all_median": 0.3703742871065837,
+      "all_max": 0.945951919587126,
+      "active_median": 0.3703742871065837,
+      "active_max": 0.945951919587126,
+      "active_edge_percent_above_07": 0.23556774809160305,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 112164,
+        "original_element": 1752,
+        "marker": 5099,
+        "MFAC_xy": 0.945951919587126,
+        "MFAC_anisotropic": 0.9141241722292042,
+        "reference_edge_midpoint": [
+          2.8264695,
+          3.6648565,
+          5.5083871250000005
+        ],
+        "current_edge_midpoint": [
+          2.9198004337292645,
+          3.6831998988777626,
+          5.419241457694611
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "Basal chordae",
+      "all_median": 0.1713099818497234,
+      "all_max": 0.6988381881373953,
+      "active_median": 0.1713099818497234,
+      "active_max": 0.6988381881373953,
+      "active_edge_percent_above_07": 0.0,
+      "active_edge_percent_above_1": 0.0,
+      "worst_active_edge": {
+        "cell": 143222,
+        "original_element": 2239,
+        "marker": 100,
+        "MFAC_xy": 0.6988381881373953,
+        "MFAC_anisotropic": 0.6940090216763991,
+        "reference_edge_midpoint": [
+          5.754636124999999,
+          3.915984,
+          5.145056875
+        ],
+        "current_edge_midpoint": [
+          5.663001569462452,
+          3.960359203513769,
+          4.879725612186246
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "Marginal chordae",
+      "all_median": 0.20164567038765077,
+      "all_max": 1.1828266075259022,
+      "active_median": 0.20164567038765077,
+      "active_max": 1.1828266075259022,
+      "active_edge_percent_above_07": 0.007370283018867925,
+      "active_edge_percent_above_1": 0.0024567610062893085,
+      "worst_active_edge": {
+        "cell": 134170,
+        "original_element": 2096,
+        "marker": 200,
+        "MFAC_xy": 1.1828266075259022,
+        "MFAC_anisotropic": 1.058774215536506,
+        "reference_edge_midpoint": [
+          4.789081749999999,
+          5.241329875,
+          6.181900375
+        ],
+        "current_edge_midpoint": [
+          5.043650290147165,
+          4.859281035466801,
+          5.473920220937314
+        ]
+      }
+    },
+    {
+      "time": 1.27,
+      "reference": false,
+      "region": "Papillary caps",
+      "all_median": 0.1531925693331662,
+      "all_max": 1.0183830670871343,
+      "active_median": 0.1531925693331662,
+      "active_max": 1.0183830670871343,
+      "active_edge_percent_above_07": 1.3671875,
+      "active_edge_percent_above_1": 0.004340277777777778,
+      "worst_active_edge": {
+        "cell": 194413,
+        "original_element": 3039,
+        "marker": 1005,
+        "MFAC_xy": 1.0183830670871343,
+        "MFAC_anisotropic": 0.8341912289708902,
+        "reference_edge_midpoint": [
+          5.154438375,
+          2.1555792499999997,
+          7.5728349999999995
+        ],
+        "current_edge_midpoint": [
+          5.322362276242776,
+          2.610772392913478,
+          7.563212680123016
+        ]
+      }
+    }
+  ],
+  "distorted_chordal_parent": [
+    {
+      "time": 0.0,
+      "original_element": 2096,
+      "median_MFAC_xy": 0.15745523880039225,
+      "max_MFAC_xy": 0.36960537075460576
+    },
+    {
+      "time": 1.1,
+      "original_element": 2096,
+      "median_MFAC_xy": 0.20367401974801694,
+      "max_MFAC_xy": 1.1851594241305987
+    },
+    {
+      "time": 1.27,
+      "original_element": 2096,
+      "median_MFAC_xy": 0.20606803289766784,
+      "max_MFAC_xy": 1.1828266075259022
+    }
+  ]
+}

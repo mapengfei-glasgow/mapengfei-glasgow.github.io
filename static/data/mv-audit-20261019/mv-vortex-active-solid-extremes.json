@@ -1,0 +1,170 @@
+[
+  {
+    "time": 1.1,
+    "extremes": {
+      "J_min": {
+        "value": 0.11899538585774296,
+        "cell": 134171,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.79569375390625,
+          5.254046187499998,
+          6.199660931640626
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 9.931819434092093,
+        "cell": 134163,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.77267801953125,
+          5.236726062499999,
+          6.161582970703124
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 87.82789616926684,
+        "cell": 134163,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.77267801953125,
+          5.236726062499999,
+          6.161582970703124
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.11899538585774296,
+        "cell": 134171,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.79569375390625,
+          5.254046187499998,
+          6.199660931640626
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 9.931819434092093,
+        "cell": 134163,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.77267801953125,
+          5.236726062499999,
+          6.161582970703124
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 11.473742120596834,
+        "cell": 103753,
+        "marker": 4,
+        "original_element": 1621,
+        "qp": 5,
+        "ref_center": [
+          4.57306148828125,
+          5.917526615234374,
+          5.337681589843751
+        ],
+        "passive_rim": false
+      }
+    },
+    "nonpositive_qp": 0
+  },
+  {
+    "time": 1.27,
+    "extremes": {
+      "J_min": {
+        "value": 0.1766338160050661,
+        "cell": 134171,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.79569375390625,
+          5.254046187499998,
+          6.199660931640626
+        ],
+        "passive_rim": false
+      },
+      "J_max": {
+        "value": 10.734314330823318,
+        "cell": 134170,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 2,
+        "ref_center": [
+          4.78418588671875,
+          5.245386125,
+          6.180621951171876
+        ],
+        "passive_rim": false
+      },
+      "I1_max": {
+        "value": 61.60315351142488,
+        "cell": 134170,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 2,
+        "ref_center": [
+          4.78418588671875,
+          5.245386125,
+          6.180621951171876
+        ],
+        "passive_rim": false
+      },
+      "active_J_min": {
+        "value": 0.1766338160050661,
+        "cell": 134171,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 6,
+        "ref_center": [
+          4.79569375390625,
+          5.254046187499998,
+          6.199660931640626
+        ],
+        "passive_rim": false
+      },
+      "active_J_max": {
+        "value": 10.734314330823318,
+        "cell": 134170,
+        "marker": 200,
+        "original_element": 2096,
+        "qp": 2,
+        "ref_center": [
+          4.78418588671875,
+          5.245386125,
+          6.180621951171876
+        ],
+        "passive_rim": false
+      },
+      "constitutive_exponent_max": {
+        "value": 10.310174750658103,
+        "cell": 110619,
+        "marker": 4,
+        "original_element": 1728,
+        "qp": 5,
+        "ref_center": [
+          5.407456128906251,
+          5.2936646894531245,
+          5.605256613281249
+        ],
+        "passive_rim": false
+      }
+    },
+    "nonpositive_qp": 0
+  }
+]

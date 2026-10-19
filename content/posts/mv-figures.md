@@ -142,6 +142,8 @@ These use the completed **G64/R2/P1+Q1/BF** run (`runs/glamv_four_D_20261015/G64
 
 ## Open questions and limits
 
+**Updated interpretation:** [G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}). The matched G128 timestep cases show substantial late instantaneous velocity-gradient differences; the completed primary case also contains large active chordal volume errors and an inlet transient. Use these animations as diagnostic visualizations; resolved turbulence and converged instantaneous vortex topology have not been established.
+
 The IBAMR comparison uses the working-paper chart samples through 0.64 s only; no full-cycle reference is fabricated or extrapolated, and no additional simulation was launched for this figure set. Fibre/sheet values in the P1 and mixed meshes agree with the original Sarah map to numerical precision, with 14 ambiguous parent assignments retained from the original P1 mapping. [Fibre audit](/images/mv/FIBRE_PROVENANCE.json).
 
 The leaflet trajectories are deterministic node proxies rather than independently identified anatomical tips. Full-box energy integrals include immersed-solid regions; the separate lumen-window integrals are shown explicitly. The single-cycle spectrum is nonstationary and limited to a 50 Hz Nyquist frequency.

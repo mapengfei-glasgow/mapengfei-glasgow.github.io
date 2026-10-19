@@ -1,0 +1,362 @@
+[
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8400000000000001,
+    "min_valve_J": {
+      "value": 0.31746152616938317,
+      "cell": 134163,
+      "marker": 200,
+      "original_element": 2096,
+      "qp": 6,
+      "ref_center": [
+        4.77267801953125,
+        5.236726062499999,
+        6.161582970703124
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 10.118154338797352,
+      "cell": 72493,
+      "marker": 4,
+      "original_element": 1132,
+      "qp": 5,
+      "ref_center": [
+        5.196750308593749,
+        3.4224372734375,
+        5.613922181640625
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 211.6438665651875,
+    "peak_velocity": {
+      "max_magnitude": 211.6438665651875,
+      "point": [
+        4.3671875,
+        1.0078125,
+        0.0
+      ],
+      "value": [
+        0.0,
+        0.0,
+        211.6438665651875
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8600000000000001,
+    "min_valve_J": {
+      "value": 0.21506851125516388,
+      "cell": 134163,
+      "marker": 200,
+      "original_element": 2096,
+      "qp": 6,
+      "ref_center": [
+        4.77267801953125,
+        5.236726062499999,
+        6.161582970703124
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 9.815994698164392,
+      "cell": 62345,
+      "marker": 4,
+      "original_element": 974,
+      "qp": 5,
+      "ref_center": [
+        5.1441134609375005,
+        3.2329041425781244,
+        5.5717287402343745
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 362.2701789621993,
+    "peak_velocity": {
+      "max_magnitude": 362.2701789621993,
+      "point": [
+        4.3671875,
+        1.0078125,
+        0.0
+      ],
+      "value": [
+        0.0,
+        0.0,
+        362.2701789621993
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8700000000000001,
+    "min_valve_J": {
+      "value": 0.28042472605974905,
+      "cell": 134163,
+      "marker": 200,
+      "original_element": 2096,
+      "qp": 6,
+      "ref_center": [
+        4.77267801953125,
+        5.236726062499999,
+        6.161582970703124
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 10.356735507683988,
+      "cell": 62281,
+      "marker": 4,
+      "original_element": 973,
+      "qp": 7,
+      "ref_center": [
+        5.168661736328125,
+        3.303145181640625,
+        5.587818173828125
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 522.8180555283802,
+    "peak_velocity": {
+      "max_magnitude": 522.8180555283802,
+      "point": [
+        4.3671875,
+        1.0078125,
+        0.0
+      ],
+      "value": [
+        0.0,
+        0.0,
+        522.8180555283802
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_valve_scale_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8800000000000001,
+    "min_valve_J": {
+      "value": 0.23604455708565036,
+      "cell": 134163,
+      "marker": 200,
+      "original_element": 2096,
+      "qp": 6,
+      "ref_center": [
+        4.77267801953125,
+        5.236726062499999,
+        6.161582970703124
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 10.217053040352303,
+      "cell": 107311,
+      "marker": 4,
+      "original_element": 1676,
+      "qp": 5,
+      "ref_center": [
+        4.797335982421875,
+        5.802720906249999,
+        5.22742805859375
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 1044.8308994968143,
+    "peak_velocity": {
+      "max_magnitude": 1044.8308994968143,
+      "point": [
+        4.434375,
+        1.0078125,
+        0.0
+      ],
+      "value": [
+        0.0,
+        0.0,
+        1044.8308994968143
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8400000000000001,
+    "min_valve_J": {
+      "value": 0.33103809494531333,
+      "cell": 130157,
+      "marker": 2001,
+      "original_element": 2033,
+      "qp": 4,
+      "ref_center": [
+        6.201195988281251,
+        5.162479796875,
+        7.997455546875
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 9.64664457186176,
+      "cell": 76907,
+      "marker": 4,
+      "original_element": 1201,
+      "qp": 4,
+      "ref_center": [
+        5.2834938125,
+        3.6300950332031254,
+        5.561962671875
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 93.84061318772727,
+    "peak_velocity": {
+      "max_magnitude": 211.9035750473055,
+      "point": [
+        5.9125,
+        5.8453124999999995,
+        9.3074540625
+      ],
+      "value": [
+        70.1042482596988,
+        29.459708626103932,
+        197.78939572544482
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8600000000000001,
+    "min_valve_J": {
+      "value": 0.31082305214313305,
+      "cell": 134674,
+      "marker": 200,
+      "original_element": 2104,
+      "qp": 0,
+      "ref_center": [
+        4.8295377089843745,
+        5.37970740625,
+        6.8588941640625
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 9.742438770987073,
+      "cell": 62411,
+      "marker": 4,
+      "original_element": 975,
+      "qp": 4,
+      "ref_center": [
+        5.106943511718749,
+        3.1763980488281245,
+        5.5532405292968745
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 127.31950903007265,
+    "peak_velocity": {
+      "max_magnitude": 204.42445685321073,
+      "point": [
+        5.1734374999999995,
+        3.9640625,
+        7.546584375
+      ],
+      "value": [
+        74.82210352564007,
+        -37.831083649339114,
+        186.43985757784014
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8700000000000001,
+    "min_valve_J": {
+      "value": 0.3054057364985669,
+      "cell": 130157,
+      "marker": 2001,
+      "original_element": 2033,
+      "qp": 4,
+      "ref_center": [
+        6.201195988281251,
+        5.162479796875,
+        7.997455546875
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 10.014240292892405,
+      "cell": 89515,
+      "marker": 4,
+      "original_element": 1398,
+      "qp": 6,
+      "ref_center": [
+        4.56446044140625,
+        2.859336740234375,
+        5.38839459765625
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 153.93432065826994,
+    "peak_velocity": {
+      "max_magnitude": 213.59321561515242,
+      "point": [
+        5.9125,
+        4.8374999999999995,
+        8.4689446875
+      ],
+      "value": [
+        66.95902972527998,
+        -20.732736195800072,
+        201.76398029605141
+      ],
+      "nonfinite": 0
+    }
+  },
+  {
+    "case": "G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "time": 0.8800000000000001,
+    "min_valve_J": {
+      "value": 0.3403096026167206,
+      "cell": 188370,
+      "marker": 100,
+      "original_element": 2945,
+      "qp": 3,
+      "ref_center": [
+        5.7178692050781255,
+        5.553550482421875,
+        7.2935665781250005
+      ],
+      "passive_rim": false
+    },
+    "max_material_exponent": {
+      "value": 10.84507353280822,
+      "cell": 109311,
+      "marker": 4,
+      "original_element": 1707,
+      "qp": 7,
+      "ref_center": [
+        4.086910638671875,
+        2.835368150390625,
+        5.634616300781251
+      ],
+      "passive_rim": false
+    },
+    "peak_inlet_speed": 192.06030288680546,
+    "peak_velocity": {
+      "max_magnitude": 208.36223524602494,
+      "point": [
+        6.1140625,
+        5.375,
+        9.559006875
+      ],
+      "value": [
+        58.50942854439144,
+        24.23988445661364,
+        198.504145673733
+      ],
+      "nonfinite": 0
+    }
+  }
+]
