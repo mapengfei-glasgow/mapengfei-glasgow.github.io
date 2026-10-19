@@ -15,14 +15,19 @@
     "sha256": "d37dcb4b77435a4879c546c6a4d217eada2485de09b38cda12345db8ab3ccd3f"
   },
   {
+    "file": "G64_MOVIE_SETTINGS.json",
+    "bytes": 530,
+    "sha256": "8ec74cd895092256916d70bbcaef80e83693e1ec49ecd46e7bf8920bb85a88f0"
+  },
+  {
     "file": "GAP_MEASUREMENTS.json",
     "bytes": 201,
     "sha256": "086cb2433217aa83a0f367647f99065719736eb1e141611f2938f76bf38ddf37"
   },
   {
     "file": "README.md",
-    "bytes": 9558,
-    "sha256": "f41beeb602839863375b9a1bacb91df3983fe479be828722009d2b3ccb8b80bb"
+    "bytes": 10053,
+    "sha256": "ec92f0872a1b6ad727420489e85851042997fe84c8ce7f3037499e9e85bfd282"
   },
   {
     "file": "RUN_INVENTORY.json",
@@ -245,6 +250,16 @@
     "sha256": "647a2de14cdd3a2d06564595cc5c2d5ddcc556f77b0890da199a2388127a8798"
   },
   {
+    "file": "movie_q_iso_64.gif",
+    "bytes": 851185,
+    "sha256": "85a7e42ef5c5feef2655a0e7c056a5eea1ac8fe68fc89ba185eb5ed224bb70eb"
+  },
+  {
+    "file": "movie_q_iso_64.mp4",
+    "bytes": 2192829,
+    "sha256": "df6ac43685e492ac79d0ffc09bc5a3922f7d020bacc6f91b6e94bf95b8e925fe"
+  },
+  {
     "file": "movie_vorticity.gif",
     "bytes": 1441004,
     "sha256": "ac33095b72e90574bd56e4cd704b7e183b530ae2e1f2fc93fdc7f15de12cb5c9"
@@ -253,6 +268,16 @@
     "file": "movie_vorticity.mp4",
     "bytes": 1263348,
     "sha256": "08ee19981277dca8554661b3926c0609e8b4155e43c4f5bd10c9455b3d8a5d62"
+  },
+  {
+    "file": "movie_vorticity_64.gif",
+    "bytes": 1116927,
+    "sha256": "0db8f50c8fd19f7c9fe5482289b7d7a88f951bb7af74bae427ec8e09784d1521"
+  },
+  {
+    "file": "movie_vorticity_64.mp4",
+    "bytes": 679976,
+    "sha256": "5a317b63f2e13642ad799a59af631b2541c0300e8504f2aeae5f970448cfe513"
   },
   {
     "file": "q_t0.08.png",

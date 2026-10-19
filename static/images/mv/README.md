@@ -56,6 +56,10 @@ Exploratory summed-component velocity PSD, averaged over fixed probes on z≈8 c
 
 `movie_q_iso.mp4` and `movie_vorticity.mp4`, plus GIF previews. All 135 exported frames, fixed thresholds/camera/colour scales and time stamps. 1280×720, H.264/yuv420p, 27 frames/s. The final source interval is 0.005 s; fixed movie frame rate therefore slightly stretches that interval. Both movies use the same primary run as F5/F6.
 
+### G64 animation counterparts
+
+`movie_q_iso_64.gif` / `.mp4` and `movie_vorticity_64.gif` / `.mp4` use `runs/glamv_four_D_20261015/G64_R2_P1+Q1_BF`: original stress, solid-nu=1000, dt=2e-5 s, Lz=16.2 cm, 135 frames through 1.335 s. Display thresholds, colour limits and camera match the G128 movies. The numerical formulations differ, so this is not a controlled grid-resolution comparison. GIF previews are downsampled to 10 frames/s; MP4s retain all 135 frames. See G64_MOVIE_SETTINGS.json.
+
 ## Run mapping
 
 | Label | Run directory | Frames | Last time (s) | Q plane / backflow plane (cm) |

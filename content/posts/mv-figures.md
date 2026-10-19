@@ -122,6 +122,24 @@ All 135 exported frames are included, with time stamps and fixed scales. MP4 fil
 
 [Download MP4](/images/mv/movie_vorticity.mp4) · [GIF](/images/mv/movie_vorticity.gif)
 
+## G64 animation counterparts
+
+These use the completed **G64/R2/P1+Q1/BF** run (`runs/glamv_four_D_20261015/G64_R2_P1+Q1_BF`), with original stress, solid-nu=1000, dt=2e-5 s and Lz=16.2 cm. All 135 frames through 1.335 s are included in the MP4s. The camera, Q level, speed colours and vorticity scale match the G128 movies. Tube and housing disc are hidden.
+
+### G64 Q-criterion
+
+![G64 Q-criterion animation](/images/mv/movie_q_iso_64.gif)
+
+[GIF](/images/mv/movie_q_iso_64.gif) · [MP4](/images/mv/movie_q_iso_64.mp4)
+
+### G64 centre-plane vorticity
+
+![G64 vorticity animation](/images/mv/movie_vorticity_64.gif)
+
+[GIF](/images/mv/movie_vorticity_64.gif) · [MP4](/images/mv/movie_vorticity_64.mp4)
+
+[G64 settings and provenance](/images/mv/G64_MOVIE_SETTINGS.json). Stress, viscosity, time step and domain length differ from the G128 primary case; these movies are not an isolated grid-resolution comparison.
+
 ## Open questions and limits
 
 The IBAMR comparison uses the working-paper chart samples through 0.64 s only; no full-cycle reference is fabricated or extrapolated, and no additional simulation was launched for this figure set. Fibre/sheet values in the P1 and mixed meshes agree with the original Sarah map to numerical precision, with 14 ambiguous parent assignments retained from the original P1 mapping. [Fibre audit](/images/mv/FIBRE_PROVENANCE.json).

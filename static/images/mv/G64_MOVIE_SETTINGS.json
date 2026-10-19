@@ -1,0 +1,21 @@
+{
+  "run": "runs/glamv_four_D_20261015/G64_R2_P1+Q1_BF",
+  "configuration": "G64/R2/P1+Q1/BF",
+  "stress": "original",
+  "solid_nu": 1000,
+  "dt": 2e-05,
+  "frames": 135,
+  "last_time": 1.335,
+  "Lz_cm": 16.2,
+  "Q_level_s2": 3956.8777343750003,
+  "speed_clim_cm_s": [
+    0,
+    180.0
+  ],
+  "omega_y_clim_s1": [
+    -620.0,
+    620.0
+  ],
+  "display_matches": "FIELD_SETTINGS.json for G128",
+  "caveat": "G64 and G128 cases differ in stress, viscosity, time step and domain length; these are not an isolated grid comparison."
+}
