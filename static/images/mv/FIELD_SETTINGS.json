@@ -1,0 +1,25 @@
+{
+  "primary_run": "runs/glamv_g128_modstress_20261017/G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+  "time_step": 2.5e-06,
+  "instants_s": [
+    0.08,
+    0.16,
+    0.64,
+    0.9
+  ],
+  "Q_level_s2": 3956.8777343750003,
+  "lambda2_level_s2": -3580.216796875,
+  "speed_clim_cm_s": [
+    0,
+    180.0
+  ],
+  "omega_y_clim_s1": [
+    -620.0,
+    620.0
+  ],
+  "region": "r<3.5 cm about (4.3,4.3), 2<z<14 cm",
+  "Q_level_rule": "0.1 times largest positive-Q 90th percentile among four instants",
+  "lambda2_rule": "-0.1 times largest 90th percentile of negative-lambda2 magnitudes",
+  "render_backend": "VTK EGL (PyVista unavailable)",
+  "solid_overlay": "leaflets, annulus, chordae, caps; tube and housing disc omitted"
+}

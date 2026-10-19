@@ -14,9 +14,11 @@ Target journal: Journal of Fluid Mechanics
 
 Code, scripts and derived data: see [Data and code]({{< relref "mv-data-and-code.md" >}}).
 
+Manuscript figures and full-cycle G128 animations: [figure gallery and downloads]({{< relref "mv-figures.md" >}}).
+
 Questions to be answered:
 1. How long is the IBAMR run SarahMV model? I have to rerun it (until 1.335) to ensure it.
-2. How are the fiber direcions corresponding to the cells of P1 mesh or P1+Q1 mesh? are they using the original map?
+2. Fibre/sheet mapping audit (2026-10-19): P1 and mixed R0/R1/R2 use the original normalized Sarah per-parent map, matching to numerical precision. The original P1 mapping retains 14 ambiguous parent assignments resolved by its centroid rule; see the [figure provenance]({{< relref "mv-figures.md" >}}#open-questions-and-limits).
 
 ---
 

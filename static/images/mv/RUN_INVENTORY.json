@@ -1,0 +1,167 @@
+[
+  {
+    "label": "G64/R0/P1/BF",
+    "path": "runs/glamv_four_D_20261015/G64_R0_P1_BF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_00.csv"
+  },
+  {
+    "label": "G64/R0/P1/NBF",
+    "path": "runs/glamv_four_D_20261015/G64_R0_P1_NBF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_01.csv"
+  },
+  {
+    "label": "G64/R0/P1+Q1/BF",
+    "path": "runs/glamv_four_D_20261015/G64_R0_P1+Q1_BF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_02.csv"
+  },
+  {
+    "label": "G64/R0/Q2+P2/BF",
+    "path": "runs/glamv_four_D_20261015/G64_R0_Q2+P2_BF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_03.csv"
+  },
+  {
+    "label": "G64/R0/P2/BF",
+    "path": "runs/glamv_four_D_20261015/G64_R0_P2_BF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_04.csv"
+  },
+  {
+    "label": "G64/R1/P1+Q1/BF",
+    "path": "runs/glamv_four_D_20261015/G64_R1_P1+Q1_BF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_05.csv"
+  },
+  {
+    "label": "G64/R2/P1+Q1/BF",
+    "path": "runs/glamv_four_D_20261015/G64_R2_P1+Q1_BF",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_06.csv"
+  },
+  {
+    "label": "0.0.3 reference",
+    "path": "fdm-3d-v1-gpu/out_glamv003_every500",
+    "dt": 2e-05,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.98125,
+    "backflow_plane_cm": 16.03125,
+    "spacing_cm": [
+      0.134375,
+      0.134375,
+      0.16874999999999998
+    ],
+    "csv": "flow_run_07.csv"
+  },
+  {
+    "label": "G128/R2 original, nu_s=125, dt=2.5e-6",
+    "path": "runs/glamv_four_D_20261015/G128_R2_P1+Q1_BF_Lz16p09938_dt2p5e-6",
+    "dt": 2.5e-06,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.9906840625,
+    "backflow_plane_cm": 16.0155290625,
+    "spacing_cm": [
+      0.0671875,
+      0.0671875,
+      0.0838509375
+    ],
+    "csv": "flow_run_08.csv"
+  },
+  {
+    "label": "G128/R2 modified, nu_s=0, dt=5e-6",
+    "path": "runs/glamv_g128_modstress_20261017/G128_R2_cbs43_mod_dt5e-6_solidnu0",
+    "dt": 5e-06,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.9906840625,
+    "backflow_plane_cm": 16.0155290625,
+    "spacing_cm": [
+      0.0671875,
+      0.0671875,
+      0.0838509375
+    ],
+    "csv": "flow_run_09.csv"
+  },
+  {
+    "label": "G128/R2 modified, nu_s=0, dt=2.5e-6",
+    "path": "runs/glamv_g128_modstress_20261017/G128_R2_cbs43_mod_dt2p5e-6_solidnu0",
+    "dt": 2.5e-06,
+    "frames": 135,
+    "last_time": 1.3350000000000002,
+    "Q_plane_cm": 11.9906840625,
+    "backflow_plane_cm": 16.0155290625,
+    "spacing_cm": [
+      0.0671875,
+      0.0671875,
+      0.0838509375
+    ],
+    "csv": "flow_run_10.csv"
+  }
+]

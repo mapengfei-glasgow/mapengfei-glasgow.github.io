@@ -1,0 +1,34 @@
+[
+  {
+    "mesh": "glamv_ibamr",
+    "cells": 80074,
+    "max_fibre_error": 2.220446049250313e-16,
+    "max_sheet_error": 0.0,
+    "unmatched": 0,
+    "ambiguous_original_mapping": 14
+  },
+  {
+    "mesh": "glamv_hex",
+    "cells": 22251,
+    "max_fibre_error": 0.0,
+    "max_sheet_error": 0.0,
+    "unmatched": 0,
+    "ambiguous_original_mapping": 0
+  },
+  {
+    "mesh": "glamv_hex_r1",
+    "cells": 178008,
+    "max_fibre_error": 0.0,
+    "max_sheet_error": 0.0,
+    "unmatched": 0,
+    "ambiguous_original_mapping": 0
+  },
+  {
+    "mesh": "glamv_hex_r2",
+    "cells": 1424064,
+    "max_fibre_error": 0.0,
+    "max_sheet_error": 0.0,
+    "unmatched": 0,
+    "ambiguous_original_mapping": 0
+  }
+]
