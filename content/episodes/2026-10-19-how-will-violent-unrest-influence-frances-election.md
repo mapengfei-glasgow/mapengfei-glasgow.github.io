@@ -1,0 +1,171 @@
+---
+layout: single
+title: "How will violent unrest influence France's election?"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-19T00:00:00Z
+slug: "2026-10-19-how-will-violent-unrest-influence-frances-election"
+audioDir: "2026-10-19-how-will-violent-unrest-influence-frances-election"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-19-how-will-violent-unrest-influence-frances-election/episode.mp3"
+totalDuration: 1664.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.16}
+  - {text: "I'm Charlotte Gannigan and in the early hours of Monday, the 19th of October, these are our main stories.", start: 6.76, end: 13.18}
+  - {text: "President Macron calls for calm after France is shaken by a weekend of violent unrest.", start: 13.88, end: 19.70}
+  - {text: "We ask, how will this influence the upcoming election?", start: 20.40, end: 23.46}
+  - {text: "A huge fire at a tension as Brazil's left -wing president faces off with his rival on stage.", start: 24.06, end: 35.74}
+  - {text: "Also in this podcast.", start: 39.10, end: 40.56}
+  - {text: "My mother is unstoppable and she will continue doing her work.", start: 41.04, end: 46.40}
+  - {text: "We speak to the son of an American journalist who's recovering from an attack by Jewish settlers in the West Bank.", start: 47.04, end: 53.44}
+  - {text: "President Macron has addressed the nation after one of the worst outbreaks of disorder in modern French history.", start: 59.30, end: 66.34}
+  - {text: "He again called for calm and sought to draw a divide between peaceful protesters and the rioters he blamed for the destruction that's left many in France shocked.", start: 66.92, end: 76.66}
+  - {text: "He pledged to bring those responsible for the violence to justice.", start: 77.22, end: 80.68}
+  - {text: "People across the country spent much of Sunday cleaning up shattered shop fronts, burnt out cars, charred bikes and piles of debris on the streets.", start: 81.34, end: 90.46}
+  - {text: "Our correspondent James Waterhouse sent this report from Paris.", start: 90.94, end: 94.10}
+  - {text: "One of the most evocative images from these protests has been of the 19th century town hall in Dimoges to the southwest being devoured by the flames.", start: 94.74, end: 103.90}
+  - {text: "The blame for this destruction of French history heritage has been squarely aimed at a violent minority of demonstrators.", start: 104.56, end: 111.44}
+  - {text: "In Paris and beyond half a million people had filled cities across France to protest over the future of their country.", start: 112.22, end: 119.70}
+  - {text: "They were mostly peaceful but as we saw in the capital in the wings were those who wanted to take advantage of the disorder and when the early evening arrived they did.", start: 121.13, end: 131.31}
+  - {text: "The police seemed to retreat in the face of what ministers are calling an organised network.", start: 133.10, end: 137.82}
+  - {text: "It was at 5pm when this electric bike shop was plundered.", start: 138.54, end: 142.06}
+  - {text: "With no one to stop them dozens of masked looters made several trips as they emptied the stock even taking the time to browse.", start: 142.46, end: 149.90}
+  - {text: "The owner, Hassan Ahmed, explains what he's lost.", start: 151.74, end: 156.62}
+  - {text: "With the arrival of daylight it became apparent how the rioters didn't discriminate with who or what they targeted.", start: 163.46, end: 171.09}
+  - {text: "We felt completely safe with the gates closed and then we heard the gates being lifted from all sides.", start: 172.41, end: 178.85}
+  - {text: "I don't know if someone hit me or how it happened with an iron bar I think.", start: 179.23, end: 183.43}
+  - {text: "They set the fire in the shop at the ground floor with people living just upstairs everything is closed because it's mashed.", start: 183.85, end: 189.55}
+  - {text: "And you've seen protests before France has seen protests before but have you seen this damage before?", start: 189.71, end: 194.43}
+  - {text: "Never, never and I'm going to be very honest.", start: 194.49, end: 197.63}
+  - {text: "I have been scared.", start: 197.99, end: 198.57}
+  - {text: "President Macron addressed the nation.", start: 199.01, end: 200.97}
+  - {text: "Watching these images we all asked ourselves what are they thinking?", start: 201.51, end: 205.91}
+  - {text: "How can French people do this to France?", start: 206.61, end: 208.73}
+  - {text: "Those who sought to bring down the republic will be held accountable.", start: 209.57, end: 213.39}
+  - {text: "Upcoming presidential elections will determine France's future course but this chapter has exposed the strength of feeling over the challenges this republic faces and the depth of division on how to overcome them.", start: 214.03, end: 227.53}
+  - {text: "The response from political figures across the spectrum has highlighted those deep divisions ahead of the presidential election in April.", start: 228.19, end: 235.59}
+  - {text: "Our reporter Pierre Antoine Denis told me the government's failure to control the protest could help the far right and the far left at the polls.", start: 236.17, end: 244.43}
+  - {text: "There's been failure in the intelligence.", start: 244.95, end: 246.97}
+  - {text: "There's been failure in the planning of this protest definitely when it comes to Saturday and I think overall there is a failure when it comes to the state", start: 247.41, end: 256.03}
+  - {text: "and its response to the protests that were led by pupils on the suburbs of Paris back in September.", start: 256.03, end: 262.93}
+  - {text: "How it all evolved and brewed into the scenes that we saw on Saturday.", start: 263.35, end: 268.43}
+  - {text: "Obviously there will be questions as to how the government responded to this may have added fuel to fire and then essentially created the situation and the perfect storm for all these protests", start: 269.09, end: 284.55}
+  - {text: "and I think everyone will be fairly confident in condemning this violence talking about how this has gone way too far but the problem remains that these protests", start: 284.55, end: 296.71}
+  - {text: "and the demands from these protesters have not been met yet.", start: 296.71, end: 300.17}
+  - {text: "So this is the watershed moment for the country as it's impossible to talk about what happened at the weekend without talking about the violence in", start: 300.43, end: 309.51}
+  - {text: "its eight minute dress Emmanuel Macron mostly talked about the violence mostly talked about how the republic will stay strong the state will not yield to the violence and to the protesters.", start: 309.51, end: 321.11}
+  - {text: "So it will be important for the protesters now for the students who have been leading that movement to control the narrative again to be in", start: 321.79, end: 328.95}
+  - {text: "charge of the narrative again unless they distanced themselves quite heavily from the violence then their messaging will be completely forgotten.", start: 328.95, end: 337.21}
+  - {text: "How much do you think this could influence the presidential election that's coming up because you have Jean -Luc Mélenchon on the far left he has associated himself with the peaceful protesters", start: 337.91, end: 349.29}
+  - {text: "and he's been out protesting peacefully and then on the far right you have Marine Le Pen who's very anti -protesting and she's sort of positioning herself", start: 349.29, end: 358.99}
+  - {text: "as the candidate of law and order how much do you think it could influence the election?", start: 358.99, end: 363.03}
+  - {text: "Definitely the two names you've mentioned are the big winners of this protest one way or another because Jean -Luc Mélenchon can talk about how he's been warning the government about these protests", start: 363.43, end: 376.17}
+  - {text: "and how the youth will have their moment and will have what they call their revolution.", start: 376.17, end: 381.49}
+  - {text: "Marine Le Pen will say we've been warning you about France has an immigration problem and then these people out there in the suburbs just want violence that's been her rhetoric", start: 382.31, end: 391.83}
+  - {text: "so the big losers out here are the people in other candidates and the presidential hopeful anywhere in between these two because they cannot condemn enough", start: 391.83, end: 404.17}
+  - {text: "while also not being called out for being part of Emmanuel Macron's legacy for being part of Emmanuel Macron's government and when you're looking at the polls", start: 404.17, end: 414.37}
+  - {text: "it's more and more looking like France is heading towards a second round obviously very early on in the political campaign a second round between Marine Le Pen", start: 414.99, end: 424.55}
+  - {text: "and Jean -Luc Mélenchon even more so since the protests began.", start: 424.55, end: 427.29}
+  - {text: "Pierre Antoine Denis at least four people have been killed and nearly 20 others are in a critical condition after a fire at a military base", start: 428.15, end: 437.33}
+  - {text: "in the Canadian state of Alberta victims were taken to hospital across the province after local ones were overwhelmed this eyewitness described what he'd seen at", start: 437.33, end: 447.75}
+  - {text: "the local hospital my scene burns i seen people they were getting unloaded out of the back of that military vehicle they were wrapped in pretty much tin foil i heard people screaming inside of those vehicles you know", start: 447.75, end: 460.27}
+  - {text: "that will never end up being out of my mind like i said it was just a scene from a war movie Prime Minister Mark Carney described the fire", start: 460.27, end: 468.33}
+  - {text: "as one of the worst peacetime tragedies for the military on canadian soil those we lost those who were injured were training to defend canada to serve canada", start: 468.33, end: 482.52}
+  - {text: "and now canada serves them we'll be there for their families for as long as they need we will care for the injured through every step of their recovery and", start: 483.20, end: 495.26}
+  - {text: "we will stand by the women and men of our armed forces as they bear the weight of this loss they will not carry it alone", start: 496.00, end: 501.78}
+  - {text: "cbc senior reporter jennifer ewn told us more about what happened the fire broke out during training exercises and rapidly moved through the base fueled by strong winds going up to 100 kilometers an hour", start: 501.78, end: 516.84}
+  - {text: "so massively strong winds and that those strong winds carried the fire through an area where soldiers from the princess patricia's canadian light infantry were conducting a live fire exercise", start: 516.84, end: 528.40}
+  - {text: "that is they were carrying out drills with live munitions we know that this wasn't an act of terrorism but we also don't know what caused the fire major general wade rotland with the canadian army said today", start: 528.40, end: 540.86}
+  - {text: "that range control knew that there was a grass fire in the vicinity but a decision was made to continue with the drills for a certain amount of time", start: 540.86, end: 549.00}
+  - {text: "and when the wind shifted the fire was about a kilometer away and it was a matter of 30 to 60 seconds before the fire was right on top of the troops", start: 549.00, end: 558.32}
+  - {text: "and this grass fire grew so fast and was so intense it appears to have crossed established fire breaks on the basis before reaching the training zones", start: 558.32, end: 568.40}
+  - {text: "and causing that damage and those fatalities and those injuries rotland also did reveal the names of the four soldiers who died today private aiden gulding private sean ferrell private aiden like mark", start: 568.40, end: 582.54}
+  - {text: "and sergeant morgan wong all of them came from either british columbia or alberta so the two western most provinces in canada and i do want to make you pay attention to the fact", start: 582.54, end: 592.06}
+  - {text: "that three of those killed had the rank private which means they were quite young at the beginning of their careers and i imagine now there", start: 592.06, end: 599.54}
+  - {text: "will be a lot of questions not least from the families of those people about what went wrong and should the exercise have been stopped sooner", start: 599.54, end: 607.88}
+  - {text: "absolutely but it's not clear what was causing this fire to ignite and why it became so strong and that's still under active investigation and the major did tell us today", start: 608.44, end: 620.30}
+  - {text: "that he doesn't want to answer any more detailed questions because this will take increase this will take investigations and that will take time including answers on whether this fire was preventable", start: 620.30, end: 632.10}
+  - {text: "and if so to what extent but i do want to tell you remarkably in the meanwhile as we wait for those answers the rest of the battalion is still slated to go on training", start: 632.10, end: 644.26}
+  - {text: "because these troops are getting ready to deploy to latvia that is canada's largest overseas military deployment canada commands a multinational nato brigade there and it's a way to try", start: 644.26, end: 656.88}
+  - {text: "and deter russian aggression so the soldiers who are hurt and killed were getting ready to go to latvia in april or may and the soldiers", start: 656.88, end: 663.60}
+  - {text: "that are left in the brigade who are not part of the immediate group that was that seemed really heavy casualties are still slated to go", start: 663.60, end: 671.60}
+  - {text: "and they will still go through that training that was jennifer yun from cbc ahead of what's expected to be a tight election brazil's left wing president louis anasio lula de silva", start: 671.60, end: 682.66}
+  - {text: "and his right wing opponent flavio bolsano have been facing off in their first televised debate lula was defeated by bolsano the son of the jailed", start: 682.66, end: 692.84}
+  - {text: "ex -president jair bolsano in the first round defying poll predictions mina torres andrade who attended lula's rally said the election was a matter of defending", start: 692.84, end: 703.54}
+  - {text: "basic rights the far right doesn't engage in dialogue with people it wants power all to itself this is the danger that we'll lose our rights our vote the right to health care education", start: 703.54, end: 717.82}
+  - {text: "and everything else all of which are being threatened the environmental issues as well that is something that we need to protect meanwhile thousands of bolsano's supporters were gathered in sau paulo dressed in the yellow", start: 717.82, end: 730.72}
+  - {text: "and green of the brazilian flag i hope for a fairer brazil a brazil that governs for all a brazil with less corruption or no corruption", start: 730.72, end: 742.64}
+  - {text: "where we can walk our streets safely and also an economy with less public debt the public debt is exorbitant in the country we have a", start: 742.64, end: 750.56}
+  - {text: "court of justice totally on the side of the current government our correspondent louis fajardo followed the presidential debate and he told me what had been said it has been a very bitter", start: 750.56, end: 761.86}
+  - {text: "and divisive campaign and therefore it's a little surprise that the debate has also been very confrontational a lot of accusations strong accusations even the body language of the candidate suggesting a very aggressive position both of them knowing", start: 761.86, end: 776.14}
+  - {text: "that this could be a definitive moment some of the issues that have been considered during the debate are the issue of public safety the perception in in large parts of brazilian society", start: 776.14, end: 786.00}
+  - {text: "that crime is out of control and what both candidates are expecting to do about it bolsonado has often presented himself as the law and order candidate there have also been discussions about the economy of course lula", start: 786.00, end: 799.78}
+  - {text: "making the point that he has been the person who has during the many years he has been in power he managed to help a lot of brazilians escape poverty", start: 800.48, end: 810.02}
+  - {text: "and there has also been the recurring issue of accusations of corruption both sides accusing the other of having people in their immediate vicinity relatives close age touch with corruption", start: 810.02, end: 821.74}
+  - {text: "so all of these issues that have been characterizing the election in the election campaign in brazil and certainly have been part of the discussion this year", start: 821.74, end: 829.32}
+  - {text: "and in recent south american elections there's been a clear move to the right do you think brazil will follow that or can the left hang on to power well brazil is of course seen", start: 829.32, end: 839.58}
+  - {text: "as a key country in this potential move to the right brazil is the largest country in latin america it has the largest economy and the largest population the opinion polls suggest", start: 839.58, end: 850.64}
+  - {text: "that it is a very close election bolsonado again overperformed i guess in the first round but recent opinion polls had showed lula trying to close down on this", start: 850.64, end: 861.20}
+  - {text: "and getting the distance even closer so again it is very very close apparently the race that is about to be defined in brazil in the", start: 861.20, end: 869.30}
+  - {text: "next few days to see what the largest country in latin america is going to do if it's going to keep its leftist government or if it's going to join the trend of many other countries in latin america and move to the right that was lewis fahardo", start: 869.30, end: 880.86}
+  - {text: "still to come in this podcast playing football 60 percent of all professional football kit is incinerated actually setting this product on fire got kids who", start: 883.86, end: 892.94}
+  - {text: "can't afford to play surely there's got to be a better way to look at that problem a new solution to stop professional sports kits going to waste now", start: 892.94, end: 902.02}
+  - {text: "journalists generally don't aim to become the story but last friday pictures of the american photojournalist heidi levine were beamed across the world after he was", start: 908.55, end: 918.53}
+  - {text: "beaten by jewish settlers in the occupied west bank the reporter had been close to an area where palestinian farmers attempting to harvest olives were also attacked miss levine who's jewish", start: 918.53, end: 930.51}
+  - {text: "and works for the washington post has been covering the israel palestinian conflict for decades a job she says is very very personal to her her son michael milner is by her side in hospital where she's receiving treatment cd hatton spoke to him", start: 930.51, end: 946.07}
+  - {text: "my mother has sustained a lot of injuries from the attack after the attack she was immediately evacuated to the ramallah hospital or she was first treated for her wounds", start: 946.59, end: 958.43}
+  - {text: "and once she got there they decided that they don't have the ability to treat all of her wounds and asked if we could transfer her to a hospital in israel", start: 958.43, end: 968.71}
+  - {text: "where she was transferred to the next day she had to undergo an operation on her left hand because a lot of flesh was missing and she needed a skin graft", start: 968.71, end: 980.01}
+  - {text: "and what's called the flap procedure we're now hoping to see if she regains full mobility on that hand but because she has four cracked vertebrae", start: 980.01, end: 992.35}
+  - {text: "and a broken rib it's really difficult for her to move and to get out of bed on her own she said that she had was wearing her her helmet", start: 992.35, end: 1001.55}
+  - {text: "and a flak jacket which she said she believed protected her did it offer her some protection uh yes i sincerely believe it saved her life", start: 1001.55, end: 1010.17}
+  - {text: "because in the videos you can see her being thrown to the ground time and time again there's also been some puncture wounds and a lot of lacerations on her body", start: 1010.17, end: 1020.63}
+  - {text: "and the doctors suspect it could be either from a sharp object or a knife they are just not able to determine but witnesses have told me", start: 1020.63, end: 1030.61}
+  - {text: "that they saw the jewish terrorists using batons with nails on them so i don't think she would have been able to sustain such injuries without the flap jacket", start: 1030.61, end: 1042.45}
+  - {text: "and be able to walk away from this and i told her the settlers will be the ones that kill you and i'm really scared about", start: 1042.45, end: 1049.73}
+  - {text: "that and she and i are very concerned that the situation is ongoing the following day there were more violent attacks including on polish diplomats which is extremely upsetting to me", start: 1049.73, end: 1065.23}
+  - {text: "and i don't see justice yet and i'm very upset about it michael i can hear how upset you are in your voice and i'm i'm sorry that that you're that you're dealing with at the moment uh you do have my sympathies", start: 1065.23, end: 1078.91}
+  - {text: "i want to bring up the words of benjamin netanyahu he released a statement early friday evening actually his office did the prime minister's office said the facts surrounding the confrontation near abufalla during", start: 1079.49, end: 1094.95}
+  - {text: "which the washington post photojournalist heidi levine was allegedly assaulted remain unclear and are under investigation were you surprised by this reaction by the israeli prime minister i was stunned given all the videos and photo evidence i was absolutely stunned that", start: 1094.95, end: 1115.41}
+  - {text: "mr benjamin netanyahu is choosing to deny this event it's just remarkable and very very upsetting to hear the word allegedly at such a time my mom is beyond offended by", start: 1115.93, end: 1129.35}
+  - {text: "that statement and so am i michael just one more personal question you said that your mother's had a hand operation do you think that's going to affect her ability to continue working luckily it's on her left hand", start: 1129.35, end: 1140.47}
+  - {text: "and so it won't you know affect her ability to operate her camera as much but i can tell you even if it did she would find a way out my mother is unstoppable", start: 1140.47, end: 1150.93}
+  - {text: "and she will continue doing her work that was michael millner son of the american journalist heidi levine a verdict is expected to be delivered soon for a kenyan doomsday cult leader accused of murdering 191 children", start: 1150.93, end: 1169.41}
+  - {text: "pastor paul mckenzie led hundreds of his followers into a forest near the kenyan coast where they were told to starve themselves to death in order to meet jesus more than 400 bodies were found", start: 1170.09, end: 1182.33}
+  - {text: "and authorities say 600 people are missing our africa correspondent thomas mcquana reports and a warning this report contains disturbing details pastor paul mckenzie preaching in southern kenya in 2019", start: 1182.33, end: 1202.73}
+  - {text: "he's telling followers in a parked tent that the end times are coming that they should shun modern medicine and education and that the devil had infiltrated modern life hundreds of people in plastic chairs watch and applaud but", start: 1203.81, end: 1220.79}
+  - {text: "soon he'd ask his followers to move from the church into somewhere much more remote he began to tell them to move to shaka hola forest", start: 1221.75, end: 1232.39}
+  - {text: "a barren dry piece of land about an hour's drive in from the coast mcquenzie told them that if they fasted to death they would meet jesus hundreds followed and hundreds died in one of the worst culture related mass deaths in history", start: 1233.11, end: 1250.75}
+  - {text: "i am now in shaka hola forest this is where mckenzie set up his camp and led hundreds of people to their death hundreds of people starve themselves in here", start: 1256.54, end: 1266.60}
+  - {text: "and looking around there isn't much happening mostly dead trees and you can hear goats bleating in the distance but it's hard to understand how someone would choose to live here it's even harder to understand why someone would choose to die here there", start: 1266.80, end: 1285.37}
+  - {text: "were so many bodies the police hired locals to dig them up motorcycle rider jaffa tells me some of the bodies were so decomposed they were like porridge", start: 1289.24, end: 1302.80}
+  - {text: "salam says he once accidentally scraped off someone's nose when digging one grave had 12 children in it he said 48 -year -old security guard steve mwiti lived with his pregnant wife and five kids in a tiny house in nearby malindi he", start: 1306.64, end: 1328.22}
+  - {text: "told me she took them all to the forest after hearing mckenzie preach on tv she was the only one who survived every time i walk and see children i see the faces of my dead kids", start: 1328.83, end: 1344.93}
+  - {text: "but it's too late because i know they're dead sometimes i can't sleep if pasta mckenzie was in front of you right now what would you tell him", start: 1345.84, end: 1355.67}
+  - {text: "if i met pasta mckenzie one of us would have to die sometimes i ask myself why am i alive i just can't i met pete shukrani a 23 -year -old who says he was 8 when he joined mckenzie's church", start: 1359.30, end: 1383.93}
+  - {text: "pete was almost dying when he was rescued from the forest but he remains a follower i still love him and i still think of him as my pasta", start: 1384.83, end: 1395.21}
+  - {text: "if he committed murder in front of you would you put that change how you feel about him no because i never saw or heard that he did anything bad", start: 1396.30, end: 1408.30}
+  - {text: "the remains of over 400 of mckenzie's followers are being preserved in refrigerated containers at malindi morgue just a few days ago as the sound of intense prayer for my nearby church filled the air eight more bodies were released to their families for", start: 1413.30, end: 1432.46}
+  - {text: "those who lost family members in this tragedy nothing can bring them back but some are hoping that today's verdict will bring some small measure of closure thomas", start: 1435.24, end: 1446.36}
+  - {text: "mcquana reporting finally somewhere in a warehouse there are boxes of sports clothing sitting untouched collecting dust it's difficult to sell all these professional kits and they often end up in landfills", start: 1449.40, end: 1463.08}
+  - {text: "or destroyed but a new project is hoping to give them a second life hundreds of items from team gb the british olympic squad will be", start: 1463.08, end: 1472.22}
+  - {text: "sold online with the proceeds going to charity it's the brainchild of joanna chikovna who set up five thread she spoke to my colleague james menendez about the project starting with why there's", start: 1472.22, end: 1483.80}
+  - {text: "so much spare stock it's because so much of it is produced about two years in advance that's way before you know which athletes are going to be competing in the games", start: 1483.80, end: 1492.74}
+  - {text: "and so you have to have enough for every eventuality so this can lead to 20 to 40 percent overordering of excess stock people just don't know what to do with this", start: 1492.74, end: 1502.64}
+  - {text: "so organizations of course will store this stock but a lot of it they are prohibited from reusing some of the time or they simply haven't got the pathways to be able to reuse it sometimes that's", start: 1502.64, end: 1513.08}
+  - {text: "because of ip so intellectual property sometimes it's to do with performance and innovation you know they don't necessarily want this product to be reused also you've got to think about the sensitivity of the athletes for example", start: 1513.08, end: 1526.20}
+  - {text: "if you've got if you trained all your life to be in the olympics and part of that is that you get this team kit that you get to wear at", start: 1526.20, end: 1532.42}
+  - {text: "that event you know there's something quite precious about that and then if it is simply kind of reused or you can buy it anyway anywhere does", start: 1532.42, end: 1539.04}
+  - {text: "that take away from all of the work that you've done do you think though that athletes would really mind especially if it was a couple of years later", start: 1539.04, end: 1546.64}
+  - {text: "if that kit was given to charities or youth clubs you know kids who could wear it what we know is that a lot of families", start: 1546.64, end: 1553.44}
+  - {text: "tell us they can't afford to buy kit in order for those kids to play so we have to break down those barriers to participation and for me", start: 1553.44, end: 1561.92}
+  - {text: "when you've got kit that is ultimately being destroyed for example in football 60 percent of all professional football kit is incinerated so we're literally setting this product on fire", start: 1561.92, end: 1571.80}
+  - {text: "and you've got kids who can't afford to play surely there's got to be a better way to to look at that problem do you have any estimate at all", start: 1571.80, end: 1579.16}
+  - {text: "overall how much kit we're talking about that doesn't get used that's either stored in boxes or is destroyed for example if we take a tournament like the world cup it was estimated", start: 1580.44, end: 1590.36}
+  - {text: "that 20 million kits this year went to waste after the world cup but we know for example there's 100 ,000 tons of sportswear that goes to land for every year", start: 1590.36, end: 1599.42}
+  - {text: "so that's just the tip of the iceberg so what exactly is it that you're trying to do with this partnership so this is Team GB clothing is it yes there is a number of items", start: 1599.42, end: 1609.84}
+  - {text: "that are already on these websites essentially as those items are bought by people who need them more will go on the site and the great thing about this is a lot of the time the money", start: 1609.84, end: 1619.34}
+  - {text: "that is generated from those sales actually goes towards the sports organization's trust or it goes towards charities so there's a real win -win here that was Joanna Chicova speaking to James Menendez", start: 1619.34, end: 1631.52}
+  - {text: "and that's all from us for now if you want to get in touch you can email us at globalpodcast .bbc .co .uk you can also", start: 1634.20, end: 1641.08}
+  - {text: "find us on x at BBC World Service use the hashtag global news pod don't forget our sister podcast the global story this edition of the global news podcast was mixed by Chris Lovelock", start: 1641.08, end: 1653.40}
+  - {text: "and the producer was Ruby Gleason the editor is Karen Martin and I'm Charlotte Gallagher until next time goodbye", start: 1653.40, end: 1659.20}
+---
