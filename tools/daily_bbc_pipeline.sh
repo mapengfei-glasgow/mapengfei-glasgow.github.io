@@ -61,6 +61,15 @@ if [ -z "${WORD_NOTES_API_KEY:-}" ] && [ -r "$HOME/.sglang_api_key" ]; then
     WORD_NOTES_API_KEY="$(cat "$HOME/.sglang_api_key")"
     export WORD_NOTES_API_KEY
 fi
+# Where [[word]] definitions come from. sglang-qwen (port 30000) is the usual
+# model for the A2 notes, but on 2026-10-21 it could not start at all — a GPU was
+# partly occupied, so the mamba state cache came out as max_num_reqs=0 — and word
+# notes must not depend on that. Ollama serves the same OpenAI-compatible shape,
+# needs no key, and tolerates the Bearer header above. Point these back at
+# http://127.0.0.1:30000/v1/chat/completions / Qwen3.8-27B-FP8 once sglang is healthy.
+WORD_NOTES_ENDPOINT="${WORD_NOTES_ENDPOINT:-http://127.0.0.1:11434/v1/chat/completions}"
+WORD_NOTES_MODEL="${WORD_NOTES_MODEL:-qwen3:30b-a3b}"
+export WORD_NOTES_ENDPOINT WORD_NOTES_MODEL
 
 LOG_DIR="$ROOT/work/logs"
 mkdir -p "$LOG_DIR"
@@ -294,7 +303,13 @@ run_word_notes() {
     # Generated from the site checkout's own copy of the tool, because ROOT is
     # derived from the script's location: tools/ under .migration has no
     # content/ or data/ next to it (english-site is the checkout).
-    ensure_qwen || return 1
+    # sglang is the only backend that has to be started on demand (and stopped
+    # again by release_qwen); Ollama runs as its own always-on service, so an
+    # endpoint elsewhere needs no ensure_qwen — which matters while sglang is
+    # unstartable, since ensure_qwen would just spin on a crash loop.
+    case "$WORD_NOTES_ENDPOINT" in
+        *:30000/*) ensure_qwen || return 1 ;;
+    esac
     cd "$SITE" || return 1
     log "word notes: generating definitions for newly marked words"
     "$PY" tools/build_word_notes.py || return 1

@@ -79,8 +79,17 @@ lives — so `tools/daily_bbc_pipeline.sh` (the `bbc-daily.timer` unit) runs
 
 It is checked on *every* run, not only when an episode was published, because
 marks are added to old pages too. It is also cheap when idle: the pending check
-is a `--dry-run`, which needs no model, so the 27B server is started only when a
-term is actually waiting. A run with `SKIP_NOTES=1` skips this stage as well.
+is a `--dry-run`, which needs no model, so nothing is started unless a term is
+actually waiting. A run with `SKIP_NOTES=1` skips this stage as well.
+
+**Which model.** The stage defaults to Ollama's `qwen3:30b-a3b`
+(`http://127.0.0.1:11434/v1/chat/completions`), not the sglang server the A2
+notes use: on 2026-10-21 sglang-qwen could not start at all — a partly occupied
+GPU left the mamba state cache at `max_num_reqs=0` — and word notes must not
+depend on that. Ollama needs no key and stays up on its own, so the stage never
+has to start (or leak) an inference server. Set `WORD_NOTES_ENDPOINT` /
+`WORD_NOTES_MODEL` to switch back to `http://127.0.0.1:30000/v1/chat/completions`
+and `Qwen3.8-27B-FP8` once sglang is healthy.
 
 The cost is up to one timer interval. To make a mark take effect immediately,
 run the builder before pushing:
