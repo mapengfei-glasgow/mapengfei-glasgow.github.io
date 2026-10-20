@@ -61,7 +61,10 @@
     const all = await notesPromise;
     if (location.pathname !== url) return;
     const notes = all[url] || {};
-    document.querySelectorAll('.post-content, .md-content').forEach(root => {
+    // Episode pages keep their sentences in front matter and render them as
+    // <ol class="sentences"><li class="sentence"><span class="text">…</span>,
+    // so their markers never sit inside a .post-content body.
+    document.querySelectorAll('.post-content, .md-content, .sentences .text').forEach(root => {
       const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, { acceptNode(node) {
         return node.parentElement.closest('a,button,code,pre,script,style,textarea,.katex,mjx-container') ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT;
       }});

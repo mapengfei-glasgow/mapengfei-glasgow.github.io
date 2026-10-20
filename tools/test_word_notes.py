@@ -13,6 +13,33 @@ class WordNotesTests(unittest.TestCase):
         text = '---\ntitle: "[[Ignore]]"\n---\nThe [[Ottoman Empire]] fell.\n\n```text\n[[skip]]\n```\n\nUse `[[code]]` and [[aspiring]].'
         self.assertEqual(set(notes.marked_terms(text)), {'Ottoman Empire', 'aspiring'})
 
+    def test_markers_read_from_episode_sentences(self):
+        # Episode pages have no body: the transcript lives in front matter as
+        # one-line flow mappings, which is where [[terms]] have to be found.
+        text = (
+            '---\n'
+            'title: "A [[title]] title"\n'
+            'sentences:\n'
+            '  - {text: "The [[curfew]] began at dusk.", start: 0.0, end: 2.5, zh: "宵禁开始了。"}\n'
+            '  - {text: "He said \\"stop\\" and left.", start: 3.0, end: 4.0}\n'
+            '---\n'
+        )
+        terms = notes.marked_terms(text)
+        self.assertEqual(set(terms), {'curfew'})
+        # The context is the sentence with the markers removed, and the escaped
+        # quote in the neighbouring sentence must not swallow the match.
+        self.assertEqual(terms['curfew'], 'The curfew began at dusk.')
+
+    def test_episode_sentences_and_body_together(self):
+        text = (
+            '---\n'
+            'sentences:\n'
+            '  - {text: "A [[curfew]] applies.", start: 0.0, end: 1.0}\n'
+            '---\n'
+            'Body prose with [[aspiring]].'
+        )
+        self.assertEqual(set(notes.marked_terms(text)), {'curfew', 'aspiring'})
+
     def test_cache_context_and_failure(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)

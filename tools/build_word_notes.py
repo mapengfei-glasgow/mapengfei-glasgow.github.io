@@ -10,13 +10,40 @@ import urllib.request
 
 ROOT = Path(__file__).resolve().parents[1]
 MARKER = re.compile(r'\[\[([^\[\]\n]{1,120})\]\]')
+FRONT_MATTER = re.compile(r'\A---\n(.*?)\n---', re.S)
+# Episode pages keep their transcript in front matter and leave the body empty,
+# so their [[terms]] live inside `sentences[].text`. make_episode.py writes each
+# sentence as a one-line flow mapping, which is recoverable without a YAML
+# parser (this script stays stdlib-only):
+#   - {text: "…", start: 0.0, end: 2.78, explain: "…", zh: "…"}
+SENTENCE_LINE = re.compile(r'^\s*-\s*\{text:\s*"((?:[^"\\]|\\.)*)"\s*,', re.M)
+
+
+def _unquote(raw):
+    """Undo the JSON-style escaping make_episode.py puts on text values."""
+    try:
+        return json.loads(f'"{raw}"')
+    except ValueError:
+        return raw
 
 
 def marked_terms(text):
+    found = {}
+    # Sentences first: an episode page has no body at all, so skipping front
+    # matter would mean no episode could ever carry a marked word. Metadata
+    # fields (title, description) stay ignored — they are not prose.
+    front = FRONT_MATTER.match(text)
+    if front:
+        for raw in SENTENCE_LINE.findall(front.group(1)):
+            context = MARKER.sub(lambda m: m[1].strip(), _unquote(raw)).strip()[:2500]
+            for match in MARKER.finditer(raw):
+                term = match[1].strip()
+                if term:
+                    found.setdefault(term, context)
+
     text = re.sub(r'\A(?:---\n.*?\n---|\+\+\+\n.*?\n\+\+\+)\s*', '', text, flags=re.S)
     text = re.sub(r'(?m)^\s*(`{3,}|~{3,}).*?^\s*\1\s*$', '', text, flags=re.S)
     text = re.sub(r'`[^`\n]*`', '', text)
-    found = {}
     for block in re.split(r'\n\s*\n', text):
         for match in MARKER.finditer(block):
             term = match[1].strip()

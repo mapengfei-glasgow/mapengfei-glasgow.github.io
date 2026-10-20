@@ -63,5 +63,28 @@
       "explanation": "A country in central Europe; in this passage, a neutral country during World War I.",
       "context": "So if you’re an aspiring student or an aspiring writer or artist and you don’t want to be brutally murdered in an insane war or in social unrest, then Zurich is a pretty good bet. Switzerland, of course, is neutral."
     }
+  },
+  "episodes/2026-10-20-france-halts-protests-with-curfew-crackdown.md": {
+    "Curfews": {
+      "pronunciation": "/ˈkɜːrfjuːz/",
+      "part_of_speech": "noun",
+      "meaning": "宵禁",
+      "explanation": "A rule requiring people to stay indoors after a specific time, often used to maintain order during public disturbances.",
+      "context": "Curfews have been in place in several French cities to prevent more disorder after days of violent unrest and it's spreading across Europe."
+    },
+    "looting": {
+      "pronunciation": "ˈluː.tɪŋ",
+      "part_of_speech": "noun",
+      "meaning": "抢劫",
+      "explanation": "The act of stealing goods, especially during a riot or public disorder.",
+      "context": "and looting that rocked the country over the weekend."
+    },
+    "livelihood": {
+      "pronunciation": "",
+      "part_of_speech": "noun",
+      "meaning": "生计",
+      "explanation": "The way a person earns money to support themselves and their family, typically through work.",
+      "context": "He told us he'd lost his livelihood."
+    }
   }
 }
