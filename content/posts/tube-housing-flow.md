@@ -93,13 +93,37 @@ $Q=\int_A u_z\,\mathrm dA$。在相同外加压差下，局部开口可能使流
 
 disc 为 P1 四面体，每个单元只有一个有效积分点，因此 3,523 个非正积分点对应 3,523 个翻转单元。补查 2.2 s 帧时已有 139 个翻转单元，不能把 5 s 正常退出当作网格稳定的证据。纯管道的最终帧没有翻转，但也不能据此证明全过程无翻转、完全刚性或空间收敛。
 
-## 5. 下载与复现
+## 5. Git commit 与复现命令
 
-[下载图表、原始探针 CSV、命令、校验记录和源码补丁（ZIP）](/data/tube-housing-20261020/tube-housing-results.zip)。也可单独查看 [纯管道输入校验清单](/data/tube-housing-20261020/tube/MESH_SHA256.json)、[tube+disc 输入校验清单](/data/tube-housing-20261020/tube-disc/MESH_SHA256.json) 和 [源码版本](/data/tube-housing-20261020/reproduction/REVISIONS.json)。
+| 仓库 | 本页复现所用 commit |
+|---|---|
+| 工作区与辅助脚本 | [`8d62fddae5d8ceab8c34cfdc3890261c0fe52419`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/commit/8d62fddae5d8ceab8c34cfdc3890261c0fe52419) |
+| GPU 求解器 | [`f096f922fd5ef2bbd8c6be6c3f9673d504c78b8a`](https://github.com/mapengfei-glasgow/fdm-3d-v1-gpu/commit/f096f922fd5ef2bbd8c6be6c3f9673d504c78b8a) |
+| CPU 头文件依赖 | `2868a7a9463693880e7e7b6552cd6d512261a5ca` |
+| geometry 仓库 | `20ac3992f7fdd198b9595486dba25da43bd1393e` |
 
-**复现前提：**保留的两组输入网格及 CUDA 构建环境。下载包不含完整网格、全部 VTI/固体快照或二进制。`glamv_hex_r2` 是生成数据，单凭仓库提交号不能恢复输入；应核对上述网格 SHA256。已有原始 R2 数据时，可使用包内两份 `prepare_glamv_*.py` 提取脚本；其路径按原工作区布局设置，移植时需调整。
+**输入前提：**已有原始 `fdm-3d-v1-geometry/src/ibm/data/glamv_hex_r2/` 数据。该目录是生成数据，不由上述 commit 单独恢复。本页只发布图文、commit 和命令，不提供网格、探针文件或结果压缩包。
 
-将 GPU 仓库检出到下载包 `REVISIONS.json` 指定提交，再在 GPU 仓库中应用 `reproduction/gpu.patch`。与 `fdm-3d-v1`、`fdm-3d-v1-geometry` 放在同级目录，安装 CMake、兼容的 CUDA/C++ 编译器及 HDF5 等依赖后，从工作区根目录构建：
+### 5.1 检出与网格提取
+
+在独立目录中执行，避免覆盖已有计算。CUDA、兼容的 C++ 编译器、CMake、HDF5 等依赖应已安装。
+
+```bash
+git clone --branch research/pipe-end-boundaries-20261019 \
+  https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace.git tube-workspace
+cd tube-workspace
+git checkout 8d62fddae5d8ceab8c34cfdc3890261c0fe52419
+git submodule update --init --recursive
+
+# 将保留的原始 glamv_hex_r2 数据放入 geometry 仓库对应目录后：
+mkdir -p runs/glamv_tube_only_20261019
+OPENBLAS_NUM_THREADS=1 python3 scripts/simulations/prepare_glamv_tube_only.py
+OPENBLAS_NUM_THREADS=1 python3 scripts/simulations/prepare_glamv_tube_housing.py
+```
+
+两个提取脚本拒绝覆盖已有输出。分别生成 `runs/glamv_tube_only_20261019/tube_R2_Q1/` 和 `runs/glamv_tube_housing_20261020/mesh/`。输出目录内的 `VALIDATION.json` 记录单元数、体积和参考映射检查。
+
+### 5.2 构建与运行
 
 ```bash
 cmake -S fdm-3d-v1-gpu -B build-tube \
@@ -107,20 +131,61 @@ cmake -S fdm-3d-v1-gpu -B build-tube \
   -DCMAKE_CUDA_ARCHITECTURES=native \
   -DFDM3D_GPU_FMAD=ON
 cmake --build build-tube --target tube_flow_scale -j2
+
+export OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=2 DSH_PERF_LEVEL=0
+mkdir -p runs/reproduce_20261020
+
+# Bash 数组：两组共同参数。输出目录须为新目录。
+common=(--gpu-coupling --N 64 --nx 64 --ny 64 --nz 96
+  --domain 8.6,8.6,16.09938 --reference-center 0,0,0
+  --rin 3.5 --nu 0.04 --pmax 6.6661 --ramp 0.01
+  --T 5 --dt 0.0005 --beta-body 1e5 --mu 0 --lambda 0
+  --every 200 --probe-every 200)
+
+./build-tube/tube_flow_scale "${common[@]}" \
+  --data runs/glamv_tube_only_20261019/tube_R2_Q1/ \
+  --out runs/reproduce_20261020/tube/
+
+./build-tube/tube_flow_scale "${common[@]}" \
+  --data runs/glamv_tube_housing_20261020/mesh/ \
+  --out runs/reproduce_20261020/tube-disc/
 ```
 
-下载包的 `replay.py` 读取实际运行命令，只替换可执行文件、输入网格和输出路径。先不加 `--run` 检查命令，确认后加上该参数运行：
+共同参数显式固定计算域与参考中心；纯管道也使用这一等价设置。该 commit 包含后续可选 Sarah 应力和 J 惩罚接口，但以上命令**均未启用**，对应本页的纯 tethering 对照。不同 GPU、编译器及原子累加顺序可能带来舍入差异。
+
+### 5.3 绘图
+
+先检查 disc 的最终网格，并保存绘图警示所需的审计记录：
 
 ```bash
-python3 reproduction/replay.py --case tube \
-  --binary /path/to/build-tube/tube_flow_scale \
-  --mesh /path/to/tube_R2_Q1 --out /path/to/new-tube-run --run
-
-python3 reproduction/replay.py --case tube-disc \
-  --binary /path/to/build-tube/tube_flow_scale \
-  --mesh /path/to/tube-housing-mesh --out /path/to/new-disc-run --run
+python3 - <<'PYCODE'
+from pathlib import Path
+import json
+from scripts.diagnostics.audit_tube_housing_final import evaluate
+result = evaluate("runs/reproduce_20261020/tube-disc",
+                  "runs/glamv_tube_housing_20261020/mesh", 10000, 0.0005)
+Path("runs/reproduce_20261020/FINAL_GEOMETRY_AUDIT.json").write_text(
+    json.dumps(result, indent=2))
+print(json.dumps(result, indent=2))
+PYCODE
 ```
 
-两组命令均使用 `--gpu-coupling`，未开启后续的 `--sarah-wall-stress` 或 J 惩罚。不同 GPU、编译器及原子累加顺序可能带来舍入差异。绘图用包内 PyVista 脚本；绘图和网格审计脚本仍按原工作区路径组织，脱离该布局使用时需调整路径。
+安装 NumPy、PyVista、VTK 和 Matplotlib 后，在同一工作区执行：
+
+```bash
+export PYVISTA_OFF_SCREEN=true
+
+python3 scripts/visualization/plot_glamv_tube_lowpressure_gpu.py \
+  --run "$PWD/runs/reproduce_20261020/tube" \
+  --out "$PWD/exports/reproduce_tube/sections"
+
+python3 scripts/visualization/plot_glamv_tube_lowpressure_gpu.py \
+  --run "$PWD/runs/reproduce_20261020/tube-disc" \
+  --out "$PWD/exports/reproduce_tube_disc/sections" \
+  --mesh-data "$PWD/runs/glamv_tube_housing_20261020/mesh" \
+  --tube-reference "$PWD/runs/reproduce_20261020/tube"
+```
+
+绘图脚本读取 5 s 的 `fluid_010000.vti` 与 `Xc_010000.bin`；几何检查使用 `scripts/diagnostics/audit_tube_housing_final.py` 中的 `evaluate(run, mesh, step, dt)`。图片只能辅助观察，应以 J 和位移检查判断网格是否仍有效。
 
 本页的用途是建立可检查的 tube/tube+disc 对照，并记录当前离散方法的限制。后续参数测试不替代这里的原始结果。
