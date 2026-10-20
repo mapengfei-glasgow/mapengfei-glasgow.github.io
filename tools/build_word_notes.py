@@ -16,7 +16,27 @@ FRONT_MATTER = re.compile(r'\A---\n(.*?)\n---', re.S)
 # sentence as a one-line flow mapping, which is recoverable without a YAML
 # parser (this script stays stdlib-only):
 #   - {text: "…", start: 0.0, end: 2.78, explain: "…", zh: "…"}
-SENTENCE_LINE = re.compile(r'^\s*-\s*\{text:\s*"((?:[^"\\]|\\.)*)"\s*,', re.M)
+#
+# A second form is accepted because a mark may be written on another machine,
+# and an editor or a YAML formatter can rewrite the list as block style:
+#   - text: "…"
+#     start: 0.0
+# Missing that would leave a marked word looking fine on the page but never
+# generating a definition — the one failure mode that is hard to notice.
+SENTENCE_TEXT = (
+    re.compile(r'^\s*-\s*\{text:\s*"((?:[^"\\]|\\.)*)"\s*,', re.M),   # flow
+    re.compile(r'^\s*(?:-\s*)?text:\s*"((?:[^"\\]|\\.)*)"[ \t]*\r?$', re.M),  # block
+)
+
+
+def _sentence_texts(front: str):
+    """Every `sentences[].text` value in the front matter, in either form."""
+    seen = []
+    for pattern in SENTENCE_TEXT:
+        for raw in pattern.findall(front):
+            if raw not in seen:
+                seen.append(raw)
+    return seen
 
 
 def _unquote(raw):
@@ -34,7 +54,7 @@ def marked_terms(text):
     # fields (title, description) stay ignored — they are not prose.
     front = FRONT_MATTER.match(text)
     if front:
-        for raw in SENTENCE_LINE.findall(front.group(1)):
+        for raw in _sentence_texts(front.group(1)):
             context = MARKER.sub(lambda m: m[1].strip(), _unquote(raw)).strip()[:2500]
             for match in MARKER.finditer(raw):
                 term = match[1].strip()

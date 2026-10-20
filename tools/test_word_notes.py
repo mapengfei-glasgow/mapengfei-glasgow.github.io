@@ -40,6 +40,38 @@ class WordNotesTests(unittest.TestCase):
         )
         self.assertEqual(set(notes.marked_terms(text)), {'curfew', 'aspiring'})
 
+    def test_block_style_sentences(self):
+        # Editing on another machine (or a YAML formatter) may rewrite the list
+        # from flow style to block style; both have to be recognised or a marked
+        # word silently never gets a definition.
+        text = (
+            '---\n'
+            'sentences:\n'
+            '  - text: "The [[curfew]] began at dusk."\n'
+            '    start: 0.0\n'
+            '    end: 2.5\n'
+            '    zh: "宵禁开始了。"\n'
+            '  - text: "and [[looting]] followed."\n'
+            '    start: 3.0\n'
+            '    end: 4.0\n'
+            '---\n'
+        )
+        terms = notes.marked_terms(text)
+        self.assertEqual(set(terms), {'curfew', 'looting'})
+        self.assertEqual(terms['curfew'], 'The curfew began at dusk.')
+
+    def test_flow_and_block_together_do_not_duplicate(self):
+        text = (
+            '---\n'
+            'sentences:\n'
+            '  - {text: "A [[curfew]] applies.", start: 0.0, end: 1.0}\n'
+            '  - text: "A [[curfew]] again."\n'
+            '    start: 2.0\n'
+            '---\n'
+        )
+        # First occurrence wins, and the term appears once.
+        self.assertEqual(notes.marked_terms(text), {'curfew': 'A curfew applies.'})
+
     def test_cache_context_and_failure(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
