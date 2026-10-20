@@ -1,0 +1,4 @@
+<aside class="review-note{{ if eq (.Get "level") "concern" }} review-note-concern{{ end }}" role="note">
+  <p class="review-note-title"><strong>{{ .Get "title" | default "Unresolved — interpretation requires verification" }}</strong></p>
+  {{ .Inner | markdownify }}
+</aside>

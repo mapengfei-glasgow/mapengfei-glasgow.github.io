@@ -369,3 +369,41 @@
 .post-content .lv-next-steps :is(h3, p, strong, em, a, code) {
     color: inherit;
 }
+
+/* Draft results: retain visible text labels as well as review colours. */
+.post-content .review-note {
+    color: #713f12;
+    background: #fffbeb;
+    border-left: 4px solid #d97706;
+    border-radius: 4px;
+    padding: .85rem 1rem;
+    margin: 1rem 0 1.3rem;
+    text-align: left;
+    overflow-wrap: anywhere;
+}
+.post-content .review-note-concern {
+    color: #881337;
+    background: #fff1f2;
+    border-left-color: #e11d48;
+}
+.dark .post-content .review-note { color: #fde68a; background: #33270f; }
+.dark .post-content .review-note-concern { color: #fecdd3; background: #351a24; }
+.post-content .review-note p { margin: .35rem 0; }
+.post-content .review-note .review-note-title { margin-top: 0; }
+.post-content .result-figure img {
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: none;
+}
+.post-content .result-movie video { display: block; width: 100%; max-width: 100%; }
+.post-content .figure-download { font-size: .85em; margin: .35rem 0 0; text-align: left; }
+@media print {
+    .post-content .review-note { print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+}
+
+.post-content .result-figure figcaption,
+.post-content .result-movie figcaption { font-weight: 400; }
+.post-content .result-figure figcaption strong,
+.post-content .result-movie figcaption strong { font-weight: 700; }

@@ -1,0 +1,5 @@
+<figure class="result-figure" id="figure-{{ .Get "number" }}">
+  <a href="{{ .Get "src" }}"><img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" loading="lazy" decoding="async"></a>
+  <figcaption><strong>Figure {{ .Get "number" }}.</strong> {{ .Get "caption" | markdownify }}</figcaption>
+  {{ with .Get "pdf" }}<p class="figure-download"><a href="{{ . }}">Download PDF</a></p>{{ end }}
+</figure>

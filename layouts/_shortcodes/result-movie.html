@@ -1,0 +1,5 @@
+<figure class="result-movie" id="movie-{{ .Get "id" }}">
+  <video controls preload="none" playsinline {{ with .Get "poster" }}poster="{{ . }}"{{ end }} aria-label="{{ .Get "title" }}"><source src="{{ .Get "src" }}" type="video/mp4"><a href="{{ .Get "src" }}">Download MP4</a></video>
+  <figcaption><strong>{{ .Get "title" }}.</strong> {{ .Get "caption" }}</figcaption>
+  <p class="figure-download"><a href="{{ .Get "src" }}">Download MP4</a></p>
+</figure>

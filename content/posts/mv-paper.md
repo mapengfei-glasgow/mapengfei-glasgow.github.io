@@ -814,33 +814,115 @@ t, G11 (historical P1+Q1 BF), G7 (hex), G5 (tet conf.), 0.0.3 (tet), G64/R0/P1/B
 1.335, 0.044, , 0.045, 0.057, 0.066570, 0.030804, 0.061783, 0.006188, 0.006826, 0.007552, 0.003687
 {{< /chart >}}
 
+#### Completed-case figures generated on 19 October 2026
+
+[Figure 4](#figure-4) adds the retained completed G128 cases to the flow comparison;
+[Figure 5](#figure-5) compares outlet backflow and exterior speeds, and
+[Figure 6](#figure-6) shows the exterior damping at one saved time.
+The earlier Figures 1–3 retain their historical and failed-run curves; the new completed-case
+plots use the selection and sampling documented in the [figure inventory](/images/mv/RUN_INVENTORY.json).
+
+{{< review-note title="Comparison is not a controlled grid-convergence study" level="" >}}
+G64 and G128 cases differ in stress formulation, added solid viscosity, time step and domain length. Their differences cannot be attributed to spatial resolution alone. The IBAMR curve contains only available partial-cycle samples; it is not a full-cycle reference.
+{{< /review-note >}}
+
+{{< result-figure number="4" src="/images/mv/fig_mv_flowrate.png" pdf="/images/mv/fig_mv_flowrate.pdf" alt="Lumen flow rate" caption="Lumen flow rate through the plane nearest z=12 cm. Seven G64 configurations, the 0.0.3 reference and three completed G128/R2 cases are shown. Actual planes are recorded per run in RUN_INVENTORY.json. The dashed IBAMR curve contains the available working-paper samples only (through 0.64 s); it is not extrapolated. G128 changes in stress/solid viscosity/domain length preclude interpretation as an isolated grid-convergence study." >}}
+
+{{< result-figure number="5" src="/images/mv/fig_mv_backflow.png" pdf="/images/mv/fig_mv_backflow.pdf" alt="Outlet backflow and exterior speed" caption="(a) Percentage of lumen points with negative axial velocity on the penultimate exported z plane. (b) Maximum speed over 3.73<r<4.3 cm and all z. Radius is measured about (4.3,4.3). G64 and G128 use their own actual outlet-adjacent planes, listed in the inventory. All 11 retained completed cases are shown." >}}
+
+{{< result-figure number="6" src="/images/mv/fig_mv_gap.png" pdf="/images/mv/fig_mv_gap.pdf" alt="Exterior damping" caption="Exterior damping at t=0.30 s. (a) Logarithmic speed map on y=4.3 cm, showing the positive-radial half of the domain. (b) Azimuthal mean speed at z=11.990684 cm. Measured exterior max=0.00215436 cm/s; signed and absolute gap fluxes for 3.8<r<4.3 cm are 0.000131052 and 0.000216216 cm^3/s. These bounds are measured at this time, not imposed or asserted for all times." >}}
+
 ### 5.2 Fluid
 
+The field plots below use the primary G128/R2 CBS43 case with modified stress, zero
+added solid viscosity, $\Delta t=2.5\times10^{-6}$ s and $L_z=16.09938$ cm.
+Saved instants are 0.08, 0.16, 0.64 and 0.90 s, except where the figure caption specifies otherwise.
+These are computed diagnostics from the retained simulation, with interpretation limits marked below.
 
-{{< table-caption "14" "Planned fluid analysis by grid" >}}
+{{< table-caption "14" "Available fluid diagnostics and remaining analysis" >}}
 
-| Analysis | {{< label "grid" "G-64" >}} | {{< label "grid" "G-128" >}} | {{< label "grid" "G-256" >}} | IBAMR |
-|:---|:---|:---|:---|:---|
-| Flow rate vs time (inlet / tube sections) | [Figure 1]({{< relref "mv-paper.md" >}}#figure-1) (~~{{< label "run" "G11" >}}~~, G7, G5, 0.0.3) | | | [Figure 1]({{< relref "mv-paper.md" >}}#figure-1) (to 0.65 s) |
-| Streamlines (opening, peak, closure) | | | | |
-| Vorticity (mid-plane, transverse sections) | | | | |
-| Vortex ring formation and breakdown (large → small eddies) | | | | |
-| Q-criterion iso-surfaces | | | | |
-| Energy dissipation rate $\varepsilon = 2\mu\,\mathbf{S}:\mathbf{S}$ (volume integral vs time) | | | | |
-| Turbulent kinetic energy / spectra downstream of the valve | | | | |
+| Analysis | G64 | G128/R2 | Remaining work |
+|:---|:---|:---|:---|
+| Lumen flow rate | [Figures 1](#figure-1), [4](#figure-4) | [Figure 4](#figure-4) | Matched grid study; full-cycle IBAMR reference |
+| Outlet backflow and exterior speed | [Figures 2](#figure-2), [3](#figure-3), [5](#figure-5) | [Figures 5](#figure-5), [6](#figure-6) | Damping bounds throughout the cycle |
+| Q and lambda-two surfaces | [Movie M3](#movie-m3) | [Figures 7](#figure-7), [9](#figure-9) | Native-grid derivatives and topology convergence |
+| Centre-plane vorticity | [Movie M4](#movie-m4) | [Figure 8](#figure-8) | Other planes and temporal convergence |
+| Instantaneous streamlines | — | [Figure 10](#figure-10) | Pathlines and anatomical transport analysis |
+| Enstrophy and viscous dissipation | — | [Figure 11](#figure-11) | Fluid-only integration and boundary-transient assessment |
+| Velocity power spectrum | — | [Figure 12](#figure-12) | Longer stationary records; no resolved-turbulence claim |
+
+#### Vortex surfaces, vorticity and streamlines
+
+[Figure 7](#figure-7) shows Q-criterion surfaces, [Figure 8](#figure-8) centre-plane
+vorticity, [Figure 9](#figure-9) the lambda-two criterion, and [Figure 10](#figure-10)
+instantaneous streamlines. The early jet-edge pattern and downstream advection are
+qualitatively plausible; the following numerical sensitivity limits their interpretation.
+
+{{< review-note title="Late vortex topology remains unverified" level="" >}}
+The matched G128 time-step cases differ at 0.90 s by 45.4077% in velocity L2 and 102.4355% in signed y-vorticity L2; Q-threshold voxel intersection/union is 0.1846. Instantaneous vortex topology is therefore not demonstrated to be time-step converged. Derivatives are reconstructed from exported averaged MAC velocities; reconstructed divergence is about 10–15% of rms vorticity and is not the pressure-solver residual. See the [results audit]({{< relref "mv-results-audit.md" >}}).
+{{< /review-note >}}
+
+{{< result-figure number="7" src="/images/mv/fig_mv_qcriterion.png" pdf="/images/mv/fig_mv_qcriterion.pdf" alt="Q-criterion vortex surfaces" caption="Q-criterion iso-surfaces at Q=3956.88 s^-2 for t=0.08,0.16,0.64,0.90 s. The fixed level is 10% of the largest positive-Q 90th percentile across these instants in r<3.5 cm, 2<z<14 cm. Surfaces are clipped to that window and coloured by speed, 0–180 cm/s (values above the limit saturate). Camera and scales are fixed. Leaflets/chordae/caps/annulus are gray; tube and housing disc are omitted. Primary G128/R2 modified-stress run; exploratory numerical fields, not validated vortex topology." >}}
+
+{{< result-figure number="8" src="/images/mv/fig_mv_vorticity.png" pdf="/images/mv/fig_mv_vorticity.pdf" alt="Centre-plane vorticity" caption="Signed y-vorticity on the centre plane y=4.3 cm at the same four instants, with fixed limits ±620 s^-1. The displayed window is 2<z<14 cm. Derivatives are second-order finite differences of exported point velocities; x-fastest VTK ordering is respected." >}}
+
+{{< result-figure number="9" src="/images/mv/fig_mv_lambda2.png" pdf="/images/mv/fig_mv_lambda2.pdf" alt="Lambda-two vortex surfaces" caption="Alternative vortex criterion: lambda2=-3580.22 s^-2 iso-surfaces, where lambda2 is the middle eigenvalue of S^2+Omega^2. Same times, spatial window, camera and speed scale as [Figure 7](#figure-7). Fixed negative level based on the negative-lambda2 magnitude distribution, as recorded in FIELD_SETTINGS.json." >}}
+
+{{< result-figure number="10" src="/images/mv/fig_mv_streamlines.png" pdf="/images/mv/fig_mv_streamlines.pdf" alt="Instantaneous streamlines" caption="Instantaneous forward streamlines at t=0.08 and 0.64 s, seeded on a fixed disc at z=7.5 cm, radius 0.15–3.2 cm (6 radial rings, 48 angles). Fourth/fifth-order adaptive Runge–Kutta integration, maximum propagation 30 cm, 3000 steps; initial step 0.05 in VTK default cell-length units. These are instantaneous streamlines, not particle pathlines. Camera/speed scale match [Figure 7](#figure-7)." >}}
+
+#### Enstrophy, dissipation and the velocity spectrum
+
+[Figure 11](#figure-11) reports integral diagnostics and [Figure 12](#figure-12) a probe-based spectrum.
+
+{{< review-note title="Integral and spectral diagnostics are exploratory" level="" >}}
+Full-box integrals include immersed-solid regions and boundary transients. The spectrum uses one nonstationary cycle, sampled at 100 Hz (Nyquist 50 Hz), with 64-sample Welch windows. It does not establish an inertial range or resolved physiological turbulence.
+{{< /review-note >}}
+
+{{< result-figure number="11" src="/images/mv/fig_mv_energy.png" pdf="/images/mv/fig_mv_energy.pdf" alt="Enstrophy and dissipation" caption="Integrated enstrophy (one half of vorticity magnitude squared) and viscous dissipation rate (2 mu S:S), mu=0.04 P. Full Eulerian-box integrals and a lumen window (r<3.5 cm, 2<z<14 cm) are shown, using nodal trapezoidal weights. Full-box values include immersed-solid regions; they are not fluid-only integrals. Boundary transients affect full-box quantities. Exterior contributions are saved separately in energy.csv; no negligible-contribution claim is assumed." >}}
+
+{{< result-figure number="12" src="/images/mv/fig_mv_spectra.png" pdf="/images/mv/fig_mv_spectra.pdf" alt="Exploratory velocity spectrum" caption="Exploratory summed-component velocity PSD, averaged over fixed probes on z≈8 cm with a 0.5 cm transverse grid inside r<3.5 cm. Welch estimate: 64-sample Hann windows, 50% overlap, mean removal, sampling 100 Hz, Nyquist 50 Hz; final irregular 1.335 s sample omitted. The record is a single nonstationary cycle and does not establish a turbulence spectrum or inertial range." >}}
+
+#### Full-cycle animations
+
+The four movies cover all 135 exported frames through 1.335 s. They use fixed cameras,
+contour levels and colour scales. G64 uses original stress, solid-nu=1000,
+$\Delta t=2\times10^{-5}$ s and $L_z=16.2$ cm; G128 uses the primary modified-stress
+case above. The comparison therefore changes several numerical settings.
+
+{{< result-movie id="m1" src="/images/mv/movie_q_iso.mp4" poster="/images/mv/fig_mv_qcriterion.png" title="Movie M1 — G128 Q-criterion" caption="Exploratory diagnostic animation; instantaneous vortex convergence has not been established." >}}
+
+{{< result-movie id="m2" src="/images/mv/movie_vorticity.mp4" poster="/images/mv/fig_mv_vorticity.png" title="Movie M2 — G128 centre-plane vorticity" caption="Exploratory diagnostic animation; instantaneous vortex convergence has not been established." >}}
+
+{{< result-movie id="m3" src="/images/mv/movie_q_iso_64.mp4" poster="" title="Movie M3 — G64 Q-criterion" caption="Exploratory diagnostic animation; instantaneous vortex convergence has not been established." >}}
+
+{{< result-movie id="m4" src="/images/mv/movie_vorticity_64.mp4" poster="" title="Movie M4 — G64 centre-plane vorticity" caption="Exploratory diagnostic animation; instantaneous vortex convergence has not been established." >}}
 
 ### 5.3 Solid
 
+[Figure 13](#figure-13) shows the minimum reported local volume ratio for the retained
+runs. [Figure 14](#figure-14) tracks two deterministic leaflet-node displacement proxies.
 
-{{< table-caption "15" "Planned solid analysis by grid and mesh" >}}
+{{< table-caption "15" "Available solid diagnostics and remaining analysis" >}}
 
-| Analysis | {{< label "grid" "G-64" >}} / {{< label "mesh" "R0/P1+Q1" >}} | {{< label "grid" "G-128" >}} / {{< label "mesh" "r1" >}} | {{< label "grid" "G-256" >}} / {{< label "mesh" "r2" >}} | IBAMR |
-|:---|:---|:---|:---|:---|
-| Leaflet displacement (tip, belly) vs time | | | | |
-| Orifice area vs time | | | | |
-| Stress (first principal / von Mises) at peak opening and closure | | | | |
-| Volume change, $J$ range (all cells / leaflets) | | | | |
-| Chordae tension vs time | | | | |
+| Analysis | Available result | Status and remaining work |
+|:---|:---|:---|
+| Local volume ratio | [Figure 13](#figure-13); [active-solid audit](/data/mv-audit-20261019/mv-vortex-active-solid-extremes.json) | Severe active chordal deformation; total solid-volume error is a separate quantity |
+| Leaflet displacement | [Figure 14](#figure-14) | Selected-node proxies; anatomical free-edge tips not independently identified |
+| Orifice area | — | Not yet supplied in this figure set |
+| Principal/von Mises stress | — | Not yet supplied in this figure set |
+| Chordae tension | — | Not yet supplied in this figure set |
+
+{{< review-note title="Major concern \u2014 active chordal volume changes" level="concern" >}}
+The completed primary G128 case has active marginal-chordal children with J=0.118995 and 9.931819 at 1.10 s, and another child reaches J=10.734314 at 1.27 s (original parent 2096, marker 200). These positive Jacobians still represent severe volume changes in active tissue. Completion does not establish near-incompressibility or a validated physiological solution.
+{{< /review-note >}}
+
+{{< result-figure number="13" src="/images/mv/fig_mv_jmin.png" pdf="/images/mv/fig_mv_jmin.pdf" alt="Minimum local volume ratio" caption="Minimum local J from solid_stats.csv for G64 P2/R1/R2 and the completed G128/R2 cases. The minimum includes all reported cells, including passive-rim cells, and is sampled at exported times; it is not total solid-volume error. The G64/R2 minimum near 0.89 s is annotated." >}}
+
+{{< review-note title="Displacement proxies and volume metrics need careful interpretation" level="" >}}
+For each leaflet, the node with the largest absolute axial displacement between 0 and 0.64 s is selected and tracked. These are reproducible displacement proxies, not independently identified anatomical tips. The minimum J plot includes all reported cells, including passive-rim cells; the active-cell audit above is a separate reconstruction.
+{{< /review-note >}}
+
+{{< result-figure number="14" src="/images/mv/fig_mv_tipdisp.png" pdf="/images/mv/fig_mv_tipdisp.pdf" alt="Leaflet displacement proxies" caption="Displacement components of two deterministic leaflet-node proxies in the primary G128 run. For AML and PML separately, select the leaflet node with largest absolute axial displacement between t=0 and 0.64 s, then track that same node at every frame. This is not an independently identified anatomical free-edge tip. Candidate IDs and reference positions are in TIP_NODES.json; no trajectory smoothing or favourable-node selection was applied." >}}
 
 ## 6. Discussion
 
@@ -848,13 +930,27 @@ t, G11 (historical P1+Q1 BF), G7 (hex), G5 (tet conf.), 0.0.3 (tet), G64/R0/P1/B
 
 [G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}) records the completed modified-stress cases, the finer-tube failure, local MFAC, reference-mesh quality and vortex sensitivity. The G128/R2 zero-solid-viscosity runs at dt=2.5e-6 and 5e-6 s completed, but active chordal J ranges approximately from 0.119 to 10.734 across sampled states. Completion and similar flow curves therefore do not establish near-incompressibility or converged vortex topology. Refining tube/disc spacing further did not prevent the inlet-boundary failure at 0.89 s.
 
+{{< review-note title="Unresolved — inlet-boundary feedback and mesh quality" >}}
+The finer tube/disc case has its first saved inlet-wall crossing at 0.59 s, reaches an
+inlet peak speed of 1044.83 cm/s at 0.88 s, and reports NaNs at 0.89 s. The completed
+R2 reference also has an inlet transient (approximately 659 cm/s at 0.92 s).
+These observations support investigating boundary-adjacent fluid/solid feedback;
+they do not locate the exact first nonfinite operation or prove a mathematical singularity.
+
+Initial R2 housing-disc edge ratios reach MFAC=1.577, and the minimum reference hex
+scaled Jacobian is 0.0404. Refining tube/disc spacing alone did not resolve the failure.
+End-ring constraints, boundary-compatible coupling and targeted mesh-quality improvement
+are proposed controls, not completed fixes. Details and definitions are in the
+[results audit]({{< relref "mv-results-audit.md" >}}).
+{{< /review-note >}}
+
 ### Earlier G64 observations
 
 Key findings so far (coarsest pair {{< label "mesh" "R0/P1+Q1 @ G-64" >}}, 2026-10-14):
 
 1. **The hybrid hex/tet IBAMR mesh can run a full cycle on the GPU, but not reliably** (~~{{< label "run" "G11" >}}~~: 1.335 s in
    10.6 min, 9.5 ms/step, 82 % of it in the fluid solver, $J_{\min} = 0.36$, once; three reruns fail at $t \approx 0.86$–0.92 s at the inlet
-   edge). The first cycle is reproducible and $\Delta t$-independent.
+   edge). The earlier first-cycle bulk-flow comparison was reproducible across the tested time steps; it does not establish time-step convergence of local gradient fields.
 2. **The fluid outside the tube stays at rest** (gap mask + passive rim): gap flux ≤ 0.013 cm³/s and speeds ≤ 0.074 cm/s
    outside the wall over the whole cycle, and the lumen flux is conserved along the tube to 0.36 %, despite tube-wall
    MFAC 1.6.
