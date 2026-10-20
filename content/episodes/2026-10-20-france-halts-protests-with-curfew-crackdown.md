@@ -1,0 +1,260 @@
+---
+layout: single
+title: "France halts protests with curfew crackdown"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-20T00:00:00Z
+slug: "2026-10-20-france-halts-protests-with-curfew-crackdown"
+audioDir: "2026-10-20-france-halts-protests-with-curfew-crackdown"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-20-france-halts-protests-with-curfew-crackdown/episode.mp3"
+totalDuration: 1571.3
+sentences:
+  - {text: "This is the Global News Podcast from the BBC, Wild Service.", start: 0.00, end: 2.78}
+  - {text: "Hi, I'm Uncle Desai and in the early hours of Tuesday, the 20th of October, these are our main stories.", start: 5.24, end: 10.96}
+  - {text: "Curfews have been in place in several French cities to prevent more disorder after days of violent unrest and it's spreading across Europe.", start: 11.74, end: 19.72}
+  - {text: "In Albania, protests are into their seventh day.", start: 20.14, end: 22.60}
+  - {text: "Also in this podcast, a rocket bound for one of Mars' two moons has successfully blasted off from Japan and a poo?", start: 25.58, end: 40.61}
+  - {text: "That's right. Thought you could just get rid of me?", start: 41.23, end: 44.47}
+  - {text: "That I disappear? That there wouldn't be consequences for the horrible thing you did?", start: 44.81, end: 49.41}
+  - {text: "Well, after almost a decade away, a poo returns to the Simpsons TV show with a new voice after a race row.", start: 51.55, end: 58.13}
+  - {text: "Widespread disruption across France continues as cities remain littered with burnt out cars and smashed and boarded up windows.", start: 63.86, end: 72.14}
+  - {text: "Temporary overnight curfews have been in place in some of the biggest towns and cities across France, including Paris, Lyon, Lille and Nice, in an attempt to prevent the violence", start: 72.78, end: 83.84}
+  - {text: "and looting that rocked the country over the weekend.", start: 83.84, end: 86.50}
+  - {text: "People across France have expressed shock at some of the most widespread disorder in modern French history after protests against the rising costs of living and rundown public services descended into lawlessness.", start: 87.18, end: 100.28}
+  - {text: "Hassan Ahmed is the owner of a bike shop in Paris.", start: 100.86, end: 103.68}
+  - {text: "He told us he'd lost his livelihood.", start: 104.18, end: 106.00}
+  - {text: "I can't believe it.", start: 106.50, end: 108.04}
+  - {text: "I can't. It's my life, whole life here.", start: 108.92, end: 111.30}
+  - {text: "It's my whole life.", start: 111.90, end: 112.82}
+  - {text: "I can't. I don't know.", start: 113.30, end: 114.96}
+  - {text: "I don't know what I do.", start: 115.16, end: 116.00}
+  - {text: "Do you know what you've lost?", start: 116.22, end: 117.34}
+  - {text: "100 ,000 plus. Do you have insurance?", start: 119.10, end: 121.64}
+  - {text: "Can you recover from that?", start: 121.80, end: 122.36}
+  - {text: "I have insurance, but not everything insurance cover because of, you know, in France about the law, it's not cover everything.", start: 122.36, end: 131.16}
+  - {text: "The Prime Minister, Sebastian Le Corneau, has warned that ultra -left radical groups are hoping to create chaos ahead of next year's presidential election.", start: 131.82, end: 140.94}
+  - {text: "A correspondent, Hugh Scofield, sent this report from Paris.", start: 141.42, end: 144.50}
+  - {text: "By the Place de la République in central Paris, the street cleaners are still at it, scraping up bits of charred plastic from the road.", start: 148.36, end: 155.88}
+  - {text: "Around the square there's the sound of hammers and drills, as workmen patch up the smashed shopfronts.", start: 155.88, end: 162.04}
+  - {text: "Today has been a day of reckoning.", start: 165.42, end: 166.90}
+  - {text: "First, reckoning up the damage.", start: 167.18, end: 168.88}
+  - {text: "Across the country, some 3 ,000 stores were vandalized and or looted on Saturday night.", start: 169.42, end: 174.52}
+  - {text: "Many were in Marseille, including the clothing store belonging to Geronushi.", start: 174.84, end: 179.06}
+  - {text: "On Saturday, we were looted by young people from the neighbourhoods, probably from the northern districts.", start: 179.62, end: 188.92}
+  - {text: "There were a lot of them, at least 5 ,000 to 6 ,000 people.", start: 189.60, end: 192.12}
+  - {text: "They trashed everything, broke things, insulted us.", start: 192.76, end: 195.26}
+  - {text: "It was like a real tornado with the background of understaffed national police.", start: 195.90, end: 199.70}
+  - {text: "There just weren't enough.", start: 200.12, end: 200.98}
+  - {text: "There's a reckoning at the policing level too.", start: 201.36, end: 203.20}
+  - {text: "What went wrong? Why was there no accurate forecast of the coming violence?", start: 203.56, end: 207.56}
+  - {text: "Why were police outnumbered and unable to intervene to protect property?", start: 207.84, end: 211.92}
+  - {text: "The government says, hopefully, that it won't happen again.", start: 212.48, end: 215.68}
+  - {text: "If it does, Sebastian Locornu, the Prime Minister, promised reinforcements.", start: 215.68, end: 219.62}
+  - {text: "And in the meantime, he said the authorities would have powers to impose selective localised curfews.", start: 220.08, end: 225.88}
+  - {text: "We are not dealing with typical crime here.", start: 226.04, end: 231.62}
+  - {text: "We are dealing with a very specific type of crime, a very precise and specific form of general crime involving looting and the resale of some of the looted goods.", start: 231.86, end: 241.80}
+  - {text: "And there is no question of this situation becoming entrenched.", start: 242.42, end: 245.28}
+  - {text: "And so, I've instructed the prefects to implement curfews.", start: 245.68, end: 249.66}
+  - {text: "They will be partial and they may be very localised.", start: 250.10, end: 252.92}
+  - {text: "And then there's the reckoning of politics.", start: 253.26, end: 255.06}
+  - {text: "Today, the government pointed the finger of blame once again at the far left and its outspoken presidential candidate, Jean -Luc Mélenchon.", start: 255.56, end: 262.24}
+  - {text: "He's fomenting unrest ahead of the presidential election, said the Prime Minister, to which Mr.", start: 262.52, end: 267.76}
+  - {text: "Mélenchon instantly retorted, show me the evidence.", start: 267.84, end: 270.76}
+  - {text: "It's you, the government, that created the mess.", start: 271.18, end: 273.34}
+  - {text: "To the side sits Marine Le Pen, candidate of the hard right, who could be in line to benefit from an inevitable law and order backlash.", start: 273.34, end: 282.36}
+  - {text: "He's go for reporting from Paris, while the unrest is not just in France.", start: 283.24, end: 288.08}
+  - {text: "While Spain and Portugal have seen some largely peaceful demonstrations, in Milan, police fired tear gas after several hundred hooded and masked men broke shop windows and set bins on fire.", start: 288.56, end: 300.88}
+  - {text: "And in Albania, there have been yet more violent protests, as our correspondent in the capital, Tirana, Nick Thorpe, now reports.", start: 300.88, end: 308.18}
+  - {text: "Day seven of the clashes in Albania.", start: 309.72, end: 312.36}
+  - {text: "Protesters attempted to break into the appeals court building in Tirana.", start: 312.74, end: 316.80}
+  - {text: "This began as a protest against perceived government corruption and the deep poverty which has forced half the population to emigrate.", start: 317.48, end: 325.60}
+  - {text: "It's turned into a determined, radicalized movement to oust Prime Minister Edy Rama.", start: 326.96, end: 332.66}
+  - {text: "The corruption is on levels unseen, unseen in any other state of the world.", start: 333.14, end: 339.56}
+  - {text: "It's been 14 years that Edy Rama is in power.", start: 339.82, end: 342.84}
+  - {text: "There's like thousands of reasons.", start: 343.10, end: 344.50}
+  - {text: "First of all, we live in the poorest country of Europe with the highest prices.", start: 345.22, end: 350.12}
+  - {text: "We can barely make it to the end of the month.", start: 350.48, end: 353.02}
+  - {text: "And lots of students, they live in miserable conditions.", start: 353.44, end: 356.74}
+  - {text: "Protesters rained stones and petrol bombs on police, who charged them repeatedly using armoured vehicles equipped with water cannon.", start: 357.36, end: 365.66}
+  - {text: "The protesters here behind me are breaking off cobblestones to throw at police.", start: 366.71, end: 371.11}
+  - {text: "They blame everything on the Prime Minister and say they won't stop until he resigns, but he won't budge.", start: 371.73, end: 378.17}
+  - {text: "There have already been hundreds of arrests.", start: 380.75, end: 382.85}
+  - {text: "Justice is meted out instantly with trials the next day.", start: 382.85, end: 387.09}
+  - {text: "Tonight, the police seem in no mood to let the protesters get the upper hand.", start: 389.04, end: 394.58}
+  - {text: "Nick Thorpe reporting. Next to one of the most ambitious missions in the history of space exploration.", start: 395.08, end: 402.02}
+  - {text: "Now that's the sound of a spacecraft that has launched from Japan, headed for Mars' moon Phobos.", start: 409.15, end: 415.13}
+  - {text: "And for the first time ever, it's aiming to bring back a small sample of moon dust for testing on Earth.", start: 415.55, end: 421.85}
+  - {text: "Scientists hope the mission will solve the mystery of how Mars' moons were formed.", start: 422.31, end: 426.85}
+  - {text: "Our science editor Rebecca Morrell reports.", start: 427.37, end: 429.49}
+  - {text: "This is the moment the Mars' moon's exploration mission blasted off.", start: 433.60, end: 438.18}
+  - {text: "The rocket's lighting up the night sky around its launch pad in South Japan.", start: 438.62, end: 442.24}
+  - {text: "The spacecraft is now on its way to Mars' moon Phobos, a tiny object just 12 miles across with an irregular potato -like shape.", start: 442.92, end: 450.88}
+  - {text: "After the spacecraft arrives next August, it will first set down a rover to explore the terrain, then the craft itself will land to grab a sample of moonrock", start: 451.60, end: 460.50}
+  - {text: "which will arrive back on Earth in 2031.", start: 460.50, end: 462.94}
+  - {text: "It's the first time that scientists will be able to study material taken directly from Mars or its moons, but they won't have much of it.", start: 463.70, end: 470.90}
+  - {text: "Just 10 grams is being sent back.", start: 471.16, end: 472.98}
+  - {text: "Dr. Krisa Avdelidu, who's from Leicester University and is part of the mission team, says this will still provide a wealth of science.", start: 473.68, end: 481.08}
+  - {text: "It's very small actually.", start: 481.76, end: 483.48}
+  - {text: "We can do several studies even on individual grains, so you don't need to have kilos back from a surface in order to do science.", start: 483.86, end: 491.10}
+  - {text: "So it's worth every gram, it's worth all the cost, let's say, in the effort of this mission, because it will solve, we hope it will solve a very big puzzle.", start: 491.84, end: 501.86}
+  - {text: "And that puzzle is the mystery of how Mars' moons formed.", start: 502.30, end: 505.52}
+  - {text: "There are two competing ideas.", start: 505.52, end: 507.70}
+  - {text: "Either the moons were wandering asteroids from the outer solar system that were captured by Mars' gravity, or they were created when a huge space rock hit Mars early in its history,", start: 508.34, end: 518.40}
+  - {text: "and the moons formed out of the debris.", start: 518.78, end: 520.52}
+  - {text: "The mission scientists say as soon as they can study the moonrock and analyse its chemistry, they will uncover the answer.", start: 521.34, end: 527.70}
+  - {text: "Our science editor, Rebecca Morel.", start: 528.28, end: 530.20}
+  - {text: "Israelis go to the polls next Tuesday to elect a new government in the first election since the 7th of October Hamas attacks three years ago.", start: 531.01, end: 539.39}
+  - {text: "The vote is seen by many as an existential decision on the country's future, identity and security.", start: 539.97, end: 546.21}
+  - {text: "More than half a million first -time voters are among those due to cost their ballots, and surveys suggest around three -quarters see themselves as right or centre -right,", start: 546.89, end: 556.85}
+  - {text: "and that Israel's far -right parties are among those benefiting.", start: 557.25, end: 560.65}
+  - {text: "Our Middle East correspondent Lucy Williamson has been speaking to some of those involved.", start: 560.65, end: 565.41}
+  - {text: "At the covered market in Ramle's old city, Itamar Ben -Gveer chases votes, half -hidden, in a pack of security guards and fresh -faced young fans,", start: 567.90, end: 578.38}
+  - {text: "waving the giant blue flags of his far -right party Jewish power.", start: 578.90, end: 583.16}
+  - {text: "Israel's National Security Minister is a divisive figure in a divided country.", start: 585.56, end: 590.60}
+  - {text: "As a teenager, he was judged too politically extreme to serve in Israel's army.", start: 590.60, end: 597.02}
+  - {text: "His views haven't changed much in the 30 years since then, but Israel has.", start: 597.78, end: 602.56}
+  - {text: "As a small crowd of young voters and even teenagers following Itamar Ben -Gveer through the market, his party has proved very popular with first -time voters here.", start: 603.26, end: 613.76}
+  - {text: "In Israel's deadlocked election campaign, half a million first -time voters are fresh on the market.", start: 614.46, end: 620.24}
+  - {text: "Polls suggest more than 16 percent of them are throwing their support behind far -right parties like his, and that Ben -Gveer's political positions, more settlements,", start: 620.60, end: 630.94}
+  - {text: "more weapons, fewer Palestinians in the West Bank and Gaza, are more popular with 18 -year -olds like Nadav.", start: 631.52, end: 638.60}
+  - {text: "What he's trying to show is that we're strong country and for many years we couldn't show that we're strong and our beliefs.", start: 639.10, end: 644.16}
+  - {text: "How important was the 7th of October in deciding how you vote?", start: 644.34, end: 648.58}
+  - {text: "Before that, I was maybe more on the left side, and then I understood that we need somebody that can provide a safety, especially for young people and people that are going to the army, going to protect our country.", start: 648.58, end: 658.48}
+  - {text: "Political analyst Dalia Scheinlin says younger voters have been broadly moving to the right for years.", start: 658.96, end: 664.92}
+  - {text: "After October 7th, annexation of Gaza, settlements in Gaza and expulsion, those are things we weren't even talking about before, but anybody who was 15, four years ago,", start: 665.16, end: 674.86}
+  - {text: "has come into consciousness at a time when those are absolutely legitimate things and now they're voting for the first time.", start: 674.96, end: 680.52}
+  - {text: "A series of debates with young voters, filmed by Israeli satirist and TV host Leo Schein, highlighted some of the extreme views in the classrooms here.", start: 681.92, end: 692.44}
+  - {text: "In one video, now removed from his website, a student advocates killing all Israeli Arabs.", start: 693.22, end: 699.86}
+  - {text: "Give me a knife and I'll murder them, he says.", start: 700.32, end: 702.40}
+  - {text: "And later, no Arabs should live in Israel.", start: 702.94, end: 705.66}
+  - {text: "They should all get cancer.", start: 706.08, end: 707.22}
+  - {text: "Opposition parties are warning of threats to Israel's liberal democracy and wooing first -time voters with new messaging and younger candidates.", start: 707.22, end: 716.44}
+  - {text: "In a Tel Aviv park, Yonatan Shalev, a 24 -year -old candidate with the Opposition Beyahad Party, led by former Prime Minister Naftali Bennett, is stopping to talk to the young men and women lounging at bars nearby.", start: 717.60, end: 731.40}
+  - {text: "He says Ben Gavir understood, faster than others, the power of social media.", start: 731.90, end: 736.70}
+  - {text: "Liberal politicians didn't believe in TikToks, Instagram, social medias, and he took advantage of that arena.", start: 737.84, end: 743.76}
+  - {text: "Look at Naftali Bennett, the head of my party, okay?", start: 744.08, end: 745.98}
+  - {text: "Three months ago, Ben Gavir was still the highest -leading politician with the most amount of views on TikToks.", start: 746.18, end: 750.66}
+  - {text: "Right now, Naftali Bennett is leading.", start: 750.66, end: 752.08}
+  - {text: "Younger people don't watch the news in Israel.", start: 752.46, end: 754.20}
+  - {text: "The younger generation is getting all of its details from TikTok, from Instagram.", start: 754.42, end: 758.36}
+  - {text: "What did you think of what Yonatan was saying?", start: 759.32, end: 761.62}
+  - {text: "I love him. Yali Reske and Mika Magal, both 21, rushed out of a nearby bar when they saw Yonatan walk past.", start: 762.08, end: 770.56}
+  - {text: "Yes, it's our age who's so young and you know so much.", start: 770.72, end: 774.02}
+  - {text: "It's hard to listen to people that are so old and they're seeing the same things ever.", start: 774.14, end: 779.18}
+  - {text: "With polls neck and neck, turnout could help decide this election.", start: 782.14, end: 786.46}
+  - {text: "On social media, Opposition leaders and Israel's Prime Minister Benjamin Netanyahu are competing for first -time votes with rap music, weight training, fast -paced videos, or a new light -hearted tone.", start: 787.50, end: 801.70}
+  - {text: "Nice. At a student event in Tel Aviv last weekend, Ben Gavir was interrupted by protesters, shouting, fascism will not stand.", start: 802.54, end: 813.78}
+  - {text: "Israel's young voters may be moving to the right, but they're still as divided as their country, over who could preserve the Israel they know and who is an existential threat.", start: 815.85, end: 827.29}
+  - {text: "That report from Lucy Williamson.", start: 828.72, end: 830.98}
+  - {text: "Still to come in this podcast.", start: 833.45, end: 835.37}
+  - {text: "We think it's most likely that the object was a collection of debris that accumulated here.", start: 835.75, end: 841.31}
+  - {text: "This mystery has been ongoing for 90 years and the mystery continues.", start: 841.75, end: 846.15}
+  - {text: "Dashed hopes again in the latest attempt to answer the question, what happened to the American aviator, Amelia Earhart, who's plane disappeared in 1937?", start: 846.87, end: 857.61}
+  - {text: "This is the Global News Podcast.", start: 864.96, end: 866.86}
+  - {text: "A government minister in Bangladesh has resigned after a video of him taking part in what he said was a drug bust while brandishing a firearm went viral on social media.", start: 867.78, end: 878.98}
+  - {text: "Ishaq Hussein, who uploaded the video clip of the operation onto his own Twitter accounts, along with the words drug den demolished, dealers handed over to the police, resigned after growing criticism of his actions.", start: 879.54, end: 894.02}
+  - {text: "In the video, Hussein can be seen stepping out of a vehicle with a megaphone in one hand and a pistol in the other, before chasing a group of people.", start: 901.52, end: 910.86}
+  - {text: "Our global affairs reporter Ambaras Anathirajan told us more.", start: 911.44, end: 914.44}
+  - {text: "This has sparked a lot of outrage and criticism in Bangladesh itself because he's a very junior minister.", start: 914.98, end: 920.64}
+  - {text: "He didn't inform the authorities before concerning this raid, what he claims was an anti -drug operation.", start: 921.64, end: 929.72}
+  - {text: "But later on he said he informed police and they came later on to arrest some of these people.", start: 930.34, end: 934.34}
+  - {text: "But what it shows was how some of these ministers, probably with the real culture and then wanting to show that they are gung -ho and then can take action against some of these suspected drug dealers.", start: 934.52, end: 946.72}
+  - {text: "But what many experts or commentators were questioning, what if this had gone wrong?", start: 946.72, end: 951.88}
+  - {text: "If some of these drug traffickers had some weapons and retaliated, what could have happened?", start: 952.04, end: 957.32}
+  - {text: "Also, there are law enforcement agencies to do these jobs and if every minister is going to brandish a gun, then that is going to send a wrong message", start: 957.44, end: 966.72}
+  - {text: "and that's why the government took a swift action and he announced his resignation today.", start: 966.72, end: 971.90}
+  - {text: "Has he explained anymore what the thought process behind this was?", start: 972.42, end: 976.24}
+  - {text: "Well, he was claiming that people were supporting his action because there were so many drug traffickers, they were distributing drugs, selling drugs.", start: 976.80, end: 984.96}
+  - {text: "So he thought people were supporting him and in fact he was saying, I had informed police and then he handed over some of the suspects.", start: 985.72, end: 993.26}
+  - {text: "But the whole thing was caught on camera.", start: 993.72, end: 995.38}
+  - {text: "He himself posted this video showing that probably he wanted publicity but that went wrong.", start: 995.52, end: 1000.62}
+  - {text: "How big is the drug problem in Bangladesh?", start: 1001.17, end: 1003.61}
+  - {text: "It is a huge social and public health problem in Bangladesh.", start: 1004.49, end: 1008.09}
+  - {text: "One study recently said that more than 8 million people were affected or taken up to some form of drugs and this is causing a huge issue for a country like Bangladesh.", start: 1009.15, end: 1020.05}
+  - {text: "Now, why Bangladesh? It is close to Myanmar.", start: 1020.31, end: 1023.45}
+  - {text: "It shares a border with Myanmar and close to the Golden Triangle where a lot of drug trafficking happens.", start: 1023.83, end: 1029.27}
+  - {text: "Now, it is too faced problem on the one side.", start: 1029.27, end: 1032.81}
+  - {text: "The main problem is about the Yaba tablets.", start: 1033.05, end: 1036.15}
+  - {text: "It is basically a combination of methamphetamine and caffeine.", start: 1036.29, end: 1040.57}
+  - {text: "So it was produced in industrial scale across the border in Myanmar.", start: 1041.33, end: 1045.53}
+  - {text: "So then it is trafficked because you already have a Rohingya crisis.", start: 1046.03, end: 1049.47}
+  - {text: "The Rohingyas traveling between Rakhine state of Myanmar and Bangladesh.", start: 1049.75, end: 1053.97}
+  - {text: "So that has become a drug 10 in the southeast of Bangladesh.", start: 1054.49, end: 1058.35}
+  - {text: "Then it gets transported to different parts of the country.", start: 1058.35, end: 1062.37}
+  - {text: "And in fact, the Bangladesh government had a big operation, something like what the Philippines did some years ago.", start: 1062.91, end: 1068.79}
+  - {text: "More than 200 people were killed in this drug anti -drug operation a couple of years ago inviting criticism.", start: 1069.13, end: 1075.15}
+  - {text: "On the other hand, they also get this fentanyl, some sort of a cough syrup across the border in India.", start: 1075.61, end: 1081.37}
+  - {text: "So what Bangladesh authorities are saying that they are facing two problems and that is what they are trying to control.", start: 1081.53, end: 1088.17}
+  - {text: "As Indonesia battles its worst wildfire season in a decade, a blanket of thick toxic smog has spread across large parts of Southeast Asia.", start: 1090.29, end: 1100.70}
+  - {text: "In Indonesia's Central Kalimantan, one of the worst hit areas, residents are bearing the brunt of the toxic smog and increasing health issues.", start: 1101.40, end: 1109.70}
+  - {text: "Our Indonesia correspondent, Lisa Tambunan is there and sent us this update.", start: 1110.22, end: 1114.34}
+  - {text: "Millions of hectares have been burned by fires in Indonesia.", start: 1114.90, end: 1118.20}
+  - {text: "Monitoring platform Nusantara Atlas says nearly 2 million hectares have been ravaged by fires this year.", start: 1118.86, end: 1125.66}
+  - {text: "I'm in Palangkaraya, Central Kalimantan, one of the worst affected areas.", start: 1126.16, end: 1129.98}
+  - {text: "Firefighters I've spoken to here told me it takes months to put out underground peat fires.", start: 1130.56, end: 1136.88}
+  - {text: "Even then, it may not be completely extinguished and reignite into open flames.", start: 1137.24, end: 1142.68}
+  - {text: "Environmental groups told me deforestation, land clearing by large scale plantation owners and lack of legal action are to blame for these fires.", start: 1143.27, end: 1154.98}
+  - {text: "The government has vowed to take stricter actions.", start: 1155.50, end: 1157.98}
+  - {text: "Meanwhile, people here are breathing in polluted air.", start: 1158.40, end: 1162.08}
+  - {text: "In Palangkaraya alone, there's been a 25 % spike in respiratory cases because of the haze.", start: 1162.70, end: 1169.66}
+  - {text: "Officials told me that they're doing their best to mitigate the impact but the toxic smoke continues to linger and there's not much they can do but pray for the rain to fall.", start: 1169.66, end: 1183.78}
+  - {text: "Further south, Timor -Lest closed schools last week following a spike in levels of toxic haze in the capital, Dili.", start: 1184.38, end: 1191.78}
+  - {text: "The president of Timor -Lest, Ramos Horta, told us about the impact being felt across his country.", start: 1192.40, end: 1197.86}
+  - {text: "The entire country is literally blanked out with causing respiratory problems.", start: 1197.86, end: 1206.98}
+  - {text: "I had to call on the government to close down the schools because it's very dangerous for children and the result, we have not made any estimate", start: 1208.84, end: 1221.74}
+  - {text: "but it will cause severe damage to our economic activities.", start: 1221.74, end: 1231.50}
+  - {text: "In addition, exacerbated by El Niño, that will go all the way up to 2027 and the normal dry season.", start: 1231.74, end: 1242.06}
+  - {text: "Someone has to take responsibility for that.", start: 1242.76, end: 1246.68}
+  - {text: "So we will ask for independent international assistance to evaluate the cost to our economy, the cost in health of people and demand accountability from those who cause these forest fires.", start: 1247.05, end: 1266.34}
+  - {text: "Ramos Horta. What a strange object appeared on satellite images of the Pacific in 2020.", start: 1267.28, end: 1274.50}
+  - {text: "There were hopes it might finally help solve a mystery nearly a century old.", start: 1274.50, end: 1279.30}
+  - {text: "What happened to the pioneering American aviator Amelia Earhart, whose plane disappeared in 1937?", start: 1279.88, end: 1286.76}
+  - {text: "But a team which travelled to a remote lagoon to investigate found a far less exciting explanation.", start: 1287.58, end: 1293.74}
+  - {text: "Our correspondent Mark Lohan takes up the story.", start: 1294.40, end: 1296.48}
+  - {text: "It is the riddle that has baffled governments and explorers for almost 90 years and now the disappearance of Amelia Earhart, who tried to become the first woman to fly around the world but vanished en route along with her navigator Fred Noonan, remains unsolved.", start: 1297.06, end: 1312.84}
+  - {text: "Past attempts to scour the island of Nicomaroro around halfway between Australia and Hawaii have failed to find any wreckage.", start: 1313.34, end: 1321.02}
+  - {text: "But after American researchers thought they had spotted something near an outcrop called the Terai Peninsula in recent satellite photos, they decided the coral reef -fringed island, home to tantalising species including huge coconut crabs, merited sending 17 people for another look.", start: 1321.26, end: 1339.34}
+  - {text: "Standing sun -kissed on the beach from where he posted a video to the project's YouTube page, Rick Pettigrew from the Archaeological Legacy Institute said they would leave proud but empty -handed.", start: 1339.64, end: 1351.50}
+  - {text: "The Terai object does not represent the records of Amelia Earhart's electric aircraft.", start: 1352.02, end: 1357.90}
+  - {text: "Instead we think it's most likely that the object was a collection of debris that accumulated here.", start: 1358.30, end: 1364.40}
+  - {text: "This mystery has been ongoing for 90 years and the mystery continues.", start: 1364.80, end: 1369.24}
+  - {text: "Earhart's fate has become the stuff of legend.", start: 1369.94, end: 1372.32}
+  - {text: "She'd already flown 22 ,000 miles when she left Papua New Guinea in 1937 with only 7 ,000 left to complete the mission.", start: 1372.80, end: 1380.56}
+  - {text: "Some theories suggest a crash, others that they landed and became castaways before dying of hunger.", start: 1381.12, end: 1386.76}
+  - {text: "This time again the team could find no final answer as to what happened all those decades ago.", start: 1387.56, end: 1392.98}
+  - {text: "But they're unlikely to be the last to deem this paradise desert island worthy of a flying visit, chasing the answer to the Earhart Enigma.", start: 1393.50, end: 1402.70}
+  - {text: "Mark Lohan And we finish with some news for fans of the long -running American cartoon series The Simpsons.", start: 1403.28, end: 1409.72}
+  - {text: "The Indian convenience store owner Apu is back after nine years away.", start: 1410.24, end: 1414.48}
+  - {text: "The original character had been voiced by Hank Azaria, a white actor putting on a strong Indian accent which prompted accusations of racial stereotyping.", start: 1414.48, end: 1423.92}
+  - {text: "Here's an example. Please don't knock the land that I love.", start: 1424.38, end: 1427.46}
+  - {text: "Jury duty. Today I am truly an American citizen.", start: 1429.56, end: 1434.50}
+  - {text: "But on Sunday night Apu and his wife Manjula return to the show.", start: 1436.30, end: 1440.70}
+  - {text: "This time voiced by Sunil Malhotra.", start: 1440.86, end: 1443.08}
+  - {text: "Apu? That's right. You thought you could just get rid of me?", start: 1443.08, end: 1447.82}
+  - {text: "That I disappear? That there wouldn't be consequences for the horrible thing you did?", start: 1448.10, end: 1452.76}
+  - {text: "What did we do again?", start: 1453.18, end: 1454.50}
+  - {text: "Well what they did was to upset many Americans of South Asian descent who accused the show of stereotyping them.", start: 1454.84, end: 1460.86}
+  - {text: "That prompted the comedian Hari Kondabolu to produce the documentary on the matter.", start: 1461.32, end: 1465.96}
+  - {text: "It was called The Problem with Apu back in 2017.", start: 1466.38, end: 1469.78}
+  - {text: "He gave us his reaction to the unveiling of the new Apu.", start: 1470.49, end: 1473.86}
+  - {text: "I think it's incredible that they got two South Asian voice actors incredibly talented in Sunil and Janina.", start: 1474.22, end: 1481.48}
+  - {text: "Janina does Manjula's voice and I think that's huge progress.", start: 1481.68, end: 1486.94}
+  - {text: "It really comes down to how they write the character from here on.", start: 1487.54, end: 1491.72}
+  - {text: "Have they learned lessons from the past?", start: 1492.14, end: 1494.22}
+  - {text: "Is it going to be a more nuanced version of this character?", start: 1494.34, end: 1497.28}
+  - {text: "And time changes. Like what I think about now is the fact there are so many more South Asians in media, on television, in news media, now in animation.", start: 1497.28, end: 1507.72}
+  - {text: "And it's cool to know that like the documentary contributed at least in the animation space.", start: 1508.28, end: 1513.48}
+  - {text: "I've been told that a lot of the other characters of color on The Simpsons are now voiced by voice actors of color.", start: 1513.84, end: 1521.50}
+  - {text: "And so to me it's like that's the achievement of the documentary.", start: 1521.94, end: 1525.92}
+  - {text: "The goal was never to get rid of the character.", start: 1526.52, end: 1529.00}
+  - {text: "The goal was to stop having a white guy voice it.", start: 1529.24, end: 1532.40}
+  - {text: "Harry Konda Bolu. And that's all from us for now.", start: 1532.70, end: 1538.28}
+  - {text: "If you want to get in touch you can email us at globalpodcastatbbc .co .uk.", start: 1538.42, end: 1543.50}
+  - {text: "You can also find us on X at BBC Wild Service.", start: 1543.94, end: 1546.54}
+  - {text: "Use the hashtag globalnewspod.", start: 1546.80, end: 1548.92}
+  - {text: "And don't forget our sister podcast.", start: 1549.28, end: 1550.54}
+  - {text: "It's called The Global Story which goes in depth and beyond the headlines on one big story.", start: 1550.86, end: 1555.38}
+  - {text: "This edition of the global news podcast was mixed by Nick Randall and the producer was Ruby Gleason.", start: 1555.38, end: 1560.98}
+  - {text: "The editor is Karen Martin and I'm Uncle Desai.", start: 1561.36, end: 1564.02}
+  - {text: "Until next time, goodbye.", start: 1564.28, end: 1565.60}
+---
