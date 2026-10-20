@@ -1,0 +1,20 @@
+{
+  "includes_housing": true,
+  "coupling_backend": "gpu",
+  "pressure_dyn_cm2": 6.6661,
+  "pressure_mmHg": 0.005,
+  "reference_command": "runs/glamv_tube_1mmHg_20261020/G64_R2_tube_tether_dp1mmHg_T5/COMMAND.json",
+  "changed_physical_parameter": "add housing disk only",
+  "T": 5,
+  "dt": 0.0005,
+  "nu": 0.04,
+  "beta_body": 100000.0,
+  "grid": [
+    64,
+    64,
+    96
+  ],
+  "ramp_s": 0.01,
+  "output_interval_s": 0.1,
+  "binary_sha256": "f2cfc1e61d3dad1d3389697b814ccaf27cc21fa4888bd61f87facc225e1e4c07"
+}

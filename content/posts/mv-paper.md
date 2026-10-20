@@ -928,6 +928,8 @@ For each leaflet, the node with the largest absolute axial displacement between 
 
 ### Updated simulation assessment (19 October 2026)
 
+[管道与 housing disc 流动对照（中文）：参数、截面、网格检查及复现资料]({{< relref "tube-housing-flow.md" >}})。
+
 [G128/R2 results and limitations, updated 19 October 2026]({{< relref "mv-results-audit.md" >}}) records the completed modified-stress cases, the finer-tube failure, local MFAC, reference-mesh quality and vortex sensitivity. The G128/R2 zero-solid-viscosity runs at dt=2.5e-6 and 5e-6 s completed, but active chordal J ranges approximately from 0.119 to 10.734 across sampled states. Completion and similar flow curves therefore do not establish near-incompressibility or converged vortex topology. Refining tube/disc spacing further did not prevent the inlet-boundary failure at 0.89 s.
 
 {{< review-note title="Unresolved — inlet-boundary feedback and mesh quality" >}}

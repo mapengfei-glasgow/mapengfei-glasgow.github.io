@@ -1,0 +1,8 @@
+{
+  "t_s": 5,
+  "J_min": 0.8253044196045817,
+  "J_max": 1.203408392360232,
+  "nonpositive_qp": 0,
+  "max_displacement_cm": 0.017880423045180747,
+  "note": "Final frame audit only; does not establish all-time positivity or physical convergence."
+}

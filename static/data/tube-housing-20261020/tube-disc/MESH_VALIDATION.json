@@ -1,0 +1,46 @@
+{
+  "source": "fdm-3d-v1-geometry/src/ibm/data/glamv_hex_r2",
+  "cells": 1214080,
+  "nodes": 811754,
+  "components": {
+    "1": {
+      "cells": 532480,
+      "volume_cm3": 83.63418305862399
+    },
+    "42": {
+      "cells": 681600,
+      "volume_cm3": 5.4111263079009655
+    }
+  },
+  "marker_mapping": {
+    "1": 1,
+    "42": 2
+  },
+  "hexes": 532480,
+  "tets": 681600,
+  "max_reference_F_error": 3.730349362740526e-14,
+  "domain_cm": [
+    8.6,
+    8.6,
+    16.09938
+  ],
+  "shift": [
+    4.3,
+    4.3,
+    8.04969
+  ],
+  "reference_bbox": [
+    [
+      -3.813764,
+      -4.056024,
+      -8.0
+    ],
+    [
+      4.158364,
+      3.881964,
+      8.0
+    ]
+  ],
+  "geometry_and_quadrature_unchanged": true,
+  "component_overlap_preserved": true
+}

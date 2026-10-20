@@ -1,0 +1,45 @@
+{
+  "source": "fdm-3d-v1-geometry/src/ibm/data/glamv_hex_r2",
+  "selection": "cell_marker == 1 only; no leaflets, chordae, caps, annulus or housing",
+  "cells": 532480,
+  "nodes": 667680,
+  "element": "Native Q1 hexahedra",
+  "reference_bbox": [
+    [
+      -3.730263,
+      -3.730263,
+      -8.0
+    ],
+    [
+      3.730263,
+      3.730263,
+      8.0
+    ]
+  ],
+  "shift_to_domain": [
+    4.3,
+    4.3,
+    8.04969
+  ],
+  "domain_cm": [
+    8.6,
+    8.6,
+    16.09938
+  ],
+  "padding": [
+    0.07636686742999088,
+    0.07636686742999088,
+    0.07636686742999088,
+    0.07636686742999088,
+    0.0031056250000000007,
+    0.0031056250000000007
+  ],
+  "inlet_radius_cm": 3.5,
+  "volume_cm3": 83.63418305862399,
+  "max_reference_F_identity_error": 7.815970093361102e-14,
+  "min_qp_weight": 1.9073884414507092e-05,
+  "coordinate_change": false,
+  "quadrature_change": false,
+  "alignment": "Identical fixed center/domain to current glamv G128/G256 case",
+  "end_clearance_cm": 0.04969000000000001
+}

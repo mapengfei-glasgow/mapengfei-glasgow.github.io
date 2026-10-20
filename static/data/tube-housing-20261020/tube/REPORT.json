@@ -1,0 +1,13 @@
+{
+  "status": {
+    "exit_code": 0,
+    "stop_reasons": [],
+    "wall_seconds": 254.8225450515747,
+    "finished_utc": "2026-10-20T17:48:56Z"
+  },
+  "t_s": 5.0,
+  "axis_velocity": 2.067752,
+  "Q_out": 57.97551,
+  "axis_relative_change_last_interval": 0.020015456399026497,
+  "note": "Transient high-pressure test. No steady Poiseuille validation or energy-stability claim from completion alone."
+}

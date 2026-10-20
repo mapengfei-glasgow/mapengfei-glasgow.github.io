@@ -1,0 +1,13 @@
+{
+  "status": {
+    "exit_code": 0,
+    "stop_reasons": [],
+    "wall_seconds": 290.8074519634247,
+    "finished_utc": "2026-10-20T18:00:47Z"
+  },
+  "t_s": 5.0,
+  "axis_velocity": 3.923927,
+  "Q_out": 27.91142,
+  "axis_relative_change_last_interval": 0.010532051182399645,
+  "note": "Transient pressure-driven test. No steady Poiseuille validation or energy-stability claim from completion alone."
+}

@@ -1,0 +1,56 @@
+{
+  "t_s": 5.0,
+  "components": {
+    "1": {
+      "J_min": 0.8274401098777378,
+      "J_max": 1.1727990414525244,
+      "nonpositive_qp": 0,
+      "min_J_source_cell": 214290,
+      "min_J_reference_center_cm": [
+        2.273961328125,
+        1.4116596874999998,
+        0.07469000000000026
+      ],
+      "min_J_reference_radius_cm": 3.5280791460432988,
+      "max_displacement_cm": 0.012519516807780098,
+      "bbox": [
+        [
+          0.5690660060622383,
+          0.5690658113691552,
+          0.049097978501412634
+        ],
+        [
+          8.030933758242202,
+          8.030933480400538,
+          16.06142129070589
+        ]
+      ]
+    },
+    "42": {
+      "J_min": -36.47760797587764,
+      "J_max": 38.91693021800344,
+      "nonpositive_qp": 3523,
+      "min_J_source_cell": 1168096,
+      "min_J_reference_center_cm": [
+        2.8713189999999997,
+        5.294132625,
+        4.542453875
+      ],
+      "min_J_reference_radius_cm": 1.7405255171500331,
+      "max_displacement_cm": 0.19083386793955648,
+      "bbox": [
+        [
+          0.48619576414732774,
+          0.2434072418893334,
+          3.337562988717688
+        ],
+        [
+          8.458368402163636,
+          8.182017540806976,
+          5.638002773386937
+        ]
+      ]
+    }
+  },
+  "note": "Positive J and finite completion alone do not establish near-rigidity, negligible leakage or physical convergence."
+}
