@@ -55,6 +55,12 @@ BBC_FEED="https://podcasts.files.bbci.co.uk/p02nq0gn.rss"
 export http_proxy="$PROXY" https_proxy="$PROXY"
 export HF_HOME="$ROOT/.hf-cache"
 export HF_HUB_DISABLE_XET=1
+# build_word_notes.py takes its key from the environment (qwen_explain.py reads
+# ~/.sglang_api_key itself); both end up in the same Bearer header.
+if [ -z "${WORD_NOTES_API_KEY:-}" ] && [ -r "$HOME/.sglang_api_key" ]; then
+    WORD_NOTES_API_KEY="$(cat "$HOME/.sglang_api_key")"
+    export WORD_NOTES_API_KEY
+fi
 
 LOG_DIR="$ROOT/work/logs"
 mkdir -p "$LOG_DIR"
@@ -267,6 +273,51 @@ run_notes() {
     return 0
 }
 
+# --- stage 3b: [[word]] vocabulary definitions ------------------------------
+# Marking a word — `[[Curfews]]` in an episode's sentences[].text, or in an
+# article's body — is an ordinary content edit, so it arrives through git. The
+# definition itself cannot: it has to be generated here, on the machine that can
+# reach Qwen, and committed alongside the page. A marker whose definition is
+# missing still renders (and is hoverable), but the preview says "Definition not
+# generated yet." — so this stage is what turns a pushed mark into a finished
+# one.
+#
+# Unlike the A2-notes stage it runs on *every* run, not only when an episode was
+# published: marks are added to old pages too. It is cheap when idle because
+# build_word_notes.py is incremental and its --dry-run needs no model — the 27B
+# server is only started when something is actually waiting.
+word_notes_pending() {
+    ( cd "$SITE" && "$PY" tools/build_word_notes.py --dry-run 2>/dev/null | grep -c ': ' )
+}
+
+run_word_notes() {
+    # Generated from the site checkout's own copy of the tool, because ROOT is
+    # derived from the script's location: tools/ under .migration has no
+    # content/ or data/ next to it (english-site is the checkout).
+    ensure_qwen || return 1
+    cd "$SITE" || return 1
+    log "word notes: generating definitions for newly marked words"
+    "$PY" tools/build_word_notes.py || return 1
+    if git diff --quiet -- data/word_notes.json; then
+        log "word notes: nothing to commit"
+        return 0
+    fi
+    git add data/word_notes.json || return 1
+    git commit -q -m "word notes: definitions for newly marked words" || return 1
+    if git push -q origin main; then
+        log "word notes: pushed"
+        return 0
+    fi
+    warn "word notes: push rejected, retrying after a rebase"
+    if git fetch -q origin main && git rebase origin/main && git push -q origin main; then
+        log "word notes: pushed after rebase"
+        return 0
+    fi
+    git rebase --abort 2>/dev/null
+    warn "word notes: push failed; the commit stays local for the next run"
+    return 1
+}
+
 # --- git helpers -----------------------------------------------------------
 sync_site() {
     cd "$SITE" || return 1
@@ -343,6 +394,20 @@ elif run_notes "${NEW_SLUGS[@]}"; then
     commit_notes || warn "A2 notes produced but not pushed"
 else
     warn "A2 notes stage failed; episodes are already published, continuing"
+fi
+
+# --- stage 3b: [[word]] definitions (checked on every run, see run_word_notes) ---
+if [ "$SKIP_NOTES" = "1" ]; then
+    log "word notes: skipped (SKIP_NOTES=1)"
+else
+    PENDING_WORDS="$(word_notes_pending)"
+    PENDING_WORDS="${PENDING_WORDS:-0}"
+    if [ "$PENDING_WORDS" -gt 0 ]; then
+        log "word notes: $PENDING_WORDS marked word(s) waiting for a definition"
+        run_word_notes || warn "word notes stage failed; marked words keep their current preview"
+    else
+        log "word notes: no marked word waiting"
+    fi
 fi
 
 log "=== daily BBC pipeline done ==="

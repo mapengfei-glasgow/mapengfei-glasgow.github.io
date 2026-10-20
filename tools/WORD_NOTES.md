@@ -70,9 +70,33 @@ git commit -m "Add marked vocabulary and generated definitions"
 git push
 ```
 
-Run `python3 tools/build_word_notes.py && hugo --minify` in an automated publishing
-pipeline on the Qwen machine. GitHub Pages builds only read the committed cache;
-they do not need access to Qwen. Generation failures exit nonzero and preserve
+## Doing it without thinking about it
+
+Marking a word is an ordinary content edit: you add `[[term]]`, commit, push.
+The definition cannot ride along, though — it has to be generated where the model
+lives — so `tools/daily_bbc_pipeline.sh` (the `bbc-daily.timer` unit) runs
+`build_word_notes.py` as its **stage 3b** and commits `data/word_notes.json`.
+
+It is checked on *every* run, not only when an episode was published, because
+marks are added to old pages too. It is also cheap when idle: the pending check
+is a `--dry-run`, which needs no model, so the 27B server is started only when a
+term is actually waiting. A run with `SKIP_NOTES=1` skips this stage as well.
+
+The cost is up to one timer interval. To make a mark take effect immediately,
+run the builder before pushing:
+
+```sh
+python3 tools/build_word_notes.py
+git add content/ data/word_notes.json
+git commit -m "Add marked vocabulary and generated definitions"
+git push
+```
+
+A mark pushed without its definition is not broken: the page builds, the word is
+still hoverable, and the preview says “Definition not generated yet.” until the
+definition lands — nothing in the browser ever calls the model.
+
+GitHub Pages builds only read the committed cache; they do not need access to Qwen. Generation failures exit nonzero and preserve
 completed notes, so rerunning resumes the work. Missing definitions display
 “Definition not generated yet.” They never trigger a browser request to Qwen.
 

@@ -138,7 +138,12 @@ One systemd **user** timer runs the whole chain — no root needed:
   4. write the 💡 English notes for the hard sentences and the 🀄 Chinese note
      for **every** sentence with the local Qwen server
      (`tools/qwen_explain.py`), merge them (`tools/merge_explain.py`), then
-     commit and push again.
+     commit and push again.,
+  5. finish any `[[word]]` vocabulary marks that were pushed without a
+     definition (`tools/build_word_notes.py`, committed as
+     `data/word_notes.json`). Unlike the A2-notes stage this is checked on every
+     run, because marks are added to old pages too; it starts Qwen only when a
+     term is actually waiting.
 
   Every stage is idempotent, so a failed run can be repeated with
   `systemctl --user start bbc-daily.service`.
