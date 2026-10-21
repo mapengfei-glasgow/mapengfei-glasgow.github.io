@@ -2,6 +2,7 @@
 title: "管道与 housing disc 流动：G64/R2 数值对照"
 description: "同一压差下的纯管道与管道加 disc 对照：参数、截面、流量、单元翻转及复现方法。"
 date: 2026-10-20
+lastmod: 2026-10-21
 layout: protected-paper
 academic: true
 comments: false
@@ -10,9 +11,9 @@ build:
   list: never
 ---
 
-本文记录两组 **0.005 mmHg 恒定目标压差、计算至 5 s** 的 GPU 算例。两组仅相差原 R2 housing disc：纯管道保留管壁；tube+disc 保留管壁和 disc，均不含瓣叶、腱索及乳头肌。
+第 1–5 节记录早期两组 **0.005 mmHg 恒定目标压差、计算至 5 s** 的 GPU 算例。两组仅相差原 R2 housing disc：纯管道保留管壁；tube+disc 保留管壁和 disc，均不含瓣叶、腱索及乳头肌。
 
-**主要结果：**5 s 时，增加 disc 后出口流量由 **58.0 降至 27.9 mL/s**，最大轴向速度由 **2.07 升至 3.94 cm/s**。但 disc 已发生局部单元翻转，因此后一组只作为诊断结果，不能视为通过验证的刚性 disc 流动。
+**早期对照结果：**5 s 时，增加 disc 后出口流量由 **58.0 降至 27.9 mL/s**，最大轴向速度由 **2.07 升至 3.94 cm/s**。但 disc 已发生局部单元翻转，因此后一组只作为诊断结果，不能视为通过验证的刚性 disc 流动。
 
 ## 1. 共同设置
 
@@ -36,7 +37,7 @@ build:
 | 开口与其他处理 | z 两端圆形压力孔口；无额外 feedback、gap mask 或关闭期 clamp |
 | 保存间隔 | 0.1 s |
 
-升压函数为 $\Delta p(t)=0.005\min(t/0.01,1)$ mmHg，出口压力为零。**本文图表来自早先的 0.01 s ramp、弱 tether 算例，不是后续的 0.2 s ramp、Sarah 应力测试。**
+升压函数为 $\Delta p(t)=0.005\min(t/0.01,1)$ mmHg，出口压力为零。**第 1–4 节图表来自早先的 0.01 s ramp、弱 tether 算例；第 6 节另列 0.2 s ramp、Sarah 应力和 2.085Δz 间距的完整结果。**
 
 | 输入网格 | 纯管道 | tube+disc |
 |---|---:|---:|
@@ -189,3 +190,106 @@ python3 scripts/visualization/plot_glamv_tube_lowpressure_gpu.py \
 绘图脚本读取 5 s 的 `fluid_010000.vti` 与 `Xc_010000.bin`；几何检查使用 `scripts/diagnostics/audit_tube_housing_final.py` 中的 `evaluate(run, mesh, step, dt)`。图片只能辅助观察，应以 J 和位移检查判断网格是否仍有效。
 
 本页的用途是建立可检查的 tube/tube+disc 对照，并记录当前离散方法的限制。后续参数测试不替代这里的原始结果。
+
+## 6. Sarah 应力与 2.085Δz 间距：完整 5 s 结果
+
+**2026-10-21 更新：**这一组完整运行到 5 s，耗时 **9 小时 38 分钟**，通过保存帧的网格检查。管壁和 housing 均使用原 Sarah 的 modified Neo-Hookean 型应力、体积项及 tether。它与第 1–4 节同时改变了应力、tether、dt、ramp 和管端位置，因此不能把差异全部归因于间距。
+
+### 6.1 管端到底离边界多少 Δz
+
+此处的间距指**参考管端平面到相邻计算域边界的轴向距离**，不是管壁厚度。
+
+$$
+\Delta z=\frac{16.09938}{96}=0.167701875\ \mathrm{cm},\qquad
+ g=0.34969\ \mathrm{cm}=3.4969\ \mathrm{mm}
+ =\mathbf{2.085188\,\Delta z}.
+$$
+
+| 参数 | 此次完整算例 |
+|---|---|
+| 流体网格、计算域、ν、目标压差 | 与第 1 节相同：G64，ν=0.04 cm²/s，Δp=0.005 mmHg |
+| 管壁参考端面 | z=0.34969、15.74969 cm |
+| 两端各自的间距 | **2.085188Δz = 3.4969 mm** |
+| 参考管长 | 15.4 cm，原管长 16 cm |
+| 网格构造 | 两端各截去 3 mm 的完整原网格层；不缩放保留单元，不改变 disc |
+| 管壁／disc 单元数 | 512,512 个 Q1 六面体／681,600 个 P1 四面体 |
+| 管壁与 disc 的材料项 | modified 模式，C10=502 dyn/cm² |
+| 体积应力 | $P_\mathrm{vol}=2\beta_s\ln J\,F^{-T}$，βs=5×10⁶ dyn/cm² |
+| 两者的 tether 系数 | 均为 5×10⁸ |
+| 时间步长、步数 | 1×10⁻⁵ s，500,000 步 |
+| 压差升压时间 | **0.2 s**，之后保持目标压差 |
+| IB 核、耦合、固体黏性 | IB4、一阶显式、无固体黏性；无 J 截断 |
+
+增大间距同时缩短了管道，并改变了开口端的旁路空间。这是一组边界诊断结果，不能直接当作最佳或通用的间距设置。
+
+### 6.2 截面和流量
+
+![Sarah 应力、管端间距 2.085Δz 的 5 s 纵截面。](/data/tube-housing-20261020/sarah-gap2p085/glamv_tube_longitudinal_t5.png)
+
+黑线为实际变形后的管壁和 disc。压力图使用全场范围，约 −0.183～0.399 mmHg，包含 IB 固体／界面附近的数值，**并非外加压差**；外加压差仍为 0.005 mmHg。局部压力峰值尚未完成空间收敛核查，不据此判断生理意义。
+
+![Sarah 应力、管端间距 2.085Δz 的 5 s 横截面。](/data/tube-housing-20261020/sarah-gap2p085/glamv_tube_cross_sections_t5.png)
+
+此图 z=0.100 和 15.999 cm 的两个截面**位于管端与计算域边界之间的间隙内**；z=4.500 cm 穿过 disc，z=8.050 cm 位于下游。
+
+![2.085Δz 算例的入口／出口流量与中部中心线速度。](/data/tube-housing-20261020/sarah-gap2p085/glamv_tube_history_t5.png)
+
+5 s 时出口流量为 **24.8276 mL/s**，中部中心线轴向速度为 **3.88496 cm/s**。该流动仍在发展，未建立稳态或空间收敛结论。
+
+### 6.3 网格与间隙通量检查
+
+| 5 s 指标 | 管壁 | disc |
+|---|---:|---:|
+| 最小 J | 0.999547 | 0.946104 |
+| 最大 J | 1.000441 | 1.070506 |
+| 非正 J 积分点 | 0 | 0 |
+| 最大节点位移（μm） | 1.687 | 49.573 |
+| 管壁节点穿出轴向计算域 | 0 | — |
+
+每 0.1 s 保存帧的检查未发现翻转或管壁穿出；这不保证未保存时刻也满足相同条件，也不等于已证明严格刚性或无渗漏。
+
+在名义半径 r=3.5 cm 上，对 5 s 的 VTI 平均速度作插值与积分，管腔五个截面流量约为 **24.809～24.814 mL/s**。两端开口间隙的径向通量估计如下；“向外”指从名义管腔进入管外区域，仍在计算域内。
+
+| 间隙 | 向外通量（mL/s） | 向内通量绝对值（mL/s） |
+|---|---:|---:|
+| 入口端 | 4.88×10⁻⁵ | 4.66×10⁻⁵ |
+| 出口端 | 5.38×10⁻⁵ | 4.69×10⁻⁵ |
+
+该采样下径向交换很小，但它使用平均后的 Eulerian 场和名义圆柱，**不是原生 MAC 守恒通量，也不是穿过实际固体表面的泄漏测量**。仅约两层轴向网格的间隙仍需分辨率检查，不能据此宣称完全没有绕流。
+
+### 6.4 Git commit 与复现命令
+
+本节的网格截取、监控及绘图脚本提交为 [`9be5b150e146239d1c43f1e63b2d64e74d50fe7a`](https://github.com/mapengfei-glasgow/fdm-3d-v1-workspace/commit/9be5b150e146239d1c43f1e63b2d64e74d50fe7a)，GPU 源码仍为第 5 节的 `f096f92`。在已具备原始 R2 数据的独立工作区检出该提交并更新子模块，按第 5.2 节构建，然后执行：
+
+```bash
+git fetch origin research/pipe-end-boundaries-20261019
+git checkout 9be5b150e146239d1c43f1e63b2d64e74d50fe7a
+git submodule update --init --recursive
+
+OPENBLAS_NUM_THREADS=1 python3 scripts/simulations/prepare_glamv_tube_housing.py \
+  --tube-z-limit 7.71428625 \
+  --out "$PWD/runs/reproduce_sarah_gap2p085/mesh"
+
+export OPENBLAS_NUM_THREADS=1 OMP_NUM_THREADS=2 DSH_PERF_LEVEL=0
+./build-tube/tube_flow_scale --gpu-coupling --sarah-wall-stress \
+  --N 64 --nx 64 --ny 64 --nz 96 \
+  --domain 8.6,8.6,16.09938 --reference-center 0,0,0 \
+  --rin 3.5 --nu 0.04 --pmax 6.6661 --ramp 0.2 \
+  --T 5 --dt 1e-5 --beta-body 5e8 --beta-disk 5e8 \
+  --disk-bulk 0 --mu 0 --lambda 0 \
+  --data runs/reproduce_sarah_gap2p085/mesh/ \
+  --every 10000 --probe-every 10000 \
+  --out runs/reproduce_sarah_gap2p085/case/
+```
+
+这里 `--mu 0 --lambda 0` 是未使用的旧 SFRH 参数；`--sarah-wall-stress` 实际启用上述 C10 和 βs，不是零材料应力。没有额外的 disk-only 体积项，以免与 Sarah 体积项重复。
+
+```bash
+PYVISTA_OFF_SCREEN=true python3 scripts/visualization/plot_glamv_tube_lowpressure_gpu.py \
+  --run "$PWD/runs/reproduce_sarah_gap2p085/case" \
+  --mesh-data "$PWD/runs/reproduce_sarah_gap2p085/mesh" \
+  --step 500000 --label 'Tube + housing | gap = 2.085 dz' --no-reference \
+  --out "$PWD/exports/reproduce_sarah_gap2p085/sections"
+```
+
+更小间距的扫描安排在这组 5 s 长测完成后顺序启动，并非与长测同时运行。扫描用于比较间距的稳定性与绕流影响；尚不能从单个 2.085Δz 结果确定经验最优值。
