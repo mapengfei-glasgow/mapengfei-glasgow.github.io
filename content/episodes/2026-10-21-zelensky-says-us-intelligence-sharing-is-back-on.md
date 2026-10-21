@@ -1,0 +1,303 @@
+---
+layout: single
+title: "Zelensky says US intelligence sharing is back on"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-21T00:00:00Z
+slug: "2026-10-21-zelensky-says-us-intelligence-sharing-is-back-on"
+audioDir: "2026-10-21-zelensky-says-us-intelligence-sharing-is-back-on"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-21-zelensky-says-us-intelligence-sharing-is-back-on/episode.mp3"
+totalDuration: 1594.7
+sentences:
+  - {text: "This is the Global News Podcast from the BBC, Wild Service.", start: 0.00, end: 2.62}
+  - {text: "Hi, I'm Uncle Desai, and in the early hours of Wednesday, the 21st of October, these are our main stories.", start: 5.28, end: 11.02}
+  - {text: "Ukraine's president says the US has resumed providing advance warning of Russian missile strikes after Kiev accused Washington of withholding intelligence.", start: 11.62, end: 21.02}
+  - {text: "Donald Trump's special envoy, Steve Wittkopf, heads to Russia for talks with President Putin and Indonesian wildfires are creating a large, toxic haze, choking millions of people across Southeast Asia.", start: 21.74, end: 33.40}
+  - {text: "Also in this podcast.", start: 36.60, end: 37.72}
+  - {text: "I think the big thing for us right now is just the cost of everything, even just a part for one of the combines of fuel pump was $950.", start: 38.26, end: 46.82}
+  - {text: "Farmers in traditionally Republican states turn away from Donald Trump ahead of the midterms and the race to rescue a shark trapped in South Korea.", start: 47.76, end: 56.96}
+  - {text: "The entire port is filled with all kinds of noise, lights and electrical signals.", start: 59.60, end: 64.02}
+  - {text: "So for the shark, there are just too many external physical stimuli coming from different directions.", start: 64.46, end: 69.66}
+  - {text: "Let's begin with the latest on the volatile relationship between the US and Ukraine.", start: 74.78, end: 79.06}
+  - {text: "Boiling tensions appear to have eased with Ukrainian President Volodymyr Zelensky announcing that the US has resumed providing advance warning of Russian missile strikes.", start: 79.58, end: 88.94}
+  - {text: "Kiev had accused Washington of withholding intelligence, a claim dismissed by the US Secretary of State Marco Rubio, who labeled it scandalous.", start: 89.52, end: 98.28}
+  - {text: "Mr Zelensky was speaking after talks with President Trump's envoy, Steve Wittkopf, in Norway.", start: 98.84, end: 103.32}
+  - {text: "We are thankful that intelligence works.", start: 103.92, end: 105.88}
+  - {text: "Now I'm speaking about early warning what is very important for our people, for children, adults, civilians, because we can hear when ballistic is coming.", start: 106.94, end: 117.78}
+  - {text: "So we are thankful to American side.", start: 117.94, end: 119.54}
+  - {text: "Now it works. It's great.", start: 119.92, end: 121.76}
+  - {text: "Although Washington has described the talks in Oslo as very productive and constructive, speaking at the White House, President Trump again chastised the Ukrainian leader for", start: 122.34, end: 131.96}
+  - {text: "failing to reach his own deal with Moscow to end the war.", start: 131.96, end: 134.78}
+  - {text: "Ukraine has to want to settle this war.", start: 135.28, end: 137.38}
+  - {text: "Zelensky has to want to settle this war.", start: 137.86, end: 139.74}
+  - {text: "And if he doesn't, I think it's going to be a very bad thing.", start: 140.26, end: 142.92}
+  - {text: "Look, we have given tremendous amounts to Ukraine.", start: 143.30, end: 146.98}
+  - {text: "We've got nothing back other than high diesel.", start: 148.18, end: 152.12}
+  - {text: "We have given probably possibly more money to Ukraine than almost anybody over the years, hundreds of billions of dollars.", start: 152.97, end: 164.36}
+  - {text: "We've got nothing back.", start: 164.96, end: 166.48}
+  - {text: "And the American taxpayers are tired of it.", start: 167.18, end: 169.56}
+  - {text: "We want Zelensky to make a deal.", start: 169.86, end: 171.54}
+  - {text: "I spoke to our Ukraine correspondent, Dan Johnson, about the meeting.", start: 172.34, end: 175.90}
+  - {text: "It was a warm handshake between President Zelensky and Steve Wittkopf.", start: 176.40, end: 180.86}
+  - {text: "There was also a bit of a manhug, which I think will have been a bonus and will have been taken as a positive sign that both sides think,", start: 180.86, end: 188.46}
+  - {text: "yeah, it was time to start warming up this relationship after 10 days of real bitter exchanges.", start: 188.74, end: 195.84}
+  - {text: "So President Zelensky, I think, will be pleased with what he's been able to come away with today.", start: 196.46, end: 201.02}
+  - {text: "Two main positives. Firstly, the restoration of intelligence that will enable Ukraine to have proper reliable early warnings once again of Russian incoming missiles.", start: 201.34, end: 212.24}
+  - {text: "That enables them to help citizens take shelter and also gives them at least a chance of shooting down those missiles.", start: 212.66, end: 219.36}
+  - {text: "The second point is Star Shield, the military version of Starlink.", start: 219.68, end: 223.92}
+  - {text: "That's had a speed restriction applied for the past week, which has been limiting Ukraine's ability to fly and coordinate its own drones in defense, but also in attack.", start: 223.92, end: 235.56}
+  - {text: "President Zelensky said the agreement is that that will be running back at full speed in the next couple of days.", start: 235.78, end: 241.86}
+  - {text: "So if those two things are true and are delivered, that solves two major headaches that have been present for Ukraine that they've been complaining about", start: 242.08, end: 249.84}
+  - {text: "and suspicious of the motives of over the past week during this bit around.", start: 249.84, end: 253.90}
+  - {text: "But there is plenty of outstanding issues, but one major one is the Patriot Missile Interceptors that they rely on to shoot down those Russian missiles.", start: 253.92, end: 261.56}
+  - {text: "That's something President Zelensky raised today, but no promises on that.", start: 261.98, end: 265.34}
+  - {text: "Ukrainians are still doubtful about America as a reliable ally and an honest broker.", start: 265.76, end: 270.78}
+  - {text: "And Donald Trump is still laying on the pressure to do a deal to end this war.", start: 271.04, end: 274.56}
+  - {text: "And I guess for President Zelensky, a bad deal could be described as worse than no deal, as he doesn't want to give up too much when it comes to these negotiations.", start: 275.00, end: 283.88}
+  - {text: "If they are multilateral and trilateral talks between Russia and the US.", start: 283.92, end: 287.60}
+  - {text: "Yes, absolutely. President Zelensky says he wants this war to end.", start: 287.98, end: 292.72}
+  - {text: "He needs it to end for the good of his people to try to protect people's lives.", start: 292.84, end: 296.88}
+  - {text: "But he can't give any ground to Russia.", start: 296.88, end: 299.38}
+  - {text: "He can't concede to the Kremlin's demands to what Vladimir Putin stated as his aims when he started this war.", start: 299.50, end: 307.24}
+  - {text: "So that's why they are nervous of entering into negotiations.", start: 307.24, end: 310.50}
+  - {text: "They're wary that they may not even have a seat at the table.", start: 311.16, end: 313.94}
+  - {text: "There's been discussions over the past 24 hours about perhaps Trump hosting a summit between the Russians, the Chinese and the Americans.", start: 314.02, end: 321.54}
+  - {text: "But no talk of Ukraine even being there.", start: 321.68, end: 323.24}
+  - {text: "So they want to seat at the table.", start: 323.34, end: 324.86}
+  - {text: "They want to be able to make their demands and they're willing to talk about compromise.", start: 324.96, end: 329.74}
+  - {text: "But they have some serious red lines they're not prepared to cross.", start: 329.96, end: 333.38}
+  - {text: "And they are very suspicious that the tone of discussions, particularly towards the Russians from the White House over the past few weeks, but definitely over the past few days,", start: 333.38, end: 343.18}
+  - {text: "is being increasingly one -sided in their opinion that Donald Trump seems to be willing to do deals with Vladimir Putin to sell diesel and on other things and is not taking into account what Ukraine's demands are,", start: 343.20, end: 356.48}
+  - {text: "what its needs are, what its vulnerabilities are.", start: 356.58, end: 358.84}
+  - {text: "So President Zelensky's got a thread of fine line there.", start: 359.04, end: 361.36}
+  - {text: "He doesn't want to look obstinate.", start: 361.38, end: 363.06}
+  - {text: "He doesn't want to look difficult.", start: 363.06, end: 364.18}
+  - {text: "He wants to be helpful and constructive.", start: 364.32, end: 365.88}
+  - {text: "But he can't be seen to be giving anything away because his people know exactly what is at stake here.", start: 366.22, end: 371.90}
+  - {text: "They are being bombarded by Russian drones and missiles day after day, night after night that is causing so much destruction.", start: 371.96, end: 378.12}
+  - {text: "It is costing so many lives.", start: 378.40, end: 380.24}
+  - {text: "Yes, people want that to end, but they do not want to give up.", start: 380.38, end: 382.94}
+  - {text: "Dan Johnson reporting. Mr.", start: 383.32, end: 385.50}
+  - {text: "Trump's envoy, Steve Whitcoff, is now travelling to St.", start: 385.58, end: 388.00}
+  - {text: "Petersburg, where he will share the latest peace proposals with President Putin.", start: 388.06, end: 391.88}
+  - {text: "The Russian leader has yet to publicly comment on the talks.", start: 391.88, end: 395.30}
+  - {text: "But his foreign minister, Sergei Lavrov, earlier said the Kremlin would listen to what Mr.", start: 395.86, end: 399.92}
+  - {text: "Whitcoff had to offer while ruling out any political concessions.", start: 399.98, end: 404.00}
+  - {text: "Here's our Russia editor, Steve Rosenberg.", start: 404.48, end: 406.24}
+  - {text: "According to Norway's Prime Minister, who hosted the Oslo talks, the hope is that the negotiations in St.", start: 406.82, end: 412.80}
+  - {text: "Petersburg will lead to a three -way meeting of the leaders of Russia, Ukraine and the United States.", start: 412.88, end: 418.74}
+  - {text: "But up till now, Vladimir Putin has shown no interest in sitting down with Ukraine's president, unless it's around a table in Moscow.", start: 419.26, end: 427.86}
+  - {text: "And judging by his recent speeches and statements, the Kremlin leader is in no mood for compromise, seemingly determined to continue the war.", start: 428.68, end: 437.24}
+  - {text: "The specific details of the latest peace plan have not been released, but the discussions in Oslo touched on security and a post -war prosperity plan for Ukraine, territorial issues, sanctions and the European security order.", start: 438.06, end: 453.18}
+  - {text: "In recent days, Russian officials have welcomed President Trump's public criticism of President Zelensky, as well as the U .S.", start: 454.06, end: 461.52}
+  - {text: "president's decision to buy Russian diesel and to waive some sanctions on Russia.", start: 461.52, end: 467.14}
+  - {text: "Steve Rosenberg. Donald Trump was elected in 2024 to make life for Americans more affordable.", start: 467.77, end: 474.60}
+  - {text: "Two years on, the rocketing oil prices from the war in Iran are hurting his promise.", start: 475.21, end: 479.34}
+  - {text: "There's still no clear end in sight.", start: 480.00, end: 481.68}
+  - {text: "In meetings with Pakistan, Iran ruled out talks with the U .S.", start: 482.24, end: 485.52}
+  - {text: "until it lifts its blockade of Iranian ports and its sanctions on oil exports.", start: 485.56, end: 490.42}
+  - {text: "Meanwhile at home, Donald Trump is turning his focus to win over farmers who have been hit by the hike in fuel prices.", start: 491.16, end: 497.58}
+  - {text: "They've been promised an eight billion dollar injection into the industry in the form of one -off individual payments.", start: 498.18, end: 504.16}
+  - {text: "But will that provide enough relief to farmers?", start: 504.60, end: 506.80}
+  - {text: "And will it be enough for Republicans to secure their vote?", start: 507.38, end: 510.16}
+  - {text: "A correspondent Katrina Perry reports from Kansas, one of the battleground states that Republicans are fighting to keep.", start: 510.72, end: 516.78}
+  - {text: "We don't usually talk about Kansas as a battleground state, at least not on a national level.", start: 517.40, end: 522.68}
+  - {text: "Kansas hasn't voted a Democrat for Senate since 1932.", start: 522.90, end: 526.94}
+  - {text: "It hasn't voted a Democrat for President since 1964.", start: 527.58, end: 531.80}
+  - {text: "But multiple outlets are reporting the Senate race this time to be a toss -up.", start: 532.44, end: 537.30}
+  - {text: "And why is that?", start: 537.70, end: 538.46}
+  - {text: "Well, 88 percent of Kansas is given over to farmland.", start: 538.82, end: 542.12}
+  - {text: "Only Texas and Montana has more farms than Kansas does.", start: 542.20, end: 545.64}
+  - {text: "And farmers are really having a tough time of it, of late.", start: 546.20, end: 549.32}
+  - {text: "They're experiencing that cost of living crisis that everyone else is.", start: 549.76, end: 553.32}
+  - {text: "But it's compounded by a high price of diesel for their machinery, fertilizer, the price of grain is an issue of beef access to markets because of the tariffs the list goes on and they're quite angry.", start: 553.54, end: 565.90}
+  - {text: "Let's have a listen now to one of them, Nick Lewandowski, who's a farmer right in the middle of Kansas.", start: 566.48, end: 570.80}
+  - {text: "Well, between the weather and the prices and fuel costs and fertilizer and all that, it's it's kind of been kind of choppy, I guess you could say.", start: 571.98, end: 584.77}
+  - {text: "You know, we've been cutting soybeans, started that, and then had a little bit of a rain here this morning.", start: 585.51, end: 590.91}
+  - {text: "So that made us have to pivot and move over to corn, which is good because we can handle that.", start: 590.91, end: 596.69}
+  - {text: "We can make that work.", start: 596.93, end: 598.15}
+  - {text: "But I think the big thing for us right now is just the cost of everything.", start: 598.51, end: 603.01}
+  - {text: "You know, I was talking to Dad the other day and even just a piece of a part for one of the combines, a fuel pump was nine hundred and fifty dollars.", start: 603.77, end: 612.55}
+  - {text: "And I think you can factor in tariffs with that and all that.", start: 613.23, end: 616.79}
+  - {text: "But then how much would that normally be or had been in the past?", start: 617.09, end: 619.71}
+  - {text: "Probably a couple hundred dollars less.", start: 619.81, end: 621.59}
+  - {text: "Yeah. And it's small enough, like he said, you can hold it in the palm of your hand and that's nearly a thousand dollars.", start: 621.77, end: 628.05}
+  - {text: "But the big thing right now is fuel and fertilizer.", start: 628.69, end: 631.95}
+  - {text: "So I think everybody's just really anxious.", start: 632.57, end: 634.35}
+  - {text: "It's a very high stress time anyway.", start: 634.57, end: 636.25}
+  - {text: "You know, when you're trying to get all this done and then you've got cattle that need to be moved in off of pastures and that as well,", start: 636.53, end: 643.77}
+  - {text: "then you factor in all of the the challenges that you don't have any control over, obviously, whether it's the markets or the weather or trade war or a war with Iran.", start: 644.05, end: 655.35}
+  - {text: "It just it just adds more uncertainty and frankly, chaos to the situation.", start: 655.79, end: 661.09}
+  - {text: "Now, one indicator of possibly just how worried the Republican Party is about Kansas and the Senate seat here is that we look and we see", start: 661.35, end: 667.97}
+  - {text: "that President Trump came to Kansas last night and held a rally.", start: 667.97, end: 671.35}
+  - {text: "He hasn't held a rally here since 2018.", start: 671.35, end: 673.91}
+  - {text: "So he didn't come when he was on the ballot himself in 2020 or 2024 because of how locked in the Republican vote was.", start: 674.47, end: 681.01}
+  - {text: "It's not the same this time.", start: 681.31, end: 682.71}
+  - {text: "He was here trying to remind Republican voters that they need to turn out and vote for the Republican candidates.", start: 682.79, end: 689.89}
+  - {text: "It's all going to come down to turn out here.", start: 690.11, end: 691.89}
+  - {text: "If indeed it's a toss up race as so many polls are showing it right now.", start: 691.89, end: 696.79}
+  - {text: "And in Kansas, people can split their tickets as well, voting for Democrats and Republicans in different races on the same day.", start: 697.01, end: 703.31}
+  - {text: "The current governor is a Democrat, for example, and there have been many Democratic governors in this state while the support has been so loyal on a Republican level and for national candidates.", start: 703.73, end: 714.53}
+  - {text: "So early voting is underway.", start: 715.27, end: 716.41}
+  - {text: "Twenty five thousand people have already cast their vote here in Kansas.", start: 716.77, end: 720.11}
+  - {text: "And we are two weeks to go to polling day.", start: 720.55, end: 723.23}
+  - {text: "Katrina Perry reporting from Kansas.", start: 723.61, end: 725.39}
+  - {text: "Still to come in this podcast.", start: 728.04, end: 729.56}
+  - {text: "I don't like it because the scent is too strong and it gives me a headache.", start: 732.76, end: 736.86}
+  - {text: "It's only bearable when the trees are not all in one place.", start: 737.40, end: 740.14}
+  - {text: "Our smelly trees are causing a stink in Vietnam.", start: 740.50, end: 742.86}
+  - {text: "This is the Global News Podcast.", start: 750.30, end: 751.98}
+  - {text: "Indonesia is battling its worst wildfire season in a decade.", start: 752.84, end: 756.44}
+  - {text: "The fires have caused a large toxic haze, which is choking millions of residents across Southeast Asia.", start: 757.10, end: 762.96}
+  - {text: "The smoke has been linked to hundreds of thousands of respirators and respiratory illnesses in Indonesia and has drifted to neighboring countries such as Singapore and Malaysia.", start: 763.60, end: 771.82}
+  - {text: "Indonesia reporter Lisa Tambunen sent this report from Central Kalimantan, where air pollution levels have soared to hazardous levels.", start: 772.32, end: 779.74}
+  - {text: "I'm in Palangkaraya, Central Kalimantan, one of the worst affected areas.", start: 784.67, end: 788.85}
+  - {text: "Millions of hectares have been burned by fires in Indonesia.", start: 789.21, end: 792.49}
+  - {text: "This fire is difficult because we need...", start: 793.37, end: 798.07}
+  - {text: "The firefighters I've spoken to here told me it takes months to put out underground peat fires.", start: 798.07, end: 804.41}
+  - {text: "Even then, it may not be completely extinguished and reignite into open flames.", start: 804.87, end: 810.15}
+  - {text: "Environmental groups told me deforestation, land clearing by large -scale plantation owners and lack of legal action are to blame for these fires.", start: 810.65, end: 822.31}
+  - {text: "The government has vowed to take stricter actions.", start: 822.75, end: 825.27}
+  - {text: "Meanwhile, people here are breathing in polluted air.", start: 825.27, end: 829.41}
+  - {text: "I'm here at a health centre in Palangkaraya.", start: 832.54, end: 835.20}
+  - {text: "People come here seeking help for their symptoms like difficulty breathing, eye irritation and headaches.", start: 835.66, end: 842.28}
+  - {text: "I spoke to Natari Victoria, a 22 -year -old resident who came to seek treatment for her non -stop cough.", start: 842.96, end: 848.64}
+  - {text: "I have a cough.", start: 850.84, end: 852.06}
+  - {text: "It started when the fires broke out.", start: 852.34, end: 854.18}
+  - {text: "I have young cousins including babies.", start: 854.18, end: 856.60}
+  - {text: "They are coughing too.", start: 857.14, end: 857.94}
+  - {text: "Jim McQuaid is an atmospheric scientist from the University of Leeds.", start: 860.18, end: 864.58}
+  - {text: "He has travelled from the UK to measure the impact of the fires here.", start: 864.94, end: 868.84}
+  - {text: "He warns of the danger of the tiniest haze particles on people's health long -term.", start: 869.32, end: 874.40}
+  - {text: "Jim, could you please talk to us about the pollution that's happening because of the fires and its impact?", start: 874.96, end: 879.42}
+  - {text: "The important part is the younger children.", start: 880.14, end: 882.64}
+  - {text: "It's a very growing population in the region.", start: 883.50, end: 886.36}
+  - {text: "That's one thing we want to get across.", start: 886.88, end: 888.20}
+  - {text: "The smoke is inconvenient, it's respiratory, but it has a long -term effect on the population.", start: 888.88, end: 894.72}
+  - {text: "It's hidden. You can't see that for a long, long time.", start: 895.00, end: 897.50}
+  - {text: "The Indonesian government says they are putting all their efforts into extinguishing the fires and taking stricter measures against those suspected of contributing to them.", start: 897.82, end: 906.91}
+  - {text: "But, tension is growing across the borders.", start: 907.29, end: 909.93}
+  - {text: "Singaporeans and Malaysians are demanding more action from Indonesia to end the annual toxic haze affecting their countries.", start: 909.93, end: 917.49}
+  - {text: "Back home, Indonesians held protests in the capital on Tuesday, asking the government to hold corporations linked to the fires accountable.", start: 918.13, end: 926.21}
+  - {text: "Lisa Tambunan reporting from Kalimantan in Indonesia.", start: 928.29, end: 931.63}
+  - {text: "Now to South Korea, where the authorities are trying for a third time to free a large shark trapped in a harbour.", start: 932.79, end: 939.83}
+  - {text: "The three -metre -long creature, who's been nicknamed Bukangi, has been stuck in the artificial waterway for more than a month.", start: 939.83, end: 947.39}
+  - {text: "More than 1 .6 million people have visited the harbour in the southern city Besan to see her.", start: 948.01, end: 953.13}
+  - {text: "Kim Hyung Woo from South Korea's National Institute of Fishery Science has been leading the rescue operation.", start: 953.79, end: 959.93}
+  - {text: "The entire port is filled with all kinds of noise, lights and electrical signals.", start: 962.59, end: 966.99}
+  - {text: "It's a bit like trying to hear someone speaking in a noisy place.", start: 966.99, end: 970.39}
+  - {text: "So for the shark, there are just too many external physical stimuli coming from different directions.", start: 970.69, end: 975.77}
+  - {text: "And we think that might be making it difficult for the shark to properly find its way out.", start: 976.31, end: 980.23}
+  - {text: "I spoke to our correspondent in Busan, Jake Kwan.", start: 980.61, end: 983.67}
+  - {text: "This is a major operation coordinated between 10 different government agencies including the fisheries and the city government.", start: 984.09, end: 991.41}
+  - {text: "But it is a very delicate operation as well because the primary objective here is to make sure the shark isn't hurt.", start: 991.91, end: 997.53}
+  - {text: "We're talking about a dusky shark, a member of the endangered species of the shark who has been over -hunted.", start: 997.99, end: 1003.85}
+  - {text: "Their fins are considered delicacy in China and other parts of Asia.", start: 1004.29, end: 1007.61}
+  - {text: "So they're really trying their best to make sure the shark isn't hurt.", start: 1007.97, end: 1010.57}
+  - {text: "I mean, I can see the shark in front of me right now actually because the water is quite shallow and there are a dozen men in diver suit", start: 1010.69, end: 1018.39}
+  - {text: "who are deploying this harbour -wide netting on a foot kind of buoy.", start: 1018.39, end: 1023.79}
+  - {text: "And then what they're doing is they're slowly pushing the shark towards the ocean.", start: 1024.47, end: 1027.89}
+  - {text: "At the same time, I see hundreds of spectators here and occasionally I'll hear someone sharply yelling, Oh my gosh, the shark's hiding.", start: 1028.37, end: 1036.83}
+  - {text: "So the excitement here is very palpable.", start: 1037.43, end: 1039.19}
+  - {text: "Yeah, it's become a massive story, hasn't it, in South Korea?", start: 1039.59, end: 1041.79}
+  - {text: "What else have people said to you?", start: 1041.91, end: 1042.99}
+  - {text: "Yes, I mean, it's been a little more than a month and the shark has really become the big breakout star in South Korea.", start: 1043.39, end: 1049.77}
+  - {text: "In the month that has since been, more than 1 .6 million people have come to this park, which it wasn't really a known park.", start: 1049.77, end: 1057.65}
+  - {text: "This was rarely visited, barely known before this whole thing.", start: 1057.79, end: 1060.85}
+  - {text: "And since then, there has been merchandise line with pins and plushy toys.", start: 1061.19, end: 1065.37}
+  - {text: "And of course the t -shirts in the city has also named this shark the official mascot.", start: 1065.63, end: 1071.05}
+  - {text: "And during the day, yes, every day, hundreds of people come here excited about the shark.", start: 1071.41, end: 1075.47}
+  - {text: "And at night time, the local citizens have formed some sort of militia, like a vigilante patrol group to make sure that no one is shining their torch or laser and deserving the shark.", start: 1075.61, end: 1085.75}
+  - {text: "And one thing the biologists are warning is that this is very unnatural habitat for a shark to be in.", start: 1086.43, end: 1092.43}
+  - {text: "This concrete harbor and the shark may be under a lot of stress from just simply being seen by too many people and the city lights", start: 1092.55, end: 1099.43}
+  - {text: "and all these stimuli that is not present in natural ocean.", start: 1099.43, end: 1102.51}
+  - {text: "And just finally, Jay, what are the challenges as well?", start: 1102.81, end: 1105.31}
+  - {text: "It's already failed twice the attempts to rescue the shark.", start: 1105.31, end: 1108.77}
+  - {text: "So does that guarantee it will work for a third time?", start: 1108.95, end: 1111.41}
+  - {text: "No, there isn't. I mean, this was tried twice earlier and this is, like you said, the third time.", start: 1111.81, end: 1117.31}
+  - {text: "And the last two times it failed because the sharks simply swim around the netting or simply return to the harbor after.", start: 1117.77, end: 1124.52}
+  - {text: "I mean, the biologists are saying that, you know, one of the reasons the shark is drawn here is because of unusually warm waters.", start: 1125.27, end: 1131.53}
+  - {text: "The sharks usually prefer tropical waters in the south and waters around Korea is not nearly warm enough for that.", start: 1131.97, end: 1137.89}
+  - {text: "But because of this unusual weather and climate, the shark has been moving up north.", start: 1138.23, end: 1142.83}
+  - {text: "And even if they're, you know, able to succeed today in driving the shark out, they'll have to see whether the shark returns to feed on the fish later.", start: 1143.55, end: 1152.19}
+  - {text: "And with the warm weather just getting warmer and warmer every year, who's to tell that this is the last time this harbor will see these sharks?", start: 1152.41, end: 1159.21}
+  - {text: "Jake Kwon in Busan.", start: 1159.71, end: 1161.03}
+  - {text: "A man in Egypt has been sentenced to 10 years in prison for impersonating a judge, defrauding several people and possessing an unlicensed firearm.", start: 1162.03, end: 1172.01}
+  - {text: "The Cairo court also sentenced to court clerks for three years each.", start: 1172.65, end: 1176.71}
+  - {text: "The BBC's use of Taha has been following the story.", start: 1177.27, end: 1179.45}
+  - {text: "He's been telling me more.", start: 1179.89, end: 1180.87}
+  - {text: "Well, this person by the name of Mustafa Kamal is an unemployed man in Egypt.", start: 1181.35, end: 1186.51}
+  - {text: "He impersonated the judge by way of bribing three court clerks to gain access to the courthouse.", start: 1186.73, end: 1195.73}
+  - {text: "He had himself filmed sitting at a judge's bench with piles of fires in front of him.", start: 1195.99, end: 1201.91}
+  - {text: "He had filmed himself.", start: 1202.49, end: 1203.85}
+  - {text: "He posted those films with him wearing a sash, a judge's sash, and posted those films online on social media and elsewhere.", start: 1204.15, end: 1212.03}
+  - {text: "He had even managed to appear on some chat show on TV talking about his humble backgrounds and how he rose through the ranks to reach", start: 1212.37, end: 1221.17}
+  - {text: "the post of a judge in the country.", start: 1221.17, end: 1223.39}
+  - {text: "And by way of using these videos, he managed to persuade some people that he can secure government housing units for them in return for some money.", start: 1224.35, end: 1235.73}
+  - {text: "And by doing so, he had managed to collect hundreds of thousands of dollars equivalent of Egyptian pounds.", start: 1235.95, end: 1242.37}
+  - {text: "He had bribed those three court clerks, giving them about 60 ,000 US dollars, which is a lot of money in Egypt, to continue his scam.", start: 1242.93, end: 1253.59}
+  - {text: "And then he was actually exposed back in August.", start: 1254.47, end: 1258.57}
+  - {text: "Yeah, how was he exposed exactly?", start: 1258.93, end: 1260.23}
+  - {text: "How did this come to light?", start: 1260.43, end: 1261.21}
+  - {text: "This came to light last August when one of the people who had paid him money to win one of those government housing units failed to deliver as he had promised.", start: 1261.55, end: 1272.69}
+  - {text: "So this man reported the fake judge, Mustafa Kamal, to the authorities who had arrested him then and started digging what happened and checking all those video footage", start: 1272.69, end: 1284.93}
+  - {text: "that he posted online to find out that he was sitting in a courtroom with all those files in front of him.", start: 1284.93, end: 1290.97}
+  - {text: "He had even bragged that he had a firearm, which was unlicensed.", start: 1291.19, end: 1295.79}
+  - {text: "So this is one of the charges against him that he was sentenced for, along with scamming people and, of course, impersonating a judge.", start: 1296.05, end: 1303.61}
+  - {text: "So just how convincing were these videos?", start: 1304.15, end: 1305.83}
+  - {text: "How was he able to pull it off?", start: 1305.99, end: 1307.29}
+  - {text: "They are pretty convincing for someone who is not exactly a specialist or trained to ask all sorts of questions about various components in the videos.", start: 1307.49, end: 1316.99}
+  - {text: "For example, a judge in Egypt would not necessarily carry a firearm and have it tucked under his trousers belt.", start: 1317.49, end: 1323.67}
+  - {text: "That was a giveaway.", start: 1324.15, end: 1325.47}
+  - {text: "And the other one was that he was wearing a sash, which is a judge's sash, but he claimed to have been working at a court of causation,", start: 1326.19, end: 1336.23}
+  - {text: "but he was wearing the wrong color sash for that post.", start: 1336.39, end: 1339.37}
+  - {text: "So that's another giveaway.", start: 1339.99, end: 1341.31}
+  - {text: "Had the person viewing the video has known the difference in colors and the difference in specialty for the various courts.", start: 1341.73, end: 1348.57}
+  - {text: "And the court clocks, they've been jailed as well.", start: 1349.09, end: 1351.21}
+  - {text: "Well, there were three clocks, court clocks, involved in the case.", start: 1351.33, end: 1354.05}
+  - {text: "Two of them have been sentenced to three years in jail.", start: 1354.61, end: 1357.31}
+  - {text: "However, the third one died before the trial came to being.", start: 1357.57, end: 1362.39}
+  - {text: "And therefore, he was not sentenced.", start: 1363.09, end: 1365.17}
+  - {text: "You serve Taha. We end in Vietnam where trees in the country's capital are causing a stink.", start: 1365.93, end: 1370.67}
+  - {text: "Tall leafy evergreens with white and green flowers have lined the streets of Hanoi since the late 1800s.", start: 1371.21, end: 1377.57}
+  - {text: "The local authorities are now deciding if they should move some of the city's 14 ,000 blackboard trees after complaints about their overpowering smell.", start: 1377.91, end: 1385.73}
+  - {text: "Chantal Hartle has a story.", start: 1386.27, end: 1387.69}
+  - {text: "The star -shaped blossoms of Vietnam's evergreen blackboard trees have been the subject of many romantic songs and poems about Hanoi.", start: 1390.45, end: 1398.17}
+  - {text: "The trees bloom in the autumn, releasing a perfume -like scent.", start: 1398.79, end: 1402.35}
+  - {text: "They're known locally as Hoa Sua, which translates to milk flower.", start: 1402.87, end: 1406.83}
+  - {text: "But some believe its other common name, Devil's Tree, is more appropriate.", start: 1407.35, end: 1411.79}
+  - {text: "I don't like it because the scent is too strong and it gives me a headache.", start: 1415.17, end: 1419.51}
+  - {text: "It's only bearable when the trees are not all in one place.", start: 1420.07, end: 1422.65}
+  - {text: "Another resident described feeling under direct attack from the dozens of trees near him and said he kept his doors and windows shut because of the smell.", start: 1423.35, end: 1431.91}
+  - {text: "After complaints came trickling in, the authorities cut back up to 1 ,000 trees in an attempt to reduce their intense fragrance.", start: 1432.57, end: 1440.03}
+  - {text: "But that doesn't appear to have worked.", start: 1440.03, end: 1444.52}
+  - {text: "Officials now say they might have to relocate some of the trees to more suitable locations and replace them with other types of greenery.", start: 1445.06, end: 1452.48}
+  - {text: "And that has upset many locals who admire them and actually appreciate the scent.", start: 1452.90, end: 1457.84}
+  - {text: "I really like it as I find the fragrance lovely.", start: 1460.94, end: 1463.50}
+  - {text: "To me, this is a signature of Hanoi and it has been for decades.", start: 1463.94, end: 1466.78}
+  - {text: "You can't truly have an autumn in Hanoi without this flower.", start: 1467.22, end: 1469.90}
+  - {text: "It's a delicate situation.", start: 1469.90, end: 1472.10}
+  - {text: "Balancing the preservation of these trees which date back to French colonial rule and the joy they bring to many against the comfort of people living and working nearby.", start: 1472.52, end: 1481.40}
+  - {text: "In 2019, around 100 blackboard trees were moved to the outskirts of Hanoi because of the smell of their flowers.", start: 1482.10, end: 1488.74}
+  - {text: "But according to state media, a similar plan in 2023 to move more trees never went ahead because of local opposition.", start: 1489.34, end: 1496.32}
+  - {text: "As one resident put it, it's easy to cut down a tree.", start: 1496.96, end: 1500.46}
+  - {text: "But how does one go about cutting down a memory?", start: 1500.90, end: 1503.48}
+  - {text: "Shantel Hartle reporting. That's all for this episode.", start: 1504.04, end: 1507.60}
+  - {text: "But before I go, my colleague Celia Hatton has a special request for listeners of the podcast.", start: 1507.60, end: 1513.00}
+  - {text: "Hi, I'm Celia Hatton from the Global News Podcast.", start: 1513.50, end: 1515.84}
+  - {text: "We're working on a new special edition of the pod that's looking at China and what lies ahead for its powerful leader, Xi Jinping.", start: 1516.24, end: 1523.14}
+  - {text: "At the end of this month, the top ranks of China's Communist Party are meeting behind closed doors.", start: 1523.72, end: 1528.70}
+  - {text: "And it's believed around that time, Xi Jinping could indicate the next generation of leaders to run the country.", start: 1529.00, end: 1535.28}
+  - {text: "He's not stepping aside anytime soon, but we'll get a sense of what lies ahead for China, one of the world's superpowers.", start: 1535.74, end: 1542.18}
+  - {text: "So we're hoping for your questions on China and its future.", start: 1542.76, end: 1546.26}
+  - {text: "What do you want to know about Xi Jinping and how he operates?", start: 1546.80, end: 1549.46}
+  - {text: "We'll try to tackle the answers for you.", start: 1550.14, end: 1551.80}
+  - {text: "Send your emails and video and voice notes to the usual address globalpodcast .bbc .co .uk And that's all from us for now.", start: 1551.96, end: 1563.08}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1563.22, end: 1567.72}
+  - {text: "You can also find us on X at BBC Wild Service.", start: 1568.28, end: 1570.74}
+  - {text: "Use the hashtag Global News Pod.", start: 1570.96, end: 1573.04}
+  - {text: "And don't forget our sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.", start: 1573.58, end: 1579.26}
+  - {text: "This edition of the Global News Podcast was mixed by Chris Lovelock and the producer was Helena Burke.", start: 1579.64, end: 1584.58}
+  - {text: "The editor is Karen Martin and I'm Uncle Decide.", start: 1585.18, end: 1587.80}
+  - {text: "Until next time, goodbye.", start: 1588.12, end: 1589.40}
+---

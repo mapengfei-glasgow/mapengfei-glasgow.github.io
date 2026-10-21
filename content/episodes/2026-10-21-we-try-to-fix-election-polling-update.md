@@ -1,0 +1,467 @@
+---
+layout: single
+title: "We try to fix election polling (update)"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-21T00:00:00Z
+slug: "2026-10-21-we-try-to-fix-election-polling-update"
+audioDir: "2026-10-21-we-try-to-fix-election-polling-update"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-21-we-try-to-fix-election-polling-update/episode.mp3"
+totalDuration: 1982.0
+sentences:
+  - {text: "This week on Up First, the midterms less than 15 days away.", start: 1.23, end: 5.19}
+  - {text: "President Trump, Vice President J .D.", start: 5.61, end: 7.33}
+  - {text: "Vance, and former President Obama all crisscrossing the country, rallying voters in key races from Michigan to Georgia to North Carolina.", start: 7.53, end: 15.35}
+  - {text: "Join us every morning as we guide you through the home stretch of this election season, Up First on the NPR app or wherever you get your podcasts.", start: 15.91, end: 23.73}
+  - {text: "This is Planet Money from NPR.", start: 24.81, end: 27.17}
+  - {text: "Every time election season comes around and you see all of those frantic election polls in the news, I think back to the time that I", start: 30.34, end: 37.62}
+  - {text: "learned just how hard it is to actually do one of those election polls and why it's gotten so hard.", start: 37.62, end: 44.06}
+  - {text: "This was back in 2022 when we, as we get Planet Money, had an idea to try and maybe fix polling and one very generous polling", start: 44.60, end: 53.60}
+  - {text: "outfit actually let us try out our idea.", start: 53.60, end: 56.70}
+  - {text: "So, we thought we would revisit that story today because we also have an update to how polling is changing and how our fix is actually still being used,", start: 56.70, end: 66.08}
+  - {text: "though maybe not how we had originally imagined.", start: 66.36, end: 69.30}
+  - {text: "Details about that at the end.", start: 69.68, end: 71.00}
+  - {text: "But first, let us start with a trip that Nick and I took for the original story.", start: 71.40, end: 75.56}
+  - {text: "You and I headed to Poughkeepsie, New York to visit the Marist College Polling Center.", start: 77.00, end: 83.18}
+  - {text: "Polling is how we figure out what Americans think about anything.", start: 83.18, end: 88.26}
+  - {text: "And for pollsters, this is the most exciting time of the year.", start: 88.80, end: 92.90}
+  - {text: "Right here, they are making hundreds of thousands of calls to figure out who's likely to win in the upcoming midterm elections.", start: 93.30, end: 99.90}
+  - {text: "And the person tasked with training up all the people who do the dialing is Daniela Charter.", start: 100.42, end: 106.74}
+  - {text: "And Daniela has agreed not only to let us sit in on a training, but later tonight, she's going to let us do the dialing for a real poll.", start: 107.34, end: 116.18}
+  - {text: "But first, she needs to run us through the script we're going to use.", start: 116.74, end: 119.52}
+  - {text: "So why don't we start, Jeff, to read that introduction for my first victim.", start: 119.74, end: 124.20}
+  - {text: "Hello, my name is Jeff.", start: 124.62, end: 125.82}
+  - {text: "I'm calling for Marist College.", start: 126.10, end: 127.52}
+  - {text: "We're talking to people in your community and collecting opinions about issues facing residents.", start: 128.00, end: 132.14}
+  - {text: "Well, who are you?", start: 132.56, end: 133.50}
+  - {text: "Why are you calling me?", start: 133.82, end: 135.08}
+  - {text: "Daniela's mission is to prepare us for the hundreds of calls we're going to make tonight.", start: 135.52, end: 139.46}
+  - {text: "And all the different ways people are going to try to avoid answering our survey.", start: 139.46, end: 144.02}
+  - {text: "Sometimes people will come back right away and be like, I'm not buying anything.", start: 144.36, end: 147.74}
+  - {text: "Or they hear college.", start: 147.96, end: 148.86}
+  - {text: "I'm not donating. No, no, no.", start: 149.02, end: 150.32}
+  - {text: "We're not looking for money.", start: 150.76, end: 152.66}
+  - {text: "We're not selling anything.", start: 153.06, end: 154.24}
+  - {text: "We just want your opinion.", start: 154.40, end: 155.74}
+  - {text: "We're doing important research.", start: 156.02, end: 157.62}
+  - {text: "We came to Marist College because, well, full disclosure, Marist has a working relationship with NPR.", start: 158.30, end: 163.42}
+  - {text: "They do some polls for us.", start: 163.92, end: 165.12}
+  - {text: "And also, Marist has one of the top polling operations in the country.", start: 165.12, end: 169.86}
+  - {text: "And one reason they're so good, Daniela says, is the magic phrases they use to keep people on the phone.", start: 170.32, end: 175.54}
+  - {text: "My very favorite is, let's try a few and see how it goes.", start: 175.88, end: 178.84}
+  - {text: "As in, let's try a few questions and see how it goes.", start: 179.50, end: 183.72}
+  - {text: "She says it works for nearly everything.", start: 184.08, end: 186.68}
+  - {text: "If a person says they're too busy, let's try a few and see how it goes.", start: 187.18, end: 191.02}
+  - {text: "If they say they don't have any opinions, well, let's try a few.", start: 191.02, end: 195.60}
+  - {text: "See how it goes.", start: 195.94, end: 196.50}
+  - {text: "And it works. It really does.", start: 197.14, end: 198.52}
+  - {text: "Does it work every single time?", start: 198.68, end: 199.86}
+  - {text: "No, but you'd be surprised.", start: 200.30, end: 201.44}
+  - {text: "Do you use that term in your personal life now?", start: 201.72, end: 203.64}
+  - {text: "Definitely. Let's try a few and see how it goes.", start: 204.00, end: 205.90}
+  - {text: "In fact, I think I just said it to my husband yesterday about something.", start: 206.02, end: 209.12}
+  - {text: "I think about changing his diet.", start: 209.54, end: 210.94}
+  - {text: "I really do. I really, I just remembered that.", start: 211.20, end: 214.04}
+  - {text: "I really think that I said it.", start: 214.44, end: 215.88}
+  - {text: "Daniela teaches us some other phrases we can use to get people to answer.", start: 216.18, end: 219.72}
+  - {text: "Every opinion matters. There are no right or wrong answers.", start: 219.72, end: 223.58}
+  - {text: "It'll just take a few minutes.", start: 224.00, end: 225.02}
+  - {text: "I promise. Though Daniela says her most important advice, it's not a phrase.", start: 225.52, end: 229.96}
+  - {text: "No, no, no. It's more of a state of mind.", start: 230.62, end: 233.12}
+  - {text: "She tells us when you are out there dialing later, promise me this.", start: 233.78, end: 237.78}
+  - {text: "You're going to throw a big smile on your face.", start: 238.26, end: 240.98}
+  - {text: "Smile while you dial.", start: 241.46, end: 242.42}
+  - {text: "Absolutely. Smile while you dial.", start: 242.86, end: 245.12}
+  - {text: "Because if you smile, sound upbeat, you sound good, and you sound like someone that the respondent's going to want to talk to.", start: 245.48, end: 253.34}
+  - {text: "That's how you hook them.", start: 253.72, end: 254.66}
+  - {text: "And that's really important.", start: 255.08, end: 255.96}
+  - {text: "Because the biggest problem that Daniela and other pollsters are facing right now, not enough people are completing surveys.", start: 256.32, end: 262.72}
+  - {text: "They're hanging up. Or worse, they're not even picking up the phone.", start: 263.32, end: 266.34}
+  - {text: "And when people don't respond, it is way harder to get accurate polls.", start: 266.78, end: 271.14}
+  - {text: "It has become a full -on crisis for the pollsters and maybe for the rest of us.", start: 271.60, end: 276.64}
+  - {text: "Hello and welcome to Planet Money.", start: 277.92, end: 279.38}
+  - {text: "I'm Nick Fountain. And I'm Jeff Guo.", start: 279.68, end: 281.50}
+  - {text: "A lot of important information, a lot of economic data, like what the unemployment rate is, where inflation's at, all of that relies on polling.", start: 282.10, end: 291.12}
+  - {text: "But how do you know the polls are right?", start: 291.62, end: 293.78}
+  - {text: "For all the pollsters of America, this is their final exam.", start: 294.34, end: 297.90}
+  - {text: "Their big chance to check their work and make a case for their very existence.", start: 298.18, end: 302.62}
+  - {text: "Because for years, the polls have been off.", start: 303.18, end: 306.44}
+  - {text: "They've been getting elections wrong.", start: 306.44, end: 308.34}
+  - {text: "People are saying, you can't trust the polls anymore.", start: 308.86, end: 311.08}
+  - {text: "Today on the show is polling broken.", start: 311.88, end: 314.00}
+  - {text: "And can we fix it?", start: 314.50, end: 315.62}
+  - {text: "We start smiling and dialing to find out.", start: 316.04, end: 318.04}
+  - {text: "American journalist Austin Tice vanished in Syria over a decade ago.", start: 325.05, end: 330.33}
+  - {text: "For years, we've been searching for him.", start: 330.77, end: 333.03}
+  - {text: "And now we finally have some answers.", start: 333.21, end: 335.69}
+  - {text: "This is the prison that Austin was in.", start: 336.13, end: 337.81}
+  - {text: "Oh my God. We found Austin's file.", start: 337.97, end: 340.77}
+  - {text: "Listen to Where is Austin Tice?", start: 340.77, end: 343.09}
+  - {text: "From NPR's Embedded and BBC Radio 4 on the NPR app or wherever you get your podcasts.", start: 343.59, end: 349.09}
+  - {text: "This election season, let the NPR Politics podcast save your time and your sanity.", start: 349.63, end: 354.25}
+  - {text: "We'll help you understand key races, which polls you can safely ignore, and what might happen if power shifts in Congress.", start: 354.43, end: 361.01}
+  - {text: "Our short daily episodes come out every afternoon, so you can spend less time scrolling through each chaotic news cycle.", start: 361.47, end: 367.07}
+  - {text: "Make NPR Politics your hub for midterm election coverage.", start: 367.45, end: 370.21}
+  - {text: "Follow our podcast on the NPR app or wherever you get your podcasts.", start: 370.21, end: 373.41}
+  - {text: "Election season feels messier than ever.", start: 373.77, end: 376.35}
+  - {text: "Attack ads, misinformation, AI.", start: 376.57, end: 378.65}
+  - {text: "NPR is your antidote.", start: 379.27, end: 380.69}
+  - {text: "Our network of real human journalists keeps you focused on the facts.", start: 380.95, end: 384.75}
+  - {text: "And with NPR Plus, you directly support journalists on the ground asking questions in service to the public.", start: 385.01, end: 391.13}
+  - {text: "As a thank you, you get dozens of podcasts sponsor -free.", start: 391.49, end: 394.33}
+  - {text: "Sign up today at plus .npr .org.", start: 394.73, end: 397.51}
+  - {text: "We got to Marist ready to dial.", start: 397.51, end: 400.64}
+  - {text: "And they told us, actually, you gotta wait.", start: 401.16, end: 403.28}
+  - {text: "Because pollsters generally work at night.", start: 403.78, end: 406.00}
+  - {text: "That's when more people are likely to be home to pick up the phone.", start: 406.40, end: 409.38}
+  - {text: "And so because of this, pollsters tend to be night owls.", start: 410.08, end: 413.16}
+  - {text: "We're really not mourning people.", start: 413.28, end: 415.68}
+  - {text: "This is the director of the Marist poll, Barbara Carvalho.", start: 416.04, end: 418.42}
+  - {text: "We start the day probably about noon and then we go to about midnight.", start: 418.64, end: 423.24}
+  - {text: "Have you looked at a mirror recently?", start: 423.70, end: 425.22}
+  - {text: "Was there something there?", start: 425.78, end: 426.68}
+  - {text: "Well, you know, some people think we're even worse than vampires.", start: 426.68, end: 429.76}
+  - {text: "You can get rid of a vampire a lot easier than you can get rid of a pollster.", start: 430.50, end: 434.08}
+  - {text: "Barbara's a big deal in the polling world.", start: 434.48, end: 436.48}
+  - {text: "She's been a pollster her entire career.", start: 436.78, end: 438.46}
+  - {text: "For decades, she's run every aspect of the Marist poll.", start: 438.92, end: 442.44}
+  - {text: "What questions they ask, the methodology they use, the math behind it.", start: 442.88, end: 446.92}
+  - {text: "It's Barbara's job to make sure they get things right.", start: 447.18, end: 449.80}
+  - {text: "And maybe more importantly, that they don't mess things up.", start: 450.18, end: 453.48}
+  - {text: "And that's because the history of polling has been defined, unfortunately, by blunders.", start: 453.76, end: 459.84}
+  - {text: "And so to show us how polling works today, Barbara took us through the three most infamous blunders.", start: 460.40, end: 466.16}
+  - {text: "The first major blunder was the election of 1936.", start: 466.62, end: 470.04}
+  - {text: "It was the middle of the Great Depression.", start: 470.64, end: 472.26}
+  - {text: "Franklin Delano Roosevelt was running for reelection.", start: 472.78, end: 475.24}
+  - {text: "His opponent was Alf Landon, the governor of Kansas.", start: 475.90, end: 478.72}
+  - {text: "The Republicans think Alf Landon is the man who will win in November.", start: 478.98, end: 482.66}
+  - {text: "He is our next president if he can beat Roosevelt.", start: 482.66, end: 486.30}
+  - {text: "People were glued to their radios and to their magazines.", start: 486.86, end: 490.54}
+  - {text: "Yeah, one of the most popular magazines in America at the time was called The Literary Digest and was especially famous for its election polls.", start: 490.98, end: 499.34}
+  - {text: "For years, The Literary Digest mailed out millions of surveys to their subscribers and to any other address they could get their hands on.", start: 499.82, end: 506.80}
+  - {text: "They would survey people who owned cars because there was a list of people who owned cars.", start: 507.18, end: 513.04}
+  - {text: "They would survey people who owned homes because that was a list.", start: 513.32, end: 517.26}
+  - {text: "The Literary Digest asked these millions of people who they were going to vote for.", start: 517.70, end: 521.28}
+  - {text: "It was basically trying to do the vote before the vote.", start: 521.72, end: 524.06}
+  - {text: "And for a long time, this worked.", start: 524.44, end: 526.20}
+  - {text: "The Literary Digest had a 25 -year track record of getting elections right.", start: 526.72, end: 531.04}
+  - {text: "Enter George Gallup, a pioneer of modern polling.", start: 531.50, end: 535.18}
+  - {text: "Gallup had a hunch, based on math, that there was a better way to predict election results.", start: 535.58, end: 541.12}
+  - {text: "Rather than get the opinions of millions of people, Gallup said, I'll just interview a fraction of that amount, just 3%, but the right people.", start: 541.32, end: 550.04}
+  - {text: "And they'll give me the more accurate answer.", start: 550.58, end: 552.72}
+  - {text: "So, in one corner, there was the Literary Digest poll and their survey of 2 million people.", start: 553.14, end: 558.84}
+  - {text: "They were saying, yeah, FDR is going down.", start: 559.22, end: 561.96}
+  - {text: "They said it was going to be a land -on slide for Landon.", start: 562.22, end: 565.08}
+  - {text: "That Alph Landon was going to land on Washington.", start: 565.08, end: 568.28}
+  - {text: "Those are his campaign slogans, not our bad puns.", start: 568.88, end: 572.42}
+  - {text: "And then there was Gallup and his teeny tiny survey.", start: 572.64, end: 576.08}
+  - {text: "And he said, no, actually FDR is going to win.", start: 576.56, end: 579.96}
+  - {text: "If you know anything about American history, you know who won this battle.", start: 580.28, end: 583.82}
+  - {text: "It wasn't even close.", start: 584.04, end: 584.92}
+  - {text: "FDR won all but two states.", start: 585.24, end: 587.00}
+  - {text: "Gallup was right. And the Literary Digest went out of business.", start: 587.50, end: 590.90}
+  - {text: "Gallup said the problem with the Literary Digest poll was that the respondents, even though there were a lot of them, they didn't look like America.", start: 591.56, end: 599.82}
+  - {text: "They were wealthier than average.", start: 600.30, end: 601.82}
+  - {text: "They owned cars. They subscribed to a magazine called The Literary Digest.", start: 602.16, end: 606.78}
+  - {text: "Just from the name, Literary Digest, you kind of get a sense this is not an everyman's publication.", start: 607.02, end: 613.50}
+  - {text: "Are you saying that it's snooty to read?", start: 613.96, end: 616.46}
+  - {text: "Well, I think for the Literary Digest, that was true.", start: 617.28, end: 620.78}
+  - {text: "Gallup said the issue was snooty people with their fancy cars and homes and books.", start: 621.32, end: 626.50}
+  - {text: "They were not what's called a representative sample of voters.", start: 627.20, end: 630.94}
+  - {text: "That was Gallup's big idea.", start: 631.50, end: 632.72}
+  - {text: "And the big lesson of polling blunder number one, that if you're going to conduct a poll, you have to talk to the right mix of people.", start: 633.24, end: 640.66}
+  - {text: "Get a representative sample.", start: 640.96, end: 642.70}
+  - {text: "Math one. Math one.", start: 643.22, end: 645.14}
+  - {text: "Math always wins. However, Gallup's victory lap, it wouldn't last long.", start: 645.66, end: 650.98}
+  - {text: "Because the next big polling blunder was just around the corner.", start: 650.98, end: 655.08}
+  - {text: "The famous Dewey defeats Truman headline, where a newspaper got the 1948 election results so very wrong, that was in part because Gallup and a bunch of other pollsters have been saying that Harry Truman would lose the election.", start: 655.74, end: 668.92}
+  - {text: "How big of a moment was that for polling?", start: 669.46, end: 671.24}
+  - {text: "Do we really have to talk about that?", start: 671.98, end: 673.94}
+  - {text: "I mean, that is like one of the biggest, you know, of our polling debacles, you know, in the history of polling.", start: 674.32, end: 681.34}
+  - {text: "And it had a significant impact.", start: 681.64, end: 683.32}
+  - {text: "Yeah, the polling blunder here was, although the pollsters tried to get a representative sample, it just wasn't representative enough.", start: 683.72, end: 691.10}
+  - {text: "Here's what happened. Gallup had been telling his surveyors, just get me a bunch of people that look like the census.", start: 691.56, end: 697.44}
+  - {text: "Go poll this many housewives, this many farmers, this many businessmen of a certain income bracket, and so on and so forth.", start: 697.98, end: 705.88}
+  - {text: "And his pollsters would hunt for these very specific people, grab them off the street and ask them, you voting Dewey or Truman?", start: 705.88, end: 712.84}
+  - {text: "This was problematic because it was hard to fill these buckets.", start: 713.42, end: 716.88}
+  - {text: "And so the pollsters who weren't paid all that well, some of them started to cut corners.", start: 717.36, end: 722.32}
+  - {text: "All right, sure, you're not a well -heeled businessman.", start: 722.96, end: 725.14}
+  - {text: "Let's say you were, you voting Dewey or Truman?", start: 725.74, end: 728.50}
+  - {text: "So one of the big lessons from the Dewey defeats Truman disaster, polling blunder number two, is that it's really hard to make that representative sample by hand.", start: 728.92, end: 739.00}
+  - {text: "And the way modern polling fixed this problem was with more statistics.", start: 739.34, end: 745.00}
+  - {text: "The math people said, there's a better way of making a representative sample.", start: 745.94, end: 750.08}
+  - {text: "And it's so simple that it almost sounds dumb.", start: 750.30, end: 753.46}
+  - {text: "Here it is. Just pick randos.", start: 754.22, end: 757.64}
+  - {text: "Just close your eyes and pick people at random.", start: 757.94, end: 760.74}
+  - {text: "Generally, if you're looking at a simple random sampling, when you get to about 100 individuals, you can make some pretty clear generalizations about that particular group of people.", start: 760.74, end: 774.20}
+  - {text: "This is the magic behind random polling.", start: 774.58, end: 777.20}
+  - {text: "You don't have to go hunting around for the right people to make a representative sample.", start: 777.70, end: 781.90}
+  - {text: "In fact, that can distort the poll by introducing bias.", start: 782.30, end: 784.96}
+  - {text: "The math says a truly random sample won't be biased.", start: 785.62, end: 789.62}
+  - {text: "And that even a small random sample will be surprisingly accurate.", start: 789.62, end: 794.14}
+  - {text: "This was one of the most important ideas of the 20th century.", start: 794.66, end: 798.10}
+  - {text: "It changed how scientists do research, changed how we study economics.", start: 798.42, end: 802.08}
+  - {text: "And for pollsters, this became their holy grail, getting that perfect random sample.", start: 802.78, end: 808.86}
+  - {text: "Luckily, just around the corner, there was a revolutionary technology that would make it kind of easy to achieve that holy grail, called the random sample, the telephone.", start: 809.30, end: 819.42}
+  - {text: "Did the telephone revolutionize polling?", start: 819.96, end: 822.76}
+  - {text: "No question about it.", start: 823.36, end: 824.54}
+  - {text: "At a certain point by the 70s or 80s, almost every household in America had a telephone.", start: 824.84, end: 830.36}
+  - {text: "And telephones are great for random sampling, because you can just pick random numbers out of a list.", start: 831.02, end: 836.18}
+  - {text: "So that would be the golden age of polling.", start: 836.52, end: 840.82}
+  - {text: "And Barbara says the golden age lasted for decades, pretty much.", start: 841.18, end: 844.94}
+  - {text: "People had landlines, and they were actually excited to pick up their phones.", start: 844.94, end: 849.52}
+  - {text: "Soon pollsters could even dial with a computer, robo -dialing.", start: 850.08, end: 853.72}
+  - {text: "And even though there were complications over the years, like the rise of caller ID and cell phones, pollsters were able to get pretty close to that holy grail, that fully random representative sample.", start: 854.16, end: 865.90}
+  - {text: "Was there a time in the golden age of polling that, like, you just, like, nailed it?", start: 866.28, end: 870.22}
+  - {text: "Oh, absolutely. Absolutely. Absolutely.", start: 870.54, end: 872.48}
+  - {text: "In fact, I think 2014.", start: 872.80, end: 874.22}
+  - {text: "Get your popcorn, hydration needs, because this is going to be a long - Barbara and her team were at NBC that night, and she remembers the excitement, the delicious snacks,", start: 875.42, end: 887.27}
+  - {text: "but mostly watching the election results roll in and how they totally matched her Marist polls.", start: 887.69, end: 893.31}
+  - {text: "It was just so cool that everything just worked out perfectly, like, practically to the decimal point.", start: 893.65, end: 899.89}
+  - {text: "But Barbara had a bad feeling.", start: 900.33, end: 902.43}
+  - {text: "My comment to my colleagues was, relish this moment, remember it forever, because it doesn't always happen this way.", start: 902.43, end: 911.83}
+  - {text: "And polling is always going to change.", start: 912.35, end: 914.85}
+  - {text: "So you actually might not see this again.", start: 915.11, end: 917.77}
+  - {text: "Da -da -da. You jinxed it.", start: 918.45, end: 920.07}
+  - {text: "I jinxed it. I totally jinxed it.", start: 920.39, end: 922.91}
+  - {text: "Polls leading up to the 2016 presidential election were wrong, wrong, wrong.", start: 924.14, end: 929.24}
+  - {text: "250 this morning, Donald Trump did what so many said could never happen.", start: 929.48, end: 933.78}
+  - {text: "Many people this morning are wondering how could pollsters have gotten this so wrong.", start: 933.94, end: 938.02}
+  - {text: "Yeah, 2016 was the third major blunder for pollsters.", start: 938.62, end: 944.16}
+  - {text: "A lot of them and the people who make forecasts based on polls said Hillary Clinton was going to be the president.", start: 944.68, end: 950.76}
+  - {text: "That did not happen.", start: 951.44, end: 952.38}
+  - {text: "The polls missed. And a lot of the polls missed again in 2018.", start: 952.90, end: 957.48}
+  - {text: "And again in 2020.", start: 958.12, end: 959.98}
+  - {text: "The golden age of polling, it's over.", start: 959.98, end: 963.36}
+  - {text: "And mostly that's because it's gotten so much harder to get that random representative sample.", start: 963.74, end: 969.88}
+  - {text: "These days, people just don't pick up the phone anymore.", start: 970.30, end: 972.90}
+  - {text: "The response rate for telephone polls, that's plummeted to like less than one in 20.", start: 973.40, end: 978.48}
+  - {text: "And what made it worse was in 2015, the FCC took away a really important tool.", start: 979.00, end: 984.92}
+  - {text: "The FCC said, you pollsters, you can't robo -dial cell phones anymore.", start: 985.36, end: 989.12}
+  - {text: "It's been seven years you still seem kind of pissed.", start: 989.12, end: 991.62}
+  - {text: "Well, of course, because in order to connect with a cell phone, we have to hand -dial that cell phone.", start: 992.18, end: 999.12}
+  - {text: "Literally hand -dial. Wait, are you literally like boop boop booping the phone?", start: 999.26, end: 1003.76}
+  - {text: "We boop boop booped the phone for quite a while.", start: 1004.00, end: 1006.78}
+  - {text: "Barbara says the FCC rule, it tripled their costs.", start: 1007.22, end: 1011.06}
+  - {text: "They need a lot more people to dial and a lot more stacks to feed them.", start: 1011.42, end: 1015.06}
+  - {text: "What's really concerning is that it's become especially hard to reach certain kinds of people, like rural voters and younger voters.", start: 1015.40, end: 1023.62}
+  - {text: "They're not participating in these surveys as much anymore.", start: 1024.10, end: 1026.92}
+  - {text: "So all the samples that the pollsters are getting, they might not be that representative of America anymore.", start: 1027.36, end: 1033.48}
+  - {text: "Like, some analysts think that Trump supporters specifically are less likely to talk to pollsters.", start: 1034.22, end: 1039.20}
+  - {text: "And if that's true, that could explain why so many polls seem to favor Democrats recently.", start: 1039.50, end: 1044.60}
+  - {text: "There are a lot of other challenges for pollsters, of course.", start: 1044.60, end: 1049.14}
+  - {text: "But most of them come back to the same age -old problem, getting that perfect representative and random sample.", start: 1049.62, end: 1057.86}
+  - {text: "And this has got a lot of pollsters wondering, is this the death of the telephone pole?", start: 1058.30, end: 1064.18}
+  - {text: "After the break, just how bad has polling gotten?", start: 1065.00, end: 1068.56}
+  - {text: "We try boop boop boopin' to find out.", start: 1069.18, end: 1071.18}
+  - {text: "Midlife brings a lot of changes.", start: 1078.16, end: 1079.94}
+  - {text: "Your Turn with Alison Aubrey is a new podcast to help you navigate the twists and turns.", start: 1079.94, end: 1084.82}
+  - {text: "From health and relationships to creativity and purpose, we can help steer your next chapter.", start: 1085.30, end: 1090.48}
+  - {text: "With Your Turn with Alison Aubrey, find it on the NPR app or wherever you get your podcasts.", start: 1091.00, end: 1095.72}
+  - {text: "Support comes from NPR sponsor AARP.", start: 1096.42, end: 1099.06}
+  - {text: "This fall, there are a lot of movies and TV shows on tap for you to see.", start: 1099.74, end: 1104.42}
+  - {text: "And we're as excited for all of it to arrive as you are.", start: 1104.76, end: 1107.76}
+  - {text: "On Pop Culture happy hour, we've got a guide to what's worth keeping on your radar.", start: 1107.76, end: 1112.18}
+  - {text: "Listen via the NPR app or wherever you get your podcasts.", start: 1112.46, end: 1115.68}
+  - {text: "The Marist Survey Operations Center is a site to behold.", start: 1118.59, end: 1123.41}
+  - {text: "There are rows and rows of undergraduates with their air pods and their sweatpants.", start: 1123.73, end: 1128.15}
+  - {text: "And in the center, a prize wheel.", start: 1128.65, end: 1130.95}
+  - {text: "You get to spin the wheel when you complete an interview.", start: 1131.49, end: 1133.73}
+  - {text: "Nick, are you ready?", start: 1134.70, end: 1135.36}
+  - {text: "I think we got to be ready.", start: 1136.21, end: 1138.01}
+  - {text: "Like, it's dial -in time.", start: 1138.01, end: 1139.53}
+  - {text: "We got, like, 30 undergrads here.", start: 1139.69, end: 1142.13}
+  - {text: "They're already dialing. The goal of the evening is to get as many completed surveys as possible.", start: 1142.23, end: 1147.45}
+  - {text: "And lately, this has been really hard, like existential crisis for the polling industry hard.", start: 1147.91, end: 1153.19}
+  - {text: "People just don't want to pick up their phones or they screen their calls.", start: 1153.63, end: 1157.19}
+  - {text: "And even when they do pick up, they don't want to talk to pollsters.", start: 1157.61, end: 1160.17}
+  - {text: "But we figure let's try a few and see how it goes.", start: 1160.53, end: 1163.35}
+  - {text: "Let's see how many calls we have to make before we can get someone to complete our poll.", start: 1163.91, end: 1169.09}
+  - {text: "Nick, look, you have a special name tag.", start: 1169.53, end: 1171.31}
+  - {text: "It says Nick Fountain Training.", start: 1171.53, end: 1173.35}
+  - {text: "Exclamation point. Exclamation point.", start: 1173.55, end: 1175.01}
+  - {text: "You gotta smile while you die.", start: 1175.13, end: 1176.21}
+  - {text: "Alright, good luck out there.", start: 1177.56, end: 1178.58}
+  - {text: "Okay, you got this.", start: 1178.80, end: 1179.58}
+  - {text: "Nick and I are dialing North Carolina tonight.", start: 1179.86, end: 1182.04}
+  - {text: "There's a contentious Senate race going on.", start: 1182.42, end: 1184.16}
+  - {text: "The Marist folks set us up with our own cupicles, with these cute little headsets hooked up to phones.", start: 1184.48, end: 1189.08}
+  - {text: "On the screens in front of us, there's a script.", start: 1189.70, end: 1191.66}
+  - {text: "Jeff calls a few numbers.", start: 1192.24, end: 1193.46}
+  - {text: "And one of them connects.", start: 1193.82, end: 1194.80}
+  - {text: "Hi, my name is Jeff Guo.", start: 1195.32, end: 1197.08}
+  - {text: "I'm calling for Marist College.", start: 1197.24, end: 1198.52}
+  - {text: "Immediately, he starts using the tricks that Daniela taught us earlier.", start: 1198.94, end: 1202.50}
+  - {text: "So we could try a few questions and see how it goes.", start: 1203.12, end: 1205.46}
+  - {text: "Those magic phrases, they really work.", start: 1205.98, end: 1208.14}
+  - {text: "Pretty soon, Jeff has finished his first interview.", start: 1208.42, end: 1211.50}
+  - {text: "That was so stressful.", start: 1212.90, end: 1215.38}
+  - {text: "Wait, really? Wait, I get to spin the wheel?", start: 1217.72, end: 1220.24}
+  - {text: "They take me to the middle of the room and they let me spin the prize wheel.", start: 1220.48, end: 1224.28}
+  - {text: "Pick a prize. I could pick any of these.", start: 1230.92, end: 1234.34}
+  - {text: "I pick the M &Ms.", start: 1235.04, end: 1235.92}
+  - {text: "Must be nice. Must be nice.", start: 1236.52, end: 1240.18}
+  - {text: "Because while Jeff is enjoying his M &Ms basking in his glory, I'm striking out.", start: 1240.70, end: 1246.02}
+  - {text: "Talking to people in your community and collecting opinions about issues facing residents.", start: 1246.26, end: 1249.50}
+  - {text: "Oh, I got hung up on.", start: 1250.06, end: 1252.10}
+  - {text: "I did not smile.", start: 1253.38, end: 1254.42}
+  - {text: "I did not smile.", start: 1254.70, end: 1255.46}
+  - {text: "For each call, Nick has to document why he failed at getting a completed survey.", start: 1257.02, end: 1261.74}
+  - {text: "In this case, call or hung up.", start: 1262.10, end: 1263.80}
+  - {text: "That's one of nearly 20 reasons you can put down.", start: 1264.24, end: 1266.20}
+  - {text: "There's also the soft refusal.", start: 1266.64, end: 1268.02}
+  - {text: "He was nice about it, though.", start: 1268.60, end: 1270.10}
+  - {text: "The hard refusal. He said opinions are like buttholes.", start: 1270.34, end: 1273.52}
+  - {text: "Everyone's got them. They're answering machines.", start: 1273.76, end: 1275.94}
+  - {text: "Oh, thank you. Is this a real person?", start: 1276.46, end: 1277.98}
+  - {text: "That was a voicemail.", start: 1279.99, end: 1281.41}
+  - {text: "So many answering machines.", start: 1282.29, end: 1284.21}
+  - {text: "And fax machines. This is a fax machine.", start: 1284.83, end: 1287.33}
+  - {text: "Sorry, it's blowing out my ear.", start: 1287.45, end: 1288.99}
+  - {text: "Remember, we are randomly dialing North Carolina numbers.", start: 1288.99, end: 1292.07}
+  - {text: "Have you ever seen someone strike out 70 times in a row?", start: 1292.49, end: 1295.01}
+  - {text: "Things are not going well.", start: 1295.35, end: 1297.15}
+  - {text: "I get so frustrated, I start rubbing my eyes.", start: 1297.31, end: 1299.99}
+  - {text: "I'm sorry, I just lost a contact.", start: 1300.67, end: 1303.07}
+  - {text: "Starting at about call 150, I start to think, yes, polling is truly doomed.", start: 1303.75, end: 1310.35}
+  - {text: "Phone polling is supposed to be the gold standard of polling.", start: 1311.05, end: 1314.03}
+  - {text: "It gave us the golden age.", start: 1314.19, end: 1315.73}
+  - {text: "But it is impossible to get people to complete these surveys.", start: 1315.73, end: 1319.37}
+  - {text: "And the people at Marist are trying to figure out how to do polls in this era when most people don't pick up the phones and don't want to answer surveys.", start: 1319.77, end: 1326.87}
+  - {text: "Barbara says pollsters have come up with a couple ways to try to fix the problem.", start: 1327.51, end: 1331.01}
+  - {text: "The first solution is maybe just abandoning the phone poll altogether.", start: 1331.45, end: 1336.99}
+  - {text: "A lot of pollsters these days are starting to text people.", start: 1337.65, end: 1340.73}
+  - {text: "It's still a random survey.", start: 1341.27, end: 1342.43}
+  - {text: "It just doesn't rely on people answering the phone.", start: 1342.59, end: 1344.65}
+  - {text: "The second solution is to try to adjust the data that you have to make it more representative.", start: 1344.65, end: 1349.41}
+  - {text: "For instance, if you can't get enough white rural voters in your sample, you could take the handful of white rural voters you did talk to", start: 1350.07, end: 1357.61}
+  - {text: "and multiply them by like two or three or four.", start: 1357.61, end: 1361.63}
+  - {text: "So you give their answers more weight.", start: 1361.97, end: 1363.99}
+  - {text: "This solution is called waiting.", start: 1364.43, end: 1366.11}
+  - {text: "It's how pollsters try to fix a bad sample by using math.", start: 1366.53, end: 1369.61}
+  - {text: "And pollsters are getting more and more sophisticated about waiting.", start: 1370.07, end: 1373.25}
+  - {text: "A lot wait by race and education.", start: 1373.25, end: 1376.25}
+  - {text: "At Marist after 2016, they've become a lot more careful to wait by geography.", start: 1376.75, end: 1381.51}
+  - {text: "And they're also trying to wait by what people call psychographic factors.", start: 1382.07, end: 1385.99}
+  - {text: "Jeff, who has actually gotten someone to pick up the phone, he got to ask these psychographic questions.", start: 1386.71, end: 1392.03}
+  - {text: "And they're pretty weird.", start: 1392.61, end: 1393.45}
+  - {text: "And have you smoked at least 100 cigarettes in your entire life?", start: 1394.19, end: 1398.33}
+  - {text: "The idea behind this question is that it might help you understand someone better than their race or age or gender.", start: 1398.67, end: 1404.85}
+  - {text: "And pollsters are hoping that this extra information will help them make their samples more representative.", start: 1405.53, end: 1411.55}
+  - {text: "And there's a third solution, one that I personally think is brilliant.", start: 1412.19, end: 1416.01}
+  - {text: "It involves this really interesting idea that economists love called the wisdom of crowds.", start: 1416.61, end: 1422.37}
+  - {text: "Some researchers have been testing these ideas and they told us if you want to predict an election, do not ask people who they are going to vote for.", start: 1422.93, end: 1430.21}
+  - {text: "Instead, there are these two other questions that will get you way closer to the truth.", start: 1430.21, end: 1435.43}
+  - {text: "The first question is, who do you think will win?", start: 1435.81, end: 1438.51}
+  - {text: "And this is supposed to be better because you're asking people to make a prediction themselves based on everything they've heard and seen in the last few months.", start: 1438.97, end: 1446.41}
+  - {text: "The other question which the researchers really love is think of all the people in your life, your friends, your family, your coworkers.", start: 1446.77, end: 1453.59}
+  - {text: "Who are they going to vote for?", start: 1454.45, end: 1456.17}
+  - {text: "And the beauty of that question is you're basically asking people to share information from their social networks.", start: 1456.57, end: 1461.83}
+  - {text: "So talking to one person is like talking to a dozen.", start: 1462.57, end: 1465.27}
+  - {text: "Right now, Barbara and the folks at Marist, they aren't using these wisdom of the crowds techniques.", start: 1465.85, end: 1471.03}
+  - {text: "So Barbara, we have a question for you.", start: 1471.69, end: 1474.15}
+  - {text: "Would you be willing to let us test one of these methods in one of your polls?", start: 1474.37, end: 1481.47}
+  - {text: "Oh, sure. Really? Well, if they're appropriate, objective questions, that would be great.", start: 1482.17, end: 1489.67}
+  - {text: "So here's the exciting news.", start: 1490.15, end: 1491.19}
+  - {text: "We worked with Barbara to draft two questions, one where we asked people to predict the election and another asking them who the folks in their social circles are voting for.", start: 1491.57, end: 1500.41}
+  - {text: "She said she would slip them into a poll Marist is doing before the midterms, run some analyses, and let us know how useful they might be for the future of polling.", start: 1500.93, end: 1509.99}
+  - {text: "Back in the dialing room, it's like 8 p .m.", start: 1511.86, end: 1514.40}
+  - {text: "I'm not even sad when they hang up anymore.", start: 1514.66, end: 1516.72}
+  - {text: "I'm numb. We've been dialing for three hours, and poor Nick is still striking out.", start: 1517.48, end: 1523.12}
+  - {text: "Yeah, at this point, I'd pretty much given up.", start: 1523.40, end: 1525.48}
+  - {text: "I'd called 236 numbers, and hadn't gotten a single completed survey.", start: 1525.66, end: 1532.22}
+  - {text: "The rejections on top of rejections, they started to get rather amusing in a dark -humored sort of way.", start: 1532.98, end: 1538.44}
+  - {text: "Here's another thing that's really cool about this.", start: 1538.68, end: 1540.44}
+  - {text: "You get a lot of funny stories.", start: 1540.54, end: 1541.56}
+  - {text: "Yeah, what's a funny story?", start: 1542.16, end: 1543.22}
+  - {text: "And then, just as one of the students is telling me a hilarious story, Hi there, my name's Nick Fouts, and I'm calling from Marist College.", start: 1543.46, end: 1550.60}
+  - {text: "We're talking to people in your community and collecting opinions about issues facing residents.", start: 1551.10, end: 1554.40}
+  - {text: "Are you 18 years of age or older?", start: 1554.88, end: 1556.12}
+  - {text: "Just take a few minutes.", start: 1557.00, end: 1557.84}
+  - {text: "Oh, terrific. Nick has hooked someone, and as he gets further and further along in the survey, the room starts to get a little quiet.", start: 1558.22, end: 1566.50}
+  - {text: "A crowd starts to hover around his cubicle.", start: 1566.80, end: 1569.30}
+  - {text: "We're all waiting to see if he will finally finish a survey.", start: 1569.74, end: 1573.22}
+  - {text: "That's totally fine. Thank you.", start: 1573.38, end: 1574.70}
+  - {text: "Have a wonderful night.", start: 1574.86, end: 1575.88}
+  - {text: "I really appreciate your time.", start: 1575.88, end: 1576.92}
+  - {text: "Take care. Yes. Run that wheel!", start: 1577.44, end: 1585.76}
+  - {text: "You did it. I did it.", start: 1589.42, end: 1591.54}
+  - {text: "I think I figured out why we cracked it.", start: 1592.96, end: 1595.60}
+  - {text: "You were telling me a funny story, and so I was already smiling when I was dialing.", start: 1595.86, end: 1600.68}
+  - {text: "See? That's the secret.", start: 1601.08, end: 1602.52}
+  - {text: "Smile while you dial.", start: 1602.98, end: 1603.98}
+  - {text: "That's it. So, this story was reported in October of 2022.", start: 1604.16, end: 1609.80}
+  - {text: "A couple months later, after midterms, we followed up with Barbara to see how her team did.", start: 1610.28, end: 1614.60}
+  - {text: "And it turns out that 2022 was an amazing year for Marist.", start: 1615.02, end: 1619.44}
+  - {text: "Their poll estimated that overall, Republican candidates in the House would get 3 percentage points more votes than Democrats across the country.", start: 1619.70, end: 1626.08}
+  - {text: "And when the final election results came out, House Republicans were up 2 .8 percentage points.", start: 1626.44, end: 1632.36}
+  - {text: "They nailed it. Our questions, though...", start: 1632.72, end: 1635.96}
+  - {text: "Not so much. Factoring in our wisdom of crowds questions, the results would have moved to, like, a plus 8 Republican.", start: 1636.78, end: 1643.82}
+  - {text: "But Barbara said that is what science is all about.", start: 1644.32, end: 1647.04}
+  - {text: "It's about testing ideas, learning from the results.", start: 1647.22, end: 1649.90}
+  - {text: "And we actually called her back just a couple weeks ago, as she was ramping up for these 2026 midterms.", start: 1650.42, end: 1655.30}
+  - {text: "And Barbara told us they are, in fact, still asking these wisdom of the crowds type questions.", start: 1655.54, end: 1660.98}
+  - {text: "I think it's really interesting because in some of the states where traditionally Republicans have won, we're showing a slight lean to the Democratic candidates statewide.", start: 1661.42, end: 1673.58}
+  - {text: "But yet when we ask the wisdom of the crowd question, which is who do you think is going to end up taking office, people overwhelmingly believe the Republican will.", start: 1674.10, end: 1683.04}
+  - {text: "So for some reason, the wisdom of the crowds questions are still polling the polling predictions toward Republicans in these sorts of competitive races.", start: 1683.58, end: 1691.36}
+  - {text: "Whether or not that means Republicans are being underrepresented in the polls, we will find out in a couple weeks.", start: 1691.96, end: 1696.92}
+  - {text: "But Barbara says these questions, they're about more than just the final result.", start: 1696.92, end: 1701.62}
+  - {text: "We're not going to just be looking at it for whether, you know, it could determine who won or lost.", start: 1701.98, end: 1707.34}
+  - {text: "We're going to also look to see, did it determine whether somebody voted or not?", start: 1707.60, end: 1712.76}
+  - {text: "Barbara says figuring out how likely it is that someone will vote is a big question in politics and in polling.", start: 1713.06, end: 1720.06}
+  - {text: "Most of the time, you just can't ask people straight up, are you going to vote?", start: 1720.46, end: 1723.90}
+  - {text: "Because there's social pressure.", start: 1723.90, end: 1725.60}
+  - {text: "People feel like they have to say, of course I'm going to vote.", start: 1725.84, end: 1728.64}
+  - {text: "So instead, Barbara says they try to ask other types of questions.", start: 1729.08, end: 1732.30}
+  - {text: "Like, does someone have a plan to vote?", start: 1732.76, end: 1735.40}
+  - {text: "Or how do you feel about the election in general?", start: 1735.62, end: 1737.88}
+  - {text: "And now, she and her team are investigating how these wisdom of the crowd type questions might help predict turnout.", start: 1738.40, end: 1744.14}
+  - {text: "For instance, if people think that their favorite candidate is going to win, does that make them more likely to go out and vote?", start: 1744.56, end: 1750.34}
+  - {text: "In other words, is there a bandwagon effect?", start: 1750.70, end: 1752.66}
+  - {text: "Or is it the opposite?", start: 1752.66, end: 1754.38}
+  - {text: "Is there an underdog effect where people are more likely to turn out if they think their favorite candidate is behind?", start: 1754.86, end: 1760.52}
+  - {text: "The factors that affect turnout and the polling questions that best predict turnout, those all tend to change over time.", start: 1761.40, end: 1767.72}
+  - {text: "The questions that seem to really resonate this time around is your opinion of President Trump and whether, in fact, you identify with a particular party", start: 1768.16, end: 1780.40}
+  - {text: "and how strongly you identify with that party.", start: 1780.40, end: 1783.42}
+  - {text: "And those two questions pretty much give us a sense of who is likely to participate.", start: 1783.92, end: 1791.16}
+  - {text: "This time of year, there's a big focus, obviously, on the big question, who is going to win the election.", start: 1791.64, end: 1797.12}
+  - {text: "But Barbara says polls for her are about much, much more than that.", start: 1797.54, end: 1801.58}
+  - {text: "I think the role that public opinion polls play, at least in the past, has been we kind of let everybody in on the secret because the campaigns are polling.", start: 1801.82, end: 1813.20}
+  - {text: "They're probably not going to release a poll that says that everybody hates their candidate and they're doing terribly.", start: 1813.76, end: 1822.34}
+  - {text: "But we, as the public, we want to know that information.", start: 1822.78, end: 1825.46}
+  - {text: "And public polls give us that information.", start: 1825.94, end: 1828.26}
+  - {text: "They can prevent spin.", start: 1828.64, end: 1829.90}
+  - {text: "They can influence policy.", start: 1830.18, end: 1831.52}
+  - {text: "They can give us a sense of who our fellow Americans even are.", start: 1831.80, end: 1835.66}
+  - {text: "And for Barbara, this is the most exciting time of the year where the pollsters finally get to check their work.", start: 1835.66, end: 1843.86}
+  - {text: "Hey, a quick plug before we go.", start: 1847.90, end: 1849.86}
+  - {text: "We are doing another Ask an Economist virtual event for our NPR Plus supporters.", start: 1850.14, end: 1854.94}
+  - {text: "This one is on AI and the job market.", start: 1855.38, end: 1857.78}
+  - {text: "Could AI wipe out white -collar jobs?", start: 1858.28, end: 1860.44}
+  - {text: "Or could it transform and grow the workforce?", start: 1860.74, end: 1863.30}
+  - {text: "The indicators, Adrian Ma, will discuss all of that with Darren Asamoglu, a Nobel Prize -winning MIT professor and Eric Mnolfsen, the director of the Stanford Digital Economy Lab.", start: 1863.86, end: 1873.16}
+  - {text: "During this live Q &A, you're going to have the chance to put your questions directly to our guests.", start: 1873.60, end: 1877.72}
+  - {text: "It's on Wednesday, October 28th at 3 p .m.", start: 1878.18, end: 1880.90}
+  - {text: "eastern, noon Pacific over Zoom.", start: 1880.92, end: 1882.74}
+  - {text: "Again, this is a supporter -only event, so make sure you're signed up for NPR Plus.", start: 1883.06, end: 1887.62}
+  - {text: "For registration and event details, just go to npr .org slash Ask an Economist.", start: 1888.06, end: 1892.48}
+  - {text: "That's all one word.", start: 1892.76, end: 1893.32}
+  - {text: "Again, npr .org slash Ask an Economist.", start: 1893.32, end: 1896.80}
+  - {text: "This update was produced by Emma Peasley with help from Sam Yellowhorse Kessler.", start: 1897.34, end: 1901.20}
+  - {text: "It was mastered by Gilly Moon with help from Sina LaFredo.", start: 1901.58, end: 1904.34}
+  - {text: "The original episode was edited by Jess Jang.", start: 1904.62, end: 1906.58}
+  - {text: "Alex Goldmark is our executive producer.", start: 1906.98, end: 1909.18}
+  - {text: "Special thanks to the whole team at Marist, including Stephanie Calvano, Mary Griffith, Lee Miringoff, Rachel Sanford, and our student coach H .E .D.", start: 1909.90, end: 1920.62}
+  - {text: "Also, thanks to the researchers who helped us with our Wisdom of Crowds questions, Henrik Olsen and Dresden Prelik, and to our colleague Domenico Montanara.", start: 1920.62, end: 1929.40}
+  - {text: "I'm Jeff Guo. And I'm Nick Fountain.", start: 1929.84, end: 1931.46}
+  - {text: "This is NPR. Thank you for listening.", start: 1931.80, end: 1934.26}
+  - {text: "Happy fall! Yes, the days are getting shorter and colder, and the rain can be a drag.", start: 1936.74, end: 1942.20}
+  - {text: "But this is also the perfect time of year to get cozy.", start: 1942.64, end: 1945.92}
+  - {text: "LifeKid has lots of ideas so you can embrace the change of seasons with episodes on everything from making soup to exercising outdoors.", start: 1946.60, end: 1953.58}
+  - {text: "Listen to the LifeKid podcast in the NPR app or wherever you get your podcasts.", start: 1954.18, end: 1958.02}
+  - {text: "Hi there. I'm Brittany Loose, and not to brag, but I host a really fabulous podcast.", start: 1959.01, end: 1964.19}
+  - {text: "It's called It's Been a Minute.", start: 1964.91, end: 1966.03}
+  - {text: "I love making it, and I think you'll love listening to it.", start: 1966.35, end: 1969.43}
+  - {text: "Over the last year, hundreds of thousands of listeners have been tuning in, and I gotta say, if you haven't yet, you're missing out.", start: 1969.95, end: 1976.59}
+  - {text: "Listen to the It's Been a Minute podcast from NPR today.", start: 1977.05, end: 1979.75}
+---
