@@ -9,459 +9,459 @@ audioDir: "2026-10-21-we-try-to-fix-election-polling-update"
 audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-21-we-try-to-fix-election-polling-update/episode.mp3"
 totalDuration: 1982.0
 sentences:
-  - {text: "This week on Up First, the midterms less than 15 days away.", start: 1.23, end: 5.19}
-  - {text: "President Trump, Vice President J .D.", start: 5.61, end: 7.33}
-  - {text: "Vance, and former President Obama all crisscrossing the country, rallying voters in key races from Michigan to Georgia to North Carolina.", start: 7.53, end: 15.35}
-  - {text: "Join us every morning as we guide you through the home stretch of this election season, Up First on the NPR app or wherever you get your podcasts.", start: 15.91, end: 23.73}
-  - {text: "This is Planet Money from NPR.", start: 24.81, end: 27.17}
-  - {text: "Every time election season comes around and you see all of those frantic election polls in the news, I think back to the time that I", start: 30.34, end: 37.62}
-  - {text: "learned just how hard it is to actually do one of those election polls and why it's gotten so hard.", start: 37.62, end: 44.06}
-  - {text: "This was back in 2022 when we, as we get Planet Money, had an idea to try and maybe fix polling and one very generous polling", start: 44.60, end: 53.60}
-  - {text: "outfit actually let us try out our idea.", start: 53.60, end: 56.70}
-  - {text: "So, we thought we would revisit that story today because we also have an update to how polling is changing and how our fix is actually still being used,", start: 56.70, end: 66.08}
-  - {text: "though maybe not how we had originally imagined.", start: 66.36, end: 69.30}
-  - {text: "Details about that at the end.", start: 69.68, end: 71.00}
-  - {text: "But first, let us start with a trip that Nick and I took for the original story.", start: 71.40, end: 75.56}
-  - {text: "You and I headed to Poughkeepsie, New York to visit the Marist College Polling Center.", start: 77.00, end: 83.18}
-  - {text: "Polling is how we figure out what Americans think about anything.", start: 83.18, end: 88.26}
-  - {text: "And for pollsters, this is the most exciting time of the year.", start: 88.80, end: 92.90}
-  - {text: "Right here, they are making hundreds of thousands of calls to figure out who's likely to win in the upcoming midterm elections.", start: 93.30, end: 99.90}
-  - {text: "And the person tasked with training up all the people who do the dialing is Daniela Charter.", start: 100.42, end: 106.74}
-  - {text: "And Daniela has agreed not only to let us sit in on a training, but later tonight, she's going to let us do the dialing for a real poll.", start: 107.34, end: 116.18}
-  - {text: "But first, she needs to run us through the script we're going to use.", start: 116.74, end: 119.52}
-  - {text: "So why don't we start, Jeff, to read that introduction for my first victim.", start: 119.74, end: 124.20}
-  - {text: "Hello, my name is Jeff.", start: 124.62, end: 125.82}
-  - {text: "I'm calling for Marist College.", start: 126.10, end: 127.52}
-  - {text: "We're talking to people in your community and collecting opinions about issues facing residents.", start: 128.00, end: 132.14}
-  - {text: "Well, who are you?", start: 132.56, end: 133.50}
-  - {text: "Why are you calling me?", start: 133.82, end: 135.08}
-  - {text: "Daniela's mission is to prepare us for the hundreds of calls we're going to make tonight.", start: 135.52, end: 139.46}
-  - {text: "And all the different ways people are going to try to avoid answering our survey.", start: 139.46, end: 144.02}
-  - {text: "Sometimes people will come back right away and be like, I'm not buying anything.", start: 144.36, end: 147.74}
-  - {text: "Or they hear college.", start: 147.96, end: 148.86}
-  - {text: "I'm not donating. No, no, no.", start: 149.02, end: 150.32}
-  - {text: "We're not looking for money.", start: 150.76, end: 152.66}
-  - {text: "We're not selling anything.", start: 153.06, end: 154.24}
-  - {text: "We just want your opinion.", start: 154.40, end: 155.74}
-  - {text: "We're doing important research.", start: 156.02, end: 157.62}
-  - {text: "We came to Marist College because, well, full disclosure, Marist has a working relationship with NPR.", start: 158.30, end: 163.42}
-  - {text: "They do some polls for us.", start: 163.92, end: 165.12}
-  - {text: "And also, Marist has one of the top polling operations in the country.", start: 165.12, end: 169.86}
-  - {text: "And one reason they're so good, Daniela says, is the magic phrases they use to keep people on the phone.", start: 170.32, end: 175.54}
-  - {text: "My very favorite is, let's try a few and see how it goes.", start: 175.88, end: 178.84}
-  - {text: "As in, let's try a few questions and see how it goes.", start: 179.50, end: 183.72}
-  - {text: "She says it works for nearly everything.", start: 184.08, end: 186.68}
-  - {text: "If a person says they're too busy, let's try a few and see how it goes.", start: 187.18, end: 191.02}
-  - {text: "If they say they don't have any opinions, well, let's try a few.", start: 191.02, end: 195.60}
-  - {text: "See how it goes.", start: 195.94, end: 196.50}
-  - {text: "And it works. It really does.", start: 197.14, end: 198.52}
-  - {text: "Does it work every single time?", start: 198.68, end: 199.86}
-  - {text: "No, but you'd be surprised.", start: 200.30, end: 201.44}
-  - {text: "Do you use that term in your personal life now?", start: 201.72, end: 203.64}
-  - {text: "Definitely. Let's try a few and see how it goes.", start: 204.00, end: 205.90}
-  - {text: "In fact, I think I just said it to my husband yesterday about something.", start: 206.02, end: 209.12}
-  - {text: "I think about changing his diet.", start: 209.54, end: 210.94}
-  - {text: "I really do. I really, I just remembered that.", start: 211.20, end: 214.04}
-  - {text: "I really think that I said it.", start: 214.44, end: 215.88}
-  - {text: "Daniela teaches us some other phrases we can use to get people to answer.", start: 216.18, end: 219.72}
-  - {text: "Every opinion matters. There are no right or wrong answers.", start: 219.72, end: 223.58}
-  - {text: "It'll just take a few minutes.", start: 224.00, end: 225.02}
-  - {text: "I promise. Though Daniela says her most important advice, it's not a phrase.", start: 225.52, end: 229.96}
-  - {text: "No, no, no. It's more of a state of mind.", start: 230.62, end: 233.12}
-  - {text: "She tells us when you are out there dialing later, promise me this.", start: 233.78, end: 237.78}
-  - {text: "You're going to throw a big smile on your face.", start: 238.26, end: 240.98}
-  - {text: "Smile while you dial.", start: 241.46, end: 242.42}
-  - {text: "Absolutely. Smile while you dial.", start: 242.86, end: 245.12}
-  - {text: "Because if you smile, sound upbeat, you sound good, and you sound like someone that the respondent's going to want to talk to.", start: 245.48, end: 253.34}
-  - {text: "That's how you hook them.", start: 253.72, end: 254.66}
-  - {text: "And that's really important.", start: 255.08, end: 255.96}
-  - {text: "Because the biggest problem that Daniela and other pollsters are facing right now, not enough people are completing surveys.", start: 256.32, end: 262.72}
-  - {text: "They're hanging up. Or worse, they're not even picking up the phone.", start: 263.32, end: 266.34}
-  - {text: "And when people don't respond, it is way harder to get accurate polls.", start: 266.78, end: 271.14}
-  - {text: "It has become a full -on crisis for the pollsters and maybe for the rest of us.", start: 271.60, end: 276.64}
-  - {text: "Hello and welcome to Planet Money.", start: 277.92, end: 279.38}
-  - {text: "I'm Nick Fountain. And I'm Jeff Guo.", start: 279.68, end: 281.50}
-  - {text: "A lot of important information, a lot of economic data, like what the unemployment rate is, where inflation's at, all of that relies on polling.", start: 282.10, end: 291.12}
-  - {text: "But how do you know the polls are right?", start: 291.62, end: 293.78}
-  - {text: "For all the pollsters of America, this is their final exam.", start: 294.34, end: 297.90}
-  - {text: "Their big chance to check their work and make a case for their very existence.", start: 298.18, end: 302.62}
-  - {text: "Because for years, the polls have been off.", start: 303.18, end: 306.44}
-  - {text: "They've been getting elections wrong.", start: 306.44, end: 308.34}
-  - {text: "People are saying, you can't trust the polls anymore.", start: 308.86, end: 311.08}
-  - {text: "Today on the show is polling broken.", start: 311.88, end: 314.00}
-  - {text: "And can we fix it?", start: 314.50, end: 315.62}
-  - {text: "We start smiling and dialing to find out.", start: 316.04, end: 318.04}
-  - {text: "American journalist Austin Tice vanished in Syria over a decade ago.", start: 325.05, end: 330.33}
-  - {text: "For years, we've been searching for him.", start: 330.77, end: 333.03}
-  - {text: "And now we finally have some answers.", start: 333.21, end: 335.69}
-  - {text: "This is the prison that Austin was in.", start: 336.13, end: 337.81}
-  - {text: "Oh my God. We found Austin's file.", start: 337.97, end: 340.77}
-  - {text: "Listen to Where is Austin Tice?", start: 340.77, end: 343.09}
-  - {text: "From NPR's Embedded and BBC Radio 4 on the NPR app or wherever you get your podcasts.", start: 343.59, end: 349.09}
-  - {text: "This election season, let the NPR Politics podcast save your time and your sanity.", start: 349.63, end: 354.25}
-  - {text: "We'll help you understand key races, which polls you can safely ignore, and what might happen if power shifts in Congress.", start: 354.43, end: 361.01}
-  - {text: "Our short daily episodes come out every afternoon, so you can spend less time scrolling through each chaotic news cycle.", start: 361.47, end: 367.07}
-  - {text: "Make NPR Politics your hub for midterm election coverage.", start: 367.45, end: 370.21}
-  - {text: "Follow our podcast on the NPR app or wherever you get your podcasts.", start: 370.21, end: 373.41}
-  - {text: "Election season feels messier than ever.", start: 373.77, end: 376.35}
-  - {text: "Attack ads, misinformation, AI.", start: 376.57, end: 378.65}
-  - {text: "NPR is your antidote.", start: 379.27, end: 380.69}
-  - {text: "Our network of real human journalists keeps you focused on the facts.", start: 380.95, end: 384.75}
-  - {text: "And with NPR Plus, you directly support journalists on the ground asking questions in service to the public.", start: 385.01, end: 391.13}
-  - {text: "As a thank you, you get dozens of podcasts sponsor -free.", start: 391.49, end: 394.33}
-  - {text: "Sign up today at plus .npr .org.", start: 394.73, end: 397.51}
-  - {text: "We got to Marist ready to dial.", start: 397.51, end: 400.64}
-  - {text: "And they told us, actually, you gotta wait.", start: 401.16, end: 403.28}
-  - {text: "Because pollsters generally work at night.", start: 403.78, end: 406.00}
-  - {text: "That's when more people are likely to be home to pick up the phone.", start: 406.40, end: 409.38}
-  - {text: "And so because of this, pollsters tend to be night owls.", start: 410.08, end: 413.16}
-  - {text: "We're really not mourning people.", start: 413.28, end: 415.68}
-  - {text: "This is the director of the Marist poll, Barbara Carvalho.", start: 416.04, end: 418.42}
-  - {text: "We start the day probably about noon and then we go to about midnight.", start: 418.64, end: 423.24}
-  - {text: "Have you looked at a mirror recently?", start: 423.70, end: 425.22}
-  - {text: "Was there something there?", start: 425.78, end: 426.68}
-  - {text: "Well, you know, some people think we're even worse than vampires.", start: 426.68, end: 429.76}
-  - {text: "You can get rid of a vampire a lot easier than you can get rid of a pollster.", start: 430.50, end: 434.08}
-  - {text: "Barbara's a big deal in the polling world.", start: 434.48, end: 436.48}
-  - {text: "She's been a pollster her entire career.", start: 436.78, end: 438.46}
-  - {text: "For decades, she's run every aspect of the Marist poll.", start: 438.92, end: 442.44}
-  - {text: "What questions they ask, the methodology they use, the math behind it.", start: 442.88, end: 446.92}
-  - {text: "It's Barbara's job to make sure they get things right.", start: 447.18, end: 449.80}
-  - {text: "And maybe more importantly, that they don't mess things up.", start: 450.18, end: 453.48}
-  - {text: "And that's because the history of polling has been defined, unfortunately, by blunders.", start: 453.76, end: 459.84}
-  - {text: "And so to show us how polling works today, Barbara took us through the three most infamous blunders.", start: 460.40, end: 466.16}
-  - {text: "The first major blunder was the election of 1936.", start: 466.62, end: 470.04}
-  - {text: "It was the middle of the Great Depression.", start: 470.64, end: 472.26}
-  - {text: "Franklin Delano Roosevelt was running for reelection.", start: 472.78, end: 475.24}
-  - {text: "His opponent was Alf Landon, the governor of Kansas.", start: 475.90, end: 478.72}
-  - {text: "The Republicans think Alf Landon is the man who will win in November.", start: 478.98, end: 482.66}
-  - {text: "He is our next president if he can beat Roosevelt.", start: 482.66, end: 486.30}
-  - {text: "People were glued to their radios and to their magazines.", start: 486.86, end: 490.54}
-  - {text: "Yeah, one of the most popular magazines in America at the time was called The Literary Digest and was especially famous for its election polls.", start: 490.98, end: 499.34}
-  - {text: "For years, The Literary Digest mailed out millions of surveys to their subscribers and to any other address they could get their hands on.", start: 499.82, end: 506.80}
-  - {text: "They would survey people who owned cars because there was a list of people who owned cars.", start: 507.18, end: 513.04}
-  - {text: "They would survey people who owned homes because that was a list.", start: 513.32, end: 517.26}
-  - {text: "The Literary Digest asked these millions of people who they were going to vote for.", start: 517.70, end: 521.28}
-  - {text: "It was basically trying to do the vote before the vote.", start: 521.72, end: 524.06}
-  - {text: "And for a long time, this worked.", start: 524.44, end: 526.20}
-  - {text: "The Literary Digest had a 25 -year track record of getting elections right.", start: 526.72, end: 531.04}
-  - {text: "Enter George Gallup, a pioneer of modern polling.", start: 531.50, end: 535.18}
-  - {text: "Gallup had a hunch, based on math, that there was a better way to predict election results.", start: 535.58, end: 541.12}
-  - {text: "Rather than get the opinions of millions of people, Gallup said, I'll just interview a fraction of that amount, just 3%, but the right people.", start: 541.32, end: 550.04}
-  - {text: "And they'll give me the more accurate answer.", start: 550.58, end: 552.72}
-  - {text: "So, in one corner, there was the Literary Digest poll and their survey of 2 million people.", start: 553.14, end: 558.84}
-  - {text: "They were saying, yeah, FDR is going down.", start: 559.22, end: 561.96}
-  - {text: "They said it was going to be a land -on slide for Landon.", start: 562.22, end: 565.08}
-  - {text: "That Alph Landon was going to land on Washington.", start: 565.08, end: 568.28}
-  - {text: "Those are his campaign slogans, not our bad puns.", start: 568.88, end: 572.42}
-  - {text: "And then there was Gallup and his teeny tiny survey.", start: 572.64, end: 576.08}
-  - {text: "And he said, no, actually FDR is going to win.", start: 576.56, end: 579.96}
-  - {text: "If you know anything about American history, you know who won this battle.", start: 580.28, end: 583.82}
-  - {text: "It wasn't even close.", start: 584.04, end: 584.92}
-  - {text: "FDR won all but two states.", start: 585.24, end: 587.00}
-  - {text: "Gallup was right. And the Literary Digest went out of business.", start: 587.50, end: 590.90}
-  - {text: "Gallup said the problem with the Literary Digest poll was that the respondents, even though there were a lot of them, they didn't look like America.", start: 591.56, end: 599.82}
-  - {text: "They were wealthier than average.", start: 600.30, end: 601.82}
-  - {text: "They owned cars. They subscribed to a magazine called The Literary Digest.", start: 602.16, end: 606.78}
-  - {text: "Just from the name, Literary Digest, you kind of get a sense this is not an everyman's publication.", start: 607.02, end: 613.50}
-  - {text: "Are you saying that it's snooty to read?", start: 613.96, end: 616.46}
-  - {text: "Well, I think for the Literary Digest, that was true.", start: 617.28, end: 620.78}
-  - {text: "Gallup said the issue was snooty people with their fancy cars and homes and books.", start: 621.32, end: 626.50}
-  - {text: "They were not what's called a representative sample of voters.", start: 627.20, end: 630.94}
-  - {text: "That was Gallup's big idea.", start: 631.50, end: 632.72}
-  - {text: "And the big lesson of polling blunder number one, that if you're going to conduct a poll, you have to talk to the right mix of people.", start: 633.24, end: 640.66}
-  - {text: "Get a representative sample.", start: 640.96, end: 642.70}
-  - {text: "Math one. Math one.", start: 643.22, end: 645.14}
-  - {text: "Math always wins. However, Gallup's victory lap, it wouldn't last long.", start: 645.66, end: 650.98}
-  - {text: "Because the next big polling blunder was just around the corner.", start: 650.98, end: 655.08}
-  - {text: "The famous Dewey defeats Truman headline, where a newspaper got the 1948 election results so very wrong, that was in part because Gallup and a bunch of other pollsters have been saying that Harry Truman would lose the election.", start: 655.74, end: 668.92}
-  - {text: "How big of a moment was that for polling?", start: 669.46, end: 671.24}
-  - {text: "Do we really have to talk about that?", start: 671.98, end: 673.94}
-  - {text: "I mean, that is like one of the biggest, you know, of our polling debacles, you know, in the history of polling.", start: 674.32, end: 681.34}
-  - {text: "And it had a significant impact.", start: 681.64, end: 683.32}
-  - {text: "Yeah, the polling blunder here was, although the pollsters tried to get a representative sample, it just wasn't representative enough.", start: 683.72, end: 691.10}
-  - {text: "Here's what happened. Gallup had been telling his surveyors, just get me a bunch of people that look like the census.", start: 691.56, end: 697.44}
-  - {text: "Go poll this many housewives, this many farmers, this many businessmen of a certain income bracket, and so on and so forth.", start: 697.98, end: 705.88}
-  - {text: "And his pollsters would hunt for these very specific people, grab them off the street and ask them, you voting Dewey or Truman?", start: 705.88, end: 712.84}
-  - {text: "This was problematic because it was hard to fill these buckets.", start: 713.42, end: 716.88}
-  - {text: "And so the pollsters who weren't paid all that well, some of them started to cut corners.", start: 717.36, end: 722.32}
-  - {text: "All right, sure, you're not a well -heeled businessman.", start: 722.96, end: 725.14}
-  - {text: "Let's say you were, you voting Dewey or Truman?", start: 725.74, end: 728.50}
-  - {text: "So one of the big lessons from the Dewey defeats Truman disaster, polling blunder number two, is that it's really hard to make that representative sample by hand.", start: 728.92, end: 739.00}
-  - {text: "And the way modern polling fixed this problem was with more statistics.", start: 739.34, end: 745.00}
-  - {text: "The math people said, there's a better way of making a representative sample.", start: 745.94, end: 750.08}
-  - {text: "And it's so simple that it almost sounds dumb.", start: 750.30, end: 753.46}
-  - {text: "Here it is. Just pick randos.", start: 754.22, end: 757.64}
-  - {text: "Just close your eyes and pick people at random.", start: 757.94, end: 760.74}
-  - {text: "Generally, if you're looking at a simple random sampling, when you get to about 100 individuals, you can make some pretty clear generalizations about that particular group of people.", start: 760.74, end: 774.20}
-  - {text: "This is the magic behind random polling.", start: 774.58, end: 777.20}
-  - {text: "You don't have to go hunting around for the right people to make a representative sample.", start: 777.70, end: 781.90}
-  - {text: "In fact, that can distort the poll by introducing bias.", start: 782.30, end: 784.96}
-  - {text: "The math says a truly random sample won't be biased.", start: 785.62, end: 789.62}
-  - {text: "And that even a small random sample will be surprisingly accurate.", start: 789.62, end: 794.14}
-  - {text: "This was one of the most important ideas of the 20th century.", start: 794.66, end: 798.10}
-  - {text: "It changed how scientists do research, changed how we study economics.", start: 798.42, end: 802.08}
-  - {text: "And for pollsters, this became their holy grail, getting that perfect random sample.", start: 802.78, end: 808.86}
-  - {text: "Luckily, just around the corner, there was a revolutionary technology that would make it kind of easy to achieve that holy grail, called the random sample, the telephone.", start: 809.30, end: 819.42}
-  - {text: "Did the telephone revolutionize polling?", start: 819.96, end: 822.76}
-  - {text: "No question about it.", start: 823.36, end: 824.54}
-  - {text: "At a certain point by the 70s or 80s, almost every household in America had a telephone.", start: 824.84, end: 830.36}
-  - {text: "And telephones are great for random sampling, because you can just pick random numbers out of a list.", start: 831.02, end: 836.18}
-  - {text: "So that would be the golden age of polling.", start: 836.52, end: 840.82}
-  - {text: "And Barbara says the golden age lasted for decades, pretty much.", start: 841.18, end: 844.94}
-  - {text: "People had landlines, and they were actually excited to pick up their phones.", start: 844.94, end: 849.52}
-  - {text: "Soon pollsters could even dial with a computer, robo -dialing.", start: 850.08, end: 853.72}
-  - {text: "And even though there were complications over the years, like the rise of caller ID and cell phones, pollsters were able to get pretty close to that holy grail, that fully random representative sample.", start: 854.16, end: 865.90}
-  - {text: "Was there a time in the golden age of polling that, like, you just, like, nailed it?", start: 866.28, end: 870.22}
-  - {text: "Oh, absolutely. Absolutely. Absolutely.", start: 870.54, end: 872.48}
-  - {text: "In fact, I think 2014.", start: 872.80, end: 874.22}
-  - {text: "Get your popcorn, hydration needs, because this is going to be a long - Barbara and her team were at NBC that night, and she remembers the excitement, the delicious snacks,", start: 875.42, end: 887.27}
-  - {text: "but mostly watching the election results roll in and how they totally matched her Marist polls.", start: 887.69, end: 893.31}
-  - {text: "It was just so cool that everything just worked out perfectly, like, practically to the decimal point.", start: 893.65, end: 899.89}
-  - {text: "But Barbara had a bad feeling.", start: 900.33, end: 902.43}
-  - {text: "My comment to my colleagues was, relish this moment, remember it forever, because it doesn't always happen this way.", start: 902.43, end: 911.83}
-  - {text: "And polling is always going to change.", start: 912.35, end: 914.85}
-  - {text: "So you actually might not see this again.", start: 915.11, end: 917.77}
-  - {text: "Da -da -da. You jinxed it.", start: 918.45, end: 920.07}
-  - {text: "I jinxed it. I totally jinxed it.", start: 920.39, end: 922.91}
-  - {text: "Polls leading up to the 2016 presidential election were wrong, wrong, wrong.", start: 924.14, end: 929.24}
-  - {text: "250 this morning, Donald Trump did what so many said could never happen.", start: 929.48, end: 933.78}
-  - {text: "Many people this morning are wondering how could pollsters have gotten this so wrong.", start: 933.94, end: 938.02}
-  - {text: "Yeah, 2016 was the third major blunder for pollsters.", start: 938.62, end: 944.16}
-  - {text: "A lot of them and the people who make forecasts based on polls said Hillary Clinton was going to be the president.", start: 944.68, end: 950.76}
-  - {text: "That did not happen.", start: 951.44, end: 952.38}
-  - {text: "The polls missed. And a lot of the polls missed again in 2018.", start: 952.90, end: 957.48}
-  - {text: "And again in 2020.", start: 958.12, end: 959.98}
-  - {text: "The golden age of polling, it's over.", start: 959.98, end: 963.36}
-  - {text: "And mostly that's because it's gotten so much harder to get that random representative sample.", start: 963.74, end: 969.88}
-  - {text: "These days, people just don't pick up the phone anymore.", start: 970.30, end: 972.90}
-  - {text: "The response rate for telephone polls, that's plummeted to like less than one in 20.", start: 973.40, end: 978.48}
-  - {text: "And what made it worse was in 2015, the FCC took away a really important tool.", start: 979.00, end: 984.92}
-  - {text: "The FCC said, you pollsters, you can't robo -dial cell phones anymore.", start: 985.36, end: 989.12}
-  - {text: "It's been seven years you still seem kind of pissed.", start: 989.12, end: 991.62}
-  - {text: "Well, of course, because in order to connect with a cell phone, we have to hand -dial that cell phone.", start: 992.18, end: 999.12}
-  - {text: "Literally hand -dial. Wait, are you literally like boop boop booping the phone?", start: 999.26, end: 1003.76}
-  - {text: "We boop boop booped the phone for quite a while.", start: 1004.00, end: 1006.78}
-  - {text: "Barbara says the FCC rule, it tripled their costs.", start: 1007.22, end: 1011.06}
-  - {text: "They need a lot more people to dial and a lot more stacks to feed them.", start: 1011.42, end: 1015.06}
-  - {text: "What's really concerning is that it's become especially hard to reach certain kinds of people, like rural voters and younger voters.", start: 1015.40, end: 1023.62}
-  - {text: "They're not participating in these surveys as much anymore.", start: 1024.10, end: 1026.92}
-  - {text: "So all the samples that the pollsters are getting, they might not be that representative of America anymore.", start: 1027.36, end: 1033.48}
-  - {text: "Like, some analysts think that Trump supporters specifically are less likely to talk to pollsters.", start: 1034.22, end: 1039.20}
-  - {text: "And if that's true, that could explain why so many polls seem to favor Democrats recently.", start: 1039.50, end: 1044.60}
-  - {text: "There are a lot of other challenges for pollsters, of course.", start: 1044.60, end: 1049.14}
-  - {text: "But most of them come back to the same age -old problem, getting that perfect representative and random sample.", start: 1049.62, end: 1057.86}
-  - {text: "And this has got a lot of pollsters wondering, is this the death of the telephone pole?", start: 1058.30, end: 1064.18}
-  - {text: "After the break, just how bad has polling gotten?", start: 1065.00, end: 1068.56}
-  - {text: "We try boop boop boopin' to find out.", start: 1069.18, end: 1071.18}
-  - {text: "Midlife brings a lot of changes.", start: 1078.16, end: 1079.94}
-  - {text: "Your Turn with Alison Aubrey is a new podcast to help you navigate the twists and turns.", start: 1079.94, end: 1084.82}
-  - {text: "From health and relationships to creativity and purpose, we can help steer your next chapter.", start: 1085.30, end: 1090.48}
-  - {text: "With Your Turn with Alison Aubrey, find it on the NPR app or wherever you get your podcasts.", start: 1091.00, end: 1095.72}
-  - {text: "Support comes from NPR sponsor AARP.", start: 1096.42, end: 1099.06}
-  - {text: "This fall, there are a lot of movies and TV shows on tap for you to see.", start: 1099.74, end: 1104.42}
-  - {text: "And we're as excited for all of it to arrive as you are.", start: 1104.76, end: 1107.76}
-  - {text: "On Pop Culture happy hour, we've got a guide to what's worth keeping on your radar.", start: 1107.76, end: 1112.18}
-  - {text: "Listen via the NPR app or wherever you get your podcasts.", start: 1112.46, end: 1115.68}
-  - {text: "The Marist Survey Operations Center is a site to behold.", start: 1118.59, end: 1123.41}
-  - {text: "There are rows and rows of undergraduates with their air pods and their sweatpants.", start: 1123.73, end: 1128.15}
-  - {text: "And in the center, a prize wheel.", start: 1128.65, end: 1130.95}
-  - {text: "You get to spin the wheel when you complete an interview.", start: 1131.49, end: 1133.73}
-  - {text: "Nick, are you ready?", start: 1134.70, end: 1135.36}
-  - {text: "I think we got to be ready.", start: 1136.21, end: 1138.01}
-  - {text: "Like, it's dial -in time.", start: 1138.01, end: 1139.53}
-  - {text: "We got, like, 30 undergrads here.", start: 1139.69, end: 1142.13}
-  - {text: "They're already dialing. The goal of the evening is to get as many completed surveys as possible.", start: 1142.23, end: 1147.45}
-  - {text: "And lately, this has been really hard, like existential crisis for the polling industry hard.", start: 1147.91, end: 1153.19}
-  - {text: "People just don't want to pick up their phones or they screen their calls.", start: 1153.63, end: 1157.19}
-  - {text: "And even when they do pick up, they don't want to talk to pollsters.", start: 1157.61, end: 1160.17}
-  - {text: "But we figure let's try a few and see how it goes.", start: 1160.53, end: 1163.35}
-  - {text: "Let's see how many calls we have to make before we can get someone to complete our poll.", start: 1163.91, end: 1169.09}
-  - {text: "Nick, look, you have a special name tag.", start: 1169.53, end: 1171.31}
-  - {text: "It says Nick Fountain Training.", start: 1171.53, end: 1173.35}
-  - {text: "Exclamation point. Exclamation point.", start: 1173.55, end: 1175.01}
-  - {text: "You gotta smile while you die.", start: 1175.13, end: 1176.21}
-  - {text: "Alright, good luck out there.", start: 1177.56, end: 1178.58}
-  - {text: "Okay, you got this.", start: 1178.80, end: 1179.58}
-  - {text: "Nick and I are dialing North Carolina tonight.", start: 1179.86, end: 1182.04}
-  - {text: "There's a contentious Senate race going on.", start: 1182.42, end: 1184.16}
-  - {text: "The Marist folks set us up with our own cupicles, with these cute little headsets hooked up to phones.", start: 1184.48, end: 1189.08}
-  - {text: "On the screens in front of us, there's a script.", start: 1189.70, end: 1191.66}
-  - {text: "Jeff calls a few numbers.", start: 1192.24, end: 1193.46}
-  - {text: "And one of them connects.", start: 1193.82, end: 1194.80}
-  - {text: "Hi, my name is Jeff Guo.", start: 1195.32, end: 1197.08}
-  - {text: "I'm calling for Marist College.", start: 1197.24, end: 1198.52}
-  - {text: "Immediately, he starts using the tricks that Daniela taught us earlier.", start: 1198.94, end: 1202.50}
-  - {text: "So we could try a few questions and see how it goes.", start: 1203.12, end: 1205.46}
-  - {text: "Those magic phrases, they really work.", start: 1205.98, end: 1208.14}
-  - {text: "Pretty soon, Jeff has finished his first interview.", start: 1208.42, end: 1211.50}
-  - {text: "That was so stressful.", start: 1212.90, end: 1215.38}
-  - {text: "Wait, really? Wait, I get to spin the wheel?", start: 1217.72, end: 1220.24}
-  - {text: "They take me to the middle of the room and they let me spin the prize wheel.", start: 1220.48, end: 1224.28}
-  - {text: "Pick a prize. I could pick any of these.", start: 1230.92, end: 1234.34}
-  - {text: "I pick the M &Ms.", start: 1235.04, end: 1235.92}
-  - {text: "Must be nice. Must be nice.", start: 1236.52, end: 1240.18}
-  - {text: "Because while Jeff is enjoying his M &Ms basking in his glory, I'm striking out.", start: 1240.70, end: 1246.02}
-  - {text: "Talking to people in your community and collecting opinions about issues facing residents.", start: 1246.26, end: 1249.50}
-  - {text: "Oh, I got hung up on.", start: 1250.06, end: 1252.10}
-  - {text: "I did not smile.", start: 1253.38, end: 1254.42}
-  - {text: "I did not smile.", start: 1254.70, end: 1255.46}
-  - {text: "For each call, Nick has to document why he failed at getting a completed survey.", start: 1257.02, end: 1261.74}
-  - {text: "In this case, call or hung up.", start: 1262.10, end: 1263.80}
-  - {text: "That's one of nearly 20 reasons you can put down.", start: 1264.24, end: 1266.20}
-  - {text: "There's also the soft refusal.", start: 1266.64, end: 1268.02}
-  - {text: "He was nice about it, though.", start: 1268.60, end: 1270.10}
-  - {text: "The hard refusal. He said opinions are like buttholes.", start: 1270.34, end: 1273.52}
-  - {text: "Everyone's got them. They're answering machines.", start: 1273.76, end: 1275.94}
-  - {text: "Oh, thank you. Is this a real person?", start: 1276.46, end: 1277.98}
-  - {text: "That was a voicemail.", start: 1279.99, end: 1281.41}
-  - {text: "So many answering machines.", start: 1282.29, end: 1284.21}
-  - {text: "And fax machines. This is a fax machine.", start: 1284.83, end: 1287.33}
-  - {text: "Sorry, it's blowing out my ear.", start: 1287.45, end: 1288.99}
-  - {text: "Remember, we are randomly dialing North Carolina numbers.", start: 1288.99, end: 1292.07}
-  - {text: "Have you ever seen someone strike out 70 times in a row?", start: 1292.49, end: 1295.01}
-  - {text: "Things are not going well.", start: 1295.35, end: 1297.15}
-  - {text: "I get so frustrated, I start rubbing my eyes.", start: 1297.31, end: 1299.99}
-  - {text: "I'm sorry, I just lost a contact.", start: 1300.67, end: 1303.07}
-  - {text: "Starting at about call 150, I start to think, yes, polling is truly doomed.", start: 1303.75, end: 1310.35}
-  - {text: "Phone polling is supposed to be the gold standard of polling.", start: 1311.05, end: 1314.03}
-  - {text: "It gave us the golden age.", start: 1314.19, end: 1315.73}
-  - {text: "But it is impossible to get people to complete these surveys.", start: 1315.73, end: 1319.37}
-  - {text: "And the people at Marist are trying to figure out how to do polls in this era when most people don't pick up the phones and don't want to answer surveys.", start: 1319.77, end: 1326.87}
-  - {text: "Barbara says pollsters have come up with a couple ways to try to fix the problem.", start: 1327.51, end: 1331.01}
-  - {text: "The first solution is maybe just abandoning the phone poll altogether.", start: 1331.45, end: 1336.99}
-  - {text: "A lot of pollsters these days are starting to text people.", start: 1337.65, end: 1340.73}
-  - {text: "It's still a random survey.", start: 1341.27, end: 1342.43}
-  - {text: "It just doesn't rely on people answering the phone.", start: 1342.59, end: 1344.65}
-  - {text: "The second solution is to try to adjust the data that you have to make it more representative.", start: 1344.65, end: 1349.41}
-  - {text: "For instance, if you can't get enough white rural voters in your sample, you could take the handful of white rural voters you did talk to", start: 1350.07, end: 1357.61}
-  - {text: "and multiply them by like two or three or four.", start: 1357.61, end: 1361.63}
-  - {text: "So you give their answers more weight.", start: 1361.97, end: 1363.99}
-  - {text: "This solution is called waiting.", start: 1364.43, end: 1366.11}
-  - {text: "It's how pollsters try to fix a bad sample by using math.", start: 1366.53, end: 1369.61}
-  - {text: "And pollsters are getting more and more sophisticated about waiting.", start: 1370.07, end: 1373.25}
-  - {text: "A lot wait by race and education.", start: 1373.25, end: 1376.25}
-  - {text: "At Marist after 2016, they've become a lot more careful to wait by geography.", start: 1376.75, end: 1381.51}
-  - {text: "And they're also trying to wait by what people call psychographic factors.", start: 1382.07, end: 1385.99}
-  - {text: "Jeff, who has actually gotten someone to pick up the phone, he got to ask these psychographic questions.", start: 1386.71, end: 1392.03}
-  - {text: "And they're pretty weird.", start: 1392.61, end: 1393.45}
-  - {text: "And have you smoked at least 100 cigarettes in your entire life?", start: 1394.19, end: 1398.33}
-  - {text: "The idea behind this question is that it might help you understand someone better than their race or age or gender.", start: 1398.67, end: 1404.85}
-  - {text: "And pollsters are hoping that this extra information will help them make their samples more representative.", start: 1405.53, end: 1411.55}
-  - {text: "And there's a third solution, one that I personally think is brilliant.", start: 1412.19, end: 1416.01}
-  - {text: "It involves this really interesting idea that economists love called the wisdom of crowds.", start: 1416.61, end: 1422.37}
-  - {text: "Some researchers have been testing these ideas and they told us if you want to predict an election, do not ask people who they are going to vote for.", start: 1422.93, end: 1430.21}
-  - {text: "Instead, there are these two other questions that will get you way closer to the truth.", start: 1430.21, end: 1435.43}
-  - {text: "The first question is, who do you think will win?", start: 1435.81, end: 1438.51}
-  - {text: "And this is supposed to be better because you're asking people to make a prediction themselves based on everything they've heard and seen in the last few months.", start: 1438.97, end: 1446.41}
-  - {text: "The other question which the researchers really love is think of all the people in your life, your friends, your family, your coworkers.", start: 1446.77, end: 1453.59}
-  - {text: "Who are they going to vote for?", start: 1454.45, end: 1456.17}
-  - {text: "And the beauty of that question is you're basically asking people to share information from their social networks.", start: 1456.57, end: 1461.83}
-  - {text: "So talking to one person is like talking to a dozen.", start: 1462.57, end: 1465.27}
-  - {text: "Right now, Barbara and the folks at Marist, they aren't using these wisdom of the crowds techniques.", start: 1465.85, end: 1471.03}
-  - {text: "So Barbara, we have a question for you.", start: 1471.69, end: 1474.15}
-  - {text: "Would you be willing to let us test one of these methods in one of your polls?", start: 1474.37, end: 1481.47}
-  - {text: "Oh, sure. Really? Well, if they're appropriate, objective questions, that would be great.", start: 1482.17, end: 1489.67}
-  - {text: "So here's the exciting news.", start: 1490.15, end: 1491.19}
-  - {text: "We worked with Barbara to draft two questions, one where we asked people to predict the election and another asking them who the folks in their social circles are voting for.", start: 1491.57, end: 1500.41}
-  - {text: "She said she would slip them into a poll Marist is doing before the midterms, run some analyses, and let us know how useful they might be for the future of polling.", start: 1500.93, end: 1509.99}
-  - {text: "Back in the dialing room, it's like 8 p .m.", start: 1511.86, end: 1514.40}
-  - {text: "I'm not even sad when they hang up anymore.", start: 1514.66, end: 1516.72}
-  - {text: "I'm numb. We've been dialing for three hours, and poor Nick is still striking out.", start: 1517.48, end: 1523.12}
-  - {text: "Yeah, at this point, I'd pretty much given up.", start: 1523.40, end: 1525.48}
-  - {text: "I'd called 236 numbers, and hadn't gotten a single completed survey.", start: 1525.66, end: 1532.22}
-  - {text: "The rejections on top of rejections, they started to get rather amusing in a dark -humored sort of way.", start: 1532.98, end: 1538.44}
-  - {text: "Here's another thing that's really cool about this.", start: 1538.68, end: 1540.44}
-  - {text: "You get a lot of funny stories.", start: 1540.54, end: 1541.56}
-  - {text: "Yeah, what's a funny story?", start: 1542.16, end: 1543.22}
-  - {text: "And then, just as one of the students is telling me a hilarious story, Hi there, my name's Nick Fouts, and I'm calling from Marist College.", start: 1543.46, end: 1550.60}
-  - {text: "We're talking to people in your community and collecting opinions about issues facing residents.", start: 1551.10, end: 1554.40}
-  - {text: "Are you 18 years of age or older?", start: 1554.88, end: 1556.12}
-  - {text: "Just take a few minutes.", start: 1557.00, end: 1557.84}
-  - {text: "Oh, terrific. Nick has hooked someone, and as he gets further and further along in the survey, the room starts to get a little quiet.", start: 1558.22, end: 1566.50}
-  - {text: "A crowd starts to hover around his cubicle.", start: 1566.80, end: 1569.30}
-  - {text: "We're all waiting to see if he will finally finish a survey.", start: 1569.74, end: 1573.22}
-  - {text: "That's totally fine. Thank you.", start: 1573.38, end: 1574.70}
-  - {text: "Have a wonderful night.", start: 1574.86, end: 1575.88}
-  - {text: "I really appreciate your time.", start: 1575.88, end: 1576.92}
-  - {text: "Take care. Yes. Run that wheel!", start: 1577.44, end: 1585.76}
-  - {text: "You did it. I did it.", start: 1589.42, end: 1591.54}
-  - {text: "I think I figured out why we cracked it.", start: 1592.96, end: 1595.60}
-  - {text: "You were telling me a funny story, and so I was already smiling when I was dialing.", start: 1595.86, end: 1600.68}
-  - {text: "See? That's the secret.", start: 1601.08, end: 1602.52}
-  - {text: "Smile while you dial.", start: 1602.98, end: 1603.98}
-  - {text: "That's it. So, this story was reported in October of 2022.", start: 1604.16, end: 1609.80}
-  - {text: "A couple months later, after midterms, we followed up with Barbara to see how her team did.", start: 1610.28, end: 1614.60}
-  - {text: "And it turns out that 2022 was an amazing year for Marist.", start: 1615.02, end: 1619.44}
-  - {text: "Their poll estimated that overall, Republican candidates in the House would get 3 percentage points more votes than Democrats across the country.", start: 1619.70, end: 1626.08}
-  - {text: "And when the final election results came out, House Republicans were up 2 .8 percentage points.", start: 1626.44, end: 1632.36}
-  - {text: "They nailed it. Our questions, though...", start: 1632.72, end: 1635.96}
-  - {text: "Not so much. Factoring in our wisdom of crowds questions, the results would have moved to, like, a plus 8 Republican.", start: 1636.78, end: 1643.82}
-  - {text: "But Barbara said that is what science is all about.", start: 1644.32, end: 1647.04}
-  - {text: "It's about testing ideas, learning from the results.", start: 1647.22, end: 1649.90}
-  - {text: "And we actually called her back just a couple weeks ago, as she was ramping up for these 2026 midterms.", start: 1650.42, end: 1655.30}
-  - {text: "And Barbara told us they are, in fact, still asking these wisdom of the crowds type questions.", start: 1655.54, end: 1660.98}
-  - {text: "I think it's really interesting because in some of the states where traditionally Republicans have won, we're showing a slight lean to the Democratic candidates statewide.", start: 1661.42, end: 1673.58}
-  - {text: "But yet when we ask the wisdom of the crowd question, which is who do you think is going to end up taking office, people overwhelmingly believe the Republican will.", start: 1674.10, end: 1683.04}
-  - {text: "So for some reason, the wisdom of the crowds questions are still polling the polling predictions toward Republicans in these sorts of competitive races.", start: 1683.58, end: 1691.36}
-  - {text: "Whether or not that means Republicans are being underrepresented in the polls, we will find out in a couple weeks.", start: 1691.96, end: 1696.92}
-  - {text: "But Barbara says these questions, they're about more than just the final result.", start: 1696.92, end: 1701.62}
-  - {text: "We're not going to just be looking at it for whether, you know, it could determine who won or lost.", start: 1701.98, end: 1707.34}
-  - {text: "We're going to also look to see, did it determine whether somebody voted or not?", start: 1707.60, end: 1712.76}
-  - {text: "Barbara says figuring out how likely it is that someone will vote is a big question in politics and in polling.", start: 1713.06, end: 1720.06}
-  - {text: "Most of the time, you just can't ask people straight up, are you going to vote?", start: 1720.46, end: 1723.90}
-  - {text: "Because there's social pressure.", start: 1723.90, end: 1725.60}
-  - {text: "People feel like they have to say, of course I'm going to vote.", start: 1725.84, end: 1728.64}
-  - {text: "So instead, Barbara says they try to ask other types of questions.", start: 1729.08, end: 1732.30}
-  - {text: "Like, does someone have a plan to vote?", start: 1732.76, end: 1735.40}
-  - {text: "Or how do you feel about the election in general?", start: 1735.62, end: 1737.88}
-  - {text: "And now, she and her team are investigating how these wisdom of the crowd type questions might help predict turnout.", start: 1738.40, end: 1744.14}
-  - {text: "For instance, if people think that their favorite candidate is going to win, does that make them more likely to go out and vote?", start: 1744.56, end: 1750.34}
-  - {text: "In other words, is there a bandwagon effect?", start: 1750.70, end: 1752.66}
-  - {text: "Or is it the opposite?", start: 1752.66, end: 1754.38}
-  - {text: "Is there an underdog effect where people are more likely to turn out if they think their favorite candidate is behind?", start: 1754.86, end: 1760.52}
-  - {text: "The factors that affect turnout and the polling questions that best predict turnout, those all tend to change over time.", start: 1761.40, end: 1767.72}
-  - {text: "The questions that seem to really resonate this time around is your opinion of President Trump and whether, in fact, you identify with a particular party", start: 1768.16, end: 1780.40}
-  - {text: "and how strongly you identify with that party.", start: 1780.40, end: 1783.42}
-  - {text: "And those two questions pretty much give us a sense of who is likely to participate.", start: 1783.92, end: 1791.16}
-  - {text: "This time of year, there's a big focus, obviously, on the big question, who is going to win the election.", start: 1791.64, end: 1797.12}
-  - {text: "But Barbara says polls for her are about much, much more than that.", start: 1797.54, end: 1801.58}
-  - {text: "I think the role that public opinion polls play, at least in the past, has been we kind of let everybody in on the secret because the campaigns are polling.", start: 1801.82, end: 1813.20}
-  - {text: "They're probably not going to release a poll that says that everybody hates their candidate and they're doing terribly.", start: 1813.76, end: 1822.34}
-  - {text: "But we, as the public, we want to know that information.", start: 1822.78, end: 1825.46}
-  - {text: "And public polls give us that information.", start: 1825.94, end: 1828.26}
-  - {text: "They can prevent spin.", start: 1828.64, end: 1829.90}
-  - {text: "They can influence policy.", start: 1830.18, end: 1831.52}
-  - {text: "They can give us a sense of who our fellow Americans even are.", start: 1831.80, end: 1835.66}
-  - {text: "And for Barbara, this is the most exciting time of the year where the pollsters finally get to check their work.", start: 1835.66, end: 1843.86}
-  - {text: "Hey, a quick plug before we go.", start: 1847.90, end: 1849.86}
-  - {text: "We are doing another Ask an Economist virtual event for our NPR Plus supporters.", start: 1850.14, end: 1854.94}
-  - {text: "This one is on AI and the job market.", start: 1855.38, end: 1857.78}
-  - {text: "Could AI wipe out white -collar jobs?", start: 1858.28, end: 1860.44}
-  - {text: "Or could it transform and grow the workforce?", start: 1860.74, end: 1863.30}
-  - {text: "The indicators, Adrian Ma, will discuss all of that with Darren Asamoglu, a Nobel Prize -winning MIT professor and Eric Mnolfsen, the director of the Stanford Digital Economy Lab.", start: 1863.86, end: 1873.16}
-  - {text: "During this live Q &A, you're going to have the chance to put your questions directly to our guests.", start: 1873.60, end: 1877.72}
-  - {text: "It's on Wednesday, October 28th at 3 p .m.", start: 1878.18, end: 1880.90}
-  - {text: "eastern, noon Pacific over Zoom.", start: 1880.92, end: 1882.74}
-  - {text: "Again, this is a supporter -only event, so make sure you're signed up for NPR Plus.", start: 1883.06, end: 1887.62}
-  - {text: "For registration and event details, just go to npr .org slash Ask an Economist.", start: 1888.06, end: 1892.48}
-  - {text: "That's all one word.", start: 1892.76, end: 1893.32}
-  - {text: "Again, npr .org slash Ask an Economist.", start: 1893.32, end: 1896.80}
-  - {text: "This update was produced by Emma Peasley with help from Sam Yellowhorse Kessler.", start: 1897.34, end: 1901.20}
-  - {text: "It was mastered by Gilly Moon with help from Sina LaFredo.", start: 1901.58, end: 1904.34}
-  - {text: "The original episode was edited by Jess Jang.", start: 1904.62, end: 1906.58}
-  - {text: "Alex Goldmark is our executive producer.", start: 1906.98, end: 1909.18}
-  - {text: "Special thanks to the whole team at Marist, including Stephanie Calvano, Mary Griffith, Lee Miringoff, Rachel Sanford, and our student coach H .E .D.", start: 1909.90, end: 1920.62}
-  - {text: "Also, thanks to the researchers who helped us with our Wisdom of Crowds questions, Henrik Olsen and Dresden Prelik, and to our colleague Domenico Montanara.", start: 1920.62, end: 1929.40}
-  - {text: "I'm Jeff Guo. And I'm Nick Fountain.", start: 1929.84, end: 1931.46}
-  - {text: "This is NPR. Thank you for listening.", start: 1931.80, end: 1934.26}
-  - {text: "Happy fall! Yes, the days are getting shorter and colder, and the rain can be a drag.", start: 1936.74, end: 1942.20}
-  - {text: "But this is also the perfect time of year to get cozy.", start: 1942.64, end: 1945.92}
-  - {text: "LifeKid has lots of ideas so you can embrace the change of seasons with episodes on everything from making soup to exercising outdoors.", start: 1946.60, end: 1953.58}
-  - {text: "Listen to the LifeKid podcast in the NPR app or wherever you get your podcasts.", start: 1954.18, end: 1958.02}
-  - {text: "Hi there. I'm Brittany Loose, and not to brag, but I host a really fabulous podcast.", start: 1959.01, end: 1964.19}
-  - {text: "It's called It's Been a Minute.", start: 1964.91, end: 1966.03}
-  - {text: "I love making it, and I think you'll love listening to it.", start: 1966.35, end: 1969.43}
-  - {text: "Over the last year, hundreds of thousands of listeners have been tuning in, and I gotta say, if you haven't yet, you're missing out.", start: 1969.95, end: 1976.59}
-  - {text: "Listen to the It's Been a Minute podcast from NPR today.", start: 1977.05, end: 1979.75}
+  - {text: "This week on Up First, the midterms less than 15 days away.", start: 1.23, end: 5.19, zh: "本周《Up First》节目，距离中期选举不到15天了。（midterms 中期选举）"}
+  - {text: "President Trump, Vice President J .D.", start: 5.61, end: 7.33, zh: "特朗普总统、副总统J.D.……"}
+  - {text: "Vance, and former President Obama all crisscrossing the country, rallying voters in key races from Michigan to Georgia to North Carolina.", start: 7.53, end: 15.35, explain: "\"Crisscrossing\" means traveling in many different directions. \"Rallying\" means trying to make people feel excited and support a cause. The sentence is a fragment that continues from the previous one. It describes politicians traveling around the US to help people vote in important states.", zh: "万斯以及前总统奥巴马都在全国各地奔波，从密歇根到佐治亚再到北卡罗来纳，为关键选区的选民拉票。（crisscrossing 纵横穿梭，四处奔波；rallying 动员，鼓舞）"}
+  - {text: "Join us every morning as we guide you through the home stretch of this election season, Up First on the NPR app or wherever you get your podcasts.", start: 15.91, end: 23.73, zh: "每天早上加入我们，带你度过这个选举季的最后冲刺阶段，在NPR应用或你获取播客的地方收听《Up First》。（home stretch 最后冲刺阶段）"}
+  - {text: "This is Planet Money from NPR.", start: 24.81, end: 27.17, explain: "This is a station ident. It tells the listener the name of the show and the radio station that makes it.", zh: "这里是NPR的《Planet Money》。"}
+  - {text: "Every time election season comes around and you see all of those frantic election polls in the news, I think back to the time that I", start: 30.34, end: 37.62, explain: "\"Frantic\" means very busy and worried. The speaker says that when election time starts and they see many worried polls, they remember a past time. The sentence breaks off at \"I\" and continues in the next one.", zh: "每当选举季来临，看到新闻里那些 frantic 的民调，我都会想起那次我……（frantic 疯狂的，急切的）"}
+  - {text: "learned just how hard it is to actually do one of those election polls and why it's gotten so hard.", start: 37.62, end: 44.06, explain: "This sentence continues from the previous one. The speaker learned that making an election poll is very difficult and that it has become even harder recently.", zh: "……了解到做一项选举民调究竟有多难，以及为什么现在变得这么难。"}
+  - {text: "This was back in 2022 when we, as we get Planet Money, had an idea to try and maybe fix polling and one very generous polling", start: 44.60, end: 53.60, explain: "The phrase \"as we get Planet Money\" is likely a transcription error for \"as we did on Planet Money\" or similar. The speaker says that in 2022, the team had an idea to improve polling. The sentence breaks off at \"polling\" and continues in the next one.", zh: "那是2022年，当时我们《Planet Money》团队有个想法，想尝试修复民调，有一位非常慷慨的民调……（polling 民调，民意调查）"}
+  - {text: "outfit actually let us try out our idea.", start: 53.60, end: 56.70, explain: "An \"outfit\" here means a company or organization. This sentence continues from the previous one. It says a generous polling company allowed the team to test their idea.", zh: "这个机构实际上让我们尝试了我们的想法。（outfit 机构，组织）"}
+  - {text: "So, we thought we would revisit that story today because we also have an update to how polling is changing and how our fix is actually still being used,", start: 56.70, end: 66.08, explain: "\"Revisit\" means to look at something again. The speaker says they will talk about the old story again because there is new information about how polling is changing. The sentence breaks off at \"used,\" and continues in the next one.", zh: "所以，我们今天想回顾一下那个故事，因为我们也有关于民调如何变化以及我们的修正方案实际上仍在被使用的更新，（polling 民调；revisit 回顾，重新审视）"}
+  - {text: "though maybe not how we had originally imagined.", start: 66.36, end: 69.30, explain: "This sentence continues from the previous one. It says that the fix is still being used, but perhaps not in the way the team first thought it would be.", zh: "尽管可能并不像我们最初想象的那样。（originally 最初，原本）"}
+  - {text: "Details about that at the end.", start: 69.68, end: 71.00, zh: "关于这些细节，我们放在最后讲。（Details 细节）"}
+  - {text: "But first, let us start with a trip that Nick and I took for the original story.", start: 71.40, end: 75.56, zh: "但首先，让我们从尼克和我为原始故事进行的一次旅行开始说起。（trip 旅行，行程）"}
+  - {text: "You and I headed to Poughkeepsie, New York to visit the Marist College Polling Center.", start: 77.00, end: 83.18, explain: "\"Poughkeepsie\" is a city in New York State. \"Marist College\" is the name of a university. The speaker says they went to this university to visit a place that studies public opinion.", zh: "你和我前往纽约州的普基普西，去参观马里斯特学院的民调中心。（Poughkeepsie 普基普西，纽约州城市；Marist College 马里斯特学院）"}
+  - {text: "Polling is how we figure out what Americans think about anything.", start: 83.18, end: 88.26, explain: "\"Polling\" means asking people questions to see what they think. \"Figure out\" means to find out or understand. This sentence explains that polls help us know what Americans think about many topics.", zh: "民调是我们了解美国人对任何事物看法的方式。（figure out 弄清楚，了解）"}
+  - {text: "And for pollsters, this is the most exciting time of the year.", start: 88.80, end: 92.90, explain: "\"Pollsters\" are people who do surveys. This sentence says that for these people, now is the most interesting time of the year.", zh: "对于民调机构来说，这是一年中最令人兴奋的时候。（pollsters 民调机构，民意调查员）"}
+  - {text: "Right here, they are making hundreds of thousands of calls to figure out who's likely to win in the upcoming midterm elections.", start: 93.30, end: 99.90, explain: "\"Upcoming\" means happening soon. \"Midterm elections\" are US elections that happen between the big presidential elections. The people there are calling many people to guess who will win these soon-to-happen elections.", zh: "就在此处，他们正在拨打数十万个电话，以预测即将举行的中期选举谁会获胜。（midterm elections 中期选举）"}
+  - {text: "And the person tasked with training up all the people who do the dialing is Daniela Charter.", start: 100.42, end: 106.74, explain: "\"Tasked with\" means given the job of doing something. \"Dialing\" means pressing buttons to make a phone call. Daniela is the person in charge of teaching the workers how to make calls.", zh: "负责培训所有拨号员的人是丹妮拉·查特。（tasked with 负责；dialing 拨号）"}
+  - {text: "And Daniela has agreed not only to let us sit in on a training, but later tonight, she's going to let us do the dialing for a real poll.", start: 107.34, end: 116.18, explain: "\"Sit in on\" means to watch or listen to a meeting or class. \"Dialing\" means making phone calls. Daniela let them watch a training class, and later they will make real calls for a survey.", zh: "丹妮拉不仅同意让我们旁听培训，今晚稍后，她还会让我们参与一次真实的民调拨号。（sit in on 旁听；poll 民调）"}
+  - {text: "But first, she needs to run us through the script we're going to use.", start: 116.74, end: 119.52, explain: "\"Run us through\" means to show or explain something step by step. \"Script\" is the list of words they must say. She needs to show them the words they will use.", zh: "但首先，她需要给我们过一遍我们将使用的脚本。（script 脚本，话术）"}
+  - {text: "So why don't we start, Jeff, to read that introduction for my first victim.", start: 119.74, end: 124.20, zh: "那杰夫，你何不先念一下开场白，给我的第一个“受害者”打个电话。（victim 受害者，此处指受访者）"}
+  - {text: "Hello, my name is Jeff.", start: 124.62, end: 125.82, explain: "This is the start of the phone call. The person is saying their name is Jeff.", zh: "你好，我叫杰夫。"}
+  - {text: "I'm calling for Marist College.", start: 126.10, end: 127.52, explain: "\"Marist College\" is the name of a school in the US. The speaker says she is calling from this school.", zh: "我代表马里斯特学院打电话。（Marist College 马里斯特学院）"}
+  - {text: "We're talking to people in your community and collecting opinions about issues facing residents.", start: 128.00, end: 132.14, explain: "\"Community\" means the group of people who live in the same area. \"Issues\" are problems or topics that people are thinking about. The speaker says they are asking people in the area about local problems.", zh: "我们正在与你们社区的人交谈，收集居民对当前问题的看法。（collecting opinions 收集意见；issues 问题，议题）"}
+  - {text: "Well, who are you?", start: 132.56, end: 133.50, zh: "嗯，你是谁？"}
+  - {text: "Why are you calling me?", start: 133.82, end: 135.08, explain: "This is a question. The person asks why the caller is ringing their phone.", zh: "你为什么给我打电话？"}
+  - {text: "Daniela's mission is to prepare us for the hundreds of calls we're going to make tonight.", start: 135.52, end: 139.46, explain: "\"Mission\" means a main job or task. \"Prepare\" means to get ready. Daniela’s job is to help the team get ready for the many calls they will make tonight.", zh: "丹妮拉的任务是让我们做好准备，因为今晚我们要打几百个电话。（mission 任务；Daniela 丹妮拉，人名）"}
+  - {text: "And all the different ways people are going to try to avoid answering our survey.", start: 139.46, end: 144.02, explain: "\"Avoid\" means to stay away from or not do something. The speaker says people will try not to answer the survey in many different ways.", zh: "还有人们会想出各种各样的方法来避免回答我们的调查。（survey 调查）"}
+  - {text: "Sometimes people will come back right away and be like, I'm not buying anything.", start: 144.36, end: 147.74, explain: "\"Buying\" means paying money to get something. The speaker says some people think the call is about selling things, so they say they do not want to buy anything.", zh: "有时候人们会立刻回电，说我不买任何东西。（come back 回电，回拨）"}
+  - {text: "Or they hear college.", start: 147.96, end: 148.86, zh: "或者他们一听到大学这个词。（hear 听到）"}
+  - {text: "I'm not donating. No, no, no.", start: 149.02, end: 150.32, explain: "\"Donating\" means giving money to a group or cause. The speaker says they are not giving money.", zh: "我不捐款，不不不。（donating 捐款）"}
+  - {text: "We're not looking for money.", start: 150.76, end: 152.66, explain: "\"Looking for\" means trying to find or get. The speaker says they do not want money from the person.", zh: "我们不是来要钱的。（looking for 寻找，这里指寻求）"}
+  - {text: "We're not selling anything.", start: 153.06, end: 154.24, explain: "\"Selling\" means trying to get people to buy something. The speaker says they are not trying to sell a product.", zh: "我们不是在推销任何东西。"}
+  - {text: "We just want your opinion.", start: 154.40, end: 155.74, zh: "我们只是想听听您的看法。"}
+  - {text: "We're doing important research.", start: 156.02, end: 157.62, explain: "\"Research\" means careful study to learn new things. The speaker says they are doing serious work to learn more.", zh: "我们正在做一项重要的研究。"}
+  - {text: "We came to Marist College because, well, full disclosure, Marist has a working relationship with NPR.", start: 158.30, end: 163.42, explain: "\"Marist College\" is the name of a school. \"Full disclosure\" means telling the truth about a connection that might look like a problem. The speaker says they went to this school because it works with NPR.", zh: "我们之所以来到马里斯特学院，坦白说，是因为马里斯特与NPR有合作关系。（full disclosure 坦白说，公开透明；Marist College 马里斯特学院；NPR 美国国家公共广播电台）"}
+  - {text: "They do some polls for us.", start: 163.92, end: 165.12, explain: "\"Polls\" are surveys where people answer questions. The school does these surveys for the news station.", zh: "他们为我们做一些民意调查。"}
+  - {text: "And also, Marist has one of the top polling operations in the country.", start: 165.12, end: 169.86, explain: "\"Polling operations\" means the group of people and tools used to do surveys. The speaker says this school has one of the best groups in the country.", zh: "而且，马里斯特拥有全美顶尖的民意调查团队之一。（polling operations 民意调查运作团队）"}
+  - {text: "And one reason they're so good, Daniela says, is the magic phrases they use to keep people on the phone.", start: 170.32, end: 175.54, explain: "\"Magic phrases\" are special words that work very well. \"Keep people on the phone\" means stop people from hanging up. Daniela says these words help people stay on the call.", zh: "丹妮拉说，他们之所以这么厉害，一个原因是他们使用了一些“魔法短语”来让受访者留在电话里。（magic phrases 魔法短语，指能留住听众的话术）"}
+  - {text: "My very favorite is, let's try a few and see how it goes.", start: 175.88, end: 178.84, explain: "\"Let's try\" means let us test it. The speaker says their favorite phrase is to suggest trying a few questions to see if it works.", zh: "我最喜欢的一句是：“让我们试几个问题，看看效果如何。”"}
+  - {text: "As in, let's try a few questions and see how it goes.", start: 179.50, end: 183.72, zh: "意思是，咱们先试几个问题，看看效果如何。"}
+  - {text: "She says it works for nearly everything.", start: 184.08, end: 186.68, zh: "她说这招几乎对所有人都管用。"}
+  - {text: "If a person says they're too busy, let's try a few and see how it goes.", start: 187.18, end: 191.02, zh: "如果受访者说太忙，咱们就试几个问题，看看情况。"}
+  - {text: "If they say they don't have any opinions, well, let's try a few.", start: 191.02, end: 195.60, zh: "如果他们说没意见，好吧，那就试几个。"}
+  - {text: "See how it goes.", start: 195.94, end: 196.50, zh: "看看效果怎么样。"}
+  - {text: "And it works. It really does.", start: 197.14, end: 198.52, zh: "而且真的管用。"}
+  - {text: "Does it work every single time?", start: 198.68, end: 199.86, zh: "难道每次都灵吗？"}
+  - {text: "No, but you'd be surprised.", start: 200.30, end: 201.44, zh: "不是，但你会惊讶的。"}
+  - {text: "Do you use that term in your personal life now?", start: 201.72, end: 203.64, zh: "你在日常生活中会用那个词吗？"}
+  - {text: "Definitely. Let's try a few and see how it goes.", start: 204.00, end: 205.90, zh: "当然，我们来试几个，看看效果如何。"}
+  - {text: "In fact, I think I just said it to my husband yesterday about something.", start: 206.02, end: 209.12, explain: "\"In fact\" means actually or really. The speaker says they actually used this phrase with their husband the day before.", zh: "事实上，我觉得我昨天刚对我丈夫说过，是关于某件事的。"}
+  - {text: "I think about changing his diet.", start: 209.54, end: 210.94, explain: "A \"diet\" is the food and drink a person eats. The speaker says they think about changing what they eat.", zh: "我在想改变他的饮食。"}
+  - {text: "I really do. I really, I just remembered that.", start: 211.20, end: 214.04, explain: "The speaker says they really did remember a specific thing. This is a short, casual reply.", zh: "我是认真的，我真的，我刚想起来那件事。"}
+  - {text: "I really think that I said it.", start: 214.44, end: 215.88, explain: "The speaker is sure that they said a certain thing before. This is a short, casual reply.", zh: "我真的觉得我说过。"}
+  - {text: "Daniela teaches us some other phrases we can use to get people to answer.", start: 216.18, end: 219.72, zh: "Daniela 教了我们一些其他短语，用来让人们愿意回答。"}
+  - {text: "Every opinion matters. There are no right or wrong answers.", start: 219.72, end: 223.58, zh: "每种观点都很重要，没有对错之分。"}
+  - {text: "It'll just take a few minutes.", start: 224.00, end: 225.02, zh: "只需要几分钟。"}
+  - {text: "I promise. Though Daniela says her most important advice, it's not a phrase.", start: 225.52, end: 229.96, zh: "我保证。虽然丹妮拉说，她最重要的建议其实不是一句口头禅。（Daniela 丹妮拉；phrase 短语，口头禅）"}
+  - {text: "No, no, no. It's more of a state of mind.", start: 230.62, end: 233.12, zh: "不不不，那更像是一种心态。（state of mind 心态，精神状态）"}
+  - {text: "She tells us when you are out there dialing later, promise me this.", start: 233.78, end: 237.78, explain: "\"Dialing\" means pressing numbers to make a phone call. \"Out there\" means in the field, working away from the office. The speaker asks for a promise about how to act when making calls.", zh: "她告诉我们，当你出去拨号的时候，答应我这一点。（dialing 拨号）"}
+  - {text: "You're going to throw a big smile on your face.", start: 238.26, end: 240.98, zh: "你要在脸上挂起大大的微笑。"}
+  - {text: "Smile while you dial.", start: 241.46, end: 242.42, explain: "\"Dial\" means to make a phone call. The speaker says to keep a happy face while making the call.", zh: "拨号的时候要保持微笑。"}
+  - {text: "Absolutely. Smile while you dial.", start: 242.86, end: 245.12, explain: "\"Absolutely\" means yes, definitely. The speaker agrees to smile while making the call.", zh: "绝对如此。拨号的时候保持微笑。"}
+  - {text: "Because if you smile, sound upbeat, you sound good, and you sound like someone that the respondent's going to want to talk to.", start: 245.48, end: 253.34, explain: "\"Upbeat\" means happy and energetic. A \"respondent\" is a person who answers a survey. The speaker says smiling makes you sound happy, so people want to talk to you.", zh: "因为如果你面带微笑，听起来情绪高昂，声音就会很好听，听起来就像受访者愿意与之交谈的人。（upbeat 情绪高昂的；respondent 受访者）"}
+  - {text: "That's how you hook them.", start: 253.72, end: 254.66, zh: "这就是吸引他们上钩的方法。（hook 吸引，引诱）"}
+  - {text: "And that's really important.", start: 255.08, end: 255.96, zh: "这一点真的非常重要。"}
+  - {text: "Because the biggest problem that Daniela and other pollsters are facing right now, not enough people are completing surveys.", start: 256.32, end: 262.72, explain: "A \"pollster\" is a person who asks people questions to find out what they think. \"Completing\" means finishing. The speaker says the main problem is that not enough people finish the surveys.", zh: "因为丹妮拉和其他民调员目前面临的最大问题是，完成调查的人太少了。（pollsters 民调员；surveys 调查问卷）"}
+  - {text: "They're hanging up. Or worse, they're not even picking up the phone.", start: 263.32, end: 266.34, explain: "\"Hanging up\" means ending a phone call. \"Picking up\" means answering the phone. The speaker says people are ending calls quickly or not answering at all.", zh: "他们直接挂断电话，或者更糟的是，根本不接电话。（hanging up 挂断电话）"}
+  - {text: "And when people don't respond, it is way harder to get accurate polls.", start: 266.78, end: 271.14, explain: "\"Respond\" means to answer or reply. \"Accurate\" means correct or exact. If people do not answer, it is very hard to get correct results from surveys.", zh: "当人们不回应时，要获得准确的民调结果就难多了。（accurate 准确的）"}
+  - {text: "It has become a full -on crisis for the pollsters and maybe for the rest of us.", start: 271.60, end: 276.64, explain: "\"Full-on\" means complete or total. \"Pollsters\" are people who do surveys. The speaker says this is a big problem for survey workers and maybe for everyone else.", zh: "这对民调员来说已经是一场全面危机，对我们其他人来说可能也是。（full-on 全面的，彻底的）"}
+  - {text: "Hello and welcome to Planet Money.", start: 277.92, end: 279.38, zh: "大家好，欢迎收听《Planet Money》。"}
+  - {text: "I'm Nick Fountain. And I'm Jeff Guo.", start: 279.68, end: 281.50, zh: "我是尼克·福滕，我是杰夫·郭。"}
+  - {text: "A lot of important information, a lot of economic data, like what the unemployment rate is, where inflation's at, all of that relies on polling.", start: 282.10, end: 291.12, explain: "\"Unemployment rate\" is the number of people who do not have jobs. \"Inflation\" is when prices go up. Many important facts about the economy depend on surveys.", zh: "很多重要信息，比如失业率是多少、通胀水平如何，这些经济数据都依赖于民调。（unemployment rate 失业率；inflation 通货膨胀）"}
+  - {text: "But how do you know the polls are right?", start: 291.62, end: 293.78, explain: "This is a question. The speaker asks how we can be sure the survey results are correct.", zh: "但你怎么知道民调结果是准确的呢？"}
+  - {text: "For all the pollsters of America, this is their final exam.", start: 294.34, end: 297.90, explain: "\"Final exam\" is the last test in a school year. Here, it means the most important test for the people who do surveys in America.", zh: "对于全美国的民调机构来说，这就是他们的期末大考。（pollsters 民调机构或民调员）"}
+  - {text: "Their big chance to check their work and make a case for their very existence.", start: 298.18, end: 302.62, zh: "这是他们检验工作成果、证明自身存在价值的关键时刻。（make a case for 为……辩护或证明）"}
+  - {text: "Because for years, the polls have been off.", start: 303.18, end: 306.44, explain: "\"Off\" means not correct or not accurate. The speaker says that for many years, the survey results were wrong.", zh: "因为多年来，民调一直失准。（off 偏离，不准确）"}
+  - {text: "They've been getting elections wrong.", start: 306.44, end: 308.34, zh: "他们总是预测错选举结果。"}
+  - {text: "People are saying, you can't trust the polls anymore.", start: 308.86, end: 311.08, explain: "\"Trust\" means to believe that something is true or good. People are saying they cannot believe the survey results anymore.", zh: "人们都在说，现在不能再相信民调了。"}
+  - {text: "Today on the show is polling broken.", start: 311.88, end: 314.00, explain: "\"Polling\" means asking people what they think, usually about an election. The word \"broken\" means it is not working right. This sentence says the show will talk about why these questions are not giving the right answers.", zh: "今天节目的主题是：民调失灵了吗？"}
+  - {text: "And can we fix it?", start: 314.50, end: 315.62, zh: "我们能修复它吗？"}
+  - {text: "We start smiling and dialing to find out.", start: 316.04, end: 318.04, explain: "\"Dialing\" means using a phone to call someone. This sentence means the hosts will start calling people to learn the truth.", zh: "我们带着微笑拨通了电话，想要一探究竟。（dialing 拨号，打电话）"}
+  - {text: "American journalist Austin Tice vanished in Syria over a decade ago.", start: 325.05, end: 330.33, explain: "\"Vanished\" means disappeared or went missing. \"Over a decade\" means more than ten years. This sentence says a journalist named Austin Tice went missing in Syria more than ten years ago.", zh: "美国记者奥斯汀·泰斯十多年前在叙利亚失踪了。（vanished 失踪，消失）"}
+  - {text: "For years, we've been searching for him.", start: 330.77, end: 333.03, explain: "\"Searching\" means looking for something or someone. This sentence says people have been looking for Austin for many years.", zh: "多年来，我们一直在寻找他。"}
+  - {text: "And now we finally have some answers.", start: 333.21, end: 335.69, zh: "现在，我们终于得到了一些答案。"}
+  - {text: "This is the prison that Austin was in.", start: 336.13, end: 337.81, explain: "\"Prison\" is a place where people are kept because they broke the law. This sentence points to the specific building where Austin was held.", zh: "这就是奥斯汀被关押的监狱。"}
+  - {text: "Oh my God. We found Austin's file.", start: 337.97, end: 340.77, zh: "天哪，我们找到了奥斯汀的档案。（file 档案，文件）"}
+  - {text: "Listen to Where is Austin Tice?", start: 340.77, end: 343.09, explain: "This is a short instruction to the listener. It tells you to go and listen to a specific story about Austin Tice.", zh: "请收听《奥斯汀·泰斯在哪里？》。"}
+  - {text: "From NPR's Embedded and BBC Radio 4 on the NPR app or wherever you get your podcasts.", start: 343.59, end: 349.09, zh: "来自NPR的《Embedded》节目，以及BBC Radio 4，你可以在NPR应用或任何获取播客的地方收听。"}
+  - {text: "This election season, let the NPR Politics podcast save your time and your sanity.", start: 349.63, end: 354.25, explain: "\"Sanity\" means being calm and not crazy. This is an ad for a podcast that promises to help you stay calm during the busy election time.", zh: "在这个选举季，让NPR政治播客帮你节省时间，保持理智。（sanity 理智，神志清醒）"}
+  - {text: "We'll help you understand key races, which polls you can safely ignore, and what might happen if power shifts in Congress.", start: 354.43, end: 361.01, explain: "\"Key races\" are the most important elections. \"Polls\" are surveys that ask people who they will vote for. \"Congress\" is the group of people who make laws in the US. This sentence says the show will help you understand the main elections and what might happen if the people in charge change.", zh: "我们会帮你理解关键选情，哪些民调可以安全忽略，以及如果国会权力格局发生转移可能会发生什么。（key races 关键选情；Congress 美国国会）"}
+  - {text: "Our short daily episodes come out every afternoon, so you can spend less time scrolling through each chaotic news cycle.", start: 361.47, end: 367.07, explain: "\"Chaotic\" means messy and confusing. \"News cycle\" is the daily flow of news stories. This sentence says the short episodes come out every day so you do not have to look at all the confusing news yourself.", zh: "我们的短小每日剧集每天下午播出，这样你花在浏览每个混乱新闻周期上的时间就会更少。（chaotic 混乱的）"}
+  - {text: "Make NPR Politics your hub for midterm election coverage.", start: 367.45, end: 370.21, explain: "\"Hub\" means a main center or place. \"Midterm election\" is an election that happens halfway through a leader's time in office. This sentence asks you to use NPR Politics as your main place to get news about these elections.", zh: "把NPR政治节目作为你关注中期选举报道的中心。（midterm election 中期选举）"}
+  - {text: "Follow our podcast on the NPR app or wherever you get your podcasts.", start: 370.21, end: 373.41, zh: "在NPR应用或任何获取播客的地方关注我们的播客。"}
+  - {text: "Election season feels messier than ever.", start: 373.77, end: 376.35, zh: "选举季感觉比以往任何时候都更混乱。（messier 更混乱的）"}
+  - {text: "Attack ads, misinformation, AI.", start: 376.57, end: 378.65, explain: "\"Attack ads\" are ads that try to make people dislike a political candidate. \"Misinformation\" is false information that is shared by mistake or on purpose. This is a list of bad things in the news.", zh: "攻击性广告、错误信息、人工智能。（Attack ads 攻击性广告；misinformation 错误信息）"}
+  - {text: "NPR is your antidote.", start: 379.27, end: 380.69, explain: "\"Antidote\" is a medicine that fixes a bad thing. Here it means NPR is the cure for the bad news. This sentence says NPR fixes the problems mentioned before.", zh: "NPR 是你的解毒剂。（antidote 解毒剂，此处比喻解药或对策）"}
+  - {text: "Our network of real human journalists keeps you focused on the facts.", start: 380.95, end: 384.75, explain: "\"Journalists\" are people who write or report news. This sentence says real people, not machines, report the news to help you see the truth.", zh: "我们由真人记者组成的网络让你能专注于事实。（network 网络；journalists 记者）"}
+  - {text: "And with NPR Plus, you directly support journalists on the ground asking questions in service to the public.", start: 385.01, end: 391.13, explain: "\"On the ground\" means being at the place where the news is happening. \"In service to the public\" means working for the good of everyone. This sentence says if you pay for NPR Plus, you help reporters who are at the scene asking questions for the people.", zh: "通过 NPR Plus，你可以直接支持那些在一线为公众提问的记者。（on the ground 在一线，在现场；in service to 为……服务）"}
+  - {text: "As a thank you, you get dozens of podcasts sponsor -free.", start: 391.49, end: 394.33, explain: "\"Sponsor-free\" means there are no ads from companies. This sentence says if you pay, you get many podcasts without any ads.", zh: "作为回报，你可以收听数十档无赞助商的播客。（sponsor-free 无赞助商的）"}
+  - {text: "Sign up today at plus .npr .org.", start: 394.73, end: 397.51, zh: "今天就在 plus.npr.org 注册吧。"}
+  - {text: "We got to Marist ready to dial.", start: 397.51, end: 400.64, explain: "\"Marist\" is the name of a polling organization. \"Dial\" means to call a phone number. The speaker says they were ready to call Marist.", zh: "我们联系到了 Marist，准备开始拨号。（Marist 玛里斯特大学，一家民调机构；dial 拨号）"}
+  - {text: "And they told us, actually, you gotta wait.", start: 401.16, end: 403.28, explain: "\"Gotta\" is a short, informal way of saying \"have to\". The people at Marist told the speaker they must wait.", zh: "但他们告诉我们，其实你得等等。（gotta 必须，得）"}
+  - {text: "Because pollsters generally work at night.", start: 403.78, end: 406.00, explain: "\"Pollsters\" are people who ask questions to find out what people think. They usually work when it is dark outside.", zh: "因为民调员通常都在晚上工作。（pollsters 民调员）"}
+  - {text: "That's when more people are likely to be home to pick up the phone.", start: 406.40, end: 409.38, zh: "那时候更多人可能在家，能接起电话。（likely 可能；pick up 接起，拿起）"}
+  - {text: "And so because of this, pollsters tend to be night owls.", start: 410.08, end: 413.16, explain: "\"Night owls\" are people who stay up late and work at night. Pollsters often work at night, so they are like owls.", zh: "因此，民调员往往都是夜猫子。（pollsters 民调员；night owls 夜猫子，指习惯夜间活动的人）"}
+  - {text: "We're really not mourning people.", start: 413.28, end: 415.68, explain: "\"Mourning\" means feeling very sad because someone died. The speaker says they are not sad about people dying.", zh: "我们真的不是在哀悼逝者。（mourning 哀悼，悼念）"}
+  - {text: "This is the director of the Marist poll, Barbara Carvalho.", start: 416.04, end: 418.42, explain: "\"Director\" is the person in charge of a group. \"Marist poll\" is the name of the survey. Barbara Carvalho is the leader of this group.", zh: "这位是马里斯特民调的主任，芭芭拉·卡瓦略。（Marist poll 马里斯特民调；director 主任，负责人）"}
+  - {text: "We start the day probably about noon and then we go to about midnight.", start: 418.64, end: 423.24, explain: "\"Noon\" is 12:00 in the middle of the day. \"Midnight\" is 12:00 at the end of the night. They start work at 12:00 PM and finish at 12:00 AM.", zh: "我们大概中午开始工作，一直持续到午夜左右。（noon 中午；midnight 午夜）"}
+  - {text: "Have you looked at a mirror recently?", start: 423.70, end: 425.22, zh: "你最近照过镜子吗？（mirror 镜子）"}
+  - {text: "Was there something there?", start: 425.78, end: 426.68, zh: "镜子里有什么吗？（something 某物，某事）"}
+  - {text: "Well, you know, some people think we're even worse than vampires.", start: 426.68, end: 429.76, explain: "\"Vampires\" are imaginary monsters that only come out at night. Some people think the pollsters are even worse than these monsters because they work so late.", zh: "嗯，你知道，有些人觉得我们甚至比吸血鬼还糟糕。（vampires 吸血鬼）"}
+  - {text: "You can get rid of a vampire a lot easier than you can get rid of a pollster.", start: 430.50, end: 434.08, explain: "A \"vampire\" is a monster from stories that drinks blood. A \"pollster\" is a person who asks people questions to guess how they will vote. The speaker says it is much simpler to kill a monster than to stop a pollster from doing their job.", zh: "比起搞定一个民调专家，除掉一个吸血鬼要容易得多。（vampire 吸血鬼；pollster 民调专家）"}
+  - {text: "Barbara's a big deal in the polling world.", start: 434.48, end: 436.48, explain: "\"A big deal\" means very important or famous. This sentence says that Barbara is a very important person in the group of people who do polls.", zh: "芭芭拉在民调界可是个大人物。（big deal 大人物，重要人物）"}
+  - {text: "She's been a pollster her entire career.", start: 436.78, end: 438.46, explain: "A \"pollster\" is a person who asks people questions to find out what they think. \"Entire\" means the whole time. The sentence says she has done this job for her whole life.", zh: "她整个职业生涯都在做民调。（pollster 民调专家）"}
+  - {text: "For decades, she's run every aspect of the Marist poll.", start: 438.92, end: 442.44, explain: "\"For decades\" means for many, many years. \"Marist\" is the name of a specific group that does the polling. The sentence says she has been in charge of all parts of this group's work for a long time.", zh: "几十年来，她负责管理马里斯特民调的方方面面。（Marist poll 马里斯特民调，一种知名民意调查）"}
+  - {text: "What questions they ask, the methodology they use, the math behind it.", start: 442.88, end: 446.92, explain: "\"Methodology\" means the method or way of doing something. \"Math\" is short for mathematics. This sentence is a list of things to check, such as the questions and the way the work is done. It is not a full sentence.", zh: "包括他们问什么问题、使用什么方法论，以及背后的数学原理。（methodology 方法论；math 数学原理）"}
+  - {text: "It's Barbara's job to make sure they get things right.", start: 447.18, end: 449.80, zh: "确保他们把事情做对，是芭芭拉的工作。（get things right 把事情做对）"}
+  - {text: "And maybe more importantly, that they don't mess things up.", start: 450.18, end: 453.48, zh: "也许更重要的是，确保他们别把事情搞砸。（mess things up 搞砸，弄糟）"}
+  - {text: "And that's because the history of polling has been defined, unfortunately, by blunders.", start: 453.76, end: 459.84, explain: "\"Polling\" means asking people what they think or who they will vote for. A \"blunder\" is a big mistake. The speaker says that the history of asking people these questions has been full of big mistakes.", zh: "因为不幸的是，民调的历史一直是由各种失误定义的。（blunders 重大失误，大错）"}
+  - {text: "And so to show us how polling works today, Barbara took us through the three most infamous blunders.", start: 460.40, end: 466.16, explain: "\"Polling\" means asking people questions to see what they think. \"Infamous blunders\" means very famous mistakes. Barbara explains the three biggest mistakes in history to show how voting surveys work.", zh: "为了向我们展示如今民调是如何运作的，芭芭拉带我们回顾了历史上最著名的三次预测失误。（polling 民意调查；blunders 失误，错误）"}
+  - {text: "The first major blunder was the election of 1936.", start: 466.62, end: 470.04, explain: "A \"blunder\" is a big mistake. The sentence says the first big mistake in voting surveys happened in the 1936 election.", zh: "第一次重大失误发生在1936年的大选。（blunder 失误，错误）"}
+  - {text: "It was the middle of the Great Depression.", start: 470.64, end: 472.26, explain: "\"The Great Depression\" was a very bad time for the economy in the 1930s. Many people lost their jobs and money. This sentence says that the story happens during this hard time.", zh: "当时正值大萧条的中期。（Great Depression 大萧条）"}
+  - {text: "Franklin Delano Roosevelt was running for reelection.", start: 472.78, end: 475.24, explain: "\"Running for reelection\" means trying to win the job of president again. Franklin Delano Roosevelt was the president at that time.", zh: "富兰克林·德拉诺·罗斯福正在竞选连任。（reelection 连任竞选）"}
+  - {text: "His opponent was Alf Landon, the governor of Kansas.", start: 475.90, end: 478.72, explain: "\"Opponent\" means the person you are fighting against in a competition or election. \"Governor\" is the leader of a state, like a mayor but for a bigger area.", zh: "他的对手是堪萨斯州州长阿尔夫·兰登。（governor 州长）"}
+  - {text: "The Republicans think Alf Landon is the man who will win in November.", start: 478.98, end: 482.66, explain: "\"Republicans\" are members of one of the two main political parties in the US. They believe Alf Landon will win the election in November.", zh: "共和党人认为阿尔夫·兰登是那个能在十一月获胜的人。（Republicans 共和党人）"}
+  - {text: "He is our next president if he can beat Roosevelt.", start: 482.66, end: 486.30, explain: "\"Beat\" means to win against someone. This sentence says he will be the next president if he wins against Roosevelt.", zh: "如果他能在竞选中击败罗斯福，他将成为我们的下一任总统。（president 总统）"}
+  - {text: "People were glued to their radios and to their magazines.", start: 486.86, end: 490.54, explain: "\"Glued to\" means watching or listening very closely, like you are stuck to the thing. People were paying a lot of attention to the news.", zh: "人们都全神贯注地听着广播，看着杂志。（glued to 全神贯注于，紧盯着）"}
+  - {text: "Yeah, one of the most popular magazines in America at the time was called The Literary Digest and was especially famous for its election polls.", start: 490.98, end: 499.34, explain: "\"Polls\" are questions asked to many people to see what they think. \"The Literary Digest\" was a very famous magazine that did these polls.", zh: "没错，当时美国最流行的杂志之一是《文学文摘》，它尤其以选举民调闻名。（The Literary Digest 《文学文摘》，美国历史悠久的杂志；election polls 选举民调）"}
+  - {text: "For years, The Literary Digest mailed out millions of surveys to their subscribers and to any other address they could get their hands on.", start: 499.82, end: 506.80, explain: "\"Subscribers\" are people who pay to receive a magazine or newspaper. \"Surveys\" are lists of questions sent to people to find out their opinions.", zh: "多年来，《文学摘要》杂志向订阅者以及他们能找到的任何其他地址邮寄了数百万份调查问卷。（The Literary Digest 《文学摘要》，美国老牌杂志；subscribers 订阅者）"}
+  - {text: "They would survey people who owned cars because there was a list of people who owned cars.", start: 507.18, end: 513.04, explain: "To \"survey\" people means to ask them questions to learn what they think. This sentence says they only asked people who had cars, because they had a list of those people.", zh: "他们调查拥有汽车的人，因为有一份汽车拥有者的名单。（survey 调查；subscribers 订阅者）"}
+  - {text: "They would survey people who owned homes because that was a list.", start: 513.32, end: 517.26, explain: "To \"survey\" people means to ask them questions. This sentence says they only asked people who owned houses, because they had a list of those people.", zh: "他们调查拥有房产的人，因为有一份房产拥有者的名单。（survey 调查）"}
+  - {text: "The Literary Digest asked these millions of people who they were going to vote for.", start: 517.70, end: 521.28, zh: "《文学文摘》向这些数百万人询问他们打算投票给谁。（The Literary Digest 《文学文摘》）"}
+  - {text: "It was basically trying to do the vote before the vote.", start: 521.72, end: 524.06, explain: "This is a metaphor. It means the poll tried to guess the result of the election before the people actually went to vote.", zh: "这基本上是在正式投票前就预测出投票结果。（vote 投票）"}
+  - {text: "And for a long time, this worked.", start: 524.44, end: 526.20, explain: "This short sentence says that this method was successful for many years.", zh: "很长一段时间里，这种做法都有效。（worked 有效，奏效）"}
+  - {text: "The Literary Digest had a 25 -year track record of getting elections right.", start: 526.72, end: 531.04, zh: "《文学文摘》曾连续25年准确预测选举结果。（track record 过往记录，业绩）"}
+  - {text: "Enter George Gallup, a pioneer of modern polling.", start: 531.50, end: 535.18, explain: "\"Enter\" here means a new person appears in the story. A \"pioneer\" is a person who is the first to do something new. \"Polling\" means asking people questions to guess the result of an election.", zh: "乔治·盖洛普登场，他是现代民意调查的先驱。（pioneer 先驱；polling 民意调查）"}
+  - {text: "Gallup had a hunch, based on math, that there was a better way to predict election results.", start: 535.58, end: 541.12, explain: "A \"hunch\" is a feeling that something is true, even if you do not have all the facts. \"Math\" is short for mathematics. This sentence says Gallup felt, using math, that there was a better way to guess election results.", zh: "盖洛普基于数学原理直觉认为，预测选举结果还有更好的方法。（hunch 直觉；predict 预测）"}
+  - {text: "Rather than get the opinions of millions of people, Gallup said, I'll just interview a fraction of that amount, just 3%, but the right people.", start: 541.32, end: 550.04, explain: "A \"fraction\" is a small part of a whole. This sentence says Gallup wanted to ask only a very small number of people, just 3%, but he wanted to choose the correct people.", zh: "盖洛普说，不用去问数百万人的意见，我只采访其中的一小部分，也就是3%，但要是选对的人。（fraction 一小部分；interview 采访）"}
+  - {text: "And they'll give me the more accurate answer.", start: 550.58, end: 552.72, zh: "这样他们能给我更准确的答案。（accurate 准确的）"}
+  - {text: "So, in one corner, there was the Literary Digest poll and their survey of 2 million people.", start: 553.14, end: 558.84, explain: "\"In one corner\" is a way to describe one side of a story or a competition. This sentence introduces the Literary Digest poll, which asked 2 million people.", zh: "所以，一边是《文学文摘》的民调，他们调查了200万人。（Literary Digest 《文学文摘》；survey 调查）"}
+  - {text: "They were saying, yeah, FDR is going down.", start: 559.22, end: 561.96, explain: "\"FDR\" is the short name for Franklin D. Roosevelt, a US president. \"Going down\" means losing the election. The sentence is a fragment that continues in the next one.", zh: "他们声称，是的，罗斯福要落选了。（FDR 富兰克林·罗斯福；going down 落选，失败）"}
+  - {text: "They said it was going to be a land -on slide for Landon.", start: 562.22, end: 565.08, explain: "\"Landon\" is the name of the other candidate. \"Landslide\" means a win by a very large number of votes. The text has a space in \"land -on slide\" because it is a broken word.", zh: "他们说兰登将会以压倒性优势获胜。（landslide 压倒性胜利；Landon 兰登）"}
+  - {text: "That Alph Landon was going to land on Washington.", start: 565.08, end: 568.28, explain: "\"Alph Landon\" is the full name of the candidate. \"Land on Washington\" is a joke about him winning in Washington, D.C.", zh: "意思是阿尔夫·兰登将会把华盛顿（指白宫）拿下。（Alph Landon 阿尔夫·兰登；land on 登陆，此处指击败对手）"}
+  - {text: "Those are his campaign slogans, not our bad puns.", start: 568.88, end: 572.42, explain: "\"Puns\" are jokes that use words with double meanings. The speakers say the slogans are real, not their own jokes.", zh: "那是他的竞选口号，不是我们故意玩的双关语。（slogans 口号；puns 双关语）"}
+  - {text: "And then there was Gallup and his teeny tiny survey.", start: 572.64, end: 576.08, explain: "\"Gallup\" is the name of a famous survey company. \"Teeny tiny\" means very small.", zh: "接着是盖洛普和他那个规模极小的民调。（Gallup 盖洛普，美国知名民意调查机构；survey 民调）"}
+  - {text: "And he said, no, actually FDR is going to win.", start: 576.56, end: 579.96, explain: "\"Actually\" is used to correct a wrong idea. The sentence says Gallup predicted FDR would win.", zh: "他说，不，实际上富兰克林·罗斯福会赢。（FDR 富兰克林·罗斯福，美国前总统）"}
+  - {text: "If you know anything about American history, you know who won this battle.", start: 580.28, end: 583.82, zh: "如果你对美国历史有所了解，你就知道这场战役谁赢了。（battle 战役，此处比喻选举竞争）"}
+  - {text: "It wasn't even close.", start: 584.04, end: 584.92, zh: "结果甚至都不算接近。（close 接近，势均力敌）"}
+  - {text: "FDR won all but two states.", start: 585.24, end: 587.00, zh: "罗斯福赢得了除两个州以外的所有州。（states 州）"}
+  - {text: "Gallup was right. And the Literary Digest went out of business.", start: 587.50, end: 590.90, explain: "\"Went out of business\" means the company closed and stopped working. The Literary Digest was a magazine that did bad polls.", zh: "盖洛普猜对了，而《文学文摘》就此倒闭。（Literary Digest 《文学文摘》，美国杂志）"}
+  - {text: "Gallup said the problem with the Literary Digest poll was that the respondents, even though there were a lot of them, they didn't look like America.", start: 591.56, end: 599.82, explain: "\"Respondents\" are the people who answer the survey questions. \"Look like America\" means they did not represent the whole country well.", zh: "盖洛普说，《文学文摘》民调的问题在于，尽管受访者数量庞大，但他们并不具备美国人口的典型特征。（respondents 受访者）"}
+  - {text: "They were wealthier than average.", start: 600.30, end: 601.82, explain: "\"Wealthier\" means having more money. \"Average\" means the normal or middle level. This sentence says the people had more money than most people.", zh: "他们的收入比平均水平要高。（wealthier 更富裕的；average 平均水平）"}
+  - {text: "They owned cars. They subscribed to a magazine called The Literary Digest.", start: 602.16, end: 606.78, explain: "\"Subscribed\" means you pay money to receive a magazine every month or year. \"The Literary Digest\" is the name of a specific magazine. The sentence says these people had cars and paid for this magazine.", zh: "他们拥有汽车，还订阅了一本叫《文学文摘》的杂志。（subscribed to 订阅；The Literary Digest 《文学文摘》，美国历史悠久的杂志）"}
+  - {text: "Just from the name, Literary Digest, you kind of get a sense this is not an everyman's publication.", start: 607.02, end: 613.50, explain: "\"Publication\" means a book or magazine. \"Everyman's\" means for ordinary people. The speaker says the name suggests the magazine is not for normal people.", zh: "光看“文学文摘”这个名字，你就能感觉到这可不是大众读物。（everyman's 大众的，普通人的；publication 出版物）"}
+  - {text: "Are you saying that it's snooty to read?", start: 613.96, end: 616.46, explain: "\"Snooty\" means acting like you are better than other people. The speaker asks if the magazine is for people who think they are special.", zh: "你是说读这本杂志显得很高傲吗？（snooty 自视甚高的，傲慢的）"}
+  - {text: "Well, I think for the Literary Digest, that was true.", start: 617.28, end: 620.78, explain: "\"True\" means correct or real. The speaker agrees that the magazine was for people who acted better than others.", zh: "嗯，我觉得对于《文学文摘》来说，确实是这样。（Literary Digest 《文学文摘》）"}
+  - {text: "Gallup said the issue was snooty people with their fancy cars and homes and books.", start: 621.32, end: 626.50, explain: "\"Fancy\" means expensive and nice. \"Issue\" here means the problem. Gallup said the problem was that the people were rich and acted superior.", zh: "盖洛普说，问题在于那些开着豪车、住着豪宅、读着精装书的高傲人群。（Gallup 盖洛普，美国知名民意调查机构；snooty 自视甚高的）"}
+  - {text: "They were not what's called a representative sample of voters.", start: 627.20, end: 630.94, explain: "\"Representative sample\" means a group of people that shows what the whole population is like. \"Voters\" are people who vote in elections. The sentence says these people did not show what all voters are like.", zh: "他们并不是所谓的选民代表性样本。（representative sample 代表性样本）"}
+  - {text: "That was Gallup's big idea.", start: 631.50, end: 632.72, explain: "\"Gallup\" is a famous company that asks people questions to find out what they think. The sentence says this was the main new idea from that company.", zh: "这就是盖洛普的核心理念。（Gallup 盖洛普）"}
+  - {text: "And the big lesson of polling blunder number one, that if you're going to conduct a poll, you have to talk to the right mix of people.", start: 633.24, end: 640.66, explain: "A \"blunder\" is a big mistake. \"Conduct\" means to do or run something. \"Mix\" here means the group of people you choose. The sentence says the main lesson from the first big mistake is that you must ask the right group of people.", zh: "民调失误的第一大教训是，如果你要做民调，就必须接触正确比例的人群。（mix 比例，组合；conduct 进行）"}
+  - {text: "Get a representative sample.", start: 640.96, end: 642.70, zh: "也就是要获取一个具有代表性的样本。（representative sample 代表性样本）"}
+  - {text: "Math one. Math one.", start: 643.22, end: 645.14, zh: "数学第一。数学第一。（Math 数学，此处指数学逻辑或计算）"}
+  - {text: "Math always wins. However, Gallup's victory lap, it wouldn't last long.", start: 645.66, end: 650.98, explain: "\"Victory lap\" is a phrase that means showing off after winning. The sentence says that although math works well, Gallup's time of being right would not last long.", zh: "数学总是占上风。不过，盖洛普的得意劲儿没持续多久。（victory lap 庆祝胜利，得意洋洋）"}
+  - {text: "Because the next big polling blunder was just around the corner.", start: 650.98, end: 655.08, explain: "\"Around the corner\" means very soon. The sentence says the next big mistake in asking people questions was coming soon.", zh: "因为下一个重大的民调失误就在眼前。（around the corner 就在眼前，即将发生）"}
+  - {text: "The famous Dewey defeats Truman headline, where a newspaper got the 1948 election results so very wrong, that was in part because Gallup and a bunch of other pollsters have been saying that Harry Truman would lose the election.", start: 655.74, end: 668.92, explain: "\"Headline\" is the big title on the front of a newspaper. \"Pollsters\" are people who do surveys. The sentence explains that a famous newspaper got the 1948 election result wrong because Gallup and others said Harry Truman would lose.", zh: "著名的《杜威击败杜鲁门》头条新闻，一家报纸把1948年大选结果搞错了，部分原因是盖洛普和其他一些民调机构都预测哈里·杜鲁门会输掉选举。（headline 头条新闻；pollsters 民调机构或人员）"}
+  - {text: "How big of a moment was that for polling?", start: 669.46, end: 671.24, explain: "\"Moment\" here means an important time or event. The speaker asks how important that event was for the world of surveys.", zh: "这对民调来说是个多大的时刻？（moment 关键时刻，重要时刻）"}
+  - {text: "Do we really have to talk about that?", start: 671.98, end: 673.94, zh: "我们真的非得提那件事吗？（Do we really have to 我们真的必须……吗）"}
+  - {text: "I mean, that is like one of the biggest, you know, of our polling debacles, you know, in the history of polling.", start: 674.32, end: 681.34, explain: "A \"debacle\" is a total failure or a very bad mistake. The speaker says this is one of the worst failures in the history of surveys.", zh: "我的意思是，这可以说是我们民调历史上最惨痛的失败之一。（debacles 惨败，大失败；polling 民意调查）"}
+  - {text: "And it had a significant impact.", start: 681.64, end: 683.32, zh: "而且它产生了巨大的影响。（significant 显著的，巨大的）"}
+  - {text: "Yeah, the polling blunder here was, although the pollsters tried to get a representative sample, it just wasn't representative enough.", start: 683.72, end: 691.10, explain: "A \"representative sample\" is a small group of people that shows what the whole population thinks. The sentence says the mistake was that the group they chose did not really show what everyone thought.", zh: "没错，这里的民调失误在于，虽然民调机构试图获取具有代表性的样本，但样本的代表性还是不够。（representative 有代表性的；sample 样本）"}
+  - {text: "Here's what happened. Gallup had been telling his surveyors, just get me a bunch of people that look like the census.", start: 691.56, end: 697.44, explain: "\"Surveyors\" are people who ask questions to collect data. \"Census\" is an official count of all people in a country. The sentence explains that Gallup told his workers to find people who match the official population count.", zh: "事情是这样的。盖洛普一直告诉他的调查员，只要给我找一群看起来符合人口普查数据的人就行。（Gallup 盖洛普，美国知名民调机构；census 人口普查）"}
+  - {text: "Go poll this many housewives, this many farmers, this many businessmen of a certain income bracket, and so on and so forth.", start: 697.98, end: 705.88, explain: "\"Poll\" here means to ask people questions about their opinions. \"Income bracket\" is a group of people with similar amounts of money. The speaker lists the specific types of people the workers were told to find.", zh: "比如去调查这个数量的家庭主妇、那个数量的农民，还有特定收入阶层的商人，以此类推。（housewives 家庭主妇；income bracket 收入阶层）"}
+  - {text: "And his pollsters would hunt for these very specific people, grab them off the street and ask them, you voting Dewey or Truman?", start: 705.88, end: 712.84, explain: "\"Pollsters\" are people who run opinion surveys. \"Dewey\" and \"Truman\" are the names of the two political leaders in the 1948 election. The workers would find these specific people on the street and ask who they would vote for.", zh: "他的调查员就会去搜寻这些非常具体的人，把他们从街上拉过来问：你是投杜威还是杜鲁门？（Dewey 杜威，1948年美国总统候选人；Truman 杜鲁门，1948年美国总统）"}
+  - {text: "This was problematic because it was hard to fill these buckets.", start: 713.42, end: 716.88, explain: "\"Problematic\" means causing difficulties or problems. \"Buckets\" is a metaphor for groups or categories. It was difficult to find enough people to fill each specific group.", zh: "这很有问题，因为很难凑齐这些特定类别的人。（buckets 类别，这里指特定人群分类）"}
+  - {text: "And so the pollsters who weren't paid all that well, some of them started to cut corners.", start: 717.36, end: 722.32, explain: "\"Cut corners\" means to do something in a cheap or quick way, often by not following the rules. Some workers did not follow the rules because they did not get paid much.", zh: "而且那些薪水不高的调查员，有些人开始走捷径了。（cut corners 走捷径，偷工减料）"}
+  - {text: "All right, sure, you're not a well -heeled businessman.", start: 722.96, end: 725.14, explain: "\"Well-heeled\" means rich or having a lot of money. The worker is pretending the person is rich to fit the survey requirements.", zh: "好吧，承认吧，你并不是什么富有的商人。（well-heeled 富裕的，有钱的）"}
+  - {text: "Let's say you were, you voting Dewey or Truman?", start: 725.74, end: 728.50, explain: "This is a continuation of the previous sentence. The worker asks the person to pretend they are rich and then asks who they will vote for.", zh: "假设你是，那你投杜威还是杜鲁门？（Dewey 杜威，1948年美国总统候选人；Truman 杜鲁门，1948年美国总统候选人）"}
+  - {text: "So one of the big lessons from the Dewey defeats Truman disaster, polling blunder number two, is that it's really hard to make that representative sample by hand.", start: 728.92, end: 739.00, explain: "\"Representative sample\" is a small group of people that accurately shows the opinions of the whole population. \"Blunder\" is a big mistake. The main lesson is that it is very hard to pick a correct group of people by hand.", zh: "所以，从杜威败给杜鲁门这场灾难中，也就是民调失误之二，我们学到的重要教训是：靠人工很难做出具有代表性的样本。（representative sample 代表性样本）"}
+  - {text: "And the way modern polling fixed this problem was with more statistics.", start: 739.34, end: 745.00, explain: "\"Polling\" means asking people questions to find out what they think. \"Statistics\" are numbers and data used to study a group. The sentence says that modern surveys use more math to fix old problems.", zh: "现代民调解决这个问题的方式，是引入了更多的统计学方法。（statistics 统计学）"}
+  - {text: "The math people said, there's a better way of making a representative sample.", start: 745.94, end: 750.08, explain: "\"Representative sample\" means a small group of people that stands for the whole population. The experts said there is a better way to choose this group.", zh: "数学家们说，制作代表性样本还有更好的办法。（representative sample 代表性样本）"}
+  - {text: "And it's so simple that it almost sounds dumb.", start: 750.30, end: 753.46, explain: "\"Dumb\" here means stupid or silly. The speaker says the method is so easy that it might seem foolish.", zh: "而且这方法简单得简直听起来有点傻。（dumb 傻的，愚蠢的）"}
+  - {text: "Here it is. Just pick randos.", start: 754.22, end: 757.64, explain: "\"Randos\" is a short, informal word for random people. The speaker says to just choose people without a plan.", zh: "就是它：随便挑路人。（randos 随机路人，随便的人）"}
+  - {text: "Just close your eyes and pick people at random.", start: 757.94, end: 760.74, explain: "\"At random\" means by chance, without a specific plan. The speaker suggests closing your eyes and choosing people by luck.", zh: "闭上眼睛，随机挑选人就行。（at random 随机地）"}
+  - {text: "Generally, if you're looking at a simple random sampling, when you get to about 100 individuals, you can make some pretty clear generalizations about that particular group of people.", start: 760.74, end: 774.20, explain: "\"Generalizations\" are broad statements about a group based on a small part. \"Individuals\" means single people. The speaker says that with about 100 people, you can make good guesses about the whole group.", zh: "一般来说，如果你看的是简单随机抽样，当样本量达到大约100人时，你就可以对那个特定群体做出相当明确的概括。（simple random sampling 简单随机抽样；generalizations 概括，推论）"}
+  - {text: "This is the magic behind random polling.", start: 774.58, end: 777.20, explain: "\"Magic\" here means the secret power or special effect. The speaker says this is the secret that makes random surveys work.", zh: "这就是随机民调背后的神奇之处。（random polling 随机民调）"}
+  - {text: "You don't have to go hunting around for the right people to make a representative sample.", start: 777.70, end: 781.90, zh: "你不需要四处寻找合适的人来组成一个有代表性的样本。（representative sample 有代表性的样本）"}
+  - {text: "In fact, that can distort the poll by introducing bias.", start: 782.30, end: 784.96, explain: "\"Distort\" means to change the shape or meaning so it is not true. \"Bias\" means being unfair or not neutral. The sentence says this can make the survey results wrong.", zh: "事实上，这样做反而可能引入偏差，从而扭曲民调结果。（distort 扭曲，使变形；bias 偏差，偏见）"}
+  - {text: "The math says a truly random sample won't be biased.", start: 785.62, end: 789.62, explain: "A \"sample\" is a small group chosen from a larger group to represent it. \"Biased\" means unfair or not showing the true picture. The sentence says that if you pick people by chance, the result will be fair.", zh: "数学告诉我们，真正的随机样本不会存在偏差。（truly random 真正随机的）"}
+  - {text: "And that even a small random sample will be surprisingly accurate.", start: 789.62, end: 794.14, explain: "\"Accurate\" means correct or close to the truth. The sentence says that even a small group chosen by chance can give a very correct answer.", zh: "而且，即使是一个小规模的随机样本，其准确性也会令人惊讶。（surprisingly accurate 出乎意料地准确）"}
+  - {text: "This was one of the most important ideas of the 20th century.", start: 794.66, end: 798.10, explain: "The \"20th century\" is the time from 1900 to 1999. The speaker says this idea was very important in that time.", zh: "这是20世纪最重要的理念之一。（20th century 20世纪）"}
+  - {text: "It changed how scientists do research, changed how we study economics.", start: 798.42, end: 802.08, explain: "\"Research\" means careful study to find new facts. The sentence says this idea changed how scientists and economists do their work.", zh: "它改变了科学家做研究的方式，也改变了我们研究经济学的方式。（economics 经济学）"}
+  - {text: "And for pollsters, this became their holy grail, getting that perfect random sample.", start: 802.78, end: 808.86, explain: "A \"pollster\" is a person who asks people questions to find out what they think. A \"holy grail\" is a very hard thing to get that everyone wants. The sentence says pollsters really wanted to get a perfect random sample.", zh: "对于民调机构来说，这成了他们的圣杯，也就是获取完美的随机样本。（pollsters 民调机构；holy grail 圣杯，指极难实现的目标）"}
+  - {text: "Luckily, just around the corner, there was a revolutionary technology that would make it kind of easy to achieve that holy grail, called the random sample, the telephone.", start: 809.30, end: 819.42, explain: "\"Revolutionary\" means something new that changes everything. \"Achieve\" means to get or do something. The sentence says the telephone made it easy to get a random sample.", zh: "幸运的是，就在不远处，出现了一项革命性技术，让实现这个“圣杯”——即随机样本——变得相对容易，那就是电话。（revolutionary technology 革命性技术；random sample 随机样本）"}
+  - {text: "Did the telephone revolutionize polling?", start: 819.96, end: 822.76, explain: "\"Revolutionize\" means to change something completely. The speaker asks if the telephone changed polling a lot.", zh: "电话是否彻底改变了民调？（revolutionize 彻底改变，革新）"}
+  - {text: "No question about it.", start: 823.36, end: 824.54, zh: "毫无疑问。（No question about it 毫无疑问，肯定是的）"}
+  - {text: "At a certain point by the 70s or 80s, almost every household in America had a telephone.", start: 824.84, end: 830.36, explain: "A \"household\" is a family or group of people living in one home. The sentence says that in the 1970s or 1980s, almost every home in America had a phone.", zh: "到了七十年代或八十年代，美国几乎家家户户都装了电话。（household 家庭，住户）"}
+  - {text: "And telephones are great for random sampling, because you can just pick random numbers out of a list.", start: 831.02, end: 836.18, explain: "\"Random sampling\" means choosing people to ask questions in a way that gives everyone an equal chance. \"Pick\" means to choose. The sentence says phones are good for this method because you can choose numbers from a list by chance.", zh: "电话非常适合做随机抽样，因为你可以直接从名单里随机抽取号码。（random sampling 随机抽样）"}
+  - {text: "So that would be the golden age of polling.", start: 836.52, end: 840.82, explain: "\"Golden age\" means a time when something was at its best and most successful. The speaker says this was the best time for asking people questions about politics.", zh: "那可以说是民调的黄金时代。（golden age 黄金时代）"}
+  - {text: "And Barbara says the golden age lasted for decades, pretty much.", start: 841.18, end: 844.94, explain: "\"Lasted\" means continued for a long time. \"Pretty much\" means almost or nearly. Barbara says this best time for polling continued for many years.", zh: "芭芭拉说，这个黄金时代持续了数十年，基本上是这样。（lasted for decades 持续了数十年）"}
+  - {text: "People had landlines, and they were actually excited to pick up their phones.", start: 844.94, end: 849.52, zh: "那时候人们家里都有座机，而且他们其实很乐意接电话。（landlines 座机；pick up 接起）"}
+  - {text: "Soon pollsters could even dial with a computer, robo -dialing.", start: 850.08, end: 853.72, explain: "\"Dial\" means to press numbers to call someone. \"Robo-dialing\" means using a machine to make calls automatically. The note is split by a space in the word \"robo -dialing\". Soon, pollsters could use computers to call people automatically.", zh: "很快，民调机构甚至能用电脑自动拨号了，也就是自动拨号。（pollsters 民调机构；robo-dialing 自动拨号）"}
+  - {text: "And even though there were complications over the years, like the rise of caller ID and cell phones, pollsters were able to get pretty close to that holy grail, that fully random representative sample.", start: 854.16, end: 865.90, explain: "\"Complications\" means problems or difficult things. \"Holy grail\" is a famous story object, but here it means the perfect thing everyone wants. \"Representative\" means the group of people asked is like the whole country. Despite problems like cell phones, pollsters got very close to the perfect group of people to ask.", zh: "尽管多年来出现了一些复杂情况，比如来电显示和手机的普及，但民调机构还是能非常接近那个“圣杯”，也就是完全随机且具有代表性的样本。（caller ID 来电显示；holy grail 圣杯，指极难达成的完美目标；representative sample 代表性样本）"}
+  - {text: "Was there a time in the golden age of polling that, like, you just, like, nailed it?", start: 866.28, end: 870.22, explain: "\"Nailed it\" means did something perfectly. The speaker asks if there was a time when the polling was exactly right.", zh: "在民调的黄金时代，有没有哪一次你们简直是一针见血，完全猜对了？（nailed it 做对了，猜中了）"}
+  - {text: "Oh, absolutely. Absolutely. Absolutely.", start: 870.54, end: 872.48, zh: "哦，绝对有。绝对有。绝对有。（absolutely 绝对，完全）"}
+  - {text: "In fact, I think 2014.", start: 872.80, end: 874.22, zh: "事实上，我觉得是2014年。（In fact 事实上）"}
+  - {text: "Get your popcorn, hydration needs, because this is going to be a long - Barbara and her team were at NBC that night, and she remembers the excitement, the delicious snacks,", start: 875.42, end: 887.27, explain: "\"Hydration\" means drinking water. \"Roll in\" means to arrive or come in one after another. The sentence is cut off and continues in the next one. It says to get snacks and water because the story is long, and mentions Barbara was at NBC that night.", zh: "准备好爆米花和补水吧，因为这段要讲很久了——那天晚上芭芭拉和她的团队在NBC，她记得当时的兴奋劲儿，还有那些美味的零食，（popcorn 爆米花；hydration 补水；NBC 美国全国广播公司）"}
+  - {text: "but mostly watching the election results roll in and how they totally matched her Marist polls.", start: 887.69, end: 893.31, explain: "\"Matched\" means were the same as. \"Marist\" is the name of the polling group. The sentence says the real election results were the same as the numbers her team predicted.", zh: "但主要是看着选举结果陆续出来，发现它们和她做的马里斯特民调完全吻合。（roll in 陆续到来；Marist polls 马里斯特民调，一种知名的民意调查）"}
+  - {text: "It was just so cool that everything just worked out perfectly, like, practically to the decimal point.", start: 893.65, end: 899.89, explain: "\"Decimal point\" is the small dot in a number that separates the whole part from the smaller part. The speaker says the results were very accurate and matched the predictions exactly.", zh: "一切都完美契合，简直精确到小数点，这太酷了。（decimal point 小数点）"}
+  - {text: "But Barbara had a bad feeling.", start: 900.33, end: 902.43, zh: "但芭芭拉有一种不好的预感。（bad feeling 不祥的预感）"}
+  - {text: "My comment to my colleagues was, relish this moment, remember it forever, because it doesn't always happen this way.", start: 902.43, end: 911.83, explain: "\"Relish\" means to enjoy something very much. The speaker tells their team to enjoy this special moment because it is rare.", zh: "我对同事们说，好好享受这一刻，永远铭记它，因为事情并不总是这样发展的。（relish 尽情享受，品味）"}
+  - {text: "And polling is always going to change.", start: 912.35, end: 914.85, explain: "\"Polling\" is the act of asking people questions to see what they think. The speaker says that the results of these questions will always change over time.", zh: "而且民调结果总是会变化的。（polling 民意调查）"}
+  - {text: "So you actually might not see this again.", start: 915.11, end: 917.77, zh: "所以你实际上可能再也看不到这种情况了。"}
+  - {text: "Da -da -da. You jinxed it.", start: 918.45, end: 920.07, explain: "\"Jinxed\" means to cause bad luck by saying something that you hope will not happen. The speaker says the other person brought bad luck by talking about the good results.", zh: "哒哒哒。你把它说反了。（jinxed 说反了，弄巧成拙）"}
+  - {text: "I jinxed it. I totally jinxed it.", start: 920.39, end: 922.91, explain: "\"Jinxed\" means to cause bad luck by saying something that you hope will not happen. The speaker admits that they brought the bad luck themselves.", zh: "是我把它说反了。我完全把它弄巧成拙了。（jinxed 说反了，弄巧成拙）"}
+  - {text: "Polls leading up to the 2016 presidential election were wrong, wrong, wrong.", start: 924.14, end: 929.24, explain: "\"Presidential election\" is the vote to choose the leader of a country. The speaker says the predictions for the 2016 vote were very wrong.", zh: "2016年大选前的民调全错了，错得离谱。（presidential election 总统大选）"}
+  - {text: "250 this morning, Donald Trump did what so many said could never happen.", start: 929.48, end: 933.78, explain: "\"250\" is a number, likely a typo in the transcript for a time or a count. \"Donald Trump\" is a famous American politician. The sentence says he did something that many people thought was impossible.", zh: "今天早上，唐纳德·特朗普做到了许多人认为绝不可能发生的事。（pollsters 民调机构）"}
+  - {text: "Many people this morning are wondering how could pollsters have gotten this so wrong.", start: 933.94, end: 938.02, explain: "\"Pollsters\" are people who ask questions to find out what people think. The speaker says many people are asking how these people made such a big mistake.", zh: "今天早上很多人都在纳闷，民调怎么会错得这么离谱。（pollsters 民调机构）"}
+  - {text: "Yeah, 2016 was the third major blunder for pollsters.", start: 938.62, end: 944.16, explain: "A \"blunder\" is a big mistake. \"Pollsters\" are people who ask questions to find out what people think. The speaker says 2016 was the third big mistake for these people.", zh: "没错，2016年是民调第三次出现重大失误。（blunder 重大失误）"}
+  - {text: "A lot of them and the people who make forecasts based on polls said Hillary Clinton was going to be the president.", start: 944.68, end: 950.76, explain: "\"Forecasts\" are predictions about the future. \"Based on\" means using something as the main reason. Many people who predict the future using polls said Hillary Clinton would be the president.", zh: "很多民调机构以及基于民调数据做预测的人都认为希拉里·克林顿会当选总统。（forecasts 预测）"}
+  - {text: "That did not happen.", start: 951.44, end: 952.38, zh: "但事实并非如此。"}
+  - {text: "The polls missed. And a lot of the polls missed again in 2018.", start: 952.90, end: 957.48, explain: "\"Missed\" here means they were wrong. The polls were wrong in 2016, and many were wrong again in 2018.", zh: "民调失准了，而且2018年很多民调又再次失准。（missed 失准，未预测中）"}
+  - {text: "And again in 2020.", start: 958.12, end: 959.98, zh: "2020年也一样。"}
+  - {text: "The golden age of polling, it's over.", start: 959.98, end: 963.36, explain: "A \"golden age\" is a time when something is very good or successful. The speaker says the best time for polling is finished.", zh: "民调的黄金时代，已经结束了。（golden age 黄金时代）"}
+  - {text: "And mostly that's because it's gotten so much harder to get that random representative sample.", start: 963.74, end: 969.88, explain: "A \"representative sample\" is a small group of people that shows what the whole country thinks. \"Gotten\" is the past form of \"get\". It is much harder now to find a group of people that shows what the whole country thinks.", zh: "主要原因在于，如今要获取具有随机代表性的样本变得极其困难。（random representative sample 随机代表性样本）"}
+  - {text: "These days, people just don't pick up the phone anymore.", start: 970.30, end: 972.90, explain: "\"Pick up\" means to answer a phone call. These days, people do not answer phone calls anymore.", zh: "现在，人们根本不再接电话了。（pick up the phone 接电话）"}
+  - {text: "The response rate for telephone polls, that's plummeted to like less than one in 20.", start: 973.40, end: 978.48, explain: "A \"response rate\" is how many people answer the questions. \"Plummeted\" means it went down very fast. Very few people answer phone polls now, less than one in twenty.", zh: "电话调查的回应率已经暴跌，甚至不到二十分之一。（response rate 回应率；plummeted 暴跌）"}
+  - {text: "And what made it worse was in 2015, the FCC took away a really important tool.", start: 979.00, end: 984.92, explain: "\"FCC\" is the Federal Communications Commission, a US group that makes rules for phones and TV. \"Took away\" means removed or stopped. The sentence says the FCC removed a useful tool in 2015, which made things harder.", zh: "让情况更糟的是，2015年联邦通信委员会没收了一项非常重要的工具。（FCC 联邦通信委员会）"}
+  - {text: "The FCC said, you pollsters, you can't robo -dial cell phones anymore.", start: 985.36, end: 989.12, explain: "\"Robo-dial\" means using a machine to call many numbers automatically. The FCC told pollsters they could not use machines to call mobile phones anymore.", zh: "FCC规定，你们这些民调机构，不能再使用自动拨号系统拨打手机了。（robo-dial 自动拨号）"}
+  - {text: "It's been seven years you still seem kind of pissed.", start: 989.12, end: 991.62, explain: "\"Pissed\" is an informal word for angry or upset. The speaker says it has been seven years, but the other person still seems angry.", zh: "都过去七年了，你看起来还是有点生气。（pissed 生气，恼火）"}
+  - {text: "Well, of course, because in order to connect with a cell phone, we have to hand -dial that cell phone.", start: 992.18, end: 999.12, explain: "\"Hand-dial\" means typing the phone number by hand, one number at a time. The speaker says they must type the number manually to call a mobile phone.", zh: "当然会生气，因为为了联系到手机用户，我们不得不手动拨打那些号码。（hand-dial 手动拨号）"}
+  - {text: "Literally hand -dial. Wait, are you literally like boop boop booping the phone?", start: 999.26, end: 1003.76, explain: "\"Boop boop boop\" is a sound that shows someone is pressing buttons quickly. The speaker asks if the other person is really pressing the buttons by hand.", zh: "真的是手动拨号吗？你是真的在像那样嘟嘟嘟地按电话吗？（boop boop 嘟嘟声，指按键声）"}
+  - {text: "We boop boop booped the phone for quite a while.", start: 1004.00, end: 1006.78, explain: "\"Boop boop booped\" means they pressed the phone buttons by hand. The speaker confirms they did this for a long time.", zh: "我们在那部电话上拨了好久的忙音。（boop boop booped 拨号时听到的忙音或嘟嘟声）"}
+  - {text: "Barbara says the FCC rule, it tripled their costs.", start: 1007.22, end: 1011.06, explain: "\"Tripled\" means made three times as much. Barbara says the FCC rule made their costs three times higher.", zh: "芭芭拉说，FCC 的这条规定让他们的成本翻了三倍。（FCC 美国联邦通信委员会；tripled 使……变为三倍）"}
+  - {text: "They need a lot more people to dial and a lot more stacks to feed them.", start: 1011.42, end: 1015.06, explain: "\"Stacks\" here likely means stacks of paper or lists of phone numbers. They need more people to type numbers and more lists to work from.", zh: "他们需要更多的人手来拨号，也需要更多的线路来支撑这些呼叫。（dial 拨号；stacks 此处指电话线路或呼叫通道）"}
+  - {text: "What's really concerning is that it's become especially hard to reach certain kinds of people, like rural voters and younger voters.", start: 1015.40, end: 1023.62, explain: "\"Rural\" means in the country, not in a city. \"Voters\" are people who vote in an election. The speaker says it is very hard to contact people in the country and young people for surveys.", zh: "真正令人担忧的是，联系某些特定人群变得特别困难，比如农村选民和年轻选民。（rural 农村的；voters 选民）"}
+  - {text: "They're not participating in these surveys as much anymore.", start: 1024.10, end: 1026.92, explain: "\"Participating\" means taking part in or joining. The sentence says these people do not join these surveys as often as before.", zh: "他们现在参与这些调查的频率已经大不如前了。（participating in 参与）"}
+  - {text: "So all the samples that the pollsters are getting, they might not be that representative of America anymore.", start: 1027.36, end: 1033.48, explain: "\"Pollsters\" are people who do opinion polls. \"Representative\" means the group shows the true picture of the whole country. The speaker says the people answering might not show what all of America thinks.", zh: "因此，民调机构获取的所有样本，可能已经无法充分代表美国全貌了。（representative 有代表性的；pollsters 民调机构或民调员）"}
+  - {text: "Like, some analysts think that Trump supporters specifically are less likely to talk to pollsters.", start: 1034.22, end: 1039.20, explain: "\"Analysts\" are experts who study data. \"Likely\" means probable or possible. Some experts think people who support Trump do not want to talk to survey workers.", zh: "比如，一些分析人士认为，特朗普的支持者尤其不愿意接受民调采访。（analysts 分析人士；specifically 特别，尤其）"}
+  - {text: "And if that's true, that could explain why so many polls seem to favor Democrats recently.", start: 1039.50, end: 1044.60, explain: "\"Favor\" means to support or help. If Trump supporters do not answer, the results might look like they support Democrats more.", zh: "如果情况属实，这或许能解释为什么近期许多民调都显示民主党占优。（favor 支持，偏向；Democrats 民主党）"}
+  - {text: "There are a lot of other challenges for pollsters, of course.", start: 1044.60, end: 1049.14, explain: "\"Challenges\" are hard problems. The speaker says there are many other hard problems for people who do polls.", zh: "当然，民调机构还面临许多其他挑战。（pollsters 民调机构）"}
+  - {text: "But most of them come back to the same age -old problem, getting that perfect representative and random sample.", start: 1049.62, end: 1057.86, explain: "\"Age-old\" means very old, existing for a long time. \"Random\" means chosen by chance, not picked on purpose. Most problems are about getting a group of people that truly shows the whole country.", zh: "但其中大多数都归结为那个老生常谈的问题，即如何获得一个完美且具有代表性的随机样本。（age-old 老生常谈的；representative 有代表性的）"}
+  - {text: "And this has got a lot of pollsters wondering, is this the death of the telephone pole?", start: 1058.30, end: 1064.18, explain: "\"Telephone pole\" is a funny way to say a phone survey. The speaker asks if phone surveys are ending or becoming useless.", zh: "这让许多民调机构都在思考，电话民调是不是要完蛋了？（telephone poll 电话民调）"}
+  - {text: "After the break, just how bad has polling gotten?", start: 1065.00, end: 1068.56, explain: "\"Polling\" means asking people questions to see what they think. The host asks how wrong the answers have become recently.", zh: "稍后回来，我们将看看民调到底变得有多糟糕。（polling 民调）"}
+  - {text: "We try boop boop boopin' to find out.", start: 1069.18, end: 1071.18, explain: "\"Boop boop boopin'\" is a sound effect that makes the show sound fun and light. The host says they will try to find the answer in a playful way.", zh: "我们要用“嘟嘟嘟”的声音来一探究竟。（boop boop boopin' 拟声词，指电话忙音或拨号声）"}
+  - {text: "Midlife brings a lot of changes.", start: 1078.16, end: 1079.94, zh: "人到中年会带来很多变化。（Midlife 中年时期）"}
+  - {text: "Your Turn with Alison Aubrey is a new podcast to help you navigate the twists and turns.", start: 1079.94, end: 1084.82, explain: "\"Navigate\" means to find your way through something hard. \"Twists and turns\" means difficult changes or problems. This is an ad for a new podcast.", zh: "《Your Turn with Alison Aubrey》是一档新播客，旨在帮助你应对生活中的起伏。（navigate 应对，驾驭；twists and turns 曲折，起伏）"}
+  - {text: "From health and relationships to creativity and purpose, we can help steer your next chapter.", start: 1085.30, end: 1090.48, explain: "\"Steer\" means to guide or control. \"Chapter\" here means a part of your life. This is part of the ad for the podcast.", zh: "从健康、关系到创造力、人生目标，我们可以助你开启人生的新篇章。（steer 引导，掌控；chapter 篇章，阶段）"}
+  - {text: "With Your Turn with Alison Aubrey, find it on the NPR app or wherever you get your podcasts.", start: 1091.00, end: 1095.72, zh: "想收听艾莉森·奥布里主持的《Your Turn》，可以在NPR应用或你平时获取播客的地方找到它。（Alison Aubrey 艾莉森·奥布里；NPR 美国国家公共广播电台）"}
+  - {text: "Support comes from NPR sponsor AARP.", start: 1096.42, end: 1099.06, explain: "\"Sponsor\" means a company that pays for the show. This is a short ad break.", zh: "本期节目由NPR赞助商AARP提供支持。（AARP 美国退休人员协会）"}
+  - {text: "This fall, there are a lot of movies and TV shows on tap for you to see.", start: 1099.74, end: 1104.42, zh: "今年秋天，有很多电影和电视剧等着你去看。（on tap 准备好的，可供选择的）"}
+  - {text: "And we're as excited for all of it to arrive as you are.", start: 1104.76, end: 1107.76, zh: "对于这一切的到来，我们和你一样感到兴奋。（as excited as 和……一样兴奋）"}
+  - {text: "On Pop Culture happy hour, we've got a guide to what's worth keeping on your radar.", start: 1107.76, end: 1112.18, explain: "\"Radar\" means your attention or what you are watching for. \"Happy hour\" is a time for fun and relaxation. This is an ad for a show about culture.", zh: "在《Pop Culture happy hour》节目中，我们提供了一份指南，告诉你哪些内容值得关注。（radar 雷达，此处指关注范围）"}
+  - {text: "Listen via the NPR app or wherever you get your podcasts.", start: 1112.46, end: 1115.68, zh: "请通过NPR应用或你获取播客的渠道收听。（NPR 美国国家公共广播电台）"}
+  - {text: "The Marist Survey Operations Center is a site to behold.", start: 1118.59, end: 1123.41, explain: "\"A site to behold\" is a phrase that means a place is very impressive or beautiful to look at. The speaker is talking about a survey center.", zh: "玛里斯特调查运营中心简直令人叹为观止。（Marist Survey Operations Center 玛里斯特调查运营中心；behold 观看，目睹）"}
+  - {text: "There are rows and rows of undergraduates with their air pods and their sweatpants.", start: 1123.73, end: 1128.15, explain: "\"Undergraduates\" are students who are not yet finished with their first degree. \"Rows\" means long lines. The speaker describes the students sitting in lines.", zh: "那里一排排坐满了戴着AirPods、穿着运动裤的本科生。（undergraduates 本科生；sweatpants 运动裤）"}
+  - {text: "And in the center, a prize wheel.", start: 1128.65, end: 1130.95, explain: "A \"prize wheel\" is a round board with different prizes on it that you spin to win a gift. This sentence describes the setup in the middle of the room.", zh: "中间放着一个大转盘。（prize wheel 大转盘，抽奖用的轮盘）"}
+  - {text: "You get to spin the wheel when you complete an interview.", start: 1131.49, end: 1133.73, zh: "完成采访后，你就可以转动这个转盘。（spin the wheel 转动转盘；interview 采访，访谈）"}
+  - {text: "Nick, are you ready?", start: 1134.70, end: 1135.36, zh: "尼克，你准备好了吗？"}
+  - {text: "I think we got to be ready.", start: 1136.21, end: 1138.01, explain: "\"Got to be ready\" means we must be prepared. The speaker says they need to be ready for the next part of the show.", zh: "我觉得我们得赶紧准备好了。（got to be 必须，得）"}
+  - {text: "Like, it's dial -in time.", start: 1138.01, end: 1139.53, explain: "\"Dial-in\" means calling a phone number to join a group call. The speaker says it is time to start calling people.", zh: "就像，现在是拨号连线的时间了。（dial-in time 拨号连线时间，指电话接入的时间）"}
+  - {text: "We got, like, 30 undergrads here.", start: 1139.69, end: 1142.13, explain: "\"Undergrads\" are students who are studying for their first university degree. The speaker says there are about 30 of these students here.", zh: "我们这儿大概有三十个本科生。（undergrads 本科生，大学低年级学生）"}
+  - {text: "They're already dialing. The goal of the evening is to get as many completed surveys as possible.", start: 1142.23, end: 1147.45, explain: "\"Dialing\" means pressing the numbers to make a phone call. \"Surveys\" are sets of questions asked to people to get information. The goal is to finish as many questionnaires as they can tonight.", zh: "他们已经在拨号了。今晚的目标是尽可能多地完成调查问卷。（dialing 拨号；surveys 调查问卷）"}
+  - {text: "And lately, this has been really hard, like existential crisis for the polling industry hard.", start: 1147.91, end: 1153.19, explain: "\"Existential crisis\" is a very serious problem that makes people question if their job or life has any meaning. The speaker says the polling business is having a very hard time.", zh: "最近，这对民调行业来说真的很难，简直是一场生存危机。（existential crisis 生存危机；polling industry 民调行业）"}
+  - {text: "People just don't want to pick up their phones or they screen their calls.", start: 1153.63, end: 1157.19, zh: "人们要么不想接电话，要么会屏蔽来电。（screen their calls 屏蔽来电）"}
+  - {text: "And even when they do pick up, they don't want to talk to pollsters.", start: 1157.61, end: 1160.17, explain: "\"Pollsters\" are people who ask questions to find out what people think. The speaker says that even when people answer the phone, they do not want to talk to these workers.", zh: "就算接了，他们也不想跟民调员说话。（pollsters 民调员）"}
+  - {text: "But we figure let's try a few and see how it goes.", start: 1160.53, end: 1163.35, zh: "但我们想着，不妨试几个看看情况如何。（figure 琢磨，认为）"}
+  - {text: "Let's see how many calls we have to make before we can get someone to complete our poll.", start: 1163.91, end: 1169.09, explain: "\"Complete\" means to finish a task from start to end. The speaker wants to see how many times they must call before one person finishes the survey.", zh: "看看我们要打多少个电话，才能有人愿意完成我们的民调。（complete our poll 完成我们的民调）"}
+  - {text: "Nick, look, you have a special name tag.", start: 1169.53, end: 1171.31, explain: "A \"name tag\" is a small piece of paper with your name on it, worn on the body. The speaker tells Nick that his tag is different from the others.", zh: "尼克，看，你有个特别的姓名标签。（name tag 姓名标签）"}
+  - {text: "It says Nick Fountain Training.", start: 1171.53, end: 1173.35, zh: "上面写着“尼克·方丹 培训”。（Fountain 方丹，姓氏）"}
+  - {text: "Exclamation point. Exclamation point.", start: 1173.55, end: 1175.01, zh: "感叹号。感叹号。（exclamation point 感叹号）"}
+  - {text: "You gotta smile while you die.", start: 1175.13, end: 1176.21, zh: "你死的时候也得保持微笑。（gotta 必须，得；smile while you die 死也要微笑，此处为幽默说法）"}
+  - {text: "Alright, good luck out there.", start: 1177.56, end: 1178.58, zh: "好了，祝你们好运。"}
+  - {text: "Okay, you got this.", start: 1178.80, end: 1179.58, explain: "\"You got this\" is a common phrase used to tell someone they can do a difficult task well. It means you are ready and able to succeed.", zh: "没事的，你能搞定。"}
+  - {text: "Nick and I are dialing North Carolina tonight.", start: 1179.86, end: 1182.04, explain: "\"Dialing\" means calling a phone number. The speakers are calling people in North Carolina, a state in the US, to do their work.", zh: "今晚尼科和我要给北卡罗来纳州打电话。（dialing 拨打；North Carolina 北卡罗来纳州）"}
+  - {text: "There's a contentious Senate race going on.", start: 1182.42, end: 1184.16, explain: "A \"contentious\" race is a competition where people disagree strongly. A \"Senate\" race is an election for a member of the US Senate. This election is very hard and people are arguing about it.", zh: "那里正在进行一场充满争议的参议院选举。（contentious 有争议的；Senate race 参议院竞选）"}
+  - {text: "The Marist folks set us up with our own cupicles, with these cute little headsets hooked up to phones.", start: 1184.48, end: 1189.08, explain: "The word \"cupicles\" is a mistake in the recording; the speaker meant \"cubicles\", which are small private work spaces. \"Marist\" is the name of the organization. \"Headsets\" are devices with a microphone and earphones.", zh: "马里斯特的人给我们安排了单独的隔间，里面配有可爱的耳机，连接着电话。（Marist 马里斯特，民调机构；cupicles 小隔间，此处指电话亭或独立空间）"}
+  - {text: "On the screens in front of us, there's a script.", start: 1189.70, end: 1191.66, explain: "A \"script\" is a written text that tells you exactly what to say. The speakers have this text on their computer screens.", zh: "我们面前的屏幕上有一份采访脚本。（script 脚本，此处指采访提纲）"}
+  - {text: "Jeff calls a few numbers.", start: 1192.24, end: 1193.46, zh: "杰夫拨了几个号码。"}
+  - {text: "And one of them connects.", start: 1193.82, end: 1194.80, zh: "其中一个接通了。（connects 接通）"}
+  - {text: "Hi, my name is Jeff Guo.", start: 1195.32, end: 1197.08, explain: "This is a short sentence where the speaker introduces himself by name.", zh: "你好，我叫杰夫·郭。（Jeff Guo 杰夫·郭，人名）"}
+  - {text: "I'm calling for Marist College.", start: 1197.24, end: 1198.52, explain: "\"Marist College\" is the name of a university. The speaker says he is calling on behalf of this university.", zh: "我是代表马里斯特学院打来的。（Marist College 马里斯特学院，美国一所私立大学）"}
+  - {text: "Immediately, he starts using the tricks that Daniela taught us earlier.", start: 1198.94, end: 1202.50, explain: "\"Immediately\" means right away, with no waiting. \"Tricks\" here means special methods or skills. The sentence says that he starts using the methods that Daniela showed the listeners before.", zh: "他立刻开始使用丹妮拉之前教给我们的那些技巧。（tricks 技巧，窍门）"}
+  - {text: "So we could try a few questions and see how it goes.", start: 1203.12, end: 1205.46, zh: "我们可以试着问几个问题，看看效果如何。（see how it goes 看看情况如何，看看进展怎样）"}
+  - {text: "Those magic phrases, they really work.", start: 1205.98, end: 1208.14, zh: "那些神奇的短语真的管用。（magic phrases 神奇短语，指特定的话术）"}
+  - {text: "Pretty soon, Jeff has finished his first interview.", start: 1208.42, end: 1211.50, zh: "没过多久，杰夫就完成了他的第一次采访。（Pretty soon 很快，不久）"}
+  - {text: "That was so stressful.", start: 1212.90, end: 1215.38, explain: "\"Stressful\" means causing a lot of worry or pressure. The speaker says that the situation made them feel very worried and tired.", zh: "这太让人紧张了。（stressful 令人紧张的，有压力的）"}
+  - {text: "Wait, really? Wait, I get to spin the wheel?", start: 1217.72, end: 1220.24, zh: "等等，真的吗？等等，我可以转那个转盘吗？（spin the wheel 转轮，通常指抽奖或决定权重的游戏环节）"}
+  - {text: "They take me to the middle of the room and they let me spin the prize wheel.", start: 1220.48, end: 1224.28, zh: "他们把我带到房间中央，让我去转那个幸运转盘。（prize wheel 幸运转盘）"}
+  - {text: "Pick a prize. I could pick any of these.", start: 1230.92, end: 1234.34, zh: "选个奖品吧，这些我随便挑哪个都行。"}
+  - {text: "I pick the M &Ms.", start: 1235.04, end: 1235.92, zh: "我选了M&M巧克力豆。（M&Ms 一种彩色巧克力豆品牌）"}
+  - {text: "Must be nice. Must be nice.", start: 1236.52, end: 1240.18, zh: "真不错啊，真不错。"}
+  - {text: "Because while Jeff is enjoying his M &Ms basking in his glory, I'm striking out.", start: 1240.70, end: 1246.02, explain: "\"Basking in his glory\" means feeling very happy and proud about a success. \"Striking out\" is a baseball term that means failing to succeed or getting nothing. The speaker says that while Jeff is happy about his win, the speaker is failing.", zh: "因为杰夫正享受着他的M&M巧克力豆，沉浸在荣耀中，而我却一无所获。（basking in his glory 沉浸在荣耀中；striking out 一无所获，失败）"}
+  - {text: "Talking to people in your community and collecting opinions about issues facing residents.", start: 1246.26, end: 1249.50, explain: "\"Community\" means the group of people who live in the same area. \"Residents\" are the people who live in a place. This sentence is a fragment that describes a job: talking to local people and asking them what they think about problems in their area.", zh: "与社区里的人交谈，收集居民对当前问题的看法。（issues 问题，议题）"}
+  - {text: "Oh, I got hung up on.", start: 1250.06, end: 1252.10, explain: "\"Hung up\" means the phone call ended because the other person stopped talking or closed the line. The speaker says they were talking when the call suddenly ended.", zh: "哦，我卡住了。（hung up on 卡住，纠结于）"}
+  - {text: "I did not smile.", start: 1253.38, end: 1254.42, zh: "我刚才没笑。"}
+  - {text: "I did not smile.", start: 1254.70, end: 1255.46, zh: "我没有笑。"}
+  - {text: "For each call, Nick has to document why he failed at getting a completed survey.", start: 1257.02, end: 1261.74, explain: "\"Document\" means to write down the facts or reasons for something. \"Completed survey\" means a finished questionnaire where all the questions are answered. The sentence says Nick must write down the reason why he did not finish the survey for each phone call.", zh: "对于每一通电话，尼克都必须记录他为什么没能完成这次调查。（document 记录；completed survey 完成的调查）"}
+  - {text: "In this case, call or hung up.", start: 1262.10, end: 1263.80, explain: "This is a short fragment. It seems to be part of a longer sentence about a phone call. \"Hung up\" means to end a phone call by putting the receiver down.", zh: "在这种情况下，是对方没接电话，还是挂断了。"}
+  - {text: "That's one of nearly 20 reasons you can put down.", start: 1264.24, end: 1266.20, zh: "这是你可以填写的近二十种理由之一。（put down 填写，记录）"}
+  - {text: "There's also the soft refusal.", start: 1266.64, end: 1268.02, zh: "还有“软性拒绝”。（soft refusal 软性拒绝，指委婉地拒绝）"}
+  - {text: "He was nice about it, though.", start: 1268.60, end: 1270.10, explain: "\"Though\" means however, or but. This sentence says that the person was kind about the situation, even if it was not good.", zh: "不过，他态度还算客气。"}
+  - {text: "The hard refusal. He said opinions are like buttholes.", start: 1270.34, end: 1273.52, explain: "\"Refusal\" means saying no. \"Buttholes\" is a rude word for the back part of the body. The speaker makes a joke that people are like this body part: everyone has one, but they are not very useful for talking.", zh: "还有“硬性拒绝”。他说观点就像屁股眼一样。（hard refusal 硬性拒绝；opinions 观点；buttholes 屁股眼，此处为粗俗比喻）"}
+  - {text: "Everyone's got them. They're answering machines.", start: 1273.76, end: 1275.94, explain: "\"Answering machines\" are machines that record a message when no one picks up the phone. The speaker says that when they call, they only hear these machines, not real people.", zh: "每个人都有，而且它们都是答录机。（answering machines 答录机，指自动语音留言系统）"}
+  - {text: "Oh, thank you. Is this a real person?", start: 1276.46, end: 1277.98, zh: "哦，谢谢。这是真人吗？"}
+  - {text: "That was a voicemail.", start: 1279.99, end: 1281.41, explain: "\"Voicemail\" is a message left on a phone when no one answers. The speaker confirms that the sound they just heard was a machine, not a person.", zh: "那是语音信箱。（voicemail 语音信箱）"}
+  - {text: "So many answering machines.", start: 1282.29, end: 1284.21, explain: "\"So many\" means a very large number. The speaker is complaining that they are calling many numbers, but only finding machines.", zh: "这么多自动应答机。（answering machines 自动应答机）"}
+  - {text: "And fax machines. This is a fax machine.", start: 1284.83, end: 1287.33, explain: "\"Fax machines\" are old machines that send paper documents by phone. The speaker is surprised to find one of these old machines.", zh: "还有传真机。这是一台传真机。（fax machines 传真机）"}
+  - {text: "Sorry, it's blowing out my ear.", start: 1287.45, end: 1288.99, explain: "\"Blowing out my ear\" means the sound is very loud and hurts the speaker's ear. The speaker is apologizing because the machine is too noisy.", zh: "抱歉，它吹得我耳朵疼。（blowing out my ear 吹得耳朵疼，形容声音大或风大）"}
+  - {text: "Remember, we are randomly dialing North Carolina numbers.", start: 1288.99, end: 1292.07, explain: "\"Randomly\" means without a plan, picking numbers by chance. The speaker explains that they are calling phone numbers in North Carolina without a specific list.", zh: "记住，我们正在随机拨打北卡罗来纳州的号码。（randomly dialing 随机拨打；North Carolina 北卡罗来纳州）"}
+  - {text: "Have you ever seen someone strike out 70 times in a row?", start: 1292.49, end: 1295.01, explain: "\"Strike out\" means to fail completely, like in a game. The speaker asks if you have ever seen someone fail 70 times in a row.", zh: "你见过有人连续70次没接通的吗？（strike out 没接通，落空）"}
+  - {text: "Things are not going well.", start: 1295.35, end: 1297.15, zh: "事情进展得很不顺利。"}
+  - {text: "I get so frustrated, I start rubbing my eyes.", start: 1297.31, end: 1299.99, explain: "\"Frustrated\" means very annoyed or upset because you cannot do something. The speaker says they get so annoyed that they rub their eyes.", zh: "我烦得直揉眼睛。（frustrated 沮丧，恼火）"}
+  - {text: "I'm sorry, I just lost a contact.", start: 1300.67, end: 1303.07, zh: "抱歉，我隐形眼镜掉了。（contact 隐形眼镜）"}
+  - {text: "Starting at about call 150, I start to think, yes, polling is truly doomed.", start: 1303.75, end: 1310.35, explain: "\"Call\" here means one phone interview. \"Doomed\" means certain to fail or end badly. The speaker says that after about 150 interviews, they think polling will definitely fail.", zh: "大概打到第150个电话时，我开始觉得，是的，民调真的没救了。（doomed 注定失败的，没救的）"}
+  - {text: "Phone polling is supposed to be the gold standard of polling.", start: 1311.05, end: 1314.03, explain: "\"Gold standard\" means the best example or the most trusted method. The speaker says phone polling is supposed to be the best way to ask people questions.", zh: "电话民调本该是民调的金标准。（gold standard 金标准，最高标准）"}
+  - {text: "It gave us the golden age.", start: 1314.19, end: 1315.73, explain: "\"Golden age\" means a time in the past when things were very good. The speaker says phone polling gave us a very good time for surveys.", zh: "它曾带来民调的黄金时代。（golden age 黄金时代）"}
+  - {text: "But it is impossible to get people to complete these surveys.", start: 1315.73, end: 1319.37, explain: "\"Complete\" means to finish something. The speaker says it is very hard to get people to finish these questionnaires.", zh: "但现在几乎没人愿意做完这些调查。（complete 完成）"}
+  - {text: "And the people at Marist are trying to figure out how to do polls in this era when most people don't pick up the phones and don't want to answer surveys.", start: 1319.77, end: 1326.87, explain: "\"Pick up\" means to answer a phone call. \"Era\" means a long period of time. The people at Marist are trying to find a way to do surveys now, when most people do not answer phones.", zh: "马里斯特学院的人正在想办法，看在这个大多数人接不起电话、也不愿回答调查的时代，怎么做民调。（Marist 马里斯特，指马里斯特学院）"}
+  - {text: "Barbara says pollsters have come up with a couple ways to try to fix the problem.", start: 1327.51, end: 1331.01, explain: "\"Pollsters\" are people who do surveys. \"Come up with\" means to think of a new idea. Barbara says survey workers have found a few ways to try to fix the problem.", zh: "芭芭拉说，民调机构已经想出几种办法来尝试解决这个问题。（pollsters 民调机构，民意调查员）"}
+  - {text: "The first solution is maybe just abandoning the phone poll altogether.", start: 1331.45, end: 1336.99, explain: "\"Abandoning\" means stopping or giving up. \"Phone poll\" is a survey where people call others to ask questions. The speaker says one way to fix the problem is to stop using phone calls completely.", zh: "第一个解决方案可能是干脆彻底放弃电话调查。（abandoning 放弃；phone poll 电话调查）"}
+  - {text: "A lot of pollsters these days are starting to text people.", start: 1337.65, end: 1340.73, explain: "\"Pollsters\" are people who do surveys. \"Text\" means to send a written message on a phone. Many survey workers now use text messages instead of calls.", zh: "如今很多民调机构开始改用短信联系受访者。（pollsters 民调机构；text 发短信）"}
+  - {text: "It's still a random survey.", start: 1341.27, end: 1342.43, explain: "\"Random\" means chosen by chance, not on purpose. \"Survey\" is a set of questions asked to people. This method still picks people by chance.", zh: "这仍然是一种随机调查。（random survey 随机调查）"}
+  - {text: "It just doesn't rely on people answering the phone.", start: 1342.59, end: 1344.65, explain: "\"Rely on\" means to need or depend on. This method does not need people to pick up the phone.", zh: "只是不再依赖人们接听电话。（rely on 依赖）"}
+  - {text: "The second solution is to try to adjust the data that you have to make it more representative.", start: 1344.65, end: 1349.41, explain: "\"Adjust\" means to change or fix. \"Representative\" means the group shows what the whole country is like. The second idea is to change the numbers to make them show the real population better.", zh: "第二个解决方案是尝试调整现有数据，使其更具代表性。（adjust 调整；representative 有代表性的）"}
+  - {text: "For instance, if you can't get enough white rural voters in your sample, you could take the handful of white rural voters you did talk to", start: 1350.07, end: 1357.61, explain: "\"Rural\" means in the countryside, not in a city. \"Sample\" is the small group of people you ask. If you do not have enough people from the countryside in your group, you can use the few you did find.", zh: "例如，如果你的样本中白人农村选民不够多，你可以把你实际采访到的那少数几位白人农村选民……（sample 样本；white rural voters 白人农村选民）"}
+  - {text: "and multiply them by like two or three or four.", start: 1357.61, end: 1361.63, zh: "……并将他们的数据乘以二、三或四。（multiply 乘）"}
+  - {text: "So you give their answers more weight.", start: 1361.97, end: 1363.99, zh: "也就是说，你赋予他们的回答更大的权重。（weight 权重）"}
+  - {text: "This solution is called waiting.", start: 1364.43, end: 1366.11, explain: "This is a short, simple sentence. It says the next idea is to wait for more time.", zh: "这个解决方案就是等待。（solution 解决方案）"}
+  - {text: "It's how pollsters try to fix a bad sample by using math.", start: 1366.53, end: 1369.61, explain: "\"Math\" means mathematics, using numbers. \"Sample\" is the group of people in the survey. Survey workers use numbers to fix a bad group of people.", zh: "这是民调机构试图通过数学手段来修正糟糕样本的方法。（pollsters 民调机构；sample 样本）"}
+  - {text: "And pollsters are getting more and more sophisticated about waiting.", start: 1370.07, end: 1373.25, explain: "\"Pollsters\" are people who ask questions to find out what many people think. \"Sophisticated\" means very clever or advanced. The sentence says that these people are becoming better at deciding when to wait for answers.", zh: "民调机构在“等待”这一策略上变得越来越精妙了。（sophisticated 精妙的，复杂的）"}
+  - {text: "A lot wait by race and education.", start: 1373.25, end: 1376.25, zh: "很多机构会按种族和教育程度来调整。（race 种族；education 教育程度）"}
+  - {text: "At Marist after 2016, they've become a lot more careful to wait by geography.", start: 1376.75, end: 1381.51, zh: "在2016年之后，Marist 在按地理位置调整方面变得更加谨慎。（Marist 马里斯特学院，美国民调机构；geography 地理位置）"}
+  - {text: "And they're also trying to wait by what people call psychographic factors.", start: 1382.07, end: 1385.99, explain: "\"Psychographic\" describes a person's personality, interests, and values, not just their age or job. The sentence says they are also using these personality details to decide when to wait.", zh: "他们还在尝试根据人们所说的心理特征因素进行调整。（psychographic factors 心理特征因素）"}
+  - {text: "Jeff, who has actually gotten someone to pick up the phone, he got to ask these psychographic questions.", start: 1386.71, end: 1392.03, explain: "\"Pick up the phone\" means to answer a phone call. The sentence says Jeff managed to get a person to answer the phone, so he could ask them these personality questions.", zh: "Jeff 实际上成功让某人接了电话，因此他得以询问这些心理特征问题。（psychographic 心理特征的）"}
+  - {text: "And they're pretty weird.", start: 1392.61, end: 1393.45, explain: "\"Weird\" means strange or unusual. The speaker says the questions are very strange.", zh: "这些问题相当奇怪。（weird 奇怪的）"}
+  - {text: "And have you smoked at least 100 cigarettes in your entire life?", start: 1394.19, end: 1398.33, explain: "\"Smoked\" means to inhale smoke from a cigarette. The question asks if the person has ever smoked 100 cigarettes in their whole life.", zh: "你一生中是否至少抽过100支香烟？（cigarettes 香烟）"}
+  - {text: "The idea behind this question is that it might help you understand someone better than their race or age or gender.", start: 1398.67, end: 1404.85, explain: "\"Race\" is the group a person belongs to based on their family history. The idea is that this smoking question might show more about a person than their race, age, or gender.", zh: "这个问题的初衷是，它可能比种族、年龄或性别更能帮助你了解一个人。（race 种族；gender 性别）"}
+  - {text: "And pollsters are hoping that this extra information will help them make their samples more representative.", start: 1405.53, end: 1411.55, explain: "\"Representative\" means that the small group chosen for the survey looks like the whole population. The pollsters hope this extra info makes their chosen group more like everyone else.", zh: "民调机构希望这些额外信息能帮助他们让样本更具代表性。（pollsters 民调机构；representative 有代表性的）"}
+  - {text: "And there's a third solution, one that I personally think is brilliant.", start: 1412.19, end: 1416.01, explain: "\"Brilliant\" means very good or smart. The speaker says there is a third way to fix the problem, and they think it is very good.", zh: "还有第三种解决方案，我个人认为这非常精彩。"}
+  - {text: "It involves this really interesting idea that economists love called the wisdom of crowds.", start: 1416.61, end: 1422.37, explain: "\"Economists\" are people who study money and business. \"Wisdom of crowds\" is an idea that says a group of people can make a good guess together. The speaker says this idea is very interesting to people who study money.", zh: "这涉及经济学家非常喜爱的一个有趣概念，叫做“群体智慧”。（economists 经济学家；wisdom of crowds 群体智慧）"}
+  - {text: "Some researchers have been testing these ideas and they told us if you want to predict an election, do not ask people who they are going to vote for.", start: 1422.93, end: 1430.21, explain: "\"Researchers\" are people who do careful studies to find out new things. \"Predict\" means to say what will happen in the future. Some people who study this have tested these ideas. They say if you want to know who will win an election, do not ask people who they will vote for.", zh: "一些研究人员一直在测试这些想法，他们告诉我们，如果你想预测选举结果，不要问人们打算投给谁。（predict 预测）"}
+  - {text: "Instead, there are these two other questions that will get you way closer to the truth.", start: 1430.21, end: 1435.43, explain: "\"Truth\" here means the real answer or the correct result. There are two other questions that will help you find the real answer much better.", zh: "相反，有两个其他问题能让你更接近真相。（Instead 相反；closer 更接近）"}
+  - {text: "The first question is, who do you think will win?", start: 1435.81, end: 1438.51, explain: "This sentence is a direct question. It asks who a person thinks will win the election.", zh: "第一个问题是，你认为谁会赢？"}
+  - {text: "And this is supposed to be better because you're asking people to make a prediction themselves based on everything they've heard and seen in the last few months.", start: 1438.97, end: 1446.41, explain: "\"Supposed to be\" means people think it is true or correct. \"Prediction\" is a guess about the future. This method is thought to be better because you ask people to guess the result using all the news they have seen recently.", zh: "这被认为更好，因为你是让受访者基于过去几个月听到和看到的所有信息，自己做出预测。（prediction 预测）"}
+  - {text: "The other question which the researchers really love is think of all the people in your life, your friends, your family, your coworkers.", start: 1446.77, end: 1453.59, explain: "\"Coworkers\" are people you work with at your job. The researchers like this question. It asks you to think about all the people in your life, like friends, family, and people you work with.", zh: "研究人员特别喜欢的另一个问题是：想想你生活中的所有人，你的朋友、家人和同事。（researchers 研究人员；coworkers 同事）"}
+  - {text: "Who are they going to vote for?", start: 1454.45, end: 1456.17, zh: "他们会投给谁？"}
+  - {text: "And the beauty of that question is you're basically asking people to share information from their social networks.", start: 1456.57, end: 1461.83, explain: "\"Beauty\" here means the good or useful part of something. \"Social networks\" are the groups of people you know and talk to. The good thing about this question is that it asks people to share news from the people they know.", zh: "这个问题的妙处在于，你基本上是在让人们分享他们社交网络中的信息。（social networks 社交网络）"}
+  - {text: "So talking to one person is like talking to a dozen.", start: 1462.57, end: 1465.27, explain: "\"Dozen\" means twelve. Talking to one person is like talking to twelve people because that one person knows many others.", zh: "所以，和一个人交谈就像和十几个人交谈一样。"}
+  - {text: "Right now, Barbara and the folks at Marist, they aren't using these wisdom of the crowds techniques.", start: 1465.85, end: 1471.03, explain: "\"Folks\" means people. \"Wisdom of the crowds\" is an idea that many people together can make a good guess. The sentence says Barbara and her team are not using this method right now.", zh: "目前，芭芭拉和Marist团队并没有使用这些“群体智慧”技术。（wisdom of the crowds 群体智慧；Marist 马里斯特学院）"}
+  - {text: "So Barbara, we have a question for you.", start: 1471.69, end: 1474.15, zh: "所以，芭芭拉，我们有个问题想问你。"}
+  - {text: "Would you be willing to let us test one of these methods in one of your polls?", start: 1474.37, end: 1481.47, explain: "\"Willing\" means happy to do something. The speaker asks if the other person agrees to try a new method in their survey.", zh: "你愿意让我们在你的某次民调中测试其中一种方法吗？（polls 民调）"}
+  - {text: "Oh, sure. Really? Well, if they're appropriate, objective questions, that would be great.", start: 1482.17, end: 1489.67, zh: "哦，当然可以。真的吗？嗯，如果这些问题是恰当的且客观的，那就太好了。（appropriate 恰当的；objective 客观的）"}
+  - {text: "So here's the exciting news.", start: 1490.15, end: 1491.19, zh: "那么，这里有个令人兴奋的消息。（exciting 令人兴奋的）"}
+  - {text: "We worked with Barbara to draft two questions, one where we asked people to predict the election and another asking them who the folks in their social circles are voting for.", start: 1491.57, end: 1500.41, explain: "\"Draft\" means to write a first version. \"Social circles\" means the groups of friends you know. They wrote two questions: one about the election result, and one about who their friends are voting for.", zh: "我们和芭芭拉合作起草了两个问题，一个是请人们预测选举结果，另一个是询问他们社交圈里的人打算投给谁。（draft 起草；social circles 社交圈）"}
+  - {text: "She said she would slip them into a poll Marist is doing before the midterms, run some analyses, and let us know how useful they might be for the future of polling.", start: 1500.93, end: 1509.99, explain: "\"Slip\" means to put something in quietly. \"Midterms\" are elections held halfway through a term. She agreed to add the questions to a survey before the midterms and check the results.", zh: "她说她会把这两个问题塞进 Marist 在中期选举前进行的一项民调中，做一些分析，然后告诉我们这些对未来的民调工作可能有多大用处。（slip into 塞进，插入；midterms 中期选举）"}
+  - {text: "Back in the dialing room, it's like 8 p .m.", start: 1511.86, end: 1514.40, explain: "\"Dialing room\" is the place where people call voters. \"8 p.m.\" is 8 in the evening. It is now 8 pm in the room where they are making calls.", zh: "回到拨号室，现在大概是晚上8点。（dialing room 拨号室）"}
+  - {text: "I'm not even sad when they hang up anymore.", start: 1514.66, end: 1516.72, explain: "\"Hang up\" means to end a phone call. The speaker is not sad when people stop answering the phone anymore.", zh: "现在他们挂电话时，我甚至都不感到难过了。（hang up 挂断电话）"}
+  - {text: "I'm numb. We've been dialing for three hours, and poor Nick is still striking out.", start: 1517.48, end: 1523.12, explain: "\"Numb\" means you do not feel any emotion. \"Striking out\" means failing to get a result. They have been calling for three hours, and Nick is still not getting any answers.", zh: "我已经麻木了。我们拨号已经三个小时了，可怜的尼克还是没打通一个。（numb 麻木的；striking out 失败，没成功）"}
+  - {text: "Yeah, at this point, I'd pretty much given up.", start: 1523.40, end: 1525.48, explain: "\"Given up\" means stopped trying. The speaker had almost stopped hoping for a good result at that time.", zh: "是啊，到这个时候，我基本上已经放弃了。（given up 放弃）"}
+  - {text: "I'd called 236 numbers, and hadn't gotten a single completed survey.", start: 1525.66, end: 1532.22, explain: "\"Completed\" means finished from start to end. The speaker says they called 236 people but did not finish one full survey.", zh: "我打了236个电话，却没能完成哪怕一份问卷。（completed survey 完成的调查问卷）"}
+  - {text: "The rejections on top of rejections, they started to get rather amusing in a dark -humored sort of way.", start: 1532.98, end: 1538.44, explain: "\"Rejections\" means people saying no. \"Amusing\" means funny or interesting. \"Dark-humored\" means making jokes about sad or bad things. The speaker says the many 'no's became funny in a strange way.", zh: "拒绝接二连三，起初还挺让人忍俊不禁，带着点黑色幽默的味道。（rejections 拒绝；dark-humored 黑色幽默的）"}
+  - {text: "Here's another thing that's really cool about this.", start: 1538.68, end: 1540.44, zh: "这里还有另一件特别酷的事情。"}
+  - {text: "You get a lot of funny stories.", start: 1540.54, end: 1541.56, zh: "你会听到很多有趣的故事。"}
+  - {text: "Yeah, what's a funny story?", start: 1542.16, end: 1543.22, zh: "是啊，有什么有趣的故事？"}
+  - {text: "And then, just as one of the students is telling me a hilarious story, Hi there, my name's Nick Fouts, and I'm calling from Marist College.", start: 1543.46, end: 1550.60, explain: "\"Hilarious\" means very funny. \"Marist College\" is the name of a school. A student was telling a funny story when a man named Nick called from the college.", zh: "然后，正当一个学生给我讲一个爆笑故事时，你好，我叫尼克·福茨，我从马里斯特学院打来的。（Nick Fouts 尼克·福茨，人名；Marist College 马里斯特学院，美国一所私立大学）"}
+  - {text: "We're talking to people in your community and collecting opinions about issues facing residents.", start: 1551.10, end: 1554.40, explain: "\"Community\" means the group of people living in the same area. \"Issues\" means problems or topics to talk about. Nick says he is talking to local people to get their opinions on local problems.", zh: "我们正在与你们社区的人交谈，收集居民对当地问题的看法。（collecting opinions 收集意见；residents 居民）"}
+  - {text: "Are you 18 years of age or older?", start: 1554.88, end: 1556.12, zh: "你年满18岁了吗？"}
+  - {text: "Just take a few minutes.", start: 1557.00, end: 1557.84, zh: "只需要花几分钟时间。"}
+  - {text: "Oh, terrific. Nick has hooked someone, and as he gets further and further along in the survey, the room starts to get a little quiet.", start: 1558.22, end: 1566.50, explain: "\"Hooked\" means interested or caught their attention. \"Further along\" means moving to the next part. Nick got a person interested, and as he went deeper into the survey, the room got quiet.", zh: "哦，太棒了。尼克成功拉住了一个人，随着调查进行得越来越深入，房间里的声音开始变得有点安静。（hooked 成功吸引住；survey 问卷调查）"}
+  - {text: "A crowd starts to hover around his cubicle.", start: 1566.80, end: 1569.30, explain: "\"Hover\" means to stand or move slowly near something. \"Cubicle\" is a small office space with walls. A group of people started to stand near Nick's small office space.", zh: "一群人开始围在他的隔间周围。（hover 徘徊，逗留；cubicle 隔间，工位）"}
+  - {text: "We're all waiting to see if he will finally finish a survey.", start: 1569.74, end: 1573.22, explain: "This sentence is easy. Everyone is waiting to see if Nick will finish one survey.", zh: "我们都在等着看他最终能不能做完一份调查。"}
+  - {text: "That's totally fine. Thank you.", start: 1573.38, end: 1574.70, zh: "完全没问题，谢谢你。"}
+  - {text: "Have a wonderful night.", start: 1574.86, end: 1575.88, zh: "祝你晚上愉快。"}
+  - {text: "I really appreciate your time.", start: 1575.88, end: 1576.92, zh: "非常感谢你抽出时间。"}
+  - {text: "Take care. Yes. Run that wheel!", start: 1577.44, end: 1585.76, zh: "保重。是的。转动那个轮子！（wheel 轮子，此处指抽奖或游戏用的转盘）"}
+  - {text: "You did it. I did it.", start: 1589.42, end: 1591.54, zh: "你做到了。我也做到了。"}
+  - {text: "I think I figured out why we cracked it.", start: 1592.96, end: 1595.60, zh: "我想我弄明白我们为什么成功了。（cracked it 成功解决，搞定）"}
+  - {text: "You were telling me a funny story, and so I was already smiling when I was dialing.", start: 1595.86, end: 1600.68, explain: "\"Dialing\" means pressing the buttons to make a phone call. The person was smiling because they were thinking of a funny story while making the call.", zh: "你当时在给我讲一个有趣的故事，所以我拨号的时候已经在微笑了。（dialing 拨号）"}
+  - {text: "See? That's the secret.", start: 1601.08, end: 1602.52, zh: "看到了吗？这就是秘诀。"}
+  - {text: "Smile while you dial.", start: 1602.98, end: 1603.98, explain: "\"Dial\" means to press the numbers on a phone to call someone. This is a common phrase meaning to be happy or friendly when you call people.", zh: "没错，拨号时要保持微笑。"}
+  - {text: "That's it. So, this story was reported in October of 2022.", start: 1604.16, end: 1609.80, explain: "\"Reported\" means told or written about in the news. The speaker says this story was first told in October 2022.", zh: "就是这样。所以，这个故事是在2022年10月报道的。"}
+  - {text: "A couple months later, after midterms, we followed up with Barbara to see how her team did.", start: 1610.28, end: 1614.60, zh: "几个月后，中期选举结束后，我们回访了芭芭拉，看看她的团队表现如何。（midterms 中期选举；followed up 跟进，回访）"}
+  - {text: "And it turns out that 2022 was an amazing year for Marist.", start: 1615.02, end: 1619.44, explain: "\"Marist\" is the name of a group that makes surveys. \"Amazing\" means very good or surprising. The speaker says 2022 was a very good year for this group.", zh: "结果发现，2022年对马里斯特来说是非常出色的一年。（Marist 马里斯特，民调机构）"}
+  - {text: "Their poll estimated that overall, Republican candidates in the House would get 3 percentage points more votes than Democrats across the country.", start: 1619.70, end: 1626.08, explain: "\"Poll\" is a survey that asks people who they will vote for. \"Percentage points\" is a way to show the difference between two numbers. The survey said Republicans would get 3 points more votes than Democrats.", zh: "他们的民调估计，在全国范围内，众议院共和党候选人的得票率将比民主党高出3个百分点。（percentage points 百分点；House 众议院）"}
+  - {text: "And when the final election results came out, House Republicans were up 2 .8 percentage points.", start: 1626.44, end: 1632.36, explain: "\"Up\" means higher or winning more. The final results showed Republicans were 2.8 points higher than Democrats.", zh: "而当最终选举结果出炉时，众议院共和党确实领先了2.8个百分点。（up 领先，高出）"}
+  - {text: "They nailed it. Our questions, though...", start: 1632.72, end: 1635.96, explain: "\"Nailed it\" means they did it perfectly or got it exactly right. The speaker says their prediction was very close to the truth, but then asks a question.", zh: "他们预测得非常准。不过，我们的问题……（nailed it 预测得极准，做得完美）"}
+  - {text: "Not so much. Factoring in our wisdom of crowds questions, the results would have moved to, like, a plus 8 Republican.", start: 1636.78, end: 1643.82, explain: "\"Factoring in\" means including something in the calculation. \"Wisdom of crowds\" is an idea that many people together can make a better guess. If they included this idea, the result would have been 8 points for Republicans.", zh: "并不完全如此。如果把我们那些“群体智慧”式的问题考虑在内，结果可能会变成共和党领先8个百分点左右。（wisdom of crowds 群体智慧；factoring in 把……考虑在内）"}
+  - {text: "But Barbara said that is what science is all about.", start: 1644.32, end: 1647.04, explain: "\"Science\" here means using facts and tests to find the truth. The sentence says Barbara believes that testing and learning is the main goal of science.", zh: "但芭芭拉说，这正是科学的精髓所在。（science 科学，此处指科学方法）"}
+  - {text: "It's about testing ideas, learning from the results.", start: 1647.22, end: 1649.90, explain: "\"Testing ideas\" means trying out new thoughts to see if they work. \"Results\" are the things you find out after the test. The sentence explains that science is about trying things and seeing what happens.", zh: "科学就是关于检验想法，并从结果中吸取教训。（testing ideas 检验想法/假设）"}
+  - {text: "And we actually called her back just a couple weeks ago, as she was ramping up for these 2026 midterms.", start: 1650.42, end: 1655.30, explain: "\"Ramping up\" means getting ready and working harder. \"Midterms\" are elections that happen halfway through a leader's time in office. The sentence says they spoke to Barbara again recently because she was preparing for the 2026 elections.", zh: "实际上，就在几周前，当我们正在为2026年中期选举做准备时，我们还再次联系了她。（midterms 中期选举；ramping up 加紧准备，逐步推进）"}
+  - {text: "And Barbara told us they are, in fact, still asking these wisdom of the crowds type questions.", start: 1655.54, end: 1660.98, explain: "\"Wisdom of the crowds\" is a method where many people's opinions are combined to make a prediction. The sentence says Barbara confirmed they are still using this method to ask people questions.", zh: "芭芭拉告诉我们，他们确实仍在提出这类“群体智慧”式的问题。（in fact 事实上，确实）"}
+  - {text: "I think it's really interesting because in some of the states where traditionally Republicans have won, we're showing a slight lean to the Democratic candidates statewide.", start: 1661.42, end: 1673.58, explain: "\"Traditionally\" means in the past, for a long time. \"Lean\" means a small advantage or support for one side. The sentence says that in states where Republicans usually win, the data now shows a small advantage for Democrats.", zh: "我觉得这非常有意思，因为在一些传统上由共和党获胜的州，我们的数据显示全州范围内民主党候选人略微占优。（lean 倾向，偏向；statewide 全州范围内）"}
+  - {text: "But yet when we ask the wisdom of the crowd question, which is who do you think is going to end up taking office, people overwhelmingly believe the Republican will.", start: 1674.10, end: 1683.04, explain: "\"Overwhelmingly\" means by a very large amount, almost everyone. The sentence says that when asked who will win, most people think the Republican will take the job.", zh: "然而，当我们问那个“大众智慧”的问题，即你认为谁最终会当选时，人们压倒性地相信会是共和党人。（wisdom of the crowd 大众智慧；overwhelmingly 压倒性地）"}
+  - {text: "So for some reason, the wisdom of the crowds questions are still polling the polling predictions toward Republicans in these sorts of competitive races.", start: 1683.58, end: 1691.36, explain: "\"Polling\" here means measuring what people think. \"Competitive races\" are elections where both sides have a good chance of winning. The sentence says the crowd questions are making the predictions favor Republicans in close elections.", zh: "因此，出于某种原因，在这些势均力敌的选战中，大众智慧类的问题仍然将民调预测拉向共和党。（competitive races 势均力敌的选战；polling predictions 民调预测）"}
+  - {text: "Whether or not that means Republicans are being underrepresented in the polls, we will find out in a couple weeks.", start: 1691.96, end: 1696.92, explain: "\"Underrepresented\" means not shown enough in the results. The sentence says we will know in a few weeks if the polls are not showing enough support for Republicans.", zh: "至于这是否意味着共和党人在民调中被低估了，几周后我们就会知道。（underrepresented 被低估，代表性不足）"}
+  - {text: "But Barbara says these questions, they're about more than just the final result.", start: 1696.92, end: 1701.62, zh: "但芭芭拉说，这些问题不仅仅关乎最终结果。（final result 最终结果）"}
+  - {text: "We're not going to just be looking at it for whether, you know, it could determine who won or lost.", start: 1701.98, end: 1707.34, explain: "\"Determine\" means to decide or find out the result. The speaker says they will not only look at if the data shows who won or lost the election.", zh: "我们不会仅仅关注它能否决定谁赢谁输。（determine 决定）"}
+  - {text: "We're going to also look to see, did it determine whether somebody voted or not?", start: 1707.60, end: 1712.76, zh: "我们还将观察它是否影响了某人是否去投票。（voted 投票）"}
+  - {text: "Barbara says figuring out how likely it is that someone will vote is a big question in politics and in polling.", start: 1713.06, end: 1720.06, explain: "\"Figuring out\" means working out or solving a problem. \"Polling\" is the act of asking people questions to see what they think. Barbara says it is a hard question to know how likely it is that a person will vote.", zh: "芭芭拉说，弄清楚某人投票的可能性有多大，是政治和民调中的一个重要问题。（likely 可能的；polling 民调）"}
+  - {text: "Most of the time, you just can't ask people straight up, are you going to vote?", start: 1720.46, end: 1723.90, zh: "大多数时候，你没法直接问人家：你会去投票吗？（straight up 直接地，坦率地）"}
+  - {text: "Because there's social pressure.", start: 1723.90, end: 1725.60, zh: "因为存在社会压力。（social pressure 社会压力）"}
+  - {text: "People feel like they have to say, of course I'm going to vote.", start: 1725.84, end: 1728.64, zh: "人们觉得必须说，我当然会去投票。"}
+  - {text: "So instead, Barbara says they try to ask other types of questions.", start: 1729.08, end: 1732.30, zh: "所以芭芭拉说，他们尝试问其他类型的问题。"}
+  - {text: "Like, does someone have a plan to vote?", start: 1732.76, end: 1735.40, zh: "比如，你有没有投票计划？"}
+  - {text: "Or how do you feel about the election in general?", start: 1735.62, end: 1737.88, zh: "或者，你对这次选举总体感觉如何？"}
+  - {text: "And now, she and her team are investigating how these wisdom of the crowd type questions might help predict turnout.", start: 1738.40, end: 1744.14, explain: "\"Wisdom of the crowd\" is an idea that many people together know more than one person alone. \"Turnout\" means the number of people who actually vote. She and her team are checking if asking many people can help guess how many will vote.", zh: "现在，她和她的团队正在研究这些“群体智慧”类型的问题如何帮助预测投票率。（wisdom of the crowd 群体智慧；turnout 投票率，投票人数）"}
+  - {text: "For instance, if people think that their favorite candidate is going to win, does that make them more likely to go out and vote?", start: 1744.56, end: 1750.34, explain: "\"Likely\" means probable or possible. The sentence asks if people are more probable to go vote if they think their favorite person will win.", zh: "例如，如果人们认为他们最喜欢的候选人会赢，这会不会让他们更有可能出门去投票？"}
+  - {text: "In other words, is there a bandwagon effect?", start: 1750.70, end: 1752.66, explain: "A \"bandwagon effect\" is when people do something because many others are doing it. Here, it means people vote because they think their side will win.", zh: "换句话说，是否存在从众效应？（bandwagon effect 从众效应，指人们倾向于支持领先者）"}
+  - {text: "Or is it the opposite?", start: 1752.66, end: 1754.38, explain: "\"Opposite\" means the other way around. The speaker asks if the effect is the reverse of the bandwagon effect.", zh: "还是说情况恰恰相反？"}
+  - {text: "Is there an underdog effect where people are more likely to turn out if they think their favorite candidate is behind?", start: 1754.86, end: 1760.52, explain: "An \"underdog\" is a person or team that is not expected to win. \"Behind\" means losing or having less support. The sentence asks if people vote more when they think their favorite is losing.", zh: "是否存在弱势效应，即当人们认为自己喜欢的候选人落后时，更有可能去投票？（underdog effect 弱势效应，指支持落后者的倾向）"}
+  - {text: "The factors that affect turnout and the polling questions that best predict turnout, those all tend to change over time.", start: 1761.40, end: 1767.72, explain: "\"Factors\" are things that cause or change a result. \"Predict\" means to say what will happen in the future. The things that change how many people vote, and the best questions to ask, all change over time.", zh: "影响投票率的因素，以及最能预测投票率的民调问题，这些通常都会随时间变化。（turnout 投票率；predict 预测）"}
+  - {text: "The questions that seem to really resonate this time around is your opinion of President Trump and whether, in fact, you identify with a particular party", start: 1768.16, end: 1780.40, explain: "\"Resonate\" means to have a strong effect or to be very important. \"Identify with\" means to feel a strong connection to or support for something. The speaker says the most important questions this time are about how people feel about President Trump and which political party they support.", zh: "这次看来真正引起共鸣的问题，是你如何看待特朗普总统，以及你是否确实认同某个特定政党。（resonate 引起共鸣；identify with 认同）"}
+  - {text: "and how strongly you identify with that party.", start: 1780.40, end: 1783.42, zh: "以及你对该政党的认同程度有多深。"}
+  - {text: "And those two questions pretty much give us a sense of who is likely to participate.", start: 1783.92, end: 1791.16, explain: "\"Participate\" means to take part in an activity, here meaning to vote in the election. These two questions help us understand which people are likely to go and vote.", zh: "这两个问题基本上能让我们了解谁更有可能参与投票。（participate 参与，此处指投票）"}
+  - {text: "This time of year, there's a big focus, obviously, on the big question, who is going to win the election.", start: 1791.64, end: 1797.12, explain: "\"Focus\" means attention or interest. At this time of year, everyone is paying a lot of attention to the main question: who will win the election.", zh: "在这个时节，大家显然非常关注那个大问题：谁会赢得选举。"}
+  - {text: "But Barbara says polls for her are about much, much more than that.", start: 1797.54, end: 1801.58, explain: "\"Polls\" are surveys that ask people questions to see what they think. Barbara says that for her, these surveys are about much more than just who will win.", zh: "但芭芭拉说，对她而言，民调的意义远不止于此。（polls 民调）"}
+  - {text: "I think the role that public opinion polls play, at least in the past, has been we kind of let everybody in on the secret because the campaigns are polling.", start: 1801.82, end: 1813.20, explain: "\"Campaigns\" are the teams working to help a person win an election. \"Let everybody in on the secret\" means to share private information with the public. Barbara thinks public surveys share information that the election teams keep private.", zh: "我认为，至少在过去的很长一段时间里，民意调查的作用在于让公众也能知晓内幕，因为竞选团队本身也在做民调。（public opinion polls 民意调查；campaigns 竞选团队）"}
+  - {text: "They're probably not going to release a poll that says that everybody hates their candidate and they're doing terribly.", start: 1813.76, end: 1822.34, explain: "\"Release\" means to make information public. \"Terribly\" means very badly. The election teams will not show a survey that says people hate their candidate and that they are doing very badly.", zh: "他们可能不会发布那种显示所有人都讨厌他们的候选人、且支持率惨不忍睹的民调。（release 发布；terribly 糟糕地）"}
+  - {text: "But we, as the public, we want to know that information.", start: 1822.78, end: 1825.46, zh: "但作为公众，我们想知道这些信息。（public 公众）"}
+  - {text: "And public polls give us that information.", start: 1825.94, end: 1828.26, explain: "\"Public polls\" are surveys that are open to everyone and show the results to the public. These surveys give us the information that the election teams might hide.", zh: "而公开民调正是为我们提供了这些信息。（public polls 公开民调）"}
+  - {text: "They can prevent spin.", start: 1828.64, end: 1829.90, zh: "它们可以防止政治操弄。（spin 政治操弄，指通过歪曲事实来引导舆论）"}
+  - {text: "They can influence policy.", start: 1830.18, end: 1831.52, zh: "它们可以影响政策制定。（policy 政策）"}
+  - {text: "They can give us a sense of who our fellow Americans even are.", start: 1831.80, end: 1835.66, zh: "它们还能让我们了解同胞们究竟是什么样的人。（fellow Americans 美国同胞）"}
+  - {text: "And for Barbara, this is the most exciting time of the year where the pollsters finally get to check their work.", start: 1835.66, end: 1843.86, explain: "\"Pollsters\" are people who make and run surveys. \"Check their work\" means to see if their predictions were correct. For Barbara, this is the best time of year because the survey makers can finally see if they were right.", zh: "对于芭芭拉来说，这是一年中最令人兴奋的时刻，因为民调机构终于可以检验他们的工作成果了。（pollsters 民调机构；check their work 检验工作成果）"}
+  - {text: "Hey, a quick plug before we go.", start: 1847.90, end: 1849.86, zh: "嘿，在结束之前，快速插播一条信息。（plug 插播，简短的广告或推荐）"}
+  - {text: "We are doing another Ask an Economist virtual event for our NPR Plus supporters.", start: 1850.14, end: 1854.94, explain: "A \"virtual event\" is a meeting that happens online, not in a real room. \"NPR Plus\" is a paid service for people who want extra content from the radio station. The speaker says they are holding an online meeting for people who pay for the service.", zh: "我们要为NPR Plus的订阅用户举办另一场“向经济学家提问”的线上活动。（Ask an Economist 向经济学家提问；NPR Plus NPR的付费订阅服务）"}
+  - {text: "This one is on AI and the job market.", start: 1855.38, end: 1857.78, explain: "\"AI\" is short for artificial intelligence, which means smart computer programs. \"Job market\" means the place where people look for work and companies look for workers. This meeting is about how smart computers affect work.", zh: "这一期的主题是人工智能和就业市场。（AI 人工智能；job market 就业市场）"}
+  - {text: "Could AI wipe out white -collar jobs?", start: 1858.28, end: 1860.44, explain: "To \"wipe out\" means to destroy or make something disappear completely. \"White-collar jobs\" are office jobs, like for managers or accountants, not physical work. The question asks if smart computers will make these office jobs disappear.", zh: "人工智能会消灭白领工作吗？（white-collar jobs 白领工作，通常指办公室文职工作）"}
+  - {text: "Or could it transform and grow the workforce?", start: 1860.74, end: 1863.30, explain: "To \"transform\" means to change something a lot. \"Workforce\" means all the people who work in a country or company. This part asks if smart computers will change and increase the number of workers.", zh: "还是说它会改造并扩大劳动力队伍？（workforce 劳动力，劳动力队伍）"}
+  - {text: "The indicators, Adrian Ma, will discuss all of that with Darren Asamoglu, a Nobel Prize -winning MIT professor and Eric Mnolfsen, the director of the Stanford Digital Economy Lab.", start: 1863.86, end: 1873.16, explain: "The text has some spelling errors from the automatic recording. \"Adrian Ma\" is likely a guest. \"Nobel Prize\" is a very famous award for science. \"MIT\" and \"Stanford\" are famous universities. The sentence lists the people who will talk about the topic.", zh: "主持人阿德里安·马将与诺贝尔奖得主、麻省理工学院教授达伦·阿萨莫格鲁，以及斯坦福数字经济实验室主任埃里克·莫尔菲斯讨论所有这些话题。（indicators 指标，此处可能为转录错误，结合语境指代相关数据或迹象；Nobel Prize 诺贝尔奖；MIT 麻省理工学院）"}
+  - {text: "During this live Q &A, you're going to have the chance to put your questions directly to our guests.", start: 1873.60, end: 1877.72, zh: "在这场直播问答环节中，你将有机会直接向我们的嘉宾提问。（live Q&A 直播问答；guests 嘉宾）"}
+  - {text: "It's on Wednesday, October 28th at 3 p .m.", start: 1878.18, end: 1880.90, explain: "\"3 p.m.\" means 3 in the afternoon. The sentence gives the day and time for the meeting.", zh: "时间是10月28日星期三下午三点。（p.m. 下午）"}
+  - {text: "eastern, noon Pacific over Zoom.", start: 1880.92, end: 1882.74, explain: "\"Eastern\" and \"Pacific\" are time zones in the USA. \"Zoom\" is an app for video calls. This sentence says the time in the East is 3 pm, and the time in the West is noon.", zh: "也就是太平洋时间中午十二点，通过Zoom进行。（eastern 东部时间；Pacific 太平洋时间；Zoom 视频会议软件）"}
+  - {text: "Again, this is a supporter -only event, so make sure you're signed up for NPR Plus.", start: 1883.06, end: 1887.62, explain: "\"Supporter-only\" means only people who pay can join. \"Signed up\" means you have made an account or paid for the service. The speaker tells you to pay for the service if you want to join.", zh: "再次提醒，这是仅限支持者参加的活动，请确保您已订阅NPR Plus。（supporter-only 仅限支持者；NPR Plus NPR的付费订阅服务）"}
+  - {text: "For registration and event details, just go to npr .org slash Ask an Economist.", start: 1888.06, end: 1892.48, explain: "\"Registration\" means signing up to join an event. The speaker tells you to visit a website to get more information about the event.", zh: "如需注册和了解活动详情，请访问npr.org斜杠Ask an Economist。（registration 注册；slash 斜杠符号）"}
+  - {text: "That's all one word.", start: 1892.76, end: 1893.32, zh: "注意，这整个是一连串字符。（one word 一个词，此处指整个网址路径）"}
+  - {text: "Again, npr .org slash Ask an Economist.", start: 1893.32, end: 1896.80, explain: "The speaker repeats the website address so you do not forget it.", zh: "再说一遍，npr.org斜杠Ask an Economist。（slash 斜杠符号）"}
+  - {text: "This update was produced by Emma Peasley with help from Sam Yellowhorse Kessler.", start: 1897.34, end: 1901.20, explain: "\"Produced\" means made or created. \"Emma Peasley\" and \"Sam Yellowhorse Kessler\" are the names of the people who made this update.", zh: "本期更新由Emma Peasley制作，Sam Yellowhorse Kessler协助。（produced 制作；with help from 在……的协助下）"}
+  - {text: "It was mastered by Gilly Moon with help from Sina LaFredo.", start: 1901.58, end: 1904.34, explain: "\"Mastered\" means the final step in making the audio sound clear and good. \"Gilly Moon\" and \"Sina LaFredo\" are the people who did this work.", zh: "由Gilly Moon负责母带处理，Sina LaFredo协助。（mastered 母带处理，指音频后期制作；Sina LaFredo 人名）"}
+  - {text: "The original episode was edited by Jess Jang.", start: 1904.62, end: 1906.58, explain: "\"Edited\" means the person checked and fixed the recording. \"Jess Jang\" is the name of the editor.", zh: "原集节目由杰斯·张剪辑。（edited 剪辑；Jess Jang 杰斯·张）"}
+  - {text: "Alex Goldmark is our executive producer.", start: 1906.98, end: 1909.18, explain: "An \"executive producer\" is the main person in charge of making the show. \"Alex Goldmark\" is that person.", zh: "亚历克斯·戈德马克是我们的执行制片人。（executive producer 执行制片人；Alex Goldmark 亚历克斯·戈德马克）"}
+  - {text: "Special thanks to the whole team at Marist, including Stephanie Calvano, Mary Griffith, Lee Miringoff, Rachel Sanford, and our student coach H .E .D.", start: 1909.90, end: 1920.62, zh: "特别感谢马里斯特学院的整个团队，包括斯蒂芬妮·卡尔瓦诺、玛丽·格里菲斯、李·米林戈夫、瑞秋·桑福德，以及我们的学生教练H.E.D.。（Marist 马里斯特学院；student coach 学生教练）"}
+  - {text: "Also, thanks to the researchers who helped us with our Wisdom of Crowds questions, Henrik Olsen and Dresden Prelik, and to our colleague Domenico Montanara.", start: 1920.62, end: 1929.40, explain: "\"Wisdom of Crowds\" is the name of a game or section in the show. The speaker thanks the people who helped with this part.", zh: "还要感谢帮助我们解答“群体智慧”问题的研究人员亨里克·奥尔森和德雷森·普雷利克，以及我们的同事多梅尼科·蒙塔纳拉。（Wisdom of Crowds 群体智慧；Henrik Olsen 亨里克·奥尔森）"}
+  - {text: "I'm Jeff Guo. And I'm Nick Fountain.", start: 1929.84, end: 1931.46, zh: "我是杰夫·郭，我是尼克·福滕。（Jeff Guo 杰夫·郭；Nick Fountain 尼克·福滕）"}
+  - {text: "This is NPR. Thank you for listening.", start: 1931.80, end: 1934.26, explain: "This is a standard closing line for the radio station. It says goodbye to the listeners.", zh: "这里是NPR，感谢收听。（NPR 美国国家公共广播电台）"}
+  - {text: "Happy fall! Yes, the days are getting shorter and colder, and the rain can be a drag.", start: 1936.74, end: 1942.20, zh: "秋天快乐！没错，白天越来越短，天气越来越冷，下雨天确实挺烦人的。（a drag 麻烦事，令人厌烦的事）"}
+  - {text: "But this is also the perfect time of year to get cozy.", start: 1942.64, end: 1945.92, explain: "\"Cozy\" means warm, comfortable, and safe. The speaker says it is a good time to feel relaxed and warm.", zh: "但这也是一年中最适合窝在家里享受温馨时光的时候。（cozy 舒适温馨的）"}
+  - {text: "LifeKid has lots of ideas so you can embrace the change of seasons with episodes on everything from making soup to exercising outdoors.", start: 1946.60, end: 1953.58, explain: "\"Embrace\" means to accept or enjoy something happily. \"Change of seasons\" means the weather is moving from one season to the next. The sentence says LifeKid has many ideas to help you enjoy the new weather.", zh: "LifeKid 有很多创意，你可以收听从做汤到户外锻炼等各种节目，来拥抱季节的变化。（embrace 拥抱，欣然接受；change of seasons 季节更替）"}
+  - {text: "Listen to the LifeKid podcast in the NPR app or wherever you get your podcasts.", start: 1954.18, end: 1958.02, zh: "请在 NPR 应用或你平时收听播客的地方，收听 LifeKid 播客。（wherever 无论在哪里；get your podcasts 获取/收听播客）"}
+  - {text: "Hi there. I'm Brittany Loose, and not to brag, but I host a really fabulous podcast.", start: 1959.01, end: 1964.19, explain: "\"Brag\" means to talk about yourself in a way that shows you are proud. \"Fabulous\" means very good or wonderful. The speaker introduces herself and says her podcast is very good, joking that she is proud of it.", zh: "大家好，我是 Brittany Loose，虽然有点自夸，但我主持的播客真的非常棒。（not to brag 不吹牛/不夸耀；fabulous 极好的，精彩的）"}
+  - {text: "It's called It's Been a Minute.", start: 1964.91, end: 1966.03, explain: "This sentence gives the name of the podcast. It is called \"It's Been a Minute\".", zh: "它的名字叫《It's Been a Minute》。（It's Been a Minute 节目名称，意为“好久没聊了”）"}
+  - {text: "I love making it, and I think you'll love listening to it.", start: 1966.35, end: 1969.43, explain: "The speaker says she enjoys creating the show and believes the listener will also enjoy hearing it.", zh: "我热爱制作它，我相信你也会喜欢听。（making it 制作它；listening to it 听它）"}
+  - {text: "Over the last year, hundreds of thousands of listeners have been tuning in, and I gotta say, if you haven't yet, you're missing out.", start: 1969.95, end: 1976.59, explain: "\"Tuning in\" means listening to a radio or podcast. \"Missing out\" means not getting something good that others are getting. The speaker says many people listen to her show, and if you do not listen, you are not getting the good parts.", zh: "过去一年，数十万听众一直在收听，我必须说，如果你还没听，那你真的错过了。（tuning in 收听，调谐；missing out 错过，遗憾）"}
+  - {text: "Listen to the It's Been a Minute podcast from NPR today.", start: 1977.05, end: 1979.75, zh: "今天就收听来自 NPR 的《It's Been a Minute》播客吧。（from NPR 来自 NPR；today 今天）"}
 ---
