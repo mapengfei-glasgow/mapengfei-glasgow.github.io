@@ -425,3 +425,55 @@ papers:
         status: todo
         priority: medium
         owner: PM
+
+  - id: delta-free-mac-ib
+    title: 'A MAC-compatible divergence-free reconstruction for delta-free immersed boundary methods'
+    short: 'Delta-free MAC IB'
+    journal: JCP
+    stage: idea
+    color: "#225091"
+    tasks:
+      - name: 'Prior-art search: “divergence-free reconstruction immersed boundary” (Balsara-type already used in IB?)'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Biggest risk: being read as “lowest-order DCIB”. Differentiate via C3 (theory for explicit projection) and C4 (plug-in + cost frontier).'
+      - name: 'Read DCIB (Casquero et al. 2020) and the capsule paper; list their theorems and data'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'Also cite Russell–Wheeler 1983 (MAC ≡ RT$_0$ + quadrature).'
+      - name: '2D: implement BDM$_1$-type $\mathcal{J}$ and $\mathcal{S}=\mathcal{J}^{T}$; pass V1–V3 to machine precision'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'V1 pointwise $\nabla\cdot(\mathcal{J}u)$; V2 rigid rotation (force, torque); V3 power identity $\langle\mathcal{S}F,u\rangle_h=\langle F,\mathcal{J}u\rangle_q$.'
+      - name: 'V4 translation invariance + V6 elastic ring; compare Q$_1$ / RT$_0$ / Peskin 4-point'
+        status: todo
+        priority: high
+        owner: PM
+      - name: 'Proofs T1–T4: linear/angular momentum, energy, volume'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'T1–T3 also serve the AFSI conservation reply. Q$_1$ lacks volume, RT$_0$ lacks angular momentum.'
+      - name: 'Read Balsara 2004; extend to 3D ($2\times3\times3$ stencil) and check T2 still holds'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Open question: do the compensation terms break the linear reconstruction?'
+      - name: 'T5 discrete energy estimate + V8 energy curve'
+        status: todo
+        priority: medium
+        owner: PM
+        note: '$E^{n+1}-E^n+\Delta t\,\mu\|\nabla u\|^2\le0$ for $\Delta t\le\Delta t_{\mathrm{el}}$; optional SAV for unconditional stability.'
+      - name: 'V7 3D spherical capsule vs DCIB'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Target DCIB volume error $4.2\times10^{-3}\to1.4\times10^{-8}$; check $\mathcal{O}(\Delta t^2)$ position-update error does not swamp it.'
+      - name: 'Fix gla_mv instability at N = 64, then valve application and performance section'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Aortic/mitral valves; leak split $Q_{\mathrm{leak}}=Q_{\mathrm{wall}}+Q_{\mathrm{leaflet}}$; GPU cost: 18 vs 64 faces per point (Peskin).'
