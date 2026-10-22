@@ -44,27 +44,38 @@ papers:
         status: working
         priority: high
         owner: PM
+        due: 2026-10-30
       - name: "Rigorous convergence study"
         status: todo
         priority: critical
         owner: PM
+        due: 2026-10-30
         note: "Reviewer: “Convergence, conservation and more rigorous validations”."
       - name: "Comment on conservation"
         status: todo
         priority: high
         owner: PM
+        due: 2026-10-30
       - name: "Answer: classical IBFE coupling is not variationally consistent"
         status: todo
         priority: high
         owner: PM
+        due: 2026-10-30
       - name: "Answer: penalty-like dilatation stabilisation vs. 1st/2nd law"
         status: todo
         priority: high
         owner: PM
+        due: 2026-10-30
       - name: "Validation: complex geometry, larger deformation / strain rate"
         status: todo
         priority: medium
         owner: PM
+        due: 2026-10-30
+      - name: "Hand the draft to Hao Gao for editing"
+        status: todo
+        priority: critical
+        owner: PM
+        due: 2026-10-30
       - name: "Port IB2d cases (first: Rubberband)"
         status: working
         priority: low
