@@ -74,6 +74,14 @@
       c.classList.toggle("is-hidden", !hit);
       if (hit && active && active.contains(c)) visible++;
     });
+    root.querySelectorAll("tr.pb-phase").forEach(function (ph) {
+      var n = ph.nextElementSibling, any = false;
+      while (n && !n.classList.contains("pb-phase")) {
+        if (!n.classList.contains("is-hidden")) { any = true; break; }
+        n = n.nextElementSibling;
+      }
+      ph.classList.toggle("is-hidden", !any);
+    });
     root.querySelectorAll(".pb-group").forEach(function (g) {
       var any = g.querySelector(".pb-row:not(.is-hidden)");
       var titleHit = term && g.textContent.toLowerCase().indexOf(term) !== -1 && g.querySelector(".pb-gname").textContent.toLowerCase().indexOf(term) !== -1;

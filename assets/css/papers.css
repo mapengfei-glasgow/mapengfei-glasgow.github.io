@@ -105,6 +105,12 @@
 .pb-table thead th:first-child { border-top-left-radius: var(--pb-radius); }
 .pb-table thead th:last-child { border-top-right-radius: var(--pb-radius); }
 .pb-table tbody tr { background: var(--pb-row); }
+.pb-table tbody tr.pb-phase th {
+  text-align: left; height: 30px; padding: 0 12px; background: var(--pb-head);
+  font-size: 0.78rem; font-weight: 600; color: var(--secondary); letter-spacing: 0.02em;
+  border-left: 6px solid var(--g);
+}
+.pb-table tbody tr.pb-phase.is-hidden { display: none; }
 /* Task column stays put while the row scrolls sideways on narrow screens */
 .pb-table .c-task { position: sticky; left: 0; z-index: 1; background: inherit; }
 .pb-table thead .c-task { background: var(--pb-head); }

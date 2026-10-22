@@ -10,6 +10,7 @@
 #           note (optional, Markdown).
 #   status   ∈ todo | working | stuck | waiting | done
 #   priority ∈ critical | high | medium | low
+#   phase    (optional) consecutive tasks with the same phase get a sub-header
 
 updated: 2026-10-22
 
@@ -209,41 +210,129 @@ papers:
     stage: idea
     color: "#9cd326"
     tasks:
-      - name: "Read Lanyon et al. 2025 (ABME) in full: are ensemble weights driven by geometry features?"
+      - phase: '0 · Background'
+        name: 'Read Lanyon et al. 2025 (ABME) in full: are ensemble weights driven by geometry features?'
         status: todo
         priority: critical
         owner: PM
-        note: "Decides whether the zero-shot novelty holds. Lanyon needs new-patient simulations to fit $w_i$ and $\\delta$; ours uses $\\mathbf{z}_{\\mathcal{G}}$ instead."
-      - name: "Feasibility: same-topology meshes? Residual PCA energy spectrum and $\\|\\mathbf{r}\\|/\\|\\mathbf{u}\\|$"
-        status: todo
-        priority: high
-        owner: PM
-        note: "$\\mathbf{r} = \\mathbf{u}_{\\mathrm{FE}} - \\mathbf{u}_{\\mathrm{GNN}}$ over the full cycle; map to UVC if topologies differ."
-      - name: "Check $\\mathbf{z}$–residual correlation (Spearman of $\\|\\mathbf{r}_i-\\mathbf{r}_j\\|$ vs $\\|\\mathbf{z}_i-\\mathbf{z}_j\\|$)"
-        status: todo
-        priority: high
-        owner: PM
-        note: "Weak correlation → use SSM modes as $\\mathbf{z}$ or train the encoder jointly."
-      - name: "Go/no-go: zero-shot and $n_{\\mathrm{new}}=5$, no-$\\mathbf{z}$ vs GNN-embedding $\\mathbf{z}$"
-        status: todo
-        priority: high
-        owner: PM
-        note: "Model: $c_k \\sim \\mathcal{GP}\\big(0, k_\\theta k_z\\big)$ on shared residual PCA basis; Kronecker $\\mathbf{K}_z \\otimes \\mathbf{K}_\\theta$. Stop if no clear gain."
-      - name: "Full ablation and UQ"
+        note: 'Decides whether the zero-shot novelty holds.'
+      - phase: '0 · Background'
+        name: 'Talk to Husmeier and Dalton about overlap; consider contacting Lanyon / Wilkinson'
         status: todo
         priority: medium
         owner: PM
-        note: "Pure GNN, $\\boldsymbol\\theta$-only GP, SSM $\\mathbf{z}$, Lanyon-style, ours; $n_{\\mathrm{new}} \\in \\{0,5,10,20,50\\}$; 95% coverage over the cycle."
-      - name: "Downstream inverse problem: synthetic cine motion → $\\boldsymbol\\theta$"
-        status: todo
+      - phase: '1 · GNN'
+        name: 'Finish training the narrow model and sigma050 (joint, ±0.5σ)'
+        status: working
         priority: high
         owner: PM
-        note: "Show pure-GNN posterior bias and its correction, plus FE runs saved. Needed for CMAME; otherwise IJNMBE / BMMB."
-      - name: "Talk to Husmeier and Dalton about overlap; consider contacting Lanyon / Wilkinson"
+      - phase: '1 · GNN'
+        name: 'Time one full-cycle rollout on the A6000'
         status: todo
         priority: medium
         owner: PM
-      - name: "Optional 2nd contribution: physics-consistent $\\boldsymbol\\delta$, periodic drift correction, or active learning"
+      - phase: '1 · GNN'
+        name: 'Check ±2σ mesh validity (tet inversion ratio); last curriculum stage ±2σ or Mahalanobis-ball sampling?'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '2 · GP data (new, unseen by the GNN)'
+        name: 'Crossed design: ~40 shapes (±1σ) × the same 15 parameter sets, ~600 FE runs'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '2 · GP data (new, unseen by the GNN)'
+        name: 'Test set: 5–10 shapes × the same 15 parameter sets'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Export rollout residuals $\mathbf{r}=\mathbf{u}_{\mathrm{FE}}-\mathbf{u}_{\mathrm{GNN}}$'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'Downsample to 50 frames, store as float16.'
+      - phase: '3 · Pilot'
+        name: 'Statistics: $\|\mathbf{r}\|/\|\mathbf{u}\|$ vs $t$; residual PCA energy spectrum; Spearman of residual vs $\mathbf{z}$ distance'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Stop point 1'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Stop if relative error < 1%, or the first 10 modes hold < 80% of the energy.'
+      - phase: '3 · Pilot'
+        name: 'Train GP: Matérn-5/2 + ARD, Kronecker structure; inspect ARD length scales'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Test zero-shot and $n_{\mathrm{new}}=5$'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Stop point 2'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Stop if the error drops by < 30%, or coverage < 80%.'
+      - phase: '4 · Full experiments'
+        name: 'Error vs $n_{\mathrm{new}}\in\{0,5,10,20\}$'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '4 · Full experiments'
+        name: '95% interval coverage'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Variance includes the truncation term $s_{\mathrm{trunc}}^2$.'
+      - phase: '4 · Full experiments'
+        name: 'Ablation: pure GNN, $\boldsymbol\theta$-only GP, SSM as $\mathbf{z}$, Lanyon-style, ours'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '4 · Full experiments'
+        name: 'Kernel comparison: Matérn-5/2 vs RBF'
+        status: todo
+        priority: low
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'FE ground truth for ~20 synthetic patients'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Surface nodes, 25 frames, added noise.'
+      - phase: '5 · Inverse problem'
+        name: 'MCMC (emcee, batch-parallel walkers): 4 material parameters, then 8'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'Compare pure GNN, GNN + $\boldsymbol\delta$, volume-only GP (Ge-style): posterior bias and coverage'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'Sweep $\sigma_{\mathrm{obs}}$ over 2–3 levels; check convergence with $\hat R$ and ESS'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'Push posterior parameters to the stress field $\boldsymbol\sigma(\mathbf{x},t)$'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '6 · Optional'
+        name: 'Physics-consistent $\boldsymbol\delta$, or variance-based active learning'
+        status: todo
+        priority: low
+        owner: PM
+      - phase: '6 · Optional'
+        name: 'MoE-GP if residuals are non-stationary'
         status: todo
         priority: low
         owner: PM

@@ -96,7 +96,12 @@
             </tr>
           </thead>
           <tbody>
+            {{- $ph := "" }}
             {{- range .tasks }}
+            {{- with .phase }}{{ if ne . $ph }}
+            <tr class="pb-phase"><th colspan="6" scope="rowgroup">{{ . }}</th></tr>
+            {{- end }}{{ end }}
+            {{- $ph = .phase | default "" }}
             {{- $s := index $stMap .status | default (index $stMap "todo") }}
             {{- $pr := index $prio (.priority | default "medium") }}
             <tr class="pb-row" data-status="{{ .status }}" data-text="{{ printf "%s %s" .name (.note | default "") | plainify | lower }}">
