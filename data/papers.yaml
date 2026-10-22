@@ -165,6 +165,34 @@ papers:
         status: working
         priority: high
         owner: PM
+      - name: "Run: healthy, $\\Delta t = 5$ ms reference (20,000 steps)"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-23
+        note: "Workstation Docker, 16 ranks; step 3509 at 14:55 on 22 Oct, 5.0 s/step; ETA Fri 14:00. [SwanLab ysm5kxc5](https://swanlab.cn/@Pengfei-Ma/softmech-coronary-lv-coupling/runs/ysm5kxc5)"
+      - name: "Run: healthy, $\\Delta t = 2.5$ ms, 10 cycles (4,000 steps)"
+        status: working
+        priority: medium
+        owner: PM
+        due: 2026-10-23
+        note: "9654, 8 ranks; step 601 at 14:55 on 22 Oct, 12.3 s/step; ETA Fri 02:30. [SwanLab rbmy5ez3](https://swanlab.cn/@Pengfei-Ma/softmech-coronary-lv-coupling/runs/rbmy5ez3)"
+      - name: "Run: lad80, baroreflex on (20,000 steps)"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-24
+        note: "8383 cores 0–7; step 137 at 14:55 on 22 Oct; speed being re-measured, ETA ~Sat afternoon if ~10 s/step. [SwanLab nyd5nust](https://swanlab.cn/@Pengfei-Ma/softmech-coronary-lv-coupling/runs/nyd5nust)"
+      - name: "Run: lad80_nobaro, baroreflex off (20,000 steps)"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-24
+        note: "8383 cores 8–15; restarted from step 0 after the core-pinning clash; ETA ~Sat afternoon."
+      - name: "Delete interrupted SwanLab run 5nn3su6c"
+        status: todo
+        priority: low
+        owner: PM
 
   - id: feedback-cmame
     title: "Cardiovascular feedback model (CMAME follow-up)"
