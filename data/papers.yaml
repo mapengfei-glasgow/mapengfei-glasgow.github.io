@@ -40,38 +40,50 @@ papers:
     color: "#a25ddc"
     link: "/afsi/"
     tasks:
-      - name: "Reframe as a method paper; move software details to the appendix"
-        status: working
-        priority: high
-        owner: PM
-        due: 2026-10-30
-      - name: "Rigorous convergence study"
+      - name: "1. Launch convergence runs: $h, h/2, h/4$ and $\\Delta t$ refinement"
         status: todo
         priority: critical
         owner: PM
-        due: 2026-10-30
-        note: "Reviewer: “Convergence, conservation and more rigorous validations”."
-      - name: "Comment on conservation"
+        due: 2026-10-23
+        note: "Refine fluid and solid together at fixed $\\Delta X/h$; 1–2 benchmarks with a reference. Record errors, rates and $\\max|J-1|$. Reviewer: “Convergence, conservation and more rigorous validations”."
+      - name: "2. Launch validation run: complex geometry, large deformation / strain rate"
         status: todo
         priority: high
         owner: PM
-        due: 2026-10-30
-      - name: "Answer: classical IBFE coupling is not variationally consistent"
+        due: 2026-10-23
+        note: "Reuse an existing case where possible (e.g. 3D LV, Guccione); runs in parallel with step 1."
+      - name: "3. Reframe as a method paper; move software details to the appendix"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-24
+      - name: "4. Conservation: mass ($J$), momentum and energy via spread/interp adjointness"
         status: todo
         priority: high
         owner: PM
-        due: 2026-10-30
-      - name: "Answer: penalty-like dilatation stabilisation vs. 1st/2nd law"
+        due: 2026-10-25
+      - name: "5. Answer: classical IBFE coupling is not variationally consistent"
         status: todo
         priority: high
         owner: PM
-        due: 2026-10-30
-      - name: "Validation: complex geometry, larger deformation / strain rate"
+        due: 2026-10-25
+      - name: "6. Answer: penalty-like dilatation stabilisation vs. 1st/2nd law"
         status: todo
-        priority: medium
+        priority: high
         owner: PM
-        due: 2026-10-30
-      - name: "Hand the draft to Hao Gao for editing"
+        due: 2026-10-26
+        note: "Write the penalty as a convex volumetric energy $U(J)$ and show the discrete energy balance $\\tfrac{d}{dt}(E_k+E_s) = -\\mathcal{D} \\le 0$."
+      - name: "7. Results: convergence tables/plots, validation figures and text"
+        status: todo
+        priority: critical
+        owner: PM
+        due: 2026-10-28
+      - name: "8. Full read-through, figures, appendix, compile"
+        status: todo
+        priority: high
+        owner: PM
+        due: 2026-10-29
+      - name: "9. Hand the draft to Hao Gao for editing"
         status: todo
         priority: critical
         owner: PM
