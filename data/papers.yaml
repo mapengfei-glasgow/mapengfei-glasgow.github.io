@@ -1,0 +1,199 @@
+# Paper-publication board (/papers/).
+#
+# This file is the board's only data source and is edited from one Claude
+# chat session; the page itself is read-only (no edit UI, no backend).
+#
+# Per paper: id, title, short (group label), journal, stage, color, authors,
+#            link (optional), tasks[].
+#   stage ∈ idea | planning | drafting | internal | submitted | review |
+#           revision | accepted | published
+# Per task: name, status, priority, owner, start, due (YYYY-MM-DD, optional),
+#           note (optional, Markdown).
+#   status   ∈ todo | working | stuck | waiting | done
+#   priority ∈ critical | high | medium | low
+
+updated: 2026-10-22
+
+papers:
+  - id: gls-hyperelastic
+    title: "GLS/PSPG stabilized FEM for incompressible finite-strain hyperelastic dynamics"
+    short: "GLS hyperelastic dynamics"
+    journal: CMAME
+    stage: revision
+    color: "#579bfc"
+    tasks:
+      - name: "Discussion section: GLS vs VMS (Rossi 2016 / Thekkethil 2023), before Conclusions"
+        status: working
+        priority: high
+        owner: PM
+        note: "Reviewer request. Discussion only — no extra GLS-vs-VMS comparison example."
+      - name: "Response letter, point by point"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "Volume error $\\varepsilon_{\\mathrm{vol}} = J-1$ in $L^1/L^2/L^\\infty$"
+        status: todo
+        priority: medium
+        owner: PM
+        note: "Do not borrow the third-order claim of the FEBDF2 + quadratic-element paper; the setting here is $P_1/P_1$."
+      - name: "Resubmit revised manuscript"
+        status: todo
+        priority: high
+        owner: PM
+
+  - id: afsi
+    title: "Automated Fluid-Structure Interaction Solver for Nonlinear Solid Mechanics (AFSI)"
+    short: "AFSI"
+    journal: IJNMBE
+    stage: revision
+    color: "#a25ddc"
+    link: "/afsi/"
+    tasks:
+      - name: "Reframe as a method paper; move software details to the appendix"
+        status: working
+        priority: high
+        owner: PM
+      - name: "Rigorous convergence study"
+        status: todo
+        priority: critical
+        owner: PM
+        note: "Reviewer: “Convergence, conservation and more rigorous validations”."
+      - name: "Comment on conservation"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "Answer: classical IBFE coupling is not variationally consistent"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "Answer: penalty-like dilatation stabilisation vs. 1st/2nd law"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "Validation: complex geometry, larger deformation / strain rate"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "Port IB2d cases (first: Rubberband)"
+        status: working
+        priority: low
+        owner: PM
+
+  - id: mv-gpu
+    title: "Mitral-valve FSI on GPUs with a nodal immersed finite element / finite difference method"
+    short: "Mitral valve GPU FSI"
+    journal: JFM
+    stage: drafting
+    color: "#00c875"
+    link: "/posts/mv-paper/"
+    tasks:
+      - name: "Rerun IBAMR SarahMV model to t = 1.335"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "Fibre/sheet mapping audit"
+        status: done
+        priority: medium
+        owner: PM
+        due: 2026-10-19
+        note: "P1 and mixed R0/R1/R2 match the original Sarah per-parent map to numerical precision."
+      - name: "Write Abstract"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "Write Introduction"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: lv-gnn
+    title: "Learning left ventricular contraction and dilation (graph emulator)"
+    short: "LV GNN emulator"
+    journal: "TBD"
+    stage: drafting
+    color: "#fdab3d"
+    link: "/posts/lv-emulator/"
+    tasks:
+      - name: "Mean-geometry training (120k iterations)"
+        status: done
+        priority: medium
+        owner: PM
+      - name: "Narrow-geometry training"
+        status: working
+        priority: high
+        owner: PM
+        note: "~57k / 120k iterations (19 Oct)."
+      - name: "Wider joint-sampled simulations"
+        status: working
+        priority: medium
+        owner: PM
+        note: "65 / 600 complete (19 Oct)."
+      - name: "Fibre/sheet tensor inputs experiment"
+        status: todo
+        priority: low
+        owner: PM
+      - name: "Decide paper angle: discrepancy emulator (GNN + GP correction)?"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: coronary-lv
+    title: "Computational Modelling of Coronary–Left Ventricular Coupling with Baroreflex Feedback"
+    short: "Coronary–LV baroreflex"
+    journal: AMM
+    stage: review
+    color: "#ff158a"
+    authors: "P. Ma, X. Wang, L. Cai*, H. Gao"
+    tasks:
+      - name: "Submitted — awaiting decision"
+        status: waiting
+        priority: medium
+        owner: PM
+
+  - id: feedback-cmame
+    title: "Cardiovascular feedback model (CMAME follow-up)"
+    short: "Feedback (CMAME)"
+    journal: CMAME
+    stage: idea
+    color: "#66ccff"
+    tasks:
+      - name: "Minimal with/without-feedback comparison to test the motivation"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: brinkman-ibfe
+    title: "Brinkman penalisation of rigid walls in IBFE with explicit hyperelastic leaflets"
+    short: "Brinkman + IBFE"
+    journal: "TBD"
+    stage: idea
+    color: "#037f4c"
+    tasks:
+      - name: "Prototype implicit Brinkman wall + explicit $f_{\\rm hyp}^n$ splitting"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "Show closure stability under large transvalvular pressure"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: orifice-bc
+    title: "Pressure-orifice boundary condition for staggered-grid projection methods + IB cardiac flow"
+    short: "Pressure orifice BC"
+    journal: JCP
+    stage: planning
+    color: "#e2445c"
+    tasks:
+      - name: "Patch branch in convection.h; run gla_mv to backflow"
+        status: working
+        priority: medium
+        owner: PM
+      - name: "Literature: Heywood–Rannacher–Turek, Moghadam $\\beta$ backflow, IBAMR cardiac"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "MMS with backflow orifice (2nd order), MG rates, full-cycle MV case"
+        status: todo
+        priority: medium
+        owner: PM

@@ -305,6 +305,24 @@ deploy notes — including how to create the private bucket and the secret — a
 > is empty — which is exactly how `/files/` quietly lost its backend
 > (`data-api=none`) and the audio `audioBase` fallback stopped working.
 
+## Paper board (`/papers/`)
+
+A monday.com-style board for paper-publication tasks: **Main table** (one
+coloured group per paper, full-bleed status/priority cells, a status bar per
+group), **Kanban** (tasks by status) and **Pipeline** (papers by stage, Idea →
+Published). Search, *Hide done* and collapsed groups are remembered per browser;
+overdue dates are flagged against the viewer's date.
+
+The page is **read-only**. Everything is rendered at build time from
+`data/papers.yaml` (format documented at the top of that file), and that file is
+edited from a single Claude chat session — there is no edit UI or backend.
+
+- `content/papers/_index.md` — title; `searchHidden` + `robotsNoIndex`.
+- `layouts/papers/list.html` — the three views.
+- `assets/css/papers.css`, `assets/js/papers.js` — loaded on this section only
+  (`extend_head.html`); `mathjax: true` in the front matter enables `$…$` in
+  task names and notes.
+
 ## The vocabulary book (`/words/`, the ☆ buttons)
 
 One shared secret and one JSON document, both in Cloudflare:

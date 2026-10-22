@@ -154,3 +154,8 @@ Sentences above A2 level come with a short **plain-English note**, and any sente
   name = "健身"
   url = "/exercises/"
   weight = 7
+
+[[menu.main]]
+  name = "Papers"
+  url = "/papers/"
+  weight = 8
