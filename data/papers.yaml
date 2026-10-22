@@ -130,21 +130,51 @@ papers:
     color: "#fdab3d"
     link: "/posts/lv-emulator/"
     tasks:
-      - name: "Mean-geometry training (120k iterations)"
-        status: done
-        priority: medium
+      - name: "±1σ data: joint0339 does not converge (599/600)"
+        status: stuck
+        priority: critical
         owner: PM
-      - name: "Narrow-geometry training"
+        note: "Standard, robust fallback and trust-region retries all failed. Blocks `validated.done`, ±1σ training and the new-material simulation queue. Do not fake the marker or silently change its parameters."
+      - name: "Fibre/sheet + PCA model, ±0.5σ (euclid-01 GPU 0)"
         status: working
         priority: high
         owner: PM
-        note: "~57k / 120k iterations (19 Oct)."
-      - name: "Wider joint-sampled simulations"
-        status: working
+        note: "180,200 / 240,000 microsteps; eval loss 0.0163 at 180k; rollout 0.78 mm on 2 fixed validation cases. Trained on 456 seed cases where only $a, b, a_f, b_f$ vary."
+      - name: "Simulate 600 expanded-material cases ($a_s, b_s, a_{fs}, b_{fs}$)"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Sampled and meshed; waiting on the ±1σ queue. Then confirm these variations really enter training."
+      - name: "Full validation / test evaluation of the fibre model"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "10-cycle rollout: local tet inversion from 0.642 s"
+        status: todo
+        priority: high
+        owner: PM
+        note: "±0.5σ no-fibre model; end-cycle volume settles at ~167.2 mL but inversions persist and grow; FEM first cycle has none. Diagnostic continuation only. ParaView package: 401 frames."
+      - name: "±1σ no-fibre model training"
+        status: todo
         priority: medium
         owner: PM
-        note: "65 / 600 complete (19 Oct)."
-      - name: "Fibre/sheet tensor inputs experiment"
+        note: "Blocked by joint0339."
+      - name: "Mean-geometry model"
+        status: done
+        priority: medium
+        owner: PM
+        note: "1000 cases; loss ≈ 0.0070; full val/test rollout RMSE ≈ 0.34 mm."
+      - name: "±0.25σ model, no fibre (30 shapes × 20 parameter sets)"
+        status: done
+        priority: medium
+        owner: PM
+        note: "Best loss ≈ 0.00605; logged rollout ≈ 0.50 mm."
+      - name: "±0.5σ joint model, no fibre (600 cases)"
+        status: done
+        priority: medium
+        owner: PM
+        note: "Best loss 0.008883; logged rollout ≈ 0.95 mm (not a full test-set metric)."
+      - name: "Commit pending code; sync fibre, PV and failure status to the website"
         status: todo
         priority: low
         owner: PM
