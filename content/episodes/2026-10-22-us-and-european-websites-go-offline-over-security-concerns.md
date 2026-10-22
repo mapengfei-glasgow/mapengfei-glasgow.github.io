@@ -1,0 +1,309 @@
+---
+layout: single
+title: "US and European websites go offline over security concerns"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-22T00:00:00Z
+slug: "2026-10-22-us-and-european-websites-go-offline-over-security-concerns"
+audioDir: "2026-10-22-us-and-european-websites-go-offline-over-security-concerns"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-22-us-and-european-websites-go-offline-over-security-concerns/episode.mp3"
+totalDuration: 1641.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.76}
+  - {text: "Hello, I'm Angkor Desai and in the early hours of Thursday, the 22nd of October, these are our main stories.", start: 5.11, end: 11.53}
+  - {text: "Several government and public organisations in Europe and the US have temporarily taken their websites offline because of cyber security concerns.", start: 12.25, end: 19.91}
+  - {text: "Russia and Ukraine have agreed to hold three -way talks with the US as Washington pushes to end the war between them.", start: 20.49, end: 26.93}
+  - {text: "And we find out how a British man was able to hold down five full -time government jobs at the same time.", start: 27.59, end: 33.35}
+  - {text: "Also in this podcast, hundreds of elephants in Sri Lanka have died, marking a sharp increase from the previous year.", start: 36.87, end: 43.33}
+  - {text: "And she managed to smuggle these out over the course of seven years.", start: 44.21, end: 48.03}
+  - {text: "And then when she was freed in 2017, she transcribed all these scraps, turned them into her memoir.", start: 48.37, end: 54.99}
+  - {text: "The Iranian prisoner who went to extraordinary lengths to chronicle the brutal reality of life inside one of the country's notorious jails.", start: 55.57, end: 63.99}
+  - {text: "It's been described as one of the most impactful security issues in recent memory.", start: 70.04, end: 75.14}
+  - {text: "Serious security flaws have been discovered in software used by the majority of websites around the world.", start: 75.66, end: 80.90}
+  - {text: "From the governments of Finland and the Netherlands, right through to websites like Wikipedia and here at the BBC, it's prompted some parts of the internet to go completely dark.", start: 81.40, end: 91.20}
+  - {text: "The flaws were discovered by AI with cybersecurity firm Wiz, saying they were the most severe vulnerabilities ever discovered by the tech, which is reshaping the cyber landscape.", start: 91.86, end: 101.88}
+  - {text: "I asked our technology reporter, Lily Jamali, how this happened.", start: 102.46, end: 105.28}
+  - {text: "Yeah, so this happened because there were these vulnerabilities discovered by a cyber security company called Wiz.", start: 105.94, end: 111.92}
+  - {text: "They found flaws in a programming language that's called PHP.", start: 112.44, end: 116.02}
+  - {text: "So PHP is used all across the internet, more than two -thirds of websites and apps depend on it.", start: 116.58, end: 123.60}
+  - {text: "And what happened next is that multiple governments issued these alerts to organizations and institutions around the world, including us, to say there is a patch for this flaw.", start: 123.88, end: 133.68}
+  - {text: "You have to apply it right away.", start: 133.78, end: 135.52}
+  - {text: "Because if you don't, bad actors can exploit the vulnerability.", start: 135.56, end: 139.22}
+  - {text: "And so organizations that needed some time to apply that patch, as it's called, were advised to bring their websites on their own.", start: 140.16, end: 148.82}
+  - {text: "And so that's what happened.", start: 149.14, end: 150.08}
+  - {text: "We saw, as you said, governments from France to Finland and many other places bring pages, web pages down, as did some of the show pages for BBC programs.", start: 150.20, end: 159.28}
+  - {text: "Okay, so what are the repercussions likely to be worldwide?", start: 159.80, end: 161.98}
+  - {text: "Well, this flaw was discovered using AI.", start: 163.08, end: 166.26}
+  - {text: "And I think that is really the big theme here.", start: 166.60, end: 169.08}
+  - {text: "USAI companies have been saying for months now, really since about April, May of this year, that their models are getting very good at hacking.", start: 169.78, end: 177.88}
+  - {text: "So good actors can use that possibility, that capability to discover flaws that have been sitting there for sometimes years, sometimes for decades, they found flaws using these systems.", start: 178.74, end: 189.30}
+  - {text: "But of course, bad actors can also use them to bring down servers and steal data, take down websites.", start: 189.60, end: 195.78}
+  - {text: "So this is an ongoing issue.", start: 195.78, end: 198.98}
+  - {text: "I think the repercussions could be governments taking a bigger role as these AI systems get more sophisticated.", start: 199.18, end: 204.78}
+  - {text: "And in fact, the UK government just said that they're encouraging all organizations to understand what their exposure is, and to do everything they can to safeguard their system.", start: 205.16, end: 215.36}
+  - {text: "So I think the governments are really the guide here.", start: 215.42, end: 217.54}
+  - {text: "Yeah, and your spot on, because you mentioned cyber attacks, especially those in recent months, which have hit retail firms, for example, some people will be wondering also if they've got phones and obviously they use tablets or PCs and laptops, what can they do to safeguard themselves?", start: 217.72, end: 230.84}
+  - {text: "Yes, all of those things are things we should be thinking about.", start: 231.56, end: 235.04}
+  - {text: "But I don't think there's a whole lot that individuals like us can do right now.", start: 235.18, end: 239.76}
+  - {text: "Japan's government, for example, did say people should check if they're publicly available websites run on PHP, pretty good odds that they do.", start: 240.36, end: 248.84}
+  - {text: "But it's really up to staff at these organizations that are running these websites to be aware that the landscape is changing so fast right now.", start: 249.24, end: 257.30}
+  - {text: "The programming language PHP also is everywhere.", start: 257.54, end: 260.24}
+  - {text: "So cybersecurity experts that we've been speaking to say there's so much software out there that's offered by companies who don't even advertise that it runs on PHP.", start: 260.88, end: 270.70}
+  - {text: "So worth noting that it's not always that obvious.", start: 271.28, end: 274.30}
+  - {text: "Lily Jamali reporting from San Francisco.", start: 274.74, end: 277.48}
+  - {text: "President Trump has said that an end to Russia's war against Ukraine could be closer than ever.", start: 278.45, end: 283.11}
+  - {text: "Without explaining why that might be the case, he was speaking after his envoy, Steve Witkoff, met the Russian leader Vladimir Putin in St.", start: 283.59, end: 290.95}
+  - {text: "Petersburg. Mr. Witkoff described the talks as constructive.", start: 291.03, end: 294.67}
+  - {text: "But overnight officials in Ukraine said Kyiv has been attacked with ballistic missiles and explosions have been heard in the cities of Kharkiv and Dnieper.", start: 295.43, end: 303.69}
+  - {text: "A Russia editor, Steve Rosenberg reports from Moscow.", start: 304.29, end: 306.93}
+  - {text: "In the Constantine Palace of St.", start: 306.93, end: 309.17}
+  - {text: "Petersburg, in the Oval Hall, not the Oval Office, President Putin hosted President Trump's special envoy.", start: 309.25, end: 316.97}
+  - {text: "As a goodwill gesture ahead of the talks, the Kremlin leader had freed a 74 -year -old American from a Russian jail, retired teacher Stephen Hubbard.", start: 320.07, end: 329.79}
+  - {text: "Steve Witkoff was very impressed.", start: 330.63, end: 332.59}
+  - {text: "My president, President Trump, being an humanitarian, you are a humanitarian also, sir.", start: 332.59, end: 339.13}
+  - {text: "I salute that. I commend you and I thank you again.", start: 339.71, end: 342.57}
+  - {text: "More than four and a half years ago, Russia's humanitarian leader launched a full -scale invasion of Ukraine.", start: 343.05, end: 350.07}
+  - {text: "And after today's meeting, there is no sign that President Putin is about to end the fighting.", start: 351.01, end: 356.23}
+  - {text: "The Kremlin did say that next month it may be willing to resume talks with the US and Ukraine on ending the conflict.", start: 357.01, end: 364.05}
+  - {text: "But right now, the war goes on.", start: 364.67, end: 366.91}
+  - {text: "And yet, despite that, Russia and America continue to improve relations.", start: 367.55, end: 371.79}
+  - {text: "In recent days, President Trump has paused some sanctions on Russia.", start: 372.67, end: 376.73}
+  - {text: "And he's agreed to buy Russian diesel.", start: 377.35, end: 379.51}
+  - {text: "He's also been bitterly critical of President Zelensky, all of which has gone down incredibly well in Russia.", start: 380.33, end: 387.79}
+  - {text: "Steve Rosenberg in Moscow.", start: 388.33, end: 390.05}
+  - {text: "Well, I asked our chief North America correspondent, Gary O'Donoghue, if this round of meetings was any different.", start: 390.79, end: 395.97}
+  - {text: "There's a lot of positive rhetoric, if you like.", start: 396.57, end: 399.15}
+  - {text: "But as far as we know, what has so far been achieved is a potential resumption of technical talks.", start: 399.31, end: 404.91}
+  - {text: "So not at the sort of leader level, potentially between Ukraine, Russia and the United States sometime, perhaps in November.", start: 405.11, end: 411.41}
+  - {text: "And of course, we've had those before.", start: 412.07, end: 413.27}
+  - {text: "What could be new for this proposal, Gary?", start: 413.27, end: 415.33}
+  - {text: "Because it feels as though for Ukraine and President Zelensky, a bad deal could be worse than no deal.", start: 415.79, end: 420.87}
+  - {text: "Yeah. I mean, it's difficult to see whether war aims have changed for either Ukraine or Russia.", start: 421.13, end: 427.33}
+  - {text: "Ukraine wants to exist in its current borders.", start: 427.93, end: 431.09}
+  - {text: "Russia was dead set on annexing Ukraine.", start: 431.67, end: 434.27}
+  - {text: "Russia still wants the whole of the Donbas.", start: 434.73, end: 437.25}
+  - {text: "Ukraine has offered to freeze its front line at the moment where it is.", start: 437.65, end: 441.47}
+  - {text: "There's the question of NATO membership, which again is potentially one of those things that negotiation.", start: 441.75, end: 445.91}
+  - {text: "But security guarantees post any deal is a problem.", start: 446.57, end: 450.47}
+  - {text: "You know, having peacekeepers on the ground or NATO troops in there would be something that Russia couldn't agree to.", start: 450.73, end: 456.55}
+  - {text: "It's difficult to know where the movement is.", start: 457.15, end: 459.73}
+  - {text: "You know, there was that attempt for a ceasefire around energy infrastructure, where a lot of pressure from Donald Trump on the Ukrainians to stop bombing oil refineries,", start: 460.37, end: 469.23}
+  - {text: "but Russia continued to hit the power grid inside Ukraine.", start: 469.55, end: 472.79}
+  - {text: "So Ukraine has started again hitting oil refineries.", start: 472.99, end: 476.01}
+  - {text: "There's perhaps a lot of desire to end this war, but the basic facts haven't changed.", start: 476.67, end: 482.39}
+  - {text: "For Donald Trump, the midterms are fast approaching.", start: 482.65, end: 484.61}
+  - {text: "A lot of pressure on.", start: 485.13, end: 486.23}
+  - {text: "He seems to be continuing to attack President Zelensky by saying that he's at fault for the rising prices in diesel.", start: 486.41, end: 493.53}
+  - {text: "And he's worried, obviously, that voters will switch away from Republicans.", start: 493.91, end: 497.39}
+  - {text: "How much of a factor is this having with the U .S.", start: 497.87, end: 500.13}
+  - {text: "public? It's a huge factor here.", start: 500.13, end: 502.25}
+  - {text: "I mean, you've got to remember that there are moments in the American cycle where America is weaker than at other moments.", start: 503.03, end: 509.91}
+  - {text: "And the run up to a midterms election is one of them for a U .S.", start: 510.55, end: 514.27}
+  - {text: "administration, for any president.", start: 514.31, end: 515.65}
+  - {text: "This is where public opinion here matters even more than it does typically at other times.", start: 516.03, end: 521.15}
+  - {text: "They're susceptible. There are domestic pressures and diesel and gas is one of those big domestic pressures at the moment.", start: 521.15, end: 528.15}
+  - {text: "Now, no one believes that the deal that was done to remove sanctions after having imposed sanctions on Russia or the deal with luke oil or anything like", start: 528.57, end: 538.33}
+  - {text: "that is going to lower diesel prices before the midterms themselves.", start: 538.33, end: 541.61}
+  - {text: "But part of the reason will be political to send a sort of message that we're doing something about your costs.", start: 541.87, end: 548.31}
+  - {text: "You might not feel it yet, but we're doing it.", start: 548.31, end: 550.07}
+  - {text: "And so these are enormously sort of intertwined issues, these global security questions, and then these nitty gritty domestic questions right down at the district level", start: 550.69, end: 561.51}
+  - {text: "when you're on the ground and people say gas diesel is too expensive.", start: 561.51, end: 564.85}
+  - {text: "Gary O'Donohue in Washington.", start: 565.43, end: 566.97}
+  - {text: "A book chronicling life inside Iran's prison system provides frank and shocking insight into how the regime deals with those it considers to be its opponents.", start: 567.95, end: 578.61}
+  - {text: "Open wide the doors is by the prize winning poet and writer, Mavesh Sabet, who has been behind bars for most of the last 15 years", start: 579.45, end: 587.31}
+  - {text: "and is a prominent member of Iran's Baha 'i faith.", start: 587.31, end: 590.45}
+  - {text: "It's a religion that emerged in the 19th century in Persia, only to be persecuted repeatedly by a succession of Iranian regimes ever since.", start: 591.03, end: 599.31}
+  - {text: "The book has been translated into English by Bahia Nakjavani, who's also Baha 'i.", start: 600.03, end: 604.95}
+  - {text: "She's been speaking to my colleague James Menendez.", start: 605.41, end: 607.55}
+  - {text: "The Baha 'is are a bit of a litmus test for the sense of security or insecurity of any given government of Iran.", start: 607.99, end: 615.17}
+  - {text: "So in the 19th century, they were being targeted as Russian spies.", start: 615.75, end: 619.95}
+  - {text: "In the later 19th century, beginning of the 20th century, there were British spies.", start: 620.67, end: 625.25}
+  - {text: "Then of course they became American spies and most recently Zionists and Israeli spies.", start: 625.81, end: 631.05}
+  - {text: "But why they've been targeted, I think, is also because they've emerged from Iran itself.", start: 631.57, end: 637.61}
+  - {text: "Any regime doesn't want to admit that the Baha 'is of Iran with ideas of equality, gender equality, religious tolerance, democratic means of governance are actually coming from Iran itself.", start: 638.11, end: 651.85}
+  - {text: "They're perceived as a threat.", start: 652.41, end: 653.57}
+  - {text: "And Mavash is one of the leaders, essentially, which is presumably why she was targeted.", start: 653.85, end: 658.91}
+  - {text: "Well, I think she was targeted too because she was appointed to replace the elected leadership of the Baha 'i community.", start: 659.29, end: 667.25}
+  - {text: "The institutions democratically elected were disbanded at the beginning of the Islamic Revolution.", start: 667.73, end: 673.45}
+  - {text: "And individuals were appointed to take care of the needs of the Baha 'i community.", start: 674.05, end: 678.99}
+  - {text: "Because every need, including employment, education, all the way to burial, was being denied the Baha 'is.", start: 678.99, end: 687.67}
+  - {text: "And someone had to take care just basically of burials even.", start: 687.89, end: 691.61}
+  - {text: "This has become a very critical issue.", start: 692.01, end: 694.11}
+  - {text: "It's hard when a Baha 'i dies to be allowed to be buried.", start: 694.37, end: 697.57}
+  - {text: "So all of these needs were taken care of by the so -called Yaran -e -Iran.", start: 697.89, end: 702.69}
+  - {text: "And Mavash was the secretary of this group.", start: 703.03, end: 705.87}
+  - {text: "And essentially, the book is a prison memoir.", start: 705.87, end: 709.15}
+  - {text: "And it's very grim.", start: 709.47, end: 710.35}
+  - {text: "No holds barred. She's very honest about the suffering.", start: 710.61, end: 713.71}
+  - {text: "But one of the unique aspects of this prison memoir, because there are several coming out, I mean, we're surrounded by the voices of women coming out of the prisons of Iran.", start: 713.93, end: 723.17}
+  - {text: "But Mavash somehow manages, in spite of this dark Kafkaesque world in which she finds herself, to keep her equilibrium, to keep her sense of humour.", start: 723.37, end: 734.03}
+  - {text: "It's really rather remarkable.", start: 734.35, end: 735.55}
+  - {text: "To keep her sense of decency.", start: 735.97, end: 737.45}
+  - {text: "How did she get the words out?", start: 737.69, end: 739.45}
+  - {text: "I mean, that process.", start: 739.77, end: 740.55}
+  - {text: "Yes. Most of the prisoners in Nevin and other prisons managed to do it in a similar sort of way.", start: 740.93, end: 747.27}
+  - {text: "Because if they're lucky, they find a pen.", start: 747.41, end: 749.71}
+  - {text: "Sometimes it's slithers of tissue paper, the margins of newspapers that are used in the toilets.", start: 749.99, end: 756.51}
+  - {text: "And they scribble on these scraps of paper as Mavash did.", start: 756.87, end: 761.17}
+  - {text: "And they have the second terror, which is to hide these scraps.", start: 761.57, end: 765.69}
+  - {text: "Mavash put them in her clothes, in her bra.", start: 766.11, end: 768.69}
+  - {text: "She slept on them to flatten them.", start: 769.01, end: 771.23}
+  - {text: "And then the third miracle was getting them out.", start: 771.45, end: 774.19}
+  - {text: "And that she managed to do through the courage, the determination of her cellmates, when she was out of solitary confinement.", start: 774.41, end: 781.81}
+  - {text: "And they stuffed them in their hems of their dresses and their coats.", start: 782.01, end: 785.59}
+  - {text: "She managed to smuggle these out over the course of seven years.", start: 785.59, end: 789.59}
+  - {text: "And then when she was freed in 2017, she transcribed all these scraps, turned them into her memoir.", start: 789.91, end: 797.05}
+  - {text: "She's not due to be released till 2032.", start: 797.51, end: 800.71}
+  - {text: "Do you know how she is?", start: 801.23, end: 802.17}
+  - {text: "She was granted a medical furlough to have open heart operation.", start: 802.57, end: 806.67}
+  - {text: "And since then, she's on this medical furlough, which is a sort of form of extended psychological torture.", start: 806.97, end: 814.73}
+  - {text: "Any moment, she can be summoned back to prison.", start: 814.73, end: 817.57}
+  - {text: "Apparently summoned back two days ago, again.", start: 817.99, end: 821.57}
+  - {text: "And her husband went and said, if you have her go to prison, she will die.", start: 822.01, end: 825.81}
+  - {text: "Bahia Nakjavani speaking to James Menendez.", start: 826.49, end: 829.51}
+  - {text: "Still to come in this podcast.", start: 831.84, end: 833.46}
+  - {text: "Eastern Ireland, its indigenous name is Rapani.", start: 834.14, end: 836.86}
+  - {text: "You shouldn't even know the word indigenous at your age.", start: 837.62, end: 841.76}
+  - {text: "Why John Malkovich is tipped for Oscar glory in his latest film, Wild Horse Nine.", start: 842.32, end: 847.50}
+  - {text: "This is the Global News Podcast.", start: 855.06, end: 856.74}
+  - {text: "The Sri Lankan government says 455 wild elephants died last year.", start: 857.77, end: 862.63}
+  - {text: "That's a sharp increase from the year before.", start: 863.15, end: 865.23}
+  - {text: "As forests shrink, elephants are being pushed closer to villages in search of food.", start: 865.93, end: 870.53}
+  - {text: "And that's leading to more dangerous encounters with people.", start: 871.01, end: 873.81}
+  - {text: "The human toll is also rising.", start: 874.27, end: 876.37}
+  - {text: "Making Sri Lanka one of the deadliest places in the world for human elephant conflict.", start: 876.81, end: 881.35}
+  - {text: "It's a growing problem in a country that's home to around 5 ,800 wild elephants.", start: 881.91, end: 886.73}
+  - {text: "Our global affairs correspondent Ambarasanathirajan has more.", start: 887.53, end: 890.65}
+  - {text: "Last year, it spiked up to 455.", start: 891.17, end: 894.07}
+  - {text: "Whereas the previous year, it came down to 388 from again another 400 figure.", start: 894.19, end: 899.25}
+  - {text: "Now hundreds of elephants are being killed in Sri Lanka over the years.", start: 899.25, end: 903.77}
+  - {text: "This has caused a huge concern for conservation.", start: 904.35, end: 906.83}
+  - {text: "The elephants are treated as a sacred animal because it plays a crucial role in religious events and also economy.", start: 907.37, end: 913.45}
+  - {text: "For a tourism economy, people come to Sri Lanka to see these elephants in the wild.", start: 913.65, end: 917.61}
+  - {text: "Gathering near the waterholes and the lakes and rivers.", start: 918.09, end: 921.07}
+  - {text: "They go and visit many of these elephant sanctuaries.", start: 921.47, end: 923.85}
+  - {text: "But it is also causing problem for people.", start: 924.03, end: 926.91}
+  - {text: "Especially after the end of the Civil War, 2009, I was in Sri Lanka a couple of years ago doing exactly the story.", start: 926.91, end: 933.15}
+  - {text: "What people were saying was people started going and settling in areas which they are not able to go there because of security reasons.", start: 933.29, end: 939.49}
+  - {text: "So that is expanding these settlements.", start: 940.01, end: 941.97}
+  - {text: "As a result, elephant corridors are being cut.", start: 942.31, end: 944.81}
+  - {text: "So the elephants which are used to moving all across now suddenly find that there is a settlement.", start: 945.27, end: 949.43}
+  - {text: "So they come into contact with human beings.", start: 949.85, end: 951.69}
+  - {text: "And that's where the clash occurs.", start: 952.11, end: 953.59}
+  - {text: "Where people are using a variety of crude methods.", start: 953.59, end: 956.39}
+  - {text: "Like what they call as jaw bombs.", start: 956.73, end: 958.07}
+  - {text: "The elephant can pick up this, eat, and then sometime it explodes in the mouth.", start: 958.29, end: 961.77}
+  - {text: "And that's very cruel.", start: 962.01, end: 962.91}
+  - {text: "And also using illegal guns.", start: 963.15, end: 964.99}
+  - {text: "In fact, last week there was a very famous elephant was shot.", start: 965.19, end: 968.21}
+  - {text: "And he died of illness and injuries called Coventissa, a three meter high elephant.", start: 968.33, end: 972.47}
+  - {text: "So it is an increasing problem not only for elephants but also humans.", start: 972.65, end: 976.71}
+  - {text: "Sri Lanka already has this what you call as legal electric fencing where villages are protected but they do not give you very strong electric current.", start: 977.07, end: 985.85}
+  - {text: "So the illegal ones, people just take the current directly from the wires and then they connect it.", start: 986.21, end: 991.55}
+  - {text: "That means that can prove fatal.", start: 991.57, end: 992.91}
+  - {text: "So the government is now taking action against those who are putting up these illegal fences.", start: 993.55, end: 998.13}
+  - {text: "Number one. And two, you have to live side by side.", start: 998.47, end: 1001.53}
+  - {text: "That's why they're encouraging people not to grow crops which are attracting elephants.", start: 1001.65, end: 1005.93}
+  - {text: "And also climate change.", start: 1006.27, end: 1007.57}
+  - {text: "And whenever there is no water, there is not enough food.", start: 1007.79, end: 1010.01}
+  - {text: "That's why people are talking about, you know, make this law tougher and at least enforce the law even though it is punishable by killing elephants.", start: 1010.01, end: 1017.21}
+  - {text: "It's hardly implemented because of political and various reasons.", start: 1017.65, end: 1021.01}
+  - {text: "And that's why people are calling for a change in agriculture and more robust law enforcing agencies.", start: 1021.15, end: 1026.71}
+  - {text: "Ambarasan, ethi Rajan. If you've ever been exhausted after a long week of full -time work, the details in this next story might surprise you.", start: 1027.33, end: 1036.56}
+  - {text: "A British man has been accused of juggling up to five full -time government jobs.", start: 1036.56, end: 1041.46}
+  - {text: "In court on Wednesday, he admitted making mistakes, but insisted he wasn't a criminal.", start: 1042.14, end: 1047.12}
+  - {text: "Prosecutors say the man managed to keep his overlapping jobs a secret because he was working from home.", start: 1047.80, end: 1053.34}
+  - {text: "Our employment correspondent Zoe Conway told Celia Hatton more about these extraordinary allegations.", start: 1053.92, end: 1058.80}
+  - {text: "It is an incredible story and it is also an incredible amount of taxpayer's money.", start: 1059.64, end: 1065.10}
+  - {text: "We are talking about $380 ,000 that he's accused of fraudulently earning and he was holding down multiple government and public sector jobs at the same time.", start: 1065.10, end: 1079.80}
+  - {text: "The period we're talking about that's caught so many people's attention is the spring of 2023.", start: 1080.36, end: 1086.34}
+  - {text: "So by this point, we're out of the COVID lockdown, but he's working entirely from home.", start: 1087.06, end: 1091.30}
+  - {text: "Cash and Chowdhury had five jobs during this period at the Department for Environment, Food and Rural Affairs, the UK Health Security Agency, the Food Standards Agency,", start: 1091.86, end: 1102.20}
+  - {text: "the Department for Business and Trade and the Home Office.", start: 1102.34, end: 1105.30}
+  - {text: "And to be clear, he was being paid full -time salaries during this period.", start: 1105.48, end: 1110.48}
+  - {text: "And the prosecution says that he was contracted to do 183 hours a week, which is more than the number of hours that exist in seven days.", start: 1110.94, end: 1120.54}
+  - {text: "And as you say, the prosecution alleged he did this by working entirely from home and through the use of sick notes.", start: 1120.54, end: 1126.66}
+  - {text: "In his defense, what Mr.", start: 1127.14, end: 1129.22}
+  - {text: "Chowdhury has said is that, yes, I made a mistake, but I don't believe there was criminal intent.", start: 1129.34, end: 1133.90}
+  - {text: "And he's talked a lot about feeling overwhelmed and stressed.", start: 1134.06, end: 1136.54}
+  - {text: "His mother was dying through some of this period.", start: 1136.96, end: 1139.50}
+  - {text: "He was her sole carer.", start: 1139.66, end: 1141.20}
+  - {text: "And so he's talked about his recurring post -traumatic stress disorder, that all this work was a lifeline for him.", start: 1141.76, end: 1148.32}
+  - {text: "He's been charged with nine counts of fraud.", start: 1148.32, end: 1151.32}
+  - {text: "He denies acting dishonestly or intending to make a dishonest gain.", start: 1151.76, end: 1155.72}
+  - {text: "How has this alleged to have all gone wrong for him?", start: 1155.94, end: 1159.16}
+  - {text: "He was juggling these jobs, we believe, and then what happened?", start: 1159.28, end: 1162.50}
+  - {text: "Well, we get to autumn, the fall of 2023.", start: 1163.06, end: 1166.32}
+  - {text: "And he leaves these jobs because his managers are complaining about his poor performance.", start: 1167.08, end: 1174.24}
+  - {text: "And then the fraud service catch up with him in 2024.", start: 1174.80, end: 1178.70}
+  - {text: "But of course, he denies all the charges.", start: 1179.22, end: 1180.58}
+  - {text: "Zoe Conway. Now, have you ever stayed in an Airbnb only to find a list of cleaning jobs waiting for you in the checkout instructions?", start: 1181.48, end: 1189.40}
+  - {text: "Well, your next day could come with fewer chores.", start: 1189.98, end: 1192.38}
+  - {text: "Beginning next month, Airbnb hosts will face restrictions on the checkout tasks they can set guests, including washing dishes and doing the laundry.", start: 1192.98, end: 1201.44}
+  - {text: "I spoke to the newsroom's Helena Burke about these new rules.", start: 1201.44, end: 1204.68}
+  - {text: "The exact wording from Airbnb and what hosts won't be allowed to ask of guests is anything that requires significant effort or time or would typically be performed by a cleaner.", start: 1205.42, end: 1214.92}
+  - {text: "So Airbnb says that includes things like asking guests to remove sheets from the bed and put them in the washing machine, expecting them to wash and put away dirty dishes,", start: 1215.56, end: 1224.04}
+  - {text: "or asking guests to take rubbish off -site out of the Airbnb.", start: 1224.38, end: 1227.70}
+  - {text: "Okay, so what's prompted these new restrictions then?", start: 1228.24, end: 1230.66}
+  - {text: "Airbnb hasn't explicitly stated why they're introducing these new rules for hosts, but there has certainly been a lot of discourse around checkout expectations in Airbnb's ever since the platform launched in 2008.", start: 1230.66, end: 1242.66}
+  - {text: "If you've ever booked an Airbnb, you probably notice that many of them come with a cleaning fee, and this can range from $40 up to a few hundred dollars.", start: 1243.18, end: 1251.66}
+  - {text: "And what guests take issue with is that with some of the listings, you have to pay the cleaning fee, and also on top of that, you have to clean the place yourself.", start: 1252.16, end: 1259.18}
+  - {text: "And it's that that many people feel is unreasonable.", start: 1259.18, end: 1261.58}
+  - {text: "Okay, so what has a reaction been from Airbnb guests and hosts to this rule change?", start: 1262.00, end: 1266.34}
+  - {text: "You said that some people do find it unreasonable.", start: 1266.46, end: 1268.38}
+  - {text: "Yeah, so because of that, there has been a lot of positive reaction to it from people who typically stay in Airbnb's as guests.", start: 1268.72, end: 1274.92}
+  - {text: "Online, some people have even said that this requirement to clean up at the end of their stay in an Airbnb has made them turn away from the platform completely and use hotels instead, where housekeeping manages all of that stuff.", start: 1275.36, end: 1286.02}
+  - {text: "And these people say that now these restrictions are introduced on what can be asked of guests.", start: 1286.02, end: 1290.96}
+  - {text: "They'll actually start using Airbnb's again.", start: 1291.22, end: 1293.38}
+  - {text: "There has been some backlash from hosts, though.", start: 1293.82, end: 1296.36}
+  - {text: "Some are afraid concerns that banning requirements like cleaning dishes or taking out the rubbish will lead to hygiene issues, bad smells, and increased risk of attracting rodents or flies.", start: 1296.82, end: 1306.92}
+  - {text: "Some other hosts have also warned that they'll have to pay cleaners more to do more work.", start: 1307.50, end: 1311.56}
+  - {text: "So they'll have to clean dishes with caked on food or wait around while the washing machine cycle finishes.", start: 1311.62, end: 1316.76}
+  - {text: "And they say that this increased in costs of cleaners will force them to then raise the cleaning fees paid by guests.", start: 1317.34, end: 1322.96}
+  - {text: "Despite these concerns raised by hosts, though, Airbnb is pushing ahead with these new rules and they'll apply to all listings everywhere in the world from the 20th of November.", start: 1323.52, end: 1332.42}
+  - {text: "Helena Burke, the acclaimed Irish filmmaker Martin McDonough has made what is being seen as his most political movie to date.", start: 1333.02, end: 1341.40}
+  - {text: "Wild Horse Nine has been on the festival circuit in recent weeks in the run -up to its release in cinemas early next month.", start: 1342.04, end: 1349.08}
+  - {text: "It's being tipped as a possible Oscar contender with a much -praised performance from its leading man, John Malkovich.", start: 1349.56, end: 1355.98}
+  - {text: "Alan Maloney, caught up with the director and cast on The Red Carpet.", start: 1356.46, end: 1359.70}
+  - {text: "Two men, a remote location, violence and plenty of humour.", start: 1361.72, end: 1366.38}
+  - {text: "Wild Horse Nine is very clearly from the mind of Oscar -winning London Irish director Martin McDonough.", start: 1366.90, end: 1372.52}
+  - {text: "Wow, first big heads.", start: 1372.52, end: 1375.04}
+  - {text: "It follows two CIA operatives played by Sam Rockwell and John Malkovich as they take a trip to Easter Island or Rapa Nui off the coast of Chile in 1973.", start: 1375.52, end: 1386.04}
+  - {text: "Easter Island, its indigenous name is Rapa Nui.", start: 1386.72, end: 1389.34}
+  - {text: "You shouldn't even know the word indigenous at your age.", start: 1390.40, end: 1394.32}
+  - {text: "McDonough's last film, The Banshees of Inner Sheeran, was nominated for nine Academy Awards.", start: 1396.88, end: 1402.12}
+  - {text: "That film took place on a remote island off the coast of Ireland with the horrors of the Irish Civil War in the background.", start: 1402.12, end: 1409.46}
+  - {text: "In contrast, Wild Horse Nine has Chile's violence spread onto Easter Island and have a direct consequence and lasting impact on the characters there.", start: 1410.16, end: 1419.62}
+  - {text: "It's a bold and deliberately political move from McDonough with Malkovich and Rockwell's characters directly involved in laying the groundwork for the overthrow of the democratically elected socialist government.", start: 1420.06, end: 1431.86}
+  - {text: "It's all about the CIA and Chile and what they did in 1973 which is pretty despicable stuff and what they did throughout most of the century.", start: 1432.38, end: 1440.50}
+  - {text: "So you can't really make a film like that without being a bit angry about it.", start: 1440.74, end: 1443.78}
+  - {text: "While the political events depicted in the film may be from over 50 years ago, Chilean actress Mariana de Girolamo who plays the role of idealistic", start: 1444.32, end: 1453.02}
+  - {text: "college student Monica believes they remain relevant for modern audiences.", start: 1453.02, end: 1457.40}
+  - {text: "I think that we need to keep having these conversations and keep our memory alive.", start: 1457.40, end: 1463.50}
+  - {text: "It's with art, with culture and we need to protect that especially in this moment.", start: 1464.02, end: 1469.52}
+  - {text: "Very few filmmakers today are able to handle tonal shifts within a work like McDonough and with his background as a playwright there are few better at crafting dialogue.", start: 1470.22, end: 1479.70}
+  - {text: "Actor Sam Rockwell sees an evolution in McDonough as a storyteller.", start: 1480.04, end: 1484.26}
+  - {text: "I think there's a maturity to his filmmaking.", start: 1484.54, end: 1486.72}
+  - {text: "Here I say he's an auteur now, he's obviously a great writer.", start: 1487.32, end: 1490.22}
+  - {text: "That view is echoed by fellow cast member John Malkovich.", start: 1491.04, end: 1494.26}
+  - {text: "He is funny and very sad.", start: 1494.72, end: 1497.78}
+  - {text: "I love his characters, studies and the way he writes.", start: 1498.42, end: 1502.00}
+  - {text: "Terrific script. How do you like your new president?", start: 1502.46, end: 1506.67}
+  - {text: "Malkovich in particular as the elder CIA agent coming to the end of his career gives a wonderful performance, a combination of swagger and regret mixed with the touch of lunacy that probably only Malkovich could manage.", start: 1507.25, end: 1520.63}
+  - {text: "It's a performance that marks him down as a serious awards contender.", start: 1520.99, end: 1525.13}
+  - {text: "The budget of Wild Horse 9 is reported to be as low as five million dollars.", start: 1526.43, end: 1531.05}
+  - {text: "That's a tiny sum when compared to large Hollywood productions.", start: 1531.39, end: 1534.99}
+  - {text: "And with an uncompromising story with his script and fantastic performances it's easy to see why many are predicting Oscar nominations for it in the future.", start: 1535.49, end: 1544.77}
+  - {text: "Hi, I'm Celia Hatton from the Global News Podcast.", start: 1577.79, end: 1580.47}
+  - {text: "We're working on a new special edition of the pod that's looking at China and what lies ahead for its powerful leader Xi Jinping.", start: 1580.87, end: 1587.77}
+  - {text: "At the end of this month the top ranks of China's Communist Party are meeting behind closed doors and it's believed around that time Xi Jinping", start: 1588.33, end: 1596.25}
+  - {text: "could indicate the next generation of leaders to run the country.", start: 1596.25, end: 1599.89}
+  - {text: "He's not stepping aside anytime soon but will get a sense of what lies ahead for China one of the world's superpowers.", start: 1600.33, end: 1606.81}
+  - {text: "So we're hoping for your questions on China and its future.", start: 1607.59, end: 1610.87}
+  - {text: "What do you want to know about Xi Jinping and how he operates?", start: 1611.45, end: 1614.09}
+  - {text: "We'll try to tackle the answers for you.", start: 1614.81, end: 1616.41}
+  - {text: "Send your emails and video and voice notes to the usual address globalpodcast .bbc .co .uk.", start: 1616.57, end: 1623.73}
+  - {text: "And this edition of the Global News Podcast was mixed by Chris Lovelock and the producer was Emma Joseph.", start: 1624.25, end: 1629.65}
+  - {text: "The editor is Karen Martin and I'm Ankara Desai.", start: 1630.23, end: 1633.05}
+  - {text: "Until next time, goodbye.", start: 1633.05, end: 1634.89}
+---
