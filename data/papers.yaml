@@ -5,8 +5,7 @@
 #
 # Per paper: id, title, short (group label), journal, stage, color, authors,
 #            link (optional), tasks[].
-#   stage ∈ idea | planning | drafting | internal | submitted | review |
-#           revision | accepted | published
+#   stage ∈ idea | planning | drafting | submitted | review | revision | accepted
 # Per task: name, status, priority, owner, start, due (YYYY-MM-DD, optional),
 #           note (optional, Markdown).
 #   status   ∈ todo | working | stuck | waiting | done
@@ -19,33 +18,25 @@ papers:
     title: "GLS/PSPG stabilized FEM for incompressible finite-strain hyperelastic dynamics"
     short: "GLS hyperelastic dynamics"
     journal: CMAME
-    stage: revision
+    stage: drafting
     color: "#579bfc"
     tasks:
       - name: "Discussion section: GLS vs VMS (Rossi 2016 / Thekkethil 2023), before Conclusions"
         status: working
         priority: high
         owner: PM
-        note: "Reviewer request. Discussion only — no extra GLS-vs-VMS comparison example."
-      - name: "Response letter, point by point"
-        status: todo
-        priority: high
-        owner: PM
+        note: "Discussion only — no extra GLS-vs-VMS comparison example."
       - name: "Volume error $\\varepsilon_{\\mathrm{vol}} = J-1$ in $L^1/L^2/L^\\infty$"
         status: todo
         priority: medium
         owner: PM
         note: "Do not borrow the third-order claim of the FEBDF2 + quadratic-element paper; the setting here is $P_1/P_1$."
-      - name: "Resubmit revised manuscript"
-        status: todo
-        priority: high
-        owner: PM
 
   - id: afsi
     title: "Automated Fluid-Structure Interaction Solver for Nonlinear Solid Mechanics (AFSI)"
     short: "AFSI"
     journal: IJNMBE
-    stage: revision
+    stage: drafting
     color: "#a25ddc"
     link: "/afsi/"
     tasks:
@@ -141,13 +132,13 @@ papers:
     title: "Computational Modelling of Coronary–Left Ventricular Coupling with Baroreflex Feedback"
     short: "Coronary–LV baroreflex"
     journal: AMM
-    stage: review
+    stage: revision
     color: "#ff158a"
     authors: "P. Ma, X. Wang, L. Cai*, H. Gao"
     tasks:
-      - name: "Submitted — awaiting decision"
-        status: waiting
-        priority: medium
+      - name: "Revise manuscript"
+        status: working
+        priority: high
         owner: PM
 
   - id: feedback-cmame

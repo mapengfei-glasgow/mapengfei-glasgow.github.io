@@ -100,7 +100,7 @@
   border-top: 1px solid var(--pb-line); background: var(--pb-head); padding: 0 8px;
 }
 .pb-table th:first-child, .pb-table td:first-child {
-  text-align: left; border-left: 6px solid var(--g); padding: 0 12px;
+  text-align: left; border-left: 6px solid var(--g); padding: 7px 12px; line-height: 1.4;
 }
 .pb-table thead th:first-child { border-top-left-radius: var(--pb-radius); }
 .pb-table thead th:last-child { border-top-right-radius: var(--pb-radius); }
@@ -108,11 +108,7 @@
 /* Task column stays put while the row scrolls sideways on narrow screens */
 .pb-table .c-task { position: sticky; left: 0; z-index: 1; background: inherit; }
 .pb-table thead .c-task { background: var(--pb-head); }
-.pb-table tfoot .c-task { background: var(--theme); }
 .pb-table tbody tr:hover { background: var(--pb-hover); }
-.pb-table tbody tr:hover td.c-task { box-shadow: inset 0 0 0 0 transparent; }
-.pb-table tfoot td { border-bottom: 0; border-right: 0; height: 34px; }
-.pb-table tfoot td:first-child { border-left-color: transparent; }
 
 .c-task { width: auto; min-width: 280px; }
 .c-owner { width: 72px; }
@@ -141,7 +137,7 @@
 .pb-empty { color: var(--tertiary); }
 
 .pb-battery {
-  display: flex; height: 22px; margin: 6px 8px; border-radius: 3px; overflow: hidden;
+  display: inline-flex; width: 120px; height: 8px; border-radius: 4px; overflow: hidden;
   background: var(--pb-line);
 }
 .pb-battery span { background: var(--c); }
@@ -151,12 +147,12 @@
   display: flex; gap: 12px; overflow-x: auto; padding-bottom: 8px; align-items: flex-start;
 }
 .pb-col { flex: 1 0 190px; min-width: 0; background: var(--pb-head); border-radius: var(--pb-radius); min-height: 120px; }
-.pb-col.is-zero { flex: 0 0 116px; min-height: 0; }
+.pb-col.is-zero { flex: 0 0 136px; min-height: 0; }
 .pb-col.is-zero .pb-colhead { border-radius: var(--pb-radius); font-size: 0.8rem; }
 .pb-colhead {
   background: var(--c); color: #fff; font-weight: 600; font-size: 0.88rem;
   padding: 8px 12px; border-radius: var(--pb-radius) var(--pb-radius) 0 0;
-  display: flex; justify-content: space-between;
+  display: flex; justify-content: space-between; gap: 8px; white-space: nowrap;
 }
 .pb-colhead span { opacity: .85; font-weight: 500; }
 .pb-cards { display: flex; flex-direction: column; gap: 8px; padding: 8px; }

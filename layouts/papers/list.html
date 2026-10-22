@@ -22,12 +22,10 @@
   (dict "k" "idea"      "label" "Idea"        "c" "#c4c4c4")
   (dict "k" "planning"  "label" "Planning"    "c" "#66ccff")
   (dict "k" "drafting"  "label" "Drafting"    "c" "#fdab3d")
-  (dict "k" "internal"  "label" "Co-authors" "c" "#ffcb00")
   (dict "k" "submitted" "label" "Submitted"   "c" "#579bfc")
   (dict "k" "review"    "label" "Under review" "c" "#a25ddc")
   (dict "k" "revision"  "label" "Revision"    "c" "#ff642e")
-  (dict "k" "accepted"  "label" "Accepted"    "c" "#00c875")
-  (dict "k" "published" "label" "Published"   "c" "#037f4c") }}
+  (dict "k" "accepted"  "label" "Accepted"    "c" "#00c875") }}
 {{- $stMap := dict }}{{ range $statuses }}{{ $stMap = merge $stMap (dict .k .) }}{{ end }}
 {{- $sgMap := dict }}{{ range $stages }}{{ $sgMap = merge $sgMap (dict .k .) }}{{ end }}
 
@@ -71,6 +69,13 @@
         <button type="button" class="pb-caret" aria-expanded="true" aria-label="Collapse group"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
         <h2 class="pb-gname">{{ .short }}</h2>
         <span class="pb-gcount">{{ len .tasks }} {{ cond (eq (len .tasks) 1) "task" "tasks" }}</span>
+        <span class="pb-battery" aria-label="Status breakdown">
+          {{- $n := len .tasks }}
+          {{- range $statuses }}
+          {{- $k := len (where $p.tasks "status" .k) }}
+          {{- if gt $k 0 }}<span style="flex: {{ $k }}; --c: {{ .c | safeCSS }}" title="{{ .label }}: {{ $k }}/{{ $n }}"></span>{{ end }}
+          {{- end }}
+        </span>
         <span class="pb-gmeta">
           <span class="pb-journal">{{ .journal }}</span>
           {{- with $sg }}<span class="pb-pill pb-stage" style="--c: {{ .c | safeCSS }}">{{ .label }}</span>{{ end }}
@@ -104,22 +109,6 @@
             </tr>
             {{- end }}
           </tbody>
-          <tfoot>
-            <tr>
-              <td class="c-task"></td>
-              <td class="c-owner"></td>
-              <td class="c-status" colspan="2">
-                <div class="pb-battery" aria-label="Status breakdown">
-                  {{- $n := len .tasks }}
-                  {{- range $statuses }}
-                  {{- $k := len (where $p.tasks "status" .k) }}
-                  {{- if gt $k 0 }}<span style="flex: {{ $k }}; --c: {{ .c | safeCSS }}" title="{{ .label }}: {{ $k }}/{{ $n }}"></span>{{ end }}
-                  {{- end }}
-                </div>
-              </td>
-              <td colspan="2"></td>
-            </tr>
-          </tfoot>
         </table>
       </div>
     </section>
