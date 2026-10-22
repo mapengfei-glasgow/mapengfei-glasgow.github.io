@@ -201,9 +201,51 @@ papers:
         status: todo
         priority: low
         owner: PM
-      - name: "Decide paper angle: discrepancy emulator (GNN + GP correction)?"
+
+  - id: discrepancy-emulator
+    title: "Geometry-aware discrepancy emulator: GNN mean + GP correction of full-cycle LV displacement"
+    short: "Geometry-aware discrepancy"
+    journal: CMAME
+    stage: idea
+    color: "#9cd326"
+    tasks:
+      - name: "Read Lanyon et al. 2025 (ABME) in full: are ensemble weights driven by geometry features?"
+        status: todo
+        priority: critical
+        owner: PM
+        note: "Decides whether the zero-shot novelty holds. Lanyon needs new-patient simulations to fit $w_i$ and $\\delta$; ours uses $\\mathbf{z}_{\\mathcal{G}}$ instead."
+      - name: "Feasibility: same-topology meshes? Residual PCA energy spectrum and $\\|\\mathbf{r}\\|/\\|\\mathbf{u}\\|$"
+        status: todo
+        priority: high
+        owner: PM
+        note: "$\\mathbf{r} = \\mathbf{u}_{\\mathrm{FE}} - \\mathbf{u}_{\\mathrm{GNN}}$ over the full cycle; map to UVC if topologies differ."
+      - name: "Check $\\mathbf{z}$–residual correlation (Spearman of $\\|\\mathbf{r}_i-\\mathbf{r}_j\\|$ vs $\\|\\mathbf{z}_i-\\mathbf{z}_j\\|$)"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Weak correlation → use SSM modes as $\\mathbf{z}$ or train the encoder jointly."
+      - name: "Go/no-go: zero-shot and $n_{\\mathrm{new}}=5$, no-$\\mathbf{z}$ vs GNN-embedding $\\mathbf{z}$"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Model: $c_k \\sim \\mathcal{GP}\\big(0, k_\\theta k_z\\big)$ on shared residual PCA basis; Kronecker $\\mathbf{K}_z \\otimes \\mathbf{K}_\\theta$. Stop if no clear gain."
+      - name: "Full ablation and UQ"
         status: todo
         priority: medium
+        owner: PM
+        note: "Pure GNN, $\\boldsymbol\\theta$-only GP, SSM $\\mathbf{z}$, Lanyon-style, ours; $n_{\\mathrm{new}} \\in \\{0,5,10,20,50\\}$; 95% coverage over the cycle."
+      - name: "Downstream inverse problem: synthetic cine motion → $\\boldsymbol\\theta$"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Show pure-GNN posterior bias and its correction, plus FE runs saved. Needed for CMAME; otherwise IJNMBE / BMMB."
+      - name: "Talk to Husmeier and Dalton about overlap; consider contacting Lanyon / Wilkinson"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "Optional 2nd contribution: physics-consistent $\\boldsymbol\\delta$, periodic drift correction, or active learning"
+        status: todo
+        priority: low
         owner: PM
 
   - id: coronary-lv
