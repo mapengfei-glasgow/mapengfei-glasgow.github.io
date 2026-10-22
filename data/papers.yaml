@@ -78,6 +78,31 @@ papers:
     color: "#00c875"
     link: "/posts/mv-paper/"
     tasks:
+      - name: "Tube + housing disc: G64/R2 pressure sweep (0.05, 0.1, 0.2, 0.5, 1 mmHg)"
+        status: working
+        priority: high
+        owner: PM
+        note: "Running to 5 s on euclid-29/30 and 8383 GPU 0/1. Compare lumen flow and peak velocity, end-gap exchange (bypass is not effective flow), $J$, displacement and stability."
+      - name: "Choose the pressure for ~200 cm/s and 600 mL/s lumen flow"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Measure lumen flow only; one pressure may not hit both targets."
+      - name: "G128/G256 at fixed pressure: solid density and tube end-gap"
+        status: todo
+        priority: high
+        owner: PM
+        note: "G256/R2 candidate: gap = 0.04969 cm ($1.185\\,\\Delta z$), passed 0.3 s, end-gap exchange ≈ 0.017% of lumen flow. R2 solid density not converged yet. Run past 0.75 s → 1 s → 5 s."
+      - name: "Full glamv G256/R2 (CBS43, modified, $\\Delta t = 1.25\\times10^{-6}$ s): NaN at 0.75 s"
+        status: stuck
+        priority: high
+        owner: PM
+        note: "Last saved frame ≈ 0.70 s. G128 runs fine."
+      - name: "Add back valve, chordae and physiological pressure, one at a time"
+        status: todo
+        priority: medium
+        owner: PM
+        note: "Recheck stability and deformation after each addition."
       - name: "Rerun IBAMR SarahMV model to t = 1.335"
         status: todo
         priority: high
