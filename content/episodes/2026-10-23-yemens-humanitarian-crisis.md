@@ -1,0 +1,289 @@
+---
+layout: single
+title: "Yemen's humanitarian crisis"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-23T00:00:00Z
+slug: "2026-10-23-yemens-humanitarian-crisis"
+audioDir: "2026-10-23-yemens-humanitarian-crisis"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-23-yemens-humanitarian-crisis/episode.mp3"
+totalDuration: 1551.4
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.66}
+  - {text: "I'm Nick Mars and in the early hours of Friday, the 23rd of October, these are our main stories.", start: 4.63, end: 8.93}
+  - {text: "We have a special BBC report from Yemen, a country at war and in the middle of a humanitarian crisis as malnutrition takes its toll.", start: 9.59, end: 17.57}
+  - {text: "We hear from North Korea where, with the Supreme Leader said to be sick, we're seeing his sister step into the limelight.", start: 18.19, end: 23.87}
+  - {text: "Could she replace him?", start: 24.15, end: 25.05}
+  - {text: "And thousands of Venezuelans are out on the streets calling for the safe return of the opposition leader, Maria Corina Machado.", start: 25.61, end: 32.03}
+  - {text: "Also in this podcast, Nepal becomes the first country to benefit from a new UN fund to help deal with the impact of climate change and...", start: 34.12, end: 42.20}
+  - {text: "This album, I feel like, is finding the ears of people who'd like it or need it or even use it as some sort of medicine because at the end of the day, that's what music is for me.", start: 42.20, end: 49.90}
+  - {text: "That is Ray, this year's winner of the hugely prestigious Mercury Prize.", start: 50.32, end: 54.08}
+  - {text: "But what sort of career boost can it give an artist?", start: 54.40, end: 56.94}
+  - {text: "We begin in Yemen, where the country's humanitarian crisis is worsening.", start: 60.67, end: 65.07}
+  - {text: "More than a quarter of a million people have been displaced as the war between Houthi rebels and Yemen's Saudi -backed government forces intensifies.", start: 65.77, end: 73.83}
+  - {text: "Parts of Yemen have been cut off from aid, leaving people with dwindling supplies of food, water and fuel.", start: 74.47, end: 80.33}
+  - {text: "The World Food Programme says that more than 2 million children under the age of five are acutely malnourished.", start: 81.05, end: 86.75}
+  - {text: "Our senior international correspondent Ola Gehrin reports from the port city of Aden on one family's struggle for survival.", start: 87.29, end: 94.15}
+  - {text: "I'm in the emergency room and a father has just arrived.", start: 96.43, end: 100.15}
+  - {text: "His name is Bajash Ali Hassan.", start: 100.45, end: 102.97}
+  - {text: "He has come in with his wife and all five of his children.", start: 103.75, end: 107.37}
+  - {text: "The two youngest are twins of Boy and a Girl.", start: 107.63, end: 110.81}
+  - {text: "They're 45 days old, but they are absolutely tiny.", start: 111.13, end: 115.85}
+  - {text: "They have whizzed arms and legs.", start: 116.65, end: 118.85}
+  - {text: "Their health looks very, very poor.", start: 119.05, end: 120.89}
+  - {text: "And their father had to flee from the war to get them here.", start: 120.89, end: 125.42}
+  - {text: "Were you scared on the journey?", start: 125.88, end: 127.72}
+  - {text: "Were you frightened for the family?", start: 127.96, end: 129.20}
+  - {text: "Yes, we were afraid because of the bombs and the shooting at us, as well as the drones hitting any civilian cars.", start: 129.94, end: 138.94}
+  - {text: "How hard has it been to get food for the twins?", start: 140.02, end: 143.30}
+  - {text: "It's very difficult. We buy small amounts of milk.", start: 144.38, end: 148.14}
+  - {text: "A can of milk is very expensive because of this war.", start: 148.82, end: 152.20}
+  - {text: "We feed them twice a day, whatever is available.", start: 152.84, end: 156.62}
+  - {text: "Sometimes they only have water.", start: 157.85, end: 159.47}
+  - {text: "I'm in the malnutrition unit.", start: 163.63, end: 165.57}
+  - {text: "And this is a place where you really see the impact of years of war, of poverty, and of malnutrition.", start: 166.14, end: 174.52}
+  - {text: "Since we've been here, children have been coming hour after hour.", start: 175.43, end: 179.71}
+  - {text: "There are 22 beds in this unit, but staff have been telling us they can only take in 13 patients at a time because they don't have the resources.", start: 180.21, end: 190.75}
+  - {text: "They don't have the nurses.", start: 191.05, end: 191.91}
+  - {text: "They don't have the doctors.", start: 192.19, end: 193.07}
+  - {text: "Money this unit used to receive from international organizations is no longer coming.", start: 193.91, end: 199.79}
+  - {text: "And that's had a really big impact.", start: 200.23, end: 201.69}
+  - {text: "A young doctor, Noor Muhammad, examines the twins, Raghad and Rad, a girl and a boy.", start: 204.48, end: 211.32}
+  - {text: "She says malnutrition is increasing before her eyes.", start: 212.00, end: 216.24}
+  - {text: "Now the war has flared up again.", start: 216.64, end: 218.78}
+  - {text: "So it's very, very bad and every day I see this.", start: 219.28, end: 222.80}
+  - {text: "And every day I become sad for them because it is very, very horrible.", start: 223.32, end: 228.62}
+  - {text: "Given all of these conditions, are you losing many patients?", start: 229.10, end: 233.42}
+  - {text: "Sad to say that, but yeah, we lose patients.", start: 233.90, end: 236.78}
+  - {text: "We don't have any good medical equipment for them, like ventilation machines, oxygen bottles.", start: 236.78, end: 244.54}
+  - {text: "The medical equipment here is very low.", start: 245.16, end: 247.32}
+  - {text: "Well, the twins have now been admitted.", start: 249.24, end: 251.74}
+  - {text: "They are both sharing a bed.", start: 252.56, end: 254.46}
+  - {text: "Hospital staff tell us they are suffering from severe acute malnutrition.", start: 255.32, end: 260.10}
+  - {text: "Their mother, Lina, has just been feeding them with a special fortified milk from a tiny bottle.", start: 261.50, end: 268.60}
+  - {text: "Lina, how do you think they're doing now?", start: 269.20, end: 270.92}
+  - {text: "Things are better than before for the girl, but not for the boy.", start: 272.44, end: 276.44}
+  - {text: "He is even worse than before.", start: 276.94, end: 278.24}
+  - {text: "Lina, when they are discharged from the hospital, will you be able to go back home?", start: 278.76, end: 283.08}
+  - {text: "No, there's fighting there.", start: 283.68, end: 286.36}
+  - {text: "The Houthis are in our village.", start: 287.28, end: 288.78}
+  - {text: "Is there somewhere you can stay?", start: 290.12, end: 291.68}
+  - {text: "Not yet. My husband is still looking for a place.", start: 292.72, end: 296.16}
+  - {text: "Maybe a tent. That night, Bajash couldn't find anywhere, so he and the couple's three other children, all aged under five, slept on the street.", start: 297.04, end: 308.74}
+  - {text: "Orla Gerrin reporting from Yemen.", start: 309.56, end: 311.16}
+  - {text: "And the latest reports on the conflict say the Saudi state oil company, Aramco, has evacuated its headquarters amid fids of Houthi attacks.", start: 311.74, end: 320.86}
+  - {text: "The former US ambassador to Saudi Arabia, Michael Ratley, told the BBC what he's been hearing since he left the region nearly two weeks ago.", start: 321.59, end: 329.39}
+  - {text: "Yemen is just a humanitarian nightmare for its population.", start: 329.89, end: 333.85}
+  - {text: "But what we have on our hands is this conflict with the Houthis trying to murder Saudi civilians.", start: 334.27, end: 339.33}
+  - {text: "It could affect damage to Saudi infrastructure.", start: 339.53, end: 342.29}
+  - {text: "The Saudis feel obliged as a matter of national security to respond.", start: 342.57, end: 346.05}
+  - {text: "And it has been escalating.", start: 346.69, end: 348.31}
+  - {text: "It's pretty grim. It was escalating by the time I left about 10 days ago.", start: 348.61, end: 352.11}
+  - {text: "And in the last couple of days, it's gotten worse.", start: 352.77, end: 355.11}
+  - {text: "Evacuation of the Aramco headquarters in the eastern province.", start: 355.69, end: 359.01}
+  - {text: "And I saw a report that the Damam Airport, that's the nearby airport in the eastern province, was also hit late last night.", start: 359.39, end: 366.37}
+  - {text: "Michael Ratley. As you might expect from a place that's known as the Hermit Kingdom, North Korea is a secretive place where it's hard to find out what's really happening.", start: 366.69, end: 376.44}
+  - {text: "However, all week questions have been swirling about the health of the Supreme Leader, Kim Jong -un.", start: 376.44, end: 381.96}
+  - {text: "Pyongyang denies he's unwell.", start: 382.44, end: 384.30}
+  - {text: "What it is not contesting is the far more prominent role Mr.", start: 384.78, end: 388.18}
+  - {text: "Kim's sister is playing in public.", start: 388.36, end: 390.22}
+  - {text: "On Wednesday, Kim Yo -jong was seen inspecting the border with South Korea.", start: 390.70, end: 395.86}
+  - {text: "She said that propaganda loudspeakers will be reinstated along the entire length of the frontier.", start: 396.08, end: 401.30}
+  - {text: "Our correspondent, Jake Kwon, told me more about Kim Yo -jong.", start: 401.84, end: 404.84}
+  - {text: "Kim Yo -jong is North Korean leader's very powerful sister and she is holding one of the top jobs and she has been playing a bit of a spokesperson for the leader", start: 405.48, end: 414.56}
+  - {text: "and what we see is that she's often playing the bad cop to Kim Jong -un's good cop.", start: 414.56, end: 420.06}
+  - {text: "You might remember the last month, three South Korean officers were badly wounded when they stepped on a North Korean mine at the border.", start: 420.56, end: 427.60}
+  - {text: "But since then, we've seen her far more often than we have before and she has been issuing fiery statements every few days.", start: 428.08, end: 435.00}
+  - {text: "And the latest one, she calls South Korean officials idiots and tells them to shut up about North Korea.", start: 435.46, end: 441.16}
+  - {text: "And she has said that they have new fireteams at the border and they will be ready to deploy loud propaganda speakers at the border in a few days.", start: 441.58, end: 451.04}
+  - {text: "So she's been really turning up the heat there.", start: 451.24, end: 453.76}
+  - {text: "And not so long ago, we were hearing that it was going to be Kim Jong -un's daughter who was being primed to take over should he stand down at any point.", start: 454.18, end: 462.54}
+  - {text: "What's happened with that?", start: 462.54, end: 463.60}
+  - {text: "Yes, I mean, that is certainly what the South Korean spy agency believes.", start: 464.50, end: 468.10}
+  - {text: "She has been selected as heir to the throne of North Korea.", start: 468.62, end: 472.62}
+  - {text: "This is what the spy agency has been telling us.", start: 472.86, end: 474.86}
+  - {text: "But she was seen also wearing these matching leather coat and sunglasses on the state TV, inspecting troops and missiles with her father.", start: 475.38, end: 484.08}
+  - {text: "And she was also recently pictured with her father, but prominently given the same importance as her father.", start: 484.18, end: 489.82}
+  - {text: "And this is very important detail in North Korean state media.", start: 489.82, end: 493.00}
+  - {text: "But at the same time, she's only 13 and North Koreans are patriarchal on another level.", start: 493.76, end: 499.26}
+  - {text: "So those who escaped from North Korea have told me that it is fairly difficult to imagine her as the new leader.", start: 499.48, end: 505.14}
+  - {text: "And all this is a bit moot, isn't it?", start: 505.56, end: 507.32}
+  - {text: "Because Pyongyang says that the Supreme Leader is in fine health.", start: 507.32, end: 511.18}
+  - {text: "What do we know about an update on that?", start: 511.34, end: 513.26}
+  - {text: "Well, you know, there has been rumors swirling about Kim's health.", start: 514.48, end: 517.68}
+  - {text: "Some people saying he's died and whether North Korea will have a new leader.", start: 517.84, end: 521.52}
+  - {text: "But first of all, I should say that no expert we know is taking this rumor seriously.", start: 521.86, end: 526.16}
+  - {text: "And we've just seen him again making appearances as normal.", start: 526.58, end: 529.26}
+  - {text: "But part of why this rumor keeps cropping up is because right now it is unclear who will take over North Korea should something happen to Kim.", start: 529.72, end: 537.82}
+  - {text: "You know, despite its formal name, Democratic People's Republic of Korea, North Korea runs more like a hereditary kingdom and Kim's daughter is only 13.", start: 538.36, end: 546.94}
+  - {text: "And they never reveal who the heir is until the leader's health is obviously failing.", start: 546.94, end: 551.78}
+  - {text: "And we're talking about an absolute leader of a nuclear armed country who has been getting involved in world conflict.", start: 552.30, end: 559.50}
+  - {text: "And you know, really, that should speak itself on why this topic is a frequent subject of speculation.", start: 559.80, end: 564.78}
+  - {text: "Jake Kwan in Seoul.", start: 565.36, end: 566.74}
+  - {text: "Now, to Venezuela, where the main opposition party, Vente Venezuela, is holding a nationwide protest demanding the safe return of the party leader.", start: 567.54, end: 575.66}
+  - {text: "And 2025 Nobel Peace Prize laureate, Maria Corina Machado.", start: 575.66, end: 580.36}
+  - {text: "Last week, an alliance of Venezuelan opposition parties confirmed Mrs.", start: 580.94, end: 584.38}
+  - {text: "Machado as its leader.", start: 584.56, end: 585.58}
+  - {text: "She's currently living in exile in Panama, but has made several failed attempts to re -enter the country.", start: 586.14, end: 591.50}
+  - {text: "Here's our global news reporter, Mimi Swabey.", start: 591.90, end: 594.12}
+  - {text: "Thousands of opposition supporters have failed the streets across Venezuela, upholding flags, placards and wearing the Vente colors blue.", start: 594.70, end: 602.38}
+  - {text: "They're demanding three things.", start: 602.66, end: 604.22}
+  - {text: "Firstly, the release of all political prisoners.", start: 604.22, end: 606.24}
+  - {text: "Since January, we've seen a slew of political prisoners be released as part of an exchange with the interim president, Dettodriguez, backed by the US government as a sort of reconciliation efforts.", start: 606.68, end: 617.06}
+  - {text: "However, since then, there has been a trickle.", start: 617.26, end: 620.08}
+  - {text: "It really has slowed down and rights groups believe there are still between 300 and 500 political prisoners detained in the country.", start: 620.16, end: 626.68}
+  - {text: "Secondly, protesters are demanding the safe return of the opposition leader, Maria Corina Machado.", start: 627.22, end: 632.18}
+  - {text: "She is currently in Panama, where she's been for several months, despite repeatedly trying to get back into the country.", start: 632.18, end: 637.92}
+  - {text: "In September alone, we understand that she tried to get into the country three times, but was blocked.", start: 638.46, end: 643.40}
+  - {text: "She tried by air and by sea.", start: 643.68, end: 645.42}
+  - {text: "Now, this is something we've been hearing a lot, that the opposition are calling and demanding that their leader is allowed safely back into the country to return to Caracas.", start: 645.84, end: 654.02}
+  - {text: "This is something the US has said isn't the right time for.", start: 654.60, end: 657.76}
+  - {text: "They've said that the opposition leader is not going to be involved in opposition and interim government talks again backed by the US.", start: 657.88, end: 665.58}
+  - {text: "So she has very much been pushed to the peripheries of any kind of discussion between the opposition and interim government.", start: 665.76, end: 671.40}
+  - {text: "Lastly, demonstrators are demanding for free and fair elections.", start: 671.88, end: 675.98}
+  - {text: "They're saying that they are demanding there is a date set for next year.", start: 676.16, end: 679.72}
+  - {text: "Again, something we've heard repeated calls for.", start: 679.98, end: 682.78}
+  - {text: "However, President Trump has said Venezuela isn't ready for elections just yet.", start: 683.08, end: 687.14}
+  - {text: "These demonstrations, which are on a very large scale, come after Deltas Rodriguez, the interim president and President Trump have really solidified their relationship moving forward.", start: 687.14, end: 698.52}
+  - {text: "And this is mainly because the US and Venezuela have struck a very significant oil deal, resulting in around 65 billion barrels of oil being allowed", start: 698.72, end: 706.42}
+  - {text: "to be used by the US for at least 100 years.", start: 706.42, end: 709.12}
+  - {text: "So that is something, again, pushing the opposition leader to the peripheries.", start: 709.24, end: 713.30}
+  - {text: "It also comes after the third round of talks between the interim government and the Venezuelan opposition being held in Caracas, again backed by the US Macorubio.", start: 713.56, end: 721.98}
+  - {text: "US Secretary of State has a heavy influence in these.", start: 722.18, end: 724.72}
+  - {text: "However, the opposition leader, Maria Corina Machado, is not involved in these negotiations.", start: 725.06, end: 729.86}
+  - {text: "Mimi Swabey, the horse -drawn carriages in Central Park are one of New York City's most familiar sights.", start: 730.56, end: 737.57}
+  - {text: "But the popular tourist attraction will soon take its final ride.", start: 737.87, end: 741.29}
+  - {text: "The New York City Council has voted to ban the carriages from 2028.", start: 741.79, end: 745.59}
+  - {text: "Helena Burke has the details.", start: 746.29, end: 747.57}
+  - {text: "For more than 160 years, horse -drawn carriages have been transporting tourists around Central Park.", start: 753.05, end: 758.91}
+  - {text: "But over the past few decades, opposition to the practice has been growing.", start: 759.57, end: 763.17}
+  - {text: "Animal rights activists argued that the horses are mistreated, being forced to live in small stables built inside multi -story buildings.", start: 763.79, end: 771.09}
+  - {text: "I've been around horses.", start: 771.69, end: 772.75}
+  - {text: "I volunteer at sanctuaries.", start: 772.97, end: 774.13}
+  - {text: "I take care of horses.", start: 774.37, end: 775.23}
+  - {text: "They do best when they're in a field, where they're able to be with their friends and run around and do everything a horse would love to do naturally, where they can't get that here.", start: 775.77, end: 784.75}
+  - {text: "When they're living in a concrete building in a concrete city, it's not a place for a horse to live.", start: 784.91, end: 789.83}
+  - {text: "Opponents of the practice also point to its safety issues.", start: 790.17, end: 793.33}
+  - {text: "According to the Manhattan Borough President's Office, 40 horses working in Central Park have died since 1982.", start: 793.79, end: 799.43}
+  - {text: "The deaths were blamed on issues including overheating and collisions.", start: 800.31, end: 803.59}
+  - {text: "And it's not just the horses who face safety risks.", start: 804.23, end: 807.07}
+  - {text: "The bush to ban the carriages recently gained new momentum after a tourist died in June when he fell out of a carriage after the horse bolted.", start: 807.61, end: 815.09}
+  - {text: "Dozens of animal rights activists gathered outside the New York City Hall on Thursday as the city's council voted in favor of banning the carriages from June 2028.", start: 820.75, end: 830.37}
+  - {text: "Also outside the building were several carriage drivers who say their livelihood is being taken away.", start: 831.09, end: 836.05}
+  - {text: "Kristina Hansen is a carriage driver and spokesperson for the industry.", start: 836.61, end: 839.95}
+  - {text: "The city council today is taking the unprecedented step of voting to ban a lawful regulated business.", start: 840.23, end: 845.93}
+  - {text: "They are taking people's horses, they're taking their carriage medallions, they're taking their jobs with only a vague promise that somewhere down the road, the mayor's office will be able to fix it.", start: 846.59, end: 858.29}
+  - {text: "This should really concern anybody who has a license with the city of New York that they can just change the terms and decide they don't want you anymore.", start: 858.57, end: 867.27}
+  - {text: "The new bill requires the mayor of New York, Soram Mamdani, to produce a transition plan for the approximately 150 carriage drivers affected by the ban.", start: 867.75, end: 875.65}
+  - {text: "Our focus is on providing real support to the workers and the owners in this industry.", start: 876.03, end: 881.97}
+  - {text: "That support can look like equipping them with skills for a new kind of job.", start: 882.29, end: 887.95}
+  - {text: "It can also look at the importance of compensation when it comes to medallions.", start: 888.03, end: 893.89}
+  - {text: "And as for the horses, the bill stipulates that they can't be sent to a slaughterhouse or be transferred to any other carriage businesses.", start: 894.37, end: 901.27}
+  - {text: "Helena Burke reporting. Still to come in this podcast.", start: 902.03, end: 906.68}
+  - {text: "The Trump side are offered some dates in January.", start: 907.18, end: 908.94}
+  - {text: "The judge has said no, no, no, it has to happen by December the 11th.", start: 909.12, end: 912.12}
+  - {text: "Incrucially that the Trump side weren't being quick enough in disclosing documents and said they risked having the case thrown out if they didn't speed up on that.", start: 912.24, end: 919.64}
+  - {text: "A US judge sets a deadline for Donald Trump to answer questions under oath in his $10 billion defamation lawsuit against the BBC.", start: 920.04, end: 928.36}
+  - {text: "This is the Global News Podcast.", start: 935.39, end: 936.69}
+  - {text: "Three years ago, the UN climate conference agreed to set up a fund aimed at supporting poor countries hit by climate disasters.", start: 937.75, end: 944.47}
+  - {text: "And now money has been distributed from that fund for the first time.", start: 945.25, end: 948.49}
+  - {text: "It's going to Nepal, which was devastated by floods eight weeks ago.", start: 948.77, end: 952.35}
+  - {text: "More than 1400 people were killed.", start: 952.83, end: 954.69}
+  - {text: "Our global environment correspondent Navin Sinkadkar told Celia Hatton how much money Nepal will get and what it will be spent on.", start: 955.33, end: 962.45}
+  - {text: "It's 20 million US dollars, 1 .6 million extra as an overhead cost that is administrative.", start: 962.89, end: 969.21}
+  - {text: "But to basically deal with this massive loss, the Rassawa -Poteh Kushi officially corridor that we saw on August 26th to rebuild it, the bill is five billion US dollars.", start: 969.49, end: 980.97}
+  - {text: "They are saying it's actually nothing.", start: 981.11, end: 982.25}
+  - {text: "But yet officials are telling me that it has its own significance.", start: 982.67, end: 985.95}
+  - {text: "So this is the loss and damage fund.", start: 986.73, end: 988.35}
+  - {text: "All these developing poor countries, they have been fighting for many, many years now.", start: 988.59, end: 993.15}
+  - {text: "Essentially it started with the concept of compensation because these countries have always argued that they are suffering from the problems that they didn't create and therefore they need to be compensated.", start: 993.59, end: 1004.49}
+  - {text: "This loss and damage funds, it makes it clear that this is not going to be about compensation.", start: 1004.85, end: 1009.17}
+  - {text: "And that's why they're calling themselves fund for responding to loss and damage, not compensating.", start: 1009.51, end: 1015.31}
+  - {text: "That is because developed countries are aware or they're a bit wary in fact that if they start giving out compensation then they will be floodgates off all the claims from developing countries.", start: 1015.31, end: 1026.03}
+  - {text: "It was established three years ago.", start: 1026.49, end: 1028.11}
+  - {text: "The fund became operationalized last year and the money of course will come from developed countries.", start: 1028.31, end: 1034.59}
+  - {text: "It's established under the UN climate convention and the Paris Agreement combined.", start: 1035.07, end: 1040.01}
+  - {text: "The World Bank is the trustee.", start: 1040.57, end: 1042.11}
+  - {text: "But yes, it's developed countries money to go to developing countries including less developed countries or small island developing states.", start: 1042.49, end: 1050.35}
+  - {text: "So Nepal is the first recipient.", start: 1050.69, end: 1052.67}
+  - {text: "How will other countries be able to get some of this money?", start: 1053.21, end: 1055.85}
+  - {text: "119 countries had already made requests and the bill is close to three billion dollars whereas the fund has not even 350 million dollars.", start: 1057.03, end: 1067.11}
+  - {text: "Now even within that because Nepal has had this very, very extraordinary situation and it submitted this request that we want an urgent help and there were board members", start: 1067.67, end: 1078.07}
+  - {text: "who start lobbying for this and that's why this extraordinary meeting took place to set aside this money.", start: 1078.07, end: 1083.77}
+  - {text: "But like I said, 119 countries already waiting for their projects.", start: 1084.19, end: 1088.37}
+  - {text: "Some of them will be considered during this upcoming December meeting.", start: 1088.61, end: 1092.07}
+  - {text: "Navin Singh Katka A judge in the United States has given President Trump a deadline of December the 11th to answer questions under oath in connection with his defamation lawsuit against the BBC or risk having it thrown out.", start: 1092.33, end: 1106.13}
+  - {text: "Mr Trump accuses the BBC of intentionally maliciously and deceptively doctoring a speech he gave outside the Capitol in Washington on the 6th of January 2021.", start: 1106.73, end: 1117.19}
+  - {text: "Our chief North America correspondent, Gary O'Donohue told us more about what the judge had to say.", start: 1117.87, end: 1122.65}
+  - {text: "Well, Donald Trump was due to give that deposition last Friday and he cancelled citing issues of national importance and it came out in court today", start: 1123.29, end: 1131.11}
+  - {text: "that the BBC pointed out that actually what he was doing was a political rally and a fundraiser on that day.", start: 1131.11, end: 1136.65}
+  - {text: "So, the Trump side offered some dates in January.", start: 1136.83, end: 1139.05}
+  - {text: "The judge has said, no, no, no, it has to happen by December the 11th.", start: 1139.17, end: 1142.45}
+  - {text: "It could change, but the judge said it should be videotaped and also said crucially that the Trump side weren't being quick enough in disclosing documents", start: 1142.45, end: 1150.59}
+  - {text: "and said they risked having the case thrown out if they didn't speed up on that.", start: 1151.11, end: 1154.75}
+  - {text: "The BBC's point is that, and they haven't said anything formally since the hearing, by the way, it's being slow walked.", start: 1154.93, end: 1161.51}
+  - {text: "All they're getting from the Trump side is sort of stuff off the internet.", start: 1161.89, end: 1165.13}
+  - {text: "Some documents that they themselves have handed over, handed back to them that they're not really getting the financial disclosures.", start: 1165.53, end: 1171.63}
+  - {text: "They've issued a number of subpoenas.", start: 1171.87, end: 1173.43}
+  - {text: "There was another small victory for them today which means they can demand documents relating to Mar -a -Lago, the president's club.", start: 1173.79, end: 1180.95}
+  - {text: "The Trump side had tried to argue that was outside of this jurisdiction but the judge ruled in the BBC's favour on that one.", start: 1181.57, end: 1188.49}
+  - {text: "And the idea really is that this is being sort of, as I say, slow walked to cost the BBC a lot of money.", start: 1188.49, end: 1195.79}
+  - {text: "That's certainly what the BBC side would argue.", start: 1195.89, end: 1198.63}
+  - {text: "But, you know, crunch time is coming.", start: 1199.15, end: 1201.15}
+  - {text: "This deposition and the disclosure period has to end at some point.", start: 1201.39, end: 1204.91}
+  - {text: "It could be extended a little bit.", start: 1205.03, end: 1206.33}
+  - {text: "The BBC wouldn't necessarily oppose that, we understand.", start: 1206.41, end: 1208.77}
+  - {text: "But there is a provisional trial date and that is two weeks in the middle of February.", start: 1209.33, end: 1212.91}
+  - {text: "Gary O'Donoghue. The Mercury Prize is widely regarded as the British Isle's most prestigious music award.", start: 1213.53, end: 1220.38}
+  - {text: "It's given every year to the best music album by a UK or an Irish artist.", start: 1220.80, end: 1225.44}
+  - {text: "This year's winner is Ray for the album This Music May Contain Hope.", start: 1226.12, end: 1230.22}
+  - {text: "She fought off strong competition from the likes of Olivia Dean, Jade Swade, Florence the Machine and even Paul McCartney.", start: 1230.72, end: 1237.12}
+  - {text: "Our music correspondent, Annabel Rackham, was at the awards ceremony in the English City of Newcastle.", start: 1237.62, end: 1242.70}
+  - {text: "I asked her what it was about Ray's album that stood out for the judges.", start: 1242.92, end: 1246.18}
+  - {text: "One of the big considerations at the Mercury Prize is whether an album is conceptual or not, whether it takes you on a bit of a journey.", start: 1246.84, end: 1254.76}
+  - {text: "And I think that is certainly one of the biggest parts of Ray's album is the way that it world builds.", start: 1255.32, end: 1262.18}
+  - {text: "It's all about love and relationships, but it takes it through for distinct seasons.", start: 1262.66, end: 1267.72}
+  - {text: "So you've got the autumn, the winter, the spring and the summer and how that compares to being in love and going through the kind of motions of a relationship.", start: 1267.72, end: 1275.24}
+  - {text: "And there's also a real emotional element to the album.", start: 1275.24, end: 1278.90}
+  - {text: "When I spoke to her this evening, she was really emphatic about how important it was that she was reunited with the song books that she'd written the music for this album on that actually got stolen from her.", start: 1279.12, end: 1291.82}
+  - {text: "Two years ago, she wrote saying that her car had been stolen with all of her music for her new album in it and that she just couldn't go on making", start: 1291.96, end: 1298.96}
+  - {text: "that album obviously without such an important part.", start: 1298.96, end: 1301.50}
+  - {text: "That was eventually found and speaking to her, it seems like it gave her some more impetus to really put her heart and soul into this album.", start: 1301.92, end: 1310.52}
+  - {text: "And we can hear a little bit from her about how important it was, the people making the decision about this prize were really invested in the music industry as a whole.", start: 1310.66, end: 1320.86}
+  - {text: "It's just that critical acclaim or just being seen by people who really, really take music seriously, believing that my album deserves this.", start: 1320.98, end: 1330.24}
+  - {text: "I think that means a lot for me as a music lover.", start: 1330.52, end: 1332.80}
+  - {text: "I dedicate my life to it, like a headstrong 14 -years -old all -in plan, ain't no plan B.", start: 1332.80, end: 1338.34}
+  - {text: "And I feel really grateful that I took risks and not everyone liked it.", start: 1338.60, end: 1342.88}
+  - {text: "But I'm just so grateful that this album, I feel like, is finding the ears of people who do, who like it or need it or even use it as some sort of medicine because at the end of the day, that's what music is for me.", start: 1343.14, end: 1353.18}
+  - {text: "She is clearly incredibly proud of this album, isn't she?", start: 1353.56, end: 1357.38}
+  - {text: "What does it mean winning this prize for an artist's career?", start: 1357.54, end: 1361.56}
+  - {text: "You win a bit of money, but I think it's quite inconsequential when you think about how much money could be made from touring and streaming and things like that.", start: 1361.56, end: 1368.42}
+  - {text: "But what this is, is a prize that is awarded by the greatest people in the industry, whether that's music journalists, whether that's producers, other artists.", start: 1368.76, end: 1379.58}
+  - {text: "So it does mean a lot.", start: 1380.08, end: 1381.34}
+  - {text: "Most of the time, it will lead to an increase in streams or it might help further sell a tour that that artist has.", start: 1381.68, end: 1388.48}
+  - {text: "So it can vary, but one of the things to remember about Ray is she does have this massive platform now.", start: 1388.94, end: 1395.76}
+  - {text: "She is this huge star, but this is only her second album.", start: 1395.92, end: 1399.38}
+  - {text: "So I'm sure she's going to be recording new music soon.", start: 1399.68, end: 1402.22}
+  - {text: "So it probably gives her that boost of confidence in herself and also faith in the music that she's making because she does kind of stand out", start: 1402.28, end: 1409.88}
+  - {text: "as this artist that's able to transcend genres from pop to jazz to R &B.", start: 1409.88, end: 1415.76}
+  - {text: "She's amazing at doing that.", start: 1416.20, end: 1417.46}
+  - {text: "So I think it will only give her more impetus to continue with that.", start: 1417.50, end: 1420.02}
+  - {text: "Our music correspondent, Annabelle Rackham.", start: 1420.48, end: 1422.46}
+  - {text: "And now, a story that might inspire all of us to take a second look at items that might be stored away in our homes.", start: 1423.32, end: 1429.74}
+  - {text: "A retired decorator in England has struck it rich thanks to a collection of Pokemon cards he left in his attic for 15 years.", start: 1430.36, end: 1438.38}
+  - {text: "The man from Woking near London made around $2 million by selling the training cards at auction.", start: 1438.88, end: 1445.22}
+  - {text: "This report from our correspondent, Duncan Kennedy.", start: 1445.52, end: 1447.62}
+  - {text: "Pikachu, Charizard, Blastoise, Squirt.", start: 1448.18, end: 1451.58}
+  - {text: "They are the names to conjure up a golden cardboard childhood.", start: 1451.68, end: 1455.58}
+  - {text: "Pokemons came to the UK from Japan in 1999 and playgrounds turned into exchange grounds as millions of youngsters sought to bolster their collections.", start: 1456.42, end: 1466.36}
+  - {text: "At 100 ,000, we sell 100 ,000 pounds with the online buyer.", start: 1467.06, end: 1472.86}
+  - {text: "That 100 ,000 pounds was only for one folder of these pristine Pokemons.", start: 1473.08, end: 1477.80}
+  - {text: "The whole collection sold for £1 .6 million.", start: 1478.40, end: 1481.72}
+  - {text: "Auctioneer Alex Eubank says the anonymous owner found them whilst looking around his house.", start: 1483.34, end: 1489.06}
+  - {text: "In his attic that he collected 25 years ago, he had a group of Pokemon trading cards, master sets, sat him down, talked to him about how much they might fetch at auction and well, here we are now.", start: 1489.74, end: 1501.68}
+  - {text: "The auction attracted hundreds of online buyers.", start: 1502.10, end: 1504.86}
+  - {text: "Now a man really has come across cash in the attic by turning his childhood pastime into a pokey monstrous fortune.", start: 1505.26, end: 1513.62}
+  - {text: "This edition of the Global News Podcast was mixed by Paul Mason and the producer was Emma Joseph.", start: 1535.75, end: 1541.43}
+  - {text: "The editor is Karen Martin.", start: 1541.89, end: 1543.45}
+  - {text: "I'm Nick Miles and until next time, goodbye.", start: 1543.93, end: 1545.69}
+---

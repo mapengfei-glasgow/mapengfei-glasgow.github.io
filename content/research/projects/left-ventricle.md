@@ -1,10 +1,9 @@
 ---
 title: "Left Ventricle (LV)"
-description: "An emulator of ventricular contraction and dilation, built from finite-element displacement trajectories. Follow geometry preparation, learning and held-out evaluation in the study below."
+description: "Two lines of work on left ventricular mechanics: a left-heart fluid\u2013structure interaction experiment and a geometry-aware ventricular emulator. Each study documents its own model, results and limitations."
 area: "research"
 route: "left-ventricle"
 layout: "route"
 comments: false
+aliases: ["/tags/left-ventricle/", "/tags/left-ventricle/page/1/"]
 ---
-
-

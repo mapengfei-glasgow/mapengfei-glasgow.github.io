@@ -65,7 +65,7 @@
     "title": "Left Ventricle (LV)",
     "url": "/research/projects/left-ventricle/",
     "area": "Cardiac Simulation",
-    "intro": "An emulator of ventricular contraction and dilation, built from finite-element displacement trajectories. Follow geometry preparation, learning and held-out evaluation in the study below.",
+    "intro": "Two lines of work on left ventricular mechanics: a left-heart fluid\u2013structure interaction experiment and a geometry-aware ventricular emulator. Each study documents its own model, results and limitations.",
     "steps": [
       {
         "title": "Geometry, emulator and evaluation",
@@ -73,7 +73,13 @@
         "description": "Read the PCA geometry, graph model, training status and evaluation together."
       }
     ],
-    "extra": []
+    "extra": [
+      {
+        "title": "Liuyang left-heart FSI: 128\u00b3 simulation and pressure\u2013volume results",
+        "url": "/posts/liuyang-lv-20261023/",
+        "description": "Geometry, boundary conditions, flow animations and the limitations of the restarted, stabilised 1.8 s experiment. This is a separate simulation study from the emulator."
+      }
+    ]
   },
   "afsi": {
     "title": "AFSI",
