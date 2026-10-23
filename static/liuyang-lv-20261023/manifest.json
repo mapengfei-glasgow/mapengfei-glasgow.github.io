@@ -1,0 +1,66 @@
+{
+  "animate_flow.py": {
+    "bytes": 6882,
+    "sha256": "5dcba8e016e92a3ef56a9ab62652c636c8ae3a01c555beb4e05d0f59a26e933d"
+  },
+  "animate_views.py": {
+    "bytes": 10211,
+    "sha256": "ac9ae8cf898e1d845e8a9a37cb1e619acf64cfeb9ab141b573b90eac779bc857"
+  },
+  "blowup_nofb_pressure.mp4": {
+    "bytes": 3121170,
+    "sha256": "532f08057280aa5ac74e22e5ef35b3cdcb1fb6c0c871d0a4f7f2894637d08ac6"
+  },
+  "cycle_metrics.py": {
+    "bytes": 5075,
+    "sha256": "7cbafc851ab7adfd98db5cf428882d3fcc031c7579488658c6de35d05c720536"
+  },
+  "flow-poster.png": {
+    "bytes": 483334,
+    "sha256": "9b902ee990440d1c0b06d2ed577065af2bc9e4ef590897611d5c6fb5f5b98f66"
+  },
+  "flow.csv": {
+    "bytes": 15268,
+    "sha256": "7f1fb585cc0cd5a5c3baa6fcefdbf39ec71bd982660740490a59fbec73c55b12"
+  },
+  "full_N128_cycle.csv": {
+    "bytes": 3471,
+    "sha256": "3c52bd86b0434697212d727251e6ea0d3d43f17cc66160d24b9a1f5ea0d4eecd"
+  },
+  "full_N128_cycle.png": {
+    "bytes": 163934,
+    "sha256": "6df7b05ff80b9a69bfa57b99d94cfebf4f4d5763b260da70eec2a687777cdaf5"
+  },
+  "full_N128_flow.mp4": {
+    "bytes": 4267111,
+    "sha256": "61eb88fee4fac4c1996493bbeba73d9eb5fef2e55c6cc901370167c2b0d1f46f"
+  },
+  "full_N128_pressure.mp4": {
+    "bytes": 5582568,
+    "sha256": "2481ffc25d4b0bace594452598be2585b9f89d0e3127b8cdfce6c9e2888ba61e"
+  },
+  "full_N128_slices.mp4": {
+    "bytes": 4675670,
+    "sha256": "72902df010dda7e014b31a81a45fafd1585fdb61252059f2d124efa4d925b31d"
+  },
+  "full_N128_views3d.mp4": {
+    "bytes": 8286617,
+    "sha256": "6f50e9e424b188807d7fb38faca5a80437af6a8ea29def4e4b601481bb0362c8"
+  },
+  "pressure-poster.png": {
+    "bytes": 322191,
+    "sha256": "09f0dc3b6ee9de0f3d1c4e6d409025ded901a37974c328be7dc2f48ea8a48ce8"
+  },
+  "run_full_N128.sh": {
+    "bytes": 1162,
+    "sha256": "8ebf59963d24594da7a8b1411759b830813a2c4e83f0e767b426d1011ed55c12"
+  },
+  "slices-poster.png": {
+    "bytes": 361390,
+    "sha256": "5337ce434d1968e90028d3c30b693a82132166c1a610b867eca32ea1b2aa6694"
+  },
+  "views3d-poster.png": {
+    "bytes": 1083200,
+    "sha256": "3b0f5e27a1f50ed42f2258c37f3607734d05c73d46b753de3b6cd160d30fda5c"
+  }
+}
