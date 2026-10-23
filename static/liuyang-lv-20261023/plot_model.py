@@ -24,13 +24,30 @@ for k,ids in groups.items():
  print(k,len(t),flush=True)
 def meshes(p,transparent=False):
  for k,s in surfs.items():p.add_mesh(s,color=COL[k],opacity=(.15 if transparent and k in ('LV','LA','Vessels') else 1),smooth_shading=True,label=k)
+# The solver classifies spring families by the zero-based master index.
+NET=Path('/home/Pengfei.Ma@glasgow.ac.uk/WholeLVHeartModelling/LiuyangLV/Alltogether')
+NX=np.loadtxt(str(NET)+'.vertex',skiprows=1)-[-5,-26.5,133.35]
+sp=np.loadtxt(str(NET)+'.spring',skiprows=1)[:,:2].astype(np.int64)
+m=sp[:,0];chord=m<=1565
+leaf=((m>=2871)&(m<=3083))|((m>=4439)&(m<=4648))|((m>=5980)&(m<=6448))
+def network(p):
+ for mask,color,label,width in [(chord,'#713e24','MV chordae',3),((~chord)&(~leaf),'#318b8b','AV support fibres',1.5),(leaf,'#793ec0','AV leaflet fibres',2.5)]:
+  seg=sp[mask];poly=pv.PolyData(NX);poly.lines=np.c_[np.full(len(seg),2),seg].ravel()
+  p.add_mesh(poly,color=color,line_width=width,render_lines_as_tubes=True,label=label)
 def camera(p):
  p.camera_position=[(36,-35,29),(7.5,9,9),(0,0,1)];p.camera.parallel_projection=True;p.camera.parallel_scale=11
 p=pv.Plotter(shape=(1,2),off_screen=True,window_size=(2000,1100));p.set_background('#fafbfC')
 for i in range(2):
- p.subplot(0,i);meshes(p,i==1);camera(p)
- p.add_text('A  Reference geometry' if i==0 else 'B  Translucent chamber walls',font_size=18,color='#15263b')
- p.add_axes(viewport=(.78,.02,.98,.20));p.add_legend(size=(.23,.24),bcolor='white',face='r',loc='lower left')
+ p.subplot(0,i)
+ if i==0: meshes(p)
+ else:
+  for k,mesh in surfs.items():
+   opacity={'Vessels':.035,'End segments':.035,'LV':.10,'LA':.08,'MV':.55}.get(k,1.)
+   p.add_mesh(mesh,color=COL[k],opacity=opacity,smooth_shading=True,label=k)
+  network(p)
+ camera(p)
+ p.add_text('A  Reference geometry' if i==0 else 'B  Chordae and aortic-valve network',font_size=18,color='#15263b')
+ p.add_axes(viewport=(.78,.02,.98,.20));p.add_legend(size=(.30,.29 if i==1 else .24),bcolor='white',face='r',loc='lower left')
 p.screenshot(str(OUT/'geometry.png'));p.close()
 # Opening centres in shifted simulation coordinates; numbered circles are schematic radii.
 centres=np.array([[0,13.604,10.658],[0,9.341,12.040],[10.782,16.12,11.177],[11.600,11.838,16.13],[4.190,5.180,16.13]])
