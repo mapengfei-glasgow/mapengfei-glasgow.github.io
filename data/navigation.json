@@ -1,0 +1,48 @@
+{
+  "research": [
+    {
+      "title": "Projects",
+      "url": "/research/projects/",
+      "description": ""
+    },
+    {
+      "title": "Methods & Verification",
+      "url": "/research/methods/",
+      "description": ""
+    },
+    {
+      "title": "Research Notes",
+      "url": "/research/notes/",
+      "description": ""
+    }
+  ],
+  "english": [
+    {
+      "title": "Listening",
+      "url": "/episodes/",
+      "description": ""
+    },
+    {
+      "title": "Shows",
+      "url": "/categories/",
+      "description": ""
+    },
+    {
+      "title": "Vocabulary",
+      "url": "/words/",
+      "description": ""
+    }
+  ],
+  "tools": [
+    {
+      "title": "Files",
+      "url": "/files/",
+      "description": ""
+    },
+    {
+      "title": "Paper Board",
+      "url": "/papers/",
+      "description": ""
+    }
+  ]
+}

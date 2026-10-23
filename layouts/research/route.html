@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ $route := index site.Data.research .Params.route }}
+<article class="portal-hub">
+  <p class="portal-eyebrow">{{ $route.area }} · Reading route</p>
+  {{ partial "portal/heading.html" . }}
+  {{ if eq .Params.route "mitral-valve" }}<p class="portal-access-note">The manuscript and companion pages use the site sync-code sign-in. Public background notes are listed under further reading.</p>{{ end }}
+  <section class="portal-section" aria-labelledby="route-title">
+    <h2 id="route-title">Read in this order</h2>
+    <ol class="reading-route">
+      {{ range $route.steps }}
+      <li><a href="{{ .url | relURL }}"><h3>{{ .title }}</h3><p>{{ .description }}</p>{{ if .locked }}<span class="route-access">Sign-in required</span>{{ end }}</a></li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ with $route.extra }}
+  <section class="portal-section">
+    <h2>Further reading</h2>
+    <ul class="route-further">
+    {{ range . }}<li><a href="{{ .url | relURL }}">{{ .title }}</a>{{ if .locked }} <span class="route-access">Sign-in required</span>{{ end }}<p>{{ .description }}</p></li>{{ end }}
+    </ul>
+  </section>
+  {{ end }}
+  {{ if eq .Params.route "gpu-solver" }}<aside class="route-continue"><span class="portal-eyebrow">Continue to an application</span><a href="{{ "/research/projects/mitral-valve/" | relURL }}">Mitral Valve (MV) →</a><p>Use the project route to connect the solver methods to a cardiac study.</p></aside>{{ end }}
+  {{ with .Content }}<div class="post-content">{{ . }}</div>{{ end }}
+</article>
+{{ end }}

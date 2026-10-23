@@ -1,0 +1,146 @@
+{
+  "mitral-valve": {
+    "title": "Mitral Valve (MV)",
+    "url": "/research/projects/mitral-valve/",
+    "area": "Cardiac Simulation",
+    "intro": "A reading route through the GPU immersed fluid\u2013structure interaction study of the mitral valve. Start with the model and evidence, then inspect the detailed diagnostics.",
+    "steps": [
+      {
+        "title": "Model and formulation",
+        "url": "/posts/mv-paper/",
+        "description": "Read the study scope, governing equations and coupling choices.",
+        "locked": true
+      },
+      {
+        "title": "Meshes and refinement",
+        "url": "/posts/mv-meshes/",
+        "description": "Understand the G64/G128/G256 grids and R0/R1/R2 solid meshes.",
+        "locked": true
+      },
+      {
+        "title": "Tube and housing verification",
+        "url": "/posts/tube-housing-flow/",
+        "description": "Examine the supporting pressure, flow and end-gap experiments.",
+        "locked": true
+      },
+      {
+        "title": "Results and limitations",
+        "url": "/posts/mv-results-audit/",
+        "description": "Review completed runs, timestep sensitivity and known failure modes.",
+        "locked": true
+      },
+      {
+        "title": "Figures and animations",
+        "url": "/posts/mv-figures/",
+        "description": "Inspect the visual evidence alongside its numerical limitations.",
+        "locked": true
+      },
+      {
+        "title": "Data and reproduction",
+        "url": "/posts/mv-data-and-code/",
+        "description": "Find the code, settings and reproduction instructions.",
+        "locked": true
+      }
+    ],
+    "extra": [
+      {
+        "title": "Passive rim and gap mask",
+        "url": "/posts/mv-passive-rim-gap-mask/",
+        "description": "Details of the treatment outside the immersed tube.",
+        "locked": true
+      },
+      {
+        "title": "Griffith\u2013Chorin solver comparison",
+        "url": "/posts/griffith-chorin-tethered-partition-zh/",
+        "description": "Pressure boundary treatment and coupled solver investigations."
+      },
+      {
+        "title": "Aortic and mitral valve debugging",
+        "url": "/posts/av-mv-fsi-debugging/",
+        "description": "Historical diagnosis, working recipes and ruled-out hypotheses."
+      }
+    ]
+  },
+  "left-ventricle": {
+    "title": "Left Ventricle (LV)",
+    "url": "/research/projects/left-ventricle/",
+    "area": "Cardiac Simulation",
+    "intro": "An emulator of ventricular contraction and dilation, built from finite-element displacement trajectories. Follow geometry preparation, learning and held-out evaluation in the study below.",
+    "steps": [
+      {
+        "title": "Geometry, emulator and evaluation",
+        "url": "/posts/lv-emulator/",
+        "description": "Read the PCA geometry, graph model, training status and evaluation together."
+      }
+    ],
+    "extra": []
+  },
+  "afsi": {
+    "title": "AFSI",
+    "url": "/research/projects/afsi/",
+    "area": "Computational Mechanics",
+    "intro": "The Automated Fluid\u2013Structure Interaction Solver uses FEniCSx for immersed fluid\u2013solid coupling. Begin with the project introduction, then read the coupling and incompressibility notes before choosing a benchmark.",
+    "steps": [
+      {
+        "title": "Project introduction and benchmark library",
+        "url": "/afsi/",
+        "description": "Find the solver overview, code, requirements and available demos."
+      },
+      {
+        "title": "Nodal immersed finite element coupling",
+        "url": "/afsi/0-nodal-immersed-boundary-finite-element-method/",
+        "description": "Read the coupling formulation."
+      },
+      {
+        "title": "Interpolation\u2013spreading duality",
+        "url": "/afsi/0-duality/",
+        "description": "Understand the relation between the two transfer operations."
+      },
+      {
+        "title": "Incompressibility and volume penalty",
+        "url": "/afsi/0-incompressibility-divergence-free-volume-penalty/",
+        "description": "Distinguish fluid incompressibility from solid volume control."
+      }
+    ],
+    "extra": []
+  },
+  "gpu-solver": {
+    "title": "GPU Solver & Verification",
+    "url": "/research/methods/",
+    "area": "Computational Fluid Dynamics",
+    "intro": "Follow the solver from setup through fluid checks and immersed coupling, then continue to the mitral-valve application. The experiments state their own validation limits.",
+    "steps": [
+      {
+        "title": "Build and run",
+        "url": "/posts/fdm-3d-v1-build-and-run/",
+        "description": "Prepare dependencies, build the solver and run the first cases."
+      },
+      {
+        "title": "Basic verification: flat plate",
+        "url": "/posts/flat-plate-gpu-verification/",
+        "description": "Check mass balance, stability and refinement."
+      },
+      {
+        "title": "Fluid example: vortex decay",
+        "url": "/posts/gpu-vortex-decay-q-criterion/",
+        "description": "Inspect a no-slip-box flow, boundary conditions and Q-criterion."
+      },
+      {
+        "title": "Immersed sphere: lid-driven cavity",
+        "url": "/posts/lid-driven-cavity-sphere/",
+        "description": "Introduce tethered rigid-body coupling."
+      },
+      {
+        "title": "Immersed sphere: wake",
+        "url": "/posts/tethered-sphere-wake/",
+        "description": "Follow unsteady flow and sphere motion."
+      },
+      {
+        "title": "Fluid\u2013solid coupling and quadrature",
+        "url": "/posts/variational-fd-fsi-quadrature-study/",
+        "description": "Examine transfer integration and volume conservation."
+      }
+    ],
+    "extra": []
+  }
+}

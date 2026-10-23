@@ -6,6 +6,10 @@ academic: true
 ShowToc: true
 tags: ["CFD", "GPU", "sphere", "Q-criterion"]
 url: /posts/lid-driven-cavity-sphere/
+area: "research"
+readingRoute: "gpu-solver"
+areas: ["Computational Fluid Dynamics"]
+noteType: "Verification"
 ---
 
 This experiment places a spring/damper-tethered rigid sphere inside a unit

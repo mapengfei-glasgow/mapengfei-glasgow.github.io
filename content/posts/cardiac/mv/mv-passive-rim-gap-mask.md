@@ -8,8 +8,13 @@ comments: false
 searchHidden: true
 build:
   list: never
-tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+tags: ["GPU", "FSI"]
 url: /posts/mv-passive-rim-gap-mask/
+area: "research"
+readingRoute: "mitral-valve"
+areas: ["Cardiac Simulation"]
+noteType: "Research Note"
+projects: ["Mitral Valve"]
 ---
 
 Companion note to [the mitral-valve FSI working paper]({{< relref "mv-paper.md" >}}).

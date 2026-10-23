@@ -7,6 +7,10 @@ ShowToc: true
 TocOpen: false
 tags: ["GPU", "FSI"]
 url: /posts/fdm-3d-v1-build-and-run/
+area: "research"
+readingRoute: "gpu-solver"
+areas: ["Computational Fluid Dynamics"]
+noteType: "Reproduction"
 ---
 
 This page is the clean entry point for **what to install, how to build, and how

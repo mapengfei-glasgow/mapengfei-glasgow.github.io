@@ -1,0 +1,5 @@
+<a class="portal-topic-card" href="{{ .url | relURL }}">
+  {{ with .label }}<span class="portal-eyebrow">{{ . }}</span>{{ end }}
+  <h3>{{ .title }} <span aria-hidden="true">↗</span></h3>
+  <p>{{ .description }}</p>
+</a>

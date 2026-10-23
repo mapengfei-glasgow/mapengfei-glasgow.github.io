@@ -9,8 +9,13 @@ comments: false
 searchHidden: true
 build:
   list: never
-tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+tags: ["GPU", "FSI"]
 url: /posts/tube-housing-flow/
+area: "research"
+readingRoute: "mitral-valve"
+areas: ["Cardiac Simulation"]
+noteType: "Verification"
+projects: ["Mitral Valve"]
 ---
 
 **2026-10-22 更新：**第 8 节给出已完成的高压 5 s 长测及新增五级压差扫描；第 9 节汇总全部 27 组启动试验及管腔／端隙通量分析。数值完成不等于网格收敛或刚性验证。

@@ -8,8 +8,13 @@ bibliography: "bib/left-ventricle-emulator.bib"
 ShowToc: true
 TocOpen: false
 comments: false
-tags: ["Cardiac mechanics", "Graph neural networks", "PCA", "Cardiac Simulation"]
+tags: ["Graph neural networks", "PCA"]
 url: /posts/lv-emulator/
+area: "research"
+readingRoute: "left-ventricle"
+areas: ["Cardiac Simulation"]
+noteType: "Overview"
+projects: ["Left Ventricle"]
 ---
 
 This project learns an emulator of left ventricular (LV) contraction and dilation across ventricular shapes, material properties, and loading conditions. A finite-element solver provides displacement trajectories, and an augmented MeshGraphNet advances the nodal displacement in time.

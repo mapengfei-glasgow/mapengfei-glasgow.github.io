@@ -7,6 +7,10 @@ ShowToc: true
 TocOpen: false
 tags: ["CFD", "GPU", "verification", "flat plate"]
 url: /posts/flat-plate-gpu-verification/
+area: "research"
+readingRoute: "gpu-solver"
+areas: ["Computational Fluid Dynamics"]
+noteType: "Verification"
 ---
 
 A 32 × 32 × 16 flat-plate calculation completed without NaNs. That was a useful

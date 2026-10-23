@@ -1,13 +1,18 @@
 ---
 title: "Griffith 2009 耦合速度-压力求解器移植与 Chorin 对比"
-description: "It is a draft manuscript preparing for JFM."
+description: "Pressure boundary treatment and Griffith–Chorin solver comparison for immersed valve simulations."
 date: 2026-09-16
 academic: true
 ShowToc: true
 TocOpen: false
 Repository: CardioPhysX/mv-turbulance
-tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+tags: ["GPU", "FSI"]
 url: /posts/griffith-chorin-tethered-partition-zh/
+area: "research"
+readingRoute: "mitral-valve"
+areas: ["Cardiac Simulation"]
+noteType: "Research Note"
+projects: ["Mitral Valve"]
 ---
 
 ## 0. 结论先写在前面

@@ -1,7 +1,7 @@
 {
-  "name": "English Listening",
-  "short_name": "Listening",
-  "description": "Learn English with podcasts: every episode is transcribed and timestamped sentence by sentence, with plain-English notes above A2 level.",
+  "name": "Pengfei Ma",
+  "short_name": "Pengfei Ma",
+  "description": "Computational Mechanics \u00b7 Research \u00b7 Learning",
   "id": "/",
   "start_url": "/",
   "scope": "/",
@@ -16,7 +16,7 @@
   "lang": "en",
   "categories": [
     "education",
-    "news"
+    "productivity"
   ],
   "icons": [
     {

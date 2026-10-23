@@ -1,0 +1,30 @@
+<article class="portal-hub">
+  {{ partial "portal/heading.html" . }}
+  {{ $hub := .Params.hub }}
+  {{ if in (slice "research" "projects") $hub }}
+  <section class="portal-section" aria-label="Research projects">
+    <div class="portal-section-heading"><h2>Projects</h2><span>Follow a study from model to evidence</span></div>
+    <div class="portal-topic-grid">
+      {{ range slice "mitral-valve" "left-ventricle" "afsi" }}
+        {{ $r := index site.Data.research . }}
+        {{ partial "portal/card.html" (dict "title" $r.title "url" $r.url "description" $r.intro "label" $r.area) }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  {{ if eq $hub "research" }}
+  <section class="portal-section" aria-label="Methods and supporting material">
+    <div class="portal-topic-grid portal-topic-grid-two">
+      {{ partial "portal/card.html" (dict "title" "Methods & Verification" "url" "/research/methods/" "description" "Follow the GPU solver from setup and fluid checks to immersed fluid–solid coupling." "label" "Reading route") }}
+      {{ partial "portal/card.html" (dict "title" "Research Notes" "url" "/research/notes/" "description" "Boundary treatments, debugging and other supporting investigations." "label" "Further reading") }}
+    </div>
+  </section>
+  {{ end }}
+  {{ if eq $hub "tools" }}
+  <div class="portal-topic-grid portal-topic-grid-two">
+    {{ partial "portal/card.html" (dict "title" "Files" "url" "/files/" "description" "Browse the file library and access shared material." "label" "Library") }}
+    {{ partial "portal/card.html" (dict "title" "Paper Board" "url" "/papers/" "description" "Publication stages, tasks and priorities across research papers." "label" "Planning") }}
+  </div>
+  {{ end }}
+  {{ with .Content }}<div class="post-content portal-prose">{{ . }}</div>{{ end }}
+</article>

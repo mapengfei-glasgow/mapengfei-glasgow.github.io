@@ -8,8 +8,13 @@ comments: false
 searchHidden: true
 build:
   list: never
-tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+tags: ["GPU", "FSI"]
 url: /posts/mv-figures/
+area: "research"
+readingRoute: "mitral-valve"
+areas: ["Cardiac Simulation"]
+noteType: "Results"
+projects: ["Mitral Valve"]
 ---
 
 Companion to [the working paper]({{< relref "mv-paper.md" >}}).

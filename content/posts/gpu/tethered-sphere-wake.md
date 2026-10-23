@@ -6,6 +6,10 @@ academic: true
 ShowToc: true
 tags: ["CFD", "GPU", "sphere", "Q-criterion"]
 url: /posts/tethered-sphere-wake/
+area: "research"
+readingRoute: "gpu-solver"
+areas: ["Computational Fluid Dynamics"]
+noteType: "Verification"
 ---
 
 This trial simulates flow past a translating rigid sphere attached to an

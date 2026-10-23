@@ -7,7 +7,7 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Listening">
+<meta name="apple-mobile-web-app-title" content="{{ site.Title }}">
 {{- /* Custom styles: player, sentence list, vocabulary book, auth modal
        (loaded after PaperMod's own stylesheets).
        The ?v= is a content hash: GitHub Pages serves static files with
@@ -65,3 +65,5 @@ window.MathJax = {
 {{- end }}
 
 {{ partial "word-notes.html" . }}
+
+<link rel="stylesheet" href="{{ (resources.Get "css/portal.css" | fingerprint).RelPermalink }}">

@@ -1,0 +1,14 @@
+{{ $area := partial "portal/area.html" . }}
+{{ $page := . }}
+{{ with index site.Data.navigation $area }}
+<nav class="portal-section-nav" aria-label="{{ strings.Title $area }} navigation">
+  <div><a class="portal-section-root" href="{{ printf "/%s/" $area | relURL }}">{{ strings.Title $area }}</a><span aria-hidden="true">/</span>
+  {{ range . }}
+    {{ $active := hasPrefix $page.RelPermalink .url }}
+    {{ if and (eq .url "/research/projects/") (in (slice "mitral-valve" "left-ventricle" "afsi") $page.Params.readingRoute) }}{{ $active = true }}{{ end }}
+    {{ if and (eq .url "/research/methods/") (eq $page.Params.readingRoute "gpu-solver") }}{{ $active = true }}{{ end }}
+    {{ if and (eq .url "/research/notes/") (eq $page.Section "posts") (not $page.Params.readingRoute) }}{{ $active = true }}{{ end }}
+    <a href="{{ .url | relURL }}"{{ if $active }} aria-current="{{ if eq $page.RelPermalink .url }}page{{ else }}true{{ end }}"{{ end }}>{{ .title }}</a>
+  {{ end }}</div>
+</nav>
+{{ end }}

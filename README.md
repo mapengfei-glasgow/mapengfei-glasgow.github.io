@@ -1,4 +1,12 @@
-# English Listening
+# Pengfei Ma — personal portal
+
+Computational Mechanics · Research · Learning. The homepage introduces the site
+through Research, English Learning and Tools. The top navigation contains
+Research, English, Tools and About; second-level links stay within each area.
+The exercise library is retained at `/exercises/` but hidden from navigation
+and content discovery.
+
+## English Learning
 
 Podcast audio is transcribed and **timestamped sentence by sentence**, so tapping
 any sentence jumps playback to that exact moment. The episode audio stays loaded
@@ -618,9 +626,27 @@ it, but it no longer grows.
 
 ## Research content organisation
 
-`/research/` is the topic guide, also linked from the main menu and Blog.
-Use canonical tags `GPU`, `MV` (mitral valve), `Cardiac Simulation` and `FSI`;
-combine tags where appropriate instead of duplicating articles.
+`/research/` introduces projects, methods and supporting notes. Its project
+guides live at `/research/projects/`; `/research/methods/` is the GPU reading
+route. `/posts/` remains the chronological Notes archive.
+
+Classification separates three concepts:
+
+- `areas`: scientific fields, e.g. `Cardiac Simulation`.
+- `projects`: studies, e.g. `Mitral Valve`, `Left Ventricle`, `AFSI`.
+- `tags`: techniques and diagnostics, e.g. `GPU`, `FSI`, `Verification`.
+
+The `noteType` field names the role of an article: Overview, Methods,
+Verification, Results, Reproduction or Research Note. `readingRoute` selects
+its guide from `data/research.json`. That data defines the reading sequence,
+short labels and supporting notes; the same sequence drives article-level
+prerequisites and next-reading links. Edit it once to keep both in sync.
+`data/navigation.json` defines second-level navigation. `portal/area.html`
+resolves area membership for existing sections without changing their URLs.
+
+Old `/tags/mv/`, `/tags/cardiac-simulation/` and `/tags/cardiac-mechanics/`
+URLs redirect to the matching project or area. Add aliases when retiring a
+classification; preserve all published article URLs.
 
 Research source files live under `content/posts/`:
 
@@ -639,3 +665,10 @@ Assets keep their existing public paths (`static/data/`, `static/images/mv/`,
 `static/fdm/` and experiment directories) because manuscript downloads and external
 references depend on them. Group new assets by project and date; avoid renaming
 scientific source/export filenames without updating their provenance manifests.
+
+
+Portal templates live in `layouts/partials/portal/`, `layouts/hub/` and
+`layouts/research/`, with styles in `assets/css/portal.css`. The English hub
+reuses the original listening homepage at `/english/`. The web manifest uses
+the portal identity; the separately built Android package keeps its existing
+application name and signing configuration.

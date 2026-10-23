@@ -3,6 +3,16 @@ title: "AFSI"
 description: "AFSI — an automated fluid–structure interaction solver on FEniCSx: notes on every demo in the repository, with configurations, results and caveats."
 date: 2026-09-12
 academic: true
+area: research
+readingRoute: afsi
+areas: ["Computational Mechanics"]
+projects: ["AFSI"]
+cascade:
+  area: research
+  readingRoute: afsi
+  areas: ["Computational Mechanics"]
+  projects: ["AFSI"]
+  noteType: "Research Note"
 ---
 
 **AFSI** (*Automated Fluid–Structure Interaction Solver*) couples an

@@ -1,0 +1,13 @@
+{{ with .Params.readingRoute }}
+{{ $r := index site.Data.research . }}
+<aside class="reading-context" aria-label="Reading context">
+  <p><span class="portal-eyebrow">{{ $.Params.noteType | default "Research Note" }}</span> <a href="{{ $r.url | relURL }}">{{ $r.title }}</a></p>
+  {{ $prior := dict "title" "Project guide" "url" $r.url }}
+  {{ range $r.steps }}
+    {{ if eq $.RelPermalink .url }}<p class="reading-prerequisite">Suggested first: <a href="{{ $prior.url | relURL }}">{{ $prior.title }}</a></p>{{ end }}
+    {{ $prior = . }}
+  {{ end }}
+  {{ $isStep := false }}{{ range $r.steps }}{{ if eq $.RelPermalink .url }}{{ $isStep = true }}{{ end }}{{ end }}
+  {{ if not $isStep }}<p class="reading-prerequisite">Suggested first: <a href="{{ $r.url | relURL }}">Read the project guide</a></p>{{ end }}
+</aside>
+{{ end }}

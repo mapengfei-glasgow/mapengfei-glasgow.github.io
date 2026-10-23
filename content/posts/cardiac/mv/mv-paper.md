@@ -1,5 +1,5 @@
 ---
-title: "Mitral-valve FSI on GPUs with a nodal immersed finite element / finite difference method"
+title: "Mitral Valve (MV): GPU fluid–structure interaction"
 description: "Working paper. Sign in with your site sync code to read."
 date: 2026-10-14
 layout: protected-paper
@@ -8,8 +8,13 @@ comments: false
 searchHidden: true
 build:
   list: never
-tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+tags: ["GPU", "FSI"]
 url: /posts/mv-paper/
+area: "research"
+readingRoute: "mitral-valve"
+areas: ["Cardiac Simulation"]
+noteType: "Overview"
+projects: ["Mitral Valve"]
 ---
 
 Target journal: Journal of Fluid Mechanics

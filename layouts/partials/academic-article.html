@@ -45,6 +45,7 @@
         </div>
         {{- end }}
       </header>
+      {{ partial "portal/reading-context.html" . }}
       {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
       {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
 

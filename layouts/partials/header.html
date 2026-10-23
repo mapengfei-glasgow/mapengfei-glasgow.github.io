@@ -88,6 +88,7 @@
             {{- end }}
         </div>
         {{- $currentPage := . }}
+        {{- $area := partial "portal/area.html" . }}
         <ul id="menu" class="menu">
             {{- range site.Menus.main }}
             {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
@@ -96,7 +97,7 @@
             <li>
                 <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
                 {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
-                    <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                    <span {{- if or (eq $menu_item_url $page_url) (eq .URL (printf "/%s/" $area)) }} class="active" {{- end }}>
                         {{- .Pre }}
                         {{- .Name -}}
                         {{ .Post -}}
@@ -116,3 +117,4 @@
         <button id="auth-chip" class="auth-chip" type="button" hidden>Sign in</button>
     </nav>
 </header>
+{{ partial "portal/section-nav.html" . }}

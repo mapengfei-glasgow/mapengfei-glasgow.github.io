@@ -1,0 +1,5 @@
+<header class="portal-heading">
+  {{ with .Params.eyebrow }}<p class="portal-eyebrow">{{ . }}</p>{{ end }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="portal-lead">{{ . }}</p>{{ end }}
+</header>

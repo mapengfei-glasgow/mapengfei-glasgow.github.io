@@ -1,0 +1,11 @@
+{{ with .Params.readingRoute }}
+{{ $r := index site.Data.research . }}
+{{ $next := dict "title" "Return to the project guide" "url" $r.url }}
+{{ range $i, $step := $r.steps }}
+  {{ if eq $.RelPermalink $step.url }}
+    {{ if lt (add $i 1) (len $r.steps) }}{{ $next = index $r.steps (add $i 1) }}
+    {{ else if eq $.Params.readingRoute "gpu-solver" }}{{ $next = dict "title" "Mitral Valve (MV): application reading route" "url" "/research/projects/mitral-valve/" }}{{ end }}
+  {{ end }}
+{{ end }}
+<aside class="route-continue" aria-label="Continue reading"><span class="portal-eyebrow">Continue reading</span><a href="{{ $next.url | relURL }}">{{ $next.title }} →</a><p><a href="{{ $r.url | relURL }}">See the full reading route</a></p></aside>
+{{ end }}
