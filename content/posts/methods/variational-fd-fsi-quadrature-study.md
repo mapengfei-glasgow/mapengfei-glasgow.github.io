@@ -6,6 +6,7 @@ academic: true
 ShowToc: true
 TocOpen: false
 tags: ["FSI", "GPU", "verification", "finite elements"]
+url: /posts/variational-fd-fsi-quadrature-study/
 ---
 
 Can a coarse finite-element solid mesh interact accurately with a finer

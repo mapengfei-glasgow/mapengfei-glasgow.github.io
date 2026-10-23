@@ -305,6 +305,24 @@ deploy notes — including how to create the private bucket and the secret — a
 > is empty — which is exactly how `/files/` quietly lost its backend
 > (`data-api=none`) and the audio `audioBase` fallback stopped working.
 
+## Paper board (`/papers/`)
+
+A monday.com-style board for paper-publication tasks: **Main table** (one
+coloured group per paper, full-bleed status/priority cells, a status bar per
+group), **Kanban** (tasks by status) and **Pipeline** (papers by stage, Idea →
+Published). Search, *Hide done* and collapsed groups are remembered per browser;
+overdue dates are flagged against the viewer's date.
+
+The page is **read-only**. Everything is rendered at build time from
+`data/papers.yaml` (format documented at the top of that file), and that file is
+edited from a single Claude chat session — there is no edit UI or backend.
+
+- `content/papers/_index.md` — title; `searchHidden` + `robotsNoIndex`.
+- `layouts/papers/list.html` — the three views.
+- `assets/css/papers.css`, `assets/js/papers.js` — loaded on this section only
+  (`extend_head.html`); `mathjax: true` in the front matter enables `$…$` in
+  task names and notes.
+
 ## The vocabulary book (`/words/`, the ☆ buttons)
 
 One shared secret and one JSON document, both in Cloudflare:
@@ -597,3 +615,27 @@ it, but it no longer grows.
 1. Download the MP3 with `bbc_podcast.py` or by hand
 2. Run `make_episode.py`
 3. Reload the site (or push — GitHub Actions publishes it)
+
+## Research content organisation
+
+`/research/` is the topic guide, also linked from the main menu and Blog.
+Use canonical tags `GPU`, `MV` (mitral valve), `Cardiac Simulation` and `FSI`;
+combine tags where appropriate instead of duplicating articles.
+
+Research source files live under `content/posts/`:
+
+- `gpu/`: fluid experiments and verification.
+- `methods/`: solver setup and coupling methods.
+- `cardiac/mv/`: MV manuscript, companion notes and valve experiments.
+- `cardiac/lv/`: left ventricular mechanics and emulation.
+
+Use lowercase hyphenated filenames. Existing descriptive filenames and explicit
+`url: /posts/<slug>/` front matter preserve published links and giscus threads
+when directories change. Keep Markdown relref targets unique across the site.
+Protected companion pages retain their sign-in layout and listing exclusions.
+The topic guide links to them explicitly; taxonomy lists honour those exclusions.
+
+Assets keep their existing public paths (`static/data/`, `static/images/mv/`,
+`static/fdm/` and experiment directories) because manuscript downloads and external
+references depend on them. Group new assets by project and date; avoid renaming
+scientific source/export filenames without updating their provenance manifests.

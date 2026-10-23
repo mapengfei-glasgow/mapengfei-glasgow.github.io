@@ -8,6 +8,8 @@ comments: false
 searchHidden: true
 build:
   list: never
+tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+url: /posts/mv-figures/
 ---
 
 Companion to [the working paper]({{< relref "mv-paper.md" >}}).

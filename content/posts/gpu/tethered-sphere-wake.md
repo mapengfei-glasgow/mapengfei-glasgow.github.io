@@ -5,6 +5,7 @@ date: 2026-10-16T00:00:00+08:00
 academic: true
 ShowToc: true
 tags: ["CFD", "GPU", "sphere", "Q-criterion"]
+url: /posts/tethered-sphere-wake/
 ---
 
 This trial simulates flow past a translating rigid sphere attached to an

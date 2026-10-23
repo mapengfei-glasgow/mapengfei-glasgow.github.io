@@ -6,6 +6,7 @@ academic: true
 ShowToc: true
 TocOpen: false
 tags: ["CFD", "GPU", "vorticity", "Q-criterion"]
+url: /posts/gpu-vortex-decay-q-criterion/
 ---
 
 This experiment follows interacting three-dimensional vortices in a closed

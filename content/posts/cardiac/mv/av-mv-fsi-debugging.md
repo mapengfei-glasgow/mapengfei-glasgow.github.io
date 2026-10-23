@@ -5,6 +5,8 @@ date: 2026-09-13
 academic: true
 ShowToc: true
 TocOpen: false
+tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+url: /posts/av-mv-fsi-debugging/
 ---
 
 ## 0. Start here: the working recipes and results

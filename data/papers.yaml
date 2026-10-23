@@ -1,0 +1,479 @@
+# Paper-publication board (/papers/).
+#
+# This file is the board's only data source and is edited from one Claude
+# chat session; the page itself is read-only (no edit UI, no backend).
+#
+# Per paper: id, title, short (group label), journal, stage, color, authors,
+#            link (optional), tasks[].
+#   stage ∈ idea | planning | drafting | submitted | review | revision | accepted
+# Per task: name, status, priority, owner, start, due (YYYY-MM-DD, optional),
+#           note (optional, Markdown).
+#   status   ∈ todo | working | stuck | waiting | done
+#   priority ∈ critical | high | medium | low
+#   phase    (optional) consecutive tasks with the same phase get a sub-header
+
+updated: 2026-10-22
+
+papers:
+  - id: gls-hyperelastic
+    title: "GLS/PSPG stabilized FEM for incompressible finite-strain hyperelastic dynamics"
+    short: "GLS hyperelastic dynamics"
+    journal: CMAME
+    stage: drafting
+    color: "#579bfc"
+    tasks:
+      - name: "Discussion section: GLS vs VMS (Rossi 2016 / Thekkethil 2023), before Conclusions"
+        status: working
+        priority: high
+        owner: PM
+        note: "Discussion only — no extra GLS-vs-VMS comparison example."
+      - name: "Volume error $\\varepsilon_{\\mathrm{vol}} = J-1$ in $L^1/L^2/L^\\infty$"
+        status: todo
+        priority: medium
+        owner: PM
+        note: "Do not borrow the third-order claim of the FEBDF2 + quadratic-element paper; the setting here is $P_1/P_1$."
+
+  - id: afsi
+    title: "Automated Fluid-Structure Interaction Solver for Nonlinear Solid Mechanics (AFSI)"
+    short: "AFSI"
+    journal: IJNMBE
+    stage: drafting
+    color: "#a25ddc"
+    link: "/afsi/"
+    tasks:
+      - name: "1. Launch convergence runs: $h, h/2, h/4$ and $\\Delta t$ refinement"
+        status: todo
+        priority: critical
+        owner: PM
+        due: 2026-10-23
+        note: "Refine fluid and solid together at fixed $\\Delta X/h$; 1–2 benchmarks with a reference. Record errors, rates and $\\max|J-1|$. Reviewer: “Convergence, conservation and more rigorous validations”."
+      - name: "2. Launch validation run: complex geometry, large deformation / strain rate"
+        status: todo
+        priority: high
+        owner: PM
+        due: 2026-10-23
+        note: "Reuse an existing case where possible (e.g. 3D LV, Guccione); runs in parallel with step 1."
+      - name: "3. Reframe as a method paper; move software details to the appendix"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-24
+      - name: "4. Conservation: mass ($J$), momentum and energy via spread/interp adjointness"
+        status: todo
+        priority: high
+        owner: PM
+        due: 2026-10-25
+      - name: "5. Answer: classical IBFE coupling is not variationally consistent"
+        status: todo
+        priority: high
+        owner: PM
+        due: 2026-10-25
+      - name: "6. Answer: penalty-like dilatation stabilisation vs. 1st/2nd law"
+        status: todo
+        priority: high
+        owner: PM
+        due: 2026-10-26
+        note: "Write the penalty as a convex volumetric energy $U(J)$ and show the discrete energy balance $\\tfrac{d}{dt}(E_k+E_s) = -\\mathcal{D} \\le 0$."
+      - name: "7. Results: convergence tables/plots, validation figures and text"
+        status: todo
+        priority: critical
+        owner: PM
+        due: 2026-10-28
+      - name: "8. Full read-through, figures, appendix, compile"
+        status: todo
+        priority: high
+        owner: PM
+        due: 2026-10-29
+      - name: "9. Hand the draft to Hao Gao for editing"
+        status: todo
+        priority: critical
+        owner: PM
+        due: 2026-10-30
+      - name: "Port IB2d cases (first: Rubberband)"
+        status: working
+        priority: low
+        owner: PM
+
+  - id: mv-gpu
+    title: "Mitral-valve FSI on GPUs with a nodal immersed finite element / finite difference method"
+    short: "Mitral valve GPU FSI"
+    journal: JFM
+    stage: drafting
+    color: "#00c875"
+    link: "/posts/mv-paper/"
+    tasks:
+      - name: "Tube + housing disc: G64/R2 pressure sweep (0.05, 0.1, 0.2, 0.5, 1 mmHg)"
+        status: working
+        priority: high
+        owner: PM
+        note: "Running to 5 s on euclid-29/30 and 8383 GPU 0/1. Compare lumen flow and peak velocity, end-gap exchange (bypass is not effective flow), $J$, displacement and stability."
+      - name: "Choose the pressure for ~200 cm/s and 600 mL/s lumen flow"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Measure lumen flow only; one pressure may not hit both targets."
+      - name: "G128/G256 at fixed pressure: solid density and tube end-gap"
+        status: todo
+        priority: high
+        owner: PM
+        note: "G256/R2 candidate: gap = 0.04969 cm ($1.185\\,\\Delta z$), passed 0.3 s, end-gap exchange ≈ 0.017% of lumen flow. R2 solid density not converged yet. Run past 0.75 s → 1 s → 5 s."
+      - name: "Full glamv G256/R2 (CBS43, modified, $\\Delta t = 1.25\\times10^{-6}$ s): NaN at 0.75 s"
+        status: stuck
+        priority: high
+        owner: PM
+        note: "Last saved frame ≈ 0.70 s. G128 runs fine."
+      - name: "Add back valve, chordae and physiological pressure, one at a time"
+        status: todo
+        priority: medium
+        owner: PM
+        note: "Recheck stability and deformation after each addition."
+      - name: "Rerun IBAMR SarahMV model to t = 1.335"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "Fibre/sheet mapping audit"
+        status: done
+        priority: medium
+        owner: PM
+        due: 2026-10-19
+        note: "P1 and mixed R0/R1/R2 match the original Sarah per-parent map to numerical precision."
+      - name: "Write Abstract"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "Write Introduction"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: lv-gnn
+    title: "Learning left ventricular contraction and dilation (graph emulator)"
+    short: "LV GNN emulator"
+    journal: "TBD"
+    stage: drafting
+    color: "#fdab3d"
+    link: "/posts/lv-emulator/"
+    tasks:
+      - name: "±1σ data: joint0339 does not converge (599/600)"
+        status: stuck
+        priority: critical
+        owner: PM
+        note: "Standard, robust fallback and trust-region retries all failed. Blocks `validated.done`, ±1σ training and the new-material simulation queue. Do not fake the marker or silently change its parameters."
+      - name: "Fibre/sheet + PCA model, ±0.5σ (euclid-01 GPU 0)"
+        status: working
+        priority: high
+        owner: PM
+        note: "180,200 / 240,000 microsteps; eval loss 0.0163 at 180k; rollout 0.78 mm on 2 fixed validation cases. Trained on 456 seed cases where only $a, b, a_f, b_f$ vary."
+      - name: "Simulate 600 expanded-material cases ($a_s, b_s, a_{fs}, b_{fs}$)"
+        status: todo
+        priority: high
+        owner: PM
+        note: "Sampled and meshed; waiting on the ±1σ queue. Then confirm these variations really enter training."
+      - name: "Full validation / test evaluation of the fibre model"
+        status: todo
+        priority: high
+        owner: PM
+      - name: "10-cycle rollout: local tet inversion from 0.642 s"
+        status: todo
+        priority: high
+        owner: PM
+        note: "±0.5σ no-fibre model; end-cycle volume settles at ~167.2 mL but inversions persist and grow; FEM first cycle has none. Diagnostic continuation only. ParaView package: 401 frames."
+      - name: "±1σ no-fibre model training"
+        status: todo
+        priority: medium
+        owner: PM
+        note: "Blocked by joint0339."
+      - name: "Mean-geometry model"
+        status: done
+        priority: medium
+        owner: PM
+        note: "1000 cases; loss ≈ 0.0070; full val/test rollout RMSE ≈ 0.34 mm."
+      - name: "±0.25σ model, no fibre (30 shapes × 20 parameter sets)"
+        status: done
+        priority: medium
+        owner: PM
+        note: "Best loss ≈ 0.00605; logged rollout ≈ 0.50 mm."
+      - name: "±0.5σ joint model, no fibre (600 cases)"
+        status: done
+        priority: medium
+        owner: PM
+        note: "Best loss 0.008883; logged rollout ≈ 0.95 mm (not a full test-set metric)."
+      - name: "Commit pending code; sync fibre, PV and failure status to the website"
+        status: todo
+        priority: low
+        owner: PM
+
+  - id: discrepancy-emulator
+    title: "Geometry-aware discrepancy emulator: GNN mean + GP correction of full-cycle LV displacement"
+    short: "Geometry-aware discrepancy"
+    journal: CMAME
+    stage: idea
+    color: "#9cd326"
+    tasks:
+      - phase: '0 · Background'
+        name: 'Read Lanyon et al. 2025 (ABME) in full: are ensemble weights driven by geometry features?'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Decides whether the zero-shot novelty holds.'
+      - phase: '0 · Background'
+        name: 'Talk to Husmeier and Dalton about overlap; consider contacting Lanyon / Wilkinson'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '1 · GNN'
+        name: 'Finish training the narrow model and sigma050 (joint, ±0.5σ)'
+        status: working
+        priority: high
+        owner: PM
+      - phase: '1 · GNN'
+        name: 'Time one full-cycle rollout on the A6000'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '1 · GNN'
+        name: 'Check ±2σ mesh validity (tet inversion ratio); last curriculum stage ±2σ or Mahalanobis-ball sampling?'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '2 · GP data (new, unseen by the GNN)'
+        name: 'Crossed design: ~40 shapes (±1σ) × the same 15 parameter sets, ~600 FE runs'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '2 · GP data (new, unseen by the GNN)'
+        name: 'Test set: 5–10 shapes × the same 15 parameter sets'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Export rollout residuals $\mathbf{r}=\mathbf{u}_{\mathrm{FE}}-\mathbf{u}_{\mathrm{GNN}}$'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'Downsample to 50 frames, store as float16.'
+      - phase: '3 · Pilot'
+        name: 'Statistics: $\|\mathbf{r}\|/\|\mathbf{u}\|$ vs $t$; residual PCA energy spectrum; Spearman of residual vs $\mathbf{z}$ distance'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Stop point 1'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Stop if relative error < 1%, or the first 10 modes hold < 80% of the energy.'
+      - phase: '3 · Pilot'
+        name: 'Train GP: Matérn-5/2 + ARD, Kronecker structure; inspect ARD length scales'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Test zero-shot and $n_{\mathrm{new}}=5$'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '3 · Pilot'
+        name: 'Stop point 2'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Stop if the error drops by < 30%, or coverage < 80%.'
+      - phase: '4 · Full experiments'
+        name: 'Error vs $n_{\mathrm{new}}\in\{0,5,10,20\}$'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '4 · Full experiments'
+        name: '95% interval coverage'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Variance includes the truncation term $s_{\mathrm{trunc}}^2$.'
+      - phase: '4 · Full experiments'
+        name: 'Ablation: pure GNN, $\boldsymbol\theta$-only GP, SSM as $\mathbf{z}$, Lanyon-style, ours'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '4 · Full experiments'
+        name: 'Kernel comparison: Matérn-5/2 vs RBF'
+        status: todo
+        priority: low
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'FE ground truth for ~20 synthetic patients'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Surface nodes, 25 frames, added noise.'
+      - phase: '5 · Inverse problem'
+        name: 'MCMC (emcee, batch-parallel walkers): 4 material parameters, then 8'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'Compare pure GNN, GNN + $\boldsymbol\delta$, volume-only GP (Ge-style): posterior bias and coverage'
+        status: todo
+        priority: high
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'Sweep $\sigma_{\mathrm{obs}}$ over 2–3 levels; check convergence with $\hat R$ and ESS'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '5 · Inverse problem'
+        name: 'Push posterior parameters to the stress field $\boldsymbol\sigma(\mathbf{x},t)$'
+        status: todo
+        priority: medium
+        owner: PM
+      - phase: '6 · Optional'
+        name: 'Physics-consistent $\boldsymbol\delta$, or variance-based active learning'
+        status: todo
+        priority: low
+        owner: PM
+      - phase: '6 · Optional'
+        name: 'MoE-GP if residuals are non-stationary'
+        status: todo
+        priority: low
+        owner: PM
+
+  - id: coronary-lv
+    title: "Computational Modelling of Coronary–Left Ventricular Coupling with Baroreflex Feedback"
+    short: "Coronary–LV baroreflex"
+    journal: AMM
+    stage: revision
+    color: "#ff158a"
+    authors: "P. Ma, X. Wang, L. Cai*, H. Gao"
+    tasks:
+      - name: "Revise manuscript"
+        status: working
+        priority: high
+        owner: PM
+      - name: "Run: healthy, $\\Delta t = 5$ ms reference (20,000 steps)"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-23
+        note: "Workstation Docker, 16 ranks; step 3509 at 14:55 on 22 Oct, 5.0 s/step; ETA Fri 14:00. [SwanLab ysm5kxc5](https://swanlab.cn/@Pengfei-Ma/softmech-coronary-lv-coupling/runs/ysm5kxc5)"
+      - name: "Run: healthy, $\\Delta t = 2.5$ ms, 10 cycles (4,000 steps)"
+        status: working
+        priority: medium
+        owner: PM
+        due: 2026-10-23
+        note: "9654, 8 ranks; step 601 at 14:55 on 22 Oct, 12.3 s/step; ETA Fri 02:30. [SwanLab rbmy5ez3](https://swanlab.cn/@Pengfei-Ma/softmech-coronary-lv-coupling/runs/rbmy5ez3)"
+      - name: "Run: lad80, baroreflex on (20,000 steps)"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-24
+        note: "8383 cores 0–7; step 137 at 14:55 on 22 Oct; speed being re-measured, ETA ~Sat afternoon if ~10 s/step. [SwanLab nyd5nust](https://swanlab.cn/@Pengfei-Ma/softmech-coronary-lv-coupling/runs/nyd5nust)"
+      - name: "Run: lad80_nobaro, baroreflex off (20,000 steps)"
+        status: working
+        priority: high
+        owner: PM
+        due: 2026-10-24
+        note: "8383 cores 8–15; restarted from step 0 after the core-pinning clash; ETA ~Sat afternoon."
+      - name: "Delete interrupted SwanLab run 5nn3su6c"
+        status: todo
+        priority: low
+        owner: PM
+
+  - id: feedback-cmame
+    title: "Cardiovascular feedback model (CMAME follow-up)"
+    short: "Feedback (CMAME)"
+    journal: CMAME
+    stage: idea
+    color: "#66ccff"
+    tasks:
+      - name: "Minimal with/without-feedback comparison to test the motivation"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: brinkman-ibfe
+    title: "Brinkman penalisation of rigid walls in IBFE with explicit hyperelastic leaflets"
+    short: "Brinkman + IBFE"
+    journal: "TBD"
+    stage: idea
+    color: "#037f4c"
+    tasks:
+      - name: "Prototype implicit Brinkman wall + explicit $f_{\\rm hyp}^n$ splitting"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "Show closure stability under large transvalvular pressure"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: orifice-bc
+    title: "Pressure-orifice boundary condition for staggered-grid projection methods + IB cardiac flow"
+    short: "Pressure orifice BC"
+    journal: JCP
+    stage: planning
+    color: "#e2445c"
+    tasks:
+      - name: "Patch branch in convection.h; run gla_mv to backflow"
+        status: working
+        priority: medium
+        owner: PM
+      - name: "Literature: Heywood–Rannacher–Turek, Moghadam $\\beta$ backflow, IBAMR cardiac"
+        status: todo
+        priority: medium
+        owner: PM
+      - name: "MMS with backflow orifice (2nd order), MG rates, full-cycle MV case"
+        status: todo
+        priority: medium
+        owner: PM
+
+  - id: delta-free-mac-ib
+    title: 'A MAC-compatible divergence-free reconstruction for delta-free immersed boundary methods'
+    short: 'Delta-free MAC IB'
+    journal: JCP
+    stage: idea
+    color: "#225091"
+    tasks:
+      - name: 'Prior-art search: “divergence-free reconstruction immersed boundary” (Balsara-type already used in IB?)'
+        status: todo
+        priority: critical
+        owner: PM
+        note: 'Biggest risk: being read as “lowest-order DCIB”. Differentiate via C3 (theory for explicit projection) and C4 (plug-in + cost frontier).'
+      - name: 'Read DCIB (Casquero et al. 2020) and the capsule paper; list their theorems and data'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'Also cite Russell–Wheeler 1983 (MAC ≡ RT$_0$ + quadrature).'
+      - name: '2D: implement BDM$_1$-type $\mathcal{J}$ and $\mathcal{S}=\mathcal{J}^{T}$; pass V1–V3 to machine precision'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'V1 pointwise $\nabla\cdot(\mathcal{J}u)$; V2 rigid rotation (force, torque); V3 power identity $\langle\mathcal{S}F,u\rangle_h=\langle F,\mathcal{J}u\rangle_q$.'
+      - name: 'V4 translation invariance + V6 elastic ring; compare Q$_1$ / RT$_0$ / Peskin 4-point'
+        status: todo
+        priority: high
+        owner: PM
+      - name: 'Proofs T1–T4: linear/angular momentum, energy, volume'
+        status: todo
+        priority: high
+        owner: PM
+        note: 'T1–T3 also serve the AFSI conservation reply. Q$_1$ lacks volume, RT$_0$ lacks angular momentum.'
+      - name: 'Read Balsara 2004; extend to 3D ($2\times3\times3$ stencil) and check T2 still holds'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Open question: do the compensation terms break the linear reconstruction?'
+      - name: 'T5 discrete energy estimate + V8 energy curve'
+        status: todo
+        priority: medium
+        owner: PM
+        note: '$E^{n+1}-E^n+\Delta t\,\mu\|\nabla u\|^2\le0$ for $\Delta t\le\Delta t_{\mathrm{el}}$; optional SAV for unconditional stability.'
+      - name: 'V7 3D spherical capsule vs DCIB'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Target DCIB volume error $4.2\times10^{-3}\to1.4\times10^{-8}$; check $\mathcal{O}(\Delta t^2)$ position-update error does not swamp it.'
+      - name: 'Fix gla_mv instability at N = 64, then valve application and performance section'
+        status: todo
+        priority: medium
+        owner: PM
+        note: 'Aortic/mitral valves; leak split $Q_{\mathrm{leak}}=Q_{\mathrm{wall}}+Q_{\mathrm{leaflet}}$; GPU cost: 18 vs 64 faces per point (Peskin).'

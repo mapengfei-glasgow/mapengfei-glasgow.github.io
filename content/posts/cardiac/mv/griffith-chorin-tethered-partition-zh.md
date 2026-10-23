@@ -6,6 +6,8 @@ academic: true
 ShowToc: true
 TocOpen: false
 Repository: CardioPhysX/mv-turbulance
+tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+url: /posts/griffith-chorin-tethered-partition-zh/
 ---
 
 ## 0. 结论先写在前面

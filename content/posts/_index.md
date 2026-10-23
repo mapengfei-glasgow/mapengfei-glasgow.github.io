@@ -7,3 +7,5 @@ description: "Notes on code, side projects, and everyday life."
 cascade:
   comments: true
 ---
+
+Research notes are organised in the [Research topic guide](/research/): [GPU](/tags/gpu/), [MV](/tags/mv/) and [Cardiac Simulation](/tags/cardiac-simulation/).

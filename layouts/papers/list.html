@@ -1,0 +1,179 @@
+{{- /* /papers/ — paper-publication board (monday.com-style).
+
+       Read-only page: everything is rendered at build time from
+       data/papers.yaml, which is edited from a single Claude chat session.
+       There is no edit UI and no backend; assets/js/papers.js only switches
+       views, filters, collapses groups and flags overdue dates. */ -}}
+{{- define "main" }}
+{{- $d := site.Data.papers }}
+
+{{- $statuses := slice
+  (dict "k" "todo"    "label" "Not started"   "c" "#c4c4c4")
+  (dict "k" "working" "label" "Working on it" "c" "#fdab3d")
+  (dict "k" "waiting" "label" "Waiting"       "c" "#784bd1")
+  (dict "k" "stuck"   "label" "Stuck"         "c" "#e2445c")
+  (dict "k" "done"    "label" "Done"          "c" "#00c875") }}
+{{- $prio := dict
+  "critical" (dict "label" "Critical" "c" "#333333")
+  "high"     (dict "label" "High"     "c" "#401694")
+  "medium"   (dict "label" "Medium"   "c" "#5559df")
+  "low"      (dict "label" "Low"      "c" "#579bfc") }}
+{{- $stages := slice
+  (dict "k" "idea"      "label" "Idea"        "c" "#c4c4c4")
+  (dict "k" "planning"  "label" "Planning"    "c" "#66ccff")
+  (dict "k" "drafting"  "label" "Drafting"    "c" "#fdab3d")
+  (dict "k" "submitted" "label" "Submitted"   "c" "#579bfc")
+  (dict "k" "review"    "label" "Under review" "c" "#a25ddc")
+  (dict "k" "revision"  "label" "Revision"    "c" "#ff642e")
+  (dict "k" "accepted"  "label" "Accepted"    "c" "#00c875") }}
+{{- $stMap := dict }}{{ range $statuses }}{{ $stMap = merge $stMap (dict .k .) }}{{ end }}
+{{- $sgMap := dict }}{{ range $stages }}{{ $sgMap = merge $sgMap (dict .k .) }}{{ end }}
+
+{{- $all := slice }}
+{{- range $d.papers }}{{ $p := . }}{{ range .tasks }}{{ $all = $all | append (merge . (dict "paper" $p)) }}{{ end }}{{ end }}
+{{- $open := where $all "status" "!=" "done" }}
+
+<div class="pb" id="pb">
+  <header class="pb-head">
+    <div class="pb-titlebox">
+      <h1 class="pb-title">{{ .Title }}</h1>
+      <p class="pb-sub">{{ with .Description }}{{ . }} · {{ end }}Updated <time datetime="{{ dateFormat "2006-01-02" $d.updated }}">{{ dateFormat "2 Jan 2006" $d.updated }}</time> · <span class="pb-ro" title="Edited from one Claude chat session only">read-only</span></p>
+    </div>
+    <dl class="pb-kpis">
+      <div><dt>Papers</dt><dd>{{ len $d.papers }}</dd></div>
+      <div><dt>Open tasks</dt><dd>{{ len $open }}</dd></div>
+      <div><dt>In progress</dt><dd>{{ len (where $all "status" "working") }}</dd></div>
+      <div class="pb-kpi-stuck"><dt>Stuck</dt><dd>{{ len (where $all "status" "stuck") }}</dd></div>
+      <div class="pb-kpi-over"><dt>Overdue</dt><dd id="pb-overdue">0</dd></div>
+    </dl>
+  </header>
+
+  <div class="pb-bar">
+    <nav class="pb-tabs" role="tablist" aria-label="Board views">
+      <button type="button" role="tab" data-view="table" aria-selected="true">Main table</button>
+      <button type="button" role="tab" data-view="kanban" aria-selected="false">Kanban</button>
+      <button type="button" role="tab" data-view="pipeline" aria-selected="false">Pipeline</button>
+    </nav>
+    <div class="pb-tools">
+      <input type="search" id="pb-search" placeholder="Search tasks…" aria-label="Search tasks">
+      <label class="pb-check"><input type="checkbox" id="pb-hidedone"> Hide done</label>
+    </div>
+  </div>
+
+  {{- /* ---------- Main table ---------- */}}
+  <div class="pb-view" data-view="table">
+    {{- range $d.papers }}
+    {{- $p := . }}{{ $sg := index $sgMap .stage }}
+    <section class="pb-group" style="--g: {{ .color | safeCSS }}" data-paper="{{ .id }}">
+      <header class="pb-ghead">
+        <button type="button" class="pb-caret" aria-expanded="true" aria-label="Collapse group"><svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true"><path d="M4 6l4 4 4-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <h2 class="pb-gname">{{ .short }}</h2>
+        <span class="pb-gcount">{{ len .tasks }} {{ cond (eq (len .tasks) 1) "task" "tasks" }}</span>
+        <span class="pb-battery" aria-label="Status breakdown">
+          {{- $n := len .tasks }}
+          {{- range $statuses }}
+          {{- $k := len (where $p.tasks "status" .k) }}
+          {{- if gt $k 0 }}<span style="flex: {{ $k }}; --c: {{ .c | safeCSS }}" title="{{ .label }}: {{ $k }}/{{ $n }}"></span>{{ end }}
+          {{- end }}
+        </span>
+        <span class="pb-gmeta">
+          <span class="pb-journal">{{ .journal }}</span>
+          {{- with $sg }}<span class="pb-pill pb-stage" style="--c: {{ .c | safeCSS }}">{{ .label }}</span>{{ end }}
+          {{- with .link }}<a class="pb-open" href="{{ . | relURL }}">Open ↗</a>{{ end }}
+        </span>
+      </header>
+      <p class="pb-gtitle">{{ .title | markdownify }}{{ with .authors }} <span class="pb-authors">— {{ . }}</span>{{ end }}</p>
+      <div class="pb-scroll">
+        <table class="pb-table">
+          <thead>
+            <tr>
+              <th class="c-task" scope="col">Task</th>
+              <th class="c-owner" scope="col">Owner</th>
+              <th class="c-status" scope="col">Status</th>
+              <th class="c-prio" scope="col">Priority</th>
+              <th class="c-due" scope="col">Due date</th>
+              <th class="c-note" scope="col">Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {{- $ph := "" }}
+            {{- range .tasks }}
+            {{- with .phase }}{{ if ne . $ph }}
+            <tr class="pb-phase"><th colspan="6" scope="rowgroup">{{ . }}</th></tr>
+            {{- end }}{{ end }}
+            {{- $ph = .phase | default "" }}
+            {{- $s := index $stMap .status | default (index $stMap "todo") }}
+            {{- $pr := index $prio (.priority | default "medium") }}
+            <tr class="pb-row" data-status="{{ .status }}" data-text="{{ printf "%s %s" .name (.note | default "") | plainify | lower }}">
+              <td class="c-task"><span class="pb-tname">{{ .name | markdownify }}</span></td>
+              <td class="c-owner"><span class="pb-avatar" title="{{ .owner | default "PM" }}">{{ .owner | default "PM" }}</span></td>
+              <td class="c-status"><span class="pb-cell" style="--c: {{ $s.c | safeCSS }}">{{ $s.label }}</span></td>
+              <td class="c-prio">{{ with $pr }}<span class="pb-cell" style="--c: {{ .c | safeCSS }}">{{ .label }}</span>{{ end }}</td>
+              <td class="c-due">{{ with .due }}<time class="pb-due" datetime="{{ dateFormat "2006-01-02" . }}">{{ dateFormat "Jan 2" . }}</time>{{ else }}<span class="pb-empty">—</span>{{ end }}</td>
+              <td class="c-note">{{ with .note }}<span class="pb-note">{{ . | markdownify }}</span>{{ end }}</td>
+            </tr>
+            {{- end }}
+          </tbody>
+        </table>
+      </div>
+    </section>
+    {{- end }}
+  </div>
+
+  {{- /* ---------- Kanban (by task status) ---------- */}}
+  <div class="pb-view" data-view="kanban" hidden>
+    <div class="pb-board">
+      {{- range $statuses }}
+      {{- $col := where $all "status" .k }}
+      <section class="pb-col" style="--c: {{ .c | safeCSS }}" data-status="{{ .k }}">
+        <header class="pb-colhead">{{ .label }} <span>{{ len $col }}</span></header>
+        <div class="pb-cards">
+          {{- range $col }}
+          {{- $pr := index $prio (.priority | default "medium") }}
+          <article class="pb-card pb-row" style="--g: {{ .paper.color | safeCSS }}" data-status="{{ .status }}" data-text="{{ printf "%s %s %s" .name (.note | default "") .paper.short | plainify | lower }}">
+            <span class="pb-chip">{{ .paper.short }}</span>
+            <p class="pb-ctitle">{{ .name | markdownify }}</p>
+            <footer>
+              {{- with $pr }}<span class="pb-pill" style="--c: {{ .c | safeCSS }}">{{ .label }}</span>{{ end }}
+              {{- with .due }}<time class="pb-due" datetime="{{ dateFormat "2006-01-02" . }}">{{ dateFormat "Jan 2" . }}</time>{{ end }}
+              <span class="pb-avatar sm">{{ .owner | default "PM" }}</span>
+            </footer>
+          </article>
+          {{- end }}
+        </div>
+      </section>
+      {{- end }}
+    </div>
+  </div>
+
+  {{- /* ---------- Pipeline (papers by publication stage) ---------- */}}
+  <div class="pb-view" data-view="pipeline" hidden>
+    <div class="pb-board">
+      {{- range $stages }}
+      {{- $col := where $d.papers "stage" .k }}
+      <section class="pb-col" style="--c: {{ .c | safeCSS }}">
+        <header class="pb-colhead">{{ .label }} <span>{{ len $col }}</span></header>
+        <div class="pb-cards">
+          {{- range $col }}
+          {{- $done := len (where .tasks "status" "done") }}{{ $n := len .tasks }}
+          <article class="pb-card pb-pcard" style="--g: {{ .color | safeCSS }}" data-text="{{ printf "%s %s %s" .title .short .journal | plainify | lower }}">
+            <span class="pb-chip">{{ .journal }}</span>
+            <p class="pb-ctitle">{{ .title | markdownify }}</p>
+            <footer>
+              <span class="pb-prog" title="{{ $done }}/{{ $n }} tasks done"><span style="width: {{ cond (gt $n 0) (div (mul $done 100) $n) 0 }}%"></span></span>
+              <span class="pb-progtxt">{{ $done }}/{{ $n }}</span>
+              {{- with .link }}<a class="pb-open" href="{{ . | relURL }}">Open ↗</a>{{ end }}
+            </footer>
+          </article>
+          {{- end }}
+        </div>
+      </section>
+      {{- end }}
+    </div>
+  </div>
+
+  <p class="pb-nomatch" id="pb-nomatch" hidden>No tasks match.</p>
+</div>
+
+<script src="{{ (resources.Get "js/papers.js" | fingerprint).RelPermalink }}" defer></script>
+{{- end }}

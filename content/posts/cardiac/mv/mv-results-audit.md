@@ -8,6 +8,8 @@ comments: false
 searchHidden: true
 build:
   list: never
+tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+url: /posts/mv-results-audit/
 ---
 
 This update brings together the retained simulation results and postprocessing audits available on 19 October 2026. No new solver experiment was launched for this update. See the [working paper]({{< relref "mv-paper.md" >}}), [mesh note]({{< relref "mv-meshes.md" >}}) and [figure gallery]({{< relref "mv-figures.md" >}}).

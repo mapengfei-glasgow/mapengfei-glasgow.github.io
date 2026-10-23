@@ -8,6 +8,8 @@ comments: false
 searchHidden: true
 build:
   list: never
+tags: ["Cardiac Simulation", "MV", "GPU", "FSI"]
+url: /posts/mv-data-and-code/
 ---
 
 Companion page to [the mitral-valve FSI working paper]({{< relref "mv-paper.md" >}}).

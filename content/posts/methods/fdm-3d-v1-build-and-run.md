@@ -5,6 +5,8 @@ date: 2026-09-14
 academic: true
 ShowToc: true
 TocOpen: false
+tags: ["GPU", "FSI"]
+url: /posts/fdm-3d-v1-build-and-run/
 ---
 
 This page is the clean entry point for **what to install, how to build, and how
