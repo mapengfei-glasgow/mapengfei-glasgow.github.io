@@ -1,0 +1,302 @@
+---
+layout: single
+title: "Melania Trump brokers ceasefire for Ukrainian city"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-24T00:00:00Z
+slug: "2026-10-24-melania-trump-brokers-ceasefire-for-ukrainian-city"
+audioDir: "2026-10-24-melania-trump-brokers-ceasefire-for-ukrainian-city"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-24-melania-trump-brokers-ceasefire-for-ukrainian-city/episode.mp3"
+totalDuration: 1686.6
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.84}
+  - {text: "I'm Nick Miles and in the early hours of Saturday, the 24th of October, these are our main stories.", start: 5.00, end: 9.76}
+  - {text: "The White House says that Russia and Ukraine have agreed to a humanitarian ceasefire in the occupied Ukrainian town of Oleshki, negotiated by the US First Lady Melania Trump.", start: 10.52, end: 21.12}
+  - {text: "A Republican lawsuit over the US midterms, and that's before Election Day has even taken place.", start: 21.86, end: 27.34}
+  - {text: "We find out why Republican lawyers are taking action in Alaska.", start: 27.78, end: 31.50}
+  - {text: "And with just a day to go until Brazil's presidential election runoff, we look at how the nation is split between left and right.", start: 32.02, end: 38.72}
+  - {text: "Also in this podcast, the company behind ChatGPT has announced that it will no longer train its AI models live on the internet.", start: 41.45, end: 49.41}
+  - {text: "And remember this? The biggest thing about iPod is it holds a thousand songs.", start: 49.87, end: 55.01}
+  - {text: "Now this is a quantum leap because for most people it's their entire music library.", start: 55.01, end: 59.99}
+  - {text: "This is huge. We look back at the birth of the iPod 25 years ago and how it revolutionized the way we hear music.", start: 60.37, end: 68.13}
+  - {text: "We start in Ukraine, where there are daily bombardments by missiles and drones on residential areas and civilian power plants.", start: 72.95, end: 81.11}
+  - {text: "A broad ceasefire seems as far away as ever.", start: 81.61, end: 84.47}
+  - {text: "But in one devastated community, there is at least a temporary reprieve.", start: 84.47, end: 89.91}
+  - {text: "Oleshky is in a Russian -occupied part of southern Ukraine, close to the front line.", start: 90.07, end: 94.83}
+  - {text: "Hardly a building remains untouched by the conflict there.", start: 95.31, end: 98.73}
+  - {text: "Now though, a ceasefire has been brokered, not by the US President, but by his wife, Melania, the First Lady.", start: 99.29, end: 105.33}
+  - {text: "She's long been a campaigner for children impacted by the war in Ukraine.", start: 105.85, end: 109.61}
+  - {text: "Kiev and Moscow have confirmed the deal, was agreed to evacuate residents and deliver aid.", start: 110.17, end: 115.41}
+  - {text: "This report from our Ukraine correspondent, Dan Johnson.", start: 115.75, end: 118.55}
+  - {text: "Even by the cruel standards of this war, a ceasefire is desperately needed here.", start: 119.15, end: 124.57}
+  - {text: "Under Russian occupation, the people of Oleshky have been cut off.", start: 125.21, end: 129.41}
+  - {text: "Their roads mined, their skies ruled by drones, bodies piling up in the streets.", start: 129.89, end: 135.61}
+  - {text: "No food, no power, no running water, and for most, no escape.", start: 136.04, end: 141.29}
+  - {text: "Some have managed to leave the killing behind, like Vladimir, who was held by the Russians and has seen his home destroyed.", start: 142.57, end: 150.21}
+  - {text: "He describes life in Oleshky like a dystopian survival thriller.", start: 150.97, end: 155.39}
+  - {text: "It's like Squid Game, exactly like the series.", start: 157.30, end: 160.24}
+  - {text: "Only one person survives because there are so many dangers.", start: 161.00, end: 163.68}
+  - {text: "If it's not a drone, then it's a shell or a mine.", start: 163.68, end: 166.82}
+  - {text: "There's complete lawlessness and so much blood.", start: 167.22, end: 169.52}
+  - {text: "Now, there's a Trump peace plan, but not as we know it.", start: 172.34, end: 176.18}
+  - {text: "It was the First Lady's office that issued this surprise ceasefire announcement.", start: 176.84, end: 181.56}
+  - {text: "What you want to do is save children.", start: 182.25, end: 184.09}
+  - {text: "That's your focus. Both sides are cooperating with her, doing a very good job.", start: 184.87, end: 190.31}
+  - {text: "Do you believe this has any chance of success?", start: 190.87, end: 192.69}
+  - {text: "But watch for the weary reaction of someone who's heard it all before.", start: 192.69, end: 197.47}
+  - {text: "I know how Russian soldiers behave.", start: 200.09, end: 202.01}
+  - {text: "I don't believe anything will come of it.", start: 202.53, end: 204.03}
+  - {text: "Yes, this time, Melania Trump has said it, but for four or five months now, there have been all kinds of plans for evacuations and assistance.", start: 204.69, end: 211.33}
+  - {text: "Nobody in the town believes these promises anymore.", start: 211.97, end: 214.23}
+  - {text: "Ukraine's drones have been flying in occasional supplies.", start: 216.49, end: 220.09}
+  - {text: "But next week, ceasefire aims to get more aid to the town and allow people to get out.", start: 220.09, end: 227.07}
+  - {text: "Those who negotiated this deal have faith it will be respected.", start: 228.19, end: 232.59}
+  - {text: "My hope is that we will finally decide and solve the humanitarian crisis in Oleshka.", start: 233.55, end: 241.09}
+  - {text: "This is my exact position.", start: 241.19, end: 243.27}
+  - {text: "And I know that's the same position now we have from the Russian side, because we have the coordination mission from Melania Trump.", start: 243.47, end: 252.57}
+  - {text: "Ukraine has seen Trump's ceasefires come and go before.", start: 253.17, end: 256.53}
+  - {text: "Can this one hold?", start: 257.13, end: 258.43}
+  - {text: "And could it help rebuild America's stake in this country's future?", start: 258.91, end: 262.59}
+  - {text: "Dan Johnson reporting. Even before the polls open for November's hotly anticipated U .S.", start: 263.17, end: 269.30}
+  - {text: "midterm elections, the lawyers are getting involved.", start: 269.52, end: 272.36}
+  - {text: "The US government has filed a lawsuit seeking to block Alaska's result in those elections if the Republican candidate endorsed by President Trump doesn't win his seat in the Senate.", start: 272.92, end: 283.52}
+  - {text: "The incumbent, Dan S.", start: 284.20, end: 285.76}
+  - {text: "Sullivan, is on the ballot.", start: 286.06, end: 287.12}
+  - {text: "But so is another Republican hopeful, a retired teacher called Dan Jay Sullivan.", start: 287.38, end: 292.36}
+  - {text: "Donald Trump says the presence of two people with almost exactly the same name will confuse Alaskans, split the Republican vote and help the Democrat candidate Mary Peltola to victory.", start: 292.92, end: 304.50}
+  - {text: "Our North America correspondent, Shaima Khalil, told me more.", start: 305.10, end: 308.02}
+  - {text: "What the lawsuit says is that the sole purpose of his candidacy is to benefit the Peltola campaign by reducing the number of votes for Senator Sullivan.", start: 308.46, end: 316.72}
+  - {text: "And so the lawsuit asks for certification, which is essentially saying that if the Democrat wins, then they needed to be suspended pending investigation about why the Republican has lost.", start: 316.92, end: 329.96}
+  - {text: "Do the voters really want the teacher to win?", start: 330.28, end: 333.06}
+  - {text: "Did they really vote for the teacher or were they confused by his inclusion?", start: 333.06, end: 336.16}
+  - {text: "Now, some Republicans are calling Dan Jay Sullivan decoy Dan.", start: 336.88, end: 341.46}
+  - {text: "But there's no evidence is there that he is anything but a legitimate candidate.", start: 341.72, end: 346.22}
+  - {text: "No. And it doesn't say anywhere in the lawsuit that they have found solid evidence about him wanting to be, as you say, quote unquote, a decoy or him wanting to take votes away to help Mary Peltola, the Democrat candidate.", start: 346.52, end: 360.92}
+  - {text: "He said he has never had an intention of confusing the voters and that, yes, he wants to take votes just like any other candidate in a legitimate contest was.", start: 360.92, end: 371.56}
+  - {text: "So there's nothing illegal about it.", start: 371.60, end: 373.44}
+  - {text: "Technically, the lawsuit assumes a lot of things that it has no evidence against.", start: 373.46, end: 378.58}
+  - {text: "So it assumes ill intention on Dan Jay Sullivan's part, the teacher or decoy Dan.", start: 378.72, end: 383.78}
+  - {text: "It assumes that he's in there to take away votes.", start: 383.96, end: 386.94}
+  - {text: "And it assumes that if Mary Peltola wins, it would be because of this teacher.", start: 386.94, end: 392.52}
+  - {text: "Nothing in what we have so far tells us any of this is substantiated by evidence.", start: 392.74, end: 398.30}
+  - {text: "But I think what it does tell us is that it's an extraordinary intervention at a very sensitive time for President Trump for his party.", start: 398.44, end: 405.92}
+  - {text: "And this intervention by President Trump to launch this preemptive challenge against a possible election result casts another shadow over the midterms.", start: 406.30, end: 415.34}
+  - {text: "Remember, he famously in 2020 has cast out over the results of the presidential election when the Democrat Joe Biden won.", start: 415.34, end: 423.14}
+  - {text: "And so for him to come and say, look, if the Democrat wins in Alaska, which could flip the Senate, then this is rigged or this is not a legitimate win.", start: 423.56, end: 431.88}
+  - {text: "That raises so much concern and so much question about the process, even before it's begun.", start: 432.18, end: 436.82}
+  - {text: "Indeed, Shimer, I was going to ask the importance of Alaska.", start: 437.04, end: 439.90}
+  - {text: "The polling seems to suggest that the state is on a knife edge.", start: 440.50, end: 443.86}
+  - {text: "Alaska is a vast state and there is essentially a likelihood of success when it comes to Mary Peltola.", start: 443.86, end: 452.14}
+  - {text: "And so a victory could help the Democrats take Senate control.", start: 452.60, end: 455.84}
+  - {text: "And I think this legal dispute could delay knowing which party has won it.", start: 456.04, end: 460.18}
+  - {text: "So you may have a scenario where you're looking at Alaska, which historically is very slow to count its votes and then you can potentially have the president and his administration casting doubt on it.", start: 460.22, end: 472.14}
+  - {text: "Shimer Khalil. Now, here's something that might make you feel rather old.", start: 472.14, end: 476.70}
+  - {text: "It is 25 years since the launch of the iPod.", start: 477.06, end: 480.36}
+  - {text: "The portable song player didn't just change how we listen to music.", start: 480.94, end: 484.54}
+  - {text: "It also helped transform Apple into one of the world's most valuable companies.", start: 484.90, end: 489.24}
+  - {text: "The device has since been eclipsed by the smartphone, of course, but its cultural legacy remains.", start: 489.88, end: 494.84}
+  - {text: "Helena Burke looks back at the iPods impact.", start: 495.56, end: 498.06}
+  - {text: "Let's shuffle back to October 2001, when the then CEO of Apple, Steve Jobs, made a major announcement.", start: 498.70, end: 506.20}
+  - {text: "iPod is an MP3 music player, has CD quality music, and it plays all of the popular open formats of digital music.", start: 506.74, end: 515.67}
+  - {text: "But the biggest thing about iPod is it holds a thousand songs.", start: 516.05, end: 520.27}
+  - {text: "Now, this is a quantum leap because for most people, it's their entire music library.", start: 520.97, end: 525.63}
+  - {text: "This is huge. Before the iPod, there was the Sony Walkman.", start: 526.31, end: 530.47}
+  - {text: "This was followed by portable MP3 players, such as the Diamond Rio and the MP Man F10.", start: 530.47, end: 535.95}
+  - {text: "But these devices ushered in an era of rampant digital music piracy.", start: 536.65, end: 540.75}
+  - {text: "Guy Kawasaki was one of Apple's chief marketers at the time.", start: 541.29, end: 544.39}
+  - {text: "The difference between the MP3 player and an iPod, of course, is that the MP3 player, it depended on you finding that music on Napster or some kind of sharing thing.", start: 544.69, end: 557.65}
+  - {text: "And that opened up a whole can of words of how did the music get to Napster?", start: 557.65, end: 563.31}
+  - {text: "Who has the rights to download it and install it?", start: 563.63, end: 567.05}
+  - {text: "The music industry was just going bonkers because you upload one copy of your song and, you know, Bada Bing, Bada Bang, the next thing you know, the whole world has it.", start: 567.29, end: 577.81}
+  - {text: "So in effect, the iPod was the best for both sides, both the consumer as well as the producer, because now the music producer could get 99 cents.", start: 578.23, end: 589.37}
+  - {text: "And, you know, that was a big deal.", start: 589.67, end: 590.91}
+  - {text: "The iPod was a huge hit, quickly becoming the best -selling music player in the world.", start: 591.27, end: 596.09}
+  - {text: "The original device, which was about the size of a deck of cards, was followed by the iPod Mini, the Shuffle, the Nano, and finally the iPod Touch.", start: 596.51, end: 604.21}
+  - {text: "By 2007, the iPod had evolved into what would become Apple's most successful product of all time.", start: 604.85, end: 610.63}
+  - {text: "A widescreen iPod with touch controls, a revolutionary mobile phone and a breakthrough Internet communications device.", start: 611.09, end: 618.95}
+  - {text: "An iPod, a phone.", start: 619.66, end: 622.84}
+  - {text: "Are you getting it?", start: 623.34, end: 625.71}
+  - {text: "These are not three separate devices.", start: 626.61, end: 629.97}
+  - {text: "This is one device and we are calling it iPhone.", start: 630.61, end: 636.60}
+  - {text: "The iPhone's ability to do all the things an iPod could do gradually pushed the music player aside until Apple eventually stopped production in 2022.", start: 637.28, end: 645.24}
+  - {text: "But while some technologies fade away, others have a habit of coming back around.", start: 645.24, end: 650.18}
+  - {text: "When the iPod launched in 2001, flip phones were all the rage.", start: 650.68, end: 654.12}
+  - {text: "Apple's newest device hit the market on Friday, the foldable iPhone Duo, a smartphone that flips open and shut, complete with a hefty $2 ,000 price tag.", start: 654.68, end: 663.78}
+  - {text: "Helena Burke reporting. Still to come in this podcast.", start: 664.30, end: 668.80}
+  - {text: "The name's Bond. Game's Bond.", start: 669.52, end: 672.40}
+  - {text: "Our final screen tests to pick the next 007 get underway in London.", start: 677.89, end: 682.43}
+  - {text: "But who will it be?", start: 682.87, end: 683.83}
+  - {text: "This is the Global News Podcast.", start: 691.84, end: 693.08}
+  - {text: "In a move that underscores the inadequacy of current safety measures, the company behind Chat GPT has announced that it will no longer train its AI models live on the Internet.", start: 694.36, end: 705.44}
+  - {text: "The decision by OpenAI follows months of incidents in which AI companies have lost control of their autonomous agents during security tests.", start: 706.04, end: 714.50}
+  - {text: "I heard more from our North America technology correspondent, Lily Jamali.", start: 715.04, end: 718.68}
+  - {text: "The main problem is that the way things have been done up until now, the most advanced AI models, as they are trained, have sometimes managed to breach the testing environment.", start: 719.18, end: 728.48}
+  - {text: "I'm trying not to use language that anthropomorphizes these systems.", start: 728.78, end: 732.38}
+  - {text: "They're not people. They are data.", start: 732.54, end: 734.56}
+  - {text: "They are software. But the terms that the companies use would be they've escaped the sandbox.", start: 734.76, end: 740.74}
+  - {text: "And so there have been two incidences disclosed by OpenAI very recently where AI agents actually went after the company's safeguards, that system that's supposed to monitor those AI agents", start: 740.74, end: 752.94}
+  - {text: "and was able to actually weaken those systems.", start: 752.94, end: 755.16}
+  - {text: "And not only did they do that, one of the agents actually denied that it had done so.", start: 755.24, end: 759.22}
+  - {text: "So the model was able to block automatic alerts as well.", start: 759.64, end: 763.24}
+  - {text: "These alerts go to the security team at the company.", start: 763.42, end: 766.46}
+  - {text: "And all of this is happening as we're in the thick of this debate about AI safety.", start: 766.88, end: 770.40}
+  - {text: "Of course, you remember over the summer, AI agents from OpenAI once again were able to breach the systems of another big AI firm, the platform known as Hugging Face.", start: 770.40, end: 780.04}
+  - {text: "And that's just one example of OpenAI's technology hacking external websites and government databases.", start: 780.60, end: 786.36}
+  - {text: "And it's not just them.", start: 786.94, end: 788.42}
+  - {text: "This is a problem that a lot of AI companies are trying to deal with.", start: 788.58, end: 791.34}
+  - {text: "So what does OpenAI say about how its models will be trained in the future?", start: 791.54, end: 796.08}
+  - {text: "The company has said that it's resumed training.", start: 796.50, end: 798.98}
+  - {text: "It's most advanced models.", start: 798.98, end: 801.02}
+  - {text: "But those models will not have access to the internet for now.", start: 801.48, end: 805.74}
+  - {text: "They're working on better safeguards, they say.", start: 805.88, end: 808.70}
+  - {text: "But the training will happen while that's taking place without a network connection.", start: 808.94, end: 813.48}
+  - {text: "So it's been positioned as, you know, until they deem these new safeguards that they're working on good enough, there will be no internet access.", start: 813.80, end: 820.58}
+  - {text: "It's also testing its monitoring systems, which were recently undermined by its AI agents during, of course, the project we were talking about.", start: 820.82, end: 829.00}
+  - {text: "And so that's the status quo for now.", start: 829.34, end: 831.08}
+  - {text: "Lily, it seems at the moment that the companies are self -regulating over all this.", start: 831.66, end: 836.70}
+  - {text: "What about federal legislation?", start: 837.22, end: 838.40}
+  - {text: "They very much are self -regulating in the United States.", start: 839.18, end: 842.06}
+  - {text: "There's been no comprehensive federal legislation enacted on the issue of AI safety.", start: 842.08, end: 847.30}
+  - {text: "And that's been really alarming to safety experts who are calling for a slowdown to this technology's development.", start: 847.36, end: 854.00}
+  - {text: "They're very concerned about rogue AI agents posing a threat to people.", start: 854.00, end: 857.96}
+  - {text: "And what we have seen instead is AI tech executives, you know, regularly in Washington, regularly at the White House, palling around with President Trump, who really wants a hands -off approach.", start: 858.38, end: 868.64}
+  - {text: "This is a huge part of his economy.", start: 868.86, end: 870.76}
+  - {text: "AI, it's a huge part of the stock market growth that we've seen in recent years.", start: 871.22, end: 875.64}
+  - {text: "And so it's often framed as the U .S.", start: 875.78, end: 877.54}
+  - {text: "is in a race over AI supremacy with China.", start: 877.58, end: 880.66}
+  - {text: "But if we slow down, that could be really bad for economic prosperity in the U .S.", start: 880.66, end: 887.10}
+  - {text: "Interestingly, any legislation that has been passed that even touches AI has happened at the state level, not at the federal level.", start: 887.58, end: 896.80}
+  - {text: "And it's been fascinating to see time and time again the Trump administration trying to block states from legislating on this issue.", start: 896.90, end: 905.12}
+  - {text: "They haven't succeeded yet.", start: 905.22, end: 906.24}
+  - {text: "Lily Jamali in San Francisco.", start: 906.70, end: 908.40}
+  - {text: "Brazilians are heading to the polls on Sunday in what is predicted to be an incredibly close presidential election.", start: 909.50, end: 916.10}
+  - {text: "The left -wing incumbent, President Luis Inacio Lula de Silva, is running for a fourth term overall and came second to his right -wing challenger, Flavio Bolsonaro,", start: 916.60, end: 926.52}
+  - {text: "in the first round of voting earlier this month.", start: 927.10, end: 929.00}
+  - {text: "Flavio is the son of the former right -wing president, Jair Bolsonaro, who was convicted of plotting a coup after losing the last election.", start: 929.46, end: 937.04}
+  - {text: "Winners of the first round in Brazil almost always go on to win the run -off.", start: 937.60, end: 941.70}
+  - {text: "A correspondent, Ioni Wells, has been to some key battlegrounds in São Paulo and Rio de Janeiro to find out what drove some voters away from President Lula and whether a comeback is within reach.", start: 941.96, end: 954.16}
+  - {text: "It's not often you hear students chanting the name of an incumbent president.", start: 956.53, end: 960.71}
+  - {text: "These are supporters of Brazil's left -wing president, Lula de Silva, who wants a fourth term.", start: 963.19, end: 968.51}
+  - {text: "I want to prove that age doesn't make us old.", start: 970.47, end: 972.97}
+  - {text: "What makes us old is a lack of motivation, a lack of commitment, and I am committed to the Brazilian people.", start: 973.51, end: 980.27}
+  - {text: "His supporters credit him with lifting millions out of poverty through welfare programs and reducing the rate of deforestation in the Amazon.", start: 980.79, end: 987.17}
+  - {text: "I do believe he can win.", start: 988.71, end: 990.17}
+  - {text: "We're fighting for that.", start: 990.69, end: 991.53}
+  - {text: "Challenging President Lula is Flavio Bolsonaro, son of the former right -wing president, Jair Bolsonaro, who's imprisoned for plotting a coup after losing the last election.", start: 993.21, end: 1002.23}
+  - {text: "He's pledged to free his father, as well as a tough crackdown on organized crime.", start: 1002.81, end: 1006.77}
+  - {text: "You will see Jair Bolsonaro placing the presidential sash on his son.", start: 1010.28, end: 1014.98}
+  - {text: "Brazil will win. Brazil above all, God above all.", start: 1015.44, end: 1018.94}
+  - {text: "He's doing it from a position of strength after winning the first round of voting this month.", start: 1021.64, end: 1025.92}
+  - {text: "His fans here at a rally are optimistic.", start: 1026.12, end: 1028.66}
+  - {text: "In the name of God, on Sunday we've got this, one supporter says.", start: 1030.62, end: 1034.40}
+  - {text: "Flavio Bolsonaro's campaign has not just been fought on the streets, the evangelical church has boomed in Brazil and its conservative pastors have become political power brokers.", start: 1038.38, end: 1048.26}
+  - {text: "The sermon tonight has been delivered by a celebrity pastor called Silas Malafair.", start: 1051.12, end: 1056.12}
+  - {text: "He's got millions of followers on social media and he's closely aligned with the Bolsonaro family.", start: 1056.30, end: 1060.66}
+  - {text: "Flavio has his flaws, but the values he has are those we need in this country to put an end to this leftism.", start: 1064.98, end: 1071.72}
+  - {text: "The evangelical church may be driving voters to vote for Flavio Bolsonaro, but Lula's campaign has also struggled with traditional voters leaving him.", start: 1072.92, end: 1081.06}
+  - {text: "This former industrial city, Osasco, voted for Lula in 2022, but flipped to Bolsonaro in the first round this month.", start: 1081.84, end: 1088.36}
+  - {text: "Gilberto Almazan is a president of a metalworkers union here, a role President Lula once held.", start: 1088.88, end: 1094.02}
+  - {text: "He describes how the working class has changed here.", start: 1097.78, end: 1100.94}
+  - {text: "It's no longer mostly industrial workers, but service workers.", start: 1101.14, end: 1104.14}
+  - {text: "Several industries and factories have closed and many people work in the gig economy, driving ubers or delivering takeaway food.", start: 1104.74, end: 1110.96}
+  - {text: "At this open -air market, many workers now tout products with handheld car machines.", start: 1113.58, end: 1119.04}
+  - {text: "This hot dog seller says she wants lower taxes, not welfare.", start: 1120.04, end: 1124.46}
+  - {text: "For Brazil's poorest, though, Lula's welfare programs do still resonate.", start: 1125.66, end: 1129.34}
+  - {text: "Mare is a sprawling favela in Rio de Janeiro, controlled by rival -armed gangs and has high levels of poverty.", start: 1129.90, end: 1136.24}
+  - {text: "18 -year -old mother Vituria lives in Mare.", start: 1137.58, end: 1140.04}
+  - {text: "She calls Lula a dream come true for increasing the minimum wage, providing free essential medicines and giving workers the right to two days off a week.", start: 1142.52, end: 1150.54}
+  - {text: "These two sides will face each other on Sunday and the poles have narrowed.", start: 1153.43, end: 1157.13}
+  - {text: "It's looking like it could be incredibly close, leaving deep divisions running through Brazil.", start: 1157.19, end: 1161.73}
+  - {text: "Irony Wells reporting from Brazil.", start: 1162.86, end: 1164.60}
+  - {text: "The Hungarian Peter Landos made significant contributions to the understanding of diseases like Alzheimer's and Parkinson's.", start: 1165.92, end: 1173.26}
+  - {text: "He's also published books about his experiences after being deported to the concentration camp Bergen -Belsen in Germany.", start: 1173.48, end: 1180.92}
+  - {text: "Peter survived the Nazis, only to find himself living under a repressive government for a second time, as Hungary became a satellite of the Soviet Union.", start: 1181.58, end: 1190.44}
+  - {text: "As a student, he joined the protests, which led 70 years ago on Friday to the Hungarian uprising.", start: 1190.96, end: 1196.74}
+  - {text: "Victory seems within the grasp of the Patriots.", start: 1197.38, end: 1199.96}
+  - {text: "The Soviet star is torn from Hungarian flags flying over the bodies of dead rebels.", start: 1201.72, end: 1206.46}
+  - {text: "Casualties throughout the revolt -ridden country are in the thousands, but the bitter price for liberty is unselfishly paid.", start: 1207.08, end: 1213.28}
+  - {text: "Well, Peter, who's just turned 87, told Sean Lay what he experienced in the brief interlude before Soviet tanks arrived to crush the uprising.", start: 1213.62, end: 1222.04}
+  - {text: "There was no one practically not affected by it and the surprise was extraordinary.", start: 1222.46, end: 1228.70}
+  - {text: "It was a sort of explosion and suddenly, instead of having a peaceful demonstration on the day, it turned into violence.", start: 1229.52, end: 1238.24}
+  - {text: "Police shot at the crowd and that is started the revolution.", start: 1238.66, end: 1243.16}
+  - {text: "Where were you that day?", start: 1243.52, end: 1244.50}
+  - {text: "I was at home, but we immediately went to the school and went to demonstrate.", start: 1244.70, end: 1250.52}
+  - {text: "Soon the Soviet military monument had been destroyed.", start: 1251.02, end: 1255.80}
+  - {text: "There were more demonstrations.", start: 1256.46, end: 1257.58}
+  - {text: "The university students put together and that was quite incredible when we learned the content because it declared that Hungary should be neutral, should leave the Warsaw Pact, there will be free elections, there will be human rights.", start: 1258.28, end: 1272.90}
+  - {text: "The system somehow, which was thought unchangeable, gradually changed and there were other factors.", start: 1273.26, end: 1280.44}
+  - {text: "What was it about the system that you as a student, what made you particularly angry?", start: 1280.92, end: 1286.20}
+  - {text: "The lack of personal freedom and the way we could say, do what we wanted to do.", start: 1286.40, end: 1294.94}
+  - {text: "Later, I was beaten by the police, not because I did anything, but I was a suspicious element of wearing the school uniform.", start: 1295.18, end: 1304.74}
+  - {text: "Presumably the police had impunity.", start: 1305.08, end: 1306.68}
+  - {text: "They could do that and there would be no consequences.", start: 1306.94, end: 1309.32}
+  - {text: "Yes, but I had an exceptional mother who went to the police station and protested.", start: 1309.66, end: 1315.98}
+  - {text: "I mean, nothing happened but at least she made a stand.", start: 1315.98, end: 1319.60}
+  - {text: "You lost your father in Bergen -Belsen.", start: 1319.98, end: 1321.78}
+  - {text: "Yes. You lost a lot of your family as a result of the Nazi dominance of what was a puppet regime in Hungary.", start: 1322.00, end: 1329.66}
+  - {text: "When you were liberated from that terrible experience of the concentration camp and you went home to your country, had you hoped for better things?", start: 1329.96, end: 1338.26}
+  - {text: "Yes, and it was better because between 45 and 48, Hungary, believe it or not, was a free country, so to speak.", start: 1338.50, end: 1348.30}
+  - {text: "And then the various parties gradually disappeared and basically it turned into a communist -dominated, one -party dictatorship.", start: 1348.70, end: 1357.50}
+  - {text: "The food disappeared within a few months, which was extraordinary because Hungary was an agricultural country.", start: 1358.24, end: 1364.64}
+  - {text: "There was practically no food.", start: 1365.38, end: 1366.40}
+  - {text: "So basically mismanagement, policing?", start: 1366.52, end: 1368.08}
+  - {text: "Mis -management, exporting to the Soviet Union because the Soviet Union arrived in a way as a liberating force from the Nazis, but they stayed as an oppressive force", start: 1368.18, end: 1380.14}
+  - {text: "and they stayed until the system changed in the late 80s.", start: 1380.14, end: 1385.18}
+  - {text: "Now, in October 1956, you have this extraordinary day you've described to us.", start: 1385.26, end: 1389.20}
+  - {text: "Was there a real sense of euphoria?", start: 1389.86, end: 1391.36}
+  - {text: "Were people excited? We wanted to be excited and we were, but at the back of our mind could it be that it may not happen?", start: 1391.54, end: 1400.52}
+  - {text: "It's 12 days when the Soviet tanks re -entered Budapest and there was severe fighting.", start: 1400.52, end: 1407.84}
+  - {text: "The hope disappeared and it was quite obvious that there will be very hard time.", start: 1408.52, end: 1413.72}
+  - {text: "One of my uncles was arrested with the accusation that he was distributing weapons.", start: 1414.10, end: 1420.84}
+  - {text: "My uncle couldn't distinguish one end of a gun from another, let alone to distribute it.", start: 1421.58, end: 1427.40}
+  - {text: "He was taken to the police station, he was beaten and soon after, he died.", start: 1427.40, end: 1432.70}
+  - {text: "And many people disappeared, including the prime minister.", start: 1433.08, end: 1436.72}
+  - {text: "Looking back, it was a great deal of disappointment.", start: 1437.34, end: 1440.98}
+  - {text: "What happened? And we do hope now that for the first time Hungary will manage politically successfully.", start: 1442.10, end: 1448.70}
+  - {text: "Pitalantos speaking to Sean Lay.", start: 1449.14, end: 1450.88}
+  - {text: "Now. The name's Bond, James Bond.", start: 1451.54, end: 1455.26}
+  - {text: "The familiar sound of Daniel Craig as James Bond there.", start: 1455.26, end: 1464.51}
+  - {text: "He last appeared in the role in 2021's No Time to Die.", start: 1464.95, end: 1468.61}
+  - {text: "There have been no Bond films since then.", start: 1468.79, end: 1470.99}
+  - {text: "It was sold to Amazon last year.", start: 1471.59, end: 1473.83}
+  - {text: "The burning question now is who will be the next Bond?", start: 1474.35, end: 1477.07}
+  - {text: "Well, it's been widely reported that screen trials are already underway in London and three men are in the frame to take over the role.", start: 1477.71, end: 1485.25}
+  - {text: "Please think I've done it.", start: 1485.71, end: 1486.83}
+  - {text: "My ex thinks I've done it.", start: 1487.01, end: 1487.83}
+  - {text: "And between me and you, there are moments no scant I've done it.", start: 1487.83, end: 1490.95}
+  - {text: "Prince of Wales. I sometimes feel like the main character who he describes as existing in a timeless and slightly ridiculous abyss.", start: 1491.39, end: 1499.79}
+  - {text: "Who next? You choose.", start: 1503.11, end: 1504.37}
+  - {text: "Well, those are the three in previous roles.", start: 1505.90, end: 1508.18}
+  - {text: "Our entertainment correspondent, Liza Mazimba, has been telling Charlotte Gallagher who they are.", start: 1508.60, end: 1513.32}
+  - {text: "According to people like Variety and The Hollywood Reporter, who are generally pretty well plugged into this kind of thing, final auditions are happening in and around London.", start: 1513.76, end: 1525.52}
+  - {text: "And according to those publications, there are at least three people being looked at seriously.", start: 1525.94, end: 1530.82}
+  - {text: "There's Callum Turner, who people might know from things like the Harry Potter spin -off Fantastic Beasts smoothies, as well as TV series like The Capture and Masters of the Air.", start: 1531.36, end: 1543.38}
+  - {text: "And of course, in his case, it's been suggested that if he did get the role, perhaps his wife, the multi -award -winning do -it -leaper, could sing the next Bond theme.", start: 1543.66, end: 1552.56}
+  - {text: "The other person that's been mentioned is Josh O 'Connor, probably best known for playing the young Prince Charles in The Crown, but also more recently appeared opposite Daniel Craig.", start: 1553.26, end: 1562.80}
+  - {text: "Yes, Daniel Craig in the third Knives Out film, Wake Up Deadman.", start: 1563.12, end: 1567.42}
+  - {text: "And the third person being talked about is, of course, Jack Loudon, who plays a very different kind of spy in the Apple series, Slow Horses.", start: 1567.74, end: 1577.02}
+  - {text: "His wife, Sir Shirona, said how much she'd love to play a Bond villain, so if he got the role, who knows what could happen there.", start: 1577.38, end: 1583.32}
+  - {text: "So all Brits, we think, that are in the frame at this point.", start: 1583.54, end: 1586.30}
+  - {text: "Because people had floated Hollywood, American actors, even Jacob Elordi at one point, whose Australian his name was floated as well.", start: 1586.38, end: 1593.10}
+  - {text: "Yes, I mean, Americans haven't really been in on this because the Bond people made clear from the start that they were looking for somebody from Britain or the Commonwealth.", start: 1593.24, end: 1602.72}
+  - {text: "Bond is a very British character.", start: 1602.72, end: 1605.18}
+  - {text: "These films are hugely popular.", start: 1605.74, end: 1607.04}
+  - {text: "People want to watch them in the cinemas, but it seems to have taken them such a long time to find a new James Bond.", start: 1607.50, end: 1611.72}
+  - {text: "Part of the reason is the change in ownership.", start: 1612.40, end: 1615.14}
+  - {text: "Of course, Bond used to be controlled by Barbara Broccoli and the company Eon.", start: 1615.42, end: 1620.20}
+  - {text: "Then they decided to sell the share they had in Bond to Amazon.", start: 1620.44, end: 1625.62}
+  - {text: "The other thing is Amazon bought MGM, who were one of the other people involved in the whole Bond thing financially.", start: 1626.14, end: 1631.04}
+  - {text: "It's not just about one film.", start: 1631.04, end: 1632.82}
+  - {text: "It's how can we get this right over a series of films.", start: 1633.18, end: 1635.82}
+  - {text: "And all the rumours are that they're going for quite a young Bond at the very start of his career.", start: 1635.96, end: 1640.08}
+  - {text: "So they can plot out, you know, what is the Bond story for 10 or 12 years and that general thing of like, oh, this is one big puzzle fitting together", start: 1640.38, end: 1647.74}
+  - {text: "as you go along from film to film.", start: 1647.74, end: 1649.66}
+  - {text: "And I'd imagine for something like this, Jeff Bezos, Amazon pride, we suspect that the final decision has to be signed off by him.", start: 1649.70, end: 1656.86}
+  - {text: "It's one of the most important entertainment decisions.", start: 1656.92, end: 1658.66}
+  - {text: "Lizzo Mazimba, speaking to Charlotte Gallagher.", start: 1658.66, end: 1661.44}
+  - {text: "And that is all from us for now.", start: 1664.20, end: 1665.54}
+  - {text: "If you want to get in touch, you can email us at globalpodcastatbbc .co .uk.", start: 1665.76, end: 1670.40}
+  - {text: "This edition of the Global News Podcast was mixed by Holly Smith and the producer was Emma Joseph.", start: 1670.96, end: 1676.22}
+  - {text: "The editor is Karen Martin.", start: 1676.78, end: 1677.98}
+  - {text: "I'm Nick Miles and until next time, goodbye.", start: 1678.46, end: 1680.38}
+---

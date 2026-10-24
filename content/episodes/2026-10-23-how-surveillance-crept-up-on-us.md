@@ -1,0 +1,428 @@
+---
+layout: single
+title: "How surveillance crept up on us"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-23T00:00:00Z
+slug: "2026-10-23-how-surveillance-crept-up-on-us"
+audioDir: "2026-10-23-how-surveillance-crept-up-on-us"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-23-how-surveillance-crept-up-on-us/episode.mp3"
+totalDuration: 2267.0
+sentences:
+  - {text: "This week on the NPR Politics Podcast, Democrats think Texas could be a new battleground for success.", start: 0.05, end: 6.51}
+  - {text: "The governor's race and the U .S.", start: 7.01, end: 8.49}
+  - {text: "Senate race are competitive, but it's been since 1994 that a Democrat, any Democrat has won any statewide office here.", start: 8.53, end: 15.15}
+  - {text: "We break down the odds and the stakes as candidates make their closing arguments before election day.", start: 15.71, end: 20.77}
+  - {text: "Listen, this week on the NPR Politics Podcast.", start: 21.11, end: 23.57}
+  - {text: "This is Planet Money from NPR.", start: 24.94, end: 27.08}
+  - {text: "A couple of months ago, I got put on a grand jury.", start: 30.30, end: 33.23}
+  - {text: "Now, this is not the kind of jury where you have to find guilt beyond a reasonable doubt.", start: 33.57, end: 38.65}
+  - {text: "This was the kind of jury where you sit and watch a bunch of cases.", start: 39.09, end: 42.91}
+  - {text: "Prosecutors for each case come in, present evidence, and then ask us, is there enough evidence to proceed to trial?", start: 43.45, end: 50.17}
+  - {text: "Grand jury might see dozens of cases.", start: 50.53, end: 52.61}
+  - {text: "It's a kind of triage at the beginning of the jury system, and it's there to protect people from the state, you know, overreaching, trying to put people on trial without enough evidence.", start: 53.35, end: 63.45}
+  - {text: "And for me, it was a really intense month.", start: 64.05, end: 68.09}
+  - {text: "The prosecutors played videos for us of thefts in progress and assaults and attempted murders and a couple of murder murders.", start: 68.41, end: 76.51}
+  - {text: "It was kind of brutal.", start: 77.09, end: 77.87}
+  - {text: "Now, look, we all know there are cameras everywhere.", start: 78.80, end: 81.78}
+  - {text: "Everyone is talking about those flock -automated license plate readers and what their local police departments are doing with that info.", start: 82.12, end: 89.08}
+  - {text: "But I did not understand the extent of it, just how vast it is.", start: 89.56, end: 94.62}
+  - {text: "I did not know I was being watched on practically every street, every corner, and every store, on every subway.", start: 94.72, end: 100.38}
+  - {text: "So as my time as a juror was wrapping up, I called up Michelle Dahl.", start: 101.12, end: 105.08}
+  - {text: "She runs the Surveillance Technology Oversight Project, also known as STOP, because they are trying to stop surveillance.", start: 105.34, end: 113.46}
+  - {text: "And I wanted to talk about how much video the New York City Police Department seemed to have access to.", start: 113.46, end: 119.44}
+  - {text: "So I feel like I'm an aware person in the city, but was shocked by grand jury duty.", start: 119.86, end: 125.22}
+  - {text: "And so I called your organization, STOP, and discovered that you couldn't really answer my call because you were on grand jury duty.", start: 125.34, end: 133.54}
+  - {text: "That's correct. How did that happen?", start: 133.80, end: 136.02}
+  - {text: "Like, did nobody ask you what you do for a living?", start: 136.16, end: 137.96}
+  - {text: "Oh, I volunteered the information.", start: 138.44, end: 140.02}
+  - {text: "I said, I'm a civil rights lawyer.", start: 140.40, end: 141.96}
+  - {text: "Is this going to be an issue?", start: 142.20, end: 143.22}
+  - {text: "Weirdly, it wasn't. We were on grand jury duty at the same time, on the same floor in adjoining courtrooms.", start: 143.22, end: 150.36}
+  - {text: "We must have crossed paths at some point.", start: 150.50, end: 151.96}
+  - {text: "We must have crossed paths.", start: 151.96, end: 152.28}
+  - {text: "There was a farmer's fridge.", start: 152.32, end: 153.80}
+  - {text: "I ate that. I was old a little.", start: 154.58, end: 155.98}
+  - {text: "I never tried that, but I did get a couple Celsius drinks.", start: 156.34, end: 159.02}
+  - {text: "We are not allowed to talk to each other or tell you about the specific cases we saw or the witnesses we heard from.", start: 159.58, end: 166.98}
+  - {text: "We have been sworn to secrecy, but we can talk very broadly about the experience.", start: 166.98, end: 173.86}
+  - {text: "So for example, let's say a grand jury was shown video of a hit and run.", start: 174.50, end: 179.40}
+  - {text: "There might be footage of the incident from a camera on the street.", start: 179.88, end: 183.30}
+  - {text: "That's not all that surprising, but there might also be an edit like dozens of videos of the vehicle driving for miles shot from all sorts of cameras,", start: 183.56, end: 193.16}
+  - {text: "all sorts of angles in black and white in color.", start: 193.36, end: 196.12}
+  - {text: "Then the prosecutor might show a video still of the driver.", start: 196.12, end: 199.22}
+  - {text: "And it was like, how did they do this?", start: 199.78, end: 201.82}
+  - {text: "Do the police go visit all the bodegas, you know, ask the state police for videos of the highways and then go to each and every", start: 202.04, end: 208.34}
+  - {text: "business on the route to edit all of these videos together.", start: 208.34, end: 211.06}
+  - {text: "Michelle says they often don't have to work that used to take days.", start: 211.84, end: 215.60}
+  - {text: "Now can take just minutes because police can pull it all from this massive system.", start: 215.96, end: 221.28}
+  - {text: "And it acts essentially as a search engine.", start: 221.44, end: 224.12}
+  - {text: "Police officers can type in a person's name and it will pull up a profile of that person pulling data from different databases that they have.", start: 224.12, end: 233.08}
+  - {text: "They might also be able to type in an address and pull up video.", start: 233.24, end: 235.88}
+  - {text: "So it draws data from 80 ,000 plus cameras across the city.", start: 236.24, end: 240.64}
+  - {text: "Footage from drones, automated license plate readers.", start: 241.16, end: 244.56}
+  - {text: "Facial recognition tech can be used alongside it.", start: 245.52, end: 248.28}
+  - {text: "And it's done without a warrant.", start: 249.32, end: 251.60}
+  - {text: "A warrant, like an official permission slip from a judge to invade your privacy and search you or your stuff if it seems like you might have broken a law.", start: 251.60, end: 260.06}
+  - {text: "And so we're just mass monitoring everyone for the chance that something might happen.", start: 260.30, end: 266.48}
+  - {text: "Michelle is not saying that the police just sit around all day watching videos to wait and see if one of us is crimeing.", start: 266.82, end: 272.92}
+  - {text: "But they have so many details about us and our lives available to them within seconds.", start: 273.26, end: 279.32}
+  - {text: "I mean, whether this is good or bad, I just don't remember agreeing to all this.", start: 279.32, end: 285.30}
+  - {text: "And that's because when it comes to the details, almost no one did.", start: 285.70, end: 290.42}
+  - {text: "When I started to look into how and why the city where I live set up a massive all watching system, like picture a digital version", start: 292.47, end: 300.47}
+  - {text: "of one of those bulletin boards with all the red strings tying together faces to names to locations to today to a year ago.", start: 300.47, end: 308.05}
+  - {text: "I ended up talking to the NYPD, to government officials, to researchers and to lawyers to figure out what happened.", start: 308.55, end: 316.53}
+  - {text: "Turns out that while decisions were being made about what tech to adopt and how much to pay for it, almost no one was consulted.", start: 317.27, end: 325.65}
+  - {text: "For a long time, the only paper trail was offline, stored in filing cabinets, kept under lock and key.", start: 326.19, end: 332.21}
+  - {text: "Hello, I'm welcome to Planet Money.", start: 336.03, end: 337.57}
+  - {text: "I'm Amanda Aronche. For years, police have argued for security over transparency and spent billions of tax dollars without our permission on watching us, tracking us, recording us.", start: 337.83, end: 349.77}
+  - {text: "Today on the show, how this all went down with the largest police department in the country in the fight to get police everywhere to tell us how they're watching us.", start: 350.45, end: 359.97}
+  - {text: "This week on here and now any time, a Nobel Peace Prize winner says the US is enabling Russia's war in Ukraine.", start: 365.18, end: 371.56}
+  - {text: "President Trump promised to end this war in 24 hours.", start: 372.30, end: 375.46}
+  - {text: "And now he is financing this war.", start: 376.44, end: 379.30}
+  - {text: "A view from Kiev as the war heads into its seventh winter on here and now any time.", start: 379.60, end: 384.26}
+  - {text: "Listen on the NPR app or anywhere you listen to podcasts.", start: 384.68, end: 387.30}
+  - {text: "I'm Kevin Roos and I'm Casey Newton.", start: 388.49, end: 390.43}
+  - {text: "And together we've been tech journalists for decades.", start: 390.67, end: 392.69}
+  - {text: "Now we're your hosts of Machine Gods, a new podcast from NPR that makes sense of what AI means for your work, your life and all of our futures.", start: 393.25, end: 401.15}
+  - {text: "Twice a week, we'll be exploring the biggest moves in tech and give you unmatched access to the real titans of industry.", start: 401.15, end: 407.61}
+  - {text: "Listen to Machine Gods from NPR on the NPR app or wherever you get your podcasts.", start: 407.81, end: 412.01}
+  - {text: "I'm going to tell you this story in two parts.", start: 413.22, end: 415.78}
+  - {text: "The first is about how this web of surveillance ended up on every NYPD issued cell phone.", start: 416.22, end: 422.04}
+  - {text: "The second part is about how that web grew so big without any of us agreeing to it.", start: 422.68, end: 427.84}
+  - {text: "So it's a story about the rise of the surveillance system and the secrecy that built it.", start: 428.12, end: 432.46}
+  - {text: "To start off, I wanted to talk with someone who remembers what policing was like back in the day without all the fancy tech and video cameras.", start: 433.20, end: 440.44}
+  - {text: "So I got in touch with former NYPD captain Joe Pascarella, who remembers thinking back in the early 2000s, more video might be helpful for police.", start: 440.90, end: 450.42}
+  - {text: "You know, at the time, I didn't think we were doing a good job in the NYPD.", start: 450.96, end: 453.84}
+  - {text: "The NYPD was being heavily criticized for what was known as stop and frisk, where police officers were stopping mostly young people of color and searching", start: 454.22, end: 463.44}
+  - {text: "them based on some vague notion of suspicion.", start: 463.44, end: 466.30}
+  - {text: "So I thought, you know, a good way to cut down stops.", start: 466.66, end: 469.16}
+  - {text: "Just film everybody instead.", start: 469.66, end: 470.84}
+  - {text: "That that is what you thought of that.", start: 471.68, end: 473.44}
+  - {text: "That was my thought, you know, non physical policing.", start: 473.44, end: 475.58}
+  - {text: "So right in the early days of more camera surveillance that was seen as a fix for something.", start: 476.12, end: 481.66}
+  - {text: "Yes. Yes. I think it was a fix for, you know, less physical policing.", start: 481.76, end: 485.70}
+  - {text: "You know, in a camera, there's a lot.", start: 485.98, end: 487.72}
+  - {text: "You get a field of view.", start: 487.72, end: 489.16}
+  - {text: "You get a direction.", start: 489.30, end: 490.26}
+  - {text: "You could get someone's gate and get their biometrics.", start: 490.52, end: 493.00}
+  - {text: "You could get a lot more off a camera than a physical observation.", start: 493.24, end: 496.16}
+  - {text: "And is this I can't tell what your what your take is on that?", start: 496.52, end: 498.98}
+  - {text: "Like, is that positive?", start: 499.08, end: 499.78}
+  - {text: "Is that negative? You know, I don't know.", start: 500.00, end: 502.46}
+  - {text: "It's hard to say it's in that public safety versus individual rights.", start: 502.54, end: 505.62}
+  - {text: "Depends on, you know, the old adage where you sit is where you stand.", start: 506.00, end: 509.48}
+  - {text: "Joe now sits at a desk at St.", start: 509.78, end: 511.80}
+  - {text: "Joseph's University in Brooklyn.", start: 511.90, end: 513.04}
+  - {text: "There he's a professor of criminal justice and cybersecurity.", start: 513.28, end: 515.78}
+  - {text: "And he's got more time to think about the ways technology might step on people's rights.", start: 515.78, end: 521.48}
+  - {text: "But when he was first starting out all the way back in 1991, he was mostly thinking about how to stay safe.", start: 522.04, end: 529.10}
+  - {text: "My first role is actually I'm walking a footpost in Times Square.", start: 529.28, end: 533.16}
+  - {text: "Times Square footpost in 1991.", start: 533.46, end: 536.38}
+  - {text: "Times Square was actually a quite harrowing place.", start: 536.98, end: 539.88}
+  - {text: "Today, you might go to Times Square to get your initials put on some M &Ms at the flagship M &M store.", start: 540.50, end: 546.32}
+  - {text: "But back in that era, if you were going to Times Square, it was probably to go get some porn.", start: 546.80, end: 551.48}
+  - {text: "Then actually went from a porn haven to a place to go by crack or, you know, allele things like guns and all kinds of things you could buy at the street.", start: 551.78, end: 560.26}
+  - {text: "It was quite a shock, actually.", start: 560.58, end: 562.18}
+  - {text: "And that was your job?", start: 562.58, end: 563.54}
+  - {text: "Yeah, that was the job.", start: 563.84, end: 564.70}
+  - {text: "And basically what they wanted you to do was, quote unquote, clear your footpost.", start: 564.82, end: 568.22}
+  - {text: "You know, when the sergeant drove around, did not want to see drug dealers, did not want to see, you know, unfortunately homeless people.", start: 568.70, end: 574.06}
+  - {text: "And are you using any technology at all?", start: 574.30, end: 576.34}
+  - {text: "No technology, actually. You did have a radio and, you know, obviously you have your other self -defense weapons, but your biggest technology actually was your mouth.", start: 576.94, end: 585.82}
+  - {text: "You know, Joe's talking to everybody on the block.", start: 586.16, end: 588.22}
+  - {text: "He's making connections. He's trying to keep it peaceful, keep it orderly.", start: 588.36, end: 592.42}
+  - {text: "And he's got his gun and his radio with him if he needs to call for backup.", start: 592.86, end: 595.86}
+  - {text: "But if someone called in a stolen car or a break -in, there wasn't much here the detectives could do.", start: 596.38, end: 602.74}
+  - {text: "At that time, the police were solving fewer than a fifth of property crimes.", start: 603.08, end: 607.52}
+  - {text: "There used to be an old joke where, you know, had you arrested this burglar while he jumped into the back of my patrol car.", start: 607.84, end: 613.44}
+  - {text: "Yeah, fingerprinting and DNA profiling existed, but both were pretty limited.", start: 613.70, end: 618.68}
+  - {text: "There just weren't that many tools.", start: 619.42, end: 621.26}
+  - {text: "Over the 1990s, though, police all over the country adopted lots of the new innovative technologies, cell phones and computer databases and video and mapping.", start: 621.82, end: 631.20}
+  - {text: "But what truly transformed the NYPD was not one single tech innovation.", start: 631.76, end: 637.32}
+  - {text: "It was actually a conceptual shift of what the police department was for.", start: 637.98, end: 642.72}
+  - {text: "This came in the aftermath of 9 -11.", start: 643.34, end: 645.36}
+  - {text: "Up to that point, had counterterrorism been a thing that had been part of your workload?", start: 645.90, end: 650.02}
+  - {text: "It was not a part of our workload, and more importantly, we thought it was someone else that was going to take care of it.", start: 650.68, end: 656.80}
+  - {text: "Like counterterrorism, that was the CIA's job or the FBI's.", start: 656.80, end: 661.14}
+  - {text: "But 9 -11 was a massive intelligence failure.", start: 661.42, end: 664.46}
+  - {text: "And if the federal government couldn't tell the city what was coming, then the NYPD was like, look, we have to protect ourselves.", start: 664.90, end: 671.66}
+  - {text: "We need to see what's coming at us and stop it before it does.", start: 672.14, end: 675.14}
+  - {text: "So the NYPD starts going from being a local police department into also being a counterterrorism force.", start: 675.78, end: 681.80}
+  - {text: "You know, we had to really account for, you know, everything from all the way down to the bottom of the rivers.", start: 682.18, end: 686.46}
+  - {text: "To the top of the skies.", start: 686.80, end: 688.10}
+  - {text: "And, you know, building by building, it's the basis of the Brooklyn Bridge, the basis of the Manhattan Bridge and also our air.", start: 688.44, end: 695.48}
+  - {text: "I started seeing a lot of air monitors to make sure that, you know, there's not a terror attack released in the air.", start: 695.72, end: 701.04}
+  - {text: "It's a very, very big city.", start: 701.22, end: 702.50}
+  - {text: "And all of the changes to scale up were really, really expensive.", start: 702.82, end: 706.06}
+  - {text: "So the city lobbied the federal government to get massive homeland security grants.", start: 706.98, end: 711.44}
+  - {text: "And so did police departments across the country.", start: 711.88, end: 714.70}
+  - {text: "They also wanted to be ready for the next terrorist attack.", start: 714.70, end: 718.88}
+  - {text: "There was a huge battle to get that money.", start: 719.48, end: 721.46}
+  - {text: "Ultimately, Joe watched the NYPD get quite a lot of federal dollars.", start: 722.02, end: 725.94}
+  - {text: "Lots, billions, billions, just all kinds of federal resources for counterterrorism.", start: 726.26, end: 732.08}
+  - {text: "So we built out a lot in personnel, a lot of equipment, a lot of technology.", start: 732.62, end: 737.08}
+  - {text: "With all of this money pouring in, the NYPD had the resources to, you know, send its own detectives to other countries, expand a joint terrorism task force to work more closely with federal agencies, to hire a former CIA guide to lead intelligence", start: 737.32, end: 752.76}
+  - {text: "and to amass all kinds of new technology to help the police see and hear and learn about anything bad that might happen in New York.", start: 753.62, end: 762.74}
+  - {text: "At first, the aim of all this is to prevent a truck bomb or bio weapon attack by spotting a suspicious license plate or maybe an unattended backpack.", start: 763.24, end: 772.10}
+  - {text: "But then the mission started to creep both figuratively and geographically.", start: 772.72, end: 778.12}
+  - {text: "So, you know, you could put up a camera.", start: 778.50, end: 780.18}
+  - {text: "It's, you know, we used to call it a double bang for your buck.", start: 780.84, end: 783.14}
+  - {text: "You put up a camera to try to stop terrorism.", start: 783.24, end: 785.40}
+  - {text: "And you're also, you know, you'll have enough surveillance for, you know, local disorder and crime problems.", start: 785.42, end: 790.06}
+  - {text: "Double bang for your buck.", start: 790.36, end: 791.50}
+  - {text: "Looking for terrorists might also be able to catch a burglar.", start: 791.82, end: 794.74}
+  - {text: "So now to do both, they've got the federal money pouring in, plus all of this private and corporate money going to groups like the non -profit police foundations.", start: 795.30, end: 806.22}
+  - {text: "After 9 -11, there was a surge in donations to these kinds of groups across the country.", start: 806.66, end: 811.94}
+  - {text: "In New York, the NYPD begins to build what will arguably become the most advanced high tech surveillance and intelligence platform in the country.", start: 812.50, end: 822.42}
+  - {text: "It starts with gathering what they know into one place.", start: 822.42, end: 826.94}
+  - {text: "So this means like databases and criminal records and 9 -11 calls a ton of data.", start: 827.46, end: 832.18}
+  - {text: "Then they centralize all that info into a 24 -hour day, seven day a week, real time crime center, which launched in 2005.", start: 832.82, end: 842.48}
+  - {text: "So say a detective was investigating a serious shooting they could call.", start: 843.36, end: 848.28}
+  - {text: "Call up, are there any cameras in the areas?", start: 848.50, end: 850.26}
+  - {text: "You know, I have this license plate.", start: 850.62, end: 851.90}
+  - {text: "Can you run this against the database as opposed to going back to the detective squad officers getting on the computer?", start: 851.90, end: 857.34}
+  - {text: "So it evolved into a very, very important help center to try to solve crimes.", start: 857.92, end: 863.44}
+  - {text: "The NYPD also started to build a way to watch the city, a network of cameras, license plate readers, radiation detectors.", start: 863.72, end: 870.82}
+  - {text: "In 2008, they launched the Lower Manhattan Security Initiative.", start: 871.64, end: 875.36}
+  - {text: "And here, the city did something quite savvy.", start: 875.94, end: 879.30}
+  - {text: "It was expensive to buy and put up cameras everywhere.", start: 879.30, end: 882.50}
+  - {text: "And lo and behold, a lot of the private businesses and buildings near Wall Street already had cameras set up.", start: 883.06, end: 889.40}
+  - {text: "So the NYPD goes to these businesses and is like, Hey, what if you sent your video feed directly to us?", start: 889.90, end: 897.08}
+  - {text: "You know, share your cameras and lots of places agree to this, like the New York Stock Exchange, Goldman Sachs.", start: 897.42, end: 904.82}
+  - {text: "And eventually this becomes so normalized that the NYPD even creates an explainer video about how, like the Bodega or I don't know, Grace Papaya could share their video too with the NYPD.", start: 905.08, end: 918.32}
+  - {text: "By enrolling and connect New York, you could play a crucial role in enhancing public safety and enabling swifter responses to incidents.", start: 918.64, end: 927.48}
+  - {text: "Today, Connect New York is just one of multiple programs for sharing video with the NYPD.", start: 928.00, end: 932.56}
+  - {text: "You could opt to provide live access to your camera feeds or you can register your camera locations for easy reference when assistance is needed.", start: 932.76, end: 941.62}
+  - {text: "In the years that followed the Lower Manhattan Security Initiative, the video network extended all across the city.", start: 942.02, end: 948.46}
+  - {text: "And eventually this public private model of shared camera networks becomes a model for other cities across the country.", start: 948.90, end: 956.08}
+  - {text: "And then the NYPD has its biggest, boldest idea yet.", start: 956.70, end: 962.54}
+  - {text: "What if we mix the chocolate with the peanut butter?", start: 962.98, end: 966.16}
+  - {text: "We've got all this data.", start: 966.28, end: 967.18}
+  - {text: "We also have this enormous network of cameras.", start: 967.58, end: 969.96}
+  - {text: "What if we put it all together into a massive, centralized platform?", start: 970.56, end: 974.80}
+  - {text: "They bring in Microsoft to help.", start: 975.32, end: 977.00}
+  - {text: "Just so you know, Microsoft is a sponsor of NPR.", start: 977.50, end: 979.82}
+  - {text: "The NYPD then spends the next four years developing a platform with a military inspired name.", start: 980.74, end: 986.66}
+  - {text: "Today we're announcing the full launch of the Domain Awareness System.", start: 987.02, end: 991.48}
+  - {text: "In 2012, former Mayor Michael Bloomberg formally launched the Domain Awareness System from a secure command center.", start: 991.48, end: 998.80}
+  - {text: "He is flanked by cops and surrounded by live video monitors.", start: 999.02, end: 1002.82}
+  - {text: "It's really giving that cave.", start: 1003.16, end: 1004.84}
+  - {text: "We're not your mom and pops police department anymore.", start: 1005.00, end: 1008.18}
+  - {text: "We are in the next century.", start: 1008.88, end: 1011.44}
+  - {text: "We are leading the pack.", start: 1011.82, end: 1013.06}
+  - {text: "That's exactly what you would expect us to do.", start: 1013.24, end: 1015.36}
+  - {text: "He wrapped up in Bloomberg Spanish.", start: 1015.76, end: 1017.54}
+  - {text: "A Hintocom impressed a Microsoft El Departamento de Policia a Creado Nuevo Sistema.", start: 1017.89, end: 1023.68}
+  - {text: "Anyway, the Domain Awareness System is a big part of why I had the experience I had on grand jury duty.", start: 1023.86, end: 1030.12}
+  - {text: "Why grand juries today can watch videos from all over the city, from all kinds of cameras all edited together and why the police can connect videos to people using license plate readers and geolocation.", start: 1030.58, end: 1043.40}
+  - {text: "All that red string tying the story together, leading to names and ultimately arrests.", start: 1044.25, end: 1050.74}
+  - {text: "Four years later in 2016, the NYPD was a finalist for an international award for the Domain Awareness System.", start: 1051.48, end: 1058.44}
+  - {text: "And at the award ceremony, a deputy commissioner, now commissioner, Jessica Tisch, she reveals the scale of what the Domain Awareness System can do and the extent of its reach.", start: 1058.96, end: 1070.66}
+  - {text: "We currently have two billion license plate reads, 100 million summonses, 54 million 911 calls, 15 million complaints, 12 million detective reports, 11 million arrest records,", start: 1070.66, end: 1084.36}
+  - {text: "two million warrants and 30 days of video from 9000 cameras.", start: 1084.62, end: 1089.32}
+  - {text: "And this is just in New York, but she makes it clear that hundreds of other law enforcement agencies from dozens of other countries have come", start: 1089.74, end: 1098.02}
+  - {text: "to tour the Batcave to learn from it.", start: 1098.02, end: 1100.34}
+  - {text: "Police all over the country and the world are incorporating similar systems into their police departments.", start: 1100.66, end: 1106.22}
+  - {text: "Let me emphasize, every day we have more than 10 ,000 cops using the analytics in DAS to inform their decision making.", start: 1107.40, end: 1116.18}
+  - {text: "And this was a decade ago.", start: 1116.48, end: 1117.76}
+  - {text: "Now way more cops use it.", start: 1118.02, end: 1119.56}
+  - {text: "Using analytics, we can have a safer city and a fairer city, too.", start: 1119.60, end: 1123.76}
+  - {text: "Tisch said at the time that the Domain Awareness System was helping police reduce crime and prevent terrorist attacks.", start: 1124.16, end: 1130.38}
+  - {text: "We reached out to the NYPD to see if Commissioner Tisch or another rep from the NYPD would speak with us and they declined to be recorded.", start: 1131.08, end: 1139.06}
+  - {text: "But I did talk to a spokesperson, Bradley Weeks, about the details in this story.", start: 1139.46, end: 1144.56}
+  - {text: "And he said that the Domain Awareness System has made New Yorkers safer.", start: 1144.90, end: 1149.04}
+  - {text: "In a statement, they said, quote, anyone who has ever called 9 -1 -1 for help been the victim of a crime or who cares about their safety has benefited from the system, unquote.", start: 1149.60, end: 1159.86}
+  - {text: "Today, New York is considered one of the safest cities in the country, although sorting out whether that's because of population growth or economics or policing policy is kind of hard to do.", start: 1160.91, end: 1173.25}
+  - {text: "When it comes to security cameras more broadly, a meta -analysis of 40 years worth of studies found that cameras do reduce car theft.", start: 1173.89, end: 1182.71}
+  - {text: "But overall, it's not clear that more cameras equal less crime.", start: 1183.19, end: 1187.99}
+  - {text: "Do you do when you walk around, do you just see cameras?", start: 1190.80, end: 1193.68}
+  - {text: "I do. I kind of can't help but spot them.", start: 1194.14, end: 1196.64}
+  - {text: "Recently, I went on a sort of surveillance tech tour with Michelle Dahl, my fellow grandeur here.", start: 1197.02, end: 1202.50}
+  - {text: "There's another one there.", start: 1202.66, end: 1203.50}
+  - {text: "Her group is very opposed to the NYPD's use of the Domain Awareness System.", start: 1203.70, end: 1207.40}
+  - {text: "That's our third camera.", start: 1207.50, end: 1208.58}
+  - {text: "Stop. Her group has recently sued the city saying the system violates our constitutional rights to privacy and free speech.", start: 1208.96, end: 1216.68}
+  - {text: "14 -15 here. So they have done a lot of research on what the NYPD is using.", start: 1216.68, end: 1221.54}
+  - {text: "All right. If we want to pause here, there's a really good view of the camera right up there.", start: 1221.92, end: 1227.68}
+  - {text: "Michelle points upwards at a large tan box attached to a streetlight with an NYPD sticker on it.", start: 1228.62, end: 1233.80}
+  - {text: "And it's got a little dome, so it's also likely a 360 camera.", start: 1233.82, end: 1237.44}
+  - {text: "We know that they can do a 360 pan tilt zoom and basically one camera and could cover an entire block and get good enough resolution", start: 1238.16, end: 1247.50}
+  - {text: "to identify somebody's face on the entire city block.", start: 1247.50, end: 1249.74}
+  - {text: "We then continue a couple of blocks and we stop in a park.", start: 1250.14, end: 1253.60}
+  - {text: "A cop walks by.", start: 1254.28, end: 1255.04}
+  - {text: "Police officers on his phone.", start: 1255.32, end: 1256.90}
+  - {text: "Every police officer in the city can access the Domain Awareness System on their police -issued phones.", start: 1257.78, end: 1262.92}
+  - {text: "The NYPD said that not all officers can access video from their phones, but there's lots of other data.", start: 1263.24, end: 1269.40}
+  - {text: "So if he came over here and stopped us, he could look us up and take our IDs and look up our profiles in the Domain Awareness System,", start: 1269.74, end: 1276.58}
+  - {text: "which would show all the information they have about us, things like 311 calls, any past criminal records.", start: 1277.20, end: 1283.60}
+  - {text: "What are the odds that they have me in there?", start: 1284.62, end: 1286.42}
+  - {text: "I mean, have you lived here for any period of time?", start: 1286.90, end: 1289.40}
+  - {text: "I asked the NYPD this question if I'm in the Domain Awareness System or not.", start: 1289.92, end: 1294.26}
+  - {text: "And they said that if I had a driver's license or a car registered in New York, then, yeah, I'm in there.", start: 1294.80, end: 1300.72}
+  - {text: "But they said they would not look me up for, like, no reason.", start: 1300.72, end: 1304.80}
+  - {text: "It can only be used for legitimate law enforcement purposes, like criminal investigations or civil litigation.", start: 1305.34, end: 1310.62}
+  - {text: "Over the past 35 years, we have gone from practically no cameras in the streets to practically no streets without cameras.", start: 1312.37, end: 1320.49}
+  - {text: "And since 9 -11, those cameras have been integrated into this web of tech, tracking our movements and our faces and tying them to our names, birth dates, addresses, phone numbers and more.", start: 1321.07, end: 1332.65}
+  - {text: "So I've told you the story of the rise of this incredibly thorough surveillance system in New York.", start: 1333.43, end: 1339.27}
+  - {text: "Now, for the story of how a lot of it happened behind our backs.", start: 1339.75, end: 1343.63}
+  - {text: "And that is because there has been a kind of technological creep.", start: 1343.99, end: 1348.09}
+  - {text: "And a lot of that creep happened in secret.", start: 1348.61, end: 1351.07}
+  - {text: "In New York, there was an actual secret agreement to keep this hidden.", start: 1351.79, end: 1355.79}
+  - {text: "The NYPD went to the mayor in a handful of city agencies and was like, what if we wanted to buy a lot of new police stuff?", start: 1356.13, end: 1363.51}
+  - {text: "But we wanted to keep it on the down low.", start: 1363.71, end: 1366.75}
+  - {text: "After the break, the secret agreement that kept thousands of police purchases and tech contracts out of the public eye and the fight to expose it all.", start: 1370.28, end: 1379.10}
+  - {text: "This election season, let the NPR Politics podcast, Save Your Time and Your Sanity will help you understand key races, which polls you can safely ignore.", start: 1384.74, end: 1393.22}
+  - {text: "And what might happen if power shifts in Congress?", start: 1393.48, end: 1396.12}
+  - {text: "Our short daily episodes come out every afternoon so you can spend less time scrolling through each chaotic news cycle.", start: 1396.12, end: 1402.18}
+  - {text: "Make NPR Politics your hub for midterm election coverage.", start: 1402.60, end: 1405.34}
+  - {text: "Follow our podcast on the NPR app or wherever you get your podcast.", start: 1405.52, end: 1408.52}
+  - {text: "American journalist, Austin Tice, vanished in Syria over a decade ago.", start: 1408.90, end: 1414.12}
+  - {text: "For years, we've been searching for him, and now we finally have some answers.", start: 1414.54, end: 1419.44}
+  - {text: "This is the prison that Austin was in.", start: 1419.86, end: 1421.58}
+  - {text: "Oh, my God, we found Austin's file.", start: 1421.74, end: 1424.54}
+  - {text: "Listen to Where Is Austin Tice from NPR's Embedded and BBC Radio 4 on the NPR app or wherever you get your podcasts.", start: 1424.54, end: 1432.88}
+  - {text: "Election season feels messier than ever.", start: 1433.38, end: 1435.86}
+  - {text: "Attack ads, misinformation, AI, NPR is your antidote.", start: 1436.06, end: 1440.04}
+  - {text: "Our network of real, live human journalists keeps you focused on what's real.", start: 1440.66, end: 1444.48}
+  - {text: "With NPR Plus, you directly support journalists on the ground asking questions.", start: 1445.12, end: 1449.54}
+  - {text: "And as a thank you, you get dozens of podcasts sponsor free.", start: 1450.08, end: 1453.12}
+  - {text: "Sign up for NPR Plus today at plus .npr .org.", start: 1453.12, end: 1457.06}
+  - {text: "So in law enforcement, there is this tension between security and transparency because when the police are trying to catch bad guys, they don't want the bad guys to know all the things that they're up to.", start: 1457.86, end: 1470.36}
+  - {text: "But that secrecy allows law enforcement to use tools we don't know about.", start: 1470.88, end: 1475.50}
+  - {text: "And that can be risky, too.", start: 1475.76, end: 1477.04}
+  - {text: "This half of this story is about a secret deal that allowed police to build a massive surveillance system without much public oversight.", start: 1478.28, end: 1486.42}
+  - {text: "This deal came to light when, in New York, a few key people started noticing that the police had some new tactics and tricks that they weren't telling the public about.", start: 1486.98, end: 1496.28}
+  - {text: "One of those key people was the former New York City comptroller, Scott Stringer.", start: 1496.98, end: 1501.26}
+  - {text: "Comptroller, controller. Comptroller. In New York, that means the person in charge of city finances.", start: 1501.40, end: 1508.10}
+  - {text: "When Scott Stringer came into office in 2014, he was told that if the NYPD wanted to buy some new tech or software that they didn't want to make public for security reasons, they could classify it as a special expense,", start: 1508.82, end: 1522.02}
+  - {text: "a special expense that did not need to be scrutinized by the city council or by the public.", start: 1522.84, end: 1527.46}
+  - {text: "So they would come in, they would brief us about what they wanted to do.", start: 1527.90, end: 1531.98}
+  - {text: "And in the old agreement was like, OK, wink, wink, nod, nod.", start: 1532.22, end: 1535.78}
+  - {text: "Security, we understand. This wink, wink, nod, nod system had been established years earlier, all the way back in 2007, when the comptroller and former Mayor Bloomberg, plus a couple of city agencies,", start: 1535.78, end: 1548.66}
+  - {text: "agreed to a memo of understanding with NYPD about the special expenses.", start: 1549.12, end: 1554.18}
+  - {text: "Well, you know, remember, it was not that far away from 9 -11.", start: 1554.60, end: 1557.62}
+  - {text: "Right. And so part of what I think people felt was that enhanced security and having every tool at your disposal was important.", start: 1557.84, end: 1568.78}
+  - {text: "But Scott Stringer was like, is this OK?", start: 1568.94, end: 1572.04}
+  - {text: "Normally, when a city agency wants to make some big purchase, even a new set of history books for sixth graders, there's a whole process for it, and it's designed to ensure public accountability.", start: 1572.82, end: 1583.54}
+  - {text: "They take requests for bids, select a vendor, submit that vendor to be vetted.", start: 1583.94, end: 1587.72}
+  - {text: "And within that process, there might be a big public debate about it.", start: 1588.26, end: 1592.24}
+  - {text: "It's a check, and we are a city of checks and balances.", start: 1592.24, end: 1595.18}
+  - {text: "That's why we have a city council.", start: 1595.46, end: 1596.46}
+  - {text: "It's why you have a controller.", start: 1596.66, end: 1597.48}
+  - {text: "That's why you have an independent budget office.", start: 1598.26, end: 1599.58}
+  - {text: "You know, all of this is to check a very powerful police department and a powerful mayor, no matter who the mayor is.", start: 1600.14, end: 1605.70}
+  - {text: "So a few years into the wink, wink, nod, nod agreement with the NYPD, Scott Stringer was like, maybe skipping public debate about all of this new tech", start: 1606.12, end: 1615.44}
+  - {text: "that the NYPD is buying is a mistake.", start: 1615.44, end: 1617.86}
+  - {text: "When you're going to look at a technology, well, it can't be, you know, five guys in a room.", start: 1618.10, end: 1624.98}
+  - {text: "It has to be, will this pass the smell test?", start: 1625.14, end: 1628.80}
+  - {text: "Are we dealing with good actors or the contractors honest?", start: 1629.00, end: 1632.94}
+  - {text: "Is there pay to play?", start: 1633.20, end: 1634.84}
+  - {text: "A tool is important if it's effective, but how do we measure if it's effective if there's no oversight?", start: 1635.42, end: 1641.56}
+  - {text: "Now, it wasn't just the comptroller who was worrying about what the police department was buying or what they were up to.", start: 1641.94, end: 1647.42}
+  - {text: "Civil liberties advocates were like, is this even legal?", start: 1647.42, end: 1651.10}
+  - {text: "All over the United States, there are longstanding rules about what information police departments can collect about people before they become suspects in a crime.", start: 1651.94, end: 1661.60}
+  - {text: "So, for example, police are not supposed to spy on people because of their political or religious beliefs or demand data on people just to see", start: 1662.04, end: 1671.10}
+  - {text: "who was near a crime scene or search someone's home without a warrant.", start: 1671.10, end: 1675.94}
+  - {text: "Did any of the tools woven into the domain awareness system in those early years cross any existing lines or break any rules?", start: 1676.68, end: 1684.98}
+  - {text: "At the time, and without more information, it was hard to know.", start: 1685.64, end: 1689.16}
+  - {text: "Over at the Legal Aid Society, a lawyer named Jerome Greco was seeing evidence of all kinds of new NYPD surveillance tools in court.", start: 1689.78, end: 1698.08}
+  - {text: "At the time, he was defending clients, kind of like the people I was seeing in the videos while I was on grand jury duty.", start: 1698.72, end: 1704.48}
+  - {text: "He remembers one particular case from 2016.", start: 1704.88, end: 1708.08}
+  - {text: "We had a client who had a one night stand at the NYPD who was looking for him and found him at that woman's apartment.", start: 1708.48, end: 1715.42}
+  - {text: "And we're like, he has no connections to this woman before this night.", start: 1715.92, end: 1718.26}
+  - {text: "Tell us how you found him and, you know, crickets.", start: 1718.82, end: 1722.42}
+  - {text: "Had they tracked his cell phone?", start: 1722.84, end: 1724.76}
+  - {text: "If so, how? Jerome wanted to know were these tools legal and effective, but he also wanted to know could he buy his own not for like eavesdropping", start: 1725.10, end: 1737.02}
+  - {text: "or wiretapping but tools to extract data from cell phones or laptops or enhanced video.", start: 1737.02, end: 1742.84}
+  - {text: "You guys have bought these things for yourself?", start: 1743.06, end: 1744.64}
+  - {text: "Yes. Well, I wouldn't say for ourselves, for our clients.", start: 1744.94, end: 1748.08}
+  - {text: "I see. Like if the NYPD has data from a cell phone, Jerome can also check the data for himself.", start: 1748.28, end: 1754.22}
+  - {text: "Make sure the evidence is accurate.", start: 1754.48, end: 1756.50}
+  - {text: "He even goes to some of the same conferences that police go to to do some shopping.", start: 1756.90, end: 1761.38}
+  - {text: "We go to see the vendors and they're talking about and this will help you catch the bad guy and they'll give us a whole little spiel.", start: 1761.38, end: 1767.88}
+  - {text: "And then they'll say, where are you guys from?", start: 1768.02, end: 1769.12}
+  - {text: "And like legal aid site or public defenders and just watching their face like drop the like, oh, a lot of the reps from the tech companies are also former police officers themselves,", start: 1769.42, end: 1778.80}
+  - {text: "which Jerome worries gives the products a kind of stamp of approval without due diligence.", start: 1779.46, end: 1784.52}
+  - {text: "How much are we evaluating what they're saying?", start: 1784.86, end: 1787.54}
+  - {text: "Right. They say, oh, this worked this way and it'll capture this is like, well, did you evaluate that at all?", start: 1787.84, end: 1793.92}
+  - {text: "Before you before you decided to sign on the dotted line and before spending what is usually taxpayer money?", start: 1793.92, end: 1799.92}
+  - {text: "Now, today, the NYPD says they have a strict procurement and vendor review process.", start: 1800.83, end: 1806.31}
+  - {text: "But back then, the main reason Jerome knew that the NYPD was buying all of this tech was because of what he was seeing in courtrooms.", start: 1806.87, end: 1815.31}
+  - {text: "But the contracts themselves with the names of the companies, the cost of the products and those signatures on the dotted lines.", start: 1815.83, end: 1822.89}
+  - {text: "Those were mostly hidden from the public.", start: 1823.33, end: 1825.33}
+  - {text: "And these kinds of surveillance tech contracts have also been kept quiet in police departments around the country through nondisclosure agreements or off the books funding,", start: 1825.95, end: 1835.91}
+  - {text: "funding like from those police foundations that raised a bunch of money after 9 11 or sometimes through federal grants.", start: 1836.53, end: 1842.99}
+  - {text: "Police have more latitude to spend that kind of outside money without public oversight.", start: 1843.29, end: 1848.49}
+  - {text: "For years, civil liberties groups had been pushing for more concrete information.", start: 1849.21, end: 1854.27}
+  - {text: "In New York, Jerome says that they tried but could not get answers.", start: 1854.87, end: 1858.97}
+  - {text: "The NYPD had been stonewalling everybody and either got very limited or none.", start: 1859.19, end: 1863.99}
+  - {text: "It wasn't until 2020 with the wave of protests following the murder of George Floyd by police that something kind of shook loose.", start: 1864.33, end: 1872.03}
+  - {text: "The protesters were being videotaped and there was lots of debate about them ending up in police databases.", start: 1872.55, end: 1877.93}
+  - {text: "A wave of cities passed laws that forced police to be more transparent about the tech they were using.", start: 1878.43, end: 1884.93}
+  - {text: "In New York, former city council member Vanessa Gibson had already introduced the post act, the public oversight of surveillance technology act.", start: 1885.62, end: 1894.06}
+  - {text: "Now, because of the protests, it passed today.", start: 1894.52, end: 1897.74}
+  - {text: "Today is a very important day in our city when the New York City Council will take a very bold step forward and recognizing that a", start: 1898.32, end: 1905.52}
+  - {text: "sleeping nation has finally woke up following the horrific murder of George Floyd in Minneapolis.", start: 1905.52, end: 1911.06}
+  - {text: "A couple of weeks after the post act passes, former comptroller Scott Stringer also decides to end that wink, wink, nod, nod agreement with the police officially withdraws from it.", start: 1911.48, end: 1921.26}
+  - {text: "I decided at that point we need to disclose all of this.", start: 1921.40, end: 1925.36}
+  - {text: "Now, Stringer says that unless the NYPD can make an urgent and specific argument for why something should remain secret, when the police propose adopting a new technology,", start: 1925.72, end: 1934.94}
+  - {text: "they have to tell the public about it on the NYPD post act disclosure page.", start: 1935.18, end: 1940.16}
+  - {text: "And then when they buy something new, that goes online, too.", start: 1940.60, end: 1944.06}
+  - {text: "But we still don't know the full story of what the NYPD bought or who they bought it from before the post act.", start: 1944.70, end: 1951.70}
+  - {text: "A few months later, Scott Stringer released his office's copies of these special expenses, but they were heavily redacted.", start: 1952.00, end: 1958.58}
+  - {text: "So Jerome from Legal Aid, he is still on a mission to make sure his team of public defenders has the tech they need to counter what the NYPD is using.", start: 1958.58, end: 1968.72}
+  - {text: "He says he still wants to see all those old contracts.", start: 1969.18, end: 1972.22}
+  - {text: "Legal Aid filed a lawsuit asking for their release.", start: 1972.70, end: 1975.64}
+  - {text: "So in response to our lawsuit, part of what they said was that it would be a Herculean effort to provide us with all these documents that they'd have to go through because it was 165 ,000 pages of documents,", start: 1975.94, end: 1989.80}
+  - {text: "165 ,000 pages worth of files and contracts between the police department and tech vendors.", start: 1990.14, end: 1995.92}
+  - {text: "Those are the contracts the NYPD says exist only on paper in 22 filing cabinet tours.", start: 1996.62, end: 2003.08}
+  - {text: "Because of Jerome's lawsuit, the NYPD is now required to make those documents public, and they have started to.", start: 2003.54, end: 2011.14}
+  - {text: "So now you can see that the NYPD paid 45 million to SecureWatch 24 for their cameras, or that they paid eleven and a half million dollars to MorphoTrack for improving the identification of biometrics,", start: 2011.14, end: 2023.98}
+  - {text: "like things like fingerprints and palms and irises.", start: 2024.20, end: 2026.82}
+  - {text: "There is also a contract for purchasing and maintaining cellular tracking systems.", start: 2027.30, end: 2031.68}
+  - {text: "But so far they have turned over about 600 of the 165 ,000 pages and NYPD not making it easy.", start: 2032.22, end: 2043.28}
+  - {text: "But I don't care.", start: 2045.48, end: 2047.40}
+  - {text: "And I will continue.", start: 2049.14, end: 2050.62}
+  - {text: "And if it means, you know, we'll be litigating this until I am at my grave, then maybe that's what we will do.", start: 2051.62, end: 2058.20}
+  - {text: "But, you know, there's also a principle here at this point too, which is that you shouldn't be allowed to hide these things from the public, right?", start: 2058.62, end: 2065.58}
+  - {text: "You shouldn't it shouldn't be acceptable and it's not.", start: 2065.70, end: 2068.02}
+  - {text: "Now, Jerome is just one guy in one city.", start: 2068.02, end: 2070.70}
+  - {text: "But with flock license plate readers all over the news across the country, people are showing up at their local city council meetings in San Diego.", start: 2071.18, end: 2080.10}
+  - {text: "One guy went dressed up as Darth Vader.", start: 2080.54, end: 2082.66}
+  - {text: "The emperor is a fan of flock back to our former police captain turned professor at a desk, Joe Pascarella.", start: 2082.92, end: 2090.10}
+  - {text: "He says people should be asking for more transparency everywhere.", start: 2090.56, end: 2093.92}
+  - {text: "He says when the public doesn't know what their local police department is doing, there's no way to verify or even know if these tools are effective and it's hard to put in guardrails.", start: 2094.24, end: 2103.70}
+  - {text: "It's a problem because it doesn't give what we call a bright line rule in law enforcement.", start: 2103.98, end: 2107.74}
+  - {text: "Law enforcement needs a bright line rule.", start: 2108.14, end: 2109.66}
+  - {text: "They need to tell you, all right, can only keep this data for 60 days.", start: 2109.76, end: 2112.50}
+  - {text: "If you tell them, you know, you keep it within reason, they're just going to do whatever they want.", start: 2112.90, end: 2116.66}
+  - {text: "A bright line rule.", start: 2116.88, end: 2117.88}
+  - {text: "Yeah, that's it's called a bright line rule, you know, like Miranda.", start: 2118.02, end: 2120.32}
+  - {text: "Well, essentially, if you're going to accuse someone, you have to give them their rights, right, if they're in custody.", start: 2120.82, end: 2126.22}
+  - {text: "That's a bright line rule.", start: 2126.32, end: 2127.18}
+  - {text: "It's pretty simple. Surveillance does not have any bright line rules.", start: 2127.36, end: 2130.60}
+  - {text: "Now, police departments are being forced to put in some bright line rules kind of after the fact, after they've adopted things like flock cameras or facial recognition software.", start: 2131.08, end: 2142.36}
+  - {text: "And these bright line rules might be more relevant than ever with the spread of AI.", start: 2143.12, end: 2148.44}
+  - {text: "Like in the past, it was hard to imagine that anyone could actually watch all of those videos that the police were collecting.", start: 2149.14, end: 2155.98}
+  - {text: "There's just like two time consuming.", start: 2156.30, end: 2157.72}
+  - {text: "But once you start using AI to say look through the hours of footage and look for unusual behavior, surveillance just got that much easier.", start: 2158.40, end: 2167.86}
+  - {text: "If you like stories like this one, you can get more Planet Money in your inbox.", start: 2174.10, end: 2178.18}
+  - {text: "Join 150 ,000 other readers.", start: 2178.72, end: 2181.24}
+  - {text: "That's a lot of readers.", start: 2181.44, end: 2182.16}
+  - {text: "And sign up for our weekly newsletter.", start: 2182.76, end: 2185.00}
+  - {text: "You can sign up at npr .org, Planet Money newsletter, or at the link in the show notes.", start: 2185.34, end: 2190.50}
+  - {text: "Today's episode was produced by Vido Emmanuel and edited by Marianne McCune.", start: 2192.18, end: 2196.16}
+  - {text: "It was engineered by Sina LaFredo and fact checked by Sierra Juarez.", start: 2196.70, end: 2200.10}
+  - {text: "Alex Goldmark is our executive producer.", start: 2200.68, end: 2202.66}
+  - {text: "Thanks this week to Ron Kraswell and to Matthew Goriglia.", start: 2203.66, end: 2207.30}
+  - {text: "I'm Amanda Orancik. This is NPR.", start: 2208.10, end: 2210.10}
+  - {text: "Thanks for listening. Midlife brings a lot of changes.", start: 2210.76, end: 2223.39}
+  - {text: "Your turn with Alison Aubrey is a new podcast to help you navigate the twists and turns from health and relationships to creativity and purpose.", start: 2223.91, end: 2231.65}
+  - {text: "We can help steer your next chapter with your turn with Alison Aubrey.", start: 2232.29, end: 2236.07}
+  - {text: "Find it on the NPR app or wherever you get your podcasts.", start: 2236.35, end: 2239.27}
+  - {text: "On the latest episode of Sources and Methods, France inflames the far right on the rise across Europe, all while the United States backs away from Ukraine.", start: 2244.24, end: 2253.28}
+  - {text: "President Trump has been trying to smash the post World War two order since his first term.", start: 2253.90, end: 2258.76}
+  - {text: "Is he finally succeeding?", start: 2258.96, end: 2260.38}
+  - {text: "We unpack it all on Sources and Methods, the National Security Podcast from NPR.", start: 2260.82, end: 2265.52}
+---
