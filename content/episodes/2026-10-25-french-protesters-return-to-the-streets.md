@@ -1,0 +1,297 @@
+---
+layout: single
+title: "French protesters return to the streets"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-25T00:00:00Z
+slug: "2026-10-25-french-protesters-return-to-the-streets"
+audioDir: "2026-10-25-french-protesters-return-to-the-streets"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-25-french-protesters-return-to-the-streets/episode.mp3"
+totalDuration: 1670.2
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 3.52}
+  - {text: "I'm Andrew Peach and in the early hours of Sunday the 25th of October these are our main stories.", start: 4.78, end: 9.94}
+  - {text: "French police arrest nearly a thousand people during a day of mass protests over the cost of living that saw clashes in many cities.", start: 10.54, end: 17.18}
+  - {text: "The Palestinian Authority calls for international action to stop Israel displacing more people from their homes in Hebron in the occupied West Bank and the final", start: 17.86, end: 26.58}
+  - {text: "rallies have taken place in Brazil ahead of Sunday's presidential runoff.", start: 26.58, end: 30.50}
+  - {text: "Also in this podcast, Gianni Infantino dismisses calls for his resignation as the head of World Football's governing body FIFA and from this Monday, so that's the 26th of October, Oxford Street will become permanently traffic free.", start: 32.58, end: 47.08}
+  - {text: "There will be no buses, no taxis, no cycles on the street.", start: 47.52, end: 50.66}
+  - {text: "Europe's busiest street gears up to go traffic free.", start: 51.00, end: 53.86}
+  - {text: "Let's begin in France where an estimated 400 ,000 protesters took to the streets of several cities on Saturday to vent their anger over the cost of living in conditions in schools and universities.", start: 53.86, end: 69.00}
+  - {text: "70 ,000 police officers were deployed nationwide to contain the demonstrations and there were violent clashes.", start: 69.62, end: 75.86}
+  - {text: "Riot police used tear gas and water cannon to break up crowds and arrested at least a thousand people.", start: 76.44, end: 82.08}
+  - {text: "Nick Beek filed this report from the streets of Paris.", start: 82.58, end: 85.08}
+  - {text: "France's protests are not running out of steam.", start: 88.32, end: 90.90}
+  - {text: "Tonight the police have been trying to wrestle back control of the streets after losing them last weekend.", start: 91.48, end: 97.20}
+  - {text: "Once again, a violent young minority hijacked peaceful protests.", start: 97.96, end: 101.92}
+  - {text: "The police are on the charge here in Paris.", start: 102.30, end: 105.22}
+  - {text: "This had been a peaceful protest but now more reinforcements are being brought in because a lot of officers have been attacked with fire, crackers.", start: 105.66, end: 115.50}
+  - {text: "Some protesters picking up barricades.", start: 116.58, end: 118.14}
+  - {text: "But officers themselves have been accused of using unacceptable force against those doing nothing wrong.", start: 120.84, end: 126.62}
+  - {text: "Elsewhere in France, including Marseille and Lille, there were more clashes and a few shops looted.", start: 127.26, end: 132.68}
+  - {text: "But this disorder was nowhere on the scale of seven days ago.", start: 133.08, end: 136.60}
+  - {text: "The Interior Minister Laurent Nunes said there would be more than the 1 ,000 arrests made so far.", start: 137.30, end: 143.78}
+  - {text: "The marches went smoothly, he said, adding that radical far left and ultra -left activists formed at nearly every gathering.", start: 145.92, end: 154.38}
+  - {text: "Earlier, at least 100 ,000 marched peacefully through the capital.", start: 156.54, end: 161.08}
+  - {text: "This was the only rally allowed in Paris, arranged by a trade union and rerouted at the last minute to avoid the city centre.", start: 161.58, end: 169.22}
+  - {text: "People expressed anger at the economy, inequality, the state of schools and at the police.", start: 169.86, end: 175.86}
+  - {text: "One 18 -year -old, his face masked, said he could see how these peaceful protests are descending into violence.", start: 176.48, end: 183.32}
+  - {text: "There was a reduction in violence but the government can hardly call this a victory.", start: 195.09, end: 200.31}
+  - {text: "There is no end in sight to this protest movement, which began in crumbling classrooms in the capital and has spread far and wide.", start: 200.31, end: 208.85}
+  - {text: "Will this be the soundtrack to the last six months of Emmanuel Macron's time in office?", start: 209.51, end: 214.83}
+  - {text: "The police really fought back with a zero -tolerance sort of approach to the protesters.", start: 241.13, end: 247.01}
+  - {text: "I was trapped at one point, surrounded on all sides by police who were firing tear gas directly into a cafe that I was trying to get shelter in.", start: 247.57, end: 255.89}
+  - {text: "People were expecting tear gas and water cannons and things like that.", start: 256.37, end: 259.99}
+  - {text: "They've all got swimming goggles and ski masks and various sorts of bits of equipment, but they were quite shocked at how hard the police came down on people.", start: 260.13, end: 268.57}
+  - {text: "There were gas canisters flying from every angle.", start: 269.13, end: 272.07}
+  - {text: "It's a bit scary, the Prime Minister's being clear he's not going to resign.", start: 272.27, end: 275.51}
+  - {text: "It's a time of great uncertainty, not just for people within the protest movement, but the average people on the street, they just don't know what's going to happen.", start: 276.27, end: 285.55}
+  - {text: "Many people, my age, have lived through very difficult times in Albania in the early 90s and they're worried of sort of a repeat of history.", start: 286.09, end: 293.55}
+  - {text: "It's a very unnerving time to be here.", start: 293.97, end: 296.13}
+  - {text: "You have to have dialogue at some point, but I don't see it happening.", start: 296.45, end: 299.65}
+  - {text: "They don't believe that any attempted dialogue would be honest or made in good faith by the Prime Minister.", start: 300.07, end: 305.55}
+  - {text: "They don't believe their demands would be met.", start: 305.75, end: 307.53}
+  - {text: "They are asking not just that the government resigned, but the entire Parliament, so both parties, they're asking for a non -political transitional government for six months,", start: 307.69, end: 317.67}
+  - {text: "which would oversee a complete reform of the electoral laws and various other laws in the country and then fresh general elections after that six month period.", start: 317.83, end: 327.97}
+  - {text: "So they've got very specific demands, but honestly, I don't see that it's going to happen and I couldn't say who's going to give up.", start: 328.35, end: 335.17}
+  - {text: "Alice Taylor in Tirana, the Israeli Defence Minister Israel Katz says his forces in the occupied West Bank have displaced around 2 ,000 residents in the city of Hebron.", start: 335.47, end: 346.29}
+  - {text: "The military has launched a sweeping crackdown demolishing buildings in what it's called a major security operation after two Israeli soldiers were killed by a Palestinian government at a checkpoint on Friday.", start: 346.83, end: 357.67}
+  - {text: "From Jerusalem, our diplomatic correspondent James Landale.", start: 358.21, end: 361.45}
+  - {text: "The sound of Israeli bulldozers destroying buildings in Hebron, part of the massive security crackdown following yesterday's attack.", start: 363.39, end: 371.33}
+  - {text: "The Israel Defence Forces said they were conducting precise and targeted searches in the area where the two gunmen came from.", start: 371.79, end: 378.71}
+  - {text: "They said they were also destroying what they called terrorist infrastructure.", start: 379.13, end: 382.79}
+  - {text: "What this meant in practice, said Yusuf Al -Jabari, the mayor of Hebron, was collective punishment and a disproportionate response.", start: 384.42, end: 392.30}
+  - {text: "Issa Amro, a human rights campaigner, said he'd been trapped in his flat in the city since yesterday's lockdown.", start: 393.06, end: 398.96}
+  - {text: "He told the BBC thousands of families were unable to get food or medicines and suggested Israel's response was driven more by politics than security.", start: 399.72, end: 408.36}
+  - {text: "We all know and understand that we are part of an Netanyahu election campaign to win more votes.", start: 408.86, end: 415.80}
+  - {text: "So it's about election.", start: 416.42, end: 417.58}
+  - {text: "We are election materials without being able to vote as the Palestinians in the occupied territories.", start: 417.82, end: 423.80}
+  - {text: "Benjamin Netanyahu is fighting to survive as Prime Minister in next Tuesday's closely fought election and has made security a central issue of his campaign.", start: 424.35, end: 433.11}
+  - {text: "He's promised a wider military crackdown across the West Bank and in an interview with I24 News released today, he also threatened a very big surprise for the Palestinian Authority.", start: 433.59, end: 444.83}
+  - {text: "In a statement, the PA called for urgent international action that went beyond condemnation to prevent further forced displacement of people.", start: 445.45, end: 453.77}
+  - {text: "James Landau reporting. Brazil's President Luiz Inácio Lula da Silva and his conservative challenger Flavio Bolsonaro have been holding their final rallies ahead of Sunday's runoff election.", start: 453.77, end: 465.19}
+  - {text: "Opinion polls show their neck and neck.", start: 465.61, end: 467.61}
+  - {text: "President Lula jumped up and down on the back of a campaign truck waving a massive Brazilian flag, making his way through an enormous crowd in Rio de Janeiro brimming with confidence.", start: 468.13, end: 478.35}
+  - {text: "I'm certain that we are going to win the elections.", start: 482.87, end: 485.87}
+  - {text: "I'm telling you and you can write it down.", start: 486.59, end: 488.49}
+  - {text: "Tomorrow I will be elected President of the Republic once again.", start: 489.03, end: 492.37}
+  - {text: "Our correspondent Ioni Wells spent Saturday with Mr Bolsonaro's supporters.", start: 494.04, end: 498.12}
+  - {text: "This is the home neighborhood of Brazil's right -wing presidential candidate Flavio Bolsonaro in a wealthy suburb of Rio de Janeiro.", start: 498.72, end: 506.54}
+  - {text: "All his supporters are out on the streets here for the final day of campaigning wearing the yellow Brazilian football shirt, which in the last couple of years has become a bit of a de facto uniform for the right in Brazil,", start: 506.80, end: 517.60}
+  - {text: "much to the displeasure of left -wing Brazilian football fans.", start: 517.76, end: 520.68}
+  - {text: "There's many posters here of his face, but also the face of his father, Jair Bolsonaro, who's serving a sentence for flossing a coup after losing the last election.", start: 521.04, end: 529.32}
+  - {text: "Flavio Bolsonaro has promised that if elected, he would free his father.", start: 529.74, end: 533.48}
+  - {text: "There's also a lot of banners and flags saying Lula out.", start: 534.02, end: 537.22}
+  - {text: "Many of Flavio Bolsonaro's supporters here are optimistic that he is going to win on Sunday because he won that first round of voting earlier this month.", start: 537.86, end: 545.78}
+  - {text: "But in the last couple of days, the polls have been really tightening, suggesting this could be a very, very close race.", start: 546.02, end: 551.34}
+  - {text: "And earlier today, in another part of town on Copacabana Beach, there was also an enormous rally of President Lula's supporters trying to mobilise his fans to get the vote out on Sunday.", start: 551.78, end: 562.96}
+  - {text: "That's Ioni Wells in Rio.", start: 563.54, end: 565.12}
+  - {text: "To Germany next, where Adolf Hitler's mountain retreat in the Bavarian Alps has been gutted by fire.", start: 565.60, end: 571.50}
+  - {text: "Police say the building, known as the Eagle's Nest and used in Nazi propaganda films, wasn't likely to be salvageable.", start: 571.94, end: 578.94}
+  - {text: "One man has been arrested.", start: 579.18, end: 580.44}
+  - {text: "After the war, the house became a restaurant despite some opposition from those concerned it might become a place of Nazi pilgrimage.", start: 580.98, end: 587.54}
+  - {text: "Our global affairs reporter Paul Moss told my colleague Charlotte Gallagher about the fire.", start: 588.30, end: 592.60}
+  - {text: "Well, flames were spotted at the Eagle's Nest on Friday, but there was a problem for firefighters.", start: 593.00, end: 597.74}
+  - {text: "This building is perched on top of a mountain nearly 2 ,000 metres high.", start: 598.02, end: 602.06}
+  - {text: "So it was hard for fire engines to reach it.", start: 602.54, end: 604.56}
+  - {text: "Even when they got there, they had trouble getting water for their hoses.", start: 604.60, end: 608.26}
+  - {text: "So the building carried on burning into Saturday and, well, just looking at the damage and pictures, it does look pretty bad.", start: 608.50, end: 615.46}
+  - {text: "Meanwhile, police saw a man leaving the scene on a motorcycle and what they noticed was that the motorbike didn't have number plates.", start: 616.12, end: 622.80}
+  - {text: "When they stopped the man who was riding it, there were reports he smelled of smoke.", start: 622.96, end: 627.62}
+  - {text: "He's now been arrested and the investigators are already suggesting this is someone who may have had psychiatric problems.", start: 627.94, end: 635.56}
+  - {text: "What was Eagle's Nest used for by Adolf Heller?", start: 636.45, end: 639.39}
+  - {text: "Well, it was built for him in 1938.", start: 639.69, end: 641.79}
+  - {text: "They raced to get it ready in time for his birthday.", start: 641.83, end: 644.15}
+  - {text: "And here's one fact, they worked right through the night, which might explain the fact that 12 people died just building it.", start: 644.15, end: 651.11}
+  - {text: "Another thing is it was originally just called the Kelsstein House, Kelsstein being the name of the rock it was built in.", start: 651.51, end: 656.99}
+  - {text: "It was the French ambassador who was visiting Hitler who came up with the name Eagle's Nest and it stuck.", start: 657.45, end: 662.21}
+  - {text: "Hitler himself wasn't actually that keen on the place.", start: 663.06, end: 666.14}
+  - {text: "He didn't spend a lot of time there.", start: 666.28, end: 667.92}
+  - {text: "He used it mainly for hosting dignitaries and also used it in propaganda films because it had this spectacular views.", start: 668.20, end: 674.66}
+  - {text: "After the war in 1952, perhaps rather surprisingly, they decided just to convert it into a bar and restaurant.", start: 675.44, end: 681.48}
+  - {text: "And it was a very popular one because of these great views.", start: 681.64, end: 684.36}
+  - {text: "Some people always felt just a little queasy about guests sitting there knocking back brat verse and washing it down with lager in this spot where the Nazis had met.", start: 684.90, end: 693.22}
+  - {text: "And so in 1999, they opened a museum of Nazi history so that if you do go there, you can still go there.", start: 693.90, end: 700.16}
+  - {text: "We were able to go there to eat and drink, but you did at least have to pass if not take in a museum dedicated to some of the Nazi's crimes.", start: 700.30, end: 707.60}
+  - {text: "And have the authorities given any indication of what's going to happen to it now?", start: 708.16, end: 711.66}
+  - {text: "Well, it's hard to say the police looking at the building are quoted as saying it was unsolvable.", start: 711.88, end: 716.00}
+  - {text: "But the Interior Minister for Bavaria, that's the state where it sits, has said that it's important that the building should be restored between order to", start: 716.08, end: 724.12}
+  - {text: "continue what he called the work of remembrance.", start: 724.12, end: 726.44}
+  - {text: "I mean, it's interesting, isn't it?", start: 726.66, end: 728.30}
+  - {text: "That this building has always been divisive, Hitler himself not so keen on it.", start: 728.38, end: 732.68}
+  - {text: "There will be some who I think will look at the ashes of this building and say good riddance.", start: 733.10, end: 737.56}
+  - {text: "Others, let's face it, will probably just want to say, well, let's have that restaurant back because it did have such nice views.", start: 738.02, end: 743.46}
+  - {text: "There we are. Nearly 90 years after the Eagles Nest was built, the subject of what to do with it is still going to be divisive.", start: 744.14, end: 751.74}
+  - {text: "Paul Moss reporting. And still to come in this podcast.", start: 752.06, end: 756.30}
+  - {text: "I've come to an avocado festival.", start: 757.50, end: 759.60}
+  - {text: "Small avocado is 65 to 85 cents.", start: 760.22, end: 763.24}
+  - {text: "Used to be 25, 35 cents.", start: 763.56, end: 765.66}
+  - {text: "What about everything else in your groceries?", start: 765.72, end: 767.10}
+  - {text: "Groceries are expensive. Who do you blame for that being expensive?", start: 767.42, end: 770.70}
+  - {text: "The President. While some Latinos in Texas are abandoning Donald Trump ahead of those U .S.", start: 771.00, end: 776.62}
+  - {text: "midterm elections. This is the Global News Podcast.", start: 776.70, end: 786.35}
+  - {text: "The President of World Football's Governing Body FIFA has laughed off suggestions he'd considered resigning after his failed plan to sell off the World Cup.", start: 787.19, end: 794.99}
+  - {text: "In a BBC interview, Gianni Infantino claimed he had the backing of the vast majority of member associations around the world.", start: 795.53, end: 801.95}
+  - {text: "He was speaking in Baku in Azerbaijan where the under 15 World Cup is taking place.", start: 802.37, end: 807.09}
+  - {text: "Our sports news correspondent Laura Scott asked him when he planned to provide answers to questions from the FIFA Council.", start: 807.51, end: 813.25}
+  - {text: "There is a legal process going on so we have to look into that.", start: 813.67, end: 817.79}
+  - {text: "The lawyers have to look into that as well.", start: 818.15, end: 819.97}
+  - {text: "But obviously we're working on it and we'll answer of course all the questions that are asked as far as the process allows.", start: 820.45, end: 827.87}
+  - {text: "They said though that if they didn't get these answers you were not fit to be the FIFA President.", start: 828.13, end: 832.89}
+  - {text: "Firstly are you fit to be FIFA President and in all of the last few months have you ever thought about standing down?", start: 833.51, end: 839.71}
+  - {text: "Well you know I was elected by 211 member associations from all over the world.", start: 840.95, end: 846.57}
+  - {text: "I think what is important is that in an organization like FIFA there can be different views but if we are serious about the democratic process about believing", start: 847.01, end: 856.09}
+  - {text: "that everyone has the same vote and the same voice all over the world that football belongs to everyone.", start: 856.09, end: 863.19}
+  - {text: "If we are serious about that then we need to respect as well the views of the vast majority.", start: 863.47, end: 868.15}
+  - {text: "I'm just coming back of Tokyo where the Asian Football Confederation has fully endorsed me.", start: 868.31, end: 873.27}
+  - {text: "I was in Cape Verde where all African countries as well, CAF countries have endorsed me.", start: 873.73, end: 878.35}
+  - {text: "I'm speaking to all associations everywhere in the world.", start: 878.55, end: 881.95}
+  - {text: "There are different opinions on many topics you know the World Cup, the size, the number, the slot allocation, the calendar, commercial matters everything.", start: 882.25, end: 891.31}
+  - {text: "There are different points of view it's not always easy to bring them all under one roof but we need to respect and I do respect all opinions", start: 891.53, end: 899.49}
+  - {text: "and then it will be up to the FIFA member associations to decide who they want as a president and how they want FIFA to be run.", start: 899.49, end: 906.87}
+  - {text: "And that's the President of FIFA, Gianni Infantino.", start: 907.23, end: 910.33}
+  - {text: "The former US border patrol chief who ran the highly controversial deportation drive in Minneapolis earlier this year has defended the operation describing the withdrawal of agents from the city as a surrender by the Trump administration.", start: 910.93, end: 924.31}
+  - {text: "In a BBC interview Greg Bovino also said he wasn't responding to a civil lawsuit far by the family of a woman killed by an immigration officer.", start: 925.09, end: 933.91}
+  - {text: "In January Rene Good and another US citizen Alex Pretti were shot dead by agents in two separate incidents during protests against the operation.", start: 934.43, end: 942.57}
+  - {text: "Greg Bovino spoke to our correspondent Tom Bateman who started by asking him what he thinks of President Trump's deportation campaign.", start: 942.95, end: 949.91}
+  - {text: "I think it's at a virtual standstill, a very poor job right now.", start: 950.47, end: 954.19}
+  - {text: "There are no mass deportations now.", start: 954.45, end: 955.89}
+  - {text: "You can go in any area in the United States and we're not mass deporting illegal aliens.", start: 956.27, end: 961.07}
+  - {text: "We're not ever going to get at that 100 million unless those mass deportations start in earnest.", start: 961.27, end: 965.09}
+  - {text: "So right now it's an F.", start: 965.55, end: 966.99}
+  - {text: "The surrender in Minnesota went from an A, well I guess about a B to a straight F.", start: 967.43, end: 973.09}
+  - {text: "And when you say surrender in Minnesota do you mean what happened to you?", start: 973.59, end: 976.13}
+  - {text: "You were withdrawn from Minnesota when you were Commander -in -Chief?", start: 976.33, end: 978.69}
+  - {text: "I don't mean that.", start: 978.73, end: 979.45}
+  - {text: "I mean it was the surrender of mass deportations.", start: 979.61, end: 982.49}
+  - {text: "Mass deportations were occurring up until Minnesota.", start: 982.63, end: 984.89}
+  - {text: "Still not fast enough but they were occurring up until Minnesota and then they threw the towel in.", start: 985.17, end: 990.25}
+  - {text: "The administration surrendered. In terms of what happened in Minneapolis, two US citizens were killed, Alex Pretti and Rene Good.", start: 990.47, end: 997.41}
+  - {text: "Do you regret what happened?", start: 997.51, end: 998.59}
+  - {text: "You know the first thing I would say is the victims, those border patrol agents and those ICE officers were hurt.", start: 998.91, end: 1005.43}
+  - {text: "So first, before we address that, we'll address the real victims there.", start: 1005.59, end: 1008.77}
+  - {text: "Those are those hero ICE and border patrol agents that were put into a position where they had to make split second decisions and heroes all of them.", start: 1009.23, end: 1017.53}
+  - {text: "What I regret is not going harder in Minnesota and arresting even more illegal aliens.", start: 1018.07, end: 1022.69}
+  - {text: "But you'd really given a license for agents to act to useful force if they were touched you said by protesters and I'm just trying to understand all these months on what you think of the fact", start: 1023.09, end: 1034.45}
+  - {text: "that and as you know the events themselves are highly contested.", start: 1034.45, end: 1038.15}
+  - {text: "There is no evidence to suggest that either of those people meant harm.", start: 1038.33, end: 1041.51}
+  - {text: "Now there is evidence to suggest that.", start: 1041.83, end: 1043.57}
+  - {text: "I think the investigations are bearing that out.", start: 1043.81, end: 1046.37}
+  - {text: "So to say that again is a gender -driven trite and no it is.", start: 1046.59, end: 1049.69}
+  - {text: "The evidence is that violence perpetrated against agents of the U .S.", start: 1050.01, end: 1053.97}
+  - {text: "government and this is a society of laws and you know people need to follow the law if not there's consequences.", start: 1053.99, end: 1060.21}
+  - {text: "In the case of Rene Good, the video has been highly contested.", start: 1060.63, end: 1063.55}
+  - {text: "It's not contested Tom.", start: 1063.85, end: 1064.87}
+  - {text: "Well I'm not contesting it.", start: 1065.15, end: 1066.35}
+  - {text: "Are you? Well the video shows that her wheels were turned away.", start: 1066.45, end: 1069.91}
+  - {text: "She was trying to clear the officer.", start: 1069.97, end: 1071.01}
+  - {text: "She was shot fatally through the side window into the side of the house.", start: 1071.09, end: 1074.83}
+  - {text: "How did an officer get hit and go to the hospital with injuries then of what you just said that agenda -driven statement that you just know how does that happen?", start: 1074.83, end: 1081.99}
+  - {text: "There's a civil lawsuit from the family of Rene Good that names you and others.", start: 1082.35, end: 1085.83}
+  - {text: "In terms of a campaign they say to silence people who were trying to speak up for immigrants in these cities.", start: 1086.35, end: 1092.45}
+  - {text: "The argument there is that this was clearly an overuse of force.", start: 1092.95, end: 1096.51}
+  - {text: "Are you responding to that lawsuit?", start: 1096.67, end: 1097.91}
+  - {text: "What's your? Yeah I'm not responding.", start: 1098.13, end: 1099.81}
+  - {text: "People do lawsuits all the time.", start: 1100.29, end: 1101.63}
+  - {text: "What I'll say is during these campaigns in the cities you mentioned there was a strong use of force by me.", start: 1102.09, end: 1108.89}
+  - {text: "That's actually not true.", start: 1109.23, end: 1110.25}
+  - {text: "There was no strong use of force.", start: 1110.69, end: 1112.19}
+  - {text: "There was the most violence that any law enforcement mission ever in the history of the United States has been up against for a year straight.", start: 1112.39, end: 1119.65}
+  - {text: "What happened to you in your position then after Minneapolis?", start: 1119.99, end: 1122.25}
+  - {text: "Because we saw what appeared to be a change of tactics you were pulled out or you you left Minneapolis.", start: 1122.51, end: 1127.39}
+  - {text: "Why did that take place?", start: 1127.55, end: 1128.35}
+  - {text: "Sure well you have to ask the administration that.", start: 1128.77, end: 1130.47}
+  - {text: "You know I still haven't got the the final word on that but as you know Tom Holman and the commissioner Rodney Scott said that they were going to conduct a softer approach", start: 1130.71, end: 1138.59}
+  - {text: "which means no mass deportations and they left Minnesota.", start: 1138.59, end: 1142.75}
+  - {text: "That was the former border patrol chief Greg Bavino with our State Department correspondent Tom Bateman.", start: 1143.35, end: 1148.97}
+  - {text: "Staying in the U .S.", start: 1149.55, end: 1150.53}
+  - {text: "in just over a week's time voters will elect all 435 members of the House of Representatives and just over a third of the 100 strong Senate.", start: 1150.59, end: 1159.95}
+  - {text: "Opinion polls have consistently given Democrats a clear advantage but that's happened before and the polls have turned out to be wrong.", start: 1159.95, end: 1167.01}
+  - {text: "Recent surveys indicate substantial disillusionment among Latinos who make up 16 % of the voting population.", start: 1167.57, end: 1174.47}
+  - {text: "Some are switching from Donald Trump and the Republicans to the Democrats.", start: 1174.99, end: 1178.59}
+  - {text: "Our chief North America correspondent Gary O'Donohue has been to the Rio Grande Valley in South Texas to gauge the mood there.", start: 1179.31, end: 1185.51}
+  - {text: "Dawn Braking at La Lomita Chapel just 200 yards from the Mexican border.", start: 1188.25, end: 1193.31}
+  - {text: "They call you the cowboy priest.", start: 1194.37, end: 1195.65}
+  - {text: "I'm not sure where I picked that up.", start: 1197.19, end: 1199.09}
+  - {text: "Father Roy Snipes is something of a hero around here.", start: 1201.01, end: 1204.63}
+  - {text: "He stopped the first Trump administration from seizing the chapel's land to build the border wall but now his battle is over how migrants are being detained and deported.", start: 1205.07, end: 1215.67}
+  - {text: "They said we're going to seek out the worst of the worst.", start: 1215.95, end: 1220.19}
+  - {text: "It's not an exaggeration to say many many times it's the best of the best.", start: 1220.63, end: 1224.87}
+  - {text: "It's a concern shared by many of those who come to worship at La Lomita early every Friday morning.", start: 1225.11, end: 1231.13}
+  - {text: "The cruelty that we're seeing I think that that's turned the tide a little bit.", start: 1231.41, end: 1235.11}
+  - {text: "Where we are here you can see the border wall on the right hand side of the car and this was one of the sort of hot spots for people coming across the border", start: 1236.25, end: 1244.69}
+  - {text: "when the migration crisis was at its worst.", start: 1244.69, end: 1247.69}
+  - {text: "Well Donald Trump has solved that crisis largely.", start: 1247.85, end: 1250.07}
+  - {text: "The problem is that the people who really backed him doing that are now turning on him in South Texas.", start: 1250.69, end: 1256.17}
+  - {text: "This is Mario Guerrero's construction site where he's putting up dozens of new apartments.", start: 1257.35, end: 1262.41}
+  - {text: "Mario voted for Donald Trump three times in a row.", start: 1263.05, end: 1266.05}
+  - {text: "He was part of the major Hispanic shift to the Republicans but says immigration raids are frightening anyone with a brown skin and he's voting Democrat in November", start: 1266.33, end: 1276.61}
+  - {text: "because of the way his workers are being treated by immigration enforcement.", start: 1276.61, end: 1280.83}
+  - {text: "It's very common to see that these guys get stopped out on the highways.", start: 1281.25, end: 1284.41}
+  - {text: "It's having an effect on everybody's business because they're not showing up to work or?", start: 1284.79, end: 1288.69}
+  - {text: "Well that's the biggest issue.", start: 1289.25, end: 1290.77}
+  - {text: "I've come to an avocado festival.", start: 1293.62, end: 1295.88}
+  - {text: "Avocados are a staple here in South Texas.", start: 1296.66, end: 1299.68}
+  - {text: "No surprise then that a free giveaway draws a big crowd.", start: 1300.28, end: 1304.24}
+  - {text: "A small avocado is 65 to 85 cents.", start: 1304.64, end: 1307.74}
+  - {text: "Used to be 25, 35 cents.", start: 1308.06, end: 1310.14}
+  - {text: "What about everything else in your groceries?", start: 1310.22, end: 1311.58}
+  - {text: "Groceries are expensive. Who do you blame for that being expensive?", start: 1311.90, end: 1315.22}
+  - {text: "The president. The polls reinforce those views.", start: 1315.52, end: 1318.50}
+  - {text: "Having won 55 percent of the socially conservative Hispanic vote in Texas in 2024 Donald Trump now sees his approval ratings among Latinos in the low 30s according to one poll in September.", start: 1318.88, end: 1332.24}
+  - {text: "Nationally it's gone even lower.", start: 1333.22, end: 1335.24}
+  - {text: "Democrats are trying to seize an opportunity.", start: 1338.90, end: 1342.14}
+  - {text: "Bobby Polido is a household name in the valley as a Tejano singer.", start: 1342.72, end: 1347.44}
+  - {text: "He's also running in a district taken by the Republicans four years ago in an area where Democrats have dominated for 100 years.", start: 1349.22, end: 1361.58}
+  - {text: "But note his caution about being too closely associated with the Democratic national brand.", start: 1362.14, end: 1368.04}
+  - {text: "When you focus and you lead with social justice or climate or other things the people do not want you to lead with that.", start: 1368.26, end: 1375.54}
+  - {text: "They want to hear economic first, figure that out and then you know we'll look at the other stuff.", start: 1375.68, end: 1380.96}
+  - {text: "Republicans redrew the Texas congressional map last year hoping to take advantage of the swing among Hispanics.", start: 1381.50, end: 1388.40}
+  - {text: "Something that could now backfire.", start: 1388.78, end: 1390.36}
+  - {text: "The Hispanic shift towards Donald Trump has been one of the most striking political facts of the past decade.", start: 1391.42, end: 1398.09}
+  - {text: "If polling is correct even a modest swing back could reshape races across this state and beyond.", start: 1398.77, end: 1405.09}
+  - {text: "In Texas it could even be enough to put a US Senate seat in play.", start: 1406.03, end: 1410.73}
+  - {text: "Democrats haven't won one of those here in more than 30 years.", start: 1411.15, end: 1414.69}
+  - {text: "Our chief North America correspondent Gary O'Donohue in South Texas.", start: 1417.12, end: 1420.97}
+  - {text: "Since the department store Selfridges opened a century ago.", start: 1421.71, end: 1425.23}
+  - {text: "Oxford Street in central London has been the country's retail mecca.", start: 1425.59, end: 1428.75}
+  - {text: "Hundreds of thousands of people visit there every day.", start: 1429.29, end: 1431.95}
+  - {text: "The omnibuses and horse manure might be a thing of the past in their place cars, buses, taxes and lots of delivery vans.", start: 1432.45, end: 1440.57}
+  - {text: "But not for much longer because as of Monday more than half of Oxford Street is going to be traffic free.", start: 1440.67, end: 1446.79}
+  - {text: "So how will that work?", start: 1447.09, end: 1447.91}
+  - {text: "My colleague Sean Lay has been to meet someone in the know.", start: 1448.33, end: 1450.93}
+  - {text: "And with Katie Morrison who is the deputy chief executive of the Oxford Street Development Corporation.", start: 1453.36, end: 1459.70}
+  - {text: "Katie tell me what's planned along this stretch and what is after all I think I'm right in saying Europe's busiest shopping street.", start: 1460.08, end: 1466.96}
+  - {text: "It is indeed and from this Monday so that's the 26th of October Oxford Street will become permanently traffic free.", start: 1467.40, end: 1475.40}
+  - {text: "So from that day onwards there will be no buses, no taxis, no cycles on the street and instead it will be for pedestrians only for", start: 1476.14, end: 1482.90}
+  - {text: "a one kilometer stretch from Great Portland Street to Orchard Street.", start: 1482.90, end: 1486.76}
+  - {text: "Right so traffic will still be able to cross Oxford Street at certain points.", start: 1486.98, end: 1490.64}
+  - {text: "It will indeed, yes.", start: 1490.88, end: 1491.86}
+  - {text: "But why are you doing this?", start: 1492.16, end: 1493.30}
+  - {text: "I mean it's hugely successful street.", start: 1493.56, end: 1495.00}
+  - {text: "Half a million visitors a day and as we walk along here trying to avoid the umbrellas I can well believe it it's not broken, it doesn't need fixing.", start: 1495.28, end: 1503.88}
+  - {text: "Well you're right it remains a hugely popular street but as you can see it's not always the best shopping experience for people.", start: 1504.46, end: 1511.46}
+  - {text: "It's crowded and the pavements are very busy and what we want to do is transform that.", start: 1511.88, end: 1516.50}
+  - {text: "We want to make it somewhere that is much more positive experience but also has many more elements to it.", start: 1516.62, end: 1522.70}
+  - {text: "So as well as people being able to come and shop especially in the run after Christmas there'll be many more places to rest, to dwell,", start: 1522.78, end: 1529.36}
+  - {text: "to eat your lunch, enjoy other activations happening around the street.", start: 1529.62, end: 1533.38}
+  - {text: "There is traffic here at the moment it's going to have to go somewhere.", start: 1533.74, end: 1536.86}
+  - {text: "Yes we've been working very closely with Transport for London who've been doing a huge amount of work over the last year to redirect the traffic appropriately and the buses.", start: 1537.14, end: 1546.34}
+  - {text: "I'm very proud to say that new bus stops have been put in in a series of enabling works around Oxford Street.", start: 1546.70, end: 1552.54}
+  - {text: "What about people who for example the elderly, people with disabilities, I think some disability activists have already expressed concern about this, at the moment they can get a bus", start: 1552.72, end: 1562.20}
+  - {text: "or indeed a taxi right outside to the shop they want to go to that's not going to be possible in the future.", start: 1562.20, end: 1568.66}
+  - {text: "You're right to raise that it's been a really really important issue for us and accessibility considerations have been at the heart of our thinking.", start: 1569.06, end: 1576.02}
+  - {text: "We've taken great care to make sure that there's no bus stops more than 200 metres from the street and taxi ranks 100 metres from the street and no loss to blue plaque spaces.", start: 1576.56, end: 1586.26}
+  - {text: "How's it going to fare up in terms of competing with other global cities do you think if you pedestrianise Oxford Street?", start: 1586.58, end: 1592.72}
+  - {text: "Well we have spent quite a lot of time as the Oxford Street Development Corporation talking to other cities that are doing similar schemes and we've learned a huge amount both in terms of the kind of economic impact but also some of the real practicalities.", start: 1593.08, end: 1605.56}
+  - {text: "So for example in Times Square they were very keen to point out the need to really maximise the use of additional seating which we are doing as part of our plans.", start: 1605.56, end: 1614.04}
+  - {text: "We know that high streets are changing, they're changing around the world and it's really important that London is ahead of that change and is spearheading a new way of shopping", start: 1614.38, end: 1623.52}
+  - {text: "and a new way of experiencing retail and Oxford Street will be at the heart of that.", start: 1623.52, end: 1628.04}
+  - {text: "Sean Lay reporting from Oxford Street in central London.", start: 1628.54, end: 1631.56}
+  - {text: "And that's all from us for now.", start: 1632.60, end: 1635.05}
+  - {text: "If you'd like to get in touch drop us an email globalpodcastatbbc .co .uk You'll also find us on x go to atbbcworldservice and use the hashtag globalnewspot", start: 1635.15, end: 1646.85}
+  - {text: "and don't forget about our sister podcast the global story which goes in depth and beyond the headlines on one big story.", start: 1646.85, end: 1653.41}
+  - {text: "This edition of the global news podcast was mixed by Ricardo the producer was Emma Joseph.", start: 1653.61, end: 1659.25}
+  - {text: "The editor is Karen Martin.", start: 1659.49, end: 1660.83}
+  - {text: "I'm Andrew Peach, thank you for listening and until next time, goodbye.", start: 1661.29, end: 1664.23}
+---
