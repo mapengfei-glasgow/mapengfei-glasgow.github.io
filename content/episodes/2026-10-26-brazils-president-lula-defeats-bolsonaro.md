@@ -1,0 +1,255 @@
+---
+layout: single
+title: "Brazil's President Lula defeats Bolsonaro"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-26T00:00:00Z
+slug: "2026-10-26-brazils-president-lula-defeats-bolsonaro"
+audioDir: "2026-10-26-brazils-president-lula-defeats-bolsonaro"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-26-brazils-president-lula-defeats-bolsonaro/episode.mp3"
+totalDuration: 1643.8
+sentences:
+  - {text: "Hello, I'm Oliver Conway.", start: 2.88, end: 6.68}
+  - {text: "This edition is published in the early hours of Monday, the 26th of October.", start: 6.82, end: 10.26}
+  - {text: "The veteran left -wing President Lula de Silva has won the election in Brazil, but his defeated challenger Flavio Bolsonaro has refused to accept the result, just like his father four years ago.", start: 10.90, end: 21.86}
+  - {text: "In the Serbian election, the student -led protest movement is celebrating victory over the veteran leader Alexander Vučić.", start: 22.40, end: 28.46}
+  - {text: "A Nobel Peace Prize winner Maria Corina Machado has returned from exile to Venezuela.", start: 29.12, end: 33.78}
+  - {text: "Also in this podcast, Chinese wages compared to Chinese productivity is the lowest in the world.", start: 36.47, end: 43.55}
+  - {text: "That makes Chinese manufacturing incredibly competitive, but it also means Chinese people cannot consume a substantial share of what they produce.", start: 43.73, end: 54.59}
+  - {text: "We look at the biggest trade surplus seen in modern times.", start: 54.99, end: 58.37}
+  - {text: "But we begin with an unexpected result in Brazil's presidential election.", start: 62.60, end: 66.68}
+  - {text: "The veteran left -wing Luiz Inácio Lula de Silva, who was trailing in the first round, has defeated his Trump -backed right -wing challenger Flavio Bolsonaro.", start: 67.18, end: 76.02}
+  - {text: "The 80 -year -old incumbent president won by more than 3 percentage points, securing a fourth term in office.", start: 76.72, end: 82.56}
+  - {text: "However, a last -minute decision to extend voting sparked accusations of election interference, and Mr.", start: 83.14, end: 89.12}
+  - {text: "Bolsonaro is refusing to accept the result.", start: 89.20, end: 91.50}
+  - {text: "Just as his now -jailed father, Jair Bolsonaro, did four years ago.", start: 91.98, end: 95.48}
+  - {text: "Our South America correspondent, Ioni Wells, is in Brasilia.", start: 95.82, end: 98.98}
+  - {text: "Since Brazilian democracy was restored in 1989, no candidate has won the first round and failed to win the second round of an election.", start: 99.30, end: 108.28}
+  - {text: "And I think that's why, here in Brasilia, at the house where Flavio Bolsonaro was watching this election result, the stage was really set for a victory party and a victory speech.", start: 108.70, end: 117.68}
+  - {text: "Instead, we have just seen him come out and essentially say that he thinks this election result should be annulled.", start: 117.90, end: 125.64}
+  - {text: "What happened is inexplicable.", start: 127.74, end: 129.98}
+  - {text: "Even according to some of the ministers here, the press itself reported that the elections should have been annulled, given the circumstances at the time.", start: 130.24, end: 138.98}
+  - {text: "What I have to say now is this is impossible.", start: 139.40, end: 143.02}
+  - {text: "It's impossible to recognize the election results in the context of how it unfolded.", start: 143.54, end: 149.98}
+  - {text: "We will take the risk of asking to annull these elections.", start: 150.08, end: 154.32}
+  - {text: "Refusing there to recognize the result, he is very much following his father's footsteps in that regard, because his father, Jair Bolsonaro, similarly refused to accept the last election in 2022.", start: 155.50, end: 167.54}
+  - {text: "By contrast, we have seen scenes of jubilation and celebration on the streets of major cities, Sao Paulo, Rio, but also heard fireworks here in Brasilia as well of supporters of President Lula de Silva.", start: 168.20, end: 187.29}
+  - {text: "It can be described as a huge comeback after losing that first round.", start: 187.67, end: 191.57}
+  - {text: "He has celebrated this and thanked his supporters who he has said have saved democracy by coming out to the streets in recent weeks to support his campaign.", start: 191.81, end: 199.55}
+  - {text: "I want to thank the elderly.", start: 202.49, end: 203.93}
+  - {text: "I saw many scenes today of people being carried by their grandchildren to go vote.", start: 204.31, end: 208.07}
+  - {text: "People who were unable to get around on their own, people with cancer and other illnesses, and they went to vote because we were able to convince them", start: 208.75, end: 215.65}
+  - {text: "that voting was very important to safeguard democracy in the country.", start: 215.65, end: 218.91}
+  - {text: "So just how did Lula manage to turn things around?", start: 220.66, end: 223.80}
+  - {text: "I spoke to Leandro Brazzarez in Sao Paulo.", start: 224.22, end: 227.02}
+  - {text: "I would say that there were at least three factors.", start: 227.50, end: 230.18}
+  - {text: "The first one was a major effort by Lula's campaign to maximize voter turnout.", start: 230.46, end: 234.96}
+  - {text: "It seems that the strategy paid off because Brazil recorded one of the lowest abstention rates in history.", start: 235.46, end: 240.32}
+  - {text: "The second factor was a complete change in his campaign strategy between the first and the second round.", start: 240.64, end: 247.32}
+  - {text: "In the first round, Lula was widely seen as a rather mild campaign focused mainly on his legacy.", start: 247.88, end: 254.70}
+  - {text: "But in the second round, the campaign changed completely and focused much more on digital tele -mobilization, which a lot of people believe helped energize his supporters.", start: 255.08, end: 265.08}
+  - {text: "And the third factor was a byproduct of this new phase of his campaign, which was an effort to increase Flavio Bolsonaro's rejection ratings.", start: 265.50, end: 273.84}
+  - {text: "And what does this mean for Brazil, particularly given the divisions we saw during the campaign?", start: 274.40, end: 280.38}
+  - {text: "Brazil remains a very polarized country.", start: 280.80, end: 282.80}
+  - {text: "We can see that by the numbers of these results.", start: 283.08, end: 285.38}
+  - {text: "And this victory, it's unlikely to mean that Lula is going to have a very easy fourth term.", start: 285.38, end: 291.24}
+  - {text: "Riving parties made major gains in Congress, and Flavio Bolsonaro's party now holds at least a third of the Senate and around 20 % of the seats in the lower house.", start: 291.60, end: 302.02}
+  - {text: "And on the economic front, Lula will have to deal with high levels of that, both for the government and for Brazilian households.", start: 302.30, end: 309.36}
+  - {text: "We have figures now indicating that at least 8 million people in Brazil have some sort of that, while the public that now in Brazil is", start: 309.92, end: 317.64}
+  - {text: "estimated at around 80 % of the GDP.", start: 317.64, end: 320.70}
+  - {text: "And the significance for US influence in Latin America?", start: 321.12, end: 325.22}
+  - {text: "Well, Brazil is the largest country in Latin America and also the largest in South America.", start: 325.82, end: 330.90}
+  - {text: "The situation is a bit complicated for Brazil because the country is now isolated in the region, most of the countries in the region are now governed by right wing politicians such as Argentina and Paraguay.", start: 331.36, end: 343.42}
+  - {text: "And in recent years, we've seen the United States trying to expand its influence.", start: 344.34, end: 349.30}
+  - {text: "There are a lot of analysts saying that Donald Trump was much more in favor of a government led by Flavio Bolsonaro, despite the fact that Lula", start: 349.58, end: 358.66}
+  - {text: "and Donald Trump managed to establish a reasonably good relationship between the two of them.", start: 358.66, end: 364.06}
+  - {text: "So the situation now will depend on the ability of Lula to strengthen its ties with the United States once again.", start: 364.74, end: 371.74}
+  - {text: "Leandro Plazeras in Sao Paolo in Brazil In Serbia, there was another surprise election result as the candidate favored by Russia, Alexander Vucic, was toppled by", start: 372.18, end: 382.80}
+  - {text: "a leaderless student protest movement after 14 years in power.", start: 382.80, end: 386.92}
+  - {text: "Celebration from supporters of the student list which defied the odds to secure victory.", start: 396.09, end: 401.13}
+  - {text: "While admitting defeat, Mr Vucic claimed his opponents had had outside support.", start: 430.16, end: 435.54}
+  - {text: "I want people to know that this was a verification of a revolution that was made up of support directly from different European countries and the deep American state, the one that is against President Trump.", start: 439.18, end: 451.34}
+  - {text: "It was my duty as the recent President to behave responsibly tonight as well because I do not want unrest.", start: 452.22, end: 458.96}
+  - {text: "I do not want killings.", start: 459.52, end: 460.78}
+  - {text: "I do not want anything like that on the streets.", start: 461.08, end: 463.44}
+  - {text: "We never wanted that.", start: 463.98, end: 465.08}
+  - {text: "They destroyed two years of life in this country.", start: 465.48, end: 467.96}
+  - {text: "They will succeed in destroying more.", start: 468.22, end: 470.90}
+  - {text: "Well, our correspondent Nick Thorpe spoke to us from among the celebrating crowds in the Serbian capital Belgrade.", start: 471.76, end: 477.62}
+  - {text: "This is a remarkable result.", start: 478.28, end: 480.56}
+  - {text: "Many people I spoke to said that they didn't think that even if the students won, the students list won this election that Alexander Vucic would concede and there were fears there could be violence,", start: 481.44, end: 493.06}
+  - {text: "but he was actually, to his credit, pretty quick at conceding that he and his Serbian progressive party had lost interest in parallel to Hungary back in April when Viktor Orbán,", start: 493.42, end: 505.70}
+  - {text: "after only 20 % or so, of the count conceded there.", start: 506.12, end: 510.50}
+  - {text: "No one was expecting Viktor Orbán either to admit defeat.", start: 510.64, end: 514.34}
+  - {text: "Fireworks there in the background as supporters of the student list celebrate.", start: 515.18, end: 520.12}
+  - {text: "Now that movement sprang up after that disaster at the train station when the roof collapsed, killing 16 people in Novi Sad.", start: 520.12, end: 529.06}
+  - {text: "How will it govern as a party in power?", start: 529.72, end: 533.14}
+  - {text: "Well, this is one of the big questions that I think people will wake up to tomorrow morning, but I think it's an important question and people will have to deal with that increasingly in the coming days and weeks, because the students did not stand themselves.", start: 534.48, end: 550.36}
+  - {text: "It's an interesting, almost unique form of democracy here where a protest movement of the students, as you say, founded in the wake of that disaster,", start: 550.80, end: 559.78}
+  - {text: "blamed not just on negligence, but on corruption, poor construction materials used in that recently renovated railway station.", start: 560.40, end: 568.64}
+  - {text: "So then once the students realized that as a protest movement, there was a limit to what they could actually achieve other than blockades of the streets,", start: 568.64, end: 578.70}
+  - {text: "angry confrontations with the police or with the government.", start: 579.22, end: 582.40}
+  - {text: "What they then did was to create a list, not from their own ranks.", start: 582.80, end: 588.80}
+  - {text: "They selected from the five main universities in Serbia public figures who they felt were untainted both by any service in the current government or in the opposition in the past years.", start: 589.26, end: 603.14}
+  - {text: "So these are public figures like academics, but also doctors and nurses, actors, sports personalities, figures who they felt were clean.", start: 603.38, end: 613.26}
+  - {text: "They also went through a vetting process to see whether any of the other students wanted to veto particular people.", start: 613.68, end: 620.16}
+  - {text: "So there were several rounds of selection if you like and so now we will have the latest figures according to those preliminary official results, 138", start: 620.32, end: 630.08}
+  - {text: "candidates put forward by the students list with no practical experience of governing.", start: 630.08, end: 636.98}
+  - {text: "We don't even know at this stage who the prime minister will be, who the foreign minister or finance minister would be, as our understanding is,", start: 637.40, end: 644.96}
+  - {text: "Alexander Vucic simply announced on television that his party had lost because he didn't even know who to telephone because this is a movement effectively without leaders.", start: 645.38, end: 655.88}
+  - {text: "And what does this mean for Vladimir Putin after losing another ally and indeed for Europe?", start: 656.16, end: 662.70}
+  - {text: "We really don't know at all what the foreign policy of the new government will be.", start: 663.28, end: 668.34}
+  - {text: "I think it inevitably will be more pro -European, its values are very much European respect for the rule of law, respect for the constitution of Serbia,", start: 668.46, end: 678.56}
+  - {text: "but I think there will also be a strong national, perhaps even nationalist, tint to that.", start: 679.02, end: 684.18}
+  - {text: "One of the student coordinators I was speaking to was saying that there's no way that any Serbian government could ever recognize the independence of Kosovo, for example,", start: 684.62, end: 694.50}
+  - {text: "which had always been one of the buttons if you like, which Mr.", start: 694.66, end: 697.50}
+  - {text: "Vucic pushed in power.", start: 697.62, end: 699.04}
+  - {text: "So it will be a more pro -European, a more mainstream government, but I think it will always maintain strong Serbian identity as well.", start: 699.12, end: 708.20}
+  - {text: "Nick Thorpe in Belgrade, next to opposition celebrations in Venezuela.", start: 708.74, end: 713.34}
+  - {text: "Freedom, freedom, freedom, supporters of the opposition leader Maria Carina Machado cheering her return after nearly a year in exile.", start: 717.50, end: 725.56}
+  - {text: "She left Venezuela late last year in order to collect her Nobel Peace Prize, traveling by speedboat under cover of darkness to avoid detection by the authorities.", start: 725.86, end: 733.98}
+  - {text: "She was stopped from returning by the new government of Delcey Rodriguez, after the nation's long -term ruler Nicholas Maduro was seized by the Trump administration.", start: 734.60, end: 742.72}
+  - {text: "Ms. Machado had previously been seen as a threat by the Maduro regime, so what should we make of her return?", start: 743.58, end: 749.46}
+  - {text: "Our correspondent in the region is Will Grant.", start: 750.02, end: 752.20}
+  - {text: "She's such the sort of centerpiece, the focal point of opposition in Venezuela.", start: 752.78, end: 758.44}
+  - {text: "To all intents and purposes, the vast majority of Venezuelans perceive her as the next president as and when they ever get anything resembling a free and fair and transparent election.", start: 759.08, end: 770.04}
+  - {text: "She clearly won the last election through a sort of proxy candidate in Mundo Gonzales.", start: 770.34, end: 777.28}
+  - {text: "So she is an extremely important figure in the Venezuelan political landscape.", start: 777.54, end: 782.70}
+  - {text: "You know, we saw that with this sort of caravan from arriving unannounced into the state of Lara today and then making her way through the", start: 783.12, end: 792.16}
+  - {text: "country in this caravan to hordes of cheering supporters lining the route all the way to where she is now in Caracas.", start: 792.16, end: 800.34}
+  - {text: "And you know, that visual representation of the support is very, very important to her.", start: 800.60, end: 806.16}
+  - {text: "Of course, she wouldn't have been allowed to do this without the green light from Washington, without the green light from Donald Trump himself, in essence, and she clearly now has that.", start: 806.34, end: 815.46}
+  - {text: "So one sees it in that regard as a sort of important step towards a democratic transition in Venezuela.", start: 815.80, end: 821.84}
+  - {text: "Will Grant. Last month, China announced another rise in what's already the world's biggest trade surplus, with some saying the gap between imports and exports could reach a staggering $1 .5 trillion this year, equivalent to the GDP of the Netherlands.", start: 822.42, end: 837.50}
+  - {text: "Chinese officials see it as a sign of economic and manufacturing strength.", start: 838.02, end: 841.80}
+  - {text: "But does it benefit the Chinese public?", start: 842.22, end: 844.14}
+  - {text: "Our business presenter, Ed Butler, has this report.", start: 844.66, end: 846.98}
+  - {text: "I want to find a job.", start: 847.46, end: 848.64}
+  - {text: "I have passed like 20 written tests, but I haven't got any offer for interviews.", start: 849.16, end: 857.06}
+  - {text: "This is Alex, a recent graduate from a university who has guaranteed her a top tier position in the workplace.", start: 857.70, end: 868.12}
+  - {text: "Not anymore. Sometimes when you have reject email, you feel like if my whole education is worth it.", start: 868.92, end: 877.46}
+  - {text: "But isn't there a contradiction here?", start: 877.74, end: 879.50}
+  - {text: "AI, batteries, electric vehicles, everyone around the world wants to buy Chinese stuff these days, led last year to a $1 .2 trillion trade surplus.", start: 879.98, end: 890.60}
+  - {text: "Chinese wages compared to Chinese productivity is the lowest in the world.", start: 891.32, end: 897.08}
+  - {text: "That makes Chinese manufacturing incredibly competitive.", start: 897.54, end: 901.38}
+  - {text: "But it also means Chinese people cannot consume a substantial share of what they produce.", start: 901.88, end: 908.68}
+  - {text: "That's why China's trade surplus exploded.", start: 909.16, end: 911.96}
+  - {text: "That's Michael Pettis, a US professor of economics who's lived and taught for most of his life in Beijing.", start: 912.38, end: 918.84}
+  - {text: "He says that the manufacturing boom may be extraordinary, but in a way it's an illusion, fuelled by debt.", start: 919.52, end: 926.58}
+  - {text: "It's not a sign of health, but rather a symptom of declining consumer demand at home.", start: 927.22, end: 932.24}
+  - {text: "They're sort of stuck, right?", start: 932.70, end: 934.34}
+  - {text: "If they make less stuff, then they have to fire workers.", start: 934.98, end: 938.32}
+  - {text: "And unemployment in China is or rather under employment is extremely high.", start: 939.00, end: 943.96}
+  - {text: "So they have to keep making stuff.", start: 943.96, end: 946.14}
+  - {text: "And if you make stuff, either you consume it domestically, which they're not doing, or you run a trade surplus.", start: 946.74, end: 955.20}
+  - {text: "Those are your options.", start: 955.60, end: 956.80}
+  - {text: "To give you an idea, one of my former students who owns factories all over China, he told me, what's happened is that now I sell 95 % of what I produce to Europe, 5 % to the Middle East, and zero within China.", start: 957.30, end: 973.68}
+  - {text: "Even the leadership in Beijing seems increasingly aware that the domestic economy is stuttering and that the world has begun to pay attention.", start: 974.28, end: 982.98}
+  - {text: "Europe, like the US, has accused China not just of obstructing EU exports, but also of dumping its subsidized products onto their markets, killing European industries.", start: 983.62, end: 994.12}
+  - {text: "Desmond Schoen is a former Chinese billionaire property developer.", start: 994.74, end: 998.32}
+  - {text: "Now you're already seeing that the Germans have major issues because they're losing more 30 ,000 manufacturing drop of months, and then you're starting to see the voting base question the government policy.", start: 998.88, end: 1010.80}
+  - {text: "And this is not just Germany.", start: 1011.34, end: 1012.98}
+  - {text: "This is like the G20.", start: 1013.40, end: 1014.82}
+  - {text: "19 countries come out and say we need to a global trade rebalancing.", start: 1015.48, end: 1019.88}
+  - {text: "The only one stand out was China.", start: 1020.26, end: 1022.06}
+  - {text: "Do the Chinese leadership, I mean, are they aware of this?", start: 1022.06, end: 1025.64}
+  - {text: "Are they concerned about the decline in domestic consumption?", start: 1025.80, end: 1029.26}
+  - {text: "Oh, they are fully aware of it.", start: 1029.60, end: 1031.36}
+  - {text: "I mean, the government every day talk about we need to boost consumption.", start: 1031.38, end: 1034.80}
+  - {text: "We need to boost consumption.", start: 1035.02, end: 1036.06}
+  - {text: "And in a way, they actually have dropped some measures to help with the consumption.", start: 1036.26, end: 1040.46}
+  - {text: "But the issue with the Chinese is not patchwork policy.", start: 1040.96, end: 1044.96}
+  - {text: "You need a fundamental shifting of how do you distribute national income?", start: 1045.26, end: 1050.04}
+  - {text: "Just too little goes to the household.", start: 1050.44, end: 1052.34}
+  - {text: "China itself disputes this portrayal of economic weakness.", start: 1052.82, end: 1055.80}
+  - {text: "This Bureau of Statistics said in a statement, the national economy has forged a head against all pressure and has continued to shift towards innovation driven high quality development.", start: 1056.16, end: 1068.14}
+  - {text: "Better report by Ed Butler.", start: 1068.75, end: 1070.33}
+  - {text: "Still to come on this podcast.", start: 1072.55, end: 1074.03}
+  - {text: "They've just been sitting down the shelves for a long time with not much attention and all of a sudden just all of them sold out.", start: 1074.35, end: 1080.59}
+  - {text: "The boom in wind up radios in Britain.", start: 1080.93, end: 1083.57}
+  - {text: "You're listening to the Global News podcast.", start: 1091.24, end: 1093.52}
+  - {text: "Ugandans returning from the Democratic Republic of Congo are being forced to spend 21 days in quarantine to help stop the spread of Ebola.", start: 1094.46, end: 1101.96}
+  - {text: "Congo has recorded well over 4000 deaths since the outbreak was confirmed in May.", start: 1102.66, end: 1107.38}
+  - {text: "People who've been to the country will be barred from transiting through Uganda.", start: 1107.94, end: 1111.76}
+  - {text: "Our Global Affairs reporter Richard Cagoy told us more about Uganda's new restrictions.", start: 1112.28, end: 1116.36}
+  - {text: "Among those measures includes Ugandans are returning from the DRC and are expected to quarantine for about 21 days.", start: 1116.94, end: 1124.96}
+  - {text: "They have also barred people from the DRC who are categorised not as essential workers from entering into Uganda.", start: 1125.56, end: 1134.52}
+  - {text: "So they're saying that there's only exemptions given to medical workers, aid workers, people who are involved in the trucking business and a security personnel, but", start: 1134.92, end: 1144.58}
+  - {text: "that is subject to health screening at the ports of entry.", start: 1144.58, end: 1148.28}
+  - {text: "They have intensified this and then also they have announced that anyone who has got a reason to travel history to the DRC would not be allowed to transit through Uganda because they've two first cases confirmed in Kenya and Nigeria", start: 1148.88, end: 1162.80}
+  - {text: "travel through the airport in Entebbe in the month of October.", start: 1163.36, end: 1166.86}
+  - {text: "So they have intensified screening at the ports of entry specifically at the airport for international visitors and people are now required to fill travel locator forms", start: 1167.50, end: 1178.10}
+  - {text: "which is really going to help tracing contacts.", start: 1178.10, end: 1180.50}
+  - {text: "So they're saying that they're currently very vigilant following the developments.", start: 1180.96, end: 1185.28}
+  - {text: "What's the situation with the outbreak now because we heard from the WHO that the cases had peaked and they also appeared to be falling?", start: 1185.94, end: 1193.24}
+  - {text: "Is that still a situation?", start: 1193.92, end: 1195.10}
+  - {text: "What's the outlook? It did seem that in parts of the DRC there was a bit of a decline in terms of the cases of infection", start: 1195.36, end: 1202.66}
+  - {text: "but looks like that's still continuing specifically the eastern Congo which is at the centre of the outbreak.", start: 1202.66, end: 1209.00}
+  - {text: "They've reported over 9 ,000 cases since the outbreak was declared in May that includes 4 ,600 deaths and now also these cases being reported in neighbouring Kenya", start: 1209.58, end: 1221.94}
+  - {text: "and even farther to the west in Africa that is in Nigeria.", start: 1221.94, end: 1226.28}
+  - {text: "It looks like there's possibility that the virus is spreading contrary to what was expected a couple of weeks ago.", start: 1226.92, end: 1234.58}
+  - {text: "You're in Nairobi Richard.", start: 1235.08, end: 1236.58}
+  - {text: "What's the mood there?", start: 1236.78, end: 1237.74}
+  - {text: "Are people concerned in Kenya about this?", start: 1237.82, end: 1239.70}
+  - {text: "Yes, people in Nairobi are really concerned.", start: 1240.88, end: 1243.48}
+  - {text: "You know for the past 50 years since Ebola has had various outbreaks in the DRC no case has been reported in Nairobi.", start: 1244.06, end: 1252.36}
+  - {text: "An hour and a half light from Nairobi to eastern DRC the epicentre.", start: 1252.86, end: 1257.20}
+  - {text: "So there's a bit of concern especially the fact that the faster case died and now also close the relative also passed on.", start: 1257.80, end: 1265.56}
+  - {text: "There's lots of moments between this particular region you know we've got refugees there's lots of traders and there's that consciousness about the possibility of diseases are being detected", start: 1265.96, end: 1277.60}
+  - {text: "but what we have seen is that the Ministry of Health in Kenya has been you know very proactive in terms of creating awareness constant updating of the public about this", start: 1277.60, end: 1287.54}
+  - {text: "but then again you still have people who really view the Ebola outbreak as suspiciously some people still in denial and I think that's really been actually the biggest challenge", start: 1287.54, end: 1298.10}
+  - {text: "that most health authorities and officials have been contending with here.", start: 1298.10, end: 1301.86}
+  - {text: "Richard Kugoi talking to Charlotte Gallagher.", start: 1302.34, end: 1304.30}
+  - {text: "The Israeli Prime Minister Benjamin Netanyahu has released a video warning that Iran and its allies could attack his nation in order to disrupt Tuesday's election.", start: 1305.12, end: 1314.80}
+  - {text: "At the same time Israel's Channel 12 citing unnamed sources reported a confrontation between the Prime Minister and the Israeli military's chief of staff Isle Zemir over an unspecified new war directive.", start: 1315.28, end: 1328.40}
+  - {text: "Mr Netanyahu dismissed the report as rubbish but the opposition leader Yael Apid accused him of trying to put off the vote.", start: 1329.16, end: 1336.18}
+  - {text: "More from laser Berman diplomatic affairs correspondent at the times of Israel in Jerusalem.", start: 1336.60, end: 1341.20}
+  - {text: "Details are somewhat hazy still because the report was under military censorship but what Channel 12 Israel's biggest TV channel was able to report was that there was a certain action a certain military action that was being considered.", start: 1341.82, end: 1355.80}
+  - {text: "This sparked the concern of the Isle Zemir IDF chief of staff and he argued pretty strenuously with Netanyahu and demanded that every order be properly written and signed by Netanyahu.", start: 1356.40, end: 1370.84}
+  - {text: "He seems to be concerned about the potential for miscalculation that whatever this action was could lead Iran to believe that perhaps a larger attack was going to take place", start: 1370.98, end: 1382.66}
+  - {text: "and could spark a much larger response by Iran of course right before the elections.", start: 1382.66, end: 1388.32}
+  - {text: "Netanyahu himself denied it a couple of hours later.", start: 1389.00, end: 1392.28}
+  - {text: "At the same time Netanyahu has been warning for several weeks now that there is allegedly intelligence indications that Iran might try to do something to disrupt the elections or might try to take advantage of", start: 1392.60, end: 1405.84}
+  - {text: "the election somehow to carry out an attack.", start: 1406.46, end: 1409.22}
+  - {text: "So this certainly has been a campaign line that Netanyahu has been using in recent days.", start: 1409.38, end: 1413.68}
+  - {text: "So there's a few scenarios here.", start: 1414.26, end: 1415.96}
+  - {text: "I guess the the worst case scenario is that Netanyahu is cynically using national security of course Israel's biggest national security threat to help himself in what looks like a very difficult election.", start: 1416.48, end: 1427.10}
+  - {text: "It could be that he's trying to get Donald Trump to carry out an attack or even more worryingly to get Iran to miscalculate and do something", start: 1427.30, end: 1436.74}
+  - {text: "that could bring Israel into the fight as well.", start: 1436.74, end: 1439.10}
+  - {text: "That's the worst case.", start: 1439.20, end: 1440.76}
+  - {text: "A better case is that there is indeed intelligence Netanyahu is warning but the opposition chiefs have all come out and said that this is very worrying.", start: 1441.42, end: 1450.10}
+  - {text: "This is again using national security for partisan politics.", start: 1450.40, end: 1454.96}
+  - {text: "It is being brought into a pretty bitter and nasty political debate ahead of the elections and I think that really sums up the tenor of the elections", start: 1455.82, end: 1464.58}
+  - {text: "and the tenor of the discourse a couple of days before people go to polls.", start: 1464.58, end: 1467.88}
+  - {text: "Laserberman of the times of Israel.", start: 1468.32, end: 1470.10}
+  - {text: "Wind up radios can be a lifeline during power cuts or in places without electricity.", start: 1470.96, end: 1476.08}
+  - {text: "Many governments are recommending their citizens include them in stockpiles of emergency supplies alongside water bottles, gas stoves, tinned food and cash.", start: 1476.64, end: 1485.54}
+  - {text: "Britain's Prime Minister has urged his nation to be ready to survive potential extreme weather or cyber attacks and now wind up radios are suddenly selling out.", start: 1486.22, end: 1496.42}
+  - {text: "Pav runs a shop selling military surplus.", start: 1496.96, end: 1499.08}
+  - {text: "I think we started this week with about 10.", start: 1499.64, end: 1501.62}
+  - {text: "We have now completely sold out of this store.", start: 1501.90, end: 1504.18}
+  - {text: "They've just been sitting there on the shelves for a long time with not much attention and all of a sudden out of nowhere just all of them sold out.", start: 1504.58, end: 1511.86}
+  - {text: "I mean prepping kind of starts with a bit of a fear of you know oh something's going to happen.", start: 1512.20, end: 1517.52}
+  - {text: "We do our best in this store to obviously make sure that people stay calm.", start: 1518.16, end: 1522.46}
+  - {text: "They don't overbuy, they buy only the stuff that is needed.", start: 1522.84, end: 1525.66}
+  - {text: "Ultimately if I have now an old lady come in and she's worried about the floods or whatever's going to happen I'm not going to sell", start: 1526.08, end: 1533.50}
+  - {text: "out absolutely everything that's in my store like you know she doesn't need 10 packs of military rations that would be ridiculous but we'll make sure", start: 1533.50, end: 1541.04}
+  - {text: "that we sell them items that they can still use just in their day -to -day lives.", start: 1541.04, end: 1544.20}
+  - {text: "This is the reason why these wind up radios are so popular because you don't need to only use them in a prepper scenario they are", start: 1544.42, end: 1550.68}
+  - {text: "just a useful day -to -day item to have.", start: 1550.68, end: 1552.60}
+  - {text: "The wind up radio was invented in the 1990s by the late Trevor Baylis.", start: 1553.08, end: 1557.16}
+  - {text: "In 2013 he told the BBC how he came up with the idea.", start: 1557.38, end: 1560.86}
+  - {text: "That's how I wound it up.", start: 1561.96, end: 1563.42}
+  - {text: "Interesting to see if it still works.", start: 1564.77, end: 1566.35}
+  - {text: "Yeah I was watching a program about the spread of HIV -AIDS in Africa and they said the only way they could stop this dreadful disease cutting its way through all those places was through radio", start: 1569.70, end: 1581.68}
+  - {text: "and music communication but there was a problem.", start: 1581.68, end: 1584.24}
+  - {text: "Most people in Africa didn't have electricity and the only other form of electricity was in the form of batteries which were horrendously expensive.", start: 1585.08, end: 1594.22}
+  - {text: "I'm then thinking to myself hang on all those years ago I can see myself with an old -fashioned gramophone and I thought you know you wind this thing up", start: 1594.68, end: 1605.26}
+  - {text: "and you can get all that noise by dragging a rusty now around a piece of old Bakelite as it were and that produces that volume of sound", start: 1605.42, end: 1614.10}
+  - {text: "so there must be enough energy in that spring to drive a small dynamo which in turn would drive a radio.", start: 1614.10, end: 1620.14}
+  - {text: "And that was Trevor Baylis.", start: 1620.72, end: 1622.16}
+  - {text: "And that is all from us for now but the Global News podcast will be back very soon.", start: 1624.70, end: 1629.46}
+  - {text: "This edition was mixed by Mark Pickett and produced by Alison Davis.", start: 1629.80, end: 1633.00}
+  - {text: "Our editors Karen Martin, I'm Oliver Conway.", start: 1633.32, end: 1635.72}
+  - {text: "Until next time, goodbye.", start: 1635.98, end: 1637.06}
+---
