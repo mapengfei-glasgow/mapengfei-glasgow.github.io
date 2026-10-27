@@ -1,0 +1,348 @@
+---
+layout: single
+title: "What's next for China after Xi Jinping?"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-27T00:00:00Z
+slug: "2026-10-27-whats-next-for-china-after-xi-jinping"
+audioDir: "2026-10-27-whats-next-for-china-after-xi-jinping"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-27-whats-next-for-china-after-xi-jinping/episode.mp3"
+totalDuration: 1783.5
+sentences:
+  - {text: "Hello, I'm Celia Hatton and welcome to a special edition of the Global News podcast from the BBC World Service.", start: 0.00, end: 5.52}
+  - {text: "The top members of China's Communist Party are meeting behind closed doors.", start: 8.13, end: 13.57}
+  - {text: "They're expected to make decisions that will shape the superpower for a long time to come, namely who's going to run the country next?", start: 14.17, end: 21.73}
+  - {text: "Well, China's powerful leader Xi Jinping has bucked tradition by staying in power longer than any modern leaders before him.", start: 22.39, end: 29.07}
+  - {text: "And he hasn't yet named the next generation of young officials who will run China.", start: 29.07, end: 34.57}
+  - {text: "That could change in the next few days and weeks after that big meeting.", start: 35.05, end: 38.83}
+  - {text: "Xi is staying in office, but who's coming after him?", start: 39.37, end: 42.21}
+  - {text: "So in this special edition of the Global News podcast, we're asking, what's next for China after Xi?", start: 42.69, end: 49.13}
+  - {text: "Joining me to answer that question and some questions that our Global News podcast audience have sent in, we're joined by Stephen McDonald, he's our Beijing correspondent.", start: 53.67, end: 63.37}
+  - {text: "And also we're joined by Shan Yuan from our Global China unit.", start: 63.91, end: 66.83}
+  - {text: "Let's start off with all of the drama that's been happening within the Chinese Communist Party at some of the top levels, but also at the top levels of the Chinese military.", start: 67.13, end: 77.73}
+  - {text: "Xi Jinping has expelled more top Communist Party officials and high -ranking generals than anyone since Mao Zedong, that's China's revolutionary leader.", start: 78.19, end: 87.79}
+  - {text: "Stephen, can you take us through all of this?", start: 88.33, end: 91.13}
+  - {text: "What's been happening? So the anti -corruption crackdown, it goes right back to when Xi Jinping first came to power.", start: 91.29, end: 97.55}
+  - {text: "We don't know how many people have been caught up in this, but it seems like it's millions.", start: 97.89, end: 102.93}
+  - {text: "Now, it could be from a slap on the wrist to you end up in prison, so a variety of punishments.", start: 103.55, end: 110.49}
+  - {text: "And because this is also opaque, we also really don't know what anyone specifically has been accused of.", start: 111.05, end: 119.09}
+  - {text: "And what I should also stress is that this isn't going through the courts, at least not initially.", start: 119.27, end: 123.87}
+  - {text: "This is a party discipline procedure, which gives the inspectors incredible power that has grabbed someone off the street, take them to a secret location and", start: 124.45, end: 133.35}
+  - {text: "they could interrogate them for months on end.", start: 133.35, end: 136.69}
+  - {text: "They don't even have to tell their families.", start: 136.75, end: 138.19}
+  - {text: "And then we'll just get an announcement.", start: 138.19, end: 140.09}
+  - {text: "This person has been taken down and the anti -corruption cracked down with just the broadest brush explanation of what they're said to have done.", start: 140.59, end: 148.43}
+  - {text: "And they're never to be seen off again.", start: 148.71, end: 150.45}
+  - {text: "Really, the question is not so much how corrupt certain people are, but why certain people are being taken out.", start: 150.99, end: 156.47}
+  - {text: "And this is what's led to all this discussion about what potentially does Xi Jinping see certain people as a threat?", start: 156.79, end: 163.09}
+  - {text: "Or why this person or not that person?", start: 163.31, end: 166.15}
+  - {text: "And at the moment, the emphasis is all on the military.", start: 166.15, end: 169.67}
+  - {text: "You mentioned the huge number of people who've been taken down in the People's Liberation Army.", start: 169.91, end: 174.75}
+  - {text: "Most significantly, the body which is probably the most powerful in the country, which is the Central Military Commission, Xi Jinping is the chair of that body.", start: 175.15, end: 183.69}
+  - {text: "It's supposed to be the seven person body that runs the military.", start: 183.77, end: 186.91}
+  - {text: "Well, five of those have gone down.", start: 187.43, end: 189.39}
+  - {text: "So now the Central Military Commission is a committee of two people right now, Xi Jinping and one other general.", start: 189.93, end: 196.25}
+  - {text: "And we're just waiting for new people, I guess, to be appointed to that body.", start: 196.61, end: 200.07}
+  - {text: "Sean, let's turn to you.", start: 200.51, end: 201.75}
+  - {text: "I mean, Steven mentioned anti -corruption.", start: 201.93, end: 204.43}
+  - {text: "But on a political side, what do you think is going on?", start: 205.19, end: 207.81}
+  - {text: "Is Xi Jinping clearing house, some might say?", start: 208.01, end: 210.95}
+  - {text: "I think it's important to also bring the audience back to the days when 2012, 2013, 2014, a lot of doctors, professors, those kind of people", start: 211.51, end: 219.67}
+  - {text: "were being taken into the anti -corruption campaign.", start: 219.67, end: 222.51}
+  - {text: "Even when I went back home a few years ago, for example, I was talking to my relatives, almost every single one in my family knew about people", start: 222.67, end: 229.81}
+  - {text: "who had been snatched away by the Communist Party.", start: 229.81, end: 231.47}
+  - {text: "Some of them knew exactly the reason why corruption, and that's the reason why a lot of people are quite supportive of the campaign at the beginning.", start: 231.91, end: 238.05}
+  - {text: "But now, as the campaign dragged on, it became much, much more political, as Steven was saying.", start: 238.47, end: 243.33}
+  - {text: "Now we have a lot of military leaders being perched, and that goes back to whether Xi Jinping is doing some sort of a political perch.", start: 243.47, end: 250.15}
+  - {text: "Analysts starting to suggest whether there's some sort of clearing house.", start: 250.67, end: 254.53}
+  - {text: "A lot of people also considering, oh, maybe this is Xi Jinping's tool to sort of root out of voices that are not in agreement with his.", start: 254.93, end: 262.29}
+  - {text: "It's also, all of this comes at a really interesting time in China, just ahead of a really important series of Communist Party meetings, closed door meetings,", start: 262.61, end: 272.95}
+  - {text: "but then leading into next year, we're expecting Xi Jinping to enter his fourth term as the leader of the country in an unprecedented fourth term.", start: 273.15, end: 281.97}
+  - {text: "This is something that I talked about more with Damian Ma.", start: 282.51, end: 285.59}
+  - {text: "He's from the US think tank Carnegie China, which is based in Singapore.", start: 285.81, end: 289.59}
+  - {text: "Let's hear what he had to say.", start: 290.15, end: 291.35}
+  - {text: "The way I think about Chinese politics always is that the absence of evidence doesn't necessarily mean evidence of absence, meaning that doesn't mean that there is nothing going on.", start: 291.79, end: 301.11}
+  - {text: "There usually is something going on, the horse trading, the jostling.", start: 301.19, end: 304.23}
+  - {text: "I think the big question, of course, is the new generation of leaders, how are they going to fare in the upcoming political transition, which will be October of next year, typically.", start: 304.79, end: 315.37}
+  - {text: "Looking at the prospects of who's moving up, who's going down, this is really the time for it.", start: 316.61, end: 321.35}
+  - {text: "It's the unofficial start of the Chinese campaign season to the extent there is a campaign season in China.", start: 321.35, end: 326.85}
+  - {text: "It's not really an election, obviously.", start: 327.41, end: 329.19}
+  - {text: "It's more like a selection, but it is still quite intense leading up to it.", start: 329.45, end: 333.75}
+  - {text: "I think we're going to start to see it getting more intensified after the plenum.", start: 333.97, end: 338.81}
+  - {text: "It's so interesting, Damian, because we have, on the one hand, a party and a country that is obsessed with forward planning and long -term planning.", start: 339.29, end: 347.73}
+  - {text: "On the other hand, we have a leader who is firmly in power with no real indications of who might succeed him and no open talk about a successor either.", start: 348.19, end: 358.79}
+  - {text: "It just doesn't seem to add up, really.", start: 359.27, end: 360.83}
+  - {text: "Succession has always been a challenging thing in the Communist Party system, but if you boil it down, China has really had only two models.", start: 361.59, end: 369.25}
+  - {text: "The Mao Zedong model is you basically serve until you cannot physically.", start: 369.75, end: 373.19}
+  - {text: "The other model is you kind of step down like Deng Xiaoping did, but then you actually still have a full authority and seniority behind the scenes,", start: 373.89, end: 381.21}
+  - {text: "so you're still essentially the top dog, but you formally step down from some of your positions.", start: 381.21, end: 385.97}
+  - {text: "The question, I think if you're really observing Chinese politics closely over the next year, is are their size indicating it's going to be one or", start: 386.63, end: 394.17}
+  - {text: "the other model in terms of how the top is thinking about succession?", start: 394.17, end: 396.97}
+  - {text: "Damian Ma speaking there from Carnegie, China.", start: 397.71, end: 400.05}
+  - {text: "Steven, let's talk about this possible next generation of leaders now.", start: 400.59, end: 404.63}
+  - {text: "I know we're not expecting any names to be announced right away.", start: 404.79, end: 408.51}
+  - {text: "It's not really how China works, but we should start to get an indication of who the rising stars are in the party over the next year or so.", start: 408.61, end: 417.39}
+  - {text: "What do we know about them just based on their age and their background?", start: 417.69, end: 421.67}
+  - {text: "I think the age and background thing is interesting because if you consider not individuals, but whole swathes of people, like as you say, a generation.", start: 422.27, end: 430.19}
+  - {text: "Now, she's generation, they're the last ones to have some sort of a connection to the Mao era.", start: 430.79, end: 435.95}
+  - {text: "I mean, Xi's father was, you know, there he was a guerrilla fighter side by side with Mao, both his father and even Xi Jinping himself were taken down by Mao.", start: 436.35, end: 445.81}
+  - {text: "So there's big memories there of that.", start: 446.03, end: 448.05}
+  - {text: "But the people coming through, I suppose if you said China's generation X, the sort of sixth generation, I think they're talking about of leaders, this is people who imagine they're coming through in the 80s at a time of opening up here, more experimentation with democratic processes, freedoms in the media.", start: 448.43, end: 467.11}
+  - {text: "Now it all came to a dramatic, bloody end with the crackdown in Tiananmen Square.", start: 467.41, end: 472.31}
+  - {text: "But these were the formative years of those people.", start: 472.69, end: 474.99}
+  - {text: "And then if you look further forward to the even more recent generation, and those people are going to start to be appointed, they are in some ways less inclined to democratic reforms", start: 475.39, end: 486.59}
+  - {text: "because they've grown up even after all of the Tiananmen crackdown.", start: 486.59, end: 491.03}
+  - {text: "So if you look at people's life experiences, it is, you know, something that you can consider in terms of shaping the way they see the world.", start: 491.03, end: 497.81}
+  - {text: "Now that said, I should couch this that people shouldn't think, oh, great, all these people, the next lot they're coming through that out of these years of China opening up,", start: 498.19, end: 508.21}
+  - {text: "therefore they're going to open China up again.", start: 508.37, end: 510.23}
+  - {text: "No, not necessarily, because once you get to that level of being appointed, say, to the Central Committee, you're a hardened party caedra.", start: 510.37, end: 519.39}
+  - {text: "Like they've shown their loyalty time and time again.", start: 519.51, end: 522.87}
+  - {text: "So we might think of them as, well, certainly they're not going to be as attached to the old Mao era stuff.", start: 523.77, end: 530.65}
+  - {text: "And they have had experiences of China opening up.", start: 530.65, end: 533.87}
+  - {text: "But it's going to be interesting to see that, you know, if that leads to them wanting more of that, given the fact that Xi Jinping,", start: 533.93, end: 540.91}
+  - {text: "since the Olympics has tightened the screws, really, he's shut the place down again.", start: 541.19, end: 546.15}
+  - {text: "He's closed off reforms.", start: 546.29, end: 547.95}
+  - {text: "He's put the party right back at the center of production and all this sort of thing.", start: 548.23, end: 551.59}
+  - {text: "So it's going to be a very interesting time indeed.", start: 551.87, end: 554.17}
+  - {text: "And it all starts with this meeting, this plenum, when we're going to see some new appointments and then even more at the party congress next year.", start: 554.21, end: 562.55}
+  - {text: "Yeah, quite a few, right?", start: 562.77, end: 563.69}
+  - {text: "So I know that, you know, two thirds of the of the Communist Party's Central Committee, that's got 200 people in it.", start: 563.83, end: 569.93}
+  - {text: "That's one of the top committees.", start: 569.97, end: 571.19}
+  - {text: "Two thirds of those people are expected to retire.", start: 571.55, end: 574.03}
+  - {text: "So we really are going to start seeing a whole new generation come in.", start: 574.25, end: 577.95}
+  - {text: "Sean, what do you think?", start: 578.09, end: 578.63}
+  - {text: "Yeah, I think I just want to go back to what Stephen was said earlier in terms of kind of applying this broad stroke towards the entire generation,", start: 578.81, end: 585.75}
+  - {text: "saying those people were born in the 60s or 70s.", start: 585.85, end: 588.15}
+  - {text: "Therefore, their political view must be significantly different or similar to the generation before.", start: 588.41, end: 593.09}
+  - {text: "It's important to know that it is not a monolithic generation.", start: 593.55, end: 596.33}
+  - {text: "The same people who went to Tiananmen Square to protest at the same age as those people who gunned down them, you know.", start: 596.77, end: 603.03}
+  - {text: "So I think it's important to notice that after all the purchase that's been going on, after all the party house clearing has been going on,", start: 603.35, end: 610.27}
+  - {text: "a lot of people who will potentially be the successor to Xi Jinping will have been vetted personally by himself.", start: 610.55, end: 617.03}
+  - {text: "So even if we have people who are more, for example, pro reform, pro moral liberalism, all those sort of things, during the entire vetting process,", start: 617.41, end: 624.35}
+  - {text: "which is very secretive and enigmatic, those people might be weeded out.", start: 624.35, end: 627.73}
+  - {text: "There's some symbolic moments, for example, you have the political standing community people walking on the stage, and that's the first time the entire nation has known", start: 628.23, end: 634.95}
+  - {text: "who the next generation of leader will be.", start: 634.95, end: 637.03}
+  - {text: "And that's very different from all the other democratic countries have seen so far.", start: 637.19, end: 640.19}
+  - {text: "China is such important power, both economically and politically and militarily, to select a leader behind such closed doors, not just to the outside world on the international stage, but for people inside China as well.", start: 640.67, end: 652.65}
+  - {text: "That's reason why it's further ground for rumors and speculations.", start: 652.97, end: 656.25}
+  - {text: "And that's exactly the reason why we're talking about this, because nobody really knows.", start: 656.57, end: 660.37}
+  - {text: "And that's what's intriguing about it as well.", start: 660.87, end: 662.55}
+  - {text: "Shawnee brought up rumors and speculation.", start: 663.25, end: 665.05}
+  - {text: "And Steve and I have to kind of address one elephant in the room right now, because there's been a lot of talk around Xi Jinping himself", start: 665.61, end: 672.99}
+  - {text: "and his health and reports that maybe he isn't as healthy as the party says that he is.", start: 672.99, end: 678.57}
+  - {text: "We have to remember he's 73.", start: 678.65, end: 679.77}
+  - {text: "Can you take us through that story a little bit right now and what reportedly might be happening?", start: 680.45, end: 685.61}
+  - {text: "Well, one thing that set the tongues wagging, if I could put it that way, was when he was on a trip recently, he's coming out of the plane", start: 686.25, end: 695.15}
+  - {text: "and walking down the stairs next to his wife.", start: 695.15, end: 698.81}
+  - {text: "And she's sort of holding his arm and helping him kind of step down the plane stairs.", start: 699.45, end: 708.21}
+  - {text: "And people are like, Oh my goodness, you know, who knows?", start: 708.45, end: 710.95}
+  - {text: "What does that mean about Xi Jinping's health?", start: 711.17, end: 712.71}
+  - {text: "No, look, he might just have a sprained ankle.", start: 713.11, end: 715.41}
+  - {text: "I mean, you just never know what it is.", start: 715.59, end: 717.33}
+  - {text: "It could be nothing.", start: 717.39, end: 717.85}
+  - {text: "It could be absolutely nothing at all.", start: 718.07, end: 719.21}
+  - {text: "But every time we see something along those lines, people all of a sudden worried.", start: 719.67, end: 724.37}
+  - {text: "I mean, he turned up at one point in Tibet.", start: 724.55, end: 726.87}
+  - {text: "I think it might have been last year and he was looking terrible.", start: 727.33, end: 730.23}
+  - {text: "And people thought, Oh no, look, he's got some health issues, but it just could have been altitude sickness.", start: 730.63, end: 736.29}
+  - {text: "I mean, who knows.", start: 736.51, end: 737.27}
+  - {text: "Let's turn now to a question that we got from one of our Global News podcast audience members.", start: 737.91, end: 743.39}
+  - {text: "This is Jan, who's a listener in Europe.", start: 743.83, end: 746.55}
+  - {text: "Here's the question read out by one of our producers.", start: 746.71, end: 748.49}
+  - {text: "I am particularly interested in finding out who are the potential successors to Xi Jinping.", start: 749.15, end: 754.27}
+  - {text: "I can imagine that the battle for the position must be fierce and ferocious.", start: 755.07, end: 758.81}
+  - {text: "Generally, autocratic dictators tend to change their mind about their successor because it reminds them of their soon to come demise.", start: 759.43, end: 766.75}
+  - {text: "Look at Rupert Murdoch.", start: 767.17, end: 768.67}
+  - {text: "Okay. So, Steven, we brought up a fellow Aussie, Rupert Murdoch.", start: 769.03, end: 772.25}
+  - {text: "Do you think that's what's happening?", start: 772.31, end: 773.21}
+  - {text: "Is it a sort of succession like situation going on?", start: 773.43, end: 776.79}
+  - {text: "Do you think within the party?", start: 776.91, end: 778.07}
+  - {text: "Well, the problem is, if you were putting yourself forward as a possible successor, you wouldn't put yourself forward as a possible successor, if you know what I mean.", start: 778.99, end: 788.47}
+  - {text: "Because if you look even remotely like you'd be threatening Xi Jinping, you are gone.", start: 788.61, end: 793.95}
+  - {text: "I mean, he even speaks publicly about sort of castigating party leaders who show off, who sort of exaggerate their abilities and this type of thing.", start: 794.67, end: 805.05}
+  - {text: "So, you've got to be very careful.", start: 805.43, end: 807.47}
+  - {text: "I mean, I think if you wanted to be considered, you just got to try and do the best job you could do and hope that", start: 807.79, end: 812.87}
+  - {text: "in the wash up you'll come through at the end.", start: 812.87, end: 815.33}
+  - {text: "I mean, Xi Jinping could be the leader for another 10 years.", start: 815.77, end: 818.19}
+  - {text: "Who knows what's going to happen in all that time.", start: 818.41, end: 820.29}
+  - {text: "People do come into favour and you think, oh, they're coming next, but next thing they're down, it's like snakes and ladders.", start: 820.29, end: 828.81}
+  - {text: "Okay, Stephen John, thank you for that.", start: 829.21, end: 831.31}
+  - {text: "And stay with us on the Global News podcast, special China edition.", start: 831.55, end: 834.69}
+  - {text: "This is a special edition of the Global News podcast.", start: 835.91, end: 838.15}
+  - {text: "We're focusing on China.", start: 838.35, end: 839.47}
+  - {text: "I'm Celia Hatton. Thanks for staying with us.", start: 839.73, end: 841.51}
+  - {text: "Well, when we talk about China as a superpower, it's a military and diplomatic giant, of course.", start: 841.77, end: 848.15}
+  - {text: "But almost above all, it's got a massive economy, the world's second largest.", start: 848.66, end: 854.09}
+  - {text: "But it's an economy that's doing huge trade globally, dominating some sectors while stagnating domestically, many say.", start: 854.75, end: 862.75}
+  - {text: "I asked Yanmei Xi, she's a senior fellow with the Asia Society in Switzerland, about that gap.", start: 863.37, end: 868.47}
+  - {text: "Let's hear what she said.", start: 868.59, end: 869.21}
+  - {text: "Everything that is high tech, industrial, and especially export oriented is booming.", start: 869.81, end: 877.41}
+  - {text: "So we're thinking of renewable energy equipment.", start: 878.11, end: 880.37}
+  - {text: "We're thinking of the rapidly advancing AI technology.", start: 881.01, end: 884.81}
+  - {text: "We're thinking of Chinese electric vehicles, Chinese machinery, but pretty much everything domestically oriented is quite bleak.", start: 885.33, end: 894.53}
+  - {text: "The realistic sector has not found the bottom yet.", start: 894.95, end: 897.85}
+  - {text: "Domestic consumption is pretty weak, income growth is stagnating, and many people feel their future job prospects, especially for young people, is also quite depressing.", start: 898.37, end: 910.05}
+  - {text: "So we're facing this widening gap between the external oriented economy and the domestic driven economy.", start: 910.35, end: 917.51}
+  - {text: "We know that Chinese exports have been rising.", start: 917.79, end: 920.07}
+  - {text: "Wouldn't that automatically help what's happening within the domestic economy?", start: 920.55, end: 924.87}
+  - {text: "Wouldn't those profits flow through and help people domestically within China?", start: 924.87, end: 929.55}
+  - {text: "I think that's what the leadership hopes, but there can be a couple risks in this scenario.", start: 929.89, end: 935.27}
+  - {text: "One is that we're now seeing pushbacks around the world for what they perceive as the mercantilist policy of China.", start: 935.71, end: 942.59}
+  - {text: "Basically, China is trying to grow at the cost of the rest of the world.", start: 942.81, end: 947.31}
+  - {text: "So we're seeing the US closing its market to China.", start: 947.63, end: 950.11}
+  - {text: "We're seeing Europe is now considering pretty hard line trade policy versus China.", start: 950.41, end: 955.15}
+  - {text: "So even if these policy, these pushbacks are not effective, another risk is that ultimately, the rest of the world may not just have enough demand to pull the sides of the economy.", start: 955.57, end: 968.63}
+  - {text: "So if we think of the way of a train, the freight is growing heavier and bigger, and the engine, part of the engine is the external export market can have to pull more and more.", start: 968.97, end: 981.43}
+  - {text: "And eventually, it will become slower and slower.", start: 981.85, end: 984.27}
+  - {text: "So counting on export alone to pull the economy in the long term may not be sustainable.", start: 984.87, end: 990.45}
+  - {text: "Also, when we talk about the Chinese economy, what's happening inside China, we often go back to what's happening with the real estate sector.", start: 990.95, end: 998.35}
+  - {text: "You mentioned it yourself.", start: 998.45, end: 999.29}
+  - {text: "What is happening now with the real estate sector?", start: 999.77, end: 1002.13}
+  - {text: "And why is it so important?", start: 1002.21, end: 1003.07}
+  - {text: "Real estate sector was very important to China because it was nearly 20 % of the GDP.", start: 1003.83, end: 1009.57}
+  - {text: "And then the bubble started bursting about five years ago.", start: 1010.37, end: 1014.37}
+  - {text: "But rather than just letting the bubble burst, and I think what the Chinese government wanted was, let's say, control the leaking of the balloon.", start: 1014.69, end: 1023.01}
+  - {text: "And then anecdotally, we've been hearing that local governments, for example, would not allow property owners or real estate developers to sell the apartments below certain price.", start: 1023.71, end: 1036.97}
+  - {text: "So they wouldn't allow the market finding the price where the supply meets the demand.", start: 1037.59, end: 1043.69}
+  - {text: "So it's kind of slowly leaking of the air from the balloon.", start: 1044.03, end: 1046.57}
+  - {text: "But the result of that is we still haven't seen the housing market reaching the bottom.", start: 1046.81, end: 1051.31}
+  - {text: "And nobody knows where the bottom is.", start: 1051.51, end: 1053.11}
+  - {text: "So do you put yourself in the mind of a Chinese buyer?", start: 1053.41, end: 1056.07}
+  - {text: "If you wait another month, if we wait another two months, the price may be even lower than today, you would wait.", start: 1056.87, end: 1062.01}
+  - {text: "One more question for you.", start: 1062.37, end: 1064.33}
+  - {text: "And it's from a listener, actually.", start: 1064.35, end: 1065.73}
+  - {text: "I believe a listener in Europe sent us this.", start: 1066.07, end: 1068.25}
+  - {text: "The listener says, I'm interested in your analysis if the next leader's economic strategy will continue to be global economic domination with massive dumping into market segments to achieve a monopolistic position, killing all the competition,", start: 1068.57, end: 1083.31}
+  - {text: "and then moving on to the next market segment.", start: 1083.87, end: 1085.61}
+  - {text: "We saw that with renewable energy.", start: 1086.07, end: 1088.27}
+  - {text: "What market segment is next?", start: 1088.75, end: 1090.07}
+  - {text: "Right. So I think what the listener is looking for is they're going to be a major pivot in China, right?", start: 1091.15, end: 1096.37}
+  - {text: "Major pivot from export driven growth to more a domestic consumption, driven growth, as well as a pivot towards more balanced trade with the rest of the world.", start: 1096.51, end: 1107.23}
+  - {text: "So far, we have not seen any sign of it.", start: 1107.23, end: 1110.85}
+  - {text: "So I think partly because this favoring of production over consumption, and also partly I think Chinese policymakers genuinely believe that given time and given patience of these high tech industrial sectors,", start: 1111.25, end: 1126.07}
+  - {text: "that's the only path for China to escape the so -called middle income trap.", start: 1126.69, end: 1131.19}
+  - {text: "And I believe that they see their export strength as well as the Chinese brands are now becoming global household names as evidence of the success of this policy.", start: 1131.67, end: 1143.01}
+  - {text: "They do not necessarily see that as weakness because of that.", start: 1143.33, end: 1147.37}
+  - {text: "I do not see a major change in the policy.", start: 1147.89, end: 1151.43}
+  - {text: "And also the listener asks, what are the next sectors?", start: 1151.95, end: 1154.89}
+  - {text: "So Chinese drugs, pharmaceutical products becoming very, very competitive as well.", start: 1155.27, end: 1159.63}
+  - {text: "And I think on a more stealth mode because these are not consumer facing.", start: 1160.39, end: 1164.75}
+  - {text: "Chinese industrial machineries, industrial robotics are also becoming globally very competitive.", start: 1165.37, end: 1172.15}
+  - {text: "And stunningly, Germany now imports more machinery from China than exports.", start: 1172.73, end: 1177.73}
+  - {text: "And that's like a kind of major turning point for Germany.", start: 1178.31, end: 1181.55}
+  - {text: "That was Yammei, senior fellow with the Asia Society Switzerland.", start: 1182.17, end: 1186.03}
+  - {text: "That's interesting because Yammei is saying that this global strategy has been quite a success for China.", start: 1186.59, end: 1192.97}
+  - {text: "But I wonder, you know, the listener question to me also had some embedded criticism.", start: 1193.47, end: 1197.65}
+  - {text: "As Yammei was saying, China has been putting so much emphasis on the exports.", start: 1199.34, end: 1204.26}
+  - {text: "I was back in China just a few months ago and I was traveling around not a single person that I met, not a single one was optimistic about China's economy.", start: 1204.58, end: 1212.20}
+  - {text: "Everyone is doing awfully.", start: 1212.60, end: 1213.76}
+  - {text: "They cannot find a job.", start: 1214.02, end: 1214.82}
+  - {text: "The cost will be still quite high.", start: 1215.12, end: 1216.34}
+  - {text: "And if you really talk to people, the entire Chinese population is really struggling quite bad.", start: 1216.66, end: 1220.88}
+  - {text: "Stephen, your thoughts on what Sean's just said.", start: 1221.32, end: 1223.16}
+  - {text: "You know, you've been there for so long, you travel a lot around the country.", start: 1223.48, end: 1227.00}
+  - {text: "Do you see that gap as well and that pessimism?", start: 1227.12, end: 1229.10}
+  - {text: "Yeah, I mean, I think people are much more pessimistic than they used to be about the economy here.", start: 1229.76, end: 1234.12}
+  - {text: "That's for sure. The problem is these amazing bits of the economy, robotics, electric vehicles, solar panel production, wind turbines, all this stuff.", start: 1234.20, end: 1243.82}
+  - {text: "I mean, China is selling these fantastic products around the world.", start: 1244.14, end: 1247.50}
+  - {text: "They don't employ enough people.", start: 1247.74, end: 1250.06}
+  - {text: "And youth unemployment is hovering at around 18%.", start: 1250.52, end: 1253.12}
+  - {text: "And that's the official figures, could be even worse.", start: 1253.12, end: 1255.40}
+  - {text: "So if you've got high unemployment of people who've got jobs and worried they'll lose their jobs, it means they're not going to go and buy things", start: 1256.02, end: 1262.36}
+  - {text: "because they don't feel secure and on and on and on it goes.", start: 1262.36, end: 1265.72}
+  - {text: "And this is a huge political headache for the government.", start: 1265.88, end: 1269.04}
+  - {text: "When you speak to people inside China, or you look at what the conversations that are being had limited conversations admittedly on Chinese social media, where does the blame lie?", start: 1269.76, end: 1280.04}
+  - {text: "If people are feeling pessimistic, do they automatically blame Xi at the top or are they looking at local government?", start: 1280.60, end: 1288.18}
+  - {text: "Sean, when you talk to people, you know, what do they tell you?", start: 1288.56, end: 1291.50}
+  - {text: "It's very interesting in terms of like the social contract that Chinese government has with its people.", start: 1291.86, end: 1296.80}
+  - {text: "For the very, very long time, the contract has always been, you give up certain liberties or give up your criticism in exchange for betterment of your life.", start: 1297.28, end: 1305.36}
+  - {text: "And that has been true for a really long time.", start: 1305.58, end: 1307.16}
+  - {text: "But over the past few years, I think that there's a different layer to that contract now, more than just making your life better because the government is aware", start: 1307.46, end: 1315.08}
+  - {text: "that people's life is actually not getting better.", start: 1315.08, end: 1316.80}
+  - {text: "So they sort of started shifting the direction to a different kind of contract where you give up certain things in exchange for feeling that the Chinese nation,", start: 1317.10, end: 1325.70}
+  - {text: "as a nation, is standing up again on the world stage.", start: 1325.86, end: 1328.56}
+  - {text: "China has been hosted different summits, for example, to project itself as a stable partner of the global south.", start: 1329.00, end: 1334.56}
+  - {text: "And the trade war has come out as this kind of rational voice for the world to look up to.", start: 1335.08, end: 1340.50}
+  - {text: "So there's a new layer of contract, even though your life might not be getting better, but we as a nation are biding our time to make sure", start: 1340.78, end: 1348.16}
+  - {text: "that we stand again on the world stage.", start: 1348.16, end: 1349.88}
+  - {text: "And with that time, our economy is going to get better, your life is going to get better as well.", start: 1350.38, end: 1353.80}
+  - {text: "And of course, I'm not saying that there's no criticism within the population against that, but if you go in China and social media, no one's going to be talking about it.", start: 1353.94, end: 1360.86}
+  - {text: "But if you go actually talk to ordinary Chinese, especially further away from the political scene, I might personally, for example, have talked to a lot of people who lay the blame on Xi Jinping himself,", start: 1360.90, end: 1370.38}
+  - {text: "and especially people who were in the property sector, for example.", start: 1370.48, end: 1372.74}
+  - {text: "And then they have been hit the hardest and the the youth, for example, they face such high rate of unemployment.", start: 1373.28, end: 1378.96}
+  - {text: "And a lot of people do lay the blame on him.", start: 1379.58, end: 1381.78}
+  - {text: "All right, well, we've been talking a lot about what's been happening inside China.", start: 1382.10, end: 1385.56}
+  - {text: "Let's focus now on how China deals with the outside world.", start: 1386.14, end: 1389.36}
+  - {text: "We have one audience question.", start: 1389.78, end: 1391.68}
+  - {text: "Let's take a listen.", start: 1391.96, end: 1392.72}
+  - {text: "Hi, this is Richard from Cape Town, South Africa.", start: 1393.28, end: 1395.70}
+  - {text: "I wonder what are China's medium and long term ambitions within Africa?", start: 1396.18, end: 1401.06}
+  - {text: "In particular, how they either align or conflict with the ambitions of Russia and also the United States of America in Europe?", start: 1401.56, end: 1409.32}
+  - {text: "Sean. I think it's important to know that Africa is sort of the crown draw of China's overseas expansion.", start: 1410.25, end: 1416.29}
+  - {text: "And it was the first continent when the the whole idea of Belt Road Initiative was introduced.", start: 1416.61, end: 1421.59}
+  - {text: "Africa was the focus.", start: 1421.97, end: 1423.41}
+  - {text: "We have the, for example, the railway in Kenya and in Ethiopia.", start: 1423.69, end: 1427.33}
+  - {text: "And we have dams being built and we have EVs, for example, being exported to the continent.", start: 1427.71, end: 1431.51}
+  - {text: "All those things are very important for China's expansion.", start: 1431.81, end: 1434.51}
+  - {text: "And over the past few years, I think that their relationship has shifted fundamentally in a way that we're no longer seeing a lot of big", start: 1435.25, end: 1442.27}
+  - {text: "ticket infrastructure items being implemented in Africa anymore.", start: 1442.27, end: 1445.79}
+  - {text: "We're seeing small and beautiful projects we're talking about important avocados from Kenya, for example, or building ships for certain villages that can go shipping.", start: 1445.99, end: 1454.91}
+  - {text: "But now moving on to the second part of the question when the listener was talking about how he sort of collides with the interest of Russia, Europe, and the United States.", start: 1455.49, end: 1464.75}
+  - {text: "I think Russia's ambition in Africa is very different from China's ambition.", start: 1465.23, end: 1468.25}
+  - {text: "We've been seeing a lot of, for example, Wagner groups in the Sahel region.", start: 1468.53, end: 1472.69}
+  - {text: "And Russia's focus has been predominantly security -based, very military -based.", start: 1473.25, end: 1478.75}
+  - {text: "And now China, obviously, I'm not saying China does not want to get involved militarily in Africa, because we do have the only overseas military base of China in Djibouti, that was opened in 2017.", start: 1479.23, end: 1488.73}
+  - {text: "And you also have a bunch of private security companies, not mercenaries that Russia deployed to Africa, but private security companies who are there to secure the interest of Chinese state -owned enterprise or infrastructure projects.", start: 1489.33, end: 1501.37}
+  - {text: "But knowing that China and Russia are good buddies, they could very well work together.", start: 1501.85, end: 1506.27}
+  - {text: "For example, after France withdrew from the Sahel region, Wagner quickly took over.", start: 1506.51, end: 1510.37}
+  - {text: "Russia was a major influence in that region now.", start: 1510.49, end: 1513.31}
+  - {text: "And with that comes with a certain level of stability, and China is able to exploit that security stability.", start: 1513.67, end: 1519.43}
+  - {text: "On a bleaker note, both China and Turkey are accused of encouraging some conflicts there by selling arms and especially military drones to Africa.", start: 1520.07, end: 1532.79}
+  - {text: "So according to some analysts, the flooding in of these Chinese and Turkish drones has made some conflicts even worse in Africa.", start: 1533.33, end: 1540.05}
+  - {text: "So it's not all rosy, that's for sure.", start: 1540.57, end: 1542.67}
+  - {text: "Okay, maybe that's a good time for us to turn to another part of the world where China is accused of exhibiting some assertive behavior, some might say.", start: 1543.17, end: 1553.05}
+  - {text: "Let's hear from one of our audience members in the Philippines.", start: 1553.17, end: 1555.77}
+  - {text: "Hello, BBC team. I am Jian.", start: 1556.43, end: 1558.57}
+  - {text: "I am deeply concerned with China's aggression towards our country.", start: 1559.21, end: 1564.99}
+  - {text: "The Chinese Ambassador Jin Kuan made a controversial statement regarding the China's use of force and how they could easily defeat the Philippines if they chose to do so.", start: 1565.65, end: 1579.85}
+  - {text: "How would a change in China's leadership worsen or improve the situation?", start: 1580.41, end: 1588.61}
+  - {text: "Sean, let's go to you for this one.", start: 1589.13, end: 1590.47}
+  - {text: "I mean, do you sense that a lot of China's foreign policy is down to Xi Jinping himself?", start: 1590.61, end: 1596.21}
+  - {text: "If there was another person sitting in that seat, would we expect some kind of change?", start: 1596.63, end: 1601.79}
+  - {text: "I just wonder how personal we think this might be.", start: 1601.95, end: 1603.97}
+  - {text: "Xi Jinping does dictate a lot of China's foreign policy, and that's quite clear.", start: 1604.41, end: 1608.39}
+  - {text: "His decision is very calculated, but I think when it comes to the Philippines, it's a bit different because the aggression does not come exclusively from the Navy.", start: 1608.75, end: 1616.51}
+  - {text: "Most of the aggression has been carried out by Coast Guard and militias, and those people do not directly answer to the Navy.", start: 1616.83, end: 1623.55}
+  - {text: "Not to say that Xi Jinping does not know about the existence, there might be some encouragement, there might be some echo essence.", start: 1623.75, end: 1628.59}
+  - {text: "The listener was asking whether a change of president is going to change the behavior, change the policy China exhibits towards the Philippines or the world in general.", start: 1629.07, end: 1637.39}
+  - {text: "Frankly, I don't think so.", start: 1637.83, end: 1638.91}
+  - {text: "The security in South China Sea affects directly how China is going to be able to engage with Taiwan, engage with the rest of the world.", start: 1639.39, end: 1646.45}
+  - {text: "And that's the reason why even during the negotiation between China and the US, Taiwan has always been a big part of it, just because both countries know how important this region is to China,", start: 1646.75, end: 1656.13}
+  - {text: "coupled with the fact that the US and the Philippines have certain treaties and then how it's going to be changed is not necessarily dictated by who the president is.", start: 1656.51, end: 1664.07}
+  - {text: "It's a long lineage of domestic policies of China's claim over these territories.", start: 1664.25, end: 1669.55}
+  - {text: "Those things will not change simply because we have a new president.", start: 1669.91, end: 1672.55}
+  - {text: "Why do you think we're so fascinated with Xi Jinping as a character?", start: 1673.09, end: 1677.65}
+  - {text: "Why is this man, somebody who we speculate so much about, even though, honestly, we know so little about him as a person?", start: 1678.17, end: 1686.43}
+  - {text: "Stephen, what do you think?", start: 1686.83, end: 1687.55}
+  - {text: "Yeah, I mean, it certainly keeps his cards close to his chest, doesn't it?", start: 1688.39, end: 1691.69}
+  - {text: "I mean, you compare him to other leaders like Jiang Zemin.", start: 1692.05, end: 1694.19}
+  - {text: "There he is singing songs and putting on hats and having a beer and chewing out the Hong Kong media and didn't mind being really colorful.", start: 1694.79, end: 1703.07}
+  - {text: "And then you got Xi.", start: 1703.31, end: 1704.05}
+  - {text: "He's just like, you never see any change in his mood or anything like that.", start: 1704.23, end: 1708.45}
+  - {text: "You know, it is interesting because years ago, he went to Australia and at one point he said, well, he's really interested in Aboriginal art.", start: 1708.69, end: 1716.01}
+  - {text: "And so they took him out to this remote area to show him these ancient cave paintings because he's fascinated by that.", start: 1716.13, end: 1722.75}
+  - {text: "Now, it's sort of amazing in a way that he and the party doesn't show that side of him.", start: 1722.75, end: 1728.79}
+  - {text: "I mean, that's quite endearing.", start: 1729.17, end: 1730.27}
+  - {text: "Doesn't that make him more of a warm figure or what have you?", start: 1730.43, end: 1733.25}
+  - {text: "And yet they don't want it.", start: 1733.95, end: 1735.11}
+  - {text: "I don't give up anything because I suppose any sign of weakness or anything that could make him seem anything other than completely infallible, they're worried about", start: 1735.15, end: 1745.65}
+  - {text: "or certainly he seems to be worried about.", start: 1745.65, end: 1747.63}
+  - {text: "And he's got one of the most important jobs in the world.", start: 1747.77, end: 1750.35}
+  - {text: "He's one of the two most powerful people in the world.", start: 1750.39, end: 1752.73}
+  - {text: "And we know so little about him.", start: 1752.97, end: 1754.53}
+  - {text: "And that's all from us for now.", start: 1757.06, end: 1758.56}
+  - {text: "Thanks to Stephen McDonnell in Beijing and Shon Yuan here with me in London.", start: 1758.82, end: 1762.58}
+  - {text: "And to my two other guests, Damian Ma from Carnegie, China and Yame Xie from the Asia Society, Switzerland.", start: 1762.94, end: 1769.16}
+  - {text: "If you want to get in touch, you can email us at globalpodcast at bbc .co .uk.", start: 1769.80, end: 1775.10}
+  - {text: "I'm Celia Hatton. Thanks for joining us. Bye -bye.", start: 1775.52, end: 1777.86}
+---
