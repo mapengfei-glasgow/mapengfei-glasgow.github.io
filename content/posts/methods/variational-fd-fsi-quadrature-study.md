@@ -26,6 +26,10 @@ strong solid-mesh sensitivity remains. The first adaptive quadrature selector
 reduces local stencil error without a consistent cost advantage over uniform
 subdivision. Whole-solver speedup at matched accuracy remains unproven.
 
+For the derivations (projection, adjoint force, volume constraints, time
+stepping) and a walk-through of the CPU/CUDA code, see
+[theory and implementation](/posts/variational-fd-fsi-theory-implementation/).
+
 ## Method and established prior work
 
 The adapter integrates fluid/solid interaction in the solid reference domain,

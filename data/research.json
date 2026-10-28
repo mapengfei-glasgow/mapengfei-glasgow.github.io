@@ -142,7 +142,12 @@
         "description": "Follow unsteady flow and sphere motion."
       },
       {
-        "title": "Fluid\u2013solid coupling and quadrature",
+        "title": "Fluid\u2013solid coupling: theory and implementation",
+        "url": "/posts/variational-fd-fsi-theory-implementation/",
+        "description": "Derive the projection, adjoint force and volume constraints, and read the CUDA code."
+      },
+      {
+        "title": "Fluid\u2013solid coupling: results",
         "url": "/posts/variational-fd-fsi-quadrature-study/",
         "description": "Examine transfer integration and volume conservation."
       }
