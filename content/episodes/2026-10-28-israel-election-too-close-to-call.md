@@ -1,0 +1,256 @@
+---
+layout: single
+title: "Israel election too close to call"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-28T00:00:00Z
+slug: "2026-10-28-israel-election-too-close-to-call"
+audioDir: "2026-10-28-israel-election-too-close-to-call"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-28-israel-election-too-close-to-call/episode.mp3"
+totalDuration: 1482.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.26}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Wednesday, the 28th of October, these are our main stories.", start: 6.49, end: 13.03}
+  - {text: "Israel's general election is too close to call after a campaign viewed as a referendum on Benjamin Netanyahu.", start: 13.57, end: 20.37}
+  - {text: "Flavio Bolsonaro has arrived in the US after losing the election in Brazil and leaving the country in defiance of a court order.", start: 20.87, end: 29.11}
+  - {text: "Also in this podcast, King Charles begins a Caribbean tour by acknowledging the great suffering of the past amid pressure to apologize for Britain's role in the slave trade.", start: 31.91, end: 43.23}
+  - {text: "And we hear from Colin Kaepernick, the NFL star who took the knee to protest racism.", start: 43.71, end: 49.59}
+  - {text: "I knew the protest could potentially cost my career.", start: 49.89, end: 52.65}
+  - {text: "If I had had it all over to do again, knowing the outcome, I would absolutely do it again.", start: 52.99, end: 59.09}
+  - {text: "It's been described as Israel's most consequential election, the first since the October the 7th attacks and Israel's bombardment of Gaza.", start: 64.03, end: 73.47}
+  - {text: "While the votes are in, the answers of who will lead the country aren't.", start: 74.15, end: 77.89}
+  - {text: "As we record this podcast, less than half of the ballots have been counted.", start: 78.17, end: 82.09}
+  - {text: "In exit polls, Benjamin Netanyahu's block and the opposition led by the former army chief, Gary Eisencott, appeared to be neck and neck.", start: 82.69, end: 90.61}
+  - {text: "But speaking at his party's headquarters in Tel Aviv, Mr.", start: 91.05, end: 94.35}
+  - {text: "Eisencott said the people have chosen change.", start: 94.45, end: 97.39}
+  - {text: "We made history. I stand before you, thrilled.", start: 100.94, end: 106.06}
+  - {text: "The people of Israel went to a referendum on the leadership that will guide the country in the coming years.", start: 106.86, end: 114.22}
+  - {text: "And the public has decided in favour of change.", start: 114.84, end: 119.40}
+  - {text: "The coalition of failure has lost the trust of the people.", start: 120.40, end: 124.46}
+  - {text: "Israel is on the way to a new era.", start: 125.16, end: 128.96}
+  - {text: "Prime Minister Netanyahu told supporters in Jerusalem that his Likud party remained the biggest in parliament and rejected any reliance on Arab -Israeli parties that appear to have done well in the election.", start: 129.50, end: 141.62}
+  - {text: "We must put in place a strong, right -wing national government.", start: 144.54, end: 148.92}
+  - {text: "That is what needs to be done.", start: 149.64, end: 150.98}
+  - {text: "It is forbidden, simply forbidden, to endanger Israel by forming a government that relies on anti -Zionist Arab parties.", start: 151.84, end: 160.34}
+  - {text: "So, two different choices and visions for the future.", start: 161.12, end: 164.20}
+  - {text: "And with the results unclear, where does this leave Israel?", start: 164.44, end: 167.54}
+  - {text: "Our chief international correspondent, least to set, is in Jerusalem.", start: 167.94, end: 171.14}
+  - {text: "I think, first of all, we have to emphasise that it was a victory for the voters, a historic high turnout right across Israel, including in Israel's Arab community,", start: 171.78, end: 182.30}
+  - {text: "who make up about 20 % of the population who in the past have boycotted or had very low turnout during the elections.", start: 182.36, end: 189.14}
+  - {text: "Right across Israel, you had a very clear message that this vote mattered.", start: 189.44, end: 193.60}
+  - {text: "What did the vote deliver?", start: 194.22, end: 195.52}
+  - {text: "Not a very clear path to victory.", start: 196.06, end: 198.50}
+  - {text: "It's going to be about the numbers, but also about the narrative.", start: 198.78, end: 202.74}
+  - {text: "Which way is the opposition going to turn?", start: 203.16, end: 205.80}
+  - {text: "Will Prime Minister Netanyahu, the master, the magician of politics here be able to spin the narrative, be able to put him in the position to be the one to form the government?", start: 206.10, end: 215.76}
+  - {text: "There's a lot at play and it's very difficult to say how this is all going to turn out.", start: 216.12, end: 221.52}
+  - {text: "What Israel needs, what the region needs, and what the world needs, of course, is a stable government in Israel.", start: 221.76, end: 227.60}
+  - {text: "Will Israel now have the kind of government is constantly on the defensive, trying to cobble together enough votes to push forward with any policies, whether it's in what to do about the ongoing wars, what to do about the Iran War.", start: 228.24, end: 243.56}
+  - {text: "Gadiel Eisencott, remember, has said that he doesn't want to pursue military action against Iran to try to bring down its leadership in the way that Prime Minister Netanyahu has basically told Israelis, I've got to get my mission done, as he puts it.", start: 243.66, end: 258.22}
+  - {text: "I'm the only one can do it.", start: 258.44, end: 259.76}
+  - {text: "And President Trump's saying, from Washington, we've got to finish that job.", start: 259.88, end: 263.46}
+  - {text: "And of course, he endorsed Prime Minister Netanyahu.", start: 263.54, end: 266.88}
+  - {text: "So these are still uncertain, uncertain days.", start: 267.00, end: 270.64}
+  - {text: "There could be some differences.", start: 270.64, end: 272.86}
+  - {text: "But I don't think we can expect a dramatic change, no matter who's in power, whether it does end up being Prime Minister Netanyahu again or Gadiel Eisencott.", start: 273.28, end: 283.88}
+  - {text: "And make no mistake, the region is watching because it will be affected by these choices, by the repercussions of this vote.", start: 284.36, end: 292.04}
+  - {text: "And indeed, it will all go as far away as the price of the food we put in our fridge and the price of petrol we put in our vehicles.", start: 292.26, end: 300.94}
+  - {text: "least you said in Jerusalem sources have confirmed to the BBC that Brazil's defeated presidential candidate Flavio Bolsonaro has arrived in the US.", start: 301.64, end: 311.80}
+  - {text: "There's been no official confirmation from the State Department in Washington, but it earlier said visas would be issued to him and his family to allow them to enter the country.", start: 312.38, end: 321.76}
+  - {text: "On Monday, Brazil's Supreme Court ordered the right -wing senator to surrender his passports as part of an investigation into alleged money laundering, a demand he ignored.", start: 322.08, end: 332.50}
+  - {text: "I asked the BBC's Luis Fajardo in Miami if he knew where Flavio Bolsonaro was.", start: 333.20, end: 338.56}
+  - {text: "Everything seems to indicate that he has arrived to the United States, landed in Miami.", start: 339.10, end: 344.14}
+  - {text: "And we are waiting an official confirmation or an official statement from Flavio Bolsonaro, who only hours before had been saying that he did not intend to leave Brazil.", start: 344.54, end: 354.20}
+  - {text: "This clearly changed. And of course, the United States government has said that it will grant visas.", start: 354.20, end: 359.40}
+  - {text: "It's not clear what kind of visas, but they said that they would give visas to Bolsonaro in order for him to enter the United States.", start: 359.54, end: 365.84}
+  - {text: "And his father, Jair Bolsonaro, the former president, he's under house arrest in Brazil.", start: 366.34, end: 370.90}
+  - {text: "So perhaps not surprising that his son has decided that the US is a safer bat.", start: 371.12, end: 376.24}
+  - {text: "Definitely. Of course, also Flavio Bolsonaro's brother, Eduardo Bolsonaro, had moved to the United States as well some time before, during a time when he was being under trial in Brazil,", start: 376.24, end: 389.32}
+  - {text: "and he was eventually convicted while he was in the United States.", start: 389.32, end: 392.44}
+  - {text: "Eduardo Bolsonaro lives in Texas.", start: 392.90, end: 395.08}
+  - {text: "And of course, Jair Bolsonaro is under house conviction.", start: 395.58, end: 399.64}
+  - {text: "Basically, he's been sentenced to many years in a house jail.", start: 399.80, end: 403.46}
+  - {text: "And so clearly, Flavio Bolsonaro saw the situation getting worse for him in Brazil, the fact that authorities had demanded him to turn in his passport and he refused to do so.", start: 403.92, end: 415.68}
+  - {text: "And in the next hours, eventually, he seems to have taken the decision to arrive in the United States, where again, he will presumably have some sort of cooperation or good reception by US authorities that have been very friendly to him, to his aspirations in the government.", start: 415.88, end: 432.60}
+  - {text: "And political reaction has been only so far.", start: 432.82, end: 434.92}
+  - {text: "I mean, obviously, President Lula and President Trump are not the best of friends anyway.", start: 435.06, end: 438.68}
+  - {text: "President Lula had very, very strong comments against Bolsonaro's reported decision to move to the United States.", start: 439.20, end: 446.58}
+  - {text: "He was saying that it was a shameful departure.", start: 446.96, end: 449.12}
+  - {text: "And he pointed out that when Lula himself was facing trial in Brazil, he had to turn in his passport and wait until the judiciary decided his fate.", start: 449.66, end: 460.40}
+  - {text: "He's saying that those who have nothing to hide have nothing to fear.", start: 460.46, end: 464.46}
+  - {text: "And he went as far as calling Flavio Bolsonaro a bootlicker of the United States.", start: 464.64, end: 469.44}
+  - {text: "So very, very strong comments against him.", start: 469.70, end: 472.46}
+  - {text: "And the rest of the Brazilian political world, of course, reacting to this very dramatic evolution just a few days after the election.", start: 472.60, end: 480.54}
+  - {text: "And now Flavio Bolsonaro apparently moving to the United States.", start: 480.82, end: 483.92}
+  - {text: "Luis Fajardo. Ever since Russia invaded Ukraine in 2022, European leaders have scarcely spoken to Vladimir Putin.", start: 484.18, end: 493.00}
+  - {text: "But now Finland's president, Alexander Stubb, and Norway's Prime Minister, Jonas Gostowra, have held a 90 minute call with the Russian leader.", start: 493.66, end: 501.98}
+  - {text: "They discussed upcoming peace talks in Abu Dhabi between negotiators from Russia, Ukraine and the US.", start: 502.60, end: 508.64}
+  - {text: "Our Russia editor, Steve Rosenberg reports from Moscow.", start: 509.10, end: 511.90}
+  - {text: "Since Russia's full scale invasion of Ukraine, European leaders have tended to shun Vladimir Putin.", start: 512.62, end: 518.40}
+  - {text: "Today, the leaders of Finland and Norway picked up the phone and called the Kremlin leader to persuade him to end the war.", start: 519.20, end: 526.62}
+  - {text: "The president of Finland is Alexander Stubb.", start: 526.96, end: 529.36}
+  - {text: "The call was made in consultation with Ukraine.", start: 529.48, end: 533.38}
+  - {text: "The discussion with President Putin was professional and direct.", start: 534.18, end: 538.42}
+  - {text: "And we, of course, as Norway and Finland continue to support Ukraine and work towards a lasting and just peace.", start: 539.40, end: 549.90}
+  - {text: "The Kremlin readout of the conversation claimed that Russia too seeks a just peace.", start: 550.32, end: 555.46}
+  - {text: "But there was little sign of compromise from President Putin.", start: 555.70, end: 558.80}
+  - {text: "He reportedly said that a just peace was only possible if what he described as Russia's legitimate interests were taken into account in full and unconditionally.", start: 559.24, end: 570.04}
+  - {text: "While accusing the EU a NATO of confrontational policies, the Kremlin says a prolonging hostilities.", start: 570.70, end: 577.40}
+  - {text: "Later, Russia's Foreign Minister Sergei Lavrov appeared to pour cold water on the conversation, suggesting the two Nordic leaders had offered nothing new on the conflict.", start: 577.92, end: 587.68}
+  - {text: "Europe can see that Russia and America have been talking, negotiating on Ukraine.", start: 588.24, end: 593.50}
+  - {text: "European leaders too demand to be at the table.", start: 593.98, end: 596.82}
+  - {text: "Finland and Norway have emerged as possible players here, but no obvious progress yet.", start: 597.36, end: 602.96}
+  - {text: "As for Vladimir Putin, he will have been pleased to receive this call and will almost certainly have interpreted it as further proof that Western efforts to isolate him have failed.", start: 603.74, end: 615.02}
+  - {text: "Steve Rosenberg, King Charles' first visit to the Caribbean as monarch comes at a time when Commonwealth nations are calling for Britain to apologize for its role in the transatlantic slave trade and make reparations.", start: 615.82, end: 628.80}
+  - {text: "Speaking in the Bahamas at the start of his trip, the King acknowledged the monarchy's historic links to slavery, but didn't go any further.", start: 629.46, end: 637.28}
+  - {text: "Daniela Ralph was there.", start: 637.82, end: 638.88}
+  - {text: "Arriving in the Bahamas, a ceremonial welcome and an inspection of the guard laid on to greet the King.", start: 641.23, end: 647.33}
+  - {text: "His first engagement was a lively one.", start: 649.95, end: 652.47}
+  - {text: "A youth rally designed to celebrate optimism and opportunity.", start: 653.46, end: 657.04}
+  - {text: "But it is the past that sits in the background of this trip.", start: 658.95, end: 662.57}
+  - {text: "In a speech, the King acknowledged the pain of the transatlantic slave trade.", start: 663.29, end: 667.19}
+  - {text: "We know that some of what is best in Bahamian culture today, the most joyful, the most hopeful, the most bright, was born out of darkness.", start: 667.19, end: 678.31}
+  - {text: "It is only right that we should acknowledge the great suffering and injustices of the past in these islands and beyond, even as we rejoice in the successes of the present and build new opportunities for the future.", start: 679.24, end: 694.74}
+  - {text: "Buckingham Palace had said that the King would not shy away from addressing the UK's difficult colonial legacy during this tour, and the King has done so right from the start,", start: 695.30, end: 705.76}
+  - {text: "delivering a speech here to the country's young generation.", start: 706.26, end: 710.10}
+  - {text: "It's my first time seeing a person outside of TikTok, so.", start: 710.56, end: 713.16}
+  - {text: "I love to be in the midst of my people because we have an amazing culture.", start: 713.50, end: 716.84}
+  - {text: "Very, very wonderful people.", start: 717.24, end: 718.58}
+  - {text: "It's never a boring day in the Bahamas.", start: 718.72, end: 720.14}
+  - {text: "I feel like it's a nice experience.", start: 720.48, end: 722.36}
+  - {text: "We don't get to see this often, and it's something to celebrate our history.", start: 722.54, end: 726.48}
+  - {text: "Returned artifacts that you stole it.", start: 727.18, end: 730.26}
+  - {text: "There was a small protest outside the venue, as what the King won't be saying here is sorry for the slave trade, normally offer reparations in line with the UK government's position.", start: 730.80, end: 741.60}
+  - {text: "But a Buckingham Palace spokesperson said the King has been on a lifelong journey to engage, understand and educate about the most shameful aspects of our past.", start: 742.86, end: 753.04}
+  - {text: "Daniela Ralph. Still to come.", start: 753.90, end: 758.19}
+  - {text: "You're going to need the apparatus, the tools to actually play those sounds onto reefs.", start: 759.15, end: 763.91}
+  - {text: "It sounds a bit fanciful, but it can be done, and it has been done.", start: 764.15, end: 767.95}
+  - {text: "Why scientists are playing sounds underwater to protect coral reefs.", start: 768.45, end: 773.29}
+  - {text: "This is the Global News Podcast.", start: 779.90, end: 781.68}
+  - {text: "Ten years ago Colin Kaepernick kneeled during the national anthem of an NFL pre -season game.", start: 782.42, end: 788.28}
+  - {text: "He said he was doing it as a protest against racial injustice and police brutality, but it polarised opinions.", start: 788.90, end: 796.62}
+  - {text: "President Trump described it as unpatriotic, while former President Barack Obama said Kaepernick was exercising his constitutional right, while other sports stars also embraced the taking of the knee,", start: 797.08, end: 809.08}
+  - {text: "the act did end up costing Kaepernick his career as he was released from the San Francisco 49ers.", start: 809.50, end: 815.32}
+  - {text: "He's been speaking to our sports editor Dan Rowan.", start: 815.66, end: 818.02}
+  - {text: "I knew the protest could potentially cost my career.", start: 818.42, end: 821.26}
+  - {text: "History shows us that that is a potential and that is a reality for athletes.", start: 821.78, end: 826.48}
+  - {text: "We also see this in broader movements, going well beyond costing someone their career and costing people their lives.", start: 827.08, end: 833.98}
+  - {text: "We see Malcolm X assassinated, we see MLK assassinated.", start: 834.30, end: 838.34}
+  - {text: "So the consequences are real, and I understood that historically.", start: 838.92, end: 842.92}
+  - {text: "What I couldn't have predicted is the areas that I would have to navigate throughout that journey, how they would show up, and also people that would show up for me in significant ways and also people that worked against me.", start: 843.88, end: 857.22}
+  - {text: "And you'll be familiar with the argument, Colin, that some say politics should be kept out of sports, that it should be a neutral space, and that if it is used for activism, it becomes more divisive.", start: 857.64, end: 869.26}
+  - {text: "It may alienate certain people, put athletes perhaps in a difficult place.", start: 869.64, end: 872.96}
+  - {text: "And also it may be hard to know where to draw the line.", start: 873.97, end: 876.69}
+  - {text: "You know, for example, you know, there's boycotts of certain countries that are asked for, or maybe certain countries are banned from the Olympics because of military action,", start: 876.85, end: 885.51}
+  - {text: "leading to questions as to where you draw the line.", start: 885.99, end: 887.97}
+  - {text: "How do you respond to these arguments against athlete activism?", start: 888.45, end: 892.19}
+  - {text: "To me, they ring hollow and feel very hypocritical because politics is inherently part of sports.", start: 892.69, end: 900.27}
+  - {text: "We see within football, we see taxpayers funding NFL stadiums.", start: 900.83, end: 905.07}
+  - {text: "We see our NFL owners going out and supporting political candidates.", start: 905.29, end: 910.83}
+  - {text: "We see the organizations supporting Supreme Court justices.", start: 911.71, end: 915.15}
+  - {text: "We see them supporting political campaigns and lobbyists.", start: 915.53, end: 918.85}
+  - {text: "So to try to position this as if sports aren't political, it may always feel just laughable to me.", start: 919.71, end: 926.49}
+  - {text: "Now, where the question comes in for people is, well, we don't want the athletes to be political.", start: 927.11, end: 933.81}
+  - {text: "We don't want them to have a voice in the politics because that interrupts just our entertainment and our ability to disconnect.", start: 934.47, end: 942.65}
+  - {text: "You want to acknowledge the athletes for their performance and ability on the field.", start: 943.53, end: 947.37}
+  - {text: "But in many ways, what people are saying is, we don't want to acknowledge your full humanity and how you show up within society beyond how we just see you on this field or on this court.", start: 947.81, end: 958.73}
+  - {text: "Colin, you're regarded as one of the most influential athletes of the 21st century.", start: 959.27, end: 963.57}
+  - {text: "You've been compared to Tommy Smith, John Carlos, Muhammad Ali.", start: 964.03, end: 967.27}
+  - {text: "When you reflect on the last few years and the fact that this appears to have cost you your career, was it all worth it?", start: 967.77, end: 973.95}
+  - {text: "If I had it all over to do again knowing the outcome, I would absolutely do it again.", start: 974.51, end: 981.17}
+  - {text: "Colin Kaepernick and Staying in the World of Sport because Saturday will mark the opening ceremony for the Youth Olympic Games in the Senegalese capital, Dakar.", start: 981.91, end: 990.83}
+  - {text: "It will be the first Olympic event held on African soil and will include a refugee team.", start: 991.15, end: 997.33}
+  - {text: "Celestine Caroni reports. On the outskirts of the Kenyan capital, Nairobi, 15 -year -old Ano Yafunga is preparing for the biggest moment of his young career.", start: 997.67, end: 1008.22}
+  - {text: "He is one of six athletes who will make history in Dakar as the first refugee team at a Youth Olympic Games.", start: 1009.08, end: 1014.70}
+  - {text: "Ano still remembers the moment he found out.", start: 1015.22, end: 1017.42}
+  - {text: "I'm so excited. I was crying tears of joy because I didn't expect to be selected.", start: 1017.58, end: 1022.42}
+  - {text: "It represents a lot to me.", start: 1022.80, end: 1024.50}
+  - {text: "That's Ano throwing his coach who also happens to be his father on the mat.", start: 1025.66, end: 1029.46}
+  - {text: "Ano Yafunga is a judoka himself and he introduced his son to the sport when Ano was seven.", start: 1030.02, end: 1035.40}
+  - {text: "But the family's journey here has been far from easy.", start: 1035.94, end: 1038.68}
+  - {text: "In 2017, they were forced to flee the Democratic Republic of Congo.", start: 1039.24, end: 1043.12}
+  - {text: "His father says the violence that drove them out caused them a family member.", start: 1043.50, end: 1047.46}
+  - {text: "I fled because of insecurity.", start: 1050.54, end: 1052.26}
+  - {text: "There were people who wanted to kill me.", start: 1052.88, end: 1054.78}
+  - {text: "The situation led to the death of my seven -month -old child.", start: 1055.26, end: 1058.12}
+  - {text: "At the time, I was detained somewhere when people came to our house and attacked my family, leading to his death.", start: 1058.78, end: 1064.64}
+  - {text: "The family ended up in Kakuma Camp in Northern Kenya, home to more than 200 ,000 refugees.", start: 1068.80, end: 1073.80}
+  - {text: "Yafunga Senior says life there was a struggle.", start: 1074.40, end: 1076.72}
+  - {text: "Life in the camp was very difficult.", start: 1077.44, end: 1078.98}
+  - {text: "There was no food and we felt we were not living like human beings.", start: 1079.22, end: 1082.10}
+  - {text: "The family moved to Nairobi in 2018 but life didn't get much easier.", start: 1083.12, end: 1087.02}
+  - {text: "Ano says even getting hold of basics was out of reach.", start: 1087.28, end: 1090.50}
+  - {text: "I was not having judo geese and transport fee for the competition, local competition here.", start: 1090.78, end: 1097.00}
+  - {text: "It's been difficult going to school.", start: 1097.42, end: 1099.12}
+  - {text: "There's no money for school fees.", start: 1099.32, end: 1101.42}
+  - {text: "Then IOC came with this program of helping refugees achieve their dreams.", start: 1101.68, end: 1107.36}
+  - {text: "The International Olympic Committee first introduced a refugee team at a senior Olympics in Rio de Janeiro in 2016.", start: 1107.82, end: 1113.56}
+  - {text: "Two years ago in Paris, the Cameroonian boxer Cindy Ngamba won the team's first medal at bronze.", start: 1115.35, end: 1121.35}
+  - {text: "For Ano's father, his son's selection and the progress made by the refugee Olympic team is proof that being a refugee need not limit what you can achieve.", start: 1122.39, end: 1131.01}
+  - {text: "Refugees are human beings like everyone else.", start: 1131.37, end: 1134.67}
+  - {text: "Being a refugee does not mean your life is over.", start: 1135.15, end: 1137.45}
+  - {text: "Refugees can also do things that surprise people.", start: 1138.07, end: 1140.79}
+  - {text: "Ano believes the dedication required for judo is teaching his son valuable lessons which extend beyond the maths.", start: 1141.99, end: 1148.81}
+  - {text: "Judo has given him discipline.", start: 1151.17, end: 1153.09}
+  - {text: "Those lessons follow him everywhere, whether at school or at home.", start: 1153.37, end: 1156.77}
+  - {text: "In judo, every time you fall, you gain the strength to keep going.", start: 1157.35, end: 1161.25}
+  - {text: "Your father is also your coach.", start: 1163.57, end: 1165.61}
+  - {text: "Is there a difference between your dad at home and your coach on the mat?", start: 1165.85, end: 1169.45}
+  - {text: "He is my coach in the house.", start: 1169.55, end: 1170.91}
+  - {text: "He's my father. At home, he can be sick because of the discipline.", start: 1171.39, end: 1175.73}
+  - {text: "You need to have discipline.", start: 1175.93, end: 1176.97}
+  - {text: "In the build -up to Dakar, the team has been mentored by Kenya's two -time Olympic champion, Elude Kipchage.", start: 1179.16, end: 1184.90}
+  - {text: "Ano says Kipchage has become another source of inspiration and he's made the marathon great, I promise.", start: 1185.54, end: 1190.92}
+  - {text: "Teachers in this field, respecting the coach, focusing on what you're doing.", start: 1191.38, end: 1196.08}
+  - {text: "As I promise him, I'll bring the gold medal here.", start: 1196.54, end: 1199.10}
+  - {text: "Celestine Caroni reporting. Cases of Ebola in the Democratic Republic of Congo have now surpassed 10 ,000 in the deadliest outbreak in the country's history.", start: 1203.39, end: 1214.23}
+  - {text: "Although clinical trials of a vaccine have begun, recent cases in nearby countries have raised fears the virus could spread more widely.", start: 1214.83, end: 1223.13}
+  - {text: "Our correspondent, Thomas Macquana, is following developments from Nairobi.", start: 1223.51, end: 1227.13}
+  - {text: "Here in Kenya, there's tight controls at the airport.", start: 1227.69, end: 1230.51}
+  - {text: "Recently, we came from a domestic flight here in Kenya and you had to be screened for Ebola.", start: 1231.07, end: 1235.45}
+  - {text: "And whenever you enter a major hospital in Kenya, you also screen your temperatures checked and you're forced to wash your hands and sanitize.", start: 1236.07, end: 1242.65}
+  - {text: "The same is happening in Nigeria.", start: 1243.21, end: 1244.27}
+  - {text: "So this has raised fears across the continent and in most airports right now, if you get there, you have to get screened.", start: 1244.61, end: 1250.31}
+  - {text: "And in Uganda, Uganda has announced a mandatory 21 -day quarantine for everyone who's traveled or has a travel history of DRC into the country.", start: 1250.43, end: 1259.33}
+  - {text: "So this is something that is carrying the entire region, but all countries firmly state that they are in control of the spread of the virus.", start: 1259.65, end: 1266.75}
+  - {text: "But 10 ,000 cases in DR Congo is a big problem because this is across 66 provinces.", start: 1267.39, end: 1272.57}
+  - {text: "And this means that the virus is spreading within DR Congo to make it worse.", start: 1273.41, end: 1276.69}
+  - {text: "Nearly 50 % of those 10 ,000 people died of the virus.", start: 1277.15, end: 1280.67}
+  - {text: "So this is a very active problem within the region, but it's now contained in DR Congo, particularly in the region of Ituri that is the epicenter.", start: 1281.43, end: 1288.09}
+  - {text: "But it seems to be spreading within DR Congo, not outside the country yet at a massive scale.", start: 1288.81, end: 1294.39}
+  - {text: "But if it's uncontained, fears are that it would spread farther within the continent.", start: 1294.85, end: 1298.79}
+  - {text: "Thomas McQuarner. Now let's go to the Caribbean Sea, where scientists are trying to make waves in the fight to save coral reefs.", start: 1299.61, end: 1307.67}
+  - {text: "Unexpectedly, that is the sound of a healthy coral reef with the clicks of snapping prawn and the thrum of fish.", start: 1312.48, end: 1320.20}
+  - {text: "And scientists are playing those sounds on underwater speakers.", start: 1320.66, end: 1323.74}
+  - {text: "The hope is it will lure young coral into settling on the degraded reefs and help them recover.", start: 1324.18, end: 1329.50}
+  - {text: "Michael Sweet from the University of Derby explained where the idea came from.", start: 1330.00, end: 1334.18}
+  - {text: "Back in 2000, so 26 years ago, the first study which showed that the fish larvae were attracted to sound published.", start: 1334.66, end: 1342.12}
+  - {text: "And for coral larvae, this was first published in 2010.", start: 1342.48, end: 1345.88}
+  - {text: "So the science is actually there.", start: 1346.24, end: 1348.14}
+  - {text: "What's changed now is that reefs are being decimated by marine heat wave after marine heat wave.", start: 1348.54, end: 1354.42}
+  - {text: "And these marine heat waves are not only coming year on year, they're staying around for longer.", start: 1354.56, end: 1358.74}
+  - {text: "So reefs are degrading significantly.", start: 1359.48, end: 1361.44}
+  - {text: "We also did a red list assessment and we showed that 50 % of coral reefs have increased their endangered status since the last time it was done in 1998.", start: 1362.16, end: 1371.16}
+  - {text: "And so reefs and corals are struggling all around the world.", start: 1372.14, end: 1375.98}
+  - {text: "And some people even argue, and then it's been modelled, that by 2030 and four years, 90 % of our world's reefs will be what's called functionally extinct.", start: 1376.16, end: 1385.52}
+  - {text: "So not actually delivering those ecosystem functions we have.", start: 1385.82, end: 1389.26}
+  - {text: "And so even though the science is technically a little bit old, the way it's applied and the way it could be applied, people are scrambling to try", start: 1389.58, end: 1398.16}
+  - {text: "and find novel tools and novel techniques to actually try and turn the tide a little bit and make a bit of a difference.", start: 1398.16, end: 1404.28}
+  - {text: "This isn't a Hail Mary.", start: 1404.54, end: 1405.44}
+  - {text: "This isn't a silver bullet.", start: 1405.62, end: 1406.54}
+  - {text: "You're not really going to find one of those.", start: 1407.20, end: 1409.36}
+  - {text: "Obviously, you have to try and tackle climate change as well on the carbon footprint.", start: 1409.62, end: 1413.00}
+  - {text: "And we all know that that's quite tricky to do both from a personal level but also at a political level.", start: 1413.00, end: 1418.34}
+  - {text: "And so what we do as scientists and what we do in our labs, the university as well, is we try and generate a whole suite of different tools and techniques that can be used.", start: 1418.88, end: 1428.46}
+  - {text: "And not one is going to actually necessarily be the saviour, but it may be applied in different ways, different places by different individuals.", start: 1428.56, end: 1436.74}
+  - {text: "And obviously, you've got low cost and high cost techniques as well.", start: 1437.14, end: 1439.74}
+  - {text: "And this playing reef sounds is probably sort of in the middle because you're going to need the apparatus, the tools to actually play those sounds on to reef.", start: 1440.14, end: 1448.52}
+  - {text: "It sounds a bit fanciful, but it can be done and it has been done.", start: 1448.74, end: 1452.56}
+  - {text: "Professor Michael Sweet. And that's all from us for now.", start: 1452.84, end: 1458.24}
+  - {text: "If you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1458.40, end: 1462.62}
+  - {text: "You can also find us on X at BBC World Service.", start: 1463.04, end: 1466.08}
+  - {text: "Use the hashtag global news pod.", start: 1466.08, end: 1468.12}
+  - {text: "This edition was mixed by Johnny Hall and the producer was Stephanie Zackerson.", start: 1468.54, end: 1472.54}
+  - {text: "The editor is Karen Martin and I'm Charlotte Gallagher.", start: 1472.76, end: 1475.78}
+  - {text: "Until next time, goodbye.", start: 1475.86, end: 1477.10}
+---
