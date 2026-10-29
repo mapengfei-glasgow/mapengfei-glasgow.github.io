@@ -67,3 +67,6 @@ window.MathJax = {
 {{ partial "word-notes.html" . }}
 
 <link rel="stylesheet" href="{{ (resources.Get "css/portal.css" | fingerprint).RelPermalink }}">
+{{- if eq .Layout "gallery" }}
+<link rel="stylesheet" href="{{ (resources.Get "css/cardiac-gallery.css" | fingerprint).RelPermalink }}">
+{{- end }}

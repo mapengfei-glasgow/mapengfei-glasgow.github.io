@@ -1,0 +1,7 @@
+{{ if eq .format "gif" }}
+<img class="gallery-animation" src="{{ .src | relURL }}" alt="{{ .description }}">
+{{ else }}
+<video controls playsinline preload="none" poster="{{ .poster | relURL }}" aria-label="{{ .title }}"><source src="{{ .src | relURL }}" type="video/mp4"><a href="{{ .src | relURL }}">Open animation</a></video>
+{{ end }}
+<div class="gallery-caption"><p>{{ .description }}</p><p class="gallery-caveat">{{ .note }}</p></div>
+<div class="gallery-links"><a href="{{ .study | relURL }}">Study &amp; limitations →</a><a href="{{ .src | relURL }}">Open {{ if eq .format "gif" }}GIF{{ else }}MP4{{ end }} ↗</a>{{ with .gif }}<a href="{{ . | relURL }}">GIF alternative ↗</a>{{ end }}</div>

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "lv-views3d",
+    "title": "Left-heart motion in 3D",
+    "group": "left-heart",
+    "src": "/liuyang-lv-20261023/full_N128_views3d.mp4",
+    "poster": "/liuyang-lv-20261023/views3d-poster.png",
+    "study": "/posts/liuyang-lv-20261023/",
+    "description": "Multiple views of the left-heart tissue and surrounding flow.",
+    "note": "128\u00b3 \u00b7 1.8 s. Restarted with feedback stabilisation; convergence and experimental validation are not established."
+  },
+  {
+    "id": "lv-slices",
+    "title": "Left-heart velocity sections",
+    "group": "left-heart",
+    "src": "/liuyang-lv-20261023/full_N128_slices.mp4",
+    "poster": "/liuyang-lv-20261023/slices-poster.png",
+    "study": "/posts/liuyang-lv-20261023/",
+    "description": "Section views of the saved three-dimensional velocity fields.",
+    "note": "128\u00b3 \u00b7 1.8 s. Restarted with feedback stabilisation; convergence and experimental validation are not established."
+  },
+  {
+    "id": "lv-pressure",
+    "title": "Left-heart pressure sections",
+    "group": "left-heart",
+    "src": "/liuyang-lv-20261023/full_N128_pressure.mp4",
+    "poster": "/liuyang-lv-20261023/pressure-poster.png",
+    "study": "/posts/liuyang-lv-20261023/",
+    "description": "Pressure sections alongside tissue motion.",
+    "note": "128\u00b3 \u00b7 1.8 s. Restarted with feedback stabilisation; convergence and experimental validation are not established."
+  },
+  {
+    "id": "lv-flow",
+    "title": "Left-heart flow field",
+    "group": "left-heart",
+    "src": "/liuyang-lv-20261023/full_N128_flow.mp4",
+    "poster": "/liuyang-lv-20261023/flow-poster.png",
+    "study": "/posts/liuyang-lv-20261023/",
+    "description": "Flow-field evolution through the 1.8 s experiment.",
+    "note": "128\u00b3 \u00b7 1.8 s. Restarted with feedback stabilisation; convergence and experimental validation are not established."
+  },
+  {
+    "id": "av-panels",
+    "title": "Aortic valve: leaflet views",
+    "group": "aortic-valve",
+    "src": "/av-glamv-20261028/valve-panels.mp4",
+    "poster": "/av-glamv-20261028/valve-panels-poster.png",
+    "study": "/posts/av-glamv-20261028/",
+    "description": "Leaflet motion in the aortic-valve tube experiment.",
+    "note": "48 \u00d7 48 \u00d7 144 \u00b7 1.6 s, two cycles. Stabilised experiment; no grid or timestep convergence study."
+  },
+  {
+    "id": "av-streamlines",
+    "title": "Aortic valve: streamlines",
+    "group": "aortic-valve",
+    "src": "/av-glamv-20261028/valve-streamlines.mp4",
+    "poster": "/av-glamv-20261028/valve-streamlines-poster.png",
+    "study": "/posts/av-glamv-20261028/",
+    "description": "Streamline views of flow through the immersed valve.",
+    "note": "Same two-cycle tube experiment; visualisation does not establish validated haemodynamics."
+  },
+  {
+    "id": "mv-q_iso",
+    "title": "Mitral valve: G128 Q-criterion",
+    "group": "mitral-valve",
+    "src": "/images/mv/movie_q_iso.mp4",
+    "poster": "/images/mv/fig_mv_qcriterion.png",
+    "study": "/posts/mv-figures/",
+    "description": "Full-cycle diagnostic views of the immersed mitral-valve study.",
+    "note": "1.335 s \u00b7 135 exported frames. Exploratory results; instantaneous vortex convergence is not established.",
+    "locked": true,
+    "gif": "/images/mv/movie_q_iso.gif"
+  },
+  {
+    "id": "mv-vorticity",
+    "title": "Mitral valve: G128 Centre-plane vorticity",
+    "group": "mitral-valve",
+    "src": "/images/mv/movie_vorticity.mp4",
+    "poster": "/images/mv/fig_mv_vorticity.png",
+    "study": "/posts/mv-figures/",
+    "description": "Full-cycle diagnostic views of the immersed mitral-valve study.",
+    "note": "1.335 s \u00b7 135 exported frames. Exploratory results; instantaneous vortex convergence is not established.",
+    "locked": true,
+    "gif": "/images/mv/movie_vorticity.gif"
+  },
+  {
+    "id": "mv-q_iso_64",
+    "title": "Mitral valve: G64 Q-criterion",
+    "group": "mitral-valve",
+    "src": "/images/mv/movie_q_iso_64.mp4",
+    "poster": "/images/cardiac-gallery/mv-q_iso_64.jpg",
+    "study": "/posts/mv-figures/",
+    "description": "Full-cycle diagnostic views of the immersed mitral-valve study.",
+    "note": "1.335 s \u00b7 135 exported frames. Exploratory results; instantaneous vortex convergence is not established.",
+    "locked": true,
+    "gif": "/images/mv/movie_q_iso_64.gif"
+  },
+  {
+    "id": "mv-vorticity_64",
+    "title": "Mitral valve: G64 Centre-plane vorticity",
+    "group": "mitral-valve",
+    "src": "/images/mv/movie_vorticity_64.mp4",
+    "poster": "/images/cardiac-gallery/mv-vorticity_64.jpg",
+    "study": "/posts/mv-figures/",
+    "description": "Full-cycle diagnostic views of the immersed mitral-valve study.",
+    "note": "1.335 s \u00b7 135 exported frames. Exploratory results; instantaneous vortex convergence is not established.",
+    "locked": true,
+    "gif": "/images/mv/movie_vorticity_64.gif"
+  },
+  {
+    "id": "emulator-simulation",
+    "title": "LV finite-element simulation",
+    "group": "emulator",
+    "src": "/images/lv-emulator/results-2026-10-18/simulation.gif",
+    "poster": "/images/cardiac-gallery/emulator-simulation.jpg",
+    "study": "/posts/lv-emulator/",
+    "description": "True-scale deformation of the mean_p0012 test sample, coloured by displacement magnitude.",
+    "note": "101 saved frames \u00b7 slowed playback. Illustration of one test case, not evidence of accuracy across all geometries.",
+    "format": "gif"
+  },
+  {
+    "id": "emulator-evaluation",
+    "title": "LV solver\u2013emulator comparison",
+    "group": "emulator",
+    "src": "/images/lv-emulator/results-2026-10-18/evaluation.gif",
+    "poster": "/images/cardiac-gallery/emulator-evaluation.jpg",
+    "study": "/posts/lv-emulator/",
+    "description": "Side-by-side solver, model prediction and pointwise displacement error for the same test sample.",
+    "note": "101 saved frames \u00b7 slowed playback. Illustration of one test case, not evidence of accuracy across all geometries.",
+    "format": "gif"
+  },
+  {
+    "id": "lv-failure",
+    "title": "Diagnostic: left-heart instability",
+    "group": "left-heart",
+    "src": "/liuyang-lv-20261023/blowup_nofb_pressure.mp4",
+    "poster": "/images/cardiac-gallery/lv-failure.jpg",
+    "study": "/posts/liuyang-lv-20261023/",
+    "description": "Pressure evolution in the run without feedback stabilisation.",
+    "note": "Failure diagnostic, not a completed cardiac cycle. See the source study for the restart and stabilisation history.",
+    "diagnostic": true
+  }
+]

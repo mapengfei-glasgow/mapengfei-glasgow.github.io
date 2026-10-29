@@ -18,3 +18,7 @@ Project guides below put the main reading first. Detailed debugging and historic
 ## Browse across projects
 
 Browse by [research area](/areas/), [project](/projects/) or [technical tag](/tags/). Areas describe the scientific field; projects group one study; tags identify shared techniques.
+
+## Cardiac animations
+
+[Open the Cardiac Animation Gallery](/research/gallery/) to browse valve flow, left-heart motion, emulator comparisons and failure diagnostics.

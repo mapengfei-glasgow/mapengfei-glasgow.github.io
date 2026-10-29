@@ -7,3 +7,5 @@ layout: "route"
 comments: false
 aliases: ["/tags/left-ventricle/", "/tags/left-ventricle/page/1/"]
 ---
+
+[Browse cardiac animations](/research/gallery/) for videos and their source studies.

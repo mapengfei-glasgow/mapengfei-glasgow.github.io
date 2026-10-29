@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="portal-hub cardiac-gallery" id="cardiac-gallery">
+  {{ partial "portal/heading.html" . }}
+  <div class="post-content gallery-intro">{{ .Content }}</div>
+  <div class="gallery-toolbar" hidden>
+    <div class="gallery-filters" role="group" aria-label="Filter animations">
+    {{ range slice (dict "id" "all" "name" "All") (dict "id" "left-heart" "name" "Left heart") (dict "id" "aortic-valve" "name" "Aortic valve") (dict "id" "mitral-valve" "name" "Mitral valve") (dict "id" "emulator" "name" "LV emulator") (dict "id" "diagnostics" "name" "Diagnostics") }}
+      <button type="button" data-filter="{{ .id }}" aria-pressed="{{ if eq .id "all" }}true{{ else }}false{{ end }}">{{ .name }}</button>
+    {{ end }}
+    </div>
+    <p id="gallery-count" role="status" aria-live="polite">{{ len site.Data.cardiac_gallery }} animations</p>
+  </div>
+  <div class="gallery-grid">
+  {{ range site.Data.cardiac_gallery }}
+    <section class="gallery-card" id="{{ .id }}" data-group="{{ .group }}" data-diagnostic="{{ if .diagnostic }}true{{ else }}false{{ end }}"{{ if .locked }} data-locked="true"{{ end }}>
+      {{ if .locked }}
+      <div class="gallery-locked">
+        <div class="gallery-gate"><span aria-hidden="true">◇</span><p>Mitral-valve working paper</p><button type="button" data-gallery-signin>Sign in to view</button><noscript><a href="{{ .study | relURL }}">Open source study</a></noscript></div>
+        <div class="gallery-private-preview" hidden></div>
+        <template class="gallery-preview-template">{{ partial "gallery/preview.html" . }}</template>
+      </div>
+      {{ else }}{{ partial "gallery/preview.html" . }}{{ end }}
+      <header><p class="portal-eyebrow">{{ replace .group "-" " " }}{{ if .diagnostic }} · Failure diagnostic{{ end }}</p><h2>{{ .title }}</h2><a class="gallery-study" href="{{ .study | relURL }}">View study →</a></header>
+      <template class="gallery-content-template">{{ partial "gallery/media.html" . }}</template>
+    </section>
+  {{ end }}
+  </div>
+  <dialog class="gallery-viewer" aria-labelledby="gallery-viewer-title">
+    <div class="gallery-viewer-bar"><h2 id="gallery-viewer-title"></h2><button type="button" class="gallery-close" aria-label="Close animation">Close ✕</button></div>
+    <div class="gallery-viewer-content"></div>
+    <nav class="gallery-viewer-nav" aria-label="Animation navigation"><button type="button" data-direction="-1">← Previous</button><span class="gallery-position"></span><button type="button" data-direction="1">Next →</button></nav>
+  </dialog>
+</article>
+<script src="{{ (resources.Get "js/cardiac-gallery.js" | fingerprint).RelPermalink }}" defer></script>
+{{ end }}

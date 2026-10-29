@@ -1,0 +1,6 @@
+<button type="button" class="gallery-open" aria-haspopup="dialog" aria-label="Play {{ .title }}">
+  <img src="{{ .poster | relURL }}" alt="" loading="lazy" width="960" height="540">
+  <span class="gallery-play" aria-hidden="true">▶</span>
+  <span class="gallery-format">{{ if eq .format "gif" }}GIF{{ else }}VIDEO{{ end }}</span>
+</button>
+<noscript><a class="gallery-fallback" href="{{ .src | relURL }}">Open animation ↗</a></noscript>

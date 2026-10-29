@@ -672,3 +672,21 @@ Portal templates live in `layouts/partials/portal/`, `layouts/hub/` and
 reuses the original listening homepage at `/english/`. The web manifest uses
 the portal identity; the separately built Android package keeps its existing
 application name and signing configuration.
+
+
+## Cardiac animation gallery
+
+`/research/gallery/` (also `/gallery/`) gathers the cardiac animations from the
+published study pages. Add or update entries in `data/cardiac_gallery.json`:
+`id`, `title`, `group`, `src`, `poster`, `study`, `description` and `note`;
+optional `format: gif`, `gif` alternative, `locked: true` or `diagnostic: true`.
+Use original media URLs; list MP4/GIF variants once. The group filters, modal
+viewer and sign-in previews live in `layouts/research/gallery.html`,
+`layouts/partials/gallery/` and `assets/{css,js}/cardiac-gallery.*`.
+
+Mark manuscript-only previews `locked: true` to retain the site's existing
+sync-code display gate. Video and GIF sources are inserted into the viewer
+only after a reader selects an animation. JPEG thumbnails in
+`static/images/cardiac-gallery/` are first frames extracted from their original
+animations; other thumbnails reuse existing study posters. Keep failure cases
+labelled as diagnostics and link each item to its source study.
