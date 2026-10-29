@@ -1,0 +1,74 @@
+{
+  "animate_streamlines.py": {
+    "bytes": 5746,
+    "sha256": "71531c705b5fc022a0410d658e64070e02498fcbd0a39248299db52431b3603c"
+  },
+  "animate_valve.py": {
+    "bytes": 5562,
+    "sha256": "1ddb2a170fc510328cf57f885f65c79a753803b437e0fa541a3723bbd143ebfb"
+  },
+  "geometry.png": {
+    "bytes": 422331,
+    "sha256": "2108e3dad76335c91d280b45f31878f74b44eb200f8719a96ac2dc073d363608"
+  },
+  "plot_av_mesh.py": {
+    "bytes": 4051,
+    "sha256": "2c8193d0997e61fe453a245f48cf229cafe0dccb8f6dc2ac953e4a938379e9d6"
+  },
+  "plot_runs.py": {
+    "bytes": 2343,
+    "sha256": "255b3a70ca00c842efa4e30340098ff4b5a1e2446fdbea6175895122514d132b"
+  },
+  "run_av_glamv.sh": {
+    "bytes": 1411,
+    "sha256": "ea73aefb167b70135a867ccd86bbdd6a8f7ca5c532eac810dc92561c87a68333"
+  },
+  "runs-flow.png": {
+    "bytes": 206214,
+    "sha256": "5d7cf534e7c9a00f9b365443847f0262532324af94924427daf3e83801c32fbe"
+  },
+  "tp_fixed_console.log": {
+    "bytes": 14918,
+    "sha256": "fafdc2b166ea302781f0f771f13ba1382b68bc60f4bce95f44829189592ec2eb"
+  },
+  "tp_fixed_flow.csv": {
+    "bytes": 7448,
+    "sha256": "fc6d6158ecc29241b33b6e501eb623cb14aa326c15f17b2ff3332c0a8a096da9"
+  },
+  "tp_fixed_solid_stats.csv": {
+    "bytes": 6747,
+    "sha256": "a75f4bbf41ad8d4c5f52e9e4e29ea70c6466002c2ca63c83396986880c2bc6f1"
+  },
+  "tp_tether_flow.csv": {
+    "bytes": 7454,
+    "sha256": "cb59d763a6ff4186824549fc02a5ef13b07ec3b0d103e3227ce6b6f130ced859"
+  },
+  "tp_tether_solid_stats.csv": {
+    "bytes": 7839,
+    "sha256": "65e89c4aa35fa99520916bf01fa530608f84027ab8cf1a4e8ecfda27a3c2ee50"
+  },
+  "tp_tether_up_flow.csv": {
+    "bytes": 7444,
+    "sha256": "b81c1d912fbf7a9affb04ce2bab04f6ac5a46aec98c46a17ef379d2f04a9d033"
+  },
+  "tp_tether_up_solid_stats.csv": {
+    "bytes": 7842,
+    "sha256": "9c0524620de55541c0fff467f3308338aa0ec68f47ddf8073992360677db96c4"
+  },
+  "valve-panels-poster.png": {
+    "bytes": 223478,
+    "sha256": "36051785efb3ee6eb4b9da77a33f73a9f00d8672e1004acf1a2d69b66f1c459a"
+  },
+  "valve-panels.mp4": {
+    "bytes": 742849,
+    "sha256": "c4f5038f371813d28f7bb6732faa62abc794cc010e00b886a900ed08ba1f6bf0"
+  },
+  "valve-streamlines-poster.png": {
+    "bytes": 380782,
+    "sha256": "077a3db4b790cfba065a9e959244d1d67619023f1ffce736699ba772f3c99bcf"
+  },
+  "valve-streamlines.mp4": {
+    "bytes": 3888988,
+    "sha256": "5384f08a0cb42cae9443c27418cfcf1a3c2761020f3f2f9213f058221bf0f5ab"
+  }
+}
