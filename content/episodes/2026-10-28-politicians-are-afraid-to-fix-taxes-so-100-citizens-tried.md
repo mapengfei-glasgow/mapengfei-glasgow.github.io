@@ -1,0 +1,417 @@
+---
+layout: single
+title: "Politicians are afraid to fix taxes. So 100 citizens tried."
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-28T00:00:00Z
+slug: "2026-10-28-politicians-are-afraid-to-fix-taxes-so-100-citizens-tried"
+audioDir: "2026-10-28-politicians-are-afraid-to-fix-taxes-so-100-citizens-tried"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-28-politicians-are-afraid-to-fix-taxes-so-100-citizens-tried/episode.mp3"
+totalDuration: 2037.2
+sentences:
+  - {text: "Support comes from our 2026 lead sponsor of Planet Money, Amazon Business.", start: 0.00, end: 4.78}
+  - {text: "You can't rely on guesswork to run your business.", start: 5.22, end: 7.62}
+  - {text: "With smart business buying, innovative AI tools optimize your purchasing experience paired with delivery options.", start: 8.02, end: 14.24}
+  - {text: "Empower your team today.", start: 14.68, end: 16.16}
+  - {text: "More at AmazonBusiness .com.", start: 16.56, end: 18.54}
+  - {text: "This is Planet Money from NPR.", start: 19.44, end: 21.84}
+  - {text: "This summer, about 100 people gathered in this big room in New Haven, Connecticut.", start: 24.79, end: 28.99}
+  - {text: "They were here to change the state's future.", start: 29.59, end: 31.29}
+  - {text: "They've been asked to fix one of Connecticut's biggest and thorniest problems.", start: 31.29, end: 35.61}
+  - {text: "Taxes. But the folks gathered here, they are not policy experts.", start: 36.47, end: 41.03}
+  - {text: "They are not politicians.", start: 41.33, end: 42.63}
+  - {text: "They are just people.", start: 43.31, end: 44.99}
+  - {text: "And some of them are a little jittery.", start: 45.71, end: 47.57}
+  - {text: "I don't know much.", start: 47.85, end: 48.81}
+  - {text: "I'm a little nervous.", start: 50.17, end: 51.39}
+  - {text: "Feeling some trepidation? I have no idea what this is about.", start: 52.29, end: 56.41}
+  - {text: "And I kind of feel like I'm prepared.", start: 56.89, end: 59.97}
+  - {text: "I see people with like notepads and stuff.", start: 59.97, end: 61.89}
+  - {text: "I didn't bring... Oh, actually I did.", start: 62.19, end: 63.29}
+  - {text: "I did bring my notepad.", start: 63.51, end: 64.41}
+  - {text: "Okay, so I somewhat feel prepared.", start: 65.33, end: 67.49}
+  - {text: "But also feeling super optimistic.", start: 68.01, end: 70.73}
+  - {text: "I want to make a difference for the people of Connecticut.", start: 71.23, end: 73.63}
+  - {text: "We can't keep doing what we've always done.", start: 73.97, end: 75.79}
+  - {text: "We want to see if we can't help find a solution.", start: 76.07, end: 78.43}
+  - {text: "For the next few months, Jessica Burrick, Jasmine Dawson, Bob Bailey, and 97 other Connecticut citizens are taking part in a radical experiment in democracy.", start: 79.05, end: 89.19}
+  - {text: "See, they have all been randomly selected to come up with a solution for Connecticut's broken property tax system.", start: 89.19, end: 97.11}
+  - {text: "This is like the biggest problem in Connecticut right now.", start: 97.27, end: 100.77}
+  - {text: "It's been the biggest problem for decades.", start: 100.97, end: 103.01}
+  - {text: "And the elected politicians just have not been able to do anything about it.", start: 103.43, end: 108.55}
+  - {text: "So now, Connecticut decided to figure it out citizen style.", start: 108.95, end: 112.85}
+  - {text: "Bring together about 100 citizens to come up with tax policy.", start: 113.21, end: 117.87}
+  - {text: "Think of it like jury duty, but for taxes.", start: 117.87, end: 121.45}
+  - {text: "The way this is going to work is these regular citizens will meet regularly for a few months.", start: 121.99, end: 127.23}
+  - {text: "They will get a crash course in civics, in property taxes, school funding, and learn what it takes for 100 random strangers to get past their differences and reach a consensus.", start: 127.55, end: 139.13}
+  - {text: "The hope is by the end, they will give a proposal to the state legislature.", start: 139.67, end: 143.41}
+  - {text: "Some new way perhaps of doing taxes.", start: 143.63, end: 146.25}
+  - {text: "Today is the very first day these 100 citizens are all meeting, hence the nervous energy.", start: 146.25, end: 153.79}
+  - {text: "First day at a new school vibes.", start: 154.23, end: 156.05}
+  - {text: "Citizen Erica Blackmon describes what it's like.", start: 156.33, end: 158.83}
+  - {text: "Everyone's talking. I can barely hear myself.", start: 159.11, end: 161.45}
+  - {text: "The countdown clock just started.", start: 162.57, end: 164.33}
+  - {text: "Building that anticipation and anxiety, good anxiety.", start: 164.83, end: 167.81}
+  - {text: "It's giving me chills.", start: 168.91, end: 169.99}
+  - {text: "Hello and welcome to Planet Money.", start: 174.68, end: 176.44}
+  - {text: "I'm Erica Barris. And I'm Jeff Guo.", start: 176.64, end: 178.28}
+  - {text: "Over the past few months, we have been following these randomly selected people in Connecticut in this unusual experiment to see if they can fix one", start: 178.28, end: 187.38}
+  - {text: "of the most important issues state governments face.", start: 187.38, end: 190.08}
+  - {text: "How to fund their schools and roads and emergency services.", start: 190.66, end: 194.66}
+  - {text: "Today on the show, can a random bunch of citizens work together to fix property taxes, avert a future budget crisis, and maybe reinvent democracy.", start: 194.98, end: 205.54}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 213.70, end: 217.34}
+  - {text: "This message comes from Bilt.", start: 217.70, end: 219.18}
+  - {text: "Rent and mortgages keep getting more expensive.", start: 219.54, end: 221.66}
+  - {text: "That's why Bilt created three credit cards designed to offer rich rewards on everything you spend on.", start: 222.12, end: 227.84}
+  - {text: "You can earn up to 1 .25x points on every housing payment with no transaction fee, which can be redeemed for flights, hotels, a future housing payment, and more.", start: 228.04, end: 237.90}
+  - {text: "Apply at joinbilt .com slash money.", start: 238.16, end: 242.26}
+  - {text: "Terms apply, subject to approval and eligibility.", start: 242.26, end: 245.06}
+  - {text: "Bilt cards are issued by ColumnNA, member FDIC, pursuant to license from MasterCard International Incorporated.", start: 245.46, end: 251.98}
+  - {text: "This message comes from Capella University.", start: 252.66, end: 255.18}
+  - {text: "You know that feeling when there's a spark building inside you that you were meant for more?", start: 255.62, end: 260.08}
+  - {text: "That's your own drive, pushing you towards what's next.", start: 260.38, end: 263.72}
+  - {text: "Capella University gets that.", start: 263.96, end: 265.84}
+  - {text: "With their flex path learning format, you can set the pace and earn your degree without putting life on pause.", start: 266.14, end: 272.28}
+  - {text: "You've built experience and know what you're capable of.", start: 272.72, end: 275.70}
+  - {text: "Now, this is your time to turn that momentum into more.", start: 276.08, end: 280.12}
+  - {text: "The only real question is, what can't you do?", start: 280.48, end: 283.46}
+  - {text: "Learn more at capella .edu.", start: 283.84, end: 285.78}
+  - {text: "On the day that those 100 random Connecticut citizens met in a room for the first time, they also met the organizers who had brought them there.", start: 286.91, end: 294.57}
+  - {text: "One of them was Sean Scanlon, who gave him a little speech to get things started.", start: 294.87, end: 298.85}
+  - {text: "Sean is the state comptroller.", start: 300.63, end: 302.93}
+  - {text: "I have never been more excited in my 10 years of being elected office in the state than to see what you come with.", start: 303.09, end: 310.51}
+  - {text: "And you'll hear from him.", start: 310.81, end: 311.13}
+  - {text: "He's basically in charge of oversight for the state budget.", start: 311.13, end: 314.11}
+  - {text: "He's seen Connecticut struggle with this property tax problem for years.", start: 314.57, end: 318.47}
+  - {text: "It was a huge problem when he was first elected as a state representative back in 2014.", start: 318.85, end: 324.15}
+  - {text: "I'm so excited to change the world.", start: 324.61, end: 326.73}
+  - {text: "I'm even the speaker in the house, and I said, Mr.", start: 326.85, end: 328.25}
+  - {text: "Speaker, I'm here. I've got this whole milkbook of things that I want to do.", start: 328.41, end: 331.87}
+  - {text: "And the first thing on it is I want to solve the property tax crisis and stay in Connecticut.", start: 332.25, end: 335.91}
+  - {text: "And he laughed at me.", start: 336.43, end: 337.55}
+  - {text: "And he gave me a proverbial pat on the shoulder and said, kid, we're in the middle of a fiscal crisis.", start: 339.15, end: 343.75}
+  - {text: "There's a lot of challenges.", start: 344.21, end: 345.11}
+  - {text: "And just so you know, that's like the third rail of politics.", start: 345.37, end: 347.71}
+  - {text: "And nobody's ever going to figure that out.", start: 347.95, end: 349.17}
+  - {text: "It's just the way it is.", start: 349.31, end: 350.19}
+  - {text: "Yeah, Sean told us that obviously he was not the first person to realize that property taxes in Connecticut needed a revamp.", start: 350.79, end: 357.73}
+  - {text: "How long have people been saying, wait, this system is broken?", start: 357.73, end: 360.61}
+  - {text: "I'd say probably 70 years, right?", start: 361.21, end: 363.63}
+  - {text: "I mean, 70 years.", start: 363.95, end: 365.17}
+  - {text: "It's a long time.", start: 365.57, end: 366.75}
+  - {text: "Here is a problem with taxes in Connecticut.", start: 367.21, end: 369.21}
+  - {text: "The people in Connecticut pay some of the highest property taxes in the country.", start: 369.73, end: 373.25}
+  - {text: "And sometimes the tax bill for a middle class family home can come out to $20 ,000 to $30 ,000 per year.", start: 373.57, end: 379.87}
+  - {text: "And that's because towns and cities here need that money to pay for their own local schools, their own local police, their own local water services.", start: 380.11, end: 389.03}
+  - {text: "In Connecticut, the state doesn't chip in as much as in other states.", start: 389.51, end: 392.89}
+  - {text: "So when towns and cities don't have enough money to pay for schools and police and all that stuff, they increase property taxes.", start: 393.23, end: 400.03}
+  - {text: "Property taxes all over the state have been going up and up and up.", start: 400.49, end: 404.03}
+  - {text: "Now, a lot of people have tried to rethink the whole tax system in Connecticut.", start: 404.45, end: 408.79}
+  - {text: "Every few years, somebody like me comes along and what happens is they write a report.", start: 409.01, end: 413.55}
+  - {text: "That report gets a couple days of press and then it collects dust on a shelf.", start: 414.17, end: 418.49}
+  - {text: "Yeah, Jean says every plan always runs into the same problem.", start: 419.03, end: 423.31}
+  - {text: "Because to fix this issue, politicians might have to make hard choices, raise taxes or cut spending.", start: 423.67, end: 431.01}
+  - {text: "But which taxes, what spending?", start: 431.51, end: 433.57}
+  - {text: "Their choices would almost certainly make some voters mad.", start: 434.03, end: 436.99}
+  - {text: "You know, politics, and I can say this because I am a politician, is usually the path of least resistance, right?", start: 437.23, end: 442.97}
+  - {text: "People want to be popular, they want to be well -liked.", start: 443.13, end: 446.37}
+  - {text: "It's rare that a politician goes out every day and says, you know, I'm going to try to piss everybody off that I can.", start: 446.47, end: 451.59}
+  - {text: "And this is a common problem with the way our democracy works.", start: 452.41, end: 456.55}
+  - {text: "Most politicians are fixated on getting re -elected.", start: 456.95, end: 459.81}
+  - {text: "Nobody wants to be the bad guy.", start: 460.03, end: 461.31}
+  - {text: "Which is why Sean was intrigued last year when he was approached by a group representing the towns and mayors of Connecticut.", start: 461.69, end: 468.71}
+  - {text: "They had this idea of creating essentially a random jury of 100 citizens.", start: 469.23, end: 474.87}
+  - {text: "Get them to fix this problem.", start: 475.25, end: 477.21}
+  - {text: "This group was working with a few academics, including a political science professor at Yale who had been studying these types of experiments in democracy.", start: 477.53, end: 485.51}
+  - {text: "Her name? Ellen Landemore.", start: 486.43, end: 488.75}
+  - {text: "Sean looked her up.", start: 489.25, end: 490.09}
+  - {text: "The first thing I googled about her was that she had written a book called Politics Without Politicians.", start: 490.25, end: 494.57}
+  - {text: "Politics Without Politicians. That's the name of Helene's book where she lays out the case for why politicians are maybe not great for democracy.", start: 496.79, end: 506.73}
+  - {text: "Have you ever thought about being a politician?", start: 507.05, end: 509.07}
+  - {text: "Ah, no way, no.", start: 509.87, end: 510.77}
+  - {text: "Ah, my goodness. This is Ellen Landemore.", start: 510.97, end: 514.75}
+  - {text: "And actually she did win an election when she was in the seventh grade back in France.", start: 515.37, end: 520.37}
+  - {text: "She was the class representative.", start: 520.71, end: 521.97}
+  - {text: "And it went to my head and I became this horrible person and I lost friends and people were jealous and I just hated the whole thing.", start: 522.39, end: 530.93}
+  - {text: "I absolutely hated the whole thing.", start: 530.93, end: 532.27}
+  - {text: "I think power is exactly what the Greeks thought of it.", start: 532.51, end: 534.71}
+  - {text: "It's a dangerous thing that if you hold it for too long, it destroys your soul.", start: 534.89, end: 539.53}
+  - {text: "Since her days as the tyrant of seventh grade, Helene went on to become a political scientist and she's studied how democracy originally worked in ancient Greece,", start: 539.99, end: 549.19}
+  - {text: "which is often thought of as the birthplace of democracy.", start: 549.45, end: 552.11}
+  - {text: "And she says one thing the Greeks did became a big inspiration for her research and the experiment now happening in Connecticut.", start: 552.55, end: 559.91}
+  - {text: "See, in ancient Greece, they picked most of their lawmakers, not through elections, but through random lotteries.", start: 560.45, end: 567.63}
+  - {text: "And all these randomly selected public officials would take turns.", start: 567.95, end: 572.55}
+  - {text: "So nobody held onto power for too long and everybody, at least all the male citizens, got to participate.", start: 572.83, end: 579.15}
+  - {text: "And over the past decade, Helene has been wondering, why can't we have more random citizens in politics today?", start: 579.43, end: 585.89}
+  - {text: "Right now, the people who become politicians, they tend to fit a certain type.", start: 586.39, end: 591.19}
+  - {text: "You know, around the world, they tend to be men.", start: 591.77, end: 594.31}
+  - {text: "They tend to have college degrees, a lot of times degrees from the same fancy colleges.", start: 594.69, end: 599.67}
+  - {text: "They even tend to share some of these same personality traits.", start: 600.03, end: 603.85}
+  - {text: "There's an overrepresentation of people who have certain psychological traits like extreme confidence, attraction to power, corruptibility.", start: 604.39, end: 613.45}
+  - {text: "The kind of people who want to be in front of people are the kind of people that will seek out politics.", start: 613.75, end: 618.69}
+  - {text: "Yes, exactly. Helene is like, how can you help the people if you aren't of the people?", start: 618.77, end: 623.97}
+  - {text: "Which is why she's been studying citizen assemblies where randomly selected citizens try to help create new laws.", start: 624.35, end: 631.61}
+  - {text: "For instance, in the Netherlands, a group of about 140 citizens was asked to try to reform how the country does elections.", start: 631.93, end: 637.55}
+  - {text: "In Ireland, a citizen assembly recommended making major changes to the Constitution, including legalizing same -sex marriage.", start: 638.19, end: 644.67}
+  - {text: "And in France, the citizens came up with proposals about how to curb climate change.", start: 645.11, end: 649.57}
+  - {text: "Helene sat in on that one as an observer.", start: 650.03, end: 651.49}
+  - {text: "And last year, Helene was asked to help bring this experimental form of democracy to Connecticut.", start: 651.89, end: 657.97}
+  - {text: "The Connecticut Citizens Assembly will be one of the biggest of its kind ever attempted in the United States.", start: 658.55, end: 664.49}
+  - {text: "I can't help but imagine some people looking at this and saying, well, property taxes are very complicated.", start: 664.87, end: 672.29}
+  - {text: "Do we really want 100 randos to make these very complicated policy decisions that people go to school for this?", start: 672.29, end: 680.11}
+  - {text: "I know, I know, because our intuitions are individualistic.", start: 680.29, end: 683.79}
+  - {text: "It's very hard to understand the concept of collective intelligence until you've actually seen it in action.", start: 683.93, end: 688.89}
+  - {text: "Earlier this year, the state of Connecticut got to see a citizens assembly in action.", start: 689.29, end: 694.09}
+  - {text: "Helene and the organizers sent out over 200 ,000 invitation letters to random Connecticut residents.", start: 694.65, end: 701.01}
+  - {text: "About 1 ,500 people responded that they did want to participate in a citizens assembly.", start: 701.01, end: 706.27}
+  - {text: "From there, the organizers had to pick a hundred of these volunteers to serve on the assembly.", start: 706.67, end: 711.75}
+  - {text: "To make sure the assembly had the right balance of people, the organizers got a computer to randomly generate potential configurations of the assembly.", start: 712.23, end: 720.49}
+  - {text: "They wanted a good mix of homeowners and renters, people with school -aged children, people without, and people representing different parts of the state.", start: 720.91, end: 729.47}
+  - {text: "The computer generated thousands of potential configurations.", start: 729.47, end: 733.39}
+  - {text: "To make the final selection, the organizers held the lottery in June of this year, a literal lottery that they recorded.", start: 733.77, end: 741.53}
+  - {text: "The organizers gathered at the headquarters of the Connecticut Lottery.", start: 742.11, end: 745.43}
+  - {text: "Please proceed. They fired up the same machine that they used for the powerball drawings, used these same little yellow balls, and that is how they picked the hundred people who would serve in this assembly.", start: 745.77, end: 758.87}
+  - {text: "The number is 29.", start: 758.87, end: 760.53}
+  - {text: "29. The challenge before the 100 lottery winners, over the next few months, they'll meet over four weekends and have a couple all -day Zoom sessions", start: 760.99, end: 772.70}
+  - {text: "and hopefully come up with a solution to Connecticut's tax problem.", start: 772.70, end: 776.96}
+  - {text: "And for all their troubles, they'll each get $1 ,200.", start: 777.42, end: 780.44}
+  - {text: "Exactly one month later in July of this year, the chosen citizens met for the first time in a lecture hall in New Haven.", start: 781.16, end: 788.18}
+  - {text: "I'm a single mom of two, and our property taxes are very expensive.", start: 788.40, end: 793.92}
+  - {text: "I was renting, I got laid off, and then got another job, so I moved back in with my parents about three months ago.", start: 794.28, end: 801.40}
+  - {text: "Those are citizens Stacy McIver and Riley Jano.", start: 801.88, end: 804.70}
+  - {text: "Stacy is an occupational therapist who loves to talk to people.", start: 805.04, end: 808.14}
+  - {text: "Riley is a lifelong Connecticut resident.", start: 808.52, end: 810.32}
+  - {text: "Jasmine Dawson, on the other hand, she recently moved to the state.", start: 810.90, end: 814.30}
+  - {text: "I originally come from New York, Brooklyn.", start: 814.48, end: 816.52}
+  - {text: "I've been here since 2021.", start: 817.06, end: 818.26}
+  - {text: "Bob Bailey works in insurance.", start: 818.26, end: 820.22}
+  - {text: "He calls himself a humble middle manager.", start: 820.72, end: 822.54}
+  - {text: "Father of six, married to one.", start: 822.92, end: 826.18}
+  - {text: "Bob is excited to be here.", start: 826.54, end: 828.24}
+  - {text: "I think we can make a difference for the people of Connecticut.", start: 828.54, end: 830.96}
+  - {text: "Their first challenge before they even got started talking about property taxes was to figure out how this whole thing was even gonna work.", start: 831.62, end: 839.18}
+  - {text: "The citizens had the power to come up with their own rules about things like who would speak when, how would they vote, what would quorum be, what would their values be.", start: 839.60, end: 849.30}
+  - {text: "And the discussion just on these rules got heated.", start: 849.66, end: 853.56}
+  - {text: "It was a lot of thoughts kept getting interrupted so it was hard to get a full idea.", start: 853.94, end: 857.66}
+  - {text: "It was like nitpicky comments.", start: 857.86, end: 859.22}
+  - {text: "It kind of devolved into us just yelling to the loudest voice.", start: 859.56, end: 863.78}
+  - {text: "It was very traumatic for me.", start: 864.12, end: 867.41}
+  - {text: "That made me realize like, oh, this is not gonna be as easy as I thought.", start: 867.71, end: 870.99}
+  - {text: "Eventually, the citizens decided that in this assembly, they wanted the quieter, more shy people to participate.", start: 871.71, end: 878.39}
+  - {text: "So they opted to follow basic kindergarten rules.", start: 878.85, end: 882.35}
+  - {text: "You know, if you wanted to speak, you gotta raise your hand and you wait for your turn to speak.", start: 882.71, end: 887.35}
+  - {text: "Once they reached a consensus on the rules, they moved on to the next order of business, learning about taxes.", start: 887.63, end: 894.21}
+  - {text: "The organizers invited professors and government officials to hold sessions.", start: 894.77, end: 898.93}
+  - {text: "It was like school, a new topic every hour or so led by a different expert.", start: 899.45, end: 903.47}
+  - {text: "They sat through presentations, they got handouts.", start: 903.79, end: 906.39}
+  - {text: "The citizens broke into small groups to discuss options and later reported back to the bigger group.", start: 906.61, end: 911.61}
+  - {text: "They learned that state and local governments have a few different ways to raise money.", start: 912.05, end: 915.55}
+  - {text: "States can have a sales tax, an income tax, various business taxes, while local governments rely mostly on property taxes.", start: 916.01, end: 924.79}
+  - {text: "In Connecticut, people pay property taxes on their homes but also on other property, like their cars.", start: 925.17, end: 931.87}
+  - {text: "Jasmine remembered finding that kind of shocking when she moved to the state five years ago.", start: 932.35, end: 937.25}
+  - {text: "That's kind of weird to me that no matter how old your car is like it could be a hoopty or a beater and you still have to pay a tax on it which is unfortunate.", start: 937.55, end: 949.22}
+  - {text: "But yeah, you just get taxed for everything here.", start: 949.92, end: 953.88}
+  - {text: "Connecticut has some of the highest taxes in the country.", start: 954.34, end: 957.02}
+  - {text: "In particular, people pay more in the form of local property taxes.", start: 957.24, end: 960.90}
+  - {text: "Other states do it differently.", start: 961.46, end: 962.80}
+  - {text: "They raise more money through statewide taxes like sales taxes or income taxes and redistribute more that money to towns and cities.", start: 963.24, end: 970.84}
+  - {text: "Connecticut though, not so much.", start: 971.22, end: 972.98}
+  - {text: "Which is why towns and cities in order to pay for things like schools and services rely so much on property taxes.", start: 973.34, end: 980.92}
+  - {text: "Bob, the father of six, married to one, says he got really into learning about the various intricacies of tax policy.", start: 981.32, end: 988.02}
+  - {text: "How much did you know about property taxes before you started?", start: 988.60, end: 992.22}
+  - {text: "Very little. Very little.", start: 992.64, end: 994.02}
+  - {text: "Now we've become tax policy nerds.", start: 994.02, end: 997.98}
+  - {text: "Yes. Policy nerds. Now you find yourself hunting for articles that are relevant.", start: 998.04, end: 1005.96}
+  - {text: "The citizens also learned how Connecticut is very fragmented.", start: 1006.38, end: 1009.94}
+  - {text: "There are 169 independent towns and cities in Connecticut and nearly all of them have their own school districts.", start: 1010.38, end: 1018.12}
+  - {text: "That's one reason public schools in Connecticut are some of the most expensive in the country.", start: 1018.50, end: 1022.36}
+  - {text: "Each little school district is operating its own food and lunch program, its own bus network, its own special ed program.", start: 1022.36, end: 1029.42}
+  - {text: "All of this learning and reading was so that they could write a proposal for how to reform Connecticut's taxes.", start: 1030.02, end: 1035.36}
+  - {text: "They collected ideas on how to lower property taxes.", start: 1035.94, end: 1038.90}
+  - {text: "Like maybe the state could create new taxes, modify existing ones or reduce spending or find efficiencies.", start: 1039.22, end: 1046.06}
+  - {text: "They also had ideas on how to share the tax revenue fairly between the state and its 169 cities and towns.", start: 1046.56, end: 1053.60}
+  - {text: "They talked about many of the same ideas and questions that politicians in Connecticut had wrestled with for decades.", start: 1054.32, end: 1061.14}
+  - {text: "And just like those politicians, Jasmine says the citizens of the assembly weren't all on the same page either.", start: 1061.74, end: 1068.22}
+  - {text: "What were the things like that you were like not able to agree on?", start: 1068.64, end: 1072.36}
+  - {text: "Goodness, I gotta pull some stuff up.", start: 1072.98, end: 1075.00}
+  - {text: "Papa, can you pass me my big binder?", start: 1076.24, end: 1078.54}
+  - {text: "I have, we have a binder on all the things that Like your special citizens assembly?", start: 1079.12, end: 1083.86}
+  - {text: "Yes. Finder? It's above the fridge.", start: 1084.26, end: 1085.90}
+  - {text: "Sorry, just kidding. That's so official.", start: 1087.04, end: 1088.84}
+  - {text: "Yes. So, okay. Jasmine took very detailed notes on all the different proposals they discussed.", start: 1089.20, end: 1099.86}
+  - {text: "They discussed things like maybe Connecticut should put tolls on the highways.", start: 1100.38, end: 1104.12}
+  - {text: "Right now there aren't any.", start: 1104.38, end: 1105.48}
+  - {text: "Or charge higher fees for out -of -state visitors to visit state parks.", start: 1105.80, end: 1109.74}
+  - {text: "Or tax non -profits like hospitals and universities more.", start: 1110.20, end: 1113.72}
+  - {text: "Or maybe consolidate some of the school districts and the local services like snow removal or animal control.", start: 1114.04, end: 1120.86}
+  - {text: "One of the most controversial ideas was a tax on super high earners.", start: 1121.22, end: 1126.36}
+  - {text: "A millionaire tax like they have in Massachusetts like they'd considered in New York City.", start: 1126.58, end: 1130.70}
+  - {text: "And there were some folks that were not with it.", start: 1131.04, end: 1134.84}
+  - {text: "There was one guy he started talking about if we vote on this we'll end up like New York and be socialists.", start: 1134.92, end: 1141.82}
+  - {text: "Like I thought it was funny.", start: 1142.10, end: 1143.36}
+  - {text: "Honestly, I really thought it was hilarious but he was really, really serious about it.", start: 1143.80, end: 1149.06}
+  - {text: "How did everyone else respond?", start: 1149.24, end: 1150.50}
+  - {text: "Well, there were mumblings.", start: 1151.28, end: 1152.84}
+  - {text: "There were side conversations happening.", start: 1153.42, end: 1155.86}
+  - {text: "And I was like, oh.", start: 1156.98, end: 1157.66}
+  - {text: "Other people had issues with the idea of a millionaire tax.", start: 1158.52, end: 1161.32}
+  - {text: "They said people would move out of the state to avoid paying it or they'd find loopholes.", start: 1161.64, end: 1165.86}
+  - {text: "Bob didn't want to share a lot of the specific proposals they discussed.", start: 1166.26, end: 1169.20}
+  - {text: "What happens in Vegas stays in Vegas.", start: 1169.44, end: 1171.54}
+  - {text: "But he did say there was a lot of debate.", start: 1173.26, end: 1176.90}
+  - {text: "Occasionally, someone will get up and propose something and there will be some good nature, you know, snickering at individual tables like can you imagine if we did this or that?", start: 1177.40, end: 1191.51}
+  - {text: "Or someone gets up and they've got a little bit of a strong rebuttal and a lot of us will kind of chuckle like, oh, Charlie's feeling himself today.", start: 1192.01, end: 1201.70}
+  - {text: "Stacey, the occupational therapist who loves to talk to people, found that all of this conversation and debate about big topics led her to connect with all kinds of people.", start: 1202.90, end: 1212.78}
+  - {text: "Have you made friends?", start: 1213.08, end: 1214.04}
+  - {text: "Yes. Do you text each other?", start: 1215.33, end: 1216.77}
+  - {text: "Are you going to tell on me?", start: 1218.23, end: 1219.35}
+  - {text: "No, it's almost like you're like a secret society.", start: 1219.71, end: 1222.27}
+  - {text: "We do text each other.", start: 1223.85, end: 1225.49}
+  - {text: "Yes. It wasn't just Stacey.", start: 1225.73, end: 1227.47}
+  - {text: "People in general started talking more in small groups and not just about tax policy.", start: 1227.77, end: 1232.27}
+  - {text: "A tradition has been ice cream at Ben and Jerry's after one of the sessions.", start: 1232.71, end: 1236.53}
+  - {text: "They offered free ice cream and so that's been a bit of a tradition as well.", start: 1237.11, end: 1241.39}
+  - {text: "Well, I would say one of my people is Miss Arlene.", start: 1241.67, end: 1243.99}
+  - {text: "She's an older woman.", start: 1244.33, end: 1245.41}
+  - {text: "We bonded over our Caribbean backgrounds and we always have lunch together.", start: 1245.67, end: 1250.81}
+  - {text: "Alaine Landemore, the political scientist who studied ancient Greece, she's been in the room at these citizens' assemblies and she says this is kind of exactly the natural arc that they tend to follow.", start: 1251.35, end: 1262.25}
+  - {text: "People meet and at first they are wary of each other.", start: 1262.79, end: 1265.67}
+  - {text: "They bicker, but pretty soon they start helping each other, building on each other's ideas and by the end of it something magical happens.", start: 1265.93, end: 1274.45}
+  - {text: "People who normally would hate each other across their screens, across party lines, across age differences, race differences, etc.", start: 1274.95, end: 1285.75}
+  - {text: "When they are brought together in that way and are given proper conditions, enough time, etc.", start: 1286.05, end: 1292.17}
+  - {text: "end up actually striking very deep friendships that's the love dimension of politics.", start: 1292.63, end: 1299.33}
+  - {text: "There's this idea from Aristotle that friendship and civic love are at the heart of politics.", start: 1299.81, end: 1304.67}
+  - {text: "These days, it might feel like there's more partisanship, but Alaine thinks these citizen assemblies are a way to bring love back into politics.", start: 1305.23, end: 1313.25}
+  - {text: "After the break, Connecticut's Citizens Assembly reveals the plan that they came up with to solve the state's property tax conundrum.", start: 1314.39, end: 1321.45}
+  - {text: "But not before these new friendships get put to the test.", start: 1321.93, end: 1325.39}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1329.34, end: 1333.14}
+  - {text: "This message comes from Built.", start: 1333.58, end: 1334.98}
+  - {text: "Rent and mortgages keep getting more expensive.", start: 1335.36, end: 1337.48}
+  - {text: "That's why Built created three credit cards designed to offer rich rewards on everything you spend on.", start: 1337.96, end: 1343.64}
+  - {text: "You can earn up to 1 .25x points on every housing payment with no transaction fee, which can be redeemed for flights, hotels, a future housing payment, and more.", start: 1343.86, end: 1353.74}
+  - {text: "Apply at joinbilt .com slash money.", start: 1354.00, end: 1358.08}
+  - {text: "Terms apply subject to approval and eligibility.", start: 1358.38, end: 1360.88}
+  - {text: "Built cards are issued by Column NA, member FDIC, pursuant to license from MasterCard International Incorporated.", start: 1361.30, end: 1367.78}
+  - {text: "This message comes from Capella University.", start: 1368.40, end: 1370.82}
+  - {text: "That spark you feel?", start: 1371.22, end: 1372.18}
+  - {text: "That's your drive for more.", start: 1372.48, end: 1373.88}
+  - {text: "Capella University's FlexPath learning format lets you earn your degree at your pace without putting life on pause.", start: 1374.28, end: 1380.20}
+  - {text: "Learn more at capella .edu.", start: 1380.76, end: 1382.16}
+  - {text: "This message comes from Capital One.", start: 1383.32, end: 1385.20}
+  - {text: "Capital One offers checking accounts with no fees or minimums.", start: 1385.50, end: 1389.20}
+  - {text: "What's in your wallet?", start: 1389.26, end: 1390.22}
+  - {text: "Terms apply. See capitalone .com slash bank guy for details.", start: 1390.52, end: 1394.58}
+  - {text: "Capital One NA, member FDIC.", start: 1395.06, end: 1397.24}
+  - {text: "Now, we talked to the assembly members before their final meeting, the one where they present their proposal.", start: 1398.51, end: 1405.83}
+  - {text: "And still, none of them wanted to talk about what their final recommendations were.", start: 1406.35, end: 1410.47}
+  - {text: "But Jasmine says she was feeling good about their proposals.", start: 1410.93, end: 1413.97}
+  - {text: "I'm feeling hopeful about tomorrow.", start: 1414.37, end: 1415.89}
+  - {text: "We have the ideas.", start: 1416.69, end: 1418.83}
+  - {text: "Bob said they voted to include about 10 of them.", start: 1419.33, end: 1421.87}
+  - {text: "Are we talking like a phone book or is this like a pamphlet?", start: 1422.09, end: 1425.29}
+  - {text: "We're trying to keep them all down to about one to one and a half pages each.", start: 1425.75, end: 1430.35}
+  - {text: "So this is something that's digestible.", start: 1430.67, end: 1432.95}
+  - {text: "It's not the Magna Carta that we're writing here, you know.", start: 1433.47, end: 1436.49}
+  - {text: "Stacey told us these 10 ideas, most of them are not revolutionary.", start: 1436.49, end: 1441.79}
+  - {text: "So that is one thing that has been very frustrating for me at least, but it's like these are not new ideas.", start: 1442.41, end: 1450.51}
+  - {text: "Some of them are new ideas.", start: 1451.13, end: 1452.35}
+  - {text: "Some of them are.", start: 1452.83, end: 1453.41}
+  - {text: "Okay, I'm excited to know what these new ideas are.", start: 1453.61, end: 1456.01}
+  - {text: "But generally, it's like, why are we not doing this?", start: 1456.09, end: 1461.48}
+  - {text: "Stacey said learning what politicians had or hadn't done before was pretty eye -opening.", start: 1461.74, end: 1466.50}
+  - {text: "Most of these ideas the politicians had seen and heard before, yet they hadn't made any changes or reforms.", start: 1466.96, end: 1473.54}
+  - {text: "Stacey was also frustrated because all the work she and the other citizens had done amounted to just a proposal.", start: 1473.92, end: 1481.10}
+  - {text: "They had to present their proposal to Sean, the state comptroller, who would then present it to the state legislature and they would then maybe make them into bills and then maybe vote them into laws.", start: 1481.60, end: 1493.62}
+  - {text: "I left every session completely deflated and thinking, there's no way we can fix this.", start: 1493.62, end: 1501.50}
+  - {text: "There's no way. How are we ever going to fix this?", start: 1502.20, end: 1504.38}
+  - {text: "It doesn't matter what we say because even if they say they're going to bring it to legislation, they bring it there and then it gets voted down", start: 1504.86, end: 1512.33}
+  - {text: "or they do vote for it and then they change it and then put the money somewhere else.", start: 1512.33, end: 1517.21}
+  - {text: "So what are we doing?", start: 1517.59, end: 1519.05}
+  - {text: "Like why do you even want us here?", start: 1519.35, end: 1520.49}
+  - {text: "What is the point of us being here?", start: 1520.65, end: 1522.03}
+  - {text: "Yeah, so far most of the citizens' assemblies that have been tried around the world haven't been given that much power.", start: 1522.03, end: 1528.95}
+  - {text: "They can't make the laws themselves.", start: 1529.25, end: 1531.19}
+  - {text: "Their ideas usually still have to go through the regular political process through the same politicians who struggled to take action and pass laws in the first place.", start: 1531.71, end: 1540.63}
+  - {text: "And this worried Riley, the lifelong Connecticut resident.", start: 1541.09, end: 1544.19}
+  - {text: "What would be the worst possible outcome of all of this?", start: 1544.61, end: 1549.17}
+  - {text: "I mean, worst possible outcome is nothing.", start: 1549.17, end: 1552.89}
+  - {text: "I'd be frustrated. I could imagine being a little insulted.", start: 1553.76, end: 1558.01}
+  - {text: "A couple weeks ago, the citizens voted on the final proposal.", start: 1558.79, end: 1561.67}
+  - {text: "We got our hands on an embargoed copy of it.", start: 1562.15, end: 1564.21}
+  - {text: "There was going to be this big press conference in front of the state Capitol building.", start: 1564.49, end: 1568.77}
+  - {text: "Sean, the state comptroller, would be flanked by some of the citizens as they finally revealed this proposal to the public.", start: 1569.29, end: 1575.77}
+  - {text: "But the night before, I got a text from the state comptroller's office.", start: 1576.11, end: 1580.15}
+  - {text: "The press conference was canceled.", start: 1580.79, end: 1582.75}
+  - {text: "So I called up some of the citizens.", start: 1583.43, end: 1585.23}
+  - {text: "It turned out two big dramatic things happened.", start: 1585.95, end: 1589.21}
+  - {text: "The first had to do with the last meeting of the citizens assembly.", start: 1589.73, end: 1593.17}
+  - {text: "Some of the citizens were not happy with how the final proposal turned out.", start: 1593.75, end: 1598.53}
+  - {text: "They were upset because some of the proposals had been changed without enough discussion, like the millionaire's tax.", start: 1598.89, end: 1605.39}
+  - {text: "They had initially agreed on a 4 % tax, but at the final vote, the proposal had been changed to 1%.", start: 1605.39, end: 1613.87}
+  - {text: "Nevertheless, the citizens voted and decided to include the 10 proposals, including that 1 % tax on millionaires.", start: 1613.87, end: 1620.79}
+  - {text: "The second big dramatic thing had to do with the organizers themselves.", start: 1621.41, end: 1625.93}
+  - {text: "One of the organizers had a concern about releasing those proposals in the middle of an electoral cycle, which had always been the plan.", start: 1626.47, end: 1638.42}
+  - {text: "Elaine Landemore, the political scientist, was a little bit shy at first about naming names.", start: 1638.64, end: 1644.28}
+  - {text: "But eventually, she revealed that the organizer who didn't want to release the proposals was none other than the comptroller, Sean Scanlon, the politician who had given the citizens that pep talk at their first meeting,", start: 1644.68, end: 1656.72}
+  - {text: "who had agreed to help the citizens get their ideas heard by the Connecticut legislature.", start: 1656.98, end: 1660.78}
+  - {text: "Were you the hang -up then?", start: 1661.26, end: 1662.42}
+  - {text: "I wouldn't say that I'm the hang -up.", start: 1663.80, end: 1665.06}
+  - {text: "I worried that two weeks before an election is just utter chaos and the silly season of politics and that if we put their recommendations out in the last two weeks of a campaign, they were either not going to be taken seriously,", start: 1665.24, end: 1678.56}
+  - {text: "not given the credit that they deserved or used as a political football.", start: 1679.12, end: 1682.48}
+  - {text: "Sean told us he was having second thoughts about putting these proposals out, so close to the upcoming elections.", start: 1682.92, end: 1689.64}
+  - {text: "He says he didn't think his party, the Democrats, would lose because of the proposal.", start: 1690.12, end: 1694.42}
+  - {text: "No, that wasn't the problem.", start: 1694.98, end: 1696.56}
+  - {text: "It was that this would inject an issue and give the other party something to make noise about because they don't really have much else to make noise about.", start: 1697.26, end: 1708.78}
+  - {text: "And do I think that that's going to ultimately decide the election?", start: 1709.66, end: 1712.82}
+  - {text: "No, I don't. But what I think it will do is it will manipulate and take advantage of a lot of people's hard work and timing.", start: 1712.98, end: 1724.12}
+  - {text: "Other organizers, like Alain, didn't agree with Sean's idea to hold the proposal until after the election.", start: 1724.52, end: 1730.22}
+  - {text: "Alain said they had told the citizens they'd published their ideas once they voted, so they could be a part of the election discussion.", start: 1730.70, end: 1738.14}
+  - {text: "In the end, Alain and Sean and the other organizers held an emergency meeting.", start: 1738.50, end: 1742.66}
+  - {text: "They also invited a handful of citizens.", start: 1743.12, end: 1744.74}
+  - {text: "After some discussion, Sean basically backed down and they decided to release the proposal before the election.", start: 1745.14, end: 1751.68}
+  - {text: "And the citizens? They have decided to stop talking to the press.", start: 1752.06, end: 1756.66}
+  - {text: "So we couldn't just go to any of the citizens we'd been talking to.", start: 1756.92, end: 1760.36}
+  - {text: "The citizens assembly elected official spokespeople so that the group could all stay on message.", start: 1760.76, end: 1766.54}
+  - {text: "It was almost like these citizens have started to act a little bit more like politicians themselves.", start: 1766.92, end: 1772.88}
+  - {text: "The proposal was finally revealed this week.", start: 1773.38, end: 1777.58}
+  - {text: "At a press conference.", start: 1777.58, end: 1778.92}
+  - {text: "Thank you media representatives and everyone watching us live for being here with us today.", start: 1779.28, end: 1786.04}
+  - {text: "On Zoom, one of the official spokespeople Doris Gomez kicked it off.", start: 1786.54, end: 1790.80}
+  - {text: "I am proud to announce the release of the final report of the Connecticut Citizens Assembly on Property Taxes.", start: 1791.22, end: 1798.96}
+  - {text: "No big fanfare at the State Capitol Building.", start: 1799.06, end: 1801.66}
+  - {text: "No Sean flanked by citizens.", start: 1801.90, end: 1803.22}
+  - {text: "In fact, Sean decided to not even show up.", start: 1803.62, end: 1806.96}
+  - {text: "Though he says he'll still support the proposal in the state legislature.", start: 1806.96, end: 1811.54}
+  - {text: "In the final proposal, they had recommendations including a 1 % tax on earners who make more than a million dollars a year.", start: 1812.20, end: 1819.46}
+  - {text: "A plan to consolidate school services for some districts and a proposal to implement interstate tolls to reduce or eliminate car taxes.", start: 1819.80, end: 1827.22}
+  - {text: "Riley Jano ended up being one of the spokespeople for the Citizens Assembly.", start: 1827.60, end: 1831.40}
+  - {text: "He told us the citizens are proud and happy with their final proposals.", start: 1831.76, end: 1835.30}
+  - {text: "But Sean, the comptroller postponing the announcement and that whole back and forth, that was not what they signed up for.", start: 1835.30, end: 1841.40}
+  - {text: "It's almost a route to have all this work put in, all of everyone's aligned, and then at the last second to have them unilaterally change it.", start: 1841.76, end: 1852.29}
+  - {text: "I feel it undermines the entire premise of what we've done up to this point.", start: 1853.01, end: 1857.21}
+  - {text: "Alain says, she's seen this before, many of the citizens assemblies that have been tried so far have run into this tricky step.", start: 1857.82, end: 1866.12}
+  - {text: "When these citizens' recommendations meet politics and politicians.", start: 1866.42, end: 1871.32}
+  - {text: "I think we considerably annoyed the citizens.", start: 1871.84, end: 1874.98}
+  - {text: "I think there's no question.", start: 1875.20, end: 1875.98}
+  - {text: "I think we lost a lot of goodwill and that they, you know, but anyway, this is what it is.", start: 1876.88, end: 1883.22}
+  - {text: "It's kind of unavoidable when you are entering the political field where these proposals are gonna have to be exposed, right?", start: 1883.44, end: 1891.37}
+  - {text: "But my view has always been that we are not engaged in political calculations.", start: 1891.51, end: 1896.11}
+  - {text: "We were trying to do something different.", start: 1896.11, end: 1897.57}
+  - {text: "That takes seriously the view that citizens have a right to know what informed, deliberative sample of them thinks on a very important issue.", start: 1898.25, end: 1908.01}
+  - {text: "And that is the thing about trying to reinvent democracy.", start: 1908.49, end: 1912.03}
+  - {text: "If you want to do things in a new way, you still have to figure out how to do them in the old way.", start: 1912.55, end: 1917.71}
+  - {text: "Basically, if you're getting into politics, you gotta be ready for all of the politics.", start: 1918.25, end: 1923.87}
+  - {text: "Planet Money is doing a live show in Ireland, November 6th through the 8th at the Kilkenomics Economics and Comedy Festival.", start: 1934.27, end: 1943.74}
+  - {text: "Yes, that is a thing.", start: 1944.22, end: 1945.34}
+  - {text: "Yes, we will be there.", start: 1945.82, end: 1946.88}
+  - {text: "Wish us luck. We'll be doing three different shows, two big stage shows, a smaller venue board game hangout, fine tickets at the link in the show notes, or at kilkenomics .com.", start: 1947.24, end: 1958.44}
+  - {text: "That's Kilkenny, the town crossed with economics.", start: 1958.72, end: 1961.38}
+  - {text: "November 6th through the 8th in Kilkenny, Ireland.", start: 1961.38, end: 1964.06}
+  - {text: "See you there. That spark you feel?", start: 1964.44, end: 2000.50}
+  - {text: "That's your drive for more.", start: 2000.80, end: 2002.18}
+  - {text: "Capella University's flex path learning format lets you earn your degree at your pace without putting life on pause.", start: 2002.54, end: 2008.52}
+  - {text: "Learn more at capella .edu.", start: 2008.90, end: 2010.46}
+  - {text: "3 month plan required $15 per month equivalent.", start: 2028.94, end: 2031.28}
+  - {text: "New customer offer first three months only, then full price plan options available.", start: 2031.72, end: 2034.98}
+  - {text: "Taxes and fees extra.", start: 2035.38, end: 2036.22}
+---

@@ -1,0 +1,187 @@
+---
+layout: single
+title: "Bolsonaro declares himself 'Brazil's leader'"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-29T00:00:00Z
+slug: "2026-10-29-bolsonaro-declares-himself-brazils-leader"
+audioDir: "2026-10-29-bolsonaro-declares-himself-brazils-leader"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-29-bolsonaro-declares-himself-brazils-leader/episode.mp3"
+totalDuration: 1470.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 4.18}
+  - {text: "I'm Charlotte Gallagher and in the early hours of Thursday, the 29th of October, these are our main stories.", start: 6.86, end: 12.38}
+  - {text: "The defeated candidate in Brazil's election, Flavio Bolsonaro, claims he's the country's true leader after fleeing a money laundering case to the US.", start: 13.04, end: 21.88}
+  - {text: "Spain's Prime Minister Pedro Sánchez says the investigation into a deadly rail crash will establish where the negligence played a role.", start: 22.72, end: 31.10}
+  - {text: "And police in Indonesia fire tear gas to disperse demonstrators protesting against the government's handling of ongoing forest fires.", start: 31.46, end: 39.40}
+  - {text: "Also in this podcast, why short films are booming and...", start: 42.49, end: 47.03}
+  - {text: "There are opportunities sometimes to, you know, safely put your hands on one, but it's when it's next to the boat, you're tagging it, you can reach near the dorsal,", start: 47.03, end: 53.87}
+  - {text: "and I just see her like reaching for the head and I'm like, oh no.", start: 54.23, end: 57.77}
+  - {text: "A close encounter with a great white shark on a fishing trip goes viral.", start: 58.75, end: 63.11}
+  - {text: "Flavio Bolsonaro appears to be following in his father's footsteps, losing an election to President Lula, fleeing to the US and now declaring himself Brazil's true leader.", start: 68.84, end: 79.16}
+  - {text: "The defeated right -wing candidate is under investigation in Brazil for alleged corruption and money laundering, which he denies.", start: 79.16, end: 86.22}
+  - {text: "In his first statement since arriving in Miami, Mr Bolsonaro made allegations of electoral fraud without evidence, calling himself a victim of a coup and political persecution.", start: 86.62, end: 97.42}
+  - {text: "Our reporter in Miami, Luis Fajardo, told me there's no evidence to back up the claims.", start: 98.08, end: 102.72}
+  - {text: "The results have been very substantially in favor of Lula.", start: 103.26, end: 107.60}
+  - {text: "He had more than four million votes more than Bolsonaro, and also electoral authorities in Brazil have been also backing up the official results.", start: 107.78, end: 118.60}
+  - {text: "So there's no evidence for what Bolsonaro is describing, even members of his own political groups in Brazil, the conservatives, have been saying that they accept the defeat in the election", start: 118.76, end: 131.10}
+  - {text: "and that Lula has been effectively re -elected as President of Brazil.", start: 131.10, end: 135.14}
+  - {text: "He was meant to surrender his passports, and he didn't.", start: 135.40, end: 138.66}
+  - {text: "Do we know the details of how he managed to flee Brazil?", start: 138.88, end: 141.26}
+  - {text: "There have been unconfirmed versions saying that he may have left with an Italian passport.", start: 141.78, end: 146.36}
+  - {text: "Bolsonaro has Italian ancestry, and in any case, he crossed the border of Brazil into neighboring Argentina.", start: 146.60, end: 153.56}
+  - {text: "From then, he got an airplane which flew initially to Guayaquil in Ecuador and eventually to Miami.", start: 153.56, end: 159.56}
+  - {text: "There has been big discussion about the role that Argentina has played in facilitating his fleeing from Brazil.", start: 159.90, end: 167.44}
+  - {text: "In fact, Bolsonaro, in the statement he issued, he specifically thanks the President of Argentina, right -wing President Javier Milay, as well as President Donald Trump,", start: 167.86, end: 177.86}
+  - {text: "for facilitating what he calls his move to freedom, escaping what he claims, is a persecution against him in Brazil.", start: 178.04, end: 185.46}
+  - {text: "Given that he's thanking President Trump for this, what kind of strain do you think this could put on the relationship between Brazil and the US?", start: 185.84, end: 193.78}
+  - {text: "I mean, we know that President Lula and President Trump don't see eye to eye on most things anyway.", start: 194.04, end: 198.80}
+  - {text: "It is not clear that there's going to be a direct confrontation.", start: 199.16, end: 201.74}
+  - {text: "President Trump, even though he said that he believed that there had been perhaps irregularities in the Brazilian election, he said he was looking at it", start: 202.32, end: 210.48}
+  - {text: "and he said that he did not want to intervene directly.", start: 210.48, end: 213.32}
+  - {text: "So it is not clear that this would lead to a direct breakup between the United States and Brazil.", start: 213.56, end: 218.68}
+  - {text: "There's also the question of what kind of impact this is going to have with Argentina, where Milay and Lula have also had strong rivalry and strong frictions.", start: 218.88, end: 227.98}
+  - {text: "But once again, they have large economic interest in common.", start: 228.32, end: 231.44}
+  - {text: "So it's still not clear exactly what kind of diplomatic consequences this will have.", start: 231.82, end: 235.76}
+  - {text: "Luis, I was wondering what the Brazilian expats in Miami will think of this, because there's tens of thousands of Brazilians in Miami.", start: 236.10, end: 244.12}
+  - {text: "Do you think they will be welcoming Flavio Bolsonaro or are they going to be quite cynical about the whole thing?", start: 244.32, end: 250.10}
+  - {text: "Well, you can argue that Bolsonaro is going to have a welcome reception in many parts of Florida.", start: 250.42, end: 255.38}
+  - {text: "Of course, many of the Brazilians in Florida tend to be conservative.", start: 255.70, end: 259.80}
+  - {text: "Some of them left Brazil because they were not happy with the situation under Lula.", start: 260.20, end: 264.56}
+  - {text: "And of course, Bolsonaro is not the first Latin American politician to leave his country when he feels that the tide is turning against him.", start: 265.18, end: 274.40}
+  - {text: "If he decided to stay in Florida, it is not clear what his ultimate destination will be.", start: 274.70, end: 278.92}
+  - {text: "His brother, for example, lives in Texas.", start: 279.34, end: 281.50}
+  - {text: "But if he decided to stay around Florida, certainly he will find a lot of people very sympathetic to his case among Brazilians and other Latin Americans in Florida.", start: 281.98, end: 292.88}
+  - {text: "Luis Fajardo in Miami.", start: 293.50, end: 295.14}
+  - {text: "The Spanish Prime Minister, Pedro Sanchez, has declared three days of national mourning after two trains collided on Wednesday, killing at least 68 people.", start: 295.84, end: 305.18}
+  - {text: "18 others are reported to be in a critical condition.", start: 305.72, end: 308.58}
+  - {text: "After a high -speed train traveling to Seville crashed into a stationary train south of Madrid.", start: 308.92, end: 314.18}
+  - {text: "The Transport Minister, Oscar Puente, said the automatic signalling system on the line had failed in the moments before the crash.", start: 314.80, end: 321.60}
+  - {text: "This man was one of the passengers.", start: 322.24, end: 323.66}
+  - {text: "Sarah Rainsford gave me this update from the scene of the crash.", start: 352.48, end: 356.40}
+  - {text: "There's still a massive recovery operation that I'm watching unfold.", start: 357.04, end: 360.88}
+  - {text: "I can see big cranes reaching up into the sky, very powerful lights beaming down onto the scene below.", start: 361.18, end: 368.08}
+  - {text: "And it's a completely devastated scene.", start: 368.34, end: 370.64}
+  - {text: "There's some carriages of a train that are tilting dangerously off a track in one direction and then the remains of other carriages that have broken apart", start: 370.82, end: 378.94}
+  - {text: "and have cascaded down the embankment in the other direction.", start: 378.94, end: 382.26}
+  - {text: "And we've been seeing emergency vehicles come and go.", start: 382.82, end: 385.62}
+  - {text: "We've seen a funeral van passing by.", start: 385.88, end: 388.58}
+  - {text: "We understand that there are sniffer dogs here and been watching a giant crane cut its way through the remains of one carriage, opening it up like a tin can.", start: 389.00, end: 398.62}
+  - {text: "And we understand they are looking still for any more victims who may be amongst all of this wreckage and this debris.", start: 398.90, end: 406.96}
+  - {text: "And watching the survivors talk about what happened and reading their accounts, it sounds absolutely terrifying and it was also over in just minutes as well.", start: 407.18, end: 416.42}
+  - {text: "Yeah, because there was a stationary train and then suddenly a huge bang and that train was shunted with such force that people were sent flying,", start: 416.60, end: 426.02}
+  - {text: "suitcases were sent flying and carriages were then derailed and tumbled down the embankment at high speed.", start: 426.34, end: 432.70}
+  - {text: "The train behind, we don't know how fast it was travelling but we do know from the Transport Minister that this section of track is one", start: 432.88, end: 439.88}
+  - {text: "where high speed trains like the ones involved in this collision can move at up to 200 kilometres an hour.", start: 439.88, end: 445.18}
+  - {text: "So the one train that was moving was moving extremely quickly when it collided into the train stationary in front of us.", start: 445.42, end: 452.06}
+  - {text: "This is the worst rail disaster in Europe for many, many years and the worst in Spain for well over a decade.", start: 452.20, end: 457.82}
+  - {text: "But this is the second one in Spain in less than a year.", start: 457.82, end: 461.72}
+  - {text: "Surely lots of questions now about how this has happened twice.", start: 461.98, end: 465.04}
+  - {text: "Yeah, lots of questions.", start: 465.56, end: 466.80}
+  - {text: "I mean, I think at the moment the questions primarily are specifically about how this disaster happened because there was a problem on the line at about 830", start: 467.08, end: 474.66}
+  - {text: "and the whole thing was switched into manual mode if you like.", start: 474.66, end: 477.44}
+  - {text: "So there was a controller back in Madrid that was telling the trains and the drivers on the trains what to do and it seems that a train was instructed", start: 477.48, end: 484.70}
+  - {text: "that it could restart and go at normal speed even though there was another train stalled on the tracks in front of it and it's not clear why the controller didn't warn the driver of the fast -moving train", start: 484.70, end: 497.26}
+  - {text: "that there was an obstruction on the liner that he or she should slow down or stop.", start: 497.26, end: 502.06}
+  - {text: "So real questions about how on earth this particular disaster happened but certainly also questions about why Spain is reeling from its second massive train tragedy in one year.", start: 502.26, end: 512.36}
+  - {text: "Sarah Rainsford, the train crash could also have political repercussions as Spain prepares for a national vote at the end of next month.", start: 513.02, end: 520.84}
+  - {text: "Pedro Sanchez called the snap election after mass protests about housing rights in Spain following the eviction of an elderly woman from her home.", start: 521.24, end: 529.62}
+  - {text: "Chris Havela Barrett from the Spanish expat newspaper The Olive Press says Wednesday's disaster is feeding into wider public concerns about the country.", start: 530.08, end: 539.42}
+  - {text: "To many Spaniards these issues go hand in hand.", start: 540.08, end: 543.26}
+  - {text: "This is still a country that very much feels the deep scars from the financial crash of 2008 which derailed progress in this country for a decade.", start: 543.50, end: 553.50}
+  - {text: "Opponents of Prime Minister Sanchez will point to both of these high -speed train accidents this year and say why have we not invested in the things", start: 554.10, end: 565.26}
+  - {text: "that are most important to Spain and do you trust him to make the right decisions if he's re -elected.", start: 565.26, end: 571.20}
+  - {text: "While Spain has made some real strides to rebound but still so many issues of day -to -day life that people are just unable to get the help they need.", start: 571.46, end: 581.60}
+  - {text: "This remains in many sections of the country an impoverished nation that's unable to help many of those who need help the most.", start: 581.88, end: 590.34}
+  - {text: "Chris Havela Barrett Now it's a video that has prompted a lot of discussion online this week.", start: 590.76, end: 597.06}
+  - {text: "That was the moment a US veteran on a shark tagging expedition off the coast of Georgia leans over the boat to touch a great white shark on its head.", start: 601.02, end: 617.93}
+  - {text: "The shark which has a hook in its mouth then thrashes around and lunges backward.", start: 618.55, end: 622.99}
+  - {text: "The company Not Lucky Fishing regularly takes veterans on their expeditions where they help tag, catch and release sharks to collect data for scientific research.", start: 623.69, end: 633.83}
+  - {text: "The crew said the woman was never in danger and that they had the shark under control but called the animal's reaction a reminder of the importance of respecting wildlife.", start: 634.61, end: 643.99}
+  - {text: "Former US Army Ranger Jimmy Armell runs the company and captured that video.", start: 644.77, end: 649.09}
+  - {text: "He's been speaking to Andrew Peach.", start: 649.49, end: 651.15}
+  - {text: "There are opportunities sometimes safely put your hands on one but it's when it's next to the boat you're tagging it you can reach near the dorsal", start: 651.73, end: 658.27}
+  - {text: "and I just see her like reaching for the head and I'm like oh no.", start: 658.27, end: 662.17}
+  - {text: "Yeah reaching randomly for a shark.", start: 662.75, end: 664.43}
+  - {text: "Most people wouldn't do that right but did you know why she was tempted to?", start: 664.71, end: 668.21}
+  - {text: "Well you have a great white shark next to the boat it's very magical there's definitely a vibe that comes with these animals.", start: 668.49, end: 674.29}
+  - {text: "I mean they're just so majestic there really isn't anything like it and I think sometimes something just comes over people you know I don't get in the water recreationally I'm terrified of the water", start: 674.75, end: 684.69}
+  - {text: "but I would love to swim with a white shark one day these animals do something to some people.", start: 684.69, end: 689.51}
+  - {text: "Yeah I mean the reaction on line is really interesting isn't it because it's sort of divided between people who are impressed by her courage and people who just think she's mad.", start: 690.23, end: 698.69}
+  - {text: "Yeah and I mean it might be a little column A column B right.", start: 698.95, end: 702.13}
+  - {text: "There's nothing like these animals I mean you know this is the huge part of what we do you know it helps a lot of veterans heal it's a whole lot of fun you know", start: 703.37, end: 711.49}
+  - {text: "and then we get the research to help preserve these beautiful animals for future generations and then the name of them after fallen bets and seeing what", start: 711.49, end: 718.83}
+  - {text: "that does for the families it's just a beautiful thing all around.", start: 718.83, end: 721.53}
+  - {text: "You talked about the magic that people feel being up so close to such a phenomenal creature put that into words for me.", start: 721.95, end: 730.19}
+  - {text: "I'm going to go back to the first time that I saw one I was sudden I see this big thing down below the boat and my head I'm like oh shark", start: 730.43, end: 742.97}
+  - {text: "which is no big deal we see them all the time I was like wait a minute it's cold out here it's winter time like why is this shark here there's no sharks came up", start: 742.97, end: 749.73}
+  - {text: "and it was a great white I thought it was big at the time it was about eight feet it turns out that's just a baby though", start: 749.73, end: 755.17}
+  - {text: "and it just had zero fear it circled the boat three times just very slowly methodically just kind of seeing what we were doing and then slam off", start: 755.17, end: 765.63}
+  - {text: "and then the first time I put one next to the boat it was a very personal interaction you know you're overwhelmed the first one was about a thousand pounder next to the boat", start: 765.63, end: 776.13}
+  - {text: "and you're touching it and you're looking at its eyes and getting the hook out you know you're helping it swim off and just during that whole interaction it's just the most beautiful feeling you can imagine once again", start: 776.13, end: 789.49}
+  - {text: "and it's a very unique thing right not very many people ever catch these because you know without the proper permitting and stuff you're not allowed to go catch them", start: 789.49, end: 797.39}
+  - {text: "but even if you catch one on accident that's super rare people that tag them that's super rare but to catch them on rod and reel", start: 797.39, end: 804.47}
+  - {text: "and tag them and I mean most of these vets that come out with those they're not really fishermen pretty much all of them don't have a boat", start: 804.47, end: 810.49}
+  - {text: "or anything so the opportunity to do something like this is huge you know watching the weight get lifted from everybody's face that'll never get old", start: 810.49, end: 818.55}
+  - {text: "just like watching a great white shark breach in front of you like a shark weep when they you know come completely out of the water right", start: 818.55, end: 824.69}
+  - {text: "that that'll never get old watching veterans he'll get old and watching great white sharks breach will never get old that was jimmy armel speaking to andrew peach still", start: 824.69, end: 834.63}
+  - {text: "to come in this podcast margot Robbie originally uh was at the focus of these storylines back in the nauties and she could have never have", start: 836.93, end: 844.97}
+  - {text: "imagined for decades on it would be used for a different purpose to make money we look at the ethics of AI powered micro dramas this", start: 844.97, end: 863.15}
+  - {text: "is the global news podcast indonesia's worsening forest fires have sparked protests in jakarta and several other cities with students and activists demanding more urgent action from the government police use tear gas", start: 863.15, end: 877.53}
+  - {text: "and water cannon to disperse crowds in the capital where demonstrators were calling for the crisis to be declared a national disaster these protesters were in", start: 877.53, end: 886.41}
+  - {text: "jacarta the government's point of view is often aligned with the interests of business not with those of ordinary people facing financial problems that's the root of the problem and shapes the tone and approach the government takes towards those having to go through these challenges", start: 886.41, end: 900.57}
+  - {text: "young people are demanding that the state fulfill its responsibility for the forest and land fire emergency our demands urge both the central and local governments to address the forest", start: 902.11, end: 914.13}
+  - {text: "and land fires occurring in this republic our global affairs correspondent and barris an azerajan explained to anchor decide why campaigners are calling for the forest fires to be declared a national disaster", start: 914.13, end: 926.61}
+  - {text: "and how the government has responded so far these forest fires have been going on for months now even though these are seasonal it is the", start: 926.61, end: 935.69}
+  - {text: "worst in the last 10 years in addition to the impact of the climate pattern el nino so you have the vast areas becoming ashes creating huge amount of haze", start: 935.69, end: 946.47}
+  - {text: "and causing health issues for people more than 300 000 people are affected by these respiratory illnesses in those affected areas in kalimantan and sumatra island", start: 946.47, end: 955.33}
+  - {text: "and that's why this has triggered anger where thousands of people have been protesting in jacarta asking the government to intervene and also declare it as a national disaster", start: 955.33, end: 964.53}
+  - {text: "so what it means is the government should divert funds from various of the projects particularly for fighting fires and also they have to give compensation then it also exposes the government's inability to control", start: 964.53, end: 977.23}
+  - {text: "and that's why the government is hesitating even though the government says they have sent thousands of firefighters and also providing compensation for people in those areas", start: 977.23, end: 986.13}
+  - {text: "and the government is aware that any use of force will trigger more reaction they saw what happened last year during this similar kind of protest", start: 986.13, end: 994.31}
+  - {text: "now government is under pressure from within the country also from the neighboring countries what sort of pressure are they putting on indonesia these forest fires are mostly originate mainly", start: 994.31, end: 1004.65}
+  - {text: "because people clearing forests for cash crop lands so countries like singapore and malaysia they are really worried because the haze is coming towards their area", start: 1004.65, end: 1014.35}
+  - {text: "and affecting people so singapore has already won any company linked to these kind of forest clearance they will be taking legal action and they have also formed a joint task force with indonesia to how to tackle this haze and malaysia has also complained", start: 1014.35, end: 1027.23}
+  - {text: "about these forest fires thousands of people are now getting respiratory illnesses putting pressure on those governments and that is why those governments are now talking with indonesia", start: 1027.79, end: 1036.89}
+  - {text: "and baristan etirajan for many directors including steven spielberg and george lucas making a short film played a crucial role in launching their careers at one time short films were often seen", start: 1036.89, end: 1050.11}
+  - {text: "as a stepping stone for aspiring directors hoping to make full -length features but now as tom brook reports short form storytelling has become a global creative force in its own right", start: 1050.11, end: 1061.45}
+  - {text: "it's patently clear from the multitude of short film festivals around the world that short film storytelling is flourishing short films have their own ecosystem their own online audiences their own festivals", start: 1064.62, end: 1077.39}
+  - {text: "and a strong presence at major world film events at the recent london film festival more than 80 short films were shown and they covered all kinds of subjects", start: 1077.39, end: 1087.33}
+  - {text: "that well received eight -minute short was mon taxi put together by new york -based moroccan -born filmmaker merem scrowhey the film is made up of", start: 1087.33, end: 1097.53}
+  - {text: "voicemail messages she left for her father after he died it's about continuing the conversation with my dad after he passed we see me sharing with dad kind of like my daily life through phone calls", start: 1097.53, end: 1110.41}
+  - {text: "that i make for him which is it is from a ritual that him and i used to have because i'm born and raised in morocco and he still lived there", start: 1110.41, end: 1118.17}
+  - {text: "merem was overjoyed when her film was accepted by the london film festival leaving new york and crossing the atlantic to attend the festival has been", start: 1118.95, end: 1126.71}
+  - {text: "a very exciting chapter in her life she is now mounting an oscar campaign for her short film visit a as are the makers of another short the british film geronto", start: 1126.71, end: 1136.57}
+  - {text: "which also went over well at the london film festival it deals with the issue of so -called age gap relationships in this instance between two", start: 1136.57, end: 1144.93}
+  - {text: "men separated in age by many years very mild isn't it short films often deal with subject matter that might be misunderstood or considered controversial for", start: 1144.93, end: 1154.19}
+  - {text: "which it could be difficult to find funding for a full -length feature film the screenplay for geronto comes from actor christopher sherwood himself involved in an intergenerational relationship it might help those", start: 1154.19, end: 1165.61}
+  - {text: "who look slightly cynically upon such relationships and help them to see it in a different light and not be so judgmental and not be so quick to jump to what are often the wrong conclusions", start: 1165.61, end: 1175.03}
+  - {text: "the documentary short called listen shows a man recording wildlife to capture sounds he hopes will elicit a response from his mother who has memory loss film festivals are keen to showcase the works of short -form storytellers", start: 1176.73, end: 1189.83}
+  - {text: "because often what they offer can be unusual and original ben roberts is the chief executive of the british film institute they can play around and they can be experimental", start: 1189.83, end: 1199.39}
+  - {text: "and people can like try and fail a little bit in shorts as well but it's also a very pure way of articulating your idea or your talent and you allowed a little bit leeway", start: 1199.39, end: 1210.89}
+  - {text: "short -formed filmmaking is also playing a growing role in discovering talent helping to bring new voices into feature filmmaking the merriam scroll he has short", start: 1212.10, end: 1222.06}
+  - {text: "montaxi has become a stepping stone to making a feature film i made it to keep talking to my dad so i was just making it for myself with no intentions no audience in mind", start: 1222.06, end: 1232.38}
+  - {text: "but montaxi has been the one opening doors for my feature as well i didn't plan it that way but it has become that in a very like magical kind of way most in the industry would agree", start: 1232.38, end: 1244.10}
+  - {text: "that short filmmaking has developed to become more than just a calling card for aspiring directors it is now most definitely a form of cinema in its own right", start: 1244.10, end: 1253.54}
+  - {text: "that was tom brook now from short films to an even shorter form of media gaining a lot of fans micro dramas their scripted videos each episode usually just a few minutes long", start: 1253.54, end: 1267.56}
+  - {text: "and shot for vertical viewing on a phone now the long -running australian soap opera neighbors is getting a second life in this format using archive", start: 1267.56, end: 1277.12}
+  - {text: "footage recut with ai it's expected to focus on the character played by margo robbie in one of her early television roles before her hollywood career", start: 1277.12, end: 1286.40}
+  - {text: "but some of the original neighbors actors have complained about their scenes being repurposed in this way we heard more about the controversy and the art", start: 1286.40, end: 1294.88}
+  - {text: "of the micro drama from tv critic scott bryan it's framed for your phone so it's not for a tv set it's essentially maybe sort of two three minute long videos normally having a big cliffhanger at the end", start: 1294.88, end: 1308.28}
+  - {text: "as a way to make you watch the next episode and it's a 25 billion dollar industry it seems to be popular in countries such as china", start: 1308.28, end: 1317.22}
+  - {text: "and in india a lot of them are made by animation and because of the quick turnaround quite a lot of ai is being used but in neighbors case", start: 1317.22, end: 1326.08}
+  - {text: "because it wasn't made originally for the phone and they are basically using classic storylines including one involving margo robbie from like the early noughties they're going to reformat it for phones using ai to go", start: 1326.08, end: 1340.94}
+  - {text: "and do so as you can imagine the involvement of artificial intelligence has had quite a bit of a kick back i mean there already has been some actors from neighbors including stefan denis", start: 1340.94, end: 1351.64}
+  - {text: "who played paul robinson speaking out against this i mean essentially it all comes down to whether something that you had acted for is now being used for a different purpose now", start: 1351.64, end: 1361.76}
+  - {text: "when margo robbie originally uh was at the focus of these storylines back in the noughties and she could have never have imagined that decades on it would be used for a different purpose to make money", start: 1361.76, end: 1372.10}
+  - {text: "so i think there's an ethical question around actors use being used for something else and whether they can profit from it um margo robbie you know has been reached out for comment by various papers", start: 1372.10, end: 1382.82}
+  - {text: "so far has not spoken publicly but i think there's also you know a wider implication if this takes off as a format i mean i", start: 1382.82, end: 1390.32}
+  - {text: "think it could have quite significant consequences for the tv industry i think for the tv productions point of view for freemantle who make this they may say they've not really spoken", start: 1390.32, end: 1400.62}
+  - {text: "that much about it themselves but they may say you know this is a way to create greater more revenue that particularly that name this is no longer got a streaming partner", start: 1400.62, end: 1409.48}
+  - {text: "and it's a way for us to use our archive but also if it does take off and it's using ai and it's just really repackaging", start: 1409.48, end: 1416.32}
+  - {text: "archive i think a lot of actors would say well that's going to put me out out of work if i'm not going to be able to compete with", start: 1416.32, end: 1423.40}
+  - {text: "essentially technology that is going to be packaging things that i've already done or maybe making up new stuff entirely so i think the consequences of this small australian storyline in a quite well known soap could have quite significant consequences that was scott bryan", start: 1424.00, end: 1440.18}
+  - {text: "and that's all from us for now if you want to get in touch you can email us at globalpodcastatvbc .co .uk you can also find", start: 1442.87, end: 1450.11}
+  - {text: "us on x at vbc worldservice use the hashtag global news pod this edition of the global news podcast was mixed by james piper and the", start: 1450.11, end: 1458.87}
+  - {text: "producer was emma joseph the editor is caron martin i'm charlotte gallagher until next time goodbye", start: 1458.87, end: 1464.51}
+---
