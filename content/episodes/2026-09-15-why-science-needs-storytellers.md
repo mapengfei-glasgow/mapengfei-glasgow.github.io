@@ -35,14 +35,14 @@ audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-09-15-why-science-needs-sto
 totalDuration: 3054.7
 sentences:
   - {text: "Thank you, Danielle. She has to say she's delighted because I'm her boss.", start: 1.90, end: 4.78}
-  - {text: "It is entirely contractual.", start: 4.88, end: 6.14}
+  - {text: "It is entirely [[contractual]].", start: 4.88, end: 6.14}
   - {text: "But yes, my name is Kimberly.", start: 6.98, end: 8.04}
-  - {text: "I'm the head of public engagement here at the Royal Society.", start: 8.24, end: 10.00}
-  - {text: "So my team look after this exhibition and I'm delighted that you're all here.", start: 10.14, end: 13.12}
-  - {text: "But one of the things we are here to talk about today is can we just throw facts at you?", start: 13.82, end: 18.40}
+  - {text: "I'm the head of [[public engagement]] here at the Royal Society.", start: 8.24, end: 10.00}
+  - {text: "So my team [[look after this exhibition]] and I'm delighted that you're all here.", start: 10.14, end: 13.12}
+  - {text: "But one of the things we are here to talk about today is can we just [[throw facts at you]]?", start: 13.82, end: 18.40}
   - {text: "And is that enough?", start: 18.48, end: 19.08}
   - {text: "Or do we need to tell a story in order to get people to care?", start: 19.26, end: 21.94}
-  - {text: "But to speak about why science might need storytellers, I'm joined by an incredible panel of people who have been involved in telling stories, whether that's through a museum,", start: 22.70, end: 30.36}
+  - {text: "But to speak about why science might need storytellers, I'm joined by an incredible [[panel]] of people who have been involved in telling stories, whether that's through a museum,", start: 22.70, end: 30.36}
   - {text: "in print, through TV, in broadcast and in lots of different ways.", start: 30.62, end: 33.90}
   - {text: "So I'm going to ask them to introduce themselves because they are better storytellers than I am.", start: 34.00, end: 37.48}
   - {text: "So I'm Roger Highfield.", start: 38.66, end: 39.98}
@@ -51,10 +51,10 @@ sentences:
   - {text: "I used to be at the Daily Telegraph and I've done bits of radio and TV and so on.", start: 47.16, end: 52.04}
   - {text: "So that's me. Hi, I'm Eileen.", start: 52.38, end: 54.48}
   - {text: "I work for the BBC studio science unit where I'm the executive producer on shows like The Secret Genius of Modern Life with Professor Hannah Frye and The Sky at Night,", start: 54.82, end: 64.46}
-  - {text: "our long -running space series which we think might have been going for 70 years and be the longest -running science show in the world.", start: 64.66, end: 71.44}
+  - {text: "our [[long -running space series]] which we think might have been going for 70 years and be the longest -running science show in the world.", start: 64.66, end: 71.44}
   - {text: "Hello, I'm Angie Ahugia.", start: 73.39, end: 75.81}
-  - {text: "I am a science writer and science columnist for the Financial Times and before that I was at the Times newspaper.", start: 76.03, end: 83.75}
-  - {text: "I've also co -authored two books and probably my best known one is Spike about the pandemic which was co -authored with Jeremy Farrow, one of the sage advisors,", start: 84.93, end: 93.95}
+  - {text: "I am a science writer and science [[columnist]] for the Financial Times and before that I was at the Times newspaper.", start: 76.03, end: 83.75}
+  - {text: "I've also co -authored two books and probably my best known one is Spike about the pandemic which was co -authored with Jeremy Farrow, one of the [[sage advisors]],", start: 84.93, end: 93.95}
   - {text: "which was I was very honoured that it was shortlisted for the Royal Society Science Book Prize.", start: 94.39, end: 100.93}
   - {text: "And I haven't really thought actually about storytelling and I'm very grateful to this panel for making me think about what it is that we do.", start: 101.65, end: 108.65}
   - {text: "So thank you. Thank you.", start: 109.15, end: 110.67}
