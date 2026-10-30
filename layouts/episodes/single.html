@@ -64,6 +64,16 @@
     translation; both follow the sentence being played, and the 中文 button in
     the bottom bar shows every Chinese note at once.
   </p>
+
+  {{- /* Link to the editable plain-text copy of this transcript (frontmatter
+         `editPage:`). Only rendered when the field exists, so ordinary
+         episodes are untouched. */}}
+  {{ with .Params.editPage }}
+  <p class="edit-link">
+    <a href="{{ . | relURL }}">✎ 编辑文本 · edit the text</a>
+    <span>— a plain-text copy, one sentence per line, made to be corrected in an editor</span>
+  </p>
+  {{ end }}
 </article>
 
 {{- /* Every episode page carries a comment thread (keyed by its path); silent

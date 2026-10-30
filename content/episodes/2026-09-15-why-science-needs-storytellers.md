@@ -15,6 +15,10 @@ show: "The Royal Society"
 # listing it. Verified after build: all four listings contain zero references.
 robotsNoIndex: true
 hidden: true
+# Plain-text editable copy (also unlisted). Linked at the bottom of this
+# page by layouts/episodes/single.html; the source file is
+# content/edit/why-science-needs-storytellers.md
+editPage: "/edit/why-science-needs-storytellers/"
 build:
   render: always
   list: never

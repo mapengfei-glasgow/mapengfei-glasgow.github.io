@@ -596,3 +596,13 @@ body.modal-open { overflow: hidden; }
 .comments-host { min-height: 1.5rem; }
 /* Keep giscus's own dark/light background from fighting the page background. */
 .comments-host .giscus-frame { width: 100%; border: none; }
+
+/* ---------- Link to the editable plain-text copy of a transcript ---------- */
+.edit-link {
+  margin: 1.1em 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+.edit-link a { color: var(--primary); text-decoration: none; font-weight: 600; }
+.edit-link a:hover { text-decoration: underline; }
+.edit-link span { color: var(--faint); }
