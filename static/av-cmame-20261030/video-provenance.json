@@ -1,0 +1,36 @@
+{
+  "source": "av-four-panel-final-20261030",
+  "simulation_range_s": [
+    5e-06,
+    1.6300050000000001
+  ],
+  "saved_states": 83,
+  "rendered_frames": 241,
+  "fps": 15,
+  "interpolation": "linear between saved displacement and velocity snapshots; no extrapolation",
+  "geometry_motion_scale": 1,
+  "inlet_z": "high",
+  "configuration_label": "Original CMAME AV | dt=5e-6 s | completed run",
+  "flow": "Native solver logged MAC full-plane flow at z=12.6875cm, positive -z; not aperture-only flux",
+  "flow_plane_z_cm": 12.6875,
+  "slice_y_cm": 4.0,
+  "lumen_radius_cm": 1.3,
+  "axis_center_xy_cm": [
+    4.0,
+    4.0
+  ],
+  "velocity_color_limit_cm_s": 200.0,
+  "velocity_color_clipping": true,
+  "cell_marker_groups": {
+    "leaflets": [
+      15,
+      16,
+      18
+    ],
+    "rigid": [
+      5,
+      17
+    ],
+    "chordae": []
+  }
+}
