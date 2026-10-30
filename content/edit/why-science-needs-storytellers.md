@@ -1,5 +1,8 @@
 ---
 title: "Why science needs storytellers — text"
+# Which page this copy belongs to, relative to content/ — read by
+# tools/apply_transcript.py to write the text back.
+original: "episodes/2026-09-15-why-science-needs-storytellers.md"
 # Plain, editable copy of the transcript at
 #   content/episodes/2026-09-15-why-science-needs-storytellers.md
 #

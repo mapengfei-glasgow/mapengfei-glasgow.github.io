@@ -33,6 +33,32 @@ Only the sentence text is highlighted: indices, the 💡 A2 note and the 🀄 Ch
 note of the same sentence are left alone, and the sentence-in-the-notebook (☆)
 stores the plain words, not the markers.
 
+## Marking terms in the editable copy
+
+`content/edit/<name>.md` is a plain-text copy of one transcript: one sentence
+per line, so line N is sentence N. It is the comfortable place to add `[[…]]`
+marks, but the site renders the copy in `content/episodes/<slug>.md`, so the
+marks have to be written back before the page can show them:
+
+```sh
+python3 tools/apply_transcript.py --dry-run   # show the per-line diff first
+python3 tools/apply_transcript.py             # write it back
+python3 tools/build_word_notes.py --dry-run   # then see which terms need notes
+python3 tools/build_word_notes.py             # generate them
+```
+
+`apply_transcript.py` replaces only each sentence's `text`. The `start`, `end`,
+`explain` and `zh` fields are left alone, so timestamps and notes stay aligned.
+It refuses to run when the copy's line count no longer matches the page's
+sentence count — past the first difference every line would be written into the
+wrong sentence — and it is a no-op when nothing changed.
+
+The copy names its page in the front matter:
+
+```yaml
+original: "episodes/2026-09-15-why-science-needs-storytellers.md"
+```
+
 ## On the machine running Qwen
 
 From the root of this repository, using Python 3.9 or newer:

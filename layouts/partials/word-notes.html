@@ -1,11 +1,21 @@
+{{- /* Per-page word notes, keyed by the page's rendered URL (word-notes.js looks
+       the notes up with location.pathname).
+
+       The data file is keyed by the page's SOURCE path (episodes/foo.md), so each
+       entry has to be resolved to a URL. This iterates the data file and calls
+       site.GetPage, instead of iterating site.RegularPages and reading .File.Path.
+
+       Why that matters: `build.list: never` removes a page from every page
+       collection, site.RegularPages included — and that is exactly how unlisted
+       pages are configured here. Walking RegularPages therefore silently dropped
+       their notes: the [[term]] markers still rendered as buttons, but every one
+       of them said "Definition not generated yet." site.GetPage resolves by path
+       and does not care about collections. */ -}}
 {{- $notes := dict -}}
-{{- range site.RegularPages -}}
-  {{- $url := .RelPermalink -}}
-  {{- with .File -}}
-    {{- $entry := index (site.Data.word_notes | default dict) .Path -}}
-    {{- if $entry -}}
-      {{- $notes = merge $notes (dict $url $entry) -}}
-    {{- end -}}
+{{- range $path, $entry := (site.Data.word_notes | default dict) -}}
+  {{- $rel := printf "/%s" (strings.TrimSuffix ".md" $path) -}}
+  {{- with site.GetPage $rel -}}
+    {{- $notes = merge $notes (dict .RelPermalink $entry) -}}
   {{- end -}}
 {{- end -}}
 {{- $resource := resources.FromString "word-notes.json" ($notes | jsonify) | fingerprint -}}
