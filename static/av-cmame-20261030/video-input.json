@@ -1,0 +1,36 @@
+{
+  "active_run": false,
+  "completed_paired_states": 327,
+  "selected_states": 83,
+  "range_s": [
+    5e-06,
+    1.6300050000000001
+  ],
+  "inlet": "z-high; pressure_atrim applied at Nz+1",
+  "outlet": "z-low; Windkessel pressure at index0",
+  "leaflets": [
+    15,
+    16,
+    18
+  ],
+  "rigid": [
+    5,
+    17
+  ],
+  "flow": "Native solver logged full MAC-plane flux at k=int(0.9*(Nz+3))=117, z=(117-1)*dz=12.6875cm, positive -z; not lumen-only through-leaflet measurement",
+  "velocity": "Original VTI cell-center velocities represented as point data, origin -dh/2; y=4cm slice linearly interpolated between adjacent samples",
+  "geometry": "Saved nodal visualization of P2 solution on reference linear tetrahedra; no magnification",
+  "J": "Linear visualization tetra volume ratio, not all P2 quadrature points",
+  "pressure": "Logged actual inlet/outlet boundary pressures /1333.22368421, mmHg",
+  "trace_samples": 326002,
+  "geometry_stride": 4,
+  "first_J_range": [
+    0.9999133082505525,
+    1.0000467355797034
+  ],
+  "last_J_range": [
+    -65.49613160314605,
+    5.951946051519609
+  ],
+  "nonpositive_visual_J_frames": 81
+}

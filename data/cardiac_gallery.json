@@ -1,5 +1,15 @@
 [
   {
+    "id": "av-cmame-full",
+    "title": "Original CMAME AV: completed 1.635 s run",
+    "group": "aortic-valve",
+    "src": "/av-cmame-20261030/av-four-panel.mp4",
+    "poster": "/av-cmame-20261030/opening.png",
+    "study": "/posts/av-cmame-reproduction-20261030/",
+    "description": "Inlet/outlet leaflet views, axial velocity and synchronized native pressure/flow traces. Saved motion reaches 1.630005 s.",
+    "note": "80 × 80 × 128 · dt=5e-6 s · RTX A6000. Exit 0; negative visualization-cell volume ratios remain. Full P2 quadrature J is unverified."
+  },
+  {
     "id": "lv-views3d",
     "title": "Left-heart motion in 3D",
     "group": "left-heart",

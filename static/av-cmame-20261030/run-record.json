@@ -1,0 +1,42 @@
+{
+  "source_archive": "cmame-v100-2 2.zip",
+  "archive_sha256": "2200fab8549c79c0921486b4ee6e16e5b185000cef2126c7c4d6378cee6655f0",
+  "binary_sha256": "400d78d8184d4e1b9b130e0590e10eee1023d04afe316561e37ca3493fbdb8e9",
+  "GPU": "NVIDIA RTX A6000",
+  "cuda_arch": 86,
+  "CUDA": "12.4",
+  "Kokkos": "4.3.0",
+  "entry": "gfem_main_av",
+  "started_utc": "2026-10-29T20:15:42Z",
+  "finished_utc": "2026-10-30T03:33:06Z",
+  "elapsed_wall_s": 26244,
+  "exit_code": 0,
+  "Nt": 327000,
+  "target_T_s": 1.635,
+  "dt_s": 5e-06,
+  "actual_grid": [
+    80,
+    80,
+    128
+  ],
+  "domain_cm": [
+    8,
+    8,
+    14
+  ],
+  "reference_linear_nodes": 77530,
+  "reference_tetrahedra": 233216,
+  "solid_order": "P2; exported on original linear reference mesh",
+  "beta": 500000000.0,
+  "material_beta_s": 5000000.0,
+  "config_kappa": 5000000.0,
+  "last_saved_pair_s": 1.6300050000000001,
+  "complete_saved_pairs": 327,
+  "selected_animation_states": 83,
+  "negative_J_vis_selected_states": 81,
+  "full_P2_quadrature_J_checked": false,
+  "flux_plane_z_cm": 12.6875,
+  "flux_orientation": "positive -z",
+  "flux_scope": "native full MAC plane, not aperture-only valve flux",
+  "8383_scope": "RTX 4090 smoke 0.01 s only, not this full run"
+}

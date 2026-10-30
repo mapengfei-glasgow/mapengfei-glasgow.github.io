@@ -44,6 +44,11 @@
     ],
     "extra": [
       {
+        "title": "Original CMAME aortic valve: full-run reproduction",
+        "url": "/posts/av-cmame-reproduction-20261030/",
+        "description": "Completed 1.635 s run, four-panel video, portable build process and numerical-quality limits; a separate AV baseline for FDM migration."
+      },
+      {
         "title": "Passive rim and gap mask",
         "url": "/posts/mv-passive-rim-gap-mask/",
         "description": "Details of the treatment outside the immersed tube.",

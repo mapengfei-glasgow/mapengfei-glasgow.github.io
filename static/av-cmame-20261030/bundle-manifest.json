@@ -1,0 +1,590 @@
+{
+  "format": 1,
+  "created_date": "2026-10-30",
+  "files": {
+    "README.md": {
+      "sha256": "f0965ab867cd650822d6483e99497c305905aa4546ac034e8c6b39b2a3530182",
+      "bytes": 6452
+    },
+    "config/full.template.json": {
+      "sha256": "d305cf31a36b27f148adb0bda250339eec77184386fd5968f1cce92ea7aaf802",
+      "bytes": 666
+    },
+    "config/smoke.template.json": {
+      "sha256": "f35e5cee3d55f4be561faf3f84d467f158192b73eb3c740834f56d26aab7c845",
+      "bytes": 664
+    },
+    "docs/TROUBLESHOOTING.md": {
+      "sha256": "8db5427e088fe8df08a5af578daee85c0fc094f91f6e8890a8adc97ed6be63d9",
+      "bytes": 3857
+    },
+    "docs/VALIDATED_8383.json": {
+      "sha256": "368b9dbcd500d3cd32ea1fe0956e035660b049098751c72aa9ca4939fe3fff01",
+      "bytes": 1449
+    },
+    "docs/dependencies-8383.json": {
+      "sha256": "768a74bb590df60a71342fbc869d4567a664e93ef6cfc0ce324d6d18c8e25a4d",
+      "bytes": 34492
+    },
+    "docs/fluid_validation_8383.json": {
+      "sha256": "71c39c78d8aab230e6004b6bac9a700ee290f0777ad90194d50d256f35abc116",
+      "bytes": 1001
+    },
+    "docs/numerical_core_unchanged.json": {
+      "sha256": "2c0bcae09de01e7de1463751cbe8a08c19072757d695df152a82f97e88345383",
+      "bytes": 541
+    },
+    "docs/portability.patch": {
+      "sha256": "7405f820bb695eedb50183d3527a99492ce234a50a1aa841d498c2d1d639bd72",
+      "bytes": 7639
+    },
+    "docs/provenance.json": {
+      "sha256": "e4507ac94f0cee6ec389e946ab246152b3b2410077cc33e129f587ffb2272ee6",
+      "bytes": 2836
+    },
+    "docs/solid_validation_8383.json": {
+      "sha256": "c572dd76ca634c183691915ec1c33bb49b8dbac0c5e9e216201aaaebe2ba5ea0",
+      "bytes": 1309
+    },
+    "inputs/mesh/boundaries_connected.xml": {
+      "sha256": "0b20dd0a6c08d7f35c06ded8eb4ddceddbf9f3779814b171955327fe08ad4407",
+      "bytes": 58326210
+    },
+    "inputs/mesh/fibers_0_connected.xml": {
+      "sha256": "a621c1f53c0a5b5fbf0d86c30b2ca9412f5b936ed6dfbb8837c74ba3330ae926",
+      "bytes": 16236221
+    },
+    "inputs/mesh/fibers_1_connected.xml": {
+      "sha256": "f75681c3e8590042b58f20bc897a42034296f5f33414ee3343f53ce33abfa5d9",
+      "bytes": 16223731
+    },
+    "inputs/mesh/fibers_2_connected.xml": {
+      "sha256": "04b1c344476abd3fa2507ac5fe474e1a31e6ca1157c9bf2af4f8015a6a371ec6",
+      "bytes": 16227897
+    },
+    "inputs/mesh/materials_connected.xml": {
+      "sha256": "e34a969d53a2d5801446a44742a1c102d28aaad3acc549dd7190e9615963841a",
+      "bytes": 14755824
+    },
+    "inputs/mesh/mesh_connected_scale.h5": {
+      "sha256": "782d0e598e5c9de41dcc276fc5599cdf929bb35caa3f0db5afd589a95aa1183f",
+      "bytes": 5597688
+    },
+    "inputs/mesh/mesh_connected_scale.xdmf": {
+      "sha256": "87ea369242462d551be39886b00c02b3b11be5279b8c8064bed3fa8fd9da59be",
+      "bytes": 603
+    },
+    "inputs/pressure.txt": {
+      "sha256": "b0e777c3ed8f8ee7e2e661ab6134524262b19a3b24123ab6175992f58715f7fa",
+      "bytes": 5571
+    },
+    "scripts/build.sh": {
+      "sha256": "35967f26fd8754725414002afe5eb491ecb9d80a3fc8e09cdfd7b322c64d833a",
+      "bytes": 1105
+    },
+    "scripts/env_8383.sh": {
+      "sha256": "015dd442dbe5c4f34ee2559967b891d7470958183541efe191b823c4f360cd7e",
+      "bytes": 1040
+    },
+    "scripts/install_deps.sh": {
+      "sha256": "88607ab2b8520b546df0e6409156f56c5e366528a607ea2ef33b7091fe33e884",
+      "bytes": 1737
+    },
+    "scripts/make_config.py": {
+      "sha256": "aaf1669a1426e610eff1b43d398fddcbe26709f7c32068b6b027e01a4d468dfc",
+      "bytes": 730
+    },
+    "scripts/run.sh": {
+      "sha256": "19b769e214699265a9598768832a766b066f9d62b1aa045da95490bf42507305",
+      "bytes": 1144
+    },
+    "scripts/verify_bundle.py": {
+      "sha256": "7c126125d6178df597cc4bd1f3f9736872fcb400917cb810d6844297d6d03fd8",
+      "bytes": 790
+    },
+    "scripts/verify_solid.py": {
+      "sha256": "412a8dcef0daf6265c7559c0a3ae7bea738e16e1ca1d485d468f549f6fcf34bd",
+      "bytes": 1292
+    },
+    "scripts/verify_vti.py": {
+      "sha256": "95a69f0d5bccd98d43eec3c18127787408403d915d356fa5e592c54b416c1ff3",
+      "bytes": 828
+    },
+    "source/CMakeLists.txt": {
+      "sha256": "c714c483f9fe4082fa86959dc31d43842ebc4eed0595afcc077ea633d83bcfbd",
+      "bytes": 2224
+    },
+    "source/demos/demo_3392.json": {
+      "sha256": "8441b96aaffe989f2c5451750f2f0219895f42b6e3fd134272f7308ad7f9cf35",
+      "bytes": 708
+    },
+    "source/demos/demo_3392.py": {
+      "sha256": "dffa86c15d712c4fcc16cae5571229de7a96c3e64326703c8e17f94aab45f606",
+      "bytes": 2217
+    },
+    "source/readme.md": {
+      "sha256": "eda4378fc0b6e3a73a099dd5121eccad3465bebaf1391fe4f76cd3681187fe5e",
+      "bytes": 454
+    },
+    "source/spack.yaml": {
+      "sha256": "82c252b43fc2d0f55cf766c1da6733460aaca0f9908ac25b1a2f44c73c3f7153",
+      "bytes": 1083
+    },
+    "source/src/CMakeLists.txt": {
+      "sha256": "c8ed07c3260c056188ad003d78b33fd51c84eb39a0ebf57eb84c5080ae7818e1",
+      "bytes": 2638
+    },
+    "source/src/common/VTUIO.h": {
+      "sha256": "bbbdf7df854c52ebdc1ba8f93e280509c3540fdc12461edd664ab93c22066399",
+      "bytes": 6144
+    },
+    "source/src/common/config.h": {
+      "sha256": "215a97d4a0e5c524486375e15ce55e7796a4a9e82d02859aee6fd8ac23731a7a",
+      "bytes": 478
+    },
+    "source/src/common/log/log.h": {
+      "sha256": "5695a8dc1a08138406a7d706cf91dde1974c794d5926bcf37ac052c470da65f0",
+      "bytes": 2544
+    },
+    "source/src/common/log/timer.h": {
+      "sha256": "9d51b2497ea70bf26d8140054ea22536e91abef30d302f252421ec441253e245",
+      "bytes": 3456
+    },
+    "source/src/common/memory/Singleton.h": {
+      "sha256": "2ad84505a73d9276f568eb638933289e8a7a554674c8bef586a5177b0e444250",
+      "bytes": 1542
+    },
+    "source/src/common/parameters.h": {
+      "sha256": "3c34ac0d8bc0d48a67aba92ea42aee29fb1ec1604252b0f93678e628c92b9a53",
+      "bytes": 3959
+    },
+    "source/src/common/swanlab.cpp": {
+      "sha256": "06feed576142086eec81e642deb30c289e2919b7b9e5ddbd7303e0bb707d796d",
+      "bytes": 344
+    },
+    "source/src/common/swanlab.h": {
+      "sha256": "79a27835b28acd7c3e9744c7094f970eafc36dd7f9876bae897550490104a922",
+      "bytes": 4730
+    },
+    "source/src/empty.cpp": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "source/src/fem/BasicMesh.cpp": {
+      "sha256": "4113ccda1253fd374bbf0dd25bbd0d763839f9510ffb80e83faaa5957662f814",
+      "bytes": 27
+    },
+    "source/src/fem/CMakeLists.txt": {
+      "sha256": "80990a1a8e794613e9fb77cb49367a3325a228fffa2ef1ffc8845f7fd7682fc4",
+      "bytes": 645
+    },
+    "source/src/fem/PolySpace.cpp": {
+      "sha256": "6ecfbe65cb87f6b16fd3d9741e36ecf7ab0eb884b01826ac2a6476a3edc4c184",
+      "bytes": 415
+    },
+    "source/src/fem/Tetrahedron.cpp": {
+      "sha256": "67681fcc41533ad3107e13383538b1e6c1695c690d69e5834e1bab0f11beb9d0",
+      "bytes": 51
+    },
+    "source/src/fem/fem.h": {
+      "sha256": "990f3d96b2f648f65475eda73463bbd90bce2dfd325150180d83c11247ab40a4",
+      "bytes": 54
+    },
+    "source/src/fem/include/fem/BasicMesh.h": {
+      "sha256": "7b2819cee60185a2c3f245ff76197858070acd1e5ceb21a10c3784ac1f9826f3",
+      "bytes": 19207
+    },
+    "source/src/fem/include/fem/PolySpace.h": {
+      "sha256": "9c3b042f09017b6312dbc7cb3086b54d88297745479c65969bab686b8e7a0ea6",
+      "bytes": 7048
+    },
+    "source/src/fem/include/fem/QuadratureRules.h": {
+      "sha256": "4501d2b2c98d523a827b3a80681e9e76a5476b341a1603b46f732329a0c46480",
+      "bytes": 2944
+    },
+    "source/src/fem/include/fem/QuadratureRulesData.h": {
+      "sha256": "d5a7100fb90c8e8a56e218c98514b06e22693fc932444d60bc2381af876ab988",
+      "bytes": 96645
+    },
+    "source/src/fem/include/fem/Tetrahedron.h": {
+      "sha256": "59bb123aa0044dc1fac55f0ef3ab7735e7d1b00610fe310a2b23ad3ccd4523cb",
+      "bytes": 14065
+    },
+    "source/src/fem/include/fem/a.cpp": {
+      "sha256": "88c21f7247bf3fdbb29419d661b875fb1ca62c265928fbb72897b7d7ed6d3be5",
+      "bytes": 293
+    },
+    "source/src/fem/include/fem/a.py": {
+      "sha256": "028e5863958de885e6a9c0a2c51b97b16d45e3b269257fbe2138e9443e2a21dd",
+      "bytes": 462
+    },
+    "source/src/fem/include/fem/algebra.h": {
+      "sha256": "dcc5e7e53e143faab499f22b716215ec36b8e7a03f4ce8443e1211c862679126",
+      "bytes": 2000
+    },
+    "source/src/fem/include/fem/constituitive.h": {
+      "sha256": "bfcb556f3de437a4bbd16ec6a3cf259136e3e57856aafac2b301622cb4c30cf9",
+      "bytes": 9066
+    },
+    "source/src/fem/include/fem/generate_quadrature_rules.py": {
+      "sha256": "3027f501fc0ba2b3b7029efc916d98e25fe1d640cddf08ef804136ad95d48c84",
+      "bytes": 4080
+    },
+    "source/src/fem/include/fem/operators.h": {
+      "sha256": "ed533e4f65e4359216808f29aea173d00a03bfeac619cd0789f567058285c079",
+      "bytes": 4095
+    },
+    "source/src/fem/test_fem_1.cpp": {
+      "sha256": "1cabbded06f5bbdfaa2003e2a5ef17e5a9b046d0b228a0c990d324c4b198813f",
+      "bytes": 2774
+    },
+    "source/src/fem/test_fem_2.cpp": {
+      "sha256": "7989378c436b202f82cebfb7bb644256a88f1fc7989d64ac2590ded8758831bf",
+      "bytes": 3657
+    },
+    "source/src/helper_fem/BuildDofmap.cpp": {
+      "sha256": "47db6ca1babad0ce062601c39dc77b54209982d23d88d69f7b076153d2c6e1c1",
+      "bytes": 5905
+    },
+    "source/src/helper_fem/CMakeLists.txt": {
+      "sha256": "64d5d262dfb3f6bd5f1e88cab76fe37ee09e8d2a9d8063f1fc9feed0c91100f2",
+      "bytes": 1552
+    },
+    "source/src/helper_fem/LagrangeFirst.ufl": {
+      "sha256": "fceb03719c13edf396bf7df93c660aa9434780dff8e957d67fad5264e9ba9249",
+      "bytes": 125
+    },
+    "source/src/helper_fem/LagrangeSecond.ufl": {
+      "sha256": "b192bd28bbc9e0f55d07c8c3466756e5ae989c247116c5f9daf72e266cc2c6ef",
+      "bytes": 127
+    },
+    "source/src/helper_fem/dolfin_test_1.cpp": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "source/src/helper_fem/include/LagrangeFirst.h": {
+      "sha256": "7ea51be77838466851dbd6e999259b53b4aca9a4783373e9e7ea5bcdcc969be3",
+      "bytes": 166731
+    },
+    "source/src/helper_fem/include/LagrangeSecond.h": {
+      "sha256": "d45245eb616b24e1dbc60012c0e2dca7f00ec19020f21a90f817df98526f3fbe",
+      "bytes": 553748
+    },
+    "source/src/helper_fem/include/helper_fem/FunctionSpace.h": {
+      "sha256": "0461778b8a0e0ead7f6f22a7e47dd987e5a3656b9a4f8aa9d9ffb38da079c9fe",
+      "bytes": 553
+    },
+    "source/src/helper_fem/include/helper_fem/helper_fem.h": {
+      "sha256": "545b161ce3e97663f9138b839e4166a8f535883834356ccec186c1f46e4c0f26",
+      "bytes": 672
+    },
+    "source/src/ibm/ImmersedBoundaryMethod3D.h": {
+      "sha256": "53ff94c451b1cf5833c58d7e3e1f80996a1385efa66e170e13de8de225730779",
+      "bytes": 17597
+    },
+    "source/src/ibm/PvdWriter.h": {
+      "sha256": "08bc1c3e8e1549c5a1abc46eff30a54171a60e1b807385e1cb7061f10c2182a1",
+      "bytes": 3182
+    },
+    "source/src/ibm/VTIWriter.h": {
+      "sha256": "9ebe617593c18c09b68bd78f83306a2f07a8091ca9e1533690a441cdf699eadd",
+      "bytes": 9486
+    },
+    "source/src/ibm/XDMFWriter.h": {
+      "sha256": "e745b00aa9292a0e49261c9fdce5db23e06e07dbef5516b90c5289906cbe0f50",
+      "bytes": 2455
+    },
+    "source/src/ibm/base64.cpp": {
+      "sha256": "b667ef4fd6cdc70ece7438053feba9d42371df1146f64a0caa0c5e881a7d71f6",
+      "bytes": 4117
+    },
+    "source/src/ibm/base64.h": {
+      "sha256": "0478e29c3cce0c7d948accb3ad60e8415c326d47a972d76cac5ac8fcf8c9389b",
+      "bytes": 135
+    },
+    "source/src/ibm/physiology.h": {
+      "sha256": "e341443dc21300df9c7ac62af9331a1160c458c9da2abb3278a9f4e27e84714a",
+      "bytes": 3676
+    },
+    "source/src/libgpu/CMakeLists.txt": {
+      "sha256": "3e3cd357cdc34db5af5f27c7499e72cf8ee5f61f03b954873b12d2ccf2bfcd45",
+      "bytes": 1218
+    },
+    "source/src/libgpu/GPUMesh.h": {
+      "sha256": "0d1115b6fd358b47769431b175707bf5067a5f49453cfa54867498f1e726229b",
+      "bytes": 2999
+    },
+    "source/src/libgpu/main.cu": {
+      "sha256": "7ebc247c42b28a9653d1f58051d502313e68b01f1b741e238f6827eae035c0ab",
+      "bytes": 38333
+    },
+    "source/src/libgpu/parameters/NEOHOOKEAN.h": {
+      "sha256": "11bd6bb11d6fbc301ad2ed6c2194462c716ce207ef082801cdb916a8c781f3f3",
+      "bytes": 718
+    },
+    "source/src/libgpu/samples/exception.h": {
+      "sha256": "ad043023a652bf3610671aad88237383c7bf2e17c66f8da5830d1d668fe7bbe7",
+      "bytes": 6168
+    },
+    "source/src/libgpu/samples/helper_cuda.h": {
+      "sha256": "a56b86b35a21272dbfe857501fca383f1c8c7442069d35901943cd39572fbf6e",
+      "bytes": 27832
+    },
+    "source/src/libgpu/samples/helper_functions.h": {
+      "sha256": "5c991d94a483bf8847d2e5b6a78a4c97b9ba6eafe2332fc9cf84fe5a06359644",
+      "bytes": 2358
+    },
+    "source/src/libgpu/samples/helper_image.h": {
+      "sha256": "f8a327886bd76d0608c34ac7d4d32f94b3a63735548260c8e9abc245e5ff616b",
+      "bytes": 28739
+    },
+    "source/src/libgpu/samples/helper_string.h": {
+      "sha256": "616ac8b2588a6e73aed207f85faf0da5e617404390df1790f6637b1042dbcc94",
+      "bytes": 14875
+    },
+    "source/src/libgpu/samples/helper_timer.h": {
+      "sha256": "af89df24b51ebb676fb2cc79f2d389388c255adb0be6f47f4052395caa6f8278",
+      "bytes": 16060
+    },
+    "source/src/libgpu/utilities.cu": {
+      "sha256": "d9e66794335342ed131b5f01436179e8b8042db348359df36d814cdac77c331e",
+      "bytes": 1846
+    },
+    "source/src/libgpu/utilities.h": {
+      "sha256": "36ac944417b86cd004fb15815fc1fa131fa558def7453f68f36fe2033830ccfc",
+      "bytes": 846
+    },
+    "source/src/libkokkos/CMakeLists.txt": {
+      "sha256": "49b44a5e500695820144d61164b6c9bf29b512a3182a923faadb8dde58a13495",
+      "bytes": 2764
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/MultiArray.h": {
+      "sha256": "72bc6abd542c1b3a9163e9b280697e6caf7eb70b8e759d292323b2671e4c2e34",
+      "bytes": 5549
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/Pressure3D_kokkos.h": {
+      "sha256": "749de804c9ee1a635e987949f137627dca29a5bf4e1317827b85bc2b0b5af08a",
+      "bytes": 16438
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/Projection3D_kokkos.h": {
+      "sha256": "540114c8ab886e896fafee70c1e2faae7101844f3c4b3e2da1068d5d240b6986",
+      "bytes": 13427
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/StokesFlow3D_kokkos.cpp": {
+      "sha256": "ab0ddc9acc61cc0376d428fbec8e2292ebb0ccd8c24c60b3e9e9bbba9d452581",
+      "bytes": 342
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/StokesFlow3D_kokkos.h": {
+      "sha256": "dc9f94c729b9eba167987997c26939c4b108952702a2ccdece2f605b5c7b1ba0",
+      "bytes": 19214
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/VelocityU3D_kokkos.h": {
+      "sha256": "b45d25925a1d77915aa4ade207cd3e3d43a112414732d191072cf0f21c152b83",
+      "bytes": 20040
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/VelocityV3D_kokkos.h": {
+      "sha256": "72931d0745172fc80a1abcea8261fed03ad55a757e2bb35d37890b1bbfe18131",
+      "bytes": 20806
+    },
+    "source/src/libkokkos/StokesFlow3D/Kokkos/VelocityW3D_kokkos.h": {
+      "sha256": "a2eeba5b215692e33f7060a637dcecd0e8c7c08257252cdbd064c7668ae9b0ec",
+      "bytes": 20623
+    },
+    "source/src/libkokkos/StokesFlow3D/LidDriven.h": {
+      "sha256": "df716c3f294174caa8bed86a77649a2822ed385d399613a210870f02736df5bf",
+      "bytes": 1799
+    },
+    "source/src/libkokkos/StokesFlow3D/Multigrid/Multigrid.h": {
+      "sha256": "4fbbeea94b39acb695d4617beca729821c1cb91447fe7229c1f634733ce0af28",
+      "bytes": 16711
+    },
+    "source/src/libkokkos/StokesFlow3D/Multigrid/MultigridP.h": {
+      "sha256": "3b2a987086e9865da5f857ad55634238e6fcabafa46758d67621e81aa2d7ad13",
+      "bytes": 16727
+    },
+    "source/src/libkokkos/StokesFlow3D/Multigrid/MultigridU.h": {
+      "sha256": "072e7ef2ae98d7e72a186582f437f4963df211d6bbc3c4bcb9280a1721da21ff",
+      "bytes": 2249
+    },
+    "source/src/libkokkos/StokesFlow3D/Multigrid/MultigridV.h": {
+      "sha256": "6f0f55c52f35fb6e6574b4a2bb5c0c5b610142ce28b59b06cd165cae6d9b7b61",
+      "bytes": 474
+    },
+    "source/src/libkokkos/StokesFlow3D/Multigrid/MultigridW.h": {
+      "sha256": "9ff297d94912028451f516712284506037ef8d3e568d3e90ad111cdd4cb018d8",
+      "bytes": 474
+    },
+    "source/src/libkokkos/StokesFlow3D/NavierStokesDemo.h": {
+      "sha256": "eb274e45d792fe36eb2066e50ddef4aa0b52e945709d36251b29b7e0d0b017ad",
+      "bytes": 23773
+    },
+    "source/src/libkokkos/StokesFlow3D/NavierStokesSolution3D.h": {
+      "sha256": "794c1a31b0b8ca735bf40799925278d92a15d7f665872065d5bf5b66f8a9505d",
+      "bytes": 3626
+    },
+    "source/src/libkokkos/StokesFlow3D/Pressure3D.h": {
+      "sha256": "c542c7580854e7f33c59cb18ff3b9a875f70cc03de96a66a9aa3194fb82acf2f",
+      "bytes": 11397
+    },
+    "source/src/libkokkos/StokesFlow3D/Projection3D.h": {
+      "sha256": "333bad17553fc58897defd8d4c7643878b5b6fa261c74e1dd2515f176158fbd8",
+      "bytes": 6802
+    },
+    "source/src/libkokkos/StokesFlow3D/StaticFlow.h": {
+      "sha256": "78b9329dbea99ea40c1a4e1ad017a34f606cb8bd7ba751c94c10a32be4c09abe",
+      "bytes": 2025
+    },
+    "source/src/libkokkos/StokesFlow3D/StokesFlow3D.h": {
+      "sha256": "24a710ba63c365b2681311bd3d0d4f6ce2cf60103fc1bab7a246716954c036ee",
+      "bytes": 18273
+    },
+    "source/src/libkokkos/StokesFlow3D/StokesSolver_1.cpp": {
+      "sha256": "86e3897c325b67a5f03fd494e4dcc7915cb0c2970cd33bfbed3d655d02ed2608",
+      "bytes": 1783
+    },
+    "source/src/libkokkos/StokesFlow3D/StokesSolver_1.h": {
+      "sha256": "5aa0091f49a6600f6b5ca007faa26d2703e30521dbe851fe94b4ebca4cb6efdd",
+      "bytes": 1290
+    },
+    "source/src/libkokkos/StokesFlow3D/TubeFlow copy.h": {
+      "sha256": "0f4bcd01585be0414c22b15c604435fcc9d1cec56e507c2d6f6a0491f2426d0c",
+      "bytes": 6713
+    },
+    "source/src/libkokkos/StokesFlow3D/TubeFlow.h": {
+      "sha256": "db852fdd14e5cd2439480c51d6d62a254a2a0d43bf0da8d61b4f4b1c81b078c2",
+      "bytes": 11343
+    },
+    "source/src/libkokkos/StokesFlow3D/TubeFlowStatic.h": {
+      "sha256": "47a0dffec5cee146aad0ce88f72e9bf4211b1bb0faa086f45c20c7717a26d8d7",
+      "bytes": 1854
+    },
+    "source/src/libkokkos/StokesFlow3D/VelocityU3D.h": {
+      "sha256": "54b59a0a824ee2b07342b57243ee194810bdd81284e724de9fb499cb227d0234",
+      "bytes": 12164
+    },
+    "source/src/libkokkos/StokesFlow3D/VelocityV3D.h": {
+      "sha256": "a974a97aa76c491548c55df294f5018e0e4eda5b554cb0efda96dbb90f1dcf68",
+      "bytes": 14092
+    },
+    "source/src/libkokkos/StokesFlow3D/VelocityW3D.h": {
+      "sha256": "c95496e0481de0348f2ca277fd2b05dc4b6bc76744e16070e444aa1ded3bdc8e",
+      "bytes": 13224
+    },
+    "source/src/libkokkos/StokesFlow3D/some_headers.h": {
+      "sha256": "a7fb41c7609fe870a8e942d0af71e242559f57231cdac719d7fe77dd1661aaec",
+      "bytes": 6316
+    },
+    "source/src/libkokkos/a.cpp": {
+      "sha256": "7bf1553e3f78e71e61fe68f0cfe33b14bc7135782b5316808b6e6804af1f912f",
+      "bytes": 196
+    },
+    "source/src/libkokkos/advection/CMakeLists.txt": {
+      "sha256": "d2f79b4da15015a4eeb4c4e083c373ffe8cd7b1dc084e4f34b8cb3b9ecb56ecb",
+      "bytes": 1039
+    },
+    "source/src/libkokkos/advection/examples/include/helper_cuda.h": {
+      "sha256": "b344c879319bf71c319ccea8b5f8ffce2d6a35f9737bb13575aa1b28b9265055",
+      "bytes": 28729
+    },
+    "source/src/libkokkos/advection/examples/include/helper_math.h": {
+      "sha256": "fa5c5d375493fefc29566d49a63af73eaea5c0c5f6e3d88d25d8299e33c6d872",
+      "bytes": 37976
+    },
+    "source/src/libkokkos/advection/examples/include/helper_string.h": {
+      "sha256": "558bf6fdc616a2db30f2aed27c32e140879d631f74cee3544b510f509f83201d",
+      "bytes": 16506
+    },
+    "source/src/libkokkos/advection/examples/include/ticktock.h": {
+      "sha256": "24b1c77f70a476633f98e2c41b8c02b809e530c336ad248b8a3a8a87d534cf9c",
+      "bytes": 569
+    },
+    "source/src/libkokkos/advection/include/advection/CudaArray.cuh": {
+      "sha256": "d7ebc0353b3d7ef3364f90daddd09422941e81ce05ea9aff93962d7876f453f5",
+      "bytes": 6007
+    },
+    "source/src/libkokkos/advection/include/advection/LinearAdvection.h": {
+      "sha256": "167d1d9d84ff4610124a53633be63b1946a8a62d00d1adfe44dfe46863d18b34",
+      "bytes": 5015
+    },
+    "source/src/libkokkos/advection/include/advection.h": {
+      "sha256": "c73eb761cf90f5851a8b9e13f2999e513b9f96f9d77fa2be654fcfb94235a2fa",
+      "bytes": 104
+    },
+    "source/src/libkokkos/advection/readme.md": {
+      "sha256": "66aec5466e664477e96079690ba1be6a30a87bf11eb8339db6beeaf0b5d75788",
+      "bytes": 667
+    },
+    "source/src/libkokkos/advection/src/LinearAdvection.cu": {
+      "sha256": "a27cae81d211da0b83ff6989f3a21dfa12178e0dbf2b4d1d719f189adb1f4564",
+      "bytes": 5240
+    },
+    "source/src/libkokkos/functional.cu": {
+      "sha256": "b4e2af0feb392fbf32da2a58b81f02831fee641a8cf87f4261c6ccb92473689c",
+      "bytes": 2541
+    },
+    "source/src/libkokkos/functional.h": {
+      "sha256": "41682ed06173c5ce0c410bbf23e937f67bf4053e4dc324208568b20595580cb3",
+      "bytes": 662
+    },
+    "source/src/libkokkos/include/.gitkeep": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "source/src/libkokkos/lei/BackgroundMesh3D.h": {
+      "sha256": "2d6f951dc61e23130b24e3c6f877d429525f5b486c6fe43a619f00945ce4aa95",
+      "bytes": 4501
+    },
+    "source/src/libkokkos/lei/DistributionInterpolation3D.h": {
+      "sha256": "f89de1fa3df590de4412ee45538e9d460a1e39ce5f48ebc65b367785a390c84a",
+      "bytes": 15684
+    },
+    "source/src/libkokkos/lei/MeshFunctionManager.h": {
+      "sha256": "d23e7e07cf1f73a0e078d847ae1c25e362508c4290896e2df2f46153896e3142",
+      "bytes": 3960
+    },
+    "source/src/libkokkos/lei/MeshInteraction3D.cpp": {
+      "sha256": "dfdf2aa583f4dfd945c9e902247a5acfe3f16d77c9ae42039bb505a35abd7ade",
+      "bytes": 10569
+    },
+    "source/src/libkokkos/lei/MeshInteraction3D.h": {
+      "sha256": "12bf23abb01c33989429cf063a785d56519a5453b86b785792f3b4b296b5afb7",
+      "bytes": 2093
+    },
+    "source/src/libkokkos/lei/kernels.h": {
+      "sha256": "7047ba281c9575d084918eb70f07d21aa1bdf9e8b122bfbba4ee368a4f76fd2a",
+      "bytes": 1085
+    },
+    "source/src/libkokkos/libkokkos.h": {
+      "sha256": "d8bc7054f6ad253fe8c68a73bf73c1cd297ea523313be7b394ad1c621a405566",
+      "bytes": 264
+    },
+    "source/src/main_av.cpp": {
+      "sha256": "705b09e651165b81a7a00b0889fdcf5a875a0db0e78ff24bd5889ceb61b7a9e8",
+      "bytes": 4697
+    },
+    "source/src/main_facet.cpp": {
+      "sha256": "95e3437ed38a778018faf562d80bd62dbe40c0a095405a9302787c269bd206b3",
+      "bytes": 5371
+    },
+    "source/src/main_fem.cpp": {
+      "sha256": "02aa8f3f01374f7d067c7a49a0d9f263540c06aef0ed0c264781bea0159d1270",
+      "bytes": 4170
+    },
+    "source/src/main_lei.cpp": {
+      "sha256": "ea4ed6388e17dbe0c37ada81dc5095067cb288d089efb3b7c45a072e907d2896",
+      "bytes": 4270
+    },
+    "source/src/main_mv.cpp": {
+      "sha256": "232a9b3a2af5bbe117587a8b95d9231ea443e882e072df58bb0cb907237c10b1",
+      "bytes": 4210
+    },
+    "source/src/main_wh.cpp": {
+      "sha256": "dfef2e0595017eeb09e41a3f7ff6ad708e9781ccb2bb68a7313687a4e543212e",
+      "bytes": 4580
+    },
+    "source/src/mitral_valve.h": {
+      "sha256": "ce45fb23d8e8fe7c798082c5ac0708354153c03ee50efad405e3f383105cd1ad",
+      "bytes": 3779
+    }
+  }
+}
