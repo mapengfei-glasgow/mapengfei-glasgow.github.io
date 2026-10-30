@@ -101,6 +101,18 @@ html[data-vocab="on"] ul#menu li:has(a[href$="/words/"]) { display: initial; }
   margin: 0 0 1.3em;
 }
 .meta .dot { color: var(--faint); }
+/* Attribution line on an unlisted transcript of someone else's recording
+   (frontmatter `source:`), e.g. the Royal Society lecture. */
+.source-note {
+  margin: -0.8em 0 1.4em;
+  padding-left: 0.8em;
+  border-left: 3px solid var(--border);
+  font-size: 0.82rem;
+  line-height: 1.65;
+  color: var(--muted);
+}
+.source-note a { color: var(--primary); text-decoration: none; }
+.source-note a:hover { text-decoration: underline; }
 .meta .show {
   display: inline-flex;
   align-items: center;

@@ -26,6 +26,17 @@
     <span>{{ len .Params.sentences }} sentences</span>
   </p>
 
+  {{- /* Attribution for an unlisted transcript of something someone else made
+         (see `source:` in the frontmatter). Only rendered when the field
+         exists, so ordinary episodes are unaffected. */}}
+  {{ with .Params.source }}
+  <p class="source-note">
+    Transcript of <a href="{{ .url }}" target="_blank" rel="noopener nofollow">{{ .title }}</a>
+    by {{ .channel }}. The audio is a re-encode so that sentences can be played
+    one at a time; all rights remain with the original creator.
+  </p>
+  {{ end }}
+
   <ol class="sentences" id="sentences">
     {{ range $i, $s := .Params.sentences }}
     <li class="sentence" data-i="{{ $i }}"
