@@ -1,6 +1,6 @@
 {{- $area := .Params.area | default "" -}}
 {{- if in (slice "episodes" "categories" "words" "english") .Section }}{{ $area = "english" }}{{ end -}}
-{{- if in (slice "files" "papers" "tools") .Section }}{{ $area = "tools" }}{{ end -}}
+{{- if in (slice "files" "papers" "sim0d" "tools") .Section }}{{ $area = "tools" }}{{ end -}}
 {{- if or (in (slice "afsi" "research" "tags" "areas" "projects") .Section) .Params.readingRoute }}{{ $area = "research" }}{{ end -}}
 {{- if and (eq .Section "posts") (not $area) }}{{ $area = "research" }}{{ end -}}
 {{- return $area -}}

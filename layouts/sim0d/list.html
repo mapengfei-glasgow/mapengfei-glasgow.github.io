@@ -1,0 +1,66 @@
+{{- /* /sim0d/ — closed-loop 0D circulation simulator.
+
+       A browser port of ambit's `syspul` model (src/ambit_fe/flow0d/
+       cardiovascular0D_syspul.py) with the four 0D time-varying elastance
+       chambers and pressure-dependent piecewise-linear valves of
+       demos/flow0d/flow0d_heart_cycle.py. Everything runs client-side in
+       assets/js/sim0d.js; the parameter form is built from that file, so this
+       template only lays out the containers. */ -}}
+{{- define "main" }}
+<article class="s0" id="s0">
+  {{ partial "portal/heading.html" . }}
+
+  <div class="s0-grid">
+    <section class="s0-panel" aria-label="Parameters">
+      <div class="s0-presets">
+        <label for="s0-preset">Preset</label>
+        <select id="s0-preset"></select>
+      </div>
+      <form id="s0-form" class="s0-form" autocomplete="off"></form>
+      <div class="s0-actions">
+        <button type="button" class="s0-btn" id="s0-run">Run simulation</button>
+        <button type="button" class="s0-btn ghost" id="s0-reset">Reset</button>
+        <button type="button" class="s0-btn ghost" id="s0-csv" disabled>Export CSV</button>
+      </div>
+      <p class="s0-status" id="s0-status" role="status">Press “Run simulation”.</p>
+    </section>
+
+    <section class="s0-results" aria-label="Results">
+      <dl class="s0-kpis" id="s0-kpis"></dl>
+      <div class="s0-scope">
+        <span>Show</span>
+        <label><input type="radio" name="s0-scope" value="last" checked> last cycle</label>
+        <label><input type="radio" name="s0-scope" value="all"> all cycles</label>
+      </div>
+      <div class="s0-charts">
+        <figure class="s0-fig"><div class="s0-box"><canvas id="s0-c-pl"></canvas></div><figcaption>Left heart &amp; systemic pressures</figcaption></figure>
+        <figure class="s0-fig"><div class="s0-box"><canvas id="s0-c-pv"></canvas></div><figcaption>Ventricular pressure–volume loops</figcaption></figure>
+        <figure class="s0-fig"><div class="s0-box"><canvas id="s0-c-pr"></canvas></div><figcaption>Right heart &amp; pulmonary pressures</figcaption></figure>
+        <figure class="s0-fig"><div class="s0-box"><canvas id="s0-c-v"></canvas></div><figcaption>Chamber volumes</figcaption></figure>
+        <figure class="s0-fig"><div class="s0-box"><canvas id="s0-c-q"></canvas></div><figcaption>Valve flow rates</figcaption></figure>
+        <figure class="s0-fig"><div class="s0-box"><canvas id="s0-c-per"></canvas></div><figcaption>Periodicity error per cycle (log)</figcaption></figure>
+      </div>
+    </section>
+  </div>
+
+  <section class="s0-model post-content">
+    <h2>Model</h2>
+    <p>Closed-loop systemic and pulmonary circulation (ambit <code>modeltype: "syspul"</code>),
+      18 unknowns: four chambers, four valves, an aortic root with characteristic impedance
+      <em>Z</em>, systemic arteries/veins and pulmonary arteries/veins as RCL compartments.
+      Each chamber is a time-varying elastance, \(V = p/E(t) + V_u\),
+      \(E(t) = (E_{\max}-E_{\min})\,y(t) + E_{\min}\), with a cosine activation
+      \(y(t) = \tfrac12\,[1-\cos(2\pi (t-t_0)/t_{\mathrm{act}})]\):
+      atria \(t_0 = 0\), \(t_{\mathrm{act}} = 2t_{ed}\); ventricles \(t_0 = t_{ed}\),
+      \(t_{\mathrm{act}} = 1.8\,(t_{es}-t_{ed})\).
+      Valves are pressure-dependent resistances, \(R = R_{\min}\) when open and \(R_{\max}\) when closed.</p>
+    <p>Time integration is ambit's one-step-θ scheme on
+      \(\mathbf r = \big(\mathbf d\mathbf f(\mathbf x_{n+1}) - \mathbf d\mathbf f(\mathbf x_n)\big)/\Delta t
+      + \theta\,\mathbf f(\mathbf x_{n+1}) + (1-\theta)\,\mathbf f(\mathbf x_n) = \mathbf 0\),
+      solved by Newton's method; the first step uses backward Euler (θ = 1).
+      Periodicity is checked at the end of every cycle with the relative change of the state vector.
+      Inputs use ambit's kg–mm–s units (pressure in kPa = kg/(mm·s²), volume in mm³);
+      results are shown in mmHg and mL.</p>
+  </section>
+</article>
+{{- end }}

@@ -24,6 +24,7 @@
   <div class="portal-topic-grid portal-topic-grid-two">
     {{ partial "portal/card.html" (dict "title" "Files" "url" "/files/" "description" "Browse the file library and access shared material." "label" "Library") }}
     {{ partial "portal/card.html" (dict "title" "Paper Board" "url" "/papers/" "description" "Publication stages, tasks and priorities across research papers." "label" "Planning") }}
+    {{ partial "portal/card.html" (dict "title" "0D Circulation Simulator" "url" "/sim0d/" "description" "Closed-loop lumped-parameter heart and circulation model (ported from ambit), run in the browser." "label" "Simulation") }}
   </div>
   {{ end }}
   {{ with .Content }}<div class="post-content portal-prose">{{ . }}</div>{{ end }}

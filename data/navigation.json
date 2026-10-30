@@ -48,6 +48,11 @@
       "title": "Paper Board",
       "url": "/papers/",
       "description": ""
+    },
+    {
+      "title": "0D Simulator",
+      "url": "/sim0d/",
+      "description": ""
     }
   ]
 }

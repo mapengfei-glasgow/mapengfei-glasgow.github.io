@@ -1,0 +1,114 @@
+/* /sim0d/ — 0D circulation simulator. Loaded only on the sim0d section
+   (extend_head.html). Colours follow PaperMod's variables, mapped in
+   static/css/main.css. */
+
+.main { max-width: 1280px; }
+
+.s0 { font-variant-numeric: tabular-nums; padding-bottom: 48px; }
+
+.s0-grid {
+  display: grid;
+  grid-template-columns: minmax(280px, 340px) minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+}
+@media (max-width: 860px) {
+  .s0-grid { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* ---------- Parameter panel ---------- */
+.s0-panel {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px;
+  position: sticky;
+  top: 12px;
+  max-height: calc(100vh - 24px);
+  overflow-y: auto;
+}
+@media (max-width: 860px) { .s0-panel { position: static; max-height: none; } }
+
+.s0-presets { display: flex; gap: 8px; align-items: center; margin-bottom: 10px; font-size: 0.88rem; }
+.s0-presets select { flex: 1; min-width: 0; }
+.s0 select, .s0 input[type="number"] {
+  background: var(--theme);
+  color: var(--content);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 3px 6px;
+  font: inherit;
+  font-size: 0.85rem;
+}
+
+.s0-form details { border-top: 1px solid var(--border); padding: 6px 0; }
+.s0-form summary { cursor: pointer; font-weight: 600; font-size: 0.9rem; padding: 2px 0; }
+.s0-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 118px;
+  gap: 8px;
+  align-items: center;
+  margin: 4px 0;
+  font-size: 0.82rem;
+}
+.s0-row label { color: var(--secondary); overflow-wrap: anywhere; }
+.s0-row label code { font-size: 0.78rem; color: var(--content); background: none; padding: 0; }
+.s0-row input[type="number"] { width: 100%; }
+.s0-row input.s0-changed { border-color: var(--accent); }
+.s0-check { display: flex; gap: 6px; align-items: center; font-size: 0.82rem; margin: 6px 0; color: var(--secondary); }
+
+.s0-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.s0-btn {
+  border: 1px solid var(--primary);
+  background: var(--primary);
+  color: var(--theme);
+  border-radius: 6px;
+  padding: 6px 12px;
+  font: inherit;
+  font-size: 0.88rem;
+  cursor: pointer;
+}
+.s0-btn.ghost { background: transparent; color: var(--content); border-color: var(--border); }
+.s0-btn:disabled { opacity: 0.5; cursor: default; }
+.s0-status { margin: 10px 0 0; font-size: 0.82rem; color: var(--secondary); }
+.s0-status.err { color: var(--text-red, #e2445c); }
+
+/* ---------- Results ---------- */
+.s0-kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(118px, 1fr));
+  gap: 8px;
+  margin: 0 0 12px;
+}
+.s0-kpis > div {
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 6px 10px;
+}
+.s0-kpis dt { font-size: 0.7rem; color: var(--secondary); text-transform: uppercase; letter-spacing: 0.04em; }
+.s0-kpis dd { margin: 2px 0 0; font-size: 1.15rem; font-weight: 700; }
+.s0-kpis dd small { font-size: 0.72rem; font-weight: 400; color: var(--secondary); margin-left: 3px; }
+
+.s0-scope { display: flex; gap: 14px; align-items: center; font-size: 0.85rem; color: var(--secondary); margin-bottom: 8px; }
+.s0-scope label { display: inline-flex; gap: 4px; align-items: center; cursor: pointer; }
+
+.s0-charts {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+@media (max-width: 1100px) { .s0-charts { grid-template-columns: minmax(0, 1fr); } }
+.s0-fig {
+  margin: 0;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+}
+.s0-box { position: relative; height: 280px; }
+.s0-fig figcaption { font-size: 0.8rem; color: var(--secondary); text-align: center; margin-top: 4px; }
+
+.s0-model { margin-top: 32px; }
+.s0-model h2 { font-size: 1.3rem; }
+.s0-model p { font-size: 0.92rem; }

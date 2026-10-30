@@ -27,6 +27,15 @@
 {{- /* Paper board (/papers/) only. Fingerprinted like exercises.css. */}}
 <link rel="stylesheet" href="{{ (resources.Get "css/papers.css" | fingerprint).RelPermalink }}">
 {{- end }}
+{{- if eq .Section "sim0d" }}
+{{- /* 0D circulation simulator (/sim0d/) only. Fingerprinted like papers.css. */}}
+<link rel="stylesheet" href="{{ (resources.Get "css/sim0d.css" | fingerprint).RelPermalink }}">
+{{- /* In <head>, not the body: on a Turbo navigation the scripts of a swapped
+       body never run, while new head scripts are loaded; sim0d.js then mounts
+       itself on turbo:load. */}}
+<script defer src="{{ "js/chart.umd.min.js" | relURL }}"></script>
+<script defer src="{{ (resources.Get "js/sim0d.js" | fingerprint).RelPermalink }}"></script>
+{{- end }}
 {{- if .HasShortcode "chart" }}
 {{- /* Interactive figures written as data in the Markdown body: Chart.js is
        self-hosted (like MathJax below), and both assets load only on pages
