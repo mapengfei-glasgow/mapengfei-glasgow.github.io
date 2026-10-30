@@ -1,0 +1,340 @@
+---
+layout: single
+title: "Venezuelan opposition leader criticises US oil deal"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-30T00:00:00Z
+slug: "2026-10-30-venezuelan-opposition-leader-criticises-us-oil-deal"
+audioDir: "2026-10-30-venezuelan-opposition-leader-criticises-us-oil-deal"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-30-venezuelan-opposition-leader-criticises-us-oil-deal/episode.mp3"
+totalDuration: 1732.8
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.62}
+  - {text: "I'm Nick Miles, and in the early hours of Friday, the 30th of October, these are our main stories.", start: 4.65, end: 9.21}
+  - {text: "Venezuela's opposition leader, Maria Corina Machado, just back from a year in exile, questions a massive oil deal between Caracas and Washington earlier this year.", start: 10.13, end: 19.25}
+  - {text: "In Spain, an investigation is well underway into the high -speed train crash that left at least 69 people dead.", start: 19.87, end: 26.25}
+  - {text: "And peace returns to parts of Haerson in Ukraine, almost five years after Russia's invasion.", start: 26.25, end: 33.29}
+  - {text: "One resident tells us what it's like.", start: 33.79, end: 35.53}
+  - {text: "Also in this podcast, we pay tribute to the British actor Patrick Stewart, who gained international fame as Captain John Luke Pickard in Star Trek and has died at the age of 86.", start: 38.30, end: 48.90}
+  - {text: "And we will try to have an even better Halloween this year.", start: 49.36, end: 52.30}
+  - {text: "I'm going to an underground hot techno party with a massive capacity.", start: 52.50, end: 55.68}
+  - {text: "This is definitely considered as a sign of opposition to the government.", start: 55.68, end: 58.56}
+  - {text: "It is possible that they just show up at the parties and arrest everyone.", start: 59.00, end: 62.20}
+  - {text: "A special report on the young Iranians fighting back against the Halloween ban.", start: 62.62, end: 67.10}
+  - {text: "The political transition in Venezuela will be irreversible, organized and peaceful.", start: 71.66, end: 76.14}
+  - {text: "The words of the Venezuelan opposition leader, Maria Corina Machado.", start: 76.66, end: 80.48}
+  - {text: "The Nobel Peace Prize laureate was addressing supporters in the capital, Caracas, just days after returning from a year in exile.", start: 81.10, end: 87.76}
+  - {text: "Ms Machado was widely seen as likely to win the presidential election in 2024, but she was banned from running by the Supreme Court.", start: 87.76, end: 96.18}
+  - {text: "She told the crowd she had come back to finish the task of bringing political change to Venezuela.", start: 96.64, end: 101.68}
+  - {text: "I have returned to mobilize society to organize all our teams and citizen networks to listen, to incorporate all sectors, all organizations, political and civil in", start: 106.24, end: 117.74}
+  - {text: "the construction of this new republic that's emerging.", start: 117.74, end: 120.82}
+  - {text: "And I have returned to finish a task and fulfill a mandate.", start: 121.30, end: 125.30}
+  - {text: "Acting President, Delcey Rodriguez also confirmed earlier that elections would take place under the country's constitution.", start: 125.78, end: 132.44}
+  - {text: "Many are asking about the electoral timeline.", start: 136.06, end: 138.74}
+  - {text: "I've said it before, there will be elections, all those mandated by a constitution, organized by a renewed electoral authority with the world as a witness.", start: 139.04, end: 146.76}
+  - {text: "Elections should not be a problem, nor should they take us back to a time of confrontation, something no one wants anymore.", start: 147.34, end: 152.92}
+  - {text: "Ms Machado has been questioning a major oil deal struck with the US that would see Venezuela hand over 20 % of its oil reserves to Washington.", start: 153.46, end: 162.04}
+  - {text: "Our Latin America correspondent, Will Grant, told me more about her concerns.", start: 162.64, end: 166.00}
+  - {text: "Her key point on the oil deal is that she hasn't read it, nor has the vast majority of Venezuelans.", start: 166.38, end: 172.34}
+  - {text: "They simply don't know what's in there.", start: 172.46, end: 173.82}
+  - {text: "They're told to trust it and that it's in Venezuela's interest and they are told that by government they don't trust.", start: 173.88, end: 179.38}
+  - {text: "She said, look, we're not against the idea of foreign investment.", start: 179.82, end: 182.64}
+  - {text: "Clearly we're not. We're not about to come in here and rip up the deal.", start: 182.64, end: 186.04}
+  - {text: "We will honor, assuming the next government, any deals that have been signed correctly and openly within the margins of the law with this administration.", start: 186.38, end: 196.42}
+  - {text: "But we will bring proper rule of law.", start: 196.96, end: 199.76}
+  - {text: "We will bring security and economic guarantees to foreign investors.", start: 199.94, end: 203.58}
+  - {text: "And in that sense, it will be a better deal moving forward.", start: 204.08, end: 207.66}
+  - {text: "So she gave details as she sees them for a timeline for new elections.", start: 208.04, end: 213.14}
+  - {text: "And she was pretty clear about when that was going to be, something that Delta Rodriguez is rather vague on.", start: 213.64, end: 219.02}
+  - {text: "Clear in the sense that she said 2027, but she couldn't be any clearer than that.", start: 219.22, end: 223.26}
+  - {text: "I mean, I think the truth of the matter is there are going to be conflicting forces.", start: 223.54, end: 226.76}
+  - {text: "Those that want to go far faster and those who want this time and feel that too much has been given away.", start: 226.98, end: 233.04}
+  - {text: "There is a real series of viewpoints in Venezuela that are vying for power, vying to be her.", start: 233.30, end: 238.56}
+  - {text: "But her key point is that she is now back.", start: 238.94, end: 240.88}
+  - {text: "It felt to me very much like she was launching a presidential campaign with this speech.", start: 241.44, end: 245.60}
+  - {text: "She was talking about the reason she is back was to take part in what she called an irreversible transition to democracy.", start: 245.66, end: 254.02}
+  - {text: "That she had come to carry out a mandate.", start: 254.02, end: 257.34}
+  - {text: "And she said that on that route back to the capital Caracas, from where she entered the country in the state of Lada, about 335 kilometers.", start: 257.62, end: 265.36}
+  - {text: "She heard one word above all others was sleep at that, freedom.", start: 265.78, end: 269.46}
+  - {text: "And that she will be working towards that end through organizing thousands, as she put it, of neighborhood level committees who will make their voices heard.", start: 269.92, end: 278.56}
+  - {text: "How all of this is played out is obviously very, very hard to say.", start: 278.82, end: 282.18}
+  - {text: "But it did come at the same time as quite a conciliatory speech from Delcey Rodriguez herself.", start: 282.18, end: 287.12}
+  - {text: "After a year in exile, if you like, do you think Maria Carina Machado has lost any of her popularity and political momentum?", start: 287.40, end: 294.28}
+  - {text: "Not if her return to Caracas was anything to go by.", start: 294.76, end: 297.78}
+  - {text: "That was a major outpouring of support.", start: 297.80, end: 299.90}
+  - {text: "And what was interesting about it is that people were caught by surprise.", start: 300.00, end: 303.20}
+  - {text: "They didn't know that she was coming that day.", start: 303.64, end: 305.56}
+  - {text: "There had been no prior warning.", start: 305.60, end: 306.68}
+  - {text: "They simply heard and took to the streets to see her caravan as it passed through their town.", start: 306.80, end: 311.14}
+  - {text: "She may still be facing charges, which she says are politically motivated, which include everything from treason to conspiracy to insurrection.", start: 311.70, end: 319.08}
+  - {text: "But it would be very problematic for the Delcey Rodriguez government to arrest her again or anything like that.", start: 319.54, end: 325.86}
+  - {text: "So I think what we're going to see now is a sort of electorale, if you like, at least in terms of this move towards 2027,", start: 326.12, end: 333.60}
+  - {text: "when she says there's going to be an election.", start: 333.68, end: 335.94}
+  - {text: "Delcey Rodriguez made it clear in her speech that she's told the security forces not to detain people without full judicial warrants and that Venezuela was open,", start: 336.40, end: 345.46}
+  - {text: "which I took as perhaps a message to the other exile political leaders that they can come back and that they can form part of her", start: 345.54, end: 352.88}
+  - {text: "team ahead of this sort of democratic transition taking hold.", start: 352.88, end: 356.28}
+  - {text: "Will Grant. A young athlete, an architect, a journalist and a former government minister.", start: 356.64, end: 362.82}
+  - {text: "Four amongst the several dozen Spaniards still officially missing after Wednesday's train crash south of Madrid.", start: 363.28, end: 370.22}
+  - {text: "Families there have been searching hospitals, hoping to find them amongst the injured.", start: 370.72, end: 375.68}
+  - {text: "The transport minister has blamed human error for the incident, which saw a train going at almost 200 kilometers an hour, plough interstationary train carriages.", start: 376.38, end: 385.20}
+  - {text: "At least 69 people were killed.", start: 385.66, end: 387.82}
+  - {text: "Spain's main opposition party is calling on the government itself to take political responsibility for the crash, the second major rail disaster this year.", start: 388.38, end: 396.94}
+  - {text: "Sarah Reinsford reports. In the fields of central Spain, they worked through the wreckage of a disaster that has killed dozens and shattered this country.", start: 396.94, end: 406.02}
+  - {text: "There were no more bodies to recover and work paused for a moment of silence.", start: 406.98, end: 411.86}
+  - {text: "Some of the injured are being treated in Toledo.", start: 412.78, end: 415.02}
+  - {text: "We found sailor in the hospital grounds, making frantic calls.", start: 415.94, end: 419.66}
+  - {text: "Her father is in intensive care, but she told me she still can't find her mother.", start: 420.52, end: 425.08}
+  - {text: "They were together when it happened, but got separated.", start: 427.44, end: 430.02}
+  - {text: "All we know is that mum was given a red sticker.", start: 430.66, end: 432.96}
+  - {text: "That means she was badly hurt.", start: 433.36, end: 434.74}
+  - {text: "We don't know where she is.", start: 435.28, end: 436.28}
+  - {text: "My sister is looking for her in all the hospitals.", start: 436.52, end: 438.72}
+  - {text: "Some families have taken their search to social media, posting pictures of their loved ones and details about what they were wearing, even their seat on the train.", start: 440.44, end: 449.64}
+  - {text: "And as the families continued their search, all Spain is looking to understand what happened here.", start: 450.32, end: 455.40}
+  - {text: "Why one high -speed train full of people plowed into the back of another?", start: 455.40, end: 459.94}
+  - {text: "There are now some important clues.", start: 460.70, end: 462.58}
+  - {text: "Audio leaked to Spanish media, records key conversations between the two drivers and the control centre in Madrid.", start: 465.62, end: 472.54}
+  - {text: "This is after a computer failure caused several trains on the line to stop.", start: 473.44, end: 477.52}
+  - {text: "At one point, an operator tells the Renfe train driver to resume his journey at normal speed.", start: 478.30, end: 484.06}
+  - {text: "Normal speed, the driver checks.", start: 484.90, end: 486.60}
+  - {text: "He's told yes. But up the line, an IRIO train has also stopped.", start: 487.28, end: 491.68}
+  - {text: "The driver there informs the control centre she's just outside Oder.", start: 492.20, end: 495.92}
+  - {text: "Minutes later, she's told her train can restart.", start: 496.80, end: 499.16}
+  - {text: "She then calls back and tells the controller the train won't move.", start: 500.26, end: 503.50}
+  - {text: "That suggests the controller knew the line was blocked five minutes before the fatal crash.", start: 504.41, end: 509.89}
+  - {text: "But there are questions too about the signal system that failed in the first place and why this is the second disaster on Spain's railways this year.", start: 510.65, end: 519.27}
+  - {text: "King Felipe called the crash a devastating blow and said an investigation would determine how it happened.", start: 520.61, end: 527.19}
+  - {text: "So many families want answers.", start: 528.23, end: 530.13}
+  - {text: "Sarah Rainsford reporting from Spain.", start: 530.73, end: 532.43}
+  - {text: "Last week, we brought you the news that the US First Lady Melania Trump and Pope Leo had collaborated to bring about a temporary ceasefire in Oleschke,", start: 533.38, end: 543.06}
+  - {text: "a city in the Herschon region of Ukraine.", start: 543.40, end: 546.56}
+  - {text: "It was occupied shortly after Russia's invasion back in 2022.", start: 547.34, end: 550.92}
+  - {text: "The six -day truce, which came into effect on Tuesday, was intended to allow food and medicine in and those who wanted to go to get out.", start: 551.60, end: 559.56}
+  - {text: "Posting on social media, Mrs Trump said the area covered by the ceasefire has expanded beyond Oleschke within the Herschon region to provide safe passage for the humanitarian convoys.", start: 560.16, end: 571.84}
+  - {text: "Zorina Zabriski is an American journalist in Herschon where she's been for the last three years.", start: 572.38, end: 578.40}
+  - {text: "Sean Leigh asked her what impact the ceasefire was having.", start: 578.76, end: 581.44}
+  - {text: "The last few days we have this really unusual surreal quiet.", start: 581.80, end: 586.20}
+  - {text: "When we don't hear the drones buzzing, usually these are human safari FPV drones attacking civilians in the streets.", start: 586.60, end: 594.24}
+  - {text: "We don't hear artillery.", start: 594.78, end: 595.98}
+  - {text: "We don't hear tanks.", start: 596.54, end: 597.66}
+  - {text: "It's quiet. But this silence is quite deceptive because there's still a lot of mines that were dropped by the drones.", start: 597.66, end: 606.50}
+  - {text: "And unfortunately, we lost two people in the last two days.", start: 607.10, end: 611.48}
+  - {text: "Actually, my colleagues, it's a very bitter loss and we have a warning against mines, you know, to be watching out when you're walking around.", start: 611.78, end: 621.10}
+  - {text: "That was obviously a tragedy.", start: 621.60, end: 623.16}
+  - {text: "What are the challenges for people living in Herschon at the moment?", start: 623.76, end: 626.90}
+  - {text: "The guns may have fallen silent for now, but what are the difficulties?", start: 626.90, end: 630.90}
+  - {text: "Number one concern is the knowledge that in two days it will all start again.", start: 631.44, end: 638.44}
+  - {text: "We have rumors and pretty much everybody believes that it's true that Russians will sneak in a lot of weapons, artillery, drones, and as soon as", start: 639.06, end: 652.94}
+  - {text: "the ceasefires over Herschon will be attacked with unprecedented force.", start: 652.94, end: 659.14}
+  - {text: "It's kind of a mixed blessing, this ceasefire.", start: 659.46, end: 662.44}
+  - {text: "It's very bittersweet because pretty much everyone who speaks to is happy and smiling almost with tears in their eyes, but also feeling slightly doomed in the knowledge that it's so short -lived.", start: 662.70, end: 678.04}
+  - {text: "Have people been venturing out or have they been using the opportunity that this presents?", start: 678.36, end: 682.96}
+  - {text: "In Herschon around 2 p .m.", start: 682.96, end: 685.76}
+  - {text: "we say good evening, because by 3 there's nobody in the street.", start: 685.92, end: 690.56}
+  - {text: "Right now it's very different.", start: 691.06, end: 692.84}
+  - {text: "You see a lot of people walking to their neighborhoods towards the water where everything is destroyed.", start: 693.40, end: 701.40}
+  - {text: "It's post -apocalyptic, surreal, and people walk either to pick up some of their belongings or just to come and see what used to be their home.", start: 701.64, end: 711.10}
+  - {text: "Zarena Zabriski speaking to Sean Lay.", start: 711.10, end: 713.76}
+  - {text: "Now let's take you on board the USS Enterprise.", start: 715.19, end: 718.53}
+  - {text: "It is possible to commit no mistakes and still lose.", start: 718.91, end: 722.59}
+  - {text: "That is not a witness, that is life.", start: 725.13, end: 728.41}
+  - {text: "Those words of wisdom from the main character of Star Trek The Next Generation, Captain John Luke Pickart, or the British actor who played him for so many years, Patrick Stewart, has just died.", start: 729.32, end: 741.12}
+  - {text: "He was 86. He was a renowned Shakespearean stage actor before his Pickart days and later became known to a new generation as Professor Charles Xavier in Hollywood's X -Men films.", start: 741.42, end: 754.26}
+  - {text: "Entertainment journalist Sandro Monetti knew him well.", start: 754.78, end: 757.22}
+  - {text: "He was a very proud Brit.", start: 757.62, end: 759.82}
+  - {text: "The last time I saw him was on the date of King Charles's coronation.", start: 760.08, end: 764.36}
+  - {text: "Patrick was hosting a celebration or the British community here in Los Angeles and like many of those of us who have moved from England to America we remain fiercely patriotic and love all things royal.", start: 764.68, end: 778.26}
+  - {text: "He had been knighted of course.", start: 778.52, end: 780.24}
+  - {text: "So many happy memories.", start: 780.68, end: 782.10}
+  - {text: "I just feel so privileged to have met him.", start: 782.32, end: 784.30}
+  - {text: "A great talent, but a lovely man as well.", start: 784.32, end: 786.16}
+  - {text: "Our correspondent Daniela Relf looks back on the actor's life and career.", start: 786.50, end: 789.74}
+  - {text: "Captain's log has started 4 -1 -1 -5 -3 .7.", start: 790.30, end: 793.88}
+  - {text: "Our destination is Planet Denib 4.", start: 794.42, end: 796.88}
+  - {text: "Patrick Stewart, as Captain Jean -Luc Picard.", start: 797.32, end: 800.20}
+  - {text: "I can get the fusion generators on the search control.", start: 800.66, end: 803.18}
+  - {text: "You're moving much too slowly.", start: 803.32, end: 804.44}
+  - {text: "Bald, middle -aged, not the stereotype of a Hollywood leading man.", start: 804.82, end: 808.32}
+  - {text: "All decks, all stations.", start: 808.64, end: 810.66}
+  - {text: "But formidable. Battle stations.", start: 811.06, end: 812.76}
+  - {text: "Even threatening. Make them pay for what they've done.", start: 813.51, end: 816.99}
+  - {text: "Every inch a starship commander.", start: 816.99, end: 819.43}
+  - {text: "Then we had to drop his Yorkshire accent.", start: 820.05, end: 821.93}
+  - {text: "Let's see what's out there.", start: 822.19, end: 823.47}
+  - {text: "We did toy with the Yorkshire accent.", start: 826.92, end: 828.88}
+  - {text: "It was incomprehensible to the producers in Hollywood.", start: 829.10, end: 832.00}
+  - {text: "Can you imagine? Space.", start: 832.32, end: 834.60}
+  - {text: "Final frontier. Make it so.", start: 835.42, end: 838.84}
+  - {text: "Aye, sir. His childhood was turbulent.", start: 840.07, end: 842.77}
+  - {text: "His father had a violent temper, a former sergeant major who suffered post -traumatic stress.", start: 843.61, end: 848.95}
+  - {text: "Patrick escaped onto the stage.", start: 849.83, end: 851.55}
+  - {text: "When there was an audience there and the lights were turned on and people were sitting in the darkness looking at me, I never had stage fright.", start: 851.79, end: 858.21}
+  - {text: "I never felt embarrassed in any way.", start: 858.85, end: 862.49}
+  - {text: "I was totally at home.", start: 862.97, end: 864.57}
+  - {text: "Take from his heart.", start: 864.81, end: 865.65}
+  - {text: "Take from his brain.", start: 866.23, end: 866.87}
+  - {text: "From time. What should not then be spared?", start: 867.25, end: 868.97}
+  - {text: "He spent 16 years with the Royal Shakespeare Company.", start: 869.23, end: 871.81}
+  - {text: "And he said in Rome, Butinus and eunuch and your maids manage this war.", start: 872.01, end: 875.47}
+  - {text: "Sink, Rome. All that has happened to Frank since he came here is one injection on the morning he was admitted.", start: 875.63, end: 883.53}
+  - {text: "And did TV work without really becoming a household name.", start: 883.71, end: 887.17}
+  - {text: "Don't mention the Duke.", start: 887.85, end: 888.73}
+  - {text: "This is an uncoded channel.", start: 889.09, end: 890.43}
+  - {text: "But Hollywood came calling.", start: 891.40, end: 892.82}
+  - {text: "First apart in David Lynch's adaptation of the sci -fi novel June.", start: 893.56, end: 897.14}
+  - {text: "You think with a financial statement like this you can have the duck?", start: 897.48, end: 900.26}
+  - {text: "Later, as the restaurant Matra D from Hell in Steve Martin's LA story.", start: 901.10, end: 905.70}
+  - {text: "You can have the chicken.", start: 906.08, end: 907.24}
+  - {text: "I'm trying to track him using cerebro but his movements are inexplicably erratic.", start: 907.48, end: 912.60}
+  - {text: "After Star Trek, came another blockbuster franchise X -Men.", start: 913.18, end: 916.54}
+  - {text: "I'll need you to take the jet and try and pick him up.", start: 916.64, end: 918.60}
+  - {text: "Glambs and Fane of Cordo.", start: 920.08, end: 922.08}
+  - {text: "He returned to his first love theatre with a grizzled Macbeth.", start: 922.82, end: 926.72}
+  - {text: "Say something. And in a claimed waiting for Godot with his friend and fellow knight Serrion McKellar.", start: 927.26, end: 931.90}
+  - {text: "Say anything at all.", start: 931.92, end: 932.90}
+  - {text: "How do we do now?", start: 933.32, end: 934.24}
+  - {text: "Wait for Godot. I don't want the game to end.", start: 934.34, end: 937.42}
+  - {text: "And there was time for a last trip to the final frontier.", start: 938.06, end: 941.20}
+  - {text: "Revisiting his most famous character at the age of nearly 80.", start: 941.98, end: 944.86}
+  - {text: "I'm all in. Jean -Luc Picard.", start: 945.42, end: 947.62}
+  - {text: "Thoughtful, cultured, the very moral centre of the universe.", start: 948.62, end: 951.70}
+  - {text: "Be me home, I come.", start: 952.08, end: 953.24}
+  - {text: "And Sir Patrick Stewart's finest creation.", start: 953.82, end: 956.36}
+  - {text: "Daniela Relf on the life of the British actor Patrick Stewart who's died at the age of 86.", start: 960.88, end: 965.68}
+  - {text: "Still to come in this podcast.", start: 967.82, end: 969.36}
+  - {text: "The appeal judges said such shocking criminality would mean that it was inappropriate to fix a non -parole period.", start: 969.36, end: 976.70}
+  - {text: "So that means that she now faces a prospect of dying in prison.", start: 976.84, end: 980.86}
+  - {text: "Erin Patterson, the Australian woman who murdered her relatives by serving them deadly mushrooms, loses an appeal against her conviction.", start: 981.24, end: 988.62}
+  - {text: "This is the Global News Podcast.", start: 995.80, end: 997.08}
+  - {text: "Opinion polls suggest Democrats will make significant gains in next week's US midterm elections.", start: 998.10, end: 1003.58}
+  - {text: "And that could lead to the Republicans losing one or both houses of Congress, making Donald Trump a lame duck president.", start: 1003.88, end: 1010.20}
+  - {text: "But he and the Republicans are fighting back.", start: 1010.72, end: 1012.80}
+  - {text: "The governor of Alaska has ordered an investigation into an alleged scheme to split the Republican vote there.", start: 1013.16, end: 1019.40}
+  - {text: "A New York Times article claimed that the Democratic candidate for the Senate, Mary Peltola, and her campaign crew conspired to manipulate the ballot by recruiting Daniel J.", start: 1019.90, end: 1030.72}
+  - {text: "Sullivan to run alongside the Republican incumbent, Daniel S.", start: 1031.00, end: 1034.88}
+  - {text: "Sullivan. Mary Peltola has denied all allegations of recruiting what's known as a spoiler candidate.", start: 1035.20, end: 1040.96}
+  - {text: "Our State Department correspondent, Tom Bateman, explains.", start: 1041.58, end: 1043.74}
+  - {text: "The two major candidates for the Democrats and Republicans are the Republican incumbent Senator, Dan Sullivan.", start: 1044.20, end: 1050.52}
+  - {text: "And here's Democratic challenger, a woman called Mary Peltola.", start: 1051.12, end: 1054.92}
+  - {text: "Now, what happened in the primaries was another man called Dan Sullivan emerged and has made his way through to this final ballot, meaning that there", start: 1055.38, end: 1062.62}
+  - {text: "are two Dan Sullivan's the voters have to choose from.", start: 1062.62, end: 1066.18}
+  - {text: "The Republicans had always claimed that the second Dan Sullivan was a plant, that this man was put up to it by the Democrats in order to try and split the Republican vote.", start: 1066.42, end: 1076.40}
+  - {text: "Now, the Democrats always denied that.", start: 1076.76, end: 1078.38}
+  - {text: "It went to the Alaska Supreme Court that signed off on all of this, said it was legitimate, as a practice known as ballot stacking, and it was okay.", start: 1078.50, end: 1084.78}
+  - {text: "What has happened since then is the New York Times have investigated, they have found that the Democrats did indeed plant this candidate.", start: 1085.34, end: 1093.86}
+  - {text: "That has added to this environment where Donald Trump is saying this is a fraud, his Justice Department filed a lawsuit over this saying that the results should be annulled", start: 1094.16, end: 1103.08}
+  - {text: "if that becomes a factor and the Republicans lose on Tuesday.", start: 1103.08, end: 1107.28}
+  - {text: "Now, again, the Democrats deny having put the second Dan Sullivan up to this, but it is all setting the stage for an extremely contentious and what is a very tight race already on Tuesday and the potential for litigation afterwards.", start: 1107.48, end: 1119.36}
+  - {text: "Both the House of Representatives and the Senate are controlled by the Republicans.", start: 1119.92, end: 1122.86}
+  - {text: "It is clear from the polling that the Democrats believe that they can flip the House of Representatives to their control and potentially the Senate.", start: 1123.38, end: 1130.48}
+  - {text: "What you are seeing is an incredible focus from both parties on these areas where they think they might be able to take a seat from the Republicans.", start: 1130.80, end: 1139.58}
+  - {text: "And so you get this incredibly closely fought race and now this row over accusations coming from the Republican side of cheating on behalf of the Democrats, which they are furiously denying.", start: 1139.82, end: 1150.64}
+  - {text: "I think what it speaks to is the expectation that if Donald Trump loses key seats for the Republicans here, that he will once again try and repeat what he did after the 2020 presidential election,", start: 1151.10, end: 1162.32}
+  - {text: "which is to claim that there is fraud, that the vote is rigged.", start: 1162.34, end: 1165.64}
+  - {text: "Of course, he falsely claimed that about the 2020 presidential election.", start: 1165.90, end: 1170.10}
+  - {text: "And I think there is a sense in places like Alaska and elsewhere, if his Republican party loses, you're going to see that same game plan playing out.", start: 1170.22, end: 1177.30}
+  - {text: "Tom Bateman in Washington.", start: 1177.30, end: 1178.78}
+  - {text: "Now to Nepal, which is still reeling from major flash floods this summer caused by a glacial collapse which killed over 1 ,500 people and devastated large swathes of the country.", start: 1179.58, end: 1190.42}
+  - {text: "A study has found that at least 300 ,000 people could now be living in the path of future disasters in parts of the Himalayan region.", start: 1191.02, end: 1198.84}
+  - {text: "It found that despite the looming climate threat over the past decade, the amount of built -up land in high -risk zones has risen by almost 45 percent.", start: 1199.20, end: 1208.76}
+  - {text: "But will people move away from the danger?", start: 1209.30, end: 1211.54}
+  - {text: "Our environment correspondent Navin Sincadca told Anchor Desai more.", start: 1212.00, end: 1215.78}
+  - {text: "They are talking about built -up areas, almost 45 percent increase in built -up areas and this is like 50 kilometers downstream from the catchment areas where all these rivers and lakes originate.", start: 1216.06, end: 1228.08}
+  - {text: "Now, if these people will be compensated, that's a very difficult one because you know, we're talking about very poor governments, compensation is not that easy.", start: 1228.54, end: 1237.48}
+  - {text: "A, B, they have not even been mapped.", start: 1237.94, end: 1240.64}
+  - {text: "So when I reached out to authorities, now they are saying that they will map, you know, where are those places and they will try to move people in Pokhara, for example,", start: 1241.10, end: 1250.40}
+  - {text: "which is a very, very popular tourism hub, world -renowned trekking region.", start: 1250.58, end: 1254.16}
+  - {text: "When I spoke to the mayor for this story, that mayor was telling me that, you know, settlements are required to be, according to the law, 20 meters away from the rivers.", start: 1254.48, end: 1263.22}
+  - {text: "But in this case, just within five meters.", start: 1263.48, end: 1265.36}
+  - {text: "So moving those people is not easy because, you know, they want compensation.", start: 1265.96, end: 1268.98}
+  - {text: "The governments, they have fun crunch.", start: 1269.42, end: 1270.76}
+  - {text: "There's no money. More importantly, communities are very much with their ancestral land property.", start: 1271.02, end: 1276.24}
+  - {text: "They have sentimental attachment.", start: 1276.80, end: 1278.24}
+  - {text: "We know it's a big tourism area as well.", start: 1278.56, end: 1280.22}
+  - {text: "How is industry fairing at the moment?", start: 1280.46, end: 1282.00}
+  - {text: "The trend is that if a place is beautiful, is promising, then suddenly entrepreneurs go there, invest money, build up structures, and it sees people.", start: 1282.36, end: 1290.80}
+  - {text: "There's no proper regulation.", start: 1291.30, end: 1292.64}
+  - {text: "Therefore, tourism bodies, like for example, this particular hotel association in Poharai itself, or let's say in Uttarakhand, again, that's a pilgrimage tourism, they are now waking up to these risks and now trying to regulate.", start: 1292.64, end: 1305.02}
+  - {text: "But again, it's not easy because people have already invested and tourists still go there.", start: 1305.38, end: 1309.92}
+  - {text: "That will require, you know, some time.", start: 1310.26, end: 1312.62}
+  - {text: "But I think the authorities will have to be resolute on what they are deciding.", start: 1312.92, end: 1316.16}
+  - {text: "We know those devastating floods from the summer wreaked a lot of havoc.", start: 1316.54, end: 1319.94}
+  - {text: "But it wasn't a one -off disaster, was it?", start: 1320.00, end: 1321.98}
+  - {text: "There have also been some other situations and floods happening in that region since.", start: 1321.98, end: 1327.16}
+  - {text: "Almost one and a half months since the Raswa flood happened, the big one, there was another corridor, Buddhiganduki.", start: 1327.68, end: 1334.58}
+  - {text: "We saw another flood, not as big, but there were some damages in India as well.", start: 1335.00, end: 1340.52}
+  - {text: "So, you know, this is all in the wake of what's happening to the Himalayas.", start: 1340.66, end: 1344.22}
+  - {text: "Let's not forget that Himalayas already were not firm because it's an earthquake -prone zone.", start: 1344.46, end: 1349.24}
+  - {text: "But climate change, what it is doing to those frozen ground, to glaciers, snowfills, that is kind of destabilising mountains and the mountains are coming down and they don't just fall there.", start: 1349.44, end: 1360.38}
+  - {text: "They come down to the human settlement areas and then wipe out everything on their way.", start: 1360.56, end: 1364.98}
+  - {text: "Navin Sincadca speaking to Anka Desai.", start: 1365.30, end: 1367.54}
+  - {text: "A woman in Australia who murdered three relatives and tried to kill another by serving them a meal containing death -cap mushrooms in 2023 has lost an appeal against her conviction.", start: 1368.50, end: 1379.22}
+  - {text: "Erin Patterson was jailed for life last year.", start: 1379.22, end: 1382.34}
+  - {text: "She'll also have her sentence reviewed after an appeal by the prosecution was upheld.", start: 1382.74, end: 1387.24}
+  - {text: "Here's our Australia correspondent, Katie Watson.", start: 1387.90, end: 1390.02}
+  - {text: "Two appeals had been launched.", start: 1390.50, end: 1392.64}
+  - {text: "There was the appeal by Erin Patterson who had concerns over some of the evidence that was and wasn't allowed during her trial, as well as the way she was cross -examined", start: 1392.78, end: 1402.08}
+  - {text: "and the way that the jury had been held during deliberations.", start: 1402.08, end: 1406.44}
+  - {text: "Now, the appeal judges in the Victorian Court of Appeal dismissed that appeal but at the same time the prosecution had their own appeal.", start: 1406.58, end: 1414.30}
+  - {text: "They said that the life sentence that she was handed out last year was manifestly inadequate because in that life sentence she was given the opportunity of parole after 33 years.", start: 1414.36, end: 1425.92}
+  - {text: "Now they said that because of the nature of the crimes the long planning and the cover -ups and the consistent lies when her relatives lay dying", start: 1426.06, end: 1433.24}
+  - {text: "that constituted the fact that she should never be allowed out of prison.", start: 1433.24, end: 1437.56}
+  - {text: "Now, the appeal judges said that they agreed they said that the offending was extraordinarily cold and calculated that stands to be denounced in the strongest terms.", start: 1438.10, end: 1446.90}
+  - {text: "They said such shocking criminality would mean that it was inappropriate to fix a non -parole period.", start: 1447.42, end: 1453.22}
+  - {text: "So that means that she now faces a prospect of dying in prison.", start: 1453.34, end: 1457.96}
+  - {text: "She has 28 days to decide whether or not she wants to take her case to Australia's High Court but it's quite hard to get them to listen to the case", start: 1458.64, end: 1468.10}
+  - {text: "and rule on the case so I think her options now are pretty limited.", start: 1468.10, end: 1471.62}
+  - {text: "Katie Watson in Sydney.", start: 1472.00, end: 1473.28}
+  - {text: "To Iran now where since the conflict with America began in February the authorities have increasingly come down hard on any signs of internal dissent and that even extends to Halloween celebrations.", start: 1474.10, end: 1486.26}
+  - {text: "The Islamic Republic has long viewed the event which takes place on October 31st each year with great suspicion.", start: 1486.94, end: 1494.06}
+  - {text: "Raids at parties have led to hundreds of arrests over recent years and restrictions on celebrations continue to be enforced.", start: 1494.50, end: 1501.28}
+  - {text: "But as Ruby Gleeson reports some Iranians are gearing up to celebrate despite the risks.", start: 1501.84, end: 1506.00}
+  - {text: "Two young women pull back their hijabs to reveal matching cropped pink hairdos and ice blue contact lenses.", start: 1509.74, end: 1515.86}
+  - {text: "They squeeze through a costumed crowd towards a DJ set.", start: 1516.56, end: 1519.76}
+  - {text: "Inside it could be any Halloween party except it's not where you might expect.", start: 1520.50, end: 1525.86}
+  - {text: "This was Tehran last Halloween.", start: 1528.48, end: 1530.52}
+  - {text: "Halloween celebrations are banned in the Islamic Republic and hundreds of people have been arrested and detained for taking part in recent years.", start: 1531.42, end: 1538.72}
+  - {text: "Yet that hasn't stopped some Iranians from planning underground parties.", start: 1538.96, end: 1542.54}
+  - {text: "I spoke to young people in Tehran about their Halloween plans for this weekend.", start: 1543.38, end: 1546.80}
+  - {text: "We've disguised their voices for their safety.", start: 1547.42, end: 1549.40}
+  - {text: "I'm actually going to do parties.", start: 1549.92, end: 1551.32}
+  - {text: "I'm going to dress up as a female prisoner in an orange jumpsuit.", start: 1551.84, end: 1554.76}
+  - {text: "The events being held in Tehran are mostly underground raves with DJ sets.", start: 1555.08, end: 1558.78}
+  - {text: "We will try to have an even better Halloween this year.", start: 1559.44, end: 1561.72}
+  - {text: "I'm going to an underground hard techno party with a massive capacity.", start: 1561.96, end: 1565.16}
+  - {text: "There will be more than 100 people then I'm going to throw a party with my friends.", start: 1565.48, end: 1568.98}
+  - {text: "There will be a DJ there too.", start: 1569.50, end: 1570.80}
+  - {text: "I expect there will be alcohol and drugs as well.", start: 1571.06, end: 1573.56}
+  - {text: "Yeah and some people have told me that this is just for fun.", start: 1573.70, end: 1575.76}
+  - {text: "It's just about having a good time.", start: 1576.02, end: 1577.16}
+  - {text: "That it's not political.", start: 1577.48, end: 1578.92}
+  - {text: "With this being the first Halloween since the killing of Ayatollah Hamane since the outbreak of war with the US the devastation that's come out of that in the spiralling economic crisis", start: 1579.78, end: 1589.88}
+  - {text: "for you is there a kind of broader statement to all of this is about taking a stand against the government at all.", start: 1590.56, end: 1596.74}
+  - {text: "We do this stuff because there are no other happy events in Iran.", start: 1597.28, end: 1599.82}
+  - {text: "So it gives us a reason to celebrate something and this is definitely considered as a sign of opposition to the government because it is possible", start: 1600.14, end: 1606.72}
+  - {text: "that they just show up at the parties and arrest everyone.", start: 1606.72, end: 1609.32}
+  - {text: "To answer your question about whether this is against the government it certainly is.", start: 1609.66, end: 1613.58}
+  - {text: "It's about having fun and enjoying ourselves.", start: 1613.82, end: 1615.58}
+  - {text: "There are no opportunities in Iran to have fun.", start: 1615.82, end: 1617.58}
+  - {text: "That's why we are using these Western events as a way to have fun.", start: 1618.02, end: 1621.22}
+  - {text: "Often the authorities will probably try to come and arrest people as much as they can.", start: 1621.50, end: 1625.36}
+  - {text: "But obviously they can't come to every party in Iran.", start: 1625.92, end: 1628.48}
+  - {text: "In 2024 state media reported that 260 people were detained on suspicion of promoting what authorities described as Satanism and public indecency.", start: 1628.76, end: 1638.30}
+  - {text: "Iranian authorities say Halloween is contrary to Islamic customs.", start: 1638.72, end: 1642.28}
+  - {text: "In about 70 kilometers outside of Tehran Halloween event due to take place this weekend has been cancelled.", start: 1642.76, end: 1648.44}
+  - {text: "The organizer told me authorities ordered him to contact attendees, cancel the venue and call it off completely.", start: 1648.74, end: 1654.46}
+  - {text: "If he didn't comply he says he was told his SIM card and bank account would be cancelled.", start: 1654.92, end: 1659.30}
+  - {text: "However, out of sight some parties are still set to go ahead this weekend.", start: 1659.70, end: 1664.20}
+  - {text: "For the equivalent of $11 guests get access to a sound system, DJs, Halloween makeup, traditional Persian food.", start: 1664.80, end: 1671.76}
+  - {text: "That's if of course it doesn't get shut down.", start: 1672.12, end: 1674.40}
+  - {text: "Not everyone is celebrating Halloween.", start: 1674.60, end: 1676.60}
+  - {text: "Some people told me it's limited to rich or more middle class parts of the country whilst some people told me they'd traditionally taken part but wouldn't be this year.", start: 1677.02, end: 1685.46}
+  - {text: "Whether it's defiance in the face of authority or just a brief escape from it all many young Iranians are determined to mark the occasion this weekend.", start: 1685.82, end: 1694.20}
+  - {text: "Ruby Gleason with that report.", start: 1694.50, end: 1696.04}
+  - {text: "And that's all from us for now.", start: 1698.48, end: 1700.06}
+  - {text: "If you want to get in touch you can email us at globalpodcast at bbc .co .uk You can also find us on X at BBC World Service use the hashtag globalnewspod.", start: 1700.16, end: 1710.60}
+  - {text: "And don't forget our sister podcast The Global Story which goes in depth and beyond the headlines on one big story.", start: 1711.16, end: 1717.14}
+  - {text: "This edition of the Global News Podcast was mixed by Darcy O 'Bree and the producer was Emma Joseph.", start: 1717.60, end: 1722.46}
+  - {text: "The editor is Karen Martin.", start: 1722.88, end: 1724.14}
+  - {text: "I'm Nick Biles and until next time, goodbye.", start: 1724.54, end: 1726.56}
+---
