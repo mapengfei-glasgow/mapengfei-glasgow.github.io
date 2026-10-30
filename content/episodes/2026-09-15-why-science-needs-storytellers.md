@@ -5,14 +5,17 @@ show: "The Royal Society"
 # UNLISTED — reachable only by its own URL. Three independent switches:
 #   robotsNoIndex  PaperMod emits <meta name="robots" content="noindex, nofollow">
 #                  (its own supported param; a second robots meta would conflict)
-#   _build.list    never -> excluded from every page collection, so it never
+#   build.list     never -> excluded from every page collection, so it never
 #                  reaches the home cards, /episodes/, the RSS feed or sitemap.xml
+#                  (the key is `build`, NOT the older `_build`, which Hugo 0.145
+#                   removed — using it fails the build and GitHub Pages does not
+#                   deploy at all)
 #   sitemap.disable
 # No `categories:` on purpose: that would create a /categories/ taxonomy page
 # listing it. Verified after build: all four listings contain zero references.
 robotsNoIndex: true
 hidden: true
-_build:
+build:
   render: always
   list: never
 sitemap:
