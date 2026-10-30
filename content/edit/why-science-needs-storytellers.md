@@ -19,14 +19,14 @@ sitemap:
   disable: true
 ---
 Thank you, Danielle. She has to say she's delighted because I'm her boss.
-It is entirely contractual.
+It is entirely [[contractual]].
 But yes, my name is Kimberly.
-I'm the head of public engagement here at the Royal Society.
-So my team look after this exhibition and I'm delighted that you're all here.
-But one of the things we are here to talk about today is can we just throw facts at you?
+I'm the head of [[public engagement]] here at the Royal Society.
+So my team [[look after this exhibition]] and I'm delighted that you're all here.
+But one of the things we are here to talk about today is can we just [[throw facts at you]]?
 And is that enough?
 Or do we need to tell a story in order to get people to care?
-But to speak about why science might need storytellers, I'm joined by an incredible panel of people who have been involved in telling stories, whether that's through a museum,
+But to speak about why science might need storytellers, I'm joined by an incredible [[panel]] of people who have been involved in telling stories, whether that's through a museum,
 in print, through TV, in broadcast and in lots of different ways.
 So I'm going to ask them to introduce themselves because they are better storytellers than I am.
 So I'm Roger Highfield.
@@ -35,10 +35,10 @@ I used to edit new scientists.
 I used to be at the Daily Telegraph and I've done bits of radio and TV and so on.
 So that's me. Hi, I'm Eileen.
 I work for the BBC studio science unit where I'm the executive producer on shows like The Secret Genius of Modern Life with Professor Hannah Frye and The Sky at Night,
-our long -running space series which we think might have been going for 70 years and be the longest -running science show in the world.
+our [[long -running space series]] which we think might have been going for 70 years and be the longest -running science show in the world.
 Hello, I'm Angie Ahugia.
-I am a science writer and science columnist for the Financial Times and before that I was at the Times newspaper.
-I've also co -authored two books and probably my best known one is Spike about the pandemic which was co -authored with Jeremy Farrow, one of the sage advisors,
+I am a science writer and science [[columnist]] for the Financial Times and before that I was at the Times newspaper.
+I've also co -authored two books and probably my best known one is Spike about the pandemic which was co -authored with Jeremy Farrow, one of the [[sage advisors]],
 which was I was very honoured that it was shortlisted for the Royal Society Science Book Prize.
 And I haven't really thought actually about storytelling and I'm very grateful to this panel for making me think about what it is that we do.
 So thank you. Thank you.
