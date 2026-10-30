@@ -1,0 +1,79 @@
+{
+  "stage": "exact legacy input import; not yet real_av binary format",
+  "source_sha256": {
+    "mesh/boundaries_connected.xml": "0b20dd0a6c08d7f35c06ded8eb4ddceddbf9f3779814b171955327fe08ad4407",
+    "mesh/fibers_0_connected.xml": "a621c1f53c0a5b5fbf0d86c30b2ca9412f5b936ed6dfbb8837c74ba3330ae926",
+    "mesh/fibers_1_connected.xml": "f75681c3e8590042b58f20bc897a42034296f5f33414ee3343f53ce33abfa5d9",
+    "mesh/fibers_2_connected.xml": "04b1c344476abd3fa2507ac5fe474e1a31e6ca1157c9bf2af4f8015a6a371ec6",
+    "mesh/materials_connected.xml": "e34a969d53a2d5801446a44742a1c102d28aaad3acc549dd7190e9615963841a",
+    "mesh/mesh_connected_scale.h5": "782d0e598e5c9de41dcc276fc5599cdf929bb35caa3f0db5afd589a95aa1183f",
+    "mesh/mesh_connected_scale.xdmf": "87ea369242462d551be39886b00c02b3b11be5279b8c8064bed3fa8fd9da59be",
+    "pressure.txt": "b0e777c3ed8f8ee7e2e661ab6134524262b19a3b24123ab6175992f58715f7fa"
+  },
+  "nodes": 77530,
+  "tetrahedra": 233216,
+  "bounds_cm": [
+    [
+      2.2712904234144515,
+      2.064108335444791,
+      0.0
+    ],
+    [
+      6.0137592092891845,
+      5.939698615970754,
+      14.0
+    ]
+  ],
+  "regions": {
+    "5": {
+      "cells": 59108,
+      "reference_volume_cm3": 11.666012262254128,
+      "fiber_norm_min_max": [
+        1.0,
+        1.0
+      ]
+    },
+    "15": {
+      "cells": 9464,
+      "reference_volume_cm3": 0.13696948585400953,
+      "fiber_norm_min_max": [
+        0.9999992278532019,
+        1.0000007649867073
+      ]
+    },
+    "16": {
+      "cells": 7988,
+      "reference_volume_cm3": 0.12370054237217737,
+      "fiber_norm_min_max": [
+        0.9999992277402018,
+        1.0000007270082358
+      ]
+    },
+    "17": {
+      "cells": 147558,
+      "reference_volume_cm3": 8.587009299319801,
+      "fiber_norm_min_max": [
+        1.0,
+        1.0
+      ]
+    },
+    "18": {
+      "cells": 9098,
+      "reference_volume_cm3": 0.13809412773348614,
+      "fiber_norm_min_max": [
+        0.9999991874561699,
+        1.000000765601707
+      ]
+    }
+  },
+  "matches_completed_run_visual_reference": true,
+  "coordinate_transform": "none",
+  "fiber_transform": "none; original component values retained without renormalization",
+  "cell_order": "unchanged",
+  "limitations": [
+    "Reference linear mesh only; P2 DOFs and source integration rule still require export and verification",
+    "Facet XML retained by source hash; no inferred facet reordering",
+    "No material, solver or coupling parity established"
+  ],
+  "output_sha256": "3d63a07b606b108ca0a7a9d03a7977dd5183197e414e4304decd5df8b19bd160"
+}
