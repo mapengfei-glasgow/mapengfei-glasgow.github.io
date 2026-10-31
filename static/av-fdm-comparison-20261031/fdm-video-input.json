@@ -1,0 +1,36 @@
+{
+  "run_exit_code": 0,
+  "failure_time_s": null,
+  "last_complete_pair_s": 1.6350000000000002,
+  "paired_states": 83,
+  "source_FE_order": 2,
+  "geometry_display": "original linear vertices of P2 saved state, identical reference topology to CMAME visualization; P2 mid-edge curvature not rendered",
+  "J_scope": "all64 original P2 quadrature points per cell; min/max across all regions, at saved diagnostic steps; display interpolation is not reevaluation",
+  "flow_method": "RECONSTRUCTED from saved VTI point velocity, trapezoidal full-plane integration at the actual native measurement plane z=12.8709677419cm, positive -z; no lumen mask, not exact native MAC flux",
+  "pressure": "finite native stdout values sampled at saved times, mmHg; rounded in log",
+  "inlet": "z-high",
+  "leaflets": [
+    15,
+    16,
+    18
+  ],
+  "supports": [
+    5,
+    17
+  ],
+  "slice_y_cm": 4.0,
+  "time_range_s": [
+    0.0,
+    1.6350000000000002
+  ],
+  "last_J_range": [
+    -9741.671333548868,
+    57474.69782191109
+  ],
+  "last_nonpositive_cells": 5682,
+  "slice_abs_max_cm_s": 559.2797241210938,
+  "command": "build/real_av_diagnosis_20261031 --data /home/staff4/pma/fdm-cmame-av-port-20261030/data/cmame_av_p2/ --nx 80 --ny 80 --nz 128 --z-clear 0.22580645161290322 --dt 5e-6 --nu .04 --beta 1 --beta-body 5e8 --pk1-mask 15\\,16\\,18 --tether-mask 5\\,17 --machine-error --av-iso-form cmame --av-C01 7.99 --av-C10 12100 --av-k1 242300 --av-k2 57.62 --av-beta-s 5e6 --av-Jclip 0 --solid-vmin 0 --radius 1.3 --center-x 4 --center-y 4 --feedback --feedback-kappa 2e5 --ib-kernel ib4 --continue-inverted --inlet /home/staff4/pma/fdm-cmame-av-port-20261030/data/pressure-fdm.txt --windkessel --wk-old --wk-freeze .08 --wk-plane-z 12.913306451612904 --T 1.635 --every 1000 --out /home/staff4/pma/fdm-cmame-av-port-20261030/runs/clearance_2dz_full/ --cmame-advection --cmame-feedback \n",
+  "NaN_state": null,
+  "end_clearance_cm": 0.22580645161290322,
+  "source_saved_pairs": 328
+}

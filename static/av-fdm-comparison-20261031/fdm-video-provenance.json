@@ -1,0 +1,40 @@
+{
+  "source": "fdm-av-clearance-2dz-video-20261031",
+  "failure_time_s": null,
+  "exit_code": 0,
+  "geometry_display": "P2 saved nodal motion at original linear reference vertices; mid-edge curvature not rendered",
+  "J_scope": "all64 P2 quadrature points per cell, all regions at saved diagnostic steps; interpolated display only",
+  "simulation_range_s": [
+    0.0,
+    1.6350000000000002
+  ],
+  "saved_states": 83,
+  "rendered_frames": 241,
+  "fps": 15,
+  "interpolation": "linear between saved displacement and velocity snapshots; no extrapolation",
+  "geometry_motion_scale": 1,
+  "inlet_z": "high",
+  "configuration_label": "FDM AV | 2dz end clearance | completed 1.635 s",
+  "flow": "Reconstructed from saved VTI point velocity with full-plane trapezoidal integration at the recorded native measurement plane, positive -z; not native MAC flux",
+  "flow_plane_z_cm": 12.870967741935484,
+  "slice_y_cm": 4.0,
+  "lumen_radius_cm": 1.3,
+  "axis_center_xy_cm": [
+    4.0,
+    4.0
+  ],
+  "velocity_color_limit_cm_s": 200.0,
+  "velocity_color_clipping": true,
+  "cell_marker_groups": {
+    "leaflets": [
+      15,
+      16,
+      18
+    ],
+    "rigid": [
+      5,
+      17
+    ],
+    "chordae": []
+  }
+}

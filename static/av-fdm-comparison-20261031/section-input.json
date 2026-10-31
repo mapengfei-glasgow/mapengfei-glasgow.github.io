@@ -1,0 +1,150 @@
+{
+  "slice_y_cm": 4,
+  "pressure_conversion_dyn_cm2_per_mmHg": 1333.22368421,
+  "records": [
+    {
+      "solver": "CMAME",
+      "target_time_s": 0.22,
+      "actual_time_s": 0.220005,
+      "file": "/home/staff4/pma/cmame-original-validation-20261029/run_full/output/original_av_full_20261029/data/fluid000044.vti",
+      "speed_cm_s": [
+        0.0027757908539536706,
+        239.30305862698864
+      ],
+      "w_cm_s": [
+        -238.81059437157364,
+        96.8241243357637
+      ],
+      "pressure_mmHg": [
+        -30.93458674073748,
+        169.05764549559132
+      ]
+    },
+    {
+      "solver": "FDM",
+      "target_time_s": 0.22,
+      "actual_time_s": 0.22000000000000003,
+      "file": "/home/staff4/pma/fdm-cmame-av-port-20261030/runs/clearance_2dz_full/fluid_044000.vti",
+      "speed_cm_s": [
+        0.0,
+        193.25771675661957
+      ],
+      "w_cm_s": [
+        -193.22797799955217,
+        12.233832717025532
+      ],
+      "pressure_mmHg": [
+        102.30105317234501,
+        130.64059770334987
+      ]
+    },
+    {
+      "solver": "CMAME",
+      "target_time_s": 0.5,
+      "actual_time_s": 0.500005,
+      "file": "/home/staff4/pma/cmame-original-validation-20261029/run_full/output/original_av_full_20261029/data/fluid000100.vti",
+      "speed_cm_s": [
+        0.0022143713483585466,
+        253.40206850879838
+      ],
+      "w_cm_s": [
+        -19.63251327207127,
+        249.7170215276223
+      ],
+      "pressure_mmHg": [
+        -115.42690769105435,
+        125.01920373067239
+      ]
+    },
+    {
+      "solver": "FDM",
+      "target_time_s": 0.5,
+      "actual_time_s": 0.5,
+      "file": "/home/staff4/pma/fdm-cmame-av-port-20261030/runs/clearance_2dz_full/fluid_100000.vti",
+      "speed_cm_s": [
+        0.0,
+        141.03913756895818
+      ],
+      "w_cm_s": [
+        -33.86487362319284,
+        141.03913756895818
+      ],
+      "pressure_mmHg": [
+        1.8790882089607015,
+        92.65509361521046
+      ]
+    },
+    {
+      "solver": "CMAME",
+      "target_time_s": 1.24,
+      "actual_time_s": 1.240005,
+      "file": "/home/staff4/pma/cmame-original-validation-20261029/run_full/output/original_av_full_20261029/data/fluid000248.vti",
+      "speed_cm_s": [
+        0.005703074165825813,
+        507.76962563469317
+      ],
+      "w_cm_s": [
+        -359.0704237806465,
+        507.4290007309777
+      ],
+      "pressure_mmHg": [
+        -81.46368798666249,
+        177.54296505605677
+      ]
+    },
+    {
+      "solver": "FDM",
+      "target_time_s": 1.24,
+      "actual_time_s": 1.24,
+      "file": "/home/staff4/pma/fdm-cmame-av-port-20261030/runs/clearance_2dz_full/fluid_248000.vti",
+      "speed_cm_s": [
+        0.0,
+        564.1974827310823
+      ],
+      "w_cm_s": [
+        -39.73089758017128,
+        559.2797083022099
+      ],
+      "pressure_mmHg": [
+        -20.278049910900265,
+        317.13701355237043
+      ]
+    },
+    {
+      "solver": "CMAME",
+      "target_time_s": 1.63,
+      "actual_time_s": 1.6300050000000001,
+      "file": "/home/staff4/pma/cmame-original-validation-20261029/run_full/output/original_av_full_20261029/data/fluid000326.vti",
+      "speed_cm_s": [
+        0.0002247674289553957,
+        39.61124032229093
+      ],
+      "w_cm_s": [
+        -39.58677824723953,
+        35.109342346620416
+      ],
+      "pressure_mmHg": [
+        -120.36176020825003,
+        286.8208684666258
+      ]
+    },
+    {
+      "solver": "FDM",
+      "target_time_s": 1.63,
+      "actual_time_s": 1.6300000000000001,
+      "file": "/home/staff4/pma/fdm-cmame-av-port-20261030/runs/clearance_2dz_full/fluid_326000.vti",
+      "speed_cm_s": [
+        0.0,
+        36.167260395103796
+      ],
+      "w_cm_s": [
+        -29.13460869777316,
+        35.758745564128205
+      ],
+      "pressure_mmHg": [
+        2.1358974464182263,
+        195.5429140317773
+      ]
+    }
+  ]
+}

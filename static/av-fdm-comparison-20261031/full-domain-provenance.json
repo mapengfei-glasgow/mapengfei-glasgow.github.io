@@ -1,0 +1,48 @@
+{
+  "time_range_s": [
+    5e-06,
+    1.6300050000000001
+  ],
+  "source_states_per_solver": 83,
+  "frames": 241,
+  "fps": 15,
+  "interpolation": "linear independently on each solver saved times; no extrapolation",
+  "slice_y_cm": 4,
+  "speed_color_range_cm_s": [
+    0.0,
+    600.0
+  ],
+  "axial_velocity_color_range_cm_s": [
+    -600.0,
+    600.0
+  ],
+  "pressure_color_range_mmHg": [
+    -125.0,
+    550.0
+  ],
+  "raw_field_ranges_including_exported_ghost_samples": {
+    "speed_max_cm_s": 564.1974827310823,
+    "w_abs_max_cm_s": 559.2797083022099,
+    "pressure_mmHg": [
+      -123.10947552677148,
+      533.4228865175235
+    ]
+  },
+  "pressure_offset": 0,
+  "physical_domains_cm": {
+    "CMAME": [
+      8,
+      8,
+      14
+    ],
+    "FDM": [
+      8,
+      8,
+      14.451612903225806
+    ]
+  },
+  "geometry_scale": 1,
+  "geometry_display": "original linear vertices with P2 nodal motion; current contours at y=4",
+  "boundaries": "exported ghost samples beyond physical domain hidden; old region above14cm grey",
+  "support_J": "inverted elements not repaired; completion does not establish result validity"
+}

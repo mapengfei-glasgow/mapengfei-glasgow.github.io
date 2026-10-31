@@ -1,0 +1,22 @@
+{
+  "visual_check": "all four PNGs inspected; full physical domain, shared color scales, readable titles/units, boundaries and deformed material contours",
+  "slice_y_cm": 4,
+  "artifacts": [
+    "full_section_0.22s.png",
+    "full_section_0.22s.pdf",
+    "full_section_0.50s.png",
+    "full_section_0.50s.pdf",
+    "full_section_1.24s.png",
+    "full_section_1.24s.pdf",
+    "full_section_1.63s.png",
+    "full_section_1.63s.pdf"
+  ],
+  "pressure_probe_0p22s": {
+    "scope": "median over y=4 slice; z in(1,7)cm; inside x in(3.5,4.5), outside x in(0.3,2)cm",
+    "CMAME_inside_mmHg": 118.10195146569654,
+    "CMAME_outside_mmHg": -0.027310191510249424,
+    "FDM_inside_mmHg": 115.73586903270909,
+    "FDM_outside_mmHg": 118.19056263856454
+  },
+  "interpretation": "Observed exterior pressure difference is not solely a uniform gauge offset; boundary treatment is a candidate requiring source-level verification, not an established sole cause."
+}

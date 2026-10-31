@@ -1,0 +1,54 @@
+{
+  "completed_time_s": 1.635,
+  "steps": 327000,
+  "exit_code": 0,
+  "saved_pairs": 328,
+  "binary_sha256": "5663a7adcf6ac71c80d4f0c76a8b93d960920057de5655d22809f7b49fb74fa1",
+  "dt": 5e-06,
+  "grid": [
+    80,
+    80,
+    128
+  ],
+  "domain_cm": [
+    8,
+    8,
+    14.451612903225806
+  ],
+  "clearance_cm_each_end": 0.22580645161290322,
+  "dz_cm": 0.11290322580645161,
+  "requested_flow_plane_z_cm": 12.913306451612904,
+  "actual_flow_plane_z_cm": 12.870967741935484,
+  "continuation": "finite J<=0 logged and allowed; nonfinite states stop",
+  "final_J_by_marker": {
+    "5": [
+      -943.7275358539505,
+      1083.553225503918
+    ],
+    "15": [
+      0.3782612742256367,
+      1.5486382534909264
+    ],
+    "16": [
+      0.29405629691247154,
+      1.553580834311725
+    ],
+    "17": [
+      -9741.671333548868,
+      57474.69782191109
+    ],
+    "18": [
+      0.24901297506348205,
+      1.5660589746905882
+    ]
+  },
+  "source_sha256": {
+    "fdm-3d-v1/src/ibm/reference_materials.h": "7902c751540501a45ae5266f5ce3d3a2f5e07a89b7b9907eb797c888a9f6f3ec",
+    "fdm-3d-v1/src/ibm/nodal_ibm_solver.h": "b4f0ab9a5222e73d3206b74501826f82be592521b7d95505062385e659e755ce",
+    "fdm-3d-v1/src/ibm/cmame_av_stress.h": "6c8ba658e70303d06bda0b51c675e861674212215c1585d92549918246db2bca",
+    "fdm-3d-v1-gpu/demo/real_av.cu": "086bb4faa154f84cad709757d10462ecf0c46b1775a7d84ad916f92cf403aaf0",
+    "fdm-3d-v1-gpu/src/solid_data_gpu.h": "d9f9342af912c4c23c4dfac60141356a4701eaf9314d8f0f34857440b6e9dc0e",
+    "fdm-3d-v1-gpu/src/ns_solver_cuda.h": "9e724ce01647f2dfa132171d44d3cb6b1c164d0c48909854a23205621d8b93a6",
+    "fdm-3d-v1-gpu/src/cmame_advection_cuda.h": "723ea3907b6508e2ef3e1cbd8dff83179bc9f33e4fa39191d755e2382dc4606b"
+  }
+}

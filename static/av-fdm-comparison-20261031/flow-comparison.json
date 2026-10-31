@@ -1,0 +1,30 @@
+{
+  "scope": "same VTI reconstruction, common relative z=12.6875 cm; FDM shift +28/124 cm; bilinear xy sample on common physical [0,8]^2 at0.1cm; trapezoidal full-plane flux positive -z",
+  "sampling": "83 states per solver (~0.02s cadence), temporal linear interpolation; sampled extrema, not per-step extrema; volumes are coarse-cadence estimates",
+  "common_time_s": [
+    5e-06,
+    1.6300050000000001
+  ],
+  "RMSE_mL_s": 75.23202975148638,
+  "max_abs_difference_mL_s": 471.383830993742,
+  "max_abs_difference_time_s": 1.240005,
+  "net_volume_mL": {
+    "CMAME": 166.88619023874364,
+    "FDM": 120.71599435636492
+  },
+  "CMAME": {
+    "selected_states": 83,
+    "sampled_peak_mL_s": 535.4253939824782,
+    "sampled_peak_time_s": 0.220005,
+    "sampled_min_mL_s": -340.2214472295069,
+    "sampled_min_time_s": 0.500005
+  },
+  "FDM": {
+    "selected_states": 83,
+    "sampled_peak_mL_s": 492.9193523831532,
+    "sampled_peak_time_s": 0.22000000000000003,
+    "sampled_min_mL_s": -474.9553040709635,
+    "sampled_min_time_s": 0.5
+  },
+  "peak_difference_percent": -7.938742180897762
+}
