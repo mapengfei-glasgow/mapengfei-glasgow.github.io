@@ -1,0 +1,373 @@
+---
+layout: single
+title: "Is this how the great international borrowing spree ends?"
+show: "Planet Money"
+categories: ["Planet Money"]
+date: 2026-10-31T00:00:00Z
+slug: "2026-10-31-is-this-how-the-great-international-borrowing-spree-ends"
+audioDir: "2026-10-31-is-this-how-the-great-international-borrowing-spree-ends"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-31-is-this-how-the-great-international-borrowing-spree-ends/episode.mp3"
+totalDuration: 1777.7
+sentences:
+  - {text: "This message comes from Avalara Aviator.", start: 0.14, end: 2.50}
+  - {text: "Aviator is the agent hub for tax and compliance.", start: 2.92, end: 5.42}
+  - {text: "Herpes Build AI agents work around the clock and across business systems to help execute the work.", start: 5.92, end: 10.82}
+  - {text: "Visit Avalara .com slash Aviator.", start: 11.24, end: 13.66}
+  - {text: "This is Planet Money from NPR.", start: 15.42, end: 17.76}
+  - {text: "Raise your hand if you have a friend like this.", start: 20.97, end: 23.73}
+  - {text: "They are driving a car they cannot afford.", start: 24.03, end: 26.91}
+  - {text: "Their mortgage payments are bigger than their paychecks.", start: 27.41, end: 29.61}
+  - {text: "They charge everything to their credit card, which they also can't afford.", start: 29.87, end: 33.77}
+  - {text: "So they keep taking out new credit cards to pay the interest on the old ones.", start: 34.05, end: 37.57}
+  - {text: "That's basically what some of the richest countries in the world have been doing.", start: 37.85, end: 41.95}
+  - {text: "Over the past decade and a half, their governments have been racking up record amounts of debt.", start: 42.43, end: 47.43}
+  - {text: "The United States, the UK, Italy and France, even the Canadians!", start: 47.93, end: 53.01}
+  - {text: "After decades of heavy spending, the Canadian government now owes more than a trillion dollars in debt.", start: 53.41, end: 58.85}
+  - {text: "All of this national debt would have been unthinkable just a generation ago.", start: 59.19, end: 63.31}
+  - {text: "The big question now, how much debt is too much debt?", start: 63.75, end: 66.97}
+  - {text: "And that is why a lot of economists are paying very close attention to France right now.", start: 67.57, end: 73.45}
+  - {text: "Because over the past several months in France, there have started to be serious whispers about an outrageous possibility.", start: 73.73, end: 80.59}
+  - {text: "The possibility that France might not be able to pay back all of its debts.", start: 81.05, end: 84.71}
+  - {text: "Which could mean that the 7th largest economy in the world might at some point in the future need bailing out.", start: 85.01, end: 91.07}
+  - {text: "These scary whispers are not just coming from politicians.", start: 91.55, end: 94.67}
+  - {text: "They're not just coming from economists.", start: 94.91, end: 96.85}
+  - {text: "They are coming from the market itself.", start: 97.27, end: 99.71}
+  - {text: "From all the people that France is trying to borrow money from.", start: 100.07, end: 103.65}
+  - {text: "Those investors have started to worry that the French government might not pay them back.", start: 104.05, end: 108.59}
+  - {text: "Which is a crazy thing to even say out loud.", start: 108.79, end: 111.87}
+  - {text: "So now, in order to keep borrowing, the French government has to pay these investors higher and higher interest rates.", start: 112.31, end: 118.61}
+  - {text: "The problem is, France needs to keep borrowing money.", start: 119.07, end: 123.31}
+  - {text: "It is running a huge budget deficit.", start: 123.61, end: 125.93}
+  - {text: "France has an aging population, rising healthcare costs, and an expensive pension program.", start: 126.29, end: 131.47}
+  - {text: "And right now, as you may have heard, maybe from NPR's Eleanor Beardsley, the French people are taking to the streets.", start: 132.05, end: 138.83}
+  - {text: "Not to tell their government to cut back, but to keep spending more.", start: 139.13, end: 144.33}
+  - {text: "The farmers are asking for money.", start: 144.83, end: 146.21}
+  - {text: "The workers are asking for money.", start: 146.33, end: 147.57}
+  - {text: "The students are asking for money.", start: 147.67, end: 148.91}
+  - {text: "Everybody's asking for money.", start: 149.25, end: 150.43}
+  - {text: "There's money, and we want it, you know.", start: 150.73, end: 152.85}
+  - {text: "But is there money?", start: 153.09, end: 154.21}
+  - {text: "You know, no, well, they have to borrow money.", start: 155.41, end: 157.97}
+  - {text: "Eleanors followed these protests since they started in September.", start: 158.85, end: 161.73}
+  - {text: "At first, it was students in France's public schools complaining about the lack of teachers, the crumbling roofs, very real concerns.", start: 162.31, end: 169.53}
+  - {text: "Just go to university and look at everything.", start: 169.53, end: 172.37}
+  - {text: "That was Sydney Jasset.", start: 172.77, end: 173.87}
+  - {text: "Then, as these protests were expanding, the French government revealed its proposal to actually trim some of the budget, spend less.", start: 174.21, end: 181.43}
+  - {text: "And that really set people off.", start: 182.09, end: 184.21}
+  - {text: "So now it's really transformed into a massive societal protest.", start: 184.49, end: 188.37}
+  - {text: "They call them the cost -of -living protests.", start: 188.91, end: 190.97}
+  - {text: "They've been absolutely huge.", start: 191.33, end: 192.57}
+  - {text: "Like, last Saturday, it was like a coursing human river down this boulevard.", start: 192.99, end: 197.41}
+  - {text: "I mean, you couldn't even get across it.", start: 197.57, end: 199.01}
+  - {text: "In late October, some of the protests got violent.", start: 199.01, end: 201.55}
+  - {text: "There was looting, there was arson, and some police got violent.", start: 201.83, end: 205.55}
+  - {text: "Eleanor got tear -gassed at one point.", start: 205.87, end: 207.69}
+  - {text: "But she says, for the most part, the hundreds of thousands of people marching in the streets have been peaceful.", start: 207.79, end: 213.77}
+  - {text: "They're just frustrated. And to them, all this talk about France potentially running out of money seems like an excuse.", start: 214.25, end: 221.85}
+  - {text: "Have any of the protesters that you talk to have any of them said anything about, I don't know, France's enormous debt, the budget deficit?", start: 222.31, end: 229.65}
+  - {text: "No, not one. You ask people about the debt out there, and they're like, that's not our problem.", start: 230.29, end: 235.27}
+  - {text: "That's up to the government to deal with.", start: 235.45, end: 237.03}
+  - {text: "Or they say debt is just one woman told me debt is just used to keep people in line.", start: 237.37, end: 241.23}
+  - {text: "Eleanor chatted for a bit with this protester.", start: 241.59, end: 243.53}
+  - {text: "She's a woman in her fifties.", start: 243.83, end: 245.23}
+  - {text: "Her name is Julie Biatt.", start: 245.45, end: 246.51}
+  - {text: "And Eleanor asked her, should France just stop paying its debts?", start: 246.97, end: 250.97}
+  - {text: "Yeah, why not? There is a bunch of monies in the world.", start: 251.29, end: 254.29}
+  - {text: "Don't say there's no money.", start: 254.29, end: 255.91}
+  - {text: "It's not the question that there is no money.", start: 256.63, end: 258.97}
+  - {text: "There is so much money.", start: 259.27, end: 260.65}
+  - {text: "And look, Julie does have a point.", start: 261.15, end: 263.55}
+  - {text: "There is a lot of money in the world.", start: 263.79, end: 266.25}
+  - {text: "It's just that investors are increasingly nervous about lending it to the French government.", start: 266.63, end: 270.99}
+  - {text: "And there is something economically strange about that.", start: 271.45, end: 274.23}
+  - {text: "Why are investors so spooked by France specifically?", start: 274.59, end: 278.21}
+  - {text: "Like, sure. The French government does owe a lot of money, but relatively speaking, Italy and Greece are even deeper in debt.", start: 278.91, end: 285.95}
+  - {text: "And sure, the French government keeps spending more than it collects in taxes, but the budget deficit in the US is currently worse.", start: 286.49, end: 294.61}
+  - {text: "So what is it about France that has investors so worried that we are talking about a potential debt crisis?", start: 295.09, end: 300.61}
+  - {text: "Or is the better question, why haven't investors gotten spooked by all the rest of us, all the other countries that are also on this runaway borrowing spree?", start: 301.17, end: 311.17}
+  - {text: "Hello and welcome to Planet Money.", start: 312.07, end: 313.49}
+  - {text: "I'm Jeff Guo. I'm Erica Barris.", start: 313.71, end: 315.45}
+  - {text: "Today on the show, how borrowing on top of borrowing, on top of borrowing became the new normal for countries around the world.", start: 315.77, end: 322.99}
+  - {text: "And what all those countries, including the US, might learn from what is going wrong in France.", start: 323.23, end: 328.97}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 337.40, end: 341.22}
+  - {text: "This message comes from BetterHelp.", start: 342.00, end: 343.84}
+  - {text: "BetterHelp is in -network with more than 125 health plans with an average co -pay for eligible members of just $23 per session.", start: 344.16, end: 351.90}
+  - {text: "Don't have eligible insurance?", start: 352.24, end: 353.38}
+  - {text: "You can still get 10 % off your first month.", start: 353.72, end: 356.08}
+  - {text: "Visit BetterHelp .com slash NPR to explore your payment options.", start: 356.34, end: 360.52}
+  - {text: "That's BetterHELP .com slash NPR.", start: 360.86, end: 364.54}
+  - {text: "This message comes from designer shoe warehouse.", start: 365.10, end: 367.62}
+  - {text: "You know that feeling when you find shoes you love at a great price and want to tell everyone about it?", start: 368.06, end: 373.22}
+  - {text: "Find something to brag about at designer shoe warehouse.", start: 373.40, end: 376.22}
+  - {text: "Like the latest styles from brands you love, the trends everyone's obsessing over, and shoes that make you feel like you.", start: 376.22, end: 383.20}
+  - {text: "Head to a DSW store or DSW .com today for shoes that get you at prices that get your budget.", start: 383.50, end: 390.62}
+  - {text: "DSW, let us surprise you.", start: 391.08, end: 393.02}
+  - {text: "There has been this huge international borrowing spree going on where all these rich countries are taking on more and more debt.", start: 393.99, end: 401.33}
+  - {text: "And it wasn't always like this.", start: 401.67, end: 403.29}
+  - {text: "Back in the 1990s, economists like to say that if you were a country with an advanced economy, then your national debt shouldn't exceed 60 % of your GDP.", start: 403.67, end: 412.65}
+  - {text: "That was considered the upper limit of safe.", start: 413.35, end: 415.97}
+  - {text: "So like in the early 2000s, the US was at around 54%.", start: 416.39, end: 419.91}
+  - {text: "If your government was borrowing more than that, then your country was venturing out onto thin ice.", start: 419.91, end: 425.17}
+  - {text: "These days, a lot of rich countries have blown way past that number.", start: 425.41, end: 429.75}
+  - {text: "The UK is at 102.", start: 430.19, end: 431.43}
+  - {text: "The US is at 126.", start: 431.93, end: 433.71}
+  - {text: "Italy is at like 137.", start: 433.71, end: 436.49}
+  - {text: "You know, we are all testing the limits.", start: 436.93, end: 438.41}
+  - {text: "Thomas Philippon is a professor at NYU.", start: 438.77, end: 440.63}
+  - {text: "He says not since World War II have we ever seen so many rich countries borrow so much money for such a long period of time.", start: 441.19, end: 449.03}
+  - {text: "And now, Thomas says, we're all just watching to see what level of borrowing and spending is going to put a country in danger.", start: 449.37, end: 456.13}
+  - {text: "Like, you know, push it over the edge.", start: 456.33, end: 458.39}
+  - {text: "It's like the penguins in New York has.", start: 458.67, end: 460.19}
+  - {text: "One is going to be the first one to find out where the limit is.", start: 460.47, end: 463.71}
+  - {text: "So I guess in this analogy is France the penguin that's fallen off the iceberg right now?", start: 464.01, end: 468.83}
+  - {text: "Yeah, potentially could be.", start: 469.11, end: 470.27}
+  - {text: "By the way, we know that this is not an entirely accurate description of how penguins behave in the wild, but we did not call up Thomas because he studies penguins.", start: 470.71, end: 478.21}
+  - {text: "We called him up because he is one of the world's leading experts on macroeconomics and also a longtime advisor to the French government.", start: 478.59, end: 487.29}
+  - {text: "He serves on this fancy French council of economists.", start: 487.69, end: 490.57}
+  - {text: "Over the past 20 years, he has been watching France's debt climb higher.", start: 490.57, end: 495.03}
+  - {text: "And then higher. And then higher.", start: 495.69, end: 498.15}
+  - {text: "He says, the story goes like this.", start: 498.71, end: 500.75}
+  - {text: "Back in the 2000s, France's national debt was hovering around that upper limit of 60 % of GDP.", start: 501.09, end: 506.79}
+  - {text: "That was the rule if you wanted to join the euro, because Europe only wanted economically healthy countries to share their currency.", start: 507.31, end: 513.07}
+  - {text: "But then in 2008, there was the global financial crisis.", start: 513.39, end: 518.39}
+  - {text: "And France had to borrow a ton of money to fund its economic stimulus just like a lot of other countries did.", start: 518.39, end: 526.07}
+  - {text: "And after the crisis, France did not pay down its debt.", start: 526.41, end: 530.83}
+  - {text: "It just kept borrowing just like a lot of other countries did.", start: 531.25, end: 534.65}
+  - {text: "By 2020, France's debt had reached more than 100 % of GDP.", start: 534.95, end: 539.41}
+  - {text: "And then COVID cuts and boom.", start: 539.93, end: 542.26}
+  - {text: "When COVID hit, France then had to borrow a ton more money just like a lot of other countries to pay for the pandemic response.", start: 542.68, end: 550.90}
+  - {text: "That's how you end up with 120 % of debt to GDP today.", start: 551.14, end: 555.34}
+  - {text: "And 120%, that's like, I feel like a decade, two decades ago, those were unthinkable numbers.", start: 556.02, end: 561.84}
+  - {text: "Yeah, but the new normal is, above 100 is a new normal.", start: 562.42, end: 567.22}
+  - {text: "Now, to be fair, one reason why so many countries have been borrowing so much is because, for a long time, investors kept giving these countries really cheap loans.", start: 567.66, end: 578.88}
+  - {text: "You know, it's like that song.", start: 579.52, end: 580.98}
+  - {text: "It takes two to make a staggering amount of sovereign debt.", start: 581.36, end: 584.40}
+  - {text: "I don't know, something like that.", start: 584.86, end: 585.94}
+  - {text: "Yeah, these cheap loans, they are the other side of the story.", start: 586.60, end: 590.74}
+  - {text: "So rewind, back to the financial crisis.", start: 591.28, end: 593.60}
+  - {text: "That is when interest rates in the US and Europe went to basically zero.", start: 593.94, end: 597.52}
+  - {text: "And they basically stayed that way for years.", start: 597.94, end: 600.44}
+  - {text: "Many governments were able to borrow essentially for free.", start: 600.90, end: 604.20}
+  - {text: "So a lot of them were like, why not keep borrowing?", start: 605.06, end: 607.36}
+  - {text: "Interest rates stayed so low for so long that eventually you started to hear very important mainstream economists talking about how they learned to stop worrying and maybe even love the debt.", start: 607.92, end: 620.48}
+  - {text: "Yeah, in 2019, there was this iconic speech by the president of the American Economic Association at the time, one of the titans of macroeconomics.", start: 620.82, end: 630.26}
+  - {text: "Without further ado, with great pleasure, I introduce Olivier Blanchard.", start: 630.26, end: 633.44}
+  - {text: "Olivier Blanchard walks up to the lectern, he's in this crisp navy suit, dark red tie, looks more like a banker than an academic, and he", start: 635.42, end: 643.24}
+  - {text: "starts talking about the problem of government debt.", start: 643.24, end: 645.90}
+  - {text: "There is a sense that public debt is incredibly costly and you hear calls for dramatic decreases in public debt.", start: 646.24, end: 654.42}
+  - {text: "But then he started saying something that sounded kind of radical.", start: 654.78, end: 658.10}
+  - {text: "He was like, look at how low the interest rates are right now.", start: 658.56, end: 661.62}
+  - {text: "If countries can borrow this cheaply, then maybe they won't ever need to pay off their debts.", start: 662.12, end: 667.32}
+  - {text: "If this is going to be the case for the future, you can do what's known as a debt wall over, you just issue debt and then you never repay.", start: 667.72, end: 674.72}
+  - {text: "I remember that moment very well.", start: 675.58, end: 677.28}
+  - {text: "This week, with everything that's going on in France, we went back to Olivier Blanchard and he told us the point of that speech was to", start: 677.56, end: 683.96}
+  - {text: "get people to reconsider what he thought were some of the old superstitions about debt.", start: 683.96, end: 688.38}
+  - {text: "When it comes to debt people have very, very strong priors.", start: 688.68, end: 693.10}
+  - {text: "Yeah. Basically, as you know in German, debt is synonym with sin.", start: 693.78, end: 699.84}
+  - {text: "Is it really? Yeah, it is.", start: 701.32, end: 703.30}
+  - {text: "Apparently the German word for debt is schuld, which is also a word the Germans use for guilt and fault, as in your debt, your fault.", start: 703.92, end: 711.68}
+  - {text: "In French, for what is worth, the word for debt is just la dette.", start: 712.28, end: 715.36}
+  - {text: "La dette. Anyway, Olivier was basically pointing out that if a country is growing fast enough it doesn't have to pay off its debt.", start: 715.86, end: 723.74}
+  - {text: "It can essentially outgrow its debt.", start: 724.10, end: 726.72}
+  - {text: "We actually did a whole episode on this idea.", start: 726.98, end: 728.62}
+  - {text: "The key thing here is the interest rate on your debt.", start: 729.14, end: 731.86}
+  - {text: "That's the rate at which your debt is growing and compounding.", start: 732.22, end: 735.30}
+  - {text: "You just need your economy to grow faster than that.", start: 735.60, end: 738.08}
+  - {text: "That's why Olivier is always telling people there is no magic number for too much debt.", start: 738.48, end: 743.62}
+  - {text: "You can live with debt at 200%.", start: 743.98, end: 746.34}
+  - {text: "It may not be great but you can do it as long as you can stabilize it.", start: 746.34, end: 751.26}
+  - {text: "You wish you didn't have it?", start: 752.04, end: 753.42}
+  - {text: "Yes. No problem. But it's not the end of the world.", start: 753.56, end: 755.82}
+  - {text: "Back when Olivier was giving his speech in 2019 it seemed to him and many people that interest rates would continue to be low for the foreseeable future.", start: 756.24, end: 765.34}
+  - {text: "So countries could keep on borrowing for the foreseeable future.", start: 765.76, end: 769.42}
+  - {text: "So that turned out to be a mistake.", start: 769.42, end: 772.44}
+  - {text: "I had not anticipated COVID.", start: 772.72, end: 774.92}
+  - {text: "I had not anticipated Ukraine.", start: 775.24, end: 776.84}
+  - {text: "I had not anticipated Iran.", start: 777.50, end: 779.34}
+  - {text: "I had not anticipated AI.", start: 779.58, end: 780.98}
+  - {text: "I do apologize for all that.", start: 781.70, end: 783.26}
+  - {text: "For not being able to tell the future?", start: 783.76, end: 785.64}
+  - {text: "Yeah, exactly. The future is really hard to predict.", start: 786.34, end: 789.08}
+  - {text: "In recent years that weird zero -interest rate world we were all living in, we have snapped out of it.", start: 789.90, end: 796.08}
+  - {text: "Inflation is back. There have been crises and wars.", start: 796.50, end: 799.32}
+  - {text: "So interest rates are on the rise all around the world, meaning that it's getting more and more expensive for everyone to borrow money, including governments.", start: 799.84, end: 808.36}
+  - {text: "So starting the past couple years many economists have been wondering is it time for this international borrowing spree that countries have been on to finally come to an end?", start: 808.88, end: 819.28}
+  - {text: "Everyone has been waiting to see which country is showing signs of trouble.", start: 819.91, end: 824.33}
+  - {text: "Or, like our other economist, Thomas Philippon put it, who will be the first penguin to get eaten by an orca?", start: 824.33, end: 830.41}
+  - {text: "You know, who's going to be the first to jump in the water?", start: 830.81, end: 832.61}
+  - {text: "In 2024 Thomas and a couple of other economists on that fancy French council published a big report with a big warning to the French government.", start: 833.17, end: 841.87}
+  - {text: "I saw the situation as going in the wrong direction and I thought that we could try to convince people that the time to act was now.", start: 842.21, end: 850.51}
+  - {text: "Basically they said we're not in a crisis right now.", start: 850.87, end: 853.87}
+  - {text: "Up until this point, France has been growing fast enough to keep all this debt under control.", start: 854.35, end: 859.43}
+  - {text: "But if we keep piling on more and more debt, pretty soon we could be in trouble.", start: 859.87, end: 864.79}
+  - {text: "And look, Thomas is not one of those fiscal conservative types who thinks that governments must borrow less and spend less.", start: 865.27, end: 871.91}
+  - {text: "Used to work as a top advisor to members of the center -left French Socialist Party.", start: 872.21, end: 876.53}
+  - {text: "I thought if somebody like me says well maybe this time to actually do something, perhaps without a tiny bit more credibility.", start: 876.85, end: 885.33}
+  - {text: "In this report the economists offered what Thomas thought was a fairly mild proposal.", start: 886.13, end: 890.95}
+  - {text: "They weren't saying that France needed to reduce its debt.", start: 891.47, end: 894.03}
+  - {text: "They just wanted the government to stop adding to the debt.", start: 894.39, end: 897.85}
+  - {text: "In other words to start balancing the budget finally and not even right away gradually over the next seven years.", start: 898.17, end: 905.51}
+  - {text: "The point was look we have time.", start: 905.83, end: 907.93}
+  - {text: "If we act now we don't have to do something crazy.", start: 908.63, end: 910.79}
+  - {text: "But we need to start now.", start: 911.51, end: 913.05}
+  - {text: "And I hope that people would understand that indeed there was a right thing to do.", start: 914.21, end: 919.27}
+  - {text: "But instead, Thomas says he may have underestimated the nature of modern French politics.", start: 919.61, end: 925.99}
+  - {text: "Because the French government did not follow his advice.", start: 926.35, end: 929.49}
+  - {text: "Of course, no they didn't do anything.", start: 929.69, end: 932.39}
+  - {text: "But I tried anyway.", start: 933.05, end: 934.41}
+  - {text: "Yeah, since Thomas and his colleagues published that report in 2024, France's debt problem has continued to get worse.", start: 934.41, end: 942.59}
+  - {text: "And then a couple months ago there was a pretty ominous warning sign.", start: 943.01, end: 947.11}
+  - {text: "The interest rate on 10 -year French bonds suddenly spiked.", start: 947.71, end: 951.65}
+  - {text: "Investors were demanding that the French government pay an extra premium on its interest rates.", start: 952.03, end: 957.19}
+  - {text: "Like above and beyond what most other countries in the EU pay to borrow money.", start: 957.31, end: 961.69}
+  - {text: "The interest rate went from 3 ish percent to almost 5%.", start: 962.07, end: 965.51}
+  - {text: "It's the highest that France has had to pay since the 2000s.", start: 965.51, end: 968.41}
+  - {text: "And that's because investors think that of all the countries in Europe that share the euro as their currency France is becoming especially risky.", start: 968.65, end: 977.61}
+  - {text: "They're worried they're not going to get their money back.", start: 978.47, end: 981.11}
+  - {text: "When we come back from the break, why is France getting singled out right now?", start: 983.08, end: 986.80}
+  - {text: "And what can other countries learn from this situation?", start: 987.04, end: 989.32}
+  - {text: "You know, asking for a friend.", start: 989.80, end: 990.88}
+  - {text: "Because if you think France's debt situation looks bad oof.", start: 990.88, end: 995.64}
+  - {text: "Look at the US.", start: 995.92, end: 996.92}
+  - {text: "Look in the mirror.", start: 997.42, end: 998.22}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1002.24, end: 1006.04}
+  - {text: "This message comes from designer shoe warehouse.", start: 1006.48, end: 1008.92}
+  - {text: "You know that feeling when you find shoes you love at a great price and want to tell everyone about it?", start: 1009.36, end: 1014.52}
+  - {text: "Find something to brag about at designer shoe warehouse.", start: 1014.74, end: 1017.48}
+  - {text: "Like the latest styles from brands you love, the trends everyone's obsessing over and shoes that make you feel like you.", start: 1017.72, end: 1024.52}
+  - {text: "Head to a DSW store or DSW .com today for shoes that get you at prices that get your budget.", start: 1024.80, end: 1031.92}
+  - {text: "DSW. Let us surprise you.", start: 1032.42, end: 1034.32}
+  - {text: "When your work day is constantly disrupted, your workflow isn't flowing.", start: 1034.80, end: 1038.40}
+  - {text: "It's come to a grinding halt.", start: 1038.76, end: 1040.32}
+  - {text: "You don't need an assistant.", start: 1040.64, end: 1041.70}
+  - {text: "You need superpowers. Superhuman go from the makers of Grammarly is built for how you actually work.", start: 1042.02, end: 1048.32}
+  - {text: "No new tabs. No switching apps.", start: 1048.64, end: 1050.86}
+  - {text: "No losing your place.", start: 1051.12, end: 1052.14}
+  - {text: "Go handles busy work like finding documents or summarizing email threads so you can focus on the work only you can do.", start: 1052.62, end: 1059.42}
+  - {text: "Try superhuman go from the makers of Grammarly.", start: 1059.80, end: 1062.36}
+  - {text: "Find out more at superhuman .com.", start: 1062.62, end: 1064.34}
+  - {text: "This message comes from Kachava.", start: 1065.22, end: 1066.72}
+  - {text: "Sometimes flavors need a pinch of salt to unleash their full potential.", start: 1067.14, end: 1070.76}
+  - {text: "Kind of like life.", start: 1071.16, end: 1072.10}
+  - {text: "A little saltiness can keep things interesting and deliciously sweet.", start: 1072.40, end: 1075.52}
+  - {text: "Fuel your salty sweet cravings with Kachava's new salted caramel all in one nutrition shake.", start: 1076.00, end: 1080.58}
+  - {text: "Just two scoops provide protein, fiber, greens and more.", start: 1080.98, end: 1084.14}
+  - {text: "Embrace your salty side.", start: 1084.60, end: 1085.74}
+  - {text: "Go to Kachava .com and use code NPR for 15 % off your first order.", start: 1086.18, end: 1090.28}
+  - {text: "That's K -A -C -H -A -V -A dot com code NPR.", start: 1090.66, end: 1094.46}
+  - {text: "There is a stereotype in finance a somewhat unfair but not entirely wrong stereotype about European countries, which is that there are basically two kinds.", start: 1095.24, end: 1107.06}
+  - {text: "Some European countries are seen as economically responsible.", start: 1107.62, end: 1110.98}
+  - {text: "They always pay back their debts.", start: 1111.44, end: 1112.92}
+  - {text: "No fuss, no drama.", start: 1113.22, end: 1114.42}
+  - {text: "These are countries like Germany, the Netherlands, Austria and France.", start: 1114.78, end: 1119.18}
+  - {text: "Then there are the countries that have historically been seen as economically irresponsible.", start: 1119.76, end: 1124.28}
+  - {text: "The ones where there always seem to be some kind of tomfoolery going on with the government or the banks or the markets.", start: 1125.12, end: 1131.80}
+  - {text: "These are countries like Portugal, Italy, Ireland, Greece, Spain.", start: 1132.32, end: 1135.70}
+  - {text: "There is actually this pretty derogatory acronym for these countries, PIIGS pigs.", start: 1136.06, end: 1141.16}
+  - {text: "Investors used to see these countries as riskier.", start: 1141.78, end: 1144.42}
+  - {text: "They were willing to lend money to these countries but only at a premium.", start: 1144.74, end: 1148.12}
+  - {text: "But right now investors think France is a riskier bet than all of those countries.", start: 1148.68, end: 1153.44}
+  - {text: "They are charging France a higher interest rate than Italy, than Greece even.", start: 1153.88, end: 1158.48}
+  - {text: "Greece, the country that went through that horrible embarrassing painful bailout during the financial crisis.", start: 1158.86, end: 1163.48}
+  - {text: "Greece's debt to GDP ratio is 136 % right now.", start: 1163.94, end: 1167.72}
+  - {text: "France is only around 120%.", start: 1168.18, end: 1169.64}
+  - {text: "So on paper France's debt not as bad as Greece's.", start: 1170.42, end: 1174.00}
+  - {text: "So why does the market now think that France is a riskier bet than Greece?", start: 1174.28, end: 1178.84}
+  - {text: "That's because when it comes to government debt, numbers are not everything.", start: 1179.42, end: 1183.68}
+  - {text: "There are also feelings involved.", start: 1184.18, end: 1185.86}
+  - {text: "Vibes. Thomas Philippon, the NYU professor who advises the French government told us, it's really about whether investors feel the country is moving in the right direction.", start: 1186.46, end: 1198.06}
+  - {text: "The most important is the trajectory.", start: 1198.48, end: 1200.72}
+  - {text: "That is, the market would be extremely happy to finance France with 120 % debt to GDP ratio if they were convinced that there was a", start: 1201.68, end: 1211.86}
+  - {text: "credible program to slowly bringing down to 100.", start: 1211.86, end: 1215.06}
+  - {text: "And so this forward -looking part, this credibility of what you're going to do in the future is way more important than where you start from.", start: 1215.64, end: 1224.60}
+  - {text: "So in Greece for instance, sure the debt to GDP ratio is 136%, but a few years ago it was over 200%.", start: 1225.02, end: 1232.86}
+  - {text: "Greece's debt has been on a downward trajectory.", start: 1232.86, end: 1235.68}
+  - {text: "It is making progress paying off all that debt.", start: 1236.08, end: 1238.34}
+  - {text: "And so for now, investors don't see Greece as being a huge borrowing risk.", start: 1238.70, end: 1243.74}
+  - {text: "And for a long time investors had good feelings about France.", start: 1244.08, end: 1247.14}
+  - {text: "They were willing to ignore France's high debt because they were like, it's France, they will eventually get back on the right track.", start: 1247.40, end: 1254.00}
+  - {text: "People assume reasonably that eventually they're going to do something.", start: 1254.42, end: 1258.40}
+  - {text: "Well this eventually is becoming like really eventually eventually eventually.", start: 1259.80, end: 1263.78}
+  - {text: "And some people have a doubt now.", start: 1264.34, end: 1265.42}
+  - {text: "We are seeing in real time an example of a country that is slowly losing the benefit of the doubt.", start: 1265.70, end: 1273.48}
+  - {text: "Couldn't the French government just put out a press release saying, don't worry we're France.", start: 1273.98, end: 1280.02}
+  - {text: "You don't think one of the largest economies in Europe is going to not pay you back?", start: 1280.44, end: 1285.06}
+  - {text: "Yeah, but France has been saying that forever.", start: 1285.26, end: 1287.16}
+  - {text: "And you know, Tokyo's cheap.", start: 1287.84, end: 1289.18}
+  - {text: "By the way, the history of France is pretty terrible in that case because the French kings were serious holders.", start: 1290.31, end: 1294.67}
+  - {text: "Oh really? They didn't pay back their debts?", start: 1295.49, end: 1297.37}
+  - {text: "No, they were famous for doing all kinds of mischief.", start: 1297.65, end: 1300.33}
+  - {text: "Oh, that's bad karma.", start: 1300.33, end: 1301.79}
+  - {text: "Tomas says, if you just look at the financial situation in France right now it's not that that bad.", start: 1302.31, end: 1307.77}
+  - {text: "What the investors are really worried about has less to do with economics and more to do with politics.", start: 1308.17, end: 1313.93}
+  - {text: "They are starting to think that maybe the French government is just incapable of doing what it takes of raising taxes or cutting spending.", start: 1314.27, end: 1321.57}
+  - {text: "The rise of the far left on one side and the far right on the other, neither of whom have realistic plans for balancing the budget,", start: 1321.99, end: 1328.43}
+  - {text: "has made investors think twice about lending France money.", start: 1328.79, end: 1331.53}
+  - {text: "And there is a key indicator here this number that everyone looks at.", start: 1332.15, end: 1336.09}
+  - {text: "It is the difference between the interest rate that France has to pay versus the interest rate that Germany has to pay because everyone thinks Germans will always pay their debts.", start: 1336.33, end: 1344.71}
+  - {text: "This is called the spread and it's basically a fear index.", start: 1345.27, end: 1349.05}
+  - {text: "It measures how much investors fear that France might not pay back its debts.", start: 1349.41, end: 1353.39}
+  - {text: "And that fear index, shall we call it it started to go up in 2024.", start: 1353.81, end: 1358.39}
+  - {text: "Just when President Emmanuel Macron who was seen as his economically responsible, balanced the budget type started to lose control.", start: 1358.71, end: 1365.63}
+  - {text: "Since then the spread or this fear index has remained elevated and then in late September that's when the fear index spiked.", start: 1366.03, end: 1373.67}
+  - {text: "It was as the protests were getting underway.", start: 1373.91, end: 1375.95}
+  - {text: "The problem is the politics is completely messed up and it was already pretty messed up before the recent protest.", start: 1376.29, end: 1383.10}
+  - {text: "The recent protest has highlighted how messed up it is.", start: 1383.10, end: 1386.44}
+  - {text: "And Thomas says it's not the protestors fault.", start: 1387.08, end: 1389.96}
+  - {text: "Many of the things that the protestors are asking for are 100 % legitimate.", start: 1390.40, end: 1396.75}
+  - {text: "Like you should have good condition to study.", start: 1397.61, end: 1399.35}
+  - {text: "That's a real problem.", start: 1399.95, end: 1400.81}
+  - {text: "But the more messed up France's politics looks, the higher interest rates they might have to pay.", start: 1401.29, end: 1406.71}
+  - {text: "And that raises a scary possibility.", start: 1407.17, end: 1409.59}
+  - {text: "A possibility that Olivier Blanchard has been studying in the years since he made that big speech about how sometimes having a lot of debt isn't so catastrophic.", start: 1409.97, end: 1416.93}
+  - {text: "Recently he's been looking at when and how debt does become catastrophic.", start: 1417.65, end: 1422.25}
+  - {text: "You have this what I call the danger zone where it is exactly we don't know but I suspect that in the case of France who are there.", start: 1422.97, end: 1432.56}
+  - {text: "Olivier says once you're in this danger zone where investors have started to lose faith in your government the situation could spiral out of control.", start: 1432.94, end: 1440.22}
+  - {text: "Yeah. You see these higher interest rates that worried investors are demanding they are going to make it even harder for France to pay off its debt.", start: 1440.60, end: 1448.50}
+  - {text: "So France's financial trajectory starts to look worse.", start: 1448.88, end: 1451.92}
+  - {text: "It's got this bigger hole to dig out of.", start: 1452.18, end: 1453.90}
+  - {text: "And that gets investors even more worried.", start: 1454.34, end: 1456.86}
+  - {text: "So they're going to force France to pay even higher interest rates.", start: 1457.06, end: 1460.12}
+  - {text: "It's like your classic bank run except on a national scale.", start: 1460.48, end: 1464.50}
+  - {text: "When it happens exactly when you know when things go from bad to worse very difficult to predict because it depends on the mood of investors.", start: 1464.90, end: 1473.20}
+  - {text: "That's scary. It's very scary that you're saying that right.", start: 1473.48, end: 1476.30}
+  - {text: "No please please please don't sell your French bonds.", start: 1476.60, end: 1479.12}
+  - {text: "Keep them keep them keep them.", start: 1479.64, end: 1481.14}
+  - {text: "Yeah Olivier really wanted us to be careful about what we said here because in this situation perceptions are really important.", start: 1482.02, end: 1489.88}
+  - {text: "He was actually planning on publishing an editorial about this disaster scenario in a big French newspaper because he wanted to warn the people.", start: 1490.20, end: 1497.66}
+  - {text: "He wanted the people of France to take this debt problem seriously.", start: 1497.86, end: 1501.26}
+  - {text: "But then he stopped himself.", start: 1501.88, end: 1503.68}
+  - {text: "He was like what if my little op -ed is the thing that spooks the markets and triggers is a whole doom loop thing.", start: 1504.18, end: 1510.66}
+  - {text: "If I write in Le Monde that this could happen and this is how it could happen and the steps it would give more concreteness to an idea that people have not perceived.", start: 1511.10, end: 1523.34}
+  - {text: "Now what you want to do is convince people but not scare investors right.", start: 1523.52, end: 1529.32}
+  - {text: "Olivier and Thomas both say it's pretty clear that France has got to do something.", start: 1530.24, end: 1535.14}
+  - {text: "Now one possibility is that France's leaders could just suddenly decide hey we are going to be fiscally responsible now.", start: 1535.70, end: 1541.84}
+  - {text: "We're going to cut spending balance the budget but given the political wins right now yeah that's probably not going to happen.", start: 1542.04, end: 1548.30}
+  - {text: "Another possibility is that if things start to get much worse the European Central Bank could come to the rescue.", start: 1548.74, end: 1555.38}
+  - {text: "After the financial crisis the European Central Bank created measures to prevent countries from spiraling into that doom loop that Olivier was talking about.", start: 1555.90, end: 1564.04}
+  - {text: "There's also a European Rescue Fund that could offer emergency loans though it's never had to bill out a country this big.", start: 1564.50, end: 1571.02}
+  - {text: "And that money would almost certainly come with strings attached like France would probably be forced to tighten its budget.", start: 1571.58, end: 1577.50}
+  - {text: "It wouldn't be able to keep spending like it used to.", start: 1577.86, end: 1580.32}
+  - {text: "Thomas says from his point of view France either starts fixing its debt problem now or it lets the problem get worse and then it maybe becomes an emergency", start: 1580.60, end: 1589.88}
+  - {text: "and France might have to make sudden harsh cuts to the budget.", start: 1589.88, end: 1593.04}
+  - {text: "Now the thing is if you do it stupidly and you have to do it very fast you might end up cutting spending more than you would have to", start: 1593.30, end: 1600.00}
+  - {text: "and you're going to hurt more people in particular people who are more vulnerable so that I find painful because that's unnecessary and unfair.", start: 1600.00, end: 1607.92}
+  - {text: "And as an American not to make this all about the US but that's what we do.", start: 1608.40, end: 1612.90}
+  - {text: "I think that the unnerving thing about what we're seeing in France is that what's happening there rhymes with a lot of what's been happening here in Washington.", start: 1613.10, end: 1621.16}
+  - {text: "You think the French government has a lot of debt the US government has more debt you think France is running huge budget deficits every year", start: 1621.64, end: 1628.70}
+  - {text: "we are running even bigger deficits you think French politics is dysfunctional I mean look around.", start: 1628.70, end: 1634.90}
+  - {text: "Of course the US is different from France in some key ways for one we control our currency the dollar still has enormous international cachet also the US economy is growing faster than in France", start: 1635.56, end: 1648.40}
+  - {text: "but the most important thing that the US still has right now is credibility somehow people still think that despite all our government borrowing all our deficit spending all our political dysfunction that the US is gonna turn it around someday eventually.", start: 1648.40, end: 1667.96}
+  - {text: "Save the dates November 6th through the 8th Planet Money is doing three live shows at Kilkenomics the comedy and economics festival in Ireland Kilkenny the town gets taken over by comedians", start: 1670.04, end: 1682.54}
+  - {text: "and economists and will be there pretending to be one or the other find tickets at the link in the show notes or at Kilkenomics .com This episode of Planet Money was produced by Sam Yellowhorse -Kessler", start: 1682.54, end: 1694.50}
+  - {text: "and edited by Marianne McEwn is fact checked by Charlotte Isidore and Sierra Juarez Jimmy Keely and Travis Hagan engineered the show.", start: 1694.50, end: 1701.56}
+  - {text: "Alex Goldmark is the executive producer of Planet Money.", start: 1701.68, end: 1704.46}
+  - {text: "I'm Erika Barris and I'm Jeff Guo this is NPR thanks for listening.", start: 1704.60, end: 1707.98}
+  - {text: "Stay tuned for the following announcements and messages from our sponsors.", start: 1714.92, end: 1718.32}
+  - {text: "This message comes from designer shoe warehouse you know that feeling when you find shoes you love at a great price and want to tell everyone", start: 1718.98, end: 1726.72}
+  - {text: "about it find something to brag about at designer shoe warehouse like the latest styles from brands you love the trends everyone's obsessing over and shoes", start: 1726.72, end: 1735.62}
+  - {text: "that make you feel like you head to a DSW store or DSW .com today for shoes that get you at prices that get your budget DSW let us surprise you.", start: 1735.62, end: 1747.08}
+  - {text: "This message comes from Kachava sometimes flavors need a pinch of salt to unleash their full potential kind of like life a little saltiness can keep things interesting", start: 1747.69, end: 1757.05}
+  - {text: "and deliciously sweet fuel your salty sweet cravings with Kachava's new salted caramel all in one nutrition shake just two scoops provide protein fiber greens and more embrace your salty side go to Kachava .com", start: 1757.05, end: 1769.97}
+  - {text: "and use code NPR for 15 % off your first order that's K A C H A V A dot com code NPR", start: 1769.97, end: 1777.11}
+---

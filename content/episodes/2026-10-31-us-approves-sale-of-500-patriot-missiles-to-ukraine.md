@@ -1,0 +1,282 @@
+---
+layout: single
+title: "US approves sale of 500 Patriot missiles to Ukraine"
+show: "Global News Podcast"
+categories: ["Global News Podcast"]
+date: 2026-10-31T00:00:00Z
+slug: "2026-10-31-us-approves-sale-of-500-patriot-missiles-to-ukraine"
+audioDir: "2026-10-31-us-approves-sale-of-500-patriot-missiles-to-ukraine"
+audioURL: "https://bucket.r2.mapengfei.cn/audio/2026-10-31-us-approves-sale-of-500-patriot-missiles-to-ukraine/episode.mp3"
+totalDuration: 1672.3
+sentences:
+  - {text: "This is the Global News Podcast from the BBC World Service.", start: 0.00, end: 2.58}
+  - {text: "I'm Nick Miles and in the early hours of Saturday, the 31st of October, these are our main stories.", start: 4.52, end: 9.04}
+  - {text: "The US government approves the sale of vital Patriot missiles to Ukraine.", start: 9.70, end: 13.48}
+  - {text: "Kyiv says it needs them now.", start: 13.98, end: 15.30}
+  - {text: "We can find out why that won't happen.", start: 15.58, end: 17.38}
+  - {text: "Russia's most prominent independent paper closes after years of state persecution.", start: 17.94, end: 22.56}
+  - {text: "Is there any truly free media left there?", start: 23.00, end: 25.32}
+  - {text: "And shares in US technology companies fall sharply for a second day in a row on Wall Street, as concerns rise over the hundreds of billions of dollars being invested in AI.", start: 25.32, end: 35.48}
+  - {text: "Also in this podcast, police in Scotland confirm that they're looking into the time the King's brother Andrew Mountbatten Windsor spent with Geoffrey Epstein and Guillain", start: 37.78, end: 47.46}
+  - {text: "Maxwell at the British Royal Family's Balmoral Estate in Aberdeenshire.", start: 47.46, end: 52.14}
+  - {text: "He makes films that absolutely involve all the arts at the same time.", start: 52.86, end: 57.46}
+  - {text: "I don't think I can name a filmmaker today who sees cinema as such a total art form.", start: 57.58, end: 62.24}
+  - {text: "It's a revelation. Ken Russell fans gear up to see a newly restored and uncensored classic by the acclaimed British film director.", start: 62.44, end: 70.12}
+  - {text: "Ukraine is outmanned and outgunned in the conflict with Russia.", start: 73.95, end: 77.43}
+  - {text: "Kyiv says Moscow has stockpiled up to 700 ballistic missiles for attacks against Ukraine.", start: 77.85, end: 83.65}
+  - {text: "These are weapons fired high into the atmosphere that then strike their targets at many times the speed of sound.", start: 83.65, end: 90.17}
+  - {text: "The only reliable defense Kyiv has against them are American Patriot missiles, and Ukraine doesn't have enough of them.", start: 90.65, end: 97.39}
+  - {text: "So the latest announcement by the Trump administration will be welcomed in Kyiv.", start: 97.77, end: 102.15}
+  - {text: "Tom Bateman in Washington has the details.", start: 102.55, end: 104.33}
+  - {text: "The State Department says it's approved the sale of 500 Patriot missiles to Ukraine for an estimated $2 .1 billion, paid for by contributions from Canada, Germany and Norway.", start: 104.73, end: 114.93}
+  - {text: "Ukraine desperately needs the interceptors to defend itself from escalating Russian attacks, but there is a global shortage of the munitions due to their use by the US in the war with Iran.", start: 115.53, end: 125.09}
+  - {text: "The Ukrainian President, Volodymyr Zelensky, said this week his country had been waiting almost a month for the US to sign off on critical missile supplies.", start: 125.67, end: 132.95}
+  - {text: "He has repeatedly called on Washington to speed up deliveries ahead of winter.", start: 133.21, end: 137.37}
+  - {text: "It's not clear what the production schedule will be for the Patriots, but it's understood the order is for new builds rather than existing missiles, meaning", start: 137.37, end: 145.19}
+  - {text: "there is unlikely to be any kind of rapid delivery to Ukraine.", start: 145.19, end: 148.49}
+  - {text: "Well, as you heard in Tom's report, the missiles are unlikely to reach Kyiv immediately.", start: 148.97, end: 153.25}
+  - {text: "But when they do arrive, Peter Dickinson, editor of the blog Ukraine Alert, says they will be vital for Ukraine.", start: 153.67, end: 160.03}
+  - {text: "Ukraine is in desperate need of these Patriot interceptor missiles.", start: 160.51, end: 164.59}
+  - {text: "That's no secret. Everybody knows it, especially the Russians have been taking advantage of that with really scaling up their ballistic missile bombardment of Ukraine in recent months.", start: 164.73, end: 174.21}
+  - {text: "So Zelensky has been very vocal, saying we need to get those missiles as soon as possible.", start: 174.33, end: 179.01}
+  - {text: "Five hundred, frankly, is not going to be enough to see them through the winter.", start: 179.45, end: 182.39}
+  - {text: "Five hundred would probably be enough perhaps for a month or two.", start: 182.83, end: 185.29}
+  - {text: "They're going to want more and more, but it's better than nothing.", start: 185.55, end: 187.53}
+  - {text: "And what we've heard recently is that Ukraine was receiving dozens per month, which is well, well below sort of even subsistence level and essentially left Ukraine defenseless against this attack.", start: 187.69, end: 197.93}
+  - {text: "So that would be a major boost to the country as we get towards the winter season.", start: 198.01, end: 202.09}
+  - {text: "Russian attacks on Ukraine continued on Friday.", start: 202.45, end: 205.09}
+  - {text: "Kyiv's Mayor Vitaly Klitschko said critical infrastructure there was hit.", start: 205.45, end: 210.17}
+  - {text: "Earlier, President Zelensky said Russia had targeted oil refining infrastructure in the city of Kremlinchuk with ballistic missiles.", start: 210.59, end: 218.25}
+  - {text: "But in one small corner of the Southern Kherson region, there is reason for hope.", start: 218.25, end: 223.73}
+  - {text: "There's a ceasefire in place in the Russian -occupied town of Oleshky.", start: 224.27, end: 228.03}
+  - {text: "It was established so that hundreds of people who've been living there for months without power or running water could get out.", start: 228.37, end: 234.33}
+  - {text: "Busloads of people have now been taken to safety.", start: 234.91, end: 237.39}
+  - {text: "Our Ukraine correspondent Dan Johnson sent this report.", start: 237.83, end: 240.57}
+  - {text: "The head of the Ukrainian delegation was hugged by residents when he arrived in Oleshky to lead its people to safety.", start: 244.43, end: 250.89}
+  - {text: "He's the first Ukrainian official to set foot on Russian -occupied territory since the start of the war.", start: 251.29, end: 256.51}
+  - {text: "Nothing will happen, he told them.", start: 258.57, end: 260.29}
+  - {text: "You're all travelling with me, I'm checking everything personally.", start: 260.53, end: 263.79}
+  - {text: "They've lived through four years besieged by the Russians without power or water, and running low on food and medicine.", start: 265.49, end: 272.35}
+  - {text: "Mines on their roads, drones in their skies.", start: 272.99, end: 275.73}
+  - {text: "Mikhail Shumbasov managed to previously escape Oleshky, but he told me he's nervously awaiting news of his friends.", start: 276.89, end: 283.11}
+  - {text: "So many people have died in the city of Oleshky because of atrocities and shelling, and simply from hunger, it had become impossible to live there.", start: 285.63, end: 292.87}
+  - {text: "This is about survival, saving your own life.", start: 293.31, end: 295.71}
+  - {text: "Some residents were reluctant to take these buses because the route to Ukraine is via Russia and Belarus.", start: 296.66, end: 301.92}
+  - {text: "There's also concern they'll be used by Russia to earn credit with the White House for respecting the ceasefire that was brokered by the First Lady Melania Trump.", start: 302.46, end: 310.56}
+  - {text: "The Kremlin described this as a one -off isolated situation, so even if it is successful in saving the people of Oleshky, it's unlikely to lead to a longer -lasting, broader peace.", start: 311.24, end: 320.98}
+  - {text: "Dan Johnson. One of Russia's best -known independent newspapers, Novia Gazieta, has been forced to shut down as a result of what it called intolerable pressure from the authorities.", start: 321.52, end: 333.93}
+  - {text: "A co -founder said it had been targeted because of its vocal opposition to the war in Ukraine.", start: 334.57, end: 339.77}
+  - {text: "Six journalists who worked at the paper have been assassinated over the years and many others are in prison on what are widely seen as false charges.", start: 340.47, end: 348.69}
+  - {text: "Our Russia editor Steve Rosenberg was at the paper's offices in Moscow, a staff there prepared to leave.", start: 349.23, end: 355.11}
+  - {text: "At Novia Gazieta, they're packing up because they're shutting down.", start: 355.11, end: 359.31}
+  - {text: "For 30 years, this has been Russia's most prominent independent newspaper, featuring investigative journalism, often fiercely critical of those in power.", start: 360.08, end: 370.38}
+  - {text: "Now the paper is being evicted from its offices and it says it's been blocked from receiving donations.", start: 371.14, end: 377.62}
+  - {text: "It's accusing the Russian authorities of killing it off.", start: 378.60, end: 381.76}
+  - {text: "Journalist and Nobel Peace Prize laureate Dmitry Muratov helped set up the paper.", start: 382.32, end: 387.36}
+  - {text: "There are different ways to commit murder.", start: 389.98, end: 392.28}
+  - {text: "They chose to strangle us.", start: 393.92, end: 395.82}
+  - {text: "First, they blocked our websites and banned the paper edition.", start: 396.64, end: 399.76}
+  - {text: "Then they revoked our media license.", start: 400.52, end: 402.22}
+  - {text: "Then one by one, we were declared foreign agents and our journalists were attacked.", start: 403.12, end: 407.72}
+  - {text: "Now we can't earn any more money.", start: 408.84, end: 410.32}
+  - {text: "In our country, there are political repressions taking place and now they've reached us.", start: 410.32, end: 416.30}
+  - {text: "Anna Politkovskaya, a fearless investigative reporter, was shot dead 20 years ago.", start: 419.56, end: 425.40}
+  - {text: "In her memory, her office was preserved.", start: 425.96, end: 428.54}
+  - {text: "It became a museum.", start: 429.24, end: 430.02}
+  - {text: "Now everything has to be removed.", start: 430.92, end: 432.72}
+  - {text: "Since Russia's full -scale invasion of Ukraine, the Kremlin has been even keener to control the messaging.", start: 433.95, end: 440.05}
+  - {text: "Independent Russian media have faced sustained pressure.", start: 440.85, end: 444.35}
+  - {text: "At the newspaper kiosks, there may still be lots of different papers to choose from, but compared to a few years ago, the range of views today is far narrower.", start: 445.47, end: 455.23}
+  - {text: "The difference between Norway -Gezeta and the newspapers that you can still buy in Russia is that in these, you won't find any criticism of President Putin or the war in Ukraine.", start: 455.91, end: 465.69}
+  - {text: "In what is an increasingly controlled media environment, for independent Russian journalists, there is less and less oxygen to express dissent.", start: 466.11, end: 475.13}
+  - {text: "Reporters in the dock, it's not an uncommon sight now in Russia.", start: 475.88, end: 479.92}
+  - {text: "Oleg Raldugin from Norway -Gezeta is accused of misusing personal data.", start: 480.62, end: 485.52}
+  - {text: "And journalists Antonina Favorskaya, Konstantin Gabov, Sergei Karelin and Artem Krieger were jailed on extremism charges over alleged links to the late opposition leader, Alexei Navalny.", start: 486.24, end: 499.52}
+  - {text: "Back at Norway -Gezeta, they've pledged never to forget Anna Politkovskaya and other colleagues who were killed while doing their jobs.", start: 501.02, end: 509.06}
+  - {text: "The end of this newspaper is very much the end of an era, and in an increasingly authoritarian Russia, a sign of the times.", start: 510.16, end: 518.84}
+  - {text: "Steve Rosenberg in Moscow.", start: 518.84, end: 520.82}
+  - {text: "Intel, Alphabet, Reddit, Amazon.", start: 521.84, end: 524.56}
+  - {text: "It is a roll call of tech giants, but they're all in the news for the wrong reason.", start: 525.10, end: 529.38}
+  - {text: "Hundreds of billions of dollars were wiped off their values as share prices on the New York Stock Exchange plummeted on Friday.", start: 529.74, end: 537.18}
+  - {text: "So what's been going on?", start: 537.74, end: 538.78}
+  - {text: "Our business reporter, Simera Hussein, explains.", start: 539.04, end: 541.42}
+  - {text: "It's all about artificial intelligence, and most specifically the eye -watering sums of money that are being invested by American technology firms into the data centers", start: 542.03, end: 554.78}
+  - {text: "that are needed to actually make artificial intelligence work.", start: 554.78, end: 558.84}
+  - {text: "And now what's happening is that investors are really getting nervous about those vast sums of money, and whether or not there's going to be a return on that investment quick enough.", start: 559.54, end: 571.52}
+  - {text: "So they are selling off technology stock.", start: 571.72, end: 574.76}
+  - {text: "The NASDAQ index is the one where most technology companies actually trade, and it is having some massive falls this month.", start: 575.20, end: 585.26}
+  - {text: "It has had the biggest monthly fall in more than a year.", start: 585.40, end: 589.56}
+  - {text: "And of course, so much of the American economy is being fueled by all of these investments in artificial intelligence.", start: 589.76, end: 597.26}
+  - {text: "But many now are starting to worry whether this boom is becoming a bus.", start: 597.84, end: 602.02}
+  - {text: "Simera Hussein in New York.", start: 602.44, end: 604.28}
+  - {text: "In the 2024 US presidential election, Donald Trump won the state of Florida with ease, partly because of the backing of Cuban American voters.", start: 604.97, end: 613.77}
+  - {text: "His supporters were well aware of his plans for mass deportation when they went to the ballot box.", start: 614.31, end: 619.53}
+  - {text: "But now that the policy is actually being carried out, it's prompted a backlash amongst Cuban American voters against Republican candidates in next week's crucial midterm elections.", start: 619.53, end: 630.49}
+  - {text: "Our correspondent Will Grant reports from Miami.", start: 631.01, end: 633.43}
+  - {text: "Hospital in an ambulance, they were being treated for their injuries when ICE immigration agents burst in and arrested them.", start: 653.75, end: 660.55}
+  - {text: "Captured on a relative's mobile phone, the footage of Ms Calero being dragged from her daughter is distressing to watch.", start: 664.59, end: 671.45}
+  - {text: "But it's a scene which has been repeated outside school yards, bus stops, sporting events and even in courthouses at immigration hearings.", start: 672.19, end: 679.61}
+  - {text: "The task of challenging those detentions has filled the waiting rooms and appointment books of immigration lawyers across Florida.", start: 683.53, end: 690.79}
+  - {text: "In Miami, business is booming for Cuban -born lawyer Ismael Labrador, but he wishes it wasn't.", start: 691.43, end: 697.43}
+  - {text: "The way I would like to put it, if you don't have a green card in the United States, you may be a target.", start: 697.59, end: 701.51}
+  - {text: "He has friends and relatives caught up in the dragnet of ICE detentions and was unable to prevent his own cousin from being deported back to Cuba.", start: 702.03, end: 710.31}
+  - {text: "We have relatives who are living in fear right now.", start: 710.55, end: 713.55}
+  - {text: "We've had relatives who have been deported back to Cuba, unfortunately.", start: 713.55, end: 718.33}
+  - {text: "On day one, I will launch the largest deportation program in American history.", start: 718.83, end: 724.03}
+  - {text: "On the campaign trail in 2024, Donald Trump openly and proudly touted his plans for mass deportations.", start: 724.57, end: 731.47}
+  - {text: "Immigration lawyer Ismael Labrador was among the 68 % of Cubans in Florida who voted for him, believing he would only deport people with criminal records.", start: 732.37, end: 741.63}
+  - {text: "I asked him if he hadn't simply been naive about Trump's intentions.", start: 741.63, end: 745.99}
+  - {text: "I think that we got a balance side about the administration.", start: 746.75, end: 748.93}
+  - {text: "I mean, and me personally, I voted for Trump.", start: 749.39, end: 751.59}
+  - {text: "I wanted to get criminals out of the country.", start: 751.99, end: 754.43}
+  - {text: "I wanted to have a safe America.", start: 754.55, end: 755.97}
+  - {text: "So you are a repentant Trump voter in that room?", start: 756.45, end: 759.09}
+  - {text: "Oh, for sure, for sure.", start: 759.15, end: 760.15}
+  - {text: "If I had known this, I wouldn't have voted for him, because definitely this wasn't what I voted for.", start: 760.33, end: 764.43}
+  - {text: "Mr. President, some of your immigration enforcement efforts have gone too far.", start: 764.71, end: 768.77}
+  - {text: "Ismael is far from the only person in Florida to experience buyer's remorse over President Trump.", start: 768.77, end: 774.23}
+  - {text: "Cuban American congresswoman Maria Elvira Salazar recently released a video filmed outside the White House in which she distanced herself from his draconian deportation policy, saying it had gone too far.", start: 774.79, end: 787.47}
+  - {text: "Her close association with Trump on immigration could potentially cost Salazar her congressional seat.", start: 788.17, end: 793.81}
+  - {text: "Last year, President Trump revoked temporary humanitarian parole to about 300 ,000 Cubans.", start: 793.81, end: 800.21}
+  - {text: "Good evening, I'm Elliott Rodriguez and I have some breaking news to tell you.", start: 800.67, end: 804.59}
+  - {text: "It looks like we won tonight.", start: 805.31, end: 807.41}
+  - {text: "Elliott Rodriguez, the Democratic Party's challenger to Congresswoman Salazar for Florida's 27th congressional district, used to be a television anchor with CBS News.", start: 808.68, end: 818.96}
+  - {text: "A recognizable face to the largely Cuban American electorate in his district, he's built a campaign on the high cost of living in Miami and opposing Trump's deportation policy.", start: 819.64, end: 829.78}
+  - {text: "He's a real threat to Congresswoman Salazar, as Cubans in Florida, for so long the most protected of diasporas in the US, have found they're now just as vulnerable to deportation as any other.", start: 830.24, end: 842.46}
+  - {text: "Will Grant, still to come in this podcast.", start: 842.96, end: 848.24}
+  - {text: "Characters and histories of supernatural horror stumble upon very old things that have survived into the present day.", start: 848.66, end: 854.18}
+  - {text: "Sinister fairies, occult conspiracies, angelic guardians and strange rituals.", start: 855.21, end: 859.89}
+  - {text: "To celebrate Halloween, get ready to be spooked by the work of the fantasy and horror writer Arthur Macon.", start: 860.39, end: 866.65}
+  - {text: "This is the Global News Podcast.", start: 873.74, end: 875.04}
+  - {text: "Police in Scotland have confirmed that they're looking into the time that Andrew Mountbatten -Windsor spent with Jeffrey Epstein and Gillain Maxwell at the Balmoral estate in Aberdeenshire.", start: 875.90, end: 888.50}
+  - {text: "Epstein, who was a convicted sex offender, died in prison in the US in 2019.", start: 889.06, end: 894.68}
+  - {text: "Gillain Maxwell is serving a 20 -year sentence for sex trafficking.", start: 895.42, end: 899.08}
+  - {text: "The police force said its inquiries were evidence -led but were at a very early stage.", start: 899.72, end: 904.98}
+  - {text: "Our royal correspondent, Sean Cocklin reports.", start: 905.46, end: 907.52}
+  - {text: "Police Scotland said it had received information and was carrying out active inquiries into the time spent by the sex offender Jeffrey Epstein and his close companion Gillain Maxwell at Balmoral,", start: 908.12, end: 919.44}
+  - {text: "where there were guests of the then Prince Andrew.", start: 919.94, end: 921.82}
+  - {text: "According to the Daily Express, the inquiry relates to claims that women were trafficked to the royal estate.", start: 922.36, end: 927.58}
+  - {text: "It's known that in September 2006, Mr Mountbatten -Windsor and Maxwell had flown to Edinburgh on Epstein's private jet.", start: 928.26, end: 936.10}
+  - {text: "Earlier this year, Police Scotland asked the public for information about that flight.", start: 936.70, end: 941.16}
+  - {text: "There had been other visits by Epstein to Balmoral, including one when he was pictured with Maxwell on a shooting trip in 1999, and he had", start: 941.72, end: 950.30}
+  - {text: "also visited Mr Mountbatten -Windsor at Windsor Castle.", start: 950.30, end: 953.70}
+  - {text: "The former prince was arrested in February by Thames Valley Police on suspicion of misconduct in public office.", start: 954.48, end: 960.58}
+  - {text: "Thames Valley was one of about nine police forces believed to making inquiries about Mr Mountbatten -Windsor and Epstein, following information in the files released by the US Department of Justice.", start: 961.14, end: 972.66}
+  - {text: "Mr Mountbatten -Windsor has strongly denied all wrongdoing.", start: 973.22, end: 976.70}
+  - {text: "The company behind the latest Call of Duty video game says it will remove footage of a Halloween crowd crush in the South Korean capital Seoul in 2022, in which 159 people were killed.", start: 977.28, end: 992.73}
+  - {text: "The latest addition of the game includes real images of that deadly crush, including people being treated by emergency workers and bodies being carried away.", start: 993.29, end: 1001.51}
+  - {text: "Buried families said they were appalled to see the footage.", start: 1001.51, end: 1005.29}
+  - {text: "Activision, which makes Call of Duty, has since apologised and confirmed the images would be removed in an update of the game next month.", start: 1005.89, end: 1013.95}
+  - {text: "The BBC's Sophie Jong has been following the story.", start: 1014.43, end: 1017.23}
+  - {text: "The controversy centres around this opening sequence of the latest Call of Duty video game, which was released last week globally, and the game depicts a fictional North Korean invasion of South Korea, and to portray the aftermath of that fictional attack,", start: 1017.73, end: 1031.91}
+  - {text: "the game uses a few seconds of real footage of the rescue effort following the 2022 E -101 crowd crush, when more than 100 ,000 people gathered for Halloween celebrations,", start: 1032.45, end: 1042.19}
+  - {text: "and people got trapped in this narrow alleyway causing a crowd search, which eventually ended up killing almost 160 people.", start: 1042.91, end: 1049.69}
+  - {text: "And the footage includes images of a person performing CPR, bodies lying in the street, and a victim being carried away on a stretcher.", start: 1050.23, end: 1057.61}
+  - {text: "The company has been criticised for using some real footage from that terrible disaster.", start: 1058.22, end: 1063.45}
+  - {text: "What's been the reaction from relatives of those people who died in that crush?", start: 1063.99, end: 1068.35}
+  - {text: "The Victims Families Association has come out and said it is highly inappropriate for the company to use real scenes from such a tragedy in a video game made for entertainment,", start: 1069.25, end: 1079.19}
+  - {text: "and they had demanded the company to remove all footage of the crush from the video game.", start: 1079.47, end: 1083.89}
+  - {text: "So the company behind the Call of Duty series, which is Activision, has said that it never had any intention of evoking the E -101 disaster", start: 1084.35, end: 1091.65}
+  - {text: "or downplaying the pain caused by the tragedy.", start: 1091.65, end: 1094.19}
+  - {text: "So it has apologised to the bereaved families and victims, and said that it will remove all footage of the crush from the video game in its next game update, which is happening on November the 12th.", start: 1094.71, end: 1105.33}
+  - {text: "And the Victims Family Association has welcomed the decision after the announcement, but they have told me that they've never gotten a direct contact or apology from the company itself.", start: 1105.55, end: 1114.05}
+  - {text: "Now I understand this is not the only controversy surrounding this particular video game.", start: 1114.55, end: 1118.93}
+  - {text: "It isn't. So when it first got released, it faced criticism because it depicts a fictional North Korean invasion of South Korea.", start: 1119.31, end: 1126.47}
+  - {text: "And that is highly contentious and sensitive issue because the two Koreas are technically at war.", start: 1126.97, end: 1132.67}
+  - {text: "So even though the invasion of South Korea in this latest game is fictional, the unresolved conflict on the Korean Peninsula is a very much real", start: 1133.27, end: 1141.95}
+  - {text: "concern for South Koreans living in the country.", start: 1141.95, end: 1144.67}
+  - {text: "Sophie Jong. It's described as one of the most controversial films ever made, so much so that censorship boards in the UK and the United States restricted it from being watched in its original form, until now that is.", start: 1145.05, end: 1158.66}
+  - {text: "Ken Russell's 1971 film The Devils is returning to cinemas, so audiences can watch the entire film for the first time in half a century.", start: 1159.26, end: 1167.48}
+  - {text: "But are there lines you simply can't cross on screen?", start: 1167.48, end: 1171.22}
+  - {text: "Gabriel Purcell Davis reports.", start: 1171.86, end: 1173.40}
+  - {text: "The devil is a liar and the father of lies.", start: 1174.14, end: 1177.55}
+  - {text: "Ken Russell's historical drama The Devils follows the 17th century French town of Lodon and its Prince -Bishop Father Grandier, a debonair priest played by Oliver Reed.", start: 1178.11, end: 1187.45}
+  - {text: "If you wish to destroy me, then destroy me.", start: 1187.61, end: 1189.67}
+  - {text: "Accused me of exposing political chicanery and the evil's other states and I will plead guilty.", start: 1190.50, end: 1195.20}
+  - {text: "When it was released in 1971, many of its scenes were considered too vulgar for audiences.", start: 1195.20, end: 1199.92}
+  - {text: "The film was banned by local government councils and authorities across the UK, so how is a 4K restoration now returning to UK cinemas?", start: 1200.26, end: 1207.68}
+  - {text: "He described the film for me as being a political film, and it was about the politicisation of religious hysteria.", start: 1208.04, end: 1213.68}
+  - {text: "Journalist and film critic Mark Comode has been a lifelong fan of Russell's work and helped put together this restoration.", start: 1213.82, end: 1218.62}
+  - {text: "In 1995, I met Ken Russell and I told him how much I loved The Devils, and he said, yeah, but the version of The Devils that you've seen is damaged goods.", start: 1218.86, end: 1226.58}
+  - {text: "And I was making a documentary about the film, and I was introduced to a guy, Tim Everett, at a Warner UK.", start: 1226.80, end: 1232.62}
+  - {text: "He was an archivist and I described for him the sequence that Ken was looking for.", start: 1232.88, end: 1235.94}
+  - {text: "And the next thing was he rang me.", start: 1236.24, end: 1237.64}
+  - {text: "He said, I'm holding a reel of film and it's got on it a bunch of nuns and a really big crucifix.", start: 1237.72, end: 1242.68}
+  - {text: "And I rang Ken and said, Ken, we found the missing sequence.", start: 1242.80, end: 1246.08}
+  - {text: "But what man can face arraignments on the idiocy of youth?", start: 1246.28, end: 1248.92}
+  - {text: "Old love letters and other pathetic objects stuffed in drawers or on the bottom of cupboards.", start: 1249.42, end: 1254.24}
+  - {text: "Things kept for a day when he would need to be reminded that he was once loved.", start: 1254.68, end: 1258.96}
+  - {text: "For decades, The Devils was a holy grail for film enthusiasts with a reputation built partly on its missing scenes and the controversy of its subject matter.", start: 1259.18, end: 1266.94}
+  - {text: "But how will it play for a modern audience?", start: 1267.12, end: 1268.80}
+  - {text: "My name is Dr Brian Hoyle, senior lecturer in film studies at the University of Dundee.", start: 1269.22, end: 1273.60}
+  - {text: "I think most modern audiences will not know what hit them.", start: 1273.82, end: 1276.62}
+  - {text: "The Devils is kind of the culmination of his best period of the 60s and early 70s.", start: 1276.62, end: 1281.18}
+  - {text: "He makes films that absolutely involve all the arts at the same time.", start: 1281.24, end: 1285.56}
+  - {text: "I said it starts with a court mask, its theater and its dance.", start: 1285.64, end: 1288.22}
+  - {text: "The film has two composers.", start: 1288.56, end: 1290.02}
+  - {text: "You know, I don't think I can name a filmmaker today who sees cinema as such a total art form.", start: 1290.18, end: 1295.36}
+  - {text: "It's a revelation. They won't see something dated.", start: 1295.60, end: 1297.48}
+  - {text: "They'll see something that might pique their interest in what cinema can be.", start: 1297.76, end: 1302.38}
+  - {text: "Ken Russell's daughter Vicky was eight years old when her father was working on the project.", start: 1302.66, end: 1306.30}
+  - {text: "I asked her growing up how her father spoke about the film before his passing in 2011.", start: 1306.30, end: 1311.24}
+  - {text: "It's similar to Van Gogh.", start: 1311.60, end: 1312.94}
+  - {text: "They don't understand him, but they'll understand when I'm gone.", start: 1313.10, end: 1315.74}
+  - {text: "It's redemption. We can't believe we're overwhelmed by this snowball of popularity and love for the film.", start: 1316.26, end: 1323.70}
+  - {text: "I mean, I just hope they can feel it somewhere, my home and dad.", start: 1323.88, end: 1326.96}
+  - {text: "Do you think we're ready for a film like this to make a comeback?", start: 1327.20, end: 1329.66}
+  - {text: "I think some will be shocked.", start: 1329.92, end: 1331.38}
+  - {text: "Some will think it's blasphemous, but the people that can see the bigger picture can see that this is what's happening still.", start: 1331.76, end: 1338.52}
+  - {text: "And this is just another way of expressing humanity and all its craziness.", start: 1338.98, end: 1344.68}
+  - {text: "Since its release in 1971, the Devils has asked us a question.", start: 1345.00, end: 1348.48}
+  - {text: "Is there a limit to what you should be allowed to depict on the screen?", start: 1348.84, end: 1352.04}
+  - {text: "Now, 55 years on, Ken Russell's The Devils is finally getting another chance to make its case.", start: 1352.56, end: 1358.06}
+  - {text: "That maybe sometimes a bit of theatrics and debauchery is exactly what you need to get your point across.", start: 1358.42, end: 1364.26}
+  - {text: "Gabriel Purcell Davis there.", start: 1364.72, end: 1366.32}
+  - {text: "Throughout the world, revelers and partygoers will be putting on spooky costumes and disguises to mark Halloween, the annual celebration of horror and the supernatural.", start: 1367.14, end: 1375.58}
+  - {text: "We're going to get into that mood now by hearing about a new book that explores the life and career of one of the most interesting writers of English fantasy", start: 1376.26, end: 1383.58}
+  - {text: "and horror fiction of the late 19th and early 20th century.", start: 1383.58, end: 1387.42}
+  - {text: "His name was Arthur Macken, and his writing has inspired the US author Stephen King and the Mexican filmmaker Guillermo del Toro amongst many others.", start: 1387.42, end: 1396.68}
+  - {text: "The book is called Weird, A Life of Arthur Macken in Six Unearthly Books.", start: 1397.22, end: 1401.60}
+  - {text: "In these reflections, its author, Felix Taylor, explains why he was drawn to the life and work of Arthur Macken.", start: 1402.14, end: 1407.74}
+  - {text: "Born in Wales in 1863, Arthur Macken has been described as the last romantic, the last Victorian and the last of the London visionaries.", start: 1408.12, end: 1415.98}
+  - {text: "Macken felt at home in the past and disliked the modern world for its noise and its busyness.", start: 1416.83, end: 1421.57}
+  - {text: "Characters in his stories of supernatural horror stumble upon very old things that have survived into the present day.", start: 1422.17, end: 1427.85}
+  - {text: "Sinister fairies, occult conspiracies, angelic guardians and strange rituals.", start: 1429.57, end: 1434.11}
+  - {text: "But I wrote this new biography of Macken because I think he was also the first of many things.", start: 1435.08, end: 1439.12}
+  - {text: "He looked backwards and forwards at the same time.", start: 1439.82, end: 1442.12}
+  - {text: "Macken was one of the earliest writers of what we now call weird fiction.", start: 1443.26, end: 1446.84}
+  - {text: "A style of horror that disconcerts us and forces us to question the very nature of our place in the world.", start: 1447.22, end: 1452.54}
+  - {text: "Many of his best weird stories were written in the decade and 1890s.", start: 1453.64, end: 1457.36}
+  - {text: "Most famously, The Great God Pan, in which to see the God Pan is to catch a terrifying glimpse of the spiritual beyond.", start: 1457.62, end: 1463.82}
+  - {text: "Macken could also be very experimental in his style.", start: 1465.32, end: 1467.84}
+  - {text: "Listen to this from a story called The White People about a young girl venturing deep into a fairy world.", start: 1468.32, end: 1473.42}
+  - {text: "I was in the queerest country I had seen, stranger even than the hill of the gray rocks.", start: 1473.42, end: 1479.14}
+  - {text: "It looked as if earth children had been playing there with their spades, as it was all hills and hollows and castles and walls made of earth and covered with grass.", start: 1479.92, end: 1489.88}
+  - {text: "There were two mounds like big beehives, round and great and solemn, and then hollow basins, and then a steep mounting wall like the ones I saw once by the seaside", start: 1490.98, end: 1503.18}
+  - {text: "where the big guns and the soldiers were.", start: 1503.18, end: 1505.00}
+  - {text: "I nearly fell into one of the round hollows.", start: 1505.56, end: 1507.80}
+  - {text: "It went away from under my feet so suddenly, and I ran fast down the side and stood at the bottom and looked up.", start: 1508.46, end: 1514.98}
+  - {text: "It was strange and solemn to look up.", start: 1516.10, end: 1518.20}
+  - {text: "There was nothing but the gray, heavy sky and the sides of the hollow.", start: 1519.15, end: 1523.41}
+  - {text: "Everything else had gone away, and the hollow was the whole world.", start: 1524.38, end: 1528.38}
+  - {text: "And I thought that at night it must be full of ghosts and moving shadows and pale things when the moon shone down to the bottom at the dead of night, and the wind wailed up above.", start: 1529.13, end: 1541.12}
+  - {text: "It was so strange and solemn and lonely, like a hollow temple of dead heathen gods.", start: 1542.43, end: 1548.89}
+  - {text: "What motivated him to write in this way?", start: 1552.40, end: 1554.62}
+  - {text: "As a child, Macken was awed by the sense of mystery and terror in the landscape around his home in South Wales.", start: 1555.44, end: 1560.68}
+  - {text: "The names of the wild hills and rivers, usk, lansaw, the holy mountain, too in Barlam, the old forest of Wentwood, with its Roman road running through it, were like magic spells to his ears.", start: 1561.26, end: 1572.04}
+  - {text: "When he moved to London in the 1880s, he took with him this feeling of awe, and began to try and render it in fiction.", start: 1572.86, end: 1578.28}
+  - {text: "I find Macken so interesting not only because he wrote about some very unusual subjects, but because of how he saw himself as a writer.", start: 1579.37, end: 1586.11}
+  - {text: "Popular authors like H.", start: 1586.69, end: 1588.13}
+  - {text: "G. Wells or Arthur Conan Doyle just got on and wrote book after book, but for Macken the very act of writing could be agonising.", start: 1588.17, end: 1594.43}
+  - {text: "Sometimes he did not even seem to care whether people bought his books.", start: 1595.19, end: 1598.09}
+  - {text: "He often threw things away and once spent two years writing a romance about the holy grail, the cup that Christ drank from during the last supper, that he knew publishers would not want.", start: 1598.75, end: 1608.31}
+  - {text: "But his work, originally so distasteful to reviewers, was discovered by American book collectors in the 1920s and praised as a rare and subtle art.", start: 1609.01, end: 1617.17}
+  - {text: "Now, like the fairies and folklore of his weird tales, Macken's work has survived to the present day to mystify and unnerve new audiences.", start: 1617.95, end: 1625.25}
+  - {text: "Felix Taylor, author of the new book Weird, a life of Arthur Macken in six unearthly books.", start: 1630.08, end: 1636.08}
+  - {text: "And that is all from us for now, but if you want to get in touch, you can email us at globalpodcast .bbc .co .uk.", start: 1638.66, end: 1645.44}
+  - {text: "You can also find us on x at BBC World Service.", start: 1645.96, end: 1648.60}
+  - {text: "Use the hashtag Global News Pod.", start: 1648.76, end: 1650.68}
+  - {text: "And don't forget our sister podcast, The Global Story, which goes in depth and beyond the headlines on one big story.", start: 1651.40, end: 1657.28}
+  - {text: "This edition of the Global News Podcast was mixed by Graham White, the producer was Emma Joseph, the editor is Karen Martin.", start: 1657.74, end: 1663.94}
+  - {text: "I'm Nick Miles and until next time, goodbye.", start: 1664.42, end: 1666.46}
+---
