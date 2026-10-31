@@ -44,6 +44,11 @@
     ],
     "extra": [
       {
+        "title": "Original CMAME mitral valve: historical 96-grid reproduction",
+        "url": "/posts/mv-cmame96-reproduction-20261031/",
+        "description": "Completed 1 s RTX4090 run, four-panel motion and pressure/flow, historical parameters, portable build and P2-J warnings."
+      },
+      {
         "title": "Original CMAME aortic valve: full-run reproduction",
         "url": "/posts/av-cmame-reproduction-20261030/",
         "description": "Completed 1.635 s run, four-panel video, portable build process and numerical-quality limits; a separate AV baseline for FDM migration."

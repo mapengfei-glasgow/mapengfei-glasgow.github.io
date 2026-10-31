@@ -1,5 +1,15 @@
 [
   {
+    "id": "mv-cmame96-full",
+    "title": "Original CMAME MV: completed 1 s, historical 96 grid",
+    "group": "mitral-valve",
+    "src": "/mv-cmame96-20261031/mv-four-panel.mp4",
+    "poster": "/mv-cmame96-20261031/opening.png",
+    "study": "/posts/mv-cmame96-reproduction-20261031/",
+    "description": "Atrial/ventricular leaflet views, axial velocity and synchronized boundary pressure with reconstructed section flow. Saved motion reaches 0.995005 s.",
+    "note": "96 × 96 × 192 · dt=5e-6 s · beta=1e8 · RTX4090. Exit 0; local negative P2 quadrature J remains. Completion is not numerical validation."
+  },
+  {
     "id": "av-cmame-full",
     "title": "Original CMAME AV: completed 1.635 s run",
     "group": "aortic-valve",

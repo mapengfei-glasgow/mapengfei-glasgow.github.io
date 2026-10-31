@@ -1,0 +1,42 @@
+{
+  "active_run": false,
+  "source_commit": "81f1af089af9f52ea93bc4e5e985d62c44f60fc9",
+  "run_status": "ended",
+  "grid": [
+    96,
+    96,
+    192
+  ],
+  "dt": 5e-06,
+  "saved_range_s": [
+    5e-06,
+    0.995005
+  ],
+  "selected_paired_states": 52,
+  "frozen_solid_states": 200,
+  "stride": 4,
+  "leaflets": [
+    7,
+    8
+  ],
+  "support": [
+    5,
+    6
+  ],
+  "chordae_papillary": [
+    10,
+    11,
+    12
+  ],
+  "inlet": "anatomical low-z (left atrial side),pressure0",
+  "outlet": "high-z ventricle side, applied pressure=-input waveform",
+  "flux": "Reconstructed from saved VTI point w; linear z interpolation to6.5cm, circular mask radius3.8cm center5,5, sum*w*dx*dy; positive+z. Not native MAC flux or exact conservation measurement.",
+  "slice": "y5cm linearly interpolated with original VTI origin",
+  "J": "jmin/jmax are linear visualization ratios; p2_jmin/p2_jmax are actual assembly quadrature extrema from run log",
+  "nonpositive_visual_J_frames": 48,
+  "velocity_abs_max": 275.5942687988281,
+  "pressure": "Actual high-z aperture boundary pressure from negative of input waveform, mmHg; low-z pressure0. No Windkessel.",
+  "geometry": "actual scale, original connectivity and material labels",
+  "last_p2_jmin": -1.621490391956398,
+  "last_papillary_umax_cm": 0.09380126274145625
+}

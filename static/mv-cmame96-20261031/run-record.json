@@ -1,0 +1,74 @@
+{
+  "source_commit": "81f1af089af9f52ea93bc4e5e985d62c44f60fc9",
+  "run": "historical96_full_20261031",
+  "target_T_s": 1.0,
+  "Nt": 200000,
+  "dt_s": 5e-06,
+  "fluid_grid": [
+    96,
+    96,
+    192
+  ],
+  "domain_cm": [
+    10,
+    10,
+    16
+  ],
+  "tethering_beta": 100000000.0,
+  "hardware": "NVIDIA GeForce RTX4090",
+  "cuda_arch": 89,
+  "exit_code": 0,
+  "started_utc": "2026-10-30T20:47:44Z",
+  "finished_utc": "2026-10-31T01:03:25Z",
+  "elapsed_wall_seconds": 15341.0,
+  "tools": {
+    "nvcc": [
+      "nvcc: NVIDIA (R) Cuda compiler driver",
+      "Copyright (c) 2005-2024 NVIDIA Corporation",
+      "Built on Tue_Oct_29_23:50:19_PDT_2024",
+      "Cuda compilation tools, release 12.6, V12.6.85",
+      "Build cuda_12.6.r12.6/compiler.35059454_0"
+    ],
+    "gcc": [
+      "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0",
+      "Copyright (C) 2023 Free Software Foundation, Inc.",
+      "This is free software; see the source for copying conditions.  There is NO",
+      "warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.",
+      ""
+    ],
+    "cmake": [
+      "cmake version 3.28.3",
+      "",
+      "CMake suite maintained and supported by Kitware (kitware.com/cmake)."
+    ]
+  },
+  "reference_vertices": 188557,
+  "reference_tetrahedra": 734645,
+  "finite_element_order": 2,
+  "flow_type": "Tube1",
+  "saved_state_count": 200,
+  "video_selected_state_count": 52,
+  "video_saved_range_s": [
+    5e-06,
+    0.995005
+  ],
+  "input_sha256": {
+    "pressure.txt": "fb20126fd2a8b19165ad343cb8cb6bbbe248a8da091bddc563600c7bbb95124d",
+    "mesh/mesh.h5": "10ae7c54a418b6140029fd584152448eefb0d283027e16c2f20b31b9b215f830",
+    "mesh/materials.xml": "3c8676cc0e80745436543aea62c4e6673fddbbedf3577ffc468876b0637504b7",
+    "mesh/fiber_0.xml": "837c9e09d3f103daee74f2a56a96010b235a6e12393c29f027cd809e8fd8cff9",
+    "mesh/fiber_2.xml": "95e5cd5ab78fcd26d130a8a9a764ad243be84feb4aba50d299e0e8fd8c4b3724",
+    "mesh/fiber_1.xml": "23becb5369525c04404ad5f8cb26e9a108ba4be64f696eefc570c0e8e49b09d6",
+    "mesh/mesh.xdmf": "65180c3c749750ab48d08a31d904edd4bee7df6f916ee23b40917148e4d9896b",
+    "mesh/boundaries.xml": "853eea449ff6e92aac5db81c8937da4650cb705bad438b4e72daade85cfaf74e"
+  },
+  "binary_sha256": {
+    "build/gfem_main_mv": "308a6328cf574b2781f9c5131e1cedfce586e7a425abbf4c97580b3844740d04",
+    "build/kokkos_lib/lib/libkokkos_lib.so": "6aae75414085f403283fc114b60c87a060fff7d3b321ecd8f91964c3f55722d4"
+  },
+  "last_saved_papillary_umax_cm": 0.09380126274145625,
+  "last_saved_global_P2_J_min": -1.621490391956398,
+  "quality_status": "Run completed; negative P2 quadrature J remains; no all-elements validity or convergence claim",
+  "diagnostics": "Read-only warning at saved states; no negativeJ stop, hard-node reset, material softening or J clipping",
+  "reproduction_bundle_sha256": "653c28c6e2e282144f5a8ab2d0406683b2434639d58f4bc7b993d3fd36386296"
+}

@@ -1,0 +1,50 @@
+{
+  "REPRODUCTION.md": {
+    "sha256": "6e1fc64bfb6a3bb87ae7acb69647bdc58107ac51b56cb10b04b3ef40e0018519",
+    "bytes": 6317
+  },
+  "TROUBLESHOOTING.md": {
+    "sha256": "fab68a4390a520eb2f743d3b14482205ce36bba8a991bad316f0b9517c9bc697",
+    "bytes": 1898
+  },
+  "closure.png": {
+    "sha256": "d3ce36d6b9095dfde463a2682f52eb3391ebb867ee896e25bce1ef93dc5bec5b",
+    "bytes": 649047
+  },
+  "final.png": {
+    "sha256": "c4e29c3926c66086ae1aea4effd91ced65abe1f9e222418360ab4b8bb9580069",
+    "bytes": 612163
+  },
+  "full-config.template.json": {
+    "sha256": "4f115a2ffa1b91b12affe54f7b71ec85d0d2ed5fb7a38aa54056d1562a1c7ecb",
+    "bytes": 655
+  },
+  "mv-four-panel.mp4": {
+    "sha256": "c3bebc11ea67ff328e980b7ce3f283fbddd32a3f6f8edaca0ed658ce4ee088f9",
+    "bytes": 1312688
+  },
+  "opening.png": {
+    "sha256": "8cb43f7fcbebabde909c03e6e16d5ac9a5391eceb062a9d0367cfeb6ca68ebe6",
+    "bytes": 575810
+  },
+  "pressure-flow.csv": {
+    "sha256": "aa1db4edb035749e6eb2216be4d156bdb21268bad2c767018559be42c237224c",
+    "bytes": 89968
+  },
+  "quality-samples.csv": {
+    "sha256": "7b1ff3893f75a1b54ec50f25aaf409a27a6ba6e73af01c05ee37fc2f40b77b07",
+    "bytes": 7028
+  },
+  "run-record.json": {
+    "sha256": "8161a42c6503a6e0b67ce01a4be1daa601d1926d18c983ca2b35dd5711f5702c",
+    "bytes": 2891
+  },
+  "video-input.json": {
+    "sha256": "29f2cb10be7f4e830f1f1e1a78950b0cc405ca01f9d0fa72739d88f9ce5a93f5",
+    "bytes": 1301
+  },
+  "video-provenance.json": {
+    "sha256": "7b1a78e22d6d2ff4bbae345f7e6775fce8c9c948e1b5f8b07bd06c1e396f0875",
+    "bytes": 905
+  }
+}

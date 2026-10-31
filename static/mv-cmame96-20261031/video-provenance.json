@@ -1,0 +1,40 @@
+{
+  "source": "mv-historical96-video-20261031",
+  "simulation_range_s": [
+    5e-06,
+    0.995005
+  ],
+  "saved_states": 52,
+  "rendered_frames": 181,
+  "fps": 15,
+  "interpolation": "linear between saved displacement and velocity snapshots; no extrapolation",
+  "geometry_motion_scale": 1,
+  "inlet_z": "low",
+  "configuration_label": "MV CMAME-2 81f1af0 | historical96 | beta1e8 | dt5e-6",
+  "run_state": "ended",
+  "flow": "Reconstructed VTI point-velocity flux at z6.5cm within circular radius3.8cm; positive+z; not native discrete MAC flux",
+  "flow_plane_z_cm": 6.5,
+  "slice_y_cm": 5.0,
+  "lumen_radius_cm": 3.8,
+  "axis_center_xy_cm": [
+    5.0,
+    5.0
+  ],
+  "velocity_color_limit_cm_s": 200.0,
+  "velocity_color_clipping": true,
+  "cell_marker_groups": {
+    "leaflets": [
+      7,
+      8
+    ],
+    "rigid": [
+      5,
+      6
+    ],
+    "chordae": [
+      10,
+      11,
+      12
+    ]
+  }
+}
